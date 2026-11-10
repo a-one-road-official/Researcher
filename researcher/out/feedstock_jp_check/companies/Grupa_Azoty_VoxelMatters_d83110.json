@@ -1,0 +1,494 @@
+{
+ "name": "Grupa Azoty — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:powder-manufacturer",
+ "researched_at": "2026-11-09T23:57:11.400386+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookGrupa Azoty | Tarnów - FacebookGrupa Azoty Compounding - FacebookGrupa Azoty - Zachęcamy do śledzenia relacji #LIVE z ...Klub Honorowych Dawców Krwi PCK przy Grupie Azoty S.A.Grupa Azoty - Byliśmy obecni podczas spotkania „Polska ...NSZZ Pracowników Grupy Azoty SA, Koło Emerytów i Rencistów Unlock the Future of Metal Additive Manufacturing with VoxelMatters! VoxelMatters Res",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/about/advertise/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/powder-manufacturer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/industry-2/companies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nowetechnologie.grupaazoty.com/en/filamenty-techniczne",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/AkzoNobel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://osoyoo.com/ja/2018/09/20/microbit-basic-tutorial-9-banana-keyboard/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dprint.or.jp/flash/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trustmate.io/ja/company/7dc2306f-47f5-4644-84b8-af82f234d32a/product/1020",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://3dprinter.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.poly-maker.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/collections/filament",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.3dsystems.com/materials/pellet-materials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apple-tree.shop/?mode=cate&cbid=1729720&csid=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/powder-manufacturer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/methodology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/farsoon-partners-japan-3d-printer-co-ltd-new-market/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/powder-manufacturer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.farsoon-gl.com/news/solize-partners-japan-3d-printer-and-farsoon-technologies-announces-3-way-strategic-partnership-to-advance-large-format-lpbf-solutions-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E9%80%B1%E5%88%8A%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A-2026%E5%B9%B411%E6%9C%8819%E6%97%A5%E5%8F%B7-No-1970-%E9%80%B1%E5%88%8A%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E7%B7%A8%E9%9B%86%E9%83%A8/dp/B0HNSMCCCL",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/Office2024-Latitude%E3%80%90MS-Business%E3%80%91-Professional-%E3%83%AF%E3%82%B8%E3%83%A5%E3%83%B3%E3%81%AEWi-Fi/dp/B0GCDQ35T3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.monotaro.com/g/00253777/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00683943/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/04106378/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/grupa-azoty-sa/372140560",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://grupaazoty.com/en/investor-relations/news",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/database/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Grupa Azoty — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/about/advertise/",
+    "https://www.voxelmatters.directory/company-category/powder-manufacturer/",
+    "https://www.voxelmatters.com/category/industry-2/companies/",
+    "https://nowetechnologie.grupaazoty.com/en/filamenty-techniczne",
+    "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "https://www.voxelmatters.directory/",
+    "https://www.thorlabs.co.jp/ja/distributors",
+    "https://www.voxelmatters.com/category/3d-printing-services/am-factories/",
+    "https://www.connectpositronic.com/jp/%E4%BB%A3%E7%90%86%E5%BA%97/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Grupa Azoty — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://en.wikipedia.org/wiki/AkzoNobel",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://osoyoo.com/ja/2018/09/20/microbit-basic-tutorial-9-banana-keyboard/",
+    "https://www.instagram.com/popular/pokemon-golf-headcovers/",
+    "https://primarymathshub.com/",
+    "https://www.toyo.co.jp/material/maker/detail/matesy.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Grupa Azoty — VoxelMatters 日本 販売",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://3dprint.or.jp/flash/",
+    "https://trustmate.io/ja/company/7dc2306f-47f5-4644-84b8-af82f234d32a/product/1020",
+    "https://3dprinter.co.jp/",
+    "https://aspect.jpn.com/",
+    "https://www.3ds.com/ja/newsroom/press-releases/dassault-systemes-and-xometry-partner-offer-instant-part-production-design-environment",
+    "https://www.mazak.com/jp-ja/products/am/",
+    "https://www.aichi-sangyo.co.jp/products/lpw/products.html",
+    "https://www.act-pr.co.jp/report_detail/id=105",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Grupa Azoty — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.poly-maker.jp/",
+    "https://skhonpo.com/collections/filament",
+    "https://ja.3dsystems.com/materials/pellet-materials",
+    "https://apple-tree.shop/?mode=cate&cbid=1729720&csid=0",
+    "https://systemcreate-inc.co.jp/products/modular",
+    "https://www.amazon.co.jp/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E7%B4%A0%E6%9D%90/b?ie=UTF8&node=3489859051",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://www.solidyard.jp/",
+    "https://search.rakuten.co.jp/search/mall/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/",
+    "https://skhonpo.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Grupa Azoty — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/company-category/powder-manufacturer/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.voxelmatters.com/farsoon-partners-japan-3d-printer-co-ltd-new-market/",
+    "https://www.voxelmatters.group/",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://www.upnano.com/distributors/",
+    "https://www.exone.com/en/about-us/locations/",
+    "https://www.3dnatives.com/en/events/tct-japan/",
+    "https://grupaazoty.com/en/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Grupa Azoty — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/company-category/powder-manufacturer/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.farsoon-gl.com/news/solize-partners-japan-3d-printer-and-farsoon-technologies-announces-3-way-strategic-partnership-to-advance-large-format-lpbf-solutions-in-japan/",
+    "https://www.upnano.com/distributors/",
+    "https://www.exone.com/en/about-us/locations/",
+    "https://partners.solize.com/en/manufacturing",
+    "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "https://www.metal-am.com/articles/the-current-status-and-outlook-for-metal-additive-manufacturing-in-japan/",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp Grupa Azoty — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/週刊ファミ通-2026年11月19日号-No-1970-週刊ファミ通編集部/dp/B0HNSMCCCL",
+    "https://www.amazon.co.jp/Office2024-Latitude【MS-Business】-Professional-ワジュンのWi-Fi/dp/B0GCDQ35T3",
+    "https://r.amazon.co.jp/",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://business.amazon.co.jp/ja/solutions/payment-options/pay-by-invoice",
+    "https://shigoto.amazon.co.jp/",
+    "https://pay.amazon.co.jp/signin"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Grupa Azoty — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/g/00253777/",
+    "https://www.monotaro.com/g/00683943/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/g/04106378/",
+    "https://www.monotaro.com/g/00213503/",
+    "https://www.monotaro.com/p/7749/6246/",
+    "https://www.monotaro.com/p/1766/2383/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Grupa Azoty — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.zoominfo.com/c/grupa-azoty-sa/372140560",
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://grupaazoty.com/en/investor-relations/news",
+    "https://www.voxelmatters.report/database/",
+    "https://www.globaldata.com/company-profile/grupa-azoty-sa/",
+    "https://simplywall.st/stocks/pl/materials/wse-att/grupa-azoty-shares/news/grupa-azoty-sas-wseatt-biggest-owners-are-state-or-governmen",
+    "https://www.emis.com/php/company-profile/PL/Grupa_Azoty__Compounding__Sp_z_oo_en_4455353.html",
+    "https://manufacturing-journal.net/chemical-industry/3570-international-player-grupa-azoty",
+    "https://www.voxelmatters.directory/",
+    "https://en.wikipedia.org/wiki/Grupa_Azoty"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Grupa Azoty — VoxelMatters",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/diparururun",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/hirasawa_susumu/n/n13f1a23484be",
+    "https://note.com/masahiromineyama/n/n63700955d5f5"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Grupa Azoty — VoxelMatters",
+   "results": [
+    "https://x.com/Grupa_Azoty",
+    "https://x.com/voxelmatters",
+    "https://x.com/ga_pulawy",
+    "https://x.com/GrupaAzoty_ZAK",
+    "https://x.com/AzotyPolice",
+    "https://x.com/jocelynseip/status/2118260591680983528",
+    "https://x.com/RepJeffries/status/2117800972810330242"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Grupa Azoty — VoxelMatters",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Grupa Azoty — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/GrupaAzotySA/",
+    "https://www.facebook.com/AzotyCompounding/",
+    "https://www.facebook.com/story.php/?story_fbid=1247530477382985&id=100063781320287",
+    "https://www.facebook.com/hdkazoty/",
+    "https://www.facebook.com/GrupaAzotySA/posts/1105183184951049/",
+    "https://www.facebook.com/KlubSA/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Grupa Azoty — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/",
+    "https://www.voxelmatters.group/about/",
+    "https://www.voxelmatters.directory/company-category/space/",
+    "https://www.voxelmatters.com/voxelmatters-releases-report-on-the-future-of-additive-manufacturing-in-the-automotive-industry/",
+    "https://www.voxelmatters.group/consultancy/",
+    "https://www.voxelmatters.report/reports/",
+    "https://note.com/searchfield/m/md777a13925e9",
+    "https://additive-manufacturing-report.com/team/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Grupa Azoty — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.voxelmatters.report/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.com/events/ams-x/",
+    "https://www.voxelmatters.group/our-network/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.voxelmatters.directory/contact-us/",
+    "https://x.com/Grupa_Azoty",
+    "https://x.com/voxelmatters"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）"
+ }
+}

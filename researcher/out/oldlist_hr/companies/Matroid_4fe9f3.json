@@ -1,0 +1,1501 @@
+{
+ "name": "Matroid",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AI送信済み",
+ "researched_at": "2026-11-10T00:07:03.454676+00:00",
+ "official_url": "https://www.matroid.com/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2016 ( 2016 )",
+    "url": "https://en.wikipedia.org/wiki/Matroid,_Inc.",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Palo Alto, California",
+    "url": "https://en.wikipedia.org/wiki/Matroid,_Inc.",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Matroid’s inspection systems enable reliable safety-critical inspection with digital traceability, boosting quality control and ensuring product quality across manufacturing processes.",
+    "url": "https://www.matroid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Digitally monitor and validate manual inspection processes",
+    "url": "https://www.matroid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Matroid automatically validates that human operators follow standard operating procedures, reducing dependence on manual inspection by human inspectors.",
+    "url": "https://www.matroid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "https://www.matroid.com/wp-content/uploads/2025/04/bolt-torque-compressed.mp4",
+    "url": "https://www.matroid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trigger real-time alerts, analyze trends, and track objects with AI-driven visual inspection technology. Get detailed images, visual information, and insights that power continuous improvement of production processes.",
+    "url": "https://www.matroid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "VIDEO MANAGEMENT SYSTEM",
+    "url": "https://www.matroid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Record and search across thousands of streams with Matroid’s AI-native VMS. Generate training data for new applications from your video recordings.",
+    "url": "https://www.matroid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Visualize your production line with Matroid today",
+    "url": "https://www.matroid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Don't believe us? We can provide a custom demo on your vision problem today.",
+    "url": "https://www.matroid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SCALABLE VISION AI FOR ENTERPRISE",
+    "url": "https://www.matroid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Matroid enables non-programmers from all industries to detect things of interest in minutes without ever writing any code. Matroid’s no-code machine vision software is continuously evolving with the latest advanced technology in AI, simplifying inspection systems for industry experts.",
+    "url": "https://www.matroid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Matroid’s software works seamlessly with any image or video hardware. Whether you already have cameras in place or are starting fresh, we can help.",
+    "url": "https://www.matroid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Matroid's computer vision platform has allowed our production teams to",
+    "url": "https://www.matroid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "End-to-end enterprise solution",
+    "url": "https://www.matroid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Quick and easy training",
+    "url": "https://www.matroid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Update and improve detectors daily",
+    "url": "https://www.matroid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Get analytics from your video streams",
+    "url": "https://www.matroid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automated quality control that inspects, tracks, and alerts you when production issues occur",
+    "url": "https://www.matroid.com/computer-vision-for-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "https://www.matroid.com/wp-content/uploads/2025/04/General_Manufacturing_Compressed.mp4",
+    "url": "https://www.matroid.com/computer-vision-for-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Built with your QA expertise, automated with our computer vision technology. Leverage Matroid to ensure every product meets your rigorous quality inspection standards. Start catching known production defects with object detection and anomaly detection while finding new ones in minutes.",
+    "url": "https://www.matroid.com/computer-vision-for-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase Profitability",
+    "url": "https://www.matroid.com/computer-vision-for-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Intercept defects in the assembly process. Enable automated early detection of issues, removing costly and time-consuming reworks and RMAs.",
+    "url": "https://www.matroid.com/computer-vision-for-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Track and validate that every product, every batch, and every cycle follows SOP. Get notified instantly when mistakes occur. Save time spent on failure analysis by identifying assembly issues in minutes, automatically.",
+    "url": "https://www.matroid.com/computer-vision-for-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Production Efficiency",
+    "url": "https://www.matroid.com/computer-vision-for-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Gather cycle time data across the production line and make it traceable, connected by serial numbers. Highlight deviations to leverage for line and production improvements, automatically.",
+    "url": "https://www.matroid.com/computer-vision-for-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Enable continuous monitoring of processes, providing instant alerts in case of deviations, allowing for immediate corrective actions.",
+    "url": "https://www.matroid.com/computer-vision-for-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Promote greener smart manufacturing by optimizing resources, inventory management, and logistics. Minimize waste, improve worker safety, and align operations with eco-friendly practices using computer vision models and process automation.",
+    "url": "https://www.matroid.com/computer-vision-for-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "It automates inspection, defect detection, and process monitoring to improve quality and reduce waste.",
+    "url": "https://www.matroid.com/computer-vision-for-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Detectors can be trained to identify surface flaws, missing parts, incorrect assembly, or other product irregularities.",
+    "url": "https://www.matroid.com/computer-vision-for-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Can the system monitor production lines in real time?",
+    "url": "https://www.matroid.com/computer-vision-for-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, detectors process live video feeds from cameras on the line to provide immediate alerts when issues occur.",
+    "url": "https://www.matroid.com/computer-vision-for-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "How does this improve quality control?",
+    "url": "https://www.matroid.com/computer-vision-for-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Automated vision catches errors faster and more consistently than manual inspection, ensuring higher product standards.",
+    "url": "https://www.matroid.com/computer-vision-for-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "By identifying problems quickly, the system helps operators correct issues before they cause extended shutdowns.",
+    "url": "https://www.matroid.com/computer-vision-for-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "No, the platform works with existing camera systems and integrates with standard production hardware.",
+    "url": "https://www.matroid.com/computer-vision-for-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Can I monitor multiple production lines at once?",
+    "url": "https://www.matroid.com/computer-vision-for-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, detectors can measure and log process times, helping managers optimize efficiency.",
+    "url": "https://www.matroid.com/computer-vision-for-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Is the system adaptable to changing production needs?",
+    "url": "https://www.matroid.com/computer-vision-for-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, detectors can be retrained or updated as new products or processes are introduced.",
+    "url": "https://www.matroid.com/computer-vision-for-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Matroid’s computer vision platform has allowed our production teams to rapidly deploy highly advanced inspection solutions aiding in Mercedes’ commitment to world class quality.",
+    "url": "https://www.matroid.com/computer-vision-for-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Director of AI & Digital Product Development",
+    "url": "https://www.matroid.com/computer-vision-for-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Prior to installation of the Matroid computer vision system, SCM struggled to maintain a rate of inflated airbags above 25% within a day. Now the majority of our loading bays stay consistently at 100% inflated.",
+    "url": "https://www.matroid.com/computer-vision-for-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Automated manufacturing quality control that inspects, tracks, and alerts you when production issues occur",
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "https://www.matroid.com/wp-content/uploads/2025/05/Aerospace_Industry_Inner_Vid_.mp4",
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "https://www.matroid.com/wp-content/uploads/2024/11/MATROID_PROCEDURETORTION_3.mp4",
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Precision Beyond Human Limits",
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Production Efficiency",
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Gain real-time visibility into production cycles, detecting deviations, whether time-based or SOP-based, receiving real-time alert systems notifications the moment they occur. Improve throughput while maintaining full safety and compliance monitoring with stringent QA standards in mission-critical environments.",
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Ensure every product, every part is built to scope with real-time object detection and recognition. Get notified when production deviates from the norm.",
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize processes, reduce downtime, and build an efficient production line through data-driven decision making, directly impacting overall productivity and cost savings.",
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Enable continuous monitoring of processes with video analytics software, providing instant alerts in case of deviations, allowing for immediate corrective actions.",
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Promote greener manufacturing by optimizing resource consumption and minimizing waste, aligning operations with eco-friendly practices.",
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Computer vision for aerospace provides AI-driven visual inspections for defect detection and quality control in safety-critical manufacturing.",
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Matroid's visual inspection systems catch defects beyond human limits in real-time during production.",
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Can Matroid analyze aerospace production cycles?",
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, it monitors cycle deviations and sends real-time alerts to maintain compliance and improve throughput.",
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Matroid validates every aerospace part build in real-time and notifies deviations from production norms.",
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "How does Matroid improve line reliability?",
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "It eliminates reworks, reduces downtime, and optimizes aerospace production for cost savings.",
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Matroid scales across operations, adapts to new patterns, and supports enterprise-level aerospace needs.",
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "General Manufacturing",
+    "url": "https://www.matroid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "No-Code Computer Vision for Industrial Inspection",
+    "url": "https://www.matroid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Matroid’s inspection systems enable reliable safety-critical inspection with digital traceability, boosting quality control and ensuring product quality across manufacturing processes.",
+    "url": "https://www.matroid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Matroid automatically validates that human operators follow standard operating procedures, reducing dependence on manual inspection by human inspectors.",
+    "url": "https://www.matroid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Visualize your production line with Matroid today",
+    "url": "https://www.matroid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "GENERAL MANUFACTURING",
+    "url": "https://www.matroid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Computer Vision for Manufacturing | Matroid",
+    "url": "https://www.matroid.com/computer-vision-for-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "General Manufacturing",
+    "url": "https://www.matroid.com/computer-vision-for-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Computer Vision for Manufacturing",
+    "url": "https://www.matroid.com/computer-vision-for-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted for mission-critical applications in the manufacturing industry by RHI, Greif, and more.",
+    "url": "https://www.matroid.com/computer-vision-for-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "https://www.matroid.com/wp-content/uploads/2025/04/General_Manufacturing_Compressed.mp4",
+    "url": "https://www.matroid.com/computer-vision-for-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Gather cycle time data across the production line and make it traceable, connected by serial numbers. Highlight deviations to leverage for line and production improvements, automatically.",
+    "url": "https://www.matroid.com/computer-vision-for-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Promote greener smart manufacturing by optimizing resources, inventory management, and logistics. Minimize waste, improve worker safety, and align operations with eco-friendly practices using computer vision models and process automation.",
+    "url": "https://www.matroid.com/computer-vision-for-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "How does Matroid help manufacturers with computer vision?",
+    "url": "https://www.matroid.com/computer-vision-for-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Can the system monitor production lines in real time?",
+    "url": "https://www.matroid.com/computer-vision-for-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "By identifying problems quickly, the system helps operators correct issues before they cause extended shutdowns.",
+    "url": "https://www.matroid.com/computer-vision-for-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Can I monitor multiple production lines at once?",
+    "url": "https://www.matroid.com/computer-vision-for-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Alerts can be sent through dashboards, mobile devices, or integrated factory systems so operators respond immediately.",
+    "url": "https://www.matroid.com/computer-vision-for-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "SBD used Matroid’s manufacturing software to successfully automate the inspection of bolt threading quality using state-of-the-art computer vision that leveraged SBD’s existing third-party vision hardware, saving significant expense and man hours.",
+    "url": "https://www.matroid.com/computer-vision-for-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Computer Vision for Aerospace Visual Inspections - Matroid",
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "General Manufacturing",
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Automated Visual Inspection Systems for Aerospace Manufacturing",
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted for mission-critical aerospace and airport management applications by Textron, Blue Origin, Mercedes, and more.",
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Automated manufacturing quality control that inspects, tracks, and alerts you when production issues occur",
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "https://www.matroid.com/wp-content/uploads/2025/05/Aerospace_Industry_Inner_Vid_.mp4",
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "A single defect in safety-critical manufacturing can put lives at risk. Manual inspection isn't enough; automated visual inspection systems catch what humans can't afford to miss.",
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize processes, reduce downtime, and build an efficient production line through data-driven decision making, directly impacting overall productivity and cost savings.",
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Promote greener manufacturing by optimizing resource consumption and minimizing waste, aligning operations with eco-friendly practices.",
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "What is computer vision for aerospace?",
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Computer vision for aerospace provides AI-driven visual inspections for defect detection and quality control in safety-critical manufacturing.",
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "How does Matroid detect aerospace defects?",
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Can Matroid analyze aerospace production cycles?",
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "What is component inspection in aerospace?",
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Matroid validates every aerospace part build in real-time and notifies deviations from production norms.",
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "It eliminates reworks, reduces downtime, and optimizes aerospace production for cost savings.",
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Is Matroid scalable for aerospace growth?",
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Matroid scales across operations, adapts to new patterns, and supports enterprise-level aerospace needs.",
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "What are real-time alerts in aerospace?",
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Does Matroid support aerospace sustainability?",
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "It minimizes waste by optimizing resources and promoting eco-friendly manufacturing practices.",
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "How does Matroid ensure aerospace compliance?",
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "How to implement Matroid in aerospace?",
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Contact Matroid for tailored visual inspection systems and deploy quickly for aerospace management.",
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "General Manufacturing",
+    "url": "https://www.matroid.com/who-we-are/",
+    "pass": 1
+   },
+   {
+    "quote": "John is a Managing Partner at Energize Ventures, where he has been leading investments into software companies in the industrials and energy verticals since 2017.",
+    "url": "https://www.matroid.com/who-we-are/",
+    "pass": 1
+   },
+   {
+    "quote": "General Manufacturing",
+    "url": "https://www.matroid.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "General Manufacturing",
+    "url": "https://www.matroid.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Workplace Safety Hazard Detection Case Study",
+    "url": "https://www.matroid.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "General Manufacturing",
+    "url": "https://www.matroid.com/get-a-demo/",
+    "pass": 1
+   },
+   {
+    "quote": "General Manufacturing",
+    "url": "https://www.matroid.com/case-studies/transforming-industries-with-advanced-computer-vision-and-ai-driven-object-detection/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrating Quality Control for Manufacturing With MES and ERP Systems",
+    "url": "https://www.matroid.com/case-studies/transforming-industries-with-advanced-computer-vision-and-ai-driven-object-detection/",
+    "pass": 1
+   },
+   {
+    "quote": "Redefining Quality Control Manufacturing Through Predictive Analytics and Closed-Loop Feedback",
+    "url": "https://www.matroid.com/case-studies/transforming-industries-with-advanced-computer-vision-and-ai-driven-object-detection/",
+    "pass": 1
+   },
+   {
+    "quote": "General Manufacturing",
+    "url": "https://www.matroid.com/case-study-category/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Workplace Safety Hazard Detection Case Study",
+    "url": "https://www.matroid.com/case-study-category/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "General Manufacturing",
+    "url": "https://www.matroid.com/case-study-category/metals-and-raw-materials/",
+    "pass": 1
+   },
+   {
+    "quote": "General Manufacturing",
+    "url": "https://www.matroid.com/case-studies/matroid-ai-takes-on-illegal-trash-dumping-in-london-with-iot-surveillance-company-idefigo-2/",
+    "pass": 1
+   },
+   {
+    "quote": "Items such as soil and aggregates, mattresses, chemicals, discarded house contents, furniture, and miscellaneous builder waste are dumped in streets, down alleyways and on housing estates. This is unsightly, and often a danger to local residents. Professional gangs dump tons of waste on industrial and remote sites as well.",
+    "url": "https://www.matroid.com/case-studies/matroid-ai-takes-on-illegal-trash-dumping-in-london-with-iot-surveillance-company-idefigo-2/",
+    "pass": 1
+   },
+   {
+    "quote": "There has been a significant reduction in illegal dumping incidents in both residential and industrial estate areas.",
+    "url": "https://www.matroid.com/case-studies/matroid-ai-takes-on-illegal-trash-dumping-in-london-with-iot-surveillance-company-idefigo-2/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrating Quality Control for Manufacturing With MES and ERP Systems",
+    "url": "https://www.matroid.com/case-studies/matroid-ai-takes-on-illegal-trash-dumping-in-london-with-iot-surveillance-company-idefigo-2/",
+    "pass": 1
+   },
+   {
+    "quote": "Redefining Quality Control Manufacturing Through Predictive Analytics and Closed-Loop Feedback",
+    "url": "https://www.matroid.com/case-studies/matroid-ai-takes-on-illegal-trash-dumping-in-london-with-iot-surveillance-company-idefigo-2/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Matroid continuously monitors and verifies manual operations to capture timestamps, cycle counts, and cycle times for better data collection and data acquisition.",
+    "url": "https://www.matroid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Matroid pushes the boundaries of computer vision, creating the next generation of AI software that lowers the barrier to entry and makes it more accessible for those working to build a safer and more productive world.",
+    "url": "https://www.matroid.com/who-we-are/",
+    "pass": 1
+   },
+   {
+    "quote": "To supplement the ‘Let’s SCRAP fly tipping’ initiatives, employing surveillance cameras with the ability of recording, policing, and combating illegal dumping is an important part of the overall solution.",
+    "url": "https://www.matroid.com/case-studies/matroid-ai-takes-on-illegal-trash-dumping-in-london-with-iot-surveillance-company-idefigo-2/",
+    "pass": 1
+   },
+   {
+    "quote": "First and foremost,quality control becomes part of the operations network. Rather than being at the end of the line, QC data feeds into MES, ERP and even supplier systems. When QC defects, reworks or scrap volumes become available in real-time through your ERP/analytics dashboard, you’re able to see the financial risk earlier in the process.",
+    "url": "https://www.matroid.com/qc-mes-erp-integration-real-time-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "needs to carry context, like batch, machine, operator, time, raw material lot and so on, so that when it enters the MES/ERP you can correlate the data across different areas.",
+    "url": "https://www.matroid.com/qc-mes-erp-integration-real-time-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "As part of a National Safety Council (NSC) Safety Innovation Challenge",
+    "url": "https://www.matroid.com/case-studies/how-matroids-ai-computer-vision-can-transform-workplace-safety/",
+    "pass": 1
+   },
+   {
+    "quote": "During the pilot phase, Matroid helped navigate adoption barriers by prioritizing transparent communication, securing employee buy-in, and conducting ROI assessments. Successful CV implementation depended on securing employee support, which required taking proactive steps to address concerns about privacy, potential consequences, or fears of job displacement.",
+    "url": "https://www.matroid.com/case-studies/how-matroids-ai-computer-vision-can-transform-workplace-safety/",
+    "pass": 1
+   },
+   {
+    "quote": "Ensure equipment is properly operated, risk-prone areas are clear, and employees are wearing PPE using object detection and recognition to prevent hazardous incidents.",
+    "url": "https://www.matroid.com/industries/safety-and-compliance/",
+    "pass": 1
+   },
+   {
+    "quote": "has been frequently re-released as part of \"best of\" video game music releases.",
+    "url": "https://en.wikipedia.org/wiki/Metroid",
+    "pass": 3
+   },
+   {
+    "quote": "as a skin. The plans came to light when internal Epic documents were released as part of the",
+    "url": "https://en.wikipedia.org/wiki/Metroid",
+    "pass": 3
+   },
+   {
+    "quote": "published a three-volume manga starring Samus,",
+    "url": "https://en.wikipedia.org/wiki/Metroid",
+    "pass": 3
+   },
+   {
+    "quote": "acquired the rights a few years later,",
+    "url": "https://en.wikipedia.org/wiki/Metroid",
+    "pass": 3
+   },
+   {
+    "quote": "Harris, Craig (22 August 2002).",
+    "url": "https://en.wikipedia.org/wiki/Metroid",
+    "pass": 3
+   },
+   {
+    "quote": "Craig Harris (21 October 2005).",
+    "url": "https://en.wikipedia.org/wiki/Metroid",
+    "pass": 3
+   },
+   {
+    "quote": "\"The Super Mario Bros. Super Show people once tried to make bizarre Metroid and Castlevania cartoons\"",
+    "url": "https://en.wikipedia.org/wiki/Metroid",
+    "pass": 3
+   },
+   {
+    "quote": "Are You Ready To Grow Your Revenue And Your Expectations?",
+    "url": "https://www.craiggroup.io/case-study-matroid-full/",
+    "pass": 3
+   },
+   {
+    "quote": "Earlier in his career, John was a senior executive at five privately held middle-market industrial and capital equipment manufacturers, leading global growth and go-to-market strategy — four of which were later acquired by industry strategics.",
+    "url": "https://www.craiggroup.io/case-study-matroid-full/",
+    "pass": 3
+   },
+   {
+    "quote": "Craig Group Partner Ajay Joshi is a seasoned revenue operations consultant with over 20 years of experience enhancing operational and financial performance across sales, marketing, operations, and technology. His expertise spans over 20 industries, with a strong focus on private equity-backed firms in the SaaS, manufacturing, and industrial services sectors.",
+    "url": "https://www.craiggroup.io/case-study-matroid-full/",
+    "pass": 3
+   },
+   {
+    "quote": "Ajay’s background includes senior leadership positions at Johnson Matthey, where he led large-scale operations in aerospace, medical devices, and automotive industries. A sought-after consultant, Ajay has successfully guided numerous clients through significant revenue operations improvements, earning a reputation as a hands-on change agent.",
+    "url": "https://www.craiggroup.io/case-study-matroid-full/",
+    "pass": 3
+   },
+   {
+    "quote": "Joining Craig Group in 2020, Vice President Tricia Eaton is an integral part of the company's remarkable growth and client-focused approach. A graduate of the creative advertising program at The University of Texas in Austin, Eaton has a track record of driving innovative and strategic brand awareness as well as revenue focused initiatives.",
+    "url": "https://www.craiggroup.io/case-study-matroid-full/",
+    "pass": 3
+   },
+   {
+    "quote": "Summer Craig is a respected commercial leader and LMM growth expert with a background leading change management and GTM strategies for both Fortune 500 and PE-backed high growth companies.",
+    "url": "https://www.craiggroup.io/case-study-matroid-full/",
+    "pass": 3
+   },
+   {
+    "quote": "Her resume includes guiding paid media strategy following global M&As as well as steering strategic growth at HomeAway.com (later VRBO) during the completion of a successful IPO, gaining experience at two major agency holding companies (Omnicom and Publicis), and overseeing marketing and operations at one of the largest privately held distributorships under the Toyota brand.",
+    "url": "https://www.craiggroup.io/case-study-matroid-full/",
+    "pass": 3
+   },
+   {
+    "quote": "LevelUp Leads acts as an extended part of your team to run outbound Email, LinkedIn or Cold Call campaigns to generate new opportunities for you. We do the hard part, you just need to move the interested leads through your sales process.",
+    "url": "https://levelupleads.io/blog/case-studies/matroid-case-study/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Stay connected with Matroid and sign up for our email updates.",
+    "url": "https://www.matroid.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Stay connected with Matroid and sign up for our email updates.",
+    "url": "https://www.matroid.com/case-study-category/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Stay connected with Matroid and sign up for our email updates.",
+    "url": "https://www.matroid.com/case-study-category/metals-and-raw-materials/",
+    "pass": 1
+   },
+   {
+    "quote": "Matroid also allows for stream monitoring, analytics, and real-time notification hooks so that you can integrate the system into your ticketing platform or via Slack or email alerts in addition to integrating it into your MES/ERP systems. In this way, quality control fits into your broader systems rather than sitting off to the side.",
+    "url": "https://www.matroid.com/qc-mes-erp-integration-real-time-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Stay connected with Matroid and sign up for our email updates.",
+    "url": "https://www.matroid.com/category/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Email Signature Generator",
+    "url": "https://levelupleads.io/blog/case-studies/matroid-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "LevelUp Leads ran sales development and lead gen campaigns through Cold Calling, and Email to build pipeline and schedule more qualified meetings.",
+    "url": "https://levelupleads.io/blog/case-studies/matroid-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Following client approval of a sample contact list and agreed-upon messaging, we initiated outbound campaigns. These included cold calling and email outreach, all aimed at scheduling direct meetings in our client’s calendar.",
+    "url": "https://levelupleads.io/blog/case-studies/matroid-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "LevelUp scheduled roughly 7 meetings per month from our Email and Cold Calling campaigns. At least 1 deal closed with several others opportunities in the pipeline.",
+    "url": "https://levelupleads.io/blog/case-studies/matroid-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "LevelUpLeads has allowed us to enhance our outbound marketing efforts by providing curated contact lists and layering efficient email outreach into our demand-generation programs. As a result, we have been able to broaden our reach and amplify our activity without the need to increase our team size.",
+    "url": "https://levelupleads.io/blog/case-studies/matroid-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "LevelUp Leads acts as an extended part of your team to run outbound Email, LinkedIn or Cold Call campaigns to generate new opportunities for you. We do the hard part, you just need to move the interested leads through your sales process.",
+    "url": "https://levelupleads.io/blog/case-studies/matroid-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "LevelUp Leads ran a sustained outbound campaign for Site 20/20, using Cold Calling with Email and LinkedIn to reach field-based traffic control and road construction buyers and book qualified meetings.",
+    "url": "https://levelupleads.io/blog/case-studies/matroid-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "LevelUp Leads built and ran a full outbound program for CoreVest, using Cold Calling with Email and LinkedIn to reach real estate investors, build pipeline, and book qualified meetings.",
+    "url": "https://levelupleads.io/blog/case-studies/matroid-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "LevelUp Leads ran an outbound campaign for Ammann focused on Cold Calling, with Email and LinkedIn layered on top to reach construction equipment buyers and generate qualified sales conversations.",
+    "url": "https://levelupleads.io/blog/case-studies/matroid-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "LevelUp Leads ran sales development and appointment setting campaigns which focused on Cold Calling, with Email and LinkedIn campaigns layered on top to build pipeline and schedule more qualified meetings.",
+    "url": "https://levelupleads.io/blog/case-studies/matroid-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "LevelUp Leads ran sales development and lead generation campaigns which focused on Cold Calling, with Email and LinkedIn campaigns layered on top to build pipeline and schedule more qualified meetings.",
+    "url": "https://levelupleads.io/blog/case-studies/matroid-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "LevelUp Leads ran full-service sales development and lead-gen campaigns through Email, LinkedIn, and Cold Calling for Vodafone to build pipeline and schedule more qualified meetings.",
+    "url": "https://levelupleads.io/blog/case-studies/matroid-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Managed Email Services",
+    "url": "https://levelupleads.io/blog/case-studies/matroid-case-study/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "と思っていたのだが, 筑波大学数学系にあった「中澤武雄の業績」というページ (今は存在しない) によると, どうやら同じ1935年に日本でも独立に",
+    "url": "http://pantodon.jp/index.rb?body=matroid",
+    "pass": 3
+   },
+   {
+    "quote": ", was developed by R&D1 and released in Japan on August 6, 1986.",
+    "url": "https://en.wikipedia.org/wiki/Metroid",
+    "pass": 3
+   },
+   {
+    "quote": "console in 1991 in North America and in 1992 in Japan and Europe. It further established",
+    "url": "https://en.wikipedia.org/wiki/Metroid",
+    "pass": 3
+   },
+   {
+    "quote": "was developed with the Japanese studio",
+    "url": "https://en.wikipedia.org/wiki/Metroid",
+    "pass": 3
+   },
+   {
+    "quote": "sales in Japan have typically been lower than in the United States.",
+    "url": "https://en.wikipedia.org/wiki/Metroid",
+    "pass": 3
+   },
+   {
+    "quote": "In its debut week in Japan,",
+    "url": "https://en.wikipedia.org/wiki/Metroid",
+    "pass": 3
+   },
+   {
+    "quote": "was the third-bestselling video game in Japan during its week of release with 45,398 copies sold, ranking it behind",
+    "url": "https://en.wikipedia.org/wiki/Metroid",
+    "pass": 3
+   },
+   {
+    "quote": "have been published in the US and Japan. Samus and other",
+    "url": "https://en.wikipedia.org/wiki/Metroid",
+    "pass": 3
+   },
+   {
+    "quote": "In Japan, a",
+    "url": "https://en.wikipedia.org/wiki/Metroid",
+    "pass": 3
+   },
+   {
+    "quote": "Also in Japan,",
+    "url": "https://en.wikipedia.org/wiki/Metroid",
+    "pass": 3
+   },
+   {
+    "quote": "(in Japanese). Japan:",
+    "url": "https://en.wikipedia.org/wiki/Metroid",
+    "pass": 3
+   },
+   {
+    "quote": "\"Nintendo Download: 13-14 October 2009 (Japan)\"",
+    "url": "https://en.wikipedia.org/wiki/Metroid",
+    "pass": 3
+   },
+   {
+    "quote": "\"Japan Gets Famicom Music\"",
+    "url": "https://en.wikipedia.org/wiki/Metroid",
+    "pass": 3
+   },
+   {
+    "quote": "\"Manga Based Fighter Tops Japanese Charts, Other M Sales Decline\"",
+    "url": "https://en.wikipedia.org/wiki/Metroid",
+    "pass": 3
+   },
+   {
+    "quote": "Articles containing Japanese-language text",
+    "url": "https://en.wikipedia.org/wiki/Metroid",
+    "pass": 3
+   },
+   {
+    "quote": "CS1 Japanese-language sources (ja)",
+    "url": "https://en.wikipedia.org/wiki/Metroid",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Matroids - pantodon.jp — Oct 17, 2026 · 誰が最初に発見したかはともかく, matroid は 組み合せ論 では重要な概念である。 特に, 符号付き matroid とも言うべき oriented matroid は, トポロジーにも色々応用がある。例えば, Gel ′ fand と MacPherson の Pontrjagin class の公式 などで使われている。",
+    "url": "http://pantodon.jp/matroid.html",
+    "pass": 3
+   },
+   {
+    "quote": "No-Code Computer Vision AI for Inspection | Matroid — Matroid enables non-programmers from all industries to detect things of interest in minutes without ever writing any code. Matroid’s no-code machine vision software is continuously evolving with the latest advanced technology in AI, simplifying inspection systems for industry experts.",
+    "url": "https://www.matroid.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Matroid, Inc. - Wikipedia — Matroid, Inc. is a computer vision company that offers a platform for creating computer vision models, called detectors, to search visual media for objects, persons, events, emotions, and actions.",
+    "url": "https://en.wikipedia.org/wiki/Matroid,_Inc.",
+    "pass": 3
+   },
+   {
+    "quote": "About Our Computer Vision Company: Who We Are | Matroid — At Matroid, we aim to accelerate AI, responsibly, through vision. AI is an ambitious, unsolved problem, so we're building a world class team with innovation and engineering excellence embedded into our culture.",
+    "url": "https://www.matroid.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "AI-Driven Computer Vision Case Studies - Matroid — Explore Matroid's groundbreaking solutions through our detailed computer vision case studies. Read our client success stories and reach out to us for a demo.",
+    "url": "https://www.matroid.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Matroid Case Study: Business Growth Strategies | Craig Group — Discover how Craig Group helped Matroid implement growth strategies that drove business success. Learn more about this case study today!",
+    "url": "https://www.craiggroup.io/case-study-matroid-full/",
+    "pass": 3
+   },
+   {
+    "quote": "Metals and Raw Materials Case Studies | Matroid — See how Matroid’s AI visual inspection improves quality and ROI in metals and raw materials manufacturing with real world case studies.",
+    "url": "https://www.matroid.com/case-study-category/metals-and-raw-materials/",
+    "pass": 3
+   },
+   {
+    "quote": "Matroid Case Study - LevelUp Leads — LevelUp Leads received specific criteria aligned with the client’s Ideal Customer Profile. We targeted various titles in Engineering, Operations and Quality Control in the Automotive and Aerospace industry.",
+    "url": "https://levelupleads.io/blog/case-studies/matroid-case-study/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Shoemaker, Brad.",
+    "url": "https://en.wikipedia.org/wiki/Metroid",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Matroid (@matroid) / X Hear from @Reza_Zadeh, CEO of Matroid and Stanford Professor, as he shares insights from building enterprise-scale computer vision systems used across manufacturing, aerospace, and critical infrastructure.",
+    "url": "https://x.com/matroid",
+    "pass": 3
+   },
+   {
+    "quote": "Replies by Matroid (@matroid) / X - x.com How to stream live-stream into Matroid? Register an RTMP stream at matroid.com/streams, then take RTMP info & put into your favorite RTMP client: - Mac/Linux/Win: obsproject.com - iOS: itunes.apple.com/us/app/broadca…",
+    "url": "https://x.com/matroid/with_replies",
+    "pass": 3
+   },
+   {
+    "quote": "Matroid Union (@matroidunion) / Posts / X Matroid theory, combinatorics, finite geometry, connectivity, and any combination of those!",
+    "url": "https://x.com/matroidunion",
+    "pass": 3
+   },
+   {
+    "quote": "As Easy as Rank One: Optimal Algorithms for Matroid Secretary ... AlgorithmPapers (Data Structures and Algorithms Papers). 1 likes 0 replies. As Easy as Rank One: Optimal Algorithms for Matroid Secretary and Single-Sample Matroid ...",
+    "url": "https://x.com/AlgorithmPapers/status/2119750645896954353",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Matroid - LinkedIn Matroid automates visual inspection by providing an easy-to-use, intuitive Studio for creating and deploying Detectors (trained computer vision models) to search images and video for actions ...",
+    "url": "https://www.linkedin.com/company/matroid",
+    "pass": 3
+   },
+   {
+    "quote": "Huaijin (Patrick) W. - Matroid, Inc. | LinkedInReza Zadeh - CEO & Founder at Matroid, Adjunct Professor at ...Adam Bennett - Matroid, Inc. | LinkedInJeffrey Zeller - Matroid, Inc. | LinkedInHow Matroid uses AI for zero defects in manufacturing - LinkedInMatt Shustack - Enterprise Visual AI | Full-Service Partner ... May 4, 2021 · Experience: Matroid, Inc. · Education: UC San Diego · Location: Palo",
+    "url": "https://www.linkedin.com/in/huw011",
+    "pass": 3
+   },
+   {
+    "quote": "Reza Zadeh - CEO & Founder at Matroid, Adjunct Professor at ...Adam Bennett - Matroid, Inc. | LinkedInJeffrey Zeller - Matroid, Inc. | LinkedInHow Matroid uses AI for zero defects in manufacturing - LinkedInMatt Shustack - Enterprise Visual AI | Full-Service Partner ... CEO & Founder at Matroid, Adjunct Professor at Stanford · More details: http://reza.ai · Experience: Matroid · Education: Stanfor",
+    "url": "https://www.linkedin.com/in/rezab",
+    "pass": 3
+   },
+   {
+    "quote": "Adam Bennett - Matroid, Inc. | LinkedInJeffrey Zeller - Matroid, Inc. | LinkedInHow Matroid uses AI for zero defects in manufacturing - LinkedInMatt Shustack - Enterprise Visual AI | Full-Service Partner ... My career focus has been to help… · Experience: Matroid, Inc. · Education: Cincinnati State Technical and Community College · Location: Saint Johns · 500+ connections on LinkedIn. · Experience",
+    "url": "https://www.linkedin.com/in/adam-bennett-769a0041",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Matroid | Palo Alto CA - FacebookMatroid develops a no-code computer vision platform that ...Metal fabrication needs modern solutions for higher defect ...Co-founder and CEO, Alyona Medelyan, shares her journey of ...VNOI - [VNOI Wiki Project: Matroid] ️ Xin chào các bạn ...Peter Mattson, President of MLCommons, discusses three core ...AQARION — Independent Circuit Verification Analysis, Evidence ",
+    "url": "https://www.facebook.com/matroid/",
+    "pass": 3
+   },
+   {
+    "quote": "Matroid develops a no-code computer vision platform that ... Jul 1, 2026 · Matroid develops a no-code computer vision platform that enables organizations to analyze live and recorded video using AI. It allows users to create and deploy custom vision models that detect objects, defects, safety issues, and events without programming.",
+    "url": "https://www.facebook.com/WevolverApp/videos/matroid-develops-a-no-code-computer-vision-platform-that-enables-organizations-t/1538454104425846/",
+    "pass": 3
+   },
+   {
+    "quote": "VNOI - [VNOI Wiki Project: Matroid] ️ Xin chào các bạn ... Matroid là một khái niệm khá trừu tượng, đòi hỏi người đọc phải có kiến thức vững chắc về các toán tử trên tập hợp, đại số tuyến tính và lý thuyết đồ thị.",
+    "url": "https://www.facebook.com/vnoi.wiki/photos/vnoi-wiki-project-matroid️-xin-chào-các-bạntrong-bài-viết-lần-này-vnoi-wiki-proj/997285802334993/",
+    "pass": 3
+   },
+   {
+    "quote": "Peter Mattson, President of MLCommons, discusses three core ... Peter Mattson, President of MLCommons, discusses three core pillars: benchmarks, datasets, and best practices. He shares how MLCommons is building a... | By Matroid Video More Home Live Reels Shows Explore",
+    "url": "https://www.facebook.com/matroid/videos/peter-mattson-president-of-mlcommons-discusses-three-core-pillars-benchmarks-dat/1249929922173380/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.matroid.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matroid.com/computer-vision-for-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matroid.com/industries/aerospace/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matroid.com/who-we-are/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matroid.com/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matroid.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matroid.com/get-a-demo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matroid.com/case-studies/transforming-industries-with-advanced-computer-vision-and-ai-driven-object-detection/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matroid.com/case-study-category/industry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matroid.com/case-study-category/metals-and-raw-materials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matroid.com/case-studies/matroid-ai-takes-on-illegal-trash-dumping-in-london-with-iot-surveillance-company-idefigo-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matroid.com/qc-mes-erp-integration-real-time-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matroid.com/predictive-analytics-closed-loop-quality-control-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matroid.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matroid.com/case-studies/computer-vision-speed-tear-detection/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matroid.com/case-studies/ai-defect-detection-steel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matroid.com/case-studies/how-matroids-ai-computer-vision-can-transform-workplace-safety/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matroid.com/eliminating-quality-defects-in-industrial-and-heavy-machinery-with-ai-powered-computer-vision/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matroid.com/industries/safety-and-compliance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matroid.com/category/manufacturing/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.matroid.com/wp-content/uploads/2025/01/MANUFACTURING.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.matroid.com/wp-content/uploads/2024/12/General_Manufacturing_Hero_.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.matroid.com/wp-content/uploads/2025/01/S2_Final-_GeneralManufacturing_Defect_Detection_UI-copy-2.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.matroid.com/wp-content/uploads/2025/01/1_General_Manufacturing_Double_Image.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%88%E3%83%AD%E3%82%A4%E3%83%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%88%E3%83%AD%E3%82%A4%E3%83%89",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://pantodon.jp/index.rb?body=matroid",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sidebizz.net/blog/agent/general-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Matroid,_Inc.",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Metroid",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.craiggroup.io/case-study-matroid-full/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://levelupleads.io/blog/case-studies/matroid-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.t-mobile.com/business/partner-recruitment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/matroid",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/matroid/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/matroidunion",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AlgorithmPapers/status/2119750645896954353",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/matroid",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/huw011",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/rezab",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/adam-bennett-769a0041",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/matroid/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/WevolverApp/videos/matroid-develops-a-no-code-computer-vision-platform-that-enables-organizations-t/1538454104425846/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/vnoi.wiki/photos/vnoi-wiki-project-matroid️-xin-chào-các-bạntrong-bài-viết-lần-này-vnoi-wiki-proj/997285802334993/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/matroid/videos/peter-mattson-president-of-mlcommons-discusses-three-core-pillars-benchmarks-dat/1249929922173380/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/matroid",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/matroid/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Matroid 日本 導入",
+   "results": [
+    "https://ja.wikipedia.org/wiki/メトロイドシリーズ",
+    "https://ja.wikipedia.org/wiki/メトロイド",
+    "http://pantodon.jp/matroid.html",
+    "https://www.matroid.com/",
+    "https://global.toyota/jp/newsroom/toyota/44960600.html",
+    "https://vague.style/post/410441",
+    "https://monoist.itmedia.co.jp/mn/articles/2607/03/news025.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Matroid 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.indexpro.co.jp/distributor/search-maker",
+    "https://maymobility.com/ja",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Matroid Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Matroid,_Inc.",
+    "https://en.wikipedia.org/wiki/Metroid",
+    "https://www.matroid.com/",
+    "https://www.matroid.com/about/",
+    "https://www.retrogames.cc/snes-games/super-metroid-japan-usa-en-ja.html",
+    "https://travelpander.com/was-metroid-not-big-in-japan/",
+    "https://www.reddit.com/r/Metroid/comments/1gvmdp/why_does_metroid_appear_to_be_unpopular_in_japan/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Matroid manufacturing customer case study",
+   "results": [
+    "https://www.matroid.com/case-studies/",
+    "https://www.craiggroup.io/case-study-matroid-full/",
+    "https://www.matroid.com/case-study-category/metals-and-raw-materials/",
+    "https://levelupleads.io/blog/case-studies/matroid-case-study/",
+    "https://www.jidoka-tech.ai/blogs/ai-visual-inspection-case-studies-roi",
+    "https://somethinginc.com/case-studies/matroid/",
+    "https://info.matroid.com/manufacturing"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Matroid white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.t-mobile.com/business/partner-recruitment",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://www.upcounsel.com/reseller-agreement"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Matroid founded funding employees revenue",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com Matroid",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/tetsuyanagasawa/n/n2559dd6e7592",
+    "https://note.com/mio_adviser_8888/n/n7d3f9597f090",
+    "https://note.com/end_hamaokanp/n/n86a8ede22413",
+    "https://note.com/powerpoint_jp/n/n4709f22d6173"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Matroid",
+   "results": [
+    "https://x.com/matroid",
+    "https://x.com/matroid/with_replies",
+    "https://x.com/matroidunion",
+    "https://x.com/AlgorithmPapers/status/2119750645896954353",
+    "https://x.com/matroid/status/2028912446199742771",
+    "https://x.com/matroid/status/2028912446413652433",
+    "https://x.com/Reza_Zadeh"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Matroid",
+   "results": [
+    "https://www.linkedin.com/company/matroid",
+    "https://www.linkedin.com/in/huw011",
+    "https://www.linkedin.com/in/rezab",
+    "https://www.linkedin.com/in/adam-bennett-769a0041",
+    "https://www.linkedin.com/in/jmszeller",
+    "https://www.linkedin.com/posts/matroid_future-ready-with-ai-inspections-applying-activity-7317969556746973184-SvzL",
+    "https://www.linkedin.com/in/mshustack"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Matroid",
+   "results": [
+    "https://www.facebook.com/matroid/",
+    "https://www.facebook.com/WevolverApp/videos/matroid-develops-a-no-code-computer-vision-platform-that-enables-organizations-t/1538454104425846/",
+    "https://www.facebook.com/vnoi.wiki/photos/vnoi-wiki-project-matroid️-xin-chào-các-bạntrong-bài-viết-lần-này-vnoi-wiki-proj/997285802334993/",
+    "https://www.facebook.com/matroid/videos/peter-mattson-president-of-mlcommons-discusses-three-core-pillars-benchmarks-dat/1249929922173380/",
+    "https://www.facebook.com/WevolverApp/videos/metal-fabrication-needs-modern-solutions-for-higher-defect-rates-and-complex-qua/1083623103507580/",
+    "https://www.facebook.com/matroid/videos/co-founder-and-ceo-alyona-medelyan-shares-her-journey-of-how-she-started-themati/419458409774480/",
+    "https://www.facebook.com/Aqarion9/videos/aqbooleanartifact/1166059639259330/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Matroid note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.matroid.com/who-we-are/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Matroid X 投稿",
+   "results": [
+    "https://x.com/matroid",
+    "https://x.com/matroid/with_replies",
+    "https://www.matroid.com/",
+    "https://matroidxi.bandcamp.com/",
+    "https://www.matroid.com/who-we-are/",
+    "https://dounats.com/column/twitter-manga-imagesize/",
+    "https://www.youtube.com/watch?v=25p16-WT2e0"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部29頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部29頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部29頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部29頁・検索12回）"
+ }
+}

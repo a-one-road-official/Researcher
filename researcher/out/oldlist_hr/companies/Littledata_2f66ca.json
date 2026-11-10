@@ -1,0 +1,1709 @@
+{
+ "name": "Littledata",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-10T00:21:44.964171+00:00",
+ "official_url": "https://www.littledata.io",
+ "identified_by": "given",
+ "profile": {
+  "連絡先": [
+   {
+    "label": "Email and chat support",
+    "value": "",
+    "url": "https://www.littledata.io/plans",
+    "pass": 1
+   }
+  ],
+  "株主": [
+   {
+    "label": "3. Equity Crowdfunding",
+    "value": "07-Feb-2017    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/131475-79",
+    "pass": 3
+   },
+   {
+    "label": "Total funding",
+    "value": "$99,400",
+    "url": "https://prospeo.io/c/littledata-revenue",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/littledata-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Newbury, England, United Kingdom",
+    "url": "https://prospeo.io/c/littledata-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2019",
+    "url": "https://prospeo.io/c/littledata-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Powering acquisition, retention and analytics",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "How The Diamond Store recovered 12% more Google Ads purchases with Littledata",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "How RMS Beauty Cut Its Cost per New Customer by 83% in Google Ads",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "How Proven Skincare Fixed Headless Tracking with Littledata",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "How Naturalmat Cut CPA by 46% in Google Ads with Littledata and Sweet Analytics",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "How Soda Sense Halved their Google Ads CPA",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "How Geologie used Littledata to increase customer retention by over 25%",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "The Event Editor customizes the server-side events Littledata sends to Meta, Google Ads, GA4 and Klaviyo, using data from your Shopify apps and metafields. No code required.",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Meta ads for loyal buyers",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect your marketing channels to Shopify",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Eliminate the hassle of Google Tag Manager. Littledata maintains server-side conversion tracking between Shopify, Google, Meta, Klaviyo, and more, so your marketing can scale, automatically.",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Google and Meta's AI bidding is only as good as the conversions it learns from. Littledata streams complete, server-side conversions from Shopify, and Profit Signal adds gross profit, so campaigns bid for margin, not just order volume.",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Soda Sense cut Google Ads CPA by 50% after switching to Littledata.",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Ad blockers, iOS privacy settings, and accelerated checkouts hide 30% of your orders from browser pixels. As a result, every channel underreports, and optimizes with a partial view.",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Set it once, improve every channel",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Because every destination reads from the same data layer, each feature you turn on upgrades GA4, Google Ads, Meta, and Klaviyo together.",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Send gross profit alongside order value, so ad platforms optimize on margin, not just volume - no ERP integration required.",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "From Checkout Extensibility to Headless storefronts, Littledata works out of the box with Shopify’s latest architecture. Spend less time fixing integrations, and more time using accurate data across your marketing channels.",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Every custom event flows automatically to GA4, Google Ads, Meta, and Klaviyo. Turn on Profit Signal, Persistent ID, and Bot Protection and they upgrade every channel at once.",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "How does Littledata improve Shopify tracking?",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Littledata connects Shopify to Google Analytics (GA4), Google Ads, Meta Ads, Klaviyo, TikTok, Microsoft Advertising, Pinterest, and Segment. Install the app once and enable each destination as you need it - every connection reads from the same data layer, delivered through each platform's own server-side API. See the",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Ad blockers, iOS privacy settings, and accelerated checkouts hide 30% of your orders from browser pixels. As a result, every channel underreports revenue and optimizes with a partial view. Littledata tracks every purchase server-side from Shopify, so conversions reach your channels whatever the shopper's browser.",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "How does Littledata improve AI-powered ad bidding?",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "AI bidding in Google Ads (Smart Bidding) and Meta (Advantage+) learns from the conversions you send it. Littledata sends complete, server-side conversions through Google Enhanced Conversions and Meta's Conversions API, for stronger match rates and bidding aligned with real revenue. Turn on Profit Signal and those conversions carry gross profit, so campaigns bid for margin, not just order volume.",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "No. Littledata creates its own conversion actions and goals in each platform, running alongside Shopify's native sales channel apps. Benchmark the server-side conversions against your existing tracking, then make Littledata's primary once you've validated the uplift.",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Become a Partner: Join the Littledata Agency Program",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "A practical guide for agency teams - what Littledata does, when to bring it in, how to sell it, and how we grow together.",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Preferred agency partners",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Growth you can't prove is growth you can't repeat",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Agencies are judged on growth they can prove - impossible when the data can't be trusted. Littledata gives every client one reliable data layer for Shopify.",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver better marketing",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "- suppress subscription re-orders and £0 purchases.",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "- train ads on hero products and highest-margin orders.",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Send true gross profit to Meta and Google, so campaigns optimise toward the orders that actually make money.",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "No-code custom conversions and enrichment: suppress subscription re-orders, exclude £0 purchases, push loyalty tiers to ad platforms.",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Server-side identification brings more high-intent shoppers into flows, with browse abandonment and complete profiles.",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "How The Diamond Store recovered 12% more Google Ads purchases with Littledata",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "How RMS Beauty Cut Its Cost per New Customer by 83% in Google Ads",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "How Proven Skincare Fixed Headless Tracking with Littledata",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "How Naturalmat Cut CPA by 46% in Google Ads with Littledata and Sweet Analytics",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "How Soda Sense Halved their Google Ads CPA",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "How Geologie used Littledata to increase customer retention by over 25%",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Littledata Partner Program",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "The partner program is built so both sides win as your clients grow.",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Joint case studies and co-marketing",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "to build your profile in the Shopify ecosystem.",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Priority partner support",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Handled by Littledata's support team, with priority routing for partners.",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Partners get priority routing from our support team, plus a shared Slack channel for your agency.",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Littledata is primarily server-side, running off Shopify webhooks rather than the browser, with a lightweight browser script. It's Built for Shopify, meeting Shopify's stringent performance criteria.",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Meta and Google Ads optimise on incomplete signals, so your CPA climbs.",
+    "url": "https://www.littledata.io/persistent-id",
+    "pass": 1
+   },
+   {
+    "quote": "When a shopper returns, Persistent ID reconnects their session to their known profile automatically. Key identifiers are anonymized and consent is respected throughout.",
+    "url": "https://www.littledata.io/persistent-id",
+    "pass": 1
+   },
+   {
+    "quote": "Meta's Event Match Quality (EMQ) score measures how well your events match to real Facebook users. Persistent ID gives Meta a more complete picture of more customers and improves audience matching and ad costs.",
+    "url": "https://www.littledata.io/persistent-id",
+    "pass": 1
+   },
+   {
+    "quote": "Better audience matching improves ad targeting and acquisition costs.",
+    "url": "https://www.littledata.io/persistent-id",
+    "pass": 1
+   },
+   {
+    "quote": "More of your events tied to real Meta profiles.",
+    "url": "https://www.littledata.io/persistent-id",
+    "pass": 1
+   },
+   {
+    "quote": "Persistent ID matches shoppers' cart adds and checkout starts to profiles that Littledata has previously identified. Your abandonment audience grows by around 30%.",
+    "url": "https://www.littledata.io/persistent-id",
+    "pass": 1
+   },
+   {
+    "quote": "How does Persistent ID improve my Meta EMQ score?",
+    "url": "https://www.littledata.io/persistent-id",
+    "pass": 1
+   },
+   {
+    "quote": "Meta's Event Match Quality (EMQ) score measures how well your events match to real Facebook users. Persistent ID ties more of your events to known customers, giving Meta a more complete signal for audience matching. That improves ad targeting and lowers acquisition costs.",
+    "url": "https://www.littledata.io/persistent-id",
+    "pass": 1
+   },
+   {
+    "quote": "Klaviyo's native triggers only fire after a shopper enters their email. Persistent ID matches cart adds and checkout starts to profiles Littledata has previously identified, growing your abandonment audience by around 30%. Flows can trigger at add to cart instead of waiting for email entry.",
+    "url": "https://www.littledata.io/persistent-id",
+    "pass": 1
+   },
+   {
+    "quote": "Does Persistent ID improve my Google Analytics reporting?",
+    "url": "https://www.littledata.io/persistent-id",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by 2000+ Shopify brands",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 2000+ Shopify brands",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 2000+ Shopify brands to drive growth",
+    "url": "https://www.littledata.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Darzi case study FAQs",
+    "url": "https://www.littledata.io/case-studies/darzi",
+    "pass": 1
+   },
+   {
+    "quote": "The Diamond Store case study FAQs",
+    "url": "https://www.littledata.io/case-studies/the-diamond-store",
+    "pass": 1
+   },
+   {
+    "quote": "RMS Beauty case study FAQs",
+    "url": "https://www.littledata.io/case-studies/rms-beauty",
+    "pass": 1
+   },
+   {
+    "quote": "Étoile Milano case study FAQs",
+    "url": "https://www.littledata.io/case-studies/etoile-milano",
+    "pass": 1
+   },
+   {
+    "quote": "No manual tagging, custom code, or data warehouse needed",
+    "url": "https://www.littledata.io/case-studies/how-drowsy-scales-klaviyo-personalisation-with-littledata",
+    "pass": 1
+   },
+   {
+    "quote": "Drowsy case study FAQs",
+    "url": "https://www.littledata.io/case-studies/how-drowsy-scales-klaviyo-personalisation-with-littledata",
+    "pass": 1
+   },
+   {
+    "quote": "Future Kind case study FAQs",
+    "url": "https://www.littledata.io/case-studies/future-kind",
+    "pass": 1
+   },
+   {
+    "quote": "Møbelkompagniet case study FAQs",
+    "url": "https://www.littledata.io/case-studies/mobelkompagniet",
+    "pass": 1
+   },
+   {
+    "quote": "Soft Services case study FAQs",
+    "url": "https://www.littledata.io/case-studies/soft-services",
+    "pass": 1
+   },
+   {
+    "quote": "KittySpout case study FAQs",
+    "url": "https://www.littledata.io/case-studies/kittyspout",
+    "pass": 1
+   },
+   {
+    "quote": "Proven Skincare case study FAQs",
+    "url": "https://www.littledata.io/case-studies/provenskincare",
+    "pass": 1
+   },
+   {
+    "quote": "Naturalmat case study FAQs",
+    "url": "https://www.littledata.io/case-studies/naturalmat",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 2000+ Shopify brands",
+    "url": "https://www.littledata.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/littledata/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: johnnie-O achieves personalized ecommerce insights with Littledata | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/littledata/case-study/johnnie-o-tracks-150k-daily-touchpoints-with-littledata",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: johnnie-O achieves personalized ecommerce insights with Littledata",
+    "url": "https://www.casestudies.com/company/littledata/case-study/johnnie-o-tracks-150k-daily-touchpoints-with-littledata",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/littledata/case-study/johnnie-o-tracks-150k-daily-touchpoints-with-littledata",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/littledata/case-study/johnnie-o-tracks-150k-daily-touchpoints-with-littledata",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Open the Event Editor and build the events your business needs from your Shopify apps, metafields, and customer data. Define what a valuable conversion looks like for your brand.",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Become a Partner: Join the Littledata Agency Program",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Preferred agency partners",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Why Agencies Need Littledata",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Agencies are judged on growth they can prove - impossible when the data can't be trusted. Littledata gives every client one reliable data layer for Shopify.",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Littledata Partner Program",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "The partner program is built so both sides win as your clients grow.",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Preferred Agency Partners",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Littledata's Preferred agency partners are leaders in the Shopify world. Preferred partners get access to special promotions, beta releases, discounts on annual plans, and exclusive events around the world. Take your agency to the next level by becoming a Preferred partner.",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "See how other agencies and their clients use Littledata.",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Agency Partner Programme",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "is run by UK agency partner",
+    "url": "https://www.littledata.io/case-studies/darzi",
+    "pass": 1
+   },
+   {
+    "quote": ", a UK online jeweler specializing in diamond engagement rings and fine jewelry, switched from Elevar to Littledata on the recommendation of agency partner",
+    "url": "https://www.littledata.io/case-studies/the-diamond-store",
+    "pass": 1
+   },
+   {
+    "quote": "Low-risk for agencies.",
+    "url": "https://www.littledata.io/case-studies/the-diamond-store",
+    "pass": 1
+   },
+   {
+    "quote": "Working with agency partner SB Digital, Møbelkompagniet added Littledata's",
+    "url": "https://www.littledata.io/case-studies/mobelkompagniet",
+    "pass": 1
+   },
+   {
+    "quote": "Low-risk for agencies.",
+    "url": "https://www.littledata.io/case-studies/mobelkompagniet",
+    "pass": 1
+   },
+   {
+    "quote": "SB Digital, Møbelkompagniet's agency partner, reviewed its Klaviyo performance and found gaps in identity resolution between Shopify and Klaviyo. It set up Littledata's Klaviyo connection and combined its flow expertise with Littledata's identity resolution. The gain was measured by comparing the Littledata-triggered flows against running the legacy flows alone.",
+    "url": "https://www.littledata.io/case-studies/mobelkompagniet",
+    "pass": 1
+   },
+   {
+    "quote": "Low-risk for agencies.",
+    "url": "https://www.littledata.io/case-studies/kittyspout",
+    "pass": 1
+   },
+   {
+    "quote": "See how we work with tech partners and agency partners",
+    "url": "https://www.littledata.io/about",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Powering acquisition, retention and analytics",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "How Darzi earns 200x its Littledata plan in Klaviyo revenue",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "How KittySpout Boosted Email Retargeting Revenue by 65%",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "How Wildgrain Increased Their Abandoned Checkout Flow Revenue by 6x",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "How Skinfix Got a 6x Revenue Boost with Littledata and Verbal+Visual",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "How Smith Teamaker increased browse abandonment revenue by 95%",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "How UCAN doubled their abandoned cart revenue",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "How Red Land Cotton boosted Klaviyo revenue 27% with Littledata",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "How One Bone doubled abandoned checkout revenue",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "How Jaxxon boosted Instagram revenue 75% with Littledata",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "- every channel sees the same events and revenue.",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Abandonment flows only fire for the shoppers your tracking can see. Littledata identifies more of them server-side and syncs complete Shopify event data into Klaviyo, so more flows trigger, and more revenue follows.",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Wildgrain grew abandoned-checkout revenue 6× after connecting Shopify with Littledata.",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Boost your flow revenue",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Ad blockers, iOS privacy settings, and accelerated checkouts hide 30% of your orders from browser pixels. As a result, every channel underreports revenue and optimizes with a partial view. Littledata tracks every purchase server-side from Shopify, so conversions reach your channels whatever the shopper's browser.",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "AI bidding in Google Ads (Smart Bidding) and Meta (Advantage+) learns from the conversions you send it. Littledata sends complete, server-side conversions through Google Enhanced Conversions and Meta's Conversions API, for stronger match rates and bidding aligned with real revenue. Turn on Profit Signal and those conversions carry gross profit, so campaigns bid for margin, not just order volume.",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Start a free trial and see how much revenue your setup is missing, then build the custom events that let every channel act on your best signals.",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "How Darzi earns 200x its Littledata plan in Klaviyo revenue",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "How KittySpout Boosted Email Retargeting Revenue by 65%",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "How Wildgrain Increased Their Abandoned Checkout Flow Revenue by 6x",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "How Skinfix Got a 6x Revenue Boost with Littledata and Verbal+Visual",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "How Smith Teamaker increased browse abandonment revenue by 95%",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "How UCAN doubled their abandoned cart revenue",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "How Red Land Cotton boosted Klaviyo revenue 27% with Littledata",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "How One Bone doubled abandoned checkout revenue",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "How Jaxxon boosted Instagram revenue 75% with Littledata",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Built to grow revenue on both sides",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Owned by your agency - audits, event mapping, custom conversions, and reporting.",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Littledata automatically filters test orders, returns, duplicates, and bot traffic, then reconciles against Shopify, so revenue reflects real purchases, not inflated or double-counted noise.",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Persistent ID | Identify more shoppers, capture more revenue",
+    "url": "https://www.littledata.io/persistent-id",
+    "pass": 1
+   },
+   {
+    "quote": "Returning buyers enter your funnel as new visitors, inflating acquisition costs and misfiring retargeting.",
+    "url": "https://www.littledata.io/persistent-id",
+    "pass": 1
+   },
+   {
+    "quote": "Better audience matching improves ad targeting and acquisition costs.",
+    "url": "https://www.littledata.io/persistent-id",
+    "pass": 1
+   },
+   {
+    "quote": "Meta's Event Match Quality (EMQ) score measures how well your events match to real Facebook users. Persistent ID ties more of your events to known customers, giving Meta a more complete signal for audience matching. That improves ad targeting and lowers acquisition costs.",
+    "url": "https://www.littledata.io/persistent-id",
+    "pass": 1
+   },
+   {
+    "quote": "How Darzi earns 200x its Littledata plan in Klaviyo revenue",
+    "url": "https://www.littledata.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How KittySpout Boosted Email Retargeting Revenue by 65%",
+    "url": "https://www.littledata.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How Wildgrain Increased Their Abandoned Checkout Flow Revenue by 6x",
+    "url": "https://www.littledata.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How Skinfix Got a 6x Revenue Boost with Littledata and Verbal+Visual",
+    "url": "https://www.littledata.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How Smith Teamaker increased browse abandonment revenue by 95%",
+    "url": "https://www.littledata.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How UCAN doubled their abandoned cart revenue",
+    "url": "https://www.littledata.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How Red Land Cotton boosted Klaviyo revenue 27% with Littledata",
+    "url": "https://www.littledata.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How One Bone doubled abandoned checkout revenue",
+    "url": "https://www.littledata.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How Jaxxon boosted Instagram revenue 75% with Littledata",
+    "url": "https://www.littledata.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How Darzi earns 200x its Littledata plan in Klaviyo revenue",
+    "url": "https://www.littledata.io/case-studies/darzi",
+    "pass": 1
+   },
+   {
+    "quote": "Every missed basket is lost revenue. And for a growing store, a fixed monthly fee for better tracking is hard to justify before it has paid off.",
+    "url": "https://www.littledata.io/case-studies/darzi",
+    "pass": 1
+   },
+   {
+    "quote": "of store revenue from Littledata-triggered flows",
+    "url": "https://www.littledata.io/case-studies/darzi",
+    "pass": 1
+   },
+   {
+    "quote": "From 27 September to 26 October 2026, the Littledata-triggered flows brought in 15% of everything the store sold, measured as Klaviyo-attributed revenue:",
+    "url": "https://www.littledata.io/case-studies/darzi",
+    "pass": 1
+   },
+   {
+    "quote": "80% of that flow revenue",
+    "url": "https://www.littledata.io/case-studies/darzi",
+    "pass": 1
+   },
+   {
+    "quote": "Littledata's monthly cost came to 0.5% of the revenue the flows brought in",
+    "url": "https://www.littledata.io/case-studies/darzi",
+    "pass": 1
+   },
+   {
+    "quote": "Darzi's abandonment flows earn four times the revenue per recipient of the median Littledata store (476 stores)",
+    "url": "https://www.littledata.io/case-studies/darzi",
+    "pass": 1
+   },
+   {
+    "quote": "\"Paying per order meant we could try Littledata without signing up to another big monthly fee. Now our Klaviyo flows bring in around 15% of our revenue, and Littledata paid for itself in under a day.\"",
+    "url": "https://www.littledata.io/case-studies/darzi",
+    "pass": 1
+   },
+   {
+    "quote": "Start with a 30-day free trial and see the flow revenue before you pay.",
+    "url": "https://www.littledata.io/case-studies/darzi",
+    "pass": 1
+   },
+   {
+    "quote": "How much Klaviyo revenue does Littledata bring Darzi?",
+    "url": "https://www.littledata.io/case-studies/darzi",
+    "pass": 1
+   },
+   {
+    "quote": "From 27 September to 26 October 2026, Darzi's Littledata-triggered abandonment flows brought in 15% of everything the store sold, measured as Klaviyo-attributed revenue. Littledata's monthly cost came to 0.5% of the revenue those flows brought in, about a 200x return. Browse Abandonment earned 80% of that flow revenue and Cart Abandonment the other 20%.",
+    "url": "https://www.littledata.io/case-studies/darzi",
+    "pass": 1
+   },
+   {
+    "quote": "Install the Littledata app from the Shopify App Store and connect your Klaviyo account, with no code needed. You can start with a 30-day free trial and see the flow revenue before you pay.",
+    "url": "https://www.littledata.io/case-studies/darzi",
+    "pass": 1
+   },
+   {
+    "quote": "How KittySpout Boosted Email Retargeting Revenue by 65%",
+    "url": "https://www.littledata.io/case-studies/darzi",
+    "pass": 1
+   },
+   {
+    "quote": "How Wildgrain Increased Their Abandoned Checkout Flow Revenue by 6x",
+    "url": "https://www.littledata.io/case-studies/darzi",
+    "pass": 1
+   },
+   {
+    "quote": "How Skinfix Got a 6x Revenue Boost with Littledata and Verbal+Visual",
+    "url": "https://www.littledata.io/case-studies/darzi",
+    "pass": 1
+   },
+   {
+    "quote": "How Smith Teamaker increased browse abandonment revenue by 95%",
+    "url": "https://www.littledata.io/case-studies/darzi",
+    "pass": 1
+   },
+   {
+    "quote": "How UCAN doubled their abandoned cart revenue",
+    "url": "https://www.littledata.io/case-studies/darzi",
+    "pass": 1
+   },
+   {
+    "quote": "How Red Land Cotton boosted Klaviyo revenue 27% with Littledata",
+    "url": "https://www.littledata.io/case-studies/darzi",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "How KittySpout Boosted Email Retargeting Revenue by 65%",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. All data is processed server-side and first-party identifiers such as email, phone, name, and address are hashed before they reach any ad platform, following each platform's privacy specification for enhanced matching.",
+    "url": "https://www.littledata.io/",
+    "pass": 1
+   },
+   {
+    "quote": "How KittySpout Boosted Email Retargeting Revenue by 65%",
+    "url": "https://www.littledata.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Klaviyo's native triggers fire only after a shopper enters their email. Everyone who reaches checkout anonymously, often the majority, falls outside your abandonment flows entirely.",
+    "url": "https://www.littledata.io/persistent-id",
+    "pass": 1
+   },
+   {
+    "quote": "Flows trigger at add to cart (around 6% of sessions) instead of waiting for email entry (around 3%), so you can target emails higher in the funnel for 2× performance.",
+    "url": "https://www.littledata.io/persistent-id",
+    "pass": 1
+   },
+   {
+    "quote": "Klaviyo's native triggers only fire after a shopper enters their email. Persistent ID matches cart adds and checkout starts to profiles Littledata has previously identified, growing your abandonment audience by around 30%. Flows can trigger at add to cart instead of waiting for email entry.",
+    "url": "https://www.littledata.io/persistent-id",
+    "pass": 1
+   },
+   {
+    "quote": "How KittySpout Boosted Email Retargeting Revenue by 65%",
+    "url": "https://www.littledata.io/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time chat and email support",
+    "url": "https://www.littledata.io/plans",
+    "pass": 1
+   },
+   {
+    "quote": "Email and chat support",
+    "url": "https://www.littledata.io/plans",
+    "pass": 1
+   },
+   {
+    "quote": "All plans include email and chat support. Plus plans add managed onboarding, analytics training, and support SLAs.",
+    "url": "https://www.littledata.io/plans",
+    "pass": 1
+   },
+   {
+    "quote": "An abandonment flow can only email a shopper Klaviyo recognizes at the moment they browse, add to cart or start checkout. Klaviyo's onsite tracking misses many of them, because of ad blockers, Safari's tracking limits and mobile checkouts.",
+    "url": "https://www.littledata.io/case-studies/darzi",
+    "pass": 1
+   },
+   {
+    "quote": "4x the typical store per email:",
+    "url": "https://www.littledata.io/case-studies/darzi",
+    "pass": 1
+   },
+   {
+    "quote": "\"Darzi's abandonment flows were only as good as the shoppers Klaviyo could see, and it was missing a lot of them. Once we rebuilt the flows on Littledata's triggers, three times as many cart abandoners started getting the email. The browse flow went from a nice-to-have to one of the store's biggest earners.\"",
+    "url": "https://www.littledata.io/case-studies/darzi",
+    "pass": 1
+   },
+   {
+    "quote": "How KittySpout Boosted Email Retargeting Revenue by 65%",
+    "url": "https://www.littledata.io/case-studies/darzi",
+    "pass": 1
+   },
+   {
+    "quote": "is a luxury jewelry brand with a loyal DTC customer base on Shopify. With email agency",
+    "url": "https://www.littledata.io/case-studies/etoile-milano",
+    "pass": 1
+   },
+   {
+    "quote": "Working with Subjectlime, the team rebuilt their entire Klaviyo program in 58 days: a new sending domain, list growth, and a lifecycle stack of 15 automations. Email became the most reliable channel on the P&L, with €169K attributed in the first reporting window, around 29% of total store revenue.",
+    "url": "https://www.littledata.io/case-studies/etoile-milano",
+    "pass": 1
+   },
+   {
+    "quote": "Étoile Milano's email program was underperforming its potential. Deliverability was degrading, flows were missing or unstructured, and Shopify revenue didn't reconcile with Klaviyo.",
+    "url": "https://www.littledata.io/case-studies/etoile-milano",
+    "pass": 1
+   },
+   {
+    "quote": "of all email-attributed revenue from three Littledata flows",
+    "url": "https://www.littledata.io/case-studies/etoile-milano",
+    "pass": 1
+   },
+   {
+    "quote": "Higher-funnel emails for 2× performance",
+    "url": "https://www.littledata.io/case-studies/etoile-milano",
+    "pass": 1
+   },
+   {
+    "quote": "Klaviyo's native tracking can only start a flow once a shopper enters an email address, around 3% of sessions. By then, half of your engaged shoppers are already out of reach.",
+    "url": "https://www.littledata.io/case-studies/etoile-milano",
+    "pass": 1
+   },
+   {
+    "quote": "Littledata's identity resolution recognizes returning shoppers the moment they act, so Étoile's flows trigger at add to cart (around 6% of sessions) and start checkout, not just at email entry.",
+    "url": "https://www.littledata.io/case-studies/etoile-milano",
+    "pass": 1
+   },
+   {
+    "quote": "Browse abandonment emails",
+    "url": "https://www.littledata.io/case-studies/etoile-milano",
+    "pass": 1
+   },
+   {
+    "quote": "Browse abandonment triggered 36% more emails, in line with the",
+    "url": "https://www.littledata.io/case-studies/etoile-milano",
+    "pass": 1
+   },
+   {
+    "quote": "12.9% of all email-attributed revenue",
+    "url": "https://www.littledata.io/case-studies/etoile-milano",
+    "pass": 1
+   },
+   {
+    "quote": "How KittySpout Boosted Email Retargeting Revenue by 65%",
+    "url": "https://www.littledata.io/case-studies/etoile-milano",
+    "pass": 1
+   },
+   {
+    "quote": "How KittySpout Boosted Email Retargeting Revenue by 65%",
+    "url": "https://www.littledata.io/case-studies/mobelkompagniet",
+    "pass": 1
+   },
+   {
+    "quote": "How KittySpout boosted email retargeting revenue by 65% with Littledata",
+    "url": "https://www.littledata.io/case-studies/kittyspout",
+    "pass": 1
+   },
+   {
+    "quote": ", a platinum Klaviyo agency, since early 2023. In May 2025, Email Kong added Littledata's",
+    "url": "https://www.littledata.io/case-studies/kittyspout",
+    "pass": 1
+   },
+   {
+    "quote": "overall email revenue in the first 30 days",
+    "url": "https://www.littledata.io/case-studies/kittyspout",
+    "pass": 1
+   },
+   {
+    "quote": "How did Littledata and Email Kong fix the flows?",
+    "url": "https://www.littledata.io/case-studies/kittyspout",
+    "pass": 1
+   },
+   {
+    "quote": "Email Kong set up Littledata's",
+    "url": "https://www.littledata.io/case-studies/kittyspout",
+    "pass": 1
+   },
+   {
+    "quote": "Email Kong copied KittySpout's existing abandonment flows and triggered the copies from Littledata's events",
+    "url": "https://www.littledata.io/case-studies/kittyspout",
+    "pass": 1
+   },
+   {
+    "quote": "In the first 30 days, revenue from retargeting email flows rose 65% and overall email revenue rose 27%",
+    "url": "https://www.littledata.io/case-studies/kittyspout",
+    "pass": 1
+   },
+   {
+    "quote": "Campaigns sent to Littledata-built segments brought in extra revenue, which Email Kong tracked in Klaviyo's audience breakdown",
+    "url": "https://www.littledata.io/case-studies/kittyspout",
+    "pass": 1
+   },
+   {
+    "quote": "\"Install the app, clone your existing flows from Klaviyo, turn it live, and you basically print money. In less than 30 days, KittySpout's retargeting email flow revenue has increased by 65%.\"",
+    "url": "https://www.littledata.io/case-studies/kittyspout",
+    "pass": 1
+   },
+   {
+    "quote": "Bogdan Mihalache, Founder of Email Kong",
+    "url": "https://www.littledata.io/case-studies/kittyspout",
+    "pass": 1
+   },
+   {
+    "quote": "Within 30 days of adding Littledata's server-side Klaviyo events, revenue from KittySpout's retargeting email flows rose 65% and its overall email revenue rose 27%. From 1 August to 28 October 2026, the Littledata-triggered flows added 48% to the revenue from its original retargeting flows, and earned about one in three dollars of its retargeting flow revenue.",
+    "url": "https://www.littledata.io/case-studies/kittyspout",
+    "pass": 1
+   },
+   {
+    "quote": "No. KittySpout and Email Kong kept their original flows running, cloned them, and triggered the copies from Littledata's events. You can compare the two in Klaviyo's own flow reports.",
+    "url": "https://www.littledata.io/case-studies/kittyspout",
+    "pass": 1
+   },
+   {
+    "quote": "How KittySpout Boosted Email Retargeting Revenue by 65%",
+    "url": "https://www.littledata.io/case-studies/kittyspout",
+    "pass": 1
+   },
+   {
+    "quote": "How KittySpout Boosted Email Retargeting Revenue by 65%",
+    "url": "https://www.littledata.io/about",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/littledata/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/littledata/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Littledata's solution provided rapid implementation, consolidating 13 data sources and tracking 150,000 daily touchpoints. This enabled johnnie-O to achieve accurate customer lifetime value calculations, improve email campaign performance, and increase average order value through deeper customer insights.",
+    "url": "https://www.casestudies.com/company/littledata/case-study/johnnie-o-tracks-150k-daily-touchpoints-with-littledata",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/131475-79",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/littledata-revenue",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "この開発者は日本語での直接的なサポートを提供していません",
+    "url": "https://apps.shopify.com/littledata?locale=ja",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Littledata | The data layer for Shopify — Littledata connects Shopify to Google Analytics (GA4), Google Ads, Meta Ads, Klaviyo, TikTok, Microsoft Advertising, Pinterest, and Segment. Install the app once and enable each destination as you need it - every connection reads from the same data layer, delivered through each platform's own server-side API.",
+    "url": "https://www.littledata.io/",
+    "pass": 3
+   },
+   {
+    "quote": "LittleData — AI Security, Risk & Compliance Platform — Powered by LittleData.ai Our AI Risk Platform provides continuous monitoring, compliance tracking, and governance tooling.",
+    "url": "https://www.littledata.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Littledata ‑ The Data Layer - Shopify App Store — GA4、Meta、Klaviyo 向けのサーバーサイドトラッキング。 CAC を削減し、ROAS を向上させます。 GTM や開発者は不要です。 Littledata は、Shopify ストア向けに構築されたカスタマイズ可能なデータレイヤーです。",
+    "url": "https://apps.shopify.com/littledata?locale=ja",
+    "pass": 3
+   },
+   {
+    "quote": "AI Infrastructure for Ecommerce | Littledata — Littledata's complete AI infrastructure for ecommerce. Improve your models with enhanced Shopify data, customer profiles and identity resolution.",
+    "url": "https://www.littledata.io/ai-infrastructure",
+    "pass": 3
+   },
+   {
+    "quote": "Littledata ‑ The Data Layer - Shopify App Store — 私たちは、タグベースのトラッキングでは見逃されてしまう収益、オーディエンス、コンバージョンを復元し、クリーンなファーストパーティシグナルを Google Analytics、Google Ads、Meta Ads、Klaviyo、TikTok、Pinterest に送信します。 これにより、マーチャントは実際に売上を牽引している要因をより正確に把握できるようになるため、広告プラットフォームやメールツールはより完全なデータに基づいてより良い意思決定を行うことができます。 Littledata は、Shopify ストア向けに構築されたカスタマイズ可能なデータレイヤーです。",
+    "url": "https://apps.shopify.com/littledata?locale=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Littledata - LinkedIn — Littledata is the data layer for Shopify. We provide a Shopify-native, server-side foundation that delivers accurate, consistent signals to Google Analytics, paid media platforms, and email tools.",
+    "url": "https://jp.linkedin.com/company/littledata/",
+    "pass": 3
+   },
+   {
+    "quote": "About LittleData — AI Risk & Compliance Platform — Founded with a mission to make AI security accessible to every organisation, LittleData brings together expertise in cybersecurity, machine learning, and regulatory compliance.",
+    "url": "https://www.littledata.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Littledata Customer Success Stories — Case studies and customer success stories: learn how Shopify brands harness accurate first-party data from Littledata for ecommerce growth.",
+    "url": "https://www.littledata.io/case-studies/index",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - LittleData — Customer Success Stories See how organisations use LittleData to achieve compliance faster, reduce manual work, and govern AI agents at scale.",
+    "url": "https://www.littledata.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "20 Littledata Case Studies, Success Stories, & Customer ... — Narrow down 20 case studies by company size & industry to find out how Littledata works for a business like yours.",
+    "url": "https://www.featuredcustomers.com/vendor/littledata/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Møbelkompagniet recovers six figures in 30 days ... — Møbelkompagniet (Retail) partnered with Littledata (Internet) to solve key challenges. \"Møbelkompagniet recovers six figures in 30 days with Littledata\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/littledata/case-study/mbelkompagniet-recovers-six-figures-in-30-days-with-littledata",
+    "pass": 3
+   },
+   {
+    "quote": "Littledata – Overview – Funding, Revenue & Growth – 2026 — Discover Littledata's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/littledata",
+    "pass": 3
+   },
+   {
+    "quote": "Littledata 2026 Company Profile: Valuation, Funding ...Littledata Revenue, Funding & Valuation - prospeo.ioLittledata - 2025 Company Profile, Team, Funding, Competitors ...Littledata - Crunchbase Company Profile & FundingLittledata Revenue 2025: $3M Est. - getlatka.comlittledata - 2026 Company Profile, Competitors | The Company ... — Information on valuation, funding, cap tables, investors, and ex",
+    "url": "https://pitchbook.com/profiles/company/131475-79",
+    "pass": 3
+   },
+   {
+    "quote": "Littledata Revenue, Funding & Valuation - prospeo.io — Littledata has revenue of $2,224,430, estimated valuation of $7,200,000, $99,400 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/littledata-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Littledata - 2025 Company Profile, Team, Funding, Competitors ...Littledata - Crunchbase Company Profile & FundingLittledata Revenue 2025: $3M Est. - getlatka.comlittledata - 2026 Company Profile, Competitors | The Company ... — Jun 24, 2025 · Littledata - On-demand Google Analytics. Raised a total funding of $99.3K over 1 round from 20 investors. Founded by Edward Upton in the year 2014. Littleda",
+    "url": "https://tracxn.com/d/companies/littledata/__uLSqfvBvm_HhrBxBJGQrjNPBisd7UVXNev69g43xUOc",
+    "pass": 3
+   },
+   {
+    "quote": "Littledata - Crunchbase Company Profile & FundingLittledata Revenue 2025: $3M Est. - getlatka.comlittledata - 2026 Company Profile, Competitors | The Company ... — By automatically connecting marketing channels such as Facebook, consumer analytics like Google Analytics and purchasing online from the likes of Shopify, Littledata makes it easy to track key performance indicators at every customer to",
+    "url": "https://www.crunchbase.com/organization/littledata",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Littledata (@littledatauk) / X We activated Littledata’s Klaviyo integration, leveraging server-side tracked events and advanced identity resolution. The brand saw a 64% increase in revenue from existing abandonment flows in under 15 minutes of setup.",
+    "url": "https://x.com/LittledataUK",
+    "pass": 3
+   },
+   {
+    "quote": "Little Data (@littledata) / Posts / X Little Data (@littledata) - Posts - | X (formerly Twitter) Little Data littledata Joined: May 28, 2012 0Posts 0Following 0Followers",
+    "url": "https://x.com/Littledata",
+    "pass": 3
+   },
+   {
+    "quote": "#littledata - Search / X See posts about #littledata on X. See what people are saying and join the conversation.",
+    "url": "https://x.com/hashtag/littledata",
+    "pass": 3
+   },
+   {
+    "quote": "#littledata - Search / X Aspirational spa owner, healer, author, seeker of meaning, etc. Licensed Massage Therapist 16 years. Muscle whisperer, tension tamer, storyteller. Littledata @littledatauk",
+    "url": "https://x.com/hashtag/littledata?f=user",
+    "pass": 3
+   },
+   {
+    "quote": "Littledata (@littledatauk) / X How did they do it? It’s all about using the right strategies and leveraging their data with a little help from Littledata. 📊🔍 We break down their success story in our latest blog post. If you’re ready to stop leaving money on the table, give it a read today! 💡",
+    "url": "https://x.com/LittledataUK",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Littledata - LinkedIn Littledata is the data layer for Shopify. We provide a Shopify-native, server-side foundation that delivers accurate, consistent signals to Google Analytics, paid media platforms, and email tools.",
+    "url": "https://www.linkedin.com/company/littledata",
+    "pass": 3
+   },
+   {
+    "quote": "Littledata - LinkedIn Littledata is the data layer for Shopify. We provide a Shopify-native, server-side foundation that delivers accurate, consistent Shopify data to Google Analytics, paid media platforms, and email...",
+    "url": "https://www.linkedin.com/products/littledata/",
+    "pass": 3
+   },
+   {
+    "quote": "Edward Upton - Littledata | LinkedInLittledata | LinkedInCornelia Damian - Customer Success @ Littledata the data ...David Rares Pascu - Head of Client Services at Littledata ...Little Data - LinkedIn Edward founded Littledata to make it ridiculously easy to connect sales, marketing and… · Experience: Littledata · Location: London · 500+ connections on LinkedIn. View Edward Upton’s profile... Litt",
+    "url": "https://uk.linkedin.com/in/edwardupton",
+    "pass": 3
+   },
+   {
+    "quote": "Littledata | LinkedIn Littledata is the data layer for Shopify. We provide a Shopify-native, server-side foundation that delivers accurate, consistent signals to Google Analytics, paid media platforms, and email tools.",
+    "url": "https://ro.linkedin.com/company/littledata",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Littledata | London - FacebookLittledata - Half a month is a short test for tracking ...Running Elevar on GTM? Data layer upkeep, tag debugging, re ...Littledata's free trial is 30 days. Elevar's is 15. Start in ...Little Data - FacebookAdding TikTok for BFCM? Elevar plans include a set number of ...Littledata - Littledata updated their cover photo. - Facebook Dec 19, 2025 · SOLUTION Littledata’s ",
+    "url": "https://www.facebook.com/littledatauk/",
+    "pass": 3
+   },
+   {
+    "quote": "Littledata - Half a month is a short test for tracking ... Nov 2, 2026 · Half a month is a short test for tracking your reports depend on. Littledata gives you 30 days free, and a human to talk to.",
+    "url": "https://www.facebook.com/littledatauk/posts/half-a-month-is-a-short-test-for-tracking-your-reports-depend-on-littledata-give/1746508033659877/",
+    "pass": 3
+   },
+   {
+    "quote": "Littledata's free trial is 30 days. Elevar's is 15. Start in ... 4 days ago · Littledata's free trial is 30 days. Elevar's is 15. Start in early November and your trial runs through Black Friday and Cyber Monday, so you can see how your tracking holds up on real peak traffic...",
+    "url": "https://www.facebook.com/littledatauk/videos/test-it-on-your-biggest-weekend/1840841780564223/",
+    "pass": 3
+   },
+   {
+    "quote": "Little Data - Facebook May 27, 2026 · From loyal voters sticking with tradition, to swing voters weighing key issues, and even those who vote based on personal beliefs or single concerns—every type of voter plays a part in shaping Botswana’s future. Let’s embrace this opportunity with respect for all perspectives. 🇧🇼 #LittleData",
+    "url": "https://www.facebook.com/LittleDataBW/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.littledata.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.littledata.io/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.littledata.io/persistent-id",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.littledata.io/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.littledata.io/plans",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.littledata.io/case-studies/darzi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.littledata.io/case-studies/the-diamond-store",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.littledata.io/case-studies/rms-beauty",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.littledata.io/case-studies/etoile-milano",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.littledata.io/case-studies/how-drowsy-scales-klaviyo-personalisation-with-littledata",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.littledata.io/case-studies/future-kind",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.littledata.io/case-studies/mobelkompagniet",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.littledata.io/case-studies/soft-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.littledata.io/case-studies/kittyspout",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.littledata.io/case-studies/provenskincare",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.littledata.io/case-studies/naturalmat",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.littledata.io/about",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://res.cloudinary.com/littledata/image/upload/f_auto,dpr_auto,q_auto:good,c_pad,w_auto/www2/img/LittledataPreferred_Light.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://res.cloudinary.com/littledata/image/upload/f_auto,dpr_auto,q_auto:good,c_pad,w_auto/www2/img/Recognize-Returning-Customers.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.littledata.io/assets/chat.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.littledata.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apps.shopify.com/littledata?locale=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://diamond.jp/articles/-/395504",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apps.shopify.com/littledata?locale=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/littledata/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.littledata.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/littledata/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/littledata/case-study/johnnie-o-tracks-150k-daily-touchpoints-with-littledata",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.databricks.com/partners/partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/littledata",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/131475-79",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prospeo.io/c/littledata-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/littledata/__uLSqfvBvm_HhrBxBJGQrjNPBisd7UVXNev69g43xUOc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/LittledataUK",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Littledata",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/littledata",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/littledata?f=user",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/littledata",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/littledata/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/edwardupton",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ro.linkedin.com/company/littledata",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/littledatauk/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/littledatauk/posts/half-a-month-is-a-short-test-for-tracking-your-reports-depend-on-littledata-give/1746508033659877/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/littledatauk/videos/test-it-on-your-biggest-weekend/1840841780564223/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/LittleDataBW/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/LittledataUK",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Littledata",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/littledata",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/littledata?f=user",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Littledata 日本 導入",
+   "results": [
+    "https://www.littledata.io/",
+    "https://www.littledata.com/",
+    "https://apps.shopify.com/littledata?locale=ja",
+    "https://diamond.jp/articles/-/395504",
+    "https://1-president.com/services-japan-absence/",
+    "https://www.nttdata.com/global/ja/news/topics/2026/041400/",
+    "https://36kr.jp/502580/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Littledata 代理店 OR 総代理店 OR 日本法人",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Littledata Japan",
+   "results": [
+    "https://www.littledata.io/",
+    "https://www.littledata.io/ai-infrastructure",
+    "https://apps.shopify.com/littledata?locale=ja",
+    "https://jp.linkedin.com/company/littledata/",
+    "https://www.littledata.com/about/",
+    "https://trends.builtwith.com/websitelist/Littledata/Japan",
+    "https://www.littledata.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Littledata manufacturing customer case study",
+   "results": [
+    "https://www.littledata.io/case-studies/index",
+    "https://www.littledata.com/case-studies/",
+    "https://www.featuredcustomers.com/vendor/littledata/case-studies",
+    "https://www.casestudies.com/company/littledata/case-study/johnnie-o-tracks-150k-daily-touchpoints-with-littledata",
+    "https://www.casestudies.com/company/littledata/case-study/mbelkompagniet-recovers-six-figures-in-30-days-with-littledata",
+    "https://www.featuredcustomers.com/vendor/littledata",
+    "https://sweetanalytics.com/blog/how-naturalmat-cut-cpa-by-46-and-tripled-conversions-with-littledata-and-sweet-analytics/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Littledata white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.databricks.com/partners/partner-program",
+    "https://partner.vw.com/partner",
+    "https://upcloud.com/partner-program/",
+    "https://www.t-mobile.com/business/partner-recruitment",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Littledata founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/littledata",
+    "https://pitchbook.com/profiles/company/131475-79",
+    "https://prospeo.io/c/littledata-revenue",
+    "https://tracxn.com/d/companies/littledata/__uLSqfvBvm_HhrBxBJGQrjNPBisd7UVXNev69g43xUOc",
+    "https://www.crunchbase.com/organization/littledata",
+    "https://getlatka.com/companies/littledata.io",
+    "https://www.thecompanycheck.com/company/b/littledata/66a40b6ca4154e919"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Littledata",
+   "results": [
+    "https://note.com/lively_pika8336/n/n5adf36c23e7b",
+    "https://note.com/littletiger/n/n5aca8ae2d9e9?hl=en",
+    "https://note.com/lucky_hornet2042/n/n9b63dedfb652?hl=en",
+    "https://note.com/rokkuncoron/n/nac54d0f4f88b?hl=en",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kamokita/n/na5b7ba6ed22e?hl=en",
+    "https://note.com/noted_dove6010/n/n9ee8da1e0357"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Littledata",
+   "results": [
+    "https://x.com/LittledataUK",
+    "https://x.com/Littledata",
+    "https://x.com/hashtag/littledata",
+    "https://x.com/hashtag/littledata?f=user",
+    "https://x.com/binghott/status/2044439625482092981",
+    "https://x.com/eUpton/status/2049818047389499826",
+    "https://x.com/littledatalarry/status/2099816498101440669"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Littledata",
+   "results": [
+    "https://www.linkedin.com/company/littledata",
+    "https://www.linkedin.com/products/littledata/",
+    "https://uk.linkedin.com/in/edwardupton",
+    "https://ro.linkedin.com/company/littledata",
+    "https://ca.linkedin.com/in/cornelia-damian-068b6121a",
+    "https://ro.linkedin.com/in/david-rares-pascu-26b69aa9",
+    "https://www.linkedin.com/company/little-data"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Littledata",
+   "results": [
+    "https://www.facebook.com/littledatauk/",
+    "https://www.facebook.com/littledatauk/posts/half-a-month-is-a-short-test-for-tracking-your-reports-depend-on-littledata-give/1746508033659877/",
+    "https://www.facebook.com/littledatauk/videos/test-it-on-your-biggest-weekend/1840841780564223/",
+    "https://www.facebook.com/LittleDataBW/",
+    "https://www.facebook.com/littledatauk/photos/1462702932040390/",
+    "https://www.facebook.com/littledatauk/videos/stop-paying-the-gtm-tax/1160467473125864/",
+    "https://www.facebook.com/littledatauk/videos/dont-pay-to-unlock-your-own-data/1087029840811816/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Littledata note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://www.littledata.io/",
+    "https://henleybusinessangels.com/ed-upton-interview/",
+    "https://www.littledata.io/blog",
+    "https://www.linkedin.com/company/littledata",
+    "https://www.littledata.com/about/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Littledata X 投稿",
+   "results": [
+    "https://x.com/LittledataUK",
+    "https://x.com/Littledata",
+    "https://x.com/hashtag/littledata",
+    "https://x.com/hashtag/littledata?f=user",
+    "https://www.littledata.io/",
+    "https://www.littledata.com/",
+    "https://www.instagram.com/littledatauk/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式17頁／PDF・画像3件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式17頁／PDF・画像3件／外部32頁・検索12回）"
+ }
+}

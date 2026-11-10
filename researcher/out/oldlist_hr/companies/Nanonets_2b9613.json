@@ -1,0 +1,1498 @@
+{
+ "name": "Nanonets",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜リマイン1",
+ "researched_at": "2026-11-09T23:50:01.480612+00:00",
+ "official_url": "https://nanonets.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Nanonets: AI Agents for Enterprise Data Processing",
+    "url": "https://nanonets.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn your business processes",
+    "url": "https://nanonets.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Nanonets converts policies, procedures, systems, knowledge into AI agents that run your",
+    "url": "https://nanonets.com/",
+    "pass": 1
+   },
+   {
+    "quote": "10,000+ enterprises",
+    "url": "https://nanonets.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Held — price mismatch",
+    "url": "https://nanonets.com/",
+    "pass": 1
+   },
+   {
+    "quote": "all other business processes",
+    "url": "https://nanonets.com/",
+    "pass": 1
+   },
+   {
+    "quote": "and all your other business processes",
+    "url": "https://nanonets.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Help agents solve the most complex problems with",
+    "url": "https://nanonets.com/",
+    "pass": 1
+   },
+   {
+    "quote": "an enterprise agreement",
+    "url": "https://nanonets.com/",
+    "pass": 1
+   },
+   {
+    "quote": "three prior returns this quarter",
+    "url": "https://nanonets.com/",
+    "pass": 1
+   },
+   {
+    "quote": "their rep promised an exception on a call",
+    "url": "https://nanonets.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SO-4471 is the enterprise agreement, dated 62 days ago.",
+    "url": "https://nanonets.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Who approves, in what order?",
+    "url": "https://nanonets.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trail converts your enterprise policies, procedures, systems, and institutional knowledge into a governed graph for AI.",
+    "url": "https://nanonets.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Drop in the SOP, policy docs, and other forms of documentation of your business processes. A PDF / DOCX upload or simply a set of instructions.",
+    "url": "https://nanonets.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Claims Adjudication — Auto & Property",
+    "url": "https://nanonets.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Standard Operating Procedure",
+    "url": "https://nanonets.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Review, approve, run",
+    "url": "https://nanonets.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Claims processing agent",
+    "url": "https://nanonets.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Precedence · deductible first",
+    "url": "https://nanonets.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“ProPEX 3/4 inch” matches two product codes. Which one should I use?",
+    "url": "https://nanonets.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every human input made on an exception or approval leads to learning, and makes your agents more autonomous with time.",
+    "url": "https://nanonets.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Conflicts are rarely obvious until the right edge case exposes them. Nanonets surfaces and diagnoses undetected issues, and proposes fixes to improve agents.",
+    "url": "https://nanonets.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Net-60 payment terms require manual approval on every request.",
+    "url": "https://nanonets.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A lot of context on business processes is tribal, passed down through precedents and internal conversations. Nanonets captures everything.",
+    "url": "https://nanonets.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PR-to-quote match rate",
+    "url": "https://nanonets.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "From 80 manual verifiers to automated PR-to-quote matching",
+    "url": "https://nanonets.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Schneider Electric's procurement teams matched every purchase requisition against its vendor quote by hand across 70 countries. Nanonets now extracts each quote so Schneider's automation verifies the match and issues the PO without the manual review.",
+    "url": "https://nanonets.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Roche Greece needed to process thousands of Greek-language hospital POs without sending data outside the EU. One AI agent handles intake, extraction, review routing, and Dropbox export — fully on-premise.",
+    "url": "https://nanonets.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "93% Processing Time Reduction",
+    "url": "https://nanonets.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "touchless order processing",
+    "url": "https://nanonets.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Order confirmation automation for UniPro Foodservice",
+    "url": "https://nanonets.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "UniPro coordinates order confirmations across 400+ trading partners sending documents in different formats — a workflow that broke every time layouts or contracts changed. A Nanonets agent reads plain-English business rules, extracts from any format, and reconciles against Dynamics 365 — 93% fully touchless.",
+    "url": "https://nanonets.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "reduction in processing time",
+    "url": "https://nanonets.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Asian Paints processes vendor documents from 22,000+ suppliers — invoices, POs, delivery notes, and DANs — through one automated pipeline that classifies, extracts, reconciles, and imports into SAP.",
+    "url": "https://nanonets.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "90% Faster Processing",
+    "url": "https://nanonets.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "efficiency improvement",
+    "url": "https://nanonets.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "SaltPay transitioned to SAP but had no integration support for invoice processing across 100K+ vendors. A Nanonets agent now extracts, validates against business rules, and posts directly to SAP AP end-to-end.",
+    "url": "https://nanonets.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "10x Productivity",
+    "url": "https://nanonets.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "PayGround's mobile app required patients to manually fill 6-10 form fields per medical bill. A Nanonets agent now scans bills, extracts all fields, and pre-fills the payment form — zero manual input.",
+    "url": "https://nanonets.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Maintenance invoice automation for Ascend Properties",
+    "url": "https://nanonets.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Ascend's 50% YoY growth meant invoice volume was outpacing staff. 5 FTEs and 6 hours/day of manual work. A Nanonets agent now processes 400 invoices daily — extracting, validating, and uploading to SQL automatically.",
+    "url": "https://nanonets.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Hometown Holdings manually posted utility bills from 2,500 property units into Rent Manager. A Nanonets agent now ingests from email, extracts all fields, maps vendors, and posts to Rent Manager — 88% straight-through.",
+    "url": "https://nanonets.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "88% Auto-Processing",
+    "url": "https://nanonets.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Expatrio manually verified international passports for relocation customers — a slow, error-prone process across multiple document formats. A Nanonets agent now extracts all passport fields automatically, validates MRZ numbers, and flags fraudulent documents.",
+    "url": "https://nanonets.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "SafeRide Health manually processed 15,000 pages/month of driver and vehicle documents across 16 document types into Salesforce. A Nanonets agent now classifies, extracts, validates, and exports — 80% fully touchless.",
+    "url": "https://nanonets.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "500% Productivity",
+    "url": "https://nanonets.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "85% Faster Processing",
+    "url": "https://nanonets.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "reduction in daily processing time",
+    "url": "https://nanonets.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Augeo manually processed 3,000 vendor invoices monthly for a non-profit client — 4 hours of daily data entry with no native OCR in Accounting Seed. A Nanonets agent now extracts, validates, and posts invoices directly into Salesforce in under 30 minutes.",
+    "url": "https://nanonets.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "For teams processing at scale. Shared credits, premium AI blocks, and analytics included.",
+    "url": "https://nanonets.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For large processing volumes with compliance, security, and deployment requirements.",
+    "url": "https://nanonets.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Private cloud / on-prem deployment",
+    "url": "https://nanonets.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Priced by complexity.",
+    "url": "https://nanonets.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Each step in a workflow is a block. Simple blocks cost less. Complex AI blocks cost more. Total cost = number of runs × block price.",
+    "url": "https://nanonets.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "A typical invoice processing workflow runs 4–6 blocks per document. Volume discounts apply on Credits Accelerate and Enterprise plans.",
+    "url": "https://nanonets.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Credits are prepaid usage you can spend across any workflow blocks. Volume purchases unlock discounts of up to 40%. Credits are shared across your team and never expire.",
+    "url": "https://nanonets.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Total cost = number of runs × block price. A typical invoice processing workflow runs 4–6 blocks per document. At $0.30 per complex AI block, that's under $2 per invoice end-to-end.",
+    "url": "https://nanonets.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. You can upgrade to Growth or Enterprise at any time. If you're an existing Nanonets customer on legacy pricing, reach out to your account manager.",
+    "url": "https://nanonets.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, every account starts with $50 in free credits, no card required, so you can process documents before you spend a dollar. When you're ready, $100/month gets you 100 credits.",
+    "url": "https://nanonets.com/pricing",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "From the operators running Nanonets on real processes at scale.",
+    "url": "https://nanonets.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Energy Management / Industrial Automation",
+    "url": "https://nanonets.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Schneider Electric SE is a global leader in energy management and industrial automation, serving customers in over 100 countries with solutions ranging from electrical distribution to digital transformation for industry.",
+    "url": "https://nanonets.com/customers/schneider-electric",
+    "pass": 1
+   },
+   {
+    "quote": "Asia's third-largest paint manufacturer, Fortune 500 India company founded in 1942, producing industrial coatings and consumer paints across 14 countries.",
+    "url": "https://nanonets.com/customers/asian-paints",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing facilities",
+    "url": "https://nanonets.com/customers/asian-paints",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "35% of the Fortune 500",
+    "url": "https://nanonets.com/",
+    "pass": 1
+   },
+   {
+    "quote": "One single email requires five different kinds of context, each owned by a different team. The returns policy doesn’t know the call, the ERP doesn’t know the agreement, and so on.",
+    "url": "https://nanonets.com/",
+    "pass": 1
+   },
+   {
+    "quote": "because it's a Fortune 500 logo and such accounts are typically low churn-risk for us",
+    "url": "https://nanonets.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500",
+    "url": "https://nanonets.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From AI-native hypergrowth companies to Fortune 500 enterprises,",
+    "url": "https://nanonets.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From Fortune 500s to scale-ups, teams across industries use Nanonets agents to act on their systems of record and eliminate manual work.",
+    "url": "https://nanonets.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Mondelez manually validated freight invoices against carrier rate cards across MEA, SEA, and Australia. An autonomous Nanonets agent now handles invoice validation, rate card matching, reconciliation, and discrepancy flags end-to-end.",
+    "url": "https://nanonets.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "GenesisONE employees manually keyed invoice data from FileBound into E-Automate ERP — 1,920 hours per year of avoidable work. A Nanonets agent now ingests from Gmail, extracts fields, routes by department, and exports to E-Automate automatically.",
+    "url": "https://nanonets.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "From AI-native hypergrowth companies to Fortune 500 enterprises,",
+    "url": "https://nanonets.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "From AI-native hypergrowth companies to Fortune 500 enterprises,",
+    "url": "https://nanonets.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "From AI-native hypergrowth companies to Fortune 500 enterprises,",
+    "url": "https://nanonets.com/customers/schneider-electric",
+    "pass": 1
+   },
+   {
+    "quote": "Mondelez manually validated freight invoices against carrier rate cards across MEA, SEA, and Australia. An autonomous Nanonets agent now handles invoice validation, rate card matching, reconciliation, and discrepancy flags end-to-end.",
+    "url": "https://nanonets.com/customers/mondelez",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500",
+    "url": "https://nanonets.com/customers/mondelez",
+    "pass": 1
+   },
+   {
+    "quote": "Ingests carrier rate cards per region (MEA, SEA, AUS)",
+    "url": "https://nanonets.com/customers/mondelez",
+    "pass": 1
+   },
+   {
+    "quote": "From AI-native hypergrowth companies to Fortune 500 enterprises,",
+    "url": "https://nanonets.com/customers/mondelez",
+    "pass": 1
+   },
+   {
+    "quote": "Roche is the world's largest biotech company and a global leader in in-vitro diagnostics and cancer treatment. Operating in over 100 countries with more than 100,000 employees, Roche serves patients through both its Pharmaceuticals and Diagnostics divisions.",
+    "url": "https://nanonets.com/customers/roche",
+    "pass": 1
+   },
+   {
+    "quote": "Roche Greece's Finance team receives purchase orders from hospitals across the country. Every document arrives in Greek, across multiple formats like scanned PDFs, typed forms, fax printouts.",
+    "url": "https://nanonets.com/customers/roche",
+    "pass": 1
+   },
+   {
+    "quote": "From AI-native hypergrowth companies to Fortune 500 enterprises,",
+    "url": "https://nanonets.com/customers/roche",
+    "pass": 1
+   },
+   {
+    "quote": "From AI-native hypergrowth companies to Fortune 500 enterprises,",
+    "url": "https://nanonets.com/customers/unipro",
+    "pass": 1
+   },
+   {
+    "quote": "Asia's third-largest paint manufacturer, Fortune 500 India company founded in 1942, producing industrial coatings and consumer paints across 14 countries.",
+    "url": "https://nanonets.com/customers/asian-paints",
+    "pass": 1
+   },
+   {
+    "quote": "From AI-native hypergrowth companies to Fortune 500 enterprises,",
+    "url": "https://nanonets.com/customers/asian-paints",
+    "pass": 1
+   },
+   {
+    "quote": "From AI-native hypergrowth companies to Fortune 500 enterprises,",
+    "url": "https://nanonets.com/customers/jti",
+    "pass": 1
+   },
+   {
+    "quote": "35% of the Fortune 500",
+    "url": "https://nanonets.com/solutions/accounts-payable",
+    "pass": 1
+   },
+   {
+    "quote": "…where a supplier agreement carries 2/10 net-30, the invoice shall be scheduled inside the discount window; where the next scheduled run falls after that window, the invoice is advanced to the preceding run…",
+    "url": "https://nanonets.com/solutions/accounts-payable",
+    "pass": 1
+   },
+   {
+    "quote": "What actually arrived?",
+    "url": "https://nanonets.com/solutions/accounts-payable",
+    "pass": 1
+   },
+   {
+    "quote": "AP-40287 · Quarry Ridge Timber",
+    "url": "https://nanonets.com/solutions/accounts-payable",
+    "pass": 1
+   },
+   {
+    "quote": "Nanonets' direct integration with SAP helped us automate a crucial part of our Accounts Payable process.",
+    "url": "https://nanonets.com/solutions/accounts-payable",
+    "pass": 1
+   },
+   {
+    "quote": "35% of Fortune 500 and 10,000+ companies use",
+    "url": "https://nanonets.com/solutions/accounts-payable",
+    "pass": 1
+   },
+   {
+    "quote": "From AI-native hypergrowth companies to Fortune 500 enterprises,",
+    "url": "https://nanonets.com/solutions/accounts-payable",
+    "pass": 1
+   },
+   {
+    "quote": "35% of the Fortune 500",
+    "url": "https://nanonets.com/solutions/order-management",
+    "pass": 1
+   },
+   {
+    "quote": "captures incoming orders, validates them against catalog, pricing, and inventory, creates the sales order in the ERP, and tracks it through fulfillment. It is the layer that turns a purchase order arriving by email, portal, or EDI into a confirmed, fulfillable sales order.",
+    "url": "https://nanonets.com/solutions/order-management",
+    "pass": 1
+   },
+   {
+    "quote": "35% of Fortune 500 and 10,000+ companies use",
+    "url": "https://nanonets.com/solutions/order-management",
+    "pass": 1
+   },
+   {
+    "quote": "From AI-native hypergrowth companies to Fortune 500 enterprises,",
+    "url": "https://nanonets.com/solutions/order-management",
+    "pass": 1
+   },
+   {
+    "quote": "Nanonets converts your carrier contracts, customs procedures, tariff schedules, and carrier BOL formats into AI agents that run your logistics processes — from dock receipt to freight settlement.",
+    "url": "https://nanonets.com/solutions/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "35% of the Fortune 500",
+    "url": "https://nanonets.com/solutions/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Carrier rate validation",
+    "url": "https://nanonets.com/solutions/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Import the carrier agreement, customs procedure, or dock-receipt SOP your operations team maintains. Nanonets reads it, builds the agent, and shows which clause produced each rule.",
+    "url": "https://nanonets.com/solutions/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Drop in the carrier contracts, tariff schedules, or customs procedures your team already maintains — PDF, DOCX, scans.",
+    "url": "https://nanonets.com/solutions/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Carrier agreement says §3.4",
+    "url": "https://nanonets.com/solutions/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "If detention is billed inside the five free days, or arrives with no signed interchange receipt,",
+    "url": "https://nanonets.com/solutions/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "a lane with two contracted carriers",
+    "url": "https://nanonets.com/solutions/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "One question. Five kinds of context, each in a different system — the carrier contract doesn't know the dwell clock, and the TMS doesn't know what the broker wrote.",
+    "url": "https://nanonets.com/solutions/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Carrier contracts & tariffs",
+    "url": "https://nanonets.com/solutions/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Booked on Carrier B · master BOL, 2 containers",
+    "url": "https://nanonets.com/solutions/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Scanned BOLs, emailed PODs, customs declarations, packing lists. Any carrier, any format, any language.",
+    "url": "https://nanonets.com/solutions/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "35% of Fortune 500 and 10,000+ companies use",
+    "url": "https://nanonets.com/solutions/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "From AI-native hypergrowth companies to Fortune 500 enterprises,",
+    "url": "https://nanonets.com/solutions/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "35% of the Fortune 500",
+    "url": "https://nanonets.com/solutions/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Import the payer policy, prior-auth checklist, or credentialing packet your revenue-cycle team maintains. Nanonets reads it, builds the agent, and shows which clause produced each rule.",
+    "url": "https://nanonets.com/solutions/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "35% of Fortune 500 and 10,000+ companies use",
+    "url": "https://nanonets.com/solutions/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "From AI-native hypergrowth companies to Fortune 500 enterprises,",
+    "url": "https://nanonets.com/solutions/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "35% of the Fortune 500",
+    "url": "https://nanonets.com/solutions/sap",
+    "pass": 1
+   },
+   {
+    "quote": "A vendor invoice arrives for",
+    "url": "https://nanonets.com/solutions/sap",
+    "pass": 1
+   },
+   {
+    "quote": "What actually arrived?",
+    "url": "https://nanonets.com/solutions/sap",
+    "pass": 1
+   },
+   {
+    "quote": "35% of Fortune 500 and 10,000+ companies use",
+    "url": "https://nanonets.com/solutions/sap",
+    "pass": 1
+   },
+   {
+    "quote": "From AI-native hypergrowth companies to Fortune 500 enterprises,",
+    "url": "https://nanonets.com/solutions/sap",
+    "pass": 1
+   },
+   {
+    "quote": "From AI-native hypergrowth companies to Fortune 500 enterprises,",
+    "url": "https://nanonets.com/customers/pro-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500級の大規模要件もご相談可能ですが、評価のため営業との強制やり取りは不要です",
+    "url": "https://parseur.com/ja/hikaku/nanonets-daitai",
+    "pass": 3
+   },
+   {
+    "quote": "The solution serves businesses in retail, logistics, healthcare, finance, and insurance, with use cases including accounts payable automation, order processing, and insurance underwriting. Nanonets reports that a notable portion of Fortune 500 companies rely on its service.",
+    "url": "https://www.extend.ai/resources/nanonets-review-features-pricing-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "Customization options remain limited compared to other solutions. Advanced features carry a steep learning curve, making it difficult to adapt the platform to non-standard documents or specialized extraction needs.",
+    "url": "https://www.extend.ai/resources/nanonets-review-features-pricing-alternatives",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "22,000+ suppliers onboarded, zero chase emails",
+    "url": "https://nanonets.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A customer send an email asking to",
+    "url": "https://nanonets.com/",
+    "pass": 1
+   },
+   {
+    "quote": "One single email requires five different kinds of context, each owned by a different team. The returns policy doesn’t know the call, the ERP doesn’t know the agreement, and so on.",
+    "url": "https://nanonets.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Nanonets connects to Slack, Zoom, Teams, email, all the places where your team's unwritten rules and precedents live, and extracts them.",
+    "url": "https://nanonets.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Email, docs & storage",
+    "url": "https://nanonets.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Configure approval gates to route edge cases to Slack, Teams, or email for review.",
+    "url": "https://nanonets.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hometown Holdings manually posted utility bills from 2,500 property units into Rent Manager. A Nanonets agent now ingests from email, extracts all fields, maps vendors, and posts to Rent Manager — 88% straight-through.",
+    "url": "https://nanonets.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Tigris manually extracted data from invoices, POs, and bills of lading — ~70% accuracy and multiple manual touchpoints per document. A Nanonets agent now ingests from email, extracts via 5 custom models, and exports to NetSuite via webhook.",
+    "url": "https://nanonets.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "That Index processed hundreds of thousands of invoices and credit notes for a UK charity — manually feasible at small scale but impossible at volume. A Nanonets agent now ingests via email API, extracts with 100+ post-processing rules, and exports to MSSQL in 6 seconds per document.",
+    "url": "https://nanonets.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us for a quote",
+    "url": "https://nanonets.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Ingests freight invoices from email/portal",
+    "url": "https://nanonets.com/customers/mondelez",
+    "pass": 1
+   },
+   {
+    "quote": "PDF, email, spreadsheet — any format",
+    "url": "https://nanonets.com/customers/unipro",
+    "pass": 1
+   },
+   {
+    "quote": "Monitors email inbox and upload portal for incoming invoices",
+    "url": "https://nanonets.com/customers/unipro",
+    "pass": 1
+   },
+   {
+    "quote": "from scattered documents across email and SAP slowed the entire AP cycle.",
+    "url": "https://nanonets.com/customers/asian-paints",
+    "pass": 1
+   },
+   {
+    "quote": "Imports documents from SAP and email portal",
+    "url": "https://nanonets.com/customers/asian-paints",
+    "pass": 1
+   },
+   {
+    "quote": "their rep emailed a price change nobody filed",
+    "url": "https://nanonets.com/solutions/accounts-payable",
+    "pass": 1
+   },
+   {
+    "quote": "One invoice. Five kinds of context, each in a different system — the PO doesn’t know the email, and the ERP doesn’t know the tolerance.",
+    "url": "https://nanonets.com/solutions/accounts-payable",
+    "pass": 1
+   },
+   {
+    "quote": "Supplier email thread",
+    "url": "https://nanonets.com/solutions/accounts-payable",
+    "pass": 1
+   },
+   {
+    "quote": "Vendor emails, PDFs, scanned paper, EDI feeds. Any format, any channel. The agent reads them all without templates.",
+    "url": "https://nanonets.com/solutions/accounts-payable",
+    "pass": 1
+   },
+   {
+    "quote": "Configure approval gates to route edge cases to Slack, Teams, or email for review.",
+    "url": "https://nanonets.com/solutions/accounts-payable",
+    "pass": 1
+   },
+   {
+    "quote": "Email & account notes",
+    "url": "https://nanonets.com/solutions/order-management",
+    "pass": 1
+   },
+   {
+    "quote": "captures incoming orders, validates them against catalog, pricing, and inventory, creates the sales order in the ERP, and tracks it through fulfillment. It is the layer that turns a purchase order arriving by email, portal, or EDI into a confirmed, fulfillable sales order.",
+    "url": "https://nanonets.com/solutions/order-management",
+    "pass": 1
+   },
+   {
+    "quote": "POs from email attachments, web portals, EDI feeds, and fax. Every channel, every format, in one flow.",
+    "url": "https://nanonets.com/solutions/order-management",
+    "pass": 1
+   },
+   {
+    "quote": "Configure approval gates to route edge cases to Slack, Teams, or email for review.",
+    "url": "https://nanonets.com/solutions/order-management",
+    "pass": 1
+   },
+   {
+    "quote": "Your ERP records the order once it is clean and structured. Nanonets does the work before that: reading POs from email, portals, EDI, and PDFs in any format, validating them, and creating the order in your ERP automatically. It sits in front of the ERP, not instead of it.",
+    "url": "https://nanonets.com/solutions/order-management",
+    "pass": 1
+   },
+   {
+    "quote": "Email attachments, web portals, EDI feeds, PDFs, and fax, handled identically in one flow. No separate process per channel and no templates per customer.",
+    "url": "https://nanonets.com/solutions/order-management",
+    "pass": 1
+   },
+   {
+    "quote": "the broker emailed a revised HS code",
+    "url": "https://nanonets.com/solutions/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Broker email & customs notes",
+    "url": "https://nanonets.com/solutions/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Scanned BOLs, emailed PODs, customs declarations, packing lists. Any carrier, any format, any language.",
+    "url": "https://nanonets.com/solutions/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Attached: BOL, declaration, broker email",
+    "url": "https://nanonets.com/solutions/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Configure approval gates to route edge cases to Slack, Teams, or email for review.",
+    "url": "https://nanonets.com/solutions/logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Configure approval gates to route edge cases to Slack, Teams, or email for review.",
+    "url": "https://nanonets.com/solutions/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "the buyer promised a credit by email",
+    "url": "https://nanonets.com/solutions/sap",
+    "pass": 1
+   },
+   {
+    "quote": "Vendor invoices, purchase orders, delivery notes, customs paperwork. Any format, any channel — email, PDF, scanned paper, EDI. No templates.",
+    "url": "https://nanonets.com/solutions/sap",
+    "pass": 1
+   },
+   {
+    "quote": "Configure approval gates to route edge cases to Slack, Teams, or email for review.",
+    "url": "https://nanonets.com/solutions/sap",
+    "pass": 1
+   },
+   {
+    "quote": "Nanonets replaced the manual loop with one autonomous agent. It ingests invoices from upload or email, extracts all AP fields with >95% accuracy, validates against business rules, and posts approved bills directly to QuickBooks — routing only genuine exceptions to a human reviewer.",
+    "url": "https://nanonets.com/customers/pro-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Invoice upload or email",
+    "url": "https://nanonets.com/customers/pro-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Receives invoices via direct upload or email auto-forward",
+    "url": "https://nanonets.com/customers/pro-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Airparser Makes Email Parsing Effortless With LLM-Powered Engine",
+    "url": "https://airparser.com/ja/nanonets-alternative/",
+    "pass": 3
+   },
+   {
+    "quote": "Documents can be uploaded via drag-and-drop, email forwarding, or API integration. Nanonets also integrates with business software such as Salesforce, QuickBooks, Google Drive, Zapier, Dropbox, Microsoft SharePoint, and Notion, enabling teams to route extracted data into existing workflows without custom development.",
+    "url": "https://www.extend.ai/resources/nanonets-review-features-pricing-alternatives",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Japan Tobacco International (JTI) is a leading international tobacco company and a member of the Japan Tobacco Group. JTI Ukraine holds a 22% market share in the Ukrainian tobacco market, selling iconic brands including Winston, Camel, and Sobranie.",
+    "url": "https://nanonets.com/customers/jti",
+    "pass": 1
+   },
+   {
+    "quote": "導入前の確認：日本語帳票と国内制度項目への対応を実帳票で確認したい",
+    "url": "https://ocr.miryo.ai/comparison/nanonets-ocr",
+    "pass": 3
+   },
+   {
+    "quote": "事前学習モデルの項目と自社スキーマを比較し、日本語精度とデータ保管条件を検証します",
+    "url": "https://ocr.miryo.ai/comparison/nanonets-ocr",
+    "pass": 3
+   },
+   {
+    "quote": "日本語帳票と国内制度項目への対応を実帳票で確認したい",
+    "url": "https://ocr.miryo.ai/comparison/nanonets-ocr",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "2026年におすすめの安価な Nanonets 代替サービス - Parseur — 2026年におすすめの安価な Nanonets 代替サービス - Parseur Parseur https://parseur.com > Home > 比較する",
+    "url": "https://parseur.com/ja/hikaku/nanonets-daitai",
+    "pass": 3
+   },
+   {
+    "quote": "Nanonets OCRとは？料金や機能・特徴を解説 — Nanonets OCRとは？料金や機能・特徴を解説 miryo.AI https://ocr.miryo.ai > OCRサービス比較",
+    "url": "https://ocr.miryo.ai/comparison/nanonets-ocr",
+    "pass": 3
+   },
+   {
+    "quote": "No.1の Nanonets 代替ツールをご紹介 - Airparser — No.1の Nanonets 代替ツールをご紹介 - Airparser Airparser https://airparser.com > nanonets-alternative",
+    "url": "https://airparser.com/ja/nanonets-alternative/",
+    "pass": 3
+   },
+   {
+    "quote": "Nanonets | LinkedIn — Nanonets | LinkedIn LinkedIn https://www.linkedin.com > nanonets",
+    "url": "https://www.linkedin.com/company/nanonets",
+    "pass": 3
+   },
+   {
+    "quote": "Nanonets : AI Agents for Enterprise Data Processing — Nanonets : AI Agents for Enterprise Data Processing Nanonets https://nanonets.com",
+    "url": "https://nanonets.com/",
+    "pass": 3
+   },
+   {
+    "quote": "NanoNets : Automatic Data Extraction | Y Combinator — NanoNets : Automatic Data Extraction | Y Combinator Y Combinator https://www.ycombinator.com > nano...",
+    "url": "https://www.ycombinator.com/companies/nanonets",
+    "pass": 3
+   },
+   {
+    "quote": "Nanonets Review: Pricing & Alternatives Mar 2026 - Extend AI — Nanonets Review: Pricing & Alternatives Mar 2026 - Extend AI Extend AI https://www.extend.ai > resources > n...",
+    "url": "https://www.extend.ai/resources/nanonets-review-features-pricing-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "nanonets / Nanonets -OCR-s - Hugging Face — nanonets / Nanonets -OCR-s - Hugging Face Hugging Face https://huggingface.co > nanonets > N...",
+    "url": "https://huggingface.co/nanonets/Nanonets-OCR-s",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories - Nanonets — Customer Stories - Nanonets Nanonets https://nanonets.com > customers",
+    "url": "https://nanonets.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Nanonets - AI-powered document processing platform with ... — Nanonets - AI-powered document processing platform with ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=4DlucnU8_HU",
+    "pass": 3
+   },
+   {
+    "quote": "Nanonets Raises $29 Million to create Autonomous AI Agents ... — Nanonets Raises $29 Million to create Autonomous AI Agents ... Nanonets https://nanonets.com > blog > nanone...",
+    "url": "https://nanonets.com/blog/nanonets-raises-29-million-in-series-b/",
+    "pass": 3
+   },
+   {
+    "quote": "Nanonets gets Accel's backing to improve AI-based workflow ... — Nanonets gets Accel's backing to improve AI-based workflow ... LinkedIn https://www.linkedin.com > posts > y-...",
+    "url": "https://www.linkedin.com/posts/y-combinator_nanonets-gets-accels-backing-to-improve-activity-7173528218778492928-53-K",
+    "pass": 3
+   },
+   {
+    "quote": "Nanonets Revenue 2025: $100M - GetLatka — Nanonets Revenue 2025: $100M - GetLatka GetLatka https://getlatka.com > nanonets",
+    "url": "https://getlatka.com/companies/nanonets.com",
+    "pass": 3
+   },
+   {
+    "quote": "Nanonets Raises $29M Series B to Automate Back-Office Tasks — Nanonets Raises $29M Series B to Automate Back-Office Tasks Built In San Francisco https://www.builtinsf.com > articles",
+    "url": "https://www.builtinsf.com/articles/nanonets-raises-29m-series-b-20240312",
+    "pass": 3
+   },
+   {
+    "quote": "Nanonets - 2026 Company Profile & Team - Tracxn — Nanonets - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/nanonets/__wBD0LasSQzeEtWg7pV8U0rKPJV0PKiYOQbwsCpHK2G8",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "AI超元域on X: \" NanoNets 开源了Graft：给Claude Code ... AI超元域on X: \" NanoNets 开源了Graft：给Claude Code ... X https://x.com > @AISuperDomain",
+    "url": "https://x.com/AISuperDomain/status/2085746071553314895",
+    "pass": 3
+   },
+   {
+    "quote": "syoyo.eth レイトラ ® 8 周年 on X: \" Nanonets -OCR-s (qwen2 ... syoyo.eth レイトラ ® 8 周年 on X: \" Nanonets -OCR-s (qwen2 ... X https://x.com > @syoyo",
+    "url": "https://x.com/syoyo/status/1934031938702197241",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Nanonets | LinkedIn Nanonets | LinkedIn LinkedIn https://www.linkedin.com > nanonets",
+    "url": "https://www.linkedin.com/company/nanonets",
+    "pass": 3
+   },
+   {
+    "quote": "Nanonets | LinkedIn Nanonets | LinkedIn LinkedIn https://www.linkedin.com > nanonets",
+    "url": "https://www.linkedin.com/products/nanonets/",
+    "pass": 3
+   },
+   {
+    "quote": "Nanonets AP Automation | LinkedIn Nanonets AP Automation | LinkedIn LinkedIn https://www.linkedin.com > products",
+    "url": "https://www.linkedin.com/products/nanonets-ap-automation/",
+    "pass": 3
+   },
+   {
+    "quote": "Nanonets gets Accel's backing to improve AI-based workflow ... Nanonets gets Accel's backing to improve AI-based workflow ... LinkedIn https://www.linkedin.com > posts > y-...",
+    "url": "https://www.linkedin.com/posts/y-combinator_nanonets-gets-accels-backing-to-improve-activity-7173528218778492928-53-K",
+    "pass": 3
+   },
+   {
+    "quote": "Nanonets | LinkedIn Nanonets | LinkedIn LinkedIn https://jp.linkedin.com > company > nanonets",
+    "url": "https://jp.linkedin.com/company/nanonets",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "NanoNets | San Francisco CA - Facebook NanoNets | San Francisco CA - Facebook Facebook https://www.facebook.com > ... > Automation Service",
+    "url": "https://www.facebook.com/nanonets/",
+    "pass": 3
+   },
+   {
+    "quote": "Nanonets -OCR-s: Mô hình OCR chuyển ảnh thành markdown ... Nanonets -OCR-s: Mô hình OCR chuyển ảnh thành markdown ... Facebook https://www.facebook.com > vietnh1009 > posts > nanone...",
+    "url": "https://www.facebook.com/vietnh1009/posts/nanonets-ocr-s-m%C3%B4-h%C3%ACnh-ocr-chuy%E1%BB%83n-%C4%91%E1%BB%95i-tr%E1%BB%B1c-ti%E1%BA%BFp-image-th%C3%A0nh-markdownm%C3%ACnh-xin-gi%E1%BB%9B/1505872037175266/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://nanonets.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nanonets.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nanonets.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nanonets.com/customers/schneider-electric",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nanonets.com/customers/mondelez",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nanonets.com/customers/roche",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nanonets.com/customers/unipro",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nanonets.com/customers/asian-paints",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nanonets.com/customers/jti",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nanonets.com/solutions/accounts-payable",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nanonets.com/solutions/order-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nanonets.com/solutions/logistics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nanonets.com/solutions/healthcare",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nanonets.com/solutions/sap",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nanonets.com/customers/pro-partners",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://nanonets.com/brand/customers/schneider.svg?dpl=dpl_2SKVeDs8QaJgRScDFrEi2DqDPJKm",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://nanonets.com/brand/customers/roche.svg?dpl=dpl_2SKVeDs8QaJgRScDFrEi2DqDPJKm",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://nanonets.com/brand/customers/mondelez.svg?dpl=dpl_2SKVeDs8QaJgRScDFrEi2DqDPJKm",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://nanonets.com/_next/image?url=%2Fbrand%2Fcustomers%2Funipro.png&w=384&q=75&dpl=dpl_2SKVeDs8QaJgRScDFrEi2DqDPJKm",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://parseur.com/ja/hikaku/nanonets-daitai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ocr.miryo.ai/comparison/nanonets-ocr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://airparser.com/ja/nanonets-alternative/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wadax.ne.jp/company/agent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybernet.co.jp/itasset/service/partner.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/nanonets",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/nanonets",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.extend.ai/resources/nanonets-review-features-pricing-alternatives",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=4DlucnU8_HU",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://c3.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kannect.co/partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getquantic.com/become-white-label-software-reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/y-combinator_nanonets-gets-accels-backing-to-improve-activity-7173528218778492928-53-K",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/nanonets.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.builtinsf.com/articles/nanonets-raises-29m-series-b-20240312",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/AISuperDomain/status/2085746071553314895",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/syoyo/status/1934031938702197241",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/nanonets",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/nanonets/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/nanonets-ap-automation/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/y-combinator_nanonets-gets-accels-backing-to-improve-activity-7173528218778492928-53-K",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/nanonets/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/vietnh1009/posts/nanonets-ocr-s-m%C3%B4-h%C3%ACnh-ocr-chuy%E1%BB%83n-%C4%91%E1%BB%95i-tr%E1%BB%B1c-ti%E1%BA%BFp-image-th%C3%A0nh-markdownm%C3%ACnh-xin-gi%E1%BB%9B/1505872037175266/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/nanonets",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Nanonets 日本 導入",
+   "results": [
+    "https://parseur.com/ja/hikaku/nanonets-daitai",
+    "https://ocr.miryo.ai/comparison/nanonets-ocr",
+    "https://airparser.com/ja/nanonets-alternative/",
+    "https://www.stellantis.jp/",
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://skywork.ai/skypage/ja/nanonets-ai-ocr-image-excel/1984096386359939072",
+    "https://aitools.aiting.com/ja/ai/nanonets",
+    "https://www.jato.com/news-and-insights-japan/%E6%97%A5%E6%9C%AC%E3%81%AEota%E6%90%AD%E8%BC%89%E7%8E%87%E3%81%AF%E3%81%AA%E3%81%9C%E4%BD%8E%E3%81%84%E3%81%AE%E3%81%8B-%E4%B8%96%E7%95%8C4%E3%82%AB%E5%9B%BD%E3%81%A8%E3%81%AE%E6%AF%94%E8%BC%83%E3%81%A7%E8%A6%8B%E3%81%88%E3%82%8B%E8%AA%B2%E9%A1%8C%E3%81%A8%E5%B1%95%E6%9C%9B",
+    "https://free-ai-tools.jp/business/service/nanonets",
+    "https://www.idp-picks.com/idp/nanonets.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Nanonets 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.wadax.ne.jp/company/agent/",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.bgent.net/plus/article/7044",
+    "https://www.cybernet.co.jp/itasset/service/partner.html",
+    "https://www.toukei.co.jp/service/tops100/",
+    "https://metoree.com/companies/9837/distributors/",
+    "https://ironsoftware.com/ja/ocr/csharp/blog/compare-to-other-components/nanonets-ocr-api-csharp-alternatives/",
+    "https://b-seeds.com/",
+    "https://www.knowleful.ai/partner/",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Nanonets Japan",
+   "results": [
+    "https://www.linkedin.com/company/nanonets",
+    "https://nanonets.com/",
+    "https://www.ycombinator.com/companies/nanonets",
+    "https://www.extend.ai/resources/nanonets-review-features-pricing-alternatives",
+    "https://huggingface.co/nanonets/Nanonets-OCR-s",
+    "https://www.youtube.com/watch?v=HSFBJM9dspw",
+    "https://nanonets.trust.site/",
+    "https://docs.nanonets.com/docs/language-supported",
+    "https://airparser.com/nanonets-alternative/",
+    "https://ai.codigital.co.jp/en/tools/nanonets/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Nanonets manufacturing customer case study",
+   "results": [
+    "https://nanonets.com/customers",
+    "https://www.youtube.com/watch?v=4DlucnU8_HU",
+    "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "https://c3.ai/customers",
+    "https://www.renishaw.com/en/additive-manufacturing-case-studies--44452?srsltid=AYCX9vKLoYUXZZ5tyzOhQGfto0TdN_J4I9ER1zuLrH_msmvKfvbQGhYL",
+    "https://goamplifi.com/knowledge-base/case-study-6-case-studies-of-data-management-success-in-manufacturing",
+    "https://checkthat.ai/brands/nanonets",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.nano-di.com/resources/case-studies",
+    "https://www.casestudies.com/company/nanonets"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Nanonets white label OR reseller OR partner program",
+   "results": [
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://kannect.co/partner/",
+    "https://getquantic.com/become-white-label-software-reseller/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "https://www.reddit.com/r/SaaS/comments/1izbwih/whitelabel_saas_options_for_reselling/",
+    "https://v2cloud.com/blog/white-label-saas-software-to-resell",
+    "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Nanonets founded funding employees revenue",
+   "results": [
+    "https://nanonets.com/blog/nanonets-raises-29-million-in-series-b/",
+    "https://www.linkedin.com/posts/y-combinator_nanonets-gets-accels-backing-to-improve-activity-7173528218778492928-53-K",
+    "https://getlatka.com/companies/nanonets.com",
+    "https://www.builtinsf.com/articles/nanonets-raises-29m-series-b-20240312",
+    "https://tracxn.com/d/companies/nanonets/__wBD0LasSQzeEtWg7pV8U0rKPJV0PKiYOQbwsCpHK2G8",
+    "https://industryanalysts.com/031224_nanonets_allcovered/",
+    "https://equityzen.com/company/nanonets/",
+    "https://www.crunchbase.com/organization/nanonets",
+    "https://www.businessinsider.com/nanonets-ai-workflow-automation-startup-raises-29-million-2024-3",
+    "https://pitchbook.com/profiles/company/178889-41"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Nanonets",
+   "results": [
+    "https://note.com/sasha_twi/n/n0432727eaf60",
+    "https://note.com/limeblog/n/n63f072619d39",
+    "https://note.com/intelligent_arts/n/n1fb0f39533e9",
+    "https://note.com/samurai_ai/n/n2f6ef67b15d7",
+    "https://note.com/yamac33/n/n5925d9e0996a",
+    "https://note.com/moto_ai_jp/n/n1d9d341cb501",
+    "https://note.com/humble_bobcat51/n/n362d3aa7850a?hl=en",
+    "https://note.com/panda_lab/n/n3e27ae8ae855",
+    "https://note.com/dai_butsu/n/n9c6a495f9e44",
+    "https://note.com/ready_guppy3801"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com Nanonets",
+   "results": [
+    "https://x.com/ClementDelangue/status/1934974278287479182",
+    "https://x.com/AISuperDomain/status/2085746071553314895",
+    "https://x.com/syoyo/status/1934031938702197241",
+    "https://x.com/heynavtoor/status/2084314323900563958",
+    "https://x.com/Pseudo_Sid26/status/2025805084328911124",
+    "https://x.com/L_go_mrk/status/2087464607795368218",
+    "https://x.com/aigclink/status/1938182814240997591",
+    "https://x.com/lucas_flatwhite/status/2091844269896273987",
+    "https://x.com/youyuy88/status/2103499012292927960",
+    "https://x.com/nanonets"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Nanonets",
+   "results": [
+    "https://www.linkedin.com/company/nanonets",
+    "https://www.linkedin.com/products/nanonets/",
+    "https://www.linkedin.com/products/nanonets-ap-automation/",
+    "https://www.linkedin.com/posts/y-combinator_nanonets-gets-accels-backing-to-improve-activity-7173528218778492928-53-K",
+    "https://www.linkedin.com/posts/andimarafioti_a-new-open-source-ocr-model-is-breaking-activity-7340723835245129729-yG0K",
+    "https://www.linkedin.com/in/arun-gandhi-054760b2",
+    "https://in.linkedin.com/in/nithingadiparthi",
+    "https://www.linkedin.com/products/nanonets-bank-statement-converter/",
+    "https://in.linkedin.com/in/sudipta-ghosh1",
+    "https://in.linkedin.com/company/nanonets"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:facebook.com Nanonets",
+   "results": [
+    "https://www.facebook.com/nanonets/",
+    "https://www.facebook.com/SeanDonahoe365/posts/this-is-one-of-those-ideas-that-sounds-bloody-obvious-once-somebody-actually-bui/10239313382305935/",
+    "https://www.facebook.com/SunwayCollegeKathmandu/posts/what-if-you-could-build-custom-business-workflows-automate-document-lifecycle-ma/1441104614800679/",
+    "https://www.facebook.com/vietnh1009/posts/nanonets-ocr-s-m%C3%B4-h%C3%ACnh-ocr-chuy%E1%BB%83n-%C4%91%E1%BB%95i-tr%E1%BB%B1c-ti%E1%BA%BFp-image-th%C3%A0nh-markdownm%C3%ACnh-xin-gi%E1%BB%9B/1505872037175266/",
+    "https://www.facebook.com/0xSojalSec/posts/ocr-model-that-converts-images-to-structured-formats-while-preserving-layout-git/1363640781956988/",
+    "https://www.facebook.com/groups/1427869272255595/posts/1579129160462938/",
+    "https://www.facebook.com/elingedecontrol/posts/how-do-we-detect-drones-i-found-an-interesting-repo-here/1095758846537026/",
+    "https://www.facebook.com/scaleapi/posts/when-ocr-isnt-enough-yuka-turns-to-scale-ai-see-how-scale-delivers-thousands-of-/3295935710659086/",
+    "https://www.facebook.com/mbhurchandi/",
+    "https://www.facebook.com/Nanonetsofficial/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Nanonets note 社長",
+   "results": [
+    "https://www.preqin.com/data/profile/asset/nanonets/468119",
+    "https://www.ycombinator.com/companies/nanonets",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://nanonets.com/blog/nanonets-raises-29-million-in-series-b/",
+    "https://www.techfinitive.com/ai-document-capture-company-nanonets-earns-29-million-in-its-quest-to-automate-data-entry/",
+    "https://www.prnewswire.com/news-releases/nanonets-raises-10m-from-elevation-capital-to-help-global-enterprises-automate-their-document-workflows-using-ai-301483676.html",
+    "https://x.com/sadaaki",
+    "https://www.forbes.com/sites/davidprosser/2024/03/12/why-enterprises-are-learning-to-love-nanonets-automation/",
+    "https://www.linkedin.com/in/jainsarthak",
+    "https://nanonets.com/about"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Nanonets X 投稿",
+   "results": [
+    "https://nanonets.com/document-parsing-and-extraction",
+    "https://jp.linkedin.com/company/nanonets",
+    "https://huggingface.co/nanonets/Nanonets-OCR-s",
+    "https://www.extend.ai/resources/nanonets-review-features-pricing-alternatives",
+    "https://www.youtube.com/watch?v=qUbGlVRlFqw",
+    "https://n8n.io/integrations/nanonets-ocr/and/sms77/",
+    "https://www.reddit.com/r/LocalLLaMA/comments/1o5nlli/nanonetsocr2_an_opensource_imagetomarkdown_model/",
+    "https://docs.boltic.io/integrations/ai/nanonets/",
+    "https://x.com/nanonets",
+    "https://nanonets.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式15頁／PDF・画像4件／外部30頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式15頁／PDF・画像4件／外部30頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式15頁／PDF・画像4件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式15頁／PDF・画像4件／外部30頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式15頁／PDF・画像4件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式15頁／PDF・画像4件／外部30頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式15頁／PDF・画像4件／外部30頁・検索12回）"
+ }
+}

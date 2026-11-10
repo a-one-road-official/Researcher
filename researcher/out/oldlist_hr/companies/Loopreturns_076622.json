@@ -1,0 +1,1617 @@
+{
+ "name": "Loopreturns",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AI送信済み",
+ "researched_at": "2026-11-10T00:38:29.121998+00:00",
+ "official_url": "https://www.loopreturns.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Columbus, OH",
+    "url": "https://www.teardown.ai/companies/loop-returns",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2016",
+    "url": "https://www.teardown.ai/companies/loop-returns",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue",
+    "value": "$53.3M in 2024, up from $31M in 2023 (Latka estimates, 2024-25 data). No ARR or GMV disclosure at any round",
+    "url": "https://www.teardown.ai/companies/loop-returns",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Loop Returns | The Operations Platform Built for Retention",
+    "url": "https://www.loopreturns.com/",
+    "pass": 1
+   },
+   {
+    "quote": "tracking, editing, returns, exchanges, fraud prevention, shipping, and more",
+    "url": "https://www.loopreturns.com/",
+    "pass": 1
+   },
+   {
+    "quote": ". Helping you grow revenue, protect your margins, and build a brand customers love.",
+    "url": "https://www.loopreturns.com/",
+    "pass": 1
+   },
+   {
+    "quote": "This product usually arrives within 6 days",
+    "url": "https://www.loopreturns.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your package is protected from theft & loss",
+    "url": "https://www.loopreturns.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Entered the wrong address? No problem.",
+    "url": "https://www.loopreturns.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Exchanges makes it easy for customers to swap products instead of requesting refunds, which increases retained revenue and improves customer loyalty.",
+    "url": "https://www.loopreturns.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Promise shows accurate delivery dates before purchase, which increases conversion rates and reduces pre-delivery support questions.",
+    "url": "https://www.loopreturns.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Protection allows shoppers to add coverage against loss or theft during checkout, which reduces refund claims and generates incremental revenue.",
+    "url": "https://www.loopreturns.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Shipping streamlines reverse logistics with optimized return labels and routing, which lowers shipping costs and improves operational efficiency.",
+    "url": "https://www.loopreturns.com/",
+    "pass": 1
+   },
+   {
+    "quote": "prevent fraud, uncover insights, and make smarter decisions automatically.",
+    "url": "https://www.loopreturns.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Intelligence uses data from 100M+ returns, 200M+ shoppers, 5K+ brands, and 1K+ carriers to predict outcomes and optimize policies, which reduces risk and improves performance automatically.",
+    "url": "https://www.loopreturns.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fraud identifies abusive behavior and high-risk returns before they’re approved, which prevents losses and protects your margins.",
+    "url": "https://www.loopreturns.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise readiness & stability",
+    "url": "https://www.loopreturns.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Purpose built to drive retention",
+    "url": "https://www.loopreturns.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Signals from 200M+ shopper journeys power every workflow. Policies adapt automatically to reduce risk and improve outcomes over time.",
+    "url": "https://www.loopreturns.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Loop was and is currently for Shopify brands, which is why our products plug directly into Shopify for a fast, native setup. We also support other platforms through custom implementations.",
+    "url": "https://www.loopreturns.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Loop supports many UK and EU brands, including Represent, Oh Polly, and Alohas. We provide broad carrier coverage plus regional integrations to support local and cross-border operations.",
+    "url": "https://www.loopreturns.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Loop supports many Australia and New Zealand brands, including Princess Polly, Kulani Kinis, and LSKD. We provide logistics support and regional integrations to handle both domestic and cross-border operations.",
+    "url": "https://www.loopreturns.com/",
+    "pass": 1
+   },
+   {
+    "quote": "What pre-purchase solutions does Loop offer?",
+    "url": "https://www.loopreturns.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Loop offers tools that build confidence before someone buys. Delivery Promise shows accurate delivery estimates upfront. Checkout+ offers paid returns coverage at checkout. Order Editing lets shoppers update orders themselves, like address changes, cancellations, and add-ons, without contacting support.",
+    "url": "https://www.loopreturns.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Loop supports the full post-purchase experience, from exchanges and returns to tracking, risk, and operations. Brands use Loop to retain more revenue through exchange-first flows, reduce support volume with proactive tracking, and automate decisions that protect margin.",
+    "url": "https://www.loopreturns.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Checkout+ lets shoppers add returns coverage at checkout. They pay a small fee, get a free return later, and your brand can offset return costs and protect margin.",
+    "url": "https://www.loopreturns.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We have plans for businesses of all sizes - from small businesses just starting out to enterprise. Check out all of our pricing information",
+    "url": "https://www.loopreturns.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Loop Partner Program — Agencies, Logistics, Technology",
+    "url": "https://www.loopreturns.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "We've built Loop alongside the Shopify ecosystem—agencies who get it, tech partners who seamlessly integrate with us, and logistics pros who make it all move. If you’re interested in learning more about our integrations, seeing which partners we recommend, or are curious about starting a partnership with Loop -you’re in the right place.",
+    "url": "https://www.loopreturns.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re lucky enough to partner with the top Shopify brands, so naturally, we only partner with the top technologies, agencies, and logistics providers. The benefits of working with best-in-class partners compounds.",
+    "url": "https://www.loopreturns.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Now the process is seamless, automatic, and easy.",
+    "url": "https://www.loopreturns.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Loop integrates with the leading ecommerce platforms, marketing, and support tools to help you provide the best returns experience possible for your customers.",
+    "url": "https://www.loopreturns.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Our tiers are: Partner, Preferred, Priority, and Inner Circle. Each one unlocks more benefits (and bragging rights) for partners, and has its own badge so that you can easily identify them in the world of ecommerce.",
+    "url": "https://www.loopreturns.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Co-marketing opportunities",
+    "url": "https://www.loopreturns.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Prioritized for co-marketing and referrals",
+    "url": "https://www.loopreturns.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Early insights into product direction",
+    "url": "https://www.loopreturns.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Inclusion in QBR presentations",
+    "url": "https://www.loopreturns.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Prioritization for all co-marketing",
+    "url": "https://www.loopreturns.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Executive Vice President & CDT",
+    "url": "https://www.loopreturns.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Partnering with Loop has been very valuable for Radial. Their innovative products and solutions directly benefit our clients by simplifying the returns process and improving the overall customer experience. Beyond technology, their team has been a great partner, and we greatly appreciate the collaboration between our two companies.”",
+    "url": "https://www.loopreturns.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Partner Marketing Manager",
+    "url": "https://www.loopreturns.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Vice President, Sales",
+    "url": "https://www.loopreturns.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "The latest content featuring our partners",
+    "url": "https://www.loopreturns.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Loop & Two Boxes — Powering Visibility and Fraud Prevention from RMA to Restock",
+    "url": "https://www.loopreturns.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "If you have a dedicated partner manager at Loop, feel free to reach out and ask. If not, email partnerships@loopreturns.com and we'd love to chat further.",
+    "url": "https://www.loopreturns.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Check your partner portal, or feel free to reach out to partnerships@loopreturns.com or your dedicated partner manager.",
+    "url": "https://www.loopreturns.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "You've been provided a variation of formats for your badge so that you can use it across your marketing materials and website. Please do not alter the appearance of the badge without permission.",
+    "url": "https://www.loopreturns.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "How do partners progress in their tier?",
+    "url": "https://www.loopreturns.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "We love this question. Tiers are determined by total Partner Revenue Impact (PRI), which is a combination of revenue that partners have referred and influenced. If you have questions about how this is calculated, just reach out!",
+    "url": "https://www.loopreturns.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Not exactly, tiers are determined by total Partner Revenue Impact (PRI), which is a combination of revenue referred and influenced over the last year.",
+    "url": "https://www.loopreturns.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Every June, partners will be promoted based on their Partner Revenue Impact (PRI). Partners can be demoted as of January 2027, if their PRI no longer meets the criteria for their previous tier.",
+    "url": "https://www.loopreturns.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "How do I join Loop's partner program?",
+    "url": "https://www.loopreturns.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing | Loop Returns",
+    "url": "https://www.loopreturns.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing plans that work for you",
+    "url": "https://www.loopreturns.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore our pricing plans so you can find the perfect fit for your brand.",
+    "url": "https://www.loopreturns.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Auto returns processing",
+    "url": "https://www.loopreturns.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Brands of all sizes trust Loop to optimize operations across pre-purchase, returns, tracking, post-purchase, and reverse logistics.",
+    "url": "https://www.loopreturns.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Jones Road Beauty turns returns into $3.1M revenue retention engine",
+    "url": "https://www.loopreturns.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "How Shaping New Tomorrow improved efficiency through automation",
+    "url": "https://www.loopreturns.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "How Aura Bora Created a Retention and CX-Focused Post-Purchase Journey With Loop Order Tracking",
+    "url": "https://www.loopreturns.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "How Mini Katana Improved Ticket Response Time 24X and Increased Customer Trust with Loop Order Tracking",
+    "url": "https://www.loopreturns.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "How Maude Leveraged Loop Delivery Promise to Increase Conversion Rate by 12%",
+    "url": "https://www.loopreturns.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "How Fresh Clean Threads Leveraged Loop Order Tracking for a 10% Increase on Second Purchase Revenue",
+    "url": "https://www.loopreturns.com/case-studies/",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Checkout+ lets shoppers add returns coverage at checkout. They pay a small fee, get a free return later, and your brand can offset return costs and protect margin.",
+    "url": "https://www.loopreturns.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A quick chat with a Loop expert ensures your experience is tailored to your brand’s needs, so you can start driving more revenue + happier customers from day one.",
+    "url": "https://www.loopreturns.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See how it would look for your brand:",
+    "url": "https://www.loopreturns.com/",
+    "pass": 1
+   },
+   {
+    "quote": ". Every Loop experience is built around your brand.",
+    "url": "https://www.loopreturns.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Loop Partner Program — Agencies, Logistics, Technology",
+    "url": "https://www.loopreturns.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "We've built Loop alongside the Shopify ecosystem—agencies who get it, tech partners who seamlessly integrate with us, and logistics pros who make it all move. If you’re interested in learning more about our integrations, seeing which partners we recommend, or are curious about starting a partnership with Loop -you’re in the right place.",
+    "url": "https://www.loopreturns.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re lucky enough to partner with the top Shopify brands, so naturally, we only partner with the top technologies, agencies, and logistics providers. The benefits of working with best-in-class partners compounds.",
+    "url": "https://www.loopreturns.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Partner Manager, Agencies",
+    "url": "https://www.loopreturns.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "International Partner Manager, Agencies and Technology",
+    "url": "https://www.loopreturns.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "How do I join Loop's partner program?",
+    "url": "https://www.loopreturns.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore our pricing plans so you can find the perfect fit for your brand.",
+    "url": "https://www.loopreturns.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Join Loop's public partner directory where brands actively search for logistics partners, agencies, and technology solutions. It's immediate visibility with merchants who need exactly what you offer.",
+    "url": "https://www.loopreturns.com/apply-to-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "See how Loop's pre-purchase solution suite lifts AOV and converts more carts for your brand.",
+    "url": "https://www.loopreturns.com/solutions/pre-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "See how Loop's post-purchase solution suite drives loyalty and revenue for your brand.",
+    "url": "https://www.loopreturns.com/solutions/post-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "See how Loop's returns management solution saves time, cuts costs, and retains revenue for your brand.",
+    "url": "https://www.loopreturns.com/solutions/returns-management-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Loop’s intelligence model analyzes a wide range of signals to determine a return's risk level. These include attempts to hide identity, mismatches between the order shipping destination and the return origin, and patterns within the return itself, such as the reason, value, and quantity. Plus, we analyze the customer's history with your brand and across our network.",
+    "url": "https://www.loopreturns.com/solutions/fraud-and-abuse-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "David Donahue partnered with Loop's agency partner, Zettler Digital, to transform a generic tracking experience into a branded, revenue-generating touchpoint that virtually eliminated WISMO tickets using Track by Loop.",
+    "url": "https://www.loopreturns.com/case-studies/case-study-loop-david-donahue-partner-zettler-digital/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect your brand’s profit margins.",
+    "url": "https://www.loopreturns.com/case-studies/case-study-shaping-new-tomorrow/",
+    "pass": 1
+   },
+   {
+    "quote": "Scale your brand across borders without stress.",
+    "url": "https://www.loopreturns.com/case-studies/case-study-kulani-kinis/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "The post-purchase platform that turns returns into revenue",
+    "url": "https://www.loopreturns.com/",
+    "pass": 1
+   },
+   {
+    "quote": ". Helping you grow revenue, protect your margins, and build a brand customers love.",
+    "url": "https://www.loopreturns.com/",
+    "pass": 1
+   },
+   {
+    "quote": "This product usually arrives within 6 days",
+    "url": "https://www.loopreturns.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your order arrives today",
+    "url": "https://www.loopreturns.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Returns guides shoppers to exchanges or store credit instead of refunds, which retains revenue and lowers return-related costs.",
+    "url": "https://www.loopreturns.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Exchanges makes it easy for customers to swap products instead of requesting refunds, which increases retained revenue and improves customer loyalty.",
+    "url": "https://www.loopreturns.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Checkout+ lets customers pay a small fee at checkout for free returns later, increasing purchase confidence while generating revenue to offset return shipping and subscription costs.",
+    "url": "https://www.loopreturns.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Protection allows shoppers to add coverage against loss or theft during checkout, which reduces refund claims and generates incremental revenue.",
+    "url": "https://www.loopreturns.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Powered by robust data from shoppers, brands, and carriers, Loop’s network helps you",
+    "url": "https://www.loopreturns.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Intelligence uses data from 100M+ returns, 200M+ shoppers, 5K+ brands, and 1K+ carriers to predict outcomes and optimize policies, which reduces risk and improves performance automatically.",
+    "url": "https://www.loopreturns.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Loop supports many UK and EU brands, including Represent, Oh Polly, and Alohas. We provide broad carrier coverage plus regional integrations to support local and cross-border operations.",
+    "url": "https://www.loopreturns.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Loop supports the full post-purchase experience, from exchanges and returns to tracking, risk, and operations. Brands use Loop to retain more revenue through exchange-first flows, reduce support volume with proactive tracking, and automate decisions that protect margin.",
+    "url": "https://www.loopreturns.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A quick chat with a Loop expert ensures your experience is tailored to your brand’s needs, so you can start driving more revenue + happier customers from day one.",
+    "url": "https://www.loopreturns.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Loop integrates with 120+ of your favorite Shopify apps. After all, you can only be MVP if you’re part of a team.",
+    "url": "https://www.loopreturns.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "We love this question. Tiers are determined by total Partner Revenue Impact (PRI), which is a combination of revenue that partners have referred and influenced. If you have questions about how this is calculated, just reach out!",
+    "url": "https://www.loopreturns.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Not exactly, tiers are determined by total Partner Revenue Impact (PRI), which is a combination of revenue referred and influenced over the last year.",
+    "url": "https://www.loopreturns.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Every June, partners will be promoted based on their Partner Revenue Impact (PRI). Partners can be demoted as of January 2027, if their PRI no longer meets the criteria for their previous tier.",
+    "url": "https://www.loopreturns.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Jones Road Beauty turns returns into $3.1M revenue retention engine",
+    "url": "https://www.loopreturns.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "How Muscle Nation averages over $3 in upsell revenue per return",
+    "url": "https://www.loopreturns.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Latico Leathers Drives High-Margin Revenue With Loop Order Tracking",
+    "url": "https://www.loopreturns.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "How Fresh Clean Threads Leveraged Loop Order Tracking for a 10% Increase on Second Purchase Revenue",
+    "url": "https://www.loopreturns.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "How Hylo Athletics scales sustainable operations while retaining more revenue with Loop",
+    "url": "https://www.loopreturns.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Brandon Blackwood hit 30% revenue retention with smart returns strategy",
+    "url": "https://www.loopreturns.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "BullyBillows retained £200K in revenue by switching to Loop",
+    "url": "https://www.loopreturns.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Saint + Sofia retains revenue on over half their returns with Loop",
+    "url": "https://www.loopreturns.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Aviator Nation retains revenue on over half of their returns with Loop",
+    "url": "https://www.loopreturns.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "DUER earned an additional $80,636 in annual upsell revenue",
+    "url": "https://www.loopreturns.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Studs generates additional retained revenue on one in five of their returns with Loop",
+    "url": "https://www.loopreturns.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Loop helps LSKD retain revenue on over half of their returns",
+    "url": "https://www.loopreturns.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Why Under 5'10 Came Back to Loop - And How They Retain 34.7% of Returned Revenue",
+    "url": "https://www.loopreturns.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Help your clients unlock revenue:",
+    "url": "https://www.loopreturns.com/apply-to-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Returns don't have to be a cost center. With Loop, your clients can turn returns into exchanges, retain more revenue, and create better customer experiences.",
+    "url": "https://www.loopreturns.com/apply-to-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Choose what works for your business: collect revenue share on referrals or offer exclusive partner discounts to your clients.",
+    "url": "https://www.loopreturns.com/apply-to-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Lift in add-to-cart when customers see a clear “arrive by” date",
+    "url": "https://www.loopreturns.com/solutions/pre-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "In package protection revenue collected for brands at checkout",
+    "url": "https://www.loopreturns.com/solutions/pre-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase average order value and create a new revenue stream by upselling premium benefits like return coverage and package protection at checkout.",
+    "url": "https://www.loopreturns.com/solutions/pre-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "How to increase revenue before checkout",
+    "url": "https://www.loopreturns.com/solutions/pre-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "Cover shipments against loss, theft, and damage while adding fee revenue.",
+    "url": "https://www.loopreturns.com/solutions/pre-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "Why Under 5'10 Came Back to Loop - And How They Retain 34.7% of Returned Revenue",
+    "url": "https://www.loopreturns.com/solutions/pre-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "Jones Road Beauty turns returns into $3.1M revenue retention engine",
+    "url": "https://www.loopreturns.com/solutions/pre-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "Accurate delivery dates, package protection, and a clean checkout upsell. Loop Promise shows when the order arrives and Protection covers loss, theft, and damage, removing the two biggest reasons shoppers bail.",
+    "url": "https://www.loopreturns.com/solutions/pre-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "One intelligence-powered platform to track, edit, exchange, protect, and recover every order after checkout, turning post-purchase moments into repeat revenue and fewer support tickets.",
+    "url": "https://www.loopreturns.com/solutions/post-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue retained through exchanges and store credit",
+    "url": "https://www.loopreturns.com/solutions/post-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "Proactive tracking and self-service resolution deflect WISMO and \"where's my refund\" tickets before they're filed, while smart exchanges keep revenue from walking out as refunds.",
+    "url": "https://www.loopreturns.com/solutions/post-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn every order into repeat revenue",
+    "url": "https://www.loopreturns.com/solutions/post-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "Post-purchase upsells, exchanges, and on-brand tracking pages create new revenue moments and bring customers back, lifting customer lifetime value and brand loyalty.",
+    "url": "https://www.loopreturns.com/solutions/post-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "Loop's post-purchase solution suite provides a customer experience designed to keep more revenue in your business",
+    "url": "https://www.loopreturns.com/solutions/post-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "Loop flags fraud and protects shipments, recovering lost revenue.",
+    "url": "https://www.loopreturns.com/solutions/post-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "Steer refunds into exchanges and store credit to retain maximum revenue.",
+    "url": "https://www.loopreturns.com/solutions/post-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "Why Under 5'10 Came Back to Loop - And How They Retain 34.7% of Returned Revenue",
+    "url": "https://www.loopreturns.com/solutions/post-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "Jones Road Beauty turns returns into $3.1M revenue retention engine",
+    "url": "https://www.loopreturns.com/solutions/post-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "It makes money by bringing customers back with upsells and exchanges, and saves money by deflecting tickets and keeping revenue in the business.",
+    "url": "https://www.loopreturns.com/solutions/post-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Loop supports multi-region post-purchase flows, including cross-border returns and exchanges, with carrier coverage built for international orders.",
+    "url": "https://www.loopreturns.com/solutions/post-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "The returns revenue gap: what a survey of 3,600 shoppers revealed",
+    "url": "https://www.loopreturns.com/solutions/post-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "See how Loop's post-purchase solution suite drives loyalty and revenue for your brand.",
+    "url": "https://www.loopreturns.com/solutions/post-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "One intelligent platform that automates every return from request to resolution, so your team handles exceptions instead of every ticket, and easy returns turn refunds into retained revenue and repeat customers.",
+    "url": "https://www.loopreturns.com/solutions/returns-management-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Steer refunds into exchanges and store credit to keep revenue in-business. Done right, the exchange feels like a win, not a consolation prize, and the customer comes back.",
+    "url": "https://www.loopreturns.com/solutions/returns-management-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Every part of returns management, connected in one platform",
+    "url": "https://www.loopreturns.com/solutions/returns-management-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Steer refunds into exchanges and store credit so the revenue stays with you.",
+    "url": "https://www.loopreturns.com/solutions/returns-management-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Automated label generation and carrier routing for every return.",
+    "url": "https://www.loopreturns.com/solutions/returns-management-solutions/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Our integrations with logistics partners are designed to give brands the returns visibility they're missing with their warehouse, 3PL, and ERP.",
+    "url": "https://www.loopreturns.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect warehouses, 3PLs, ERPs, and helpdesks to your returns workflows.",
+    "url": "https://www.loopreturns.com/solutions/returns-management-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Saving money is not cost cutting. It's making post-purchase costs predictable: policy enforced the same way every time, fraud surfaced before it becomes loss, and cost drivers you can explain to Finance. Returns data flows into your helpdesk, warehouse, and ERP, so nobody has to enter it twice.",
+    "url": "https://www.loopreturns.com/solutions/returns-management-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "The gain comes from the returns that never needed a person, plus the data entry that disappears once returns flow into your helpdesk, warehouse, and ERP.",
+    "url": "https://www.loopreturns.com/solutions/returns-management-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Loop then aggregates all of the data so that Muscle Nation can view trends in return reasons. That helps them spotlight when specific products don’t fit true to size, for instance, or enables them to spot quality issues on a product or manufacturer level.",
+    "url": "https://www.loopreturns.com/case-studies/case-study-muscle-nation/",
+    "pass": 1
+   },
+   {
+    "quote": "And by deploying an integration with their logistics partner Bleckmann, Shaping New Tomorrow is able to generate return labels from Bleckmann and streamline warehouse communication and return handling.",
+    "url": "https://www.loopreturns.com/case-studies/case-study-shaping-new-tomorrow/",
+    "pass": 1
+   },
+   {
+    "quote": "“We just launched our new warehouse in the USA with Barrett Distributions and it has been a game changer for Kulani Kinis to have local fulfilment and returns options for our customers in the USA,” says Babich. “We are more efficient and faster.”",
+    "url": "https://www.loopreturns.com/case-studies/case-study-kulani-kinis/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We can now identify sizing guide inconsistencies or manufacturing errors and fix them in no time,\" says Chayim Cohen, Chief Growth Officer at Under 5'10.",
+    "url": "https://www.loopreturns.com/case-studies/case-study-loop-under-510/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Odele simplifies customer returns with Loop Returns | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/loop-returns/case-study/how-odele-personalized-their-returns-experience-with-loop",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Odele simplifies customer returns with Loop Returns",
+    "url": "https://www.casestudies.com/company/loop-returns/case-study/how-odele-personalized-their-returns-experience-with-loop",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/loop-returns/case-study/how-odele-personalized-their-returns-experience-with-loop",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/loop-returns/case-study/how-odele-personalized-their-returns-experience-with-loop",
+    "pass": 3
+   },
+   {
+    "quote": "Beverage Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/loop-returns/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Apparel Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/loop-returns/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Footwear Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/loop-returns/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Women's Handbag Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/loop-returns/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/loop-returns/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Apparel Manufacturing",
+    "url": "https://www.casestudies.com/company/loop-returns",
+    "pass": 3
+   },
+   {
+    "quote": "Beverage Manufacturing",
+    "url": "https://www.casestudies.com/company/loop-returns",
+    "pass": 3
+   },
+   {
+    "quote": "Footwear Manufacturing",
+    "url": "https://www.casestudies.com/company/loop-returns",
+    "pass": 3
+   },
+   {
+    "quote": "Women's Handbag Manufacturing",
+    "url": "https://www.casestudies.com/company/loop-returns",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "If you have a dedicated partner manager at Loop, feel free to reach out and ask. If not, email partnerships@loopreturns.com and we'd love to chat further.",
+    "url": "https://www.loopreturns.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Check your partner portal, or feel free to reach out to partnerships@loopreturns.com or your dedicated partner manager.",
+    "url": "https://www.loopreturns.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Open rates on tracking update emails.",
+    "url": "https://www.loopreturns.com/solutions/post-purchase/",
+    "pass": 1
+   },
+   {
+    "quote": "Loop connects to your 3PL and WMS, so inspection results come back as data, not an email. Grades, photos, and dispositions land on the return, ready for a workflow to act on.",
+    "url": "https://www.loopreturns.com/solutions/fraud-and-abuse-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Zettler Digital upgraded David Donahue’s transactional notifications from bare bones Shopify emails to branded Klaviyo flows tied to Loop's shipping events, keeping customers informed at every stage of the delivery journey.",
+    "url": "https://www.loopreturns.com/case-studies/case-study-loop-david-donahue-partner-zettler-digital/",
+    "pass": 1
+   },
+   {
+    "quote": "By working closely with Zettler Digital to build out highly-customized transactional emails around Track by Loop’s shipping events, David Donahue has leveled up its post-purchase experience.",
+    "url": "https://www.loopreturns.com/case-studies/case-study-loop-david-donahue-partner-zettler-digital/",
+    "pass": 1
+   },
+   {
+    "quote": "With open rates for transactional emails averaging 76% and a strong average click through rate of 17%, it’s no surprise that they’re seeing a strong 1.16% conversion rate on its order tracking page.",
+    "url": "https://www.loopreturns.com/case-studies/case-study-loop-david-donahue-partner-zettler-digital/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Providing proactive tracking gave customers answers before they needed to contact us,\" Greenfield says. \"That reduced a significant number of 'Where is my order?' inquiries, allowing our support team to spend more time helping customers with questions that actually require a person, like styling, fit guidance, or resolving unique situations.\"",
+    "url": "https://www.loopreturns.com/case-studies/mac-duggal/",
+    "pass": 1
+   },
+   {
+    "quote": "Open Rate On Transactional Email",
+    "url": "https://www.loopreturns.com/case-studies/case-study-aura-bora/",
+    "pass": 1
+   },
+   {
+    "quote": "Avg click-through rate on Transactional Email",
+    "url": "https://www.loopreturns.com/case-studies/case-study-aura-bora/",
+    "pass": 1
+   },
+   {
+    "quote": "They also knew that by investing in their transactional emails and order tracking page they could drive additional returning customer revenue while increasing the overall post-purchase customer experience.",
+    "url": "https://www.loopreturns.com/case-studies/case-study-aura-bora/",
+    "pass": 1
+   },
+   {
+    "quote": "Aura Bora added Branded Order Tracking to their tech stack to invest in creating a series of branded transactional email flows that clearly communicate to customers at each stage of the shipping journey. They also implemented a branded tracking page that links customers back to their website for further post-purchase engagement and revenue-generating opportunities.",
+    "url": "https://www.loopreturns.com/case-studies/case-study-aura-bora/",
+    "pass": 1
+   },
+   {
+    "quote": "Here we see an example from Aura Bora showing their fun, meme-driven culture while creating a branded experience that tells a story. Check out all of Aura Bora's emails in our",
+    "url": "https://www.loopreturns.com/case-studies/case-study-aura-bora/",
+    "pass": 1
+   },
+   {
+    "quote": "transactional email swipe file",
+    "url": "https://www.loopreturns.com/case-studies/case-study-aura-bora/",
+    "pass": 1
+   },
+   {
+    "quote": "They utilized their high-performing transactional emails to communicate important purchase reminders, such as their free shipping limit and the option to reorder their previous purchases, to every customer.",
+    "url": "https://www.loopreturns.com/case-studies/case-study-aura-bora/",
+    "pass": 1
+   },
+   {
+    "quote": "Due to transactional email's high open rates, Aura Bora ensured that each customer would be made aware of their free shipping limit and the convenient option to easily reorder.",
+    "url": "https://www.loopreturns.com/case-studies/case-study-aura-bora/",
+    "pass": 1
+   },
+   {
+    "quote": "“Since adding the free shipping banner to our Wonderment emails, we've absolutely seen an attributable increase in average order value (AOV)” -",
+    "url": "https://www.loopreturns.com/case-studies/case-study-aura-bora/",
+    "pass": 1
+   },
+   {
+    "quote": "Aura Bora seamlessly integrates their order tracking page into every transactional email, providing customers with an effortless and convenient way to track their orders and stay up-to-date with the latest information.",
+    "url": "https://www.loopreturns.com/case-studies/case-study-aura-bora/",
+    "pass": 1
+   },
+   {
+    "quote": "Aura Bora has transformed its customer experience, leading to impressive results. The open rate for its transactional emails has skyrocketed to 72%, with a noteworthy 14.2% click-through rate, and a conversion rate of 1.53% on its order tracking page.",
+    "url": "https://www.loopreturns.com/case-studies/case-study-aura-bora/",
+    "pass": 1
+   },
+   {
+    "quote": "The team uses Order Tracking to make sure every customer receives a notification email when a shipment is delayed, as well as when it’s back on track. These notifications prove that Mini Katana is ahead of the issue and committed to removing any bit of customer stress.",
+    "url": "https://www.loopreturns.com/case-studies/case-study-mini-katana/",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/loop-returns/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/loop-returns/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "B2B email lists",
+    "url": "https://growjo.com/company/Loop_Returns",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Email Finder",
+    "url": "https://growjo.com/company/Loop_Returns",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "「総合的な売上向上」につながる導入事例の考え方（実務ベースで徹底分析）",
+    "url": "https://kikushiru.net/2026/05/01/loop-returns%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%EF%BD%9C%E5%A4%9A%E6%A9%9F%E8%83%BD%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%A7%E7%B7%8F%E5%90%88%E7%9A%84/",
+    "pass": 3
+   },
+   {
+    "quote": "【Shopify最新ニュース2026】Shopify Japan が10月の国内販売動向を発表、寝具とアウトドア用品が伸長",
+    "url": "https://kikushiru.net/2026/05/01/loop-returns%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%EF%BD%9C%E5%A4%9A%E6%A9%9F%E8%83%BD%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%A7%E7%B7%8F%E5%90%88%E7%9A%84/",
+    "pass": 3
+   },
+   {
+    "quote": "【Shopify最新ニュース2026】Track with Shop が日本とシンガポールへ、Shop も日本語に",
+    "url": "https://kikushiru.net/2026/05/01/loop-returns%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%EF%BD%9C%E5%A4%9A%E6%A9%9F%E8%83%BD%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%A7%E7%B7%8F%E5%90%88%E7%9A%84/",
+    "pass": 3
+   },
+   {
+    "quote": "EC向け返品交換処理プラットフォーム「Loop Returns」：シリーズAで約11億円を調達 - 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア",
+    "url": "https://36kr.jp/49926/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業のDXを促進するプラットフォーム「CONNECTO」",
+    "url": "https://36kr.jp/49926/",
+    "pass": 3
+   },
+   {
+    "quote": "中国貴州省山間地域の養殖キャビア、日本市場に進出",
+    "url": "https://36kr.jp/49926/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "LoopReturnsLabs - GitHub — Sep 14, 2025 · Loop Returns turns refunds into exchanges with an automated portal, smart incentives, and deep Shopify integration. - LoopReturnsLabs",
+    "url": "https://github.com/LoopReturnsLabs/",
+    "pass": 3
+   },
+   {
+    "quote": "AI-Powered Returns Management Solutions - loopreturns.com — Loop is the top-rated ecommerce returns solution built to save your business time, save it money, and make it money. Explore features here.",
+    "url": "https://www.loopreturns.com/solutions/returns-management-solutions/",
+    "pass": 3
+   },
+   {
+    "quote": "【Shopifyアプリ紹介】Loop Returns レビュー - ECサイトshopifyなら... — May 1, 2026 · 複数倉庫・越境対応 の要否 最新の料金・プラン詳細は、必ずShopifyアプリストアの公式ページと、アプリ提供元の案内を確認し、導入前に要件を明確化するのが安全です。 Shopifyアプリストアの評価・レビュー（2024〜2025に見るべき視点）",
+    "url": "https://kikushiru.net/2026/05/01/loop-returnsレビュー｜多機能プラットフォームで総合的/",
+    "pass": 3
+   },
+   {
+    "quote": "EC向け返品交換処理プラットフォーム「Loop Returns」：シリーズAで約... — Jan 27, 2020 · EC向けの返品交換処理プラットフォームを運営する米「Loop Returns」がシリーズAで1000万ドル（約11億円）を調達した。リード・インベスターは「FirstMark Capital」、コ・インベスターは米アーリーステージVC「Lerer Hippeau」と ...",
+    "url": "https://36kr.jp/49926/",
+    "pass": 3
+   },
+   {
+    "quote": "Loop Returns | The Operations Platform Built for Retention — Loop is the essential eCommerce operations platform built to streamline your returns, exchanges, tracking, order editing, checkout experiences, and more.",
+    "url": "https://www.loopreturns.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Case studies | Loop Returns — See success stories from Loop brands. Meet our customers Brands of all sizes trust Loop to optimize operations across pre-purchase, returns, tracking, post-purchase, and reverse logistics.",
+    "url": "https://www.loopreturns.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Odele simplifies customer returns with Loop Returns — Odele (Manufacturing) partnered with Loop Returns (Computer Software) to solve key challenges. \"How Odele personalized their returns experience with Loop\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/loop-returns/case-study/how-odele-personalized-their-returns-experience-with-loop",
+    "pass": 3
+   },
+   {
+    "quote": "46 Loop Returns Case Studies, Success Stories, & Customer ... — Narrow down 46 case studies by company size & industry to find out how Loop Returns works for a business like yours.",
+    "url": "https://www.featuredcustomers.com/vendor/loop-returns/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Loop Returns B2B Case Studies & Customer Successes — See how Loop Returns solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/loop-returns",
+    "pass": 3
+   },
+   {
+    "quote": "Loop Returns Case Study - shipveho.com — For retailers: Slow returns disrupt inventory flow and sales, affecting retailers' ability to satisfy customer demand. The Partnership Veho's last mile delivery solutions and Loop's return management platform have joined forces to create a return process that is effortless for the customer and efficient for the merchant.",
+    "url": "https://www.shipveho.com/case-studiess/the-partnership-thats-redefining-e-commerce-returns-for-retailers",
+    "pass": 3
+   },
+   {
+    "quote": "Loop Returns: Revenue, Competitors, Alternatives — Estimated Revenue & Valuation Loop Returns 's estimated annual revenue is currently $44.4M per year. (i) Loop Returns 's estimated revenue per employee is $ 155,875 Loop Returns 's total funding is $24.3M.",
+    "url": "https://growjo.com/company/Loop_Returns",
+    "pass": 3
+   },
+   {
+    "quote": "Loop Returns — Funding, Investors & Team | Seedtable — Aug 6, 2026 · Loop Returns: Loop Returns is a Columbus, Ohio-based company founded in 2017.. View funding, investors, and team on Seedtable.",
+    "url": "https://seedtable.com/companies/loop-returns",
+    "pass": 3
+   },
+   {
+    "quote": "Loop Returns: business model, traction, and outlook — Teardown — Aug 13, 2026 · Loop Returns deep dive: Jonathan Poma and Kyle Hency's Chubbies-consulting origin, the FirstMark → CRV → Shopify funding path, how exchange-first workflows actually retain revenue, real $155/$340/$500+/month pricing complaints, competitors Returnly (Affirm-sunset), Happy Returns (UPS), Narvar, AfterShip, ReturnGO and O",
+    "url": "https://www.teardown.ai/companies/loop-returns",
+    "pass": 3
+   },
+   {
+    "quote": "Loop Returns | The Operations Platform Built for Retention — Loop's AI-powered platform unites tracking, editing, returns, exchanges, fraud prevention, shipping, and more. Helping you grow revenue, protect your margins, and build a brand customers love. Originally built for Shopify. Now available on all platforms.",
+    "url": "https://www.loopreturns.com/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "\"#LoopReturns\" - Results on X | Live Posts & Updates Results for \"#LoopReturns\" on X (Twitter). Find the latest posts, discussions, and updates about #LoopReturns. 20 results found.",
+    "url": "https://x.com/hashtag/LoopReturns",
+    "pass": 3
+   },
+   {
+    "quote": "⭐ Introducing Printerless Returns ⭐ ️ 30% of shoppers don’t ... Loop (@LoopReturns). ⭐ Introducing Printerless Returns ⭐ 🖨️ 30% of shoppers don’t have a printer, give them another option. 📱100% of shoppers have a phone, just give them a QR code. 🏬 They drop the item off at one of 11,000 drop-off locations 🙌 Done!",
+    "url": "https://x.com/LoopReturns/status/1346846307583995905",
+    "pass": 3
+   },
+   {
+    "quote": "Are you ready for return season? In the 2-month period after BFCM, returns are 83% higher than an average month. Find out how to influence a more profitable start to the new year through your returns experience from @LoopReturns bit.ly/3jqDjlo",
+    "url": "https://x.com/loopreturns/status/1323611844897067008",
+    "pass": 3
+   },
+   {
+    "quote": "\"We see well over 100% increases in LTV from customers who ... Loop (@LoopReturns). \"We see well over 100% increases in LTV from customers who have experienced a return vs. those who have not.\" This week on The Exchange we are ...",
+    "url": "https://x.com/LoopReturns/status/1349784831929036802",
+    "pass": 3
+   },
+   {
+    "quote": "@loopreturns | X The latest posts from @loopreturns",
+    "url": "https://x.com/loopreturns",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Jonathan Poma - Stealth AI Startup | LinkedInLoop: Culture | LinkedIn$2.82 billion is sitting on the table this BFCM. - LinkedInBook a Demo Today | Loop Returns | Loop - LinkedInLoop: Jobs | LinkedIn Experience: Stealth AI Startup · Education: Miami University · Location: Columbus · 500+ connections on LinkedIn. View Jonathan Poma’s profile on LinkedIn, a professional community of 1 ... Loop's Sto",
+    "url": "https://www.linkedin.com/in/pomajp",
+    "pass": 3
+   },
+   {
+    "quote": "Loop Returns Jobs in United States (381 Open Roles) | LinkedIn Today’s top 381 Loop Returns jobs in United States. Leverage your professional network, and get hired. New Loop Returns jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/loop-returns-jobs",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Loop Returns - FacebookLoop Returns - It’s that time of year again ... - FacebookFacebookLoop Returns - Exciting things are happening at ... - FacebookLoop Returns - The countdown is on! Just over ... - FacebookLoop Returns - Last week, we had the pleasure of jetting ...Loop Returns - We’re excited to announce that Loop has ... Mar 14, 2025 · Loop Returns. 336 likes. Returns hurt. Refunds really h",
+    "url": "https://www.facebook.com/LoopReturns/",
+    "pass": 3
+   },
+   {
+    "quote": "Loop Returns - Exciting things are happening at ... - Facebook Feb 5, 2024 · Loop Returns Mar 13, 2025 · Loop 🤝 ReBound: Helping brands deliver the most seamless global returns and retain revenue through exchanges. In the ever-shifting world of ecommerce, it's more important than ever for brands to drive operational resilience through their tech stack. Chris Ormonde, Director @ We Are Whanau, has ",
+    "url": "https://www.facebook.com/LoopReturns/posts/exciting-things-are-happening-at-loop-were-thrilled-to-announce-a-series-of-new-/814530947354796/",
+    "pass": 3
+   },
+   {
+    "quote": "Loop Returns - It’s that time of year again ... - Facebook 🔊 It’s that time of year again…. We're thrilled to share that we have published our third Consumer Research Report!! We surveyed 1,000 U.S. shoppers AND...",
+    "url": "https://www.facebook.com/LoopReturns/posts/-its-that-time-of-year-again-were-thrilled-to-share-that-we-have-published-our-t/689224823218743/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.loopreturns.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.loopreturns.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.loopreturns.com/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.loopreturns.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.loopreturns.com/apply-to-partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.loopreturns.com/solutions/pre-purchase/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.loopreturns.com/solutions/post-purchase/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.loopreturns.com/solutions/returns-management-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.loopreturns.com/solutions/fraud-and-abuse-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.loopreturns.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.loopreturns.com/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.loopreturns.com/case-studies/case-study-loop-david-donahue-partner-zettler-digital/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.loopreturns.com/case-studies/case-study-loop-jones-road-beauty/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.loopreturns.com/case-studies/case-study-muscle-nation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.loopreturns.com/case-studies/mac-duggal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.loopreturns.com/case-studies/case-study-shaping-new-tomorrow/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.loopreturns.com/case-studies/case-study-kulani-kinis/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.loopreturns.com/case-studies/case-study-aura-bora/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.loopreturns.com/case-studies/case-study-mini-katana/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.loopreturns.com/case-studies/case-study-loop-under-510/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.loopreturns.com/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ft78kdlc0%2Fproduction%2Fed2b3a8eee2e435920d1431b27127bc2ef117fa9-721x657.webp%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.loopreturns.com/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ft78kdlc0%2Fproduction%2F9acb945eb697ed4ed8d1336225f25e0440382fbb-2048x1152.jpg%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.loopreturns.com/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ft78kdlc0%2Fproduction%2F71dd3ef74274379e4f2df9e2ac9b547ef80a6c42-1206x804.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.loopreturns.com/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Ft78kdlc0%2Fproduction%2F06ce51ac7aa5d376c674585c1c420cb9951ea0cf-1829x2560.jpg%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://github.com/LoopReturnsLabs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kikushiru.net/2026/05/01/loop-returns%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%EF%BD%9C%E5%A4%9A%E6%A9%9F%E8%83%BD%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%A7%E7%B7%8F%E5%90%88%E7%9A%84/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://36kr.jp/49926/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tppgodo.net/set-up-company-for-foreigner-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atlassian.com/ja/blog/atlassian-japan-launched",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.u-blox.com/en/about-us/sales-network-offices/japan-2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/conferma",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.petitestudionyc.com/pages/shipping-returns",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://36kr.jp/49926/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/loop-returns/case-study/how-odele-personalized-their-returns-experience-with-loop",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/loop-returns/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/loop-returns",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/xariable",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Loop_Returns",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seedtable.com/companies/loop-returns",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teardown.ai/companies/loop-returns",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hashtag/LoopReturns",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/LoopReturns/status/1346846307583995905",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/loopreturns/status/1323611844897067008",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/LoopReturns/status/1349784831929036802",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/pomajp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/loop-returns-jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/LoopReturns/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/LoopReturns/posts/exciting-things-are-happening-at-loop-were-thrilled-to-announce-a-series-of-new-/814530947354796/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/LoopReturns/posts/-its-that-time-of-year-again-were-thrilled-to-share-that-we-have-published-our-t/689224823218743/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/loopreturns",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Loopreturns 日本 導入",
+   "results": [
+    "https://github.com/LoopReturnsLabs/",
+    "https://www.loopreturns.com/solutions/returns-management-solutions/",
+    "https://kikushiru.net/2026/05/01/loop-returnsレビュー｜多機能プラットフォームで総合的/",
+    "https://36kr.jp/49926/",
+    "https://www.itmedia.co.jp/business/articles/2610/08/news016.html",
+    "https://www.loopreturns.com/case-studies/",
+    "https://radineer.asia/aisaas/blog/ai-returns-management-reverse-logistics-platforms-comparison-2026",
+    "https://www.gooddaysoftware.com/resources/goodday-erp-loop-integration"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Loopreturns 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://tppgodo.net/set-up-company-for-foreigner-in-japan/",
+    "https://www.atlassian.com/ja/blog/atlassian-japan-launched",
+    "https://www.u-blox.com/en/about-us/sales-network-offices/japan-2",
+    "https://jp.linkedin.com/company/conferma",
+    "https://jobs.netflix.com/locations/tokyo",
+    "https://www.cisco.com/c/ja_jp/about/localoffices.html",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/",
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Loopreturns Japan",
+   "results": [
+    "https://www.loopreturns.com/solutions/returns-management-solutions/",
+    "https://www.loopreturns.com/",
+    "https://www.petitestudionyc.com/pages/shipping-returns",
+    "https://36kr.jp/49926/",
+    "https://mingwang.com/pages/exchanges-returns",
+    "https://www.loopreturns.com/faq/",
+    "https://www.misook.com/pages/returns-exchanges-pdp"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Loopreturns manufacturing customer case study",
+   "results": [
+    "https://www.loopreturns.com/case-studies/",
+    "https://www.casestudies.com/company/loop-returns/case-study/how-odele-personalized-their-returns-experience-with-loop",
+    "https://www.featuredcustomers.com/vendor/loop-returns/case-studies",
+    "https://www.casestudies.com/company/loop-returns",
+    "https://www.shipveho.com/case-studiess/the-partnership-thats-redefining-e-commerce-returns-for-retailers",
+    "https://www.loopreturns.com/case-studies/case-study-tortuga/",
+    "https://runalloy.com/case-studies/loop-returns/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Loopreturns white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.seoreseller.com/",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://partners.adobe.com/s/directory/channel?lang=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Loopreturns founded funding employees revenue",
+   "results": [
+    "https://www.cbinsights.com/company/xariable",
+    "https://growjo.com/company/Loop_Returns",
+    "https://seedtable.com/companies/loop-returns",
+    "https://www.teardown.ai/companies/loop-returns",
+    "https://www.loopreturns.com/",
+    "https://www.inc.com/brian-contreras/uber-engineers-ai-startup-loop-data-scientist/91376922",
+    "https://www.zoominfo.com/c/xariable-inc/452371463"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Loopreturns",
+   "results": [
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/tag/edh",
+    "https://note.com/witty_mango107/n/n7778b640ec5f?hl=en",
+    "https://note.com/gzkb/n/n2c8619d311c9?hl=en",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/nob75note/n/n77a698adb384?hl=en",
+    "https://note.com/mendokusai_blog/n/n833a6504e92b?hl=en"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Loopreturns",
+   "results": [
+    "https://x.com/hashtag/LoopReturns",
+    "https://x.com/LoopReturns/status/1346846307583995905",
+    "https://x.com/loopreturns/status/1323611844897067008",
+    "https://x.com/LoopReturns/status/1349784831929036802",
+    "https://x.com/LoopReturns/status/1298256283464634369",
+    "https://x.com/LoopReturns/status/1321862782938238976",
+    "https://x.com/loop"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Loopreturns",
+   "results": [
+    "https://www.linkedin.com/company/loop-returns",
+    "https://www.linkedin.com/in/pomajp",
+    "https://www.linkedin.com/company/loop-returns/jobs/",
+    "https://www.linkedin.com/jobs/loop-returns-jobs",
+    "https://www.linkedin.com/company/loop-returns/life/811de4fa-9d31-4758-95a3-af3a5346d4ea",
+    "https://www.linkedin.com/posts/loop-returns_282-billion-is-sitting-on-the-table-this-activity-7504281625925644290-_vKp",
+    "https://www.linkedin.com/posts/loop-returns_book-a-demo-today-loop-returns-activity-7290859010545631234-vHNO",
+    "https://www.linkedin.com/posts/loop-returns_returns-management-for-ecommerce-brands-activity-6934512019140190208-mkGE"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:facebook.com Loopreturns",
+   "results": [
+    "https://www.facebook.com/LoopReturns/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/LoopReturns/posts/exciting-things-are-happening-at-loop-were-thrilled-to-announce-a-series-of-new-/814530947354796/",
+    "https://www.facebook.com/LoopReturns/posts/-its-that-time-of-year-again-were-thrilled-to-share-that-we-have-published-our-t/689224823218743/",
+    "https://www.facebook.com/LoopReturns/posts/-the-countdown-is-on-just-over-60-days-until-bfcm-and-only-2-days-until-our-loop/966680702139819/",
+    "https://www.facebook.com/LoopReturns/posts/were-excited-to-announce-that-loop-has-acquired-wondermentthis-strategic-acquisi/1024939059647316/",
+    "https://www.facebook.com/LoopReturns/posts/last-week-we-had-the-pleasure-of-jetting-off-to-the-beautiful-pacific-northwest-/922101529931070/",
+    "https://www.facebook.com/LoopReturns/posts/loop-has-been-a-transformative-solution-for-topicals-deja-jefferson-customer-ins/948194383988451/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Loopreturns note 社長",
+   "results": [
+    "https://www.loopreturns.com/blog/loop-raises-65m-series-b/",
+    "https://www.loopreturns.com/blog/origin-story/",
+    "https://tracxn.com/d/companies/loopreturns/__rXLDGvWX2sGS6YZNnEriAMRtj_G_fDSYwmhSt2zV-us",
+    "https://siliconvalleyinvestclub.com/companies/loopreturns/",
+    "https://www.bizjournals.com/columbus/news/2024/11/06/loop-jonathan-poma-hannah-bravo.html",
+    "https://www.theofficialboard.com/org-chart/loop-returns",
+    "https://www.theofficialboard.com/biography/hannah-bravo-416g5",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://skio.com/interviews/the-ebbs-and-flows-of-scaling-a-startup-with-loop-ceo-jonathan-poma",
+    "https://docs.loopreturns.com/api-reference/latest/return-actions/create-return-note"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Loopreturns X 投稿",
+   "results": [
+    "https://x.com/loopreturns",
+    "https://github.com/LoopReturnsLabs/",
+    "https://www.instagram.com/loopreturns/",
+    "https://x.com/loop",
+    "https://docs.loopreturns.com/api-reference/getting-started",
+    "https://docs.loopreturns.com/return-create-api/return-create-api",
+    "https://www.loopreturns.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部30頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部30頁・検索12回）"
+ }
+}

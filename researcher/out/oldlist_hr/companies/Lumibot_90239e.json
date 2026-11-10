@@ -1,0 +1,1152 @@
+{
+ "name": "Lumibot",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-10T00:17:48.267930+00:00",
+ "official_url": "https://www.lumina.ai/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "agents research, reason and place orders from your prompts.",
+    "url": "https://lumibot.lumiwealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "stocks, options, futures, forex, crypto and prediction markets through",
+    "url": "https://lumibot.lumiwealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Write prompts for trading agents",
+    "url": "https://lumibot.lumiwealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "The trading rules go in the prompt.",
+    "url": "https://lumibot.lumiwealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "uses an OpenAI model and Yahoo daily prices; model calls incur charges.",
+    "url": "https://lumibot.lumiwealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "of the API, not a claim that the trading rule is profitable.",
+    "url": "https://lumibot.lumiwealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "LumiBot project to BotSpot MCP.”",
+    "url": "https://lumibot.lumiwealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Approve the BotSpot sign-in when prompted. The connection saves",
+    "url": "https://lumibot.lumiwealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": ". LumiBot loads them and attaches the research tools",
+    "url": "https://lumibot.lumiwealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Follow the training and learn how to build and backtest a trading strategy.",
+    "url": "https://lumibot.lumiwealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Price Chart or Own Pane",
+    "url": "https://lumibot.lumiwealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Get Pre-Built Strategies",
+    "url": "https://lumibot.lumiwealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "LumiBot was created by Rob Grzesik and is published by Lumiwealth. The project",
+    "url": "https://lumibot.lumiwealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "that call a model need that provider’s authentication. The AI example above",
+    "url": "https://lumibot.lumiwealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "and billed model calls. Data-provider credentials",
+    "url": "https://lumibot.lumiwealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Brokers, Tradier, Schwab, Tradovate, ProjectX, Bitunix, Polymarket, and the",
+    "url": "https://lumibot.lumiwealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "LumiBot: Real-Time Video AI Copilot for Manual Manufacturing",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "Video-AI copilot that monitors operator hand movements and assembly workflows in manual manufacturing.",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "Video-AI copilot that monitors operator hand movements and assembly workflows in manual manufacturing. LumiBot is a Singapore-based industrial artificial intelligence startup (per its Y Combinator profile) developing a video-based computer vision copilot to monitor manual manufacturing and assembly operations in real time.",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "https://presentofai.com/spotlight/lumibot.com",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "LumiBot | Present of AI Company Spotlight",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "Operates through a consultative deployment model involving video workflow mapping, custom model training, and continuous active learning.",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "Singapore (per its Y Combinator profile)",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "Y Combinator Winter 2022 batch, as Lumina (its Y Combinator profile lists 2022)",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "LumiBot brings video-AI hand tracking to manual assembly lines, backed by YC W22, with no named customers or published results yet.",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "Per its Y Combinator profile, Aswin Andrison co-founded the fresh-produce supplier STOQO and consulted at McKinsey, IBM and Honeywell; no background for Tri Ahmad Irfan is published there.",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "Per its site, LumiBot builds a custom AI copilot from each customer's operator hand-movement videos and fine-tunes it continuously.",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "The Challenge of In-Process Quality Control in Manual Manufacturing",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "Despite decades of factory robotics advancement, a substantial portion of global electronics and mechanical assembly continues to rely on human hands. Intricate tasks such as routing delicate flex cables, inserting miniature surface-mount components, applying adhesive beads, and torquing micro-fasteners demand fine motor dexterity that multi-axis robotic arms still struggle to match economically.",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "Video Copilot Deployment Workflow",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "General reasoning: video AI tools for factories are maturing, but no dated trigger is tied to the company's pitch.",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "No regulatory barrier, own hardware, proprietary data at stated scale or long contracts appear in public sources, and no customers are named, so the lead rests on execution.",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "High-touch sales motion requiring physical camera installations, manual video collection, custom model fine-tuning, and bespoke plant integration.",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "The company's site does not describe security certifications or worker privacy protections, so this is not assessed.",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "Not applicable: industrial manufacturing technology requiring dedicated camera hardware setup, assembly video training, and on-site engineering consultations.",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "Workstation Video Intake and Camera Setup",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "A deep learning model fine-tuned on recorded video datasets of target manufacturing procedures, learning the spatial sequence of correct component assembly.",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "An interactive audio-visual indicator that immediately flags omitted steps, incorrect tool usage, or improper component alignment before parts transfer to downstream stages.",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "Bringing computer vision to industrial factory floors requires bridging significant operational divides. Factory environments present continuous visual interference, including varying worker skin tones, reflective metal workbenches, shifting ambient overhead lighting, and rapid hand movements that cause motion blur on standard webcams.",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "LumiBot watches factory operators on video and tracks their hand movements. It flags assembly mistakes as they happen.",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "A custom AI demo is built from videos of operators.",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "From procurement bots to",
+    "url": "https://yespress.io/lumibot-yc-w22",
+    "pass": 3
+   },
+   {
+    "quote": "The current product is an AI copilot for manual assembly. A camera sits over the workbench and watches the operator's hands. Computer vision reads the motion, compares it against the correct sequence, and flags a deviation in real time - before the unit moves on. The company's own line for it is plain: \"Ship faster than ever, error-free.\"",
+    "url": "https://yespress.io/lumibot-yc-w22",
+    "pass": 3
+   },
+   {
+    "quote": "The company's framing of the product",
+    "url": "https://yespress.io/lumibot-yc-w22",
+    "pass": 3
+   },
+   {
+    "quote": "The mascot is a flame that never quite stops being a robot - two eyes and a pair of antennae hiding in the base. Fitting for a product whose whole job is to keep watching.",
+    "url": "https://yespress.io/lumibot-yc-w22",
+    "pass": 3
+   },
+   {
+    "quote": "LumiBot doesn't sell a shrink-wrapped box. Onboarding runs in three phases, and each one lowers the risk of the next.",
+    "url": "https://yespress.io/lumibot-yc-w22",
+    "pass": 3
+   },
+   {
+    "quote": "The onboarding pipeline",
+    "url": "https://yespress.io/lumibot-yc-w22",
+    "pass": 3
+   },
+   {
+    "quote": "Live in production, catching errors in real time.",
+    "url": "https://yespress.io/lumibot-yc-w22",
+    "pass": 3
+   },
+   {
+    "quote": "Continuous improvement as the model sees more work.",
+    "url": "https://yespress.io/lumibot-yc-w22",
+    "pass": 3
+   },
+   {
+    "quote": "From spreadsheets to hands",
+    "url": "https://yespress.io/lumibot-yc-w22",
+    "pass": 3
+   },
+   {
+    "quote": "The through-line from then to now is productivity, not a particular technology. The company moved from automating the paperwork around manufacturing to watching the manufacturing itself. Same north star, different medium - spreadsheets gave way to a camera pointed at a workbench.",
+    "url": "https://yespress.io/lumibot-yc-w22",
+    "pass": 3
+   },
+   {
+    "quote": ". Before this, he consulted at McKinsey, IBM and Honeywell, and co-founded STOQO - a fresh-produce supply startup that, at its height, served roughly 40,000 restaurants with a workforce around 1,500 and about USD 13M raised. He studied computer science and chemical engineering at UNSW, then added an MBA across London Business School and MIT.",
+    "url": "https://yespress.io/lumibot-yc-w22",
+    "pass": 3
+   },
+   {
+    "quote": "That resume reads like the setup for exactly this product: enterprise consulting taught him where industrial pain lives, and running a high-volume physical-goods operation taught him what a single error costs when it multiplies across a line.",
+    "url": "https://yespress.io/lumibot-yc-w22",
+    "pass": 3
+   },
+   {
+    "quote": "Beyond Y Combinator, LumiBot's early-stage backing includes Monk's Hill Ventures, Alpha JWC Ventures, Goodwater Capital, SWC Global and January Capital - a lineup that reads distinctly Southeast Asia, matching the company's Singapore base and regional roots. The thesis they're buying is human-plus-AI industrial productivity, delivered without asking a factory to rebuild anything.",
+    "url": "https://yespress.io/lumibot-yc-w22",
+    "pass": 3
+   },
+   {
+    "quote": "High-Precision Perception Ensures Crisp Data at the Source",
+    "url": "https://www.aol.com/articles/just-over-since-inception-lumibot-024700000.html",
+    "pass": 3
+   },
+   {
+    "quote": "On the data front, LumiBot has fully operationalized its real-robot teleoperation collection pipeline for continuous data gathering. Simultaneously, its egocentric (Ego) data-to-robot mapping scheme has achieved millimeter-level precision verification, providing stable training inputs.",
+    "url": "https://www.aol.com/articles/just-over-since-inception-lumibot-024700000.html",
+    "pass": 3
+   },
+   {
+    "quote": "Currently, LumiBot is advancing scenario validation and technical verification (POCs) with industry leaders across automotive manufacturing, 3C electronics, and life sciences, systematically proving the scale-up capability and reliability of its hardware and systems in actual production environments.",
+    "url": "https://www.aol.com/articles/just-over-since-inception-lumibot-024700000.html",
+    "pass": 3
+   },
+   {
+    "quote": "View original content to download multimedia:",
+    "url": "https://www.aol.com/articles/just-over-since-inception-lumibot-024700000.html",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.prnewswire.com/news-releases/just-over-a-year-since-inception-lumibot-challenges-embodied-ais-data-bottleneck-at-iros-2026-302893661.html",
+    "url": "https://www.aol.com/articles/just-over-since-inception-lumibot-024700000.html",
+    "pass": 3
+   },
+   {
+    "quote": "Just Over a Year Since Inception, LumiBot Challenges Embodied AI's Data Bottleneck at IROS 2026 - PR Newswire APAC",
+    "url": "https://en.prnasia.com/releases/global/just-over-a-year-since-inception-lumibot-challenges-embodied-ai-s-data-bottleneck-at-iros-2026-550071.shtml",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "akumachan-v/lumibot-jp-setup - GitHub — BotSpot is our platform built on top of Lumibot that lets you build, backtest, and deploy trading strategies without writing any code. Just describe what you want in plain English and BotSpot's AI handles the rest.",
+    "url": "https://github.com/akumachan-v/lumibot-jp-setup/tree/main",
+    "pass": 3
+   },
+   {
+    "quote": "lumibot-jp-setup/README.md at main · akumachan-v ... - GitHub — BotSpot is our platform built on top of Lumibot that lets you build, backtest, and deploy trading strategies without writing any code. Just describe what you want in plain English and BotSpot's AI handles the rest.",
+    "url": "https://github.com/akumachan-v/lumibot-jp-setup/blob/main/README.md",
+    "pass": 3
+   },
+   {
+    "quote": "lumibot-jp-v2 · PyPI — Oct 27, 2024 · Lumibot is a backtesting and trading library for stocks, options, crypto, futures and more. It is made so that the same code you use for backtesting can be used for live trading, making it easy to transition from backtesting to live trading.",
+    "url": "https://pypi.org/project/lumibot-jp-v2/",
+    "pass": 3
+   },
+   {
+    "quote": "Lumibot: Python Algorithmic Trading and AI Agents — 5 days ago · Build AI-powered trading strategies in Python. Run an AI backtest, inspect its decisions and orders, then connect a supported broker with LumiBot.",
+    "url": "https://lumibot.lumiwealth.com/",
+    "pass": 3
+   },
+   {
+    "quote": "力制御0.02ニュートン、能動冷却関節も 中国「LumiBot」、ロボットハ... — Aug 11, 2026 · ロボットハンドや視触覚センサーなど精密操作ソリューションを提供する中国企業「拾玥科技（LumiBot）」はこのほど、エンジェルラウンドで数千万元（数億～十数億円）を調達した。",
+    "url": "https://36kr.jp/500171/",
+    "pass": 3
+   },
+   {
+    "quote": "GitHub - akumachan-v/lumibot-jp-setup: Japanese setup guide ... — BotSpot is our platform built on top of Lumibot that lets you build, backtest, and deploy trading strategies without writing any code. Just describe what you want in plain English and BotSpot's AI handles the rest.",
+    "url": "https://github.com/akumachan-v/lumibot-jp-setup/tree/main",
+    "pass": 3
+   },
+   {
+    "quote": "lumibot-jp-setup/docs/README.md at main - GitHub — This folder contains human-authored documentation for the LumiBot trading and backtesting framework. AI assistants should start here to understand documentation structure.",
+    "url": "https://github.com/akumachan-v/lumibot-jp-setup/blob/main/docs/README.md",
+    "pass": 3
+   },
+   {
+    "quote": "LumiBot: Real-Time Video AI Copilot for Manual Manufacturing — Oct 20, 2026 · Independent editorial analysis and scorecard of LumiBot (lumibot.com), the YC W22-backed computer vision startup bringing hand-tracking to factory assembly lines.",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "LumiBot: The AI Copilot Watching Every Hand on the Assembly Line — Jul 30, 2026 · LumiBot (YC W22) builds AI copilots for factories. Its current product uses a camera and computer vision to watch operators' hands during manual assembly, catching mistakes in real time before a defective unit moves down the line.",
+    "url": "https://yespress.io/lumibot-yc-w22",
+    "pass": 3
+   },
+   {
+    "quote": "Just Over a Year Since Inception, LumiBot Challenges ... - AOL — Sep 30, 2026 · At the heart of LumiBot's showcase is a core thesis: the upper bound of data quality is strictly determined by hardware reliability. In embodied AI, high-quality real-world manipulation data...",
+    "url": "https://www.aol.com/articles/just-over-since-inception-lumibot-024700000.html",
+    "pass": 3
+   },
+   {
+    "quote": "Just Over a Year Since Inception, LumiBot Challenges Embodied ... — Sep 30, 2026 · At the heart of LumiBot's showcase is a core thesis: the upper bound of data quality is strictly determined by hardware reliability. In embodied AI, high-quality real-world manipulation data remains critically scarce.",
+    "url": "https://en.prnasia.com/releases/global/just-over-a-year-since-inception-lumibot-challenges-embodied-ai-s-data-bottleneck-at-iros-2026-550071.shtml",
+    "pass": 3
+   },
+   {
+    "quote": "Aswin Andrison - LumiBot (YC W22) | LinkedIn — Aswin founded LumiBot (YC W22) to help manufacturers build productivity advantage with… NVIDIA is building robots to assemble NVIDIA chips. The machines that make the machines. The task:...",
+    "url": "https://www.linkedin.com/in/aandrison",
+    "pass": 3
+   },
+   {
+    "quote": "Lumibot Revenue, Funding & Valuation - prospeo.io — What are the revenues of Lumibot? Lumibot generates an estimated annual revenue of $256,665. This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/lumibot-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Lumibot - 2025 Company Profile & Funding - Tracxn — Sep 16, 2025 · Lumibot has raised $500K in funding. Provider of AI-powered platform for workflow automation and data integration. The platform allows users to integrate data from web sources and automate workflows. It supports procurement, sales, finance, and operations teams in automating complex processes.",
+    "url": "https://tracxn.com/d/companies/lumibot/__YTXes97LACb_VUYiOaJ04znv1j2UUDlIPjvyQy5cc9c",
+    "pass": 3
+   },
+   {
+    "quote": "LumiBot: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Frequently Asked Questions Who founded LumiBot? LumiBot was founded by Aswin Andrison (Founder & CEO).",
+    "url": "https://startupintros.com/orgs/lumibot",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "力制御0.02ニュートン、能動冷却関節も 中国「LumiBot」、ロボットハンドで存在感 - 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア",
+    "url": "https://36kr.jp/500171/",
+    "pass": 3
+   },
+   {
+    "quote": "（36Kr Japan編集部）",
+    "url": "https://36kr.jp/500171/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業のDXを促進するプラットフォーム「CONNECTO」",
+    "url": "https://36kr.jp/500171/",
+    "pass": 3
+   },
+   {
+    "quote": "中国貴州省山間地域の養殖キャビア、日本市場に進出",
+    "url": "https://36kr.jp/500171/",
+    "pass": 3
+   },
+   {
+    "quote": "中国貴州省黔南（けんなん）プイ族ミャオ族自治州恵水県にある布塔尼食品が、キャビアの日本向け輸出を本格化させている",
+    "url": "https://36kr.jp/500171/",
+    "pass": 3
+   },
+   {
+    "quote": "同社の張翠蘭董事長は、今年すでに計500キロのキャビアを日本に輸出しており、年末には1トンを突破し、生産額 […]",
+    "url": "https://36kr.jp/500171/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "動画生成AI「Kling AI」、約4800億円を調達 評価額は2.8兆円、香港IPOも視野",
+    "url": "https://36kr.jp/500171/",
+    "pass": 3
+   },
+   {
+    "quote": "20万円台の小型ヒューマノイドで注目、中国「Noetix Robotics」が香港IPOを準備か",
+    "url": "https://36kr.jp/500171/",
+    "pass": 3
+   },
+   {
+    "quote": "中国の上場企業、1～9月純利益8.5％増 半導体関連は2.9倍、ハイテク産業がけん引",
+    "url": "https://36kr.jp/500171/",
+    "pass": 3
+   },
+   {
+    "quote": "中国本土株式市場に上場する5578社の1～9月期決算が出そろった",
+    "url": "https://36kr.jp/500171/",
+    "pass": 3
+   },
+   {
+    "quote": "中国上場企業協会はこのほど、本土上場企業の1～9月の売上高は前年同期比5.9％増の56兆8000億元（約1363兆2000億円）、純利益は8.5％増の5兆 […]",
+    "url": "https://36kr.jp/500171/",
+    "pass": 3
+   },
+   {
+    "quote": "No regulatory barrier, own hardware, proprietary data at stated scale or long contracts appear in public sources, and no customers are named, so the lead rests on execution.",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "We wrote this Spotlight from public material, as part of our series on the companies building with AI.",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "The upper limit of data quality is dictated by hardware reliability; however, enabling large-scale acquisition of high-quality data requires that dexterous hands themselves achieve scalable deployment. LumiBot's ultimate goal is to truly scale up dexterous hands, transitioning standardized data collection from research laboratories into real-world industrial environments.",
+    "url": "https://www.aol.com/articles/just-over-since-inception-lumibot-024700000.html",
+    "pass": 3
+   },
+   {
+    "quote": "The upper limit of data quality is dictated by hardware reliability; however, enabling large-scale acquisition of high-quality data requires that dexterous hands themselves achieve scalable deployment. LumiBot's ultimate goal is to truly",
+    "url": "https://en.prnasia.com/releases/global/just-over-a-year-since-inception-lumibot-challenges-embodied-ai-s-data-bottleneck-at-iros-2026-550071.shtml",
+    "pass": 3
+   },
+   {
+    "quote": "Lumibot Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/lumibot-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Lumibot",
+    "url": "https://prospeo.io/c/lumibot-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/lumibot-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/lumibot-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/lumibot-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Lumibot?",
+    "url": "https://prospeo.io/c/lumibot-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Lumibot generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/lumibot-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/lumibot-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/lumibot-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Lumibot have?",
+    "url": "https://prospeo.io/c/lumibot-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/lumibot-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "2) revenue operations support",
+    "url": "https://startupintros.com/orgs/lumina",
+    "pass": 3
+   },
+   {
+    "quote": "Supports operations support, revenue operations, social media management, email management, content moderation, AI training and verification, and custom automation.",
+    "url": "https://startupintros.com/orgs/lumina",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "LumiBot: Real-Time Video AI Copilot for Manual Manufacturing",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "Video-AI copilot that monitors operator hand movements and assembly workflows in manual manufacturing.",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "Video-AI copilot that monitors operator hand movements and assembly workflows in manual manufacturing. LumiBot is a Singapore-based industrial artificial intelligence startup (per its Y Combinator profile) developing a video-based computer vision copilot to monitor manual manufacturing and assembly operations in real time.",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "LumiBot builds a real-time computer vision copilot for manual assembly workstations in manufacturing.",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "Began as Lumina, an Indonesian blue-collar job community co-founded by Aswin Andrison, before building LumiBot.",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "Applies standard overhead computer vision and hand-tracking models to manual assembly verification, a category where specialized industrial vision firms also compete.",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "The Challenge of In-Process Quality Control in Manual Manufacturing",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "Despite decades of factory robotics advancement, a substantial portion of global electronics and mechanical assembly continues to rely on human hands. Intricate tasks such as routing delicate flex cables, inserting miniature surface-mount components, applying adhesive beads, and torquing micro-fasteners demand fine motor dexterity that multi-axis robotic arms still struggle to match economically.",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial computer vision, manual manufacturing error detection, assembly line AI, and factory automation",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "General reasoning: video AI tools for factories are maturing, but no dated trigger is tied to the company's pitch.",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "High-touch sales motion requiring physical camera installations, manual video collection, custom model fine-tuning, and bespoke plant integration.",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "Not applicable: industrial manufacturing technology requiring dedicated camera hardware setup, assembly video training, and on-site engineering consultations.",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "An overhead camera configuration that records operator hand movements and tool placement across active factory workstations without obstructing technician movement.",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "A deep learning model fine-tuned on recorded video datasets of target manufacturing procedures, learning the spatial sequence of correct component assembly.",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "Bringing computer vision to industrial factory floors requires bridging significant operational divides. Factory environments present continuous visual interference, including varying worker skin tones, reflective metal workbenches, shifting ambient overhead lighting, and rapid hand movements that cause motion blur on standard webcams.",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "Competitive Dynamics in Industrial Computer Vision",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "The industrial visual inspection sector includes established machine vision firms such as Cognex, Keyence, and Omron, as well as emerging visual AI platforms like Landing AI and Instrumental, and direct rivals in AI guidance for manual assembly such as Retrocausal and Invisible AI. LumiBot focuses on human operator workflow tracking in manual assembly.",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "LumiBot watches factory operators on video and tracks their hand movements. It flags assembly mistakes as they happen.",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "Manual manufacturing and assembly lines. No customers are named on the site.",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "A custom AI demo is built from videos of operators.",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "Visual analytics for factory floors",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "Offers visual intelligence for manufacturing.",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "Invisible AI centres on camera analytics of factory work.",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "The through-line from then to now is productivity, not a particular technology. The company moved from automating the paperwork around manufacturing to watching the manufacturing itself. Same north star, different medium - spreadsheets gave way to a camera pointed at a workbench.",
+    "url": "https://yespress.io/lumibot-yc-w22",
+    "pass": 3
+   },
+   {
+    "quote": "A second act in industrial AI",
+    "url": "https://yespress.io/lumibot-yc-w22",
+    "pass": 3
+   },
+   {
+    "quote": "That resume reads like the setup for exactly this product: enterprise consulting taught him where industrial pain lives, and running a high-volume physical-goods operation taught him what a single error costs when it multiplies across a line.",
+    "url": "https://yespress.io/lumibot-yc-w22",
+    "pass": 3
+   },
+   {
+    "quote": "Beyond Y Combinator, LumiBot's early-stage backing includes Monk's Hill Ventures, Alpha JWC Ventures, Goodwater Capital, SWC Global and January Capital - a lineup that reads distinctly Southeast Asia, matching the company's Singapore base and regional roots. The thesis they're buying is human-plus-AI industrial productivity, delivered without asking a factory to rebuild anything.",
+    "url": "https://yespress.io/lumibot-yc-w22",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing computer vision isn't empty - names like Instrumental, Elementary,",
+    "url": "https://yespress.io/lumibot-yc-w22",
+    "pass": 3
+   },
+   {
+    "quote": "and Retrocausal work nearby corners of quality and assembly monitoring. LumiBot's distinguishing move is where it aims the lens: not the finished part on a conveyor, but the operator's hands mid-task, with models fine-tuned to a specific motion. It sits in the broader shift of AI copilots leaving the software world and showing up on the shop floor, over someone's shoulder, quiet until it isn't.",
+    "url": "https://yespress.io/lumibot-yc-w22",
+    "pass": 3
+   },
+   {
+    "quote": "For a manufacturer, the pitch reduces to something testable: point one camera at your hardest manual step, let LumiBot learn it, and see whether the defect that used to surface at final QC surfaces at the bench instead. If it does, the math takes care of itself.",
+    "url": "https://yespress.io/lumibot-yc-w22",
+    "pass": 3
+   },
+   {
+    "quote": "industrial automation",
+    "url": "https://yespress.io/lumibot-yc-w22",
+    "pass": 3
+   },
+   {
+    "quote": "The upper limit of data quality is dictated by hardware reliability; however, enabling large-scale acquisition of high-quality data requires that dexterous hands themselves achieve scalable deployment. LumiBot's ultimate goal is to truly scale up dexterous hands, transitioning standardized data collection from research laboratories into real-world industrial environments.",
+    "url": "https://www.aol.com/articles/just-over-since-inception-lumibot-024700000.html",
+    "pass": 3
+   },
+   {
+    "quote": "Currently, LumiBot is advancing scenario validation and technical verification (POCs) with industry leaders across automotive manufacturing, 3C electronics, and life sciences, systematically proving the scale-up capability and reliability of its hardware and systems in actual production environments.",
+    "url": "https://www.aol.com/articles/just-over-since-inception-lumibot-024700000.html",
+    "pass": 3
+   },
+   {
+    "quote": "dexterous hands, transitioning standardized data collection from research laboratories into real-world industrial environments.",
+    "url": "https://en.prnasia.com/releases/global/just-over-a-year-since-inception-lumibot-challenges-embodied-ai-s-data-bottleneck-at-iros-2026-550071.shtml",
+    "pass": 3
+   },
+   {
+    "quote": "Currently, LumiBot is advancing scenario validation and technical verification (POCs) with industry leaders across automotive manufacturing, 3C electronics, and life sciences, systematically proving the scale-up capability and reliability of its hardware and systems in actual production environments.",
+    "url": "https://en.prnasia.com/releases/global/just-over-a-year-since-inception-lumibot-challenges-embodied-ai-s-data-bottleneck-at-iros-2026-550071.shtml",
+    "pass": 3
+   },
+   {
+    "quote": "CassTime Unveils AI-Driven \"T+D Solution\" to Tackle Data and Repair Bottlenecks in the Global Automotive Aftermarket",
+    "url": "https://en.prnasia.com/releases/global/just-over-a-year-since-inception-lumibot-challenges-embodied-ai-s-data-bottleneck-at-iros-2026-550071.shtml",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Get the AI Hiring Index data and new AI jobs in the daily digest, plus the daily Spotlight. Free, and every email has an unsubscribe link.",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "and we email you when new roles match.",
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/lumibot-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "4) email management",
+    "url": "https://startupintros.com/orgs/lumina",
+    "pass": 3
+   },
+   {
+    "quote": "Supports operations support, revenue operations, social media management, email management, content moderation, AI training and verification, and custom automation.",
+    "url": "https://startupintros.com/orgs/lumina",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "LumiBot (YC W22) - LinkedIn LumiBot (YC W22) | 471 followers on LinkedIn. Video-AI copilot for complex manufacturing assemblies | Video-AI copilot for complex manufacturing assemblies",
+    "url": "https://www.linkedin.com/company/lumibot",
+    "pass": 3
+   },
+   {
+    "quote": "Aswin Andrison - LumiBot (YC W22) | LinkedInLumibot, LLC | LinkedInillumibot, Inc. | LinkedInRoss Arroyo - Founder of Illumibot.ai | AI-Powered Projection ...LumiBot Closes Dexterous Manipulation Loop at IROS 2026#innovationinart #projectionmapping #aiincreativetech # ... Aswin founded LumiBot (YC W22) to help manufacturers build productivity advantage with… Lumibot, LLC | 58 seguidores en LinkedI",
+    "url": "https://www.linkedin.com/in/aandrison",
+    "pass": 3
+   },
+   {
+    "quote": "Lumibot, LLC | LinkedIn Lumibot, LLC | 58 seguidores en LinkedIn. Generate amazing art on real surfaces using AI and a projector. | Illumibot | Projection Mapping Made Easy At Illumibot, we’re redefining the world of...",
+    "url": "https://pe.linkedin.com/company/illumibot-llc",
+    "pass": 3
+   },
+   {
+    "quote": "illumibot, Inc. | LinkedIn illumibot, Inc. | 321 followers on LinkedIn. Generate amazing art on real surfaces using AI and a projector | Illumibot | The 1st AI Personalized Projection At illumibot, we’re redefining the ...",
+    "url": "https://www.linkedin.com/company/illumibot",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Meet LumiBot — your AI-powered editing sidekick for Luminar ... Jun 25, 2025 · Whether you're stuck or just want to edit faster, LumiBot helps you get better results without wasting",
+    "url": "https://www.facebook.com/reel/1018834970035953/",
+    "pass": 3
+   },
+   {
+    "quote": "Editing just got smarter LumiBot... - Clever Photographer ... Editing just got smarter 💬 LumiBot 2.0 helps you understand every tool in Luminar NEO, get instant answers, and even recommends edits based on your...",
+    "url": "https://www.facebook.com/CleverPhotographer/posts/editing-just-got-smarter-lumibot-20-helps-you-understand-every-tool-in-luminar-n/763848286190127/",
+    "pass": 3
+   },
+   {
+    "quote": "It’s here! LumiBot just got a... - Clever Photographer ... Jul 25, 2025 · Introducing LumiBot Mobile — your personal editing assistant for Luminar Mobile on iPhone, iPad, Android",
+    "url": "https://www.facebook.com/CleverPhotographer/posts/-its-here-lumibot-just-got-a-mobile-sidekick-introducing-lumibot-mobile-your-per/770440275530928/",
+    "pass": 3
+   },
+   {
+    "quote": "Absolutely thrilled to finally launch the second part of my ...Cia Lumibot - FacebookStill editing the slow way? LumiBot is your personal AI ... Absolutely thrilled to finally launch the second part of my LumiBot project. My virtual assistant for Luminar Neo has become even smarter by being able... Cia Lumibot. 3,291 followers · 141 talking about this. Digital creator Jun 2, 2025 · Still editing t",
+    "url": "https://www.facebook.com/CleverPhotographer/videos/absolutely-thrilled-to-finally-launch-the-second-part-of-my-lumibot-project-my-v/1466624864472249/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.lumina.ai/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://github.com/akumachan-v/lumibot-jp-setup/tree/main",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/akumachan-v/lumibot-jp-setup/blob/main/README.md",
+    "status": "http_429",
+    "method": "http"
+   },
+   {
+    "url": "https://pypi.org/project/lumibot-jp-v2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lumibot.lumiwealth.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/akumachan-v/lumibot-jp-setup/tree/main",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/akumachan-v/lumibot-jp-setup/blob/main/docs/README.md",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://pypi.org/project/lumibot-jp-v2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://36kr.jp/500171/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://presentofai.com/spotlight/lumibot.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yespress.io/lumibot-yc-w22",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.aol.com/articles/just-over-since-inception-lumibot-024700000.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.prnasia.com/releases/global/just-over-a-year-since-inception-lumibot-challenges-embodied-ai-s-data-bottleneck-at-iros-2026-550071.shtml",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/lumibot-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://indexed.vc/companies/lumibot",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/lumibot/__YTXes97LACb_VUYiOaJ04znv1j2UUDlIPjvyQy5cc9c",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://startupintros.com/orgs/lumina",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/lumibot",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/aandrison",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pe.linkedin.com/company/illumibot-llc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/illumibot",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/reel/1018834970035953/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/CleverPhotographer/posts/editing-just-got-smarter-lumibot-20-helps-you-understand-every-tool-in-luminar-n/763848286190127/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/CleverPhotographer/posts/-its-here-lumibot-just-got-a-mobile-sidekick-introducing-lumibot-mobile-your-per/770440275530928/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/CleverPhotographer/videos/absolutely-thrilled-to-finally-launch-the-second-part-of-my-lumibot-project-my-v/1466624864472249/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Lumibot 日本 導入",
+   "results": [
+    "https://github.com/akumachan-v/lumibot-jp-setup/tree/main",
+    "https://github.com/akumachan-v/lumibot-jp-setup/blob/main/README.md",
+    "https://pypi.org/project/lumibot-jp-v2/",
+    "https://lumibot.lumiwealth.com/",
+    "https://36kr.jp/500171/",
+    "https://codenote.net/ja/posts/japanese-local-llm-development-case-studies/",
+    "https://prtimes.jp/main/html/rd/p/000000042.000147507.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lumibot 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.capgemini.com/jp-jp/about-us/overview-and-access/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lumibot Japan",
+   "results": [
+    "https://github.com/akumachan-v/lumibot-jp-setup/tree/main",
+    "https://github.com/akumachan-v/lumibot-jp-setup/blob/main/docs/README.md",
+    "https://pypi.org/project/lumibot-jp-v2/",
+    "https://36kr.jp/500171/",
+    "https://lumibot.lumiwealth.com/",
+    "https://www.lumibot.com/",
+    "http://lumirobot.net/en/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lumibot manufacturing customer case study",
+   "results": [
+    "https://presentofai.com/spotlight/lumibot.com",
+    "https://yespress.io/lumibot-yc-w22",
+    "https://www.aol.com/articles/just-over-since-inception-lumibot-024700000.html",
+    "https://en.prnasia.com/releases/global/just-over-a-year-since-inception-lumibot-challenges-embodied-ai-s-data-bottleneck-at-iros-2026-550071.shtml",
+    "https://www.linkedin.com/in/aandrison",
+    "https://www.lumibot.com/",
+    "http://lumirobot.net/en/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lumibot white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.seoreseller.com/",
+    "https://partners.spectrum.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://nebius.com/nebius-partner-program"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lumibot founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/lumibot-revenue",
+    "https://indexed.vc/companies/lumibot",
+    "https://tracxn.com/d/companies/lumibot/__YTXes97LACb_VUYiOaJ04znv1j2UUDlIPjvyQy5cc9c",
+    "https://startupintros.com/orgs/lumina",
+    "https://startupintros.com/orgs/lumibot",
+    "https://app.dealroom.co/companies/lumibot",
+    "https://seedtable.com/companies/lumina"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Lumibot",
+   "results": [
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/richemaru/n/naa5c56321e40",
+    "https://note.com/sankaku_tech/n/nd2b204116ac4",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/takuinsist/n/n7d2b265d707b"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Lumibot",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Lumibot",
+   "results": [
+    "https://www.linkedin.com/company/lumibot",
+    "https://www.linkedin.com/in/aandrison",
+    "https://pe.linkedin.com/company/illumibot-llc",
+    "https://www.linkedin.com/company/illumibot",
+    "https://www.linkedin.com/in/rossarroyo",
+    "https://www.linkedin.com/posts/lumibot-shiyue-tech_iros2026-lumibot-robotics-activity-7511412196032061440--RW0",
+    "https://www.linkedin.com/posts/illumibot-llc_innovationinart-projectionmapping-aiincreativetech-activity-7326260705110691840-TfUA"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Lumibot",
+   "results": [
+    "https://www.facebook.com/reel/1018834970035953/",
+    "https://www.facebook.com/CleverPhotographer/posts/editing-just-got-smarter-lumibot-20-helps-you-understand-every-tool-in-luminar-n/763848286190127/",
+    "https://www.facebook.com/CleverPhotographer/posts/-its-here-lumibot-just-got-a-mobile-sidekick-introducing-lumibot-mobile-your-per/770440275530928/",
+    "https://www.facebook.com/CleverPhotographer/videos/absolutely-thrilled-to-finally-launch-the-second-part-of-my-lumibot-project-my-v/1466624864472249/",
+    "https://www.facebook.com/cia.lumibot/about/",
+    "https://www.facebook.com/CleverPhotographer/videos/708559671549797/",
+    "https://www.facebook.com/CleverPhotographer/posts/-exciting-news-weve-upgraded-lumibot-with-a-new-memory-feature-so-your-photo-ass/780409437867345/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lumibot note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lumibot X 投稿",
+   "results": [
+    "https://www.instagram.com/lumibot_x/",
+    "https://zhuanlan.zhihu.com/p/2036961323414704585",
+    "https://36kr.jp/500171/",
+    "https://lumibot.lumiwealth.com/",
+    "https://www.lumibot.com/",
+    "http://lumirobot.net/en/",
+    "https://x.com/GitHub_Daily/status/2054554777091235937"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索12回）"
+ }
+}

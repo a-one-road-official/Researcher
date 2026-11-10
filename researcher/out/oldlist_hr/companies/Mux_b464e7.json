@@ -1,0 +1,1487 @@
+{
+ "name": "Mux",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-10T00:00:53.057320+00:00",
+ "official_url": "https://www.muxer.jp/",
+ "identified_by": "search:yahoo_jp:株式会社Mux",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒182-0033 東京都調布市富士見町2丁目2番地62",
+    "url": "https://www.muxer.jp/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "日本の担い手": [
+   {
+    "quote": "株式会社muxは、ネットワークを軸としたITインフラの設計・構築・運用を一貫して手がけるエンジニアリングパートナーです",
+    "url": "https://www.muxer.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "〒182-0033 東京都調布市富士見町2丁目2番地62",
+    "url": "https://www.muxer.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "日本市場復活はある!? いすゞ「MU-X」、改良新型と「RS」バージョンを6月12日にも公開か | Motor Fan｜自動車情報のモーターファン",
+    "url": "https://motor-fan.jp/article/235197/",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場復活はある!? いすゞ「MU-X」、改良新型と「RS」バージョンを6月12日にも公開か",
+    "url": "https://motor-fan.jp/article/235197/",
+    "pass": 3
+   },
+   {
+    "quote": "これが初の大幅改良になるが、いすゞは、日本市場でのSUVを含むすべての乗用車販売を2002年に終了しており、現在日本でいすゞ車を購入することは不可能となっている",
+    "url": "https://motor-fan.jp/article/235197/",
+    "pass": 3
+   },
+   {
+    "quote": "MU-X新型のワールドプレミアは6月12日が有力とされているが、いすゞの日本市場における乗用車の復活があるなら、ぜひ導入してほしいモデルといえる",
+    "url": "https://motor-fan.jp/article/235197/",
+    "pass": 3
+   },
+   {
+    "quote": "リドライバ MUX/DEMUX | 高千穂交易株式会社 製品サイト",
+    "url": "https://www.takachiho-kk.co.jp/prod/semicon/micro_dsp_peripheral/mux_demux/",
+    "pass": 3
+   },
+   {
+    "quote": "Diodes Incorporated（ダイオーズ：国内代理店）",
+    "url": "https://www.takachiho-kk.co.jp/prod/semicon/micro_dsp_peripheral/mux_demux/",
+    "pass": 3
+   },
+   {
+    "quote": "高千穂交易㈱が国内代理店を務めるダイオーズ社（本社：米国テキサス州ダラス）は19…",
+    "url": "https://www.takachiho-kk.co.jp/prod/semicon/micro_dsp_peripheral/mux_demux/",
+    "pass": 3
+   },
+   {
+    "quote": "国内最大 約3400社 の代理店・取扱店情報を掲載中",
+    "url": "https://www.indexpro.co.jp/Category/124",
+    "pass": 3
+   },
+   {
+    "quote": "【 Same Sky Japan 】 熱電発電モジュール（TEG）",
+    "url": "https://www.indexpro.co.jp/Category/124",
+    "pass": 3
+   },
+   {
+    "quote": "Marki Microwave社と日本代理店契約を締結いたしました – 株式会社AMT｜米国・欧州・台湾製マイクロ波及びミリ波部品の総合商社",
+    "url": "https://www.ad-mtech.com/news/cat-maker/news-2441/",
+    "pass": 3
+   },
+   {
+    "quote": "Marki Microwave社と日本代理店契約を締結いたしました",
+    "url": "https://www.ad-mtech.com/news/cat-maker/news-2441/",
+    "pass": 3
+   },
+   {
+    "quote": "2021年10月1日、米国Marki Microwave（マーキ・マイクロウェーブ）社と正式に日本正規代理店契約を締結いたしました",
+    "url": "https://www.ad-mtech.com/news/cat-maker/news-2441/",
+    "pass": 3
+   },
+   {
+    "quote": ", but is not sold in Japan.",
+    "url": "https://en.wikipedia.org/wiki/Isuzu_MU-X",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "いすゞのSUV「MU-X」に遭遇! ゴツくてカッコいいのに 日本 ... — いすゞのSUV「MU-X」に遭遇! ゴツくてカッコいいのに 日本 ... マイナビニュース https://news.mynavi.jp > article > 20220525-isuzu-mux",
+    "url": "https://news.mynavi.jp/article/20220525-isuzu-mux/",
+    "pass": 3
+   },
+   {
+    "quote": "リドライバ MUX /DEMUX | 高千穂交易株式会社 製品サイト — リドライバ MUX /DEMUX | 高千穂交易株式会社 製品サイト 高千穂交易(株) https://www.takachiho-kk.co.jp > semicon > mux_demux",
+    "url": "https://www.takachiho-kk.co.jp/prod/semicon/micro_dsp_peripheral/mux_demux/",
+    "pass": 3
+   },
+   {
+    "quote": "インサービス Pol- Mux 光スペクトラム＆相関アナライザ ... — インサービス Pol- Mux 光スペクトラム＆相関アナライザ ... VIAVI Solutions https://www.viavisolutions.com > ja-jp > products > servic...",
+    "url": "https://www.viavisolutions.com/ja-jp/products/service-pol-mux-optical-spectrum-and-correlation-analyzer-osca-710-discontinued",
+    "pass": 3
+   },
+   {
+    "quote": "First gen Isuzu MUX in Japan . Possibly Thai-spec. Only sold in ... — First gen Isuzu MUX in Japan . Possibly Thai-spec. Only sold in ... Reddit https://www.reddit.com > comments",
+    "url": "https://www.reddit.com/r/foreignmarketcars/comments/1rrmsii/first_gen_isuzu_mux_in_japan_possibly_thaispec/",
+    "pass": 3
+   },
+   {
+    "quote": "Mux Inc. Revenue 2024: $46.1M Est., $173.9M Raised — Mux Inc. Revenue 2024: $46.1M Est., $173.9M Raised GetLatka https://getlatka.com > companies > mux",
+    "url": "https://getlatka.com/companies/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Mux Revenue , Valuation, Funding & Investors - Multiples.vc — Mux Revenue , Valuation, Funding & Investors - Multiples.vc Multiples.vc https://multiples.vc > Companies",
+    "url": "https://multiples.vc/private-comps/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Mux's Competitors, Revenue , Number of Employees ... - Owler — Mux's Competitors, Revenue , Number of Employees ... - Owler Owler https://www.owler.com > mux",
+    "url": "https://www.owler.com/company/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Mux Business Breakdown & Founding Story | Contrary Research — Mux Business Breakdown & Founding Story | Contrary Research contrary.com https://research.contrary.com > mux",
+    "url": "https://research.contrary.com/company/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Mux 2026 Company Profile: Valuation, Funding & Investors — Mux 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/155954-98",
+    "pass": 3
+   }
+  ],
+  "採用・広告の製品": [
+   {
+    "quote": "アナログスイッチ / マルチプレクサ IC メーカー18社の製品一覧 - indexPro",
+    "url": "https://www.indexpro.co.jp/Category/124",
+    "pass": 3
+   },
+   {
+    "quote": "Pacific Millimeter Products",
+    "url": "https://www.ad-mtech.com/news/cat-maker/news-2441/",
+    "pass": 3
+   },
+   {
+    "quote": "Predecessor: Isuzu MU-7 (510; 2004)",
+    "url": "https://en.wikipedia.org/wiki/Isuzu_MU-X",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Isuzu_MU-X",
+    "pass": 3
+   },
+   {
+    "quote": "Mid-size SUV produced by Isuzu",
+    "url": "https://en.wikipedia.org/wiki/Isuzu_MU-X",
+    "pass": 3
+   },
+   {
+    "quote": "2013–present",
+    "url": "https://en.wikipedia.org/wiki/Isuzu_MU-X",
+    "pass": 3
+   },
+   {
+    "quote": "The predecessor to the MU-X, the",
+    "url": "https://en.wikipedia.org/wiki/Isuzu_MU-X",
+    "pass": 3
+   },
+   {
+    "quote": "In the late third quarter of 2006, the MU-7 drivetrain options were named the Primo (4x2) and Activo (4x4).",
+    "url": "https://en.wikipedia.org/wiki/Isuzu_MU-X",
+    "pass": 3
+   },
+   {
+    "quote": "3.0-litre engine, which was priced below the Primo.",
+    "url": "https://en.wikipedia.org/wiki/Isuzu_MU-X",
+    "pass": 3
+   },
+   {
+    "quote": "from 1 November 2008, with tweaked front, fender, and side trim and platinum-painted engines. The MOVE suspension for Activo and Primo models was also retooled. The S model also received an automatic transmission as optional.",
+    "url": "https://en.wikipedia.org/wiki/Isuzu_MU-X",
+    "pass": 3
+   },
+   {
+    "quote": "In April 2011, the MU-7 Choiz was revealed at the",
+    "url": "https://en.wikipedia.org/wiki/Isuzu_MU-X",
+    "pass": 3
+   },
+   {
+    "quote": "Rear view (pre-facelift)",
+    "url": "https://en.wikipedia.org/wiki/Isuzu_MU-X",
+    "pass": 3
+   },
+   {
+    "quote": "The MU-X had its world premiere in",
+    "url": "https://en.wikipedia.org/wiki/Isuzu_MU-X",
+    "pass": 3
+   },
+   {
+    "quote": "on 31 October 2013 and was sold from 6 November 2013. The MU-X is a product from the collaboration between",
+    "url": "https://en.wikipedia.org/wiki/Isuzu_MU-X",
+    "pass": 3
+   },
+   {
+    "quote": ". Due to an agreement with GM, the Trailblazer was released prior to the MU-X.",
+    "url": "https://en.wikipedia.org/wiki/Isuzu_MU-X",
+    "pass": 3
+   },
+   {
+    "quote": "In China, the MU-X was launched in May 2015 and was produced by Jiangxi Isuzu Motors.",
+    "url": "https://en.wikipedia.org/wiki/Isuzu_MU-X",
+    "pass": 3
+   },
+   {
+    "quote": "of torque. This engine differs from the global 3.0-litre engine as it is still Euro II-compliant and produces less power than the",
+    "url": "https://en.wikipedia.org/wiki/Isuzu_MU-X",
+    "pass": 3
+   },
+   {
+    "quote": "On 21 April 2016, the LS-A grade with manual transmission was added to the lineup while the LS-M grade was discontinued. It also received a feature list upgrade.",
+    "url": "https://en.wikipedia.org/wiki/Isuzu_MU-X",
+    "pass": 3
+   },
+   {
+    "quote": "On 14 February 2017, the facelifted MU-X was revealed in a teaser video and website.",
+    "url": "https://en.wikipedia.org/wiki/Isuzu_MU-X",
+    "pass": 3
+   },
+   {
+    "quote": "It debuted on 4 March 2017 prior to the",
+    "url": "https://en.wikipedia.org/wiki/Isuzu_MU-X",
+    "pass": 3
+   },
+   {
+    "quote": ". This facelift including integrated LED front and tail lights, improved interior quality with the addition of soft material, a two-tone interior, and improved",
+    "url": "https://en.wikipedia.org/wiki/Isuzu_MU-X",
+    "pass": 3
+   },
+   {
+    "quote": "2016–present",
+    "url": "https://en.wikipedia.org/wiki/Isuzu_MU-X",
+    "pass": 3
+   },
+   {
+    "quote": "Pedestrian protection",
+    "url": "https://en.wikipedia.org/wiki/Isuzu_MU-X",
+    "pass": 3
+   },
+   {
+    "quote": "2020–present",
+    "url": "https://en.wikipedia.org/wiki/Isuzu_MU-X",
+    "pass": 3
+   },
+   {
+    "quote": ", with the same sole variant from the pre-facelift model.",
+    "url": "https://en.wikipedia.org/wiki/Isuzu_MU-X",
+    "pass": 3
+   },
+   {
+    "quote": "In February 2024, the MU-X received a 360-degree view camera, wireless charger and digital video recorder as standard for the LS-E and LS-A grades. The manual transmission option has been dropped.",
+    "url": "https://en.wikipedia.org/wiki/Isuzu_MU-X",
+    "pass": 3
+   },
+   {
+    "quote": "The facelifted MU-X debuted in the Philippines on 4 April 2025, with grade and engine choices remain unchanged from the pre-facelift model.",
+    "url": "https://en.wikipedia.org/wiki/Isuzu_MU-X",
+    "pass": 3
+   },
+   {
+    "quote": "Video Platform as a Service (VPaaS) Software",
+    "url": "https://getlatka.com/companies/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Mux is video infrastructure that makes it easy for developers to build video into their products, and do so quickly, reliably, and at global scale.",
+    "url": "https://getlatka.com/companies/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Apr 2021",
+    "url": "https://getlatka.com/companies/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Mux Inc. is privately held, so there is no Mux Inc. stock to buy. Investors valued it at $1B in its April 2021 Series D.",
+    "url": "https://getlatka.com/companies/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Mux Inc. has raised $173.9M across six rounds since 2016. The latest was a $105M Series D in April 2021.",
+    "url": "https://getlatka.com/companies/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Apr 2017",
+    "url": "https://getlatka.com/companies/mux",
+    "pass": 3
+   },
+   {
+    "quote": "in its April 2021 Series D.",
+    "url": "https://getlatka.com/companies/mux",
+    "pass": 3
+   },
+   {
+    "quote": "across six funding rounds. The latest was a $105M Series D in April 2021.",
+    "url": "https://getlatka.com/companies/mux",
+    "pass": 3
+   },
+   {
+    "quote": "No. Mux Inc. is a private company, so its shares aren't traded on a stock exchange.",
+    "url": "https://getlatka.com/companies/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Browse Video Platform as a Service (VPaaS) Software",
+    "url": "https://getlatka.com/companies/mux",
+    "pass": 3
+   },
+   {
+    "quote": "All Video Platform as a Service (VPaaS) Software companies, ranked",
+    "url": "https://getlatka.com/companies/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Mux is a video infrastructure provider offering APIs for hosting, encoding, streaming, and analytics. Mux Data monitors billions of streams for metrics like rebuffering and startup time, serving Vimeo, Robinhood, CBS Interactive, Discovery, PBS, and TED. Mux Video handles live and VOD playback across devices. Headquartered in San Francisco since 2015.",
+    "url": "https://multiples.vc/private-comps/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Video & Streaming Software",
+    "url": "https://multiples.vc/private-comps/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Mux's valuation has grown 12x from $85M at its Series B in August 2019 to $1B in May 2021, across 2 priced rounds.",
+    "url": "https://multiples.vc/private-comps/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Mux's first fundraising round was a $100K pre-seed round in March 2016. The most recent completed round was a $105M Series D in May 2021.",
+    "url": "https://multiples.vc/private-comps/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Mux is a San Francisco-based video infrastructure platform f…",
+    "url": "https://multiples.vc/private-comps/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Mux is a video streaming and analytics platform providing in…",
+    "url": "https://multiples.vc/private-comps/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Mux is a San Francisco-based cloud video infrastructure comp…",
+    "url": "https://multiples.vc/private-comps/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Mux is a San Francisco-based cloud video infrastructure company that provides APIs for developers to build video features, including streaming, encoding, delivery, performance monitoring, and analytics via products like Mux Data. Founded in 2015 by Jon Dahl and Adam Brown, it targets developers creating video experiences for platforms like Substack, HubSpot, and Vimeo.",
+    "url": "https://multiples.vc/private-comps/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Apr 2017",
+    "url": "https://multiples.vc/private-comps/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Mux raised a $9 million Series A funding round on April 18,…",
+    "url": "https://multiples.vc/private-comps/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Mux raised a $9 million Series A funding round on April 18, 2017, led by Accel with participation from Advancit Capital, Four Cities Capital, Susa Ventures, Y Combinator, SV Angel, Lowercase Capital, Liquid 2 Ventures, Pathbreaker Ventures, and angels James Lindenbaum and Ilya Sukhar. This brought total funding to $12 million including the prior seed round. Accel's Dan Levine joined the board.",
+    "url": "https://multiples.vc/private-comps/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Mux provides APIs for developers to build and analyze video streaming experiences across devices, with products like Mux Data for performance analytics. Customers including Wistia, Livestream, and IGN used it to improve video streaming. The company aimed to expand video performance features and tools for publishers.",
+    "url": "https://multiples.vc/private-comps/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in 2015, Mux addressed developer needs in video infrastructure amid growing online video demand.",
+    "url": "https://multiples.vc/private-comps/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Mux raised a $9 million Series A round on August 31, 2016, from Accel, Advancit Capital, and Susa Ventures. Mux is a San Francisco-based software company that designs APIs for developers to create videos.",
+    "url": "https://multiples.vc/private-comps/mux",
+    "pass": 3
+   },
+   {
+    "quote": "This data is available for Pro users. Sign up to see all 18 Mux investors.",
+    "url": "https://multiples.vc/private-comps/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up to see data on 350K+ funding rounds and disclosed revenue and EBITDA valuation multiples, from seed, through growth stage, to pre-IPO.",
+    "url": "https://multiples.vc/private-comps/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Stream Club enables creation of studio-quality live streams through drag-and-drop interfaces and developer APIs. San Francisco-based, the platform supplies customizable SDKs for embedding broadcasts in apps alongside cloud-hosted production tools for events, gaming, and corporate communications.",
+    "url": "https://multiples.vc/private-comps/mux",
+    "pass": 3
+   },
+   {
+    "quote": "This data is available for Pro users. Sign up to see all",
+    "url": "https://multiples.vc/private-comps/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Mux competitors include listed companies like Amdocs and Safie, and private ones like LiveKit, Quantum Metric, LeCloud and OpenSpace.",
+    "url": "https://multiples.vc/private-comps/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Public and private companies comparable to Mux",
+    "url": "https://multiples.vc/private-comps/mux",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "L3Harris Narda-ATM",
+    "url": "https://www.ad-mtech.com/news/cat-maker/news-2441/",
+    "pass": 3
+   },
+   {
+    "quote": "is a D-Max-based SUV with a three-row seating arrangement. The MU-7 was released in Thailand in November 2004, being advertised as a \"Sport Utility Wagon\".",
+    "url": "https://en.wikipedia.org/wiki/Isuzu_MU-X",
+    "pass": 3
+   },
+   {
+    "quote": "In September 2017, as part of the 20th anniversary of Isuzu Philippines, the facelifted MU-X debuted in the Philippines. It gets similar features as the Thai-spec model along with the newer Euro IV-compliant 3.0-litre",
+    "url": "https://en.wikipedia.org/wiki/Isuzu_MU-X",
+    "pass": 3
+   },
+   {
+    "quote": "O'Carroll, Damien (2014-06-17).",
+    "url": "https://en.wikipedia.org/wiki/Isuzu_MU-X",
+    "pass": 3
+   },
+   {
+    "quote": "\"The New Isuzu MU-X has arrived in New Zealand\"",
+    "url": "https://en.wikipedia.org/wiki/Isuzu_MU-X",
+    "pass": 3
+   },
+   {
+    "quote": "Mux Inc. Revenue 2024: $46.1M Est., $173.9M Raised",
+    "url": "https://getlatka.com/companies/mux",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, valuation & funding",
+    "url": "https://getlatka.com/companies/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Mux Inc. has not published its revenue. GetLatka estimates it at about $46.1M a year (October 2024).",
+    "url": "https://getlatka.com/companies/mux",
+    "pass": 3
+   },
+   {
+    "quote": "All 4 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Mux Inc. CEO, founders & employees",
+    "url": "https://getlatka.com/companies/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Jon Dahl founded Mux Inc. in 2015 with Matthew McClure and runs it as CEO. Mux Inc. has 147 employees (November 2025, LinkedIn), up from 126 a year earlier.",
+    "url": "https://getlatka.com/companies/mux",
+    "pass": 3
+   },
+   {
+    "quote": "What is Mux Inc.'s revenue?",
+    "url": "https://getlatka.com/companies/mux",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Mux Inc.'s revenue at about",
+    "url": "https://getlatka.com/companies/mux",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Mux Inc. have?",
+    "url": "https://getlatka.com/companies/mux",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of November 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Mux Revenue, Valuation, Funding & Investors | Multiples",
+    "url": "https://multiples.vc/private-comps/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue, Valuation, Funding & Investors",
+    "url": "https://multiples.vc/private-comps/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Mux is valued at $1B as of May 2021, a 31.3x revenue multiple. Mux revenue was $32M, as disclosed with its latest round.",
+    "url": "https://multiples.vc/private-comps/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Mux's latest recorded revenue is $32M, as of its Series D in May 2021. At a $1B valuation, that implies a 31.3x revenue multiple.",
+    "url": "https://multiples.vc/private-comps/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue moved from $32M in August 2019 to $32M in May 2021, while the revenue multiple moved from 2.7x to 31.3x.",
+    "url": "https://multiples.vc/private-comps/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Mux revenue by funding round",
+    "url": "https://multiples.vc/private-comps/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Mux revenue and valuation multiple by funding round",
+    "url": "https://multiples.vc/private-comps/mux",
+    "pass": 3
+   },
+   {
+    "quote": "* Revenue (or ARR) figures are the values recorded alongside each funding round. Typically run-rate revenue at the time of the deal, or a reported LTM (last 12 months) revenue.",
+    "url": "https://multiples.vc/private-comps/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Post-2020, Mux demonstrated hypergrowth, reaching $32.1 million in revenue in 2021 (400% YoY increase), with on-demand streaming up 300% and live streaming up 37x. By August 2023, it handled a record livestream with 30 million concurrent viewers and generated $30.8 million in revenue that year.",
+    "url": "https://multiples.vc/private-comps/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up to see data on 350K+ funding rounds and disclosed revenue and EBITDA valuation multiples, from seed, through growth stage, to pre-IPO.",
+    "url": "https://multiples.vc/private-comps/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Latest Acquisitions by",
+    "url": "https://multiples.vc/private-comps/mux",
+    "pass": 3
+   },
+   {
+    "quote": "acquisitions and their M&A valuation multiples.",
+    "url": "https://multiples.vc/private-comps/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Mux competitors include listed companies like Amdocs and Safie, and private ones like LiveKit, Quantum Metric, LeCloud and OpenSpace.",
+    "url": "https://multiples.vc/private-comps/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Is Mux publicly listed?",
+    "url": "https://multiples.vc/private-comps/mux",
+    "pass": 3
+   },
+   {
+    "quote": "What is Mux's revenue?",
+    "url": "https://multiples.vc/private-comps/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Mux's latest recorded revenue is $32M (May 2021).",
+    "url": "https://multiples.vc/private-comps/mux",
+    "pass": 3
+   },
+   {
+    "quote": "What is Mux's revenue multiple?",
+    "url": "https://multiples.vc/private-comps/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Mux's latest valuation implies a 31.3x revenue multiple ($1B valuation on $32M of revenue).",
+    "url": "https://multiples.vc/private-comps/mux",
+    "pass": 3
+   },
+   {
+    "quote": "How many companies has Mux acquired?",
+    "url": "https://multiples.vc/private-comps/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Mux has acquired 1 company, including",
+    "url": "https://multiples.vc/private-comps/mux",
+    "pass": 3
+   },
+   {
+    "quote": "ION Video Ltd (formerly Linius Technologies) provides video virtualisation infrastructure, which turns video files into data that AI systems can search and assemble. It is listed on the ASX and based in Melbourne, Australia.",
+    "url": "https://multiples.vc/private-comps/mux",
+    "pass": 3
+   },
+   {
+    "quote": "MAUs, up 6.1% YoY. Since TikTok is an app for creating, sharing, and consuming short-form video, all of its revenue is inherently linked to short-form video. Its 2024 revenue was",
+    "url": "https://research.contrary.com/company/mux",
+    "pass": 3
+   },
+   {
+    "quote": "by 2030. One example of ad revenue growth is YouTube, which had",
+    "url": "https://research.contrary.com/company/mux",
+    "pass": 3
+   },
+   {
+    "quote": "in ad revenue, up nearly 14% from",
+    "url": "https://research.contrary.com/company/mux",
+    "pass": 3
+   },
+   {
+    "quote": "by 2028. Because short-form video is increasingly leading social media revenue and company investment, this suggests that a significant portion of future social media ad spend will be driven by video.",
+    "url": "https://research.contrary.com/company/mux",
+    "pass": 3
+   },
+   {
+    "quote": "series A in April 2011 and was acquired by video delivery platform",
+    "url": "https://research.contrary.com/company/mux",
+    "pass": 3
+   },
+   {
+    "quote": ", part of which was",
+    "url": "https://research.contrary.com/company/mux",
+    "pass": 3
+   },
+   {
+    "quote": ". The founding team created another company in the video space because Zencoder’s rapid launch and acquisition",
+    "url": "https://research.contrary.com/company/mux",
+    "pass": 3
+   },
+   {
+    "quote": "their first employees and raised a",
+    "url": "https://research.contrary.com/company/mux",
+    "pass": 3
+   },
+   {
+    "quote": ". BytePlus is a subsidiary of TikTok's parent company, ByteDance, which was founded in",
+    "url": "https://research.contrary.com/company/mux",
+    "pass": 3
+   },
+   {
+    "quote": "employees, and its customers",
+    "url": "https://research.contrary.com/company/mux",
+    "pass": 3
+   },
+   {
+    "quote": "in revenue. Notably, in 2021, Mux had jumped to",
+    "url": "https://research.contrary.com/company/mux",
+    "pass": 3
+   },
+   {
+    "quote": "in revenue (up 400% YoY), and grew on-demand streaming by",
+    "url": "https://research.contrary.com/company/mux",
+    "pass": 3
+   },
+   {
+    "quote": "This is part of a series of meetings summarizing what I have learned about SRAM (Static Random Access Memory) for various reasons. Unless otherwise specified, this refers to standard 6T-SRAM.",
+    "url": "https://note.com/labmouse/n/n700626543a02?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "MUX is an abbreviation for Multiplexer. In an SRAM array, it primarily refers to a column selection multiplexer.",
+    "url": "https://note.com/labmouse/n/n700626543a02?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A MUX is used to control the physical shape of an SRAM array. The number of rows X and columns Y of an SRAM array are determined by the array capacity (number of words) and the number of bits read/written at once (data width). For explanation purposes, let's consider the number of rows and columns for a capacity of 2048-bit and a data width of 8-bit.",
+    "url": "https://note.com/labmouse/n/n700626543a02?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "There are other disadvantages to a vertically long layout, such as a decrease in read speed due to an increase in BL capacitance, an increase in the area and energy consumption of the row decoder, and various other problems, such as the fact that a rectangular memory array is simply too difficult to place.",
+    "url": "https://note.com/labmouse/n/n700626543a02?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "As you can see, if you try to arrange an SRAM array without thinking, various problems will naturally occur.",
+    "url": "https://note.com/labmouse/n/n700626543a02?hl=en",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Paul Tan's Automotive News",
+    "url": "https://en.wikipedia.org/wiki/Isuzu_MU-X",
+    "pass": 3
+   },
+   {
+    "quote": "Mux’s ideal customers include companies with a business case to host and stream performant video. According to one unverified source, Mux is most commonly used in companies with",
+    "url": "https://research.contrary.com/company/mux",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "[Integrated Circuit Study Group] On SRAM MUX ｜Labmouse [Integrated Circuit Study Group] On SRAM MUX ｜Labmouse note https://note.com > ... > ハードウェア",
+    "url": "https://note.com/labmouse/n/n700626543a02?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Mux Video API｜OpenClawスキル解説｜みさき - note Mux Video API｜OpenClawスキル解説｜みさき - note note https://note.com > コンピュータ・IT > アプリケーション",
+    "url": "https://note.com/bright_jacana710/n/n8a411b2dca90",
+    "pass": 3
+   },
+   {
+    "quote": "Go と Gorilla/ Mux で始める Web 開発完全ガイド｜Leapcell Go と Gorilla/ Mux で始める Web 開発完全ガイド｜Leapcell note https://note.com > コンピュータ・IT > ウェブ開発",
+    "url": "https://note.com/leapcell/n/ncd95598c636e",
+    "pass": 3
+   },
+   {
+    "quote": "Learn by Doing! Map & Localization: Twist Mux (セクション6 ... Learn by Doing! Map & Localization: Twist Mux (セクション6 ... note https://note.com > 科学・テクノロジー > ロボット技術",
+    "url": "https://note.com/hafnium/n/n69d7cf855eec",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "[Integrated Circuit Study Group] On SRAM MUX｜Labmouse",
+    "url": "https://note.com/labmouse/n/n700626543a02?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Integrated Circuit Study Group] On SRAM MUX",
+    "url": "https://note.com/labmouse/n/n700626543a02?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is part of a series of meetings summarizing what I have learned about SRAM (Static Random Access Memory) for various reasons. Unless otherwise specified, this refers to standard 6T-SRAM.",
+    "url": "https://note.com/labmouse/n/n700626543a02?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "That's a lot of text!",
+    "url": "https://note.com/labmouse/n/n700626543a02?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "MUX is an abbreviation for Multiplexer. In an SRAM array, it primarily refers to a column selection multiplexer.",
+    "url": "https://note.com/labmouse/n/n700626543a02?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A MUX is used to control the physical shape of an SRAM array. The number of rows X and columns Y of an SRAM array are determined by the array capacity (number of words) and the number of bits read/written at once (data width). For explanation purposes, let's consider the number of rows and columns for a capacity of 2048-bit and a data width of 8-bit.",
+    "url": "https://note.com/labmouse/n/n700626543a02?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "SRAM Configuration Diagram",
+    "url": "https://note.com/labmouse/n/n700626543a02?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this case, the simplest configuration is to provide columns equal to the data width. Since the data width here is 8-bit, it becomes a very long and thin rectangle with Y=8 and X=2048/8=256. While this configuration works fine at the schematic level, a very troublesome problem occurs when laying it out. This is because the peripheral circuits (especially the sense amplifiers) do not fit. Sense a",
+    "url": "https://note.com/labmouse/n/n700626543a02?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Mux Video API｜OpenClawスキル解説｜みさき",
+    "url": "https://note.com/bright_jacana710/n/n8a411b2dca90",
+    "pass": 3
+   },
+   {
+    "quote": "Mux Video API｜OpenClawスキル解説",
+    "url": "https://note.com/bright_jacana710/n/n8a411b2dca90",
+    "pass": 3
+   },
+   {
+    "quote": "「動画コンテンツをアプリやWebサービスに組み込みたいけど、インフラの構築が大変すぎる…」",
+    "url": "https://note.com/bright_jacana710/n/n8a411b2dca90",
+    "pass": 3
+   },
+   {
+    "quote": "そんな悩みを抱えていませんか？動画のエンコード、配信、ライブストリーミング、アナリティクスなど、動画インフラには多くの要素が絡み合います。",
+    "url": "https://note.com/bright_jacana710/n/n8a411b2dca90",
+    "pass": 3
+   },
+   {
+    "quote": "OpenClawの「Mux」スキルを使えば、Mux Video APIをAIエージェント経由で簡単に操作できるようになります。アセット管理からライブ配信、視聴分析まで、すべてコマンドラインから実行可能です。",
+    "url": "https://note.com/bright_jacana710/n/n8a411b2dca90",
+    "pass": 3
+   },
+   {
+    "quote": "Muxスキルは、Mux Video APIのREST APIをPythonスクリプトで操作するスキルです。以下の機能を提供します。",
+    "url": "https://note.com/bright_jacana710/n/n8a411b2dca90",
+    "pass": 3
+   },
+   {
+    "quote": "・動画アセットの管理（作成・取得・削除・一覧表示）",
+    "url": "https://note.com/bright_jacana710/n/n8a411b2dca90",
+    "pass": 3
+   },
+   {
+    "quote": "・ライブストリームの管理（作成・取得・削除・ストリームキーリセット）",
+    "url": "https://note.com/bright_jacana710/n/n8a411b2dca90",
+    "pass": 3
+   },
+   {
+    "quote": "Go と Gorilla/Mux で始める Web 開発完全ガイド｜Leapcell",
+    "url": "https://note.com/leapcell/n/ncd95598c636e",
+    "pass": 3
+   },
+   {
+    "quote": "Go と Gorilla/Mux で始める Web 開発完全ガイド",
+    "url": "https://note.com/leapcell/n/ncd95598c636e",
+    "pass": 3
+   },
+   {
+    "quote": "Leapcell: The Best of Serverless Web Hosting",
+    "url": "https://note.com/leapcell/n/ncd95598c636e",
+    "pass": 3
+   },
+   {
+    "quote": "gorilla/mux は、gorilla Web 開発ツールキット内のルーティング管理ライブラリです。gorilla Web 開発パッケージは、Go 言語で Web サーバーを開発するのを支援するツールキットです。これには、フォームデータ処理 (gorilla/schema)、websocket 通信 (gorilla/websocket)、ミドルウェア (gorilla/handlers)、session 管理 (gorilla/sessions)、およびセキュアな cookie 処理 (gorilla/securecookie) など、様々な側面が含まれています。",
+    "url": "https://note.com/leapcell/n/ncd95598c636e",
+    "pass": 3
+   },
+   {
+    "quote": "標準の http.Handler インターフェイスを実装しており、net/http 標準ライブラリと組み合わせて使用することができます。非常に軽量です。",
+    "url": "https://note.com/leapcell/n/ncd95598c636e",
+    "pass": 3
+   },
+   {
+    "quote": "リクエストのホスト名、パス、パスプレフィックス、プロトコル、HTTP ヘッダー、クエリ文字列、および HTTP メソッドに基づいてハンドラをマッチングすることができます。カスタムのマッチングロジックもサポートしています。",
+    "url": "https://note.com/leapcell/n/ncd95598c636e",
+    "pass": 3
+   },
+   {
+    "quote": "ホスト名、パス、およびリクエストパラメータに変数を使用することができ、それらに正規表現を指定することができます。",
+    "url": "https://note.com/leapcell/n/ncd95598c636e",
+    "pass": 3
+   },
+   {
+    "quote": "指定されたハンドラにパラメータを渡して、完全な URL を構築することができます。",
+    "url": "https://note.com/leapcell/n/ncd95598c636e",
+    "pass": 3
+   },
+   {
+    "quote": "Self Driving and ROS 2 - Learn by Doing! Map & Localization: Twist Mux (セクション6-2/11)｜Hafnium",
+    "url": "https://note.com/hafnium/n/n69d7cf855eec",
+    "pass": 3
+   },
+   {
+    "quote": "Self Driving and ROS 2 - Learn by Doing! Map & Localization: Twist Mux (セクション6-2/11)",
+    "url": "https://note.com/hafnium/n/n69d7cf855eec",
+    "pass": 3
+   },
+   {
+    "quote": "セクション6のレッスン64〜67では、複数の速度コマンドを効率的に処理するための`twist_mux`の設定と使用方法が紹介されました。",
+    "url": "https://note.com/hafnium/n/n69d7cf855eec",
+    "pass": 3
+   },
+   {
+    "quote": "`twist_mux`を使用するために、`Twist`メッセージを使用するようにロボットのコントローラーやジョイスティックの設定を変更し、シミュレーション環境でテストしました。",
+    "url": "https://note.com/hafnium/n/n69d7cf855eec",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、自己走行ロボットがジョイスティックやキーボードなど複数の入力ソースからの速度コマンドを管理し、優先順位に基づいて実行できるようになりました。",
+    "url": "https://note.com/hafnium/n/n69d7cf855eec",
+    "pass": 3
+   },
+   {
+    "quote": "Udemyの『Self Driving and ROS 2 - Learn by Doing! Map & Localization』コースの探索を続ける中で、セクション6の第2セクション（レッスン64〜67）では、複数の速度コマンドを効率的に処理するための`twist_mux`の概念が紹介されました。このセクションでは、自己走行ロボットのさまざまな速度入力を管理するための`twist_mux`の設定と構成に関する包括的なガイドが提供されました。以下は、各レッスンと主要な概念の概要です。",
+    "url": "https://note.com/hafnium/n/n69d7cf855eec",
+    "pass": 3
+   },
+   {
+    "quote": "`twist_mux`パッケージは、複数の速度コマンドソースを処理し、どのコマンドが優先されるべきかを決定するために設計されています。これは、ジョイスティックコマンド、自律ナビゲーションコマンド、Webベースのコマンドなど、さまざまな制御入力を統合するために重要です。`geometry_msgs`パッケージの`Twist`メッセージがこのプロセスの中心となり、線形および角速度情報をカプセル化し、ロボットが移動コマンドを理解して実行できるようにします。",
+    "url": "https://note.com/hafnium/n/n69d7cf855eec",
+    "pass": 3
+   },
+   {
+    "quote": ": `geometry_msgs/Twist`メッセージを使用して、自由空間での速度を表現。",
+    "url": "https://note.com/hafnium/n/n69d7cf855eec",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Mux (@MuxHQ) / X Mux (@MuxHQ) / X X https://x.com > MuxHQ",
+    "url": "https://x.com/MuxHQ",
+    "pass": 3
+   },
+   {
+    "quote": "# MUX - Search / X # MUX - Search / X X https://x.com > Search",
+    "url": "https://x.com/hashtag/MUX?src=hashtag_click",
+    "pass": 3
+   },
+   {
+    "quote": "Mux is optimal for short, large video files. Bunny wins ... Mux is optimal for short, large video files. Bunny wins ... X https://x.com > @balindenberg",
+    "url": "https://x.com/balindenberg/status/1673378432531480576",
+    "pass": 3
+   },
+   {
+    "quote": "Drew Smith (@ mux ) / X Drew Smith (@ mux ) / X X https://x.com > mux",
+    "url": "https://x.com/mux",
+    "pass": 3
+   },
+   {
+    "quote": "むにゃ~ ️ (@mux_x_) / Posts / X Apr 14, 2026 · むにゃ~ ️🩵 (@mux_x_) - Posts - 一生水色の虜 ️🩵 | X (formerly Twitter)",
+    "url": "https://x.com/mux_x_",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Mux - LinkedIn Mux - LinkedIn LinkedIn https://www.linkedin.com > mux",
+    "url": "https://www.linkedin.com/company/mux",
+    "pass": 3
+   },
+   {
+    "quote": "Adam Brown - Mux , Inc | LinkedIn Adam Brown - Mux , Inc | LinkedIn LinkedIn https://www.linkedin.com > ...",
+    "url": "https://www.linkedin.com/in/adam-brown-7452b03a",
+    "pass": 3
+   },
+   {
+    "quote": "Jon Dahl - Mux , Inc. - LinkedIn Jon Dahl - Mux , Inc. - LinkedIn LinkedIn https://www.linkedin.com > zencoder",
+    "url": "https://www.linkedin.com/in/zencoder",
+    "pass": 3
+   },
+   {
+    "quote": "MUX - LinkedIn MUX - LinkedIn LinkedIn https://ca.linkedin.com > company",
+    "url": "https://ca.linkedin.com/company/mobile-ux-awards",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Mux | San Francisco CA - Facebook Mux | San Francisco CA - Facebook Facebook https://www.facebook.com > ... > Internet company",
+    "url": "https://www.facebook.com/MuxHQ/",
+    "pass": 3
+   },
+   {
+    "quote": "Mux Mool (@muxmool) - Facebook Mux Mool (@muxmool) - Facebook Facebook https://www.facebook.com > muxmool",
+    "url": "https://www.facebook.com/muxmool/",
+    "pass": 3
+   },
+   {
+    "quote": "MUX Legend Season 21 (@MUXLegend) - Facebook MUX Legend Season 21 (@MUXLegend) - Facebook Facebook https://www.facebook.com > ... > Brand > Games/toys",
+    "url": "https://www.facebook.com/MUXLegend/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.muxer.jp/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://bestcarweb.jp/feature/column/1231353",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://motor-fan.jp/article/235197/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.mynavi.jp/article/20220525-isuzu-mux/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.le-parnass.com/index.php?e=4028",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/categories/5281/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.takachiho-kk.co.jp/prod/semicon/micro_dsp_peripheral/mux_demux/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/Category/124",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ad-mtech.com/news/cat-maker/news-2441/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.isuzu.co.jp/world/product/p_car/mu-x/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sp.beforward.jp/stocklist/make=8/model=17233/sortkey=a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Isuzu_MU-X",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atcjapan.com/car-detail/1804/2023-Isuzu-MU-X",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJgglwzSAsFAiVxyA473DfTvLan5oB6nUeFJEv_7CEAg4Zu7Emu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S2213846326002233",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flexwareinnovation.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://conexusindiana.com/case-study-type/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/partner-program/white-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/mux",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://multiples.vc/private-comps/mux",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.owler.com/company/mux",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://research.contrary.com/company/mux",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/labmouse/n/n700626543a02?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/bright_jacana710/n/n8a411b2dca90",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/leapcell/n/ncd95598c636e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hafnium/n/n69d7cf855eec",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/MuxHQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/MUX?src=hashtag_click",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/balindenberg/status/1673378432531480576",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mux",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/mux",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/adam-brown-7452b03a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/zencoder",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/mobile-ux-awards",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MuxHQ/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/muxmool/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MUXLegend/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mux_x_",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Mux",
+   "results": [
+    "https://www.mux.com/",
+    "https://en.wikipedia.org/wiki/Multiplexer",
+    "https://www.youtube.com/@MuxHQ",
+    "https://dev.to/jpoly1219/what-even-is-a-mux-4fng",
+    "https://www.linkedin.com/company/mux",
+    "https://www.reddit.com/r/GamingLaptops/comments/qej5zi/what_exactly_is_mux_why_does_everybody_recommend/",
+    "https://ja.wikipedia.org/wiki/MUX",
+    "https://grokipedia.com/page/Multan_International_Airport",
+    "https://en.wikipedia.org/wiki/MUX",
+    "https://finance.yahoo.com/quote/MUX/?fr=sycsrp_catchall"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "株式会社Mux",
+   "results": [
+    "https://www.muxer.jp/",
+    "https://www.mux.nagoya/",
+    "https://mux-recruit.com/detail5.html",
+    "https://www.instagram.com/mux.inc/",
+    "https://www.mux.nagoya/about/",
+    "https://cnavi.g-search.or.jp/detail/9180001132477.html",
+    "https://biz-maps.com/item/L3Z7Avbw1O",
+    "https://compalyze.co.jp/company/7012401042282",
+    "https://www.lancers.jp/client/MUX326?srsltid=AYCX9vJeTJKD0AliVGbHjQyWQT88aGn7vzP30SbhgbW17WqeWAu3JNbp",
+    "https://ja.wikipedia.org/wiki/株式会社QuizKnock"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Mux 日本 導入",
+   "results": [
+    "https://bestcarweb.jp/feature/column/1231353",
+    "https://motor-fan.jp/article/235197/",
+    "https://news.mynavi.jp/article/20220525-isuzu-mux/",
+    "https://blog.le-parnass.com/index.php?e=4028",
+    "https://kuruma-news.jp/post/909845",
+    "https://www.caranddriver.co.jp/newcar/76245/",
+    "https://markethack.net/technology/video/mux",
+    "https://www.isuzu-global.com/ja/newsroom/20240613_1.html",
+    "https://www.muxer.jp/",
+    "https://ameblo.jp/starter001/entry-12962122072.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Mux 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/categories/5281/",
+    "https://www.takachiho-kk.co.jp/prod/semicon/micro_dsp_peripheral/mux_demux/",
+    "https://www.indexpro.co.jp/Category/124",
+    "https://www.ad-mtech.com/news/cat-maker/news-2441/",
+    "https://www.viavisolutions.com/ja-jp/products/service-pol-mux-optical-spectrum-and-correlation-analyzer-osca-710-discontinued",
+    "https://jmgs.jp/products/maker/muxlab.html",
+    "https://play.google.com/store/apps/details?id=br.com.useall.e2comercial.mux&hl=ja",
+    "https://www.renesas.com/ja/products/switches-multiplexers?srsltid=AYCX9vITk89siW_Vs8uaofZqbB04LjALAleQtfTZCq3YfjwbFtSyAG3N",
+    "https://www.muxer.jp/",
+    "https://dairitenboshu.com/column/detail/soudairiten"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Mux Japan",
+   "results": [
+    "https://www.isuzu.co.jp/world/product/p_car/mu-x/",
+    "https://sp.beforward.jp/stocklist/make=8/model=17233/sortkey=a",
+    "https://en.wikipedia.org/wiki/Isuzu_MU-X",
+    "https://www.atcjapan.com/car-detail/1804/2023-Isuzu-MU-X",
+    "https://www.reddit.com/r/foreignmarketcars/comments/1rrmsii/first_gen_isuzu_mux_in_japan_possibly_thaispec/",
+    "https://www.japanesecartrade.com/make-model/isuzu-9-mu-x-827.html",
+    "https://www.sbtjapan.com/used-cars/search?make_id=12&model%5B0%5D=MU-X&page=3",
+    "https://ja.wikipedia.org/wiki/MB_Japan",
+    "https://ja.wikipedia.org/wiki/いすゞ・MU-X",
+    "https://www.isuzu-global.com/ja/newsroom/20240613_1.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Mux manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJgglwzSAsFAiVxyA473DfTvLan5oB6nUeFJEv_7CEAg4Zu7Emu",
+    "https://www.sciencedirect.com/science/article/pii/S2213846326002233",
+    "https://www.flexwareinnovation.com/case-studies/",
+    "https://conexusindiana.com/case-study-type/",
+    "https://ieeexplore.ieee.org/document/10878216/",
+    "https://www.fictiv.com/articles/high-mix-low-volume-manufacturing",
+    "https://www.pciltd.com/resources-news/casestudy/high-mix-low-volume-product-variance.aspx",
+    "https://research.tue.nl/en/publications/towards-smart-amp-autonomous-high-mix-low-volume-precision-manufa/",
+    "https://www.overview.ai/blog/high-volume-medium-mix-manufacturing/",
+    "https://www.mux.com/case-studies/reelay"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Mux white label OR reseller OR partner program",
+   "results": [
+    "https://viirtue.com/partner-program/white-label/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "https://skyswitch.com/blog/become-a-whitelabel-voip-reseller-full-guide/",
+    "https://www.intermedia.com/resellers",
+    "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Mux founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/mux",
+    "https://multiples.vc/private-comps/mux",
+    "https://www.owler.com/company/mux",
+    "https://research.contrary.com/company/mux",
+    "https://pitchbook.com/profiles/company/155954-98",
+    "https://www.mux.com/blog/what-is-coming-at-mux",
+    "https://tracxn.com/d/companies/mux/__stU1zCO0rbIr4AMPLo7GpPLX6Xw9twlhEcbQRJ_-Zqk",
+    "https://dealroom.co/companies/mux-1/",
+    "https://techcrunch.com/2020/08/10/mux-raises-37m-series-c-as-its-api-based-video-streaming-service-scales/",
+    "https://compworth.com/company/mux"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com Mux",
+   "results": [
+    "https://note.com/labmouse/n/n700626543a02?hl=en",
+    "https://note.com/bright_jacana710/n/n8a411b2dca90",
+    "https://note.com/leapcell/n/ncd95598c636e",
+    "https://note.com/hafnium/n/n69d7cf855eec",
+    "https://note.com/tag/vm/investment_money/us_company-MUX",
+    "https://note.com/fumisa2821/n/ne9b53dc89f11",
+    "https://note.com/ya_ikegami/n/n40b4a33025a8?hl=en",
+    "https://note.com/ym202110/n/nfe3a06c55510",
+    "https://note.com/artefactnote/n/ncb2027ce8191",
+    "https://note.com/creava/n/nd031f30c100e"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com Mux",
+   "results": [
+    "https://x.com/MuxHQ",
+    "https://x.com/hashtag/MUX?src=hashtag_click",
+    "https://x.com/balindenberg/status/1673378432531480576",
+    "https://x.com/mux",
+    "https://x.com/matt_mcclure",
+    "https://x.com/MuxHQ/status/2118411064887136420",
+    "https://x.com/MuxSupport",
+    "https://x.com/dylanjha",
+    "https://x.com/davekiss",
+    "https://x.com/MuxHQ/status/2095565140242599963"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com Mux",
+   "results": [
+    "https://www.linkedin.com/company/mux",
+    "https://www.linkedin.com/in/adam-brown-7452b03a",
+    "https://www.linkedin.com/in/zencoder",
+    "https://ca.linkedin.com/company/mobile-ux-awards",
+    "https://www.linkedin.com/posts/bilalahmadchanga_mux-multiplexer-in-telecom-everything-activity-7317824462869938176--09_",
+    "https://www.linkedin.com/in/ericelia",
+    "https://kw.linkedin.com/company/mux",
+    "https://pg.linkedin.com/jobs/Invadigm%20platform%20review.mux-jobs",
+    "https://pk.linkedin.com/company/mux-technologies",
+    "https://uk.linkedin.com/company/mux"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:facebook.com Mux",
+   "results": [
+    "https://www.facebook.com/MuxHQ/",
+    "https://www.facebook.com/muxmool/",
+    "https://www.facebook.com/MUXLegend/",
+    "https://www.facebook.com/groups/782571811838896/posts/26414805308188861/",
+    "https://www.facebook.com/4x4ventures/videos/i-got-to-take-this-mu-x-beast-off-road-and-share-with-you-my-thoughts-seriously-/2086368855611734/",
+    "https://www.facebook.com/groups/SAPetrolheads/posts/3087869244719339/",
+    "https://www.facebook.com/groups/helmmemorycore/posts/1853229545104967/",
+    "https://www.facebook.com/jeremy.mux/",
+    "https://www.facebook.com/groups/825817424153888/posts/25217003301275294/",
+    "https://www.facebook.com/MUXNewsDigital/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Mux note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.com/mux_o2/all",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.com/adi_hirokikimoto"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mux X 投稿",
+   "results": [
+    "https://www.mux.com/",
+    "https://www.mux.com/docs/guides/mux-uploader",
+    "https://x.com/mux_x_",
+    "https://moge.ai/zh/product/mux",
+    "https://space.bilibili.com/294424923/video",
+    "https://motionmux.com/",
+    "https://x.com/a_mux_x/status/2116491187897184695"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索14回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索14回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索14回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索14回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索14回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索14回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部40頁・検索14回）"
+ }
+}

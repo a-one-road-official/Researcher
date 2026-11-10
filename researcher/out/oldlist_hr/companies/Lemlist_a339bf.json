@@ -1,0 +1,1668 @@
+{
+ "name": "Lemlist",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜状態なし",
+ "researched_at": "2026-11-10T00:32:57.068000+00:00",
+ "official_url": "https://www.lemlist.com",
+ "identified_by": "given",
+ "profile": {
+  "連絡先": [
+   {
+    "label": "Email Pro",
+    "value": "$69/ユーザー $63/ユーザー メールキャンペーン無制限、CRM連携、4.5億件以上のリードデータベースアクセス、メールウォームアップ",
+    "url": "https://fitgap.com/jp/products/lemlist",
+    "pass": 3
+   },
+   {
+    "label": "Email format",
+    "value": "{first}@lemlist.com or {first}@lempire.co; newer staff often {first}.{l}@ Nov 2026",
+    "url": "https://getleadwave.io/dossier/lemlist",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Outside funding",
+    "value": "None",
+    "url": "https://getlatka.com/companies/lemlist",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue",
+    "value": "Over $60 million ARR, growing about 50% a year, by the company’s count Oct 2026",
+    "url": "https://getleadwave.io/dossier/lemlist",
+    "pass": 3
+   },
+   {
+    "label": "Revenue",
+    "value": "Over $60M ARR, growing about 50% a year, profitable (Oct 2026, company figure)",
+    "url": "https://getleadwave.io/dossier/lemlist",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：lemlist launched in January 2018; its company, LEMPIRE SAS, dates from 2016 2018",
+    "url": "https://getleadwave.io/dossier/lemlist",
+    "pass": 3
+   },
+   {
+    "label": "Founded",
+    "value": "Founded：2018 (lemlist launch); company created 2016",
+    "url": "https://getleadwave.io/dossier/lemlist",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Paris; remote-first Nov 2026",
+    "url": "https://getleadwave.io/dossier/lemlist",
+    "pass": 3
+   },
+   {
+    "label": "Headquarters",
+    "value": "Paris, France",
+    "url": "https://getleadwave.io/dossier/lemlist",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Find leads that match your ICP and their verified contacts",
+    "url": "https://www.lemlist.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Upload leads from your CRM or CSV and enrich them with verified emails and phone numbers from the market’s top data providers.",
+    "url": "https://www.lemlist.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Need leads to get started? Use the 600M+ lemlist database and smart filters to find accounts that match your ICP.",
+    "url": "https://www.lemlist.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Know when leads are ready to talk and act immediately",
+    "url": "https://www.lemlist.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Intent signal agents suggest, track, and act on high-intent events that show prospects are likely to engage.",
+    "url": "https://www.lemlist.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Using your AI Context Center, agents suggest multichannel sequences, personalized copies, and AI prompts tailored to the trigger.",
+    "url": "https://www.lemlist.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Score, segment, and personalize with leads’ unique context",
+    "url": "https://www.lemlist.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn scattered lead data into actionable context you can use to qualify accounts, prioritize outreach, and tailor every message.",
+    "url": "https://www.lemlist.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect deliverability across your entire outbound operation",
+    "url": "https://www.lemlist.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Built to back outbound pros like you",
+    "url": "https://www.lemlist.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How Spendesk doubled AE meetings by centralizing prospecting workflow with lemlist",
+    "url": "https://www.lemlist.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how Tom uses strict routines, protected outreach time, and relevance-first targeting to consistently exceed targets.",
+    "url": "https://www.lemlist.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how Conor prioritizes the right accounts and runs organized, multichannel outreach to secure a consistent pipeline.",
+    "url": "https://www.lemlist.com/",
+    "pass": 1
+   },
+   {
+    "quote": "lemlist is an AI-powered sales engagement platform that finds leads, personalizes outreach, and runs multichannel campaigns (email, LinkedIn, calls, WhatsApp, SMS) - all in one place. From lead generation to enrichment, outreach automation, and deliverability, everything works together, so you don’t need multiple tools.",
+    "url": "https://www.lemlist.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, lemlist is SOC 2 certified. This certification ensures that our systems and processes adhere to rigorous controls to protect your data and maintain high security and reliability standards.",
+    "url": "https://www.lemlist.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Find a partnership program",
+    "url": "https://www.lemlist.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Perfect for creators, communities, and media shaping the future of sales. Earn recurring revenue by referring lemlist, and access exclusive resources to boost your content.",
+    "url": "https://www.lemlist.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Create content your audience trusts and get rewarded for it. We partner with B2B creators who speak to sales teams, RevOps, and revenue leaders. Real briefs, full editorial freedom. The best fits become long-term lemlist ambassadors.",
+    "url": "https://www.lemlist.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "“lemlist helped us structure the team, structure our prospecting processes, and supported us throughout.”",
+    "url": "https://www.lemlist.com/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "From manual prospecting to 190 booked meetings in a semester? Here’s how Pennylane did it with lemlist.",
+    "url": "https://www.lemlist.com/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How Spendesk 2×’d AE Meetings by Centralizing Prospecting Workflow With lemlist",
+    "url": "https://www.lemlist.com/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "“It was the first effective solution to start building relationships with my prospects. Almost one prospect in two responded!”",
+    "url": "https://www.lemlist.com/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "“lemlist has picked the vendors and created the waterfall. They can verify 80% of your leads' emails. Lower your bounce rate. Increase your deliverability.”",
+    "url": "https://www.lemlist.com/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "“That's why I've been using lemlist's Intent Signals. It shows when something is happening inside an account: hiring SDRs, visiting pricing pages, engaging with competitors… So I'm not guessing anymore. When I see a signal I reach out same day with context and conversations begin and deals move sooner.”",
+    "url": "https://www.lemlist.com/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "\"Constantly Improving Features and Strong Campaign Management\"",
+    "url": "https://www.lemlist.com/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "“I use lemlist to create and manage Whatsapp. The key isn't blasting messages from your phone, it's using multichannel outreach properly.”",
+    "url": "https://www.lemlist.com/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "“We use lemlist for eMail and LinkedIn campaigns to warm-up some contacts... 1st Priority: Those who have some engagement with our lemlist campaigns... First person reached is booked already. The person who had the highest score with our lemlist campaigns.”",
+    "url": "https://www.lemlist.com/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "\"Practical Templates and a Brilliant AI Campaign Builder—Easy Setup and Integrations\"",
+    "url": "https://www.lemlist.com/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "\"Takes the Pressure Off Email Follow-Ups\"",
+    "url": "https://www.lemlist.com/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "“Warm up your emails with lemwarm (from lemlist) — It automates the email warm up process. To help ensure your deliverability score remains high.”",
+    "url": "https://www.lemlist.com/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "“I focus on signals & use lemlist (hiring, linkedin engagement, etc) to reach people when they're actually thinking about the problem.”",
+    "url": "https://www.lemlist.com/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "“That's why I started using lemlist. I use it to run sequences because it puts email, LinkedIn, and calls into one workflow instead of spreading them across separate tools. I'm not constantly asking myself what happened last or what I'm supposed to do next. The workflow already knows. Less time managing the process. More time actually selling.”",
+    "url": "https://www.lemlist.com/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Verified User in Staffing and Recruiting",
+    "url": "https://www.lemlist.com/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "“The SDR teams I train use lemlist's Intent Signals to automate tracking things like: Hiring SDRs → outbound motion starting, New partnerships → GTM shift, Visiting pricing pages → evaluation mode, Engaging with outbound content → active problem awareness”",
+    "url": "https://www.lemlist.com/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "\"A Powerful Tool for Modern Prospecting !\"",
+    "url": "https://www.lemlist.com/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Verified User in Marketing and Advertising",
+    "url": "https://www.lemlist.com/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "“we run our sequences through lemlist, because the system keeps working even when the prospect isn't ready yet”",
+    "url": "https://www.lemlist.com/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "“lemlist just acquired Claap for over $15M, and it is one of the smartest product decisions I have seen lately... for a tool that is already extremely complete, this means adding an even more powerful brain upstream”",
+    "url": "https://www.lemlist.com/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "“lemlist just dropped \"signals\" which shows recent job postings, hiring patterns, funding rounds, etc. - I use this hiring signal A TON and HIGHLY recommend.”",
+    "url": "https://www.lemlist.com/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "“That's exactly why we brought lemlist in from the get go, now before touching an account we check → All previous touchpoints surfaced in our hubspot → Important DMs flagged before anyone picks up the phone, → Org signals that change how you approach the account”",
+    "url": "https://www.lemlist.com/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "\"Simple and effective prospecting tool with a real impact on response rates.\"",
+    "url": "https://www.lemlist.com/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "“I use lemlist when prospecting or expanding inside accounts. It just makes it easier to run multi-threaded outreach across roles and channels, so you quickly see who actually engages and where influence really sits.”",
+    "url": "https://www.lemlist.com/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "“That's why I've been paying attention to what lemlist is doing... Before you even create an account, you can enter your email and it surfaces: Your ideal customer profile, Their core problems, The alternatives they're likely using, The cost of not solving the issue. That's powerful.”",
+    "url": "https://www.lemlist.com/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "lemlist pricing︱The all-in-one platform for precise outbound at any scale",
+    "url": "https://www.lemlist.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "You've unlocked an extended 30 day free trial of Lemlist - perks of checking out Tim Yakubson's content : )",
+    "url": "https://www.lemlist.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "650M+ leads database",
+    "url": "https://www.lemlist.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Get emails, phones, and other key top 25+ providers.",
+    "url": "https://www.lemlist.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Get real-time updates when leads perform an event that signals interest.",
+    "url": "https://www.lemlist.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Data & Lead Generation",
+    "url": "https://www.lemlist.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Account-based prospecting",
+    "url": "https://www.lemlist.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Unlimited LinkedIn leads export",
+    "url": "https://www.lemlist.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "LinkedIn profile visits",
+    "url": "https://www.lemlist.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "AI leads data cleaning",
+    "url": "https://www.lemlist.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "1:1 onboarding sessions",
+    "url": "https://www.lemlist.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Credits are lemlist’s currency for accessing Data features, including finding contact information, enriching leads, and receiving buying signals. You can subscribe to a monthly credit allowance and are charged only for successful results. Unused credits roll over for as long as your subscription remains active.",
+    "url": "https://www.lemlist.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "When should I choose the Enterprise plan?",
+    "url": "https://www.lemlist.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise is a good fit for larger or fast-growing teams that need centralized control. Think IT-managed orgs requiring SSO, companies with stricter compliance needs, or finance teams that can't pay by card. If self-serve no longer cuts it and you need structure, auditing, and dedicated support, Enterprise is the right move.",
+    "url": "https://www.lemlist.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Is lemwarm and deliverability protection included?",
+    "url": "https://www.lemlist.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. lemwarm and built-in deliverability protections are included in all plans to help keep your emails out of spam and protect your sender reputation at any scale.",
+    "url": "https://www.lemlist.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": ", about how they use lemlist to reach strategic accounts, experiment with new approaches, and make more time for actual prospect conversations.",
+    "url": "https://www.lemlist.com/success-stories/elevenlabs",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by thousands.",
+    "url": "https://www.lemlist.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“shoutout to lemlist, it's not perfect but it's the best I've used by some distance for intent signals”",
+    "url": "https://www.lemlist.com/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by thousands.",
+    "url": "https://www.lemlist.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Success Stories about Software and Services used by lemlist",
+    "url": "https://www.casestudies.com/customer/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/lemlist/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: lemlist strengthens customer success strategy with GrowthMentor | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/growthmentor/case-study/lemlist-boosts-customer-success-with-growthmentor-and-98-csat",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: lemlist strengthens customer success strategy with GrowthMentor",
+    "url": "https://www.casestudies.com/company/growthmentor/case-study/lemlist-boosts-customer-success-with-growthmentor-and-98-csat",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/growthmentor/case-study/lemlist-boosts-customer-success-with-growthmentor-and-98-csat",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/growthmentor/case-study/lemlist-boosts-customer-success-with-growthmentor-and-98-csat",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Elevenlabs GTM secrets: from 0 to $330M ARR in 3 years",
+    "url": "https://www.lemlist.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Perfect for creators, communities, and media shaping the future of sales. Earn recurring revenue by referring lemlist, and access exclusive resources to boost your content.",
+    "url": "https://www.lemlist.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Create content your audience trusts and get rewarded for it. We partner with B2B creators who speak to sales teams, RevOps, and revenue leaders. Real briefs, full editorial freedom. The best fits become long-term lemlist ambassadors.",
+    "url": "https://www.lemlist.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "“lemlist just acquired Claap for over $15M, and it is one of the smartest product decisions I have seen lately... for a tool that is already extremely complete, this means adding an even more powerful brain upstream”",
+    "url": "https://www.lemlist.com/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 and Fortune 50 accounts",
+    "url": "https://www.lemlist.com/success-stories/elevenlabs",
+    "pass": 1
+   },
+   {
+    "quote": "I was able to break into some Fortune 500, Fortune 50 accounts even.",
+    "url": "https://www.lemlist.com/success-stories/elevenlabs",
+    "pass": 1
+   },
+   {
+    "quote": "That changed the AE job overnight. Prospecting was now part of their daily work, so they needed a tool that made them want to prospect, helped them reach people across channels, and made booking meetings fast.",
+    "url": "https://www.lemlist.com/success-stories/spendesk",
+    "pass": 1
+   },
+   {
+    "quote": "And the clock was ticking. New BDRs were joining in September, and the outbound foundation had to be ready before they arrived. That’s when the team started looking at lemlist.",
+    "url": "https://www.lemlist.com/success-stories/pennylane",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Revenue Officer",
+    "url": "https://www.lemlist.com/success-stories/mindee",
+    "pass": 1
+   },
+   {
+    "quote": "Their CRO, Michael, oversees revenue and the entire funnel across three teams: Marketing, Sales, and Customer Care.",
+    "url": "https://www.lemlist.com/success-stories/mindee",
+    "pass": 1
+   },
+   {
+    "quote": "devlo helps companies generate leads and grow revenue through targeted, personalized, multichannel prospecting.",
+    "url": "https://www.lemlist.com/success-stories/devlo",
+    "pass": 1
+   },
+   {
+    "quote": "Explore how lemlist helps you personalize outreach at scale, start more conversations, and turn replies into revenue:",
+    "url": "https://www.lemlist.com/success-stories/devlo",
+    "pass": 1
+   },
+   {
+    "quote": "Our next goal: $150M ARR by 2030.",
+    "url": "https://www.lemlist.com/join-lemlist",
+    "pass": 1
+   },
+   {
+    "quote": "Every time we reach a revenue milestone, everyone gets a cash bonus. No tiers, no politics, just a shared win.",
+    "url": "https://www.lemlist.com/join-lemlist",
+    "pass": 1
+   },
+   {
+    "quote": "Track your campaign performance. See the results of each sequence step and estimate your revenue right in the platform.",
+    "url": "https://lp.lemlist.com/email-software-lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "30,000+ clients are already generating revenue with lemlist.",
+    "url": "https://lp.lemlist.com/email-software-lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "Salesloft is the provider of the leading sales engagement platform that helps sellers and sales teams drive more revenue. The Modern Revenue Workspace™ by Salesloft is the one place for …",
+    "url": "https://www.featuredcustomers.com/vendor/lemlist/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/lemlist/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Lemlist Revenue 2026: $53M (Bootstrapped)",
+    "url": "https://getlatka.com/companies/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "Lemlist's annual revenue was $53M in May 2026 (LinkedIn). That is up 33% from $40M a year earlier.",
+    "url": "https://getlatka.com/companies/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": ", level with one other. The list ranks the 1,301 companies Nathan Latka has interviewed by revenue.",
+    "url": "https://getlatka.com/companies/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "All 11 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "How Lemlist Hit $40M ARR and Acquired Clap for $25M in 2025 (Interview with CEO Charles Tenot)",
+    "url": "https://getlatka.com/companies/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "How Lemlist Reached $23M ARR with 50,000 Customers and Zero Outside Funding (VP Product Kévin Moënne-Loccoz at SaaS Open 2024)",
+    "url": "https://getlatka.com/companies/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "Lemlist CEO Guillaume Moubeche: Gives Employees this bonus when 5x revenue growth target hit",
+    "url": "https://getlatka.com/companies/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "$25M Clap Acquisition Structured With Vendor Loans and Earnouts",
+    "url": "https://getlatka.com/companies/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "Right now we're making you know like each month uh we're making a bit more than a hundred thousand dollar profits yeah uh so because like our fixed costs are very small like we spend only money on the servers we don't spend any money on paid ads or paid acquisition or anything else.",
+    "url": "https://getlatka.com/companies/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "5x ARR Target Set at Start of Each Year",
+    "url": "https://getlatka.com/companies/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "If everyone is focused on growing the mrr and then we set up like the mrr goal at the beginning of each quarter now everyone is focused on one thing which is revenue and revenue for us equals profit so it's like everyone goes to the same direction.",
+    "url": "https://getlatka.com/companies/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "Lemlist CEO, founders & employees",
+    "url": "https://getlatka.com/companies/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "Guillaume Moubeche founded Lemlist in 2018 and runs it as CEO. Lemlist has 160 employees (May 2026, LinkedIn).",
+    "url": "https://getlatka.com/companies/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "What is Lemlist's revenue?",
+    "url": "https://getlatka.com/companies/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "Lemlist's annual revenue was",
+    "url": "https://getlatka.com/companies/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Lemlist have?",
+    "url": "https://getlatka.com/companies/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of May 2026, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "The Latka List ranks the private, operating companies Nathan Latka has interviewed by the latest revenue figure on each profile, reported or estimated; equal figures share a rank.",
+    "url": "https://getlatka.com/companies/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "lemlist in 2026: Revenue, Valuation, Funding, CEO - LeadWave",
+    "url": "https://getleadwave.io/dossier/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "Over $60M ARR, growing about 50% a year, profitable (Oct 2026, company figure)",
+    "url": "https://getleadwave.io/dossier/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "Over $60 million ARR, growing about 50% a year, by the company’s count",
+    "url": "https://getleadwave.io/dossier/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "What is lemlist’s revenue?",
+    "url": "https://getleadwave.io/dossier/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "lemlist doesn’t publish revenue in its accounts, which it files as confidential, but it shares ARR. Its job ads in October 2026 say “We’re at +$60M ARR, growing ~50% year over year, profitable and 100% bootstrapped, with 180 people” (",
+    "url": "https://getleadwave.io/dossier/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "Its target is $150 million ARR by 2030 (",
+    "url": "https://getleadwave.io/dossier/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "lemlist ARR (annual recurring revenue)",
+    "url": "https://getleadwave.io/dossier/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "lemlist MRR (monthly recurring revenue)",
+    "url": "https://getleadwave.io/dossier/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "lemlist doesn’t publish MRR. Over $60 million of ARR means more than $5 million a month; that is our calculation, not a company figure.",
+    "url": "https://getleadwave.io/dossier/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "Apollo.io is the giant of outbound data, estimated at $265 million ARR in September 2026 (",
+    "url": "https://getleadwave.io/dossier/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "), and Salesloft and Clari had about $450 million of combined ARR when they agreed to merge in 2025 (",
+    "url": "https://getleadwave.io/dossier/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "Over $60M ARR and about 180 people (",
+    "url": "https://getleadwave.io/dossier/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "Passes $50M ARR (",
+    "url": "https://getleadwave.io/dossier/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "$1M ARR with a team of ten (",
+    "url": "https://getleadwave.io/dossier/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "It files its revenue as confidential, but says it passed $60 million in ARR in October 2026, growing about 50% a year.",
+    "url": "https://getleadwave.io/dossier/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "What is lemlist’s ARR?",
+    "url": "https://getleadwave.io/dossier/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "lemlist doesn’t publish MRR. Over $60 million of ARR means more than $5 million a month, by our calculation.",
+    "url": "https://getleadwave.io/dossier/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does lemlist have?",
+    "url": "https://getleadwave.io/dossier/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "Kore.ai in 2026: Revenue, Valuation, Funding, CEO",
+    "url": "https://getleadwave.io/dossier/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "Kore.ai is a private enterprise AI-agent company from Orlando, Florida, founded by Raj Koneru in 2014. It has raised about $250 million, including $150 million led by FTV Capital with NVIDIA in 2024, and its ARR passed $100 million that year.",
+    "url": "https://getleadwave.io/dossier/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "Oura in 2026: Revenue, Valuation, Funding, CEO",
+    "url": "https://getleadwave.io/dossier/lemlist",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Upload leads from your CRM or CSV and enrich them with verified emails and phone numbers from the market’s top data providers.",
+    "url": "https://www.lemlist.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Launch automated campaigns across email, LinkedIn, calls, WhatsApp, and SMS from one workflow.",
+    "url": "https://www.lemlist.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Deliverability Hub helps you keep emails landing in inboxes, even when sending at scale across multiple mailboxes and domains.",
+    "url": "https://www.lemlist.com/",
+    "pass": 1
+   },
+   {
+    "quote": "lemlist is an AI-powered sales engagement platform that finds leads, personalizes outreach, and runs multichannel campaigns (email, LinkedIn, calls, WhatsApp, SMS) - all in one place. From lead generation to enrichment, outreach automation, and deliverability, everything works together, so you don’t need multiple tools.",
+    "url": "https://www.lemlist.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How does lemlist help with email deliverability?",
+    "url": "https://www.lemlist.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every lemlist seat includes built-in deliverability tools, including lemwarm, our automated warm-up and deliverability booster. It helps you build sender reputation, avoid spam, and keep your emails landing where they should, outside of spam.",
+    "url": "https://www.lemlist.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“That's why I recommend lemlist → https://www.lemlist.com/ It's how top reps are: → Running multi-channel sequences across email, LinkedIn, and calls → Personalizing at scale without sounding like a template → Tracking what actually gets replies so they do more of it”",
+    "url": "https://www.lemlist.com/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "“That's why I recommend lemlist → It's how top reps are: engaging across LinkedIn, email, and calls, personalizing at scale without sounding like bots, tracking what works, so they double down on what closes”",
+    "url": "https://www.lemlist.com/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "“lemlist has picked the vendors and created the waterfall. They can verify 80% of your leads' emails. Lower your bounce rate. Increase your deliverability.”",
+    "url": "https://www.lemlist.com/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "“We use lemlist for eMail and LinkedIn campaigns to warm-up some contacts... 1st Priority: Those who have some engagement with our lemlist campaigns... First person reached is booked already. The person who had the highest score with our lemlist campaigns.”",
+    "url": "https://www.lemlist.com/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "\"Takes the Pressure Off Email Follow-Ups\"",
+    "url": "https://www.lemlist.com/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "“Warm up your emails with lemwarm (from lemlist) — It automates the email warm up process. To help ensure your deliverability score remains high.”",
+    "url": "https://www.lemlist.com/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "“That's why I started using lemlist. I use it to run sequences because it puts email, LinkedIn, and calls into one workflow instead of spreading them across separate tools. I'm not constantly asking myself what happened last or what I'm supposed to do next. The workflow already knows. Less time managing the process. More time actually selling.”",
+    "url": "https://www.lemlist.com/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "“And now with lemlist, you can now plug in your OpenAI or Perplexity keys directly. So your: → lead data gets cleaned, → your emails get written line-by-line, → and every send feels personalized (but automated).”",
+    "url": "https://www.lemlist.com/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "“That's why I've been paying attention to what lemlist is doing... Before you even create an account, you can enter your email and it surfaces: Your ideal customer profile, Their core problems, The alternatives they're likely using, The cost of not solving the issue. That's powerful.”",
+    "url": "https://www.lemlist.com/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "“Now my workflow in lemlist looks like this: Track signals, Trigger outreach instantly, Keep the message short & contextual, Email → LinkedIn → follow-ups. All synced.”",
+    "url": "https://www.lemlist.com/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "For teams that want to go big on email.",
+    "url": "https://www.lemlist.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "50,000 emails",
+    "url": "https://www.lemlist.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Unlimited users & Email senders",
+    "url": "https://www.lemlist.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Email & phone number finder",
+    "url": "https://www.lemlist.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Email warm-up & Deliverability hub",
+    "url": "https://www.lemlist.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Features of the email plan +",
+    "url": "https://www.lemlist.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Unlimited emails & messages",
+    "url": "https://www.lemlist.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Get emails, phones, and other key top 25+ providers.",
+    "url": "https://www.lemlist.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "/mo (400 emails or 100 phones)",
+    "url": "https://www.lemlist.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Email finder & verifier",
+    "url": "https://www.lemlist.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Unlimited users & email senders",
+    "url": "https://www.lemlist.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "In-app emails purchase",
+    "url": "https://www.lemlist.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "You’ll get access to the Multichannel plan’s features (except in-app calls), plus 200 free credits to find emails and phone numbers, explore buying signals, and more. You can also try lemAgent with your own data and see what it creates before upgrading to launch it.",
+    "url": "https://www.lemlist.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. lemwarm and built-in deliverability protections are included in all plans to help keep your emails out of spam and protect your sender reputation at any scale.",
+    "url": "https://www.lemlist.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Email, LinkedIn, and calling lived in separate tools. Sequences were duplicated, and limited visibility made it difficult to understand what SDRs were doing or help them improve.",
+    "url": "https://www.lemlist.com/success-stories/elevenlabs",
+    "pass": 1
+   },
+   {
+    "quote": "The existing approach also relied too heavily on sending more emails.",
+    "url": "https://www.lemlist.com/success-stories/elevenlabs",
+    "pass": 1
+   },
+   {
+    "quote": "It was a lot of spray and pray. Just sending stupid emails all the time.",
+    "url": "https://www.lemlist.com/success-stories/elevenlabs",
+    "pass": 1
+   },
+   {
+    "quote": ", combining email with LinkedIn profile visits and connection requests, AI voice messages, personalized videos, and WhatsApp follow-ups after an initial interaction.",
+    "url": "https://www.lemlist.com/success-stories/elevenlabs",
+    "pass": 1
+   },
+   {
+    "quote": "that mix emails, LinkedIn steps and calls. Conditions decide the next step based on what each prospect does. If someone doesn’t open an email, they might get a LinkedIn message or a call instead.",
+    "url": "https://www.lemlist.com/success-stories/spendesk",
+    "pass": 1
+   },
+   {
+    "quote": ", so AEs can call, email and message from the same place.",
+    "url": "https://www.lemlist.com/success-stories/spendesk",
+    "pass": 1
+   },
+   {
+    "quote": "Sending more emails also meant paying closer attention to where they landed. Before lemlist, nobody tracked domain health, so emails could go to spam without anyone noticing.",
+    "url": "https://www.lemlist.com/success-stories/spendesk",
+    "pass": 1
+   },
+   {
+    "quote": "Michael initially blamed market saturation and rising email volumes but suspected deeper issues.",
+    "url": "https://www.lemlist.com/success-stories/mindee",
+    "pass": 1
+   },
+   {
+    "quote": "Our numbers were declining. Gmail and Microsoft’s changes made it harder to land in inboxes. Prospects were receiving more irrelevant emails.",
+    "url": "https://www.lemlist.com/success-stories/mindee",
+    "pass": 1
+   },
+   {
+    "quote": ": Ensuring emails reach prospects’ inboxes instead of spam",
+    "url": "https://www.lemlist.com/success-stories/mindee",
+    "pass": 1
+   },
+   {
+    "quote": ": Sending personalized, high-quality emails that stood out from competitors",
+    "url": "https://www.lemlist.com/success-stories/mindee",
+    "pass": 1
+   },
+   {
+    "quote": "By centralizing lead generation, email warming, and tracking, Mindee",
+    "url": "https://www.lemlist.com/success-stories/mindee",
+    "pass": 1
+   },
+   {
+    "quote": "Prospecting happened seamlessly, giving our team more time to focus on valuable activities like responding to emails and engaging with clients.",
+    "url": "https://www.lemlist.com/success-stories/mindee",
+    "pass": 1
+   },
+   {
+    "quote": "Mailboxes of communication teams and creative departments are overflown with cold emails, which makes it hard for Dave to stand out and pitch his product and service offering.",
+    "url": "https://www.lemlist.com/success-stories/rightmarket",
+    "pass": 1
+   },
+   {
+    "quote": "As the recommendation was so strong and after using various email tools in the past, that was enough for us to use lemlist. Once we signed up, we could instantly get to work and see how easy it was to use.",
+    "url": "https://www.lemlist.com/success-stories/rightmarket",
+    "pass": 1
+   },
+   {
+    "quote": "It's just kind of having all of the tools under one roof, automating things, automating email sequences, adding more personalization, and much more.",
+    "url": "https://www.lemlist.com/success-stories/rightmarket",
+    "pass": 1
+   },
+   {
+    "quote": "While basic campaigns rely on a single outreach method, Dave went a step further and used a combination of channels such as email, LinkedIn, phone calls, etc.",
+    "url": "https://www.lemlist.com/success-stories/rightmarket",
+    "pass": 1
+   },
+   {
+    "quote": "LinkedIn messages; to remind them of his email and stay on the top of their mind!",
+    "url": "https://www.lemlist.com/success-stories/rightmarket",
+    "pass": 1
+   },
+   {
+    "quote": "As we all know, LinkedIn is such a powerful database to find and connect with your ideal target customers and build relationships. Being able to drop a profile visit, follow up with a personalized email, and send a connection request has been such a powerful process. It allows you to add that human touch at scale.",
+    "url": "https://www.lemlist.com/success-stories/rightmarket",
+    "pass": 1
+   },
+   {
+    "quote": "Automating email sequences and implementing things like LinkedIn to add more personalization has been really, really key to better results. Having that full clarity on how well our campaigns are doing and executing those campaigns easily is what makes lemlist stand out for us.",
+    "url": "https://www.lemlist.com/success-stories/rightmarket",
+    "pass": 1
+   },
+   {
+    "quote": "Nowadays, everyone's email inboxes are flooded with emails, and it’s very hard to stand out from the crowd. lemlist helped us include different touchpoints into our campaigns, so we are not relying solely on avoiding the spam filter. We can add more human, personalized touches to our outreach campaigns.",
+    "url": "https://www.lemlist.com/success-stories/rightmarket",
+    "pass": 1
+   },
+   {
+    "quote": "The challenge: Make every email feel personal, at scale",
+    "url": "https://www.lemlist.com/success-stories/devlo",
+    "pass": 1
+   },
+   {
+    "quote": "To deliver, Charles and his team needed to capture prospects’ attention and generate positive replies without spending hours personalizing individual emails.",
+    "url": "https://www.lemlist.com/success-stories/devlo",
+    "pass": 1
+   },
+   {
+    "quote": "The question was simple: how could they create emails that felt relevant to each prospect while reaching hundreds of people?",
+    "url": "https://www.lemlist.com/success-stories/devlo",
+    "pass": 1
+   },
+   {
+    "quote": "It was such an amazing idea to differentiate our cold emails from the mass.",
+    "url": "https://www.lemlist.com/success-stories/devlo",
+    "pass": 1
+   },
+   {
+    "quote": "With lemlist, devlo added personalized images to its clients’ campaigns, making each email feel more relevant to the recipient.",
+    "url": "https://www.lemlist.com/success-stories/devlo",
+    "pass": 1
+   },
+   {
+    "quote": "For campaigns using different images for different leads, the team imported image URLs as custom variables and inserted them into the email template.",
+    "url": "https://www.lemlist.com/success-stories/devlo",
+    "pass": 1
+   },
+   {
+    "quote": "This allowed devlo to deliver personalized visuals across a campaign without manually editing every email.",
+    "url": "https://www.lemlist.com/success-stories/devlo",
+    "pass": 1
+   },
+   {
+    "quote": "Charles also used Liquid syntax to tailor the email copy automatically based on prospect data.",
+    "url": "https://www.lemlist.com/success-stories/devlo",
+    "pass": 1
+   },
+   {
+    "quote": "Email Warm-up機能による送信評価向上システム",
+    "url": "https://ai-biz-tools.com/blog/lemlist-setup/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本国内のB2B市場でも、インサイドセールスの生産性向上を目的として導入が進んでいます",
+    "url": "https://saasnavi.net/blog/lemlist-vs-reply-io-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Time zone: Asia/Tokyo",
+    "url": "https://ai-biz-tools.com/blog/lemlist-setup/",
+    "pass": 3
+   },
+   {
+    "quote": "A. UIは英語のみですが、メール本文作成では日本語の入力・配信に完全対応しています",
+    "url": "https://ai-biz-tools.com/blog/lemlist-setup/",
+    "pass": 3
+   },
+   {
+    "quote": "変数機能（「firstName」等）も日本語データで正常に動作し、日本語件名でのA/Bテストも可能です",
+    "url": "https://ai-biz-tools.com/blog/lemlist-setup/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "lemlist | The AI Outbound Platform for Relevant Outreach at ... — What is lemlist? lemlist is an AI-powered sales engagement platform that finds leads, personalizes outreach, and runs multichannel campaigns (email, LinkedIn, calls, WhatsApp, SMS) - all in one place. From lead generation to enrichment, outreach automation, and deliverability, everything works together, so you don’t need multiple to",
+    "url": "https://www.lemlist.com/?region=japan",
+    "pass": 3
+   },
+   {
+    "quote": "次世代型リード獲得ツール比較【2026年版】LemlistとReply.ioの特徴 |... — 4 days ago · 2026年最新の次世代型リード獲得・コールドメール自動化ツール「Lemlist」と「Reply.io」を徹底比較。B2B営業の成果を最大化する機能や料金、自社に最適なツールの選び方を分かりやすく解説します。",
+    "url": "https://saasnavi.net/blog/lemlist-vs-reply-io-comparison-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "lemlist の始め方｜パーソナライズドメール配信の設定手順 | AI Biz T... — Jan 8, 2026 · lemlistの始め方を初心者向けに解説。アカウント作成からパーソナライズドメール配信の設定まで、画像付きで手順を詳しく説明します。効果的なメール配信で営業成果を向上させましょう。",
+    "url": "https://ai-biz-tools.com/blog/lemlist-setup/",
+    "pass": 3
+   },
+   {
+    "quote": "FitGap | lemlistとは？強み、注意点を専門家がレビュー — FitGapにおけるすべての評価は、公平性を最優先に、客観的なアルゴリズムを用いて計算されています。製品の評価方法は 「FitGapの評価メソッド」 、シェアデータの算出根拠は 「シェアスコアの算出方法」 をご覧ください。 lemlist の利用環境・機能 利用環境 端末・OS Windows シングルサインオン ...",
+    "url": "https://fitgap.com/jp/products/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "lemlistとは？料金・機能・特徴を比較【2026年版】｜AIものさし — Sep 25, 2026 · lemlistの料金・機能・特徴を整理。AI付きアウトバウンド営業の実行基盤。。AI自動化として向いている人・注意点も比較 ...",
+    "url": "https://www.aimonosashi.jp/tools/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "The only platform you need for outbound | lemlist — What is lemlist? lemlist is an AI-powered sales engagement platform that finds leads, personalizes outreach, and runs multichannel campaigns (email, LinkedIn, calls, WhatsApp, SMS) - all in one place. From lead generation to enrichment, outreach automation, and deliverability, everything works together, so you don’t need multiple tools.",
+    "url": "https://www.lemlist.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Buy a domain and email for lemlist | lemlist Help Center — Oct 29, 2026 · You'll learn how to purchase a domain and email directly in lemlist, connect an email, and manage multiple domains effortlessly.",
+    "url": "https://help.lemlist.com/en/articles/10665430-buy-a-domain-and-email-for-lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "Email software - lemlist — Use advanced filters to gather leads from lemlist’s database of 450 million+ contacts. Filter your search by specific criteria such as technology, company size, industry, or location to target prospects aligned with your ideal buyer.",
+    "url": "https://lp.lemlist.com/email-software-lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "How to Use Lemlist for International Outreach Campaigns? — Mar 14, 2026 · If you've ever sent a cold email campaign to prospects in Germany, Brazil, or Japan and heard nothing but crickets, you're not alone. International outreach is hard — different time zones, languages, cultural norms, and buying behaviors make it a minefield for most sales teams. But here's the truth: the problem isn't your pr",
+    "url": "https://www.techharry.com/2026/03/how-to-use-lemlist-for-international-outreach-campaigns.html",
+    "pass": 3
+   },
+   {
+    "quote": "lemlist Success Stories — Discover how sales teams, agencies, and founders use lemlist to get new customers and increase revenue.",
+    "url": "https://www.lemlist.com/success-stories",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How lemlist Uses Software & Services — Explore case studies featuring lemlist as the customer — learn how vendors and partners helped lemlist solve real business challenges. lemlist is the first email outreach platform that allows you to automatically generate personalized images and videos.",
+    "url": "https://www.casestudies.com/customer/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "35 lemlist Case Studies, Success Stories, & Customer StoriesCase Study: lemlist strengthens customer success strategy ...lemlist Case Studies & Customer Success | CusperaCompanies using Lemlist (customer list) - bloomberry.comFind Leads & Automate Email + LinkedIn Outreach | lemlist — Narrow down 35 case studies by company size & industry to find out how lemlist works for a business like yours. Th",
+    "url": "https://www.featuredcustomers.com/vendor/lemlist/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: lemlist strengthens customer success strategy ... — The customer, lemlist, faced challenges in customer success management and idea validation. Ena Mandic, Head of Customer Success, sought more experienced perspectives to guide her decisions and team strategy, having previously relied on podcasts and networking.",
+    "url": "https://www.casestudies.com/company/growthmentor/case-study/lemlist-boosts-customer-success-with-growthmentor-and-98-csat",
+    "pass": 3
+   },
+   {
+    "quote": "lemlist Case Studies & Customer Success | CusperaCompanies using Lemlist (customer list) - bloomberry.comFind Leads & Automate Email + LinkedIn Outreach | lemlist — Stay updated on lemlist’s latest product launches, partnerships, and funding news. Curated by Cuspera. Oct 26, 2026 · We detected 10,220 companies using Lemlist, 1,372 companies that churned, and 82 customers with upcoming renewal in t",
+    "url": "https://www.cuspera.com/products/lemlist-x-4789/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "The only platform you need for outbound | lemlist — Know who to target and why now, find verified contacts, and engage across every channel from lemlist, your CRM, or your AI assistant.",
+    "url": "https://www.lemlist.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Lemlist Revenue 2026: $53M (Bootstrapped) - LATKA — Oct 28, 2026 · Lemlist 2026 revenue: $53M (up from $40M in 2025). Valuation (2021): $150M. Bootstrapped (no outside funding). Founded 2018. Updated Oct 28, 2026.",
+    "url": "https://getlatka.com/companies/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "lemlist in 2026: Revenue, Valuation, Funding, CEO - LeadWave — 2 days ago · lemlist is a Paris sales-engagement software company, launched in 2018 by Guillaume Moubeche and run by the bootstrapped group lempire. It says it passed $60 million in ARR in 2026 without raising a primary round, and bought Claap in 2025. Charles Tenot is CEO; Moubeche is its founder and controls the company.",
+    "url": "https://getleadwave.io/dossier/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "lemlist: funding rounds, valuation, investors and revenue — Signals Lounge starts recording lemlist's headcount, funding, revenue and valuation daily from its next snapshot; trends show here once there is history.",
+    "url": "https://lounge.ai/companies/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "lemlist – Performance Metrics & Competitor Intelligence – 2026 — Financial stats for lemlist include estimated revenue of $26M, team of around 100+ employees, operating from Paris, suggesting steady progress.",
+    "url": "https://compworth.com/company/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "lemlist — Funding, Investors & Signals 2026 - Bounce Watch — Founded in 2018, lemlist offers services such as high-intent prospect identification, multichannel campaign automation, and AI-powered outbound marketing. Its business model is centered on a SaaS platform, while it generates revenue through subscription, tiered pricing, and freemium models.",
+    "url": "https://bouncewatch.com/company/lemlist",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Smartlead.ai is an AI-powered cold email platform for sales teams and agencies, focused on maximizing deliverability and scaling outreach by simulating human-like conversations, rotating emails across unlimited mailboxes, and using …",
+    "url": "https://www.featuredcustomers.com/vendor/lemlist/case-studies",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "lemlist (@lemlist) / X lemlist @lemlist Your go-to cold email software & outreach automation tool Paris lemlist.com Joined March 2018 19 Following 2,622 Followers",
+    "url": "https://x.com/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "How lemlist bootstrapped to $40M+ ARR without VC money In January 2018, Guillaume Moubeche started lemlist with $1,000 and two technical co-founders. By October 2025, the company was doing more than $40M in annual recurring revenue and around $10M a year",
+    "url": "https://x.com/vasilijesimic18/article/2106368272706703429",
+    "pass": 3
+   },
+   {
+    "quote": "lemlist on X: \"hey guys, it's about time we follow up\" / X lemlist @lemlist hey guys, it's about time we follow up 11:09 AM · Nov 3, 2026 · 798 Views 1 1 8 Hugo Mascaras @hugo_mascaras_ 12h 🚀 1 19",
+    "url": "https://x.com/lemlist/status/2117575008209838472",
+    "pass": 3
+   },
+   {
+    "quote": "\"#lemlist\" - Results on X | Live Posts & Updates Results for \"#lemlist\" on X (Twitter). Find the latest posts, discussions, and updates about #lemlist. 19 results found.",
+    "url": "https://x.com/hashtag/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "lemlist (@lemlist) / X After months of training our AI to generate high-quality sequences - lemlist's AI is live! Here's how to use it to save 1h per campaign creation 1. Go to lemlist's sequence generator 2. Add your value proposition & prospects’ info 3. Get a unique multichannel sequence 👇",
+    "url": "https://x.com/lemlist",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "lemlist - LinkedIn lemlist | 56,636 followers on LinkedIn. The only platform you need to make outbound work. | Know who to target and why now, find verified contacts, and engage across every channel from lemlist ...",
+    "url": "https://www.linkedin.com/company/lemlist/",
+    "pass": 3
+   },
+   {
+    "quote": "lemlist - LinkedIn lemlist | The AI Outbound Platform for Relevant Outreach at Every Scale",
+    "url": "https://www.linkedin.com/products/lemlist",
+    "pass": 3
+   },
+   {
+    "quote": "Guillaume Moubeche - Founder @ lemlist (0 to $150m valuation ... Founder @ lemlist (0 to $150m valuation in 4 years) | Investor | Host of @ BILLIONS · My name is Guillaume Moubeche but everybody calls me \"G.\" Here's more about me: - Founded 2 businesses: One valued at $150M+ after 4 years (5x since then), the other one sold after 18 months. - Grew a suite of SaaS without funding from $0-$50M ARR a",
+    "url": "https://fr.linkedin.com/in/guillaume-moubeche-a026541b2",
+    "pass": 3
+   },
+   {
+    "quote": "lemlist | LinkedIn lemlist | lemlist is an all-in-one sales automation platform that allows B2B SMBs worldwide to create meaningful relationships with cold prospects.",
+    "url": "https://my.linkedin.com/products/lempire-lemlist/",
+    "pass": 3
+   },
+   {
+    "quote": "Charles Tenot - CEO @lemlist & lempire · the outbound ... CEO @lemlist & lempire · the outbound platform where AI does what your reps never had the time to do - so they can focus on what books meetings · Experience: lemlist · Education: ESSCA ...",
+    "url": "https://www.linkedin.com/pub/dir/Charles/Tenot",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "lemlist - Facebooklemlist family - Facebooklemlist - { {iceBreaker}} is of the simplest cold email ...Prospecting and getting ghosted? Stop relying on one channel ...lemlist - Want to find out more about lemlist and our ...No, saying “Hi {first name}” isn’t enough to personalize your ...TO WHOM IT MAY CONCERN DKIM, SPF & MX records... Do ... Apr 29, 2026 · lemlist. 2,650 followers · 17 talking abo",
+    "url": "https://www.facebook.com/lemlist/",
+    "pass": 3
+   },
+   {
+    "quote": "lemlist family - Facebook Shout out to Guillaume Moubeche who just got hunted on Product Hunt with lemlist 2.0! Guillaume is a good friend, a Picnic guest and a personal mentor to me. When I'm in trouble he's one of the first people I reach out too. Especially when it comes to lead generation. His cold email tool is by far the most innovative one I've tried so far.",
+    "url": "https://www.facebook.com/groups/TheEmailOutreachFamily/",
+    "pass": 3
+   },
+   {
+    "quote": "lemlist - { {iceBreaker}} is of the simplest cold email ... Nov 11, 2019 · Here's the step-by-step plan: 1️⃣ Create a column in your .csv file called \"Ice Breaker\" 2️⃣ Study your audience (e.g. LinkedIn profiles of prospects) 3️⃣ Write a personalized sentence for each prospect in the Ice Breaker column 4️⃣ Add { {iceBreaker}} tag as an intro line in your cold email in #lemlist 5️⃣ Click send, grab",
+    "url": "https://www.facebook.com/lemlist/posts/icebreaker-is-of-the-simplest-cold-email-tactics-you-can-usean-excellent-way-to-/497904247473587/",
+    "pass": 3
+   },
+   {
+    "quote": "lemlist - Want to find out more about lemlist and our ... Mar 4, 2021 · Want to find out more about lemlist and our journey? Partech Shaker interviewed Guillaume to get details on this",
+    "url": "https://www.facebook.com/lemlist/posts/want-to-find-out-more-about-lemlist-and-our-journeypartech-shaker-interviewed-gu/811182962812379/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.lemlist.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lemlist.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lemlist.com/success-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lemlist.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lemlist.com/success-stories/elevenlabs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lemlist.com/success-stories/spendesk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lemlist.com/success-stories/pennylane",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lemlist.com/success-stories/mindee",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lemlist.com/success-stories/rightmarket",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lemlist.com/success-stories/devlo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lemlist.com/join-lemlist",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.lemlist.com/intents/newpartnership.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://saasnavi.net/blog/lemlist-vs-reply-io-comparison-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai-biz-tools.com/blog/lemlist-setup/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fitgap.com/jp/products/lemlist",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%9F%E3%83%B3%E3%83%88%E3%83%B3_(%E4%BC%81%E6%A5%AD)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.koaglobal.com/corporate/offices/distributors1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://help.lemlist.com/en/articles/10665430-buy-a-domain-and-email-for-lemlist",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lp.lemlist.com/email-software-lemlist",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/lemlist",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/lemlist/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/growthmentor/case-study/lemlist-boosts-customer-success-with-growthmentor-and-98-csat",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/lemlist",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getleadwave.io/dossier/lemlist",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lounge.ai/companies/lemlist",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/lemlist",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/lemlist",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/vasilijesimic18/article/2106368272706703429",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/lemlist/status/2117575008209838472",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/lemlist",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/lemlist/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/lemlist",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fr.linkedin.com/in/guillaume-moubeche-a026541b2",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://my.linkedin.com/products/lempire-lemlist/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/lemlist/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/TheEmailOutreachFamily/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/lemlist/posts/icebreaker-is-of-the-simplest-cold-email-tactics-you-can-usean-excellent-way-to-/497904247473587/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/lemlist/posts/want-to-find-out-more-about-lemlist-and-our-journeypartech-shaker-interviewed-gu/811182962812379/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pub/dir/Charles/Tenot",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/lemlist",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/lemlist",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Lemlist 日本 導入",
+   "results": [
+    "https://www.lemlist.com/?region=japan",
+    "https://saasnavi.net/blog/lemlist-vs-reply-io-comparison-2026/",
+    "https://ai-biz-tools.com/blog/lemlist-setup/",
+    "https://fitgap.com/jp/products/lemlist",
+    "https://www.aimonosashi.jp/tools/lemlist",
+    "https://www.lemlist.com/",
+    "https://www.proofpoint.com/jp/blog/cyberthreats/dmarc-adoption-industry-japan-us-2026"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lemlist 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/レミントン_(企業)",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.aon.com/japan/company-overview",
+    "https://www.lemington.co.jp/",
+    "https://www.ipsen.com/japan/会社/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lemlist Japan",
+   "results": [
+    "https://www.lemlist.com/?region=japan",
+    "https://www.lemlist.com/",
+    "https://help.lemlist.com/en/articles/10665430-buy-a-domain-and-email-for-lemlist",
+    "https://lp.lemlist.com/email-software-lemlist",
+    "https://www.techharry.com/2026/03/how-to-use-lemlist-for-international-outreach-campaigns.html",
+    "https://help.lemlist.com/en/articles/10035229-use-the-lemlist-inbox",
+    "https://www.workato.com/en-PH/integrations/japan-corporate-numbers~lemlist"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lemlist manufacturing customer case study",
+   "results": [
+    "https://www.lemlist.com/success-stories",
+    "https://www.casestudies.com/customer/lemlist",
+    "https://www.featuredcustomers.com/vendor/lemlist/case-studies",
+    "https://www.casestudies.com/company/growthmentor/case-study/lemlist-boosts-customer-success-with-growthmentor-and-98-csat",
+    "https://www.cuspera.com/products/lemlist-x-4789/customer-story",
+    "https://bloomberry.com/data/lemlist/",
+    "https://www.lemlist.com/for/founders",
+    "https://www.contentmonk.io/case-studies/lemlist"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Lemlist white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://www.lemlist.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.seoreseller.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.lemlist.com/pricing"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lemlist founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/lemlist",
+    "https://getleadwave.io/dossier/lemlist",
+    "https://lounge.ai/companies/lemlist",
+    "https://compworth.com/company/lemlist",
+    "https://bouncewatch.com/company/lemlist",
+    "https://x.com/vasilijesimic18/article/2106368272706703429",
+    "https://www.ideaindex.so/case-studies/lemlist"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Lemlist",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Lemlist",
+   "results": [
+    "https://x.com/lemlist",
+    "https://x.com/vasilijesimic18/article/2106368272706703429",
+    "https://x.com/lemlist/status/2117575008209838472",
+    "https://x.com/hashtag/lemlist",
+    "https://x.com/adugbovictory/status/2118980538002268632",
+    "https://x.com/adugbovictory/status/2118954187694227613",
+    "https://x.com/isdownapp/status/2041878956152922141"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Lemlist",
+   "results": [
+    "https://www.linkedin.com/company/lemlist/",
+    "https://www.linkedin.com/products/lemlist",
+    "https://fr.linkedin.com/in/guillaume-moubeche-a026541b2",
+    "https://my.linkedin.com/products/lempire-lemlist/",
+    "https://mk.linkedin.com/in/ritashehu",
+    "https://fr.linkedin.com/in/charlestenot",
+    "https://uk.linkedin.com/in/billstath",
+    "https://www.linkedin.com/pulse/38-skills-claude-gratuits-pour-la-prospection-lemlist-morre-q5ule/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:facebook.com Lemlist",
+   "results": [
+    "https://www.facebook.com/lemlist/",
+    "https://www.facebook.com/groups/TheEmailOutreachFamily/",
+    "https://www.facebook.com/lemlist/posts/icebreaker-is-of-the-simplest-cold-email-tactics-you-can-usean-excellent-way-to-/497904247473587/",
+    "https://www.facebook.com/lemlist/posts/want-to-find-out-more-about-lemlist-and-our-journeypartech-shaker-interviewed-gu/811182962812379/",
+    "https://www.facebook.com/lemlist/videos/book-your-demo/2264744247262639/",
+    "https://www.facebook.com/lemlist/videos/get-100-free-leads-to-test-lemlist/715804724723039/",
+    "https://www.facebook.com/lemlist/videos/how-to-set-dkim-spf-mx-records/2616318012011772/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lemlist note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.linkedin.com/pub/dir/Charles/Tenot",
+    "https://getleadwave.io/dossier/lemlist",
+    "https://app.dealroom.co/news/note/lemlist-ceo-on-the-road-from-15m-to-100m-and-going-ai-first",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.lemlist.com/authors/charles-tenot",
+    "https://note.com/saiyou_dekirukun/all"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Lemlist X 投稿",
+   "results": [
+    "https://x.com/lemlist",
+    "https://www.lemlist.com/",
+    "https://www.checkcharm.com/how-to/setup-twitter-with-lemlist/",
+    "https://x.com/hashtag/lemlist",
+    "https://help.lemlist.com/en/",
+    "https://help.lemlist.com/en/articles/10035229-use-the-lemlist-inbox",
+    "https://developer.lemlist.com/mcp/setup"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式11頁／PDF・画像1件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式11頁／PDF・画像1件／外部34頁・検索12回）"
+ }
+}

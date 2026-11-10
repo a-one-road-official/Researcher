@@ -1,0 +1,1254 @@
+{
+ "name": "Mindsdb",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-09T23:58:15.760754+00:00",
+ "official_url": "https://mindsdb.com",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2017",
+    "url": "https://en.wikipedia.org/wiki/MindsHub",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Berkeley, California, U.S.",
+    "url": "https://en.wikipedia.org/wiki/MindsHub",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "-H \"Content-Type: application/json\"",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"content\":\"Hello!\"}]}'",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Includes every Admin permission and protected ownership controls.",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Uses the product, sees who else is in the organization, and manages their own API keys.",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Remove eligible organization members. Owners remain protected.",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Rules blocking a model or a provider for the organization, a workspace or a team.",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "See which models and providers are blocked for the organization, its workspaces and teams.",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Block or allow a model or a provider for the organization, a workspace or a team.",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Gemini 3.1 Pro Preview",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Gemini 3 Flash Preview",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "model rules under this provider",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Preview only. No invitations will be sent.",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Report on the performance of the last Google ads campaign.",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Compared spend and leads by channel",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "$4,800 spend · 160 leads",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "160 leads",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Google Ads campaign report",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": ", well ahead of where raw frequency would rank it. Pricing confusion and a missing Salesforce sync round out the top three.",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "I drafted a short product follow-up list at the end of the memo.",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Every weekday at 7am, scan Slack, Gmail, my Calendar, and Linear, and give me a priority briefing before my first meeting — what changed overnight and what needs me.",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "5 meetings, 2 need prep",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Acme is waiting on your reply, the pricing doc needs sign-off, and your 9:30 needs 5 minutes of prep (notes attached).",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Size the US SMB analytics market, compare the top vendors by price and ICP, and build me a shareable briefing I can send to the team.",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "reports, filings, pricing pages",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "price, ICP, and gaps",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "出典: Forbes, B-EYEなどの業界分析に基づく評価 出典: PeerSpot Predictive Analytics Category (2025-10) 2.3. 詳細比較テーブル 各プラットフォームの主要な違いを以下の表にまとめました",
+    "url": "https://skywork.ai/skypage/ja/mindsdb-ai-development-tools/1985149442370904064",
+    "pass": 3
+   },
+   {
+    "quote": "エコシステムの拡大: Model Context Protocol (MCP)のような標準規格への対応を推進し、サードパーティ製のAIエージェントやツールがMindsDBをインテリジェンスハブとして利用するエコシステムが拡大していくでしょう",
+    "url": "https://skywork.ai/skypage/ja/mindsdb-ai-development-tools/1985149442370904064",
+    "pass": 3
+   },
+   {
+    "quote": "出典: McKinsey Tech Trends 2025, MindsDB AI Predictionsに基づく分析 5. MindsDBがもたらす変革と私たちへの示唆 MindsDBの登場は、単なる新しいツールの出現以上の意味を持ちます",
+    "url": "https://skywork.ai/skypage/ja/mindsdb-ai-development-tools/1985149442370904064",
+    "pass": 3
+   },
+   {
+    "quote": "高可用性、スケーラビリティ、セキュリティ、専門的なサポートが求められる本番環境では、Minds Enterpriseの利用が強く推奨されます",
+    "url": "https://skywork.ai/skypage/ja/mindsdb-ai-development-tools/1985149442370904064",
+    "pass": 3
+   },
+   {
+    "quote": "Hybrid Searchの活用: WHERE content = &#39;...&#39; AND metadata_column = &#39;...&#39;のように、セマンティック検索とメタデータによるフィルタリングを組み合わせることで、結果を絞り込めます",
+    "url": "https://skywork.ai/skypage/ja/mindsdb-ai-development-tools/1985149442370904064",
+    "pass": 3
+   },
+   {
+    "quote": "total_sales_predicted",
+    "url": "https://qiita.com/papa_story2010/items/c0a441b9294e73069179",
+    "pass": 3
+   },
+   {
+    "quote": "MCP（Model Context Protocol）への対応",
+    "url": "https://qiita.com/papa_story2010/items/c0a441b9294e73069179",
+    "pass": 3
+   },
+   {
+    "quote": "Simple Pricing for powerful AI",
+    "url": "https://weel.co.jp/media/innovator/mindsdb/",
+    "pass": 3
+   },
+   {
+    "quote": "CREATE JOB retrain_model_and_save_predictions (",
+    "url": "https://weel.co.jp/media/innovator/mindsdb/",
+    "pass": 3
+   },
+   {
+    "quote": "join_learn_process = true;",
+    "url": "https://weel.co.jp/media/innovator/mindsdb/",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/MindsHub",
+    "pass": 3
+   },
+   {
+    "quote": "Platform for building AI from enterprise data",
+    "url": "https://en.wikipedia.org/wiki/MindsHub",
+    "pass": 3
+   },
+   {
+    "quote": "prohibited in Wikipedia articles",
+    "url": "https://en.wikipedia.org/wiki/MindsHub",
+    "pass": 3
+   },
+   {
+    "quote": "April 2026",
+    "url": "https://en.wikipedia.org/wiki/MindsHub",
+    "pass": 3
+   },
+   {
+    "quote": "Please help improve this article by looking for better, more reliable sources. Unreliable citations may be challenged and removed.",
+    "url": "https://en.wikipedia.org/wiki/MindsHub",
+    "pass": 3
+   },
+   {
+    "quote": "From 2019 to 2024, the project expanded into a broader system for accessing distributed enterprise data. Independent technology publications referenced MindsHub during this period in the context of AI infrastructure and",
+    "url": "https://en.wikipedia.org/wiki/MindsHub",
+    "pass": 3
+   },
+   {
+    "quote": "MindsHub provides tools for managing and searching unstructured content such as documents and text fields:",
+    "url": "https://en.wikipedia.org/wiki/MindsHub",
+    "pass": 3
+   },
+   {
+    "quote": "vector search – a method for finding similar content by comparing numerical representations of text",
+    "url": "https://en.wikipedia.org/wiki/MindsHub",
+    "pass": 3
+   },
+   {
+    "quote": "MindsHub includes AI-based agents that interpret natural-language questions, generate SQL queries, retrieve context, and produce answers using large language models. These agents act as intermediaries that translate everyday language into database operations.",
+    "url": "https://en.wikipedia.org/wiki/MindsHub",
+    "pass": 3
+   },
+   {
+    "quote": "MindsHub is available as open-source software and as a hosted cloud service. It can also be deployed on-premises or inside private cloud environments, depending on an organization's requirements. Independent financial and technology reporting has covered several integration and reseller agreements involving MindsHub. The platform can additionally operate as a",
+    "url": "https://en.wikipedia.org/wiki/MindsHub",
+    "pass": 3
+   },
+   {
+    "quote": "Model Context Protocol",
+    "url": "https://en.wikipedia.org/wiki/MindsHub",
+    "pass": 3
+   },
+   {
+    "quote": "\"Text-To-SQL: Making Enterprise Data More Accessible To Users\"",
+    "url": "https://en.wikipedia.org/wiki/MindsHub",
+    "pass": 3
+   },
+   {
+    "quote": "\"6 years ago, AI startup MindsDB was an open source project that few took seriously. Now it's worth $160 million and on a growth rocketship\"",
+    "url": "https://en.wikipedia.org/wiki/MindsHub",
+    "pass": 3
+   },
+   {
+    "quote": "\"50+ Model Context Protocol (MCP) Servers Worth Exploring\"",
+    "url": "https://en.wikipedia.org/wiki/MindsHub",
+    "pass": 3
+   },
+   {
+    "quote": "\"MindsDB wants to give enterprise databases a brain\"",
+    "url": "https://en.wikipedia.org/wiki/MindsHub",
+    "pass": 3
+   },
+   {
+    "quote": "\"AI 50 2021: America's Most Promising Artificial Intelligence Companies\"",
+    "url": "https://en.wikipedia.org/wiki/MindsHub",
+    "pass": 3
+   },
+   {
+    "quote": "\"RAG in 2025: The enterprise guide to retrieval augmented generation, Graph RAG and agentic AI\"",
+    "url": "https://en.wikipedia.org/wiki/MindsHub",
+    "pass": 3
+   },
+   {
+    "quote": "\"Enterprise AI Platform Deal: IPM Teams with MindsDB to Bring Advanced Analytics to Mid-Market Companies\"",
+    "url": "https://en.wikipedia.org/wiki/MindsHub",
+    "pass": 3
+   },
+   {
+    "quote": "\"Intelligent Protection Management (IPM) Enters Reseller Agreement with MindsDB\"",
+    "url": "https://en.wikipedia.org/wiki/MindsHub",
+    "pass": 3
+   },
+   {
+    "quote": "Free software programmed in Python",
+    "url": "https://en.wikipedia.org/wiki/MindsHub",
+    "pass": 3
+   },
+   {
+    "quote": "Articles containing suspected AI-generated texts from April 2026",
+    "url": "https://en.wikipedia.org/wiki/MindsHub",
+    "pass": 3
+   },
+   {
+    "quote": ", a non-profit organization.",
+    "url": "https://en.wikipedia.org/wiki/MindsHub",
+    "pass": 3
+   },
+   {
+    "quote": "MindsDB is an open-source AutoML tool that reduces model training complexity by bringing explainable machine learning at the source of the data. Models can be identified quickly using AutoML and deployed at speed and scale directly in the database as simple tables - AITables - either with a few code lines, standard SQL queries, or a few clicks using their simple User Interface.",
+    "url": "https://www.casestudies.com/customer/mindsdb",
+    "pass": 3
+   },
+   {
+    "quote": "MindsDB's approach to democratizing ML and empowering community-led innovation",
+    "url": "https://www.casestudies.com/customer/mindsdb",
+    "pass": 3
+   },
+   {
+    "quote": "Exterro Zapproved ZDiscovery",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/mindsdb",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Query warehouse data with a service account.",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Used by 1 project",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Success Stories about Software and Services used by MindsDB",
+    "url": "https://www.casestudies.com/customer/mindsdb",
+    "pass": 3
+   },
+   {
+    "quote": "Foundry Robotics is an AI driven robotics company rebuilding manufacturing with advanced assembly automation…",
+    "url": "https://fundediq.co/mindsdb-mindsdb-com-funding/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Who changed what in this organization, with what credential, and when. Shows the last 90 days; use the date filters below to narrow the range.",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Sessions come from agent traffic. Direct API calls do not carry one.",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Combine last month's Gong calls, Zendesk tickets, and HubSpot notes into the top customer-feedback themes — and rank them by revenue impact, not just frequency.",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Scored each theme by attached ARR",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": ". Ranked by revenue, the #1 theme is",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "$214k of ARR",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Every figure carries a citation in the sources appendix.",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "— The boss prefers numbers first, then the narrative. Lead with the headline metric.",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": ". Behind the load balancer every request arrives from the same address, so one busy tenant throttles checkout for everyone. Set",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Net revenue retention",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Ranked by attached ARR, not raw frequency. Each theme links to its source calls, tickets, and quotes.",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "$214k ARR · 28 mentions",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "$156k ARR · 19 mentions",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "$98k ARR · 12 mentions",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "$41k ARR · 22 mentions",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "— VP Ops, $48k ARR account (Gong, May 14)",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Read revenue, subscriptions, churn, and payouts.",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "4. MindsDBの進化と未来展望 MindsDBは、2017年にJorge TorresとAdam Carriganによって「機械学習の民主化」をミッションに設立されました",
+    "url": "https://skywork.ai/skypage/ja/mindsdb-ai-development-tools/1985149442370904064",
+    "pass": 3
+   },
+   {
+    "quote": "Jorge Torres, Adam Carrigan",
+    "url": "https://en.wikipedia.org/wiki/MindsHub",
+    "pass": 3
+   },
+   {
+    "quote": "MindsHub was founded in 2017 as MindsDB by Jorge Torres and Adam Carrigan in Berkeley, California. The first open-source release in 2018 introduced basic machine-learning functions that operated inside traditional databases.",
+    "url": "https://en.wikipedia.org/wiki/MindsHub",
+    "pass": 3
+   },
+   {
+    "quote": "metadata filtering – narrowing search results by attributes such as date or category",
+    "url": "https://en.wikipedia.org/wiki/MindsHub",
+    "pass": 3
+   },
+   {
+    "quote": "(MCP) server, allowing MCP-compatible developer tools to access its query engine and AI functions. MindsHub is listed as an optional integration within the Google MCP Toolbox.",
+    "url": "https://en.wikipedia.org/wiki/MindsHub",
+    "pass": 3
+   },
+   {
+    "quote": "Marriott International",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/mindsdb",
+    "pass": 3
+   },
+   {
+    "quote": ", a United States based Professional Services organisation with 130 employees and revenues of $25.0 million,",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/mindsdb",
+    "pass": 3
+   },
+   {
+    "quote": ", a United States based Banking and Financial Services organisation with 1 employees and revenues of $1.0 million,",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/mindsdb",
+    "pass": 3
+   },
+   {
+    "quote": ", a United States based Professional Services organisation with 10 employees and revenues of $1.0 million and many others.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/mindsdb",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us if you need a completed and verified list of companies using MindsDB, including the breakdown by industry (21 Verticals), Geography (Region, Country, State, City), Company Size (Revenue, Employees, Asset) and related IT Decision Makers, Key Stakeholders, business and technology executives responsible for the software purchases.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/mindsdb",
+    "pass": 3
+   },
+   {
+    "quote": "In 2023, Rize implemented MindsDB as part of its ML and Data Science Platforms work to add ML-driven product features and retention insights. The deployment used MindsDB Cloud to train and auto-deploy models directly from Rize's primary product database, with a focus on product and engagement analytics in the United States.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/mindsdb",
+    "pass": 3
+   },
+   {
+    "quote": ", a United States based Healthcare organization with 10 Employees",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/mindsdb",
+    "pass": 3
+   },
+   {
+    "quote": "Companies using MindsDB range from small businesses with 0-100 employees - 66.67%, to mid-sized firms with 101-1,000 employees - 33.33%, large organizations with 1,001-10,000 employees - 0%, and global enterprises with 10,000+ employees - 0%.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/mindsdb",
+    "pass": 3
+   },
+   {
+    "quote": "Q7. What is the breakdown by revenue of companies using MindsDB?",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/mindsdb",
+    "pass": 3
+   },
+   {
+    "quote": "Customers of MindsDB include firms across all revenue levels — from $0-100M, to $101M-$1B, $1B-$10B, and $10B+ global corporations.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/mindsdb",
+    "pass": 3
+   },
+   {
+    "quote": "Contact APPS RUN THE WORLD to access the full verified MindsDB customer database with detailed Firmographics such as industry, geography, revenue, and employee breakdowns as well as key decision makers in charge of ML and Data Science Platforms.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/mindsdb",
+    "pass": 3
+   },
+   {
+    "quote": "FundedIQ lists Adam Carrigan (Founder), Jorge Torres (Founder) at MindsDB.",
+    "url": "https://fundediq.co/mindsdb-mindsdb-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does MindsDB have?",
+    "url": "https://fundediq.co/mindsdb-mindsdb-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/mindsdb-mindsdb-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/mindsdb-mindsdb-com-funding/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Filter by actor email",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Email the people who can edit this budget",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Triaged 23 new emails",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Everything links to the source — one click to the Slack thread or email.",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Every line links back to the source — one click to the thread, email, or issue.",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Read, search, and draft email in your inbox.",
+    "url": "https://mindshub.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us if you need a completed and verified list of companies using MindsDB, including the breakdown by industry (21 Verticals), Geography (Region, Country, State, City), Company Size (Revenue, Employees, Asset) and related IT Decision Makers, Key Stakeholders, business and technology executives responsible for the software purchases.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/mindsdb",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the MindsDB team: 2 of 2 have an email address on file.",
+    "url": "https://fundediq.co/mindsdb-mindsdb-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/mindsdb-mindsdb-com-funding/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "ChatGPTは日本語に対応しているので、質問は日本語でもOKです",
+    "url": "https://weel.co.jp/media/innovator/mindsdb/",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、英語表記のみで日本語で書かれたドキュメントが少ないためそのあたりが不便だと感じました",
+    "url": "https://weel.co.jp/media/innovator/mindsdb/",
+    "pass": 3
+   },
+   {
+    "quote": "「生成AIで新しいプロダクトを作りたい」「もっと本格的に生成AIを業務に組み込みたい」とお考えの方は、ぜひ株式会社WEELにご相談ください",
+    "url": "https://weel.co.jp/media/innovator/mindsdb/",
+    "pass": 3
+   },
+   {
+    "quote": "最新のAI情報を日本最速で受け取りたい方は、以下からご登録ください",
+    "url": "https://weel.co.jp/media/innovator/mindsdb/",
+    "pass": 3
+   },
+   {
+    "quote": "「日本一透明性の高いAIプロフェッショナル集団」",
+    "url": "https://weel.co.jp/media/innovator/mindsdb/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "MindsDB完全ガイド：AI開発を加速する次世代ツールを徹底解説 — Nov 4, 2025 · よくある質問（FAQ） Q1: MindsDBはどのようなデータベースやデータソースをサポートしていますか？ A1: MindsDBは、PostgreSQL, MySQL, Snowflake, BigQuery, MongoDB, Salesforce, Google Sheets, Slackなど、200以上のデータベース、データウェアハウス、SaaSアプリケーション、ファイル ...",
+    "url": "https://skywork.ai/skypage/ja/mindsdb-ai-development-tools/1985149442370904064",
+    "pass": 3
+   },
+   {
+    "quote": "SQLでAIを動かす「MindsDB」とは？メリット・事例・コード例まで徹底... — Jul 11, 2026 · 今回ご紹介する「MindsDB」 は、この「データ」と「AI」の距離を極限まで縮め、 「なじみのあるSQLを使って、データベース内で直接AIを動かす」という画期的なアプローチを提供するオープンソースプラットフォームです。",
+    "url": "https://qiita.com/papa_story2010/items/c0a441b9294e73069179",
+    "pass": 3
+   },
+   {
+    "quote": "MindsDBとは？LLMとデータベースをつなぐオープンソースAIプラットフ...企業データと生成AIを接続、「最も賢い同僚」を仕事中独占できる? Min...Welcome to MindsDBMindsDB（マインズディービー） | 日本最大級のAIまとめ〜ええAI.TVAI“狂騒の半年”を振り返る Mythos公開、Fable停止、GPT-6登場――翻弄さ... — Nov 18, 2025 · データ予測と自動機械学習を簡単に行えるMindsDBの導入からサンプルプログラムの実行までをご紹介します！ MindsDBを使えばデータ分析や予測モデルの構築が可能です。 売上予測や在庫最適化、顧客の分類などを自動化させたい方におすすめです！ Mar 17, 2025 · また、日本企業との親和性も高いと考えています。 特にロボティクスや半導体の製造現場で、異常検知システムにおいて日本はAI",
+    "url": "https://weel.co.jp/media/innovator/mindsdb/",
+    "pass": 3
+   },
+   {
+    "quote": "Welcome to MindsDB — MindsDB enables humans, AI, agents, and applications to get highly accurate answers across disparate data sources and types. Join our mission to democratize Artificial Intelligence.",
+    "url": "https://info.mindsdb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "MindsDB（マインズディービー） | 日本最大級のAIまとめ〜ええAI.TV — MindsDBは、会社がすでに持っているデータベースや業務データにAI（文章を作るAIや予測モデル）をつなぎ、質問への答えや予測結果を取り出すための仕組みです。 多くの会社では、売上や在庫、顧客の記録がデータベースに入っています。",
+    "url": "https://eeai.tv/tools/mindsdb",
+    "pass": 3
+   },
+   {
+    "quote": "MindsDBとは？LLMとデータベースをつなぐオープンソースAIプラットフ...MindsHub - Wikipedia企業データと生成AIを接続、「最も賢い同僚」を仕事中独占できる? Min...SQLでAIを動かす「MindsDB」とは？メリット・事例・コード例まで徹底...MindsDB - navifyai.net「AI開発のAWS」目指すスタートアップMindsDBが約22億円調達 | Forbes... — Nov 18, 2025 · データ予測と自動機械学習を簡単に行えるMindsDBの導入からサンプルプログラムの実行までをご紹介します！ MindsDBを使えばデータ分析や予測モデルの構築が可能です。 売上予測や在庫最適化、顧客の分類などを自動化させたい方におすすめです！ MindsHub is an open-source artificial intelligence",
+    "url": "https://weel.co.jp/media/innovator/mindsdb/",
+    "pass": 3
+   },
+   {
+    "quote": "MindsDB - navifyai.net — Sep 15, 2026 · MindsDB offers MindsHub, an AI workspace plus a model router that connects many LLMs behind one API key and one bill. Teams run agent tasks, connect business data sources, and build reports or apps from a single console.",
+    "url": "https://www.navifyai.net/ja/tools/mindsdb",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How MindsDB Uses Software & Services — Explore case studies featuring MindsDB as the customer — learn how vendors and partners helped MindsDB solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/mindsdb",
+    "pass": 3
+   },
+   {
+    "quote": "List of MindsDB Customers - Apps Run The World — Each quarter our research team identifies companies that have purchased MindsDB for ML and Data Science Platforms from public (Press Releases, Customer References, Testimonials, Case Studies and Success Stories) and proprietary sources, including the customer size, industry, location, implementation status, partner involvement, LOB Key ...",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/mindsdb",
+    "pass": 3
+   },
+   {
+    "quote": "Testimonials of MindsDB users and customers - YouTube — Oct 13, 2023 · In this video as we delve into real-life case studies that showcase the incredible potential and transformative impact of MindsDB.",
+    "url": "https://www.youtube.com/watch?v=aGRIyzqI5i4",
+    "pass": 3
+   },
+   {
+    "quote": "Threado Case Study: MindsDB – MindsDB's approach to ... — MindsDB (Computer Software) partnered with Threado (Internet) to solve key challenges. \"MindsDB's approach to democratizing ML and empowering community-led innovation\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/threado/case-study/mindsdbs-approach-to-democratizing-ml-and-empowering-community-led-innovation",
+    "pass": 3
+   },
+   {
+    "quote": "MindsDB – Financial Footprint & Growth Factors – 2026 — MindsDB's estimated revenue per employee stands at $230K. MindsDB has raised a total of $56M in funding. MindsDB currently has a workforce of over 40+. Last year, MindsDB downsized its team by about 2%. MindsDB operates in a competitive market alongside 15 tracked alternatives.",
+    "url": "https://compworth.com/company/mindsdb",
+    "pass": 3
+   },
+   {
+    "quote": "MindsDB - 2026 Company Profile, Team, Funding & Competitors ...MindsDB: Funding, Investors & Team (Oct 2026) | FundedIQMindsDB — Company Profile, Funding & InvestorsMindsDB Revenue 2024: $5.3M Est. - LATKAMindsDB — Company Profile | The Company CheckMindsDB — AI SaaS Revenue, Funding & Data | IntelPilot.ai — Feb 15, 2026 · MindsDB is a series A company based in Berkeley (United States), founded in",
+    "url": "https://tracxn.com/d/companies/mindsdb/__OMm6l6GYrmW_kBU5JLQQ-Lt60jMckThbu1LnvqcZI8A",
+    "pass": 3
+   },
+   {
+    "quote": "MindsDB: Funding, Investors & Team (Oct 2026) | FundedIQ — MindsDB has raised $57.3M across 5 funding rounds on record, the most recent a Seed of $5.0M announced in Aug 2023. That round is below the $6.0M median round size for Artificial Intelligence companies tracked on FundedIQ over the last two years.",
+    "url": "https://fundediq.co/mindsdb-mindsdb-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "MindsDB — Company Profile, Funding & Investors — MindsDB company profile with $22.56M raised across 4 funding rounds, HQ in Berkeley, United States, founded 2017. Explore its acquisitions, funding rounds, investors, key people and contacts on Acquirezy — updated 2026.",
+    "url": "https://acquirezy.com/organization/mindsdb",
+    "pass": 3
+   },
+   {
+    "quote": "MindsDB Revenue 2024: $5.3M Est. - LATKA — Dec 23, 2024 · MindsDB has not published its revenue. GetLatka estimates it at about $5.3M a year (October 2024). MindsDB competes most directly with DataRobot and BigML. Jorge Torres founded MindsDB in 2020 and runs it as CEO. MindsDB had 37 employees (December 2024, LinkedIn). What is MindsDB's revenue?",
+    "url": "https://getlatka.com/companies/mindsdb",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "MindsHub is available as open-source software and as a hosted cloud service. It can also be deployed on-premises or inside private cloud environments, depending on an organization's requirements. Independent financial and technology reporting has covered several integration and reseller agreements involving MindsHub. The platform can additionally operate as a",
+    "url": "https://en.wikipedia.org/wiki/MindsHub",
+    "pass": 3
+   },
+   {
+    "quote": "\"Intelligent Protection Management (IPM) Enters Reseller Agreement with MindsDB\"",
+    "url": "https://en.wikipedia.org/wiki/MindsHub",
+    "pass": 3
+   },
+   {
+    "quote": "QualSights is an immersive insights platform that enables companies, agencies, and consulting firms to gather…",
+    "url": "https://fundediq.co/mindsdb-mindsdb-com-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Analyzing Private Repositories with MindsDB AI Document ... The AI document analysis feature provided by MindsDB is designed to be safely applied to private repositories, allowing for the extraction of valuable insights from millions of documents. In this article, we will organize its mechanisms and use cases, and explain the benefits of its implementation.",
+    "url": "https://note.com/genaird/n/nac3604da2f35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "MindsDBは、AIとデータの統合を自動化するシステムを提供する企業 May 10, 2025 · 現在、MindsDBはAIデータワークフローを自動化する最も人気のあるオープンソースシステムを開発しており、ベンチャーキャピタルやオープンソース分野の大手から5,000万ドル以上の資金を調達したシードステージのスタートアップです。",
+    "url": "https://note.com/vueloo_blog/n/n4866e633917e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Analyzing Private Repositories with MindsDB AI Document Analysis｜生成AI活用研究部",
+    "url": "https://note.com/genaird/n/nac3604da2f35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Analyzing Private Repositories with MindsDB AI Document Analysis",
+    "url": "https://note.com/genaird/n/nac3604da2f35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This article was generated using generative AI.",
+    "url": "https://note.com/genaird/n/nac3604da2f35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Please verify the accuracy of the explanations yourself.",
+    "url": "https://note.com/genaird/n/nac3604da2f35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This article is an explanation of",
+    "url": "https://note.com/genaird/n/nac3604da2f35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AI Document Analysis for Private Repositories: Get Insights Across Millions of Documents",
+    "url": "https://note.com/genaird/n/nac3604da2f35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Efficiently analyzing the vast amount of private documents held by companies is directly linked to knowledge management and faster decision-making. The AI document analysis feature provided by MindsDB is designed to be safely applied to private repositories, allowing for the extraction of valuable insights from millions of documents. In this article, we will organize its mechanisms and use cases, ",
+    "url": "https://note.com/genaird/n/nac3604da2f35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Necessity of Private Repository Analysis",
+    "url": "https://note.com/genaird/n/nac3604da2f35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "MindsDBは、AIとデータの統合を自動化するシステムを提供する企業｜MasaT. 武富 正人",
+    "url": "https://note.com/vueloo_blog/n/n4866e633917e",
+    "pass": 3
+   },
+   {
+    "quote": "MindsDBは、AIとデータの統合を自動化するシステムを提供する企業",
+    "url": "https://note.com/vueloo_blog/n/n4866e633917e",
+    "pass": 3
+   },
+   {
+    "quote": "MindsDBは、2018年にIain M. Banksの「Culture Series」にインスパイアされたオープンソースプロジェクトとして始まり、AIとデータの統合を自動化するシステムを提供する企業です。現在、MindsDBはAIデータワークフローを自動化する最も人気のあるオープンソースシステムを開発しており、ベンチャーキャピタルやオープンソース分野の大手から5,000万ドル以上の資金を調達したシードステージのスタートアップです。",
+    "url": "https://note.com/vueloo_blog/n/n4866e633917e",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、米国、英国、ニュージーランド、南アフリカ、カナダ、UAEなど国際的に分散したチームで構成され、AIの民主化を目指しています。MindsDBは、大規模な連合データに対して学習し、質問に答えるAIの構築を可能にするソリューションを提供し、企業向けの「Minds Enterprise」やオープンソース版の「MindsDB Open Source」を展開。ドキュメント、GitHub、ブログ、コミュニティ（Slackやイベント）を通じて学習リソースも充実しています。",
+    "url": "https://note.com/vueloo_blog/n/n4866e633917e",
+    "pass": 3
+   },
+   {
+    "quote": "キャリア機会やデモの提供、ニュースルームでの情報発信も積極的に行っており、AI戦略を強化したい企業や開発者にとって魅力的な選択肢となっています。",
+    "url": "https://note.com/vueloo_blog/n/n4866e633917e",
+    "pass": 3
+   },
+   {
+    "quote": "世界のAI+Web3企業を深掘り、情報源として必見 ！最前線",
+    "url": "https://note.com/vueloo_blog/n/n4866e633917e",
+    "pass": 3
+   },
+   {
+    "quote": "AIスタートアップの追跡：未来の破壊的Techと世界への衝撃",
+    "url": "https://note.com/vueloo_blog/n/n4866e633917e",
+    "pass": 3
+   },
+   {
+    "quote": "GTC2025 NVIDIAからAIエコシステムを把握する",
+    "url": "https://note.com/vueloo_blog/n/n4866e633917e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "mindshub (@MindsDB) / Posts and Replies / X Discover Anton — MindsDB’s open-source AI agent for conversational analytics.This hands-on guide by @burkov shows how to install, connect data sources, and use Anton in practice.Read here 👇",
+    "url": "https://x.com/MindsDB/with_replies",
+    "pass": 3
+   },
+   {
+    "quote": "New MindsDB release v24.6.4.0 is here! Fix for duplicate ... 🔹 Updated docs for overriding prompt templates 🔹 Requirements fixes 🔹 Updated Postgres handler with schema in table query 🔹 REST API docs 🔹 Python SDK docs for agents 🔹 Fixed LangChain Circular Import Shout out to all the contributors for their hard work! Check out the full changelog here: github.com/mindsdb/mindsd…",
+    "url": "https://x.com/MindsDB/status/1805971627932590575",
+    "pass": 3
+   },
+   {
+    "quote": "Thanks for following our work — MindsDB Anton is live on ... MindsDB: Autonomous Business Intelligence Platform | Product Hunt www.producthunt.com",
+    "url": "https://x.com/MindsDB/status/2042011350180696194",
+    "pass": 3
+   },
+   {
+    "quote": "The agent is built on @MindsDB, an open-source query engine ... MindsDB’s federated query layer gives the agent structured, accurate context; faster responses; simpler reasoning; and lower token usage. You can find the code for the project here: github.com/patchy631/ai-e…",
+    "url": "https://x.com/akshay_pachaar/status/2032452693458055512",
+    "pass": 3
+   },
+   {
+    "quote": "@MindsDB | X The latest posts from @MindsDB",
+    "url": "https://x.com/MindsDB",
+    "pass": 3
+   },
+   {
+    "quote": "mindshub (@MindsDB) / Posts and Replies / X Nov 13, 2018 · mindshub (@MindsDB) - Posts and Replies - The open platform for running AI agents | X (formerly Twitter)",
+    "url": "https://x.com/MindsDB/with_replies",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Mindshub - FacebookOur new MindsHub tour follows one developer and one ...MindsDB - We’re excited to announce that ... - FacebookYour AI agents are busy. So is the bill. Take the MindsHub ...MindsDB - ⏲️ 9 Days left to register for our webinar ...We had an unforgettable time at Topgolf during AWS re:Invent ...“Agentic AI” is having a moment, but AI agents aren’t new ... Sep 24, 2026 · MindsDB Anto",
+    "url": "https://www.facebook.com/MindsDB/",
+    "pass": 3
+   },
+   {
+    "quote": "MindsDB - We’re excited to announce that ... - Facebook ⚡ Connect Anthropic models directly via MindsDB’s MCP Server 🔗 Simplify secure communication between agents and LLMs 🛠️ Build, deploy, and scale intelligent workflows—fast Whether you're running Claude or any supported model, MindsDB + MCP makes integration effortless. 👉 Try it out and bring your AI stack together. DOCS.MINDSDB.COM",
+    "url": "https://www.facebook.com/MindsDB/posts/-were-excited-to-announce-that-you-can-now-interact-with-both-semantic-and-param/1282195667247438/",
+    "pass": 3
+   },
+   {
+    "quote": "MindsDB - ⏲️ 9 Days left to register for our webinar ... ⚡ Connect Anthropic models directly via MindsDB’s MCP Server 🔗 Simplify secure communication between agents and LLMs 🛠️ Build, deploy, and scale intelligent workflows—fast Whether you're running Claude or any supported model, MindsDB + MCP makes integration effortless. 👉 Try it out and bring your AI stack together. DOCS.MINDSDB.COM",
+    "url": "https://www.facebook.com/MindsDB/posts/️-9-days-left-to-register-for-our-webinar-fasttrack-knowledge-bases-how-to-build/1290290189771319/",
+    "pass": 3
+   },
+   {
+    "quote": "Our new MindsHub tour follows one developer and one ... Oct 26, 2026 · Open Source Data podcast ft Jorge Torres, MindsDB CEO Open Source Data podcast ft Jorge Torres, MindsDB CEO Open Source Data podcast ft Jorge Torres, MindsDB CEO",
+    "url": "https://www.facebook.com/MindsDB/videos/our-new-mindshub-tour-follows-one-developer-and-one-increasingly-concerned-boss-/1756192862119376/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Jorge Torres - CEO @ MindsDB | LinkedInnote株式会社 on X: \"| メディア掲載 || 新潟日報 @niigata_nippo に...note 役員一覧 | 取締役7名の経歴と選任賛成比率加藤貞顕 - Wikipedia加藤 貞顕 | 日興フロッギーnoteの歴代社長 - the-shashi.com CEO @ MindsDB · Currently working on democratizing AI and Machine Learning · Experience: MindsDB · Education: University of California, Berkeley · Location: Berkeley · 500+ connections on ... Jul 8, 2026 · | メディア掲載 || 新潟日報 @",
+    "url": "https://www.linkedin.com/in/torresjorge",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://mindshub.ai/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://skywork.ai/skypage/ja/mindsdb-ai-development-tools/1985149442370904064",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qiita.com/papa_story2010/items/c0a441b9294e73069179",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://weel.co.jp/media/innovator/mindsdb/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://info.mindsdb.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sidebizz.net/blog/agent/general-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/MindsHub",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://info.mindsdb.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://weel.co.jp/media/innovator/mindsdb/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qiita.com/papa_story2010/items/c0a441b9294e73069179",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/mindsdb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://info.mindsdb.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/mindsdb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3DaGRIyzqI5i4&q=EgSAVS7qGPK8ydcGIjC7Faik9piN_CiJLzIB79rRFbHmoP2Zb3cIUMgm28lgiRlp1rubhBLV0aflGqsDluQyAnJSWgFDYMmJpYCSvbvUHw",
+    "status": "http_429",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://upcloud.com/global/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.databricks.com/partners/partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/mindsdb",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/mindsdb/__OMm6l6GYrmW_kBU5JLQQ-Lt60jMckThbu1LnvqcZI8A",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fundediq.co/mindsdb-mindsdb-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://acquirezy.com/organization/mindsdb",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/genaird/n/nac3604da2f35?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/vueloo_blog/n/n4866e633917e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/MindsDB/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MindsDB/status/1805971627932590575",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MindsDB/status/2042011350180696194",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/akshay_pachaar/status/2032452693458055512",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MindsDB/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MindsDB/posts/-were-excited-to-announce-that-you-can-now-interact-with-both-semantic-and-param/1282195667247438/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MindsDB/posts/️-9-days-left-to-register-for-our-webinar-fasttrack-knowledge-bases-how-to-build/1290290189771319/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MindsDB/videos/our-new-mindshub-tour-follows-one-developer-and-one-increasingly-concerned-boss-/1756192862119376/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/torresjorge",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MindsDB",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MindsDB/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Mindsdb 日本 導入",
+   "results": [
+    "https://skywork.ai/skypage/ja/mindsdb-ai-development-tools/1985149442370904064",
+    "https://qiita.com/papa_story2010/items/c0a441b9294e73069179",
+    "https://weel.co.jp/media/innovator/mindsdb/",
+    "https://info.mindsdb.com/",
+    "https://eeai.tv/tools/mindsdb",
+    "https://techblitz.com/startup-interview/mindsdb/",
+    "https://www.itmedia.co.jp/business/articles/2610/08/news016.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mindsdb 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://ndbnet.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mindsdb Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/MindsHub",
+    "https://info.mindsdb.com/",
+    "https://weel.co.jp/media/innovator/mindsdb/",
+    "https://qiita.com/papa_story2010/items/c0a441b9294e73069179",
+    "https://www.navifyai.net/ja/tools/mindsdb",
+    "https://forbesjapan.com/articles/detail/60903",
+    "https://techblitz.com/startup-interview/mindsdb/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mindsdb manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/customer/mindsdb",
+    "https://info.mindsdb.com/",
+    "https://www.appsruntheworld.com/customers-database/products/view/mindsdb",
+    "https://www.youtube.com/watch?v=aGRIyzqI5i4",
+    "https://www.casestudies.com/company/threado/case-study/mindsdbs-approach-to-democratizing-ml-and-empowering-community-led-innovation",
+    "https://www.appsruntheworld.com/customers-database/vendors/view/mindsdb",
+    "https://www.featuredcustomers.com/vendor/mindsdb"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mindsdb white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://upcloud.com/partner-program/",
+    "https://www.databricks.com/partners/partner-program",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://aws.amazon.com/partners/programs/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mindsdb founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/mindsdb",
+    "https://tracxn.com/d/companies/mindsdb/__OMm6l6GYrmW_kBU5JLQQ-Lt60jMckThbu1LnvqcZI8A",
+    "https://fundediq.co/mindsdb-mindsdb-com-funding/",
+    "https://acquirezy.com/organization/mindsdb",
+    "https://getlatka.com/companies/mindsdb",
+    "https://www.thecompanycheck.com/company/b/mindsdb/qgie2iki2o7hya4j0",
+    "https://www.intelpilot.ai/company/mindsdb/69dafe75a6715bdc3095e217"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Mindsdb",
+   "results": [
+    "https://note.com/genaird/n/nac3604da2f35?hl=en",
+    "https://note.com/vueloo_blog/n/n4866e633917e",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/komatta_techo/n/n6e689db0d0fb?hl=en",
+    "https://note.com/pure_nerine1829/n/n80cde3db610f?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Mindsdb",
+   "results": [
+    "https://x.com/MindsDB/with_replies",
+    "https://x.com/MindsDB/status/1805971627932590575",
+    "https://x.com/MindsDB/status/2042011350180696194",
+    "https://x.com/akshay_pachaar/status/2032452693458055512",
+    "https://x.com/mindsdb/status/2039704420695306545",
+    "https://x.com/MindsDB/status/2071709386498867613",
+    "https://x.com/MindsDB/status/2024935901823115757"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Mindsdb",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Mindsdb",
+   "results": [
+    "https://www.facebook.com/MindsDB/",
+    "https://www.facebook.com/MindsDB/posts/-were-excited-to-announce-that-you-can-now-interact-with-both-semantic-and-param/1282195667247438/",
+    "https://www.facebook.com/MindsDB/posts/️-9-days-left-to-register-for-our-webinar-fasttrack-knowledge-bases-how-to-build/1290290189771319/",
+    "https://www.facebook.com/MindsDB/videos/our-new-mindshub-tour-follows-one-developer-and-one-increasingly-concerned-boss-/1756192862119376/",
+    "https://www.facebook.com/MindsDB/videos/agentic-ai-is-having-a-moment-but-ai-agents-arent-new-mindsdb-has-been-building-/533281689751998/",
+    "https://www.facebook.com/MindsDB/videos/your-ai-agents-are-busy-so-is-the-billtake-the-mindshub-tour-team-budgets-model-/1185243490843109/",
+    "https://www.facebook.com/MindsDB/videos/we-had-an-unforgettable-time-at-topgolf-during-aws-reinventa-heartfelt-thank-you/396354793468176/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mindsdb note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://info.mindsdb.com/",
+    "https://www.linkedin.com/in/torresjorge",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://x.com/note_corp/status/2074734197949034502",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mindsdb X 投稿",
+   "results": [
+    "https://x.com/MindsDB",
+    "https://info.mindsdb.com/",
+    "https://x.com/MindsDB/with_replies",
+    "https://github.com/mindsdb",
+    "https://zhuanlan.zhihu.com/p/647115897",
+    "https://blog.csdn.net/gitblog_01241/article/details/151415378",
+    "https://juejin.cn/post/7431182080505446409"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）"
+ }
+}

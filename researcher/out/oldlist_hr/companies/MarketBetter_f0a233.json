@@ -1,0 +1,1302 @@
+{
+ "name": "MarketBetter",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-10T00:12:53.773689+00:00",
+ "official_url": "https://www.marketbetter.ai",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Find manufacturers hiring Aruba or Cisco wireless engineers",
+    "url": "https://marketbetter.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Which companies visited our pricing page this week?",
+    "url": "https://marketbetter.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Scores every visit, hire and mention, routes it to the right rep and explains why now.",
+    "url": "https://marketbetter.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Research agent: builds and enriches lists from a prompt",
+    "url": "https://marketbetter.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Call prep agent: briefs every call before you dial",
+    "url": "https://marketbetter.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "I can focus on selling instead of prospecting.",
+    "url": "https://marketbetter.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Top Performer in 15 Lead Generation Categories",
+    "url": "https://marketbetter.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing — MarketBetter",
+    "url": "https://marketbetter.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing built for every",
+    "url": "https://marketbetter.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Reps, managers, marketing and admins. No per-seat fees.",
+    "url": "https://marketbetter.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Work emails, phone numbers, LinkedIn profiles and company data from MarketBetter enrichment.",
+    "url": "https://marketbetter.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Guided onboarding and shared Slack support",
+    "url": "https://marketbetter.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Outreach at three levels (rep, product leader and executive) drafted into each sender’s inbox",
+    "url": "https://marketbetter.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Everything in Scale, with usage pooled across teams, enterprise security and a rollout planned with your sales, marketing and RevOps leaders.",
+    "url": "https://marketbetter.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Signal analysis, list research, email, LinkedIn, call briefs, meeting prep and the chatbot all run on your plan's AI credits. No per-channel limits and no per-seat fees.",
+    "url": "https://marketbetter.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "I can focus on selling instead of prospecting.",
+    "url": "https://marketbetter.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Build lists with a prompt, add AI research columns and chain actions. Plans meter AI usage, not builds.",
+    "url": "https://marketbetter.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Questions about pricing",
+    "url": "https://marketbetter.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enrichment credits pay for external data lookups. Company found 1, email 2, LinkedIn profile 2, person found 2, phone 3, company enrichment 3, pre-meeting deep research 3, Sales Navigator export 0.25 per contact. Web page scraping is free, and lookups through data providers you already pay for are never charged.",
+    "url": "https://marketbetter.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We notify you at 80% and 100%. Nothing is charged beyond your plan unless you approve it. You can add AI capacity or enrichment credits at any time using the sliders above.",
+    "url": "https://marketbetter.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "As many as you need. Every plan includes unlimited users, including reps, managers, marketing, admins and contractor SDRs. You pay for usage, not seats.",
+    "url": "https://marketbetter.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Guided onboarding is included in Growth and hands-on onboarding in Scale. Enterprise implementations with custom CRM field mapping and dedicated sending infrastructure have a one-time $4,500 setup fee. SSO/SAML, MFA enforcement and role-based access setup is a one-time $1,200.",
+    "url": "https://marketbetter.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Are these monthly or annual prices?",
+    "url": "https://marketbetter.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The prices shown are monthly equivalents on an annual agreement. Growth is $11,988 per year and Scale is $29,988 per year before add-ons. Taxes are additional where applicable.",
+    "url": "https://marketbetter.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Marketing, Hologram",
+    "url": "https://marketbetter.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Kajeet turned website visits into 14 new enterprise opportunities in its first quarter",
+    "url": "https://marketbetter.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "floLIVE found 171 target accounts on its website and new prospects every week",
+    "url": "https://marketbetter.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "prioritized prospect signals each week",
+    "url": "https://marketbetter.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "BlueRock created $90K+ in pipeline in 2026 by giving technical buyers useful content first",
+    "url": "https://marketbetter.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Ramen built pipeline with a warehouse operator that wanted product tracking without trenching",
+    "url": "https://marketbetter.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Marketing, Hologram",
+    "url": "https://marketbetter.ai/case-studies/hologram",
+    "pass": 1
+   },
+   {
+    "quote": "The sales team covers the US, EMEA and other regions. Marketing, BDRs, account executives and RevOps all share that territory, and Salesforce holds the account and opportunity records.",
+    "url": "https://marketbetter.ai/case-studies/hologram",
+    "pass": 1
+   },
+   {
+    "quote": "None of it came together around a single account. A website visit showed up in one tool, while contact research and outreach sat in others. Jonathan Rosenfeld, who leads marketing, wanted his sellers spending their time in conversations and less of it gathering what they needed to start one.",
+    "url": "https://marketbetter.ai/case-studies/hologram",
+    "pass": 1
+   },
+   {
+    "quote": "One of our reps got a positive reply fourteen minutes into my SKO presentation — from a sequence running in the background while he sat in the room.",
+    "url": "https://marketbetter.ai/case-studies/hologram",
+    "pass": 1
+   },
+   {
+    "quote": "Jonathan Rosenfeld · Head of Marketing, Hologram",
+    "url": "https://marketbetter.ai/case-studies/hologram",
+    "pass": 1
+   },
+   {
+    "quote": "Putting it into practice",
+    "url": "https://marketbetter.ai/case-studies/hologram",
+    "pass": 1
+   },
+   {
+    "quote": "The same process for outbound lists, calls and events",
+    "url": "https://marketbetter.ai/case-studies/hologram",
+    "pass": 1
+   },
+   {
+    "quote": "BDRs build outbound audiences from uploaded lists, CRM imports and Sales Navigator searches pulled in through the Chrome extension. MarketBetter researches each prospect and writes personalized email sequences. One campaign aimed at rural mobile operators went to about 2,000 contacts and got 55 replies.",
+    "url": "https://marketbetter.ai/case-studies/hologram",
+    "pass": 1
+   },
+   {
+    "quote": "Calling works the same way, with prepared scripts, call scoring and follow-up tasks. The team also used exhibitor lists to book meetings around conferences it didn’t attend in person.",
+    "url": "https://marketbetter.ai/case-studies/hologram",
+    "pass": 1
+   },
+   {
+    "quote": "The whole team adopted it. At Hologram’s sales kickoff (SKO), Jonathan presented MarketBetter as part of the GTM strategy. While he was presenting, a sequence running in the background landed a positive reply for a rep sitting in the audience.",
+    "url": "https://marketbetter.ai/case-studies/hologram",
+    "pass": 1
+   },
+   {
+    "quote": "Over $4M in new opportunity, and a process the team repeats",
+    "url": "https://marketbetter.ai/case-studies/hologram",
+    "pass": 1
+   },
+   {
+    "quote": "Inbound follow-up, outbound campaigns and champion alerts now run through one place. When marketing flags an account, the BDR gets it with the research done, the owner set and the outreach drafted.",
+    "url": "https://marketbetter.ai/case-studies/hologram",
+    "pass": 1
+   },
+   {
+    "quote": "Kajeet turned website visits into 14 new enterprise opportunities in its first quarter",
+    "url": "https://marketbetter.ai/case-studies/hologram",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Marketing, LevelBlue",
+    "url": "https://marketbetter.ai/case-studies/levelblue",
+    "pass": 1
+   },
+   {
+    "quote": "persona-matched prospect lookup wired in for one-click outreach",
+    "url": "https://marketbetter.ai/case-studies/levelblue",
+    "pass": 1
+   },
+   {
+    "quote": "Security services sold to enterprises and through partners",
+    "url": "https://marketbetter.ai/case-studies/levelblue",
+    "pass": 1
+   },
+   {
+    "quote": "LevelBlue sells cybersecurity services and technology: managed detection and response, network security, consulting and its USM platform. It sells to enterprise buyers directly and through managed security service provider partners.",
+    "url": "https://marketbetter.ai/case-studies/levelblue",
+    "pass": 1
+   },
+   {
+    "quote": "The two groups read different parts of the website. Product pages tell an enterprise seller what an account cares about, while partner-program research matters more to a channel account manager.",
+    "url": "https://marketbetter.ai/case-studies/levelblue",
+    "pass": 1
+   },
+   {
+    "quote": "Only a small share of visitors ever filled out a form. Marketing was bringing in the right organizations, but sellers had no view of who they were or what they were reading.",
+    "url": "https://marketbetter.ai/case-studies/levelblue",
+    "pass": 1
+   },
+   {
+    "quote": "Preparing for an account also meant checking several places. Sales-enablement material sat in Binder, and account history and other context lived elsewhere. The team needed that information within easy reach and a way to know when a target account was showing interest.",
+    "url": "https://marketbetter.ai/case-studies/levelblue",
+    "pass": 1
+   },
+   {
+    "quote": "Among the accounts that surfaced were a large equipment-rental company with visits from several locations and a managed security partner reading up on the channel program. Persona definitions and ZoomInfo lookup helped find the right contacts.",
+    "url": "https://marketbetter.ai/case-studies/levelblue",
+    "pass": 1
+   },
+   {
+    "quote": "At the same time, LevelBlue set up a Microsoft Teams assistant trained on Binder material and its public website. Sellers could ask it which accounts had visited, or ask product questions, without leaving the tool they already used.",
+    "url": "https://marketbetter.ai/case-studies/levelblue",
+    "pass": 1
+   },
+   {
+    "quote": "Jenny Galinski · Marketing, LevelBlue",
+    "url": "https://marketbetter.ai/case-studies/levelblue",
+    "pass": 1
+   },
+   {
+    "quote": "Putting it into practice",
+    "url": "https://marketbetter.ai/case-studies/levelblue",
+    "pass": 1
+   },
+   {
+    "quote": "The channel team could use partner-program activity to prepare for a conversation with an MSSP. Direct sellers could see which topics an enterprise account was researching and pull up the sales material to match.",
+    "url": "https://marketbetter.ai/case-studies/levelblue",
+    "pass": 1
+   },
+   {
+    "quote": "A seller can start by asking whether a named account has visited recently and what it looked at. The assistant pulls that together with product and pricing information, so the seller does less digging.",
+    "url": "https://marketbetter.ai/case-studies/levelblue",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing now sees which accounts are engaging, and sales has a practical way to prepare. The planned CRM and outreach integrations would build on that.",
+    "url": "https://marketbetter.ai/case-studies/levelblue",
+    "pass": 1
+   },
+   {
+    "quote": "BlueRock created $90K+ in pipeline in 2026 by giving technical buyers useful content first",
+    "url": "https://marketbetter.ai/case-studies/levelblue",
+    "pass": 1
+   },
+   {
+    "quote": "Ramen built pipeline with a warehouse operator that wanted product tracking without trenching",
+    "url": "https://marketbetter.ai/case-studies/levelblue",
+    "pass": 1
+   },
+   {
+    "quote": "As CEO, I care about speed to lead and pipeline efficiency. MarketBetter helped our SDRs respond faster, prioritize warm accounts, and keep every touch logged without extra admin work.",
+    "url": "https://marketbetter.ai/book-demo?intent=pricing&plan=growth",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Find manufacturers hiring Aruba or Cisco wireless engineers",
+    "url": "https://marketbetter.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Ramen built pipeline with a warehouse operator that wanted product tracking without trenching",
+    "url": "https://marketbetter.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "created for an industrial account",
+    "url": "https://marketbetter.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Hologram sells cellular connectivity for IoT devices deployed around the world. Its customers range from fleet operators and agricultural technology companies to industrial manufacturers and EV charging businesses. To pitch any of them well, a rep has to know what the company is building and where it operates.",
+    "url": "https://marketbetter.ai/case-studies/hologram",
+    "pass": 1
+   },
+   {
+    "quote": "BDRs build outbound audiences from uploaded lists, CRM imports and Sales Navigator searches pulled in through the Chrome extension. MarketBetter researches each prospect and writes personalized email sequences. One campaign aimed at rural mobile operators went to about 2,000 contacts and got 55 replies.",
+    "url": "https://marketbetter.ai/case-studies/hologram",
+    "pass": 1
+   },
+   {
+    "quote": "Ramen built pipeline with a warehouse operator that wanted product tracking without trenching",
+    "url": "https://marketbetter.ai/case-studies/levelblue",
+    "pass": 1
+   },
+   {
+    "quote": "created for an industrial account",
+    "url": "https://marketbetter.ai/case-studies/levelblue",
+    "pass": 1
+   },
+   {
+    "quote": "Ramen builds pipeline for warehouse tracking with MarketBetter",
+    "url": "https://www.casestudies.com/company/marketbetter",
+    "pass": 3
+   },
+   {
+    "quote": "A Warehouse and Outdoor-yard Operator",
+    "url": "https://www.casestudies.com/company/marketbetter",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/marketbetter/case-studies",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Outreach agent: writes email and LinkedIn from real signals",
+    "url": "https://marketbetter.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Email, LinkedIn and phone from one queue",
+    "url": "https://marketbetter.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Every email and LinkedIn message is personalized. My team can focus on selling.",
+    "url": "https://marketbetter.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "One platform to spot buying signals, research accounts, and run outreach across email, LinkedIn and phone. Unlimited users on every plan.",
+    "url": "https://marketbetter.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "300M AI credits per month: ~4,000 signals analyzed and ~4,000 emails or LinkedIn messages",
+    "url": "https://marketbetter.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Work emails, phone numbers, LinkedIn profiles and company data from MarketBetter enrichment.",
+    "url": "https://marketbetter.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Email and LinkedIn outreach",
+    "url": "https://marketbetter.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "≈ 4,000 signals analyzed and 4,000 emails or LinkedIn messages a month. $250/mo per 100M.",
+    "url": "https://marketbetter.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "750M AI credits per month: ~10,000 signals analyzed and ~10,000 emails or LinkedIn messages",
+    "url": "https://marketbetter.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "≈ 10,000 signals analyzed and 10,000 emails or LinkedIn messages a month. $250/mo per 100M.",
+    "url": "https://marketbetter.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Branded caller-ID dialer and AI voicemail drops",
+    "url": "https://marketbetter.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Signal analysis, list research, email, LinkedIn, call briefs, meeting prep and the chatbot all run on your plan's AI credits. No per-channel limits and no per-seat fees.",
+    "url": "https://marketbetter.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Every email and LinkedIn message is personalized. My team can focus on selling.",
+    "url": "https://marketbetter.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enrichment credits pay for external data lookups. Company found 1, email 2, LinkedIn profile 2, person found 2, phone 3, company enrichment 3, pre-meeting deep research 3, Sales Navigator export 0.25 per contact. Web page scraping is free, and lookups through data providers you already pay for are never charged.",
+    "url": "https://marketbetter.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Hologram built $4M+ in new opportunity from email and LinkedIn sequences",
+    "url": "https://marketbetter.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Hologram wanted its BDRs spending their time in conversations with buyers. MarketBetter spots the accounts showing interest, researches them, sends each one to the right regional BDR and drafts the email and LinkedIn sequences. Hologram credits those sequences with over $4M in new opportunity.",
+    "url": "https://marketbetter.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Between our email and LinkedIn sequences, MarketBetter has created over $4M in new opportunity for us. Every BDR gets a task the moment a signal fires — the system does the research, my team does the selling.",
+    "url": "https://marketbetter.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "in new opportunity from email and LinkedIn sequences",
+    "url": "https://marketbetter.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Parks Associates swapped hand-built emails for personalized outreach to 377 energy-sector contacts",
+    "url": "https://marketbetter.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "QX Global Group researches each target company before the first sales email goes out",
+    "url": "https://marketbetter.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "emails sent in July–August 2026",
+    "url": "https://marketbetter.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Hologram built $4M+ in new opportunity from email and LinkedIn sequences — MarketBetter",
+    "url": "https://marketbetter.ai/case-studies/hologram",
+    "pass": 1
+   },
+   {
+    "quote": "Hologram built $4M+ in new opportunity from email and LinkedIn sequences",
+    "url": "https://marketbetter.ai/case-studies/hologram",
+    "pass": 1
+   },
+   {
+    "quote": "Hologram wanted its BDRs spending their time in conversations with buyers. MarketBetter spots the accounts showing interest, researches them, sends each one to the right regional BDR and drafts the email and LinkedIn sequences. Hologram credits those sequences with over $4M in new opportunity.",
+    "url": "https://marketbetter.ai/case-studies/hologram",
+    "pass": 1
+   },
+   {
+    "quote": "Between our email and LinkedIn sequences, MarketBetter has created over $4M in new opportunity for us. Every BDR gets a task the moment a signal fires — the system does the research, my team does the selling.",
+    "url": "https://marketbetter.ai/case-studies/hologram",
+    "pass": 1
+   },
+   {
+    "quote": "in new opportunity created via MarketBetter email and LinkedIn sequences",
+    "url": "https://marketbetter.ai/case-studies/hologram",
+    "pass": 1
+   },
+   {
+    "quote": "Hologram already had an outbound stack: Clay for lists, SmartLead for email delivery, Warmly for visitor identification and Gong Engage for sequences. Someone also had to keep nearly 20 sending domains running.",
+    "url": "https://marketbetter.ai/case-studies/hologram",
+    "pass": 1
+   },
+   {
+    "quote": "BDRs build outbound audiences from uploaded lists, CRM imports and Sales Navigator searches pulled in through the Chrome extension. MarketBetter researches each prospect and writes personalized email sequences. One campaign aimed at rural mobile operators went to about 2,000 contacts and got 55 replies.",
+    "url": "https://marketbetter.ai/case-studies/hologram",
+    "pass": 1
+   },
+   {
+    "quote": "from MarketBetter email and LinkedIn sequences. The figure measures opportunity value in the pipeline.",
+    "url": "https://marketbetter.ai/case-studies/hologram",
+    "pass": 1
+   },
+   {
+    "quote": "emails sent in July–August 2026",
+    "url": "https://marketbetter.ai/case-studies/levelblue",
+    "pass": 1
+   },
+   {
+    "quote": "The rollout started with the data. MarketBetter checked each record for email deliverability, added LinkedIn details and sorted contacts into five buyer personas.",
+    "url": "https://marketbetter.ai/case-studies/connectbase",
+    "pass": 1
+   },
+   {
+    "quote": "With the personas in place, the team could write outreach that fit each buyer. Reps got personalized email sequences and could prospect on LinkedIn through the Chrome extension, working the same contacts marketing had prepared.",
+    "url": "https://marketbetter.ai/case-studies/connectbase",
+    "pass": 1
+   },
+   {
+    "quote": "Our reps can knock out their entire day's outreach in about an hour. The platform handles the research, writes the email, verifies the address, and logs everything back to the CRM automatically.",
+    "url": "https://marketbetter.ai/case-studies/connectbase",
+    "pass": 1
+   },
+   {
+    "quote": "Each week, marketing put together contact batches and messaging for each segment. Reps worked from that shared audience instead of rebuilding their own lists, and followed up by email, LinkedIn and phone.",
+    "url": "https://marketbetter.ai/case-studies/connectbase",
+    "pass": 1
+   },
+   {
+    "quote": "Signals added website visits, intent scores and ready-to-send email tasks to each rep’s day, with company details and, where available, the person behind the visit. Everything synced to the CRM, so the campaign history stayed visible to the whole team.",
+    "url": "https://marketbetter.ai/case-studies/connectbase",
+    "pass": 1
+   },
+   {
+    "quote": "QX Global Group researches each target company before the first sales email goes out — MarketBetter",
+    "url": "https://marketbetter.ai/case-studies/qx-global-group",
+    "pass": 1
+   },
+   {
+    "quote": "QX Global Group researches each target company before the first sales email goes out",
+    "url": "https://marketbetter.ai/case-studies/qx-global-group",
+    "pass": 1
+   },
+   {
+    "quote": "QX sells into small, hand-picked groups of companies in specialized industries. MarketBetter helped turn those lists into enriched audiences and personalized email sequences, starting with 162 Senior Living contacts and later adding event and regional finance-buyer campaigns.",
+    "url": "https://marketbetter.ai/case-studies/qx-global-group",
+    "pass": 1
+   },
+   {
+    "quote": "QX had to tell apart buyer groups that look alike on paper, such as finance leaders at multifamily housing companies and finance leaders in other residential markets. Broad intent categories and generic emails tend to blur that line.",
+    "url": "https://marketbetter.ai/case-studies/qx-global-group",
+    "pass": 1
+   },
+   {
+    "quote": "The campaign paired a research agent with a four-touch email sequence. Before writing anything, the agent looked at each company for likely finance and accounting problems: a slow close process, complicated reporting, heavy AP/AR work, staffing pressure. The opening lines drew on what it found.",
+    "url": "https://marketbetter.ai/case-studies/qx-global-group",
+    "pass": 1
+   },
+   {
+    "quote": "The team set up AI Context with QX’s target markets, use cases and answers to common objections. Every email draft and every fit check drew on that same brief, so different campaigns described the business the same way.",
+    "url": "https://marketbetter.ai/case-studies/qx-global-group",
+    "pass": 1
+   },
+   {
+    "quote": "By September 2026, campaign records showed event and regional finance-buyer outreach, with 456 sent or replied email entries across 325 recipients. Those numbers count activity. They are not revenue.",
+    "url": "https://marketbetter.ai/case-studies/qx-global-group",
+    "pass": 1
+   },
+   {
+    "quote": "emails sent in July–August 2026",
+    "url": "https://marketbetter.ai/case-studies/qx-global-group",
+    "pass": 1
+   },
+   {
+    "quote": "marketbetterinfo@gmail.com",
+    "url": "https://www.marketbetter.info/",
+    "pass": 3
+   },
+   {
+    "quote": "Reps enrolled them in outreach anyway, and real prospects got \"congratulations on the new role\" emails for jobs they took in 2018.",
+    "url": "https://marketbetter.ai/blog/",
+    "pass": 3
+   },
+   {
+    "quote": "That's not a warm signal. That's a cold email with a timestamp problem, sent to the exact person whose goodwill you could least afford to burn.",
+    "url": "https://marketbetter.ai/blog/",
+    "pass": 3
+   },
+   {
+    "quote": "So we changed how the whole pipeline works. As of November 3, a detected champion move becomes a signal — with outreach, owner routing, and email lookup —",
+    "url": "https://marketbetter.ai/blog/",
+    "pass": 3
+   },
+   {
+    "quote": "Most of our customers sell globally. IoT connectivity deals in Germany and Japan, EHS compliance deals across five European markets, logistics deals in Brazil. Their buyers read email in their own language — and reply rates show it.",
+    "url": "https://marketbetter.ai/blog/",
+    "pass": 3
+   },
+   {
+    "quote": "control. Pick German, and the campaign's emails are generated in German. All of them. Every touch, every follow-up, for every contact on the list.",
+    "url": "https://marketbetter.ai/blog/",
+    "pass": 3
+   },
+   {
+    "quote": "\"Can I get your email so the team can follow up?\"",
+    "url": "https://marketbetter.ai/blog/",
+    "pass": 3
+   },
+   {
+    "quote": "Outbound personalization has a last-mile problem. Teams spend real money personalizing the email — the signal, the opener, the proof point — and then the click lands on the same generic homepage every other prospect sees. The one moment a buyer voluntarily gives you their attention, you hand them the brochure.",
+    "url": "https://marketbetter.ai/blog/",
+    "pass": 3
+   },
+   {
+    "quote": "And because a web page is public in a way an email never is, every page passes a human review gate before it goes live. More on that below — it's the part we sweated most.",
+    "url": "https://marketbetter.ai/blog/",
+    "pass": 3
+   },
+   {
+    "quote": "A loop emails a non-responder only when a genuinely new update fits them, and a second AI can veto any send.",
+    "url": "https://marketbetter.ai/blog/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/marketbetter/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/marketbetter/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "MarketBetter is a B2B GTM automation platform that converts website and LinkedIn intent signals into daily SDR task lists, combining email automation, AI chatbot, smart dialer, and CRM auto-logging. Launched in Summer 2025, it targets fast-growing B2B sales teams seeking to replace manual prospecting workflows with autonomous AI agents.",
+    "url": "https://kustiq.com/company/marketbetter.ai",
+    "pass": 3
+   },
+   {
+    "quote": "The structured fields come from a hybrid pipeline. Facts (location, employee range, funding, tech stack) come from live web rendering plus targeted web search across the company site, LinkedIn, press, and GitHub. Claude only picks the buckets: vertical, segment, growth signal. It never decides facts. Contact emails on full profiles pass an SMTP RCPT TO handshake at delivery time.",
+    "url": "https://kustiq.com/company/marketbetter.ai",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Add your whole revenue team without seat math.",
+    "url": "https://marketbetter.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "When an ICP account shows up, MarketBetter creates a task for the BDR who owns that territory: EMEA, US and Canada, or the rest of the world. The task arrives with enriched contact details and a drafted sequence, so the rep knows what to do next.",
+    "url": "https://marketbetter.ai/case-studies/hologram",
+    "pass": 1
+   },
+   {
+    "quote": "The whole team adopted it. At Hologram’s sales kickoff (SKO), Jonathan presented MarketBetter as part of the GTM strategy. While he was presenting, a sequence running in the background landed a positive reply for a rep sitting in the audience.",
+    "url": "https://marketbetter.ai/case-studies/hologram",
+    "pass": 1
+   },
+   {
+    "quote": "Powering revenue teams with AI-driven efficiency",
+    "url": "https://marketbetter.ai/book-demo?intent=pricing&plan=growth",
+    "pass": 1
+   },
+   {
+    "quote": "Powering revenue teams with AI-driven efficiency",
+    "url": "https://marketbetter.ai/book-demo?intent=pricing&plan=scale",
+    "pass": 1
+   },
+   {
+    "quote": "Powering revenue teams with AI-driven efficiency",
+    "url": "https://marketbetter.ai/book-demo?intent=pricing&plan=one-to-one-abm",
+    "pass": 1
+   },
+   {
+    "quote": "What those signals are worth in revenue depends on the conversations that follow.",
+    "url": "https://marketbetter.ai/case-studies/healthcare-it-leaders",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Operations, Connectbase",
+    "url": "https://marketbetter.ai/case-studies/connectbase",
+    "pass": 1
+   },
+   {
+    "quote": "When Connectbase acquired CloudAge, the same enrichment process gave the team a ready way to bring a new set of contacts on board. The lasting change is a weekly handoff: marketing prepares, and sellers act on it.",
+    "url": "https://marketbetter.ai/case-studies/connectbase",
+    "pass": 1
+   },
+   {
+    "quote": "QX Global Group is a business-process management company headquartered in the UK, with about 3,000 employees. It works in accounting, real estate, staffing and insurance.",
+    "url": "https://marketbetter.ai/case-studies/qx-global-group",
+    "pass": 1
+   },
+   {
+    "quote": "By September 2026, campaign records showed event and regional finance-buyer outreach, with 456 sent or replied email entries across 325 recipients. Those numbers count activity. They are not revenue.",
+    "url": "https://marketbetter.ai/case-studies/qx-global-group",
+    "pass": 1
+   },
+   {
+    "quote": "A campaign process that fits a narrow market",
+    "url": "https://marketbetter.ai/case-studies/qx-global-group",
+    "pass": 1
+   },
+   {
+    "quote": "Built for existing MarketBetter customers, the app helps SDRs and revenue teams:",
+    "url": "https://apps.apple.com/jp/app/marketbetter/id6797720213",
+    "pass": 3
+   },
+   {
+    "quote": "Here's the part of the story nobody leads with: most of the \"job changes\" these systems detect aren't new. They're old news your CRM was too stale to notice.",
+    "url": "https://marketbetter.ai/blog/",
+    "pass": 3
+   },
+   {
+    "quote": "the architecture for Agentic Revenue",
+    "url": "https://marketbetter.ai/blog/",
+    "pass": 3
+   },
+   {
+    "quote": "Salesloft is the provider of the leading sales engagement platform that helps sellers and sales teams drive more revenue. The Modern Revenue Workspace™ by Salesloft is the one place for …",
+    "url": "https://www.featuredcustomers.com/vendor/marketbetter/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Warmly helps your revenue team spot in-market opportunities sooner. Progress them faster. And hit your pipeline goals quarter after quarter. Their AI Warm Leads Platform illuminates your pipeline by monitoring …",
+    "url": "https://www.featuredcustomers.com/vendor/marketbetter/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/marketbetter/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "MarketBetter: Industry, Employees, Funding | Kustiq",
+    "url": "https://kustiq.com/company/marketbetter.ai",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does MarketBetter have?",
+    "url": "https://kustiq.com/company/marketbetter.ai",
+    "pass": 3
+   },
+   {
+    "quote": "MarketBetter has 11-50 employees, based on public sources read at the last profile run. That makes it larger than 29% of the 159 profiled MarTech Vendor peers with a known team size.",
+    "url": "https://kustiq.com/company/marketbetter.ai",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Konvertly は、AI を活用したリード獲得およびアウトバウンド自動化プラットフォームであり、営業チーム、個人事業主、代理店が、確認済みの意思決定者を見つけ、パーソナライズされたメールを作成し、フォローアップを自動化し、CRM なしで商談を設定できるよう支援します",
+    "url": "https://aimyflow.com/ja/ai/marketbetter-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Most of our customers sell globally. IoT connectivity deals in Germany and Japan, EHS compliance deals across five European markets, logistics deals in Brazil. Their buyers read email in their own language — and reply rates show it.",
+    "url": "https://marketbetter.ai/blog/",
+    "pass": 3
+   },
+   {
+    "quote": "Czech, Dutch, French, German, Greek, Hungarian, Italian, Japanese, Korean, Polish, Portuguese (Brazilian and European), Romanian, Spanish (Castilian and Latin American), Turkish, and Ukrainian.",
+    "url": "https://marketbetter.ai/blog/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "AI-native ABM platform | MarketBetter — MarketBetter identifies the companies on your website, finds the accounts showing intent, and uses AI to research them and write the outreach, so every target account gets worked.",
+    "url": "https://marketbetter.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "MarketBetter | 意図に基づく、毎日のSDRプレイブック | Aimyflow — Mar 23, 2026 · MarketBetterは、営業開発担当者（SDR）が連絡すべき企業を特定し、アプローチ手順を選定し、Webサイト訪問者シグナル、メール、電話発信、CRMデータを活用してフォローアップを自動化できる、インテント主導型のSDRプラットフォームです。",
+    "url": "https://aimyflow.com/ja/ai/marketbetter-ai",
+    "pass": 3
+   },
+   {
+    "quote": "MarketBetter — This project won't work without you - the vendor community! Our ask is simple - less than 15 minutes of your time up front and then 5 minutes after any event you participate in. It's that easy! In exchange, you'll get priceless information to help you find new events, set strong goals for your business and see how you stack up in the market. Here's how it works.",
+    "url": "https://www.marketbetter.info/",
+    "pass": 3
+   },
+   {
+    "quote": "Turn buying signals into pipeline | MarketBetter — Customer acquisition without the cost. MarketBetter turns website and LinkedIn buying signals into a ranked daily sales playbook, so your team knows who to contact and what to say next.",
+    "url": "https://marketbetter.ai/login",
+    "pass": 3
+   },
+   {
+    "quote": "MarketBetterアプリ - App Store — Iybiz Holdingsの「MarketBetter」をApp Storeでダウンロードしてください。 スクリーンショット、評価とレビュー、ユーザのヒント、「MarketBetter」に似たゲームを見ることなどができます。",
+    "url": "https://apps.apple.com/jp/app/marketbetter/id6797720213",
+    "pass": 3
+   },
+   {
+    "quote": "MarketBetter Blog | Blog | MarketBetter — 6 days ago · Learn about AI-powered sales, marketing automation, and customer acquisition strategies from the MarketBetter team.",
+    "url": "https://marketbetter.ai/blog/",
+    "pass": 3
+   },
+   {
+    "quote": "AI-native ABM platform | MarketBetter — Scores every visit, hire and mention, routes it to the right rep and explains why now. Turns anonymous traffic into named companies and people, with the pages they read. Describe the accounts you want. It finds them, finds the people and answers your questions about each one.",
+    "url": "https://marketbetter.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Marketbetter B2B Case Studies & Customer Successes — See how Marketbetter solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/marketbetter",
+    "pass": 3
+   },
+   {
+    "quote": "3 Marketbetter Case Studies, Success Stories, & Customer ... — Narrow down 3 case studies by company size & industry to find out how Marketbetter works for a business like yours.",
+    "url": "https://www.featuredcustomers.com/vendor/marketbetter/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "7 posts tagged with \"case-study\" | Blog | MarketBetter — They read your case studies. They check your pricing page. Then they leave — and your sales team never knows they existed. For most utility tech vendors, 95% of website traffic is invisible. That's not a rounding error. That's your pipeline walking out the door.",
+    "url": "https://marketbetter.ai/blog/tags/case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Market Better — Company Profile, 1 Acquisitions & Funding — Market Better company profile with 1 acquisitions, HQ in Bryn Mawr, United States, founded 2019. Explore its acquisitions, funding rounds, investors, key people and contacts on Acquirezy — updated 2026.",
+    "url": "https://acquirezy.com/organization/market-better",
+    "pass": 3
+   },
+   {
+    "quote": "MarketBetter: Industry, Employees, Funding | Kustiq — MarketBetter is a B2B GTM automation platform that converts website and LinkedIn intent signals into daily SDR task lists, combining email automation, AI chatbot, smart dialer, and CRM auto-logging.",
+    "url": "https://kustiq.com/company/marketbetter.ai",
+    "pass": 3
+   },
+   {
+    "quote": "MarketBetter - Crunchbase Company Profile & Funding — MarketBetter is a B2B sales intelligence platform that helps Sales Development Representatives prioritize prospects and accelerate pipeline generation. The platform combines champion job change tracking, website visitor intelligence, and AI-powered outreach automation to identify high-intent buyers at the right moment.",
+    "url": "https://www.crunchbase.com/organization/marketbetter",
+    "pass": 3
+   },
+   {
+    "quote": "Market Better - Crunchbase Company Profile & Funding — Market Better is located in Bryn Mawr, Pennsylvania, United States. Market Better builds an audience through education and expandns into a full-service growth marketing engine.",
+    "url": "https://www.crunchbase.com/organization/market-better",
+    "pass": 3
+   },
+   {
+    "quote": "Market Better - Products, Competitors, Financials, Employees ... — Apr 23, 2026 · Market Better has spent years building one of the most trusted audiences in B2B marketing, bringing together CMOs, growth leaders, and operators for real conversations about what's actually working.",
+    "url": "https://www.cbinsights.com/company/market-better",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "The folks over at marketbetter dot AI would like you to know ... The folks over at marketbetter dot AI would like you to know that they spared every expense on their image generation model choices. Rest assured these are the only corners they're cutting and you can safely upload all your customer data to them during your free trial. https://t.co/5rjAFzjB5l",
+    "url": "https://x.com/gridpane/status/2054240800762953925",
+    "pass": 3
+   },
+   {
+    "quote": "Just watched an SDR use the marketbetter MCP to research and ... Just watched an SDR use the marketbetter MCP to research and personalize 200 outbound email + voicemail + linkedin messages in under an hour. Each one felt hand-crafted.",
+    "url": "https://x.com/talk2sunder/status/2061962191884923286",
+    "pass": 3
+   },
+   {
+    "quote": "McDonald’s doesn’t make the best hamburgers, but they sell ... Patrick Schimelfenig (@SchimelfenigP). McDonald’s doesn’t make the best hamburgers, but they sell the most #foodforthought #marketbetter #wordofmouth",
+    "url": "https://x.com/SchimelfenigP/status/986315643145392129",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Safa Rasheed - Social Media Marketing Expert at marketbetter ... Social Media Marketing Expert at marketbetter (mb)ᵃⁱ · Experience: marketbetter (mb)ᵃⁱ · Location: Bahawalnagar · 1 connection on LinkedIn. View Safa Rasheed’s profile on LinkedIn, a...",
+    "url": "https://pk.linkedin.com/in/safa-rasheed-a69387412",
+    "pass": 3
+   },
+   {
+    "quote": "AI-native ABM platform | MarketBetter | Sunder S. Starting today, with marketbetter.ai , our customers will be be able to dramatically increase their lead velocity with chatbot, lead enrichment, content and scheduling all enabled and made much...",
+    "url": "https://pe.linkedin.com/posts/talk2sunder_30-more-leads-in-two-weeks-with-ai-chatbot-activity-7195885928253382656-sUnm",
+    "pass": 3
+   },
+   {
+    "quote": "Lynda Howe - Client Success Manager at MarketBetter - LinkedIn Client Success Manager at MarketBetter | Helping doctors get more patients without the time commitment · I breathe color and form to tell stories that resonate with global audiences.",
+    "url": "https://uk.linkedin.com/in/lynda-howe-5b217341b",
+    "pass": 3
+   },
+   {
+    "quote": "I made a ton of mistakes with marketbetter.ai But I am glad ... I made a ton of mistakes with marketbetter.ai But I am glad that I did. The only parameter for success for any product is if your customers love it. We rolled out so many features and had to...",
+    "url": "https://pe.linkedin.com/posts/talk2sunder_i-made-a-ton-of-mistakes-with-marketbetterai-activity-7235295297592020992-xgj8",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://marketbetter.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketbetter.ai/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketbetter.ai/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketbetter.ai/case-studies/hologram",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketbetter.ai/case-studies/levelblue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketbetter.ai/book-demo?intent=pricing&plan=growth",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketbetter.ai/book-demo?intent=pricing&plan=scale",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketbetter.ai/book-demo?intent=pricing&plan=one-to-one-abm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketbetter.ai/case-studies/healthcare-it-leaders",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketbetter.ai/case-studies/connectbase",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketbetter.ai/case-studies/qx-global-group",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://marketbetter.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aimyflow.com/ja/ai/marketbetter-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marketbetter.info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.proofpoint.com/jp/blog/cyberthreats/dmarc-adoption-industry-japan-us-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/yamamoto_ec/n/nd3b3890ee728",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketbetter.ai/login",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apps.apple.com/jp/app/marketbetter/id6797720213",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.markettojapan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketbetter.ai/blog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/marketbetter",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketbetter.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/marketbetter/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketbetter.ai/blog/tags/case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://acquirezy.com/organization/market-better",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://kustiq.com/company/marketbetter.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/marketbetter",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/market-better",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/gridpane/status/2054240800762953925",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/talk2sunder/status/2061962191884923286",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SchimelfenigP/status/986315643145392129",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pk.linkedin.com/in/safa-rasheed-a69387412",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pe.linkedin.com/posts/talk2sunder_30-more-leads-in-two-weeks-with-ai-chatbot-activity-7195885928253382656-sUnm",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/lynda-howe-5b217341b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pe.linkedin.com/posts/talk2sunder_i-made-a-ton-of-mistakes-with-marketbetterai-activity-7235295297592020992-xgj8",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "MarketBetter 日本 導入",
+   "results": [
+    "https://marketbetter.ai/",
+    "https://aimyflow.com/ja/ai/marketbetter-ai",
+    "https://www.marketbetter.info/",
+    "https://www.proofpoint.com/jp/blog/cyberthreats/dmarc-adoption-industry-japan-us-2026",
+    "https://note.com/ai_labo26/n/nb6bdbf2c36a2",
+    "https://kpmg.com/jp/ja/insights/2026/08/interview-coupa-procurement.html",
+    "https://1-president.com/services-japan-absence/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MarketBetter 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://note.com/yamamoto_ec/n/nd3b3890ee728",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "https://japan.marketone.com/about",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MarketBetter Japan",
+   "results": [
+    "https://marketbetter.ai/login",
+    "https://apps.apple.com/jp/app/marketbetter/id6797720213",
+    "https://www.markettojapan.com/",
+    "https://marketbetter.ai/blog/",
+    "https://marketbetter.ai/",
+    "https://www.marketbetter.info/",
+    "https://www.marketbetter.xyz/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MarketBetter manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/marketbetter",
+    "https://marketbetter.ai/",
+    "https://www.featuredcustomers.com/vendor/marketbetter/case-studies",
+    "https://marketbetter.ai/blog/tags/case-study/",
+    "https://customermanufacturing.com/resources/case-studies/",
+    "https://themarketingagency.ca/blog/marketing-case-study-examples/",
+    "https://www.marketbetter.xyz/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MarketBetter white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://upcloud.com/partner-program/",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MarketBetter founded funding employees revenue",
+   "results": [
+    "https://acquirezy.com/organization/market-better",
+    "https://kustiq.com/company/marketbetter.ai",
+    "https://www.crunchbase.com/organization/marketbetter",
+    "https://www.crunchbase.com/organization/market-better",
+    "https://www.cbinsights.com/company/market-better",
+    "https://rocketreach.co/market-better-profile_b64486e8c80abedf",
+    "https://www.thecompanycheck.com/company/b/market-better/fdebe95b7a30422ca"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com MarketBetter",
+   "results": [
+    "https://note.com/pei_umapro",
+    "https://note.com/naozumi_co_jp/n/n61edc5ca99d9",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/better_equation/n/n060e43096bea?hl=en",
+    "https://note.com/rm131429/n/n97e57ea0bb41",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/moto_kinyu_fufu/n/nbf37a24905b2?hl=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com MarketBetter",
+   "results": [
+    "https://x.com/gridpane/status/2054240800762953925",
+    "https://x.com/talk2sunder/status/2061962191884923286",
+    "https://x.com/SchimelfenigP/status/986315643145392129",
+    "https://help.x.com/en/using-x/about-grok",
+    "https://x.com/LoopingCloud/status/2013257638717382856",
+    "https://business.x.com/en",
+    "https://x.com/NehharShah/status/2115900278272864616"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com MarketBetter",
+   "results": [
+    "https://pk.linkedin.com/in/safa-rasheed-a69387412",
+    "https://pe.linkedin.com/posts/talk2sunder_30-more-leads-in-two-weeks-with-ai-chatbot-activity-7195885928253382656-sUnm",
+    "https://uk.linkedin.com/in/lynda-howe-5b217341b",
+    "https://pe.linkedin.com/posts/talk2sunder_i-made-a-ton-of-mistakes-with-marketbetterai-activity-7235295297592020992-xgj8",
+    "https://www.linkedin.com/jobs/marketbetter-jobs",
+    "https://www.linkedin.com/company/marketbetter",
+    "https://www.linkedin.com/company/market-better2"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com MarketBetter",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "MarketBetter note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://marketbetter.ai/",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "MarketBetter X 投稿",
+   "results": [
+    "https://marketbetter.ai/",
+    "https://marketbetter.ai/login",
+    "https://marketbetter.ai/support",
+    "https://grokbot-zh.vercel.app/plugins/marketbetter/",
+    "https://grokbot.dev/plugins/marketbetter/",
+    "https://dev.marketbetter.ai/products/content",
+    "https://www.marketbetter.xyz/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部31頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部31頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

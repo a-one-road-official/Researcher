@@ -1,0 +1,507 @@
+{
+ "name": "ERVIN — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:powder-manufacturer",
+ "researched_at": "2026-11-09T23:54:22.722843+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookFacebookVoxelMatters on Reels - FacebookVoxelMatters spent two months... - Prusa Research 3D printers ...Ervin Cox (@ervin.cox.5) • Facebook, Connect with friendsErvin Pope - Facebook3DPrint.com - In #3DPrinting News Briefs, 3dpbm has... | Facebook Unlock the Future of Metal Additive Manufacturing with VoxelMatters! VoxelMatters Research has kicked off a pre-sale campaign fo",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/database/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/about/advertise/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dolphin-s.co.jp.siteindices.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://industrial.panasonic.com/jp/s-search/distributors",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.city.edogawa.tokyo.jp/shouhisya_center/keihatsu/0205netitiran3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edwin-mall.jp/shop/goods/search.aspx?stockpresence=A&search.x=true&select_item=9801&select_brand=2",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.festivalo.co.jp/goods/goods_detail.php?seq=475",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://creator.holoearth.com/shop/products/1021609",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kkday.com/ja/product/819497?srsltid=AYCX9vLNVbyVmMp2s4HLqdmx3MRmkT77xPABaE1B2iR1uX-4ghxsyAgC",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.poly-maker.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.exmatelab.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/database/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ir.velo3d.com/news-events/press-releases/detail/44/velo3d-expands-into-japan-signs-distribution-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/HP-office%E6%90%AD%E8%BC%89-Elitebook-windows11-%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E4%BB%98%E3%81%8D/dp/B0HJCL9YLY",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/STAR-%E3%83%9E%E3%83%B3%E3%83%80%E3%83%AD%E3%83%AA%E3%82%A2%E3%83%B3%E3%81%A8%E3%82%B0%E3%83%AD%E3%83%BC%E3%82%B0%E3%83%BC-%E3%81%84%E3%81%A3%E3%81%B1%E3%81%84%E8%B2%BC%E3%82%8C%E3%82%8B%EF%BC%81-%E3%83%9E%E3%83%AB%E3%83%81%E3%81%AA%E3%81%B5%E3%81%9B%E3%82%93%E3%82%BB%E3%83%83%E3%83%88-%E5%AE%9D%E5%B3%B6%E7%A4%BE%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E3%83%A0%E3%83%83%E3%82%AF/dp/4299083547",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/OMKUY-%E3%83%8A%E3%82%A4%E3%83%88%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97-%E3%83%8B%E3%83%83%E3%83%88%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97-%E3%82%B5%E3%82%A6%E3%83%8A%E3%83%8F%E3%83%83%E3%83%88-%E6%9F%94%E3%82%89%E3%81%8B%E3%81%84%E3%83%BB%E4%BC%B8%E7%B8%AE%E6%80%A7%E3%83%BB%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%83%BB%E7%84%A1%E5%9C%B0%E3%83%BB%E6%9A%96%E3%81%8B%E3%81%84/dp/B0GFMS2HNJ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/p/1766/2356/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/8948/7176/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/s/c-124371/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/01443980/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uk.linkedin.com/company/voxelmatters",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.report/database/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ERVIN — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/database/",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.com/about/advertise/",
+    "https://www.voxeljet.com/3d-parts-on-demand/",
+    "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.exone.com/en/about-us/locations/",
+    "https://www.connectpositronic.com/jp/%E4%BB%A3%E7%90%86%E5%BA%97/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "ERVIN — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://dolphin-s.co.jp.siteindices.com/",
+    "https://industrial.panasonic.com/jp/s-search/distributors",
+    "https://www.city.edogawa.tokyo.jp/shouhisya_center/keihatsu/0205netitiran3.html",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://vrcfinder.net/ja/",
+    "https://www.instagram.com/popular/pokemon-golf-headcovers/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ERVIN — VoxelMatters 日本 販売",
+   "results": [
+    "https://edwin-mall.jp/shop/goods/search.aspx?stockpresence=A&search.x=true&select_item=9801&select_brand=2",
+    "https://www.festivalo.co.jp/goods/goods_detail.php?seq=475",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://www.kkday.com/ja/product/819497?srsltid=AYCX9vLNVbyVmMp2s4HLqdmx3MRmkT77xPABaE1B2iR1uX-4ghxsyAgC",
+    "https://ja.aliexpress.com/item/1005008866748262.html",
+    "https://rtrp.jp/items/25059134/",
+    "https://nextlabs.space/jp/products/14793611",
+    "https://ja.aliexpress.com/item/1005007805445429.html",
+    "https://www.kkday.com/ja/product/835694?srsltid=AYCX9vIVdpviVRqcAMlKpcq3JRvCa3OgreopM1clU7y9Bh52r_R0pBX7",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "ERVIN — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.com/top-products/",
+    "https://skhonpo.com/",
+    "https://www.poly-maker.jp/",
+    "https://shop.exmatelab.com/",
+    "https://systemcreate-inc.co.jp/products/modular",
+    "https://www.matterhackers.com/store?srsltid=AYCX9vLjSNX1mb7RtzxeRYPi7H60ElSctBJDhqTS88zvuCxcGke9Qh5K",
+    "https://yxpolyer.com/ja",
+    "https://www.youtube.com/watch?v=d8JJGUR9hGM",
+    "https://search.rakuten.co.jp/search/mall/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/",
+    "https://fantist.com/articles/1092"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "ERVIN — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.voxelmatters.report/database/",
+    "https://www.exone.com/en/",
+    "https://www.upnano.com/distributors/",
+    "https://www.voxelmatters.group/",
+    "https://www.voxeljet.com/3d-parts-on-demand/",
+    "https://www.raise3d.com/reseller/",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "ERVIN — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://ir.velo3d.com/news-events/press-releases/detail/44/velo3d-expands-into-japan-signs-distribution-agreement",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://formlabs.com/company/press/formlabs-extends-global-presence-japan/",
+    "https://www.upnano.com/distributors/",
+    "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:amazon.co.jp ERVIN — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/HP-office搭載-Elitebook-windows11-日本語キーボード付き/dp/B0HJCL9YLY",
+    "https://r.amazon.co.jp/",
+    "https://www.amazon.co.jp/STAR-マンダロリアンとグローグー-いっぱい貼れる！-マルチなふせんセット-宝島社ブランドムック/dp/4299083547",
+    "https://www.amazon.co.jp/OMKUY-ナイトキャップ-ニットキャップ-サウナハット-柔らかい・伸縮性・シンプル・無地・暖かい/dp/B0GFMS2HNJ",
+    "https://www.amazon.co.jp/プレイマット-ベビープレイマット-シームレスプレイマット-マット【ホワイト-70x120】/dp/B0GR5FPNTM",
+    "https://www.amazon.co.jp/タカラトミー-トランスフォーマー-ctc技術実証機仕様-takara-tomy/dp/b0hq2t22vm",
+    "https://www.amazon.co.jp/ザ・グレイテスト-～モハメド・アリ、知られざる真実～-シーズン１/dp/B0HJDGSGPW"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com ERVIN — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/p/1766/2356/",
+    "https://www.monotaro.com/p/8948/7176/",
+    "https://www.monotaro.com/s/c-124371/",
+    "https://www.monotaro.com/g/01443980/",
+    "https://www.monotaro.com/p/2351/6788/",
+    "https://www.monotaro.com/g/00347026/",
+    "https://www.monotaro.com/g/02888691/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ERVIN — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://uk.linkedin.com/company/voxelmatters",
+    "https://www.voxelmatters.report/database/",
+    "https://www.voxelmatters.directory/",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://www.fabbaloo.com/news/voxelmatters-reveals-top-ten-polymer-3d-printing-companies-dominating-the-market",
+    "https://growjo.com/company/Ervin_Industries",
+    "https://www.voxelmatters.com/the-upside-down-of-polymer-additive-manufacturing/",
+    "https://revenuebase.ai/companies/3d-printing-and-additive-manufacturing-companies/united-states",
+    "https://open.endole.co.uk/insight/company/10417555-voxelmatters-ltd"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com ERVIN — VoxelMatters",
+   "results": [
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/natty_toucan386/n/n77decdd6e10f",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/tori_1980/n/n21037c205ade",
+    "https://note.com/sawady1815/n/ne270825bd78c"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com ERVIN — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/darkilingnaty/status/2116203949992694035",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/jocelynseip/status/2118260591680983528",
+    "https://x.com/TobinArts/status/2119691258050277419",
+    "https://x.com/_InfoGram_/status/2118253289573949943",
+    "https://x.com/DemocraticWins/status/2117994783016685719"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com ERVIN — VoxelMatters",
+   "results": [
+    "https://rs.linkedin.com/in/littlebag",
+    "https://es.linkedin.com/in/vicenteguzman",
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/pub/dir/davide/sher",
+    "https://uk.linkedin.com/in/federico-sher",
+    "https://www.linkedin.com/posts/voxelmatters_voxelmatters-polymer-am-focus-2025-ebook-activity-7325913599795769346-QYyd",
+    "https://www.linkedin.com/posts/voxelmatters_voxelmatters-consumer-am-focus-2025-ebook-activity-7315029440747454465-lSW3",
+    "https://www.linkedin.com/pub/dir/Shawn/Ervin",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7338097629962153986/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com ERVIN — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/",
+    "https://www.facebook.com/VoxelMatters/videos/2155326438344264/",
+    "https://www.facebook.com/PrusaResearch/posts/voxelmatters-spent-two-months-testing-the-prusa-core-one-l-and-described-it-as-a/948639757678088/",
+    "https://www.facebook.com/ervin.cox.5/",
+    "https://www.facebook.com/ervin.pope.1/",
+    "https://www.facebook.com/3dprintcom/posts/in-3dprinting-news-briefs-3dpbm-has-rebranded-to-voxelmatters-and-xaba-closed-a-/2229888943849297/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ERVIN — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/",
+    "https://www.voxelmatters.group/about/",
+    "https://www.voxelmatters.com/author/ben-oneill/",
+    "https://www.linkedin.com/posts/voxelmatters_additivemanufacturing-3dprinting-ebook-activity-7516128261437845504-opWf",
+    "https://www.youtube.com/watch?v=nJiE6znRmWI",
+    "https://www.additivemanufacturing.media/why-additive-manufacturing-needs-the-executive-perspective/",
+    "https://www.voxelmatters.report/database/",
+    "https://www.youtube.com/watch?v=NFLVfRVGW9o",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "ERVIN — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.voxelmatters.report/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.com/new-vjet-x-technology/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.voxelmatters.group/insights/",
+    "https://www.youtube.com/watch?v=nJiE6znRmWI",
+    "https://www.creativeapplications.net/project/making-data-matter-voxel-printing-for-digital-fabrication-of-data/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）"
+ }
+}

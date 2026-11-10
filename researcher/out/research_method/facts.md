@@ -2540,6 +2540,9 @@
 ## デスクリサーチの自動化と引用の検証（DeskrexAI・Grata）（desk research automation citation verification private company revenue estimation）
 - 文脈：探し先
 - 手順・やり方：
+  - 「マルチエージェントとは？｜LLM協調の5類型を実務例で見分ける」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「Anthropicが単一Opus 4を90.2%上回った実測データと15倍トークンコストのトレードオフ、Orchestrator-Worker/Sequential/Parallel/Debate/Swarmの5類型、LangGraph・CrewAI・AutoGen・OpenAI Agents SDK・MetaGPT・Claude Code sub-agentの選び方まで、R&D・DX担当が明日から判断できる形で整理します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
+  - 「How to Find Business Phone Numbers」（https://cufinder.io/blog/find-private-company-revenue/）
   - 「会話からルールやスキルを自動生成するには？CodexとClaude Codeで残す手順」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「作業会話から規約とSkillの下書きを自動生成する方法を紹介します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「MicrosoftのAI検索エンジンBingとは？使い方・他サービスとの比較やリサーチの使い分けを徹底レビュー！」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
@@ -2552,10 +2555,8 @@
   - 「AI Skillが増えすぎたらどう整理する？使われるSkillだけを残す棚卸し方法」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「架空の経費精算ヒアリングを例に、出所と適用条件を残し、同じ課題の出力を原典と照合して採否を決める方法を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「過去の対象物と実際に返したフィードバックを10組並べて傾向を抽出し、SKILL.mdに落とす7ステップを、提案書・コードレビュー・契約書・スライド・論文査読の5事例で解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「How to Clean Up Messy CRM Data (A Practitioner’s Workflow)」（https://cufinder.io/blog/find-private-company-revenue/）
-  - 「資料整理、文章作成、複雑な仕事のどれに使うか、自分の資料で出力を照合して選ぶ方法を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「Patentfieldの検索、AI分類、生成AI査読の役割を分け、候補集合から公報原文の確認、監視判断までをつなぐ実務手順を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
 - 突き合わせ・推定：
+  - 「論点設計を、判断・問い・仮説・証拠・反証の関係から説明します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「AI Skillは論文から作る？現場の判断から作る？材料の選び方と検証」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「資料整理、文章作成、複雑な仕事のどれに使うか、自分の資料で出力を照合して選ぶ方法を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「海外発AIリサーチツール7選｜情報源と検証方法で選ぶ2026年版」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
@@ -2570,7 +2571,6 @@
   - 「デスクリサーチ自動化完全マニュアル｜問い・収集・検証・更新をつなぐ」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「前工程で固定した判断課題と完了条件を満たすには、実際の調査プロセスを「収集」「検証」「統合」「更新」という4つの工程に分割し、前の作業から得られた成果を次の判断材料として滞りなく渡していく必要があります」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「ここでは人間が例外的な情報や出典の確からしさを承認し、検証済みの事実だけを次へ送ります」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
-  - 「前工程で得られたAIの出力結果は、そのまま自動で実務の意思決定へと渡すのではなく、必ず人が介入して検証する仕組みを経由させます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
 - 一次情報の探し方：
   - 「SessionEndでの受付、別処理でのAI生成、候補の保存と人による採用を、架空会話で試したサンプルとともに説明します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「同じ入力でPoCを行い、単独採用か併用かを決める手順も示します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
@@ -2588,6 +2588,7 @@
   - 「さらに、その情報を採用するかどうかの採否、利用における権限、次に見直すべき更新期限を判断します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「現場の状況や一次情報に基づく例外事象を人が補足し、調査結果へ反映させます」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
 - 失敗・落とし穴：
+  - 「Transformerの自己注意が抱えるO(N^2)の計算コストを、SSM（状態空間モデル、例：Mamba）のO(N)でどう回避するか」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「2025年時点におけるAIエージェントとAGI（汎用人工知能）の違いとは？OpenAIやDeepMindなど専門家が描くAGIへの進化ロードマップや定義、経営者が知るべき投資判断、先駆者企業の成功と失敗事例まで」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「エージェントスウォームの仕組み、公開実装、向く仕事、失敗要因、導入前の比較方法を解説します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「Perplexity AIの特徴や利点だけでなく、限界や注意点も知ることができ、効果的な活用方法が見つかるはずです」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
@@ -2602,7 +2603,6 @@
   - 「ここで注意したいのは、「元のフォルダにある全ファイル」「ノートに追加した資料」「AIとの会話で選択した資料」「AIの回答で実際に引用された資料」は、一致するとは限らない集合であるという点です」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
   - 「そのため、大量の論文を分けて保存した場合、一つのノートで得られた回答を「手持ちの全資料に対する調査結果」として扱わないよう注意してください」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
   - 「AIが生成した候補のリストや比較メモをそのまま調査の実績として鵜呑みにせず、AIの出力はあくまで探索の補助として、人が監督することが求められます」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
-  - 「そのため、比較表の各項目はそのまま鵜呑みにせず、必ず原典で検証するプロセスが不可欠です」（https://media.deskrex.ai/ai-search-compare-own-research-library-2026/）
 - 実例：
   - 「Hermes Agentの使い方とユースケース6選を実機で解説」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
   - 「2026年7月24日にリリースされたClaude Opus 5と、Anthropic公式が公開した「Claude 5世代向けコンテキストエンジニアリング新ルール」を、Claude Codeシステムプロンプト80％削減の実例、残す3要素と削る4要素の判断基準、CLAUDE.mdを半分に減らす書き換え辞書7例、Fable 5との使い分けまで一気に整理します」（https://media.deskrex.ai/desk-research-automation-complete-2026/）
@@ -5404,11 +5404,11 @@
 
 ## データ報道のよくある誤り（分母・平均と総数・割合の読み違い）の日本語の解説（common data journalism mistakes averages totals denominators）
 - 文脈：失敗
-- 手順・やり方：記載なし（読んだ30頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
-- 実例：記載なし（読んだ30頁・検索12回）
+- 手順・やり方：記載なし（読んだ19頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ19頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ19頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ19頁・検索12回）
+- 実例：記載なし（読んだ19頁・検索12回）
 
 ## ウェブページの本文抽出の評価（メニュー・関連記事・定型文を外す方法と精度の測り方）（web main text extraction boilerplate removal evaluation precision recall）
 - 文脈：取り方
@@ -7448,7 +7448,7 @@
   - 「example, we can estimate each expectation with its corresponding weighted sample average—and take the」（https://arxiv.org/pdf/2404.05622）
   - 「In this case, the probability that a given cluster c is sampled in any single draw is |c|/N, i.e., this is sampling」（https://arxiv.org/pdf/2404.05622）
   - 「of population quantities (Lohr, 2021). This is the case for PatentsView data, as large clusters tend to be」（https://arxiv.org/pdf/2404.05622）
-- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
 
 ## 一次資料の留保語（最大・理論上・見込み）を落とした引用で主張が反転する事例と、ファクトチェックでの確かめ方（週間と月間・総数と率のすり替え）（fact checking dropped qualifier hedge word misquote weekly vs monthly metric total vs rate swap）
 - 文脈：失敗・落とし穴
@@ -12658,11 +12658,11 @@
 
 ## データ報道の編集者の点検（意外な跳びを先に疑う・数える範囲を変えない・表記ゆれの一覧・データの日誌・別の人の再現）（data journalism editors checklist verify surprising results data diary backstop）
 - 文脈：突き合わせ
-- 手順・やり方：記載なし（読んだ24頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ24頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ24頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ24頁・検索12回）
-- 実例：記載なし（読んだ24頁・検索12回）
+- 手順・やり方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ30頁・検索12回）
+- 実例：記載なし（読んだ30頁・検索12回）
 
 ## 生き残りの偏りを統計・会社の数字で防ぐ実務（退出した先を含む資料か・最良最悪中間の仮定・廃業データ）（survivorship bias correction business data closed firms best worst case assumption）
 - 文脈：失敗・落とし穴
@@ -14529,7 +14529,7 @@
   - 「The defaults below are editable examples, not vendor prices or measured performance. “Usable” means a company was matched and all fields required by your workflow were present. No input is sent to a server by this calculator.」（https://zephira.ai/8-opencorporates-alternatives-for-kyb-company-registry-lookup/）
   - 「Example monthly model:」（https://zephira.ai/8-opencorporates-alternatives-for-kyb-company-registry-lookup/）
   - 「Prepare a representative sample, ideally 50–100 companies across your actual countries and entity types. This is a practical starting point, not a statistically conclusive benchmark. Include difficult cases as well as easy ones: similar names, branches, inactive companies, holding structures and businesses with limited public filings.」（https://zephira.ai/8-opencorporates-alternatives-for-kyb-company-registry-lookup/）
-- 失敗・落とし穴：記載なし（読んだ17頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ15頁・検索12回）
 
 ## 統計委員会・総務省の諮問と答申の資料（統計の変更・中止・包摂で何が変わったか・抽出か全数か・名簿の替わり目）（Statistics Commission Japan consultation report survey change discontinuation sampling frame）
 - 文脈：統計の読み方
@@ -14948,11 +14948,11 @@
 - 文脈：推定
 - 検索結果の抜粋：
   - 「従業員の範囲 - 国税庁会社規模判定要素 従業員数 - 輸出入・越境EC・消費税還付に強い税理...【新設】（従業者の範囲）｜国税庁労務・社会保険、従業員数の数え方にご注意を！｜アセント社労士事務...会社規模の判定基準・非上場株式の評価とは？従業員数や業種・総資産...事業所・企業統計調査及び経済センサスにおける従業者区分 — 財産評価基本通達178（取引相場のない株式の評価上の区分）による会社規模区分の判定において、次の者については、いずれの会社の従業員としてカウントするのでしょうか。 出向中の者 人材派遣会社より派遣されている者 See full list on nta.go.jp 雇用関係や勤務実態を確認して判定します。 (理由) 1 出向中の者 従業員数基準における従業員とは、原則として、評価会社との雇用契約に基づき使用される個人で賃金が支払われる者をいいますから、例えば、出向元」（https://www.nta.go.jp/law/shitsugi/hyoka/06/02.htm）
-- 手順・やり方：記載なし（読んだ14頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ14頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ14頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ14頁・検索12回）
-- 実例：記載なし（読んだ14頁・検索12回）
+- 手順・やり方：記載なし（読んだ20頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ20頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ20頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ20頁・検索12回）
+- 実例：記載なし（読んだ20頁・検索12回）
 
 ## 基準率と似た事例の集まりから予測する実務（Mauboussin の Base Rate Book 本体・売上成長率と営業利益率の分布・平均への回帰の縮み推定・Flyvbjerg の参照クラス予測・集まりの選び方の感度・4-112）（Mauboussin base rate book PDF sales growth distribution reference class forecasting Flyvbjerg shrinkage）
 - 文脈：推定

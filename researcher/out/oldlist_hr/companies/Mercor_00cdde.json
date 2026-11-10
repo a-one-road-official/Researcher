@@ -1,0 +1,1851 @@
+{
+ "name": "Mercor",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜状態なし",
+ "researched_at": "2026-11-10T00:02:28.473173+00:00",
+ "official_url": "https://www.mercor.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$485.6M",
+    "url": "https://getlatka.com/companies/mercor",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "2023 Undisclosed ~$30M Initial investors",
+    "url": "https://andrew.ooo/posts/mercor-45m-revenue-per-employee-ai-training/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Evaluate AI against professional standards",
+    "url": "https://www.mercor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sales and Marketing Expert",
+    "url": "https://www.mercor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Mercor collaborates with enterprises to build benchmarks that measure AI capabilities relevant to their specific industries, products, and workflows.",
+    "url": "https://www.mercor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Attorney-built benchmark of 1,749 real legal tasks across 24 practice areas, graded on finished work products like memos and redlines.",
+    "url": "https://www.mercor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Long-horizon, cross-application tasks in professional accounting",
+    "url": "https://www.mercor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Measuring AI agents ability to complete professional accounting tasks across tools like accounting software, spreadsheets, and PDFs.",
+    "url": "https://www.mercor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Created to evaluate agents on real mechanical, electrical, civil, and structural engineering work: full project folders, governing codes, and deliverables a licensed reviewer would sign off on.",
+    "url": "https://www.mercor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Kimi K3.1 Pro",
+    "url": "https://www.mercor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Mercor helps enterprises turn their expertise into production AI, new revenue streams, and the human intelligence behind the world’s leading models.",
+    "url": "https://www.mercor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Benchmarks and RL environments built on real professional work (APEX).",
+    "url": "https://www.mercor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Identify high-value AI opportunities by mapping enterprise workflows and institutional knowledge.",
+    "url": "https://www.mercor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy production AI with embedded Forward Deployed Engineers and enterprise-grade integrations.",
+    "url": "https://www.mercor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Measure and improve AI performance with a platform for context, evaluations, and continuous optimization.",
+    "url": "https://www.mercor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI's next job? Recruiting people to train more AI",
+    "url": "https://www.mercor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We partner with the labs and enterprises building the most advanced AI systems today. If your team is building or evaluating AI models, we can help.",
+    "url": "https://www.mercor.com/mission/",
+    "pass": 1
+   },
+   {
+    "quote": "Access our network of domain experts across 300+ professional fields, found and vetted using dynamic, role-specific AI interviews.",
+    "url": "https://www.mercor.com/mission/",
+    "pass": 1
+   },
+   {
+    "quote": "Brendan Foody & Adarsh Hiremath, Co-founders & Co-CEOs",
+    "url": "https://www.mercor.com/mission/",
+    "pass": 1
+   },
+   {
+    "quote": "AI Productivity Index sets a new standard for measuring whether AI can perform high-value work",
+    "url": "https://www.mercor.com/mission/",
+    "pass": 1
+   },
+   {
+    "quote": "Engineers, doctors, and finance professionals are joining a fast-growing field, bringing their expertise to train frontier AI models",
+    "url": "https://www.mercor.com/mission/",
+    "pass": 1
+   },
+   {
+    "quote": "Professionals are finding a new income stream by applying their expertise to AI training",
+    "url": "https://www.mercor.com/mission/",
+    "pass": 1
+   },
+   {
+    "quote": "Mercor's APEX-Agents benchmark becomes a leading measure of how well AI handles real professional work",
+    "url": "https://www.mercor.com/mission/",
+    "pass": 1
+   },
+   {
+    "quote": "Inside the expert network teaching AI to handle complex professional work across dozens of fields",
+    "url": "https://www.mercor.com/mission/",
+    "pass": 1
+   },
+   {
+    "quote": "Tens of thousands of skilled professionals are earning an average of more than $95 an hour on Mercor",
+    "url": "https://www.mercor.com/mission/",
+    "pass": 1
+   },
+   {
+    "quote": "We're hiring across every team",
+    "url": "https://www.mercor.com/mission/",
+    "pass": 1
+   },
+   {
+    "quote": "Mercor gives enterprises the infrastructure to build, hire, train, and evaluate at the frontier.",
+    "url": "https://www.mercor.com/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Custom agents onboarded on your tools, workflows, and standards. In production in 4 to 6 weeks.",
+    "url": "https://www.mercor.com/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Expert professionals found, vetted, and placed inside your team in days. 4M+ experts in network.",
+    "url": "https://www.mercor.com/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Built to evaluate and improve agent capabilities for supporting legal work",
+    "url": "https://www.mercor.com/apex/partner-benchmarks/harvey-lab-leaderboard/",
+    "pass": 1
+   },
+   {
+    "quote": "Harvey’s Legal Agent Benchmark (LAB) was created to evaluate agents on the real work of lawyers at law firms and in-house legal teams. The tasks require agents to work through a full client matter, decide which documents matter, and produce finished work products such as memos, redlines, and filings.",
+    "url": "https://www.mercor.com/apex/partner-benchmarks/harvey-lab-leaderboard/",
+    "pass": 1
+   },
+   {
+    "quote": "LAB was built in three steps. First, practicing lawyers broke real client matters into the tasks a partner would give an associate. Second, they wrote expert rubrics that reflect what a partner or client would check. Third, agents ran each task in a sandbox with the matter files, and a task passes only if every rubric criterion passes.",
+    "url": "https://www.mercor.com/apex/partner-benchmarks/harvey-lab-leaderboard/",
+    "pass": 1
+   },
+   {
+    "quote": "There are 1,749 tasks in LAB across 24 practice areas and in-house contracting, graded by more than 100,000 rubric criteria. The full LAB dataset is available open-source, along with Harvey's execution harness for running and scoring agents.",
+    "url": "https://www.mercor.com/apex/partner-benchmarks/harvey-lab-leaderboard/",
+    "pass": 1
+   },
+   {
+    "quote": "Harvey's Legal Agent Benchmark (LAB) is an open-source benchmark that tests whether AI agents can complete long, multi-step legal work. Harvey built it. Each task has an instruction, a client matter with the relevant documents, and a required work product, such as a memo, redline, issues list, or filing. Expert rubrics grade that work product.",
+    "url": "https://www.mercor.com/apex/partner-benchmarks/harvey-lab-leaderboard/",
+    "pass": 1
+   },
+   {
+    "quote": "Harvey built LAB from real client matters handled by practicing lawyers. The team split each matter into the separate tasks a partner would normally give an associate. Practicing attorneys wrote the rubrics to reflect what a supervising partner or client would check before the work goes out.",
+    "url": "https://www.mercor.com/apex/partner-benchmarks/harvey-lab-leaderboard/",
+    "pass": 1
+   },
+   {
+    "quote": "Earlier legal benchmarks, such as LegalBench, CUAD, LEXam, and Harvey's own BigLaw Bench, test short-horizon reasoning: read a contract and answer a question, or compare two cases. LAB tests long-horizon work. The agent has to search a full client matter, decide what's relevant, and produce a finished deliverable.",
+    "url": "https://www.mercor.com/apex/partner-benchmarks/harvey-lab-leaderboard/",
+    "pass": 1
+   },
+   {
+    "quote": "They measure different things. APEX-Agents, developed in collaboration with Harvey and Box, tests agents across three professional services jobs (corporate lawyer, investment banking analyst, and management consultant) using multiple applications. Harvey LAB goes deep on legal work only, with 1,749 tasks across 24 practice areas and in-house contracting.",
+    "url": "https://www.mercor.com/apex/partner-benchmarks/harvey-lab-leaderboard/",
+    "pass": 1
+   },
+   {
+    "quote": "Built to evaluate and improve agent capabilities for physical engineering work",
+    "url": "https://www.mercor.com/apex/partner-benchmarks/ple-bench-leaderboard/",
+    "pass": 1
+   },
+   {
+    "quote": "Physical-Engineering's Last Exam (PLE) was created to evaluate agents on the real work of mechanical, electrical, civil, and structural engineers. The tasks require agents to work through a full project folder, find the governing codes and physical limits, and produce deliverables a licensed reviewer would sign off on.",
+    "url": "https://www.mercor.com/apex/partner-benchmarks/ple-bench-leaderboard/",
+    "pass": 1
+   },
+   {
+    "quote": "PLE was built two ways. For expert-authored tasks, practicing engineers created the project folders, prompts, and grading rubrics from scratch. For co-authored tasks, engineers designed the task, an agent pipeline assembled the environment and grader, and the engineers validated every task and made it harder. An agent earns optimization points only if its design passes every hard safety check.",
+    "url": "https://www.mercor.com/apex/partner-benchmarks/ple-bench-leaderboard/",
+    "pass": 1
+   },
+   {
+    "quote": "Physical-Engineering's Last Exam (PLE) is a benchmark and open competition that tests whether AI agents can complete long, end-to-end physical engineering work. Google built it in collaboration with Mercor. Each task has a prompt, a project folder with the relevant files, and required production deliverables. Grading tools check those deliverables for code compliance and cost efficiency.",
+    "url": "https://www.mercor.com/apex/partner-benchmarks/ple-bench-leaderboard/",
+    "pass": 1
+   },
+   {
+    "quote": "Frontier models now score above 90% on many academic benchmarks, which mostly test textbook question answering, single tool calls, or small, self-contained design problems. PLE tests long-horizon work. The agent has to search a full project folder, decide what's relevant, and produce safe, code-compliant, and cost-effective designs.",
+    "url": "https://www.mercor.com/apex/partner-benchmarks/ple-bench-leaderboard/",
+    "pass": 1
+   },
+   {
+    "quote": "The benchmark comprises ~700 interconnected policy documents (≈195K tokens) across 21 product categories, from product selection to dispute resolution to account management. Agents are graded against backend database state outcomes, such as whether a dispute was actually filed, a credit issue resolved, or an account opened correctly, rather than matching reference answers.",
+    "url": "https://www.mercor.com/apex/partner-benchmarks/tau-3-banking-leaderboard/",
+    "pass": 1
+   },
+   {
+    "quote": "Example tasks include cash-back card recommendations, dispute resolution with competing policies, and business account selection with conflicting promotions. The benchmark was published in collaboration with Sierra AI and includes an open-source dataset and execution harness.",
+    "url": "https://www.mercor.com/apex/partner-benchmarks/tau-3-banking-leaderboard/",
+    "pass": 1
+   },
+   {
+    "quote": "Kimi K3.1 Pro",
+    "url": "https://www.mercor.com/apex/partner-benchmarks/tau-3-banking-leaderboard/",
+    "pass": 1
+   },
+   {
+    "quote": "Engagement Manager, Enterprise AI",
+    "url": "https://www.mercor.com/blog/ai-due-diligence-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Looking at the business this way revealed that generating technical summaries represented only a small portion of what customers were actually buying.",
+    "url": "https://www.mercor.com/blog/ai-due-diligence-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "The company’s differentiation came from the combination of proprietary data collection, reverse engineering, laboratory infrastructure, expert interpretation, specialized workflows, and years of accumulated operational knowledge. AI could accelerate portions of that system, but it could not easily replicate the system itself.",
+    "url": "https://www.mercor.com/blog/ai-due-diligence-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Once we understood how the company created value, the next step was identifying where AI could materially improve the business. Rather than generating a long list of ideas, the goal was to isolate the handful of initiatives capable of meaningfully increasing enterprise value.",
+    "url": "https://www.mercor.com/blog/ai-due-diligence-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Each opportunity was then evaluated for technical feasibility and organizational readiness. AI researchers assessed whether frontier models could reliably perform the required work today or were likely to within the investment horizon. Forward Deployed Engineers estimated the engineering effort, infrastructure changes, and integration work required to deploy each capability in production.",
+    "url": "https://www.mercor.com/blog/ai-due-diligence-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Prioritizing implementation",
+    "url": "https://www.mercor.com/blog/ai-due-diligence-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "The diligence ultimately identified approximately",
+    "url": "https://www.mercor.com/blog/ai-due-diligence-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": ". Looking further ahead, the same initiatives represented an estimated",
+    "url": "https://www.mercor.com/blog/ai-due-diligence-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "It was a clearer understanding of why the company was positioned to outperform as AI reshaped the industry and a practical roadmap for creating additional enterprise value throughout the investment period.",
+    "url": "https://www.mercor.com/blog/ai-due-diligence-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Hear from professionals who found opportunities on Mercor",
+    "url": "https://www.mercor.com/stories/",
+    "pass": 1
+   },
+   {
+    "quote": "Meet Matt: PhD candidate, literature",
+    "url": "https://www.mercor.com/stories/",
+    "pass": 1
+   },
+   {
+    "quote": "Mercor is built on frontier AI. Every team works directly with frontier models, training them, building around them, and discovering ways of working most companies haven't imagined yet.",
+    "url": "https://www.mercor.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We are a profitable Series C company",
+    "url": "https://www.mercor.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "You'll work directly with leading AI researchers, academics, and industry professionals",
+    "url": "https://www.mercor.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Premium fitness access",
+    "url": "https://www.mercor.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "In-person collaboration to move faster and solve harder problems",
+    "url": "https://www.mercor.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Our values guide how we operate. We move fast, scale responsibly, and solve the hardest problems with ambition and ownership.",
+    "url": "https://www.mercor.com/careers/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Mercor helps enterprises turn their expertise into production AI, new revenue streams, and the human intelligence behind the world’s leading models.",
+    "url": "https://www.mercor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Create a new revenue stream from the workflow data your business already generates.",
+    "url": "https://www.mercor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Mercor is built for people who thrive in high-velocity environments. We welcome builders who want to grow in their career faster than anywhere else. US full-time employees are eligible for:",
+    "url": "https://www.mercor.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "With 1,000+ employees and AI already deployed across several functions, the company lacked a clear view of where to invest next. Mercor mapped workflows, systems and existing AI deployments across the business identifying 25 candidate workflows and prioritizing five agents for deployment over the next twelve months.",
+    "url": "https://www.mercor.com/enterprise/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock new data revenue",
+    "url": "https://www.mercor.com/enterprise/",
+    "pass": 1
+   },
+   {
+    "quote": "New data licensing revenue",
+    "url": "https://www.mercor.com/enterprise/",
+    "pass": 1
+   },
+   {
+    "quote": "Mercor is built for people who thrive in high-velocity environments. We welcome builders who want to grow in their career faster than anywhere else. US full-time employees are eligible for:",
+    "url": "https://www.mercor.com/careers/?location=San+Francisco",
+    "pass": 1
+   },
+   {
+    "quote": "Mercor is built for people who thrive in high-velocity environments. We welcome builders who want to grow in their career faster than anywhere else. US full-time employees are eligible for:",
+    "url": "https://www.mercor.com/careers/?location=New+York+City",
+    "pass": 1
+   },
+   {
+    "quote": "Mercor is built for people who thrive in high-velocity environments. We welcome builders who want to grow in their career faster than anywhere else. US full-time employees are eligible for:",
+    "url": "https://www.mercor.com/careers/?location=London",
+    "pass": 1
+   },
+   {
+    "quote": "window['__wavt'] = 'AKZvMzuJLtvrYOrlSs4Bbr_R7_w2:1794268994129';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\\x3d755799075504488201','//www.gig-trader.com/2025/08/mercor-application-story.html','755799075504488201');",
+    "url": "https://www.gig-trader.com/2025/08/mercor-application-story.html",
+    "pass": 3
+   },
+   {
+    "quote": "のホワイトカラー専門家を面接し、膨大な人材プールを確保しており、その成長速度は「史上最速でARR5億ドルに到達した会社」と評されるほどだ",
+    "url": "https://anobaka.jp/research/10798/",
+    "pass": 3
+   },
+   {
+    "quote": "The new cases show the kinds of engagement Mercor sells (diagnostics, deployment, optimization), which helps a buyer scope a request before a sales call. None of them carries a price or fee: every offering still routes to a “Book a demo” or “Talk to the Mercor team” form with no rate card.",
+    "url": "https://www.usagepricing.com/blueprint/activity/mercor-2026-08-12-enterprise-case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Mercor achieves $100M+ in revenue growth with Hex",
+    "url": "https://www.casestudies.com/customer/mercor",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Mercor achieves $100M+ in revenue growth with Hex | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/hex/case-study/mercor-scales-to-100m-in-revenue-with-hex",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Mercor achieves $100M+ in revenue growth with Hex",
+    "url": "https://www.casestudies.com/company/hex/case-study/mercor-scales-to-100m-in-revenue-with-hex",
+    "pass": 3
+   },
+   {
+    "quote": "Mercor scales to $100M+ in revenue with Hex",
+    "url": "https://www.casestudies.com/company/hex/case-study/mercor-scales-to-100m-in-revenue-with-hex",
+    "pass": 3
+   },
+   {
+    "quote": "Mercor, a technology company that connects human expertise with AI labs, faced a significant operational challenge as it scaled rapidly. With hundreds of simultaneous client projects to manage, the lack of a central analytics platform created a bottleneck. Non-technical teams were unable to build the custom dashboards needed for real-time project tracking, risking delays and lost revenue.",
+    "url": "https://www.casestudies.com/company/hex/case-study/mercor-scales-to-100m-in-revenue-with-hex",
+    "pass": 3
+   },
+   {
+    "quote": "In July 2026, Mercor acquired AI simulation startup Deeptune.",
+    "url": "https://en.wikipedia.org/wiki/Mercor",
+    "pass": 3
+   },
+   {
+    "quote": "Mercor Revenue 2026: $2B, $485.6M Raised",
+    "url": "https://getlatka.com/companies/mercor",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, valuation & funding",
+    "url": "https://getlatka.com/companies/mercor",
+    "pass": 3
+   },
+   {
+    "quote": "Mercor's annual revenue was $2B in July 2026 (TechCrunch). That is up 300% from $500M a year earlier.",
+    "url": "https://getlatka.com/companies/mercor",
+    "pass": 3
+   },
+   {
+    "quote": "All 5 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/mercor",
+    "pass": 3
+   },
+   {
+    "quote": "Mercor CEO, founders & employees",
+    "url": "https://getlatka.com/companies/mercor",
+    "pass": 3
+   },
+   {
+    "quote": "Brendan Foody founded Mercor in 2023 with Surya Midha and Adarsh Hiremath and runs it as CEO. Mercor has 200 employees (2026, jobsbyculture.com estimate), up from 30 a year earlier.",
+    "url": "https://getlatka.com/companies/mercor",
+    "pass": 3
+   },
+   {
+    "quote": "What is Mercor's revenue?",
+    "url": "https://getlatka.com/companies/mercor",
+    "pass": 3
+   },
+   {
+    "quote": "Mercor's annual revenue was",
+    "url": "https://getlatka.com/companies/mercor",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Mercor have?",
+    "url": "https://getlatka.com/companies/mercor",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/mercor",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/mercor",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/mercor",
+    "pass": 3
+   },
+   {
+    "quote": "Fastest to $1B ARR",
+    "url": "https://andrew.ooo/posts/mercor-45m-revenue-per-employee-ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "$500M ARR trajectory",
+    "url": "https://andrew.ooo/posts/mercor-45m-revenue-per-employee-ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "The Revenue Per Employee Breakdown",
+    "url": "https://andrew.ooo/posts/mercor-45m-revenue-per-employee-ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue scales with headcount",
+    "url": "https://andrew.ooo/posts/mercor-45m-revenue-per-employee-ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "Contractors aren’t employees (they’re “managed” talent)",
+    "url": "https://andrew.ooo/posts/mercor-45m-revenue-per-employee-ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue scales with contractor base, not core headcount",
+    "url": "https://andrew.ooo/posts/mercor-45m-revenue-per-employee-ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "Mercor’s contractors are their product, not their employees.",
+    "url": "https://andrew.ooo/posts/mercor-45m-revenue-per-employee-ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "When OpenAI pays Mercor for 1,000 hours of expert training time, that revenue counts against Mercor’s ~50 core employees—not the hundreds of contractors who performed the work.",
+    "url": "https://andrew.ooo/posts/mercor-45m-revenue-per-employee-ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "It’s a brilliant arbitrage of the revenue-per-employee metric.",
+    "url": "https://andrew.ooo/posts/mercor-45m-revenue-per-employee-ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "Mercor’s client list is essentially the AI lab oligopoly. If OpenAI or Anthropic decides to build in-house training capabilities, Mercor’s revenue could evaporate quickly.",
+    "url": "https://andrew.ooo/posts/mercor-45m-revenue-per-employee-ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "How contractor classification rules evolve could impact Mercor’s business model. If those 30,000 contractors were reclassified as employees, the economics change dramatically.",
+    "url": "https://andrew.ooo/posts/mercor-45m-revenue-per-employee-ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "The company reportedly told investors they’re on track to hit $500M ARR faster than Cursor achieved it—which would make them the fastest-growing enterprise AI startup in history.",
+    "url": "https://andrew.ooo/posts/mercor-45m-revenue-per-employee-ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "At $4.5 million in revenue per employee, they’re more efficient than any tech giant. At $10 billion valuation, they’re more valuable than companies 10x their age. At 22 years old, their founders have achieved what most entrepreneurs dream about for decades.",
+    "url": "https://andrew.ooo/posts/mercor-45m-revenue-per-employee-ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "Why is Mercor’s revenue per employee so high?",
+    "url": "https://andrew.ooo/posts/mercor-45m-revenue-per-employee-ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "Their 30,000+ contractors aren’t employees—they’re “managed talent.” Revenue from contractor hours counts against Mercor’s small core team of ~50 employees.",
+    "url": "https://andrew.ooo/posts/mercor-45m-revenue-per-employee-ai-training/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "AI Due Diligence Case Study: Strengthening the Investment Thesis | Mercor",
+    "url": "https://www.mercor.com/blog/ai-due-diligence-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Doctors. Lawyers. Engineers. Creators. Operators. Hobbyists.",
+    "url": "https://www.mercor.com/stories/",
+    "pass": 1
+   },
+   {
+    "quote": "A Workflow Diagnostic case study: 25 candidate AI workflows identified",
+    "url": "https://www.usagepricing.com/blueprint/activity/mercor-2026-08-12-enterprise-case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise page rebuilt: scale-stats bar and self-referential case study removed; Agent Benchmarking renamed Agent Optimization",
+    "url": "https://www.usagepricing.com/blueprint/activity/mercor-2026-08-12-enterprise-case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Mercor rebuilds its Enterprise page: scale-stats bar and case study replaced, Agent Benchmarking renamed Agent Optimization",
+    "url": "https://www.usagepricing.com/blueprint/activity/mercor-2026-08-12-enterprise-case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Mercor",
+    "url": "https://www.casestudies.com/customer/mercor",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Mercor achieves $100M+ in revenue growth with Hex | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/hex/case-study/mercor-scales-to-100m-in-revenue-with-hex",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Mercor achieves $100M+ in revenue growth with Hex",
+    "url": "https://www.casestudies.com/company/hex/case-study/mercor-scales-to-100m-in-revenue-with-hex",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/hex/case-study/mercor-scales-to-100m-in-revenue-with-hex",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/hex/case-study/mercor-scales-to-100m-in-revenue-with-hex",
+    "pass": 3
+   },
+   {
+    "quote": "Its customers include",
+    "url": "https://en.wikipedia.org/wiki/Mercor",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Mercorとは｜日本から使えるか・手数料・始め方 | 海外案件ドットコム",
+    "url": "https://kaigai-anken.com/platforms/mercor/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語のプロジェクトがあり、日本語を母語とすることが活きる場面があります",
+    "url": "https://kaigai-anken.com/platforms/mercor/",
+    "pass": 3
+   },
+   {
+    "quote": "この分野は日本語の情報の質にばらつきがあります",
+    "url": "https://kaigai-anken.com/platforms/mercor/",
+    "pass": 3
+   },
+   {
+    "quote": "基本的な日本語作業で $35 前後という記述がありますが、副業メディアの記述であり当サイトは検証していません",
+    "url": "https://kaigai-anken.com/platforms/mercor/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語の案件が継続的に出ており、当サイトの掲載の大半を占めています",
+    "url": "https://kaigai-anken.com/platforms/mercor/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語を母語とすることを、AIの学習という新しい用途で活かしたい人",
+    "url": "https://kaigai-anken.com/platforms/mercor/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語を母語とすることが直接活きるプロジェクトがある",
+    "url": "https://kaigai-anken.com/platforms/mercor/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語で流通している情報に**誇張が目立つ**",
+    "url": "https://kaigai-anken.com/platforms/mercor/",
+    "pass": 3
+   },
+   {
+    "quote": "基本的な日本語作業で $35 前後、専門資格を要する作業ではさらに高いという記述がありますが、当サイトはこれらの数字を検証していません",
+    "url": "https://kaigai-anken.com/platforms/mercor/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語の案件が最も多く、当サイトの掲載の大半を占めます",
+    "url": "https://kaigai-anken.com/platforms/mercor/",
+    "pass": 3
+   },
+   {
+    "quote": "案件数は多いものの、日本語を必要とする募集は多くありません",
+    "url": "https://kaigai-anken.com/platforms/mercor/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語ネイティブであることは武器にならない",
+    "url": "https://kaigai-anken.com/platforms/mercor/",
+    "pass": 3
+   },
+   {
+    "quote": "【Mercor復活！2026年6月最新AI副業！】日本語ができれば月給300万円！高額AI評価プロジェクト2件を一挙紹介！！｜AI ジョブズ 【時給6000円〜】 最先端リモート求人を紹介",
+    "url": "https://note.com/ai_job/n/nfccbf001d79e",
+    "pass": 3
+   },
+   {
+    "quote": "【Mercor復活！2026年6月最新AI副業！】日本語ができれば月給300万円！高額AI評価プロジェクト2件を一挙紹介！！",
+    "url": "https://note.com/ai_job/n/nfccbf001d79e",
+    "pass": 3
+   },
+   {
+    "quote": "またそこに救世主として現れたMercorは、日本語話者向けの求人がなかなか出てこず、少し休眠状態のようにも見えていました……",
+    "url": "https://note.com/ai_job/n/nfccbf001d79e",
+    "pass": 3
+   },
+   {
+    "quote": "今回紹介するのは、すべて日本語スキルを活かせるAI評価プロジェクト",
+    "url": "https://note.com/ai_job/n/nfccbf001d79e",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Audio Generalist Evaluator Expert",
+    "url": "https://note.com/ai_job/n/nfccbf001d79e",
+    "pass": 3
+   },
+   {
+    "quote": "時給$50、日本円で約8,000円",
+    "url": "https://note.com/ai_job/n/nfccbf001d79e",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese language / cultural fluency Evaluator",
+    "url": "https://note.com/ai_job/n/nfccbf001d79e",
+    "pass": 3
+   },
+   {
+    "quote": "時給$80〜$120、日本円で約13,000円〜19,000円",
+    "url": "https://note.com/ai_job/n/nfccbf001d79e",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、日本語ネイティブとしての感覚そのものが武器になる案件です！",
+    "url": "https://note.com/ai_job/n/nfccbf001d79e",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Audio Generalist Evaluator Expert：時給8,000円",
+    "url": "https://note.com/ai_job/n/nfccbf001d79e",
+    "pass": 3
+   },
+   {
+    "quote": "まず1つ目は、日本語音声AIの評価プロジェクトです",
+    "url": "https://note.com/ai_job/n/nfccbf001d79e",
+    "pass": 3
+   },
+   {
+    "quote": "日本円にすると、",
+    "url": "https://note.com/ai_job/n/nfccbf001d79e",
+    "pass": 3
+   },
+   {
+    "quote": "AIが日本語の音声を正しく理解できるようにするためのプロジェクト",
+    "url": "https://note.com/ai_job/n/nfccbf001d79e",
+    "pass": 3
+   },
+   {
+    "quote": "日本語の音声・動画コンテンツからAIが生成した文字起こしを、正確性・自然さ・わかりやすさの観点から評価する",
+    "url": "https://note.com/ai_job/n/nfccbf001d79e",
+    "pass": 3
+   },
+   {
+    "quote": "また、AI副業未経験でも普段から文章を書いたり、音声を聞き取ったり、日本語の細かいニュアンスに気づくのが得意な方にも向いています！",
+    "url": "https://note.com/ai_job/n/nfccbf001d79e",
+    "pass": 3
+   },
+   {
+    "quote": "日本語がネイティブ、またはネイティブに近いレベルであること",
+    "url": "https://note.com/ai_job/n/nfccbf001d79e",
+    "pass": 3
+   },
+   {
+    "quote": "日本語の話し言葉、方言、敬語、現代的な表現に理解があること",
+    "url": "https://note.com/ai_job/n/nfccbf001d79e",
+    "pass": 3
+   },
+   {
+    "quote": "日本語音声を正確に聞き取り、分析できること",
+    "url": "https://note.com/ai_job/n/nfccbf001d79e",
+    "pass": 3
+   },
+   {
+    "quote": "日本語での文字起こし、アノテーション、評価業務の経験",
+    "url": "https://note.com/ai_job/n/nfccbf001d79e",
+    "pass": 3
+   },
+   {
+    "quote": "業務遂行に必要な英語力は求められますが、メインで活かすのはやはり日本語の力です",
+    "url": "https://note.com/ai_job/n/nfccbf001d79e",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese language / cultural fluency Evaluator：最高時給19,000円",
+    "url": "https://note.com/ai_job/n/nfccbf001d79e",
+    "pass": 3
+   },
+   {
+    "quote": "日本円にすると、約13,000円〜19,000円！！",
+    "url": "https://note.com/ai_job/n/nfccbf001d79e",
+    "pass": 3
+   },
+   {
+    "quote": "案件名は、Japanese language / cultural fluency Evaluator",
+    "url": "https://note.com/ai_job/n/nfccbf001d79e",
+    "pass": 3
+   },
+   {
+    "quote": "AIの日本語や日本文化への理解度を評価するプロジェクトです",
+    "url": "https://note.com/ai_job/n/nfccbf001d79e",
+    "pass": 3
+   },
+   {
+    "quote": "AIが作った日本語資料を、日本人の視点でチェックする仕事",
+    "url": "https://note.com/ai_job/n/nfccbf001d79e",
+    "pass": 3
+   },
+   {
+    "quote": "Mercor合格体験記：日本語スピーカーで挑戦した$40/h案件と最新募集案件 - ギグトレーダーの二刀流資産づくり｜副業と投資で目指すサイドFIRE",
+    "url": "https://www.gig-trader.com/2025/08/mercor-application-story.html",
+    "pass": 3
+   },
+   {
+    "quote": "AI時代の最も高価な資源：人間の思考をデータ化するMercorの戦略分析と日本市場の勝ち筋 | ANOBAKA",
+    "url": "https://anobaka.jp/research/10798/",
+    "pass": 3
+   },
+   {
+    "quote": "AI時代の最も高価な資源：人間の思考をデータ化するMercorの戦略分析と日本市場の勝ち筋",
+    "url": "https://anobaka.jp/research/10798/",
+    "pass": 3
+   },
+   {
+    "quote": "を詳細に解き明かし、その戦略を日本市場で応用する際の戦略的困難さと、日本固有の勝ち筋を考察する",
+    "url": "https://anobaka.jp/research/10798/",
+    "pass": 3
+   },
+   {
+    "quote": "5. 日本の勝ち筋：業界特化と「思考が貯まる事業設計」",
+    "url": "https://anobaka.jp/research/10798/",
+    "pass": 3
+   },
+   {
+    "quote": "したがって、多額の資金がかかる汎用的な専門家クラウドプラットフォームを後発で日本から構築し、",
+    "url": "https://anobaka.jp/research/10798/",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場の勝ち筋は、",
+    "url": "https://anobaka.jp/research/10798/",
+    "pass": 3
+   },
+   {
+    "quote": "の成功から学ぶべき核心は、「人間の思考をデータ化する」という思想であり、これを日本の市場環境と結びつけることが、突破口となる",
+    "url": "https://anobaka.jp/research/10798/",
+    "pass": 3
+   },
+   {
+    "quote": "5-3. 日本の勝ち筋は「業務特化LLM」と「事業設計」の融合",
+    "url": "https://anobaka.jp/research/10798/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のAI戦略は、",
+    "url": "https://anobaka.jp/research/10798/",
+    "pass": 3
+   },
+   {
+    "quote": "→ 「人間の思考」をデータ化する事業設計こそが、日本市場におけるAIスタートアップの最も筋の良い戦略となる",
+    "url": "https://anobaka.jp/research/10798/",
+    "pass": 3
+   },
+   {
+    "quote": "6. まとめ（データ戦争の時代と日本のチャンス）",
+    "url": "https://anobaka.jp/research/10798/",
+    "pass": 3
+   },
+   {
+    "quote": "日本が勝つには、米国とは異なる",
+    "url": "https://anobaka.jp/research/10798/",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場においては、特定の業務プロセスに深く入り込み、AIによる推論と専門家による",
+    "url": "https://anobaka.jp/research/10798/",
+    "pass": 3
+   },
+   {
+    "quote": "ANOBAKAでは、日本において生成AIビジネスを模索する起業家を支援し、産業育成を実現する目的で投資実行やコミュニティの組成等を行う、生成AI特化のファンドも運用しております",
+    "url": "https://anobaka.jp/research/10798/",
+    "pass": 3
+   },
+   {
+    "quote": "治験データの数百時間を90分に——AIネイティブCRO Hill Researchと、日本に残された空白",
+    "url": "https://anobaka.jp/research/10798/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Language Consultant - Mercor Jobs",
+    "url": "https://work.mercor.com/jobs/list_AAABmKQwp8fDdTkz9p5F4pKI/japanese-language-consultant",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Language Consultant is no longer accepting applications",
+    "url": "https://work.mercor.com/jobs/list_AAABmKQwp8fDdTkz9p5F4pKI/japanese-language-consultant",
+    "pass": 3
+   },
+   {
+    "quote": "Languages: Spanish, Arabic, English, Hindi, French, Portuguese, Italian, Chinese, Russian, Japanese, Korean, Polish, Tamil, Telugu, Kannada, Malayalam, Marathi, Assamese, Punjabi, Gujarati, Thai, Dutch, and Finnish",
+    "url": "https://work.mercor.com/jobs/list_AAABmKQwp8fDdTkz9p5F4pKI/japanese-language-consultant",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Language Consultant - Mercor Jobs",
+    "url": "https://work.mercor.com/jobs/list_AAABmcrEWuWxGlDMh3BCj7tZ/japanese-language-consultant",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Language Consultant is no longer accepting applications",
+    "url": "https://work.mercor.com/jobs/list_AAABmcrEWuWxGlDMh3BCj7tZ/japanese-language-consultant",
+    "pass": 3
+   },
+   {
+    "quote": "Languages: Spanish, Arabic, English, Hindi, French, Portuguese, Italian, Chinese, Russian, Japanese, Korean, Polish, Tamil, Telugu, Kannada, Malayalam, Marathi, Assamese, Punjabi, Gujarati, Thai, Dutch, and Finnish",
+    "url": "https://work.mercor.com/jobs/list_AAABmcrEWuWxGlDMh3BCj7tZ/japanese-language-consultant",
+    "pass": 3
+   },
+   {
+    "quote": "日本語力やこれまでの経験を在宅ワークに生かしたい",
+    "url": "https://note.com/komon_ai/n/nb6b77d3c081d?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Mercorとは｜日本から使えるか・手数料・始め方 | 海外案件ドットコム — Mercor は登録して選考を受け、プロジェクトの割り当てを待つ形です。 募集中の案件が公開されていないため、当サイトでは掲載できません。 案件を選んで応募したい場合は Upwork をご覧ください。 応募できる案件をお探しなら、 Upworkの図鑑 をご覧ください。",
+    "url": "https://kaigai-anken.com/platforms/mercor/",
+    "pass": 3
+   },
+   {
+    "quote": "【Mercor復活！2026年6月最新AI副業！】日本語ができれば月給300万円... — Jun 7, 2026 · AI ジョブズは、時間や場所に縛られず、自由に働ける日本人の方が1人でも増えるよう、みなさんのためになる情報を発信していきます！ 本日はMercorの最新案件、画像・動画生成AI評価プロジェクトについて解説しました！",
+    "url": "https://note.com/ai_job/n/nfccbf001d79e",
+    "pass": 3
+   },
+   {
+    "quote": "Mercor合格体験記：日本語スピーカーで挑戦した$40/h案件と最新募集案... — Aug 30, 2025 · 1.Mercorとは？ Mercor（マーコア） は、AI関連の企業・研究機関と世界中のフリーランス人材をつなぐ、近年急速に存在感を高めているプラットフォームです。",
+    "url": "https://www.gig-trader.com/2025/08/mercor-application-story.html",
+    "pass": 3
+   },
+   {
+    "quote": "AI時代の最も高価な資源：人間の思考をデータ化するMercorの戦略分析... — Dec 26, 2025 · Mercor はそのど真ん中に位置し、専門家の思考プロセスをデータ化する「知の工場」を築き上げた。 しかし、後発企業が Mercor と同じ土俵で戦うことは、戦略的に困難である。 日本が勝つには、米国とは異なる 戦略的アプローチ が必要となる。",
+    "url": "https://anobaka.jp/research/10798/",
+    "pass": 3
+   },
+   {
+    "quote": "Mercor面接対策：AI面接の仕組みと落ちる理由 - AceRound Blog — Sep 9, 2026 · 正直に書いておくと、後者の文脈で日本語の情報はまだほとんど存在しない。 国内で見つかる体験談の大半は前者――副業としてのMercor案件に合格するための記事だ。 この記事はその実情を踏まえた上で、Mercorの面接がどう動いているかを構造的に整理する。",
+    "url": "https://www.aceround.app/ja/blog/mercor-mensetsu-taisaku/",
+    "pass": 3
+   },
+   {
+    "quote": "Mercor | Organizing human intelligence to power the AI economy — Mercor is organizing human intelligence to power the AI economy. We are powering frontier research, AI benchmarks, and AI agent training at scale for the top AI labs and enterprises.",
+    "url": "https://www.mercor.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Login - Mercor — Login to Mercor's work platform for hiring, vetting, and paying team members.",
+    "url": "https://work.mercor.com/login",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Language Consultant - Mercor Jobs — Mercor is looking to hire a Japanese-language expert intimately familiar with the Japanese dialect and accent for a consulting project with a leading AI…",
+    "url": "https://work.mercor.com/jobs/list_AAABmKQwp8fDdTkz9p5F4pKI/japanese-language-consultant",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Language Consultant - Mercor Jobs — Mercor partners with leading AI labs and enterprises to train frontier models using human expertise. You will work on projects that focus on training and enhancing AI systems.",
+    "url": "https://work.mercor.com/jobs/list_AAABmcrEWuWxGlDMh3BCj7tZ/japanese-language-consultant",
+    "pass": 3
+   },
+   {
+    "quote": "Mercor | Organizing human intelligence to power the AI economy — Mercor is organizing human intelligence to power the AI economy. Mercor collaborates with enterprises to build benchmarks that measure AI capabilities relevant to their specific industries, products, and workflows. Open-source benchmark that evaluates agent capabilities for supporting legal work.",
+    "url": "https://www.mercor.com/",
+    "pass": 3
+   },
+   {
+    "quote": "マーシュ・マーサー・ジャパン株式会社 - MercerMercor合格体験記：日本語スピーカーで挑戦した$40/h案件と最新募集案...【Mercor復活！2026年6月最新AI副業！】日本語ができれば月給300万円...Careers at Mercor | Join our team — 1959年にマーシュ・アンド・マクレナン・カンパニーズに買収され、自社の従業員福利厚生部門と合併しました。 その後会社は、成長と買収を通じて拡大し、保健、年金、投資、人材分野のグローバルリーダーへと成長を遂げました。 時代が変わり、当社は進化を遂げましたが、その中核目標は今もなお不変にして明確です。 つまり、それは人々の生活に変化をもたらす、ということです。 何世代にもわたって、当社は実用的なインサイトと先進的なソリューションをお客様に提供して参りました。 そして、グローバルな展開とリソースの拡大に伴",
+    "url": "https://www.mercer.com/ja-jp/about/company/about/mercer-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Mercor合格体験記：日本語スピーカーで挑戦した$40/h案件と最新募集案... — Aug 30, 2025 · 2025年8月、私はMercorの Japanese Speaker Generalist (時給40ドル=約5,800円) の案件に合格しました。 正直、AI面接の体感はボロボロで、「これは落ちた」と思ったほどです。 それでも合格できたのは、 経歴・実績が重視された可能性 が高いと感じています。 この記事では、 応募から合格通知 までの実体験、そしてこれから挑戦する方に役立つ 戦略と注意点 をまとめます。 1.Mercorとは？ Mercor（マーコア） は、AI関連の企業・研究機関と世界中のフリーランス人材をつなぐ、近年急速に存在感を高めているプラットフォームです。",
+    "url": "https://www.gig-trader.com/2025/08/mercor-application-story.html",
+    "pass": 3
+   },
+   {
+    "quote": "Mercor packaging — Mercor's Enterprise page grows from three ... — Aug 12, 2026 · Mercor added three new proof points to its Enterprise page -- a 25-workflow diagnostic, a $20M by-2031 value-creation assessment, and a 132-run HR evaluation -- doubling its case-study count while buyer pricing stays undisclosed.",
+    "url": "https://www.usagepricing.com/blueprint/activity/mercor-2026-08-12-enterprise-case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Mercor Uses Software & Services — Explore case studies featuring Mercor as the customer — learn how vendors and partners helped Mercor solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/mercor",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Mercor achieves $100M+ in revenue growth with Hex — Mercor, a technology company that connects human expertise with AI labs, faced a significant operational challenge as it scaled rapidly. With hundreds of simultaneous client projects to manage, the lack of a central analytics platform created a bottleneck.",
+    "url": "https://www.casestudies.com/company/hex/case-study/mercor-scales-to-100m-in-revenue-with-hex",
+    "pass": 3
+   },
+   {
+    "quote": "Mercor Case Study: The $10B Architect of the Reinforcement ... — Dec 29, 2025 · In the rapidly accelerating landscape of 2025, Mercor has emerged as a quintessential architect of the “Reinforcement Learning Economy.” This case study analyzes how a startup, founded by...",
+    "url": "https://medium.com/@blacksolvent7/mercor-case-study-the-10b-architect-of-the-reinforcement-learning-economy-a4c12b856d1d",
+    "pass": 3
+   },
+   {
+    "quote": "Mercor - Wikipedia — Mercor.io Corporation (Mercor) is an American artificial intelligence (AI) data startup that provides experts to train AI models and chatbots. Founded in 2023, the company is headquartered in 181 Fremont, San Francisco.",
+    "url": "https://en.wikipedia.org/wiki/Mercor",
+    "pass": 3
+   },
+   {
+    "quote": "Mercor Revenue 2026: $2B, $485.6M Raised - getlatka.com — Oct 30, 2026 · Mercor revenue, valuation & funding Data Labeling Software · San Francisco, California · Founded 2023 · CEO Brendan Foody Mercor is a Data Labeling Software company based in San Francisco, founded in 2023.",
+    "url": "https://getlatka.com/companies/mercor",
+    "pass": 3
+   },
+   {
+    "quote": "How Mercor Generates $4.5 Million Per Employee: The AI ... — Feb 24, 2026 · TL;DR: Mercor, founded in 2023 by three 21-year-old Thiel Fellows, has become the most capital-efficient AI startup ever measured. At $4.5 million in revenue per employee, they surpass Microsoft ($1.8M), Meta ($2.2M), and even Nvidia ($3.6M).",
+    "url": "https://andrew.ooo/posts/mercor-45m-revenue-per-employee-ai-training/",
+    "pass": 3
+   },
+   {
+    "quote": "Mercor - 2026 Company Profile, Team, Funding & Competitors ...Mercor – Business Snapshot & Rival Analysis – 2026Mercor - WikipediaMercor, an AI recruiting startup founded by 21-year-olds ...Mercor 2026 Company Profile: Valuation, Funding & Investors ... — Aug 6, 2026 · Mercor has raised $492M in funding from Felicis Ventures and General Catalyst, with a current valuation of $10B. The company has 2",
+    "url": "https://tracxn.com/d/companies/mercor/__764DkS7wJgmA1B8PuOw3_4HUbgJcaKjh8xY9UxvBIpY",
+    "pass": 3
+   },
+   {
+    "quote": "Mercor – Business Snapshot & Rival Analysis – 2026 — Discover Mercor's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/mercor",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Mercor Becomes an AI Talent Infrastructure Paying Over $2 ... Sep 2, 2026 · Mercor envisions a future where AI agents handle everything from project management to billing and payments. However, as the number of automated tasks increases, the risk of AI processing incorrect data also expands.",
+    "url": "https://note.com/growth_journal/n/n595be836873b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How to Get Started with Mercor: An Overseas Remote Job ... Sep 22, 2026 · Mercor offers remote projects that support the improvement of AI models, such as evaluating AI-generated responses, checking Japanese phrasing, and creating questions in specialized fields.",
+    "url": "https://note.com/komon_ai/n/nb6b77d3c081d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【創業2年で3,000億円】急成長したMercor社の成功の秘密に迫る Feb 24, 2025 · Mercorは、AIを使って候補者を評価し、企業とマッチングする採用のためのプラットフォームです。 候補者がレジュメをアップロードし、20分のAIインタビューを受けるだけで、AIが最適な募集ポジションを見つけ、最大数千の企業に自動で応募します。",
+    "url": "https://note.com/startup_anatomy/n/n6d9e89b06fc5",
+    "pass": 3
+   },
+   {
+    "quote": "What is Mercor? Options for Earning Foreign Currency Rewards ... Oct 11, 2026 · Another way to work is to provide expertise or labor to overseas projects and receive compensation in foreign currency. Mercor is an overseas talent platform that can be one such option. However, not all projects are denominated in dollars, nor can they all be received via Wise.",
+    "url": "https://note.com/wada_euro/n/n7d0d87e7bb2c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【創業2年で3,000億円】急成長したMercor社の成功の秘密に迫る Feb 24, 2025 · 21歳の創業者が設立したAI採用スタートアップのMercor社が、シリーズBで評価額20億ドル（約3,000億円）のもと、1億ドル（約150億円）を調達したというニュースが2025年2月20日に発表されました。",
+    "url": "https://note.com/startup_anatomy/n/n6d9e89b06fc5",
+    "pass": 3
+   },
+   {
+    "quote": "【Mercor復活！2026年6月最新AI副業！】日本語ができれば月給300万円... OutlierやMercor、その他AI評価系の案件を経験したことがある方はもちろん、これからAI副業に挑戦したい方にもチャンスがある内容だと思います！ では早速、今回の3案件について紹介していきますね！",
+    "url": "https://note.com/ai_job/n/nfccbf001d79e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Mercor、1日200万ドル超を支払うAI人材基盤へ 急成長で見えた自動化の条件｜人材タイムズ",
+    "url": "https://note.com/growth_journal/n/n595be836873b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Mercor、1日200万ドル超を支払うAI人材基盤へ 急成長で見えた自動化の条件",
+    "url": "https://note.com/growth_journal/n/n595be836873b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AI人材プラットフォームのMercorは、世界3万人超の週次アクティブな契約人材に対し、1日200万ドル超を支払う規模まで急拡大した。急成長の裏側では、手作業の決済、分散したデータ、監査・承認プロセスが事業拡大の制約となり、決済基盤を全面的に再設計している。人材ビジネスにおいてAIエージェントによる業務自動化を進めるには、AI導入以前に「正しいデータ」と「統制可能な業務基盤」を作る必要があることを示す事例だ。",
+    "url": "https://note.com/growth_journal/n/n595be836873b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "米国のAI人材プラットフォームMercorが、急成長に伴い決済・請求インフラを大幅に再設計している。同社によれば、事業開始から17カ月で年間換算売上5億ドル規模に到達し、2026年には10億ドルを突破。世界3万人超の週次アクティブ契約人材に対する支払いは、現在1日200万ドルを超えている。",
+    "url": "https://note.com/growth_journal/n/n595be836873b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "MercorはAI企業や大手企業と専門人材をつなぐ二面市場型のプラットフォームを運営する。企業への請求と、複数国・複数通貨にまたがる契約人材への支払いを同時に処理するため、契約、稼働管理、価格計算、請求、支払い、会計処理までを一貫して管理する必要がある。",
+    "url": "https://note.com/growth_journal/n/n595be836873b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、取引量が週20万ドルから1,400万ドル超へ増える過程で、スタートアップ初期の運用が限界を迎えた。例えば毎週の支払い処理では、SQLによる確認、複数決済事業者との照合、資金残高確認、担当者による承認などが積み重なり、週10時間超のエンジニア工数が発生していた。",
+    "url": "https://note.com/growth_journal/n/n595be836873b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "そこでMercorは、決済データを後から書き換える方式から、すべての金融イベントを履歴として残す「追記型の不変台帳」へ移行。支払い状態も「発生→承認→支払可能→支払済→取消」という統一された状態管理に整理している。",
+    "url": "https://note.com/growth_journal/n/n595be836873b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、タスク完了情報や契約データも統一し、支払い処理の完全自動化を進める。AIエージェントが支払いなどを実行する場合にも、取引前に監査記録を作成し、一定金額を超えれば人間の承認を要求する仕組みを採用した。",
+    "url": "https://note.com/growth_journal/n/n595be836873b?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AIを評価して報酬を得る海外リモート案件「Mercor」の始め方｜AI/生成AI/Ryuichi",
+    "url": "https://note.com/komon_ai/n/nb6b77d3c081d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AIを評価して報酬を得る海外リモート案件「Mercor」の始め方",
+    "url": "https://note.com/komon_ai/n/nb6b77d3c081d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ChatGPTやGensparkを日常的に使っていて、こんなことを思ったことはありませんか？",
+    "url": "https://note.com/komon_ai/n/nb6b77d3c081d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "日本語力やこれまでの経験を在宅ワークに生かしたい",
+    "url": "https://note.com/komon_ai/n/nb6b77d3c081d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AIの回答の間違いや不自然さに気づくのが得意",
+    "url": "https://note.com/komon_ai/n/nb6b77d3c081d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "そんな方に知ってほしいのが、AI人材プラットフォームの「Mercor」です。",
+    "url": "https://note.com/komon_ai/n/nb6b77d3c081d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Mercorでは、AIが作った回答の評価、日本語表現の確認、専門分野に関する問題作成など、AIモデルの改善を支援するリモート案件が募集されています。",
+    "url": "https://note.com/komon_ai/n/nb6b77d3c081d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AIエンジニアでなくても応募できる案件があります。日本語GPT関連の案件では、日本語の読み書きや、回答を丁寧に比較・評価する力が生かせます。",
+    "url": "https://note.com/komon_ai/n/nb6b77d3c081d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【創業2年で3,000億円】急成長したMercor社の成功の秘密に迫る｜スタートアップアナトミー",
+    "url": "https://note.com/startup_anatomy/n/n6d9e89b06fc5",
+    "pass": 3
+   },
+   {
+    "quote": "【創業2年で3,000億円】急成長したMercor社の成功の秘密に迫る",
+    "url": "https://note.com/startup_anatomy/n/n6d9e89b06fc5",
+    "pass": 3
+   },
+   {
+    "quote": "21歳の創業者が設立したAI採用スタートアップのMercor社が、シリーズBで評価額20億ドル（約3,000億円）のもと、1億ドル（約150億円）を調達したというニュースが2025年2月20日に発表されました。今回のラウンドは、VCのFelicisがリードし、既存株主であるBenchmark Capital、General Catalyst、DST Global、Menlo Venturesといった名だたるVCも追加投資しました。",
+    "url": "https://note.com/startup_anatomy/n/n6d9e89b06fc5",
+    "pass": 3
+   },
+   {
+    "quote": "今回のラウンドによって、Brendan Foody（CEO）、Adarsh Hiremath（CTO）、Surya Midha（COO）は史上最年少のユニコーン企業の創業者となり、さらに設立2年という非常に短期間でダブルユニコーン（2Bn$）へと成長しています。",
+    "url": "https://note.com/startup_anatomy/n/n6d9e89b06fc5",
+    "pass": 3
+   },
+   {
+    "quote": "本稿では、会社設立までのストーリーや事業・プロダクトの概要、および急成長の秘密に迫ります。",
+    "url": "https://note.com/startup_anatomy/n/n6d9e89b06fc5",
+    "pass": 3
+   },
+   {
+    "quote": ": Brendan Foody（CEO）、Adarsh Hiremath（CTO）、Surya Midha（COO）",
+    "url": "https://note.com/startup_anatomy/n/n6d9e89b06fc5",
+    "pass": 3
+   },
+   {
+    "quote": ": AIを活用した採用マッチングプラットフォーム、および給与管理SaaSの開発・提供",
+    "url": "https://note.com/startup_anatomy/n/n6d9e89b06fc5",
+    "pass": 3
+   },
+   {
+    "quote": ": OpenAI、AnthropicなどのトップのAIラボ、コンサルティング、エンジニアリング、金融、法律などの専門性の高い業界の企業",
+    "url": "https://note.com/startup_anatomy/n/n6d9e89b06fc5",
+    "pass": 3
+   },
+   {
+    "quote": "Mercorとは？海外AI案件で外貨建て報酬を得る選択肢と確認すべき条件｜海外事業 和田",
+    "url": "https://note.com/wada_euro/n/n7d0d87e7bb2c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Mercorとは？海外AI案件で外貨建て報酬を得る選択肢と確認すべき条件",
+    "url": "https://note.com/wada_euro/n/n7d0d87e7bb2c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "外貨を得る方法は、投資や為替取引だけではありません。海外のプロジェクトへ専門知識や作業を提供し、その対価として外貨建ての報酬を受け取る働き方もあります。Mercorは、その選択肢の一つになり得る海外人材プラットフォームです。ただし、すべての案件がドル建てでも、Wiseで受け取れるわけでもありません。採用、案件量、報酬額、継続、受取通貨は保証されず、募集と契約の最新条件を一件ずつ確認する必要があります。",
+    "url": "https://note.com/wada_euro/n/n7d0d87e7bb2c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では「MercorとはどんなAIリモートワークサービスか」を、海外案件と外貨受け取りの実務面から整理します。目立つ報酬表示だけで判断せず、仕事の内容、契約、支払い、税務まで確認するための順番を解説します。",
+    "url": "https://note.com/wada_euro/n/n7d0d87e7bb2c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Mercorは専門性とAIプロジェクトをつなぐ場",
+    "url": "https://note.com/wada_euro/n/n7d0d87e7bb2c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Mercorは、専門知識や実務経験を持つ人と、AIモデルの評価・改善・学習支援などのプロジェクトをつなぐプラットフォームです。仕事には、AIが生成した文章を品質基準に沿って評価する、専門分野の内容をレビューする、調査結果を検証する、文章を改善するといった業務が含まれる場合があります。",
+    "url": "https://note.com/wada_euro/n/n7d0d87e7bb2c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "海外クライアントへ自分で営業する一般的な受託とは違い、掲載された募集に応募し、案件ごとの選考やアセスメントを受ける形が中心です。登録しただけで仕事が割り当てられるわけではありません。地域、経験、言語、稼働時間などの条件が合い、選考を通過して初めて契約へ進む可能性があります。",
+    "url": "https://note.com/wada_euro/n/n7d0d87e7bb2c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "と、自分の職歴に合う案件があるかを見られます。求人の内容や募集状況は変わるので、過去のSNS投稿ではなく公式画面を基準にしてください。",
+    "url": "https://note.com/wada_euro/n/n7d0d87e7bb2c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【Mercor復活！2026年6月最新AI副業！】日本語ができれば月給300万円！高額AI評価プロジェクト2件を一挙紹介！！｜AI ジョブズ 【時給6000円〜】 最先端リモート求人を紹介。業界最速で情報をお届け。",
+    "url": "https://note.com/ai_job/n/nfccbf001d79e",
+    "pass": 3
+   },
+   {
+    "quote": "【Mercor復活！2026年6月最新AI副業！】日本語ができれば月給300万円！高額AI評価プロジェクト2件を一挙紹介！！",
+    "url": "https://note.com/ai_job/n/nfccbf001d79e",
+    "pass": 3
+   },
+   {
+    "quote": "AI ジョブズ 【時給6000円〜】 最先端リモート求人を紹介。業界最速で情報をお届け。",
+    "url": "https://note.com/ai_job/n/nfccbf001d79e",
+    "pass": 3
+   },
+   {
+    "quote": "されていたので、まとめて紹介していきます！",
+    "url": "https://note.com/ai_job/n/nfccbf001d79e",
+    "pass": 3
+   },
+   {
+    "quote": "AI副業界隈の皆様は悩んでいらっしゃると思いますが、最近はOutlierはじめ、Alignerr、Dataanotation、その他マイナーなプラットフォームにおいても",
+    "url": "https://note.com/ai_job/n/nfccbf001d79e",
+    "pass": 3
+   },
+   {
+    "quote": "またそこに救世主として現れたMercorは、日本語話者向けの求人がなかなか出てこず、少し休眠状態のようにも見えていました……。",
+    "url": "https://note.com/ai_job/n/nfccbf001d79e",
+    "pass": 3
+   },
+   {
+    "quote": "私も去年から今年の2月くらいまではいくつかの案件に採用されて200万円ほど稼げたのですが、その後は音沙汰なし……。",
+    "url": "https://note.com/ai_job/n/nfccbf001d79e",
+    "pass": 3
+   },
+   {
+    "quote": "今回紹介するのは、すべて日本語スキルを活かせるAI評価プロジェクト。",
+    "url": "https://note.com/ai_job/n/nfccbf001d79e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Mercor (@mercor) / X Mercor Research mapped AI benchmarks to actual US jobs. Only 208 of 923 occupations in the US economy are represented by existing AI benchmarks. 90% of hours worked in the US aren't covered well by a relevant AI benchmark.",
+    "url": "https://x.com/mercor",
+    "pass": 3
+   },
+   {
+    "quote": "Mercor on X: \"Mercor is committing $5M to a new AI Safety ... Mercor is committing $5M to a new AI Safety Fund. One of the biggest challenges the industry faces today is addressing whether frontier AI is safe enough to deploy.",
+    "url": "https://x.com/mercor/status/2099904708571996310",
+    "pass": 3
+   },
+   {
+    "quote": "Mercor on X: \"Mercor Research mapped AI benchmarks to actual ... The Benchmark Map is our first step toward building a resource that makes it easier to answer: 𝘋𝘰𝘦𝘴 𝘵𝘩𝘪𝘴 𝘈𝘐 𝘮𝘰𝘥𝘦𝘭 𝘸𝘰𝘳𝘬 𝘧𝘰𝘳 𝘮𝘺 𝘰𝘤𝘤𝘶𝘱𝘢𝘵𝘪𝘰𝘯? Explore it here: mercor.com/research/labor…",
+    "url": "https://x.com/mercor/status/2110557079027265653",
+    "pass": 3
+   },
+   {
+    "quote": "Nvidia Eyes Investment in Fast-Growing AI Data Startup Mercor Mercor, founded in 2023, hires experts in science, law, and finance to create high-quality training data for AI systems, serving Nvidia, OpenAI, Google, and Anthropic.",
+    "url": "https://x.com/i/trending/2090163568729809369",
+    "pass": 3
+   },
+   {
+    "quote": "Mercor (@mercor) / X Last week, Mercor Research economist @aden_barton joined @MTSlive to discuss our latest study comparing frontier AI models with licensed accountants on real-world accounting tasks. 18 months ago, the best models performed below the average accountant.",
+    "url": "https://x.com/mercor",
+    "pass": 3
+   },
+   {
+    "quote": "Mercor on X: \"We compared 12 licensed accountants against ... AI vs. Accountants: Frontier Models Outscore CPAs | Mercor From mercor.com 7:26 PM · Oct 1, 2026 · 90.5K Views",
+    "url": "https://x.com/mercor/status/2105741236053434563",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Mercor - LinkedIn Mercor | 866,783 followers on LinkedIn. Organizing human intelligence to power the AI economy. | We find the best experts in every professional domain and put their knowledge to work training ...",
+    "url": "https://www.linkedin.com/company/mercor-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Brendan Foody - Mercor | LinkedInMercor Intelligence - LinkedInMercor: The $2 billion startup teaching AI to be human - LinkedInHrishi Vora - Growth @ Mercor | LinkedInWarning to Job Seekers: Stay Alert! Mercor and micro1 are ... can-do attitude · Experience: Mercor · Education: Prod · Location: San Francisco Bay Area · 500+ connections on LinkedIn. View Brendan Foody’s profile on LinkedIn, a prof",
+    "url": "https://www.linkedin.com/in/brendan-foody-2995ab10b",
+    "pass": 3
+   },
+   {
+    "quote": "Mercor Intelligence - LinkedIn Mercor Intelligence | 12,254 followers on LinkedIn. Human intelligence will unlock progress in artificial intelligence.",
+    "url": "https://www.linkedin.com/company/mercor-intelligence/",
+    "pass": 3
+   },
+   {
+    "quote": "Mercor: The $2 billion startup teaching AI to be human - LinkedIn Oct 22, 2025 · LinkedIn Top Startups: Mercor wants to build the “human layer of AI” to train algorithms in reasoning — and is shaping the future of work in the process.",
+    "url": "https://www.linkedin.com/pulse/inside-2-billion-startup-powering-ais-gig-economy-teaching-pn2je/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Mercor | San Francisco CA - FacebookMercor AI Jobs | FacebookMercor - FacebookMercor Career-Group | Received an offer for Odin-Writer ...Mercor - Get paid up to $200 to help advance wellness ...Mercor Career-Group | FacebookMercor AI Jobs | please can somebody show me how to pass ... Feb 27, 2025 · Mercor is using AI to help a billion people find their next job. We’ve raised a $30M Series A at a $",
+    "url": "https://www.facebook.com/MercorSoftware/",
+    "pass": 3
+   },
+   {
+    "quote": "Mercor AI Jobs | Facebook Oct 23, 2026 · Mercor AI Jobs is a community for sharing verified remote and on-site job opportunities from Mercor and similar AI-driven hiring platforms. We post real openings, application tips, and updates to help you land roles in software engineering, data, AI, product, and other tech fields.",
+    "url": "https://www.facebook.com/groups/mercor/",
+    "pass": 3
+   },
+   {
+    "quote": "Mercor - FacebookMercor Career-Group | Received an offer for Odin-Writer ...Mercor - Get paid up to $200 to help advance wellness ...Mercor Career-Group | FacebookMercor AI Jobs | please can somebody show me how to pass ... Apr 29, 2022 · Mercor. 2,746 followers. Mercor disrupts financial markets by building a bridge between algorithmic trading and every-day investors worldwide. Oct 17, 2026 · Par",
+    "url": "https://www.facebook.com/mercorfinance/",
+    "pass": 3
+   },
+   {
+    "quote": "Mercor Career-Group | Received an offer for Odin-Writer ... Oct 17, 2026 · Participation must comply with all applicable Mercor and Project Odin requirements, including any rules concerning who is permitted to perform or submit the recorded work.",
+    "url": "https://www.facebook.com/groups/736889379158574/posts/1094122626768579/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.mercor.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mercor.com/mission/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mercor.com/partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mercor.com/apex/partner-benchmarks/harvey-lab-leaderboard/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mercor.com/apex/partner-benchmarks/ple-bench-leaderboard/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mercor.com/apex/partner-benchmarks/tau-3-banking-leaderboard/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mercor.com/blog/ai-due-diligence-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mercor.com/stories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mercor.com/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mercor.com/enterprise/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mercor.com/partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mercor.com/careers/?location=San+Francisco",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mercor.com/careers/?location=New+York+City",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mercor.com/careers/?location=London",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mercor.com/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mercor.com/careers/a0c11121-8ffd-4c1d-9faf-bcdb9e8ca481/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mercor.com/careers/1a63b2be-1b21-4837-a3ef-2a88090c2db8/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mercor.com/careers/9c7ccc8f-c5c1-4f56-be2c-dabf1d58d3ae/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mercor.com/careers/4b96e7ba-8d93-42a8-80e6-d724c6ad6758/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mercor.com/careers/81674390-a5b3-4c37-b828-e4459ce250d5/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://kaigai-anken.com/platforms/mercor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ai_job/n/nfccbf001d79e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gig-trader.com/2025/08/mercor-application-story.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://anobaka.jp/research/10798/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://work.mercor.com/jobs/list_AAABmKQwp8fDdTkz9p5F4pKI/japanese-language-consultant",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://work.mercor.com/jobs/list_AAABmcrEWuWxGlDMh3BCj7tZ/japanese-language-consultant",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mercer.com/ja-jp/about/company/about/mercer-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.usagepricing.com/blueprint/activity/mercor-2026-08-12-enterprise-case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://azure.microsoft.com/en-us/resources/customer-stories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/mercor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/hex/case-study/mercor-scales-to-100m-in-revenue-with-hex",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Mercor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/mercor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://andrew.ooo/posts/mercor-45m-revenue-per-employee-ai-training/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/mercor/__764DkS7wJgmA1B8PuOw3_4HUbgJcaKjh8xY9UxvBIpY",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/growth_journal/n/n595be836873b?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/komon_ai/n/nb6b77d3c081d?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/startup_anatomy/n/n6d9e89b06fc5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/wada_euro/n/n7d0d87e7bb2c?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/mercor",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mercor/status/2099904708571996310",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mercor/status/2110557079027265653",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/i/trending/2090163568729809369",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/mercor-ai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/brendan-foody-2995ab10b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/mercor-intelligence/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/inside-2-billion-startup-powering-ais-gig-economy-teaching-pn2je/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MercorSoftware/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/mercor/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mercorfinance/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/736889379158574/posts/1094122626768579/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/startup_anatomy/n/n6d9e89b06fc5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/mercor",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mercor/status/2105741236053434563",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/ai_job/n/nfccbf001d79e",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Mercor 日本 導入",
+   "results": [
+    "https://kaigai-anken.com/platforms/mercor/",
+    "https://note.com/ai_job/n/nfccbf001d79e",
+    "https://www.gig-trader.com/2025/08/mercor-application-story.html",
+    "https://anobaka.jp/research/10798/",
+    "https://www.aceround.app/ja/blog/mercor-mensetsu-taisaku/",
+    "https://note.com/ai_side_job/n/n526425f6a627",
+    "https://note.com/naoko_ashida/n/n42b460d94d2a"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mercor 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.mercor.com/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://work.mercor.com/login",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://biz.toyokeizai.net/data/service/detail/id=418"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mercor Japan",
+   "results": [
+    "https://work.mercor.com/jobs/list_AAABmKQwp8fDdTkz9p5F4pKI/japanese-language-consultant",
+    "https://work.mercor.com/jobs/list_AAABmcrEWuWxGlDMh3BCj7tZ/japanese-language-consultant",
+    "https://www.mercor.com/",
+    "https://www.mercer.com/ja-jp/about/company/about/mercer-japan/",
+    "https://www.gig-trader.com/2025/08/mercor-application-story.html",
+    "https://note.com/ai_job/n/nfccbf001d79e",
+    "https://www.mercor.com/careers/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mercor manufacturing customer case study",
+   "results": [
+    "https://www.usagepricing.com/blueprint/activity/mercor-2026-08-12-enterprise-case-studies",
+    "https://azure.microsoft.com/en-us/resources/customer-stories/",
+    "https://www.casestudies.com/customer/mercor",
+    "https://www.casestudies.com/company/hex/case-study/mercor-scales-to-100m-in-revenue-with-hex",
+    "https://medium.com/@blacksolvent7/mercor-case-study-the-10b-architect-of-the-reinforcement-learning-economy-a4c12b856d1d",
+    "https://welcome.ai/company/mercor/case-studies",
+    "https://www.linkedin.com/posts/aparna-madhurakavi_careergrowth-casestudies-operations-activity-7394178858289156096-jDqe"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mercor white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partners.spectrum.com/",
+    "https://www.upcounsel.com/reseller-agreement"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mercor founded funding employees revenue",
+   "results": [
+    "https://en.wikipedia.org/wiki/Mercor",
+    "https://getlatka.com/companies/mercor",
+    "https://andrew.ooo/posts/mercor-45m-revenue-per-employee-ai-training/",
+    "https://tracxn.com/d/companies/mercor/__764DkS7wJgmA1B8PuOw3_4HUbgJcaKjh8xY9UxvBIpY",
+    "https://compworth.com/company/mercor",
+    "https://techcrunch.com/2025/02/20/mercor-an-ai-recruiting-startup-founded-by-21-year-olds-raises-100m-at-2b-valuation/",
+    "https://pitchbook.com/profiles/company/534425-05"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Mercor",
+   "results": [
+    "https://note.com/growth_journal/n/n595be836873b?hl=en",
+    "https://note.com/komon_ai/n/nb6b77d3c081d?hl=en",
+    "https://note.com/startup_anatomy/n/n6d9e89b06fc5",
+    "https://note.com/wada_euro/n/n7d0d87e7bb2c?hl=en",
+    "https://note.com/ai_job/n/nfccbf001d79e",
+    "https://note.com/long_cat1372/n/n9f08c78fe997?hl=en",
+    "https://note.com/kir1ca/n/n81d53b944c9d?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Mercor",
+   "results": [
+    "https://x.com/mercor",
+    "https://x.com/mercor/status/2099904708571996310",
+    "https://x.com/mercor/status/2110557079027265653",
+    "https://x.com/i/trending/2090163568729809369",
+    "https://x.com/mercor/status/2118403695025233953",
+    "https://x.com/ai_mercor",
+    "https://x.com/mercor/status/2113041437344534933"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Mercor",
+   "results": [
+    "https://www.linkedin.com/company/mercor-ai/",
+    "https://www.linkedin.com/in/brendan-foody-2995ab10b",
+    "https://www.linkedin.com/company/mercor-intelligence/",
+    "https://www.linkedin.com/pulse/inside-2-billion-startup-powering-ais-gig-economy-teaching-pn2je/",
+    "https://www.linkedin.com/in/hrishi-vora",
+    "https://www.linkedin.com/posts/arghya-roy-chaudhuri-5ab94863_warning-to-job-seekers-stay-alert-mercor-activity-7257133902731894785-rCQ0",
+    "https://www.linkedin.com/posts/mikeburda_scamalert-professionalsafety-jobscams-activity-7361404724836777985-VYV-"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Mercor",
+   "results": [
+    "https://www.facebook.com/MercorSoftware/",
+    "https://www.facebook.com/groups/mercor/",
+    "https://www.facebook.com/mercorfinance/",
+    "https://www.facebook.com/groups/736889379158574/posts/1094122626768579/",
+    "https://www.facebook.com/groups/736889379158574/",
+    "https://www.facebook.com/groups/mercor/posts/2141790179720512/",
+    "https://www.facebook.com/MercorSoftware/posts/get-paid-up-to-200-to-help-advance-wellness-research-right-from-your-iphone-at-h/1426706446291079/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mercor note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.com/startup_anatomy/n/n6d9e89b06fc5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://exa.ai/websets/directory/mercor-executives",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mercor X 投稿",
+   "results": [
+    "https://x.com/mercor",
+    "https://x.com/mercor/status/2105741236053434563",
+    "https://note.com/ai_job/n/nfccbf001d79e",
+    "https://www.mercor.com/",
+    "https://work.mercor.com/login",
+    "https://blog.enovace.com/zh/tutorials/2026/06/07/mercor/",
+    "https://note.com/ai_job/n/n3a8d3be93de3"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部42頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部42頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部42頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部42頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部42頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部42頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部42頁・検索12回）"
+ }
+}

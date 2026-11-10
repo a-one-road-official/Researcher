@@ -1,0 +1,1602 @@
+{
+ "name": "Metaview",
+ "aliases": [],
+ "context": "旧営業リスト｜AI Recruiting Platform｜状態なし",
+ "researched_at": "2026-11-10T00:16:18.282985+00:00",
+ "official_url": "https://www.metaview.ai/",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "Pricing",
+    "value": "AI recruiting platform plans · Metaview",
+    "url": "https://www.metaview.ai/pricing",
+    "pass": 1
+   }
+  ],
+  "株主": [
+   {
+    "label": "Seedリード",
+    "value": "Vertex Ventures US（Jonathan Heiliger） 2021年12月1日、Metaview公式",
+    "url": "https://saka2jp.vercel.app/deep-dive-company/metaview/",
+    "pass": 3
+   },
+   {
+    "label": "Seedcamp",
+    "value": "Our Journey with Metaview",
+    "url": "https://saka2jp.vercel.app/deep-dive-company/metaview/",
+    "pass": 3
+   },
+   {
+    "label": "1. Seed Round",
+    "value": "25-Dec-2018 $1.6M $1.6M  Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/235241-20",
+    "pass": 3
+   },
+   {
+    "label": "Total raised",
+    "value": "$7.6M",
+    "url": "https://getlatka.com/companies/metaview",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "約94〜104名 2026年1〜2月、Tracxn／LinkedIn",
+    "url": "https://saka2jp.vercel.app/deep-dive-company/metaview/",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "推定ARRレンジ（独立試算）",
+    "value": "$10M〜$25M SpendHound ACV平均 × 顧客数 × Enterpriseロゴ比率から推計",
+    "url": "https://saka2jp.vercel.app/deep-dive-company/metaview/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Metaview: The Agentic Recruiting Platform",
+    "url": "https://www.metaview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Get a head start on hiring for 2027. Free, unlimited candidate contact enrichments. Only till Dec 31.",
+    "url": "https://www.metaview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Metaview is the Agentic Recruiting Platform built for radically efficient hiring, end to end. Source, engage, and hire better with agents that truly get your brief.",
+    "url": "https://www.metaview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Finds and outreaches candidates.",
+    "url": "https://www.metaview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Tell Metaview who you need and a proactive agent curates a high-fit shortlist and handles outreach tuned to your tone.",
+    "url": "https://www.metaview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "26 candidates",
+    "url": "https://www.metaview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "for you to review. Full profiles and supporting files are attached.",
+    "url": "https://www.metaview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Hire an outbound coworker.",
+    "url": "https://www.metaview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "helping you at every step of the hiring process.",
+    "url": "https://www.metaview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Metaview handles notes, scorecards, and follow-ups automatically, so recruiters spend their hours on candidates – not admin.",
+    "url": "https://www.metaview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Reach qualified candidates faster with deeply researched outreach, instant application review, and screening that runs around the clock.",
+    "url": "https://www.metaview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Every interview and search becomes queryable data – from comp benchmarks to pipeline trends, always up to date.",
+    "url": "https://www.metaview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Recruiters, hiring managers, and AI agents share context, keeping everyone aligned on criteria, calibrated on candidates, and moving in the same direction.",
+    "url": "https://www.metaview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Configure every workflow, output, and agent to match your exact ways of working. Your scorecards, your hiring process, and your definition of “great.” With reporting that answers your team’s most pressing questions.",
+    "url": "https://www.metaview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Proactive, autonomous agents",
+    "url": "https://www.metaview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Use AI agents to source, screen, and surface high-fit candidates around the clock. Acting on your behalf, autonomously, with the criteria guardrails you define.",
+    "url": "https://www.metaview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Infuse your job requirements, interview history, team preferences, and company knowledge throughout one intelligence layer. Outputs get sharper with every hire, and every choice becomes clearer, faster.",
+    "url": "https://www.metaview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-level security and controls.",
+    "url": "https://www.metaview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Designed for people who care about effective hiring.",
+    "url": "https://www.metaview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "I can confidently say that if you're not using Metaview, you are wasting at least 10+ hours a week and giving your candidates a worse experience. The product is easily one of the best out there for companies actively hiring.",
+    "url": "https://www.metaview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Technical Recruiting · Replit",
+    "url": "https://www.metaview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Metaview catches nuances that might otherwise slip through the cracks, providing us with rich, AI-analyzed, interview content that highlights key points and potential red flags.",
+    "url": "https://www.metaview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "It's not just the hours saved, but also the time you can use to focus on what really matters: getting the signal we need to make the best hiring decisions.",
+    "url": "https://www.metaview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Recruiting Ops · DELIVEROO",
+    "url": "https://www.metaview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "improved candidate experience",
+    "url": "https://www.metaview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Get a head start on hiring for 2027. Free, unlimited candidate contact enrichments. Only till Dec 31.",
+    "url": "https://www.metaview.ai/sourcing",
+    "pass": 1
+   },
+   {
+    "quote": "Find the right candidates faster than you ever thought possible with AI-powered candidate search.",
+    "url": "https://www.metaview.ai/sourcing",
+    "pass": 1
+   },
+   {
+    "quote": "Proactive and always-on",
+    "url": "https://www.metaview.ai/sourcing",
+    "pass": 1
+   },
+   {
+    "quote": "From your first intake call, the agent kicks off a web search, scanning and evaluating candidate profiles against your exact criteria.",
+    "url": "https://www.metaview.ai/sourcing",
+    "pass": 1
+   },
+   {
+    "quote": "No rigid filters. Metaview understands anything you give it—JDs, resumes, past candidates, even natural language—so it can think and search like you.",
+    "url": "https://www.metaview.ai/sourcing",
+    "pass": 1
+   },
+   {
+    "quote": "Metaview gets better over time, learning from your direct feedback and wider hiring context to calibrate on what ‘good’ looks like for recruiters and hiring managers.",
+    "url": "https://www.metaview.ai/sourcing",
+    "pass": 1
+   },
+   {
+    "quote": "Interprets your hiring needs and job requirements,",
+    "url": "https://www.metaview.ai/sourcing",
+    "pass": 1
+   },
+   {
+    "quote": "Free form describe your ideal candidate profile.",
+    "url": "https://www.metaview.ai/sourcing",
+    "pass": 1
+   },
+   {
+    "quote": "Upload a JD, sample resumes or interviews to enrich context.",
+    "url": "https://www.metaview.ai/sourcing",
+    "pass": 1
+   },
+   {
+    "quote": "Get instant profiles off the back of an intake call with Metaview.",
+    "url": "https://www.metaview.ai/sourcing",
+    "pass": 1
+   },
+   {
+    "quote": "Talent leaders, hiring managers, and founders around the world are speaking for us.",
+    "url": "https://www.metaview.ai/sourcing",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Talent Acquisition at Swarm Aero",
+    "url": "https://www.metaview.ai/sourcing",
+    "pass": 1
+   },
+   {
+    "quote": "That has never happened to me. In my entire career, I don't think a sourcing tool has ever actually surprised me. This one did.",
+    "url": "https://www.metaview.ai/sourcing",
+    "pass": 1
+   },
+   {
+    "quote": "Talent Acquisition Partner at Lemonade",
+    "url": "https://www.metaview.ai/sourcing",
+    "pass": 1
+   },
+   {
+    "quote": "It's like having a smart partner that can take our sourcing processes forward in terms of speed, quality, and efficiency. I can really feel it in our searches and results.",
+    "url": "https://www.metaview.ai/sourcing",
+    "pass": 1
+   },
+   {
+    "quote": "When you work in such a saturated market, a tool like Metaview that takes into account the constant feedback you're giving it. I really can't express how much time it saved me.",
+    "url": "https://www.metaview.ai/sourcing",
+    "pass": 1
+   },
+   {
+    "quote": "With Metaview, for the first time in my career within the first 25 profiles the hire was there.",
+    "url": "https://www.metaview.ai/sourcing",
+    "pass": 1
+   },
+   {
+    "quote": "Identify fastest growing employers hiring",
+    "url": "https://www.metaview.ai/sourcing",
+    "pass": 1
+   },
+   {
+    "quote": "has been recruiting people from in the past",
+    "url": "https://www.metaview.ai/sourcing",
+    "pass": 1
+   },
+   {
+    "quote": "hired before expanding",
+    "url": "https://www.metaview.ai/sourcing",
+    "pass": 1
+   },
+   {
+    "quote": "Analyze employer brand sentiment for",
+    "url": "https://www.metaview.ai/sourcing",
+    "pass": 1
+   },
+   {
+    "quote": "Map top companies currently hiring for",
+    "url": "https://www.metaview.ai/sourcing",
+    "pass": 1
+   },
+   {
+    "quote": "Always-on AI teammate finding candidates 24/7.",
+    "url": "https://www.metaview.ai/sourcing",
+    "pass": 1
+   },
+   {
+    "quote": "Perfect recruiting notes, configurable and contextual.",
+    "url": "https://www.metaview.ai/sourcing",
+    "pass": 1
+   },
+   {
+    "quote": "Loved by recruiters, hiring teams & leaders at",
+    "url": "https://www.metaview.ai/sourcing",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing: AI recruiting platform plans · Metaview",
+    "url": "https://www.metaview.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Get a head start on hiring for 2027. Free, unlimited candidate contact enrichments. Only till Dec 31.",
+    "url": "https://www.metaview.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For candidates you find with Metaview. Included with every Sourcing plan.",
+    "url": "https://www.metaview.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "First 100 profiles sourced free",
+    "url": "https://www.metaview.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Proactive, 24/7 candidate search for your team.",
+    "url": "https://www.metaview.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "200 profiles sourced per month",
+    "url": "https://www.metaview.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Unlimited sourcing for high-volume hiring.",
+    "url": "https://www.metaview.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Unlimited profiles sourced",
+    "url": "https://www.metaview.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Dedicated support & training",
+    "url": "https://www.metaview.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise security features",
+    "url": "https://www.metaview.ai/pricing",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Anyone involved in hiring. Recruiters, hiring managers, and executive search partners all use Metaview. So do Fortune 500s, fast-growing startups, industries, and recruiting agencies. If you're hiring, Metaview is for you.",
+    "url": "https://www.metaview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Anyone involved in hiring. Recruiters, hiring managers, and executive search partners all use Metaview. So do Fortune 500s, fast-growing startups, industries, and recruiting agencies. If you're hiring, Metaview is for you.",
+    "url": "https://www.metaview.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "7,000+ teams, from startups to Fortune 500s. Recruiters, hiring managers, search firms and recruiting agencies all use it.",
+    "url": "https://www.metaview.ai/about",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Anyone involved in hiring. Recruiters, hiring managers, and executive search partners all use Metaview. So do Fortune 500s, fast-growing startups, industries, and recruiting agencies. If you're hiring, Metaview is for you.",
+    "url": "https://www.metaview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "If you don't see your tool listed, talk to the team for an estimate on when it'll be available.",
+    "url": "https://www.metaview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Talent Acquisition at Swarm Aero",
+    "url": "https://www.metaview.ai/sourcing",
+    "pass": 1
+   },
+   {
+    "quote": "Talent Acquisition Partner at Lemonade",
+    "url": "https://www.metaview.ai/sourcing",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Talent Acquisition",
+    "url": "https://www.metaview.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Anyone involved in hiring. Recruiters, hiring managers, and executive search partners all use Metaview. So do Fortune 500s, fast-growing startups, industries, and recruiting agencies. If you're hiring, Metaview is for you.",
+    "url": "https://www.metaview.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "If you don't see your tool listed,",
+    "url": "https://www.metaview.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "As we scale our world-class team to build the most intelligent finance platform, Metaview is helping us raise the bar. What began as a tool to keep quality and efficiency at the core of our hiring process has quickly become a foundational part of how we hire.",
+    "url": "https://www.metaview.ai/customers/wall-of-love",
+    "pass": 1
+   },
+   {
+    "quote": "Talent Acquisition Partner, Deel",
+    "url": "https://www.metaview.ai/customers/wall-of-love",
+    "pass": 1
+   },
+   {
+    "quote": "Talent Acquisition Partner, HelloFresh",
+    "url": "https://www.metaview.ai/customers/wall-of-love",
+    "pass": 1
+   },
+   {
+    "quote": "Director Talent Acquisition, Integria Consulting",
+    "url": "https://www.metaview.ai/customers/wall-of-love",
+    "pass": 1
+   },
+   {
+    "quote": "‼️ The best part is it allows me to be fully present in the conversation with the candidate and carry on an authentic conversation. I'm no longer worried about typing away and missing important parts of what was discussed",
+    "url": "https://www.metaview.ai/customers/wall-of-love",
+    "pass": 1
+   },
+   {
+    "quote": "Harrison Walker Grant",
+    "url": "https://www.metaview.ai/customers/wall-of-love",
+    "pass": 1
+   },
+   {
+    "quote": "Talent Acquisition Partner, Pharmaron",
+    "url": "https://www.metaview.ai/customers/wall-of-love",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Growth & Acquisition, Magellan Financial",
+    "url": "https://www.metaview.ai/customers/wall-of-love",
+    "pass": 1
+   },
+   {
+    "quote": "Global Head of Talent Acquisition, Vay",
+    "url": "https://www.metaview.ai/customers/wall-of-love",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Talent Acquisition Manager, Circuit",
+    "url": "https://www.metaview.ai/customers/wall-of-love",
+    "pass": 1
+   },
+   {
+    "quote": "Recruiter, Lexipol",
+    "url": "https://www.metaview.ai/customers/wall-of-love",
+    "pass": 1
+   },
+   {
+    "quote": "7,000+ teams, from startups to Fortune 500s.",
+    "url": "https://www.metaview.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "7,000+ teams, from startups to Fortune 500s. Recruiters, hiring managers, search firms and recruiting agencies all use it.",
+    "url": "https://www.metaview.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "財務・成長 — 累計$50M、顧客数20倍成長、ARR非開示の中の評価",
+    "url": "https://saka2jp.vercel.app/deep-dive-company/metaview/",
+    "pass": 3
+   },
+   {
+    "quote": "Metaviewは非公開企業でARR・売上を一切開示していない",
+    "url": "https://saka2jp.vercel.app/deep-dive-company/metaview/",
+    "pass": 3
+   },
+   {
+    "quote": "Application ReviewとAI Sourcingがエンタープライズ層で急拡大し、ARR $50M級到達",
+    "url": "https://saka2jp.vercel.app/deep-dive-company/metaview/",
+    "pass": 3
+   },
+   {
+    "quote": "独立上場へ進むか、Google／Microsoft／Salesforceに吸収されるか、 それともATSベンダーの一機能に飲まれるか",
+    "url": "https://saka2jp.vercel.app/deep-dive-company/metaview/",
+    "pass": 3
+   },
+   {
+    "quote": "SAP completes SmartRecruiters acquisition (2025年8月〜9月)",
+    "url": "https://saka2jp.vercel.app/deep-dive-company/metaview/",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of connected artificial intelligence agents designed to support different stages of the hiring workflow. The company offers job description drafting, candidate context retrieval, and reporting features, enabling talent acquisition professionals to simplify tasks and enhance decision-making.",
+    "url": "https://pitchbook.com/profiles/company/235241-20",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/235241-20",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions (1)",
+    "url": "https://pitchbook.com/profiles/company/235241-20",
+    "pass": 3
+   },
+   {
+    "quote": "Metaview’s most recent deal was a Merger/Acquisition with",
+    "url": "https://pitchbook.com/profiles/company/235241-20",
+    "pass": 3
+   },
+   {
+    "quote": "To view Metaview’s complete acquisitions history, request access »",
+    "url": "https://pitchbook.com/profiles/company/235241-20",
+    "pass": 3
+   },
+   {
+    "quote": "Metaview has 80 total employees.",
+    "url": "https://pitchbook.com/profiles/company/235241-20",
+    "pass": 3
+   },
+   {
+    "quote": "What is Metaview’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/235241-20",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Metaview is",
+    "url": "https://pitchbook.com/profiles/company/235241-20",
+    "pass": 3
+   },
+   {
+    "quote": "Metaview Revenue 2019: $204.4K, $7.6M Raised",
+    "url": "https://getlatka.com/companies/metaview",
+    "pass": 3
+   },
+   {
+    "quote": "Metaview's annual revenue was $204.4K in January 2019 (source not recorded), the most recent figure on record.",
+    "url": "https://getlatka.com/companies/metaview",
+    "pass": 3
+   },
+   {
+    "quote": "Metaview competes most directly with HireVue and Hiretual. It is the smallest of the three by revenue.",
+    "url": "https://getlatka.com/companies/metaview",
+    "pass": 3
+   },
+   {
+    "quote": "Metaview CEO, founders & employees",
+    "url": "https://getlatka.com/companies/metaview",
+    "pass": 3
+   },
+   {
+    "quote": "Shahriar Tajbakhsh founded Metaview in 2018 and runs it as CEO. Metaview had 32 employees (October 2024, LinkedIn), up from 21 a year earlier.",
+    "url": "https://getlatka.com/companies/metaview",
+    "pass": 3
+   },
+   {
+    "quote": "What is Metaview's revenue?",
+    "url": "https://getlatka.com/companies/metaview",
+    "pass": 3
+   },
+   {
+    "quote": "Metaview's annual revenue was",
+    "url": "https://getlatka.com/companies/metaview",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Metaview have?",
+    "url": "https://getlatka.com/companies/metaview",
+    "pass": 3
+   },
+   {
+    "quote": "employees in October 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/metaview",
+    "pass": 3
+   },
+   {
+    "quote": "Talent Acquisition Suites Software",
+    "url": "https://getlatka.com/companies/metaview",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/metaview",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/metaview",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/metaview",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Metaview have?",
+    "url": "https://fundediq.co/metaview-metaview-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/metaview-metaview-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/metaview-metaview-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "announced the acquisition",
+    "url": "https://www.eu-startups.com/2026/10/londons-metaview-raises-e53-1-million-series-c-led-by-insight-partners-to-scale-its-agentic-recruiting-platform/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "You can run a search or start recording an interview in under 45 seconds. Getting started is simple: create an account with your work email, connect your tools, and configure your preferences. Most teams are fully up and running the same day.",
+    "url": "https://www.metaview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes — we support bulk imports for customers migrating from another tool. Format is flexible as long as each file in the batch is consistent. We need the transcript, participant names, and start time for each interview; participant emails are helpful but not required. To get started, reach out to us and we'll have a script written and run for you.",
+    "url": "https://www.metaview.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Free, unlimited emails and phone numbers*",
+    "url": "https://www.metaview.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "You can run a search or start recording an interview in under 45 seconds. Getting started is simple: create an account with your work email, connect your tools, and configure your preferences. Most teams are fully up and running the same day.",
+    "url": "https://www.metaview.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes — we support bulk imports for customers migrating from another tool. Format is flexible as long as each file in the batch is consistent. We need the transcript, participant names, and start time for each interview; participant emails are helpful but not required. To get started, reach out to us and we'll have a script written and run for you.",
+    "url": "https://www.metaview.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Emailed our immigration lawyer, Person A. He's OOO until Sept 2nd but his automatic reply said to contact Person B. Naturally, I looped in Person B. Automatic reply came back saying they're OOO and I should reach out to Person C. Naturally, I looped in Person C. Automatic reply came back saying they're OOO and that I should reach out to Person A. Naturally...",
+    "url": "https://www.metaview.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Metaview is probably one of the greatest things to happen to recruiting since the inception of emails.",
+    "url": "https://www.metaview.ai/customers/wall-of-love",
+    "pass": 1
+   },
+   {
+    "quote": "Connect your work email, ATS and calendar.",
+    "url": "https://www.metaview.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/235241-20",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the Metaview team: 1 of 2 have an email address on file, 1 has a LinkedIn profile.",
+    "url": "https://fundediq.co/metaview-metaview-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/metaview-metaview-ai-funding/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本語、マンダリン、ヒンディー等を正式サポート",
+    "url": "https://saka2jp.vercel.app/deep-dive-company/metaview/",
+    "pass": 3
+   },
+   {
+    "quote": "戦略・日本市場・未来 — Agent Manager時代の賭け、日本市場の空白",
+    "url": "https://saka2jp.vercel.app/deep-dive-company/metaview/",
+    "pass": 3
+   },
+   {
+    "quote": "Greenhouse×BrightHire Exclusive統合による構造的不利／AI Interviewer非提供で完全自動化トレンドへの乗り遅れリスク／ATS内製AI（Ashby/Greenhouse/Workday）の挟撃／日本・APACでの認知と体制が薄い",
+    "url": "https://saka2jp.vercel.app/deep-dive-company/metaview/",
+    "pass": 3
+   },
+   {
+    "quote": "BrightHire→Zoom買収で独立系\"最後の砦\"ポジション獲得／EU AI Actの追い風（\"判定しない\"設計が評価されやすい）／Application Reviewで急成長インバウンド応募市場を取りに行く／Google/Microsoft/Salesforceからの買収候補／日本市場の空白（HERP AI Recruiterが先行するものの、グローバル企業の日本法人に残る余地）",
+    "url": "https://saka2jp.vercel.app/deep-dive-company/metaview/",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場 — \"空白\"だが、HERPが既に同じコンセプトを埋めている",
+    "url": "https://saka2jp.vercel.app/deep-dive-company/metaview/",
+    "pass": 3
+   },
+   {
+    "quote": "Metaviewの日本展開は、",
+    "url": "https://saka2jp.vercel.app/deep-dive-company/metaview/",
+    "pass": 3
+   },
+   {
+    "quote": "プロダクトとして日本語対応済み（2024年8月に50+言語化）",
+    "url": "https://saka2jp.vercel.app/deep-dive-company/metaview/",
+    "pass": 3
+   },
+   {
+    "quote": "LinkedInにAPAC (Virtual)の記載はあるものの、東京オフィスや日本法人の公式情報は確認できず、 日本語PRは発行されていない",
+    "url": "https://saka2jp.vercel.app/deep-dive-company/metaview/",
+    "pass": 3
+   },
+   {
+    "quote": "Sonyを顧客として挙げる海外報道は存在するが、日本本体契約か海外拠点契約かは特定できていない",
+    "url": "https://saka2jp.vercel.app/deep-dive-company/metaview/",
+    "pass": 3
+   },
+   {
+    "quote": "日本のHR Tech市場では既にHERPが「HERP AI Recruiter」を2025年にリリース",
+    "url": "https://saka2jp.vercel.app/deep-dive-company/metaview/",
+    "pass": 3
+   },
+   {
+    "quote": "し、 botが自動参加して面接議事録・要点・評価ドラフトを生成する Metaview類似のコンセプトを 日本語・日本ATS文脈で先行展開している",
+    "url": "https://saka2jp.vercel.app/deep-dive-company/metaview/",
+    "pass": 3
+   },
+   {
+    "quote": "日経報道・PR TIMESで露出を集め、日本企業の「採用AI」の想起は",
+    "url": "https://saka2jp.vercel.app/deep-dive-company/metaview/",
+    "pass": 3
+   },
+   {
+    "quote": "また新卒一括採用・集団面接（GD）・ケース面接・敬語処理など、 日本市場特有の構造がMetaviewの\"1会話1言語／1候補者中心\"設計には必ずしもフィットしない面がある",
+    "url": "https://saka2jp.vercel.app/deep-dive-company/metaview/",
+    "pass": 3
+   },
+   {
+    "quote": "そして日本市場にとっては、HERP AI Recruiterの先行と 新卒一括採用・集団面接・敬語という構造的ハードルを越えて Metaviewが本格参入するかどうかが、2026年以降の注目点である",
+    "url": "https://saka2jp.vercel.app/deep-dive-company/metaview/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、AI面接ノートツール「Metaview」を使い、海外拠点や外国籍の採用を行う日本企業・人材紹介会社向けに、",
+    "url": "https://note.com/kai_claudecode/n/n85299ca6b47a",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、海外拠点との面接や外国籍人材の採用を英語で行う日本企業は、確実に増えています",
+    "url": "https://note.com/kai_claudecode/n/n85299ca6b47a",
+    "pass": 3
+   },
+   {
+    "quote": "面接の会話に集中し、記録を評価につなげる【AI面接ツール5選と活用法】｜NanoHuman株式会社",
+    "url": "https://note.com/nanohuman/n/nf989fa826cd1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "文字起こしは英語・スペイン語・フランス語・ドイツ語・日本語・中国語（簡体字）に対応",
+    "url": "https://note.com/nanohuman/n/nf989fa826cd1?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "2026年版 Metaview の実際のレビュー：実際のユーザーは何と言ってい... — Oct 11, 2026 · 実際の Metaview レビューを読み、採用マネージャーやリクルーターがこのプラットフォームについてどう考えているのか確認しましょう。よりコスト効率の高い代替案についても紹介します。",
+    "url": "https://www.bluedothq.com/ja/blog/metaview-review",
+    "pass": 3
+   },
+   {
+    "quote": "Metaview — \"人間同士の面接は人間に残す\"。Uber×Palantir発の英ロン... — Apr 23, 2026 · 2018年4月、Uberで面接パネリストを務めたSiadhal Magosが、Palantirのリードエンジニア Shahriar Tajbakhshと英ロンドンで創業したMetaview。「面接はブラックホール」という課題認識から、AI Notetakerを起点にAI Sourcing・Application Review・Claude MCP連携までを束ねる\"System of Intelligence\"へ進化した。2025年6月のGV主導 ...",
+    "url": "https://saka2jp.vercel.app/deep-dive-company/metaview/",
+    "pass": 3
+   },
+   {
+    "quote": "ChatGPT 向け Metaview プラグイン | OpenAI — 仕組み Metaview を ChatGPT に接続し、面接の文字起こし、要約、メモを照会できます。採用業務全体から関連する会話をすばやく見つけ、候補者へのフィードバックを比較し、構造化されたインサイトを生成できます。 ほかにできること",
+    "url": "https://openai.com/ja-JP/business/plugins/metaview/",
+    "pass": 3
+   },
+   {
+    "quote": "MetaView: Monocular Novel View Synthesis with Scale-Aware ... — Aug 30, 2026 · MetaViewはECCV 2026で発表された単眼新規ビュー合成手法です。スケール認識型暗黙的幾何学事前知識と修正RoPEを用いて、大きな視点変化でも高品質な画像生成を実現します。",
+    "url": "https://reporank.net/ja/repo/klingairesearch-metaview.html",
+    "pass": 3
+   },
+   {
+    "quote": "GitHub - KlingAIResearch/MetaView: [ECCV 2026] MetaView ... — MetaView is a diffusion-based framework for high-fidelity novel view synthesis that enables accurate rendering under large view changes from a single image. Current generative novel view synthesis methods typically rely on restrictive explicit 3D reconstruction pipelines to enforce spatial consistency but inherently restrict generalizat",
+    "url": "https://github.com/KlingAIResearch/MetaView",
+    "pass": 3
+   },
+   {
+    "quote": "About Metaview: The Agentic Recruiting Platform — Metaview is the agentic recruiting platform used by 7,000+ teams, from startups to Fortune 500s. Meet the founders, see key facts and learn how it works.",
+    "url": "https://www.metaview.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "Metaview now supports 50+ languages. · Metaview Blog — Jul 26, 2023 · [Updated August 2024] Today, we’re excited to announce that Metaview now supports interviews done in 50+ languages - including French, German, Dutch, Portuguese, Spanish, Japanese, Mandarin, and Hindi, to name a few. We’re especially pumped to be the first and only platform to offer support for interviews in non-English language",
+    "url": "https://www.metaview.ai/resources/blog/metaview-now-supports-50-languages",
+    "pass": 3
+   },
+   {
+    "quote": "MetaView | LinkedIn — With consultants fluent in English, German, Spanish, Italian, French and Japanese, and delivery hubs across EMEA, the Americas, and APJ, MetaView delivers consistent impact worldwide while staying locally relevant. Developing People. Driving Outcomes. Accelerating Impact with AI. That’s the MetaView way.",
+    "url": "https://jp.linkedin.com/company/metaviewaps",
+    "pass": 3
+   },
+   {
+    "quote": "Meta View LLC - Google Sites — Meta View LLC provides vanguard office solutions to ensure persistence and prosperity of aspiring companies. Located in Tokyo/Japan, Meta View LLC is successfully establishing operations and accelerating growth of our clients in Japan, Germany and other countries. We offer a broad range of solutions and services for companies, business owners, executives and independ",
+    "url": "https://sites.google.com/metaviewllc.net/metaviewllc",
+    "pass": 3
+   },
+   {
+    "quote": "Metaview case studies · Metaview — See how top teams use Metaview to source, engage, and hire better.",
+    "url": "https://www.metaview.ai/resources/case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Metaview Metaview Reports — case studies & results · Case ... — Customer case studies that used Metaview Metaview Reports, documented from their original published sources.",
+    "url": "https://www.casestudydesk.com/product/metaview-metaview-reports",
+    "pass": 3
+   },
+   {
+    "quote": "Metaview case studies — How Elara Caring saved 50% of recruiter time on screening calls with Metaview. Meltwater’s Golden Circle strategy to spot, train, and retain top performers with Metaview Reports. How SoSafe improved screening signals and hiring consistency with Metaview. How Perk uses Metaview to run high-quality global hiring at scale.",
+    "url": "https://metaview-branded-preview.vercel.app/resources/case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Polar Analytics speeds up interviewing and saves ... — Polar Analytics (Computer Software) partnered with Metaview (Computer Software) to solve key challenges. \"Polar Analytics - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/metaview/case-study/polar-analytics-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "61 Metaview Case Studies, Success Stories, & Customer Stories — Narrow down 61 case studies by company size & industry to find out how Metaview works for a business like yours.",
+    "url": "https://www.featuredcustomers.com/vendor/metaview/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Metaview 2026 Company Profile: Valuation, Funding & Investors ...Metaview Revenue 2019: $204.4K, $7.6M Raised - LATKAMetaview: Funding, Investors & Team (Nov 2026) | FundedIQLondon's Metaview raises €53.1 million Series C led by ...Metaview Profile 2026: Financials, AI Strategy & BrightHire ...Metaview – Growth Analysis & Alternative Companies – 2026Metaview — venture-backed company profile | Deal",
+    "url": "https://pitchbook.com/profiles/company/235241-20",
+    "pass": 3
+   },
+   {
+    "quote": "Metaview Revenue 2019: $204.4K, $7.6M Raised - LATKA — Oct 30, 2026 · Metaview 2019 revenue: $204.4K. Total funding: $7.6M across 2 rounds. 32 employees. Industry: Recruiting Software. Founded 2018. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/metaview",
+    "pass": 3
+   },
+   {
+    "quote": "Metaview: Funding, Investors & Team (Nov 2026) | FundedIQ — Metaview is an Administrative Services company in London, United Kingdom. Raised $102M across 3 rounds; latest a Series C in Sep 2026.",
+    "url": "https://fundediq.co/metaview-metaview-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "London's Metaview raises €53.1 million Series C led by ... — Oct 1, 2026 · Metaview, a London-based agentic recruiting platform that automates sourcing, application review, interviewing, reporting and hiring workflows, has raised €53.1 million ($60 million) in Series C funding.",
+    "url": "https://www.eu-startups.com/2026/10/londons-metaview-raises-e53-1-million-series-c-led-by-insight-partners-to-scale-its-agentic-recruiting-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Metaview Profile 2026: Financials, AI Strategy & BrightHire ... — The company has 93 employees and serves over 4,000 organizations, including Sony, Deel, Brex, Deliveroo, and ElevenLabs. Metaview is a funded company based in London, United Kingdom, founded in 2018 by Siadhal Magos and Shahriar Tajbakhsh. It operates as an AI-powered recruiting platform that automates and enhances the interview pro",
+    "url": "https://dexteragent.ai/companies/metaview-1771896535",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Metaview Metaview Reports — case studies & results · Case Study Desk",
+    "url": "https://www.casestudydesk.com/product/metaview-metaview-reports",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Polar Analytics speeds up interviewing and saves time with Metaview | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/metaview/case-study/polar-analytics-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Polar Analytics speeds up interviewing and saves time with Metaview",
+    "url": "https://www.casestudies.com/company/metaview/case-study/polar-analytics-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Polar Analytics - Customer Case Study",
+    "url": "https://www.casestudies.com/company/metaview/case-study/polar-analytics-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/metaview/case-study/polar-analytics-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/metaview/case-study/polar-analytics-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Vaso by Eco Manufacturing will create the panel for a four-bedroom house that will be built in four days.",
+    "url": "https://fundediq.co/metaview-metaview-ai-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Metaview is used by more than 7,000 companies, including Deel, Affirm, Navan, and Replit.",
+    "url": "https://www.eu-startups.com/2026/10/londons-metaview-raises-e53-1-million-series-c-led-by-insight-partners-to-scale-its-agentic-recruiting-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "France’s Filigran nets €49 million to scale cyber defence solutions used by the FBI and European Commission",
+    "url": "https://www.eu-startups.com/2026/10/londons-metaview-raises-e53-1-million-series-c-led-by-insight-partners-to-scale-its-agentic-recruiting-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "AutoStore to acquire Dutch warehouse and horticulture automation firm Logiqs for up to €30 million",
+    "url": "https://www.eu-startups.com/2026/10/londons-metaview-raises-e53-1-million-series-c-led-by-insight-partners-to-scale-its-agentic-recruiting-platform/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Metaviewが約100億調達！求人検索サービスHiringCafeも13億調達。HR×A... Oct 5, 2026 · Metaviewが約100億調達！求人検索サービスHiringCafeも13億調達。HR×AI銘柄の大型調達、続々。｜ビジネスネタ探し＆新規事業の考察が大好き／ベイトレイルCEO 豊田 メインコンテンツへスキップ",
+    "url": "https://note.com/hoshi19/n/n7d54ef199839",
+    "pass": 3
+   },
+   {
+    "quote": "Metaviewで始めるAI採用代行の副業｜英語面接ノート検収というニッチ... Sep 13, 2026 · はじめに Metaviewとは何か｜AI採用代行の副業でやること・やらないこと なぜ今、AI採用代行の副業に需要があるのか AI採用代行の副業を始める前に知っておくべき2つの法律の話（正直に書きます） よくある質問 Metaviewは商用利用できる？ 料金プランは？",
+    "url": "https://note.com/kai_claudecode/n/n85299ca6b47a",
+    "pass": 3
+   },
+   {
+    "quote": "Focus on Interview Conversations and Connect Records to ... Sep 22, 2026 · Metaview is a tool designed specifically for the hiring workflow. It integrates with ATS (Applicant Tracking Systems) and generates summaries optimized for interview evaluation rather than general meeting minutes.",
+    "url": "https://note.com/nanohuman/n/nf989fa826cd1?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Metaviewが約100億調達！求人検索サービスHiringCafeも13億調達。HR×AI銘柄の大型調達、続々。｜ビジネスネタ探し＆新規事業の考察が大好き／ベイトレイルCEO 豊田",
+    "url": "https://note.com/hoshi19/n/n7d54ef199839",
+    "pass": 3
+   },
+   {
+    "quote": "Metaviewが約100億調達！求人検索サービスHiringCafeも13億調達。HR×AI銘柄の大型調達、続々。",
+    "url": "https://note.com/hoshi19/n/n7d54ef199839",
+    "pass": 3
+   },
+   {
+    "quote": "ビジネスネタ探し＆新規事業の考察が大好き／ベイトレイルCEO 豊田",
+    "url": "https://note.com/hoshi19/n/n7d54ef199839",
+    "pass": 3
+   },
+   {
+    "quote": "AIが求人を探し、AIが候補者を探す時代へ",
+    "url": "https://note.com/hoshi19/n/n7d54ef199839",
+    "pass": 3
+   },
+   {
+    "quote": "Career LLMOの次に始まる「Evidence競争」",
+    "url": "https://note.com/hoshi19/n/n7d54ef199839",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月末、人材業界で興味深い2つのニュースがほぼ同時に出ました。",
+    "url": "https://note.com/hoshi19/n/n7d54ef199839",
+    "pass": 3
+   },
+   {
+    "quote": "による6,000万ドルのSeries C調達。",
+    "url": "https://note.com/hoshi19/n/n7d54ef199839",
+    "pass": 3
+   },
+   {
+    "quote": "による680万ドルのPre-Seed調達と「AI Talent Agent」の正式公開です。",
+    "url": "https://note.com/hoshi19/n/n7d54ef199839",
+    "pass": 3
+   },
+   {
+    "quote": "Metaviewで始めるAI採用代行の副業｜英語面接ノート検収というニッチな仕事｜カイ",
+    "url": "https://note.com/kai_claudecode/n/n85299ca6b47a",
+    "pass": 3
+   },
+   {
+    "quote": "Metaviewで始めるAI採用代行の副業｜英語面接ノート検収というニッチな仕事",
+    "url": "https://note.com/kai_claudecode/n/n85299ca6b47a",
+    "pass": 3
+   },
+   {
+    "quote": "Metaviewを使い、人材紹介会社向けに面接ノートの検収代行を副業にする方法",
+    "url": "https://note.com/kai_claudecode/n/n85299ca6b47a",
+    "pass": 3
+   },
+   {
+    "quote": "法律リスク（職業安定法・個人情報保護法）を避ける業務範囲の線引き",
+    "url": "https://note.com/kai_claudecode/n/n85299ca6b47a",
+    "pass": 3
+   },
+   {
+    "quote": "実務的なチェックリスト・契約条項・見積もりの積み上げ方",
+    "url": "https://note.com/kai_claudecode/n/n85299ca6b47a",
+    "pass": 3
+   },
+   {
+    "quote": "「AIを使った副業に興味はあるけど、結局エンジニアじゃないと無理なんでしょ」 「英語の面接まわりの代行なんて、英語がペラペラじゃないと務まらないと思っていた」 「採用に関わる副業は、法律に触れそうで怖くて手が出せない」",
+    "url": "https://note.com/kai_claudecode/n/n85299ca6b47a",
+    "pass": 3
+   },
+   {
+    "quote": "このどれかに心当たりがあるなら、この記事は役に立つはずです。",
+    "url": "https://note.com/kai_claudecode/n/n85299ca6b47a",
+    "pass": 3
+   },
+   {
+    "quote": "です（ただし面接の内容を理解できるレベルの英語力は必要です。ここは正直に書きます）。そして、法律まわりのリスクも「引き受けてはいけない業務」を最初に線引きしてしまえば、恐れる必要はありません。",
+    "url": "https://note.com/kai_claudecode/n/n85299ca6b47a",
+    "pass": 3
+   },
+   {
+    "quote": "面接の会話に集中し、記録を評価につなげる【AI面接ツール5選と活用法】｜NanoHuman株式会社",
+    "url": "https://note.com/nanohuman/n/nf989fa826cd1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "面接の会話に集中し、記録を評価につなげる【AI面接ツール5選と活用法】",
+    "url": "https://note.com/nanohuman/n/nf989fa826cd1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "面接にまつわる、こんな困りごとはないでしょうか。",
+    "url": "https://note.com/nanohuman/n/nf989fa826cd1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "「面接中にメモを取っていたら、候補者の表情を見逃していた」",
+    "url": "https://note.com/nanohuman/n/nf989fa826cd1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "「あの候補者、何て言っていたっけ？ 3人目と4人目の回答が混ざってしまう」",
+    "url": "https://note.com/nanohuman/n/nf989fa826cd1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "「海外拠点の候補者と面接したいけど、通訳を手配するのは大変すぎる」",
+    "url": "https://note.com/nanohuman/n/nf989fa826cd1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "面接は採用プロセスの中で重要な場面でありながら、情報が抜け落ちやすい場面でもあります。面接官は記録を残しながら会話に集中し、候補者は限られた時間で自分をアピールしなければなりません。",
+    "url": "https://note.com/nanohuman/n/nf989fa826cd1?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AI面接アシスタントは、リアルタイムの文字起こし、要約、候補者間の比較分析を支援します。記録と分析の負担を減らすことで、人間が会話そのものに集中しやすくなります。",
+    "url": "https://note.com/nanohuman/n/nf989fa826cd1?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Metaview (@MetaviewAI) / X Metaview @MetaviewAI Sep 15 fillmore is officially off waitlist and available for everyone 🚀 fillmore is Metaview’s ai recruiting coworker for outbound. give fillmore a role and fillmore does the work of booking candidate screens from first outreach to follow-up scheduling. early customers like Alistair Show more 2 1 61",
+    "url": "https://x.com/metaviewai",
+    "pass": 3
+   },
+   {
+    "quote": "metaview (@metaview) / Posts / X metaview (@metaview) - Posts - gm | X (formerly Twitter)",
+    "url": "https://x.com/metaview",
+    "pass": 3
+   },
+   {
+    "quote": "MetaView (@MetaViewChannel) / Posts / X Wolverine and the X Men: MetaView: Animated Series Review The 1990’s saw some major changes in children’s animation, with an increasing focus on serial based storytelling and adult themes.",
+    "url": "https://x.com/MetaViewChannel",
+    "pass": 3
+   },
+   {
+    "quote": "Metaview (@Metaview8) / X 0 followers · 0 following. Joined Apr 2022. See the latest conversations with @Metaview8",
+    "url": "https://x.com/Metaview8",
+    "pass": 3
+   },
+   {
+    "quote": "Metaview (@MetaviewAI) / X Sep 16, 2026 · Metaview now pulls insights from every convo and doc—JDs, resumes, rubrics, debriefs, you name it. More context → more accurate & comprehensive understanding of every candidate.",
+    "url": "https://x.com/metaviewai",
+    "pass": 3
+   },
+   {
+    "quote": "Shahriar Tajbakhsh on X: \"at @MetaviewAI, over the weekend we ... Sep 23, 2026 · at @MetaviewAI, over the weekend we shipped @typesafeai's jev into every agent on metaview. candidate searches in our sourcing product that took minutes now take seconds. same accuracy, ~10x faster, meaningfully cheaper per search. but the speedup isn't the interesting part. jev let us treat inte…",
+    "url": "https://x.com/s16h_/status/2102434671326032148",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Metaview - LinkedIn Metaview | 47,295 followers on LinkedIn. AI agents for winning teams. | Metaview is the Agentic Recruiting Platform with AI agents that handle sourcing, application review, notes, reporting, and ...",
+    "url": "https://www.linkedin.com/company/metaview-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Metaview - LinkedIn Metaview | Metaview is the Agentic Recruiting Platform built for radically efficient hiring, end to end. Source, engage, and hire better with agents that truly get your brief.",
+    "url": "https://www.linkedin.com/products/metaview-technologies-metaview/",
+    "pass": 3
+   },
+   {
+    "quote": "Siadhal Magos - Metaview Co-founder and CEO | AI built for ...Shiv Brodie - Talent @ Metaview | AI to radically enhance ...MetaView - LinkedInMetaview: Jobs | LinkedInIntroducing AI Sourcing: A New Way to Find Candidates ... Metaview Co-founder and CEO | AI built for recruiting. · Experience: Metaview · Education: University College London, U. of London · Location: United Kingdom · 500+ connection",
+    "url": "https://uk.linkedin.com/in/siadhal",
+    "pass": 3
+   },
+   {
+    "quote": "Shiv Brodie - Talent @ Metaview | AI to radically enhance ...MetaView - LinkedInMetaview: Jobs | LinkedInIntroducing AI Sourcing: A New Way to Find Candidates ... Talent @ Metaview | AI to radically enhance hiring. · Experience: Metaview · Education: The University of Sheffield · Location: London · 500+ connections on LinkedIn. View Shiv Brodie’s profile on LinkedIn, a professional community of 1 ",
+    "url": "https://uk.linkedin.com/in/shivbrodie",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Metaview - FacebookMetaview is making recruiting radically more efficient ...One place for recruiters AND hiring managers to align, search ...Turn interviews, intake calls, and hiring docs into a ...hiremore. fillmore. chillmore. Metaview's latest AI coworker ...Talent is out there. The challenge is finding it before your ...It’s fit recruiting summer, and Metaview is the platform ... Jul 7, 2026 ",
+    "url": "https://www.facebook.com/metaviewAI/",
+    "pass": 3
+   },
+   {
+    "quote": "Metaview is making recruiting radically more efficient ... Aug 13, 2026 · The team you build is the company you build. Metaview is the agentic recruiting platform that more than 5000 organizations rely on to build their teams. Here's how it works. Metaview gives recruiters and hiring teams a suite of AI agents that behave like recruiting co-workers who autonomously take on end- to-end recruiting w",
+    "url": "https://www.facebook.com/metaviewAI/videos/find-better-candidates-meet-metaview/1684710392614626/",
+    "pass": 3
+   },
+   {
+    "quote": "hiremore. fillmore. chillmore. Metaview's latest AI coworker ... Sep 14, 2026 · hiremore. fillmore. chillmore. Metaview's latest AI coworker is not only filling calendars but fun to say. Join the 2,000+ already on board.",
+    "url": "https://www.facebook.com/metaviewAI/videos/outbound-recruiting-that-runs-itself-literally/3683047571846968/",
+    "pass": 3
+   },
+   {
+    "quote": "It’s fit recruiting summer, and Metaview is the platform ... Aug 13, 2026 · Find better candidates. Meet Metaview. It’s fit recruiting summer, and Metaview is the platform helping hiring teams stay in shape 🦾 Aleksandar Dronjak 1",
+    "url": "https://www.facebook.com/metaviewAI/videos/find-better-candidates-meet-metaview/1046224065063314/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.metaview.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metaview.ai/sourcing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metaview.ai/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metaview.ai/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metaview.ai/customers/wall-of-love",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metaview.ai/customers/catawiki",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metaview.ai/resources/case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metaview.ai/about",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.metaview.ai/_next/image?url=%2F_next%2Fstatic%2Fimmutable%2Fmedia%2Fwhat-our-customers-think.01tkpj-kltv7d.webp&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+    "status": "error",
+    "method": ""
+   },
+   {
+    "url": "https://www.metaview.ai/_next/image?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F67%2Fce%2F67cec66b-600a-4b74-afda-e582e2e04484%2Fcontent%2Fimages%2F2026%2F08%2Fkhosla-ventures-ai-native-talent-function-3.png&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.metaview.ai/_next/image?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F67%2Fce%2F67cec66b-600a-4b74-afda-e582e2e04484%2Fcontent%2Fimages%2F2026%2F08%2Feneba-sources-technical-talent-ai-agents-2.png&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.bluedothq.com/ja/blog/metaview-review",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://saka2jp.vercel.app/deep-dive-company/metaview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://openai.com/ja-JP/business/plugins/metaview/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://reporank.net/ja/repo/klingairesearch-metaview.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.koaglobal.com/corporate/offices/distributors1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/metaviewaps",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://saka2jp.vercel.app/deep-dive-company/metaview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudydesk.com/product/metaview-metaview-reports",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metaview-branded-preview.vercel.app/resources/case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/metaview/case-study/polar-analytics-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/235241-20",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/metaview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fundediq.co/metaview-metaview-ai-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eu-startups.com/2026/10/londons-metaview-raises-e53-1-million-series-c-led-by-insight-partners-to-scale-its-agentic-recruiting-platform/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hoshi19/n/n7d54ef199839",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kai_claudecode/n/n85299ca6b47a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nanohuman/n/nf989fa826cd1?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/metaviewai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/metaview",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MetaViewChannel",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Metaview8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/metaview-technologies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/metaview-technologies-metaview/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/siadhal",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/shivbrodie",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/metaviewAI/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/metaviewAI/videos/find-better-candidates-meet-metaview/1684710392614626/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/metaviewAI/videos/outbound-recruiting-that-runs-itself-literally/3683047571846968/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/metaviewAI/videos/find-better-candidates-meet-metaview/1046224065063314/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/metaviewai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/s16h_/status/2102434671326032148",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Metaview 日本 導入",
+   "results": [
+    "https://www.bluedothq.com/ja/blog/metaview-review",
+    "https://saka2jp.vercel.app/deep-dive-company/metaview/",
+    "https://openai.com/ja-JP/business/plugins/metaview/",
+    "https://reporank.net/ja/repo/klingairesearch-metaview.html",
+    "https://github.com/KlingAIResearch/MetaView",
+    "https://note.com/kai_claudecode/n/n85299ca6b47a",
+    "https://aipicks.jp/tool/metaview"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Metaview 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://tppgodo.net/set-up-company-for-foreigner-in-japan/",
+    "https://www.metaview.ai/",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Metaview Japan",
+   "results": [
+    "https://www.metaview.ai/about",
+    "https://www.metaview.ai/resources/blog/metaview-now-supports-50-languages",
+    "https://jp.linkedin.com/company/metaviewaps",
+    "https://saka2jp.vercel.app/deep-dive-company/metaview/",
+    "https://sites.google.com/metaviewllc.net/metaviewllc",
+    "https://sites.google.com/metaviewllc.net/metaviewllc/about-us",
+    "https://www.dnb.com/business-directory/company-profiles.meta_view_limited_liability_company.019372b6184ee3da66cb333ca3d45330.html"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Metaview manufacturing customer case study",
+   "results": [
+    "https://www.metaview.ai/resources/case-study",
+    "https://www.casestudydesk.com/product/metaview-metaview-reports",
+    "https://metaview-branded-preview.vercel.app/resources/case-study",
+    "https://www.casestudies.com/company/metaview/case-study/polar-analytics-customer-case-study",
+    "https://www.featuredcustomers.com/vendor/metaview/case-studies",
+    "https://www.casestudies.com/company/metaview",
+    "https://www.metaview.ai/resources/case-study/khosla-ventures-ai-native-talent-function"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Metaview white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.seoreseller.com/",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.canva.com/partners/reseller/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Metaview founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/235241-20",
+    "https://getlatka.com/companies/metaview",
+    "https://fundediq.co/metaview-metaview-ai-funding/",
+    "https://www.eu-startups.com/2026/10/londons-metaview-raises-e53-1-million-series-c-led-by-insight-partners-to-scale-its-agentic-recruiting-platform/",
+    "https://dexteragent.ai/companies/metaview-1771896535",
+    "https://compworth.com/company/metaview",
+    "https://dealroom.co/companies/metaview/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Metaview",
+   "results": [
+    "https://note.com/hoshi19/n/n7d54ef199839",
+    "https://note.com/kai_claudecode/n/n85299ca6b47a",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/nanohuman/n/nf989fa826cd1?hl=en",
+    "https://note.com/ryog_desk/n/ned6f1514b8b9",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Metaview",
+   "results": [
+    "https://x.com/metaviewai",
+    "https://x.com/metaview",
+    "https://x.com/MetaViewChannel",
+    "https://x.com/Metaview8",
+    "https://x.com/hashtag/MetaView",
+    "https://x.com/AmyNoteApp/article/2112095031096168616",
+    "https://x.com/MetaviewAI/status/2033966830243496446"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Metaview",
+   "results": [
+    "https://www.linkedin.com/company/metaview-technologies",
+    "https://www.linkedin.com/products/metaview-technologies-metaview/",
+    "https://uk.linkedin.com/in/siadhal",
+    "https://uk.linkedin.com/in/shivbrodie",
+    "https://www.linkedin.com/company/metaviewaps",
+    "https://www.linkedin.com/company/metaview-technologies/jobs",
+    "https://www.linkedin.com/posts/metaview-technologies_our-most-ambitious-agent-yet-is-here-ai-activity-7371168125762822144-QuZK"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Metaview",
+   "results": [
+    "https://www.facebook.com/metaviewAI/",
+    "https://www.facebook.com/metaviewAI/videos/find-better-candidates-meet-metaview/1684710392614626/",
+    "https://www.facebook.com/metaviewAI/videos/outbound-recruiting-that-runs-itself-literally/3683047571846968/",
+    "https://www.facebook.com/metaviewAI/videos/find-better-candidates-meet-metaview/1046224065063314/",
+    "https://www.facebook.com/metaviewAI/videos/find-better-candidates-meet-metaview/1067234972675859/",
+    "https://www.facebook.com/metaviewAI/videos/find-better-candidates-meet-metaview/1053448660512336/",
+    "https://www.facebook.com/metaviewAI/videos/find-better-candidates-meet-metaview/1441413751382373/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Metaview note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://seedcamp.com/views/our-journey-with-metaview-from-day-one-to-35m-series-b-to-transform-recruiting-with-ai/",
+    "https://www.metaview.ai/",
+    "https://www.youtube.com/watch?v=r-dd0wUqKiU",
+    "https://uk.linkedin.com/in/siadhal",
+    "https://the-shashi.com/tse/5243/ceo/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Metaview X 投稿",
+   "results": [
+    "https://x.com/metaviewai",
+    "https://www.metaview.ai/",
+    "https://x.com/s16h_/status/2102434671326032148",
+    "https://www.metaview.ai/home/recruiters-trial",
+    "https://support.metaview.ai/job-posts/overview",
+    "https://newmax.cc/docs/features/x-publish",
+    "https://www.v2ex.com/t/1254533"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部38頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部38頁・検索12回）"
+ }
+}

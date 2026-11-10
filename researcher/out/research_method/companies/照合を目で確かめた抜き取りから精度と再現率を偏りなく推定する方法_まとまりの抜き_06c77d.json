@@ -8,7 +8,7 @@
  ],
  "context": "手順・やり方",
  "kind": "market",
- "researched_at": "2026-11-09T05:18:41.406553+00:00",
+ "researched_at": "2026-11-10T00:03:15.389256+00:00",
  "evidence": {
   "突き合わせ・推定": [
    {
@@ -457,6 +457,446 @@
    },
    {
     "quote": "Distribution of precision estimates for various sample sizes and misattribution rates, as described in section",
+    "url": "https://arxiv.org/html/2210.01230v2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "How to Evaluate Entity Resolution Systems:",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "An Entity-Centric Framework with Application to",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "ing for a needle in a haystack, traditional evaluation methods use sophisticated, application-specific sam-",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "and a variety of evaluation tasks. Specifically, we propose an entity-centric data labeling methodology",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "that integrates with a unified framework for monitoring summary statistics, estimating key performance",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "date the framework in an application to inventor name disambiguation and through simulation studies.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "methods often rely on manually reviewing pairs of records to validate linkage predictions. However, finding",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "evaluation framework with the following components.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "4. Data Labeling Though Cluster Sampling: A methodology for creating a benchmark set of fully-",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Our framework does black box evaluation. That is, we evaluate the end result of an entity resolution system,",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "without considering its specific architecture. This allows our framework to apply to any entity resolution",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Figure 1 represents the elements of the evaluation framework as well as their interdependencies.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Methodology (§3.2)",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "Figure 1: Diagram representation of the main elements of the framework and their dependencies. The entity",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "or from our data labeling methodology. Error analysis and performance estimates rely on cluster-wise error",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "This paper introduces a novel evaluation methodology for entity resolution algorithms. It is motivated",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "using an entity resolution algorithm. We provide a data collection methodology and tailored performance",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "performance. In the case of PatentsView’s disambiguation, no principled evaluation methodology is avail-",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "able to measure performance, to inform users of the reliability of the data, and to support methodological",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "porting methodological research to improve disambiguation algorithms. We propose novel evaluation method-",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "datasets, with nearly perfect precision and recall reported in the latest methodological report (Monath et al.,",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "There are two main uses for accurate and statistically rigorous evaluation methodology.",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "biguation methodology. This requires choosing between alternative methods and evaluating the results of",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "methodological experiments. Without sound evaluation methodology, decisions regarding the disambigua-",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "disambiguation methodology for evaluation, the proposed estimators, and our simulation study that we use",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2 Data and Methodology",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In this section, we introduce the benchmark datasets used at PatentsView, our hand-disambiguation method-",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "ology, our proposed performance metric estimators, and the simulation framework that we use to compare",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2.2 Hand-Disambiguation Methodology",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Note that our data collection methodology is biased toward PantentsView’s current disambiguation.",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "a shopping aggregation service. While many methods have been developed to automate",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "high precision. In doing so, I focus on methods that require minimal input from humans",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "as a source of ground truth. This is important, as many ER methods require vast quantities",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "practice, and propose a suite of methods aimed at improving the scalability of an ER",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "model proposed by Steorts (2015). These methods include an auxiliary variable scheme for",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In order to address this challenge, I propose a framework for online supervised evaluation",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "of ER systems to evaluate, the framework adaptively selects pairs of records to label in",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "demonstrate that the framework can yield dramatic reductions in labelling requirements",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "for welcoming me into the Methodology Division at the ABS, and providing me with",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2.4 Entity resolution methods . . . . . . . . . . . . . . . . . . . . . . . . . . 17",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2.4.4 Methods for scaling entity resolution . . . . . . . . . . . . . . . . 24",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "2.5.1 Hybrid human-machine methods . . . . . . . . . . . . . . . . . . 27",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "5 A theoretical framework for label-eﬃcient evaluation 87",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "5.5 An AIS-based framework for evaluation . . . . . . . . . . . . . . . . . . . 94",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "6.2 Strati/f_ication methods . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 107",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How to Evaluate Entity Resolution Systems:An Entity-Centric Framework with Application toInventor Name Disambiguation",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How to Evaluate Entity Resolution Systems:",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "An Entity-Centric Framework with Application to",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In this article, we address evaluating the accuracy of entity resolution systems. Traditional evaluation methods often rely on manually reviewing pairs of records to validate linkage predictions. However, finding matching pairs, especially those missed by the entity resolution system, is much like looking for a needle in a haystack: in a database of",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "evaluation framework with the following components.",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A methodology for creating a benchmark set of fully-resolved entities through manual data labeling (section",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "evaluation. That is, we evaluate the end result of an entity resolution system, without considering its specific architecture. This allows our framework to apply to any entity resolution system, as long as it produces a clustering as an output.",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "represents the elements of the evaluation framework as well as their interdependencies.",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". This can lead to inaccurate representation of model performance and erroneous ranking of competing methods. In particular, the naive computation of pairwise precision on benchmark data sets has been shown to provide over-optimistic results",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ", we introduce the proposed methodology. In section",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "We then discuss our motivating data and application in more detail. Finally, we provide additional information on current industry standards for the evaluation of entity resolution systems, using the methodology used by Statistics Canada as an example.",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". Most of these data sets provide “ground truth” disambiguation (of various quality) of a specific subset of inventors for a given time period. They are all cluster samples that fit our evaluation framework. However, except for the new inventor benchmark data developed in",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". All other linkages are classified as operational, such as linkages that support specific steps in a sample survey, e.g., frame maintenance operations, like removing duplicates or linking different sampling frames in a multi-frame survey. For all the linkages, regardless of their purpose, the accuracy of the linkage decisions is measured with clerical reviews or a statistical model.",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "We now describe our evaluation framework in detail.",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". To evaluate the entity resolution system, we introduce a methodology that samples clusters",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Our paper addresses this challenge, thus informing users of the reliability of disambiguated data and supporting methodological research to improve disambiguation algorithms. We propose novel evaluation methodology that is principled and cost-effective, and we demonstrate its effectiveness to evaluate PatentsView’s disambiguation.",
+    "url": "https://arxiv.org/html/2210.01230v2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "in the context of choosing similarity thresholds. This is a problem that PatentsView.org currently faces. Despite encouraging performance evaluation metrics on benchmark datasets, with nearly perfect precision and recall reported in the latest methodological report",
+    "url": "https://arxiv.org/html/2210.01230v2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "There are two main uses for accurate and statistically rigorous evaluation methodology.",
+    "url": "https://arxiv.org/html/2210.01230v2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ", we describe benchmark datasets, our hand-disambiguation methodology for evaluation, the proposed estimators, and our simulation study that we use to validate the performance of our estimators. Section",
+    "url": "https://arxiv.org/html/2210.01230v2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In this section, we introduce the benchmark datasets used at PatentsView, our hand-disambiguation methodology, our proposed performance metric estimators, and the simulation framework that we use to compare estimators. Note that we focus on",
+    "url": "https://arxiv.org/html/2210.01230v2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Hand-Disambiguation Methodology",
+    "url": "https://arxiv.org/html/2210.01230v2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "How Well Do Automated Methods Perform in Historical Samples?:",
+    "url": "https://arxiv.org/html/2210.01230v2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A method for calibrating false-match rates in record linkage.",
+    "url": "https://arxiv.org/html/2210.01230v2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "A brief survey of automatic methods for author name disambiguation.",
+    "url": "https://arxiv.org/html/2210.01230v2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Proceedings of the 4th Workshop on Evaluation Methods for",
+    "url": "https://arxiv.org/html/2210.01230v2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Methods matter: Rethinking inventor disambiguation with",
+    "url": "https://arxiv.org/html/2210.01230v2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In our experiment, we have repeated 5,000 times the following three-steps process 5,000 times:",
+    "url": "https://arxiv.org/html/2210.01230v2",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "First, 200 records were sampled and the ground truth clusters associated with them were recovered. This step provided a “benchmark” dataset that was used for evaluation.",
     "url": "https://arxiv.org/html/2210.01230v2",
     "pass": 3,
     "first_seen": "2026-11-06"
@@ -1311,508 +1751,58 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "How to Evaluate Entity Resolution Systems:",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "An Entity-Centric Framework with Application to",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ing for a needle in a haystack, traditional evaluation methods use sophisticated, application-specific sam-",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "and a variety of evaluation tasks. Specifically, we propose an entity-centric data labeling methodology",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "that integrates with a unified framework for monitoring summary statistics, estimating key performance",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "date the framework in an application to inventor name disambiguation and through simulation studies.",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "methods often rely on manually reviewing pairs of records to validate linkage predictions. However, finding",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "evaluation framework with the following components.",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "4. Data Labeling Though Cluster Sampling: A methodology for creating a benchmark set of fully-",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Our framework does black box evaluation. That is, we evaluate the end result of an entity resolution system,",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "without considering its specific architecture. This allows our framework to apply to any entity resolution",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Figure 1 represents the elements of the evaluation framework as well as their interdependencies.",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Methodology (§3.2)",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Figure 1: Diagram representation of the main elements of the framework and their dependencies. The entity",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "or from our data labeling methodology. Error analysis and performance estimates rely on cluster-wise error",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "This paper introduces a novel evaluation methodology for entity resolution algorithms. It is motivated",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "using an entity resolution algorithm. We provide a data collection methodology and tailored performance",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "performance. In the case of PatentsView’s disambiguation, no principled evaluation methodology is avail-",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "able to measure performance, to inform users of the reliability of the data, and to support methodological",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "porting methodological research to improve disambiguation algorithms. We propose novel evaluation method-",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "datasets, with nearly perfect precision and recall reported in the latest methodological report (Monath et al.,",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "There are two main uses for accurate and statistically rigorous evaluation methodology.",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "biguation methodology. This requires choosing between alternative methods and evaluating the results of",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "methodological experiments. Without sound evaluation methodology, decisions regarding the disambigua-",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "disambiguation methodology for evaluation, the proposed estimators, and our simulation study that we use",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "2 Data and Methodology",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "In this section, we introduce the benchmark datasets used at PatentsView, our hand-disambiguation method-",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "ology, our proposed performance metric estimators, and the simulation framework that we use to compare",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "2.2 Hand-Disambiguation Methodology",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Note that our data collection methodology is biased toward PantentsView’s current disambiguation.",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "a shopping aggregation service. While many methods have been developed to automate",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "high precision. In doing so, I focus on methods that require minimal input from humans",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "as a source of ground truth. This is important, as many ER methods require vast quantities",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "practice, and propose a suite of methods aimed at improving the scalability of an ER",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "model proposed by Steorts (2015). These methods include an auxiliary variable scheme for",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "In order to address this challenge, I propose a framework for online supervised evaluation",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "of ER systems to evaluate, the framework adaptively selects pairs of records to label in",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "demonstrate that the framework can yield dramatic reductions in labelling requirements",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "for welcoming me into the Methodology Division at the ABS, and providing me with",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "2.4 Entity resolution methods . . . . . . . . . . . . . . . . . . . . . . . . . . 17",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "2.4.4 Methods for scaling entity resolution . . . . . . . . . . . . . . . . 24",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "2.5.1 Hybrid human-machine methods . . . . . . . . . . . . . . . . . . 27",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "5 A theoretical framework for label-eﬃcient evaluation 87",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "5.5 An AIS-based framework for evaluation . . . . . . . . . . . . . . . . . . . 94",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "6.2 Strati/f_ication methods . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 107",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "How to Evaluate Entity Resolution Systems:An Entity-Centric Framework with Application toInventor Name Disambiguation",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "How to Evaluate Entity Resolution Systems:",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "An Entity-Centric Framework with Application to",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "In this article, we address evaluating the accuracy of entity resolution systems. Traditional evaluation methods often rely on manually reviewing pairs of records to validate linkage predictions. However, finding matching pairs, especially those missed by the entity resolution system, is much like looking for a needle in a haystack: in a database of",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "evaluation framework with the following components.",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "A methodology for creating a benchmark set of fully-resolved entities through manual data labeling (section",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "evaluation. That is, we evaluate the end result of an entity resolution system, without considering its specific architecture. This allows our framework to apply to any entity resolution system, as long as it produces a clustering as an output.",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "represents the elements of the evaluation framework as well as their interdependencies.",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ". This can lead to inaccurate representation of model performance and erroneous ranking of competing methods. In particular, the naive computation of pairwise precision on benchmark data sets has been shown to provide over-optimistic results",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ", we introduce the proposed methodology. In section",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "We then discuss our motivating data and application in more detail. Finally, we provide additional information on current industry standards for the evaluation of entity resolution systems, using the methodology used by Statistics Canada as an example.",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ". Most of these data sets provide “ground truth” disambiguation (of various quality) of a specific subset of inventors for a given time period. They are all cluster samples that fit our evaluation framework. However, except for the new inventor benchmark data developed in",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ". All other linkages are classified as operational, such as linkages that support specific steps in a sample survey, e.g., frame maintenance operations, like removing duplicates or linking different sampling frames in a multi-frame survey. For all the linkages, regardless of their purpose, the accuracy of the linkage decisions is measured with clerical reviews or a statistical model.",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "We now describe our evaluation framework in detail.",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ". To evaluate the entity resolution system, we introduce a methodology that samples clusters",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Our paper addresses this challenge, thus informing users of the reliability of disambiguated data and supporting methodological research to improve disambiguation algorithms. We propose novel evaluation methodology that is principled and cost-effective, and we demonstrate its effectiveness to evaluate PatentsView’s disambiguation.",
-    "url": "https://arxiv.org/html/2210.01230v2",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "in the context of choosing similarity thresholds. This is a problem that PatentsView.org currently faces. Despite encouraging performance evaluation metrics on benchmark datasets, with nearly perfect precision and recall reported in the latest methodological report",
-    "url": "https://arxiv.org/html/2210.01230v2",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "There are two main uses for accurate and statistically rigorous evaluation methodology.",
-    "url": "https://arxiv.org/html/2210.01230v2",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ", we describe benchmark datasets, our hand-disambiguation methodology for evaluation, the proposed estimators, and our simulation study that we use to validate the performance of our estimators. Section",
-    "url": "https://arxiv.org/html/2210.01230v2",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "In this section, we introduce the benchmark datasets used at PatentsView, our hand-disambiguation methodology, our proposed performance metric estimators, and the simulation framework that we use to compare estimators. Note that we focus on",
-    "url": "https://arxiv.org/html/2210.01230v2",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Hand-Disambiguation Methodology",
-    "url": "https://arxiv.org/html/2210.01230v2",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "How Well Do Automated Methods Perform in Historical Samples?:",
-    "url": "https://arxiv.org/html/2210.01230v2",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "A method for calibrating false-match rates in record linkage.",
-    "url": "https://arxiv.org/html/2210.01230v2",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "A brief survey of automatic methods for author name disambiguation.",
-    "url": "https://arxiv.org/html/2210.01230v2",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Proceedings of the 4th Workshop on Evaluation Methods for",
-    "url": "https://arxiv.org/html/2210.01230v2",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Methods matter: Rethinking inventor disambiguation with",
-    "url": "https://arxiv.org/html/2210.01230v2",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "In our experiment, we have repeated 5,000 times the following three-steps process 5,000 times:",
-    "url": "https://arxiv.org/html/2210.01230v2",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "First, 200 records were sampled and the ground truth clusters associated with them were recovered. This step provided a “benchmark” dataset that was used for evaluation.",
-    "url": "https://arxiv.org/html/2210.01230v2",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
+    "url": "https://note.com/198619891990/n/nfa4d064945bb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/zenkok/n/n5ffc34269a5f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://note.com/door13/n/nb61e017dabb7",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/itso_/n/n796329050730",
+    "url": "https://note.com/8_log/n/n8096f220ca77",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/tsunobuchi/n/nbd110dd5513a",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/tnishimaki/n/n6e244572e076",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/tsunobuchi/n/ncb06d525472c",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/tsunobuchi/n/n0ffb90631b64",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://machiruka.com/sampling-inspection-criteria/",
+    "url": "https://note.com/jack4manastalk/n/n454599ad0a69",
     "status": "ok",
     "method": "browser"
    },
    {
-    "url": "https://www.t-denshi-k.co.jp/media/column/sampling-inspection",
+    "url": "https://note.com/good_dill292/n/n93c0053a3deb",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.keyence.co.jp/ss/products/measure-sys/measurement-selection/process/sampling-inspection.jsp",
+    "url": "https://note.com/kikaben/n/nc457443773b7",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://iotec-biz.com/column/nukitori-kensa/",
+    "url": "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vJPAq0nxr9b56atuf1BoQ0McCSkT3Nn-eowPah8D-1UfLr2fmRm",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ai-compass.weeybrid.co.jp/algorizm/weighted-f-measure-balancing-precision-and-recall/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://takuminotie.com/blog/2023/03/27/%E5%B7%A5%E5%A0%B4%E3%81%A7%E3%81%AE%E6%8A%9C%E3%81%8D%E5%8F%96%E3%82%8A%E6%A4%9C%E6%9F%BB%E3%81%A8%E6%A4%9C%E6%9F%BB%E5%88%A4%E5%AE%9A%E5%9F%BA%E6%BA%96/2/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://iatf-iso.net/blog/nukitori.html",
+    "url": "https://www.chowagiken.co.jp/future-studio/precision_recall/",
     "status": "ok",
     "method": "http"
    },
@@ -1822,63 +1812,68 @@
     "method": "http"
    },
    {
-    "url": "https://nisshingeppo.com/ai/whats-accuracy/",
+    "url": "https://learn.microsoft.com/ja-jp/azure/machine-learning/how-to-understand-automated-ml?view=azureml-api-2",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://nisshingeppo.com/ai/whats-recall/",
+    "url": "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ja",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.t-denshi-k.co.jp/media/column/attributes-sampling-inspection",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://github.com/pfnet-research/pfgen-bench/blob/main/result/line-corporation/japanese-large-lm-3.6b/35ef4d4/README.md",
-    "status": "http_429",
-    "method": "http"
-   },
-   {
-    "url": "https://sitereports.nabunken.go.jp/files/attach/47/47386/65337_1_%E5%A5%88%E8%89%AF%E6%96%87%E5%8C%96%E8%B2%A1%E7%A0%94%E7%A9%B6%E6%89%80%E7%B4%80%E8%A6%81.pdf",
-    "status": "http_429",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.c.u-tokyo.ac.jp/zenki/2021S_syllabus.pdf",
+    "url": "https://repos.env.go.jp/web/dat/report/r03-01/r03-01_chpt3_Part2.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.dpri.kyoto-u.ac.jp/nenpo/no53/ronbunA/A53.pdf",
+    "url": "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vKpU6_8v5USwaq9xlkX_5kMRH1FFwYrY0gekLAvAGsTI4QtMCfh",
     "status": "ok",
-    "method": "pdf"
+    "method": "browser"
    },
    {
-    "url": "https://www.kose-cosmetology.or.jp/research_report/archives/2015/fullVersion/Cosmetology%20Vol23_2015.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.rockever.org/cont2/97.html",
+    "url": "https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://arxiv.org/pdf/2404.05622",
+    "url": "https://corp.omake.co.jp/%E5%86%8D%E7%8F%BE%E7%8E%87%EF%BC%88recall%EF%BC%89%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC%EF%BC%81%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E8%A9%95%E4%BE%A1%E6%8C%87%E6%A8%99%E3%81%AE%E9%87%8D/",
     "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://dl.acm.org/doi/full/10.1145/3721985",
-    "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://www.science.org/doi/10.1126/sciadv.abi8021",
-    "status": "http_403",
+    "url": "https://since2020.jp/media/f1-precision-recall/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vK157aYM_tanOW7559f-lIX0YbPEqwy0rgFk1BZ64Y5kDNi2Z8X",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://milab.mi-6.co.jp/article/t0017",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kobesoft.co.jp/mikata/words/ai-ml/precision-recall/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://machiruka.com/sampling-inspection-criteria/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keyence.co.jp/ss/products/measure-sys/measurement-selection/process/sampling-inspection.jsp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.t-denshi-k.co.jp/media/column/sampling-inspection",
+    "status": "ok",
     "method": "http"
    },
    {
@@ -1887,14 +1882,29 @@
     "method": "pdf"
    },
    {
-    "url": "https://gatesopenresearch.org/articles/8-36",
+    "url": "https://dl.acm.org/doi/10.1145/3721985",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.researchgate.net/publication/262312289_Evaluating_entity_resolution_results",
+    "url": "https://www.researchgate.net/publication/390081198_Unsupervised_Evaluation_of_Entity_Resolution",
     "status": "http_403",
     "method": "http"
+   },
+   {
+    "url": "https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2026.1736939/pdf",
+    "status": "ok",
+    "method": "pdf"
    }
   ]
  },
@@ -1902,69 +1912,55 @@
   {
    "query": "照合を目で確かめた抜き取りから精度と再現率を偏りなく推定する方法（まとまりの抜き取り・抜かれやすさの重み・比の推定量） site:note.com",
    "results": [
+    "https://note.com/198619891990/n/nfa4d064945bb",
+    "https://note.com/zenkok/n/n5ffc34269a5f",
     "https://note.com/door13/n/nb61e017dabb7",
-    "https://note.com/itso_/n/n796329050730",
-    "https://note.com/tsunobuchi/n/nbd110dd5513a",
-    "https://note.com/tnishimaki/n/n6e244572e076",
-    "https://note.com/tsunobuchi/n/ncb06d525472c",
-    "https://note.com/tsunobuchi/n/n0ffb90631b64",
-    "https://note.com/tsunobuchi/n/nc3e40211794d",
-    "https://note.com/momoen_de/n/n09c0d3822c1f"
+    "https://note.com/8_log/n/n8096f220ca77",
+    "https://note.com/jack4manastalk/n/n454599ad0a69",
+    "https://note.com/good_dill292/n/n93c0053a3deb",
+    "https://note.com/jack4manastalk/n/nf93aed11e4b9",
+    "https://note.com/bunkichi_kujo/n/n39624ca51bc1",
+    "https://note.com/bunkichi_kujo/n/n1864a74a0a1a",
+    "https://note.com/masa_san_jp/n/n56167cb7ee39"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 8
+   "n_hits": 17
   },
   {
    "query": "照合を目で確かめた抜き取りから精度と再現率を偏りなく推定する方法（まとまりの抜き取り・抜かれやすさの重み・比の推定量） note",
    "results": [
-    "https://machiruka.com/sampling-inspection-criteria/",
-    "https://www.t-denshi-k.co.jp/media/column/sampling-inspection",
-    "https://www.keyence.co.jp/ss/products/measure-sys/measurement-selection/process/sampling-inspection.jsp",
-    "https://iotec-biz.com/column/nukitori-kensa/",
-    "https://takuminotie.com/blog/2023/03/27/工場での抜き取り検査と検査判定基準/2/",
-    "https://iatf-iso.net/blog/nukitori.html",
-    "https://www.t-denshi-k.co.jp/media/column/sampling-inspection-standards"
+    "https://note.com/kikaben/n/nc457443773b7",
+    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vJPAq0nxr9b56atuf1BoQ0McCSkT3Nn-eowPah8D-1UfLr2fmRm",
+    "https://ai-compass.weeybrid.co.jp/algorizm/weighted-f-measure-balancing-precision-and-recall/",
+    "https://www.chowagiken.co.jp/future-studio/precision_recall/",
+    "https://cryptul.co.jp/insights/articles/236-precision-recall-threshold-design",
+    "https://learn.microsoft.com/ja-jp/azure/machine-learning/how-to-understand-automated-ml?view=azureml-api-2",
+    "https://note.com/kikaben/n/nb62d7c37cb6e",
+    "https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4",
+    "https://techsword.co.jp/column/how-to-evaluate-ai",
+    "https://machiruka.com/sampling-inspection-criteria/"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "照合を目で確かめた抜き取りから精度と再現率を偏りなく推定する方法（まとまりの抜き取り・抜かれやすさの重み・比の推定量） やり方",
    "results": [
+    "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ja",
+    "https://repos.env.go.jp/web/dat/report/r03-01/r03-01_chpt3_Part2.pdf",
+    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vKpU6_8v5USwaq9xlkX_5kMRH1FFwYrY0gekLAvAGsTI4QtMCfh",
+    "https://www.chowagiken.co.jp/future-studio/precision_recall/",
     "https://cryptul.co.jp/insights/articles/236-precision-recall-threshold-design",
-    "https://nisshingeppo.com/ai/whats-accuracy/",
-    "https://nisshingeppo.com/ai/whats-recall/",
-    "https://machiruka.com/sampling-inspection-criteria/",
-    "https://www.t-denshi-k.co.jp/media/column/sampling-inspection",
-    "https://takuminotie.com/blog/2023/03/27/工場での抜き取り検査と検査判定基準/2/",
-    "https://iotec-biz.com/column/nukitori-kensa/",
-    "https://www.keyence.co.jp/ss/products/measure-sys/measurement-selection/process/sampling-inspection.jsp",
-    "https://iatf-iso.net/blog/nukitori.html",
-    "https://www.t-denshi-k.co.jp/media/column/attributes-sampling-inspection"
-   ],
-   "engines": [
-    "ddgs:google",
-    "yahoo_jp"
-   ],
-   "n_hits": 10
-  },
-  {
-   "query": "照合を目で確かめた抜き取りから精度と再現率を偏りなく推定する方法（まとまりの抜き取り・抜かれやすさの重み・比の推定量） 事例",
-   "results": [
-    "https://cryptul.co.jp/insights/articles/236-precision-recall-threshold-design",
-    "https://nisshingeppo.com/ai/whats-recall/",
-    "https://github.com/pfnet-research/pfgen-bench/blob/main/result/line-corporation/japanese-large-lm-3.6b/35ef4d4/README.md",
-    "https://sitereports.nabunken.go.jp/files/attach/47/47386/65337_1_%E5%A5%88%E8%89%AF%E6%96%87%E5%8C%96%E8%B2%A1%E7%A0%94%E7%A9%B6%E6%89%80%E7%B4%80%E8%A6%81.pdf",
-    "https://note.com/door13/n/nb61e017dabb7",
-    "https://www.c.u-tokyo.ac.jp/zenki/2021S_syllabus.pdf",
-    "https://www.dpri.kyoto-u.ac.jp/nenpo/no53/ronbunA/A53.pdf",
-    "https://www.kose-cosmetology.or.jp/research_report/archives/2015/fullVersion/Cosmetology%20Vol23_2015.pdf",
-    "https://www.rockever.org/cont2/97.html",
+    "https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4",
+    "https://corp.omake.co.jp/%E5%86%8D%E7%8F%BE%E7%8E%87%EF%BC%88recall%EF%BC%89%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC%EF%BC%81%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E8%A9%95%E4%BE%A1%E6%8C%87%E6%A8%99%E3%81%AE%E9%87%8D/",
+    "https://since2020.jp/media/f1-precision-recall/",
+    "https://note.com/kikaben/n/nc457443773b7",
     "https://machiruka.com/sampling-inspection-criteria/"
    ],
    "engines": [
@@ -1974,50 +1970,74 @@
    "n_hits": 16
   },
   {
-   "query": "entity resolution evaluation cluster sampling unbiased precision recall estimator",
+   "query": "照合を目で確かめた抜き取りから精度と再現率を偏りなく推定する方法（まとまりの抜き取り・抜かれやすさの重み・比の推定量） 事例",
    "results": [
-    "https://arxiv.org/pdf/2404.05622",
-    "https://dl.acm.org/doi/full/10.1145/3721985",
-    "https://www.science.org/doi/10.1126/sciadv.abi8021",
-    "https://arxiv.org/pdf/2210.01230",
-    "https://gatesopenresearch.org/articles/8-36",
-    "https://www.researchgate.net/publication/262312289_Evaluating_entity_resolution_results",
-    "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "https://dl.acm.org/doi/abs/10.1145/3721985",
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC11518969/",
-    "https://arxiv.org/html/2404.05622"
+    "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ja",
+    "https://repos.env.go.jp/web/dat/report/r03-01/r03-01_chpt3_Part2.pdf",
+    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vK157aYM_tanOW7559f-lIX0YbPEqwy0rgFk1BZ64Y5kDNi2Z8X",
+    "https://cryptul.co.jp/insights/articles/236-precision-recall-threshold-design",
+    "https://corp.omake.co.jp/%E5%86%8D%E7%8F%BE%E7%8E%87%EF%BC%88recall%EF%BC%89%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC%EF%BC%81%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E8%A9%95%E4%BE%A1%E6%8C%87%E6%A8%99%E3%81%AE%E9%87%8D/",
+    "https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4",
+    "https://since2020.jp/media/f1-precision-recall/",
+    "https://milab.mi-6.co.jp/article/t0017",
+    "https://kobesoft.co.jp/mikata/words/ai-ml/precision-recall/",
+    "https://machiruka.com/sampling-inspection-criteria/"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
   },
   {
+   "query": "entity resolution evaluation cluster sampling unbiased precision recall estimator",
+   "results": [
+    "https://arxiv.org/pdf/2210.01230",
+    "https://dl.acm.org/doi/10.1145/3721985",
+    "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/",
+    "https://www.researchgate.net/publication/390081198_Unsupervised_Evaluation_of_Entity_Resolution",
+    "https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2026.1736939/pdf",
+    "https://medium.com/data-science/entity-resolution-identifying-real-world-entities-in-noisy-data-3e8c59f4f41c",
+    "http://home.cse.ust.hk/~leichen/courses/mscit6000d/notes/entityresolution.pdf",
+    "https://openproceedings.org/2026/conf/edbt/paper-245.pdf",
+    "https://arxiv.org/html/2404.05622"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
    "query": "site:note.com 照合を目で確かめた抜き取りから精度と再現率を偏りなく推定する方法（まとまりの抜き取り・抜かれやすさの重み・比の推定量）",
    "results": [
+    "https://note.com/tfcxzaqwerds/n/n9d2095c752ff",
+    "https://note.com/hiradumi/n/n9fc28ee73acc",
+    "https://note.com/thinking2a/n/nc33f1f679aec",
     "https://note.com/tsunobuchi/n/nbd110dd5513a",
     "https://note.com/itso_/n/n796329050730",
     "https://note.com/tsunobuchi/n/nc3e40211794d",
+    "https://note.com/tsunobuchi/n/n0ffb90631b64",
     "https://note.com/tsunobuchi/n/ncb06d525472c",
     "https://note.com/tnishimaki/n/n6e244572e076",
-    "https://note.com/tsunobuchi/n/n0ffb90631b64",
     "https://note.com/momoen_de/n/n09c0d3822c1f"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 10
   },
   {
    "query": "site:x.com 照合を目で確かめた抜き取りから精度と再現率を偏りなく推定する方法（まとまりの抜き取り・抜かれやすさの重み・比の推定量）",
    "results": [
+    "https://x.com/aigrowlevel/status/2109123557448175941",
     "https://x.com/kigyoka_mezase/status/2108860090866626961",
     "https://x.com/seiseiai_pass/status/2090272659091468755",
     "https://x.com/Mar_3simai/status/2080581995868893378",
     "https://x.com:8443/technoport_web/status/2109769831792972077",
     "https://x.com/fujitech_ai/status/2067908253070340459",
-    "https://x.com/aigrowlevel/status/2109123557448175941",
     "https://x.com/masamune_sakaki/status/2111713129906176259"
    ],
    "engines": [
@@ -2028,16 +2048,16 @@
   {
    "query": "site:linkedin.com 照合を目で確かめた抜き取りから精度と再現率を偏りなく推定する方法（まとまりの抜き取り・抜かれやすさの重み・比の推定量）",
    "results": [
-    "https://jp.linkedin.com/posts/hiroyukimonma_工場での抜き取り検査と検査判定基準-イラスト図解-日本のものづくり品質管理-activity-7244885387460952065-NKrC",
     "https://jp.linkedin.com/pulse/precision-vs-recall-striking-right-balance-machine-learning-molleti-bu37c?tl=ja",
     "https://jp.linkedin.com/pulse/precision-recall-trade-off-finding-balancing-point-6-javier-rjibf?tl=ja",
     "https://www.linkedin.com/posts/hiroyukimonma_工場での抜き取り検査と検査判定基準-イラスト図解-日本のものづくり品質管理-activity-7269624851126988800-WZ_c",
     "https://www.linkedin.com/posts/lyric-technology-corporation-【japan】-269589278_現在ハイエンド製造業は高精度高信頼性高生産能力の実現に向けて急速に進化しています-activity-7517726286426062848-P9_4",
+    "https://jp.linkedin.com/pulse/understanding-precision-recall-without-any-formulas-rahul-dengra?tl=ja",
     "https://jp.linkedin.com/pulse/performance-evaluation-metrics-classification-model-muhammad-daniyal?tl=ja",
-    "https://jp.linkedin.com/pulse/understanding-precision-recall-without-any-formulas-rahul-dengra?tl=ja"
+    "https://jp.linkedin.com/pulse/decoding-machine-learning-evaluation-metrics-complete-simran-saxena-vpmfc?tl=ja"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -2045,12 +2065,12 @@
    "query": "site:facebook.com 照合を目で確かめた抜き取りから精度と再現率を偏りなく推定する方法（まとまりの抜き取り・抜かれやすさの重み・比の推定量）",
    "results": [
     "https://www.facebook.com/story.php/?story_fbid=928799332617794&id=100064632072166",
+    "https://www.facebook.com/NishidaTakeshiLab/videos/産業用ロボットによる対象物操作を目的として対象物のリアルタイム三次元計測システムを開発しましたデータベースに登録されている3次元データと安価な三次元計測センサi/2326992890994509/",
     "https://www.facebook.com/qcfantasie/photos/oc曲線製品抜き取り検査の際-ロットの不良率とそのロットの合格率の関係を表す図であるqc検定qckenteioc曲線/398315923082097/",
     "https://www.facebook.com/kamt.jp/posts/287693410177275/",
-    "https://www.facebook.com/NishidaTakeshiLab/videos/産業用ロボットによる対象物操作を目的として対象物のリアルタイム三次元計測システムを開発しましたデータベースに登録されている3次元データと安価な三次元計測センサi/2326992890994509/",
     "https://www.facebook.com/kikusui.noshiro/videos/機械だけじゃ終わらない最後は人の目で確かめます熱々の瓶を一本ずつ確認し汚れや異物がないか丁寧にチェック昔ながらの設備と人の手仕事で支えられる酒造りです/1602951614100076/",
     "https://www.facebook.com/necjapan/posts/1813130145376382/",
-    "https://www.facebook.com/yasuhiro.matsuhashi1/videos/種芋農家の目線病気芋を歩いて目視して見分けその株だけを抜き取る種芋農家の抜き取り作業のリアル8ha他と違う株があるから見つけてみてねわかったら明日からあなたも種/27865946846357138/"
+    "https://www.facebook.com/onosokki/posts/faqより指示精度と分解能って何が違うのリニアゲージセンサに関して指示精度と分解能って何が違うのとよく聞かれますこれはリニアゲージセンサに限ったことではなく計測/3805920176152142/"
    ],
    "engines": [
     "ddgs:google"
@@ -2060,426 +2080,68 @@
   {
    "query": "照合を目で確かめた抜き取りから精度と再現率を偏りなく推定する方法（まとまりの抜き取り・抜かれやすさの重み・比の推定量） note 社長",
    "results": [
-    "https://machiruka.com/sampling-inspection-criteria/",
-    "https://www.t-denshi-k.co.jp/media/column/sampling-inspection",
-    "https://www.keyence.co.jp/ss/products/measure-sys/measurement-selection/process/sampling-inspection.jsp",
-    "https://iotec-biz.com/column/nukitori-kensa/",
-    "https://takuminotie.com/blog/2023/03/27/工場での抜き取り検査と検査判定基準/2/",
-    "https://www.vectrix.co.jp/download/pdf/paper_qcpro3.pdf",
-    "https://iatf-iso.net/blog/nukitori.html"
+    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vJHD_7Zffjpc8pGmr5yYSrJB_I6LUeP9AEG-JZvmSSOuCUhEEPG",
+    "https://cryptul.co.jp/insights/articles/236-precision-recall-threshold-design",
+    "https://www.chowagiken.co.jp/future-studio/precision_recall/",
+    "https://note.com/kenichiro/n/n73cdd7349e00",
+    "https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4",
+    "https://www.ultralytics.com/ja/blog/accuracy-precision-recall",
+    "https://otsumu.co.jp/knowledge/glossary/terms/precision-recall.html",
+    "https://seo-webmaster.net/ai/precision-recall-precision-rate/",
+    "https://corp.omake.co.jp/%E5%86%8D%E7%8F%BE%E7%8E%87%EF%BC%88recall%EF%BC%89%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC%EF%BC%81%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E8%A9%95%E4%BE%A1%E6%8C%87%E6%A8%99%E3%81%AE%E9%87%8D/",
+    "https://note.com/tsunobuchi/n/nbd110dd5513a"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 16
   },
   {
    "query": "照合を目で確かめた抜き取りから精度と再現率を偏りなく推定する方法（まとまりの抜き取り・抜かれやすさの重み・比の推定量） X 投稿",
    "results": [
-    "https://opac.ll.chiba-u.jp/da/curator/900116879/dissertation_gist_201303.pdf",
-    "https://www.mod.go.jp/atla/funding/hyouka/r06_seika/R6seika_01tsukuba.pdf",
-    "https://machiruka.com/sampling-inspection-criteria/",
-    "https://www.t-denshi-k.co.jp/media/column/sampling-inspection",
-    "https://www.keyence.co.jp/ss/products/measure-sys/measurement-selection/process/sampling-inspection.jsp",
-    "https://iotec-biz.com/column/nukitori-kensa/",
-    "https://takuminotie.com/blog/2023/03/27/工場での抜き取り検査と検査判定基準/2/",
-    "https://www.vectrix.co.jp/download/pdf/paper_qcpro3.pdf",
-    "https://iatf-iso.net/blog/nukitori.html"
+    "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=ja",
+    "https://zero2one.jp/ai-word/accuracy-precision-recall-f-measure/?srsltid=AYCX9vK05v0z6a6ffSOBSo-NMAhywnCHVP4WZX_l6fuQPTHFLiUgc2GQ",
+    "https://www.chowagiken.co.jp/future-studio/precision_recall/",
+    "https://cryptul.co.jp/insights/articles/236-precision-recall-threshold-design",
+    "https://qiita.com/FukuharaYohei/items/be89a99c53586fa4e2e4",
+    "https://corp.omake.co.jp/%E5%86%8D%E7%8F%BE%E7%8E%87%EF%BC%88recall%EF%BC%89%E3%82%92%E5%BE%B9%E5%BA%95%E8%A7%A3%E8%AA%AC%EF%BC%81%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E8%A9%95%E4%BE%A1%E6%8C%87%E6%A8%99%E3%81%AE%E9%87%8D/",
+    "https://kobesoft.co.jp/mikata/words/ai-ml/precision-recall/",
+    "https://note.com/kikaben/n/nc457443773b7",
+    "https://metricgate.com/docs/ja/precision-recall-auc/",
+    "https://machiruka.com/sampling-inspection-criteria/"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 16
   },
   {
    "query": "entity resolution evaluation cluster sampling unbiased precision recall estimator site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/in/sankar-raghuthaman",
-    "https://in.linkedin.com/in/himanshugoel9725",
     "https://www.linkedin.com/in/hakankardes",
-    "https://www.linkedin.com/in/gerard-shu-fuhnwi-phd-b3975b165",
-    "https://cn.linkedin.com/in/tianheng-zhou",
-    "https://rs.linkedin.com/in/lazar-stevanovic-34147226a",
-    "https://content.linkedin.com/content/dam/help/tns/legal/01-LinkedIn-DSA-2025-SRA-Report-August-2025.pdf",
-    "https://www.linkedin.com/in/zixuan-liu-8aa56b221",
     "https://no.linkedin.com/in/dkimpara",
-    "https://www.linkedin.com/in/tyler-rhodes-21147659"
+    "https://www.linkedin.com/in/gerard-shu-fuhnwi-phd-b3975b165",
+    "https://www.linkedin.com/in/sankar-raghuthaman",
+    "https://www.linkedin.com/in/marempudi",
+    "https://www.linkedin.com/in/dr-soumik-dey-ab8549a1",
+    "https://www.linkedin.com/in/heena-rijhwani",
+    "https://www.linkedin.com/in/foyzur",
+    "https://www.linkedin.com/in/chaseczieman",
+    "https://cn.linkedin.com/in/tianheng-zhou"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 17
   }
  ],
  "missing": {
-  "一次情報の探し方": "記載なし（読んだ28頁・検索12回）"
+  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）"
  },
- "new_this_run": {
-  "突き合わせ・推定": [
-   {
-    "quote": "2. Global Performance Metric Estimates: To obtain estimates of global performance metrics such",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "tain estimates that are representative of the system’s performance on the entire data set, not just the",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Estimates (§3.4)",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "computed for predictions, while their true value for a ground truth clustering can be estimated using labeled",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "or from our data labeling methodology. Error analysis and performance estimates rely on cluster-wise error",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "the true precision for the entire data set may be much lower. When combining biased precision estimates",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "with recall estimates into an F1 score, this can lead to performance rank reversals: an algorithm may be",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Figure 2: Left: Estimated number of citations to PatentsView in academic literature by year. Right:",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Number of citations by estimated Dewey Decimal Broad Classification. The estimated citation numbers were",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "results, with the 2023 year estimate containing extrapolated counts for November and December. The Dewey",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "querying openAI’s GPT-3.5 model for a classification estimate. Note that GPT-3.5 could not ascertain the",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "files and an average of one million API requests per month. In Figure 2, we show the estimated numbers of",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "variance of estimated linkage propensities.",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "At Statistics Canada, accuracy measures are estimated primarily through clerical reviews (Dasylva et al.,",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "considering model-based estimates (Dasylva and Goussanou, 2022). For example, this approach was used to",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "失敗・落とし穴": [
-   {
-    "quote": "commonly-used performance estimators are biased (Wang et al., 2022; Binette et al., 2022). This can lead to",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "the true precision for the entire data set may be much lower. When combining biased precision estimates",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "The LR metric highlights potential biases, here linkage rate differences across subgroups, by measuring the",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "bias-adjusted estimator and variance estimator described in Binette et al. (2022). Similarly, the homonymy",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "adapting the performance bias module of the Deepchecks Python package (Chorev et al., 2023) to include",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "reduce bias in the ratio estimator and its variance estimator using the approach described in Binette et al.",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ground truth for the RLData10000 data set, we can compute the bias and root mean square error (RMSE)",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Figure 9 summarizes the results of 1,000 runs. The empirical bias is always smaller than 0 .4% and always",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "less than 0 .2% when going up to samples of size at least 400. This validates the near unbiasedness of the",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "In terms of bias, uniform sampling weights are unreliable for estimating pairwise precision in this simu-",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "cluster sizes with many errors may not be observed frequently in the sample. On the other hand, the bias",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Ventura, S. L., R. Nugent, and E. R. Fuchs (2015). Seeing the non-stars: (Some) sources of bias in past",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "precision and 97% pairwise recall. Note that bias is below 0.4% in all cases.",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "of the algorithm, specifically, 91% pairwise precision and 94% pairwise recall. Note that bias is essentially",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "numerous yet small. For example, entity resolution is used for the identification of unique inventors listed",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "same entity. For example, we can approximately resolve unique inventors by using patent topic, co-authors,",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "For example, a resolved cluster of 10 records in a database of 1 , 000, 010 records includes",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "In section 4, we showcase its application to inventor name disambiguation and its validation in simulation",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "resolution systems, using the methodology used by Statistics Canada as an example.",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "patent grant date, patent assignee, and patent classification codes; see Table 1 for examples.",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "T able 1: Example of attributes available for individual inventor mentions. Additional attributes, such as",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "or operational. In the former case, the main goal is to produce a linked file including all the required",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "responses and explanatory variables, to fit some regression model. A good example is the linkage of the",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "considering model-based estimates (Dasylva and Goussanou, 2022). For example, this approach was used to",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "example, with probability proportional to size sampling, we have pc = |c|/N. Sampling processes and designs",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "For example, when sampling clusters with probability proportional to size, we havepc = |c|/N. Consequently,",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "example, we can estimate each expectation with its corresponding weighted sample average—and take the",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "In this case, the probability that a given cluster c is sampled in any single draw is |c|/N, i.e., this is sampling",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "of population quantities (Lohr, 2021). This is the case for PatentsView data, as large clusters tend to be",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "How to Evaluate Entity Resolution Systems:",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "An Entity-Centric Framework with Application to",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "ing for a needle in a haystack, traditional evaluation methods use sophisticated, application-specific sam-",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "and a variety of evaluation tasks. Specifically, we propose an entity-centric data labeling methodology",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "that integrates with a unified framework for monitoring summary statistics, estimating key performance",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "date the framework in an application to inventor name disambiguation and through simulation studies.",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "methods often rely on manually reviewing pairs of records to validate linkage predictions. However, finding",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "evaluation framework with the following components.",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "4. Data Labeling Though Cluster Sampling: A methodology for creating a benchmark set of fully-",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Our framework does black box evaluation. That is, we evaluate the end result of an entity resolution system,",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "without considering its specific architecture. This allows our framework to apply to any entity resolution",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Figure 1 represents the elements of the evaluation framework as well as their interdependencies.",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Methodology (§3.2)",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "Figure 1: Diagram representation of the main elements of the framework and their dependencies. The entity",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "or from our data labeling methodology. Error analysis and performance estimates rely on cluster-wise error",
-    "url": "https://arxiv.org/pdf/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ]
- },
- "runs": 13,
+ "new_this_run": {},
+ "runs": 14,
  "first_researched_at": "2026-11-06T08:01:19.777193+00:00"
 }

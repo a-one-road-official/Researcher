@@ -1,0 +1,515 @@
+{
+ "name": "Progold — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:powder-manufacturer",
+ "researched_at": "2026-11-10T00:11:47.786680+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookThe Tùsaire Collection, designed by Scottish-American artist ...Chad Malcom - FacebookProGold i2 | Grand Rapids MI - Facebook2008 Ram 4500 Regular Cab & Chassis · Tradesman Cab & Chassis ...Additive manufacturing is creating new solutions for hard-to ...Pro Gold Pro (@progold.pro) • Facebook, Connect with friends Unlock the Future of Metal Additive Manufacturing with VoxelMa",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/about/advertise/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seed-s.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://distymap.com/distributors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aliexpress.us/item/3256809660336258.html?gatewayAdapt=jpn2usa4itemAdapt&_randl_shipto=US",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://creator.holoearth.com/shop/products/1021609",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.gamsgo.com/ja/shop/3aad41bd-4e1c-3090-bad5-1b3f6c92157c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.exmatelab.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.rs-online.com/web/c/computing-peripherals/3d-printing-scanning/3d-printing-materials/?srsltid=AYCX9vJlD0HolsD3Sbe02F0nJoQ6ZlqTwUo-ID2C6KXpcOM17enTd8zb",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.askul.co.jp/s/02-0205-0205004-02050040002/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/methodology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.farsoon-gl.com/news/solize-partners-japan-3d-printer-and-farsoon-technologies-announces-3-way-strategic-partnership-to-advance-large-format-lpbf-solutions-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://shigoto.amazon.co.jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://kdp.amazon.co.jp:443/ja_JP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/0.4kw+4P+200V/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/1766/2356/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00511629/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/database/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Progold — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.com/about/advertise/",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://www.progol3d.com/Pages/MediaContent.aspx",
+    "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "https://proto3000.com/service/additive-manufacturing-canada-united-states/",
+    "https://www.additivemanufacturing.media/suppliers?productIds=5699",
+    "https://www.thorlabs.co.jp/ja/distributors",
+    "https://www.progold.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Progold — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://seed-s.jp/",
+    "https://distymap.com/distributors",
+    "https://sorakara.biz/",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.se.com/jp/ja/work/support/locator/map/",
+    "https://x.com/gavugavugavu123/status/2102199549704257741",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://industrial.panasonic.com/jp/s-search/distributors"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Progold — VoxelMatters 日本 販売",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://ja.aliexpress.com/item/1005009846651010.html",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://www.gamsgo.com/ja/shop/3aad41bd-4e1c-3090-bad5-1b3f6c92157c",
+    "https://develop.success-corp.co.jp/products/detail/68516/",
+    "https://nextlabs.space/jp/products/14793611",
+    "https://www.voxelmatters.com/",
+    "https://www.jhi.co.jp/bmrs/progold-fitting/",
+    "https://www.progold.com/",
+    "https://www.jhi.co.jp/bmrs/progold-cph/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Progold — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://skhonpo.com/",
+    "https://shop.exmatelab.com/",
+    "https://jp.rs-online.com/web/c/computing-peripherals/3d-printing-scanning/3d-printing-materials/?srsltid=AYCX9vJlD0HolsD3Sbe02F0nJoQ6ZlqTwUo-ID2C6KXpcOM17enTd8zb",
+    "https://www.askul.co.jp/s/02-0205-0205004-02050040002/",
+    "https://jp.misumi-ec.com/vona2/s_cate/3d%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/?srsltid=AYCX9vLfXLfGSm8L5QpxTPqKqyDuVTCbu4DfhiITwH8qDSW2ISBbHDAa",
+    "https://www.amazon.co.jp/RepRapper-1-75mm%E3%80%81%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%8B%E3%83%BC-3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-Twinkle%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E3%80%81%E5%AF%B8%E6%B3%95%E7%B2%BE%E5%BA%A6-0-02mm%E3%80%81%E3%83%A1%E3%82%BF%E3%83%AA%E3%83%83%E3%82%AF%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E7%94%A8%E3%81%AE%E3%81%BB%E3%81%A8%E3%82%93%E3%81%A9%E3%81%AEFDM%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AB%E9%81%A9%E5%90%88/dp/B0G23XQ3WQ",
+    "https://www.poly-maker.jp/polylitepetg-3set",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://3d-ichiba.com/mtral.html",
+    "https://fantist.com/articles/1092"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "Progold — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://www.upnano.com/distributors/",
+    "https://partners.solize.com/en/manufacturing",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://all3dp.com/4/3d-printing-advanced-technology-center-opens-in-japan-to-spur-adoption-of-additive-manufacturing/",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Progold — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.farsoon-gl.com/news/solize-partners-japan-3d-printer-and-farsoon-technologies-announces-3-way-strategic-partnership-to-advance-large-format-lpbf-solutions-in-japan/",
+    "https://www.voxelmatters.directory/",
+    "https://formlabs.com/company/press/formlabs-extends-global-presence-japan/",
+    "https://mx3d.com/geo/robotic-metal-3d-printing-japan/",
+    "https://www.upnano.com/distributors/",
+    "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "https://www.fortunebusinessinsights.com/japan-3d-printing-market-114804",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp Progold — VoxelMatters",
+   "results": [
+    "https://r.amazon.co.jp/",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://shigoto.amazon.co.jp/",
+    "https://kdp.amazon.co.jp/ja_JP/signin",
+    "https://business.amazon.co.jp/ja/login",
+    "https://www.amazon.co.jp/ザ・グレイテスト-～モハメド・アリ、知られざる真実～-シーズン１/dp/B0HJDGSGPW",
+    "https://www.amazon.co.jp/イヴの罠-シーズン1/dp/B0DH6XCNT2"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Progold — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/k/store/0.4kw+4P+200V/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/p/1766/2356/",
+    "https://www.monotaro.com/g/00511629/",
+    "https://www.monotaro.com/g/04188176/",
+    "https://www.monotaro.com/p/3764/0793/",
+    "https://www.monotaro.com/g/00017212/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Progold — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://www.voxelmatters.report/database/",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://www.voxelmatters.directory/",
+    "https://www.fabbaloo.com/news/voxelmatters-reveals-top-ten-polymer-3d-printing-companies-dominating-the-market",
+    "https://www.voxelmatters.com/aml3d-lift-fy2026-revenue-70-and-record-first-profitable-half/",
+    "https://revenuebase.ai/companies/3d-printing-and-additive-manufacturing-companies/united-states",
+    "https://www.youtube.com/watch?v=K-reePpsN6w",
+    "https://www.voxelmatters.group/insights/",
+    "https://www.zoominfo.com/c/progold-spa/345994444"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Progold — VoxelMatters",
+   "results": [
+    "https://note.com/tag/ループエンジニアリング",
+    "https://note.com/lively_pika8336/n/n5adf36c23e7b",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Progold — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/progold",
+    "https://x.com/ProgoldPlus",
+    "https://x.com/ProGoldBikes",
+    "https://x.com/isaiahrmartin/status/2117871814625972663",
+    "https://x.com/itscelyunique/status/2117839228826521620",
+    "https://x.com/NoahFentys/status/2118178286157140113"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Progold — VoxelMatters",
+   "results": [
+    "https://it.linkedin.com/in/matilde-francioni-bb64b9212",
+    "https://cz.linkedin.com/company/xjet",
+    "https://it.linkedin.com/in/valentina-allodi-4a109069",
+    "https://uk.linkedin.com/in/maevegillies",
+    "https://it.linkedin.com/in/francesco-leonardi-a758a4121",
+    "https://it.linkedin.com/in/federica-tiso-178524109",
+    "https://it.linkedin.com/in/ing-ff",
+    "https://il.linkedin.com/in/limor-zur-stoller-2a1388",
+    "https://it.linkedin.com/in/matteoperini/it",
+    "https://www.linkedin.com/company/voxelmatters"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Progold — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/chad.malcom.39/",
+    "https://www.facebook.com/progoldi2/",
+    "https://www.facebook.com/progold.pro/",
+    "https://www.facebook.com/VoxelMatters/videos/the-tùsaire-collection-designed-by-scottish-american-artist-maeve-gillies-is-the/1660766938063338/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-creating-new-solutions-for-hard-to-source-replacement-/893346590210455/",
+    "https://www.facebook.com/marketplace/item/1792535788612528/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Progold — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/",
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.voxelmatters.group/consultancy/",
+    "https://all3dp.com/4/growth-and-challenges-the-next-decade-of-metal-additive-manufacturing/",
+    "https://www.youtube.com/watch?v=Un_s7ETLlWU",
+    "https://www.voxelmatters.report/methodology/",
+    "https://note.com/ptcjapan/n/n1199578f209b"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Progold — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.voxelmatters.report/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.com/3d-printing-anchors-t-golds-september-edition-in-vicenza/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.youtube.com/watch?v=EmUPG3n5KrQ",
+    "https://www.progol3d.com/",
+    "https://www.youtube.com/watch?v=S-z_Pcd86Rc",
+    "https://x.com/voxelmatters"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）"
+ }
+}

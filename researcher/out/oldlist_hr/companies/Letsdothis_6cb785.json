@@ -1,0 +1,902 @@
+{
+ "name": "Letsdothis",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-10T00:43:21.211738+00:00",
+ "official_url": "https://www.letsdothis.com/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$57,000",
+    "url": "https://prospeo.io/c/let-s-do-this-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$60,000,000",
+    "url": "https://prospeo.io/c/let-s-do-this-revenue",
+    "pass": 3
+   },
+   {
+    "label": "5. Seed Round",
+    "value": "04-Sep-2019    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/185095-99",
+    "pass": 3
+   },
+   {
+    "label": "4. Seed Round",
+    "value": "15-Aug-2018    Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/185095-99",
+    "pass": 3
+   },
+   {
+    "label": "2. Seed Round",
+    "value": "27-Sep-2017 $1.29M $1.48M  Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/185095-99",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Orion House, 5 Upper St Martins Lane, 8th Floor, London, England WC2H 9EA, GB",
+    "url": "https://prospeo.io/c/let-s-do-this-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2017",
+    "url": "https://prospeo.io/c/let-s-do-this-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "A price increase could boost sales further. Here's the projected impact:",
+    "url": "https://www.letsdothis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your browser does not support the video tag.",
+    "url": "https://www.letsdothis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Use prompts to dive deeper",
+    "url": "https://www.letsdothis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Nova configures changes for your approval.",
+    "url": "https://www.letsdothis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Suggested actions include pricing, marketing, and operational improvements.",
+    "url": "https://www.letsdothis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Nova looks at your past events and best practices to help you set pricing and marketing tactics.",
+    "url": "https://www.letsdothis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Nova prompts you with timely, actionable solutions - all available on the Let’s Do This AI Registration Platform.",
+    "url": "https://www.letsdothis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "10× more teams created during the pre-sales window",
+    "url": "https://www.letsdothis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Target by behaviour and preferences",
+    "url": "https://www.letsdothis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See what can be improved",
+    "url": "https://www.letsdothis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Insights across registrations, demographics, financials, and marketing - compared to industry benchmarks - are tied to recommendations.",
+    "url": "https://www.letsdothis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Nova handles your updates and sends you a preview link so you can review - and then watch registrations grow.",
+    "url": "https://www.letsdothis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Point the agent at your event pages, FAQs, and policy docs. It reads and learns everything automatically.",
+    "url": "https://www.letsdothis.com/experience-agent/about",
+    "pass": 1
+   },
+   {
+    "quote": "Your browser does not support the video tag.",
+    "url": "https://www.letsdothis.com/experience-agent/about",
+    "pass": 1
+   },
+   {
+    "quote": "Every conversation in one place. Chat and email threads, side by side, so you can review responses and monitor performance.",
+    "url": "https://www.letsdothis.com/experience-agent/about",
+    "pass": 1
+   },
+   {
+    "quote": "Every plan includes unlimited events and unlimited resolutions. Pro adds more channels, more agents and hands-on support from our team.",
+    "url": "https://www.letsdothis.com/experience-agent/about",
+    "pass": 1
+   },
+   {
+    "quote": "Advertising & analytics",
+    "url": "https://partner-help.letsdothis.com/docs/creating-managing-events/supporting-multiple-languages",
+    "pass": 3
+   },
+   {
+    "quote": "Translating your event content",
+    "url": "https://partner-help.letsdothis.com/docs/creating-managing-events/supporting-multiple-languages",
+    "pass": 3
+   },
+   {
+    "quote": "Content requiring manual translation",
+    "url": "https://partner-help.letsdothis.com/docs/creating-managing-events/supporting-multiple-languages",
+    "pass": 3
+   },
+   {
+    "quote": "Let participants register in their own language, and add your own translations of your event content.",
+    "url": "https://partner-help.letsdothis.com/docs/creating-managing-events/supporting-multiple-languages",
+    "pass": 3
+   },
+   {
+    "quote": "When someone opens your event page or checkout, the platform reads the language preference their browser sends and matches it to a supported language. If there’s no match, it falls back to English (UK).",
+    "url": "https://partner-help.letsdothis.com/docs/creating-managing-events/supporting-multiple-languages",
+    "pass": 3
+   },
+   {
+    "quote": "— the interface, plus any title and content you’ve translated.",
+    "url": "https://partner-help.letsdothis.com/docs/creating-managing-events/supporting-multiple-languages",
+    "pass": 3
+   },
+   {
+    "quote": "free-text content you write is only translated where you provide the translation yourself.",
+    "url": "https://partner-help.letsdothis.com/docs/creating-managing-events/supporting-multiple-languages",
+    "pass": 3
+   },
+   {
+    "quote": "WE'RE HIRING 💙 https://careers.letsdothis.com/.",
+    "url": "https://prospeo.io/c/let-s-do-this-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/let-s-do-this-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Programming languages",
+    "url": "https://prospeo.io/c/let-s-do-this-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Let's Do This has approximately",
+    "url": "https://prospeo.io/c/let-s-do-this-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/let-s-do-this-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/let-s-do-this-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/let-s-do-this-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Let's Do This 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/185095-99",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/185095-99",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/185095-99",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/185095-99",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/185095-99",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/185095-99",
+    "pass": 3
+   },
+   {
+    "quote": "Let's Do This’s primary industry is Information Services (B2C).",
+    "url": "https://pitchbook.com/profiles/company/185095-99",
+    "pass": 3
+   },
+   {
+    "quote": "Is Let's Do This a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/185095-99",
+    "pass": 3
+   },
+   {
+    "quote": "Let's Do This is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/185095-99",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/185095-99",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/185095-99",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/185095-99",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Speaks like your brand, fluent in every language",
+    "url": "https://www.letsdothis.com/experience-agent/about",
+    "pass": 1
+   },
+   {
+    "quote": "Responses, tone, and branding are configurable to feel like a natural extension of your brand, for a seamless experience.",
+    "url": "https://www.letsdothis.com/experience-agent/about",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Instant answers across web and email. Confirmations resent, entries updated, questions resolved. The only agent built for Endurance events that supports your participants around the clock.",
+    "url": "https://www.letsdothis.com/experience-agent/about",
+    "pass": 1
+   },
+   {
+    "quote": "Every conversation in one place. Chat and email threads, side by side, so you can review responses and monitor performance.",
+    "url": "https://www.letsdothis.com/experience-agent/about",
+    "pass": 1
+   },
+   {
+    "quote": "Deployed on your website and across email, meeting participants in the channels they already use.",
+    "url": "https://www.letsdothis.com/experience-agent/about",
+    "pass": 1
+   },
+   {
+    "quote": "Website widget with email escalation",
+    "url": "https://www.letsdothis.com/experience-agent/about",
+    "pass": 1
+   },
+   {
+    "quote": "Confirmation email re-sends",
+    "url": "https://www.letsdothis.com/experience-agent/about",
+    "pass": 1
+   },
+   {
+    "quote": "partnerships@letsdothis.com",
+    "url": "https://www.letsdothis.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Email & Communications",
+    "url": "https://partner-help.letsdothis.com/docs/creating-managing-events/supporting-multiple-languages",
+    "pass": 3
+   },
+   {
+    "quote": "Email personalization",
+    "url": "https://partner-help.letsdothis.com/docs/creating-managing-events/supporting-multiple-languages",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Experience email",
+    "url": "https://partner-help.letsdothis.com/docs/creating-managing-events/supporting-multiple-languages",
+    "pass": 3
+   },
+   {
+    "quote": "The language a participant is viewing in when they complete checkout is also used for their confirmation and other booking emails when that email translation exists. Polish booking emails currently fall back to English (UK).",
+    "url": "https://partner-help.letsdothis.com/docs/creating-managing-events/supporting-multiple-languages",
+    "pass": 3
+   },
+   {
+    "quote": "— confirmation emails and other booking-related emails (such as waitlist acceptances) are sent in the language the participant used at checkout, with dates formatted to match. Note that email translations are available for all supported languages except Polish — Polish participants will receive booking emails in English (UK).",
+    "url": "https://partner-help.letsdothis.com/docs/creating-managing-events/supporting-multiple-languages",
+    "pass": 3
+   },
+   {
+    "quote": "If a participant tells you the site or their confirmation email came through in the wrong language, ask them to open the",
+    "url": "https://partner-help.letsdothis.com/docs/creating-managing-events/supporting-multiple-languages",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/let-s-do-this-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/185095-99",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Let's Do This! (@Letsdothis_fps) / Posts / X — Dec 31, 2012 · Letsdothis_fps Location: Japan Website: http://letsdo-this.weebly.com/ Joined: Dec 31, 2012 7605Posts 672Following 410Followers",
+    "url": "https://x.com/LetsDoThis_fps",
+    "pass": 3
+   },
+   {
+    "quote": "Let's Do This 2026 Company Profile: Valuation, Funding ...Let's Do This - Overview, News & Similar companies - ZoomInfoLet’s Do This - 2026 Company Profile, Team, Funding ...Let's Do This Information - RocketReachLet's Do This Revenue 2024: $17.9M Est. - getlatka.comLet's Do This - Products, Competitors, Financials, Employees ... — Nov 13, 2019 · Information on valuation, funding, cap tables, inve",
+    "url": "https://pitchbook.com/profiles/company/185095-99",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Let's Do This Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/let-s-do-this-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Let's Do This Revenue",
+    "url": "https://prospeo.io/c/let-s-do-this-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Let's Do This",
+    "url": "https://prospeo.io/c/let-s-do-this-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/let-s-do-this-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/let-s-do-this-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/let-s-do-this-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Let's Do This?",
+    "url": "https://prospeo.io/c/let-s-do-this-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Let's Do This generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/let-s-do-this-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/let-s-do-this-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/let-s-do-this-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Let's Do This have?",
+    "url": "https://prospeo.io/c/let-s-do-this-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/let-s-do-this-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/185095-99",
+    "pass": 3
+   },
+   {
+    "quote": "Let's Do This has 84 total employees.",
+    "url": "https://pitchbook.com/profiles/company/185095-99",
+    "pass": 3
+   },
+   {
+    "quote": "What is Let's Do This’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/185095-99",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Let's Do This is",
+    "url": "https://pitchbook.com/profiles/company/185095-99",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "LetsDoThis (@LetsDoThisIC) / X A comedy showcase for you. Live at @ICYachtClub the last Saturday of every month with your hosts @FranielDana & Audrey Brock.",
+    "url": "https://x.com/LetsDoThisIC",
+    "pass": 3
+   },
+   {
+    "quote": "LetsDoThis (@alright_lets_do) / X Mention Follow PostsPosts RepliesReplies RepostsReposts MediaMedia LetsDoThis @alright_lets_do Sep 12",
+    "url": "https://x.com/alright_lets_do",
+    "pass": 3
+   },
+   {
+    "quote": "\"#letsdothis\" - Results on X | Live Posts & Updates Results for \"#letsdothis\" on X (Twitter). Find the latest posts, discussions, and updates about #letsdothis. 20 results found.",
+    "url": "https://x.com/hashtag/letsdothis",
+    "pass": 3
+   },
+   {
+    "quote": "#letsdothis - x.com dotty🔻 (@DottyV2). 21 likes. #letsdothis",
+    "url": "https://x.com/DottyV2/status/2061247860411154589",
+    "pass": 3
+   },
+   {
+    "quote": "Let's Do This! (@Letsdothis_fps) / Posts / X Let's Do This! (@Letsdothis_fps) - Posts - CoD4Promod情報サイト「Let's Do This!」の広報アカウントです。 Admin: @gray_foxey | X (formerly Twitter)",
+    "url": "https://x.com/LetsDoThis_fps",
+    "pass": 3
+   },
+   {
+    "quote": "Victor (@_letsdothis) / Posts / X 🤍24 0 📎 Victor_letsdothis Oct 4 AKA La historia de Chiabe contada por VTV BBC News Mundo bbcmundo Oct 3 Esta es la fascinante historia de un venezolano que quería “justicia\" para su país frente a su inmensa riqueza petrolera y al buscarla ayudó a varias naciones más bbc.in/2FFpiCu 💬2 🔄6 🤍21 0 📎 💬0 🔄0 🤍0 0 📎 ...",
+    "url": "https://x.com/_letsdothis",
+    "pass": 3
+   },
+   {
+    "quote": "LET'S DO THIS (@letsdothisrace) / X We’re super excited to share our brand new look - reflecting the energy of the experiences we love and the pure passion of the people involved. Let's Do This exists to inspire anyone and everyone to have incredible moments, make unforgettable memories, and feel alive.",
+    "url": "https://x.com/letsdothisrace",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Join Us - Let's Do This | Let's Do This - LinkedIn Check out careers.letsdothis.com to see all of our open roles. (10/10 can recommend👀). #hiring #letsdothis Join Us - Let's Do This careers.letsdothis.com 99 16,370 followers",
+    "url": "https://www.linkedin.com/posts/lets-do-this_join-us-lets-do-this-activity-6923287059105234944-1n1t",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Let's Do This | London - FacebookLet's Do This US - FacebookLetsdothis - FacebookLDT - Let's Do This - FacebookLet's Do This Events - FacebookLetsdothishouston | Houston TX - FacebookLet's Do This Travel LLC - Facebook Oct 12, 2026 · Let's Do This, London. 49,541 followers · 43 talking about this · 326 were here. The online company getting everyone together offline The AI Registration Platform tha",
+    "url": "https://www.facebook.com/letsdothisuk/",
+    "pass": 3
+   },
+   {
+    "quote": "Let's Do This US - FacebookLetsdothis - FacebookLDT - Let's Do This - FacebookLet's Do This Events - FacebookLetsdothishouston | Houston TX - FacebookLet's Do This Travel LLC - Facebook Jun 4, 2019 · Let's Do This US. 1,105 likes. Find your next challenge. Refuse the ordinary, get out there and do something epic. #letsdothis Nov 18, 2025 · Letsdothis. 614 likes. YouTuber | Yogini | Gardener Mail/D",
+    "url": "https://www.facebook.com/letsdothisusa/",
+    "pass": 3
+   },
+   {
+    "quote": "Letsdothis - Facebook Nov 18, 2025 · Letsdothis. 614 likes. YouTuber | Yogini | Gardener Mail/DM for collaborations Bareilly, India Creator of @divyakalaa",
+    "url": "https://www.facebook.com/letsdooothis/",
+    "pass": 3
+   },
+   {
+    "quote": "LDT - Let's Do This - Facebook Sep 25, 2019 · LDT - Let's Do This Let's Do This is a blog that features people who are making waves in their communities – thought l Media/news company Follow All ldt-letsdothis.com",
+    "url": "https://www.facebook.com/ldt.letsdothis/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.letsdothis.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.letsdothis.com/experience-agent/about",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.letsdothis.com/about",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.letsdothis.com/experience-agent/sign-up",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://res.cloudinary.com/letsdothiscom/image/upload/q_auto/v1566484057/static-assets/partners/runners-world.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://res.cloudinary.com/letsdothiscom/image/upload/q_auto/v1566484057/static-assets/partners/business-insider.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://res.cloudinary.com/letsdothiscom/image/upload/q_auto/v1566484057/static-assets/partners/redbull.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://res.cloudinary.com/letsdothiscom/image/upload/q_auto/v1662038263/static-assets/partners/LDT_trustpilot_no_stars.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://trends.codecamp.jp/blogs/media/news5401",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://36kr.jp/502580/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sangyo-times.jp/article.aspx?ID=15171",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/LetsDoThis_fps",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://partner-help.letsdothis.com/docs/creating-managing-events/supporting-multiple-languages",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.spendflo.com/case-studies/lets-do-this",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.palantir.com/docs/foundry/use-case-examples/optimizing-production-with-erp-data-across-the-supply-chain",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tcs.com/what-we-do/industries/manufacturing/case-studies",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.researchgate.net/publication/341232776_Case_Study_on_Lean_Manufacturing_System_Implementation_in_Batch_Type_Manufacturing_Industry",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/creators/earn/youtube-partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prospeo.io/c/let-s-do-this-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/185095-99",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/letsdothis/__EhpDk72_zQNssYOuqekJrAQVN-CNMzW1LDaREOQK1xQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://rocketreach.co/lets-do-this-profile_b4486251fcef9c04",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/LetsDoThisIC",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/alright_lets_do",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/letsdothis",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/DottyV2/status/2061247860411154589",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/lets-do-this_join-us-lets-do-this-activity-6923287059105234944-1n1t",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/letsdothisuk/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/letsdothisusa/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/letsdooothis/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ldt.letsdothis/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/LetsDoThis_fps",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/_letsdothis",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/letsdothisrace",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Letsdothis 日本 導入",
+   "results": [
+    "https://trends.codecamp.jp/blogs/media/news5401",
+    "https://www.letsdothis.com/us",
+    "https://36kr.jp/502580/",
+    "https://www.sangyo-times.jp/article.aspx?ID=15171",
+    "https://ja.hinative.com/questions/17241008",
+    "https://global.toyota/jp/newsroom/toyota/44960600.html",
+    "https://limo.media/articles/-/115254",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://carview.yahoo.co.jp/news/detail/47e6455a7095c54bc0ec0f739549cf4f3c6fa475/",
+    "https://www.jtu.or.jp/news/2026/11/09/88043/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Letsdothis 代理店 OR 総代理店 OR 日本法人",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Letsdothis Japan",
+   "results": [
+    "https://x.com/LetsDoThis_fps",
+    "https://www.letsdothis.com/us/e/2026-japan-255244/race-selection?eventId=255244&occurrenceId=21111162903&preferred=true&utm_organiser_id=178870",
+    "https://www.letsdothis.com/us",
+    "https://partner-help.letsdothis.com/docs/creating-managing-events/supporting-multiple-languages",
+    "https://www.letsdothis.com/about",
+    "https://partner-help.letsdothis.com/",
+    "https://landing.letsdoeit.com/?ats=eyJhIjoyMzUxLCJjIjo0NzU2MDIzMywibiI6MTI4LCJzIjo3MjgsImUiOjEwOTczLCJwIjo1N30=&atc=Autocampaign_Default&image=4ea9d08a83f560be7624cbf0ddc3054e.png"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Letsdothis manufacturing customer case study",
+   "results": [
+    "https://www.spendflo.com/case-studies/lets-do-this",
+    "https://www.palantir.com/docs/foundry/use-case-examples/optimizing-production-with-erp-data-across-the-supply-chain",
+    "https://www.tcs.com/what-we-do/industries/manufacturing/case-studies",
+    "https://www.researchgate.net/publication/341232776_Case_Study_on_Lean_Manufacturing_System_Implementation_in_Batch_Type_Manufacturing_Industry",
+    "https://www.grantthornton.com/insights/case-studies/manufacturing/2025/customer-experience-transformation-at-a-global-manufacturer",
+    "https://www.letsdothis.com/us",
+    "https://www.letsdothis.com/customer-experience-onboarding",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.infosys.com/industries/industrial-manufacturing/case-studies.html",
+    "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Letsdothis white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.youtube.com/creators/earn/youtube-partner-program/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Letsdothis founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/let-s-do-this-revenue",
+    "https://pitchbook.com/profiles/company/185095-99",
+    "https://tracxn.com/d/companies/letsdothis/__EhpDk72_zQNssYOuqekJrAQVN-CNMzW1LDaREOQK1xQ",
+    "https://rocketreach.co/lets-do-this-profile_b4486251fcef9c04",
+    "https://getlatka.com/companies/letsdothis.com",
+    "https://www.cbinsights.com/company/lets-do-this",
+    "https://www.zoominfo.com/c/lets-do-this/411151983"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Letsdothis",
+   "results": [
+    "https://note.com/keen_bonobo5883/n/na91a5a67fc24?hl=en",
+    "https://note.com/soulgemanalyst/n/n0185c02e67f8?hl=en",
+    "https://note.com/pocket_penguin/n/nf83aadeb4ea5?hl=en",
+    "https://tales.note.com/biofeedback2/wzt0okyyuxrii",
+    "https://note.com/chloebeyond/n/nefc2baed9930?hl=en",
+    "https://note.com/fu_tan56/n/nf7255c13d375",
+    "https://note.com/maxmatsuura/n/n5184b760199e"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Letsdothis",
+   "results": [
+    "https://x.com/LetsDoThisIC",
+    "https://x.com/alright_lets_do",
+    "https://x.com/hashtag/letsdothis",
+    "https://x.com/DottyV2/status/2061247860411154589",
+    "https://x.com/letsdothisrace",
+    "https://x.com/letsdot94709949",
+    "https://x.com/alright_lets_do/status/2119856114376315233"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Letsdothis",
+   "results": [
+    "https://www.linkedin.com/company/lets-do-this",
+    "https://uk.linkedin.com/company/lets-do-this",
+    "https://www.linkedin.com/posts/lets-do-this_join-us-lets-do-this-activity-6923287059105234944-1n1t",
+    "https://cr.linkedin.com/company/letsdothiscr",
+    "https://sg.linkedin.com/company/letsdothisdk",
+    "https://pe.linkedin.com/posts/basf-chemical_sustainability-winningways-letsdothis-activity-7256555366459604992-Icbr",
+    "https://uk.linkedin.com/in/sam-browne-letsdothis",
+    "https://in.linkedin.com/company/let's-do-this"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:facebook.com Letsdothis",
+   "results": [
+    "https://www.facebook.com/letsdothisuk/",
+    "https://www.facebook.com/letsdothisusa/",
+    "https://www.facebook.com/letsdooothis/",
+    "https://www.facebook.com/ldt.letsdothis/",
+    "https://www.facebook.com/letsdothis.events/",
+    "https://www.facebook.com/Letsdothishouston/",
+    "https://www.facebook.com/Letsdothistravelllc/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Letsdothis note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Letsdothis X 投稿",
+   "results": [
+    "https://x.com/LetsDoThis_fps",
+    "https://search.yahoo.co.jp/realtime/search/#LetsDoThis/",
+    "https://x.com/_letsdothis",
+    "https://x.com/letsdothisrace",
+    "https://www.letsdothis.com/us",
+    "https://x.com/WATP72RFC/status/2119139385019130178",
+    "https://www.letsdothis.com/manage-booking?xnpe_tifc=4FxjxfPLhFBu4In7h.huxMpsafeWaFWLauQ8nkechksDtu4vt9UgrFn7xIUubIYDh.Vl4.HJx.YT"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部29頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部29頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部29頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式4頁／PDF・画像4件／外部29頁・検索12回）"
+ }
+}

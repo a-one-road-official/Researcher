@@ -1,0 +1,512 @@
+{
+ "name": "VOXELPLA — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:materials",
+ "researched_at": "2026-11-10T00:13:33.900850+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookVoxelpla - FacebookVoxelpla - VOXEL Offers Earth's Most Reliable Filaments ...Voxelpla | FacebookVOXELPLA+ High Speed and VOXELPETG+ High Speed are precision ...Only $16.99 | MADE IN THE USA! EARTH'S MOST ... - FacebookVoxel Pla - Facebook Unlock the Future of Metal Additive Manufacturing with VoxelMatters! VoxelMatters Research has kicked off a pre-sale campaign for its upc",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://voxelpla.com/?srsltid=AYCX9vLowcsh81d019whiupOjpLQIdVKoFxcP6f1P57P-WstchPTh3RS",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/3Dprinting/comments/1wpp12x/voxelpla_flagged_my_honest_trustpilot_review_as/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://voxelpla.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://voxel.shop/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.shinetsu.co.jp/jp/company/network/worldwide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://voxelpla.com/?srsltid=AYCX9vKqlCpMkT99z2CwJhFUwrvhmui6eiS3xbduX2dA40Kok0kzEOK0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://creator.holoearth.com/shop/products/1021609",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/VOXELAB-3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-1-75mm-3D%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E7%B4%A0%E6%9D%90-3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC/dp/B08LV13THF",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.aliexpress.com/item/1005009846651010.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://voxelpla.com/?srsltid=AYCX9vJqOZLVy06qG0z1oQgRDIaq5SzxTmoNN11HRjEflxGaGTLDzUjy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3dfilamentprofiles.com/filaments/voxelpla",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.com/voxel-pla/s?k=voxel+pla",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://voxelpla.com/?srsltid=AYCX9vJ9ENz-9Dz_Yk7T_GRAHqDJsLLnl-Y2rfzhgJ-b1JwkuonYdn3G",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/methodology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nano3dprint.com/2023/06/13/nano3dprint-announces-new-japanese-distribution-channel/?srsltid=AYCX9vJWgCyIae9LSuBr3fbL4eohCtMmJvCWqmbe0E6m0NjxboDSgqJm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/VOXELAB-3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-0-05mm-3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8%E7%B4%A0%E6%9D%90/dp/B0989QKG7X",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E3%82%BF%E3%83%95%E3%83%8F%E3%82%A4%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89-3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-PLA%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-%E3%81%99%E3%81%B9%E3%81%A6%E3%81%AE3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%A8AMS%E3%81%AB%E5%AF%BE%E5%BF%9C-%E6%9C%80%E9%AB%98%E3%81%AE%E4%BF%A1%E9%A0%BC%E6%80%A7%E3%81%A8%E9%9D%AD%E6%80%A7%E3%82%92%E8%BF%BD%E6%B1%82%E3%81%97%E3%81%9F%E8%A8%AD%E8%A8%88/dp/B0HFBWN27Q",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://kdp.amazon.co.jp/ja_JP/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E3%82%B3%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%88%E3%83%8F%E3%83%B3%E3%83%89%E3%83%9F%E3%82%AD%E3%82%B5%E3%83%BC/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00011092/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/5137/2424/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/0.4kw+4P+200V/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uk.linkedin.com/company/voxelmatters",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/methodology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "VOXELPLA — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://voxelpla.com/?srsltid=AYCX9vLowcsh81d019whiupOjpLQIdVKoFxcP6f1P57P-WstchPTh3RS",
+    "https://www.reddit.com/r/3Dprinting/comments/1wpp12x/voxelpla_flagged_my_honest_trustpilot_review_as/",
+    "https://www.voxelmatters.directory/",
+    "https://www.facebook.com/realvoxelpla/",
+    "https://www.trustpilot.com/review/voxelpla.com",
+    "https://filamentcheatsheet.com/brands/voxel_pla/",
+    "https://greenfox3d.com/blogs/news/new-filament-source-voxelpla?srsltid=AYCX9vIUTsj8OHpaVislf4uDhqxuDVbrbiZvhFcdnBIpjluU7CgoW2ou",
+    "https://www.instagram.com/voxelpla/",
+    "https://voxelpla.com/pages/contact"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "VOXELPLA — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://voxelpla.com/",
+    "https://voxel.shop/",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/",
+    "https://www.porsche.com/japan/jp/accessoriesandservice/vehicle-accessories/",
+    "https://www.loewe.com/jpn/ja/storeDetails?StoreID=JP1081107",
+    "https://forum.bambulab.com/t/disabling-p2s-aux-fan/204098"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "VOXELPLA — VoxelMatters 日本 販売",
+   "results": [
+    "https://voxelpla.com/?srsltid=AYCX9vKqlCpMkT99z2CwJhFUwrvhmui6eiS3xbduX2dA40Kok0kzEOK0",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://www.amazon.co.jp/VOXELAB-3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-1-75mm-3D%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E7%B4%A0%E6%9D%90-3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC/dp/B08LV13THF",
+    "https://ja.aliexpress.com/item/1005009846651010.html",
+    "https://store.animax.co.jp/products/MCAN013",
+    "https://www.kkday.com/ja/product/819497?srsltid=AYCX9vJN9Lrg7wABIqhfLP_MyAGkmax5Nzym7qi88Y2T0Q-QcRl_VomF",
+    "https://shopping.geocities.jp/storejm/mqmsystem/42e5de4e-8ecd-4120-96e3-aa6029d4d334/42e5de4e-8ecd-4120-96e3-aa6029d4d334.html",
+    "https://www.maiseat.com/ja-JP/skuSelect/17955",
+    "https://shiba78.co.jp/products/detail.php?product_id=5170&plg_accesscontrolspmb=pc",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "VOXELPLA — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://voxelpla.com/?srsltid=AYCX9vJqOZLVy06qG0z1oQgRDIaq5SzxTmoNN11HRjEflxGaGTLDzUjy",
+    "https://www.voxelmatters.com/top-products/",
+    "https://3dfilamentprofiles.com/filaments/voxelpla",
+    "https://www.amazon.com/voxel-pla/s?k=voxel+pla",
+    "https://www.youtube.com/watch?v=mO25ejduXRY",
+    "https://skhonpo.com/",
+    "https://voxelpla.com/collections/voxel-pla-filament-made-in-the-usa?srsltid=AYCX9vJtvAxHkyCr4zv_ay21NrzEfu_EYylkv1KJG5Y9CE8vzok-cknL",
+    "https://www.voxelab3dp.com/category/filaments-and-resins?srsltid=AYCX9vL5XlXwIj_J4zFPOGN-X2pf2tmhU-xboXX8BRWPEJVSk_vECdA7",
+    "https://voxelsa.com/product-category/materials/?srsltid=AYCX9vL190qpMTEkxnLhzsv_HHkTMWc2vrampOYCT1V4IIrHWJmV1QcA",
+    "https://jp.mercari.com/shops/product/2JWrz9sikFjeJfQm4vptaD"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "VOXELPLA — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://voxelpla.com/?srsltid=AYCX9vJ9ENz-9Dz_Yk7T_GRAHqDJsLLnl-Y2rfzhgJ-b1JwkuonYdn3G",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.voxelmatters.com/",
+    "https://www.reddit.com/r/3Dprinting/comments/1qcqa1h/voxelpla_a_scam_or/",
+    "https://www.bbb.org/us/ca/garden-grove/profile/3d-printers/voxelpla-1126-1000127737",
+    "https://x.com/VoxelMatters",
+    "https://www.voxelmatters.com/category/materials/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "VOXELPLA — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.voxelmatters.directory/",
+    "https://nano3dprint.com/2023/06/13/nano3dprint-announces-new-japanese-distribution-channel/?srsltid=AYCX9vJWgCyIae9LSuBr3fbL4eohCtMmJvCWqmbe0E6m0NjxboDSgqJm",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://formlabs.com/company/press/formlabs-extends-global-presence-japan/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.upnano.com/distributors/",
+    "https://voxelpla.com/?srsltid=AYCX9vK0KJL-pI48UwJR9GBUdpvfGxGuBHU5AhLcNx295Tc4v8xvO504",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:amazon.co.jp VOXELPLA — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/VOXELAB-3Dプリンター-フィラメント-0-05mm-3Dプリンター用素材/dp/B0989QKG7X",
+    "https://www.amazon.co.jp/タフハイスピード-3Dプリンターフィラメント-PLAフィラメント-すべての3DプリンターとAMSに対応-最高の信頼性と靭性を追求した設計/dp/B0HFBWN27Q",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://kdp.amazon.co.jp/",
+    "https://shigoto.amazon.co.jp/",
+    "https://pay.amazon.co.jp/using-amazon-pay",
+    "https://business.amazon.co.jp/ja/login"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com VOXELPLA — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/k/store/コンクリートハンドミキサー/",
+    "https://www.monotaro.com/g/00011092/",
+    "https://www.monotaro.com/p/5137/2424/",
+    "https://www.monotaro.com/k/store/0.4kw+4P+200V/",
+    "https://www.monotaro.com/p/6892/1283/",
+    "https://www.monotaro.com/g/00029233/",
+    "https://www.monotaro.com/s/c-23764/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "VOXELPLA — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://uk.linkedin.com/company/voxelmatters",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://x.com/VoxelMatters",
+    "https://www.reddit.com/r/3Dprinting/comments/1q7z1h7/voxelpla_dishonest_borderline_fraudulent_business/",
+    "https://www.fabbaloo.com/news/voxelmatters-reveals-top-ten-polymer-3d-printing-companies-dominating-the-market",
+    "https://www.bbb.org/us/ca/garden-grove/profile/3d-printers/voxelpla-1126-1000127737",
+    "https://voxel.pl/en/investor-relations/investor-zone/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com VOXELPLA — VoxelMatters",
+   "results": [
+    "https://note.com/yokoyokko/n/n155f261df418?hl=en",
+    "https://note.com/osirius3150/n/n164c9a6f7cf8",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com VOXELPLA — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/VoxelPla/status/2117700090567729342",
+    "https://x.com/reprinted3D/status/2116243056525717652",
+    "https://x.com/VoxelAda",
+    "https://x.com/willeastcott/status/2056744519052169233",
+    "https://x.com/VoxelVoyages",
+    "https://help.x.com/zh-cn/managing-your-account"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com VOXELPLA — VoxelMatters",
+   "results": [
+    "https://uk.linkedin.com/in/federico-sher",
+    "https://it.linkedin.com/in/matilde-francioni-bb64b9212",
+    "https://uk.linkedin.com/in/edward-wakefield-662097a7",
+    "https://tr.linkedin.com/in/bedirhan-emre-kose/tr",
+    "https://tr.linkedin.com/in/mustafa-kemal-gulseren",
+    "https://tr.linkedin.com/in/enes-arslan-29356239",
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/company/voxelpla",
+    "https://www.linkedin.com/pub/dir/davide/sher",
+    "https://www.linkedin.com/posts/voxelmatters_metal-am-market-2025-voxelmatters-deep-activity-7285618036043087872-8URk"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:facebook.com VOXELPLA — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/orfeivarna/videos/flocks-wobot%D0%B5%D1%82%D0%BE-%D0%BD%D0%B5%D1%89%D0%BE-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%BD%D0%BE-%D0%BE%D1%82-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5%D1%82%D0%BE-%D0%BD%D0%B0-%D0%BD%D0%B0%D1%88%D0%B8%D1%8F-%D0%B7%D0%B0%D0%BD%D1%8F%D1%82-%D0%B8-%D0%BF%D0%BE%D0%B3%D0%BB%D0%B5%D0%B4-%D0%BA%D1%8A%D0%BC-%D0%B1%D1%8A%D0%B4%D0%B5%D1%89%D0%B5%D1%82/2532753896913098/",
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/realvoxelpla/",
+    "https://www.facebook.com/100083049901739/posts/39158189567160357/",
+    "https://www.facebook.com/realvoxelpla/posts/555430673901925/",
+    "https://www.facebook.com/realvoxelpla/videos/earths-most-reliable-filament-made-in-the-usa/1521234666678802/",
+    "https://www.facebook.com/realvoxelpla/videos/earths-most-reliable-filament-made-in-the-usa/2140700580043315/",
+    "https://www.facebook.com/voxel.pla/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "VOXELPLA — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://voxelpla.com/pages/contact?srsltid=AYCX9vLLju3HfaJXs5DxdgdfGP-_bgyvl34ZoqYIObZ2zu0ThZ4xK7UY",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.voxelmatters.report/",
+    "https://www.voxelmatters.directory/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.com/author/davidesher/",
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.voxelmatters.group/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "VOXELPLA — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.youtube.com/@voxelmatters",
+    "https://voxelpla.com/pages/contact?srsltid=AYCX9vK4E_mmlm9b4u6n36yXYHrMI8lb4EJ2U4tYUsWtX0Op3tduPCMf",
+    "https://www.reddit.com/r/3Dprinting/comments/1wpp12x/voxelpla_flagged_my_honest_trustpilot_review_as/",
+    "https://www.voxelmatters.report/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.com/new-vjet-x-technology/",
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.trustpilot.com/review/voxelpla.com",
+    "https://x.com/voxelmatters"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）"
+ }
+}

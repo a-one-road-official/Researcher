@@ -8,7 +8,7 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-09T04:05:34.904135+00:00",
+ "researched_at": "2026-11-10T00:00:35.397202+00:00",
  "evidence": {
   "検索結果の抜粋": [
    {
@@ -23,17 +23,22 @@
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/nice_oxalis920/n/n7bca172d4fe3",
+    "url": "https://chester-tax.com/academy/blog/hyouka/employee-2277",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ht-tax.or.jp/navi/determine-company-size",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stgy-souzoku.com/company-size-judgment/",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://www.nta.go.jp/law/shitsugi/hyoka/06/02.htm",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://suztax.com/index.php?kabu030",
     "status": "ok",
     "method": "http"
    },
@@ -43,7 +48,17 @@
     "method": "http"
    },
    {
-    "url": "https://www.nta.go.jp/law/joho-zeikaishaku/hojin/020404-2/01/1_4_4.htm",
+    "url": "https://tomorrowstax.com/knowledge/201608151190/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://osd-souzoku.jp/column/business-succession/private-company-valuation/p1619/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tm-tax.com/mailmag/succession/succession232/",
     "status": "ok",
     "method": "http"
    },
@@ -53,42 +68,57 @@
     "method": "browser"
    },
    {
+    "url": "https://note.com/nice_oxalis920/n/n7bca172d4fe3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suztax.com/index.php?kabu030",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nta.go.jp/law/joho-zeikaishaku/hojin/020404-2/01/1_4_4.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/e-census/2019/yougo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.stat.go.jp/info/kenkyu/servstat/pdf/si5-3b.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.agile-firm.com/post/company-size-classification",
+    "url": "https://www.ici.org/system/files/2021-12/21_bro_japanese_retirement.pdf",
+    "status": "http_403",
+    "method": "pdf"
+   },
+   {
+    "url": "https://cri.georgetown.edu/countries/japan/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.mhlw.go.jp/content/12501000/001263881.pdf",
+    "url": "https://pensionresearchcouncil.wharton.upenn.edu/wp-content/uploads/2015/09/0-256-09141-2-5.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.ipss.go.jp/ss-cost/e/fsss-22/data/cost2022.pdf",
-    "status": "ok",
-    "method": "pdf"
+    "url": "https://www.ssa.gov/policy/docs/ssb/v76n1/v76n1p27.html",
+    "status": "http_403",
+    "method": "http"
    },
    {
-    "url": "https://www.mhlw.go.jp/content/12501000/overview.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.stat.go.jp/english/data/nenkan/73nenkan/1431-19.html",
+    "url": "https://iuslaboris.com/insights/japans-pension-system-what-employers-need-to-know/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.stat.go.jp/english/data/nenkan/1431-23e.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.ipss.go.jp/s-info/e/Jasos2002/c_2.html",
+    "url": "https://www.teamed.global/country-hiring-guides/japan/tax-and-payroll",
     "status": "ok",
     "method": "http"
    }
@@ -97,109 +127,153 @@
  "search_log": [
   {
    "query": "従業員数の定義の違い（税の会社規模判定・年金の被保険者・統計の従業者・有報の従業員・役員と短時間の扱い・換算時間）を書いた税理士・社労士・統計の解説（4-111） site:note.com",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
+   "results": [
+    "https://chester-tax.com/academy/blog/hyouka/employee-2277",
+    "https://www.ht-tax.or.jp/navi/determine-company-size",
+    "https://stgy-souzoku.com/company-size-judgment/",
+    "https://www.nta.go.jp/law/shitsugi/hyoka/06/02.htm",
+    "https://suztax.com/index.php?kabu016",
+    "https://tomorrowstax.com/knowledge/201608151190/",
+    "https://osd-souzoku.jp/column/business-succession/private-company-valuation/p1619/",
+    "https://www.tm-tax.com/mailmag/succession/succession232/",
+    "https://maruishi-tax.jp/column/column334/",
+    "https://note.com/nice_oxalis920/n/n7bca172d4fe3"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
   },
   {
    "query": "従業員数の定義の違い（税の会社規模判定・年金の被保険者・統計の従業者・有報の従業員・役員と短時間の扱い・換算時間）を書いた税理士・社労士・統計の解説（4-111） note",
    "results": [
-    "https://note.com/nice_oxalis920/n/n7bca172d4fe3",
+    "https://chester-tax.com/academy/blog/hyouka/employee-2277",
+    "https://www.ht-tax.or.jp/navi/determine-company-size",
+    "https://stgy-souzoku.com/company-size-judgment/",
     "https://www.nta.go.jp/law/shitsugi/hyoka/06/02.htm",
-    "https://suztax.com/index.php?kabu030",
     "https://suztax.com/index.php?kabu016",
-    "https://www.nta.go.jp/law/joho-zeikaishaku/hojin/020404-2/01/1_4_4.htm",
+    "https://tomorrowstax.com/knowledge/201608151190/",
+    "https://osd-souzoku.jp/column/business-succession/private-company-valuation/p1619/",
+    "https://www.tm-tax.com/mailmag/succession/succession232/",
     "https://maruishi-tax.jp/column/column334/",
-    "https://www.stat.go.jp/info/kenkyu/servstat/pdf/si5-3b.pdf"
+    "https://note.com/nice_oxalis920/n/n7bca172d4fe3"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 13
   },
   {
    "query": "従業員数の定義の違い（税の会社規模判定・年金の被保険者・統計の従業者・有報の従業員・役員と短時間の扱い・換算時間）を書いた税理士・社労士・統計の解説（4-111） やり方",
    "results": [
+    "https://chester-tax.com/academy/blog/hyouka/employee-2277",
+    "https://www.ht-tax.or.jp/navi/determine-company-size",
+    "https://stgy-souzoku.com/company-size-judgment/",
     "https://www.nta.go.jp/law/shitsugi/hyoka/06/02.htm",
-    "https://note.com/nice_oxalis920/n/n7bca172d4fe3",
-    "https://suztax.com/index.php?kabu030",
     "https://suztax.com/index.php?kabu016",
-    "https://www.nta.go.jp/law/joho-zeikaishaku/hojin/020404-2/01/1_4_4.htm",
+    "https://tomorrowstax.com/knowledge/201608151190/",
+    "https://osd-souzoku.jp/column/business-succession/private-company-valuation/p1619/",
+    "https://www.tm-tax.com/mailmag/succession/succession232/",
     "https://maruishi-tax.jp/column/column334/",
-    "https://www.stat.go.jp/info/kenkyu/servstat/pdf/si5-3b.pdf"
+    "https://note.com/nice_oxalis920/n/n7bca172d4fe3"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 13
   },
   {
    "query": "従業員数の定義の違い（税の会社規模判定・年金の被保険者・統計の従業者・有報の従業員・役員と短時間の扱い・換算時間）を書いた税理士・社労士・統計の解説（4-111） 事例",
    "results": [
-    "https://suztax.com/index.php?kabu016",
-    "https://suztax.com/index.php?kabu030",
+    "https://chester-tax.com/academy/blog/hyouka/employee-2277",
+    "https://www.ht-tax.or.jp/navi/determine-company-size",
+    "https://stgy-souzoku.com/company-size-judgment/",
     "https://www.nta.go.jp/law/shitsugi/hyoka/06/02.htm",
-    "https://www.nta.go.jp/law/joho-zeikaishaku/hojin/020404-2/01/1_4_4.htm",
+    "https://suztax.com/index.php?kabu016",
+    "https://tomorrowstax.com/knowledge/201608151190/",
+    "https://osd-souzoku.jp/column/business-succession/private-company-valuation/p1619/",
+    "https://www.tm-tax.com/mailmag/succession/succession232/",
     "https://maruishi-tax.jp/column/column334/",
-    "https://www.stat.go.jp/info/kenkyu/servstat/pdf/si5-3b.pdf",
-    "https://www.agile-firm.com/post/company-size-classification"
+    "https://note.com/nice_oxalis920/n/n7bca172d4fe3"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 13
   },
   {
    "query": "employee count definitions Japan tax valuation pension insured statistics comparison",
    "results": [
-    "https://www.mhlw.go.jp/content/12501000/001263881.pdf",
-    "https://www.ipss.go.jp/ss-cost/e/fsss-22/data/cost2022.pdf",
-    "https://www.mhlw.go.jp/content/12501000/overview.pdf",
-    "https://www.stat.go.jp/english/data/nenkan/73nenkan/1431-19.html",
-    "https://www.stat.go.jp/english/data/nenkan/1431-23e.html",
-    "https://www.ipss.go.jp/s-info/e/Jasos2002/c_2.html",
-    "https://www.e-stat.go.jp/en/statistics/00200051"
+    "https://www.ici.org/system/files/2021-12/21_bro_japanese_retirement.pdf",
+    "https://cri.georgetown.edu/countries/japan/",
+    "https://pensionresearchcouncil.wharton.upenn.edu/wp-content/uploads/2015/09/0-256-09141-2-5.pdf",
+    "https://www.ssa.gov/policy/docs/ssb/v76n1/v76n1p27.html",
+    "https://iuslaboris.com/insights/japans-pension-system-what-employers-need-to-know/",
+    "https://www.teamed.global/country-hiring-guides/japan/tax-and-payroll",
+    "https://taxsummaries.pwc.com/japan/individual/other-taxes",
+    "https://www.mofa.go.jp/j_info/japan/socsec/maruo/maruo_5.html",
+    "https://www.oecd.org/en/publications/pensions-at-a-glance-2025_e40274c1-en.html",
+    "https://www.mhlw.go.jp/content/12501000/001263881.pdf"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 従業員数の定義の違い（税の会社規模判定・年金の被保険者・統計の従業者・有報の従業員・役員と短時間の扱い・換算時間）を書いた税理士・社労士・統計の解説（4-111）",
+   "results": [
+    "https://note.com/xoperation/n/n93109494872d",
+    "https://note.com/konkon4192/n/nc04b0ed3a10f",
+    "https://note.com/shigeyukikato/n/nd84adfad2eb0",
+    "https://note.com/dakudhigura/n/n3acefff018cf",
+    "https://note.com/nice_oxalis920/n/n7bca172d4fe3",
+    "https://note.com/toaru_/n/n99badf3f9aaa",
+    "https://note.com/asagaya106/n/n7857b8a4fdf1",
+    "https://note.com/sghr_tkn/n/ncc6c871c2876",
+    "https://note.com/mousoubiz/n/n6274d803ce0a",
+    "https://note.com/chi_midwife/n/n1bbacc8e66c1"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:x.com 従業員数の定義の違い（税の会社規模判定・年金の被保険者・統計の従業者・有報の従業員・役員と短時間の扱い・換算時間）を書いた税理士・社労士・統計の解説（4-111）",
+   "results": [
+    "https://x.com/fm_suisinkyo/status/2039220716113993898",
+    "https://x.com/NEWMAN_DAI/status/2033460439045091626",
+    "https://x.com/ki_shumi/status/2108837256178147433",
+    "https://x.com/askanobenkyo/status/1789446253467795557",
+    "https://x.com/rmc_lab/status/2085546469449404564",
+    "https://x.com/kishida_cpa/status/2112358187324322197",
+    "https://x.com/Galileo663/status/2077704569208119387"
    ],
    "engines": [
     "ddgs:bing"
    ],
    "n_hits": 7
-  },
-  {
-   "query": "site:note.com 従業員数の定義の違い（税の会社規模判定・年金の被保険者・統計の従業者・有報の従業員・役員と短時間の扱い・換算時間）を書いた税理士・社労士・統計の解説（4-111）",
-   "results": [
-    "https://note.com/nice_oxalis920/n/n7bca172d4fe3",
-    "https://note.com/toaru_/n/n99badf3f9aaa",
-    "https://note.com/asagaya106/n/n7857b8a4fdf1",
-    "https://note.com/chi_midwife/n/n1bbacc8e66c1",
-    "https://note.com/sghr_tkn/n/ncc6c871c2876",
-    "https://note.com/mousoubiz/n/n6274d803ce0a",
-    "https://note.com/nihonsogo_sr/n/n4f32300c96f0"
-   ],
-   "engines": [
-    "ddgs:google"
-   ],
-   "n_hits": 7
-  },
-  {
-   "query": "site:x.com 従業員数の定義の違い（税の会社規模判定・年金の被保険者・統計の従業者・有報の従業員・役員と短時間の扱い・換算時間）を書いた税理士・社労士・統計の解説（4-111）",
-   "results": [],
-   "engines": [],
-   "n_hits": 0
   },
   {
    "query": "site:linkedin.com 従業員数の定義の違い（税の会社規模判定・年金の被保険者・統計の従業者・有報の従業員・役員と短時間の扱い・換算時間）を書いた税理士・社労士・統計の解説（4-111）",
    "results": [
     "https://www.linkedin.com/feed/update/urn:li:activity:7287679525939789825/",
     "https://jp.linkedin.com/posts/株式会社hrマネジメント_36協定-労務管理-従業員数数え方-activity-7396093957618769920--HkI",
-    "https://jp.linkedin.com/posts/triangle-trust_期待が集まる中堅企業-みなさんこんにちは安田です-トライアングルトラスト専門家-activity-7497138860053680128-NQlk",
     "https://www.linkedin.com/posts/yohei-koyama-b38a708b_カタリスの資本金が1億円になりました-仕事をしていると会社の資本金について聞-share-7512461033823756288-JCDH",
+    "https://jp.linkedin.com/posts/triangle-trust_期待が集まる中堅企業-みなさんこんにちは安田です-トライアングルトラスト専門家-activity-7497138860053680128-NQlk",
+    "https://www.linkedin.com/posts/daisuke-adachi-8b499028_補助金助成金の判定ツールkyufyをfreee-アプリストアで公開しました-activity-7502904430632210434-YnGL",
     "https://tw.linkedin.com/pulse/startup-basics-名詞解釋中小企業-sme-small-medium-sized-enterprises-zk39c",
-    "https://www.linkedin.com/pulse/従業員ゼロ取締役2名の会社が誕生henngeが始めたai前提の組織実験-駿介-原-zguzc/",
-    "https://www.linkedin.com/posts/daisuke-adachi-8b499028_補助金助成金の判定ツールkyufyをfreee-アプリストアで公開しました-activity-7502904430632210434-YnGL"
+    "https://www.linkedin.com/pulse/従業員ゼロ取締役2名の会社が誕生henngeが始めたai前提の組織実験-駿介-原-zguzc/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -207,84 +281,87 @@
    "query": "site:facebook.com 従業員数の定義の違い（税の会社規模判定・年金の被保険者・統計の従業者・有報の従業員・役員と短時間の扱い・換算時間）を書いた税理士・社労士・統計の解説（4-111）",
    "results": [
     "https://www.facebook.com/takamiMIYATAKE/photos/社会保険の年収の壁の整理従業員数100人以下はどうなるのとご質問をいただいたので人数は厚生年金の被保険者数で判断するのが正式です年収の壁-社会保険/6650966408314425/",
-    "https://www.facebook.com/nagahirazeirishi/posts/中小企業の判定は資本金や従業員数となりこの記事にある吉本興業やシャープだけでなくヨドバシカメラやアイリスオーヤマジャパネットたかだ等も中小企業となっています中小/602753866578295/",
     "https://www.facebook.com/motokokuzei/posts/混乱しがちな従業者の数の判定法人住民税法人事業税の分割基準と法人住民税の均等割の計算で細かいところが変わりますこの点先日の月刊税務ｑａ２０２０年５月号にまとめら/2803356233125330/",
     "https://www.facebook.com/asadakaikei.co.jp/posts/2162131470470677/",
+    "https://www.facebook.com/nagahirazeirishi/posts/中小企業の判定は資本金や従業員数となりこの記事にある吉本興業やシャープだけでなくヨドバシカメラやアイリスオーヤマジャパネットたかだ等も中小企業となっています中小/602753866578295/",
     "https://www.facebook.com/offficegsr/videos/今回の動画では2025年に成立した年金制度改正法の中から社会保険の適用拡大について解説しています解説動画はこちらhttpsyoutubem1wm_ux3vymこ/993087043182857/",
     "https://www.facebook.com/taxblue/videos/社会保険の壁106万円130万円-202412緊急解説④-個人事業主従業員数5人以上-年収-年金-厚生年金-扶養従業員数5人以上の個人事業主は130万円の壁20/2297197470650781/",
     "https://www.facebook.com/doshinweb/posts/年金制度の法律改正で今年１０月から従業員１００人超の企業を対象にパートタイマーなどの短時間勤務者に対する社会保険加入の範囲が拡大されます対象となると働く本人には/5651367518230789/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
   {
    "query": "従業員数の定義の違い（税の会社規模判定・年金の被保険者・統計の従業者・有報の従業員・役員と短時間の扱い・換算時間）を書いた税理士・社労士・統計の解説（4-111） note 社長",
    "results": [
-    "https://note.com/nice_oxalis920/n/n7bca172d4fe3",
+    "https://chester-tax.com/academy/blog/hyouka/employee-2277",
+    "https://www.ht-tax.or.jp/navi/determine-company-size",
+    "https://stgy-souzoku.com/company-size-judgment/",
     "https://www.nta.go.jp/law/shitsugi/hyoka/06/02.htm",
-    "https://suztax.com/index.php?kabu030",
     "https://suztax.com/index.php?kabu016",
-    "https://www.nta.go.jp/law/joho-zeikaishaku/hojin/020404-2/01/1_4_4.htm",
+    "https://tomorrowstax.com/knowledge/201608151190/",
+    "https://osd-souzoku.jp/column/business-succession/private-company-valuation/p1619/",
+    "https://www.tm-tax.com/mailmag/succession/succession232/",
     "https://maruishi-tax.jp/column/column334/",
-    "https://www.stat.go.jp/info/kenkyu/servstat/pdf/si5-3b.pdf"
+    "https://note.com/nice_oxalis920/n/n7bca172d4fe3"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 13
   },
   {
    "query": "従業員数の定義の違い（税の会社規模判定・年金の被保険者・統計の従業者・有報の従業員・役員と短時間の扱い・換算時間）を書いた税理士・社労士・統計の解説（4-111） X 投稿",
    "results": [
-    "https://note.com/nice_oxalis920/n/n7bca172d4fe3",
+    "https://chester-tax.com/academy/blog/hyouka/employee-2277",
+    "https://www.ht-tax.or.jp/navi/determine-company-size",
+    "https://stgy-souzoku.com/company-size-judgment/",
     "https://www.nta.go.jp/law/shitsugi/hyoka/06/02.htm",
-    "https://suztax.com/index.php?kabu030",
-    "https://www.nta.go.jp/law/joho-zeikaishaku/hojin/020404-2/01/1_4_4.htm",
     "https://suztax.com/index.php?kabu016",
+    "https://tomorrowstax.com/knowledge/201608151190/",
+    "https://osd-souzoku.jp/column/business-succession/private-company-valuation/p1619/",
+    "https://www.tm-tax.com/mailmag/succession/succession232/",
     "https://maruishi-tax.jp/column/column334/",
-    "https://www.stat.go.jp/info/kenkyu/servstat/pdf/si5-3b.pdf"
+    "https://note.com/nice_oxalis920/n/n7bca172d4fe3"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 13
   },
   {
    "query": "employee count definitions Japan tax valuation pension insured statistics comparison site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/japans-pension-system-how-works-japanese-person-verses-naman-jaloria-e9o1f",
-    "https://www.linkedin.com/pulse/japanese-pension-system-guide-foreigners-pablo-kawai-xbgzc",
-    "https://pe.linkedin.com/posts/mori-management_ma-valuation-considerations-in-japan-is-activity-7265327008383938560-RxPe",
-    "https://www.linkedin.com/pulse/japan-compensation-benefits-guide-letsgonex-f1asc",
-    "https://www.linkedin.com/pulse/understanding-japanese-corporate-tax-documentation-comprehensive-abyve",
-    "https://www.linkedin.com/posts/asinta_japans-2025-defined-contribution-pension-activity-7349475953112211457-l9wX",
-    "https://www.linkedin.com/pulse/what-shakai-hoken-japan-remolyglobal-rcgkc"
+    "https://www.linkedin.com/posts/latinometrics_chile-now-holds-more-pension-money-activity-7513958579507216385-95b9",
+    "https://www.linkedin.com/posts/proalexmwangi_top-10-best-performing-guaranteed-pension-activity-7451842105364082688-uPnG",
+    "https://www.linkedin.com/pulse/prudential-japans-stumbles-what-means-us-farron-blanc-bxggc",
+    "https://www.linkedin.com/pulse/why-buy-term-invest-rest-tells-only-half-story-northwestern-mutual-zd3wc",
+    "https://www.linkedin.com/posts/malte-karstan_your-salary-has-three-lives-gross-net-and-activity-7508263198744256512-u5pg",
+    "https://uk.linkedin.com/in/duncanlamont2",
+    "https://www.linkedin.com/in/pollacklarry",
+    "https://www.linkedin.com/posts/tonylawlorfractionalfd_de-montfort-to-open-subsidiary-firm-and-revise-activity-7515719829669040128-7GXP",
+    "https://ca.linkedin.com/in/doug-chandler-33aa1943",
+    "https://uk.linkedin.com/company/puntersouthall"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ14頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ14頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ14頁・検索12回）",
-  "失敗・落とし穴": "記載なし（読んだ14頁・検索12回）",
-  "実例": "記載なし（読んだ14頁・検索12回）"
+  "手順・やり方": "記載なし（読んだ20頁・検索12回）",
+  "突き合わせ・推定": "記載なし（読んだ20頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ20頁・検索12回）",
+  "失敗・落とし穴": "記載なし（読んだ20頁・検索12回）",
+  "実例": "記載なし（読んだ20頁・検索12回）"
  },
- "new_this_run": {
-  "検索結果の抜粋": [
-   {
-    "quote": "従業員の範囲 - 国税庁会社規模判定要素 従業員数 - 輸出入・越境EC・消費税還付に強い税理...【新設】（従業者の範囲）｜国税庁労務・社会保険、従業員数の数え方にご注意を！｜アセント社労士事務...会社規模の判定基準・非上場株式の評価とは？従業員数や業種・総資産...事業所・企業統計調査及び経済センサスにおける従業者区分 — 財産評価基本通達178（取引相場のない株式の評価上の区分）による会社規模区分の判定において、次の者については、いずれの会社の従業員としてカウントするのでしょうか。 出向中の者 人材派遣会社より派遣されている者 See full list on nta.go.jp 雇用関係や勤務実態を確認して判定します。 (理由) 1 出向中の者 従業員数基準における従業員とは、原則として、評価会社との雇用契約に基づき使用される個人で賃金が支払われる者をいいますから、例えば、出向元",
-    "url": "https://www.nta.go.jp/law/shitsugi/hyoka/06/02.htm",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ]
- },
- "runs": 2,
+ "new_this_run": {},
+ "runs": 3,
  "first_researched_at": "2026-11-08T19:49:56.865367+00:00"
 }

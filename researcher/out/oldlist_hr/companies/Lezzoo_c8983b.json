@@ -1,0 +1,928 @@
+{
+ "name": "Lezzoo",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-10T00:20:28.429950+00:00",
+ "official_url": "https://lezzoo.com",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：January 2018 ; 8 years ago ( 2018-01 ) Erbil, Iraq",
+    "url": "https://en.wikipedia.org/wiki/Lezzoo",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Primam St Erbil",
+    "url": "https://en.wikipedia.org/wiki/Lezzoo",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "25-Jul-2020    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/279839-26",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Groceries, fresh produce and essentials, fast.",
+    "url": "https://www.lezzoo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pharmacy items and prescriptions to your door.",
+    "url": "https://www.lezzoo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Play games, earn coins, win prizes.",
+    "url": "https://www.lezzoo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Starts B2B Marketplace. Partners with World Food Program. Begins digitizing Iraq's food supply chain.",
+    "url": "https://www.lezzoo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "One app for everything. From dinner to prescriptions, trivia games to your local social feed.",
+    "url": "https://www.lezzoo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We're building Iraq's entire digital infrastructure — from payments to social media, gaming to AI — all from Erbil.",
+    "url": "https://www.lezzoo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Accepted into the world's most prestigious accelerator in 2019. The only Iraqi company to ever graduate from YC — alongside DoorDash, Stripe, and Airbnb.",
+    "url": "https://www.lezzoo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Jiran — Iraq's first local social media. Scrolls — TikTok-style food discovery. Xomali AI — generate images with AI. All inside one app.",
+    "url": "https://www.lezzoo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "You can order food from 2,500+ restaurants, groceries, pharmacy items, water delivery, and e-commerce products — plus access games, payments, and social features inside the same app.",
+    "url": "https://www.lezzoo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We shipped our first product in weeks, not months. Speed is in our DNA — it's in our name. Quick decisions, rapid iteration, bias toward action.",
+    "url": "https://www.lezzoo.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our vision is to build Iraq's digital infrastructure. But we get there one order, one product, one city at a time. Ambition grounded in execution.",
+    "url": "https://www.lezzoo.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Kurdish Pride, Global Standards",
+    "url": "https://www.lezzoo.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We're proudly from Kurdistan. Our name is bilingual Kurdish. But our standards are global. Y Combinator, world-class UX, and tech that competes with anyone.",
+    "url": "https://www.lezzoo.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Every full-time hire gets equity. When Lezzoo wins, you win.",
+    "url": "https://www.lezzoo.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive medical coverage for you and your family.",
+    "url": "https://www.lezzoo.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering, product, operations, marketing, and more. All roles are posted on LinkedIn.",
+    "url": "https://www.lezzoo.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Lezzoo",
+    "pass": 3
+   },
+   {
+    "quote": "in 2018. Initially specialising in food deliveries, it has since extended its services to the delivery of groceries, pharmaceutical products, water and gas; additionally providing health and cleaning services in cities across",
+    "url": "https://en.wikipedia.org/wiki/Lezzoo",
+    "pass": 3
+   },
+   {
+    "quote": "In December 2018, Lezzoo became the first and only Iraqi startup to graduate (and receive a pre-seed investment) from the Y Combinator accelerator program.",
+    "url": "https://en.wikipedia.org/wiki/Lezzoo",
+    "pass": 3
+   },
+   {
+    "quote": "As of June 2020, the company reported it was now processing close to 50,000 orders every month and had launched Lezzoo Pay, a",
+    "url": "https://en.wikipedia.org/wiki/Lezzoo",
+    "pass": 3
+   },
+   {
+    "quote": "to replace cash payments and allow users to buy different types of prepaid cards.",
+    "url": "https://en.wikipedia.org/wiki/Lezzoo",
+    "pass": 3
+   },
+   {
+    "quote": "In December 2018, Lezzoo was accepted into Silicon Valley's Y combinator accelerator program and received a pre-seed investment of $150,000; becoming the first Iraqi startup to ever take part in the world-renowned accelerator's program.",
+    "url": "https://en.wikipedia.org/wiki/Lezzoo",
+    "pass": 3
+   },
+   {
+    "quote": "Lezzoo delivers orders and services to its users with over 100,000 products and over 700 stores to choose from.",
+    "url": "https://en.wikipedia.org/wiki/Lezzoo",
+    "pass": 3
+   },
+   {
+    "quote": "The app provides complete online menus from restaurants and a large selection of products from grocery stores and pharmacies. Users can also order services such as the delivery of water and gas, at-home medical checks, laundry care, sanitization and cleaning, garden maintenance and express delivery by using the application on the",
+    "url": "https://en.wikipedia.org/wiki/Lezzoo",
+    "pass": 3
+   },
+   {
+    "quote": "Meals and products are delivered by couriers using cars and scooters. Water and gas are delivered by heavy-duty vehicles.",
+    "url": "https://en.wikipedia.org/wiki/Lezzoo",
+    "pass": 3
+   },
+   {
+    "quote": "In April 2020, the company introduced at-home COVID-19 follow-up checks to its medical services and began providing disinfection and sterilization services to help minimize the spread of the virus.",
+    "url": "https://en.wikipedia.org/wiki/Lezzoo",
+    "pass": 3
+   },
+   {
+    "quote": "\"Security is just the beginning for Iraqi entrepreneurs in ISIS' wake\"",
+    "url": "https://en.wikipedia.org/wiki/Lezzoo",
+    "pass": 3
+   },
+   {
+    "quote": "\"Interview with Yadgar Merani\"",
+    "url": "https://en.wikipedia.org/wiki/Lezzoo",
+    "pass": 3
+   },
+   {
+    "quote": "Internet properties established in 2018",
+    "url": "https://en.wikipedia.org/wiki/Lezzoo",
+    "pass": 3
+   },
+   {
+    "quote": "Articles with a promotional tone from November 2021",
+    "url": "https://en.wikipedia.org/wiki/Lezzoo",
+    "pass": 3
+   },
+   {
+    "quote": "All articles with a promotional tone",
+    "url": "https://en.wikipedia.org/wiki/Lezzoo",
+    "pass": 3
+   },
+   {
+    "quote": ", a non-profit organization.",
+    "url": "https://en.wikipedia.org/wiki/Lezzoo",
+    "pass": 3
+   },
+   {
+    "quote": "With just 12 restaurants on board and a single driver — Rekar himself, using his own car — Lezzoo launched in Erbil. The first order was a kebab. The second was pizza. The third was confusion from the restaurant owner who'd never seen an app request before. Within weeks, orders were scaling faster than they could hire.",
+    "url": "https://www.lezzoo.com/story",
+    "pass": 3
+   },
+   {
+    "quote": "Lezzoo launched Saydo — a B2B marketplace connecting suppliers directly to retailers. Partnerships with the World Food Program and major FMCG distributors. Lezzoo wasn't just delivering meals anymore; it was digitizing Iraq's entire food supply chain.",
+    "url": "https://www.lezzoo.com/story",
+    "pass": 3
+   },
+   {
+    "quote": "Iraqi Start-Ups in StartMashreq Growth Programme",
+    "url": "https://www.iraq-businessnews.com/tag/lezzoo/",
+    "pass": 3
+   },
+   {
+    "quote": "By John Lee. Five Iraqi start-ups are reported to be among the 24 new businesses selected to take part in Flat6Labs' StartMashreq Growth Track programme. The programme, which started in June and will run until December 2024, is part of StartMashreq's broader vision to inspire and support displaced entrepreneurs and empower female-led startups in the […]",
+    "url": "https://www.iraq-businessnews.com/tag/lezzoo/",
+    "pass": 3
+   },
+   {
+    "quote": "17th April 2023",
+    "url": "https://www.iraq-businessnews.com/tag/lezzoo/",
+    "pass": 3
+   },
+   {
+    "quote": "By Joshua Levkowitz for Middle East Eye. Any opinions expressed here are those of the author(s) and do not necessarily reflect the views of Iraq Business News. Iraq: American fast food is leaving its mark two decades after the invasion US franchises such as Burger King and Cold Stone Creamery open with fanfare, including appearances […]",
+    "url": "https://www.iraq-businessnews.com/tag/lezzoo/",
+    "pass": 3
+   },
+   {
+    "quote": "6th April 2023",
+    "url": "https://www.iraq-businessnews.com/tag/lezzoo/",
+    "pass": 3
+   },
+   {
+    "quote": "By Hassan Jivraj for Al Monitor. Any opinions expressed here are those of the author(s) and do not necessarily reflect the views of Iraq Business News. Iraq's tech ecosystem offers bright spot for private sector Despite numerous regional and country-specific challenges, Iraqi start-ups had a good year. Click here to read the full article.",
+    "url": "https://www.iraq-businessnews.com/tag/lezzoo/",
+    "pass": 3
+   },
+   {
+    "quote": "By Mustafa Saadoun for Al Monitor. Any opinions expressed here are those of the author(s) and do not necessarily reflect the views of Iraq Business News. Iraqi startup Lezzoo expands with purchase of Saydo The delivery startup is one of several in the autonomous Kurdistan Region, and the autonomous government is hoping to spur more […]",
+    "url": "https://www.iraq-businessnews.com/tag/lezzoo/",
+    "pass": 3
+   },
+   {
+    "quote": "Northern Gulf Partners, a frontier market investment firm, and California-based Pay It Forward Venture Capital, have led a seven-figure US dollar seed round investment in Lezzoo, a delivery and e-payment platform that aims to become Iraq's first super-app. Lezzoo received a pre-seed investment from Silicon Valley's Y Combinator and is the only Iraqi start-up accepted […]",
+    "url": "https://www.iraq-businessnews.com/tag/lezzoo/",
+    "pass": 3
+   },
+   {
+    "quote": "23rd April 2020",
+    "url": "https://www.iraq-businessnews.com/tag/lezzoo/",
+    "pass": 3
+   },
+   {
+    "quote": "By Alice Bosley and Patricia Letayf, Co-Founders of Five One Labs. Any opinions expressed are those of the author(s), and do not necessarily reflect the views of Iraq Business News. Iraq's Start-Ups will Overcome Coronavirus - And Be More Important Than Ever Over the past months, coronavirus has changed the world as we know it. […]",
+    "url": "https://www.iraq-businessnews.com/tag/lezzoo/",
+    "pass": 3
+   },
+   {
+    "quote": "By Alice Bosley and Patricia Letayf, Co-Founders of Five One Labs. Reflections on Investments in Iraq’s Tech Ecosystem 2019 showed an exciting development for Iraq's entrepreneurial ecosystem: the investments in two Iraqi tech startups - e-commerce company Miswag, which received investment from Iraq Tech Ventures, and Lezzoo, the first Iraqi startup to join Silicon Valley’s […]",
+    "url": "https://www.iraq-businessnews.com/tag/lezzoo/",
+    "pass": 3
+   },
+   {
+    "quote": "14 Products. One Super App.",
+    "url": "https://www.lezzoo.com/ecosystem",
+    "pass": 3
+   },
+   {
+    "quote": "Explore every service that makes Lezzoo the most comprehensive super app in Kurdistan and Iraq.",
+    "url": "https://www.lezzoo.com/ecosystem",
+    "pass": 3
+   },
+   {
+    "quote": "100,000+ products from your favorite stores. Fresh produce, pantry staples, and household essentials delivered to your door.",
+    "url": "https://www.lezzoo.com/ecosystem",
+    "pass": 3
+   },
+   {
+    "quote": "100K+ products",
+    "url": "https://www.lezzoo.com/ecosystem",
+    "pass": 3
+   },
+   {
+    "quote": "Prescriptions and over-the-counter medicine delivered discreetly and quickly. Healthcare access made simple.",
+    "url": "https://www.lezzoo.com/ecosystem",
+    "pass": 3
+   },
+   {
+    "quote": "Professional services on demand. Plumbers, electricians, cleaners, gardeners — vetted pros at your fingertips.",
+    "url": "https://www.lezzoo.com/ecosystem",
+    "pass": 3
+   },
+   {
+    "quote": "50+ games inside the app. Play trivia, puzzle games, and hyper-casual titles. Earn coins and redeem for real prizes.",
+    "url": "https://www.lezzoo.com/ecosystem",
+    "pass": 3
+   },
+   {
+    "quote": "Iraq's first local social media. Connect with your neighborhood, share updates, and buy & sell locally.",
+    "url": "https://www.lezzoo.com/ecosystem",
+    "pass": 3
+   },
+   {
+    "quote": "TikTok-style short video feed integrated with ordering. See a dish you love? Order it right from the video.",
+    "url": "https://www.lezzoo.com/ecosystem",
+    "pass": 3
+   },
+   {
+    "quote": "Trending food content",
+    "url": "https://www.lezzoo.com/ecosystem",
+    "pass": 3
+   },
+   {
+    "quote": "AI-powered image generation built right into the Lezzoo app. Create, share, and express yourself with AI art.",
+    "url": "https://www.lezzoo.com/ecosystem",
+    "pass": 3
+   },
+   {
+    "quote": "CTO and Co-founder of Lezzoo Inc., Iraq’s leading Super App. As a computer engineer and entrepreneur, I’m passionate about building scalable technology solutions that drive real-world impact.",
+    "url": "https://www.ycombinator.com/companies/lezzoo",
+    "pass": 3
+   },
+   {
+    "quote": "At Lezzoo, I focus on AI integration, workflow automation, and product development, ensuring that our platform evolves to meet market demands. I specialize in Node.js and React Native, and I’ve developed internal automation tools, AI-driven bots, and Chrome extensions to optimize our operations.",
+    "url": "https://www.ycombinator.com/companies/lezzoo",
+    "pass": 3
+   },
+   {
+    "quote": "A modern extension could help teams interpret marketplace activity faster while keeping customer communication, courier treatment and operational decisions under human control.",
+    "url": "https://opengeekslab.com/work/lezzoo/",
+    "pass": 3
+   },
+   {
+    "quote": "Forecast order volume and service pressure so operations teams can plan coverage around observable signals.",
+    "url": "https://opengeekslab.com/work/lezzoo/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Lezzoo Trivia launches and triples MAUs across all of Iraq. Revenue surges 56% YoY.",
+    "url": "https://www.lezzoo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Part of a 3,000+ strong team network. Deliver happiness across Kurdistan and get paid on your terms.",
+    "url": "https://www.lezzoo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We're talking about at least $700,000 worth of [gross merchandise value] a month. That just circulates through a network of delivery employees, as well as accountants. We're constantly moving this cash around the city",
+    "url": "https://en.wikipedia.org/wiki/Lezzoo",
+    "pass": 3
+   },
+   {
+    "quote": "Lezzoo Trivia launched and tripled monthly active users across all of Iraq. Revenue surged 56% year-over-year. The team realized Lezzoo wasn't just a delivery app — it was becoming the operating system for daily life in Kurdistan. Gaming, social, commerce — all in one app.",
+    "url": "https://www.lezzoo.com/story",
+    "pass": 3
+   },
+   {
+    "quote": "By John Lee. Five Iraqi start-ups are reported to be among the 24 new businesses selected to take part in Flat6Labs' StartMashreq Growth Track programme. The programme, which started in June and will run until December 2024, is part of StartMashreq's broader vision to inspire and support displaced entrepreneurs and empower female-led startups in the […]",
+    "url": "https://www.iraq-businessnews.com/tag/lezzoo/",
+    "pass": 3
+   },
+   {
+    "quote": "Carrefour partnership",
+    "url": "https://www.lezzoo.com/ecosystem",
+    "pass": 3
+   },
+   {
+    "quote": "The revenue model used delivery fees that varied by time, distance and service.",
+    "url": "https://opengeekslab.com/work/lezzoo/",
+    "pass": 3
+   },
+   {
+    "quote": "Acquisitions (2)",
+    "url": "https://pitchbook.com/profiles/company/279839-26",
+    "pass": 3
+   },
+   {
+    "quote": "Lezzoo’s most recent deal was a Merger/Acquisition with",
+    "url": "https://pitchbook.com/profiles/company/279839-26",
+    "pass": 3
+   },
+   {
+    "quote": "To view Lezzoo’s complete acquisitions history, request access »",
+    "url": "https://pitchbook.com/profiles/company/279839-26",
+    "pass": 3
+   },
+   {
+    "quote": "Lezzoo has 132 total employees.",
+    "url": "https://pitchbook.com/profiles/company/279839-26",
+    "pass": 3
+   },
+   {
+    "quote": "What is Lezzoo’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/279839-26",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Lezzoo is",
+    "url": "https://pitchbook.com/profiles/company/279839-26",
+    "pass": 3
+   },
+   {
+    "quote": "Lezzoo Revenue 2024: $13.1M Est.",
+    "url": "https://getlatka.com/companies/lezzoo.com",
+    "pass": 3
+   },
+   {
+    "quote": "Lezzoo has not published its revenue. GetLatka estimates it at about $13.1M a year (June 2024).",
+    "url": "https://getlatka.com/companies/lezzoo.com",
+    "pass": 3
+   },
+   {
+    "quote": "Lezzoo CEO, founders & employees",
+    "url": "https://getlatka.com/companies/lezzoo.com",
+    "pass": 3
+   },
+   {
+    "quote": "Yadgar Merani founded Lezzoo in 2018 and runs it as CEO. Lezzoo had 190 employees (June 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/lezzoo.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Lezzoo's revenue?",
+    "url": "https://getlatka.com/companies/lezzoo.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Lezzoo's revenue at about",
+    "url": "https://getlatka.com/companies/lezzoo.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Lezzoo have?",
+    "url": "https://getlatka.com/companies/lezzoo.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in June 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/lezzoo.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/lezzoo.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/lezzoo.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/lezzoo.com",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Lezzoo - Wikipedia — In December 2018, Lezzoo was accepted into Silicon Valley's Y combinator accelerator program and received a pre-seed investment of $150,000; becoming the first Iraqi startup to ever take part in the world-renowned accelerator's program.",
+    "url": "https://en.wikipedia.org/wiki/Lezzoo",
+    "pass": 3
+   },
+   {
+    "quote": "Lezzoo — Kurdistan & Iraq's Leading Super App — Lezzoo is Kurdistan and Iraq's leading super app, offering food delivery, groceries, pharmacy, payments, games, and more — all in one place. Founded in 2018 in Erbil, we're the first Iraqi Y Combinator startup, serving over 1 million customers.",
+    "url": "https://www.lezzoo.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Our Story — From a Costa Coffee in Erbil to YC | Lezzoo — Instead of folding, Lezzoo pivoted to essentials: groceries, pharmacy, water delivery. Within weeks, Lezzoo became Kurdistan's lifeline — bringing food and medicine to a population that couldn't leave their homes.",
+    "url": "https://www.lezzoo.com/story",
+    "pass": 3
+   },
+   {
+    "quote": "Lezzoo | Iraq Business News — Sep 8, 2023 · Dubai's cloud-based POS and retail management software company Dukkantek has announced a strategic partnership with Lezzoo, a Y Combinator-backed superapp based in Iraq.",
+    "url": "https://www.iraq-businessnews.com/tag/lezzoo/",
+    "pass": 3
+   },
+   {
+    "quote": "Lezzoo - Wikipedia — Initially specialising in food deliveries, it has since extended its services to the delivery of groceries, pharmaceutical products, water and gas; additionally providing health and cleaning services in cities across Kurdistan Region. The super-app is the first and only Y Combinator -backed startup in Iraq. [1][2]",
+    "url": "https://en.wikipedia.org/wiki/Lezzoo",
+    "pass": 3
+   },
+   {
+    "quote": "Ecosystem — 14+ Services in One App | Lezzoo — Explore Lezzoo's super app ecosystem: food, groceries, pharmacy, express delivery, Lezzoo Pay, Jiran social, Scrolls video, Xomali AI, Saydo B2B, and more.",
+    "url": "https://www.lezzoo.com/ecosystem",
+    "pass": 3
+   },
+   {
+    "quote": "Lezzoo: Lezzoo is an on-demand delivery Superapp for Iraq ... — At Lezzoo, I focus on AI integration, workflow automation, and product development, ensuring that our platform evolves to meet market demands. I specialize in Node.js and React Native, and I’ve developed internal automation tools, AI-driven bots, and Chrome extensions to optimize our operations.",
+    "url": "https://www.ycombinator.com/companies/lezzoo",
+    "pass": 3
+   },
+   {
+    "quote": "Lezzoo Pharma — Earthday Offer 10% Use Promo code Earth22 New Products Explore Now",
+    "url": "https://lezzoo-pharma.com/home",
+    "pass": 3
+   },
+   {
+    "quote": "Lezzoo On-Demand Delivery Platform Case Study | OpenGeeksLab — A Lezzoo case study covering customer, courier and administration systems for on-demand delivery, plus responsible AI development opportunities.",
+    "url": "https://opengeekslab.com/work/lezzoo/",
+    "pass": 3
+   },
+   {
+    "quote": "Our Story — From a Costa Coffee in Erbil to YC | Lezzoo — How two friends in Kurdistan built the first Iraqi Y Combinator startup. The story of Lezzoo — from 12 restaurants in 2018 to 1M+ customers and $200M+ GMV today.",
+    "url": "https://www.lezzoo.com/story",
+    "pass": 3
+   },
+   {
+    "quote": "Lezzoo CEO Yadgar Merani talks tech start-ups, job creation ... — Dec 7, 2019 · Lezzoo, an online delivery service app for food, groceries, and other daily essentials, has expanded into four cities and grown from 3 to 160 employees in only 20 months.",
+    "url": "https://www.rudaw.net/english/categories/interview/1042549",
+    "pass": 3
+   },
+   {
+    "quote": "Lezzoo Delivers Everything: A Kurdistani Super App and ... — Apr 15, 2023 · Companies like Lezzoo are building the digital infrastructure of the Kurdistan Region and creating much-needed, early-career jobs. These start-ups are also quick and impactful, providing bottom-up support for the government’s larger visions for economic and social development.",
+    "url": "https://www.kurdistanchronicle.com/b/2605",
+    "pass": 3
+   },
+   {
+    "quote": "Lezzoo 2026 Company Profile: Valuation, Funding & Investors ...Lezzoo - 2026 Company Profile, Team, Funding & Competitors ...Lezzoo Revenue 2024: $13.1M Est. ARR, $39.3M ValuationOur Story — From a Costa Coffee in Erbil to YC | LezzooLezzoo: Funding, Team & Investors | Startup IntrosLezzoo - Overview, News & Similar companies | ZoomInfo.comLezzoo - aVenture Company Research — Information on valuat",
+    "url": "https://pitchbook.com/profiles/company/279839-26",
+    "pass": 3
+   },
+   {
+    "quote": "Lezzoo - 2026 Company Profile, Team, Funding & Competitors ...Lezzoo Revenue 2024: $13.1M Est. ARR, $39.3M ValuationOur Story — From a Costa Coffee in Erbil to YC | LezzooLezzoo: Funding, Team & Investors | Startup IntrosLezzoo - Overview, News & Similar companies | ZoomInfo.comLezzoo - aVenture Company Research — Feb 4, 2026 · Lezzoo - About the company Lezzoo is a seed company based in Iraq, fou",
+    "url": "https://tracxn.com/d/companies/lezzoo/__8P2jCg3l06rbN_J7JTqyCuACh1T6ACoEtACpaSLbHZo",
+    "pass": 3
+   },
+   {
+    "quote": "Lezzoo Revenue 2024: $13.1M Est. ARR, $39.3M Valuation — Apr 10, 2025 · Lezzoo 2024 estimated revenue: $13.1M ARR. Valuation: $39.3M. 190 employees. Industry: Last Mile Delivery Software. Founded 2018 Updated Apr 10, 2025.",
+    "url": "https://getlatka.com/companies/lezzoo.com",
+    "pass": 3
+   },
+   {
+    "quote": "Our Story — From a Costa Coffee in Erbil to YC | Lezzoo — Revenue surged 56% year-over-year. The team realized Lezzoo wasn't just a delivery app — it was becoming the operating system for daily life in Kurdistan. Gaming, social, commerce — all in one app.",
+    "url": "https://www.lezzoo.com/story",
+    "pass": 3
+   },
+   {
+    "quote": "Lezzoo: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Frequently Asked Questions Who founded Lezzoo? Lezzoo was founded in 2018 by Yadgar Merani (Founder) and Rekar Botany (Founder).",
+    "url": "https://startupintros.com/orgs/lezzoo",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Lezzoo On-Demand Delivery Platform Case Study | OpenGeeksLab",
+    "url": "https://opengeekslab.com/work/lezzoo/",
+    "pass": 3
+   },
+   {
+    "quote": "Serve customers, couriers and service operators through distinct but connected workflows.",
+    "url": "https://opengeekslab.com/work/lezzoo/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/279839-26",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Lezzoo (@LezzooEats) / X Lezzoo Taxi 🚕 2000 IQD anywhere in Erbil! Even the street that makes your GPS cry 😵💫👀",
+    "url": "https://x.com/LezzooEats",
+    "pass": 3
+   },
+   {
+    "quote": "Lezzoo (@LezzooEats) / X Why you’re so quiet? What’s on your mind? Me: What should I order from Lezzoo🤭 ️?",
+    "url": "https://x.com/LezzooEats",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Lezzoo - FacebookLezzoo Pharma - ليزو فارما | Irbil - FacebookLezzoo - FacebookLezzoo Medicine | Irbil - FacebookLezzoo - FacebookLezzoo Beauty : لزو بيوتي | Irbil - FacebookLezzoo - Facebook هسا بتطبيق لزو اصنع لعبتك، اجمع أكبر عدد لايكات وافوز! 🚀💰 The first 1,000,000 IQD winner in Fiero has been announced! 🏆🎉 Week 1 has ended and Week 2 has just started. Create your game now on the Lezzoo app, g",
+    "url": "https://www.facebook.com/Lezzooeats/",
+    "pass": 3
+   },
+   {
+    "quote": "Lezzoo Pharma - ليزو فارما | Irbil - FacebookLezzoo - FacebookLezzoo Medicine | Irbil - FacebookLezzoo - FacebookLezzoo Beauty : لزو بيوتي | Irbil - FacebookLezzoo - Facebook Sep 26, 2026 · Lezzoo Pharma - ليزو فارما is at Lezzoo Pharma - ليزو فارما. بشرتك تستاهل الأفضل! 🤍 غسول Embryolisse الخالي من الصابون يجمع بين التين الشوكي، الجلسرين والمركبات الدهنية لينظف و يرطب و يجدد بشرتك بعناية فائقة. L",
+    "url": "https://www.facebook.com/LezzooPharma/",
+    "pass": 3
+   },
+   {
+    "quote": "Lezzoo - Facebook Lezzoo. 38,525 followers · 1,271 talking about this. On-Demand Delivery Service In Iraq",
+    "url": "https://www.facebook.com/Lezzooeats/reels/",
+    "pass": 3
+   },
+   {
+    "quote": "Lezzoo Medicine | Irbil - Facebook Jan 3, 2026 · Lezzoo Medicine, Irbil. 1,620 followers. Lezzoo Medicine is a mobile app that helps pharmacies order medicines and supplies easily. Pharmacy procurement...",
+    "url": "https://www.facebook.com/lezzoomedicine/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.lezzoo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lezzoo.com/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://en.wikipedia.org/wiki/Lezzoo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lezzoo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lezzoo.com/story",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iraq-businessnews.com/tag/lezzoo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Lezzoo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lezzoo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lezzoo.com/ecosystem",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/lezzoo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://opengeekslab.com/work/lezzoo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lezzoo.com/story",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lezzoo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rudaw.net/english/categories/interview/1042549",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/279839-26",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/lezzoo/__8P2jCg3l06rbN_J7JTqyCuACh1T6ACoEtACpaSLbHZo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/lezzoo.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lezzoo.com/story",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/LezzooEats",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Lezzooeats/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/LezzooPharma/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Lezzooeats/reels/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/lezzoomedicine/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/LezzooEats",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Lezzoo 日本 導入",
+   "results": [
+    "https://en.wikipedia.org/wiki/Lezzoo",
+    "https://www.lezzoo.com/",
+    "https://www.lezzoo.com/story",
+    "https://www.iraq-businessnews.com/tag/lezzoo/",
+    "https://rollingstonejapan.com/articles/detail/44973",
+    "https://news.mynavi.jp/article/20260626-4631336/",
+    "https://news.livedoor.com/article/detail/31667232/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lezzoo 代理店 OR 総代理店 OR 日本法人",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Lezzoo Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Lezzoo",
+    "https://www.lezzoo.com/",
+    "https://www.lezzoo.com/ecosystem",
+    "https://www.ycombinator.com/companies/lezzoo",
+    "https://lezzoo-pharma.com/home",
+    "https://lokal.lezzoo.com/",
+    "https://lezzon.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lezzoo manufacturing customer case study",
+   "results": [
+    "https://opengeekslab.com/work/lezzoo/",
+    "https://www.lezzoo.com/story",
+    "https://www.lezzoo.com/",
+    "https://www.rudaw.net/english/categories/interview/1042549",
+    "https://www.kurdistanchronicle.com/b/2605",
+    "https://www.abramundi.org/post/lezzoo-the-startup-that-pioneered-iraqs-digital-transformation",
+    "https://medium.com/@Lezzoo/the-2-week-feature-that-changed-the-fate-of-our-startup-a-lezzoo-story-130ad4473d6a"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lezzoo white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.lezzoo.com/",
+    "https://www.reseller.co.nz/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lezzoo founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/279839-26",
+    "https://tracxn.com/d/companies/lezzoo/__8P2jCg3l06rbN_J7JTqyCuACh1T6ACoEtACpaSLbHZo",
+    "https://getlatka.com/companies/lezzoo.com",
+    "https://www.lezzoo.com/story",
+    "https://startupintros.com/orgs/lezzoo",
+    "https://www.zoominfo.com/c/lezzoo/482611578",
+    "https://aventure.vc/companies/lezzoo-erbil-iq"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Lezzoo",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/ogikubo/n/nf616c0b6685a",
+    "https://note.com/utanobuaomiya/n/n75284a67931e",
+    "https://note.com/kgsi/n/n20675aad7e1b"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Lezzoo",
+   "results": [
+    "https://x.com/LezzooEats",
+    "https://x.com/",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/_InfoGram_/status/2118253289573949943",
+    "https://x.com/evadentz/status/2115896420809216184",
+    "https://x.com/jocelynseip/status/2118260591680983528",
+    "https://x.com/CogitoEdu/status/2117911840973861028"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Lezzoo",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Lezzoo",
+   "results": [
+    "https://www.facebook.com/Lezzooeats/",
+    "https://www.facebook.com/LezzooPharma/",
+    "https://www.facebook.com/Lezzooeats/reels/",
+    "https://www.facebook.com/lezzoomedicine/",
+    "https://www.facebook.com/lezzoo.lezzoo/",
+    "https://www.facebook.com/lezzoobeauty/",
+    "https://www.facebook.com/Lezzooeats/menu/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lezzoo note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://rocketreach.co/lezzoo-management_b454c8fdfc933eda",
+    "https://tracxn.com/d/companies/lezzoo/__8P2jCg3l06rbN_J7JTqyCuACh1T6ACoEtACpaSLbHZo",
+    "https://startupintros.com/orgs/lezzoo",
+    "https://www.lezzoo.com/story",
+    "https://www.lezzoo.com/",
+    "https://pitchbook.com/profiles/company/279839-26"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lezzoo X 投稿",
+   "results": [
+    "https://x.com/LezzooEats",
+    "https://www.lezzoo.com/",
+    "https://operations-admin.lezzoodevs.com/",
+    "https://www.instagram.com/lezzooeats/",
+    "https://www.tiktok.com/@lezzooapp",
+    "https://www.facebook.com/Lezzooeats/reels/",
+    "https://cms.lezzootech.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部26頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部26頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部26頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部26頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部26頁・検索12回）"
+ }
+}

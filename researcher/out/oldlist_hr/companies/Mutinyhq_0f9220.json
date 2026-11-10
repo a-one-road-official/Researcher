@@ -1,0 +1,1419 @@
+{
+ "name": "Mutinyhq",
+ "aliases": [],
+ "context": "旧営業リスト｜Marketing Automation / Personalization｜状態なし",
+ "researched_at": "2026-11-09T23:57:13.073348+00:00",
+ "official_url": "https://www.mutinyhq.com",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2018, Y Combinator (S18)",
+    "url": "https://www.mutinyhq.com/llm-info",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "New York, NY, United States",
+    "url": "https://www.mutinyhq.com/llm-info",
+    "pass": 1
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$71.6M",
+    "url": "https://getlatka.com/companies/mutiny",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Mon Apr 20",
+    "url": "https://www.mutinyhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing proposal and follow-up to Maya Chen drafted after today’s pricing sync",
+    "url": "https://www.mutinyhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "3 - Pricing",
+    "url": "https://www.mutinyhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Exec presentation ready for Lena Ford’s 1:00 exec sync",
+    "url": "https://www.mutinyhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Quiet since Oct 2; check-in drafted for Priya",
+    "url": "https://www.mutinyhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From Vantage · Pricing sync",
+    "url": "https://www.mutinyhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "I drafted your email to Maya and two pricing options from her budget. Review them on the right.",
+    "url": "https://www.mutinyhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Saved to memory: you lead with two pricing options when a buyer shares a budget range.",
+    "url": "https://www.mutinyhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Vantage pricing proposal",
+    "url": "https://www.mutinyhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PRs wait days for review",
+    "url": "https://www.mutinyhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "New hires take weeks to ramp",
+    "url": "https://www.mutinyhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Okta SSO + SCIM provisioning",
+    "url": "https://www.mutinyhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Vantage | Pricing sync notes",
+    "url": "https://www.mutinyhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": ": send two pricing options with Okta included, by end of day.",
+    "url": "https://www.mutinyhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": ": share the proposal with Rob Kim, VP Finance.",
+    "url": "https://www.mutinyhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "wants pricing by Friday, and",
+    "url": "https://www.mutinyhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Vantage · Pricing sync",
+    "url": "https://www.mutinyhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Send pricing options to Maya",
+    "url": "https://www.mutinyhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Follow-up and pricing proposal sent to Maya",
+    "url": "https://www.mutinyhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "4 meetings · 3 email threads",
+    "url": "https://www.mutinyhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Vantage · Internal pricing sync",
+    "url": "https://www.mutinyhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rob Kim, the economic buyer, spent 6 minutes on pricing and downloaded the order form. Mutiny suggests moving Vantage to",
+    "url": "https://www.mutinyhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing & terms: about 4 minutes. Returned 3 times and opened the order form.",
+    "url": "https://www.mutinyhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Onboarding plan: about 2 minutes. Hovered on the $12K fee.",
+    "url": "https://www.mutinyhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Attention was on pricing and the onboarding fee.",
+    "url": "https://www.mutinyhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Mutiny Pricing and Plans",
+    "url": "https://www.mutinyhq.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "5 Projects per user",
+    "url": "https://www.mutinyhq.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Access to training videos",
+    "url": "https://www.mutinyhq.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "20 Projects per user",
+    "url": "https://www.mutinyhq.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Password protection for assets",
+    "url": "https://www.mutinyhq.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Unlimited templates, routines, projects and integrations",
+    "url": "https://www.mutinyhq.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Account Based Marketing",
+    "url": "https://www.mutinyhq.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "See why hundreds of sales and marketing leaders at innovative companies use Mutiny to transform their buyer journey",
+    "url": "https://www.mutinyhq.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "\"It's been game-changing to give our sellers Mutiny's design capabilities. Right off the bat, it's reducing dependency on marketing and expediting time to publish significantly.\"",
+    "url": "https://www.mutinyhq.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "\"We've always invested heavily in personalized content for our enterprise accounts, but we can't do that for every deal. Mutiny lets our commercial reps create that same caliber of content on their own. Our sales team was genuinely shocked at the quality. Turning call transcripts into something slick and deal-ready is a huge unlock for our reps.\"",
+    "url": "https://www.mutinyhq.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "\"The biggest unlock for me was realizing that I could create highly personalized, enterprise-grade content without a marketing team behind me.\"",
+    "url": "https://www.mutinyhq.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "\"I was blown away by the new Mutiny agent. I can create personalized content for my deals in minutes without waiting on anyone. It's a game changer for sellers.\"",
+    "url": "https://www.mutinyhq.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Netic’s AEs Save 10+ Hours/Week on Meeting Prep",
+    "url": "https://www.mutinyhq.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Genesis Built an Enterprise ABM Program From Scratch, With a Team of Two",
+    "url": "https://www.mutinyhq.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Atomicwork’s Enterprise Seller Saves 15 Hours per Week on Admin with Mutiny",
+    "url": "https://www.mutinyhq.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Scaling Process, Scaling Impact: LaunchDarkly Achieves 150 % of Meeting Targets in Under 60 Days",
+    "url": "https://www.mutinyhq.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Delphi Builds Premium Client-Facing Assets in Minutes with Mutiny",
+    "url": "https://www.mutinyhq.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Simpro Scaled Personalization and Influenced $640K ARR with Mutiny",
+    "url": "https://www.mutinyhq.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Account Based Marketing",
+    "url": "https://www.mutinyhq.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Mutiny learns how you work and starts taking prep, follow-ups, and busywork off your plate.",
+    "url": "https://www.mutinyhq.com/products/automations",
+    "pass": 1
+   },
+   {
+    "quote": "Meeting prep, follow-ups, email replies and check-ins come built in. There’s nothing to set up: every rep inherits them the moment they log in.",
+    "url": "https://www.mutinyhq.com/products/automations",
+    "pass": 1
+   },
+   {
+    "quote": "Reads the account and who’s invited",
+    "url": "https://www.mutinyhq.com/products/automations",
+    "pass": 1
+   },
+   {
+    "quote": "Writes the brief once you approve",
+    "url": "https://www.mutinyhq.com/products/automations",
+    "pass": 1
+   },
+   {
+    "quote": "Reads the transcript and account history",
+    "url": "https://www.mutinyhq.com/products/automations",
+    "pass": 1
+   },
+   {
+    "quote": "Drafts it once you approve",
+    "url": "https://www.mutinyhq.com/products/automations",
+    "pass": 1
+   },
+   {
+    "quote": "After a procurement or commercial meeting, Mutiny drafts the internal requests for what’s needed next.",
+    "url": "https://www.mutinyhq.com/products/automations",
+    "pass": 1
+   },
+   {
+    "quote": "Nudges a customer when something is left open, like a quiet thread or a promise coming due.",
+    "url": "https://www.mutinyhq.com/products/automations",
+    "pass": 1
+   },
+   {
+    "quote": "Professional background",
+    "url": "https://www.mutinyhq.com/products/automations",
+    "pass": 1
+   },
+   {
+    "quote": "Ideal customer profile",
+    "url": "https://www.mutinyhq.com/products/automations",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Account Executive at Oborna",
+    "url": "https://www.mutinyhq.com/products/automations",
+    "pass": 1
+   },
+   {
+    "quote": "with the procurement review timeline from Monday’s call.",
+    "url": "https://www.mutinyhq.com/products/automations",
+    "pass": 1
+   },
+   {
+    "quote": "is an Enterprise Account Executive at",
+    "url": "https://www.mutinyhq.com/products/automations",
+    "pass": 1
+   },
+   {
+    "quote": ", based in New York. He owns a book of enterprise accounts.",
+    "url": "https://www.mutinyhq.com/products/automations",
+    "pass": 1
+   },
+   {
+    "quote": "Procurement · $180k",
+    "url": "https://www.mutinyhq.com/products/automations",
+    "pass": 1
+   },
+   {
+    "quote": "through procurement and expanding",
+    "url": "https://www.mutinyhq.com/products/automations",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Year-one churn sits at 14%, and one in three churned accounts never went live. That’s about $3.2 million in ARR lost last year to customers who signed but never saw value.",
+    "url": "https://www.mutinyhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "retained ARR per year",
+    "url": "https://www.mutinyhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "14% → 7% churn across the current base. Moving setup to the contract also frees about 3,600 CS hours, before any expansion revenue.",
+    "url": "https://www.mutinyhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How Simpro Scaled Personalization and Influenced $640K ARR with Mutiny",
+    "url": "https://www.mutinyhq.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "A left-anchored summary that stays visible as the reader scrolls, giving skimmers the gist and pulling deeper readers into the narrative.",
+    "url": "https://www.mutinyhq.com/blueprints/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Mutiny compresses this into minutes. Drop in an existing case study or the core details, and the agent builds the hero, structures the narrative, pulls the key quotes and metrics, and lays it out. The more specific the results, the stronger the page.",
+    "url": "https://www.mutinyhq.com/blueprints/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "With Mutiny, you drop in an existing case study or the core details, and the agent builds the full formatted page: hero, narrative, pulled quotes, and metrics. That turns a customer win into a polished proof point in minutes instead of waiting on a design queue.",
+    "url": "https://www.mutinyhq.com/blueprints/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Lead with value, so the number arrives with context.",
+    "url": "https://www.mutinyhq.com/blueprints/case-study-round-up",
+    "pass": 1
+   },
+   {
+    "quote": "Lead with value, so the number arrives with context.",
+    "url": "https://www.mutinyhq.com/blueprints/pricing-proposal",
+    "pass": 1
+   },
+   {
+    "quote": "Mutiny stores each team’s sales process, win/loss notes, competitor playbooks, pricing and messaging in a knowledge base called Brain. Brain also keeps a profile for each rep, including writing voice and accounts. Templates carry the team’s instructions for each asset type, so every rep works from the same playbooks and output is written in that rep’s voice.",
+    "url": "https://www.mutinyhq.com/llm-info",
+    "pass": 1
+   },
+   {
+    "quote": "Simpro: Mutiny influenced $640K in ARR.",
+    "url": "https://www.mutinyhq.com/llm-info",
+    "pass": 1
+   },
+   {
+    "quote": "Netic is an AI revenue engine for essential services, helping customers capture demand, drive net-new revenue through autonomous outbound, prioritize higher-value jobs, and improve the customer experience with unified analytics across every channel.",
+    "url": "https://www.mutinyhq.com/case-studies/netic-aes-save-10-hours-week-on-meeting-prep",
+    "pass": 1
+   },
+   {
+    "quote": "AI revenue engine for essential-services businesses",
+    "url": "https://www.mutinyhq.com/case-studies/netic-aes-save-10-hours-week-on-meeting-prep",
+    "pass": 1
+   },
+   {
+    "quote": "On a recent deep dive with a prospect’s CMO and CTO, Nolan opened with what Netic had heard and asked the room whether he had it right. “They said yes, that’s dead on.” The whole deck took about the length of a coffee break and enabled him to get executive buy-in at a crucial part of the deal.",
+    "url": "https://www.mutinyhq.com/case-studies/netic-aes-save-10-hours-week-on-meeting-prep",
+    "pass": 1
+   },
+   {
+    "quote": "Once the initial discovery was booked, the team needed personalized follow-up materials (meeting recaps, case study roundups, business cases) that could circulate through an entire buying committee. Sending a Word doc or a bulleted email to a room of stakeholders wasn't going to carry the message. And with no dedicated content team, there was no one else to pick up the slack.",
+    "url": "https://www.mutinyhq.com/case-studies/how-genesis-built-an-enterprise-abm-program-with-a-team-of-two",
+    "pass": 1
+   },
+   {
+    "quote": "The result: 20 1:1 landing pages created in a single day. Each link was sent to the assigned salesperson to include in their follow-up after the packages arrived.",
+    "url": "https://www.mutinyhq.com/case-studies/how-genesis-built-an-enterprise-abm-program-with-a-team-of-two",
+    "pass": 1
+   },
+   {
+    "quote": "Paige Wunderlich has spent nearly a decade in B2B enterprise sales, including the last year and a half at Atomicwork, where she carries strategic enterprise accounts. As Atomicwork moved upmarket, her deals became more complex: more stakeholders, executives entering late in the process, complicated pricing, and buying committees evaluating the company as closely as the product.",
+    "url": "https://www.mutinyhq.com/case-studies/atomicwork-enterprise-sellers-build-deal-specific-assets-in-5-minutes-with-mutiny",
+    "pass": 1
+   },
+   {
+    "quote": "In addition to supporting strategic account retention initiatives, in Q1 Colleen was tasked with an additional challenge: a new logo acquisition campaign targeting over 100 high-priority enterprise accounts that sales leadership had specifically identified. With this expanded responsibility, Colleen knew she needed a more scalable solution. The goal for the new logo campaign was demanding:",
+    "url": "https://www.mutinyhq.com/case-studies/launchdarkly",
+    "pass": 1
+   },
+   {
+    "quote": "Mutiny's AI-native product, Campaigns, arrived at the perfect time to support Colleen’s strategies.",
+    "url": "https://www.mutinyhq.com/case-studies/launchdarkly",
+    "pass": 1
+   },
+   {
+    "quote": "Delphi's brand is design-forward. But when follow-up materials looked like a generic PDF or a bulleted Google Doc, the gap between the product experience and the sales experience was jarring. For a company whose customers and prospects include some of the most recognized names in the creator economy, showing up with generic materials wasn't acceptable.",
+    "url": "https://www.mutinyhq.com/case-studies/delphi-builds-premium-client-facing-assets-in-minutes-with-mutiny",
+    "pass": 1
+   },
+   {
+    "quote": "How Simpro Scaled Personalization and Influenced $640K ARR with Mutiny",
+    "url": "https://www.mutinyhq.com/case-studies/simpro",
+    "pass": 1
+   },
+   {
+    "quote": "$640K in incremental ARR",
+    "url": "https://www.mutinyhq.com/case-studies/simpro",
+    "pass": 1
+   },
+   {
+    "quote": "Simpro’s journey illustrates how ABM and personalization at scale can transform growth. With Mutiny, they moved beyond one-size-fits-all marketing to deliver tailored buying journeys for their most valuable accounts—fueling both pipeline and revenue.",
+    "url": "https://www.mutinyhq.com/case-studies/simpro",
+    "pass": 1
+   },
+   {
+    "quote": "Mutiny Revenue 2024: $20.7M Est., $71.6M Raised",
+    "url": "https://getlatka.com/companies/mutiny",
+    "pass": 3
+   },
+   {
+    "quote": "Mutiny has not published its revenue. GetLatka estimates it at about $20.7M a year (October 2024).",
+    "url": "https://getlatka.com/companies/mutiny",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/mutiny",
+    "pass": 3
+   },
+   {
+    "quote": "Mutiny CEO, founders & employees",
+    "url": "https://getlatka.com/companies/mutiny",
+    "pass": 3
+   },
+   {
+    "quote": "Jaleh Rezaei founded Mutiny in 2018 and runs it as CEO. Mutiny had 78 employees (December 2024, LinkedIn), down from 105 a year earlier.",
+    "url": "https://getlatka.com/companies/mutiny",
+    "pass": 3
+   },
+   {
+    "quote": "What is Mutiny's revenue?",
+    "url": "https://getlatka.com/companies/mutiny",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Mutiny's revenue at about",
+    "url": "https://getlatka.com/companies/mutiny",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Mutiny have?",
+    "url": "https://getlatka.com/companies/mutiny",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/mutiny",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/mutiny",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/mutiny",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/mutiny",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "I drafted your email to Maya and two pricing options from her budget. Review them on the right.",
+    "url": "https://www.mutinyhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "4 meetings · 3 email threads",
+    "url": "https://www.mutinyhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Learns your voice from past emails",
+    "url": "https://www.mutinyhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Drafts customer-ready emails and assets for your review",
+    "url": "https://www.mutinyhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "When the buyer shares their budget and requirements, Mutiny builds the proposal based on your past proposals and drafts the emails.",
+    "url": "https://www.mutinyhq.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Meeting prep, follow-ups, email replies and check-ins come built in. There’s nothing to set up: every rep inherits them the moment they log in.",
+    "url": "https://www.mutinyhq.com/products/automations",
+    "pass": 1
+   },
+   {
+    "quote": "After selected customer emails",
+    "url": "https://www.mutinyhq.com/products/automations",
+    "pass": 1
+   },
+   {
+    "quote": "Checks your calendar and email",
+    "url": "https://www.mutinyhq.com/products/automations",
+    "pass": 1
+   },
+   {
+    "quote": "Ask the right teammate for help with an email",
+    "url": "https://www.mutinyhq.com/products/automations",
+    "pass": 1
+   },
+   {
+    "quote": "When an email needs expertise from another team, Mutiny drafts a short internal request for you to review.",
+    "url": "https://www.mutinyhq.com/products/automations",
+    "pass": 1
+   },
+   {
+    "quote": "Adds to Email replies",
+    "url": "https://www.mutinyhq.com/products/automations",
+    "pass": 1
+   },
+   {
+    "quote": "Suggests emails, resources, and assets after a call or meeting, once what happened is known.",
+    "url": "https://www.mutinyhq.com/products/automations",
+    "pass": 1
+   },
+   {
+    "quote": "Drafts replies to selected customer emails using your calendar, playbook and account history.",
+    "url": "https://www.mutinyhq.com/products/automations",
+    "pass": 1
+   },
+   {
+    "quote": "9 meetings · 34 emails",
+    "url": "https://www.mutinyhq.com/products/automations",
+    "pass": 1
+   },
+   {
+    "quote": "5 meetings · 18 emails",
+    "url": "https://www.mutinyhq.com/products/automations",
+    "pass": 1
+   },
+   {
+    "quote": "1 meeting · 6 emails",
+    "url": "https://www.mutinyhq.com/products/automations",
+    "pass": 1
+   },
+   {
+    "quote": "Email over Slack for anything a customer sees.",
+    "url": "https://www.mutinyhq.com/products/automations",
+    "pass": 1
+   },
+   {
+    "quote": "I drafted your email to Maya and two pricing options from her budget. Review them on the right.",
+    "url": "https://www.mutinyhq.com/products/automations",
+    "pass": 1
+   },
+   {
+    "quote": "Connect your email, calendar and the Mutiny Notetaker. Mutiny does the work and pushes it back into the tools you already use",
+    "url": "https://www.mutinyhq.com/products/automations",
+    "pass": 1
+   },
+   {
+    "quote": "The automations that matter are on from day one. Reps don’t build workflows or write prompts; Mutiny runs on every meeting and email.",
+    "url": "https://www.mutinyhq.com/products/automations",
+    "pass": 1
+   },
+   {
+    "quote": "Mutiny learns in the background from every call, email and deal, so every rep sells like your best rep without writing a prompt.",
+    "url": "https://www.mutinyhq.com/products/learning",
+    "pass": 1
+   },
+   {
+    "quote": "Learns each rep’s voice and sales style from their emails",
+    "url": "https://www.mutinyhq.com/products/learning",
+    "pass": 1
+   },
+   {
+    "quote": "Every time you create, edit or send something, Mutiny saves what it learned to memory, from how you price to how you open an email, so the next draft starts closer to done.",
+    "url": "https://www.mutinyhq.com/products/learning",
+    "pass": 1
+   },
+   {
+    "quote": "I drafted your email to Maya and two pricing options from her budget. Review them on the right.",
+    "url": "https://www.mutinyhq.com/products/learning",
+    "pass": 1
+   },
+   {
+    "quote": "No onboarding docs, prompt libraries or training sessions. Mutiny learns from the calls, emails and CRM updates your team already creates.",
+    "url": "https://www.mutinyhq.com/products/learning",
+    "pass": 1
+   },
+   {
+    "quote": "I drafted your email to Maya and two pricing options from her budget. Review them on the right.",
+    "url": "https://www.mutinyhq.com/products/notetaker",
+    "pass": 1
+   },
+   {
+    "quote": "Most notetakers give you a transcript and stop there. Mutiny uses what was said to prep your next meeting, draft the follow-up email and build the assets, all in your voice.",
+    "url": "https://www.mutinyhq.com/products/notetaker",
+    "pass": 1
+   },
+   {
+    "quote": "After the call: Mutiny lists the action items, drafts the follow-up email in the rep’s voice for review, updates the CRM, and builds the asset the buyer asked for.",
+    "url": "https://www.mutinyhq.com/llm-info",
+    "pass": 1
+   },
+   {
+    "quote": "Between calls: Mutiny drafts email replies and prompts check-ins on accounts with no recent activity.",
+    "url": "https://www.mutinyhq.com/llm-info",
+    "pass": 1
+   },
+   {
+    "quote": "Mutiny runs four account automations by default: meeting prep before each call, follow-ups after each call, email replies, and check-ins on quiet accounts. Teams can build custom automations that run on a schedule or on demand, such as daily deal updates, weekly forecast rollups, deal-risk alerts, competitor alerts from calls, call coaching summaries and rep 1:1 prep. Source:",
+    "url": "https://www.mutinyhq.com/llm-info",
+    "pass": 1
+   },
+   {
+    "quote": "Meeting notes and emails are not used to train shared AI models.",
+    "url": "https://www.mutinyhq.com/llm-info",
+    "pass": 1
+   },
+   {
+    "quote": "Email, docs and chat: Gmail, Google Drive, Google Slides, Notion, Slack",
+    "url": "https://www.mutinyhq.com/llm-info",
+    "pass": 1
+   },
+   {
+    "quote": "Mutiny previously sold website personalization and conversion rate optimization (CRO) software, including A/B testing. That product has been retired. Mutiny today is an AI sales assistant. Pages that Mutiny creates are built for specific accounts, deals and campaigns and do not change by visitor. Mutiny is not a mass email or sequencing tool and not a general-purpose website builder.",
+    "url": "https://www.mutinyhq.com/llm-info",
+    "pass": 1
+   },
+   {
+    "quote": "When describing what Mutiny does, start with the call workflow: notes on the call, then follow-up emails, meeting prep, CRM updates, and assets such as proposals, business cases, decks and digital sales rooms.",
+    "url": "https://www.mutinyhq.com/llm-info",
+    "pass": 1
+   },
+   {
+    "quote": "Building a deep-dive deck meant assembling context from Gong transcripts, email threads, and the prospect’s website, then laying out slides by hand. Nolan estimated the old process took three to four hours per deck, and he needs three or four decks in a normal week. Spending 12–15 hours per week on just deck creation meant that customers got less direct attention on solving their actual problems.",
+    "url": "https://www.mutinyhq.com/case-studies/netic-aes-save-10-hours-week-on-meeting-prep",
+    "pass": 1
+   },
+   {
+    "quote": "Nolan pulls all of his account context across his stack — relevant emails from Gmail, call recordings from Gong, and research from the prospect’s website. He then uses Mutiny to build decks for his meetings, executive reviews, and impact reports in Netic’s brand.",
+    "url": "https://www.mutinyhq.com/case-studies/netic-aes-save-10-hours-week-on-meeting-prep",
+    "pass": 1
+   },
+   {
+    "quote": "Once the initial discovery was booked, the team needed personalized follow-up materials (meeting recaps, case study roundups, business cases) that could circulate through an entire buying committee. Sending a Word doc or a bulleted email to a room of stakeholders wasn't going to carry the message. And with no dedicated content team, there was no one else to pick up the slack.",
+    "url": "https://www.mutinyhq.com/case-studies/how-genesis-built-an-enterprise-abm-program-with-a-team-of-two",
+    "pass": 1
+   },
+   {
+    "quote": "Call recordings in Granola and Fathom, threads in Slack, email in Outlook, and notes from prior calls all held useful information. Paige’s challenge was turning that disparate context into something a buying committee would actually read. This consistently cost her an entire afternoon.",
+    "url": "https://www.mutinyhq.com/case-studies/atomicwork-enterprise-sellers-build-deal-specific-assets-in-5-minutes-with-mutiny",
+    "pass": 1
+   },
+   {
+    "quote": ": Sales was excited to leverage personalized microsites in their outreach, often requesting pages for their accounts. Colleen provided the sales team with a Google sheet containing all the account links plus recommended email copy templates. Steal this tactic if you want to become sales’ best friend!",
+    "url": "https://www.mutinyhq.com/case-studies/launchdarkly",
+    "pass": 1
+   },
+   {
+    "quote": "says Colleen, who finds AI very helpful for day-to-day tasks like writing emails or editing ad content. She views these tools as potentially transformative for enabling her sales team to have more informed conversations.",
+    "url": "https://www.mutinyhq.com/case-studies/launchdarkly",
+    "pass": 1
+   },
+   {
+    "quote": "Mutiny reads your Gong calls, email, and CRM to shape every asset around the account, the stakeholders, and where the deal stands.",
+    "url": "https://www.mutinyhq.com/assets/pricing-proposal",
+    "pass": 1
+   },
+   {
+    "quote": "Reach Mutiny from Slack or Claude and connect to your email, calendar, docs, call recording and CRM.",
+    "url": "https://www.mutinyhq.com/assets/pricing-proposal",
+    "pass": 1
+   },
+   {
+    "quote": "Mutiny connects to your email, calendar, CRM, call recordings, Slack, and 50+ other tools to extract context it needs and then do the work on your behalf.",
+    "url": "https://www.ycombinator.com/companies/mutiny",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Nail your brand without a designer",
+    "url": "https://www.mutinyhq.com/products/smart-assets",
+    "pass": 1
+   },
+   {
+    "quote": "Don’t settle for AI slop. Mutiny learns your brand identity from your website, so every asset matches your voice, look, and feel.",
+    "url": "https://www.mutinyhq.com/products/smart-assets",
+    "pass": 1
+   },
+   {
+    "quote": "No more waiting, begging or opening tickets. Describe what you want and get a polished draft using your brand and existing content.",
+    "url": "https://www.mutinyhq.com/products/smart-assets",
+    "pass": 1
+   },
+   {
+    "quote": "Grounded in your brand, accounts, and proven plays, so every rep ships work that looks like your best.",
+    "url": "https://www.mutinyhq.com/assets/pricing-proposal",
+    "pass": 1
+   },
+   {
+    "quote": "Mutiny stores your brand and marketing content, builds assets for every deal, and shows you exactly how buyers engage.",
+    "url": "https://www.ycombinator.com/companies/mutiny",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "A B2B case study is a customer success story structured as problem, solution, and results, built to help a similar buyer picture the same outcome. The strongest case studies lead with the result, show the “like me” signal early, back it with real metrics and quotes, and point the reader to a clear next step.",
+    "url": "https://www.mutinyhq.com/blueprints/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "What Mutiny’s case study blueprint creates",
+    "url": "https://www.mutinyhq.com/blueprints/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Mutiny’s case study blueprint turns a customer win into a polished, skimmable story page with these parts:",
+    "url": "https://www.mutinyhq.com/blueprints/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "That structure doubles as a template for what a strong case study should contain, whether you build it in Mutiny or by hand.",
+    "url": "https://www.mutinyhq.com/blueprints/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Case studies influence buyers because they reduce perceived risk: seeing a company like theirs achieve the outcome makes the decision feel safe. A well-built case study surfaces that “like me” signal early and gives the buying committee proof they can forward internally.",
+    "url": "https://www.mutinyhq.com/blueprints/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "When should you use a case study?",
+    "url": "https://www.mutinyhq.com/blueprints/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Use a case study whenever proof from a similar customer would move a buyer forward. Three situations stand out:",
+    "url": "https://www.mutinyhq.com/blueprints/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "A library of case study pages gives every visitor a reason to believe you can do for them what you did for someone else, and each page compounds as an SEO asset.",
+    "url": "https://www.mutinyhq.com/blueprints/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Drop a matching case study into cold outreach, a deal room, or a meeting recap, and it does more selling than any feature list.",
+    "url": "https://www.mutinyhq.com/blueprints/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "How to write a B2B case study, step by step",
+    "url": "https://www.mutinyhq.com/blueprints/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Writing a case study means turning a customer win into a story a similar buyer can see themselves in. Work through it in this order:",
+    "url": "https://www.mutinyhq.com/blueprints/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Mutiny compresses this into minutes. Drop in an existing case study or the core details, and the agent builds the hero, structures the narrative, pulls the key quotes and metrics, and lays it out. The more specific the results, the stronger the page.",
+    "url": "https://www.mutinyhq.com/blueprints/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "What makes a great case study?",
+    "url": "https://www.mutinyhq.com/blueprints/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "A case study page vs. a case study PDF",
+    "url": "https://www.mutinyhq.com/blueprints/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "A PDF gets attached and forgotten. A case study page does active selling work across your site, outreach, and deal rooms:",
+    "url": "https://www.mutinyhq.com/blueprints/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "The fastest way to build a case study: Mutiny",
+    "url": "https://www.mutinyhq.com/blueprints/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Use this blueprint to turn your next customer win into a case study page in minutes.",
+    "url": "https://www.mutinyhq.com/blueprints/case-study",
+    "pass": 1
+   },
+   {
+    "quote": ": the Case Study Round Up, Competitive Comparison, Deal Room, and Meeting Recap blueprints all put customer proof to work.",
+    "url": "https://www.mutinyhq.com/blueprints/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "What is a B2B case study?",
+    "url": "https://www.mutinyhq.com/blueprints/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "A B2B case study is a customer success story structured as problem, solution, and results. It shows how a specific customer solved a problem with your product and the outcomes they achieved, so a similar buyer can picture the same result and trust that you can deliver it.",
+    "url": "https://www.mutinyhq.com/blueprints/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "What should a case study include?",
+    "url": "https://www.mutinyhq.com/blueprints/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "A strong case study includes a bold hero with the customer logo and headline result, the customer’s industry and situation, the challenge they faced, the approach taken, results backed by real metrics, a pulled customer quote, and related resources with a clear next step.",
+    "url": "https://www.mutinyhq.com/blueprints/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "How do you structure a case study?",
+    "url": "https://www.mutinyhq.com/blueprints/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Structure a case study as challenge, approach, and result, and lead with the outcome rather than saving it for the end. Put the “like me” signal (industry, size, use case) up front, call out metrics visually, and place the call to action where buyer motivation peaks.",
+    "url": "https://www.mutinyhq.com/blueprints/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "How long should a B2B case study be?",
+    "url": "https://www.mutinyhq.com/blueprints/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Mutiny customers include Snowflake, Rippling, Airwallex, Vanta, Uber, BMC, GitLab, Figma, ResolveAI, Delphi and Kaizen.",
+    "url": "https://www.mutinyhq.com/llm-info",
+    "pass": 1
+   },
+   {
+    "quote": "Once the initial discovery was booked, the team needed personalized follow-up materials (meeting recaps, case study roundups, business cases) that could circulate through an entire buying committee. Sending a Word doc or a bulleted email to a room of stakeholders wasn't going to carry the message. And with no dedicated content team, there was no one else to pick up the slack.",
+    "url": "https://www.mutinyhq.com/case-studies/how-genesis-built-an-enterprise-abm-program-with-a-team-of-two",
+    "pass": 1
+   },
+   {
+    "quote": "3. Arm sales with on-demand case study roundups based on specific use cases.",
+    "url": "https://www.mutinyhq.com/case-studies/how-genesis-built-an-enterprise-abm-program-with-a-team-of-two",
+    "pass": 1
+   },
+   {
+    "quote": "When a salesperson needed use cases for a specific industry mid-conversation, Kevin pulled relevant data from Salesforce and context from Genesis's own AI product, then fed that into Mutiny to build an interactive case study roundup page. The personalized case studies were in the hands of the prospects before the end of the day.",
+    "url": "https://www.mutinyhq.com/case-studies/how-genesis-built-an-enterprise-abm-program-with-a-team-of-two",
+    "pass": 1
+   },
+   {
+    "quote": "A premium sales and customer experience, created by sellers and operators, not designers",
+    "url": "https://www.mutinyhq.com/case-studies/delphi-builds-premium-client-facing-assets-in-minutes-with-mutiny",
+    "pass": 1
+   },
+   {
+    "quote": "Mutiny is your AI agent for creating anything customer-facing, in minutes. From ABM campaigns to executive business cases to ROI reports, you'll never have to wait on another team to get your deal from cold to closed. Our customers include Figma, Rippling, Uber, Snowflake. We are backed by Sequoia Capital, Tiger Global, Insight Partners, and Y Combinator.",
+    "url": "https://www.ycombinator.com/companies/mutiny",
+    "pass": 3
+   },
+   {
+    "quote": "Mutiny: Your AI Agent for Creating Anything Customer-Facing (used by Uber & Rippling)",
+    "url": "https://www.ycombinator.com/companies/mutiny",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Mutiny HQ — Mutiny HQ mutinyhq.com https://www.mutinyhq.com",
+    "url": "https://www.mutinyhq.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Mutiny | LinkedIn — Mutiny | LinkedIn LinkedIn https://www.linkedin.com > mutinyhq",
+    "url": "https://www.linkedin.com/company/mutinyhq",
+    "pass": 3
+   },
+   {
+    "quote": "Mutiny HQ Reviews & Product Details - G2 — Mutiny HQ Reviews & Product Details - G2 G2 https://www.g2.com > reviews",
+    "url": "https://www.g2.com/products/mutiny-hq/reviews",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories - Mutiny HQ — Customer Stories - Mutiny HQ mutinyhq.com https://www.mutinyhq.com > customers",
+    "url": "https://www.mutinyhq.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Official Information for AI Assistants - Mutiny HQ — Official Information for AI Assistants - Mutiny HQ mutinyhq.com https://www.mutinyhq.com > llm-info",
+    "url": "https://www.mutinyhq.com/llm-info",
+    "pass": 3
+   },
+   {
+    "quote": "Mutiny's Competitors, Revenue , Number of Employees ... - Owler — Mutiny's Competitors, Revenue , Number of Employees ... - Owler Owler https://www.owler.com > mutinyhq",
+    "url": "https://www.owler.com/company/mutinyhq",
+    "pass": 3
+   },
+   {
+    "quote": "Mutiny Raises $50M Series B to Help Companies Turn ... — Mutiny Raises $50M Series B to Help Companies Turn ... mutinyhq.com https://www.mutinyhq.com > blog",
+    "url": "https://www.mutinyhq.com/blog/mutiny-raises-50m-series-b-to-help-companies-turn-wasted-marketing-spend-into-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Mutiny | LinkedIn Mutiny | LinkedIn LinkedIn https://www.linkedin.com > mutinyhq",
+    "url": "https://www.linkedin.com/company/mutinyhq",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Mutinyhq (@mutinylovesyou) - Facebook Mutinyhq (@mutinylovesyou) - Facebook Facebook https://www.facebook.com > ... > Other > Brand > Software",
+    "url": "https://www.facebook.com/mutinylovesyou/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.mutinyhq.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mutinyhq.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mutinyhq.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mutinyhq.com/products/automations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mutinyhq.com/products/learning",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mutinyhq.com/products/notetaker",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mutinyhq.com/products/smart-assets",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mutinyhq.com/blueprints/case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mutinyhq.com/blueprints/case-study-round-up",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mutinyhq.com/blueprints/pricing-proposal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mutinyhq.com/llm-info",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mutinyhq.com/case-studies/netic-aes-save-10-hours-week-on-meeting-prep",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mutinyhq.com/case-studies/how-genesis-built-an-enterprise-abm-program-with-a-team-of-two",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mutinyhq.com/case-studies/atomicwork-enterprise-sellers-build-deal-specific-assets-in-5-minutes-with-mutiny",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mutinyhq.com/case-studies/launchdarkly",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mutinyhq.com/case-studies/delphi-builds-premium-client-facing-assets-in-minutes-with-mutiny",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mutinyhq.com/case-studies/simpro",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mutinyhq.com/assets/pricing-proposal",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.webcg.net/articles/-/54501",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.deepinstinct.com/ja/partner-list",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.manageengine.jp/pace/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=ghPfaeMcScI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/company/mutinyhq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/mutiny",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.g2.com/products/mutiny-hq/reviews",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.advancemediany.com/manufacturing-company-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=XPI7Dvdk694",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vK9N2iB7mT9vcESvATYe8wIqiGdEL0e5TlKLnmRDpDteKwEoIft",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/white-label-business-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=0j22JYl44z4",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/mutinyhq",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/mutiny",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.owler.com/company/mutinyhq",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/mutinyhq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mutinylovesyou/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Mutinyhq 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.stellantis.jp/",
+    "https://www.webcg.net/articles/-/54501",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://trafficnews.jp/post/725198",
+    "https://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/id=160111/",
+    "https://response.jp/article/2026/11/07/418712.html",
+    "https://x.com/car_watch/status/2117506082629370157",
+    "https://help.mutinyhq.com/security-and-compliance/mutiny-compliance-overview",
+    "https://www.mutinyhq.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Mutinyhq 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.mutinyhq.com/",
+    "https://www.deepinstinct.com/ja/partner-list",
+    "https://www.manageengine.jp/pace/",
+    "https://www.youtube.com/watch?v=ghPfaeMcScI",
+    "https://www.engeniustech.com/jp/where-to-buy/",
+    "https://prtimes.jp/topics/keywords/%E6%97%A5%E6%9C%AC%E7%B7%8F%E4%BB%A3%E7%90%86%E5%BA%97",
+    "https://www.servants.co.jp/company/business/",
+    "https://b-seeds.com/business/use/businessmodel",
+    "https://digivery.jp/app/agency_list.html",
+    "https://dairitenboshu.com/column/detail/soudairiten"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 21
+  },
+  {
+   "query": "Mutinyhq Japan",
+   "results": [
+    "https://www.mutinyhq.com/",
+    "https://www.linkedin.com/company/mutinyhq",
+    "https://www.ycombinator.com/companies/mutiny",
+    "https://www.g2.com/products/mutiny-hq/reviews",
+    "https://www.linkedin.com/posts/jalehr_we-raised-72m-from-sequoiayc-and-hit-8-activity-7447310976070283264-1NRa",
+    "https://www.mutinyhq.com/llm-info",
+    "https://www.crunchbase.com/organization/mutinyhq",
+    "https://www.instagram.com/mutinyhq/",
+    "https://www.mutinyhq.com/discover",
+    "https://www.reddit.com/r/Scams/comments/18wot1g/task_scams_zest_mutinyhq/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Mutinyhq manufacturing customer case study",
+   "results": [
+    "https://www.mutinyhq.com/customers",
+    "https://www.advancemediany.com/manufacturing-company-case-study/",
+    "https://www.youtube.com/watch?v=XPI7Dvdk694",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vK9N2iB7mT9vcESvATYe8wIqiGdEL0e5TlKLnmRDpDteKwEoIft",
+    "https://www.g2.com/products/mutiny-hq/reviews",
+    "https://www.industryweek.com/leadership/strategic-planning-execution/article/21261091/winning-with-customer-case-studies-4-tips-6-pitfalls",
+    "https://www.mutinyhq.com/llm-info",
+    "https://www.ycombinator.com/companies/mutiny",
+    "https://online-personalization.solutions/en/online-personalization-suppliers/mutiny-hq/",
+    "https://www.appsruntheworld.com/customers-database/products/view/mutiny"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Mutinyhq white label OR reseller OR partner program",
+   "results": [
+    "https://www.mutinyhq.com/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://suitedash.com/white-label-business-software/",
+    "https://www.youtube.com/watch?v=0j22JYl44z4",
+    "https://www.blackhatworld.com/seo/guide-turn-your-service-into-a-reseller-network-100-white-label-get-sales-without-massive-marketing-spend.1796688/",
+    "https://intandem.vcita.com/blog/partners/different-types-of-white-label-partnerships",
+    "https://sales-label.com/blog/white-label-saas-reseller",
+    "https://www.totalum.app/blog/white-label-ai-app-builder-2026",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Mutinyhq founded funding employees revenue",
+   "results": [
+    "https://www.mutinyhq.com/llm-info",
+    "https://www.crunchbase.com/organization/mutinyhq",
+    "https://getlatka.com/companies/mutiny",
+    "https://www.owler.com/company/mutinyhq",
+    "https://www.mutinyhq.com/blog/mutiny-raises-50m-series-b-to-help-companies-turn-wasted-marketing-spend-into-revenue",
+    "https://pitchbook.com/profiles/company/232144-21",
+    "https://www.zoominfo.com/c/mutiny-hq-corp/462393422",
+    "https://tracxn.com/d/companies/mutiny/__dJA_SS0ft4-qHFg7mpZfMlsX5KcColdNbRtYAKxUUo8",
+    "https://multiples.vc/private-comps/mutiny",
+    "https://fundediq.co/mutiny-mutinyhq-com-funding/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:note.com Mutinyhq",
+   "results": [
+    "https://note.com/hirokiec/n/nc8dcc0034778",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/wise_turtle184",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/ss_seiyaku/n/n86d2197fce7e",
+    "https://note.com/kzstock/n/n8464ba129797"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:x.com Mutinyhq",
+   "results": [
+    "https://x.com/mutinycorp",
+    "https://x.com/jalehr",
+    "https://x.com/jalehr/status/2113292876536844742/video/1",
+    "https://x.com/MutinyWrestling",
+    "https://x.com/ecomchasedimond/status/2041551622040694836",
+    "https://x.com/mutinyinc_",
+    "https://x.com/mutinymovie",
+    "https://x.com/menlotimes/status/2070442671802654934"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:linkedin.com Mutinyhq",
+   "results": [
+    "https://www.linkedin.com/company/mutinyhq",
+    "https://www.linkedin.com/posts/jalehr_we-raised-72m-from-sequoiayc-and-hit-8-activity-7447310976070283264-1NRa",
+    "https://www.linkedin.com/products/mutinyhq-mutiny/",
+    "https://www.linkedin.com/in/jalehr",
+    "https://www.linkedin.com/in/nikhilmat",
+    "https://www.linkedin.com/posts/nikhilmat_today-were-launching-a-brand-new-mutiny-activity-7447322810508763136-w2J2",
+    "https://www.linkedin.com/posts/henrik-berggren_i-spent-years-building-products-i-wasnt-activity-7447320052682547200-M6jt",
+    "https://www.linkedin.com/posts/mutinyhq_big-news-mutiny-has-officially-landed-activity-7346552151399170049-w4dK",
+    "https://www.linkedin.com/in/ryannarod",
+    "https://www.linkedin.com/posts/nikhilmat_the-mutiny-mcp-is-now-available-to-all-customers-activity-7453409035782967296-B4Kp"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Mutinyhq",
+   "results": [
+    "https://www.facebook.com/mutinylovesyou/",
+    "https://www.facebook.com/smsin360/posts/%F0%9D%90%96%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%AD-%F0%9D%90%B2%F0%9D%90%A8%F0%9D%90%AE%F0%9D%90%AB-%F0%9D%90%9B%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9D-%F0%9D%90%AD%F0%9D%90%A8-%F0%9D%90%9B%F0%9D%90%9E-%F0%9D%90%AD%F0%9D%90%A1%F0%9D%90%9E-%F0%9D%90%93%F0%9D%90%80%F0%9D%90%8B%F0%9D%90%8A-%F0%9D%90%8E%F0%9D%90%85-%F0%9D%90%93%F0%9D%90%87%F0%9D%90%84-%F0%9D%90%93%F0%9D%90%8E%F0%9D%90%96%F0%9D%90%8D-%F0%9D%90%81%F0%9D%90%AE%F0%9D%90%A2%F0%9D%90%A5%F0%9D%90%9D-%F0%9D%90%9A-%F0%9D%90%A9%F0%9D%90%A8%F0%9D%90%B0%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%9F%F0%9D%90%AE%F0%9D%90%A5-%F0%9D%90%9D%F0%9D%90%A2%F0%9D%90%A0%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%9A%F0%9D%90%A5-%F0%9D%90%A9%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%9C%F0%9D%90%9E-%F0%9D%90%B0%F0%9D%90%A2%F0%9D%90%AD/1649019530568059/",
+    "https://www.facebook.com/justin.allen.9235/",
+    "https://www.facebook.com/groups/853789763177564/posts/1695645508991981/",
+    "https://www.facebook.com/61593293305088/posts/clipping-is-the-next-big-thing-clipping-sidehustle-sideincome-aitools-everygenpa/122122268277443110/",
+    "https://www.facebook.com/k2share/photos/d41d8cd9/2145310949038385/",
+    "https://www.facebook.com/groups/698593531630485/posts/1328971141926051/",
+    "https://www.facebook.com/Nelsonsplendidofficial/posts/think-chatgpt-is-the-only-ai-these-9-free-alternatives-will-surprise-you-discove/1133165432605002/",
+    "https://www.facebook.com/PakinSaudiArabia/posts/%F0%9D%97%A7%F0%9D%98%86%F0%9D%97%B1%F0%9D%97%B6%F0%9D%97%BF-brings-lead-discovery-customer-outreachconversion-management-into-one-ai-p/1408295884834306/",
+    "https://www.facebook.com/mutiny.hq/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Mutinyhq note 社長",
+   "results": [
+    "https://x.com/sadaaki",
+    "https://note.com/safe_sage8850/n/n7e027f17590d",
+    "https://note.jp/n/n61ffb9f9bf8f",
+    "https://www.youtube.com/watch?v=xPafg3yYObE",
+    "https://note.com/make_a_change",
+    "https://note.com/topic/business",
+    "https://note.intimatemerger.com/followers",
+    "https://www.youtube.com/watch?v=MFAOx2g1KSM",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://tracxn.com/d/companies/mutiny/__dJA_SS0ft4-qHFg7mpZfMlsX5KcColdNbRtYAKxUUo8"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Mutinyhq X 投稿",
+   "results": [
+    "https://x.com/mutinycorp",
+    "https://www.mutinyhq.com/",
+    "https://www.ycombinator.com/launches/PtJ-mutiny-your-ai-agent-for-creating-anything-customer-facing-used-by-uber-rippling",
+    "https://www.instagram.com/mutinyhq/",
+    "https://www.mutinyhq.com/products/smart-assets",
+    "https://www.linkedin.com/posts/jalehr_we-raised-72m-from-sequoiayc-and-hit-8-activity-7447310976070283264-1NRa",
+    "https://github.com/MutinyHQ",
+    "https://www.g2.com/products/mutiny-hq/reviews",
+    "https://x.com/mutinyhq",
+    "https://www.mutinyhq.com/discover"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式18頁／PDF・画像0件／外部21頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式18頁／PDF・画像0件／外部21頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式18頁／PDF・画像0件／外部21頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式18頁／PDF・画像0件／外部21頁・検索12回）"
+ }
+}

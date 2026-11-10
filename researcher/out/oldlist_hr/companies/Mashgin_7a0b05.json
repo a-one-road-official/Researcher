@@ -1,0 +1,1362 @@
+{
+ "name": "Mashgin",
+ "aliases": [],
+ "context": "旧営業リスト｜Education / Childcare｜未接触",
+ "researched_at": "2026-11-10T00:29:28.275114+00:00",
+ "official_url": "https://www.mashgin.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$62.5M",
+    "url": "https://getlatka.com/companies/mashgin",
+    "pass": 3
+   },
+   {
+    "label": "1. Seed Round",
+    "value": "01-Sep-2014 $500K $500K  Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/86356-36",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Businesses like yours are increasing revenue, decreasing costs, and drastically improving customer experience with Mashgin.",
+    "url": "https://www.mashgin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Mashgin has helped streamline our operations and makes the checkout experience easier. It gives our in-store managers more time to focus on the store, connect with students, and provide assistance when they need it!”",
+    "url": "https://www.mashgin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing Director | University of Denver Dining",
+    "url": "https://www.mashgin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Between 11 a.m. and 1 p.m., thousands of people hit at once. The challenge is getting them through quickly and Mashgin dramatically improves that flow. Throughput is our biggest challenge getting thousands of people through quickly and efficiently. Mashgin helps us do that in a timely manner.\"",
+    "url": "https://www.mashgin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"At a time when resources are stretched, having a secure retail location that’s available 24/7 with coffee, salads, sushi, and sandwiches has been an incredible hit with our team, especially those that work late nights and weekends.\"",
+    "url": "https://www.mashgin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We couldn't be happier with the decision to implement Mashgin kiosks at UT Austin's stadium. The results have been astounding. We have seen a significant reduction in line times, increased revenue and most importantly, an overall improvement in customer satisfaction. The fans are happy and that makes us happy. \"",
+    "url": "https://www.mashgin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"The unexpected surprise was that sales for October 2021 at that location exceeded sales for the entire 2019 season! We immediately ordered seven more Mashgins, and are in process of reconfiguring additional locations in the building to deploy the additional Mashgins.\"",
+    "url": "https://www.mashgin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "President | Chestnut Petroleum Distributors",
+    "url": "https://www.mashgin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We owe it to the students we serve to provide a quick and easy checkout system that gets them to class on time. Mashgin has done just that.\"",
+    "url": "https://www.mashgin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Mashgin is the only checkout provider with fully US-based support that will get on the phone with you in 2-3 minutes, any time of day. Just press a button on your machine and talk to an expert from our team.",
+    "url": "https://www.mashgin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your checkout solution needs to work with your existing technology and process. We integrate with 50+ payment networks, POS systems, loyalty systems, and more to ensure that Mashgin fits within your specific workflows.",
+    "url": "https://www.mashgin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlike other solutions that rely on third-party devices, everything from hardware to software is purpose-built and proprietary with Mashgin.",
+    "url": "https://www.mashgin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Why does Mashgin use proprietary devices instead of iPads or other public hardware?",
+    "url": "https://www.mashgin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Software Engineer, Product",
+    "url": "https://www.mashgin.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Fraudulent Recruitment",
+    "url": "https://www.mashgin.com/company/fraudulent-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "Recruitment Fraud and Job Scam Alert",
+    "url": "https://www.mashgin.com/company/fraudulent-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "At Mashgin, we’re aware that scammers sometimes impersonate company representatives as part of fraudulent recruiting schemes. These scams can involve fake job postings or unsolicited messages that claim to be from Mashgin, often asking for personal information, payments, or interviews via unofficial channels.",
+    "url": "https://www.mashgin.com/company/fraudulent-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "We want to help you protect yourself. Please review the information below to understand how to identify a scam and what you can expect from a legitimate Mashgin hiring process.",
+    "url": "https://www.mashgin.com/company/fraudulent-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "Recruitment fraud can take many forms. Be cautious if you encounter any of the following:",
+    "url": "https://www.mashgin.com/company/fraudulent-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "You’re asked to pay for equipment, background checks, or training.",
+    "url": "https://www.mashgin.com/company/fraudulent-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "Mashgin will never ask job candidates to send money or purchase anything during the hiring process.",
+    "url": "https://www.mashgin.com/company/fraudulent-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "You receive an offer without a formal interview.",
+    "url": "https://www.mashgin.com/company/fraudulent-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "We conduct real interviews with our team before making any offers.",
+    "url": "https://www.mashgin.com/company/fraudulent-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "We may reach out via LinkedIn, but all serious conversations will shift to official email or scheduled video calls.",
+    "url": "https://www.mashgin.com/company/fraudulent-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "Here’s what our hiring process looks like:",
+    "url": "https://www.mashgin.com/company/fraudulent-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "Application through our official careers page or LinkedIn.",
+    "url": "https://www.mashgin.com/company/fraudulent-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "Structured interviews with members of our team.",
+    "url": "https://www.mashgin.com/company/fraudulent-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "A written offer only after completing interviews.",
+    "url": "https://www.mashgin.com/company/fraudulent-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "If you believe you've been targeted by a recruitment scam involving Mashgin:",
+    "url": "https://www.mashgin.com/company/fraudulent-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "Your privacy and security matter to us.",
+    "url": "https://www.mashgin.com/company/fraudulent-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "We’re actively monitoring for fraudulent activity and appreciate your help in reporting anything suspicious.",
+    "url": "https://www.mashgin.com/company/fraudulent-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "We appreciate you reaching out. Please send us a note here and we will be in touch shortly.",
+    "url": "https://www.mashgin.com/company/press-inquiries",
+    "pass": 1
+   },
+   {
+    "quote": "“Mashgin has helped streamline our operations and makes the checkout experience easier. It gives our in-store managers more time to focus on the store, connect with students, and provide assistance when they need it!”",
+    "url": "https://www.mashgin.com/company/press-inquiries",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing Director | University of Denver Dining",
+    "url": "https://www.mashgin.com/company/press-inquiries",
+    "pass": 1
+   },
+   {
+    "quote": "\"Between 11 a.m. and 1 p.m., thousands of people hit at once. The challenge is getting them through quickly and Mashgin dramatically improves that flow. Throughput is our biggest challenge getting thousands of people through quickly and efficiently. Mashgin helps us do that in a timely manner.\"",
+    "url": "https://www.mashgin.com/company/press-inquiries",
+    "pass": 1
+   },
+   {
+    "quote": "\"At a time when resources are stretched, having a secure retail location that’s available 24/7 with coffee, salads, sushi, and sandwiches has been an incredible hit with our team, especially those that work late nights and weekends.\"",
+    "url": "https://www.mashgin.com/company/press-inquiries",
+    "pass": 1
+   },
+   {
+    "quote": "\"We couldn't be happier with the decision to implement Mashgin kiosks at UT Austin's stadium. The results have been astounding. We have seen a significant reduction in line times, increased revenue and most importantly, an overall improvement in customer satisfaction. The fans are happy and that makes us happy. \"",
+    "url": "https://www.mashgin.com/company/press-inquiries",
+    "pass": 1
+   },
+   {
+    "quote": "\"The unexpected surprise was that sales for October 2021 at that location exceeded sales for the entire 2019 season! We immediately ordered seven more Mashgins, and are in process of reconfiguring additional locations in the building to deploy the additional Mashgins.\"",
+    "url": "https://www.mashgin.com/company/press-inquiries",
+    "pass": 1
+   },
+   {
+    "quote": "President | Chestnut Petroleum Distributors",
+    "url": "https://www.mashgin.com/company/press-inquiries",
+    "pass": 1
+   },
+   {
+    "quote": "移動時間の価値を高める──JR東海が「Supreme Class」に込めた思い",
+    "url": "https://forbesjapan.com/articles/detail/48246",
+    "pass": 3
+   },
+   {
+    "quote": "テレビの先にある新たなリーチ サテライトオフィスがPrime Video広告を選んだ理由",
+    "url": "https://forbesjapan.com/articles/detail/48246",
+    "pass": 3
+   },
+   {
+    "quote": "Entertainment Providers",
+    "url": "https://www.casestudies.com/company/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "Senior Vice President of Retail Sales",
+    "url": "https://www.casestudies.com/company/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "Vice President, F&B Finance & Business Insights",
+    "url": "https://www.casestudies.com/company/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "Vice President of Operations and Events",
+    "url": "https://www.casestudies.com/company/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "Vice President of Ancillary Services",
+    "url": "https://www.casestudies.com/company/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "Senior Vice President of Retail Sales",
+    "url": "https://www.casestudies.com/company/mashgin/case-study/delek-us-holdings-inc-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Mashgin is privately held, so there is no Mashgin stock to buy. Investors valued it at $1.5B in its May 2022 Series B.",
+    "url": "https://getlatka.com/companies/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "No. Mashgin is a private company, so its shares aren't traded on a stock exchange.",
+    "url": "https://getlatka.com/companies/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "Competera Pricing Platform",
+    "url": "https://getlatka.com/companies/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "Mashgin 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/86356-36",
+    "pass": 3
+   },
+   {
+    "quote": "2ndary - Private",
+    "url": "https://pitchbook.com/profiles/company/86356-36",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/86356-36",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/86356-36",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/86356-36",
+    "pass": 3
+   },
+   {
+    "quote": "10. Secondary Transaction - Private",
+    "url": "https://pitchbook.com/profiles/company/86356-36",
+    "pass": 3
+   },
+   {
+    "quote": "14-Apr-2015",
+    "url": "https://pitchbook.com/profiles/company/86356-36",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/86356-36",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "TRUSTED BY 5,000+ LOCATIONS",
+    "url": "https://www.mashgin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Machinery Manufacturing",
+    "url": "https://www.casestudies.com/company/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "BMO Stadium - Customer Case Study",
+    "url": "https://www.casestudies.com/company/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "Delek US Holdings Inc. - Customer Case Study",
+    "url": "https://www.casestudies.com/company/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "Empower Field at Mile High - Customer Case Study",
+    "url": "https://www.casestudies.com/company/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "Honda Center - Customer Case Study",
+    "url": "https://www.casestudies.com/company/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "loanDepot Park - Customer Case Study",
+    "url": "https://www.casestudies.com/company/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "St. Joseph's/Candler - Customer Case Study",
+    "url": "https://www.casestudies.com/company/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "The University of Texas at Austin - Customer Case Study",
+    "url": "https://www.casestudies.com/company/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "Mashgin Case Study: Delek US Holdings Inc. – Delek US Holdings Inc. - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/mashgin/case-study/delek-us-holdings-inc-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Delek US Holdings Inc. - Customer Case Study",
+    "url": "https://www.casestudies.com/company/mashgin/case-study/delek-us-holdings-inc-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Delek US Holdings Inc. used Mashgin",
+    "url": "https://www.casestudies.com/company/mashgin/case-study/delek-us-holdings-inc-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Open case study document...",
+    "url": "https://www.casestudies.com/company/mashgin/case-study/delek-us-holdings-inc-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/mashgin/case-study/delek-us-holdings-inc-customer-case-study",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Businesses like yours are increasing revenue, decreasing costs, and drastically improving customer experience with Mashgin.",
+    "url": "https://www.mashgin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We couldn't be happier with the decision to implement Mashgin kiosks at UT Austin's stadium. The results have been astounding. We have seen a significant reduction in line times, increased revenue and most importantly, an overall improvement in customer satisfaction. The fans are happy and that makes us happy. \"",
+    "url": "https://www.mashgin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“The grab-and-go space has turned into a huge revenue generator for us.\"",
+    "url": "https://www.mashgin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How does Mashgin increase revenue?",
+    "url": "https://www.mashgin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Irving Convention Center Turns Grab-and-Go Into a High-Margin Revenue Driver with Mashgin",
+    "url": "https://www.mashgin.com/resources/mashgin-case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Liberty University increases YOY revenue by 26%",
+    "url": "https://www.mashgin.com/resources/mashgin-case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Northern Arizona University Increases YOY Dining Revenue 73.4%",
+    "url": "https://www.mashgin.com/resources/mashgin-case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Competitive healthcare, dental and vision options for employees and dependents",
+    "url": "https://www.mashgin.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "At Mashgin, we’re aware that scammers sometimes impersonate company representatives as part of fraudulent recruiting schemes. These scams can involve fake job postings or unsolicited messages that claim to be from Mashgin, often asking for personal information, payments, or interviews via unofficial channels.",
+    "url": "https://www.mashgin.com/company/fraudulent-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "\"We couldn't be happier with the decision to implement Mashgin kiosks at UT Austin's stadium. The results have been astounding. We have seen a significant reduction in line times, increased revenue and most importantly, an overall improvement in customer satisfaction. The fans are happy and that makes us happy. \"",
+    "url": "https://www.mashgin.com/company/press-inquiries",
+    "pass": 1
+   },
+   {
+    "quote": "Mashgin is the world's fastest self-checkout system powered by AI and computer vision. Mashgin’s Touchless Checkout System eliminates consumer frustration while increasing revenue for retailers with four times faster checkout than cashiers and traditional points-of-sale.",
+    "url": "https://www.casestudies.com/company/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "Darrell K Royal Texas Memorial Stadium boosts sales with Mashgin’s computer vision checkout",
+    "url": "https://www.casestudies.com/company/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "Darrell K Royal Texas Memorial Stadium",
+    "url": "https://www.casestudies.com/company/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "Empower Field at Mile High cuts concession lines and boosts revenue with Mashgin",
+    "url": "https://www.casestudies.com/company/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "Honda Center achieves faster concessions and 400% more revenue with Mashgin",
+    "url": "https://www.casestudies.com/company/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "Irving Convention Center at Las Colinas boosts grab-and-go revenue with Mashgin",
+    "url": "https://www.casestudies.com/company/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "Liberty University achieves 26% YOY revenue growth with Mashgin",
+    "url": "https://www.casestudies.com/company/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "Northern Arizona University boosts dining revenue with Mashgin",
+    "url": "https://www.casestudies.com/company/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "Mashgin Revenue 2024: $9.8M Est., $62.5M Raised",
+    "url": "https://getlatka.com/companies/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, valuation & funding",
+    "url": "https://getlatka.com/companies/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "Mashgin has not published its revenue. GetLatka estimates it at about $9.8M a year (October 2024).",
+    "url": "https://getlatka.com/companies/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "Mashgin CEO, founders & employees",
+    "url": "https://getlatka.com/companies/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "Abhinai Srivastava founded Mashgin in 2015 and runs it as CEO. Mashgin has 120 employees (November 2025, LinkedIn), up from 89 a year earlier.",
+    "url": "https://getlatka.com/companies/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "What is Mashgin's revenue?",
+    "url": "https://getlatka.com/companies/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Mashgin's revenue at about",
+    "url": "https://getlatka.com/companies/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Mashgin have?",
+    "url": "https://getlatka.com/companies/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of November 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/86356-36",
+    "pass": 3
+   },
+   {
+    "quote": "Mashgin has 129 total employees.",
+    "url": "https://pitchbook.com/profiles/company/86356-36",
+    "pass": 3
+   },
+   {
+    "quote": "What is Mashgin’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/86356-36",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Mashgin is",
+    "url": "https://pitchbook.com/profiles/company/86356-36",
+    "pass": 3
+   },
+   {
+    "quote": "Mashgin: Employees, Headcount Growth, Org Chart, Layoffs & H1B (2026) | 6figr",
+    "url": "https://6figr.com/company/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue ~$17.5M",
+    "url": "https://6figr.com/company/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "Mashgin went from 83 employees in Oct 2024 to 132 in Sep 2026. Apr to Sep 2026: 18 people joined, 5 left.",
+    "url": "https://6figr.com/company/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "The department split adds up all the years listed above. FY2026 alone: 3 filings.",
+    "url": "https://6figr.com/company/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "190 employees",
+    "url": "https://6figr.com/company/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Mashgin have?",
+    "url": "https://6figr.com/company/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "Mashgin has about 132 employees, up 1.5% over the 3 months to Sep 2026.",
+    "url": "https://6figr.com/company/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "What is Mashgin's revenue per employee?",
+    "url": "https://6figr.com/company/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "Mashgin makes about $133K in revenue per employee, based on $17.5M annual revenue and 132 employees.",
+    "url": "https://6figr.com/company/mashgin",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "The email is from a suspicious or non-company domain.",
+    "url": "https://www.mashgin.com/company/fraudulent-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "All official Mashgin emails come from",
+    "url": "https://www.mashgin.com/company/fraudulent-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "You’re contacted via messaging apps or personal email.",
+    "url": "https://www.mashgin.com/company/fraudulent-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "We may reach out via LinkedIn, but all serious conversations will shift to official email or scheduled video calls.",
+    "url": "https://www.mashgin.com/company/fraudulent-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "Email correspondence from a",
+    "url": "https://www.mashgin.com/company/fraudulent-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "Let us know by emailing",
+    "url": "https://www.mashgin.com/company/fraudulent-recruitment",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/86356-36",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "2023年中に日本進出へ 小売業との直接取引を望む",
+    "url": "https://techblitz.com/startup-interview/mashgin/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業の顧客はまだいませんが、重要な市場だと位置づけています",
+    "url": "https://techblitz.com/startup-interview/mashgin/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、2023年中に日本への進出を目指しています",
+    "url": "https://techblitz.com/startup-interview/mashgin/",
+    "pass": 3
+   },
+   {
+    "quote": "とくに、日本にはコンビニエンスストアが多く存在し、その経営上の優先的な課題も店舗の省人化を掲げています",
+    "url": "https://techblitz.com/startup-interview/mashgin/",
+    "pass": 3
+   },
+   {
+    "quote": "――日本の大企業とのパートナーシップを考えた場合、どのような形態のものがベストだとお考えでしょうか？",
+    "url": "https://techblitz.com/startup-interview/mashgin/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の小売業と直接取引をしたいと考えています",
+    "url": "https://techblitz.com/startup-interview/mashgin/",
+    "pass": 3
+   },
+   {
+    "quote": "確かに、言語などのハードルはありますが、店舗オペレーションにおいてはアメリカやヨーロッパ諸国と日本を比較したとき、大差はないと思います",
+    "url": "https://techblitz.com/startup-interview/mashgin/",
+    "pass": 3
+   },
+   {
+    "quote": "Mashginが日本でも広がり始めたら、その時に代理店契約や投資などの関係性を築いていけると考えています",
+    "url": "https://techblitz.com/startup-interview/mashgin/",
+    "pass": 3
+   },
+   {
+    "quote": "「電力の変化」をどう読むか 東京ガスも出資する米AmperonのAI予測の仕組み",
+    "url": "https://techblitz.com/startup-interview/mashgin/",
+    "pass": 3
+   },
+   {
+    "quote": "「電力の変化」をどう読むか 東京ガスも出資する米AmperonのAI予測の仕組みの詳細を見る",
+    "url": "https://techblitz.com/startup-interview/mashgin/",
+    "pass": 3
+   },
+   {
+    "quote": "AIで買い物を爆速化するセルフレジ「Mashgin」が評価額15億ドル | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+    "url": "https://forbesjapan.com/articles/detail/48246",
+    "pass": 3
+   },
+   {
+    "quote": "Forbes JAPAN サイトメンテナンスのお知らせ（2026年11月10日（火）18:00〜）",
+    "url": "https://forbesjapan.com/articles/detail/48246",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ今、日本市場に勝機があるのか ローランド・ベルガーが示す日本企業の新たな成長像",
+    "url": "https://forbesjapan.com/articles/detail/48246",
+    "pass": 3
+   },
+   {
+    "quote": "KKR・大和証券の両トップが語る 日本が「世界有数の成長市場」になる未来",
+    "url": "https://forbesjapan.com/articles/detail/48246",
+    "pass": 3
+   },
+   {
+    "quote": "上智大学×タキヒヨーの共創が生んだサステナブルTシャツ――「TOKYOエシカル」がつなぐ新たな可能性",
+    "url": "https://forbesjapan.com/articles/detail/48246",
+    "pass": 3
+   },
+   {
+    "quote": "Forbes JAPANの最新のニュースをお届けします",
+    "url": "https://forbesjapan.com/articles/detail/48246",
+    "pass": 3
+   },
+   {
+    "quote": "Mashginは日本でどのように普及し、セルフレジのシステムにおいてどのような特徴を持っていますか？ - 質問と回答 - Glarity",
+    "url": "https://askai.glarity.app/ja/search/Mashgin%E3%81%AF%E6%97%A5%E6%9C%AC%E3%81%A7%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E6%99%AE%E5%8F%8A%E3%81%97-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%AC%E3%82%B8%E3%81%AE%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E7%89%B9%E5%BE%B4%E3%82%92%E6%8C%81%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%8B",
+    "pass": 3
+   },
+   {
+    "quote": "Mashginは日本でどのように普及し、セルフレジのシステムにおいてどのような特徴を持っていますか？",
+    "url": "https://askai.glarity.app/ja/search/Mashgin%E3%81%AF%E6%97%A5%E6%9C%AC%E3%81%A7%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E6%99%AE%E5%8F%8A%E3%81%97-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%AC%E3%82%B8%E3%81%AE%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E7%89%B9%E5%BE%B4%E3%82%92%E6%8C%81%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%8B",
+    "pass": 3
+   },
+   {
+    "quote": "4. 2023年には日本でも広がり始め、代理店契約や投資関係を築いている[2].",
+    "url": "https://askai.glarity.app/ja/search/Mashgin%E3%81%AF%E6%97%A5%E6%9C%AC%E3%81%A7%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E6%99%AE%E5%8F%8A%E3%81%97-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%AC%E3%82%B8%E3%81%AE%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E7%89%B9%E5%BE%B4%E3%82%92%E6%8C%81%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%8B",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業が中国企業や米国企業や韓国企業を凌ぐまでの道のりのパターン１００",
+    "url": "https://askai.glarity.app/ja/search/Mashgin%E3%81%AF%E6%97%A5%E6%9C%AC%E3%81%A7%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E6%99%AE%E5%8F%8A%E3%81%97-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%AC%E3%82%B8%E3%81%AE%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E7%89%B9%E5%BE%B4%E3%82%92%E6%8C%81%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%8B",
+    "pass": 3
+   },
+   {
+    "quote": "これ日本に入ってきたら、速攻使うわー",
+    "url": "https://note.com/masa_and_so_on/n/ndad9bd962dc1",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "AIで画像認識、高速セルフレジシステムを構築 Mashgin コンビニ、カフ... — Apr 4, 2023 · 導入に対するハードルの低さもメリット ――Mashginの技術的な優位性について教えてください。 Mashginに搭載された複数の3Dカメラが、台の上に置かれたすべての商品を自動的に認識します。",
+    "url": "https://techblitz.com/startup-interview/mashgin/",
+    "pass": 3
+   },
+   {
+    "quote": "Mashgin_Japan (@mashgin_Japan) / X — Mashginは自分でスキャンしなくていいセルフレジです。画像認識をつかって瞬時に商品を認識してくれます。世界で大手コンビニや、スタジアム、空港、リゾートホテルなど3000店舗以上の店舗に導入を行っているスケーラブルなソリューションです。簡単に使えて、レジコストも削減、さらに ...",
+    "url": "https://x.com/mashgin_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "AIで買い物を爆速化するセルフレジ「Mashgin」が評価額15億ドル — Jun 20, 2022 · しかし、Mashginの創業者たちはAIが職を奪うのではなく、全国的な人手不足を補う役割を果たすと考えている。 「Mashginを導入することで、従業員たちは自動化できない業務に集中することができる」とスリヴァスタヴァは話す。",
+    "url": "https://forbesjapan.com/articles/detail/48246",
+    "pass": 3
+   },
+   {
+    "quote": "Mashginは日本でどのように普及し、セルフレジのシステムにおいてどの... — Feb 5, 2024 · 1. MashginはAIを搭載した非接触型のセルフレジで、複数のアイテムや包装された商品、皿に盛られた食品などを瞬時にスキャンできます [1]. 2. コンビニエンスストアや空港、カフェテリア、スポーツスタジアムなどで展開されており、バーコードスキャンが不要なセルフレジを提供しています [5 ...",
+    "url": "https://askai.glarity.app/ja/search/Mashginは日本でどのように普及し-セルフレジのシステムにおいてどのような特徴を持っていますか",
+    "pass": 3
+   },
+   {
+    "quote": "Mashginは日本でどのように普及していますか？ - 質問と回答 - Glarit... — May 9, 2024 · Mashginは日本での普及に関していくつかの情報があります。最初に、Mashginは日本のコンビニエンスストアや他の場所に設置され、顧客に非接触型のセルフチェックアウトシステムを提供しています。これにより、顧客はスムーズで迅速な支払いを行うことができます。特に、2022年から2023年に ...",
+    "url": "https://askai.glarity.app/ja/search/Mashginは日本でどのように普及していますか",
+    "pass": 3
+   },
+   {
+    "quote": "Mashgin Solution Overview | Lightning-Fast Checkout That ... — See why operators choose Mashgin for 400% faster checkout, 40% higher throughput, and zero lines. No barcodes, no waiting—just place, pay, and go.",
+    "url": "https://www.mashgin.com/solution/overview",
+    "pass": 3
+   },
+   {
+    "quote": "AIで買い物を爆速化するセルフレジ「Mashgin」が評価額15億ドル | For... — Jun 20, 2022 · フォーブスが北米の最も有望なAI企業を選出するリストの「AI50」に選出されたMashginは、5月9日、NEAが主導したシリーズBラウンドで6250万ドル（約81億円）を調達したことを発表した。 同社の評価額は15億ドルとされた。",
+    "url": "https://forbesjapan.com/articles/detail/48246",
+    "pass": 3
+   },
+   {
+    "quote": "AIで画像認識、高速セルフレジシステムを構築 Mashgin コンビニ、カフ... — Apr 4, 2023 · 従来のセルフレジの8倍の速さで決済完了 ――御社はどのような事業を展開しているのでしょうか。 Mashginは、AIを搭載したバーコードスキャン不要のセルフレジを開発しています。現在、コンビニエンスストアや空港、カフェテリア、スポーツスタジアムのキオスクなど約2,200店舗で導入されて ...",
+    "url": "https://techblitz.com/startup-interview/mashgin/",
+    "pass": 3
+   },
+   {
+    "quote": "Mashgin | LinkedIn — Mashgin | LinkedInのフォロワー数8,261人。The world's best checkout experience. Powered by AI. Feels like magic. | At Mashgin, we are developing the future of checkout experiences. We aim to reduce the friction between customer desires and their ability to be on their way. Our ecosystem is anchored by the only 3D computer vision and deep learning based checkout system in the world.",
+    "url": "https://jp.linkedin.com/company/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "Mashgin Case Studies — Explore Mashgin's case study gallery and witness the transformative impact of our AI-powered self-checkout system across various sectors – from convenience stores and hospitals to major sports stadiums. Discover the power of innovation with Mashgin.",
+    "url": "https://www.mashgin.com/resources/mashgin-case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Mashgin Reports — Explore Mashgin's reports and witness the transformative impact of our AI-powered self-checkout system across various sectors – from convenience stores and hospitals to major sports stadiums. Discover the power of innovation with Mashgin.",
+    "url": "https://www.mashgin.com/resources/mashgin-reports",
+    "pass": 3
+   },
+   {
+    "quote": "Mashgin B2B Case Studies & Customer Successes — Mashgin is the world's fastest self-checkout system powered by AI and computer vision. Mashgin’s Touchless Checkout System eliminates consumer frustration while increasing revenue for retailers with four times faster checkout than cashiers and traditional points-of-sale.",
+    "url": "https://www.casestudies.com/company/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "Mashgin Case Study: Delek US Holdings Inc. – Delek US ... — Delek US Holdings Inc. (Oil & Energy) partnered with Mashgin (Computer Software) to solve key challenges. \"Delek US Holdings Inc. - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/mashgin/case-study/delek-us-holdings-inc-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Mashgin Revenue 2024: $9.8M Est., $62.5M Raised - LATKA — Oct 30, 2026 · Mashgin 2024 estimated revenue: $9.8M (up from $5.4M in 2023). Valuation (2022): $1.5B. Total funding: $62.5M across 1 round. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "Mashgin 2026 Company Profile: Valuation, Funding & Investors ...Mashgin - Overview, News & Similar companies | ZoomInfo.comMashgin: Employees, Headcount Growth, Org Chart, Layoffs ...Mashgin: Funding, Team & Investors | Startup IntrosMashgin – Market Position & Workforce Comparison – 2026Mashgin Profile 2026: Financials, AI Strategy & AiFi, Boxy ... — Information on valuation, funding, cap tables,",
+    "url": "https://pitchbook.com/profiles/company/86356-36",
+    "pass": 3
+   },
+   {
+    "quote": "Mashgin - Overview, News & Similar companies | ZoomInfo.com — View Mashgin (www.mashgin.com) location in California, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+    "url": "https://www.zoominfo.com/c/mashgin-inc/370547997",
+    "pass": 3
+   },
+   {
+    "quote": "Mashgin: Employees, Headcount Growth, Org Chart, Layoffs ... — Mashgin has about 102 employees (+7.4% in 3 months). It filed 3 H1B applications in FY2026. No layoffs in the last 12 months. Revenue per employee ~$172K. See the org chart, headcount trend, open jobs and pay.",
+    "url": "https://6figr.com/company/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "Mashgin: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Frequently Asked Questions Who founded Mashgin? Mashgin was founded in 2014 by Mukul Dhankhar (Founder) and Abhinai Srivastava (Founder/CEO). How much funding has Mashgin raised? Mashgin has raised $74.0M in total across 3 funding rounds. Who are Mashgin's investors?",
+    "url": "https://startupintros.com/orgs/mashgin",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "「Mashgin」とかいうレジの概念変えようとしている変態機械 Aug 8, 2022 · Mashginとかいうやつは、10秒以内で支払いまで終えることのできる世界最速のタッチレス・セルフレジシステムらしい。 とりあえず動画があったのでこんな感じらしいっす。 すごくない？ これ日本に入ってきたら、速攻使うわー。 参考URL",
+    "url": "https://note.com/masa_and_so_on/n/ndad9bd962dc1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "「Mashgin」とかいうレジの概念変えようとしている変態機械｜masakichi",
+    "url": "https://note.com/masa_and_so_on/n/ndad9bd962dc1",
+    "pass": 3
+   },
+   {
+    "quote": "「Mashgin」とかいうレジの概念変えようとしている変態機械",
+    "url": "https://note.com/masa_and_so_on/n/ndad9bd962dc1",
+    "pass": 3
+   },
+   {
+    "quote": "よくコンビニで朝ごはん買うんだけど、最近レジがセルフレジになっててさ、タッチレスで支払いしてるんだよね",
+    "url": "https://note.com/masa_and_so_on/n/ndad9bd962dc1",
+    "pass": 3
+   },
+   {
+    "quote": "しかもこのセルフレジのいいところって、割とみんな普通のレジに並ぶから、レジは４人くらい待っているのに、セルフレジはすぐに買えちゃうなんてこと多いのよ",
+    "url": "https://note.com/masa_and_so_on/n/ndad9bd962dc1",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、ワイの入店時にレジに並んでた人より、ワイの方が退店するの早いなんてことはザラ。本当に時間効率がいい。",
+    "url": "https://note.com/masa_and_so_on/n/ndad9bd962dc1",
+    "pass": 3
+   },
+   {
+    "quote": "とか思ってたけど、海外のセルフレジはもっとやべえらしい。",
+    "url": "https://note.com/masa_and_so_on/n/ndad9bd962dc1",
+    "pass": 3
+   },
+   {
+    "quote": "Mashginとかいうやつは、10秒以内で支払いまで終えることのできる世界最速のタッチレス・セルフレジシステムらしい。",
+    "url": "https://note.com/masa_and_so_on/n/ndad9bd962dc1",
+    "pass": 3
+   },
+   {
+    "quote": "とりあえず動画があったのでこんな感じらしいっす。",
+    "url": "https://note.com/masa_and_so_on/n/ndad9bd962dc1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Mashgin (@Mashgin) / X Mashgin is now live at Northern Arizona University's Walkup Skydome! Huge thanks to the Sodexo team for their partnership and for making this expansion happen so smoothly. We're excited to keep growing with Sodexo across higher education.",
+    "url": "https://x.com/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "@Mashginjust earned a Best in Venue & Franchise Operations ... Mashgin (@Mashgin). 413 views. @Mashginjust earned a Best in Venue & Franchise Operations Technology nod from @SBJ for the Sports Business Awards: Tech. 🏆 170+ venue clients globally. 11–15 second transactions.",
+    "url": "https://x.com/Mashgin/status/2054592589530067302",
+    "pass": 3
+   },
+   {
+    "quote": "Mashgin_Japan (@mashgin_Japan) / X Mashginは自分でスキャンしなくていいセルフレジです。画像認識をつかって瞬時に商品を認識してくれます。世界で大手コンビニや、スタジアム、空港、リゾートホテルなど3000店舗以上の店舗に導入を行っているスケーラブルなソリューションです。簡単に使えて、レジコストも削減、さらに ...",
+    "url": "https://x.com/mashgin_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Mashgin has officially arrived at another @truenorthstores in ... Mashgin (@Mashgin). 23 views. Mashgin has officially arrived at another @truenorthstores in Manton Michigan! True North has been a great partner and we look forward to introducing more Mashgin kiosks to more True North stores. #MashginIsEverywhere #RetailInnovation #TrueNorth",
+    "url": "https://x.com/Mashgin/status/2052418348323877105",
+    "pass": 3
+   },
+   {
+    "quote": "Mashgin (@Mashgin) / X Sep 15, 2026 · Mashgin is now live at Northern Arizona University's Walkup Skydome! Huge thanks to the Sodexo team for their partnership and for making this expansion happen so smoothly. We're excited to keep growing with Sodexo across higher education.",
+    "url": "https://x.com/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "Reposts by Mashgin_Japan (@mashgin_Japan) / X - x.com Mashginは自分でスキャンしなくていいセルフレジです。画像認識をつかって瞬時に商品を認識してくれます。世界で大手コンビニや、スタジアム、空港、リゾートホテルなど3000店舗以上の店舗に導入を行っているスケーラブルなソリューションです。簡単に使えて、レジコストも削減、さらに ...",
+    "url": "https://x.com/mashgin_Japan/reposts",
+    "pass": 3
+   },
+   {
+    "quote": "We’ve got some exciting news! Mashgin is now live at @Chevron ... Mashgin is now live at @Chevron ExtraMile #8034, marking our first-ever deployment at a Chevron location. Now customers can grab what they need and check out in seconds, making those quick stops feel effortless. https://t.co/sodZ0u1QcD",
+    "url": "https://x.com/Mashgin/status/2052780692644278679",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Mashgin - LinkedIn Mashgin | 8,263 followers on LinkedIn. The world's best checkout experience. Powered by AI. Feels like magic. | At Mashgin, we are developing the future of checkout experiences. We aim to ...",
+    "url": "https://www.linkedin.com/company/mashgin",
+    "pass": 3
+   },
+   {
+    "quote": "Mukul Dhankhar - Mashgin Inc. | LinkedInToby Awalt - Vice President of Marketing at Mashgin | LinkedInDobromir Montauk - VP of Engineering, Mashgin | LinkedInJon Nam - GM at Mashgin | Strategic Advisor | LinkedInCody Dales - Mashgin | LinkedInDarrin Baja - Recruiting @ Mashgin | LinkedIn Experience: Mashgin Inc. · Location: Palo Alto · 500+ connections on LinkedIn. View Mukul Dhankhar’s profile on",
+    "url": "https://www.linkedin.com/in/mdhankhar",
+    "pass": 3
+   },
+   {
+    "quote": "Toby Awalt - Vice President of Marketing at Mashgin | LinkedInDobromir Montauk - VP of Engineering, Mashgin | LinkedInJon Nam - GM at Mashgin | Strategic Advisor | LinkedInCody Dales - Mashgin | LinkedInDarrin Baja - Recruiting @ Mashgin | LinkedIn Vice President of Marketing at Mashgin · Product evangelist, marketing architect, and occasional speaker. I lead marketing teams that scale innovative ",
+    "url": "https://www.linkedin.com/in/toby-awalt",
+    "pass": 3
+   },
+   {
+    "quote": "Dobromir Montauk - VP of Engineering, Mashgin | LinkedInJon Nam - GM at Mashgin | Strategic Advisor | LinkedInCody Dales - Mashgin | LinkedInDarrin Baja - Recruiting @ Mashgin | LinkedIn VP of Engineering, Mashgin · I enjoy building high-performance systems & high-performance engineering teams. I've had the good fortune in my career to work on some of the largest systems ... GM at Mashgin | Strate",
+    "url": "https://www.linkedin.com/in/dmontauk",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Mashgin | Palo Alto CA - FacebookWhat is this Mashgin thing? It’s a checkout machine powered ...FacebookFacebook - log in or sign upMashgin - Big House. Big news. ️⚡️ We ... - FacebookMashgin - 2024 was a big year for #Mashgin ... - FacebookNACAS C3X was a reminder of why we love this industry: the ... Oct 14, 2026 · Mashgin, Palo Alto. 196 followers · 16 talking about this · 13 were here. Mashgin",
+    "url": "https://www.facebook.com/mashgin/",
+    "pass": 3
+   },
+   {
+    "quote": "What is this Mashgin thing? It’s a checkout machine powered ... What is this Mashgin thing? It’s a checkout machine powered by AI. No scanning. No waiting. Just fast, easy checkout..",
+    "url": "https://www.facebook.com/mashgin/videos/so-what-is-mashgin/1297734061951770/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.mashgin.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mashgin.com/resources/mashgin-case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mashgin.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mashgin.com/company/fraudulent-recruitment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mashgin.com/company/press-inquiries",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://techblitz.com/startup-interview/mashgin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/mashgin_Japan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://forbesjapan.com/articles/detail/48246",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://askai.glarity.app/ja/search/Mashgin%E3%81%AF%E6%97%A5%E6%9C%AC%E3%81%A7%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E6%99%AE%E5%8F%8A%E3%81%97-%E3%82%BB%E3%83%AB%E3%83%95%E3%83%AC%E3%82%B8%E3%81%AE%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E7%89%B9%E5%BE%B4%E3%82%92%E6%8C%81%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/mashgin_Japan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://forbesjapan.com/articles/detail/48246",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techblitz.com/startup-interview/mashgin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/mashgin",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/mashgin/case-study/delek-us-holdings-inc-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/mashgin",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/86356-36",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/mashgin-inc/370547997",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://6figr.com/company/mashgin",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/masa_and_so_on/n/ndad9bd962dc1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/mashgin",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Mashgin/status/2054592589530067302",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mashgin_Japan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Mashgin/status/2052418348323877105",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/mashgin",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/mdhankhar",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/toby-awalt",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/dmontauk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mashgin/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mashgin/videos/so-what-is-mashgin/1297734061951770/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mashgin",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mashgin_Japan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mashgin_Japan/reposts",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Mashgin/status/2052780692644278679",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Mashgin 日本 導入",
+   "results": [
+    "https://techblitz.com/startup-interview/mashgin/",
+    "https://x.com/mashgin_Japan",
+    "https://forbesjapan.com/articles/detail/48246",
+    "https://askai.glarity.app/ja/search/Mashginは日本でどのように普及し-セルフレジのシステムにおいてどのような特徴を持っていますか",
+    "https://askai.glarity.app/ja/search/Mashginは日本でどのように普及していますか",
+    "https://www.mashgin.com/",
+    "https://global.honda/jp/news/2026/4260305b.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mashgin 代理店 OR 総代理店 OR 日本法人",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Mashgin Japan",
+   "results": [
+    "https://x.com/mashgin_Japan",
+    "https://www.mashgin.com/solution/overview",
+    "https://forbesjapan.com/articles/detail/48246",
+    "https://techblitz.com/startup-interview/mashgin/",
+    "https://jp.linkedin.com/company/mashgin",
+    "https://faq.mashgin.com/faq/about-mashgin",
+    "https://www.mashgin.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mashgin manufacturing customer case study",
+   "results": [
+    "https://www.mashgin.com/resources/mashgin-case-studies",
+    "https://www.mashgin.com/resources/mashgin-reports",
+    "https://www.casestudies.com/company/mashgin",
+    "https://www.casestudies.com/company/mashgin/case-study/delek-us-holdings-inc-customer-case-study",
+    "https://www.mckinsey.com/about-us/case-studies",
+    "https://www.sota2.com/companies/mashgin",
+    "https://21903704.fs1.hubspotusercontent-na1.net/hubfs/21903704/Case+Studies/Delek+US+-+Mashgin+Case+Study.pdf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mashgin white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.seoreseller.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://upcloud.com/partner-program/",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mashgin founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/mashgin",
+    "https://pitchbook.com/profiles/company/86356-36",
+    "https://www.zoominfo.com/c/mashgin-inc/370547997",
+    "https://6figr.com/company/mashgin",
+    "https://startupintros.com/orgs/mashgin",
+    "https://compworth.com/company/mashgin",
+    "https://dexteragent.ai/companies/mashgin-1772521856"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Mashgin",
+   "results": [
+    "https://note.com/masa_and_so_on/n/ndad9bd962dc1",
+    "https://note.com/alive_plover8009/n/n44ffab9bf0f0",
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/bitwalk/n/nbf03c7f15486",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Mashgin",
+   "results": [
+    "https://x.com/mashgin",
+    "https://x.com/Mashgin/status/2054592589530067302",
+    "https://x.com/mashgin_Japan",
+    "https://x.com/Mashgin/status/2052418348323877105",
+    "https://x.com/Mashgin/status/2054954956608655683",
+    "https://x.com/Mashgin/status/2051391437699186774",
+    "https://x.com/hashtag/MashginIsEverywhere"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Mashgin",
+   "results": [
+    "https://www.linkedin.com/company/mashgin",
+    "https://www.linkedin.com/in/mdhankhar",
+    "https://www.linkedin.com/in/toby-awalt",
+    "https://www.linkedin.com/in/dmontauk",
+    "https://www.linkedin.com/in/jon-nam",
+    "https://www.linkedin.com/in/codydales",
+    "https://www.linkedin.com/in/darrinbaja"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Mashgin",
+   "results": [
+    "https://www.facebook.com/mashgin/",
+    "https://www.facebook.com/mashgin/videos/so-what-is-mashgin/1297734061951770/",
+    "https://lite.facebook.com/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/mashgin/posts/big-house-big-news-️️we-are-thrilled-to-officially-announce-that-mashgin-is-live/1639832638147408/",
+    "https://www.facebook.com/mashgin/posts/-2024-was-a-big-year-for-mashgin-we-expanded-globally-enhanced-our-product-and-s/1139619968168680/",
+    "https://www.facebook.com/mashgin/videos/nacas-c3x-was-a-reminder-of-why-we-love-this-industry-the-people-to-our-partners/1604085820582918/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mashgin note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://note.jp/n/n10ae3b3f8acd",
+    "https://froggy.smbcnikko.co.jp/66484/",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mashgin X 投稿",
+   "results": [
+    "https://x.com/mashgin",
+    "https://x.com/mashgin_Japan",
+    "https://x.com/mashgin_Japan/reposts",
+    "https://x.com/Mashgin/status/2052780692644278679",
+    "https://www.mashgin.com/",
+    "https://x.com/marushin_0214",
+    "https://watashinokyoukasyo.com/x-twitter-manga-posting-guide-beginner-viral-tips/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部32頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部32頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部32頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部32頁・検索12回）"
+ }
+}

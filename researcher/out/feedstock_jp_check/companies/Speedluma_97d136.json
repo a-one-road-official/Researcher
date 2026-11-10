@@ -1,0 +1,542 @@
+{
+ "name": "Speedluma",
+ "aliases": [],
+ "context": "ディレクトリ:materials",
+ "researched_at": "2026-11-09T23:53:38.014138+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "代理店網": [
+   {
+    "quote": "Regional Distributors & Wholesalers",
+    "url": "https://speedluma.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Regional Distributors",
+    "url": "https://speedluma.com/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Speedluma : Industrial Elastomer Additive Manufacturing ... — Speedluma : Industrial Elastomer Additive Manufacturing ... Speedluma https://speedluma.com",
+    "url": "https://speedluma.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Speedluma (@ speedluma ) • Instagram photos and videos — Speedluma (@ speedluma ) • Instagram photos and videos Instagram https://www.instagram.com > speedlu...",
+    "url": "https://www.instagram.com/speedluma/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact - Speedluma : Industrial Elastomer Additive ... — Contact - Speedluma : Industrial Elastomer Additive ... Speedluma https://speedluma.com > contact",
+    "url": "https://speedluma.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "Speedluma (Shanghai)Technology Co., Ltd | Exhibitor Formnext 2026 — Speedluma is a B2B provider of complete elastomer 3D printing solutions. We help industrial customers transition from prototyping to scalable production with stable performance and consistent quality. By integrating industrial DLP printers, certified elastomer materials, validated workflows, and professional production support, we",
+    "url": "https://formnext.mesago.com/frankfurt/en/exhibitor-search.detail.html/speedluma-shanghaitechnology-co-ltd.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Drag race testing speed LUMA Versus BAGO. #everyone Drag race testing speed LUMA Versus BAGO. #everyone Facebook https://www.facebook.com > anne.abelardo.ablong > posts",
+    "url": "https://www.facebook.com/anne.abelardo.ablong/posts/drag-race-testing-speed-luma-versus-bagoeveryone/122252840402268162/",
+    "pass": 3
+   },
+   {
+    "quote": "Speedluma - Facebook Mar 24, 2026 · Speedluma. 2 followers. We are Speedluma, a leading B2B provider of complete elastomer additive manufacturing solutions, helping industrial customers...",
+    "url": "https://www.facebook.com/speedluma/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://speedluma.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://idtechproducts.com/ja/company/distributors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/speedluma/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://speedluma.com/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formnext.mesago.com/frankfurt/en/exhibitor-search.detail.html/speedluma-shanghaitechnology-co-ltd.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hid-labs.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.aliexpress.us/item/2251832663337105.html?gatewayAdapt=jpn2usa4itemAdapt&_randl_shipto=US",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.ruhm.co.jp/products/detail/5359",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://store.lantelno.jp/products/9",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.starvations.jp/shop/g/g25392312?ismodesmartphone=off&srsltid=AYCX9vIdVx3GNes3fW0VAOwvT-TRMLHKCYAePRaYX8ElfAOFa_6_4A7R",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.com/m/q2yfvebjn0",
+    "status": "http_429",
+    "method": "http"
+   },
+   {
+    "url": "https://www.poly-maker.jp/filament",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apple-tree.shop/?mode=cate&cbid=1729720&csid=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://speedluma.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://temposemi.com/buy-sell/contact-sales/japan-distributors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumitool.com/en/aboutus/sales-network/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ystl.jp/catalog/agency/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-partner.com/read/company-profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smoothsailingjapan.com/japan-partner-development/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://us.misumi-ec.com/product/promotion/maker/japanese-brands/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp-expansion.partners/services/sales-partner-distributor-search/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://affiliate.amazon.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shigoto.amazon.co.jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ssofaast-wms.amazon.co.jp/ap/signin?clientContext=358-3316384-7584014&openid.pape.max_auth_age=3600&openid.return_to=https%3A%2F%2Fssofaast-wms.amazon.co.jp%2Frosters&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=amzn_faast_privatepool_jp&openid.mode=checkid_setup&language=ja_JP&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.monotaro.com/ir/library/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://corp.monotaro.com/ir/irbackno.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E5%A3%81%E9%9D%A2%E5%8F%96%E3%82%8A%E4%BB%98%E3%81%91%E3%83%9D%E3%83%BC%E3%83%AB/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/300%CF%86%E3%82%B9%E3%83%91%E3%82%A4%E3%83%A9%E3%83%AB%E3%83%80%E3%82%AF%E3%83%88/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bullfincher.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Speed",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/top-lists/top-software-finance-companies-in-US",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hrgrapevine.com/us/content/article/2025-11-27-data-reveals-which-companies-are-getting-the-most-value-from-employees",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/anne.abelardo.ablong/posts/drag-race-testing-speed-luma-versus-bagoeveryone/122252840402268162/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/speedluma/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Speedluma 代理店",
+   "results": [
+    "https://speedluma.com/",
+    "https://idtechproducts.com/ja/company/distributors/",
+    "https://www.instagram.com/speedluma/",
+    "https://speedluma.com/contact/",
+    "https://www.promise.com/jp/Where2Buy",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=2551",
+    "https://usfl.com/mimiyori/news/138186",
+    "https://www.tamuracorp.com/products/agency/",
+    "https://wpiinc.com/ja/pages/distributors?srsltid=AYCX9vK5mHiKAe4MDdWJ5PEyj1asenNDz6_gaS2h5Hq2wuqHFeyipnTq"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Speedluma 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://formnext.mesago.com/frankfurt/en/exhibitor-search.detail.html/speedluma-shanghaitechnology-co-ltd.html",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://hid-labs.com/",
+    "https://greenluma.org/",
+    "https://bybyjapan.com/ja/relx-電子タバコ-ニコチン入り/",
+    "https://www.porsche.com/japan/jp/accessoriesandservice/vehicle-accessories/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Speedluma 日本 販売",
+   "results": [
+    "https://ja.aliexpress.com/item/32849651857.html",
+    "https://shop.ruhm.co.jp/products/detail/5359",
+    "https://store.lantelno.jp/products/9",
+    "https://www.starvations.jp/shop/g/g25392312?ismodesmartphone=off&srsltid=AYCX9vIdVx3GNes3fW0VAOwvT-TRMLHKCYAePRaYX8ElfAOFa_6_4A7R",
+    "https://west-omatsuri-onlinestore.jp/products/west-00049",
+    "https://store.takehands.jp/products/hn23912?srsltid=AYCX9vK0hqTNLWjAnUvNb4StNLkB_u1G0yRVKP6MR4QWAsYty-XKAmhH",
+    "https://sinn-japan.jp/product/japan-limited/144stsjub2",
+    "https://shop.exia-pub.co.jp/products/616124",
+    "https://www.go4worldbusiness.com/find?searchText=speedluma+(shanghai)technology+co.,+ltd",
+    "https://formnext.mesago.com/frankfurt/en/exhibitor-search.detail.html/speedluma-shanghaitechnology-co-ltd.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Speedluma フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://skhonpo.com/",
+    "https://shop.com/m/q2yfvebjn0",
+    "https://www.poly-maker.jp/filament",
+    "https://apple-tree.shop/?mode=cate&cbid=1729720&csid=0",
+    "https://store.sunlu.com/ja/collections/3d-printer-filament",
+    "https://jp.misumi-ec.com/vona2/s_cate/3d%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/?srsltid=AYCX9vL0BPruAuEMox6Gdj5wUg91jhrA9CPylEXfY0xp0oXrMCI-U96A",
+    "https://search.rakuten.co.jp/search/mall/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/",
+    "https://www.sengoku.co.jp/mod/sgk_cart/search.php?cid=5751",
+    "https://www.askul.co.jp/m/02-0205-0205004-3/",
+    "https://fantist.com/articles/1092"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Speedluma Japan distributor",
+   "results": [
+    "https://speedluma.com/",
+    "https://temposemi.com/buy-sell/contact-sales/japan-distributors/",
+    "https://www.sumitool.com/en/aboutus/sales-network/",
+    "https://www.ystl.jp/catalog/agency/index.html",
+    "https://www.susumu.co.jp/en/network/sales-offices/",
+    "https://quspin.com/international-distributors/",
+    "https://reimax.co.jp/dealers.html",
+    "https://k-speed.com/en/pages/dealers?srsltid=AYCX9vIdawH4KWL39p1OY1aOuPzNU6soYOGc45ULX__L2_Lpc3wZPMfY",
+    "https://speedluma.com/contact/",
+    "https://lumaiii.com/distributors/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Speedluma distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.japan-partner.com/read/company-profile.html",
+    "https://smoothsailingjapan.com/japan-partner-development/",
+    "https://us.misumi-ec.com/product/promotion/maker/japanese-brands/",
+    "https://jp-expansion.partners/services/sales-partner-distributor-search/",
+    "https://www.fenetre.co.jp/services/distributor-partner-search",
+    "https://temposemi.com/buy-sell/contact-sales/japan-distributors/",
+    "https://www.reddit.com/r/SkyLine/comments/qbsugj/anyone_here_have_experience_importing_a_vehicle/",
+    "https://everything-pr.com/ten-notable-digital-marketing-agencies-in-japan",
+    "https://autoaddictionjapan.com/en/companyprofile/",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp Speedluma",
+   "results": [
+    "https://vendorcentral.amazon.co.jp/",
+    "https://affiliate.amazon.co.jp/",
+    "https://shigoto.amazon.co.jp/",
+    "https://ssofaast-wms.amazon.co.jp/",
+    "https://www.amazon.co.jp/Mila-Owen-ミラオーウェン-09WND261014-アンサンブルペプラムシアーポロニットカーディガン09WND261014レディース/dp/B0GBMWYFSN",
+    "https://business.amazon.co.jp/ja/login",
+    "https://www.amazon.co.jp/anan-アンアン-2026-No-2518-カラダにいいもの大賞2026・秋！／田中樹/dp/B0HK75JYV6"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Speedluma",
+   "results": [
+    "https://corp.monotaro.com/ir/library/index.html",
+    "https://corp.monotaro.com/ir/irbackno.html",
+    "https://www.monotaro.com/k/store/壁面取り付けポール/",
+    "https://www.monotaro.com/k/store/300φスパイラルダクト/",
+    "https://procurement.monotaro.com/columns/columns-monotaro-contract/",
+    "https://www.monotaro.com/k/store/食品用+アルコールスプレー/",
+    "https://www.monotaro.com/k/store/コンセント+抜け+防止+カバー/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Speedluma employees revenue parent company",
+   "results": [
+    "https://bullfincher.io/",
+    "https://growjo.com/company/Speed",
+    "https://www.zoominfo.com/top-lists/top-software-finance-companies-in-US",
+    "https://www.hrgrapevine.com/us/content/article/2025-11-27-data-reveals-which-companies-are-getting-the-most-value-from-employees",
+    "https://www.staffingindustry.com/news/global-daily-news/largest-us-it-staffing-firms-generate-274b-in-revenue",
+    "https://getlatka.com/companies/speedcommerce.com",
+    "https://www.konaequity.com/company/sectorlink-llc-4019804284/",
+    "https://www.owler.com/company/speedgroup",
+    "https://www.tryspecter.com/companies",
+    "https://formnext.mesago.com/frankfurt/en/exhibitor-search.detail.html/speedluma-shanghaitechnology-co-ltd.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Speedluma",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Speedluma",
+   "results": [
+    "https://x.com/",
+    "https://about.x.com/en",
+    "https://help.x.com/en",
+    "https://help.x.com/en/using-x/about-grok",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/LumaLabsAI/status/2046722038606540807",
+    "https://x.com/RyanAFournier/status/2117296789443240367"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Speedluma",
+   "results": [
+    "https://cn.linkedin.com/in/yilin-xiong-58a0ab236",
+    "https://www.linkedin.com/in/rgalvin",
+    "https://www.linkedin.com/posts/grantslee_1-billion-images-gammas-image-models-activity-7351990898789920768-yYPe",
+    "https://www.linkedin.com/pub/dir/David/Ma/cn-0-%E4%B8%AD%E5%9B%BD",
+    "https://www.linkedin.com/in/sanghamitra-deb-ml",
+    "https://www.linkedin.com/in/hongboshi",
+    "https://www.linkedin.com/in/justin-carlson-8943578",
+    "https://www.linkedin.com/in/dr-monir-haggag-648b487a",
+    "https://www.linkedin.com/pub/dir/Lewis/Lin",
+    "https://www.linkedin.com/posts/speedluma_we-arespeedluma-a-leading-b2b-provider-activity-7445384913585094656-xUU0"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Speedluma",
+   "results": [
+    "https://www.facebook.com/anne.abelardo.ablong/posts/drag-race-testing-speed-luma-versus-bagoeveryone/122252840402268162/",
+    "https://www.facebook.com/groups/621702085090955/posts/2167904920470656/",
+    "https://www.facebook.com/speedluma/",
+    "https://www.facebook.com/SpeedWobbleSF/",
+    "https://www.facebook.com/",
+    "https://www.facebook.com/thesecretweaponsource/",
+    "https://business.facebook.com/groups/openmicupdate/",
+    "https://www.facebook.com/profile.php/?id=61578056684197",
+    "https://www.facebook.com/LumaTouch/videos/adjust-the-speed-of-your-clip-with-multiple-keyframes-and-auto-easing-in-lumafus/1553658648564559/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Speedluma note 社長",
+   "results": [
+    "https://note.com/sadaaki",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.youtube.com/watch?v=xPafg3yYObE",
+    "https://diamond.jp/articles/-/388572",
+    "https://x.com/sadaaki",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://note.com/isao_lab/all",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://froggy.smbcnikko.co.jp/66481/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Speedluma X 投稿",
+   "results": [
+    "https://speedluma.com/",
+    "https://x.com/Evo/status/1952514533077168603",
+    "https://www.instagram.com/speedluma/",
+    "https://speedluma.com/contact/",
+    "https://www.youtube.com/watch?v=m0UuX5AAPJM",
+    "https://x.com/ishowspeedsui",
+    "https://www.reddit.com/r/PS5_Jailbreak/comments/1uhfusr/greatest_scene_member_speed007_has_been_banned_on/?tl=ja",
+    "https://www.youtube.com/watch?v=a1XxNHdOz5k",
+    "https://help.luma.com/p/rich-text-on-luma"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）"
+ }
+}

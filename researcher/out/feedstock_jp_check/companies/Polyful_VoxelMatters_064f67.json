@@ -1,0 +1,518 @@
+{
+ "name": "Polyful — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:materials",
+ "researched_at": "2026-11-09T23:50:38.199934+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Federico Sher - Co-founder of VoxelMatters | LinkedInFrancesco Pulimeni - Co-founder and CRO at VoxelMatters ...Qifan Nie, Ph.D. - Chief Engineer at Hangzhou POLYFUL ...Tess Boissonneault - Freelance Content Writer, Editor | LinkedInPublicación de Hangzhou Polyful Advanced Material Co., Ltd. VoxelMatters is a leading market research and media company specializing in the additive manufacturing indu",
+    "url": "https://uk.linkedin.com/in/federico-sher",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookHangzhou Polyful Advanced Material Co. Ltd./Plastic ...VoxelMatters on Reels - FacebookFacebookAdditive manufacturing is creating new solutions for hard-to ...Hangzhou Polyful Advanced Material Co. Ltd./Plastic ...VoxelMatters - The lessons of Artemis. The program cost ... Unlock the Future of Metal Additive Manufacturing with VoxelMatters! VoxelMatters Research has kicked o",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/materials/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fabbaloo.com/news/voxelmatters-reveals-top-ten-polymer-3d-printing-companies-dominating-the-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.group/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/gavugavugavu123/status/2102199549704257741",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.instagram.com/antenna_ts/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.city.edogawa.tokyo.jp/shouhisya_center/keihatsu/0205netitiran3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/p/DepSc0jCQy0/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.aliexpress.us/item/3256809660336258.html?gatewayAdapt=jpn2usa4itemAdapt&_randl_shipto=US",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://creator.holoearth.com/shop/products/1021609",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kkday.com/ja/product/819497?srsltid=AYCX9vL762xmq2N0xonRCB9sQWHTc2vEB2Hdp4JLS_tkrIWLweZsfYOI",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gamsgo.com/ja/shop/816e4a6e-e9bd-0022-ac36-0c7d6e358691",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.poly-maker.jp/filament",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/collections/filament",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/s/q-3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8%20%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/?srsltid=AYCX9vI1tolY3T5FJA5z7q5AfkggJSp32kfV2-rRTBmMQv2ayORj8CpK",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.misumi-ec.com/vona2/s_cate/3d%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/?srsltid=AYCX9vLe5-4zckvL8aJ0TWYuaSTrfQErqlbtrTbmJVV-uGEF_7F2dUue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/global-am-hubs/japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/methodology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/stores/%E3%82%B3%E3%83%BC%E3%83%81/page/0B7ABB90-8D18-4DA8-A1F8-ED8E7CF10A4A",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ssofaast-wms.amazon.co.jp/ap/signin?clientContext=358-7731528-8271019&openid.pape.max_auth_age=3600&openid.return_to=https%3A%2F%2Fssofaast-wms.amazon.co.jp%2Frosters&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=amzn_faast_privatepool_jp&openid.mode=checkid_setup&language=ja_JP&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/7366/7825/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E3%81%82%E3%81%8A%E3%82%8A%E3%82%B9%E3%83%86%E3%83%83%E3%83%97/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/1766/2356/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-upside-down-of-polymer-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fabbaloo.com/news/voxelmatters-reveals-top-ten-polymer-3d-printing-companies-dominating-the-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://uk.linkedin.com/in/federico-sher",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Polyful — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.directory/company-category/materials/",
+    "https://www.fabbaloo.com/news/voxelmatters-reveals-top-ten-polymer-3d-printing-companies-dominating-the-market",
+    "https://www.voxelmatters.group/",
+    "https://www.voxelmatters.com/category/3d-printing-services/am-factories/",
+    "https://www.voxelfactory.com/?srsltid=AYCX9vIrQWHjBN5IuFaB_hqHiHMnMikMnA_ziRciL8c73wc45i-vIThD",
+    "https://www.voxelmatters.directory/",
+    "https://www.thorlabs.co.jp/ja/distributors",
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://www.polyful.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Polyful — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://x.com/gavugavugavu123/status/2102199549704257741",
+    "https://www.instagram.com/antenna_ts/",
+    "https://www.city.edogawa.tokyo.jp/shouhisya_center/keihatsu/0205netitiran3.html",
+    "https://www.instagram.com/p/DepSc0jCQy0/",
+    "https://voxel.shop/",
+    "https://www.porsche.com/japan/jp/accessoriesandservice/vehicle-accessories/",
+    "https://www.loewe.com/jpn/ja/storeDetails?StoreID=JP1081107"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Polyful — VoxelMatters 日本 販売",
+   "results": [
+    "https://ja.aliexpress.com/item/1005009846651010.html",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://www.kkday.com/ja/product/819497?srsltid=AYCX9vL762xmq2N0xonRCB9sQWHTc2vEB2Hdp4JLS_tkrIWLweZsfYOI",
+    "https://www.gamsgo.com/ja/shop/816e4a6e-e9bd-0022-ac36-0c7d6e358691",
+    "https://ginzaxiaoma.com/ja/product/1011505?srsltid=AYCX9vIKq5jzJrquAPW7Of-C9Wxol2uXXGUBoLHhPQXW_G49kfg-33nb",
+    "https://xf-360.com/mall/goods/2580405",
+    "https://rtrp.jp/items/25059134/",
+    "https://1801889e95b1f9bf.kinxzone.com/shop/products/products-detail.do?prod_idx=3420",
+    "https://develop.success-corp.co.jp/products/detail/64050/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Polyful — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.poly-maker.jp/filament",
+    "https://skhonpo.com/collections/filament",
+    "https://www.monotaro.com/s/q-3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8%20%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/?srsltid=AYCX9vI1tolY3T5FJA5z7q5AfkggJSp32kfV2-rRTBmMQv2ayORj8CpK",
+    "https://jp.misumi-ec.com/vona2/s_cate/3d%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/?srsltid=AYCX9vLe5-4zckvL8aJ0TWYuaSTrfQErqlbtrTbmJVV-uGEF_7F2dUue",
+    "https://item.rakuten.co.jp/auc-ufigure/polylite-petg/",
+    "https://i-maker.jp/i/polylite-petg?srsltid=AYCX9vIxB6Z90s67l2-meQ2btEzgFcNBEMBp5x7qg3GHdaw5GAscf9Ll",
+    "https://www.amazon.co.jp/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E7%B4%A0%E6%9D%90/b?ie=UTF8&node=3489859051",
+    "https://jp.rs-online.com/web/c/computing-peripherals/3d-printing-scanning/3d-printing-materials/?srsltid=AYCX9vIlVdJpPdjCROheRFj6zjV69FRVYoArXHNc6UukHH3uaNh0fVaP",
+    "https://www.polymaker.co.jp/",
+    "https://shop.croccha.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Polyful — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.com/category/global-am-hubs/japan/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.upnano.com/distributors/",
+    "https://nano3dprint.com/2023/06/13/nano3dprint-announces-new-japanese-distribution-channel/?srsltid=AYCX9vIA12UjGyVpGGNPkXPRDoVI7eoi4vV4aruE3qj8qGTEraaPlhxO",
+    "https://www.fabbaloo.com/news/voxelmatters-reveals-top-ten-polymer-3d-printing-companies-dominating-the-market",
+    "https://partners.solize.com/en/manufacturing",
+    "https://www.exone.com/en/about-us/locations/",
+    "https://japanesedistributors.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Polyful — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.voxelmatters.directory/",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://formlabs.com/company/press/formlabs-extends-global-presence-japan/",
+    "https://www.upnano.com/distributors/",
+    "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "https://3dprint.com/328482/3d-printed-packaging-oem-xtpl-adds-another-japanese-customer/",
+    "https://partners.solize.com/en/manufacturing",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:amazon.co.jp Polyful — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/stores/コーチ/page/0B7ABB90-8D18-4DA8-A1F8-ED8E7CF10A4A",
+    "https://r.amazon.co.jp/",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://ssofaast-wms.amazon.co.jp/",
+    "https://business.amazon.co.jp/ja/solutions/payment-options/pay-by-invoice",
+    "https://business.amazon.co.jp/ja/login",
+    "https://www.amazon.co.jp/タカラトミー-トランスフォーマー-ctc技術実証機仕様-takara-tomy/dp/b0hq2t22vm"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Polyful — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/p/7366/7825/",
+    "https://www.monotaro.com/k/store/あおりステップ/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/p/1766/2356/",
+    "https://www.monotaro.com/g/01201596/",
+    "https://www.monotaro.com/g/02779452/",
+    "https://www.monotaro.com/g/00497458/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Polyful — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/the-upside-down-of-polymer-additive-manufacturing/",
+    "https://www.fabbaloo.com/news/voxelmatters-reveals-top-ten-polymer-3d-printing-companies-dominating-the-market",
+    "https://www.voxelmatters.report/",
+    "https://www.voxelmatters.directory/",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://revenuebase.ai/companies/3d-printing-and-additive-manufacturing-companies/united-states",
+    "https://www.investopedia.com/articles/investing/081515/three-biggest-3d-printing-companies.asp",
+    "https://www.linkedin.com/posts/voxelmatters_additivemanufacturing-3dprinting-ebook-activity-7516128261437845504-opWf",
+    "https://pitchbook.com/profiles/company/495811-99"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Polyful — VoxelMatters",
+   "results": [
+    "https://note.com/h16j079b/n/naecf854186aa?hl=en",
+    "https://note.com/koga_musi164/n/neae57a19e934?hl=en",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/katamimi_ns_kawa/n/n04bc54643b3b?hl=en",
+    "https://note.com/katamimi_ns_kawa/n/nbebe2df72854?hl=en",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Polyful — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/PolyfulP",
+    "https://x.com/TinaLiHappy123",
+    "https://x.com/isaiahrmartin/status/2117871814625972663",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/PicturesFoIder/status/2118185223867560198",
+    "https://x.com/AriFleischer/status/2118099169566986625"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Polyful — VoxelMatters",
+   "results": [
+    "https://fr.linkedin.com/in/jessicanacca",
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/posts/voxelmatters_voxelmatters-polymer-am-focus-2025-ebook-activity-7325913599795769346-QYyd",
+    "https://uk.linkedin.com/in/federico-sher",
+    "https://it.linkedin.com/in/francescopulimeni",
+    "https://cn.linkedin.com/in/qifannie",
+    "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "https://pe.linkedin.com/posts/hangzhou-polyful-advanced-material-ltd_additivemanufacturing-3dprinting-3dprintingfilament-activity-7295316875490586625-khxB"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:facebook.com Polyful — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/people/Hangzhou-Polyful-Advanced-Material-Co-LtdPlasticBiodegradable-Products/100083041916857/",
+    "https://www.facebook.com/VoxelMatters/videos/2155326438344264/",
+    "https://www.facebook.com/Hangzhou-Polyful-Advanced-Material-Co-LtdPlasticBiodegradable-Products-103561292423591/photos/103562335756820/",
+    "https://www.facebook.com/Hangzhou-Polyful-Advanced-Material-Co-LtdPlasticBiodegradable-Products-103561292423591/photos/103562685756785/",
+    "https://www.facebook.com/VoxelMatters/posts/the-lessons-of-artemisthe-program-cost-over-93-billion-and-sent-humans-back-to-t/1553291466801896/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-creating-new-solutions-for-hard-to-source-replacement-/893346590210455/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Polyful — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/",
+    "https://www.voxelmatters.group/about/",
+    "https://www.linkedin.com/posts/voxelmatters_additivemanufacturing-3dprinting-ebook-activity-7516128261437845504-opWf",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.voxelmatters.com/author/ben-oneill/",
+    "https://note.com/nagoya_ura/n/nf2fdc893b5a2?hl=en",
+    "https://www.voxelmatters.directory/company-category/association/",
+    "https://www.voxelmatters.report/methodology/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Polyful — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.voxelmatters.report/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.fabbaloo.com/news/voxelmatters-reveals-top-ten-polymer-3d-printing-companies-dominating-the-market",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.voxelmatters.com/events/ams-x/",
+    "https://www.youtube.com/watch?v=UYy82C0NPI8",
+    "https://faculty.sustech.edu.cn/wp-content/uploads/2019/10/2021022315575234.pdf",
+    "https://x.com/voxelmatters"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）"
+ }
+}

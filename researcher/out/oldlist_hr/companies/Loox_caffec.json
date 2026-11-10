@@ -1,0 +1,1790 @@
+{
+ "name": "Loox",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜状態なし",
+ "researched_at": "2026-11-10T00:19:42.543770+00:00",
+ "official_url": "https://loox.app",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "1. Seed Round",
+    "value": "01-Mar-2016 $50K $50K  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/149137-57",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "label": "Constant Contact",
+    "value": "Private Equity-Backed Waltham, MA",
+    "url": "https://pitchbook.com/profiles/company/149137-57",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2016",
+    "url": "https://startupintros.com/orgs/loox",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "16 Klausner St, Tel Aviv, Tel Aviv, Israel",
+    "url": "https://startupintros.com/orgs/loox",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Join 130,000+ brands building trust with the strongest form of social proof.",
+    "url": "https://loox.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Loox optimizes every step of your review collection with smartly timed requests and proven incentives, maximizing visual review submissions.",
+    "url": "https://loox.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Gift products to our vetted community",
+    "url": "https://loox.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Get high-quality video reviews ready to publish across product pages, ads, and social.",
+    "url": "https://loox.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Showcase your glowing reviews on leading channels and take your social proof with you, everywhere you go.",
+    "url": "https://loox.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Get full programmatic access to your reviews. Create custom widgets and headless storefronts, sync with your tech stack, and automate workflows with event-driven webhooks.",
+    "url": "https://loox.app/",
+    "pass": 1
+   },
+   {
+    "quote": "From world-class support to product education, our team is here around the clock to help you grow and learn.",
+    "url": "https://loox.app/",
+    "pass": 1
+   },
+   {
+    "quote": "How Volant went from $0 to $2M in 1 year using social proof",
+    "url": "https://loox.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Why Shopify leaders prefer Loox",
+    "url": "https://loox.app/partners",
+    "pass": 1
+   },
+   {
+    "quote": "All Loox partners receive tailored training and top-tier client support.",
+    "url": "https://loox.app/partners",
+    "pass": 1
+   },
+   {
+    "quote": "From custom widgets to backend integrations and automated workflows, the Loox API and webhooks provide the complete infrastructure to turn rich review data into fully customized brand experiences.",
+    "url": "https://loox.app/partners",
+    "pass": 1
+   },
+   {
+    "quote": "High-caliber agencies partner with Loox to successfully scale their clients’ business through social proof.",
+    "url": "https://loox.app/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Our esteemed ecosystem partners enjoy various product integration options and unique co-marketing opportunities.",
+    "url": "https://loox.app/partners",
+    "pass": 1
+   },
+   {
+    "quote": "the Loox Partner Program",
+    "url": "https://loox.app/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Bro Glo: From TikTok sensation to diversified social proof marketing strategy",
+    "url": "https://loox.app/happy-customers",
+    "pass": 1
+   },
+   {
+    "quote": "From 0 to 8-figure brand in 18 months with organic social proof marketing",
+    "url": "https://loox.app/happy-customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Volant went from $0 to $2M in 1 year using social proof",
+    "url": "https://loox.app/happy-customers",
+    "pass": 1
+   },
+   {
+    "quote": "How City Bonfires rapidly grew its brand through photo-first product reviews",
+    "url": "https://loox.app/happy-customers",
+    "pass": 1
+   },
+   {
+    "quote": "Loox reviews and referrals are one of our primary marketing channels.",
+    "url": "https://loox.app/happy-customers",
+    "pass": 1
+   },
+   {
+    "quote": "We never wanted to be an ad-driven company. Our athletes are our best advertisement and we’re very proud of this!\"",
+    "url": "https://loox.app/happy-customers",
+    "pass": 1
+   },
+   {
+    "quote": "“I use Loox product reviews across all of my marketing channels, including social, blog posts, email, and paid ads.",
+    "url": "https://loox.app/happy-customers",
+    "pass": 1
+   },
+   {
+    "quote": "They play a significant role in attracting new customers, strengthening our brand presence, and increasing loyalty.",
+    "url": "https://loox.app/happy-customers",
+    "pass": 1
+   },
+   {
+    "quote": "\"Loox is probably one of the best looking review applications out there.",
+    "url": "https://loox.app/happy-customers",
+    "pass": 1
+   },
+   {
+    "quote": "social proof marketing",
+    "url": "https://loox.app/happy-customers",
+    "pass": 1
+   },
+   {
+    "quote": "Reviews on product bundles",
+    "url": "https://loox.app/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Import from spreadsheet",
+    "url": "https://loox.app/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "AliExpress scanned reviews",
+    "url": "https://loox.app/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "AliExpress photo selection",
+    "url": "https://loox.app/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "AliExpress products to import",
+    "url": "https://loox.app/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Anti-theft protection",
+    "url": "https://loox.app/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We believe in making a positive impact. Therefore, we encourage our employees to donate to non-profit organizations they believe in.",
+    "url": "https://loox.app/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Is Loox compliant with data privacy laws?",
+    "url": "https://loox.app/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Prioritizing privacy and compliance is something that we take seriously. Loox is committed to protecting the rights of merchants and their customers, and is fully compliant with data protection and privacy regulation including GDPR and CPRA.",
+    "url": "https://loox.app/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Loox reviews and referrals are one of our primary marketing channels.",
+    "url": "https://loox.app/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We never wanted to be an ad-driven company. Our athletes are our best advertisement and we’re very proud of this!\"",
+    "url": "https://loox.app/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "“I use Loox product reviews across all of my marketing channels, including social, blog posts, email, and paid ads.",
+    "url": "https://loox.app/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "They play a significant role in attracting new customers, strengthening our brand presence, and increasing loyalty.",
+    "url": "https://loox.app/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "\"Loox is probably one of the best looking review applications out there.",
+    "url": "https://loox.app/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "social proof marketing.",
+    "url": "https://loox.app/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "“Loox is like a machine that works on its own. We involved the referral program at an early stage and since then it's just doing its job and that's how it should be. It's runs like clockwork.",
+    "url": "https://loox.app/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Loox reviews and referrals are one of our primary marketing channels.",
+    "url": "https://loox.app/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "We never wanted to be an ad-driven company. Our athletes are our best advertisement and we’re very proud of this!\"",
+    "url": "https://loox.app/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "“I use Loox product reviews across all of my marketing channels, including social, blog posts, email, and paid ads.",
+    "url": "https://loox.app/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "They play a significant role in attracting new customers, strengthening our brand presence, and increasing loyalty.",
+    "url": "https://loox.app/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "\"Loox is probably one of the best looking review applications out there.",
+    "url": "https://loox.app/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "“Reviews can help two types of customers by speaking directly to their needs. For instance, a review saying 'this is the best product I've tried' resonates with the solution-aware customer. On the other hand, a review highlighting how the product solves a problem appeals to the problem-aware customer. We use Loox’s built-in Featured Reviews solution to address this.”",
+    "url": "https://loox.app/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Bro Glo: From TikTok sensation to diversified social proof marketing strategy",
+    "url": "https://loox.app/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "“The photo, video, and text reviews that we collect through Loox are really helpful if someone is on the fence about trying it, because these are the things that pushes them over the edge to give us a try.”",
+    "url": "https://loox.app/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "From 0 to 8-figure brand in 18 months with organic social proof marketing",
+    "url": "https://loox.app/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "“We’ve seen massive impact on our conversion rate as a result of using Loox to build powerful social proof.”",
+    "url": "https://loox.app/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How Volant went from $0 to $2M in 1 year using social proof",
+    "url": "https://loox.app/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "“Loox is great because of its photo-first focus. We have a very visual product and Loox helps us show how good it looks and a ton of social proof. This is a game-changer for a business like ours.”",
+    "url": "https://loox.app/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "“Before implementing Loox, Geek Tropical often had to field queries from potential customers questioning the brand's authenticity. However, the tide changed once they incorporated social proof through photo and video reviews. ”",
+    "url": "https://loox.app/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How City Bonfires rapidly grew its brand through photo-first product reviews",
+    "url": "https://loox.app/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "“I use Loox product reviews across all of my marketing channels, including social, blog posts, email, and paid ads. They play a significant role in attracting new customers, strengthening our brand presence, and increasing loyalty.”",
+    "url": "https://loox.app/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Head of marketing, City Bonfires",
+    "url": "https://loox.app/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "social proof marketing",
+    "url": "https://loox.app/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Explore the latest announcements, product updates, and more",
+    "url": "https://loox.app/get-in-touch",
+    "pass": 1
+   },
+   {
+    "quote": "A graduation cap icon representing educational video tutorials",
+    "url": "https://loox.app/get-in-touch",
+    "pass": 1
+   },
+   {
+    "quote": "Video tutorials, tips, and tricks to get the most from Loox",
+    "url": "https://loox.app/get-in-touch",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "From homepage to checkout, Loox widgets blend in beautifully with your brand and stand out where it counts. Turn every review into a seamless part of your store.",
+    "url": "https://loox.app/",
+    "pass": 1
+   },
+   {
+    "quote": "High-caliber agencies partner with Loox to successfully scale their clients’ business through social proof.",
+    "url": "https://loox.app/partners",
+    "pass": 1
+   },
+   {
+    "quote": "the Loox Partner Program",
+    "url": "https://loox.app/partners",
+    "pass": 1
+   },
+   {
+    "quote": "“Loox is like a machine that works on its own. We involved the referral program at an early stage and since then it's just doing its job and that's how it should be. It's runs like clockwork.",
+    "url": "https://loox.app/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Fruits, Ice, Oreos, and their referral program!",
+    "url": "https://loox.app/success-stories/blendjet",
+    "pass": 1
+   },
+   {
+    "quote": "Besides collecting over 200K reviews—most of them featuring photos and videos—they've added over $7.5M in revenue on autopilot, just from their referral program.",
+    "url": "https://loox.app/success-stories/blendjet",
+    "pass": 1
+   },
+   {
+    "quote": "So they thought about starting a referral program. Happy customers should get a reward for bringing in their friends.",
+    "url": "https://loox.app/success-stories/blendjet",
+    "pass": 1
+   },
+   {
+    "quote": "As of late 2024, over $7.5M in additional revenue speaks for itself—and they haven’t even touched their referral program since then!",
+    "url": "https://loox.app/success-stories/blendjet",
+    "pass": 1
+   },
+   {
+    "quote": "Now, if you want to use the same referral program as BlendJet does (and Sennheiser, and Happy Way, and many more of Loox’s 100K+ Shopify merchants), all you have to do is:",
+    "url": "https://loox.app/success-stories/blendjet",
+    "pass": 1
+   },
+   {
+    "quote": "Click here to test your own referral program free for 14 days",
+    "url": "https://loox.app/success-stories/blendjet",
+    "pass": 1
+   },
+   {
+    "quote": "You’ll not just get a referral program, but also boost your store’s social proof by collecting visual product reviews from your customers. BlendJet collected more than 200,000 photo and video reviews so far with Loox (As of late 2024).",
+    "url": "https://loox.app/success-stories/blendjet",
+    "pass": 1
+   },
+   {
+    "quote": "By activating Loox Referrals inside the Loox app, BlendJet launched a simple, automated referral program with the default Loox design and copy. The result was over $7.5M in additional referral revenue and more than 200K Loox reviews, while maintaining a 4.9/5 average star rating and creating a set-and-forget system that continued to drive revenue.",
+    "url": "https://www.casestudies.com/company/loox/case-study/how-blendjet-created-enormous-demand-with-product-reviews",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "From homepage to checkout, Loox widgets blend in beautifully with your brand and stand out where it counts. Turn every review into a seamless part of your store.",
+    "url": "https://loox.app/",
+    "pass": 1
+   },
+   {
+    "quote": "For each new customer that you bring, get rewarded with a competitive revenue share.",
+    "url": "https://loox.app/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Dedicated portal to manage all of your referrals and revenue.",
+    "url": "https://loox.app/partners",
+    "pass": 1
+   },
+   {
+    "quote": "From YouTube to TikTok, e-commerce influencers partner with Loox to easily generate referral revenue and support their audience’s needs.",
+    "url": "https://loox.app/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Loox is billed as part of Shopify’s 30-day subscription billing period. There’s no annual commitment and you can cancel your subscription at any time.",
+    "url": "https://loox.app/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We believe in making a positive impact. Therefore, we encourage our employees to donate to non-profit organizations they believe in.",
+    "url": "https://loox.app/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Loox will match any donations made by our employees for good causes, up to 1,000 NIS per year. Together, we can contribute to meaningful change.",
+    "url": "https://loox.app/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Besides collecting over 200K reviews—most of them featuring photos and videos—they've added over $7.5M in revenue on autopilot, just from their referral program.",
+    "url": "https://loox.app/success-stories/blendjet",
+    "pass": 1
+   },
+   {
+    "quote": "Rapidly rising customer acquisition costs.",
+    "url": "https://loox.app/success-stories/blendjet",
+    "pass": 1
+   },
+   {
+    "quote": "And because of that, Ryan and John didn’t want to rely on paid acquisition anymore. They want their business to be independent and equipped with tools that aren’t affected by big tech companies’ moods.",
+    "url": "https://loox.app/success-stories/blendjet",
+    "pass": 1
+   },
+   {
+    "quote": "As of late 2024, over $7.5M in additional revenue speaks for itself—and they haven’t even touched their referral program since then!",
+    "url": "https://loox.app/success-stories/blendjet",
+    "pass": 1
+   },
+   {
+    "quote": "average extra revenue",
+    "url": "https://loox.app/success-stories/blendjet",
+    "pass": 1
+   },
+   {
+    "quote": "BlendJet’s four-step strategy to add revenue (on auto-pilot)",
+    "url": "https://loox.app/success-stories/blendjet",
+    "pass": 1
+   },
+   {
+    "quote": "These four simple steps made BlendJet over 7.5M in extra revenue. And it continues to grow.",
+    "url": "https://loox.app/success-stories/blendjet",
+    "pass": 1
+   },
+   {
+    "quote": "(and add extra revenue).",
+    "url": "https://loox.app/success-stories/blendjet",
+    "pass": 1
+   },
+   {
+    "quote": "When asked what their favorite part of leading a company like Volant is, they replied that they love seeing how much they delight their customers through their reviews and find it to be a very rewarding experience that humanizes the whole aspect of doing business online.",
+    "url": "https://loox.app/success-stories/volant",
+    "pass": 1
+   },
+   {
+    "quote": "So, to recap: In around one year, Volant launched in 11 European markets, has done over $2M in revenue while staying profitable, have become a 5x Shopify Plus store all while maintaining an average 4.7/5 review star rating from their customers across their over 4,700 reviews (and counting)! Now that’s no easy feat.",
+    "url": "https://loox.app/success-stories/volant",
+    "pass": 1
+   },
+   {
+    "quote": "The fact of the matter is that everyone starts at $0 revenue, 0 followers, 0 sales, 0 customers and 0 product reviews. The silver lining is that it can only go up from there! We hope this case study inspired you to get started and try things out. Who knows, a year later you may be looking back on that one decision that changed your life.",
+    "url": "https://loox.app/success-stories/volant",
+    "pass": 1
+   },
+   {
+    "quote": "Handmade in Maryland and shipped across the USA and Canada, City Bonfires has created a whole new experience for those exploring the outdoors or sitting out on their balcony/porch. From CNBC and the Today Show to yahoo! and Bloomberg, some of the largest news channels have covered their impressive, rapid growth. Read on to learn how Loox has been part of their splendid success.",
+    "url": "https://loox.app/success-stories/city-bonfires",
+    "pass": 1
+   },
+   {
+    "quote": "In total, since installing Loox in August 2020, City Bonfires has been able to generate $130.7K in Loox-driven revenue.",
+    "url": "https://loox.app/success-stories/city-bonfires",
+    "pass": 1
+   },
+   {
+    "quote": "We love our new city bonfire! I was so happy that it arrived on Christmas Eve!!! Just in time to give to my husband for Christmas.",
+    "url": "https://loox.app/success-stories/city-bonfires",
+    "pass": 1
+   },
+   {
+    "quote": "島根富士通は、富士通クライアントコンピューティング（FCCL）の子会社で、富士通ブランドのPCの生産拠点だ",
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2309/13/news047.html",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: BlendJet achieves $7.5M+ in referral revenue with Loox | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/loox/case-study/how-blendjet-created-enormous-demand-with-product-reviews",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: BlendJet achieves $7.5M+ in referral revenue with Loox",
+    "url": "https://www.casestudies.com/company/loox/case-study/how-blendjet-created-enormous-demand-with-product-reviews",
+    "pass": 3
+   },
+   {
+    "quote": "BlendJet, the portable blender brand founded by Ryan Pamplin and John Zheng, wanted to reduce dependence on paid acquisition as customer acquisition costs rose and ad platforms became less predictable. The company was already using Loox to collect photo and video reviews and saw an opportunity to turn satisfied customers into a new growth channel.",
+    "url": "https://www.casestudies.com/company/loox/case-study/how-blendjet-created-enormous-demand-with-product-reviews",
+    "pass": 3
+   },
+   {
+    "quote": "By activating Loox Referrals inside the Loox app, BlendJet launched a simple, automated referral program with the default Loox design and copy. The result was over $7.5M in additional referral revenue and more than 200K Loox reviews, while maintaining a 4.9/5 average star rating and creating a set-and-forget system that continued to drive revenue.",
+    "url": "https://www.casestudies.com/company/loox/case-study/how-blendjet-created-enormous-demand-with-product-reviews",
+    "pass": 3
+   },
+   {
+    "quote": "Stamped empowers over 75,000 brands to drive faster, more efficient growth with their customers with Reviews and Loyalty. They help brands increase user engagement, boost revenue, and drive customer retention …",
+    "url": "https://www.featuredcustomers.com/vendor/loox/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/loox/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Loox has 37 total employees.",
+    "url": "https://pitchbook.com/profiles/company/149137-57",
+    "pass": 3
+   },
+   {
+    "quote": "What is Loox’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/149137-57",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Loox is",
+    "url": "https://pitchbook.com/profiles/company/149137-57",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Every interaction, from automatic emails to beautiful widgets, is optimized to turn browsers into buyers.",
+    "url": "https://loox.app/",
+    "pass": 1
+   },
+   {
+    "quote": "“I use Loox product reviews across all of my marketing channels, including social, blog posts, email, and paid ads.",
+    "url": "https://loox.app/happy-customers",
+    "pass": 1
+   },
+   {
+    "quote": "Review request emails",
+    "url": "https://loox.app/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Customize email appearance",
+    "url": "https://loox.app/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced email customization",
+    "url": "https://loox.app/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "You bet! Our dedicated support team works around the clock. They’re on hand to answer all your questions, even if you haven’t signed up yet. You can email us at",
+    "url": "https://loox.app/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "“I use Loox product reviews across all of my marketing channels, including social, blog posts, email, and paid ads.",
+    "url": "https://loox.app/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "“I use Loox product reviews across all of my marketing channels, including social, blog posts, email, and paid ads.",
+    "url": "https://loox.app/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "“I use Loox product reviews across all of my marketing channels, including social, blog posts, email, and paid ads. They play a significant role in attracting new customers, strengthening our brand presence, and increasing loyalty.”",
+    "url": "https://loox.app/success-stories",
+    "pass": 1
+   },
+   {
+    "quote": "An envelope icon representing email design ideas",
+    "url": "https://loox.app/get-in-touch",
+    "pass": 1
+   },
+   {
+    "quote": "Get some ideas for branding and customizing your Loox emails",
+    "url": "https://loox.app/get-in-touch",
+    "pass": 1
+   },
+   {
+    "quote": "An envelope icon representing email design ideas",
+    "url": "https://loox.app/case-studies?utm_source=Homepage&utm_medium=testimonials_section",
+    "pass": 1
+   },
+   {
+    "quote": "Get some ideas for branding and customizing your Loox emails",
+    "url": "https://loox.app/case-studies?utm_source=Homepage&utm_medium=testimonials_section",
+    "pass": 1
+   },
+   {
+    "quote": "An envelope icon representing email design ideas",
+    "url": "https://loox.app/success-stories/knit-in-a-box",
+    "pass": 1
+   },
+   {
+    "quote": "Get some ideas for branding and customizing your Loox emails",
+    "url": "https://loox.app/success-stories/knit-in-a-box",
+    "pass": 1
+   },
+   {
+    "quote": "Utilize Loox automated review request emails to collect a ton of visual reviews. Then, create a dedicated Happy Customers Page highlighting all social proof and use it as a landing page for an ad campaign.",
+    "url": "https://loox.app/success-stories/knit-in-a-box",
+    "pass": 1
+   },
+   {
+    "quote": "Loox’s automated, customizable Review Request Emails",
+    "url": "https://loox.app/success-stories/knit-in-a-box",
+    "pass": 1
+   },
+   {
+    "quote": "An envelope icon representing email design ideas",
+    "url": "https://loox.app/success-stories/blendjet",
+    "pass": 1
+   },
+   {
+    "quote": "Get some ideas for branding and customizing your Loox emails",
+    "url": "https://loox.app/success-stories/blendjet",
+    "pass": 1
+   },
+   {
+    "quote": "An envelope icon representing email design ideas",
+    "url": "https://loox.app/success-stories/volant",
+    "pass": 1
+   },
+   {
+    "quote": "Get some ideas for branding and customizing your Loox emails",
+    "url": "https://loox.app/success-stories/volant",
+    "pass": 1
+   },
+   {
+    "quote": "They leverage their product reviews by creating ads and email campaigns showcasing their customer reviews (especially the photos) to boost social proof, trust and let their customers do the talking (and showing).",
+    "url": "https://loox.app/success-stories/volant",
+    "pass": 1
+   },
+   {
+    "quote": "An envelope icon representing email design ideas",
+    "url": "https://loox.app/blog/loox-google-review-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Get some ideas for branding and customizing your Loox emails",
+    "url": "https://loox.app/blog/loox-google-review-partner",
+    "pass": 1
+   },
+   {
+    "quote": "If you have questions about this partnership or need help setting up your reviews on Google Shopping, please send us an email to:",
+    "url": "https://loox.app/blog/loox-google-review-partner",
+    "pass": 1
+   },
+   {
+    "quote": "An envelope icon representing email design ideas",
+    "url": "https://loox.app/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Get some ideas for branding and customizing your Loox emails",
+    "url": "https://loox.app/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "An envelope icon representing email design ideas",
+    "url": "https://loox.app/success-stories/city-bonfires",
+    "pass": 1
+   },
+   {
+    "quote": "Get some ideas for branding and customizing your Loox emails",
+    "url": "https://loox.app/success-stories/city-bonfires",
+    "pass": 1
+   },
+   {
+    "quote": "was the perfect match (see the pun we did there) for City Bonfire’s budding brand. In a matter of minutes, the team got set up with Loox and were able to automate their entire review request process via email. “Thanks to Loox's photo-first focus, we have a direct lens into how our customers use City Bonfires. The brand community is awesome!",
+    "url": "https://loox.app/success-stories/city-bonfires",
+    "pass": 1
+   },
+   {
+    "quote": "From brand awareness to loyalty-boosting email content, Tiffany is able to enhance her campaigns across the funnel with photo reviews. As a result she’s seen an improvement in CTR, conversion, and engagement with her initiatives.",
+    "url": "https://loox.app/success-stories/city-bonfires",
+    "pass": 1
+   },
+   {
+    "quote": "“I use Loox product reviews across all of my marketing channels, including social, blog posts, email, and paid ads. They play a significant role in attracting new customers, strengthening our brand presence, and increasing loyalty.”",
+    "url": "https://loox.app/success-stories/city-bonfires",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/loox/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/loox/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/149137-57",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "A document icon symbolizing a case study",
+    "url": "https://loox.app/get-in-touch",
+    "pass": 1
+   },
+   {
+    "quote": "A document icon symbolizing a case study",
+    "url": "https://loox.app/case-studies?utm_source=Homepage&utm_medium=testimonials_section",
+    "pass": 1
+   },
+   {
+    "quote": "A document icon symbolizing a case study",
+    "url": "https://loox.app/success-stories/knit-in-a-box",
+    "pass": 1
+   },
+   {
+    "quote": "A document icon symbolizing a case study",
+    "url": "https://loox.app/success-stories/blendjet",
+    "pass": 1
+   },
+   {
+    "quote": "A document icon symbolizing a case study",
+    "url": "https://loox.app/success-stories/volant",
+    "pass": 1
+   },
+   {
+    "quote": "The fact of the matter is that everyone starts at $0 revenue, 0 followers, 0 sales, 0 customers and 0 product reviews. The silver lining is that it can only go up from there! We hope this case study inspired you to get started and try things out. Who knows, a year later you may be looking back on that one decision that changed your life.",
+    "url": "https://loox.app/success-stories/volant",
+    "pass": 1
+   },
+   {
+    "quote": "A document icon symbolizing a case study",
+    "url": "https://loox.app/blog/loox-google-review-partner",
+    "pass": 1
+   },
+   {
+    "quote": "A document icon symbolizing a case study",
+    "url": "https://loox.app/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "A document icon symbolizing a case study",
+    "url": "https://loox.app/success-stories/city-bonfires",
+    "pass": 1
+   },
+   {
+    "quote": "Kashu Company Case Study: Loox – Loox - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/kashu-company/case-study/loox-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Loox - Customer Case Study",
+    "url": "https://www.casestudies.com/company/kashu-company/case-study/loox-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Loox used Kashu Company",
+    "url": "https://www.casestudies.com/company/kashu-company/case-study/loox-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/kashu-company/case-study/loox-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/kashu-company/case-study/loox-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: BlendJet achieves $7.5M+ in referral revenue with Loox | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/loox/case-study/how-blendjet-created-enormous-demand-with-product-reviews",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: BlendJet achieves $7.5M+ in referral revenue with Loox",
+    "url": "https://www.casestudies.com/company/loox/case-study/how-blendjet-created-enormous-demand-with-product-reviews",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/loox/case-study/how-blendjet-created-enormous-demand-with-product-reviews",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/loox/case-study/how-blendjet-created-enormous-demand-with-product-reviews",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/loox/case-studies",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Looxレビューアプリの追加機能が多く、言語設定で日本語化も対応",
+    "url": "https://tsubasa.tech/archives/643",
+    "pass": 3
+   },
+   {
+    "quote": "DMMで日本初の NoCodeサロン を運営",
+    "url": "https://tsubasa.tech/archives/643",
+    "pass": 3
+   },
+   {
+    "quote": "さらに同社では2021年、富士通周辺機（当時）から、西日本エリアの個人向けPCの修理拠点としての機能を引き継いだ",
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2309/13/news047.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、東日本エリアの個人向けPCの修理拠点（福島県伊達市）も同社の管轄に改められ、",
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2309/13/news047.html",
+    "pass": 3
+   },
+   {
+    "quote": "メーカー自身がバックドアを仕込み、犯罪集団に“販売” 乗っ取られたTV用端末130万台超、Googleが遮断 日本の警察庁も参加",
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2309/13/news047.html",
+    "pass": 3
+   },
+   {
+    "quote": "ITmediaはアイティメディア株式会社の登録商標です",
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2309/13/news047.html",
+    "pass": 3
+   },
+   {
+    "quote": "個性と機能と未来志向を兼ね備えた新時代ブランド「LOOX Japan（ルックス）」体験レポート！多彩なジャンルで本当に使う理由とオススメポイント徹底紹介 | メルマガクチコミナビ",
+    "url": "https://merumaga-navi.com/202602160547450214/",
+    "pass": 3
+   },
+   {
+    "quote": "個性と機能と未来志向を兼ね備えた新時代ブランド「LOOX Japan（ルックス）」体験レポート！多彩なジャンルで本当に使う理由とオススメポイント徹底紹介",
+    "url": "https://merumaga-navi.com/202602160547450214/",
+    "pass": 3
+   },
+   {
+    "quote": "そこで今回は、私自身が最近実際に活用してみて「これは他と違う！」と実感した、話題のブランド「LOOX Japan（ルックス）」について、率直な体験談とあわせて詳しくレビューします",
+    "url": "https://merumaga-navi.com/202602160547450214/",
+    "pass": 3
+   },
+   {
+    "quote": "1. LOOX Japanとは？複数のジャンルで存在感を放つ理由",
+    "url": "https://merumaga-navi.com/202602160547450214/",
+    "pass": 3
+   },
+   {
+    "quote": "1.3. 業界内におけるLOOX Japanの位置づけ",
+    "url": "https://merumaga-navi.com/202602160547450214/",
+    "pass": 3
+   },
+   {
+    "quote": "2. 私がLOOX Japanを選んだ本当の理由",
+    "url": "https://merumaga-navi.com/202602160547450214/",
+    "pass": 3
+   },
+   {
+    "quote": "3. LOOX Japan商品・サービスそれぞれの特徴と主な利点まとめ",
+    "url": "https://merumaga-navi.com/202602160547450214/",
+    "pass": 3
+   },
+   {
+    "quote": "「LOOX Japan（ルックス）」は、実は一つのカテゴリーには収まりきらない多面性こそが最大の強み",
+    "url": "https://merumaga-navi.com/202602160547450214/",
+    "pass": 3
+   },
+   {
+    "quote": "現在のLOOX Japanは「こだわりと機能性」「感度重視＆ユーザー目線」を両立している存在として、いずれの業界でもユニークな立ち位置",
+    "url": "https://merumaga-navi.com/202602160547450214/",
+    "pass": 3
+   },
+   {
+    "quote": "私がLOOX Japanの商品を手にした理由はシンプルで、「他にない発想」と「自分のスタイルを大切にする価値観」に共感したからです",
+    "url": "https://merumaga-navi.com/202602160547450214/",
+    "pass": 3
+   },
+   {
+    "quote": "私自身、日常や週末のライフスタイルの中でLOOX Japanの商品群をシームレスに使うことができました",
+    "url": "https://merumaga-navi.com/202602160547450214/",
+    "pass": 3
+   },
+   {
+    "quote": "LOOX Japanのカーケア用品は言わば「誰でも超・時短メンテ」への本気の答え",
+    "url": "https://merumaga-navi.com/202602160547450214/",
+    "pass": 3
+   },
+   {
+    "quote": "他社よりも「日本の住環境や生活感覚」を考えた実用設計がされていて、初期設定やサポート、マニュアルも親切",
+    "url": "https://merumaga-navi.com/202602160547450214/",
+    "pass": 3
+   },
+   {
+    "quote": "「大量生産品やテンプレデザインに飽き飽きしている」「自分の価値観に寄り添ったプロダクトが欲しい」——そんな大人の“こだわり派”にLOOX Japanは一押しです",
+    "url": "https://merumaga-navi.com/202602160547450214/",
+    "pass": 3
+   },
+   {
+    "quote": "LOOX Japanは「選ぶこと＝応援」につながるブランド",
+    "url": "https://merumaga-navi.com/202602160547450214/",
+    "pass": 3
+   },
+   {
+    "quote": "朝の「今日は何着よう…」という悩みも、LOOX Japanのアイテムがあれば解決",
+    "url": "https://merumaga-navi.com/202602160547450214/",
+    "pass": 3
+   },
+   {
+    "quote": "週末にまとめて愛車をズボラ洗車する自分には、LOOX Japanのオールインワン系カーケアが大活躍",
+    "url": "https://merumaga-navi.com/202602160547450214/",
+    "pass": 3
+   },
+   {
+    "quote": "最新のIoTガジェットは、自宅の照明や空調、セキュリティ連携が簡単にできるLOOX Japanのプロダクト（一例：スマートプラグやデバイスハブ）が優秀",
+    "url": "https://merumaga-navi.com/202602160547450214/",
+    "pass": 3
+   },
+   {
+    "quote": "LOOX Japanはその中間で、“普段使いOK＋程よいエッジ”という絶妙な価格・デザインバランスが魅力的です",
+    "url": "https://merumaga-navi.com/202602160547450214/",
+    "pass": 3
+   },
+   {
+    "quote": "オートバックスやイエローハットのPB製品とも比べたのですが、LOOX Japanのカーケアは「使い心地最優先」「DIYビギナーにも親切」「持続時間が長い」といった実用メリットが明確",
+    "url": "https://merumaga-navi.com/202602160547450214/",
+    "pass": 3
+   },
+   {
+    "quote": "PanasonicやAnkerなど家電量販店系ガジェットとも比較しましたが、LOOX Japanは「ガジェット初心者やシニア層への手厚いガイド」「サポートデスクの日本語対応」「自社独自のデザイン性」という点が光っています",
+    "url": "https://merumaga-navi.com/202602160547450214/",
+    "pass": 3
+   },
+   {
+    "quote": "正直な感想として、各ジャンルで確かな品質があるのに、まだまだ「LOOX Japanって何？」という人が少なくありません",
+    "url": "https://merumaga-navi.com/202602160547450214/",
+    "pass": 3
+   },
+   {
+    "quote": "総合的には、LOOX Japanは「こだわり」と「便利」を両立したい現代人にうってつけのブランド",
+    "url": "https://merumaga-navi.com/202602160547450214/",
+    "pass": 3
+   },
+   {
+    "quote": "顧客レビューの力で売上もブランド力もUP！Bazaarvoice Japan（バザーボイス）徹底体験レポート",
+    "url": "https://merumaga-navi.com/202602160547450214/",
+    "pass": 3
+   },
+   {
+    "quote": "Click here for LOOX Japan official account",
+    "url": "https://looxteam.wixsite.com/help/en/official",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ShopifyでコメントレビューができるLoox -Photo Reviews - ツバサテッ... — Dec 12, 2020 · 商品が1品物でProduct Reviewsだと、Productに口コミが紐づくので、常に消えてしまうため、ショップ全体のレビューが表示したい為に Loox – Photo Reviews にいきつきました。 Loox – Photo Reviews 導入のメリット",
+    "url": "https://tsubasa.tech/archives/643",
+    "pass": 3
+   },
+   {
+    "quote": "約250台のカメラでデジタルツイン構築 人とロボットが協調――累計4000... — Sep 13, 2023 · 「LIFEBOOK」「ESPRIMO」「LOOX」ブランドで知られる富士通クライアントコンピューティング（FCCL）のPCの多くは、島根県出雲市にある「島根富士通 ...",
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2309/13/news047.html",
+    "pass": 3
+   },
+   {
+    "quote": "個性と機能と未来志向を兼ね備えた新時代ブランド「LOOX Japan（ルッ... — Mar 16, 2026 · そんなミスマッチも少なくありません。 そこで今回は、私自身が最近実際に活用してみて「これは他と違う！ 」と実感した、話題のブランド「LOOX Japan（ルックス）」について、率直な体験談とあわせて詳しくレビューします。",
+    "url": "https://merumaga-navi.com/202602160547450214/",
+    "pass": 3
+   },
+   {
+    "quote": "LOOX official account / LOOXヘルプセンター — Follow LOOX! Follow the LOOX official account to get the latest information on LOOX! Click here for LOOX Japan official account",
+    "url": "https://looxteam.wixsite.com/help/en/official",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Store review | Loox — Read 51 verified customer reviews for Japan It was some delay in delivery but had very polite note from the seller.",
+    "url": "https://loox.io/sr/PKyB3xf66A",
+    "pass": 3
+   },
+   {
+    "quote": "富士通FMV LOOX | ビックカメラ — 堅牢性やデザイン性も兼ね備えて、仕事でも勉強でも趣味でもフル活用できる高性能モバイルノートパソコンです。",
+    "url": "https://www.biccamera.com/bc/c/pc/fmv/loox/index.jsp",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon.co.jp: Kureのloox — Amazonは日本の中小企業のブランドの商品を応援しています。 食品から家電まで「日本の中小企業 応援ストア」を今すぐチェック。 詳細はこちら.",
+    "url": "https://www.amazon.co.jp/kureのloox/s?k=kureのloox",
+    "pass": 3
+   },
+   {
+    "quote": "Loox - Customer Case Study — Loox (Internet) partnered with Kashu Company (Animation) to solve key challenges. \"Loox - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/kashu-company/case-study/loox-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: BlendJet achieves $7.5M+ in referral revenue with ... — The result was over $7.5M in additional referral revenue and more than 200K Loox reviews, while maintaining a 4.9/5 average star rating and creating a set-and-forget system that continued to drive revenue. View this case study…",
+    "url": "https://www.casestudies.com/company/loox/case-study/how-blendjet-created-enormous-demand-with-product-reviews",
+    "pass": 3
+   },
+   {
+    "quote": "5 Loox Case Studies, Success Stories, & Customer Stories ... — Browse Loox case studies and success stories to help make the right purchasing decision.",
+    "url": "https://www.featuredcustomers.com/vendor/loox/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Happy Customers | Loox — “I use Loox product reviews across all of my marketing channels, including social, blog posts, email, and paid ads. They play a significant role in attracting new customers, strengthening our brand presence, and increasing loyalty.",
+    "url": "https://loox.app/happy-customers",
+    "pass": 3
+   },
+   {
+    "quote": "Loox - Visual Reviews — Loox is a social proof marketing platform that empowers over 100,000 Shopify and Shopify Plus merchants to grow their brands by turning real customers into ambassadors that submit visual reviews, share product experiences, and refer friends.",
+    "url": "https://loox.app/",
+    "pass": 3
+   },
+   {
+    "quote": "Loox – Financial Footprint & Growth Factors – 2026 — Loox’s business footprint includes estimated revenue of $7.4M, team of around 50+ employees, operating from Ramat Gan, adapting to new market dynamics.",
+    "url": "https://compworth.com/company/loox",
+    "pass": 3
+   },
+   {
+    "quote": "Loox 2026 Company Profile: Valuation, Funding & Investors ...Loox - 2026 Company Profile, Team, Funding & Competitors - TracxnLOOX: Funding, Team & Investors | Startup IntrosLoox - Crunchbase Company Profile & FundingLOOX - Crunchbase Company Profile & FundingLoox - Overview, News & Similar companies | ZoomInfo.com — Information on valuation, funding, cap tables, investors, and executives for Loox",
+    "url": "https://pitchbook.com/profiles/company/149137-57",
+    "pass": 3
+   },
+   {
+    "quote": "Loox - 2026 Company Profile, Team, Funding & Competitors - TracxnLOOX: Funding, Team & Investors | Startup IntrosLoox - Crunchbase Company Profile & FundingLOOX - Crunchbase Company Profile & FundingLoox - Overview, News & Similar companies | ZoomInfo.com — Feb 14, 2026 · Explore Loox's in-depth company profile, including funding details, key investors, leadership, and competitors. Jul 13, 2026 · ",
+    "url": "https://tracxn.com/d/companies/loox/__rhrUofJmfQS_jFkyfVNokX1qu-tq-KzmpU9ChuqTeso",
+    "pass": 3
+   },
+   {
+    "quote": "LOOX: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Loox serves a global customer base of over 130,000 brands across more than 180 countries, predominantly catering to Shopify and Shopify Plus merchants. Its vision centers on empowering these businesses by transforming satisfied customers into influential brand advocates.",
+    "url": "https://startupintros.com/orgs/loox",
+    "pass": 3
+   },
+   {
+    "quote": "Loox - Crunchbase Company Profile & FundingLOOX - Crunchbase Company Profile & FundingLoox - Overview, News & Similar companies | ZoomInfo.com — Loox is a photo reviews app that empowers Shopify merchants to collect tons of visual reviews from happy customers in order to create elegant online stores shoppers can trust. How much funding has LOOX raised to date? LOOX has raised. A real-time app-base",
+    "url": "https://www.crunchbase.com/organization/loox-reviews",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "黄ばみ・曇り除去！KURE LOOX ヘッドライトクリーナー│くすみを消して... Feb 4, 2026 · 市販のクリーナーは種類が多くて、どれを選べばいいか迷うはずです。 そこで注目したいのが、KUREの「LOOX ヘッドライトクリア＆プロテクト」です。 この記事では、こすらずに汚れを落とす仕組みや、プロ仕様のコーティング効果について詳しく解説します。",
+    "url": "https://note.com/dokonokuninano/n/n337be9d11bdb",
+    "pass": 3
+   },
+   {
+    "quote": "俺とレトロモバイル富士通 LOOX U/C30 2008年発売｜レモバ Jun 21, 2026 · 富士通 LOOX U/C30 2008年発売 LOOX U/C30 かっこいい～ 「FMV-BIBLO LOOX U/C30」は、2008年12月に富士通から発売された5.6型ウルトラモバイルPC（UMPC）です。",
+    "url": "https://note.com/retromobile_ch/n/n2c411963915a",
+    "pass": 3
+   },
+   {
+    "quote": "塗った瞬間にヘッドライトの頑固黄ばみが激落ち！ めちゃくちゃ良いで... Mar 15, 2023 · こんにちは、車好きデザイナーのわたるです。 今回は珍しく商品レビューの動画でございます。 ベストカーさんの記事で気になったLOOXというヘッドライト黄ばみ取りです。",
+    "url": "https://note.com/wataru_panda/n/na94ea3eb87a0",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "黄ばみ・曇り除去！KURE LOOX ヘッドライトクリーナー│くすみを消してライトの光量アップ｜どこの国のメーカーなの？",
+    "url": "https://note.com/dokonokuninano/n/n337be9d11bdb",
+    "pass": 3
+   },
+   {
+    "quote": "黄ばみ・曇り除去！KURE LOOX ヘッドライトクリーナー│くすみを消してライトの光量アップ",
+    "url": "https://note.com/dokonokuninano/n/n337be9d11bdb",
+    "pass": 3
+   },
+   {
+    "quote": "※この記事はプロモーションが含まれています。",
+    "url": "https://note.com/dokonokuninano/n/n337be9d11bdb",
+    "pass": 3
+   },
+   {
+    "quote": "※この記事は生成AIを活用して作成しています。内容は運営者が確認し、わかりやすく整えて公開しています。",
+    "url": "https://note.com/dokonokuninano/n/n337be9d11bdb",
+    "pass": 3
+   },
+   {
+    "quote": "車のヘッドライトが黄ばんだり、白く曇ったりして悩んでいませんか。",
+    "url": "https://note.com/dokonokuninano/n/n337be9d11bdb",
+    "pass": 3
+   },
+   {
+    "quote": "ライトが汚れていると、車全体が古く見えてしまうし、夜間の視界が悪くなるのも不安ですよね。",
+    "url": "https://note.com/dokonokuninano/n/n337be9d11bdb",
+    "pass": 3
+   },
+   {
+    "quote": "市販のクリーナーは種類が多くて、どれを選べばいいか迷うはずです。",
+    "url": "https://note.com/dokonokuninano/n/n337be9d11bdb",
+    "pass": 3
+   },
+   {
+    "quote": "そこで注目したいのが、KUREの「LOOX ヘッドライトクリア＆プロテクト」です。",
+    "url": "https://note.com/dokonokuninano/n/n337be9d11bdb",
+    "pass": 3
+   },
+   {
+    "quote": "俺とレトロモバイル富士通 LOOX U/C30 2008年発売｜レモバ",
+    "url": "https://note.com/retromobile_ch/n/n2c411963915a",
+    "pass": 3
+   },
+   {
+    "quote": "俺とレトロモバイル富士通 LOOX U/C30 2008年発売",
+    "url": "https://note.com/retromobile_ch/n/n2c411963915a",
+    "pass": 3
+   },
+   {
+    "quote": "富士通 LOOX U/C30 2008年発売",
+    "url": "https://note.com/retromobile_ch/n/n2c411963915a",
+    "pass": 3
+   },
+   {
+    "quote": "「FMV-BIBLO LOOX U/C30」は、2008年12月に富士通から発売された5.6型ウルトラモバイルPC（UMPC）です。Atom Z520（1.33GHz）とWindows XPを搭載し、約565gの超軽量ボディと長時間駆動を実現したことで知られる名機です",
+    "url": "https://note.com/retromobile_ch/n/n2c411963915a",
+    "pass": 3
+   },
+   {
+    "quote": "OSはXPです。メモリ1GBはきついのでXPもしくは軽量Linuxで遊んでました。デザインはかっこよい。SSD化したいんですが、1.8インチ？のSSD高いんですよね・・・",
+    "url": "https://note.com/retromobile_ch/n/n2c411963915a",
+    "pass": 3
+   },
+   {
+    "quote": "塗った瞬間にヘッドライトの頑固黄ばみが激落ち！ めちゃくちゃ良いです、コレ。(案件じゃないよ)【 呉工業 LOOX ルックスヘッドライトクリア&プロテクト 】｜わたる-プロダクトデザイナー",
+    "url": "https://note.com/wataru_panda/n/na94ea3eb87a0",
+    "pass": 3
+   },
+   {
+    "quote": "塗った瞬間にヘッドライトの頑固黄ばみが激落ち！ めちゃくちゃ良いです、コレ。(案件じゃないよ)【 呉工業 LOOX ルックスヘッドライトクリア&プロテクト 】",
+    "url": "https://note.com/wataru_panda/n/na94ea3eb87a0",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは、車好きデザイナーのわたるです。",
+    "url": "https://note.com/wataru_panda/n/na94ea3eb87a0",
+    "pass": 3
+   },
+   {
+    "quote": "今回は珍しく商品レビューの動画でございます。",
+    "url": "https://note.com/wataru_panda/n/na94ea3eb87a0",
+    "pass": 3
+   },
+   {
+    "quote": "ベストカーさんの記事で気になったLOOXというヘッドライト黄ばみ取りです。",
+    "url": "https://note.com/wataru_panda/n/na94ea3eb87a0",
+    "pass": 3
+   },
+   {
+    "quote": "使った感じかなり良かったのでぜひ動画でご確認くださいな〜",
+    "url": "https://note.com/wataru_panda/n/na94ea3eb87a0",
+    "pass": 3
+   },
+   {
+    "quote": "https://youtu.be/8tcDyCPbeXQ",
+    "url": "https://note.com/wataru_panda/n/na94ea3eb87a0",
+    "pass": 3
+   },
+   {
+    "quote": "LOOX ヘッドライト クリア&プロテクト(今セールでかなり安いです) https://amzn.to/3HiQmDx",
+    "url": "https://note.com/wataru_panda/n/na94ea3eb87a0",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Loox (@looxio) / X We’re proud to announce that Loox is now an official @ ShopifyPlus Technology Partner! Chosen for quality and alignment with the advanced needs of Plus merchants, Loox was hand-picked to build the future of #ecommerce.",
+    "url": "https://x.com/looxio",
+    "pass": 3
+   },
+   {
+    "quote": "LOOX Magazine (@LooxMagazine) / X Mention Follow PostsPosts RepliesReplies RepostsReposts MediaMedia LOOX Magazine @LooxMagazine 10h",
+    "url": "https://x.com/LooxMagazine",
+    "pass": 3
+   },
+   {
+    "quote": "LOOX (@LOOXBD) / X LOOX @LOOXBD Feb 17, 2021 We are delighted to announce that ajke.live, a concern of ReShop Ventures Limited, has become one of the 4 graduating teams in the incubation program initiated by NSU Startups Next. #liveshopping #ajkelive",
+    "url": "https://x.com/LOOXBD",
+    "pass": 3
+   },
+   {
+    "quote": "Loox Shoes (@looxapp) / X Discover 30 trending shoes everyday! Try the Loox mobile app if you're a shoe lover!",
+    "url": "https://x.com/looxapp",
+    "pass": 3
+   },
+   {
+    "quote": "Loox (@looxio) / X 30K+ stores have tried Loox referrals and the results speak for themselves. Our data shows that shoppers who visit a store via a Loox referral link are 3x likely to convert compared to professional ads!",
+    "url": "https://x.com/looxio",
+    "pass": 3
+   },
+   {
+    "quote": "loox (@looxdestroyer) / X @looxdestroyer Aug 9, 2010 egg shell のマッシュルーム、どこに生やすべきか...?? #iphone4jp loox @looxdestroyer Aug 9, 2010",
+    "url": "https://x.com/looxdestroyer",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Loox - LinkedIn With built-in conversion tools, including referrals, upsells, and smart discounts, Loox makes the most of every happy customer interaction, turning delight into trust that boosts sales.",
+    "url": "https://www.linkedin.com/company/loox",
+    "pass": 3
+   },
+   {
+    "quote": "LOOX - LinkedIn LOOX Holding Companies Everything Looks Better with LOOX. About us Industry Holding Companies Company size 2-10 employees",
+    "url": "https://www.linkedin.com/company/looxofficial",
+    "pass": 3
+   },
+   {
+    "quote": "Yoni Elbaz - Co-Founder & CEO at Loox | LinkedInLOOX - LinkedIn20+ \"Loox\" profiles | LinkedInMichael Loox, CFI - People Safety | Asset Protection | Global ...What if you could turn your best video reviews into high ... Loox helps online merchants grow their business with the power of happy customers. Proudly serving over 100,000 entrepreneurs worldwide, reaching hundreds of millions of people mont",
+    "url": "https://il.linkedin.com/in/yoni-elbaz",
+    "pass": 3
+   },
+   {
+    "quote": "LOOX - LinkedIn LOOX is a Singapore based live-streaming focused fashion and lifestyle e-commerce marketplace operating in Bangladesh that uses global technology and supply chain model similar to global...",
+    "url": "https://www.linkedin.com/company/looxbd",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Loox - FacebookLOOX | Banani Model Town - FacebookLoox Store - FacebookLOOX Model Management - FacebookLoox Presets - FacebookLOOX Salon - FacebookLOOX - Facebook Jun 24, 2025 · Loox offers a seamless user experience with a smooth, consistent look and feel, making your journey hassle- free. ⚡Performance: Speed matters. As a 'Built for Shopify' product, Loox is optimized for swift loading times, en",
+    "url": "https://www.facebook.com/looxreviews/",
+    "pass": 3
+   },
+   {
+    "quote": "LOOX | Banani Model Town - FacebookLoox Store - FacebookLOOX Model Management - FacebookLoox Presets - FacebookLOOX Salon - FacebookLOOX - Facebook Feb 21, 2025 · Surprise! Stay Tuned to experience LOOX Reborn! #LOOX #fashionexpert 𝐋𝐎𝐎𝐗 | 𝐀𝐟𝐟𝐨𝐫𝐝𝐚𝐛𝐥𝐞 𝐖𝐢𝐧𝐭𝐞𝐫 𝐖𝐞𝐚𝐫𝐬 ️ Warm up your winter in our solid & Bunny hoodies. It will keep you warm, comfortable & stylish. Jul 30, 2026 · Loox Store. 27,142 follo",
+    "url": "https://www.facebook.com/looxbd/",
+    "pass": 3
+   },
+   {
+    "quote": "Loox Store - FacebookLOOX Model Management - FacebookLoox Presets - FacebookLOOX Salon - FacebookLOOX - Facebook Jul 30, 2026 · Loox Store. 27,142 followers · 622 talking about this. Encuentra los productos mas innovadores y en tendencia a nivel mundial en un solo lugar!! Feb 20, 2010 · Check out our favorite pages and discover some of the world's best known and innovative fashion designers. They ",
+    "url": "https://www.facebook.com/looxstoore/",
+    "pass": 3
+   },
+   {
+    "quote": "LOOX Model Management - FacebookLoox Presets - FacebookLOOX Salon - FacebookLOOX - Facebook Feb 20, 2010 · Check out our favorite pages and discover some of the world's best known and innovative fashion designers. They constantly inspire the modeling industry and photographers by creating outstanding clothes and accessories. LOOX Model Management added 7 new photos. You do have to be aware of your",
+    "url": "https://www.facebook.com/looxmodels/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://loox.app/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://loox.app/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://loox.app/happy-customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://loox.app/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://loox.app/success-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://loox.app/get-in-touch",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://loox.app/case-studies?utm_source=Homepage&utm_medium=testimonials_section",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://loox.app/success-stories/knit-in-a-box",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://loox.app/success-stories/blendjet",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://loox.app/success-stories/volant",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://loox.app/success-stories/volant",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://loox.app/blog/loox-google-review-partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://loox.app/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://loox.app/case-studies",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://loox.app/success-stories/city-bonfires",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://loox.app/success-stories/blendjet",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/5ffa9cb466ed902ac6f8fffc/660aa6b9712a6250660e0ce6_partners-hero-image.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/5ffa9cb466ed902ac6f8fffc/660aa6cb527bcd3c9d0b42c7_partners-hero-mobile-image.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/5ffa9cb466ed902ac6f8fffc/66041a1d5057eec6adfd203d_partners-collab-image-1.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/5ffa9cb466ed902ac6f8fffc/66041a1d69a5d9c159f57854_partners-collab-image-2.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://tsubasa.tech/archives/643",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.itmedia.co.jp/pcuser/articles/2309/13/news047.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.phileweb.com/news/audio/202611/06/28317.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.cnet.com/article/35254593/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://merumaga-navi.com/202602160547450214/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://looxteam.wixsite.com/help/en/official",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://loox.io/sr/PKyB3xf66A",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.biccamera.com/bc/c/pc/fmv/loox/index.jsp",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/kashu-company/case-study/loox-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/loox/case-study/how-blendjet-created-enormous-demand-with-product-reviews",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/loox/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/loox",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/149137-57",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/loox/__rhrUofJmfQS_jFkyfVNokX1qu-tq-KzmpU9ChuqTeso",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://startupintros.com/orgs/loox",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/dokonokuninano/n/n337be9d11bdb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/retromobile_ch/n/n2c411963915a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/wataru_panda/n/na94ea3eb87a0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/looxio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/LooxMagazine",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/LOOXBD",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/looxapp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/loox",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/looxofficial",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://il.linkedin.com/in/yoni-elbaz",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/looxbd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/looxreviews/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/looxbd/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/looxstoore/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/looxmodels/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/looxio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/looxdestroyer",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Loox 日本 導入",
+   "results": [
+    "https://tsubasa.tech/archives/643",
+    "https://www.itmedia.co.jp/pcuser/articles/2309/13/news047.html",
+    "https://www.phileweb.com/news/audio/202611/06/28317.html",
+    "https://japan.cnet.com/article/35254593/",
+    "https://36kr.jp/502580/",
+    "https://online.stereosound.co.jp/_ct/17874501",
+    "https://www.itmedia.co.jp/business/articles/2610/08/news016.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Loox 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Loox Japan",
+   "results": [
+    "https://merumaga-navi.com/202602160547450214/",
+    "https://looxteam.wixsite.com/help/en/official",
+    "https://loox.io/sr/PKyB3xf66A",
+    "https://www.biccamera.com/bc/c/pc/fmv/loox/index.jsp",
+    "https://www.amazon.co.jp/kureのloox/s?k=kureのloox",
+    "https://www.loft.co.jp/en/",
+    "https://www.kure.com/product/k1176/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Loox manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/kashu-company/case-study/loox-customer-case-study",
+    "https://www.casestudies.com/company/loox/case-study/how-blendjet-created-enormous-demand-with-product-reviews",
+    "https://www.featuredcustomers.com/vendor/loox/case-studies",
+    "https://loox.app/happy-customers",
+    "https://loox.app/",
+    "https://help.loox.io/support/solutions/articles/501000365613-ai-review-stories",
+    "https://www.storecensus.com/case-studies/loox-targeting"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Loox white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://upcloud.com/partner-program/",
+    "https://reseller.amazon.com/",
+    "https://www.appspace.com/resellers-alliances/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Loox founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/loox",
+    "https://pitchbook.com/profiles/company/149137-57",
+    "https://tracxn.com/d/companies/loox/__rhrUofJmfQS_jFkyfVNokX1qu-tq-KzmpU9ChuqTeso",
+    "https://startupintros.com/orgs/loox",
+    "https://www.crunchbase.com/organization/loox-reviews",
+    "https://www.crunchbase.com/organization/loox",
+    "https://www.zoominfo.com/c/loox/465296951"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Loox",
+   "results": [
+    "https://note.com/dokonokuninano/n/n337be9d11bdb",
+    "https://note.com/retromobile_ch/n/n2c411963915a",
+    "https://note.com/wataru_panda/n/na94ea3eb87a0",
+    "https://note.com/leal_zinnia2763/n/n0307065287ad",
+    "https://note.com/beloved_tomoka/n/n9527e4d70d99",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Loox",
+   "results": [
+    "https://x.com/looxio",
+    "https://x.com/LooxMagazine",
+    "https://x.com/LOOXBD",
+    "https://x.com/looxapp",
+    "https://x.com/loox",
+    "https://x.com/looxlive",
+    "https://x.com/looxpro"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Loox",
+   "results": [
+    "https://www.linkedin.com/company/loox",
+    "https://www.linkedin.com/company/looxofficial",
+    "https://il.linkedin.com/in/yoni-elbaz",
+    "https://www.linkedin.com/company/looxbd",
+    "https://www.linkedin.com/pub/dir/Loox/",
+    "https://www.linkedin.com/in/michael-loox-cfi",
+    "https://www.linkedin.com/posts/loox_what-if-you-could-turn-your-best-video-activity-7457423906979876864-e0Qw"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Loox",
+   "results": [
+    "https://www.facebook.com/looxreviews/",
+    "https://www.facebook.com/looxbd/",
+    "https://www.facebook.com/looxstoore/",
+    "https://www.facebook.com/looxmodels/",
+    "https://www.facebook.com/Looxpreset/",
+    "https://www.facebook.com/p/LOOX-Salon-100057747366011/",
+    "https://www.facebook.com/looxadvertising/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Loox note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Loox X 投稿",
+   "results": [
+    "https://x.com/looxio",
+    "https://loox.app/",
+    "https://x.com/looxdestroyer",
+    "https://loox.app/integrations/x",
+    "https://www.instagram.com/loox.io/",
+    "https://looxteam.wixsite.com/help/postall",
+    "https://zhuanlan.zhihu.com/p/68592043"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部40頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部40頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式16頁／PDF・画像4件／外部40頁・検索12回）"
+ }
+}

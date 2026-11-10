@@ -8,7 +8,7 @@
  ],
  "context": "裏取り",
  "kind": "market",
- "researched_at": "2026-11-09T05:16:41.847008+00:00",
+ "researched_at": "2026-11-10T00:00:09.556542+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -19,12 +19,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/miraisyakai/n/nda4dcb206e94",
+    "url": "https://note.com/gay_coyote1350/n/n39ba03c869df",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/miraisyakai/n/n7089ac704a58",
+    "url": "https://note.com/miraisyakai/n/nda4dcb206e94",
     "status": "ok",
     "method": "http"
    },
@@ -34,22 +34,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/hirokimiyano/n/nd76b85055514",
+    "url": "https://note.com/miraisyakai/n/n7089ac704a58",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/hirokimiyano/n/neef4e980f381",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/lc_kouhou/n/n2ecb8532f09d",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/rhapsody01w/n/n23927ad87544",
+    "url": "https://note.com/yomi_tokyo_saiyo/n/n14b01d51c786",
     "status": "ok",
     "method": "http"
    },
@@ -64,7 +54,17 @@
     "method": "pdf"
    },
    {
-    "url": "https://note.com/research_pr/n/n4f3b0908e8f6",
+    "url": "https://www.nikkei.com/article/DGXNASDZ2601W_W4A620C1H56A00/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/keisemi/m/m8b8a1ff638b5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ideasforgood.jp/matome/world-press-freedom-index/",
     "status": "ok",
     "method": "http"
    },
@@ -74,47 +74,57 @@
     "method": "http"
    },
    {
+    "url": "https://www.meti.go.jp/statistics/tyo/kikatu/2026jissi/assets/pdf/26honsya_howto.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.stat.go.jp/data/kkj/2019/kinyu/pdf/ks_otu07.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.buzzfeed.com/jp/eimiyamamitsu/houdou-no-jiyuu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rimo.app/blogs/press_release",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clib.kindai.ac.jp/search/pdf/guide_quote.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
     "url": "https://ideatech.jp/column/1o7bvptr/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.uss-ueda.co.jp/blog/sasurepo-shutten-chushaku/",
+    "url": "https://www.v-pr.net/prlab/know-how/20190612_howtorelease/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://crestep.jp/survey-release-title/",
+    "url": "https://ideasforgood.jp/matome/world-press-freedom-index-2025/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.nhk.or.jp/bunken/d/_data/research/kotoba/BUNA0000010580040015/files/039.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.stat.go.jp/library/pdf/column1010.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://mainichi.jp/articles/20220620/org/00m/070/001000c",
+    "url": "https://frontier-pr.jp/6236.html",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.v-pr.net/prlab/know-how/press-release-template/",
+    "url": "https://www.keio.ac.jp/ja/about/public-relations/mita-hyoron/features/06-1-2/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.shapewin.co.jp/blog837",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://ca-news.biz/7217",
+    "url": "https://www.dentsuprc.co.jp/magazine/c153/",
     "status": "ok",
     "method": "http"
    },
@@ -124,18 +134,13 @@
     "method": "http"
    },
    {
-    "url": "https://writers-hub.co.jp/blog/survey-report-writing",
+    "url": "https://www.journalofaccountancy.com/news/2019/dec/how-critical-audit-matters-relate-to-critical-accounting-estimates/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.templex.jp/articles/houkokusho-kakikata",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.cjr.org/analysis/business-journalism-financial-press-release-understanding-numbers.php",
-    "status": "ok",
+    "url": "https://pcaobus.org/oversight/standards/pir/auditor-reporting",
+    "status": "http_403",
     "method": "http"
    },
    {
@@ -144,22 +149,17 @@
     "method": "http"
    },
    {
-    "url": "https://www.cjr.org/the_audit/audit_notes_reporting_numbers.php",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.cjr.org/the_audit",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.cms.gov/files/document/cjr-faqpdf.pdf",
+    "url": "https://mitsloan.mit.edu/shared/ods/documents?DocumentID=2843",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.bizprofile.net/ny/hicksville/cjr-reporting-inc",
+    "url": "https://d-nb.info/1266395202/34",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.cpajournal.com/2023/03/22/critical-audit-matter-reporting/",
     "status": "ok",
     "method": "http"
    }
@@ -170,15 +170,35 @@
    "query": "調査報道・経済報道の数字の書き方の欄（CJR The Audit・推計の出どころの名指し・非公開の数字の扱い・4-120） site:note.com",
    "results": [
     "https://note.com/nicchukansoku/n/ne9d378398611",
+    "https://note.com/gay_coyote1350/n/n39ba03c869df",
     "https://note.com/miraisyakai/n/nda4dcb206e94",
-    "https://note.com/miraisyakai/n/n7089ac704a58",
     "https://note.com/miraisyakai/n/n24eee68d0930",
-    "https://note.com/hirokimiyano/n/nd76b85055514",
-    "https://note.com/hirokimiyano/n/neef4e980f381",
-    "https://note.com/diggle/n/nf4ec4bd03f3b",
+    "https://note.com/miraisyakai/n/n7089ac704a58",
     "https://note.com/yomi_tokyo_saiyo/n/n14b01d51c786",
+    "https://note.com/hirokimiyano/n/nd76b85055514",
+    "https://note.com/nhk_pr/n/n4be65b98f588",
     "https://note.com/hirokimiyano/n/nf75fb5130417",
-    "https://note.com/kimatta_kotae/n/n2cdb8416843a"
+    "https://note.com/hirokimiyano/n/nd61a74cc8ebd"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "調査報道・経済報道の数字の書き方の欄（CJR The Audit・推計の出どころの名指し・非公開の数字の扱い・4-120） note",
+   "results": [
+    "https://note.com/nicchukansoku/n/ne9d378398611",
+    "https://www.stat.go.jp/info/mdm/pdf/part3.pdf",
+    "https://www.nhk.or.jp/bunken/d/_data/research/domestic/BUNA0000040540000006/files/006.pdf",
+    "https://note.com/gay_coyote1350/n/n39ba03c869df",
+    "https://www.nikkei.com/article/DGXNASDZ2601W_W4A620C1H56A00/",
+    "https://note.com/miraisyakai/n/nda4dcb206e94",
+    "https://note.com/keisemi/m/m8b8a1ff638b5",
+    "https://ideasforgood.jp/matome/world-press-freedom-index/",
+    "https://report.prism-ai.jp/report-numerical-notation-guide/",
+    "https://leadtofuture.com/1642.html"
    ],
    "engines": [
     "ddgs:google",
@@ -187,18 +207,18 @@
    "n_hits": 15
   },
   {
-   "query": "調査報道・経済報道の数字の書き方の欄（CJR The Audit・推計の出どころの名指し・非公開の数字の扱い・4-120） note",
+   "query": "調査報道・経済報道の数字の書き方の欄（CJR The Audit・推計の出どころの名指し・非公開の数字の扱い・4-120） やり方",
    "results": [
-    "https://note.com/nicchukansoku/n/ne9d378398611",
-    "https://note.com/lc_kouhou/n/n2ecb8532f09d",
-    "https://note.com/miraisyakai/n/nda4dcb206e94",
-    "https://note.com/miraisyakai/n/n7089ac704a58",
-    "https://note.com/rhapsody01w/n/n23927ad87544",
-    "https://www.stat.go.jp/info/mdm/pdf/part3.pdf",
     "https://www.nhk.or.jp/bunken/d/_data/research/domestic/BUNA0000040540000006/files/006.pdf",
-    "https://note.com/research_pr/n/n4f3b0908e8f6",
-    "https://report.prism-ai.jp/report-numerical-notation-guide/",
-    "https://note.com/8ru3zu/n/n9da2b80a2c1b"
+    "https://ideasforgood.jp/matome/world-press-freedom-index/",
+    "https://www.nikkei.com/article/DGXNASDZ2601W_W4A620C1H56A00/",
+    "https://www.meti.go.jp/statistics/tyo/kikatu/2026jissi/assets/pdf/26honsya_howto.pdf",
+    "https://www.stat.go.jp/data/kkj/2019/kinyu/pdf/ks_otu07.pdf",
+    "https://www.buzzfeed.com/jp/eimiyamamitsu/houdou-no-jiyuu",
+    "https://rimo.app/blogs/press_release",
+    "https://www.clib.kindai.ac.jp/search/pdf/guide_quote.pdf",
+    "https://ideatech.jp/column/1o7bvptr/",
+    "https://report.prism-ai.jp/report-numerical-notation-guide/"
    ],
    "engines": [
     "ddgs:google",
@@ -207,41 +227,21 @@
    "n_hits": 14
   },
   {
-   "query": "調査報道・経済報道の数字の書き方の欄（CJR The Audit・推計の出どころの名指し・非公開の数字の扱い・4-120） やり方",
+   "query": "調査報道・経済報道の数字の書き方の欄（CJR The Audit・推計の出どころの名指し・非公開の数字の扱い・4-120） 事例",
    "results": [
-    "https://ideatech.jp/column/1o7bvptr/",
-    "https://www.uss-ueda.co.jp/blog/sasurepo-shutten-chushaku/",
-    "https://crestep.jp/survey-release-title/",
-    "https://www.nhk.or.jp/bunken/d/_data/research/kotoba/BUNA0000010580040015/files/039.pdf",
-    "https://note.com/lc_kouhou/n/n2ecb8532f09d",
-    "https://www.stat.go.jp/library/pdf/column1010.pdf",
-    "https://mainichi.jp/articles/20220620/org/00m/070/001000c",
-    "https://www.meti.go.jp/statistics/tyo/kikatu/2026jissi/assets/pdf/26honsya_howto.pdf",
-    "https://www.kigyoujitsumu.jp/career/worktech/2240/",
+    "https://www.nhk.or.jp/bunken/d/_data/research/domestic/BUNA0000040540000006/files/006.pdf",
+    "https://www.stat.go.jp/info/mdm/pdf/part3.pdf",
+    "https://www.nikkei.com/article/DGXNASDZ2601W_W4A620C1H56A00/",
+    "https://www.v-pr.net/prlab/know-how/20190612_howtorelease/",
+    "https://ideasforgood.jp/matome/world-press-freedom-index-2025/",
+    "https://frontier-pr.jp/6236.html",
+    "https://rimo.app/blogs/press_release",
+    "https://www.keio.ac.jp/ja/about/public-relations/mita-hyoron/features/06-1-2/",
+    "https://www.dentsuprc.co.jp/magazine/c153/",
     "https://report.prism-ai.jp/report-numerical-notation-guide/"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
-   ],
-   "n_hits": 15
-  },
-  {
-   "query": "調査報道・経済報道の数字の書き方の欄（CJR The Audit・推計の出どころの名指し・非公開の数字の扱い・4-120） 事例",
-   "results": [
-    "https://www.uss-ueda.co.jp/blog/sasurepo-shutten-chushaku/",
-    "https://mainichi.jp/articles/20220620/org/00m/070/001000c",
-    "https://www.nhk.or.jp/bunken/d/_data/research/kotoba/BUNA0000010580040015/files/039.pdf",
-    "https://note.com/lc_kouhou/n/n2ecb8532f09d",
-    "https://crestep.jp/survey-release-title/",
-    "https://www.v-pr.net/prlab/know-how/press-release-template/",
-    "https://www.stat.go.jp/info/mdm/pdf/part3.pdf",
-    "https://www.shapewin.co.jp/blog837",
-    "https://ca-news.biz/7217",
-    "https://ideatech.jp/column/1o7bvptr/"
-   ],
-   "engines": [
-    "ddgs:bing",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -249,58 +249,59 @@
   {
    "query": "CJR The Audit reporting estimates private company numbers attribution",
    "results": [
-    "https://www.cjr.org/analysis/business-journalism-financial-press-release-understanding-numbers.php",
+    "https://www.journalofaccountancy.com/news/2019/dec/how-critical-audit-matters-relate-to-critical-accounting-estimates/",
+    "https://pcaobus.org/oversight/standards/pir/auditor-reporting",
     "https://www.cjr.org/tow_center_reports/corporate-control-of-public-information.php/",
-    "https://www.cjr.org/the_audit/audit_notes_reporting_numbers.php",
-    "https://www.cjr.org/the_audit",
-    "https://www.cms.gov/files/document/cjr-faqpdf.pdf",
-    "https://www.bizprofile.net/ny/hicksville/cjr-reporting-inc",
-    "https://www.sciencedirect.com/science/article/pii/S016541012200074X",
-    "https://onlinelibrary.wiley.com/doi/10.1111/1475-679X.12306",
-    "https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-H/part-510"
+    "https://mitsloan.mit.edu/shared/ods/documents?DocumentID=2843",
+    "https://d-nb.info/1266395202/34",
+    "https://www.cpajournal.com/2023/03/22/critical-audit-matter-reporting/",
+    "https://www.auditupdate.com/post/most-audit-reports-contain-a-cam-but-only-one",
+    "https://viewpoint.pwc.com/dt/us/en/pwc/accounting_guides/ifrs_and_us_gaap_sim/ifrs_and_us_gaap_sim_US/chapter_15_other_acc_US/15_14_disclosure_of_crit.html",
+    "https://www.researchgate.net/publication/365857227_Relevance_of_Audit_Report_in_Decision_Making",
+    "https://www.cjr.org/the_audit/audit_notes_reporting_numbers.php"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 9
+   "n_hits": 16
   },
   {
    "query": "site:note.com 調査報道・経済報道の数字の書き方の欄（CJR The Audit・推計の出どころの名指し・非公開の数字の扱い・4-120）",
    "results": [
     "https://note.com/nicchukansoku/n/ne9d378398611",
     "https://note.com/miraisyakai/n/nda4dcb206e94",
-    "https://note.com/rocoz99/n/n37c8ae509e9a",
-    "https://note.com/tolove/n/n0280a290c1e4",
-    "https://note.com/kagawatomo/n/n9a8eca09645f",
-    "https://note.com/hirokimiyano/n/n86e8f56303fe",
     "https://note.com/joincareeroffice/n/nc725e0588844",
     "https://note.com/ichi_twnovel/n/n53562828e903",
-    "https://note.com/ichi_twnovel/n/n56533998f7d3",
-    "https://note.com/kimatta_kotae/n/n2cdb8416843a"
+    "https://note.com/yomitaina/n/n3c8e9e58bc28",
+    "https://note.com/kqmpb540/n/nd4202b58c6d1",
+    "https://note.com/tolove/n/n0280a290c1e4",
+    "https://note.com/hirokimiyano/n/n86e8f56303fe",
+    "https://note.com/iceman_23/n/n536201254ff2",
+    "https://note.com/quuny/n/nd8c7c91b426b"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 16
   },
   {
    "query": "site:x.com 調査報道・経済報道の数字の書き方の欄（CJR The Audit・推計の出どころの名指し・非公開の数字の扱い・4-120）",
    "results": [
-    "https://x.com/__SatoshiSsSs__/status/2112485303923737004?lang=ar",
     "https://x.com/KagawaTomo/status/2087282346286632987",
-    "https://x.com/daifukujinji/status/2110838214328283567",
-    "https://x.com/sonosukeS",
+    "https://x.com/__SatoshiSsSs__/status/2112485303923737004",
+    "https://x.com/daifukujinji/article/2112650114447909168?lang=ar",
+    "https://x.com/daifukujinji/article/2110838214328283567",
+    "https://x.com/daifukujinji/article/2108663894743175417",
     "https://x.com/yu9_LTX/status/2111245907425685671",
     "https://x.com/KagawaTomo/status/2086383286264484032",
-    "https://x.com/daifukujinji/article/2112650114447909168?lang=ar",
     "https://x.com/Sokichi_Hoshino/article/2114482947932000495",
-    "https://x.com/fujikawa/status/2118109224001744994",
-    "https://x.com/daifukujinji/status/2108663894743175417"
+    "https://x.com/sonosukeS",
+    "https://x.com/tkc_0205/all"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -314,12 +315,12 @@
     "https://www.linkedin.com/in/tomoyashimura/ja",
     "https://uk.linkedin.com/in/rob-thompson-98a623",
     "https://uk.linkedin.com/in/roger-widdecombe-536002bb",
-    "https://jp.linkedin.com/posts/和仁-齋藤-35aa98265_どうすればテレビや新聞から取材してもらうことができる③-結論テレビや新聞-activity-7497624822244638720-KVSH",
-    "https://www.linkedin.com/posts/takehirosato-tsp_数字の向こう側を気にしながらデータを読み解く-分析レポートなどを拝見する時は-activity-6950367160900677632-K5j3",
-    "https://jp.linkedin.com/posts/keiko-hirai-a183a615b_帝国データバンクの経済に強くなる数字の読み方-activity-7228362713146482688-FBpD"
+    "https://id.linkedin.com/company/pelajarin-ai",
+    "https://jp.linkedin.com/posts/shiromegane_職務経歴書の実績欄に-扱っていた予算の規模が書いていないことがよくあります-activity-7515248658213150721-P8_0",
+    "https://www.linkedin.com/posts/takehirosato-tsp_数字の向こう側を気にしながらデータを読み解く-分析レポートなどを拝見する時は-activity-6950367160900677632-K5j3"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 9
@@ -329,34 +330,34 @@
    "results": [
     "https://www.facebook.com/groups/903670287751336/posts/1569832664468425/",
     "https://www.facebook.com/groups/713390697225371/",
-    "https://www.facebook.com/groups/sankei.ouen/",
+    "https://www.facebook.com/groups/1378270818932953/",
+    "https://www.facebook.com/groups/1217034904987817/",
+    "https://www.facebook.com/groups/601644924341869/",
+    "https://www.facebook.com/groups/3682622165335113/",
     "https://www.facebook.com/onojunzo/photos/福島民報この新聞の世論調査報道っていつも同じパターンです福島民報社はたぶん憲法改正反対で自民党内閣のことは批判したい見出しでそれに合う数字を抜き出すというやり方/26387382194260901/",
     "https://www.facebook.com/groups/597190250369020/",
-    "https://www.facebook.com/soliton.s/posts/日本経済新聞の日経プラス1くらしの数字考にてソリトンの調査内容が紹介されましたパスワード理想は何文字以上-破られにくくするには長さが重要httpswwwnikk/1447857897344274/",
     "https://www.facebook.com/61552150962363/videos/973930312171901/",
-    "https://www.facebook.com/PRCDofficial.jp/posts/調査prとはリリースの書き方と成功事例を詳しく解説調査prとは自社で行った調査結果をニュース性のあるコンテンツとして発信する広報pr手法です単なるデータの羅列で/977153854210407/",
-    "https://www.facebook.com/wipjapan/posts/世界の表記文化はこれだけ違う数字の書き方元々日本の数の単位といえば十百千万億兆ですが一旦脇に置いて世界各国の数字の表記方法に目を向けてみましょう国によって数字の/1017686370362475/",
-    "https://www.facebook.com/g.masazumi/photos/全国紙読売新聞は事実に基づき取材報道現場で取材しデータを分析し公平公正な記事を書くことは新聞倫理綱領新聞の憲法に沿ったもの地元紙は最近若い記者がよく辞めているよ/5412879628936520/"
+    "https://www.facebook.com/PRCDofficial.jp/posts/調査prとはリリースの書き方と成功事例を詳しく解説調査prとは自社で行った調査結果をニュース性のあるコンテンツとして発信する広報pr手法です単なるデータの羅列で/977153854210407/"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 10
+   "n_hits": 13
   },
   {
    "query": "調査報道・経済報道の数字の書き方の欄（CJR The Audit・推計の出どころの名指し・非公開の数字の扱い・4-120） note 社長",
    "results": [
     "https://note.com/nicchukansoku/n/ne9d378398611",
-    "https://note.com/yu_ai_company/n/n993463dc9ec8",
-    "https://note.com/ogutaku/n/n0ac40f1d9dfe",
-    "https://note.com/kouhou_soudan/n/nd9179e89b08b",
-    "https://www.nikkei.com/article/DGXNASDZ2601W_W4A620C1H56A00/",
+    "https://www.stat.go.jp/info/mdm/pdf/part3.pdf",
     "https://www.nhk.or.jp/bunken/d/_data/research/domestic/BUNA0000040540000006/files/006.pdf",
-    "https://note.com/azabu_food/n/nfe1f508fba1f",
+    "https://www.nikkei.com/article/DGXNASDZ2601W_W4A620C1H56A00/",
     "https://note.com/gay_coyote1350/n/n39ba03c869df",
-    "https://ideatech.jp/column/1o7bvptr/",
-    "https://report.prism-ai.jp/report-numerical-notation-guide/"
+    "https://note.com/miraisyakai/n/n7089ac704a58",
+    "https://note.com/ochyai/n/nb27ff7756d26",
+    "https://www.keio.ac.jp/ja/about/public-relations/mita-hyoron/features/06-1-2/",
+    "https://note.com/lc_kouhou/n/n2ecb8532f09d",
+    "https://ideatech.jp/column/1o7bvptr/"
    ],
    "engines": [
     "ddgs:google",
@@ -367,16 +368,16 @@
   {
    "query": "調査報道・経済報道の数字の書き方の欄（CJR The Audit・推計の出どころの名指し・非公開の数字の扱い・4-120） X 投稿",
    "results": [
-    "https://help.x.com/ja/rules-and-policies/curationstyleguide",
-    "https://ideatech.jp/column/1o7bvptr/",
-    "https://note.com/sebaschans/n/n1179309c628c",
+    "https://www.stat.go.jp/info/mdm/pdf/part3.pdf",
+    "https://x.com/ikedanoriyuki/status/1915062790659924393",
+    "https://dxpo.jp/college/front/digitalmarketing/x-algorithm.html",
     "https://www.nikkei.com/article/DGXNASDZ2601W_W4A620C1H56A00/",
-    "https://biz.moneyforward.com/ai/basic/378/",
-    "https://dime.jp/genre/2076537/",
-    "https://note.com/rifj_2012/n/nc04445241702",
-    "https://ja.wikipedia.org/wiki/Wikipedia:%E8%A1%A8%E8%A8%98%E3%82%AC%E3%82%A4%E3%83%89",
-    "https://x.com/tosumaru_mr/status/2112468870716084373",
-    "https://sns-unyo-note.jp/articles/data-suji-toukou-misekata/"
+    "https://www.soumu.go.jp/main_content/001046712.pdf",
+    "https://ideatech.jp/column/1o7bvptr/",
+    "https://www.asahi.com/articles/ASV3925VQV39ULFA006M.html",
+    "https://ideasforgood.jp/matome/world-press-freedom-index-2025/",
+    "https://note.com/gay_coyote1350/n/n39ba03c869df",
+    "https://report.prism-ai.jp/report-numerical-notation-guide/"
    ],
    "engines": [
     "ddgs:google",
@@ -387,18 +388,22 @@
   {
    "query": "CJR The Audit reporting estimates private company numbers attribution site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/i-hire-someone-audit-my-ga4-attribution-setup-what-actually-ann-titus-lyyic",
-    "https://www.linkedin.com/top-content/marketing/marketing-attribution-models/consolidated-reporting-and-attribution/",
-    "https://sg.linkedin.com/in/ben-chen-cipm-b48a7b313",
-    "https://uk.linkedin.com/in/chrisjanescjr",
-    "https://pt.linkedin.com/company/cjr-group",
-    "https://www.linkedin.com/posts/jeff-minor-_do-you-audit-attribution-models-quarterly-activity-7351974044440649729-Cs5M",
-    "https://www.linkedin.com/in/donna-graf-5481a624a"
+    "https://www.linkedin.com/in/bryce-bach-b067494",
+    "https://www.linkedin.com/in/cole-ritchie-a0b382203",
+    "https://www.linkedin.com/in/ben-chappell4",
+    "https://www.linkedin.com/in/caroline-brayne-9557b43",
+    "https://www.linkedin.com/in/michael-moran-mba-2594a918",
+    "https://www.linkedin.com/in/andrewjgray",
+    "https://www.linkedin.com/in/pshivery",
+    "https://ca.linkedin.com/in/brenda-eprile-fcpa-icd-d-a9221b30",
+    "https://www.linkedin.com/in/shaden-marzouk-md-mba-832a8512",
+    "https://www.linkedin.com/company/farragut-square-group"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:google",
+    "yahoo_jp"
    ],
-   "n_hits": 7
+   "n_hits": 17
   }
  ],
  "missing": {
@@ -409,6 +414,6 @@
   "実例": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 1,
+ "runs": 2,
  "first_researched_at": "2026-11-09T05:16:41.847008+00:00"
 }

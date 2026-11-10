@@ -1,0 +1,1642 @@
+{
+ "name": "Limechat",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜リマイン1",
+ "researched_at": "2026-11-10T00:28:11.616703+00:00",
+ "official_url": "https://www.limechat.ai",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$5M",
+    "url": "https://getlatka.com/companies/limechat",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "LimeChat | WhatsApp + Chat + Voice AI Agents for Enterprise",
+    "url": "https://www.limechat.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "LimeChat deploys enterprise-grade Chat + Voice agents across your full customer lifecycle in 2 weeks. Owned by your business team, no engineering queue. Most vendors take 3 months just to get to production.",
+    "url": "https://www.limechat.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "LimeChat has been a fantastic partner to Kapiva, helping us grow everything from CRM and content to CS (Customer Support).",
+    "url": "https://www.limechat.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Improved CSAT quality",
+    "url": "https://www.limechat.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "LimeChat's AI solutions have significantly enhanced our customer engagement and agent productivity. Instant feedback via WhatsApp has improved our understanding of customer needs, allowing us to adapt our services in real time.",
+    "url": "https://www.limechat.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Limechat and its two-way communication have played a pivotal role inour customer engagement, driving up our retention rate and LTV while also helping us close more sales from cart drop-offs. A special shoutout to Ashwath Nitin our CSM who goes above and beyond to help us achieve our objectives!",
+    "url": "https://www.limechat.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "In the past two years, we've nearly tripled ourselves and are on the verge of profitability. LimeChat has been instrumental in this journey, accelerating our growth and optimizing marketing ROI. Thanks to Aniket and the LimeChat team for their invaluable support!",
+    "url": "https://www.limechat.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Of total revenue from WhatsApp Marketing",
+    "url": "https://www.limechat.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Switching to LimeChat for our WhatsApp has been a brilliant decision. LC has significantly helped improved our WhatsApp communication strategy and the bot’s ability to handle customer queries have enhanced our customer experience.",
+    "url": "https://www.limechat.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase in lead generation",
+    "url": "https://www.limechat.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our partnership with LimeChat has redefined our engagement with potential guests. The seamless integration of WhatsApp and Instagram into our customer journey has elevated our guest experience. We’re not just capturing leads; we’re nurturing relationships that drive bookings and enhance satisfaction.",
+    "url": "https://www.limechat.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Associate Director Growth and Marketing",
+    "url": "https://www.limechat.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The Limechat bot itself is a game-changer—it now handles nearly80% of our customer queries. This has significantly improved our response times and customer satisfaction. The platform is intuitive, reliable, and has become an integral part of our support operations. Highly recommend Limechat for anyone looking to streamline their support, especially with such a dedicated team behind it!",
+    "url": "https://www.limechat.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Limechat has played a crucial role in driving impressive retention rates, reaching new audiences, and engaging our current customers through direct support on WhatsApp. The Limechat team has proven to be much more than just a service provider. They've truly become a valued partner in our growth journey.",
+    "url": "https://www.limechat.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-built Integrations",
+    "url": "https://www.limechat.ai/support/retail-channel-partner-support",
+    "pass": 1
+   },
+   {
+    "quote": "Update users about their order status proactively",
+    "url": "https://www.limechat.ai/support/retail-channel-partner-support",
+    "pass": 1
+   },
+   {
+    "quote": "Growth & Retention Teams",
+    "url": "https://www.limechat.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "COD verification, COD-to-prepaid",
+    "url": "https://www.limechat.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Growth AI Agent (Lead gen and qualification, onboarding, sales assist)",
+    "url": "https://www.limechat.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "WA Marketing & AI Growth Suite",
+    "url": "https://www.limechat.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Drive conversions and growth with WhatsApp-first marketing and AI-powered engagement agents",
+    "url": "https://www.limechat.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Get Personalized Pricing",
+    "url": "https://www.limechat.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Drive conversions and engagement with a seamless omnichannel marketing strategy",
+    "url": "https://www.limechat.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Dedicated Onboarding Specialist",
+    "url": "https://www.limechat.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Launch faster with a tailored setup, best-practice guidance, and expert training for your team.",
+    "url": "https://www.limechat.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Data-backed performance reviews with actionable strategies to continuously improve ROI and outcomes.",
+    "url": "https://www.limechat.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "24/7 Priority Support with SLA",
+    "url": "https://www.limechat.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Get personalized pricing",
+    "url": "https://www.limechat.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How is pricing structured?",
+    "url": "https://www.limechat.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Our pricing is based on your selected suite (Marketing or Support), conversation volume, and your AI automation tier. We also offer add-ons you can mix and match.",
+    "url": "https://www.limechat.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "See Pricing Details →",
+    "url": "https://www.limechat.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Can I customize my pricing plan?",
+    "url": "https://www.limechat.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "They're based on Meta’s template categories (marketing, utility, service, and authentication) and your AI agent’s resolution rate. We help you optimize for cost-efficiency.",
+    "url": "https://www.limechat.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Onboarding & Implementation",
+    "url": "https://www.limechat.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Most brands go live in 1–3 weeks. Our onboarding specialists guide you every step — from setup to live testing and agent training.",
+    "url": "https://www.limechat.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Do you offer dedicated onboarding support?",
+    "url": "https://www.limechat.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Every plan includes a dedicated onboarding specialist who provides personalized setup, training, and optimization.",
+    "url": "https://www.limechat.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "You get 24/7 priority support with defined SLAs, plus access to a dedicated Customer Success Manager for strategic help.",
+    "url": "https://www.limechat.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. We are SOC 2 compliant and follow enterprise-grade data security standards. Ask us for our security documentation if needed.",
+    "url": "https://www.limechat.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Acquisition Marketing",
+    "url": "https://www.limechat.ai/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How StayVista 3.5X’d Qualified Leads with an AI Agent",
+    "url": "https://www.limechat.ai/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How Runwal Enterprises Cut Cost Per Lead and Plugged the Leaky Funnel with WhatsApp AI",
+    "url": "https://www.limechat.ai/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How Tupperware Drove 11x ROI with LimeChat’s WhatsApp Marketing",
+    "url": "https://www.limechat.ai/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Inside Shesha Ayurveda’s ROI-First WhatsApp Marketing Strategy",
+    "url": "https://www.limechat.ai/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How Nobero Revolutionized Agent Productivity and Customer Satisfaction with AI?",
+    "url": "https://www.limechat.ai/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How Neemans used LimeChat’s AI-powered CRM to boost agent productivity?",
+    "url": "https://www.limechat.ai/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Healthy Mithai Co drives massive repeat business at 6+ RoAS with WhatsApp marketing",
+    "url": "https://www.limechat.ai/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Praush Beauty achieved a 10+ ROAS with highly targeted WhatsApp marketing",
+    "url": "https://www.limechat.ai/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Bella Vita Luxury Boosts Conversion Rates and RoAS with Ads that Click-to-WhatsApp",
+    "url": "https://www.limechat.ai/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Transform your marketing and support today",
+    "url": "https://www.limechat.ai/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "We believe that messaging channels will become the primary buying mediums in the next 5 years.",
+    "url": "https://www.limechat.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "We have a team of highly motivated individuals passionate about driving customer success and product innovation.",
+    "url": "https://www.limechat.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Transform your marketing and support today",
+    "url": "https://www.limechat.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Click-to-WhatsApp Ads",
+    "url": "https://www.limechat.ai/ai",
+    "pass": 1
+   },
+   {
+    "quote": "LimeChat's success comes from our special Level 3 Conversational AI, created by experts from MIT, CMU, and IIT Delhi. This technology improves online shopping by understanding and responding to customers' messages more like a human would, making their experience smoother and more personalized.",
+    "url": "https://www.limechat.ai/ai",
+    "pass": 1
+   },
+   {
+    "quote": "Our technology's capacity for understanding and retaining conversation context results in nearly double the automation rates of previous technologies and superior CSAT scores, outperforming even live human agents.",
+    "url": "https://www.limechat.ai/ai",
+    "pass": 1
+   },
+   {
+    "quote": "Transform your marketing and support today",
+    "url": "https://www.limechat.ai/ai",
+    "pass": 1
+   },
+   {
+    "quote": "Partner Program | LimeChat",
+    "url": "https://www.limechat.ai/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "You're an agency or marketing consultant",
+    "url": "https://www.limechat.ai/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "You're looking for product integration",
+    "url": "https://www.limechat.ai/partner-program",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "LimeChat deploys enterprise-grade Chat + Voice agents across your full customer lifecycle in 2 weeks. Owned by your business team, no engineering queue. Most vendors take 3 months just to get to production.",
+    "url": "https://www.limechat.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Of total revenue from WhatsApp Marketing",
+    "url": "https://www.limechat.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The Limechat bot itself is a game-changer—it now handles nearly80% of our customer queries. This has significantly improved our response times and customer satisfaction. The platform is intuitive, reliable, and has become an integral part of our support operations. Highly recommend Limechat for anyone looking to streamline their support, especially with such a dedicated team behind it!",
+    "url": "https://www.limechat.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Total brand revenue from WhatsApp",
+    "url": "https://www.limechat.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue & engagement metrics",
+    "url": "https://www.limechat.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Your strategic advisor to maximize adoption, optimize campaigns, and hit revenue & CSAT goals consistently.",
+    "url": "https://www.limechat.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Acquisition Marketing",
+    "url": "https://www.limechat.ai/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How Mulmul turned high-intent traffic into revenue with AI-led lifecycle automation and live sales conversations",
+    "url": "https://www.limechat.ai/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Unlocking Hidden Revenue: How Imagimake Converted Anonymous Visitors into Repeat Buyers",
+    "url": "https://www.limechat.ai/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How Mazikien, a High-AOV Fashion Brand, Recovered ₹2.3L in Revenue in 1 Month Using Shop Pass and LimeChat",
+    "url": "https://www.limechat.ai/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How P-Tal Achieved 2X Revenue Growth with LimeChat x WebEngage",
+    "url": "https://www.limechat.ai/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Campus Sutra’s Revenue Growth and Operational Transformation Through WhatsApp Commerce",
+    "url": "https://www.limechat.ai/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "How Beastlife Drove 28% of Revenue via WhatsApp within Just 3 Months of Launch",
+    "url": "https://www.limechat.ai/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Urban Gabru doubled their WhatsApp revenue with LimeChat's AI chatbot",
+    "url": "https://www.limechat.ai/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "The Indus Valley sees a 200% MoM increase in revenue with LimeChat automation",
+    "url": "https://www.limechat.ai/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Alamode by Akanksha drives revenue from IG comments with LimeChat's Instagram Commerce",
+    "url": "https://www.limechat.ai/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "We are making the entire infrastructure for Ecommerce brands to leverage chat – from driving revenue to delivering amazing support.",
+    "url": "https://www.limechat.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Well, you can earn industry-leading revenue share for every client you refer to LimeChat",
+    "url": "https://www.limechat.ai/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "How Mulmul turned high-intent traffic into revenue with AI-led lifecycle automation and live sales conversations",
+    "url": "https://www.limechat.ai/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Total brand revenue influenced by WhatsApp",
+    "url": "https://www.limechat.ai/case-study/biotique-achieved-4-1-roas-with-limechats-advanced-whatsapp-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Sonal Maheshwari, the Marketing Lead at Biotique, identified WhatsApp as a promising revenue channel and onboarded LimeChat on December 2023. With the help of LimeChat’s platform, Biotique quickly observed a consistent increase in RoAS from their WhatsApp marketing initiatives. This upward trend continued throughout the first half of 2024.",
+    "url": "https://www.limechat.ai/case-study/biotique-achieved-4-1-roas-with-limechats-advanced-whatsapp-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "12% of Total Brand Revenue from WhatsApp",
+    "url": "https://www.limechat.ai/case-study/biotique-achieved-4-1-roas-with-limechats-advanced-whatsapp-solutions",
+    "pass": 1
+   },
+   {
+    "quote": ": The role of WhatsApp in Biotique’s marketing strategy expanded significantly, contributing to 16% of the brand’s total revenue.",
+    "url": "https://www.limechat.ai/case-study/biotique-achieved-4-1-roas-with-limechats-advanced-whatsapp-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "We have been using whatsapp for more than 6 months , now we can see improvement in revenue of our website with the team support/ continuous meetings/ new challenges /trainings. Bhavya's contribution in aligning many thimgs/ added new intiatives in our business model had really helped us.",
+    "url": "https://www.limechat.ai/case-study/biotique-achieved-4-1-roas-with-limechats-advanced-whatsapp-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "How Mulmul turned high-intent traffic into revenue with AI-led lifecycle automation and live sales conversations",
+    "url": "https://www.limechat.ai/case-study/biotique-achieved-4-1-roas-with-limechats-advanced-whatsapp-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Acquisition Marketing",
+    "url": "https://www.limechat.ai/case-study/haute-sauces-secret-to-turning-anonymous-visitors-into-customers-with-nitrox-and-limechat",
+    "pass": 1
+   },
+   {
+    "quote": "There is an additional potential to target the 89% of users who were retargeted but did not convert. By leveraging high-performing channels including WhatsApp, Haute Sauce can generate up to 50% more revenue from these users.",
+    "url": "https://www.limechat.ai/case-study/haute-sauces-secret-to-turning-anonymous-visitors-into-customers-with-nitrox-and-limechat",
+    "pass": 1
+   },
+   {
+    "quote": "How Mulmul turned high-intent traffic into revenue with AI-led lifecycle automation and live sales conversations",
+    "url": "https://www.limechat.ai/case-study/haute-sauces-secret-to-turning-anonymous-visitors-into-customers-with-nitrox-and-limechat",
+    "pass": 1
+   },
+   {
+    "quote": ". This high turnover was negatively impacting revenue and account expansion.",
+    "url": "https://www.limechat.ai/case-study/rpsg-revolutionized-channel-partner-engagement-through-whatsapp",
+    "pass": 1
+   },
+   {
+    "quote": "Srikant, Head of Trade Marketing (TM) and Channel Sales at RPSG, was determined to turn this around. His primary KPI, revenue growth from channel accounts, hinged on maintaining robust relationships with channel partners and the field force team.",
+    "url": "https://www.limechat.ai/case-study/rpsg-revolutionized-channel-partner-engagement-through-whatsapp",
+    "pass": 1
+   },
+   {
+    "quote": "“Our partners and field team are crucial to our success, and when they're not satisfied, it directly impacts our revenue and growth. We needed a solution to provide better support directly from our brand,” explained Srikant.",
+    "url": "https://www.limechat.ai/case-study/rpsg-revolutionized-channel-partner-engagement-through-whatsapp",
+    "pass": 1
+   },
+   {
+    "quote": "Srikant saw WhatsApp's personal nature and widespread use as the key to reducing RPSG’s attrition rates and revenue losses. With LimeChat's collaboration, he envisioned a seamless communication channel that would revolutionize how RPSG interacted with its channel partners/field force and drive business growth.",
+    "url": "https://www.limechat.ai/case-study/rpsg-revolutionized-channel-partner-engagement-through-whatsapp",
+    "pass": 1
+   },
+   {
+    "quote": "In partnership with LimeChat, RPSG successfully leveraged WhatsApp to establish direct communication between the brand and its channel partners and field force. By reducing turnaround time (TAT) and swiftly resolving their queries, RPSG managed to decrease attrition by 40%. This significant reduction in attrition translated to a potential revenue increase of 12-15% for the brand.",
+    "url": "https://www.limechat.ai/case-study/rpsg-revolutionized-channel-partner-engagement-through-whatsapp",
+    "pass": 1
+   },
+   {
+    "quote": "Impact on revenue growth",
+    "url": "https://www.limechat.ai/case-study/rpsg-revolutionized-channel-partner-engagement-through-whatsapp",
+    "pass": 1
+   },
+   {
+    "quote": "notable revenue growth of 12-15%",
+    "url": "https://www.limechat.ai/case-study/rpsg-revolutionized-channel-partner-engagement-through-whatsapp",
+    "pass": 1
+   },
+   {
+    "quote": "for RPSG. By retaining more partners and field force and building stronger relationships through Sarathi, RPSG capitalized on increased sales opportunities, resulting in significant revenue expansion.",
+    "url": "https://www.limechat.ai/case-study/rpsg-revolutionized-channel-partner-engagement-through-whatsapp",
+    "pass": 1
+   },
+   {
+    "quote": "How Mulmul turned high-intent traffic into revenue with AI-led lifecycle automation and live sales conversations",
+    "url": "https://www.limechat.ai/case-study/rpsg-revolutionized-channel-partner-engagement-through-whatsapp",
+    "pass": 1
+   },
+   {
+    "quote": "“We onboarded LimeChat to automate our conversations through a bot. We have achieved the goal of 70% automation consistently for 3 months. Revenue through the bot conversations has also tripled.”",
+    "url": "https://www.limechat.ai/case-study/tmc-saw-a-3x-upliftment-in-their-monthly-sales-with-level-3-ai-sales-bot",
+    "pass": 1
+   },
+   {
+    "quote": "How Mulmul turned high-intent traffic into revenue with AI-led lifecycle automation and live sales conversations",
+    "url": "https://www.limechat.ai/case-study/tmc-saw-a-3x-upliftment-in-their-monthly-sales-with-level-3-ai-sales-bot",
+    "pass": 1
+   },
+   {
+    "quote": "AI-Powered Customer Engagement Boosts Kapiva's Revenue & Satisfaction",
+    "url": "https://www.limechat.ai/case-study/how-kapiva-delivered-exceptional-experience-on-whatsapp-using-limechats-e-commerce-gpt-bot",
+    "pass": 1
+   },
+   {
+    "quote": ", presenting a significant opportunity to deliver a great customer experience and drive revenue.",
+    "url": "https://www.limechat.ai/case-study/how-kapiva-delivered-exceptional-experience-on-whatsapp-using-limechats-e-commerce-gpt-bot",
+    "pass": 1
+   },
+   {
+    "quote": ": With more accurate and timely responses, revenue from the",
+    "url": "https://www.limechat.ai/case-study/how-kapiva-delivered-exceptional-experience-on-whatsapp-using-limechats-e-commerce-gpt-bot",
+    "pass": 1
+   },
+   {
+    "quote": "was keen on using advanced AI to answer open-ended questions accurately and convert it into tangible CX improvements and revenue. It proved to be a game-changer in how Kapiva interacted with potential customers. The AI-driven approach not only improved efficiency but also",
+    "url": "https://www.limechat.ai/case-study/how-kapiva-delivered-exceptional-experience-on-whatsapp-using-limechats-e-commerce-gpt-bot",
+    "pass": 1
+   },
+   {
+    "quote": "How Mulmul turned high-intent traffic into revenue with AI-led lifecycle automation and live sales conversations",
+    "url": "https://www.limechat.ai/case-study/how-kapiva-delivered-exceptional-experience-on-whatsapp-using-limechats-e-commerce-gpt-bot",
+    "pass": 1
+   },
+   {
+    "quote": "How Mulmul turned high-intent traffic into revenue with AI-led lifecycle automation and live sales conversations",
+    "url": "https://www.limechat.ai/case-study/how-cahoot-drove-sales-by-running-voice-and-whatsapp-together",
+    "pass": 1
+   },
+   {
+    "quote": "How Mulmul turned high-intent traffic into revenue with AI-led lifecycle automation and live sales conversations",
+    "url": "https://www.limechat.ai/case-study/how-mulmul-turned-high-intent-traffic-into-revenue-with-ai-led-lifecycle-automation-and-live-sales-conversations",
+    "pass": 1
+   },
+   {
+    "quote": ". Mulmul already had a 24% repeat-purchase rate, a strong signal of brand affinity but with no lifecycle-driven engine connecting past behaviour to future outreach, that loyalty wasn't compounding into a predictable, repeatable revenue stream.",
+    "url": "https://www.limechat.ai/case-study/how-mulmul-turned-high-intent-traffic-into-revenue-with-ai-led-lifecycle-automation-and-live-sales-conversations",
+    "pass": 1
+   },
+   {
+    "quote": "Left unresolved, this meant Mulmul was leaving revenue on the table at every stage of the funnel , while also risking the one thing a luxury brand can least afford to compromise on: a consistent, considered customer experience across channels.",
+    "url": "https://www.limechat.ai/case-study/how-mulmul-turned-high-intent-traffic-into-revenue-with-ai-led-lifecycle-automation-and-live-sales-conversations",
+    "pass": 1
+   },
+   {
+    "quote": "Direct route from campaign to sales rep: Every campaign carried rich visuals and a dedicated response button. A single tap routed the customer straight into Mulmul's sales team via LimeChat Helpdesk - the piece that converted expressed interest into a live, human sales conversation.",
+    "url": "https://www.limechat.ai/case-study/how-mulmul-turned-high-intent-traffic-into-revenue-with-ai-led-lifecycle-automation-and-live-sales-conversations",
+    "pass": 1
+   },
+   {
+    "quote": "3. Results: Measurable Impact Across Revenue and Support",
+    "url": "https://www.limechat.ai/case-study/how-mulmul-turned-high-intent-traffic-into-revenue-with-ai-led-lifecycle-automation-and-live-sales-conversations",
+    "pass": 1
+   },
+   {
+    "quote": "The pattern across every metric is the same: intent that used to go cold now gets caught, routed, and closed — by an AI-orchestrated trigger on one side, and a real sales conversation with a tracked SLA on the other. That combination is what let Mulmul scale multi-channel revenue without",
+    "url": "https://www.limechat.ai/case-study/how-mulmul-turned-high-intent-traffic-into-revenue-with-ai-led-lifecycle-automation-and-live-sales-conversations",
+    "pass": 1
+   },
+   {
+    "quote": "HyugaLife is a marketplace for proteins, supplements and wellness products, carrying over 10,000 products across 450+ brands under its own lab-verified \"H-Tested\" authenticity programme.",
+    "url": "https://www.limechat.ai/case-study/how-hyugalife-drove-roi-on-voice-ai-during-its-independence-day-sale",
+    "pass": 1
+   },
+   {
+    "quote": ", combining voice-direct and assistive revenue",
+    "url": "https://www.limechat.ai/case-study/how-hyugalife-drove-roi-on-voice-ai-during-its-independence-day-sale",
+    "pass": 1
+   },
+   {
+    "quote": ") was built specifically to close that gap, sourcing directly from FSSAI-approved brands, cutting out third-party sellers, and publishing independent lab reports. Every product carries a QR authenticity code buyers can scan on delivery to check it against that same testing.",
+    "url": "https://www.limechat.ai/case-study/how-hyugalife-drove-roi-on-voice-ai-during-its-independence-day-sale",
+    "pass": 1
+   },
+   {
+    "quote": "Challenge: A Sale Window Where Every Hour of Hesitation Costs Revenue",
+    "url": "https://www.limechat.ai/case-study/how-hyugalife-drove-roi-on-voice-ai-during-its-independence-day-sale",
+    "pass": 1
+   },
+   {
+    "quote": "HyugaLife saw ₹23L in total orders, combining voice-direct and assistive revenue. Against the Voice AI spend for the campaign, that works out to a 51x return.",
+    "url": "https://www.limechat.ai/case-study/how-hyugalife-drove-roi-on-voice-ai-during-its-independence-day-sale",
+    "pass": 1
+   },
+   {
+    "quote": "During a compressed, high-discount sale window, the highest-value action isn't reaching more people, it's reaching the right ones fast enough that their intent doesn't cool off. HyugaLife's ABC and broadcast Voice AI layers did exactly that: recovering carts before the sale closed, and reaching likely buyers before the window ran out, at a fraction of the revenue it drove back.",
+    "url": "https://www.limechat.ai/case-study/how-hyugalife-drove-roi-on-voice-ai-during-its-independence-day-sale",
+    "pass": 1
+   },
+   {
+    "quote": "How Mulmul turned high-intent traffic into revenue with AI-led lifecycle automation and live sales conversations",
+    "url": "https://www.limechat.ai/case-study/how-hyugalife-drove-roi-on-voice-ai-during-its-independence-day-sale",
+    "pass": 1
+   },
+   {
+    "quote": "How Mulmul turned high-intent traffic into revenue with AI-led lifecycle automation and live sales conversations",
+    "url": "https://www.limechat.ai/case-study/man-matters-improved-its-csat-scores-by-automating-70-of-customer-queries",
+    "pass": 1
+   },
+   {
+    "quote": "How Mulmul turned high-intent traffic into revenue with AI-led lifecycle automation and live sales conversations",
+    "url": "https://www.limechat.ai/case-study/wow-skin-science-delivers-2x-better-experience-with-limechats-gpt-powered-ai-bot",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "How RPSG Revolutionized Channel Partner Engagement through the Sarathi Initiative on WhatsApp",
+    "url": "https://www.limechat.ai/support/retail-channel-partner-support",
+    "pass": 1
+   },
+   {
+    "quote": "Retail channel partner support",
+    "url": "https://www.limechat.ai/support/retail-channel-partner-support",
+    "pass": 1
+   },
+   {
+    "quote": "Elevate channel partner engagement with AI-driven WhatsApp Sales Partner",
+    "url": "https://www.limechat.ai/support/retail-channel-partner-support",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to supercharge your channel partner engagement?",
+    "url": "https://www.limechat.ai/support/retail-channel-partner-support",
+    "pass": 1
+   },
+   {
+    "quote": "How RPSG Revolutionized Channel Partner Engagement through the Sarathi Initiative on WhatsApp",
+    "url": "https://www.limechat.ai/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Retail Channel Partner Support",
+    "url": "https://www.limechat.ai/ai",
+    "pass": 1
+   },
+   {
+    "quote": "Partner Program | LimeChat",
+    "url": "https://www.limechat.ai/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Retail channel partner support",
+    "url": "https://www.limechat.ai/support/level-3-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Elevate channel partner engagement with AI-driven WhatsApp Sales Partner",
+    "url": "https://www.limechat.ai/support/level-3-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Retail Channel Partner Support",
+    "url": "https://www.limechat.ai/case-study/biotique-achieved-4-1-roas-with-limechats-advanced-whatsapp-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Retail Channel Partner Support",
+    "url": "https://www.limechat.ai/case-study/haute-sauces-secret-to-turning-anonymous-visitors-into-customers-with-nitrox-and-limechat",
+    "pass": 1
+   },
+   {
+    "quote": "Retail Channel Partner Support",
+    "url": "https://www.limechat.ai/case-study/rpsg-revolutionized-channel-partner-engagement-through-whatsapp",
+    "pass": 1
+   },
+   {
+    "quote": "How RPSG Revolutionized Channel Partner Engagement through the Sarathi Initiative on WhatsApp",
+    "url": "https://www.limechat.ai/case-study/rpsg-revolutionized-channel-partner-engagement-through-whatsapp",
+    "pass": 1
+   },
+   {
+    "quote": "high attrition rate among channel partners and field force",
+    "url": "https://www.limechat.ai/case-study/rpsg-revolutionized-channel-partner-engagement-through-whatsapp",
+    "pass": 1
+   },
+   {
+    "quote": "Srikant, Head of Trade Marketing (TM) and Channel Sales at RPSG, was determined to turn this around. His primary KPI, revenue growth from channel accounts, hinged on maintaining robust relationships with channel partners and the field force team.",
+    "url": "https://www.limechat.ai/case-study/rpsg-revolutionized-channel-partner-engagement-through-whatsapp",
+    "pass": 1
+   },
+   {
+    "quote": "Recognizing the critical need to improve the relationship between RPSG and its channel partners and field team, Srikant identified an opportunity to establish a support system. His goal was to find a solution that would enable direct engagement with partners and field force, address their concerns effectively, and provide a superior brand experience.",
+    "url": "https://www.limechat.ai/case-study/rpsg-revolutionized-channel-partner-engagement-through-whatsapp",
+    "pass": 1
+   },
+   {
+    "quote": "co-built a solution called Sarathi, the world's first WhatsApp chatbot designed specifically for direct engagement with channel partners and field force in the FMCG sector.",
+    "url": "https://www.limechat.ai/case-study/rpsg-revolutionized-channel-partner-engagement-through-whatsapp",
+    "pass": 1
+   },
+   {
+    "quote": "Srikant saw WhatsApp's personal nature and widespread use as the key to reducing RPSG’s attrition rates and revenue losses. With LimeChat's collaboration, he envisioned a seamless communication channel that would revolutionize how RPSG interacted with its channel partners/field force and drive business growth.",
+    "url": "https://www.limechat.ai/case-study/rpsg-revolutionized-channel-partner-engagement-through-whatsapp",
+    "pass": 1
+   },
+   {
+    "quote": "Collecting timely feedback on WhatsApp to ensure channel partners and field force were happy with their brand experiences",
+    "url": "https://www.limechat.ai/case-study/rpsg-revolutionized-channel-partner-engagement-through-whatsapp",
+    "pass": 1
+   },
+   {
+    "quote": "was introduced as a lifeline on WhatsApp, where channel partners and field team could easily reach out to the brand and get quick responses. This initiative allowed RPSG to show its commitment by promptly addressing grievances.",
+    "url": "https://www.limechat.ai/case-study/rpsg-revolutionized-channel-partner-engagement-through-whatsapp",
+    "pass": 1
+   },
+   {
+    "quote": "Both the channel partner and field force",
+    "url": "https://www.limechat.ai/case-study/rpsg-revolutionized-channel-partner-engagement-through-whatsapp",
+    "pass": 1
+   },
+   {
+    "quote": "Within months, Srikant noticed a visible improvement in relationships with channel partners/field force and a",
+    "url": "https://www.limechat.ai/case-study/rpsg-revolutionized-channel-partner-engagement-through-whatsapp",
+    "pass": 1
+   },
+   {
+    "quote": "In partnership with LimeChat, RPSG successfully leveraged WhatsApp to establish direct communication between the brand and its channel partners and field force. By reducing turnaround time (TAT) and swiftly resolving their queries, RPSG managed to decrease attrition by 40%. This significant reduction in attrition translated to a potential revenue increase of 12-15% for the brand.",
+    "url": "https://www.limechat.ai/case-study/rpsg-revolutionized-channel-partner-engagement-through-whatsapp",
+    "pass": 1
+   },
+   {
+    "quote": "Retail Channel Partner Support",
+    "url": "https://www.limechat.ai/case-study/tmc-saw-a-3x-upliftment-in-their-monthly-sales-with-level-3-ai-sales-bot",
+    "pass": 1
+   },
+   {
+    "quote": "Retail Channel Partner Support",
+    "url": "https://www.limechat.ai/case-study/how-kapiva-delivered-exceptional-experience-on-whatsapp-using-limechats-e-commerce-gpt-bot",
+    "pass": 1
+   },
+   {
+    "quote": "Retail Channel Partner Support",
+    "url": "https://www.limechat.ai/case-study/how-cahoot-drove-sales-by-running-voice-and-whatsapp-together",
+    "pass": 1
+   },
+   {
+    "quote": "Retail Channel Partner Support",
+    "url": "https://www.limechat.ai/case-study/how-mulmul-turned-high-intent-traffic-into-revenue-with-ai-led-lifecycle-automation-and-live-sales-conversations",
+    "pass": 1
+   },
+   {
+    "quote": "Retail Channel Partner Support",
+    "url": "https://www.limechat.ai/case-study/how-hyugalife-drove-roi-on-voice-ai-during-its-independence-day-sale",
+    "pass": 1
+   },
+   {
+    "quote": "Retail Channel Partner Support",
+    "url": "https://www.limechat.ai/case-study/man-matters-improved-its-csat-scores-by-automating-70-of-customer-queries",
+    "pass": 1
+   },
+   {
+    "quote": "Retail Channel Partner Support",
+    "url": "https://www.limechat.ai/case-study/wow-skin-science-delivers-2x-better-experience-with-limechats-gpt-powered-ai-bot",
+    "pass": 1
+   },
+   {
+    "quote": "Retail Channel Partner Support",
+    "url": "https://www.limechat.ai/case-study/revolutionizing-agent-productivity-and-customer-satisfaction-with-ai",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Centralize all customer interactions—across email, chat, IG, and more",
+    "url": "https://www.limechat.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "name, email, phone number, location, product views, category views, total cart value, and last activity",
+    "url": "https://www.limechat.ai/case-study/haute-sauces-secret-to-turning-anonymous-visitors-into-customers-with-nitrox-and-limechat",
+    "pass": 1
+   },
+   {
+    "quote": "Email, WhatsApp, and SMS",
+    "url": "https://www.limechat.ai/case-study/how-mulmul-turned-high-intent-traffic-into-revenue-with-ai-led-lifecycle-automation-and-live-sales-conversations",
+    "pass": 1
+   },
+   {
+    "quote": "Dynamic inbox experiences: AMP-powered interactive emails (in-box carousels, rich media) paired with Send Time Optimisation reached customers at their individual peak activity hours.",
+    "url": "https://www.limechat.ai/case-study/how-mulmul-turned-high-intent-traffic-into-revenue-with-ai-led-lifecycle-automation-and-live-sales-conversations",
+    "pass": 1
+   },
+   {
+    "quote": "A dedicated agent assembles the data, writes the narrative and drafts the email. The CSM only reviews and sends.",
+    "url": "https://retainsure.com/case-studies/limechat",
+    "pass": 3
+   },
+   {
+    "quote": "The Monthly Business Review is LimeChat's core retention touchpoint, the recurring moment where a CSM shows a customer the value delivered and sets up the month ahead. But building each one was slow, manual work: pulling usage and performance data, interpreting it, writing the narrative, and composing a customer ready email plus a detailed document. LimeChat put this at roughly",
+    "url": "https://retainsure.com/case-studies/limechat",
+    "pass": 3
+   },
+   {
+    "quote": "RetainSure deployed a dedicated MBR agent for each CSM. The agent assembles the account's monthly data, generates the complete business review narrative, and drafts the customer facing email and a detailed document",
+    "url": "https://retainsure.com/case-studies/limechat",
+    "pass": 3
+   },
+   {
+    "quote": "CSPs are dashboards your team has to operate. RetainSure operates itself. We watch every account, write the QBRs, draft the renewal emails. Your CSMs review and ship. The distinction is not a feature difference, it is a different assumption about who does the work.",
+    "url": "https://retainsure.com/case-studies/limechat",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Password Protected Case Study",
+    "url": "https://www.limechat.ai/case-study/biotique-achieved-4-1-roas-with-limechats-advanced-whatsapp-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Download Full Case Study",
+    "url": "https://www.limechat.ai/case-study/biotique-achieved-4-1-roas-with-limechats-advanced-whatsapp-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Password Protected Case Study",
+    "url": "https://www.limechat.ai/case-study/haute-sauces-secret-to-turning-anonymous-visitors-into-customers-with-nitrox-and-limechat",
+    "pass": 1
+   },
+   {
+    "quote": "Download Full Case Study",
+    "url": "https://www.limechat.ai/case-study/haute-sauces-secret-to-turning-anonymous-visitors-into-customers-with-nitrox-and-limechat",
+    "pass": 1
+   },
+   {
+    "quote": "Password Protected Case Study",
+    "url": "https://www.limechat.ai/case-study/rpsg-revolutionized-channel-partner-engagement-through-whatsapp",
+    "pass": 1
+   },
+   {
+    "quote": "Download Full Case Study",
+    "url": "https://www.limechat.ai/case-study/rpsg-revolutionized-channel-partner-engagement-through-whatsapp",
+    "pass": 1
+   },
+   {
+    "quote": "Password Protected Case Study",
+    "url": "https://www.limechat.ai/case-study/tmc-saw-a-3x-upliftment-in-their-monthly-sales-with-level-3-ai-sales-bot",
+    "pass": 1
+   },
+   {
+    "quote": "Read the full case study to know how The Man Company",
+    "url": "https://www.limechat.ai/case-study/tmc-saw-a-3x-upliftment-in-their-monthly-sales-with-level-3-ai-sales-bot",
+    "pass": 1
+   },
+   {
+    "quote": "Download Full Case Study",
+    "url": "https://www.limechat.ai/case-study/tmc-saw-a-3x-upliftment-in-their-monthly-sales-with-level-3-ai-sales-bot",
+    "pass": 1
+   },
+   {
+    "quote": "Password Protected Case Study",
+    "url": "https://www.limechat.ai/case-study/how-kapiva-delivered-exceptional-experience-on-whatsapp-using-limechats-e-commerce-gpt-bot",
+    "pass": 1
+   },
+   {
+    "quote": "Download Full Case Study",
+    "url": "https://www.limechat.ai/case-study/how-kapiva-delivered-exceptional-experience-on-whatsapp-using-limechats-e-commerce-gpt-bot",
+    "pass": 1
+   },
+   {
+    "quote": "Password Protected Case Study",
+    "url": "https://www.limechat.ai/case-study/how-cahoot-drove-sales-by-running-voice-and-whatsapp-together",
+    "pass": 1
+   },
+   {
+    "quote": "Download Full Case Study",
+    "url": "https://www.limechat.ai/case-study/how-cahoot-drove-sales-by-running-voice-and-whatsapp-together",
+    "pass": 1
+   },
+   {
+    "quote": "Password Protected Case Study",
+    "url": "https://www.limechat.ai/case-study/how-mulmul-turned-high-intent-traffic-into-revenue-with-ai-led-lifecycle-automation-and-live-sales-conversations",
+    "pass": 1
+   },
+   {
+    "quote": "Download Full Case Study",
+    "url": "https://www.limechat.ai/case-study/how-mulmul-turned-high-intent-traffic-into-revenue-with-ai-led-lifecycle-automation-and-live-sales-conversations",
+    "pass": 1
+   },
+   {
+    "quote": "Password Protected Case Study",
+    "url": "https://www.limechat.ai/case-study/how-hyugalife-drove-roi-on-voice-ai-during-its-independence-day-sale",
+    "pass": 1
+   },
+   {
+    "quote": "Download Full Case Study",
+    "url": "https://www.limechat.ai/case-study/how-hyugalife-drove-roi-on-voice-ai-during-its-independence-day-sale",
+    "pass": 1
+   },
+   {
+    "quote": "Password Protected Case Study",
+    "url": "https://www.limechat.ai/case-study/man-matters-improved-its-csat-scores-by-automating-70-of-customer-queries",
+    "pass": 1
+   },
+   {
+    "quote": "Download Full Case Study",
+    "url": "https://www.limechat.ai/case-study/man-matters-improved-its-csat-scores-by-automating-70-of-customer-queries",
+    "pass": 1
+   },
+   {
+    "quote": "Password Protected Case Study",
+    "url": "https://www.limechat.ai/case-study/wow-skin-science-delivers-2x-better-experience-with-limechats-gpt-powered-ai-bot",
+    "pass": 1
+   },
+   {
+    "quote": "Download Full Case Study",
+    "url": "https://www.limechat.ai/case-study/wow-skin-science-delivers-2x-better-experience-with-limechats-gpt-powered-ai-bot",
+    "pass": 1
+   },
+   {
+    "quote": "Password Protected Case Study",
+    "url": "https://www.limechat.ai/case-study/revolutionizing-agent-productivity-and-customer-satisfaction-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "This case study highlights Nobero's successful integration of LimeChat’s AI solutions to overcome significant challenges in customer service management and feedback collection, setting a new benchmark for efficiency and customer-centricity in the industry.",
+    "url": "https://www.limechat.ai/case-study/revolutionizing-agent-productivity-and-customer-satisfaction-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Download Full Case Study",
+    "url": "https://www.limechat.ai/case-study/revolutionizing-agent-productivity-and-customer-satisfaction-with-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Success Stories about Software and Services used by LimeChat",
+    "url": "https://www.casestudies.com/customer/limechat",
+    "pass": 3
+   },
+   {
+    "quote": "LimeChat Case Study: MBR Prep Cut From 4 Hours to 5 Minutes",
+    "url": "https://retainsure.com/case-studies/limechat",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "IRC Client (Limechat2)導入方法 - Lies.jp — IRC Client (Limechat2)導入方法 IRCとは IRC（Internet Relay Chat）とは、ネットワークリアルタイム会議システムです。 IRCを使うと、大勢の人と同時にチャットをすることができます。",
+    "url": "https://shakespeare.lies.jp/irc/",
+    "pass": 3
+   },
+   {
+    "quote": "Limechat2 導入方法 – Limechat 設定 移行 – GQZXZ — Aug 23, 2025 · 導入例 [1]まずは LimeChatのページ に行ってソフトをダウンロードしましょう。 右側にある最新版をダウンロードの文字の下にある、リンクの上側をクリックしてexeファイルをダウンロードします。",
+    "url": "https://1sttouch.org/limechat2-導入方法-limechat-設定-移行/",
+    "pass": 3
+   },
+   {
+    "quote": "LimeChat — もし LimeChat を気に入ってくださったら、寄付をしてもらえるとうれしいです。あなたの寄付がこれからの開発を支えます。",
+    "url": "http://limechat.net/",
+    "pass": 3
+   },
+   {
+    "quote": "IRCクライアントLimeChat2をインストールしよう — IRCに参加するための第1歩として、クライアントソフトをインストールしましょう。 今回は定評のある 「LimeChat2」 を導入していきます。 ※解説ではWindows 11 / Microsoft Edgeを使用しています。",
+    "url": "https://mustangtis.wjg.jp/IRC-re/install.html",
+    "pass": 3
+   },
+   {
+    "quote": "IRCクライアントLimeChat2をインストールしよう — 今回はIRCクライアントとしては定評のあるLimeChat2を導入していきます 尚、テスト環境として急遽用意した仮想PCにWindows11をインストールしたものを使いますのでOSはWindows11、インターネットブラウザはedgeになります",
+    "url": "https://mustangtis.wjg.jp/IRC/install.html",
+    "pass": 3
+   },
+   {
+    "quote": "LimeChat - Wikipedia — LimeChat は、 Psychs によって開発された IRC クライアントソフトウェアである。対応する オペレーティングシステム (OS) ごとに次のバージョンが存在する。 LimeChat 1 Windows 用のオリジナルバージョン。開発・公開は終了。 LimeChat 2 Windows用の複数サーバーへの同時接続や国際化などに対応した現行版 ...",
+    "url": "https://ja.wikipedia.org/wiki/LimeChat",
+    "pass": 3
+   },
+   {
+    "quote": "LimeChat | WhatsApp + Chat + Voice AI Agents for Enterprise — LimeChat deploys enterprise-grade WhatsApp + Chat + Voice AI Agents for BFSI, D2C, Hospitality and Real Estate — live in 2 weeks. Trusted by 300+ brands including Mahindra Auto, HUL, and Axis Max Life",
+    "url": "https://www.limechat.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "LimeChat: IRC Client for Mac — Google Group: LimeChat Satoshi Nakagawa I'll be glad if you would like to donate. Your donation will help further development.",
+    "url": "http://limechat.net/mac/",
+    "pass": 3
+   },
+   {
+    "quote": "About us | LimeChat — The future of e-commerce What LimeChat is all about? LimeChat was started with the aim of revolutionizing conversational commerce. We strongly believe that chat is a much more personalized and interactive medium for shopping. Level-3 AI will be the final piece of the puzzle to build store-like experiences on chat, catapulting brands into c-commerce globally.",
+    "url": "https://www.limechat.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "Case studies | WhatsApp Commerce | LimeChat — See how LimeChat drives growth for eCommerce brands using WhatsApp broadcasts, marketing, sales and support campaigns",
+    "url": "https://www.limechat.ai/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How LimeChat Uses Software & Services — Explore case studies featuring LimeChat as the customer — learn how vendors and partners helped LimeChat solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/limechat",
+    "pass": 3
+   },
+   {
+    "quote": "LimeChat Case Study: MBR Prep Cut From 4 Hours to 5 Minutes — LimeChat's CS team uses RetainSure agents to draft every Monthly Business Review, cutting prep from 4 hours to 5 minutes and returning 9,800 hours a year.",
+    "url": "https://retainsure.com/case-studies/limechat",
+    "pass": 3
+   },
+   {
+    "quote": "How The Man Company increases sales with WhatsApp ... - LimeChat — Discover how The Man Company use LimeChat's WhatsApp chatbots for driving increased sales and transforming customer engagement. A success story in e-commerce!",
+    "url": "https://www.limechat.ai/case-study/tmc-saw-a-3x-upliftment-in-their-monthly-sales-with-level-3-ai-sales-bot",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: LimeChat achieves 2.5X cash flow growth with ... — LimeChat Grows Cash Flow 2.5X by Automating AI Platform Billing LimeChat, an AI-powered conversational commerce platform for e-commerce brands, was struggling with manual invoicing and collections that led to only a 40% on-time payment rate and cash flow gaps. As it scaled, it also needed a better way to test and validate pricing model",
+    "url": "https://www.casestudies.com/company/chargebee/case-study/limechat-grows-cash-flow-25x-by-automating-ai-platform-billing",
+    "pass": 3
+   },
+   {
+    "quote": "LimeChat - 2026 Company Profile, Team, Funding, Competitors ... — Aug 13, 2026 · LimeChat is a seed company based in Bengaluru (India), founded in 2020 by Aniket Bajpai, Nikhil Gupta, Sankalp Bose and Johnson Miller. It operates as a Provider of AI agent solutions for customer support and business growth. LimeChat has raised $6.03M in funding from Stellaris and pi Ventures, with a current valuatio",
+    "url": "https://tracxn.com/d/companies/limechat/__JpwMMDaPvQGKqQ5lkbDd3eDn2ySpl6KpCyNljAxi-nE",
+    "pass": 3
+   },
+   {
+    "quote": "LimeChat - 2026 Company Profile, Funding & Investors | The ... — Oct 19, 2026 · LimeChat is a Technology company based in Bengaluru (India) founded in 2020 by Nikhil Gupta and Aniket Bajpai. AI agents are utilized for customer growth, support, and automation. It operates in the Technology and Retail sectors. LimeChat has raised $6.03 million across 5 funding rounds from investors including Angel L",
+    "url": "https://www.thecompanycheck.com/company/b/limechat/rsx9vkrdeo9pylrk5",
+    "pass": 3
+   },
+   {
+    "quote": "LimeChat – Valuation, Revenue & Market Scope – 2026 — What makes LimeChat unique: estimated revenue of $9.4M, team of around 60+ employees, built in Bangalore, shaping a clear business narrative.",
+    "url": "https://compworth.com/company/limechat",
+    "pass": 3
+   },
+   {
+    "quote": "Limechat Revenue 2024: $4M Est., $5M Raised - getlatka.com — Oct 29, 2026 · Limechat 2024 estimated revenue: $4M (up from $2.8M in 2023). Total funding: $5M across 2 rounds. 60 customers, 79 employees. Updated Oct 29, 2026.",
+    "url": "https://getlatka.com/companies/limechat",
+    "pass": 3
+   },
+   {
+    "quote": "LimeChat 2026 Company Profile: Valuation, Funding & Investors ...LimeChat - Overview, News & Similar companies | ZoomInfo.comLimeChat: funding rounds, valuation, investors and revenue — LimeChat FAQs When was LimeChat founded? LimeChat was founded in 2020. Where is LimeChat headquartered? LimeChat is headquartered in Bangalore, India. What is the size of LimeChat? LimeChat has 86 total employees. ",
+    "url": "https://pitchbook.com/profiles/company/454230-37",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "インドでコールセンター業界を揺るがすAIスタートアップの台頭｜Genes... Oct 19, 2025 · 「LimeChatエージェントを一度雇えば、もう二度と人を雇う必要はありません」 同社の生成AIエージェントは驚異的な性能を誇ります。 月間1万件の問い合わせを処理するのに必要な人員を80%削減できるというのです。",
+    "url": "https://note.com/gensnotes/n/n6cf48179aa2c",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "インドでコールセンター業界を揺るがすAIスタートアップの台頭｜Genesis Vault - ミナ・エウレカ",
+    "url": "https://note.com/gensnotes/n/n6cf48179aa2c",
+    "pass": 3
+   },
+   {
+    "quote": "インドでコールセンター業界を揺るがすAIスタートアップの台頭",
+    "url": "https://note.com/gensnotes/n/n6cf48179aa2c",
+    "pass": 3
+   },
+   {
+    "quote": "Genesis Vault - ミナ・エウレカ",
+    "url": "https://note.com/gensnotes/n/n6cf48179aa2c",
+    "pass": 3
+   },
+   {
+    "quote": "かつて「世界のバックオフィス」として栄えたインド。低コストの労働力と英語力を武器に、グローバル企業のコールセンターやデータ処理を一手に引き受けてきました。しかし今、その産業構造を根底から覆すAI革命が進行しています。",
+    "url": "https://note.com/gensnotes/n/n6cf48179aa2c",
+    "pass": 3
+   },
+   {
+    "quote": "2025年10月現在、インド発のAIスタートアップが次々と誕生し、人間のカスタマーサービス担当者の仕事を自動化する技術で急成長を遂げています。その影響は、単なる産業の効率化にとどまらず、165万人が従事するビジネスプロセス管理セクター全体を揺るがす大変革となっています。",
+    "url": "https://note.com/gensnotes/n/n6cf48179aa2c",
+    "pass": 3
+   },
+   {
+    "quote": "「もう人を雇う必要はない」LimeChatの衝撃",
+    "url": "https://note.com/gensnotes/n/n6cf48179aa2c",
+    "pass": 3
+   },
+   {
+    "quote": "インド・ムンバイを拠点とするLimeChatは、まさにこの変革の象徴です。28歳の共同創業者ニキル・グプタ氏は大胆な目標を掲げています。",
+    "url": "https://note.com/gensnotes/n/n6cf48179aa2c",
+    "pass": 3
+   },
+   {
+    "quote": "「LimeChatエージェントを一度雇えば、もう二度と人を雇う必要はありません」",
+    "url": "https://note.com/gensnotes/n/n6cf48179aa2c",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "LimeChat (@LimeChat) / X LimeChat for Mac 2.39 is released on Mac AppStore. Work around for theme problems.",
+    "url": "https://x.com/LimeChat",
+    "pass": 3
+   },
+   {
+    "quote": "LimeChat (@LimeChatAI) / X At LimeChat we endeavour to give brands the best tools to enable delightful shopping experiences. Looking to sell, support and market your brand on social media?",
+    "url": "https://x.com/LimeChatAI",
+    "pass": 3
+   },
+   {
+    "quote": "Ajay on X: \" LimeChat is hiring an AI Solutions Analyst in ... 🚨 LimeChat is hiring an AI Solutions Analyst in Bangalore. • 1–2 YOE • In-office (Bangalore) • Work with OpenAI, Claude, APIs & conversational AI",
+    "url": "https://x.com/ajay_2512x/status/2084897660625203707",
+    "pass": 3
+   },
+   {
+    "quote": "1) Limechat is #hiring for multiple roles: - Frontend ... 1) Limechat is #hiring for multiple roles: - Frontend Developer (SDE1) - Software Development Engineer - Tech Support Engineer - Data Engineer - you can also explore other non-tech roles through the link Link: url-shortener.me/J8MS Referred 4 profiles to Limechat recently🚀",
+    "url": "https://x.com/merishabh_singh/status/2039315697894126054",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "LimeChat | LinkedIn LimeChat helps e-commerce brands sell, support, and market on WhatsApp. We have been pioneers of WhatsApp commerce, working with 300+ leading brands like HUL, ITC, Mamaearth, Wow Skin Science, Neemans Shoes, and Snitch. We help reduce CAC, boost retention, and deliver amazing experiences through WhatsApp, making it >10% of your online revenue.",
+    "url": "https://in.linkedin.com/company/limechat",
+    "pass": 3
+   },
+   {
+    "quote": "World's First GPT-Powered AI Chatbot | LinkedIn About LimeChat's GPT-Powered AI Bot: To Help You Deliver the Best Experience on WhatsApp What It Offers: Automated Consumer Journey: LimeChat's AI Bot transforms WhatsApp into a powerhouse for ...",
+    "url": "https://www.linkedin.com/products/limechat-conversational-marketing-chatbot/",
+    "pass": 3
+   },
+   {
+    "quote": "Aniket Bajpai - Co-Founder LimeChat | Deploying Voice & Chat ...World's First 2-way WhatsApp Campaigns | LinkedInNikhil Gupta - LimeChat | LinkedInAI-Powered CRM for E-Commerce | LinkedInLimechat Jobs in Worldwide (12,000+ Open Roles) | LinkedIn Co-Founder LimeChat | Deploying Voice & Chat AI Agents for Indian Enterprises | Forbes 30u30 · I am a 2x entrepreneur, an AI expert, and an advisor to 300",
+    "url": "https://in.linkedin.com/in/aniket-bajpai",
+    "pass": 3
+   },
+   {
+    "quote": "World's First 2-way WhatsApp Campaigns | LinkedIn World's First 2-way WhatsApp Campaigns | What It Does: Personalized Customer Journeys on WhatsApp: LimeChat empowers brands to market on WhatsApp while fostering meaningful conversations with ...",
+    "url": "https://www.linkedin.com/products/limechat-whatsapp-marketing",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Limechat - FacebookLimeChat - FacebookLimechat - ️𝐍𝐞𝐰 𝐏𝐨𝐝𝐜𝐚𝐬𝐭 𝐄𝐩𝐢𝐬𝐨𝐝𝐞 𝐀𝐥𝐞𝐫𝐭! ️ Jo...Limechat - If you are seeing this post, we are pretty sure ...Limechat - We are happy to announce that we are moving in...Limechat - Did you know that the average customer... | FacebookThe festive season brings more traffic. But are you doing ... Sep 22, 2026 · Limechat. 1,148 followers. LimeChat is India's first L",
+    "url": "https://www.facebook.com/limechat/",
+    "pass": 3
+   },
+   {
+    "quote": "LimeChat - Facebook LimeChat. 79 likes. Product/service",
+    "url": "https://www.facebook.com/100045827270144/",
+    "pass": 3
+   },
+   {
+    "quote": "Limechat - ️𝐍𝐞𝐰 𝐏𝐨𝐝𝐜𝐚𝐬𝐭 𝐄𝐩𝐢𝐬𝐨𝐝𝐞 𝐀𝐥𝐞𝐫𝐭! ️ Jo... Mar 19, 2024 · Recent posts Limechat Jun 11, 2026· Car buyers don't want to fill forms and wait for a callback. They want answers. Instantly. With LimeChat's AI-powered WhatsApp Assistant, automotive brands can: Answer product and feature questions in real time Recommend the right vehicle based on customer needs Share information instantly on WhatsApp",
+    "url": "https://www.facebook.com/limechat/posts/️𝐍𝐞𝐰-𝐏𝐨𝐝𝐜𝐚𝐬𝐭-𝐄𝐩𝐢𝐬𝐨𝐝𝐞-𝐀𝐥𝐞𝐫𝐭️join-us-for-an-insightful-conversation-on-𝐒𝐜𝐚𝐥𝐢𝐧𝐠-𝐑𝐞𝐭/797238309089311/",
+    "pass": 3
+   },
+   {
+    "quote": "Limechat - If you are seeing this post, we are pretty sure ... May 22, 2023 · If you are seeing this post, we are pretty sure you have heard about generative AI and ChatGPT. Join us as we discuss the latest breakthroughs in generative AI and how it can revolutionize your...",
+    "url": "https://www.facebook.com/limechat/posts/if-you-are-seeing-this-post-we-are-pretty-sure-you-have-heard-about-generative-a/624035999742877/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.limechat.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.limechat.ai/support/retail-channel-partner-support",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.limechat.ai/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.limechat.ai/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.limechat.ai/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.limechat.ai/ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.limechat.ai/partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.limechat.ai/support/level-3-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.limechat.ai/case-study/biotique-achieved-4-1-roas-with-limechats-advanced-whatsapp-solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.limechat.ai/case-study/haute-sauces-secret-to-turning-anonymous-visitors-into-customers-with-nitrox-and-limechat",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.limechat.ai/case-study/rpsg-revolutionized-channel-partner-engagement-through-whatsapp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.limechat.ai/case-study/tmc-saw-a-3x-upliftment-in-their-monthly-sales-with-level-3-ai-sales-bot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.limechat.ai/case-study/how-kapiva-delivered-exceptional-experience-on-whatsapp-using-limechats-e-commerce-gpt-bot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.limechat.ai/case-study/how-cahoot-drove-sales-by-running-voice-and-whatsapp-together",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.limechat.ai/case-study/how-mulmul-turned-high-intent-traffic-into-revenue-with-ai-led-lifecycle-automation-and-live-sales-conversations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.limechat.ai/case-study/how-hyugalife-drove-roi-on-voice-ai-during-its-independence-day-sale",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.limechat.ai/case-study/man-matters-improved-its-csat-scores-by-automating-70-of-customer-queries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.limechat.ai/case-study/wow-skin-science-delivers-2x-better-experience-with-limechats-gpt-powered-ai-bot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.limechat.ai/case-study/revolutionizing-agent-productivity-and-customer-satisfaction-with-ai",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/65cd70909df4e526b27c7d0f/66a0b4d6df005574965e483c_Haute%20(1).avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/65cd70909df4e526b27c7d0f/661f9747b1381907db7b8d2d_6419a5a3a00f8cf0fe93d5b4_Website-Logos-GS-3.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/65cd70909df4e526b27c7d0f/680888478c744c9aed6ee8bc_Kapiva%20Case%20Study%20template%20logos.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/65cd70909df4e526b27c7d0f/680885d7cc20b9679d6b4cd9_P%20Tal%20Case%20Study%20template%20logos.avif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://shakespeare.lies.jp/irc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://1sttouch.org/limechat2-%E5%B0%8E%E5%85%A5%E6%96%B9%E6%B3%95-limechat-%E8%A8%AD%E5%AE%9A-%E7%A7%BB%E8%A1%8C/",
+    "status": "http_520",
+    "method": "http"
+   },
+   {
+    "url": "http://limechat.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mustangtis.wjg.jp/IRC-re/install.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/LimeChat",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://limechat.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://limechat.net/mac/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/limechat",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://retainsure.com/case-studies/limechat",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/limechat/__JpwMMDaPvQGKqQ5lkbDd3eDn2ySpl6KpCyNljAxi-nE",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/limechat/rsx9vkrdeo9pylrk5",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/limechat",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/limechat",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/gensnotes/n/n6cf48179aa2c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/LimeChat",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/LimeChatAI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ajay_2512x/status/2084897660625203707",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/merishabh_singh/status/2039315697894126054",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/limechat",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/limechat-conversational-marketing-chatbot/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/aniket-bajpai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/limechat-whatsapp-marketing",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/limechat/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100045827270144/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/limechat/posts/️𝐍𝐞𝐰-𝐏𝐨𝐝𝐜𝐚𝐬𝐭-𝐄𝐩𝐢𝐬𝐨𝐝𝐞-𝐀𝐥𝐞𝐫𝐭️join-us-for-an-insightful-conversation-on-𝐒𝐜𝐚𝐥𝐢𝐧𝐠-𝐑𝐞𝐭/797238309089311/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/limechat/posts/if-you-are-seeing-this-post-we-are-pretty-sure-you-have-heard-about-generative-a/624035999742877/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/LimeChat",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/LimeChatAI",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Limechat 日本 導入",
+   "results": [
+    "https://shakespeare.lies.jp/irc/",
+    "https://1sttouch.org/limechat2-導入方法-limechat-設定-移行/",
+    "http://limechat.net/",
+    "https://mustangtis.wjg.jp/IRC-re/install.html",
+    "https://mustangtis.wjg.jp/IRC/install.html",
+    "https://sangoku.miguel1547.com/archives/sangoku7/others/limechat2/",
+    "https://feathers-jp.com/lime/index.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Limechat 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://lycomm.co.jp/en/",
+    "https://limesalon.jp/",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Limechat Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/LimeChat",
+    "https://www.limechat.ai/",
+    "http://limechat.net/",
+    "http://limechat.net/mac/",
+    "https://www.limechat.ai/about",
+    "https://www.linkedin.com/company/limechat",
+    "https://shakespeare.lies.jp/irc/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Limechat manufacturing customer case study",
+   "results": [
+    "https://www.limechat.ai/customer-stories",
+    "https://www.casestudies.com/customer/limechat",
+    "https://retainsure.com/case-studies/limechat",
+    "https://www.limechat.ai/case-study/tmc-saw-a-3x-upliftment-in-their-monthly-sales-with-level-3-ai-sales-bot",
+    "https://www.casestudies.com/company/chargebee/case-study/limechat-grows-cash-flow-25x-by-automating-ai-platform-billing",
+    "https://www.appsruntheworld.com/customers-database/products/view/limechat",
+    "https://noventiqai.com/wp-content/uploads/2024/05/LimeChat-Case-Study-2-1.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Limechat white label OR reseller OR partner program",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Limechat founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/limechat/__JpwMMDaPvQGKqQ5lkbDd3eDn2ySpl6KpCyNljAxi-nE",
+    "https://www.thecompanycheck.com/company/b/limechat/rsx9vkrdeo9pylrk5",
+    "https://compworth.com/company/limechat",
+    "https://getlatka.com/companies/limechat",
+    "https://pitchbook.com/profiles/company/454230-37",
+    "https://www.zoominfo.com/c/limechat/544438409",
+    "https://lounge.ai/companies/limechat"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Limechat",
+   "results": [
+    "https://note.com/dashboard",
+    "https://note.com/gensnotes/n/n6cf48179aa2c",
+    "https://note.com/sitake1010/n/ndc808e9980ce",
+    "https://note.com/long_hare2578/n/n2a4e6ef50e68",
+    "https://note.com/dear_hornet7997/n/ne11e3da09e75",
+    "https://note.com/umaki11/n/n20ecbeca0008",
+    "https://note.com/kouzu34/n/nd4b521e0d6fe"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Limechat",
+   "results": [
+    "https://x.com/LimeChat",
+    "https://x.com/LimeChatAI",
+    "https://x.com/ajay_2512x/status/2084897660625203707",
+    "https://x.com/merishabh_singh/status/2039315697894126054",
+    "https://x.com/LimeChat/with_replies",
+    "https://x.com/ajay_2512x/status/2084508188309856352",
+    "https://x.com/Psychs"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Limechat",
+   "results": [
+    "https://in.linkedin.com/company/limechat",
+    "https://www.linkedin.com/products/limechat-conversational-marketing-chatbot/",
+    "https://in.linkedin.com/in/aniket-bajpai",
+    "https://www.linkedin.com/products/limechat-whatsapp-marketing",
+    "https://in.linkedin.com/in/nikhilgupta1997",
+    "https://www.linkedin.com/products/limechat-helpdesk-automation-shopify-app/",
+    "https://www.linkedin.com/jobs/limechat-jobs-worldwide"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Limechat",
+   "results": [
+    "https://www.facebook.com/limechat/",
+    "https://www.facebook.com/100045827270144/",
+    "https://www.facebook.com/limechat/posts/️𝐍𝐞𝐰-𝐏𝐨𝐝𝐜𝐚𝐬𝐭-𝐄𝐩𝐢𝐬𝐨𝐝𝐞-𝐀𝐥𝐞𝐫𝐭️join-us-for-an-insightful-conversation-on-𝐒𝐜𝐚𝐥𝐢𝐧𝐠-𝐑𝐞𝐭/797238309089311/",
+    "https://www.facebook.com/limechat/posts/if-you-are-seeing-this-post-we-are-pretty-sure-you-have-heard-about-generative-a/624035999742877/",
+    "https://www.facebook.com/limechat/posts/we-are-happy-to-announce-that-we-are-moving-in-to-our-new-office-spacebringing-t/512634264216385/",
+    "https://www.facebook.com/limechat/posts/did-you-know-that-the-average-customer-engagement-rate-remains-below-20-percent-/491477059665439/",
+    "https://www.facebook.com/limechat/videos/the-festive-season-brings-more-traffic-but-are-you-doing-enough-to-convert-itwit/4065681583562516/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Limechat note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/",
+    "https://www.limechat.ai/",
+    "https://www.limechat.ai/about",
+    "https://www.zaikai.jp/articles/detail/2552"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Limechat X 投稿",
+   "results": [
+    "https://x.com/LimeChat",
+    "https://x.com/LimeChatAI",
+    "http://limechat.net/",
+    "https://app.limechat.ai/",
+    "https://www.instagram.com/limechat.ai/",
+    "https://www.limechat.ai/",
+    "https://help.x.com/ja/using-x/edit-post"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式19頁／PDF・画像4件／外部32頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式19頁／PDF・画像4件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式19頁／PDF・画像4件／外部32頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式19頁／PDF・画像4件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式19頁／PDF・画像4件／外部32頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式19頁／PDF・画像4件／外部32頁・検索12回）"
+ }
+}

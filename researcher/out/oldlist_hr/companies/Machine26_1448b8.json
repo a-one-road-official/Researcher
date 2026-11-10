@@ -1,0 +1,915 @@
+{
+ "name": "Machine26",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-10T00:33:59.007721+00:00",
+ "official_url": "https://www.machine26.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Achieve the best market price",
+    "url": "https://www.machine26.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"With Machine26 we have professionalized our sell off. This saves us valuable time & costs, achieves higher prices and creates a fair process for buyers.\"",
+    "url": "https://www.machine26.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Procurement & Sale of Equipment, LEONHARD WEISS GmbH & Co. KG",
+    "url": "https://www.machine26.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"I was looking for a re-selling platform specialized in construction equipment for a long time. With Machine26, I have expanded my buyer network to professional buyers.\"",
+    "url": "https://www.machine26.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Praktikum Sales & Business Development DACH in schnell wachsendem ConTech-Startup",
+    "url": "https://www.machine26.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Construction Startup Competition Success Story: Machine26 | LECTURA Press",
+    "url": "https://lectura.press/en/article/construction-startup-competition-success-story-machine26/63689",
+    "pass": 3
+   },
+   {
+    "quote": "Self-Propelled Sprayers",
+    "url": "https://lectura.press/en/article/construction-startup-competition-success-story-machine26/63689",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Promotions International",
+    "url": "https://lectura.press/en/article/construction-startup-competition-success-story-machine26/63689",
+    "pass": 3
+   },
+   {
+    "quote": "PrimeTech (FAE Group)",
+    "url": "https://lectura.press/en/article/construction-startup-competition-success-story-machine26/63689",
+    "pass": 3
+   },
+   {
+    "quote": "SBM Mineral Processing GmbH",
+    "url": "https://lectura.press/en/article/construction-startup-competition-success-story-machine26/63689",
+    "pass": 3
+   },
+   {
+    "quote": "SMP Sintermetalle Prometheus GmbH & Co KG",
+    "url": "https://lectura.press/en/article/construction-startup-competition-success-story-machine26/63689",
+    "pass": 3
+   },
+   {
+    "quote": "Terex Finlay (Mobile processing Equipment)",
+    "url": "https://lectura.press/en/article/construction-startup-competition-success-story-machine26/63689",
+    "pass": 3
+   },
+   {
+    "quote": "Torsion Control Products",
+    "url": "https://lectura.press/en/article/construction-startup-competition-success-story-machine26/63689",
+    "pass": 3
+   },
+   {
+    "quote": "Big marketplaces like Amazon, eBay, & AliExpress have revolutionized supply chains across different sectors. The construction industry is no exception, and the outstanding German marketplace",
+    "url": "https://lectura.press/en/article/construction-startup-competition-success-story-machine26/63689",
+    "pass": 3
+   },
+   {
+    "quote": "With a job-to-be-done mindset in customer service, Machine26 has redefined the construction supply chain with its groundbreaking solution, which aims to drive digital transformation in the industry. It provides a marketplace that helps construction equipment owners to sell their machines effortlessly.",
+    "url": "https://lectura.press/en/article/construction-startup-competition-success-story-machine26/63689",
+    "pass": 3
+   },
+   {
+    "quote": "Machine26’s innovative business model includes a digital trading platform for remarketing used equipment to an international dealer network, as well as digital solutions for inspecting the equipment.",
+    "url": "https://lectura.press/en/article/construction-startup-competition-success-story-machine26/63689",
+    "pass": 3
+   },
+   {
+    "quote": "By simply applying to the largest startup competition in the industry, startups can quickly scale in the Contech ecosystem, and Machine26 is proof of this! The visionary German startup has experienced several benefits that have helped it achieve its strategic goals:",
+    "url": "https://lectura.press/en/article/construction-startup-competition-success-story-machine26/63689",
+    "pass": 3
+   },
+   {
+    "quote": "Acceptance in top startup programs: VINCI Group’s Leonard startup accelerator gave Machine26 a spot in its Catalyst Program.",
+    "url": "https://lectura.press/en/article/construction-startup-competition-success-story-machine26/63689",
+    "pass": 3
+   },
+   {
+    "quote": "The German startup’s goal is to develop this partnership further to expand its market presence globally and continue its steady growth.",
+    "url": "https://lectura.press/en/article/construction-startup-competition-success-story-machine26/63689",
+    "pass": 3
+   },
+   {
+    "quote": "We were impressed by the number & relevance of the organizing companies and motivated to present our product on a global scale and to an industry specific audience.",
+    "url": "https://lectura.press/en/article/construction-startup-competition-success-story-machine26/63689",
+    "pass": 3
+   },
+   {
+    "quote": "Getting selected for the Cemex Top 50 raised awareness for our solution. For example, we were approached by new customers and partners because they were following the competition. It even helped us to promote our products in large corporations where we were used in one country only and ended up talking to other affiliated companies as well.",
+    "url": "https://lectura.press/en/article/construction-startup-competition-success-story-machine26/63689",
+    "pass": 3
+   },
+   {
+    "quote": "Set LECTURA Press as your preferred source",
+    "url": "https://lectura.press/en/article/construction-startup-competition-success-story-machine26/63689",
+    "pass": 3
+   },
+   {
+    "quote": "Global ConTech & Proptech Map",
+    "url": "https://www.cica.net/entity/machine26/",
+    "pass": 3
+   },
+   {
+    "quote": "Private developers, General contractors, Subcontractors / trades, Facility managers / asset operators",
+    "url": "https://www.cica.net/entity/machine26/",
+    "pass": 3
+   },
+   {
+    "quote": "In addition, asset condition is frequently recorded in non-standardized formats, creating uncertainty and risk for buyers. Construction companies need a more efficient, transparent, and data-driven method to remarket equipment while retaining control over the sales process and maximizing residual asset value.",
+    "url": "https://www.cica.net/entity/machine26/",
+    "pass": 3
+   },
+   {
+    "quote": "Machine26 provides a cloud-based remarketing platform and digital inspection solution for used construction equipment.",
+    "url": "https://www.cica.net/entity/machine26/",
+    "pass": 3
+   },
+   {
+    "quote": "Equipment owners use the Machine26 Inspection App to document machine condition through standardized digital inspections, photos, and operational data. The information is automatically converted into a professional digital equipment profile.",
+    "url": "https://www.cica.net/entity/machine26/",
+    "pass": 3
+   },
+   {
+    "quote": "The equipment is then offered to either the client’s own buyer network, Machine26’s verified international dealer network, or both. Buyers submit binding bids through a structured and transparent process. Sellers can compare offers, manage communication digitally, and retain full control over whether to accept or reject bids.",
+    "url": "https://www.cica.net/entity/machine26/",
+    "pass": 3
+   },
+   {
+    "quote": "The result is a faster, more efficient sales process that improves transparency, reduces administrative effort, and helps sellers achieve stronger resale outcomes.",
+    "url": "https://www.cica.net/entity/machine26/",
+    "pass": 3
+   },
+   {
+    "quote": "Unlike traditional equipment sales that depend on individual broker relationships or local dealer networks, Machine26 creates a scalable and transparent digital process that significantly broadens buyer access.",
+    "url": "https://www.cica.net/entity/machine26/",
+    "pass": 3
+   },
+   {
+    "quote": "By transforming equipment remarketing from a manual transaction into a data-driven workflow, Machine26 helps customers increase efficiency, shorten sales cycles, and maximize asset value recovery.",
+    "url": "https://www.cica.net/entity/machine26/",
+    "pass": 3
+   },
+   {
+    "quote": "Preconstruction & procurement (estimating, tendering, supply chain, marketplaces), Asset & facility management (smart building tech, CMMS, predictive maintenance, tenant experience), ESG & sustainability (carbon tracking, LCA, energy optimization, circularity)",
+    "url": "https://www.cica.net/entity/machine26/",
+    "pass": 3
+   },
+   {
+    "quote": "Established (>100 customers or multinational footprint)",
+    "url": "https://www.cica.net/entity/machine26/",
+    "pass": 3
+   },
+   {
+    "quote": "Decent Work and Economic Growth, Industry, Innovation and Infrastructure, Responsible Consumption and Production, Climate Action, Partnerships for the Goals",
+    "url": "https://www.cica.net/entity/machine26/",
+    "pass": 3
+   },
+   {
+    "quote": "Machine26 increases productivity in construction equipment management by reducing manual sales activities, shortening transaction cycles, and improving asset utilization across the industry.",
+    "url": "https://www.cica.net/entity/machine26/",
+    "pass": 3
+   },
+   {
+    "quote": "By digitizing equipment remarketing and lifecycle management, Machine26 introduces innovative digital infrastructure that modernizes traditionally offline construction asset markets.",
+    "url": "https://www.cica.net/entity/machine26/",
+    "pass": 3
+   },
+   {
+    "quote": "SDG 12 – Responsible Consumption and Production",
+    "url": "https://www.cica.net/entity/machine26/",
+    "pass": 3
+   },
+   {
+    "quote": "The platform extends equipment life by connecting machinery with new owners and markets, promoting reuse rather than premature replacement and reducing resource waste.",
+    "url": "https://www.cica.net/entity/machine26/",
+    "pass": 3
+   },
+   {
+    "quote": "Extending the useful life of existing equipment lowers demand for manufacturing new machinery, helping reduce lifecycle carbon emissions associated with production.",
+    "url": "https://www.cica.net/entity/machine26/",
+    "pass": 3
+   },
+   {
+    "quote": "Productivity / cost efficiency, Environmental performance & emissions",
+    "url": "https://www.cica.net/entity/machine26/",
+    "pass": 3
+   },
+   {
+    "quote": "machine26 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/463162-42",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a digital marketplace designed for the remarketing of used construction equipment.",
+    "url": "https://pitchbook.com/profiles/company/463162-42",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/463162-42",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/463162-42",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/463162-42",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/463162-42",
+    "pass": 3
+   },
+   {
+    "quote": "machine26’s primary industry is Media and Information Services (B2B).",
+    "url": "https://pitchbook.com/profiles/company/463162-42",
+    "pass": 3
+   },
+   {
+    "quote": "Is machine26 a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/463162-42",
+    "pass": 3
+   },
+   {
+    "quote": "machine26 is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/463162-42",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/463162-42",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/463162-42",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/463162-42",
+    "pass": 3
+   },
+   {
+    "quote": ", according to Revelio Labs workforce intelligence data.",
+    "url": "https://www.reveliolabs.com/companies/machine26/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Coverage: Global workforce,",
+    "url": "https://www.reveliolabs.com/companies/machine26/employees",
+    "pass": 3
+   },
+   {
+    "quote": "active job postings in",
+    "url": "https://www.reveliolabs.com/companies/machine26/employees",
+    "pass": 3
+   },
+   {
+    "quote": "see job openings & hiring trends",
+    "url": "https://www.reveliolabs.com/companies/machine26/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Machine26's workforce has grown from",
+    "url": "https://www.reveliolabs.com/companies/machine26/employees",
+    "pass": 3
+   },
+   {
+    "quote": "), and Sales and Marketing (",
+    "url": "https://www.reveliolabs.com/companies/machine26/employees",
+    "pass": 3
+   },
+   {
+    "quote": "), with Sales and Marketing the fastest-growing segment at",
+    "url": "https://www.reveliolabs.com/companies/machine26/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Machine26's hiring activity shows a clear uptick, with postings up",
+    "url": "https://www.reveliolabs.com/companies/machine26/employees",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "\"The M26 Inspection App is very well received by our workshop employees. It allows them to check and document the condition of the machine much faster. Afterwards, the machine data is directly available digitally to everyone involved.\"",
+    "url": "https://www.machine26.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Karriere - Machine26",
+    "url": "https://www.machine26.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Become part of the team!",
+    "url": "https://www.machine26.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "machine26 has 14 total employees.",
+    "url": "https://pitchbook.com/profiles/company/463162-42",
+    "pass": 3
+   },
+   {
+    "quote": "What is machine26’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/463162-42",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for machine26 is",
+    "url": "https://pitchbook.com/profiles/company/463162-42",
+    "pass": 3
+   },
+   {
+    "quote": "Machine26 Number of Employees 2026 | Employee Count & Headcount Data | Revelio Labs",
+    "url": "https://www.reveliolabs.com/companies/machine26/employees",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does",
+    "url": "https://www.reveliolabs.com/companies/machine26/employees",
+    "pass": 3
+   },
+   {
+    "quote": "total employees worldwide as of",
+    "url": "https://www.reveliolabs.com/companies/machine26/employees",
+    "pass": 3
+   },
+   {
+    "quote": "from 8 employees in 2023 to 21 in 2026",
+    "url": "https://www.reveliolabs.com/companies/machine26/employees",
+    "pass": 3
+   },
+   {
+    "quote": "of total employees, followed by North America and Eastern Europe.",
+    "url": "https://www.reveliolabs.com/companies/machine26/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Machine26 employees by region",
+    "url": "https://www.reveliolabs.com/companies/machine26/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Machine26 employees by department",
+    "url": "https://www.reveliolabs.com/companies/machine26/employees",
+    "pass": 3
+   },
+   {
+    "quote": "globally. Employees in Western Europe receive the highest compensation.",
+    "url": "https://www.reveliolabs.com/companies/machine26/employees",
+    "pass": 3
+   },
+   {
+    "quote": "employees, up from",
+    "url": "https://www.reveliolabs.com/companies/machine26/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Where are Machine26 employees located?",
+    "url": "https://www.reveliolabs.com/companies/machine26/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Most Machine26 employees are based in Western Europe (",
+    "url": "https://www.reveliolabs.com/companies/machine26/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Machine26 Funding | $5M Revenue | Complete Analysis | Extruct AI",
+    "url": "https://www.extruct.ai/hub/machine26-com-funding/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Then send us your cover letter and resume to the following email address & we will get back to you.",
+    "url": "https://www.machine26.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "info@machine26.com ›",
+    "url": "https://www.machine26.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/463162-42",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Machine26 - Re-selling tool for used equipment — \"I was looking for a re-selling platform specialized in construction equipment for a long time. With Machine26, I have expanded my buyer network to professional buyers.\"",
+    "url": "https://www.machine26.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Machine26 - LinkedIn — Machine26 makes trading of used construction machinery efficient and safe. An innovative business model comprises a digital trading platform for the remarketing of used construction machinery to...",
+    "url": "https://www.linkedin.com/company/machine26-gmbh",
+    "pass": 3
+   },
+   {
+    "quote": "machine26 2026 Company Profile: Valuation, Funding ... — Information on valuation, funding, cap tables, investors, and executives for machine26. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/463162-42",
+    "pass": 3
+   },
+   {
+    "quote": "Construction Startup Competition Success Story: Machine26 — Jun 24, 2024 · Machine26 is one of our success stories from Construction Startup Competition 2023. The digital-first startup is transforming the construction industry by making the trade of used construction equipment more efficient and safer through digitalization.",
+    "url": "https://lectura.press/en/article/construction-startup-competition-success-story-machine26/63689",
+    "pass": 3
+   },
+   {
+    "quote": "Machine26 - CICA — Equipment owners use the Machine26 Inspection App to document machine condition through standardized digital inspections, photos, and operational data. The information is automatically converted into a professional digital equipment profile.",
+    "url": "https://www.cica.net/entity/machine26/",
+    "pass": 3
+   },
+   {
+    "quote": "LECTURA introduces Machine26, a German re-selling tool for ... — Mar 8, 2023 · Discover Machine26 in our interview with the company’s founder & Co-CEO Steffen Schweiger. We learned interesting facts about the start-up’s background, digital solutions, range of customers and markets of interest.",
+    "url": "https://lectura.press/en/article/lectura-introduces-machine26-a-german-re-selling-tool-for-construction-equipment/60681",
+    "pass": 3
+   },
+   {
+    "quote": "machine26 2026 Company Profile: Valuation, Funding ...Machine26: Funding, Team & Investors | Startup IntrosMachine26 Number of Employees 2026 | Employee Count ...Machine26 Funding | $5M Revenue | Complete AnalysisMachine26 GmbH - fusionbase.comMachine26 Information - RocketReachMachine26 - Products, Competitors, Financials, Employees ... — Information on valuation, funding, cap tables, investors, ",
+    "url": "https://pitchbook.com/profiles/company/463162-42",
+    "pass": 3
+   },
+   {
+    "quote": "Machine26: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Founded in 2019 in Berlin by Christian Schweiger, Steffen Schweiger, and Niklas Fritz, Machine26 emerged from the founders’ experience in construction equipment sales and digital innovation projects at the international OEM PERI.",
+    "url": "https://startupintros.com/orgs/machine26",
+    "pass": 3
+   },
+   {
+    "quote": "Machine26 Number of Employees 2026 | Employee Count ... — About Machine26 ’s Workforce Machine26 GmbH is an Information Technology Services company that employs 21 people worldwide as of March 2026. It is the 9th-largest by headcount among its peers. Founded in 2019, the company is headquartered in Berlin, Germany.",
+    "url": "https://www.reveliolabs.com/companies/machine26/employees",
+    "pass": 3
+   },
+   {
+    "quote": "Machine26 Funding | $5M Revenue | Complete Analysis — Mar 22, 2021 · Explore Machine26 complete analysis: product features, pricing model, market positioning, and business strategy.",
+    "url": "https://www.extruct.ai/hub/machine26-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Machine26 GmbH - fusionbase.com — Machine26 GmbH: Revenue, Funding, Turnover, Employees, Network, Business Information",
+    "url": "https://fusionbase.com/en/data/organization/28e960a0efac54f7f7d702fcaa0fb033/machine26-gmbh",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Industrial Promotions International",
+    "url": "https://lectura.press/en/article/construction-startup-competition-success-story-machine26/63689",
+    "pass": 3
+   },
+   {
+    "quote": "Private developers, General contractors, Subcontractors / trades, Facility managers / asset operators",
+    "url": "https://www.cica.net/entity/machine26/",
+    "pass": 3
+   },
+   {
+    "quote": "Extending the useful life of existing equipment lowers demand for manufacturing new machinery, helping reduce lifecycle carbon emissions associated with production.",
+    "url": "https://www.cica.net/entity/machine26/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial & Financial Systems, IFS AB",
+    "url": "https://www.reveliolabs.com/companies/machine26/employees",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "\"#Machine26\" - Results on X | Live Posts & Updates Results for \"#Machine26\" on X (Twitter). Find the latest posts, discussions, and updates about #Machine26. 2 results found.",
+    "url": "https://x.com/hashtag/Machine26",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Machine26 - LinkedIn Machine26 | 1,735 followers on LinkedIn. Simplifying the trade of used construction machines | Machine26 makes trading of used construction machinery efficient and safe.",
+    "url": "https://www.linkedin.com/company/machine26-gmbh",
+    "pass": 3
+   },
+   {
+    "quote": "Machine26 - LinkedIn Featured customers of Machine26 GROUPE MARAIS Civil Engineering Groupe PIGEON Construction Matthäi Bauunternehmen GmbH & Co. KG Construction",
+    "url": "https://www.linkedin.com/products/machine26-gmbh-machine26/",
+    "pass": 3
+   },
+   {
+    "quote": "We are very pleased to welcome Paul D. as our new Web ... What a perfect fit! Paul says, ”I am thrilled to be joining the sustainable construction tech industry with the disruptive and creative Machine26 Team\". Willkommen Paul!",
+    "url": "https://lt.linkedin.com/posts/machine26-gmbh_we-are-very-pleased-to-welcome-paul-d-as-activity-6995416984167350272-L23H",
+    "pass": 3
+   },
+   {
+    "quote": "Matthis RIVARD - Head of France Machine26 | MIM ESCP | IE ... Head of France Machine26 | MIM ESCP | IE · Expérience : Machine26 · Formation : ESCP Business School · Lieu : Paris · 500 relations ou plus sur LinkedIn. Consultez le profil de Matthis RIVARD...",
+    "url": "https://fr.linkedin.com/in/matthis-rivard",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Machine26 GmbH | Berlin - FacebookMachine26 GmbH - Have a machine you’re looking to sell?...Machine26 GmbH - Check out our new crawler excavator!⚠️...Machine26 GmbH - Take a look at our new wheel loader! ⚠The...mr_drag_machine26 - FacebookMachine26 GmbH - Danke für die frühe Erwähnung letztes...Machine26 GmbH - Unter dem Motto \"Vom KIT zu YC ... - Facebook May 18, 2022 · Hier bei Machine26 arbeite",
+    "url": "https://www.facebook.com/machine26gmbh/",
+    "pass": 3
+   },
+   {
+    "quote": "Machine26 GmbH - Check out our new crawler excavator!⚠️... Aug 14, 2020 · Der Komatsu PC228US-LC-3 ist ein powervoller Bagger mit 110kw, lässt dich niemals im Stich und hebt jede Grube aus. Der Bagger wird sogar mit zwei Tieflöffeln und einem schwenkbaren Grabenlöffel angeboten. Klicke https://app.machine26.com/.../komatsu-pc228us-lc-3... für mehr Informationen. All reactions: 8 Like Comment",
+    "url": "https://www.facebook.com/machine26gmbh/posts/141248670980254/",
+    "pass": 3
+   },
+   {
+    "quote": "Machine26 GmbH - Take a look at our new wheel loader! ⚠The... Der Hitachi ZW 140 hat eine Motorleistung von 96 KW und bringt 11,1 Tonnen auf die Waage. Der Vertragshändler hat sogar Schweißstellen am Ausleger angebracht, um die Hubarme noch stärker zu unterstützen. Finden Sie mehr Informationen unter https://app.machine26.com/.../hitachi-zw140,3eb0663e-f98b.... jfi00iWW.com aDNotWWzI1Oy4ArRRfjq8",
+    "url": "https://www.facebook.com/machine26gmbh/posts/take-a-look-at-our-new-wheel-loader-the-hitachi-zw-140-has-an-engine-power-of-96/146278707143917/",
+    "pass": 3
+   },
+   {
+    "quote": "mr_drag_machine26 - Facebook Sep 9, 2023 · mr_drag_machine26, Calangute. 8 likes. You are not follow you are my family in Facebook you will get knowledge",
+    "url": "https://www.facebook.com/61550915888782/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.machine26.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.machine26.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.machine26.com/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://news.mynavi.jp/article/20261109-ram-1500/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.webcartop.jp/2026/11/1892407/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-maker",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jmc.asia/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toyo-invx.com/company/location/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japanmachinerytrader.com/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jimtof.org/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/machine26-gmbh",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://japanmachinetools.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lectura.press/en/article/construction-startup-competition-success-story-machine26/63689",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cica.net/entity/machine26/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/463162-42",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://startupintros.com/orgs/machine26",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reveliolabs.com/companies/machine26/employees",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.extruct.ai/hub/machine26-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hashtag/Machine26",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/machine26-gmbh",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/machine26-gmbh-machine26/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://lt.linkedin.com/posts/machine26-gmbh_we-are-very-pleased-to-welcome-paul-d-as-activity-6995416984167350272-L23H",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fr.linkedin.com/in/matthis-rivard",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/machine26gmbh/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/machine26gmbh/posts/141248670980254/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/machine26gmbh/posts/take-a-look-at-our-new-wheel-loader-the-hitachi-zw-140-has-an-engine-power-of-96/146278707143917/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61550915888782/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Machine26 日本 導入",
+   "results": [
+    "https://www.machine26.com/",
+    "https://news.mynavi.jp/article/20261109-ram-1500/",
+    "https://www.webcartop.jp/2026/11/1892407/",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://carview.yahoo.co.jp/news/detail/47e6455a7095c54bc0ec0f739549cf4f3c6fa475/",
+    "https://diamond.jp/articles/-/400566",
+    "https://www.subaru.co.jp/news/2026_06_06_101600/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Machine26 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.indexpro.co.jp/distributor/search-maker",
+    "https://www.jmc.asia/",
+    "https://www.toyo-invx.com/company/location/",
+    "https://industrial.filtrationgroup.com/ja/联系我们/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://houjin-data.com/",
+    "https://houjin.always-basics.com/",
+    "https://www.houjin.info/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Machine26 Japan",
+   "results": [
+    "https://www.japanmachinerytrader.com/",
+    "https://www.jimtof.org/en/",
+    "https://www.linkedin.com/company/machine26-gmbh",
+    "https://japanmachinetools.net/",
+    "https://pitchbook.com/profiles/company/463162-42",
+    "https://www.machine26.com/about-us",
+    "https://www.machine26.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Machine26 manufacturing customer case study",
+   "results": [
+    "https://www.machine26.com/",
+    "https://lectura.press/en/article/construction-startup-competition-success-story-machine26/63689",
+    "https://ppapdocuments.com/2026/08/14/root-cause-analysis-examples-5-manufacturing-case-studies-walked-through/",
+    "https://www.cica.net/entity/machine26/",
+    "https://lectura.press/en/article/lectura-introduces-machine26-a-german-re-selling-tool-for-construction-equipment/60681",
+    "https://www.cemexventures.com/machine26-success-story/",
+    "https://leonard.vinci.com/en/a-digital-solution-for-the-resale-of-construction-equipment/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Machine26 white label OR reseller OR partner program",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Machine26 founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/463162-42",
+    "https://startupintros.com/orgs/machine26",
+    "https://www.reveliolabs.com/companies/machine26/employees",
+    "https://www.extruct.ai/hub/machine26-com-funding/",
+    "https://fusionbase.com/en/data/organization/28e960a0efac54f7f7d702fcaa0fb033/machine26-gmbh",
+    "https://rocketreach.co/machine26-profile_b433073fc1f79959",
+    "https://www.cbinsights.com/company/machine26"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Machine26",
+   "results": [
+    "https://note.com/yaneura_machine",
+    "https://note.com/surumeikaman",
+    "https://note.com/topic/science_technology/ai_machine_learning",
+    "https://note.com/juicy_orca5210/n/n15700fe38190?hl=en",
+    "https://note.com/denkenshokunin/n/n62540b620b5c?hl=en",
+    "https://note.com/dreamy_snail1789/n/n842ea9969718",
+    "https://note.com/cute_agapan9087/n/ne5164f84a640?hl=en",
+    "https://note.com/tilanosaur",
+    "https://note.com/kamen_a/n/nef71b6f7f731",
+    "https://note.com/basebowyer/n/nea46cf874b40"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:x.com Machine26",
+   "results": [
+    "https://x.com/hashtag/Machine26",
+    "https://x.com/farmingsim/status/2052720168002871445",
+    "https://x.com/moneymachines_",
+    "https://x.com/farmingsim/status/2098019545936011576",
+    "https://x.com/farmingsim/status/2075189202577133815",
+    "https://x.com/playbabaijebu/status/2117918747159568717",
+    "https://x.com/NoahFentys/status/2118178286157140113"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Machine26",
+   "results": [
+    "https://www.linkedin.com/company/machine26-gmbh",
+    "https://www.linkedin.com/products/machine26-gmbh-machine26/",
+    "https://lt.linkedin.com/posts/machine26-gmbh_we-are-very-pleased-to-welcome-paul-d-as-activity-6995416984167350272-L23H",
+    "https://fr.linkedin.com/in/matthis-rivard",
+    "https://www.linkedin.com/posts/tradielabs_tradie-labs-innovation-spotlight-machine26-activity-7498399840863715328-HwlB",
+    "https://www.linkedin.com/jobs/machine26-linkedin-jobs",
+    "https://www.linkedin.com/posts/machine26-gmbh_tradie-labs-innovation-spotlight-machine26-activity-7498657234789294081-tOKa"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Machine26",
+   "results": [
+    "https://www.facebook.com/machine26gmbh/",
+    "https://www.facebook.com/machine26gmbh/posts/141248670980254/",
+    "https://www.facebook.com/machine26gmbh/posts/take-a-look-at-our-new-wheel-loader-the-hitachi-zw-140-has-an-engine-power-of-96/146278707143917/",
+    "https://www.facebook.com/61550915888782/",
+    "https://www.facebook.com/machine26gmbh/posts/unter-dem-motto-vom-kit-zu-yc-hat-unser-gründer-und-kit-alumni-niklas-fritz-stud/525976442507473/",
+    "https://www.facebook.com/machine26gmbh/posts/have-a-machine-youre-looking-to-sell-get-a-free-offer-from-our-network-of-over-1/142719760833145/",
+    "https://www.facebook.com/machine26gmbh/posts/danke-für-die-frühe-erwähnung-letztes-jahr-startupdetector-startup-baubranche-di/120232946415160/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Machine26 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://pitchbook.com/profiles/company/463162-42",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Machine26 X 投稿",
+   "results": [
+    "https://www.machine26.com/",
+    "https://x.com/",
+    "https://x.com/i/trending/2115323131061551300",
+    "https://www.sankei.com/article/20261107-TZNJWWBH6ZIWLBJFXZQBWUEKG4/",
+    "https://help.x.com/ja/using-x/mentions-and-replies",
+    "https://note.com/respect_group/n/n72c1c29cdf55",
+    "https://agora-web.jp/archives/261106122319.html",
+    "https://x.com/hashtag/Machine26",
+    "https://x.com/musen_machine/status/2076165145185927442",
+    "https://qiita.com/sawayamakouji/items/4a1c7046f8e7dbae5067"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部27頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部27頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部27頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部27頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部27頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部27頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部27頁・検索12回）"
+ }
+}

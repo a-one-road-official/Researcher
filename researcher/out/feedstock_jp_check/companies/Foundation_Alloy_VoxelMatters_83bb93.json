@@ -1,0 +1,514 @@
+{
+ "name": "Foundation Alloy — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:powder-manufacturer",
+ "researched_at": "2026-11-10T00:06:18.058931+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookForbes - Foundation Alloy, a vertically integrated metal...MIT - Foundation Alloy, a company founded by a team from MIT ...VoxelMatters on Reels - FacebookAdditive manufacturing is creating new solutions for hard-to ...Foundation... - Massachusetts Institute of Technology (MIT ...Madison Gianelle (@madison.gianelle) • Facebook, Connect with ... Unlock the Future of Metal Add",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/foundation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cheap3dhub.com/en/how-foundation-alloys-22-million-move-is-shaping-the/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://techcrunch.com/2026/06/16/this-startups-super-metals-could-soon-be-in-military-drones-luxury-watches-and-chefs-knives/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/antenna_ts/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://dolphin-s.co.jp.siteindices.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trustmate.io/ja/company/7dc2306f-47f5-4644-84b8-af82f234d32a/product/1020",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.aliexpress.us/item/3256809660336258.html?gatewayAdapt=jpn2usa4itemAdapt&_randl_shipto=US",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://creator.holoearth.com/shop/products/1021609",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.poly-maker.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E7%B4%A0%E6%9D%90/b?ie=UTF8&node=3489859051",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.exmatelab.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://foundationalloy.com/category/press-release/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://engineventures.com/companies/foundation-alloy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://foundationalloy.com/22m-series-a/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://foundationalloy.com/22m-series-a/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/powder-manufacturer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/-/en/Super-Alloy-Foundation-Aquarion-Gold/dp/B09DZ442SL",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://kdp.amazon.co.jp:443/ja_JP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ssofaast-wms.amazon.co.jp/ap/signin?clientContext=357-7396783-8940921&openid.pape.max_auth_age=3600&openid.return_to=https%3A%2F%2Fssofaast-wms.amazon.co.jp%2Frosters&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=amzn_faast_privatepool_jp&openid.mode=checkid_setup&language=ja_JP&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/1654/8263/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/1766/2356/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/01201596/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/foundation-alloy-technology-explorations-inc/565369466",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://engine.xyz/resident-companies/foundation-alloy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://foundationalloy.com/category/press-release/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Foundation Alloy — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.directory/company-category/foundation/",
+    "https://cheap3dhub.com/en/how-foundation-alloys-22-million-move-is-shaping-the/",
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://www.voxelmatters.group/consultancy/",
+    "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "https://hdc3d.com/ja/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B%E3%83%BB%E9%80%A3%E7%B5%A1%E5%85%88/",
+    "https://www.youtube.com/watch?v=obJ8uJeqCxQ",
+    "https://www.stratasys.co.jp/contact-us/additive-manufacturing-expert-advice/",
+    "https://foundationalloy.com/22m-series-a/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Foundation Alloy — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://techcrunch.com/2026/06/16/this-startups-super-metals-could-soon-be-in-military-drones-luxury-watches-and-chefs-knives/",
+    "https://www.instagram.com/antenna_ts/",
+    "https://dolphin-s.co.jp.siteindices.com/",
+    "https://www.allelcoelec.com/",
+    "https://www.instagram.com/popular/pokemon-golf-headcovers/",
+    "https://metalex.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Foundation Alloy — VoxelMatters 日本 販売",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://trustmate.io/ja/company/7dc2306f-47f5-4644-84b8-af82f234d32a/product/1020",
+    "https://ja.aliexpress.com/item/1005009846651010.html",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://www.reuse-materials.jp/mk2/ac/bid/detail.html?item_id=1548",
+    "http://shop.fannect.jp/darwin-webstore/sp/syousai.asp?item=DA-109",
+    "https://komatsuya-net.co.jp/https://komatsuya-net.co.jp/foreignPatentDetail.html?foreign_id=10558",
+    "https://www.r-info.tohoku.ac.jp/en/62a5bdb0778dd2be2773dada50e693e0.html",
+    "https://www.rakuten.ne.jp/gold/ontheearth/item/a111667500028809.html",
+    "https://www.kanematsu.co.jp/press/release/2026061７_release"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Foundation Alloy — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://skhonpo.com/",
+    "https://www.poly-maker.jp/",
+    "https://www.amazon.co.jp/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E7%B4%A0%E6%9D%90/b?ie=UTF8&node=3489859051",
+    "https://shop.exmatelab.com/",
+    "https://search.rakuten.co.jp/search/mall/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://www.matterhackers.com/store?srsltid=AYCX9vJePdpdyUlgjlyQnxnSfhibM9z10CbF8JVviV4N0quqQy8_WBlh",
+    "https://www.brule.co.jp/ultimaker/ultimaker-filament.html?srsltid=AYCX9vJ4u8vUuNahy9Lz856_BpHtulxTNsmxK6VpEAG2myO7-8YP_yr7",
+    "https://www.askul.co.jp/m/02-0205-0205004-3/",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Foundation Alloy — VoxelMatters Japan distributor",
+   "results": [
+    "https://foundationalloy.com/category/press-release/",
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://engineventures.com/companies/foundation-alloy",
+    "https://foundationalloy.com/22m-series-a/",
+    "https://www.voxelmatters.directory/company-category/powder-manufacturer/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.voxelmatters.report/database/",
+    "https://cheap3dhub.com/en/how-foundation-alloys-22-million-move-is-shaping-the/",
+    "https://www.voxelmatters.group/our-network/",
+    "https://foundationalloy.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Foundation Alloy — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://foundationalloy.com/22m-series-a/",
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.voxelmatters.directory/company-category/powder-manufacturer/",
+    "https://www.farsoon-gl.com/news/solize-partners-japan-3d-printer-and-farsoon-technologies-announces-3-way-strategic-partnership-to-advance-large-format-lpbf-solutions-in-japan/",
+    "https://global.jaxa.jp/press/2024/06/20240613-1_e.html",
+    "https://mx3d.com/geo/robotic-metal-3d-printing-japan/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.metal-am.com/articles/the-current-status-and-outlook-for-metal-additive-manufacturing-in-japan/",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:amazon.co.jp Foundation Alloy — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/-/en/Super-Alloy-Foundation-Aquarion-Gold/dp/B09DZ442SL",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://kdp.amazon.co.jp/ja_JP/signin",
+    "https://ssofaast-wms.amazon.co.jp/",
+    "https://www.amazon.co.jp/桐原美月-ｓｗｅｅｔ-ｇｉｒｌ-ＦＲＩＤＡＹデジタル写真集-Ｔａｋｅｏ-Ｄｅｃ．-ebook/dp/B0HLDS675M",
+    "https://business.amazon.co.jp/ja/login",
+    "https://music.amazon.co.jp/tracks/B0GS6YNHB1"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Foundation Alloy — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/p/1654/8263/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/p/1766/2356/",
+    "https://www.monotaro.com/g/01201596/",
+    "https://www.monotaro.com/p/4902/0413/",
+    "https://www.monotaro.com/g/02625328/",
+    "https://www.monotaro.com/g/02888691/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Foundation Alloy — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://www.zoominfo.com/c/foundation-alloy-technology-explorations-inc/565369466",
+    "https://engine.xyz/resident-companies/foundation-alloy",
+    "https://foundationalloy.com/category/press-release/",
+    "https://www.tectonicdefense.com/exclusive-foundation-alloy-raises-7-5m-for-advanced-metal-manufacturing/",
+    "https://www.linkedin.com/company/foundationalloy",
+    "https://engineventures.com/companies/foundation-alloy",
+    "https://pitchbook.com/profiles/company/497682-46",
+    "https://www.businesswire.com/news/home/20220601005142/en/Foundation-Alloy-Raises-%2410.5-Million-to-Further-its-Mission-to-Leverage-Materials-Technology-to-Produce-Higher-Performance-Metal-Parts-with-Less-Energy",
+    "https://compworth.com/company/foundation-alloy"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Foundation Alloy — VoxelMatters",
+   "results": [
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/koakinai_bantou/n/n7a335a52c942?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/nosuke0607/n/n09d02c47e173",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/godel/n/n219ff14f4820"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Foundation Alloy — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/FoundationAlloy/with_replies",
+    "https://x.com/3DPrint_com/status/2067948913467007158",
+    "https://x.com/BosBizJournal/status/2109751068930261490",
+    "https://x.com/VoxelMatters/status/2110656132385575001",
+    "https://x.com/mattliptak/status/2109982636294992039",
+    "https://x.com/mattliptak/status/2108562434059616377"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Foundation Alloy — VoxelMatters",
+   "results": [
+    "https://it.linkedin.com/in/davide-sher",
+    "https://www.linkedin.com/in/herbertbrianyu",
+    "https://www.linkedin.com/in/hunter-taylor-2b080ba3",
+    "https://www.linkedin.com/in/sunilbadwe",
+    "https://www.linkedin.com/pulse/additive-vs-subtractive-manufacturing-what-who-leads-sami-9jfie",
+    "https://www.linkedin.com/in/matthew-charles-55130b2b2",
+    "https://www.linkedin.com/in/kunal-naik-a2201092",
+    "https://www.linkedin.com/in/josephcrabtree",
+    "https://www.linkedin.com/in/nick-bagshaw-750a469a"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com Foundation Alloy — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/aerospacenow/posts/in-aerospace-marketing-metal-3d-printing-is-often-framed-as-the-undisputed-futur/122141766993226855/",
+    "https://www.facebook.com/SheffieldTeachingHospitals/posts/imagine-if-medical-models-could-look-and-feel-just-like-the-real-thing-that-futu/1467001942118701/",
+    "https://www.facebook.com/M.A.Ostrega/posts/from-article-gel-polymer-electrolytes-gpes-are-promising-materials-for-developin/10244397132493322/",
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/forbes/posts/10160348278052509/",
+    "https://www.facebook.com/MITSchoolofEngineering/photos/foundation-alloy-a-company-founded-by-a-team-from-mit-including-former-dmse-prof/1236373048532758/",
+    "https://www.facebook.com/VoxelMatters/videos/2155326438344264/",
+    "https://www.facebook.com/MITnews/posts/foundation-alloy-creates-high-performance-metals-using-a-novel-process-that-does/1179111584260976/",
+    "https://www.facebook.com/madison.gianelle/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-creating-new-solutions-for-hard-to-source-replacement-/893346590210455/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Foundation Alloy — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/",
+    "https://www.voxelmatters.com/dfam-aerospace-ntopology-interview/",
+    "https://www.tokyu-fudosan-hd.co.jp/news/companies/pdf/f79130b7dae03531cc9a82d9a019961399916c4e.pdf",
+    "https://www.voxelmatters.group/consultancy/",
+    "https://blitzportal.com/startups/Foundation-Alloy-MXdB9ELj",
+    "https://note.com/bestat",
+    "https://www.mt.com/content/jp/ja/home/library/podcast/laboratory-division/balancing-the-future-laboratory-podcast.html",
+    "https://www.voxelmatters.report/key-insights/",
+    "https://foundationalloy.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Foundation Alloy — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/ucl-researchers-develop-aluminum-alloy-purpose-built-for-ded-printing/",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.voxelmatters.report/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.com/scaling-metal-powder-supply-and-alloy-development-join-continuum-in-our-upcoming-webinar/",
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.youtube.com/watch?v=db6VK7ePYGo",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.youtube.com/watch?v=2TapNnQZ9Ek",
+    "https://foundationalloy.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）"
+ }
+}

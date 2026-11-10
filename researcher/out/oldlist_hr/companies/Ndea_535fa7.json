@@ -1,0 +1,1103 @@
+{
+ "name": "Ndea",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-09T23:59:54.573614+00:00",
+ "official_url": "https://ndea.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "1. Seed Round",
+    "value": "01-Jan-2025    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/741650-23",
+    "pass": 3
+   },
+   {
+    "label": "Seed-1",
+    "value": "",
+    "url": "https://pitchbook.com/profiles/company/741650-23",
+    "pass": 3
+   },
+   {
+    "label": "Seed-2",
+    "value": "228,890 $0.000010  $17.86 $17.86 1x $17.86 0%",
+    "url": "https://pitchbook.com/profiles/company/741650-23",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "10,000,000 $0.000010  $0.17 $0.17 1x $0.17 20.32%",
+    "url": "https://pitchbook.com/profiles/company/741650-23",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "progress has been driven by the curiosity to acquire knowledge, the ability to pass it on, and an",
+    "url": "https://ndea.com/",
+    "pass": 1
+   },
+   {
+    "quote": "thousand generations. Scientific progress has helped us overcome burdens that long defined human life",
+    "url": "https://ndea.com/",
+    "pass": 1
+   },
+   {
+    "quote": "— famines, plagues, and widespread illiteracy. Science will continue to redefine the boundaries of",
+    "url": "https://ndea.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Today, the acceleration of scientific progress hinges on one factor: AI capable of independent invention",
+    "url": "https://ndea.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Current deep learning-based AI, while impressive and economically valuable, is ultimately constrained by",
+    "url": "https://ndea.com/",
+    "pass": 1
+   },
+   {
+    "quote": "open-ended problems. It reflects back to us only the knowledge, programs, and abstractions found in its",
+    "url": "https://ndea.com/",
+    "pass": 1
+   },
+   {
+    "quote": "training data. Like the man behind the curtain in The Wizard of Oz, it hides the fact that human general",
+    "url": "https://ndea.com/",
+    "pass": 1
+   },
+   {
+    "quote": "intelligence created the training data.",
+    "url": "https://ndea.com/",
+    "pass": 1
+   },
+   {
+    "quote": "If AI cannot efficiently adapt, it is forever constrained by what humans teach it. To compress the next",
+    "url": "https://ndea.com/",
+    "pass": 1
+   },
+   {
+    "quote": "100 years of scientific progress into 50, or perhaps 10, we need general intelligence, not task-specific",
+    "url": "https://ndea.com/",
+    "pass": 1
+   },
+   {
+    "quote": "skill. We need computers that can pose problems and explore new territory, not just apply known",
+    "url": "https://ndea.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The path to AGI is not through incremental improvements to existing methods. The problems with deep",
+    "url": "https://ndea.com/",
+    "pass": 1
+   },
+   {
+    "quote": "news is that we know what it is: program synthesis.",
+    "url": "https://ndea.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Guided Program Synthesis",
+    "url": "https://ndea.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We believe program synthesis holds the key to unlocking AGI. Instead of interpolating between data points",
+    "url": "https://ndea.com/",
+    "pass": 1
+   },
+   {
+    "quote": "in a continuous embedding space, program synthesis searches for discrete programs, or models, that",
+    "url": "https://ndea.com/",
+    "pass": 1
+   },
+   {
+    "quote": "By leveraging deep learning to guide program search, we can overcome the computational bottlenecks of",
+    "url": "https://ndea.com/",
+    "pass": 1
+   },
+   {
+    "quote": "program synthesis. This fusion integrates intuitive pattern recognition with rigorous reasoning,",
+    "url": "https://ndea.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Compared to deep learning, program synthesis is a much less mature research field. The state of program",
+    "url": "https://ndea.com/",
+    "pass": 1
+   },
+   {
+    "quote": "potential of program synthesis — it's a technique every frontier AI lab is now starting to",
+    "url": "https://ndea.com/",
+    "pass": 1
+   },
+   {
+    "quote": "explore. Most, however, believe it's only a small component of what's needed for AGI. We believe program",
+    "url": "https://ndea.com/",
+    "pass": 1
+   },
+   {
+    "quote": "learning with program synthesis.",
+    "url": "https://ndea.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ndea is entirely focused on developing and operationalizing AGI to realize unprecedented scientific",
+    "url": "https://ndea.com/",
+    "pass": 1
+   },
+   {
+    "quote": "progress in our lifetime for the benefit of all current and future generations.",
+    "url": "https://ndea.com/",
+    "pass": 1
+   },
+   {
+    "quote": "exciting adventure lies in the 'unknown'. AGI promises discoveries and progress we cannot imagine today.",
+    "url": "https://ndea.com/",
+    "pass": 1
+   },
+   {
+    "quote": "benchmark measuring AGI progress. Chollet has been awarded the Global Swiss AI award, named to Times",
+    "url": "https://ndea.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "worldwide. A pioneer in running globally distributed teams, he led all engineering and product as",
+    "url": "https://ndea.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "President and led Zapier's early adoption of AI. Zapier is now the largest AI automation company in the",
+    "url": "https://ndea.com/about",
+    "pass": 1
+   },
+   {
+    "quote": ", a non-profit for public",
+    "url": "https://ndea.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "ユーロフィンBioPharma Product Testingでは、GMP省令準拠で管理された分析機器を用いて、ニトロソアミン類分析の試験法開発、バリデーション、定量試験もしくは限度試験が可能です",
+    "url": "https://www.eurofins.com/ja-jp/biopharma-services/biopharma-product-testing/impurity-testing/nitrosamines/",
+    "pass": 3
+   },
+   {
+    "quote": "FDA Requests Removal of All Ranitidine Products (Zantac) from the Market",
+    "url": "https://www.eurofins.com/ja-jp/biopharma-services/biopharma-product-testing/impurity-testing/nitrosamines/",
+    "pass": 3
+   },
+   {
+    "quote": "-Nitrosodimethylamine Formation in Metformin Drug Products by the Reaction of Dimethylamine and Atmospheric NO",
+    "url": "https://www.eurofins.com/ja-jp/biopharma-services/biopharma-product-testing/impurity-testing/nitrosamines/",
+    "pass": 3
+   },
+   {
+    "quote": "」と記載されているが、今般、EMAガ イダンスが更新され、The Carcinogenic Potency Categorization Approach (CPCA) for N-nitrosamines (Annex 2)が示されたことを受け、本邦における 限度値設定においてもこれを利用して差し支えないか",
+    "url": "https://www.eurofins.com/ja-jp/biopharma-services/biopharma-product-testing/impurity-testing/nitrosamines/",
+    "pass": 3
+   },
+   {
+    "quote": "ユーロフィンBioPharma Product Testingでは、GMP省令準拠で管理された分析機器を用いて、ニトロソアミン類分析の試験法開発、バリデーション、定量試験もしくは限度試験または簡易定量が可能です",
+    "url": "https://www.eurofins.com/ja-jp/biopharma-services/biopharma-product-testing/impurity-testing/nitrosamines/",
+    "pass": 3
+   },
+   {
+    "quote": "N-Nitrosodiisopropanolamine (NDIPLA), 100 μg/mL in Methanol",
+    "url": "https://labchem-wako.fujifilm.com/jp/product/detail/W01USP1466652.html",
+    "pass": 3
+   },
+   {
+    "quote": "N-Nitrosodiisopropylamine (NDIPA), 100 ug/mL in Methanol",
+    "url": "https://labchem-wako.fujifilm.com/jp/product/detail/W01USP1466652.html",
+    "pass": 3
+   },
+   {
+    "quote": "N-Nitrosodiisopropylamine (NDIPA) (1 mL (1 mg/mL)) (N-Isopropyl-N-nitrosoisopropylamine)",
+    "url": "https://labchem-wako.fujifilm.com/jp/product/detail/W01USP1466652.html",
+    "pass": 3
+   },
+   {
+    "quote": "N-Nitrosodi-n-propylamine, 5.0 mg/mL in MeOH",
+    "url": "https://labchem-wako.fujifilm.com/jp/product/detail/W01USP1466652.html",
+    "pass": 3
+   },
+   {
+    "quote": "N-Nitrosodi-n-propylamine, 2.5 mg/mL in Dichloromethane",
+    "url": "https://labchem-wako.fujifilm.com/jp/product/detail/W01USP1466652.html",
+    "pass": 3
+   },
+   {
+    "quote": "N-Nitrosodi-n-propylamine, 100 ug/mL in Dichloromethane",
+    "url": "https://labchem-wako.fujifilm.com/jp/product/detail/W01USP1466652.html",
+    "pass": 3
+   },
+   {
+    "quote": "N-Nitrosodipropylamine (NDPA) Solution (1 mL (1 mg/mL)) (N,N-dipropylnitrous amide)",
+    "url": "https://labchem-wako.fujifilm.com/jp/product/detail/W01USP1466652.html",
+    "pass": 3
+   },
+   {
+    "quote": "n-Nitroso-Di-n-propylamine (unlabeled) 1 mg/mL in methylene chloride",
+    "url": "https://labchem-wako.fujifilm.com/jp/product/detail/W01USP1466652.html",
+    "pass": 3
+   },
+   {
+    "quote": "N-Nitrosodi-n-propylamine-d14, 100 ug/mL in Methanol",
+    "url": "https://labchem-wako.fujifilm.com/jp/product/detail/W01USP1466652.html",
+    "pass": 3
+   },
+   {
+    "quote": "n-Nitroso-Di-n-propylamine (D14, 98%)",
+    "url": "https://labchem-wako.fujifilm.com/jp/product/detail/W01USP1466652.html",
+    "pass": 3
+   },
+   {
+    "quote": "n-Nitroso-Di-n-propylamine (D14, 98%) 1 mg/mL in methylene chloride-D2",
+    "url": "https://labchem-wako.fujifilm.com/jp/product/detail/W01USP1466652.html",
+    "pass": 3
+   },
+   {
+    "quote": "N-Nitroso-N-ethyl-2-propanamine (NEIPA), 100 ug/mL in Methanol",
+    "url": "https://labchem-wako.fujifilm.com/jp/product/detail/W01USP1466652.html",
+    "pass": 3
+   },
+   {
+    "quote": "N-Nitrosoethylisopropylamine (NEIPA) (1 mL (1 mg/mL)) (N-Ethyl-N-nitroso-2-propanamine)",
+    "url": "https://labchem-wako.fujifilm.com/jp/product/detail/W01USP1466652.html",
+    "pass": 3
+   },
+   {
+    "quote": "N-Methyl-N-nitroso-2-propanamine (NMIPA), 100 μg/mL in Methanol",
+    "url": "https://labchem-wako.fujifilm.com/jp/product/detail/W01USP1466652.html",
+    "pass": 3
+   },
+   {
+    "quote": "ニトロソアミン不純物：規制の観点から - Veeprho",
+    "url": "https://veeprho.com/ja/%E3%83%8B%E3%83%88%E3%83%AD%E3%82%BD%E3%82%A2%E3%83%9F%E3%83%B3%E4%B8%8D%E7%B4%94%E7%89%A9%EF%BC%9A%E8%A6%8F%E5%88%B6%E3%81%AE%E8%A6%B3%E7%82%B9%E3%81%8B%E3%82%89/",
+    "pass": 3
+   },
+   {
+    "quote": "The video loads from YouTube only when you press play.",
+    "url": "https://veeprho.com/ja/%E3%83%8B%E3%83%88%E3%83%AD%E3%82%BD%E3%82%A2%E3%83%9F%E3%83%B3%E4%B8%8D%E7%B4%94%E7%89%A9%EF%BC%9A%E8%A6%8F%E5%88%B6%E3%81%AE%E8%A6%B3%E7%82%B9%E3%81%8B%E3%82%89/",
+    "pass": 3
+   },
+   {
+    "quote": "Tabrez Shaikh et al., (2020) Nitrosamine Impurities in Drug Substance and Drug Products. Journal of Advances in Pharmacy Practices (2582-4465), 2(I), 48-57.",
+    "url": "https://veeprho.com/ja/%E3%83%8B%E3%83%88%E3%83%AD%E3%82%BD%E3%82%A2%E3%83%9F%E3%83%B3%E4%B8%8D%E7%B4%94%E7%89%A9%EF%BC%9A%E8%A6%8F%E5%88%B6%E3%81%AE%E8%A6%B3%E7%82%B9%E3%81%8B%E3%82%89/",
+    "pass": 3
+   },
+   {
+    "quote": "Heads of Medicines agencies, https://www.hma.eu/whatsnew.html",
+    "url": "https://veeprho.com/ja/%E3%83%8B%E3%83%88%E3%83%AD%E3%82%BD%E3%82%A2%E3%83%9F%E3%83%B3%E4%B8%8D%E7%B4%94%E7%89%A9%EF%BC%9A%E8%A6%8F%E5%88%B6%E3%81%AE%E8%A6%B3%E7%82%B9%E3%81%8B%E3%82%89/",
+    "pass": 3
+   },
+   {
+    "quote": "Therapeutic Goods Administration (TGA), n-nitroso compounds in sartans blood pressure medicines, available at https://www.tga.gov.au",
+    "url": "https://veeprho.com/ja/%E3%83%8B%E3%83%88%E3%83%AD%E3%82%BD%E3%82%A2%E3%83%9F%E3%83%B3%E4%B8%8D%E7%B4%94%E7%89%A9%EF%BC%9A%E8%A6%8F%E5%88%B6%E3%81%AE%E8%A6%B3%E7%82%B9%E3%81%8B%E3%82%89/",
+    "pass": 3
+   },
+   {
+    "quote": "」, B. General Root Causes for the Presence of Nitrosamine Impurities in APIs］",
+    "url": "https://www.eurofins.com/ja-jp/biopharma-services/biopharma-product-testing/news/nitrosamines-001/",
+    "pass": 3
+   },
+   {
+    "quote": "FDA Requests Removal of All Ranitidine Products (Zantac) from the Market",
+    "url": "https://www.eurofins.com/ja-jp/biopharma-services/biopharma-product-testing/news/nitrosamines-001/",
+    "pass": 3
+   },
+   {
+    "quote": "Questions and Answers: NDMA impurities in metformin products",
+    "url": "https://www.eurofins.com/ja-jp/biopharma-services/biopharma-product-testing/news/nitrosamines-001/",
+    "pass": 3
+   },
+   {
+    "quote": "-Nitrosodimethylamine Formation in Metformin Drug Products by the Reaction of Dimethylamine and Atmospheric NO",
+    "url": "https://www.eurofins.com/ja-jp/biopharma-services/biopharma-product-testing/news/nitrosamines-001/",
+    "pass": 3
+   },
+   {
+    "quote": "Gasoline and lubricant additive, stabilizer in plastics, solvent, copolymer softener; precursor to 1,1-diethylhydrazine; emitted during the compounding, forming, and curing operations of elastomeric parts; component of tobacco smoke",
+    "url": "https://oehha.ca.gov/chemicals/n-nitrosodiethylamine",
+    "pass": 3
+   },
+   {
+    "quote": "Air Toxics Hot Spots Program Technical Support Document for Cancer Potencies. Appendix B.",
+    "url": "https://oehha.ca.gov/chemicals/n-nitrosodiethylamine",
+    "pass": 3
+   },
+   {
+    "quote": "Proposition 65",
+    "url": "https://oehha.ca.gov/chemicals/n-nitrosodiethylamine",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Building AGI alone is a monumental undertaking, but our mission is even bigger. We're creating a factory",
+    "url": "https://ndea.com/",
+    "pass": 1
+   },
+   {
+    "quote": "for rapid scientific advancement — a factory capable of inventing and commercializing N ideas.",
+    "url": "https://ndea.com/",
+    "pass": 1
+   },
+   {
+    "quote": "François Chollet is the creator of Keras — a Python deep learning library used by thousands of",
+    "url": "https://ndea.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Mike Knoop co-founded Zapier, the industry leader in software automation, used by millions of businesses",
+    "url": "https://ndea.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Military–industrial complex",
+    "url": "https://en.wikipedia.org/wiki/National_Defense_Education_Act",
+    "pass": 3
+   },
+   {
+    "quote": "Federal Plant Pest Act of 1957",
+    "url": "https://en.wikipedia.org/wiki/National_Defense_Education_Act",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "enabling autonomous abstraction and skill acquisition from minimal data.",
+    "url": "https://ndea.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Listed as causing: Cancer",
+    "url": "https://oehha.ca.gov/chemicals/n-nitrosodiethylamine",
+    "pass": 3
+   },
+   {
+    "quote": "Ndea has 15 total employees.",
+    "url": "https://pitchbook.com/profiles/company/741650-23",
+    "pass": 3
+   },
+   {
+    "quote": "What is Ndea’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/741650-23",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Ndea is",
+    "url": "https://pitchbook.com/profiles/company/741650-23",
+    "pass": 3
+   },
+   {
+    "quote": "Program synthesis for autonomous skill acquisition",
+    "url": "https://www.extruct.ai/hub/ndea-com/",
+    "pass": 3
+   },
+   {
+    "quote": "Program Synthesis for Autonomous Skill Acquisition",
+    "url": "https://www.extruct.ai/hub/ndea-com/",
+    "pass": 3
+   },
+   {
+    "quote": "Larry Abramson (2007).",
+    "url": "https://en.wikipedia.org/wiki/National_Defense_Education_Act",
+    "pass": 3
+   },
+   {
+    "quote": "Leonard, Barry (1981).",
+    "url": "https://en.wikipedia.org/wiki/National_Defense_Education_Act",
+    "pass": 3
+   },
+   {
+    "quote": "Internal Revenue Code of 1954",
+    "url": "https://en.wikipedia.org/wiki/National_Defense_Education_Act",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Heads of Medicines agencies, https://www.hma.eu/whatsnew.html",
+    "url": "https://veeprho.com/ja/%E3%83%8B%E3%83%88%E3%83%AD%E3%82%BD%E3%82%A2%E3%83%9F%E3%83%B3%E4%B8%8D%E7%B4%94%E7%89%A9%EF%BC%9A%E8%A6%8F%E5%88%B6%E3%81%AE%E8%A6%B3%E7%82%B9%E3%81%8B%E3%82%89/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "（一社）日本ジェネリック医薬品・バイオシミラー学会",
+    "url": "https://www.ge-academy.org/img/teigen202609-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "この事案以降も日本では、消化性潰瘍治療薬のラニチジン、",
+    "url": "https://www.ge-academy.org/img/teigen202609-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、 （一社）日本ジェネリック医薬品・バイオシミラー学会 医薬品政策分科会及び",
+    "url": "https://www.ge-academy.org/img/teigen202609-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（一社）日本ジェネリック医薬品・バイオシミラー学会(GEBS学会)",
+    "url": "https://www.ge-academy.org/img/teigen202609-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（一社）日本ジェネリック医薬品・バイオシミラー学会は、2003 年の創設（前身、日本",
+    "url": "https://www.ge-academy.org/img/teigen202609-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ジェネリック研究会） 以来、 学会としての立場から一貫して、 日本におけるジェネリック医",
+    "url": "https://www.ge-academy.org/img/teigen202609-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "して、 日々日本国民の健康を守るために使用されており、 その安定供給の必要性は益々強く",
+    "url": "https://www.ge-academy.org/img/teigen202609-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本においては、 この情報を受けて、 当該原薬を使用していた製剤 （バルサルタン錠 「AA」",
+    "url": "https://www.ge-academy.org/img/teigen202609-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本においては、2021 年（令和 3 年）10 月 8 日付けで「医薬品におけるニトロソアミ",
+    "url": "https://www.ge-academy.org/img/teigen202609-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "新しいガイドラインであり、日本国内で具体的な指針を示したガイダン",
+    "url": "https://www.ge-academy.org/img/teigen202609-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "３． （一社）日本ジェネリック医薬品・バイオシミラー学会の提言",
+    "url": "https://www.ge-academy.org/img/teigen202609-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "以上のニトロソアミン類に関する管理の現状と考察を踏まえ、日本国民の健やかな生活",
+    "url": "https://www.ge-academy.org/img/teigen202609-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（一社） 日本ジェネリック医薬品 ・バイオシミラー学会 医薬品政策分科会及び原薬分科会",
+    "url": "https://www.ge-academy.org/img/teigen202609-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（一社）日本ジェネリック医薬品・バイオシミラー学会 医薬品政策分科会・原薬分科会",
+    "url": "https://www.ge-academy.org/img/teigen202609-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "（一社）日本ジェネリック医薬品・バイオシミラー学会は、今後も科学的知見の集積と関",
+    "url": "https://www.ge-academy.org/img/teigen202609-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本ジェネリック医薬品・バイオシミラー学会",
+    "url": "https://www.ge-academy.org/img/teigen202609-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "社会福祉法人日本医療伝道会衣笠病院グループ 理事",
+    "url": "https://www.ge-academy.org/img/teigen202609-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "太田 和実 Meiji Seika ファルマ株式会社 生産本部 生産戦略部",
+    "url": "https://www.ge-academy.org/img/teigen202609-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "川俣 知己 日新製薬株式会社 代表取締役社長",
+    "url": "https://www.ge-academy.org/img/teigen202609-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "白鳥 悟嗣 白鳥製薬株式会社 代表取締役社長",
+    "url": "https://www.ge-academy.org/img/teigen202609-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "蛭田 修 東京理科大学薬学部/熊本大学大学院薬学教育部 客員教授",
+    "url": "https://www.ge-academy.org/img/teigen202609-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "藤川 伊知郎 藤川株式会社 代表取締役社長",
+    "url": "https://www.ge-academy.org/img/teigen202609-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "由本 恭一 住友化学株式会社 ファーマソリューション事業部主席部員",
+    "url": "https://www.ge-academy.org/img/teigen202609-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事務局 西澤 健司 日本ジェネリック医薬品・バイオシミラー学会",
+    "url": "https://www.ge-academy.org/img/teigen202609-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "事務局 細川 修平 日本ジェネリック医薬品・バイオシミラー学会",
+    "url": "https://www.ge-academy.org/img/teigen202609-2.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "JFRL ニュース編集委員会 東京都渋谷区元代々木町 52-1",
+    "url": "https://www.jfrl.or.jp/storage/file/news_vol7_no12.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "医薬品中のニトロソアミン類（NDMA・ NDEA ・NMBA等 ... — 医薬品中のニトロソアミン類（NDMA・ NDEA ・NMBA等 ... Eurofins Scientific https://www.eurofins.com > impurity-testing > nitrosamines",
+    "url": "https://www.eurofins.com/ja-jp/biopharma-services/biopharma-product-testing/impurity-testing/nitrosamines/",
+    "pass": 3
+   },
+   {
+    "quote": "55-18-5・N-Nitrosodiethylamine ( NDEA ) (1 mL (1 mg/mL)) (N ... — 55-18-5・N-Nitrosodiethylamine ( NDEA ) (1 mL (1 mg/mL)) (N ... FUJIFILM Wako https://labchem-wako.fujifilm.com > product > detail",
+    "url": "https://labchem-wako.fujifilm.com/jp/product/detail/W01USP1466652.html",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品におけるニトロソアミン類（NDMA・ NDEA ）の生成 ... — 医薬品におけるニトロソアミン類（NDMA・ NDEA ）の生成 ... Eurofins Scientific https://www.eurofins.com > ja-jp > news > nitrosamines-001",
+    "url": "https://www.eurofins.com/ja-jp/biopharma-services/biopharma-product-testing/news/nitrosamines-001/",
+    "pass": 3
+   },
+   {
+    "quote": "Ndea 2026 Company Profile: Valuation, Funding & Investors — Ndea 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/741650-23",
+    "pass": 3
+   },
+   {
+    "quote": "Ndea Funding : $43.0M | Complete Analysis - Extruct AI — Ndea Funding : $43.0M | Complete Analysis - Extruct AI Extruct AI https://www.extruct.ai > ndea-com",
+    "url": "https://www.extruct.ai/hub/ndea-com/",
+    "pass": 3
+   },
+   {
+    "quote": "Ndea - LinkedIn — Ndea - LinkedIn LinkedIn https://www.linkedin.com > ndea",
+    "url": "https://www.linkedin.com/company/ndea",
+    "pass": 3
+   },
+   {
+    "quote": "Ndea - The YC Tier List — Ndea - The YC Tier List yctierlist.com https://yctierlist.com > ndea-com",
+    "url": "https://yctierlist.com/w26/ndea-com/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/741650-23",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Ndea - X Ndea - X X https://x.com > ndea",
+    "url": "https://x.com/ndea",
+    "pass": 3
+   },
+   {
+    "quote": "N'dea Yancey-Bragg (@NdeaYanceyBragg) / X N'dea Yancey-Bragg (@NdeaYanceyBragg) / X X https://x.com > NdeaYanceyBragg",
+    "url": "https://x.com/NdeaYanceyBragg",
+    "pass": 3
+   },
+   {
+    "quote": "I got a fun birthday present from the team at Ndea ❤️ - X I got a fun birthday present from the team at Ndea ❤️ - X X https://x.com > @fchollet",
+    "url": "https://x.com/fchollet/status/2116962954877014152",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Ndea - LinkedIn Ndea - LinkedIn LinkedIn https://www.linkedin.com > ndea",
+    "url": "https://www.linkedin.com/company/ndea",
+    "pass": 3
+   },
+   {
+    "quote": "Bryan Landers - Ndea | LinkedIn Bryan Landers - Ndea | LinkedIn LinkedIn https://www.linkedin.com > bryanlan...",
+    "url": "https://www.linkedin.com/in/bryanlanders",
+    "pass": 3
+   },
+   {
+    "quote": "Hunter Henry - @ Ndea - AI | Reinforcement Learning - LinkedIn Hunter Henry - @ Ndea - AI | Reinforcement Learning - LinkedIn LinkedIn https://www.linkedin.com > hunterhe...",
+    "url": "https://www.linkedin.com/in/hunterhenry",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "NDea Davenport (@NDeaDavenport) - Facebook NDea Davenport (@NDeaDavenport) - Facebook Facebook https://www.facebook.com > ... > Musician/band",
+    "url": "https://www.facebook.com/NDeaDavenport/",
+    "pass": 3
+   },
+   {
+    "quote": "Taj Ndea - Facebook Taj Ndea - Facebook Facebook https://www.facebook.com > ... > Digital creator",
+    "url": "https://www.facebook.com/ndea.ndea.315/",
+    "pass": 3
+   },
+   {
+    "quote": "Ndea Wilson - Facebook Ndea Wilson - Facebook Facebook https://www.facebook.com > ... > Digital creator",
+    "url": "https://www.facebook.com/ndea.wilson/",
+    "pass": 3
+   },
+   {
+    "quote": "NDEA Meet 2024 NDEA Meet 2024 Facebook https://www.facebook.com > ... > Education > School",
+    "url": "https://www.facebook.com/p/NDEA-Meet-2024-61555149373629/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://ndea.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ndea.com/about",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.eurofins.com/ja-jp/biopharma-services/biopharma-product-testing/impurity-testing/nitrosamines/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://labchem-wako.fujifilm.com/jp/product/detail/W01USP1466652.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://veeprho.com/ja/%E3%83%8B%E3%83%88%E3%83%AD%E3%82%BD%E3%82%A2%E3%83%9F%E3%83%B3%E4%B8%8D%E7%B4%94%E7%89%A9%EF%BC%9A%E8%A6%8F%E5%88%B6%E3%81%AE%E8%A6%B3%E7%82%B9%E3%81%8B%E3%82%89/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ge-academy.org/img/teigen202609-2.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.eurofins.com/ja-jp/biopharma-services/biopharma-product-testing/impurity-testing/nitrosamines/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://labchem-wako.fujifilm.com/jp/product/detail/W01USP1466652.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://resources.altium.com/jp/p/authorized-vs-unauthorized-distributors-electronic-components-supply-chain",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://labchem-wako.fujifilm.com/jp/product/detail/W01USP1466652.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eurofins.com/ja-jp/biopharma-services/biopharma-product-testing/news/nitrosamines-001/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oehha.ca.gov/chemicals/n-nitrosodiethylamine",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jfrl.or.jp/storage/file/news_vol7_no12.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vL_eD7anxOoxvQv2ck0Nc1Lo-bOQT-Vb14i4e5ZHY3zj06mS7nA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://c3.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rit.edu/advancedmanufacturing/industry40/course/industry-40-case-studies-curated",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agencyplatform.com/seo-reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/741650-23",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.extruct.ai/hub/ndea-com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/National_Defense_Education_Act",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/ndea",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ndea",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/NdeaYanceyBragg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/fchollet/status/2116962954877014152",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/ndea",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/bryanlanders",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/hunterhenry",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/NDeaDavenport/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ndea.ndea.315/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ndea.wilson/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/NDEA-Meet-2024-61555149373629/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ndea",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Ndea 日本 導入",
+   "results": [
+    "https://www.eurofins.com/ja-jp/biopharma-services/biopharma-product-testing/impurity-testing/nitrosamines/",
+    "https://labchem-wako.fujifilm.com/jp/product/detail/W01USP1466652.html",
+    "https://veeprho.com/ja/%E3%83%8B%E3%83%88%E3%83%AD%E3%82%BD%E3%82%A2%E3%83%9F%E3%83%B3%E4%B8%8D%E7%B4%94%E7%89%A9%EF%BC%9A%E8%A6%8F%E5%88%B6%E3%81%AE%E8%A6%B3%E7%82%B9%E3%81%8B%E3%82%89/",
+    "https://www.ge-academy.org/img/teigen202609-2.pdf",
+    "https://www.ph-s.com/uploads/technical_documents/2023/12/%E5%AF%BE%E8%A8%B3%E7%89%88_EMA_Q-and-A_%E3%83%92%E3%83%88%E7%94%A8%E5%8C%BB%E8%96%AC%E5%93%81%E4%B8%AD%E3%81%AE%E3%83%8B%E3%83%88%E3%83%AD%E3%82%BD%E3%82%A2%E3%83%9F%E3%83%B3%E3%81%AE%E4%B8%8D%E7%B4%94%E7%89%A9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%AE%E7%85%A7%E4%BC%9A_2023%E5%B9%B410%E6%9C%882%E6%97%A5%E7%99%BA%E5%87%BA.pdf",
+    "https://www.pmda.go.jp/safety/info-services/drugs/0371.html",
+    "https://www.nihs.go.jp/oshirasejoho/symposium/R8/7.pdf",
+    "https://files.microcms-assets.io/assets/2ba1312dfebd4aa2974043d7c22bca0a/dc007e5f976d4b4ea821c2c33f99ebe9/fdajp.pdf",
+    "https://www.jfe-tec.co.jp/analysis/nitrosamine.html",
+    "https://ndea.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Ndea 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.eurofins.com/ja-jp/biopharma-services/biopharma-product-testing/impurity-testing/nitrosamines/",
+    "https://labchem-wako.fujifilm.com/jp/product/detail/W01USP1466652.html",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://resources.altium.com/jp/p/authorized-vs-unauthorized-distributors-electronic-components-supply-chain",
+    "https://www.nnlife.co.jp/agencies",
+    "https://toga-lab.jp/recruiting-agents/",
+    "https://b-seeds.com/",
+    "https://www.nihoniyo.co.jp/agent/index.html",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://biz.moneyforward.com/contract/basic/8378/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Ndea Japan",
+   "results": [
+    "https://labchem-wako.fujifilm.com/jp/product/detail/W01USP1466652.html",
+    "https://www.eurofins.com/ja-jp/biopharma-services/biopharma-product-testing/news/nitrosamines-001/",
+    "https://oehha.ca.gov/chemicals/n-nitrosodiethylamine",
+    "https://www.jfrl.or.jp/storage/file/news_vol7_no12.pdf",
+    "https://www.shimadzu.com/an/apl/13616/index.html",
+    "https://en.wikipedia.org/wiki/N-Nitrosodiethylamine",
+    "https://pubchem.ncbi.nlm.nih.gov/compound/N-Nitrosodiethylamine",
+    "https://www.maff.go.jp/j/syouan/n_nas/about.html",
+    "https://www.gls.co.jp/technique/app/detail.php?data_number=LB668",
+    "https://ja.wikipedia.org/wiki/NEW_JAPAN_CUP"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Ndea manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vL_eD7anxOoxvQv2ck0Nc1Lo-bOQT-Vb14i4e5ZHY3zj06mS7nA",
+    "https://c3.ai/customers",
+    "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "https://www.rit.edu/advancedmanufacturing/industry40/course/industry-40-case-studies-curated",
+    "https://nmis.scot/what-we-do/case-studies/",
+    "https://www.stratasys.com/en/resources/case-studies/",
+    "https://www.flexwareinnovation.com/case-studies/",
+    "https://www.usengineering.com/a-case-study-in-design-for-manufacturing-and-assembly/",
+    "https://kanerika.com/blogs/generative-ai-in-manufacturing/",
+    "https://www.riejournal.com/article_209722_0dfe82662f5a205d33330a61a7908bee.pdf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Ndea white label OR reseller OR partner program",
+   "results": [
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://www.agencyplatform.com/seo-reseller-program/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://journeybee.io/resources/top-100-reseller-programs",
+    "https://evincedev.com/blog/a-detailed-guide-to-white-label-reseller-program-to-grow-your-existing-business/",
+    "https://kannect.co/partner/",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Ndea founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/741650-23",
+    "https://www.extruct.ai/hub/ndea-com/",
+    "https://en.wikipedia.org/wiki/National_Defense_Education_Act",
+    "https://www.linkedin.com/company/ndea",
+    "https://yctierlist.com/w26/ndea-com/",
+    "https://history.house.gov/Records-and-Research/Listing/lfp_006/",
+    "https://ndea.com/",
+    "https://www.britannica.com/topic/National-Defense-Education-Act",
+    "https://menlovc.com/team/deedy-das/",
+    "https://seedtable.com/companies/ndea-com"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Ndea",
+   "results": [
+    "https://note.com/k_three/n/ndeafdf21b4ff",
+    "https://note.com/kusuura/n/ndea48050733e",
+    "https://note.com/pharma_insight/n/n41de81747027?hl=en",
+    "https://note.com/_takamasaaa_/n/nfa96567450b2",
+    "https://note.com/repkuririn7/n/n33355986f33f",
+    "https://note.com/kabutom/n/ndea3df6b108c",
+    "https://note.com/lonnie78932/n/n4f55331257cd?hl=en",
+    "https://note.com/bww2018/n/ndea23fd72767",
+    "https://note.com/yuki_ii/n/ndea2bf692ef8",
+    "https://note.com/gel_chan/n/ndea64d3d2afc"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Ndea",
+   "results": [
+    "https://x.com/ndea",
+    "https://x.com/ycombinator/status/2037530081732534524",
+    "https://x.com/NdeaYanceyBragg",
+    "https://x.com/fchollet/status/2116962954877014152",
+    "https://x.com/fchollet",
+    "https://x.com/snacks_wut/status/1440483983616200706",
+    "https://x.com/africanews",
+    "https://x.com/abpalmarini",
+    "https://x.com/fchollet/status/2088243704603824311",
+    "https://x.com/Ndea13"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:linkedin.com Ndea",
+   "results": [
+    "https://www.linkedin.com/company/ndea",
+    "https://www.linkedin.com/in/bryanlanders",
+    "https://www.linkedin.com/in/fchollet",
+    "https://www.linkedin.com/in/hunterhenry",
+    "https://www.linkedin.com/in/ndeairvin-choy",
+    "https://www.linkedin.com/posts/ndea_on-the-pod-machine-learning-street-talk-activity-7485716250237521922-sLam",
+    "https://www.linkedin.com/in/ndeadrayton",
+    "https://www.linkedin.com/in/mmoffitt",
+    "https://www.linkedin.com/in/ndea-jackson",
+    "https://www.linkedin.com/pub/dir/Ndea/+"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:facebook.com Ndea",
+   "results": [
+    "https://www.facebook.com/NDeaDavenport/",
+    "https://www.facebook.com/ndea.ndea.315/",
+    "https://www.facebook.com/ndea.wilson/",
+    "https://www.facebook.com/p/NDEA-Meet-2024-61555149373629/",
+    "https://www.facebook.com/ndea.gc/",
+    "https://www.facebook.com/ndea.perkins.9/",
+    "https://www.facebook.com/ndea.jefferson/",
+    "https://www.facebook.com/ndea.carver/",
+    "https://www.facebook.com/ndea.ndea.315/photos/",
+    "https://www.facebook.com/ndea.ndea.315/posts/1732598505535913/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Ndea note 社長",
+   "results": [
+    "https://note.com/ai_shacho",
+    "https://note.com/standage/n/n2fc61ef58196",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/sadaaki",
+    "https://x.com/sadaaki",
+    "https://www.youtube.com/watch?v=-1MhAmFi0Tw",
+    "https://note.com/kenndo",
+    "https://agenda-note.com/conference/detail/id=5538",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Ndea X 投稿",
+   "results": [
+    "https://x.com/ndea",
+    "https://www.youtube.com/watch?v=gvbCoPOjdwA",
+    "https://thesequence.substack.com/p/the-sequence-radar-472-remember-this",
+    "https://eikaiwa.dmm.com/uknow/questions/140477/",
+    "https://publish.x.com/",
+    "https://www.ceartas.io/blog/how-to-file-a-dmca-takedown-on-twitter",
+    "https://www.watch.impress.co.jp/docs/news/1639297.html",
+    "https://mainichi.jp/articles/20241118/k00/00m/030/019000c",
+    "https://x.com/ndea34",
+    "https://www.instagram.com/ndea.x/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部35頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部35頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部35頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部35頁・検索12回）"
+ }
+}

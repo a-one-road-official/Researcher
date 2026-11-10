@@ -1,0 +1,452 @@
+{
+ "name": "CADmore Metal — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:powder-manufacturer",
+ "researched_at": "2026-11-10T00:08:48.373795+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookCADmore | Columbia SC - FacebookVoxelMatters Metal AM Market 2025 Report.... - FacebookCADmore - Designing for Metal Injection Molding (MIM): A ...CADmore - Choosing Between Metal 3D Printing & Metal ...VoxelMatters - New metal additive manufacturing process by...CadMore | Dhaka - Facebook Unlock the Future of Metal Additive Manufacturing with VoxelMatters! VoxelMatters Rese",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   },
+   {
+    "quote": "CADmore | Columbia SC - FacebookVoxelMatters Metal AM Market 2025 Report.... - FacebookCADmore - Designing for Metal Injection Molding (MIM): A ...CADmore - Choosing Between Metal 3D Printing & Metal ...VoxelMatters - New metal additive manufacturing process by...CadMore | Dhaka - Facebook Jan 23, 2025 · Our latest blog takes a close look at Metal 3D Printing versus Metal Injection Molding. Find o",
+    "url": "https://www.facebook.com/CADmore3D/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/category/additive-manufacturing/metals/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/product/metal-am-market-2025/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/metal-3d-printing-service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://skhonpo.com/blogs/blog/slicer-virtual-color-mixing-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/arc-impact-acquires-desktop-metal-assets/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/wp-content/uploads/2024/11/VoxelMatters-VMFocus2024-eBook-Metal-AM.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.act-pr.co.jp/report_detail/id=105",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/additive-manufacturing/metals/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cadmoremetal.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tegakari.net/2023/05/filamet-3d-printing-filament/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/cadmore-metal",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://spectrum.ieee.org/titanium-3d-printer-cadmore-metal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xactmetal.com/news_and_blog/affordable-metal-3d-printing-to-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mx3d.com/geo/robotic-metal-3d-printing-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00511629/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/new/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/1766/2356/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/7366/7825/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/cadmore-metal",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.report/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://all3dp.com/4/growth-and-challenges-the-next-decade-of-metal-additive-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/CADmore3D/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "CADmore Metal — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/category/additive-manufacturing/metals/",
+    "https://www.voxelmatters.report/product/metal-am-market-2025/",
+    "https://www.voxelmatters.directory/company-category/metal-3d-printing-service/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.voxelmatters.com/category/3d-printing-services/am-factories/",
+    "https://cadmore.com/metal-parts",
+    "https://xactmetal.com/",
+    "https://www.additivemanufacturing.media/news/endeavor-3d-cadmore-collaborate-to-strengthen-am-foothold-in-southeast-us",
+    "https://cdn.prod.website-files.com/69652556b7a330766a629de2/6a64f708c1a002d60468fe06_cadmore-metal-overview.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "CADmore Metal — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://skhonpo.com/blogs/blog/slicer-virtual-color-mixing-2026"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 1
+  },
+  {
+   "query": "CADmore Metal — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.voxelmatters.com/arc-impact-acquires-desktop-metal-assets/",
+    "https://www.voxelmatters.com/wp-content/uploads/2024/11/VoxelMatters-VMFocus2024-eBook-Metal-AM.pdf",
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://www.act-pr.co.jp/report_detail/id=105",
+    "https://www.nanjixiong.com/thread-166732-1-1.html",
+    "https://shopping.3dpro.jp/collections/3dpro",
+    "https://www.voxelmatters.com/category/additive-manufacturing/metals/",
+    "https://www.brule.co.jp/desktop-metal.html?srsltid=AYCX9vJb8j-bOo3rlswtsGMO0tJdadtVt9HmpKnK8oNa2licfxRIY7aK",
+    "https://www.cadjapan.com/products/items/metalx/",
+    "https://cadmoremetal.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "CADmore Metal — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.com/category/additive-manufacturing/metals/",
+    "https://cadmoremetal.com/",
+    "https://www.voxelmatters.com/top-products/",
+    "https://www.tegakari.net/2023/05/filamet-3d-printing-filament/",
+    "https://www.youtube.com/watch?v=9hDiiPCglcM",
+    "https://skhonpo.com/collections/metal-filament",
+    "https://www.unipos.net/products/filamet-3d-filament/",
+    "https://www.matterhackers.com/store?srsltid=AYCX9vIwYohpSnY3hkdstlAEwo7UDSqlNbzpHzfbWWKGswPjKcSao0tg",
+    "https://search.rakuten.co.jp/search/mall/%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88+3d+%E3%83%A1%E3%82%BF%E3%83%AB/",
+    "https://skhonpo.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "CADmore Metal — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://www.linkedin.com/company/cadmore-metal",
+    "https://spectrum.ieee.org/titanium-3d-printer-cadmore-metal",
+    "https://cadmore.com/",
+    "https://3dprint.com/316902/cadmore-establishes-first-cold-metal-fusion-facility-in-u-s/",
+    "https://www.mmts.co.jp/en/business/products/am-3d.html",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.youtube.com/watch?v=2-MMFBNkj7k",
+    "https://cadmoremetal.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "CADmore Metal — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://xactmetal.com/news_and_blog/affordable-metal-3d-printing-to-japan/",
+    "https://mx3d.com/geo/robotic-metal-3d-printing-japan/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://spectrum.ieee.org/titanium-3d-printer-cadmore-metal",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://3dprint.com/316902/cadmore-establishes-first-cold-metal-fusion-facility-in-u-s/",
+    "https://cadmore.com/about"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:amazon.co.jp CADmore Metal — VoxelMatters",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:monotaro.com CADmore Metal — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/g/00511629/",
+    "https://recruit.monotaro.com/new/",
+    "https://www.monotaro.com/p/1766/2356/",
+    "https://www.monotaro.com/p/7366/7825/",
+    "https://www.monotaro.com/g/00016743/",
+    "https://www.monotaro.com/g/00349325/",
+    "https://www.monotaro.com/p/3764/0793/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "CADmore Metal — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://www.linkedin.com/company/cadmore-metal",
+    "https://www.voxelmatters.report/",
+    "https://all3dp.com/4/growth-and-challenges-the-next-decade-of-metal-additive-manufacturing/",
+    "https://www.voxelmatters.com/aml3d-lift-fy2026-revenue-70-and-record-first-profitable-half/",
+    "https://growjo.com/company/Desktop_Metal",
+    "https://en.wikipedia.org/wiki/Desktop_Metal",
+    "https://www.voxelmatters.directory/",
+    "https://3dprint.com/316902/cadmore-establishes-first-cold-metal-fusion-facility-in-u-s/",
+    "https://pitchbook.com/profiles/company/1480274-11"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com CADmore Metal — VoxelMatters",
+   "results": [
+    "https://note.com/kakio_ja",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kouga_yun/n/n228fbf8fcafc",
+    "https://note.com/haru_yuki_i/n/n4ec981874187",
+    "https://note.com/shuho_sato/n/nd31093ca6f55"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com CADmore Metal — VoxelMatters",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com CADmore Metal — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/in/andrew-crane-25039935",
+    "https://www.linkedin.com/company/cadmore-metal",
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://gd.linkedin.com/posts/davide-sher_voxelmatters-invites-you-to-madexam-meet-activity-7072828724575879168-LEpS",
+    "https://pe.linkedin.com/posts/cadmore-metal_coldmetalfusion-cnc-metal-activity-7324081757123735553-5dcB",
+    "https://uk.linkedin.com/in/federico-sher",
+    "https://pe.linkedin.com/posts/cadmore-metal_additivemanufacturing-titanium-coldmetalfusion-activity-7336487925498490880-XiOs",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7305223205378482176/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:facebook.com CADmore Metal — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/CADmore3D/",
+    "https://www.facebook.com/VoxelMatters/posts/-voxelmatters-metal-am-market-2025-reportwe-are-now-offering-early-access-to-our/1140541171410263/",
+    "https://www.facebook.com/CADmore3D/posts/526400360424277/",
+    "https://www.facebook.com/CADmore3D/photos/choosing-between-metal-3d-printing-metal-injection-moldingnavigating-the-world-o/536756399388673/",
+    "https://www.facebook.com/VoxelMatters/posts/new-metal-additive-manufacturing-process-by-mitsubishi-electric-corporation-util/1049204528585005/",
+    "https://www.facebook.com/cadmore66/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "CADmore Metal — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/category/additive-manufacturing/metals/",
+    "https://all3dp.com/4/growth-and-challenges-the-next-decade-of-metal-additive-manufacturing/",
+    "https://www.voxelmatters.report/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.voxelmatters.com/metal-am-is-dead-long-live-metal-am/",
+    "https://cdn.prod.website-files.com/69652556b7a330766a629de2/6a64f708c1a002d60468fe06_cadmore-metal-overview.pdf",
+    "https://www.facebook.com/hafugo/posts/printed-a-plastic-trombone-with-zero-metal-then-tried-one-note/1599021082235164/",
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "CADmore Metal — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/desktop-metal-webinar-on-bound-metal-3d-printing/",
+    "https://www.voxelmatters.report/",
+    "https://www.youtube.com/watch?v=EmUPG3n5KrQ",
+    "https://www.voxelmatters.com/category/additive-manufacturing/metals/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://cadmoremetal.com/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://thevirtualfoundry.com/video-3d-print-metal-easy-way/",
+    "https://x.com/voxelmatters",
+    "https://x.com/VoxelMatters/status/2110656132385575001"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索15回）"
+ }
+}

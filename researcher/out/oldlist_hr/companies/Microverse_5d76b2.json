@@ -1,0 +1,1242 @@
+{
+ "name": "Microverse",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜未接触",
+ "researched_at": "2026-11-10T00:05:47.361504+00:00",
+ "official_url": "https://www.microverse.org",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$4,000",
+    "url": "https://prospeo.io/c/microverse-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "No funding",
+    "url": "https://prospeo.io/c/microverse-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "555 Mission Rock St, San Francisco, California 94158, US",
+    "url": "https://prospeo.io/c/microverse-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2017",
+    "url": "https://prospeo.io/c/microverse-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Web Development Program",
+    "url": "https://www.microverse.org/",
+    "pass": 1
+   },
+   {
+    "quote": "Leap: Practice speaking English with people like you",
+    "url": "https://www.microverse.org/",
+    "pass": 1
+   },
+   {
+    "quote": "Practice speaking English with people like you",
+    "url": "https://www.microverse.org/",
+    "pass": 1
+   },
+   {
+    "quote": "Become a remote software engineer, from anywhere. We're currently making changes to our Full-Stack Web Development Program, so new enrollments are paused.",
+    "url": "https://www.microverse.org/",
+    "pass": 1
+   },
+   {
+    "quote": "— \"My life has changed 100% since Microverse. My current salary is 5.6 times more per year than my previous salary.\"",
+    "url": "https://www.microverse.org/",
+    "pass": 1
+   },
+   {
+    "quote": "\"It's been an incredible journey! Leap helped me lose my fear to make mistakes when speak English with other people. The personalized feedback helped me progress much faster.\"",
+    "url": "https://www.microverse.org/",
+    "pass": 1
+   },
+   {
+    "quote": "Privacy Preference Center",
+    "url": "https://www.microverse.org/",
+    "pass": 1
+   },
+   {
+    "quote": "Manage Consent Preferences by Category",
+    "url": "https://www.microverse.org/",
+    "pass": 1
+   },
+   {
+    "quote": "Are those that allow to remember browsing preferences such as language, the region from which you access, the content of the service depending on the browser with which you access, etc..",
+    "url": "https://www.microverse.org/",
+    "pass": 1
+   },
+   {
+    "quote": "_hp2_ses_props*",
+    "url": "https://www.microverse.org/",
+    "pass": 1
+   },
+   {
+    "quote": "_hjAbsoluteSessionInProgress",
+    "url": "https://www.microverse.org/",
+    "pass": 1
+   },
+   {
+    "quote": "Are those that store information on user behavior obtained through the continuous observation of their browsing habits, allowing the development of a specific profile to display advertising based on the same.",
+    "url": "https://www.microverse.org/",
+    "pass": 1
+   },
+   {
+    "quote": "Google Ads Optimization",
+    "url": "https://www.microverse.org/",
+    "pass": 1
+   },
+   {
+    "quote": "are those necessary to access content provided by third parties (such as locations on Google Maps or view videos hosted on youtube) and to interact with social networks (such as sharing an article published on the web, through your profile on a social network, save a certain story published on the web in your Pinterest profile, ...) .",
+    "url": "https://www.microverse.org/",
+    "pass": 1
+   },
+   {
+    "quote": "In addition, if you are logged in to the relevant social network, your visit may also be linked to your user account. To prevent this from happening, you must log out of the social network before enabling the buttons.",
+    "url": "https://www.microverse.org/",
+    "pass": 1
+   },
+   {
+    "quote": "Confirm my preferences and close",
+    "url": "https://www.microverse.org/",
+    "pass": 1
+   },
+   {
+    "quote": "Closing the global gap between talent and opportunity by training and connecting 1 million people to",
+    "url": "https://www.microverse.org/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "This innovative approach to education provides you with accountability and a large, global network of support.",
+    "url": "https://www.microverse.org/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "That’s why, at Microverse, you learn through a unique approach — by collaborating with peers worldwide, just as you would with colleagues of a distributed team in a real company.",
+    "url": "https://www.microverse.org/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Ariel has lived and worked in 7 different countries including Spain, Argentina, USA, and Vietnam and has been coding since he was 12. He previously founded Tourist Eye, a travel app with 1MM+ users acquired by Lonely Planet. He is famous for his bad jokes and Argentinian asados.",
+    "url": "https://www.microverse.org/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Emilia is a web developer by profession and a teacher at heart. She has 7 years of professional coding experience, mostly in C# and Ruby, and has served as a mentor on various bootcamps and Rails Girls communities. She has also spearheaded the creation of a community-led bootcamp in Poland. In her free time, Emily enjoys doing yoga and reading books.",
+    "url": "https://www.microverse.org/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Eric is a software engineer with a love of teaching. He has more than a decade of professional experience working as a developer at various tech companies and trained to be a teacher in college. Career coaching at Microverse allows him to combine his passion for programming with his passion for pedagogy, to help new developers learn the skills needed to land jobs and be successful in tech.",
+    "url": "https://www.microverse.org/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Gaby is a native Salvadoran, Spanglish-speaking, dog (and sushi) lover. Her background is in managerial consulting for large tech companies, but her professional passion lies in helping companies with strong social missions solve complex problems.",
+    "url": "https://www.microverse.org/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Ivica is based in Serbia where he's lived his whole life. Besides spending time with family he enjoys running, walking in nature, and playing all kinds of sports. Writing code and building software is his passion and Ruby is his preferred language.",
+    "url": "https://www.microverse.org/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Kelvins background is in strategy & operations in innovation management, digital transformation and tech. His eclectic background includes him being an army bomb disposal sergeant & operations specialist, sushi chef, social entrepreneur & founder, and actor-advocate for LGBTQ causes. Kelvin likes to take on unexpected challenges, most recently surfing, French, and web3 community management.",
+    "url": "https://www.microverse.org/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Meesen is originally from Canada and has spent her career living and working around the world. She previously founded a travel management platform for remote workers, and is passionate about helping shape the future of work. When she's not working, find her outdoors, reading, or finding ways to live more sustainably.",
+    "url": "https://www.microverse.org/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Mercè is a Business Operations professional helping tech start-ups and scale-ups in strategy and operations. She loves agile environments, collaborating with global diverse teams, and working for impact companies. She has lived in 3 different countries, but calls Barcelona her home. She enjoys reading/watching sci-fi books & movies, and connecting with nature.",
+    "url": "https://www.microverse.org/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Paty is passionate about learning and views it as an essential human skill that enables people to grow and move into new territories. With a strong background in education and technology, she has designed and implemented learning experiences in different settings. She practices yoga, loves plants and enjoys cooking.",
+    "url": "https://www.microverse.org/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Vero is originally from Uruguay but recently relocated to beautiful Costa Rica. As a person of humble beginnings, she’s passionate about providing folks with access to opportunities to develop themselves and create the life they want to live. When she's not working, she enjoys spending time near the ocean, with human, and also four-legged, friends!",
+    "url": "https://www.microverse.org/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Arthur is a dreamer with a flair for programming since childhood. His aspirations are as diverse as his attention span, from imagining himself as a truck driver to pursuing a career in Law or Mathematics.",
+    "url": "https://www.microverse.org/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Want to hire our students?",
+    "url": "https://www.microverse.org/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "At Microverse, every day we witness the amazing transformations of our students, who work incredibly hard to improve their lives. See their stories of how they landed life-changing jobs in web development.",
+    "url": "https://www.microverse.org/student-stories-microverse",
+    "pass": 1
+   },
+   {
+    "quote": "Microverse alum, Kevin Mwangi from Kenya, shared his software developer journey with Microverse. Here's a brief video from it.",
+    "url": "https://www.microverse.org/student-stories-microverse",
+    "pass": 1
+   },
+   {
+    "quote": "Microverse alums are hired by companies of all sizes, globally",
+    "url": "https://www.microverse.org/student-stories-microverse",
+    "pass": 1
+   },
+   {
+    "quote": "Microverse alum Abhigyan Mahanta from India shared his thoughts on his journey to becoming a remote software developer at Catprint.",
+    "url": "https://www.microverse.org/student-stories-microverse",
+    "pass": 1
+   },
+   {
+    "quote": "Microverse alum Abhigyan Mahanta from India shared his thoughts on his journey to becoming a remote software developer at Catprint.",
+    "url": "https://www.microverse.org/student-stories/elizabeth-villalejos",
+    "pass": 1
+   },
+   {
+    "quote": "Microverse alum, Kevin Mwangi from Kenya, shared his software developer journey with Microverse. Here's a brief video from it.",
+    "url": "https://www.microverse.org/student-stories/elizabeth-villalejos",
+    "pass": 1
+   },
+   {
+    "quote": "10 Coding Challenges, Tips, and Websites to Practice – 2023",
+    "url": "https://www.microverse.org/student-stories/elizabeth-villalejos",
+    "pass": 1
+   },
+   {
+    "quote": "Privacy Preference Center",
+    "url": "https://www.microverse.org/student-stories/elizabeth-villalejos",
+    "pass": 1
+   },
+   {
+    "quote": "Manage Consent Preferences by Category",
+    "url": "https://www.microverse.org/student-stories/elizabeth-villalejos",
+    "pass": 1
+   },
+   {
+    "quote": "Are those that allow to remember browsing preferences such as language, the region from which you access, the content of the service depending on the browser with which you access, etc..",
+    "url": "https://www.microverse.org/student-stories/elizabeth-villalejos",
+    "pass": 1
+   },
+   {
+    "quote": "_hp2_ses_props*",
+    "url": "https://www.microverse.org/student-stories/elizabeth-villalejos",
+    "pass": 1
+   },
+   {
+    "quote": "_hjAbsoluteSessionInProgress",
+    "url": "https://www.microverse.org/student-stories/elizabeth-villalejos",
+    "pass": 1
+   },
+   {
+    "quote": "Are those that store information on user behavior obtained through the continuous observation of their browsing habits, allowing the development of a specific profile to display advertising based on the same.",
+    "url": "https://www.microverse.org/student-stories/elizabeth-villalejos",
+    "pass": 1
+   },
+   {
+    "quote": "Google Ads Optimization",
+    "url": "https://www.microverse.org/student-stories/elizabeth-villalejos",
+    "pass": 1
+   },
+   {
+    "quote": "are those necessary to access content provided by third parties (such as locations on Google Maps or view videos hosted on youtube) and to interact with social networks (such as sharing an article published on the web, through your profile on a social network, save a certain story published on the web in your Pinterest profile, ...) .",
+    "url": "https://www.microverse.org/student-stories/elizabeth-villalejos",
+    "pass": 1
+   },
+   {
+    "quote": "In addition, if you are logged in to the relevant social network, your visit may also be linked to your user account. To prevent this from happening, you must log out of the social network before enabling the buttons.",
+    "url": "https://www.microverse.org/student-stories/elizabeth-villalejos",
+    "pass": 1
+   },
+   {
+    "quote": "Confirm my preferences and close",
+    "url": "https://www.microverse.org/student-stories/elizabeth-villalejos",
+    "pass": 1
+   },
+   {
+    "quote": "01 / Content Marketing",
+    "url": "https://microverse.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "02 / Content Produce",
+    "url": "https://microverse.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "microverse株式会社のプレスリリース｜PR TIMES",
+    "url": "https://prtimes.jp/main/html/searchrlp/company_id/94622",
+    "pass": 3
+   },
+   {
+    "quote": "Head of Product Development",
+    "url": "https://prospeo.io/c/microverse-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/microverse-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Microverse has approximately",
+    "url": "https://prospeo.io/c/microverse-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/microverse-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/microverse-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/microverse-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Microverse 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/279545-95",
+    "pass": 3
+   },
+   {
+    "quote": "Educational and Training Services (B2C)",
+    "url": "https://pitchbook.com/profiles/company/279545-95",
+    "pass": 3
+   },
+   {
+    "quote": "Developr of an online software training platform designed to provide full-stack web development programs on income share agreements.",
+    "url": "https://pitchbook.com/profiles/company/279545-95",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Paty is passionate about learning and views it as an essential human skill that enables people to grow and move into new territories. With a strong background in education and technology, she has designed and implemented learning experiences in different settings. She practices yoga, loves plants and enjoys cooking.",
+    "url": "https://www.microverse.org/about-us",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Ariel has lived and worked in 7 different countries including Spain, Argentina, USA, and Vietnam and has been coding since he was 12. He previously founded Tourist Eye, a travel app with 1MM+ users acquired by Lonely Planet. He is famous for his bad jokes and Argentinian asados.",
+    "url": "https://www.microverse.org/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Microverse Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/microverse-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Microverse",
+    "url": "https://prospeo.io/c/microverse-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/microverse-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/microverse-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/microverse-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Microverse?",
+    "url": "https://prospeo.io/c/microverse-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Microverse generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/microverse-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/microverse-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/microverse-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Microverse have?",
+    "url": "https://prospeo.io/c/microverse-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/microverse-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/279545-95",
+    "pass": 3
+   },
+   {
+    "quote": "Microverse has 816 total employees.",
+    "url": "https://pitchbook.com/profiles/company/279545-95",
+    "pass": 3
+   },
+   {
+    "quote": "What is Microverse’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/279545-95",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Microverse is",
+    "url": "https://pitchbook.com/profiles/company/279545-95",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "microverse株式会社 | 才能とクリエイティブに溢れた世界に",
+    "url": "https://microverse.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "microverseは、コンテンツマーケティング、コンテンツプロデュース、AI活用支援の3つの事業で、見た人の心に残るコンテンツと体験づくり、日本を100倍楽しくするための働く環境づくりをしています",
+    "url": "https://microverse.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Billboard 200で26位、日本AWAチャート1位を記録したこの曲のヒット構造を、「繰り返し→見せ場までの10秒設計」「私が推しでしょ？の歌詞コンセプト」「クール×縦ノリで最大化された参加幅」の3つの引力に分解します",
+    "url": "https://microverse.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "microverse株式会社 | 才能とクリエイティブに溢れた世界に",
+    "url": "https://microverse.co.jp/articles",
+    "pass": 3
+   },
+   {
+    "quote": "Billboard 200で26位、日本AWAチャート1位を記録したこの曲のヒット構造を、「繰り返し→見せ場までの10秒設計」「私が推しでしょ？の歌詞コンセプト」「クール×縦ノリで最大化された参加幅」の3つの引力に分解します",
+    "url": "https://microverse.co.jp/articles",
+    "pass": 3
+   },
+   {
+    "quote": "microverse株式会社のプレスリリース｜PR TIMES",
+    "url": "https://prtimes.jp/main/html/searchrlp/company_id/94622",
+    "pass": 3
+   },
+   {
+    "quote": "microverseのコンテンツプロデューススタジオSTUDIO DELTAと1,900万DL超の人気マンガアプリ「GANMA!(ガンマ)」を運営するコミスマ株式会社がキャラクターソングを企画/制作！",
+    "url": "https://prtimes.jp/main/html/searchrlp/company_id/94622",
+    "pass": 3
+   },
+   {
+    "quote": "microverse、SBI デジタルハブ株式会社と業務提携開始",
+    "url": "https://prtimes.jp/main/html/searchrlp/company_id/94622",
+    "pass": 3
+   },
+   {
+    "quote": "microverse株式会社 会社に初めて届いたお中元の嬉しさからNFTをプレゼントするサービス「Crypto Gift（クリプト ギフト）」をリリース",
+    "url": "https://prtimes.jp/main/html/searchrlp/company_id/94622",
+    "pass": 3
+   },
+   {
+    "quote": "web3.0の世界で多様な経済圏創出を目指すmicroverse株式会社が、シードラウンドで5000万円の資金調達を実施",
+    "url": "https://prtimes.jp/main/html/searchrlp/company_id/94622",
+    "pass": 3
+   },
+   {
+    "quote": "| microverse株式会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000094622.html",
+    "pass": 3
+   },
+   {
+    "quote": "web3プロジェクト発のIP/コンテンツ創出を行うmicroverse株式会社（本社：東京都渋谷区、代表取締役：渋谷啓太、以下「microverse」）は、プレシリーズAラウンドで Genesia Ventures、B Dash Ventures、Cygames Capital、ギフティ、F Venturesから2億円の資金調達を実施したことをお知らせいたします",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000094622.html",
+    "pass": 3
+   },
+   {
+    "quote": "B Dash Ventures株式会社 ディレクター 西田隆一氏",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000094622.html",
+    "pass": 3
+   },
+   {
+    "quote": "microverseは、このようなweb3の力を使って、誰かの明日の支えになれる、そして日本が世界に誇れるエンタメ体験を創出していきます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000094622.html",
+    "pass": 3
+   },
+   {
+    "quote": "所在地：東京都渋谷区宇田川町36-2 ノア渋谷805",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000094622.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都港区高輪2丁目21番2号",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000094622.html",
+    "pass": 3
+   },
+   {
+    "quote": "microverse株式会社 | 才能とクリエイティブに溢れた世界に",
+    "url": "https://microverse.co.jp/works",
+    "pass": 3
+   },
+   {
+    "quote": "日本発で世界を目指すmicroverseの3つのvalue",
+    "url": "https://note.com/keita_microverse",
+    "pass": 3
+   },
+   {
+    "quote": "私がmicroverse株式会社に入社した理由",
+    "url": "https://note.com/riki_nagai",
+    "pass": 3
+   },
+   {
+    "quote": "私がmicroverse株式会社に入社した理由｜Riki Nagai",
+    "url": "https://note.com/riki_nagai/n/n219ece9e0410",
+    "pass": 3
+   },
+   {
+    "quote": "私がmicroverse株式会社に入社した理由",
+    "url": "https://note.com/riki_nagai/n/n219ece9e0410",
+    "pass": 3
+   },
+   {
+    "quote": "2022年3月から私はmicroverse株式会社に入社することになりました",
+    "url": "https://note.com/riki_nagai/n/n219ece9e0410",
+    "pass": 3
+   },
+   {
+    "quote": "なぜこのタイミングで自分自身の会社を休業し、microverse株式会社に入社しようと思ったのかを書きたいと思います",
+    "url": "https://note.com/riki_nagai/n/n219ece9e0410",
+    "pass": 3
+   },
+   {
+    "quote": "なぜmicroverse株式会社に入社したのか",
+    "url": "https://note.com/riki_nagai/n/n219ece9e0410",
+    "pass": 3
+   },
+   {
+    "quote": "そもそもmicroverse株式会社とは、web3.0の世界で多様な経済圏創出の実現を目指し、暗号資産/ウォレット不要でデジタルコレクションを購入できるサービスの提供を通し、NFTコンテンツのプロデュース/販売支援事業を行なっている会社です",
+    "url": "https://note.com/riki_nagai/n/n219ece9e0410",
+    "pass": 3
+   },
+   {
+    "quote": "ではなぜ、そのmicroverse株式会社に私が入社したいと感じたのか？",
+    "url": "https://note.com/riki_nagai/n/n219ece9e0410",
+    "pass": 3
+   },
+   {
+    "quote": "それは現microverse株式会社CEO渋谷啓太さんのツイートです",
+    "url": "https://note.com/riki_nagai/n/n219ece9e0410",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "microverse株式会社 | 才能とクリエイティブに溢れた世界に — microverseは、コンテンツマーケティング、コンテンツプロデュース、AI活用支援の3つの事業で、見た人の心に残るコンテンツと体験づくり、日本を100倍楽しくするための働く環境づくりをしています。",
+    "url": "https://microverse.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "microverse株式会社 | 才能とクリエイティブに溢れた世界に — microverseは、コンテンツマーケティング・コンテンツプロデュース・AI活用支援の3事業を展開する会社です。ショート動画の企画・制作や実体験UGCマーケティング、コンテンツのプロデュース、宿泊・体験施設向けのAI集客・運営支援を通じて、日本を100倍楽しくします。",
+    "url": "https://microverse.co.jp/articles",
+    "pass": 3
+   },
+   {
+    "quote": "microverse株式会社のプレスリリース｜PR TIMES — PR TIMESで配信されたmicroverse株式会社のプレスリリース一覧です（最新配信日：2025年7月3日 12時00分）。microverse株式会社 ...",
+    "url": "https://prtimes.jp/main/html/searchrlp/company_id/94622",
+    "pass": 3
+   },
+   {
+    "quote": "web3プロジェクト発のIP/コンテンツ創出を行うmicroverse（マイクロバ... — Feb 22, 2023 · microverse株式会社のプレスリリース（2023年2月22日 10時00分）web3プロジェクト発のIP/コンテンツ創出を行うmicroverse（マイクロバース）、プレ ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000094622.html",
+    "pass": 3
+   },
+   {
+    "quote": "microverse株式会社 - メディアデータ — 企業 microverse株式会社 microverse株式会社は、2022年2月に設立され、東京都渋谷区に本社を置く会社である。コンテンツマーケティング、REAREEL、コンテンツプロデュースの3事業を展開し、ショート動画の企画・制作や実体験UGCマーケティング、自社IPのプロデュースを手がけている。 公式サイト ...",
+    "url": "https://media-innovation.jp/database/company/microverse-6d6963726f766572",
+    "pass": 3
+   },
+   {
+    "quote": "Microverse — Where talent connects with global opportunities — Where talent connects with global opportunities Microverse helps people worldwide learn, connect, and grow, to unlock life-changing opportunities.",
+    "url": "https://www.microverse.org/",
+    "pass": 3
+   },
+   {
+    "quote": "Microverse Inc/Japan - Company Profile and News - Bloomberg ... — Company profile page for Microverse Inc/Japan including stock price, company news, executives, board members, and contact information",
+    "url": "https://www.bloomberg.com/profile/company/2304156D:JP",
+    "pass": 3
+   },
+   {
+    "quote": "microverse株式会社 | 才能とクリエイティブに溢れた世界に — microverseは、コンテンツマーケティング・REAREEL・コンテンツプロデュースの3事業を展開する会社です。ショート動画の企画・制作、実体験UGCマーケティング、自社IPのプロデュースを通じて、最善の機会と最高のチームで、日本と世界をもっと楽しくします。",
+    "url": "https://microverse.co.jp/works",
+    "pass": 3
+   },
+   {
+    "quote": "Microverse Jobs in Japan: Live Openings and Company Profile — Microverse is hiring in Japan: 8 live openings tracked daily from its own careers page. Apply directly on the company's site.",
+    "url": "https://airta.jp/company-directory/microverse",
+    "pass": 3
+   },
+   {
+    "quote": "Microverse – Revenue Estimate & Market Landscape – 2026 — Microverse Revenue & Valuation Microverse’s business performance suggests annual revenues of around $168.6M. The company’s workforce productivity is estimated at $200.2K in annual revenue per employee. Funding raised by Microverse over the years amounts to $33.2M.",
+    "url": "https://compworth.com/company/microverse",
+    "pass": 3
+   },
+   {
+    "quote": "Microverse - 2026 Company Profile, Team, Funding ... - TracxnMicroverse Revenue, Funding & Valuation - prospeo.ioMicroverse 2026 Company Profile: Valuation, Funding ...Microverse - Financials, Funding, Investors, AcquisitionsMicroverse: Funding, Team & Investors | Startup IntrosHow Microverse hit $39M revenue with a 432 person team in 2024. — Mar 18, 2026 · Microverse is a series A company based i",
+    "url": "https://tracxn.com/d/companies/microverse/__To83xy_ZkExLRdMNLTXYQWMNDi-P9CvRKwHAjSeTUlU",
+    "pass": 3
+   },
+   {
+    "quote": "Microverse Revenue, Funding & Valuation - prospeo.io — Microverse has revenue of $1,200,000, estimated valuation of $3,900,000. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/microverse-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Microverse 2026 Company Profile: Valuation, Funding ...Microverse - Financials, Funding, Investors, AcquisitionsMicroverse: Funding, Team & Investors | Startup IntrosHow Microverse hit $39M revenue with a 432 person team in 2024. — Microverse FAQs When was Microverse founded? Microverse was founded in 2017. Where is Microverse headquartered? Microverse is headquartered in Tracy, CA. What is the si",
+    "url": "https://pitchbook.com/profiles/company/279545-95",
+    "pass": 3
+   },
+   {
+    "quote": "Microverse - Financials, Funding, Investors, Acquisitions — Funding Data Dive into Microverse’s funding data, including significant investment rounds, funding trends, total capital raised, and key backers, to understand Microverse’s investor confidence and growth trajectory.",
+    "url": "https://www.zoominfo.com/financial/microverse-enterprises-inc/414764619",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/microverse-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/279545-95",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "microverseが目指す世界｜Keita Shibuya Feb 4, 2022 · \"microverse\"が果たすこと microverse 僕らのMission（存在意義）は、 \"Create colored economies on web3.0\" です。 前のセクションで示したweb3.0の世界では、誰もがフェアに、誰かに左右されることなく経済圏の構築や選択ができるようになります。 ただ、現状はどう ...",
+    "url": "https://note.com/keita_microverse/n/nafeb1b78778b",
+    "pass": 3
+   },
+   {
+    "quote": "Keita Shibuya｜note microverseが目指す世界 2022年2月、社名をmicroverseに変更し、シードラウンドで5,000万円の資金調達も実施。 NFT/web3.0領域にAll inしていくことを改めて表明します。 このnoteでは、社名変更や資金調達に伴い、 ・そもそもweb3.0とは？",
+    "url": "https://note.com/keita_microverse/",
+    "pass": 3
+   },
+   {
+    "quote": "Riki Nagai｜note 私がmicroverse株式会社に入社した理由 2022年3月から私はmicroverse株式会社に入社することになりました。 私は大学卒業後すぐに自分自身の会社を立ち上げましたが なぜこのタイミングで自分自身の会社を休業し、microverse株式会社に入社しようと思ったのかを書きたいと思います。 なぜmicroverse ...",
+    "url": "https://note.com/riki_nagai/",
+    "pass": 3
+   },
+   {
+    "quote": "私がmicroverse株式会社に入社した理由｜Riki Nagai Mar 2, 2022 · 6 Riki Nagai 2022年3月2日 13:21 2022年3月から私はmicroverse株式会社に入社することになりました。 私は大学卒業後すぐに自分自身の会社を立ち上げましたが なぜこのタイミングで自分自身の会社を休業し、microverse株式会社に入社しようと思ったのかを書きたいと思います。",
+    "url": "https://note.com/riki_nagai/n/n219ece9e0410",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "microverseが目指す世界｜Keita Shibuya",
+    "url": "https://note.com/keita_microverse/n/nafeb1b78778b",
+    "pass": 3
+   },
+   {
+    "quote": "2022年2月、社名をmicroverseに変更し、シードラウンドで5,000万円の資金調達も実施。NFT/web3.0領域にAll inしていくことを改めて表明します。",
+    "url": "https://note.com/keita_microverse/n/nafeb1b78778b",
+    "pass": 3
+   },
+   {
+    "quote": "このnoteでは、社名変更や資金調達に伴い、",
+    "url": "https://note.com/keita_microverse/n/nafeb1b78778b",
+    "pass": 3
+   },
+   {
+    "quote": "・そもそもweb3.0とは？（僕らの解釈）",
+    "url": "https://note.com/keita_microverse/n/nafeb1b78778b",
+    "pass": 3
+   },
+   {
+    "quote": "・そのweb3.0領域でmicroverseはどこを目指すのか？",
+    "url": "https://note.com/keita_microverse/n/nafeb1b78778b",
+    "pass": 3
+   },
+   {
+    "quote": "まだまだ稚拙な僕の文章ですが、少しだけお時間いただいて読んでもらえると嬉しいです。",
+    "url": "https://note.com/keita_microverse/n/nafeb1b78778b",
+    "pass": 3
+   },
+   {
+    "quote": "2021年に入り、web3.0というワードが頻繁に使われるようになりました。",
+    "url": "https://note.com/keita_microverse/n/nafeb1b78778b",
+    "pass": 3
+   },
+   {
+    "quote": "ただ、バズワードによくあることですが、この言葉の定義は人によりまちまちかと思います。",
+    "url": "https://note.com/keita_microverse/n/nafeb1b78778b",
+    "pass": 3
+   },
+   {
+    "quote": "web3のテクノロジーや仕組みは、挑戦の裾野を広げる",
+    "url": "https://note.com/keita_microverse",
+    "pass": 3
+   },
+   {
+    "quote": "日本発で世界を目指すmicroverseの3つのvalue",
+    "url": "https://note.com/keita_microverse",
+    "pass": 3
+   },
+   {
+    "quote": "私がmicroverse株式会社に入社した理由",
+    "url": "https://note.com/riki_nagai",
+    "pass": 3
+   },
+   {
+    "quote": "私がmicroverse株式会社に入社した理由｜Riki Nagai",
+    "url": "https://note.com/riki_nagai/n/n219ece9e0410",
+    "pass": 3
+   },
+   {
+    "quote": "私がmicroverse株式会社に入社した理由",
+    "url": "https://note.com/riki_nagai/n/n219ece9e0410",
+    "pass": 3
+   },
+   {
+    "quote": "2022年3月から私はmicroverse株式会社に入社することになりました。",
+    "url": "https://note.com/riki_nagai/n/n219ece9e0410",
+    "pass": 3
+   },
+   {
+    "quote": "私は大学卒業後すぐに自分自身の会社を立ち上げましたが",
+    "url": "https://note.com/riki_nagai/n/n219ece9e0410",
+    "pass": 3
+   },
+   {
+    "quote": "なぜこのタイミングで自分自身の会社を休業し、microverse株式会社に入社しようと思ったのかを書きたいと思います。",
+    "url": "https://note.com/riki_nagai/n/n219ece9e0410",
+    "pass": 3
+   },
+   {
+    "quote": "なぜmicroverse株式会社に入社したのか。",
+    "url": "https://note.com/riki_nagai/n/n219ece9e0410",
+    "pass": 3
+   },
+   {
+    "quote": "そもそもmicroverse株式会社とは、web3.0の世界で多様な経済圏創出の実現を目指し、暗号資産/ウォレット不要でデジタルコレクションを購入できるサービスの提供を通し、NFTコンテンツのプロデュース/販売支援事業を行なっている会社です。",
+    "url": "https://note.com/riki_nagai/n/n219ece9e0410",
+    "pass": 3
+   },
+   {
+    "quote": "ではなぜ、そのmicroverse株式会社に私が入社したいと感じたのか？",
+    "url": "https://note.com/riki_nagai/n/n219ece9e0410",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Microverse Protocol (@Microverse_Web3) / Posts / X Microverse Protocol is building the AI Consensus Layer — where humans and AI Agents collaborate through shared rules, verifiable contributions, and decentralized governance.",
+    "url": "https://x.com/Microverse_Web3",
+    "pass": 3
+   },
+   {
+    "quote": "MicroverseCo. (@Microverse) / Posts / X Microverse Joined: Oct 13, 2012 2Posts 10Following 20Followers Microverse Updates MicroverseCo.Microverse MicroverseCo.Microverse",
+    "url": "https://x.com/microverse",
+    "pass": 3
+   },
+   {
+    "quote": "渋谷啓太/microverse (@keita__97) / X microverse Inc. CEO｜97年生まれ｜ショート動画CMやショートドラマなどをつくっています。エンタメの街をつくりたいです。",
+    "url": "https://x.com/keita__97",
+    "pass": 3
+   },
+   {
+    "quote": "\"#microverse\" - Results on X | Live Posts & Updates Results for \"#microverse\" on X (Twitter). Find the latest posts, discussions, and updates about #microverse. 19 results found.",
+    "url": "https://x.com/hashtag/microverse",
+    "pass": 3
+   },
+   {
+    "quote": "MicroverseCo. (@Microverse) / Posts / X Oct 13, 2012 · Microverse Joined: Oct 13, 2012 2Posts 10Following 20Followers Microverse Updates MicroverseCo.Microverse MicroverseCo.Microverse",
+    "url": "https://x.com/microverse",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Microverse Employees, Location, Alumni | LinkedIn Microverse | 18,835 followers on LinkedIn. Accelerate your global tech career. Learn collaboratively with peers around the world. | Where international web developers learn collaboratively with ...",
+    "url": "https://www.linkedin.com/school/microverseinc/",
+    "pass": 3
+   },
+   {
+    "quote": "Microverse - LinkedIn Microverse is a decentralised world-building platform that allows people to build, play and engage in a vast world with endless opportunities to create captivating experiences. In the Microverse ...",
+    "url": "https://www.linkedin.com/company/microverseglobal",
+    "pass": 3
+   },
+   {
+    "quote": "Microverse Automation | LinkedIn At Microverse, we believe we’re on a mission. A mission to indigenously develop cutting-edge technologies. A mission to challenge the traditional norms of the automation domain. A mission to revolutionise the industry. For over three decades, Microverse has been at the forefront of innovation in automation and digitisation. We design and manufacture both hardware a",
+    "url": "https://in.linkedin.com/company/microverse-automation",
+    "pass": 3
+   },
+   {
+    "quote": "Project Microverse - Student led project at The University of ... Microverse is a student-led initiative aimed at developing a miniaturized organ-on-a-chip system; a “membrane-on-a-chip” platform that bridges biology, engineering, and materials science. Inspired by NASA’s Avatar mission, which envisions interconnected robotic and biological systems that extend human presence beyond Earth, Microver",
+    "url": "https://uk.linkedin.com/in/project-microverse-a907103b3",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Microverse - FacebookMicroVerse - FacebookMicroverse - FacebookMicroVerse Visuals | Bozeman MT - FacebookMicroverse - An update: we have temporarily ... - FacebookMicroverse - FacebookMICROVERSE • Cyber Games Universe - Facebook Dec 14, 2023 · Microverse. 71,813 followers · 17 talking about this. Online education for international web developers. Learn collaboratively with peers around the world. ",
+    "url": "https://www.facebook.com/microverseinc/",
+    "pass": 3
+   },
+   {
+    "quote": "MicroVerse - Facebook MicroVerse. 1,349 likes · 783 talking about this. MICROVERSE Control the Small. Command the Giant. Meet KAIRO — the one behind the connection. Cinematic Automotive Universe ⚡ Enter the MICROVERSE",
+    "url": "https://www.facebook.com/MicroVerse.K/",
+    "pass": 3
+   },
+   {
+    "quote": "Microverse - Facebook Microverse. They live beneath our world. We just never noticed. A fictional universe of miniature futuristic",
+    "url": "https://www.facebook.com/microveersee/",
+    "pass": 3
+   },
+   {
+    "quote": "MicroVerse Visuals | Bozeman MT - Facebook Oct 19, 2026 · MicroVerse Visuals, Bozeman. 6,745 followers · 3,579 talking about this. Fusing handcrafted miniatures with seamless VFX.",
+    "url": "https://www.facebook.com/p/MicroVerse-Visuals-61593712847694/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.microverse.org/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.microverse.org/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.microverse.org/student-stories-microverse",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.microverse.org/student-stories/elizabeth-villalejos",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://microverse.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://microverse.co.jp/articles",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/searchrlp/company_id/94622",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000094622.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.koaglobal.com/corporate/offices/distributors1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://microverse.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bloomberg.com/profile/company/2304156D:JP",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://microverse.co.jp/works",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.appspace.com/resellers-alliances/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/microverse",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/microverse/__To83xy_ZkExLRdMNLTXYQWMNDi-P9CvRKwHAjSeTUlU",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://prospeo.io/c/microverse-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/279545-95",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/keita_microverse/n/nafeb1b78778b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/keita_microverse",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/riki_nagai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/riki_nagai/n/n219ece9e0410",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Microverse_Web3",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/microverse",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/keita__97",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/microverse",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/school/microverseinc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/microverseglobal",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/microverse-automation",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/project-microverse-a907103b3",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/microverseinc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MicroVerse.K/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/microveersee/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/MicroVerse-Visuals-61593712847694/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/microverse",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Microverse 日本 導入",
+   "results": [
+    "https://microverse.co.jp/",
+    "https://microverse.co.jp/articles",
+    "https://prtimes.jp/main/html/searchrlp/company_id/94622",
+    "https://prtimes.jp/main/html/rd/p/000000006.000094622.html",
+    "https://media-innovation.jp/database/company/microverse-6d6963726f766572",
+    "https://storium.jp/organization/1f8b001426cb788fe8f23d67be406192",
+    "https://dempa-digital.com/article/638717"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Microverse 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://ja.nozominetworks.com/company",
+    "https://jpmktg.winbond.com/",
+    "https://www.cosmobio.co.jp/agency/brevitycode.asp"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Microverse Japan",
+   "results": [
+    "https://www.microverse.org/",
+    "https://microverse.co.jp/",
+    "https://www.bloomberg.com/profile/company/2304156D:JP",
+    "https://microverse.co.jp/works",
+    "https://airta.jp/company-directory/microverse",
+    "https://www.cbinsights.com/company/microverse-1",
+    "https://prtimes.jp/main/html/searchrlp/company_id/94622"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Microverse manufacturing customer case study",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Microverse white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.seoreseller.com/",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Microverse founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/microverse",
+    "https://tracxn.com/d/companies/microverse/__To83xy_ZkExLRdMNLTXYQWMNDi-P9CvRKwHAjSeTUlU",
+    "https://prospeo.io/c/microverse-revenue",
+    "https://pitchbook.com/profiles/company/279545-95",
+    "https://www.zoominfo.com/financial/microverse-enterprises-inc/414764619",
+    "https://startupintros.com/orgs/microverse",
+    "https://getlatka.com/companies/microverse.org/customers"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Microverse",
+   "results": [
+    "https://note.com/keita_microverse/n/nafeb1b78778b",
+    "https://note.com/keita_microverse/",
+    "https://note.com/riki_nagai/",
+    "https://note.com/riki_nagai/n/n219ece9e0410",
+    "https://note.com/csodafactory/n/n34a54dae3b1d",
+    "https://note.com/csodafactory/n/n3cfc432bf906",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Microverse",
+   "results": [
+    "https://x.com/Microverse_Web3",
+    "https://x.com/microverse",
+    "https://x.com/keita__97",
+    "https://x.com/hashtag/microverse",
+    "https://x.com/microverse_es",
+    "https://x.com/MicroverseCom",
+    "https://x.com/ThomasKDunne/status/2107905803009323217"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Microverse",
+   "results": [
+    "https://www.linkedin.com/school/microverseinc/",
+    "https://www.linkedin.com/company/microverseglobal",
+    "https://in.linkedin.com/company/microverse-automation",
+    "https://uk.linkedin.com/in/project-microverse-a907103b3",
+    "https://in.linkedin.com/in/girish-mehendale-microverse",
+    "https://es.linkedin.com/in/arielcamus",
+    "https://tr.linkedin.com/in/ahmetbozaci"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Microverse",
+   "results": [
+    "https://www.facebook.com/microverseinc/",
+    "https://www.facebook.com/MicroVerse.K/",
+    "https://www.facebook.com/microveersee/",
+    "https://www.facebook.com/p/MicroVerse-Visuals-61593712847694/",
+    "https://www.facebook.com/microverse/",
+    "https://www.facebook.com/groups/microverse.fun/",
+    "https://www.facebook.com/microverseinc/posts/-an-update-we-have-temporarily-paused-new-enrollments-to-our-full-stack-web-deve/610225637877147/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Microverse note 社長",
+   "results": [
+    "https://microverse.co.jp/",
+    "https://compalyze.co.jp/company/1010001213895",
+    "https://keyplayers.jp/archives/36655/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://plus-web3.com/media/interview-microverse/",
+    "https://note.com/riki_nagai/n/n219ece9e0410"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Microverse X 投稿",
+   "results": [
+    "https://x.com/microverse",
+    "https://www.instagram.com/microverse_x/",
+    "https://microverse.co.jp/",
+    "https://www.youtube.com/@microverse-x",
+    "https://www.microverse.org/",
+    "https://x.com/MicroverseCom",
+    "https://www.youtube.com/@microversex1"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部36頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部36頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部36頁・検索12回）"
+ }
+}

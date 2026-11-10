@@ -1,0 +1,1942 @@
+{
+ "name": "Merge",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜リマイン1",
+ "researched_at": "2026-11-10T00:04:11.502229+00:00",
+ "official_url": "https://www.merge.dev/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$74.5M",
+    "url": "https://getlatka.com/companies/merge",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2020",
+    "url": "https://startupintros.com/orgs/merge",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "353 Sacramento St Floor 21 San Francisco, CA 94111 United States",
+    "url": "https://startupintros.com/orgs/merge",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "“With Merge Agent Handler, we can bring a broader set of data connectors to our users faster and constantly expand what our customers can do with Perplexity Enterprise Pro.”",
+    "url": "https://www.merge.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Enterprise Product at Perplexity",
+    "url": "https://www.merge.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "“Before launching our HRIS integrations, a few team members at Merge came on-site to train our customer-facing teams on marketing, selling and supporting the integrations. This took additional work off of my team’s plate and has helped us take the integrations to market more efficiently.”",
+    "url": "https://www.merge.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Product Manager",
+    "url": "https://www.merge.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "“Working with Merge’s Unified API and beautiful React component took less than a sprint to integrate, test, and release.”",
+    "url": "https://www.merge.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "“With the help of Merge Agent Handler, we’re able to deliver the most connected voice AI agents in the market. As a result, demand from enterprise organizations across industries has surged.”",
+    "url": "https://www.merge.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Give your product the AI features and integrations competitors can’t match",
+    "url": "https://www.merge.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Access every major model through one API, with automatic failover when providers go down.",
+    "url": "https://www.merge.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Choose prebuilt routing rules, build your own, or let customers set theirs, without writing the logic yourself.",
+    "url": "https://www.merge.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect your product to customer data across hundreds of systems.",
+    "url": "https://www.merge.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Distribute approved MCPs and skills to every team",
+    "url": "https://www.merge.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Link Okta, Entra, or any identity provider to Merge, so permissions update automatically as people join, move, or leave.",
+    "url": "https://www.merge.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Block risky models outright, or restrict each team to an approved list.",
+    "url": "https://www.merge.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Set a budget per team or project, and cut off access automatically before anyone blows past it.",
+    "url": "https://www.merge.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Designed from the ground up to safeguard your customer data, Merge adheres to the industry’s highest standards of security and privacy and is certified in SOC 2 Type II, ISO 27001, HIPAA, and the GDPR",
+    "url": "https://www.merge.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "hours saved weekly per customer by automating user provisioning",
+    "url": "https://www.merge.dev/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "models running in production behind a single endpoint",
+    "url": "https://www.merge.dev/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How Disclo onboards customers to enterprise-ready HRIS and ATS integrations in minutes via Merge",
+    "url": "https://www.merge.dev/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Candidate journey (for recruiters)",
+    "url": "https://www.merge.dev/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Candidate journey analysis",
+    "url": "https://www.merge.dev/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Auto-provision and de-provision",
+    "url": "https://www.merge.dev/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Thanks to the exceptional support by the Merge team, BILL launched 40+ HRIS integrations, allowing our engineering team to focus more on our core products. Merge also contributed amazing ideas on how to effectively promote the launch.",
+    "url": "https://www.merge.dev/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Product Marketing Manager",
+    "url": "https://www.merge.dev/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Product Officer",
+    "url": "https://www.merge.dev/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Director of Product Management",
+    "url": "https://www.merge.dev/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Product Manager",
+    "url": "https://www.merge.dev/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "It takes my team a matter of an hour or less to identify and address integration issues using the Merge Dashboard. Previously, it may take them up to 5 hours.",
+    "url": "https://www.merge.dev/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Merge’s integrations offer more comprehensive syncs than our other integrations, and this lets our customers unlock additional value from our platform.",
+    "url": "https://www.merge.dev/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Building each integration internally would take us 2 to 3 sprints. We built to Merge’s Unified API in the same amount of time and we can now access dozens of HRIS integrations. As a result, Merge has allowed our engineers to save hundreds of hours.",
+    "url": "https://www.merge.dev/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Merge Partner Program",
+    "url": "https://www.merge.dev/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We believe partnerships are how real platform ecosystems are built. Whether you’re expanding your product’s integration capabilities, delivering complex enterprise deployments, or innovating on top of our APIs, our partner network helps create more value for our mutual customers.",
+    "url": "https://www.merge.dev/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We partner across four primary groups. Each has a unique role in helping companies connect to software faster and more securely.",
+    "url": "https://www.merge.dev/partners",
+    "pass": 1
+   },
+   {
+    "quote": "SaaS companies that want their APIs, data, or MCP actions to be easily consumed inside other products. This includes platforms exposing endpoints, agent workflows, or custom actions.",
+    "url": "https://www.merge.dev/partners",
+    "pass": 1
+   },
+   {
+    "quote": "A single integration with Merge makes your product accessible everywhere by letting your data, APIs, and agent actions plug directly into hundreds of platforms and agent frameworks with no extra engineering.",
+    "url": "https://www.merge.dev/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Merge provides enablement materials, deal support, and revenue-share models to help partners scale.",
+    "url": "https://www.merge.dev/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Partnership in practice",
+    "url": "https://www.merge.dev/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We treat every partner as a product collaborator",
+    "url": "https://www.merge.dev/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Co-marketing and launch support",
+    "url": "https://www.merge.dev/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Let’s make integrations effortless together. Join the Merge Partner Program and help shape the infrastructure layer that powers how SaaS connects.",
+    "url": "https://www.merge.dev/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Distribute approved tools and skills to every team",
+    "url": "https://www.merge.dev/workforce",
+    "pass": 1
+   },
+   {
+    "quote": "Hundreds of pre-built connectors in Merge give AI read and write access to the systems your business actually runs on.",
+    "url": "https://www.merge.dev/workforce",
+    "pass": 1
+   },
+   {
+    "quote": "Make repetitive tasks run on fast, low-cost models by default, and reserve more powerful models for the company's hardest problems.",
+    "url": "https://www.merge.dev/workforce",
+    "pass": 1
+   },
+   {
+    "quote": "Block shadow AI and prevent data misuse",
+    "url": "https://www.merge.dev/workforce",
+    "pass": 1
+   },
+   {
+    "quote": "A lightweight client ships through your MDM and applies policy on the device to block unapproved models and MCP servers.",
+    "url": "https://www.merge.dev/workforce",
+    "pass": 1
+   },
+   {
+    "quote": "Merge maintains the connectors and routes to every major model provider, so when a third-party API shifts or a better model ships, nothing on your side breaks.",
+    "url": "https://www.merge.dev/workforce",
+    "pass": 1
+   },
+   {
+    "quote": "What is Merge for Workforce (MFW)?",
+    "url": "https://www.merge.dev/workforce",
+    "pass": 1
+   },
+   {
+    "quote": "How does Merge for Workforce differ from Agent Handler?",
+    "url": "https://www.merge.dev/workforce",
+    "pass": 1
+   },
+   {
+    "quote": "What teams typically use Merge for Workforce?",
+    "url": "https://www.merge.dev/workforce",
+    "pass": 1
+   },
+   {
+    "quote": "How does Merge for Workforce integrate with our identity provider?",
+    "url": "https://www.merge.dev/workforce",
+    "pass": 1
+   },
+   {
+    "quote": "Which AI tools does Merge for Workforce support?",
+    "url": "https://www.merge.dev/workforce",
+    "pass": 1
+   },
+   {
+    "quote": "How does Merge for Workforce protect sensitive data?",
+    "url": "https://www.merge.dev/workforce",
+    "pass": 1
+   },
+   {
+    "quote": "“With Merge Agent Handler, we can bring a broader set of data connectors to our users faster and constantly expand what our customers can do with Perplexity Enterprise Pro.”",
+    "url": "https://www.merge.dev/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Enterprise Product at Perplexity",
+    "url": "https://www.merge.dev/careers",
+    "pass": 1
+   },
+   {
+    "quote": "“Before launching our HRIS integrations, a few team members at Merge came on-site to train our customer-facing teams on marketing, selling and supporting the integrations. This took additional work off of my team’s plate and has helped us take the integrations to market more efficiently.”",
+    "url": "https://www.merge.dev/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Product Manager",
+    "url": "https://www.merge.dev/careers",
+    "pass": 1
+   },
+   {
+    "quote": "“Working with Merge’s Unified API and beautiful React component took less than a sprint to integrate, test, and release.”",
+    "url": "https://www.merge.dev/careers",
+    "pass": 1
+   },
+   {
+    "quote": "“With the help of Merge Agent Handler, we’re able to deliver the most connected voice AI agents in the market. As a result, demand from enterprise organizations across industries has surged.”",
+    "url": "https://www.merge.dev/careers",
+    "pass": 1
+   },
+   {
+    "quote": "For all LLM providers",
+    "url": "https://www.merge.dev/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We work hard to make things simple and prioritize rapid responses to short term issues and thorough solutions to complex problems.",
+    "url": "https://www.merge.dev/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We laugh at each other’s jokes and celebrate each other's wins. As API enthusiasts, our energy comes from the opportunity to solve problems together.",
+    "url": "https://www.merge.dev/careers",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by the companies building what's next",
+    "url": "https://www.merge.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Read the full case study",
+    "url": "https://www.merge.dev/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the companies building what's next",
+    "url": "https://www.merge.dev/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study | Mergen IT",
+    "url": "https://mergenit.com/case-study/revolutionizing-manufacturing-operations-mergen-streamlined-efficiency-and-cutting-costs-of-a-manufacturing-industry-client-with-its-servicenow-cloud-computing-services",
+    "pass": 3
+   },
+   {
+    "quote": "Mergen Streamlined Efficiency and Cutting Costs of a Manufacturing Industry Client with Its ServiceNow & Cloud Computing Services",
+    "url": "https://mergenit.com/case-study/revolutionizing-manufacturing-operations-mergen-streamlined-efficiency-and-cutting-costs-of-a-manufacturing-industry-client-with-its-servicenow-cloud-computing-services",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing industry",
+    "url": "https://mergenit.com/case-study/revolutionizing-manufacturing-operations-mergen-streamlined-efficiency-and-cutting-costs-of-a-manufacturing-industry-client-with-its-servicenow-cloud-computing-services",
+    "pass": 3
+   },
+   {
+    "quote": "By leveraging Mergen IT’s expertise in both ServiceNow’s cloud computing platform and Manufacturing industry best practices combined with a unique customized approach tailored specifically towards this organization’s requirements, the manufacturing industry client was able to dramatically improve operational efficiency across its organization while achieving significant cost savings",
+    "url": "https://mergenit.com/case-study/revolutionizing-manufacturing-operations-mergen-streamlined-efficiency-and-cutting-costs-of-a-manufacturing-industry-client-with-its-servicenow-cloud-computing-services",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Merge",
+    "url": "https://www.casestudies.com/customer/merge",
+    "pass": 3
+   },
+   {
+    "quote": "Risks that deserve particular attention include massive investments in semiconductor factories, deteriorating profitability of generative AI, delays in robot mass production, stock dilution due to the merger, and conflicts of interest among shareholders.",
+    "url": "https://note.com/note0701525/n/n149e44a8f7b7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A case where they do not fully merge but proceed with the joint development of semiconductor factories and AI technology is also conceivable.",
+    "url": "https://note.com/note0701525/n/n149e44a8f7b7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the long term, it will be necessary to confirm actual sales of robots and AI models, Starlink's operating profit, semiconductor manufacturing yields, and free cash flow after capital expenditures.",
+    "url": "https://note.com/note0701525/n/n149e44a8f7b7?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Let employees move fast with AI. Keep IT in control.",
+    "url": "https://www.merge.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect employees to any third-party system and a shared skills library, so no one rebuilds existing work.",
+    "url": "https://www.merge.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "“Our employees were asking for AI that could actually work inside their existing workflows. Merge became the backbone of our internal agent initiative, letting us safely connect Slack, Google Drive, Jira, Salesforce, and more at scale.”",
+    "url": "https://www.merge.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "How Basis uses Merge as a foundational part of their AI infrastructure",
+    "url": "https://www.merge.dev/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How Cledara used Merge’s Unified API to grow new business ARR by 3x quarter over quarter",
+    "url": "https://www.merge.dev/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How Dock closed $500K in ARR in Months by using Merge's ticketing integrations",
+    "url": "https://www.merge.dev/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Merge provides enablement materials, deal support, and revenue-share models to help partners scale.",
+    "url": "https://www.merge.dev/partners",
+    "pass": 1
+   },
+   {
+    "quote": "“As we grow, we continue to layer on more employees who add value and inspire positive change. I genuinely worry that I won’t find another company that will come close to matching the drive and demeanor of the people here.”",
+    "url": "https://www.merge.dev/careers",
+    "pass": 1
+   },
+   {
+    "quote": "“When I interviewed with Merge, I was not only inspired by the drive and tenacity of each person I spoke with, but also the way they instantly made me feel like part of the team.”",
+    "url": "https://www.merge.dev/careers",
+    "pass": 1
+   },
+   {
+    "quote": "They can then add everyone or filter for specific attributes (e.g., only employees in marketing) and check off the specific employees they’d like to add.",
+    "url": "https://www.merge.dev/case-studies/bill",
+    "pass": 1
+   },
+   {
+    "quote": "Now that a customer can easily add, edit, or remove employees, they’re able to save time, avoid human errors (like allowing former employees to access corporate cards), and onboard users onto the platform faster.",
+    "url": "https://www.merge.dev/case-studies/bill",
+    "pass": 1
+   },
+   {
+    "quote": "“Finance teams were spending too much time manually onboarding new employees, issuing cards and benefits one by one, and checking individual charges to ensure that all spend was in-policy. By connecting to customers’ HRIS solutions, we can bridge that gap between HR and finance, and build automated flows within Ramp that turn hours of manual, painstaking work into mere minutes.”",
+    "url": "https://www.merge.dev/case-studies/ramp",
+    "pass": 1
+   },
+   {
+    "quote": "Ramp’s customers are incredibly diverse; they come in different sizes, span different industries, and have employees based all over the world.",
+    "url": "https://www.merge.dev/case-studies/ramp",
+    "pass": 1
+   },
+   {
+    "quote": "The diversity of their customer base led to a wide range of HRIS integration requests. For example, customers with employees in Europe were more likely to request integrations with European-based HRIS solutions, like Lano and Personio, while customers with employees in the U.S. were more likely to request integrations with solutions based in the states, like HiBob and TriNet.",
+    "url": "https://www.merge.dev/case-studies/ramp",
+    "pass": 1
+   },
+   {
+    "quote": "Through the integrations, customers can sync a wide range of fields with Ramp, including employees’ full names, job titles, departments, managers, and locations.",
+    "url": "https://www.merge.dev/case-studies/ramp",
+    "pass": 1
+   },
+   {
+    "quote": "A Ramp admin can not only find the employees that have yet to be added to the platform but also decide whether to invite them—all within seconds",
+    "url": "https://www.merge.dev/case-studies/ramp",
+    "pass": 1
+   },
+   {
+    "quote": "“Having customers manually issue cards and update roles and privileges for each employee is incredibly laborious and not the best use of their time, especially when they have hundreds or thousands of employees. By automating most of this work on a customer’s behalf,",
+    "url": "https://www.merge.dev/case-studies/ramp",
+    "pass": 1
+   },
+   {
+    "quote": "Harrison Krat is the Director of Solutions Architecture, managing the Solutions Architect and Technical Support teams. Harrison’s teams are able to utilize the",
+    "url": "https://www.merge.dev/case-studies/how-drata-increases-customer-value-and-spends-80-less-time-managing-integrations",
+    "pass": 1
+   },
+   {
+    "quote": "“It’s really easy for us to show our customers exactly what we’re seeing and what data is coming through and why or why not it is matching in their system. Then it’s super easy to arrive at the particular remediation.”",
+    "url": "https://www.merge.dev/case-studies/how-drata-increases-customer-value-and-spends-80-less-time-managing-integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Today, Drata is able to offer over 30 integrations as part of their product across HRIS, directory, and ticketing. These integrations have helped unlock additional sales since Drata can now close prospects who requested certain integrations in just a few weeks.",
+    "url": "https://www.merge.dev/case-studies/how-drata-increases-customer-value-and-spends-80-less-time-managing-integrations",
+    "pass": 1
+   },
+   {
+    "quote": "Payscale needed to connect to their customers’ HRIS platforms to pull in employee data—like salaries, tenure, and location—that would enable users to review their employees’ compensation and confirm it is competitive with market benchmarks.",
+    "url": "https://www.merge.dev/case-studies/payscale",
+    "pass": 1
+   },
+   {
+    "quote": "Once all the employee data that can influence compensation is continuously resynced in Payscale, users get a consistently up-to-date view of their employees’ level of compensation relative to their market value.",
+    "url": "https://www.merge.dev/case-studies/payscale",
+    "pass": 1
+   },
+   {
+    "quote": "is the only platform that unifies carrier-grade communications infrastructure with low-latency voice AI, giving businesses full control to build scalable, real-time voice applications.",
+    "url": "https://www.merge.dev/case-studies/telnyx",
+    "pass": 1
+   },
+   {
+    "quote": "Employees can call the voice AI agent and ask for help with specific applications and equipment. The voice AI agent can then create new tickets",
+    "url": "https://www.merge.dev/case-studies/telnyx",
+    "pass": 1
+   },
+   {
+    "quote": "on the employees’ behalf.",
+    "url": "https://www.merge.dev/case-studies/telnyx",
+    "pass": 1
+   },
+   {
+    "quote": "Merge is the leading provider of agentic tools and customer-facing integrations for frontier LLMs, Fortune 500 organizations, and B2B SaaS companies.",
+    "url": "https://www.merge.dev/about",
+    "pass": 1
+   },
+   {
+    "quote": "Municipal mergers and dissolutions carried out in Japan",
+    "url": "https://en.wikipedia.org/wiki/Municipal_mergers_and_dissolutions_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "VP of Revenue Operations and Customer Success",
+    "url": "https://www.casestudies.com/customer/merge",
+    "pass": 3
+   },
+   {
+    "quote": "Cledara achieves 3x quarter-over-quarter new business ARR growth with Merge Unified API",
+    "url": "https://www.casestudies.com/company/merge",
+    "pass": 3
+   },
+   {
+    "quote": "Dock achieves 24x faster ticketing integrations and closes $500K in ARR with Merge",
+    "url": "https://www.casestudies.com/company/merge",
+    "pass": 3
+   },
+   {
+    "quote": "Juicebox boosts ARR and saves engineering costs with Merge ATS integrations",
+    "url": "https://www.casestudies.com/company/merge",
+    "pass": 3
+   },
+   {
+    "quote": "Parallel achieves 30% month-over-month new business ARR growth with Merge",
+    "url": "https://www.casestudies.com/company/merge",
+    "pass": 3
+   },
+   {
+    "quote": "How Thoropass unlocked additional ARR by offering integrations that help customers collaborate on compliance tasks",
+    "url": "https://www.casestudies.com/company/merge",
+    "pass": 3
+   },
+   {
+    "quote": "TravelPerk achieves faster user onboarding and 79% more revenue with Merge",
+    "url": "https://www.casestudies.com/company/merge",
+    "pass": 3
+   },
+   {
+    "quote": "Zensai closes $300K+ in ARR with Merge HRIS integrations",
+    "url": "https://www.casestudies.com/company/merge",
+    "pass": 3
+   },
+   {
+    "quote": "Merge Revenue 2024: $20.8M Est., $74.5M Raised",
+    "url": "https://getlatka.com/companies/merge",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, valuation & funding",
+    "url": "https://getlatka.com/companies/merge",
+    "pass": 3
+   },
+   {
+    "quote": "Merge's last reported revenue was $8M in 2022 (Forbes). GetLatka estimates it at about $20.8M a year (October 2024).",
+    "url": "https://getlatka.com/companies/merge",
+    "pass": 3
+   },
+   {
+    "quote": ". The list ranks the 1,301 companies Nathan Latka has interviewed by revenue.",
+    "url": "https://getlatka.com/companies/merge",
+    "pass": 3
+   },
+   {
+    "quote": "All 4 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/merge",
+    "pass": 3
+   },
+   {
+    "quote": "Merge CEO, founders & employees",
+    "url": "https://getlatka.com/companies/merge",
+    "pass": 3
+   },
+   {
+    "quote": "Gil Feig founded Merge in 2020 with Shensi Ding-Lopez and runs it as CEO. Merge had 104 employees (October 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/merge",
+    "pass": 3
+   },
+   {
+    "quote": "Chief Revenue Officer",
+    "url": "https://getlatka.com/companies/merge",
+    "pass": 3
+   },
+   {
+    "quote": "What is Merge's revenue?",
+    "url": "https://getlatka.com/companies/merge",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Merge's revenue at about",
+    "url": "https://getlatka.com/companies/merge",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Merge have?",
+    "url": "https://getlatka.com/companies/merge",
+    "pass": 3
+   },
+   {
+    "quote": "employees in October 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/merge",
+    "pass": 3
+   },
+   {
+    "quote": "The Latka List ranks the private, operating companies Nathan Latka has interviewed by the latest revenue figure on each profile, reported or estimated; equal figures share a rank.",
+    "url": "https://getlatka.com/companies/merge",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/merge",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/merge",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/merge",
+    "pass": 3
+   },
+   {
+    "quote": "Merge provides a unified API platform for customer-facing integrations, simplifying how B2B SaaS companies, LLMs, and Fortune 500 organizations connect with hundreds of third-party applications. Its developer-friendly, cloud-native interface streamlines integration creation and management, abstracting complex API specifications across categories like HRIS.",
+    "url": "https://startupintros.com/orgs/merge",
+    "pass": 3
+   },
+   {
+    "quote": "Merge empowers diverse clients, including frontier LLMs, B2B SaaS providers, and Fortune 500 organizations, enabling integration of robust capabilities without extensive development. Its long-term vision is to drive the evolution of integrations, establishing a foundational layer for secure, efficient connectivity across the dynamic software ecosystem.",
+    "url": "https://startupintros.com/orgs/merge",
+    "pass": 3
+   },
+   {
+    "quote": ": Reduces integration build time, lowers costs, accelerates roadmaps, and empowers non-technical teams to diagnose issues, with real revenue and cost-saving impacts for users[4].",
+    "url": "https://startupintros.com/orgs/merge",
+    "pass": 3
+   },
+   {
+    "quote": ": How to name files, notes on page arrangement, notes on writing ranges, sending emails, request templates for recipients, and confirmation requests to IT staff.",
+    "url": "https://note.com/jazzy_sable3268/n/nfaa745322dd6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Furthermore, if a 20% acquisition premium is added, the acquisition valuation would be approximately $434.93 per Tesla share, making an exchange for approximately 2.93 shares of SpaceX stock the theoretical benchmark.",
+    "url": "https://note.com/note0701525/n/n149e44a8f7b7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Conversely, if Tesla shareholders can merge at a favorable exchange ratio, they can benefit from the acquisition premium.",
+    "url": "https://note.com/note0701525/n/n149e44a8f7b7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Tesla's acquisition premium is 20%",
+    "url": "https://note.com/note0701525/n/n149e44a8f7b7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Third is recurring revenue from Starlink.",
+    "url": "https://note.com/note0701525/n/n149e44a8f7b7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the second quarter of 2026, revenue was approximately $28.2 billion for Tesla and approximately $7.8 billion for SpaceX. Although SpaceX achieved a 92% year-on-year increase in revenue, it recorded a net loss of approximately $541 million. If you simply multiply the combined quarterly revenue of both companies by four, it comes to an annualized figure of approximately $144.2 billion.",
+    "url": "https://note.com/note0701525/n/n149e44a8f7b7?hl=en",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Merge Partner Program",
+    "url": "https://www.merge.dev/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Apply to become a partner",
+    "url": "https://www.merge.dev/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Value-added resellers, marketplaces, and regional distributors.",
+    "url": "https://www.merge.dev/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Let’s make integrations effortless together. Join the Merge Partner Program and help shape the infrastructure layer that powers how SaaS connects.",
+    "url": "https://www.merge.dev/partners",
+    "pass": 1
+   },
+   {
+    "quote": "White-label authentication guides",
+    "url": "https://www.merge.dev/pricing/unified",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us for volume discounts",
+    "url": "https://www.merge.dev/pricing/unified",
+    "pass": 1
+   },
+   {
+    "quote": "Now that Zoom offers all these integrations, their platform can sync a wealth of data to their product, including candidates’ first and last names, positions, departments, email addresses, scorecards, candidate stages, and more.",
+    "url": "https://www.merge.dev/case-studies/zoom",
+    "pass": 1
+   },
+   {
+    "quote": "Candidates can receive an email notification the day before their interview, letting them know that their call will be recorded but that they can opt-out.",
+    "url": "https://www.merge.dev/case-studies/zoom",
+    "pass": 1
+   },
+   {
+    "quote": "If an employee in the connected HRIS doesn’t have an associated phone number or email address in Ramp, the Ramp admin(s) will be notified and can add the employee with a few clicks",
+    "url": "https://www.merge.dev/case-studies/ramp",
+    "pass": 1
+   },
+   {
+    "quote": "Once an employee in Ramp no longer has an associated phone number or email address in the integrated HRIS, an admin will be notified and can remove the employee from Ramp (which includes deprovisioning any of the cards they had access to) in just a few clicks",
+    "url": "https://www.merge.dev/case-studies/ramp",
+    "pass": 1
+   },
+   {
+    "quote": "The recruiter would simply provide details like the candidate’s full name, email address, and, of course, the role they want to submit them to.",
+    "url": "https://www.merge.dev/case-studies/telnyx",
+    "pass": 1
+   },
+   {
+    "quote": "Access to all core features with responsive email support",
+    "url": "https://www.merge.dev/pricing/agent-handler",
+    "pass": 1
+   },
+   {
+    "quote": ": How to name files, notes on page arrangement, notes on writing ranges, sending emails, request templates for recipients, and confirmation requests to IT staff.",
+    "url": "https://note.com/jazzy_sable3268/n/nfaa745322dd6?hl=en",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Cognition AI Japan、フラッグシップイベント「Merge Tokyo 2026」を11月24日に開催 | Cognition AI, Inc.のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000181315.html",
+    "pass": 3
+   },
+   {
+    "quote": "Cognition AI Japan、フラッグシップイベント「Merge Tokyo 2026」を11月24日に開催",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000181315.html",
+    "pass": 3
+   },
+   {
+    "quote": "~みずほ証券、NTTドコモ、ワークスアプリケーションズ、農林中央金庫、AI insideなど、日本のDevin導入企業が登壇~",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000181315.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京 — 2026年11月2日 — ソフトウェア開発向け自律型AIエージェントのグローバルリーダーである",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000181315.html",
+    "pass": 3
+   },
+   {
+    "quote": "（本社：米国カリフォルニア州、CEO兼共同創業者：スコット・ウー）の日本法人であるCognition AI Japan（所在地：東京都千代田区、日本法人社長：正井拓己）は、2026年11月24日(火)にグランドハイアット東京（東京都港区）にて、日本国内におけるCognitionのフラッグシップイベント「",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000181315.html",
+    "pass": 3
+   },
+   {
+    "quote": "Merge Tokyo 2026",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000181315.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本で開催されるMerge Tokyo 2026は今年の4月に続く2回目の開催です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000181315.html",
+    "pass": 3
+   },
+   {
+    "quote": "第1回は日本法人設立発表として開催され、約350名のユーザーとパートナーが参加しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000181315.html",
+    "pass": 3
+   },
+   {
+    "quote": "本年8月に日本で初めてCognition主催のコミュニティイベントとして開催し約400名が参加した「",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000181315.html",
+    "pass": 3
+   },
+   {
+    "quote": "本イベントの基調講演では日本法人設立からこれまでの日本市場での歩みを振り返るとともに、日本のAI駆動型開発の最先端を走るDevinの導入企業による事例講演を予定しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000181315.html",
+    "pass": 3
+   },
+   {
+    "quote": "イベント名：Merge Tokyo 2026",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000181315.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都港区六本木6-10-3",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000181315.html",
+    "pass": 3
+   },
+   {
+    "quote": "主催：Cognition AI Japan合同会社",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000181315.html",
+    "pass": 3
+   },
+   {
+    "quote": "協賛：伊藤忠テクノソリューションズ株式会社、SB C&S株式会社、DXCテクノロジー・ジャパン、株式会社ディー・エヌ・エー、豊田通商株式会社、MugendAI合同会社、ULSコンサルティング株式会社",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000181315.html",
+    "pass": 3
+   },
+   {
+    "quote": "https://merge-tokyo.jp/",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000181315.html",
+    "pass": 3
+   },
+   {
+    "quote": "Cognitionリーダーシップ、そして日本のお客様が語る、ソフトウェア・エンジニアリングの最前線",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000181315.html",
+    "pass": 3
+   },
+   {
+    "quote": "◦基調講演 Cognition AI Japan合同会社 日本法人社長 正井 拓己",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000181315.html",
+    "pass": 3
+   },
+   {
+    "quote": "◦パートナーシップ事例 ULSコンサルティング株式会社 取締役会長 漆原 茂 氏",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000181315.html",
+    "pass": 3
+   },
+   {
+    "quote": "みずほ証券株式会社 IT・システムグループ 上級技術統括 杉谷 剛 氏",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000181315.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ワークスアプリケーションズ 代表取締役最高経営責任者（CEO） 秦 修 氏",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000181315.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社NTTドコモ プロダクトマーケティング本部 プロダクト技術部長 上田 誠 氏",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000181315.html",
+    "pass": 3
+   },
+   {
+    "quote": "◦Devinの進化 Cognition AI Japan合同会社 Field CTO シバタ アキラ",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000181315.html",
+    "pass": 3
+   },
+   {
+    "quote": "ご登壇企業様一覧：みずほ証券株式会社、株式会社ワークスアプリケーションズ、株式会社NTTドコモ、AI inside株式会社",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000181315.html",
+    "pass": 3
+   },
+   {
+    "quote": "Cognition AI Japan合同会社 日本法人社長 兼 ゼネラルマネージャー 正井拓己のコメント",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000181315.html",
+    "pass": 3
+   },
+   {
+    "quote": "「日本法人設立の年である今年、Cognitionのフラッグシップイベント『Merge』を、ここ東京で二度にわたり開催できることを大変うれしく思います",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000181315.html",
+    "pass": 3
+   },
+   {
+    "quote": "Cognition AI Japan、Merge Tokyo 2026を11月24日に開催へ | Dellows News（デロウズニュース）",
+    "url": "https://news.dellows.jp/1001303/",
+    "pass": 3
+   },
+   {
+    "quote": "Cognition AI Japan、Merge Tokyo 2026を11月24日に開催へ",
+    "url": "https://news.dellows.jp/1001303/",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトウェア開発向け自律型AIエージェントを展開する米Cognitionの日本法人であるCognition AI Japanは、2026年11月24日(火)にグランドハイアット東京にてフラッグシップイベント「Merge Tokyo 2026」を開催する",
+    "url": "https://news.dellows.jp/1001303/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内における同イベントの開催は今年4月に続いて2回目となる",
+    "url": "https://news.dellows.jp/1001303/",
+    "pass": 3
+   },
+   {
+    "quote": "日本で開催されるMerge Tokyo 2026は今年4月に続く2回目の開催となる",
+    "url": "https://news.dellows.jp/1001303/",
+    "pass": 3
+   },
+   {
+    "quote": "第1回は日本法人設立発表として行われ、約350名のユーザーとパートナーが参加した",
+    "url": "https://news.dellows.jp/1001303/",
+    "pass": 3
+   },
+   {
+    "quote": "本年8月には、日本で初めてCognition主催のコミュニティイベントとして約400名が参加した「DevinCon」が開催されており、今回のイベントはこれと対をなすエンタープライズ顧客向けの位置づけとなっている",
+    "url": "https://news.dellows.jp/1001303/",
+    "pass": 3
+   },
+   {
+    "quote": "基調講演では、日本法人設立からこれまでの日本市場での歩みを振り返るとともに、Devinの導入企業による事例講演が予定されている",
+    "url": "https://news.dellows.jp/1001303/",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーシップ事例としてULSコンサルティング株式会社の漆原茂取締役会長や農林中央金庫の半場雄二理事常務執行役員ITデジタル統括責任者（CI&DO）、DXCテクノロジー・ジャパンの西川望カントリー マネージング ダイレクターが登壇する",
+    "url": "https://news.dellows.jp/1001303/",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、みずほ証券株式会社の上級技術統括である杉谷剛氏、株式会社ワークスアプリケーションズの秦修代表取締役最高経営責任者（CEO）、株式会社NTTドコモのプロダクト技術部長である上田誠氏による事例発表に加え、Cognition AI Japan合同会社のシバタアキラField CTOによるDevinの進化についての説明も行われる",
+    "url": "https://news.dellows.jp/1001303/",
+    "pass": 3
+   },
+   {
+    "quote": "午後にはRoom A／Room Bの2会場にて、AI inside株式会社を含む企業による事例セッションや「Devin ファンダメンタルズ」などのセッションが予定されている",
+    "url": "https://news.dellows.jp/1001303/",
+    "pass": 3
+   },
+   {
+    "quote": "Cognition AI Japan合同会社で日本法人社長 兼 ゼネラルマネージャーを務める正井拓己氏は、基調講演において社内展開や利用促進、効果測定まで踏み込んだAI駆動開発の最前線が語られるとし、日本市場における導入から定着までを支援するための投資を今後も続けていく方針を示している",
+    "url": "https://news.dellows.jp/1001303/",
+    "pass": 3
+   },
+   {
+    "quote": "Merge Tokyo 2026の開催概要",
+    "url": "https://news.dellows.jp/1001303/",
+    "pass": 3
+   },
+   {
+    "quote": "イベント名：Merge Tokyo 2026",
+    "url": "https://news.dellows.jp/1001303/",
+    "pass": 3
+   },
+   {
+    "quote": "会場：グランドハイアット東京 グランドボールルームおよびタラゴン（3階）（東京都港区六本木6-10-3）",
+    "url": "https://news.dellows.jp/1001303/",
+    "pass": 3
+   },
+   {
+    "quote": "主催：Cognition AI Japan合同会社",
+    "url": "https://news.dellows.jp/1001303/",
+    "pass": 3
+   },
+   {
+    "quote": "協賛：伊藤忠テクノソリューションズ株式会社、SB C&S株式会社、DXCテクノロジー・ジャパン、株式会社ディー・エヌ・エー、豊田通商株式会社、MugendAI合同会社、ULSコンサルティング株式会",
+    "url": "https://news.dellows.jp/1001303/",
+    "pass": 3
+   },
+   {
+    "quote": "公式サイト：https://merge-tokyo.jp/",
+    "url": "https://news.dellows.jp/1001303/",
+    "pass": 3
+   },
+   {
+    "quote": "本記事はCognition AI Japanの発表をもとに作成",
+    "url": "https://news.dellows.jp/1001303/",
+    "pass": 3
+   },
+   {
+    "quote": "Cognition AI Japan、フラッグシップイベント「Merge Tokyo 2026」を11月24日に開催 | 朝日新聞デジタルマガジン＆[and]",
+    "url": "https://www.asahi.com/and/pressrelease/17017960",
+    "pass": 3
+   },
+   {
+    "quote": "Cognition AI Japan、フラッグシップイベント「Merge Tokyo 2026」を11月24日に開催",
+    "url": "https://www.asahi.com/and/pressrelease/17017960",
+    "pass": 3
+   },
+   {
+    "quote": "~みずほ証券、NTTドコモ、ワークスアプリケーションズ、農林中央金庫、AI insideなど、日本のDevin導入企業が登壇~",
+    "url": "https://www.asahi.com/and/pressrelease/17017960",
+    "pass": 3
+   },
+   {
+    "quote": "東京 - 2026年11月2日 - ソフトウェア開発向け自律型AIエージェントのグローバルリーダーである",
+    "url": "https://www.asahi.com/and/pressrelease/17017960",
+    "pass": 3
+   },
+   {
+    "quote": "（本社：米国カリフォルニア州、CEO兼共同創業者：スコット・ウー）の日本法人であるCognition AI Japan（所在地：東京都千代田区、日本法人社長：正井拓己）は、2026年11月24日(火)にグランドハイアット東京（東京都港区）にて、日本国内におけるCognitionのフラッグシップイベント「",
+    "url": "https://www.asahi.com/and/pressrelease/17017960",
+    "pass": 3
+   },
+   {
+    "quote": "Merge Tokyo 2026",
+    "url": "https://www.asahi.com/and/pressrelease/17017960",
+    "pass": 3
+   },
+   {
+    "quote": "日本で開催されるMerge Tokyo 2026は今年の4月に続く2回目の開催です",
+    "url": "https://www.asahi.com/and/pressrelease/17017960",
+    "pass": 3
+   },
+   {
+    "quote": "第1回は日本法人設立発表として開催され、約350名のユーザーとパートナーが参加しました",
+    "url": "https://www.asahi.com/and/pressrelease/17017960",
+    "pass": 3
+   },
+   {
+    "quote": "本年8月に日本で初めてCognition主催のコミュニティイベントとして開催し約400名が参加した「",
+    "url": "https://www.asahi.com/and/pressrelease/17017960",
+    "pass": 3
+   },
+   {
+    "quote": "本イベントの基調講演では日本法人設立からこれまでの日本市場での歩みを振り返るとともに、日本のAI駆動型開発の最先端を走るDevinの導入企業による事例講演を予定しています",
+    "url": "https://www.asahi.com/and/pressrelease/17017960",
+    "pass": 3
+   },
+   {
+    "quote": "- イベント名：Merge Tokyo 2026",
+    "url": "https://www.asahi.com/and/pressrelease/17017960",
+    "pass": 3
+   },
+   {
+    "quote": "東京都港区六本木6-10-3",
+    "url": "https://www.asahi.com/and/pressrelease/17017960",
+    "pass": 3
+   },
+   {
+    "quote": "- 主催：Cognition AI Japan合同会社",
+    "url": "https://www.asahi.com/and/pressrelease/17017960",
+    "pass": 3
+   },
+   {
+    "quote": "- 協賛：伊藤忠テクノソリューションズ株式会社、SB C&S株式会社、DXCテクノロジー・ジャパン、株式会社ディー・エヌ・エー、豊田通商株式会社、MugendAI合同会社、ULSコンサルティング株式会社",
+    "url": "https://www.asahi.com/and/pressrelease/17017960",
+    "pass": 3
+   },
+   {
+    "quote": "https://merge-tokyo.jp/",
+    "url": "https://www.asahi.com/and/pressrelease/17017960",
+    "pass": 3
+   },
+   {
+    "quote": "Cognitionリーダーシップ、そして日本のお客様が語る、ソフトウェア・エンジニアリングの最前線",
+    "url": "https://www.asahi.com/and/pressrelease/17017960",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Cognition AI Japan、フラッグシップイベント「Merge Tokyo 2026」を1... — Nov 2, 2026 · 今回のMerge Tokyo基調講演では、みずほ証券様、NTTドコモ様、ワークスアプリケーションズ様、農林中央金庫様など、日本を代表する企業の皆様ご ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000181315.html",
+    "pass": 3
+   },
+   {
+    "quote": "Cognition AI Japan、Merge Tokyo 2026を11月24日に開催へ — Nov 2, 2026 · 日本国内における同イベントの開催は今年4月に続いて2回目となる。 AIソフトウェアエンジニア「Devin」を導入する国内企業による事例発表や、最新機能の紹介が行われる予定だ。 MergeはCognitonが世界各国で開催しているフラッグシップイベントである。",
+    "url": "https://news.dellows.jp/1001303/",
+    "pass": 3
+   },
+   {
+    "quote": "Cognition AI Japan、フラッグシップイベント「Merge Tokyo 2026」を1... — Nov 2, 2026 · MergeはCognitonが世界各国で開催しているフラッグシップイベントです。日本で開催されるMerge Tokyo 2026は今年の4月に続く2回目の開催です。第1回は ...",
+    "url": "https://www.asahi.com/and/pressrelease/17017960",
+    "pass": 3
+   },
+   {
+    "quote": "Merge Tokyo 2026が11月24日にグランドハイアット東京で開催決定 – GE... — Nov 2, 2026 · Cognition AI Japanは2026年11月24日にグランドハイアット東京にてフラッグシップイベント「Merge Tokyo 2026」を開催すると発表した。日本法人設立からこれまでの歩みを振り返り、Devinの導入企業による事例講演や先進機能の解説が行われる。参加費は無料で事前登録制となっている。",
+    "url": "https://genicpress.com/2335832/",
+    "pass": 3
+   },
+   {
+    "quote": "Merge Tokyo 2026 — Cognition主催、2026年11月24日・東京開催のフラッグシップカンファレンス。AI時代のソフトウェアエンジニアリングをテーマに、日本のエンジニア・ビジネスリーダー400人以上が集結します。",
+    "url": "https://merge-tokyo.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Municipal mergers and dissolutions in Japan - Wikipedia — Municipal mergers and dissolutions carried out in Japan (市町村合併, shichōson gappei) have occurred since the Meiji era to join the facilities and legal boundaries of municipal districts, towns, and cities.",
+    "url": "https://en.wikipedia.org/wiki/Municipal_mergers_and_dissolutions_in_Japan",
+    "pass": 3
+   },
+   {
+    "quote": "Merge Tokyo 2026 - Cognition フラッグシップ・カンファレンス - con... — Oct 26, 2026 · 👉 参加申込フォーム Merge Tokyo 2026 とは Cognition 主催のフラッグシップ・カンファレンス「Merge Tokyo 2026」を東京で開催します。 AI時代のソフトウェアエンジニアリングをテーマに、日本のエンジニア・ビジネスリーダー400人以上が集結します。",
+    "url": "https://devin.connpass.com/event/410814/",
+    "pass": 3
+   },
+   {
+    "quote": "Cognition AI Japan、フラッグシップイベント「Merge Tokyo 2026」を1... — Nov 2, 2026 · MergeはCognitonが世界各国で開催しているフラッグシップイベントです。 日本で開催されるMerge Tokyo 2026は今年の4月に続く2回目の開催です。",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000181315.html",
+    "pass": 3
+   },
+   {
+    "quote": "MERGE — GOHAN MERGE MOON BAG MINI A DAY BAG WITH HEART THAI BOLD MID YEAR SALE LUMIERE A Day Bag Signature Denim Edition MERGE IT BAG 26 A Day Bag Mini Riot Box DREAMER’S ESCAP BIKINI IN TRANSIT BAGS A DAY BAG MEDIUM ACCESSORIES DRESS SKORT SHORTS PANTS SKIRT Winter essential JEANS TOPS MERGE BLACK WEEK CLOSE PRODUCT ALL TOPS BOTTOMS DRESSES BAG ...",
+    "url": "https://www.mergeofficialonline.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan - Merger Control Laws and Regulations 2026 — Oct 12, 2025 · This article dives into merger control laws and regulations in Japan, discussing substantive assessments, outcomes, appeals, enforcement, and more.",
+    "url": "https://iclg.com/practice-areas/merger-control-laws-and-regulations/japan",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study - Mergen IT — With Mergen IT's guidance, the client identified several areas that required improvement; some of these included increasing data visibility, migrating operations to a cloud infrastructure, streamlining processes with automation, improving customer service quality, and reducing operating costs.",
+    "url": "https://mergenit.com/case-study/revolutionizing-manufacturing-operations-mergen-streamlined-efficiency-and-cutting-costs-of-a-manufacturing-industry-client-with-its-servicenow-cloud-computing-services",
+    "pass": 3
+   },
+   {
+    "quote": "Merge Case Studies — With Merge, managing API integrations shifted from a technical task for engineers to something our customer support could easily handle. Merge should make you and your end users’ lives easier: less work in building multiple integrations, real-time data syncing, and accurate data.",
+    "url": "https://www.merge.dev/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Merge Uses Software & Services — Explore case studies featuring Merge as the customer — learn how vendors and partners helped Merge solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/merge",
+    "pass": 3
+   },
+   {
+    "quote": "Merge B2B Case Studies & Customer Successes — See how Merge solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/merge",
+    "pass": 3
+   },
+   {
+    "quote": "Merge Manufacturing, LLC. - Metal Fabrication & Powder ... — The latter half of production can be tricky; and every customer has a different need to be filled. Let us take the hassle of assembly out of your hands and provide you with the finished goods you need.",
+    "url": "https://www.mergemfg.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Merge – Overview – Funding, Revenue & Growth – 2026 – London — Discover Merge's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/merge",
+    "pass": 3
+   },
+   {
+    "quote": "Merge - 2026 Company Profile, Team & Funding - TracxnMerge Revenue 2024: $20.8M Est., $74.5M Raised - LATKAMerge: Funding, Team & Investors | Startup IntrosMerge - 2026 Company Profile, Team, Funding & Competitors ...Merge 2026 Company Profile: Valuation, Funding & Investors ...Merge (Financial Services) 2026 Company Profile: Valuation ... — Feb 13, 2026 · Merge is a series B company based in San ",
+    "url": "https://tracxn.com/d/companies/merge/__XhpqV6RJdbcb1aavEcry0SzlA9ybNgUQCv4UfTZxT7Q",
+    "pass": 3
+   },
+   {
+    "quote": "Merge Revenue 2024: $20.8M Est., $74.5M Raised - LATKA — Oct 7, 2026 · Merge is a San Francisco-based B2B software company that provides unified APIs, allowing software companies to offer dozens of integrations across HR, applicant tracking, accounting, and related categories through a single connection.",
+    "url": "https://getlatka.com/companies/merge",
+    "pass": 3
+   },
+   {
+    "quote": "Merge: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · With over 3,000 organizations using the platform and 150+ integrations released in two years since 2020, Merge demonstrates strong growth momentum, culminating in a $55 million Series B led by Accel in 2023, bringing total funding to ~$74.5 million [4].",
+    "url": "https://startupintros.com/orgs/merge",
+    "pass": 3
+   },
+   {
+    "quote": "Merge - 2026 Company Profile, Team, Funding & Competitors ...Merge 2026 Company Profile: Valuation, Funding & Investors ...Merge (Financial Services) 2026 Company Profile: Valuation ... — Mar 4, 2026 · Merge - About the company Merge is a series A company based in San Antonio (United States), founded in 2014 by Andrew Trickett and Franklin Lyons. It operates as a Provider of an augmented and virtu",
+    "url": "https://tracxn.com/d/companies/merge/__xYwD7dM_7pSNeel_TsgZBaCMFhKGkmnJ6uteD5TtmNw",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "How to Merge and Split PDFs | By Windows, Mac, and iPhone Nov 1, 2026 · Merge and split PDFs on Windows, Mac, and iPhone. Avoid common pitfalls such as incorrect ordering, overwriting original files, and handling password-protected PDFs. Merging and splitting PDFs starts with determining whether you are allowed to upload the document.",
+    "url": "https://note.com/jazzy_sable3268/n/nfaa745322dd6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What Happens to Stock Prices if Tesla and SpaceX Merge? The ... Oct 16, 2026 · If they merge, one of the largest mega-corporations in the global stock market will be born. However, there is an important issue here that investors must not overlook.",
+    "url": "https://note.com/note0701525/n/n149e44a8f7b7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Don't Use Software to Merge PDFs! Introducing Free Methods ... 4 days ago · In this article, I will introduce 5 ways to merge PDFs without software. I have summarized the operation steps, recommended points, and precautions for each, so please try to find the method that suits you best.",
+    "url": "https://note.com/pdnob_japan/n/nc42acadb2ed4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Drop, merge, and grow. I made a new game called 'Merge ... 5 days ago · It is a game where you drop fruits from above, and when you merge the same fruits together, they evolve into a slightly larger fruit. You clear a stage by completing the 'objective' given for that stage.",
+    "url": "https://note.com/wakuwakubotto/n/n0d8844a05a38?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "How to Merge and Split PDFs | By Windows, Mac, and iPhone｜しごとの手順帳｜フリーランスエンジニア",
+    "url": "https://note.com/jazzy_sable3268/n/nfaa745322dd6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How to Merge and Split PDFs | By Windows, Mac, and iPhone",
+    "url": "https://note.com/jazzy_sable3268/n/nfaa745322dd6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is a guide on how to combine multiple PDFs into one (merge) and how to extract only the necessary pages from a single PDF (split). Based on official help and tool documentation, we have organized methods for Windows, Mac, and iPhone that avoid extra costs as much as possible.",
+    "url": "https://note.com/jazzy_sable3268/n/nfaa745322dd6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"I was asked to send an invoice and a quote as a single PDF.\"",
+    "url": "https://note.com/jazzy_sable3268/n/nfaa745322dd6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"I want to extract only 5 pages from a 100-page document and send them.\"",
+    "url": "https://note.com/jazzy_sable3268/n/nfaa745322dd6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"Is it safe to upload internal company documents to a free PDF merging site?\"",
+    "url": "https://note.com/jazzy_sable3268/n/nfaa745322dd6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "By reading this article, you will be able to do the following three things:",
+    "url": "https://note.com/jazzy_sable3268/n/nfaa745322dd6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Choose a method that suits your computer/smartphone and the nature of the document (whether it is okay to upload to an external service).",
+    "url": "https://note.com/jazzy_sable3268/n/nfaa745322dd6?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What Happens to Stock Prices if Tesla and SpaceX Merge? The Birth of One of the World's Largest AI and Space Companies and Future Stock Price Forecasts｜マンボウ実践研究所",
+    "url": "https://note.com/note0701525/n/n149e44a8f7b7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What Happens to Stock Prices if Tesla and SpaceX Merge? The Birth of One of the World's Largest AI and Space Companies and Future Stock Price Forecasts",
+    "url": "https://note.com/note0701525/n/n149e44a8f7b7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "October 16, 2026 | Investment Analysis of US Stocks, AI, and the Space Industry",
+    "url": "https://note.com/note0701525/n/n149e44a8f7b7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Speculation regarding a merger between Tesla and SpaceX, both led by Elon Musk, is finally becoming a reality.",
+    "url": "https://note.com/note0701525/n/n149e44a8f7b7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Analysts at major British financial firm Barclays, including Dan Levy, have pointed out the possibility that a merger could be announced by early December 2026. The scenario being considered is a major restructuring in which SpaceX acquires Tesla through a stock swap.",
+    "url": "https://note.com/note0701525/n/n149e44a8f7b7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, as of October 16, 2026, neither company has officially announced a merger agreement. This remains strictly at the stage of financial institution forecasting. The point to focus on with this news is that it is not simply a story about an automaker and a rocket company joining forces.",
+    "url": "https://note.com/note0701525/n/n149e44a8f7b7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "By integrating Tesla's autonomous driving, humanoid robot, and battery technologies with SpaceX's satellite communications, space transport, AI development, and semiconductor initiatives, a massive vertically integrated AI company could be born.",
+    "url": "https://note.com/note0701525/n/n149e44a8f7b7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Current Stock Prices and Corporate Scale",
+    "url": "https://note.com/note0701525/n/n149e44a8f7b7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Don't Use Software to Merge PDFs! Introducing Free Methods and Precautions｜PDNob｜PDF編集・活用ノウハウ",
+    "url": "https://note.com/pdnob_japan/n/nc42acadb2ed4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Don't Use Software to Merge PDFs! Introducing Free Methods and Precautions",
+    "url": "https://note.com/pdnob_japan/n/nc42acadb2ed4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "You want to combine multiple PDF files into one, but installing dedicated software just for that is a bit of a hassle, isn't it?",
+    "url": "https://note.com/pdnob_japan/n/nc42acadb2ed4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Actually, you can merge PDFs without using dedicated software by using standard Mac apps or online tools.",
+    "url": "https://note.com/pdnob_japan/n/nc42acadb2ed4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, the ease of use and terms of service vary depending on the method. The most suitable method also changes depending on whether it is a document used for work or if you just want to combine them temporarily.",
+    "url": "https://note.com/pdnob_japan/n/nc42acadb2ed4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, I will introduce",
+    "url": "https://note.com/pdnob_japan/n/nc42acadb2ed4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "5 ways to merge PDFs without software",
+    "url": "https://note.com/pdnob_japan/n/nc42acadb2ed4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ". I have summarized the operation steps, recommended points, and precautions for each, so please try to find the method that suits you best.",
+    "url": "https://note.com/pdnob_japan/n/nc42acadb2ed4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Drop, merge, and grow. I made a new game called 'Merge Evolution'｜まめおGalaxy",
+    "url": "https://note.com/wakuwakubotto/n/n0d8844a05a38?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Drop, merge, and grow. I made a new game called 'Merge Evolution'",
+    "url": "https://note.com/wakuwakubotto/n/n0d8844a05a38?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I have finished my new game, 'Merge Evolution'.",
+    "url": "https://note.com/wakuwakubotto/n/n0d8844a05a38?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It is a game where you drop fruits from above, and when you merge the same fruits together, they evolve into a slightly larger fruit.",
+    "url": "https://note.com/wakuwakubotto/n/n0d8844a05a38?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "You clear a stage by completing the 'objective' given for that stage.",
+    "url": "https://note.com/wakuwakubotto/n/n0d8844a05a38?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "You can play it right in your browser for free, with no registration required.",
+    "url": "https://note.com/wakuwakubotto/n/n0d8844a05a38?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "You can play the game from this article right away for free, with no registration, using the link at the end.",
+    "url": "https://note.com/wakuwakubotto/n/n0d8844a05a38?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "■ Only 3 rules to play",
+    "url": "https://note.com/wakuwakubotto/n/n0d8844a05a38?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Merge (@mergeyourapp) / X Oct 13, 2026 · Stop paying for 5 apps. Merge the features you use into one, launch a coin, agents build the app. Powered by REA (Reverse Engineer Anything)",
+    "url": "https://x.com/mergeyourapp",
+    "pass": 3
+   },
+   {
+    "quote": "Merge (@mergelaunch) / X Oct 16, 2026 · You can now LAUNCH coins directly from Merge. Enter any name, ticker and description. or Merge any two coins launched on Merge into one. Your coin stays unvamped.",
+    "url": "https://x.com/mergelaunch",
+    "pass": 3
+   },
+   {
+    "quote": "Merge on X: \"Claude Fable 5.2 from @AnthropicAI is now ... Claude Fable 5.2 from @AnthropicAI is now available on Merge Gateway. It's built for the hardest technical work, with improvements in coding, reasoning, and vision.",
+    "url": "https://x.com/merge_api/status/2119891760973263338",
+    "pass": 3
+   },
+   {
+    "quote": "Merge (@merge_api) / X We ran Merge and Slack's MCP server through the same 10 Slack tasks, 150 times each. Merge gave agents 2.9x as many Slack tools and recovered from every failed call. On Slack's server, half those runs were dead ends.",
+    "url": "https://x.com/merge_api",
+    "pass": 3
+   },
+   {
+    "quote": "Merge (@mergeyourapp) / X Oct 13, 2026 · We are adding the ability to also add in your own prompt to an app to custom tailor more features and ideas of how you want you app to work. Let us know other features you would like Merge to do.",
+    "url": "https://x.com/mergeyourapp",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Merge - LinkedIn Merge is a fintech that is merging stablecoins and instant payment rails in one API. Backed by world-class investors, we aim to accelerate cross-border commerce through global banking and payment...",
+    "url": "https://www.linkedin.com/company/mergemoney/",
+    "pass": 3
+   },
+   {
+    "quote": "MERGE - LinkedIn About us MERGE is the platform connecting the crypto and digital assets ecosystem with financial institutions, fintech and regulators, enabling the future of finance.",
+    "url": "https://www.linkedin.com/company/mmerge/",
+    "pass": 3
+   },
+   {
+    "quote": "Queenie Taylor-Wong - Co-Founder & CEO @ MERGE | Creating ...Paula Pascual Cortés - Founder & CEO at MERGE, Crypto & Web3 ...Jim Stapleton - VP Engineering, Clinical Applications | LinkedInB. Alex Kean - Merge | LinkedInPaula Pascual Cortes - Founder & CEO at MERGE, Crypto & Web3 ... MERGE is a pioneering events and thought leadership provider. We are dedicated to creating exceptional content, net",
+    "url": "https://uk.linkedin.com/in/queenietw",
+    "pass": 3
+   },
+   {
+    "quote": "Paula Pascual Cortés - Founder & CEO at MERGE, Crypto & Web3 ...Jim Stapleton - VP Engineering, Clinical Applications | LinkedInB. Alex Kean - Merge | LinkedInPaula Pascual Cortes - Founder & CEO at MERGE, Crypto & Web3 ... En 2025 ha sido reconocida como una de las 30 jóvenes más influyentes de España por Forbes, formando parte del listado Forbes 30 Under 30. Su proyecto más representativo es MER",
+    "url": "https://es.linkedin.com/in/paulapcortes",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "MERGE | Chicago IL - FacebookMerge.official | Bangkok - FacebookEverMerge Tips, Tricks, and Chat | FacebookFacebookLonghorn Council Volunteers and Alumni | FacebookFacebook - log in or sign upMergeVille - Facebook Jun 18, 2026 · That’s a wrap on our 2024 MERGE Summer Outings! 🎉 Our teams from NYC, BOS, MONT, KC, ATL, DEN, and CHI came together for activities like karaoke, shuffleboard, boating, an",
+    "url": "https://www.facebook.com/wearemergeworld/",
+    "pass": 3
+   },
+   {
+    "quote": "Merge.official | Bangkok - FacebookEverMerge Tips, Tricks, and Chat | FacebookFacebookLonghorn Council Volunteers and Alumni | FacebookFacebook - log in or sign upMergeVille - Facebook เพราะรอบนี้ยีนส์ MERGE มาแบบจัดเต็มทั้งตัวดีไซน์ ดีเทล ลวดลาย และสีสัน มาเติมลูกเล่นใหม่ๆให้กับการแต่งตัว และตู้เสื้อผ้าจะ ... Welcome to the Overgeared: Hero Merge RPG Community! This group is a place for players t",
+    "url": "https://www.facebook.com/mergeofficials/",
+    "pass": 3
+   },
+   {
+    "quote": "EverMerge Tips, Tricks, and Chat | Facebook Welcome to the Overgeared: Hero Merge RPG Community! This group is a place for players to gather, share experiences, strategies, tips & tricks, and the latest information about Overgeared.",
+    "url": "https://business.facebook.com/groups/6139665222787301/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.merge.dev/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.merge.dev/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.merge.dev/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.merge.dev/workforce",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.merge.dev/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.merge.dev/pricing/unified",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.merge.dev/case-studies/zoom",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.merge.dev/case-studies/bill",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.merge.dev/case-studies/ramp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.merge.dev/case-studies/how-drata-increases-customer-value-and-spends-80-less-time-managing-integrations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.merge.dev/case-studies/payscale",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.merge.dev/case-studies/telnyx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.merge.dev/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.merge.dev/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.merge.dev/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.merge.dev/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.merge.dev/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.merge.dev/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.merge.dev/pricing/agent-handler",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.merge.dev/case-studies",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/62796ab9647626cbab663f42/66709716a7fcea8c6be11da7_BILL_BIG-284287e6.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/62796ab9647626cbab663f42/68b9a4d0baf5406dd8fb7f01_682f66c24fe02bf7ebe20592_Logo_Black%201.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.merge.dev/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/624b192df0b0151225c10026/691c498e0e193007a8f53548_partners_bg1%20(1).avif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000181315.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.dellows.jp/1001303/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asahi.com/and/pressrelease/17017960",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://genicpress.com/2335832/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/contract/basic/8378/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Municipal_mergers_and_dissolutions_in_Japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://devin.connpass.com/event/410814/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000181315.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mergeofficialonline.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://mergenit.com/case-study/revolutionizing-manufacturing-operations-mergen-streamlined-efficiency-and-cutting-costs-of-a-manufacturing-industry-client-with-its-servicenow-cloud-computing-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/merge",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/merge",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.appspace.com/resellers-alliances/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/merge",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/merge/__XhpqV6RJdbcb1aavEcry0SzlA9ybNgUQCv4UfTZxT7Q",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/merge",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/merge",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/jazzy_sable3268/n/nfaa745322dd6?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/note0701525/n/n149e44a8f7b7?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/pdnob_japan/n/nc42acadb2ed4?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/wakuwakubotto/n/n0d8844a05a38?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/mergeyourapp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mergelaunch",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/merge_api/status/2119891760973263338",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/merge_api",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/mergemoney/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/mmerge/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/queenietw",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://es.linkedin.com/in/paulapcortes",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/wearemergeworld/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mergeofficials/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://business.facebook.com/groups/6139665222787301/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mergeyourapp",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Merge 日本 導入",
+   "results": [
+    "https://prtimes.jp/main/html/rd/p/000000012.000181315.html",
+    "https://news.dellows.jp/1001303/",
+    "https://www.asahi.com/and/pressrelease/17017960",
+    "https://genicpress.com/2335832/",
+    "https://merge-tokyo.jp/",
+    "https://letter-release.jp/2026/11/03/54517/",
+    "https://trends.codecamp.jp/blogs/media/news-prt-181315-12"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Merge 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://partner-prop.com/lab/partner-business/agency/256/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Merge Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Municipal_mergers_and_dissolutions_in_Japan",
+    "https://devin.connpass.com/event/410814/",
+    "https://prtimes.jp/main/html/rd/p/000000012.000181315.html",
+    "https://www.mergeofficialonline.com/",
+    "https://iclg.com/practice-areas/merger-control-laws-and-regulations/japan",
+    "https://genicpress.com/2335832/",
+    "https://merge-tokyo.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Merge manufacturing customer case study",
+   "results": [
+    "https://mergenit.com/case-study/revolutionizing-manufacturing-operations-mergen-streamlined-efficiency-and-cutting-costs-of-a-manufacturing-industry-client-with-its-servicenow-cloud-computing-services",
+    "https://www.merge.dev/case-studies",
+    "https://www.casestudies.com/customer/merge",
+    "https://www.casestudies.com/company/merge",
+    "https://www.mergemfg.com/",
+    "https://www.appsruntheworld.com/customers-database/customers/view/merge-manufacturing-united-states",
+    "https://www.usepylon.com/case-study/merge"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Merge white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.seoreseller.com/",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://upcloud.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Merge founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/merge",
+    "https://tracxn.com/d/companies/merge/__XhpqV6RJdbcb1aavEcry0SzlA9ybNgUQCv4UfTZxT7Q",
+    "https://getlatka.com/companies/merge",
+    "https://startupintros.com/orgs/merge",
+    "https://tracxn.com/d/companies/merge/__xYwD7dM_7pSNeel_TsgZBaCMFhKGkmnJ6uteD5TtmNw",
+    "https://pitchbook.com/profiles/company/459033-58",
+    "https://pitchbook.com/profiles/company/496596-97"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Merge",
+   "results": [
+    "https://note.com/jazzy_sable3268/n/nfaa745322dd6?hl=en",
+    "https://note.com/note0701525/n/n149e44a8f7b7?hl=en",
+    "https://note.com/pdnob_japan/n/nc42acadb2ed4?hl=en",
+    "https://note.com/wakuwakubotto/n/n0d8844a05a38?hl=en",
+    "https://note.com/tasty_bison1529/n/n0539312f942b?hl=en",
+    "https://note.com/shugo/n/nec5195f72f42?hl=en",
+    "https://note.com/kuromitsutou7/n/nafb90b6c51e7"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Merge",
+   "results": [
+    "https://x.com/mergeyourapp",
+    "https://x.com/mergelaunch",
+    "https://x.com/merge_api/status/2119891760973263338",
+    "https://x.com/merge_api",
+    "https://x.com/mergelauncher",
+    "https://help.x.com/en/managing-your-account/managing-multiple-x-accounts",
+    "https://help.x.com/en/using-x/create-x-account"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Merge",
+   "results": [
+    "https://www.linkedin.com/company/mergemoney/",
+    "https://www.linkedin.com/company/mmerge/",
+    "https://uk.linkedin.com/in/queenietw",
+    "https://es.linkedin.com/in/paulapcortes",
+    "https://ca.linkedin.com/in/jim-stapleton-738a582",
+    "https://uk.linkedin.com/in/alexkeannyc",
+    "https://es.linkedin.com/in/paulapcortes/en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Merge",
+   "results": [
+    "https://www.facebook.com/wearemergeworld/",
+    "https://www.facebook.com/mergeofficials/",
+    "https://business.facebook.com/groups/6139665222787301/",
+    "https://lite.facebook.com/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/GameMergeVille/",
+    "https://business.facebook.com/groups/Longhorn/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Merge note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://nikkeimatome.com/?p=74703",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://diamond.jp/articles/-/314833?page=2"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Merge X 投稿",
+   "results": [
+    "https://x.com/mergeyourapp",
+    "https://app.mergex.io/",
+    "https://aistage.net/zh-tw/tool/merge-x/introduction",
+    "https://www.admergex.com/zh/product/mergex",
+    "https://merge-x.com/",
+    "https://x.com/Solomaker_dev/status/2112736061671543195",
+    "https://help.x.com/ja/using-x/edit-post"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部39頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部39頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部39頁・検索12回）"
+ }
+}

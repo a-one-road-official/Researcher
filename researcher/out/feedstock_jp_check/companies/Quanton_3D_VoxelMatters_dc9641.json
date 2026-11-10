@@ -1,0 +1,500 @@
+{
+ "name": "Quanton 3D — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:materials",
+ "researched_at": "2026-11-10T00:02:57.134172+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-products-resellers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/voxelmatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.report/database/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/@quanton3d",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://industrial.panasonic.com/jp/s-search/distributors",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.voxelmatters.com/wp-content/uploads/2024/11/VoxelMatters-VMFocus2024-eBook-Metal-AM.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/-/en/Additive-Manufacturing-Products/b?ie=UTF8&node=2500103051",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.aliexpress.us/item/3256809660336258.html?gatewayAdapt=jpn2usa4itemAdapt&_randl_shipto=US",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/blogs/blog/protopasta3d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.poly-maker.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kaunet.com/rakuraku/category/0/1/017/017014/0170140006/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-products-resellers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exone.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-products-resellers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.upnano.com/distributors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/-/en/Amazon-co-jp-Limited-Hisense-Recording-AirPlay2/dp/B0GZ7PJYPH",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://shigoto.amazon.co.jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://business.amazon.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/6892/1283/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/02385287/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00347026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fabbaloo.com/news/voxelmatters-reveals-top-ten-polymer-3d-printing-companies-dominating-the-market",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Quanton 3D — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.directory/company-category/3d-products-resellers/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.report/database/",
+    "https://www.voxelmatters.com/about/contact/",
+    "https://www.voxelmatters.group/",
+    "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "https://www.voxelmatters.directory/companies/",
+    "https://www.youtube.com/watch?v=Yy-d5VVZlxQ",
+    "https://quanton3d.com.br/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Quanton 3D — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.youtube.com/@quanton3d",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://industrial.panasonic.com/jp/s-search/distributors",
+    "https://www.quantsresearch.com/",
+    "https://www.loewe.com/jpn/ja/storeDetails?StoreID=JP1081107",
+    "https://www.okaberry-store.com/wholesale.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Quanton 3D — VoxelMatters 日本 販売",
+   "results": [
+    "https://www.voxelmatters.com/wp-content/uploads/2024/11/VoxelMatters-VMFocus2024-eBook-Metal-AM.pdf",
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://www.amazon.co.jp/-/en/Additive-Manufacturing-Products/b?ie=UTF8&node=2500103051",
+    "https://ja.aliexpress.com/item/1005009846651010.html",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://www.youtube.com/watch?v=DTtVyaPMzPM",
+    "https://optronics-media.com/monthly-post/97429/",
+    "https://www.rakuseimodel.co.jp/onlineshop/product_list_by_maker.php?sicode=249",
+    "https://www.rakuten.ne.jp/gold/intelogue/item/a101538040108000.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Quanton 3D — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.com/top-products/",
+    "https://skhonpo.com/blogs/blog/protopasta3d",
+    "https://www.poly-maker.jp/",
+    "https://www.kaunet.com/rakuraku/category/0/1/017/017014/0170140006/",
+    "https://www.monotaro.com/s/q-3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8%20%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/?srsltid=AYCX9vLkHXB_x7nsyQWh7oe98nVuAAgwHKxUvfJ9-Ct92MwRHcT9MmMn",
+    "https://www.matterhackers.com/store?srsltid=AYCX9vK8RK46SJFcl977kOvxj7XGvWJ3QqDZ7yLAXCjoIQWuQBJ9EloV",
+    "https://www.mutohshop.com/shopbrand/ct273/",
+    "https://search.rakuten.co.jp/search/mall/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/",
+    "https://www.amazon.co.jp/3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF-%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E7%B4%A0%E6%9D%90/b?ie=UTF8&node=3489859051"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Quanton 3D — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.directory/company-category/3d-products-resellers/",
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.exone.com/en/",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://www.upnano.com/distributors/",
+    "https://www.arkema.com/japan/en/products/3d-printing/",
+    "https://tethon3d.com/distributors/",
+    "https://unifiedsearch.jcdbizmatch.jp/nanotech2025/en/tct/product",
+    "https://www.voxelmatters.com/category/industry-2/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Quanton 3D — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/company-category/3d-products-resellers/",
+    "https://www.upnano.com/distributors/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://partners.solize.com/en/manufacturing",
+    "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "https://formlabs.com/company/press/formlabs-extends-global-presence-japan/",
+    "https://www.arkema.com/japan/en/products/3d-printing/",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:amazon.co.jp Quanton 3D — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/-/en/Amazon-co-jp-Limited-Hisense-Recording-AirPlay2/dp/B0GZ7PJYPH",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://shigoto.amazon.co.jp/",
+    "https://business.amazon.co.jp/",
+    "https://www.amazon.co.jp/-/en/Television-Supports-Internet-Terrestrial-Reception/dp/B0GY45GQML",
+    "https://business.amazon.co.jp/ja/login",
+    "https://music.amazon.co.jp/podcasts/a423dd39-fcc1-47de-869d-1e7730e3845a/the-energy-that-surrounds-us-and-tetsu-riding-through-the-unknown"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com Quanton 3D — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/p/6892/1283/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/g/02385287/",
+    "https://www.monotaro.com/g/00347026/",
+    "https://www.monotaro.com/p/1766/2383/",
+    "https://www.monotaro.com/s/c-23764/",
+    "https://www.monotaro.com/g/00683943/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Quanton 3D — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.directory/",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://www.fabbaloo.com/news/voxelmatters-reveals-top-ten-polymer-3d-printing-companies-dominating-the-market",
+    "https://www.voxelmatters.report/database/",
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://www.quantumrun.com/consulting/3d-printing-market-statistics/",
+    "https://revenuebase.ai/companies/browse/3d-additive-manufacturing-companies",
+    "https://www.youtube.com/watch?v=K-reePpsN6w",
+    "https://www.dnb.com/business-directory/company-profiles.quanton_3d_ltda.629f373cef5759ec530d482a942e5ae9.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Quanton 3D — VoxelMatters",
+   "results": [
+    "https://note.com/tag/プラグマタ",
+    "https://note.com/vcrmnfeconi/n/nda597ceb4af4",
+    "https://note.com/tag/Muse+Spark",
+    "https://note.com/izutsuya/n/neb8e5e44b82a?hl=en",
+    "https://note.com/ainest/n/n9b74153a30a3",
+    "https://note.com/minkabu_mag/n/nbf9bdd8b2161",
+    "https://note.com/para7mii/n/n036af9e505b2"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Quanton 3D — VoxelMatters",
+   "results": [
+    "https://x.com/3dheals",
+    "https://x.com/__ENNOVI",
+    "https://x.com/hashtag/quanton",
+    "https://x.com/voxelmatters",
+    "https://x.com/quantum3d",
+    "https://x.com/Quantum_aspx",
+    "https://x.com/i/status/2063162051695096144",
+    "https://x.com/Tibi3D/status/2119883241138135503",
+    "https://x.com/AIMeaning"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:linkedin.com Quanton 3D — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/posts/voxelmatters_f1-dutchgp-anoukwipprecht-activity-7496581237126459392-QYcc",
+    "https://www.linkedin.com/in/john-meckler-64629016b",
+    "https://uk.linkedin.com/in/pierre-lin-31741646",
+    "https://de.linkedin.com/in/alexander-legant-196a587a",
+    "https://il.linkedin.com/in/murielle-sayada-lugassy-6a543a31",
+    "https://www.linkedin.com/in/yisong-zhang-08b180329",
+    "https://it.linkedin.com/in/andreamantelli",
+    "https://nl.linkedin.com/in/zerafettenwoldecansizoglu",
+    "https://www.linkedin.com/posts/winano_we-are-incredibly-proud-to-celebrate-dr-activity-7482864147333054465--u_j",
+    "https://de.linkedin.com/in/rbrtj"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:facebook.com Quanton 3D — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/DiscoverRAPID/posts/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1581052767402713/",
+    "https://www.facebook.com/springfield.photos/posts/new-3d-printed-copper-technology-offers-a-high-efficiency-solution-to-the-data-c/27282616754702208/",
+    "https://www.facebook.com/QuanticaAM/",
+    "https://www.facebook.com/groups/766370360377385/posts/1893388624342214/",
+    "https://www.facebook.com/groups/quantumphysicsnews/posts/1880192158919599/",
+    "https://www.facebook.com/M.A.Ostrega/posts/from-article-gel-polymer-electrolytes-gpes-are-promising-materials-for-developin/10244397132493322/",
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/quanton3d/",
+    "https://www.facebook.com/groups/4775922445757326/",
+    "https://www.facebook.com/VoxelMatters/videos/2155326438344264/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Quanton 3D — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.report/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.voxelmatters.com/author/ben-oneill/",
+    "https://www.voxelmatters.group/",
+    "https://all3dp.com/4/growth-and-challenges-the-next-decade-of-metal-additive-manufacturing/",
+    "https://www.voxelmatters.directory/company-category/space/",
+    "https://www.youtube.com/watch?v=ROelPvge3O0",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Quanton 3D — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.report/",
+    "https://www.voxelmatters.com/1000x-faster-nanoscale-3d-printing/",
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.voxelmatters.group/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）"
+ }
+}

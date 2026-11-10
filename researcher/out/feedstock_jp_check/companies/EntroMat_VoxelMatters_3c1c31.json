@@ -1,0 +1,522 @@
+{
+ "name": "EntroMat — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:powder-manufacturer",
+ "researched_at": "2026-11-10T00:06:04.676654+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Davide Sher - Co-founder and CEO at VoxelMatters | LinkedInAshok Meghwal, PhD - CTO & Co-founder @ EntroMat | PhD ...Tess Boissonneault - Freelance Content Writer, Editor | LinkedInFederico Sher - Co-founder of VoxelMatters | LinkedInEntroMat Advances Sustainable High Entropy Materials at ... Apr 26, 2022 · Co-founder and CEO at VoxelMatters · As a journalist and entrepreneur with a passion for ad",
+    "url": "https://it.linkedin.com/in/davide-sher",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookFacebookThe next generation of peep tech isn't just software, it’s ...VoxelMatters on Reels - FacebookEugene Bogatov (@gosu) • Facebook, Connect with friendsAdditive manufacturing is creating new solutions for hard-to ...Brittany Thompson (@mackieleadiemsmomma) - Facebook VoxelMatters. 2,907 followers · 4 talking about this. The additive manufacturing insights that matter Co",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/entromat-delivers-australian-made-sustainable-hem-powders/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://entromat.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://breakthroughvictoria.com/media-releases/entromat/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/database/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.instagram.com/antenna_ts/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://industrial.panasonic.com/jp/s-search/distributors",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dexmat.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nanjixiong.com/thread-166732-1-1.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ja.aliexpress.com/item/1005009846651010.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.aichi-sangyo.co.jp/products/lpw/products.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.3dsystems.com/materials/pellet-materials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/collections/filament",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.poly-maker.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/global-am-hubs/japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exone.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/additive-japan-corporation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal-am.com/articles/the-current-status-and-outlook-for-metal-additive-manufacturing-in-japan/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E9%80%B1%E5%88%8A%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A-2026%E5%B9%B411%E6%9C%8819%E6%97%A5%E5%8F%B7-No-1970-%E9%80%B1%E5%88%8A%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E7%B7%A8%E9%9B%86%E9%83%A8/dp/B0HNSMCCCL",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://relay.amazon.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://shigoto.amazon.co.jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E8%B7%A1%E3%81%8C%E6%AE%8B%E3%82%89%E3%81%AA%E3%81%84%E3%83%86%E3%83%BC%E3%83%97/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/200v+%E3%81%8B%E3%82%89+100v+%E5%A4%89%E5%9C%A7+%E5%99%A8/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.monotaro.com/p/1766/2356/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/database/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://breakthroughvictoria.com/media-releases/entromat/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/entromat-delivers-australian-made-sustainable-hem-powders/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://it.linkedin.com/in/davide-sher",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "EntroMat — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/entromat-delivers-australian-made-sustainable-hem-powders/",
+    "https://entromat.com/about/",
+    "https://breakthroughvictoria.com/media-releases/entromat/",
+    "https://www.voxelmatters.report/database/",
+    "https://entromat.com/",
+    "https://www.voxelmatters.directory/company-category/powder-manufacturer/",
+    "https://www.voxelmatters.group/our-network/",
+    "https://www.voxelmatters.com/about/",
+    "https://www.3dlabmanufacturing.com/trusted-partners.html",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "EntroMat — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.instagram.com/antenna_ts/",
+    "https://industrial.panasonic.com/jp/s-search/distributors",
+    "https://dexmat.com/about/",
+    "https://www.instagram.com/popular/pokemon-golf-headcovers/",
+    "https://www.porsche.com/japan/jp/accessoriesandservice/vehicle-accessories/",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "EntroMat — VoxelMatters 日本 販売",
+   "results": [
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://www.nanjixiong.com/thread-166732-1-1.html",
+    "https://ja.aliexpress.com/item/1005009846651010.html",
+    "https://www.aichi-sangyo.co.jp/products/lpw/products.html",
+    "https://www.youtube.com/watch?v=6M8csskWCcI&vl=ja",
+    "https://sekapri.com/material/20251103-20058/",
+    "https://bdolytics.com/jp/market/item/7960?page=237",
+    "https://www.youtube.com/watch?v=U5HTyOcdKVY&vl=ja",
+    "https://news.infoseek.co.jp/article/prtimes_000000093_000126055/",
+    "https://entromat.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "EntroMat — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.com/top-products/",
+    "https://ja.3dsystems.com/materials/pellet-materials",
+    "https://skhonpo.com/collections/filament",
+    "https://www.poly-maker.jp/",
+    "https://www.matterhackers.com/store?srsltid=AYCX9vIk2BJwDhe03HTfZAAIaTjdjRqZu8-TFSXbIUCdDW5LHbC18aI0",
+    "https://shop.exmatelab.com/",
+    "https://www.raise3d.jp/ofp/pennat",
+    "https://www.mitajimuki.com/user_data/cate_fdm_print_supply.php?srsltid=AYCX9vKXXTSDWo7QiyXL7EtChU6SREhAr4KT3C9r10Q5jO6nyjh2cOY2",
+    "https://www.amazon.co.jp/Entina-3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8PLA%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%881-75mm-4%E8%89%B2%E3%82%BB%E3%83%83%E3%83%88%E3%80%81FDM-%E9%AB%98%E5%85%89%E6%B2%A2%E3%80%81%E5%AF%B8%E6%B3%95%E7%B2%BE%E5%BA%A6%C2%B10-02mm%E3%80%81200g%C3%974%E5%B7%BB-%E3%83%9E%E3%83%AB%E3%83%81%E3%82%AB%E3%83%A9%E3%83%BC%E6%9D%90%E6%96%99%EF%BC%88%E3%82%B7%E3%83%AB%E3%82%AF%E8%AA%BF-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC%EF%BC%8F%E3%83%96%E3%83%AD%E3%83%B3%E3%82%BA%EF%BC%8F%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%EF%BC%8F%E3%82%B5%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%83%96%E3%83%AB%EF%BC%89/dp/B0FY2S8L7F",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "EntroMat — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://www.voxelmatters.com/category/global-am-hubs/japan/",
+    "https://www.exone.com/en/",
+    "https://www.arkema.com/japan/en/products/3d-printing/",
+    "https://www.upnano.com/distributors/",
+    "https://all3dp.com/4/3d-printing-advanced-technology-center-opens-in-japan-to-spur-adoption-of-additive-manufacturing/",
+    "https://www.lithoz.com/en/all-about-us/salespartner/",
+    "https://www.mmts.co.jp/en/business/products/am-3d.html",
+    "https://entromat.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "EntroMat — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.voxelmatters.directory/company/additive-japan-corporation/",
+    "https://www.metal-am.com/articles/the-current-status-and-outlook-for-metal-additive-manufacturing-in-japan/",
+    "https://www.exone.com/en/",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://www.kinzoku.co.jp/en/core_technology/additive_manufacturing.html",
+    "https://www.additivejapan.com/japan-entry",
+    "https://www.fortunebusinessinsights.com/japan-3d-printing-market-114804",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp EntroMat — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/週刊ファミ通-2026年11月19日号-No-1970-週刊ファミ通編集部/dp/B0HNSMCCCL",
+    "https://relay.amazon.co.jp/",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://shigoto.amazon.co.jp/",
+    "https://music.amazon.co.jp/artists/B07S8K9CFJ/perfume",
+    "https://business.amazon.co.jp/ja/login",
+    "https://www.amazon.co.jp/ザ・グレイテスト-～モハメド・アリ、知られざる真実～-シーズン１/dp/B0HJDGSGPW"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com EntroMat — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/k/store/跡が残らないテープ/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/k/store/200v+から+100v+変圧+器/",
+    "https://www.monotaro.com/p/1766/2356/",
+    "https://www.monotaro.com/s/c-23764/",
+    "https://www.monotaro.com/g/02606446/",
+    "https://www.monotaro.com/g/00176641/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "EntroMat — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://www.voxelmatters.report/database/",
+    "https://breakthroughvictoria.com/media-releases/entromat/",
+    "https://www.voxelmatters.com/entromat-delivers-australian-made-sustainable-hem-powders/",
+    "https://www.voxelmatters.directory/",
+    "https://www.smartcompany.com.au/startupsmart/entromat-1-million-investment-breakthrough-victoria-swinburne/",
+    "https://revenuebase.ai/companies/additive-manufacturing-3d-printing-companies/australia",
+    "https://dealroom.co/companies/additive-manufacturing-technologies/",
+    "https://www.linkedin.com/posts/wholesale-investor_meet-entromat-one-of-the-presenting-companies-activity-7480108347875094528-bQj1",
+    "https://pitchbook.com/profiles/company/769692-16"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com EntroMat — VoxelMatters",
+   "results": [
+    "https://note.com/diparururun",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/kinzoku2/n/neeca4e1e4da3",
+    "https://note.com/sawady1815/n/ne270825bd78c",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com EntroMat — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/Em_Nomadic/status/2119097215931285937",
+    "https://x.com/itscelyunique/status/2117839228826521620",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/jocelynseip/status/2118260591680983528",
+    "https://x.com/CogitoEdu/status/2117911840973861028",
+    "https://x.com/HenkKrol/status/2117605061371310308"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com EntroMat — VoxelMatters",
+   "results": [
+    "https://au.linkedin.com/in/rob-kusters-17991766",
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/company/entromat-pty-ltd",
+    "https://it.linkedin.com/in/davide-sher",
+    "https://au.linkedin.com/in/ashok-meghwal-phd-787b0365",
+    "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "https://uk.linkedin.com/in/federico-sher",
+    "https://www.linkedin.com/posts/wholesale-investor_meet-entromat-one-of-the-presenting-companies-activity-7480108347875094528-bQj1"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:facebook.com EntroMat — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/",
+    "https://www.facebook.com/VoxelMatters/videos/2155326438344264/",
+    "https://www.facebook.com/gosu/",
+    "https://www.facebook.com/mackieleadiemsmomma/",
+    "https://www.facebook.com/wholesaleinvest/videos/the-next-generation-of-peep-tech-isnt-just-software-its-the-actual-material-the-/1012463711485902/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-creating-new-solutions-for-hard-to-source-replacement-/893346590210455/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "EntroMat — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/entromat-delivers-australian-made-sustainable-hem-powders/",
+    "https://entromat.com/innovative-solutions-for-mining-in-harsh-environments-high-entropy-alloys-and-the-circular-economy/",
+    "https://breakthroughvictoria.com/media-releases/entromat/",
+    "https://www.voxelmatters.report/",
+    "https://www.smartcompany.com.au/startupsmart/entromat-1-million-investment-breakthrough-victoria-swinburne/",
+    "https://www.linkedin.com/posts/wholesale-investor_meet-entromat-one-of-the-presenting-companies-activity-7480108347875094528-bQj1",
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.directory/company-category/space/",
+    "https://entromat.com/",
+    "https://au.linkedin.com/in/ashok-meghwal-phd-787b0365"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "EntroMat — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.youtube.com/@voxelmatters/videos",
+    "https://www.voxelmatters.report/",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.com/entromat-delivers-australian-made-sustainable-hem-powders/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.voxelmatters.group/",
+    "https://www.youtube.com/watch?v=EmUPG3n5KrQ",
+    "https://x.com/voxelmatters",
+    "https://entromat.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）"
+ }
+}

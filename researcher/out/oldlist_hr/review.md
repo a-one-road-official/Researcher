@@ -646,3 +646,114 @@
 ## Octaneai（https://www.octaneai.com）
 - 「日本語のサポート情報がもう少し充実していると安心です」（https://my-best.ai/ai-tools/octane-ai/）
 - 「AIツールの情報を、日本のユーザーに向けて紹介しませんか」（https://my-best.ai/ai-tools/octane-ai/）
+
+## Novatr（https://www.novatr.com）
+- 「4️⃣ The Toilet Project, Tokyo Japan」（https://www.youtube.com/@Novatr_official）
+
+## Nofraud（https://www.nofraud.com）
+- 「この開発者は日本語での直接的なサポートを提供していません」（https://apps.shopify.com/nofraud-chargeback-prevention-and-protection?locale=ja）
+
+## Ninetailed（https://www.contentful.com/products/personalization/）
+- 「Popular characters in Japanese myths and folklore, foxes, or」（https://www.roningallery.com/blog/the-tale-of-the-nine-tailed-fox-2?srsltid=AYCX9vJZaqM3897IcuorHiwOBlmkqGCVPUBzNyD11w9_VGnNWVgeb3ZQ）
+
+## NextLevel.AI（https://www.nextlevel.ai/）
+- 「including English, Spanish, French, German, Portuguese, Mandarin, Japanese, Hindi, and more — fine-tuned at both the voice (TTS) and language-model (LLM) layers.」（https://www.nextlevel.ai/）
+- 「including English, Spanish, French, German, Portuguese, Mandarin, Japanese, Hindi, and more — fine-tuned at both the voice (TTS) and language-model (LLM) layers.」（https://nextlevel.ai/）
+
+## Nanonets（https://nanonets.com）
+- 「Japan Tobacco International (JTI) is a leading international tobacco company and a member of the Japan Tobacco Group. JTI Ukraine holds a 22% market share in the Ukrainian tobacco market, selling iconic brands including Winston, Camel, and Sobranie.」（https://nanonets.com/customers/jti）
+- 「導入前の確認：日本語帳票と国内制度項目への対応を実帳票で確認したい」（https://ocr.miryo.ai/comparison/nanonets-ocr）
+- 「事前学習モデルの項目と自社スキーマを比較し、日本語精度とデータ保管条件を検証します」（https://ocr.miryo.ai/comparison/nanonets-ocr）
+- 「Roche is the world's largest biotech company and a global leader in in-vitro diagnostics and cancer treatment. Operating in over 100 countries with more than 100,000 employees, Roche serves patients through both its Pharmaceuticals and Diagnostics divisions.」（https://nanonets.com/customers/roche）
+
+## Modjo（https://www.modjo.ai/）
+- 「昨年、日本中のクラブでもかかりまくり話題になったことも記憶に新しい」（https://www.universal-music.co.jp/modjo/news/2012-03-20010911news/）
+- 「Japanese edition bonus tracks」（https://en.wikipedia.org/wiki/Modjo_(album)）
+
+## Modash（https://modash.io）
+- 「We pay creators in 180+ countries in their local currency. Whether they're in the US, UK, Brazil, or Japan, we've got you covered.」（https://www.modash.io/influencer-payments）
+- 「Modash supports payments in 180+ countries and 36 currencies. Your balance can be in USD, GBP, or EUR. Whether your creators are in the US, UK, Brazil, or Japan, they'll get paid in their local currency.」（https://help.modash.io/en/articles/13715679-how-creators-get-paid）
+
+## Mitchell1（https://www.mitchell1.com）
+- 「日本語 - Mitchell 1 がデータベースを最適化し、市場シェアを拡大」（https://www.progress.com/jp/customers/mitchell-1）
+- 「Progress と、ここで使用される特定の商品名は、Progress Software Corporation、そして/または 米国内もしくはその他の国の子会社あるいは関連会社の１つ、の商標、または登録商標です」（https://www.progress.com/jp/customers/mitchell-1）
+
+## Mindtickle（https://www.mindtickle.com/）
+- 「一方、公式の顧客事例は海外企業に偏り、日本国内の導入事例は公式サイト上で確認できなかった」（https://sales-ai-compass.jp/ai-tools/mindtickle/）
+- 「, led by Japan’s」（https://economictimes.indiatimes.com/tech/funding/softbank-leads-mindtickles-100-million-round-valuation-doubles-to-about-500m/articleshow/79238449.cms）
+
+## Mindfi（https://www.mindfi.co）
+- 「Mental Health Providers - Japan - MindFi | Career Page」（https://www.careers-page.com/mindfi-2/job/8XXY475V）
+- 「Mental Health Providers - Japan」（https://www.careers-page.com/mindfi-2/job/8XXY475V）
+- 「About the job Mental Health Providers - Japan」（https://www.careers-page.com/mindfi-2/job/8XXY475V）
+
+## Mayan（https://www.mayan.co）
+- 「In this article, we will look separately at the ancient calendar, the Mayan traditions that continue today, the Dreamspell assembled at the end of the 20th century, and the modern Mayan calendar divination popular in Japan.」（https://note.com/xshibuxshibux/n/nb45dd7cd560e?hl=en）
+- 「One example of modern Mayan calendar divination in Japan explains the Solar Seal as the conscious mind and the Wavespell as the subconscious mind. Here, the symbols of the calendar are used as words to read the parts of yourself that appear on the surface and the parts that are difficult to be aware」（https://note.com/xshibuxshibux/n/nb45dd7cd560e?hl=en）
+- 「Japan Mayan Calendar Therapist Association's Wavespell Explanation」（https://note.com/xshibuxshibux/n/nb45dd7cd560e?hl=en）
+- 「Don't miss out on having your company listed on the world's」（https://www.featuredcustomers.com/vendor/mayan/case-studies）
+
+## MaxContact（https://www.maxcontact.com/）
+- 「日本をはじめとするアジア地域の走行環境とドライバーの要求に応えるために開発された、コストパフォーマンスの高いスポーツタイヤ」（https://www.continental-tires.com/jp/ja/products/car/tires/maxcontact-mc6/）
+- 「スタイリッシュにスポーティにドライビングを楽しむタイヤ ※日本では夏タイヤです」（https://www.continental-tires.com/jp/ja/products/car/tires/maxcontact-mc6/）
+- 「スタイリッシュにスポーティにドライビングを楽しむタイヤ ※日本では夏タイヤです」（https://www.continental-tires.com/jp/ja/products/car/tires/maxcontact-mc7/）
+
+## Matroid（https://www.matroid.com/）
+- 「と思っていたのだが, 筑波大学数学系にあった「中澤武雄の業績」というページ (今は存在しない) によると, どうやら同じ1935年に日本でも独立に」（http://pantodon.jp/index.rb?body=matroid）
+- 「, was developed by R&D1 and released in Japan on August 6, 1986.」（https://en.wikipedia.org/wiki/Metroid）
+- 「console in 1991 in North America and in 1992 in Japan and Europe. It further established」（https://en.wikipedia.org/wiki/Metroid）
+
+## Mashgin（https://www.mashgin.com）
+- 「2023年中に日本進出へ 小売業との直接取引を望む」（https://techblitz.com/startup-interview/mashgin/）
+- 「日本企業の顧客はまだいませんが、重要な市場だと位置づけています」（https://techblitz.com/startup-interview/mashgin/）
+- 「当社は、2023年中に日本への進出を目指しています」（https://techblitz.com/startup-interview/mashgin/）
+
+## MarketBetter（https://www.marketbetter.ai）
+- 「Most of our customers sell globally. IoT connectivity deals in Germany and Japan, EHS compliance deals across five European markets, logistics deals in Brazil. Their buyers read email in their own language — and reply rates show it.」（https://marketbetter.ai/blog/）
+- 「Czech, Dutch, French, German, Greek, Hungarian, Italian, Japanese, Korean, Polish, Portuguese (Brazilian and European), Romanian, Spanish (Castilian and Latin American), Turkish, and Ukrainian.」（https://marketbetter.ai/blog/）
+- 「QX Global Group is a business-process management company headquartered in the UK, with about 3,000 employees. It works in accounting, real estate, staffing and insurance.」（https://marketbetter.ai/case-studies/qx-global-group）
+
+## Marathon（https://www.marathon.edu.vn）
+- 「日本歴代10傑」（https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%A9%E3%82%BD%E3%83%B3）
+- 「日本国内で初めてマラソン公認コースを競技として走った女性は、1975年7月26日に」（https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%A9%E3%82%BD%E3%83%B3）
+- 「で開催され、続いて日本初の女性限定マラソン大会として女子タートルフルマラソン全国大会（多摩湖女子マラソン大会とも）が」（https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%A9%E3%82%BD%E3%83%B3）
+
+## Makrwatch（https://www.makrwatch.com）
+- 「Bokksu is a NYC and Tokyo-based startup that partners with Japanese snack and candy producers to bring the best snacks Japan has to offer in the form of a monthly themed subscription box. Each month, artisanal snacks are curated from a variety of small family-owned businesses and shipped directly fr」（https://makrwatch.com/case-studies/bokksu）
+- 「“After living in Japan, founder Danny Taing couldn’t give up the delicious snacks he had discovered.” That is how Bokksu describes its origins in 2016. Originally a one-person team (with Danny packing snacks in his living room), the company had grown to 10 employees by the time they first reached ou」（https://makrwatch.com/case-studies/bokksu）
+- 「After sharing their goals with Makrwatch, we set up a pilot program for Bokksu, aiming to find top-notch creators within their niche. They specifically wanted to work with creators who talked about Japan or Japanese culture and food, a smaller niche by YouTube standards.」（https://makrwatch.com/case-studies/bokksu）
+
+## Lumibot（https://www.lumina.ai/）
+- 「力制御0.02ニュートン、能動冷却関節も 中国「LumiBot」、ロボットハンドで存在感 - 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア」（https://36kr.jp/500171/）
+- 「（36Kr Japan編集部）」（https://36kr.jp/500171/）
+- 「日本企業のDXを促進するプラットフォーム「CONNECTO」」（https://36kr.jp/500171/）
+- 「中国の上場企業、1～9月純利益8.5％増 半導体関連は2.9倍、ハイテク産業がけん引」（https://36kr.jp/500171/）
+
+## Loyaltylion（https://loyaltylion.com）
+- 「：「◯ポイント＝◯円割引」と必ず日本円換算で明記する」（https://kikushiru.net/2026/01/14/%E3%83%AD%E3%82%A4%E3%83%A4%E3%83%AB%E3%83%86%E3%82%A3%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E6%A7%8B%E7%AF%89%EF%BC%9Aloyaltylion%E6%B4%BB%E7%94%A8%E8%A1%93/）
+- 「【Shopify最新ニュース2026】Shopify Japan が10月の国内販売動向を発表、寝具とアウトドア用品が伸長」（https://kikushiru.net/2026/01/14/%E3%83%AD%E3%82%A4%E3%83%A4%E3%83%AB%E3%83%86%E3%82%A3%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E6%A7%8B%E7%AF%89%EF%BC%9Aloyaltylion%E6%B4%BB%E7%94%A8%E8%A1%93/）
+- 「【Shopify最新ニュース2026】Track with Shop が日本とシンガポールへ、Shop も日本語に」（https://kikushiru.net/2026/01/14/%E3%83%AD%E3%82%A4%E3%83%A4%E3%83%AB%E3%83%86%E3%82%A3%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E6%A7%8B%E7%AF%89%EF%BC%9Aloyaltylion%E6%B4%BB%E7%94%A8%E8%A1%93/）
+
+## Loopreturns（https://www.loopreturns.com）
+- 「【Shopify最新ニュース2026】Shopify Japan が10月の国内販売動向を発表、寝具とアウトドア用品が伸長」（https://kikushiru.net/2026/05/01/loop-returns%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%EF%BD%9C%E5%A4%9A%E6%A9%9F%E8%83%BD%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%A7%E7%B7%8F%E5%90%88%E7%9A%84/）
+- 「【Shopify最新ニュース2026】Track with Shop が日本とシンガポールへ、Shop も日本語に」（https://kikushiru.net/2026/05/01/loop-returns%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%EF%BD%9C%E5%A4%9A%E6%A9%9F%E8%83%BD%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%A7%E7%B7%8F%E5%90%88%E7%9A%84/）
+- 「EC向け返品交換処理プラットフォーム「Loop Returns」：シリーズAで約11億円を調達 - 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア」（https://36kr.jp/49926/）
+
+## Littledata（https://www.littledata.io）
+- 「この開発者は日本語での直接的なサポートを提供していません」（https://apps.shopify.com/littledata?locale=ja）
+
+## Liftigniter（https://www.thearenagroup.net/liftigniter）
+- 「日本ではNTTドコモのほか、リクルートのオンライン通販サイト「ポンパレモール」がページ内の「あなたへのおすすめ」のところでLiftIgniterを導入している」（https://active.nikkeibp.co.jp/atclact/active/14/530956/031500056/）
+- 「Don't miss out on having your company listed on the world's」（https://www.featuredcustomers.com/vendor/liftigniter/case-studies）
+
+## Lemlist（https://www.lemlist.com）
+- 「日本国内のB2B市場でも、インサイドセールスの生産性向上を目的として導入が進んでいます」（https://saasnavi.net/blog/lemlist-vs-reply-io-comparison-2026/）
+- 「A. UIは英語のみですが、メール本文作成では日本語の入力・配信に完全対応しています」（https://ai-biz-tools.com/blog/lemlist-setup/）
+- 「変数機能（「firstName」等）も日本語データで正常に動作し、日本語件名でのA/Bテストも可能です」（https://ai-biz-tools.com/blog/lemlist-setup/）
+- 「Don't miss out on having your company listed on the world's」（https://www.featuredcustomers.com/vendor/lemlist/case-studies）
+
+## Leena（https://leena.ai）
+- 「一方、この手の社内対応の業務は、こと日本においては、若手・新卒の大事な仕事の一つ、という印象があります」（https://note.com/t_tkyk/n/n258dda11273e）
+- 「だった母親のもと9歳までを中国で育ち、父親の日本企業への就職に伴い10歳で来日」（https://ja.wikipedia.org/wiki/%E6%A2%A8%E8%A1%A3%E5%90%8D）
+- 「家庭環境の影響で日本語/中国語/英語が堪能で特技は」（https://ja.wikipedia.org/wiki/%E6%A2%A8%E8%A1%A3%E5%90%8D）
+- 「How CHRISTUS Health drove AI adoption across 51,000 employees」（https://leena.ai/）

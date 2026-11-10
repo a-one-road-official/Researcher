@@ -1,0 +1,1493 @@
+{
+ "name": "Moveworks",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-09T23:52:12.575207+00:00",
+ "official_url": "https://www.moveworks.com",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "ARR",
+    "value": "$100M",
+    "url": "https://getlatka.com/companies/moveworks",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$305M",
+    "url": "https://getlatka.com/companies/moveworks",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "The AI Assistant platform for your entire workforce to search and act across business applications.",
+    "url": "https://www.moveworks.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Agentic AI that works for your entire workforce",
+    "url": "https://www.moveworks.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The secure AI harness built for enterprise execution",
+    "url": "https://www.moveworks.com/",
+    "pass": 1
+   },
+   {
+    "quote": "that orchestrates enterprise-ready LLMs and built-in tools for AI agents to redefine workplace productivity. It autonomously understands, plans, executes, and adapts to complete any request — securely, from end-to-end.",
+    "url": "https://www.moveworks.com/",
+    "pass": 1
+   },
+   {
+    "quote": ". Moveworks delivers hundreds of plugins and connectors to simplify setups enterprise-wide, frameworks to integrate with all your systems, platform management with analytics for fine-tuning, and low/vibe-code tool builders for AI agents — all with controls.",
+    "url": "https://www.moveworks.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We need AI that can handle the complexity of healthcare while maintaining compliance and security for our 300,000 colleagues across IT, HR, and procurement. The goal is to automate repetitive tasks so our teams can focus on delivering outstanding care and experiences to the 185 million people we serve.\"",
+    "url": "https://www.moveworks.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sr. Manager Global Productivity, Automation & Service Management,",
+    "url": "https://www.moveworks.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Instead of getting bogged down in tier-1 requests, we could take on big-picture initiatives, like improving our in-office tech, building out new departmental workflows, and forming an IT business partner model.”",
+    "url": "https://www.moveworks.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We were not looking for an IT or HR agent, we were looking for a true enterprise [assistant] so that people are they getting the right information with just having a conversation with the bot - simple conversations can trigger actions, can trigger conversations, can trigger responses and also keep the data safe.”",
+    "url": "https://www.moveworks.com/",
+    "pass": 1
+   },
+   {
+    "quote": "enterprise-wide deployment",
+    "url": "https://www.moveworks.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See our approach to secure AI",
+    "url": "https://www.moveworks.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise AI that meets your business needs — all in one platform",
+    "url": "https://www.moveworks.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Curated sets of AI agents to power enterprise demands",
+    "url": "https://www.moveworks.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our agentic Reasoning Engine enables turnkey, enterprise-wide automation — planning, executing, and adapting on the fly to complete any request.",
+    "url": "https://www.moveworks.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Built-in capabilities deliver value on day one — no model tuning, prompt chaining or advanced engineering required, with substantial ROI in just weeks.",
+    "url": "https://www.moveworks.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trust, security, and data privacy by design for responsible Al governance (ISO 27001, SOC 2, HIPAA, GDPR, FedRAMP, etc.).",
+    "url": "https://www.moveworks.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How CVS Health built one AI front door for its workforce",
+    "url": "https://www.moveworks.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Read the press release",
+    "url": "https://www.moveworks.com/",
+    "pass": 1
+   },
+   {
+    "quote": "100+ Real-World AI Agent Use Cases For The Enterprise",
+    "url": "https://www.moveworks.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover 100+ enterprise AI agent use cases and learn how agentic AI delivers automation that’s dynamic, scalable, and built to last.",
+    "url": "https://www.moveworks.com/",
+    "pass": 1
+   },
+   {
+    "quote": "5 ways to improve your AI security",
+    "url": "https://www.moveworks.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A practical guide for CHROs and CIOs evaluating AI platforms for employee experience that separate a real solution from a chat interface.",
+    "url": "https://www.moveworks.com/",
+    "pass": 1
+   },
+   {
+    "quote": "What Is an AI Governance Strategy for Enterprises?",
+    "url": "https://www.moveworks.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Build a practical AI governance strategy with policies, roles, risk controls, and compliance steps to deploy AI safely and at scale.",
+    "url": "https://www.moveworks.com/",
+    "pass": 1
+   },
+   {
+    "quote": "You don't have permission to access \"http://www.servicenow.com/jp/company/media/press-room/moveworks.html\" on this server.",
+    "url": "https://www.servicenow.com/jp/company/media/press-room/moveworks.html",
+    "pass": 3
+   },
+   {
+    "quote": "2024年12月31日時点で、ServiceNowのAI顧客数は約1,000社に達し、Pro Plus AIソリューションのACV(年間契約額)は2億ドルを突破しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000150.000029239.html",
+    "pass": 3
+   },
+   {
+    "quote": "移動時間の価値を高める──JR東海が「Supreme Class」に込めた思い",
+    "url": "https://forbesjapan.com/articles/detail/73945",
+    "pass": 3
+   },
+   {
+    "quote": "テレビの先にある新たなリーチ サテライトオフィスがPrime Video広告を選んだ理由",
+    "url": "https://forbesjapan.com/articles/detail/73945",
+    "pass": 3
+   },
+   {
+    "quote": "You don't have permission to access \"http://www.servicenow.com/jp/company/media/press-room/completed-acquisition-of-moveworks.html\" on this server.",
+    "url": "https://www.servicenow.com/jp/company/media/press-room/completed-acquisition-of-moveworks.html",
+    "pass": 3
+   },
+   {
+    "quote": "Rehab & Training Expertise",
+    "url": "https://www.moveworks-25.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "of irrelevant resources leads to information overload, making it difficult for employees to find what they need.",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "to become a common solution to this problem as AI can",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "per week in internal communications. With the integration of natural language processing (NLP) and machine learning, as of October 2024, chatbots",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "and interpret a wider range of human language and intent. They can provide answers by",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "with backend systems of the business, recognizing who they’re talking to, and providing personalized support. AI chatbots could help modernize internal communication and improve operational efficiency by enhancing access to information and reducing administrative burdens.",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "350 enterprise",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "(President),",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "the idea of a digital briefing book that could prepare users with key insights, leading him to found",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "software products including Sefaira Concept: the world’s first web-based building design analysis software. In",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": ", Singh started a new role as a lead product manager for recruiting products at Facebook. He",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "at Yahoo! In December 2009, he joined Google as a staff software engineer where he was a tech lead on the Open Domain question/answering project. The project went live in",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": ". He then founded ClearStory Data, a cloud-based, interactive data analytics and visualization product that was acquired by Alteryx for",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "that there was a pressing, unsolved problem of inefficient IT help desk processes. When employees needed help with simple troubleshooting or had questions, they’d have to",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "and resolve common employee questions, automate repetitive tasks, and help reduce response times, improving both efficiency and employee experience.",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "Moveworks’ core product is a generative AI chatbot copilot designed for enterprise use. The Copilot",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "enterprise employees and end customers to engage with a single, conversational interface that",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "the precise information they are seeking, without leaving their current workflow.",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "in all the resources that an enterprise has across its systems into its",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": ". These documents are broken into snippets, and the product’s",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "functionality enables it to intelligently search the Enterprise Cache for the most",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": ", Moveworks expanded beyond the IT support use cases to provide modules for HR, finance, facilities, and employee communications. Nivarghi",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "that IT was where Moveworks validated its product, but that it “extends very naturally to other corporate functions.”",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "use cases for marketing, sales, and engineering teams. For example, marketers can use Copilot to",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "metrics on their ongoing social media campaign or generate ad copy for a project.",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "Launched in October 2024, Moveworks' enterprise search feature",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "Cyber Workforce Development",
+    "url": "https://www.carahsoft.com/moveworks/resources/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Solutions for Public Sector, Commercial, and Enterprise",
+    "url": "https://www.carahsoft.com/moveworks/resources/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "As The Trusted IT Solutions Provider™, Carahsoft has the solutions you need on contracts that make acquisition simple, and with fast, customer-focused service you deserve.",
+    "url": "https://www.carahsoft.com/moveworks/resources/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "As the Master Aggregator™ and distributor for the industry's leading IT manufacturers, Carahsoft supports and enables a vibrant and growing partner ecosystem of: Solution Providers, Value-Added Resellers, Prime Contractors, System Integrators, and Managed Service Providers.",
+    "url": "https://www.carahsoft.com/moveworks/resources/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Broadcom, a designer, developer, manufacturer, and global supplier of a range of semiconductor and infrastructure software products, had a mission: a zero help desk. With Moveworks, the $23 billion enterprise with over 19,000 employees has resolved over 75,000 IT issues, 55% of which were solved autonomously.",
+    "url": "https://www.carahsoft.com/moveworks/resources/customer-stories",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Deployed globally across manufacturing, healthcare, financial services, and government entities with FedRAMP® authorization.",
+    "url": "https://www.moveworks.com/",
+    "pass": 1
+   },
+   {
+    "quote": "EX use cases used by CVS Health, Siemens, and Medtronic",
+    "url": "https://www.moveworks.com/",
+    "pass": 1
+   },
+   {
+    "quote": "the development of an NLU-driven bot in Facebook Messenger, that was used by",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "retail employees in brick-and-mortar stores, manufacturing employees on the shop or factory floor, field workers going door-to-door, and independent contractors.",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "manufacturing employees in the US.",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "Defense Industrial Base",
+    "url": "https://www.carahsoft.com/moveworks/resources/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Technology Manufacturers",
+    "url": "https://www.carahsoft.com/moveworks/resources/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Carahsoft is the largest partner, distributor, and Master Aggregator™ for the industry's leading software manufacturers.",
+    "url": "https://www.carahsoft.com/moveworks/resources/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Technology Manufacturer",
+    "url": "https://www.carahsoft.com/moveworks/resources/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "As the Master Aggregator™ and distributor for the industry's leading IT manufacturers, Carahsoft supports and enables a vibrant and growing partner ecosystem of: Solution Providers, Value-Added Resellers, Prime Contractors, System Integrators, and Managed Service Providers.",
+    "url": "https://www.carahsoft.com/moveworks/resources/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Broadcom, a designer, developer, manufacturer, and global supplier of a range of semiconductor and infrastructure software products, had a mission: a zero help desk. With Moveworks, the $23 billion enterprise with over 19,000 employees has resolved over 75,000 IT issues, 55% of which were solved autonomously.",
+    "url": "https://www.carahsoft.com/moveworks/resources/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Explore all our Technology Manufacturers",
+    "url": "https://www.carahsoft.com/moveworks/resources/customer-stories",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "employees rely on Moveworks",
+    "url": "https://www.moveworks.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Al that works where employees do — chat, browsers, intranets, service portals, etc. and speaks their language fluently.",
+    "url": "https://www.moveworks.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ServiceNow(NYSE: NOW)は本日、Moveworksの買収に関する最終合意の締結を発表しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000150.000029239.html",
+    "pass": 3
+   },
+   {
+    "quote": "一方Moveworksは、Agentic AIのアーキテクチャとユーザー体験の最前線に立つ500人以上のAI専門チームを擁し、Hearst、Instacart、Palo Alto Networks、Siemens、トヨタ、UnileverといったFortune 500およびGlobal 2000企業において、AIアシスタントの採用が急速に進んでいます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000150.000029239.html",
+    "pass": 3
+   },
+   {
+    "quote": "ServiceNow(NYSE: NOW)はAIを人々のために活用しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000150.000029239.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在、Hearst、Instacart、Palo Alto Networks、Siemens、トヨタ、Unileverなどを含む、Fortune 500の10％を含む350社以上の大手企業と500万人以上の従業員がMoveworksを利用しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000150.000029239.html",
+    "pass": 3
+   },
+   {
+    "quote": "同社は24日、現在の月間サブスク数および契約に基づく今後12カ月の年間経常収益（ARR）が1億ドル（約144億円）を超えたと発表した",
+    "url": "https://forbesjapan.com/articles/detail/73945",
+    "pass": 3
+   },
+   {
+    "quote": "大規模言語モデル（LLM）の構築を行う評価額55億ドル（約8054億円）のCohere（コヒア）のARRは今年7月時点で3500万ドル（約51億円）だとテック系ニュースサイトのザ・インフォメーションは報道",
+    "url": "https://forbesjapan.com/articles/detail/73945",
+    "pass": 3
+   },
+   {
+    "quote": "同じくテックメディアのテッククランチによると、企業向けAI検索ツールを提供している評価額7億ドル（約1024億円）のHebbia（ヘビア）の7月時点でのARRは1300万ドル（約19億円）だった",
+    "url": "https://forbesjapan.com/articles/detail/73945",
+    "pass": 3
+   },
+   {
+    "quote": "You don't have permission to access \"http://www.servicenow.com/jp/company/media/press-room/completed-acquisition-of-moveworks.html\" on this server.",
+    "url": "https://www.servicenow.com/jp/company/media/press-room/completed-acquisition-of-moveworks.html",
+    "pass": 3
+   },
+   {
+    "quote": "【AI相場が焼け野原?】米国中間選挙、民主党圧勝はAIへの「反撃の狼煙」／ツルハシ銘柄が一気に崩れる／アンソロピック上場見送り可能性も／AIへの逆襲は全世界で起こる《エミン・ユルマズ徹底解説》",
+    "url": "https://www.youtube.com/watch?v=_aoTBuqiW8Q",
+    "pass": 3
+   },
+   {
+    "quote": "each day searching for information to answer a question about anything from PTO to a bug in their computer. Employees who submit IT quests often have to wait for days before a support team fulfills their request.",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "of employees attribute this excessive time spent searching for information to the overwhelming number of SaaS applications they navigate. As of 2023, businesses used an average of",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "of irrelevant resources leads to information overload, making it difficult for employees to find what they need.",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "common themes and trends from employees to best address their questions. A 2023 study found that AI can help employees of an organization save up to",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "workplace support tasks, helping companies resolve employee issues like IT or PTO questions without having to rely on employees. Its AI Copilot",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "of apps that employees may already use like Slack and Microsoft Teams so they can get their questions answered instantly, without interrupting their workflows. As of October 2024, Moveworks serves over",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "its revenue from $30 million to $450 million over five years. Leapfrog was an educational entertainment developer for children.",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "Facebook employees to streamline the",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "as a software engineer at Aster Data, which was acquired for",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": ". He then founded ClearStory Data, a cloud-based, interactive data analytics and visualization product that was acquired by Alteryx for",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "that there was a pressing, unsolved problem of inefficient IT help desk processes. When employees needed help with simple troubleshooting or had questions, they’d have to",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "enterprise employees and end customers to engage with a single, conversational interface that",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "can deploy Copilot to immediately answer employees’ insurance coverage questions or onboard new employees. Alternatively, finance teams can seamlessly",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "employees to access necessary information directly from their primary communication tools, such as Slack and Microsoft Teams, where Moveworks is embedded, enabling access to organizational knowledge.",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "to use natural language processing (NLP) to interpret employees' questions and locate relevant information, whether it’s in the form of documents, tickets, FAQs, or other content types. Moveworks' use of NLP means the search can",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "redundant support tickets and minimizes time spent searching for resources, aiming to improve overall productivity by centralizing access to the knowledge employees need across the organization’s ecosystem.",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "employees to make requests and receive help within the chat platforms they already use daily, minimizing the need to switch between applications. By automating certain repetitive or predictable tasks, the service management product",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "MoveLM, Moveworks’ proprietary LLM that is a part of its service management product and released in",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": ", was designed explicitly to understand and solve the unique problems that enterprise employees face. It was trained on over",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "to eliminate delays by automating the approval and configuration process. With this system, employees can obtain the resources they need without manual intervention, helping",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "with an organization’s existing IT infrastructure to ensure that permissions are managed according to security policies while minimizing time spent on administrative tasks. The goal is to allow employees to securely access essential tools like requesting PTO or resetting passwords, all through an autonomous system.",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "of enhancing both operational efficiency and employee experience without a clear understanding of the obstacles their employees encounter. This lack of insight often hampers their ability to proactively address issues and improve productivity. Recognizing this need, Moveworks introduced Employee Experience Insights (EXI) in",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "tickets from across the enterprise to identify the most frequent issues reported by employees — making it easier for users to identify and address knowledge gaps. These issues are displayed in the Knowledge Studio interface which users can click on to begin editing the draft generated using employee conversations with the Copilot.",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "interview, Shah stated that Moveworks aims “to make work easier for employees, and act as the bridge to information locked in systems across their organization.” Moveworks was",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "2K employees",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "As The Trusted IT Solutions Provider™, Carahsoft has the solutions you need on contracts that make acquisition simple, and with fast, customer-focused service you deserve.",
+    "url": "https://www.carahsoft.com/moveworks/resources/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Broadcom, a designer, developer, manufacturer, and global supplier of a range of semiconductor and infrastructure software products, had a mission: a zero help desk. With Moveworks, the $23 billion enterprise with over 19,000 employees has resolved over 75,000 IT issues, 55% of which were solved autonomously.",
+    "url": "https://www.carahsoft.com/moveworks/resources/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "At the global, public cybersecurity company Palo Alto Networks, over 90% of its 10,000+ employees have used Moveworks. The company resolves over 4,000 issues every month with Moveworks and has saved its hybrid workforce 351,000 hours of productivity by solving their issues in seconds.",
+    "url": "https://www.carahsoft.com/moveworks/resources/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Leidos is a Fortune 500® federal technology innovator addressing global challenges in national security, health, and other critical sectors with 47,000 employees worldwide. Leidos deflected more than 3,000 routine IT issues every month with Moveworks and reduced mean time to resolution from 47 hours to 15 min.​​​​​​​",
+    "url": "https://www.carahsoft.com/moveworks/resources/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Moveworks: Revenue, Competitors, Alternatives",
+    "url": "https://growjo.com/company/Moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and Competitors",
+    "url": "https://growjo.com/company/Moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/Moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/Moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated revenue per employee is $",
+    "url": "https://growjo.com/company/Moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "Moveworks current customers are large enterprise companies that have more than 1,000 employees with medium to high levels of IT service management maturity.",
+    "url": "https://growjo.com/company/Moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "Moveworks Revenue 2024: $100M ARR, Acquired for $2.8B",
+    "url": "https://getlatka.com/companies/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, acquisition & funding",
+    "url": "https://getlatka.com/companies/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "Moveworks was acquired in 2025.",
+    "url": "https://getlatka.com/companies/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "Moveworks revenue & ARR",
+    "url": "https://getlatka.com/companies/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "Moveworks' annual recurring revenue was $100M in November 2024, its last figure before its buyer bought it (moveworks.com).",
+    "url": "https://getlatka.com/companies/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "All 4 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "Moveworks CEO, founders & employees",
+    "url": "https://getlatka.com/companies/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "Bhavin Shah founded Moveworks in 2016 with Vaibhav Nivargi, Varun Singh and Jiang Chen and led it as CEO. Moveworks had 650 employees (2025, PitchBook estimate), up from 554 a year earlier.",
+    "url": "https://getlatka.com/companies/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "What was Moveworks' revenue?",
+    "url": "https://getlatka.com/companies/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "Before it was acquired, Moveworks' annual recurring revenue was",
+    "url": "https://getlatka.com/companies/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "across three funding rounds before it was acquired. The last was a $200M Series C in June 2021, led by Tiger Global and Alkeon Capital.",
+    "url": "https://getlatka.com/companies/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Moveworks have?",
+    "url": "https://getlatka.com/companies/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/moveworks",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "below to get customized recommendations — no email required.",
+    "url": "https://www.moveworks.com/",
+    "pass": 1
+   },
+   {
+    "quote": ", Mercari US deployed its Moveworks Copilot, which helped employees solve a variety of problems such as resetting passwords, editing email groups, troubleshooting devices, and more.",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "partners@carahsoft.com",
+    "url": "https://www.carahsoft.com/moveworks/resources/customer-stories",
+    "pass": 3
+   },
+   {
+    "quote": "B2B email lists",
+    "url": "https://growjo.com/company/Moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Email Finder",
+    "url": "https://growjo.com/company/Moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "in order to process and fulfill new requests; for example, answering policy questions, accessing software, and editing email groups. As of October 2021, Moveworks is capable of resolving requests written in across 100+ languages.",
+    "url": "https://en.wikipedia.org/wiki/Moveworks",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "ServiceNow、Moveworks買収により、すべての部門のあらゆる従業員に先進的Agentic AIを拡張 | ServiceNow Japan合同会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000150.000029239.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都港区赤坂赤坂1-12-32",
+    "url": "https://prtimes.jp/main/html/rd/p/000000150.000029239.html",
+    "pass": 3
+   },
+   {
+    "quote": "「実務で使える」生成AIを提供する米新興Moveworks、年間経常収益は約150億円 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+    "url": "https://forbesjapan.com/articles/detail/73945",
+    "pass": 3
+   },
+   {
+    "quote": "Forbes JAPAN サイトメンテナンスのお知らせ（2026年11月10日（火）18:00〜）",
+    "url": "https://forbesjapan.com/articles/detail/73945",
+    "pass": 3
+   },
+   {
+    "quote": "上智大学×タキヒヨーの共創が生んだサステナブルTシャツ――「TOKYOエシカル」がつなぐ新たな可能性",
+    "url": "https://forbesjapan.com/articles/detail/73945",
+    "pass": 3
+   },
+   {
+    "quote": "KKR・大和証券の両トップが語る 日本が「世界有数の成長市場」になる未来",
+    "url": "https://forbesjapan.com/articles/detail/73945",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ今、日本市場に勝機があるのか ローランド・ベルガーが示す日本企業の新たな成長像",
+    "url": "https://forbesjapan.com/articles/detail/73945",
+    "pass": 3
+   },
+   {
+    "quote": "Forbes JAPANの最新のニュースをお届けします",
+    "url": "https://forbesjapan.com/articles/detail/73945",
+    "pass": 3
+   },
+   {
+    "quote": "【1万ドルのアームが、数兆円の会社を生んだ】日本の精密ロボットに「なかったもの」／LPはトヨタと双日・230億円の1号ファンド／Red Glass Ventures ビラル・ズベリ氏に聞く",
+    "url": "https://www.youtube.com/watch?v=_aoTBuqiW8Q",
+    "pass": 3
+   },
+   {
+    "quote": "Coral Capital、Build with Japan",
+    "url": "https://www.youtube.com/watch?v=_aoTBuqiW8Q",
+    "pass": 3
+   },
+   {
+    "quote": "is a Japanese online marketplace that connects millions of people across the US to shop and sell items to others. Its simple user interface that appeals to the everyday shopper and casual seller resulted in the company’s net sales more than doubling from",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Moveworks 買収により、すべての部門のあらゆる従業員に先進 ... — Moveworks 買収により、すべての部門のあらゆる従業員に先進 ... ServiceNow https://www.servicenow.com > press-room > moveworks",
+    "url": "https://www.servicenow.com/jp/company/media/press-room/moveworks.html",
+    "pass": 3
+   },
+   {
+    "quote": "Moveworks 買収により、すべての部門のあらゆる従業員に先進 ... — Moveworks 買収により、すべての部門のあらゆる従業員に先進 ... PR TIMES https://prtimes.jp > 経営情報",
+    "url": "https://prtimes.jp/main/html/rd/p/000000150.000029239.html",
+    "pass": 3
+   },
+   {
+    "quote": "「実務で使える」生成AIを提供する米新興 Moveworks — 「実務で使える」生成AIを提供する米新興 Moveworks Forbes JAPAN https://forbesjapan.com > スタートアップ > 海外",
+    "url": "https://forbesjapan.com/articles/detail/73945",
+    "pass": 3
+   },
+   {
+    "quote": "Moveworks とは？AIアシスタントプラットフォームの完全な概要 — Moveworks とは？AIアシスタントプラットフォームの完全な概要 eesel AI https://www.eesel.ai > eesel AI > Blog > Guides",
+    "url": "https://www.eesel.ai/ja/blog/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "Moveworks 徹底解説：ServiceNow傘下で進化するAgentic AI ... — Moveworks 徹底解説：ServiceNow傘下で進化するAgentic AI ... Skywork.ai https://skywork.ai > agentic-ai-servicenow-querypal",
+    "url": "https://skywork.ai/skypage/ja/agentic-ai-servicenow-querypal/1985907402781040640",
+    "pass": 3
+   },
+   {
+    "quote": "ServiceNow、 Moveworks の買収を完了 — ServiceNow、 Moveworks の買収を完了 ServiceNow https://www.servicenow.com > media > press-room > com...",
+    "url": "https://www.servicenow.com/jp/company/media/press-room/completed-acquisition-of-moveworks.html",
+    "pass": 3
+   },
+   {
+    "quote": "Moveworks , which improves internal help desks with AI ... — Moveworks , which improves internal help desks with AI ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=_aoTBuqiW8Q",
+    "pass": 3
+   },
+   {
+    "quote": "ServiceNowの28億5千万ドルの Moveworks 買収 - LinkedIn — ServiceNowの28億5千万ドルの Moveworks 買収 - LinkedIn LinkedIn https://jp.linkedin.com > pulse > servicenows-285-billion-...",
+    "url": "https://jp.linkedin.com/pulse/servicenows-285-billion-moveworks-acquisition-g0msc?tl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Moveworks Agent Studio + Asana — Moveworks Agent Studio + Asana Asana https://asana.com > apps > moveworks-agent-studio",
+    "url": "https://asana.com/ja/apps/moveworks-agent-studio",
+    "pass": 3
+   },
+   {
+    "quote": "「実務で使える」生成AIを提供する米新興 Moveworks — 「実務で使える」生成AIを提供する米新興 Moveworks NewsPicks https://newspicks.com > news",
+    "url": "https://newspicks.com/news/10620030/",
+    "pass": 3
+   },
+   {
+    "quote": "MoveWorks ｜リハビリ・スポーツトレーニング用品の専門 ... — MoveWorks ｜リハビリ・スポーツトレーニング用品の専門 ... moveworks-25.jp https://www.moveworks-25.jp",
+    "url": "https://www.moveworks-25.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Moveworks : The AI Assistant Platform That Gets Work Done — Moveworks : The AI Assistant Platform That Gets Work Done Moveworks https://www.moveworks.com",
+    "url": "https://www.moveworks.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Moveworks 機能の操作 - ServiceNow — Moveworks 機能の操作 - ServiceNow ServiceNow https://www.servicenow.com > docs > ja-JP > australia > e...",
+    "url": "https://www.servicenow.com/docs/r/ja-JP/australia/employee-service-management/empworks-moveworks-capabilities.html",
+    "pass": 3
+   },
+   {
+    "quote": "Moveworks AI Assistant For Manufacturing — Moveworks AI Assistant For Manufacturing Moveworks https://www.moveworks.com > ai-for...",
+    "url": "https://www.moveworks.com/us/en/solutions/ai-for-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Moveworks Case Study | RightBound — Moveworks Case Study | RightBound rightbound.com https://rightbound.com > moveworks",
+    "url": "https://rightbound.com/customer-stories/moveworks/",
+    "pass": 3
+   },
+   {
+    "quote": "Report: Moveworks Business Breakdown & Founding Story — Report: Moveworks Business Breakdown & Founding Story contrary.com https://research.contrary.com > move...",
+    "url": "https://research.contrary.com/company/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "Moveworks Customers : How Leading Enterprises Get More ... — Moveworks Customers : How Leading Enterprises Get More ... Moveworks https://www.moveworks.com > custo...",
+    "url": "https://www.moveworks.com/us/en/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Why become a Moveworks Partner ? — Why become a Moveworks Partner ? Moveworks https://www.moveworks.com > partners",
+    "url": "https://www.moveworks.com/us/en/partners",
+    "pass": 3
+   },
+   {
+    "quote": "Moveworks Accelerate – Partner Implementation Training Series — Moveworks Accelerate – Partner Implementation Training Series ServiceNow University https://learning.servicenow.com > lxp",
+    "url": "https://learning.servicenow.com/lxp/en/servicenow-ai-platform/moveworks-accelerate-partner-implementation-training?id=learning_path_prev&path_id=a1819dcf93bb3a982fac74096cba10f1",
+    "pass": 3
+   },
+   {
+    "quote": "What Moveworks Does and How It's Evolved Over the Years — What Moveworks Does and How It's Evolved Over the Years Moveworks https://www.moveworks.com > about",
+    "url": "https://www.moveworks.com/us/en/company/about",
+    "pass": 3
+   },
+   {
+    "quote": "Moveworks : Revenue , Competitors, Alternatives - Growjo — Moveworks : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > Moveworks",
+    "url": "https://growjo.com/company/Moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "Moveworks Revenue 2024: $100M ARR, Acquired for $2.8B — Moveworks Revenue 2024: $100M ARR, Acquired for $2.8B GetLatka https://getlatka.com > moveworks",
+    "url": "https://getlatka.com/companies/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "Moveworks - Wikipedia — Moveworks - Wikipedia Wikipedia https://en.wikipedia.org > Moveworks",
+    "url": "https://en.wikipedia.org/wiki/Moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "Moveworks's Competitors, Revenue , Number of Employees ... — Moveworks's Competitors, Revenue , Number of Employees ... Owler https://www.owler.com > moveworks",
+    "url": "https://www.owler.com/company/moveworks",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "As the Master Aggregator™ and distributor for the industry's leading IT manufacturers, Carahsoft supports and enables a vibrant and growing partner ecosystem of: Solution Providers, Value-Added Resellers, Prime Contractors, System Integrators, and Managed Service Providers.",
+    "url": "https://www.carahsoft.com/moveworks/resources/customer-stories",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "浜崎正己】第936回：ServiceNow × Moveworks — 28.5億ドル ... 浜崎正己】第936回：ServiceNow × Moveworks — 28.5億ドル ... note https://note.com > ビジネス > 戦略・組織論",
+    "url": "https://note.com/masamasa11_12/n/nb603473039c0",
+    "pass": 3
+   },
+   {
+    "quote": "ServiceNow Faces 'Second Request' in Moveworks ... - note ServiceNow Faces 'Second Request' in Moveworks ... - note note https://note.com > ビジネス > スタートアップ・VC",
+    "url": "https://note.com/startup_now0708/n/n1a2df62fdf3c?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【AI×マーケティング×HR×M&A事例研究会｜浜崎正己】第936回：ServiceNow × Moveworks — 28.5億ドルで「従業員向けエージェンティックAI」の覇権を握る戦略【第78回】｜浜崎正己@メディアインキュベート",
+    "url": "https://note.com/masamasa11_12/n/nb603473039c0",
+    "pass": 3
+   },
+   {
+    "quote": "【AI×マーケティング×HR×M&A事例研究会｜浜崎正己】第936回：ServiceNow × Moveworks — 28.5億ドルで「従業員向けエージェンティックAI」の覇権を握る戦略【第78回】",
+    "url": "https://note.com/masamasa11_12/n/nb603473039c0",
+    "pass": 3
+   },
+   {
+    "quote": "はじめに8/h2> 「すべての従業員のすべての業務にAIを届ける」——これがServiceNowがMoveworks買収を発表した際に掲げたビジョンだ。現金・株式の組み合わせによる28.5億ドルという対価は同社史上最大の買収案件であり、エンタープライズSaaSにおけるエージェンティックAI覇権争いの熾烈さを体現する取引となった。ITサービスマネジメント（ITSM）を起点とするServiceNowと、AI駆動の従業員向けアシスタントに特化したMoveworksの統合は、「バックエンドのワークフワー基盤』と「フロントエンドのAIインターフェース」を一体化する垂直統合戦略として注目される。",
+    "url": "https://note.com/masamasa11_12/n/nb603473039c0",
+    "pass": 3
+   },
+   {
+    "quote": "ServiceNowは、ITサービスマネジメントから出発し、HR・顧客サービス・財務・法務等の楮務自動化プラットフォームへと進化してきた企業だ。「Now Platform」を軸に、ワークフロー自動化にAIを組み込む戦略を加速させており、2024年には独自のAIエージェント機能を発表している。しかし、エンタープライズ内の「従業員が日常的に対話するインターフェース」という観点では、相対的に存在感が薄かった。",
+    "url": "https://note.com/masamasa11_12/n/nb603473039c0",
+    "pass": 3
+   },
+   {
+    "quote": "Moveworksは2016年設立のAIスタートアップで、従業員が業務上の問題（ITトラブル・HR手続き・給与・経費処理等）をチャット形式で質問すると、AIが自動的に解決策を提示・実行するエージェント型AIアシスタントを提供してきた。ServiceNow公式プレスリリース（2025年3月10日付）によれば、買収発表時点でMoveworksの「エージェント型プラットフォーム」は約18ヶ月で500万人近くの従業員ユーザーに拡大しており、顧客の約90%が全社員規模で展開していた。",
+    "url": "https://note.com/masamasa11_12/n/nb603473039c0",
+    "pass": 3
+   },
+   {
+    "quote": "ServiceNowは2025年3月10日、Moveworksとの買収合意（Definitive Agreement）を発表した。ServiceNow公式プレスリリース（2025年3月10日付）によれば、取引金額は28.5億ドルで、現金と株式の組み合わせにより支払われる。これはServiceNow史上最大の買収案件だ。",
+    "url": "https://note.com/masamasa11_12/n/nb603473039c0",
+    "pass": 3
+   },
+   {
+    "quote": "ServiceNowのAmit Zavery社長・COO・最高製品責任者（CPO）は発表コメントとして、「Moveworksの買収により、ServiceNowはエージェンティックAI主導のビジネス変革において巨大な飛躍を遂げる（ServiceNow will take another giant leap forward in agentic AI-powered business transformation）」と述べた。また、「Moveworksの才能あるチームとエレガントなAIファーストの体験が、ServiceNowの強力なAI駆動ワークフロー自動化と組み合わさることで、エンタープライズ全体でのAI採用を強力に推進する」としている。",
+    "url": "https://note.com/masamasa11_12/n/nb603473039c0",
+    "pass": 3
+   },
+   {
+    "quote": "取引は2025年12月15日に完了した。完了時のServiceNow公式プレスリリース（2025年12月15日付）によれば、統合後のServiceNow AIプラットフォームは以下の能力を実現するとされている。",
+    "url": "https://note.com/masamasa11_12/n/nb603473039c0",
+    "pass": 3
+   },
+   {
+    "quote": "ServiceNow Faces 'Second Request' in Moveworks Acquisition—DOJ Intensifies Antitrust Review｜SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/n1a2df62fdf3c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ServiceNow Faces 'Second Request' in Moveworks Acquisition—DOJ Intensifies Antitrust Review",
+    "url": "https://note.com/startup_now0708/n/n1a2df62fdf3c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/n1a2df62fdf3c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In March of this year, ServiceNow announced plans to acquire enterprise AI startup Moveworks for a total of $2.85 billion. While this acquisition was considered to have high strategic value for strengthening AI-powered enterprise services, it is currently facing a rigorous antitrust review, exemplified by a 'second request' from the U.S. Department of Justice (DOJ), creating uncertainty regarding ",
+    "url": "https://note.com/startup_now0708/n/n1a2df62fdf3c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1. Background and Review Status",
+    "url": "https://note.com/startup_now0708/n/n1a2df62fdf3c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1-1. Purpose of the Acquisition",
+    "url": "https://note.com/startup_now0708/n/n1a2df62fdf3c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ServiceNow is a cloud company with strengths in IT service management.",
+    "url": "https://note.com/startup_now0708/n/n1a2df62fdf3c?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Moveworks specializes in the 'employee inquiry response' sector, such as AI chatbots and automated responses, and is adopted by many large enterprises.",
+    "url": "https://note.com/startup_now0708/n/n1a2df62fdf3c?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Moveworks - X Moveworks - X X https://x.com > moveworks",
+    "url": "https://x.com/moveworks",
+    "pass": 3
+   },
+   {
+    "quote": "Deedy on X: \"LEAK ServiceNow is in talks to buy Moveworks ... Deedy on X: \"LEAK ServiceNow is in talks to buy Moveworks ... X https://x.com > @deedydas",
+    "url": "https://x.com/deedydas/status/1898971193128173862",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Moveworks | LinkedIn Moveworks | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/moveworksai",
+    "pass": 3
+   },
+   {
+    "quote": "Jiang Chen - formerly Founder & CTO, AI, Moveworks - LinkedIn Jiang Chen - formerly Founder & CTO, AI, Moveworks - LinkedIn LinkedIn https://www.linkedin.com > criver",
+    "url": "https://www.linkedin.com/in/criver",
+    "pass": 3
+   },
+   {
+    "quote": "Moveworks | LinkedIn Moveworks | LinkedIn LinkedIn https://www.linkedin.com > products",
+    "url": "https://www.linkedin.com/products/moveworksai-moveworks/",
+    "pass": 3
+   },
+   {
+    "quote": "Moveworks Jobs in United States (2000+ Open Roles) Moveworks Jobs in United States (2000+ Open Roles) LinkedIn https://www.linkedin.com > jobs > m...",
+    "url": "https://www.linkedin.com/jobs/moveworks-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Moveworks | LinkedIn Moveworks | LinkedIn LinkedIn https://jp.linkedin.com > company > moveworksai",
+    "url": "https://jp.linkedin.com/company/moveworksai?trk=products_seo_search",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Moveworks (@moveworksAI) - Facebook Moveworks (@moveworksAI) - Facebook Facebook https://www.facebook.com > ... > Business service",
+    "url": "https://www.facebook.com/moveworksAI/",
+    "pass": 3
+   },
+   {
+    "quote": "Moveworks (@MoveworksLimited) - Facebook Moveworks (@MoveworksLimited) - Facebook Facebook https://www.facebook.com > ... > Brand > Product/service",
+    "url": "https://www.facebook.com/MoveworksLimited/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.moveworks.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.moveworks.com/content/dam/images/internal/logos/moveworks-logo-lockup-white.svg?v=1765793167042",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.moveworks.com/content/dam/images/internal/blog/featured-images/moveworks-servicenow-logos-acquisition-closing.png?v=1765565837708",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.moveworks.com/content/dam/images/internal/logos/moveworks-logo-lockup-black.svg?v=1764969533115",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.servicenow.com/jp/company/media/press-room/moveworks.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000150.000029239.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://forbesjapan.com/articles/detail/73945",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eesel.ai/ja/blog/moveworks",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.servicenow.com/jp/company/media/press-room/completed-acquisition-of-moveworks.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=_aoTBuqiW8Q",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/servicenows-285-billion-moveworks-acquisition-g0msc?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://asana.com/ja/apps/moveworks-agent-studio",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moveworks-25.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://forbesjapan.com/articles/detail/73945",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eesel.ai/ja/blog/moveworks",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gong.io/platform/gong-enrich",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://research.contrary.com/company/moveworks",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carahsoft.com/moveworks/resources/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://stammer.ai/post/best-white-label-ai-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://learning.servicenow.com/lxp/en/servicenow-ai-platform/moveworks-accelerate-partner-implementation-training?id=learning_path_prev&path_id=a1819dcf93bb3a982fac74096cba10f1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Moveworks",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/moveworks",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Moveworks",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/masamasa11_12/n/nb603473039c0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/startup_now0708/n/n1a2df62fdf3c?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/moveworks",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/deedydas/status/1898971193128173862",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/moveworksai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/criver",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/moveworksai-moveworks/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/moveworks-jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/moveworksAI/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MoveworksLimited/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/moveworks",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/moveworksai?trk=products_seo_search",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Moveworks 日本 導入",
+   "results": [
+    "https://www.servicenow.com/jp/company/media/press-room/moveworks.html",
+    "https://prtimes.jp/main/html/rd/p/000000150.000029239.html",
+    "https://forbesjapan.com/articles/detail/73945",
+    "https://www.eesel.ai/ja/blog/moveworks",
+    "https://skywork.ai/skypage/ja/agentic-ai-servicenow-querypal/1985907402781040640",
+    "https://x.com/ServiceNowJapan/status/2008456001662439687",
+    "https://www.facebook.com/servicenowjapan/posts/servicenowmoveworks-%E3%81%AE%E6%8A%80%E8%A1%93%E3%82%92%E7%B5%B1%E5%90%88%E3%81%97-ai-%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%8C%E3%81%95%E3%82%89%E3%81%AB%E9%80%B2%E5%8C%96servicenow-%E3%81%AFai-%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%97%E3%83%A9%E3%82%A4%E3%82%BA%E5%90%91%E3%81%91%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95/1471123291680803/",
+    "https://enterprisezine.jp/news/detail/23422",
+    "https://www.reddit.com/r/servicenow/comments/1kmgrdk/why_did_servicenow_buy_moveworks/?tl=ja",
+    "https://www.servicenow.com/jp/company/media/press-room/completed-acquisition-of-moveworks.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Moveworks 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.servicenow.com/jp/company/media/press-room/completed-acquisition-of-moveworks.html",
+    "https://www.youtube.com/watch?v=_aoTBuqiW8Q",
+    "https://jp.linkedin.com/pulse/servicenows-285-billion-moveworks-acquisition-g0msc?tl=ja",
+    "https://asana.com/ja/apps/moveworks-agent-studio",
+    "https://newspicks.com/news/10620030/",
+    "https://prtimes.jp/main/html/rd/p/000000177.000029239.html",
+    "https://forbesjapan.com/articles/detail/73945",
+    "https://skywork.ai/skypage/ja/agentic-ai-servicenow-querypal/1985907402781040640",
+    "https://note.com/startup_now0708/n/n2e80ffad59c1",
+    "https://docs.moveworks.com/platform-management/sso"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Moveworks Japan",
+   "results": [
+    "https://www.moveworks-25.jp/",
+    "https://www.moveworks.com/",
+    "https://forbesjapan.com/articles/detail/73945",
+    "https://www.eesel.ai/ja/blog/moveworks",
+    "https://www.servicenow.com/docs/r/ja-JP/australia/employee-service-management/empworks-moveworks-capabilities.html",
+    "https://aipicks.jp/tool/moveworks",
+    "https://jp.linkedin.com/company/moveworksai?trk=products_seo_search",
+    "https://note.com/gen_ai/n/n52fc8a9d327c",
+    "https://my.jp.moveworks.com/",
+    "https://www.servicenow.com/jp/company/media/press-room/moveworks.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Moveworks manufacturing customer case study",
+   "results": [
+    "https://www.moveworks.com/us/en/solutions/ai-for-manufacturing",
+    "https://rightbound.com/customer-stories/moveworks/",
+    "https://research.contrary.com/company/moveworks",
+    "https://www.carahsoft.com/moveworks/resources/customer-stories",
+    "https://www.moveworks.com/us/en/customers",
+    "https://www.softwarereviews.com/products/moveworks?c_id=167",
+    "https://www.youtube.com/watch?v=Uko5Ttep1ss",
+    "https://www.forrester.com/blogs/the-rise-of-digital-coworkers-moveworks-bets-big-on-ai-agents/",
+    "https://www.featuredcustomers.com/vendor/moveworks",
+    "https://www.featuredcustomers.com/vendor/moveworks/case-studies"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Moveworks white label OR reseller OR partner program",
+   "results": [
+    "https://www.moveworks.com/us/en/partners",
+    "https://stammer.ai/post/best-white-label-ai-software",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://learning.servicenow.com/lxp/en/servicenow-ai-platform/moveworks-accelerate-partner-implementation-training?id=learning_path_prev&path_id=a1819dcf93bb3a982fac74096cba10f1",
+    "https://www.youtube.com/watch?v=Y-l_-CAmJ2c",
+    "https://www.agentz.ai/partners",
+    "https://revops.ai/learn/white-label-saas-platform-for-agencies",
+    "https://www.linkedin.com/company/moveworksai",
+    "https://www.perspective.co/article/white-label-marketing-software",
+    "https://en.wikipedia.org/wiki/Moveworks"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Moveworks founded funding employees revenue",
+   "results": [
+    "https://www.moveworks.com/us/en/company/about",
+    "https://growjo.com/company/Moveworks",
+    "https://getlatka.com/companies/moveworks",
+    "https://en.wikipedia.org/wiki/Moveworks",
+    "https://www.owler.com/company/moveworks",
+    "https://www.facebook.com/forbes/posts/moveworks-has-crossed-100-million-in-annual-recurring-revenue-a-milestone-that-m/909660281023963/",
+    "https://www.mvp.vc/company-initations/moveworks-one-stop-ai-solution-tackling-digital-debt",
+    "https://multiples.vc/private-comps/moveworks",
+    "https://saleshive.com/vendors/moveworks",
+    "https://compworth.com/company/moveworks"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Moveworks",
+   "results": [
+    "https://note.com/gen_ai/n/n52fc8a9d327c?hl=en",
+    "https://note.com/startup_now0708/n/n2e80ffad59c1?hl=en",
+    "https://note.com/masamasa11_12/n/nb603473039c0",
+    "https://note.com/startup_now0708/n/n1a2df62fdf3c?hl=en",
+    "https://note.com/masy85/n/nbd757ce953ec?hl=en",
+    "https://note.com/masamasa11_12/n/nd05ca5ea6748",
+    "https://note.com/startup_now0708/n/n2be18d8b194e",
+    "https://note.com/tangity/n/nf9d353a2f0f6",
+    "https://note.com/startup_now0708/n/n2f5fad03c20a?hl=en",
+    "https://note.com/masamasa11_12/n/n2360ebdadd11"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Moveworks",
+   "results": [
+    "https://x.com/moveworks",
+    "https://x.com/VarunJuice",
+    "https://x.com/deedydas/status/1898971193128173862",
+    "https://x.com/statusisdown/status/2117878683683913977",
+    "https://x.com/bhavinator",
+    "https://x.com/SpecialSitsNews/status/2067362001538502974",
+    "https://x.com/ServiceNowJapan/status/2044350164870000890",
+    "https://x.com/alexhenson",
+    "https://x.com/LondonRealTV/status/2117270236927816017/photo/2",
+    "https://x.com/ServiceNowJapan/status/2008456001662439687"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Moveworks",
+   "results": [
+    "https://www.linkedin.com/company/moveworksai",
+    "https://www.linkedin.com/in/criver",
+    "https://www.linkedin.com/products/moveworksai-moveworks/",
+    "https://www.linkedin.com/jobs/moveworks-jobs",
+    "https://www.linkedin.com/in/vnivargi",
+    "https://www.linkedin.com/in/davidwforman",
+    "https://www.linkedin.com/pulse/analysis-servicenows-285b-moveworks-acquisition-sramana-mitra-hkmyc",
+    "https://www.linkedin.com/posts/servicenow_were-thrilled-to-announce-that-weve-completed-activity-7406442935422029824-7qHZ",
+    "https://www.linkedin.com/posts/bhavinnicholasshah_know26-getworkdone-activity-7491138531596259328-ePA4",
+    "https://www.linkedin.com/in/thomasedwinturner"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Moveworks",
+   "results": [
+    "https://www.facebook.com/moveworksAI/",
+    "https://www.facebook.com/MoveworksLimited/",
+    "https://www.facebook.com/servicenow/posts/a-new-standard-of-agentic-ai-is-coming-were-thrilled-to-announce-our-plans-to-ac/1079903437516510/",
+    "https://www.facebook.com/Insiderinventions/posts/eight-salespeople-from-servicenow-and-its-newly-acquired-subsidiary-moveworks-ha/1295881865738268/",
+    "https://www.facebook.com/moveworksAI/photos/autodesk-cio-prakash-kota-and-his-it-team-are-focused-on-delivering-immediate-se/162939715083947/",
+    "https://www.facebook.com/moveworksAI/videos/-say-hello-to-servicenow-otto-at-knowledge-2026-we-announced-a-new-way-for-users/1511334517022106/",
+    "https://www.facebook.com/portsmouthnews/posts/latest-why-jesper-ceesay-move-works-for-portsmouth-as-they-eye-midfielder/1080350334363051/",
+    "https://www.facebook.com/groups/township.official/posts/2823145994610841/",
+    "https://www.facebook.com/servicenowjapan/posts/employeeworksmoveworks-%E3%81%AE%E4%BC%9A%E8%A9%B1%E5%9E%8B-ai-%E3%81%A8-servicenow-%E3%81%AE%E8%87%AA%E5%BE%8B%E5%9E%8B%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%95%E3%83%AD%E3%83%BC%E3%82%92%E7%B5%B1%E5%90%88%E3%81%97%E3%81%9Femployeeworks%E4%BC%9A%E8%AD%B0%E3%81%AE%E8%A6%81%E7%B4%84%E3%82%84%E3%83%A1%E3%83%BC/1560127722780359/",
+    "https://www.facebook.com/moveworksAI/videos/what-is-servicenow-otto/851829470724328/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Moveworks note 社長",
+   "results": [
+    "https://www.moveworks.com/us/en/company/about",
+    "https://note.com/gen_ai/n/n52fc8a9d327c",
+    "https://en.wikipedia.org/wiki/Moveworks",
+    "https://www.youtube.com/watch?v=gvAH-vvBZ7Q",
+    "https://note.com/startup_now0708/n/n2e80ffad59c1",
+    "https://www.moveworks.com/us/en/company/jiang-chen",
+    "https://www.servicenow.com/jp/company/media/press-room/completed-acquisition-of-moveworks.html",
+    "https://enterprisezine.jp/news/detail/23422",
+    "https://note.com/tag/AI%E7%A4%BE%E9%95%B7",
+    "https://www.linkedin.com/in/vnivargi"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Moveworks X 投稿",
+   "results": [
+    "https://x.com/moveworks",
+    "https://community.moveworks.com/stakeholder-tools-exi-mw-setup-ks-analytics-115/introducing-upload-ai-assistant-avatar-feature-in-moveworks-setup-3067",
+    "https://jp.linkedin.com/company/moveworksai?trk=products_seo_search",
+    "https://www.youtube.com/shorts/-iZ5tVKx6yk",
+    "https://www.youtube.com/@Moveworks",
+    "https://www.youtube.com/watch?v=vzn7et7S1y8",
+    "https://www.servicenow.com/docs/r/employee-service-management/employee-experience-foundation/moveworks.html",
+    "https://www.instagram.com/moveworksai/",
+    "https://x.com/moveworks/reposts",
+    "https://www.moveworks.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像3件／外部32頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像3件／外部32頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像3件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像3件／外部32頁・検索12回）"
+ }
+}

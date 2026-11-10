@@ -1,0 +1,1203 @@
+{
+ "name": "Mindee",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-10T00:19:51.013851+00:00",
+ "official_url": "https://mindee.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "22-Jul-2019 $3.1M $2.26M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/228323-17",
+    "pass": 3
+   },
+   {
+    "label": "Total raised",
+    "value": "$19.2M",
+    "url": "https://getlatka.com/companies/mindee",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "AI Document Processing API - Mindee",
+    "url": "https://www.mindee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "that cut the time lost to document processing",
+    "url": "https://www.mindee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Everything you need to go from first test to production, whether you write code or not.",
+    "url": "https://www.mindee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Start from a prebuilt model and adjust its data schema, or define every field from scratch for your own documents. No template, no retraining from zero.",
+    "url": "https://www.mindee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-grade security",
+    "url": "https://www.mindee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Host your data where you need it, in the EU or the US, on SOC 2 Type II certified APIs that are GDPR and CCPA compliant.",
+    "url": "https://www.mindee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prepare, classify and extract. Mindee delivers high-accuracy extraction for every document format, so you can automate workflows with speed and high reliability.",
+    "url": "https://www.mindee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prebuilt models or your own custom schema",
+    "url": "https://www.mindee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The classifier labels every upload with your own classes, so an ID card goes to onboarding and an invoice goes to accounts payable.",
+    "url": "https://www.mindee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Users photograph three receipts on a desk, or both sides of an ID. Mindee detects each border, returns its coordinates and reads them separately.",
+    "url": "https://www.mindee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Start from the document types our customers process every day. Pick one to see what comes back from the API.",
+    "url": "https://www.mindee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "3 rows · qty, unit price, total",
+    "url": "https://www.mindee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "17 APR 2033",
+    "url": "https://www.mindee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "professional_experiences",
+    "url": "https://www.mindee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Use a deterministic approach that requires no extra setup",
+    "url": "https://www.mindee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prototype and test your configuration with Mindee’s platform",
+    "url": "https://www.mindee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enrich your model with your own validated/annotated documents: each new extraction draws on real examples from your data. Accuracy improves on your specific layouts and edge cases.",
+    "url": "https://www.mindee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rely on documentation built for document processing",
+    "url": "https://www.mindee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Use-case guides, ready-to-use SDKs and code samples take you from first API call to production without piecing together generic LLM tutorials.",
+    "url": "https://www.mindee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Best finance, HR and accounting platforms ship document capture as a native feature of their product.",
+    "url": "https://www.mindee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Lead Product Manager @ Indy",
+    "url": "https://www.mindee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Indirect Procurement Manager @ PayFit",
+    "url": "https://www.mindee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-grade security, based in",
+    "url": "https://www.mindee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SOC 2 Type II audited and GDPR compliant, with encryption in transit, at rest and configurable data retention.",
+    "url": "https://www.mindee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more about document processing",
+    "url": "https://www.mindee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Companies using Mindee see significant improvements in their document processing operations after implementing it.",
+    "url": "https://www.mindee.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Instant processing capacity",
+    "url": "https://www.mindee.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Freedz x Mindee: when bill processing becomes child’s play",
+    "url": "https://www.mindee.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "OCR APIs pricing explained: Free vs. Paid options in 2026",
+    "url": "https://www.mindee.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "LLM vs OCR API: Cost comparison for document processing in 2026",
+    "url": "https://www.mindee.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to transform your document processing ?",
+    "url": "https://www.mindee.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Add modern AI-based OCR API to your product, in minutes.",
+    "url": "https://www.mindee.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, our platform can be trained on your custom document types. We offer a user-friendly interface for defining custom document types and extraction fields, and our professional services team can assist with training and optimization.",
+    "url": "https://www.mindee.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Our customers typically see accuracy rates between 85-95% out of the box, with continuous improvement over time as the system learns from your documents. Accuracy depends on document quality, complexity, and variability.",
+    "url": "https://www.mindee.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Is integration complex, or does it require training time?",
+    "url": "https://www.mindee.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "No. Unlike traditional \"On-Premise\" solutions that take months to deploy, Mindee’s API-first approach allows you to",
+    "url": "https://www.mindee.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": ". The complexity of document processing usually depends on whether you choose to build an infrastructure or consume an intelligent service.",
+    "url": "https://www.mindee.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": ": Mindee models are pre-trained on millions of data points. Whether it’s an invoice, a receipt, or an ID card, the API already \"knows\" what it’s looking at. You don't need a Data Science team; you just need an API key.",
+    "url": "https://www.mindee.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "If your ERP/CRM supports inbound webhooks, you can also use Mindee webhooks to receive results on your server endpoint (recommended for heavy production usage).",
+    "url": "https://www.mindee.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Mindee API is protected by industry-standard TLS (Transport Layer Security) encryption",
+    "url": "https://www.mindee.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": ". This means that data is encrypted before it leaves your server and can only be decrypted by Mindee. It prevents \"Man-in-the-Middle\" attacks, ensuring that even if data were intercepted,they would be unreadable.",
+    "url": "https://www.mindee.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "In addition, our legal team aligns our security protocols with global standards to ensure your integration meets strict regulatory requirements:",
+    "url": "https://www.mindee.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": ": Fully aligned with European data protection regulations, ensuring the highest level of privacy for PII (Personally Identifiable Information).",
+    "url": "https://www.mindee.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": ": Our infrastructure is hosted on Tier-1 providers (AWS) that maintain the highest physical and logical security certifications.",
+    "url": "https://www.mindee.com/case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Join our ecosystem of partners and help your clients transform their document processing workflows with powerful AI-driven APIs.",
+    "url": "https://www.mindee.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Software companies looking to enhance their solutions with Mindee's document processing APIs.",
+    "url": "https://www.mindee.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Co-marketing opportunities",
+    "url": "https://www.mindee.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Co-marketing opportunities, case studies, and promotional materials to highlight your integration.",
+    "url": "https://www.mindee.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Training and resources to help your sales team effectively position and sell Mindee's capabilities.",
+    "url": "https://www.mindee.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "OCR API Pricing - Mindee",
+    "url": "https://www.mindee.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Data processing localization",
+    "url": "https://www.mindee.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Annual contracts · Custom pricing",
+    "url": "https://www.mindee.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "ALL PRO FEATURES, PLUS",
+    "url": "https://www.mindee.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "30 min. free setup with solution engineering prior to contract",
+    "url": "https://www.mindee.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "1 page processed = 1 credit • More details",
+    "url": "https://www.mindee.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Premium technical support",
+    "url": "https://www.mindee.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Support technique premium",
+    "url": "https://www.mindee.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "1 processed page = 1 credit",
+    "url": "https://www.mindee.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "; 1 processed page",
+    "url": "https://www.mindee.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "If in doubt, go to the “Credit Cost” tab on Mindee's platform to see the exact price of each of your models/utilities.",
+    "url": "https://www.mindee.com/pricing",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by top-tier teams worldwide",
+    "url": "https://www.mindee.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by enterprises for decades",
+    "url": "https://www.mindee.com/blog/leading-ocr-api-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study : Mindee and Spendesk",
+    "url": "https://www.mindee.com/case-study/spendesk-spend-management",
+    "pass": 1
+   },
+   {
+    "quote": "platform that transforms company spending. It empowers employees with automated spending solutions while providing finance leaders with real-time visibility and control over company expenditures. Trusted by thousands of companies, Spendesk supports over 200,000 users across brands such as Soundcloud, Gousto, SumUp, and Bloom & Wild.",
+    "url": "https://www.mindee.com/case-study/spendesk-spend-management",
+    "pass": 1
+   },
+   {
+    "quote": "With its innovative spend management platform, Lucca has taken a bold step forward by integrating Mindee's OCR technology. In this case study, we explore how Lucca leveraged Mindee’s powerful solution to enhance efficiency, boost accuracy, and ultimately transform HR expense management for a truly modern workplace!",
+    "url": "https://www.mindee.com/case-study/hr-expense-lucca",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by top-tier teams worldwide",
+    "url": "https://www.mindee.com/platform",
+    "pass": 1
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/mindee/case-studies",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Revenue sharing options",
+    "url": "https://www.mindee.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Organizations that resell Mindee's solutions as part of their service offerings.",
+    "url": "https://www.mindee.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Credits are valid for the entire duration of your subscription period (monthly or annual) and expire at the end of that period. Unused credits are not carried over from one period to the next.",
+    "url": "https://www.mindee.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Google Cloud Vision provides powerful OCR capabilities as part of its broader AI suite. Its integration with Google’s ecosystem makes it a strong choice for businesses already",
+    "url": "https://www.mindee.com/blog/leading-ocr-api-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "platform that transforms company spending. It empowers employees with automated spending solutions while providing finance leaders with real-time visibility and control over company expenditures. Trusted by thousands of companies, Spendesk supports over 200,000 users across brands such as Soundcloud, Gousto, SumUp, and Bloom & Wild.",
+    "url": "https://www.mindee.com/case-study/spendesk-spend-management",
+    "pass": 1
+   },
+   {
+    "quote": "By simplifying procurement, payment cards, expense management, invoice processing, and accounting automation, Spendesk sets the new standard for spending at work. Its single, intelligent solution makes efficient spending easy for employees and gives finance leaders the full visibility and control they need across all company expenses, even in multi-entity structures.",
+    "url": "https://www.mindee.com/case-study/spendesk-spend-management",
+    "pass": 1
+   },
+   {
+    "quote": "Employees had to manually fill in expense forms—even though receipts already contained most of the necessary information—resulting in a slow, error-prone process.",
+    "url": "https://www.mindee.com/case-study/hr-expense-lucca",
+    "pass": 1
+   },
+   {
+    "quote": ": restaurant tickets, transport invoices, hotel bills, and general professional receipts submitted by employees across France, Spain, and the UK.",
+    "url": "https://www.mindee.com/case-study/payfit",
+    "pass": 1
+   },
+   {
+    "quote": ": payslips from employees' former employers (e.g., issued by Silae, Sage, Xero, or any FR-compliant payroll provider), uploaded during company onboarding to extract missing employee data.",
+    "url": "https://www.mindee.com/case-study/payfit",
+    "pass": 1
+   },
+   {
+    "quote": ": Before integrating Mindee, expense submission was entirely manual. Employees had to manually type all fields (date, amount, category, merchant name, VAT) and separately upload the receipt proof. The multi-step process was cumbersome and time-consuming, creating friction that discouraged timely submissions.",
+    "url": "https://www.mindee.com/case-study/payfit",
+    "pass": 1
+   },
+   {
+    "quote": "And especially about payslips import, when a new company onboards on PayFit, their employees' previous payslips are uploaded and processed by Mindee's payslip API. The extracted data automatically pre-fills the employee profiles in PayFit, drastically reducing the manual work required from administrators and enabling faster, more accurate onboarding.",
+    "url": "https://www.mindee.com/case-study/payfit",
+    "pass": 1
+   },
+   {
+    "quote": "Mindee’s very high reading rate has enabled us to almost fully automate the creation of expense reports for our clients’ employees, which was the initial goal of our partnership",
+    "url": "https://www.mindee.com/case-study/carlabella-ocr-expense-automation",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-page tables returned as arrays",
+    "url": "https://www.mindee.com/platform",
+    "pass": 1
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/mindee/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/228323-17",
+    "pass": 3
+   },
+   {
+    "quote": "Mindee has 52 total employees.",
+    "url": "https://pitchbook.com/profiles/company/228323-17",
+    "pass": 3
+   },
+   {
+    "quote": "What is Mindee’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/228323-17",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Mindee is",
+    "url": "https://pitchbook.com/profiles/company/228323-17",
+    "pass": 3
+   },
+   {
+    "quote": "Mindee Revenue 2024: $3.5M Est., $19.2M Raised",
+    "url": "https://getlatka.com/companies/mindee",
+    "pass": 3
+   },
+   {
+    "quote": "Mindee has not published its revenue. GetLatka estimates it at about $3.5M a year (October 2024).",
+    "url": "https://getlatka.com/companies/mindee",
+    "pass": 3
+   },
+   {
+    "quote": ". The list ranks the 1,301 companies Nathan Latka has interviewed by revenue.",
+    "url": "https://getlatka.com/companies/mindee",
+    "pass": 3
+   },
+   {
+    "quote": "All 5 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/mindee",
+    "pass": 3
+   },
+   {
+    "quote": "How Mindee Grew 15% a Month to 70 Customers with 250% Net Revenue Retention (Interview with Co-Founder and CEO Jonathan Grandperrin)",
+    "url": "https://getlatka.com/companies/mindee",
+    "pass": 3
+   },
+   {
+    "quote": "Net revenue retention",
+    "url": "https://getlatka.com/companies/mindee",
+    "pass": 3
+   },
+   {
+    "quote": "Mindee CEO, founders & employees",
+    "url": "https://getlatka.com/companies/mindee",
+    "pass": 3
+   },
+   {
+    "quote": "Jonathan Grandperrin founded Mindee in 2018 and runs it as CEO. Mindee had 54 employees (October 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/mindee",
+    "pass": 3
+   },
+   {
+    "quote": "What is Mindee's revenue?",
+    "url": "https://getlatka.com/companies/mindee",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Mindee's revenue at about",
+    "url": "https://getlatka.com/companies/mindee",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Mindee have?",
+    "url": "https://getlatka.com/companies/mindee",
+    "pass": 3
+   },
+   {
+    "quote": "employees in October 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/mindee",
+    "pass": 3
+   },
+   {
+    "quote": "The Latka List ranks the private, operating companies Nathan Latka has interviewed by the latest revenue figure on each profile, reported or estimated; equal figures share a rank.",
+    "url": "https://getlatka.com/companies/mindee",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/mindee",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/mindee",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/mindee",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "CarlaBella provides businesses, groups, and government agencies with",
+    "url": "https://www.mindee.com/case-study/carlabella-ocr-expense-automation",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "AI Document Processing API - Mindee — Unlike traditional \"On-Premise\" solutions that take months to deploy, Mindee’s API-first approach allows you to go live in minutes. The complexity of document processing usually depends on whether you choose to build an infrastructure or consume an intelligent service.",
+    "url": "https://www.mindee.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Mindee: 開発者向けAIドキュメントデータ抽出API - ToolMage — Mindeeの強力なOCRとデータ抽出APIでデータ入力を自動化。 請求書、領収書、パスポート、カスタムドキュメントを処理し、数秒で構造化されたJSONデータを取得。 無料プランあり。",
+    "url": "https://www.toolmage.com/ja/tool/mindee/",
+    "pass": 3
+   },
+   {
+    "quote": "Mindee:様々な種類の文書からのデータ取得と処理を自動化することでビ... — よくある質問 1. Mindeeを既存システムにどのくらい早く統合できますか？ 2. Mindeeはどのような種類の文書を処理できますか？ 3. Mindeeはどのようにデータの正確性を確保していますか？ 4. Mindeeは特定のビジネスワークフローに合わせてカスタマイズできますか？",
+    "url": "https://moge.ai/ja/product/mindee",
+    "pass": 3
+   },
+   {
+    "quote": "Mindee - プロコーチ×AIでコーチングを身近に — まずはMindee AIを無料で体験 プロコーチの専門性とAIの利便性を融合したコーチング体験を、今すぐお試しいただけます。 5つの異なるコーチングスタイルから、あなたに最適なコーチを選択してください。",
+    "url": "https://mindee.coach/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Document Processing API - Mindee — Transform your document workflows with Mindee's AI-powered data extraction APIs. Automate data capture from invoices, receipts, IDs, and more with industry-leading accuracy and speed. Integrate easily with your existing systems and streamline document processing for businesses of all sizes",
+    "url": "https://www.mindee.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Mindee in Japanese: ミンディ - JapaneseNames.info — Mindee as a first name in Japanese: ミンディ (katakana), みんでぃ (hiragana). Explore kanji variations, meanings, and pronunciation for the given name Mindee.",
+    "url": "https://japanese-names.info/my-name-in-japanese/first-name/mindee/",
+    "pass": 3
+   },
+   {
+    "quote": "Live in Osaka, Japan!! | Mindee Jorgensen on Patreon — May 26, 2025 · Live in Osaka, Japan!! by Mindee Jorgensen on Patreon. Join Mindee Jorgensen's community for exclusive content and updates.",
+    "url": "https://www.patreon.com/Mindeejorgensen/posts/live-in-osaka-129558972",
+    "pass": 3
+   },
+   {
+    "quote": "Models Overview | Mindee — Understand the core concepts of Mindee models, the different types available, and how to use them.",
+    "url": "https://docs.mindee.com/models/models-overview",
+    "pass": 3
+   },
+   {
+    "quote": "Customer stories - Mindee — Our customers typically see accuracy rates between 85-95% out of the box, with continuous improvement over time as the system learns from your documents. Accuracy depends on document quality, complexity, and variability. Is integration complex, or does it require training time? No.",
+    "url": "https://www.mindee.com/case-study",
+    "pass": 3
+   },
+   {
+    "quote": "5 Mindee Case Studies, Success Stories, & Customer Stories — Discover how other companies use Mindee, get inspired, and find ways to improve your business.",
+    "url": "https://www.featuredcustomers.com/vendor/mindee/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Mindee B2B Case Studies & Customer Successes — See how Mindee solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/mindee",
+    "pass": 3
+   },
+   {
+    "quote": "Automated HR expense management: Lucca & Mindee Story — In this case study, we explore how Lucca leveraged Mindee’s powerful solution to enhance efficiency, boost accuracy, and ultimately transform HR expense management for a truly modern workplace!",
+    "url": "https://www.mindee.com/case-study/hr-expense-lucca",
+    "pass": 3
+   },
+   {
+    "quote": "Mindee – Company Insights & Financial Strength – 2026 — Discover Mindee's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/mindee",
+    "pass": 3
+   },
+   {
+    "quote": "Mindee - 2026 Company Profile, Team, Funding & Competitors ... — Jan 26, 2026 · Mindee has raised $23.4M in funding from investors like Y Combinator, GGV Capital and Serena. The company has 718 active competitors, including 122 funded and 56 that have exited.",
+    "url": "https://tracxn.com/d/companies/mindee/__ixRlegbkoK0DEuCLoT_hBxzs3s6n8FUBIJ1oBGy0WP4",
+    "pass": 3
+   },
+   {
+    "quote": "Mindee 2026 Company Profile: Valuation, Funding & Investors ...Mindee Revenue 2024: $3.5M Est. ARR, $16.2M Raised - LATKAMindee.co — venture-backed company profile | DealroomMindee: Funding, Team & Investors | Startup IntrosMindee - Crunchbase Company Profile & Funding — Information on valuation, funding, cap tables, investors, and executives for Mindee. Use the PitchBook Platform to explore the f",
+    "url": "https://pitchbook.com/profiles/company/228323-17",
+    "pass": 3
+   },
+   {
+    "quote": "Mindee Revenue 2024: $3.5M Est. ARR, $16.2M Raised - LATKA — Oct 17, 2024 · In 2024, Mindee's revenue reached $3.5M. The company previously reported $2.3M in 2023. Since its launch in 2018, Mindee has shown consistent revenue growth. Mindee has not publicly disclosed its valuation. The company has raised $16.2M in total funding to date.",
+    "url": "https://getlatka.com/companies/mindee",
+    "pass": 3
+   },
+   {
+    "quote": "Mindee.co — venture-backed company profile | Dealroom — Since emerging from stealth in October 2021, Mindee has raised a total of $23.4 million in funding over several rounds. A significant Series A round in October 2021 raised $14 million, led by GGV Capital with participation from investors like Alven, Serena Capital, and Bpifrance.",
+    "url": "https://dealroom.co/companies/mindee-co/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/mindee/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/mindee/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/228323-17",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Mindee_Official (@Mindee_Official) / Posts / X Mindee_Official (@Mindee_Official) - Posts - Where Mental Wellbeing Meets Everyday Life | X (formerly Twitter)",
+    "url": "https://x.com/mindee_official",
+    "pass": 3
+   },
+   {
+    "quote": "Mindee Gilbert (@mindeeG) / Posts / X Mindee Gilbert (@mindeeG) - Posts - Wife🌸, Mom🙎♂️💁♀️, Christ follower ️, lifelong learner👩💻 Software Engineer @ Xero | Explori... | X (formerly Twitter)",
+    "url": "https://x.com/mindeeG",
+    "pass": 3
+   },
+   {
+    "quote": "Mindee G (@minderskol) / Posts / X They refused to fill the order while I was there. It was only ONE ITEM. Totally ridiculous to be told it would be ready and then not get the item I paid for!! Now I have to waste my time and gas to go back instead of being able to get it while I was already out near the store. 💬0 🔄0 🤍0 0 📎 Mindee Gminderskol Oct 6",
+    "url": "https://x.com/minderskol",
+    "pass": 3
+   },
+   {
+    "quote": "Mindee (@mindee_nicole) / X These posts are protected Only approved followers can see @mindee_nicole’s posts.",
+    "url": "https://x.com/mindee_nicole",
+    "pass": 3
+   },
+   {
+    "quote": "Mindee (@Mindee123) / X 27 Mindee @Mindee123 Mar 9, 2024 Creo que puedo decir que Miss. Little sunshine es una de mis películas favoritas 🥹",
+    "url": "https://x.com/Mindee123",
+    "pass": 3
+   },
+   {
+    "quote": "@MindeeAPI | X The latest posts from @MindeeAPI",
+    "url": "https://x.com/MindeeAPI",
+    "pass": 3
+   },
+   {
+    "quote": "mindee (@mindee23) / X holden everett 🥰💙 @mindee23 holden everett 🥰💙 Joined December 2015 66Following 63Followers Mention Follow RepliesRepostsRepostsMedia",
+    "url": "https://x.com/mindee23",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Mindee - LinkedIn Mindee | 4,157 followers on LinkedIn. Build lightning-fast, accurate, and robust document processing automation features in your software | We are at the forefront of transforming document ...",
+    "url": "https://www.linkedin.com/company/mindee",
+    "pass": 3
+   },
+   {
+    "quote": "Mindee | LinkedIn Mindee | 4,167 followers on LinkedIn. Build lightning-fast, accurate, and robust document processing automation features in your software | We are at the forefront of transforming document...",
+    "url": "https://in.linkedin.com/company/mindee",
+    "pass": 3
+   },
+   {
+    "quote": "mindee - LinkedIn Guia online que conecta pessoas a psicólogos com CRP ativo, de forma simples, ética e direta. | O mindee é um guia online que conecta pessoas que buscam atendimento psicológico a psicólogos ...",
+    "url": "https://www.linkedin.com/company/mindeepsicologos",
+    "pass": 3
+   },
+   {
+    "quote": "Mindee Plugues - Mars | LinkedInMindee Nodvin - Entrepreneur, Director of Strategy + Creative ...Mindee Owens - Chief of Staff, Health100 Cybersecurity ...600+ \"Mindee\" profiles | LinkedIn View Mindee Plugues’ profile on LinkedIn, a professional community of 1 billion members. View Mindee Nodvin’s profile on LinkedIn, a professional community of 1 billion members. · Experience: CVS Health · Locati",
+    "url": "https://www.linkedin.com/in/mindee-plugues",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Mindee Malloy Photography - FacebookMindee Ong - FacebookMinDee’s Nuts | Malvern IA - FacebookMindee Reece - FacebookMindee Mastrov (@mindee.mastrov) • Facebook, Connect with friendsMinDee Mahler Sommerla - FacebookMindee Hardin - Facebook Nov 2, 2025 · Mindee Malloy Photography. 1,724 likes · 1 talking about this. St. Louis Wedding and Portrait Photographer Jan 4, 2026 · Mindee Ong. 3,376 followe",
+    "url": "https://www.facebook.com/mindeemalloyphotography/",
+    "pass": 3
+   },
+   {
+    "quote": "Mindee Ong - FacebookMinDee’s Nuts | Malvern IA - FacebookMindee Reece - FacebookMindee Mastrov (@mindee.mastrov) • Facebook, Connect with friendsMinDee Mahler Sommerla - FacebookMindee Hardin - Facebook Jan 4, 2026 · Mindee Ong. 3,376 followers · 2 talking about this. Sg Mummy Daily musing with 2 girls & 2 minibullterrier MinDee’s Nuts, Malvern. 1,110 likes · 188 talking about this · 9 were here.",
+    "url": "https://www.facebook.com/mindeeong.sg/",
+    "pass": 3
+   },
+   {
+    "quote": "MinDee’s Nuts | Malvern IA - FacebookMindee Reece - FacebookMindee Mastrov (@mindee.mastrov) • Facebook, Connect with friendsMinDee Mahler Sommerla - FacebookMindee Hardin - Facebook MinDee’s Nuts, Malvern. 1,110 likes · 188 talking about this · 9 were here. Passionate about creating homemade, hearty, and nutritious snacking options. Oct 8, 2026 · Mindee Reece. 2,555 followers · 52 talking about t",
+    "url": "https://www.facebook.com/mindeesnuts/",
+    "pass": 3
+   },
+   {
+    "quote": "Mindee Reece - Facebook Oct 8, 2026 · Mindee Reece. 2,555 followers · 52 talking about this. CEO/Executive Director of the Ronald McDonald House Charities of Northeast Kansas",
+    "url": "https://www.facebook.com/MindeeRMHC/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.mindee.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mindee.com/case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mindee.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mindee.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mindee.com/blog/leading-ocr-api-solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mindee.com/case-study/spendesk-spend-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mindee.com/case-study/hr-expense-lucca",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mindee.com/case-study/receipt-management-indy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mindee.com/case-study/payfit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mindee.com/case-study/carlabella-ocr-expense-automation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mindee.com/blog/ocr-api-pricing-free-vs-paid",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mindee.com/case-study/payfit-mindee-french-tech-partnership-simplifies-management-european-smbs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mindee.com/platform",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.mindee.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toolmage.com/ja/tool/mindee/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://moge.ai/ja/product/mindee",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mindee.coach/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/Hamee",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E9%96%A2%E5%8F%A3%E3%83%A1%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mindee.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanese-names.info/my-name-in-japanese/first-name/mindee/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.patreon.com/Mindeejorgensen/posts/live-in-osaka-129558972",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mindee.com/case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/mindee/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/mindee",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mindee.com/case-study/hr-expense-lucca",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/mindee",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/mindee/__ixRlegbkoK0DEuCLoT_hBxzs3s6n8FUBIJ1oBGy0WP4",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/228323-17",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/mindee",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/mindee_official",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mindeeG",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/minderskol",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mindee_nicole",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/mindee",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/mindee",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/mindeepsicologos",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/mindee-plugues",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mindeemalloyphotography/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mindeeong.sg/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mindeesnuts/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MindeeRMHC/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Mindee123",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mindee_nicole",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MindeeAPI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mindee23",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Mindee 日本 導入",
+   "results": [
+    "https://www.mindee.com/",
+    "https://www.toolmage.com/ja/tool/mindee/",
+    "https://moge.ai/ja/product/mindee",
+    "https://mindee.coach/",
+    "https://japan.zdnet.com/article/35253426/",
+    "https://www.propagateinc.com/post/fde-engineer-trends",
+    "https://www.itmedia.co.jp/business/articles/2610/08/news016.html"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mindee 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/Hamee",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.capgemini.com/jp-jp/about-us/overview-and-access/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://minne.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mindee Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/関口メンディー",
+    "https://www.mindee.com/",
+    "https://japanese-names.info/my-name-in-japanese/first-name/mindee/",
+    "https://www.patreon.com/Mindeejorgensen/posts/live-in-osaka-129558972",
+    "https://docs.mindee.com/models/models-overview",
+    "https://www.facebook.com/mindeevang/posts/-from-the-archives-japan-2025/28234725026112654/",
+    "https://www.instagram.com/reel/DIQJ6gypymD/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mindee manufacturing customer case study",
+   "results": [
+    "https://www.mindee.com/case-study",
+    "https://www.featuredcustomers.com/vendor/mindee/case-studies",
+    "https://www.casestudies.com/company/mindee",
+    "https://www.mindee.com/case-study/hr-expense-lucca",
+    "https://www.mckinsey.com/about-us/case-studies",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.tcs.com/what-we-do/industries/manufacturing/case-studies"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mindee white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://partner.vw.com/partner",
+    "https://www.seoreseller.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/",
+    "https://www.upcounsel.com/reseller-agreement"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mindee founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/mindee",
+    "https://tracxn.com/d/companies/mindee/__ixRlegbkoK0DEuCLoT_hBxzs3s6n8FUBIJ1oBGy0WP4",
+    "https://pitchbook.com/profiles/company/228323-17",
+    "https://getlatka.com/companies/mindee",
+    "https://dealroom.co/companies/mindee-co/",
+    "https://startupintros.com/orgs/mindee",
+    "https://www.crunchbase.com/organization/mindee"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Mindee",
+   "results": [
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/inokun/n/n7efa91c9eeb2",
+    "https://note.com/masashi3122/n/n6f41b990b137",
+    "https://note.com/tsubo828/n/n7b9a9e3202c3",
+    "https://note.com/godel/n/n219ff14f4820"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Mindee",
+   "results": [
+    "https://x.com/mindee_official",
+    "https://x.com/mindeeG",
+    "https://x.com/minderskol",
+    "https://x.com/mindee_nicole",
+    "https://x.com/mindee23",
+    "https://x.com/mindeeforman",
+    "https://x.com/mindeejorgensen"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Mindee",
+   "results": [
+    "https://www.linkedin.com/company/mindee",
+    "https://in.linkedin.com/company/mindee",
+    "https://www.linkedin.com/company/mindeepsicologos",
+    "https://www.linkedin.com/in/mindee-plugues",
+    "https://www.linkedin.com/in/mindeenodvin",
+    "https://www.linkedin.com/in/mindee-owens-4143a3",
+    "https://www.linkedin.com/pub/dir/Mindee/+"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Mindee",
+   "results": [
+    "https://www.facebook.com/mindeemalloyphotography/",
+    "https://www.facebook.com/mindeeong.sg/",
+    "https://www.facebook.com/mindeesnuts/",
+    "https://www.facebook.com/MindeeRMHC/",
+    "https://www.facebook.com/mindee.mastrov/",
+    "https://www.facebook.com/mindee.sommerla/",
+    "https://www.facebook.com/mindeehardin/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mindee note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.msn.com/ja-jp/money/economy/note-社長が55万株を市場売却-好決算後に株価急反落-本人の裁量は介在していないと説明/ar-AA21Bsqw",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mindee X 投稿",
+   "results": [
+    "https://x.com/Mindee123",
+    "https://x.com/mindee_nicole",
+    "https://x.com/MindeeAPI",
+    "https://x.com/mindee23",
+    "https://www.mindee.com/",
+    "https://mindee-bot.com/forum/index.php",
+    "https://x.com/midonerujp/status/2119084844517073015"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部40頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部40頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部40頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部40頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部40頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部40頁・検索12回）"
+ }
+}

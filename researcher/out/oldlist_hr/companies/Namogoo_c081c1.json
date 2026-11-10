@@ -1,0 +1,865 @@
+{
+ "name": "Namogoo",
+ "aliases": [],
+ "context": "旧営業リスト｜E-commerce Optimization｜日本進出済",
+ "researched_at": "2026-11-09T23:48:55.899096+00:00",
+ "official_url": "https://www.namogoo.com/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2014",
+    "url": "https://en.wikipedia.org/wiki/Namogoo",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Boston, USA Herzliya, Israel",
+    "url": "https://en.wikipedia.org/wiki/Namogoo",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Tealium for Marketing",
+    "url": "https://tealium.com/integrations/namogoo/",
+    "pass": 3
+   },
+   {
+    "quote": "Predictive Insights & Customer Analytics",
+    "url": "https://tealium.com/integrations/namogoo/",
+    "pass": 3
+   },
+   {
+    "quote": "Data Collection & Privacy",
+    "url": "https://tealium.com/integrations/namogoo/",
+    "pass": 3
+   },
+   {
+    "quote": "Unified Customer Profile",
+    "url": "https://tealium.com/integrations/namogoo/",
+    "pass": 3
+   },
+   {
+    "quote": "Practical guidance for the people behind the data.",
+    "url": "https://tealium.com/integrations/namogoo/",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Namogoo",
+    "pass": 3
+   },
+   {
+    "quote": "It may require cleanup to comply with Wikipedia's content policies, particularly",
+    "url": "https://en.wikipedia.org/wiki/Namogoo",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Journey Hijacking Prevention, Customer Privacy Protection",
+    "url": "https://en.wikipedia.org/wiki/Namogoo",
+    "pass": 3
+   },
+   {
+    "quote": "company that helps online businesses prevent Customer Journey Hijacking. Namogoo’s technology detects and blocks unauthorized ads injected into consumer browsers that redirect website visitors to competitor products and promotions.",
+    "url": "https://en.wikipedia.org/wiki/Namogoo",
+    "pass": 3
+   },
+   {
+    "quote": "Namogoo was founded in August 2014 by entrepreneurs Chemi Katz and Ohad Greenshpan. In December 2014, the company launched its Customer Hijacking Prevention platform, which detects and blocks malicious content and unauthorized ads injected onto visitor sessions.",
+    "url": "https://en.wikipedia.org/wiki/Namogoo",
+    "pass": 3
+   },
+   {
+    "quote": "In January 2021, Namogoo launched Intent-Based Promotions, which autonomously optimizes promotion spend by synchronizing eCommerce brands’ business goals with real-time shopper intent, preventing customer journey abandonment and increasing revenue.",
+    "url": "https://en.wikipedia.org/wiki/Namogoo",
+    "pass": 3
+   },
+   {
+    "quote": "In July 2021, Namogoo announced its acquisition of Remarkety, an e-commerce–focused email and SMS marketing automation company.",
+    "url": "https://en.wikipedia.org/wiki/Namogoo",
+    "pass": 3
+   },
+   {
+    "quote": "Following consecutive layoffs in 2022 and 2023, Namogoo’s workforce declined from about 140 to 40 employees.",
+    "url": "https://en.wikipedia.org/wiki/Namogoo",
+    "pass": 3
+   },
+   {
+    "quote": "In November 2025, Namogoo was acquired by French firm AB Tasty in a share-based deal reportedly valued between $20 million and $40 million - far below its previous $177 million valuation.",
+    "url": "https://en.wikipedia.org/wiki/Namogoo",
+    "pass": 3
+   },
+   {
+    "quote": "The sale resulted in significant losses for several investors, despite Namogoo having raised $84.5 million over the preceding decade.",
+    "url": "https://en.wikipedia.org/wiki/Namogoo",
+    "pass": 3
+   },
+   {
+    "quote": "service, built on proprietary",
+    "url": "https://en.wikipedia.org/wiki/Namogoo",
+    "pass": 3
+   },
+   {
+    "quote": "technology, detects and blocks invasive content distributed across",
+    "url": "https://en.wikipedia.org/wiki/Namogoo",
+    "pass": 3
+   },
+   {
+    "quote": "techniques to classify and restrict unauthorized web activity. Its core engine processes data points related to content inspection,",
+    "url": "https://en.wikipedia.org/wiki/Namogoo",
+    "pass": 3
+   },
+   {
+    "quote": "\"Tumi.com's conversion rate increases after blocking unwanted ads\"",
+    "url": "https://en.wikipedia.org/wiki/Namogoo",
+    "pass": 3
+   },
+   {
+    "quote": "\"Customer journey hijacking prevention tool Namogoo acquires Personali for its behavioural analytics\"",
+    "url": "https://en.wikipedia.org/wiki/Namogoo",
+    "pass": 3
+   },
+   {
+    "quote": "\"Namogoo Launches First-of-its-Kind Intent-Based Promotion Machine for eCommerce\"",
+    "url": "https://en.wikipedia.org/wiki/Namogoo",
+    "pass": 3
+   },
+   {
+    "quote": "Online advertising methods",
+    "url": "https://en.wikipedia.org/wiki/Namogoo",
+    "pass": 3
+   },
+   {
+    "quote": "Articles with a promotional tone from July 2024",
+    "url": "https://en.wikipedia.org/wiki/Namogoo",
+    "pass": 3
+   },
+   {
+    "quote": "All articles with a promotional tone",
+    "url": "https://en.wikipedia.org/wiki/Namogoo",
+    "pass": 3
+   },
+   {
+    "quote": ", a non-profit organization.",
+    "url": "https://en.wikipedia.org/wiki/Namogoo",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Journey Hijacking Prevention with Namogoo | Shopify Features",
+    "url": "https://swankyagency.com/customer-journey-hijacking-prevention-namogoo/",
+    "pass": 3
+   },
+   {
+    "quote": "Ecommerce Digital Marketing",
+    "url": "https://swankyagency.com/customer-journey-hijacking-prevention-namogoo/",
+    "pass": 3
+   },
+   {
+    "quote": "Increasing Retention With the Klaviyo & Gorgias Integration",
+    "url": "https://swankyagency.com/customer-journey-hijacking-prevention-namogoo/",
+    "pass": 3
+   },
+   {
+    "quote": "MyClothing: Multi-Channel Digital Marketing",
+    "url": "https://swankyagency.com/customer-journey-hijacking-prevention-namogoo/",
+    "pass": 3
+   },
+   {
+    "quote": "Connected Commerce Strategies For Professional Sports Teams",
+    "url": "https://swankyagency.com/customer-journey-hijacking-prevention-namogoo/",
+    "pass": 3
+   },
+   {
+    "quote": "A comprehensive resource for technical ecommerce leaders exploring composability on Shopify.",
+    "url": "https://swankyagency.com/customer-journey-hijacking-prevention-namogoo/",
+    "pass": 3
+   },
+   {
+    "quote": "Ecommerce Spotlight: Customer Journey Hijacking Prevention with Namogoo",
+    "url": "https://swankyagency.com/customer-journey-hijacking-prevention-namogoo/",
+    "pass": 3
+   },
+   {
+    "quote": "Check out our interview with Tal Rotman of Namogoo, exploring the phenomenon of customer journey hijacking. What is it, how does it affect customers and merchants, and how does Namogoo prevent it?",
+    "url": "https://swankyagency.com/customer-journey-hijacking-prevention-namogoo/",
+    "pass": 3
+   },
+   {
+    "quote": "Today, Namogoo’s Tal Rotman joins us to discuss customer journey hijacking prevention. But first, let’s take a snapshot view of this swanky technology.",
+    "url": "https://swankyagency.com/customer-journey-hijacking-prevention-namogoo/",
+    "pass": 3
+   },
+   {
+    "quote": "pioneering technology helps prevent customer journey hijacking. It detects and blocks unauthorised ads injected into consumers’ browsers that redirect site visitors to competitor products and promotions, thus lifting conversion rate and winning back stolen online revenue.",
+    "url": "https://swankyagency.com/customer-journey-hijacking-prevention-namogoo/",
+    "pass": 3
+   },
+   {
+    "quote": "By eliminating invasive content on a site, visitors can enjoy the customer journey as intended, whilst merchants can enjoy better visibility with increased accuracy around journey analytics – a win-win solution.",
+    "url": "https://swankyagency.com/customer-journey-hijacking-prevention-namogoo/",
+    "pass": 3
+   },
+   {
+    "quote": "Some of the world’s leading brands, including Argos, Dollar Shave Club, ASICS and Ocado, use Namogoo to prevent customer journey hijacking and boost their business metrics. Check out some of their biggest success stories",
+    "url": "https://swankyagency.com/customer-journey-hijacking-prevention-namogoo/",
+    "pass": 3
+   },
+   {
+    "quote": "Across our global customer base, approximately 15 to 25% of sessions experience journey hijacking.",
+    "url": "https://swankyagency.com/customer-journey-hijacking-prevention-namogoo/",
+    "pass": 3
+   },
+   {
+    "quote": "The benefits of hijacking prevention software",
+    "url": "https://swankyagency.com/customer-journey-hijacking-prevention-namogoo/",
+    "pass": 3
+   },
+   {
+    "quote": "Namogoo prevents visitors leaving your site through journey hijacking.",
+    "url": "https://swankyagency.com/customer-journey-hijacking-prevention-namogoo/",
+    "pass": 3
+   },
+   {
+    "quote": "Thank you to Tal for exploring customer journey hijacking prevention with us. Find out more about the phenomenon and its affect on business",
+    "url": "https://swankyagency.com/customer-journey-hijacking-prevention-namogoo/",
+    "pass": 3
+   },
+   {
+    "quote": "customer journey hijacking prevention",
+    "url": "https://swankyagency.com/customer-journey-hijacking-prevention-namogoo/",
+    "pass": 3
+   },
+   {
+    "quote": "Hannah is Swanky's Content Manager and Copywriter. She enjoys researching the exciting world of ecommerce and crafting engaging articles to help ecommerce managers around the world make the most of their presence online. Her blogs specialise in ecommerce strategy, website design and store optimisation.",
+    "url": "https://swankyagency.com/customer-journey-hijacking-prevention-namogoo/",
+    "pass": 3
+   },
+   {
+    "quote": "Receive our newsletter straight to your inbox, packed full of useful marketing tips and growth strategies for your online store.",
+    "url": "https://swankyagency.com/customer-journey-hijacking-prevention-namogoo/",
+    "pass": 3
+   },
+   {
+    "quote": "Get to know like-minded entrepreneurs in the digital transformation space. Share experiences and learnings from your ecommerce journey.",
+    "url": "https://swankyagency.com/customer-journey-hijacking-prevention-namogoo/",
+    "pass": 3
+   },
+   {
+    "quote": "From curated gift guides and creator-led content to bold Black Friday campaigns, we explore creative approaches to help ecommerce brands stand out during the holiday period.",
+    "url": "https://swankyagency.com/customer-journey-hijacking-prevention-namogoo/",
+    "pass": 3
+   },
+   {
+    "quote": "Senior Digital Marketing Manager and retention specialist Stephen Rowley unpacks practical steps for multi-brand retailers looking to consolidate separate Klaviyo accounts into one centralised CRM.",
+    "url": "https://swankyagency.com/customer-journey-hijacking-prevention-namogoo/",
+    "pass": 3
+   },
+   {
+    "quote": "16 Apr 2026",
+    "url": "https://swankyagency.com/customer-journey-hijacking-prevention-namogoo/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: How a Simple Lead Generation Campaign Helped Increase Monthly Revenue By 143% During Black November",
+    "url": "https://swankyagency.com/customer-journey-hijacking-prevention-namogoo/",
+    "pass": 3
+   },
+   {
+    "quote": "Join Harley Scotland, Digital Project Manager in Swanky’s Australian team, as he walks through the structured multi-channel marketing campaign that drove successful BFCM performance for Brisbane-based business Salon Supplies & Furniture.",
+    "url": "https://swankyagency.com/customer-journey-hijacking-prevention-namogoo/",
+    "pass": 3
+   },
+   {
+    "quote": "Namogoo lays off 15% of workforce | Ctech",
+    "url": "https://www.calcalistech.com/ctechnews/article/hjjawkyri",
+    "pass": 3
+   },
+   {
+    "quote": "Promising Startups 2026",
+    "url": "https://www.calcalistech.com/ctechnews/article/hjjawkyri",
+    "pass": 3
+   },
+   {
+    "quote": "Namogoo lays off 15% of workforce",
+    "url": "https://www.calcalistech.com/ctechnews/article/hjjawkyri",
+    "pass": 3
+   },
+   {
+    "quote": "Israeli startup Namogoo, which has developed a digital journey continuity platform, has laid off 25 employees, making up 15% of the company’s workforce, Calcalist has learned. Most of the employees leaving the company are based in Israel. Namogoo’s team will total around 140 people following the layoffs, mostly in Israel, and the rest in London, Boston, and New York.",
+    "url": "https://www.calcalistech.com/ctechnews/article/hjjawkyri",
+    "pass": 3
+   },
+   {
+    "quote": "“We are refocusing our product and marketing efforts and will return to focus on big and medium-sized companies rather than small companies that require a lot of marketing expenses,” Chemi Katz, CEO and co-founder of Namogoo, told Calcalist. “We want to reach profitability by the middle of next year and we will change our expense structure.”",
+    "url": "https://www.calcalistech.com/ctechnews/article/hjjawkyri",
+    "pass": 3
+   },
+   {
+    "quote": "Cyber unicorn Cybereason sacks 200 employees, 17% of workforce",
+    "url": "https://www.calcalistech.com/ctechnews/article/hjjawkyri",
+    "pass": 3
+   },
+   {
+    "quote": "Namogoo, founded in 2014 by Katz and CTO Ohad Greenshpan, helps websites prevent their potential paying customers from getting distracted by third-party offers, coupons, or discounts that might tempt them into leaving the current website and migrating somewhere else.",
+    "url": "https://www.calcalistech.com/ctechnews/article/hjjawkyri",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Cloud Data Warehouse Partner Ecosystem",
+    "url": "https://tealium.com/integrations/namogoo/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Redefining Luxury Fragrance Ecommerce With a High-Performance Shopify Upgrade",
+    "url": "https://swankyagency.com/customer-journey-hijacking-prevention-namogoo/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: How Swanky Implemented a New Ecommerce Tracking System",
+    "url": "https://swankyagency.com/customer-journey-hijacking-prevention-namogoo/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: How a Simple Lead Generation Campaign Helped Increase Monthly Revenue By 143% During Black November",
+    "url": "https://swankyagency.com/customer-journey-hijacking-prevention-namogoo/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Join a live demonstration of Tealium's native support for Namogoo to see how Tealium makes it easier to implement and enrich this part of your digital stack.",
+    "url": "https://tealium.com/integrations/namogoo/",
+    "pass": 3
+   },
+   {
+    "quote": "In May 2020, Namogoo completed its strategic acquisition of behavioral analytics platform Personali.",
+    "url": "https://en.wikipedia.org/wiki/Namogoo",
+    "pass": 3
+   },
+   {
+    "quote": "In January 2021, Namogoo launched Intent-Based Promotions, which autonomously optimizes promotion spend by synchronizing eCommerce brands’ business goals with real-time shopper intent, preventing customer journey abandonment and increasing revenue.",
+    "url": "https://en.wikipedia.org/wiki/Namogoo",
+    "pass": 3
+   },
+   {
+    "quote": "In July 2021, Namogoo announced its acquisition of Remarkety, an e-commerce–focused email and SMS marketing automation company.",
+    "url": "https://en.wikipedia.org/wiki/Namogoo",
+    "pass": 3
+   },
+   {
+    "quote": "Following consecutive layoffs in 2022 and 2023, Namogoo’s workforce declined from about 140 to 40 employees.",
+    "url": "https://en.wikipedia.org/wiki/Namogoo",
+    "pass": 3
+   },
+   {
+    "quote": "In November 2025, Namogoo was acquired by French firm AB Tasty in a share-based deal reportedly valued between $20 million and $40 million - far below its previous $177 million valuation.",
+    "url": "https://en.wikipedia.org/wiki/Namogoo",
+    "pass": 3
+   },
+   {
+    "quote": "\"Namogoo fires half of employees in transition to AI\"",
+    "url": "https://en.wikipedia.org/wiki/Namogoo",
+    "pass": 3
+   },
+   {
+    "quote": "\"Part of a trend: Startup Namogoo sold at a loss\"",
+    "url": "https://en.wikipedia.org/wiki/Namogoo",
+    "pass": 3
+   },
+   {
+    "quote": "pioneering technology helps prevent customer journey hijacking. It detects and blocks unauthorised ads injected into consumers’ browsers that redirect site visitors to competitor products and promotions, thus lifting conversion rate and winning back stolen online revenue.",
+    "url": "https://swankyagency.com/customer-journey-hijacking-prevention-namogoo/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: How a Simple Lead Generation Campaign Helped Increase Monthly Revenue By 143% During Black November",
+    "url": "https://swankyagency.com/customer-journey-hijacking-prevention-namogoo/",
+    "pass": 3
+   },
+   {
+    "quote": "The Israeli startup, which raised $15 million six months ago to take its total funding to $81 million, is parting ways with 25 employees",
+    "url": "https://www.calcalistech.com/ctechnews/article/hjjawkyri",
+    "pass": 3
+   },
+   {
+    "quote": "Israeli startup Namogoo, which has developed a digital journey continuity platform, has laid off 25 employees, making up 15% of the company’s workforce, Calcalist has learned. Most of the employees leaving the company are based in Israel. Namogoo’s team will total around 140 people following the layoffs, mostly in Israel, and the rest in London, Boston, and New York.",
+    "url": "https://www.calcalistech.com/ctechnews/article/hjjawkyri",
+    "pass": 3
+   },
+   {
+    "quote": "HP lays off 60 employees in Israel",
+    "url": "https://www.calcalistech.com/ctechnews/article/hjjawkyri",
+    "pass": 3
+   },
+   {
+    "quote": "Cyber unicorn Cybereason sacks 200 employees, 17% of workforce",
+    "url": "https://www.calcalistech.com/ctechnews/article/hjjawkyri",
+    "pass": 3
+   },
+   {
+    "quote": "“We are continuing to grow nicely every year and we are in a good position with revenue in the tens of millions of dollars,” added Katz.",
+    "url": "https://www.calcalistech.com/ctechnews/article/hjjawkyri",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "In July 2021, Namogoo announced its acquisition of Remarkety, an e-commerce–focused email and SMS marketing automation company.",
+    "url": "https://en.wikipedia.org/wiki/Namogoo",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "They are utilised by brands, platforms and agencies around the world to navigate the complex world of modern commerce, enhancing knowledge and guiding strategy.",
+    "url": "https://swankyagency.com/customer-journey-hijacking-prevention-namogoo/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Namogoo - Tealium — Namogoo - Tealium Tealium https://tealium.com > Integrations",
+    "url": "https://tealium.com/integrations/namogoo/",
+    "pass": 3
+   },
+   {
+    "quote": "Namogoo - Wikipedia — Namogoo - Wikipedia Wikipedia https://en.wikipedia.org > Namogoo",
+    "url": "https://en.wikipedia.org/wiki/Namogoo",
+    "pass": 3
+   },
+   {
+    "quote": "Namogoo Jobs and Careers - Welcome to the Jungle — Namogoo Jobs and Careers - Welcome to the Jungle app.welcometothejungle.com https://app.welcometothejungle.com > ...",
+    "url": "https://app.welcometothejungle.com/companies/Namogoo",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Journey Hijacking Prevention with Namogoo — Customer Journey Hijacking Prevention with Namogoo Swanky | Shopify Plus Agency https://swankyagency.com > customer...",
+    "url": "https://swankyagency.com/customer-journey-hijacking-prevention-namogoo/",
+    "pass": 3
+   },
+   {
+    "quote": "Namogoo Reviews 2026: Details, Pricing, & Features | G2 — Namogoo Reviews 2026: Details, Pricing, & Features | G2 G2 https://www.g2.com > reviews",
+    "url": "https://www.g2.com/products/namogoo-namogoo/reviews",
+    "pass": 3
+   },
+   {
+    "quote": "Namogoo - 2026 Company Profile & Team - Tracxn — Namogoo - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/namogoo/__gxpkgxcI7ckAJO5IL_bcqztqM2y0IRwc3MMZC5O8rFk",
+    "pass": 3
+   },
+   {
+    "quote": "Namogoo - Crunchbase Company Profile & Funding — Namogoo - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > namo...",
+    "url": "https://www.crunchbase.com/organization/namogoo",
+    "pass": 3
+   },
+   {
+    "quote": "Namogoo lays off 15% of workforce | Ctech — Namogoo lays off 15% of workforce | Ctech calcalistech.com https://www.calcalistech.com > article",
+    "url": "https://www.calcalistech.com/ctechnews/article/hjjawkyri",
+    "pass": 3
+   },
+   {
+    "quote": "Namogoo — venture-backed company profile | Dealroom — Namogoo — venture-backed company profile | Dealroom Dealroom https://dealroom.co > namogoo",
+    "url": "https://dealroom.co/companies/namogoo/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Hila Barilan‏ - ‏ Namogoo - LinkedIn Hila Barilan‏ - ‏ Namogoo - LinkedIn LinkedIn https://il.linkedin.com > ...",
+    "url": "https://il.linkedin.com/in/hila-barilan-74ba30b",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.abtasty.com/adaptivecx/",
+    "status": "http_403",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://amesha-world.com/info/detail.php?id=4277",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.webcg.net/articles/-/54501",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growth-dx.com/column/agency_dealer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hits-company.co.jp/alliance/column/agency-business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tealium.com/integrations/namogoo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Namogoo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://app.welcometothejungle.com/upgrade-your-job-search",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://swankyagency.com/customer-journey-hijacking-prevention-namogoo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJht4TPlI-vjVviMS6AjR4M4EHKlByXltH8iTN1YvlHr4rD5KLI",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manufacturingleadershipcouncil.com/case-study-transforming-through-manufacturing-4-0/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aws.amazon.com/jp/manufacturing/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.google.com/sorry/index?continue=https://www.youtube.com/watch%3Fv%3Dx1u4hsp2EVQ&q=EgSAVS7qGLu4ydcGIjB3o67Hv2X8xVNugrtGsyMY8sgD5ETZrd3LwhS4SHVu_NHjoRiEBoQkc1b3rW7EbxUyAnJSWgFDYPDwl8PHge-2Dw",
+    "status": "http_429",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/white-label-software-to-resell/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.totalum.app/blog/white-label-ai-app-builder-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/namogoo/__gxpkgxcI7ckAJO5IL_bcqztqM2y0IRwc3MMZC5O8rFk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/namogoo",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.calcalistech.com/ctechnews/article/hjjawkyri",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dealroom.co/companies/namogoo/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://il.linkedin.com/in/hila-barilan-74ba30b",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Namogoo 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://amesha-world.com/info/detail.php?id=4277",
+    "https://www.webcg.net/articles/-/54501",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://www.mycar-life.com/article/2026/11/08/32725.html",
+    "https://trafficnews.jp/post/725198",
+    "https://x.com/car_repo_jp/status/2118844561376379257",
+    "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Namogoo 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.bgent.net/plus/article/7044",
+    "https://growth-dx.com/column/agency_dealer/",
+    "https://www.hits-company.co.jp/alliance/column/agency-business/",
+    "https://dairitenboshu.com/",
+    "https://www.deex.co.jp/media/8uGKOPAJ",
+    "https://partner-prop.com/lab/partner-business/agency/3216/",
+    "https://ecnomikata.com/blog/51120/",
+    "https://www.biz.ne.jp/list/corporate-agency/",
+    "https://product.hiway.app/blog/distributor-business/",
+    "https://b-seeds.com/column/sole-agency-agreement"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Namogoo Japan",
+   "results": [
+    "https://tealium.com/integrations/namogoo/",
+    "https://en.wikipedia.org/wiki/Namogoo",
+    "https://app.welcometothejungle.com/companies/Namogoo",
+    "https://swankyagency.com/customer-journey-hijacking-prevention-namogoo/",
+    "https://www.g2.com/products/namogoo-namogoo/reviews",
+    "https://www.fintechweekly.com/fintech-companies/namogoo",
+    "https://www.instagram.com/namogoo/",
+    "https://yespress.io/namogoo",
+    "https://www.crunchbase.com/organization/namogoo",
+    "https://en.globes.co.il/en/article-Startup-Namogoo-sold-at-a-loss-1001526873"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Namogoo manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJht4TPlI-vjVviMS6AjR4M4EHKlByXltH8iTN1YvlHr4rD5KLI",
+    "https://manufacturingleadershipcouncil.com/case-study-transforming-through-manufacturing-4-0/",
+    "https://aws.amazon.com/manufacturing/case-studies/",
+    "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.insight.com/en_US/content-and-resources.html?tags=stream-type%3Acase-studies&tags=stream-partner%3Agoogle-cloud&offset=0&limit=10&year=&q=&language=en&pagePath=%2Fcontent%2Finsight-web%2Fen_US%2Fcontent-and-resources&searchPath=%2Fcontent%2Finsight-web%2Fen_US%2Fcontent-and-resources&srsltid=AYCX9vL-zQSP5EdvAXDHhiOen_ycpT59oFmKmWP4icXXRmJlRWrVABwC",
+    "https://oroinc.com/b2b-ecommerce/blog/digital-transformation-in-manufacturing-case-studies/",
+    "https://pages.awscloud.com/rs/112-TZM-766/images/01_Manufacturing%20Symposium_Cloud%20for%20Manufacturing.pdf?version=0",
+    "https://www.factory-twin.com/casestudies",
+    "https://www.casestudies.com/company/atreo/case-study/namogoo-customer-case-study"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Namogoo white label OR reseller OR partner program",
+   "results": [
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://suitedash.com/white-label-software-to-resell/",
+    "https://www.totalum.app/blog/white-label-ai-app-builder-2026",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://getquantic.com/become-white-label-software-reseller/",
+    "https://content.platfio.com/blog/software-reseller-programs-worth-joining-2026",
+    "https://sales-label.com/blog/white-label-saas-reseller",
+    "https://www.goodbarber.com/blog/7-best-app-builders-for-resellers-and-agencies-a1590/",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Namogoo founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/namogoo/__gxpkgxcI7ckAJO5IL_bcqztqM2y0IRwc3MMZC5O8rFk",
+    "https://www.crunchbase.com/organization/namogoo",
+    "https://www.calcalistech.com/ctechnews/article/hjjawkyri",
+    "https://dealroom.co/companies/namogoo/",
+    "https://il.linkedin.com/in/ohadgreenshpan",
+    "https://app.welcometothejungle.com/companies/Namogoo",
+    "https://en.globes.co.il/en/article-startup-namogoo-sold-at-a-loss-1001526873",
+    "https://techcrunch.com/2020/05/04/namogoo-personali/",
+    "https://www.cbinsights.com/company/namogoo/financials",
+    "https://compworth.com/company/namogoo"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Namogoo",
+   "results": [
+    "https://note.com/ohba_artlife/n/n05276a0cd96d",
+    "https://note.com/yuko_ak/n/n95dc8a40aace?hl=en",
+    "https://note.com/atsuatsu/n/nf435dbad579c",
+    "https://note.com/yuko_ak/n/n95dc8a40aace/comments",
+    "https://note.com/spark_radio/n/n1e729f06c4b9",
+    "https://note.com/kitayama_yumi/n/nf936fd57c3c4",
+    "https://note.com/banamotobanami/n/nff9396707b51",
+    "https://note.com/koomuugiiko/n/n8acc1d198f56",
+    "https://note.com/wanwan527/n/n5ac1fde2a075/comments",
+    "https://note.com/jpml/n/n36f7be5bf3f5"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Namogoo",
+   "results": [
+    "https://x.com/Onnivation_VC/status/1560513978711052289",
+    "https://x.com/gaprise_martech",
+    "https://x.com/bezeq",
+    "https://x.com/davidblumberg",
+    "https://x.com/fraisst/status/2030281978554282146",
+    "https://x.com/mma_20_18",
+    "https://x.com/xgia",
+    "https://x.com/kaipan_jp",
+    "https://x.com/NamogooAdam",
+    "https://x.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com Namogoo",
+   "results": [
+    "https://il.linkedin.com/in/ohadgreenshpan",
+    "https://www.linkedin.com/company/wandzai",
+    "https://il.linkedin.com/in/hila-barilan-74ba30b",
+    "https://il.linkedin.com/in/chemikatz",
+    "https://il.linkedin.com/in/eladsafdieh",
+    "https://il.linkedin.com/in/sivan-brick-153352169",
+    "https://il.linkedin.com/in/drorraskin",
+    "https://il.linkedin.com/in/ilankerpel",
+    "https://www.linkedin.com/posts/ohadgreenshpan_forescouts-numbers-say-most-of-healthcare-activity-7523349816287039489-opKo",
+    "https://rh.linkedin.com/company/namogoo/?trk=products_details_guest_organization_page"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Namogoo",
+   "results": [
+    "https://www.facebook.com/wandzai1/photos/unstoppable-sivan-brick-unstoppable-full-stack-developer-team-leader-and-now-uns/5170173779696693/",
+    "https://www.facebook.com/IT.Works.Excel.HT/posts/%D7%A1%D7%99%D7%A4%D7%95%D7%A8_%D7%94%D7%A6%D7%9C%D7%97%D7%94%D7%95%D7%94%D7%99%D7%95%D7%9D-%D7%97%D7%91%D7%A8%D7%AA-namogoo-%D7%97%D7%9C%D7%95%D7%A6%D7%AA-%D7%94%D7%93%D7%A8%D7%9A-%D7%91%D7%AA%D7%97%D7%95%D7%9D-online-journey-hijacking-preventi/10157108815344257/",
+    "https://m.facebook.com/webrazzi/photos/a.381806391105/10156335839731106/",
+    "https://www.facebook.com/spreetail/posts/our-team-is-gearing-up-for-another-day-of-sema-here-in-vegaswere-excited-to-expl/1829591298642443/",
+    "https://www.facebook.com/marketerHQ/posts/every-creative-strategist-knows-they-should-watch-the-competition-almost-nobody-/122260981922092561/",
+    "https://www.facebook.com/xdqueenrica/posts/balik-tas-reyalidad-order-namo-goo/2545119582624208/",
+    "https://www.facebook.com/DOBKINPR/posts/%D7%97%D7%9E%D7%99-%D7%9B%D7%A5-%D7%94%D7%90%D7%99%D7%A9-%D7%95%D7%94%D7%90%D7%92%D7%93%D7%94-%D7%9E%D7%A0%D7%9B%D7%9C-%D7%95%D7%A9%D7%95%D7%AA%D7%A3-%D7%9E%D7%99%D7%99%D7%A1%D7%93-%D7%91%D7%97%D7%91%D7%A8%D7%AA-namogoo-%D7%9E%D7%A1%D7%A4%D7%A8-%D7%90%D7%AA-%D7%A1%D7%99%D7%A4%D7%95%D7%A8%D7%95-%D7%99%D7%95%D7%A6%D7%90-%D7%94%D7%93%D7%95%D7%A4%D7%9F-%D7%95%D7%A1%D7%99%D7%A4/2335090190040976/",
+    "https://www.facebook.com/geektimecoil/posts/%D7%94%D7%A6%D7%A6%D7%94-%D7%9C%D7%9E%D7%A9%D7%A8%D7%93%D7%99-namogoo-%D7%A9%D7%94%D7%95%D7%A7%D7%9E%D7%95-%D7%A2%D7%9C-%D7%97%D7%95%D7%A8%D7%91%D7%95%D7%AA-%D7%9E%D7%95%D7%A2%D7%93%D7%95%D7%9F-%D7%94%D7%91%D7%99%D7%9C%D7%99%D7%90%D7%A8%D7%93-%D7%94%D7%9E%D7%99%D7%AA%D7%95%D7%9C%D7%95%D7%92%D7%99-%D7%A9%D7%9C-%D7%A8%D7%A2%D7%A0%D7%A0%D7%94/10154147039544588/?locale=pt_BR",
+    "https://www.facebook.com/theceo.in/posts/pine-labs-has-acquired-100-stake-in-shopflo-in-a-cash-deal-valued-at-up-to-rs-88/1419492856872934/",
+    "https://www.facebook.com/namogoo/posts/namogoo-is-the-markets-only-digital-journey-continuity-platform-and-now-weve-cre/4995581613822578/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Namogoo note 社長",
+   "results": [
+    "https://note.com/shacho_homon/m/m1bd972cc202e",
+    "https://x.com/sadaaki",
+    "https://note.com/naoko_minori",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://online.nikkei-cnbc.co.jp/vod/58940",
+    "https://diamond.jp/articles/-/388572",
+    "https://note.com/tag/%E7%A4%BE%E9%95%B7%E3%83%96%E3%83%AD%E3%82%B0",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://en.wikipedia.org/wiki/Namogoo",
+    "https://www.youtube.com/watch?v=5ti2DDUreSg"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Namogoo X 投稿",
+   "results": [
+    "https://www.instagram.com/namogoo/",
+    "https://apitracker.io/a/namogoo",
+    "https://x.com/SOMPO_JP/status/2011347563488952663?lang=ja",
+    "https://docs.tealium.com/ja/client-side-tags/x-pixel-tag/",
+    "https://x.com/nammo",
+    "https://www.youtube.com/shorts/9kB59-UuEno",
+    "http://twitter.com/namamonoo",
+    "https://namoluosi.x.yupoo.com/albums/",
+    "https://www.pixiv.net/users/94943234",
+    "https://x.com/Namogoo"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部25頁・検索12回）"
+ }
+}

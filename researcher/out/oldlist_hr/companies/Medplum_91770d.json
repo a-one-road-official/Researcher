@@ -1,0 +1,1435 @@
+{
+ "name": "Medplum",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-10T00:08:19.355405+00:00",
+ "official_url": "https://www.medplum.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "30-Sep-2022    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/501328-54",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Start with our production-ready apps, then customize them to fit your needs.",
+    "url": "https://www.medplum.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore the Provider App",
+    "url": "https://www.medplum.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Build what you need—without rebuilding the foundation. Medplum provides the core primitives required to ship and operate healthcare software in production.",
+    "url": "https://www.medplum.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Build the exact custom EHR your organization needs, tailored precisely to your unique workflows and specifications",
+    "url": "https://www.medplum.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our platform empowers population health teams to improve outcomes and maximize shared savings",
+    "url": "https://www.medplum.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Free your care managers to focus on providing truly compassionate and personalized support",
+    "url": "https://www.medplum.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Operational reliability for mission-critical healthcare, backed by our enterprise SLA.",
+    "url": "https://www.medplum.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From startups to enterprises, Medplum facilitates care for over 20 million patients.",
+    "url": "https://www.medplum.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Product, Thirty Madison",
+    "url": "https://www.medplum.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Thanks to the expertise of the Medplum team, we were able to swiftly implement their product and get it up and running seamlessly. Their proactive approach in anticipating and mitigating any issues during our ramp-up was an example of first rate partnership.",
+    "url": "https://www.medplum.com/",
+    "pass": 1
+   },
+   {
+    "quote": "With their robust product, we've gained the agility to rapidly introduce new features, enabling Thirty Madison to maintain its commitment to putting patients first.",
+    "url": "https://www.medplum.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Medplum is the best FHIR server implementation. Flexpa uses it to power our API and we wouldn't have nearly as good a product without it.",
+    "url": "https://www.medplum.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We have been dreaming of a product that simplifies building custom EHRs and clinical tools for years. Medplum achieves this with an expert team, a fantastic developer experience, and standards compliance.",
+    "url": "https://www.medplum.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Love seeing scalability & performance treated as a first-class feature. Always a sign of a project that takes quality seriously.",
+    "url": "https://www.medplum.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Open source will transform healthcare, and Medplum is a prime example.",
+    "url": "https://www.medplum.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From custom EHRs to payer platforms, leading healthcare organizations use Medplum to launch products faster. Explore what they've built — and",
+    "url": "https://www.medplum.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "with AI-assisted documentation designed around how independent pediatric practices actually work.",
+    "url": "https://www.medplum.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Everself built Orbit, a custom EHR on Medplum for its outpatient weight-loss programs, unifying scheduling, charting, messaging, labs, and",
+    "url": "https://www.medplum.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Starting from scratch? Medplum Provider is our open-source reference implementation — run it on day one, then customize every screen and workflow.",
+    "url": "https://www.medplum.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Explore Medplum Provider",
+    "url": "https://www.medplum.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Portals, onboarding, messaging, and scheduling that patients actually use — fully connected to the clinical record behind the scenes, so nothing",
+    "url": "https://www.medplum.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Ambient scribes and clinical agents whose output lands directly in the chart as structured data — not in a silo. Build AI that reads context, takes",
+    "url": "https://www.medplum.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Registries, screening programs, and analytics that help organizations track cohorts, close care gaps, and report with confidence — on data that",
+    "url": "https://www.medplum.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Color's Virtual Cancer Clinic serves nearly 200 employers, health plans and unions, providing full spectrum cancer care to their",
+    "url": "https://www.medplum.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "populations, from screening and early detection, through treatment and survivorship. To provide gold standard cancer care at this scale, Color",
+    "url": "https://www.medplum.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Tia runs its own network of multi-disciplinary clinics — primary care, gynecology, mental health, and metabolic and skin health — on a custom",
+    "url": "https://www.medplum.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "EHR built on Medplum. Appointment scheduling, lab results, clinical follow-up, and billing questions all land in one prioritized work queue,",
+    "url": "https://www.medplum.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "filterable by assignee, type, status, and market, so nothing sits unowned as the clinic footprint grows.",
+    "url": "https://www.medplum.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Pictionhealth runs its teledermatology care model on Medplum Provider out of the box, and bills payers through a live Candid Health integration.",
+    "url": "https://www.medplum.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "The data layer between plans, providers, and the apps patients choose.",
+    "url": "https://www.medplum.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "side: utilization management, member data, and provider collaboration.",
+    "url": "https://www.medplum.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Adding Practitioners & Data",
+    "url": "https://www.medplum.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Visit Templates and the SOAP Approach",
+    "url": "https://www.medplum.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Matching Patients to Providers by State-by-State Licensure",
+    "url": "https://www.medplum.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Representing Prescriptions and Medication Orders",
+    "url": "https://www.medplum.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Care Plans, Goals, and Progress",
+    "url": "https://www.medplum.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Processing and Coordinating Referrals",
+    "url": "https://www.medplum.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Searching and Querying Threads",
+    "url": "https://www.medplum.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Representing Asynchronous Encounters",
+    "url": "https://www.medplum.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Representing Patient Insurance Coverage",
+    "url": "https://www.medplum.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Modeling Provider Organizations",
+    "url": "https://www.medplum.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Modeling Provider Networks",
+    "url": "https://www.medplum.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Modeling Provider Qualifications",
+    "url": "https://www.medplum.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Processing Asynchronous Bundles",
+    "url": "https://www.medplum.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "External Identity Providers",
+    "url": "https://www.medplum.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Domain-level Identity Providers",
+    "url": "https://www.medplum.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Project vs Server Scoped Users",
+    "url": "https://www.medplum.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Good Manufacturing Practices",
+    "url": "https://www.medplum.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "AWS Textract/Comprehend",
+    "url": "https://www.medplum.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Multiple Practice Locations",
+    "url": "https://www.medplum.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Prescriber Enrollment",
+    "url": "https://www.medplum.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Supervising Prescribers",
+    "url": "https://www.medplum.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Professional Claims Submission (837P)",
+    "url": "https://www.medplum.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Electronic Prior Auth",
+    "url": "https://www.medplum.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Self-Hosting Best Practices",
+    "url": "https://www.medplum.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "StructureDefinition $expand-profile",
+    "url": "https://www.medplum.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Good Manufacturing Practices | Medplum",
+    "url": "https://www.medplum.com/docs/compliance/gmp",
+    "pass": 1
+   },
+   {
+    "quote": "Adding Practitioners & Data",
+    "url": "https://www.medplum.com/docs/compliance/gmp",
+    "pass": 1
+   },
+   {
+    "quote": "Visit Templates and the SOAP Approach",
+    "url": "https://www.medplum.com/docs/compliance/gmp",
+    "pass": 1
+   },
+   {
+    "quote": "Matching Patients to Providers by State-by-State Licensure",
+    "url": "https://www.medplum.com/docs/compliance/gmp",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by Healthcare Leaders & Innovators",
+    "url": "https://www.medplum.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rad AI builds generative AI trusted by radiologists across thousands of healthcare facilities, using Medplum to ground its models in structured",
+    "url": "https://www.medplum.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Good Manufacturing Practices",
+    "url": "https://www.medplum.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Data Warehouse Connector",
+    "url": "https://www.medplum.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Good Manufacturing Practices | Medplum",
+    "url": "https://www.medplum.com/docs/compliance/gmp",
+    "pass": 1
+   },
+   {
+    "quote": "Good Manufacturing Practices",
+    "url": "https://www.medplum.com/docs/compliance/gmp",
+    "pass": 1
+   },
+   {
+    "quote": "Good Manufacturing Practices (GMP) are a set of guidelines, regulations, and quality management systems designed to ensure that products, particularly pharmaceuticals, medical devices, and food products, are consistently manufactured, controlled, and tested according to established quality standards.",
+    "url": "https://www.medplum.com/docs/compliance/gmp",
+    "pass": 1
+   },
+   {
+    "quote": "The primary goal of GMP is to protect the consumer by minimizing risks associated with the manufacturing process, ensuring the safety, quality, and efficacy of products.",
+    "url": "https://www.medplum.com/docs/compliance/gmp",
+    "pass": 1
+   },
+   {
+    "quote": "Adequate training, qualifications, and hygiene of personnel involved in the manufacturing process to maintain high-quality standards.",
+    "url": "https://www.medplum.com/docs/compliance/gmp",
+    "pass": 1
+   },
+   {
+    "quote": "Good Manufacturing Practices",
+    "url": "https://www.medplum.com/solutions/custom-ehr",
+    "pass": 1
+   },
+   {
+    "quote": "Text Pediatricians in 15 Minutes - Summer Health Case Study",
+    "url": "https://www.medplum.com/solutions/custom-ehr",
+    "pass": 1
+   },
+   {
+    "quote": "Value Based Care and Elderly Populations - Ensage Case Study",
+    "url": "https://www.medplum.com/solutions/custom-ehr",
+    "pass": 1
+   },
+   {
+    "quote": "Good Manufacturing Practices",
+    "url": "https://www.medplum.com/solutions/patient-portal",
+    "pass": 1
+   },
+   {
+    "quote": "Good Manufacturing Practices",
+    "url": "https://www.medplum.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Good Manufacturing Practices",
+    "url": "https://www.medplum.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Good Manufacturing Practices",
+    "url": "https://www.medplum.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Good Manufacturing Practices",
+    "url": "https://www.medplum.com/blog/develo-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Good Manufacturing Practices",
+    "url": "https://www.medplum.com/blog/everself-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "24/7 Pediatrician Access - Summer Health Case Study | Medplum",
+    "url": "https://www.medplum.com/blog/summer-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Good Manufacturing Practices",
+    "url": "https://www.medplum.com/blog/summer-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "24/7 Pediatrician Access - Summer Health Case Study",
+    "url": "https://www.medplum.com/blog/summer-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Rad AI Omni Reporting - Case Study | Medplum",
+    "url": "https://www.medplum.com/blog/radai-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Good Manufacturing Practices",
+    "url": "https://www.medplum.com/blog/radai-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Rad AI Omni Reporting - Case Study",
+    "url": "https://www.medplum.com/blog/radai-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Good Manufacturing Practices",
+    "url": "https://www.medplum.com/blog/flexpa-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "At Home Diagnostics - Ro Case Study | Medplum",
+    "url": "https://www.medplum.com/blog/ro-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Good Manufacturing Practices",
+    "url": "https://www.medplum.com/blog/ro-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "At Home Diagnostics - Ro Case Study",
+    "url": "https://www.medplum.com/blog/ro-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Two founders and an AI code factory",
+    "url": "https://www.medplum.com/blog/medimind-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Then we spent a week standing in that laboratory, writing down every complaint and every wish. Several of them went from a sentence said out loud to running in production the same day. By the third time that happened, the technicians stopped asking carefully.",
+    "url": "https://www.medplum.com/blog/medimind-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "MediMind / Medplum case study video",
+    "url": "https://www.medplum.com/blog/medimind-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Value Based Care and Elderly Populations - Ensage Case Study | Medplum",
+    "url": "https://www.medplum.com/blog/ensage-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Good Manufacturing Practices",
+    "url": "https://www.medplum.com/blog/ensage-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Value Based Care and Elderly Populations - Ensage Case Study",
+    "url": "https://www.medplum.com/blog/ensage-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "And for data teams, we offer the Medplum Data Warehouse for a SQL-like querying experience for analytics and reporting purposes. Read more about that",
+    "url": "https://www.medplum.com/blog/traditional-fhir",
+    "pass": 1
+   },
+   {
+    "quote": "Good Manufacturing Practices",
+    "url": "https://www.medplum.com/solutions/provider-portal",
+    "pass": 1
+   },
+   {
+    "quote": "At Home Diagnostics - Ro Case Study",
+    "url": "https://www.medplum.com/solutions/provider-portal",
+    "pass": 1
+   },
+   {
+    "quote": "Value Based Care and Elderly Populations - Ensage Case Study",
+    "url": "https://www.medplum.com/solutions/provider-portal",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "From MVP to IPO—and every major milestone in between—Medplum’s technology backs you up and grows with you.",
+    "url": "https://www.medplum.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Cycle Management",
+    "url": "https://www.medplum.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Optimize your revenue cycle for efficiency and maximum returns",
+    "url": "https://www.medplum.com/",
+    "pass": 1
+   },
+   {
+    "quote": "CEO, Metriport",
+    "url": "https://www.medplum.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Charge capture, claims, and payments built on the same record as the clinical work — so revenue operations stop chasing missing data and start",
+    "url": "https://www.medplum.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "to build a full operating system for pediatrics, rather than just optimizing a narrow set of provider workflows.",
+    "url": "https://www.medplum.com/blog/develo-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue cycle management",
+    "url": "https://www.medplum.com/blog/everself-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Rad AI is excited to use open source FHIRcast for context syncing and data passing with our imaging and worklist partners. Having an open-source, standards-based FHIRcast hub lowers the barrier of entry for products to work together.",
+    "url": "https://www.medplum.com/blog/radai-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "None of that is about lighter rules. We are treating patients across a 25-hospital network, we carry the obligations any hospital system carries for accuracy and availability, and we handle personal health data under Georgian data protection law, which is aligned with GDPR. What we do not carry is thirty years of software sediment.",
+    "url": "https://www.medplum.com/blog/medimind-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Nobody made us do this, and that is unusual enough to say out loud. In the US, FHIR mostly arrives as a compliance requirement, which is why so many engineers there treat it as a tax. There is no Georgian FHIR mandate, and no regulator here was ever going to ask us for it. We adopted it because it was the best available data model for the product we wanted to build.",
+    "url": "https://www.medplum.com/blog/medimind-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "is, where to look and what to expect. The structure carries the meaning and Georgian only has to carry the free text. A low-resource language stopped being a compounding penalty. Medplum's",
+    "url": "https://www.medplum.com/blog/medimind-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Figure 2: Laboratory task board. Analyzer results arriving as Observation and DiagnosticReport.",
+    "url": "https://www.medplum.com/blog/medimind-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "EnSage overcame significant technical challenges in this project, including the need to aggregate data from a wide array of sources such as claims data, CMS datasets, and more. Additionally, they required a bespoke workflow that incorporated case management across multiple organizations that necessitated sophisticated access controls.",
+    "url": "https://www.medplum.com/blog/ensage-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Billing and Revenue Cycle",
+    "url": "https://www.medplum.com/blog/ensage-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Functional and longevity medicine is chronic and complex. A new patient often arrives with ten or twelve overlapping complaints — \"everybody's tired\" — where the real question is",
+    "url": "https://www.medplum.com/blog/profile-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "— the lifetime of history that gives the genome meaning. Patients answer by voice or text, starting open-ended (\"what are your top three concerns, and what are your goals?\"), and an LLM decides what to ask next, narrowing toward the likely root cause instead of marching through every question. Profile encodes clinical frameworks (a functional-medicine \"terrain\" model) as structured",
+    "url": "https://www.medplum.com/blog/profile-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "These are all very reasonable questions for developers doing due diligence on Medplum, and part of the beauty of open source is that you can",
+    "url": "https://www.medplum.com/blog/traditional-fhir",
+    "pass": 1
+   },
+   {
+    "quote": "This is sometimes called \"OLTP FHIR\" — using FHIR for online transaction processing, the live read/write path of a real product, rather than only for export, analytics, or exchange. It's the part of Medplum that tends to surprise people, because the ecosystem has largely treated FHIR as something you project data",
+    "url": "https://www.medplum.com/blog/traditional-fhir",
+    "pass": 1
+   },
+   {
+    "quote": "Medplum, figures like load-test results and uptime are reassurance during evaluation, not daily operational concerns — because you generally aren't the one carrying pager duty for the Medplum service. That distinction is itself the abstraction working as intended. Feel free to read more about",
+    "url": "https://www.medplum.com/blog/traditional-fhir",
+    "pass": 1
+   },
+   {
+    "quote": "Billing and Revenue Cycle Scenarios",
+    "url": "https://www.medplum.com/solutions/provider-portal",
+    "pass": 1
+   },
+   {
+    "quote": "Commonly in diagnostics and specialty care providers are not part of the same professional corporation due to geographic or institutional restrictions. Data can be routed and tagged for",
+    "url": "https://www.medplum.com/solutions/provider-portal",
+    "pass": 1
+   },
+   {
+    "quote": "Medplum has 11 total employees.",
+    "url": "https://pitchbook.com/profiles/company/501328-54",
+    "pass": 3
+   },
+   {
+    "quote": "What is Medplum’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/501328-54",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Medplum is",
+    "url": "https://pitchbook.com/profiles/company/501328-54",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Send SMTP Emails with SendGrid",
+    "url": "https://www.medplum.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Testing emails with Mailtrap Email Sandbox",
+    "url": "https://www.medplum.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Private Slack and email",
+    "url": "https://www.medplum.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Send SMTP Emails with SendGrid",
+    "url": "https://www.medplum.com/docs/compliance/gmp",
+    "pass": 1
+   },
+   {
+    "quote": "Testing emails with Mailtrap Email Sandbox",
+    "url": "https://www.medplum.com/docs/compliance/gmp",
+    "pass": 1
+   },
+   {
+    "quote": "Send SMTP Emails with SendGrid",
+    "url": "https://www.medplum.com/solutions/custom-ehr",
+    "pass": 1
+   },
+   {
+    "quote": "Testing emails with Mailtrap Email Sandbox",
+    "url": "https://www.medplum.com/solutions/custom-ehr",
+    "pass": 1
+   },
+   {
+    "quote": "Send SMTP Emails with SendGrid",
+    "url": "https://www.medplum.com/solutions/patient-portal",
+    "pass": 1
+   },
+   {
+    "quote": "Testing emails with Mailtrap Email Sandbox",
+    "url": "https://www.medplum.com/solutions/patient-portal",
+    "pass": 1
+   },
+   {
+    "quote": "Send SMTP Emails with SendGrid",
+    "url": "https://www.medplum.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Testing emails with Mailtrap Email Sandbox",
+    "url": "https://www.medplum.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Send SMTP Emails with SendGrid",
+    "url": "https://www.medplum.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Testing emails with Mailtrap Email Sandbox",
+    "url": "https://www.medplum.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Send SMTP Emails with SendGrid",
+    "url": "https://www.medplum.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Testing emails with Mailtrap Email Sandbox",
+    "url": "https://www.medplum.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Send SMTP Emails with SendGrid",
+    "url": "https://www.medplum.com/blog/develo-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Testing emails with Mailtrap Email Sandbox",
+    "url": "https://www.medplum.com/blog/develo-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Send SMTP Emails with SendGrid",
+    "url": "https://www.medplum.com/blog/everself-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Testing emails with Mailtrap Email Sandbox",
+    "url": "https://www.medplum.com/blog/everself-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Send SMTP Emails with SendGrid",
+    "url": "https://www.medplum.com/blog/summer-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Testing emails with Mailtrap Email Sandbox",
+    "url": "https://www.medplum.com/blog/summer-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Send SMTP Emails with SendGrid",
+    "url": "https://www.medplum.com/blog/radai-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Testing emails with Mailtrap Email Sandbox",
+    "url": "https://www.medplum.com/blog/radai-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Send SMTP Emails with SendGrid",
+    "url": "https://www.medplum.com/blog/flexpa-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Testing emails with Mailtrap Email Sandbox",
+    "url": "https://www.medplum.com/blog/flexpa-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Send SMTP Emails with SendGrid",
+    "url": "https://www.medplum.com/blog/ro-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Testing emails with Mailtrap Email Sandbox",
+    "url": "https://www.medplum.com/blog/ro-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Send SMTP Emails with SendGrid",
+    "url": "https://www.medplum.com/blog/ensage-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Testing emails with Mailtrap Email Sandbox",
+    "url": "https://www.medplum.com/blog/ensage-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Send SMTP Emails with SendGrid",
+    "url": "https://www.medplum.com/solutions/provider-portal",
+    "pass": 1
+   },
+   {
+    "quote": "Testing emails with Mailtrap Email Sandbox",
+    "url": "https://www.medplum.com/solutions/provider-portal",
+    "pass": 1
+   },
+   {
+    "quote": "Sending notifications via email, SMS or via integration into tools is a common need for referring provider portals. For example, a referring physician might receive an email when the results of a diagnostic report for a patient are available. Medplum",
+    "url": "https://www.medplum.com/solutions/provider-portal",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/501328-54",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "shows the basics that are very common to medical practices, both in person and virtual care. You will notice that the application is completely white-label and is operating under a single domain.",
+    "url": "https://www.medplum.com/solutions/patient-portal",
+    "pass": 1
+   },
+   {
+    "quote": ", and white labeling it so that it is run off a customer domain.",
+    "url": "https://www.medplum.com/solutions/provider-portal",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Medplum — Thanks to the expertise of the Medplum team, we were able to swiftly implement their product and get it up and running seamlessly. Their proactive approach in anticipating and mitigating any issues during our ramp-up was an example of first rate partnership.",
+    "url": "https://www.medplum.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Medplum MCP Server：ツール・導入・設定 — Medplum is a healthcare platform that helps you quickly develop high-quality compliant applications. Claude・Cursor・VS Code 向けの設定を掲載。",
+    "url": "https://mcp.so/ja/servers/medplum",
+    "pass": 3
+   },
+   {
+    "quote": "FHIRプラットフォーム Medplumとは？ #AI - Qiita — Jun 24, 2025 · Medplumとは何か？ Medplum は APIファースト・FHIRネイティブなオープンソースの医療プラットフォーム で、「Firebaseのようにバックエンドの複雑さを隠しながら、医療アプリをすぐに作り始められる」開発環境を提供します 。",
+    "url": "https://qiita.com/TechParakeet/items/4ec21299070b33987cf9",
+    "pass": 3
+   },
+   {
+    "quote": "Medplumをローカル構築 #Docker - Qiita — Jun 8, 2025 · Medplumとは Medplumは、医療アプリケーションを迅速に開発、テスト、提供するためのオープンソースの医療開発者プラットフォームです。 FHIR (Fast Healthcare Interoperability Resources) 標準に準拠したAPIファースト...",
+    "url": "https://qiita.com/TechParakeet/items/845c9b755f21e1814525",
+    "pass": 3
+   },
+   {
+    "quote": "Integrations and Interoperability Engine - Medplum — To get started integrating services into Medplum, it can be useful to think about which type of medical applications have which type of interfaces. Medplum provides the infrastructure that helps connect systems like these together.",
+    "url": "https://www.medplum.com/products/integration",
+    "pass": 3
+   },
+   {
+    "quote": "Medplum — Medplum is the open source developer platform for shipping clinical software.",
+    "url": "https://www.medplum.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact Us - Medplum — Join our Discord community to connect with other users and get help from the Medplum team. Found a potential issue? Please help us by reporting it so we can fix it quickly. Contact us at security@medplum.com. Need Support?",
+    "url": "https://www.medplum.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "GitHub - medplum/medplum: Medplum is a healthcare platform ... — Medplum is a developer platform that enables flexible and rapid development of healthcare apps. Medplum Auth - End-to-end identity solution for easy user authentication, sign-in, and permissions using OAuth, OpenID, and SMART-on-FHIR.",
+    "url": "https://github.com/medplum/medplum",
+    "pass": 3
+   },
+   {
+    "quote": "Medplum for Founders: What It Solves & Costs | TechMagic — Jul 31, 2026 · In this Medplum for founders guide, we answer three questions in plain language: what Medplum solves, what it costs to build with it versus from scratch, and how to choose a partner who has run it in production.",
+    "url": "https://www.techmagic.co/blog/medplum-for-founders",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies | Medplum — Read the details on Medplum implementations with extensive reference materials, documentation and videos. Medplum is a best of breed EHR for integrating AI. Our customers build sophisticated, high-fidelity AI driven applications on an open source platform with much attention to detail.",
+    "url": "https://www.medplum.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "12 posts tagged with \"case-study\" - Medplum — Sep 2, 2026 · MediMind is a proactive, AI-native hospital system built from the ground up on FHIR R4, now under contract with a 25-hospital network in the Republic of Georgia. Here is why we rebuilt what a hospital runs on instead of adding features to what was already there, and why we built it on Medplum.",
+    "url": "https://www.medplum.com/blog/tags/case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Medplum Case Study | HIPAA-Compliant Health Platform ... — Explore this Medplum-based case study to see how TechMagic built a HIPAA-compliant digital health platform for preventive care and early cancer detection with secure workflows.",
+    "url": "https://www.techmagic.co/case-studies/medplum",
+    "pass": 3
+   },
+   {
+    "quote": "MediMind / Medplum Case Study | Medplum - LinkedIn — MediMind is building an AI-native hospital system on Medplum. Lab results, medications, and imaging share a FHIR R4 foundation, giving its applications and AI tools a consistent data model. With ...",
+    "url": "https://www.linkedin.com/posts/medplum_medimind-medplum-case-study-activity-7524168741019033601-VUgs",
+    "pass": 3
+   },
+   {
+    "quote": "Medplum Customers | Elion — Learn everything about Medplum. From product reviews to pricing, features and integrations with other products. All in one page from Elion.",
+    "url": "https://elion.health/products/medplum/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Medplum 2026 Company Profile: Valuation, Funding & Investors ...Medplum: Funding, Team & Investors | Startup IntrosMedplum - 2025 Company Profile, Team, Funding & Competitors ...Medplum - Crunchbase Company Profile & FundingMedplum Revenue 2024: $1.2M Est. - getlatka.comAbout us | MedplumMedplum - Products, Competitors, Financials, Employees ... — Information on valuation, funding, cap tables, inv",
+    "url": "https://pitchbook.com/profiles/company/501328-54",
+    "pass": 3
+   },
+   {
+    "quote": "Medplum: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Medplum was founded by a team of healthcare and software experts who recognized the need for a modern, open-source, API-first EHR platform that could overcome the limitations of legacy healthcare IT systems.",
+    "url": "https://startupintros.com/orgs/medplum",
+    "pass": 3
+   },
+   {
+    "quote": "Medplum - 2025 Company Profile, Team, Funding & Competitors ...Medplum - Crunchbase Company Profile & FundingMedplum Revenue 2024: $1.2M Est. - getlatka.comAbout us | MedplumMedplum - Products, Competitors, Financials, Employees ... — May 1, 2025 · Medplum is a seed company based in San Francisco (United States), founded in 2021 by Cody Ebberson. It operates as a Provider of healthcare application",
+    "url": "https://tracxn.com/d/companies/medplum/__ZgTrlyRWbhLFCtZOy2yVGFB_E3s1uppKI_o8YinjRgA",
+    "pass": 3
+   },
+   {
+    "quote": "Medplum - Crunchbase Company Profile & FundingMedplum Revenue 2024: $1.2M Est. - getlatka.comAbout us | MedplumMedplum - Products, Competitors, Financials, Employees ... — Medplum is a headless EHR that makes it easier to build healthcare applications with less code. They provide developers with the toolbox to tame the complexity of healthcare development. They focus on workflow automation, data s",
+    "url": "https://www.crunchbase.com/organization/medplum",
+    "pass": 3
+   },
+   {
+    "quote": "Medplum Revenue 2024: $1.2M Est. - getlatka.com — Sep 2, 2026 · How many employees does Medplum have? Medplum had 8 employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/medplum.com",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Reshma Khilnani on X: \"@Medplum1 & @ycombinator are hosting a ... YC x Medplum Hackathon From events.ycombinator.com 9:40 AM · Jul 16, 2026 65.6KViews 5",
+    "url": "https://x.com/ReshmaKhilnani/status/2077795574443888952",
+    "pass": 3
+   },
+   {
+    "quote": "Diana on X: \"come join and build something agentic for ... @ Medplum1 & @ ycombinator are hosting a Agentic Healthcare Hackathon on August 1. First prize is a YC Interview - this is a great opp for healthcare devs and open source enthusiasts👐 events.ycombinator.com/medplum-hackat…",
+    "url": "https://x.com/sdianahu/status/2077796601121390902",
+    "pass": 3
+   },
+   {
+    "quote": "Y Combinator on X: \"RT @ReshmaKhilnani: @Medplum1 ... First prize is a YC Interview - this is a great opp for healthcare devs and open source enthusiasts????",
+    "url": "https://x.com/ycombinator/status/2077804095839383751",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Medplum - LinkedIn Modern app development for healthcare | Create compliant healthcare apps quickly Medplum is a powerful, open source healthcare data platform built by industry veterans.",
+    "url": "https://www.linkedin.com/company/medplum",
+    "pass": 3
+   },
+   {
+    "quote": "Medplum - LinkedIn Medplum | Medplum is an EHR development platform that helps you build custom healthcare apps quickly and compliantly.",
+    "url": "https://www.linkedin.com/products/medplum/",
+    "pass": 3
+   },
+   {
+    "quote": "Reshma Khilnani - CEO at Medplum | LinkedInCody Ebberson - CTO at Medplum | LinkedInExploring Medplum’s Architecture: Building Modern Healthcare ...Everett Williams - Deployment Strategist at Medplum | LinkedInIntroducing the Medplum Design System: accelerate your ... About I am currently CEO at Medplum - we make a health record system for devs and would love to connect with any builders in the sp",
+    "url": "https://www.linkedin.com/in/reshmakhilnani",
+    "pass": 3
+   },
+   {
+    "quote": "Cody Ebberson - CTO at Medplum | LinkedInExploring Medplum’s Architecture: Building Modern Healthcare ...Everett Williams - Deployment Strategist at Medplum | LinkedInIntroducing the Medplum Design System: accelerate your ... CTO at Medplum · Experience: Medplum · Education: Harvard Business School · Location: San Francisco · 500+ connections on LinkedIn. Jul 16, 2026 · For developers exploring he",
+    "url": "https://www.linkedin.com/in/codyebberson",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "MedPlumb LLC- Plumbing Company | Forney TX - FacebookIT's Nurse - มาทำความรู้จักกับ Medplum... | FacebookFacebook - log in or sign upMedplum คือแพลตฟอร์มสำหรับพัฒนา... - Thongchai Thampueak ...Thongchai - Medplum คือแพลตฟอร์มสำหรับพัฒนา Healthcare Apps ...2011 F250 4x4 - Cars & Trucks - Napa, California | Facebook ...2011 Honda CR-Z · Coupe 2D - Cars & Trucks - Sunnyvale ... MedPlumb LLC- Plumbing",
+    "url": "https://www.facebook.com/medplumb/",
+    "pass": 3
+   },
+   {
+    "quote": "IT's Nurse - มาทำความรู้จักกับ Medplum... | Facebook Apr 1, 2026 · 🚀 มาทำความรู้จักกับ Medplum แพลตฟอร์มการพัฒนาระบบสุขภาพแบบ Open Source ที่กำลังสร้างปรากฏการณ์ในโลกเฮลท์แคร์! 🔥 ทำไม Medplum ถึงน่าสนใจ? FHIR ...",
+    "url": "https://www.facebook.com/nurseisit/posts/-มาทำความรู้จักกับ-medplum-แพลตฟอร์มการพัฒนาระบบสุขภาพแบบ-open-source-ที่กำลังสร/122126964735031715/",
+    "pass": 3
+   },
+   {
+    "quote": "Medplum คือแพลตฟอร์มสำหรับพัฒนา... - Thongchai Thampueak ... Feb 24, 2026 · 🩺 Medplum คือแพลตฟอร์มสำหรับพัฒนา Healthcare Apps ที่วางโครงสร้างครบตั้งแต่ Identity, Data, API ไปจนถึง UI บนมาตรฐาน FHIR ทำให้สร้างระบบที่ compliant...",
+    "url": "https://www.facebook.com/chaivsai/posts/-medplum-คือแพลตฟอร์มสำหรับพัฒนา-healthcare-apps-ที่วางโครงสร้างครบตั้งแต่-ident/3420559601436301/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.medplum.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.medplum.com/solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.medplum.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.medplum.com/docs/compliance/gmp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.medplum.com/solutions/custom-ehr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.medplum.com/solutions/patient-portal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.medplum.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.medplum.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.medplum.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.medplum.com/blog/develo-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.medplum.com/blog/everself-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.medplum.com/blog/summer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.medplum.com/blog/radai-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.medplum.com/blog/flexpa-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.medplum.com/blog/ro-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.medplum.com/blog/medimind-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.medplum.com/blog/ensage-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.medplum.com/blog/profile-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.medplum.com/blog/traditional-fhir",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.medplum.com/solutions/provider-portal",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.medplum.com/img/logos/develo.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.medplum.com/img/logos/chamber-cardio.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.medplum.com/img/logos/everselflogo.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.medplum.com/img/logos/cdc.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://mcp.so/ja/servers/medplum",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qiita.com/TechParakeet/items/4ec21299070b33987cf9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qiita.com/TechParakeet/items/845c9b755f21e1814525",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plamedasia.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.medipal.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.medical-jpn.jp/tokyo/en-gb.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/medplum/medplum",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techmagic.co/case-studies/medplum",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/medplum_medimind-medplum-case-study-activity-7524168741019033601-VUgs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/501328-54",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://startupintros.com/orgs/medplum",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/medplum/__ZgTrlyRWbhLFCtZOy2yVGFB_E3s1uppKI_o8YinjRgA",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/medplum",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ReshmaKhilnani/status/2077795574443888952",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/sdianahu/status/2077796601121390902",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ycombinator/status/2077804095839383751",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/medplum",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/medplum/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/reshmakhilnani",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/codyebberson",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/medplumb/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/nurseisit/posts/-มาทำความรู้จักกับ-medplum-แพลตฟอร์มการพัฒนาระบบสุขภาพแบบ-open-source-ที่กำลังสร/122126964735031715/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/chaivsai/posts/-medplum-คือแพลตฟอร์มสำหรับพัฒนา-healthcare-apps-ที่วางโครงสร้างครบตั้งแต่-ident/3420559601436301/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Medplum 日本 導入",
+   "results": [
+    "https://www.medplum.com/",
+    "https://mcp.so/ja/servers/medplum",
+    "https://qiita.com/TechParakeet/items/4ec21299070b33987cf9",
+    "https://qiita.com/TechParakeet/items/845c9b755f21e1814525",
+    "https://www.medplum.com/products/integration",
+    "https://www.medplum.com/docs",
+    "https://kachibito.net/useful-resource/medplum"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Medplum 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.plamedasia.com/",
+    "https://www.medipal.co.jp/",
+    "https://www.ipsen.com/japan/会社/",
+    "https://www.iryokikan.info/",
+    "https://www.medipal.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Medplum Japan",
+   "results": [
+    "https://www.medplum.com/",
+    "https://www.medical-jpn.jp/tokyo/en-gb.html",
+    "https://www.medplum.com/contact",
+    "https://github.com/medplum/medplum",
+    "https://www.techmagic.co/blog/medplum-for-founders",
+    "https://medium-japan.com/news/index.html",
+    "https://medium-japan.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Medplum manufacturing customer case study",
+   "results": [
+    "https://www.medplum.com/case-studies",
+    "https://www.medplum.com/blog/tags/case-study",
+    "https://www.techmagic.co/case-studies/medplum",
+    "https://www.linkedin.com/posts/medplum_medimind-medplum-case-study-activity-7524168741019033601-VUgs",
+    "https://elion.health/products/medplum/customers",
+    "https://nirmitee.io/case-study/neonatal-maternity-ehr-medplum-nicu-growth-tracking/",
+    "https://vintasoftware.com/clients/medplum",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/CS-MFG-Pepsi-v1.pdf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Medplum white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partners.spectrum.com/",
+    "https://upcloud.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Medplum founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/501328-54",
+    "https://startupintros.com/orgs/medplum",
+    "https://tracxn.com/d/companies/medplum/__ZgTrlyRWbhLFCtZOy2yVGFB_E3s1uppKI_o8YinjRgA",
+    "https://www.crunchbase.com/organization/medplum",
+    "https://getlatka.com/companies/medplum.com",
+    "https://www.cbinsights.com/company/medplum",
+    "https://www.medplum.com/about"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Medplum",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Medplum",
+   "results": [
+    "https://x.com/ReshmaKhilnani/status/2077795574443888952",
+    "https://x.com/sdianahu/status/2077796601121390902",
+    "https://x.com/",
+    "https://x.com/ycombinator/status/2077804095839383751",
+    "https://x.com/JoshCMandel/status/2113311466409369885",
+    "https://x.com/sdianahu",
+    "https://x.com/NoahFentys/status/2118178286157140113"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Medplum",
+   "results": [
+    "https://www.linkedin.com/company/medplum",
+    "https://www.linkedin.com/products/medplum/",
+    "https://www.linkedin.com/in/reshmakhilnani",
+    "https://www.linkedin.com/in/codyebberson",
+    "https://www.linkedin.com/pulse/exploring-medplums-architecture-building-modern-healthcare-saad-arif-wxkrf/",
+    "https://www.linkedin.com/in/everetttwilliams",
+    "https://www.linkedin.com/pulse/introducing-medplum-design-system-accelerate-your-healthcare-ztxlc"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Medplum",
+   "results": [
+    "https://www.facebook.com/medplumb/",
+    "https://www.facebook.com/nurseisit/posts/-มาทำความรู้จักกับ-medplum-แพลตฟอร์มการพัฒนาระบบสุขภาพแบบ-open-source-ที่กำลังสร/122126964735031715/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/chaivsai/posts/-medplum-คือแพลตฟอร์มสำหรับพัฒนา-healthcare-apps-ที่วางโครงสร้างครบตั้งแต่-ident/3420559601436301/",
+    "https://www.facebook.com/chaivsai/photos/-medplum-คือแพลตฟอร์มสำหรับพัฒนา-healthcare-apps-ที่วางโครงสร้างครบตั้งแต่-ident/3420558084769786/",
+    "https://www.facebook.com/marketplace/item/1846223743398943/",
+    "https://www.facebook.com/marketplace/item/4577311542588845/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Medplum note 社長",
+   "results": [
+    "https://www.medplum.com/about",
+    "https://pitchbook.com/profiles/company/501328-54",
+    "https://people.equilar.com/bio/org/medplum/11699526",
+    "https://seedtable.com/companies/medplum",
+    "https://jp.linkedin.com/company/medplum",
+    "https://www.linkedin.com/in/reshmakhilnani",
+    "https://note.com/k4medley"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Medplum X 投稿",
+   "results": [
+    "https://www.medplum.com/",
+    "https://provider.xellabs.com/app/",
+    "https://www.medplum.com/docs/app",
+    "https://github.com/medplum/medplum",
+    "https://events.ycombinator.com/medplum-hackathon-26",
+    "https://provider.medplum.com/getstarted",
+    "https://x.com/sdianahu/status/2077796601121390902"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部29頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部29頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部29頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部29頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部29頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部29頁・検索12回）"
+ }
+}

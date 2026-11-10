@@ -1,0 +1,1839 @@
+{
+ "name": "Moloco",
+ "aliases": [],
+ "context": "旧営業リスト｜Non-AUMS｜リマイン1",
+ "researched_at": "2026-11-09T23:58:28.670828+00:00",
+ "official_url": "https://www.moloco.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$226.8M",
+    "url": "https://getlatka.com/companies/moloco.com",
+    "pass": 3
+   },
+   {
+    "label": "1. Seed Round",
+    "value": "01-Jan-2014    Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/99124-84",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Moloco Adsでリーチ可能なデイリーアクティブユーザー数 {[data-attribute=\"init-tooltip\"][tooltip-content=\"<p>出典:<br><br>本主張における日次アクティブユーザー数(DAU)とは、Molocoが提携する各広告取引所およびMoloco独自のSDKを通じて、世界全体のAndroidおよびiOSデバイス上で1営業日あたりに観測された固有のコンシューマーデバイス数の平均を指します",
+    "url": "https://www.moloco.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "Moloco Adsでリーチ可能な独立系アプリ数 {[data-attribute=\"init-tooltip\"][tooltip-content=\"<p>出典:<br><br>Moloco内部データ;2026年4月3日に終了する90日間において、Molocoが少なくとも1件のRTB(リアルタイム入札)リクエストを受信した、世界全体での固有アプリバンドル数(iOSおよびAndroidの累計)",
+    "url": "https://www.moloco.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "Moloco Adsで広告の配信が可能な国と地域 {[data-attribute=\"init-tooltip\"][tooltip-content=\"<p>出典:<br><br>Moloco内部データ;2026年2月1日~28日にMoloco Ads(アプリ、ウェブ、CTV)経由で少なくとも1件のインプレッションが配信された、固有のISO 3166-1準拠の国・地域・特別地理的関心地域数",
+    "url": "https://www.moloco.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "Moloco MCMを利用する広告主の数 {[data-attribute=\"init-tooltip\"][tooltip-content=\"<p>出典:<br><br>顧客提供データ;分析対象期間:2024年第4四半期(Q4 2024)</p>\"]}",
+    "url": "https://www.moloco.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "より多くのユーザーにリーチしたいパフォーマンスマーケター向けのMoloco Adsと、スケーラブルな広告ビジネスを構築したいECサイト向けのMoloco Commerce Mediaです",
+    "url": "https://www.moloco.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "{[data-attribute=\"init-tooltip\"][tooltip-content=\"<p>出典:<br><br>Moloco内部データ;2026年4月3日に終了する90日間において、Molocoが少なくとも1件のRTB(リアルタイム入札)リクエストを受信した、世界全体での固有アプリバンドル数(iOSおよびAndroidの累計)",
+    "url": "https://www.moloco.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "https://media.ffycdn.net/us/moloco/3c4C4PKCkVaDsCwaVe8w.mp4?width=2400&format=mp4",
+    "url": "https://www.moloco.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "過去12ヶ月間で、GMVに対するディスプレイ広告収益の割合（A2G）が二桁成長 {[data-attribute=\"init-tooltip\"][tooltip-content=\"<p>出典:<br><br>顧客提供データ;分析対象期間:2024年第4四半期(Q4 2024)</p>\"]}",
+    "url": "https://www.moloco.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "April 1, 2026",
+    "url": "https://www.moloco.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "パフォーマンスマーケターはMoloco Adsを通じてモバイルアプリとCTVでユーザーを獲得し、ECサイトやマーケットプレイスはMoloco Commerce Mediaを活用して、自社のデジタルプロパティ上で広告ビジネスを構築できます",
+    "url": "https://www.moloco.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "Moloco Adsはキャンペーンのパフォーマンスに基づく料金体系を採用し、Moloco Commerce Mediaは各ECサイトやマーケットプレイスのニーズに応じて料金が設定されます",
+    "url": "https://www.moloco.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "Moloco AdsはGoogleやMetaの広告と何が違いますか？",
+    "url": "https://www.moloco.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "GoogleとMetaは主に自社が保有するプロパティの広告枠を販売しますが、Moloco Adsでは数百万に及ぶ独立系アプリにリーチを拡大できます",
+    "url": "https://www.moloco.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "通常、Moloco AdsはGoogleやMetaの代替ではなく、これらと併用して運用されます",
+    "url": "https://www.moloco.com/ja",
+    "pass": 1
+   },
+   {
+    "quote": "Moloco Ads for Agencies | Measurable Client Growth",
+    "url": "https://www.moloco.com/industries/moloco-ads/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Stay ahead with the AI-driven performance advertising platform for mobile app and CTV. Unlock new revenue opportunities for your clients, supported by a partnership built to scale.",
+    "url": "https://www.moloco.com/industries/moloco-ads/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "of the highest-grossing mobile app publishers advertised with Moloco in 2025. {[data-attribute=\"init-tooltip\"][tooltip-content=\"<p>Source:<br><br>Sensor Tower ranking of top mobile app publishers by 2025 revenue (IAP & subscription), excluding Mainland China. January 1–December 31, 2025.</p>\"]}",
+    "url": "https://www.moloco.com/industries/moloco-ads/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "average tenure of Moloco’s top advertisers by spend. {[data-attribute=\"init-tooltip\"][tooltip-content=\"<p>Source:<br><br>Moloco internal data. As of December 31, 2025, Moloco Ads top 10 advertisers (by spend) have been with us for 5+ years.</p>\"]}",
+    "url": "https://www.moloco.com/industries/moloco-ads/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "“For clients who are ready to move beyond the walled gardens of app marketing, Moloco has been a natural next step. And we're excited to be part of the Agency partner certified program.”",
+    "url": "https://www.moloco.com/industries/moloco-ads/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "“Recognition as a Certified Partner with Moloco strengthens our relationship with this long-term partner and ultimately provides more opportunities for success for our clients.”",
+    "url": "https://www.moloco.com/industries/moloco-ads/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "“Moloco's AI-driven ad delivery provides unmatched value in maximizing service LTV for advertisers. Combined with their dedicated support and proactive improvement proposals, Moloco is an essential partner supporting our business growth, and we intend to strengthen this partnership further.”",
+    "url": "https://www.moloco.com/industries/moloco-ads/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Agencies are being asked to reach new audiences, prove performance, and deliver differentiation in an increasingly fragmented landscape.",
+    "url": "https://www.moloco.com/industries/moloco-ads/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Your clients’ potential audiences are spread across a wide range of apps. Reaching them means going beyond what most standard media plans include today.",
+    "url": "https://www.moloco.com/industries/moloco-ads/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Pressure to prove real value",
+    "url": "https://www.moloco.com/industries/moloco-ads/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "46 of the top 50 highest-grossing mobile gaming apps in 2025 advertised with Moloco. From casual to mid-core to hardcore, Moloco reaches engaged players. {[data-attribute=\"init-tooltip\"][tooltip-content=\"<p>Source:<br><br>Sensor Tower ranking of top mobile gaming apps by 2025 revenue (IAP & subscription), excluding Mainland China. January 1–December 31, 2025.</p>\"]}",
+    "url": "https://www.moloco.com/industries/moloco-ads/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "What does onboarding look like for a new agency?",
+    "url": "https://www.moloco.com/industries/moloco-ads/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "How do I prove Moloco's value to my clients?",
+    "url": "https://www.moloco.com/industries/moloco-ads/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "We support measurement via all major Mobile Measurement Partners, and we encourage incrementality testing from the start. Moloco provides reviews with clear benchmarks, co-pitching support for client meetings, and dashboards that give clients visibility into spend, performance, and outcomes.",
+    "url": "https://www.moloco.com/industries/moloco-ads/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Moloco is designed to work alongside your clients' existing campaigns. Most agencies bring Moloco in as an additive channel that extends their clients' reach into inventory their current campaigns may not be covering. Moloco complements spend on search, social, and programmatic rather than replacing it.",
+    "url": "https://www.moloco.com/industries/moloco-ads/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Is there a minimum spend requirement to join the partner program?",
+    "url": "https://www.moloco.com/industries/moloco-ads/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "How do you prevent fraud?",
+    "url": "https://www.moloco.com/industries/moloco-ads/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Moloco maintains strict quality standards aligned with Apple’s and Google’s app store requirements. Real-time monitoring and exclusion lists continuously improve inventory quality, earning Moloco both TAG and IAB Gold certifications.",
+    "url": "https://www.moloco.com/industries/moloco-ads/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "「Moloco Ads」は、モバイルアプリマーケターがモバイルとCTVにわたるビジネス成果を高めるためのAIネイティブなパフォーマンス広告プラットフォームです",
+    "url": "https://www.moloco.com/ja/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "230以上の国と地域にソリューションを提供 {[data-attribute=\"init-tooltip\"][tooltip-content=\"<p>出典:<br><br>Moloco Adsは2026年2月に230以上の国・地域で広告インプレッションを配信しました</p>\"]}",
+    "url": "https://www.moloco.com/ja/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "{[data-attribute=\"init-tooltip\"][tooltip-content=\"<p>出典:<br><br>Moloco内部データ;2026年1月~3月にMoloco Adsが受信した1日あたりの平均広告機会数",
+    "url": "https://www.moloco.com/ja/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Moloco Adsは、リーチの拡大、リアルタイムの最適化、偏りのない計測によって、モバイルアプリマーケターのチャネル戦略をさらに広げます",
+    "url": "https://www.moloco.com/ja/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "{[data-attribute=\"init-tooltip\"][tooltip-content=\"<p>出典:<br><br>Moloco内部データ;2026年4月3日に終了する90日間において、Molocoが少なくとも1件のRTB(リアルタイム入札)リクエストを受信した、世界全体での固有アプリバンドル数(iOSおよびAndroidの累計)",
+    "url": "https://www.moloco.com/ja/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Financial Times「アメリカ大陸の急成長企業2025」にてMolocoが50位にランクイン {[data-attribute=\"init-tooltip\"][tooltip-content=\"<p>出典:<br><br>Financial Times、Fastest Growing Companies Americas、2025年4月</p>\"]}",
+    "url": "https://www.moloco.com/ja/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Google Cloud DORAアワード（Going Beyond the Four Keys部門） {[data-attribute=\"init-tooltip\"][tooltip-content=\"<p>出典:<br><br>DORA Awards、Going Beyond the Four Keys部門</p>\"]}",
+    "url": "https://www.moloco.com/ja/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "AdExchanger Programmatic Power Players 2024 {[data-attribute=\"init-tooltip\"][tooltip-content=\"<p>出典:<br><br>AdExchanger、Programmatic Power Players、2024年5月</p>\"]}",
+    "url": "https://www.moloco.com/ja/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "韓国：Forbes Korea AI 50 {[data-attribute=\"init-tooltip\"][tooltip-content=\"<p>出典:<br><br>Forbes Korea、AI 50 2025</p>\"]}",
+    "url": "https://www.moloco.com/ja/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトウェア産業貢献に対する国務総理表彰 {[data-attribute=\"init-tooltip\"][tooltip-content=\"<p>出典:<br><br>VentureSquare、ソフトウェア産業貢献国務総理表彰、2025年12月</p>\"]}",
+    "url": "https://www.moloco.com/ja/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "「2025年 ベンチャー・スタートアップ振興功労賞」省庁表彰 {[data-attribute=\"init-tooltip\"][tooltip-content=\"<p>出典:<br><br>Chosun Biz、中小ベンチャー企業部、2025年ベンチャー創業振興有功褒章、2025年12月</p>\"]}",
+    "url": "https://www.moloco.com/ja/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "パフォーマンス・マーケティング・アワード：AI活用部門でMolocoとScopelyが銅賞を受賞 {[data-attribute=\"init-tooltip\"][tooltip-content=\"<p>出典:<br><br>Performance Marketing Awards、Best Use of AI部門、2025年10月</p>\"]}",
+    "url": "https://www.moloco.com/ja/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "ShineGlobal：WAVE 2025年 年間優秀サービスプロバイダー賞 {[data-attribute=\"init-tooltip\"][tooltip-content=\"<p>出典:<br><br>ShineGlobal(WeChat経由)、WAVE 2025年次優秀サービスプロバイダー賞",
+    "url": "https://www.moloco.com/ja/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Huxiu：2025年 海外パイオニア賞 {[data-attribute=\"init-tooltip\"][tooltip-content=\"<p>出典:<br><br>Huxiu(WeChat経由)、2025年海外開拓者賞</p>\"]}",
+    "url": "https://www.moloco.com/ja/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Youxikezhan：ベストゲーミングサービスプラットフォーム {[data-attribute=\"init-tooltip\"][tooltip-content=\"<p>出典:<br><br>Youxikezhan(WeChat経由)、Best Gaming Service Platform、2025年</p>\"]}",
+    "url": "https://www.moloco.com/ja/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "パフォーマンスマーケター向けのMoloco Adsと、ECサイト/マーケットプレイス向けのMoloco Commerce Mediaという2つのAIネイティブプラットフォームを通じて、企業の成長を支援しています",
+    "url": "https://www.moloco.com/ja/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "モバイルゲーム広告 | Moloco Ads",
+    "url": "https://www.moloco.com/ja/industries/moloco-ads/mobile-gaming",
+    "pass": 1
+   },
+   {
+    "quote": "{[data-attribute=\"init-tooltip\"][tooltip-content=\"<p>出典:<br><br>2025年の収益(アプリ内課金およびサブスクリプション)に基づくSensor Towerによるモバイルゲームアプリ上位ランキング(中国本土を除く)",
+    "url": "https://www.moloco.com/ja/industries/moloco-ads/mobile-gaming",
+    "pass": 1
+   },
+   {
+    "quote": "Moloco Adsでリーチ可能なデイリーアクティブユーザーの数 {[data-attribute=\"init-tooltip\"][tooltip-content=\"<p>出典:<br><br>本主張における日次アクティブユーザー数(DAU)とは、Molocoが提携する各広告取引所およびMoloco独自のSDKを通じて、世界全体のAndroidおよびiOSデバイス上で1営業日あたりに観測された固有のコンシューマーデバイス数の平均を指します",
+    "url": "https://www.moloco.com/ja/industries/moloco-ads/mobile-gaming",
+    "pass": 1
+   },
+   {
+    "quote": "Moloco Adsでリーチ可能な独立系アプリ数 {[data-attribute=\"init-tooltip\"][tooltip-content=\"<p>出典:<br><br>Moloco内部データ;2026年4月3日に終了する90日間において、Molocoが少なくとも1件のRTB(リアルタイム入札)リクエストを受信した、世界全体での固有アプリバンドル数(iOSおよびAndroidの累計)",
+    "url": "https://www.moloco.com/ja/industries/moloco-ads/mobile-gaming",
+    "pass": 1
+   },
+   {
+    "quote": "1日当たりの広告機会 {[data-attribute=\"init-tooltip\"][tooltip-content=\"<p>出典:<br><br>Moloco内部分析、2026年1月~3月",
+    "url": "https://www.moloco.com/ja/industries/moloco-ads/mobile-gaming",
+    "pass": 1
+   },
+   {
+    "quote": "Moloco Adsが世界全体で処理したRTB(リアルタイム入札)リクエストの平均件数",
+    "url": "https://www.moloco.com/ja/industries/moloco-ads/mobile-gaming",
+    "pass": 1
+   },
+   {
+    "quote": "{[data-attribute=\"init-tooltip\"][tooltip-content=\"<p>出典:<br><br>Moloco内部分析、2024年1月~2025年11月",
+    "url": "https://www.moloco.com/ja/industries/moloco-ads/mobile-gaming",
+    "pass": 1
+   },
+   {
+    "quote": "Moloco Ads上でリエンゲージメント(RE)キャンペーンとユーザー獲得(UA)キャンペーンの両方を実施している、8か国にまたがる22アプリのメタ分析",
+    "url": "https://www.moloco.com/ja/industries/moloco-ads/mobile-gaming",
+    "pass": 1
+   },
+   {
+    "quote": "{[data-attribute=\"init-tooltip\"][tooltip-content=\"<p>出典:<br><br>Moloco内部データ;2026年4月3日に終了する90日間において、Molocoが少なくとも1件のRTB(リアルタイム入札)リクエストを受信した、世界全体での固有アプリバンドル数(iOSおよびAndroidの累計)",
+    "url": "https://www.moloco.com/ja/industries/moloco-ads/mobile-gaming",
+    "pass": 1
+   },
+   {
+    "quote": "ユーザーベースがこれほど大きいので、リリース初期から成熟期に至るまで、そのゲームに適したプレイヤーを継続的に見つけ出すことができます {[data-attribute=\"init-tooltip\"][tooltip-content=\"<p>出典:<br><br>本主張における日次アクティブユーザー数(DAU)とは、Molocoが提携する各広告取引所およびMoloco独自のSDKを通じて、世界全体のAndroidおよびiOSデバイス上で1営業日あたりに観測された固有のコンシューマーデバイス数の平均を指します",
+    "url": "https://www.moloco.com/ja/industries/moloco-ads/mobile-gaming",
+    "pass": 1
+   },
+   {
+    "quote": "Moloco Adsでゲームのユーザー数を増やすには、何から始めればいいですか？",
+    "url": "https://www.moloco.com/ja/industries/moloco-ads/mobile-gaming",
+    "pass": 1
+   },
+   {
+    "quote": "{[data-attribute=\"init-tooltip\"][tooltip-content=\"<p>出典:<br><br>Moloco ExpLabプラットフォームデータ、2025年第4四半期(Q4 2025)",
+    "url": "https://www.moloco.com/ja/industries/moloco-ads/mobile-gaming",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Moloco’s customers include",
+    "url": "https://www.moloco.com/industries/moloco-ads/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Moloco’s customers include",
+    "url": "https://www.moloco.com/industries/moloco-ads/finance",
+    "pass": 1
+   },
+   {
+    "quote": "Moloco’s customers include",
+    "url": "https://www.moloco.com/industries/moloco-ads/igaming",
+    "pass": 1
+   },
+   {
+    "quote": "それ以前には、Procore TechnologiesでCPOを務めるとともに、ServiceNow、LinkedIn、Plantronics, Inc.、Yahoo!でさまざまなリーダー職を歴任しました",
+    "url": "https://www.moloco.com/ja/company/leadership",
+    "pass": 1
+   },
+   {
+    "quote": "JB holds a BS in Industrial Engineering from Seoul National University.",
+    "url": "https://www.moloco.com/company/leadership",
+    "pass": 1
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/moloco2/case-studies",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Moloco Ads for Agencies | Measurable Client Growth",
+    "url": "https://www.moloco.com/industries/moloco-ads/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "What agencies are seeing with Moloco",
+    "url": "https://www.moloco.com/industries/moloco-ads/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "“For clients who are ready to move beyond the walled gardens of app marketing, Moloco has been a natural next step. And we're excited to be part of the Agency partner certified program.”",
+    "url": "https://www.moloco.com/industries/moloco-ads/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Agencies are being asked to reach new audiences, prove performance, and deliver differentiation in an increasingly fragmented landscape.",
+    "url": "https://www.moloco.com/industries/moloco-ads/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Clients want to see real performance — not self-reported metrics from platforms with skin in the game. Agencies that can demonstrate measurable outcomes and true incrementality are better positioned to build trust and win new business.",
+    "url": "https://www.moloco.com/industries/moloco-ads/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Managing UA and re-engagement across separate platforms creates duplicated effort and inconsistent data, making it hard to build a unified performance story. And demonstrating true incrementality is a bar many agencies are still working to meet.",
+    "url": "https://www.moloco.com/industries/moloco-ads/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Moloco is designed to work alongside your clients' existing campaigns. Most agencies bring Moloco in as an additive channel that extends their clients' reach into inventory their current campaigns may not be covering. Moloco complements spend on search, social, and programmatic rather than replacing it.",
+    "url": "https://www.moloco.com/industries/moloco-ads/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Is there a minimum spend requirement to join the partner program?",
+    "url": "https://www.moloco.com/industries/moloco-ads/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Previously, Francesco worked at Google on Revenue Analytics, building and growing the apps sales team in the Americas, and driving Channel Partner Strategy and Operations. Earlier in his career, he worked at McKinsey in Milan, Shanghai, and Boston, focusing on Marketing and Sales for B2B.",
+    "url": "https://www.moloco.com/company/leadership",
+    "pass": 1
+   },
+   {
+    "quote": "Moloco Launches Global Agency Partner Program with More than a Dozen Founding Partners",
+    "url": "https://www.moloco.com/company/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "RTB House is a global company that provides state-of-the-art marketing technologies for top brands and agencies worldwide. Its proprietary ad buying engine is the first in the world to be …",
+    "url": "https://www.featuredcustomers.com/vendor/moloco2/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Septeni Co., Ltd. and CyberZ, Inc. named as Moloco Certified Agencies",
+    "url": "https://note.com/moloco_japan/n/nd1c6e51f3f0d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "To promote its mobile DSP business, Moloco certifies advertising agencies that handle its services and possess excellent sales track records, operational experience, and a history of delivering advertising effectiveness and marketing support for advertisers as trusted official agencies.",
+    "url": "https://note.com/moloco_japan/n/nd1c6e51f3f0d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "We provide Moloco training resources, support for new business proposals, and various incentives. Through these, we boost the success of certified agencies' new business using Moloco.",
+    "url": "https://note.com/moloco_japan/n/nd1c6e51f3f0d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In addition to early access to new product announcements and product updates, agencies receive priority access to sales support and analysis support from data specialists. They also have access to industry insights and events exclusive to certified agencies.",
+    "url": "https://note.com/moloco_japan/n/nd1c6e51f3f0d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "We support certified agencies in demonstrating their industry leadership through the provision of expertise in practical machine learning, as well as certifications, award recognition, and various other marketing opportunities.",
+    "url": "https://note.com/moloco_japan/n/nd1c6e51f3f0d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Main Moloco Certified Agencies (in no particular order) (Selected from 12 companies)",
+    "url": "https://note.com/moloco_japan/n/nd1c6e51f3f0d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Moloco provides certified agencies with access to cutting-edge machine learning technology that enhances the performance potential of the open internet. Through this program, certified agencies can receive various support and incentives from Moloco, providing valuable insights to further improve the performance of app advertisers.",
+    "url": "https://note.com/moloco_japan/n/nd1c6e51f3f0d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "By empowering agencies with better tools and knowledge, Moloco is bringing us closer to a future where every global business can leverage advanced machine learning to achieve their goals and drive growth. We are excited to support agency growth by building an ecosystem of agency partners and helping them create new services and revenue streams on top of Moloco's award-winning technology.",
+    "url": "https://note.com/moloco_japan/n/nd1c6e51f3f0d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Launching a Japan-focused partner program to grow the mobile DSP business",
+    "url": "https://note.com/moloco_japan/n/n8e7652943528?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Moloco (Headquarters: Redwood City, CA; Co-founder & CEO: Ikkjin Ahn; Head of Japan Business: Tatsuo Sakamoto), which maximizes mobile business growth and results through machine learning, has announced the launch of a Japan-focused partner program to grow its mobile DSP business, naming CyberAgent, Inc. and GREE Advertising, Inc. (in no particular order) as its first \"Certified Partners.\"",
+    "url": "https://note.com/moloco_japan/n/n8e7652943528?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Stay ahead with the AI-driven performance advertising platform for mobile app and CTV. Unlock new revenue opportunities for your clients, supported by a partnership built to scale.",
+    "url": "https://www.moloco.com/industries/moloco-ads/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "of the highest-grossing mobile app publishers advertised with Moloco in 2025. {[data-attribute=\"init-tooltip\"][tooltip-content=\"<p>Source:<br><br>Sensor Tower ranking of top mobile app publishers by 2025 revenue (IAP & subscription), excluding Mainland China. January 1–December 31, 2025.</p>\"]}",
+    "url": "https://www.moloco.com/industries/moloco-ads/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "“For clients who are ready to move beyond the walled gardens of app marketing, Moloco has been a natural next step. And we're excited to be part of the Agency partner certified program.”",
+    "url": "https://www.moloco.com/industries/moloco-ads/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "“Moloco has become an important part of our growth strategy for clients looking to scale beyond the traditional acquisition channels. We've seen particularly strong performance in the dating vertical, where Moloco has consistently helped our clients acquire high-value users efficiently. Excited about the opportunities ahead as we continue growing together.”",
+    "url": "https://www.moloco.com/industries/moloco-ads/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Director of User Acquisition",
+    "url": "https://www.moloco.com/industries/moloco-ads/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Managing user acquisition and re-engagement through various channels can add complexity. Moloco brings both together with one AI system. This means campaigns that learn from one another, a single place for reporting, and one performance conversation with clients.",
+    "url": "https://www.moloco.com/industries/moloco-ads/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Lapsed users are already familiar with your client's app. They just need the right moment to come back. Moloco brings acquisition and re-engagement together in a single platform, targeting them at the moments they're likely to convert.",
+    "url": "https://www.moloco.com/industries/moloco-ads/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "46 of the top 50 highest-grossing mobile gaming apps in 2025 advertised with Moloco. From casual to mid-core to hardcore, Moloco reaches engaged players. {[data-attribute=\"init-tooltip\"][tooltip-content=\"<p>Source:<br><br>Sensor Tower ranking of top mobile gaming apps by 2025 revenue (IAP & subscription), excluding Mainland China. January 1–December 31, 2025.</p>\"]}",
+    "url": "https://www.moloco.com/industries/moloco-ads/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "米国カリフォルニア州メンロパークに本社を置き、ニューヨーク、サンフランシスコ、シアトル、ロンドン、ベルリン、東京、ソウル、北京、上海、シンガポールにオフィスを構える非上場企業です",
+    "url": "https://www.moloco.com/ja/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "of the highest-grossing mobile app publishers advertised with Moloco in 2025. {[data-attribute=\"init-tooltip\"][tooltip-content=\"<p>Source:<br><br>Sensor Tower ranking of top mobile app publishers by 2025 revenue (IAP & subscription), excluding Mainland China. January 1–December 31, 2025.</p>\"]}",
+    "url": "https://www.moloco.com/industries/moloco-ads/finance",
+    "pass": 1
+   },
+   {
+    "quote": "“We were impressed by the consistent uplift Moloco brought to our acquisition campaigns. The incremental impact was clearly visible in every test, making it easy to justify significant budget increases.”",
+    "url": "https://www.moloco.com/industries/moloco-ads/finance",
+    "pass": 1
+   },
+   {
+    "quote": "“Moloco proved that they could optimize for ROAS like the big walled gardens. After passing revenue in our MMP postbacks, we ran a test comparing ROAS campaigns optimized to trade commissions against our in-app event campaigns. We saw double-digit gains in D7 revenue and profit, so we leaned in and raised budgets.”",
+    "url": "https://www.moloco.com/industries/moloco-ads/finance",
+    "pass": 1
+   },
+   {
+    "quote": "When a new market legalizes or an additional prediction market category achieves regulatory clearance, the acquisition window opens quickly. First movers can find new users, but if your campaigns can't scale fast, you can lose your advantage.",
+    "url": "https://www.moloco.com/industries/moloco-ads/igaming",
+    "pass": 1
+   },
+   {
+    "quote": "Installs don't drive revenue. First deposits do. Whether your KPI is cost per first trade or deposit, if your bidding isn't optimized toward that outcome, you're acquiring users who don’t grow your business.",
+    "url": "https://www.moloco.com/industries/moloco-ads/igaming",
+    "pass": 1
+   },
+   {
+    "quote": "Optimization for what actually drives revenue",
+    "url": "https://www.moloco.com/industries/moloco-ads/igaming",
+    "pass": 1
+   },
+   {
+    "quote": "Scale acquisition fast in newly legalized states or regions without rebuilding your campaign strategy every time a new opportunity opens",
+    "url": "https://www.moloco.com/industries/moloco-ads/igaming",
+    "pass": 1
+   },
+   {
+    "quote": "High-value player and trader acquisition",
+    "url": "https://www.moloco.com/industries/moloco-ads/igaming",
+    "pass": 1
+   },
+   {
+    "quote": "Does Moloco support re-engagement, or just user acquisition?",
+    "url": "https://www.moloco.com/industries/moloco-ads/igaming",
+    "pass": 1
+   },
+   {
+    "quote": "Moloco supports both user acquisition and re-engagement. Running both through the same platform allows Moloco to apply acquisition signals to re-engagement optimization, giving campaigns a richer view of user value across the lifecycle.",
+    "url": "https://www.moloco.com/industries/moloco-ads/igaming",
+    "pass": 1
+   },
+   {
+    "quote": "Grow player revenue with Moloco",
+    "url": "https://www.moloco.com/industries/moloco-ads/igaming",
+    "pass": 1
+   },
+   {
+    "quote": "Wiryadinataは、財務オペレーション、テクニカルアカウンティング、SEC報告、資本市場、IPO準備において20年以上の経験を有しています",
+    "url": "https://www.moloco.com/ja/company/leadership",
+    "pass": 1
+   },
+   {
+    "quote": "在籍中は、同社のIPO（新規株式公開）や、InstagramおよびWhatsAppをはじめとする主要な企業買収において、中心的な役割を果たしました",
+    "url": "https://www.moloco.com/ja/company/leadership",
+    "pass": 1
+   },
+   {
+    "quote": "At Moloco, we combine advanced technology with hands-on expertise, from driving user acquisition and re-engagement for some of the world’s leading apps to powering the ad businesses of global retail giants.",
+    "url": "https://www.moloco.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Moloco Commerce Media helps retailers and marketplaces turn shopper data and digital real estate into scalable advertising revenue. More relevant ads create stronger outcomes for shoppers, advertisers, and retailers together.",
+    "url": "https://www.moloco.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Moloco employees have access to flexible, country-specific health insurance and medical coverage designed to support both them and their eligible dependents. Your health and the health of your loved ones matter deeply to us.",
+    "url": "https://www.moloco.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We offer mental health resources, counseling support, and well-being programs to help employees care for their emotional and psychological health, helping you thrive inside and out.",
+    "url": "https://www.moloco.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Moloco offers flexible paid time off, public holidays, and quarterly company-wide days off to give employees time to rest and recharge.",
+    "url": "https://www.moloco.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "How many employees does Moloco have?",
+    "url": "https://www.moloco.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "“Our vision at Bravestars has always been to prove that a Vietnamese company can build world-class games for global audiences. With Moloco’s AI-powered UA and SDK synergy, we were able to reach high-value users more efficiently, scale faster globally, and drive stronger revenue growth. We’re excited to continue partnering with Moloco as we bring more games to players around the world.”",
+    "url": "https://www.moloco.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "“This is where Moloco really made a difference. Using Dual ROAS Campaigns, ReelShort could optimize for the combined value of both in-app purchases and advertising revenue, rather than focusing only on paying users.”",
+    "url": "https://www.moloco.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "“Moloco's machine learning and industry expertise were critical in building our leading retail media business. By delivering powerful results for our platform, advertisers, and users, They helped position advertising as a core part of Olive Young’s strategy.”",
+    "url": "https://www.moloco.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "“CTV user acquisition improved by 50%, leading to a dramatic increase in ROI. This achievement was highly meaningful for our ads strategy.”",
+    "url": "https://www.moloco.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "“Moloco was the right partner for us, enabling direct control over audience segmentation and rapid testing of diverse creative formats, including images, videos, and dynamic product ads. This flexibility allowed us to effectively achieve and manage our complex acquisition KPIs.”",
+    "url": "https://www.moloco.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "of the highest-grossing mobile app publishers advertised with Moloco in 2025. {[data-attribute=\"init-tooltip\"][tooltip-content=\"<p>Source:<br><br>Sensor Tower ranking of top mobile app publishers by 2025 revenue (IAP &amp; subscription), excluding Mainland China. January 1&ndash;December 31, 2025.</p>\"]}",
+    "url": "https://www.moloco.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "A2g growth. Most Moloco Commerce Media retailers at least doubled ad revenue as a percentage of GMV compared with their first four weeks on the platform. {[data-attribute=\"init-tooltip\"][tooltip-content=\"<p>Source:<br><br>Moloco internal data. Analysis comparing first 4 weeks vs. latest 4 weeks of daily GAS and A2G across MCM customers, as of Mar 31, 2026.</p>\"]}",
+    "url": "https://www.moloco.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Previously, Francesco worked at Google on Revenue Analytics, building and growing the apps sales team in the Americas, and driving Channel Partner Strategy and Operations. Earlier in his career, he worked at McKinsey in Milan, Shanghai, and Boston, focusing on Marketing and Sales for B2B.",
+    "url": "https://www.moloco.com/company/leadership",
+    "pass": 1
+   },
+   {
+    "quote": "Moloco Commerce Media partners with Skai to simplify global retail media for advertisers and drive new revenue opportunities for retailers",
+    "url": "https://www.moloco.com/company/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/moloco2/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "111 Percent boosts Random Dice revenue by 14% with Moloco",
+    "url": "https://www.casestudies.com/company/moloco",
+    "pass": 3
+   },
+   {
+    "quote": "User Acquisition Manager",
+    "url": "https://www.casestudies.com/company/moloco",
+    "pass": 3
+   },
+   {
+    "quote": "Benjamin app drove high-value user acquisition and achieved ROAS increase of over 25% with Moloco",
+    "url": "https://www.casestudies.com/company/moloco",
+    "pass": 3
+   },
+   {
+    "quote": "Bucketplace boosts merchant product discoverability and ad revenue with Moloco Retail Media Platform",
+    "url": "https://www.casestudies.com/company/moloco",
+    "pass": 3
+   },
+   {
+    "quote": "Com2uS achieves global user acquisition success with Moloco",
+    "url": "https://www.casestudies.com/company/moloco",
+    "pass": 3
+   },
+   {
+    "quote": "User Acquisition Marketing Consultant",
+    "url": "https://www.casestudies.com/company/moloco",
+    "pass": 3
+   },
+   {
+    "quote": "Krafton acquired high-value users for Battlegrounds Mobile India through Moloco’s retention campaign",
+    "url": "https://www.casestudies.com/company/moloco",
+    "pass": 3
+   },
+   {
+    "quote": "User Acquisition Director",
+    "url": "https://www.casestudies.com/company/moloco",
+    "pass": 3
+   },
+   {
+    "quote": "Lessmore achieves 10% of total ad revenue with Moloco SDK",
+    "url": "https://www.casestudies.com/company/moloco",
+    "pass": 3
+   },
+   {
+    "quote": "Senior User Acquisition Director",
+    "url": "https://www.casestudies.com/company/moloco",
+    "pass": 3
+   },
+   {
+    "quote": "Netmarble achieves higher ROAS and scalable user acquisition with Moloco Cloud",
+    "url": "https://www.casestudies.com/company/moloco",
+    "pass": 3
+   },
+   {
+    "quote": "NextNinja acquired incremental high-value users on the open internet with Moloco",
+    "url": "https://www.casestudies.com/company/moloco",
+    "pass": 3
+   },
+   {
+    "quote": "Pixel Federation boosts ad revenue by 74% with the Moloco SDK",
+    "url": "https://www.casestudies.com/company/moloco",
+    "pass": 3
+   },
+   {
+    "quote": "Rummytime acquired high-value users with Moloco's operational machine learning",
+    "url": "https://www.casestudies.com/company/moloco",
+    "pass": 3
+   },
+   {
+    "quote": "Rush Royale achieves stronger user acquisition and ROAS with Moloco Performance CTV",
+    "url": "https://www.casestudies.com/company/moloco",
+    "pass": 3
+   },
+   {
+    "quote": "Twin Harbour Interactive drives incremental revenue with Moloco Ads",
+    "url": "https://www.casestudies.com/company/moloco",
+    "pass": 3
+   },
+   {
+    "quote": "Moloco Revenue 2022: $200M, $2B Valuation",
+    "url": "https://getlatka.com/companies/moloco.com",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, valuation & funding",
+    "url": "https://getlatka.com/companies/moloco.com",
+    "pass": 3
+   },
+   {
+    "quote": "Moloco's annual revenue was $200M in December 2022 (Press & News), the most recent figure on record.",
+    "url": "https://getlatka.com/companies/moloco.com",
+    "pass": 3
+   },
+   {
+    "quote": "Moloco CEO, founders & employees",
+    "url": "https://getlatka.com/companies/moloco.com",
+    "pass": 3
+   },
+   {
+    "quote": "Ikkjin Ahn founded Moloco in 2013 and runs it as CEO. Moloco has 857 employees (November 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/moloco.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Moloco's revenue?",
+    "url": "https://getlatka.com/companies/moloco.com",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "東京都渋谷区渋谷2-21-1 渋谷ヒカリエ33F",
+    "url": "https://www.moloco.com/ja/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "米国カリフォルニア州メンロパークに本社を置き、ニューヨーク、サンフランシスコ、シアトル、ロンドン、ベルリン、東京、ソウル、北京、上海、シンガポールにオフィスを構える非上場企業です",
+    "url": "https://www.moloco.com/ja/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "「Molocoとの協業により、日本市場での立ち上げを成功させることができました",
+    "url": "https://www.moloco.com/ja/industries/moloco-ads/mobile-gaming",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Moloco Ads, Japan",
+    "url": "https://www.moloco.com/ja/company/leadership",
+    "pass": 1
+   },
+   {
+    "quote": "Moloco、グローバル代理店パートナープログラムを開始",
+    "url": "https://www.moloco.com/ja/company/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "12社以上の代理店の専門性を評価し、戦略的コラボレーションを強化、独立系アプリエコシステム全体におけるブランドの成長を支援",
+    "url": "https://www.moloco.com/ja/company/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Moloco、オプトを認定代理店に認定",
+    "url": "https://www.moloco.com/ja/company/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "米iOSユーザーが世界収益の約3分の1を占めていることが判明 日本のパブリッシャーにとって重要な存在に",
+    "url": "https://www.moloco.com/ja/company/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Demaecanが、高度な機械学習を活用したリテールメディア広告ソリューションであるMoloco Commerce Mediaを日本で初めて導入",
+    "url": "https://www.moloco.com/ja/company/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "Moloco is headquartered in Menlo Park, California, with offices in New York, San Francisco, Seattle, London, Berlin, Tokyo, Seoul, Beijing, Shanghai and Singapore. It is a privately held company.",
+    "url": "https://www.moloco.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Regional Leader, Korea & Japan",
+    "url": "https://www.moloco.com/company/leadership",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Moloco Ads, Japan",
+    "url": "https://www.moloco.com/company/leadership",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Business, Japan",
+    "url": "https://www.moloco.com/company/leadership",
+    "pass": 1
+   },
+   {
+    "quote": "Demaecan Becomes the First Company in Japan to Adopt Moloco Commerce Media, a Retail Media Advertising Solution Utilizing Advanced Machine Learning",
+    "url": "https://www.moloco.com/company/newsroom",
+    "pass": 1
+   },
+   {
+    "quote": "ニュースアプリ・グノシーとMolocoの共通点とは？ 機械学習で社会に貢献——ad:tech tokyo参加レポート（3）",
+    "url": "https://note.com/moloco_japan/m/ma52d69fc328a",
+    "pass": 3
+   },
+   {
+    "quote": "顧客事例｜Moloco Japan｜note",
+    "url": "https://note.com/moloco_japan/m/ma52d69fc328a",
+    "pass": 3
+   },
+   {
+    "quote": "「勉強のハードルを極限まで下げる」世界1.4億人が使うDuolingoが、日本の潜在層を開拓したグロースの裏側",
+    "url": "https://note.com/moloco_japan",
+    "pass": 3
+   },
+   {
+    "quote": "日本市場を変える独立系アプリ広告、ROASは最大214％改善へ",
+    "url": "https://note.com/moloco_japan",
+    "pass": 3
+   },
+   {
+    "quote": "日本のQ1で勝つ鍵は「効率ウィンドウ」 ヒントは3〜4月、その見つけ方",
+    "url": "https://note.com/moloco_japan",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ今、日本のリテールメディアはAIで伸びるのか：ゴールドラッシュ後の勝ち筋",
+    "url": "https://note.com/moloco_japan",
+    "pass": 3
+   },
+   {
+    "quote": "「人の琴線に触れる」NOT A HOTELの超プロダクトアウトのマーケティング―ad:tech tokyo 2024参加レポート（3）",
+    "url": "https://note.com/moloco_japan",
+    "pass": 3
+   },
+   {
+    "quote": "なぜLPO施策は進まないのか？ エン・ジャパン✕プレイドが語るLPO施策の極意―ad:tech tokyo 2024参加レポート（6）",
+    "url": "https://note.com/moloco_japan",
+    "pass": 3
+   },
+   {
+    "quote": "貴重な広告費を無駄にしない！ エン・ジャパンに学ぶアドフラウド対策の進め方―ad:tech tokyo 2024参加レポート（5）",
+    "url": "https://note.com/moloco_japan",
+    "pass": 3
+   },
+   {
+    "quote": "スポンサービジネスからの脱却！ 鹿島アントラーズが実践する新しいスポーツビジネスの形とは？―ad:tech tokyo 2024参加レポート（4）",
+    "url": "https://note.com/moloco_japan",
+    "pass": 3
+   },
+   {
+    "quote": "en Japan achieved 11.2X installs in 4 months with Moloco",
+    "url": "https://www.casestudies.com/company/moloco",
+    "pass": 3
+   },
+   {
+    "quote": "Moloco Launches Certified Agency Program Globally｜Moloco Japan",
+    "url": "https://note.com/moloco_japan/n/nd1c6e51f3f0d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\". The company has been running a certified agency program for the Japanese market since",
+    "url": "https://note.com/moloco_japan/n/nd1c6e51f3f0d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "From Daisuke Yokokawa, Media Strategy Promotion Department, Integrated Marketing Headquarters, Septeni Japan, Inc.",
+    "url": "https://note.com/moloco_japan/n/nd1c6e51f3f0d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Moloco was founded in 2013 by a team of machine learning engineers and has offices in locations including the U.S., U.K., South Korea, China, Japan, and Singapore.",
+    "url": "https://note.com/moloco_japan/n/nd1c6e51f3f0d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Working at Moloco: An Interview with a Growth Manager｜Moloco Japan",
+    "url": "https://note.com/moloco_japan/n/n13d3af9280fb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Atsushi Yamamoto (far left) and members of Moloco's Japanese subsidiary who participated in IVS2025",
+    "url": "https://note.com/moloco_japan/n/n13d3af9280fb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the advertising industry, the reputation that 'Moloco's effectiveness is overwhelming' has become established, and CyberAgent, an official Moloco agency in Japan, boasts a track record of over 90% ad spend retention.",
+    "url": "https://note.com/moloco_japan/n/n13d3af9280fb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Because it is a foreign-affiliated company, meritocracy is thoroughly implemented, and since the Japan team is a small, elite group, the responsibility each person carries is significant. The workload is heavy, and every day is fulfilling.",
+    "url": "https://note.com/moloco_japan/n/n13d3af9280fb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "We hold an office event once a month, and we plan fun events for the entire Japan office, such as making Japanese sweets, escape games, and walking events.",
+    "url": "https://note.com/moloco_japan/n/n13d3af9280fb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Moloco Names CyberAgent, Inc. and GREE Advertising, Inc. as First Official Moloco Certified Partners｜Moloco Japan",
+    "url": "https://note.com/moloco_japan/n/n8e7652943528?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Launching a Japan-focused partner program to grow the mobile DSP business",
+    "url": "https://note.com/moloco_japan/n/n8e7652943528?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Moloco (Headquarters: Redwood City, CA; Co-founder & CEO: Ikkjin Ahn; Head of Japan Business: Tatsuo Sakamoto), which maximizes mobile business growth and results through machine learning, has announced the launch of a Japan-focused partner program to grow its mobile DSP business, naming CyberAgent, Inc. and GREE Advertising, Inc. (in no particular order) as its first \"Certified Partners.\"",
+    "url": "https://note.com/moloco_japan/n/n8e7652943528?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Moloco was founded in 2013 by former Google machine learning engineers. Its Japan operations began in 2019. Since then, the business has expanded steadily, achieving profitability for 12 consecutive quarters globally and consistently ranking at the top in terms of scale and quality according to third-party organizations.",
+    "url": "https://note.com/moloco_japan/n/n8e7652943528?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "While there is already a significant track record of campaigns between these companies and Moloco's Japanese subsidiary, we will now establish an even stronger collaborative structure to work on initiatives that allow advertisers to achieve higher return on advertising spend.",
+    "url": "https://note.com/moloco_japan/n/n8e7652943528?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Moloco was founded in 2013 by a team of machine learning engineers and has offices in the United States, United Kingdom, South Korea, China, Japan, and Singapore.",
+    "url": "https://note.com/moloco_japan/n/n8e7652943528?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Demaecan Becomes First in Japan to Introduce \"Moloco Commerce Media,\" a Retail Media Advertising Solution Powered by Generative AI｜Moloco Japan",
+    "url": "https://note.com/moloco_japan/n/nbaca84ef7c10?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Demaecan Becomes First in Japan to Introduce \"Moloco Commerce Media,\" a Retail Media Advertising Solution Powered by Generative AI",
+    "url": "https://note.com/moloco_japan/n/nbaca84ef7c10?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\", a retail media advertising solution powered by generative AI, for the first time in Japan, and launched a new advertising product for merchants called \"Order Boost Ads\" on Demaecan, one of Japan's largest delivery services, on Tuesday, November 26, 2024.",
+    "url": "https://note.com/moloco_japan/n/nbaca84ef7c10?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "導入事例 | Moloco — MolocoのAI主導のUAとSDKの相乗効果のおかげで、私たちはより効率的に価値の高いユーザーにアプローチし、グローバル展開を加速させ、大幅な収益成長を実現できました。",
+    "url": "https://www.moloco.com/ja/customers",
+    "pass": 3
+   },
+   {
+    "quote": "リテールメディアプラットフォームをリリース｜MOLOCO Japan顧客事例｜Moloco Japan｜noteMoloco Japan｜noteアスクル、Molocoのリテールメディア広告ソリューションを導入 広告運...Moloco、株式会社サイバーエージェント、グリーアドバタイジング株式...Moloco Adsの日本事業責任者に有木 剛が就任 — モバイル広告業界をリードするMOLOCOの技術で、新たな収益源として広告事業を立ち上げる企業様は、製品レコメンデーションやスポンサード広告を簡単に始める事が可能になりました。 ぜひご質問等ございましたら、いつでも お問い合わせ ください。 Nov 23, 2023 · Molocoを取り扱う日本の広告代理店の中で、特に優れた販売実績・運用経験を保有し、広告主の広告効果・マーケティング支援において、特に高い信頼性のある広告会社・代理店に対す",
+    "url": "https://www.moloco.com/ja/blog/retail-media-japan",
+    "pass": 3
+   },
+   {
+    "quote": "顧客事例｜Moloco Japan｜note — Nov 23, 2023 · Molocoを取り扱う日本の広告代理店の中で、特に優れた販売実績・運用経験を保有し、広告主の広告効果・マーケティング支援において、特に高い信頼性のある広告会社・代理店に対する呼称、「Moloco公認代理店」。",
+    "url": "https://note.com/moloco_japan/m/ma52d69fc328a",
+    "pass": 3
+   },
+   {
+    "quote": "Moloco Japan｜note — Molocoは膨大なデータと機械学習技術を元に、世界で300万もの独立系アプリに最適化されたモバイル広告を配信し、アプリの成長の促進をサポートしています。 ご興味がある方はこちらから↓↓↓ https://www.moloco.com/ja",
+    "url": "https://note.com/moloco_japan",
+    "pass": 3
+   },
+   {
+    "quote": "アスクル、Molocoのリテールメディア広告ソリューションを導入 広告運... — Jun 23, 2026 · MolocoのAI技術を活用した『ASKULスポンサード広告』の導入により、メーカー・ブランド様はより効果的かつ手軽に広告運用が可能となり、お客様には豊富な品揃えの中から、よりパーソナライズされた商品との出会いを提供できます。",
+    "url": "https://netkeizai.com/articles/detail/18954",
+    "pass": 3
+   },
+   {
+    "quote": "グローバル規模のAIパフォーマンス広告 | Moloco — 主要な大手テックプラットフォームだけを頼りに手に入る成長には限界があります。 Molocoは、アプリ内広告、CTV、コマースメディアなど、新たな領域へと可能性を広げ、パフォーマンスマーケターが成長を拡大するための新しい道を切り拓きます。",
+    "url": "https://www.moloco.com/ja",
+    "pass": 3
+   },
+   {
+    "quote": "Molocoについて | オープンインターネットのAI広告 — Molocoの複合AIシステムは、広告フォーマット、業種、デジタル接点を横断して継続的に学習します。 一つひとつのインタラクションが次の決定の改善につながり、システムが成長するにつれてパフォーマンスも継続的に向上します。",
+    "url": "https://www.moloco.com/ja/company/about",
+    "pass": 3
+   },
+   {
+    "quote": "MolocoJapan - FacebookMoloco Japan｜noteMoloco - LinkedInMoloco Adsの日本事業責任者に有木 剛が就任 — Moloco広告代理店パートナーになりませんか？ 🙌 それぞれの代理店の特色に合わせ、成長と業績向上を 後押しします ユニークなニーズに応える教育などのカスタムサービ スも充実🌿 パートナープログラム詳細はコチラから👇 https://bit.ly/4oJDqf2 Molocoは膨大なデータと機械学習技術を元に、世界で300万もの独立系アプリに最適化されたモバイル広告を配信し、アプリの成長の促進をサポートしています。 ご興味がある方はこちらから↓↓↓ https://www.moloco.com/ja Moloco’s solutions reach over 200 countries and territories, ",
+    "url": "https://www.facebook.com/MolocoJapan/",
+    "pass": 3
+   },
+   {
+    "quote": "Moloco - LinkedIn — Moloco’s solutions reach over 200 countries and territories, and the company has offices throughout the US, the UK, Germany, Korea, China, India, Japan, and Singapore.",
+    "url": "https://www.linkedin.com/company/moloco",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories | Moloco — See how apps and retailers grow with Moloco — customer stories across gaming, finance, on-demand, and commerce media.",
+    "url": "https://www.moloco.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "EAGLE,K.K. - moloco.com — Jun 2, 2026 · The deciding factors for EAGLE to adopt Moloco were the high accuracy of its AI and the quality of partnership support. EAGLE has integrated the Moloco SDK to enhance revenue generation and User acquisition.",
+    "url": "https://www.moloco.com/case-studies/eagle",
+    "pass": 3
+   },
+   {
+    "quote": "97 Moloco Case Studies, Success Stories, & Customer Stories — Discover how other companies use Moloco, get inspired, and find ways to improve your business.",
+    "url": "https://www.featuredcustomers.com/vendor/moloco2/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Moloco B2B Case Studies & Customer Successes — See how Moloco solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/moloco",
+    "pass": 3
+   },
+   {
+    "quote": "Moloco Case Study: Jam City – Moloco Supports Custom Product ... — Jam City (Entertainment) partnered with Moloco (Marketing & Advertising) to solve key challenges. \"Moloco Supports Custom Product Pages for iOS Campaigns\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/moloco/case-study/moloco-supports-custom-product-pages-for-ios-campaigns",
+    "pass": 3
+   },
+   {
+    "quote": "Moloco - 2026 Company Profile, Team, Funding & Competitors ...Moloco Revenue 2022: $200M, $2B Valuation - getlatka.comMoloco – Company Profile & Market Insights – 2026Moloco 2026 Company Profile: Valuation, Funding & Investors ...Moloco - Overview, News & Similar companies | ZoomInfo.comMoloco - Crunchbase Company Profile & FundingMoloco — Funding, Investors & Signals 2026 - Bounce Watch — Aug 25,",
+    "url": "https://tracxn.com/d/companies/moloco/__M1nPynPtg3BaL6CBRI36dMxROlan8YGwYMiAqLdqttY",
+    "pass": 3
+   },
+   {
+    "quote": "Moloco Revenue 2022: $200M, $2B Valuation - getlatka.com — Oct 7, 2026 · Moloco 2022 revenue: $200M. Valuation: $2B. Total funding: $226.8M across 6 rounds. 857 employees. Founded 2013. HQ: United States. Updated Oct 7, 2026.",
+    "url": "https://getlatka.com/companies/moloco.com",
+    "pass": 3
+   },
+   {
+    "quote": "Moloco – Company Profile & Market Insights – 2026 — Discover Moloco's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/moloco",
+    "pass": 3
+   },
+   {
+    "quote": "Moloco 2026 Company Profile: Valuation, Funding & Investors ...Moloco - Overview, News & Similar companies | ZoomInfo.comMoloco - Crunchbase Company Profile & FundingMoloco — Funding, Investors & Signals 2026 - Bounce Watch — Information on valuation, funding, cap tables, investors, and executives for Moloco. Use the PitchBook Platform to explore the full profile. Moloco was founded in 2013 by a t",
+    "url": "https://pitchbook.com/profiles/company/99124-84",
+    "pass": 3
+   },
+   {
+    "quote": "Moloco - Overview, News & Similar companies | ZoomInfo.com — Moloco was founded in 2013 by a team of machine learning engineers and has offices throughout the US, the UK, Germany, Korea, China, India, Japan, and Singapore.Read More",
+    "url": "https://www.zoominfo.com/c/moloco-inc/556718010",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/moloco2/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/moloco2/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/99124-84",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Moloco Launches Certified Agency Program Globally Moloco was founded in 2013 by a team of machine learning engineers and has offices in locations including the U.S., U.K., South Korea, China, Japan, and Singapore.",
+    "url": "https://note.com/moloco_japan/n/nd1c6e51f3f0d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Working at Moloco: An Interview with a Growth Manager Nov 20, 2025 · What kind of talent is 'likely to succeed' at Moloco? —What kind of environment is Moloco? People from the world's top companies such as former Google, Meta, and Amazon have gathered here. Working with them, I realize the high level of their skills every day. At first, I was overwhelmed.",
+    "url": "https://note.com/moloco_japan/n/n13d3af9280fb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Moloco Names CyberAgent, Inc. and GREE Advertising, Inc. as ... Moloco was founded in 2013 by a team of machine learning engineers and has offices in the United States, United Kingdom, South Korea, China, Japan, and Singapore.",
+    "url": "https://note.com/moloco_japan/n/n8e7652943528?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Demaecan Becomes First in Japan to Introduce \"Moloco Commerce ... Nov 27, 2024 · By collaborating with Moloco, Demaecan can quickly introduce Moloco Commerce Media, a cutting-edge retail media advertising solution powered by generative AI, without initial investment.",
+    "url": "https://note.com/moloco_japan/n/nbaca84ef7c10?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Moloco Launches Certified Agency Program Globally｜Moloco Japan",
+    "url": "https://note.com/moloco_japan/n/nd1c6e51f3f0d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Moloco Launches Certified Agency Program Globally",
+    "url": "https://note.com/moloco_japan/n/nd1c6e51f3f0d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Following CyberAgent, Inc. and GREE Advertising, Inc.,",
+    "url": "https://note.com/moloco_japan/n/nd1c6e51f3f0d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Septeni Co., Ltd. and CyberZ, Inc. named as Moloco Certified Agencies",
+    "url": "https://note.com/moloco_japan/n/nd1c6e51f3f0d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Moloco, Inc. (Headquarters: Redwood City, California; Co-founder and CEO: Ikkjin Ahn; hereinafter \"Moloco\"), which supports the growth and performance of mobile businesses to the fullest, has announced the global launch of the \"",
+    "url": "https://note.com/moloco_japan/n/nd1c6e51f3f0d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Moloco Certified Agency Program",
+    "url": "https://note.com/moloco_japan/n/nd1c6e51f3f0d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\". The company has been running a certified agency program for the Japanese market since",
+    "url": "https://note.com/moloco_japan/n/nd1c6e51f3f0d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", and through this global launch, it will support certified agencies in becoming leaders in performance marketing for mobile app advertising, helping them achieve further results such as new user acquisition. Additionally, following CyberAgent, Inc. and GREE Advertising, Inc., the company announced that it has recognized two more companies, Septeni Co., Ltd. and CyberZ, Inc. (in no particular orde",
+    "url": "https://note.com/moloco_japan/n/nd1c6e51f3f0d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Working at Moloco: An Interview with a Growth Manager｜Moloco Japan",
+    "url": "https://note.com/moloco_japan/n/n13d3af9280fb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Working at Moloco: An Interview with a Growth Manager",
+    "url": "https://note.com/moloco_japan/n/n13d3af9280fb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Going beyond ad operations to drive management... The way of working that Moloco creates to 'design growth'",
+    "url": "https://note.com/moloco_japan/n/n13d3af9280fb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "An AI advertising solution company that is steadily increasing its presence in the advertising industry,",
+    "url": "https://note.com/moloco_japan/n/n13d3af9280fb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ". Founded by former Google employees, this global tech company is supporting the growth of client companies one after another with its AI-driven advertising platform.",
+    "url": "https://note.com/moloco_japan/n/n13d3af9280fb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, its internal working style and culture are not yet widely known.",
+    "url": "https://note.com/moloco_japan/n/n13d3af9280fb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "We spoke with Atsushi Yamamoto, who joined Moloco three and a half years ago and is active as a Growth Manager. How did a salesperson who couldn't speak English at all end up proposing business strategies to CEOs of companies at a global company? And what is this company's 'surprisingly unexpected' way of working?",
+    "url": "https://note.com/moloco_japan/n/n13d3af9280fb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Atsushi Yamamoto (far left) and members of Moloco's Japanese subsidiary who participated in IVS2025",
+    "url": "https://note.com/moloco_japan/n/n13d3af9280fb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Moloco Names CyberAgent, Inc. and GREE Advertising, Inc. as First Official Moloco Certified Partners｜Moloco Japan",
+    "url": "https://note.com/moloco_japan/n/n8e7652943528?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Moloco Names CyberAgent, Inc. and GREE Advertising, Inc. as First Official Moloco Certified Partners",
+    "url": "https://note.com/moloco_japan/n/n8e7652943528?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This article is a reprint of a press release issued on June 22, 2023.",
+    "url": "https://note.com/moloco_japan/n/n8e7652943528?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Launching a Japan-focused partner program to grow the mobile DSP business",
+    "url": "https://note.com/moloco_japan/n/n8e7652943528?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Moloco (Headquarters: Redwood City, CA; Co-founder & CEO: Ikkjin Ahn; Head of Japan Business: Tatsuo Sakamoto), which maximizes mobile business growth and results through machine learning, has announced the launch of a Japan-focused partner program to grow its mobile DSP business, naming CyberAgent, Inc. and GREE Advertising, Inc. (in no particular order) as its first \"Certified Partners.\"",
+    "url": "https://note.com/moloco_japan/n/n8e7652943528?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What is a \"Moloco Certified Partner\"?",
+    "url": "https://note.com/moloco_japan/n/n8e7652943528?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Moloco was founded in 2013 by former Google machine learning engineers. Its Japan operations began in 2019. Since then, the business has expanded steadily, achieving profitability for 12 consecutive quarters globally and consistently ranking at the top in terms of scale and quality according to third-party organizations.",
+    "url": "https://note.com/moloco_japan/n/n8e7652943528?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A \"Moloco Certified Partner\" is an official designation for advertising companies and agencies that have demonstrated exceptional sales performance and operational experience among the Japanese advertising agencies handling Moloco, and that possess high reliability in supporting advertisers' advertising effectiveness and marketing, in order to further accelerate the growth of Moloco's mobile DSP b",
+    "url": "https://note.com/moloco_japan/n/n8e7652943528?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Demaecan Becomes First in Japan to Introduce \"Moloco Commerce Media,\" a Retail Media Advertising Solution Powered by Generative AI｜Moloco Japan",
+    "url": "https://note.com/moloco_japan/n/nbaca84ef7c10?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Demaecan Becomes First in Japan to Introduce \"Moloco Commerce Media,\" a Retail Media Advertising Solution Powered by Generative AI",
+    "url": "https://note.com/moloco_japan/n/nbaca84ef7c10?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This article is a reprint of a press release issued on November 27, 2024.",
+    "url": "https://note.com/moloco_japan/n/nbaca84ef7c10?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Moloco, Inc. (Headquarters: Redwood City, California; Co-founder and CEO: Ikkjin Ahn; Head of Japan Business: Naoki Toyofuku; hereinafter \"Moloco\"), which maximizes growth and performance for mobile businesses, announced today that it is collaborating with Demaecan Co., Ltd. (Headquarters: Shibuya-ku, Tokyo; President and Representative Director: Tetsu Yano; hereinafter \"Demaecan\") to realize high",
+    "url": "https://note.com/moloco_japan/n/nbaca84ef7c10?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Moloco Commerce Media",
+    "url": "https://note.com/moloco_japan/n/nbaca84ef7c10?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\", a retail media advertising solution powered by generative AI, for the first time in Japan, and launched a new advertising product for merchants called \"Order Boost Ads\" on Demaecan, one of Japan's largest delivery services, on Tuesday, November 26, 2024.",
+    "url": "https://note.com/moloco_japan/n/nbaca84ef7c10?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Currently, many food delivery services adopt a CPC (Cost-Per-Click) advertising model. With a CPC model, there is a risk that merchants may invest in advertising without achieving a high return on investment (ROI). Furthermore, merchants have been seeking effective measures to increase touchpoints with users who have a high probability of ordering while keeping fixed costs low.",
+    "url": "https://note.com/moloco_japan/n/nbaca84ef7c10?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Through this partnership, Moloco Commerce Media will achieve the following:",
+    "url": "https://note.com/moloco_japan/n/nbaca84ef7c10?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Moloco - LinkedIn At Moloco, we combine advanced technology with hands-on expertise, from driving user acquisition and re-engagement for some of the world’s leading apps to powering the ad businesses of global ...",
+    "url": "https://www.linkedin.com/company/moloco",
+    "pass": 3
+   },
+   {
+    "quote": "Moloco - LinkedIn At Moloco, we combine advanced technology with hands-on expertise, from driving user acquisition and re-engagement for some of the world’s leading apps to powering the ad businesses of global...",
+    "url": "https://uk.linkedin.com/company/moloco",
+    "pass": 3
+   },
+   {
+    "quote": "Moloco: Jobs | LinkedIn At Moloco, we combine advanced technology with hands-on expertise, from driving user acquisition and re-engagement for some of the world’s leading apps to powering the ad businesses of global ...",
+    "url": "https://www.linkedin.com/company/moloco/jobs/",
+    "pass": 3
+   },
+   {
+    "quote": "Moloco - LinkedIn At Moloco, we combine advanced technology with hands-on expertise, from driving user acquisition and re-engagement for some of the world’s leading apps to powering the ad businesses of global...",
+    "url": "https://sg.linkedin.com/company/moloco",
+    "pass": 3
+   },
+   {
+    "quote": "Ikkjin Ahn - Moloco | LinkedInMoloco合同会社（東京都）の会社概要・役員 | CompalyzeMoloco 日本事業責任者に豊福 直紀が新たに就任 | MOLOCOのプレスリリ...Moloco株式会社（東京都）の会社概要・役員 | Compalyze · Experience: Moloco · Education: University of Pennsylvania · Location: Redwood City · 500+ connections on LinkedIn. View Ikkjin Ahn’s profile on LinkedIn, a professional community of 1 ... 「Moloco Commerce Media」は、買い物客のニーズをリアルタイムで予測し、関連性の高い広告表示と各広告インプレッ",
+    "url": "https://www.linkedin.com/in/ikkjin-ahn-a090937",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Moloco | Menlo Park CA - FacebookMoloco Consulting - FacebookLe Moloco | Audincourt - FacebookMoloco Blu - FacebookMoloco Cafe - FacebookMoloco - FacebookMoloco - As Moloco continues helping our customers scale ... Sep 13, 2026 · The Moloco SDK delivered more than stronger monetization. Rich post-install engagement and monetization signals enhanced existing UA campaigns, enabling more precise targ",
+    "url": "https://www.facebook.com/MolocoGlobal/",
+    "pass": 3
+   },
+   {
+    "quote": "Moloco Consulting - Facebook Aug 11, 2026 · Moloco Consulting. 244 likes · 2 talking about this. We enable startups and entrepreneur led businesses to reach their fullest potential for success.",
+    "url": "https://www.facebook.com/molocoinc/",
+    "pass": 3
+   },
+   {
+    "quote": "Le Moloco | Audincourt - FacebookMoloco Blu - FacebookMoloco Cafe - FacebookMoloco - FacebookMoloco - As Moloco continues helping our customers scale ... 4 days ago · Le Moloco, Audincourt. 24,636 followers · 474 talking about this. Scène de Musiques Actuelles du Pays de Montbéliard Nuevo concierto de Moloco Blu esta vez con nuestros amigos de La Faràndula Café Teatre de Pedreguer. Blues Soul R&B ",
+    "url": "https://www.facebook.com/lemoloco25/",
+    "pass": 3
+   },
+   {
+    "quote": "Moloco Blu - FacebookMoloco Cafe - FacebookMoloco - FacebookMoloco - As Moloco continues helping our customers scale ... Nuevo concierto de Moloco Blu esta vez con nuestros amigos de La Faràndula Café Teatre de Pedreguer. Blues Soul R&B del bueno. Os esperamos el sábado 23 a las 20h - with Jorge Ribera and Macarena VG at La Faràndula Café Teatre. We’ve got you covered! ☕️ From savory favorites to ",
+    "url": "https://www.facebook.com/Molocoblu/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "@molocohq | X The latest posts from @molocohq",
+    "url": "https://x.com/molocohq",
+    "pass": 3
+   },
+   {
+    "quote": "MOLOCO (@moloco234) / Posts / X Apr 22, 2020 · MOLOCO (@moloco234) - Posts - beatmaker ビートの購入や 制作依頼はDMからお願いします | X (formerly Twitter)",
+    "url": "https://x.com/moloco234",
+    "pass": 3
+   },
+   {
+    "quote": "moloco (@molocoya) / X Mention Follow PostsPosts RepliesReplies MediaMedia moloco @molocoya 1h 很喜欢声音好听手好看的人啊，看片看到了更是反复回味😋",
+    "url": "https://x.com/molocoya",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.moloco.com/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moloco.com/industries/moloco-ads/agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moloco.com/ja/company/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moloco.com/ja/company/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moloco.com/ja/blog/wayfair-partners-with-moloco-to-transform-display-advertising",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moloco.com/ja/industries/moloco-ads/mobile-gaming",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moloco.com/industries/moloco-ads/finance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moloco.com/industries/moloco-ads/igaming",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moloco.com/ja/industries/moloco-ads/on-demand-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moloco.com/ja/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moloco.com/ja/company/leadership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moloco.com/ja/company/newsroom",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moloco.com/ja/case-studies/open-mic-open-internet-king",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moloco.com/ja/case-studies/scopely-monopoly-go",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moloco.com/company/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moloco.com/company/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moloco.com/moloco-next",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moloco.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moloco.com/company/leadership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moloco.com/company/newsroom",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/6a59dd0133b776de7ec526cd/6a9c002c438c66dfabac579e_agency-partners-hero.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6a59dd0133b776de7ec526cd/6a9c0e180feab3c8ade2b47d_Acquire%20customers%20who%20fund%2C%20transact%2C%20and%20become%20loyal.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6a59dd0133b776de7ec526cd/6a9d5dc1b08befb3a480ca13_Re-engage%20customers%20who%20drop%20off.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/6a59dd0133b776de7ec526cd/6a9fcb885ccd9b8e0c23b530_Customers%20-%20Hero.avif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://note.com/moloco_japan/m/ma52d69fc328a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/moloco_japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%B5%E3%83%A0%E3%82%B9%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/MolocoJapan/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/moloco_japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/moloco2/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/moloco",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.upcounsel.com/reseller-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/moloco/__M1nPynPtg3BaL6CBRI36dMxROlan8YGwYMiAqLdqttY",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/moloco.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/moloco",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/99124-84",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/moloco_japan/n/nd1c6e51f3f0d?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/moloco_japan/n/n13d3af9280fb?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/moloco_japan/n/n8e7652943528?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/moloco_japan/n/nbaca84ef7c10?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/moloco",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/company/moloco",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/moloco/jobs/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sg.linkedin.com/company/moloco",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MolocoGlobal/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/molocoinc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/lemoloco25/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Molocoblu/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/ikkjin-ahn-a090937",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/molocohq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/moloco234",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/molocoya",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Moloco 日本 導入",
+   "results": [
+    "https://www.moloco.com/ja/customers",
+    "https://www.moloco.com/ja/blog/retail-media-japan",
+    "https://note.com/moloco_japan/m/ma52d69fc328a",
+    "https://note.com/moloco_japan",
+    "https://netkeizai.com/articles/detail/18954",
+    "https://prtimes.jp/main/html/rd/p/000000013.000076497.html",
+    "https://prtimes.jp/main/html/rd/p/000000025.000076497.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Moloco 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日本サムスン",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.indexpro.co.jp/distributor/search-maker",
+    "https://www.molkky-japan.com/shop",
+    "https://baseconnect.in/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Moloco Japan",
+   "results": [
+    "https://www.moloco.com/ja",
+    "https://www.moloco.com/ja/company/about",
+    "https://www.facebook.com/MolocoJapan/",
+    "https://note.com/moloco_japan",
+    "https://www.linkedin.com/company/moloco",
+    "https://prtimes.jp/main/html/rd/p/000000025.000076497.html",
+    "https://prtimes.jp/main/html/rd/p/000000021.000076497.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Moloco manufacturing customer case study",
+   "results": [
+    "https://www.moloco.com/customers",
+    "https://www.moloco.com/case-studies/eagle",
+    "https://www.featuredcustomers.com/vendor/moloco2/case-studies",
+    "https://www.casestudies.com/company/moloco",
+    "https://www.casestudies.com/company/moloco/case-study/moloco-supports-custom-product-pages-for-ios-campaigns",
+    "http://www.widemarker.com/case-studies.html",
+    "https://craftsmanplus.com/case-study/moloco-drives-growth-with-craftsman/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Moloco white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.reseller.co.nz/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Moloco founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/moloco/__M1nPynPtg3BaL6CBRI36dMxROlan8YGwYMiAqLdqttY",
+    "https://getlatka.com/companies/moloco.com",
+    "https://compworth.com/company/moloco",
+    "https://pitchbook.com/profiles/company/99124-84",
+    "https://www.zoominfo.com/c/moloco-inc/556718010",
+    "https://www.crunchbase.com/organization/moloco",
+    "https://bouncewatch.com/company/moloco"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Moloco",
+   "results": [
+    "https://note.com/moloco_japan/n/nd1c6e51f3f0d?hl=en",
+    "https://note.com/moloco_japan/n/n13d3af9280fb?hl=en",
+    "https://note.com/moloco_japan/n/n8e7652943528?hl=en",
+    "https://note.com/moloco_japan/n/nbaca84ef7c10?hl=en",
+    "https://note.com/moloco_japan/n/neb5b1333c817?hl=en",
+    "https://note.com/moloco_japan/n/nf6a881ef2f18?hl=en",
+    "https://note.com/moloco_japan/n/n2663ebb25521?hl=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Moloco",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Moloco",
+   "results": [
+    "https://www.linkedin.com/company/moloco",
+    "https://uk.linkedin.com/company/moloco",
+    "https://www.linkedin.com/company/moloco/jobs/",
+    "https://sg.linkedin.com/company/moloco",
+    "https://jp.linkedin.com/company/moloco",
+    "https://kr.linkedin.com/company/moloco",
+    "https://de.linkedin.com/company/moloco"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Moloco",
+   "results": [
+    "https://www.facebook.com/MolocoGlobal/",
+    "https://www.facebook.com/molocoinc/",
+    "https://www.facebook.com/lemoloco25/",
+    "https://www.facebook.com/Molocoblu/",
+    "https://www.facebook.com/p/Moloco-Cafe-61590257234339/",
+    "https://www.facebook.com/musicbymoloco/",
+    "https://www.facebook.com/MolocoGlobal/posts/as-moloco-continues-helping-our-customers-scale-and-expand-globally-so-do-we-wer/807652458040231/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Moloco note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.moloco.com/ja/company/leadership",
+    "https://www.moloco.com/company/leadership",
+    "https://www.linkedin.com/in/ikkjin-ahn-a090937",
+    "https://compalyze.co.jp/company/6010403028540",
+    "https://prtimes.jp/main/html/rd/p/000000021.000076497.html",
+    "https://compalyze.co.jp/company/2010401146397"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Moloco X 投稿",
+   "results": [
+    "https://x.com/molocohq",
+    "https://x.com/moloco234",
+    "https://x.com/molocoya",
+    "https://help.moloco.com/hc/zh-cn/articles/28126610177047-X-Twitter-流量池指南",
+    "https://www.moloco.com/zh/help-center",
+    "https://x.com/MolocoJP/status/2088083252460269600",
+    "https://x.com/MidokuLobha/status/2118689871602876459"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部34頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部34頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部34頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部34頁・検索12回）"
+ }
+}

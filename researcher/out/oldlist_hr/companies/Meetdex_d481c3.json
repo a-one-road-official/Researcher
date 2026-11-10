@@ -1,0 +1,826 @@
+{
+ "name": "Meetdex",
+ "aliases": [],
+ "context": "旧営業リスト｜Talent Acquisition / AI｜状態なし",
+ "researched_at": "2026-11-10T00:25:18.193169+00:00",
+ "official_url": "https://meetdex.ai/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Seed",
+    "value": "Apr 28, 2026 Book a demo Book a demo Book a demo Book a demo",
+    "url": "https://www.caplight.com/company/meetdex",
+    "pass": 3
+   },
+   {
+    "label": "Pre Seed",
+    "value": "Apr 29, 2025 Book a demo Book a demo Book a demo Book a demo",
+    "url": "https://www.caplight.com/company/meetdex",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Dex gets engineers interviews at these companies and many more",
+    "url": "https://meetdex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Hiring? See why these companies use Dex",
+    "url": "https://meetdex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Targeting a Senior Product Engineer position at an AI-native startup, with real ownership and a high-agency environment.",
+    "url": "https://meetdex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlike a CV that just tells people where you have been, Dex captures the kind of problems, team, scope, and environment you want next.",
+    "url": "https://meetdex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Staff Product Engineer",
+    "url": "https://meetdex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Staff Product Engineer (Remote)",
+    "url": "https://meetdex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our team adds roles from partner companies every week. We get to know each hiring team first, so Dex has the context before a role reaches you.",
+    "url": "https://meetdex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "I selected this role because it is an AI Product Engineer role in London (on-site), working in Python and TypeScript. This company is building the first AI-native certification body, independently assessing whether AI systems are secure, reliable, and behaving as intended.",
+    "url": "https://meetdex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "I selected this role because it is a Founding Engineer (US) role in San Francisco (hybrid), working in TypeScript and Node.js. Enterprise identity providers leave major blind spots: privileged service accounts, banking portals, and internal tools that traditional single sign-on cannot reach.",
+    "url": "https://meetdex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Principal Product Engineer",
+    "url": "https://meetdex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AI talent tools we value your privacy",
+    "url": "https://meetdex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Dex has been great for this stage in my career. The quality of the companies on the platform is excellent, and the AI is great at understanding your motivations and what you’re looking for in a new role. Dex is a game-changer compared to legacy recruitment.",
+    "url": "https://meetdex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Dex was the best experience I’ve had. Elsewhere I got ghosted, or the roles were hugely over-applied to. Every role was a hit and saved me three or four hours a week of searching. I never took a call I regretted, and I felt prepared for every one. I’m very happy at Tunic Pay, and any surprises have been good ones.",
+    "url": "https://meetdex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Dex placed me at Fyxer a month ago as Lead Product Engineer, and the job is exactly what I hoped it would be. If you’re a senior engineer thinking about your next role, speak to Dex!",
+    "url": "https://meetdex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Lead Product Engineer",
+    "url": "https://meetdex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We sit down with the people hiring senior engineers. Catch up on those conversations, and on what we're learning about the market.",
+    "url": "https://meetdex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Dex's Top 50 Tech Companies Hiring in the UK",
+    "url": "https://meetdex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We evaluated thousands of companies to find fifty places where great engineers are doing work worth doing. Interesting technical problems, strong engineering cultures, real products, and no slop shops in sight.",
+    "url": "https://meetdex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Scaling Startups & Spotting Great Hires",
+    "url": "https://meetdex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The Hard Truths of Hiring",
+    "url": "https://meetdex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Luc Adamson, founder of Aura Talent and former Head of Talent at Lottie and Let’s Do This, joins the DexFactor Podcast to share sharp lessons from a decade in recruitment.",
+    "url": "https://meetdex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our founder Paddy has spent a decade recruiting across top tech companies. Long enough to watch the system stop working for nearly everyone inside it. So we designed something better: Dex gives candidates the judgement of a great recruiter, at scale and at speed.",
+    "url": "https://meetdex.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Recruiters, founders, and operators from Improbable, Secret Escapes, Deliveroo, GoCardless and more. The team know hiring inside out from founding hires all the way through to late stage rounds.",
+    "url": "https://meetdex.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "A decade recruiting at Improbable, Sensat, and Atomico, and more than 10,000 interviews. Dex is the recruiter he wished candidates had.",
+    "url": "https://meetdex.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Led talent at GoCardless and Tractable, then founded Paradigm Talent. He works with the companies hiring through Dex.",
+    "url": "https://meetdex.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Led commercial hiring at Beamery from Series B to Series D, across the UK, US, and APAC.",
+    "url": "https://meetdex.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "A PhD from the University of York on how people communicate and build trust in teams. She shapes how Dex talks with candidates.",
+    "url": "https://meetdex.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Previously a tech lead at Improbable, and founder of Evidenced. He builds the product that turns a conversation into a match.",
+    "url": "https://meetdex.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Nine years scaling consumer startups, most recently owning onboarding and conversion at Cleo.",
+    "url": "https://meetdex.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Founded Progression, later acquired, after leading consumer design at Deliveroo.",
+    "url": "https://meetdex.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "A problem that matters",
+    "url": "https://meetdex.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Product Engineer",
+    "url": "https://meetdex.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Performance Marketing Manager",
+    "url": "https://meetdex.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "💰 Last funded Apr 2026",
+    "url": "https://www.gritt.io/company/meetdex/",
+    "pass": 3
+   },
+   {
+    "quote": "Few roles. Fewer candidates. Better matches.",
+    "url": "https://www.gritt.io/company/meetdex/",
+    "pass": 3
+   },
+   {
+    "quote": "We are long term. Dex stays with you throughout your career across promotion cycles, frustration peaks and surfacing big opportunities.",
+    "url": "https://www.gritt.io/company/meetdex/",
+    "pass": 3
+   },
+   {
+    "quote": "Treat your job search like production (not a sandbox).",
+    "url": "https://www.gritt.io/company/meetdex/",
+    "pass": 3
+   },
+   {
+    "quote": "Apr 2025",
+    "url": "https://www.gritt.io/company/meetdex/",
+    "pass": 3
+   },
+   {
+    "quote": "Apr 2026",
+    "url": "https://www.gritt.io/company/meetdex/",
+    "pass": 3
+   },
+   {
+    "quote": "The most recent investment in Dex recorded on gritt.io was in April 2026.",
+    "url": "https://www.gritt.io/company/meetdex/",
+    "pass": 3
+   },
+   {
+    "quote": "Apr 28, 2026",
+    "url": "https://www.caplight.com/company/meetdex",
+    "pass": 3
+   },
+   {
+    "quote": "Historical view of private secondary pricing and transaction trends.",
+    "url": "https://www.caplight.com/company/meetdex",
+    "pass": 3
+   },
+   {
+    "quote": "Unlock Pricing Charts",
+    "url": "https://www.caplight.com/company/meetdex",
+    "pass": 3
+   },
+   {
+    "quote": "Book a demo to explore historical pricing and secondary transactions.",
+    "url": "https://www.caplight.com/company/meetdex",
+    "pass": 3
+   },
+   {
+    "quote": "Proprietary index based on bid/ask volume and sentiment.",
+    "url": "https://www.caplight.com/company/meetdex",
+    "pass": 3
+   },
+   {
+    "quote": "Apr 29, 2025",
+    "url": "https://www.caplight.com/company/meetdex",
+    "pass": 3
+   },
+   {
+    "quote": "Seed, Pre Seed",
+    "url": "https://www.caplight.com/company/meetdex",
+    "pass": 3
+   },
+   {
+    "quote": "Dex filings preview — column headings only; records require access",
+    "url": "https://www.caplight.com/company/meetdex",
+    "pass": 3
+   },
+   {
+    "quote": "Common questions about Dex's valuation, stock price, and market status.",
+    "url": "https://www.caplight.com/company/meetdex",
+    "pass": 3
+   },
+   {
+    "quote": "Is Dex a public or private company?",
+    "url": "https://www.caplight.com/company/meetdex",
+    "pass": 3
+   },
+   {
+    "quote": "Dex is a private company.",
+    "url": "https://www.caplight.com/company/meetdex",
+    "pass": 3
+   },
+   {
+    "quote": "What is the current stock price of Dex?",
+    "url": "https://www.caplight.com/company/meetdex",
+    "pass": 3
+   },
+   {
+    "quote": "Dex is a private company, so its shares have no public market price. Caplight tracks Dex's secondary market activity and provides MarketPrice™ estimates of its share price to Caplight users.",
+    "url": "https://www.caplight.com/company/meetdex",
+    "pass": 3
+   },
+   {
+    "quote": "Dex's most recent funding round was Seed on April 28, 2026.",
+    "url": "https://www.caplight.com/company/meetdex",
+    "pass": 3
+   },
+   {
+    "quote": "Join leading institutional investors using Caplight to access private market data, discover pricing, and execute secondary block trades.",
+    "url": "https://www.caplight.com/company/meetdex",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Michele Mickelson, Head of People at Lakera, joins the DexFactor Podcast to share her journey from cheese factory tour guide to Silicon Valley operator.",
+    "url": "https://meetdex.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Recruiters, founders, and operators from Improbable, Secret Escapes, Deliveroo, GoCardless and more. The team know hiring inside out from founding hires all the way through to late stage rounds.",
+    "url": "https://meetdex.ai/about",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Founded Progression, later acquired, after leading consumer design at Deliveroo.",
+    "url": "https://meetdex.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Braveheart Bio, Inc.（Nasdaq: BRVE）は、米国カリフォルニア州サンフランシスコに本社を置く臨床ステージのバイオ医薬品企業です...",
+    "url": "https://www.firstcvc.jp/global/meetdex.ai",
+    "pass": 3
+   },
+   {
+    "quote": "👥 37 employees",
+    "url": "https://www.gritt.io/company/meetdex/",
+    "pass": 3
+   },
+   {
+    "quote": "No public IPO plans have been announced for Dex.",
+    "url": "https://www.caplight.com/company/meetdex",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "About · Dex - meetdex.ai — Meaningful work matters. Too many capable people spend years in jobs that don’t fit. Dex exists to change that.",
+    "url": "https://meetdex.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "Dexの資金調達・投資家情報 | 海外スタートアップ | FIRST CVC — 本ページの企業情報は、公式サイト（https://meetdex.ai）および公開情報（報道・プレスリリース等）をもとにAIが調査・要約したものです。 内容の正確性については公式サイト・出典をご確認ください。 続きの詳しい内容は、無料会員登録でご覧いただけます。",
+    "url": "https://www.firstcvc.jp/global/meetdex.ai",
+    "pass": 3
+   },
+   {
+    "quote": "meetdex.ai — Dex guides you through finding your next role, asking what you actually want and only connecting you with companies that fit. [Tell Dex what you're looking for](https://app.meetdex.ai/?entry=marketing)",
+    "url": "https://meetdex.ai/for-engineers.md",
+    "pass": 3
+   },
+   {
+    "quote": "meetdex.net - Log in or join — Dex — Just the grid — every man near you, ranked by distance. Tap. Talk. Meet. Stripped down. Powered up. Six tools. Zero fluff. DEX is the wingman every gay guy needs — everything you need, nothing you don't. Real distance in real time. No fake locations, no padded numbers. One tap to start a chat.",
+    "url": "https://meetdex.net/",
+    "pass": 3
+   },
+   {
+    "quote": "Welcome to Dex - app.meetdex.ai — Matching exceptional software engineers with top tech companies. Find great opportunities.",
+    "url": "https://app.meetdex.ai/login",
+    "pass": 3
+   },
+   {
+    "quote": "About · Dex - meetdex.ai — So we designed something better: Dex gives candidates the judgement of a great recruiter, at scale and at speed. We're building Dex to rethink talent matching. Recruiters, founders, and operators from Improbable, Secret Escapes, Deliveroo, GoCardless and more.",
+    "url": "https://meetdex.ai/about",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "For institutional investors. Book with your work email.",
+    "url": "https://www.caplight.com/company/meetdex",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "There are 10,000-15,000 companies in the UK ready to hire an ... It now runs from £100k to £1M for ICs. So if you're an exceptional software engineer tired of trying to sort through 1000s of opportunities alone, talk to Dex: meetdex.ai P.S. You can find my full ETN interview here: youtube.com/live/4SI52ISU0…",
+    "url": "https://x.com/paddy_dex/status/2054474958412161237",
+    "pass": 3
+   },
+   {
+    "quote": "Meet Dex, my new agent - x.com Zlatan Ibrahimović (@Ibra_official). 132 replies. Meet Dex, my new agent",
+    "url": "https://x.com/ibra_official/status/935861845705003009",
+    "pass": 3
+   },
+   {
+    "quote": "Paddy Lambros (@paddy_dex) / Posts / X We already did that work. If you're a company, it matters too. We have 50+ businesses on our waitlist right now. Being selective is exactly how we stay worth partnering with. If you want access to companies that cleared this bar, or you're a company that has, get started at meetdex.ai 💬 0",
+    "url": "https://x.com/paddy_dex",
+    "pass": 3
+   },
+   {
+    "quote": "Over the course of my career, 4 conversations have played the ... The next key conversation in your career might be closer than you think. Dex is ready when you are: meetdex.ai. 💬3 🔄1 🤍4 📊818 📎",
+    "url": "https://x.com/paddy_dex/status/2053388320701596090",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Meetdex.ai - LinkedIn Jun 1, 2026 · 🏙️ Expansion into New York and San Francisco Dex is currently headquartered in London and plans to continue expanding across global technology markets. Website: https://www.meetdex.ai",
+    "url": "https://www.linkedin.com/pulse/meetdexai-jay-bilson-k61cc",
+    "pass": 3
+   },
+   {
+    "quote": "Paddy Lambros - CEO & Founder @ Dex, Connecting the best ...Evelyn Tan, PhD - Dex | LinkedInDimas Gorevoy – iOS/Blockchain Developer/Consultant ...MJ Kim 님 - I help retail traders access the same AI-native ...Meet Dex | Dex - LinkedIn CEO & Founder @ Dex, Connecting the best engineers with the opportunities that deserve them | Top 100 Talent Leader · I’m Paddy. Founder &amp; CEO at Dex, the AI rec",
+    "url": "https://uk.linkedin.com/in/patricklambros",
+    "pass": 3
+   },
+   {
+    "quote": "Evelyn Tan, PhD - Dex | LinkedInDimas Gorevoy – iOS/Blockchain Developer/Consultant ...MJ Kim 님 - I help retail traders access the same AI-native ...Meet Dex | Dex - LinkedIn Experience: Dex · Education: The Machine Learning Institute · Location: United Kingdom · 500+ connections on LinkedIn. View Evelyn Tan, PhD’s profile on LinkedIn, a professional community of 1 billion members. 1) I do native ",
+    "url": "https://uk.linkedin.com/in/evelyntisiantan",
+    "pass": 3
+   },
+   {
+    "quote": "Dimas Gorevoy – iOS/Blockchain Developer/Consultant ...MJ Kim 님 - I help retail traders access the same AI-native ...Meet Dex | Dex - LinkedIn 1) I do native Apple iOS / watchOS applications (Objective-C, Swift, Xcode) in various directions: Ethereum based apps, casino games, educational projects, fitness apps. Do it from scratch / tech specs / ideas to release / production / AppStore. 2) I do blo",
+    "url": "https://ua.linkedin.com/in/gorevoy",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "How UK and US salaries compare… visit meetdex.ai ... - Facebook Sep 3, 2025 · How UK and US salaries compare… visit meetdex.ai to land your next job! Referral code - ZEFVGL23 #salaries #ukvsusa #viral",
+    "url": "https://www.facebook.com/Toby.abb0tt/videos/how-uk-and-us-salaries-compare-visit-meetdexai-to-land-your-next-job-referral-co/1317115263438479/",
+    "pass": 3
+   },
+   {
+    "quote": "MeetDex | Bernartice nad Odrou - Facebook Aug 24, 2025 · MeetDex is in Uherské Hradiště - Srdce Slovácka. https://www.youtube.com/watch?v=aFY54r1NseI Ahoj, já jsem Dex. Vítejte na novém kanále MeetDex , kde budeme prezentovat naši alternativní scénu.",
+    "url": "https://www.facebook.com/staniceDex/",
+    "pass": 3
+   },
+   {
+    "quote": "“Coming to Whirlow is like coming home” Meet Dex! Dex ... Mar 7, 2024 · “Coming to Whirlow is like coming home” Meet Dex! Dex previously attended our Whirlow LIFE programme and came back to tell us about their experience,...",
+    "url": "https://www.facebook.com/whirlowhallfarmtrust/videos/coming-to-whirlow-is-like-coming-home-meet-dex-dex-previously-attended-our-whirl/942636357568752/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://meetdex.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meetdex.ai/about",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://assets.meetdex.ai/company_logos/helicon.tech.jpeg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.firstcvc.jp/global/meetdex.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meet-meet.com/blog/article/case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meetdex.net/login?redirect=%2F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://app.meetdex.ai/login",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mxtechies.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/mendix",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techtrendinsights.com/whitepaper/case-study-dex-customers-like-you-medium-enterprise-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fundediq.co/dex-meetdex-ai-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gritt.io/company/meetdex/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/dex-68a2",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.caplight.com/company/meetdex",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/paddy_dex/status/2054474958412161237",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ibra_official/status/935861845705003009",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/paddy_dex",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/paddy_dex/status/2053388320701596090",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/meetdexai-jay-bilson-k61cc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/patricklambros",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/evelyntisiantan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ua.linkedin.com/in/gorevoy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Toby.abb0tt/videos/how-uk-and-us-salaries-compare-visit-meetdexai-to-land-your-next-job-referral-co/1317115263438479/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/staniceDex/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/whirlowhallfarmtrust/videos/coming-to-whirlow-is-like-coming-home-meet-dex-dex-previously-attended-our-whirl/942636357568752/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Meetdex 日本 導入",
+   "results": [
+    "https://meetdex.ai/about",
+    "https://www.firstcvc.jp/global/meetdex.ai",
+    "https://www.meet-meet.com/blog/article/case/",
+    "https://meetdex.ai/",
+    "https://monoist.itmedia.co.jp/mn/articles/2610/29/news032.html",
+    "https://www.meet-meet.com/",
+    "https://www.myl.meet-meet.com/case/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Meetdex 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://taimen-eigyo.com/words/so-dairiten/",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://dairiten-navi.jp/?p=439",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Meetdex Japan",
+   "results": [
+    "https://meetdex.ai/for-engineers.md",
+    "https://meetdex.net/",
+    "https://app.meetdex.ai/login",
+    "https://meetdex.ai/about",
+    "https://meetdex.ai/",
+    "https://www.medex-j.co.jp/",
+    "https://medxjapan.com/japanese/index.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Meetdex manufacturing customer case study",
+   "results": [
+    "https://www.mxtechies.com/case-studies/",
+    "https://www.casestudies.com/company/mendix",
+    "https://techtrendinsights.com/whitepaper/case-study-dex-customers-like-you-medium-enterprise-2/",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.mendix.com/customer-stories/",
+    "https://aws.amazon.com/partners/success/vivix-mendix/",
+    "https://www.vendry.io/case-study/automating-airbag-filter-production-for-metex"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Meetdex white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://upcloud.com/partner-program/",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Meetdex founded funding employees revenue",
+   "results": [
+    "https://fundediq.co/dex-meetdex-ai-funding/",
+    "https://www.gritt.io/company/meetdex/",
+    "https://www.crunchbase.com/organization/dex-68a2",
+    "https://www.caplight.com/company/meetdex",
+    "https://startupintros.com/orgs/dex",
+    "https://venturecapitaltracker.com/startup/dex-ai-talent-agent",
+    "https://recentfunding.com/companies/dex/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Meetdex",
+   "results": [
+    "https://note.com/pei_umapro",
+    "https://note.com/dashboard",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/chikama_teppei/n/nd5b65fb5e514",
+    "https://note.com/tabinoloop/n/nc25debf66605",
+    "https://note.com/offtrack_notes/n/nbb12712b0e4d",
+    "https://note.com/6035roxymusic/n/nd7617f9d338f",
+    "https://note.com/baton_rpg/n/n55a6ef946f44?hl=en",
+    "https://note.com/baton_rpg/n/n0444337649d3?hl=en",
+    "https://note.com/8works_notes/n/n5f4b7ffa9f89?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:x.com Meetdex",
+   "results": [
+    "https://x.com/paddy_dex/status/2054474958412161237",
+    "https://x.com/ibra_official/status/935861845705003009",
+    "https://x.com/paddy_dex",
+    "https://x.com/paddy_dex/status/2053388320701596090",
+    "https://x.com/svpino/status/2080670598297251993",
+    "https://x.com/thedevrrrrrrr/status/2100039622327947450",
+    "https://x.com/dexpadlol/status/2107867405146026002"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Meetdex",
+   "results": [
+    "https://www.linkedin.com/pulse/meetdexai-jay-bilson-k61cc",
+    "https://uk.linkedin.com/in/patricklambros",
+    "https://uk.linkedin.com/in/evelyntisiantan",
+    "https://ua.linkedin.com/in/gorevoy",
+    "https://www.linkedin.com/posts/meetdex_meet-dex-activity-7355982341242028032-O0QU",
+    "https://www.linkedin.com/posts/meetdex_dex-exists-to-connect-talent-opportunity-activity-7454922785593929728-ZvaR",
+    "https://kr.linkedin.com/in/mjkim-tech"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Meetdex",
+   "results": [
+    "https://www.facebook.com/Toby.abb0tt/videos/how-uk-and-us-salaries-compare-visit-meetdexai-to-land-your-next-job-referral-co/1317115263438479/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/staniceDex/",
+    "https://www.facebook.com/whirlowhallfarmtrust/videos/coming-to-whirlow-is-like-coming-home-meet-dex-dex-previously-attended-our-whirl/942636357568752/",
+    "https://www.facebook.com/MEETDEX.nl/posts/ben-jij-de-strakke-en-oncomfortabele-bh-bandjes-en-beugels-ook-zatervaar-nu-opti/122113791404134420/",
+    "https://www.facebook.com/MEETDEX.nl/",
+    "https://www.facebook.com/meetdex/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Meetdex note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://meetdex.ai/about",
+    "https://x.com/note_corp/status/2074734197949034502",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Meetdex X 投稿",
+   "results": [
+    "https://www.instagram.com/meetdex.ai/",
+    "https://www.instagram.com/meetdex_/",
+    "https://meetdex.ai/about",
+    "https://meetdex.ai/",
+    "https://fantia.jp/fanclubs/513511/posts",
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://mes-y.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部31頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部31頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像1件／外部31頁・検索12回）"
+ }
+}

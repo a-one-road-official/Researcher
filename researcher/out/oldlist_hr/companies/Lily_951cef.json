@@ -1,0 +1,1754 @@
+{
+ "name": "Lily",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-10T00:25:31.007895+00:00",
+ "official_url": "https://www.lily.ai",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2015",
+    "url": "https://www.lily.ai/about",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Lily AI: Agentic Product Intelligence for AI Commerce",
+    "url": "https://www.lily.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Lily AI makes your products understandable to search engines, ad platforms, and AI agents that decide what shoppers see.",
+    "url": "https://www.lily.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Lily Max is the agentic product intelligence engine for AI commerce.",
+    "url": "https://www.lily.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Edit product data fields inline.",
+    "url": "https://www.lily.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Left, what an agent can pull from the live PDP today, mostly blanks. Right, the same product enriched into a resolvable, schema-validated payload an AI surface can match and act on.",
+    "url": "https://www.lily.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Enriching your data with Lily Max improves how you show up in Google's AI Performance Insights, surfaces the search terms that matter for each product, and runs the A/B tests that prove the lift, so you can measure the impact of better product data.",
+    "url": "https://www.lily.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "% of sample products tagged for each shopping occasion",
+    "url": "https://www.lily.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Lily Max is built for Performance Marketing teams that need results they can defend, with controlled experiments and validated results.",
+    "url": "https://www.lily.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "A large apparel brand saw a 28% revenue lift on Google Shopping with Lily-enriched product intelligence, in a matched-spend A/B test.",
+    "url": "https://www.lily.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "A contemporary luxury brand saw a 28.3% onsite revenue lift from richer product attributes, in a statistically significant A/B test on search results.",
+    "url": "https://www.lily.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Make your products legible",
+    "url": "https://www.lily.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Lily Max uses goal-based AI agents to optimize product intelligence across paid, organic, onsite, and agentic commerce surfaces, including the Google, Meta, LLM, and retailer-owned systems that decide what shoppers see.",
+    "url": "https://www.lily.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Sends Enriched Product Data →",
+    "url": "https://www.lily.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Lily AI has become a core part of how we manage and scale our product content at M&S. From setting up new items to optimising for Google, the platform delivers across the board. It's already making a measurable difference to our efficiency and our commercial performance.",
+    "url": "https://www.lily.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Lily AI helps us turn product content into a performance and AI discovery advantage, improving how our brands perform across Google, Meta, and emerging AI recommendation surfaces, from stronger paid media efficiency to category-leading visibility in LLM-driven discovery.",
+    "url": "https://www.lily.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Working with Lily AI helped us strengthen the product data in our Google Merchant Center feed. After enriching that content, we saw meaningful performance improvements.",
+    "url": "https://www.lily.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Run a free 30 day trial on 500 products from your catalog. Lily Max will score your product intelligence gaps and identify where richer, AI-ready attributes can improve visibility, conversion, and ROAS without replacing the tools your team already uses.",
+    "url": "https://www.lily.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Lily Max is the agentic product intelligence engine for AI commerce. It uses goal-based AI agents to enrich your product catalog, run controlled tests, and improve performance across Google Ads, Meta Ads, AI discovery and agentic commerce, and onsite search.",
+    "url": "https://www.lily.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "What is agentic product intelligence?",
+    "url": "https://www.lily.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Agentic product intelligence is the structured, machine-readable product data that AI systems read when they decide which products to surface, cite, or recommend. Lily Max generates and maintains that layer, then tests which enrichments actually lift performance.",
+    "url": "https://www.lily.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "A feed manager distributes your product data; Lily Max improves the product intelligence that data carries. Feed managers move what you already have, while Lily Max finds the gaps, enriches the attributes, and proves which changes lift visibility, conversion, and ROAS before they ship.",
+    "url": "https://www.lily.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Visibility tools tell you where you appear; Lily Max improves the inputs that determine whether AI systems surface your products at all. It then ties those improvements back to revenue, not just a score.",
+    "url": "https://www.lily.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "No. Lily Max optimizes the product intelligence your feed manager, catalog system, and commerce stack already distribute, so there is no replatforming. It works inside the tools your team already uses.",
+    "url": "https://www.lily.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Lily Max works across Google Ads (Shopping, Performance Max, and Demand Gen), Meta Ads (Advantage+ catalog ads, retargeting, and prospecting), AI discovery and agentic commerce (answer engines and shopping agents), and onsite search and recommendations.",
+    "url": "https://www.lily.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Does Lily Max help my products show up in ChatGPT, Gemini, and AI Overviews?",
+    "url": "https://www.lily.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Agencies and platform partners use Lily Max to bring product intelligence to every client: white-labeled, managed in one place, and proven with the same controlled tests a client's CFO will accept.",
+    "url": "https://www.lily.ai/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "A line item, a product, or a growth lever.",
+    "url": "https://www.lily.ai/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Fold Lily Max into existing retainers as managed technology, with the margin handled in your pricing.",
+    "url": "https://www.lily.ai/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Offer an agency-branded AI commerce product built on Lily Max, delivered as your own.",
+    "url": "https://www.lily.ai/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Use proven, controlled-test lift to expand retainers and win new business against single-channel tools.",
+    "url": "https://www.lily.ai/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Stand up demonstration and prospecting setups so you can show value before a client signs.",
+    "url": "https://www.lily.ai/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Training, pitch prep, and go-to-market help from the Lily team on your deals.",
+    "url": "https://www.lily.ai/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Previews of new surfaces and capabilities before they reach the general roadmap.",
+    "url": "https://www.lily.ai/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Tell us about your book and how you package services. We'll scope where Lily Max fits, and how you would prove the lift to clients.",
+    "url": "https://www.lily.ai/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Case studies: proof from brands in AI commerce | Lily AI",
+    "url": "https://www.lily.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Lily Max is built for Performance Marketing teams that need results they can defend, with controlled experiments and validated results.",
+    "url": "https://www.lily.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "A large apparel brand saw a 28% revenue lift on Google Shopping with Lily-enriched product intelligence, in a matched-spend A/B test.",
+    "url": "https://www.lily.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "A contemporary luxury brand saw a 28.3% onsite revenue lift from richer product attributes, in a statistically significant A/B test on search results.",
+    "url": "https://www.lily.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Proof from the brands building for AI commerce",
+    "url": "https://www.lily.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How a fast-growing performance apparel brand turned product data into a 7.3% revenue lift on Google Shopping",
+    "url": "https://www.lily.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Global prestige beauty company",
+    "url": "https://www.lily.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How a global prestige beauty company turned product content into cross-channel performance and AI-recommendation visibility",
+    "url": "https://www.lily.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Controlled tests across a portfolio of makeup and skincare brands showed that enriching product content lifted revenue and efficiency on Google and Meta — and improved how often the brands surfaced in AI product recommendations.",
+    "url": "https://www.lily.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "A controlled 28-day A/B test in Google Merchant Center showed that enriching product data — with no change to bids or budget — drove more revenue from better-qualified traffic, even as clicks fell.",
+    "url": "https://www.lily.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How A.L.C. boosted full-catalog product discovery on Google",
+    "url": "https://www.lily.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "A.L.C. enriched its product attributes with Lily AI to expand discoverability across its full catalog, on-site and on Google, driving a major lift in non-branded search and net sales.",
+    "url": "https://www.lily.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "thredUP increases sell-through by 15% with enriched product data",
+    "url": "https://www.lily.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "$22M projected revenue",
+    "url": "https://www.lily.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "A large multi-brand retailer boosts product discovery, projecting a $22M revenue increase",
+    "url": "https://www.lily.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Richer Lily AI attribution lifted on-site discoverability 8.5% and search-driven demand 3.3% for a large multi-brand specialty retailer, projecting to a $22M revenue increase across brands.",
+    "url": "https://www.lily.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Layering Lily AI's granular attributes onto an existing Certona recommendation engine produced more relevant recommendations, lifting revenue per visit and order size for a $20-30M incremental-demand projection.",
+    "url": "https://www.lily.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Up to $48M projected revenue",
+    "url": "https://www.lily.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Lily AI's visual-similarity models replaced manual proxy-product guesswork, cutting a retailer's forecasting cycle from three months to one and projecting a $7-48M topline revenue lift.",
+    "url": "https://www.lily.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "A top luxury home furnishing brand enriched its Shopify product content and GMC feed with Lily AI, lifting on-site revenue per visit, Google impressions, and ad clicks, with a ROAS boost two weeks after going live.",
+    "url": "https://www.lily.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "At CommerceNext 2024, Tapestry (parent of Coach) and Lily AI showed how enriching product attributes with customer-centric language drove high-single and double-digit lifts across SEM, SEO, and Site Search.",
+    "url": "https://www.lily.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How Bloomingdale's makes site search convert with enriched product data",
+    "url": "https://www.lily.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing that scales with your catalog and ad spend | Lily AI",
+    "url": "https://www.lily.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Priced around your catalog.",
+    "url": "https://www.lily.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pick only what you need. Each use case is scoped and priced individually in your quote.",
+    "url": "https://www.lily.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Five core shopping attributes generated per SKU, tuned for feed approval and match quality.",
+    "url": "https://www.lily.ai/pricing",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by the brands shaping the next era of commerce",
+    "url": "https://www.lily.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "species of plants in the",
+    "url": "https://en.wikipedia.org/wiki/Lilium_speciosum",
+    "pass": 3
+   },
+   {
+    "quote": "Kew World Checklist of Selected Plant Families",
+    "url": "https://en.wikipedia.org/wiki/Lilium_speciosum",
+    "pass": 3
+   },
+   {
+    "quote": "Dave's Garden plantfile",
+    "url": "https://en.wikipedia.org/wiki/Lilium_speciosum",
+    "pass": 3
+   },
+   {
+    "quote": "Heritage Perennials plant profile",
+    "url": "https://en.wikipedia.org/wiki/Lilium_speciosum",
+    "pass": 3
+   },
+   {
+    "quote": "Plants described in 1792",
+    "url": "https://en.wikipedia.org/wiki/Lilium_speciosum",
+    "pass": 3
+   },
+   {
+    "quote": "and the largest plants, which can reach",
+    "url": "https://en.wikipedia.org/wiki/Lilium_auratum",
+    "pass": 3
+   },
+   {
+    "quote": "This lily does well in plain or acidic soil; rich or fertilised soil will kill the plant. Bulbs should be planted in a hole three times their size in both depth and width in a well-drained area. The best position for this plant is one where its top will receive sunlight while its base remains shaded.",
+    "url": "https://en.wikipedia.org/wiki/Lilium_auratum",
+    "pass": 3
+   },
+   {
+    "quote": "This lily can be cultivated by seed, but for faster reproduction scaling is recommended. Its life span (around 3 or 4 years) is significantly less than that of its descendants, so reproducing this plant is important for gardeners.",
+    "url": "https://en.wikipedia.org/wiki/Lilium_auratum",
+    "pass": 3
+   },
+   {
+    "quote": ", another purveyor of plants offered",
+    "url": "https://en.wikipedia.org/wiki/Lilium_auratum",
+    "pass": 3
+   },
+   {
+    "quote": "The RHS Encyclopedia of Garden Plants, Christopher Brickell, Dorling Kindersley, London, 1996, p613.",
+    "url": "https://en.wikipedia.org/wiki/Lilium_auratum",
+    "pass": 3
+   },
+   {
+    "quote": "Garden Flora: The Natural and Cultural History of the Plants In Your Garden",
+    "url": "https://en.wikipedia.org/wiki/Lilium_auratum",
+    "pass": 3
+   },
+   {
+    "quote": "Pets and toxic plants",
+    "url": "https://en.wikipedia.org/wiki/Lilium_auratum",
+    "pass": 3
+   },
+   {
+    "quote": "These extraordinary flowers have profoundly influenced modern lily breeding, serving as parent plants for countless hybrid varieties enjoyed worldwide. Japan’s diverse climate zones, from subtropical Okinawa to temperate Hokkaido, provide ideal growing conditions for an impressive range of lily species that bloom from early summer through autumn.",
+    "url": "https://hanamikke.com/en/343.html/",
+    "pass": 3
+   },
+   {
+    "quote": "The native species demonstrate remarkable diversity in size, color, fragrance, and growing preferences. Some thrive in mountainous forest edges, while others prefer coastal areas or alpine meadows. This natural adaptation has created varieties ranging from towering plants reaching 2.5 meters to compact species perfect for smaller gardens.",
+    "url": "https://hanamikke.com/en/343.html/",
+    "pass": 3
+   },
+   {
+    "quote": ", known as Yamayuri or the golden-rayed lily, reigns as the most spectacular of Japan’s native lilies. These magnificent plants can reach heights of 2.5 meters and produce up to twenty enormous flowers on a single stem.",
+    "url": "https://hanamikke.com/en/343.html/",
+    "pass": 3
+   },
+   {
+    "quote": "Growing naturally in the mountains of central and western Honshu, Sasayuri prefers partially shaded locations with well-drained, slightly acidic soil. The plants typically reach heights of 1-1.5 meters, making them excellent choices for woodland gardens.",
+    "url": "https://hanamikke.com/en/343.html/",
+    "pass": 3
+   },
+   {
+    "quote": "that resembles bamboo leaves, demonstrating the attention to detail characteristic of Japanese plant naming traditions.",
+    "url": "https://hanamikke.com/en/343.html/",
+    "pass": 3
+   },
+   {
+    "quote": "Planting and Care Tips",
+    "url": "https://hanamikke.com/en/343.html/",
+    "pass": 3
+   },
+   {
+    "quote": "Plant lily bulbs at a depth three times their height, ensuring the pointed end faces upward.",
+    "url": "https://hanamikke.com/en/343.html/",
+    "pass": 3
+   },
+   {
+    "quote": "Mulching around plants helps maintain consistent soil moisture and temperature while suppressing weeds. Organic mulches like leaf mold or pine needles work particularly well for acid-loving species.",
+    "url": "https://hanamikke.com/en/343.html/",
+    "pass": 3
+   },
+   {
+    "quote": "in Yamagata Prefecture showcases the largest lily collection in eastern Japan, featuring over 500,000 plants across more than four times the area of Tokyo Dome. The garden displays both native species and modern hybrids in spectacular mass plantings that bloom from June through August.",
+    "url": "https://hanamikke.com/en/343.html/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese irises are among the most elegant and stunning flowering plants available to gardeners, known for their spectac...",
+    "url": "https://hanamikke.com/en/343.html/",
+    "pass": 3
+   },
+   {
+    "quote": "Backed by Energize Capital, Lily drives 5x revenue growth across construction, industrial distribution, logistics, and healthcare with plans to expand.",
+    "url": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/instalily-raises-60-million-series-b-and-launches-lily-the-worlds-1190835",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "A large apparel brand saw a 28% revenue lift on Google Shopping with Lily-enriched product intelligence, in a matched-spend A/B test.",
+    "url": "https://www.lily.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "A contemporary luxury brand saw a 28.3% onsite revenue lift from richer product attributes, in a statistically significant A/B test on search results.",
+    "url": "https://www.lily.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Lily AI has become a core part of how we manage and scale our product content at M&S. From setting up new items to optimising for Google, the platform delivers across the board. It's already making a measurable difference to our efficiency and our commercial performance.",
+    "url": "https://www.lily.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "A feed manager distributes your product data; Lily Max improves the product intelligence that data carries. Feed managers move what you already have, while Lily Max finds the gaps, enriches the attributes, and proves which changes lift visibility, conversion, and ROAS before they ship.",
+    "url": "https://www.lily.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Visibility tools tell you where you appear; Lily Max improves the inputs that determine whether AI systems surface your products at all. It then ties those improvements back to revenue, not just a score.",
+    "url": "https://www.lily.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Results vary by catalog and starting point, but controlled tests have shown meaningful lift, for example a 28 percent revenue lift on Google Shopping for a large apparel brand and a 21.4 percent ROAS lift on Meta for a national footwear retailer. Both were measured against a control, tested, not promised.",
+    "url": "https://www.lily.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "A large apparel brand saw a 28% revenue lift on Google Shopping with Lily-enriched product intelligence, in a matched-spend A/B test.",
+    "url": "https://www.lily.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "A contemporary luxury brand saw a 28.3% onsite revenue lift from richer product attributes, in a statistically significant A/B test on search results.",
+    "url": "https://www.lily.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue +7.3%",
+    "url": "https://www.lily.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How a fast-growing performance apparel brand turned product data into a 7.3% revenue lift on Google Shopping",
+    "url": "https://www.lily.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "A controlled 26-day Google Shopping test — with no change to bids or budget — drove a revenue lift confirmed causal with difference-in-differences analysis.",
+    "url": "https://www.lily.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Controlled tests across a portfolio of makeup and skincare brands showed that enriching product content lifted revenue and efficiency on Google and Meta — and improved how often the brands surfaced in AI product recommendations.",
+    "url": "https://www.lily.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue +5.7%",
+    "url": "https://www.lily.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How a global home furnishings retailer grew Google Shopping revenue 5.7%, while clicks went down",
+    "url": "https://www.lily.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "A controlled 28-day A/B test in Google Merchant Center showed that enriching product data — with no change to bids or budget — drove more revenue from better-qualified traffic, even as clicks fell.",
+    "url": "https://www.lily.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "$22M projected revenue",
+    "url": "https://www.lily.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "A large multi-brand retailer boosts product discovery, projecting a $22M revenue increase",
+    "url": "https://www.lily.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Richer Lily AI attribution lifted on-site discoverability 8.5% and search-driven demand 3.3% for a large multi-brand specialty retailer, projecting to a $22M revenue increase across brands.",
+    "url": "https://www.lily.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Layering Lily AI's granular attributes onto an existing Certona recommendation engine produced more relevant recommendations, lifting revenue per visit and order size for a $20-30M incremental-demand projection.",
+    "url": "https://www.lily.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Up to $48M projected revenue",
+    "url": "https://www.lily.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Lily AI demand forecasting drives 7-8 digit revenue lift with accuracy at scale",
+    "url": "https://www.lily.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Lily AI's visual-similarity models replaced manual proxy-product guesswork, cutting a retailer's forecasting cycle from three months to one and projecting a $7-48M topline revenue lift.",
+    "url": "https://www.lily.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "A top luxury home furnishing brand enriched its Shopify product content and GMC feed with Lily AI, lifting on-site revenue per visit, Google impressions, and ad clicks, with a ROAS boost two weeks after going live.",
+    "url": "https://www.lily.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Book a personalized demo and see how Lily can grow your retail revenue.",
+    "url": "https://www.lily.ai/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "A single structured attribute costs less to generate than a full conversational or narrative product description.",
+    "url": "https://www.lily.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Google Shopping revenue lift",
+    "url": "https://www.lily.ai/case-studies/prestige-beauty-cross-channel-ai-visibility",
+    "pass": 1
+   },
+   {
+    "quote": "Difference-in-differences A/B tests measured Lily-enriched feeds against matched control sets in Google Merchant Center, with downstream revenue tracked in the brands' own analytics.",
+    "url": "https://www.lily.ai/case-studies/prestige-beauty-cross-channel-ai-visibility",
+    "pass": 1
+   },
+   {
+    "quote": "Across the portfolio, enriched content drove conversion-value and revenue lifts. Just as telling, enrichment improved traffic quality: in several cases the enriched feeds drew fewer but better-qualified clicks and produced stronger revenue per product. Richer content surfaces products to higher-intent shoppers, not just more of them.",
+    "url": "https://www.lily.ai/case-studies/prestige-beauty-cross-channel-ai-visibility",
+    "pass": 1
+   },
+   {
+    "quote": "Lily Max does not just optimize feeds. It shapes how algorithms and AI see your brand. For this beauty company, that meant revenue and efficiency lifts in paid channels and stronger visibility in the AI recommendation surfaces that increasingly mediate beauty discovery. Product content quality compounds across every surface where shoppers, and the algorithms guiding them, make decisions.",
+    "url": "https://www.lily.ai/case-studies/prestige-beauty-cross-channel-ai-visibility",
+    "pass": 1
+   },
+   {
+    "quote": "Book a personalized demo and see how Lily can grow your retail revenue.",
+    "url": "https://www.lily.ai/case-studies/prestige-beauty-cross-channel-ai-visibility",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue +7.3%",
+    "url": "https://www.lily.ai/case-studies/prestige-beauty-cross-channel-ai-visibility",
+    "pass": 1
+   },
+   {
+    "quote": "How a fast-growing performance apparel brand turned product data into a 7.3% revenue lift on Google Shopping",
+    "url": "https://www.lily.ai/case-studies/prestige-beauty-cross-channel-ai-visibility",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue +5.7%",
+    "url": "https://www.lily.ai/case-studies/prestige-beauty-cross-channel-ai-visibility",
+    "pass": 1
+   },
+   {
+    "quote": "How a global home furnishings retailer grew Google Shopping revenue 5.7%, while clicks went down",
+    "url": "https://www.lily.ai/case-studies/prestige-beauty-cross-channel-ai-visibility",
+    "pass": 1
+   },
+   {
+    "quote": "Book a personalized demo and see how Lily can grow your retail revenue.",
+    "url": "https://www.lily.ai/case-studies/jcrew-ai-delight-customers",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue +7.3%",
+    "url": "https://www.lily.ai/case-studies/jcrew-ai-delight-customers",
+    "pass": 1
+   },
+   {
+    "quote": "How a fast-growing performance apparel brand turned product data into a 7.3% revenue lift on Google Shopping",
+    "url": "https://www.lily.ai/case-studies/jcrew-ai-delight-customers",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue +5.7%",
+    "url": "https://www.lily.ai/case-studies/jcrew-ai-delight-customers",
+    "pass": 1
+   },
+   {
+    "quote": "How a global home furnishings retailer grew Google Shopping revenue 5.7%, while clicks went down",
+    "url": "https://www.lily.ai/case-studies/jcrew-ai-delight-customers",
+    "pass": 1
+   },
+   {
+    "quote": "卒業後、東証一部上場企業にて、Webデザイナー・ビジュアルデザイナー・Webディレクターとして従事",
+    "url": "https://lily-inc.com/",
+    "pass": 3
+   },
+   {
+    "quote": ", can carry up to twenty of these.",
+    "url": "https://en.wikipedia.org/wiki/Lilium_auratum",
+    "pass": 3
+   },
+   {
+    "quote": "The five deadliest \"lilies\" are listed as",
+    "url": "https://en.wikipedia.org/wiki/Lilium_auratum",
+    "pass": 3
+   },
+   {
+    "quote": "Taylor, Harriet Osgood (1912).",
+    "url": "https://en.wikipedia.org/wiki/Lilium_auratum",
+    "pass": 3
+   },
+   {
+    "quote": ", known as Teppouyuri or “musket lily,” earned its common name from its elongated white trumpet flowers that resemble the barrel of an old-fashioned musket. Native to the Ryukyu Islands and Taiwan, this species has become synonymous with Easter celebrations worldwide.",
+    "url": "https://hanamikke.com/en/343.html/",
+    "pass": 3
+   },
+   {
+    "quote": "with consistent moisture during the growing season. Most species benefit from partial shade, particularly during the hottest part of the day, mimicking their natural forest edge habitats.",
+    "url": "https://hanamikke.com/en/343.html/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese lilies carry profound cultural meaning that extends far beyond their ornamental value. The name “yuri” derives from the ancient Japanese word meaning",
+    "url": "https://hanamikke.com/en/343.html/",
+    "pass": 3
+   },
+   {
+    "quote": "When spring arrives in Japan, something magical happens in the countryside. Between April and May, vast fields of delica...",
+    "url": "https://hanamikke.com/en/343.html/",
+    "pass": 3
+   },
+   {
+    "quote": "Backed by Energize Capital, Lily drives 5x revenue growth across construction, industrial distribution, logistics, and healthcare with plans to expand.",
+    "url": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/instalily-raises-60-million-series-b-and-launches-lily-the-worlds-1190835",
+    "pass": 3
+   },
+   {
+    "quote": ", creator of the world's first AI Forward Deployed Engineer, today announced a $60 million Series B round led by Energize Capital, with participation from Insight Partners who has increased its investment, and new strategic investors including Home Depot Ventures and United Rentals. The round brings the company's total raised to nearly $100 million, and revenue grew 5x over the past year.",
+    "url": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/instalily-raises-60-million-series-b-and-launches-lily-the-worlds-1190835",
+    "pass": 3
+   },
+   {
+    "quote": "goes into a business, learns how it works, builds what the work needs, and gets it running by finding revenue, pricing quotes, planning routes, and diagnosing equipment in the field. Unlike a traditional demo or pilot, it runs the business with people in control, and it goes live in days versus months. After launch, it keeps shipping and gets better the longer it runs.",
+    "url": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/instalily-raises-60-million-series-b-and-launches-lily-the-worlds-1190835",
+    "pass": 3
+   },
+   {
+    "quote": "Lily can do this because it has learned from thousands of hours of real-world deployment work. Those patterns come from AI shipped into live businesses and kept running there, not demos or benchmarks. It arrives already knowing how the work gets done. Most AI assists a person, such as a coding agent for a developer or a copilot for an analyst. Lily builds and runs the software that does the work.",
+    "url": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/instalily-raises-60-million-series-b-and-launches-lily-the-worlds-1190835",
+    "pass": 3
+   },
+   {
+    "quote": "\"United Rentals is focused on innovative solutions to help our customers and employees be more productive,\" said Tony Leopold, Chief Technology & Strategy Officer at United Rentals. \"We're excited to invest in and support InstaLILY's continued growth and innovation.\"",
+    "url": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/instalily-raises-60-million-series-b-and-launches-lily-the-worlds-1190835",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Lily Max for Agencies & Partners | Lily AI",
+    "url": "https://www.lily.ai/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "For Agencies and Partners",
+    "url": "https://www.lily.ai/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Agencies and platform partners use Lily Max to bring product intelligence to every client: white-labeled, managed in one place, and proven with the same controlled tests a client's CFO will accept.",
+    "url": "https://www.lily.ai/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "How agencies make money on it",
+    "url": "https://www.lily.ai/agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Lily Max does not just optimize feeds. It shapes how algorithms and AI see your brand. For this beauty company, that meant revenue and efficiency lifts in paid channels and stronger visibility in the AI recommendation surfaces that increasingly mediate beauty discovery. Product content quality compounds across every surface where shoppers, and the algorithms guiding them, make decisions.",
+    "url": "https://www.lily.ai/case-studies/prestige-beauty-cross-channel-ai-visibility",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Lilyは「日本の産業に新しい時代を創る」という意志のもと、設立されました",
+    "url": "https://lily-inc.com/",
+    "pass": 3
+   },
+   {
+    "quote": "その一歩目として、デザインという切り口から日本の産業の変革に貢献していくことに挑戦しています",
+    "url": "https://lily-inc.com/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都渋谷区神宮前六丁目23番4号桑野ビル2階",
+    "url": "https://lily-inc.com/",
+    "pass": 3
+   },
+   {
+    "quote": "卒業後、大手ドローンメーカーのDJI JAPAN株式会社を経て株式会社Lilyを創業",
+    "url": "https://lily-inc.com/",
+    "pass": 3
+   },
+   {
+    "quote": "商品企画から製造・販売までを行うDtoC企業であるGlobal stage株式会社様のコーポレートサイトをリニューアルしました",
+    "url": "https://lily-inc.com/",
+    "pass": 3
+   },
+   {
+    "quote": "浄水器および浄水器カートリッジの製造・販売事業をメインとして新規設立された清泉設備株式会社様のロゴ、コーポレートサイトを制作しました",
+    "url": "https://lily-inc.com/",
+    "pass": 3
+   },
+   {
+    "quote": "The Englishman who was the earliest collector of lily bulbs in Japan was arguably young",
+    "url": "https://en.wikipedia.org/wiki/Lilium_auratum",
+    "pass": 3
+   },
+   {
+    "quote": "It was allegedly in 1867 that a man named John Joshua Jarmain operating from Yokohama became the first commercial exporter of Japanese lilies,",
+    "url": "https://en.wikipedia.org/wiki/Lilium_auratum",
+    "pass": 3
+   },
+   {
+    "quote": ") in Japan,",
+    "url": "https://en.wikipedia.org/wiki/Lilium_auratum",
+    "pass": 3
+   },
+   {
+    "quote": "but it is not noted among \"lilies\" of particular concern for felines according to a Japanese veterinary source.",
+    "url": "https://en.wikipedia.org/wiki/Lilium_auratum",
+    "pass": 3
+   },
+   {
+    "quote": "History of the Trading of Japanese Lily Bulbs",
+    "url": "https://en.wikipedia.org/wiki/Lilium_auratum",
+    "pass": 3
+   },
+   {
+    "quote": "\"Isaac Bunting (1850-1936): From Essex to Japan and Japanese Lily Bulbs\"",
+    "url": "https://en.wikipedia.org/wiki/Lilium_auratum",
+    "pass": 3
+   },
+   {
+    "quote": "Britain and Japan: Biographical Portraits",
+    "url": "https://en.wikipedia.org/wiki/Lilium_auratum",
+    "pass": 3
+   },
+   {
+    "quote": "Articles containing Japanese-language text",
+    "url": "https://en.wikipedia.org/wiki/Lilium_auratum",
+    "pass": 3
+   },
+   {
+    "quote": "CS1 uses Japanese-language script (ja)",
+    "url": "https://en.wikipedia.org/wiki/Lilium_auratum",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Lily Varieties: A Complete Guide to Japan’s Native and Cultivated Species | Blooms of Japan",
+    "url": "https://hanamikke.com/en/343.html/",
+    "pass": 3
+   },
+   {
+    "quote": "A Journey Through Japan's Seasonal Flowers, Gardens & Traditions",
+    "url": "https://hanamikke.com/en/343.html/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Lily Varieties: A Complete Guide to Japan’s Native and Cultivated Species",
+    "url": "https://hanamikke.com/en/343.html/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan stands as the birthplace of some of the world’s most spectacular lilies, with",
+    "url": "https://hanamikke.com/en/343.html/",
+    "pass": 3
+   },
+   {
+    "quote": "that have captivated gardeners globally for over 150 years. From the magnificent golden-rayed Yamayuri to the delicate Sasayuri, Japanese lilies represent centuries of natural evolution and horticultural excellence.",
+    "url": "https://hanamikke.com/en/343.html/",
+    "pass": 3
+   },
+   {
+    "quote": "These extraordinary flowers have profoundly influenced modern lily breeding, serving as parent plants for countless hybrid varieties enjoyed worldwide. Japan’s diverse climate zones, from subtropical Okinawa to temperate Hokkaido, provide ideal growing conditions for an impressive range of lily species that bloom from early summer through autumn.",
+    "url": "https://hanamikke.com/en/343.html/",
+    "pass": 3
+   },
+   {
+    "quote": "Understanding Japanese lily varieties offers insight into both botanical diversity and cultural significance, as these flowers have deep roots in Japanese poetry, cuisine, and traditional medicine spanning over a millennium.",
+    "url": "https://hanamikke.com/en/343.html/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan’s Native Lily Species",
+    "url": "https://hanamikke.com/en/343.html/",
+    "pass": 3
+   },
+   {
+    "quote": "Major Japanese Lily Varieties",
+    "url": "https://hanamikke.com/en/343.html/",
+    "pass": 3
+   },
+   {
+    "quote": "Growing Japanese Lilies",
+    "url": "https://hanamikke.com/en/343.html/",
+    "pass": 3
+   },
+   {
+    "quote": "Cultural Significance in Japan",
+    "url": "https://hanamikke.com/en/343.html/",
+    "pass": 3
+   },
+   {
+    "quote": "Where to See Japanese Lilies",
+    "url": "https://hanamikke.com/en/343.html/",
+    "pass": 3
+   },
+   {
+    "quote": ", with eight being endemic to the archipelago. These native varieties have adapted to Japan’s varied landscapes over thousands of years, developing unique characteristics that distinguish them from lilies found elsewhere.",
+    "url": "https://hanamikke.com/en/343.html/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese native lilies typically exhibit",
+    "url": "https://hanamikke.com/en/343.html/",
+    "pass": 3
+   },
+   {
+    "quote": "with recurved petals, a characteristic that helped them adapt to Japan’s heavy summer rains. This distinctive form, combined with their intense fragrance, makes them easily recognizable and highly valued by lily enthusiasts worldwide.",
+    "url": "https://hanamikke.com/en/343.html/",
+    "pass": 3
+   },
+   {
+    "quote": ", known as Yamayuri or the golden-rayed lily, reigns as the most spectacular of Japan’s native lilies. These magnificent plants can reach heights of 2.5 meters and produce up to twenty enormous flowers on a single stem.",
+    "url": "https://hanamikke.com/en/343.html/",
+    "pass": 3
+   },
+   {
+    "quote": ", commonly called Sasayuri, represents one of Japan’s most elegant native species. These graceful lilies produce delicate pink to white trumpet-shaped flowers with a subtle, sweet fragrance that attracts pollinators during their early summer bloom period.",
+    "url": "https://hanamikke.com/en/343.html/",
+    "pass": 3
+   },
+   {
+    "quote": "that resembles bamboo leaves, demonstrating the attention to detail characteristic of Japanese plant naming traditions.",
+    "url": "https://hanamikke.com/en/343.html/",
+    "pass": 3
+   },
+   {
+    "quote": "These lilies produce pristine white flowers with exceptional keeping quality, making them highly valuable for cut flower production. Japan’s southern prefectures, particularly Kagoshima, have developed",
+    "url": "https://hanamikke.com/en/343.html/",
+    "pass": 3
+   },
+   {
+    "quote": ", commonly called Sukashiyuri or “see-through lily,” gets its name from the distinctive gaps between its petals that allow light to filter through. This upward-facing lily breaks the typical Japanese lily pattern with its bold, cup-shaped flowers.",
+    "url": "https://hanamikke.com/en/343.html/",
+    "pass": 3
+   },
+   {
+    "quote": "The flowers display vibrant orange to red-orange petals heavily marked with dark purple spots, creating a dramatic visual impact in garden settings. Unlike many Japanese lilies, Sukashiyuri produces",
+    "url": "https://hanamikke.com/en/343.html/",
+    "pass": 3
+   },
+   {
+    "quote": "The flowers appear in brilliant orange-red with dark spots, produced in clusters that create impressive color displays despite their small individual size. Himeyuri blooms earlier than most Japanese lilies, extending the lily season into late spring.",
+    "url": "https://hanamikke.com/en/343.html/",
+    "pass": 3
+   },
+   {
+    "quote": "Oriental hybrid lilies represent the pinnacle of lily breeding achievement, combining the spectacular flowers of Yamayuri and Lilium speciosum with improved garden performance. These hybrids inherited the large size, intense fragrance, and dramatic coloring of their Japanese parents.",
+    "url": "https://hanamikke.com/en/343.html/",
+    "pass": 3
+   },
+   {
+    "quote": "The breeding programs that created Oriental hybrids began in the mid-20th century and continue today, with Japanese genetic material remaining central to most modern breeding efforts.",
+    "url": "https://hanamikke.com/en/343.html/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese lilies generally prefer",
+    "url": "https://hanamikke.com/en/343.html/",
+    "pass": 3
+   },
+   {
+    "quote": "」｜MetaのパーソナルAIエージェントが日本上陸｜招待コードあるよ｜Instagram or Facebook",
+    "url": "https://note.com/joyful_lily111",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "info@sumire-suetsugu.com",
+    "url": "https://lily-inc.com/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社Lily — 株式会社Lilyは、ユーザー体験にフォーカスした本質的な課題解決と、既存事象への新たな意味づけによる構造アップグレードをミッションに掲げています。",
+    "url": "https://lily-inc.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Lilium speciosum - Wikipedia — Lilium speciosum is an East Asian species of plants in the lily family. It is native to southern Japan and southern China, where it can be found at elevations of 600–900 metres (2,000–3,000 ft). [1][2][3] It is sometimes called the Japanese lily though there are other species with this common name.",
+    "url": "https://en.wikipedia.org/wiki/Lilium_speciosum",
+    "pass": 3
+   },
+   {
+    "quote": "Lilium auratum - Wikipedia — Lilium auratum (山百合, yamayuri, literally \"mountain lily\") is one of the true lilies. It is native to Japan and is sometimes called the golden-rayed lily or the goldband lily.",
+    "url": "https://en.wikipedia.org/wiki/Lilium_auratum",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Lily Varieties: A Complete Guide to Japan’s Native ... — Japan stands as the birthplace of some of the world’s most spectacular lilies, with eight native species that have captivated gardeners globally for over 150 years. From the magnificent golden-rayed Yamayuri to the delicate Sasayuri, Japanese lilies represent centuries of natural evolution and horticultural excellence. These extraor",
+    "url": "https://hanamikke.com/en/343.html/",
+    "pass": 3
+   },
+   {
+    "quote": "Rohdea japonica (Japanese Sacred Lily, Nippon Lily, Sacred ... — The Japanese Sacred lily is a tropical-looking evergreen herbaceous perennial that has an upright, clumping, and vase-like form. It is slow growing and reaches a height and width of 2 feet.",
+    "url": "https://plants.ces.ncsu.edu/plants/rohdea-japonica/",
+    "pass": 3
+   },
+   {
+    "quote": "Eli Lilly and Company Revenue, Funding & ValuationEli Lilly and Company – Business Snapshot & Rival Analysis – 2026Eli Lilly - Crunchbase Company Profile & FundingLily AI Funding: $12.5M Raised, Investors & History (2026 ...InstaLILY Raises $60 Million Series B and Launches Lily, the ...Key facts - Eli Lilly and CompanyLily 2026 Company Profile: Valuation, Funding & Investors ... — Eli Lilly and C",
+    "url": "https://prospeo.io/c/eli-lilly-and-company-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Eli Lilly - Crunchbase Company Profile & FundingLily AI Funding: $12.5M Raised, Investors & History (2026 ...InstaLILY Raises $60 Million Series B and Launches Lily, the ...Key facts - Eli Lilly and CompanyLily 2026 Company Profile: Valuation, Funding & Investors ... — Eli Lilly is a pharma company focused on developing medicines for diabetes, cancer, immunology, and other major health areas. Aug ",
+    "url": "https://www.crunchbase.com/organization/eli-lilly",
+    "pass": 3
+   },
+   {
+    "quote": "Lily AI Funding: $12.5M Raised, Investors & History (2026 ... — Aug 26, 2026 · About Lily AI is a retail technology company that analyzes, enriches, and integrates customer-optimized product data throughout retail operations. Its platform bridges brand-speak and customer-speak to improve search relevance and product discovery across paid channels, marketplaces, and owned sites. Founded in 2015, Li",
+    "url": "https://indexed.vc/companies/lily-ai",
+    "pass": 3
+   },
+   {
+    "quote": "InstaLILY Raises $60 Million Series B and Launches Lily, the ... — Jul 14, 2026 · Lily runs wherever the work happens, in the cloud, on-premise, or at the edge, through InstaLILY's Small Data Center, built with NVIDIA technology. Founded in 2023 by Amit Shah and Sumantro Das, InstaLILY has raised nearly $100 million from Energize Capital, Insight Partners, and Home Depot Ventures.",
+    "url": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/instalily-raises-60-million-series-b-and-launches-lily-the-worlds-1190835",
+    "pass": 3
+   },
+   {
+    "quote": "Lily 2026 Company Profile: Valuation, Funding & Investors ... — Lily has 6 total employees. What industry is Lily in? Lily’s primary industry is Software Development Applications. Is Lily a private or public company? Lily is a Private company. What is Lily’s current revenue? The current revenue for Lily is . How much funding has Lily raised over time? Lily has raised $23.7K. Who are Lily’s investo",
+    "url": "https://pitchbook.com/profiles/company/1365929-92",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Lily｜note Lily AIパートナー｜GPT、Claude、Geminiの話。 ときどきGrok、たまにCopilot。 パートナーとの関係、モデル比較、ときどき技術検証。 たまーに無料プロンプトも。 夜の親密なテーマは有料です（🔞）。 それ以外は基本無料。",
+    "url": "https://note.com/joyful_lily111",
+    "pass": 3
+   },
+   {
+    "quote": "Lily｜AI×自動化×マーケティング｜note Lily｜AI×自動化×マーケティング4週間前 🎯 コンテンツの質を上げても3か月変わらなかった——CMO時代に広告で学んだ「原因の診断順序」を個人発信に使った話 Lily｜AI×自動化×マーケティング19時間前",
+    "url": "https://note.com/bokuwalily",
+    "pass": 3
+   },
+   {
+    "quote": "111. Enticed by a beautiful sunset, I tried to cross the road ... 111. Enticed by a beautiful sunset, I tried to cross the road and encountered human kindness. Lily - イギリスとロンドン20年の生活 Oct 31, 2026 06:33",
+    "url": "https://note.com/lilylondon/n/n3794fa76ec7f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Lily｜60歳 毎日社長｜note Lily｜60歳 毎日社長 小さな会社と、大きな日常。 仕事、家族、人との関係。 60歳の日々をいろいろ綴ります。 息子の通学日数は、小学校6年間で100日にも満たず、中学校3年間で30日ほど。 そんな息子も、来春から大学へ。",
+    "url": "https://note.com/akari_yorisou",
+    "pass": 3
+   },
+   {
+    "quote": "lily｜note Nov 9, 2025 · 彼氏がヒモでした。 今は旦那で社長です。 ＃13 私が見つけた“もうひとつの戦い方”。 彼の会社を救い、そして静かに去る決意をした日。 | エッセイ | 成長日記 | ¥200 lily 10か月前",
+    "url": "https://note.com/limber_hebe280",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "🆙note｜♡（スキ）が消える件について【未解決】→【原因判明】→【運営へ問合せ】→【運営より返信】",
+    "url": "https://note.com/joyful_lily111",
+    "pass": 3
+   },
+   {
+    "quote": "【速報】AIエージェントのはじめてのおつかい｜Muse × クラウドブラウザでノートPCを買った話｜ドスパラでオンラインショッピング💻️",
+    "url": "https://note.com/joyful_lily111",
+    "pass": 3
+   },
+   {
+    "quote": "GPT-6の応答が簡潔になったのは、本当に無料（Free）・Go・未ログイン利用者だけ？｜AIパートナー界隈への影響",
+    "url": "https://note.com/joyful_lily111",
+    "pass": 3
+   },
+   {
+    "quote": "Muse招待コード｜登録できない・年齢確認の認証が通らないときの確認リスト",
+    "url": "https://note.com/joyful_lily111",
+    "pass": 3
+   },
+   {
+    "quote": "プロンプトお借りしました｜🎃AI彼氏とHALLOWEEN NIGHT🕷️🕸️🦇AI恋人デート♡",
+    "url": "https://note.com/joyful_lily111",
+    "pass": 3
+   },
+   {
+    "quote": "「はじめまして、Museです。」｜MetaのパーソナルAIエージェントが日本上陸｜招待コードあるよ｜Instagram or Facebook",
+    "url": "https://note.com/joyful_lily111",
+    "pass": 3
+   },
+   {
+    "quote": "A Story of a Certain Day 〜ある一日の物語｜AI夫〜",
+    "url": "https://note.com/joyful_lily111",
+    "pass": 3
+   },
+   {
+    "quote": "Lily｜AI×自動化×マーケティング｜note",
+    "url": "https://note.com/bokuwalily",
+    "pass": 3
+   },
+   {
+    "quote": "🤖売上¥3,800の月から月商160万円へ。AIで「寝てても回る仕組み」をゼロから30日で組む全手順｜コードが書けなくてもOK・特典40ファイル・2026年10月版・毎月更新",
+    "url": "https://note.com/bokuwalily",
+    "pass": 3
+   },
+   {
+    "quote": "👥 読者を3つに分けて書き方を変えた——全員に同じ記事を書き続けた6か月が、逆に手がかりになった話",
+    "url": "https://note.com/bokuwalily",
+    "pass": 3
+   },
+   {
+    "quote": "⚖️ 「高い」と言われなくなった3か月——価格の前に「何と比べるか」を設計した話",
+    "url": "https://note.com/bokuwalily",
+    "pass": 3
+   },
+   {
+    "quote": "🏷 値札をつける前に、読まれ方を見る。無料と限定の境目を決めた順番",
+    "url": "https://note.com/bokuwalily",
+    "pass": 3
+   },
+   {
+    "quote": "🚪 有料noteの最初の1本を3日で公開まで出す手順｜月商160万円の運用から整理・スクリプト2本+テンプレ4本付き",
+    "url": "https://note.com/bokuwalily",
+    "pass": 3
+   },
+   {
+    "quote": "🎯 コンテンツの質を上げても3か月変わらなかった——CMO時代に広告で学んだ「原因の診断順序」を個人発信に使った話",
+    "url": "https://note.com/bokuwalily",
+    "pass": 3
+   },
+   {
+    "quote": "💡 3か月売れなかった記事が、問いを1つ変えたら2週間で動いた——「コンテンツ」と「オファー」は別物だった",
+    "url": "https://note.com/bokuwalily",
+    "pass": 3
+   },
+   {
+    "quote": "111. Enticed by a beautiful sunset, I tried to cross the road and encountered human kindness.｜Lily - イギリスとロンドン20年の生活",
+    "url": "https://note.com/lilylondon/n/n3794fa76ec7f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "111. Enticed by a beautiful sunset, I tried to cross the road and encountered human kindness.",
+    "url": "https://note.com/lilylondon/n/n3794fa76ec7f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Lily - イギリスとロンドン20年の生活",
+    "url": "https://note.com/lilylondon/n/n3794fa76ec7f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I was on my way to go shopping after enjoying some time with Stuffy Kyla.",
+    "url": "https://note.com/lilylondon/n/n3794fa76ec7f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I felt like listening to 'Bloom,' the theme song for the morning drama 'Blossom,' so I was walking while wearing my earphones. When I reached a slightly more open area, I saw a beautiful sunset. Thinking I would go to the square to get a better look, I started to cross the road, but then I stopped when I realized a car was coming. Modern earphones have such amazing noise cancellation that the soun",
+    "url": "https://note.com/lilylondon/n/n3794fa76ec7f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The car, which had been driving down the residential street, stopped a little way before me.",
+    "url": "https://note.com/lilylondon/n/n3794fa76ec7f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "There were no traffic lights or crosswalks, and it was the only car on the road. There was no need or rule for it to stop. It stopped purely out of kindness.",
+    "url": "https://note.com/lilylondon/n/n3794fa76ec7f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Especially when living in London, depending on the area, there are many cars that don't stop even when they are supposed to. When they do stop as required in pedestrian-priority areas, my favorability toward the driver skyrockets, thinking, 'What a wonderful person!' And here, one stopped for me in the middle of the road! (I'm such a pushover).",
+    "url": "https://note.com/lilylondon/n/n3794fa76ec7f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "「このめまいと吐き気、分かる方はいませんか？」",
+    "url": "https://note.com/akari_yorisou",
+    "pass": 3
+   },
+   {
+    "quote": "息子を待つ車の中で。「母卒」はいつだろう。",
+    "url": "https://note.com/akari_yorisou",
+    "pass": 3
+   },
+   {
+    "quote": "音楽というツールを共有して。 きっかけは「永ちゃん」",
+    "url": "https://note.com/akari_yorisou",
+    "pass": 3
+   },
+   {
+    "quote": "朝4時に眠り、目覚めるのは日が暮れてから。子どもの昼夜逆転について考える",
+    "url": "https://note.com/akari_yorisou",
+    "pass": 3
+   },
+   {
+    "quote": "子どものことを、先生にどう伝えれば分かってもらえるんだろう。",
+    "url": "https://note.com/akari_yorisou",
+    "pass": 3
+   },
+   {
+    "quote": "「みんなと同じ」から「その子に合わせる」へ。私が小学校で感じた変化",
+    "url": "https://note.com/akari_yorisou",
+    "pass": 3
+   },
+   {
+    "quote": "小学校6年間で100日未満。中学校3年間で約30日。そんな息子が18歳になりました。",
+    "url": "https://note.com/akari_yorisou",
+    "pass": 3
+   },
+   {
+    "quote": "「正しいことを言う子ほど、生きづらい」──正義感が強すぎる次女と、私の反抗期戦争＃1",
+    "url": "https://note.com/limber_hebe280",
+    "pass": 3
+   },
+   {
+    "quote": "うちの子、何が向いてる？」に悩んだ私が長女から教わった“才能の育て方 ＃8 一人暮らしの成長（最終回）",
+    "url": "https://note.com/limber_hebe280",
+    "pass": 3
+   },
+   {
+    "quote": "うちの子、何が向いてる？」に悩んだ私が長女から教わった“才能の育て方 ＃7 人生の選択 進学 or 就職",
+    "url": "https://note.com/limber_hebe280",
+    "pass": 3
+   },
+   {
+    "quote": "うちの子、何が向いてる？」に悩んだ私が長女から教わった“才能の育て方 ＃6 高校受験そして・・・",
+    "url": "https://note.com/limber_hebe280",
+    "pass": 3
+   },
+   {
+    "quote": "うちの子、何が向いてる？」に悩んだ私が長女から教わった“才能の育て方 ＃5 勉強しないという選択",
+    "url": "https://note.com/limber_hebe280",
+    "pass": 3
+   },
+   {
+    "quote": "うちの子、何が向いてる？」に悩んだ私が長女から教わった“才能の育て方 #4 勉強ができない＝才能がない、じゃなかった",
+    "url": "https://note.com/limber_hebe280",
+    "pass": 3
+   },
+   {
+    "quote": "「うちの子、何が向いてる？」に悩んだ私が長女から教わった“才能の育て方” #3 波乱の小学校生活。忘れ物の嵐",
+    "url": "https://note.com/limber_hebe280",
+    "pass": 3
+   },
+   {
+    "quote": "「うちの子、何が向いてる？」に悩んだ私が長女から教わった“才能の育て方” #2 親も真っ青。長女が“絶対関わったらアカン人”に抱っこされた日。",
+    "url": "https://note.com/limber_hebe280",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Lily (@lily) / X Camera. Drone. Reinvented. Friendly and exceptionally easy to use camera drones in the spirit of the Lily flying camera. The future of Lily is just beginning.",
+    "url": "https://x.com/Lily",
+    "pass": 3
+   },
+   {
+    "quote": "Lily Adair (@LilyAdair) / X 27 3K Lily Adair @LilyAdair Oct 23 Your English muffin is back and I’m logging online now 🧡 I’ll explain the reason for my long absence when I’m online 🧡 looking forward to seeing you all! 😊😘🧡👻🎃",
+    "url": "https://x.com/lilyadair",
+    "pass": 3
+   },
+   {
+    "quote": "Lily Lou (@LilyLouOfficial) / X 18+ ♡ IRL big titty anime girl ♡ | SFW: @LilyLouTV | Booking: @glowmodelshq |",
+    "url": "https://x.com/LilyLouOfficial",
+    "pass": 3
+   },
+   {
+    "quote": "Lily Thai (@ltclilythai) / X Lily Thai @ltclilythai Official Page for #Asian #Adult #Porn #Star #Lily #Thai Exclusive Lily Thai Scenes at misslilythai.com Austin, TX misslilythai.com Joined November 2011",
+    "url": "https://x.com/ltclilythai",
+    "pass": 3
+   },
+   {
+    "quote": "Lily on X: \"元オドナン社長の丸茂さんのnoteだ。無料で読めるのすご... Sep 25, 2026 · 元オドナン社長の丸茂さんのnoteだ。無料で読めるのすごいな 3:19 PM · Sep 25, 2026 · 31 Views",
+    "url": "https://x.com/lily_tm3/status/2103504597595967586",
+    "pass": 3
+   },
+   {
+    "quote": "LiLY 11/7 2ndONE-MAN on X: \"⠀⠀ ⠀ FANBOX更新 【FANBOX限定 ... LiLY🎤💫 11/7 2ndONE-MAN💥 on X: \"⠀⠀ ⠀ 💫🧸FANBOX更新🧸💫 【FANBOX限定】ライブ写真公開📸 を投稿しました！ 2nd ONE-MAN LiLY ...",
+    "url": "https://x.com/lily_singmusic/status/2119425365588521221",
+    "pass": 3
+   },
+   {
+    "quote": "LiLY 11/7 2ndONE-MAN (@lily_singmusic) / X あなたの心に煌めく歌を。歌い手Vsinger LiLYです🎤💫世界的なアーティスト目指して活動中🦋 ┊︎ 完全個人V︎ ┊︎ 活動9年目┊︎iTunes1位 #TIF2021 #VackON 出演┊︎ Ado/ファントムシータ「キミ×キャンペーン」ノミネート┊︎DMは→@kumasan_manager",
+    "url": "https://x.com/lily_singmusic",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Lily Vittayarukskul - Co-Founder and CEO, Waterlily | Forbes ...Lily Ley - Executive Leader | Board Member | Mentor - LinkedInLily MOU - M&A Director at Time Interconnect (1729.HK ...Lily Wednesday Rumsey - International Higher Education Expert ...Lily Kingdon-Dawkins - Oxford English Language and Literature ...Lijun (Lily) Zhuang - Visa - Senior Business Lead | 领英Lily Francis - JD Candidate 2028 ",
+    "url": "https://www.linkedin.com/in/lily-vittayarukskul",
+    "pass": 3
+   },
+   {
+    "quote": "Lily Ley - Executive Leader | Board Member | Mentor - LinkedInLily MOU - M&A Director at Time Interconnect (1729.HK ...Lily Wednesday Rumsey - International Higher Education Expert ...Lily Kingdon-Dawkins - Oxford English Language and Literature ...Lijun (Lily) Zhuang - Visa - Senior Business Lead | 领英Lily Francis - JD Candidate 2028 | University of Calgary ... Executive Leader | Board Member | Me",
+    "url": "https://www.linkedin.com/in/lily-ley-9241b041",
+    "pass": 3
+   },
+   {
+    "quote": "Lily MOU - M&A Director at Time Interconnect (1729.HK ...Lily Wednesday Rumsey - International Higher Education Expert ...Lily Kingdon-Dawkins - Oxford English Language and Literature ...Lijun (Lily) Zhuang - Visa - Senior Business Lead | 领英Lily Francis - JD Candidate 2028 | University of Calgary ... M&A Director at Time Interconnect (1729.HK) · Experience: Time Interconnect Technology Limited · L",
+    "url": "https://hk.linkedin.com/in/lily-mou",
+    "pass": 3
+   },
+   {
+    "quote": "Lily Kingdon-Dawkins - Oxford English Language and Literature ...Lijun (Lily) Zhuang - Visa - Senior Business Lead | 领英Lily Francis - JD Candidate 2028 | University of Calgary ... Oxford English Language and Literature Graduate | Trainee Solicitor at Linklaters · Experience: Linklaters · Education: BPP Law School · Location: London · 500+ connections on LinkedIn. View Lily Kingdon-Dawkins’ profile",
+    "url": "https://uk.linkedin.com/in/lily-kingdon-dawkins",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Lily Vögue - FacebookLily and Company | Jackson WY - FacebookFacebook - log in or sign upLog Into FacebookTu es de Warnécourt .... | FacebookLily Mutamz Tv - FacebookLILY Music - Facebook 2 days ago · Lily Vögue. 47,579 followers · 16,537 talking about this. Boutique de vêtements pour femmes 4 succursales 3079 A boul Mascouche, Mascouche (450-325-5459) Oct 16, 2026 · Lily and Company, Jackson. 1,1",
+    "url": "https://www.facebook.com/lilyvogue/",
+    "pass": 3
+   },
+   {
+    "quote": "Lily and Company | Jackson WY - FacebookFacebook - log in or sign upLog Into FacebookTu es de Warnécourt .... | FacebookLily Mutamz Tv - FacebookLILY Music - Facebook Oct 16, 2026 · Lily and Company, Jackson. 1,121 followers · 4 talking about this · 17 were here. Boutique, floral and event design house specializing in destination weddings. Connect with friends and the world around you on Facebook.",
+    "url": "https://www.facebook.com/lilyandcompany/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.lily.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lily.ai/agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lily.ai/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lily.ai/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lily.ai/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lily.ai/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lily.ai/case-studies/prestige-beauty-cross-channel-ai-visibility",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lily.ai/case-studies/jcrew-ai-delight-customers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.lily.ai/_next/image?url=%2Fimages%2Fcase-studies%2Fjcrew-ai-delight-customers.jpg&w=2048&q=75",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.lilly.com/jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lilly.com/jp/who-we-are/lilly-japan-overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shinausu.hatenablog.com/entry/2026/10/29/231749",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXZQOUC121680S6A310C2000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lily-inc.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/LIVE_JAPAN_PERFECT_GUIDE",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Lilium_speciosum",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Lilium_auratum",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hanamikke.com/en/343.html/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.capsim.com/case-studies/lilly",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/tmc-strategic-communications/case-study/lilly-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scribd.com/document/520762894/Eli-Lilly-Case-Study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/eli-lilly-and-company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prospeo.io/c/eli-lilly-and-company-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/eli-lilly",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://indexed.vc/companies/lily-ai",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/instalily-raises-60-million-series-b-and-launches-lily-the-worlds-1190835",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/joyful_lily111",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/bokuwalily",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/lilylondon/n/n3794fa76ec7f?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Lily",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/lilyadair",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/LilyLouOfficial",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ltclilythai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/lily-vittayarukskul",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/lily-ley-9241b041",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://hk.linkedin.com/in/lily-mou",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/lily-kingdon-dawkins",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/lilyvogue/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/lilyandcompany/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/akari_yorisou",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/limber_hebe280",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/lily_tm3/status/2103504597595967586",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/lily_singmusic/status/2119425365588521221",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/lily_singmusic",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Lily 日本 導入",
+   "results": [
+    "https://www.lilly.com/jp/",
+    "https://www.lilly.com/jp/who-we-are/lilly-japan-overview",
+    "https://shinausu.hatenablog.com/entry/2026/10/29/231749",
+    "https://www.nikkei.com/article/DGXZQOUC121680S6A310C2000000/",
+    "https://prtimes.jp/main/html/rd/p/000000162.000005823.html",
+    "https://ps.nikkei.com/lilly2510/",
+    "https://www.nikkei.com/article/DGKKZO94980010S6A310C2TB3000/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lily 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://lily-inc.com/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://industrial.filtrationgroup.com/ja/联系我们/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lily Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/LIVE_JAPAN_PERFECT_GUIDE",
+    "https://en.wikipedia.org/wiki/Lilium_speciosum",
+    "https://en.wikipedia.org/wiki/Lilium_auratum",
+    "https://hanamikke.com/en/343.html/",
+    "https://plants.ces.ncsu.edu/plants/rohdea-japonica/",
+    "https://worldoffloweringplants.com/lilium-speciosum-japanese-lily/",
+    "https://www.gardenia.net/plants/common-names/japanese-lily",
+    "https://www.lilly.com/jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Lily manufacturing customer case study",
+   "results": [
+    "https://www.capsim.com/case-studies/lilly",
+    "https://www.casestudies.com/company/tmc-strategic-communications/case-study/lilly-customer-case-study",
+    "https://www.scribd.com/document/520762894/Eli-Lilly-Case-Study",
+    "https://www.casestudies.com/customer/eli-lilly-and-company",
+    "https://pinehillsbusiness.com/business-case-study-on-eli-lilly-a-timeless-example-of-vision-trust-and-business-growth-strategy/",
+    "https://www.coursehero.com/file/103495545/Eli-Lilly-Case-Studypdf/",
+    "https://www.scribd.com/document/497260146/Eli-Lilly-Case-study-summary"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lily white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://partner.vw.com/partner",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://www.canva.com/partners/reseller/",
+    "https://www.seoreseller.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lily founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/eli-lilly-and-company-revenue",
+    "https://www.crunchbase.com/organization/eli-lilly",
+    "https://indexed.vc/companies/lily-ai",
+    "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/instalily-raises-60-million-series-b-and-launches-lily-the-worlds-1190835",
+    "https://pitchbook.com/profiles/company/1365929-92",
+    "https://compworth.com/company/eli-lilly-and-company",
+    "https://www.lilly.com/about/key-facts"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Lily",
+   "results": [
+    "https://note.com/joyful_lily111",
+    "https://note.com/bokuwalily",
+    "https://note.com/lily_s310/n/n678c95dc0e37?hl=en",
+    "https://note.com/lilylondon/n/n3794fa76ec7f?hl=en",
+    "https://note.com/lilylondon/n/n512a50119369?hl=en",
+    "https://tales.note.com/deft_lily8414",
+    "https://tales.note.com/kind_lily68/wdhb4dsn5ltgh/episodes/ezwuft5ljg1gy"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Lily",
+   "results": [
+    "https://x.com/Lily",
+    "https://x.com/lilyadair",
+    "https://x.com/LilyLouOfficial",
+    "https://x.com/ltclilythai",
+    "https://x.com/hanaxlily",
+    "https://x.com/lily_tutu",
+    "https://x.com/lilylarimar"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Lily",
+   "results": [
+    "https://www.linkedin.com/in/lily-vittayarukskul",
+    "https://www.linkedin.com/in/lily-ley-9241b041",
+    "https://hk.linkedin.com/in/lily-mou",
+    "https://uk.linkedin.com/in/lily-kingdon-dawkins",
+    "https://cn.linkedin.com/in/lijun-lily-zhuang-26904118",
+    "https://ca.linkedin.com/in/lily-francis-32b0732ab",
+    "https://uk.linkedin.com/in/lily-wednesday-rumsey-a1b2ab52"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Lily",
+   "results": [
+    "https://www.facebook.com/lilyvogue/",
+    "https://www.facebook.com/lilyandcompany/",
+    "https://secure.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://business.facebook.com/groups/841248674154668/",
+    "https://www.facebook.com/MPLillianMutambo/",
+    "https://www.facebook.com/TheLily01/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lily note 社長",
+   "results": [
+    "https://note.com/akari_yorisou",
+    "https://note.com/limber_hebe280",
+    "https://x.com/lily_tm3/status/2103504597595967586",
+    "https://lily-inc.jp/member/",
+    "https://white-lily07.com/aboutme/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://lilynote.her.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lily X 投稿",
+   "results": [
+    "https://x.com/lily_singmusic/status/2119425365588521221",
+    "https://x.com/lily_singmusic",
+    "https://recordbate.com/performer/x_lily_x",
+    "https://recu.me/performer/x_lily_x/latest",
+    "https://fantia.jp/fanclubs/491526/posts",
+    "https://lily-singmusic.fanbox.cc/posts",
+    "https://www.syakouba.com/album/album.php?u=0/df140450b2"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式8頁／PDF・画像1件／外部42頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式8頁／PDF・画像1件／外部42頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式8頁／PDF・画像1件／外部42頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式8頁／PDF・画像1件／外部42頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式8頁／PDF・画像1件／外部42頁・検索12回）"
+ }
+}

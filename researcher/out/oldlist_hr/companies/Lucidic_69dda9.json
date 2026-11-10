@@ -1,0 +1,1024 @@
+{
+ "name": "Lucidic",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-10T00:20:30.478594+00:00",
+ "official_url": "https://lucidic.ai",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/739926-64",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2025",
+    "url": "https://startupintros.com/orgs/lucidic-ai",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "San Francisco, CA, USA",
+    "url": "https://startupintros.com/orgs/lucidic-ai",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Co-training harnesses and models together",
+    "url": "https://lucidic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We research the psychology of how LLMs learn, and turn it into new training techniques that train custom models and harnesses together.",
+    "url": "https://lucidic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "You are a helpful AI assistant trained to provide accurate and thoughtful responses. You approach each question with care, considering context and nuance. Your goal ...",
+    "url": "https://lucidic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "write_file(path=\"/output/result.json\", content=\"{...}\")",
+    "url": "https://lucidic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "- No access to production databases",
+    "url": "https://lucidic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "- Maintain professional, helpful tone",
+    "url": "https://lucidic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "- Cite sources when providing factual information",
+    "url": "https://lucidic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "- Respect user privacy - no data retention",
+    "url": "https://lucidic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "- Provide explanations for complex decisions",
+    "url": "https://lucidic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Environment: Production",
+    "url": "https://lucidic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Previous queries: 3",
+    "url": "https://lucidic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "- Identified top product: Widget Pro X",
+    "url": "https://lucidic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "- User preferences: Python over R",
+    "url": "https://lucidic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Initializing Training...",
+    "url": "https://lucidic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Training a model is like teaching a human.",
+    "url": "https://lucidic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "People learn in different ways: taking notes, solving practice problems, using flashcards. Good teaching starts with understanding how the learner thinks: where they get stuck and what kind of feedback changes their behavior.",
+    "url": "https://lucidic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "through adaptive simulations, reflective evolution, inference-time optimization, and more. We've seen this combined approach significantly outperform both weight-only post-training and harness-only optimization at a fraction of the cost & data. If you care about building the best agents, we'd love to",
+    "url": "https://lucidic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Define the Training Surface",
+    "url": "https://lucidic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Start by choosing which parts of your agent are trainable. That includes the harness — system prompts, memory, context, tools, guardrails, policies — and the model itself, treated as a trainable policy rather than a fixed dependency.",
+    "url": "https://lucidic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Training both together costs a fraction of weight-only post-training — harness changes take no gradient steps and are optimized through a custom algorithm and reward function.",
+    "url": "https://lucidic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Next, turn your production traces and datasets into environments. Lucidic runs rollouts across them, varying the harness and the model's policy systematically to learn which choices earn rewards on your cases and which don't.",
+    "url": "https://lucidic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Lucidic's simulation builder turns your production data into synthetic environments, with your tools and data mocked. Rollouts run fast, and any production trajectory can be replayed or branched from any step against a new harness or model.",
+    "url": "https://lucidic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Finally, train both halves on the same signal. Lucidic uses genetic algorithms to search over harness configurations while running RL policy optimization on the highest leverage training tasks, so each improves in step with the other.",
+    "url": "https://lucidic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Harvey Tenet post-training update",
+    "url": "https://lucidic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Legal Agent Benchmark all-pass rate: a task counts only if every rubric criterion passes. Frontier scores from the Vals AI LAB leaderboard (Aug 2026), the same source Harvey uses for its own baselines. Harvey Tenet from Harvey’s Aug 20, 2026 post-training update. Fine-tuned GLM-5.1 from Harvey’s Jun 22, 2026 post, measured on a 180-item held-out split with GPT-5 Mini grading repeated 3×.",
+    "url": "https://lucidic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Real-world results from Lucidic's automated AI optimization platform. See how we help teams compress months of manual work into overnight runs while achieving better results.",
+    "url": "https://lucidic.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "ServiceNow: Evaluating Lucidic's Training Method on Enterprise Workflows",
+    "url": "https://lucidic.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "ServiceNow evaluated Lucidic's training method on 1,150 tasks drawn from real enterprise workflows. The policy trained in simulation achieved a strict task success rate of 65%, compared with 51.1% for the strongest frontier model.",
+    "url": "https://lucidic.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "How Lucidic achieved 87.5% accuracy on the FECT contact-center benchmark using automated prompt optimization—beating manual 9-month efforts and o1 results with a budget model.",
+    "url": "https://lucidic.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Anonymous: Enterprise Agent Breaks Through 75% Plateau",
+    "url": "https://lucidic.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "After 2-3 months of manual optimization stalled at 75%, Lucidic's agentic training algorithm systematically optimized all 116 parameters, breaking through the plateau to reach 92% accuracy.",
+    "url": "https://lucidic.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Currently partnering with a top agent builder to optimize their AI agent workflows through automated experimentation and continuous improvement cycles. Stay tuned for results.",
+    "url": "https://lucidic.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Lucidic AI is building the training and optimization layer for AI agents—so enterprises can measure, improve, and safely deploy agents that actually work. If you want to ship agentic systems that get better with real feedback loops, come build with us in San Francisco.",
+    "url": "https://lucidic.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Using Lucidic AI's auto-improvement algorithms (EvoSims), we achieved what took them months in less than 24 hours. We improved their baseline of 59% and increased it to 87.5% accuracy.",
+    "url": "https://lucidic.ai/case-studies/fect/",
+    "pass": 1
+   },
+   {
+    "quote": "Cresta Optimized Prompt",
+    "url": "https://lucidic.ai/case-studies/fect/",
+    "pass": 1
+   },
+   {
+    "quote": "Lucidic Optimized Prompt",
+    "url": "https://lucidic.ai/case-studies/fect/",
+    "pass": 1
+   },
+   {
+    "quote": "Because this agent is core to the product, the system is highly sophisticated—multiple system prompts, a large toolset, complex evaluation frameworks, variations of data retrieval techniques, and more. Given that complexity, Cresta initially viewed improvements from an external platform like Lucidic AI working on untested data as unlikely.",
+    "url": "https://lucidic.ai/case-studies/fect/",
+    "pass": 1
+   },
+   {
+    "quote": "To set a fair, easy-to-verify test, Cresta chose one well-defined part of their system: a single instruction ('prompt') used by the agent. They had already spent months improving this prompt and documented the method and results in a paper they published and presented at an AI conference.",
+    "url": "https://lucidic.ai/case-studies/fect/",
+    "pass": 1
+   },
+   {
+    "quote": "Cresta then challenged Lucidic to optimize that exact prompt—using the same data and scoring rules—to see whether an automated approach could match or beat their published result.",
+    "url": "https://lucidic.ai/case-studies/fect/",
+    "pass": 1
+   },
+   {
+    "quote": "Researchers raised accuracy from ~59% → ~71% on the prompt using their published method.",
+    "url": "https://lucidic.ai/case-studies/fect/",
+    "pass": 1
+   },
+   {
+    "quote": "Be close to 71% via automated prompt-only optimization to ensure high quality prompts.",
+    "url": "https://lucidic.ai/case-studies/fect/",
+    "pass": 1
+   },
+   {
+    "quote": "Verification costs ~$200 per prompt (10 runs at ~$20/run); at hundreds of iterations, API can be $10,000+.",
+    "url": "https://lucidic.ai/case-studies/fect/",
+    "pass": 1
+   },
+   {
+    "quote": "Compress cycle time to <1 week with automated sweeps, adaptive sampling (more trials on promising variants), and one-click reruns with locked datasets/metrics.",
+    "url": "https://lucidic.ai/case-studies/fect/",
+    "pass": 1
+   },
+   {
+    "quote": "The Lucidic Agent Optimizer transforms multiple system inputs—prompts, datasets, tools, evaluations, feature flags, and knowledge bases—into production-ready AI agents through automated, systematic optimization.",
+    "url": "https://lucidic.ai/case-studies/fect/",
+    "pass": 1
+   },
+   {
+    "quote": "For the Cresta FECT benchmark, we focused on a single instruction component. We decomposed the prompt into explicit, trainable parameters, including instruction wording, few-shot examples, ordering, guardrails, etc. and optimized them systematically under a fixed model configuration. The optimization follows a rigorous workflow:",
+    "url": "https://lucidic.ai/case-studies/fect/",
+    "pass": 1
+   },
+   {
+    "quote": "iteratively until convergence. This structured process enables us to achieve superior results in a fraction of the time and cost of traditional manual optimization.",
+    "url": "https://lucidic.ai/case-studies/fect/",
+    "pass": 1
+   },
+   {
+    "quote": "Fewer missed problematic conversations (fewer escalations), a lean QA model shifting to exception-based review, and reproducible evidence for risk/compliance/brand-safety that strengthens enterprise evaluations",
+    "url": "https://lucidic.ai/case-studies/fect/",
+    "pass": 1
+   },
+   {
+    "quote": "Beyond Prompt-Only Optimization",
+    "url": "https://lucidic.ai/case-studies/fect/",
+    "pass": 1
+   },
+   {
+    "quote": "This case study demonstrates isolated prompt optimization. Lucidic's full platform optimizes the entire agent system:",
+    "url": "https://lucidic.ai/case-studies/fect/",
+    "pass": 1
+   },
+   {
+    "quote": "Prompt library management and versioning",
+    "url": "https://lucidic.ai/case-studies/fect/",
+    "pass": 1
+   },
+   {
+    "quote": "Continuous monitoring and improvement",
+    "url": "https://lucidic.ai/case-studies/fect/",
+    "pass": 1
+   },
+   {
+    "quote": "Optimizing just the prompt delivered outsized gains; optimizing the entire system typically yields further improvements.",
+    "url": "https://lucidic.ai/case-studies/fect/",
+    "pass": 1
+   },
+   {
+    "quote": "Given a contact-center transcript and a claim (e.g., \"The issue was resolved\"), predict True/False based on evidence. Stresses grounding, implicit evidence handling, and consistent judgments.",
+    "url": "https://lucidic.ai/case-studies/fect/",
+    "pass": 1
+   },
+   {
+    "quote": "A starting simple prompt which said to evalualte the claim against the transcript. It is found in the paper in the appendix. This was the prompt that Lucidic and Cresta started on and then iterated on.",
+    "url": "https://lucidic.ai/case-studies/fect/",
+    "pass": 1
+   },
+   {
+    "quote": "3D prompt (Cresta Optimized Prompt):",
+    "url": "https://lucidic.ai/case-studies/fect/",
+    "pass": 1
+   },
+   {
+    "quote": "This final novel prompt, developed by Cresta, improved the agent's performance on their dataset by breaking down each claim using the 3D method, as detailed in the appendix of their paper.",
+    "url": "https://lucidic.ai/case-studies/fect/",
+    "pass": 1
+   },
+   {
+    "quote": "Test-Time Compute is a concept that Cresta tested, representing the idea of allowing the model to generate additional reasoning tokens before producing a final answer. We implemented this by first having the model answer the claim with a reason, and then passing that response to another model to extract a true/false judgment.",
+    "url": "https://lucidic.ai/case-studies/fect/",
+    "pass": 1
+   },
+   {
+    "quote": "Predict True/False whether the claim is factually supported by the transcript",
+    "url": "https://lucidic.ai/case-studies/fect/",
+    "pass": 1
+   },
+   {
+    "quote": "We have a singular purpose, which is to deliver truly high-quality products.",
+    "url": "https://lucidic.eu/",
+    "pass": 3
+   },
+   {
+    "quote": "Unique audio products…",
+    "url": "https://lucidic.eu/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "No—Lucidic can work with what you already have. If a training environment or reward signal isn’t fully defined, our team can help design and refine them as part of the engagement. Clearer environments and richer signals enable stronger learning, and we work with customers to progressively build those pieces over time.",
+    "url": "https://lucidic.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "To set a fair, easy-to-verify test, Cresta chose one well-defined part of their system: a single instruction ('prompt') used by the agent. They had already spent months improving this prompt and documented the method and results in a paper they published and presented at an AI conference.",
+    "url": "https://lucidic.ai/case-studies/fect/",
+    "pass": 1
+   },
+   {
+    "quote": "The Vib-less CI (Component Isolation) system is a standalone version of our isolating footing system. You simply add it to your arrangement and whatever component you wish to isolate from undesirable vibrations.",
+    "url": "https://lucidic.eu/",
+    "pass": 3
+   },
+   {
+    "quote": "Lucidic AI has 4 total employees.",
+    "url": "https://pitchbook.com/profiles/company/739926-64",
+    "pass": 3
+   },
+   {
+    "quote": "What is Lucidic AI’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/739926-64",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Lucidic AI is",
+    "url": "https://pitchbook.com/profiles/company/739926-64",
+    "pass": 3
+   },
+   {
+    "quote": "Lucidic AI Revenue 2025: $440K Est.",
+    "url": "https://getlatka.com/companies/lucidic.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Lucidic AI has not published its revenue. GetLatka estimates it at about $440K a year (September 2025).",
+    "url": "https://getlatka.com/companies/lucidic.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Lucidic AI has 4 employees (September 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/lucidic.ai",
+    "pass": 3
+   },
+   {
+    "quote": "What is Lucidic AI's revenue?",
+    "url": "https://getlatka.com/companies/lucidic.ai",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Lucidic AI's revenue at about",
+    "url": "https://getlatka.com/companies/lucidic.ai",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Lucidic AI have?",
+    "url": "https://getlatka.com/companies/lucidic.ai",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of September 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/lucidic.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/lucidic.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/lucidic.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/lucidic.ai",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Ongoing Case Study with a Top Agent Builder (Stay Tuned)",
+    "url": "https://lucidic.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Cresta FECT Case Study - Lucidic AI",
+    "url": "https://lucidic.ai/case-studies/fect/",
+    "pass": 1
+   },
+   {
+    "quote": "To set a fair, easy-to-verify test, Cresta chose one well-defined part of their system: a single instruction ('prompt') used by the agent. They had already spent months improving this prompt and documented the method and results in a paper they published and presented at an AI conference.",
+    "url": "https://lucidic.ai/case-studies/fect/",
+    "pass": 1
+   },
+   {
+    "quote": "This case study demonstrates isolated prompt optimization. Lucidic's full platform optimizes the entire agent system:",
+    "url": "https://lucidic.ai/case-studies/fect/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Lucidic AI — Custom Models & Harnesses Trained on Your Data — We research the psychology of how LLMs learn, and turn it into new training techniques that train custom models and harnesses together.",
+    "url": "https://lucidic.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "lucidic.eu - Audio Solution – Audio Solution — Lucidic is the culmination of decades-long love of music and audio equipment blending with a passion for design. We all know that the search for the ultimate audio setup, in essence, is never complete but half the fun is finding the next right piece I thank you for your visit and wish you smooth listening..",
+    "url": "https://lucidic.eu/",
+    "pass": 3
+   },
+   {
+    "quote": "Lucidic: Sophistation Customized — Discover Lucidic: your go-to for customized printed men’s & women’s wear, trendy accessories, and unique designs. Upgrade your wardrobe with affordable, high-quality pieces that reflect your personality and style. #CustomApparel #SophisticatedStyle #LucidicFashion",
+    "url": "https://www.lucidic.in/",
+    "pass": 3
+   },
+   {
+    "quote": "Lucidic® | Premium Turntable Mats, Record Accessories ... — Discover Lucidic® premium turntable mats, record weights and audiophile accessories engineered to reduce resonance, enhance vinyl playback and reveal every musical detail. Precision crafted for true analog enthusiasts.",
+    "url": "https://shop.lucidic.eu/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - Lucidic AI — Our Case Studies Case Studies Real-world results from Lucidic's automated AI optimization platform. See how we help teams compress months of manual work into overnight runs while achieving better results.",
+    "url": "https://lucidic.ai/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Lucidic AI — Custom Models & Harnesses Trained on Your Data — Next, turn your production traces and datasets into environments. Lucidic runs rollouts across them, varying the harness and the model's policy systematically to learn which choices earn rewards on your cases and which don't. Lucidic's simulation builder turns your production data into synthetic environments, with your tools and data mo",
+    "url": "https://lucidic.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Lucidic AI 2026 Company Profile: Valuation, Funding ...Lucid – Financials, Industry Trends & Funding Info – 2026Lucidic AI: Funding, Team & Investors | Startup IntrosLucidic AI Revenue 2025: $440K Est. - getlatka.comLucidic AI - 2026 Company Profile, Team, Funding ... - TracxnLucidic AI: Funding, Investors & Team (Nov 2026) | FundedIQLucid (Multimedia and Design Software) 2026 Company Profile ... ",
+    "url": "https://pitchbook.com/profiles/company/739926-64",
+    "pass": 3
+   },
+   {
+    "quote": "Lucidic AI: Funding, Team & Investors | Startup Intros — Lucidic AI was founded in 2025 by Abhinav Sinha (Founder) and Andy Liang (Founder) and Jeremy Tian (Founder). How much funding has Lucidic AI raised? Lucidic AI has raised $500K in total across 1 funding round. Who are Lucidic AI's investors? Lucidic AI's investors include Y Combinator.",
+    "url": "https://startupintros.com/orgs/lucidic-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Lucidic AI Revenue 2025: $440K Est. - getlatka.com — Aug 10, 2026 · Lucidic AI 2025 estimated revenue: $440K. 4 employees. Industry: AI & Machine Learning Operationalization (MLOps) Software. Updated Aug 10, 2026.",
+    "url": "https://getlatka.com/companies/lucidic.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Lucidic AI - 2026 Company Profile, Team, Funding ... - Tracxn — Feb 27, 2026 · Lucidic AI is a seed company based in San Francisco (United States), founded in 2025 by Andy Liang, Jeremy Tian and Abhinav Sinha. It operates as a Providing analytics and simulation tools for AI agent development. Lucidic AI has raised $500K in funding. The company has 12 active competitors, including 5 that are funded",
+    "url": "https://tracxn.com/d/companies/lucidicai/__I1k0FOlstHguHPk4RTa0YoHDqnNfv81v8I8GLUYfFvU",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/739926-64",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "YC採択企業分析: AIエージェント分析・テストプラットフォーム Lucidi... Feb 28, 2025 · 事業領域・サービス概要: Lucidic AI（ルシディックAI）は、AIエージェント（自律エージェント）の開発者向けに分析・テストプラットフォームを提供するスタートアップです。Y Combinator（2025年冬バッチ）採択企業で、その ...",
+    "url": "https://note.com/takuya_t/n/n714fbc68fdb0",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "YC採択企業分析: AIエージェント分析・テストプラットフォーム Lucidic AI｜冨永拓也 / 株式会社Leach CEO",
+    "url": "https://note.com/takuya_t/n/n714fbc68fdb0",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "YC採択企業分析: AIエージェント分析・テストプラットフォーム Lucidic AI｜冨永拓也 / 株式会社Leach CEO",
+    "url": "https://note.com/takuya_t/n/n714fbc68fdb0",
+    "pass": 3
+   },
+   {
+    "quote": "YC採択企業分析: AIエージェント分析・テストプラットフォーム Lucidic AI",
+    "url": "https://note.com/takuya_t/n/n714fbc68fdb0",
+    "pass": 3
+   },
+   {
+    "quote": "Lucidic AI（ルシディックAI）は、AIエージェント（自律エージェント）の開発者向けに",
+    "url": "https://note.com/takuya_t/n/n714fbc68fdb0",
+    "pass": 3
+   },
+   {
+    "quote": "を提供するスタートアップです。Y Combinator（2025年冬バッチ）採択企業で、そのサービスはしばしば「",
+    "url": "https://note.com/takuya_t/n/n714fbc68fdb0",
+    "pass": 3
+   },
+   {
+    "quote": "AIエージェント版のWeights & Biases",
+    "url": "https://note.com/takuya_t/n/n714fbc68fdb0",
+    "pass": 3
+   },
+   {
+    "quote": "Lucidic AI: Weights & Biases for AI Agents | Y Combinator",
+    "url": "https://note.com/takuya_t/n/n714fbc68fdb0",
+    "pass": 3
+   },
+   {
+    "quote": ")。具体的には、AIエージェントのワークフロー（思考過程や実行手順）をすべて記録・可視化し、大規模なシミュレーションを通じて性能を検証できるプラットフォームを提供しています (",
+    "url": "https://note.com/takuya_t/n/n714fbc68fdb0",
+    "pass": 3
+   },
+   {
+    "quote": "Automation Startups funded by Y Combinator (YC) 2025 | Y Combinator",
+    "url": "https://note.com/takuya_t/n/n714fbc68fdb0",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "lucidic (@lucidic) / Posts / X lucidic (@lucidic) - Posts - Kratom. Canna-Talk ND, \"Content.\" | X (formerly Twitter)",
+    "url": "https://x.com/lucidic",
+    "pass": 3
+   },
+   {
+    "quote": "Lucidic, YEAH! (@LucidicReal) / Posts / X Lucidic, YEAH! (@LucidicReal) - Posts - been there, sheen that! | X (formerly Twitter)",
+    "url": "https://x.com/LucidicReal",
+    "pass": 3
+   },
+   {
+    "quote": "lucidic (@lucidic12) / Posts / X 📎 🔁Reposted by lucidic CriminalFilthDisgustingDirtGangBeanGangTingle May 28 SirMichaelRocks biden years flew by cause the only news we ever got was bro falling off his bike or saying beer brew here hush iss issah ooooh earth rider thank heavens for the great lakes 💬12 🔄52 🤍3315 📊92704 📎 🔁Reposted by lucidic j.h.user ...",
+    "url": "https://x.com/lucidic12",
+    "pass": 3
+   },
+   {
+    "quote": "lucidic (@lucidic) / Posts / X May 29, 2008 · lucidic (@lucidic) - Posts - Kratom. Canna-Talk ND, \"Content.\" | X (formerly Twitter)",
+    "url": "https://x.com/lucidic",
+    "pass": 3
+   },
+   {
+    "quote": "the gunk (@lucidic__) / Posts / X Mar 11, 2020 · lucidic__ Location: sillyland Joined: Mar 11, 2020 15955Posts 159Following 60Followers i live to serve (cunt)",
+    "url": "https://x.com/lucidic__",
+    "pass": 3
+   },
+   {
+    "quote": "Lucidic, YEAH! (@LucidicReal) / Posts / X Oct 8, 2025 · d-daydeltabeeps May 21 is This also Allowed or no 💬20 🔄11 🤍172 📊6521 📎 Lucidic, YEAH!LucidicReal May 22 did i do it right win ben stein's;gateweedhitter Parodyaccount May 20",
+    "url": "https://x.com/LucidicReal",
+    "pass": 3
+   },
+   {
+    "quote": "lucidic (@lucidic12) / Posts / X Dec 30, 2017 · 📎 🔁Reposted by lucidic CriminalFilthDisgustingDirtGangBeanGangTingle May 28 SirMichaelRocks biden years flew by cause the only news we ever got was bro falling off his bike or saying beer brew here hush iss issah ooooh earth rider thank heavens for the great lakes 💬12 🔄52 🤍3315 📊92704 📎 🔁Reposted by lucidic j.h.user ...",
+    "url": "https://x.com/lucidic12",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Lucidic AI - LinkedIn Lucidic AI | 841 followers on LinkedIn. See your agent's mind at work. | Building an analytics, testing, and simulation platform for AI agents.",
+    "url": "https://www.linkedin.com/company/lucidic-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Abhinav Sinha - CEO of Lucidic AI | CS @ Stanford | LinkedInJeremy Tian - Founder @ Lucidic AI | CS @ Stanford | LinkedInLucidic AI (YC W25) is a platform to see your AI agent’s mind ...Andy Liang - Founder, CTO at Lucidic AI | CS at Stanford ...Lucidity - LinkedInNew Cofounder, New Lessons: AI Reliability and Failure CEO of Lucidic AI | CS @ Stanford · Experience: Lucidic AI · Education: Stanford",
+    "url": "https://www.linkedin.com/in/abhinavsinha15",
+    "pass": 3
+   },
+   {
+    "quote": "Jeremy Tian - Founder @ Lucidic AI | CS @ Stanford | LinkedInLucidic AI (YC W25) is a platform to see your AI agent’s mind ...Andy Liang - Founder, CTO at Lucidic AI | CS at Stanford ...Lucidity - LinkedInNew Cofounder, New Lessons: AI Reliability and Failure Founder @ Lucidic AI | CS @ Stanford · Experience: Lucidic AI · Education: Stanford University · Location: San Francisco Bay Area · 500+ con",
+    "url": "https://www.linkedin.com/in/jeremytian25",
+    "pass": 3
+   },
+   {
+    "quote": "Lucidic AI (YC W25) is a platform to see your AI agent’s mind ...Andy Liang - Founder, CTO at Lucidic AI | CS at Stanford ...Lucidity - LinkedInNew Cofounder, New Lessons: AI Reliability and Failure Lucidic AI (YC W25) is a platform to see your AI agent’s mind at work. Instead of spending countless, soul-crushing hours watching terminal outputs scroll by and drowning in log files ... Founder, CTO ",
+    "url": "https://www.linkedin.com/posts/y-combinator_lucidic-ai-yc-w25-is-a-platform-to-see-activity-7295864334738472960-W2_-",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Lucidic - Facebook Mar 3, 2019 · Lucidic is the culmination of decades-long love of music and audio equipment blending with a passion for design. We all know that the search for the ultimate audio setup, in essence, is never complete but half the fun is finding the next right piece. Lucidic rests on a simple philosophy, whatever you create must serve a functional purpose and ...",
+    "url": "https://www.facebook.com/lucidicvisioncrafted/",
+    "pass": 3
+   },
+   {
+    "quote": "Lucidic Designs - Facebook Aug 9, 2025 · Lucidic Designs. 99 likes. Lucidic Designs is freelance company for illustration works.",
+    "url": "https://www.facebook.com/LucidicDesigns/",
+    "pass": 3
+   },
+   {
+    "quote": "Lucidic Lucid - Facebook Lucidic Lucid is on Facebook. Join Facebook to connect with Lucidic Lucid and others you may know. Facebook gives people the power to share and makes the world more open and connected.",
+    "url": "https://www.facebook.com/lucidic.lucid/",
+    "pass": 3
+   },
+   {
+    "quote": "Lucidic - LUCIDIC We have a singular purpose,... - Facebook Mar 3, 2019 · Lucidic is the culmination of decades-long love of music and audio equipment blending with a passion for design. We all know that the search for the ultimate audio setup, in essence, is never complete but half the fun is finding the next right piece.",
+    "url": "https://www.facebook.com/lucidicvisioncrafted/posts/lucidic-we-have-a-singular-purpose-which-is-to-deliver-truly-high-quality-produc/311775712863015/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://lucidic.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lucidic.ai/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lucidic.ai/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lucidic.ai/case-studies/fect/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smith-nephew.com/en-us/contact-us/companyinfo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arawheels.com/en-auto-price/lucid/Lucid-EV-electric-cars-prices-in-Japan/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://motowheeler.com/jp/electric-cars/lucid-air-71",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lucidic.eu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lucidic.in/",
+    "status": "network_error:SSLError",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/atypic-craft/case-study/lucidity-systems-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.datanext.ai/case-study/lucid-motors-luxury-electric-vehicles/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/739926-64",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/lucid",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/lucidic-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/lucidic.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/takuya_t/n/n714fbc68fdb0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/lucidic",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/LucidicReal",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/lucidic12",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/lucidic-ai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/abhinavsinha15",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jeremytian25",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/y-combinator_lucidic-ai-yc-w25-is-a-platform-to-see-activity-7295864334738472960-W2_-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/lucidicvisioncrafted/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/LucidicDesigns/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/lucidic.lucid/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/lucidicvisioncrafted/posts/lucidic-we-have-a-singular-purpose-which-is-to-deliver-truly-high-quality-produc/311775712863015/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/lucidic",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/lucidic__",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/LucidicReal",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/lucidic12",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Lucidic 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Lucidic 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://lucidic.ai/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.ipsen.com/japan/会社/",
+    "https://www.aon.com/japan/company-overview",
+    "https://jpmktg.winbond.com/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://jomon.group/",
+    "https://taimen-eigyo.com/words/so-dairiten/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Lucidic Japan",
+   "results": [
+    "https://arawheels.com/en-auto-price/lucid/Lucid-EV-electric-cars-prices-in-Japan/",
+    "https://motowheeler.com/jp/electric-cars/lucid-air-71",
+    "https://lucidic.eu/",
+    "https://www.lucidic.in/",
+    "https://shop.lucidic.eu/",
+    "https://www.ycombinator.com/companies/lucidic-ai",
+    "https://lucidic.ai/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lucidic manufacturing customer case study",
+   "results": [
+    "https://lucidic.ai/case-studies/",
+    "https://www.casestudies.com/company/atypic-craft/case-study/lucidity-systems-customer-case-study",
+    "https://lucidic.ai/",
+    "https://www.datanext.ai/case-study/lucid-motors-luxury-electric-vehicles/",
+    "https://get.lucidity.cloud/hubfs/Case+Studies/Lucidity+case+study+-+industrial+manufacturer.pdf",
+    "https://www.scribd.com/document/854313597/Case-Study-Lucid-Motors-Journey-to-Lead-the-Luxury-Electric-Vehicle-Market",
+    "https://get.lucidity.cloud/hubfs/Case+Studies/Lucidity+manufacturing+case+study.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lucidic white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.appspace.com/resellers-alliances/",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://upcloud.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lucidic founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/739926-64",
+    "https://compworth.com/company/lucid",
+    "https://startupintros.com/orgs/lucidic-ai",
+    "https://getlatka.com/companies/lucidic.ai",
+    "https://tracxn.com/d/companies/lucidicai/__I1k0FOlstHguHPk4RTa0YoHDqnNfv81v8I8GLUYfFvU",
+    "https://fundediq.co/lucidic-ai-lucidic-ai-funding/",
+    "https://pitchbook.com/profiles/company/52562-98"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Lucidic",
+   "results": [
+    "https://note.com/uzura_note_lab/n/n3c3e0210f8af",
+    "https://note.com/seigo77",
+    "https://note.com/takuya_t/n/n714fbc68fdb0",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/riff_monster/n/n0ae37f3972ca"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Lucidic",
+   "results": [
+    "https://x.com/lucidic",
+    "https://x.com/LucidicReal",
+    "https://x.com:2096/LucidicAI",
+    "https://x.com/lucidic12",
+    "https://x.com/lucidic12/status/2105582505881399397",
+    "https://x.com/lucidic12/status/2091549567204433962",
+    "https://x.com/lucidic12/status/2090418523541528725"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Lucidic",
+   "results": [
+    "https://www.linkedin.com/company/lucidic-ai/",
+    "https://www.linkedin.com/in/abhinavsinha15",
+    "https://www.linkedin.com/in/jeremytian25",
+    "https://www.linkedin.com/posts/y-combinator_lucidic-ai-yc-w25-is-a-platform-to-see-activity-7295864334738472960-W2_-",
+    "https://www.linkedin.com/in/andyliang223",
+    "https://www.linkedin.com/company/lucidityhq",
+    "https://www.linkedin.com/posts/jeremytian25_after-starting-lucidic-ai-with-abhinav-sinha-activity-7351670204193521664-gvVQ"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Lucidic",
+   "results": [
+    "https://www.facebook.com/lucidicvisioncrafted/",
+    "https://www.facebook.com/LucidicDesigns/",
+    "https://www.facebook.com/lucidic.lucid/",
+    "https://www.facebook.com/lucidicvisioncrafted/posts/lucidic-we-have-a-singular-purpose-which-is-to-deliver-truly-high-quality-produc/311775712863015/",
+    "https://www.facebook.com/luciditygemstones/",
+    "https://www.facebook.com/pinky.salyer/",
+    "https://www.facebook.com/LucidicDesigns/posts/here-are-a-ton-of-new-plushies-some-are-from-rwby-persona-blazblue-and-everyday-/977970682277143/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lucidic note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://online.nikkei-cnbc.co.jp/vod/65433?first_visit=1",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://kyodonewsprwire.jp/release/202606030242"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lucidic X 投稿",
+   "results": [
+    "https://x.com/lucidic",
+    "https://x.com/lucidic__",
+    "https://x.com/LucidicReal",
+    "https://x.com/lucidic12",
+    "https://lucidic.ai/",
+    "https://x.com/lucidic/status/2042003176090399043",
+    "https://x.com/lucidic12/status/2090418523541528725"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部33頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部33頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部33頁・検索12回）"
+ }
+}

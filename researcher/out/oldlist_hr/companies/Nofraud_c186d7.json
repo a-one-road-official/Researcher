@@ -1,0 +1,948 @@
+{
+ "name": "Nofraud",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜返信あり",
+ "researched_at": "2026-11-09T23:46:51.365954+00:00",
+ "official_url": "https://www.nofraud.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Risk Intelligence for Commerce & Fraud Protection | Wyllo",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Wyllo’s unified dashboard and analytics provide a comprehensive view of all fraud and abuse across brands and channels. Our end-to-end customer intelligence connects behavior of the same user or cluster across orders and interactions to show you true customer lifetime value.",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Payment Fraud Protection",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Return Fraud and Abuse Prevention",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Claim and Policy Abuse Prevention",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Keep more revenue and make representment painless.",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Help Desk Fraud Prevention: Why Your Risk Signal Has to Live in the Ticket",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "How to Evaluate Integrations When Choosing Fraud Protection Software",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Return Fraud & Abuse Prevention",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Risk Intelligence for Commerce | Ecommerce Fraud Protection",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The best fraud and risk intelligence should make you more confident, not more cautious. Until now, ecommerce fraud protection has been built around fear, forcing you to build your customer experience around bad actors, while good customers suffer.",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The problem isn’t just fraud. It’s fragmentation. Disjointed pre-purchase, checkout, and post-purchase solutions create disjointed experiences. They silo your data, opening the door to fraud and abuse!",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "(pronounced Will-oh, like the tree)",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Move from protection to potential, with Wyllo.",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Wyllo redefines ecommerce fraud protection with unified decisioning and end-to-end visibility lacking in existing solutions. We transform data from your entire customer journey into insights that make trust-based experiences possible — without introducing risk.",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Keep more revenue, and make representment painless and predictable. Wyllo’s AI-driven dispute workflows win more cases with less effort.",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“Before Wyllo, we were losing disputes, losing product, and spending hundreds of hours chasing fraud that had already shipped. Wyllo transformed how we operate, catching fraud at the first purchase instead of after the fact. The reduction in chargebacks has allowed us to get back to what matters: focusing on our customers and building our business.”",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“There was an immediate impact as soon as we implemented Wyllo. We saw a substantial increase in the number of orders passed that were originally blocked by our previous solution.”",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "When it comes to fraud prevention, attention to detail rocks.",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“Wyllo proactively understands our strategic imperatives, and they function in a real tactile kind of manner, which is extremely important to us. At every level, Wyllo was able to bring to the table everything we wanted. From my perspective, as well as from our executives, Wyllo is doing a really great job.”",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“If you’re serious about protecting your revenue and customers, Wyllo is an excellent investment. The platform is user-friendly, the support is unmatched, and you have a team right behind you, ready to safeguard your inventory and revenue.”",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“Wyllo has been essential to Credo Beauty’s success in preventing fraud and simplifying operations. From blocking reseller abuse to reducing chargebacks, Wyllo has allowed us to focus on what matters most — our customers and their experience. This partnership has truly elevated our ability to grow while protecting our brand and revenue.”",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Order Approvals increase by 2.8% and Adds $175,000 in Revenue",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“Wyllo has changed how we operate entirely. It’s saving us time and money while protecting both our customers and our revenue. Without it, we were manually managing chargebacks and reviews, but now, it’s handled effortlessly. Wyllo is a hidden gem every ecommerce business needs.”",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“Stop playing defense. Yofi helps you prevent abuse before it happens. If you’re serious about stopping resellers, this is the system to do it.”",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Edited and order from Pass to Fail after 4 days. Order had been shipped. Order was over $1000 they refunded the order 15 minutes before the Credit Card Settlement time. Authorize.net, Shopify both agreed to the documented loss. $1000+ of product sent and then $1000+ removed form our account. I thought they prevented fraud.... seems I may have had that backwards.",
+    "url": "https://apps.shopify.com/nofraud-chargeback-prevention-and-protection?locale=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Outstanding Fraud Protection with Exceptional Results",
+    "url": "https://apps.shopify.com/nofraud-chargeback-prevention-and-protection?locale=ja",
+    "pass": 3
+   },
+   {
+    "quote": "We've been selling online since 2006, and using this fraud protection platform has been one of the best operational improvements we've made. Since implementing it in 2020, we've seen a significantly higher percentage of verified transactions and approved orders while maintaining an extremely low number of manual reviews and chargeback requests.",
+    "url": "https://apps.shopify.com/nofraud-chargeback-prevention-and-protection?locale=ja",
+    "pass": 3
+   },
+   {
+    "quote": "One of the biggest benefits has been the confidence it gives our team. Legitimate customers experience a smoother checkout process, and fraudulent transactions have been virtually eliminated. The system is accurate, reliable, and has dramatically reduced the amount of time our staff spends reviewing questionable orders.",
+    "url": "https://apps.shopify.com/nofraud-chargeback-prevention-and-protection?locale=ja",
+    "pass": 3
+   },
+   {
+    "quote": "If you're looking for an e-commerce fraud solution that increases approvals while minimizing chargebacks and manual intervention, I highly recommend this platform. It's been an invaluable tool for our business and has helped protect our online store while supporting continued growth.",
+    "url": "https://apps.shopify.com/nofraud-chargeback-prevention-and-protection?locale=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Wyllo has been a reliable fraud prevention solution for our Shopify store. The integration was straightforward, and it has helped us reduce fraudulent orders while keeping our review process efficient. Like any fraud tool, there are occasional cases that require manual review, but overall it has been a valuable addition to our operations and has saved our team time.",
+    "url": "https://apps.shopify.com/nofraud-chargeback-prevention-and-protection?locale=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Refuerza la seguridad de tu tienda y mejora la aprobación.",
+    "url": "https://apps.shopify.com/nofraud-chargeback-prevention-and-protection?locale=ja",
+    "pass": 3
+   },
+   {
+    "quote": "よくある質問: Pro3カメラ",
+    "url": "https://support.matterport.com/s/article/FAQ-NoFraud?language=ja",
+    "pass": 3
+   },
+   {
+    "quote": "よくある質問：Pro2カメラ",
+    "url": "https://support.matterport.com/s/article/FAQ-NoFraud?language=ja",
+    "pass": 3
+   },
+   {
+    "quote": "3D Proを見つける",
+    "url": "https://support.matterport.com/s/article/FAQ-NoFraud?language=ja",
+    "pass": 3
+   },
+   {
+    "quote": "E-commerce Fraud Protection Software",
+    "url": "https://getlatka.com/companies/nofraud",
+    "pass": 3
+   },
+   {
+    "quote": "NoFraud is an eCommerce fraud prevention and checkout solution that protects businesses from fraudsters, eliminates chargeback losses, and provides smoother, more frictionless checkout experiences for trusted shoppers.",
+    "url": "https://getlatka.com/companies/nofraud",
+    "pass": 3
+   },
+   {
+    "quote": "Browse E-commerce Fraud Protection Software",
+    "url": "https://getlatka.com/companies/nofraud",
+    "pass": 3
+   },
+   {
+    "quote": "All E-commerce Fraud Protection Software companies, ranked",
+    "url": "https://getlatka.com/companies/nofraud",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/nofraud",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/nofraud",
+    "pass": 3
+   },
+   {
+    "quote": "We see you are visiting from an Internet Explorer browser. Due to the deprecation of Internet Explorer and for security reasons, the PSG site is not supported in Internet Explorer. For the best experience, please use an alternate browser.",
+    "url": "https://psgequity.com/news/providence-strategic-growth-invests-in-nofraud",
+    "pass": 3
+   },
+   {
+    "quote": "strictly confidential and may not be reproduced or redistributed in whole or in part",
+    "url": "https://psgequity.com/news/providence-strategic-growth-invests-in-nofraud",
+    "pass": 3
+   },
+   {
+    "quote": "without the express written approval of PSG Equity L.L.C.",
+    "url": "https://psgequity.com/news/providence-strategic-growth-invests-in-nofraud",
+    "pass": 3
+   },
+   {
+    "quote": "Investment to Support Product Expansion and Client Acquisition",
+    "url": "https://psgequity.com/news/providence-strategic-growth-invests-in-nofraud",
+    "pass": 3
+   },
+   {
+    "quote": "“I am incredibly proud of the technology we have built and the team we have in place at NoFraud,” said Shaya Posner, CPO and Co-Founder of NoFraud. “As we continue to innovate and build on our success, we’re thrilled to partner with PSG, a team with a long history in software who truly understands our business.”",
+    "url": "https://psgequity.com/news/providence-strategic-growth-invests-in-nofraud",
+    "pass": 3
+   },
+   {
+    "quote": "The investment comes at a time in which the risk of online transaction fraud has not only increased dramatically but is also growing faster than overall e-commerce volume. In recent years, card-not-present fraud has become increasingly prevalent and up to 81% more likely than card-present fraud in the U.S.",
+    "url": "https://psgequity.com/news/providence-strategic-growth-invests-in-nofraud",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Bot and Reseller Detection",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Stop bots and resellers from exploiting discounts",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Stop bots and unauthorized resellers from exploiting discounts, depleting inventory, and ruining your customer experience.",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Credo Beauty Eliminates Reseller Abuse and Return Fraud, Grows Revenue by 2.6% With Wyllo",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“Wyllo has been essential to Credo Beauty’s success in preventing fraud and simplifying operations. From blocking reseller abuse to reducing chargebacks, Wyllo has allowed us to focus on what matters most — our customers and their experience. This partnership has truly elevated our ability to grow while protecting our brand and revenue.”",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Transforming the Fight Against Resellers and Bad Actors",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“Stop playing defense. Yofi helps you prevent abuse before it happens. If you’re serious about stopping resellers, this is the system to do it.”",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Keep more revenue and make representment painless.",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Keep more revenue, and make representment painless and predictable. Wyllo’s AI-driven dispute workflows win more cases with less effort.",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "How Fatty15 Reduced Chargebacks by 63% and Increased Revenue by 3.6% With Wyllo",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Increases by 45%",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Cutting Fraud in Half, Gaining $68,000 in Monthly Revenue",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“If you’re serious about protecting your revenue and customers, Wyllo is an excellent investment. The platform is user-friendly, the support is unmatched, and you have a team right behind you, ready to safeguard your inventory and revenue.”",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Credo Beauty Eliminates Reseller Abuse and Return Fraud, Grows Revenue by 2.6% With Wyllo",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“Wyllo has been essential to Credo Beauty’s success in preventing fraud and simplifying operations. From blocking reseller abuse to reducing chargebacks, Wyllo has allowed us to focus on what matters most — our customers and their experience. This partnership has truly elevated our ability to grow while protecting our brand and revenue.”",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Increasing Revenue by 3.6% and Cutting Chargebacks by 92%",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Order Approvals increase by 2.8% and Adds $175,000 in Revenue",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“Wyllo has changed how we operate entirely. It’s saving us time and money while protecting both our customers and our revenue. Without it, we were manually managing chargebacks and reviews, but now, it’s handled effortlessly. Wyllo is a hidden gem every ecommerce business needs.”",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“Orders get checked faster. Good ones ship quicker. Bad actors get flagged before they commit fraud, allowing my team to spend more time unlocking better customer experiences and drive more revenue with the time savings.”",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "A 1.6% Revenue Lift and 70% Fewer Chargebacks",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“We’re not just approving orders, we’re approving revenue. Wyllo helps us squeeze out incremental revenue from legitimate orders that Shopify would have rejected, and it’s fully automated. That incremental lift continues to grow over time.”",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "An Additional $140,000 in Monthly Revenue With Wyllo & Increases Order Approval Rate by 5%",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlocking Over 3% Revenue Lift to Power Scalable Growth",
+    "url": "https://wyllo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "NoFraud Revenue 2025: $10.3M Est.",
+    "url": "https://getlatka.com/companies/nofraud",
+    "pass": 3
+   },
+   {
+    "quote": "NoFraud has not published its revenue. GetLatka estimates it at about $10.3M a year (September 2025).",
+    "url": "https://getlatka.com/companies/nofraud",
+    "pass": 3
+   },
+   {
+    "quote": "NoFraud CEO, founders & employees",
+    "url": "https://getlatka.com/companies/nofraud",
+    "pass": 3
+   },
+   {
+    "quote": "Scott Gifis founded NoFraud in 2014 and runs it as CEO. NoFraud had 94 employees (November 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/nofraud",
+    "pass": 3
+   },
+   {
+    "quote": "What is NoFraud's revenue?",
+    "url": "https://getlatka.com/companies/nofraud",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates NoFraud's revenue at about",
+    "url": "https://getlatka.com/companies/nofraud",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does NoFraud have?",
+    "url": "https://getlatka.com/companies/nofraud",
+    "pass": 3
+   },
+   {
+    "quote": "employees in November 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/nofraud",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/nofraud",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/nofraud",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/nofraud",
+    "pass": 3
+   },
+   {
+    "quote": "Investment to Support Product Expansion and Client Acquisition",
+    "url": "https://psgequity.com/news/providence-strategic-growth-invests-in-nofraud",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "E-authorization, chargeback protection vs NoFraud ：サイバー ... — E-authorization, chargeback protection vs NoFraud ：サイバー ... Hotel Tech Report https://hoteltechreport.com > 比較",
+    "url": "https://hoteltechreport.com/ja/compare/chargeautomation-authorization-vs-nofraud",
+    "pass": 3
+   },
+   {
+    "quote": "https://portal.nofraud.com/users/sign_in — https://portal.nofraud.com/users/sign_in Wyllo https://portal.nofraud.com > sign_in",
+    "url": "https://portal.nofraud.com/users/sign_in",
+    "pass": 3
+   },
+   {
+    "quote": "Wyllo - Prevent fraud & abuse, protect revenue, & automate ... — Wyllo - Prevent fraud & abuse, protect revenue, & automate ... Shopify App Store https://apps.shopify.com > nofraud-c...",
+    "url": "https://apps.shopify.com/nofraud-chargeback-prevention-and-protection",
+    "pass": 3
+   },
+   {
+    "quote": "よくある質問：Wyllo - Matterport Help Center — よくある質問：Wyllo - Matterport Help Center Matterport https://support.matterport.com > article > FAQ-NoFraud",
+    "url": "https://support.matterport.com/s/article/FAQ-NoFraud?language=ja",
+    "pass": 3
+   },
+   {
+    "quote": "NoFraud - LinkedIn — NoFraud - LinkedIn LinkedIn https://www.linkedin.com > try-nofraud",
+    "url": "https://www.linkedin.com/company/try-nofraud",
+    "pass": 3
+   },
+   {
+    "quote": "Is a NoFraud check legit? : r/Abode - Reddit — Is a NoFraud check legit? : r/Abode - Reddit Reddit https://www.reddit.com > comments",
+    "url": "https://www.reddit.com/r/Abode/comments/7fap9k/is_a_nofraud_check_legit/",
+    "pass": 3
+   },
+   {
+    "quote": "Read Customer Service Reviews of www. nofraud .com — Read Customer Service Reviews of www. nofraud .com Trustpilot https://www.trustpilot.com > review",
+    "url": "https://www.trustpilot.com/review/www.nofraud.com",
+    "pass": 3
+   },
+   {
+    "quote": "NoFraud Revenue 2025: $10.3M Est. - GetLatka — NoFraud Revenue 2025: $10.3M Est. - GetLatka GetLatka https://getlatka.com > nofraud",
+    "url": "https://getlatka.com/companies/nofraud",
+    "pass": 3
+   },
+   {
+    "quote": "NoFraud - Overview, News & Similar companies | ZoomInfo.com — NoFraud - Overview, News & Similar companies | ZoomInfo.com ZoomInfo https://www.zoominfo.com > nofraud",
+    "url": "https://www.zoominfo.com/c/nofraud/415070364",
+    "pass": 3
+   },
+   {
+    "quote": "NoFraud - 2026 Company Profile, Team, Funding & Competitors — NoFraud - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/nofraud/__6S0IL28D1C7vzisZsHH57tcnJBR7PBmFwlPfSuNsOp0",
+    "pass": 3
+   },
+   {
+    "quote": "Leading E-Commerce Security Software NoFraud Announces ... — Leading E-Commerce Security Software NoFraud Announces ... PSG Equity https://psgequity.com > news > provi...",
+    "url": "https://psgequity.com/news/providence-strategic-growth-invests-in-nofraud",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "この開発者は日本語での直接的なサポートを提供していません",
+    "url": "https://apps.shopify.com/nofraud-chargeback-prevention-and-protection?locale=ja",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Enter Your Work Email",
+    "url": "https://psgequity.com/news/providence-strategic-growth-invests-in-nofraud",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "NoFraud - LinkedIn NoFraud - LinkedIn LinkedIn https://www.linkedin.com > try-nofraud",
+    "url": "https://www.linkedin.com/company/try-nofraud",
+    "pass": 3
+   },
+   {
+    "quote": "Rachel Popp - Risk Engine Manager at NoFraud - LinkedIn Rachel Popp - Risk Engine Manager at NoFraud - LinkedIn LinkedIn https://www.linkedin.com > ...",
+    "url": "https://www.linkedin.com/in/rachel-popp-244ba161",
+    "pass": 3
+   },
+   {
+    "quote": "NoFraud Acquires Yofi to Tackle Return Fraud and Abuse NoFraud Acquires Yofi to Tackle Return Fraud and Abuse LinkedIn https://www.linkedin.com > posts > ps...",
+    "url": "https://www.linkedin.com/posts/psgequity_nofraud-has-acquired-yofito-help-tackle-activity-7381690972172099584-qhG2",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "NoFraud | New York NY - Facebook NoFraud | New York NY - Facebook Facebook https://www.facebook.com > ... > Other > Brand > Software",
+    "url": "https://www.facebook.com/nofraud012/",
+    "pass": 3
+   },
+   {
+    "quote": "NO FRAUD - Facebook NO FRAUD - Facebook Facebook https://www.facebook.com > ... > Musician/band",
+    "url": "https://www.facebook.com/p/NO-FRAUD-100052695135397/",
+    "pass": 3
+   },
+   {
+    "quote": "“Guess what? We know there's no fraud .” That's what the ... “Guess what? We know there's no fraud .” That's what the ... Facebook https://www.facebook.com > ... > Videos",
+    "url": "https://www.facebook.com/mnhousegop/videos/guess-what-we-know-theres-no-fraudthats-what-the-democrat-senate-president-said-/2519475628467602/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://wyllo.ai/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jato.com/news-and-insights-japan/%E6%97%A5%E6%9C%AC%E3%81%AEota%E6%90%AD%E8%BC%89%E7%8E%87%E3%81%AF%E3%81%AA%E3%81%9C%E4%BD%8E%E3%81%84%E3%81%AE%E3%81%8B-%E4%B8%96%E7%95%8C4%E3%82%AB%E5%9B%BD%E3%81%A8%E3%81%AE%E6%AF%94%E8%BC%83%E3%81%A7%E8%A6%8B%E3%81%88%E3%82%8B%E8%AA%B2%E9%A1%8C%E3%81%A8%E5%B1%95%E6%9C%9B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=QLwYCSEQ6AI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hoteltechreport.com/ja/compare/chargeautomation-authorization-vs-nofraud",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=m9qq9nQP9KI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://j-dma.org/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jbpress.ismedia.jp/articles/-/59525",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://portal.nofraud.com/users/sign_in",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://wyllo.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apps.shopify.com/nofraud-chargeback-prevention-and-protection?locale=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.matterport.com/s/article/FAQ-NoFraud?language=ja",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vKkO8WVc7gcIVq_nyjsW6LgQC8lCIZKQYkdOrWYgZlW-fgFgvQL",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/Abode/comments/7fap9k/is_a_nofraud_check_legit/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.trustpilot.com/review/www.nofraud.com",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mastercard.com/us/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/nofraud",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/nofraud/415070364",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/nofraud/__6S0IL28D1C7vzisZsHH57tcnJBR7PBmFwlPfSuNsOp0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://psgequity.com/news/providence-strategic-growth-invests-in-nofraud",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/try-nofraud",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/rachel-popp-244ba161",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/psgequity_nofraud-has-acquired-yofito-help-tackle-activity-7381690972172099584-qhG2",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/nofraud012/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/NO-FRAUD-100052695135397/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mnhousegop/videos/guess-what-we-know-theres-no-fraudthats-what-the-democrat-senate-president-said-/2519475628467602/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/try-nofraud",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Nofraud 日本 導入",
+   "results": [
+    "https://www.stellantis.jp/",
+    "https://www.jato.com/news-and-insights-japan/%E6%97%A5%E6%9C%AC%E3%81%AEota%E6%90%AD%E8%BC%89%E7%8E%87%E3%81%AF%E3%81%AA%E3%81%9C%E4%BD%8E%E3%81%84%E3%81%AE%E3%81%8B-%E4%B8%96%E7%95%8C4%E3%82%AB%E5%9B%BD%E3%81%A8%E3%81%AE%E6%AF%94%E8%BC%83%E3%81%A7%E8%A6%8B%E3%81%88%E3%82%8B%E8%AA%B2%E9%A1%8C%E3%81%A8%E5%B1%95%E6%9C%9B",
+    "https://www.youtube.com/watch?v=QLwYCSEQ6AI",
+    "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "https://www.ncsol.co.jp/column/",
+    "https://itbusinesstoday.com/ja/industrial-tech/automotive/japan-will-require-driver-monitoring-systems-in-all-cars-starting-in-2031/",
+    "https://www.goo-net.com/magazine/cartopic/event-report/294321/",
+    "https://response.jp/",
+    "https://webatla.com/ja/technology/nofraud",
+    "https://www.proofpoint.com/jp/newsroom/press-releases/Jp-ranks-last-18-countries-effective-settings-prevent-scam-emails"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Nofraud 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://hoteltechreport.com/ja/compare/chargeautomation-authorization-vs-nofraud",
+    "https://www.youtube.com/watch?v=m9qq9nQP9KI",
+    "https://j-dma.org/",
+    "https://jbpress.ismedia.jp/articles/-/59525",
+    "https://dentsu-ho.com/articles/3212",
+    "https://www.monde-selection.com/ja/agents-jp/",
+    "https://www.asteal.co.jp/partner.html",
+    "https://www.fout.co.jp/freakout/solution/",
+    "https://protrad.jp/about-protrad/",
+    "https://j-dma.org/trouble"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Nofraud Japan",
+   "results": [
+    "https://portal.nofraud.com/users/sign_in",
+    "https://wyllo.ai/",
+    "https://apps.shopify.com/nofraud-chargeback-prevention-and-protection",
+    "https://support.matterport.com/s/article/FAQ-NoFraud?language=ja",
+    "https://www.linkedin.com/company/try-nofraud",
+    "https://www.appsruntheworld.com/customers-database/products/view/nofraud",
+    "https://www.pondvalue.com/frequently-asked-questions-about-nofraud/",
+    "https://www.about-fraud.com/providers/nofraud/",
+    "https://ecommercetech.io/apps/nofraud",
+    "https://japanantifraud.org/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Nofraud manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vKkO8WVc7gcIVq_nyjsW6LgQC8lCIZKQYkdOrWYgZlW-fgFgvQL",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.reddit.com/r/Abode/comments/7fap9k/is_a_nofraud_check_legit/",
+    "https://www.trustpilot.com/review/www.nofraud.com",
+    "https://markforged.com/resources/case-studies",
+    "https://www.flexwareinnovation.com/case-studies/",
+    "https://data.landbase.com/technology/nofraud/",
+    "https://www.industryweek.com/leadership/strategic-planning-execution/article/21261091/winning-with-customer-case-studies-4-tips-6-pitfalls",
+    "https://www.nofraud.la/en/home/",
+    "https://www.casestudies.com/company/nofraud/case-study/when-it-comes-to-fraud-prevention-attention-to-detail-rocks"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Nofraud white label OR reseller OR partner program",
+   "results": [
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "https://www.mastercard.com/us/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "https://payproglobal.com/how-to/start-white-label-saas/",
+    "https://www.reddit.com/r/startups/comments/w857z8/b2b_white_label_saas_reselling/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Nofraud founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/nofraud",
+    "https://www.zoominfo.com/c/nofraud/415070364",
+    "https://tracxn.com/d/companies/nofraud/__6S0IL28D1C7vzisZsHH57tcnJBR7PBmFwlPfSuNsOp0",
+    "https://psgequity.com/news/providence-strategic-growth-invests-in-nofraud",
+    "https://www.linkedin.com/company/try-nofraud",
+    "https://www.crunchbase.com/organization/wyllo",
+    "https://pitchbook.com/profiles/company/265129-75",
+    "https://www.caplight.com/company/nofraud",
+    "https://www.newswire.com/news/nofraud-acquires-yofi-ai-to-tackle-100b-a-year-return-fraud-and-abuse-22653359",
+    "https://compworth.com/company/nofraud"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:note.com Nofraud",
+   "results": [
+    "https://note.com/junyatakemura/n/na3310948beba?hl=en",
+    "https://note.com/tatsunoji/n/n52fe007716f9?hl=en",
+    "https://note.com/adifjapan_am_spt/n/ncbcc6a2570fc",
+    "https://note.com/ec_zoe/n/n8b45a985c4dc",
+    "https://note.com/oponoponoxd/n/n0c64adf023c6?hl=en",
+    "https://note.com/sainokunimansion/n/n6267e3b570ce?hl=en",
+    "https://note.com/tomokind_zatta/n/n645c76e9e945?hl=en",
+    "https://note.com/natty_seal74/n/n02bbf73a2d57?hl=en",
+    "https://note.com/hot_snake9173/n/nf1f3d91e2f2c?hl=en",
+    "https://note.com/quiet_fennel3192/n/nba5ee1d0241d?hl=en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com Nofraud",
+   "results": [
+    "https://x.com/DOLOIG/status/2095595820825382998",
+    "https://x.com/corewarellc/status/2072059112922263769",
+    "https://x.com/SenThomTillis/status/2105363828556845202",
+    "https://x.com/BenHorney/status/2117345977799516553",
+    "https://x.com/DailySabah/status/2117923761496215683",
+    "https://x.com/USLaborIG/status/2115793870470705425",
+    "https://x.com/BenHorney/status/2117631992128778651",
+    "https://x.com/vikpai/status/2115322390163210725",
+    "https://x.com/AP/status/2117869374774104574",
+    "https://x.com/pmddomingos/status/2116377728752726472"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com Nofraud",
+   "results": [
+    "https://www.linkedin.com/company/try-nofraud",
+    "https://www.linkedin.com/in/rachel-popp-244ba161",
+    "https://www.linkedin.com/in/lisawashington",
+    "https://www.linkedin.com/posts/psgequity_nofraud-has-acquired-yofito-help-tackle-activity-7381690972172099584-qhG2",
+    "https://www.linkedin.com/in/jamiemckeon",
+    "https://www.linkedin.com/company/-wyllo-ai",
+    "https://www.linkedin.com/in/hallie-guardo-54538094",
+    "https://www.linkedin.com/posts/benxweiss_scott-gifis-founder-of-wyllo-formerly-nofraud-activity-7446049944949387264-ePzG",
+    "https://www.linkedin.com/company/nf-security",
+    "https://mx.linkedin.com/company/nf-security"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Nofraud",
+   "results": [
+    "https://www.facebook.com/nofraud012/",
+    "https://www.facebook.com/p/NO-FRAUD-100052695135397/",
+    "https://www.facebook.com/mnhousegop/videos/guess-what-we-know-theres-no-fraudthats-what-the-democrat-senate-president-said-/2519475628467602/",
+    "https://www.facebook.com/VicePresident/posts/vp-vance-at-white-house-fraud-task-force-eventno-fraud-is-too-small-if-you-tried/122176670528723844/",
+    "https://www.facebook.com/NCBJa/posts/fraud-or-no-fraud-we-helped-our-senior-customers-learn-the-warning-signs-of-frau/1562908899204624/",
+    "https://www.facebook.com/kcrgtv9/posts/iowa-city-schools-financial-report-finds-no-fraud/1595216168637350/",
+    "https://www.facebook.com/VicePresident/videos/vp-vance-at-white-house-fraud-task-force-eventno-fraud-is-too-small-if-you-tried/2343241229813467/",
+    "https://www.facebook.com/wsls10/posts/israels-election-commission-says-it-has-found-no-fraud-in-last-weeks-vote-dealin/1441035214850636/",
+    "https://www.facebook.com/mnhousegop/posts/guess-what-we-know-theres-no-fraudthats-what-the-democrat-senate-president-said-/1411683991006875/",
+    "https://www.facebook.com/syracusecom/posts/after-disorganized-hearing-judge-rules-no-fraud-in-district-16-legislative-race/1467796168719045/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Nofraud note 社長",
+   "results": [
+    "https://wyllo.ai/",
+    "https://www.nofraud.la/",
+    "https://www.linkedin.com/company/try-nofraud",
+    "https://getlatka.com/companies/nofraud",
+    "https://psgequity.com/news/providence-strategic-growth-invests-in-nofraud",
+    "https://www.zoominfo.com/c/nofraud/415070364",
+    "https://note.com/sadaaki",
+    "https://x.com/sadaaki",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Nofraud X 投稿",
+   "results": [
+    "https://developers.nofraud.com/transaction-api",
+    "https://www.x-payments.com/help/X-Payments:NoFraud_fraud_prevention",
+    "https://wyllo.ai/",
+    "https://www.pondvalue.com/frequently-asked-questions-about-nofraud/",
+    "https://www.drupal.org/project/nofraud",
+    "https://humann.com/blogs/knowledge-center/what-is-nofraud-and-why-did-i-get-an-email-from-them?srsltid=AYCX9vKO8HDSbUIX2x8-kveDitkSxgBQj4YK6Oz3ezoA5k7rZXABB_x4",
+    "https://www.trustpilot.com/review/www.nofraud.com",
+    "https://www.nofraud.la/",
+    "https://x.com/NoFraud",
+    "https://x.com/i/trending/2057034024460390444"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

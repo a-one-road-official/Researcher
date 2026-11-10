@@ -1,0 +1,1110 @@
+{
+ "name": "Liftigniter",
+ "aliases": [],
+ "context": "旧営業リスト｜Personalization & Recommendation Engine｜未接触",
+ "researched_at": "2026-11-10T00:24:56.532615+00:00",
+ "official_url": "https://www.thearenagroup.net/liftigniter",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "An AI technology company. One centralized, AI-optimized infrastructure that puts the tools, data, and reach media entrepreneurs could never build alone directly into their hands.",
+    "url": "https://paradium.ai",
+    "pass": 1
+   },
+   {
+    "quote": "One to generate language from live data, one to create video at machine volume, and one to monetize and personalize every impression. Every partner gets the full stack on day one.",
+    "url": "https://paradium.ai",
+    "pass": 1
+   },
+   {
+    "quote": "An industry leader in automated, data-driven natural language generation. Infosentience turns live structured data into accurate, on-brand stories. AI content at scale, running in production today.",
+    "url": "https://paradium.ai",
+    "pass": 1
+   },
+   {
+    "quote": "Our proprietary video production engine that transforms and distributes video content and accompanying articles. Long-form video and audio come in; publish-ready cut-downs, captions, and posts go out, then straight to every channel an audience already lives on.",
+    "url": "https://paradium.ai",
+    "pass": 1
+   },
+   {
+    "quote": "The engine behind Paradium.AI's monetization and personalization. Encore reads first-party signals and matches the right content, offer, and format to every person, so the same audience earns more.",
+    "url": "https://paradium.ai",
+    "pass": 1
+   },
+   {
+    "quote": "President, Business Operations",
+    "url": "https://paradium.ai",
+    "pass": 1
+   },
+   {
+    "quote": "Principal Financial Officer",
+    "url": "https://paradium.ai",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Programmatic, Addressability & Ops",
+    "url": "https://paradium.ai",
+    "pass": 1
+   },
+   {
+    "quote": "VP, Integrated Marketing",
+    "url": "https://paradium.ai",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Video & Social",
+    "url": "https://paradium.ai",
+    "pass": 1
+   },
+   {
+    "quote": "GM & Chief Content Officer, Lifestyle",
+    "url": "https://paradium.ai",
+    "pass": 1
+   },
+   {
+    "quote": "We're building the infrastructure that puts world-class tools, data, and reach into the hands of media entrepreneurs. Come build it with us.",
+    "url": "https://paradium.ai",
+    "pass": 1
+   },
+   {
+    "quote": "ビーコンは、Webサイトで収集したユーザーの情報などをLiftIgnerのAPI（Apprication Programming Interface）サーバーに送る",
+    "url": "https://active.nikkeibp.co.jp/atclact/active/14/530956/031500056/",
+    "pass": 3
+   },
+   {
+    "quote": "As the e-commerce and media market grows, personalization based on sparse data points and real-time action by users has demonstrated the ability to significantly improve sales and customer engagement.",
+    "url": "https://www.nttdocomo-v.com/en/news/sgzu31mczf/",
+    "pass": 3
+   },
+   {
+    "quote": "NTT DOCOMO Ventures will use LiftIgniter to help improve and increase the value of e-commerce services provided by NTT DOCOMO, NTT DOCOMO’s group companies, and NTT DOCOMO’s partner companies.",
+    "url": "https://www.nttdocomo-v.com/en/news/sgzu31mczf/",
+    "pass": 3
+   },
+   {
+    "quote": "In our view, pitching a personalization API comparable to Twilio overlooked that while sending text messages is a commodity utility, handing customer recommendation algorithms to an external black-box API rarely survives enterprise scrutiny.",
+    "url": "https://manyfails.com/fails/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "LiftIgniter developed a real-time machine learning personalization API designed to optimize content, articles, and e-commerce product recommendations for digital publishers and retailers without requiring manual tagging.",
+    "url": "https://manyfails.com/fails/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "Product and company names are used for identification only.",
+    "url": "https://manyfails.com/fails/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": ". The platform provided a cloud-based API that observed visitor behavior and dynamically served customized content recommendations, such as related articles, videos, or e-commerce items, without requiring manual metadata tagging",
+    "url": "https://manyfails.com/fails/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": ". Developers integrated the service directly into websites and mobile applications to trigger algorithmic responses for each individual impression",
+    "url": "https://manyfails.com/fails/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": ". The company positioned its API as an infrastructure layer for dynamic digital properties, likening its personalization service to utility APIs like Twilio or Stripe",
+    "url": "https://manyfails.com/fails/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": ". Enterprise clients across media, publishing, and retail utilized the technology to automate recommendation widgets across desktop web, mobile web, and mobile application interfaces",
+    "url": "https://manyfails.com/fails/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": ". The machine learning models updated continuously to align recommendations with shifting user interest and inventory changes across client properties",
+    "url": "https://manyfails.com/fails/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "E2 ×1 · E4 ×3 · product description claim rests on one",
+    "url": "https://manyfails.com/fails/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": ". By September 2015, the company announced that its recommendation engine was processing billions of automated interactions each month across publisher and retail partner sites",
+    "url": "https://manyfails.com/fails/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": ". LiftIgniter reported that its machine learning models generated twenty to one hundred percent improvements in click-through rates compared to traditional baseline averages",
+    "url": "https://manyfails.com/fails/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "In late 2016, the startup presented as a finalist during the TechCrunch Disrupt London startup competition",
+    "url": "https://manyfails.com/fails/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": ". In December 2017, the team broadened its product suite by introducing personalized machine-learned recommendations for email campaigns",
+    "url": "https://manyfails.com/fails/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "In our view, selling an algorithmic enhancement as a standalone API requires proving that the operational complexity of a third-party integration yields durable revenue gains that commodity platform features cannot match.",
+    "url": "https://manyfails.com/fails/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "Founders building personalization services should verify whether target customers consider recommendation logic a core proprietary asset or a commoditized add-on best provided by existing marketing clouds.",
+    "url": "https://manyfails.com/fails/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "When providing B2B machine learning utilities, businesses must establish network effects or proprietary data moats before open-source tooling and cloud providers lower the cost of building internal alternatives.",
+    "url": "https://manyfails.com/fails/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "In our view, LiftIgniter struggled with the classic feature-versus-product dilemma inherent to standalone personalization engines.",
+    "url": "https://manyfails.com/fails/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "Working with publisher and e-commerce websites, LiftIgniter dramatically increases website visitors' click through rates with automated personalized recommendations for additional content at every interaction point. For example, if a user clicks on shoes, LiftIgniter's personalization technology will show additional items to complete a personalized outfit.",
+    "url": "https://manyfails.com/fails/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "The company achieves 20 to 100-percent improvement in click through rates, engagement and conversion for clients -- a significant increase from the 3 to 10-percent average.",
+    "url": "https://manyfails.com/fails/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "\"LiftIgniter's experienced team of top quant PhDs and its strong proprietary technology accurately forecast and react to website visitors' preferences without human oversight, which was never before possible,\" said Jeff Epstein. \"We continue to see huge promise and potential from LiftIgniter.\"",
+    "url": "https://manyfails.com/fails/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "Built with Google Prize, Runner-Up ($500K in GCP Credit) - LiftIgniter",
+    "url": "https://manyfails.com/fails/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "LiftIgniter, the personalization API known for being the top of their class in Machine Learning Engine for websites and apps, announces the next in their product line, Personalized AI machine learned email.",
+    "url": "https://manyfails.com/fails/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "LiftIgniter Company Profile | Management and Employees List",
+    "url": "https://manyfails.com/fails/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "Liftigniter: Machine Learning personalization for dynamic digital properties -… | Y Combinator",
+    "url": "https://manyfails.com/fails/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": ", product_description",
+    "url": "https://manyfails.com/fails/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "LiftIgniter is a machine learning platform that enables personalization across every digital touchpoint, every type of content, every device and every language. Integrate their once and you can personalize everywhere. Expect 80%+ improvements for minutes of integration and monthly maintenance time.",
+    "url": "https://www.casestudies.com/company/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "How LiftIgniter helped Ranker increase related content clicks by 50% overnight!",
+    "url": "https://www.casestudies.com/company/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "Coveo brings superior AI-Relevance to every point-of-experience, transforming how enterprises connect with their customers and employees to maximize business outcomes. Relevance is about moving from persona to person, the degree …",
+    "url": "https://www.featuredcustomers.com/vendor/liftigniter/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Dynamic Yield is an AI-powered Personalization Anywhere™ platform that delivers individualized experiences at every customer touchpoint: web, apps, email, kiosks, IoT, and call centers. The platform’s data management capabilities provide …",
+    "url": "https://www.featuredcustomers.com/vendor/liftigniter/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Adobe Target is a complete optimization solution that allows data-driven marketers to rapidly experiment and create high-converting personalized experiences. The Adobe Target team shares training material, quick tips, tutorials and …",
+    "url": "https://www.featuredcustomers.com/vendor/liftigniter/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Let potential prospects find you on the world's only",
+    "url": "https://www.featuredcustomers.com/vendor/liftigniter/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/liftigniter/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "FREE and learn about our upgraded profile options to",
+    "url": "https://www.featuredcustomers.com/vendor/liftigniter/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "unlock all of your customer references for prospects",
+    "url": "https://www.featuredcustomers.com/vendor/liftigniter/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/liftigniter/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Oracle NetSuite Procurement",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "Oracle JD Edwards EnterpriseOne",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "Exterro Zapproved ZDiscovery",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "Pacific Coast Producers",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "Oracle Procurement Cloud",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "Professional Services",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "around the world, aggregating massive amounts of data points that form the basis of our forecast assumptions and perhaps the rise and fall of certain vendors and their products on a quarterly basis.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "Personalization and Product Recommendations",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "The LiftIgniter customer wins are being incorporated in our Enterprise Applications Buyer Insight and Technographics Customer Database which has over 100 data fields that detail company usage of software systems and their digital transformation initiatives. Apps Run The World wants to become your No. 1 technographic data source!",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "In 2021, Bitcoin Magazine deployed LiftIgniter on its website as a live personalization layer. LiftIgniter is implemented as the Personalization and Product Recommendations solution to serve contextual content and product suggestions across site pages and article templates.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/liftigniter",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "While we supercharge with AI, our people remain at the absolute core of the business. This technology is designed to elevate our teams, not replace them. Bleeding-edge tools in the hands of the operators who know what to do with them.",
+    "url": "https://paradium.ai",
+    "pass": 1
+   },
+   {
+    "quote": "1 Liftigniter Case Study, Success Story, & Customer Story | FeaturedCustomers",
+    "url": "https://www.featuredcustomers.com/vendor/liftigniter/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/liftigniter/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: LiftIgniter achieves billion-event personalization scale and up to 240% higher CTR with Google Cloud Platform | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/google-cloud-platform/case-study/liftigniter-creating-more-personalized-profitable-digital-experiences-with-machine-learning",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: LiftIgniter achieves billion-event personalization scale and up to 240% higher CTR with Google Cloud Platform",
+    "url": "https://www.casestudies.com/company/google-cloud-platform/case-study/liftigniter-creating-more-personalized-profitable-digital-experiences-with-machine-learning",
+    "pass": 3
+   },
+   {
+    "quote": "Open case study document...",
+    "url": "https://www.casestudies.com/company/google-cloud-platform/case-study/liftigniter-creating-more-personalized-profitable-digital-experiences-with-machine-learning",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/google-cloud-platform/case-study/liftigniter-creating-more-personalized-profitable-digital-experiences-with-machine-learning",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本ではNTTドコモのほか、リクルートのオンライン通販サイト「ポンパレモール」がページ内の「あなたへのおすすめ」のところでLiftIgniterを導入している",
+    "url": "https://active.nikkeibp.co.jp/atclact/active/14/530956/031500056/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス情報、導入事例などのコンテンツを多数掲載しています",
+    "url": "https://active.nikkeibp.co.jp/atclact/active/14/530956/031500056/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "mailto:info@nttdocomo-v.com",
+    "url": "https://www.nttdocomo-v.com/en/news/sgzu31mczf/",
+    "pass": 3
+   },
+   {
+    "quote": ". In December 2017, the team broadened its product suite by introducing personalized machine-learned recommendations for email campaigns",
+    "url": "https://manyfails.com/fails/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "LiftIgniter announces an expansion into personalized machine-learned recommendations for email campaigns.",
+    "url": "https://manyfails.com/fails/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "LiftIgniter, the personalization API known for being the top of their class in Machine Learning Engine for websites and apps, announces the next in their product line, Personalized AI machine learned email.",
+    "url": "https://manyfails.com/fails/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "Dynamic Yield is an AI-powered Personalization Anywhere™ platform that delivers individualized experiences at every customer touchpoint: web, apps, email, kiosks, IoT, and call centers. The platform’s data management capabilities provide …",
+    "url": "https://www.featuredcustomers.com/vendor/liftigniter/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/liftigniter/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/liftigniter/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us if you need a completed and verified list of companies using LiftIgniter, including the breakdown by industry (21 Verticals), Geography (Region, Country, State, City), Company Size (Revenue, Employees, Asset) and related IT Decision Makers, Key Stakeholders, business and technology executives responsible for the software purchases.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/63692-02",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "LiftIgniter — パーソナライズドコンテンツ推薦 — LiftIgniter の導入はどう始めますか？ 推薦ウィジェット、カタログ範囲、レポート要件を定義したうえで、JavaScript SDK または REST API で統合します。 LiftIgniter のサポートドキュメントと Postman コレクションでエンドポイント設定を支援します。",
+    "url": "https://bataitools.com/ja/tools/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "LiftIgniter | パーソナライズのためのリアルタイム機械学習 | Creati... — Jun 16, 2026 · LiftIgniterは、リアルタイムでコンテンツと製品の推奨をパーソナライズする機械学習プラットフォームであり、コンバージョンを最適化し、ユーザーエンゲージメントを向上させます。",
+    "url": "https://creati.ai/ja/ai-tools/liftigniter-com/",
+    "pass": 3
+   },
+   {
+    "quote": "ドコモが採用したAIレコメンドエンジン、ルール不要で「コンバージョ... — Mar 26, 2018 · 米Petametrics（ペタメトリクス）が開発した「LiftIgniter（リフトイグナイター）」は機械学習技術により最適なWebコンテンツを提案するレコメンデーションエンジンである。 NTTドコモが「dショッピング」や「dfashon」に導入し、高い実績を挙げた。",
+    "url": "https://active.nikkeibp.co.jp/atclact/active/14/530956/031500056/",
+    "pass": 3
+   },
+   {
+    "quote": "Investment in Petametrics, Inc. - NTT DOCOMO Ventures, Inc. — Aug 23, 2017 · NTT DOCOMO Ventures, Inc. (headquartered in Minato-ku, Tokyo, Japan; President & CEO, Toshiki Nakayama), has invested in Petametrics, Inc., a U.S.-based start-up that provides “LiftIgniter”, a personalization API to deliver a wholly unique experience to every individual user impression.",
+    "url": "https://www.nttdocomo-v.com/en/news/sgzu31mczf/",
+    "pass": 3
+   },
+   {
+    "quote": "LiftIgniterの概要 — LiftIgniterの [ビーコン]をWebサイトに組み込むことで、ユーザがWebページを開くと同時に、下記の3つのことを実現します。 Webページ上の [アイテム]に関する情報（URL、ページタイトル、デスクリプションなど、お客様が提供される情報）の収集。",
+    "url": "https://liftigniterjp.readme.io/reference/introduction",
+    "pass": 3
+   },
+   {
+    "quote": "LiftIgniter - LinkedIn — LiftIgniter helps companies benefit from real-time machine learning-based recommendations using first-party data in their digital properties (web, mobile, email, push, etc), in sections like ...",
+    "url": "https://www.linkedin.com/company/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "Liftigniter: what happened and why it failed - manyfails.com — Sep 26, 2026 · Why did Liftigniter fail? In our view, LiftIgniter struggled with the classic feature-versus-product dilemma inherent to standalone personalization engines.",
+    "url": "https://manyfails.com/fails/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "LiftIgniter - Login — Forgot?",
+    "url": "https://console.liftigniter.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Liftigniter B2B Case Studies & Customer Successes — See how Liftigniter solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "1 Liftigniter Case Study, Success Story, & Customer Story — Browse Liftigniter case studies and success stories to help make the right purchasing decision.",
+    "url": "https://www.featuredcustomers.com/vendor/liftigniter/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "List of LiftIgniter Customers - Apps Run The World — Since 2010, our global team of researchers has been studying LiftIgniter customers around the world, aggregating massive amounts of data points that form the basis of our forecast assumptions and perhaps the rise and fall of certain vendors and their products on a quarterly basis.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: LiftIgniter achieves billion-event ... — LiftIgniter helps companies deliver real-time, personalized content and recommendations using machine learning, but faced the challenge of running sophisticated personalization at scale while controlling costs and staying focused on product development.",
+    "url": "https://www.casestudies.com/company/google-cloud-platform/case-study/liftigniter-creating-more-personalized-profitable-digital-experiences-with-machine-learning",
+    "pass": 3
+   },
+   {
+    "quote": "List of LiftIgniter Customers - Apps Run The World — List of companies using or evaluating LiftIgniter applications, with details on their revenues, employees, industries, and locations.",
+    "url": "https://www.appsruntheworld.com/customers-database/vendors/view/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "LiftIgniter - $5.8 M Revenue, Employees & Growth | Kona Equity — LiftIgniter has an estimated annual revenue of $5.8 M, 30 employees, headquartered in San Bruno, CA, founded in 2014. Explore LiftIgniter revenue history, growth rate, competitors, and more in the Corporate Office industry.",
+    "url": "https://www.konaequity.com/company/liftigniter-4393852311/",
+    "pass": 3
+   },
+   {
+    "quote": "LiftIgniter 2026 Company Profile: Valuation, Investors ...LiftIgniter – Revenue Estimate & Market Landscape – 2026LiftIgniter - 2026 Company Profile, Team, Funding ... - TracxnLiftIgniter - Overview, News & Similar companies | ZoomInfo.comLiftigniter: Funding, Team & Investors | Startup IntrosLiftIgniter - Crunchbase Company Profile & Funding — Information on acquisition, funding, cap tables, inve",
+    "url": "https://pitchbook.com/profiles/company/63692-02",
+    "pass": 3
+   },
+   {
+    "quote": "LiftIgniter – Revenue Estimate & Market Landscape – 2026 — Discover LiftIgniter's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "LiftIgniter - 2026 Company Profile, Team, Funding ... - Tracxn — Mar 12, 2026 · LiftIgniter is an acquired company based in San Francisco (United States), founded in 2013 by Adam Spector. It operates as a Website and App personalisation using machine learning in real time.",
+    "url": "https://tracxn.com/d/companies/liftigniter/__xzKL5PNwgn9_1FayDWhapI3Rqlm4Rr5t8ELW7tTCKt4",
+    "pass": 3
+   },
+   {
+    "quote": "LiftIgniter - Overview, News & Similar companies | ZoomInfo.com — LiftIgniter is a machine learning company based in San Francisco. Our team of top engineers produces dramatic improvements in click-through-rates (CTR), engagement and conversion for publishers, media, and e-commerce companies.",
+    "url": "https://www.zoominfo.com/c/liftigniter/365431590",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": ". Directory records eventually listed the company as having reached thirty employees and over one hundred thirty client deployments before being acquired",
+    "url": "https://manyfails.com/fails/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "In our view, selling an algorithmic enhancement as a standalone API requires proving that the operational complexity of a third-party integration yields durable revenue gains that commodity platform features cannot match.",
+    "url": "https://manyfails.com/fails/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "LiftIgniter: Revenue, Competitors, Alternatives",
+    "url": "https://manyfails.com/fails/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "LiftIgniter Company Profile | Management and Employees List",
+    "url": "https://manyfails.com/fails/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": ", revenue",
+    "url": "https://manyfails.com/fails/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": ", employees",
+    "url": "https://manyfails.com/fails/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "supports: acquisition",
+    "url": "https://manyfails.com/fails/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "Coveo brings superior AI-Relevance to every point-of-experience, transforming how enterprises connect with their customers and employees to maximize business outcomes. Relevance is about moving from persona to person, the degree …",
+    "url": "https://www.featuredcustomers.com/vendor/liftigniter/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/liftigniter/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Marriott International",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": ", a India based Media organisation with 250 employees and revenues of $120.0 million,",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": ", a United States based Media organisation with 175 employees and revenues of $40.0 million,",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": ", a United States based Insurance organisation with 300 employees and revenues of $35.0 million,",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": ", a India based Media organisation with 65 employees and revenues of $34.0 million,",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": ", a United States based Media organisation with 120 employees and revenues of $25.0 million and many others.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us if you need a completed and verified list of companies using LiftIgniter, including the breakdown by industry (21 Verticals), Geography (Region, Country, State, City), Company Size (Revenue, Employees, Asset) and related IT Decision Makers, Key Stakeholders, business and technology executives responsible for the software purchases.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "Companies using LiftIgniter range from small businesses with 0-100 employees - 87.5%, to mid-sized firms with 101-1,000 employees - 12.5%, large organizations with 1,001-10,000 employees - 0%, and global enterprises with 10,000+ employees - 0%.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "Q7. What is the breakdown by revenue of companies using LiftIgniter?",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "Customers of LiftIgniter include firms across all revenue levels — from $0-100M, to $101M-$1B, $1B-$10B, and $10B+ global corporations.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "Contact APPS RUN THE WORLD to access the full verified LiftIgniter customer database with detailed Firmographics such as industry, geography, revenue, and employee breakdowns as well as key decision makers in charge of Personalization and Product Recommendations.",
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "LiftIgniter 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/63692-02",
+    "pass": 3
+   },
+   {
+    "quote": "7. Merger/Acquisition",
+    "url": "https://pitchbook.com/profiles/company/63692-02",
+    "pass": 3
+   },
+   {
+    "quote": "LiftIgniter has 14 total employees.",
+    "url": "https://pitchbook.com/profiles/company/63692-02",
+    "pass": 3
+   },
+   {
+    "quote": "What is LiftIgniter’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/63692-02",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for LiftIgniter is",
+    "url": "https://pitchbook.com/profiles/company/63692-02",
+    "pass": 3
+   },
+   {
+    "quote": "When was LiftIgniter acquired?",
+    "url": "https://pitchbook.com/profiles/company/63692-02",
+    "pass": 3
+   },
+   {
+    "quote": "LiftIgniter was acquired on 09-Mar-2020.",
+    "url": "https://pitchbook.com/profiles/company/63692-02",
+    "pass": 3
+   },
+   {
+    "quote": "Who acquired LiftIgniter?",
+    "url": "https://pitchbook.com/profiles/company/63692-02",
+    "pass": 3
+   },
+   {
+    "quote": "LiftIgniter was acquired by",
+    "url": "https://pitchbook.com/profiles/company/63692-02",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Content recommendations play a pivotal part in keeping users ... Content recommendations play a pivotal part in keeping users engaged. This is often entirely based on related content or tags instead of the content that is actually relevant to a user. Together with LiftIgniter, we resolve this issue. Learn more at streamone.tv/smartads/ 💬0 🔄2 🤍4 0 📎",
+    "url": "https://x.com/StreamOneTV/status/937637800949796864",
+    "pass": 3
+   },
+   {
+    "quote": "Stefan Birrer (@stefanbirrer) / X PhenixP2P selected #TCDisrupt London #Startupbattlefield finalist! Excited to pitch alongside @ inside_dna @ LiftIgniter @Oxehealth @ _seenit",
+    "url": "https://x.com/stefanbirrer",
+    "pass": 3
+   },
+   {
+    "quote": "@liftigniter | X The latest posts from @liftigniter",
+    "url": "https://x.com/liftigniter",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "LiftIgniter - LinkedIn Personalize your customer experience with a real-time recommendation engine | LiftIgniter helps companies benefit from real-time machine learning-based recommendations using first-party data in...",
+    "url": "https://www.linkedin.com/company/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "LiftIgniter - LinkedIn About LiftIgniter's proprietary machine learning model uses first-party behavioral data to personalize content and product recommendations in milliseconds.",
+    "url": "https://www.linkedin.com/products/liftigniter",
+    "pass": 3
+   },
+   {
+    "quote": "Aeron Terry - Improving Customer Experience through ...Tabarak Zitawi - Software Engineering Student | Aspiring Full ...Narek Vardzelyan - Senior Full-Stack Software Engineer ...Sahil Agarwal - Software Engineer | LinkedInRahul Raj - Engineering Manager @ New Relic | Leading AI ... Driven by machine learning and a sophisticated cloud-based platform, LiftIgniter powered recommendations on billions ",
+    "url": "https://uk.linkedin.com/in/aeronterry",
+    "pass": 3
+   },
+   {
+    "quote": "Narek Vardzelyan - Senior Full-Stack Software Engineer ...Sahil Agarwal - Software Engineer | LinkedInRahul Raj - Engineering Manager @ New Relic | Leading AI ... Instrumental in integrating key features like payment processing and AI-driven suggestion tools (LiftIgniter and a Microsoft tool), enhancing user experience. Also focused on extensive debugging... Software Engineer LiftIgniter Sep 2017 ",
+    "url": "https://am.linkedin.com/in/narek-vardzelyan-a52768b8",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "LiftIgniter - FacebookLiftIgniter - Check out the most recent Liftigniter... | FacebookLiftIgniter - EXCITING NEWS! As of today, LiftIgniter is ...LiftIgniter - Reviving Email with Personalized Email MarketingLiftIgniter - Our new website is live! Check out ... - FacebookLiftIgniter - E-commerce Personalization: Are You Putting ...LiftIgniter - Simple personalization based on general... Mar 19, 20",
+    "url": "https://www.facebook.com/liftigniter/",
+    "pass": 3
+   },
+   {
+    "quote": "LiftIgniter - Check out the most recent Liftigniter... | Facebook Jul 17, 2019 · Check out the most recent Liftigniter article and learn how you can create a truly satisfying user experience that maximizes website revenue....",
+    "url": "https://www.facebook.com/liftigniter/posts/check-out-the-most-recent-liftigniter-article-and-learn-how-you-can-create-a-tru/1580911962045442/",
+    "pass": 3
+   },
+   {
+    "quote": "LiftIgniter - EXCITING NEWS! As of today, LiftIgniter is ... Mar 19, 2020 · EXCITING NEWS! As of today, LiftIgniter is joining Maven to continue our vision of providing the industry’s best website and app recommendations! See...",
+    "url": "https://www.facebook.com/liftigniter/posts/1825056480964321/",
+    "pass": 3
+   },
+   {
+    "quote": "LiftIgniter - Reviving Email with Personalized Email Marketing LiftIgniter · Sdrstneoope42g3150yFbt81r6l15u,a0laaic000h42u41741u5ta6r84 · Shared with Public Reviving Email with Personalized Email Marketing liftigniter.com Reviving Email with Personalized Email Marketing | LiftIgniter",
+    "url": "https://www.facebook.com/liftigniter/posts/reviving-email-with-personalized-email-marketing/1159652647504711/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://paradium.ai",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://paradium.ai/assets/logos/thestreet.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://paradium.ai/assets/logos/parade.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://paradium.ai/assets/logos/mens-journal.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://paradium.ai/assets/logos/athlon-sports.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://bataitools.com/ja/tools/liftigniter",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://creati.ai/ja/ai-tools/liftigniter-com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://active.nikkeibp.co.jp/atclact/active/14/530956/031500056/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nttdocomo-v.com/en/news/sgzu31mczf/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://liftigniterjp.readme.io/reference/introduction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/liftigniter",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://manyfails.com/fails/liftigniter",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://creati.ai/ja/ai-tools/liftigniter-com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/liftigniter",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/liftigniter/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/liftigniter",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/google-cloud-platform/case-study/liftigniter-creating-more-personalized-profitable-digital-experiences-with-machine-learning",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.konaequity.com/company/liftigniter-4393852311/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/63692-02",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/liftigniter",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/liftigniter/__xzKL5PNwgn9_1FayDWhapI3Rqlm4Rr5t8ELW7tTCKt4",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/StreamOneTV/status/937637800949796864",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/stefanbirrer",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/liftigniter",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/liftigniter",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/aeronterry",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://am.linkedin.com/in/narek-vardzelyan-a52768b8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/liftigniter/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/liftigniter/posts/check-out-the-most-recent-liftigniter-article-and-learn-how-you-can-create-a-tru/1580911962045442/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/liftigniter/posts/1825056480964321/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/liftigniter/posts/reviving-email-with-personalized-email-marketing/1159652647504711/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/liftigniter",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Liftigniter 日本 導入",
+   "results": [
+    "https://bataitools.com/ja/tools/liftigniter",
+    "https://creati.ai/ja/ai-tools/liftigniter-com/",
+    "https://active.nikkeibp.co.jp/atclact/active/14/530956/031500056/",
+    "https://www.nttdocomo-v.com/en/news/sgzu31mczf/",
+    "https://car.watch.impress.co.jp/docs/news/2153268.html",
+    "https://kuruma-news.jp/post/1131871",
+    "https://global.honda/jp/news/2026/4260305b.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Liftigniter 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.lightning-jpn.com/",
+    "https://www.capgemini.com/jp-jp/about-us/overview-and-access/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Liftigniter Japan",
+   "results": [
+    "https://liftigniterjp.readme.io/reference/introduction",
+    "https://www.linkedin.com/company/liftigniter",
+    "https://manyfails.com/fails/liftigniter",
+    "https://creati.ai/ja/ai-tools/liftigniter-com/",
+    "https://console.liftigniter.com/",
+    "https://www.nttdocomo-v.com/en/news/sgzu31mczf/",
+    "https://ajadvisers.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Liftigniter manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/liftigniter",
+    "https://www.featuredcustomers.com/vendor/liftigniter/case-studies",
+    "https://www.appsruntheworld.com/customers-database/products/view/liftigniter",
+    "https://www.casestudies.com/company/google-cloud-platform/case-study/liftigniter-creating-more-personalized-profitable-digital-experiences-with-machine-learning",
+    "https://www.appsruntheworld.com/customers-database/vendors/view/liftigniter",
+    "https://www.featuredcustomers.com/vendor/liftigniter",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Liftigniter white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://upcloud.com/partner-program/",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Liftigniter founded funding employees revenue",
+   "results": [
+    "https://www.konaequity.com/company/liftigniter-4393852311/",
+    "https://pitchbook.com/profiles/company/63692-02",
+    "https://compworth.com/company/liftigniter",
+    "https://tracxn.com/d/companies/liftigniter/__xzKL5PNwgn9_1FayDWhapI3Rqlm4Rr5t8ELW7tTCKt4",
+    "https://www.zoominfo.com/c/liftigniter/365431590",
+    "https://startupintros.com/orgs/liftigniter",
+    "https://www.crunchbase.com/organization/liftigniter"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Liftigniter",
+   "results": [
+    "https://note.com/contest/創作大賞2026",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/inokun/n/n7efa91c9eeb2",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/salaryman_fire/n/nd44b4fa3a2b5",
+    "https://note.com/haru_yuki_i/n/n4ec981874187"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Liftigniter",
+   "results": [
+    "https://x.com/StreamOneTV/status/937637800949796864",
+    "https://help.x.com/en",
+    "https://help.x.com/en/using-x",
+    "https://x.com/stefanbirrer",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/p0ptartkitty/status/2115926138987913708",
+    "https://x.com/jocelynseip/status/2118260591680983528"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Liftigniter",
+   "results": [
+    "https://www.linkedin.com/company/liftigniter",
+    "https://www.linkedin.com/products/liftigniter",
+    "https://uk.linkedin.com/in/aeronterry",
+    "https://am.linkedin.com/in/narek-vardzelyan-a52768b8",
+    "https://uk.linkedin.com/in/sahil-agarwal-034785b4",
+    "https://in.linkedin.com/in/rahul-raj-43b78257",
+    "https://ps.linkedin.com/in/tabarak-zitawi"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Liftigniter",
+   "results": [
+    "https://www.facebook.com/liftigniter/",
+    "https://www.facebook.com/liftigniter/posts/check-out-the-most-recent-liftigniter-article-and-learn-how-you-can-create-a-tru/1580911962045442/",
+    "https://www.facebook.com/liftigniter/posts/1825056480964321/",
+    "https://www.facebook.com/liftigniter/posts/reviving-email-with-personalized-email-marketing/1159652647504711/",
+    "https://www.facebook.com/liftigniter/posts/our-new-website-is-live-check-out-our-new-site-and-learn-how-liftigniter-can-hel/1719503151519655/",
+    "https://www.facebook.com/liftigniter/posts/e-commerce-personalization-are-you-putting-the-cart-before-the-horse/1121200398016603/",
+    "https://www.facebook.com/liftigniter/posts/simple-personalization-based-on-general-customer-data-isnt-enough-anymore-check-/1727304670739503/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Liftigniter note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Liftigniter X 投稿",
+   "results": [
+    "https://x.com/liftigniter",
+    "https://console.liftigniter.com/",
+    "https://x.com/spyfamily_anime/status/2119383983209508904",
+    "https://x.com/fiction_log/status/2119660264727736677",
+    "https://note.com/mgane/n/n1c0d7384c8a0",
+    "https://fitly.pics/blog/x-twitter-post-tips",
+    "https://x.com/twitcasting_jp/status/2100831269575868441"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部35頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部35頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部35頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部35頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部35頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部35頁・検索12回）"
+ }
+}

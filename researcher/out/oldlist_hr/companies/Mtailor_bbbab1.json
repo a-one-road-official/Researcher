@@ -1,0 +1,1112 @@
+{
+ "name": "Mtailor",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-10T00:03:41.553257+00:00",
+ "official_url": "https://mtailor.com",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue",
+    "value": "$4,487,782 $5,106,805",
+    "url": "https://kingscrowd.com/mtailor-on-wefunder-2022/",
+    "pass": 3
+   },
+   {
+    "label": "Revenue -27.1% YoY",
+    "value": "$5.1M",
+    "url": "https://kingscrowd.com/mtailor-on-wefunder-2022/",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Year Founded",
+    "value": "Year Founded：2012",
+    "url": "https://kingscrowd.com/mtailor-on-wefunder-2022/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "In under 30 seconds our machine learning algorithms measure 16 different points for clothes that are 20% more accurate than a professional tailor.",
+    "url": "https://www.mtailor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "of receiving your order to get your clothes remade for free with an improved fit.",
+    "url": "https://www.mtailor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "If you're not interested in a free, remade version of the item, we'll send you a pre-paid return label for a full refund.",
+    "url": "https://www.mtailor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“I tried it and eventually purchased a button down short-sleeve summer shirt. When it arrived, I was so impressed with the fit and the quality that I purchased 2 more.”",
+    "url": "https://www.mtailor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“I'm a bigger guy and was super worried that a simple video that made me turn around in a circle couldn't possibly produce perfect fitting product like they say. But I literally got my suit today, tried it on during my lunch break. And for the first time ever I put on a suit and it felt like it was made for me. When I say every thing fit perfectly I mean it.”",
+    "url": "https://www.mtailor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We started MTailor because we wanted to order clothes online that just fit. So we invented new technology to measure you more accurately than a professional tailor. Now we can deliver you perfect fitting clothes from the comfort of your own home at non-custom prices.\"",
+    "url": "https://www.mtailor.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Since 2014 MTailor has been working to bring custom clothing to the people. We were founded by two Stanford grads looking to apply their computer science backgrounds to a problem faced by nearly everyone: getting clothes that fit just right. Since then, our app has provided perfect fits at reasonable prices to over 100,000 customers. We love helping people to feel and look their best!",
+    "url": "https://www.mtailor.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "While other companies rely on fitting you into their pre-determined sizes, our technology makes it easy for you to have entirely custom clothes. No one is \"Large,\" \"Medium,\" or \"Small\" and our clothes should reflect that! We make perfect fits for customers of all sizes, from those less than 4 feet tall to those above 7 feet.",
+    "url": "https://www.mtailor.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Tailored clothing should be available to everyone. That's why we built our brand on the idea of getting you custom fitting clothes at the same price as standard retail. We also offer free shipping and returns so you can order worry-free!",
+    "url": "https://www.mtailor.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "I Was So Impressed That I Purchased 2 More",
+    "url": "https://www.mtailor.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "“I tried it and eventually purchased a button down short-sleeve summer shirt. When it arrived, I was so impressed with the fit and the quality that I purchased 2 more.\"",
+    "url": "https://www.mtailor.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "“I'm a bigger guy and was super worried that a simple video that made me turn around in a circle couldn't possibly produce perfect fitting product like they say. But I literally got my suit today, tried it on during my lunch break. And for the first time ever I put on a suit and it felt like it was made for me. When I say every thing fit perfectly I mean it.\"",
+    "url": "https://www.mtailor.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Email Protection | Cloudflare",
+    "url": "https://www.mtailor.com/cdn-cgi/l/email-protection",
+    "pass": 1
+   },
+   {
+    "quote": "The website from which you got to this page is protected by Cloudflare. Email addresses on that page have been hidden in order to keep them from being accessed by malicious bots.",
+    "url": "https://www.mtailor.com/cdn-cgi/l/email-protection",
+    "pass": 1
+   },
+   {
+    "quote": "If you have a website and are interested in protecting it in a similar way, you can",
+    "url": "https://www.mtailor.com/cdn-cgi/l/email-protection",
+    "pass": 1
+   },
+   {
+    "quote": "How does Cloudflare protect email addresses on website from spammers?",
+    "url": "https://www.mtailor.com/cdn-cgi/l/email-protection",
+    "pass": 1
+   },
+   {
+    "quote": "In under 30 seconds our machine learning algorithms measure 16 different points for clothes that are 20% more accurate than a professional tailor.",
+    "url": "https://www.mtailor.com/?srsltid=AYCX9vIHyXh9aFvm2OWZsfmYWghInmELDtcXUgndh3-fMfJSVuomDTHT",
+    "pass": 3
+   },
+   {
+    "quote": "of receiving your order to get your clothes remade for free with an improved fit.",
+    "url": "https://www.mtailor.com/?srsltid=AYCX9vIHyXh9aFvm2OWZsfmYWghInmELDtcXUgndh3-fMfJSVuomDTHT",
+    "pass": 3
+   },
+   {
+    "quote": "If you're not interested in a free, remade version of the item, we'll send you a pre-paid return label for a full refund.",
+    "url": "https://www.mtailor.com/?srsltid=AYCX9vIHyXh9aFvm2OWZsfmYWghInmELDtcXUgndh3-fMfJSVuomDTHT",
+    "pass": 3
+   },
+   {
+    "quote": "“I tried it and eventually purchased a button down short-sleeve summer shirt. When it arrived, I was so impressed with the fit and the quality that I purchased 2 more.”",
+    "url": "https://www.mtailor.com/?srsltid=AYCX9vIHyXh9aFvm2OWZsfmYWghInmELDtcXUgndh3-fMfJSVuomDTHT",
+    "pass": 3
+   },
+   {
+    "quote": "“I'm a bigger guy and was super worried that a simple video that made me turn around in a circle couldn't possibly produce perfect fitting product like they say. But I literally got my suit today, tried it on during my lunch break. And for the first time ever I put on a suit and it felt like it was made for me. When I say every thing fit perfectly I mean it.”",
+    "url": "https://www.mtailor.com/?srsltid=AYCX9vIHyXh9aFvm2OWZsfmYWghInmELDtcXUgndh3-fMfJSVuomDTHT",
+    "pass": 3
+   },
+   {
+    "quote": "In under 30 seconds our machine learning algorithms measure 16 different points for clothes that are 20% more accurate than a professional tailor.",
+    "url": "https://www.mtailor.com/?srsltid=AYCX9vKe0PXdsn6gAQoW1bmAscEc4xsNsU37fHUdm48f0EDOlMUhO3_5",
+    "pass": 3
+   },
+   {
+    "quote": "of receiving your order to get your clothes remade for free with an improved fit.",
+    "url": "https://www.mtailor.com/?srsltid=AYCX9vKe0PXdsn6gAQoW1bmAscEc4xsNsU37fHUdm48f0EDOlMUhO3_5",
+    "pass": 3
+   },
+   {
+    "quote": "If you're not interested in a free, remade version of the item, we'll send you a pre-paid return label for a full refund.",
+    "url": "https://www.mtailor.com/?srsltid=AYCX9vKe0PXdsn6gAQoW1bmAscEc4xsNsU37fHUdm48f0EDOlMUhO3_5",
+    "pass": 3
+   },
+   {
+    "quote": "Premium Marina Blue Stripe",
+    "url": "https://www.mtailor.com/?srsltid=AYCX9vKe0PXdsn6gAQoW1bmAscEc4xsNsU37fHUdm48f0EDOlMUhO3_5",
+    "pass": 3
+   },
+   {
+    "quote": "Premium Cornflower Dobby",
+    "url": "https://www.mtailor.com/?srsltid=AYCX9vKe0PXdsn6gAQoW1bmAscEc4xsNsU37fHUdm48f0EDOlMUhO3_5",
+    "pass": 3
+   },
+   {
+    "quote": "Premium Sausalito Stripe",
+    "url": "https://www.mtailor.com/?srsltid=AYCX9vKe0PXdsn6gAQoW1bmAscEc4xsNsU37fHUdm48f0EDOlMUhO3_5",
+    "pass": 3
+   },
+   {
+    "quote": "“I tried it and eventually purchased a button down short-sleeve summer shirt. When it arrived, I was so impressed with the fit and the quality that I purchased 2 more.”",
+    "url": "https://www.mtailor.com/?srsltid=AYCX9vKe0PXdsn6gAQoW1bmAscEc4xsNsU37fHUdm48f0EDOlMUhO3_5",
+    "pass": 3
+   },
+   {
+    "quote": "“I'm a bigger guy and was super worried that a simple video that made me turn around in a circle couldn't possibly produce perfect fitting product like they say. But I literally got my suit today, tried it on during my lunch break. And for the first time ever I put on a suit and it felt like it was made for me. When I say every thing fit perfectly I mean it.”",
+    "url": "https://www.mtailor.com/?srsltid=AYCX9vKe0PXdsn6gAQoW1bmAscEc4xsNsU37fHUdm48f0EDOlMUhO3_5",
+    "pass": 3
+   },
+   {
+    "quote": "How does the MTailor measurement process work?",
+    "url": "https://www.mtailor.com/faq?srsltid=AYCX9vJUht0tP9aok_V8WkSbjBponXd9W6odQJDnTZNO2wBljZ0LXYKS",
+    "pass": 3
+   },
+   {
+    "quote": "We take 9 upper body measurements and 7 lower body measurements to create your custom fit. For more detail on each of our products:",
+    "url": "https://www.mtailor.com/faq?srsltid=AYCX9vJUht0tP9aok_V8WkSbjBponXd9W6odQJDnTZNO2wBljZ0LXYKS",
+    "pass": 3
+   },
+   {
+    "quote": "What currency are your prices listed in?",
+    "url": "https://www.mtailor.com/faq?srsltid=AYCX9vJUht0tP9aok_V8WkSbjBponXd9W6odQJDnTZNO2wBljZ0LXYKS",
+    "pass": 3
+   },
+   {
+    "quote": "All of our prices are in US Dollars (USD).",
+    "url": "https://www.mtailor.com/faq?srsltid=AYCX9vJUht0tP9aok_V8WkSbjBponXd9W6odQJDnTZNO2wBljZ0LXYKS",
+    "pass": 3
+   },
+   {
+    "quote": "We only finalize the charge for a purchase after we have successfully processed the measurements from your video. You may see a pending charge appear immediately after checkout.",
+    "url": "https://www.mtailor.com/faq?srsltid=AYCX9vJUht0tP9aok_V8WkSbjBponXd9W6odQJDnTZNO2wBljZ0LXYKS",
+    "pass": 3
+   },
+   {
+    "quote": "At the moment, we expect the following delivery times for our products within the United States. Please notes that these are estimates, not guaranteed timelines.",
+    "url": "https://www.mtailor.com/faq?srsltid=AYCX9vJUht0tP9aok_V8WkSbjBponXd9W6odQJDnTZNO2wBljZ0LXYKS",
+    "pass": 3
+   },
+   {
+    "quote": "Typically, we can expedite your order for a $70 fee which is unaffected by any discounts. When available, it usually arrives in 7 business days. Your order is our tailors' top priority, and we ship it direct to you via a worldwide express carrier (e.g., UPS, Fedex, or DHL). To request this service, please reach out to help@mtailor.com.",
+    "url": "https://www.mtailor.com/faq?srsltid=AYCX9vJUht0tP9aok_V8WkSbjBponXd9W6odQJDnTZNO2wBljZ0LXYKS",
+    "pass": 3
+   },
+   {
+    "quote": "Anyone can order from MTailor! We also recently launched Women's Jeans, our first product line designed for women, and hope to add more options in the future.",
+    "url": "https://www.mtailor.com/faq?srsltid=AYCX9vJUht0tP9aok_V8WkSbjBponXd9W6odQJDnTZNO2wBljZ0LXYKS",
+    "pass": 3
+   },
+   {
+    "quote": "How do I know that my measurements were processed correctly?",
+    "url": "https://www.mtailor.com/faq?srsltid=AYCX9vJUht0tP9aok_V8WkSbjBponXd9W6odQJDnTZNO2wBljZ0LXYKS",
+    "pass": 3
+   },
+   {
+    "quote": "Once you upload your video and place an order, it will take a few days to produce finished measurements. We will contact you if there are any issues with your order, but as long as you have received your confirmation email you can rest assured that we are hard at work on your clothes!",
+    "url": "https://www.mtailor.com/faq?srsltid=AYCX9vJUht0tP9aok_V8WkSbjBponXd9W6odQJDnTZNO2wBljZ0LXYKS",
+    "pass": 3
+   },
+   {
+    "quote": "In under 30 seconds our machine learning algorithms measure 16 different points for clothes that are 20% more accurate than a professional tailor.",
+    "url": "https://www.mtailor.com/?srsltid=AYCX9vJXb0IePDuFdtDvuIt2TNo8wpRmx2jydNARn2bsf0C3OJhfRM-V",
+    "pass": 3
+   },
+   {
+    "quote": "of receiving your order to get your clothes remade for free with an improved fit.",
+    "url": "https://www.mtailor.com/?srsltid=AYCX9vJXb0IePDuFdtDvuIt2TNo8wpRmx2jydNARn2bsf0C3OJhfRM-V",
+    "pass": 3
+   },
+   {
+    "quote": "If you're not interested in a free, remade version of the item, we'll send you a pre-paid return label for a full refund.",
+    "url": "https://www.mtailor.com/?srsltid=AYCX9vJXb0IePDuFdtDvuIt2TNo8wpRmx2jydNARn2bsf0C3OJhfRM-V",
+    "pass": 3
+   },
+   {
+    "quote": "Premium Sausalito Stripe",
+    "url": "https://www.mtailor.com/?srsltid=AYCX9vJXb0IePDuFdtDvuIt2TNo8wpRmx2jydNARn2bsf0C3OJhfRM-V",
+    "pass": 3
+   },
+   {
+    "quote": "Premium Salt and Pepper Houndstooth",
+    "url": "https://www.mtailor.com/?srsltid=AYCX9vJXb0IePDuFdtDvuIt2TNo8wpRmx2jydNARn2bsf0C3OJhfRM-V",
+    "pass": 3
+   },
+   {
+    "quote": "“I tried it and eventually purchased a button down short-sleeve summer shirt. When it arrived, I was so impressed with the fit and the quality that I purchased 2 more.”",
+    "url": "https://www.mtailor.com/?srsltid=AYCX9vJXb0IePDuFdtDvuIt2TNo8wpRmx2jydNARn2bsf0C3OJhfRM-V",
+    "pass": 3
+   },
+   {
+    "quote": "“I'm a bigger guy and was super worried that a simple video that made me turn around in a circle couldn't possibly produce perfect fitting product like they say. But I literally got my suit today, tried it on during my lunch break. And for the first time ever I put on a suit and it felt like it was made for me. When I say every thing fit perfectly I mean it.”",
+    "url": "https://www.mtailor.com/?srsltid=AYCX9vJXb0IePDuFdtDvuIt2TNo8wpRmx2jydNARn2bsf0C3OJhfRM-V",
+    "pass": 3
+   },
+   {
+    "quote": "M Taylor did an excellent job and after making two modifications I now have the perfect fitting shirts. They were professional and kind enough to work through the adjustments. I have been paying $160 per shirt for custom shirts for several years and these shirts are as good or better at only $89 each. And the material is better quality too. An excellent value for great fitting shirts.",
+    "url": "https://www.mtailor.com/reviews?c9f131b3_page=7&srsltid=AYCX9vIf1ctsPU9XSLmPAcr-5oaNjAUI7Nu45ekJsKYLWerpZZN-kOmP",
+    "pass": 3
+   },
+   {
+    "quote": "MTailor is amazingly easy to get a full, accurate, measurement. They provide great ways to customize your order to fit your style. And everything that I’ve ordered so far has been finished and sent to me quickly. I plan on using them for years to come!",
+    "url": "https://www.mtailor.com/reviews?c9f131b3_page=7&srsltid=AYCX9vIf1ctsPU9XSLmPAcr-5oaNjAUI7Nu45ekJsKYLWerpZZN-kOmP",
+    "pass": 3
+   },
+   {
+    "quote": "The app is easy to use. The order fulfillment and customer service staffs are extraordinary. They were courteous and bent on producing a product that satisfies the customer. In my case, they twice produced a resew of my jeans until the pants fit perfectly.",
+    "url": "https://www.mtailor.com/reviews?c9f131b3_page=7&srsltid=AYCX9vIf1ctsPU9XSLmPAcr-5oaNjAUI7Nu45ekJsKYLWerpZZN-kOmP",
+    "pass": 3
+   },
+   {
+    "quote": "The shirt I bought fit perfectly. Due to my stature tailoring for my arms is a must. I was pleasantly surprised that the shirt fit perfectly for me.",
+    "url": "https://www.mtailor.com/reviews?c9f131b3_page=7&srsltid=AYCX9vIf1ctsPU9XSLmPAcr-5oaNjAUI7Nu45ekJsKYLWerpZZN-kOmP",
+    "pass": 3
+   },
+   {
+    "quote": "GREAT QUALITY AFFORDABLE PRICES",
+    "url": "https://vandatailors.com/mtailor-shark-tank-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "Image from Gazette Review Mtailor owner’s Miles shark tank presentation had attracted lots of media attention. But mostly inputs from people who are not from the tailoring industry. I thought it might be nice to share my opinion as a MTM shirt/suit factory owner/tailor. For those who wonder what’s MTailor is, here’s a quick recap....",
+    "url": "https://vandatailors.com/mtailor-shark-tank-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "Mtailor owner’s Miles shark tank presentation",
+    "url": "https://vandatailors.com/mtailor-shark-tank-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "One, simply prop your phone against a wall, and follow a series of voice commands that have you stand",
+    "url": "https://vandatailors.com/mtailor-shark-tank-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "So am I impressed by the measurement technology? YES. Problem is taking measurements is perhaps one of the easiest part of the business.",
+    "url": "https://vandatailors.com/mtailor-shark-tank-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "Confusing Made-to-measure (MTM) to Off-the-rack (OTR) production",
+    "url": "https://vandatailors.com/mtailor-shark-tank-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "Miles explains that when the pricing was started and they were only selling 2 shirts a day, they had their prices set at a specific price. Now that they are selling thousands of shirts a month, the supply chain is still selling shirts at the same price, and Miles spent a few months trying to fix it.",
+    "url": "https://vandatailors.com/mtailor-shark-tank-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "These are just 2 or 3 small examples. In summary, there are so many more production steps and supervision needed in making a MTM shirt as compared to OTR.",
+    "url": "https://vandatailors.com/mtailor-shark-tank-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "Now, for MTM shirt, you pay your production house for each item you sent. While Mtailor has motivation to lower costs, the production house always have incentive to cut costs. Simply because their margins are so low.",
+    "url": "https://vandatailors.com/mtailor-shark-tank-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "Hence, it is obvious quality will be compromised should you force the costs down while still outsourcing.",
+    "url": "https://vandatailors.com/mtailor-shark-tank-analysis/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "“I tried it and eventually purchased a button down short-sleeve summer shirt. When it arrived, I was so impressed with the fit and the quality that I purchased 2 more.”",
+    "url": "https://www.mtailor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“I tried it and eventually purchased a button down short-sleeve summer shirt. When it arrived, I was so impressed with the fit and the quality that I purchased 2 more.\"",
+    "url": "https://www.mtailor.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "“I tried it and eventually purchased a button down short-sleeve summer shirt. When it arrived, I was so impressed with the fit and the quality that I purchased 2 more.”",
+    "url": "https://www.mtailor.com/?srsltid=AYCX9vIHyXh9aFvm2OWZsfmYWghInmELDtcXUgndh3-fMfJSVuomDTHT",
+    "pass": 3
+   },
+   {
+    "quote": "“I tried it and eventually purchased a button down short-sleeve summer shirt. When it arrived, I was so impressed with the fit and the quality that I purchased 2 more.”",
+    "url": "https://www.mtailor.com/?srsltid=AYCX9vKe0PXdsn6gAQoW1bmAscEc4xsNsU37fHUdm48f0EDOlMUhO3_5",
+    "pass": 3
+   },
+   {
+    "quote": "What currency are your prices listed in?",
+    "url": "https://www.mtailor.com/faq?srsltid=AYCX9vJUht0tP9aok_V8WkSbjBponXd9W6odQJDnTZNO2wBljZ0LXYKS",
+    "pass": 3
+   },
+   {
+    "quote": "Usually, the charge will come from MTailor, but for some accounts, the charge will be listed under Stripe, which is the payment platform that we use.",
+    "url": "https://www.mtailor.com/faq?srsltid=AYCX9vJUht0tP9aok_V8WkSbjBponXd9W6odQJDnTZNO2wBljZ0LXYKS",
+    "pass": 3
+   },
+   {
+    "quote": "Typically, we can expedite your order for a $70 fee which is unaffected by any discounts. When available, it usually arrives in 7 business days. Your order is our tailors' top priority, and we ship it direct to you via a worldwide express carrier (e.g., UPS, Fedex, or DHL). To request this service, please reach out to help@mtailor.com.",
+    "url": "https://www.mtailor.com/faq?srsltid=AYCX9vJUht0tP9aok_V8WkSbjBponXd9W6odQJDnTZNO2wBljZ0LXYKS",
+    "pass": 3
+   },
+   {
+    "quote": "I wanted a shirt that was on the app but is no longer listed. Where did it go?",
+    "url": "https://www.mtailor.com/faq?srsltid=AYCX9vJUht0tP9aok_V8WkSbjBponXd9W6odQJDnTZNO2wBljZ0LXYKS",
+    "pass": 3
+   },
+   {
+    "quote": "“I tried it and eventually purchased a button down short-sleeve summer shirt. When it arrived, I was so impressed with the fit and the quality that I purchased 2 more.”",
+    "url": "https://www.mtailor.com/?srsltid=AYCX9vJXb0IePDuFdtDvuIt2TNo8wpRmx2jydNARn2bsf0C3OJhfRM-V",
+    "pass": 3
+   },
+   {
+    "quote": "I have been a customer for several years now and remain amazed how standing and turning in front of my phone can deliver me perfectly fitting clothes! The follow up even after the items arrive is also super fabulous!",
+    "url": "https://www.mtailor.com/reviews?c9f131b3_page=7&srsltid=AYCX9vIf1ctsPU9XSLmPAcr-5oaNjAUI7Nu45ekJsKYLWerpZZN-kOmP",
+    "pass": 3
+   },
+   {
+    "quote": "Last, choose your fabric, pattern, collar, and cuffs and upon checkout, your tailored shirts will arrive at your doorstep 2-3 weeks later.",
+    "url": "https://vandatailors.com/mtailor-shark-tank-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "So am I impressed by the measurement technology? YES. Problem is taking measurements is perhaps one of the easiest part of the business.",
+    "url": "https://vandatailors.com/mtailor-shark-tank-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "In the Shark Tank episode, Chris Sacca mentioned “Building a company from scratch in the United States can be incredibly difficult since there are millions of different body types. Technology might actually be the easiest part of the business.” I strongly agree.",
+    "url": "https://vandatailors.com/mtailor-shark-tank-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "“I tried it and eventually purchased a button down short-sleeve summer shirt. When it arrived, I was so impressed with the fit and the quality that I purchased 2 more.”",
+    "url": "https://www.mtailor.com/?srsltid=AYCX9vKBR9OTOTA9C0dUftpTYVAqp2qOENbPgJNnZ6sB3OAEwEH2icZS",
+    "pass": 3
+   },
+   {
+    "quote": "MTailor: Revenue, Competitors, Alternatives",
+    "url": "https://growjo.com/company/MTailor",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and Competitors",
+    "url": "https://growjo.com/company/MTailor",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/MTailor",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/MTailor",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated revenue per employee is $",
+    "url": "https://growjo.com/company/MTailor",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Email Protection | Cloudflare",
+    "url": "https://www.mtailor.com/cdn-cgi/l/email-protection",
+    "pass": 1
+   },
+   {
+    "quote": "You are unable to access this email address",
+    "url": "https://www.mtailor.com/cdn-cgi/l/email-protection",
+    "pass": 1
+   },
+   {
+    "quote": "The website from which you got to this page is protected by Cloudflare. Email addresses on that page have been hidden in order to keep them from being accessed by malicious bots.",
+    "url": "https://www.mtailor.com/cdn-cgi/l/email-protection",
+    "pass": 1
+   },
+   {
+    "quote": "You must enable Javascript in your browser in order to decode the e-mail address",
+    "url": "https://www.mtailor.com/cdn-cgi/l/email-protection",
+    "pass": 1
+   },
+   {
+    "quote": "How does Cloudflare protect email addresses on website from spammers?",
+    "url": "https://www.mtailor.com/cdn-cgi/l/email-protection",
+    "pass": 1
+   },
+   {
+    "quote": "Digital - The recipient will receive an email from MTailor on your selected send date, which will contain your personal message and the gift card code. The purchaser will receive an email receipt.",
+    "url": "https://www.mtailor.com/faq?srsltid=AYCX9vJUht0tP9aok_V8WkSbjBponXd9W6odQJDnTZNO2wBljZ0LXYKS",
+    "pass": 3
+   },
+   {
+    "quote": "Physical - For an additional $5 shipping fee, you can send a physical gift card. We offer 6 different gift cards designs and it will be delivered to the recipient within 3-7 business days. The purchaser will receive an email receipt.",
+    "url": "https://www.mtailor.com/faq?srsltid=AYCX9vJUht0tP9aok_V8WkSbjBponXd9W6odQJDnTZNO2wBljZ0LXYKS",
+    "pass": 3
+   },
+   {
+    "quote": "Once you upload your video and place an order, it will take a few days to produce finished measurements. We will contact you if there are any issues with your order, but as long as you have received your confirmation email you can rest assured that we are hard at work on your clothes!",
+    "url": "https://www.mtailor.com/faq?srsltid=AYCX9vJUht0tP9aok_V8WkSbjBponXd9W6odQJDnTZNO2wBljZ0LXYKS",
+    "pass": 3
+   },
+   {
+    "quote": "If you would like to clear your data from our current directory, please email your request to",
+    "url": "https://www.mtailor.com/faq?srsltid=AYCX9vJUht0tP9aok_V8WkSbjBponXd9W6odQJDnTZNO2wBljZ0LXYKS",
+    "pass": 3
+   },
+   {
+    "quote": "B2B email lists",
+    "url": "https://growjo.com/company/MTailor",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Email Finder",
+    "url": "https://growjo.com/company/MTailor",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "MTailor - Perfect fitting custom clothes — MTailor - Perfect fitting custom clothes MTailor https://www.mtailor.com",
+    "url": "https://www.mtailor.com/?srsltid=AYCX9vIHyXh9aFvm2OWZsfmYWghInmELDtcXUgndh3-fMfJSVuomDTHT",
+    "pass": 3
+   },
+   {
+    "quote": "MTailor - Apps on Google Play — MTailor - Apps on Google Play Google Play https://play.google.com > apps > details",
+    "url": "https://play.google.com/store/apps/details?id=com.mtailor.android",
+    "pass": 3
+   },
+   {
+    "quote": "MTailor (@theMTailor) - Facebook — MTailor (@theMTailor) - Facebook Facebook https://www.facebook.com > theMTailor",
+    "url": "https://www.facebook.com/theMTailor/",
+    "pass": 3
+   },
+   {
+    "quote": "MTailor - LinkedIn — MTailor - LinkedIn LinkedIn https://www.linkedin.com > mtailor",
+    "url": "https://www.linkedin.com/company/mtailor",
+    "pass": 3
+   },
+   {
+    "quote": "MTailor (@themtailor) • Instagram photos and videos — MTailor (@themtailor) • Instagram photos and videos Instagram https://www.instagram.com > themtailor",
+    "url": "https://www.instagram.com/themtailor/",
+    "pass": 3
+   },
+   {
+    "quote": "MTailor - Perfect fitting custom clothes — MTailor - Perfect fitting custom clothes MTailor https://www.mtailor.com",
+    "url": "https://www.mtailor.com/?srsltid=AYCX9vKe0PXdsn6gAQoW1bmAscEc4xsNsU37fHUdm48f0EDOlMUhO3_5",
+    "pass": 3
+   },
+   {
+    "quote": "FAQ - MTailor Custom Clothes — FAQ - MTailor Custom Clothes MTailor https://www.mtailor.com > faq",
+    "url": "https://www.mtailor.com/faq?srsltid=AYCX9vJUht0tP9aok_V8WkSbjBponXd9W6odQJDnTZNO2wBljZ0LXYKS",
+    "pass": 3
+   },
+   {
+    "quote": "MTailor Information - RocketReach — MTailor Information - RocketReach RocketReach https://rocketreach.co > mtailor-profil...",
+    "url": "https://rocketreach.co/mtailor-profile_b4b9a987fb0be1df",
+    "pass": 3
+   },
+   {
+    "quote": "MTailor - Perfect fitting custom clothes — MTailor - Perfect fitting custom clothes MTailor https://www.mtailor.com",
+    "url": "https://www.mtailor.com/?srsltid=AYCX9vJXb0IePDuFdtDvuIt2TNo8wpRmx2jydNARn2bsf0C3OJhfRM-V",
+    "pass": 3
+   },
+   {
+    "quote": "MTailor - Custom Clothing - App Store - Apple — MTailor - Custom Clothing - App Store - Apple Apple https://apps.apple.com > app > mtailo...",
+    "url": "https://apps.apple.com/br/app/mtailor-custom-clothing/id816042916?l=en-GB",
+    "pass": 3
+   },
+   {
+    "quote": "MTailor Reviews - Perfect fitting custom clothes — MTailor Reviews - Perfect fitting custom clothes MTailor https://www.mtailor.com > reviews",
+    "url": "https://www.mtailor.com/reviews?c9f131b3_page=7&srsltid=AYCX9vIf1ctsPU9XSLmPAcr-5oaNjAUI7Nu45ekJsKYLWerpZZN-kOmP",
+    "pass": 3
+   },
+   {
+    "quote": "MTailor Shark Tank Analysis - Vanda Tailors — MTailor Shark Tank Analysis - Vanda Tailors vanda tailors https://vandatailors.com > mtailor-sha...",
+    "url": "https://vandatailors.com/mtailor-shark-tank-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "MTailor Case Study | Winklix — MTailor Case Study | Winklix Winklix https://www.winklix.com > mtailor",
+    "url": "https://www.winklix.com/case-study/mtailor/",
+    "pass": 3
+   },
+   {
+    "quote": "MTailor - Perfect fitting custom clothes — MTailor - Perfect fitting custom clothes MTailor https://www.mtailor.com",
+    "url": "https://www.mtailor.com/?srsltid=AYCX9vKBR9OTOTA9C0dUftpTYVAqp2qOENbPgJNnZ6sB3OAEwEH2icZS",
+    "pass": 3
+   },
+   {
+    "quote": "Invest in MTailor | A master tailor in your pocket - Wefunder — Invest in MTailor | A master tailor in your pocket - Wefunder Wefunder https://wefunder.com > Explore",
+    "url": "https://wefunder.com/mtailor",
+    "pass": 3
+   },
+   {
+    "quote": "MTailor on Wefunder 2022 - Kingscrowd — MTailor on Wefunder 2022 - Kingscrowd Kingscrowd https://kingscrowd.com > mtailor-on-...",
+    "url": "https://kingscrowd.com/mtailor-on-wefunder-2022/",
+    "pass": 3
+   },
+   {
+    "quote": "MTailor's Competitors, Revenue , Number of Employees ... — MTailor's Competitors, Revenue , Number of Employees ... Owler https://www.owler.com > mtailor",
+    "url": "https://www.owler.com/company/mtailor",
+    "pass": 3
+   },
+   {
+    "quote": "MTailor : Revenue , Competitors, Alternatives - Growjo — MTailor : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > MTailor",
+    "url": "https://growjo.com/company/MTailor",
+    "pass": 3
+   },
+   {
+    "quote": "MTailor Revenue 2024: $13.2M Est. - GetLatka — MTailor Revenue 2024: $13.2M Est. - GetLatka GetLatka https://getlatka.com > mtailor",
+    "url": "https://getlatka.com/companies/mtailor.com",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Image from Gazette Review Mtailor owner’s Miles shark tank presentation had attracted lots of media attention. But mostly inputs from people who are not from the tailoring industry. I thought it might be nice to share my opinion as a MTM shirt/suit factory owner/tailor. For those who wonder what’s MTailor is, here’s a quick recap....",
+    "url": "https://vandatailors.com/mtailor-shark-tank-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "had attracted lots of media attention. But mostly inputs from people who are not from the tailoring industry. I thought it might be nice to share my opinion as a MTM shirt/suit factory owner/tailor.",
+    "url": "https://vandatailors.com/mtailor-shark-tank-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "The factory they outsource to need to earn some margin after all.",
+    "url": "https://vandatailors.com/mtailor-shark-tank-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "With motivation to lower costs, it does not make sense for factories to hire necessary quality control staff. Most of the times, they will hire the bare minimum, which is the cutter and seamstress.",
+    "url": "https://vandatailors.com/mtailor-shark-tank-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "Unlike OTR shirts, I have never seen most MTM factories check their shirt measurements thoroughly. Unless they are making for their own company.",
+    "url": "https://vandatailors.com/mtailor-shark-tank-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "Reason is simple. For OTR, the higher the volume, the costs are lower substantially. For MTM, this is not the case. Unless the factory owner earns his decent share for their hard work in this complicated manufacturing, quality will be compromised.",
+    "url": "https://vandatailors.com/mtailor-shark-tank-analysis/",
+    "pass": 3
+   },
+   {
+    "quote": "MTailor Case Study | Winklix",
+    "url": "https://www.winklix.com/case-study/mtailor/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "derek guy on X: \"I don't recommend using online MTM tailors ... derek guy on X: \"I don't recommend using online MTM tailors ... X https://x.com > @dieworkwear",
+    "url": "https://x.com/dieworkwear/status/1753142797622976715",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "MTailor - LinkedIn MTailor - LinkedIn LinkedIn https://www.linkedin.com > mtailor",
+    "url": "https://www.linkedin.com/company/mtailor",
+    "pass": 3
+   },
+   {
+    "quote": "Miles Penn - MTailor - LinkedIn Miles Penn - MTailor - LinkedIn LinkedIn https://www.linkedin.com > milespenn",
+    "url": "https://www.linkedin.com/in/milespenn",
+    "pass": 3
+   },
+   {
+    "quote": "Jordan Knapp - VP of Engineering, MTailor - LinkedIn Jordan Knapp - VP of Engineering, MTailor - LinkedIn LinkedIn https://www.linkedin.com > knappjor...",
+    "url": "https://www.linkedin.com/in/knappjordan",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "MTailor (@theMTailor) - Facebook MTailor (@theMTailor) - Facebook Facebook https://www.facebook.com > theMTailor",
+    "url": "https://www.facebook.com/theMTailor/",
+    "pass": 3
+   },
+   {
+    "quote": "Mtailor Custom Clothes: Digital Body Measurements in 15 ... Mtailor Custom Clothes: Digital Body Measurements in 15 ... Facebook https://www.facebook.com > ... > MTailor > Videos",
+    "url": "https://www.facebook.com/theMTailor/videos/-thousands-of-happy-customers-cant-stop-talking-about-how-much-they-love-their-t/1136015734134327/",
+    "pass": 3
+   },
+   {
+    "quote": "M Tailor | Ellicott City MD - Facebook M Tailor | Ellicott City MD - Facebook Facebook https://www.facebook.com > MTailorAlterations",
+    "url": "https://www.facebook.com/MTailorAlterations/",
+    "pass": 3
+   },
+   {
+    "quote": "Maggie M Tailor | Edmonton AB - Facebook Maggie M Tailor | Edmonton AB - Facebook Facebook https://www.facebook.com > MaggieMTailor",
+    "url": "https://www.facebook.com/MaggieMTailor/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.mtailor.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mtailor.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mtailor.com/cdn-cgi/l/email-protection",
+    "status": "http_404",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.mtailor.com/?srsltid=AYCX9vIHyXh9aFvm2OWZsfmYWghInmELDtcXUgndh3-fMfJSVuomDTHT",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://play.google.com/store/apps/details?id=com.mtailor.android",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/theMTailor/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/mtailor",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.mtailor.com/?srsltid=AYCX9vKe0PXdsn6gAQoW1bmAscEc4xsNsU37fHUdm48f0EDOlMUhO3_5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/theMTailor/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.mtailor.com/faq?srsltid=AYCX9vJUht0tP9aok_V8WkSbjBponXd9W6odQJDnTZNO2wBljZ0LXYKS",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rocketreach.co/mtailor-profile_b4b9a987fb0be1df",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mtailor.com/?srsltid=AYCX9vJXb0IePDuFdtDvuIt2TNo8wpRmx2jydNARn2bsf0C3OJhfRM-V",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/mtailor",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://play.google.com/store/apps/details?id=com.mtailor.android",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/theMTailor/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.mtailor.com/reviews?c9f131b3_page=7&srsltid=AYCX9vIf1ctsPU9XSLmPAcr-5oaNjAUI7Nu45ekJsKYLWerpZZN-kOmP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vandatailors.com/mtailor-shark-tank-analysis/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vKt6-ZWKrT5XXNbPrT2EDtCo53nuaUQKNZ--lmrZmk5us6FH2MU",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.winklix.com/case-study/mtailor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mtailor.com/?srsltid=AYCX9vKBR9OTOTA9C0dUftpTYVAqp2qOENbPgJNnZ6sB3OAEwEH2icZS",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mastercard.com/us/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/ycombinator/comments/1hsdufh/anyone_offering_a_white_label_reseller_version_of/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://wefunder.com/mtailor",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://kingscrowd.com/mtailor-on-wefunder-2022/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.owler.com/company/mtailor",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/MTailor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/dieworkwear/status/1753142797622976715",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/mtailor",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/milespenn",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/knappjordan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/theMTailor/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/theMTailor/videos/-thousands-of-happy-customers-cant-stop-talking-about-how-much-they-love-their-t/1136015734134327/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MTailorAlterations/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MaggieMTailor/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/theMTailor/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/theMTailor/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Mtailor 日本 導入",
+   "results": [
+    "https://www.mtailor.com/?srsltid=AYCX9vIHyXh9aFvm2OWZsfmYWghInmELDtcXUgndh3-fMfJSVuomDTHT",
+    "https://play.google.com/store/apps/details?id=com.mtailor.android",
+    "https://www.facebook.com/theMTailor/",
+    "https://www.linkedin.com/company/mtailor",
+    "https://www.instagram.com/themtailor/",
+    "https://www.youtube.com/watch?v=fWVFpgsZR64",
+    "https://www.mtailor.com/faq?srsltid=AYCX9vJ9LEXxZmAI2SbqBCJoRBVJiCJcu57fdjEjd8B6kyEUecvZJXCV",
+    "https://www.reddit.com/r/sharktank/comments/45ikhh/mtailor_custom_mens_shirts_using_a_smart_phone/",
+    "https://www.gentlemanwithin.com/mtailor-review/",
+    "https://ainiche.net/ja/tools/mtailor"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Mtailor 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.mtailor.com/?srsltid=AYCX9vKe0PXdsn6gAQoW1bmAscEc4xsNsU37fHUdm48f0EDOlMUhO3_5",
+    "https://www.facebook.com/theMTailor/",
+    "https://www.mtailor.com/faq?srsltid=AYCX9vJUht0tP9aok_V8WkSbjBponXd9W6odQJDnTZNO2wBljZ0LXYKS",
+    "https://rocketreach.co/mtailor-profile_b4b9a987fb0be1df",
+    "https://miyukinetwork.com/",
+    "https://miketailor.com/",
+    "https://www.instagram.com/reel/DVdFSw9Ebc7/",
+    "http://s-o-j.jp/agent/index.html",
+    "https://lp.due-misura.com/",
+    "https://partner-prop.com/lab/partner-business/agency/256/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Mtailor Japan",
+   "results": [
+    "https://www.mtailor.com/?srsltid=AYCX9vJXb0IePDuFdtDvuIt2TNo8wpRmx2jydNARn2bsf0C3OJhfRM-V",
+    "https://www.linkedin.com/company/mtailor",
+    "https://play.google.com/store/apps/details?id=com.mtailor.android",
+    "https://www.facebook.com/theMTailor/",
+    "https://apps.apple.com/br/app/mtailor-custom-clothing/id816042916?l=en-GB",
+    "https://www.youtube.com/watch?v=5vvAipKBMg4",
+    "https://hespokestyle.com/mtailor-review/?srsltid=AYCX9vIAot83pdjbX9JXHK_Pz4RFn-2g4USQDcn1xxAbbtDeDmSto373",
+    "https://ca.trustpilot.com/review/mtailor.com",
+    "https://www.instagram.com/themtailor/",
+    "https://www.mtailor.com/shop/customize"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Mtailor manufacturing customer case study",
+   "results": [
+    "https://www.mtailor.com/reviews?c9f131b3_page=7&srsltid=AYCX9vIf1ctsPU9XSLmPAcr-5oaNjAUI7Nu45ekJsKYLWerpZZN-kOmP",
+    "https://vandatailors.com/mtailor-shark-tank-analysis/",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vKt6-ZWKrT5XXNbPrT2EDtCo53nuaUQKNZ--lmrZmk5us6FH2MU",
+    "https://www.winklix.com/case-study/mtailor/",
+    "https://manufacturingleadershipcouncil.com/case-study-transforming-through-manufacturing-4-0/",
+    "https://www.aims360.com/case-studies",
+    "https://www.taylor.com/case-study",
+    "https://www.trustpilot.com/review/mtailor.com?page=3",
+    "https://www.tailor.tech/resources/posts/case-study-universal-jewelry",
+    "https://www.scribd.com/document/676880416/BMC-Sample"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Mtailor white label OR reseller OR partner program",
+   "results": [
+    "https://www.mtailor.com/?srsltid=AYCX9vKBR9OTOTA9C0dUftpTYVAqp2qOENbPgJNnZ6sB3OAEwEH2icZS",
+    "https://www.mastercard.com/us/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "https://www.reddit.com/r/ycombinator/comments/1hsdufh/anyone_offering_a_white_label_reseller_version_of/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://www.deel.com/blog/introducing-deel-white-label/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://www.personizely.net/blog/white-label-saas",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Mtailor founded funding employees revenue",
+   "results": [
+    "https://wefunder.com/mtailor",
+    "https://kingscrowd.com/mtailor-on-wefunder-2022/",
+    "https://www.owler.com/company/mtailor",
+    "https://growjo.com/company/MTailor",
+    "https://getlatka.com/companies/mtailor.com",
+    "https://leadiq.com/c/mtailor/5b6863d1360000536a37593b",
+    "https://www.crunchbase.com/organization/mtailor",
+    "https://equityzen.com/company/mtailor/",
+    "https://pitchbook.com/profiles/company/98788-15",
+    "https://compworth.com/company/mtailor"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Mtailor",
+   "results": [
+    "https://note.com/fundinno/n/ndef9b81d91b4",
+    "https://note.com/krichards/n/nbacb91a9b368",
+    "https://note.com/miraikan/n/n59ead1017e0f",
+    "https://note.com/k_m_c_ns/n/nb0bfb53f75d8?hl=en",
+    "https://note.com/tag/ギャンブル依存症",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/dowaoshark/n/n324242681db8",
+    "https://note.com/hanekura_poco/n/ncbc3f3927b54",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:x.com Mtailor",
+   "results": [
+    "https://x.com/JessePattison/status/948700256983764992",
+    "https://x.com/msjpenn",
+    "https://x.com/dieworkwear/status/1753142797622976715",
+    "https://x.com/RMilesMD",
+    "https://x.com/MeteorologistPC",
+    "https://x.com/hashtag/EditorsTalk",
+    "https://x.com/hashtag/Billycart",
+    "https://x.com/julianrinaldi",
+    "https://x.com/empowermentopps",
+    "https://x.com/ekiledjian/status/2031152258759512288"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Mtailor",
+   "results": [
+    "https://www.linkedin.com/company/mtailor",
+    "https://www.linkedin.com/in/milespenn",
+    "https://www.linkedin.com/in/knappjordan",
+    "https://www.linkedin.com/in/haynes-winkler",
+    "https://www.linkedin.com/in/cougies",
+    "https://www.linkedin.com/pulse/shark-tank-mtailor-custom-fit-shirts-via-mobile-app-kyle-e-nesbit",
+    "https://www.linkedin.com/posts/the-cool-co_coolai-awny26-advertisingweek-activity-7516120534665928704-x1ND",
+    "https://pk.linkedin.com/in/hamza1998",
+    "https://bd.linkedin.com/jobs/view/financial-analyst-at-mtailor-3996170115",
+    "https://www.linkedin.com/jobs/mtailor-jobs"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:facebook.com Mtailor",
+   "results": [
+    "https://www.facebook.com/theMTailor/",
+    "https://www.facebook.com/theMTailor/videos/-thousands-of-happy-customers-cant-stop-talking-about-how-much-they-love-their-t/1136015734134327/",
+    "https://www.facebook.com/MTailorAlterations/",
+    "https://www.facebook.com/MaggieMTailor/",
+    "https://www.facebook.com/p/Ms-Tailor-100054623641321/",
+    "https://www.facebook.com/p/M-Tailor-Katy-100067040290659/",
+    "https://www.facebook.com/media/set/?set=a.378193678979592.1073741835.251979254934369&type=3",
+    "https://www.facebook.com/godsown.nduke/posts/if-you-see-me-on-days-im-tailor-please-pass-and-lemme-like-that-biko-/2357956491688478/",
+    "https://www.facebook.com/p/MS-Tailor-61558026864191/",
+    "https://www.facebook.com/theMTailor/videos/the-perfect-fit-from-your-phone/850538243811302/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Mtailor note 社長",
+   "results": [
+    "https://www.mtailor.com/?srsltid=AYCX9vJSkTibr1jFHJKyZ-QBl39lHQcwxj0de8ZRL6HFeQSOxVe7EvmS",
+    "https://www.youtube.com/watch?v=ZQ3aPsH-L5w",
+    "https://www.trustpilot.com/review/mtailor.com",
+    "https://www.facebook.com/theMTailor/",
+    "https://www.cbinsights.com/company/mtailored",
+    "https://www.facebook.com/theMTailor/videos/-thousands-of-happy-customers-cant-stop-talking-about-how-much-they-love-their-t/1136015734134327/",
+    "https://www.gentlemanwithin.com/mtailor-review/",
+    "https://www.reddit.com/r/malefashionadvice/comments/2bt602/cofounder_of_mtailor_ama/",
+    "https://www.linkedin.com/company/mtailor",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Mtailor X 投稿",
+   "results": [
+    "https://www.mtailor.com/?srsltid=AYCX9vJzO23RlfnbBGhbe6DVCpzr0IyCZdGPYvFkUR3eXe9GM9GXgh_Z",
+    "https://www.facebook.com/theMTailor/",
+    "https://www.trustpilot.com/review/mtailor.com",
+    "https://www.reddit.com/r/malefashionadvice/comments/2bt602/cofounder_of_mtailor_ama/",
+    "https://www.ispot.tv/ad/wECI/mtailor-app-the-perfect-fit",
+    "https://www.reddit.com/r/CommercialsIHate/comments/1cqd0ky/mtailor_jeans_commercial/",
+    "https://www.youtube.com/watch?v=5vvAipKBMg4",
+    "https://hespokestyle.com/mtailor-review/?srsltid=AYCX9vI8U0MpD_meW5bUwX6HKT4rpMan_Nx--3UACrmZ0YApXnLa1DSA",
+    "https://x.com/mtailor",
+    "https://www.instagram.com/themtailor/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部34頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部34頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部34頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部34頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部34頁・検索12回）"
+ }
+}

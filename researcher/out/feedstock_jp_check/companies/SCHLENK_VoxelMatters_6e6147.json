@@ -1,0 +1,520 @@
+{
+ "name": "SCHLENK — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:powder-manufacturer",
+ "researched_at": "2026-11-10T00:10:13.909322+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Tess Boissonneault - Freelance Content Writer, Editor | LinkedInFederico Sher - Co-founder of VoxelMatters | LinkedInDavide Sher - Co-founder and CEO at VoxelMatters | LinkedIn3 \"Christopher Schlenk\" profiles | LinkedInEUROPEAN COATING journal 1/2-2026 | SCHLENK - LinkedIn Freelance Content Writer, Editor · Experience: VoxelMatters · Education: University of Amsterdam · Location: Montreal · 500+ c",
+    "url": "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "pass": 3
+   },
+   {
+    "quote": "Federico Sher - Co-founder of VoxelMatters | LinkedInDavide Sher - Co-founder and CEO at VoxelMatters | LinkedIn3 \"Christopher Schlenk\" profiles | LinkedInEUROPEAN COATING journal 1/2-2026 | SCHLENK - LinkedIn Co-founder of VoxelMatters · With a background in architecture and design I oversee VoxelMatters' vision. Working with all teams, I focus on the company’s overall brand message, establishing",
+    "url": "https://uk.linkedin.com/in/federico-sher",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookFacebookVoxelMatters on Reels - FacebookSchlenk Profiles - FacebookAdditive manufacturing is creating new solutions for hard-to ...Max Schlenk - FacebookDanie Schlenk - Facebook VoxelMatters. 2,907 followers · 4 talking about this. The additive manufacturing insights that matter Connect and share with friends, family, and the world on Facebook. Jun 1, 2026 · Video by VoxelMa",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://industrial.panasonic.com/jp/s-search/distributors",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.aliexpress.com/item/1005009846651010.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://creator.holoearth.com/shop/products/1021609",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.rakuseimodel.co.jp/onlineshop/product_list_by_maker.php?sicode=249",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://shop.fannect.jp/darwin-webstore/sp/syousai.asp?item=DA-109",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.voxelmatters.com/top-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skhonpo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.poly-maker.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.matterhackers.com/store?srsltid=AYCX9vInWBHUr_BuEPDOByBgOD8zXoAsnMv_Fy5ziFKstVTaL9nU1Aiz",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/global-am-hubs/japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.exone.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/%E9%80%B1%E5%88%8A%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A-2026%E5%B9%B411%E6%9C%8819%E6%97%A5%E5%8F%B7-No-1970-%E9%80%B1%E5%88%8A%E3%83%95%E3%82%A1%E3%83%9F%E9%80%9A%E7%B7%A8%E9%9B%86%E9%83%A8/dp/B0HNSMCCCL",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://vendorcentral.amazon.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://kdp.amazon.co.jp/ja_JP/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shigoto.amazon.co.jp/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E4%BD%9C%E6%A5%AD%E7%94%A8+%E6%A4%85%E5%AD%90/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://recruit.monotaro.com/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/1766/2356/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/5137/2424/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/database/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fabbaloo.com/news/voxelmatters-reveals-top-ten-polymer-3d-printing-companies-dominating-the-market",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/federico-sher",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "SCHLENK — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/about/",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.com/",
+    "https://news.sharelab.jp/3dp-news/report/voxelmatters-metal-am-market-20250513/",
+    "https://www.additivemanufacturing.media/suppliers?productIds=5699",
+    "https://www.exone.com/en/about-us/locations/",
+    "https://www.voxelmatters.directory/contact-us/",
+    "https://i-am-marketplace.com/about-us/",
+    "https://www.voxelfactory.com/?srsltid=AYCX9vJSW7uBC48nrg26L76EY2Pw6VWvYrgyjA8jA9AX_FBy9sp4FHrK",
+    "https://www.schlenk.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "SCHLENK — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://industrial.panasonic.com/jp/s-search/distributors",
+    "https://osoyoo.com/ja/2018/09/20/microbit-basic-tutorial-9-banana-keyboard/",
+    "https://www.drschenk.com/",
+    "https://www.schunk-group.com/en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SCHLENK — VoxelMatters 日本 販売",
+   "results": [
+    "https://ja.aliexpress.com/item/1005009846651010.html",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://www.rakuseimodel.co.jp/onlineshop/product_list_by_maker.php?sicode=249",
+    "http://shop.fannect.jp/darwin-webstore/sp/syousai.asp?item=DA-109",
+    "https://www.be-wavestyle.jp/products/list.php?category_id=200002",
+    "https://www.gazaihanbai.jp/products/detail/product_id/26722.html",
+    "https://teichiku-shop.com/products/detail/TES00003UE",
+    "https://s-to.jp/products/19223",
+    "https://webudding.com/ja/store/product/detail/20779/",
+    "https://www.schlenk.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "SCHLENK — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://www.voxelmatters.com/top-products/",
+    "https://skhonpo.com/",
+    "https://www.poly-maker.jp/",
+    "https://www.matterhackers.com/store?srsltid=AYCX9vInWBHUr_BuEPDOByBgOD8zXoAsnMv_Fy5ziFKstVTaL9nU1Aiz",
+    "https://www.youtube.com/watch?v=9hDiiPCglcM",
+    "https://apple-tree.shop/?mode=grp&gid=2132186",
+    "https://systemcreate-inc.co.jp/products/modular",
+    "https://search.rakuten.co.jp/search/mall/3d%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E7%94%A8%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/",
+    "https://arcplas.co.jp/product/fdm-fff-pellet/",
+    "https://www.schlenk.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "SCHLENK — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.com/category/global-am-hubs/japan/",
+    "https://www.exone.com/en/",
+    "https://partners.solize.com/en/manufacturing",
+    "https://www.beamler.com/professional-3d-print-service/japan/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://cn.schlenk.com/about-us/global/europe-mf/europe-list-mf",
+    "https://www.sliceengineering.com/pages/resellers?srsltid=AYCX9vIxY_UYNcFsd7E6HcN7FusQTMTjp4UNPEFta4xnFxFA5DX3GJSG",
+    "https://www.schlenk.com/about-us/global/asia-australia-mf/asia-australia-list-mf/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "SCHLENK — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.voxelmatters.directory/company-category/3d-metal-printer-distributor/",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://mx3d.com/geo/robotic-metal-3d-printing-japan/",
+    "https://www.upnano.com/distributors/",
+    "https://xjet3d.com/pr/xjet-appoints-zen-global-as-sales-partner-and-representative-in-japan/",
+    "https://www.exone.com/en/about-us/locations/",
+    "https://formlabs.com/company/press/formlabs-extends-global-presence-japan/",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:amazon.co.jp SCHLENK — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/週刊ファミ通-2026年11月19日号-No-1970-週刊ファミ通編集部/dp/B0HNSMCCCL",
+    "https://vendorcentral.amazon.co.jp/",
+    "https://kdp.amazon.co.jp/",
+    "https://shigoto.amazon.co.jp/",
+    "https://r.amazon.co.jp/",
+    "https://business.amazon.co.jp/ja/login",
+    "https://www.amazon.co.jp/anan-アンアン-2026-No-2518-カラダにいいもの大賞2026・秋！／田中樹/dp/B0HK75JYV6"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com SCHLENK — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/k/store/作業用+椅子/",
+    "https://recruit.monotaro.com/career/",
+    "https://www.monotaro.com/p/1766/2356/",
+    "https://www.monotaro.com/p/5137/2424/",
+    "https://www.monotaro.com/g/00016743/",
+    "https://www.monotaro.com/g/02779452/",
+    "https://www.monotaro.com/g/01140219/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SCHLENK — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://www.voxelmatters.com/the-top-10-metal-am-companies-by-revenue/",
+    "https://www.voxelmatters.report/database/",
+    "https://www.voxelmatters.directory/",
+    "https://www.fabbaloo.com/news/voxelmatters-reveals-top-ten-polymer-3d-printing-companies-dominating-the-market",
+    "https://www.voxelmatters.com/meet-the-leaders-of-the-12-3-billion-global-additive-manufacturing-market/",
+    "https://growjo.com/company/Markforged",
+    "https://revenuebase.ai/companies/3d-printing-and-additive-manufacturing-companies/united-states",
+    "https://www.owler.com/company/ultimaker",
+    "https://www.voxelmatters.group/insights/",
+    "https://de.schlenk.com/fileadmin/editorsCMS/Medien/04_Aktuelles_und_Highlights/pdf/Geschaeftsbericht_SCHLENK_SE_2025.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com SCHLENK — VoxelMatters",
+   "results": [
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/kouga_yun/n/n228fbf8fcafc"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com SCHLENK — VoxelMatters",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com SCHLENK — VoxelMatters",
+   "results": [
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://www.linkedin.com/company/schlenkgruppe",
+    "https://ca.linkedin.com/in/tess-boissonneault-78b5a15a",
+    "https://uk.linkedin.com/in/federico-sher",
+    "https://www.linkedin.com/pub/dir/davide/sher",
+    "https://www.linkedin.com/pub/dir/Christopher/Schlenk",
+    "https://www.linkedin.com/posts/schlenkgruppe_european-coating-journal-12-2026-activity-7429822097369141248-CFfm"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com SCHLENK — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/",
+    "https://www.facebook.com/VoxelMatters/videos/2155326438344264/",
+    "https://www.facebook.com/public/Schlenk/",
+    "https://www.facebook.com/maxrichardschlenk/",
+    "https://www.facebook.com/danielle.schlenk/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-creating-new-solutions-for-hard-to-source-replacement-/893346590210455/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "SCHLENK — VoxelMatters note 社長",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.report/",
+    "https://www.voxelmatters.com/author/ben-oneill/",
+    "https://www.voxelmatters.group/about/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.voxelmatters.directory/contact-us/",
+    "https://www.youtube.com/watch?v=joELUCw9Ejw",
+    "https://www.sme.org/technologies/articles/2023/june/am-applications-explode-with-multimaterial-printing/",
+    "https://www.additivemanufacturing.media/why-additive-manufacturing-needs-the-executive-perspective/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "SCHLENK — VoxelMatters X 投稿",
+   "results": [
+    "https://www.voxelmatters.com/",
+    "https://www.youtube.com/@voxelmatters",
+    "https://www.instagram.com/voxelmatters/",
+    "https://www.voxelmatters.report/",
+    "https://www.voxelmatters.com/events/ams-x/",
+    "https://www.facebook.com/DiscoverRAPID/videos/additive-manufacturing-is-helping-produce-large-scale-tooling-for-aircraft-manuf/1421771893425499/",
+    "https://www.voxelmatters.group/insights/",
+    "https://www.youtube.com/watch?v=joELUCw9Ejw",
+    "https://x.com/voxelmatters",
+    "https://www.schlenk.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）"
+ }
+}

@@ -1,0 +1,477 @@
+{
+ "name": "YANMI — VoxelMatters",
+ "aliases": [],
+ "context": "ディレクトリ:powder-manufacturer",
+ "researched_at": "2026-11-09T23:59:22.825681+00:00",
+ "official_url": "https://bit.ly/3zUkyBr",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.",
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "pass": 1
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "VoxelMatters - FacebookFacebookYanmi Tam - FacebookYanmi Zhang (@yanmi.zhang) • Facebook, Connect with friendsYanmi Leung - FacebookVoxelMatters on Reels - FacebookYanmi Ho - Facebook Unlock the Future of Metal Additive Manufacturing with VoxelMatters! VoxelMatters Research has kicked off a pre-sale campaign for its upcoming Metal AM Market 2023 report. Connect and share with friends, family, and ",
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.voxelmatters.com/category/3d-printing-services/am-factories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/am/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://industrial.panasonic.com/jp/s-search/distributors",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.porsche.com/japan/jp/accessoriesandservice/vehicle-accessories/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aliexpress.us/item/3256809660336258.html?gatewayAdapt=jpn2usa4itemAdapt&_randl_shipto=US",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edwin-mall.jp/shop/goods/search.aspx?stockpresence=A&search.x=true&select_item=9801&select_brand=2",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://creator.holoearth.com/shop/products/1021609",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.gamsgo.com/ja/shop/816e4a6e-e9bd-0022-ac36-0c7d6e358691",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://creator.holoearth.com/shop/products/1021609",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jp.misumi-ec.com/vona2/s_cate/3d%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/?srsltid=AYCX9vJNWzIzHfeLziwlLd3W5_b9lCWzZvuQfqeNG7ohy2D55F2OLe9M",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aliexpress.us/item/3256811946054651.html?gatewayAdapt=jpn2usa4itemAdapt&_randl_shipto=US",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.exmatelab.com/categories/5848171",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/company/additive-japan-corporation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/category/global-am-hubs/japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.report/methodology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.directory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.amazon.co.jp/Yanmis-%E3%83%B4%E3%82%A3%E3%83%B3%E3%83%86%E3%83%BC%E3%82%B8-%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC%E3%80%81Bluetooth-%E3%83%97%E3%83%AC%E3%83%BC%E3%83%A4%E3%83%BC%E3%80%81USB-%E5%85%A5%E5%8A%9B%E3%80%81%E3%83%AA%E3%83%A2%E3%82%B3%E3%83%B3%E4%BB%98%E3%81%8D%E3%80%81%E5%AE%B6%E5%BA%AD%E7%94%A8%E8%BB%8A%E7%94%A8/dp/B0GG5DSG2Q",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/stores/%E3%82%B3%E3%83%BC%E3%83%81/page/0B7ABB90-8D18-4DA8-A1F8-ED8E7CF10A4A",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/Yanmis-Yanmi7anygt81vd-%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%8F%8C%E7%9C%BC%E9%8F%A1%E3%80%814K-HD%E3%82%AB%E3%83%A1%E3%83%A9%E4%BB%98%E3%81%8D%E5%8F%8C%E7%9C%BC%E9%8F%A1%E3%80%813600mAh%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E3%80%811-4%E3%82%A4%E3%83%B3%E3%83%81%E3%83%8D%E3%82%B8%E3%80%8164MP%E3%80%8128%E5%80%8D%E3%82%BA%E3%83%BC%E3%83%A0%E3%80%81%E3%83%90%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A9%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0%E3%81%AB%E6%9C%80%E9%81%A9%E3%80%81%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF/dp/B0FXMT8DRX",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/b?ie=UTF8&node=218417329051",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/k/store/%E6%92%B9%E6%8B%8C%E6%A9%9F/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/p/1766/2356/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/02385287/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/g/00016743/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://open.endole.co.uk/insight/company/10417555-voxelmatters-ltd",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.voxelmatters.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://find-and-update.company-information.service.gov.uk/company/10417555",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/voxelmatters",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/VoxelMatters/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "YANMI — VoxelMatters 代理店",
+   "results": [
+    "https://www.voxelmatters.com/category/3d-printing-services/am-factories/",
+    "https://www.voxelmatters.directory/",
+    "https://www.voxelmatters.com/am/",
+    "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "https://www.yam-kyoto.com/partnership/",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=2249",
+    "https://i-am-marketplace.com/about-us/",
+    "https://fusiontechnology.co.jp/access/",
+    "https://www.voxelmatters.directory/company-category/additive-manufacturing-outsourcing/",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "YANMI — VoxelMatters 正規代理店 OR 総代理店 OR 正規販売店",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://industrial.panasonic.com/jp/s-search/distributors",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.porsche.com/japan/jp/accessoriesandservice/vehicle-accessories/",
+    "https://zenmarket.jp/",
+    "https://www.city.edogawa.tokyo.jp/shouhisya_center/keihatsu/0205netitiran3.html",
+    "https://www.toyo.co.jp/material/maker/detail/matesy.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "YANMI — VoxelMatters 日本 販売",
+   "results": [
+    "https://ja.aliexpress.com/item/1005009846651010.html",
+    "https://edwin-mall.jp/shop/goods/search.aspx?stockpresence=A&search.x=true&select_item=9801&select_brand=2",
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://www.gamsgo.com/ja/shop/816e4a6e-e9bd-0022-ac36-0c7d6e358691",
+    "https://www.yami.com/us/ja/p/682148550695/3153054601",
+    "https://tamiyashop.jp/shop/default.aspx?ismodesmartphone=off&manufacturers_id=43",
+    "https://store.animax.co.jp/products/MCAN013",
+    "http://www.amiami.jp/shop/ProductInfo/product_id/176400?srsltid=AYCX9vIHtfYNbVrEA27xWUcK9F2T8Vk1spPDJlDctejPBT0lNBx4sjKz",
+    "https://mion-store.com/ja/products/413471",
+    "https://yanmi-official.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "YANMI — VoxelMatters フィラメント OR レジン OR ペレット 通販",
+   "results": [
+    "https://creator.holoearth.com/shop/products/1021609",
+    "https://jp.misumi-ec.com/vona2/s_cate/3d%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88/?srsltid=AYCX9vJNWzIzHfeLziwlLd3W5_b9lCWzZvuQfqeNG7ohy2D55F2OLe9M",
+    "https://ja.aliexpress.com/item/1005012132369403.html",
+    "https://shop.exmatelab.com/categories/5848171",
+    "https://www.amazon.co.jp/GIANTARM-%E3%83%A1%E3%82%BF%E3%83%AA%E3%83%83%E3%82%AF%E3%83%90%E3%82%A4%E3%82%AA%E3%83%AC%E3%83%83%E3%83%88PETG%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88%E3%80%81PETG-3D%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A3%E3%83%A9%E3%83%A1%E3%83%B3%E3%83%88-1-75mm%E3%80%81%E5%AF%B8%E6%B3%95%E7%B2%BE%E5%BA%A6-%E3%80%81%E7%9C%9F%E7%A9%BA%E5%8C%85%E8%A3%85%E3%80%81%E3%81%BB%E3%81%A8%E3%82%93%E3%81%A9%E3%81%AE3D/dp/B0F243S6TF",
+    "https://www.gamsgo.com/ja/shop/9f7d42e4-e9ee-324a-82c9-b6d112364aa1",
+    "http://www.amiami.jp/shop?vgForm=ProductInfo&sku=LTD-PCG-01349&template=default/product/display.html&srsltid=AYCX9vKY2DrEPj2zf8gOC8xAoP62Ca7w58yJQ4FZkMd7nbHKP9GqHnaQ",
+    "https://www.maiseat.com/ja-JP/skuSelect/17955",
+    "https://shop-green-ocean.com/",
+    "https://kinofu.com/uvresin-guide2026/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "YANMI — VoxelMatters Japan distributor",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.directory/company/additive-japan-corporation/",
+    "https://www.voxelmatters.com/category/global-am-hubs/japan/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://www.youtube.com/watch?v=Fw8iAvPkXHk",
+    "https://formnext.mesago.com/frankfurt/en/industry-insights/fonmag/fonmag_articles/articles/the-worlds-largest-am-service-providers.html",
+    "https://www.voxelmatters.group/consultancy/",
+    "https://www.voxelmatters.directory/",
+    "https://www.iemai3d.com/index.php/distributors/",
+    "https://www.voxelmatters.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "YANMI — VoxelMatters distributor Japan OR Japanese partner",
+   "results": [
+    "https://www.voxelmatters.com/japanese-additive-manufacturing-is-rising/",
+    "https://www.voxelmatters.com/formlabs-partners-with-dmg-mori-for-distribution-in-japan/",
+    "https://www.voxelmatters.directory/",
+    "https://www.farsoon-gl.com/news/press-release-farsoon-expands-into-japan-by-partnering-with-japan-3d-printer-co-ltd/",
+    "https://www.voxelmatters.report/methodology/",
+    "https://mx3d.com/geo/robotic-metal-3d-printing-japan/",
+    "https://www.imarcgroup.com/japan-3d-printing-market",
+    "https://www.raise3d.com/sales-partners-voice/japan-3d-printer-co-ltd-sales-partner-in-japan/",
+    "https://xjet3d.com/pr/xjet-appoints-zen-global-as-sales-partner-and-representative-in-japan/",
+    "https://www.japan-partner.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:amazon.co.jp YANMI — VoxelMatters",
+   "results": [
+    "https://www.amazon.co.jp/Yanmis-ヴィンテージ-プレーヤー、Bluetooth-プレーヤー、USB-入力、リモコン付き、家庭用車用/dp/B0GG5DSG2Q",
+    "https://www.amazon.co.jp/stores/コーチ/page/0B7ABB90-8D18-4DA8-A1F8-ED8E7CF10A4A",
+    "https://www.amazon.co.jp/Yanmis-Yanmi7anygt81vd-デジタル双眼鏡、4K-HDカメラ付き双眼鏡、3600mAhバッテリー、1-4インチネジ、64MP、28倍ズーム、バードウォッチングに最適、ブラック/dp/B0FXMT8DRX",
+    "https://www.amazon.co.jp/b?node=218417329051",
+    "https://www.amazon.co.jp/美しいキモノ-2026年冬号増刊吉田仁人特別版-ハースト婦人画報社/dp/B0HDC7JPDJ",
+    "https://www.amazon.co.jp/ザ・グレイテスト-～モハメド・アリ、知られざる真実～-シーズン１/dp/B0HJDGSGPW",
+    "https://www.amazon.co.jp/タカラトミー-トランスフォーマー-ctc技術実証機仕様-takara-tomy/dp/b0hq2t22vm"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:monotaro.com YANMI — VoxelMatters",
+   "results": [
+    "https://www.monotaro.com/k/store/撹拌機/",
+    "https://www.monotaro.com/p/1766/2356/",
+    "https://www.monotaro.com/g/02385287/",
+    "https://www.monotaro.com/g/00016743/",
+    "https://www.monotaro.com/g/02950285/",
+    "https://www.monotaro.com/g/01006039/",
+    "https://www.monotaro.com/p/3741/2794/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "YANMI — VoxelMatters employees revenue parent company",
+   "results": [
+    "https://open.endole.co.uk/insight/company/10417555-voxelmatters-ltd",
+    "https://www.voxelmatters.com/",
+    "https://find-and-update.company-information.service.gov.uk/company/10417555",
+    "https://www.cbinsights.com/company/voxelmatters",
+    "https://www.voxelmatters.com/category/money/financials/",
+    "https://find-and-update.company-information.service.gov.uk/company/10417555/filing-history",
+    "https://www.linkedin.com/company/voxelmatters"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com YANMI — VoxelMatters",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com YANMI — VoxelMatters",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://x.com/yanmi1175858",
+    "https://x.com/miya3536/status/2100822078169698552",
+    "https://x.com/yanmi_sub/status/2094998067871432834",
+    "https://x.com/yanmi_sub/status/2105248376778584248",
+    "https://x.com/yanmi_sub/status/2103558425267552601",
+    "https://x.com/yanmi_sub/status/2100822945899913644"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com YANMI — VoxelMatters",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com YANMI — VoxelMatters",
+   "results": [
+    "https://www.facebook.com/VoxelMatters/",
+    "https://www.facebook.com/",
+    "https://www.facebook.com/yanmi.tam/",
+    "https://www.facebook.com/yanmi.zhang/",
+    "https://www.facebook.com/yanmi.leung/",
+    "https://www.facebook.com/VoxelMatters/videos/2155326438344264/",
+    "https://www.facebook.com/yanmi.ho.1/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "YANMI — VoxelMatters note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.voxelmatters.com/",
+    "https://www.voxelmatters.com/about/",
+    "https://www.linkedin.com/pub/dir/davide/sher",
+    "https://www.linkedin.com/company/voxelmatters",
+    "https://find-and-update.company-information.service.gov.uk/company/10417555",
+    "https://www.voxelmatters.report/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "YANMI — VoxelMatters X 投稿",
+   "results": [
+    "https://x.com/voxelmatters",
+    "https://www.instagram.com/yanmi_official/",
+    "https://www.voxelmatters.com/",
+    "https://x.com/banyanyanmi/status/2118762327608811566",
+    "https://x.com/yanmi_sub/status/2102416148029681875",
+    "https://x.com/YingmeiZ93717/status/2119787421797859412",
+    "https://x.com/yanmi_sub/status/2113932502956175405"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "代理店網": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "直送・ネット販売": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）"
+ }
+}

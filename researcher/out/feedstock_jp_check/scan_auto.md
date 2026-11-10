@@ -14,7 +14,7 @@
 - 要確認（文脈不明か年が無い）：93件／93件。この数字は結論に使う前に引用の本文で確かめる
 - 除外の点検（規則ごとに外した数字の件数・4-39）：見出し・題名・検索結果の抜粋（4-5） 50件、金額の階級の境目（4-40） 4件
 - 短すぎる引用（12字未満・メニューや表の切れ端の疑い・4-39）から取った数字：2件。結論に使う前に本文で確かめる
-- 目で確かめる抜き取り（品目ごと・件数に比例・4-50）：Additive Manufacturing Systems（13件）、Shenzhen Esun Industrial（6件）、CMS（9件）。この品目の引用は全件を本文と照らす
+- 目で確かめる抜き取り（品目ごと・件数に比例・4-50）：VTT（10件）、CMS（9件）、Additive Manufacturing Systems（13件）。この品目の引用は全件を本文と照らす
   - ⚠ 翻訳・要約・又聞きの型の引用から取った数字 1件（例：Additive Manufacturing Systems）：元の一次と見比べるまで採る値・裏付けにしない（4-55）
   - ⚠ 出典がサイトの入口（トップページ）の数字 8件（例：www.replo.app）：数字が載った個別のページで取り直すまで裏付けに数えない（4-72）
   - ⚠ 表を平たくした文の疑い（数字6つ以上・かなほぼ無し）12件（例：Xenia Materials）：列・行の見出しとの対応が崩れている恐れ。表のファイル・原文の表で列を確かめるまで採る値にしない（4-76）
@@ -24,7 +24,7 @@
   - 検索語の向きの片寄り（4-56）：一方の向きの語だけで探している品目 0件／266件
   - 前提を置いた問いの形の品目（4-62）：0件／266件
   - 検索語の数字のこだま（4-63）：数字を入れた品目 1件／266件、そのうち検索語の数字と同じ値を拾った品目 0件
-  - 取得の記録の連鎖（4-55）：331d897257df（前回 5f2603abc628 から変わった：足された・消えた・書き換えられた行がある）
+  - 取得の記録の連鎖（4-55）：331d897257df（前回と同じ）
 - 鍵の欠け率（照合の前の棚卸し・4-42）：年 91/93件（98%）、規模区分 93/93件（100%）、文脈 42/93件（45%）、取得日 0/93件（0%）
 
 ## AITA
@@ -221,9 +221,7 @@
 - 試算値・推計値として事実の向きから外した数字：0件
 
 ## 前回からの変化（採る値・確度・年。4-38）
-- 新しく出た：NAGA｜SNS・note（note・本文）［不明］（%） 35（年不明年）【未確認】
-- 新しく出た：NAGA｜日本の担い手［不明］（%） 85.5（年不明年）【未確認】
-- 新しく出た：NAGA｜規模・親会社［売上・決算］（%） 3.5（年不明年）【未確認】
+（変化なし）
 
 ## 同じ文の中の割り出し（総額÷人数・4-39）
 （なし）
@@ -292,6 +290,7 @@
 - AF-COLOR
 - AKRO-PLASTIC GmbH
 - ALPHA POWDERS Sp. z o.o.
+- AM 4 AM — VoxelMatters
 - AM Marketplace GmbH
 - AMRICC — VoxelMatters
 - AMSKY Technology Co., Ltd. — VoxelMatters
@@ -303,6 +302,7 @@
 - Airtech Advanced Materials Group — VoxelMatters
 - Airtech Europe Sarl
 - Alfonso Additive — VoxelMatters
+- Arcway — VoxelMatters
 - Atomik AM — VoxelMatters
 - Avignon Ceramics — VoxelMatters
 - Axenoll — VoxelMatters
@@ -318,6 +318,7 @@
 - Bernhardt Kunststoffverarbeitungs GmbH
 - Blesol-Tech — VoxelMatters
 - BlueCore3D (蓝芯智能科技 / Shanghai BlueCore Intelligent Technology) — VoxelMatters
+- CADmore Metal — VoxelMatters
 - CDG
 - CH Leading Additive Manufacturing — VoxelMatters
 - CMET — VoxelMatters
@@ -341,6 +342,8 @@
 - Desktop Metal (formerly part of Nano Dimension, now relaunched under new owner Arc Impact) — VoxelMatters
 - Digital Craft DVF — VoxelMatters
 - Dongguan Jiecheng Additive Technology
+- ERVIN — VoxelMatters
+- EntroMat — VoxelMatters
 - Essent Biologics — VoxelMatters
 - Exentis Group — VoxelMatters
 - FLXR Engineering Co., Ltd.  — VoxelMatters
@@ -350,11 +353,13 @@
 - Filkemp S.A.
 - FormFutura B.V.
 - Formnext — VoxelMatters
+- Foundation Alloy — VoxelMatters
 - Foundry Lab
 - Fuselab 3D — VoxelMatters
 - GRAFE GmbH & Co. KG
 - GRIPM Advanced Materials
 - GUZTEC POLYMERS SRL
+- Grupa Azoty — VoxelMatters
 - Grupo Hi-Tec — VoxelMatters
 - Guangdong Fenghua Zhuoli Technology Co., Ltd
 - Guangdong Zhongliding Intelligent Technology Co., Ltd. — VoxelMatters
@@ -402,9 +407,11 @@
 - Lean Plastics Technologies GmbH
 - Legor Group S.p.A. — VoxelMatters
 - Lithoz — VoxelMatters
+- Lumas Polymers — VoxelMatters
 - MADDE — VoxelMatters
 - MAPTEC UAE — VoxelMatters
 - MIMETE S.r.l. — VoxelMatters
+- MNLT — VoxelMatters
 - MULTI3D — VoxelMatters
 - MakeAdditive — VoxelMatters
 - Mantle — VoxelMatters
@@ -428,6 +435,7 @@
 - Norco — VoxelMatters
 - Norm Holding (Norm Additive, Norm 3D) — VoxelMatters
 - Northbridge New Material Technology (Suzhou)
+- Novamet — VoxelMatters
 - ODeCon — VoxelMatters
 - OMEGA MDS — VoxelMatters
 - Objective3D — VoxelMatters
@@ -437,15 +445,19 @@
 - PORIMA POLIMER TEKNOLOJILERI
 - Peak Technology — VoxelMatters
 - Plansee — VoxelMatters
+- Polyful — VoxelMatters
 - Polymaker B.V.
 - Polyram UK LTD
 - Polystruder
+- Progold — VoxelMatters
+- Quanton 3D — VoxelMatters
 - ROSA PLAST Sp. z o.o.
 - Rapidia — VoxelMatters
 - Recreus Industries S.L.
 - Rousselot — VoxelMatters
 - Royal 3DP
 - RusselSmith — VoxelMatters
+- SCHLENK — VoxelMatters
 - SHANXI RUITUOFENG NEW MATERIALS
 - SK FINE
 - SUNLU (Guangdong) Technology Co.,Ltd. — VoxelMatters
@@ -461,6 +473,7 @@
 - Solid Lab — VoxelMatters
 - Solukon Maschinenbau GmbH — VoxelMatters
 - Spectrum Group Sp. z o.o.
+- Speedluma
 - Stardust — VoxelMatters
 - Stellar Pyxidis 3D — VoxelMatters
 - Sunnyday Technologies
@@ -481,6 +494,7 @@
 - Tritone Technologies — VoxelMatters
 - URECORE POLYURETHANE
 - Upside Parts LLC — VoxelMatters
+- VOXELPLA — VoxelMatters
 - ValCUN — VoxelMatters
 - Vinnotek — VoxelMatters
 - Viscofan Bioengineering — VoxelMatters
@@ -495,6 +509,7 @@
 - Xerion
 - Xiamen Antinsky Industry
 - Xometry — VoxelMatters
+- YANMI — VoxelMatters
 - Z-Polymers — VoxelMatters
 - ZEN Global — VoxelMatters
 - Zeisberg — VoxelMatters

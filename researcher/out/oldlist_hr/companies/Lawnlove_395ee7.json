@@ -1,0 +1,946 @@
+{
+ "name": "Lawnlove",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-10T00:24:36.119650+00:00",
+ "official_url": "https://www.lawnlove.com",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2014",
+    "url": "https://startupintros.com/orgs/lawn-love",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "San Diego, CA, USA",
+    "url": "https://startupintros.com/orgs/lawn-love",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Hire a world-class lawn care service in under two minutes.",
+    "url": "https://lawnlove.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Get a quick and easy price:",
+    "url": "https://lawnlove.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Lawn care is a science, and we at Lawn Love pride ourselves in being on the cutting edge of the industry. We don’t believe that one size fits all, as every lawn is unique and has its particular challenges with regard to climate, grasses, growing seasons, and soil varieties. We’ll match you with a skilled, experienced lawn care provider that will work wonders on your yard.",
+    "url": "https://lawnlove.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Lawn Love starts saving you time with an instant, personalized quote. Based on our satellite mapping technology, your location, and preferred service type, we’ll provide a competitive price right away. No surprises, no hidden charges, and no need to waste time calling around.",
+    "url": "https://lawnlove.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We figure out everything from the scheduling, routing, and payment processing so that you can sit back, relax, and enjoy your beautiful lawn.",
+    "url": "https://lawnlove.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our skilled, independent lawn pros cover all the bases from lawn mowing and yard maintenance service to specialty lawn services including aeration, fertilizing, gutter cleaning, and more. We even offer year-round support with snow removal services.",
+    "url": "https://lawnlove.com/",
+    "pass": 1
+   },
+   {
+    "quote": "to find your lawn care service provider.",
+    "url": "https://lawnlove.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Are You A Lawn Care Professional?",
+    "url": "https://lawnlove.com/",
+    "pass": 1
+   },
+   {
+    "quote": "View pricing options, select a service plan, and schedule your service in just 5 minutes or less.",
+    "url": "https://lawnlove.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Looking for someone to take care of all of your home's wants and needs? Our pros can do it all.",
+    "url": "https://lawnlove.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The most professional cut since we started using this service. We’ve had 3 or 4 different cutters and Samual’s Jo’s was head and shoulder better than the others.",
+    "url": "https://lawnlove.com/",
+    "pass": 1
+   },
+   {
+    "quote": "I’m extremely happy with Jeff’s lawn mowing service! He is professional, reliable, efficient, and consistently does an excellent job. From start to finish, Jeff makes lawn care easy and stress-free.",
+    "url": "https://lawnlove.com/",
+    "pass": 1
+   },
+   {
+    "quote": "What I appreciate most about Jeff is how efficient he is. He works quickly and gets the job done without compromising on quality. My lawn always looks neat, clean, and well-maintained after he finishes. He pays attention to the details and takes pride in his work, which really makes a difference.",
+    "url": "https://lawnlove.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Peter did a fantastic job mowing our lawn. The cut is clean and even, and the yard looks great. He also took the time to clean up afterward, leaving no clippings on the driveway or sidewalks. It's clear he takes pride in his work and pays attention to the details. I'm very happy with the results and would gladly hire him again. Highly recommend Peter for anyone who needs lawn mowing.",
+    "url": "https://lawnlove.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Lawn Care Pricing & Cost Guide 2026 | Instant Quotes from $29 | Lawn Love",
+    "url": "https://lawnlove.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We are taking a high-tech approach",
+    "url": "https://lawnlove.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Lawn Care Services & Pricing",
+    "url": "https://lawnlove.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "All lawn care prices shown are for a typical 5,000 sq ft property. Get your exact lawn service cost instantly by entering your address when you get a quote.",
+    "url": "https://lawnlove.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Get My Lawn Mowing Instant Price →",
+    "url": "https://lawnlove.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "professional lawn mowing service",
+    "url": "https://lawnlove.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Bush Trimming & Shrub Pruning",
+    "url": "https://lawnlove.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "service for hedges, shrubs, and ornamental plants. Our pros shape and maintain your landscape plants for curb appeal.",
+    "url": "https://lawnlove.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Get My Bush Trimming Instant Price →",
+    "url": "https://lawnlove.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Complete fall and spring",
+    "url": "https://lawnlove.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Get My Leaf Removal Instant Price →",
+    "url": "https://lawnlove.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Professional flower bed maintenance and weeding service to keep your garden beds pristine and weed-free.",
+    "url": "https://lawnlove.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Ongoing weed prevention",
+    "url": "https://lawnlove.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Get My Flower Bed Weeding Instant Price →",
+    "url": "https://lawnlove.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Professional-grade fertilizer application",
+    "url": "https://lawnlove.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Seasonal lawn care programs",
+    "url": "https://lawnlove.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Get My Fertilization Instant Price →",
+    "url": "https://lawnlove.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Sharon and Renee did a professional job. I'm very pleased with the work they did. I would like them to return next month.",
+    "url": "https://lawnlove.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Jared did a great job. Very professional and super nice.",
+    "url": "https://lawnlove.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Green Cove Springs, FL",
+    "url": "https://lawnlove.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The service provided by James was impressive! He showed up within the approved timeframe and he also took great care to cut the grass around the patio solar lights without damaging them. After the job was completed, he also sent me a courtesy photograph to confirm the job met our needs. Thank you James!",
+    "url": "https://lawnlove.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The mowing and trimming look great! With the rain, the mowing had to be rescheduled. I really appreciate being contacted by Manoach to let me know that he would be coming on a different day. The cleanup was very good – the walks, patio and driveway were left clean.",
+    "url": "https://lawnlove.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Why Choose Lawn Love for Professional Outdoor Services?",
+    "url": "https://lawnlove.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": ": No hidden fees. Your quoted price is your final price unless property conditions differ significantly from satellite imagery.",
+    "url": "https://lawnlove.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Vetted outdoor services professionals",
+    "url": "https://lawnlove.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "A background-checked, insured pro shows up — usually within a day or two",
+    "url": "https://lawnlove.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Lawn Love started as a better way to get your lawn mowed. It grew into something bigger: a single platform for nearly every outdoor service your property needs, all handled by the same network of background-checked pros.",
+    "url": "https://lawnlove.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "our pros can handle – all through the same platform, the same account, the same guarantee.",
+    "url": "https://lawnlove.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Thousands of background-checked pros. 1 satisfaction guarantee.",
+    "url": "https://lawnlove.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Every pro on the Lawn Love platform is background-checked, rated by customers, and insured. You'll see Lawn Love reviews from lawn care pros near where you live before you book.",
+    "url": "https://lawnlove.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Lawn Love was designed for people who don't have time to chase down a lawn care pro, wait for a visit to set a price, or spend time trying to get a lawn mowing job rescheduled or a problem resolved. You have enough going on.",
+    "url": "https://lawnlove.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Whatever your situation, Lawn Love has the pros to handle it.",
+    "url": "https://lawnlove.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We started Lawn Love with one primary goal. To revolutionize the traditional lawn care industry.",
+    "url": "https://lawnlove.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "In 2021, Lawn Love was acquired by LawnStarter – creating the nation's largest digital marketplace for outdoor services. The merger has accelerated the growth of both companies and expands the network of pros available to Lawn Love customers.",
+    "url": "https://lawnlove.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Steve Corcoran, co-founder and CEO of LawnStarter, leads Lawn Love today.",
+    "url": "https://lawnlove.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Colorado Springs, CO Lawn Care",
+    "url": "https://lawnlove.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Cypress, TX Lawn Care",
+    "url": "https://lawnlove.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Spring, TX Lawn Care",
+    "url": "https://lawnlove.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-Emergent Weed Control",
+    "url": "https://lawnlove.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "and to receive automated texts from Lawn Love, including service updates and marketing offers. Consent not required to purchase. Reply STOP anytime. Msg & data rates may apply.",
+    "url": "https://lawnlove.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "https://mixergy.com/interviews/jeremy-yamaguchi-lawn-love/",
+    "url": "https://earthkey.blog/global/lawn-love/",
+    "pass": 3
+   },
+   {
+    "quote": "Privacy Policy,",
+    "url": "https://www.scam-detector.com/validator/lawnlove-com-review/",
+    "pass": 3
+   },
+   {
+    "quote": "(100): Protect your digital world on any device – Guardio stops scams and phishing in their tracks.",
+    "url": "https://www.scam-detector.com/validator/lawnlove-com-review/",
+    "pass": 3
+   },
+   {
+    "quote": "(100): Delete your personal data from the internet and protect against scams and identity theft.",
+    "url": "https://www.scam-detector.com/validator/lawnlove-com-review/",
+    "pass": 3
+   },
+   {
+    "quote": "Proximity to Suspicious Websites",
+    "url": "https://www.scam-detector.com/validator/lawnlove-com-review/",
+    "pass": 3
+   },
+   {
+    "quote": "industry, but we still have concerns. We tried to extract some content from the website to see what they say about themselves. Here's the conclusion:",
+    "url": "https://www.scam-detector.com/validator/lawnlove-com-review/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "We carry a multimillion dollar liability insurance policy so you're fully covered.",
+    "url": "https://lawnlove.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Harrisburg, PA",
+    "url": "https://lawnlove.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A vetted local outdoor services professional arrives on schedule and completes your service to our quality standards.",
+    "url": "https://lawnlove.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We carry a multimillion dollar liability insurance policy so you're fully covered.",
+    "url": "https://lawnlove.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "In 2021, Lawn Love was acquired by LawnStarter – creating the nation's largest digital marketplace for outdoor services. The merger has accelerated the growth of both companies and expands the network of pros available to Lawn Love customers.",
+    "url": "https://lawnlove.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We carry a multimillion dollar liability insurance policy so you're fully covered.",
+    "url": "https://lawnlove.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "boasts an 's' at the end of the 'HTTP' protocol listed in your browser's address bar. If the tab displays in green, consider it a positive sign.",
+    "url": "https://www.scam-detector.com/validator/lawnlove-com-review/",
+    "pass": 3
+   },
+   {
+    "quote": "LawnStarter, a leading provider of on-demand lawn and outdoor care, has acquired Lawn Love in a cash-and-stock deal that creates a nationwide on-demand powerhouse for lawn care and other outdoor services. Financial terms were not disclosed.",
+    "url": "https://principiumgroup.com/lawnstarter-acquires-lawnlove/",
+    "pass": 3
+   },
+   {
+    "quote": "Combined, LawnStarter and Lawn Love will also benefit providers of outdoor home services by enabling them to take on more jobs, thereby boosting the revenue of thousands of small businesses across the country.",
+    "url": "https://principiumgroup.com/lawnstarter-acquires-lawnlove/",
+    "pass": 3
+   },
+   {
+    "quote": "Lawn Love founder and CEO Jeremy Yamaguchi says his company’s acquisition by LawnStarter allows both businesses to better capitalize on the growth of on-demand, tech-enabled services since the outset of the COVID-19 pandemic, and positions the combined company as a clear market leader.",
+    "url": "https://principiumgroup.com/lawnstarter-acquires-lawnlove/",
+    "pass": 3
+   },
+   {
+    "quote": "San Diego-based Juniper Landscape Company Acquired by Verde Companies",
+    "url": "https://principiumgroup.com/lawnstarter-acquires-lawnlove/",
+    "pass": 3
+   },
+   {
+    "quote": "News and Commentary tracks industry merger & acquisition activity and also includes our commentary and thoughts for business owners in the lawn, landscape and related industries",
+    "url": "https://principiumgroup.com/lawnstarter-acquires-lawnlove/",
+    "pass": 3
+   },
+   {
+    "quote": "Merger & Acquisition Advisory",
+    "url": "https://principiumgroup.com/lawnstarter-acquires-lawnlove/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Whether it's via chat, email, or over the phone, our team is always available to help.",
+    "url": "https://lawnlove.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether it's via chat, email, or over the phone,",
+    "url": "https://lawnlove.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": ". They become especially pertinent if the website has received reports from internet users who've encountered unsolicited emails, ads, or messages related to the site. In the context of",
+    "url": "https://www.scam-detector.com/validator/lawnlove-com-review/",
+    "pass": 3
+   },
+   {
+    "quote": "How did you find this company/page? Online ads, suspicious Facebook advertisements, Instagram, email? You can help out many people today by commenting below.. Is",
+    "url": "https://www.scam-detector.com/validator/lawnlove-com-review/",
+    "pass": 3
+   },
+   {
+    "quote": "When domain owners contact us to dispute their trust score, we kindly ask for the following:",
+    "url": "https://www.scam-detector.com/validator/lawnlove-com-review/",
+    "pass": 3
+   },
+   {
+    "quote": "Please send the following via email to",
+    "url": "https://www.scam-detector.com/validator/lawnlove-com-review/",
+    "pass": 3
+   },
+   {
+    "quote": "Your email address will not be published. Required fields are marked *",
+    "url": "https://www.scam-detector.com/validator/lawnlove-com-review/",
+    "pass": 3
+   },
+   {
+    "quote": "How To Stop Spam Emails",
+    "url": "https://www.scam-detector.com/validator/lawnlove-com-review/",
+    "pass": 3
+   },
+   {
+    "quote": "How To Report Scam Emails",
+    "url": "https://www.scam-detector.com/validator/lawnlove-com-review/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Skilled lawn care technicians",
+    "url": "https://lawnlove.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "service for hedges, shrubs, and ornamental plants. Our pros shape and maintain your landscape plants for curb appeal.",
+    "url": "https://lawnlove.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "– Clear out what doesn't belong so your plants thrive",
+    "url": "https://lawnlove.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Lawn Love",
+    "url": "https://www.casestudies.com/customer/lawn-love",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "芝生管理を革新するカリフォルニア発オンデマンドサービスLawn Love — Jun 24, 2025 · 創業者のYamaguchiは現在、サービス業向けのホールディングカンパニーを構築する新たなプロジェクトに取り組んでおり、Lawn Loveでの経験を次の事業展開に活かしています。",
+    "url": "https://earthkey.blog/global/lawn-love/",
+    "pass": 3
+   },
+   {
+    "quote": "Local Lawn Care & Mowing Services Made Easy | Lawn Love — Lawn Love operates in over 120 cities and 900 neighborhoods. Check out our locations or enter your zip code in the quote form to find your lawn care service provider.",
+    "url": "https://lawnlove.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Jeremy Yamaguchi - CEO at Cabana | LinkedInAbout Us - Lawn Lovelawnlove.com Reviews: Is this site a scam or legit?LawnStarter Acquires LawnLove |Episode #207: Jeremy Yamaguchi, Lawn Love, “It’s…One Of The ...Playboy Playmates - IMDb — In 2021, Lawn Love merged with a competitor to form the largest marketplace in the lawn and garden category. Before that, I founded Golden Shine, a fully bootstrappe",
+    "url": "https://www.linkedin.com/in/jeremyyamaguchi",
+    "pass": 3
+   },
+   {
+    "quote": "lawnlove.com Reviews: Is this site a scam or legit? — Is lawnlove.com legit or a scam? Read reviews, company details, technical analysis, and more to help you decide if this site is trustworthy or fraudulent.",
+    "url": "https://www.scam-detector.com/validator/lawnlove-com-review/",
+    "pass": 3
+   },
+   {
+    "quote": "LawnStarter Acquires LawnLove | — Aug 10, 2021 · LawnStarter, a leading provider of on-demand lawn and outdoor care, has acquired Lawn Love in a cash-and-stock deal that creates a nationwide on-demand powerhouse for lawn care and other outdoor services.",
+    "url": "https://principiumgroup.com/lawnstarter-acquires-lawnlove/",
+    "pass": 3
+   },
+   {
+    "quote": "Local Lawn Care & Mowing Services Made Easy | Lawn Love — Lawn Love makes it easy to grow your business by finding lawn care services jobs near you. Our app helps you with everything from finding, quoting, and completing new lawn jobs.",
+    "url": "https://lawnlove.com/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Lawn Love Uses Software & Services — Explore case studies featuring Lawn Love as the customer — learn how vendors and partners helped Lawn Love solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/lawn-love",
+    "pass": 3
+   },
+   {
+    "quote": "Lawn King Inc.: Sales Strategy Analysis | PDF - ScribdHow Lawn Love brings a tech-enabled approach to lawn care ...Lawn Love Review 2026: Is It Worth It? - LawnStarterCustomer App & Web – Lawn Love.com Help, Support, & FAQs — The document discusses a case study about Lawn King Inc., a producer of lawn mower equipment. It outlines problems the company is facing like decreasing sales, changing marke",
+    "url": "https://www.scribd.com/document/472089023/LAWN-KING-INC",
+    "pass": 3
+   },
+   {
+    "quote": "Customer App & Web – Lawn Love.com Help, Support, & FAQs — Customer App & Web Encompasses all the essential information for customers to enhance their experience while using our platform.",
+    "url": "https://support.lawnlove.com/hc/en-us/categories/24120313920402-Customer-App-Web",
+    "pass": 3
+   },
+   {
+    "quote": "Local Lawn Care & Mowing Services Made Easy | Lawn Love — We match customers with lawn pros who are close by and waiting to complete the job. Based on your service type and plan, we’ll search our pro database to find you the perfect match. You’ll know the pros are qualified because they’ve passed Lawn Love requirements and because of our quality guarantee. Don’t like the way your lawn looks?",
+    "url": "https://lawnlove.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Studies Archives - Lawn Care Blog | Lawn Love — Mar 11, 2026 · Lawn Love ranked nearly 500 U.S. cities on eco-friendly lawn care — from native plant access to urban heat mitigation policies. See how your city compares.",
+    "url": "https://lawnlove.com/blog/category/studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Lawn Love - 2025 Company Profile, Team, Funding ... - Tracxn — Sep 10, 2025 · Lawn Love is an acquired company based in San Diego (United States), founded in 2014 by Jeremy Yamaguchi. It operates as a Lawn care and landscaping services. Lawn Love has raised $6.7M in funding. The company has 21 active competitors, including 6 funded and 3 that have exited.",
+    "url": "https://tracxn.com/d/companies/lawn-love/__pZfyCA4JVwdfFFmDyV0nB88wwQCURHJUXu91mzjdzLM",
+    "pass": 3
+   },
+   {
+    "quote": "Lawn Love - $4.4 M Revenue, Employees & Growth | Kona Equity — Lawn Love has an estimated annual revenue of $4.4 M, 85 employees, headquartered in San Diego, CA, founded in 2014. Explore Lawn Love revenue history, growth rate, competitors, and more in the Lawn care service industry.",
+    "url": "https://www.konaequity.com/company/lawn-love-4393826102/",
+    "pass": 3
+   },
+   {
+    "quote": "Lawn Love Lawn Care – Revenue Estimate & Market Landscape – 2026 — Nov 13, 2014 · Lawn Love Lawn Care Revenue & Valuation On average, Lawn Love Lawn Care is believed to generate yearly revenue close to $27.1M. This translates to an estimated $251K in revenue per employee for Lawn Love Lawn Care. Across all rounds, Lawn Love Lawn Care has brought in $1.9M in funding.",
+    "url": "https://compworth.com/company/lawn-love-lawn-care",
+    "pass": 3
+   },
+   {
+    "quote": "Lawn Love: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Founded in 2014 by Jeremy Yamaguchi, an experienced entrepreneur who started his first business at 16, Lawn Love emerged from his vision to revolutionize the traditional, fragmented lawn care industry.",
+    "url": "https://startupintros.com/orgs/lawn-love",
+    "pass": 3
+   },
+   {
+    "quote": "Lawn Love — Company Profile, Funding & Investors — Lawn Love company profile with HQ in San Diego, United States, founded 2014. Explore its acquisitions, funding rounds, investors, key people and contacts on Acquirezy — updated 2026.",
+    "url": "https://acquirezy.com/organization/lawn-love",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "\"#LawnLove\" - Results on X | Live Posts & Updates Results for \"#LawnLove\" on X (Twitter). Find the latest posts, discussions, and updates about #LawnLove. 19 results found.",
+    "url": "https://x.com/hashtag/LawnLove",
+    "pass": 3
+   },
+   {
+    "quote": "How to Transition Your Lawn From Summer Drought to Fall https ... lawnlove (Lawn Love). 1 likes 0 replies. How to Transition Your Lawn From Summer Drought to Fall https://t.co/siEFVgK5mV",
+    "url": "https://x.com/lawnlove/status/2095837914290667920",
+    "pass": 3
+   },
+   {
+    "quote": "https://t.co/cWw565Rife We're excited to be servicing Madison ... Lawn Love (@lawnlove). 5 likes. https://t.co/cWw565Rife We're excited to be servicing Madison homeowners in 2019! 💚 #lawnlove #Madison",
+    "url": "https://x.com/lawnlove/status/1128362173179187200",
+    "pass": 3
+   },
+   {
+    "quote": "https://t.co/xRnK9jE6KB \"Here comes a new app that doesn’t ... Lawn Love (@lawnlove). https://t.co/xRnK9jE6KB \"Here comes a new app that doesn’t require a contract or any heavy lifting.\" 😏💚 #twincities",
+    "url": "https://x.com/lawnlove/status/1080637323010727936",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Lawn Love Lawn Care - LinkedIn Lawn Love Lawn Care | 1,822 followers on LinkedIn. We're Lawn Love, a new type of lawn care service. We’re building a software layer on top of the very large and largely low-tech lawn care ...",
+    "url": "https://www.linkedin.com/company/lawn-love",
+    "pass": 3
+   },
+   {
+    "quote": "eddie gallegos - Company Owner at Lawn Love Lawn Care | LinkedInSharon Sullivan - Senior Managing Editor at Lawn Love | LinkedInWhat to Do With Pumpkins After Halloween: 9 Ways to Recycle ...Shriya B – Marketing & Growth Leader | 8+ Years in Brand ...Software Engineering Manager na empresa LawnStarter ...Tesco Colleague - Hythe Langdown Lawn Express - LinkedIn Company Owner at Lawn Love Lawn Care ",
+    "url": "https://www.linkedin.com/in/eddie-gallegos-912343180",
+    "pass": 3
+   },
+   {
+    "quote": "Sharon Sullivan - Senior Managing Editor at Lawn Love | LinkedInWhat to Do With Pumpkins After Halloween: 9 Ways to Recycle ...Shriya B – Marketing & Growth Leader | 8+ Years in Brand ...Software Engineering Manager na empresa LawnStarter ...Tesco Colleague - Hythe Langdown Lawn Express - LinkedIn Senior Managing Editor at Lawn Love · As the Senior Managing Editor of Lawn Love, I work with blog wr",
+    "url": "https://www.linkedin.com/in/sharon-sullivan-quinn",
+    "pass": 3
+   },
+   {
+    "quote": "Jeremy Yamaguchi - CEO at Cabana | LinkedInJeremy Yamaguchi - Founder, CEO @ Lawn Love - CrunchbaseLawn Love CEO, Founder, Key Executive Team, Board of ...Media Kit - Lawn Care Blog | Lawn LoveHigh-tech lawn care business arrives in Pahrump - pvtimes.comLawn Love Lawn Care: Founder, Leadership & Team In 2021, Lawn Love merged with a competitor to form the largest marketplace in the lawn and garden",
+    "url": "https://www.linkedin.com/in/jeremyyamaguchi",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://lawnlove.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lawnlove.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lawnlove.com/about",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://earthkey.blog/global/lawn-love/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lawnlove.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://36kr.jp/502580/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/in/jeremyyamaguchi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.scam-detector.com/validator/lawnlove-com-review/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://principiumgroup.com/lawnstarter-acquires-lawnlove/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imdb.com/list/ls031400444/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.casestudies.com/customer/lawn-love",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scribd.com/document/472089023/LAWN-KING-INC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.lawnlove.com/hc/en-us/categories/24120313920402-Customer-App-Web",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://lawnlove.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/lawn-love/__pZfyCA4JVwdfFFmDyV0nB88wwQCURHJUXu91mzjdzLM",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.konaequity.com/company/lawn-love-4393826102/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/lawn-love-lawn-care",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/lawn-love",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hashtag/LawnLove",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/lawnlove/status/2095837914290667920",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/lawnlove/status/1128362173179187200",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/lawn-love",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/eddie-gallegos-912343180",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/sharon-sullivan-quinn",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jeremyyamaguchi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/LawnLove",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/lawnlove/status/1080637323010727936",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/lawnlove/status/2095837914290667920",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Lawnlove 日本 導入",
+   "results": [
+    "https://earthkey.blog/global/lawn-love/",
+    "https://lawnlove.com/",
+    "https://36kr.jp/502580/",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://prtimes.jp/main/html/rd/p/000000040.000111332.html",
+    "https://www.wwdjapan.com/articles/2541327",
+    "https://www.linkedin.com/in/jeremyyamaguchi"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lawnlove 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://lawnlove.com/",
+    "https://valorholdings.co.jp/corporate/officers.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lawnlove Japan",
+   "results": [
+    "https://www.linkedin.com/in/jeremyyamaguchi",
+    "https://www.scam-detector.com/validator/lawnlove-com-review/",
+    "https://principiumgroup.com/lawnstarter-acquires-lawnlove/",
+    "https://www.imdb.com/list/ls031400444/",
+    "https://lawnlove.com/",
+    "https://lawnlove.com/about",
+    "https://mebfaber.com/2020/03/25/episode-207-jeremy-yamaguchi-itsone-of-the-last-markets-in-the-usthat-has-beenresistant-to-technology/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lawnlove manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/customer/lawn-love",
+    "https://www.scribd.com/document/472089023/LAWN-KING-INC",
+    "https://support.lawnlove.com/hc/en-us/categories/24120313920402-Customer-App-Web",
+    "https://lawnlove.com/",
+    "https://lawnlove.com/blog/category/studies/",
+    "https://mixergy.com/interviews/jeremy-yamaguchi-lawn-love/",
+    "https://www.lawnstarter.com/blog/reviews/lawn-love-review/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lawnlove white label OR reseller OR partner program",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Lawnlove founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/lawn-love/__pZfyCA4JVwdfFFmDyV0nB88wwQCURHJUXu91mzjdzLM",
+    "https://www.konaequity.com/company/lawn-love-4393826102/",
+    "https://compworth.com/company/lawn-love-lawn-care",
+    "https://startupintros.com/orgs/lawn-love",
+    "https://acquirezy.com/organization/lawn-love",
+    "https://pitchbook.com/profiles/company/98484-76",
+    "https://www.zoominfo.com/c/lawn-love-inc/357457284"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Lawnlove",
+   "results": [
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/bright_guppy6116/n/na6df78fcdc2f",
+    "https://note.com/tori_1980/n/n21037c205ade",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/keizokuramoto/n/nef2f6f1c855d",
+    "https://note.com/isomitsuo/n/nd6f66ed87bfd"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Lawnlove",
+   "results": [
+    "https://x.com/hashtag/LawnLove",
+    "https://x.com/lawnlove/status/2095837914290667920",
+    "https://x.com/lawnlove/status/1128362173179187200",
+    "https://x.com/loocidlawn/status/2119555419915837588",
+    "https://x.com/lawnchairapp",
+    "https://x.com/Vanlenciacf/status/2115571969827668368",
+    "https://x.com/ElianaBrigo2/status/2116160311694639207"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Lawnlove",
+   "results": [
+    "https://www.linkedin.com/company/lawn-love",
+    "https://www.linkedin.com/in/eddie-gallegos-912343180",
+    "https://www.linkedin.com/in/sharon-sullivan-quinn",
+    "https://uk.linkedin.com/jobs/view/tesco-colleague-hythe-langdown-lawn-express-at-tesco-4487937863",
+    "https://de.linkedin.com/in/shriyabhardwaj37/de",
+    "https://br.linkedin.com/jobs/view/software-engineering-manager-at-lawnstarter-4483907547",
+    "https://www.linkedin.com/posts/lawn-love_what-to-do-with-pumpkins-after-halloween-activity-7523117045127741440-_uN1"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Lawnlove",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Lawnlove note 社長",
+   "results": [
+    "https://www.everythingmarketplaces.com/c/starting-lawn-love",
+    "https://www.linkedin.com/in/jeremyyamaguchi",
+    "https://www.crunchbase.com/person/jeremy-yamaguchi",
+    "https://www.cbinsights.com/company/lawn-love/people",
+    "https://lawnlove.com/blog/media-kit-lawn-love/",
+    "https://pvtimes.com/news/high-tech-lawn-care-business-arrives-in-pahrump-78271/",
+    "https://wellfound.com/company/lawn-love/people"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Lawnlove X 投稿",
+   "results": [
+    "https://x.com/hashtag/LawnLove",
+    "https://www.instagram.com/lawnlove/",
+    "https://x.com/lawnlove/status/1080637323010727936",
+    "https://x.com/lawnlove/status/2095837914290667920",
+    "https://www.instagram.com/lawn_love_/",
+    "https://lawnlove.com/",
+    "https://xlbbbs.com/forum.php"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部30頁・検索12回）"
+ }
+}

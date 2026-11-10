@@ -1,4 +1,4 @@
-# 海外AM原料メーカー 日本の担い手の有無（代理店・日本法人・国内通販）と窓口（事実のみ・249社）
+# 海外AM原料メーカー 日本の担い手の有無（代理店・日本法人・国内通販）と窓口（事実のみ・266社）
 
 ## 3DBioFibR — VoxelMatters
 - 公式URL：https://bit.ly/3zUkyBr（given）
@@ -348,6 +348,21 @@
 - 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
 - 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
 
+## AM 4 AM — VoxelMatters
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+
 ## AM Marketplace GmbH
 - 公式URL：https://www.i-am-marketplace.com（given）
 - 日本の担い手：
@@ -692,6 +707,25 @@
 - 売上高：記載なし（3回確認済み：公式10頁／PDF・画像0件／外部42頁・検索15回）
 - 所在地：記載なし（3回確認済み：公式10頁／PDF・画像0件／外部42頁・検索15回）
 - 拠点：記載なし（3回確認済み：公式10頁／PDF・画像0件／外部42頁・検索15回）
+
+## Arcway — VoxelMatters
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 代理店網：
+  - 「ARCWAY is a global distributor and technology partner in the field of Additive Manufacturing, specializing in advanced 3D printing solutions and metal powder atomization.」（https://www.voxelmatters.directory/company/arcway/・3回目）
+- 規模・親会社：
+  - 「The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.」（https://www.voxelmatters.directory/company/arcway/・3回目）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 検索結果の抜粋：
+  - 「Arcway — VoxelMatters - The largest database of additive ... — Arcway — VoxelMatters - The largest database of additive ... voxelmatters.directory https://www.voxelmatters.directory > ...」（https://www.voxelmatters.directory/company/arcway/・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
 
 ## Atomik AM — VoxelMatters
 - 公式URL：https://bit.ly/3zUkyBr（given）
@@ -1054,6 +1088,21 @@
 - 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）
 - 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）
 - 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部32頁・検索15回）
+
+## CADmore Metal — VoxelMatters
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索15回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索15回）
 
 ## CDG
 - 公式URL：https://bit.ly/3zUkyBr（given）
@@ -1626,6 +1675,36 @@
 - 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部55頁・検索15回）
 - 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部55頁・検索15回）
 
+## ERVIN — VoxelMatters
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+
+## EntroMat — VoxelMatters
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+
 ## Essent Biologics — VoxelMatters
 - 公式URL：https://bit.ly/3zUkyBr（given）
 - 連絡先：
@@ -1839,6 +1918,21 @@
 - 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
 - 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
 
+## Foundation Alloy — VoxelMatters
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+
 ## Foundry Lab
 - 公式URL：https://bit.ly/3zUkyBr（given）
 - 日本の担い手：
@@ -2018,6 +2112,21 @@
 - 拠点：記載なし（3回確認済み：公式1頁／PDF・画像2件／外部46頁・検索15回）
 - 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像2件／外部46頁・検索15回）
 - 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像2件／外部46頁・検索15回）
+
+## Grupa Azoty — VoxelMatters
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
 
 ## Grupo Hi-Tec — VoxelMatters
 - 公式URL：https://bit.ly/3zUkyBr（given）
@@ -3130,6 +3239,23 @@
 - 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部42頁・検索15回）
 - 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部42頁・検索15回）
 
+## Lumas Polymers — VoxelMatters
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 検索結果の抜粋：
+  - 「Lumas Polymers — VoxelMatters - The largest database of ... — Lumas Polymers specializes in custom materials manufacturing and formulation services for traditional and additive manufacturing. Through innovation and collaboration, Lumas Polymers is committed to delivering exceptional material solutions tailored to meet customers' unique needs.」（https://www.voxelmatters.directory/company/lumas-polymers/・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+
 ## MADDE — VoxelMatters
 - 公式URL：https://bit.ly/3zUkyBr（given）
 - 連絡先：
@@ -3185,6 +3311,21 @@
 - 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索15回）
 - 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索15回）
 - 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索15回）
+
+## MNLT — VoxelMatters
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
 
 ## MULTI3D — VoxelMatters
 - 公式URL：https://bit.ly/3zUkyBr（given）
@@ -3718,6 +3859,21 @@
 - 所在地：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部43頁・検索15回）
 - 拠点：記載なし（3回確認済み：公式4頁／PDF・画像1件／外部43頁・検索15回）
 
+## Novamet — VoxelMatters
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+
 ## ODeCon — VoxelMatters
 - 公式URL：https://bit.ly/3zUkyBr（given）
 - 連絡先：
@@ -3963,6 +4119,21 @@
 - 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
 - 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
 
+## Polyful — VoxelMatters
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+
 ## Polymaker B.V.
 - 公式URL：https://www.polymaker.com（given）
 - 株主：Corporation Minority（https://pitchbook.com/profiles/company/172024-21・3回目）
@@ -4112,6 +4283,36 @@
 - 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索15回）
 - 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索15回）
 - 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部41頁・検索15回）
+
+## Progold — VoxelMatters
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+
+## Quanton 3D — VoxelMatters
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
 
 ## REPLO Limited
 - 公式URL：https://replotech.com（given）
@@ -4316,6 +4517,21 @@
 - 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
 - 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
 - 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+
+## SCHLENK — VoxelMatters
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索15回）
 
 ## SHANXI RUITUOFENG NEW MATERIALS
 - 公式URL：特定できず（not_found）
@@ -5042,6 +5258,28 @@
 - 所在地：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部38頁・検索15回）
 - 拠点：記載なし（3回確認済み：公式3頁／PDF・画像1件／外部38頁・検索15回）
 
+## Speedluma
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 代理店網：
+  - 「Regional Distributors & Wholesalers」（https://speedluma.com/・3回目）
+  - 「Regional Distributors」（https://speedluma.com/・3回目）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 検索結果の抜粋：
+  - 「Speedluma : Industrial Elastomer Additive Manufacturing ... — Speedluma : Industrial Elastomer Additive Manufacturing ... Speedluma https://speedluma.com」（https://speedluma.com/・3回目）
+  - 「Speedluma (@ speedluma ) • Instagram photos and videos — Speedluma (@ speedluma ) • Instagram photos and videos Instagram https://www.instagram.com > speedlu...」（https://www.instagram.com/speedluma/・3回目）
+  - 「Contact - Speedluma : Industrial Elastomer Additive ... — Contact - Speedluma : Industrial Elastomer Additive ... Speedluma https://speedluma.com > contact」（https://speedluma.com/contact/・3回目）
+  - 「Speedluma (Shanghai)Technology Co., Ltd | Exhibitor Formnext 2026 — Speedluma is a B2B provider of complete elastomer 3D printing solutions. We help industrial customers transition from prototyping to scalable production with stable performance and consistent quality. By integrating industrial DLP printers, certified elastomer materials, validated workflows, and professional production support, we」（https://formnext.mesago.com/frankfurt/en/exhibitor-search.detail.html/speedluma-shanghaitechnology-co-ltd.html・3回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索15回）
+
 ## Stardust — VoxelMatters
 - 公式URL：https://bit.ly/3zUkyBr（given）
 - 連絡先：
@@ -5522,6 +5760,21 @@
 - 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
 - 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
 - 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+
+## VOXELPLA — VoxelMatters
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
 
 ## VTT
 - 公式URL：https://bit.ly/3zUkyBr（given）
@@ -6118,6 +6371,21 @@
 - 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
 - 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
 - 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部36頁・検索15回）
+
+## YANMI — VoxelMatters
+- 公式URL：https://bit.ly/3zUkyBr（given）
+- 連絡先：
+  - 「You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.」（https://voxelmatters.us12.list-manage.com/subscribe?u=ec6c1c5ddc3fa6125e78822a5&id=d600253c41・1回目）
+- 創業年度：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 株主：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 従業員数：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 売上高：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 所在地：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 拠点：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 日本の担い手：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 代理店網：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 直送・ネット販売：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
+- 規模・親会社：記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索15回）
 
 ## ZEN Global — VoxelMatters
 - 公式URL：https://bit.ly/3zUkyBr（given）
