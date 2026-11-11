@@ -1,0 +1,1101 @@
+{
+ "name": "Mezmo",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜未接触",
+ "researched_at": "2026-11-11T13:31:53.546558+00:00",
+ "official_url": "https://www.mezmo.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "3. Seed Round",
+    "value": "01-Jun-2016    Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/98806-51",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Mezmo: Governed SRE Agents for Production Operations",
+    "url": "https://www.mezmo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Mezmo provides an operating environment for agents to safely and efficiently work on production systems. It adds the context, memory, governance, and evidence required to trust production agents.",
+    "url": "https://www.mezmo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SEV-1 · Checkout latency over 4s in production",
+    "url": "https://www.mezmo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Recovered at 03:15 · within approved policy",
+    "url": "https://www.mezmo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "recall prior incidents",
+    "url": "https://www.mezmo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "held for on-call approval",
+    "url": "https://www.mezmo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "approved · rollback complete",
+    "url": "https://www.mezmo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reusable lessons from prior incidents.",
+    "url": "https://www.mezmo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Production agents change live systems.",
+    "url": "https://www.mezmo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Agents for production work",
+    "url": "https://www.mezmo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Check the live target and approved scope.",
+    "url": "https://www.mezmo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Keep human approval where policy requires it.",
+    "url": "https://www.mezmo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Same loop, different problem: the artifact waits for you.",
+    "url": "https://www.mezmo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Production is multiplayer.",
+    "url": "https://www.mezmo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every engineer and every coding agent works on a copy of the code. Git merges the work, pull requests are the approval, and the commit history is the shared memory.",
+    "url": "https://www.mezmo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "In production, every person and every agent works on main. There is no branch, no merge, and no general revert. Teams have counted on people's judgment and memory to hold it together, and that stops working when many agents, on many engineers' credentials, act on the same live system.",
+    "url": "https://www.mezmo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Git gives code these four things. Production has none of them.",
+    "url": "https://www.mezmo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "To production, with AURA in your environment",
+    "url": "https://www.mezmo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Each agent approves its own actions",
+    "url": "https://www.mezmo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your policy, named approvers, and an audit trail",
+    "url": "https://www.mezmo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Before an agent's tool call runs, Mezmo checks it against the policy you own. Routine work proceeds. People decide the exceptions.",
+    "url": "https://www.mezmo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Risky calls wait for an authorized approver in Slack",
+    "url": "https://www.mezmo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Calls outside approved scope never run",
+    "url": "https://www.mezmo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Memory keeps prior conditions, actions, and verified outcomes from production incidents, and the agent reads them before it reasons. Agents reuse reviewed experience. Governance still checks each proposed action.",
+    "url": "https://www.mezmo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Recall prior incidents",
+    "url": "https://www.mezmo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President,",
+    "url": "https://www.mezmo.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock new sales opportunities and co-marketing support to win more business.",
+    "url": "https://www.mezmo.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We're proud to work with companies that share our vision for better observability",
+    "url": "https://www.mezmo.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Mezmo Telemetry Pipeline Pricing for Every Team Size",
+    "url": "https://www.mezmo.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing built for AI-driven SRE",
+    "url": "https://www.mezmo.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "No AI surcharges. No pay-per-query surprises. Just smarter telemetry.",
+    "url": "https://www.mezmo.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "AI can help with incidents—but only if it gets clean, structured context. Mezmo prepares your telemetry so AI can find real root causes, not guess from noise.",
+    "url": "https://www.mezmo.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "it reaches any model, reducing noise and preventing hallucinations.",
+    "url": "https://www.mezmo.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "– Use our native agents or connect your own via the Model Context Protocol (MCP). Bring telemetry into your IDE or custom workflows at no extra cost.",
+    "url": "https://www.mezmo.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Transparent platform pricing",
+    "url": "https://www.mezmo.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How is pricing calculated",
+    "url": "https://www.mezmo.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "From startups to global enterprises, customers trust Mezmo to optimize their observability data. Together, we reduce costs, accelerate insights, and power innovation at scale.",
+    "url": "https://www.mezmo.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Engineers get real-time visibility into data streams, speeding incident resolution and enabling proactive debugging",
+    "url": "https://www.mezmo.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "\"Mezmo helped the Sysdig team to achieve an 80 percent improvement in the time it takes to access and use log data.\"",
+    "url": "https://www.mezmo.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "\"Using Data Profiler, we discovered we were sending massive amounts of verbose health check logs. Mezmo helped us create cost metrics and optimize our pipeline.\"",
+    "url": "https://www.mezmo.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "We're proud to work with companies that share our vision for better observability",
+    "url": "https://www.mezmo.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Open-Source SRE Agent Harness for Production by Mezmo",
+    "url": "https://www.mezmo.com/aura",
+    "pass": 1
+   },
+   {
+    "quote": "Build trusted agents that production can rely on",
+    "url": "https://www.mezmo.com/aura",
+    "pass": 1
+   },
+   {
+    "quote": "AURA is an open-source harness for production-ready agents that run operations work alongside your engineering teams, taking on routine work so they can focus on decisions that matter, while keeping control and data in their hands.",
+    "url": "https://www.mezmo.com/aura",
+    "pass": 1
+   },
+   {
+    "quote": "AURA Approval Workflow: Identity Forwarding to MCP Servers",
+    "url": "https://www.mezmo.com/aura",
+    "pass": 1
+   },
+   {
+    "quote": "AI SRE Agent Reads Your Notion Runbooks in an Incident",
+    "url": "https://www.mezmo.com/aura",
+    "pass": 1
+   },
+   {
+    "quote": "The production runtime for AI workflows",
+    "url": "https://www.mezmo.com/aura",
+    "pass": 1
+   },
+   {
+    "quote": "AURA is purpose-built to define, run, serve, integrate, and govern production AI workflows at scale. It ships the 80% of runtime infrastructure teams otherwise rebuild from scratch for every agent, so your engineers focus on the workflows that matter to your business.",
+    "url": "https://www.mezmo.com/aura",
+    "pass": 1
+   },
+   {
+    "quote": "Remediation, change routing, security response, cost control. AURA decides the appropriate action and executes routine work only when a human signs off, escalating novel or risky changes for review with complete context.",
+    "url": "https://www.mezmo.com/aura",
+    "pass": 1
+   },
+   {
+    "quote": "AURA compounds. Each incident feeds prevention, hardening, and change validation into the next cycle, making the system quicker to diagnose, safer to change, and cheaper to run.",
+    "url": "https://www.mezmo.com/aura",
+    "pass": 1
+   },
+   {
+    "quote": "Create production-ready AI workflows",
+    "url": "https://www.mezmo.com/aura",
+    "pass": 1
+   },
+   {
+    "quote": "Most teams spend months rebuilding the same runtime before anything useful ships. AURA eliminates 80% of that boilerplate. It's the open-source agent harness built to define, run, and govern production AI workflows at scale.",
+    "url": "https://www.mezmo.com/aura",
+    "pass": 1
+   },
+   {
+    "quote": "Production trust cannot depend on a black box. Read the code, run it on your infrastructure, inspect its reasoning and actions, and decide what it is allowed to do.",
+    "url": "https://www.mezmo.com/aura",
+    "pass": 1
+   },
+   {
+    "quote": "At first the SRE approves AURA actions. Over time, AURA learns from routine work. Eventually AURA reviews on its own, pausing only for rare calls that need judgment. Each stage earns the next.",
+    "url": "https://www.mezmo.com/aura",
+    "pass": 1
+   },
+   {
+    "quote": "Production trust cannot depend on a black box.",
+    "url": "https://www.mezmo.com/aura",
+    "pass": 1
+   },
+   {
+    "quote": "If an agent acts in production, your team must see how it reasons. Open source is the only honest answer.",
+    "url": "https://www.mezmo.com/aura",
+    "pass": 1
+   },
+   {
+    "quote": "Declarative configuration. Swap LLM providers with one-line changes. Extend workflows without vendor permission.",
+    "url": "https://www.mezmo.com/aura",
+    "pass": 1
+   },
+   {
+    "quote": "Production is outgrowing what platform teams can sustain.",
+    "url": "https://www.mezmo.com/aura",
+    "pass": 1
+   },
+   {
+    "quote": "Jeff Vogt connects an AURA deployment running in Kubernetes to Slack using AURA's direct Slack integration. The setup is a Slack app with an app token and a bot token, plus a few lines added to the deployment's configuration. The Kubernetes MCP server is already deployed and connected to AURA before the video starts.",
+    "url": "https://www.mezmo.com/videos/ai-sre-agent-slack-integration-ask-aura-about-your-cluster",
+    "pass": 1
+   },
+   {
+    "quote": "to get your integration set up in Slack. You'll need to provision an app token and a bot token for the integration.",
+    "url": "https://www.mezmo.com/videos/ai-sre-agent-slack-integration-ask-aura-about-your-cluster",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by industry leading partners",
+    "url": "https://www.mezmo.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by thousands of customers",
+    "url": "https://www.mezmo.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Stand is made from aerospace grade aluminum and anodized in matte black color which looks beautiful with all pen colors.",
+    "url": "https://mezmotoys.com/pages/mezmopen-design-choices",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Mezmo achieves higher uptime and improved customer experience with Sysdig | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/sysdig/case-study/mezmo-improves-uptime-and-speeds-incident-response-with-sysdig",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Mezmo achieves higher uptime and improved customer experience with Sysdig",
+    "url": "https://www.casestudies.com/company/sysdig/case-study/mezmo-improves-uptime-and-speeds-incident-response-with-sysdig",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/sysdig/case-study/mezmo-improves-uptime-and-speeds-incident-response-with-sysdig",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/sysdig/case-study/mezmo-improves-uptime-and-speeds-incident-response-with-sysdig",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Our channel partners encompass a broad range of resellers, distributors, systems integrators, and consultants. They help us reach audiences in specialized markets and tailor our offering to their needs.",
+    "url": "https://www.mezmo.com/partners",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Accelerate revenue growth",
+    "url": "https://www.mezmo.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "– Our AI root cause analysis agent is part of your platform license. No metered queries.",
+    "url": "https://www.mezmo.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Every finding sharpens the next decision. Patterns learned in earlier work carry forward, making later decisions faster and more accurate. These are compounding agents.",
+    "url": "https://www.mezmo.com/aura",
+    "pass": 1
+   },
+   {
+    "quote": "We have designed a perfect addition for carrying your MEZMOPEN - a super-compact high-quality leather sleeve. Perfect for surface protection, on-the-go use or to have it as a gift.",
+    "url": "https://mezmotoys.com/pages/mezmopen-design-choices",
+    "pass": 3
+   },
+   {
+    "quote": "ALWAYS CARRY WITH YOU",
+    "url": "https://mezmotoys.com/pages/mezmopen-design-choices",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/98806-51",
+    "pass": 3
+   },
+   {
+    "quote": "Mezmo has 62 total employees.",
+    "url": "https://pitchbook.com/profiles/company/98806-51",
+    "pass": 3
+   },
+   {
+    "quote": "What is Mezmo’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/98806-51",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Mezmo is",
+    "url": "https://pitchbook.com/profiles/company/98806-51",
+    "pass": 3
+   },
+   {
+    "quote": "Mezmo Revenue 2024: $33.8M Est.",
+    "url": "https://getlatka.com/companies/mezmo.com",
+    "pass": 3
+   },
+   {
+    "quote": "Mezmo has not published its revenue. GetLatka estimates it at about $33.8M a year (June 2024).",
+    "url": "https://getlatka.com/companies/mezmo.com",
+    "pass": 3
+   },
+   {
+    "quote": "All 2 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/mezmo.com",
+    "pass": 3
+   },
+   {
+    "quote": "Mezmo CEO, founders & employees",
+    "url": "https://getlatka.com/companies/mezmo.com",
+    "pass": 3
+   },
+   {
+    "quote": "Tucker Callaway founded Mezmo in 2015 and runs it as CEO. Mezmo had 96 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/mezmo.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Mezmo's revenue?",
+    "url": "https://getlatka.com/companies/mezmo.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Mezmo's revenue at about",
+    "url": "https://getlatka.com/companies/mezmo.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Mezmo have?",
+    "url": "https://getlatka.com/companies/mezmo.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/mezmo.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/mezmo.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/mezmo.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/mezmo.com",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "MezmoのTelemetry Pipeline ログ管理システムの導入事例一覧｜ITトレンド",
+    "url": "https://it-trend.jp/log_management/26996/case",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Mezmo：ログデータを制御するためのオブザーバビリティプラットフォー... — Mezmo（旧称 LogDNA）は、ログデータの管理と対策を可能にするオブザーバビリティプラットフォームです。 アプリケーション開発、セキュリティ、コンプライアンスのユースケースを促進します。",
+    "url": "https://huntscreens.com/ja/products/mezmo",
+    "pass": 3
+   },
+   {
+    "quote": "Mezmoとは？ | 機能や料金、導入事例をご紹介【キャプテラ】 — Mezmoを実際に使用したユーザーのレビューから、製品の機能や価格、メリットデメリットをご覧いただけます。 類似製品との比較も簡単、ぴったりのSaaSが見つかるはず！",
+    "url": "https://www.capterra.jp/software/172632/logdna",
+    "pass": 3
+   },
+   {
+    "quote": "MezmoのTelemetry Pipeline ログ管理システムの導入事例一覧｜ITトレ... — MezmoのTelemetry Pipeline ログ管理システムの導入事例の一覧を紹介します。 導入企業による成功事例や導入効果、選定ポイントのインタビューを紹介します。 業界や従業員規模など自社に合う事例を見てみましょう。",
+    "url": "https://it-trend.jp/log_management/26996/case",
+    "pass": 3
+   },
+   {
+    "quote": "Mezmo: Governed SRE Agents for Production Operations — Mezmo provides an operating environment for agents to safely and efficiently work on production systems. It adds the context, memory, governance, and evidence required to trust production agents.",
+    "url": "https://www.mezmo.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Mezmoとは？機能や特徴・製品の概要まとめ — Mezmo のプロダクト概要 Mezmo とは テレメトリデータパイプラインとログ管理を提供するプラットフォーム。 データの収集、プロファイリング、変換、ルーティングを行い、コスト削減と迅速なインシデント対応を支援する。",
+    "url": "https://findy-tools.io/products/mezmo/803",
+    "pass": 3
+   },
+   {
+    "quote": "MEZMOPEN CHOICES + PEN ADD-ONS – mezmotoys — MezmoStand brings a whole new level to how you can fidget and display your Mezmopen. Precision machined from Aluminum and anodized in Silver or Black colors. The stand is made to elevate Mezmopen in every way. Explore NEW tricks and showcase your pen in style.",
+    "url": "https://mezmotoys.com/pages/mezmopen-design-choices",
+    "pass": 3
+   },
+   {
+    "quote": "Mezmoとは？機能や特徴・製品の概要まとめ — Mezmoの製品概要やよく比較されるサービス、サポート範囲、コミュニティなど、Mezmoのおすすめポイントを解説します。",
+    "url": "https://findy-tools.io/products/mezmo/803",
+    "pass": 3
+   },
+   {
+    "quote": "Mezmo - LinkedIn — Mezmo is the intelligence layer for production AI, pairing a production-grade control plane (AURA) with an optimized data plane (Mezmo) to make autonomous operations fast, efficient, and safe.",
+    "url": "https://www.linkedin.com/company/mezmo",
+    "pass": 3
+   },
+   {
+    "quote": "Mezmo B2B Case Studies & Customer Successes — See how Mezmo solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/mezmo",
+    "pass": 3
+   },
+   {
+    "quote": "Discover the Companies That Rely on Mezmo Telemetry — Thousands of teams trust Mezmo to optimize telemetry and act on it faster. Browse the customer list, dive into case studies, and see measurable results.",
+    "url": "https://www.mezmo.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Mezmo + IBM Case Study — In addition to customer-requested orders, IBM uses Mezmo for many of its internal systems, which further extends the relationship. Ultimately, the joint effort of IBM and Mezmo is helping our customers stay focused on their priorities, and leave the logging to us.",
+    "url": "https://go.mezmo.com/hubfs/Case+Study-LogDNA-IBM+Find+Synergy+in+Cloud.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Mezmo achieves higher uptime and improved ... — This provided real-time visibility, enabling their teams to troubleshoot more effectively and respond to incidents faster. As a result, Sysdig helped Mezmo improve uptime, resolve customer-impacting issues more quickly, and deliver a more consistent customer experience. View this case study…",
+    "url": "https://www.casestudies.com/company/sysdig/case-study/mezmo-improves-uptime-and-speeds-incident-response-with-sysdig",
+    "pass": 3
+   },
+   {
+    "quote": "5 Mezmo Case Studies, Success Stories, & Customer Stories — Discover how other companies use Mezmo, get inspired, and find ways to improve your business.",
+    "url": "https://www.featuredcustomers.com/vendor/mezmo/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Mezmo - 2026 Company Profile, Team, Funding & Competitors ... — Feb 7, 2026 · Mezmo - About the company Mezmo is a series D company based in San Jose (United States), founded in 2015 by Chris Nguyen and Lee Liu. It operates as a Platform offering log analyzer software. Mezmo has raised $110M in funding from investors like Emergence Capital, Y Combinator and Tamares.",
+    "url": "https://tracxn.com/d/companies/mezmo/__C00aUSjOKw2rvXYN2VXTzLYzw0TTzl1WPJB7seh9cwI",
+    "pass": 3
+   },
+   {
+    "quote": "Mezmo 2026 Company Profile: Valuation, Funding & Investors ...Mezmo Candy - 2026 Company Profile, Team, Funding ... - TracxnMezmo Revenue 2024: $33.8M Est. - getlatka.comMezmo Valuation, Funding & Investors | MultiplesMezmo: 18 Tools Behind $22M Revenue [2026] | TechList.aiMezmo — Company Profile | The Company Check — Information on valuation, funding, cap tables, investors, and executives for Mez",
+    "url": "https://pitchbook.com/profiles/company/98806-51",
+    "pass": 3
+   },
+   {
+    "quote": "Mezmo Candy - 2026 Company Profile, Team, Funding ... - Tracxn — Mar 20, 2026 · Explore Mezmo Candy's in-depth company profile, including funding details, key investors, leadership, and competitors.",
+    "url": "https://tracxn.com/d/companies/mezmocandy/__xVkfS_KcbdLrCIzyZhOFGW_NmyCbrgWNaqHEs7YvlmM",
+    "pass": 3
+   },
+   {
+    "quote": "Mezmo Revenue 2024: $33.8M Est. - getlatka.com — Aug 10, 2026 · Mezmo is a Data Observability Software company based in San Jose, founded in 2015.",
+    "url": "https://getlatka.com/companies/mezmo.com",
+    "pass": 3
+   },
+   {
+    "quote": "Mezmo Valuation, Funding & Investors | Multiples — In December 2021, Mezmo raised $50 million in a Series D funding round led by NightDragon, with participation from existing investors Emergence Capital and Initialized Capital, valuing the company at $370 million post-money.",
+    "url": "https://multiples.vc/private-comps/mezmo",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/98806-51",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "クラウド時代に必須の監視ツール!?IBM Instana Observabilityの特徴と... Dec 4, 2023 · 例えば、Mezmoの設定ではMezmoのIDを登録するのみ また、Instana 独自のログ機能では、アプリケーション・ログやサービス・ログを自動的に収集します。 他にも、Kubernetes やコンテナのコンテキスト内のログをメトリック、トレースと相関もさせて確認できます。",
+    "url": "https://note.com/ibm_automation/n/nf7cd481edcef",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "クラウド時代に必須の監視ツール!?IBM Instana Observabilityの特徴と利点 ~ログ統合編~｜AOIchan@IBM",
+    "url": "https://note.com/ibm_automation/n/nf7cd481edcef",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド時代に必須の監視ツール!?IBM Instana Observabilityの特徴と利点 ~ログ統合編~",
+    "url": "https://note.com/ibm_automation/n/nf7cd481edcef",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド時代に必須の監視ツール IBM Instana Observability",
+    "url": "https://note.com/ibm_automation/n/nf7cd481edcef",
+    "pass": 3
+   },
+   {
+    "quote": "についてご紹介しました。企業活動を支えるアプリから基盤までをリアルタイムで監視・可視化して",
+    "url": "https://note.com/ibm_automation/n/nf7cd481edcef",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、Instana が検知したインシデントをInstanaの管理画面から障害解析を進める中で外部のロギング・プロバイダーと統合することでどのような運用ができるかご紹介したいと思います。",
+    "url": "https://note.com/ibm_automation/n/nf7cd481edcef",
+    "pass": 3
+   },
+   {
+    "quote": "Instana はブラウザベースの管理画面をご提供しています。管理画面からは、エージェントを導入している環境の可視化や様々なフィルターをかけて障害の解析を進めていくことができます。",
+    "url": "https://note.com/ibm_automation/n/nf7cd481edcef",
+    "pass": 3
+   },
+   {
+    "quote": "その際に予めInstana をお使いのロギング・プロバイダーと統合しておくことで、Instana 管理画面からロギング・プロバイダー UI にリダイレクトして、スムーズにログを参照し、効率的な障害解析を進めることができます。（←使いやすくておすすめ！）",
+    "url": "https://note.com/ibm_automation/n/nf7cd481edcef",
+    "pass": 3
+   },
+   {
+    "quote": "①Instana の管理画面で障害の解析を進めていきます。ログを参照したい時間に絞りこみます(絞り込みしない場合は最新の日時になります）。",
+    "url": "https://note.com/ibm_automation/n/nf7cd481edcef",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Mezmo (@mezmodata) / Posts / X Mezmo is the intelligence layer for production AI that makes autonomous operations fast, efficient, and safe.",
+    "url": "https://x.com/mezmodata",
+    "pass": 3
+   },
+   {
+    "quote": "mezmo (@mezmotweets) / X ICT student | I will master this market. @mezmotweets hasn’t posted When they do, their posts will show up here.",
+    "url": "https://x.com/mezmotweets",
+    "pass": 3
+   },
+   {
+    "quote": "MezMo (@MezMo14) / X Mention Follow PostsPosts RepliesReplies RepostsReposts MediaMedia MezMo @MezMo14 Sep 25, 2021 @ 2KSupport Please check on ID #9325121",
+    "url": "https://x.com/MezMo14",
+    "pass": 3
+   },
+   {
+    "quote": "Mezmo on X: \"Agentic AI is about to blow through every ... Mezmo on X: \"Agentic AI is about to blow through every telemetry budget. Weave Intelligence's new Market Guide names Mezmo among the vendors positioned to solve it—not just react to it.",
+    "url": "https://x.com/mezmodata/status/2085720183230902279",
+    "pass": 3
+   },
+   {
+    "quote": "Mezmo (@mezmodata) / Posts / X See AURA, Mezmo's open-source agentic harness for AI SRE, star the repo for your chance to scratch and win, and ask how to get a limited-edition #RuleProd baseball hat.",
+    "url": "https://x.com/mezmodata",
+    "pass": 3
+   },
+   {
+    "quote": "jules levy (@mezmo) / Posts / X jules levy (@mezmo) - Posts - | X (formerly Twitter)",
+    "url": "https://x.com/Mezmo",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Mezmo | San Jose CA - FacebookMezmo - FacebookMEZMO - FacebookMezmo - FacebookMezmo Mobile Car Care - FacebookMEZMO Multi Brand Car Service | Palghat - FacebookDr.Mezmo - Facebook 5 days ago · In a recent feature from The AI & Software Report, Mezmo CEO Tucker Callaway shares his perspective on the company’s evolution and what it takes to build trust in autonomous operations. A Mezmo has as much f",
+    "url": "https://www.facebook.com/MezmoData/",
+    "pass": 3
+   },
+   {
+    "quote": "Mezmo - Facebook A Mezmo has as much fiber as in 3 cups of spinach! We're not saying skip the spinach, but replace your junk food with healthy food, and healthy starts with Mezmo. 🥬💪 #Mezmo #Fiber #Spinach #Health #Food",
+    "url": "https://www.facebook.com/Mezmo.bites/",
+    "pass": 3
+   },
+   {
+    "quote": "MEZMO - FacebookMezmo - FacebookMezmo Mobile Car Care - FacebookMEZMO Multi Brand Car Service | Palghat - FacebookDr.Mezmo - Facebook Sep 22, 2024 · Got a new chune with @agendazmusic coming out this week. This ones nice and chill. Pre-save link I’m bio! MEZMO is in Santa Monica, CA. Nov 14, 2025 · Mezmo. 159 likes. 𝗧𝗲𝗲𝘀 tees that speak your 𝘃𝗶𝗯𝗲💅 Affordable.Durable.Aesthetic 💫 Coming soon to leve",
+    "url": "https://www.facebook.com/Mezmo.Music/",
+    "pass": 3
+   },
+   {
+    "quote": "Mezmo - Facebook Nov 14, 2025 · Mezmo. 159 likes. 𝗧𝗲𝗲𝘀 tees that speak your 𝘃𝗶𝗯𝗲💅 Affordable.Durable.Aesthetic 💫 Coming soon to level up your wardrobe 🎀",
+    "url": "https://www.facebook.com/mezmowear/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.mezmo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mezmo.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mezmo.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mezmo.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mezmo.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mezmo.com/aura",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mezmo.com/videos/ai-sre-agent-slack-integration-ask-aura-about-your-cluster",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/626ad01a9cdb24810e68c024/626ad01a9cdb24a70d68c0a4_LogDNA-Partners-Vercel.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/626ad01a9cdb24810e68c024/626ad01a9cdb24d30068c0f9_LogDNA-Partners-Fastly.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/626ad01a9cdb24810e68c024/626ad01a9cdb24a75e68c105_LogDNA-Partners-Instana.avif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://huntscreens.com/ja/products/mezmo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.capterra.jp/software/172632/logdna",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://it-trend.jp/log_management/26996/case",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.koaglobal.com/corporate/offices/distributors1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nokia.com/ja_jp/about-us/data/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mezmotoys.com/pages/mezmopen-design-choices",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://findy-tools.io/products/mezmo/803",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://huntscreens.com/ja/products/mezmo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/mezmo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.mezmo.com/hubfs/Case+Study-LogDNA-IBM+Find+Synergy+in+Cloud.pdf",
+    "status": "http_404",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.casestudies.com/company/sysdig/case-study/mezmo-improves-uptime-and-speeds-incident-response-with-sysdig",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://upcloud.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/mezmo/__C00aUSjOKw2rvXYN2VXTzLYzw0TTzl1WPJB7seh9cwI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/98806-51",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/mezmocandy/__xVkfS_KcbdLrCIzyZhOFGW_NmyCbrgWNaqHEs7YvlmM",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/mezmo.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ibm_automation/n/nf7cd481edcef",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/mezmodata",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mezmotweets",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MezMo14",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mezmodata/status/2085720183230902279",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MezmoData/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Mezmo.bites/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Mezmo.Music/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mezmowear/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mezmodata",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mezmotweets",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Mezmo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MezMo14",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Mezmo 日本 導入",
+   "results": [
+    "https://huntscreens.com/ja/products/mezmo",
+    "https://www.capterra.jp/software/172632/logdna",
+    "https://it-trend.jp/log_management/26996/case",
+    "https://www.mezmo.com/",
+    "https://findy-tools.io/products/mezmo/803",
+    "https://it-trend.jp/log_management/26996",
+    "https://moge.ai/ja/product/mezmo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mezmo 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.nokia.com/ja_jp/about-us/data/",
+    "https://note.com/yamamoto_ec/n/ncc92bffa3f69",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.indexpro.co.jp/distributor/search-maker"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mezmo Japan",
+   "results": [
+    "https://www.mezmo.com/",
+    "https://mezmotoys.com/pages/mezmopen-design-choices",
+    "https://findy-tools.io/products/mezmo/803",
+    "https://huntscreens.com/ja/products/mezmo",
+    "https://www.linkedin.com/company/mezmo",
+    "https://www.mezmotechnologies.com/",
+    "https://www.mesm.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mezmo manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/mezmo",
+    "https://www.mezmo.com/customers",
+    "https://go.mezmo.com/hubfs/Case+Study-LogDNA-IBM+Find+Synergy+in+Cloud.pdf",
+    "https://www.casestudies.com/company/sysdig/case-study/mezmo-improves-uptime-and-speeds-incident-response-with-sysdig",
+    "https://www.featuredcustomers.com/vendor/mezmo/case-studies",
+    "https://www.flowout.com/case-studies/mezmo",
+    "https://go.mezmo.com/hubfs/guides/Mezmo-eBook-Pipeline-Success-Stories.pdf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mezmo white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://upcloud.com/partner-program/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.thenationalcouncil.org/get-involved/partner-with-us/partnership-program/",
+    "https://partners.adobe.com/digitalexperience/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mezmo founded funding employees revenue",
+   "results": [
+    "https://tracxn.com/d/companies/mezmo/__C00aUSjOKw2rvXYN2VXTzLYzw0TTzl1WPJB7seh9cwI",
+    "https://pitchbook.com/profiles/company/98806-51",
+    "https://tracxn.com/d/companies/mezmocandy/__xVkfS_KcbdLrCIzyZhOFGW_NmyCbrgWNaqHEs7YvlmM",
+    "https://getlatka.com/companies/mezmo.com",
+    "https://multiples.vc/private-comps/mezmo",
+    "https://techlist.ai/mezmo.com",
+    "https://www.thecompanycheck.com/company/b/mezmo/kwlmxomo99h207lma"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Mezmo",
+   "results": [
+    "https://note.com/",
+    "https://note.com/ibm_automation/n/nf7cd481edcef",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/ahidasanka/n/n141b55b74f27",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/abeshi/n/n0506b291db8a",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Mezmo",
+   "results": [
+    "https://x.com/mezmodata",
+    "https://x.com/mezmotweets",
+    "https://x.com/MezMo14",
+    "https://x.com/mezmodata/status/2085720183230902279",
+    "https://x.com/Mezmo",
+    "https://x.com/mezmo_music",
+    "https://x.com/mezmodata/status/2093434672285995248"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Mezmo",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Mezmo",
+   "results": [
+    "https://www.facebook.com/MezmoData/",
+    "https://www.facebook.com/Mezmo.bites/",
+    "https://www.facebook.com/Mezmo.Music/",
+    "https://www.facebook.com/mezmowear/",
+    "https://www.facebook.com/mezmomobilecarcare/",
+    "https://www.facebook.com/mezmocar/",
+    "https://www.facebook.com/drmezmo/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mezmo note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.mezmo.com/",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/",
+    "https://www.ch-files.net/note/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mezmo X 投稿",
+   "results": [
+    "https://x.com/mezmodata",
+    "https://x.com/mezmotweets",
+    "https://x.com/Mezmo",
+    "https://x.com/MezMo14",
+    "https://www.mezmo.com/",
+    "https://x.com/mezmo_mbezie/status/2114411552682221961",
+    "https://x.com/mizore471"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式7頁／PDF・画像3件／外部34頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式7頁／PDF・画像3件／外部34頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像3件／外部34頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式7頁／PDF・画像3件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式7頁／PDF・画像3件／外部34頁・検索12回）"
+ }
+}

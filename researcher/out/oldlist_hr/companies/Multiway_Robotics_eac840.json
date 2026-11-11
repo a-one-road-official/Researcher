@@ -1,0 +1,996 @@
+{
+ "name": "Multiway Robotics",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-11T13:11:17.525368+00:00",
+ "official_url": "https://www.multiway-robotics.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "日本の担い手": [
+   {
+    "quote": "中国発スマート物流ロボ「Multiway Robotics」、シリーズBで数十億円を追加調達 - 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア",
+    "url": "https://36kr.jp/352488/",
+    "pass": 3
+   },
+   {
+    "quote": "23年には日本にも子会社を設立した",
+    "url": "https://36kr.jp/352488/",
+    "pass": 3
+   },
+   {
+    "quote": "主な取引先には、宇宙開発を手がける中国航天科技集団（CASIC）、仏エアバス、日本の住友グループ、韓国のサムスンとLGグループ、米エマソン・エレクトリックなど世界の有名企業が含まれている",
+    "url": "https://36kr.jp/352488/",
+    "pass": 3
+   },
+   {
+    "quote": "中国発AIロボ「Multiway Robotics」、日本を含む30カ国で導入拡大",
+    "url": "https://36kr.jp/352488/",
+    "pass": 3
+   },
+   {
+    "quote": "（36Kr Japan編集部）",
+    "url": "https://36kr.jp/352488/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業のDXを促進するプラットフォーム「CONNECTO」",
+    "url": "https://36kr.jp/352488/",
+    "pass": 3
+   },
+   {
+    "quote": "中国発AIロボ「Multiway Robotics」、日本を含む30カ国で導入拡大 - 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア",
+    "url": "https://36kr.jp/343624/",
+    "pass": 3
+   },
+   {
+    "quote": "中国発AIロボ「Multiway Robotics」、日本を含む30カ国で導入拡大",
+    "url": "https://36kr.jp/343624/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年には日本にも子会社を設立した",
+    "url": "https://36kr.jp/343624/",
+    "pass": 3
+   },
+   {
+    "quote": "日本企業のDXを促進するプラットフォーム「CONNECTO」",
+    "url": "https://36kr.jp/343624/",
+    "pass": 3
+   },
+   {
+    "quote": "Multiway Robotics グローバル本社およは中国深センに位置し、製造拠点は浙江省にあり、中国国内で深セン、杭州、アモイに拠点を構え、海外事業子会社のアメリカ・アトランタ、ドイツ・ノルトライン＝ヴェストファーレン（NRW）州、日本東京、韓国ソウルに現地運営チームがあり、世界40以上の国と地域に販売、運営、サービスを提供",
+    "url": "https://www.multiway.co.jp/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "日本「LTT IE 2025」および韓国「SCM FAIR 2025」に出展",
+    "url": "https://www.multiway.co.jp/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "日本の関西物流展、ドイツのLogiMATに出展し、グローバル化を加速",
+    "url": "https://www.multiway.co.jp/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "東京（日本）とソウル（韓国）に子会社を設立",
+    "url": "https://www.multiway.co.jp/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "マルチウエーは日本、韓国、東南アジアへの事業拡大を加速させ、当社のAGVは日本・東京のLOGIX 2023およびシンガポールのITAP 2023で展示されました",
+    "url": "https://www.multiway.co.jp/about-us",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "23年には日本にも子会社を設立した",
+    "url": "https://36kr.jp/352488/",
+    "pass": 3
+   },
+   {
+    "quote": "20万円台の小型ヒューマノイドで注目、中国「Noetix Robotics」が香港IPOを準備か",
+    "url": "https://36kr.jp/352488/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年には日本にも子会社を設立した",
+    "url": "https://36kr.jp/343624/",
+    "pass": 3
+   },
+   {
+    "quote": "20万円台の小型ヒューマノイドで注目、中国「Noetix Robotics」が香港IPOを準備か",
+    "url": "https://36kr.jp/343624/",
+    "pass": 3
+   },
+   {
+    "quote": "Multiway Robotics グローバル本社およは中国深センに位置し、製造拠点は浙江省にあり、中国国内で深セン、杭州、アモイに拠点を構え、海外事業子会社のアメリカ・アトランタ、ドイツ・ノルトライン＝ヴェストファーレン（NRW）州、日本東京、韓国ソウルに現地運営チームがあり、世界40以上の国と地域に販売、運営、サービスを提供",
+    "url": "https://www.multiway.co.jp/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "東京（日本）とソウル（韓国）に子会社を設立",
+    "url": "https://www.multiway.co.jp/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "また、欧州子会社「Multiway Robotics Europe GmbH」が設立されました",
+    "url": "https://www.multiway.co.jp/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "From high-density storage and narrow-aisle warehousing to automated pallet transport and intelligent scheduling, these projects demonstrate how the combination of intelligent hardware and software helps customers improve efficiency, maximize storage capacity, and accelerate digital transformation.",
+    "url": "https://www.youtube.com/watch?v=Ww-rTu0Afag",
+    "pass": 3
+   },
+   {
+    "quote": "Multiway Robotics Stock Price, Funding, Valuation, Revenue & Financial Statements",
+    "url": "https://www.cbinsights.com/company/multiway/financials",
+    "pass": 3
+   },
+   {
+    "quote": "Funding, Valuation & Revenue",
+    "url": "https://www.cbinsights.com/company/multiway/financials",
+    "pass": 3
+   }
+  ],
+  "採用・広告の製品": [
+   {
+    "quote": "韓国「SFAW 2025」、ドイツ「LogiMAT 2025」、米国「PROMAT 2025」の3大国際展示会に出展",
+    "url": "https://www.multiway.co.jp/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "Multiway Robotics | Automated AGV Forklifts Provider",
+    "url": "https://www.mw-r.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Full range of products for handling, storage and picking, flexibly adapting to various complex scenarios",
+    "url": "https://www.mw-r.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Docking with Production Line",
+    "url": "https://www.mw-r.com/",
+    "pass": 3
+   },
+   {
+    "quote": "from the warehouse to the buffer area and production line zone.",
+    "url": "https://www.mw-r.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Multiway Robotics Wins the Golden Bull Award for New Quality Enterprises – High-End Equipment",
+    "url": "https://www.mw-r.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Multiway Robotics has provided services to 1000+ large corporate customers, spanning 20+ industries including food, medical, new energy, automotive, machinery manufacturing, cold chain, among others. Among these customers are well-known companies, including Fortune Global 500 firms and industry leaders.",
+    "url": "https://www.mw-r.com/case",
+    "pass": 3
+   },
+   {
+    "quote": "Received a commendation banner! See how Multiway Robotics equips precision manufacturing with a “smart logistics” engine.",
+    "url": "https://www.mw-r.com/case",
+    "pass": 3
+   },
+   {
+    "quote": "Another Milestone in Global Expansion | Multiway Robotics Empowers Warehouse Upgrades for Malaysian Manufacturing Enterprises",
+    "url": "https://www.mw-r.com/case",
+    "pass": 3
+   },
+   {
+    "quote": "In this project, we worked with a long-established heavy machinery group based in Taiyuan to upgrade its in-plant logistics with intelligent automation.",
+    "url": "https://www.mw-r.com/manufacturing/66",
+    "pass": 3
+   },
+   {
+    "quote": "The customer is a well-established heavy machinery manufacturing group with multiple production plants. Its products are exported to more than 60 countries and regions worldwide, making it a globally competitive manufacturer of advanced industrial equipment.",
+    "url": "https://www.mw-r.com/manufacturing/66",
+    "pass": 3
+   },
+   {
+    "quote": "As production capacity continued to expand, the customer sought to modernize its internal logistics operations to improve safety, efficiency, and management transparency.",
+    "url": "https://www.mw-r.com/manufacturing/66",
+    "pass": 3
+   },
+   {
+    "quote": "The solution enables full-process automation, including:",
+    "url": "https://www.mw-r.com/manufacturing/66",
+    "pass": 3
+   },
+   {
+    "quote": "Empty frame delivery to production lines",
+    "url": "https://www.mw-r.com/manufacturing/66",
+    "pass": 3
+   },
+   {
+    "quote": "In-process material transfer",
+    "url": "https://www.mw-r.com/manufacturing/66",
+    "pass": 3
+   },
+   {
+    "quote": "In single-lane, two-way traffic scenarios, the RCS scheduling system dynamically manages traffic flow. Autonomous forklifts intelligently yield and reroute, preventing congestion and deadlocks.",
+    "url": "https://www.mw-r.com/manufacturing/66",
+    "pass": 3
+   },
+   {
+    "quote": "autonomously plans optimal routes and enables efficient multi-vehicle collaboration, supporting 24/7 continuous production.",
+    "url": "https://www.mw-r.com/manufacturing/66",
+    "pass": 3
+   },
+   {
+    "quote": "Through integrated software and hardware delivery, the solution meets heavy-load handling requirements while reducing labor dependency and significantly improving inbound and outbound logistics efficiency—maximizing overall economic value and supporting digitalized operations management.",
+    "url": "https://www.mw-r.com/manufacturing/66",
+    "pass": 3
+   },
+   {
+    "quote": "500 enterprise customers",
+    "url": "https://www.mw-r.com/manufacturing/66",
+    "pass": 3
+   },
+   {
+    "quote": "System Design Explained: APIs, Databases, Caching, CDNs, Load Balancing & Production Infra",
+    "url": "https://www.youtube.com/watch?v=Ww-rTu0Afag",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Automation & Packaging Solutions | AND&OR Projects",
+    "url": "https://www.youtube.com/watch?v=Ww-rTu0Afag",
+    "pass": 3
+   },
+   {
+    "quote": "Instant Focus Mode – 40Hz Gamma Brainwave Music for Deep Focus & Productivity",
+    "url": "https://www.youtube.com/watch?v=Ww-rTu0Afag",
+    "pass": 3
+   },
+   {
+    "quote": "Real projects. Real results. Real warehouse transformation.",
+    "url": "https://www.youtube.com/watch?v=Ww-rTu0Afag",
+    "pass": 3
+   },
+   {
+    "quote": "Discover how Multiway Robotics helps manufacturers and logistics enterprises achieve end-to-end warehouse automation thro",
+    "url": "https://www.youtube.com/watch?v=Ww-rTu0Afag",
+    "pass": 3
+   },
+   {
+    "quote": "Discover how Multiway Robotics helps manufacturers and logistics enterprises achieve end-to-end warehouse automation through integrated hardware and software solutions.",
+    "url": "https://www.youtube.com/watch?v=Ww-rTu0Afag",
+    "pass": 3
+   },
+   {
+    "quote": "In this video, we showcase selected customer success stories from Q2 2026, highlighting real-world applications of autonomous forklifts, AMRs, AGV tuggers, four-way shuttles, and intelligent warehouse software systems.",
+    "url": "https://www.youtube.com/watch?v=Ww-rTu0Afag",
+    "pass": 3
+   },
+   {
+    "quote": "From high-density storage and narrow-aisle warehousing to automated pallet transport and intelligent scheduling, these projects demonstrate how the combination of intelligent hardware and software helps customers improve efficiency, maximize storage capacity, and accelerate digital transformation.",
+    "url": "https://www.youtube.com/watch?v=Ww-rTu0Afag",
+    "pass": 3
+   },
+   {
+    "quote": "Multiway Robotics Stock Price, Funding, Valuation, Revenue & Financial Statements",
+    "url": "https://www.cbinsights.com/company/multiway/financials",
+    "pass": 3
+   },
+   {
+    "quote": "April 17, 2025",
+    "url": "https://www.cbinsights.com/company/multiway/financials",
+    "pass": 3
+   },
+   {
+    "quote": "Valuations are submitted by companies, mined from state filings or news, provided by VentureSource, or based on a comparables valuation model.",
+    "url": "https://www.cbinsights.com/company/multiway/financials",
+    "pass": 3
+   },
+   {
+    "quote": "Kecong provides Automated Guided Vehicles (AGVs) featuring control systems, navigation sensors, and driving mechanisms for material handling processes. These products are used in sectors that require logistics and material handling, including the automotive industry, electronics manufacturing, and warehousing. It was founded in 2015 and is based in Hangzhou, China.",
+    "url": "https://www.cbinsights.com/company/multiway/financials",
+    "pass": 3
+   },
+   {
+    "quote": "permits us to improve and customize your experience. You can read more about your",
+    "url": "https://www.cbinsights.com/company/multiway/financials",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "マルチウエーは、ドイツのLogiMAT、米国のMODEX、韓国のSmart Factory & Factory Automation 展示会に出展しました",
+    "url": "https://www.multiway.co.jp/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "Docking with Production Line",
+    "url": "https://www.mw-r.com/",
+    "pass": 3
+   },
+   {
+    "quote": "from the warehouse to the buffer area and production line zone.",
+    "url": "https://www.mw-r.com/",
+    "pass": 3
+   },
+   {
+    "quote": "including docking with storage locations and stacker warehouses transferring.",
+    "url": "https://www.mw-r.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Multiway Robotics has provided services to 1000+ large corporate customers, spanning 20+ industries including food, medical, new energy, automotive, machinery manufacturing, cold chain, among others. Among these customers are well-known companies, including Fortune Global 500 firms and industry leaders.",
+    "url": "https://www.mw-r.com/case",
+    "pass": 3
+   },
+   {
+    "quote": "How to Overcome the Challenges of Handling 5.5-Meter-Long Materials? Multiway Robotics MW-O30 Omnidirectional Side Loader Enables Intelligent Logistics Upgrade for a Leading Chinese Elevator Manufacturer",
+    "url": "https://www.mw-r.com/case",
+    "pass": 3
+   },
+   {
+    "quote": "Received a commendation banner! See how Multiway Robotics equips precision manufacturing with a “smart logistics” engine.",
+    "url": "https://www.mw-r.com/case",
+    "pass": 3
+   },
+   {
+    "quote": "Another Milestone in Global Expansion | Multiway Robotics Empowers Warehouse Upgrades for Malaysian Manufacturing Enterprises",
+    "url": "https://www.mw-r.com/case",
+    "pass": 3
+   },
+   {
+    "quote": "Storage Upgrade Secret of a Leading Motor Manufacturer: MuVit Autonomous Forklifts Double Operational Efficiency",
+    "url": "https://www.mw-r.com/case",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study | Enhancing Heavy-Duty Intralogistics with Autonomous Forklifts in Heavy Machinery Manufacturing",
+    "url": "https://www.mw-r.com/case",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study | An Integrated Intelligent Logistics System: Autonomous Forklifts, Four-Way Shuttle, and AMRs Power DEC’s Warehouse Automation Upgrade",
+    "url": "https://www.mw-r.com/case",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study | Enhancing Multi-Floor Logistics Efficiency with the X20 Autonomous Forklift in Electronics Manufacturing",
+    "url": "https://www.mw-r.com/case",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study | Multiway Robotics’ X20 Autonomous Forklifts Enable Multi-Floor Logistics Efficiency in Home Appliance Manufacturing",
+    "url": "https://www.mw-r.com/case",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study | Enhancing Heavy-Duty Intralogistics with Autonomous Forklifts in Heavy Machinery Manufacturing",
+    "url": "https://www.mw-r.com/manufacturing/66",
+    "pass": 3
+   },
+   {
+    "quote": "Next：Case Study | An Integrated Intelligent Logistics System: Autonomous Forklifts, Four-Way Shuttle, and AMRs Power DEC’s Warehouse Automation Upgrade",
+    "url": "https://www.mw-r.com/manufacturing/66",
+    "pass": 3
+   },
+   {
+    "quote": "When it comes to industrial vehicles, conventional trucks already feel massive—until you encounter ultra-large dump trucks used in heavy machinery manufacturing.",
+    "url": "https://www.mw-r.com/manufacturing/66",
+    "pass": 3
+   },
+   {
+    "quote": "Behind these industrial giants lies an equally powerful and intelligent manufacturing system.",
+    "url": "https://www.mw-r.com/manufacturing/66",
+    "pass": 3
+   },
+   {
+    "quote": "In this project, we worked with a long-established heavy machinery group based in Taiyuan to upgrade its in-plant logistics with intelligent automation.",
+    "url": "https://www.mw-r.com/manufacturing/66",
+    "pass": 3
+   },
+   {
+    "quote": "The customer is a well-established heavy machinery manufacturing group with multiple production plants. Its products are exported to more than 60 countries and regions worldwide, making it a globally competitive manufacturer of advanced industrial equipment.",
+    "url": "https://www.mw-r.com/manufacturing/66",
+    "pass": 3
+   },
+   {
+    "quote": "The goal was to replace manual transport with safer, more efficient unmanned logistics across the factory floor.",
+    "url": "https://www.mw-r.com/manufacturing/66",
+    "pass": 3
+   },
+   {
+    "quote": "Multiway Robotics deployed an intelligent in-plant logistics system centered on the",
+    "url": "https://www.mw-r.com/manufacturing/66",
+    "pass": 3
+   },
+   {
+    "quote": "Empty frame delivery to production lines",
+    "url": "https://www.mw-r.com/manufacturing/66",
+    "pass": 3
+   },
+   {
+    "quote": "Finished material storage in the warehouse",
+    "url": "https://www.mw-r.com/manufacturing/66",
+    "pass": 3
+   },
+   {
+    "quote": "Visualized Warehouse Management",
+    "url": "https://www.mw-r.com/manufacturing/66",
+    "pass": 3
+   },
+   {
+    "quote": "A 2D visualization interface displays real-time inventory distribution and storage status. Operators can manually intervene when needed, achieving transparent and visualized material management.",
+    "url": "https://www.mw-r.com/manufacturing/66",
+    "pass": 3
+   },
+   {
+    "quote": "The flexible in-plant logistics solution connects equipment flow and data flow across the entire facility.",
+    "url": "https://www.mw-r.com/manufacturing/66",
+    "pass": 3
+   },
+   {
+    "quote": "WCS (Warehouse Control System)",
+    "url": "https://www.mw-r.com/manufacturing/66",
+    "pass": 3
+   },
+   {
+    "quote": ", including food, pharmaceuticals, new energy, automotive, machinery manufacturing, and cold chain logistics.",
+    "url": "https://www.mw-r.com/manufacturing/66",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Automation & Packaging Solutions | AND&OR Projects",
+    "url": "https://www.youtube.com/watch?v=Ww-rTu0Afag",
+    "pass": 3
+   },
+   {
+    "quote": "Real projects. Real results. Real warehouse transformation.",
+    "url": "https://www.youtube.com/watch?v=Ww-rTu0Afag",
+    "pass": 3
+   },
+   {
+    "quote": "Discover how Multiway Robotics helps manufacturers and logistics enterprises achieve end-to-end warehouse automation thro",
+    "url": "https://www.youtube.com/watch?v=Ww-rTu0Afag",
+    "pass": 3
+   },
+   {
+    "quote": "Discover how Multiway Robotics helps manufacturers and logistics enterprises achieve end-to-end warehouse automation through integrated hardware and software solutions.",
+    "url": "https://www.youtube.com/watch?v=Ww-rTu0Afag",
+    "pass": 3
+   },
+   {
+    "quote": "In this video, we showcase selected customer success stories from Q2 2026, highlighting real-world applications of autonomous forklifts, AMRs, AGV tuggers, four-way shuttles, and intelligent warehouse software systems.",
+    "url": "https://www.youtube.com/watch?v=Ww-rTu0Afag",
+    "pass": 3
+   },
+   {
+    "quote": "Kecong provides Automated Guided Vehicles (AGVs) featuring control systems, navigation sensors, and driving mechanisms for material handling processes. These products are used in sectors that require logistics and material handling, including the automotive industry, electronics manufacturing, and warehousing. It was founded in 2015 and is based in Hangzhou, China.",
+    "url": "https://www.cbinsights.com/company/multiway/financials",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "住友グループも導入。中国発スマート物流ロボ「Multiway Robotics」、... — 物流現場で“100台同時制御”。 中国発AIロボ「Multiway Robotics」、日本を含む30カ国で導入拡大 物流現場向けにスマートソリューションを提供する中国スタートアップ「Multiway Robotics（勱微機器…",
+    "url": "https://36kr.jp/352488/",
+    "pass": 3
+   },
+   {
+    "quote": "物流現場で“100台同時制御”。中国発AIロボ「Multiway Robotics」、日... — May 22, 2025 · 物流現場向けにスマートソリューションを提供する中国スタートアップ「Multiway Robotics（勱微機器人）」（以下、マルチウェイ）がこのほど、普華資本（Puhua Capital）の主導するシリーズBの追加ラウンドで約1億元（約20億円）を調達した。",
+    "url": "https://36kr.jp/343624/",
+    "pass": 3
+   },
+   {
+    "quote": "Multiway — マルチウエー ロボティクス（Multiway Robotics）は、無人フォークリフト・AGVフォークリフト・AMRを提供する物流自動化のグローバル企業です。高所ラック搬送、無人荷役、パレット搬送を実現し、「億万のロボットで世界を支える」をビジョンに物流革新を推進します。",
+    "url": "https://www.multiway.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Multiway Roboticsについて｜インテリジェントイントラロジスティクス... — Multiway Robotics グローバル本社およは中国深センに位置し、製造拠点は浙江省にあり、中国国内で深セン、杭州、アモイに拠点を構え、海外事業子会社のアメリカ・アトランタ、ドイツ・ノルトライン＝ヴェストファーレン（NRW）州、日本東京、韓国ソウルに ...",
+    "url": "https://www.multiway.co.jp/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "【インタビュー】なぜ創業6年でここまで作れるのか？――Multiway Robot... — Aug 13, 2026 · 中国・深圳発の物流ロボット企業Multiway Roboticsを取材。8トン搬送、16.5m高層ラック、コンテナ進入に対応する無人フォークリフト、自社開発のRCS・WMS・WCS、安全技術、日本での導入体制、そして高速な製品開発を支える深圳の競争環境に迫ります。",
+    "url": "https://robo-bridge.com/articles/interview-multiway-robotics-logistics",
+    "pass": 3
+   },
+   {
+    "quote": "Multiway Robotics | Automated AGV Forklifts Provider — Multiway Robotics, a leading intelligent intralogistics solution provider, manufactures and installs Automated Guided Vehicles (AGVs), AGV forklifts, AGV Tugger, Automated Storage and Retrieval System (ASRS) and Autonomous Mobile Robot (AMR).",
+    "url": "https://www.mw-r.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Multiway Roboticsについて｜インテリジェントイントラロジスティクス... — Multiway Roboticsは、「億万のロボットの力を世界へ」というビジョンを掲げ、「新しい効率的な雇用形態を生み出す」ことを使命として、継続的に世界の生産性向上を推進しています。 Multiway Robotics グローバル本社およは中国深センに位置し、製造拠点は浙江省にあり、中国国内で深セン、杭州 ...",
+    "url": "https://www.multiway.co.jp/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "About Multiway Robotics | leading intelligent Intralogistics ... — Learn about Multiway Robotics, a global leader in autonomous forklifts and smart intralogistics solutions powered by robotics, AI, and cloud software",
+    "url": "https://www.mw-r.com/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "Industry Case Studies | Autonomous Forklifts by Multiway Robotics — Case Studies Multiway Robotics has provided services to 1000+ large corporate customers, spanning 20+ industries including food, medical, new energy, automotive, machinery manufacturing, cold chain, among others. Among these customers are well-known companies, including Fortune Global 500 firms and industry leaders.",
+    "url": "https://www.mw-r.com/case",
+    "pass": 3
+   },
+   {
+    "quote": "Multiway Robotics Case Studies | PDF | Warehouse | Logistics — Multiway Robotics (Shenzhen) Co., Ltd. aims to be a leading provider of intelligent field logistics solutions, offering various applications such as automated handling and intelligent warehousing across multiple industries including food, automotive, and medical. The company showcases case studies highlighting their equipment and softw",
+    "url": "https://www.scribd.com/document/1032425415/Multiway-Robotics-Case-Studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study | Enhancing Heavy-Duty Intralogistics with ... — Project Background To address growing demands for heavy-load material handling, the customer partnered with Multiway Robotics to deploy a flexible, autonomous forklift solution. The goal was to replace manual transport with safer, more efficient unmanned logistics across the factory floor.",
+    "url": "https://www.mw-r.com/manufacturing/66",
+    "pass": 3
+   },
+   {
+    "quote": "Multiway Robotics: Selected Case Studies (Q2 2026) - YouTubeHow Multiway Robotics Transformed a Malaysian Manufacturer's ...Multiway Robotics | Case Studies - YouTubeMultiway Robotics Autonomous Forklifts for Heavy Machinery ... — Jun 5, 2026 · Real warehouse transformation. Discover how Multiway Robotics helps manufacturers and logistics enterprises achieve end-to-end warehouse automation through",
+    "url": "https://www.youtube.com/watch?v=Ww-rTu0Afag",
+    "pass": 3
+   },
+   {
+    "quote": "How Multiway Robotics Transformed a Malaysian Manufacturer's ... — Sep 1, 2026 · Summary Multiway Robotics has successfully delivered an intelligent warehouse automation solution for a leading manufacturing enterprise in Malaysia, integrating autonomous forklifts with intelligent warehouse management systems to optimize material handling and warehouse operations. Featuring 5,000+ storage locations",
+    "url": "https://www.roboticstomorrow.com/article/2026/08/how-multiway-robotics-transformed-a-malaysian-manufacturers-high-bay-smart-warehouse-with-5000-storage-locations/26929",
+    "pass": 3
+   },
+   {
+    "quote": "Multiway Robotics Stock Price, Funding, Valuation, Revenue ... — Apr 17, 2025 · See Multiway Robotics funding rounds, investors, investments, exits and more. Evaluate their financials based on Multiway Robotics's post-money valuation and revenue.",
+    "url": "https://www.cbinsights.com/company/multiway/financials",
+    "pass": 3
+   },
+   {
+    "quote": "Multiway Robotics — venture-backed company profile | Dealroom — Multiway Robotics — transportation HQ in Shenzhen, China. Founded 2019. Valuation $100–250M. Funding, backers, footprint, and company profile on Dealroom.",
+    "url": "https://dealroom.co/companies/multiway-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Multiway (Computers, Parts and Peripherals) 2026 Company ...Multiway Robotics - Crunchbase Company Profile & FundingMultiway Robotics - Products, Competitors, Financials ...Multiway Robotics - Financial Details - CrunchbaseMultiway Robotics - Overview, News & Similar companies ... — Nov 8, 2021 · Multiway (Computers, Parts and Peripherals) General Information Description Manufacturer of autonomous",
+    "url": "https://pitchbook.com/profiles/company/443309-95",
+    "pass": 3
+   },
+   {
+    "quote": "Multiway Robotics - Crunchbase Company Profile & Funding — Multiway Robotics provides intelligent manufacturing and logistics solutions based on robotics and artificial intelligence technologies.",
+    "url": "https://www.crunchbase.com/organization/multiway-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Multiway Robotics - Products, Competitors, Financials ... — About Multiway Robotics Multiway Robotics specializes in smart material handling solutions within the automation industry. The company offers a range of unmanned forklifts, including four-way, three-way, and omnidirectional forklifts, as well as manual guided vehicles and automated guided vehicles (AGVs). It was founded in 2019 and is bas",
+    "url": "https://www.cbinsights.com/company/multiway",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Multiway Robotics - LinkedIn Multiway robotics technology is an advanced leading intelligent intralogistics solution provider. Headquartered in Shenzhen, China. Based on forward sense of industry, Multiway robotics features ...",
+    "url": "https://www.linkedin.com/company/mw-r/",
+    "pass": 3
+   },
+   {
+    "quote": "Multiway Robotics Jobs in United States (11,000+ Open Roles ... Today’s top 11,000+ Multiway Robotics jobs in United States. Leverage your professional network, and get hired. New Multiway Robotics jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/multiway-robotics-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "陈潇翔 - Multiway Robotics - APME General Manager | 领英 Multiway Robotics - APME General Manager · 工作经历: Multiway Robotics · 地点: 深圳 · 500 多位领英好友。在领英 (一个拥有 10 亿会员的职业社区) 查看陈潇翔的职业档案。",
+    "url": "https://cn.linkedin.com/in/陈潇翔-66151a167",
+    "pass": 3
+   },
+   {
+    "quote": "Jose David Lopez Murillo - Multiway Robotics | LinkedInLIANG LIYA – Deutschland | Berufliches Profil | LinkedInJose Javier Gonzalez Sanchez - Sales Manager Multiway ...许莹莹 - -- | 领英 - 领英 (中国) Experiencia: Multiway Robotics · Educación: Universidad de Sonora · Ubicación: Área metropolitana de Guadalajara, México · 388 contactos en LinkedIn. Ver el perfil de Jose David Lopez Murillo en LinkedIn, una",
+    "url": "https://mx.linkedin.com/in/jose-david-lopez-murillo-9254bb33",
+    "pass": 3
+   },
+   {
+    "quote": "Eric Liang - CEO| Automation | Vending machines | 领英Aaron Zhu - General Manager | LinkedInHenrik Busch-Larsen - Founder @ Multiway Robotics ...Multiway Robotics CEO, Founder, Key Executive Team, Board of ...ハイライト｜Multiway Robotics、2026年米国サプライチェーン・エクセ... Multiway Robotics, warehouse robotics technology and logistics robotics companies, builds intelligent logistics robotic warehouse systems and type",
+    "url": "https://cn.linkedin.com/in/eric-liang-5331aa1ab",
+    "pass": 3
+   },
+   {
+    "quote": "Aaron Zhu - General Manager | LinkedInHenrik Busch-Larsen - Founder @ Multiway Robotics ...Multiway Robotics CEO, Founder, Key Executive Team, Board of ...ハイライト｜Multiway Robotics、2026年米国サプライチェーン・エクセ... General Manager · Experience: Multiway Robotics · Location: Forest Park · 500+ connections on LinkedIn. View Aaron Zhu’s profile on LinkedIn, a professional community of 1 billion members. Henrik Bu",
+    "url": "https://www.linkedin.com/in/aaron-zhu-82105017a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Multiway Robotics - Facebook Multiway Robotics. 183 likes. Multiway Robotics is an advanced intelligent on-site logistics solutions provider.",
+    "url": "https://www.facebook.com/p/Multiway-Robotics-100070100355317/",
+    "pass": 3
+   },
+   {
+    "quote": "Multiway Robotics (@multiwayR) • Facebook, Connect with friends Multiway Robotics is on Facebook. Join Facebook to connect with Multiway Robotics and others you may know. Facebook gives people the power to share and makes the world more open and connected.",
+    "url": "https://www.facebook.com/multiwayR/",
+    "pass": 3
+   },
+   {
+    "quote": "Multiway Control System | Jessup PA - FacebookMultiway robotics | Shenzhen - FacebookMultiway Robotics cooperates with a well-known paint ...Robot1 | Chicago IL - FacebookMultiway Sideloader Forklift MW-O30... - Multiway Robotics ... Jun 9, 2026 · Multiway Control System, Jessup. 165 followers. Multiway Control System is a cutting-edge provider of industrial automation & robotics aimed at revoluti",
+    "url": "https://www.facebook.com/MultiwayControl/",
+    "pass": 3
+   },
+   {
+    "quote": "Multiway robotics | Shenzhen - Facebook Dec 30, 2021 · Multiway robotics Dec 30, 2021 · Multiway Robotics steel industry customer case: counterbalanced unmanned forklift AGV Counterbalanced Forklift Truck AGV Counterbalance Truck MW-E30/35/40/45/50, the fork is outside the center line of the front wheel. The main feature is that in order to overcome the overturning moment generated by ...",
+    "url": "https://www.facebook.com/Multiway-robotics-102719388951155/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.multiway-robotics.com/",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://36kr.jp/352488/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://36kr.jp/343624/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.multiway.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.multiway.co.jp/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mw-r.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://e-shop.robotis.co.jp/page/distributors",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.multiway.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mw-r.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.multiway.co.jp/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plibot.co.jp/company/showroom_multiway/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mw-r.com/case",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scribd.com/document/1032425415/Multiway-Robotics-Case-Studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mw-r.com/manufacturing/66",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Ww-rTu0Afag",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://learn.g2.com/what-is-a-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.verkada.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/multiway/financials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dealroom.co/companies/multiway-robotics/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/443309-95",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/multiway-robotics",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/mw-r/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/multiway-robotics-jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cn.linkedin.com/in/陈潇翔-66151a167",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mx.linkedin.com/in/jose-david-lopez-murillo-9254bb33",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Multiway-Robotics-100070100355317/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/multiwayR/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MultiwayControl/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Multiway-robotics-102719388951155/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cn.linkedin.com/in/eric-liang-5331aa1ab",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/aaron-zhu-82105017a",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Multiway Robotics 日本 導入",
+   "results": [
+    "https://36kr.jp/352488/",
+    "https://36kr.jp/343624/",
+    "https://www.multiway.co.jp/",
+    "https://www.multiway.co.jp/about-us",
+    "https://robo-bridge.com/articles/interview-multiway-robotics-logistics",
+    "https://www.plibot.co.jp/company/showroom_multiway/",
+    "https://www.plibot.co.jp/products/multiway/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Multiway Robotics 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.mw-r.com/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://e-shop.robotis.co.jp/page/distributors",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://maymobility.com/ja",
+    "https://holoway.co.jp/",
+    "https://www.rapyuta-robotics.com/ja/about/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Multiway Robotics Japan",
+   "results": [
+    "https://www.multiway.co.jp/",
+    "https://www.mw-r.com/",
+    "https://www.multiway.co.jp/about-us",
+    "https://www.plibot.co.jp/company/showroom_multiway/",
+    "https://www.mw-r.com/about-us",
+    "https://www.plibot.co.jp/products/multiway/",
+    "https://www.wantedly.com/companies/company_4396079"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Multiway Robotics manufacturing customer case study",
+   "results": [
+    "https://www.mw-r.com/case",
+    "https://www.scribd.com/document/1032425415/Multiway-Robotics-Case-Studies",
+    "https://www.mw-r.com/manufacturing/66",
+    "https://www.youtube.com/watch?v=Ww-rTu0Afag",
+    "https://www.roboticstomorrow.com/article/2026/08/how-multiway-robotics-transformed-a-malaysian-manufacturers-high-bay-smart-warehouse-with-5000-storage-locations/26929",
+    "https://www.youtube.com/playlist?list=PLPdv1A_J8g2Tld1FEys9miab1bKn4oTfO",
+    "https://buildingbusinessnews.org/multiway-robotics-autonomous-forklifts-for-heavy-machinery-plants-and-building-materials-warehouses/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Multiway Robotics white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://learn.g2.com/what-is-a-partner-program",
+    "https://www.verkada.com/partners/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.mycompanyworks.com/reseller",
+    "https://www.vizrt.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Multiway Robotics founded funding employees revenue",
+   "results": [
+    "https://www.cbinsights.com/company/multiway/financials",
+    "https://dealroom.co/companies/multiway-robotics/",
+    "https://pitchbook.com/profiles/company/443309-95",
+    "https://www.crunchbase.com/organization/multiway-robotics",
+    "https://www.cbinsights.com/company/multiway",
+    "https://www.crunchbase.com/organization/multiway-robotics/financial_details",
+    "https://www.zoominfo.com/c/multiway-robotics/557414939"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Multiway Robotics",
+   "results": [
+    "https://note.com/seekerstart/n/n43da800d9a62",
+    "https://note.com/seigo77",
+    "https://note.com/tks849/n/nc4bbebe01e9d?hl=en",
+    "https://note.com/azimnb/n/nfb5360371c9c?hl=en",
+    "https://note.com/qy_research/n/na6d8696ca55e",
+    "https://note.com/fond_clam2634/n/n06d26defb95d",
+    "https://note.com/kokyu_1069/n/ncfcc6a7e67f0"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Multiway Robotics",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Multiway Robotics",
+   "results": [
+    "https://www.linkedin.com/company/mw-r/",
+    "https://www.linkedin.com/jobs/multiway-robotics-jobs",
+    "https://cn.linkedin.com/in/陈潇翔-66151a167",
+    "https://mx.linkedin.com/in/jose-david-lopez-murillo-9254bb33",
+    "https://de.linkedin.com/in/multiway-robotics",
+    "https://mx.linkedin.com/in/jjaviergonzalez",
+    "https://cn.linkedin.com/in/nicolexu888"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Multiway Robotics",
+   "results": [
+    "https://www.facebook.com/p/Multiway-Robotics-100070100355317/",
+    "https://www.facebook.com/multiwayR/",
+    "https://www.facebook.com/MultiwayControl/",
+    "https://www.facebook.com/Multiway-robotics-102719388951155/",
+    "https://www.facebook.com/100070100355317/videos/1476535213208176/",
+    "https://www.facebook.com/p/Robot1-61584421318827/",
+    "https://www.facebook.com/100070100355317/posts/-multiway-sideloader-forklift-mw-o30-is-widely-used-in-ground-handling-and-high-/669229252090414/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Multiway Robotics note 社長",
+   "results": [
+    "https://www.mw-r.com/",
+    "https://cn.linkedin.com/in/eric-liang-5331aa1ab",
+    "https://www.linkedin.com/in/aaron-zhu-82105017a",
+    "https://www.crunchbase.com/person/henrik-busch-larsen-6fb0",
+    "https://www.cbinsights.com/company/multiway/people",
+    "https://www.multiway.co.jp/gongsixinwen/55",
+    "https://www.mw-r.com/company-profile"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Multiway Robotics X 投稿",
+   "results": [
+    "https://www.multiway.co.jp/gongsixinwen/55",
+    "https://www.mw-r.com/",
+    "https://x.com/MultiwayRobotic",
+    "https://www.mw-robot.com/",
+    "https://www.multiway.co.jp/",
+    "https://www.mw-r.com/pallet-truck",
+    "https://www.linkedin.com/posts/mw-r_agvforklift-factoryautomation-intralogistics-activity-7275835101542760448-yo_B"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）"
+ }
+}

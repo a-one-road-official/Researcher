@@ -1,0 +1,390 @@
+{
+ "name": "株式会社フラット電子 本社",
+ "aliases": [],
+ "context": "ipros_all:少量",
+ "researched_at": "2026-11-11T13:21:36.750544+00:00",
+ "official_url": "http://www.flatdenshi.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　田木稔",
+    "url": "https://www.flatdenshi.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社・工場",
+    "value": "〒245-0012　神奈川県横浜市泉区中田北3丁目1-27 電話：045-802-9460（代）　　FAX：045-804-0924 延面積 641㎡",
+    "url": "https://www.flatdenshi.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "拠点": [
+   {
+    "label": "電装工場",
+    "value": "〒245-0013　神奈川県横浜市泉区中田東4丁目65-18 電話：045-801-4462　　FAX：045-801-0204 延面積 651㎡",
+    "url": "https://www.flatdenshi.co.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "フラット電子の金属薄膜抵抗器“フラットオーム”も1967年の創業以来、計測器用途等に要求される高い性能を達成するために、薄膜技術・超微細加工技術の改良を積み重ね、徹底した品質管理を追求した結果、世界最高水準の品質を持つ製品群を揃えるに至っております",
+    "url": "https://www.flatdenshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "これからも皆様のニーズを実現するために、高品質な金属薄膜抵抗器の製造及び金属薄膜技術応用製品の開発に挑戦してまいります",
+    "url": "https://www.flatdenshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "メトリーは設計・開発などのエンジニアに的を絞った、産業用製品専門の製品情報比較サイトです",
+    "url": "https://www.flatdenshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品比較のための製品情報、メーカー情報を提供しています",
+    "url": "https://www.flatdenshi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金属薄膜の特長である温度係数の小ささ、経年安定性、電流雑音の少なさを持ちながら、広範囲かつ高精度な抵抗値の製品を提供いたします",
+    "url": "https://www.flatdenshi.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "ちながら、広範囲かつ高精度な抵抗値の製品を提供いたします",
+    "url": "https://www.flatdenshi.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "「後工程はお客様」を常に意識しユーザー様に満足して頂ける製品を提供いたします",
+    "url": "https://www.flatdenshi.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の製品は鉛フリーに対応しており、RoHS指令およびREACH規制に適合しています",
+    "url": "https://www.flatdenshi.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "電子天秤や電子計測器などの計測業界をはじめとして、FA業界や半導体試験装置でもアナログ信号の変換回路、増幅回路部分に多数使用されております",
+    "url": "https://www.flatdenshi.co.jp/product/",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "設計者の要求している抵抗値について数列外の特注品も短納期で製作します",
+    "url": "https://www.flatdenshi.co.jp/product/03.html",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.flatdenshi.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flatdenshi.co.jp/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flatdenshi.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flatdenshi.co.jp/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flatdenshi.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flatdenshi.co.jp/product/01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flatdenshi.co.jp/product/02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flatdenshi.co.jp/product/03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flatdenshi.co.jp/product/04.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flatdenshi.co.jp/product/05.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.flatdenshi.co.jp/pdf%5Cceo-news.pdf",
+    "status": "http_404",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.flatdenshi.co.jp/pdf%5Cnews_20190701.pdf",
+    "status": "http_404",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.flatdenshi.co.jp/pdf%5Cflat_chip_2019_rfc-8d.pdf",
+    "status": "http_404",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.flatdenshi.co.jp/pdf%5CN8DN16D%20REEFRET.pdf",
+    "status": "http_404",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.flatdenshi.co.jp/pdf/ISO9001_2025-2028.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.flatdenshi.co.jp/pdf/ISO14001_2025-2028.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.flatdenshi.co.jp/pdf/flat_chip_2020.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.flatdenshi.co.jp/pdf%5Cflat_cn_2019.pdf",
+    "status": "http_404",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.flatdenshi.co.jp/images/product/mv.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.flatdenshi.co.jp/images/product/img1.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.flatdenshi.co.jp/images/product/img2.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.flatdenshi.co.jp/images/product/img3.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.flatdenshi.co.jp/images/product/img4.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.flatdenshi.co.jp/images/product/img5.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.flatdenshi.co.jp/images/product/img6.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.flatdenshi.co.jp/images/product/img7.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.flatdenshi.co.jp/images/product/01/mv.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.flatdenshi.co.jp/images/product/01/img01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.flatdenshi.co.jp/images/product/01/detail.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.flatdenshi.co.jp/images/product/02/mv.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.flatcorp.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "フラット電子 本社 取扱製品 試作 小ロット",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "フラット電子 本社 会社概要 事業内容",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "フラット電子 本社 お問い合わせ メール",
+   "results": [
+    "https://www.flatdenshi.co.jp/contact/",
+    "https://www.flatdenshi.co.jp/contact/confirm.php",
+    "https://www.flatcorp.jp/contact/",
+    "https://flatgroup.co.jp/contact.html",
+    "https://help.flat.io/ja/support/",
+    "https://flat.support/contact/",
+    "http://www.ecodm.jp/hpdemo/flat/request/index.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com フラット電子 本社",
+   "results": [
+    "https://note.com/theflathead1996/n/n8fa913c78f27",
+    "https://note.com/theflathead1996/m/m6a151c81cd6c",
+    "https://note.com/flatt_security/n/n58f80f8e40c2",
+    "https://note.com/komuginyc/n/nf1dc81ed27af",
+    "https://tales.note.com/hirono3",
+    "https://note.com/komuginyc/n/n5626e01ca118",
+    "https://note.com/theflathead1996/n/nba899f0390d9"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com フラット電子 本社",
+   "results": [
+    "https://x.com/flat_0401",
+    "https://x.com/flatlabo",
+    "https://about.x.com/ja",
+    "https://x.com/RyanAFournier/status/2117296789443240367",
+    "https://x.com/England/status/2114852176463868299",
+    "https://x.com/flat_osaka",
+    "https://x.com/futaba6986"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com フラット電子 本社",
+   "results": [
+    "https://www.linkedin.com/company/flexintl/",
+    "https://jp.linkedin.com/company/flat-inc",
+    "https://jp.linkedin.com/in/憲司-藤田-a13072a5",
+    "https://uk.linkedin.com/jobs/view/arts-and-culture-correspondent-at-the-guardian-4482854726",
+    "https://my.linkedin.com/jobs/view/head-of-collections-at-monee-4471669847",
+    "https://za.linkedin.com/in/magadi-moeletsi-1463a8232",
+    "https://www.linkedin.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com フラット電子 本社",
+   "results": [
+    "https://www.facebook.com/flat.co.jp/",
+    "https://www.facebook.com/G.FLAT2016/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/fwrspt/",
+    "https://www.facebook.com/flatfield.operations/",
+    "https://www.facebook.com/flatlabo/",
+    "https://www.facebook.com/ff.solaris/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "フラット電子 本社 note 社長",
+   "results": [
+    "http://www.flatdenshi.co.jp/",
+    "https://compalyze.co.jp/company/4010401144589",
+    "https://www.flatcorp.jp/company/",
+    "http://www.ecodm.jp/hpdemo/flat/profile/index.html",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "http://www.flatdenshi.co.jp/company/",
+    "https://flatgroup.co.jp/about.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "フラット電子 本社 X 投稿",
+   "results": [
+    "http://www.flatdenshi.co.jp/",
+    "https://www.flatcorp.jp/company/",
+    "https://mono.ipros.com/en/company/detail/141214/",
+    "http://www.flatdenshi.co.jp/company/",
+    "https://matching.idec.or.jp/株式会社フラット電子",
+    "https://x.com/flating2nd",
+    "https://x.com/flating2nd/status/1940742328450195903"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式10頁／PDF・画像20件／外部1頁・検索9回）",
+  "従業員数": "記載なし（3回確認済み：公式10頁／PDF・画像20件／外部1頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式10頁／PDF・画像20件／外部1頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式10頁／PDF・画像20件／外部1頁・検索9回）",
+  "取扱材料": "記載なし（3回確認済み：公式10頁／PDF・画像20件／外部1頁・検索9回）",
+  "AM関連": "記載なし（3回確認済み：公式10頁／PDF・画像20件／外部1頁・検索9回）",
+  "連絡先": "記載なし（3回確認済み：公式10頁／PDF・画像20件／外部1頁・検索9回）"
+ }
+}

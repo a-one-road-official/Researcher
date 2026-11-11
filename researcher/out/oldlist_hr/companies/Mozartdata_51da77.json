@@ -1,0 +1,1344 @@
+{
+ "name": "Mozartdata",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-11T13:21:30.125154+00:00",
+ "official_url": "https://www.mozartdata.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$21.2M",
+    "url": "https://getlatka.com/companies/mozart-data",
+    "pass": 3
+   },
+   {
+    "label": "2. Seed Round",
+    "value": "11-Nov-2020 $4M $4.15M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/439506-91",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Data-Driven Marketing",
+    "url": "https://mozartdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our production database and segment events were populated in our new data warehouse (that Mozart provisioned for us) just minutes after signing up. Without Mozart, it would have taken us days to weeks to get everything set up and working well together.”",
+    "url": "https://mozartdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Save approximately 30% by using our data platform rather than assembling a standalone data stack.",
+    "url": "https://mozartdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect your data sources and pull data automatically with reliable no-code integrations. Speed up your decision-making processes and propel business growth across the board.",
+    "url": "https://mozartdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Centralize scattered data and speed up business processes",
+    "url": "https://mozartdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automating data preparation – leave less space for human error",
+    "url": "https://mozartdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A SQL-based transformation layer and dbt Core integration provide users with everything they need to automate data transformation, ensuring data is always analysis-ready — with minimal draw on internal resources.",
+    "url": "https://mozartdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our experienced data consulting team is also available to help you prepare data for analysis and manage automation, allowing you to focus on insights and growth.",
+    "url": "https://mozartdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically pushing clean data into your spreadsheets or to your preferred BI tool. This will enable you to get answers to complex business questions.",
+    "url": "https://mozartdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Data management platforms have become essential in the processes of every business over the past years.",
+    "url": "https://mozartdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "That said, small business entrepreneurs often think that data is only a necessity for corporate players – that can’t be further from the truth. SMBs can also make excellent use of their data, ensuring faster scalability.",
+    "url": "https://mozartdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Why? Data has become a company asset that can be utilized to make better, more focused business decisions, optimize overall operations, optimize and reduce costs, marketing campaigns, lead generation, and service/product management – basically, every segment of operating a business regardless of scale.",
+    "url": "https://mozartdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing – Mozart Data",
+    "url": "https://mozartdata.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Data-Driven Marketing",
+    "url": "https://mozartdata.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "We never want pricing to be a reason not to use Mozart Data. Talk to sales today to discuss putting together a custom plan.",
+    "url": "https://mozartdata.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Our production database and segment events were populated in our new data warehouse (that Mozart provisioned for us) just minutes after signing up. Without Mozart, it would have taken us days to weeks to get everything set up and working well together.”",
+    "url": "https://mozartdata.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Data-Driven Marketing",
+    "url": "https://mozartdata.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Craft Ventures Makes Data Nimble for a Time-Sensitive Process",
+    "url": "https://mozartdata.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "“Before using Mozart it was a super manual process. We’d get data from all these different sources, we would download them as CSVs, and we’d try to manually combine them to try to get insights across all of them.” - Ethan Ruby, Partner, Analytics",
+    "url": "https://mozartdata.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Focus: Product, Finance",
+    "url": "https://mozartdata.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "“We were unable to answer questions that required data from different places. The alternative [to a modern data stack] would be writing these runtime queries in our BI tool, which is expensive, and also messy to do, because they’re hard to build upon.”- Matt Marcus, Co-Founder and Chief Product Officer at Modern Treasury",
+    "url": "https://mozartdata.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "How Zeplin Uses the Modern Data Stack to Answer Growth Marketing Questions",
+    "url": "https://mozartdata.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Focus: Growth Marketing",
+    "url": "https://mozartdata.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "“If you believe Marketing is responsible for full-cycle sales, you need to have a ton of fluency in your data, to be able to know who are the people signing up, what are they doing in the application, what package did they buy, when are they going to renew, and so on.” - Jason Feng, Director of Growth Marketing at Zeplin",
+    "url": "https://mozartdata.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Data-Driven Marketing",
+    "url": "https://mozartdata.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Content Marketing Manager",
+    "url": "https://mozartdata.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Data-Driven Marketing",
+    "url": "https://mozartdata.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We are looking for a Backend Engineer to work with our team to help build our data platform product. This is a foundational role for our team.",
+    "url": "https://mozartdata.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Data-Driven Marketing",
+    "url": "https://mozartdata.com/case-studies/leandata-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Before they migrated to Mozart’s platform, they were using Matillion and Snowflake to manage their data projects. But after facing challenges with that data stack they started exploring other options. They chose Mozart’s modern data platform to consolidate their tools in one place, automate reporting, encourage collaboration, and more.",
+    "url": "https://mozartdata.com/case-studies/leandata-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "By automating this process of moving data to Tableau, executives and other business stakeholders at LeanData have access to accurate, mission-critical data when they need it, without requiring a substantial time commitment from the data analytics team. Tableau also allows less technical users to visualize data and edit dashboards without additional assistance.",
+    "url": "https://mozartdata.com/case-studies/leandata-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "There are administrative elements to managing Fivetran or your own Snowflake instance, but Mozart Data provides that support as a core part of the modern data platform offering, saving LeanData time on tasks like provisioning new team members with access to data.",
+    "url": "https://mozartdata.com/case-studies/leandata-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "“They’re trying to help us derive the most value from the product without necessarily trying to make us pay more for it,” said Tran. In some instances Mozart has helped LeanData pull data into their Snowflake warehouse without using a Fivetran connector, which would increase their costs.",
+    "url": "https://mozartdata.com/case-studies/leandata-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Ditch manual data processes for a modern data stack",
+    "url": "https://mozartdata.com/case-studies/leandata-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Data-Driven Marketing",
+    "url": "https://mozartdata.com/case-studies/quotapath-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Operations, Sales, Product, Marketing",
+    "url": "https://mozartdata.com/case-studies/quotapath-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "“You’re not going to find a more supportive, onboarding and support team in data tech. The Mozart team is not your standard customer support relationship. They’re very interested in getting you up and running and having you be successful,” said Milligan.",
+    "url": "https://mozartdata.com/case-studies/quotapath-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "It wasn’t just the setup of the data stack that proved efficient. The usability of the Mozart Data interface itself made it possible for the QuotaPath team to get the full picture of how their business was performing and become a more data-driven organization without hiring a costly data engineer.",
+    "url": "https://mozartdata.com/case-studies/quotapath-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "“We’ve talked about one of our core values as data access and making data-driven decisions, and Mozart has actually enabled us to actually do that and live by that in a pretty incredible way for us here,” said Milligan.",
+    "url": "https://mozartdata.com/case-studies/quotapath-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "“We’re easily four to five times faster in terms of getting access to data than we were previously. Board decks would take us a week before, and a lot of the data now is automatically processed. So definitely an order of magnitude faster to get access to data,” said Milligan.",
+    "url": "https://mozartdata.com/case-studies/quotapath-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "No matter how many sales calls a software vendor offers, there is no real way to know what integrating a new tool into a business will be like until it’s actually done. For QuotaPath, working with Mozart Data was a smooth process from day one with an available support team that was dedicated to seeing the relationship succeed.",
+    "url": "https://mozartdata.com/case-studies/quotapath-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "QuotaPath has also been able to provide significant product feedback to Mozart Data, making sure that as their data stack evolves, it’s doing so in a way that is most useful to their organization.",
+    "url": "https://mozartdata.com/case-studies/quotapath-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Ditch manual data processes for a modern data stack",
+    "url": "https://mozartdata.com/case-studies/quotapath-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Data-Driven Marketing",
+    "url": "https://mozartdata.com/case-studies/craft-ventures-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Craft Ventures Makes Data Nimble for a Time-Sensitive Process",
+    "url": "https://mozartdata.com/case-studies/craft-ventures-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Investing is a time-sensitive process",
+    "url": "https://mozartdata.com/case-studies/craft-ventures-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Craft collects an enormous amount of data related to startups and seeks to analyze it to understand which ones may be doing well, which are showing signs that indicate they should contact them about a potential investment, etc. Before onboarding Mozart Data’s modern data platform, Craft relied upon a data consultancy to help them refresh their data and move it to Affinity, their CRM.",
+    "url": "https://mozartdata.com/case-studies/craft-ventures-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Before using Mozart it was a super manual process. We’d get data from all these different sources, we would download them as CSVs, and we’d try to manually combine them to try to get insights across all of them.\"",
+    "url": "https://mozartdata.com/case-studies/craft-ventures-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "While the consulting firm could do the work Craft needed, it took multiple days of collaborative work every month. “A lot of that work was handled externally, so there was a level of friction to making any changes — we had to schedule a meeting to discuss and it took some time to implement those changes. So, we wanted to bring that process in-house,” said Sitara Ramesh, Associate at Craft.",
+    "url": "https://mozartdata.com/case-studies/craft-ventures-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "The consultancy process did allow Craft to pursue analytics without a large team — any new solution needed to maintain that strength.",
+    "url": "https://mozartdata.com/case-studies/craft-ventures-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Craft was able to quickly set up a modern data platform with their existing team and help from Mozart’s data analysts and move onto their top priority: building their company pipeline project to mine for investment insights.",
+    "url": "https://mozartdata.com/case-studies/craft-ventures-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Mozart’s automated incremental transform feature helps Craft highlight those insights promptly. A change in a critical metric, like an increase in headcount or a new fundraising round, might impact Craft’s assessment of an investing opportunity. An incremental transform ensures they will be promptly notified when one of those changes is reflected in one of their data sources.",
+    "url": "https://mozartdata.com/case-studies/craft-ventures-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Craft could manually refresh their entire dataset frequently to make sure their data is up-to-date, so these valuable insights can be surfaced as quickly as possible for their competitive advantage. But, that process is unnecessarily expensive because computation time affects data warehousing costs. Mozart’s incremental transform feature helps Craft operate more nimbly and at a lower cost.",
+    "url": "https://mozartdata.com/case-studies/craft-ventures-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Ditch manual data processes for a modern data stack",
+    "url": "https://mozartdata.com/case-studies/craft-ventures-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Data-Driven Marketing",
+    "url": "https://mozartdata.com/data-warehouse/",
+    "pass": 3
+   },
+   {
+    "quote": "Data centralization is essential for comprehensive analytics, faster decision-making, and better overall business performance.",
+    "url": "https://mozartdata.com/data-warehouse/",
+    "pass": 3
+   },
+   {
+    "quote": "Automate the process of centralizing and combining your data for analysis — no more copying-and-pasting from CSVs",
+    "url": "https://mozartdata.com/data-warehouse/",
+    "pass": 3
+   },
+   {
+    "quote": "You can try querying your production database for analytics, but it’s too slow and will bog down — or worse, freeze your website or product. You need a data warehouse that is designed for handling analytics projects large and small.",
+    "url": "https://mozartdata.com/data-warehouse/",
+    "pass": 3
+   },
+   {
+    "quote": "When you aren’t endlessly combining and cleaning data manually and trying to force your business intelligence tool to work with faulty data, you can hone in on the insights you need for high-priority projects. Drive revenue and optimize your functions when you’re working with the right tools.",
+    "url": "https://mozartdata.com/data-warehouse/",
+    "pass": 3
+   },
+   {
+    "quote": "Saving time on analytics helps you act decisively, but it also saves you money. Mozart can help you optimize your data processes, so you aren’t wasting computing resources that run up your bill. You can accomplish all of this with far fewer technical personnel than if you wanted to achieve these results on your own.",
+    "url": "https://mozartdata.com/data-warehouse/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by data-driven companies",
+    "url": "https://mozartdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our production database and segment events were populated in our new data warehouse (that Mozart provisioned for us) just minutes after signing up. Without Mozart, it would have taken us days to weeks to get everything set up and working well together.”",
+    "url": "https://mozartdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "One of the main advantages of a modern data stack should be that it can connect multiple data sources and answer intricate and complex queries by aggregating all of your data in a Snowflake (cloud-based) warehouse.",
+    "url": "https://mozartdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Monthly active rows (MAR) are the rows you insert, update, or delete in your data warehouse when you sync your data. Each MAR is only counted once per month, no matter how many changes you make.",
+    "url": "https://mozartdata.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Compute-hours are a unit measuring computing costs from querying data in your warehouse. An example of a query that would generate computing costs is combining data from multiple sources in one table.",
+    "url": "https://mozartdata.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Our production database and segment events were populated in our new data warehouse (that Mozart provisioned for us) just minutes after signing up. Without Mozart, it would have taken us days to weeks to get everything set up and working well together.”",
+    "url": "https://mozartdata.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "“Mozart made it super accessible for somebody who's slightly technical enough to write SQL and build dashboards, but not somebody who really wants to maintain a full-fledged ETL layer myself or stand up a data warehouse myself.\" - Ryan Milligan, Senior Director of Revenue Operations",
+    "url": "https://mozartdata.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "LeanData Case Study – Mozart Data",
+    "url": "https://mozartdata.com/case-studies/leandata-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "“They’re trying to help us derive the most value from the product without necessarily trying to make us pay more for it,” said Tran. In some instances Mozart has helped LeanData pull data into their Snowflake warehouse without using a Fivetran connector, which would increase their costs.",
+    "url": "https://mozartdata.com/case-studies/leandata-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "QuotaPath Case Study – Mozart Data",
+    "url": "https://mozartdata.com/case-studies/quotapath-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We have a lot of data sources – tools in our sales tech stack and then we also have a web application where people come to create an account at QuotaPath. So I really felt like the all-in-one functionality of Mozart, combining ETL plus a warehouse plus a transform layer was really appealing for me.\"",
+    "url": "https://mozartdata.com/case-studies/quotapath-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Mozart made it super accessible for somebody who's slightly technical enough to write SQL and build dashboards, but not somebody who really wants to maintain a full-fledged ETL layer myself or stand up a data warehouse myself.\"",
+    "url": "https://mozartdata.com/case-studies/quotapath-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Craft Ventures Case Study – Mozart Data",
+    "url": "https://mozartdata.com/case-studies/craft-ventures-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Data Warehouse – Mozart Data",
+    "url": "https://mozartdata.com/data-warehouse/",
+    "pass": 3
+   },
+   {
+    "quote": "Access your data in one place with a best-in-class data warehouse",
+    "url": "https://mozartdata.com/data-warehouse/",
+    "pass": 3
+   },
+   {
+    "quote": "Use a best-in-class Snowflake data warehouse for data centralization",
+    "url": "https://mozartdata.com/data-warehouse/",
+    "pass": 3
+   },
+   {
+    "quote": "Get a Snowflake data warehouse, or bring your own",
+    "url": "https://mozartdata.com/data-warehouse/",
+    "pass": 3
+   },
+   {
+    "quote": "Instantly set up a Snowflake data warehouse through Mozart Data. If you already have a Snowflake account, plug it into Mozart in minutes to connect to 400+ data sources and access the rest of our platform.",
+    "url": "https://mozartdata.com/data-warehouse/",
+    "pass": 3
+   },
+   {
+    "quote": "Without a data warehouse, you’re missing out on impactful analysis. You don’t have a fast, reliable way to combine data sources (and are stuck copying and pasting from CSVs). Without combining data sources you’re stuck using limited reporting tools in your data sources.",
+    "url": "https://mozartdata.com/data-warehouse/",
+    "pass": 3
+   },
+   {
+    "quote": "You can try querying your production database for analytics, but it’s too slow and will bog down — or worse, freeze your website or product. You need a data warehouse that is designed for handling analytics projects large and small.",
+    "url": "https://mozartdata.com/data-warehouse/",
+    "pass": 3
+   },
+   {
+    "quote": "\"Mozart was super simple to set up! Our production database and segment events were populated in our new data warehouse (that Mozart provisioned for us) just minutes after signing up. Without Mozart, it would have taken us days to weeks to get everything set up and working well together.\"",
+    "url": "https://mozartdata.com/data-warehouse/",
+    "pass": 3
+   },
+   {
+    "quote": "Why does Mozart Data use a Snowflake data warehouse?",
+    "url": "https://mozartdata.com/data-warehouse/",
+    "pass": 3
+   },
+   {
+    "quote": "Mozart Data offers a best-in-class modern data stack, which is why we chose to partner with Snowflake — the leading cloud data warehouse. Snowflake is extremely secure, supports standard SQL, so you don’t have to learn a new programming language, and makes it easy to control your costs since you only pay for what you use.",
+    "url": "https://mozartdata.com/data-warehouse/",
+    "pass": 3
+   },
+   {
+    "quote": "Can I use my own Snowflake data warehouse?",
+    "url": "https://mozartdata.com/data-warehouse/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. If you already have a Snowflake data warehouse but want the benefits of a full modern data platform, we can connect your warehouse to the rest of our tools.",
+    "url": "https://mozartdata.com/data-warehouse/",
+    "pass": 3
+   },
+   {
+    "quote": "Can we directly access our warehouse in Snowflake?",
+    "url": "https://mozartdata.com/data-warehouse/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. We give our customers their Snowflake credentials to access their warehouse directly through Snowflake. For the most part, our customers access their warehouse through the Mozart platform.",
+    "url": "https://mozartdata.com/data-warehouse/",
+    "pass": 3
+   },
+   {
+    "quote": "Although we provide most of our customers with a warehouse, all of our customers continue to own their data.",
+    "url": "https://mozartdata.com/data-warehouse/",
+    "pass": 3
+   },
+   {
+    "quote": "Mozart Data provides everything you need to get data into your BigQuery warehouse, prepare it, and start performing advanced analytics — without engineering resources.",
+    "url": "https://mozartdata.com/mozart-data-and-bigquery/",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by data-driven companies",
+    "url": "https://mozartdata.com/mozart-data-and-bigquery/",
+    "pass": 3
+   },
+   {
+    "quote": "Rows of data that are added, updated, or deleted each month. We typically find that 10-20% of all rows in your warehouse are active in a given month.",
+    "url": "https://mozartdata.com/mozart-data-and-bigquery/",
+    "pass": 3
+   },
+   {
+    "quote": "Sporting Goods Manufacturing",
+    "url": "https://www.casestudies.com/company/mozart-data",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Mozart Data scales hiring and builds talent pipelines with Dover | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/dover/case-study/mozart-data-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Mozart Data scales hiring and builds talent pipelines with Dover",
+    "url": "https://www.casestudies.com/company/dover/case-study/mozart-data-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Mozart Data - Customer Case Study",
+    "url": "https://www.casestudies.com/company/dover/case-study/mozart-data-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/dover/case-study/mozart-data-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/dover/case-study/mozart-data-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Sporting Goods Manufacturing",
+    "url": "https://www.featuredcustomers.com/vendor/mozart-data/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/mozart-data/case-studies",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Revenue Operations (RevOps)",
+    "url": "https://mozartdata.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Operations (RevOps)",
+    "url": "https://mozartdata.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Operations (RevOps)",
+    "url": "https://mozartdata.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "“Mozart made it super accessible for somebody who's slightly technical enough to write SQL and build dashboards, but not somebody who really wants to maintain a full-fledged ETL layer myself or stand up a data warehouse myself.\" - Ryan Milligan, Senior Director of Revenue Operations",
+    "url": "https://mozartdata.com/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Operations (RevOps)",
+    "url": "https://mozartdata.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Operations (RevOps)",
+    "url": "https://mozartdata.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Operations (RevOps)",
+    "url": "https://mozartdata.com/case-studies/leandata-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Non-technical employees regularly accessing data",
+    "url": "https://mozartdata.com/case-studies/leandata-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": ", the revenue orchestration platform that helps their customers turn buyer signals into buying decisions, had experience working with data.",
+    "url": "https://mozartdata.com/case-studies/leandata-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "There are administrative elements to managing Fivetran or your own Snowflake instance, but Mozart Data provides that support as a core part of the modern data platform offering, saving LeanData time on tasks like provisioning new team members with access to data.",
+    "url": "https://mozartdata.com/case-studies/leandata-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Operations (RevOps)",
+    "url": "https://mozartdata.com/case-studies/quotapath-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Operations, Sales, Product, Marketing",
+    "url": "https://mozartdata.com/case-studies/quotapath-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Director of Revenue Operations",
+    "url": "https://mozartdata.com/case-studies/quotapath-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Operations (RevOps)",
+    "url": "https://mozartdata.com/case-studies/craft-ventures-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Operations (RevOps)",
+    "url": "https://mozartdata.com/data-warehouse/",
+    "pass": 3
+   },
+   {
+    "quote": "When you aren’t endlessly combining and cleaning data manually and trying to force your business intelligence tool to work with faulty data, you can hone in on the insights you need for high-priority projects. Drive revenue and optimize your functions when you’re working with the right tools.",
+    "url": "https://mozartdata.com/data-warehouse/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue Operations (RevOps)",
+    "url": "https://mozartdata.com/mozart-data-and-bigquery/",
+    "pass": 3
+   },
+   {
+    "quote": "Senior Director of Revenue Operations",
+    "url": "https://www.casestudies.com/company/mozart-data",
+    "pass": 3
+   },
+   {
+    "quote": "Modern Treasury empowers 47% of employees to query data with Mozart Data",
+    "url": "https://www.featuredcustomers.com/vendor/mozart-data/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "LeanData automates reporting for 250-300 employees with Mozart Data",
+    "url": "https://www.featuredcustomers.com/vendor/mozart-data/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "goodr enables non-technical employees to access data with Mozart Data",
+    "url": "https://www.featuredcustomers.com/vendor/mozart-data/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/mozart-data/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Mozart Data Revenue 2024: $2.9M, $21.2M Raised",
+    "url": "https://getlatka.com/companies/mozart-data",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, valuation & funding",
+    "url": "https://getlatka.com/companies/mozart-data",
+    "pass": 3
+   },
+   {
+    "quote": "Mozart Data's annual revenue was $2.9M in November 2024 (LinkedIn), the most recent figure on record.",
+    "url": "https://getlatka.com/companies/mozart-data",
+    "pass": 3
+   },
+   {
+    "quote": ". The list ranks the 1,298 companies Nathan Latka has interviewed by revenue.",
+    "url": "https://getlatka.com/companies/mozart-data",
+    "pass": 3
+   },
+   {
+    "quote": "All 5 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/mozart-data",
+    "pass": 3
+   },
+   {
+    "quote": "How Mozart Data Hit $2M ARR with 125% NDR and a 25-Person Team (Interview with CEO Peter Fishman)",
+    "url": "https://getlatka.com/companies/mozart-data",
+    "pass": 3
+   },
+   {
+    "quote": "Net revenue retention",
+    "url": "https://getlatka.com/companies/mozart-data",
+    "pass": 3
+   },
+   {
+    "quote": "How Mozart Data Reached Almost 40 Customers and Under $1M ARR in Under Two Years (Interview with CEO Peter Fishman)",
+    "url": "https://getlatka.com/companies/mozart-data",
+    "pass": 3
+   },
+   {
+    "quote": "Mozart Data competes most directly with Fivetran, Matillion, Supermetrics and Hevo Data. It is the smallest of the five by revenue.",
+    "url": "https://getlatka.com/companies/mozart-data",
+    "pass": 3
+   },
+   {
+    "quote": "Mozart Data CEO, founders & employees",
+    "url": "https://getlatka.com/companies/mozart-data",
+    "pass": 3
+   },
+   {
+    "quote": "Peter Fishman founded Mozart Data in 2020 and runs it as CEO. Mozart Data had 25 employees (October 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/mozart-data",
+    "pass": 3
+   },
+   {
+    "quote": "What is Mozart Data's revenue?",
+    "url": "https://getlatka.com/companies/mozart-data",
+    "pass": 3
+   },
+   {
+    "quote": "Mozart Data's annual revenue was",
+    "url": "https://getlatka.com/companies/mozart-data",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Mozart Data have?",
+    "url": "https://getlatka.com/companies/mozart-data",
+    "pass": 3
+   },
+   {
+    "quote": "employees in October 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/mozart-data",
+    "pass": 3
+   },
+   {
+    "quote": "NarrativeWave, Inc.",
+    "url": "https://getlatka.com/companies/mozart-data",
+    "pass": 3
+   },
+   {
+    "quote": "The Latka List ranks the private, operating companies Nathan Latka has interviewed by the latest revenue figure on each profile, reported or estimated; equal figures share a rank.",
+    "url": "https://getlatka.com/companies/mozart-data",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/mozart-data",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/mozart-data",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/mozart-data",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/439506-91",
+    "pass": 3
+   },
+   {
+    "quote": "Mozart Data has 16 total employees.",
+    "url": "https://pitchbook.com/profiles/company/439506-91",
+    "pass": 3
+   },
+   {
+    "quote": "What is Mozart Data’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/439506-91",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Mozart Data is",
+    "url": "https://pitchbook.com/profiles/company/439506-91",
+    "pass": 3
+   },
+   {
+    "quote": "Peter Fishman is listed as CEO at Mozart Data.",
+    "url": "https://fundediq.co/mozart-data-mozartdata-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Mozart Data have?",
+    "url": "https://fundediq.co/mozart-data-mozartdata-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/mozart-data-mozartdata-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/mozart-data-mozartdata-com-funding/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "\"There's a huge number of people that benefit from Mozart daily, but they're not necessarily in the tool. We have a weekly report that goes out to leadership that's built through Tableau, and that report is ultimately powered by Mozart data. So you know, the transforms run every day and then Tableau is repopulated and those reports are emailed out to whoever needs to see them.\"",
+    "url": "https://mozartdata.com/case-studies/leandata-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/mozart-data/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/mozart-data/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/439506-91",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the Mozart Data team: 1 of 2 have an email address on file.",
+    "url": "https://fundediq.co/mozart-data-mozartdata-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/mozart-data-mozartdata-com-funding/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Mozart Data | — A SQL-based transformation layer and dbt Core integration provide users with everything they need to automate data transformation, ensuring data is always analysis-ready — with minimal draw on internal resources. Our experienced data consulting team is also available to help you prepare data for analysis and manage automation, allowing you to focus on insights and growth.",
+    "url": "https://mozartdata.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Mozart Dataとは？機能や特徴・製品の概要まとめ — Mozart Dataの特徴・機能について紹介。Mozart Dataの製品概要やよく比較されるサービス、サポート範囲、コミュニティなど、Mozart Dataのおすすめポイントを解説します。",
+    "url": "https://findy-tools.io/products/mozart-data/1163",
+    "pass": 3
+   },
+   {
+    "quote": "Mozart Data - braze.com — このリファレンス記事では、BrazeとMozart Dataのパートナーシップについて説明します。Mozart Dataはオールインワンの最新データプラットフォームであり、Fivetranを使用してSnowflakeへのデータのインポート、トランスフォームの作成、データの結合などを行うことができます。",
+    "url": "https://www.braze.com/docs/ja/partners/data_and_analytics/workflow_automation/mozart_data",
+    "pass": 3
+   },
+   {
+    "quote": "Mozart Data利用企業のレビューまとめ - findy-tools.io — Mozart Dataの利用企業による導入事例、活用事例を詳しく紹介。リアルな現場からユーザーの声や導入に至った背景、導入効果をお届けします。",
+    "url": "https://findy-tools.io/products/mozart-data/1163/reviews",
+    "pass": 3
+   },
+   {
+    "quote": "Mozart Data - Braze — Mozart Data は、分析用のデータを統合、整理、準備するためのツールを誰でも利用できる、オールインワンの最新のデータプラットフォームです。Mozart Data は、開発や技術的な知識がなくても、誰もがデータを最大限に活用できるようにすることを使命としています。スタートアップ企業から ...",
+    "url": "https://marketplace.braze.com/partners/mozart-data?locale=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Signup for Mozart Data | Mozart Data — Modern data platform for centralizing, organizing, and analyzing your data.",
+    "url": "https://app.mozartdata.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Data Warehouse – Mozart Data — The benefits of data centralization with Mozart Data Get a Snowflake data warehouse, or bring your own Instantly set up a Snowflake data warehouse through Mozart Data. If you already have a Snowflake account, plug it into Mozart in minutes to connect to 400+ data sources and access the rest of our platform.",
+    "url": "https://mozartdata.com/data-warehouse/",
+    "pass": 3
+   },
+   {
+    "quote": "Mozart Data and BigQuery – Mozart Data — Powering your data journey in BigQuery and beyond Mozart Data provides everything you need to get data into your BigQuery warehouse, prepare it, and start performing advanced analytics — without engineering resources.",
+    "url": "https://mozartdata.com/mozart-data-and-bigquery/",
+    "pass": 3
+   },
+   {
+    "quote": "Integrations – Mozart Data — Break down your scattered data silos by connecting all of your sources to your Mozart Data warehouse. Our data integration solution helps you do more with less — combine different data sources for impactful analysis and visualize data in your BI tool of choice.",
+    "url": "https://mozartdata.com/integrations/",
+    "pass": 3
+   },
+   {
+    "quote": "Mozart Data B2B Case Studies & Customer Successes — Mozart Data B2B Case Studies & Customer Successes Mozart Data is the fastest way to set up scalable, reliable data infrastructure that doesn’t need to be maintained by you. Mozart Data’s all-in-one modern data platform empowers anyone to easily centralize, organize, and analyze their data without engineering resources.",
+    "url": "https://www.casestudies.com/company/mozart-data",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Mozart Data scales hiring and builds talent ... — Mozart Data - Customer Case Study Mozart Data, a remote seed-stage data company, needed to scale hiring quickly after exhausting referrals from friends and friends-of-friends, but their Head of People Ops was handling recruiting alone. They turned to Dover, using its sourcing tools and recruiting support to help build talent pipelines a",
+    "url": "https://www.casestudies.com/company/dover/case-study/mozart-data-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "9 Mozart Data Case Studies, Success Stories, & Customer ... — Mozart Data has a 4.8/5 star rating. Learn what their customers think, get 9 free case studies and more.",
+    "url": "https://www.featuredcustomers.com/vendor/mozart-data/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies – Mozart Data — Learn how data-driven companies are achieving their goals with Mozart’s modern data platform",
+    "url": "https://mozartdata.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Dover | Mozart Data Case Study — Mozart Data helps companies spin up a modern data stack — in less than an hour, without an engineer, and with just a bit of SQL. Their software helps teams connect their various data sources together into one analysis-ready warehouse.",
+    "url": "https://www.dover.com/case-studies/mozart-data",
+    "pass": 3
+   },
+   {
+    "quote": "Mozart Data Revenue 2024: $2.9M ARR, $100M Valuation - LATKA — Aug 19, 2026 · Mozart Data was founded by Peter Fishman. Who is the CEO of Mozart Data? The CEO of Mozart Data is Peter Fishman. How much funding does Mozart Data have? Mozart Data raised $21.2M across 3 rounds. How many employees does Mozart Data have? Mozart Data has 25 employees. Where is Mozart Data headquarters? Mozart Data is hea",
+    "url": "https://getlatka.com/companies/mozart-data",
+    "pass": 3
+   },
+   {
+    "quote": "Mozart Data 2026 Company Profile: Valuation, Funding ...Mozart Data - 2025 Company Profile, Team, Funding ... - TracxnMozart Data — Company Profile | The Company CheckMozart Data: Funding, Investors & Team (Oct 2026) | FundedIQMozart Data — Funding, Investors & Team | SeedtableMozart Data: Funding, Team & Investors | Startup Intros — Mozart Data has 16 total employees. What industry is Mozart Data",
+    "url": "https://pitchbook.com/profiles/company/439506-91",
+    "pass": 3
+   },
+   {
+    "quote": "Mozart Data - 2025 Company Profile, Team, Funding ... - TracxnMozart Data — Company Profile | The Company CheckMozart Data: Funding, Investors & Team (Oct 2026) | FundedIQMozart Data — Funding, Investors & Team | SeedtableMozart Data: Funding, Team & Investors | Startup Intros — Sep 10, 2025 · Mozart Data is a series A company based in San Francisco (United States), founded in 2020 by Peter Fishma",
+    "url": "https://tracxn.com/d/companies/mozart-data/__j3RWZsKB393eG6Su9WyFAJ2L8LSqAD5Eel7zDFaK2zI",
+    "pass": 3
+   },
+   {
+    "quote": "Mozart Data: Funding, Investors & Team (Oct 2026) | FundedIQ — How many employees does Mozart Data have? Mozart Data is in the 11-50 employee band. How does Mozart Data's funding compare to other Data and Analytics startups? Mozart Data's latest round of $15.0M is above the $5.7M median round size for Data and Analytics companies on FundedIQ across 1,842 tracked companies over the last two years.",
+    "url": "https://fundediq.co/mozart-data-mozartdata-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Mozart Data — Funding, Investors & Team | Seedtable — Aug 28, 2026 · 19.1M USD View funding history Est. Revenue $3M – $8M ↗ How we estimate this Employees 24 ↗ Founded 2020 ↗ View source",
+    "url": "https://seedtable.com/companies/mozart-data",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Mozart Data - FacebookMozart Data - We're excited to announce the Mozart Data ...Mozart Data - Knowing what you need in a data analyst and...Mozart Data - Mozart Data provides everything our... - FacebookMozart Data - We've officially launched a free tier of...Mozart Data - We've launched Sonata, a free tier of our...Mozart Data - Our team has been working hard to bring more ... May 3, 2023 · Moza",
+    "url": "https://www.facebook.com/mozartdata/",
+    "pass": 3
+   },
+   {
+    "quote": "Mozart Data - Mozart Data provides everything our... - Facebook Nov 8, 2022 · Mozart Data provides everything our customers need to go from ineffective siloed data to truly data-driven operations with automated reporting. Check out our explainer video to learn more:",
+    "url": "https://www.facebook.com/mozartdata/posts/mozart-data-provides-everything-our-customers-need-to-go-from-ineffective-siloed/676867317294836/",
+    "pass": 3
+   },
+   {
+    "quote": "Mozart Data - We've officially launched a free tier of... Mozart Data, a YC alum, announced a free tier today to help companies facing economic headwinds start using the product.",
+    "url": "https://www.facebook.com/mozartdata/posts/951027372777576/",
+    "pass": 3
+   },
+   {
+    "quote": "Mozart Data - We're excited to announce the Mozart Data ... Mar 7, 2023 · 4 2 Mozart Data May 1, 2023 At Mozart, we actually use our data platform internally, so we understand as well as anyone that data projects can get expensive if you aren't optimizing your practices to fit your needs. One of the easiest places to start is scheduling your data to sync only when you actually need it to.",
+    "url": "https://www.facebook.com/mozartdata/posts/were-excited-to-announce-the-mozart-data-sonata-plan-a-free-version-of-our-moder/931452471401733/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "@mozartdata | X The latest posts from @mozartdata",
+    "url": "https://x.com/mozartdata",
+    "pass": 3
+   },
+   {
+    "quote": "Join us for our first-ever user conference May 6th! Meet the ... Apr 12, 2021 · Mozart Data (@MozartData). 5 likes. Join us for our first-ever user conference May 6th! Meet the Mozart Community and learn from the best on how to orchestrate your ...",
+    "url": "https://x.com/MozartData/status/1381695577537179656",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://mozartdata.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mozartdata.com/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mozartdata.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mozartdata.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mozartdata.com/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mozartdata.com/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mozartdata.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mozartdata.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mozartdata.com/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mozartdata.com/case-studies/leandata-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mozartdata.com/case-studies/quotapath-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mozartdata.com/case-studies/craft-ventures-case-study/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://mozartdata.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://findy-tools.io/products/mozart-data/1163",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.braze.com/docs/ja/partners/data_and_analytics/workflow_automation/mozart_data",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://findy-tools.io/products/mozart-data/1163/reviews",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sidebizz.net/blog/agent/general-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jomon.group/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mozartdata.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://app.mozartdata.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mozartdata.com/data-warehouse/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mozartdata.com/mozart-data-and-bigquery/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/mozart-data",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/dover/case-study/mozart-data-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/mozart-data/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mozartdata.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.wiz.io/Japanese/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/mozart-data",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/439506-91",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/mozart-data/__j3RWZsKB393eG6Su9WyFAJ2L8LSqAD5Eel7zDFaK2zI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fundediq.co/mozart-data-mozartdata-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/mozartdata/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mozartdata/posts/mozart-data-provides-everything-our-customers-need-to-go-from-ineffective-siloed/676867317294836/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mozartdata/posts/951027372777576/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mozartdata/posts/were-excited-to-announce-the-mozart-data-sonata-plan-a-free-version-of-our-moder/931452471401733/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mozartdata",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MozartData/status/1381695577537179656",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Mozartdata 日本 導入",
+   "results": [
+    "https://mozartdata.com/",
+    "https://findy-tools.io/products/mozart-data/1163",
+    "https://www.braze.com/docs/ja/partners/data_and_analytics/workflow_automation/mozart_data",
+    "https://findy-tools.io/products/mozart-data/1163/reviews",
+    "https://marketplace.braze.com/partners/mozart-data?locale=ja",
+    "https://mozartdata.com/data-warehouse/",
+    "https://mozartdata.com/integrations/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mozartdata 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://jomon.group/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://taimen-eigyo.com/words/so-dairiten/",
+    "https://note.com/yamamoto_ec/n/nd3b3890ee728",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://help.mozartdata.com/docs/faq",
+    "https://tracxn.com/d/companies/mozart-data/__j3RWZsKB393eG6Su9WyFAJ2L8LSqAD5Eel7zDFaK2zI",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Mozartdata Japan",
+   "results": [
+    "https://mozartdata.com/",
+    "https://app.mozartdata.com/",
+    "https://mozartdata.com/data-warehouse/",
+    "https://mozartdata.com/mozart-data-and-bigquery/",
+    "https://mozartdata.com/integrations/",
+    "https://mozartdata.com/about-us/",
+    "https://findy-tools.io/products/mozart-data/1163"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mozartdata manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/mozart-data",
+    "https://www.casestudies.com/company/dover/case-study/mozart-data-customer-case-study",
+    "https://www.featuredcustomers.com/vendor/mozart-data/case-studies",
+    "https://mozartdata.com/case-studies/",
+    "https://www.dover.com/case-studies/mozart-data",
+    "https://mozartdata.com/",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/tempo-quickly-gets-their-data-infrastructure-in-shape-with-mozart-data.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mozartdata white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partners.wiz.io/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://upcloud.com/partner-program/",
+    "https://www.vizrt.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mozartdata founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/mozart-data",
+    "https://pitchbook.com/profiles/company/439506-91",
+    "https://tracxn.com/d/companies/mozart-data/__j3RWZsKB393eG6Su9WyFAJ2L8LSqAD5Eel7zDFaK2zI",
+    "https://fundediq.co/mozart-data-mozartdata-com-funding/",
+    "https://seedtable.com/companies/mozart-data",
+    "https://startupintros.com/orgs/mozart-data",
+    "https://www.thecompanycheck.com/company/b/mozart-data/rtutw1ecqr5l88a4n"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Mozartdata",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/tid779/n/nf1783a683464?hl=en",
+    "https://note.com/hummelnote/n/n3a49156df09e?hl=en",
+    "https://note.com/keisuke_data/n/n63ecb7bd06d0?hl=en",
+    "https://note.com/cinephileangel/n/n308ebaaeacaa?hl=en",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Mozartdata",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Mozartdata",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com Mozartdata",
+   "results": [
+    "https://www.facebook.com/mozartdata/",
+    "https://www.facebook.com/mozartdata/posts/mozart-data-provides-everything-our-customers-need-to-go-from-ineffective-siloed/676867317294836/",
+    "https://www.facebook.com/mozartdata/posts/951027372777576/",
+    "https://www.facebook.com/mozartdata/posts/were-excited-to-announce-the-mozart-data-sonata-plan-a-free-version-of-our-moder/931452471401733/",
+    "https://www.facebook.com/mozartdata/posts/491684869146416/",
+    "https://www.facebook.com/mozartdata/posts/951890409357939/",
+    "https://www.facebook.com/mozartdata/posts/our-team-has-been-working-hard-to-bring-more-great-features-to-the-mozart-data-p/668302258151342/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mozartdata note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://mozartdata.com/",
+    "https://mozartdata.com/about-us/",
+    "https://www.linkedin.com/in/petefishman",
+    "https://www.linkedin.com/in/ltchikindas"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mozartdata X 投稿",
+   "results": [
+    "https://x.com/mozartdata",
+    "https://help.mozartdata.com/docs/faq",
+    "https://x.com/MozartData/status/1381695577537179656",
+    "https://mozartdata.com/",
+    "https://app.mozartdata.com/",
+    "https://mozartdata.com/data-warehouse/",
+    "https://app.mozartdata.com/connectors"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部30頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部30頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部30頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部30頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部30頁・検索12回）"
+ }
+}

@@ -1,0 +1,2443 @@
+{
+ "name": "Material",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Cybersecurity｜状態なし",
+ "researched_at": "2026-11-11T13:11:07.367959+00:00",
+ "official_url": "https://material.security/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "app access, and protects sensitive data across",
+    "url": "https://material.security/",
+    "pass": 1
+   },
+   {
+    "quote": "I need to protect Google Workspace",
+    "url": "https://material.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect Google Workspace",
+    "url": "https://material.security/",
+    "pass": 1
+   },
+   {
+    "quote": "I need to protect Microsoft 365",
+    "url": "https://material.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect Microsoft 365",
+    "url": "https://material.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Password resets, verification codes, production secrets used to pivot to other accounts.",
+    "url": "https://material.security/",
+    "pass": 1
+   },
+   {
+    "quote": "One product across email, data, identity, and apps",
+    "url": "https://material.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Material's inbound email security catches what Google, Microsoft, and legacy SEG providers miss, detecting and remediating even the most sophisticated attacks, plus fully automated user report triage.",
+    "url": "https://material.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect sensitive files from exposure & misuse",
+    "url": "https://material.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Proactively contain account takeovers",
+    "url": "https://material.security/",
+    "pass": 1
+   },
+   {
+    "quote": "When credentials get compromised, the clock starts. Material limits the blast radius by redacting sensitive messages before they can be read. It delivers message-level access controls to keep stolen credentials from unlocking password resets and gives investigators a real-time view of exactly what the attacker touched.",
+    "url": "https://material.security/",
+    "pass": 1
+   },
+   {
+    "quote": "account takeover, and tenant configuration in a single product that deploys",
+    "url": "https://material.security/",
+    "pass": 1
+   },
+   {
+    "quote": "“I think it’s important to look at the cloud office at a wider holistic level and not just at the point of entry. Understanding its whole life cycle and even what’s being done with it when resting is critical to protecting that platform. Material does that very well.”",
+    "url": "https://material.security/",
+    "pass": 1
+   },
+   {
+    "quote": "“I've seen amazing improvements in our ability to react, relying on well-trusted mechanisms from Material. With just one click, we can disable phishing emails.”",
+    "url": "https://material.security/",
+    "pass": 1
+   },
+   {
+    "quote": "A Thousand Masks: Where the DPRK IT-Worker Threat Meets Your Data",
+    "url": "https://material.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Material traced every possible DPRK persona we found through the hiring funnel and measured what they could access at the companies where they reached onboarding.",
+    "url": "https://material.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Security During Hypergrowth: Lessons from the Frontline",
+    "url": "https://material.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner with Material | MSP, Reseller & Tech Programs",
+    "url": "https://material.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Material secures email, identity, and data across Google Workspace and Microsoft 365. Whether you run security for customers, sell it, build on it, or recommend it, there’s a program built for how you work.",
+    "url": "https://material.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Sell Material with protected deal registration, margin that reflects your role, and co-selling from Material’s team.",
+    "url": "https://material.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Material connects by API, so there are no MX record changes, no mail routing, and no migration project. It runs alongside whatever is already in place, which makes it easy to prove and easy to bring to customers.",
+    "url": "https://material.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Email, OAuth, accounts, and data are four views of the same environment. A phishing detection knows what data the targeted account can reach. An OAuth grant is scored by the blast radius of the account that approved it. An account alert arrives with the exposed files already identified. Four point tools cannot correlate any of that.",
+    "url": "https://material.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Compromise caught after the credentials are gone and contained before it becomes a breach.",
+    "url": "https://material.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "A compromised account stops being the same thing as compromised data.",
+    "url": "https://material.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "A partner program built around the partner",
+    "url": "https://material.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "A genuinely different product",
+    "url": "https://material.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Co-selling and co-marketing support, technical enablement, and dedicated product support.",
+    "url": "https://material.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Find the program that fits how you work.",
+    "url": "https://material.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Material + Google: Protect Your Critical Infrastructure",
+    "url": "https://material.security/google-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Material seamlessly integrates with Google Workspace via API, working alongside Google’s built-in controls to protect email, files, and accounts. Catch sophisticated attacks, contain account takeovers, and get a unified view of risk across your cloud workspace.",
+    "url": "https://material.security/google-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Google Cloud Premier Partner",
+    "url": "https://material.security/google-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Material is a Google Cloud Premier Partner, which represents the highest level of partnership offered to solution providers. Material has earned Premier Partner status through a combination of depth of integration, quality of service, and value delivered to users.",
+    "url": "https://material.security/google-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Google Cloud Platform (GCP) provides the underlying infrastructure that Material runs on. Material offers deployment options for the most security-conscious companies, including deploying on a dedicated Google Cloud project.",
+    "url": "https://material.security/google-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Material is available on the Google Cloud Marketplace, streamlining the purchase process. Companies can use Marketplace credits to purchase Material and reduce or eliminate out-of-pocket spend.",
+    "url": "https://material.security/google-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Material’s Single-Tenant Model for Enhanced Data Privacy and Customization",
+    "url": "https://material.security/google-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Material Security’s unique optional deployment model eliminates many traditional sources of third-party risk by providing full infrastructure transparency and data isolation to our customers.",
+    "url": "https://material.security/google-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Find sensitive content across your environment and kick off smart, flexible actions like labeling automatically at scale.",
+    "url": "https://material.security/google-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Here's a non-controversial take: access management is hard. You want to provide people with just enough access to do their jobs, but no more and no less.",
+    "url": "https://material.security/google-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "“I don't think there's another vendor that kind of approaches both email and collaboration suite security as holistically [as Material Security.]”",
+    "url": "https://material.security/google-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Our Pricing Packages | Material Security",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Detect, monitor, and control sensitive content in Shared Drives and email",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Find and fix anomalous behavior related to sensitive content in files and emails",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive coverage purpose-built for one of the most common threats to your organization:",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Contain the blast radius of ATOs with message-level controls for sensitive content, password resets, and more",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent lateral movement by identifying and protecting password reset emails and magic links",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Priced for your team.",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Detect files with risky or improper sharing",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Detect and monitor sensitive data types in file content",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Detect anomalous and high volume sensitive content sharing via email",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Detect credential sprawl and unsanctioned app signups",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent post-breach data loss with message-level MFA for accessing historical sensitive email",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent post-breach lateral movement with message-level MFA for accessing password reset and other identity verification emails",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Detect account takeovers (ATO) based on sensitive content honeypots",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Account Takeover Prevention",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Email content retention",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Search across metadata and content for email and files",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "What counts as a \"user\" for pricing?",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "A \"user\" is any mailbox or account synced into Material for protection. In practice, every Google Workspace or Microsoft 365 seat you configure Material to cover. Contact sales to learn about pricing for service, shared, student, and other types of mailboxes.",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Essentials starts at $4 per user/month, billed annually, plus a fee based on Shared Drive size. Advanced is $6 per user/month, billed annually, plus the same Shared Drive fee. ATO Resilience can be added to either plan for an additional $3 per user/month, or purchased as a standalone license for $5 per user/month. Enterprise customers receive volume discounts, contact sales for a quote.",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Material charges a minimum annual fee that covers up to 1TB of Shared Drive storage. Beyond that, the Material team works directly with each customer to assess actual Shared Drive size and calculate the associated cost, so pricing scales with real usage rather than a flat estimate.",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by household names and leaders on the frontier of AI",
+    "url": "https://material.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by today's most innovative companies",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "is building - it’s such a simple and refreshing approach to email security! Their customers include",
+    "url": "https://material.security/love",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing of Specialty Gas Supplying Equipment",
+    "url": "https://www.j-materials.jp/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Management of Ultrapure Water and Wastewater Treatment Plants",
+    "url": "https://www.j-materials.jp/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Underpinning Cutting-edge Plants",
+    "url": "https://www.j-materials.jp/en/",
+    "pass": 3
+   },
+   {
+    "quote": "JAPAN MATERIAL is the only company that provides comprehensive equipment maintenance and infrastructure support for cutting-edge plants.",
+    "url": "https://www.j-materials.jp/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Mgt. of Ultrapure Water and Wastewater Treatment Plants",
+    "url": "https://www.j-materials.jp/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Semiconductor & LCD Plant",
+    "url": "https://www.j-materials.jp/en/",
+    "pass": 3
+   },
+   {
+    "quote": "We achieve one-stop operations management for semiconductor and LCD plants with a primary focus on specialty gas-related business.",
+    "url": "https://www.j-materials.jp/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Manufacturing Case Studies",
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "4 Industrial Manufacturing Case Studies",
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Manufacturing Case Study FAQs",
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "The case studies below show how four industrial manufacturers—Alcar Ruote, Construction Specialties,",
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "No matter what they make, industrial manufacturers deal with common challenges, such as sharing data",
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial manufacturers are moving to cloud-based applications with the latest features to overcome",
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Such applications let industrial manufacturers improve operational efficiency, respond faster to",
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Faster, better, more cost-effective. It’s the mantra of manufacturers that turn raw materials into",
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "software applications. Let’s start with a manufacturer that believes “Swiss made” is more than a label.",
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "1. Industrial Manufacturing Case Study: Alcar Ruote",
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "automotive aftermarket. The Swiss manufacturer relies on technology to produce top-quality products at a",
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "to manage key business processes: manufacturing, planning, order management, procurement, and",
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Oracle platform lets Alcar Ruote analyze sensor data from shop floor devices, predict equipment",
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "2. Industrial Manufacturing Case Study: Construction Specialties",
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "3. Industrial Manufacturing Case Study: Precision Group",
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Precision Group operates two manufacturing companies: Precision Dies & Tools and Precision Plastic",
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "4. Industrial Manufacturing Case Study: ArcelorMittal",
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "ArcelorMittal is the world’s leading steel and mining company, with primary manufacturing facilities in",
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "16 countries and an industrial presence in 60. Formed when India’s Mittal Steel merged with Luxembourg’s",
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "automotive, construction, mining, household appliances, and packaging.",
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "standardize the process of staffing jobs globally, including positions as varied as factory worker,",
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing, integrated with",
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Oracle Fusion Cloud Manufacturing offers IoT capabilities that simplify shop floor scheduling and",
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Oracle industrial manufacturing cloud infrastructure",
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Data Warehouse and Oracle Analytics Cloud, lets manufacturing teams analyze data across application",
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "We have manufacturers saying, “We’re not going to do any more samples—we’re going to send everything to you. By the way, can you also do this? And what else can you help us with?”",
+    "url": "https://businessofhome.com/articles/material-bank-raises-100-million-with-plans-to-target-residential-design",
+    "pass": 3
+   },
+   {
+    "quote": "I am not responsible for any direct or indirect damages caused by using these codes.",
+    "url": "https://note.com/dftalk/n/na64d3e79ffae?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A material lighter than air that floats! An assistant professor at Nagoya University takes on a material revolution that defies aerospace common sense｜名古屋大学WEBマガジン「広報名大」",
+    "url": "https://note.com/nagoyauniversity/n/n97d772984f79?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A material lighter than air that floats! An assistant professor at Nagoya University takes on a material revolution that defies aerospace common sense",
+    "url": "https://note.com/nagoyauniversity/n/n97d772984f79?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "stops email attacks, controls agent &",
+    "url": "https://material.security/",
+    "pass": 1
+   },
+   {
+    "quote": "deliberately span email, identities, data, and connected apps.",
+    "url": "https://material.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Bulk export and targeted searches for sensitive data in email and files.",
+    "url": "https://material.security/",
+    "pass": 1
+   },
+   {
+    "quote": "One product across email, data, identity, and apps",
+    "url": "https://material.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Catch the email attacks Google and Microsoft miss",
+    "url": "https://material.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Material's inbound email security catches what Google, Microsoft, and legacy SEG providers miss, detecting and remediating even the most sophisticated attacks, plus fully automated user report triage.",
+    "url": "https://material.security/",
+    "pass": 1
+   },
+   {
+    "quote": "covers email threats, file exposure, app governance,",
+    "url": "https://material.security/",
+    "pass": 1
+   },
+   {
+    "quote": "“I've seen amazing improvements in our ability to react, relying on well-trusted mechanisms from Material. With just one click, we can disable phishing emails.”",
+    "url": "https://material.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Material secures email, identity, and data across Google Workspace and Microsoft 365. Whether you run security for customers, sell it, build on it, or recommend it, there’s a program built for how you work.",
+    "url": "https://material.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Customers ask for email security. Modern email security means the whole workspace.",
+    "url": "https://material.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Email, OAuth, accounts, and data are four views of the same environment. A phishing detection knows what data the targeted account can reach. An OAuth grant is scored by the blast radius of the account that approved it. An account alert arrives with the exposed files already identified. Four point tools cannot correlate any of that.",
+    "url": "https://material.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Not another gateway. Cloud workspace security covering email, identity, and data together, on Google Workspace and Microsoft 365.",
+    "url": "https://material.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Material seamlessly integrates with Google Workspace via API, working alongside Google’s built-in controls to protect email, files, and accounts. Catch sophisticated attacks, contain account takeovers, and get a unified view of risk across your cloud workspace.",
+    "url": "https://material.security/google-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "“I don't think there's another vendor that kind of approaches both email and collaboration suite security as holistically [as Material Security.]”",
+    "url": "https://material.security/google-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Automated inbound email threat detection and response",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Detect, monitor, and control sensitive content in Shared Drives and email",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Find and fix anomalous behavior related to sensitive content in files and emails",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent lateral movement by identifying and protecting password reset emails and magic links",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Stop sophisticated email attacks (Phishing, BEC, Impersonation, Fraud, etc.)",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Remediate email attacks with flexible remediations (banners, link/attachment speedbumps, marking spam and deletion)",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Detect and remediate email bomb and harassment campaigns",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Hunt for email threats and build custom detections",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Train employees to recognize the latest email attack types (speedbumps, simulations, reporter acknowledgement)",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Detect external applications with excessive email access",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Create custom detections to monitor email traffic",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Detect and monitor built-in and custom sensitive data types in email",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Detect anomalous and high volume sensitive content sharing via email",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Detect SSO gaps and email-based password resets",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent post-breach data loss with message-level MFA for accessing historical sensitive email",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent post-breach lateral movement with message-level MFA for accessing password reset and other identity verification emails",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Detect and audit historical sensitive emails",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Detect and monitor sensitive data types in email",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Email content retention",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Search across metadata and content for email and files",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How does Material's pricing compare to running separate email security, DLP, and identity tools?",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Because Material unifies email threat detection, file and data security, and identity threat detection in a single per-user price, customers consolidating from point solutions typically replace several separate subscriptions — and the overhead of managing them — with one platform and one bill.",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Shared mailbox accounts are billed at the standard per-user rate. Service accounts (identity-only, non-mailbox accounts) are included at no additional cost. Low-volume accounts (mailboxes with minimal email activity) are billed at a reduced rate. Contact sales to confirm how this applies to your specific environment.",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "99% fewer phishing emails reaching inboxes",
+    "url": "https://material.security/case-study/lyft-journey-to-more-efficient-phishing-response",
+    "pass": 1
+   },
+   {
+    "quote": "When Security Analyst Jae Ward took over email security at Lyft a few years ago, the company had to treat each phishing attack—whether launched by a state actor with limitless resources or an individual with unsavory intentions—like a full-scale breach to have a shot at responding in a timely manner.",
+    "url": "https://material.security/case-study/lyft-journey-to-more-efficient-phishing-response",
+    "pass": 1
+   },
+   {
+    "quote": "Jae knew a shift had to happen: the old way of manually responding to reports submitted by a growing number of security-minded Lyft employees at all hours and from all corners of the globe wasn’t sustainable. Lyft needed to move to an automated solution that could protect Lyft’s corporate email infrastructure and high-priority targets without disrupting employee workflows.",
+    "url": "https://material.security/case-study/lyft-journey-to-more-efficient-phishing-response",
+    "pass": 1
+   },
+   {
+    "quote": "Lyft met with multiple top-tier vendors of the traditional “detect and block” gateway products that have characterized email security for decades. Nico and Jae ultimately selected Material after they quickly validated (in production) the platform's ability to help the company (and the security team) handle phishing attacks of any scale and from every type of threat actor.",
+    "url": "https://material.security/case-study/lyft-journey-to-more-efficient-phishing-response",
+    "pass": 1
+   },
+   {
+    "quote": "“Feature-wise, what impressed me was Material’s approach to email security—they weren’t trying to be some superhero type of program that promises to block everything,” says Jae. “It’s much more pragmatic: Things will get through. How do we protect our users’ data and IP when they do?”",
+    "url": "https://material.security/case-study/lyft-journey-to-more-efficient-phishing-response",
+    "pass": 1
+   },
+   {
+    "quote": "Jae’s team began their journey to Material with a short proof-of-concept trial that involved a diverse group of Lyft employees with varying phishing risk profiles. Results were immediate. Material’s value was clear: 40% of Lyft employees clicked phishing emails sent by Jae’s team to test the system before the POC with Material—versus only 25% following it.",
+    "url": "https://material.security/case-study/lyft-journey-to-more-efficient-phishing-response",
+    "pass": 1
+   },
+   {
+    "quote": "With data in hand, Jae and team were ready to proceed with a full rollout on an ambitious timeline. Jae’s central goal was to deploy Material without disrupting Lyft’s email system and with little-to-no impact to user workflows.",
+    "url": "https://material.security/case-study/lyft-journey-to-more-efficient-phishing-response",
+    "pass": 1
+   },
+   {
+    "quote": "According to Jae and Nico, Lyft’s culture of involving every employee in information security was amplified by the deployment of Material. The security team continues to provide training courses and mandate an annual ‘InfoSec 101’ course for every individual with a Lyft-associated email account.",
+    "url": "https://material.security/case-study/lyft-journey-to-more-efficient-phishing-response",
+    "pass": 1
+   },
+   {
+    "quote": "\"Material is a one-stop-shop for my security team: We can look at a phishing report, understand who else at Lyft received the sketchy email or link, who clicked it, when it came in, and take away or restore user access,” says Jae. “All in one window pane.\"",
+    "url": "https://material.security/case-study/lyft-journey-to-more-efficient-phishing-response",
+    "pass": 1
+   },
+   {
+    "quote": "According to Jae and Nico, Lyft’s relationship with Material delivers new levels of email security, data visibility, security team flexibility, and rapid phishing attack response.",
+    "url": "https://material.security/case-study/lyft-journey-to-more-efficient-phishing-response",
+    "pass": 1
+   },
+   {
+    "quote": "Stop sophisticated email attacks",
+    "url": "https://material.security/case-study/figma",
+    "pass": 1
+   },
+   {
+    "quote": "Figma’s security team needed tools that enable cutting-edge security without adding complexity for the business. Material’s seamless integration with native email workflows encouraged quick adoption among Figma employees, without adding extra work for the security team.",
+    "url": "https://material.security/case-study/figma",
+    "pass": 1
+   },
+   {
+    "quote": "“I was very impressed with Material as a product that integrated into how people natively use email and had an extremely low cognitive overhead for use,” said André Pinter, Security Manager of Figma’s AI Security Team. “Our users are very quick to report suspicious messages and we get a lot of value out of the herd immunity features.”",
+    "url": "https://material.security/case-study/figma",
+    "pass": 1
+   },
+   {
+    "quote": "“I've seen amazing improvements in our ability to react, relying on well-trusted mechanisms from Material. With just one click, we can disable phishing emails and remove them from people’s inboxes,” said Dev Akhawe, Head of Security. This efficiency meant Figma’s engineers could focus on higher-value tasks.",
+    "url": "https://material.security/case-study/figma",
+    "pass": 1
+   },
+   {
+    "quote": "Partnering with Material Security has allowed Figma to scale its security operations, reduce engineer toil, and confidently defend against email-based threats—all while maintaining business agility.",
+    "url": "https://material.security/case-study/figma",
+    "pass": 1
+   },
+   {
+    "quote": "My name is Dev, and I'm the Head of Security at Figma. We are using Material's Phishing Protection, Data Protection for Email, Data Protection for Drive, and Posture Management. We were attracted to Material's structured, powerful approach and this novel way of thinking about phishing protection.",
+    "url": "https://material.security/case-study/figma",
+    "pass": 1
+   },
+   {
+    "quote": "I've seen some amazing improvements in our ability to react, relying on well-trusted, well-supported mechanisms from Material — that with just one click, we can disable phishing emails, remove them from people's inbox, and rewrite them. We found that Material's response processes have allowed us to scale as we have grown internationally and have almost a 24x7 SOC-less environment.",
+    "url": "https://material.security/case-study/figma",
+    "pass": 1
+   },
+   {
+    "quote": "In this distributed model, Security succeeds by acting as a “center of excellence” and maintaining enough visibility to guide best practices and respond rapidly to problems as they arise. Given the importance of email to each of these businesses (and its associated risks at Mars and everywhere else) keeping billions of emails safe, secure, and usable is an exceptional challenge.",
+    "url": "https://material.security/case-study/mars-forges-new-visibility-and-incident-response",
+    "pass": 1
+   },
+   {
+    "quote": "“Material was simple to operate and trust even at our scale. There was no complex implementation and no disruption to go into production, and we had full access to our own cloud instance throughout. Within a couple of hours of deployment, we could analyze all the email data for all our domains across North America. It was remarkable.”",
+    "url": "https://material.security/case-study/mars-forges-new-visibility-and-incident-response",
+    "pass": 1
+   },
+   {
+    "quote": "This deployment experience was unusual for an email security solution. Because Material integrates via email APIs, it doesn’t require changes to MX records or mail flows and can be deployed in minutes to specific users and groups. This allowed the team to kick off a pilot with nearly 20,000 mailboxes across domains on both Microsoft Office 365 and Google G Suite.",
+    "url": "https://material.security/case-study/mars-forges-new-visibility-and-incident-response",
+    "pass": 1
+   },
+   {
+    "quote": "Visibility into email was critical for Matt and his team in order to find and address potential gaps. Their email platforms didn’t provide the type of reporting the team needed, “",
+    "url": "https://material.security/case-study/mars-forges-new-visibility-and-incident-response",
+    "pass": 1
+   },
+   {
+    "quote": "There is nothing like Material Risk Analytics built into our email. There is not enough to understand our email space and inform me of what’s not normal.",
+    "url": "https://material.security/case-study/mars-forges-new-visibility-and-incident-response",
+    "pass": 1
+   },
+   {
+    "quote": "” On top of that, with so many domains, across both cloud email platforms, getting a single view of top issues was impossible and tooling like PowerShell scripts couldn’t be used wall-to-wall. Material quickly provided unprecedented visibility and a “single pane of glass” into all email risk and administration and unlocked forward progress.",
+    "url": "https://material.security/case-study/mars-forges-new-visibility-and-incident-response",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Partner with Material | MSP, Reseller & Tech Programs",
+    "url": "https://material.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "A partner program built around the partner",
+    "url": "https://material.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Reseller Partners | Material Security Workspace Protection",
+    "url": "https://material.security/partners/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "costly staffing agencies and prevented ArcelorMittal from creating the consistent branding needed to",
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "job type inform when and how ArcelorMittal should use staffing agencies.",
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "11 Best White Label Software to Resell in 2026",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "White label software is a legitimate way to earn SaaS-style income without writing a single line of code.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "I personally know many lead gen agencies layer $10K to $30K a month in branded software revenue on top of retainers, while solo sales consultants adding $800 to $2,000 in recurring revenue from 8 to 15 clients on a branded subscription.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "That's because plenty of platforms gate white-label behind their most expensive plan or charge per client so scaling to 30 clients turns a $200 subscription into $600.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "So I tested 10 white label software that I would actually recommend, checked what each one charges and how they share revenue, and pulled the ones that make you money instead of taking it.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Salesforge Whitelabel",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Full multichannel outreach (cold email + 6 native LinkedIn actions) resold under your own brand, with your custom domain, your logo, and your pricing plans.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Infraforge Whitelabel",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Private email infrastructure resold under your own brand: dedicated IPs, pre-warmed mailboxes, and automated DNS setup for every client domain.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "GoHighLevel White Label",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "All-in-one agency CRM with unlimited client sub-accounts, plus SaaS Mode where you set your own pricing plans and Stripe bills your clients directly under your brand.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "White-label marketplace with 250+ digital products and in-house fulfillment teams that deliver services (SEO, listings, reputation, websites) under your brand.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "BotPenguin White Label:",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "White-label AI platform with chatbots, AI agents, automations, and voice agents, plus branded WhatsApp and Instagram bots, allowing agencies to resell a complete AI automation stack under their own brand.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "SuiteDash White Label",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "All-in-one client portal, CRM, invoicing, contracts, and file sharing with white-labeling baked into every tier, including custom domain and branded mobile app.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "AgencyAnalytics White Label",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "White-label marketing reporting that connects 80+ ad, SEO, social, and analytics platforms into a single branded client dashboard with your logo and custom domain.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "White-label website, funnel, and community builder for agencies to resell under their own brand, with their own affiliate program and pricing plans.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "SocialPilot White Label",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "White-label social media management with client approval workflows, white-label PDF reports, and Advanced White-Label branding (custom domain, custom login, custom colors).",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "DashClicks White Label",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Agency operations platform with white-label dashboards, CRM, funnels, and pay-per-service fulfillment your clients see as your delivery team.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "ActiveCampaign White Label",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing automation resold through the Agency Partner Program, where you buy client accounts at a volume discount and bill your clients directly under your brand.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Why Viirtue’s White Label Reseller Program Stands Above the Rest",
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "pass": 3
+   },
+   {
+    "quote": "If you’re comparing white label reseller programs, this guide will show you why Viirtue is more than a provider — we’re your growth partner.",
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "pass": 3
+   },
+   {
+    "quote": "white label reseller program",
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "pass": 3
+   },
+   {
+    "quote": "If you compare white label reseller programs, this guide will show you why Viirtue is more than a provider — we’re your growth partner.",
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "pass": 3
+   },
+   {
+    "quote": "What Is a White Label Reseller Program?",
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "pass": 3
+   },
+   {
+    "quote": "enables businesses to rebrand and resell a provider’s services as their own. In telecom and UCaaS, this typically means offering VoIP, SMS, fax, video, and collaboration tools under your own brand, while a platform like Viirtue powers everything behind the scenes.",
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "pass": 3
+   },
+   {
+    "quote": "Who Is the Viirtue White Label Reseller Program For?",
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "pass": 3
+   },
+   {
+    "quote": "For a side-by-side look at how Viirtue stacks up against SkySwitch, Retell, Intermedia, and other platforms on the criteria that matter for resellers, see the",
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "pass": 3
+   },
+   {
+    "quote": "white label AI voice agent comparison for MSPs",
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "pass": 3
+   },
+   {
+    "quote": "We’ve built our platform and partner program around three pillars:",
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "pass": 3
+   },
+   {
+    "quote": "Most agent models offer 10–20% commission. Viirtue white label resellers typically earn",
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "pass": 3
+   },
+   {
+    "quote": "scalable white-label partner",
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "pass": 3
+   },
+   {
+    "quote": "What to Look for in a White Label Reseller Program",
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "pass": 3
+   },
+   {
+    "quote": "Final Thoughts on Choosing a White Label Reseller Program",
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "pass": 3
+   },
+   {
+    "quote": "under your own brand. Whether you’re moving away from the agent model or expanding your IT services, our white label reseller program is built to help you win long term.",
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "pass": 3
+   },
+   {
+    "quote": "FAQ: Viirtue’s White Label Reseller Program",
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "pass": 3
+   },
+   {
+    "quote": "What profit margins can I expect with Viirtue’s White Label Reseller Program?",
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "pass": 3
+   },
+   {
+    "quote": "Viirtue white label resellers typically earn",
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "pass": 3
+   },
+   {
+    "quote": "What features are included in Viirtue’s white label platform?",
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "pass": 3
+   },
+   {
+    "quote": "How does Viirtue support resellers during onboarding and beyond?",
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "pass": 3
+   },
+   {
+    "quote": "Because Viirtue handles the backend infrastructure, billing, integrations, and platform features, resellers can scale quickly without needing to build those themselves. The process is made easier by",
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "pass": 3
+   },
+   {
+    "quote": "Deploy a Fully-Featured Class 5 Softswitch under your own branding",
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label and Reseller Partnerships for Payment Growth | Mastercard US",
+    "url": "https://www.mastercard.com/us/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "pass": 3
+   },
+   {
+    "quote": "The blueprint to a successful white label and reseller partnership launch",
+    "url": "https://www.mastercard.com/us/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "pass": 3
+   },
+   {
+    "quote": "Unlock white label partnerships",
+    "url": "https://www.mastercard.com/us/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "pass": 3
+   },
+   {
+    "quote": "As customers expect more from the companies that serve them, white label and reseller partnerships have emerged as a strategic approach for these businesses to broaden their services, boost productivity, and strengthen their market position without requiring a significant investment in new resources.",
+    "url": "https://www.mastercard.com/us/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "pass": 3
+   },
+   {
+    "quote": "What is a white label partnership‎?",
+    "url": "https://www.mastercard.com/us/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "pass": 3
+   },
+   {
+    "quote": "A white label partnership is when one company creates products or services that another company can rebrand as its own. White label partnerships can strengthen relationships with clients, help businesses gain a competitive edge and enable businesses to expand without the need to develop or maintain products and services in-house.",
+    "url": "https://www.mastercard.com/us/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "pass": 3
+   },
+   {
+    "quote": "What is the difference between a white label and a reseller partnership?‎",
+    "url": "https://www.mastercard.com/us/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "pass": 3
+   },
+   {
+    "quote": "Similar to white label partnerships, a reseller partnership is when one company sells products or services to its customers that it’s sourced from another business. In a reseller agreement, the company makes it known to its customers that they are using a white label company to offer these products and services.",
+    "url": "https://www.mastercard.com/us/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Email, OAuth, accounts, and data are four views of the same environment. A phishing detection knows what data the targeted account can reach. An OAuth grant is scored by the blast radius of the account that approved it. An account alert arrives with the exposed files already identified. Four point tools cannot correlate any of that.",
+    "url": "https://material.security/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Train employees to recognize the latest email attack types (speedbumps, simulations, reporter acknowledgement)",
+    "url": "https://material.security/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Jae knew a shift had to happen: the old way of manually responding to reports submitted by a growing number of security-minded Lyft employees at all hours and from all corners of the globe wasn’t sustainable. Lyft needed to move to an automated solution that could protect Lyft’s corporate email infrastructure and high-priority targets without disrupting employee workflows.",
+    "url": "https://material.security/case-study/lyft-journey-to-more-efficient-phishing-response",
+    "pass": 1
+   },
+   {
+    "quote": "Jae’s team began their journey to Material with a short proof-of-concept trial that involved a diverse group of Lyft employees with varying phishing risk profiles. Results were immediate. Material’s value was clear: 40% of Lyft employees clicked phishing emails sent by Jae’s team to test the system before the POC with Material—versus only 25% following it.",
+    "url": "https://material.security/case-study/lyft-journey-to-more-efficient-phishing-response",
+    "pass": 1
+   },
+   {
+    "quote": "Figma’s security team needed tools that enable cutting-edge security without adding complexity for the business. Material’s seamless integration with native email workflows encouraged quick adoption among Figma employees, without adding extra work for the security team.",
+    "url": "https://material.security/case-study/figma",
+    "pass": 1
+   },
+   {
+    "quote": "Combining innovative technology, thoughtful design, exceptional support, and a unique approach to cybersecurity, Material Security has become an essential part of Figma’s security ecosystem.",
+    "url": "https://material.security/case-study/figma",
+    "pass": 1
+   },
+   {
+    "quote": "Reduced complexity of security evaluations of newly acquired businesses",
+    "url": "https://material.security/case-study/mars-forges-new-visibility-and-incident-response",
+    "pass": 1
+   },
+   {
+    "quote": "With over 125,000 employees (“associates” in company lingo) around the globe, Mars is one of the world's largest companies and has been family owned for over 100 years. Its business extends beyond beloved confections to well-known brands in petcare, food, nutrition, and beyond.",
+    "url": "https://material.security/case-study/mars-forges-new-visibility-and-incident-response",
+    "pass": 1
+   },
+   {
+    "quote": "“When Mars acquires a company, we don’t immediately dictate their email architecture, but we do inherit their risk. Material allows us to quickly assess everything. This visibility into a newly acquired entity is a factor for security investments. It’s even better if I can have one solution that allows me to maintain a single global process like Material does for email.”",
+    "url": "https://material.security/case-study/mars-forges-new-visibility-and-incident-response",
+    "pass": 1
+   },
+   {
+    "quote": "“Email is the number one vector through which credentials get compromised and data is exfiltrated. Material protects the users from themselves and from increasingly sophisticated attackers. We like the approach of inserting warnings to address behavioral components and taking action even after the fact to minimize dwell time of risk, without providing a barrier to the user.”",
+    "url": "https://material.security/case-study/mars-forges-new-visibility-and-incident-response",
+    "pass": 1
+   },
+   {
+    "quote": "Dotmatics Onboards Acquisitions in a Day | Dotmatics | Material Security",
+    "url": "https://material.security/case-study/dotmatics",
+    "pass": 1
+   },
+   {
+    "quote": "Adding Material hasn’t just accelerated the M&A process, it’s also reduced the day-to-day workload of the Security Operations Center (SOC). In an environment where the SOC is tasked with doing more without expanding headcount or bringing on a complex set of point solutions, Material has been a vital part of their ability to keep up.",
+    "url": "https://material.security/case-study/dotmatics",
+    "pass": 1
+   },
+   {
+    "quote": "COVID-19 brought another security challenge—an increase in new phishing attacks. Lisa decided to deploy Material's phishing protection capabilities to reduce the on-call team's load and protect Dutonians. Christine concluded that the protection would be simple to turn on during an already-significant adjustment period for many employees.",
+    "url": "https://material.security/case-study/pagerduty-upgrades-email-security",
+    "pass": 1
+   },
+   {
+    "quote": "Despite Headway never having an incident, Frank wanted to get ahead of the curve by proactively improving phishing defense. He wanted a solution that would detect and stop phishing attacks that made it through Google’s protections, and that would simplify user reporting: both for Headway’s employees and the security team.",
+    "url": "https://material.security/case-study/headway",
+    "pass": 1
+   },
+   {
+    "quote": "Not only has Material made it easier for the security team to manage user reports, it’s encouraged their employers to be more proactive. “I’ve gotten feedback from employees saying that they appreciate getting the acknowledgement from a user report because it feels like their reporting isn’t going into a black hole,” said Frank. “They are more encouraged to report in the future.”",
+    "url": "https://material.security/case-study/headway",
+    "pass": 1
+   },
+   {
+    "quote": ". With Material, Headway can focus on helping its customers–while ensuring its data and employees remain protected.",
+    "url": "https://material.security/case-study/headway",
+    "pass": 1
+   },
+   {
+    "quote": "Empower employees to actively participate in security",
+    "url": "https://material.security/case-study/headway",
+    "pass": 1
+   },
+   {
+    "quote": ", for their $100M raise to continue to grow and help more companies protect their employees' sensitive data even when their accounts are compromised! I first met the team when the company was just getting started before their seed investment round, and this round shows just how far they've come. Looking forward to watching their ongoing journey and helping a bit along the way!",
+    "url": "https://material.security/love",
+    "pass": 1
+   },
+   {
+    "quote": "Email is the embarrassing security gap at the root of so many hacks and data leaks. I'm glad the great folks at",
+    "url": "https://material.security/love",
+    "pass": 1
+   },
+   {
+    "quote": "for landing their new Series B funding! The team is one of the most talented and hard working group I know and it's been a pleasure to be part of their journey from the early days. Exciting to see their continued progress and innovative approach to",
+    "url": "https://material.security/love",
+    "pass": 1
+   },
+   {
+    "quote": "A SIEM ingests logs and sees events. It has no native understanding of how email, identity, files, and OAuth relate inside the workspace itself. Material goes deeper than log data allows and can feed high-fidelity workspace signal into the SIEM teams already have. It's not competing with it, it's making it smarter about the one part of the environment it can't see well.",
+    "url": "https://material.security/cloud-workspace-security",
+    "pass": 1
+   },
+   {
+    "quote": "go train employees,\" says Ravi",
+    "url": "https://material.security/case-study/gopuff",
+    "pass": 1
+   },
+   {
+    "quote": "Material's unique capabilities were only a part of the story.",
+    "url": "https://material.security/case-study/stake",
+    "pass": 1
+   },
+   {
+    "quote": "Applied flexible remediations to protect and educate employees, without typical, easy-to-spot phishing tests",
+    "url": "https://material.security/case-study/quora",
+    "pass": 1
+   },
+   {
+    "quote": "Today, employees at Quora have a simple process for reporting phishing that’s equally simple when it comes to IT team responsiveness. With a single click, one eagle-eyed employee protects the entire company.",
+    "url": "https://material.security/case-study/quora",
+    "pass": 1
+   },
+   {
+    "quote": "“We have employees who report phishing attempts pretty regularly, and the team can go beyond saying ‘good call out,’” says Robert. “We like reminding people that when they report phishing, everybody gets the warning right away. They don't need to wait for somebody in IT to take action.”",
+    "url": "https://material.security/case-study/quora",
+    "pass": 1
+   },
+   {
+    "quote": "Email, OAuth, accounts, and data are four views of the same environment. A phishing detection knows what data the targeted account can reach. An OAuth grant is scored by the blast radius of the account that approved it. An account alert arrives with the exposed files already identified. Point tools can’t correlate any of that, which is why it sells.",
+    "url": "https://material.security/partners/reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Ryan co-founded Material in 2017 and has served as Chairman since 2023. He previously led engineering teams at Dropbox after it acquired his last company, Parastructure, and Ayasdi. Ryan holds an MS in Computer Networks and Security and a BS in Computer Science from Stanford.",
+    "url": "https://material.security/about",
+    "pass": 1
+   },
+   {
+    "quote": "Chris, VP of Engineering at Material Security since 2017, co-founded the company. He led Dropbox infrastructure teams post-Parastructure acquisition and managed data privacy at Google. Chris holds a BS in Electrical Engineering and Computer Science from UC Berkeley.",
+    "url": "https://material.security/about",
+    "pass": 1
+   },
+   {
+    "quote": "Kevin is VP of Sales at Material, previously an early sales leader at Okta. He leads all revenue driving functions and brings a decade of enterprise sales and team leadership skills along with a passion for security as well as dedication to helping customers realize value.",
+    "url": "https://material.security/about",
+    "pass": 1
+   },
+   {
+    "quote": "Part of a multinational holding company,",
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "let employees shop for products and services much faster, including on mobile devices. Requisitions go",
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": ", part of the",
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "I personally know many lead gen agencies layer $10K to $30K a month in branded software revenue on top of retainers, while solo sales consultants adding $800 to $2,000 in recurring revenue from 8 to 15 clients on a branded subscription.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "So I tested 10 white label software that I would actually recommend, checked what each one charges and how they share revenue, and pulled the ones that make you money instead of taking it.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "No revenue share. You keep 100% of every client sale, set your own pricing, and can onboard unlimited clients.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "I built Salesforge white label because I realized that GTM consultants and tech companies want a branded outreach tool, but nobody wanted to spend two years and half a million dollars building one from scratch. So we shipped Salesforge as a reseller product where you keep the branding, the client relationship, and the recurring revenue.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Free to join with no maintenance fees. Flat 20% revenue share lets you keep 80% of every client subscription",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Choose between two monetization models: a recurring 20% revenue share or setting your own pricing markup",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Salesforge Whitelabel is free to join. There is no license fee, no minimum commitment, and no setup cost. You pick your revenue model at the start.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "20% revenue share on every client subscription",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Infraforge Whitelabel gives you the same 20% revenue share or custom markup structure as Salesforge Whitelabel, on a different product: private",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Take the 20% revenue share and let us handle billing, or set your own markup above wholesale and keep the full difference. Your call.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Choose between a 20% recurring revenue share or setting your own pricing markup",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Same reseller structure as Salesforge Whitelabel: free to join, choose your revenue model, price your clients however you want.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "20% revenue share on client subscriptions",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "On top of that, the base plan is only part of the bill. Every email your clients send, every SMS they blast, every AI token they use, and every phone minute they burn is billed as usage on top of your subscription. This can still be attractive for small businesses served by agencies, since it bundles several functions into one branded system.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": ", with AI voice agents available on the King and Emperor tiers. Agencies keep 100% of every client sale with no revenue share, and can onboard unlimited clients with custom subscription plans and sub-user accounts for each client’s team.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "How It Helps Build Revenue:",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Supports recurring revenue through resale or revenue share models across multiple products at once",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Simvoly is where I would look if your service line is website design or funnel building and you want to add a monthly recurring revenue layer on top of your project work with customizable solutions for agencies reselling websites and funnels.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Full white-label with custom support arrangements",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "$199/month (monthly billing, as listed on the vendor's pricing page)",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Your clients log in on your custom domain, not ActiveCampaign's. Their campaigns go out with the name and email address they choose. The URL of the account itself carries your brand, not the vendor's.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "White label software is a product that one company builds, and another company rebrands and resells as their own. You do not build the software yourself. You pay a wholesale rate (or a revenue share) to the original developer, put your logo on the interface, run it on your custom domain, and charge your clients whatever retail price you want. Your clients think they are using your product.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "Connect PBXs and UC platforms with carrier-grade SIP trunks for reliable voice service.",
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "pass": 3
+   },
+   {
+    "quote": ", we empower MSPs, IT service providers, and telecom agents to unlock new revenue streams by owning their brand, controlling their pricing, and delivering fully managed, enterprise-grade UCaaS and VoIP services — all without the hassle of infrastructure management.",
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "pass": 3
+   },
+   {
+    "quote": "recurring revenue and higher margins (up to 70%)",
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Voice Agents are now a core part of the Viirtue platform, not a third-party add-on. Partners can sell",
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "pass": 3
+   },
+   {
+    "quote": "$3.9 billion in combined annual revenue",
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "IBM Japan Newsroom - ニュースリリース",
+    "url": "https://jp.newsroom.ibm.com/2025-12-16-IBM-Material-DX",
+    "pass": 3
+   },
+   {
+    "quote": "日本IBM、AI等の先進技術で材料開発を革新する「IBM Material DX」を提供開始",
+    "url": "https://jp.newsroom.ibm.com/2025-12-16-IBM-Material-DX",
+    "pass": 3
+   },
+   {
+    "quote": "日本アイ・ビー・エム株式会社（以下、日本IBM）は本日、材料開発に特化した新サービス「IBM Material DX」の提供を開始しました",
+    "url": "https://jp.newsroom.ibm.com/2025-12-16-IBM-Material-DX",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マテリアル | ブランドビルディングカンパニー",
+    "url": "https://materialpr.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアル、世界五大広告賞の1つLIA 2026にて日本のPR会社で唯一となるアジア地域の年間最優秀PR会社賞を受賞",
+    "url": "https://materialpr.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "CLIENT:東芝ブレイブルーパス東京株式会社（現 東芝ブレイブルーパス武蔵）",
+    "url": "https://materialpr.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "東芝ブレイブルーパス東京 ショート動画施策",
+    "url": "https://materialpr.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "CLIENT:日本OMIYAGE振興委員会",
+    "url": "https://materialpr.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "日本OMIYAGE振興委員会 春節PR（台湾/韓国/香港）",
+    "url": "https://materialpr.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "エレクトロニクス関連事業・グラフィックスソリューション事業を展開 | ジャパンマテリアル株式会社",
+    "url": "https://www.j-materials.jp/en/",
+    "pass": 3
+   },
+   {
+    "quote": "What kind of company is JAPAN MATERIAL?",
+    "url": "https://www.j-materials.jp/en/",
+    "pass": 3
+   },
+   {
+    "quote": "JAPAN MATERIAL International Scholarship Foundation",
+    "url": "https://www.j-materials.jp/en/",
+    "pass": 3
+   },
+   {
+    "quote": "JAPAN MATERIAL is the only company that provides comprehensive equipment maintenance and infrastructure support for cutting-edge plants.",
+    "url": "https://www.j-materials.jp/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Every email and LinkedIn message can pull in prospect-specific details like recent LinkedIn posts, company news, or industry context, then rewrite the message around them. Support for 21+ languages means your clients running outreach in German, Spanish, or Japanese do not need to hire a copywriter per region.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "You get the builder in English, Spanish, French, German, Portuguese, Italian, Dutch, Russian, Chinese, Japanese, Arabic, and 15 more. Handy if you resell to clients outside English-speaking markets.",
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "pass": 3
+   },
+   {
+    "quote": "(translated into Japanese)",
+    "url": "https://note.com/dftalk/n/na64d3e79ffae?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Why does IFC have three types of material representation? The roles and proper usage of IfcMaterial, Layer, and Profile｜ONESTRUCTION株式会社",
+    "url": "https://note.com/onestruction/n/n7e75380b2b99?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "一緒に日本のコンテンツ産業を盛り上げていきましょう！",
+    "url": "https://note.com/dftalk/n/n55483de2bf3e",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "AI等の先進技術で材料開発を革新する「IBM Material DX」を ... — AI等の先進技術で材料開発を革新する「IBM Material DX」を ... IBM Japan Newsroom https://jp.newsroom.ibm.com > 2025-12-16-IBM-Material...",
+    "url": "https://jp.newsroom.ibm.com/2025-12-16-IBM-Material-DX",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 マテリアル | ブランドビルディングカンパニー — 株式会社 マテリアル | ブランドビルディングカンパニー 株式会社マテリアル https://materialpr.jp",
+    "url": "https://materialpr.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアル グループ株式会社 — マテリアル グループ株式会社 マテリアルグループ株式会社 https://materialgroup.jp",
+    "url": "https://materialgroup.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "販売 代理店 様へ - 日東エルマテリアル — 販売 代理店 様へ - 日東エルマテリアル 日東エルマテリアル株式会社 https://marketing.nitto-lmaterials.com > agency",
+    "url": "https://marketing.nitto-lmaterials.com/agency/",
+    "pass": 3
+   },
+   {
+    "quote": "日本マテリアル — 日本マテリアル 日本マテリアル https://www.material.co.jp",
+    "url": "https://www.material.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Material Bank®｜建材サンプルマーケットプレイス — Material Bank®｜建材サンプルマーケットプレイス materialbank.jp https://materialbank.jp",
+    "url": "https://materialbank.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "JAPAN MATERIAL Co., Ltd. - ジャパンマテリアル — JAPAN MATERIAL Co., Ltd. - ジャパンマテリアル ジャパンマテリアル https://www.j-materials.jp > ...",
+    "url": "https://www.j-materials.jp/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Applied Materials Japan — Applied Materials Japan Applied Materials https://www.appliedmaterials.com > ...",
+    "url": "https://www.appliedmaterials.com/jp/ja.html",
+    "pass": 3
+   },
+   {
+    "quote": "Material Index - Valuation, Funding & Investors - PitchBook — Material Index - Valuation, Funding & Investors - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/539726-14",
+    "pass": 3
+   },
+   {
+    "quote": "Material Bank raises $100 million, with plans to target ... — Material Bank raises $100 million, with plans to target ... Business of Home https://businessofhome.com > articles",
+    "url": "https://businessofhome.com/articles/material-bank-raises-100-million-with-plans-to-target-residential-design",
+    "pass": 3
+   },
+   {
+    "quote": "Material - 2026 Company Profile, Team, Funding & Competitors — Material - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/material/__tCbtAMfNXDXWwdmmHPuV2cLz7K-72ss33oRbPcDDgYY",
+    "pass": 3
+   },
+   {
+    "quote": "Applied Materials Revenue Per Employee | Bullfincher — Applied Materials Revenue Per Employee | Bullfincher Bullfincher https://bullfincher.io > applied-materials",
+    "url": "https://bullfincher.io/companies/applied-materials/revenue-per-employee",
+    "pass": 3
+   },
+   {
+    "quote": "Material Bank raises $175M, now valued at $1.9B — Material Bank raises $175M, now valued at $1.9B Refresh Miami https://refreshmiami.com > news > ma...",
+    "url": "https://refreshmiami.com/news/material-bank-raises-175m-now-valued-at-1-9b/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "UI Design Basics Learned from Material Design｜DF TALK UI Design Basics Learned from Material Design｜DF TALK note https://note.com > ... > UI・UXデザイン",
+    "url": "https://note.com/dftalk/n/na64d3e79ffae?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Why does IFC have three types of material representation ... Why does IFC have three types of material representation ... note https://note.com > 科学・テクノロジー > 土木・建築",
+    "url": "https://note.com/onestruction/n/n7e75380b2b99?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A material lighter than air that floats! An assistant professor at ... A material lighter than air that floats! An assistant professor at ... note https://note.com > 科学・テクノロジー > 機械・工学",
+    "url": "https://note.com/nagoyauniversity/n/n97d772984f79?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Creating a Kitchen Knife Material in Blender｜AkhiLow - note Creating a Kitchen Knife Material in Blender｜AkhiLow - note note https://note.com > ... > CG",
+    "url": "https://note.com/akhilow/n/n66b826a61f04?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "MaterialX のすゝめ ツールに依存しない共有 マテリアル 2026年 ... MaterialX のすゝめ ツールに依存しない共有 マテリアル 2026年 ... note https://note.com > デザイン > デザイン全般",
+    "url": "https://note.com/dftalk/n/n55483de2bf3e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "UI Design Basics Learned from Material Design｜DF TALK",
+    "url": "https://note.com/dftalk/n/na64d3e79ffae?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/dftalk/n/na64d3e79ffae?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "UI Design Basics Learned from Material Design",
+    "url": "https://note.com/dftalk/n/na64d3e79ffae?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hello, it's been a while.",
+    "url": "https://note.com/dftalk/n/na64d3e79ffae?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I'm Ichikawa, and I've been living cautiously since I hurt my lower back at the end of the year.",
+    "url": "https://note.com/dftalk/n/na64d3e79ffae?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I often create UIs for my work, but I frequently find myself using templates built on company culture.",
+    "url": "https://note.com/dftalk/n/na64d3e79ffae?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I want to try making something",
+    "url": "https://note.com/dftalk/n/na64d3e79ffae?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "But I don't know where or how to make it look cool...",
+    "url": "https://note.com/dftalk/n/na64d3e79ffae?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Why does IFC have three types of material representation? The roles and proper usage of IfcMaterial, Layer, and Profile｜ONESTRUCTION株式会社",
+    "url": "https://note.com/onestruction/n/n7e75380b2b99?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/onestruction/n/n7e75380b2b99?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Why does IFC have three types of material representation? The roles and proper usage of IfcMaterial, Layer, and Profile",
+    "url": "https://note.com/onestruction/n/n7e75380b2b99?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hello! I am Teppei Miyamoto from the Product Management Unit of the Product Division at ONESTRUCTION Inc.",
+    "url": "https://note.com/onestruction/n/n7e75380b2b99?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "When checking material information in IFC, you will inevitably encounter the following three classes.",
+    "url": "https://note.com/onestruction/n/n7e75380b2b99?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Although their names are similar, each targets a different shape type and can represent different information.",
+    "url": "https://note.com/onestruction/n/n7e75380b2b99?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "If you do not understand these differences, it becomes easy for problems to occur, such as:",
+    "url": "https://note.com/onestruction/n/n7e75380b2b99?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "being unable to isolate the causes of output discrepancies between tools",
+    "url": "https://note.com/onestruction/n/n7e75380b2b99?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A material lighter than air that floats! An assistant professor at Nagoya University takes on a material revolution that defies aerospace common sense｜名古屋大学WEBマガジン「広報名大」",
+    "url": "https://note.com/nagoyauniversity/n/n97d772984f79?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/nagoyauniversity/n/n97d772984f79?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A material lighter than air that floats! An assistant professor at Nagoya University takes on a material revolution that defies aerospace common sense",
+    "url": "https://note.com/nagoyauniversity/n/n97d772984f79?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A black object that floats in the air just by applying heat. This mysterious substance is an innovative functional material that surprises the world, being 0.5 to 10 times lighter than air. This material was developed by Assistant Professor Tomonaga Ueno of the Graduate School of Engineering at Nagoya University. In 2024, he launched the venture company \"Sora Material Inc.\" with the goal of commer",
+    "url": "https://note.com/nagoyauniversity/n/n97d772984f79?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Lighter than air!? What is an ultra-lightweight material?",
+    "url": "https://note.com/nagoyauniversity/n/n97d772984f79?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What Assistant Professor Ueno developed is an \"ultra-lightweight material\" with a lower density than Styrofoam, created by freeze-drying a liquid in which carbon nanotubes are dispersed in water. The inside is sponge-like and has a structure with countless fine holes. When this material is heated, the air inside warms up and becomes lighter, similar to the principle of a hot air balloon, and as it",
+    "url": "https://note.com/nagoyauniversity/n/n97d772984f79?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The appearance of it floating by applying heat",
+    "url": "https://note.com/nagoyauniversity/n/n97d772984f79?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Another feature of this material is that it can be given functions such as heat insulation, sound absorption, and electromagnetic shielding by changing the composition and manufacturing method of the material. It is expected to contribute to improving fuel efficiency and reducing environmental impact in next-generation mobility and aerospace fields, such as flying cars and large drones that attrac",
+    "url": "https://note.com/nagoyauniversity/n/n97d772984f79?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Creating a Kitchen Knife Material in Blender｜AkhiLow",
+    "url": "https://note.com/akhilow/n/n66b826a61f04?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/akhilow/n/n66b826a61f04?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Creating a Kitchen Knife Material in Blender",
+    "url": "https://note.com/akhilow/n/n66b826a61f04?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The other day, I created a kitchen knife for",
+    "url": "https://note.com/akhilow/n/n66b826a61f04?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "#MidnightModeling60MinuteChallenge",
+    "url": "https://note.com/akhilow/n/n66b826a61f04?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Kitchen knife from the 60-minute modeling challenge",
+    "url": "https://note.com/akhilow/n/n66b826a61f04?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I felt the material was a bit lacking, so I adjusted it.",
+    "url": "https://note.com/akhilow/n/n66b826a61f04?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The adjusted material",
+    "url": "https://note.com/akhilow/n/n66b826a61f04?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "MaterialXのすゝめ ツールに依存しない共有マテリアル 2026年1月最新版｜DF TALK",
+    "url": "https://note.com/dftalk/n/n55483de2bf3e",
+    "pass": 3
+   },
+   {
+    "quote": "MaterialXのすゝめ ツールに依存しない共有マテリアル 2026年1月最新版",
+    "url": "https://note.com/dftalk/n/n55483de2bf3e",
+    "pass": 3
+   },
+   {
+    "quote": "MaterialXを社内に布教したい委員会、会員のTD髙橋です。",
+    "url": "https://note.com/dftalk/n/n55483de2bf3e",
+    "pass": 3
+   },
+   {
+    "quote": "前回に引き続き、各DCCツールにおけるMaterialXのレンダリング結果について記事を書かせていただきます。",
+    "url": "https://note.com/dftalk/n/n55483de2bf3e",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、比較対象となるツールにKarmaとOmniverseを追加し、かつ、なるべく見た目が一致するような対応を行ってみましたので、そちらを共有できればと思います。",
+    "url": "https://note.com/dftalk/n/n55483de2bf3e",
+    "pass": 3
+   },
+   {
+    "quote": "(あくまで2026年1月時点での対応であるため、今後変更がある可能性があります。ご了承ください)",
+    "url": "https://note.com/dftalk/n/n55483de2bf3e",
+    "pass": 3
+   },
+   {
+    "quote": "MaterialXは「対応しているツール間で見た目を合わせられる」という大きなメリットを持ちますが、レンダラの仕様によって見た目がズレてしまうこともあります。特に透過やSSS（Subsurface Scattering）の表現はレンダラの特性が現れやすく、見た目に差が生じやすい部分です。",
+    "url": "https://note.com/dftalk/n/n55483de2bf3e",
+    "pass": 3
+   },
+   {
+    "quote": "「背景作業で作ったマテリアルが同一数値でもショット作業で見た目が変わってしまう…」というのはなるべく避けたいため、今回、各セクションのワークフローをなるべく煩雑にせず、見た目を近づけるための設定を検討しました。",
+    "url": "https://note.com/dftalk/n/n55483de2bf3e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Figma on X: \"Introducing Source Material — the weekly series ... Figma on X: \"Introducing Source Material — the weekly series ... X https://x.com > @figma",
+    "url": "https://x.com/figma/status/2091956795086340563",
+    "pass": 3
+   },
+   {
+    "quote": "Mistral, New Material . Let's bring design to mission-critical AI. - X Mistral, New Material . Let's bring design to mission-critical AI. - X X https://x.com > @MistralAI",
+    "url": "https://x.com/MistralAI/status/2110377713525796942",
+    "pass": 3
+   },
+   {
+    "quote": "Imperial Material (@implmaterial) / X Imperial Material (@implmaterial) / X X https://x.com > implmaterial",
+    "url": "https://x.com/implmaterial",
+    "pass": 3
+   },
+   {
+    "quote": "Copyrighted materials and X Ads - X Business Copyrighted materials and X Ads - X Business X Business https://business.x.com > ads-policies",
+    "url": "https://business.x.com/en/help/ads-policies/ads-content-policies/copyrighted-materials-and-twitter-ads",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Material - LinkedIn Material - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/materialgrowth",
+    "pass": 3
+   },
+   {
+    "quote": "Material Bank® | LinkedIn Material Bank® | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/materialbank",
+    "pass": 3
+   },
+   {
+    "quote": "LTD Material LLC - LinkedIn LTD Material LLC - LinkedIn LinkedIn https://www.linkedin.com > ltd-material",
+    "url": "https://www.linkedin.com/company/ltd-material",
+    "pass": 3
+   },
+   {
+    "quote": "MATERIAL | LinkedIn MATERIAL | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/materialhybridmanufacturing",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Material Obsession - Facebook Material Obsession - Facebook Facebook https://www.facebook.com > ... > Arts & Crafts Store",
+    "url": "https://www.facebook.com/p/Material-Obsession-100064302361137/",
+    "pass": 3
+   },
+   {
+    "quote": "Material Issue / Material Reissue (@MaterialIssue) - Facebook Material Issue / Material Reissue (@MaterialIssue) - Facebook Facebook https://www.facebook.com > ... > Musician/band",
+    "url": "https://www.facebook.com/MaterialIssue/",
+    "pass": 3
+   },
+   {
+    "quote": "Material Bank (@materialbankco) - Facebook Material Bank (@materialbankco) - Facebook Facebook https://www.facebook.com > ... > Brand > Product/service",
+    "url": "https://www.facebook.com/materialbankco/",
+    "pass": 3
+   },
+   {
+    "quote": "Material Girl - Facebook Material Girl - Facebook Facebook https://www.facebook.com > ... > Musician/band",
+    "url": "https://www.facebook.com/p/Material-Girl-100089831874887/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://material.security/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://material.security/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://material.security/google-partnership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://material.security/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://material.security/case-study/lyft-journey-to-more-efficient-phishing-response",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://material.security/case-study/figma",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://material.security/case-study/mars-forges-new-visibility-and-incident-response",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://material.security/case-study/dotmatics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://material.security/case-study/pagerduty-upgrades-email-security",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://material.security/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://material.security/case-study/headway",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://material.security/love",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://material.security/cloud-workspace-security",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://material.security/case-study/gopuff",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://material.security/case-study/stake",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://material.security/case-study/quora",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://material.security/partners/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://material.security/case-study/automating-phishing-workflows-at-carta",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://material.security/use-cases/contain-account-takeovers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://material.security/about",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/6682b00a6109ac1e9f6b632d/6943fff79e24b5ecc2434fcd_google-partnership.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/66831c9bc92b527f4f134122/668d9e478b26d9c3eb8073fa_Ellipse%2099%20(1).webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.biz-integral.com/showcase/material",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jmgs.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.newsroom.ibm.com/2025-12-16-IBM-Material-DX",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://group.nec/global/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://materialpr.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://materialgroup.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mmc.co.jp/corporate/ja/news/press/2025/25-1126.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ymart.co.jp/partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.material.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://materialbank.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.j-materials.jp/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.appliedmaterials.com/jp/ja.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/industries/customer-success-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-case-studies--44452?srsltid=AYCX9vI055ddg8dtrsOqGPMd2QBUNJ6R9_pmXxaqQe6AreKMiwRmw6HS",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/top-content/innovation/innovation-in-manufacturing-processes/case-studies-on-successful-manufacturing-innovations/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.setproduct.com/blog/white-label-seo-reseller-programs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mastercard.com/us/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/539726-14",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://businessofhome.com/articles/material-bank-raises-100-million-with-plans-to-target-residential-design",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/material/__tCbtAMfNXDXWwdmmHPuV2cLz7K-72ss33oRbPcDDgYY",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://bullfincher.io/companies/applied-materials/revenue-per-employee",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/dftalk/n/na64d3e79ffae?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/onestruction/n/n7e75380b2b99?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nagoyauniversity/n/n97d772984f79?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/akhilow/n/n66b826a61f04?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/figma/status/2091956795086340563",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MistralAI/status/2110377713525796942",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/implmaterial",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://business.x.com/en/help/ads-policies/ads-content-policies/copyrighted-materials-and-twitter-ads",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/materialgrowth",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/materialbank",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/ltd-material",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/materialhybridmanufacturing",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Material-Obsession-100064302361137/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MaterialIssue/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/materialbankco/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Material-Girl-100089831874887/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/dftalk/n/n55483de2bf3e",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Material 日本 導入",
+   "results": [
+    "https://www.biz-integral.com/showcase/material/",
+    "https://jmgs.jp/",
+    "https://jp.newsroom.ibm.com/2025-12-16-IBM-Material-DX",
+    "https://group.nec/global/ja/",
+    "https://www.toyota.co.jp/wavebase/",
+    "https://www.aist.go.jp/aist_j/magazine/20260318.html",
+    "https://www.mi-seek.com/success-stories/toyota-success-story.html",
+    "https://www.hitachi.co.jp/Prod/comp/app/mi/",
+    "https://schoo.jp/biz/casestudy/83",
+    "https://v4.mui.com/ja/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Material 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://materialpr.jp/",
+    "https://materialgroup.jp/",
+    "https://www.mmc.co.jp/corporate/ja/news/press/2025/25-1126.html",
+    "https://www.ymart.co.jp/partner/",
+    "https://marketing.nitto-lmaterials.com/agency/",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=1162",
+    "https://www.asteal.co.jp/partner.html",
+    "https://metoree.com/companies/708/distributors/",
+    "https://www.te.com/ja/customer-support/authorized-distributors.html",
+    "https://kathalo.com/kathalog/import-business/1027/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Material Japan",
+   "results": [
+    "https://www.material.co.jp/",
+    "https://materialbank.jp/",
+    "https://www.j-materials.jp/en/",
+    "https://www.appliedmaterials.com/jp/ja.html",
+    "https://www.chemmate.jp/",
+    "https://finance.yahoo.com/quote/6055.T/",
+    "https://material-japan.jp/company/",
+    "https://www.material-expo.jp/hub/en-gb.html",
+    "https://www.bloomberg.com/profile/company/7899185Z:JP",
+    "https://grokipedia.com/page/live_in_japan_material_album"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Material manufacturing customer case study",
+   "results": [
+    "https://www.eos.info/industries/customer-success-stories",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.renishaw.com/en/additive-manufacturing-case-studies--44452?srsltid=AYCX9vI055ddg8dtrsOqGPMd2QBUNJ6R9_pmXxaqQe6AreKMiwRmw6HS",
+    "https://www.linkedin.com/top-content/innovation/innovation-in-manufacturing-processes/case-studies-on-successful-manufacturing-innovations/",
+    "https://proto3000.com/resources/case_studies/",
+    "https://www.flexwareinnovation.com/case-studies/",
+    "https://www.conveyormg.com/resources/blogs/creating-manufacturing-case-studies",
+    "https://www.diva-portal.org/smash/get/diva2:1779357/FULLTEXT01.pdf",
+    "https://manufacturingleadershipcouncil.com/case-study-transforming-through-manufacturing-4-0/",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Material white label OR reseller OR partner program",
+   "results": [
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://www.setproduct.com/blog/white-label-seo-reseller-programs",
+    "https://www.mastercard.com/us/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "https://v2cloud.com/blog/white-label-saas-software-to-resell",
+    "https://en.wikipedia.org/wiki/White-label_product",
+    "https://elfsight.com/affiliate-program/articles-saas-white-label/",
+    "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Material founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/539726-14",
+    "https://businessofhome.com/articles/material-bank-raises-100-million-with-plans-to-target-residential-design",
+    "https://tracxn.com/d/companies/material/__tCbtAMfNXDXWwdmmHPuV2cLz7K-72ss33oRbPcDDgYY",
+    "https://bullfincher.io/companies/applied-materials/revenue-per-employee",
+    "https://refreshmiami.com/news/material-bank-raises-175m-now-valued-at-1-9b/",
+    "https://multiples.vc/private-comps/material-bank",
+    "https://growjo.com/company/Material",
+    "https://www.cfo.com/news/how-much-revenue-should-each-employee-generate-metric-of-the-month/654901/",
+    "https://getlatka.com/companies/material.security",
+    "https://prospeo.io/c/material-revenue"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Material",
+   "results": [
+    "https://note.com/dftalk/n/na64d3e79ffae?hl=en",
+    "https://note.com/onestruction/n/n7e75380b2b99?hl=en",
+    "https://note.com/nagoyauniversity/n/n97d772984f79?hl=en",
+    "https://note.com/akhilow/n/n66b826a61f04?hl=en",
+    "https://note.com/chessmint00/n/n861a323f19ad?hl=en",
+    "https://note.com/jclasso_official/n/n8cd8e7e481c9?hl=en",
+    "https://note.com/kitaniosam/n/n1b6fa00d783d?hl=en",
+    "https://note.com/kanimayo_note/n/n54267d77dd5d?hl=en",
+    "https://note.com/kitaniosam/n/naaa998d238d9?hl=en",
+    "https://note.com/chotto_useful/n/n2022eec81427?hl=en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Material",
+   "results": [
+    "https://x.com/figma/status/2091956795086340563",
+    "https://x.com/MistralAI/status/2110377713525796942",
+    "https://x.com/implmaterial",
+    "https://business.x.com/en/help/ads-policies/ads-content-policies/copyrighted-materials-and-twitter-ads",
+    "https://x.com/Applied4Tech",
+    "https://x.com/MaterialChange_",
+    "https://docs.x.com/developer-terms/ppu-agreement",
+    "https://help.x.com/en/rules-and-policies/child-safety",
+    "https://devcommunity.x.com/t/x-algorithm-is-adding-a-permanent-nsfw-label-in-many-accounts-for-error/252235",
+    "https://x.com/LAMaterialNews"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Material",
+   "results": [
+    "https://www.linkedin.com/company/materialgrowth",
+    "https://www.linkedin.com/company/materialbank",
+    "https://www.linkedin.com/company/ltd-material",
+    "https://www.linkedin.com/company/materialhybridmanufacturing",
+    "https://www.linkedin.com/company/materialsecurity",
+    "https://www.linkedin.com/company/material-difference-technologies",
+    "https://business.linkedin.com/sell/customer-stories/toyota",
+    "https://www.linkedin.com/company/explorematerial",
+    "https://www.linkedin.com/company/material-connexion",
+    "https://in.linkedin.com/company/materialgrowth"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Material",
+   "results": [
+    "https://www.facebook.com/p/Material-Obsession-100064302361137/",
+    "https://www.facebook.com/MaterialIssue/",
+    "https://www.facebook.com/materialbankco/",
+    "https://www.facebook.com/p/Material-Girl-100089831874887/",
+    "https://www.facebook.com/groups/judgeslounge/posts/25040010428973287/",
+    "https://www.facebook.com/materialobjectsme/",
+    "https://www.facebook.com/p/Material-Things-100046135094464/",
+    "https://www.facebook.com/groups/setdesignersbuilders/posts/2831180123740204/",
+    "https://www.facebook.com/groups/ScrappyGirlsClub/posts/2573260609612050/",
+    "https://www.facebook.com/materialkitchen/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Material note 社長",
+   "results": [
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://note.com/mmc_recruit",
+    "https://diamond.jp/articles/-/388572",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Material X 投稿",
+   "results": [
+    "https://github.com/conan-io/conan-center-index/tree/master/recipes/materialx",
+    "https://www.reddit.com/r/Houdini/comments/1cxoki5/importing_materialx_materials_to_use_with_karma/?tl=ja",
+    "https://materialx.org/",
+    "https://note.com/dftalk/n/n55483de2bf3e",
+    "https://academysoftwarefoundation.github.io/MaterialX/",
+    "https://engine.needle.tools/docs/how-to-guides/export/materialx.html",
+    "https://www.youtube.com/watch?v=SATZxxZqBDk",
+    "https://www.youtube.com/playlist?list=PLopImPTpJclSB5-SW86sHN0vVvhtuX1N4",
+    "https://www.aswf.io/category/materialx/",
+    "https://www.sciencedirect.com/journal/materials-letters-x"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部41頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部41頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部41頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部41頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部41頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像2件／外部41頁・検索12回）"
+ }
+}

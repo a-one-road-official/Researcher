@@ -1,0 +1,618 @@
+{
+ "name": "丸菱金属工業株式会社",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T13:44:07.317648+00:00",
+ "official_url": "https://www.mac-wire.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒598-0035 大阪府泉佐野市南中樫井399番地",
+    "url": "https://www.mac-wire.com/company",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "バネ用亜鉛めっき鋼線、バネ用銅めっき鋼線、極細線、ソーワイヤ、フェルール研磨用ワイヤ、銀めっき線、カテーテル用銅線、極細黄銅線、金属線伸線加工",
+    "url": "https://www.mac-wire.com/company",
+    "pass": 1
+   },
+   {
+    "label": "主な補助事業",
+    "value": "「ものづくり中小企業・小規模事業者試作開発等支援補助金」 「テイクオフ大阪21　新製造技術」",
+    "url": "https://www.mac-wire.com/company",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "平野鋼線株式会社、日鉄物産ワイヤ&ウェルディング株式会社、株式会社アサダ、第一金属株式会社、ステラ株式会社、日金スチール株式会社、東邦インターナショナル株式会社、西日本金属株式会社、明浜線材株式会社、株式会社桝田商店、株式会社西田製鋼所、他約60社 (順不同・敬称略)",
+    "url": "https://www.mac-wire.com/company",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "製品情報 – 丸菱金属工業株式会社｜極細線のワイヤメーカー",
+    "url": "https://www.mac-wire.com/products",
+    "pass": 1
+   },
+   {
+    "quote": "当社製品は多くの国内外の企業に採用され、当社オリジナルのめっき技術と伸線技術は高い評価を頂いております",
+    "url": "https://www.mac-wire.com/products",
+    "pass": 1
+   },
+   {
+    "quote": "当社の亜鉛めっき鋼線｢マックワイヤー｣は、家電やOA機器、車載器などに使用される精密バネ用線材として多くの大手･上場企業に採用され、35年以上にわたり安定供給してきた実績、製品の品質、即納体制について高い評価をいただいております",
+    "url": "https://www.mac-wire.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "またお客様のニーズに合わせて導電性バネ用の銅めっき鋼線を開発し、バネ以外にも医療、通信、半導体、環境エネルギーなど多岐にわたる分野で製品を提供しています",
+    "url": "https://www.mac-wire.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "またソーワイヤやマイクロカテーテル用銅線などバネ用以外の製品も在庫しています",
+    "url": "https://www.mac-wire.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "在庫品については最少50ｍから有償サンプルのご注文を承っておりますので、試作等で当社製品をご検討される場合はぜひご相談ください",
+    "url": "https://www.mac-wire.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "当社の亜鉛めっき鋼線は光沢のある綺麗なシルバー色のため外観を重視する製品にもご利用になれます",
+    "url": "https://www.mac-wire.com/products/galvanized",
+    "pass": 1
+   },
+   {
+    "quote": "製品1個からの受注、即日出荷体制により試作やお急ぎの注文にも対応いたします",
+    "url": "https://www.mac-wire.com/products/galvanized",
+    "pass": 1
+   },
+   {
+    "quote": "製品に使用するリールサイズ一覧 – 丸菱金属工業株式会社｜極細線のワイヤメーカー",
+    "url": "https://www.mac-wire.com/technology/reel-specification",
+    "pass": 1
+   },
+   {
+    "quote": "製品に使用する鋼線材料 – 丸菱金属工業株式会社｜極細線のワイヤメーカー",
+    "url": "https://www.mac-wire.com/technology/piano-wire-rods",
+    "pass": 1
+   },
+   {
+    "quote": "単重の指定やリールの変更、コイル製品のリール化については『",
+    "url": "https://www.mac-wire.com/products/copper-plated/copper-plated-speclist",
+    "pass": 1
+   },
+   {
+    "quote": "用線材として多くの大手・上場企業に採用され、35 年以上にわたり安定供給してきた実績、製品",
+    "url": "https://www.mac-wire.com/wp-content/uploads/download/MARUBISHI_Products_JP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "半導体、環境エネルギーなど多岐にわたる分野で製品を提供しています",
+    "url": "https://www.mac-wire.com/wp-content/uploads/download/MARUBISHI_Products_JP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "在庫品については最少 50mから有償サンプルのご注文を承っておりますので、試作等で当社製品を",
+    "url": "https://www.mac-wire.com/wp-content/uploads/download/MARUBISHI_Products_JP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "工程で使用しておらず、製品に含有する恐れはありません",
+    "url": "https://www.mac-wire.com/wp-content/uploads/download/Bactericidal_Effect_MAC-CP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "種 類 製品名 製品記号 適用規格 導電率 線径範囲",
+    "url": "https://www.mac-wire.com/wp-content/uploads/download/Bactericidal_Effect_MAC-CP.pdf",
+    "pass": 2
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "樹脂との離れ性が良く、製造線径も柔軟に対応可能です",
+    "url": "https://www.mac-wire.com/products",
+    "pass": 1
+   },
+   {
+    "quote": "LED用サファイアやセラミック、磁石などを切断する遊離砥粒方式のソーワイヤ",
+    "url": "https://www.mac-wire.com/products/sawwire",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂との離れ性と線表面汚れの軽減を重視して開発したマイクロカテーテル用銅線",
+    "url": "https://www.mac-wire.com/products/catheter",
+    "pass": 1
+   },
+   {
+    "quote": "銅線引き抜き工程において従来品より樹脂との離れ性を改善",
+    "url": "https://www.mac-wire.com/products/catheter",
+    "pass": 1
+   },
+   {
+    "quote": "マイクロカテーテルチューブの樹脂成形加工の芯材",
+    "url": "https://www.mac-wire.com/products/catheter",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "また少量受注や当日出荷、即納体制といったサービスについてもご好評頂いております",
+    "url": "https://www.mac-wire.com/products",
+    "pass": 1
+   },
+   {
+    "quote": "在庫品については最少50ｍから有償サンプルのご注文を承っておりますので、試作等で当社製品をご検討される場合はぜひご相談ください",
+    "url": "https://www.mac-wire.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "「ものづくり中小企業・小規模事業者試作開発等支援補助金」",
+    "url": "https://www.mac-wire.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "弊社応募事業が「平成24年度ものづくり中小企業・小規模事業者試作開発等支援補助金」に採択される",
+    "url": "https://www.mac-wire.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "製品1個からの受注、即日出荷体制により試作やお急ぎの注文にも対応いたします",
+    "url": "https://www.mac-wire.com/products/galvanized",
+    "pass": 1
+   },
+   {
+    "quote": "在庫品については最少 50mから有償サンプルのご注文を承っておりますので、試作等で当社製品を",
+    "url": "https://www.mac-wire.com/wp-content/uploads/download/MARUBISHI_Products_JP.pdf",
+    "pass": 2
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "医療機器や通信端末などに使用される導電性と電波受信性に優れる銀めっきピアノ線です",
+    "url": "https://www.mac-wire.com/products",
+    "pass": 1
+   },
+   {
+    "quote": "またお客様のニーズに合わせて導電性バネ用の銅めっき鋼線を開発し、バネ以外にも医療、通信、半導体、環境エネルギーなど多岐にわたる分野で製品を提供しています",
+    "url": "https://www.mac-wire.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "ほかにも自動車、医療、通信、環境エネルギーなど多岐にわたる業界でバネや様々な用途に当社ワイヤが使われております",
+    "url": "https://www.mac-wire.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "銀めっき特有の抗菌性に優れるため医療機器用に最適です",
+    "url": "https://www.mac-wire.com/products/silver-plated",
+    "pass": 1
+   },
+   {
+    "quote": "当社の極細黄銅線にはO-157やインフルエンザ、ノロウイルスを不活化させる抗菌効果があるので医療用途に最適です",
+    "url": "https://www.mac-wire.com/products/brass",
+    "pass": 1
+   },
+   {
+    "quote": "またお客様のニーズに合わせて導電性バネ用の銅めっき鋼線を開発し、バネ以外にも医療、通信、",
+    "url": "https://www.mac-wire.com/wp-content/uploads/download/MARUBISHI_Products_JP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "半導体、環境エネルギーなど多岐にわたる分野で製品を提供しています",
+    "url": "https://www.mac-wire.com/wp-content/uploads/download/MARUBISHI_Products_JP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ほかにも自動車、医療、通信、環境エネルギーなど多岐にわたる業界でバネや様々な用途に当社ワ",
+    "url": "https://www.mac-wire.com/wp-content/uploads/download/MARUBISHI_Products_JP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "抗菌性と導電性を兼ね備えたマックワイヤー CPは、医療機器等に使⽤されるバネや",
+    "url": "https://www.mac-wire.com/wp-content/uploads/download/Bactericidal_Effect_MAC-CP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "医療機器⽤にマックワイヤー CP は最適 !",
+    "url": "https://www.mac-wire.com/wp-content/uploads/download/Bactericidal_Effect_MAC-CP.pdf",
+    "pass": 2
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "diameter of 0.03mm and ultra-high precision wire with a wire diameter tolerance of ょ0.1um.",
+    "url": "https://www.mac-wire.com/wp-content/uploads/download/MARUBISHI_Products_EN.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "diameters and piano wire mainly in extra fine wire diameter.",
+    "url": "https://www.mac-wire.com/wp-content/uploads/download/MARUBISHI_Products_EN.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "We accept orders for paid samples of our inventory items.",
+    "url": "https://www.mac-wire.com/wp-content/uploads/download/MARUBISHI_Products_EN.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Our plated steel wire is used for precision spring materials for items, such as digital cameras, printers,",
+    "url": "https://www.mac-wire.com/wp-content/uploads/download/MARUBISHI_Products_EN.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "3⑩ジ ABSELAMASH 本社工場 〒 大阪府泉佐野市南中本",
+    "url": "https://www.mac-wire.com/wp-content/uploads/download/MICRO-CATHETER_COPPER_CORE_WIRE.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "399 Minaminaka-Kashii, Izumisano City, Osaka, 598-0035 Japan.",
+    "url": "https://www.mac-wire.com/wp-content/uploads/download/List-of-Bobbin-Sizes-for-Products-1.pdf",
+    "pass": 2
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "E-mail: marubishi@mac-wire.com",
+    "url": "https://www.mac-wire.com/wp-content/uploads/download/Bactericidal_Effect_MAC-CP.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "We aim to be the only company. E-mail: marubishi@mac-wire.com",
+    "url": "https://www.mac-wire.com/wp-content/uploads/download/MICRO-CATHETER_COPPER_CORE_WIRE.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "製品情報 – 丸菱金属工業株式会社｜極細線のワイヤメーカー — 「当社の製品情報」に関するページです。丸菱金属工業株式会社はめっき極細線、細線専業のワイヤメーカーとして、創業以来50年にわたり精密バネ用めっき鋼線「マックワイヤー」をはじめ、医療、通信、環境エネルギーなど多岐にわたる分野でワイヤを提供しています。",
+    "url": "https://www.mac-wire.com/products",
+    "pass": 3
+   },
+   {
+    "quote": "丸菱金属工業株式会社｜極細線のワイヤメーカー — 創業以来50年にわたり精密バネ用めっき鋼線「マックワイヤー」をはじめ、医療、通信、環境エネルギーなど多岐にわたる分野で様々なワイヤを提供しています。ニーズに応じた各種機能をプラスすることにより、お客様の付加価値創造のお手伝いをするとともに最先端分野の技術開発を下支え ...",
+    "url": "https://www.mac-wire.com/",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 – 丸菱金属工業株式会社｜極細線のワイヤメーカー人と環境にやさしい自動車内装メーカー｜丸菱工業株式会社会社概要｜人と環境にやさしい自動車内装メーカー｜丸菱工業株式会社丸菱金属工業株式会社の会社概要・製品情報 | Metoree会社概要｜丸菱金属株式会社丸菱金属工業株式会社（大阪府）の会社概要・役員 | Compalyze — 当社はめっき極細線、細線に特化したワイヤメーカーです。 線径0.03mmの極細ピアノ線や線径公差±0.0001mm(0.1μm)の超高精度ワイヤなど極細伸線や精密伸線を得意としています。 また硬鋼線、ピアノ線以外にもステンレス鋼線や銅線、黄銅線、合金線等も伸線可能で、これらの共同開発やOEM供給などにも幅広く対応しています。 当社の技術力でお客様の｢ものづくり｣をお手伝いいたします。 See full list on mac-wire.com 当社のバネ用め",
+    "url": "https://www.mac-wire.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "丸菱金属工業株式会社の会社概要・製品情報 | Metoree会社概要｜丸菱金属株式会社丸菱金属工業株式会社（大阪府）の会社概要・役員 | Compalyze — 丸菱金属工業株式会社は1969年に設立された大阪府泉佐野市南中樫井399番地に本社が所在する会社です。 ピアノ線、亜鉛めっき鉄線、硬鋼線、黄銅等を取り扱っています。 丸菱金属工業株式会社の基本情報や取り扱い製品などの情報を掲載中です 丸菱金属株式会社 北海道帯広市西22条北1丁目3番地8 TEL：0155-67-8980 〒598-0035 大阪府泉佐野市に本社を置く丸菱金属工業株式会社の企業情報。丸菱金属工業株式会社は、極細線・細線に特化したワイヤメーカーであり、バネ用亜鉛めっき鋼線「マックワイヤー」を筆頭に。MFG (MFG-05)、1974年設立、社会保険被保険者数5名。代表者 山下圭介。役員1名。",
+    "url": "https://metoree.com/companies/44670/",
+    "pass": 3
+   },
+   {
+    "quote": "丸菱金属工業株式会社（大阪府）の会社概要・役員 | Compalyze — 〒598-0035 大阪府泉佐野市に本社を置く丸菱金属工業株式会社の企業情報。丸菱金属工業株式会社は、極細線・細線に特化したワイヤメーカーであり、バネ用亜鉛めっき鋼線「マックワイヤー」を筆頭に。MFG (MFG-05)、1974年設立、社会保険被保険者数5名。代表者 山下圭介。役員1名。",
+    "url": "https://compalyze.co.jp/company/9120101040197",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "brian conbatto - 丸菱金属工業株式会社 - 自動車関連 | LinkedIn 丸菱金属工業株式会社 - 自動車関連 · 職歴: 丸菱金属工業株式会社 · 場所: 小牧。10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInでbrian conbattoさんのプロフィールを閲覧しましょう。",
+    "url": "https://jp.linkedin.com/in/brian-conbatto-169984228",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.mac-wire.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mac-wire.com/products",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mac-wire.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mac-wire.com/products/galvanized",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mac-wire.com/products/copper-plated",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mac-wire.com/products/extra-fine",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mac-wire.com/products/sawwire",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mac-wire.com/products/ferrule",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mac-wire.com/products/silver-plated",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mac-wire.com/products/catheter",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mac-wire.com/products/brass",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mac-wire.com/technology/galvanized-coiling",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mac-wire.com/technology",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mac-wire.com/technology/reel-specification",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mac-wire.com/technology/piano-wire-rods",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mac-wire.com/products/copper-plated/copper-plated-speclist",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.mac-wire.com/wp-content/uploads/download/MARUBISHI_Products_JP.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mac-wire.com/wp-content/uploads/download/MARUBISHI_Products_EN.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mac-wire.com/wp-content/uploads/download/Bactericidal_Effect_MAC-CP.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mac-wire.com/wp-content/uploads/download/MICRO-CATHETER_COPPER_CORE_WIRE.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mac-wire.com/wp-content/uploads/download/List-of-Bobbin-Sizes-for-Products-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://san-kk.co.jp/technical/item/test/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maru-kinzoku.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/44670/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/9120101040197",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://marubishi-industry.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marubishi-treatment.jp/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marubishi-co-ltd.com/inquiry.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/in/brian-conbatto-169984228",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "丸菱金属工業 取扱製品 試作 小ロット",
+   "results": [
+    "https://san-kk.co.jp/technical/item/test/",
+    "https://www.maru-kinzoku.com/",
+    "https://www.mac-wire.com/products",
+    "https://morpha.co.jp/work/precision/",
+    "https://www.mac-wire.com/",
+    "https://marubishi-industry.co.jp/pages/99/",
+    "https://marubishi-industry.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "丸菱金属工業 会社概要 事業内容",
+   "results": [
+    "https://www.mac-wire.com/company",
+    "https://metoree.com/companies/44670/",
+    "https://compalyze.co.jp/company/9120101040197",
+    "https://www.mac-wire.com/",
+    "https://marubishi-industry.co.jp/pages/24/",
+    "https://www.kensetumap.com/company/53855/profile.php",
+    "https://marubishi-industry.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "丸菱金属工業 お問い合わせ メール",
+   "results": [
+    "https://www.marubishi-industry.co.jp/form/products",
+    "https://marubishi-treatment.jp/inquiry/",
+    "https://www.marubishi-co-ltd.com/inquiry.html",
+    "http://www.maruki-mk.co.jp/hpmk/contact_information.html",
+    "https://marubishi.jp/contact.html",
+    "https://marubishi-industry.co.jp/pages/118/",
+    "https://www.marui-k.co.jp/contactus/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 丸菱金属工業",
+   "results": [
+    "https://note.com/marubishi/all",
+    "https://note.com/marubishi/membership/join",
+    "https://note.com/monovate",
+    "https://note.com/",
+    "https://tales.note.com/brave_hebe285/wgsznozib2xlm/episodes/eew68hwcw92pw",
+    "https://tales.note.com/cicaoran/w9j1kcnqdesf8/episodes/eyfcp17rj2b74",
+    "https://note.com/monovate/n/n3ca30e1cb664"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 丸菱金属工業",
+   "results": [
+    "https://x.com/marubishi_real",
+    "https://help.x.com/en",
+    "https://help.x.com/en/using-x/download-the-x-app",
+    "https://x.com/marubishi_k/status/2056663970061373825",
+    "https://x.com/colormejassy/status/2118498768739790880",
+    "https://x.com/marubishi_k",
+    "https://x.com/syokuhinsokuho/status/2042514197419077807"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 丸菱金属工業",
+   "results": [
+    "https://jp.linkedin.com/in/brian-conbatto-169984228",
+    "https://jp.linkedin.com/company/株式会社丸菱marubishigroup",
+    "https://www.linkedin.com/in/友規-石井-81b78b41",
+    "https://in.linkedin.com/company/linkedin",
+    "https://nl.linkedin.com/in/rima-husseini-8873a6364",
+    "https://gd.linkedin.com/company/jsr-corporation",
+    "https://www.linkedin.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 丸菱金属工業",
+   "results": [
+    "https://www.facebook.com/marubishiseisakusyo/",
+    "https://www.facebook.com/marubisi/",
+    "https://www.facebook.com/100063587642137/",
+    "https://www.facebook.com/金属熱処理のエキスパート丸菱電子-340290602735699/",
+    "https://www.facebook.com/meisei.metal/",
+    "https://www.facebook.com/marubishi.group/",
+    "https://www.facebook.com/maruvishi/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "丸菱金属工業 note 社長",
+   "results": [
+    "https://compalyze.co.jp/company/9120101040197",
+    "https://www.mac-wire.com/company",
+    "https://www.mac-wire.com/",
+    "https://www.neji-bane.jp/news/20260803_03_03",
+    "https://www.marubishi-industry.co.jp/en/corporate/message",
+    "https://www.marubishinut.co.jp/information",
+    "https://marubishi-industry.co.jp/pages/23/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "丸菱金属工業 X 投稿",
+   "results": [
+    "https://www.mac-wire.com/company",
+    "https://www.mac-wire.com/",
+    "https://x.com/hashtag/丸菱工業株式会社",
+    "https://x.com/marubishi_real/with_replies",
+    "https://marubishi-industry.co.jp/",
+    "https://www.instagram.com/_x/reel/Dfa_EYpvP6t/",
+    "https://marubishi-industry.co.jp/pages/24/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "代表者": "記載なし（3回確認済み：公式16頁／PDF・画像5件／外部8頁・検索9回）",
+  "従業員数": "記載なし（3回確認済み：公式16頁／PDF・画像5件／外部8頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式16頁／PDF・画像5件／外部8頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式16頁／PDF・画像5件／外部8頁・検索9回）"
+ }
+}

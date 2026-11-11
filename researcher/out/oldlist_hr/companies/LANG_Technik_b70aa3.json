@@ -1,0 +1,891 @@
+{
+ "name": "LANG Technik",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AI送信済み",
+ "researched_at": "2026-11-11T13:23:49.602583+00:00",
+ "official_url": "https://www.lang-technik.de/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$193,000",
+    "url": "https://prospeo.io/c/lang-technik-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "No funding",
+    "url": "https://prospeo.io/c/lang-technik-revenue",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Albstraße 1-6, Holzmaden, Baden-Württemberg 73271, DE",
+    "url": "https://prospeo.io/c/lang-technik-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：1982",
+    "url": "https://prospeo.io/c/lang-technik-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Greater productivity. In the smallest of spaces.",
+    "url": "https://lang-technik.de/en",
+    "pass": 1
+   },
+   {
+    "quote": "As a pioneer in this industry, we develop and produce integrated solutions in the field of automation, zero-point clamping and workholding for both ourselves and for all machining industry sectors.",
+    "url": "https://lang-technik.de/en",
+    "pass": 1
+   },
+   {
+    "quote": "LANG Technik Corporate Video",
+    "url": "https://lang-technik.de/en",
+    "pass": 1
+   },
+   {
+    "quote": "Flexible, precise and extremely durable.",
+    "url": "https://lang-technik.de/en",
+    "pass": 1
+   },
+   {
+    "quote": "Discover our product categories",
+    "url": "https://lang-technik.de/en",
+    "pass": 1
+   },
+   {
+    "quote": "Which factors are really important in the production process? How can resources such as personnel, machines and equipment be used most effectively? In our blog, we regularly address topics that our customers and we deal with on a daily basis.",
+    "url": "https://lang-technik.de/en",
+    "pass": 1
+   },
+   {
+    "quote": "Visit our training and technology center in Neuhausen.",
+    "url": "https://lang-technik.de/en",
+    "pass": 1
+   },
+   {
+    "quote": "Experienced professionals & starters",
+    "url": "https://lang-technik.de/en/company/salesnetwork",
+    "pass": 3
+   },
+   {
+    "quote": "A wide range of freely accessible CAD files and other downloads are available in this part of our website.",
+    "url": "https://lang-technik.de/en/company/salesnetwork",
+    "pass": 3
+   },
+   {
+    "quote": "In case you want to use our products in your manufacturing site or want to sell them as a distributor in your country, please directly contact us.",
+    "url": "https://lang-technik.de/en/company/salesnetwork",
+    "pass": 3
+   },
+   {
+    "quote": "Visit our training and technology center in Neuhausen.",
+    "url": "https://lang-technik.de/en/company/salesnetwork",
+    "pass": 3
+   },
+   {
+    "quote": "Mehr Produktivität. Auf kleinstem Raum.",
+    "url": "https://lang-technik.ch/de",
+    "pass": 3
+   },
+   {
+    "quote": "Als Vorreiter der Branche entwickeln und produzieren wir für uns und alle zerspanenden Industriebereiche ganzheitliche Lösungen im Bereich der Automatisierung sowie der Nullpunkt- und Werkstückspanntechnik. Weltweit und nachhaltig.",
+    "url": "https://lang-technik.ch/de",
+    "pass": 3
+   },
+   {
+    "quote": "Dieses Video wird durch Youtube bereitgestellt. Um sich das Video anzusehen, aktivieren Sie in den",
+    "url": "https://lang-technik.ch/de",
+    "pass": 3
+   },
+   {
+    "quote": "Clean•Tec Reinigungspropeller",
+    "url": "https://lang-technik.ch/de",
+    "pass": 3
+   },
+   {
+    "quote": "Produktkategorien entdecken",
+    "url": "https://lang-technik.ch/de",
+    "pass": 3
+   },
+   {
+    "quote": "Welche Faktoren sind im Produktionsprozess wirklich wichtig? Wie können Ressourcen, wie Mensch, Maschine und Betriebsmittel am effektivsten eingesetzt werden? In unserem Blog greifen wir regelmäßig Themen auf, mit denen sich unsere Kunden und wir uns täglich beschäftigen.",
+    "url": "https://lang-technik.ch/de",
+    "pass": 3
+   },
+   {
+    "quote": "Rüstzeitoptimierung: So gestalten sich automatisierte Fräsprozesse…",
+    "url": "https://lang-technik.ch/de",
+    "pass": 3
+   },
+   {
+    "quote": "Welche Sprache möchten Sie nutzen?",
+    "url": "https://lang-technik.ch/de",
+    "pass": 3
+   },
+   {
+    "quote": "Greater productivity. In the smallest of spaces.",
+    "url": "https://lang-technik-usa.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "As a pioneer in this industry, we develop and produce integrated solutions in the field of automation, zero-point clamping and workholding for both ourselves and for all machining industry sectors.",
+    "url": "https://lang-technik-usa.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "Flexible, precise and extremely durable.",
+    "url": "https://lang-technik-usa.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "Discover our product categories",
+    "url": "https://lang-technik-usa.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "At LANG Technik USA, we help manufacturers make the most of skilled labor, advanced machinery, and cutting-edge equipment. From automation to streamlined processes, our insights support smarter, more efficient production decisions.",
+    "url": "https://lang-technik-usa.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "Dovetail workholding vs. pre-stamping: Where the real savings begin",
+    "url": "https://lang-technik-usa.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "At the family business Hartmut Keck Werkzeug- und Vorrichtungsbau, the production capacities were almost maxed out. A clever automation solution without large space requirements provides a relief and opens up freedom in operational practice.",
+    "url": "https://lang-technik.de/en/news/increased-runtime-straight-tool-changer",
+    "pass": 3
+   },
+   {
+    "quote": "Visit our training and technology center in Neuhausen.",
+    "url": "https://lang-technik.de/en/news/increased-runtime-straight-tool-changer",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing-leading stamping technology that will leave you stunned… - MTDCNC - The home of CNC milling. turning, 5 axis and precision machining",
+    "url": "https://mtdcnc.com/case-studies/lang-technik/marketing-leading-stamping-technology-that-will-leave-you-stunned/",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing-leading stamping technology that will leave you stunned…",
+    "url": "https://mtdcnc.com/case-studies/lang-technik/marketing-leading-stamping-technology-that-will-leave-you-stunned/",
+    "pass": 3
+   },
+   {
+    "quote": "The Lang Stamper offers an extremely high holding force and the ability to completely reduce vibrations on the machining process. Join Tom Skubala of MTDCNC in this special episode where we find out more about the benefits customers have seen since adopting this technology!",
+    "url": "https://mtdcnc.com/case-studies/lang-technik/marketing-leading-stamping-technology-that-will-leave-you-stunned/",
+    "pass": 3
+   },
+   {
+    "quote": "Standardisation with LANG Workholding Drives Efficiency Gains at Howells Railway Products",
+    "url": "https://mtdcnc.com/case-studies/lang-technik/marketing-leading-stamping-technology-that-will-leave-you-stunned/",
+    "pass": 3
+   },
+   {
+    "quote": "Precision. Innovation. Partnership with LANG Technik GmbH!",
+    "url": "https://mtdcnc.com/case-studies/lang-technik/marketing-leading-stamping-technology-that-will-leave-you-stunned/",
+    "pass": 3
+   },
+   {
+    "quote": "Read our privacy policy",
+    "url": "https://mtdcnc.com/case-studies/lang-technik/marketing-leading-stamping-technology-that-will-leave-you-stunned/",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/lang-technik-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Programming languages",
+    "url": "https://prospeo.io/c/lang-technik-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "NNEdPro Global Institute for Food, Nutrition and Health",
+    "url": "https://prospeo.io/c/lang-technik-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "LANG Technik has approximately",
+    "url": "https://prospeo.io/c/lang-technik-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/lang-technik-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/lang-technik-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/lang-technik-revenue",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Strong Partners for CNC Manufacturing",
+    "url": "https://lang-technik.de/en",
+    "pass": 1
+   },
+   {
+    "quote": "In case you want to use our products in your manufacturing site or want to sell them as a distributor in your country, please directly contact us.",
+    "url": "https://lang-technik.de/en/company/salesnetwork",
+    "pass": 3
+   },
+   {
+    "quote": "Strong Partners for CNC Manufacturing",
+    "url": "https://lang-technik-usa.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "At LANG Technik USA, we help manufacturers make the most of skilled labor, advanced machinery, and cutting-edge equipment. From automation to streamlined processes, our insights support smarter, more efficient production decisions.",
+    "url": "https://lang-technik-usa.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "HAUBEX case study | LANG Technik",
+    "url": "https://lang-technik.de/en/news/increased-runtime-straight-tool-changer",
+    "pass": 3
+   },
+   {
+    "quote": "Over a thousand companies in the UK are using stamping machines on their shop floor, and today we get to learn the true benefits of this technology from Danny Brook of Lang Technik UK.",
+    "url": "https://mtdcnc.com/case-studies/lang-technik/marketing-leading-stamping-technology-that-will-leave-you-stunned/",
+    "pass": 3
+   },
+   {
+    "quote": "Machinery Manufacturing",
+    "url": "https://prospeo.io/c/lang-technik-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Machining, Maschinenbau, Automation, Manufacturing, CNC, Medizintechnik, Automobil, Zerspanung, Luft-Und Raumfahrt, Spanntechnik, Werkzeugmaschinen, Rennsport, Cnc Fräsen, Spannsysteme, 5-Achs-Bearbeitung, Werkstückspannung, Nullpunktspannsystem, Rohteilspannung",
+    "url": "https://prospeo.io/c/lang-technik-revenue",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Experience what it means to work for a family-owned and international market leader in the workholding and automation industry. Become part of a team that is full of passion, creativity and innovation! Are you ready for exciting challenges?",
+    "url": "https://lang-technik.de/en",
+    "pass": 1
+   },
+   {
+    "quote": "A wide range of freely accessible CAD files and other downloads are available in this part of our website.",
+    "url": "https://lang-technik.de/en/company/salesnetwork",
+    "pass": 3
+   },
+   {
+    "quote": "Official LANG sales partners in your area help you in every way possible. Their employees are trained and are very familiar with our workholding systems, the zero-point clamping system and the machine tool automation. For requests of all kinds please contact your local LANG partner. If you don’t find your country on the list, please contact us directly.",
+    "url": "https://lang-technik.de/en/company/salesnetwork",
+    "pass": 3
+   },
+   {
+    "quote": "Your country is not listed?",
+    "url": "https://lang-technik.de/en/company/salesnetwork",
+    "pass": 3
+   },
+   {
+    "quote": "LANG Technik Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/lang-technik-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At LANG Technik",
+    "url": "https://prospeo.io/c/lang-technik-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/lang-technik-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/lang-technik-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/lang-technik-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of LANG Technik?",
+    "url": "https://prospeo.io/c/lang-technik-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "LANG Technik generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/lang-technik-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/lang-technik-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/lang-technik-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does LANG Technik have?",
+    "url": "https://prospeo.io/c/lang-technik-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/lang-technik-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Official LANG sales partners in your area help you in every way possible. Their employees are trained and are very familiar with our workholding systems, the zero-point clamping system and the machine tool automation. For requests of all kinds please contact your local LANG partner. If you don’t find your country on the list, please contact us directly.",
+    "url": "https://lang-technik.de/en/company/salesnetwork",
+    "pass": 3
+   },
+   {
+    "quote": "In case you want to use our products in your manufacturing site or want to sell them as a distributor in your country, please directly contact us.",
+    "url": "https://lang-technik.de/en/company/salesnetwork",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/lang-technik-revenue",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "愛知産業は、ドイツ ラング社（LANG TECHNIK）の日本総代理店として製品の選定からご購入後のアフターサービスまでお客様に満足いただけるサービスを提供しています",
+    "url": "https://markefan.com/LP?aid=67&lpId=15933",
+    "pass": 3
+   },
+   {
+    "quote": "愛知産業は、ドイツ ラング社の日本総代理店として、",
+    "url": "https://markefan.com/LP?aid=67&lpId=15933",
+    "pass": 3
+   },
+   {
+    "quote": "｜ ラング（LANG）日本総代理店 ｜ www.aichi-sangyo.co.jp",
+    "url": "https://markefan.com/LP?aid=67&lpId=15933",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Workholding & automation from one source | LANG Technik — Workholding, automation, zero point clamping systems - only at LANG, one of the leading manufacturers in machining, you really get everything from one source!",
+    "url": "https://lang-technik.de/en",
+    "pass": 3
+   },
+   {
+    "quote": "Official distributors of LANG Technik | LANG Technik — LANG Technik's sales network includes more than 40 exclusive and highly trained trade partners who are available for you in over 50 countries.",
+    "url": "https://lang-technik.de/en/company/salesnetwork",
+    "pass": 3
+   },
+   {
+    "quote": "ラングカタログダウンロード_製品データベース — ドイツ ラング社 日本総代理店 ラング クランピングシステム カタログ ダウンロード 愛知産業は、ドイツ ラング社（LANG TECHNIK）の日本総代理店として製品の選定からご購入後のアフターサービスまでお客様に満足いただけるサービスを提供しています。",
+    "url": "https://markefan.com/LP?aid=67&lpId=15933",
+    "pass": 3
+   },
+   {
+    "quote": "Spanntechnik & Automation aus einer Hand | LANG Technik — Spanntechnik, Automation, Nullpunktspannsysteme - nur bei LANG Technik, einem der führenden Hersteller in der Zerspanung, finden Sie wirklich alles aus einer Hand!",
+    "url": "https://lang-technik.ch/de",
+    "pass": 3
+   },
+   {
+    "quote": "About us - LANG Technik — About LANG Technik Your expert in workholding and machine tool automation LANG Technik is a one of the world’s leading companies in the field of workholding and automation technology, which helps machining companies with future-oriented solutions to simplify production processes, to manufacture more efficiently and to ideally exploit production capacities.",
+    "url": "https://en.industryarena.com/langtechnik/aboutus",
+    "pass": 3
+   },
+   {
+    "quote": "HAUBEX case study | LANG Technik — Mar 20, 2023 · At the beginning, the focus was on punching tool manufacturing for customers from the automotive industry, with a high vertical range of manufacture thanks to independent contract manufacturing.",
+    "url": "https://lang-technik.de/en/news/increased-runtime-straight-tool-changer",
+    "pass": 3
+   },
+   {
+    "quote": "Your expert in workholding and machine tool automation | LANG ... — At LANG Technik USA, we help manufacturers make the most of skilled labor, advanced machinery, and cutting-edge equipment. From automation to streamlined processes, our insights support smarter, more efficient production decisions.",
+    "url": "https://lang-technik-usa.com/en",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing-leading stamping technology that will leave you ... — Mar 12, 2025 · Over a thousand companies in the UK are using stamping machines on their shop floor, and today we get to learn the true benefits of this technology from Danny Brook of Lang Technik UK. The Lang Stamper offers an extremely high holding force and the ability to completely reduce vibrations on the machining process.",
+    "url": "https://mtdcnc.com/case-studies/lang-technik/marketing-leading-stamping-technology-that-will-leave-you-stunned/",
+    "pass": 3
+   },
+   {
+    "quote": "LANG Technik Revenue, Funding & Valuation - prospeo.io — LANG Technik has revenue of $7,500,000, estimated valuation of $24,000,000. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/lang-technik-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "LANG Technik GmbH – Overview – Funding, Revenue & Growth – 2026 — Discover LANG Technik GmbH's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/lang-technik-gmbh",
+    "pass": 3
+   },
+   {
+    "quote": "Lang Technik - Overview, News & Similar companies - ZoomInfo — View Lang Technik (www.lang-technik.de) location in Baden-Wuerttemberg, Germany , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+    "url": "https://www.zoominfo.com/c/lang-technik-gmbh/426072882",
+    "pass": 3
+   },
+   {
+    "quote": "LANG Technik GmbH Information - RocketReach — LANG Technik GmbH is a Machinery Manufacturing, Hand, Power And Lawn-Care Tools, and Consumer Goods company located in Holzmaden, Baden-Württemberg with $7.6 million in revenue and 48 employees. Find top employees, contact details and business statistics at RocketReach.",
+    "url": "https://rocketreach.co/lang-technik-gmbh-profile_b419ffa6ff39b2aa",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "LANG Technik USA (@langtechnikusa) / Posts / X Aug 30, 2016 · How zero point clamping systems from LANG Technik USA boost CNC efficiency Discover how zero point clamping systems by LANG Technik USA reduce setup times, boost CNC productivity, and retrofit easily - even on older milling machines.",
+    "url": "https://x.com/langtechnikusa",
+    "pass": 3
+   },
+   {
+    "quote": "LANG Technik UK Ltd (@Lang_TechnikUK) / Posts / X Dec 18, 2019 · Lang Technik is open for business and have new technology on offer Gareth Barnett of Lang Technik UK talks to Paul Jones about MACH, workholding technology and business in general.Don't miss out on more CNC videos, subscribe...",
+    "url": "https://x.com/Lang_TechnikUK",
+    "pass": 3
+   },
+   {
+    "quote": "LANG Technik do Brasil (@langtechnik_br) / Posts / X Sep 26, 2022 · Sejam bem-vindos ao perfil oficial da LANG Technik do Brasil, trazendo o que há de melhor no mundo sobre soluções de fixação e automação para usinagem",
+    "url": "https://x.com/langtechnik_br",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Lang Technik USA - LinkedIn The Lang Technik name stands for ingenuity, innovation and decisive solutions in the field of clamping, optimization of set-up time and automation. Customers across the entire world trust our vast ...",
+    "url": "https://www.linkedin.com/company/lang-technik-usa",
+    "pass": 3
+   },
+   {
+    "quote": "LANG Technik GmbH - LinkedIn LANG Technik, a family-owned company from Stuttgart/ Germany, is regarded as one of the world-wide technology leaders in the field of cnc workholding and automation. For more than 40 years LANG ...",
+    "url": "https://www.linkedin.com/company/lang-technik",
+    "pass": 3
+   },
+   {
+    "quote": "LANG Technik UK Ltd. | LinkedIn LANG Technik UK has been established to provide sales and application support for new and existing customers of the market leading 5 Axis Workholding and Automation systems. Our goal is to increase customer productivity by perfecting manufacturing processes. We offer a complete and proven package of Workholding, Zero Point clamping and Automation for machine tools. ",
+    "url": "https://de.linkedin.com/company/lang-technik-uk-ltd",
+    "pass": 3
+   },
+   {
+    "quote": "Gareth Barnett - Director at Lang Technik UK Ltd - 5 Axis ...LANG Technik México | LinkedInPhilipp Lang – Geschäftsführer bei LANG Technik GmbH | LinkedInMSB Group | LinkedIn Director at Lang Technik UK Ltd - 5 Axis Workholding and Automation sales@lang-technik.co.uk · Experience: Lang Technik UK Ltd. · Education: Mandeville school · Location: Thame · 500+ connections on LinkedIn. View Gareth Barn",
+    "url": "https://uk.linkedin.com/in/gareth-barnett-20046927",
+    "pass": 3
+   },
+   {
+    "quote": "Jon Dobosenski - General Manager at LANG Technik USA | LinkedInYour expert in workholding and machine tool automation | LANG ...Technique de serrage & automatisation d'une seule source ...Philipp Lang: Positions, Relations and Network - MarketScreenerPhilipp Lang: Positions, Relations and Network ... General Manager at LANG Technik USA · With over four decades in the machine tool industry, I have ",
+    "url": "https://www.linkedin.com/in/jondobosenski",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Lang Technik USA | Hartland WI - Facebook Lang Technik USA, Hartland. 661 followers · 9 talking about this · 2 were here. A perfect, combined package of workholding, zero-point clamping and automation, along with unrivaled stamping...",
+    "url": "https://www.facebook.com/langtechnikusa/",
+    "pass": 3
+   },
+   {
+    "quote": "LANG Technik GmbH | Holzmaden - FacebookLANG Technik UK Ltd. - FacebookLANG Technik México | Corregidora - FacebookLANG Tecnologia - FacebookLANG Technik GmbH on Reels - FacebookMotorradTechnik Lang GmbH | Reinheim - Facebook LANG Technik GmbH, Holzmaden. 1,851 followers · 6 talking about this · 36 were here. Hersteller innovativer Spann- und Automatisierungslösungen für zerspanende Betriebe LANG ",
+    "url": "https://www.facebook.com/langtechnik/",
+    "pass": 3
+   },
+   {
+    "quote": "LANG Technik UK Ltd. - FacebookLANG Technik México | Corregidora - FacebookLANG Tecnologia - FacebookLANG Technik GmbH on Reels - FacebookMotorradTechnik Lang GmbH | Reinheim - Facebook LANG Technik UK Ltd. 263 followers · 1 talking about this. Suppliers of innovative Workholding and Automation equipment to the precision engineering industry Jun 10, 2026 · LANG Technik México, Corregidora. 397 lik",
+    "url": "https://www.facebook.com/langtechnikuk/",
+    "pass": 3
+   },
+   {
+    "quote": "LANG Technik México | Corregidora - Facebook Jun 10, 2026 · LANG Technik México, Corregidora. 397 likes. Líder mundial en sujeción Workholding y automatización-Quick•Point. Distribuidor único México",
+    "url": "https://www.facebook.com/langtechnikmx/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://lang-technik.de/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lang-technik.de/en",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://lang-technik.de/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000034.000166429.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lang-technik.de/en/company/salesnetwork",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markefan.com/LP?aid=67&lpId=15933",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%BF%E3%82%BF%E3%83%BB%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%82%BF%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%BB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B7%E3%82%BA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lang-technik.de/en/company/salesnetwork",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lang.de/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lang-technik.de/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lang-technik.de/en/company/salesnetwork",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lang-technik.ch/de",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lang-technik-usa.com/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lang-technik.de/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lang-technik.de/en/news/increased-runtime-straight-tool-changer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://lang-technik-usa.com/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mtdcnc.com/case-studies/lang-technik/marketing-leading-stamping-technology-that-will-leave-you-stunned/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/lang-technik-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/lang-technik-gmbh",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/lang-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/lang-technik-gmbh/426072882",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/langtechnikusa",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Lang_TechnikUK",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/langtechnik_br",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/lang-technik-usa",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/lang-technik",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/company/lang-technik-uk-ltd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/gareth-barnett-20046927",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/langtechnikusa/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/langtechnik/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/langtechnikuk/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/langtechnikmx/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jondobosenski",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "LANG Technik 日本 導入",
+   "results": [
+    "https://lang-technik.de/en",
+    "https://prtimes.jp/main/html/rd/p/000000034.000166429.html",
+    "https://lang-technik.de/en/company/salesnetwork",
+    "https://markefan.com/LP?aid=67&lpId=15933",
+    "https://archive.org/download/manualzilla-id-6549407/6549407.pdf",
+    "https://www.aichi-sangyo.co.jp/products/lang/CleanTec.html",
+    "https://aichi-sangyo.co.jp/products/lang/index.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "LANG Technik 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日本タタ・コンサルタンシー・サービシズ",
+    "https://lang-technik.de/en/company/salesnetwork",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.lang.de/en/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.n-denkei.co.jp/search/results/",
+    "https://lang-technik.ch/en/company/salesnetwork",
+    "https://ag-techniks.co.jp/company.html",
+    "https://lang-technik.de/en"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "LANG Technik Japan",
+   "results": [
+    "https://lang-technik.de/en",
+    "https://lang-technik.de/en/company/salesnetwork",
+    "https://lang-technik.ch/de",
+    "https://lang-technik-usa.com/en",
+    "https://en.industryarena.com/langtechnik/aboutus",
+    "https://aichi-sangyo.co.jp/products/lang/index.html",
+    "http://www.languetech.co.jp/b_6.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "LANG Technik manufacturing customer case study",
+   "results": [
+    "https://lang-technik.de/en",
+    "https://lang-technik.de/en/news/increased-runtime-straight-tool-changer",
+    "https://lang-technik-usa.com/en",
+    "https://mtdcnc.com/case-studies/lang-technik/marketing-leading-stamping-technology-that-will-leave-you-stunned/",
+    "https://mtdcnc.com/case-studies/lang-technik/at-the-risk-of-repeating-ourselves/",
+    "https://mtdcnc.com/case-studies/lang-technik/how-did-they-eliminate-setup-time/",
+    "https://mtdcnc.com/case-studies/lang-technik/how-are-they-making-95-parts-in-a-single-setup/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "LANG Technik white label OR reseller OR partner program",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "LANG Technik founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/lang-technik-revenue",
+    "https://compworth.com/company/lang-technik-gmbh",
+    "https://prospeo.io/c/lang-revenue",
+    "https://www.zoominfo.com/c/lang-technik-gmbh/426072882",
+    "https://rocketreach.co/lang-technik-gmbh-profile_b419ffa6ff39b2aa",
+    "https://growjo.com/company/LANG_Technik_GmbH",
+    "https://pitchbook.com/profiles/company/503940-61"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com LANG Technik",
+   "results": [
+    "https://note.com/flat9_yuki",
+    "https://note.com/royal_vole835",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/kouga_yun/n/n228fbf8fcafc",
+    "https://note.com/fond_clam2634/n/n06d26defb95d",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/tag/80億分の1",
+    "https://note.com/nakura__/n/n0ad68bc081ee",
+    "https://note.com/ogikubo/n/nf616c0b6685a"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:x.com LANG Technik",
+   "results": [
+    "https://x.com/langtechnikusa",
+    "https://x.com/Lang_TechnikUK",
+    "https://x.com/langtechnik_br",
+    "https://help.x.com/en/using-x",
+    "https://x.com/colormejassy/status/2118498768739790880",
+    "https://help.x.com/zh-cn/managing-your-account",
+    "https://legal.x.com/de/purchaser-terms.html"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com LANG Technik",
+   "results": [
+    "https://www.linkedin.com/company/lang-technik-usa",
+    "https://www.linkedin.com/company/lang-technik",
+    "https://de.linkedin.com/company/lang-technik-uk-ltd",
+    "https://uk.linkedin.com/in/gareth-barnett-20046927",
+    "https://mx.linkedin.com/company/lang-technik-mexico",
+    "https://de.linkedin.com/in/philipp-lang-b940b5193",
+    "https://br.linkedin.com/company/msbgroup-br"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com LANG Technik",
+   "results": [
+    "https://www.facebook.com/langtechnikusa/",
+    "https://www.facebook.com/langtechnik/",
+    "https://www.facebook.com/langtechnikuk/",
+    "https://www.facebook.com/langtechnikmx/",
+    "https://www.facebook.com/langtecnologia/",
+    "https://www.facebook.com/langtechnik/videos/4655605444660460/",
+    "https://www.facebook.com/LangMotorradTechnik/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "LANG Technik note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://lang-technik.de/en",
+    "https://www.linkedin.com/in/jondobosenski",
+    "https://lang-technik-usa.com/en",
+    "https://www.marketscreener.com/insider/PHILIPP-LANG-A33QR9/",
+    "https://hk.marketscreener.com/insider/PHILIPP-LANG-A33QR9/",
+    "https://lang-technik.de/fr"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "LANG Technik X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部32頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部32頁・検索12回）"
+ }
+}

@@ -1,0 +1,1441 @@
+{
+ "name": "Pentera",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Software / SaaS｜未接触",
+ "researched_at": "2026-11-11T13:28:26.213890+00:00",
+ "official_url": "https://pentera.io",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2015年 (Pcysysとして)",
+    "url": "https://ja.wikipedia.org/wiki/Pentera",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "350人 (2023年10月）)",
+    "url": "https://ja.wikipedia.org/wiki/Pentera",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$249.5M",
+    "url": "https://getlatka.com/companies/pentera.io",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Safely test your cyber defenses against real attacks, prioritize your most critical exposures based on proven risk, and remediate them quickly to improve your cyber resilience.",
+    "url": "https://pentera.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Thanks for reaching out! We'll be in touch soon to set up your personalized demo - prepare to unlock security insights about your environment!",
+    "url": "https://pentera.io/",
+    "pass": 1
+   },
+   {
+    "quote": "surgically eliminate them with automated remediation, and re-test to prove exploitable gaps are gone.",
+    "url": "https://pentera.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce enterprise risk in hours - not quarters",
+    "url": "https://pentera.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Security teams need more than alerts. They need proof of real-world risk and a clear path to remediation. Pentera provides continuous validation that proves what’s exploitable, prioritizes real risk, and accelerates remediation across the enterprise.",
+    "url": "https://pentera.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Attack progression logic",
+    "url": "https://pentera.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Live production environments",
+    "url": "https://pentera.io/",
+    "pass": 1
+   },
+   {
+    "quote": "No attack progression",
+    "url": "https://pentera.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Live production (read-only)",
+    "url": "https://pentera.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Static severity scores (primarily CVSS)",
+    "url": "https://pentera.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Predefined playbook simulations",
+    "url": "https://pentera.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Replace disconnected tools and workflows with a unified platform for continuous exposure validation and native remediation. Proactively test across all attack surfaces: internal networks, external assets, cloud, web applications, APIs and hybrid environments.",
+    "url": "https://pentera.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Pentera supports all five stages of Continuous Threat Exposure Management (CTEM) with security validation at the core. Manage the full exposure lifecycle by identifying what is truly exploitable, prioritizing your most critical exposures, mobilizing remediation through automated workflows, and confirming measurable risk reduction over time.",
+    "url": "https://pentera.io/",
+    "pass": 1
+   },
+   {
+    "quote": "\"The best solution for automated pentesting. It's a very capable tool. It's fast and easy to use. Clearly readable reports are provided.\"",
+    "url": "https://pentera.io/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Thanks to Pentera, we have been able to identify key areas for improvement, apply mitigations and then quickly re-assess to validate the fixes impact. This allowed us to achieve a quick return on investment within our first few months of usage.\"",
+    "url": "https://pentera.io/",
+    "pass": 1
+   },
+   {
+    "quote": "“Pentera Core accurately replicates real-world attacker techniques, providing a true picture of the organization's security posture.”",
+    "url": "https://pentera.io/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Pentera has changed my executive reporting for the better. Being able to utilise Pentera to better explain the security controls and investments made by executives has improved my working life dramatically.”",
+    "url": "https://pentera.io/",
+    "pass": 1
+   },
+   {
+    "quote": "If somebody is looking to partner with Pentera or find a way to improve their pen testing, I would definitely recommend checking them out. It’s just fantastic.”",
+    "url": "https://pentera.io/",
+    "pass": 1
+   },
+   {
+    "quote": "“Pentera enables us to efficiently conduct highly automated pentests on our hybrid networks and improve our overall security posture. Due to the high efficiency of Pentera, we are able to deliver security assessments with a low headcount.”",
+    "url": "https://pentera.io/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Great pentesting tool to protect your company. It allows us to compare and remediate vulnerabilities. It gives us a perspective of how secure our systems are and what to improve on.”",
+    "url": "https://pentera.io/",
+    "pass": 1
+   },
+   {
+    "quote": "“Best security tool to improve the security posture of your organization. Over the years, it has proven to be a great and essential tool to manage and test our security posture.”",
+    "url": "https://pentera.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Pentera significantly helped us identify security findings quickly, including password vulnerabilities in Active Directory. We were able to address these and pass them on to the appropriate support teams.”",
+    "url": "https://pentera.io/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We have evaluated multiple products and Pentera's came on-top. The deployment was very quick and straightforward. We were able to see valuable results right away. We also saw cost reductions in ongoing red-team efforts.\"",
+    "url": "https://pentera.io/",
+    "pass": 1
+   },
+   {
+    "quote": "“In higher ed, we’re dealing with decentralized IT, thousands of endpoints, and constant change. Pentera helped us see which vulnerabilities were actually exploitable across campus networks instead of chasing every CVE. That shift alone changed how we prioritize remediation.”",
+    "url": "https://pentera.io/",
+    "pass": 1
+   },
+   {
+    "quote": "“What I love the most about it is that it carries out complete VAPTs with the utmost simplicity, and by analyzing the vulnerabilities, proposes the necessary remediations in a clear and timely manner.”",
+    "url": "https://pentera.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Controlled execution with audit proof",
+    "url": "https://pentera.io/resources/?category=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Our experts guide your security validation program",
+    "url": "https://pentera.io/resources/?category=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Turn emerging threats into prioritized remediation actions",
+    "url": "https://pentera.io/resources/?category=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Proactively uncover exploitable gaps in your defenses.",
+    "url": "https://pentera.io/resources/?category=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "“Pentera helps us prioritize what truly matters and gives us confidence we are covering our global environment continuously.”",
+    "url": "https://pentera.io/resources/?category=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "“Seeing a domain admin account cracked in production changed how we view internal exposure.”",
+    "url": "https://pentera.io/resources/?category=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "“Pentera helped us advance our red team and continuously improve penetration testing.”",
+    "url": "https://pentera.io/resources/?category=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "“I don’t think we’d be able to advance our red team without Pentera. If you’re looking to improve penetration testing, I would definitely recommend it.”",
+    "url": "https://pentera.io/resources/?category=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Security, privacy, compliance, and certifications",
+    "url": "https://pentera.io/resources/?category=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Company announcements and press releases",
+    "url": "https://pentera.io/resources/?category=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Apr 2026",
+    "url": "https://pentera.io/resources/?category=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Merlin Entertainments uses Pentera to identify critical vulnerabilities, prioritize remediation, and maintain continuous visibility across its global environment. The platform enables a small team to...",
+    "url": "https://pentera.io/resources/?category=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Vulnerability Prioritization",
+    "url": "https://pentera.io/resources/?category=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Merlin Entertainments uses Pentera to identify critical vulnerabilities, prioritize remediation, and maintain continuous visibility across its global environment. The platform enables a small team to operate efficiently at scale while improving confidence in security coverage.",
+    "url": "https://pentera.io/resources/?category=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "GISA uses Pentera to continuously emulate attacks across its network, validating exploitability, detection, and response. The platform reduces manual workload, enables advanced testing such as password audits and ransomware scenarios, and improves collaboration with clear remediation guidance. The result is faster validation, lower costs, and stronger confidence in security controls.",
+    "url": "https://pentera.io/resources/?category=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How EDEKA Prioritizes Real Risk with Attack Path Analysis",
+    "url": "https://pentera.io/resources/?category=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "EDEKA used Pentera to validate security risks during a complex IT consolidation without slowing operations. By correlating vulnerabilities into attack paths, the team focused on exploitable risks instead of long lists of findings. Automated testing across internal and remote networks improved prioritization, accelerated remediation, and ensured continuous validation during critical changes.",
+    "url": "https://pentera.io/resources/?category=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "How Telefónica Improves Efficiency and Security Validation Across Services",
+    "url": "https://pentera.io/resources/?category=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Telefónica uses Pentera to improve efficiency, reduce costs, and validate vulnerabilities across a wide range of services. By shifting from manual pentesting to continuous validation, the team accelerates analysis and focuses on remediation instead of discovery.",
+    "url": "https://pentera.io/resources/?category=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Azul uses Pentera to improve visibility, speed, and accuracy in identifying vulnerabilities across its environment. By testing from both internal and external perspectives, the team gains a more complete understanding of risk.",
+    "url": "https://pentera.io/resources/?category=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Pentera Partner Program",
+    "url": "https://pentera.io/resources/?category=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "About Pentera | Proactive Security Validation",
+    "url": "https://pentera.io/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for proactive cybersecurity",
+    "url": "https://pentera.io/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Leaders advancing the standard for proactive security validation.",
+    "url": "https://pentera.io/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Marketing and Corporate Strategy Officer",
+    "url": "https://pentera.io/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Vice President, K1 Investment Management",
+    "url": "https://pentera.io/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Security leaders need measurable results, not theoretical risk reduction. Continuous exposure validation delivers impact by lowering security costs, accelerating remediation across the enterprise, and reducing proven cyber risk.",
+    "url": "https://pentera.io/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "The measurable impact of proactive exposure validation",
+    "url": "https://pentera.io/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "If somebody is looking to partner with Pentera or find a way to improve their pen testing, I would definitely recommend checking them out. It’s just fantastic.”",
+    "url": "https://pentera.io/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for enterprise security",
+    "url": "https://pentera.io/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Controlled execution with audit proof",
+    "url": "https://pentera.io/pentera-partner-program/",
+    "pass": 1
+   },
+   {
+    "quote": "Our experts guide your security validation program",
+    "url": "https://pentera.io/pentera-partner-program/",
+    "pass": 1
+   },
+   {
+    "quote": "Turn emerging threats into prioritized remediation actions",
+    "url": "https://pentera.io/pentera-partner-program/",
+    "pass": 1
+   },
+   {
+    "quote": "Proactively uncover exploitable gaps in your defenses.",
+    "url": "https://pentera.io/pentera-partner-program/",
+    "pass": 1
+   },
+   {
+    "quote": "“Pentera helps us prioritize what truly matters and gives us confidence we are covering our global environment continuously.”",
+    "url": "https://pentera.io/pentera-partner-program/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Lead System Engineer, Manufacturing",
+    "url": "https://pentera.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Essentra, a global manufacturer expanding through acquisitions, struggled with limited visibility into its true security exposure despite traditional vulnerability scans and penetration tests. By implementing...",
+    "url": "https://pentera.io/resources/?category=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "HiBank Case Study: Strengthening Cybersecurity with Automated Security Validation",
+    "url": "https://pentera.io/resources/?category=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "EDEKA Case Study: Attack Path Risk Prioritization",
+    "url": "https://pentera.io/resources/case-studies/edeka-customer-testimonial/",
+    "pass": 1
+   },
+   {
+    "quote": "GISA Security Validation Case Study",
+    "url": "https://pentera.io/resources/case-studies/gisa-security-validation-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "GISA Case Study: Exploitable Vulnerability Validation",
+    "url": "https://pentera.io/resources/case-studies/gisa-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Ten years of threat research coupled with practical validation across more than 1,000 enterprise environments. Finance, manufacturing, government, and services teams run on it today.",
+    "url": "https://pentera.io/press-release/pentera-named-gartner-peer-insights-customers-choice-2026/",
+    "pass": 1
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Pentera",
+    "url": "https://www.casestudies.com/customer/pentera",
+    "pass": 3
+   },
+   {
+    "quote": "Pentera - Customer Case Study",
+    "url": "https://www.casestudies.com/customer/pentera",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Apria Healthcare achieves real-time security validation and 60% reduction in pentesting costs with Pentera | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/pentera/case-study/apria-healthcare-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Apria Healthcare achieves real-time security validation and 60% reduction in pentesting costs with Pentera",
+    "url": "https://www.casestudies.com/company/pentera/case-study/apria-healthcare-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Apria Healthcare - Customer Case Study",
+    "url": "https://www.casestudies.com/company/pentera/case-study/apria-healthcare-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Open case study document...",
+    "url": "https://www.casestudies.com/company/pentera/case-study/apria-healthcare-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/pentera/case-study/apria-healthcare-customer-case-study",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "“What I love the most about it is that it carries out complete VAPTs with the utmost simplicity, and by analyzing the vulnerabilities, proposes the necessary remediations in a clear and timely manner.”",
+    "url": "https://pentera.io/",
+    "pass": 1
+   },
+   {
+    "quote": "“We run complex multi cloud and CI/CD environments, and assumptions break fast at that scale. Pentera identified exploitable attack chains in production that traditional scanning never surfaced. That level of continuous validation is now part of our release confidence.”",
+    "url": "https://pentera.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Essentra, a global manufacturer expanding through acquisitions, struggled with limited visibility into its true security exposure despite traditional vulnerability scans and penetration tests. By implementing...",
+    "url": "https://pentera.io/resources/?category=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Find new ways to grow your revenue",
+    "url": "https://pentera.io/pentera-partner-program/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase your revenue",
+    "url": "https://pentera.io/pentera-partner-program/",
+    "pass": 1
+   },
+   {
+    "quote": "At Pentera, we care about every employee from the start. You’re important to us, and you’ll feel it every day. Join us and be part of a special team where your ideas count, you do what you love, and grow in a warm and open place.",
+    "url": "https://pentera.io/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock new revenue opportunities",
+    "url": "https://pentera.io/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Compared to previous monthly manual pentests, Pentera delivered a fast return on investment by reducing costs and increasing testing frequency. Combined with strong support and ongoing collaboration, the platform has become a key part of the organization’s security operations.",
+    "url": "https://pentera.io/resources/case-studies/schmitz-cargobull-customer-testimonial/",
+    "pass": 1
+   },
+   {
+    "quote": "If you want to grow your skills, make an impact, and be part of an innovative team, Pentera is the place for you.",
+    "url": "https://pentera.io/careers/co/america/8C.173/solutions-architect-pentesting-cyber/all/",
+    "pass": 1
+   },
+   {
+    "quote": "ペンテラはシリーズC以降、年間経常収益 (ARR) を300%以上増加させ、顧客基盤も200%拡大",
+    "url": "https://ja.wikipedia.org/wiki/Pentera",
+    "pass": 3
+   },
+   {
+    "quote": "“Israeli security startup Pentera raises $150 mln in funding round, eyes IPO”",
+    "url": "https://ja.wikipedia.org/wiki/Pentera",
+    "pass": 3
+   },
+   {
+    "quote": "On October 9, 2025, Pentera acquired DevOcean, an AI-remediation management platform.",
+    "url": "https://en.wikipedia.org/wiki/Pentera",
+    "pass": 3
+   },
+   {
+    "quote": "On November 5, 2025, Pentera acquired EVA Information Security, an offensive security firm specializing in AI red teaming and pentesting.",
+    "url": "https://en.wikipedia.org/wiki/Pentera",
+    "pass": 3
+   },
+   {
+    "quote": "\"Israeli security startup Pentera raises $150 mln in funding round, eyes IPO\"",
+    "url": "https://en.wikipedia.org/wiki/Pentera",
+    "pass": 3
+   },
+   {
+    "quote": "\"Pentera Expands Into AI Red Teaming with EVA Acquisition\"",
+    "url": "https://en.wikipedia.org/wiki/Pentera",
+    "pass": 3
+   },
+   {
+    "quote": "Pentera Revenue 2025: $117.4M Est., $1B Valuation",
+    "url": "https://getlatka.com/companies/pentera.io",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, valuation & funding",
+    "url": "https://getlatka.com/companies/pentera.io",
+    "pass": 3
+   },
+   {
+    "quote": "Pentera has not published its revenue. Growjo puts it at about $117.4M a year (September 2025).",
+    "url": "https://getlatka.com/companies/pentera.io",
+    "pass": 3
+   },
+   {
+    "quote": "Pentera CEO, founders & employees",
+    "url": "https://getlatka.com/companies/pentera.io",
+    "pass": 3
+   },
+   {
+    "quote": "Amitai Ratzon founded Pentera in 2015 and runs it as CEO. Pentera has 461 employees (November 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/pentera.io",
+    "pass": 3
+   },
+   {
+    "quote": "What is Pentera's revenue?",
+    "url": "https://getlatka.com/companies/pentera.io",
+    "pass": 3
+   },
+   {
+    "quote": "Growjo estimates Pentera's revenue at about",
+    "url": "https://getlatka.com/companies/pentera.io",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Pentera have?",
+    "url": "https://getlatka.com/companies/pentera.io",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of November 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/pentera.io",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/pentera.io",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/pentera.io",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/pentera.io",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Pentera Partner Program",
+    "url": "https://pentera.io/resources/?category=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Pentera Partner Program",
+    "url": "https://pentera.io/pentera-partner-program/",
+    "pass": 1
+   },
+   {
+    "quote": "Pentera Partner Program",
+    "url": "https://pentera.io/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Pentera Earns 5-Star Recognition in CRN® Partner Program Guide",
+    "url": "https://pentera.io/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Pentera Partner Program",
+    "url": "https://pentera.io/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Pentera Partner Program",
+    "url": "https://pentera.io/resources/case-studies/merlin-entertainments-customer-testimonial/",
+    "pass": 1
+   },
+   {
+    "quote": "Pentera Partner Program",
+    "url": "https://pentera.io/resources/case-studies/edeka-customer-testimonial/",
+    "pass": 1
+   },
+   {
+    "quote": "Pentera Partner Program",
+    "url": "https://pentera.io/resources/case-studies/azul-airlines-customer-testimonial/",
+    "pass": 1
+   },
+   {
+    "quote": "Pentera Partner Program",
+    "url": "https://pentera.io/resources/case-studies/dtcc-customer-testimonial/",
+    "pass": 1
+   },
+   {
+    "quote": "Pentera Partner Program",
+    "url": "https://pentera.io/resources/case-studies/aldo-pentera-cybersecurity-testimonial/",
+    "pass": 1
+   },
+   {
+    "quote": "Pentera Partner Program",
+    "url": "https://pentera.io/resources/case-studies/schmitz-cargobull-customer-testimonial/",
+    "pass": 1
+   },
+   {
+    "quote": "Pentera Partner Program",
+    "url": "https://pentera.io/resources/case-studies/telefonica-testimonial-strengthening-cloud-security/",
+    "pass": 1
+   },
+   {
+    "quote": "Pentera Partner Program",
+    "url": "https://pentera.io/resources/case-studies/gisa-security-validation-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Pentera Partner Program",
+    "url": "https://pentera.io/resources/case-studies/gisa-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Pcysys rebrands as Pentera, unveils automated attack module",
+    "url": "https://ja.wikipedia.org/wiki/Pentera",
+    "pass": 3
+   },
+   {
+    "quote": "The company initially focused on automated penetration testing technologies and later expanded its platform to support broader security validation use cases. In 2021, Pcysys rebranded as Pentera.",
+    "url": "https://en.wikipedia.org/wiki/Pentera",
+    "pass": 3
+   },
+   {
+    "quote": "\"Pcysys rebrands as Pentera, unveils automated attack module\"",
+    "url": "https://en.wikipedia.org/wiki/Pentera",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "国内導入パートナー「TDCソフト」を選ぶ理由",
+    "url": "https://www.tdc.co.jp/service/digital-x-column050/",
+    "pass": 3
+   },
+   {
+    "quote": "具体的な金額は、検証対象とするIPアドレス数（資産規模）や、選択するモジュール（Core・RansomwareReadyなど）によって変動するため、代理店への見積もりが必要です",
+    "url": "https://www.tdc.co.jp/service/digital-x-column050/",
+    "pass": 3
+   },
+   {
+    "quote": "Penteraはグローバル製品であるため、日本企業がその真価を引き出し、運用を成功させるには、信頼できる国内パートナーの存在が不可欠です",
+    "url": "https://www.tdc.co.jp/service/digital-x-column050/",
+    "pass": 3
+   },
+   {
+    "quote": "独立系SIerとして長年の実績を持つTDCソフト株式会社は、Penteraの導入において強力なパートナーとなります",
+    "url": "https://www.tdc.co.jp/service/digital-x-column050/",
+    "pass": 3
+   },
+   {
+    "quote": "TDCソフトは、単に製品を販売するだけの代理店ではありません",
+    "url": "https://www.tdc.co.jp/service/digital-x-column050/",
+    "pass": 3
+   },
+   {
+    "quote": "また、日本語での技術サポートはもちろんのこと、TDCソフトが提供する他のセキュリティソリューション（SASEやID管理・クラウドセキュリティなど）と組み合わせた、包括的な防御体制の構築も相談可能です",
+    "url": "https://www.tdc.co.jp/service/digital-x-column050/",
+    "pass": 3
+   },
+   {
+    "quote": "Pentera, Inc | 東京エレクトロンデバイス株式会社",
+    "url": "https://cn.teldevice.co.jp/maker/pentera/",
+    "pass": 3
+   },
+   {
+    "quote": "自動ペネトレーションテストツール Pentera（ペンテラ）| 東京エレクトロンデバイス",
+    "url": "https://cn.teldevice.co.jp/maker/pentera/",
+    "pass": 3
+   },
+   {
+    "quote": "一般的なQ&AをWebポータルで受け付ける日本語標準保守サポート",
+    "url": "https://cn.teldevice.co.jp/maker/pentera/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan IT Week関西 第6回 情報セキュリティ EXPOに出展します",
+    "url": "https://cn.teldevice.co.jp/maker/pentera/",
+    "pass": 3
+   },
+   {
+    "quote": "Interop Tokyo 2026",
+    "url": "https://cn.teldevice.co.jp/maker/pentera/",
+    "pass": 3
+   },
+   {
+    "quote": "FIT2026 [金融国際情報技術展] に東京エレクトロンデバイスが出展します",
+    "url": "https://cn.teldevice.co.jp/maker/pentera/",
+    "pass": 3
+   },
+   {
+    "quote": "Pentera | セキュリティ | テクマトリックス株式会社",
+    "url": "https://www.techmatrix.co.jp/product/pentera/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月10日(水)～6月12日(金) 開催「Interop Tokyo 2026」",
+    "url": "https://www.techmatrix.co.jp/product/pentera/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Converge Tokyo 2026に出展",
+    "url": "https://www.techmatrix.co.jp/product/pentera/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Security Days Spring 2026 東京に出展",
+    "url": "https://www.techmatrix.co.jp/product/pentera/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "2025年6月11日(水)～6月13日(金) 開催「Interop Tokyo 2025」",
+    "url": "https://www.techmatrix.co.jp/product/pentera/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Penteraの機能 | 東京エレクトロンデバイス株式会社",
+    "url": "https://cn.teldevice.co.jp/maker_detail/pentera_function/",
+    "pass": 3
+   },
+   {
+    "quote": "東京エレクトロンデバイスの3つの品質",
+    "url": "https://cn.teldevice.co.jp/maker_detail/pentera_function/",
+    "pass": 3
+   },
+   {
+    "quote": "Penteraの機能 - Pentera - 東京エレクトロンデバイス",
+    "url": "https://cn.teldevice.co.jp/maker_detail/pentera_function/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "pentera-sales@techmatrix.co.jp",
+    "url": "https://www.techmatrix.co.jp/product/pentera/index.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Pentera(ペンテラ)の価格と機能｜自動ペネトレーションテストの仕組み... — Pentera（ペンテラ）の価格や機能、自動ペネトレーションテストの実力を徹底解説します。手動診断と比較した費用対効果（ROI）やランサムウェア対策とは？攻撃者視点で資産を守る仕組みと、国内正規パートナー経由での導入メリットを網羅します。",
+    "url": "https://www.tdc.co.jp/service/digital-x-column050/",
+    "pass": 3
+   },
+   {
+    "quote": "Pentera, Inc | 東京エレクトロンデバイス株式会社 — 【東京エレクトロンデバイス】Pentera製品の日本国内の販売代理店です。 高度なインテグレーションスキルを保有するパートナーとして、導入支援から導入後の保守・運用・技術サポートまで幅広くご支援しています。",
+    "url": "https://cn.teldevice.co.jp/maker/pentera/",
+    "pass": 3
+   },
+   {
+    "quote": "Pentera | セキュリティ | テクマトリックス株式会社 — 自動セキュリティ検証（Automated Security Validation）プラットフォーム Penteraは、実際のサイバー攻撃をベースに組織のセキュリティ耐性を継続的に検証することができるプラットフォームです。 Penteraを使用することで日々新たに発見される脅威をベースとした疑似的な攻撃を自動で実施し、最新の ...",
+    "url": "https://www.techmatrix.co.jp/product/pentera/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Penteraの機能 | 東京エレクトロンデバイス株式会社 — PenteraのPenteraの機能についてご紹介しています。【東京エレクトロンデバイス】Pentera製品の日本国内の販売代理店です。高度なインテグレーションスキルを保有するパートナーとして、導入支援から導入後の保守・運用・技術サポートまで幅広くご支援しています。",
+    "url": "https://cn.teldevice.co.jp/maker_detail/pentera_function/",
+    "pass": 3
+   },
+   {
+    "quote": "Pentera | 東京エレクトロンデバイス株式会社 — PenTeraをどのように活用できるのでしょうか？ ユーザー事例を基に考えられるPenTeraの活用方法をご紹介します。 ・EDR製品の評価、チューニング セキュリティ製品を導入する際、その効果や、製品間の優劣を客観的に評価するのは容易ではありません。 PenTeraは様々なマルウェアの攻撃手法 ...",
+    "url": "https://cn.teldevice.co.jp/faq/pentera/",
+    "pass": 3
+   },
+   {
+    "quote": "Pentera - Wikipedia — Penteraプラットフォームは、複数の製品およびアドオンモジュールで構成されている： ペンテラ・コア：組織の内部ネットワークのセキュリティ制御をマッピング、テスト、検証する [9][10]。",
+    "url": "https://ja.wikipedia.org/wiki/Pentera",
+    "pass": 3
+   },
+   {
+    "quote": "Pentera - Wikipedia — Pentera was founded in 2015 by Arik Liberzon and Arik Faingold under the name Pcysys. [4] The company initially focused on automated penetration testing technologies and later expanded its platform to support broader security validation use cases. In 2021, Pcysys rebranded as Pentera. [5] On October 9, 2025, Pentera acquired DevOcean, an AI-remediation management platform. [6",
+    "url": "https://en.wikipedia.org/wiki/Pentera",
+    "pass": 3
+   },
+   {
+    "quote": "About Pentera | Proactive Security Validation — Pentera delivers proactive security validation, proving exploitability and accelerating exposure reduction with AI-powered remediation management and revalidation.",
+    "url": "https://pentera.io/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Pentera | Exposure Validation Platform | AI-Driven Testing — The Pentera Platform executes AI-driven adversarial testing in production to validate exploitability, prioritize remediation, and reduce exposure.",
+    "url": "https://pentera.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Pentera, Inc | 東京エレクトロンデバイス株式会社 — 【東京エレクトロンデバイス】Pentera製品の日本国内の販売代理店です。高度なインテグレーションスキルを保有するパートナーとして、導入支援から導入後の保守・運用・技術サポートまで幅広くご支援しています。Pentera（ペンテラ）は、AIを活用した攻撃者視点の自動セキュリティ検証 ...",
+    "url": "https://cn.teldevice.co.jp/maker/pentera/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Pentera Uses Software & Services — B2B Case Studies Featuring Pentera as the Customer Explore case studies featuring Pentera as the customer — learn how vendors and partners helped Pentera solve real business challenges. Pentera is the category leader for Automated Security Validation, allowing every organization to test with ease the integrity of all cybersecurity layers, un",
+    "url": "https://www.casestudies.com/customer/pentera",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study - go.pentera.io — PenTera enabled the customer to run regularly-scheduled penetration tests, which prioritized the weaknesses in an actionable manner, together with the attack vectors explaining their business impact.",
+    "url": "https://go.pentera.io/hubfs/4700023/Case+Study/Case+Study+-+Healthcare+and+Security+Technology+Solution+Provider.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Blackstone | Pentera — Discover how Blackstone enhanced its cybersecurity with Pentera's automated security validation solutions in this insightful case study.",
+    "url": "https://pentera.io/resources/case-studies/case-study-blackstone/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Apria Healthcare achieves real-time security ... — Apria Healthcare (Hospital & Health Care) partnered with Pentera (Computer & Network Security) to solve key challenges. \"Apria Healthcare - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/pentera/case-study/apria-healthcare-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "11 Pentera Case Studies, Success Stories, & Customer Stories — Discover how other companies use Pentera, get inspired, and find ways to improve your business.",
+    "url": "https://www.featuredcustomers.com/vendor/pentera/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Pentera – Revenue, Valuation & Top Competitors – 2026 — About This Data Revenue, valuation, and funding figures for Pentera are estimates based on publicly available information, industry analysis, regulatory filings, company-provided profile updates, and proprietary data aggregation methods. Employee counts are derived from professional networks and company disclosures. Data Accuracy: While we st",
+    "url": "https://compworth.com/company/pentera",
+    "pass": 3
+   },
+   {
+    "quote": "Pentera Revenue 2025: $117.4M Est., $1B Valuation - LATKA — Oct 30, 2026 · Pentera 2025 estimated revenue: $117.4M. Valuation: $1B. Total funding: $249.5M across 5 rounds. 461 employees. Founded 2015. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/pentera.io",
+    "pass": 3
+   },
+   {
+    "quote": "Pentera 2026 Company Profile: Valuation, Funding & Investors ...Pentera – Financial Footprint & Growth Factors – 2026Pentera - 2026 Company Profile, Team, Funding & Competitors ...Pentera Revenue, Funding & Valuation - prospeo.ioPentera Revenue, Valuation, Funding & Investors | Multiples — Information on valuation, funding, cap tables, investors, and executives for Pentera. Use the PitchBook Platf",
+    "url": "https://pitchbook.com/profiles/company/224487-19",
+    "pass": 3
+   },
+   {
+    "quote": "Pentera – Financial Footprint & Growth Factors – 2026 — Operating alongside 4 competitors, Pentera continues to develop its market presence. Workforce expansion of 1% coincides with Series D funding activity at Pentera. Headquartered in Petah Tikva, Pentera operates in the IT Security sector. Investors have contributed $250M to Pentera through 2 rounds. Pentera averages $270.4K in revenue for each",
+    "url": "https://compworth.com/company/penteraio",
+    "pass": 3
+   },
+   {
+    "quote": "Pentera - 2026 Company Profile, Team, Funding & Competitors ...Pentera Revenue, Funding & Valuation - prospeo.ioPentera Revenue, Valuation, Funding & Investors | Multiples — Mar 6, 2026 · Pentera is a series D company based in Burlington (United States), founded in 2015 by Arik Liberzon and Arik Faingold. It operates as a Cloud based penetration testing solutions provider. Pentera has raised $250M",
+    "url": "https://tracxn.com/d/companies/pentera/__yvO1IPSxXh3gg5Rh8AjPv8Qf4pM_5uLce6Xmpd8eBJ4",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "What is Pentra? | Pronunciation, Operating Company, and ... Sep 16, 2026 · The security validation platform \"Pentera\" SEO tools or penetration testing products with the same name located overseas None of these are related to our company or Pentra. The official domain for the Pentra introduced in this article is only pentra.jp (www.pentra.jp / app.pentra.jp / blog.pentra.jp).",
+    "url": "https://note.com/globezenith/n/n7f94e87dd970?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "What is Pentra? | Pronunciation, Operating Company, and Features Summary｜Pentra（ペントラ）｜既存記事を直してSEOを伸ばす",
+    "url": "https://note.com/globezenith/n/n7f94e87dd970?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/globezenith/n/n7f94e87dd970?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What is Pentra? | Pronunciation, Operating Company, and Features Summary",
+    "url": "https://note.com/globezenith/n/n7f94e87dd970?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Pentra（ペントラ）｜既存記事を直してSEOを伸ばす",
+    "url": "https://note.com/globezenith/n/n7f94e87dd970?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hello, this is the Pentra development team.",
+    "url": "https://note.com/globezenith/n/n7f94e87dd970?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Starting tomorrow, we will begin a series introducing Pentra's features one by one using the actual interface.",
+    "url": "https://note.com/globezenith/n/n7f94e87dd970?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Before that, today is a special episode where we summarize \"what Pentra is\" in one place.",
+    "url": "https://note.com/globezenith/n/n7f94e87dd970?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The official website is here.",
+    "url": "https://note.com/globezenith/n/n7f94e87dd970?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Pentera, Inc. (@PenteraInc) / X Pentera, Inc. @PenteraInc Dec 4, 2025 We're proud to celebrate 50 years of Pentera and share our history and legacy with you! #plannedgiving #giftplanning #nonprofit #legacygiving #philanthropy #estateplanning Celebrating 50 Years of Pentera: Two Eras of Innovation and Integrity From pentera.com 6",
+    "url": "https://x.com/penterainc",
+    "pass": 3
+   },
+   {
+    "quote": "Pentera on X: \"Automatically test your entire IT ... Automatically test your entire IT infrastructure - internal and external attack surfaces.",
+    "url": "https://x.com/penterasec/status/1752308593792323783",
+    "pass": 3
+   },
+   {
+    "quote": "Automatically test your entire IT infrastructure - internal ... Pentera (@penterasec). 209 likes 21 replies. Automatically test your entire IT infrastructure - internal and external attack surfaces.",
+    "url": "https://x.com/penterasec/status/1760573300667740280",
+    "pass": 3
+   },
+   {
+    "quote": "PenTera (@PenTeraa) / Posts / X Mommy and baby are happy and healthy. We are enjoying this moment so much. We will be returning to YouTube Tomorrow :) thank you so much 🙏 💬5698 🔄15209 🤍98731 0 📎 🔁Reposted by PenTera Roman Atwood RomanAtwood Jun 24",
+    "url": "https://x.com/PenTeraa",
+    "pass": 3
+   },
+   {
+    "quote": "pentera on X pentera (@Pr83567) on X X labeled this post as containing Adult Content.",
+    "url": "https://x.com/i/status/2051804815848771657",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Pentera - LinkedIn Pentera Vulnerability Scanners Pentera is an AI-powered Automated Security Validation platform for enterprise security teams. We emulate real-world attacks across on-prem, cloud, and external ...",
+    "url": "https://www.linkedin.com/company/penterasecurity",
+    "pass": 3
+   },
+   {
+    "quote": "Pentera - LinkedIn Pentera | Pentera is an AI-powered Automated Security Validation platform for enterprise security teams. We emulate real-world attacks across on-prem, cloud, and external environments to reveal ...",
+    "url": "https://www.linkedin.com/products/penterasecurity-pentera/",
+    "pass": 3
+   },
+   {
+    "quote": "Pentera, Inc. | LinkedIn Pentera, Inc. | 1,633 followers on LinkedIn. For more than four decades Pentera, Inc. has set the standard for innovative planned giving marketing solutions and top-quality customer service, serving thousands of the nation’s top nonprofits. Since 2010, Claudine A. Donikian, the first female CEO in the planned giving marketing industry, has directed the company, successfull",
+    "url": "https://na.linkedin.com/company/pentera-inc.",
+    "pass": 3
+   },
+   {
+    "quote": "Mark Davis - Pentera | LinkedInSivan Harel - Pentera | LinkedInAlon Boxiner - VP Offensive Security | Ex-Co-Founder & CEO ...Eduardo Varela B. - Pentera | LinkedIn With over 17 years of sales leadership experience in the technology sector, I deliver… · Experience: Pentera · Education: Bluecoat School · Location: Manchester · 500+ connections on LinkedIn. View Mark Davis’ profile on LinkedIn, a pro",
+    "url": "https://uk.linkedin.com/in/mark-davis-33b5b010",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Pentera | Burlington MA - FacebookPenntera - PA's Pantera Tribute Band - FacebookLa Pentera | Udawalawa - FacebookPantera Energy | Lahore - FacebookPentera - FacebookPantera - FacebookPenterra Services | Edmond OK - Facebook Mar 23, 2026 · Pentera, Burlington. 993 likes · 1 talking about this. Pentera is the category leader for Automated Security Validation, allowing every organization to test wit",
+    "url": "https://www.facebook.com/Penterasec/",
+    "pass": 3
+   },
+   {
+    "quote": "Penntera - PA's Pantera Tribute Band - FacebookLa Pentera | Udawalawa - FacebookPantera Energy | Lahore - FacebookPentera - FacebookPantera - FacebookPenterra Services | Edmond OK - Facebook Penntera - PA's Pantera Tribute Band. 6,456 followers · 20 talking about this. Pennsylvania's Pantera Experience endorsed by Pantera members Vinnie Paul, Rex Brown & Phil Anselmo! Mar 12, 2026 · La Pentera, Ud",
+    "url": "https://www.facebook.com/penntera/",
+    "pass": 3
+   },
+   {
+    "quote": "La Pentera | Udawalawa - FacebookPantera Energy | Lahore - FacebookPentera - FacebookPantera - FacebookPenterra Services | Edmond OK - Facebook Mar 12, 2026 · La Pentera, Udawalawa. 31,144 likes · 1 talking about this · 225 were here. An exclusive haven for the nature and animal lover. This is a place for rewarding bespoke experiences. A destination filled... Aug 14, 2026 · Pantera Energy, Lahore.",
+    "url": "https://www.facebook.com/LaPentera/",
+    "pass": 3
+   },
+   {
+    "quote": "Pantera Energy | Lahore - FacebookPentera - FacebookPantera - FacebookPenterra Services | Edmond OK - Facebook Aug 14, 2026 · Pantera Energy, Lahore. 73,624 followers · 234 talking about this · 74 were here. Established in 2013, with a focus on reliability, dependability and customer satisfaction. Sep 28, 2025 · About this group Wilfrdo Chavez Pantera. 8,425,194 followers · 5,021 talking about thi",
+    "url": "https://www.facebook.com/PanteraEnergy.pk/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://pentera.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pentera.io/resources/?category=case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pentera.io/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pentera.io/pentera-partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pentera.io/solution/automated-pentesting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pentera.io/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pentera.io/become-a-partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pentera.io/newsroom/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pentera.io/resources/case-studies/merlin-entertainments-customer-testimonial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pentera.io/resources/case-studies/edeka-customer-testimonial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pentera.io/resources/case-studies/azul-airlines-customer-testimonial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pentera.io/resources/case-studies/dtcc-customer-testimonial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pentera.io/resources/case-studies/aldo-pentera-cybersecurity-testimonial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pentera.io/resources/case-studies/schmitz-cargobull-customer-testimonial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pentera.io/resources/case-studies/telefonica-testimonial-strengthening-cloud-security/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pentera.io/resources/case-studies/gisa-security-validation-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pentera.io/resources/case-studies/gisa-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pentera.io/careers/co/america/8C.173/solutions-architect-pentesting-cyber/all/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pentera.io/press-release/pentera-named-gartner-peer-insights-customers-choice-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pentera.io/press-release/pentera-recorded-future-threat-led-exposure-validation/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.tdc.co.jp/service/digital-x-column050/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cn.teldevice.co.jp/maker/pentera/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.techmatrix.co.jp/product/pentera/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cn.teldevice.co.jp/maker_detail/pentera_function/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/yamamoto_ec/n/ncc92bffa3f69",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/Pentera",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Pentera",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/pentera",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go.pentera.io/hubfs/4700023/Case+Study/Case+Study+-+Healthcare+and+Security+Technology+Solution+Provider.pdf",
+    "status": "http_404",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.casestudies.com/company/pentera/case-study/apria-healthcare-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/pentera",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/pentera.io",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/224487-19",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/penteraio",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/globezenith/n/n7f94e87dd970?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/penterainc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/penterasec/status/1752308593792323783",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/penterasec/status/1760573300667740280",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/penterasecurity",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/penterasecurity-pentera/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://na.linkedin.com/company/pentera-inc.",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/mark-davis-33b5b010",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Penterasec/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/penntera/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/LaPentera/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/PanteraEnergy.pk/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/PenTeraa",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/i/status/2051804815848771657",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Pentera 日本 導入",
+   "results": [
+    "https://www.tdc.co.jp/service/digital-x-column050/",
+    "https://cn.teldevice.co.jp/maker/pentera/",
+    "https://www.techmatrix.co.jp/product/pentera/index.html",
+    "https://cn.teldevice.co.jp/maker_detail/pentera_function/",
+    "https://cn.teldevice.co.jp/faq/pentera/",
+    "https://prtimes.jp/main/html/rd/p/000000155.000010609.html",
+    "https://cn.teldevice.co.jp/blog/p56274/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pentera 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://note.com/yamamoto_ec/n/ncc92bffa3f69",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.pentel.co.jp/catalogue/",
+    "https://www.pentelworld.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pentera Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/Pentera",
+    "https://en.wikipedia.org/wiki/Pentera",
+    "https://pentera.io/about-us/",
+    "https://pentera.io/",
+    "https://cn.teldevice.co.jp/maker/pentera/",
+    "https://www.techmatrix.co.jp/product/pentera/index.html",
+    "https://pentera.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pentera manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/customer/pentera",
+    "https://go.pentera.io/hubfs/4700023/Case+Study/Case+Study+-+Healthcare+and+Security+Technology+Solution+Provider.pdf",
+    "https://pentera.io/resources/case-studies/case-study-blackstone/",
+    "https://www.casestudies.com/company/pentera/case-study/apria-healthcare-customer-case-study",
+    "https://www.featuredcustomers.com/vendor/pentera/case-studies",
+    "https://www.appsruntheworld.com/customers-database/products/view/pentera-platform",
+    "https://pentera.io/resources/case-studies/essentra-customer-testimonial/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pentera white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://pentera.io/",
+    "https://partner.vw.com/partner",
+    "https://www.verkada.com/partners/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://upcloud.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pentera founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/pentera",
+    "https://getlatka.com/companies/pentera.io",
+    "https://pitchbook.com/profiles/company/224487-19",
+    "https://compworth.com/company/penteraio",
+    "https://tracxn.com/d/companies/pentera/__yvO1IPSxXh3gg5Rh8AjPv8Qf4pM_5uLce6Xmpd8eBJ4",
+    "https://prospeo.io/c/pentera-revenue",
+    "https://multiples.vc/private-comps/pentera"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Pentera",
+   "results": [
+    "https://note.com/globezenith/n/n7f94e87dd970?hl=en",
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/draft_candidate/m/mc6ed818cf2b4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/fukuso_sutaro/n/nf365aa7a3733"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Pentera",
+   "results": [
+    "https://x.com/penterainc",
+    "https://x.com/",
+    "https://x.com/penterasec/status/1752308593792323783",
+    "https://x.com/penterasec/status/1760573300667740280",
+    "https://x.com/SionRetz/status/1996913489714053508",
+    "https://x.com/BHUSAParties",
+    "https://x.com/Calcalistech/status/2089276778401464672"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Pentera",
+   "results": [
+    "https://www.linkedin.com/company/penterasecurity",
+    "https://www.linkedin.com/products/penterasecurity-pentera/",
+    "https://na.linkedin.com/company/pentera-inc.",
+    "https://uk.linkedin.com/in/mark-davis-33b5b010",
+    "https://es.linkedin.com/in/sivanharel",
+    "https://mx.linkedin.com/in/eduardovbarrera",
+    "https://il.linkedin.com/in/alon-boxiner-a1a713b4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Pentera",
+   "results": [
+    "https://www.facebook.com/Penterasec/",
+    "https://www.facebook.com/penntera/",
+    "https://www.facebook.com/LaPentera/",
+    "https://www.facebook.com/PanteraEnergy.pk/",
+    "https://www.facebook.com/p/Penterra-Services-100057627601967/",
+    "https://www.facebook.com/groups/1574239923950993/",
+    "https://www.facebook.com/Pantera/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pentera note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://pentera.io/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.clay.com/dossier/pentera-ceo",
+    "https://pentera.io/in-the-press/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.com/penta_hd"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Pentera X 投稿",
+   "results": [
+    "https://pentera.io/",
+    "https://x.com/PenTeraa",
+    "https://x.com/i/status/2051804815848771657",
+    "https://pentera.io/pentera-platform/",
+    "https://go.pentera.io/pentera-apps",
+    "https://pentera.com/",
+    "https://docs.pentera.io/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部34頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部34頁・検索12回）"
+ }
+}

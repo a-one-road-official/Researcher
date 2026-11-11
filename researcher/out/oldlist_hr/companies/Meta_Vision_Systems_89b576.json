@@ -1,0 +1,1038 @@
+{
+ "name": "Meta Vision Systems",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-11T13:53:58.672375+00:00",
+ "official_url": "https://www.meta-vs.com/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/meta-vision-systems-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "No funding",
+    "url": "https://prospeo.io/c/meta-vision-systems-revenue",
+    "pass": 3
+   },
+   {
+    "label": "Investors",
+    "value": "Strathdon Investments Subscribe to see more Subscribe to see more",
+    "url": "https://www.cbinsights.com/company/meta-vision-systems/financials",
+    "pass": 3
+   },
+   {
+    "label": "First funding",
+    "value": "Last Funding Investor Rounds Board Seats Type Location",
+    "url": "https://www.cbinsights.com/company/meta-vision-systems/financials",
+    "pass": 3
+   },
+   {
+    "label": "First funding",
+    "value": "7/1/1999",
+    "url": "https://www.cbinsights.com/company/meta-vision-systems/financials",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "United Kingdom",
+    "url": "https://prospeo.io/c/meta-vision-systems-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Meta's DLS scanning spot laser sensor provides a unique technology for the large weld joints often found in the energy sector",
+    "url": "https://www.meta-vs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Thanks to our thirty years experience with welding applications, we have a wide ranging knowledge of welding and fabrication processes.",
+    "url": "https://www.meta-vs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Submerged Arc Welding (SAW) is one of the most widely used welding processes, especially in heavy industry.",
+    "url": "https://www.meta-vs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "GMAW is the archetypal open arc welding process, widely used in manufacturing industry.",
+    "url": "https://www.meta-vs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "GTAW is considered to be a high quality, precision welding process, commonly used for aerospace applications.",
+    "url": "https://www.meta-vs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Laser and laser hybrid welding are high speed welding processes, used in the auto industry, requiring very precise control.",
+    "url": "https://www.meta-vs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "FSW (Friction Stir Welding) is a relatively new process, invented at TWI in 1991. Meta's SLS is well suited to the application.",
+    "url": "https://www.meta-vs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Meta's Smart Laser Pilot (SLPi) is a well proven system for robot welding, with many unique features.",
+    "url": "https://www.meta-vs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Meta's Smart Laser Probe (SLPr) is an SLS-based tracking system for welding machines, typically controlling a pair of linear slides",
+    "url": "https://www.meta-vs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Thanks to its unique DLS sensor family Meta is acknowledged to be the leader in multipass SAW for energy applications, including pressure vessels, rotors, wind towers and monopiles.",
+    "url": "https://www.meta-vs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our weld seam tracking, process control and inspection systems are widely used throughout manufacturing.",
+    "url": "https://www.meta-vs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Oxfordshire Apprentice of the year",
+    "url": "https://www.meta-vs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Meta's Oliver Steer has achieved the Apprenticeship Award in Electrical Engineering 2017. Ollie's accomplishment follows in the footsteps of Meta...",
+    "url": "https://www.meta-vs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Meta's DLS scanning spot laser sensor provides a unique technology for the large weld joints often found in the energy sector",
+    "url": "https://www.meta-vs.com/tank-manufacture.html",
+    "pass": 1
+   },
+   {
+    "quote": "Thanks to our thirty years experience with welding applications, we have a wide ranging knowledge of welding and fabrication processes.",
+    "url": "https://www.meta-vs.com/tank-manufacture.html",
+    "pass": 1
+   },
+   {
+    "quote": "Submerged Arc Welding (SAW) is one of the most widely used welding processes, especially in heavy industry.",
+    "url": "https://www.meta-vs.com/tank-manufacture.html",
+    "pass": 1
+   },
+   {
+    "quote": "GMAW is the archetypal open arc welding process, widely used in manufacturing industry.",
+    "url": "https://www.meta-vs.com/tank-manufacture.html",
+    "pass": 1
+   },
+   {
+    "quote": "GTAW is considered to be a high quality, precision welding process, commonly used for aerospace applications.",
+    "url": "https://www.meta-vs.com/tank-manufacture.html",
+    "pass": 1
+   },
+   {
+    "quote": "Laser and laser hybrid welding are high speed welding processes, used in the auto industry, requiring very precise control.",
+    "url": "https://www.meta-vs.com/tank-manufacture.html",
+    "pass": 1
+   },
+   {
+    "quote": "FSW (Friction Stir Welding) is a relatively new process, invented at TWI in 1991. Meta's SLS is well suited to the application.",
+    "url": "https://www.meta-vs.com/tank-manufacture.html",
+    "pass": 1
+   },
+   {
+    "quote": "Meta's Smart Laser Pilot (SLPi) is a well proven system for robot welding, with many unique features.",
+    "url": "https://www.meta-vs.com/tank-manufacture.html",
+    "pass": 1
+   },
+   {
+    "quote": "Meta's Smart Laser Probe (SLPr) is an SLS-based tracking system for welding machines, typically controlling a pair of linear slides",
+    "url": "https://www.meta-vs.com/tank-manufacture.html",
+    "pass": 1
+   },
+   {
+    "quote": "Meta's DLS scanning spot laser sensor provides a unique technology for the large weld joints often found in the energy sector",
+    "url": "https://www.meta-vs.com/about-us.html",
+    "pass": 1
+   },
+   {
+    "quote": "Thanks to our thirty years experience with welding applications, we have a wide ranging knowledge of welding and fabrication processes.",
+    "url": "https://www.meta-vs.com/about-us.html",
+    "pass": 1
+   },
+   {
+    "quote": "Submerged Arc Welding (SAW) is one of the most widely used welding processes, especially in heavy industry.",
+    "url": "https://www.meta-vs.com/about-us.html",
+    "pass": 1
+   },
+   {
+    "quote": "GMAW is the archetypal open arc welding process, widely used in manufacturing industry.",
+    "url": "https://www.meta-vs.com/about-us.html",
+    "pass": 1
+   },
+   {
+    "quote": "GTAW is considered to be a high quality, precision welding process, commonly used for aerospace applications.",
+    "url": "https://www.meta-vs.com/about-us.html",
+    "pass": 1
+   },
+   {
+    "quote": "Laser and laser hybrid welding are high speed welding processes, used in the auto industry, requiring very precise control.",
+    "url": "https://www.meta-vs.com/about-us.html",
+    "pass": 1
+   },
+   {
+    "quote": "FSW (Friction Stir Welding) is a relatively new process, invented at TWI in 1991. Meta's SLS is well suited to the application.",
+    "url": "https://www.meta-vs.com/about-us.html",
+    "pass": 1
+   },
+   {
+    "quote": "Meta's Smart Laser Pilot (SLPi) is a well proven system for robot welding, with many unique features.",
+    "url": "https://www.meta-vs.com/about-us.html",
+    "pass": 1
+   },
+   {
+    "quote": "Meta's Smart Laser Probe (SLPr) is an SLS-based tracking system for welding machines, typically controlling a pair of linear slides",
+    "url": "https://www.meta-vs.com/about-us.html",
+    "pass": 1
+   },
+   {
+    "quote": "Meta was formed in 1984 as a spin out from an engineering research project at the world famous Oxford University. The original project was aimed at developing laser sensor guided robot welding. This work was described in the original",
+    "url": "https://www.meta-vs.com/about-us.html",
+    "pass": 1
+   },
+   {
+    "quote": "One early success was a large project to develop sensor guided adaptive multipass robotic FCAW for a number of welding systems for Caterpillar, USA. These systems were in production for nearly twenty years. These systems were described in a widely referenced article (",
+    "url": "https://www.meta-vs.com/about-us.html",
+    "pass": 1
+   },
+   {
+    "quote": "Another early success was a welding cell for rocket nozzles for the European Ariane space programme. Much later Meta provided further systems for the Ariane programme, which can be seen as a video at",
+    "url": "https://www.meta-vs.com/about-us.html",
+    "pass": 1
+   },
+   {
+    "quote": ", as well as a number of systems for the Chinese space rocket engine programme.",
+    "url": "https://www.meta-vs.com/about-us.html",
+    "pass": 1
+   },
+   {
+    "quote": "Later, Meta also became heavily involved in pipe mill welding, providing hundreds of laser sensor system and even complete mill control systems. Meta is widely acknowledged to be the world leader in providing laser sensors for pipe welding and similar applications.",
+    "url": "https://www.meta-vs.com/about-us.html",
+    "pass": 1
+   },
+   {
+    "quote": "Overall, Meta has now provided over 3,000 laser sensors and continues to develop new and improved solutions for all common arc welding applications. From its early days with just a few people, Meta has grown to over 40 people from a wide variety of countries and backgrounds.",
+    "url": "https://www.meta-vs.com/about-us.html",
+    "pass": 1
+   },
+   {
+    "quote": "Thanks to its unique DLS sensor family Meta is acknowledged to be the leader in multipass SAW for energy applications, including pressure vessels, rotors, wind towers and monopiles.",
+    "url": "http://meta.rdcgroup.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Many welding applications in the transport industry are for very long welds, as shown here in this railway carriage application. Another similar example is the shipyard panel line. There is usually some distortion in the way the parts are prepared or fitted together which means that a weld tracking system is required. Meta has experience in many different transport welding systems.",
+    "url": "http://meta.rdcgroup.com/",
+    "pass": 3
+   },
+   {
+    "quote": "The aim of the original research project at Oxford University, which was spun out to form Meta, was to develop a laser vision system for robot welding in the auto industry. Since we are still very active in that same industry thirty years later with many hundreds of systems installed, it seems that the project was successful.",
+    "url": "http://meta.rdcgroup.com/",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/meta-vision-systems-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Programming languages",
+    "url": "https://prospeo.io/c/meta-vision-systems-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Meta Vision Systems has approximately",
+    "url": "https://prospeo.io/c/meta-vision-systems-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/meta-vision-systems-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/meta-vision-systems-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/meta-vision-systems-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Meta Vision Systems Stock Price, Funding, Valuation, Revenue & Financial Statements",
+    "url": "https://www.cbinsights.com/company/meta-vision-systems/financials",
+    "pass": 3
+   },
+   {
+    "quote": "Valuations are submitted by companies, mined from state filings or news, provided by VentureSource, or based on a comparables valuation model.",
+    "url": "https://www.cbinsights.com/company/meta-vision-systems/financials",
+    "pass": 3
+   },
+   {
+    "quote": "QiOVA develops and markets laser marking and micro-machining products for the industrial sector. The company offers products such as the VULQ1-S FLASH and VULQ1-S BEAMS, which utilize multibeam technology for laser marking. QiOVA's products are used in various industries, including medical, luxury goods, and packaging. It was founded in 2011 and is based in Andrézieux-Bouthéon, France.",
+    "url": "https://www.cbinsights.com/company/meta-vision-systems/financials",
+    "pass": 3
+   },
+   {
+    "quote": "SharpLase provides laser marking and engraving technologies within the manufacturing sector. The company offers laser machines, including fiber and solid state lasers, for engraving, cutting, and marking various materials. SharpLase's products are used in industries such as medical, aerospace, automotive, and consumer electronics. It was founded in 2009 and is based in Monterey Park, California.",
+    "url": "https://www.cbinsights.com/company/meta-vision-systems/financials",
+    "pass": 3
+   },
+   {
+    "quote": "WeldTrace is a company that provides welding management software for the fabrication industry. Their offerings include tools for managing welding procedures, welder qualifications, and tracking, mapping, and inspection processes. WeldTrace serves the fabrication and engineering sectors and integrates with quality management systems. It was founded in 2007 and is based in Queensland, Australia.",
+    "url": "https://www.cbinsights.com/company/meta-vision-systems/financials",
+    "pass": 3
+   },
+   {
+    "quote": "KMLabs operates in ultrafast laser and x-ray science within the laser technology industry. The company provides ultrafast laser sources, including extreme ultraviolet (EUV) and vacuum ultraviolet (VUV) lasers, along with femtosecond and attosecond laser systems. KMLabs' products are used in scientific and research applications. It was founded in 1994 and is based in Boulder, Colorado.",
+    "url": "https://www.cbinsights.com/company/meta-vision-systems/financials",
+    "pass": 3
+   },
+   {
+    "quote": "permits us to improve and customize your experience. You can read more about your",
+    "url": "https://www.cbinsights.com/company/meta-vision-systems/financials",
+    "pass": 3
+   },
+   {
+    "quote": "Propose a framework based on diffusion models for consistent and realistic long-term novel view synthesis. Diffusion models have achieved impressive performance on many content creation applications, such as image-to-image translation and text-to- image generation.",
+    "url": "https://research.facebook.com/research-area/computer-vision/",
+    "pass": 3
+   },
+   {
+    "quote": "A Practical Stereo Depth System for Smart Glasses",
+    "url": "https://research.facebook.com/research-area/computer-vision/",
+    "pass": 3
+   },
+   {
+    "quote": "We present the design of a productionized end-to-end stereo depth sensing system that does pre-processing, online stereo rectification, and stereo depth estimation with...",
+    "url": "https://research.facebook.com/research-area/computer-vision/",
+    "pass": 3
+   },
+   {
+    "quote": "Recognizing human activities is a decades-old problem in computer vision. With recent advancements in user- assistive augmented reality and virtual reality (AR/VR) systems...",
+    "url": "https://research.facebook.com/research-area/computer-vision/",
+    "pass": 3
+   },
+   {
+    "quote": "We propose a model, called Cube R-CNN, designed to generalize across camera and scene types with a unified approach. We show that Cube R-CNN outperforms prior works on the larger...",
+    "url": "https://research.facebook.com/research-area/computer-vision/",
+    "pass": 3
+   },
+   {
+    "quote": "We propose a transfer method that leverages a model trained on a large source dataset to improve the learning ability on small target datasets.",
+    "url": "https://research.facebook.com/research-area/computer-vision/",
+    "pass": 3
+   },
+   {
+    "quote": "Egocentric Video Task Translation",
+    "url": "https://research.facebook.com/research-area/computer-vision/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Meta's work in aerospace started in the late 1980s when we designed and built a complete robot welding cell for Ariane rocket nozzles. Today we are still involved in the aerospace industry and still involved in welding rocket nozzles!",
+    "url": "https://www.meta-vs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether it is manufacturing air, water, fuel or other tanks, Meta has wide experience of the application of laser vision in the tank industry.",
+    "url": "https://www.meta-vs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "GMAW is the archetypal open arc welding process, widely used in manufacturing industry.",
+    "url": "https://www.meta-vs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "GTAW is considered to be a high quality, precision welding process, commonly used for aerospace applications.",
+    "url": "https://www.meta-vs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Meta is a leading manufacturer of laser vision systems for welding applications worldwide.",
+    "url": "https://www.meta-vs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our weld seam tracking, process control and inspection systems are widely used throughout manufacturing.",
+    "url": "https://www.meta-vs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Meta's work in aerospace started in the late 1980s when we designed and built a complete robot welding cell for Ariane rocket nozzles. Today we are still involved in the aerospace industry and still involved in welding rocket nozzles!",
+    "url": "https://www.meta-vs.com/tank-manufacture.html",
+    "pass": 1
+   },
+   {
+    "quote": "Whether it is manufacturing air, water, fuel or other tanks, Meta has wide experience of the application of laser vision in the tank industry.",
+    "url": "https://www.meta-vs.com/tank-manufacture.html",
+    "pass": 1
+   },
+   {
+    "quote": "GMAW is the archetypal open arc welding process, widely used in manufacturing industry.",
+    "url": "https://www.meta-vs.com/tank-manufacture.html",
+    "pass": 1
+   },
+   {
+    "quote": "GTAW is considered to be a high quality, precision welding process, commonly used for aerospace applications.",
+    "url": "https://www.meta-vs.com/tank-manufacture.html",
+    "pass": 1
+   },
+   {
+    "quote": "Meta's work in aerospace started in the late 1980s when we designed and built a complete robot welding cell for Ariane rocket nozzles. Today we are still involved in the aerospace industry and still involved in welding rocket nozzles!",
+    "url": "https://www.meta-vs.com/about-us.html",
+    "pass": 1
+   },
+   {
+    "quote": "Whether it is manufacturing air, water, fuel or other tanks, Meta has wide experience of the application of laser vision in the tank industry.",
+    "url": "https://www.meta-vs.com/about-us.html",
+    "pass": 1
+   },
+   {
+    "quote": "GMAW is the archetypal open arc welding process, widely used in manufacturing industry.",
+    "url": "https://www.meta-vs.com/about-us.html",
+    "pass": 1
+   },
+   {
+    "quote": "GTAW is considered to be a high quality, precision welding process, commonly used for aerospace applications.",
+    "url": "https://www.meta-vs.com/about-us.html",
+    "pass": 1
+   },
+   {
+    "quote": "While robot welding is commonly associated with the automotive industry, and that is one of the biggest users, there are many other robot welding applications for which laser vision systems are also used.",
+    "url": "http://meta.rdcgroup.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Appliances, Electrical, and Electronics Manufacturing",
+    "url": "https://prospeo.io/c/meta-vision-systems-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "QiOVA develops and markets laser marking and micro-machining products for the industrial sector. The company offers products such as the VULQ1-S FLASH and VULQ1-S BEAMS, which utilize multibeam technology for laser marking. QiOVA's products are used in various industries, including medical, luxury goods, and packaging. It was founded in 2011 and is based in Andrézieux-Bouthéon, France.",
+    "url": "https://www.cbinsights.com/company/meta-vision-systems/financials",
+    "pass": 3
+   },
+   {
+    "quote": "SharpLase provides laser marking and engraving technologies within the manufacturing sector. The company offers laser machines, including fiber and solid state lasers, for engraving, cutting, and marking various materials. SharpLase's products are used in industries such as medical, aerospace, automotive, and consumer electronics. It was founded in 2009 and is based in Monterey Park, California.",
+    "url": "https://www.cbinsights.com/company/meta-vision-systems/financials",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Enter your email address here to receive our newsletter.",
+    "url": "https://www.meta-vs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/meta-vision-systems-revenue",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": ", P, “Advanced Technologies for Tandem SAW Narrow Groove Applications”, pp 32-37, The",
+    "url": "https://www.meta-vs.com/about-us.html",
+    "pass": 1
+   },
+   {
+    "quote": "Many welding applications in the transport industry are for very long welds, as shown here in this railway carriage application. Another similar example is the shipyard panel line. There is usually some distortion in the way the parts are prepared or fitted together which means that a weld tracking system is required. Meta has experience in many different transport welding systems.",
+    "url": "http://meta.rdcgroup.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Meta Vision Systems Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/meta-vision-systems-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Meta Vision Systems Revenue",
+    "url": "https://prospeo.io/c/meta-vision-systems-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Meta Vision Systems",
+    "url": "https://prospeo.io/c/meta-vision-systems-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/meta-vision-systems-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/meta-vision-systems-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/meta-vision-systems-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Meta Vision Systems?",
+    "url": "https://prospeo.io/c/meta-vision-systems-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Meta Vision Systems generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/meta-vision-systems-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/meta-vision-systems-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/meta-vision-systems-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Meta Vision Systems have?",
+    "url": "https://prospeo.io/c/meta-vision-systems-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/meta-vision-systems-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Meta Vision Systems Stock Price, Funding, Valuation, Revenue & Financial Statements",
+    "url": "https://www.cbinsights.com/company/meta-vision-systems/financials",
+    "pass": 3
+   },
+   {
+    "quote": "Funding, Valuation & Revenue",
+    "url": "https://www.cbinsights.com/company/meta-vision-systems/financials",
+    "pass": 3
+   },
+   {
+    "quote": "Garrick Brazil,",
+    "url": "https://research.facebook.com/research-areas/computer-vision/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "META VISION SYSTEMS — Meta is widely acknowledged as the market leader in the supply of laser vision systems for the Tube & Pipe industry. We have a huge range of solutions that are carefully matched to the specific requirements of particular Tube & Pipe industry applications.",
+    "url": "http://meta.rdcgroup.com/",
+    "pass": 3
+   },
+   {
+    "quote": "About Meta | META VISION SYSTEMS — Overall, Meta has now provided over 3,000 laser sensors and continues to develop new and improved solutions for all common arc welding applications. From its early days with just a few people, Meta has grown to over 40 people from a wide variety of countries and backgrounds.",
+    "url": "https://meta.rdcgroup.com/about-us/about-meta",
+    "pass": 3
+   },
+   {
+    "quote": "Meta Vision Systems 2026 Company Profile: Valuation, Funding ...Meta Vision Systems Revenue, Funding & ValuationMeta Vision Systems Stock Price, Funding, Valuation, Revenue ...Meta Vision Systems - Crunchbase Company Profile & FundingMeta - FinancialsMetaview 2026 Company Profile: Valuation, Funding & Investors ...Meta Vision Systems - Overview, News & Similar companies ... — Nov 21, 2006 · Inform",
+    "url": "https://pitchbook.com/profiles/company/60851-80",
+    "pass": 3
+   },
+   {
+    "quote": "Meta Vision Systems Revenue, Funding & Valuation — Meta Vision Systems has revenue of $598,885, estimated valuation of $2,000,000. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/meta-vision-systems-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Meta Vision Systems Stock Price, Funding, Valuation, Revenue ... — See Meta Vision Systems funding rounds, investors, investments, exits and more. Evaluate their financials based on Meta Vision Systems's post-money valuation and revenue.",
+    "url": "https://www.cbinsights.com/company/meta-vision-systems/financials",
+    "pass": 3
+   },
+   {
+    "quote": "Meta Vision Systems - Crunchbase Company Profile & Funding — Meta Vision Systems was a large project to develop sensor guided adaptive multi pass robotic FCAW for a number of welding systems. This has been applied to many heavy industrial applications such as nuclear vessel and rotor welding, monopolies for offshore wind towers, earthquake proof beams, etc.",
+    "url": "https://www.crunchbase.com/organization/meta-vision-systems",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Meta Vision Systems Ltd - LinkedIn Meta Vision Systems Ltd | 161 followers on LinkedIn. Laser vision systems for welding applications",
+    "url": "https://www.linkedin.com/company/meta-vision-systems-ltd",
+    "pass": 3
+   },
+   {
+    "quote": "Meta Vision Sensors Inc - LinkedIn Today, the company embraces modern networking and up-to-date processing technology to deliver a range of networked 3D vision sensors and control systems that are perfectly matched to customer...",
+    "url": "https://ca.linkedin.com/company/meta-sensors",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Meta vision | Giza - Facebook Oct 11, 2026 · عايز تأمّن بيتك أو شركتك ومش عارف تبدأ منين؟ 📹 سيستم كاميرات متكامل حسب احتياجك وميزانيتك، مع تركيب وبرمجة ومتابعة من الموبايل 📱 🔥 ابعتلنا رسالة دلوقتي وقولنا المكان كام متر وعايز كام كاميرا، وإحنا هنرشحلك السيستم المناسب. 📞 01091598065 💬 واتساب: 01108749378 📍 القاهرة | الجيزة | القليوبية META VISION SECURITY SYSTEMS 🛡️ أمانك ..",
+    "url": "https://www.facebook.com/metavision1/",
+    "pass": 3
+   },
+   {
+    "quote": "Computer Vision Archives - Meta Research Recognizing human activities is a decades-old problem in computer vision. With recent advancements in user- assistive augmented reality and virtual reality (AR/VR) systems...",
+    "url": "https://research.facebook.com/research-area/computer-vision/",
+    "pass": 3
+   },
+   {
+    "quote": "Publications - Meta Research Recognizing human activities is a decades-old problem in computer vision. With recent advancements in user- assistive augmented reality and virtual reality (AR/VR) systems...",
+    "url": "https://research.facebook.com/research-areas/computer-vision/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・本文）": [
+   {
+    "quote": "Computer Vision Archives - Meta Research",
+    "url": "https://research.facebook.com/research-area/computer-vision/",
+    "pass": 3
+   },
+   {
+    "quote": "Consistent View Synthesis with Pose-Guided Diffusion Models",
+    "url": "https://research.facebook.com/research-area/computer-vision/",
+    "pass": 3
+   },
+   {
+    "quote": "Propose a framework based on diffusion models for consistent and realistic long-term novel view synthesis. Diffusion models have achieved impressive performance on many content creation applications, such as image-to-image translation and text-to- image generation.",
+    "url": "https://research.facebook.com/research-area/computer-vision/",
+    "pass": 3
+   },
+   {
+    "quote": "A Practical Stereo Depth System for Smart Glasses",
+    "url": "https://research.facebook.com/research-area/computer-vision/",
+    "pass": 3
+   },
+   {
+    "quote": "We present the design of a productionized end-to-end stereo depth sensing system that does pre-processing, online stereo rectification, and stereo depth estimation with...",
+    "url": "https://research.facebook.com/research-area/computer-vision/",
+    "pass": 3
+   },
+   {
+    "quote": "AssemblyHands: Towards Egocentric Activity Understanding via 3D Hand Pose Estimation",
+    "url": "https://research.facebook.com/research-area/computer-vision/",
+    "pass": 3
+   },
+   {
+    "quote": "Recognizing human activities is a decades-old problem in computer vision. With recent advancements in user- assistive augmented reality and virtual reality (AR/VR) systems...",
+    "url": "https://research.facebook.com/research-area/computer-vision/",
+    "pass": 3
+   },
+   {
+    "quote": "Robust Dynamic Radiance Fields",
+    "url": "https://research.facebook.com/research-area/computer-vision/",
+    "pass": 3
+   },
+   {
+    "quote": "Publications - Meta Research",
+    "url": "https://research.facebook.com/research-areas/computer-vision/",
+    "pass": 3
+   },
+   {
+    "quote": "Consistent View Synthesis with Pose-Guided Diffusion Models",
+    "url": "https://research.facebook.com/research-areas/computer-vision/",
+    "pass": 3
+   },
+   {
+    "quote": "Propose a framework based on diffusion models for consistent and realistic long-term novel view synthesis. Diffusion models have achieved impressive performance on many content creation applications, such as image-to-image translation and text-to- image generation.",
+    "url": "https://research.facebook.com/research-areas/computer-vision/",
+    "pass": 3
+   },
+   {
+    "quote": "OMNI3D: A Large Benchmark and Model for 3D Object Detection in the Wild",
+    "url": "https://research.facebook.com/research-areas/computer-vision/",
+    "pass": 3
+   },
+   {
+    "quote": "We propose a model, called Cube R-CNN, designed to generalize across camera and scene types with a unified approach. We show that Cube R-CNN outperforms prior works on the larger...",
+    "url": "https://research.facebook.com/research-areas/computer-vision/",
+    "pass": 3
+   },
+   {
+    "quote": "Robust Dynamic Radiance Fields",
+    "url": "https://research.facebook.com/research-areas/computer-vision/",
+    "pass": 3
+   },
+   {
+    "quote": "We introduce RoDynRF, an algorithm for reconstructing dynamic radiance fields from casual videos. Unlike existing approaches, we do not require accurate camera poses as input. Our method optimizes camera poses and two radiance fields, modeling static and dynamic elements. Our approach includes a coarse-to-fine strategy and epipolar geometry to exclude moving pixels, deformation fields, time- depen",
+    "url": "https://research.facebook.com/research-areas/computer-vision/",
+    "pass": 3
+   },
+   {
+    "quote": "AssemblyHands: Towards Egocentric Activity Understanding via 3D Hand Pose Estimation",
+    "url": "https://research.facebook.com/research-areas/computer-vision/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.meta-vs.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meta-vs.com/tank-manufacture.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meta-vs.com/about-us.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.meta.com/ja-jp/blog/meta_galsses_japan_launch/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://about.fb.com/ja/news/2026/08/meta-glasses-launch-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meta.com/blog/AI-glasses-Japan-launch/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.gizmodo.jp/article/meta-ray-ban-smart-glasses-japan-launch-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meta.com/ja-jp/emerging-tech/orion/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.prophesee-cn.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metasystems-international.com/en/contact/regions/japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metasystems-international.com/en/news/metasystems-japan-our-new-office/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://meta.rdcgroup.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://machinevision.co.uk/machine-vision-uses/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meta-sensors.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/60851-80",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/meta-vision-systems-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/meta-vision-systems/financials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/meta-vision-systems",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/meta-vision-systems-ltd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/meta-sensors",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/metavision1/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://research.facebook.com/research-area/computer-vision/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://research.facebook.com/research-areas/computer-vision/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Meta Vision Systems 日本 導入",
+   "results": [
+    "https://www.meta.com/ja-jp/blog/meta_galsses_japan_launch/",
+    "https://about.fb.com/ja/news/2026/08/meta-glasses-launch-in-japan/",
+    "https://www.meta.com/blog/AI-glasses-Japan-launch/",
+    "https://www.gizmodo.jp/article/meta-ray-ban-smart-glasses-japan-launch-2026/",
+    "https://vrinside.jp/news/post-233425/",
+    "https://home.kingsoft.jp/news/app/vrinside/233425.html",
+    "https://news.mynavi.jp/article/20260826-4871255/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Meta Vision Systems 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.meta-vs.com/",
+    "https://www.meta.com/ja-jp/emerging-tech/orion/",
+    "https://www.prophesee-cn.com/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://metras.jp/",
+    "https://www.toyo.co.jp/material/maker/detail/matesy.html",
+    "https://www.3ds.com/ja/about/company/office-locations/japan/tokyo-osaki"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Meta Vision Systems Japan",
+   "results": [
+    "https://www.meta-vs.com/",
+    "https://metasystems-international.com/en/contact/regions/japan/",
+    "https://metasystems-international.com/en/news/metasystems-japan-our-new-office/",
+    "http://meta.rdcgroup.com/",
+    "https://meta.rdcgroup.com/about-us/about-meta",
+    "https://meta-sensors.com/",
+    "https://metasystems-probes.com/en/news/metasystems-japan-our-new-office/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Meta Vision Systems manufacturing customer case study",
+   "results": [
+    "https://www.meta-vs.com/",
+    "https://www.meta-vs.com/zh-hans/node/762.html",
+    "https://machinevision.co.uk/machine-vision-uses/case-studies/",
+    "https://meta-sensors.com/",
+    "https://www.industrialvision.co.uk/about-us/case-studies",
+    "http://meta.rdcgroup.com/",
+    "https://www.meta-intelligence.tech/en/case-manufacturing"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Meta Vision Systems white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://aws.amazon.com/partners/programs/",
+    "https://www.superantispyware.com/reseller-program",
+    "https://www.unifyr.com/blog/the-reseller-channel-how-and-why-to-use-it"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Meta Vision Systems founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/60851-80",
+    "https://prospeo.io/c/meta-vision-systems-revenue",
+    "https://www.cbinsights.com/company/meta-vision-systems/financials",
+    "https://www.crunchbase.com/organization/meta-vision-systems",
+    "https://pitchbook.com/profiles/company/235241-20",
+    "https://www.zoominfo.com/c/meta-vision-systems-ltd/54594595",
+    "https://investor.atmeta.com/financials/default.aspx"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Meta Vision Systems",
+   "results": [
+    "https://note.com/metavision_lab/n/nd831930a145a?hl=en",
+    "https://note.com/touya_fujitani/n/n88efbb3119d6?hl=en",
+    "https://note.com/vracademy/n/nf1ed29c97feb?hl=en",
+    "https://note.com/vracademy/n/nf1ed29c97feb",
+    "https://note.com/motokoku/n/n9982440f0773",
+    "https://note.com/kaoru_nakamura/n/ndb67161bbb14",
+    "https://note.com/metavision_lab"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Meta Vision Systems",
+   "results": [
+    "https://x.com/0x_metavision",
+    "https://x.com/xMETAVISION",
+    "https://x.com/Glo_MetaVision",
+    "https://x.com/TheMetaVision",
+    "https://x.com/the_metavision",
+    "https://x.com/MetavisionPlay",
+    "https://x.com/metavisionstd"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Meta Vision Systems",
+   "results": [
+    "https://www.linkedin.com/company/meta-vision-systems-ltd",
+    "https://www.linkedin.com/company/metavisiononline",
+    "https://ca.linkedin.com/company/meta-sensors",
+    "https://in.linkedin.com/company/metavision-systems-s-rl",
+    "https://uk.linkedin.com/in/wei-jia-a7998467",
+    "https://uk.linkedin.com/in/wolfgang-kölbl-49600b26",
+    "https://ca.linkedin.com/in/helder-soares-5a31507"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Meta Vision Systems",
+   "results": [
+    "https://www.facebook.com/fb-answers/meta-vision-explained/",
+    "https://www.facebook.com/metavision1/",
+    "https://research.facebook.com/research-area/computer-vision/",
+    "https://research.facebook.com/research-areas/computer-vision/",
+    "https://tech.facebook.com/",
+    "https://business.facebook.com/",
+    "https://tech.facebook.com/reality-labs/2022/6/passing-the-visual-turing-test-the-inside-story-of-our-quest-for-visual-realism-in-vr/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Meta Vision Systems note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.meta-vs.com/",
+    "http://meta.rdcgroup.com/",
+    "https://www.cbinsights.com/company/meta-vision-systems/people",
+    "https://www.meta.com/ja-jp/about/leadership/",
+    "https://find-and-update.company-information.service.gov.uk/company/02943066",
+    "https://www.itmedia.co.jp/news/article/2601/13/1260113054/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Meta Vision Systems X 投稿",
+   "results": [
+    "https://www.meta-vs.com/",
+    "https://x.com/Meta",
+    "https://x.com/AIatMeta/status/1950543458609037550",
+    "http://meta.rdcgroup.com/",
+    "https://meta-sensors.com/",
+    "https://www.meta-vs.com/zh-hans/--12.html",
+    "https://www.vision-systems.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部25頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部25頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部25頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部25頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部25頁・検索12回）"
+ }
+}

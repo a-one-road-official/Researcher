@@ -1,0 +1,2029 @@
+{
+ "name": "Onyx",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜状態なし",
+ "researched_at": "2026-11-11T13:14:11.148786+00:00",
+ "official_url": "https://onyx.app/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Onyx connects to your enterprise knowledge and gives humans and agents accurate, fast, and token-efficient context.",
+    "url": "https://onyx.app/",
+    "pass": 1
+   },
+   {
+    "quote": "The world's top teams trust Onyx to be their primary interface to AI.",
+    "url": "https://onyx.app/",
+    "pass": 1
+   },
+   {
+    "quote": "The jump is the perf-test-eu cluster from PR #2213, spun up for the July load test and never torn down: $1,340 a day since July 18. Nothing depends on it. Tear it down and the bill returns to baseline.",
+    "url": "https://onyx.app/",
+    "pass": 1
+   },
+   {
+    "quote": "PR #2213 · perf-test-eu",
+    "url": "https://onyx.app/",
+    "pass": 1
+   },
+   {
+    "quote": "EnterpriseRAG-Bench · overall",
+    "url": "https://onyx.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Tested on 99 real workplace questions across 220K internal documents, scored blind by two independent LLM judges. A win means judges preferred the Onyx answer in a head-to-head comparison; 50% is even.",
+    "url": "https://onyx.app/",
+    "pass": 1
+   },
+   {
+    "quote": "No training on your data, by anyone, ever",
+    "url": "https://onyx.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Flexible deployment supporting single tenancy / within VPC / on-premise.",
+    "url": "https://onyx.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Swap providers in one click, route each team to a different model, or run open weights on your own GPUs. When the frontier moves, you move with it.",
+    "url": "https://onyx.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Launch readiness · Product",
+    "url": "https://onyx.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Prepare a launch briefing from our latest internal updates.",
+    "url": "https://onyx.app/",
+    "pass": 1
+   },
+   {
+    "quote": "\"sources\": [\"product\", \"engineering\"]",
+    "url": "https://onyx.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Close more deals with instant access to every conversation and product update",
+    "url": "https://onyx.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Answer questions confidently across your entire product",
+    "url": "https://onyx.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Onyx is answering thousands of questions a week at Ramp. We tried a variety of other AI tools but none had the same answer reliability as Onyx. It's been a huge productivity boost as we continue to scale.",
+    "url": "https://onyx.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Product Ops",
+    "url": "https://onyx.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Onyx AI | Open Source Enterprise Search & AI Assistant",
+    "url": "https://onyx.app/",
+    "pass": 1
+   },
+   {
+    "quote": "Flexible pricing & deployment options for large organizations.",
+    "url": "https://onyx.app/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "On-Premise Deployments",
+    "url": "https://onyx.app/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Higher Education Pricing",
+    "url": "https://onyx.app/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "based on estimated pricing",
+    "url": "https://onyx.app/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock Generative AI and productivity for your team.",
+    "url": "https://onyx.app/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Onyx is joining Zoom to provide the context layer for “Conversation to Completion”.",
+    "url": "https://onyx.app/blog-assets/ramp-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Secure AI for Enterprise",
+    "url": "https://onyx.app/blog-assets/ramp-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Onyx vs ChatGPT Enterprise",
+    "url": "https://onyx.app/blog-assets/ramp-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Onyx AI | Open Source Enterprise Search & AI Assistant",
+    "url": "https://onyx.app/blog-assets/ramp-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Self-hosted AI Chat and Enterprise Search.",
+    "url": "https://onyx.app/solutions/secure-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Onyx can run entirely inside your network boundary. Run open-source LLMs locally or connect to any model provider.",
+    "url": "https://onyx.app/solutions/secure-ai",
+    "pass": 1
+   },
+   {
+    "quote": "SOC 2 Type II certified. Currently deployed in FedRAMP, ITAR, CMMC, FERPA, and GDPR-regulated environments.",
+    "url": "https://onyx.app/solutions/secure-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Provision users and groups from Okta, Azure AD, or any SAML/OIDC provider. Role-based access maps directly to your existing identity infrastructure.",
+    "url": "https://onyx.app/solutions/secure-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Embed Onyx into your own products and workflows. Full REST API, an MCP server, and a connector framework for custom data sources. Build on Onyx instead of building from scratch.",
+    "url": "https://onyx.app/solutions/secure-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Onyx works with any LLM and provider. OpenAI, Anthropic, Azure, Bedrock, or local open-weight models. Approve specific models per team or use case. Swap providers without disrupting users.",
+    "url": "https://onyx.app/solutions/secure-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Give your team an approved AI platform that actually works, so they stop pasting company data into ChatGPT. One front door for AI, fully under your control.",
+    "url": "https://onyx.app/solutions/secure-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-grade security and compliance. Flexible and secure deployment options.",
+    "url": "https://onyx.app/solutions/secure-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how one of the fastest-growing fintechs uses Onyx to answer thousands of questions a week with enterprise-grade security.",
+    "url": "https://onyx.app/solutions/secure-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Self-Hosted AI Platform for Enterprise",
+    "url": "https://onyx.app/solutions/secure-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Grant guidelines buried in PDFs. IRB procedures scattered across portals. Fund restrictions locked in a spreadsheet somewhere. Onyx surfaces the right institutional knowledge instantly so faculty spend less time searching and more time on the research itself.",
+    "url": "https://onyx.app/solutions/education",
+    "pass": 1
+   },
+   {
+    "quote": "Office hours and course prerequisites",
+    "url": "https://onyx.app/solutions/education",
+    "pass": 1
+   },
+   {
+    "quote": "Draft grant proposals and search funding databases",
+    "url": "https://onyx.app/solutions/education",
+    "pass": 1
+   },
+   {
+    "quote": "Look up IRB procedures and compliance policies",
+    "url": "https://onyx.app/solutions/education",
+    "pass": 1
+   },
+   {
+    "quote": "Navigate HR and procurement without filing a ticket",
+    "url": "https://onyx.app/solutions/education",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy on-prem or in your cloud. Student records never leave your environment. Granular role-based access ensures compliance with institutional governance requirements.",
+    "url": "https://onyx.app/solutions/education",
+    "pass": 1
+   },
+   {
+    "quote": "Deploys on-prem or air-gapped",
+    "url": "https://onyx.app/solutions/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Document-level permissions, SCIM provisioning, and role-based access control. Onyx mirrors your existing access rules so engineers only see what they're authorized to see.",
+    "url": "https://onyx.app/solutions/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Onyx indexes your technical manuals, specifications, ICDs, and procedures — then answers questions with exact citations. No more digging through folder hierarchies.",
+    "url": "https://onyx.app/solutions/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Preserve institutional knowledge permanently",
+    "url": "https://onyx.app/solutions/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "New hires ask Onyx instead of interrupting senior engineers. Program architecture, processes, and tribal knowledge — searchable from day one.",
+    "url": "https://onyx.app/solutions/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent repeat failures",
+    "url": "https://onyx.app/solutions/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Onyx lets teams leverage any LLM of their choice and maintain transparency of how their data and queries are processed. The open source nature means that the platform can be customized to fit the needs of every team, from emerging startups to global enterprises.",
+    "url": "https://onyx.app/about",
+    "pass": 1
+   },
+   {
+    "quote": "President, Datadog",
+    "url": "https://onyx.app/about",
+    "pass": 1
+   },
+   {
+    "quote": "Ramp product to answer thousands of questions each",
+    "url": "https://onyx.app/blog-assets/ramp-case-study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "One of the most active channels, #ask-product, has",
+    "url": "https://onyx.app/blog-assets/ramp-case-study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Onyx providing answers for Ramp’s product, sales, and",
+    "url": "https://onyx.app/blog-assets/ramp-case-study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "customer success teams by drawing from product",
+    "url": "https://onyx.app/blog-assets/ramp-case-study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "workforce get answers in seconds instead of hours.",
+    "url": "https://onyx.app/blog-assets/ramp-case-study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Onyx for Ramp is also much more than an E nterprise",
+    "url": "https://onyx.app/blog-assets/ramp-case-study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "agent within the Ramp product that today is deflecting",
+    "url": "https://onyx.app/blog-assets/ramp-case-study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "as a next step with eyes on more ambitious pro j ects like",
+    "url": "https://onyx.app/blog-assets/ramp-case-study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "GEN_AI_MODEL_PROVIDER",
+    "url": "https://ai-heartland.com/rag/onyx-dot-apponyx/",
+    "pass": 3
+   },
+   {
+    "quote": "# GEN_AI_MODEL_PROVIDER=anthropic",
+    "url": "https://ai-heartland.com/rag/onyx-dot-apponyx/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by security-conscious teams worldwide.",
+    "url": "https://onyx.app/solutions/secure-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Download the case study",
+    "url": "https://onyx.app/solutions/secure-ai",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading universities",
+    "url": "https://onyx.app/solutions/education",
+    "pass": 1
+   },
+   {
+    "quote": "AI Built for Aerospace & Defense",
+    "url": "https://onyx.app/solutions/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Onyx for Aerospace & Defense",
+    "url": "https://onyx.app/solutions/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "AI for Aerospace & Defense",
+    "url": "https://onyx.app/solutions/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Today, Onyx is used by hundreds of thousands of users and top teams across technology, security, finance, and more.",
+    "url": "https://onyx.app/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Edificio Insur – Planta 5",
+    "url": "https://onyxcentersource.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer expertise — authorized resellers are trained directly by Onyx Graphics and certified to sell and support the full product line",
+    "url": "https://onyxgfx.com/ja/find-a-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Discover how we’ve helped owners-operators increase AEP and decrease O&M costs.",
+    "url": "https://onyxinsight.com/resources-support/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "ONYX Insight have been helping turbine owners and operators since 2008, and are now monitoring over 32,000 turbines across 35+ different countries.",
+    "url": "https://onyxinsight.com/resources-support/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Two of the clearest proof points: a Microsoft-published case study, and the financial business case for governed Microsoft Fabric.",
+    "url": "https://onyxdata.co.uk/results/",
+    "pass": 3
+   },
+   {
+    "quote": "Shop The Best Automotive, Marine & Aviation Care Products",
+    "url": "https://onyxcoating.com/private-label/",
+    "pass": 3
+   },
+   {
+    "quote": "With the ONYX COATIN Private Label Program, you avoid the costs and delays associated with R&D, manufacturing, logistics, and the litany of other things that go into a new product.",
+    "url": "https://onyxcoating.com/private-label/",
+    "pass": 3
+   },
+   {
+    "quote": "With the world’s first N1 nano coating product under our name, we are one of the most advanced automotive protection providers in the market.",
+    "url": "https://onyxcoating.com/private-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer expertise — authorized resellers are trained directly by Onyx Graphics and certified to sell and support the full product line",
+    "url": "https://onyxgfx.com/find-a-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Onyx is trusted by dozens of leading enterprises, including Fortune 500 companies across banking, technology, insurance, energy, and other critical industries, to provide control over third-party agents as well as home-grown agents built by internal engineering teams.",
+    "url": "https://www.onyx.security/press-release/onyx-security-raises-113m-series-b-to-control-advanced-ai-quadrupling-revenue-since-stealth-launch-four-months-ago",
+    "pass": 3
+   },
+   {
+    "quote": "January 1986. As I mentioned before, I had mistaken BPS for an American manufacturer, and this American comic-style advertisement was one of the reasons why.",
+    "url": "https://note.com/cyborgmsx/n/n260b2e0eb338?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "How Ramp Deployed Secure AI to Thousands of Employees",
+    "url": "https://onyx.app/solutions/secure-ai",
+    "pass": 1
+   },
+   {
+    "quote": "ARR). Their mission is to help businesses spend less and",
+    "url": "https://onyx.app/blog-assets/ramp-case-study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Outbrain（Nasdaq: OB）は、オープンウェブ上でユーザーとの繋がりを構築し、広告主とパブリッシャーのビジネスを成功に導く最先端のテクノロジープラットフォームです",
+    "url": "https://prtimes.jp/main/html/rd/p/000000069.000018864.html",
+    "pass": 3
+   },
+   {
+    "quote": "Barrio #10",
+    "url": "https://onyxcentersource.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "Hamptons Carrara White",
+    "url": "https://onyx-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Hamptons Carrara White Honed",
+    "url": "https://onyx-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Hamptons Carrara White Polished Marble",
+    "url": "https://onyx-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "End of Warranty Campaigns",
+    "url": "https://onyxinsight.com/resources-support/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Turning condition into revenue: an introduction to Condition-Based Performance Management",
+    "url": "https://onyxinsight.com/resources-support/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "From high cost to high confidence: what the ELEVEN-I acquisition means for blade reliability & performance",
+    "url": "https://onyxinsight.com/resources-support/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Vietnam offshore wind farm secures warranty extension with ONYX data-driven inspection campaign",
+    "url": "https://onyxinsight.com/resources-support/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Shermco deploys fieldPRO to cut end of warranty inspection time",
+    "url": "https://onyxinsight.com/resources-support/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Scottish Southern Energy partner with ONYX to optimise O&M & enable confident warranty claims",
+    "url": "https://onyxinsight.com/resources-support/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Quick & reliable end of warranty inspections with fieldPRO",
+    "url": "https://onyxinsight.com/resources-support/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Identifying $450k in annual lost revenue at 281MW Evergy wind farm",
+    "url": "https://onyxinsight.com/resources-support/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Warranty Registration",
+    "url": "https://onyxcoating.com/private-label/",
+    "pass": 3
+   },
+   {
+    "quote": "We believe in supporting our commercial partners to achieve all that they can with ONYX COATIN products. So as a part of this program, we offer bespoke marketing and sales support to get your private label brand where it needs to be. Whether it’s product sheets, promotional flyers, or even digital marketing assets, we’re here to help.",
+    "url": "https://onyxcoating.com/private-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Warranty, Terms and Conditions",
+    "url": "https://onyxcoating.com/private-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Having Onyx in our cafe has been an absolute joy. This coffee never disappoints, and their bags catch everyone’s attention. The coffee always ships the same day I order, and arrives in days! Even states away: they are incredibly accommodating and consistent. There is nothing better than getting a new shipment of Onyx Coffee!",
+    "url": "https://onyxcoffeelab.com/pages/wholesale?srsltid=AYCX9vJqwnFgFp3Msgb9JiLKxYEnM0nJN76_Y6I5szfHnUjCthNUceas",
+    "pass": 3
+   },
+   {
+    "quote": "Onyx Security Raises $113M Series B to Control Advanced AI, Quadrupling Revenue since Stealth Launch Four Months Ago",
+    "url": "https://www.onyx.security/press-release/onyx-security-raises-113m-series-b-to-control-advanced-ai-quadrupling-revenue-since-stealth-launch-four-months-ago",
+    "pass": 3
+   },
+   {
+    "quote": "Since coming out of stealth four months ago, Onyx has grown revenue fourfold, and in June, Anthropic announced its",
+    "url": "https://www.onyx.security/press-release/onyx-security-raises-113m-series-b-to-control-advanced-ai-quadrupling-revenue-since-stealth-launch-four-months-ago",
+    "pass": 3
+   },
+   {
+    "quote": "Onyx is trusted by dozens of leading enterprises, including Fortune 500 companies across banking, technology, insurance, energy, and other critical industries, to provide control over third-party agents as well as home-grown agents built by internal engineering teams.",
+    "url": "https://www.onyx.security/press-release/onyx-security-raises-113m-series-b-to-control-advanced-ai-quadrupling-revenue-since-stealth-launch-four-months-ago",
+    "pass": 3
+   },
+   {
+    "quote": "Onyx Security raised $113 million in Series B funding led by Bessemer Venture Partners, bringing total funding to $153 million. Revenue grew fourfold in the four months since the company left stealth. The round funds the next generation of Onyx's proprietary models and enterprise go-to-market expansion.",
+    "url": "https://www.onyx.security/press-release/onyx-security-raises-113m-series-b-to-control-advanced-ai-quadrupling-revenue-since-stealth-launch-four-months-ago",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue grew fourfold in the four months since Onyx came out of stealth.",
+    "url": "https://www.onyx.security/press-release/onyx-security-raises-113m-series-b-to-control-advanced-ai-quadrupling-revenue-since-stealth-launch-four-months-ago",
+    "pass": 3
+   },
+   {
+    "quote": "Fortune 500 customers span banking, technology, insurance, and energy.",
+    "url": "https://www.onyx.security/press-release/onyx-security-raises-113m-series-b-to-control-advanced-ai-quadrupling-revenue-since-stealth-launch-four-months-ago",
+    "pass": 3
+   },
+   {
+    "quote": "Onyx Group Revenue 2021: $1.8M, $59.3M Raised",
+    "url": "https://getlatka.com/companies/onyx-group",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, acquisition & funding",
+    "url": "https://getlatka.com/companies/onyx-group",
+    "pass": 3
+   },
+   {
+    "quote": "Onyx Group was acquired by Pulsant.",
+    "url": "https://getlatka.com/companies/onyx-group",
+    "pass": 3
+   },
+   {
+    "quote": "Onyx Group's annual revenue was $1.8M in April 2021, its last figure before Pulsant bought it (source not recorded).",
+    "url": "https://getlatka.com/companies/onyx-group",
+    "pass": 3
+   },
+   {
+    "quote": "Onyx Group CEO, founders & employees",
+    "url": "https://getlatka.com/companies/onyx-group",
+    "pass": 3
+   },
+   {
+    "quote": "Neil Stephenson founded Onyx Group in 1992 and led it as CEO. Onyx Group had 31 employees (April 2021).",
+    "url": "https://getlatka.com/companies/onyx-group",
+    "pass": 3
+   },
+   {
+    "quote": "What was Onyx Group's revenue?",
+    "url": "https://getlatka.com/companies/onyx-group",
+    "pass": 3
+   },
+   {
+    "quote": "Before Pulsant bought it, Onyx Group's annual revenue was",
+    "url": "https://getlatka.com/companies/onyx-group",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Onyx Group have?",
+    "url": "https://getlatka.com/companies/onyx-group",
+    "pass": 3
+   },
+   {
+    "quote": "employees in April 2021.",
+    "url": "https://getlatka.com/companies/onyx-group",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/onyx-group",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/onyx-group",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/onyx-group",
+    "pass": 3
+   },
+   {
+    "quote": "\"Many warriors vanished in search of the legend\"",
+    "url": "https://note.com/cyborgmsx/n/n260b2e0eb338?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The catchphrase \"Many warriors vanished in search of the legend\" is excellent.",
+    "url": "https://note.com/cyborgmsx/n/n260b2e0eb338?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The concept of \"a story where you entrust your emotions to a warrior and help them grow while overcoming impending crises\"",
+    "url": "https://note.com/cyborgmsx/n/n260b2e0eb338?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "All of that remained a mystery. Imagining the reasons while playing and creating your own story... The Black Onyx left behind something like blank space for the player to fill in, rather than a forced narrative.",
+    "url": "https://note.com/cyborgmsx/n/n260b2e0eb338?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I was completely captivated by its fantastical starry sky and gloomy atmosphere. Personal computers at the time had poor expressive power, so a black screen was the standard, but the way it turned that into an advantage was brilliant. I think this point was in contrast to the colorful and vibrant Dragon Quest.",
+    "url": "https://note.com/cyborgmsx/n/n260b2e0eb338?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "IT help: WiFi, LMS access, email, VPN",
+    "url": "https://onyx.app/solutions/education",
+    "pass": 1
+   },
+   {
+    "quote": "Admissions, financial aid, registration, housing — deliver instant, accurate answers instead of phone queues and email backlogs.",
+    "url": "https://onyx.app/solutions/education",
+    "pass": 1
+   },
+   {
+    "quote": "Design rationale, lessons learned, and workaround knowledge are scattered across emails, meeting notes, and slide decks. Onyx makes all of it searchable and citable.",
+    "url": "https://onyx.app/solutions/aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "The team is looking to automate email based support",
+    "url": "https://onyx.app/blog-assets/ramp-case-study.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "basic auth（email/password）",
+    "url": "https://zenn.dev/nekohotaru/articles/onyx-research-memo",
+    "pass": 3
+   },
+   {
+    "quote": "Contact Us About Private Label",
+    "url": "https://onyxcoating.com/private-label/",
+    "pass": 3
+   },
+   {
+    "quote": "If you are interested in our products or keen to work with us, send us a message and we will get in contact with you to schedule a quick call or contact us via our email info@onyxcoating.com",
+    "url": "https://onyxcoating.com/private-label/",
+    "pass": 3
+   },
+   {
+    "quote": "I agree to receive marketing emails, promotional offers and updates from Onyx Coating. I understand I can unsubsribe at anytime.",
+    "url": "https://onyxcoating.com/private-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up for Onyx emails to unlock access to everything we're excited to share - new coffee releases, resources and recipes, exclusive promotions 👀, and more.",
+    "url": "https://onyxcoffeelab.com/pages/wholesale?srsltid=AYCX9vJqwnFgFp3Msgb9JiLKxYEnM0nJN76_Y6I5szfHnUjCthNUceas",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Onyx AIとは｜旧Danswerの企業向けOSS RAG基盤・対応LLMと日本語利用を解説",
+    "url": "https://ai-heartland.com/rag/onyx-dot-apponyx/",
+    "pass": 3
+   },
+   {
+    "quote": "Outbrain、アテンション最大化に向けた新たなブランディング・プラットフォーム「Onyx」の日本導入を発表 | アウトブレインジャパン株式会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000069.000018864.html",
+    "pass": 3
+   },
+   {
+    "quote": "Outbrain、アテンション最大化に向けた新たなブラ��ンディング・プラットフォーム「Onyx」の日本導入を発表",
+    "url": "https://prtimes.jp/main/html/rd/p/000000069.000018864.html",
+    "pass": 3
+   },
+   {
+    "quote": "Teads - Outbrain Japan",
+    "url": "https://prtimes.jp/main/html/rd/p/000000069.000018864.html",
+    "pass": 3
+   },
+   {
+    "quote": "Outbrain Japan株式会社は、2023年11月16日、神田明神ホールにて開催された「Outbain Summit 2023 」の中で、新たなブランディングソリューション「Onyx by Outbrain™」（オニキス、以下 Onyx）の日本市場への導入を発表しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000069.000018864.html",
+    "pass": 3
+   },
+   {
+    "quote": "これにより、ブランド企業や代理店のキャンペーン効果とROAS（広告費用対効果）の向上を目指しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000069.000018864.html",
+    "pass": 3
+   },
+   {
+    "quote": "「Onyxは、広告主にとってOutbrain がフルファネル・マーケティング・パートナーとなるための長期戦略の一環であり、ブランド企業や代理店との更なるビジネス成長を期待しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000069.000018864.html",
+    "pass": 3
+   },
+   {
+    "quote": "Onyx は2023年6月に 北米、英国、ドイツ、フランス、イタリアにて導入されており、今回の日本市場への導入はアジアパシフィックリージョンでは初となります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000069.000018864.html",
+    "pass": 3
+   },
+   {
+    "quote": "会 社 名：Outbrain Japan 株式会社",
+    "url": "https://prtimes.jp/main/html/rd/p/000000069.000018864.html",
+    "pass": 3
+   },
+   {
+    "quote": "所 在 地：東京都渋谷区恵比寿西１丁目２０−５ 恵比寿SAビル 9F",
+    "url": "https://prtimes.jp/main/html/rd/p/000000069.000018864.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都港区赤坂3-1-2",
+    "url": "https://prtimes.jp/main/html/rd/p/000000069.000018864.html",
+    "pass": 3
+   },
+   {
+    "quote": "【医療用PC】Onyx Healthcare社の正規販売代理店｜サンウェイテクノロジー株式会社",
+    "url": "https://www.sunwaytech.co.jp/maker/onyx.html",
+    "pass": 3
+   },
+   {
+    "quote": "Onyxの医療用PCは日本でそのまま医療機器として導入可能ですか？",
+    "url": "https://www.sunwaytech.co.jp/maker/onyx.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本で医療機器として導入するためには薬機法の認証が必要です",
+    "url": "https://www.sunwaytech.co.jp/maker/onyx.html",
+    "pass": 3
+   },
+   {
+    "quote": "それでは、日本国内では海外の認証規格を取得済であることに意味はないのですか？",
+    "url": "https://www.sunwaytech.co.jp/maker/onyx.html",
+    "pass": 3
+   },
+   {
+    "quote": "EN60601-1、EN60601-1-2などの海外規格を取得済の製品は日本での薬機法認証がスムーズになります",
+    "url": "https://www.sunwaytech.co.jp/maker/onyx.html",
+    "pass": 3
+   },
+   {
+    "quote": "「Onyx」の代理店・取扱店 - indexPro",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=5118",
+    "pass": 3
+   },
+   {
+    "quote": "代理店・取扱店の登録、",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=5118",
+    "pass": 3
+   },
+   {
+    "quote": "「Onyx」の代理店・取扱店：4件",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=5118",
+    "pass": 3
+   },
+   {
+    "quote": "〒103-8301 東京都中央区日本橋室町1-2-6 日本橋大栄ビル",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=5118",
+    "pass": 3
+   },
+   {
+    "quote": "〒141-0031 東京都品川区西五反田8-1-10 ヒキタカ五反田ビル 8F",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=5118",
+    "pass": 3
+   },
+   {
+    "quote": "〒113-0033 東京都文京区本郷3-15-9",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=5118",
+    "pass": 3
+   },
+   {
+    "quote": "オンライン販売代理店一覧（1件）",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=5118",
+    "pass": 3
+   },
+   {
+    "quote": "30年以上にわたり、Onyx CenterSourceはコミッション支払いを簡素化するグローバルリーダーとして、世界中の20万以上の旅行代理店と15万以上のホテルから信頼され、すべての取引をより迅速、安全、かつ正確にしています",
+    "url": "https://onyxcentersource.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "管理業務を軽減し、代理店との関係を強化する支払い自動化により、コミッション処理を効率化します",
+    "url": "https://onyxcentersource.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "統合された資金と利益成長に役立つインサイトにより、旅行代理店のコミッション支払いを簡素化します",
+    "url": "https://onyxcentersource.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "代理店が獲得したすべてのコミッションを照合し、回収することを確実にしながら、管理コストを削減します",
+    "url": "https://onyxcentersource.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "世界的なホテルグループから主要な旅行代理店まで、世界で最も認知されているブランドは、支払いを簡素化し、パートナーシップを強化するためにOnyxを信頼しています",
+    "url": "https://onyxcentersource.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "ホテル、代理店、世界の旅行市場の成功を推進",
+    "url": "https://onyxcentersource.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "ホテルと代理店が世界のホスピタリティ市場で成功するための、安全で効率的な決済ソリューション",
+    "url": "https://onyxcentersource.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "効率化された決済ソリューションは、旅行代理店が効率を高め、収益を向上させ、卓越した顧客体験の提供に集中できるように支援します",
+    "url": "https://onyxcentersource.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "Onyxは、ラグジュアリーおよびレジャー代理店がコミッションを簡素化し、ホテルとの強固な関係を維持し、収益を最大化するのに役立ちます",
+    "url": "https://onyxcentersource.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "Onyxは、代理店とのパートナーシップを強化し、管理業務を削減する、安全、正確、かつタイムリーなソリューションで、ホテルコミッション支払いを効率化します",
+    "url": "https://onyxcentersource.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "Onyxは、複数の施設にわたるコミッション管理を簡素化し、正確でタイムリーな支払いとより強固な代理店関係を保証します",
+    "url": "https://onyxcentersource.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "Onyxは、代理店が支払いを効率的に照合し、管理業務を削減し、卓越したイベントの提供に集中できるよう支援します",
+    "url": "https://onyxcentersource.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "ONYX JAPAN オニキスジャパン – Natural Stones and Hard surface coverings(porcelain,ceramic and glass)",
+    "url": "https://onyx-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "楽天市場 | ONYX JAPAN（オニキスジャパン） - 建築建材を扱うショップです",
+    "url": "https://www.rakuten.co.jp/onyx-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "ONYX JAPAN 超強力 両面テープ アクリルフォームタイプ 多用途 屋内・屋外対応",
+    "url": "https://www.rakuten.co.jp/onyx-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "ONYX JAPAN サンディングスポンジ 研磨材 サンドペーパー 5枚セット",
+    "url": "https://www.rakuten.co.jp/onyx-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "ペットボウル フードボウル 大理石 ギフト おしゃれ オーガニック 餌皿 エサ皿 餌入れ エサ入れ 水飲み 水入れ ウォーターボウル おしゃれ 高級 ONYX JAPAN(SMALL-LARGE)",
+    "url": "https://www.rakuten.co.jp/onyx-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "ペットボウル フードボウル 大理石 ギフト おしゃれ オーガニック 餌皿 エサ皿 餌入れ エサ入れ 水飲み 水入れ ウォーターボウル おしゃれ 高級 ONYX JAPAN",
+    "url": "https://www.rakuten.co.jp/onyx-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "ONYX JAPAN PPバンド ディスペンサー 梱包機 業務用 PPバンド バンドストッパー PPバンドリール 手締め",
+    "url": "https://www.rakuten.co.jp/onyx-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "ONYX JAPAN ガラスモザイク 600g, 1800 g 全15色(Sweete Series)エコ ガラス モザイク モザイクガラス ランダム デコレーション DIY",
+    "url": "https://www.rakuten.co.jp/onyx-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "ONYX JAPAN ガラスモザイク 600g, 2400 g 全18色 (Plain+Glitter Series) ガラス モザイク モザイクガラス ランダム デコレーション DIY",
+    "url": "https://www.rakuten.co.jp/onyx-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "ONYX JAPAN サンディングスポンジ 研磨材 サンドペーパー 20枚セット",
+    "url": "https://www.rakuten.co.jp/onyx-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "ONYX JAPAN ガラス ブロック バンク スクエア 透明 中が見える クラフト 貯金箱 コイン ディスプレイ インテリア ギフト",
+    "url": "https://www.rakuten.co.jp/onyx-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Onyx Noir Collection | Japanese Stoneware | Tokyo Design Studio",
+    "url": "https://tokyo-design-studio.com/en/Design-Series/onyx-noir/",
+    "pass": 3
+   },
+   {
+    "quote": "Handmade chopsticks from Japan",
+    "url": "https://tokyo-design-studio.com/en/Design-Series/onyx-noir/",
+    "pass": 3
+   },
+   {
+    "quote": "by Tokyo Design Studio combines premium Japanese stoneware with deep black glazes inspired by the elegance of natural onyx stone. Its sophisticated matte finish and textured surfaces create contemporary tableware that perfectly balances minimalist Japanese aesthetics with exceptional craftsmanship.",
+    "url": "https://tokyo-design-studio.com/en/Design-Series/onyx-noir/",
+    "pass": 3
+   },
+   {
+    "quote": "Whether you're creating a modern dining experience, entertaining guests, or searching for a premium gift, the Onyx Noir Collection delivers authentic Japanese craftsmanship, outstanding quality, and timeless sophistication.",
+    "url": "https://tokyo-design-studio.com/en/Design-Series/onyx-noir/",
+    "pass": 3
+   },
+   {
+    "quote": "Onyx Noir: the Japanese rice bowl for everyday use.",
+    "url": "https://tokyo-design-studio.com/en/Design-Series/onyx-noir/",
+    "pass": 3
+   },
+   {
+    "quote": "Sushi plate Onyx Noir – the long Japanese shape for nigiri, maki and sashimi.",
+    "url": "https://tokyo-design-studio.com/en/Design-Series/onyx-noir/",
+    "pass": 3
+   },
+   {
+    "quote": "Onyx Noir Mermaid – a Japanese sushi set as a gift and for your own table.",
+    "url": "https://tokyo-design-studio.com/en/Design-Series/onyx-noir/",
+    "pass": 3
+   },
+   {
+    "quote": "Onyx Noir: a oval serving platter of Japanese make, for plating and sharing.",
+    "url": "https://tokyo-design-studio.com/en/Design-Series/onyx-noir/",
+    "pass": 3
+   },
+   {
+    "quote": "The Onyx Noir Collection combines premium Japanese stoneware with deep black glazes and textured finishes, creating elegant contemporary tableware.",
+    "url": "https://tokyo-design-studio.com/en/Design-Series/onyx-noir/",
+    "pass": 3
+   },
+   {
+    "quote": "Each piece is crafted from high-quality Japanese stoneware, offering exceptional durability, refined craftsmanship, and long-lasting beauty.",
+    "url": "https://tokyo-design-studio.com/en/Design-Series/onyx-noir/",
+    "pass": 3
+   },
+   {
+    "quote": "It is ideal for lovers of minimalist Japanese tableware, modern dining aesthetics, premium stoneware, and contemporary interior design.",
+    "url": "https://tokyo-design-studio.com/en/Design-Series/onyx-noir/",
+    "pass": 3
+   },
+   {
+    "quote": "Brand: Tokyo Design Studio",
+    "url": "https://tokyo-design-studio.com/en/Design-Series/onyx-noir/",
+    "pass": 3
+   },
+   {
+    "quote": "[Japanese] Scaling up, breaking down: tackling the growing cost of blade failures in modern wind",
+    "url": "https://onyxinsight.com/resources-support/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "My own D&D. The Japanese version of D&D began its rollout in 1985, but it didn't take hold until after Record of Lodoss War was published in the PC magazine Comptiq in 1986.",
+    "url": "https://note.com/cyborgmsx/n/n260b2e0eb338?hl=en",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "permission-sync connectors、user groups & RBAC、Curator role、usage analytics、encrypted secrets、enterprise APIs、hook extensions、whitelabeling、priority support",
+    "url": "https://zenn.dev/nekohotaru/articles/onyx-research-memo",
+    "pass": 3
+   },
+   {
+    "quote": "SSO、group/user ベースの RBAC、source 側 permission inheritance、usage analytics、query history、hook extensions、whitelabeling、encrypted secrets、curator role",
+    "url": "https://zenn.dev/nekohotaru/articles/onyx-research-memo",
+    "pass": 3
+   },
+   {
+    "quote": "Find an ONYX Authorized Reseller Near You - Onyx Graphics",
+    "url": "https://onyxgfx.com/ja/find-a-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Onyx Graphics sells exclusively through a network of authorized resellers. These are print industry specialists who know your local market, speak your language, and provide hands-on support that a direct vendor relationship can't match. With 400+ resellers operating across 100+ countries, there's an Onyx partner close to you.",
+    "url": "https://onyxgfx.com/ja/find-a-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Why Buy Through an Onyx Authorized Reseller?",
+    "url": "https://onyxgfx.com/ja/find-a-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Local support — your reseller knows the hardware brands, substrates, and workflows common in your region",
+    "url": "https://onyxgfx.com/ja/find-a-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Hands-on setup — many Onyx resellers offer on-site installation, configuration, and operator training",
+    "url": "https://onyxgfx.com/ja/find-a-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Ongoing relationship — your reseller is a long-term partner for upgrades, troubleshooting, and business advice",
+    "url": "https://onyxgfx.com/ja/find-a-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer expertise — authorized resellers are trained directly by Onyx Graphics and certified to sell and support the full product line",
+    "url": "https://onyxgfx.com/ja/find-a-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "How Your Onyx Reseller Can Help",
+    "url": "https://onyxgfx.com/ja/find-a-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "When you connect with a local reseller, they can help you:",
+    "url": "https://onyxgfx.com/ja/find-a-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Get Connected With an Authorized Reseller",
+    "url": "https://onyxgfx.com/ja/find-a-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Sold by teeblume UG (haftungsbeschränkt), authorised reseller",
+    "url": "https://tokyo-design-studio.com/en/Design-Series/onyx-noir/",
+    "pass": 3
+   },
+   {
+    "quote": "Finerge unifies monitoring across 5 turbine OEM platforms with fleetMONITOR",
+    "url": "https://onyxinsight.com/resources-support/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "White Labeling - Onyx Documentation",
+    "url": "https://docs.onyx.app/admins/advanced_configs/white_labeling",
+    "pass": 3
+   },
+   {
+    "quote": "White labeling settings are on the",
+    "url": "https://docs.onyx.app/admins/advanced_configs/white_labeling",
+    "pass": 3
+   },
+   {
+    "quote": "Private Label | Onyx Coating",
+    "url": "https://onyxcoating.com/private-label/",
+    "pass": 3
+   },
+   {
+    "quote": "The First 10H & N1 Nano Coating in the world available as a private label.",
+    "url": "https://onyxcoating.com/private-label/",
+    "pass": 3
+   },
+   {
+    "quote": "At ONYX COATIN, we understand that your brand is essential. That’s why we offer the ONYX COATIN Private Label Program. Where we provide our world-class ceramic coating products as private labels to a select group of partners. Our premium quality products with your custom designed labels allow you to build consumer loyalty and increase the value of your brand.",
+    "url": "https://onyxcoating.com/private-label/",
+    "pass": 3
+   },
+   {
+    "quote": "With the ONYX COATIN Private Label Program, you avoid the costs and delays associated with R&D, manufacturing, logistics, and the litany of other things that go into a new product.",
+    "url": "https://onyxcoating.com/private-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Here at ONYX COATIN, we strive to be for vendors of all sizes. For our Private Label Program, we have made it accessible by offering low minimum orders.",
+    "url": "https://onyxcoating.com/private-label/",
+    "pass": 3
+   },
+   {
+    "quote": "We understand that private labels need to be unique to the market to which it is selling. So we offer our specialist product development team to achieve the perfect result.",
+    "url": "https://onyxcoating.com/private-label/",
+    "pass": 3
+   },
+   {
+    "quote": "We believe in supporting our commercial partners to achieve all that they can with ONYX COATIN products. So as a part of this program, we offer bespoke marketing and sales support to get your private label brand where it needs to be. Whether it’s product sheets, promotional flyers, or even digital marketing assets, we’re here to help.",
+    "url": "https://onyxcoating.com/private-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact Us About Private Label",
+    "url": "https://onyxcoating.com/private-label/",
+    "pass": 3
+   },
+   {
+    "quote": "I’m looking for Private Labeling",
+    "url": "https://onyxcoating.com/private-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Find an ONYX Authorized Reseller Near You - Onyx Graphics",
+    "url": "https://onyxgfx.com/find-a-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Onyx Graphics sells exclusively through a network of authorized resellers. These are print industry specialists who know your local market, speak your language, and provide hands-on support that a direct vendor relationship can't match. With 400+ resellers operating across 100+ countries, there's an Onyx partner close to you.",
+    "url": "https://onyxgfx.com/find-a-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Why Buy Through an Onyx Authorized Reseller?",
+    "url": "https://onyxgfx.com/find-a-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Local support — your reseller knows the hardware brands, substrates, and workflows common in your region",
+    "url": "https://onyxgfx.com/find-a-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Hands-on setup — many Onyx resellers offer on-site installation, configuration, and operator training",
+    "url": "https://onyxgfx.com/find-a-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Ongoing relationship — your reseller is a long-term partner for upgrades, troubleshooting, and business advice",
+    "url": "https://onyxgfx.com/find-a-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer expertise — authorized resellers are trained directly by Onyx Graphics and certified to sell and support the full product line",
+    "url": "https://onyxgfx.com/find-a-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "How Your Onyx Reseller Can Help",
+    "url": "https://onyxgfx.com/find-a-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "When you connect with a local reseller, they can help you:",
+    "url": "https://onyxgfx.com/find-a-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Get Connected With an Authorized Reseller",
+    "url": "https://onyxgfx.com/find-a-reseller/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Onyx導入 ガイド：企業向け社内ドキュメントAI検索基盤を ... — Onyx導入 ガイド：企業向け社内ドキュメントAI検索基盤を ... AI Heartland https://ai-heartland.com > RAG & ナレッジシステム",
+    "url": "https://ai-heartland.com/rag/onyx-dot-apponyx/",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Japan 2026に出展 医療AI・Edge AI・モバイル臨床 ... — Medical Japan 2026に出展 医療AI・Edge AI・モバイル臨床 ... Onyx Healthcare Inc. https://www.onyx-healthcare.com > ... > ニュース > 展示会",
+    "url": "https://www.onyx-healthcare.com/ja/news/Medical-JP-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Onyx 徹底調査：OSS AI プラットフォームの機能・仕様・ 導入 ... — Onyx 徹底調査：OSS AI プラットフォームの機能・仕様・ 導入 ... Zenn https://zenn.dev > articles > onyx-research-memo",
+    "url": "https://zenn.dev/nekohotaru/articles/onyx-research-memo",
+    "pass": 3
+   },
+   {
+    "quote": "新型金属3Dプリンター「EOS M4 ONYX 」を発表 — 新型金属3Dプリンター「EOS M4 ONYX 」を発表 株式会社NTTデータザムテクノロジーズ https://www.nttdata-xam.com > ニュース > お知らせ",
+    "url": "https://www.nttdata-xam.com/news/info/article_8416/",
+    "pass": 3
+   },
+   {
+    "quote": "【医療用PC】 Onyx Healthcare社の正規販売 代理店 — 【医療用PC】 Onyx Healthcare社の正規販売 代理店 サンウェイテクノロジー株式会社 https://www.sunwaytech.co.jp > 取扱製品",
+    "url": "https://www.sunwaytech.co.jp/maker/onyx.html",
+    "pass": 3
+   },
+   {
+    "quote": "「 Onyx 」の 代理店 ・取扱店 - indexPro — 「 Onyx 」の 代理店 ・取扱店 - indexPro indexPro https://www.indexpro.co.jp > ... > メーカー名から探す",
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=5118",
+    "pass": 3
+   },
+   {
+    "quote": "ホーム - Onyx CenterSource™ JA — ホーム - Onyx CenterSource™ JA Onyx CenterSource https://onyxcentersource.com > ...",
+    "url": "https://onyxcentersource.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "Find an ONYX Authorized Reseller Near You - Onyx Graphics — Find an ONYX Authorized Reseller Near You - Onyx Graphics Onyx Graphics https://onyxgfx.com > find-a-reseller",
+    "url": "https://onyxgfx.com/ja/find-a-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "パートナー - Onyx CenterSource™ JA — パートナー - Onyx CenterSource™ JA Onyx CenterSource https://onyxcentersource.com > パートナー",
+    "url": "https://onyxcentersource.com/ja/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/",
+    "pass": 3
+   },
+   {
+    "quote": "ONYX JAPAN オニキスジャパン – Natural Stones and Hard ... — ONYX JAPAN オニキスジャパン – Natural Stones and Hard ... onyx-jp.com https://onyx-jp.com",
+    "url": "https://onyx-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ONYX JAPAN （オニキス ジャパン ） - 建築建材を扱うショップ ... — ONYX JAPAN （オニキス ジャパン ） - 建築建材を扱うショップ ... 楽天市場 https://www.rakuten.co.jp > onyx-japan",
+    "url": "https://www.rakuten.co.jp/onyx-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "ONYX JAPAN （オニキス ジャパン ） @ Amazon.co.jp: — ONYX JAPAN （オニキス ジャパン ） @ Amazon.co.jp: amazon.jp https://www.amazon.co.jp > ...",
+    "url": "https://www.amazon.co.jp/s?i=merchant-items&me=A2KNKX1PZ0Z5UV",
+    "pass": 3
+   },
+   {
+    "quote": "Onyx Noir - Japanese Stoneware - Tokyo Design Studio — Onyx Noir - Japanese Stoneware - Tokyo Design Studio Tokyo Design Studio https://tokyo-design-studio.com > on...",
+    "url": "https://tokyo-design-studio.com/en/Design-Series/onyx-noir/",
+    "pass": 3
+   },
+   {
+    "quote": "Onyx Healthcare Establishes Japan Business Headquarters in ... — Onyx Healthcare Establishes Japan Business Headquarters in ... Onyx Healthcare Inc. https://www.onyx-healthcare.com > J...",
+    "url": "https://www.onyx-healthcare.com/pl/news/Japanese-Headquarters-Established",
+    "pass": 3
+   },
+   {
+    "quote": "Ramp relies on Onyx as their AI knowledge platform to support ... — Ramp relies on Onyx as their AI knowledge platform to support ... Onyx AI PDF https://onyx.app > blog-assets > ramp-case-study",
+    "url": "https://onyx.app/blog-assets/ramp-case-study.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies from ONYX Insight — Case Studies from ONYX Insight ONYX Insight https://onyxinsight.com > case-studies",
+    "url": "https://onyxinsight.com/resources-support/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Microsoft Fabric & AI Customer Results - Onyx Data — Microsoft Fabric & AI Customer Results - Onyx Data Onyx Data https://onyxdata.co.uk > results",
+    "url": "https://onyxdata.co.uk/results/",
+    "pass": 3
+   },
+   {
+    "quote": "White Labeling - Onyx Documentation — White Labeling - Onyx Documentation Onyx Documentation https://docs.onyx.app > white_labeling",
+    "url": "https://docs.onyx.app/admins/advanced_configs/white_labeling",
+    "pass": 3
+   },
+   {
+    "quote": "Private Label - Onyx Coating — Private Label - Onyx Coating Onyx Coating https://onyxcoating.com > private-label",
+    "url": "https://onyxcoating.com/private-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Wholesale - Onyx Coffee Lab — Wholesale - Onyx Coffee Lab Onyx Coffee Lab https://onyxcoffeelab.com > wholesale",
+    "url": "https://onyxcoffeelab.com/pages/wholesale?srsltid=AYCX9vJqwnFgFp3Msgb9JiLKxYEnM0nJN76_Y6I5szfHnUjCthNUceas",
+    "pass": 3
+   },
+   {
+    "quote": "Find an ONYX Authorized Reseller Near You - Onyx Graphics — Find an ONYX Authorized Reseller Near You - Onyx Graphics Onyx Graphics https://onyxgfx.com > find-a-reseller",
+    "url": "https://onyxgfx.com/find-a-reseller/",
+    "pass": 3
+   },
+   {
+    "quote": "Onyx Technologies's Competitors, Revenue , Number ... - Owler — Onyx Technologies's Competitors, Revenue , Number ... - Owler Owler https://www.owler.com > company",
+    "url": "https://www.owler.com/company/onyxtechnologies",
+    "pass": 3
+   },
+   {
+    "quote": "Onyx Security Raises $113M Series B to Control Advanced AI — Onyx Security Raises $113M Series B to Control Advanced AI onyx.security https://www.onyx.security > onyx-sec...",
+    "url": "https://www.onyx.security/press-release/onyx-security-raises-113m-series-b-to-control-advanced-ai-quadrupling-revenue-since-stealth-launch-four-months-ago",
+    "pass": 3
+   },
+   {
+    "quote": "Onyx Group Revenue 2021: $1.8M, $59.3M Raised - GetLatka — Onyx Group Revenue 2021: $1.8M, $59.3M Raised - GetLatka GetLatka https://getlatka.com > onyx-group",
+    "url": "https://getlatka.com/companies/onyx-group",
+    "pass": 3
+   },
+   {
+    "quote": "Onyx raises $113M Series B at $640M valuation four months ... — Onyx raises $113M Series B at $640M valuation four months ... Dealroom https://dealroom.co > news > 141979-...",
+    "url": "https://dealroom.co/news/141979-onyx-raises-113m-series-b-at-640m-valuation-four-months-after-leaving-st/",
+    "pass": 3
+   },
+   {
+    "quote": "Onyx Group - 2026 Company Profile - Tracxn — Onyx Group - 2026 Company Profile - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/onyx-group/__urmyyusj3ciP2VI2xlOJmxhT0ILs4TsT0adiO-gZ6cQ",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Onyx Marble at Hotel New Akao｜m.motoda - note Onyx Marble at Hotel New Akao｜m.motoda - note note https://note.com > ... > 建築",
+    "url": "https://note.com/m_motoda/n/n87c09152b7f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Onyx Production Notes | A Stone Holding the Black of the Abyss Onyx Production Notes | A Stone Holding the Black of the Abyss note https://note.com > アート・デザイン > 3DCG",
+    "url": "https://note.com/tagashiya/n/nf4db5c3dae23?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Black Onyx ① The Greatest Mystery for PC Kids - note The Black Onyx ① The Greatest Mystery for PC Kids - note note https://note.com > ゲーム > RPG (ロールプレイングゲーム)",
+    "url": "https://note.com/cyborgmsx/n/n260b2e0eb338?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Onyx Marble at Hotel New Akao｜m.motoda｜素材渉猟記",
+    "url": "https://note.com/m_motoda/n/n87c09152b7f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/m_motoda/n/n87c09152b7f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Onyx Marble at Hotel New Akao",
+    "url": "https://note.com/m_motoda/n/n87c09152b7f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On the 15th floor of the Hotel New Akao Main Building (now Ocean Wing), a long-established resort hotel in Atami that was recently renovated, there is a multi-purpose hall called \"Salon de Kinrin.\"",
+    "url": "https://note.com/m_motoda/n/n87c09152b7f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Hotel New Akao: Completed/1972, Design/Inaba Choji Architectural Office, Construction/Shimizu Corporation, Renovated/2023. It seems Salon de Kinrin was once used as a dance hall.",
+    "url": "https://note.com/m_motoda/n/n87c09152b7f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Upon entering the room, one is struck by the vivid blue colonnade finished in stone that stands before the panoramic ocean view.",
+    "url": "https://note.com/m_motoda/n/n87c09152b7f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The classical glamour befitting a social venue and the exhilarating feeling of being open to Sagami Bay on three sides. I imagine that the design, which likens luxurious stone to the sea and sky, was intended to reconcile these different requirements arising from the purpose and location.",
+    "url": "https://note.com/m_motoda/n/n87c09152b7f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The colonnade of Salon de Kinrin.",
+    "url": "https://note.com/m_motoda/n/n87c09152b7f0?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Onyx Production Notes | A Stone Holding the Black of the Abyss｜たがし屋",
+    "url": "https://note.com/tagashiya/n/nf4db5c3dae23?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/tagashiya/n/nf4db5c3dae23?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Onyx Production Notes | A Stone Holding the Black of the Abyss",
+    "url": "https://note.com/tagashiya/n/nf4db5c3dae23?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Onyx, with its flowing striped patterns within jet black.",
+    "url": "https://note.com/tagashiya/n/nf4db5c3dae23?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "We will recreate this stone, which has been considered a symbol of protection and determination since ancient times, in Blender.",
+    "url": "https://note.com/tagashiya/n/nf4db5c3dae23?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, I will explain the node configuration to express the deep black texture and natural striped patterns.",
+    "url": "https://note.com/tagashiya/n/nf4db5c3dae23?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Even beginners can recreate this by following the steps, so please give it a try.",
+    "url": "https://note.com/tagashiya/n/nf4db5c3dae23?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Click here for the video",
+    "url": "https://note.com/tagashiya/n/nf4db5c3dae23?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Black Onyx ① The Greatest Mystery for PC Kids: Iroikkaizutsu｜サイボーグMSX",
+    "url": "https://note.com/cyborgmsx/n/n260b2e0eb338?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/cyborgmsx/n/n260b2e0eb338?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Black Onyx ① The Greatest Mystery for PC Kids: Iroikkaizutsu",
+    "url": "https://note.com/cyborgmsx/n/n260b2e0eb338?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"Iroikkaizutsu\"—if you feel a shiver down your spine at that word, you are definitely a former PC kid. The synonym for early fantasy RPGs,",
+    "url": "https://note.com/cyborgmsx/n/n260b2e0eb338?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", captivated many PC kids. Its one and greatest mystery was this color maze.",
+    "url": "https://note.com/cyborgmsx/n/n260b2e0eb338?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"Many warriors vanished in search of the legend\"",
+    "url": "https://note.com/cyborgmsx/n/n260b2e0eb338?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "As the catchphrase suggests, while many adventurers took on the challenge, only a few brave souls obtained the ONYX. This is the story of the young heroes who threw themselves into this labyrinth filled with illusions.",
+    "url": "https://note.com/cyborgmsx/n/n260b2e0eb338?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "❶ Scenes from the Dawn of Fantasy RPGs",
+    "url": "https://note.com/cyborgmsx/n/n260b2e0eb338?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Onyx Onyx X https://x.com > Onyx",
+    "url": "https://x.com/Onyx",
+    "pass": 3
+   },
+   {
+    "quote": "Onyx Odds (@OnyxOdds) / X Onyx Odds (@OnyxOdds) / X X https://x.com > OnyxOdds",
+    "url": "https://x.com/OnyxOdds",
+    "pass": 3
+   },
+   {
+    "quote": "Onyx Graphics (@onyxgraphics) / X Onyx Graphics (@onyxgraphics) / X X https://x.com > onyxgraphics",
+    "url": "https://x.com/onyxgraphics",
+    "pass": 3
+   },
+   {
+    "quote": "ONYX ((Log out • Arts on )) (@Onyx_Superbia) / X ONYX ((Log out • Arts on )) (@Onyx_Superbia) / X X https://x.com > Onyx_Superbia",
+    "url": "https://x.com/Onyx_Superbia",
+    "pass": 3
+   },
+   {
+    "quote": "onyx (@princess_onyx) / X onyx (@princess_onyx) / X X https://x.com > princess_onyx",
+    "url": "https://x.com/princess_onyx",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Onyx Security | LinkedIn Onyx Security | LinkedIn LinkedIn https://www.linkedin.com > onyx-sec",
+    "url": "https://www.linkedin.com/company/onyx-sec",
+    "pass": 3
+   },
+   {
+    "quote": "Onyx - LinkedIn Onyx - LinkedIn LinkedIn https://www.linkedin.com > onyxhealth",
+    "url": "https://www.linkedin.com/company/onyxhealth",
+    "pass": 3
+   },
+   {
+    "quote": "Onyx Odds - LinkedIn Onyx Odds - LinkedIn LinkedIn https://www.linkedin.com > onyxodds",
+    "url": "https://www.linkedin.com/company/onyxodds",
+    "pass": 3
+   },
+   {
+    "quote": "Onyx Platform - LinkedIn Onyx Platform - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/onyxplatform",
+    "pass": 3
+   },
+   {
+    "quote": "Kim Dan-Yuting - CEO at Onyx International Inc. | LinkedIn Kim Dan-Yuting - CEO at Onyx International Inc. | LinkedIn LinkedIn https://cn.linkedin.com > kimd1",
+    "url": "https://cn.linkedin.com/in/kimd1/da",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "ONYX (@onyxhq) - Facebook ONYX (@onyxhq) - Facebook Facebook https://www.facebook.com > ... > Musician/band",
+    "url": "https://www.facebook.com/onyxhq/",
+    "pass": 3
+   },
+   {
+    "quote": "ONYX Magazine | Orlando FL - Facebook ONYX Magazine | Orlando FL - Facebook Facebook https://www.facebook.com > onyxmag",
+    "url": "https://www.facebook.com/onyxmag/",
+    "pass": 3
+   },
+   {
+    "quote": "Onyx | Wichita KS - Facebook Onyx | Wichita KS - Facebook Facebook https://www.facebook.com > onyxwichita",
+    "url": "https://www.facebook.com/onyxwichita/",
+    "pass": 3
+   },
+   {
+    "quote": "Onyx Restaurant | Fairmont WV - Facebook Onyx Restaurant | Fairmont WV - Facebook Facebook https://www.facebook.com > ... > Restaurant",
+    "url": "https://www.facebook.com/p/Onyx-Restaurant-61565158894159/",
+    "pass": 3
+   },
+   {
+    "quote": "ONYX (@onyxhq) - Facebook ONYX (@onyxhq) - Facebook Facebook https://www.facebook.com > ... > ミュージシャン/バンド",
+    "url": "https://www.facebook.com/onyxhq/?locale=ja_JP",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://onyx.app/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onyx.app/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onyx.app/blog-assets/ramp-case-study",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://onyx.app/solutions/secure-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onyx.app/solutions/education",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onyx.app/solutions/aerospace",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onyx.app/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onyx.app/about",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://onyx.app/blog-assets/ramp-case-study.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://onyx.app/_next/image?url=%2Flogos%2Fcompact%2FServiceNow.webp&w=640&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://onyx.app/logos/onyx/onyx-black-logo.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://onyx.app/logos/compact/OpenClaw.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://onyx.app/logos/compact/OpenAI.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ai-heartland.com/rag/onyx-dot-apponyx/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onyx-healthcare.com/ja/news/Medical-JP-2026",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://zenn.dev/nekohotaru/articles/onyx-research-memo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000069.000018864.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sunwaytech.co.jp/maker/onyx.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=5118",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onyxcentersource.com/ja/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onyxgfx.com/ja/find-a-reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onyx-jp.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rakuten.co.jp/onyx-japan/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.amazon.co.jp/s?i=merchant-items&me=A2KNKX1PZ0Z5UV",
+    "status": "http_503",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyo-design-studio.com/en/Design-Series/onyx-noir/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onyxinsight.com/resources-support/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onyxdata.co.uk/results/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.onyx.app/admins/advanced_configs/white_labeling",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onyxcoating.com/private-label/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onyxcoffeelab.com/pages/wholesale?srsltid=AYCX9vJqwnFgFp3Msgb9JiLKxYEnM0nJN76_Y6I5szfHnUjCthNUceas",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://onyxgfx.com/find-a-reseller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.owler.com/company/onyxtechnologies",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onyx.security/press-release/onyx-security-raises-113m-series-b-to-control-advanced-ai-quadrupling-revenue-since-stealth-launch-four-months-ago",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/onyx-group",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dealroom.co/news/141979-onyx-raises-113m-series-b-at-640m-valuation-four-months-after-leaving-st/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/m_motoda/n/n87c09152b7f0?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tagashiya/n/nf4db5c3dae23?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/cyborgmsx/n/n260b2e0eb338?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Onyx",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OnyxOdds",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/onyxgraphics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Onyx_Superbia",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/onyx-sec",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/onyxhealth",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/onyxodds",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/onyxplatform",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/onyxhq/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/onyxmag/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/onyxwichita/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Onyx-Restaurant-61565158894159/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cn.linkedin.com/in/kimd1/da",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/princess_onyx",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/onyxhq/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Onyx 日本 導入",
+   "results": [
+    "https://ai-heartland.com/rag/onyx-dot-apponyx/",
+    "https://www.onyx-healthcare.com/ja/news/Medical-JP-2026",
+    "https://zenn.dev/nekohotaru/articles/onyx-research-memo",
+    "https://prtimes.jp/main/html/rd/p/000000069.000018864.html",
+    "https://www.nttdata-xam.com/news/info/article_8416/",
+    "https://3dprinter.co.jp/product/markforged/markforged-material/onyx/",
+    "https://www.youtube.com/watch?v=4Uq7epTrebg",
+    "https://onyxhield.jp/training/",
+    "https://onix.jp/",
+    "https://onyx-jp.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Onyx 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.sunwaytech.co.jp/maker/onyx.html",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=5118",
+    "https://onyxcentersource.com/ja/",
+    "https://onyxgfx.com/ja/find-a-reseller/",
+    "https://onyxcentersource.com/ja/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/",
+    "https://musinltd.com/News/631.html",
+    "https://www.onyx-studio.jp/",
+    "https://onyxrc.co.jp/?page_id=141",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Onyx Japan",
+   "results": [
+    "https://onyx-jp.com/",
+    "https://www.rakuten.co.jp/onyx-japan/",
+    "https://www.amazon.co.jp/s?i=merchant-items&me=A2KNKX1PZ0Z5UV",
+    "https://tokyo-design-studio.com/en/Design-Series/onyx-noir/",
+    "https://www.onyx-healthcare.com/pl/news/Japanese-Headquarters-Established",
+    "https://www.stoneadd.com/ONYX-JAPAN-Co-Ltd-BB12830",
+    "https://www.facebook.com/onyxjapan/about/",
+    "https://www.instagram.com/explore/locations/102730641524507/onyx-japan/",
+    "https://ja.wikipedia.org/wiki/ONE_JAPAN_KANSAI",
+    "https://onyxjapan.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Onyx manufacturing customer case study",
+   "results": [
+    "https://onyx.app/blog-assets/ramp-case-study.pdf",
+    "https://markforged.com/resources/case-studies",
+    "https://onyxinsight.com/resources-support/case-studies/",
+    "https://onyxdata.co.uk/results/",
+    "https://www.eos.info/industries/customer-success-stories",
+    "https://www.casecracker.com/case-studies-and-reviews/",
+    "https://www.linkedin.com/posts/morph-sys_ai-agents-and-ontologies-create-a-new-operational-activity-7366030757208748033-jmaw",
+    "https://www.nice.com/blog/4-case-studies-that-prove-the-value-of-using-the-best-customer-experience-software",
+    "https://onyx.app/blog?category=case-study",
+    "https://www.casestudies.com/company/onyx"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Onyx white label OR reseller OR partner program",
+   "results": [
+    "https://docs.onyx.app/admins/advanced_configs/white_labeling",
+    "https://onyxcoating.com/private-label/",
+    "https://onyxcoffeelab.com/pages/wholesale?srsltid=AYCX9vJqwnFgFp3Msgb9JiLKxYEnM0nJN76_Y6I5szfHnUjCthNUceas",
+    "https://onyxgfx.com/find-a-reseller/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.youtube.com/watch?v=0j22JYl44z4",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "https://kannect.co/partner/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Onyx founded funding employees revenue",
+   "results": [
+    "https://www.owler.com/company/onyxtechnologies",
+    "https://www.onyx.security/press-release/onyx-security-raises-113m-series-b-to-control-advanced-ai-quadrupling-revenue-since-stealth-launch-four-months-ago",
+    "https://getlatka.com/companies/onyx-group",
+    "https://dealroom.co/news/141979-onyx-raises-113m-series-b-at-640m-valuation-four-months-after-leaving-st/",
+    "https://tracxn.com/d/companies/onyx-group/__urmyyusj3ciP2VI2xlOJmxhT0ILs4TsT0adiO-gZ6cQ",
+    "https://finance.yahoo.com/technology/ai/articles/onyx-security-raises-113m-series-210500945.html",
+    "https://www.linkedin.com/posts/tech-funding-news_onyx-lands-10m-to-build-ai-powered-247-activity-7306223240362795008-59SF",
+    "https://www.reveliolabs.com/companies/onyx-health/employees",
+    "https://onyxiq.com/about-us",
+    "https://compworth.com/company/onyxhealthio"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Onyx",
+   "results": [
+    "https://note.com/m_motoda/n/n87c09152b7f0?hl=en",
+    "https://note.com/tagashiya/n/nf4db5c3dae23?hl=en",
+    "https://note.com/cyborgmsx/n/n260b2e0eb338?hl=en",
+    "https://note.com/calm_cram_club/n/nc4576741844e?hl=en",
+    "https://note.com/hoge128_itotsum/n/nb5162d27339a?hl=en",
+    "https://note.com/ddz_note/n/nc8ec6f63db67",
+    "https://note.com/shiva_id/n/n074c100d7659",
+    "https://note.com/makoto_kinogami/n/n0d581f8c799b?hl=en",
+    "https://note.com/calm_cram_club/n/n5879a1f21f41?hl=en",
+    "https://note.com/eiji71/n/n013d114dbfd8"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Onyx",
+   "results": [
+    "https://x.com/Onyx",
+    "https://x.com/OnyxOdds",
+    "https://x.com/onyxgraphics",
+    "https://x.com/Onyx_Superbia",
+    "https://x.com/OnyxCollective",
+    "https://x.com/Onyx_Authentic",
+    "https://x.com/Onyx__Unleashed",
+    "https://x.com/princess_onyx",
+    "https://x.com/Onyxly",
+    "https://x.com/_onikisuu"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Onyx",
+   "results": [
+    "https://www.linkedin.com/company/onyx-sec",
+    "https://www.linkedin.com/company/onyxhealth",
+    "https://www.linkedin.com/company/onyxodds",
+    "https://www.linkedin.com/company/onyxplatform",
+    "https://www.linkedin.com/company/onyxbio",
+    "https://www.linkedin.com/company/theonyxagency",
+    "https://www.linkedin.com/company/onyx-healthcare-usa-inc",
+    "https://www.linkedin.com/company/onyxcorporation",
+    "https://www.linkedin.com/products/krystal-hosting-onyx/",
+    "https://www.linkedin.com/company/onyxcreative"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com Onyx",
+   "results": [
+    "https://www.facebook.com/onyxhq/",
+    "https://www.facebook.com/onyxmag/",
+    "https://www.facebook.com/onyxwichita/",
+    "https://www.facebook.com/p/Onyx-Restaurant-61565158894159/",
+    "https://www.facebook.com/groups/onyxaf/",
+    "https://www.facebook.com/onyxcorporation/",
+    "https://www.facebook.com/onyxmotorbikes/",
+    "https://www.facebook.com/OnyxRacingProducts/",
+    "https://www.facebook.com/HouseofOnyx/",
+    "https://www.facebook.com/onyxbkk/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Onyx note 社長",
+   "results": [
+    "https://onyxboox.com/boox_note",
+    "https://en.wikipedia.org/wiki/Onyx_Boox",
+    "https://sktgroup.co.jp/boox-note/",
+    "https://cn.linkedin.com/in/kimd1/da",
+    "https://www.reddit.com/r/Onyx_Boox/comments/1jikbur/note_max_review/?tl=ja",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/makoto_kinogami/n/n0d581f8c799b",
+    "https://nesslabs.com/boox-featured-tool",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Onyx X 投稿",
+   "results": [
+    "https://x.com/princess_onyx",
+    "https://www.facebook.com/onyxhq/?locale=ja_JP",
+    "https://www.instagram.com/x.onyx.x/",
+    "https://onyxodds.com/",
+    "https://www.youtube.com/watch?v=iiqAguQOzis",
+    "https://www.reddit.com/r/Onyx_Boox/comments/15kd9ei/experience_of_using_twitter_on_boox_devices/?tl=ja",
+    "https://cloud.onyx.app/",
+    "https://linktr.ee/Onyx67",
+    "https://x.com/________onyx",
+    "https://x.com/onyx"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式8頁／PDF・画像5件／外部41頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式8頁／PDF・画像5件／外部41頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式8頁／PDF・画像5件／外部41頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式8頁／PDF・画像5件／外部41頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式8頁／PDF・画像5件／外部41頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式8頁／PDF・画像5件／外部41頁・検索12回）"
+ }
+}

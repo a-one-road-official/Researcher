@@ -1,0 +1,314 @@
+{
+ "name": "熱田起業株式会社 本社",
+ "aliases": [],
+ "context": "ipros_all:小ロット",
+ "researched_at": "2026-11-11T13:38:10.290075+00:00",
+ "official_url": "http://atsuta-kigyo.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒454-0836 名古屋市中川区福船町四丁目１番地の１",
+    "url": "https://atsuta-kigyo.co.jp/profile",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "中嶋正行",
+    "url": "https://atsuta-kigyo.co.jp/profile",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "36名",
+    "url": "https://atsuta-kigyo.co.jp/profile",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "取引先銀行",
+    "value": "りそな銀行 赤門通支店三菱UFJ銀行 六番町支店七十七銀行 名古屋支店十六銀行 中川支店愛知銀行 昭和橋支店",
+    "url": "https://atsuta-kigyo.co.jp/profile",
+    "pass": 1
+   },
+   {
+    "label": "主要取引先（順不同）",
+    "value": "三菱重工業株式会社 名古屋航空宇宙システム製作所 名古屋誘導推進システム製作所 株式会社青山製作所 株式会社ノリタケカンパニーリミテド 株式会社放電精密加工研究所 他",
+    "url": "https://atsuta-kigyo.co.jp/profile",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "営業品目",
+    "value": "試作・開発品関連(取り扱い項目) 3Ｄプリンタ造形、板金、放電、EBW（電子ビーム溶接）等各種溶接 材料試験、リークテスト等各種試験、各種表面処理、各種機械加工、など 航空宇宙関連 航空宇宙機器部品製造、機械加工用冶具製造・組立て 三菱重工業（名航）治工具標準部品製造販売 など 一般産業関連 治工具部品、産業機械・専用機械部品、医療機部品、車・バイク部品 など",
+    "url": "https://atsuta-kigyo.co.jp/profile",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "製品分野": [
+   {
+    "quote": "インコネルなどの精密部品加工 | 航空宇宙機器部品製造 | 熱田起業株式会社",
+    "url": "https://atsuta-kigyo.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "60 年以上にわたり、航空宇宙産業に携わり培ってきた知見を大切にしつつも、胡坐をかくことなく 常に挑戦し続けなければ、企業は決して継続、発展できないと考えております",
+    "url": "https://atsuta-kigyo.co.jp/profile",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙機器部品製造、機械加工用冶具製造・組立て",
+    "url": "https://atsuta-kigyo.co.jp/profile",
+    "pass": 1
+   },
+   {
+    "quote": "治工具部品、産業機械・専用機械部品、医療機部品、車・バイク部品 など",
+    "url": "https://atsuta-kigyo.co.jp/profile",
+    "pass": 1
+   },
+   {
+    "quote": "アジア No.1 航空宇宙産業クラスター企業登録",
+    "url": "https://atsuta-kigyo.co.jp/profile",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙防衛機器用金属部品及び治工具用金属部品の製造(適用除外:8.3 設計・開発)",
+    "url": "https://atsuta-kigyo.co.jp/profile",
+    "pass": 1
+   },
+   {
+    "quote": "熱田起業株式会社は1954年の創業以来、航空宇宙機器を中心とした精密部品の切削加工を行ってきました",
+    "url": "https://atsuta-kigyo.co.jp/recruit",
+    "pass": 1
+   },
+   {
+    "quote": "航空機部品のバリ取り、手仕上げ作業等",
+    "url": "https://atsuta-kigyo.co.jp/recruit",
+    "pass": 1
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "インコネル、チタン、ハステロイ、 ワスパロイ、モリブデン、SUS347 等",
+    "url": "https://atsuta-kigyo.co.jp/profile",
+    "pass": 1
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "3Ｄプリンタ造形、板金、放電、EBW（電子ビーム溶接）等各種溶接",
+    "url": "https://atsuta-kigyo.co.jp/profile",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://atsuta-kigyo.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://atsuta-kigyo.co.jp/profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://atsuta-kigyo.co.jp/equipment",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://atsuta-kigyo.co.jp/recruit",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://eht.co.jp/small-lot/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://atsuta-kigyo.i14.bcart.jp/corporate.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/8180001021458",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.nc-net.or.jp/company/91857/inquiry/input/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "熱田起業 本社 取扱製品 試作 小ロット",
+   "results": [
+    "http://atsuta-kigyo.co.jp/",
+    "http://atsuta-kigyo.co.jp/profile",
+    "https://eht.co.jp/small-lot/",
+    "http://www.zen.co.jp/",
+    "https://www.u-topia.co.jp/products/low-volume-series.html",
+    "https://oripra.com/",
+    "https://www.narita.co.jp/company/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "熱田起業 本社 会社概要 事業内容",
+   "results": [
+    "http://atsuta-kigyo.co.jp/",
+    "https://atsuta-kigyo.i14.bcart.jp/corporate.php",
+    "https://compalyze.co.jp/company/8180001021458",
+    "https://gi-nagoya.idcn.jp/companies/1397.html",
+    "http://atsuta-kigyo.co.jp/profile",
+    "https://compalyze.co.jp/company/5180001024018",
+    "https://atsutashoten.co.jp/about/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "熱田起業 本社 お問い合わせ メール",
+   "results": [
+    "https://atsuta-kigyo.co.jp/contact",
+    "https://ja.nc-net.or.jp/company/91857/inquiry/",
+    "http://atsuta-kigyo.co.jp/",
+    "https://atsuta-kigyo.i14.bcart.jp/contact.php",
+    "https://atsuta-kigyo.com/contact/",
+    "https://atsuta-kigyo.i14.bcart.jp/corporate.php",
+    "http://www.atsutashizai.co.jp/contact.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 熱田起業 本社",
+   "results": [
+    "https://note.com/hrs5758d/n/ncf33f234cee4",
+    "https://note.com/sankituushin/n/na084d14bc27f",
+    "https://note.com/citypod_nagoya/n/nf2196db8d49b",
+    "https://tales.note.com/hirono3",
+    "https://note.com/gogo_labo/n/nb3932e99d22a",
+    "https://note.com/jimotocareer/n/n196ab716f558",
+    "https://note.com/mallmeguri/n/n3775e7bed619"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 熱田起業 本社",
+   "results": [
+    "https://x.com/ohmura_hideaki/status/1627905892074258436",
+    "https://x.com/asamiya_re/status/2032318671381807542",
+    "https://x.com/nikkeinagoya/status/2032190273447747976",
+    "https://x.com/saitoshika_west/status/2042870365773533562",
+    "https://x.com/newmohq/status/2118517591581041087",
+    "https://x.com/takasue_co/status/1798992222656049441",
+    "https://x.com/Yuki_Dplus/status/2043546864847585447"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 熱田起業 本社",
+   "results": [
+    "https://www.linkedin.com/in/hiroshi-kobayashi-4b1b002",
+    "https://vn.linkedin.com/in/akiyoshi-takenaka/en",
+    "https://jp.linkedin.com/company/三立興産（株）",
+    "https://jp.linkedin.com/company/（株）イノアック住環境",
+    "https://www.linkedin.com/in/yuya-masuda-458485370",
+    "https://ro.linkedin.com/jobs/view/【bar】コミュニティマネージャー-at-株式会社diverse-4431359699",
+    "https://bh.linkedin.com/in/deena-alansari-528248225"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 熱田起業 本社",
+   "results": [
+    "https://www.facebook.com/熱田起業株式会社-261523073972351/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/atsutaminatorinri/",
+    "https://www.facebook.com/cbp.headoffice/",
+    "https://www.facebook.com/dai.atsuta/",
+    "https://www.facebook.com/eneq.jp/",
+    "https://www.facebook.com/nikkei/videos/三菱スペースジェットの部品サプライヤーが酒器製造に活路を見いだしています名古屋市の熱田起業はジュラルミンを削り出し厚さ06ミリの飲み口を実現高い技術力をアピール/946890359765560/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "熱田起業 本社 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://atsuta-kigyo.co.jp/blog/item/77",
+    "https://compalyze.co.jp/company/8180001021458",
+    "http://atsuta-kigyo.co.jp/profile",
+    "https://note.com/stratedge_ota",
+    "https://note.com/citypod_nagoya/n/nf2196db8d49b",
+    "https://www.mtg.gr.jp/news/detail/2026/04/article_2527.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "熱田起業 本社 X 投稿",
+   "results": [
+    "http://atsuta-kigyo.co.jp/profile",
+    "http://atsuta-kigyo.co.jp/",
+    "https://www.instagram.com/atsutagram3909/",
+    "https://x.com/fukuda_CEO/status/2120424403049804196",
+    "https://x.com/saitoshika_west/status/2042870365773533562",
+    "https://yume-sakae.com/2026/11/09/劇団四季の新劇場と並ぶ注目の新拠点！熱田「mtg/",
+    "https://www.mtg.gr.jp/news/detail/2025/07/article_2379.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部4頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部4頁・検索9回）",
+  "取扱製品": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部4頁・検索9回）",
+  "一点物・少量多品種": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部4頁・検索9回）",
+  "連絡先": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部4頁・検索9回）"
+ }
+}

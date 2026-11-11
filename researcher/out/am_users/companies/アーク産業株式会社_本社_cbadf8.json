@@ -1,0 +1,323 @@
+{
+ "name": "アーク産業株式会社 本社",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T13:21:24.124042+00:00",
+ "official_url": "http://www.arksangyo.co.jp",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "AM関連": [
+   {
+    "quote": "�@��232-0014 �_�ސ쌧���l�s���g�쒬2-5 SOUTH LINE YOKOHAMA 2F",
+    "url": "https://www.arksangyo.co.jp/co.html",
+    "pass": 1
+   },
+   {
+    "quote": "ARK SANGYO VIETNAM CO., LTD",
+    "url": "https://www.arksangyo.co.jp/co.html",
+    "pass": 1
+   },
+   {
+    "quote": "Dich Vong Hau Ward, Cau Giay District, Hanoi, Vietnam",
+    "url": "https://www.arksangyo.co.jp/co.html",
+    "pass": 1
+   },
+   {
+    "quote": "��232�|0014�@�_�ސ쌧���l�s���g�쒬�Q�|�T�@SOUTH LINE YOKOHAMA 2F",
+    "url": "https://www.arksangyo.co.jp/co.html",
+    "pass": 1
+   },
+   {
+    "quote": "�w�E�P�ԏo�����ɐ����ؒ������֐i�݁A�g�쒬�P���ڌ����_��O�ŉE���́uSOUTH LINE YOKOHAMA�v2�e",
+    "url": "https://www.arksangyo.co.jp/co.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動車部品検査用ゲージ、治具(Head_Lamp、Car_Navi)、 医療器具、ETC",
+    "url": "https://www.arksangyo.co.jp/eigyo.html",
+    "pass": 1
+   },
+   {
+    "quote": "〒232−0014 神奈川県横浜市南区吉野町２-５ SOUTH LINE YOKOHAMA 2F",
+    "url": "https://www.arksangyo.co.jp/info.html",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "�@E-mail : info@arksangyo.co.jp",
+    "url": "https://www.arksangyo.co.jp/co.html",
+    "pass": 1
+   },
+   {
+    "quote": "E-mail : info@arksangyo.co.jp",
+    "url": "https://www.arksangyo.co.jp/co.html",
+    "pass": 1
+   },
+   {
+    "quote": "下記の必要項目ををご記入の上、Eメール 又は FAX にてお問合わせを御願い致します",
+    "url": "https://www.arksangyo.co.jp/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "3.Email",
+    "url": "https://www.arksangyo.co.jp/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "→E-mail : info@arksangyo.co.jp",
+    "url": "https://www.arksangyo.co.jp/info.html",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "検討用試作モデル、研究用開発部品等、ETC",
+    "url": "https://www.arksangyo.co.jp/eigyo.html",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "自動車部品検査用ゲージ、治具(Head_Lamp、Car_Navi)、 医療器具、ETC",
+    "url": "https://www.arksangyo.co.jp/eigyo.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動車関連、電気・通信関連、IT関連、食品関連、ETC",
+    "url": "https://www.arksangyo.co.jp/eigyo.html",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.arksangyo.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.arksangyo.co.jp/co.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.arksangyo.co.jp/eigyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.arksangyo.co.jp/info.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/product/detail/2001531776/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arknw.co.jp/%E7%A9%BA%E8%8A%AF%E3%82%B3%E3%82%A4%E3%83%AB%E8%A9%A6%E4%BD%9C%E3%83%BB%E5%B0%8F%E3%83%AD%E3%83%83%E3%83%88%E8%A3%BD%E4%BD%9C%EF%BC%88%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E5%AF%BE%E5%BF%9C%EF%BC%89/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arksangyo.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arksangyo.co.jp/co.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.arkgroup.jp/aboutus/co_info",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.arkgroup.jp/service",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://arksangyo.co.jp/info.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.arrk.com/contactform/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ark.st/contact/index.php",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "アーク産業 本社 取扱製品 試作 小ロット",
+   "results": [
+    "https://mono.ipros.com/product/detail/2001531776/",
+    "https://arknw.co.jp/空芯コイル試作・小ロット製作（カスタム対応）/",
+    "https://arksangyo.co.jp/",
+    "https://arksangyo.co.jp/co.html",
+    "https://ja.nc-net.or.jp/company/90554/product/detail/57971/",
+    "https://jp.arrk.com/service/prototyping/",
+    "https://jp.arrk.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "アーク産業 本社 会社概要 事業内容",
+   "results": [
+    "https://arksangyo.co.jp/co.html",
+    "https://www.arkgroup.jp/aboutus/co_info",
+    "https://www.arkgroup.jp/service",
+    "https://arksangyo.co.jp/",
+    "https://jp.arrk.com/company/jp/profile/corporate/",
+    "https://www.arcs-g.co.jp/about/company/index.html",
+    "https://jp.arrk.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "アーク産業 本社 お問い合わせ メール",
+   "results": [
+    "https://arksangyo.co.jp/info.html",
+    "https://jp.arrk.com/contactform/",
+    "https://ark.st/contact/index.php",
+    "https://www.ark-info.co.jp/contact",
+    "https://www.jp-ark.com/jp/contact/",
+    "https://jp.arrk.com/company/jp/contact/",
+    "https://arksangyo.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com アーク産業 本社",
+   "results": [
+    "https://note.com/linkx_dev/n/nd69c5a63beff",
+    "https://note.com/wingarc1st_base/n/n9edec5c364ab",
+    "https://note.com/impacthd/n/n53ca5b769946",
+    "https://note.com/kigyo_navi/n/na189968b5445",
+    "https://note.com/impacthd/n/n7d324156480d",
+    "https://note.com/daikidomon/n/n238268ba8967",
+    "https://note.com/arcmasters/n/n23918f1224bb"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com アーク産業 本社",
+   "results": [
+    "https://x.com/listedcorp_inc/status/2080048039520252104",
+    "https://x.com/ARC_CorporatePR/status/1823192762109599802",
+    "https://x.com/ARCSY_PR",
+    "https://x.com/techno_ark_1980",
+    "https://x.com/ARC_CorporatePR",
+    "https://x.com/ark_akiba",
+    "https://x.com/keisukehiguchi/status/1165074020179439616"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com アーク産業 本社",
+   "results": [
+    "https://www.linkedin.com/company/arc-printing",
+    "https://www.linkedin.com/in/diego-sarabia-654409353",
+    "https://ky.linkedin.com/company/hitachi-solutions-ltd.",
+    "https://uk.linkedin.com/jobs/view/arts-and-culture-correspondent-at-the-guardian-4482854726",
+    "https://jp.linkedin.com/company/arrkjapan",
+    "https://jp.linkedin.com/company/（株）アークシステム",
+    "https://es.linkedin.com/posts/ipdperu_carreraipd8k2026-activity-7458283537658507265-Cr6a"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com アーク産業 本社",
+   "results": [
+    "https://www.facebook.com/アーク産業株式会社-161774807583285/",
+    "https://secure.facebook.com/login/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/people/アークベル株式会社/100057267137059/",
+    "https://lite.facebook.com/",
+    "https://business.facebook.com/groups/woodmizerjapan/",
+    "https://www.facebook.com/arkinc.jp/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "アーク産業 本社 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://arksangyo.co.jp/",
+    "https://arksangyo.co.jp/co.html",
+    "https://jp.arrk.com/company/jp/profile/message/",
+    "https://www.ark.inc/news/2025-01-06-2/",
+    "https://jp.arrk.com/company/jp/profile/corporate/",
+    "https://www.ark.inc/news/ark-series-a-funding/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "アーク産業 本社 X 投稿",
+   "results": [
+    "https://arksangyo.co.jp/",
+    "https://arksangyo.co.jp/co.html",
+    "https://x.com/ARCSY_PR/status/2091782566244143107",
+    "https://x.com/akadama_akdm/status/2120154005657755963",
+    "https://jp.arrk.com/",
+    "https://www.jp-ark.com/jp/",
+    "http://ark1968.com/publics/index/3/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "所在地": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部9頁・検索9回）",
+  "事業内容": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部9頁・検索9回）",
+  "代表者": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部9頁・検索9回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部9頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部9頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部9頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部9頁・検索9回）",
+  "取扱製品": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部9頁・検索9回）",
+  "取扱材料": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部9頁・検索9回）"
+ }
+}

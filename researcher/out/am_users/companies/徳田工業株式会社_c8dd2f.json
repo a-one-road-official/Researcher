@@ -1,0 +1,794 @@
+{
+ "name": "徳田工業株式会社",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T13:27:37.779668+00:00",
+ "official_url": "http://www.tokuda.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒504-0957 岐阜県各務原市金属団地209番地 TEL：058-380-0003　FAX：058-383-8484",
+    "url": "https://www.tokuda.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒504-0957 岐阜県各務原市金属団地209番地 TEL：058-380-0003　FAX：058-383-8484",
+    "url": "https://www.tokuda.co.jp/company/info.html",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒504-0957　岐阜県各務原市金属団地209番地",
+    "url": "https://www.tokuda.co.jp/company/access.html",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒509-0249　岐阜県可児市姫ヶ丘1丁目18番地",
+    "url": "https://www.tokuda.co.jp/company/access.html",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒509-0249　岐阜県可児市姫ヶ丘1丁目34番地",
+    "url": "https://www.tokuda.co.jp/company/access.html",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役社長",
+    "value": "徳田 泰昭",
+    "url": "https://www.tokuda.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "代表取締役社長",
+    "value": "徳田 泰昭",
+    "url": "https://www.tokuda.co.jp/company/info.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "航空宇宙・自動車等あらゆる産業分野における製品、成形、各種治工具の製作をお手伝いしています",
+    "url": "https://www.tokuda.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "デザイン確認用模型, 構造解析, 風洞試験等の各種試験用精密模型, 真空成形, 発泡成形, プレス成形, 射出成形, 製品検査, 組付検討・加工用固定治具等の製作, CADモデリング, NCデータ作成",
+    "url": "https://www.tokuda.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "デザイン確認用模型, 構造解析, 風洞試験等の各種試験用精密模型, 真空成形, 発泡成形, プレス成形, 射出成形, 製品検査, 組付検討・加工用固定治具等の製作, CADモデリング, NCデータ作成",
+    "url": "https://www.tokuda.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は航空機、宇宙開発向の機械加工部品、航空機用治工具、各種技術検討用模型、（風洞試験模型、実大模型）等多種・多様な製品製作をしております",
+    "url": "https://www.tokuda.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では必要図面・ＣＡＤデータ・仕様書等で、マスターモデル、石膏型・樹脂型・金型及び各種治工具の設計から製品製作までお受けいたします",
+    "url": "https://www.tokuda.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "図面上では捉えにくい製品製作に、航空機関連で培ってきた木型・鋳造・機械加工技術と最新の設備・デジタルテクノロジーをもって取り組んでおります",
+    "url": "https://www.tokuda.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "デザイン確認用模型, 構造解析, 風洞試験等の各種試験用精密模型, 真空成形, 発泡成形, プレス成形, 射出成形, 製品検査, 組付検討・加工用固定治具等の製作, CADモデリング, NCデータ作成",
+    "url": "https://www.tokuda.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社では超大型の製品や自動連続加工に対応した複合旋盤、マシニングセンタ等の設備準備しております",
+    "url": "https://www.tokuda.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "デザイン確認用模型, 構造解析, 風洞試験等の各種試験用精密模型, 真空成形, 発泡成形, プレス成形, 射出成形, 製品検査, 組付検討・加工用固定治具等の製作, CADモデリング, NCデータ作成",
+    "url": "https://www.tokuda.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "機械加工部品：製品案内 | 徳田工業株式会社",
+    "url": "https://www.tokuda.co.jp/product/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "デザイン確認用模型, 構造解析, 風洞試験等の各種試験用精密模型, 真空成形, 発泡成形, プレス成形, 射出成形, 製品検査, 組付検討・加工用固定治具等の製作, CADモデリング, NCデータ作成",
+    "url": "https://www.tokuda.co.jp/product/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "デザイン確認用模型, 構造解析, 風洞試験等の各種試験用精密模型, 真空成形, 発泡成形, プレス成形, 射出成形, 製品検査, 組付検討・加工用固定治具等の製作, CADモデリング, NCデータ作成",
+    "url": "https://www.tokuda.co.jp/product/carmodeling/",
+    "pass": 1
+   },
+   {
+    "quote": "デザイン確認用模型, 構造解析, 風洞試験等の各種試験用精密模型, 真空成形, 発泡成形, プレス成形, 射出成形, 製品検査, 組付検討・加工用固定治具等の製作, CADモデリング, NCデータ作成",
+    "url": "https://www.tokuda.co.jp/news/2025/2.html",
+    "pass": 1
+   },
+   {
+    "quote": "デザイン確認用模型, 構造解析, 風洞試験等の各種試験用精密模型, 真空成形, 発泡成形, プレス成形, 射出成形, 製品検査, 組付検討・加工用固定治具等の製作, CADモデリング, NCデータ作成",
+    "url": "https://www.tokuda.co.jp/company/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "弊社では超大型の製品や自動連続加工に対応した複合旋盤、マシニングセンタ等の設備準備しております",
+    "url": "https://www.tokuda.co.jp/facility/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "デザイン確認用模型, 構造解析, 風洞試験等の各種試験用精密模型, 真空成形, 発泡成形, プレス成形, 射出成形, 製品検査, 組付検討・加工用固定治具等の製作, CADモデリング, NCデータ作成",
+    "url": "https://www.tokuda.co.jp/facility/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "デザイン確認用模型, 構造解析, 風洞試験等の各種試験用精密模型, 真空成形, 発泡成形, プレス成形, 射出成形, 製品検査, 組付検討・加工用固定治具等の製作, CADモデリング, NCデータ作成",
+    "url": "https://www.tokuda.co.jp/facility/measurement/",
+    "pass": 1
+   },
+   {
+    "quote": "デザイン確認用模型, 構造解析, 風洞試験等の各種試験用精密模型, 真空成形, 発泡成形, プレス成形, 射出成形, 製品検査, 組付検討・加工用固定治具等の製作, CADモデリング, NCデータ作成",
+    "url": "https://www.tokuda.co.jp/facility/other/",
+    "pass": 1
+   },
+   {
+    "quote": "デザイン確認用模型, 構造解析, 風洞試験等の各種試験用精密模型, 真空成形, 発泡成形, プレス成形, 射出成形, 製品検査, 組付検討・加工用固定治具等の製作, CADモデリング, NCデータ作成",
+    "url": "https://www.tokuda.co.jp/company/access.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属加工業の徳田工業は特注製品を主に設計、製作、施工まで一括して行っております",
+    "url": "https://www.tokuda-kogyo.jp/index.php/corp/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "徳田工業株式会社｜航空宇宙・自動車産業における模型製作、成形、各種治工具の製作",
+    "url": "https://www.tokuda.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙・自動車等あらゆる産業分野における製品、成形、各種治工具の製作をお手伝いしています",
+    "url": "https://www.tokuda.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "デザイン確認用模型, 構造解析, 風洞試験等の各種試験用精密模型, 真空成形, 発泡成形, プレス成形, 射出成形, 製品検査, 組付検討・加工用固定治具等の製作, CADモデリング, NCデータ作成",
+    "url": "https://www.tokuda.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車内装品のウレタン発泡成形型、真空成形型の製作開始",
+    "url": "https://www.tokuda.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "マシニングセンタによる航空機部品の加工開始",
+    "url": "https://www.tokuda.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "(・航空機用金属・CFRP部品の加工 ・航空機用木製部品の製造)",
+    "url": "https://www.tokuda.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "(・航空機用機械加工部品【金属・CFRP】の製造 ・航空機用木製部品の製造)",
+    "url": "https://www.tokuda.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "デザイン確認用模型, 構造解析, 風洞試験等の各種試験用精密模型, 真空成形, 発泡成形, プレス成形, 射出成形, 製品検査, 組付検討・加工用固定治具等の製作, CADモデリング, NCデータ作成",
+    "url": "https://www.tokuda.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は航空機、宇宙開発向の機械加工部品、航空機用治工具、各種技術検討用模型、（風洞試験模型、実大模型）等多種・多様な製品製作をしております",
+    "url": "https://www.tokuda.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では必要図面・ＣＡＤデータ・仕様書等で、マスターモデル、石膏型・樹脂型・金型及び各種治工具の設計から製品製作までお受けいたします",
+    "url": "https://www.tokuda.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "図面上では捉えにくい製品製作に、航空機関連で培ってきた木型・鋳造・機械加工技術と最新の設備・デジタルテクノロジーをもって取り組んでおります",
+    "url": "https://www.tokuda.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "デザイン確認用模型, 構造解析, 風洞試験等の各種試験用精密模型, 真空成形, 発泡成形, プレス成形, 射出成形, 製品検査, 組付検討・加工用固定治具等の製作, CADモデリング, NCデータ作成",
+    "url": "https://www.tokuda.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "デザイン確認用模型, 構造解析, 風洞試験等の各種試験用精密模型, 真空成形, 発泡成形, プレス成形, 射出成形, 製品検査, 組付検討・加工用固定治具等の製作, CADモデリング, NCデータ作成",
+    "url": "https://www.tokuda.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "デザイン確認用模型, 構造解析, 風洞試験等の各種試験用精密模型, 真空成形, 発泡成形, プレス成形, 射出成形, 製品検査, 組付検討・加工用固定治具等の製作, CADモデリング, NCデータ作成",
+    "url": "https://www.tokuda.co.jp/product/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "デザイン確認用模型, 構造解析, 風洞試験等の各種試験用精密模型, 真空成形, 発泡成形, プレス成形, 射出成形, 製品検査, 組付検討・加工用固定治具等の製作, CADモデリング, NCデータ作成",
+    "url": "https://www.tokuda.co.jp/product/carmodeling/",
+    "pass": 1
+   },
+   {
+    "quote": "宇宙戦略基金事業に採択されました：ニュースリリース | 徳田工業株式会社",
+    "url": "https://www.tokuda.co.jp/news/2025/2.html",
+    "pass": 1
+   },
+   {
+    "quote": "高頻度打ち上げ時代を支えるロケット製造プロセスの抜本的刷新に挑み宇宙産業の未来を切り拓いてまいります",
+    "url": "https://www.tokuda.co.jp/news/2025/2.html",
+    "pass": 1
+   },
+   {
+    "quote": "デザイン確認用模型, 構造解析, 風洞試験等の各種試験用精密模型, 真空成形, 発泡成形, プレス成形, 射出成形, 製品検査, 組付検討・加工用固定治具等の製作, CADモデリング, NCデータ作成",
+    "url": "https://www.tokuda.co.jp/news/2025/2.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動車内装品のウレタン発泡成形型、真空成形型の製作開始",
+    "url": "https://www.tokuda.co.jp/company/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "マシニングセンタによる航空機部品の加工開始",
+    "url": "https://www.tokuda.co.jp/company/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "(・航空機用金属・CFRP部品の加工 ・航空機用木製部品の製造)",
+    "url": "https://www.tokuda.co.jp/company/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "(・航空機用機械加工部品【金属・CFRP】の製造 ・航空機用木製部品の製造)",
+    "url": "https://www.tokuda.co.jp/company/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "デザイン確認用模型, 構造解析, 風洞試験等の各種試験用精密模型, 真空成形, 発泡成形, プレス成形, 射出成形, 製品検査, 組付検討・加工用固定治具等の製作, CADモデリング, NCデータ作成",
+    "url": "https://www.tokuda.co.jp/company/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "デザイン確認用模型, 構造解析, 風洞試験等の各種試験用精密模型, 真空成形, 発泡成形, プレス成形, 射出成形, 製品検査, 組付検討・加工用固定治具等の製作, CADモデリング, NCデータ作成",
+    "url": "https://www.tokuda.co.jp/facility/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "デザイン確認用模型, 構造解析, 風洞試験等の各種試験用精密模型, 真空成形, 発泡成形, プレス成形, 射出成形, 製品検査, 組付検討・加工用固定治具等の製作, CADモデリング, NCデータ作成",
+    "url": "https://www.tokuda.co.jp/facility/measurement/",
+    "pass": 1
+   },
+   {
+    "quote": "デザイン確認用模型, 構造解析, 風洞試験等の各種試験用精密模型, 真空成形, 発泡成形, プレス成形, 射出成形, 製品検査, 組付検討・加工用固定治具等の製作, CADモデリング, NCデータ作成",
+    "url": "https://www.tokuda.co.jp/facility/other/",
+    "pass": 1
+   },
+   {
+    "quote": "デザイン確認用模型, 構造解析, 風洞試験等の各種試験用精密模型, 真空成形, 発泡成形, プレス成形, 射出成形, 製品検査, 組付検討・加工用固定治具等の製作, CADモデリング, NCデータ作成",
+    "url": "https://www.tokuda.co.jp/company/access.html",
+    "pass": 1
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "木型-石膏型-樹脂型と一貫した型製作を確立",
+    "url": "https://www.tokuda.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "(・航空機用金属・CFRP部品の加工 ・航空機用木製部品の製造)",
+    "url": "https://www.tokuda.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "(・航空機用機械加工部品【金属・CFRP】の製造 ・航空機用木製部品の製造)",
+    "url": "https://www.tokuda.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では必要図面・ＣＡＤデータ・仕様書等で、マスターモデル、石膏型・樹脂型・金型及び各種治工具の設計から製品製作までお受けいたします",
+    "url": "https://www.tokuda.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "最新の４軸／５軸マシニングセンタによる、チタン材の高精度高速加工が可能です",
+    "url": "https://www.tokuda.co.jp/product/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "ＣＦＲＰ、各種樹脂材料の切削加工部品",
+    "url": "https://www.tokuda.co.jp/product/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "ＣＦＲＰ（炭素繊維複合材）や、ケブラー・ベークライト・フェノール系の樹脂材料の切削加工ができます",
+    "url": "https://www.tokuda.co.jp/product/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "金属、樹脂など様々な材料での製作が可能です",
+    "url": "https://www.tokuda.co.jp/product/carmodeling/",
+    "pass": 1
+   },
+   {
+    "quote": "木型-石膏型-樹脂型と一貫した型製作を確立",
+    "url": "https://www.tokuda.co.jp/company/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "(・航空機用金属・CFRP部品の加工 ・航空機用木製部品の製造)",
+    "url": "https://www.tokuda.co.jp/company/info.html",
+    "pass": 1
+   },
+   {
+    "quote": "(・航空機用機械加工部品【金属・CFRP】の製造 ・航空機用木製部品の製造)",
+    "url": "https://www.tokuda.co.jp/company/info.html",
+    "pass": 1
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "CAD、CAM（３軸、5軸）CATシステム及び各種シミュレーションソフトを準備しております",
+    "url": "https://www.tokuda.co.jp/facility/",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "多様な生産設備により多品種の生産に対応します",
+    "url": "https://www.tokuda.co.jp/product/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "金属加工業の徳田工業は特注製品を主に設計、製作、施工まで一括して行っております",
+    "url": "https://www.tokuda-kogyo.jp/index.php/corp/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "製品案内 | 徳田工業株式会社 — 取扱製品一覧 航空宇宙関連 弊社は航空機、宇宙開発向の機械加工部品、航空機用治工具、各種技術検討用模型、（風洞試験模型、実大模型）等多種・多様な製品製作をしております。 機械加工部品 航空機用治工具 風洞試験模型 実大模型（モックアップ） 展示模型 自動車関連 当社では必要 ...",
+    "url": "https://www.tokuda.co.jp/product/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要：会社案内 | 徳田工業株式会社徳田工業 会社概要 - tokuda-kogyo.jp徳田工業 | 福岡県のエクステリア・外構工事会社案内 | 株式会社徳田工業事業内容 | 株式会社徳田工業徳田工業 | 福岡県のエクステリア・外構工事 — 岐阜県各務原にある徳田工業株式会社の会社概要 有限会社徳田工業の会社概要 金属加工業の徳田工業は特注製品を主に設計、製作、施工まで一括して行っております 会社概要 company ご挨拶 企業情報 アクセス 採用情報 recruit メッセージ 仕事内容について 研修制度 募集要項 エントリー スタッフブログ staff blog お知らせ お問い合わせ contact プライバシーポリシー 〒814-0144 福岡県福岡市城南区梅林2-11-14 TEL : 092-836-5732 / FAX ... 事業内容 SERVICE 会社案内 CO",
+    "url": "https://www.tokuda.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "徳田工業 会社概要 - tokuda-kogyo.jp徳田工業 | 福岡県のエクステリア・外構工事会社案内 | 株式会社徳田工業事業内容 | 株式会社徳田工業徳田工業 | 福岡県のエクステリア・外構工事 — 有限会社徳田工業の会社概要 金属加工業の徳田工業は特注製品を主に設計、製作、施工まで一括して行っております 会社概要 company ご挨拶 企業情報 アクセス 採用情報 recruit メッセージ 仕事内容について 研修制度 募集要項 エントリー スタッフブログ staff blog お知らせ お問い合わせ contact プライバシーポリシー 〒814-0144 福岡県福岡市城南区梅林2-11-14 TEL : 092-836-5732 / FAX ... 事業内容 SERVICE 会社案内 COMPANY 採用情報 RECRUIT お問い合わせ CONTACT 事業内容 耐火被覆",
+    "url": "https://www.tokuda-kogyo.jp/index.php/corp/",
+    "pass": 3
+   },
+   {
+    "quote": "徳田工業 | 福岡県のエクステリア・外構工事 — 会社概要 company ご挨拶 企業情報 アクセス 採用情報 recruit メッセージ 仕事内容について 研修制度 募集要項 エントリー スタッフブログ staff blog お知らせ お問い合わせ contact プライバシーポリシー 〒814-0144 福岡県福岡市城南区梅林2-11-14 TEL : 092-836-5732 / FAX ...",
+    "url": "https://www.tokuda-industry.com/",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 | 株式会社徳田工業事業内容 | 株式会社徳田工業徳田工業 | 福岡県のエクステリア・外構工事 — 事業内容 SERVICE 会社案内 COMPANY 採用情報 RECRUIT お問い合わせ CONTACT 事業内容 耐火被覆工事 耐火被覆工事とは鉄骨建築の主要構造部（柱・梁・屋根等）を火災による崩壊から守る、建築基準法にも規定されている必要不可欠な工事です。 鉄骨は火災の熱で軟化し、床が落ちたり、崩壊する恐れがあります。 耐火材を鉄骨に被覆させることで、火災の熱から鉄骨 ... 徳田工業株式会社 德田 信一 〒814-0144 福岡県福岡市城南区梅林2-11-14 092-836-5732 092-836-5733 平成27年7月16日 2,000万円 13名 特定建設業許可 福岡県知事許可（特－7）第110591号 業種：土木工事・とび土工工事・鋼構造物工事・舗装工事",
+    "url": "https://tokuda-k.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容 | 株式会社徳田工業 — 事業内容 耐火被覆工事 耐火被覆工事とは鉄骨建築の主要構造部（柱・梁・屋根等）を火災による崩壊から守る、建築基準法にも規定されている必要不可欠な工事です。 鉄骨は火災の熱で軟化し、床が落ちたり、崩壊する恐れがあります。 耐火材を鉄骨に被覆させることで、火災の熱から鉄骨 ...",
+    "url": "https://tokuda-k.co.jp/service/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | 株式会社徳田工業 — こちらのページにご入力頂いた個人情報は、お問い合わせに対する回答のためにのみ使用いたします。 お預かりする個人情報は、ご担当者様の承諾を得た場合や法令等により正当な理由がある場合を除き、第三者に提供または開示いたしません。",
+    "url": "https://tokuda-k.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "徳田工業 | 福岡県のエクステリア・外構工事 — 徳田工業は店舗や工場、事務所などの新築の外構工事を手がけております。お庭に関することは何でもご相談下さい。デザイン・施工・アフターサービスまで、スタッフがお客様のご希望に合わせてご提案させていただきます。",
+    "url": "http://www.tokuda-industry.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社 徳田工業 :: お問い合わせ — 入力された個人情報は、当社からの連絡を目的で収集するものであり、原則として、ご本人の承諾なく第三者に開示・提供 ...",
+    "url": "https://www.tokuda-kogyo.jp/index.php?cID=74&bID=448&arHandle=contact_form&ccm_token=1717007899:9fea349d051d23265bdc7d5bc22a7080&btask=passthru&method=submit_form",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "こちらのページにご入力頂いた個人情報は、お問い合わせに対する回答のためにのみ使用いたします",
+    "url": "https://tokuda-k.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "下記にご相談・お問い合わせ内容をご入力下さい",
+    "url": "http://www.tokuda-industry.com/contact/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "徳田工業みたいな？と思ったけど航空機のモックアップってどこまで正... 徳田工業みたいな？と思ったけど航空機のモックアップってどこまで正確に作るもんなんだろ hitonoia 🍥hitonoia 15h",
+    "url": "https://x.com/hitonoia/status/2050600955197133035",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "徳田 泰昭 - 徳田工業株式会社 - 経営者 | LinkedIn 徳田工業株式会社 - 経営者 · 職歴: 徳田工業株式会社 · 場所: 岐阜県。10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで徳田 泰昭さんのプロフィールを閲覧しましょう。",
+    "url": "https://jp.linkedin.com/in/泰昭-徳田-531387348",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 徳田工業 - Facebook 株式会社 徳田工業",
+    "url": "https://www.facebook.com/株式会社-徳田工業-1161732837231151/",
+    "pass": 3
+   },
+   {
+    "quote": "徳田工業 (株) - Facebook 徳田工業 (株)",
+    "url": "https://www.facebook.com/徳田工業株-393143460735092/",
+    "pass": 3
+   },
+   {
+    "quote": "徳田工業 - Facebook 徳田工業 - Facebook ... 徳田工業",
+    "url": "https://www.facebook.com/徳田工業-357635050926326/",
+    "pass": 3
+   },
+   {
+    "quote": "徳田工務店 / Tokuta Engineering Firm | Sendai Miyagi徳田工業株式会社 - FacebookMitsutaka Tokuda - Facebook有限会社徳田塗装工業 - Facebook Oct 20, 2026 · 徳田工務店 / Tokuta Engineering Firm, Sendai. 28 followers · 8 talking about this · 51 were here. ㈱徳田工務店 公式Facebookページです！ TOKUTA Engineering Firm official Facebook. Since1950 ～ 自然とともに生きる住まい。無垢材、そして... 徳田工業株式会社 Mitsutaka Tokuda. 5,182 followers · 284 talking about this. Dstyl",
+    "url": "https://www.facebook.com/tokutasince1950/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tokuda.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokuda.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokuda.co.jp/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokuda.co.jp/facility/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokuda.co.jp/product/aerospace/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokuda.co.jp/product/carmodeling/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokuda.co.jp/news/2025/2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokuda.co.jp/company/info.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokuda.co.jp/facility/processing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokuda.co.jp/facility/measurement/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokuda.co.jp/facility/other/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokuda.co.jp/company/access.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.tokuda.co.jp/product/images/aerospace.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tokuda.co.jp/product/images/carmodeling.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tokuda.co.jp/product/images/monozukuri.jpg",
+    "status": "http_404",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tokuda.co.jp/product/images/proimg01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tokuda.co.jp/product/images/proimg02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tokuda.co.jp/product/images/carimg01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tokuda.co.jp/common/images/top_gotproduct.gif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.dokko.com/product.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fukuda-kk.com/service/?doing_wp_cron=1794403695.4560809135437011718750",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokuda-kogyo.jp/index.php/corp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokuda-industry.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokuda-k.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.tokuda-industry.com/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokuda-industry.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hitonoia/status/2050600955197133035",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/泰昭-徳田-531387348",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/株式会社-徳田工業-1161732837231151/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/徳田工業株-393143460735092/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/徳田工業-357635050926326/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tokutasince1950/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/泰昭-徳田-531387348",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "徳田工業 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.tokuda.co.jp/product/",
+    "https://www.dokko.com/product.html",
+    "https://fukuda-kk.com/service/",
+    "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "https://www.u-topia.co.jp/products/low-volume-series.html",
+    "https://www.tokuda.co.jp/",
+    "https://silicon-labox.com/shisaku/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "徳田工業 会社概要 事業内容",
+   "results": [
+    "https://www.tokuda.co.jp/company/",
+    "https://www.tokuda-kogyo.jp/index.php/corp/",
+    "https://www.tokuda-industry.com/",
+    "https://tokuda-k.co.jp/company/",
+    "https://tokuda-k.co.jp/service/",
+    "https://www.tokuda-industry.com/company/",
+    "https://www.tokuda.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "徳田工業 お問い合わせ メール",
+   "results": [
+    "https://tokuda-k.co.jp/contact/",
+    "http://www.tokuda-industry.com/contact/",
+    "https://www.tokuda-industry.com/",
+    "https://www.deltakogyo.co.jp/contact/",
+    "https://www.tokuda-kogyo.jp/index.php?cID=74&bID=448&arHandle=contact_form&ccm_token=1717007899:9fea349d051d23265bdc7d5bc22a7080&btask=passthru&method=submit_form",
+    "https://www.tokuda.co.jp/contact_2/privacy.html",
+    "http://tokuda-kougyo.co.jp/inquiry/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 徳田工業",
+   "results": [
+    "https://note.com/ytokuda0915/n/ndd8f67169c0c",
+    "https://note.com/shibatakougyou/n/n7283606dc28b",
+    "https://note.com/yukitokuda",
+    "https://note.com/kakuka0904/n/nf17e78f186eb",
+    "https://note.com/hikinojinji/n/nc1b2a582a167",
+    "https://note.com/annai_inc/n/na2ac665c12f4",
+    "https://note.com/y44901726/n/n1e2a48b0639a"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 徳田工業",
+   "results": [
+    "https://x.com/hitonoia/status/2050600955197133035",
+    "https://about.x.com/",
+    "https://x.com/KeiichiTokuda",
+    "https://x.com/KeiichiTokuda/status/2041315340186268056",
+    "https://x.com/_tokuda/status/2075184896365252706",
+    "https://x.com/newsdayo_2017/status/2049811602476765633",
+    "https://x.com/Nikkan_BizLine/status/2075208234319642661"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 徳田工業",
+   "results": [
+    "https://jp.linkedin.com/in/泰昭-徳田-531387348",
+    "https://www.linkedin.com/in/tokuda/ja",
+    "https://jp.linkedin.com/in/之弘-徳田-17452a183",
+    "https://www.linkedin.com/pub/dir/貴史/徳田",
+    "https://au.linkedin.com/in/則昭-徳田-374910151",
+    "https://uk.linkedin.com/jobs/view/arts-and-culture-correspondent-at-the-guardian-4482854726",
+    "https://jp.linkedin.com/in/光弘-徳田-80661b62"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 徳田工業",
+   "results": [
+    "https://www.facebook.com/株式会社-徳田工業-1161732837231151/",
+    "https://www.facebook.com/徳田工業株-393143460735092/",
+    "https://www.facebook.com/徳田工業-357635050926326/",
+    "https://www.facebook.com/tokutasince1950/",
+    "https://www.facebook.com/徳田工業株式会社-567133403351446/",
+    "https://www.facebook.com/people/有限会社徳田塗装工業/100063707405518/",
+    "https://www.facebook.com/mitsutaka.tokuda/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "徳田工業 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://jp.linkedin.com/in/泰昭-徳田-531387348",
+    "https://www.tokuda.co.jp/company/info.html",
+    "https://compalyze.co.jp/company/3200001007343",
+    "https://biz.3rd-in.co.jp/corporate/3200001007343",
+    "https://www.tokuda.co.jp/",
+    "https://homarenote.com/people/tokuda-yasuaki-06fefc8d0688"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "徳田工業 X 投稿",
+   "results": [
+    "https://www.tokuda-industry.com/",
+    "https://www.tiktok.com/@user7766094146558",
+    "https://www.tokuda.co.jp/",
+    "https://www.tokuda-kogyo.jp/",
+    "https://x.com/LtdYoshida",
+    "https://x.com/vHL2BS6WOg3258/status/2119699418991468968",
+    "https://search.yahoo.co.jp/realtime/search/徳田/?ei=UTF-8&md=h&rkf=1"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式12頁／PDF・画像7件／外部14頁・検索9回）",
+  "従業員数": "記載なし（3回確認済み：公式12頁／PDF・画像7件／外部14頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像7件／外部14頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式12頁／PDF・画像7件／外部14頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式12頁／PDF・画像7件／外部14頁・検索9回）"
+ }
+}

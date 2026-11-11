@@ -1,0 +1,892 @@
+{
+ "name": "Yemaachi",
+ "aliases": [],
+ "context": "旧営業リスト｜Education / Childcare｜未接触",
+ "researched_at": "2026-11-11T13:26:22.132945+00:00",
+ "official_url": "https://yemaachi.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "4. Seed Round",
+    "value": "21-Mar-2022    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/462059-29",
+    "pass": 3
+   },
+   {
+    "label": "1. Seed Round",
+    "value": "01-Aug-2021    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/462059-29",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Yemaachi leverages underrepresented biological and clinical data to unlock breakthrough discoveries in oncology.",
+    "url": "https://www.yemaachi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yemaachi is supported by a robust network of partners and collaborators in the public, private, and non-profit sectors from all over the globe.",
+    "url": "https://www.yemaachi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "All are committed to our vision of diversifying and improving precision oncology.",
+    "url": "https://www.yemaachi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yemaachi is working towards a future where precision oncology research, diagnostics, and therapeutics are truly inclusive, for the benefit of people everywhere.",
+    "url": "https://www.yemaachi.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Guiding principles shaping our actions daily.",
+    "url": "https://www.yemaachi.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Our research, products and services empower the communities that inspire and support our work",
+    "url": "https://www.yemaachi.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "We maintain an ecosystem that ensures we put people ahead of profit",
+    "url": "https://www.yemaachi.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "David is an entrepreneur, design thinker, and software developer. He is passionate about innovating solutions that are informed by a nuanced understanding of the socio-economic and cultural contexts of the problems. With more than 15 years’ experience in design and software development, he has created award-winning, innovative Finance, Agriculture and Health platforms.",
+    "url": "https://www.yemaachi.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Aida heads Yemaachi’s global operations, guiding the execution of the company’s strategic goals and day-to-day activities. With a wealth of experience spanning over 15 years, she has demonstrated adept management of teams and projects across diverse industries in both the USA and Ghana.",
+    "url": "https://www.yemaachi.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "In addition to degrees in Neuroscience and Biomedical Sciences, Aida holds active certifications in Healthcare Research Compliance (CHRC©) and Data Protection (CDPS). Her dedicated focus has been instrumental in upholding Yemaachi’s strong ethics and data governance posture across its research and overall operations.",
+    "url": "https://www.yemaachi.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Eliza Mari Kwesi-Maliepaard is a Research Scientist at Yemaachi Biotech, where she contributes to the company's efforts in clinical genomic research and precision oncology. Her professional expertise is anchored in a deep academic and research background spanning immunology and epigenetic regulation.",
+    "url": "https://www.yemaachi.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Training & Capacity Development | Country Representative, Kenya",
+    "url": "https://www.yemaachi.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Molecular Epidemiology | Representative, Francophone Africa",
+    "url": "https://www.yemaachi.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Kanny is a molecular epidemiologist with 10 years of experience conducting field and laboratory research in infectious diseases, in various African countries. Kanny benefited from prestigious fellowships throughout her career, including the Wellcome Trust-Training Fellowship and Crick Africa Network Fellowship. Her main research interest is in exploring the links between cancer and microbes.",
+    "url": "https://www.yemaachi.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Founder and former Chairman, President and CEO of Aduro Biotech (2008-2020). Prior to merger with Chinook Therapeutics, Aduro was an independent publicly traded clinical stage biotechnology company focused on immuno-oncology and auto-immune disease.",
+    "url": "https://www.yemaachi.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "President and CEO of Cerus Corporation (1991 to 2004).",
+    "url": "https://www.yemaachi.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "President of International Union of Immunological Societies.",
+    "url": "https://www.yemaachi.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2018 TED Fellow. Prof Osier serves on advisory boards including at the WHO, Wellcome and UKRI.",
+    "url": "https://www.yemaachi.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Prof. Gordon Awandare, FGA",
+    "url": "https://www.yemaachi.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Pro-Vice Chancellor University of Ghana",
+    "url": "https://www.yemaachi.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Founding Director of WACCBIP - A world bank centre of excellence in molecular biology. Prof. Awandare is one of Africa’s most prominent scientific leaders and capacity builders and provides expert opinion to organizations including Wellcome and the Gates Foundation.",
+    "url": "https://www.yemaachi.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Yemaachi is backed by global investors, including V8 Capital, AAIC, LifeLine Family Heritage Fund, Y Combinator, Tencent, LoftyInc Capital, VestedWorld, V Square Capital and Ethan Perlstein, committed to our mission of diversifying precision oncology for the benefit of patients everywhere.",
+    "url": "https://www.yemaachi.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "recruitment@yemaachi.com",
+    "url": "https://www.yemaachi.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Yemaachi also offers internships by application for undergraduate and graduate students. Interns get valuable hands-on experience and mentorship and can focus on Finance, Bioinformatics, Molecular Biology, Software Engineering, or Marketing. To apply, please send a resume/CV, cover letter, and a recommendation from your institution or professor to",
+    "url": "https://www.yemaachi.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Why the Future of Oncology Depends on More Than Medicine By David Hutchful When most people think about advances in cancer care, they think about new drugs, new therapies, or breakthrough discoveries in biology. But increasingly, one of the most important determinants of progress in oncology is something far less visible: data infrastructure. Modern cancer […]",
+    "url": "https://www.yemaachi.com/category/stories/",
+    "pass": 1
+   },
+   {
+    "quote": "By Joyce Ngoi, Max Nwuba & Elikem Kisser Cancer samples collected in the form of Formalin-fixed paraffin-embedded (FFPE) tissue are most often the primary source for the characterisation of tumours. FFPE specimens are routinely obtained from patients during biopsies or surgical resections and preserved for long-term clinical diagnosis and research, making FFPE the gold standard […]",
+    "url": "https://www.yemaachi.com/category/stories/",
+    "pass": 1
+   },
+   {
+    "quote": "Content Delivery & Streaming",
+    "url": "https://www.nexsan.com/ja/resources/yemaachi-biotechnexsan-unity-nv10000%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%A6ai%E4%B8%BB%E5%B0%8E%E3%81%AE%E3%82%B2%E3%83%8E%E3%83%A0%E6%8E%A2%E7%B4%A2%E3%82%92%E5%8A%A0%E9%80%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "DIgital Video Surveillance",
+    "url": "https://www.nexsan.com/ja/resources/yemaachi-biotechnexsan-unity-nv10000%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%A6ai%E4%B8%BB%E5%B0%8E%E3%81%AE%E3%82%B2%E3%83%8E%E3%83%A0%E6%8E%A2%E7%B4%A2%E3%82%92%E5%8A%A0%E9%80%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise storage engineered for density, immutability and control. Since 1999.",
+    "url": "https://www.nexsan.com/ja/resources/yemaachi-biotechnexsan-unity-nv10000%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%A6ai%E4%B8%BB%E5%B0%8E%E3%81%AE%E3%82%B2%E3%83%8E%E3%83%A0%E6%8E%A2%E7%B4%A2%E3%82%92%E5%8A%A0%E9%80%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "Product news, research and storage best practices, about once a month.",
+    "url": "https://www.nexsan.com/ja/resources/yemaachi-biotechnexsan-unity-nv10000%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%A6ai%E4%B8%BB%E5%B0%8E%E3%81%AE%E3%82%B2%E3%83%8E%E3%83%A0%E6%8E%A2%E7%B4%A2%E3%82%92%E5%8A%A0%E9%80%9F/",
+    "pass": 3
+   },
+   {
+    "quote": "The AMBER Study is a prospective, observational trial exploring the utility of a cfDNA liquid biopsy assay to identify actionable genetic mutations in metastatic breast cancer patients in Ghana.",
+    "url": "https://www.yemaachi.com/research/",
+    "pass": 3
+   },
+   {
+    "quote": "This study aims to understand genetic factors mediating selected solid tumour cancers in Africans. Due to considerable differences in genetic diversity between African and Caucasian populations, largely Eurocentric cancer research findings are not fully representative of Africans.",
+    "url": "https://www.yemaachi.com/research/",
+    "pass": 3
+   },
+   {
+    "quote": "A partnership between Yemaachi Biotech Ltd and the West African Centre for Cell Biology of Infectious Pathogens (WACCBIP) to provide critical real-time information on the evolution of the SARS-CoV-2 virus across Ghana.",
+    "url": "https://www.yemaachi.com/research/",
+    "pass": 3
+   },
+   {
+    "quote": "The aim of this study is to improve childhood cancer survival in Ghana by advancing research into diagnosis, treatment, follow up and determinants of outcomes of 6 cancers prioritised by the Global Initiative for Childhood Cancers (GICC) – Acute Lymphoblastic Leukaemia (ALL), Burkitt Lymphoma, Hodgkin Lymphoma, Wilms Tumour, Retinoblastoma, and low-grade gliomas.",
+    "url": "https://www.yemaachi.com/research/",
+    "pass": 3
+   },
+   {
+    "quote": "Yemaachi Biotech 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/462059-29",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a precision oncology platform designed to build a genetically diverse cancer knowledge base and advance inclusive precision medicine.",
+    "url": "https://pitchbook.com/profiles/company/462059-29",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/462059-29",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/462059-29",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/462059-29",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/462059-29",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a precision oncology platform designed to build a genetically diverse cancer knowledge base and advance inc",
+    "url": "https://pitchbook.com/profiles/company/462059-29",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/462059-29",
+    "pass": 3
+   },
+   {
+    "quote": "Yemaachi Biotech’s primary industry is Discovery Tools (Healthcare).",
+    "url": "https://pitchbook.com/profiles/company/462059-29",
+    "pass": 3
+   },
+   {
+    "quote": "Is Yemaachi Biotech a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/462059-29",
+    "pass": 3
+   },
+   {
+    "quote": "Yemaachi Biotech is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/462059-29",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/462059-29",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/462059-29",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/462059-29",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/yemaachi.com#team",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/yemaachi.com#team",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Yemaachi’s team is made up of scientists, engineers, and business operators with global expertise and African experience building a global biotech company with African roots.",
+    "url": "https://www.yemaachi.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Yemaachi team is a talented, passionate, and committed group of scientists, strategists, engineers, and operators. Open roles will be posted",
+    "url": "https://www.yemaachi.com/company/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Yemaachi Biotech – Cancer Innovation Shaped by Africa — Yemaachi is supported by a robust network of partners and collaborators in the public, private, and non-profit sectors from all over the globe. All are committed to our vision of diversifying and improving precision oncology.",
+    "url": "https://www.yemaachi.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Yemaachi Biotech、NEXSAN Unity NV10000を搭載してAI主導のゲノム探... — Jan 20, 2026 · Yemaachi BioTechは、ソブリンAI対応インフラを活用して、ペタバイトスケールのゲノムデータセットをローカルで処理し、アフリカ全域の精密医療研究を加速しています。BlueSPACEのBlueNODEプラットフォームを搭載し、Nexsan Unity NV10000を中核とするこの配備は、高度な機械学習ワークロードをローカル ...",
+    "url": "https://www.nexsan.com/ja/resources/yemaachi-biotechnexsan-unity-nv10000を搭載してai主導のゲノム探索を加速/",
+    "pass": 3
+   },
+   {
+    "quote": "Research – Yemaachi Biotech — Yemaachi is developing the most diverse cancer knowledge base in the world and advancing clinical research across the African continent. This research includes work to identify novel biomarkers for early detection of cancer among African populations and develop novel diagnostic tools based on these markers, as well as identify novel therapeutic targets that are extens",
+    "url": "https://www.yemaachi.com/research/",
+    "pass": 3
+   },
+   {
+    "quote": "Yemaachi Biotech - LinkedIn 日本 — Yemaachi Biotech | LinkedInのフォロワー数8,061人。Developing new anti-cancer drugs that are effective in diverse populations | YC S21 | Cancer innovation shaped by Africa — for the world",
+    "url": "https://jp.linkedin.com/company/yemaachi",
+    "pass": 3
+   },
+   {
+    "quote": "yemaachi – Yemaachi Biotech — Yaw Bediako is an immunologist and the CEO of Yemaachi Biotech, an Accra-based immunogenomics company focused on diversifying precision oncology. Under his leadership, Yemaachi has positioned itself as a key contributor to African cancer research by leveraging the continent’s genetic diversity to identify novel biomarkers and therapeutic targets.",
+    "url": "https://www.yemaachi.com/tag/yemaachi/",
+    "pass": 3
+   },
+   {
+    "quote": "Yemaachi Biotech – Cancer Innovation Shaped by Africa — Yemaachi has an unmatched global team with African roots Yemaachi’s team is made up of scientists, engineers, and business operators with global expertise and African experience building a global biotech company with African roots.",
+    "url": "https://www.yemaachi.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Yemaachi Biotech — Yemaachi Biotech",
+    "url": "https://www.yemaachi.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Yemaachi Biotech 2026 Company Profile: Valuation, Funding ...Yemaachi Biotechnology – Strategic Position & Company Metrics …Yemaachi Biotechnology — Company Profile & Funding | Indexed.vcHow Yemaachi Biotechnology hit $5.4M revenue with a 36 person ...How Yemaachi Biotechnology hit $5.4M revenue with a 36 person ...Yemaachi Biotechnology: Funding, Team & Investors | Startup ...Yemaachi Biotech - F",
+    "url": "https://pitchbook.com/profiles/company/462059-29",
+    "pass": 3
+   },
+   {
+    "quote": "Yemaachi Biotechnology – Strategic Position & Company Metrics … — About This Data Revenue, valuation, and funding figures for Yemaachi Biotechnology are estimates based on publicly available information, industry analysis, regulatory filings, company-provided profile updates, and proprietary data aggregation methods. Employee counts are derived from professional networks and company disclosures. D",
+    "url": "https://compworth.com/company/yemaachi-biotechnology",
+    "pass": 3
+   },
+   {
+    "quote": "Yemaachi Biotechnology — Company Profile & Funding | Indexed.vc — Oct 27, 2026 · Yemaachi Biotechnology builds a diverse cancer bio-database to develop cancer drugs… Founded 2020. 11–50 employees. Accra, Ghana. $3.0M raised across 1 round.",
+    "url": "https://indexed.vc/companies/yemaachi",
+    "pass": 3
+   },
+   {
+    "quote": "How Yemaachi Biotechnology hit $5.4M revenue with a 36 person ... — Team Yemaachi Biotechnology has 36 total employees in different roles and functions. Together, these details describe key aspects of Yemaachi Biotechnology’s team and reach.",
+    "url": "https://getlatka.com/companies/yemaachi.com/team",
+    "pass": 3
+   },
+   {
+    "quote": "How Yemaachi Biotechnology hit $5.4M revenue with a 36 person ... — How much revenue does Yemaachi Biotechnology generate? Yemaachi Biotechnology generates $5.4M in revenue. Click for revenue growth graph.",
+    "url": "https://getlatka.com/companies/yemaachi.com/customers",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Your email address will not be published.",
+    "url": "https://www.yemaachi.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Save my name, email, and website in this browser for the next time I comment.",
+    "url": "https://www.yemaachi.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/462059-29",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/462059-29",
+    "pass": 3
+   },
+   {
+    "quote": "Yemaachi Biotech has 45 total employees.",
+    "url": "https://pitchbook.com/profiles/company/462059-29",
+    "pass": 3
+   },
+   {
+    "quote": "What is Yemaachi Biotech’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/462059-29",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Yemaachi Biotech is",
+    "url": "https://pitchbook.com/profiles/company/462059-29",
+    "pass": 3
+   },
+   {
+    "quote": "Yemaachi Biotechnology Revenue 2024: $5.4M Est.",
+    "url": "https://getlatka.com/companies/yemaachi.com#team",
+    "pass": 3
+   },
+   {
+    "quote": "Yemaachi Biotechnology revenue",
+    "url": "https://getlatka.com/companies/yemaachi.com#team",
+    "pass": 3
+   },
+   {
+    "quote": "Yemaachi Biotechnology has not published its revenue. GetLatka estimates it at about $5.4M a year (December 2024).",
+    "url": "https://getlatka.com/companies/yemaachi.com#team",
+    "pass": 3
+   },
+   {
+    "quote": "All 2 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/yemaachi.com#team",
+    "pass": 3
+   },
+   {
+    "quote": "Yemaachi Biotechnology CEO, founders & employees",
+    "url": "https://getlatka.com/companies/yemaachi.com#team",
+    "pass": 3
+   },
+   {
+    "quote": "Yaw Bediako founded Yemaachi Biotechnology in 2020 and runs it as CEO. Yemaachi Biotechnology had 36 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/yemaachi.com#team",
+    "pass": 3
+   },
+   {
+    "quote": "What is Yemaachi Biotechnology's revenue?",
+    "url": "https://getlatka.com/companies/yemaachi.com#team",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Yemaachi Biotechnology's revenue at about",
+    "url": "https://getlatka.com/companies/yemaachi.com#team",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Yemaachi Biotechnology have?",
+    "url": "https://getlatka.com/companies/yemaachi.com#team",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/yemaachi.com#team",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/yemaachi.com#team",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/yemaachi.com#team",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/yemaachi.com#team",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Yemaachi Biotech on X: \"The final day of the Translational ... The final day of the Translational Research and Innovation Bootcamp featured group pitches, awards, reflections, a cultural visit to the Kwame Nkrumah Mausoleum and a closing dinner. A big thanks to our hosts, facilitators, panelists and participants for an amazing week! 🏆🇬🇭🎉",
+    "url": "https://x.com/YemaachiBio/status/2120194756227768812",
+    "pass": 3
+   },
+   {
+    "quote": "The Translational Research and Innovation Bootcamp is ... YemaachiBio (Yemaachi Biotech). 2 likes 0 replies. The Translational Research and Innovation Bootcamp is happening from 2-6 November 2026! 🎉🎉 Join us for a week ...",
+    "url": "https://x.com/YemaachiBio/status/2112880011472720144",
+    "pass": 3
+   },
+   {
+    "quote": "The Translational Research and Innovation Bootcamp is ... - x.com YemaachiBio (Yemaachi Biotech). 2 likes 0 replies. The Translational Research and Innovation Bootcamp is happening from 2-6 November 2026! 🎉🎉 Join us for a week ...",
+    "url": "https://x.com/YemaachiBio/status/2112880011472720144",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Yemaachi Biotech - LinkedIn Yemaachi Biotech | 8,060 followers on LinkedIn. Developing new anti-cancer drugs that are effective in diverse populations | YC S21 | Cancer innovation shaped by Africa — for the world",
+    "url": "https://www.linkedin.com/company/yemaachi/",
+    "pass": 3
+   },
+   {
+    "quote": "Yemaachi Biotech - LinkedIn Yemaachi Biotech | 8,235 followers on LinkedIn. Developing new anti-cancer drugs that are effective in diverse populations | YC S21 | Cancer innovation shaped by Africa — for the world",
+    "url": "https://gh.linkedin.com/company/yemaachi",
+    "pass": 3
+   },
+   {
+    "quote": "Yaw Bediako, Ph.D. - Yemaachi Biotech | LinkedInYemaachi Biotech hiring Executive Assistant in Accra, Greater ...Ruth Kiome - NGS Technologist /NGS Team Lead @ Yemaachi ...Yamauchi Tomoka - Medical Device Commercial Leader | Growth ...Riki Yamauchi - Investing in Africa | LinkedIn Experience: Yemaachi Biotech · Education: Northwestern University - The Feinberg School of Medicine · Location: Accra ",
+    "url": "https://gh.linkedin.com/in/yaw-bediako-ph-d-8082a152",
+    "pass": 3
+   },
+   {
+    "quote": "Yemaachi Biotech hiring Executive Assistant in Accra, Greater ... About Yemaachi Biotech We use cutting edge immunogenomics, nano-technology, bioinformatics and artificial intelligence to accelerate the development of cancer detection and cure strategies ...",
+    "url": "https://www.linkedin.com/jobs/view/3760875526",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Yemaachi Biotechnology Ltd - Facebook Yemaachi Biotechnology Ltd",
+    "url": "https://www.facebook.com/Yemaachi-Biotechnology-Ltd-103592039127289/",
+    "pass": 3
+   },
+   {
+    "quote": "Yemaachi Biotech, a Ghanaian company... - Enterprise Bureau Yemaachi Biotech, a Ghanaian company focused on cancer research and diagnostics, has raised $3 million in a seed round to further its aim of global precision oncology diversification. Click on the...",
+    "url": "https://www.facebook.com/enterprisebureaugh/posts/yemaachi-biotech-a-ghanaian-company-focused-on-cancer-research-and-diagnostics-h/159483169872228/",
+    "pass": 3
+   },
+   {
+    "quote": "Hear from David Hutchful - @dkhutchful , CEO of Yemaachi ... Apr 23, 2025 · Hear from David Hutchful - @dkhutchful , CEO of Yemaachi Biotech, as he shares groundbreaking insights on AI’s role in beating cancer and transforming...",
+    "url": "https://www.facebook.com/TechInGhanaConference/videos/hear-from-david-hutchful-dkhutchful-ceo-of-yemaachi-biotech-as-he-shares-groundb/698537809329913/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.yemaachi.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yemaachi.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yemaachi.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yemaachi.com/category/stories/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://theworkspacetest.com/yemaachi/wp-content/uploads/2023/11/V8-Capital-Partners-1.jpg",
+    "status": "network_error:SSLError",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.yemaachi.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nexsan.com/ja/resources/yemaachi-biotechnexsan-unity-nv10000%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%A6ai%E4%B8%BB%E5%B0%8E%E3%81%AE%E3%82%B2%E3%83%8E%E3%83%A0%E6%8E%A2%E7%B4%A2%E3%82%92%E5%8A%A0%E9%80%9F/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yemaachi.com/research/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/yemaachi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sidebizz.net/blog/agent/general-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yemaachi.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yemaachi.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yji.ymfd.org/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yamauchi.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/creators/earn/youtube-partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/@resellerrevenue",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/462059-29",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/yemaachi-biotechnology",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://indexed.vc/companies/yemaachi",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/yemaachi.com#team",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/YemaachiBio/status/2120194756227768812",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/YemaachiBio/status/2112880011472720144",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/yemaachi/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://gh.linkedin.com/company/yemaachi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://gh.linkedin.com/in/yaw-bediako-ph-d-8082a152",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/view/3760875526",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Yemaachi-Biotechnology-Ltd-103592039127289/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/enterprisebureaugh/posts/yemaachi-biotech-a-ghanaian-company-focused-on-cancer-research-and-diagnostics-h/159483169872228/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TechInGhanaConference/videos/hear-from-david-hutchful-dkhutchful-ceo-of-yemaachi-biotech-as-he-shares-groundb/698537809329913/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/YemaachiBio/status/2112880011472720144",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Yemaachi 日本 導入",
+   "results": [
+    "https://www.yemaachi.com/",
+    "https://www.nexsan.com/ja/resources/yemaachi-biotechnexsan-unity-nv10000を搭載してai主導のゲノム探索を加速/",
+    "https://www.yemaachi.com/research/",
+    "https://jp.linkedin.com/company/yemaachi",
+    "https://www.yemaachi.com/tag/yemaachi/",
+    "https://huntscreens.com/ja/products/yemaachi-biotechnology",
+    "https://yamauchi.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Yemaachi 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://taimen-eigyo.com/words/so-dairiten/",
+    "https://dairiten-navi.jp/?p=439",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://www.yemaachi.com/services/",
+    "https://yamaichi.com/",
+    "https://midea-japan.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Yemaachi Japan",
+   "results": [
+    "https://www.yemaachi.com/",
+    "https://www.yemaachi.com/about/",
+    "https://yji.ymfd.org/",
+    "https://yamauchi.co.jp/",
+    "https://www.yamauchi-rubber.com/",
+    "https://yamahachi-dental.co.jp/en/",
+    "https://www.yamaichi.co.jp/en/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Yemaachi manufacturing customer case study",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Yemaachi white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://www.youtube.com/creators/earn/youtube-partner-program/",
+    "https://www.youtube.com/@resellerrevenue",
+    "https://partner.vw.com/",
+    "https://www.canva.com/partners/reseller/",
+    "https://www.facebook.com/groups/2356868454775088/",
+    "https://www.upcounsel.com/reseller-agreement"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Yemaachi founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/462059-29",
+    "https://compworth.com/company/yemaachi-biotechnology",
+    "https://indexed.vc/companies/yemaachi",
+    "https://getlatka.com/companies/yemaachi.com/team",
+    "https://getlatka.com/companies/yemaachi.com/customers",
+    "https://startupintros.com/orgs/yemaachi-biotechnology",
+    "https://www.zoominfo.com/financial/yemaachi-biotech-ltd/546985260"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Yemaachi",
+   "results": [
+    "https://note.com/yamauchihirotomo",
+    "https://note.com/awesomey",
+    "https://note.com/megumi_yamauchi",
+    "https://note.com/yamauchitomoki",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/iekichi_sousou/n/n0e96119e2733?hl=en",
+    "https://note.com/reysol_scope/n/n1d4d5d3db0a6?hl=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Yemaachi",
+   "results": [
+    "https://x.com:2096/YemaachiBio",
+    "https://x.com/mara_yamauchi/status/2119158348193087600",
+    "https://x.com/YemaachiBio/status/2120194756227768812",
+    "https://x.com/YemaachiBio/status/2112880011472720144",
+    "https://x.com/mara_yamauchi",
+    "https://x.com/YamauchiLab",
+    "https://x.com/yamauchigamedev"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Yemaachi",
+   "results": [
+    "https://www.linkedin.com/company/yemaachi/",
+    "https://gh.linkedin.com/company/yemaachi",
+    "https://gh.linkedin.com/in/yaw-bediako-ph-d-8082a152",
+    "https://www.linkedin.com/jobs/view/3760875526",
+    "https://ke.linkedin.com/in/ruth-kiome-a7610251",
+    "https://jp.linkedin.com/in/yamauchi-tomoka-70b1556b",
+    "https://ke.linkedin.com/in/riki-yamauchi-21398534"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Yemaachi",
+   "results": [
+    "https://www.facebook.com/Yemaachi-Biotechnology-Ltd-103592039127289/",
+    "https://www.facebook.com/enterprisebureaugh/posts/yemaachi-biotech-a-ghanaian-company-focused-on-cancer-research-and-diagnostics-h/159483169872228/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/TechInGhanaConference/videos/hear-from-david-hutchful-dkhutchful-ceo-of-yemaachi-biotech-as-he-shares-groundb/698537809329913/",
+    "https://www.facebook.com/blackinai/posts/congrats-to-yemaachi-biotechnology-for-successfully-raising-a-3m-seed-round-to-d/1200757497347257/",
+    "https://business.facebook.com/",
+    "https://www.facebook.com/ISNMedicalInternational/videos/we-are-honoured-to-announce-the-installation-of-ghanas-first-tecan-instrument-th/1313667760324924/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Yemaachi note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.yemaachi.com/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.yemaachi.com/about/",
+    "https://note.com/yamaceo",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.linkedin.com/company/yemaachi/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Yemaachi X 投稿",
+   "results": [
+    "https://x.com:2096/YemaachiBio",
+    "https://www.yemaachi.com/",
+    "https://x.com/YemaachiBio/status/2112880011472720144",
+    "https://x.com/yamioti_yamiti/status/2118772876526706949",
+    "https://search.yahoo.co.jp/realtime/search/投稿/",
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://urahame.com/userList"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部30頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部30頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部30頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部30頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部30頁・検索12回）"
+ }
+}

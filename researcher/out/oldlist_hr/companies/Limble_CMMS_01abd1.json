@@ -1,0 +1,1265 @@
+{
+ "name": "Limble CMMS",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-11T13:19:26.234136+00:00",
+ "official_url": "https://limblecmms.com/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue run rate",
+    "value": "$1.9M",
+    "url": "https://getlatka.com/companies/limble-cmms",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$94.4M",
+    "url": "https://getlatka.com/companies/limble-cmms",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Optimize preventive maintenance for peak production",
+    "url": "https://limble.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rated #1 by 50,000+ maintenance professionals",
+    "url": "https://limble.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Simplify work orders, keep assets running smoothly, and increase productivity across every site.",
+    "url": "https://limble.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent downtime before it costs you",
+    "url": "https://limble.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Unplanned downtime costs 10x more than preventive maintenance. Automatically schedule PMs, track downtime trends, and stay ahead of failures.",
+    "url": "https://limble.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Track downtime, costs, and asset performance in real time. Use dashboards and reports to spot trends and improve maintenance performance.",
+    "url": "https://limble.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive maintenance",
+    "url": "https://limble.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven results, measurable impact",
+    "url": "https://limble.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Eliminate production blindspots with real-time collaboration and insights",
+    "url": "https://limble.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Training and resources",
+    "url": "https://limble.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Stay ahead with hands-on training, an active maintenance community, and a robust video library",
+    "url": "https://limble.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner with Limble to build integrations that deliver real value to maintenance and operations teams. If your company offers hardware, software, or connected solutions, Limble’s open API and collaborative approach make it easy to create seamless experiences for shared customers. Together, we’ll streamline workflows, reduce downtime, and win more business.",
+    "url": "https://limble.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Expand your reach through co-marketing, events, and joint promotions",
+    "url": "https://limble.com/",
+    "pass": 1
+   },
+   {
+    "quote": "CMMS Software Cost: Updated Pricing Guide for 2026 Evaluation",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "Confused about CMMS pricing? Figuring out the true cost of",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "can be tricky. It's not just about the monthly subscription — you need to consider implementation fees, training costs, support and potential add-ons.",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "This guide will break down the different factors that influence CMMS pricing, explore common pricing models, and even compare costs across popular providers. We'll equip you with the knowledge you need to make an informed decision and find a CMMS solution that fits both your budget and your maintenance needs.",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "CMMS pricing isn't one-size-fits-all. Several factors can influence the final price tag, so it's important to understand what drives those costs:",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud-based vs. On-premise CMMS",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "Most CMMS vendors use a tiered pricing structure based on the number of users who need access to the system. The more users you have, the higher the cost will be. Some vendors offer unlimited user licenses at higher price points. It's important to accurately estimate the number of users you'll need to avoid unnecessary costs.",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "Carefully evaluate your maintenance goals, team size, and operational challenges to determine the must-have features in a CMMS. Prioritize features that will streamline your workflows, reduce downtime, and maximize ROI, ensuring that the software aligns with both your immediate needs and long-term scalability.",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "preventive maintenance scheduling",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "predictive maintenance",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": ", and other advanced features you will have to upgrade to a higher plan, which often comes at a premium cost.",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "When evaluating CMMS pricing, consider how vendors structure their costs based on the types and number of assets you manage. Some CMMS providers charge based on the total number of assets stored in the system, while others may factor in equipment complexity, criticality, or industry-specific requirements.",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": ": Advanced equipment requiring predictive maintenance, IoT integrations, or compliance tracking may come at a premium.",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "Implementation and training",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "Not all implementation and training are created equal—each CMMS provider offers different levels of support. Carefully review what’s included from each to ensure you’re getting the right level of assistance for your team’s needs.",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "Can include data migration from existing systems, system configuration, and user training. These costs can vary significantly depending on the complexity of your implementation.",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "Vendors often offer different levels of support, from basic email support to dedicated account managers and on-site training. More comprehensive support typically comes at a higher cost.",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "Established vendors often charge more due to their reputation, experience, and the quality of their support. On the flip side, newer vendors may offer more competitive pricing to gain market share. Consider the vendor's track record, customer reviews, and the level of support they provide when evaluating costs.",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "Provide flexibility with no long-term commitment, ideal for businesses testing a CMMS or with fluctuating needs. However, they often come at a higher per-month cost.",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "Can provide the best pricing incentives but require a long-term commitment, which may not be ideal if your business or maintenance needs change.",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "Common CMMS pricing models",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "CMMS vendors offer a variety of pricing models to cater to different needs and budgets. Here are some of the most common ones you'll encounter:",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "Subscription plans are the most popular pricing model for cloud-based CMMS solutions. You pay a recurring fee (monthly or annually) for each user who needs access to the system.",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "Predictable monthly expenses, scalability (easily add or remove users as needed), lower upfront costs.",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "Tiered pricing (based on features or user limits)",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "Avoid setbacks with a proactive, preventive maintenance strategy and move fast when emergencies do happen.",
+    "url": "https://limble.com/products/cmms",
+    "pass": 3
+   },
+   {
+    "quote": "Increase productivity",
+    "url": "https://limble.com/products/cmms",
+    "pass": 3
+   },
+   {
+    "quote": "Prioritize and complete work orders faster with efficient, collaborative software your team will love using.",
+    "url": "https://limble.com/products/cmms",
+    "pass": 3
+   },
+   {
+    "quote": "Track progress and report on maintenance performance",
+    "url": "https://limble.com/products/cmms",
+    "pass": 3
+   },
+   {
+    "quote": "Automatically schedule preventive maintenance and give your team the tools and insights to keep assets running reliably.",
+    "url": "https://limble.com/products/cmms",
+    "pass": 3
+   },
+   {
+    "quote": "Built for maintenance professionals",
+    "url": "https://limble.com/products/cmms",
+    "pass": 3
+   },
+   {
+    "quote": "Proven results, measurable impact",
+    "url": "https://limble.com/products/cmms",
+    "pass": 3
+   },
+   {
+    "quote": "Can Limble scale to enterprise and multi-site operations?",
+    "url": "https://limble.com/products/cmms",
+    "pass": 3
+   },
+   {
+    "quote": "Traditional CMMS implementations often take 6 to 12 months. With Limble, customers typically see value in about 3 weeks. Limble provides 24/7 access to support throughout rollout and manages migration of your existing data, and enterprise customers get a dedicated onboarding team with a tailored, phased plan for bringing multiple sites online.",
+    "url": "https://limble.com/products/cmms",
+    "pass": 3
+   },
+   {
+    "quote": "Can Limble take us from reactive firefighting to preventive maintenance?",
+    "url": "https://limble.com/products/cmms",
+    "pass": 3
+   },
+   {
+    "quote": "Limble's implementation team manages migration of your existing maintenance history as part of onboarding, so your asset records, PM schedules, and past work order data move over with you. That means your team keeps the institutional knowledge you've already built accessible in Limble from day one.",
+    "url": "https://limble.com/products/cmms",
+    "pass": 3
+   },
+   {
+    "quote": "Each assistant summarizes the article only for you and suggests best practices for your work.",
+    "url": "https://resources.rework.com/ja/tools/asset-management/best-limble-cmms-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、予算の決裁者がいて、実際にシステムを設定する社内の推進役がいて、SOC 2 Type II（またはEnterpriseでの21 CFR Part 11対応）が必要な規制環境にある保守チームなら、Limbleに留まってください",
+    "url": "https://resources.rework.com/ja/tools/asset-management/best-limble-cmms-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "何も支出する前にコンセプトを検証する必要があるチーム、技術者の人数がまもなく急増するチーム、そしてStandardとPremium+の間の壁にぶつかるチームです",
+    "url": "https://resources.rework.com/ja/tools/asset-management/best-limble-cmms-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "料金が載っているはずのlimble.com/pricingを開いても、ドルの金額は1つもありません",
+    "url": "https://resources.rework.com/ja/tools/asset-management/best-limble-cmms-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "プラン名が3つと、計算ツールにつながる「Calculate my price」というボタンが3つあるだけです",
+    "url": "https://resources.rework.com/ja/tools/asset-management/best-limble-cmms-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "、Premium+は",
+    "url": "https://resources.rework.com/ja/tools/asset-management/best-limble-cmms-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "、Enterpriseは個別見積もりです",
+    "url": "https://resources.rework.com/ja/tools/asset-management/best-limble-cmms-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、数字を「pricing」ではなく「cost」というページに置くことで、購入者は時間を取られ、先に離脱した人にはLimbleが実際より高く見えてしまいます",
+    "url": "https://resources.rework.com/ja/tools/asset-management/best-limble-cmms-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "次に、予算を実際に左右する部分、つまりPremium+の壁の向こうに何があるかです",
+    "url": "https://resources.rework.com/ja/tools/asset-management/best-limble-cmms-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "Premium+ ($69/ユーザー/月)",
+    "url": "https://resources.rework.com/ja/tools/asset-management/best-limble-cmms-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "もう1つはオフラインモードで、Premium+限定です",
+    "url": "https://resources.rework.com/ja/tools/asset-management/best-limble-cmms-alternatives",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Assign, complete, and track work orders from anywhere. Submit requests with QR codes, get real-time updates, and keep technicians focused on the work.",
+    "url": "https://limble.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A mobile app allows technicians to access and update information from any location, improving overall operational efficiency.",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "Equip technicians with mobile devices and allow them to access work orders, update information, and complete maintenance tasks in real-time from any location.",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "Use the CMMS to facilitate communication between technicians, managers, and other stakeholders.",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "Encourage technicians to provide feedback on work orders, procedures, and asset performance to continuously improve your maintenance practices.",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "8 Best CMMS for Chemical Plant Maintenance in 2026",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "Choosing the Right CMMS Software for Manufacturing Industry Needs",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "A CMMS your technicians will embrace",
+    "url": "https://limble.com/products/cmms",
+    "pass": 3
+   },
+   {
+    "quote": "Give technicians clear instructions with photos, files, and checklists",
+    "url": "https://limble.com/products/cmms",
+    "pass": 3
+   },
+   {
+    "quote": "Is Limble easy for technicians to use? What kind of adoption rates does Limble have?",
+    "url": "https://limble.com/products/cmms",
+    "pass": 3
+   },
+   {
+    "quote": "How much setup and configuration does Limble need before technicians can use it?",
+    "url": "https://limble.com/products/cmms",
+    "pass": 3
+   },
+   {
+    "quote": "（Plant Engineeringの調査、",
+    "url": "https://resources.rework.com/ja/tools/asset-management/best-limble-cmms-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "A \"release\" refers to the process of updating the Limble software code that is used by our customers. These releases can contain new features, feature improvements, security updates, speed upgrades, and bug fixes. When there is a new release, the process is automatic and there is no interruption of service for the customer.",
+    "url": "https://help.limblecmms.com/en/articles/5360037-21-cfr-release-schedule",
+    "pass": 3
+   },
+   {
+    "quote": "A CMMS your technicians will embrace",
+    "url": "https://limble.com/lp/products/cmms",
+    "pass": 3
+   },
+   {
+    "quote": "Give technicians clear instructions with photos, files, and checklists",
+    "url": "https://limble.com/lp/products/cmms",
+    "pass": 3
+   },
+   {
+    "quote": "Tara Manufacturing cuts downtime by 83%",
+    "url": "https://limble.com/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "City of Lompoc Water Treatment Plant",
+    "url": "https://limble.com/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "How Tara Manufacturing Saved $100k+ Using Limble CMMS",
+    "url": "https://limble.com/customer-story/tara-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Tara Manufacturing cuts downtime by 83%",
+    "url": "https://limble.com/customer-story/tara-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Tara Manufacturing is an industry-leading manufacturer of vinyl pool liners, safety covers, and shades. Specializing in industrial cutting and sewing, radio-frequency welding, and plastic fabrication, they have committed themselves to modern equipment, process efficiency, and technical innovation.",
+    "url": "https://limble.com/customer-story/tara-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "The company was founded in 1984 and has remained a small, family-owned operation ever since. With a heavy reliance on critical equipment — such as sewing machines and welders — to keep production moving, they hired Carlos Menendez to create a maintenance program that would be every bit as state-of-the-art as their products.",
+    "url": "https://limble.com/customer-story/tara-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Food and Beverage Manufacturing",
+    "url": "https://www.casestudies.com/company/limble-cmms",
+    "pass": 3
+   },
+   {
+    "quote": "Machinery Manufacturing",
+    "url": "https://www.casestudies.com/company/limble-cmms",
+    "pass": 3
+   },
+   {
+    "quote": "Medical Equipment Manufacturing",
+    "url": "https://www.casestudies.com/company/limble-cmms",
+    "pass": 3
+   },
+   {
+    "quote": "Packaging and Containers Manufacturing",
+    "url": "https://www.casestudies.com/company/limble-cmms",
+    "pass": 3
+   },
+   {
+    "quote": "AIR LLC - Customer Case Study",
+    "url": "https://www.casestudies.com/company/limble-cmms",
+    "pass": 3
+   },
+   {
+    "quote": "Bentek - Customer Case Study",
+    "url": "https://www.casestudies.com/company/limble-cmms",
+    "pass": 3
+   },
+   {
+    "quote": "Family Health La Clinica - Customer Case Study",
+    "url": "https://www.casestudies.com/company/limble-cmms",
+    "pass": 3
+   },
+   {
+    "quote": "Grove City College - Customer Case Study",
+    "url": "https://www.casestudies.com/company/limble-cmms",
+    "pass": 3
+   },
+   {
+    "quote": "Hogle Zoo - Customer Case Study",
+    "url": "https://www.casestudies.com/company/limble-cmms",
+    "pass": 3
+   },
+   {
+    "quote": "Hood River County School District - Customer Case Study",
+    "url": "https://www.casestudies.com/company/limble-cmms",
+    "pass": 3
+   },
+   {
+    "quote": "MidWest Materials - Customer Case Study",
+    "url": "https://www.casestudies.com/company/limble-cmms",
+    "pass": 3
+   },
+   {
+    "quote": "Panorama Mountain Resort - Customer Case Study",
+    "url": "https://www.casestudies.com/company/limble-cmms",
+    "pass": 3
+   },
+   {
+    "quote": "PolyExcel - Customer Case Study",
+    "url": "https://www.casestudies.com/company/limble-cmms",
+    "pass": 3
+   },
+   {
+    "quote": "Preferred Popcorn - Customer Case Study",
+    "url": "https://www.casestudies.com/company/limble-cmms",
+    "pass": 3
+   },
+   {
+    "quote": "Rent Right - Customer Case Study",
+    "url": "https://www.casestudies.com/company/limble-cmms",
+    "pass": 3
+   },
+   {
+    "quote": "Spectrum Solutions - Customer Case Study",
+    "url": "https://www.casestudies.com/company/limble-cmms",
+    "pass": 3
+   },
+   {
+    "quote": "Tara Manufacturing reduces downtime and saves $100K+ with Limble CMMS",
+    "url": "https://www.casestudies.com/company/limble-cmms",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Tara Manufacturing reduces downtime and saves $100K+ with Limble CMMS | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/limble-cmms/case-study/tara-manufacturing-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Tara Manufacturing reduces downtime and saves $100K+ with Limble CMMS",
+    "url": "https://www.casestudies.com/company/limble-cmms/case-study/tara-manufacturing-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Tara Manufacturing - Customer Case Study",
+    "url": "https://www.casestudies.com/company/limble-cmms/case-study/tara-manufacturing-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Tara Manufacturing, a family-owned manufacturer of vinyl pool liners, safety covers, and shades, was dealing with severe maintenance issues before implementing Limble CMMS. With no real maintenance program in place, equipment ran until it failed, driving downtime to 90%, increasing overtime and repair stress, and causing long delays while parts were sourced and machines were repaired or replaced.",
+    "url": "https://www.casestudies.com/company/limble-cmms/case-study/tara-manufacturing-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/limble-cmms/case-study/tara-manufacturing-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/limble-cmms/case-study/tara-manufacturing-customer-case-study",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Limble CMMSは日本語化が十分でない可能性があるため、UI操作やヘルプの理解に時間を要する場合があります",
+    "url": "https://fitgap.com/jp/products/limble-cmms",
+    "pass": 3
+   },
+   {
+    "quote": "FitGapの要件チェックでは、「日本語UI対応」が×(非対応)です",
+    "url": "https://fitgap.com/jp/products/limble-cmms",
+    "pass": 3
+   },
+   {
+    "quote": "一方で、「日本語アラート文適合」や「日本市場保全フロー適合」は○(対応)のため、アラートや保全手順の適合だけでなく、日常的に操作する画面の言語まで確認することが重要です",
+    "url": "https://fitgap.com/jp/products/limble-cmms",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Identify slow-moving or obsolete parts to optimize your inventory and reduce carrying costs.",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "Limble's implementation team manages migration of your existing maintenance history as part of onboarding, so your asset records, PM schedules, and past work order data move over with you. That means your team keeps the institutional knowledge you've already built accessible in Limble from day one.",
+    "url": "https://limble.com/products/cmms",
+    "pass": 3
+   },
+   {
+    "quote": "The cost of more-frequent-than-necessary equipment replacements, overtime for repair staff, and paying workers while losing production time was adding up. And it was taking a personal toll on Carlos and his team as well, never knowing what challenges they would be walking into when they arrived at work.",
+    "url": "https://limble.com/customer-story/tara-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Next, you’ll have the option to choose and arrange your selected fields. To do this,",
+    "url": "https://help.limblecmms.com/en/articles/5222134-printing-customized-labels-with-avery-software",
+    "pass": 3
+   },
+   {
+    "quote": "Arrange Data Fields.\"",
+    "url": "https://help.limblecmms.com/en/articles/5222134-printing-customized-labels-with-avery-software",
+    "pass": 3
+   },
+   {
+    "quote": "Limble CMMS Revenue 2020: $1.9M Run Rate, $450M Valuation",
+    "url": "https://getlatka.com/companies/limble-cmms",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, valuation & funding",
+    "url": "https://getlatka.com/companies/limble-cmms",
+    "pass": 3
+   },
+   {
+    "quote": "Limble CMMS' revenue run rate was about $1.9M (October 2020): calculated by GetLatka from what was said, from what Bryan Christiansen said on camera.",
+    "url": "https://getlatka.com/companies/limble-cmms",
+    "pass": 3
+   },
+   {
+    "quote": ". The list ranks the 1,297 companies Nathan Latka has interviewed by revenue.",
+    "url": "https://getlatka.com/companies/limble-cmms",
+    "pass": 3
+   },
+   {
+    "quote": "All 4 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/limble-cmms",
+    "pass": 3
+   },
+   {
+    "quote": "about $160,000 a month in revenue",
+    "url": "https://getlatka.com/companies/limble-cmms",
+    "pass": 3
+   },
+   {
+    "quote": "How Limble CMMS Reached 470 Customers and $160K Monthly Revenue While Bootstrapped (Interview with Bryan Christiansen)",
+    "url": "https://getlatka.com/companies/limble-cmms",
+    "pass": 3
+   },
+   {
+    "quote": "Limble CMMS CEO, founders & employees",
+    "url": "https://getlatka.com/companies/limble-cmms",
+    "pass": 3
+   },
+   {
+    "quote": "Bryan Christiansen founded Limble CMMS in 2015. Gary Specter is CEO. Limble CMMS had 176 employees (October 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/limble-cmms",
+    "pass": 3
+   },
+   {
+    "quote": "What is Limble CMMS' revenue?",
+    "url": "https://getlatka.com/companies/limble-cmms",
+    "pass": 3
+   },
+   {
+    "quote": "Limble CMMS' revenue run rate was about",
+    "url": "https://getlatka.com/companies/limble-cmms",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Limble CMMS have?",
+    "url": "https://getlatka.com/companies/limble-cmms",
+    "pass": 3
+   },
+   {
+    "quote": "employees in October 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/limble-cmms",
+    "pass": 3
+   },
+   {
+    "quote": "The Latka List ranks the private, operating companies Nathan Latka has interviewed by the latest revenue figure on each profile, reported or estimated; equal figures share a rank.",
+    "url": "https://getlatka.com/companies/limble-cmms",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/limble-cmms",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/limble-cmms",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/limble-cmms",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Vendors often offer different levels of support, from basic email support to dedicated account managers and on-site training. More comprehensive support typically comes at a higher cost.",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "Ongoing support and maintenance costs can add up over time. Some vendors offer different levels of support, from basic email support to dedicated account managers. Make sure you understand what's included in your chosen plan and what additional support options are available (and at what cost).",
+    "url": "https://limble.com/learn/cost",
+    "pass": 3
+   },
+   {
+    "quote": "Get instant push and email notifications when parts are low",
+    "url": "https://limble.com/products/cmms",
+    "pass": 3
+   },
+   {
+    "quote": "デモ必須で、「Request a demo」または「Contact us」のみです",
+    "url": "https://resources.rework.com/ja/tools/asset-management/best-limble-cmms-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "Your username, which is your email by default, could have been changed to something else. Contact your Limble administrator or manager to have them check.",
+    "url": "https://help.limblecmms.com/en/articles/5118061-troubleshooting-login-issues",
+    "pass": 3
+   },
+   {
+    "quote": "We could not log you in via SSO. Please contact us or your IT department for",
+    "url": "https://auth.limblecmms.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Complete! If the username entered is valid, you will receive an email with next steps.",
+    "url": "https://auth.limblecmms.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Please enter your username and then click Reset Password. We will send you an email with a randomly generated password.",
+    "url": "https://auth.limblecmms.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Your username is often your email address, but may be different. If you don't know your username, contact your Limble administrator.",
+    "url": "https://auth.limblecmms.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Get instant push and email notifications when parts are low",
+    "url": "https://limble.com/lp/products/cmms",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "FitGap | Limble CMMSとは？強み、注意点を専門家がレビュー — Limble CMMSでは無料プランが提供されており、無制限の作業指示発行やリアルタイムのチームコミュニケーションといった基本機能をコストゼロで利用できます。 初期費用や専用ハードウェアも不要なため、小規模チームでも導入時の負担を抑えられます。",
+    "url": "https://fitgap.com/jp/products/limble-cmms",
+    "pass": 3
+   },
+   {
+    "quote": "2026年版 Limble CMMS代替ツール決定版：保守管理ツール12製品を徹底... — Sep 3, 2026 · \"2026年のLimble CMMS代替12製品を、検証済みのユーザー単価、無料プランの実際の上限、保守チーム向けの率直な適合評価で比較します。\"",
+    "url": "https://resources.rework.com/ja/tools/asset-management/best-limble-cmms-alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "Troubleshooting Login Issues | Limble CMMS Help Center — Mar 19, 2025 · (Note: if you are using SSO, please contact your IT manager to resolve any login issues. If they are unable to resolve a login issue, please contact Limble support.)",
+    "url": "https://help.limblecmms.com/en/articles/5118061-troubleshooting-login-issues",
+    "pass": 3
+   },
+   {
+    "quote": "21 CFR Release Schedule | Limble CMMS Help Center — Mar 25, 2025 · August - The validation account is updated to be on the latest version of Limble. This is the same version that is currently on the Continuous Release schedule. Limble provides testing results from their internal validation to 21 CFR Part 11. The customer will have the entire month to test the new version of the software and create",
+    "url": "https://help.limblecmms.com/en/articles/5360037-21-cfr-release-schedule",
+    "pass": 3
+   },
+   {
+    "quote": "Limble CMMS | Asset Management — Your organization requires that you update your password every 90 days.",
+    "url": "https://auth.limblecmms.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Setup Guides | Limble CMMS Help Center — Limble Overview & Navigation Business Central Configuration Help Limble Self-Onboarding Guide How to Set Up a Work Request Portal",
+    "url": "https://help.limblecmms.com/en/collections/3565084-setup-guides",
+    "pass": 3
+   },
+   {
+    "quote": "Limble CMMS - AVEVA — Apr 21, 2026 · About Limble CMMS Limble CMMS (Computerized Maintenance Management System) is a third-party cloud-based solution that provides visibility into the health of your company's assets. Limble CMMS supports your maintenance, inventory, and procurement processes, making information available to stakeholders to drive performance and reliability.",
+    "url": "https://www.aveva.com/content/dam/aveva/documents/legal/service-documents/Limble-CMMS.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories - limble.com — Read real stories from maintenance teams using Limble CMMS. See how organizations reduce downtime, boost uptime, and modernize operations.",
+    "url": "https://limble.com/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "How Tara Manufacturing Saved $100k+ Using Limble CMMS — This family-owned manufacturing company turns the tide on downtime with a maintenance program powered by Limble.",
+    "url": "https://limble.com/customer-story/tara-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Limble CMMS B2B Case Studies & Customer Successes — See how Limble CMMS solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/limble-cmms",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Tara Manufacturing reduces downtime and saves ... — Tara Manufacturing - Customer Case Study Tara Manufacturing, a family-owned manufacturer of vinyl pool liners, safety covers, and shades, was dealing with severe maintenance issues before implementing Limble CMMS. With no real maintenance program in place, equipment ran until it failed, driving downtime to 90%, increasing overtime and",
+    "url": "https://www.casestudies.com/company/limble-cmms/case-study/tara-manufacturing-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Limble CMMS link building case study | Point Visible — Limble CMMS builds cloud-based maintenance software: work order management, asset tracking, parts inventory, and preventive maintenance scheduling for the teams that keep facilities and equipment running.",
+    "url": "https://pointvisible.com/case-studies/limble-cmms/",
+    "pass": 3
+   },
+   {
+    "quote": "Limble CMMS – Overview – Funding, Revenue & Growth – 2026 — Discover Limble CMMS's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/limble-cmms",
+    "pass": 3
+   },
+   {
+    "quote": "Limble CMMS - 2026 Company Profile, Funding & Investors | The ... — Oct 17, 2026 · Limble CMMS is a Business Services company based in Lehi (United States) founded in 2015 by Miguel Ramos and Bryan Christiansen. Cloud-based maintenance software solutions are provided to manufacturing firms. Limble CMMS has raised $94.36 million across 3 funding rounds from investors including Goldman Sachs Investm",
+    "url": "https://www.thecompanycheck.com/company/b/limble-cmms/te920f19fi6b1sg54",
+    "pass": 3
+   },
+   {
+    "quote": "Limble CMMS Revenue 2020: $1.9M Run Rate, $450M Valuation — Oct 29, 2026 · Limble CMMS 2020 revenue run rate: $1.9M. Valuation: $450M. Total funding: $94.4M across 3 rounds. 470 customers, 176 employees. Updated Oct 29, 2026.",
+    "url": "https://getlatka.com/companies/limble-cmms",
+    "pass": 3
+   },
+   {
+    "quote": "Limble 2026 Company Profile: Valuation, Funding & Investors ...Limble CMMS - 2026 Company Profile, Team, Funding ... - TracxnLimble CMMS: Funding, Team & Investors | Startup IntrosLimble Cmms Funding History, Valuation and Investors - aVenture — The current revenue for Limble is . How much funding has Limble raised over time? Limble has raised $113M. Who are Limble’s investors? Savano Capital Part",
+    "url": "https://pitchbook.com/profiles/company/438898-42",
+    "pass": 3
+   },
+   {
+    "quote": "Limble CMMS - 2026 Company Profile, Team, Funding ... - TracxnLimble CMMS: Funding, Team & Investors | Startup IntrosLimble Cmms Funding History, Valuation and Investors - aVenture — Jun 6, 2026 · Limble CMMS - About the company Limble CMMS is a series B company based in Lehi (United States), founded in 2015 by Bryan Christiansen and Miguel Ramos. It operates as a Provider of a platform for comput",
+    "url": "https://tracxn.com/d/companies/limble-cmms/__CUmbrpnZdg5a_wwGFV6s1FcQWTDoOLyaXKvskUXwWVE",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "It's all about helping the #Maintenance Technicians to ... It's all about helping the #Maintenance Technicians to succeed at their job of #OperationalExcellence and #UpTime. Gary Specter, CEO of Limble lays out the strategic vision for Limble and the future of their #CMMS platform. The FULL conversation HERE: shorturl.at/jcowX 💬0 🔄0 🤍0 📊5 📎",
+    "url": "https://x.com/industrialtalk/status/2050215873193914754",
+    "pass": 3
+   },
+   {
+    "quote": "@limblecmms | X The latest posts from @limblecmms",
+    "url": "https://x.com/limblecmms",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Limble - LinkedIn Limble Maintenance and Asset Management Computerized Maintenance Management Systems (CMMS) Limble is a versatile maintenance management platform that’s easy to set up, make your own, and keep ...",
+    "url": "https://www.linkedin.com/company/limble",
+    "pass": 3
+   },
+   {
+    "quote": "Limble CMMS - LinkedIn Limble CMMS | 15,509 followers on LinkedIn. Modern, mobile, and easy-to-use maintenance software | Maintenance professionals across a variety of industries have a very real challenge: outdated, difficult-to-use, and expensive maintenance software. At Limble, we believe that you should love your CMMS, not just tolerate it. Limble CMMS was created to become the first truly eas",
+    "url": "https://mh.linkedin.com/company/limble-cmms?trk=products_seo_search",
+    "pass": 3
+   },
+   {
+    "quote": "Santiago Tovar Riscanevo - Limble CMMS | LinkedIn10 Limble Alternatives Worth Considering for CMMS in 2026Bryan Christiansen - Limble | LinkedInMichael Bryan - Limble CMMS | LinkedIn Experience: Limble CMMS · Education: Universidad Sergio Arboleda · Location: Bogota, D.C. · 500+ connections on LinkedIn. View Santiago Tovar Riscanevo’s profile on LinkedIn, a professional community of 1 billion memb",
+    "url": "https://co.linkedin.com/in/santiagotovar/en",
+    "pass": 3
+   },
+   {
+    "quote": "Bryan Christiansen - Limble | LinkedInBryan Christiansen | AuthorBryan Christiansen, Limble CMMS - Author Profile on ControlBryan Christiansen, Limble CMMS | Bryan Christiansen News ... The 10 Things You Should Demand of your CMMS Your maintenance management software is a part of everything you do in maintenance, so you should hold it to high… Sep 12, 2023 · Bryan Christiansen is the founder and C",
+    "url": "https://www.linkedin.com/in/bryan-christiansen-4a6a5914a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Limble CMMS | Lehi UT - FacebookLimble CMMS - Limble CMMS added a new photo. - FacebookLimble CMMS - See how leading maintenance teams are... | FacebookLimble CMMS - Big news at Limble! We’re ... - FacebookLimble CMMS - Big News: Our First Limble CMMS ... - FacebookBehind every reliable operation is a team of maintenance ...Limble CMMS - Automate and Simplify your Work Request ... Limble CMMS, Leh",
+    "url": "https://www.facebook.com/limblecmms/",
+    "pass": 3
+   },
+   {
+    "quote": "Limble CMMS - Limble CMMS added a new photo. - Facebook Sep 2, 2026 · Last week, Limble earned the #19 spot on the 2026 Utah Business Fast 50, recognizing the state’s fastest- growing companies based on five years of revenue growth! 🚀 This one feels especially meaningful. Limble was founded in Utah by Bryan Christiansen, and we’re proud to continue growing alongside so many outstanding companies f",
+    "url": "https://www.facebook.com/limblecmms/photos/1715164123950588/",
+    "pass": 3
+   },
+   {
+    "quote": "Limble CMMS - Big news at Limble! We’re ... - Facebook Mar 17, 2026 · 📣 Big news at Limble! We’re excited to welcome Jason Penkethman as Limble’s new Chief Product & Technology Officer! Jason will lead our product and engineering teams as we continue evolving the Limble platform—helping maintenance teams work smarter, reduce downtime, and bringing AI into the product in ways that create real value",
+    "url": "https://www.facebook.com/limblecmms/posts/-big-news-at-limblewere-excited-to-welcome-jason-penkethman-as-limbles-new-chief/1550436373756698/",
+    "pass": 3
+   },
+   {
+    "quote": "Limble CMMS - Big News: Our First Limble CMMS ... - Facebook Dec 9, 2024 · Big News: Our First Limble CMMS Community-Hosted Event is tomorrow! This FREE, in-person, 2025 Maintenance Planning Workshop is on December 10th from 9 am to noon in Fort Worth, Texas. We'll...",
+    "url": "https://www.facebook.com/limblecmms/posts/-big-news-our-first-limble-cmms-community-hosted-event-is-tomorrow-this-free-in-/1126786806121659/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://limble.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/695d658507ace930b906b9eb/69963b9ff39ec0dbd4f01ed7_Farming%20-%204.avif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://fitgap.com/jp/products/limble-cmms",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://limble.com/learn/cost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://limble.com/products/cmms",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://resources.rework.com/ja/tools/asset-management/best-limble-cmms-alternatives",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://limble.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://help.limblecmms.com/en/articles/5118061-troubleshooting-login-issues",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://help.limblecmms.com/en/articles/5360037-21-cfr-release-schedule",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://auth.limblecmms.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://limble.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://limble.com/lp/products/cmms",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sap.com/japan/products/erp/partners/limble-solutions-inc-limble-maintenance-asset-management.html",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://help.limblecmms.com/en/collections/3565084-setup-guides",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://limble.com/customer-story",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://limble.com/customer-story/tara-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/limble-cmms",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/limble-cmms/case-study/tara-manufacturing-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://upcloud.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://help.limblecmms.com/en/articles/5222134-printing-customized-labels-with-avery-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/limble-cmms",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/limble-cmms/te920f19fi6b1sg54",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/limble-cmms",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/438898-42",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/industrialtalk/status/2050215873193914754",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/limble",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mh.linkedin.com/company/limble-cmms?trk=products_seo_search",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://co.linkedin.com/in/santiagotovar/en",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/limblecmms/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/limblecmms/photos/1715164123950588/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/limblecmms/posts/-big-news-at-limblewere-excited-to-welcome-jason-penkethman-as-limbles-new-chief/1550436373756698/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/limblecmms/posts/-big-news-our-first-limble-cmms-community-hosted-event-is-tomorrow-this-free-in-/1126786806121659/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/bryan-christiansen-4a6a5914a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/limblecmms",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Limble CMMS 日本 導入",
+   "results": [
+    "https://fitgap.com/jp/products/limble-cmms",
+    "https://limble.com/learn/cost",
+    "https://limble.com/products/cmms",
+    "https://resources.rework.com/ja/tools/asset-management/best-limble-cmms-alternatives",
+    "https://www.sap.com/japan/products/erp/partners/limble-solutions-inc-limble-maintenance-asset-management.html",
+    "https://help.limblecmms.com/en/collections/3565084-setup-guides",
+    "https://www.daiko-xtech.co.jp/daiko-plus/production-control/what-is-cmms/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Limble CMMS 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://limble.com/",
+    "https://help.limblecmms.com/en/articles/5118061-troubleshooting-login-issues",
+    "https://help.limblecmms.com/en/articles/5360037-21-cfr-release-schedule",
+    "https://auth.limblecmms.com/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.aon.com/japan/company-overview",
+    "https://accounts.trimble.com/login"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Limble CMMS Japan",
+   "results": [
+    "https://limble.com/",
+    "https://limble.com/lp/products/cmms",
+    "https://www.sap.com/japan/products/erp/partners/limble-solutions-inc-limble-maintenance-asset-management.html",
+    "https://help.limblecmms.com/en/collections/3565084-setup-guides",
+    "https://www.aveva.com/content/dam/aveva/documents/legal/service-documents/Limble-CMMS.pdf",
+    "https://help.limblecmms.com/",
+    "https://auth.limblecmms.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Limble CMMS manufacturing customer case study",
+   "results": [
+    "https://limble.com/customer-story",
+    "https://limble.com/customer-story/tara-manufacturing",
+    "https://www.casestudies.com/company/limble-cmms",
+    "https://www.casestudies.com/company/limble-cmms/case-study/tara-manufacturing-customer-case-study",
+    "https://pointvisible.com/case-studies/limble-cmms/",
+    "https://www.featuredcustomers.com/vendor/limble-cmms/case-studies",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/limble-cmms_sulzer_541914.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Limble CMMS white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://upcloud.com/partner-program/",
+    "https://help.limblecmms.com/en/articles/5222134-printing-customized-labels-with-avery-software",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://www.logicmonitor.com/partners",
+    "https://auth.limblecmms.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Limble CMMS founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/limble-cmms",
+    "https://www.thecompanycheck.com/company/b/limble-cmms/te920f19fi6b1sg54",
+    "https://getlatka.com/companies/limble-cmms",
+    "https://pitchbook.com/profiles/company/438898-42",
+    "https://tracxn.com/d/companies/limble-cmms/__CUmbrpnZdg5a_wwGFV6s1FcQWTDoOLyaXKvskUXwWVE",
+    "https://startupintros.com/orgs/limble-cmms",
+    "https://aventure.vc/companies/limble-cmms-lehi-ut-us/fundraising"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Limble CMMS",
+   "results": [
+    "https://note.com/ibsolutions/n/n671a43729315",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/seigo77",
+    "https://note.com/diparururun",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Limble CMMS",
+   "results": [
+    "https://x.com/Limble",
+    "https://about.x.com/",
+    "https://x.com/industrialtalk/status/2050215873193914754",
+    "https://help.x.com/en/using-x/download-the-x-app",
+    "https://x.com/RyanAFournier/status/2117296789443240367",
+    "https://x.com/CogitoEdu/status/2117911840973861028",
+    "https://x.com/Blond1n1/status/2117719313754808471"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Limble CMMS",
+   "results": [
+    "https://www.linkedin.com/company/limble",
+    "https://www.linkedin.com/products/limble-cmms/",
+    "https://mh.linkedin.com/company/limble-cmms?trk=products_seo_search",
+    "https://co.linkedin.com/in/santiagotovar/en",
+    "https://www.linkedin.com/pulse/10-limble-alternatives-worth-considering-cmms-2026-sara-naveed-ipijf",
+    "https://www.linkedin.com/in/bryan-christiansen-4a6a5914a",
+    "https://www.linkedin.com/in/michaeldbryan"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Limble CMMS",
+   "results": [
+    "https://www.facebook.com/limblecmms/",
+    "https://www.facebook.com/limblecmms/photos/1715164123950588/",
+    "https://www.facebook.com/limblecmms/posts/-big-news-at-limblewere-excited-to-welcome-jason-penkethman-as-limbles-new-chief/1550436373756698/",
+    "https://www.facebook.com/limblecmms/posts/-big-news-our-first-limble-cmms-community-hosted-event-is-tomorrow-this-free-in-/1126786806121659/",
+    "https://www.facebook.com/limblecmms/posts/automate-and-simplify-your-work-request-process-limble-cmmss-work-request-system/322757304884042/",
+    "https://www.facebook.com/limblecmms/posts/see-how-leading-maintenance-teams-are-raising-the-bar-and-connect-with-pros-who-/1728172739316393/",
+    "https://www.facebook.com/limblecmms/videos/behind-every-reliable-operation-is-a-team-of-maintenance-professionals-who-keep-/1233329798867639/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Limble CMMS note 社長",
+   "results": [
+    "https://industrialtalk.com/episodes/bryan-christiansen-with-limble-cmms/",
+    "https://limble.com/category/cmms",
+    "https://limble.com/news",
+    "https://www.linkedin.com/in/bryan-christiansen-4a6a5914a",
+    "https://cmmonline.com/authors/bryan-christianson",
+    "https://control.com/author/bryanchristiansen/",
+    "https://www.securityinformed.com/people/bryan-christiansen.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Limble CMMS X 投稿",
+   "results": [
+    "https://x.com/limblecmms",
+    "https://help.limblecmms.com/",
+    "https://help.limblecmms.com/en/collections/3565084-setup-guides",
+    "https://limble.com/products/cmms",
+    "https://limble.com/learn/maintenance-reports",
+    "https://docs.aveva.com/bundle/insight/page/920580.html",
+    "https://auth.limblecmms.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部34頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部34頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部34頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部34頁・検索12回）"
+ }
+}

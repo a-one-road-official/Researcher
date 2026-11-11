@@ -1,0 +1,1595 @@
+{
+ "name": "株式会社タアフ",
+ "aliases": [],
+ "context": "ipros_all:小ロット",
+ "researched_at": "2026-11-11T13:10:10.319789+00:00",
+ "official_url": "http://www.tateyama.jp",
+ "identified_by": "given",
+ "profile": {
+  "拠点": [
+   {
+    "label": "【ビル・工場保守管理】",
+    "value": "空調設備、クリーンルーム、ボイラーなどの温度測定",
+    "url": "https://www.tateyama.jp/service/industrial-equipment/products/post/%E9%AB%98%E7%B2%BE%E5%BA%A6%E6%B8%A9%E5%BA%A6%E3%83%AD%E3%82%AC%E3%83%BC-%E3%83%97%E3%83%AC%E3%82%B7%E3%82%A3/",
+    "pass": 1
+   },
+   {
+    "label": "東工場操業開始（現",
+    "value": "下番第一工場）",
+    "url": "https://www.tateyama.jp/group/company/ma/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役会長　水口 昭一郎 代表取締役社長　水口 世紀",
+    "url": "https://www.tateyama.jp/group/company/tk/",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　谷川 和優",
+    "url": "https://www.tateyama.jp/group/company/dt/",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役社長 杉林 幹夫",
+    "url": "https://www.tateyama.jp/group/company/ht/",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　宮野兼美",
+    "url": "https://www.tateyama.jp/group/company/ma/",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役会長 水口 昭一郎 代表取締役社長 光田 浩司",
+    "url": "https://www.tateyama.jp/group/company/taf/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "約600名",
+    "url": "https://www.tateyama.jp/group/company/tk/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "253名",
+    "url": "https://www.tateyama.jp/group/company/dt/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "約120名",
+    "url": "https://www.tateyama.jp/group/company/ht/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "約440名",
+    "url": "https://www.tateyama.jp/group/company/ma/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "約60名",
+    "url": "https://www.tateyama.jp/group/company/taf/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "ソフトウェアパッケージ製品・販売、各種システムインテグレーション 見守りサービスなど、企画・開発から運用・保守まで一貫したサービスの提供 RFID機器を用い位置情報をコアとしたソリューションビジネス 電子部品（各種抵抗器、チップサーミスタ、静電気保護素子、宇宙用部品、複合部品等）、電子機器（各種無線機器および応用機器等）、温度センサ（ガス・電気機器、温水機器、自動車等向けの温度センサプローブ等）の開発・製造・販売 基板アッセンブリ、ユニット組立、計測・計量機器の製造・販売 スポーツ施設および関連事業（立山グランドボウルの運営） ソフトウエア開発・サービス事業ページ",
+    "url": "https://www.tateyama.jp/group/company/tk/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "角形チップ抵抗器、ネットワーク抵抗器、チップサーミスタ、静電気保護素子、宇宙用部品、複合部品 等の製造・販売 ビード型・チップインガラス型・ベアチップ型サーミスタ、温度センサプローブの製造・販売 電子部品事業ページ",
+    "url": "https://www.tateyama.jp/group/company/dt/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "各種無線機器および応用機器の開発・製造・販売 RFID機器を用い位置情報をコアにしたソリューションビジネス 基板アッセンブリ、ユニット組立、計測・計量機器の製造・販売 電子部品事業ページ（計測機器用センサ） 電子機器事業ページ（無線機器開発・製造） 産業用生産装置事業ページ（計測・計量機器） 位置検知統合プラットフォームtheamsページ",
+    "url": "https://www.tateyama.jp/group/company/ht/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "FAシステムの提案・設計・製造、精密機器のOEM/ODM生産および自社技術による製品の開発・製造 産業用生産装置事業ページ FAシステムページ 自律搬送ロボット TARシリーズページ",
+    "url": "https://www.tateyama.jp/group/company/ma/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "精密部品製造（ロボット機器部品、半導体・液晶機器部品、航空機部品、その他精密部品） 精密部品加工事業ページ",
+    "url": "https://www.tateyama.jp/group/company/taf/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "富山（立山科学グループ本部） 〒930-1305 富山県富山市下番30番地 TEL：076-483-4012　FAX：076-483-4150 Google Mapsで見る 富山（立山科学(株)本部工場） ソフトウェア関連（デジタルソリューション事業部） 〒930-1305 富山県富山市下番14番地 TEL：076-483-4585　FAX：076-483-4376 Google Mapsで見る 富山（立山科学(株)本部工場） 見守りサービス関連 〒930-1305 富山県富山市下番14番地 TEL：076-483-4586　FAX：076-483-9044 Google Mapsで見る 富山（立山科学グループ南工場） デバイス・機器関連 〒939-8132 富山県富山市月岡町3丁目6番地 TEL：076-429-3588　FAX：076-429-6630 Google Mapsで見る 東京（立山科学グループ東京支社） 〒103-0021 東京都中央区日本橋本石町4丁目2-16 Daiwa日本橋本石町ビル 5階 TEL：03-5203-7881　FAX：03-5203-7882 Goo",
+    "url": "https://www.tateyama.jp/group/company/tk/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "富山（本社 南工場） 〒939-8132 富山県富山市月岡町3丁目6番地 TEL：076-429-5805 FAX：076-429-6630 Google Mapsで見る 富山（Atrium 工場） 〒930-1305　富山県富山市下番14番地 TEL：076-483-4582 FAX：076-483-4374 Google Mapsで見る 東京（立山科学グループ東京支社） 〒103-0021 東京都中央区日本橋本石町4丁目2-16 Daiwa日本橋本石町ビル 5階 TEL：03-5203-7881 FAX：03-5203-7882 Google Mapsで見る 大阪（立山科学グループ大阪営業所） 〒530-0001 大阪府大阪市北区梅田1-1-3-600 大阪駅前第3ビル6F TEL：06-6346-1236 FAX：06-6346-1237 Google Mapsで見る",
+    "url": "https://www.tateyama.jp/group/company/dt/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "富山（立山科学グループ南工場） 〒939-8132 富山県富山市月岡町3丁目6番地 TEL：076-429-4403 FAX：076-429-8369 Google Mapsで見る 東京（立山科学グループ東京支社） 〒103-0021 東京都中央区日本橋本石町4丁目2-16 Daiwa日本橋本石町ビル 5階 TEL：03-5203-7881 FAX：03-5203-7882 Google Mapsで見る",
+    "url": "https://www.tateyama.jp/group/company/ht/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "富山（立山科学グループ本部） 〒930-1305 富山県富山市下番30番地 TEL：076-483-4123 FAX：076-483-4150 Google Mapsで見る 東京（立山科学グループ東京支社） 〒103-0021 東京都中央区日本橋本石町4丁目2-16 Daiwa日本橋本石町ビル 5階 TEL：03-5203-7881 FAX：03-5203-7882 Google Mapsで見る 富山（立山マシン(株)本部第三工場） 〒930-1305 富山県富山市下番50番地 TEL：076-483-2088 Google Mapsで見る 富山（立山マシン(株)下番第一工場） 〒930-1305 富山県富山市下番100番地 TEL：050-5524-2847 Google Mapsで見る 富山（立山マシン(株)下番第二工場） 〒930-1305 富山県富山市下番5番地 TEL：050-5535-5849 Google Mapsで見る 富山（立山マシン(株)月岡工場） 〒930-8132 富山県富山市月岡町5丁目238番地 TEL：050-5524-2883 Google Mapsで見",
+    "url": "https://www.tateyama.jp/group/company/ma/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "富山（立山科学グループ南工場） 〒939-8132 富山県富山市月岡町3丁目31番地 TEL：076-429-6225 FAX：076-429-6654 Google Mapsで見る",
+    "url": "https://www.tateyama.jp/group/company/taf/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "富山（立山科学グループ本部） 〒930-1305 富山県富山市下番30番地 Google Mapsで見る",
+    "url": "https://www.tateyama.jp/group/company/itm/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "製品開発を行い、",
+    "url": "https://www.tateyama.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品やソリューションを身近に知りたい方は、",
+    "url": "https://www.tateyama.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "培った技術力を活かし、お客様の課題解決につながる新規開発製品をお届けします",
+    "url": "https://www.tateyama.jp/service/software/",
+    "pass": 1
+   },
+   {
+    "quote": "その加工技術をコアに試作・小ロットから量産まで、お客様のニーズにあった製品を提供します",
+    "url": "https://www.tateyama.jp/service/precision-parts/products/group/%E7%B2%BE%E5%AF%86%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "高品質・高性能な製品づくりを支える要素技術をご紹介します",
+    "url": "https://www.tateyama.jp/service/precision-parts/products/group/%E7%B2%BE%E5%AF%86%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "他事業や製品・ソリューションに関連する情報は、",
+    "url": "https://www.tateyama.jp/service/precision-parts/products/group/%E7%B2%BE%E5%AF%86%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "他事業や製品・ソリューションに関連する情報は、",
+    "url": "https://www.tateyama.jp/service/software/products/group/attcast-e-pass/",
+    "pass": 1
+   },
+   {
+    "quote": "抵抗器・サーミスタ・温度センサで製品品質と信頼性を支えます",
+    "url": "https://www.tateyama.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "家電・自動車・産業機器・衛星・医療など幅広い分野で、製品品質と信頼性を支える重要部品として採用されています",
+    "url": "https://www.tateyama.jp/service/electronic-components/",
+    "pass": 1
+   },
+   {
+    "quote": "を核に、現場を支える製品をつくる",
+    "url": "https://www.tateyama.jp/service/electronic-devices/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の企画・設計・開発から量産までをワンストップで支援するODMを中心に、設計データをもとに製造を行うEMSにも対応しています",
+    "url": "https://www.tateyama.jp/service/electronic-devices/",
+    "pass": 1
+   },
+   {
+    "quote": "グループ内の研究要素の発展や外部と共同で開発された材料や製品を商品化",
+    "url": "https://www.tateyama.jp/service/industrial-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "製品品質の安定化と生産効率向上を支える高精度な計測技術製品をご提供",
+    "url": "https://www.tateyama.jp/service/industrial-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "TARシリーズは、高さ132mm・最大搬送重量800kgの低床型と、コンベアやリフターなどを搭載できるモジュラー型をラインナップ",
+    "url": "https://www.tateyama.jp/service/industrial-equipment/products/group/tar/",
+    "pass": 1
+   },
+   {
+    "quote": "他事業や製品・ソリューションに関連する情報は、",
+    "url": "https://www.tateyama.jp/service/industrial-equipment/products/group/tar/",
+    "pass": 1
+   },
+   {
+    "quote": "他事業や製品・ソリューションに関連する情報は、",
+    "url": "https://www.tateyama.jp/service/software/products/group/lprsys/",
+    "pass": 1
+   },
+   {
+    "quote": "他事業や製品・ソリューションに関連する情報は、",
+    "url": "https://www.tateyama.jp/service/electronic-components/products/post/tsr-g-chip-resistor/",
+    "pass": 1
+   },
+   {
+    "quote": "医療製品製造ライン、透析針組立ライン",
+    "url": "https://www.tateyama.jp/service/industrial-equipment/products/group/fa-system/",
+    "pass": 1
+   },
+   {
+    "quote": "他事業や製品・ソリューションに関連する情報は、",
+    "url": "https://www.tateyama.jp/service/industrial-equipment/products/group/fa-system/",
+    "pass": 1
+   },
+   {
+    "quote": "他事業や製品・ソリューションに関連する情報は、",
+    "url": "https://www.tateyama.jp/service/industrial-equipment/products/post/%E9%AB%98%E7%B2%BE%E5%BA%A6%E6%B8%A9%E5%BA%A6%E3%83%AD%E3%82%AC%E3%83%BC-%E3%83%97%E3%83%AC%E3%82%B7%E3%82%A3/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車、産業機器、家電製品など",
+    "url": "https://www.tateyama.jp/service/electronic-components/products/post/twt-wire-bond/",
+    "pass": 1
+   },
+   {
+    "quote": "他事業や製品・ソリューションに関連する情報は、",
+    "url": "https://www.tateyama.jp/service/electronic-components/products/post/twt-wire-bond/",
+    "pass": 1
+   },
+   {
+    "quote": "今までの製品の長所をそのままに様々なオプションを用意した多機能モデル",
+    "url": "https://www.tateyama.jp/service/industrial-equipment/products/post/%E3%83%A1%E3%83%AB%E3%83%88%E3%82%A4%E3%83%B3%E3%83%87%E3%82%AF%E3%82%B5-%E5%A4%9A%E6%A9%9F%E8%83%BD%E3%83%A2%E3%83%87%E3%83%AB%EF%BC%88tm%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%89/",
+    "pass": 1
+   },
+   {
+    "quote": "他事業や製品・ソリューションに関連する情報は、",
+    "url": "https://www.tateyama.jp/service/industrial-equipment/products/post/%E3%83%A1%E3%83%AB%E3%83%88%E3%82%A4%E3%83%B3%E3%83%87%E3%82%AF%E3%82%B5-%E5%A4%9A%E6%A9%9F%E8%83%BD%E3%83%A2%E3%83%87%E3%83%AB%EF%BC%88tm%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%89/",
+    "pass": 1
+   },
+   {
+    "quote": "立山科学の製品やソリューションが、",
+    "url": "https://www.tateyama.jp/group/catalog/",
+    "pass": 1
+   },
+   {
+    "quote": "小さな不良も見逃さず、製品の安全性と信頼性を支えます",
+    "url": "https://www.tateyama.jp/group/catalog/",
+    "pass": 1
+   },
+   {
+    "quote": "用途に合った形で機器に組み込み、製品の品質向上を支えます",
+    "url": "https://www.tateyama.jp/group/catalog/",
+    "pass": 1
+   },
+   {
+    "quote": "用途に合う測定で、製品品質を高める",
+    "url": "https://www.tateyama.jp/group/catalog/",
+    "pass": 1
+   },
+   {
+    "quote": "安定した温度管理で、製品品質を支える",
+    "url": "https://www.tateyama.jp/group/catalog/",
+    "pass": 1
+   },
+   {
+    "quote": "清潔でばらつきのない医療製品づくりを支えます",
+    "url": "https://www.tateyama.jp/group/catalog/",
+    "pass": 1
+   },
+   {
+    "quote": "異物や不良を防ぎ、安全な製品づくりを支える",
+    "url": "https://www.tateyama.jp/group/catalog/",
+    "pass": 1
+   },
+   {
+    "quote": "事業や製品を詳しく見たい方は、",
+    "url": "https://www.tateyama.jp/group/catalog/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトウェアパッケージ製品・販売、各種システムインテグレーション",
+    "url": "https://www.tateyama.jp/group/company/tk/",
+    "pass": 1
+   },
+   {
+    "quote": "製品やサービスの品質向上、顧客満足を高めるための「品質マネジメントシステム（QMS）」に関する国際規格",
+    "url": "https://www.tateyama.jp/group/company/dt/",
+    "pass": 1
+   },
+   {
+    "quote": "CetrifGateにMultiple seriesをラインナップ（立山科学ワイヤレステクノロジー）",
+    "url": "https://www.tateyama.jp/group/company/ht/",
+    "pass": 1
+   },
+   {
+    "quote": "製品やサービスの品質向上、顧客満足を高めるための「品質マネジメントシステム（QMS）」に関する国際規格",
+    "url": "https://www.tateyama.jp/group/company/ht/",
+    "pass": 1
+   },
+   {
+    "quote": "FAシステムの提案・設計・製造、精密機器のOEM/ODM生産および自社技術による製品の開発・製造",
+    "url": "https://www.tateyama.jp/group/company/ma/",
+    "pass": 1
+   },
+   {
+    "quote": "品質・技術管理体制はもとより、社員１人１人が責任をもって、皆様から喜ばれる製品作りに努めて参ります",
+    "url": "https://www.tateyama.jp/group/company/taf/",
+    "pass": 1
+   },
+   {
+    "quote": "他事業や製品・ソリューションに関連する情報は、",
+    "url": "https://www.tateyama.jp/service/software/products/category/system-development/",
+    "pass": 1
+   },
+   {
+    "quote": "他事業や製品・ソリューションに関連する情報は、",
+    "url": "https://www.tateyama.jp/service/software/products/group/mimamori-link/",
+    "pass": 1
+   },
+   {
+    "quote": "新規開発製品｜ソフトウエア開発・サービス事業｜事業内容｜立山科学グループ",
+    "url": "https://www.tateyama.jp/service/software/products/category/newlydev/",
+    "pass": 1
+   },
+   {
+    "quote": "他事業や製品・ソリューションに関連する情報は、",
+    "url": "https://www.tateyama.jp/service/software/products/category/newlydev/",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙開発用製品｜電子部品事業｜事業内容｜立山科学グループ",
+    "url": "https://www.tateyama.jp/service/electronic-components/products/category/aerospace-development/",
+    "pass": 1
+   },
+   {
+    "quote": "他事業や製品・ソリューションに関連する情報は、",
+    "url": "https://www.tateyama.jp/service/electronic-components/products/category/aerospace-development/",
+    "pass": 1
+   },
+   {
+    "quote": "本書中の会社名、製品名およびサービス名等は、それぞれ各社の商標または登録商標です",
+    "url": "https://www.tateyama.jp/wp/wp-content/uploads/2026/08/AttCAST-e-PASS_leaflet_20251017.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "■ 製品構造/特長 Construction/ Feature",
+    "url": "https://www.tateyama.jp/wp/wp-content/uploads/2026/08/P1-2-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "付属品 電池 3本、USBケーブル、標準Ptセンサー 1本、取扱説明書（簡易版）※アプリケーションソフト（Excel）は、製品ホームページよりダウンロード可能",
+    "url": "https://www.tateyama.jp/wp/wp-content/uploads/2026/10/k320.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品の特性はお客様のご要望に応じてカスタマイズが可能です",
+    "url": "https://www.tateyama.jp/wp/wp-content/uploads/2026/08/b46337c187189110832293d44871bf5f-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "只今、カタログ【製品部品加工事例集】にて",
+    "url": "https://mono.ipros.com/product/detail/2000537791/",
+    "pass": 3
+   },
+   {
+    "quote": "装置部品をはじめとする弊社加工製品を公開しております",
+    "url": "https://mono.ipros.com/product/detail/2000537791/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様に品質・精度・納期にご満足頂けるよう「絶対品質」の製品とサービスをご提供します",
+    "url": "https://mono.ipros.com/product/detail/2000537791/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス一覧 (118)",
+    "url": "https://mono.ipros.com/product/detail/2000537791/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様に品質・精度・納期にご満足頂けるよう「絶対品質」の製品とサービスをご提供します",
+    "url": "https://mono.ipros.com/product/detail/2000610281/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス一覧 (118)",
+    "url": "https://mono.ipros.com/product/detail/2000610281/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "材質：A5052（アルミ）",
+    "url": "https://www.tateyama.jp/service/precision-parts/",
+    "pass": 1
+   },
+   {
+    "quote": "材質：A6061（アルミ）",
+    "url": "https://www.tateyama.jp/service/precision-parts/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに医療用・産業用電子ユニットのEMSや、樹脂試験向け計測機器にも対応し、設計から量産まで一貫した品質で市場へ届けています",
+    "url": "https://www.tateyama.jp/service/electronic-devices/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ・樹脂板 自動定寸装置付小型切断機 UCA-T500-05",
+    "url": "https://mono.ipros.com/product/detail/2000537791/",
+    "pass": 3
+   },
+   {
+    "quote": "材質は、A5052/AC4C/AC7A（アルミ系・アルミ鋳物系)を使用",
+    "url": "https://mono.ipros.com/product/detail/2000610281/",
+    "pass": 3
+   },
+   {
+    "quote": "■材質：A5052/AC4C/AC7A（アルミ系・アルミ鋳物系)",
+    "url": "https://mono.ipros.com/product/detail/2000610281/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "短納期品・多品種単品から少量・量産まで、幅広い加工ニーズに応えます",
+    "url": "https://www.tateyama.jp/service/precision-parts/",
+    "pass": 1
+   },
+   {
+    "quote": "小ロットから量産、大型部品、複雑形状の加工まで",
+    "url": "https://www.tateyama.jp/service/precision-parts/",
+    "pass": 1
+   },
+   {
+    "quote": "その加工技術をコアに試作・小ロットから量産まで、お客様のニーズにあった製品を提供します",
+    "url": "https://www.tateyama.jp/service/precision-parts/products/group/%E7%B2%BE%E5%AF%86%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "開発試作、少ロット生産対応力に自信があります",
+    "url": "https://www.tateyama.jp/service/precision-parts/products/group/%E7%B2%BE%E5%AF%86%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "精密加工、外観重視加工、5 軸マシニング加工、量産対応、単品対応、短納期対応、コスト提案、トレーサビリティ、JIS Q 9100 およびJIS Q 9001(ISO 9001)認証取得、プログラム設計、シミュレーション技術、恒温室保有、検査技術、QCD 管理体制、品質保証体制、3 次元測定・検査、改善活動文化(QC サークル)、自動化、省人化",
+    "url": "https://www.tateyama.jp/service/precision-parts/products/group/%E7%B2%BE%E5%AF%86%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "短納期の単品・少量から量産まで柔軟に対応します",
+    "url": "https://www.tateyama.jp/group/company/taf/",
+    "pass": 1
+   },
+   {
+    "quote": "【試作から少ロット生産対応】FA装置部品！！ タアフ | イプロスものづくり",
+    "url": "https://mono.ipros.com/product/detail/2000537791/",
+    "pass": 3
+   },
+   {
+    "quote": "【試作から少ロット生産対応】FA装置部品！！",
+    "url": "https://mono.ipros.com/product/detail/2000537791/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体関連装置やFA装置部品の加工でお困りの方必見！多品種小ロットに対応いたします",
+    "url": "https://mono.ipros.com/product/detail/2000537791/",
+    "pass": 3
+   },
+   {
+    "quote": "■開発試作・多品種小ロット生産に対応できます",
+    "url": "https://mono.ipros.com/product/detail/2000537791/",
+    "pass": 3
+   },
+   {
+    "quote": "【高精度部品】や【傷の許されない外観重視部品】の精密加工を得意としており、小ロットから量産までお客様のニーズに対応しております",
+    "url": "https://mono.ipros.com/product/detail/2000537791/",
+    "pass": 3
+   },
+   {
+    "quote": "【試作から量産まで】フレキシブル生産体制で対応！！",
+    "url": "https://mono.ipros.com/product/detail/2000537791/",
+    "pass": 3
+   },
+   {
+    "quote": "工法転換｜溶接・組立品をアルミ鋳物で一体化 1個から試作",
+    "url": "https://mono.ipros.com/product/detail/2000537791/",
+    "pass": 3
+   },
+   {
+    "quote": "【試作、少ロット対応】半導体製造装置部品はお任せください！ タアフ | イプロスものづくり",
+    "url": "https://mono.ipros.com/product/detail/2000610281/",
+    "pass": 3
+   },
+   {
+    "quote": "【試作、少ロット対応】半導体製造装置部品はお任せください！",
+    "url": "https://mono.ipros.com/product/detail/2000610281/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造装置部品や産業用ロボット部品及びFA装置部品など加工実績多数、様々な分野の試作、少量多品種を得意としています",
+    "url": "https://mono.ipros.com/product/detail/2000610281/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、試作品をはじめ1個から対応可能です",
+    "url": "https://mono.ipros.com/product/detail/2000610281/",
+    "pass": 3
+   },
+   {
+    "quote": "【高精度部品】や【傷の許されない外観重視部品】の精密加工を得意としており、小ロットから量産までお客様のニーズに対応しております",
+    "url": "https://mono.ipros.com/product/detail/2000610281/",
+    "pass": 3
+   },
+   {
+    "quote": "『半導体製造装置部品』試作、少ロットから量産まで対応",
+    "url": "https://mono.ipros.com/product/detail/2000610281/",
+    "pass": 3
+   },
+   {
+    "quote": "工法転換｜溶接・組立品をアルミ鋳物で一体化 1個から試作",
+    "url": "https://mono.ipros.com/product/detail/2000610281/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "産業用ロボット、半導体製造装置、航空機など、",
+    "url": "https://www.tateyama.jp/service/precision-parts/",
+    "pass": 1
+   },
+   {
+    "quote": "航空・宇宙関連部品に代表される管理されたモノづくりを徹底しています",
+    "url": "https://www.tateyama.jp/service/precision-parts/products/group/%E7%B2%BE%E5%AF%86%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "ロボット部品（クリーンルーム仕様・医療仕様・協働仕様・真空仕様）",
+    "url": "https://www.tateyama.jp/service/precision-parts/products/group/%E7%B2%BE%E5%AF%86%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "家電・自動車・産業機器・衛星・医療など幅広い分野で、製品品質と信頼性を支える重要部品として採用されています",
+    "url": "https://www.tateyama.jp/service/electronic-components/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに医療用・産業用電子ユニットのEMSや、樹脂試験向け計測機器にも対応し、設計から量産まで一貫した品質で市場へ届けています",
+    "url": "https://www.tateyama.jp/service/electronic-devices/",
+    "pass": 1
+   },
+   {
+    "quote": "産業機器、医療機器、車載、",
+    "url": "https://www.tateyama.jp/service/electronic-devices/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車部品、二次電池、電子部品、医療品、家電など幅広い業界に向けて、",
+    "url": "https://www.tateyama.jp/service/industrial-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "低床型とモジュラー型を揃えた自律搬送ロボットTARシリーズで現場の省人化を実現",
+    "url": "https://www.tateyama.jp/service/industrial-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "自律搬送ロボット TARシリーズ｜産業用生産装置事業｜事業内容｜立山科学グループ",
+    "url": "https://www.tateyama.jp/service/industrial-equipment/products/group/tar/",
+    "pass": 1
+   },
+   {
+    "quote": "ロボット高さ 132ｍｍ",
+    "url": "https://www.tateyama.jp/service/industrial-equipment/products/group/tar/",
+    "pass": 1
+   },
+   {
+    "quote": "ロボット高さ 290ｍｍ",
+    "url": "https://www.tateyama.jp/service/industrial-equipment/products/group/tar/",
+    "pass": 1
+   },
+   {
+    "quote": "本搬送ロボットを動作させるためには、「5GHz無線ネットワークの構築」「専⽤サーバーの設置」「群制御システムソフトウェアの導⼊」が必要です",
+    "url": "https://www.tateyama.jp/service/industrial-equipment/products/group/tar/",
+    "pass": 1
+   },
+   {
+    "quote": "日本国内の自動車ナンバープレートは大文字の数字に加え、小文字の平仮名・漢字が使用されていることから、ナンバープレート認識の為には高度な技術と高額な機器が必要でした",
+    "url": "https://www.tateyama.jp/service/software/products/group/lprsys/",
+    "pass": 1
+   },
+   {
+    "quote": "医療製品製造ライン、透析針組立ライン",
+    "url": "https://www.tateyama.jp/service/industrial-equipment/products/group/fa-system/",
+    "pass": 1
+   },
+   {
+    "quote": "機械設計、制御設計、3D 設計 / 3D シミュレーション / 3D 構造解析 / 画像検査システム / トレーサビリティ / 食品・医療品対応 / クリーン環境 / パラレルリンクロボット技術 / 溶接、レーザー加工 / 多関節ロボットを利用した標準組立機 / リーク検査 / 電気特性検査 / 液体充填 / 各種塗布システム / かしめ、圧入、絞り加工、打ち抜き加工",
+    "url": "https://www.tateyama.jp/service/industrial-equipment/products/group/fa-system/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車、産業機器、家電製品など",
+    "url": "https://www.tateyama.jp/service/electronic-components/products/post/twt-wire-bond/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車の重要部品を加工・組立・検査する装置",
+    "url": "https://www.tateyama.jp/group/catalog/",
+    "pass": 1
+   },
+   {
+    "quote": "電気自動車やデータセンター向け電池をつくる装置",
+    "url": "https://www.tateyama.jp/group/catalog/",
+    "pass": 1
+   },
+   {
+    "quote": "工場や倉庫の中を自動で走り、部品や商品を運ぶロボット",
+    "url": "https://www.tateyama.jp/group/catalog/",
+    "pass": 1
+   },
+   {
+    "quote": "ハイブリッド車や電気自動車のモーター温度を見守るセンサ",
+    "url": "https://www.tateyama.jp/group/catalog/",
+    "pass": 1
+   },
+   {
+    "quote": "注射器や医療用チューブなどを組み立て、検査する装置",
+    "url": "https://www.tateyama.jp/group/catalog/",
+    "pass": 1
+   },
+   {
+    "quote": "清潔でばらつきのない医療製品づくりを支えます",
+    "url": "https://www.tateyama.jp/group/catalog/",
+    "pass": 1
+   },
+   {
+    "quote": "電子部品（各種抵抗器、チップサーミスタ、静電気保護素子、宇宙用部品、複合部品等）、電子機器（各種無線機器および応用機器等）、温度センサ（ガス・電気機器、温水機器、自動車等向けの温度センサプローブ等）の開発・製造・販売",
+    "url": "https://www.tateyama.jp/group/company/tk/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車産業向け品質マネジメントシステム国際規格 ISO/TS16949 認証取得",
+    "url": "https://www.tateyama.jp/group/company/tk/",
+    "pass": 1
+   },
+   {
+    "quote": "衛星用チップ抵抗器としてJAXA（宇宙航空研究開発機構）認定",
+    "url": "https://www.tateyama.jp/group/company/tk/",
+    "pass": 1
+   },
+   {
+    "quote": "i-Booster（医療機器）販売開始（販売元：立山科学工業（株）・販売製造元：立山マシン（株））",
+    "url": "https://www.tateyama.jp/group/company/tk/",
+    "pass": 1
+   },
+   {
+    "quote": "角形チップ抵抗器、ネットワーク抵抗器、チップサーミスタ、静電気保護素子、宇宙用部品、複合部品 等の製造・販売",
+    "url": "https://www.tateyama.jp/group/company/dt/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車産業向け品質マネジメントシステム国際規格 ISO/TS 16949 認証取得",
+    "url": "https://www.tateyama.jp/group/company/dt/",
+    "pass": 1
+   },
+   {
+    "quote": "宇宙航空研究開発機構（JAXA）CRK 品QML 認定取得",
+    "url": "https://www.tateyama.jp/group/company/dt/",
+    "pass": 1
+   },
+   {
+    "quote": "宇宙航空研究開発機構（JAXA）より宇宙開発用部品「サブミニチュア限流ヒューズ」が優秀部品開発賞受賞",
+    "url": "https://www.tateyama.jp/group/company/dt/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車産業向け品質マネジメントシステム国際規格 IATF16949 更新",
+    "url": "https://www.tateyama.jp/group/company/dt/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車産業向け品質マネジメントシステム国際規格",
+    "url": "https://www.tateyama.jp/group/company/dt/",
+    "pass": 1
+   },
+   {
+    "quote": "はやぶさ・気象衛星・H2ロケット・燃料電池車などにも搭載される抵抗器やヒューズへの対応",
+    "url": "https://www.tateyama.jp/group/company/dt/",
+    "pass": 1
+   },
+   {
+    "quote": "ISO13485（医療機器・体外診断用医薬品）認証取得（立山科学モジュールテクノロジー）",
+    "url": "https://www.tateyama.jp/group/company/ht/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器の品質を一貫して確保するための品質マネジメントシステムの国際規格",
+    "url": "https://www.tateyama.jp/group/company/ht/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車部品や二次電池、",
+    "url": "https://www.tateyama.jp/group/company/ma/",
+    "pass": 1
+   },
+   {
+    "quote": "自律型搬送ロボットTARまで展開し、",
+    "url": "https://www.tateyama.jp/group/company/ma/",
+    "pass": 1
+   },
+   {
+    "quote": "精密切削加工を担い、産業用ロボット、",
+    "url": "https://www.tateyama.jp/group/company/taf/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置、航空機などの部品を製作",
+    "url": "https://www.tateyama.jp/group/company/taf/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・真空分野で培った高精度加工と、",
+    "url": "https://www.tateyama.jp/group/company/taf/",
+    "pass": 1
+   },
+   {
+    "quote": "精密部品製造（ロボット機器部品、半導体・液晶機器部品、航空機部品、その他精密部品）",
+    "url": "https://www.tateyama.jp/group/company/taf/",
+    "pass": 1
+   },
+   {
+    "quote": "ロボット部品（クリーンルーム仕様）生産開始",
+    "url": "https://www.tateyama.jp/group/company/taf/",
+    "pass": 1
+   },
+   {
+    "quote": "航空機部品生産開始（5軸横型マシニングセンタ増設 安田工業H40i導入）",
+    "url": "https://www.tateyama.jp/group/company/taf/",
+    "pass": 1
+   },
+   {
+    "quote": "航空機共同受注クラスター「ソラトヤマ」発足",
+    "url": "https://www.tateyama.jp/group/company/taf/",
+    "pass": 1
+   },
+   {
+    "quote": "航空・宇宙・防衛分野に特化した品質マネジメントシステム（QMS）の国際規格",
+    "url": "https://www.tateyama.jp/group/company/taf/",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙開発用製品｜電子部品事業｜事業内容｜立山科学グループ",
+    "url": "https://www.tateyama.jp/service/electronic-components/products/category/aerospace-development/",
+    "pass": 1
+   },
+   {
+    "quote": "JAXACRK_H 宇宙開発用信頼性保証チップ形皮膜抵抗器",
+    "url": "https://www.tateyama.jp/service/electronic-components/products/category/aerospace-development/",
+    "pass": 1
+   },
+   {
+    "quote": "JAXA2160/A101 宇宙開発用信頼性保証チップ形負特性サーミスタ",
+    "url": "https://www.tateyama.jp/service/electronic-components/products/category/aerospace-development/",
+    "pass": 1
+   },
+   {
+    "quote": "JAXA2160/B101 宇宙開発用信頼性保証リード形負特性サーミスタ",
+    "url": "https://www.tateyama.jp/service/electronic-components/products/category/aerospace-development/",
+    "pass": 1
+   },
+   {
+    "quote": "JAXA2210/101 宇宙開発用信頼性保証サブミニチュア限流ヒューズ",
+    "url": "https://www.tateyama.jp/service/electronic-components/products/category/aerospace-development/",
+    "pass": 1
+   },
+   {
+    "quote": "JAXA2210/102 宇宙開発用信頼性保証表面実装形ミニチュア限流ヒューズ",
+    "url": "https://www.tateyama.jp/service/electronic-components/products/category/aerospace-development/",
+    "pass": 1
+   },
+   {
+    "quote": "■ 半導体、電子部品の温度補償",
+    "url": "https://www.tateyama.jp/wp/wp-content/uploads/2026/08/b46337c187189110832293d44871bf5f-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "半導体関連装置やFA装置部品の加工でお困りの方必見！多品種小ロットに対応いたします",
+    "url": "https://mono.ipros.com/product/detail/2000537791/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体装置をはじめ、工作機械装置や液晶装置、真空関連装置などの",
+    "url": "https://mono.ipros.com/product/detail/2000537791/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体や各種装置の部品からクリーンルームや医療向けロボット部品、近年では複雑な形状をした航空機部品と加工の幅を広げてきました",
+    "url": "https://mono.ipros.com/product/detail/2000537791/",
+    "pass": 3
+   },
+   {
+    "quote": "【半導体製造装置部品加工事例紹介】【アルミ深掘り加工】",
+    "url": "https://mono.ipros.com/product/detail/2000537791/",
+    "pass": 3
+   },
+   {
+    "quote": "【医療、真空装置部品】アルミ、ステンレスの加工はお任せください",
+    "url": "https://mono.ipros.com/product/detail/2000537791/",
+    "pass": 3
+   },
+   {
+    "quote": "【試作、少ロット対応】半導体製造装置部品はお任せください！ タアフ | イプロスものづくり",
+    "url": "https://mono.ipros.com/product/detail/2000610281/",
+    "pass": 3
+   },
+   {
+    "quote": "【試作、少ロット対応】半導体製造装置部品はお任せください！",
+    "url": "https://mono.ipros.com/product/detail/2000610281/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造装置部品や産業用ロボット部品及びFA装置部品など加工実績多数、様々な分野の試作、少量多品種を得意としています",
+    "url": "https://mono.ipros.com/product/detail/2000610281/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "位置検知プラットフォーム「theams」などを展開",
+    "url": "https://www.tateyama.jp/service/software/",
+    "pass": 1
+   },
+   {
+    "quote": "認識番長やtheamsでは、",
+    "url": "https://www.tateyama.jp/service/software/",
+    "pass": 1
+   },
+   {
+    "quote": "位置検知統合プラットフォーム theams",
+    "url": "https://www.tateyama.jp/service/software/",
+    "pass": 1
+   },
+   {
+    "quote": "TATEYAMA KAGAKU CO., LTD.",
+    "url": "https://www.tateyama.jp/service/software/",
+    "pass": 1
+   },
+   {
+    "quote": "TATEYAMA KAGAKU HIGH TECHNOLOGIES CO., LTD.",
+    "url": "https://www.tateyama.jp/service/software/",
+    "pass": 1
+   },
+   {
+    "quote": "TATEYAMA KAGAKU DEVICE TECHNOLOGY CO., LTD.",
+    "url": "https://www.tateyama.jp/service/electronic-components/",
+    "pass": 1
+   },
+   {
+    "quote": "TATEYAMA KAGAKU HIGH TECHNOLOGIES CO., LTD.",
+    "url": "https://www.tateyama.jp/service/electronic-components/",
+    "pass": 1
+   },
+   {
+    "quote": "TATEYAMA KAGAKU HIGH TECHNOLOGIES CO., LTD.",
+    "url": "https://www.tateyama.jp/service/electronic-devices/",
+    "pass": 1
+   },
+   {
+    "quote": "TATEYAMA MACHINE CO., LTD.",
+    "url": "https://www.tateyama.jp/service/industrial-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "TATEYAMA KAGAKU HIGH TECHNOLOGIES CO., LTD.",
+    "url": "https://www.tateyama.jp/service/industrial-equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "TATEYAMA KAGAKU CO., LTD.",
+    "url": "https://www.tateyama.jp/group/company/",
+    "pass": 1
+   },
+   {
+    "quote": "TATEYAMA KAGAKU DEVICE TECHNOLOGY CO., LTD.",
+    "url": "https://www.tateyama.jp/group/company/",
+    "pass": 1
+   },
+   {
+    "quote": "TATEYAMA MACHINE CO., LTD.",
+    "url": "https://www.tateyama.jp/group/company/",
+    "pass": 1
+   },
+   {
+    "quote": "TATEYAMA KAGAKU HIGH TECHNOLOGIES CO., LTD.",
+    "url": "https://www.tateyama.jp/group/company/",
+    "pass": 1
+   },
+   {
+    "quote": "TATEYAMA GENERAL DEVELOPMENT CO., LTD.",
+    "url": "https://www.tateyama.jp/group/company/",
+    "pass": 1
+   },
+   {
+    "quote": "TATEYAMA AUTO MACHINE MALAYSIA",
+    "url": "https://www.tateyama.jp/group/company/",
+    "pass": 1
+   },
+   {
+    "quote": "TATEYAMA R&D EUROPE LTD.",
+    "url": "https://www.tateyama.jp/group/company/",
+    "pass": 1
+   },
+   {
+    "quote": "位置検知統合プラットフォーム「theams」",
+    "url": "https://www.tateyama.jp/group/catalog/",
+    "pass": 1
+   },
+   {
+    "quote": "位置検知統合プラットフォームtheamsページ",
+    "url": "https://www.tateyama.jp/group/company/ht/",
+    "pass": 1
+   },
+   {
+    "quote": "E-Mail:ds-bs-sales@tateyama.jp",
+    "url": "https://www.tateyama.jp/wp/wp-content/uploads/2026/08/AttCAST-e-PASS_leaflet_20251017.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "http://www.tateyama.jp/",
+    "url": "https://www.tateyama.jp/wp/wp-content/uploads/2026/08/AttCAST-e-PASS_leaflet_20251017.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "周囲温度 / Ambient temperature",
+    "url": "https://www.tateyama.jp/wp/wp-content/uploads/2026/08/P1-2-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "周囲温度 / Ambient temperature [℃]",
+    "url": "https://www.tateyama.jp/wp/wp-content/uploads/2026/08/P1-2-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "In case of ambient temperature above 70℃, rated power shall be",
+    "url": "https://www.tateyama.jp/wp/wp-content/uploads/2026/08/P1-2-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "HP：https://www.tateyama.jp/ht/ E-mail：high-tech@tateyama.jp",
+    "url": "https://www.tateyama.jp/wp/wp-content/uploads/2026/10/k320.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "https://www.tateyama.jp/dt//",
+    "url": "https://www.tateyama.jp/wp/wp-content/uploads/2026/08/b46337c187189110832293d44871bf5f-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "dev-te@tateyama.jpお問合せはこちらまで",
+    "url": "https://www.tateyama.jp/wp/wp-content/uploads/2026/08/b46337c187189110832293d44871bf5f-1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "関連リンク - http://www.tateyama.jp/taf/solution/s01/",
+    "url": "https://mono.ipros.com/product/detail/2000537791/",
+    "pass": 3
+   },
+   {
+    "quote": "関連リンク - http://www.tateyama.jp/taf/result/",
+    "url": "https://mono.ipros.com/product/detail/2000610281/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "予約メール内のご来訪者情報入力リンクから、スマートフォンのカメラを起動し、レンタカーのナンバーを撮影・登録します",
+    "url": "https://www.tateyama.jp/service/software/products/group/attcast-e-pass/",
+    "pass": 1
+   },
+   {
+    "quote": "構内滞在中の来訪者の受入担当者へ一斉に安否確認メールを送信することで、迅速な現状把握に役立ちます",
+    "url": "https://www.tateyama.jp/service/software/products/group/attcast-e-pass/",
+    "pass": 1
+   },
+   {
+    "quote": "予約作成、編集、取り消し / 来訪者による事前情報入力 / 訪問先ごとの承認設定 / メールによる各種通知機能 / 受入担当者によるチェックイン・チェックアウト / 入退場履歴管理、データ出力 / 車両ナンバー認識システム連携 / 敷地駐車場管理 / 本人確認強化機能 （オプション） / ユーザー権限管理機能 / 来訪者安否確認 / 企業内へのお知らせ機能",
+    "url": "https://www.tateyama.jp/service/software/products/group/attcast-e-pass/",
+    "pass": 1
+   },
+   {
+    "quote": "2次元コード付きの予約メールを通知します",
+    "url": "https://www.tateyama.jp/wp/wp-content/uploads/2026/08/AttCAST-e-PASS_leaflet_20251017.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "予約メール内の「訪問者情報入力フォーム画面」より、",
+    "url": "https://www.tateyama.jp/wp/wp-content/uploads/2026/08/AttCAST-e-PASS_leaflet_20251017.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "有事の際に受入担当者へ来訪者の安否確認メールを一斉通知！",
+    "url": "https://www.tateyama.jp/wp/wp-content/uploads/2026/08/AttCAST-e-PASS_leaflet_20251017.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "E-Mail:ds-bs-sales@tateyama.jp",
+    "url": "https://www.tateyama.jp/wp/wp-content/uploads/2026/08/AttCAST-e-PASS_leaflet_20251017.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "HP：https://www.tateyama.jp/ht/ E-mail：high-tech@tateyama.jp",
+    "url": "https://www.tateyama.jp/wp/wp-content/uploads/2026/10/k320.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【試作から少ロット生産対応】FA装置部品！！ タアフ | イプロスもの... — 弊社はアルミを中心に鉄・ステンレスの切削加工を行っております。 【高精度部品】や【傷の許されない外観重視部品】の精密加工を得意としており、小ロットから量産までお客様のニーズに対応しております。",
+    "url": "https://mono.ipros.com/product/detail/2000537791/",
+    "pass": 3
+   },
+   {
+    "quote": "【試作、少ロット対応】半導体製造装置部品はお任せください！ タアフ... — タアフの【試作、少ロット対応】半導体製造装置部品はお任せください！ の技術や価格情報などをご紹介。 半導体製造装置部品や産業用ロボット部品及びFA装置部品など加工実績多数、様々な分野の試作、少量多品種を得意としています。",
+    "url": "https://mono.ipros.com/product/detail/2000610281/",
+    "pass": 3
+   },
+   {
+    "quote": "精密部品事業｜株式会社タアフ - tateyama.jp — 傷のない外観・精度にこだわった高品位加工技術に特化した企業です。 その加工技術をコアに試作・小ロットから量産まで、お客様のニーズにあった製品を提供します。 クリーンルーム環境で使用する機器に要求される外観重要部品加工を得意としています。",
+    "url": "https://www.tateyama.jp/taf/solution/s01/",
+    "pass": 3
+   },
+   {
+    "quote": "【アルミ鋳物加工部品紹介】試作、少ロットから量産まで対応！ タアフ... — その加工技術をコアに試作・小ロットから量産まで、お客様のニーズにあった製品を提供します。 精密部品の加工でお困りの方は、当社にお任せください。 【特長】 外観重要部品に特化 試作・小ロットから量産まで対応可",
+    "url": "https://www.ipros.jp/product/detail/2000613194",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社タアフ - tateyama.jp — 立山マシン株式会社 株式会社タアフ アイテイエム株式会社 立山総合開発株式会社 TATEYAMA AUTO MACHINE CO. (M) TATEYAMA R&D EUROPE TATEYAMA USA 個人情報保護方針 情報セキュリティ基本方針 サイト利用条件 行動計画の策定 JIS Q 9100 ISO 14001 認証範囲はこちらをご覧ください",
+    "url": "https://www.tateyama.jp/taf/",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報｜株式会社タアフ - tateyama.jp株式会社タアフ - tateyama.jp株式会社タアフ（富山県）の会社概要・役員 | Compalyze株式会社テイ・エイ・エフ TAF（タフ）｜ネジ・工業用製品の総合商社株式会社 タアフ 富山県 富山市 - NCNetwork事業内容 – 株式会社アフェクター - AFFECTOR会社概要 – 株式会社アフェクター - AFFECTOR — HOME> 企業情報 会社概要 企業情報 事業内容 アクセス お問い合わせ 立山科学株式会社 株式会社立山科学デバイステクノロジー 株式会社立山科学ハイテクノロジーズ 立山マシン株式会社 株式会社タアフ アイテイエム株式会社 立山総合開発株式会社 TATEYAMA AUTO MACHINE CO. (M) TATEYAMA R&D ... 〒939-8132 富山県富山市に本社を置く株式会社タアフ",
+    "url": "https://www.tateyama.jp/taf/about/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社タアフ - tateyama.jp — 企業情報 事業内容 アクセス お問い合わせ 立山科学株式会社 株式会社立山科学デバイステクノロジー 株式会社立山科学ハイテクノロジーズ 立山マシン株式会社 株式会社タアフ アイテイエム株式会社 立山総合開発株式会社 TATEYAMA AUTO MACHINE CO. (M) TATEYAMA R&D ...",
+    "url": "https://www.tateyama.jp/taf/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社タアフ（富山県）の会社概要・役員 | Compalyze — 〒939-8132 富山県富山市に本社を置く株式会社タアフの企業情報。株式会社タアフは、同社が立山科学グループの精密加工部門を担い、ロボット機器、半導体・液晶製造装置、航空機、医療機器。製造業 (鉄鋼・金属)、1987年設立、社会保険被保険者数74名。代表者 光田浩司。役員1名・登記4件。",
+    "url": "https://compalyze.co.jp/company/1230001001519",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社テイ・エイ・エフ TAF（タフ）｜ネジ・工業用製品の総合商社株式会社 タアフ 富山県 富山市 - NCNetwork事業内容 – 株式会社アフェクター - AFFECTOR会社概要 – 株式会社アフェクター - AFFECTOR — 株式会社テイ・エイ・エフ SDGs宣言 沿革 history 昭和46年9月 設立 昭和54年3月 東京営業所開設 昭和61年3月 埼玉営業所開設 平成2年10月 千葉営業所開設 平成4年3月 京葉営業所開設（東京・千葉営業所合併） 平成17年3月 京葉営業所移転（東金市） 平成17年10月 ... Nov 27, 2025 · 【タアフの特徴】真空関連装置部品 近年、タアフでは真空関連装置部品のお引合いを多く頂いております。 この技術を特徴とすべく、2023年度日本真空工業会に入会しました。 現在、小型の真空チャンバや、シール面を有する部品を多く加工",
+    "url": "https://www.taf-neji.com/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 タアフ 富山県 富山市 - NCNetwork — Nov 27, 2025 · 【タアフの特徴】真空関連装置部品 近年、タアフでは真空関連装置部品のお引合いを多く頂いております。 この技術を特徴とすべく、2023年度日本真空工業会に入会しました。 現在、小型の真空チャンバや、シール面を有する部品を多く加工しております。",
+    "url": "https://ja.nc-net.or.jp/company/94589/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ（入力）｜株式会社タアフ — E-mailでのお問い合わせ 上記フォームより正しく送信できない場合は下記メールアドレスまで E-mail にてお問い合わせください。 taf-info@tateyama.jp",
+    "url": "https://www.tateyama.jp/taf/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社タアフ - tateyama.jp — アクセス お問い合わせ 立山科学株式会社 株式会社立山科学デバイステクノロジー 株式会社立山科学ハイテクノロジーズ 立山マシン株式会社 株式会社タアフ アイテイエム株式会社 立山総合開発株式会社 TATEYAMA AUTO MACHINE CO. (M) TATEYAMA R&D EUROPE TATEYAMA USA 個人 ...",
+    "url": "https://www.tateyama.jp/taf/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【サウジアラビア】暑さへの“正解”は、気温よりも「標高×湿度×衣文化... Sep 15, 2025 · 避暑地タアフのスーク。 涼しい高原の街に広がる、地元の人々の生活と賑わいの市場。 白いトーブの合理 砂漠の国で白いトーブが支持され続ける理由は、ただの慣習じゃないと思います。",
+    "url": "https://note.com/takibee/n/n40eaf06e3b8a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【サウジアラビア】暑さへの“正解”は、気温よりも「標高×湿度×衣文化」（2025年9月／No.55）｜takibee｜旅メモ",
+    "url": "https://note.com/takibee/n/n40eaf06e3b8a",
+    "pass": 3
+   },
+   {
+    "quote": "【サウジアラビア】暑さへの“正解”は、気温よりも「標高×湿度×衣文化」（2025年9月／No.55）",
+    "url": "https://note.com/takibee/n/n40eaf06e3b8a",
+    "pass": 3
+   },
+   {
+    "quote": "タイーフで学んだ涼しさの仕組みは、東京の酷暑、沖縄やバンコクの体感差、",
+    "url": "https://note.com/takibee/n/n40eaf06e3b8a",
+    "pass": 3
+   },
+   {
+    "quote": "そして白いトーブの合理性まで一直線でつながっていました。",
+    "url": "https://note.com/takibee/n/n40eaf06e3b8a",
+    "pass": 3
+   },
+   {
+    "quote": "——訪れた2023年11月は「本当に涼しいのかな？」と半信半疑で、正直「暑いじゃん」と思った瞬間もありました。けれど、",
+    "url": "https://note.com/takibee/n/n40eaf06e3b8a",
+    "pass": 3
+   },
+   {
+    "quote": "するうちに、あの「乾いた暑さ＋標高による昼夜の差」がいかに楽かを痛感します。今夏は",
+    "url": "https://note.com/takibee/n/n40eaf06e3b8a",
+    "pass": 3
+   },
+   {
+    "quote": "沖縄の主要観測点で猛暑日（最高気温35℃以上）が記録されなかった",
+    "url": "https://note.com/takibee/n/n40eaf06e3b8a",
+    "pass": 3
+   },
+   {
+    "quote": "という話題もあり（海風や雲量の影響が指摘されています）、少し前に行ったバンコクも時間帯や風、建物の設計次第で",
+    "url": "https://note.com/takibee/n/n40eaf06e3b8a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "日合 二郎 - 株式会社タアフ - プログラマー | LinkedIn 株式会社タアフ - プログラマー · 職歴: 株式会社タアフ · 場所: 9300851。 10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで日合 二郎さんのプロフィールを閲覧しましょう。",
+    "url": "https://jp.linkedin.com/in/二郎-日合-579841315",
+    "pass": 3
+   },
+   {
+    "quote": "6(株)タアフ Jobs in Zambia Today's top 6 (株)タアフ jobs in Zambia. Leverage your professional network, and get hired. New (株)タアフ jobs added daily.",
+    "url": "https://zm.linkedin.com/jobs/(株)タアフ-jobs?countryRedirected=1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "RAISE A FLAG - Facebook神奈川県・湘南エリアの方にお知らせでーす！... - 【ムスビック】 習...竹内益己 - Facebookアフタヌーンパラダイス - Facebook︎ ︎道路沿いなのに、ほとんど中が見えない家 ―――――――――――――――――――――― ...ボールペン字【チャレンジ企画】綺麗な字ビフォーアフ ター第2回|切り...アフリカゾウの涙 Tears of the African Elephant - Facebook 早稲田ZONE-B & RAISE A FLAG共同企画 『難攻不落 第十七陣』 2026年11月23（月祝） 早稲田ZONE-B 開場 17:30 / 開演 18:00 前 3,000円 / 当3,500円（共に+1D） ≪ 布陣 ≫ RAISE A FLAG BAREBONES FUKUBAKE THE EARTH TEMP",
+    "url": "https://www.facebook.com/RAISEAFLAG/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tateyama.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tateyama.jp/service/precision-parts/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tateyama.jp/service/software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tateyama.jp/service/precision-parts/products/group/%E7%B2%BE%E5%AF%86%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tateyama.jp/service/software/products/group/attcast-e-pass/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tateyama.jp/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tateyama.jp/service/electronic-components/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tateyama.jp/service/electronic-devices/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tateyama.jp/service/industrial-equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tateyama.jp/service/industrial-equipment/products/group/tar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tateyama.jp/service/software/products/group/lprsys/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tateyama.jp/service/electronic-components/products/post/tsr-g-chip-resistor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tateyama.jp/service/industrial-equipment/products/group/fa-system/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tateyama.jp/service/industrial-equipment/products/post/%E9%AB%98%E7%B2%BE%E5%BA%A6%E6%B8%A9%E5%BA%A6%E3%83%AD%E3%82%AC%E3%83%BC-%E3%83%97%E3%83%AC%E3%82%B7%E3%82%A3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tateyama.jp/service/electronic-components/products/post/twt-wire-bond/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tateyama.jp/service/industrial-equipment/products/post/%E3%83%A1%E3%83%AB%E3%83%88%E3%82%A4%E3%83%B3%E3%83%87%E3%82%AF%E3%82%B5-%E5%A4%9A%E6%A9%9F%E8%83%BD%E3%83%A2%E3%83%87%E3%83%AB%EF%BC%88tm%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%EF%BC%89/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tateyama.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tateyama.jp/group/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tateyama.jp/group/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tateyama.jp/group/catalog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tateyama.jp/group/company/tk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tateyama.jp/group/company/dt/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tateyama.jp/group/company/ht/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tateyama.jp/group/company/ma/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tateyama.jp/group/company/taf/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tateyama.jp/group/company/itm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tateyama.jp/service/software/products/category/system-development/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tateyama.jp/service/software/products/group/mimamori-link/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tateyama.jp/service/software/products/category/newlydev/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tateyama.jp/service/electronic-components/products/category/aerospace-development/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.tateyama.jp/wp/wp-content/uploads/2026/08/AttCAST-e-PASS_leaflet_20251017.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tateyama.jp/wp/wp-content/uploads/2026/08/Catalog-2025-rev10.2-20251224.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tateyama.jp/wp/wp-content/uploads/2026/08/P1-2-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tateyama.jp/wp/wp-content/uploads/2026/10/k320.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tateyama.jp/wp/wp-content/uploads/2026/08/b46337c187189110832293d44871bf5f-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tateyama.jp/wp/wp-content/uploads/2026/10/newdev.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tateyama.jp/wp/wp-content/uploads/2026/08/0618dd9fede8848c282e6949bcd33c6c.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tateyama.jp/wp/wp-content/uploads/2026/10/cee1fd3a30e1ad198b5b0e380bcc0fcd.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tateyama.jp/wp/wp-content/themes/tateyama/images/group/catalog/kv/copy.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tateyama.jp/wp/wp-content/uploads/2026/09/product_img_pharma.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tateyama.jp/wp/wp-content/uploads/2026/09/product_img_delivery.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tateyama.jp/wp/wp-content/uploads/2026/09/product_img_manufact.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/product/detail/2000537791/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/product/detail/2000610281/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/1230001001519",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aflac.co.jp/inquiry/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/takibee/n/n40eaf06e3b8a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/in/二郎-日合-579841315",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://zm.linkedin.com/jobs/(株)タアフ-jobs?countryRedirected=1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/RAISEAFLAG/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "タアフ 取扱製品 試作 小ロット",
+   "results": [
+    "https://mono.ipros.com/product/detail/2000537791/",
+    "https://mono.ipros.com/product/detail/2000610281/",
+    "https://www.tateyama.jp/taf/solution/s01/",
+    "https://www.ipros.jp/product/detail/2000613194",
+    "https://www.tateyama.jp/taf/",
+    "https://ja.nc-net.or.jp/company/94589/product/detail/95556/",
+    "https://ja.nc-net.or.jp/company/94589/product/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "タアフ 会社概要 事業内容",
+   "results": [
+    "https://www.tateyama.jp/taf/about/",
+    "https://www.tateyama.jp/taf/",
+    "https://compalyze.co.jp/company/1230001001519",
+    "https://www.taf-neji.com/",
+    "https://ja.nc-net.or.jp/company/94589/",
+    "https://affector.co.jp/service/",
+    "https://affector.co.jp/company/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "タアフ お問い合わせ メール",
+   "results": [
+    "https://www.tateyama.jp/taf/contact/",
+    "https://www.tateyama.jp/taf/",
+    "https://www.aflac.co.jp/inquiry/",
+    "https://otaff.or.jp/contact/",
+    "https://tatras-official.jp/pages/contact",
+    "https://ja.nc-net.or.jp/company/94589/",
+    "http://www.tough-japan.com/inquiry/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com タアフ",
+   "results": [
+    "https://note.com/rise_autochess/n/n9ac79f5a0a78",
+    "https://note.com/takibee/n/n40eaf06e3b8a",
+    "https://note.com/oyako_kitchen/n/neccea6eebb8e",
+    "https://note.com/orgap/n/n0452a99105c3",
+    "https://tales.note.com/amelob/wmivdxmcbjzbp/episodes/e4rt579x4h93t",
+    "https://note.com/jsifhbdjficjfish/n/n31038d533d5d",
+    "https://note.com/itsuki_495/n/nc218b7688447"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com タアフ",
+   "results": [
+    "https://x.com/_sa_AAAAA/status/2119342138249089374",
+    "https://x.com/afi_jii/status/2119280300312469560",
+    "https://x.com/_ch4to_4810_/status/2119825913412272534",
+    "https://x.com/daichi58111",
+    "https://x.com/nekomiminus/status/2064826299722731958",
+    "https://x.com/mgtdcq/status/2113775091918213508",
+    "https://x.com/wuwa_Phoebe/status/2119405033561403860"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com タアフ",
+   "results": [
+    "https://jp.linkedin.com/in/二郎-日合-579841315",
+    "https://zm.linkedin.com/jobs/(株)タアフ-jobs?countryRedirected=1",
+    "https://www.linkedin.com/in/patrick-clancy-04a58727",
+    "https://www.linkedin.com/pub/dir/Keyaa/Bhatt",
+    "https://jp.linkedin.com/in/シャハランコンサルティング",
+    "https://it.linkedin.com/company/maxan",
+    "https://uk.linkedin.com/in/tracysutton"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com タアフ",
+   "results": [
+    "https://www.facebook.com/RAISEAFLAG/",
+    "https://www.facebook.com/p/竹内益己-100056178663212/",
+    "https://www.facebook.com/afpara.cfm/",
+    "https://www.facebook.com/tearsofelephants/",
+    "https://www.facebook.com/musbic.net/posts/神奈川県湘南エリアの方にお知らせでーす10月よりjr東海道線辻堂駅近くで内田陽子先生率いるタヒチアンダンス教室-ite-rahi-ataahua-の新しいクラス/3008714152477310/",
+    "https://www.facebook.com/groovyhome/videos/︎︎道路沿いなのにほとんど中が見えない家理想の家づくりが叶う他の実例はプロフィールにまとめています︎︎︎groovy_architex愛知県岡崎市刈谷市豊田市西/1067689226118459/",
+    "https://www.facebook.com/calligraphersyurei/videos/ボールペン字チャレンジ企画綺麗な字ビフォーアフター第2回切り抜き縦線をまっすぐ引くって難しいボールペン字-綺麗な字を書きたい-ペン習字/3405332846317533/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "タアフ note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.tateyama.jp/taf/",
+    "https://www.tateyama.jp/taf/about/",
+    "https://note.com/saiyou_dekirukun/all",
+    "https://shukatsu-line.pref.toyama.lg.jp/corporation/2473/info",
+    "https://note.com/rocks_coltd2025",
+    "https://note.jp/n/neb4da3c9a8b5"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "タアフ X 投稿",
+   "results": [
+    "https://x.com/taken_adaf",
+    "https://x.com/pandaafikas/status/1876185067351101459",
+    "https://afifree.net/adult-affiliate-twitter/",
+    "https://note.com/glad_shrew8601/n/n5ee54f9c2632",
+    "https://www.colorfulbox.jp/media/twitter-adult/",
+    "https://dakki-official.jp/articles/ada-affi-x-guide",
+    "https://afifree.net/fanza-affiliate-twitter/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式30頁／PDF・画像12件／外部8頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式30頁／PDF・画像12件／外部8頁・検索9回）"
+ }
+}

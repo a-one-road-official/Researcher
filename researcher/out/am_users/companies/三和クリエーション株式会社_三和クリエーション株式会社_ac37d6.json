@@ -1,0 +1,718 @@
+{
+ "name": "三和クリエーション株式会社 三和クリエーション株式会社",
+ "aliases": [],
+ "context": "ipros_all:小ロット",
+ "researched_at": "2026-11-11T13:25:02.448812+00:00",
+ "official_url": "http://www.sanwa-creation.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長 手塚　健一郎",
+    "url": "https://www.sanwa-creation.co.jp/company/overview/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒211-0051 神奈川県川崎市中原区宮内1-26-8 TEL:044-740-6800(代表） FAX:044-740-6801",
+    "url": "https://www.sanwa-creation.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "【本社】",
+    "value": "〒211-0051 神奈川県川崎市中原区宮内1-26-8",
+    "url": "https://www.sanwa-creation.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒211-0051 神奈川県川崎市 中原区宮内1-26-8",
+    "url": "https://www.sanwa-creation.co.jp/recruit/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "小径ピン・高精度シャフト 精密金型部品 工業用刃物 ダイヤモンド製治具・部品 その他精密部品の製造・販売",
+    "url": "https://www.sanwa-creation.co.jp/company/overview/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "三和クリエーションの製品は、サブミクロンを超える領域に挑む技術力で先端技術分野にも対応しています",
+    "url": "https://www.sanwa-creation.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "ダイヤモンド製品（コンパックス製品）｜製品情報｜三和クリエーション株式会社",
+    "url": "https://www.sanwa-creation.co.jp/products/diamond/",
+    "pass": 1
+   },
+   {
+    "quote": "丸棒ワークの研削加工における製品の受け台など",
+    "url": "https://www.sanwa-creation.co.jp/products/diamond/",
+    "pass": 1
+   },
+   {
+    "quote": "以来、小径ピン・シャフトの真円度を追求し、0.0001mm精度要求にお応えできる製品を生み出しています",
+    "url": "https://www.sanwa-creation.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "三和クリエーションはセンターレス研削盤の砥石、コントローラー、製品を組み合わせて1本のピンを作る事から始まりました",
+    "url": "https://www.sanwa-creation.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "PCD（人造多結晶ダイヤモンド）を活用したダイヤモンド製耐摩耗製品の製造開始",
+    "url": "https://www.sanwa-creation.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "情報端末、半導体、電子部品、自動車、測定機器、医療などの先端技術分野の製品の超小型化・超精密化の要求にお応えしていく中、ミクロンからサブミクロン、そしてナノレベルの精度実現に取り組んでおります",
+    "url": "https://www.sanwa-creation.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "これからの時代は、微細化と環境対応の要求がますます加速すると予想されますが、単に技術向上だけでなく、「何のために」「どんなストーリーを」「どんな喜びがあるか」という本質をとらえ、製品開発していくことが大切と考えます",
+    "url": "https://www.sanwa-creation.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "5. 環境負荷低減型の製品の開発を推進します",
+    "url": "https://www.sanwa-creation.co.jp/company/sdgs/",
+    "pass": 1
+   },
+   {
+    "quote": "川崎市と川崎商工会議所が一体となり、川崎の誇る技術と技能からうまれた優れた工業製品をブランドとして世界に発信し、「ものづくり」を 再発見し、世界のものづくりをリードしていていくことを目的に設けられた川崎ものづくりブランドです",
+    "url": "https://www.sanwa-creation.co.jp/company/csr/",
+    "pass": 1
+   },
+   {
+    "quote": "2030年に向けCO₂排出量の削減、生分解性素材を活用した製品開発、健康経営などをテーマに取り組んでまいります",
+    "url": "https://www.sanwa-creation.co.jp/company/csr/",
+    "pass": 1
+   },
+   {
+    "quote": "ピンゲージ｜製品情報｜三和クリエーション株式会社",
+    "url": "https://www.sanwa-creation.co.jp/products/pingage/",
+    "pass": 1
+   },
+   {
+    "quote": "小径ピン・高精度シャフト｜製品情報｜三和クリエーション株式会社",
+    "url": "https://www.sanwa-creation.co.jp/products/pin/",
+    "pass": 1
+   },
+   {
+    "quote": "金型部品｜製品情報｜三和クリエーション株式会社",
+    "url": "https://www.sanwa-creation.co.jp/products/kanagata/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の穴や材料の捨て穴にピッチズレ防止などの目的で",
+    "url": "https://www.sanwa-creation.co.jp/products/kanagata/",
+    "pass": 1
+   },
+   {
+    "quote": "精密部品｜製品情報｜三和クリエーション株式会社",
+    "url": "https://www.sanwa-creation.co.jp/products/precision-parts/",
+    "pass": 1
+   },
+   {
+    "quote": "工業用刃物｜製品情報｜三和クリエーション株式会社",
+    "url": "https://www.sanwa-creation.co.jp/products/blade/",
+    "pass": 1
+   },
+   {
+    "quote": "技術情報｜製品情報｜三和クリエーション株式会社",
+    "url": "https://www.sanwa-creation.co.jp/products/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の使用用途により1μｍ以下の高精度な",
+    "url": "https://www.sanwa-creation.co.jp/products/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "製品形状によってはハンドラップ加工対応も致しております",
+    "url": "https://www.sanwa-creation.co.jp/products/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の表面粗さについては各種砥石を用意していますのでご相談ください",
+    "url": "https://www.sanwa-creation.co.jp/products/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "何もない状態から製品ができあがることに面白みを感じていたので、次もモノづくりに携わりたいと思いました",
+    "url": "https://www.sanwa-creation.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に傷がつかないような環境も整っているので、慣れれば問題ありません",
+    "url": "https://www.sanwa-creation.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様によって要望が異なるので、製品が仕上がってお客様に満足頂いたときはやりがいですね",
+    "url": "https://www.sanwa-creation.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "製品がどのくらいの長さなのか、その製品をどこまで削ればいいのかを完成まで予測し、測定できていることが重要",
+    "url": "https://www.sanwa-creation.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "２．弊社取扱製品の品質管理・出荷検査",
+    "url": "https://www.sanwa-creation.co.jp/recruit/",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "ご希望サイズをオーダーメイドで製作させていただきます",
+    "url": "https://www.sanwa-creation.co.jp/products/diamond/",
+    "pass": 1
+   },
+   {
+    "quote": "小ロット～量産まで幅広く対応致しております",
+    "url": "https://www.sanwa-creation.co.jp/products/pin/",
+    "pass": 1
+   },
+   {
+    "quote": "ご希望サイズをオーダーメイドで製作させていただきます",
+    "url": "https://www.sanwa-creation.co.jp/products/kanagata/",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "SUS裸線やオイルテンパー線などの超硬治具では",
+    "url": "https://www.sanwa-creation.co.jp/products/diamond/",
+    "pass": 1
+   },
+   {
+    "quote": "コイリング加工でも治具の寿命が大幅に向上します",
+    "url": "https://www.sanwa-creation.co.jp/products/diamond/",
+    "pass": 1
+   },
+   {
+    "quote": "現在では、自動車、電子部品、測定機器、航空、医療などの幅広い産業分野で弊社のピン・シャフトをご活用頂いています",
+    "url": "https://www.sanwa-creation.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "情報端末、半導体、電子部品、自動車、測定機器、医療などの先端技術分野の製品の超小型化・超精密化の要求にお応えしていく中、ミクロンからサブミクロン、そしてナノレベルの精度実現に取り組んでおります",
+    "url": "https://www.sanwa-creation.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車、通信、半導体、医療など様々な分野でご利用頂いております",
+    "url": "https://www.sanwa-creation.co.jp/products/pin/",
+    "pass": 1
+   },
+   {
+    "quote": "金型部品｜製品情報｜三和クリエーション株式会社",
+    "url": "https://www.sanwa-creation.co.jp/products/kanagata/",
+    "pass": 1
+   },
+   {
+    "quote": "モールドのコアピンやプレス金型のパイロットピンとして",
+    "url": "https://www.sanwa-creation.co.jp/products/kanagata/",
+    "pass": 1
+   },
+   {
+    "quote": "また金型の小型化により金型内部の空間を有効活用する",
+    "url": "https://www.sanwa-creation.co.jp/products/kanagata/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・電子部品を搬送するキャリアテープの加工、",
+    "url": "https://www.sanwa-creation.co.jp/products/kanagata/",
+    "pass": 1
+   },
+   {
+    "quote": "プレス金型で使用されるパイロットピン、ガイドピン、",
+    "url": "https://www.sanwa-creation.co.jp/products/kanagata/",
+    "pass": 1
+   },
+   {
+    "quote": "高い耐食性や非磁性を求められる金型や装置で使用される",
+    "url": "https://www.sanwa-creation.co.jp/products/kanagata/",
+    "pass": 1
+   },
+   {
+    "quote": "射出成形金型（モールド）で使用されるコアピン、",
+    "url": "https://www.sanwa-creation.co.jp/products/kanagata/",
+    "pass": 1
+   },
+   {
+    "quote": "医療や半導体向け樹脂部品の成形に用いられる他、",
+    "url": "https://www.sanwa-creation.co.jp/products/kanagata/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体集積回路の製造工程において用いるプローブカードに使用されます",
+    "url": "https://www.sanwa-creation.co.jp/products/precision-parts/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用のニッケルチタンチューブや精密なコーティング工程で",
+    "url": "https://www.sanwa-creation.co.jp/products/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "使用される治具の製作において弊社のセンターレス長尺加工を",
+    "url": "https://www.sanwa-creation.co.jp/products/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "気温によって寸法が変わってきたり、削るために必要な抑える器具（治具）だったり…調整が難しいですね",
+    "url": "https://www.sanwa-creation.co.jp/recruit/",
+    "pass": 1
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "積層セラミックチップコンデンサ(MLCC)向け、切断刃物「グリーンシートカッター」の販売開始",
+    "url": "https://www.sanwa-creation.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は、1999年の会社設立以来、超硬合金、ファインセラミックス、ダイヤモンド、チタンなどの硬質素材・難削素材を超精密・微細加工する技術を基軸として歩んでまいりました",
+    "url": "https://www.sanwa-creation.co.jp/company/greeting/",
+    "pass": 1
+   },
+   {
+    "quote": "超硬合金・セラミック・ダイヤモンド素材加工を主とし、精密部品、精密治工具、各種 精密ピンを製造する会社として、事業活動における環境影響を自覚し、環境保全に努めます",
+    "url": "https://www.sanwa-creation.co.jp/company/sdgs/",
+    "pass": 1
+   },
+   {
+    "quote": "超硬合金、ジルコニアセラミックス、SKHは要相談",
+    "url": "https://www.sanwa-creation.co.jp/products/pingage/",
+    "pass": 1
+   },
+   {
+    "quote": "高硬度材（超合金・ジルコニアセラミックス）ピンゲージとしては業界最小径にして超高精度品となります",
+    "url": "https://www.sanwa-creation.co.jp/products/pingage/",
+    "pass": 1
+   },
+   {
+    "quote": "超硬合金、ジルコニアセラミックス",
+    "url": "https://www.sanwa-creation.co.jp/products/pin/",
+    "pass": 1
+   },
+   {
+    "quote": "超硬合金、セラミックス、SKH、SUS、ダイヤモンド、ＣＦＲＰ、カーボン、シリコン合金、",
+    "url": "https://www.sanwa-creation.co.jp/products/pin/",
+    "pass": 1
+   },
+   {
+    "quote": "純チタン、ニッケルチタン、炭化ケイ素、窒化ケイ素、etc.",
+    "url": "https://www.sanwa-creation.co.jp/products/pin/",
+    "pass": 1
+   },
+   {
+    "quote": "超硬合金、ジルコニアセラミックス、SKH",
+    "url": "https://www.sanwa-creation.co.jp/products/kanagata/",
+    "pass": 1
+   },
+   {
+    "quote": "先端の材質をPCD（人工多結晶ダイヤモンド）にする事で",
+    "url": "https://www.sanwa-creation.co.jp/products/kanagata/",
+    "pass": 1
+   },
+   {
+    "quote": "場合は材質をジルコニアセラミックスでご提案しています",
+    "url": "https://www.sanwa-creation.co.jp/products/kanagata/",
+    "pass": 1
+   },
+   {
+    "quote": "医療や半導体向け樹脂部品の成形に用いられる他、",
+    "url": "https://www.sanwa-creation.co.jp/products/kanagata/",
+    "pass": 1
+   },
+   {
+    "quote": "成形時に樹脂の温度が高温になる環境下で使用される",
+    "url": "https://www.sanwa-creation.co.jp/products/kanagata/",
+    "pass": 1
+   },
+   {
+    "quote": "コアピンは耐熱性の高いジルコニアセラミックスで",
+    "url": "https://www.sanwa-creation.co.jp/products/kanagata/",
+    "pass": 1
+   },
+   {
+    "quote": "マシニングセンタによるアクリル樹脂への加工です",
+    "url": "https://www.sanwa-creation.co.jp/products/precision-parts/",
+    "pass": 1
+   },
+   {
+    "quote": "マシニングセンタによるジルコニアセラミックスへの切削加工です",
+    "url": "https://www.sanwa-creation.co.jp/products/precision-parts/",
+    "pass": 1
+   },
+   {
+    "quote": "積層セラミックチップコンデンサの製造工程に使用される",
+    "url": "https://www.sanwa-creation.co.jp/products/blade/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用のニッケルチタンチューブや精密なコーティング工程で",
+    "url": "https://www.sanwa-creation.co.jp/products/technology/",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sanwa-creation.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwa-creation.co.jp/company/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwa-creation.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwa-creation.co.jp/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwa-creation.co.jp/products/diamond/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwa-creation.co.jp/company/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwa-creation.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwa-creation.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwa-creation.co.jp/company/greeting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwa-creation.co.jp/company/sdgs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwa-creation.co.jp/company/csr/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwa-creation.co.jp/products/pingage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwa-creation.co.jp/products/pin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwa-creation.co.jp/products/kanagata/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwa-creation.co.jp/products/precision-parts/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwa-creation.co.jp/products/blade/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwa-creation.co.jp/products/technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwa-creation.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwa-creation.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwa-creation.co.jp/products/pingage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwa-creation.co.jp/products/pin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwa-creation.co.jp/products/kanagata/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwa-creation.co.jp/products/diamond/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwa-creation.co.jp/products/precision-parts/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwa-creation.co.jp/products/blade/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwa-creation.co.jp/products/technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwa-creation.co.jp/products/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.sanwa-creation.co.jp/company/img/img02.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sanwa-creation.co.jp/products/img/img01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sanwa-creation.co.jp/products/img/icon.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sanwa-creation.co.jp/common/img/pro_04.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sanwa-creation.co.jp/products/diamond/img/diamond01-1.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sanwa-creation.co.jp/products/diamond/img/diamond02-1.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sanwa-creation.co.jp/products/diamond/img/diamond02-2.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sanwa-creation.co.jp/products/diamond/img/diamond02-3.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sanwa-creation.co.jp/products/diamond/img/diamond03-1.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sanwa-creation.co.jp/products/diamond/img/diamond04-1.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sanwa-creation.co.jp/products/pingage/img/pin01-1.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sanwa-creation.co.jp/products/pingage/img/pin01-2.gif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.atengineer.com/pr/sanwa-creation/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atengineer.com/pr/sanwa-creation/inquiry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwa-create.com/contact/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "三和クリエーション 三和クリエーション 取扱製品 試作 小ロット",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "三和クリエーション 三和クリエーション 会社概要 事業内容",
+   "results": [
+    "https://www.sanwa-creation.co.jp/company/overview/",
+    "https://www.sanwa-creation.co.jp/company/",
+    "https://www.atengineer.com/pr/sanwa-creation/company",
+    "https://mono.ipros.com/company/detail/2030404/",
+    "https://www.kawasaki-net.ne.jp/shisaku/registered-corp/c010_sanwa-creation/",
+    "https://pr.mono.ipros.com/sanwa-creation/information/",
+    "https://www.sanwa-create.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "三和クリエーション 三和クリエーション お問い合わせ メール",
+   "results": [
+    "https://www.sanwa-creation.co.jp/contact/",
+    "https://www.atengineer.com/pr/sanwa-creation/inquiry",
+    "https://www.sanwa-create.com/contact/",
+    "https://www.sanwajp-group.com/contact/",
+    "https://www.sanwa-creation.co.jp/",
+    "https://ja.nc-net.or.jp/company/75462/inquiry/input/",
+    "https://sanwa-inf.co.jp/?page_id=367"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 三和クリエーション 三和クリエーション",
+   "results": [
+    "https://note.com/otosan_creation",
+    "https://note.com/legal_literacy/n/n7b72a6692908",
+    "https://note.com/towa49666/n/n1f352c68cd7e",
+    "https://note.com/kuwa589/n/n17ed003f2866",
+    "https://note.com/calm_phlox701/n/n65a45100fe78",
+    "https://note.com/clock_luna/n/n3745a205c9ba",
+    "https://note.com/nekota_toure/n/n8c2ee2104b43"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 三和クリエーション 三和クリエーション",
+   "results": [
+    "https://x.com/creation_office",
+    "https://x.com/sanwa_pr",
+    "https://x.com/creation_office/status/2073648319025627266",
+    "https://x.com/_threeplus",
+    "https://x.com/sanwadenshi",
+    "https://x.com/sanwa_0918",
+    "https://x.com/kyoda_cr/status/1782580295608512982"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 三和クリエーション 三和クリエーション",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com 三和クリエーション 三和クリエーション",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "三和クリエーション 三和クリエーション note 社長",
+   "results": [
+    "https://kawasaki.mypl.net/aspcontents/2/?sid=335",
+    "https://www.sanwa-creation.co.jp/company/overview/",
+    "https://www.sanwa-creation.co.jp/company/greeting/",
+    "https://www.nikkan.co.jp/articles/view/548460",
+    "https://monodukuri-review.com/categories/plan-trial/三和クリエーション株式会社/",
+    "https://www.nikkan.co.jp/articles/view/00548460",
+    "https://www.sanwajp-group.com/company/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "三和クリエーション 三和クリエーション X 投稿",
+   "results": [
+    "https://www.sanwa-creation.co.jp/",
+    "https://www.sanwa-creation.co.jp/news",
+    "https://x.com/sanwa_pr",
+    "https://x.com/creation_office/status/2119716691575984294",
+    "http://mcsanwa.blog.2nt.com/",
+    "https://ameblo.jp/mania-club/",
+    "https://www.creation.gr.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式27頁／PDF・画像12件／外部3頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式27頁／PDF・画像12件／外部3頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式27頁／PDF・画像12件／外部3頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式27頁／PDF・画像12件／外部3頁・検索9回）",
+  "AM関連": "記載なし（3回確認済み：公式27頁／PDF・画像12件／外部3頁・検索9回）",
+  "連絡先": "記載なし（3回確認済み：公式27頁／PDF・画像12件／外部3頁・検索9回）"
+ }
+}

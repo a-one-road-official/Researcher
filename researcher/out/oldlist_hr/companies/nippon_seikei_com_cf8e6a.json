@@ -1,0 +1,409 @@
+{
+ "name": "nippon-seikei.com",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜要確認",
+ "researched_at": "2026-11-11T13:09:28.045004+00:00",
+ "official_url": "https://www.nippon-seiki.co.jp/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "動画を再生するにはvideoタグをサポートしたブラウザが必要です",
+    "url": "https://www.nippon-seiki.co.jp/",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本精機株式会社|NIPPON SEIKI",
+    "url": "https://www.nippon-seiki.co.jp/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "日本 成型産業株式会社 — 日本 成型産業株式会社 日本成型産業株式会社 https://www.nippon-seikei.com",
+    "url": "https://www.nippon-seikei.com/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.nippon-seiki.co.jp/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp57431/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://higashishinjuku-seikei.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nscs.jp/company/group/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jnj.co.jp/jjmkk/scm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=5659",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/474/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://global.nippon-seiki.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nippon-seikei.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bloomberg.com/profile/company/7287:JP",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://nippon-seiki.eu.com/our-heritage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://global.nippon-seiki.co.jp/2025/04/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marklines.com/en/top500/nippon-seiki",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.edtc.com/news/press/memorandum-of-understanding-signed-with-nippon-seiki-co-ltd/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://accevo.com/news/ant-smart-factory-partners-with-nippon-seiki-to-integrate-mes-and-wms-for-enhanced-manufacturing-control/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fptsoftware.com/newsroom/news-and-press-releases/press-release/fpt-software-partners-with-nippon-seiki",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://global.nippon-seiki.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://webinone.com/reseller-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mastercard.com/europe/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://global.nippon-seiki.co.jp/ir_performance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://companiesmarketcap.com/nippon-seiki/revenue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.perplexity.ai/finance/7287.T/earnings",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.yahoo.com/quote/7287.T/key-statistics/",
+    "status": "http_404",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "nippon-seikei.com 日本 導入",
+   "results": [
+    "https://www.nippon-seiki.co.jp/",
+    "https://job.mynavi.jp/28/pc/search/corp57431/outline.html",
+    "https://higashishinjuku-seikei.com/",
+    "https://nscs.jp/company/group/",
+    "https://nihonseiki.com/",
+    "https://roppongi-seikei.com/",
+    "https://amagasaki-seikei.com/",
+    "https://www.nihon-seiki.jp/",
+    "https://www.ikiiki-seikei.com/",
+    "https://global.nippon-seiki.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "nippon-seikei.com 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.jnj.co.jp/jjmkk/scm",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=5659",
+    "https://www.nippon-seiki.co.jp/",
+    "https://metoree.com/companies/474/distributors/",
+    "https://www.sigmax.co.jp/partner/agency/",
+    "https://job.mynavi.jp/28/pc/search/corp57431/outline.html",
+    "https://www.nihoniyo.co.jp/agent/index.html",
+    "https://www.nissay.co.jp/kaisha/annai/gaiyo/kanren.html",
+    "https://www.seikei-webpartners.jp/",
+    "https://ja.wikipedia.org/wiki/シーメンス"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "nippon-seikei.com Japan",
+   "results": [
+    "https://global.nippon-seiki.co.jp/",
+    "https://www.nippon-seikei.com/",
+    "https://www.bloomberg.com/profile/company/7287:JP",
+    "https://nippon-seiki.eu.com/our-heritage/",
+    "https://global.nippon-seiki.co.jp/corp_profile/",
+    "https://www.nippon-seikei.com/content2.html",
+    "http://www.n-seiki.co.jp/en/recruit.php",
+    "https://www.nippon-seikei.com/content3.html",
+    "https://envalith.com/en/companies/7287/overview",
+    "https://nippon-seikei.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "nippon-seikei.com manufacturing customer case study",
+   "results": [
+    "https://global.nippon-seiki.co.jp/2025/04/",
+    "https://www.marklines.com/en/top500/nippon-seiki",
+    "https://www.edtc.com/news/press/memorandum-of-understanding-signed-with-nippon-seiki-co-ltd/",
+    "https://accevo.com/news/ant-smart-factory-partners-with-nippon-seiki-to-integrate-mes-and-wms-for-enhanced-manufacturing-control/",
+    "https://www.nipponexpress.com/us/en/knowledge/case/end-to-end-support-for-sme/",
+    "https://nippon-seiki.eu.com/products-services/",
+    "https://www.nikkei.com/markets/ir/irftp/data/tdnr/tdnetg3/20231202_archive/eg22t6/140120231130597274.pdf",
+    "https://tokyobrief.com/articles/nippon-seiki-denso-head-up-display-acquisition",
+    "https://www.nippon-seikei.com/content2.html",
+    "https://global.nippon-seiki.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "nippon-seikei.com white label OR reseller OR partner program",
+   "results": [
+    "https://fptsoftware.com/newsroom/news-and-press-releases/press-release/fpt-software-partners-with-nippon-seiki",
+    "https://global.nippon-seiki.co.jp/",
+    "https://webinone.com/reseller-program",
+    "https://www.mastercard.com/europe/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "https://www.marklines.com/en/top500/nippon-seiki",
+    "https://www.fatbit.com/partner-program-engagement-models.html",
+    "https://www.n-able.com/partnerships/reseller-program/join",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://www.nippon-seikei.com/content3.html",
+    "https://www.ninjaone.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "nippon-seikei.com founded funding employees revenue",
+   "results": [
+    "https://global.nippon-seiki.co.jp/ir_performance/",
+    "https://companiesmarketcap.com/nippon-seiki/revenue/",
+    "https://www.perplexity.ai/finance/7287.T/earnings",
+    "https://finance.yahoo.com/quote/7287.T/key-statistics/",
+    "https://www.zoominfo.com/c/nippon-seiki-co-ltd/83624931",
+    "https://markets.ft.com/data/equities/tearsheet/profile?s=7287:TYO",
+    "https://pitchbook.com/profiles/company/165388-78",
+    "https://www.marketscreener.com/quote/stock/NIPPON-SEIKI-CO-LTD-6491855/company/",
+    "https://www.moomoo.com/stock/7287-JP/earnings",
+    "https://prospeo.io/c/nippon-seiki-revenue"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:note.com nippon-seikei.com",
+   "results": [
+    "https://note.com/masp2025/n/n82d69c34e220?hl=en",
+    "https://note.com/zoooosu/n/nda5e9f870ff0?hl=en",
+    "https://note.com/ma_mado/n/n302df4f53cf9?hl=en",
+    "https://note.com/sankituushin/n/nafd12fe5737f?hl=en",
+    "https://note.com/tr55/n/n6d03d97cbae0?hl=en",
+    "https://note.com/sinnovation_int/n/n9b44a8e9bab6?hl=en",
+    "https://note.com/yozemi_urec/n/n801238ffa80d?hl=en",
+    "https://note.com/zz08/n/ne7f0598dcc83?hl=en",
+    "https://note.com/gifted_mango8323/n/nbe502809e4cd?hl=en",
+    "https://note.com/tom1005/n/n8d1c57d3be70?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com nippon-seikei.com",
+   "results": [
+    "https://x.com/fpt_software/status/2097152176191836222",
+    "https://x.com/sum_hamakaze/status/2017923250211402237",
+    "https://x.com/tferriss/status/1724959813103235448",
+    "https://x.com/search?q=Nippon%20Seiki&f=live&lang=bg",
+    "https://x.com/Doctor_Morita/status/1013091862184247296",
+    "https://x.com/ieee_cifer_info",
+    "https://x.com/EriMerge49709/status/1892001054364942573",
+    "https://x.com/hayashi_seikei",
+    "https://x.com/giaiemon/status/1454445142971015168",
+    "https://x.com/pop_seikei_/status/2025886467315454341"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com nippon-seikei.com",
+   "results": [
+    "https://www.linkedin.com/company/nippon-seiki-europe-bv-/",
+    "https://www.linkedin.com/company/nipponseikimexico",
+    "https://jp.linkedin.com/company/new-sabina-industries-inc-",
+    "https://www.linkedin.com/jobs/view/prototype-specialist-i-at-nippon-seiki-north-america-3713869954",
+    "https://www.linkedin.com/company/nippon-seiki-north-america-ltd.-",
+    "https://pt.linkedin.com/company/n.s.-international-ltd",
+    "https://www.linkedin.com/jobs/view/mechanical-design-engineer-iii-at-nippon-seiki-north-america-4483053733",
+    "https://in.linkedin.com/in/praveen-muthusamy-3612317a",
+    "https://in.linkedin.com/company/ns-instruments-india-private-limited",
+    "https://www.linkedin.com/posts/ns-instruments-india-private-limited_nippon-seiki-co-ltd-activity-7329021168454107136-eiTQ"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:facebook.com nippon-seikei.com",
+   "results": [
+    "https://www.facebook.com/FsoftGlobal/posts/fpt-software-has-announced-new-partnership-with-nippon-seiki-through-an-mou-sign/771837474948078/",
+    "https://www.facebook.com/jdmaddictuk/posts/nippon-seiki-the-manufacturers-of-many-gauges-and-electronics-including-defi-rw6/833863078927206/",
+    "https://www.facebook.com/groups/296389924192598/posts/2354137321751171/",
+    "https://www.facebook.com/100077789109910/videos/nippon-seiki-japan-speedo-meter-for-rx-100-comes-with-initial-batch-of-1985-mode/541059351792424/",
+    "https://www.facebook.com/groups/highlandcountyohchat/posts/2128219894700061/",
+    "https://www.facebook.com/groups/470520613089491/posts/3767951790013007/",
+    "https://www.facebook.com/groups/18657808157/posts/10160590736813158/",
+    "https://www.facebook.com/groups/4932859385/posts/10165652940519386/",
+    "https://www.facebook.com/groups/821911908811150/posts/1511854209816913/",
+    "https://www.facebook.com/eseikei/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "nippon-seikei.com note 社長",
+   "results": [
+    "https://www.nippon-seiki.co.jp/corp_profile/",
+    "https://naka-seikei.com/",
+    "https://note.com/jic_doctors/all",
+    "https://hayashi-seikei.com/",
+    "https://higashishinjuku-seikei.com/",
+    "https://sapporo-chuoseikei.com/",
+    "https://note.com/kitakata_incho",
+    "https://nakameguro-seikei.com/",
+    "https://soga-ryumachi-seikei.com/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "nippon-seikei.com X 投稿",
+   "results": [
+    "https://www.nippon-seikei.com/content3.html",
+    "https://kasugaisports-seikei.com/",
+    "https://tanaka-seikei.com/",
+    "https://kaibaraseikei.com/",
+    "https://global.nippon-seiki.co.jp/category/top_news_cat_g/",
+    "https://x.com/JPN_PMO",
+    "https://www.iwai.com/iwai-seikei/",
+    "https://matsuiseikei.com/author/matsuiseikei/page/7/",
+    "https://www.tadokoro-seikei.com/clinic.html",
+    "https://nippon-seikei.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）"
+ }
+}

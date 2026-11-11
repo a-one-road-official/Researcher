@@ -1,0 +1,682 @@
+{
+ "name": "株式会社タカシマ 締結部品・加工部品　ものづくり総合商社",
+ "aliases": [],
+ "context": "ipros_all:単品",
+ "researched_at": "2026-11-11T13:13:57.491755+00:00",
+ "official_url": "http://www.tksm.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "拠点": [
+   {
+    "label": "札幌営業所",
+    "value": "〒065-0020　北海道札幌市東区北二十条東9-3-5 Phone.011-721-8820　Fax.011-721-8826",
+    "url": "https://www.tksm.co.jp/about-id=4.htm",
+    "pass": 1
+   },
+   {
+    "label": "盛岡営業所",
+    "value": "〒020-0121　岩手県盛岡市月が丘3-30-13 Phone.0196-46-2241　Fax.0196-46-6103",
+    "url": "https://www.tksm.co.jp/about-id=4.htm",
+    "pass": 1
+   },
+   {
+    "label": "富山営業所",
+    "value": "〒930-0975　富山県富山市西長江3-7-43 Phone.0764-24-5822　Fax.0764-24-5766",
+    "url": "https://www.tksm.co.jp/about-id=4.htm",
+    "pass": 1
+   },
+   {
+    "label": "板倉営業所",
+    "value": "〒374-0133　群馬県邑楽郡板倉町大字岩田871-1 Phone.0276-82-1635",
+    "url": "https://www.tksm.co.jp/about-id=4.htm",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "東京都千代田区岩本町 2-8-13",
+    "url": "https://www.tksm.co.jp/file/dl-halder.pdf",
+    "pass": 2
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "270名",
+    "url": "https://mono.ipros.com/company/detail/1350168/",
+    "pass": 3
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "住宅メーカー、住宅設備メーカー、油圧・空圧メーカー、半導体メーカー、建機メーカー、農器具メーカー、印刷機械メーカー、工作機械メーカー、産業機械メーカー、医療機器メーカー、食品メーカー　その他 (順不同・敬称略)",
+    "url": "https://mono.ipros.com/company/detail/1350168/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "製品に関するお問い合わせ｜株式会社タカシマ",
+    "url": "https://www.tksm.co.jp/quality-id=12.htm",
+    "pass": 1
+   },
+   {
+    "quote": "弛み防止製品、建築関連部品、各種表面処理、他",
+    "url": "https://www.tksm.co.jp/about-id=2.htm",
+    "pass": 1
+   },
+   {
+    "quote": "数量や精度などの製品スペックに適した加工方法をご提案します",
+    "url": "https://www.tksm.co.jp/products-id=5.htm",
+    "pass": 1
+   },
+   {
+    "quote": "オリジナル製品｜ねじ・一般規格品｜株式会社タカシマ",
+    "url": "https://www.tksm.co.jp/common-id=2.htm",
+    "pass": 1
+   },
+   {
+    "quote": "様々な課題の解決や要望にお応えする画期的なオリジナル製品群",
+    "url": "https://www.tksm.co.jp/common-id=2.htm",
+    "pass": 1
+   },
+   {
+    "quote": "ゆるみ脱落防止、高強度ボルトなど各メーカーが誇る高品質で高性能なオリジナル製品",
+    "url": "https://www.tksm.co.jp/common-id=2.htm",
+    "pass": 1
+   },
+   {
+    "quote": "タカシマは代理店・取扱店としてこうした多くのハイスペック製品をお客様へご提案します",
+    "url": "https://www.tksm.co.jp/common-id=2.htm",
+    "pass": 1
+   },
+   {
+    "quote": "ブラインドリベット・ナット、クリップ・バンドなどの樹脂製品、溶接製品など締結製品のトップメーカー",
+    "url": "https://www.tksm.co.jp/common-id=2.htm",
+    "pass": 1
+   },
+   {
+    "quote": "ナイロン樹脂プラグや接着系アンカー・金属系アンカーなどファスニング製品として多方面から支持",
+    "url": "https://www.tksm.co.jp/common-id=2.htm",
+    "pass": 1
+   },
+   {
+    "quote": "ピックアップ製品｜ねじ・一般規格品｜株式会社タカシマ",
+    "url": "https://www.tksm.co.jp/common-id=3.htm",
+    "pass": 1
+   },
+   {
+    "quote": "ドブめっき製品の在庫ラインナップを拡充しました",
+    "url": "https://www.tksm.co.jp/common-id=3.htm",
+    "pass": 1
+   },
+   {
+    "quote": "松戸事業所は、建築に際し、多くのお取引先様の製品を採用しております",
+    "url": "https://www.tksm.co.jp/shownews-id=24.htm",
+    "pass": 1
+   },
+   {
+    "quote": "建築にご尽力いただいた遠山設計士から、設計計画や意図など講演いただき、その後事業所内(お取引先様の製品採用場所等）の見学ツアーをおこないました",
+    "url": "https://www.tksm.co.jp/shownews-id=24.htm",
+    "pass": 1
+   },
+   {
+    "quote": "事業所の至る所にお取引様の製品を採用し、建物全体をショールームに見立てた自慢のオフィスとなっています",
+    "url": "https://www.tksm.co.jp/shownews-id=23.htm",
+    "pass": 1
+   },
+   {
+    "quote": "12,000 点以上の 豊富な製品 をカタログから",
+    "url": "https://www.tksm.co.jp/file/dl-halder.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "カットボルト在庫ラインナップ (小箱×ケース入数)",
+    "url": "https://www.tksm.co.jp/file/dl-dobu.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品・サービス(71)",
+    "url": "https://mono.ipros.com/company/detail/1350168/",
+    "pass": 3
+   },
+   {
+    "quote": "各種ボルト (ねじ) ・ナット、弛み防止・脱落防止製品、建築関連部品、オリジナル製品 他",
+    "url": "https://mono.ipros.com/company/detail/1350168/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (71)",
+    "url": "https://mono.ipros.com/company/detail/1350168/",
+    "pass": 3
+   },
+   {
+    "quote": "価格メリットと安定供給を両立 新製品『ユーエイ ガススプリング』",
+    "url": "https://mono.ipros.com/company/detail/1350168/",
+    "pass": 3
+   },
+   {
+    "quote": "事業所の至る所にお取引様の製品を採用し、建物全体をショールームに見立てたオフィスとなっております",
+    "url": "https://mono.ipros.com/company/detail/1350168/",
+    "pass": 3
+   },
+   {
+    "quote": "出展製品の一部はイプロス内でも掲載しておりますので、ぜひご覧ください",
+    "url": "https://mono.ipros.com/company/detail/1350168/",
+    "pass": 3
+   },
+   {
+    "quote": "塩害や工場など厳しい環境下における対策として『ラスパート ゼロ・ステン』、『カエラ―LB』の高耐食メッキ2製品を紹介させていただきました",
+    "url": "https://mono.ipros.com/company/detail/1350168/",
+    "pass": 3
+   },
+   {
+    "quote": "ねじのゆるみ対策に特化した製品を展示いたしました",
+    "url": "https://mono.ipros.com/company/detail/1350168/",
+    "pass": 3
+   },
+   {
+    "quote": "材料や製品などの運搬作業を向上させる機器として『ASTRO』、『うんぱんマン』を展示させていただきました",
+    "url": "https://mono.ipros.com/company/detail/1350168/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "製品に関するお問い合わせ｜株式会社タカシマ",
+    "url": "https://www.tksm.co.jp/quality-id=12.htm",
+    "pass": 1
+   },
+   {
+    "quote": "また、サイトポリシーの記載のとおり、お問い合わせフォームを利用した売り込みは禁止させていただいております",
+    "url": "https://www.tksm.co.jp/quality-id=12.htm",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせフォームを利用して、繰り返し売り込みをおこなう企業様には、しかるべき対応を取らせていただく場合がございます",
+    "url": "https://www.tksm.co.jp/quality-id=12.htm",
+    "pass": 1
+   },
+   {
+    "quote": "添付資料のある方は、必要事項をご記入いただき以下のメールアドレスまで送信ください",
+    "url": "https://www.tksm.co.jp/quality-id=12.htm",
+    "pass": 1
+   },
+   {
+    "quote": "●件名に「新規お問い合わせ」とご記入お願いします",
+    "url": "https://www.tksm.co.jp/quality-id=12.htm",
+    "pass": 1
+   },
+   {
+    "quote": "■お問い合わせ先：info@tksm.co.jp",
+    "url": "https://www.tksm.co.jp/quality-id=12.htm",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "各種ボルト・ナット、締結関連部品、特殊加工品の製作・試作",
+    "url": "https://www.tksm.co.jp/about-id=2.htm",
+    "pass": 1
+   },
+   {
+    "quote": "試作から量産までお客様の様々なご要望にお応えします",
+    "url": "https://www.tksm.co.jp/products-id=2.htm",
+    "pass": 1
+   },
+   {
+    "quote": "●対応加工部品 (単品加工～部品組立まで対応可)",
+    "url": "https://mono.ipros.com/company/detail/1350168/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "ベトナム ホーチミン市に「TAKASHIMA METAL PRECISION VIETNAM CO.,LTD.」を設立",
+    "url": "https://www.tksm.co.jp/about-id=3.htm",
+    "pass": 1
+   },
+   {
+    "quote": "TAKASHIMA METAL PRECISION VIETNAM CO.,LTD.(ベトナム)",
+    "url": "https://www.tksm.co.jp/about-id=4.htm",
+    "pass": 1
+   },
+   {
+    "quote": "PHOTO by Kai Nakamura",
+    "url": "https://www.tksm.co.jp/shownews-id=23.htm",
+    "pass": 1
+   },
+   {
+    "quote": "Zoom、Teams、Webex、Google Meet、Skype...",
+    "url": "https://www.tksm.co.jp/file/dl-onlinesyoudan.pdf",
+    "pass": 2
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "鉄（S45C・SUJ・SCM・快削鋼・SK・SUM・SKS・SS）、SUS（303・304・316・416・析出硬化・二相系ステンレス）、真鍮、アルミ、チタン、銅、コバール、タングステン、インコネル、ハステロイ、モネル、樹脂（PC・PPS・PEEK/RENY・PP・POM・塩ビ）、ゴム、他",
+    "url": "https://www.tksm.co.jp/products-id=1.htm",
+    "pass": 1
+   },
+   {
+    "quote": "ブラインドリベット・ナット、クリップ・バンドなどの樹脂製品、溶接製品など締結製品のトップメーカー",
+    "url": "https://www.tksm.co.jp/common-id=2.htm",
+    "pass": 1
+   },
+   {
+    "quote": "ナイロン樹脂プラグや接着系アンカー・金属系アンカーなどファスニング製品として多方面から支持",
+    "url": "https://www.tksm.co.jp/common-id=2.htm",
+    "pass": 1
+   },
+   {
+    "quote": "切削加工品、難削材加工品、精密機械加工品、微細加工品、研削加工品、仕上げ (研磨) 加工品、冷間圧造品、熱間鍛造品、精密プレス加工品、板金加工品、樹脂射出成形品、歯車加工品、各種表面処理、塗装、熱処理、溶接、梱包 (袋詰め、段ボール詰め)、金型製作 他",
+    "url": "https://mono.ipros.com/company/detail/1350168/",
+    "pass": 3
+   },
+   {
+    "quote": "鉄、ステンレス、アルミ、銅、真鍮、樹脂、エンプラ、ゴム、鋳物、チタン (インコネル・ハステロイ等 難削材) 他",
+    "url": "https://mono.ipros.com/company/detail/1350168/",
+    "pass": 3
+   },
+   {
+    "quote": "ボルト設計の小型化や軽量化、硬材質へのタッピングとして『A4L-100 SUS316L ボルト・ナット・座金』、『ハイテンビス100』を紹介させていただきました",
+    "url": "https://mono.ipros.com/company/detail/1350168/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "偏芯部長い為、専用の治具を内製し加工",
+    "url": "https://www.tksm.co.jp/products-id=2.htm",
+    "pass": 1
+   },
+   {
+    "quote": "機械・治具部品を製造し、",
+    "url": "https://www.tksm.co.jp/file/dl-halder.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "おりましたが、現在では航空機器や",
+    "url": "https://www.tksm.co.jp/file/dl-halder.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "切削加工品、難削材加工品、精密機械加工品、微細加工品、研削加工品、仕上げ (研磨) 加工品、冷間圧造品、熱間鍛造品、精密プレス加工品、板金加工品、樹脂射出成形品、歯車加工品、各種表面処理、塗装、熱処理、溶接、梱包 (袋詰め、段ボール詰め)、金型製作 他",
+    "url": "https://mono.ipros.com/company/detail/1350168/",
+    "pass": 3
+   },
+   {
+    "quote": "住宅メーカー、住宅設備メーカー、油圧・空圧メーカー、半導体メーカー、建機メーカー、農器具メーカー、印刷機械メーカー、工作機械メーカー、産業機械メーカー、医療機器メーカー、食品メーカー その他",
+    "url": "https://mono.ipros.com/company/detail/1350168/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tksm.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tksm.co.jp/quality-id=12.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tksm.co.jp/about-id=2.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tksm.co.jp/about-id=3.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tksm.co.jp/about-id=4.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tksm.co.jp/info-id=7.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tksm.co.jp/products-id=1.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tksm.co.jp/products-id=2.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tksm.co.jp/products-id=7.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tksm.co.jp/products-id=3.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tksm.co.jp/products-id=4.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tksm.co.jp/products-id=5.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tksm.co.jp/products-id=6.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tksm.co.jp/products-id=8.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tksm.co.jp/common-id=2.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tksm.co.jp/common-id=3.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tksm.co.jp/about-id=1.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tksm.co.jp/about-id=5.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tksm.co.jp/shownews-id=24.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tksm.co.jp/shownews-id=23.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tksm.co.jp/shownews-id=21.htm",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.tksm.co.jp/file/dl-halder.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tksm.co.jp/file/dl-beens.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tksm.co.jp/file/dl-tapstar.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tksm.co.jp/file/dl-dobu.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tksm.co.jp/file/dl-onlinesyoudan.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tksm.co.jp/file/dl-ezi.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tksm.co.jp/file/hls01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.tksm.co.jp/file/koub-newsunpo.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.tksm-vn.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/1350168/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zen.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/1350168/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tksm-vn.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/1350168/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tksm-vn.com/feature/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "タカシマ 締結部品・加工部品 ものづくり総合商社 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.tksm-vn.com/company/",
+    "https://mono.ipros.com/company/detail/1350168/",
+    "https://www.zen.co.jp/",
+    "https://www.tech-journey.jp/column/fe-cu-sus/",
+    "https://www.yasuhisa.co.jp/metal_processing_prototype/",
+    "https://murone.co.jp/business/parts/",
+    "https://www.tnksanwa.co.jp/media/detail.html?id=3348",
+    "https://j3d.co.jp/blog/prototype/",
+    "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "http://www.tksm.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "タカシマ 締結部品・加工部品 ものづくり総合商社 会社概要 事業内容",
+   "results": [
+    "https://mono.ipros.com/company/detail/1350168/",
+    "https://www.tksm-vn.com/company/",
+    "https://www.tksm.co.jp/products-id=1.htm",
+    "https://compalyze.co.jp/company/7010001022176",
+    "https://www.fact-link.com.vn/home/http-jp-tksm-com-cn/",
+    "https://www.ipros.com/company/detail/1350168/",
+    "https://www.sbic.co.jp/investeecompany/detail/index.php?id=1150",
+    "https://www.instagram.com/takashima_tokyo/",
+    "https://www.takashima.co.jp/corporate/section/",
+    "https://www.tksm.co.jp/about-id=2.htm"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "タカシマ 締結部品・加工部品 ものづくり総合商社 お問い合わせ メール",
+   "results": [
+    "https://mono.ipros.com/company/detail/1350168/",
+    "https://www.tksm-vn.com/feature/",
+    "https://www.tksm.co.jp/products-id=1.htm",
+    "https://www.tanpinkakou.jp/contact/",
+    "https://www.takahasi-k.co.jp/contact/process.php",
+    "https://www.fukasawa.co.jp/supplier/",
+    "https://www.ipros.com/company/detail/1350168/",
+    "https://www.instagram.com/takashima_tokyo/",
+    "https://www.takashima-tec.co.jp/contact",
+    "http://www.tksm.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com タカシマ 締結部品・加工部品 ものづくり総合商社",
+   "results": [
+    "https://note.com/kagawatomo/n/n25d015846a4d",
+    "https://note.com/konkon4192/n/nc04b0ed3a10f",
+    "https://note.com/ezuremanagement/n/n62ac85c83529",
+    "https://note.com/waynursetitle847/n/n727ab13b2669",
+    "https://note.com/popomaru9553",
+    "https://note.com/uq0820",
+    "https://note.com/",
+    "https://note.com/mapmotohashi1204/n/n5264b11089e2",
+    "https://note.com/luca7639/n/nb9081c53305c",
+    "https://note.com/fasmcckd/n/na36c474acab7"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:x.com タカシマ 締結部品・加工部品 ものづくり総合商社",
+   "results": [
+    "https://jf.x.com/images/media-preview/2092197721532973110",
+    "https://x.com/PopBase/status/2114934613982261266",
+    "https://x.com/takata_seimitsu",
+    "https://x.com/Monodukuri_JP",
+    "https://x.com/nkym_since1960",
+    "https://x.com/shimadakiko_ofc/status/2110628772173189326",
+    "https://x.com/NoahFentys/status/2118178286157140113"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com タカシマ 締結部品・加工部品 ものづくり総合商社",
+   "results": [
+    "https://jp.linkedin.com/in/浩-高島-080857138",
+    "https://www.linkedin.com/in/diego-sarabia-654409353",
+    "https://uk.linkedin.com/in/kate-platonova",
+    "https://www.linkedin.com/company/komatsu",
+    "https://cn.linkedin.com/company/fujimotosangyo",
+    "https://ca.linkedin.com/in/stephenhdn",
+    "https://jp.linkedin.com/posts/進-元-0a22661b0_cnc加工-精密加工-金属加工-activity-7459788807761018881-kWHq"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com タカシマ 締結部品・加工部品 ものづくり総合商社",
+   "results": [
+    "https://www.facebook.com/katoGTC/",
+    "https://www.facebook.com/NCtakashima.Woodworking/",
+    "https://www.facebook.com/profile.php/?id=61576602778975",
+    "https://www.facebook.com/p/株式会社タカヨシジャパン-61566451351101/",
+    "https://www.facebook.com/NCtakashima.Woodworking/videos/ウォルナットのはじまり塊から板へ板からかたちへ丁寧に積み重ねた材料を一枚ずつ切り出していくこの地味な工程をちゃんとやることそれが最後の仕上がりに全部出る木工って/1642864453634402/",
+    "https://www.facebook.com/TAKANO.NET/posts/出展のお知らせ-株式会社タカノは医療機器展示会メディカルクリエーションふくしま2026に出展します医療機器向けの高精度の加工技術試作対応を活かした極小径ピンマン/1612480530668170/",
+    "https://www.facebook.com/marketplace/item/28714440071552341/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "タカシマ 締結部品・加工部品 ものづくり総合商社 note 社長",
+   "results": [
+    "https://note.com/fujimotosangyo/m/m8c36df7a6a0c",
+    "https://note.com/waynursetitle847/n/n727ab13b2669",
+    "https://note.com/fujimotosangyo/n/n104b68bf97aa",
+    "https://www.tksm.co.jp/products-id=1.htm",
+    "https://www.tksm-vn.com/feature/",
+    "https://note.com/potential0_me/n/n6a23a2373341",
+    "https://www.fukasawa.co.jp/supplier/",
+    "https://note.com/meistek/n/n25e7578951b2",
+    "https://newji.ai/procurement-purchasing/a-trading-company-solving-machining-challenges-to-improve-manufacturing/",
+    "https://www.tksm.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "タカシマ 締結部品・加工部品 ものづくり総合商社 X 投稿",
+   "results": [
+    "https://mono.ipros.com/company/detail/1350168/",
+    "https://www.tksm.co.jp/products-id=1.htm",
+    "https://www.tksm-vn.com/feature/",
+    "https://www.instagram.com/takashima_tokyo/",
+    "https://www.fukasawa.co.jp/supplier/",
+    "https://www.youtube.com/watch?v=W2qg-kTAXK4",
+    "https://www.tekizai-tekisyo.com/list/tksm.html",
+    "https://www.takahasi-k.co.jp/process/",
+    "https://www.youtube.com/watch?v=L3cxqbC338I",
+    "http://www.tksm.co.jp/products-id=1.htm"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式21頁／PDF・画像8件／外部7頁・検索9回）",
+  "代表者": "記載なし（3回確認済み：公式21頁／PDF・画像8件／外部7頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式21頁／PDF・画像8件／外部7頁・検索9回）"
+ }
+}

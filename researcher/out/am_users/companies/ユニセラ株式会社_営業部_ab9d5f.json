@@ -1,0 +1,485 @@
+{
+ "name": "ユニセラ株式会社 営業部",
+ "aliases": [],
+ "context": "ipros_all:少量",
+ "researched_at": "2026-11-11T13:08:42.485001+00:00",
+ "official_url": "http://www.unicera.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "・東京本社",
+    "value": "2026年8月10日(月)〜8月14日(金)",
+    "url": "https://www.unicera.co.jp/",
+    "pass": 1
+   },
+   {
+    "label": "・東京本社",
+    "value": "2026年5月2日(土)～2026年5月6日(水)",
+    "url": "https://www.unicera.co.jp/",
+    "pass": 1
+   },
+   {
+    "label": "本社 営業部 技術部",
+    "value": "〒110-0016　東京都台東区台東2-25-6　勝徳ビル602 TEL:03-3834-6931 FAX:03-3834-6933",
+    "url": "https://www.unicera.co.jp/about.html",
+    "pass": 1
+   }
+  ],
+  "拠点": [
+   {
+    "label": "東北工場",
+    "value": "〒039-2664　青森県上北郡東北町字乙供63-94 TEL：0175-63-3268 FAX：0175-63-3771 ※ 製品のお問い合わせは本社営業部へお願いします。",
+    "url": "https://www.unicera.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "label": "金木工場",
+    "value": "〒037-0202　青森県五所川原市金木町芦野417 TEL：0173-53-2823 FAX：0173-53-2146 ※ 製品のお問い合わせは本社営業部へお願いします。",
+    "url": "https://www.unicera.co.jp/about.html",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　上野　清悦",
+    "url": "https://www.unicera.co.jp/about.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "50名",
+    "url": "https://www.unicera.co.jp/about.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "・ステアタイト・セラミックの製造・販売 ・各種セラミックス販売 ・ホタテ貝殻焼成パウダーの製造・販売",
+    "url": "https://www.unicera.co.jp/about.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "・製品出荷業務：〜2026年8月8日(土)、8月17日(月)より再開",
+    "url": "https://www.unicera.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "・製品出荷業務：～2026年4月28日、5月7日より再開",
+    "url": "https://www.unicera.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "※ 製品のお問い合わせは本社営業部へお願いします",
+    "url": "https://www.unicera.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品事例 | ユニセラはステアタイトの専業メーカーとして、経済性、信頼性を徹底的に追及し安定供給をいたします",
+    "url": "https://www.unicera.co.jp/product.html",
+    "pass": 1
+   },
+   {
+    "quote": "電気製品の絶縁用、各種装置の耐熱用部品として",
+    "url": "https://www.unicera.co.jp/product.html",
+    "pass": 1
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "ユニセラはステアタイト・セラミックスの製造の専業メーカです",
+    "url": "https://www.unicera.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "約５０年の実績があり、抵抗器⽤セラミックケースをはじめとして電気絶縁性部品、耐熱部品として電熱機器、半導体装置、治具、設備⽤部品、電⼦部品と幅広い分野に⽣産、販売をしています",
+    "url": "https://www.unicera.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ステアタイト・セラミックスの主原料は天然原料であるタルク(滑⽯)です",
+    "url": "https://www.unicera.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "タルクを主原料として焼成したのがステアタイト・セラミックスです",
+    "url": "https://www.unicera.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックスの焼成技術の活⽤と地元⻘森県産のホタテ⾙殻を使い⾙殻焼成パウダーの製造、販売をしています",
+    "url": "https://www.unicera.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "セメント抵抗器用セラミックスケースの生産を開始",
+    "url": "https://www.unicera.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "サーモスタット用セラミックス部品の生産を開始",
+    "url": "https://www.unicera.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "東北セラミック株式会社・金木セラミック株式会社を吸収合併",
+    "url": "https://www.unicera.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業機器向抵抗器用セラミックスケースの本格生産を開始",
+    "url": "https://www.unicera.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "車載向抵抗器用セラミックスケースの生産を開始",
+    "url": "https://www.unicera.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "ISO 9001 認証取得（ステアタイト・セラミックス）",
+    "url": "https://www.unicera.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "ISO14001 認証取得（ステアタイト・セラミックス）",
+    "url": "https://www.unicera.co.jp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "電気的絶縁用、耐熱用に実績あるセラミックスです",
+    "url": "https://www.unicera.co.jp/product.html",
+    "pass": 1
+   },
+   {
+    "quote": "カソード用セラミックス、セラミックス・インシュレータ、台座、端子座、ブッシング（オス・メス）、絶縁ブッシュ（BUSH）、セラミックスペーサ、断熱、センサー固定版、加熱用接触子、凹凸碍子、押上げ棒、ワッシャー、絶縁突起、パイプ、セラミックス筒、スリーブ、セラミックスベース、ローラ",
+    "url": "https://www.unicera.co.jp/product.html",
+    "pass": 1
+   },
+   {
+    "quote": "ユニセラの抵抗器用セラミック・ケースは量産に対応した",
+    "url": "https://www.unicera.co.jp/product.html",
+    "pass": 1
+   },
+   {
+    "quote": "セメント抵抗器用セラミックケースでは国内TOPクラスの供給メーカ",
+    "url": "https://www.unicera.co.jp/product.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＩＳＯ取得（ステアタイト・セラミックス）で自動車向け体制を構築",
+    "url": "https://www.unicera.co.jp/product.html",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "約５０年の実績があり、抵抗器⽤セラミックケースをはじめとして電気絶縁性部品、耐熱部品として電熱機器、半導体装置、治具、設備⽤部品、電⼦部品と幅広い分野に⽣産、販売をしています",
+    "url": "https://www.unicera.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金型プレスした2商品を焼成時に組み合わせて1商品として供給します",
+    "url": "https://www.unicera.co.jp/product.html",
+    "pass": 1
+   },
+   {
+    "quote": "民生用からスタートし現在は産業用ロボット、自動車と幅広い分野で使用されています",
+    "url": "https://www.unicera.co.jp/product.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業用ロボット、産業機器、自動車、民生用",
+    "url": "https://www.unicera.co.jp/product.html",
+    "pass": 1
+   },
+   {
+    "quote": "ＩＳＯ取得（ステアタイト・セラミックス）で自動車向け体制を構築",
+    "url": "https://www.unicera.co.jp/product.html",
+    "pass": 1
+   },
+   {
+    "quote": "少量用、金型製作前の検討用に実績中です",
+    "url": "https://www.unicera.co.jp/product.html",
+    "pass": 1
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "タルクの微粉末は、薬品、⾷品、化粧品等に使⽤されています",
+    "url": "https://www.unicera.co.jp/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "※ 製品のお問い合わせは本社営業部へお願いします",
+    "url": "https://www.unicera.co.jp/about.html",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "試作、形状確定前の少量検討用に初期費用が不要な切削加工品の対応もしてます",
+    "url": "https://www.unicera.co.jp/product.html",
+    "pass": 1
+   },
+   {
+    "quote": "少量用、金型製作前の検討用に実績中です",
+    "url": "https://www.unicera.co.jp/product.html",
+    "pass": 1
+   },
+   {
+    "quote": "少量供給用（1個から対応致します）",
+    "url": "https://www.unicera.co.jp/product.html",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.unicera.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unicera.co.jp/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unicera.co.jp/product.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.unicera.co.jp/img/common/header_gnavi_about.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.unicera.co.jp/img/common/header_gnavi_product.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.unicera.co.jp/img/product/product_pressmolding.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.unicera.co.jp/img/product/product_example_pm01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.unicera.co.jp/img/product/product_example_pm02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.unicera.co.jp/img/product/product_example_pm06.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.unicera.co.jp/img/product/product_example_pm07.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.unicera.co.jp/img/product/product_example_pm08.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.unicera.co.jp/img/product/product_example_pm09.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.unicera.co.jp/img/product/product_example_pm03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.unicera.co.jp/img/product/product_example_pm04.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.unicera.co.jp/img/product/product_example_pm05.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/company/detail/370497/category/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.u-topia.co.jp/products/low-volume-series.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atengineer.com/pr/unicera/company",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ユニセラ 営業部 取扱製品 試作 小ロット",
+   "results": [
+    "http://www.unicera.co.jp/",
+    "https://www.ipros.jp/company/detail/370497/category/",
+    "https://www.u-topia.co.jp/products/low-volume-series.html",
+    "https://mono.ipros.com/company/detail/370497/category/",
+    "https://www.unicera.co.jp/product.html",
+    "https://www.atengineer.com/pr/unicera/?t=product",
+    "https://www.unica-jp.net/product"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ユニセラ 営業部 会社概要 事業内容",
+   "results": [
+    "https://www.unicera.co.jp/about.html",
+    "http://www.unicera.co.jp/",
+    "https://www.atengineer.com/pr/unicera/company",
+    "https://www.wicera.co.jp/company/",
+    "https://uni-cera.jp/",
+    "https://www.uni-cera.jp/sp/about.html",
+    "https://uni-stella.com/company/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ユニセラ 営業部 お問い合わせ メール",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com ユニセラ 営業部",
+   "results": [
+    "https://note.com/nucera",
+    "https://note.com/nucera/n/nef96a54fae37",
+    "https://note.com/nucera/n/n2b4ce292c190",
+    "https://note.com/nucera/n/ncf9e6a83bf9b",
+    "https://note.com/nucera/n/na23cb6124806",
+    "https://note.com/univis_group/n/nc08654835fe9",
+    "https://note.com/nucera/n/nd0419afa6e75"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com ユニセラ 営業部",
+   "results": [
+    "https://x.com/bellmare_sales",
+    "https://x.com/hashtag/ユニセラTG",
+    "https://x.com/J_shin_works",
+    "https://x.com/unidepot/status/2041698761085480988",
+    "https://x.com/hashtag/酒田ユニサイクルケセラ",
+    "https://x.com/majika1215/status/2114273032546177476",
+    "https://x.com/univers_co_ltd"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com ユニセラ 営業部",
+   "results": [
+    "https://jp.linkedin.com/in/雅資-岩瀬-a75454188",
+    "https://jp.linkedin.com/in/直-鷹取-70942a230",
+    "https://www.linkedin.com/pub/dir/Hitomi/Takahara",
+    "https://ca.linkedin.com/in/macgunther",
+    "https://uk.linkedin.com/in/roger-widdecombe-536002bb",
+    "https://www.linkedin.com/posts/voxela-inc_voxela-salesjobs-aihealthcare-activity-7135144073664876544-nF_Y",
+    "https://pe.linkedin.com/pub/dir/Ryunosuke/Minamihara"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com ユニセラ 営業部",
+   "results": [
+    "https://www.facebook.com/unithera/",
+    "https://www.facebook.com/unstg/",
+    "https://www.facebook.com/unirex.1970/",
+    "https://www.facebook.com/people/アセラ-食品部/100076354307993/",
+    "https://www.facebook.com/atengineer/posts/58年のステアタイト加工実績と合理化によりコスト競争力ありユニセラhttpswwwatengineercomprmag-library20241129001ht/1114437320384936/",
+    "https://www.facebook.com/UnivisGroup/posts/note投稿しました営業本部-部長-兼-グループ経営推進部-営業推進室-室長の上田さんインタビューを公開しましたユニヴィスの営業組織を立ち上げたまさにキーマンで/1385857006857308/",
+    "https://www.facebook.com/aiailand28/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ユニセラ 営業部 note 社長",
+   "results": [
+    "https://www.unicera.co.jp/about.html",
+    "http://www.unicera.co.jp/",
+    "https://note.com/uneeds0501/n/n4ce8c4eb22e9",
+    "https://unisia.co.jp/about/board/",
+    "https://www.kyocera.co.jp/company/directors.html",
+    "https://note.com/nucera/n/nd0419afa6e75",
+    "https://www.unipres.co.jp/company/list_manage/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ユニセラ 営業部 X 投稿",
+   "results": [
+    "https://x.com/hashtag/ユニセラTG",
+    "https://www.tiktok.com/tag/ユニセラ",
+    "https://uni-cera.jp/",
+    "http://www.unicera.co.jp/",
+    "https://www.unicera.co.jp/about.html",
+    "https://x.com/mon_sul43/status/2119786307211915772",
+    "https://rasera.universe.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像12件／外部3頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式3頁／PDF・画像12件／外部3頁・検索9回）"
+ }
+}

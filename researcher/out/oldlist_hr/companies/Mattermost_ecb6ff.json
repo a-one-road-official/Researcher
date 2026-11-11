@@ -1,0 +1,2047 @@
+{
+ "name": "Mattermost",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-11T13:54:30.565455+00:00",
+ "official_url": "https://www.mattermost.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "東京都渋谷区道玄坂 1-10-8\n渋谷道玄坂東急ビル 2F-C",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000178642.html",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都渋谷区道玄坂 1-10-8\n渋谷道玄坂東急ビル 2F-C",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000178642.html",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2025年10月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000178642.html",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2025年10月",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000178642.html",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$70M",
+    "url": "https://getlatka.com/companies/mattermost",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "How do leads retain control when conditions deteriorate?",
+    "url": "https://mattermost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Access customer stories, demos, blogs, downloadable content, and community tools to get the most out of Mattermost at every stage of your deployment.",
+    "url": "https://mattermost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Professional Certification for Engineers",
+    "url": "https://mattermost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Zero-trust collaboration, automation and AI in private cloud, self-hosted, and air-gapped environments. Built for national security, critical infrastructure, and regulated enterprises: you own the data, the model, and the keys.",
+    "url": "https://mattermost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Runs self-hosted, private cloud, or fully air-gapped.",
+    "url": "https://mattermost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Full searchable history across channels, threads, and direct messages, with per-channel permissions and retention. Priority messages track who has acknowledged them. Available on web, desktop, mobile, and embedded inside Microsoft Teams.",
+    "url": "https://mattermost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sovereign AI agents summarise, enrich alerts, and take action using the LLM provider you choose, or a self-hosted model in air-gapped environments. Agents can hand tasks to other agents through the open API, with human-machine teaming built into every workflow.",
+    "url": "https://mattermost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Shared messages and files across federated Mattermost servers over secure links, standards-compatible for coalition operations. Real-time interoperability with Microsoft Teams, Matrix and XMPP supports partner and coalition work, with on-premise, real-time translation across partner-nation languages inside the channel.",
+    "url": "https://mattermost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A REST API with an OpenAPI 3.0 spec, incoming and outgoing webhooks, slash commands, and interactive dialogs. Prebuilt and custom integrations cover operations, security, and DevSecOps tools, backed by an extensible, audited, and hardened open-source supply chain.",
+    "url": "https://mattermost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "SAML, LDAP/AD, and SCIM provisioning, MFA with hardware keys, and SIEM-ready audit logs. Retention policies and eDiscovery export with legal hold apply per channel or team.",
+    "url": "https://mattermost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "On-prem / private cloud",
+    "url": "https://mattermost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PL3, IL4/5, IL6/7 proven deployments",
+    "url": "https://mattermost.com/",
+    "pass": 1
+   },
+   {
+    "quote": ": pre-packaged and custom integrations, webhooks, and a plugin architecture",
+    "url": "https://mattermost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Work across departments and agencies while every record stays in the country and is kept according to policy. Messaging, calls, and workflows run in your own jurisdiction. Retention, legal hold, and eDiscovery are built in, and shared channels connect other agencies.",
+    "url": "https://mattermost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Critical infrastructure and regulated enterprise",
+    "url": "https://mattermost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Resolve trading and security incidents while every minute costs money, and keep the full record regulators expect. Alerts open an incident channel and start a playbook with the right sign-offs. Every message is archived, with legal hold and export to Proofpoint or Global Relay.",
+    "url": "https://mattermost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Coordinate engineers across dozens of tools, and keep responding when an outage or breach takes those tools down. CI/CD, scanner, and SIEM events post to channels and start playbooks. Jira, GitHub, and ServiceNow stay in sync, and Mattermost stays up when primary systems go down.",
+    "url": "https://mattermost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven in mission-critical environments across the globe",
+    "url": "https://mattermost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "more time for aircrews to prepare",
+    "url": "https://mattermost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "higher SOC team productivity",
+    "url": "https://mattermost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every minute of an outage costs this company over $100,000 in revenue. An out-of-band Mattermost deployment keeps 15,000+ engineers coordinated when primary systems fail, so outages are resolved faster.",
+    "url": "https://mattermost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Speak with a Global Enterprise & Commercial specialist",
+    "url": "https://mattermost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sprechen Sie mit einem Bundeswehr- & NATO-Spezialisten",
+    "url": "https://mattermost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How do leads retain control when conditions deteriorate?",
+    "url": "https://mattermost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Access customer stories, demos, blogs, downloadable content, and community tools to get the most out of Mattermost at every stage of your deployment.",
+    "url": "https://mattermost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Professional Certification for Engineers",
+    "url": "https://mattermost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "A Tailored Approach to",
+    "url": "https://mattermost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Dmove is an advanced technology company providing a wide range of IT business consulting with best-in-class expertise in South Korea. As an Atlassian solution partner, Dmove specializes in supporting DevOps, ITSM, and Migration with Atlassian tools and Mattermost.",
+    "url": "https://mattermost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "InfoGrab is a DevOps Tech company with expertise in Agile-based software development and DevOps framework technology in various industries in Korea. InfoGrab also provides DevOps A to Z services, from DevOps tools, training and maintenance to expend DevOps market in Korea.",
+    "url": "https://mattermost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Megazone Cloud provides a broad set of consulting services and technology solutions for enterprises' cloud adoption with a strong partnership with Major Cloud service providers Including AWS, GCP and Azure.",
+    "url": "https://mattermost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Pramacom Prague spol. s r.o.",
+    "url": "https://mattermost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "EU System Integrator and Reseller | Prague, Czech Republic",
+    "url": "https://mattermost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Togetha are expert Atlassian Solutions Partners. Our head office is located in Canberra, Australia. We help teams of all sizes work better together by creating custom solutions using Atlassian ecosystem products and services. We have Australian security cleared staff to help with more sensitive customer requirements.",
+    "url": "https://mattermost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Reseller | Milton Keynes, Buckinghamshire, United Kingdom",
+    "url": "https://mattermost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Kreuzwerker is a team of DevOps and test experts, developers, coaches, and consultants who share a passion for creating and supervising IT processes. Their experts advise on cutting-edge technology solutions, infrastructure, security, strategy, and process optimization.",
+    "url": "https://mattermost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Redpill Linpro helps customers build the IT foundation for their digital transformation in APIs and integrations, automation, DevOps, agile IT operations, and the digital workplace. As the leading open source service provider in the Nordics, they always have a focus on openness.",
+    "url": "https://mattermost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Linktech Inc. is an Atlassian Gold Solution Partner in Taiwan. The team is dedicated to providing professional service, training, and customization solutions for customers. Linktech has successfully cooperated with customers from the financial industry, technology industry, and government.",
+    "url": "https://mattermost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "ALM-Toolbox provides consulting, licensing, add-on development, and private hosting solutions focused on ALM, DevOps, DevSecOps, CI/CD, and cloud computing for various customers in many industries, including finance, IT, telecom, security, medical devices, and more.",
+    "url": "https://mattermost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Accxia offers the Accxia ONE Cloud, a world-class cyber protected cloud infrastructure, to store and manage our clients' sensitive data and collaboration software in more than 30 cyber secure data centers across the globe. Our global yet regional approach guarantees that data resides within our clients' digital borders.",
+    "url": "https://mattermost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "pgEdge provides distributed and non-distributed PostgreSQL for mission critical workloads to achieve high availability and low latency. Only pgEdge combines multi-active (multi-master), multi-region and multi-cloud that is 100% standard Postgres and 100% open source.",
+    "url": "https://mattermost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "As a Red Hat Technology Partner, Mattermost supports Red Hat Enterprise Linux, Red Hat OpenStack, and Red Hat OpenShift.",
+    "url": "https://mattermost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Shakudo is the operating system for data and AI, that securely deploys on an organization's VPC, or on-prem. Shakudo creates compatibility across the best-of-breed data tools for a more reliable, performant, and cost effective data and AI OS.",
+    "url": "https://mattermost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "How do leads retain control when conditions deteriorate?",
+    "url": "https://mattermost.com/solutions/industries/government-and-public-sector/",
+    "pass": 1
+   },
+   {
+    "quote": "Access customer stories, demos, blogs, downloadable content, and community tools to get the most out of Mattermost at every stage of your deployment.",
+    "url": "https://mattermost.com/solutions/industries/government-and-public-sector/",
+    "pass": 1
+   },
+   {
+    "quote": "Professional Certification for Engineers",
+    "url": "https://mattermost.com/solutions/industries/government-and-public-sector/",
+    "pass": 1
+   },
+   {
+    "quote": "Serve citizens effectively, protect sensitive data, and position your team for innovation—backed by a self-sovereign platform for communication, collaboration, and continuous operations.",
+    "url": "https://mattermost.com/solutions/industries/government-and-public-sector/",
+    "pass": 1
+   },
+   {
+    "quote": "Deployable on-premises, in a private cloud, or in air-gapped environments, critical information is never at risk of being out of reach to your team—or within the reach of bad actors.",
+    "url": "https://mattermost.com/solutions/industries/government-and-public-sector/",
+    "pass": 1
+   },
+   {
+    "quote": "Granular access controls, AD/LDAP sync, custom data retention, and compliance export are built in from the start. Usability is never sacrificed—so your missions keep moving with confidence.",
+    "url": "https://mattermost.com/solutions/industries/government-and-public-sector/",
+    "pass": 1
+   },
+   {
+    "quote": "Gain full control over data and operations, and meet strict security, privacy, compliance, and regulatory requirements, including Zero Trust controls, and layered protection.",
+    "url": "https://mattermost.com/solutions/industries/government-and-public-sector/",
+    "pass": 1
+   },
+   {
+    "quote": "Stop context switching by bringing tools, people, and processes together. Interactive add-ons enable powerful customization and can be written in any language.",
+    "url": "https://mattermost.com/solutions/industries/government-and-public-sector/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore deployment and implementation partners for a secure, efficient, and FedRAMP-compliant onboarding.",
+    "url": "https://mattermost.com/solutions/industries/government-and-public-sector/",
+    "pass": 1
+   },
+   {
+    "quote": "How do leads retain control when conditions deteriorate?",
+    "url": "https://mattermost.com/solutions/industries/financial-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Access customer stories, demos, blogs, downloadable content, and community tools to get the most out of Mattermost at every stage of your deployment.",
+    "url": "https://mattermost.com/solutions/industries/financial-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Professional Certification for Engineers",
+    "url": "https://mattermost.com/solutions/industries/financial-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Full message retention",
+    "url": "https://mattermost.com/solutions/industries/financial-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Keep defenders coordinated and separated from compromised infrastructure within a single-tenant, out-of-band platform.",
+    "url": "https://mattermost.com/solutions/industries/financial-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Gain full control over data and operations, and meet strict security, privacy, compliance, and regulatory requirements, including Zero Trust controls, and layered protection.",
+    "url": "https://mattermost.com/solutions/industries/financial-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Stop context switching by bringing tools, people, and processes together. Interactive add-ons enable powerful customization and can be written in any language.",
+    "url": "https://mattermost.com/solutions/industries/financial-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore deployment and implementation partners for a secure, efficient, and FedRAMP-compliant onboarding.",
+    "url": "https://mattermost.com/solutions/industries/financial-services/",
+    "pass": 1
+   },
+   {
+    "quote": "90% Improvement",
+    "url": "https://mattermost.com/solutions/industries/financial-services/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by mission-critical teams worldwide",
+    "url": "https://mattermost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Deploy on infrastructure your operators already trust.",
+    "url": "https://mattermost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Respond together across plant, engineering, and security teams when a line or OT system raises an alert, without exposing design IP. Alerts post to shared channels through webhooks and APIs, and follow-up is tracked on boards. Files and messages stay on your own servers.",
+    "url": "https://mattermost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing solutions",
+    "url": "https://mattermost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "To protect essential services, it's crucial that everyone from control room operators to field engineers to security teams stays connected—and coordinated for detection, response, and resolution.",
+    "url": "https://mattermost.com/solutions/industries/energy-and-utilities/",
+    "pass": 1
+   },
+   {
+    "quote": "Too often the people asked to do the most are given the worst tools, due to intense security requirements. We bring cutting-edge collaboration, automation, and AI to mission-critical operators, across sovereign cloud, air-gapped, and DDIL environments. Because the teams protecting our world deserve technology built for the future, not stuck in the past.",
+    "url": "https://mattermost.com/company/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "National security. Multi-domain operations in contested and classified environments. For national security organizations, defense industrial base, and allied militaries operating across classified, air-gapped, and contested networks.",
+    "url": "https://mattermost.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect users across Microsoft Teams and Mattermost with integrated direct messaging bridging the two platforms, maintaining specialized environments for developers, security professionals, and operators.",
+    "url": "https://mattermost.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Professional: –. Enterprise: –. Enterprise Advanced: Add-on. Federates channel messaging across classification boundaries via customer-accredited Cross Domain Solutions, without operators switching networks.",
+    "url": "https://mattermost.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "High availability and scalability were essential to support 48,000 DoW employees on Platform One—the centralized team for DevSecOps and Software Factory Managed Services.",
+    "url": "https://mattermost.com/solutions/segments/national-security/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by government agencies and Fortune 500s",
+    "url": "https://mattermost.com/resources/discover/customer-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "“This was not satisfactory as the message history was excessively limited and there was no self-hosting option,” Warburton adds. “As a result, Slack wasn’t used by many of our members.”",
+    "url": "https://mattermost.com/resources/discover/customer-stories/lisa-consortium/",
+    "pass": 1
+   },
+   {
+    "quote": "Mattermost provides secure collaboration, workflow, and AI for national security and critical infrastructure. Trusted by governments, enterprises, and militaries worldwide, Mattermost enables organizations to deploy on sovereign infrastructure, ensuring they retain total control over their most sensitive data and operations.",
+    "url": "https://mattermost.com/newsroom/press-releases/mattermost-expands-commitment-to-allied-defense-of-the-pacific-launches-mission-operations-for-microsoft-and-establishes-japan-subsidiary/",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Mattermost",
+    "url": "https://www.casestudies.com/customer/mattermost",
+    "pass": 3
+   },
+   {
+    "quote": "Defense and Space Manufacturing",
+    "url": "https://www.casestudies.com/company/mattermost",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Work across departments and agencies while every record stays in the country and is kept according to policy. Messaging, calls, and workflows run in your own jurisdiction. Retention, legal hold, and eDiscovery are built in, and shared channels connect other agencies.",
+    "url": "https://mattermost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We partner with System Integrators, Resellers, and Deployment Partners to help you implement our secure, unified collaboration platform.",
+    "url": "https://mattermost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "EU System Integrator and Reseller | Prague, Czech Republic",
+    "url": "https://mattermost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Reseller | Milton Keynes, Buckinghamshire, United Kingdom",
+    "url": "https://mattermost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "US Reseller | Reston, Virginia, USA",
+    "url": "https://mattermost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Reseller | Taiwan | Selangor Darul Ehsan, Malaysia",
+    "url": "https://mattermost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "EMEA Reseller | Berlin, Germany",
+    "url": "https://mattermost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Global Reseller | Somerset, New Jersey, USA",
+    "url": "https://mattermost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Global Reseller | Johannesburg, South Africa",
+    "url": "https://mattermost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "EMEA Reseller | Noord-Brabant, Netherlands",
+    "url": "https://mattermost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "EMEA Reseller | Stockholm, Sweden Oslo, Norway Copenhagen, Denmark",
+    "url": "https://mattermost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Taiwan Reseller | New Taipei City, Taiwan",
+    "url": "https://mattermost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Global Reseller | Petah-Tiqwa, Israel",
+    "url": "https://mattermost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Japan Reseller | Tokyo, Japan",
+    "url": "https://mattermost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "EMEA Reseller | Helsinki, Finland",
+    "url": "https://mattermost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Reseller | Stans, Switzerland",
+    "url": "https://mattermost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "EMEA Reseller | Bratislava, Slovakia",
+    "url": "https://mattermost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Purpose-built for agencies like yours",
+    "url": "https://mattermost.com/solutions/industries/government-and-public-sector/",
+    "pass": 1
+   },
+   {
+    "quote": "Meet Trusted Resellers + Integrators",
+    "url": "https://mattermost.com/solutions/industries/government-and-public-sector/",
+    "pass": 1
+   },
+   {
+    "quote": "Meet Trusted Resellers + Integrators",
+    "url": "https://mattermost.com/solutions/industries/financial-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Meet Trusted Resellers + Integrators",
+    "url": "https://mattermost.com/solutions/industries/healthcare-and-life-sciences/",
+    "pass": 1
+   },
+   {
+    "quote": "Meet Trusted Resellers + Integrators",
+    "url": "https://mattermost.com/solutions/industries/energy-and-utilities/",
+    "pass": 1
+   },
+   {
+    "quote": "Meet Trusted Resellers + Integrators",
+    "url": "https://mattermost.com/solutions/industries/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "to contact channel partners and resellers. You can also contact Carahsoft regarding Mattermost by phone or email with the information at",
+    "url": "https://mattermost.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Governmental organizations outside the U.S. that need to procure licenses through resellers can contact the Mattermost sales organization at",
+    "url": "https://mattermost.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "to connect with existing resellers by country and geographic region, or to onboard new approved resellers.",
+    "url": "https://mattermost.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "I'd like to buy Mattermost through a reseller, or I am a reseller, how do I get in touch?",
+    "url": "https://mattermost.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "to find a reseller for your geography and organization. Resellers can read about our partner programs at",
+    "url": "https://mattermost.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Serving leading government agencies like NASA and the DoD, Galois switched from Jabber to Mattermost for modern, self-hosted communication, and rich features that made it easier for staff to solve complex problems.",
+    "url": "https://mattermost.com/solutions/segments/national-security/",
+    "pass": 1
+   },
+   {
+    "quote": "Meet Trusted Resellers + Integrators",
+    "url": "https://mattermost.com/solutions/segments/national-security/",
+    "pass": 1
+   },
+   {
+    "quote": "Meet Trusted Resellers + Integrators",
+    "url": "https://mattermost.com/solutions/segments/intelligence-community/",
+    "pass": 1
+   },
+   {
+    "quote": "Meet Trusted Resellers + Integrators",
+    "url": "https://mattermost.com/solutions/segments/critical-infrastructure/",
+    "pass": 1
+   },
+   {
+    "quote": "Meet Trusted Resellers + Integrators",
+    "url": "https://mattermost.com/solutions/segments/enterprise-risk-and-compliance/",
+    "pass": 1
+   },
+   {
+    "quote": "Meet Trusted Resellers + Integrators",
+    "url": "https://mattermost.com/solutions/segments/security-operations-center/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by government agencies and Fortune 500s",
+    "url": "https://mattermost.com/resources/discover/customer-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "Working alongside the European Space Agency (ESA) and NASA, the international consortium consists of over 1,000 volunteer scientists, researchers, and engineers. Operating independently from the space agencies, the LISA Consortium supports the development and scientific goals of the LISA mission, which is expected to launch around 2035 and last four to six years.",
+    "url": "https://mattermost.com/resources/discover/customer-stories/lisa-consortium/",
+    "pass": 1
+   },
+   {
+    "quote": "White label | Mattermost Documentation",
+    "url": "https://docs.mattermost.com/developers/contribute/more-info/mobile/build-your-own/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "We've made it easy to white label the mobile app and to replace and override the assets used, however, you have to",
+    "url": "https://docs.mattermost.com/developers/contribute/more-info/mobile/build-your-own/white-label",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Flight packages used to pass through several offices and reach crews about 30 minutes before takeoff. Sent straight to electronic flight bags through Mattermost on Platform One, they now arrive about two hours ahead.",
+    "url": "https://mattermost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "revenue at stake every minute of downtime",
+    "url": "https://mattermost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every minute of an outage costs this company over $100,000 in revenue. An out-of-band Mattermost deployment keeps 15,000+ engineers coordinated when primary systems fail, so outages are resolved faster.",
+    "url": "https://mattermost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Data control requirements are non-negotiable, but traditional operating models create silos that slow threat response, and introduce questions around information security. The fastest technology teams are treating security as part of their collaboration system.",
+    "url": "https://mattermost.com/solutions/industries/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect with thousands of contributors, customers, and users, and become part of our open source community.",
+    "url": "https://mattermost.com/company/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Be Part of a Team That Helps Others",
+    "url": "https://mattermost.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase clarity on legal expectations for internal employees and guests with the ability to set custom Terms of Service agreements and re-acceptance periods.",
+    "url": "https://mattermost.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "High availability and scalability were essential to support 48,000 DoW employees on Platform One—the centralized team for DevSecOps and Software Factory Managed Services.",
+    "url": "https://mattermost.com/solutions/segments/national-security/",
+    "pass": 1
+   },
+   {
+    "quote": "Classification and channel barriers",
+    "url": "https://mattermost.com/solutions/segments/intelligence-community/",
+    "pass": 1
+   },
+   {
+    "quote": "Platform One Acquisition Summary",
+    "url": "https://mattermost.com/solutions/segments/critical-infrastructure/",
+    "pass": 1
+   },
+   {
+    "quote": "Platform One Acquisition Summary",
+    "url": "https://mattermost.com/solutions/use-cases/devsecops-collaboration/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by government agencies and Fortune 500s",
+    "url": "https://mattermost.com/resources/discover/customer-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "Leads the U.S. federal subsidiary serving Department of War and intelligence community customers. CTO Emeritus and Co-Founder of Mattermost. Founded Tempo AI (acquired by Salesforce); former Microsoft Office engineering manager and architect. Holds 30 patents in Microsoft technologies. U.S. citizen.",
+    "url": "https://mattermost.com/company/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Revenue Officer",
+    "url": "https://mattermost.com/company/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "Based in Atlanta, Georgia, USA. 25+ years building and scaling products and engineering organizations at Microsoft (security-focused, multiple patents), Red Canary, and MobileIron (through IPO). Owns platform engineering, security, infrastructure, DDIL/edge architecture, and sovereign AI integration.",
+    "url": "https://mattermost.com/company/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "25+ years in finance at high-growth technology companies. Most recently Chief Accounting Officer at MNTN, Inc.; previously CFO at xMatters, Inc. Earlier career includes key roles in the IPOs of OpenTable and E-LOAN. Leads financial operations, FP&A, strategic planning, and growth objectives across Mattermost's global entities.",
+    "url": "https://mattermost.com/company/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect with thousands of contributors, customers, and users, and become part of our open source community.",
+    "url": "https://mattermost.com/company/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "and test against that. If you want to perform testing that might break things please contact us to arrange access to a private staging server, so you don't disrupt other people's work on the community test server.",
+    "url": "https://mattermost.com/company/responsible-disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "Many thanks to the security researchers who have responsibly contributed their findings to make the Mattermost code base more secure (listed in the Security Research Hall of Fame below by number of contributions, then alphabetically).",
+    "url": "https://mattermost.com/company/responsible-disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "Harrison Healey (10 contributions)",
+    "url": "https://mattermost.com/company/responsible-disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "オラクル（NYSE: ORCL）について詳しくは、www.oracle.com をご覧ください",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000178642.html",
+    "pass": 3
+   },
+   {
+    "quote": "Fujitsu is an information and communications technology equipment and services corporation that’s one of the world’s largest IT service providers. Founded in 1935 and headquartered in Tokyo, Fujitsu has 124,000 employees working out of offices across the globe. (This information is current as of March 2024.)",
+    "url": "https://mattermost.com/resources/discover/customer-stories/fujitsu/",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermost Revenue 2024: $33.1M Est., $70M Raised",
+    "url": "https://getlatka.com/companies/mattermost",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermost has not published its revenue. GetLatka estimates it at about $33.1M a year (October 2024).",
+    "url": "https://getlatka.com/companies/mattermost",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/mattermost",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermost CEO, founders & employees",
+    "url": "https://getlatka.com/companies/mattermost",
+    "pass": 3
+   },
+   {
+    "quote": "Corey Hulen founded Mattermost in 2016. Ian Tien is CEO. Mattermost had 156 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/mattermost",
+    "pass": 3
+   },
+   {
+    "quote": "What is Mattermost's revenue?",
+    "url": "https://getlatka.com/companies/mattermost",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Mattermost's revenue at about",
+    "url": "https://getlatka.com/companies/mattermost",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Mattermost have?",
+    "url": "https://getlatka.com/companies/mattermost",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/mattermost",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/mattermost",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/mattermost",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/mattermost",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "The 24/7 security operations team moved case tracking, severity, and shift notes into self-hosted Channels and Boards that every shift can search. Duplicate email also fell by 30%.",
+    "url": "https://mattermost.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Write ABAC policies from day one using built-in attributes like email, account age, and user type—no custom integrations required.",
+    "url": "https://mattermost.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "to contact channel partners and resellers. You can also contact Carahsoft regarding Mattermost by phone or email with the information at",
+    "url": "https://mattermost.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "In the consortium’s early days, project coordinators and working group co-chairs primarily used email and video calls to stay connected with members.",
+    "url": "https://mattermost.com/resources/discover/customer-stories/lisa-consortium/",
+    "pass": 1
+   },
+   {
+    "quote": "With Mattermost, members no longer have to decipher hard-to-follow email chains to collaborate on complex topics.",
+    "url": "https://mattermost.com/resources/discover/customer-stories/lisa-consortium/",
+    "pass": 1
+   },
+   {
+    "quote": "“Mattermost makes it easy to have discussions among large groups of people and for side discussions to form naturally via message threads,” Warburton says. “There is a clear productivity gain in communicating this way. It’s clearly more efficient than using email.”",
+    "url": "https://mattermost.com/resources/discover/customer-stories/lisa-consortium/",
+    "pass": 1
+   },
+   {
+    "quote": "and test against that. If you want to perform testing that might break things please contact us to arrange access to a private staging server, so you don't disrupt other people's work on the community test server.",
+    "url": "https://mattermost.com/company/responsible-disclosure/",
+    "pass": 1
+   },
+   {
+    "quote": "BITSKIN reduces email volume by up to 65% with Mattermost",
+    "url": "https://www.casestudies.com/company/mattermost",
+    "pass": 3
+   },
+   {
+    "quote": "Oose minimizes meetings and emails with Mattermost",
+    "url": "https://www.casestudies.com/company/mattermost",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "System Integrator | Fuchu, Tokyo, Japan",
+    "url": "https://mattermost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "APAC System Integrator | Tokyo, Japan",
+    "url": "https://mattermost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "System Integrator | Japan",
+    "url": "https://mattermost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Japan Reseller | Tokyo, Japan",
+    "url": "https://mattermost.com/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Shibuya-ku, Tokyo",
+    "url": "https://mattermost.com/company/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Tokyo, Japan",
+    "url": "https://mattermost.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Multiple languages including English (US/AU), Bulgarian, Chinese (Simplified and Traditional), Dutch, French, German, Hungarian, Italian, Japanese, Korean, Persian, Polish, Portuguese (Brazil), Romanian, Russian, Spanish, Swedish, Turkish, Ukrainian, and Vietnamese.",
+    "url": "https://mattermost.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "General Manager, Mattermost Japan KK",
+    "url": "https://mattermost.com/company/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "Based in Tokyo. 25+ years in enterprise technology with leadership roles at Oracle, DataRobot (Japan Country Manager), IBM, Netezza, and DataStax. Leads Japan market entry and JSDF engagement — key to Indo-Pacific defense modernization and \"assured cooperation\" with allied forces.",
+    "url": "https://mattermost.com/company/leadership/",
+    "pass": 1
+   },
+   {
+    "quote": "Mattermost、国内ソブリンクラウド基盤上でセキュアAI・コラボレーション基盤の提供を開始 | Mattermost Japan株式会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000178642.html",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermost Japan 株式会社（本社：東京都港区、カントリーマネージャー：原沢 滋、以下「Mattermost Japan」）は、株式会社野村総合研究所（本社：東京都千代田区、代表取締役 社長：柳澤 花芽、以下「NRI」）が国内データセンターで運用する「",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000178642.html",
+    "pass": 3
+   },
+   {
+    "quote": "本取り組みは、日本オラクル株式会社（本社：東京都港区、取締役 執行役 社長：三澤 智光、以下「日本オラクル」）の協力のもとで推進されます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000178642.html",
+    "pass": 3
+   },
+   {
+    "quote": "近年、サイバー攻撃の高度化、サプライチェーンを経由したランサムウェア被害、生成AIの活用拡大に伴う機微情報の外部流出リスクなど、日本企業および公共機関を取り巻く脅威は一層深刻化しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000178642.html",
+    "pass": 3
+   },
+   {
+    "quote": "加えて、欧米諸国を中心に「Sovereign Cloud（ソブリンクラウド）」や「Sovereign AI（ソブリンAI）」に関する取り組みが国家戦略として進む中、日本においても、データ、運用、技術の各層において主権性に配慮したコラボレーション基盤およびAI活用基盤への需要が、防衛、金融、公共、製造、重要インフラの各分野で高まっています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000178642.html",
+    "pass": 3
+   },
+   {
+    "quote": "本取り組みは、こうした各社の取り組みを日本市場向けの提供体制として具体化するものです",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000178642.html",
+    "pass": 3
+   },
+   {
+    "quote": "▼ 株式会社野村総合研究所 専務執行役員 IT基盤サービス担当 兼 産業ITソリューション事業副担当 兼 NRIセキュアテクノロジーズ株式会社 取締役会長 大元 成和",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000178642.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本において、信頼あるSIパートナーである NRI、そして Oracle とともに、その実現に取り組めることを大変うれしく思います",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000178642.html",
+    "pass": 3
+   },
+   {
+    "quote": "▼ 日本オラクル株式会社 取締役 執行役 社長 三澤 智光",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000178642.html",
+    "pass": 3
+   },
+   {
+    "quote": "「日本オラクルは、Oracle Alloy を通じて、パートナー企業によるデータ主権および運用主権の要件に対応したソブリンクラウドおよびAI環境の提供を支援しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000178642.html",
+    "pass": 3
+   },
+   {
+    "quote": "▼ Mattermost Japan 株式会社 カントリーマネージャー 原沢 滋",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000178642.html",
+    "pass": 3
+   },
+   {
+    "quote": "「日本のお客様から多くいただいてきたご要望は、『データを国内に置きたい』『運用も日本の信頼できる事業者に任せたい』『その上で先進的なAI技術を活用したい』という三点でした",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000178642.html",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermost Japan は、防衛、公共、金融、重要インフラのお客様それぞれの要件を踏まえながら、本サービスの提供と活用領域の拡大に取り組んでまいります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000178642.html",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermost は、本取り組みを起点として、NRI および日本オラクルと連携しながら、以下の領域での検討を順次進めてまいります",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000178642.html",
+    "pass": 3
+   },
+   {
+    "quote": "・ 日本国内におけるパートナー認定制度、トレーニング、マーケティング活動の展開",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000178642.html",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermost / Mattermost Japan 株式会社について",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000178642.html",
+    "pass": 3
+   },
+   {
+    "quote": "米国バージニア州レストン、カナダ・オンタリオ州トロント、英国ロンドン、日本・東京に拠点を持ち、グローバル統括拠点を米国カリフォルニア州パロアルトに置いています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000178642.html",
+    "pass": 3
+   },
+   {
+    "quote": "NRI は、コンサルティングとITソリューションを融合的に提供する、日本を代表するソリューション・プロバイダーです",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000178642.html",
+    "pass": 3
+   },
+   {
+    "quote": "東京都渋谷区道玄坂 1-10-8",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000178642.html",
+    "pass": 3
+   },
+   {
+    "quote": "米Mattermostが日本法人を設立、政府・重要インフラ向け「ソブリン型コラボレーション基盤」展開へ | IT Leaders",
+    "url": "https://it.impress.co.jp/articles/-/29102",
+    "pass": 3
+   },
+   {
+    "quote": "米Mattermostが日本法人を設立、政府・重要インフラ向け「ソブリン型コラボレーション基盤」展開へ",
+    "url": "https://it.impress.co.jp/articles/-/29102",
+    "pass": 3
+   },
+   {
+    "quote": "オープンソースソフトウェア（OSS）のコラボレーションプラットフォームを手がける米Mattermost（マターモスト）は2026年3月11日、日本法人のMattermost Japanを設立したと発表した",
+    "url": "https://it.impress.co.jp/articles/-/29102",
+    "pass": 3
+   },
+   {
+    "quote": "設立の理由について、「重要インフラや防衛・政府機関が外部に依存せず、自らデータと運用を制御できる環境を日本に定着させることが目的」としている",
+    "url": "https://it.impress.co.jp/articles/-/29102",
+    "pass": 3
+   },
+   {
+    "quote": "「レッド」は対象外とし、重要インフラが運用する「ブルー」と「ブラック」を活動領域と位置づける(出典：Mattermost Japan）",
+    "url": "https://it.impress.co.jp/articles/-/29102",
+    "pass": 3
+   },
+   {
+    "quote": "チームの情報共有・共同作業のオープンソースを実測で比較（ライセンス・日本語対応・更新）",
+    "url": "https://exbridge.jp/ai-system/mattermost/",
+    "pass": 3
+   },
+   {
+    "quote": "OSSを自分で立てて日本語化する代わりに、日本語で作った当社の製品を自社のサーバーに置く方法もあります",
+    "url": "https://exbridge.jp/ai-system/mattermost/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、この土台に対して日本語化、画面や項目の変更、権限、帳票、既存システムとの連携を加えて、御社の業務に合う状態にします",
+    "url": "https://exbridge.jp/ai-system/mattermost/",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermostの日本語ファイルは2件です",
+    "url": "https://exbridge.jp/ai-system/mattermost/",
+    "pass": 3
+   },
+   {
+    "quote": "ファイルの数だけでは訳の網羅率は分からないので、実際の画面で日本語の範囲を確かめます",
+    "url": "https://exbridge.jp/ai-system/mattermost/",
+    "pass": 3
+   },
+   {
+    "quote": "機能の一覧、日本語ファイルの実測、同じ分類のOSSとの比べ方など、技術者向けの情報は",
+    "url": "https://exbridge.jp/ai-system/mattermost/",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermostの日本語化・改修・導入（バイブOSS）を、御社のお客様に販売できます",
+    "url": "https://exbridge.jp/ai-system/mattermost/",
+    "pass": 3
+   },
+   {
+    "quote": "ライセンス、日本語対応、規模を比べて選べます",
+    "url": "https://exbridge.jp/ai-system/mattermost/",
+    "pass": 3
+   },
+   {
+    "quote": "かかるのはサーバー代と、日本語化や自社向けの変更にかかる費用です",
+    "url": "https://exbridge.jp/ai-system/mattermost/",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermostは日本語で使えますか？",
+    "url": "https://exbridge.jp/ai-system/mattermost/",
+    "pass": 3
+   },
+   {
+    "quote": "判定は、GitHubの公開ファイル一覧から日本語ロケールの実ファイルを数えた結果です（配布用のビルド成果物は除外）",
+    "url": "https://exbridge.jp/ai-system/mattermost/",
+    "pass": 3
+   },
+   {
+    "quote": "日本語化が必要な場合は、当社がその作業を含めて導入します",
+    "url": "https://exbridge.jp/ai-system/mattermost/",
+    "pass": 3
+   },
+   {
+    "quote": "この用途に使えるオープンソースとして公開されており、当社ではこれを土台に日本語化と自社向けの変更を行って導入します",
+    "url": "https://exbridge.jp/ai-system/mattermost/",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermost Japan 株式会社の設立について | Mattermost Japan株式会社のプレスリリース",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000178642.html",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermost Japan 株式会社の設立について",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000178642.html",
+    "pass": 3
+   },
+   {
+    "quote": "〜「ソブリン・コラボレーション」で日本企業・政府機関のデジタル主権確立を支援〜",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000178642.html",
+    "pass": 3
+   },
+   {
+    "quote": "セルフホスト型コラボレーション・プラットフォームのグローバルリーダーである Mattermost Inc.（本社：米国カリフォルニア州パロアルト、CEO：Ian Tien、以下 Mattermost）は、日本法人「Mattermost Japan 株式会社」を設立したことを発表します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000178642.html",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermost はこれを「不可逆的なグローバル変化」と捉え、日本市場への本格参入を決定しました",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000178642.html",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermost Japan の設立により、日本市場における体制を強化し、エンタープライズ・政府機関への直接的な支援と事業拡大を加速させます",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000178642.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本はソブリン・コラボレーションの最重要市場のひとつです",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000178642.html",
+    "pass": 3
+   },
+   {
+    "quote": "原沢のリーダーシップのもとで日本法人を設立できたことを誇りに思います",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000178642.html",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermost Japan は、日本の組織がデータを外部に出すことなく、その恩恵を最大限に活用できる未来を実現します",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000178642.html",
+    "pass": 3
+   },
+   {
+    "quote": "原沢滋（Mattermost Japan 株式会社 カントリーマネージャー）",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000178642.html",
+    "pass": 3
+   },
+   {
+    "quote": "「日本のエンタープライズIT市場で25年以上にわたって仕事をしてきた中で、今ほどデータ主権が重要な時代はありませんでした",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000178642.html",
+    "pass": 3
+   },
+   {
+    "quote": "CLOUD Act リスク、AI時代のデータ搾取、自分のデータの保護——これらは日本の企業・政府機関が今すぐ向き合わなければならない課題です",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000178642.html",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermost は「デジタル主権」をコミュニケーションツールから実現するオープンソース・エンタープライズ基盤であり、日本市場で真の価値を提供できると確信しています",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000178642.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本のデジタル主権確立のために、全力を尽くします",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000178642.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Mattermostとは？Slackとの違い・料金・使い方・導入方法【v12対応】 — Jun 26, 2025 · Mattermost（マターモースト）はセルフホストできるOSSのチャットツールです。 Slackとの違い、無償版の250人上限とv11の変更点、料金、サーバーURLの確認や表の書き方をv12.0.0時点で解説します。",
+    "url": "https://www.issoh.co.jp/tech/details/7454/",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermost、国内ソブリンクラウド基盤上でセキュアAI・コラボレーシ... — Sep 10, 2026 · Mattermost Japan は、防衛、公共、金融、重要インフラのお客様それぞれの要件を踏まえながら、本サービスの提供と活用領域の拡大に取り組んで ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000178642.html",
+    "pass": 3
+   },
+   {
+    "quote": "米Mattermostが日本法人を設立、政府・重要インフラ向け「ソブリン型... — Mar 16, 2026 · オープンソースソフトウェア（OSS）のコラボレーションプラットフォームを手がける米Mattermost（マターモスト）は2026年3月11日、日本法人のMattermost Japanを設立したと発表した。",
+    "url": "https://it.impress.co.jp/articles/-/29102",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermostでチームの情報共有・共同作業｜業務での使い方と導入 — 2 days ago · Mattermostをチームの情報共有・共同作業の業務にどう使うかと、導入の進め方をまとめました。 ソフトウェア開発ライフサイクル全体を支える安全なコラボレーションプラットフォームです。 名古屋のシステム開発会社が日本語化から導入まで行います。",
+    "url": "https://exbridge.jp/ai-system/mattermost/",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermost、国家安全保障・企業・重要インフラ向けの人とAIのコラボ... — Oct 20, 2026 · 今後に向けて、Mattermostは、ユーザーの属性に応じたAI機能の利用制御や、AIエージェントの動作をポリシー、記録、人による承認のもとで統制 ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000178642.html",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermost · GitHub — Mattermost is a secure collaboration platform for connecting your teams, tools and processes to accelerate mission-critical work. - Mattermost",
+    "url": "https://github.com/mattermost",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermost | Operational and AI Sovereignty for Critical ... — Zero-trust collaboration, automation and AI in private cloud, self-hosted, and air-gapped environments. Built for national security, critical infrastructure, and regulated enterprises.",
+    "url": "https://mattermost.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermost Japan 株式会社の設立について — Mar 11, 2026 · Mattermost は、エンタープライズ・政府機関・防衛・重要インフラなど高度なセキュリティ要件を持つ組織向けに、セルフホスト型のエンタープライズ・コラボレーション基盤を提供するグローバル企業です。 「Sovereign...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000178642.html",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermost、国内ソブリンクラウド基盤上でセキュアAI・コラボレーシ... — Sep 10, 2026 · Mattermost のプラットフォームは、オンプレミスおよびプライベートクラウド上で稼働し、セキュアなメッセージング、ファイル共有、システム ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000178642.html",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermost Expands Commitment to Allied Defense of the ... — Mar 12, 2026 · Building on its deep partnership with Microsoft, Mattermost also unveiled “Mattermost Mission Operations for Microsoft,” a purpose-built solution designed for allied defense operations across the Pacific.",
+    "url": "https://mattermost.com/newsroom/press-releases/mattermost-expands-commitment-to-allied-defense-of-the-pacific-launches-mission-operations-for-microsoft-and-establishes-japan-subsidiary/",
+    "pass": 3
+   },
+   {
+    "quote": "Chinese, Japanese and Korean search | Mattermost Documentation — Starting on Mattermost v11.5, searching for Chinese, Japanese or Korean (CJK) characters can be enabled with the feature flag MMFEATUREFLAGSCJKSEARCH.",
+    "url": "https://docs.mattermost.com/administration-guide/configure/enabling-chinese-japanese-korean-search",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermost | Partners — Find an approved reseller, deployment partner, or systems integrator to help you implement Mattermost today.",
+    "url": "https://mattermost.com/partners/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Stories - Mattermost — See how organizations like yours overcome communication and collaboration challenges with Mattermost.",
+    "url": "https://mattermost.com/resources/discover/customer-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Fujitsu Customers with Biodrug Design Accelerator use ... — Find out why Fujitsu chose Mattermost as the secure collaboration solution powering its Biodrug Design Accelerator platform.",
+    "url": "https://mattermost.com/resources/discover/customer-stories/fujitsu/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Mattermost Uses Software & Services — Explore case studies featuring Mattermost as the customer — learn how vendors and partners helped Mattermost solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/mattermost",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermost B2B Case Studies & Customer Successes — See how Mattermost solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/mattermost",
+    "pass": 3
+   },
+   {
+    "quote": "How to write Mattermost case studies | Mattermost Handbook — The goal of our case studies is to present both Mattermost and our users in the best possible light. We will give your team an opportunity to review, edit, and approve the case study before it's shared publicly.",
+    "url": "https://handbook.mattermost.com/operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-write-mattermost-case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "White label - MattermostPartner ProgramExplore the Salesforce Partner Program | SalesforcePartner Program - Resellers, Integrators & Tech Partners | VizrtMaximize Growth with the Spectrum Channel Partner ProgramExtreme Partner First™: Unified Partner Program for Resellers ... — To replace these with your own assets, create a sub-directory called override in the assets folder. Using the same direct",
+    "url": "https://developers.mattermost.com/contribute/more-info/mobile/build-your-own/white-label/",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermost Revenue 2024: $33.1M Est., $70M Raised — Oct 30, 2026 · Mattermost 2024 estimated revenue: $33.1M (up from $20.7M in 2023). Total funding: $70M across 2 rounds. 156 employees. Founded 2016. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/mattermost",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermost – Revenue, Valuation & Top Competitors – 2026 — At Mattermost, each employee is estimated to contribute about $155.9K in annual revenue. Mattermost has secured approximately $70M through various funding rounds. More than 100+ individuals currently work at Mattermost. Over the past year, Mattermost saw a 12% decline in headcount.",
+    "url": "https://compworth.com/company/mattermost",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermost 2026 Company Profile: Valuation, Funding ...Mattermost - 2026 Company Profile, Team, Funding ... - TracxnWho Founded Mattermost? Founders and Revenue · Trends.vcMattermost Information - RocketReachMattermost – Funding, Valuation, Investors, News — Information on valuation, funding, cap tables, investors, and executives for Mattermost. Use the PitchBook Platform to explore the full profi",
+    "url": "https://pitchbook.com/profiles/company/163070-65",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermost - 2026 Company Profile, Team, Funding ... - TracxnWho Founded Mattermost? Founders and Revenue · Trends.vcMattermost Information - RocketReachMattermost – Funding, Valuation, Investors, News — Mar 14, 2026 · Mattermost - About the company Mattermost is a series B company based in Palo Alto (United States), founded in 2011 by Corey Hulen and Ian Tien. It operates as an Enterprise communi",
+    "url": "https://tracxn.com/d/companies/mattermost/__mA-LyZGF_QeZzxcGwT0pypkgDzS5os4kYj0A4m_b4vc",
+    "pass": 3
+   },
+   {
+    "quote": "Who Founded Mattermost? Founders and Revenue · Trends.vc — Questions Who founded Mattermost? Ian Tien and Corey Hulen founded Mattermost in 2016. How much does Mattermost earn? Mattermost earns an estimated $33M a year.",
+    "url": "https://trends.vc/opportunities/companies/mattermost",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "MatterMostをSelf Hostするメモ｜ハカセ Feb 10, 2025 · 1.MatterMostって？ Mattermostは、オープンソースのチャットおよびチームコラボレーションプラットフォームです。 Slackと同様にリアルタイムでのメッセージ交換やファイル共有、チャンネルを活用したコミュニケーション機能を提供します。",
+    "url": "https://note.com/mega_gorilla/n/n91df2dafe721",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermost 初期設定まとめ｜荒川 仁志 | Hitoshi Arakawa Sep 7, 2022 · Ubuntu 22.04 に Mattermost をインストールしたことを書いた。 最初にやった初期設定や気付いたことなどをまとめてみよう。 環境：WebARENA Indigo Linux 1GB（Ubuntu 22.04）、iPad Pro 9.7” （1）iPad アプリのインストール。",
+    "url": "https://note.com/hitoshiarakawa/n/n3c422a6b3825",
+    "pass": 3
+   },
+   {
+    "quote": "またまた、Synology NASでの挑戦！ Mattermost｜りんもん Sep 8, 2020 · # Mattermost これは言わずもなが、Slackクローンのオープンソースプロジェクトだ。 以前、VPSで立ち上げた。 VPSと言うことは有償であった。 オープンソース自体は無料なんだけれどね。 そこで、Synologyで立ち上げられれば完全に無償じゃん。",
+    "url": "https://note.com/rinmon/n/nfc4f6eeeff43",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermost へ Incoming Webhook で投稿する｜荒川 仁志 | Hitoshi Ar... Sep 8, 2022 · FileMaker や cron などから簡単に Mattermost へ投稿できるように、Mattermost で Incoming Webhook を有効にしてみた。",
+    "url": "https://note.com/hitoshiarakawa/n/nf6fee95dd2c5",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "MatterMostをSelf Hostするメモ｜ハカセ",
+    "url": "https://note.com/mega_gorilla/n/n91df2dafe721",
+    "pass": 3
+   },
+   {
+    "quote": "MatterMostをSelf Hostするメモ",
+    "url": "https://note.com/mega_gorilla/n/n91df2dafe721",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermostは、オープンソースのチャットおよびチームコラボレーションプラットフォームです。",
+    "url": "https://note.com/mega_gorilla/n/n91df2dafe721",
+    "pass": 3
+   },
+   {
+    "quote": "と同様にリアルタイムでのメッセージ交換やファイル共有、チャンネルを活用したコミュニケーション機能を提供します。",
+    "url": "https://note.com/mega_gorilla/n/n91df2dafe721",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermostの大きな特徴は自社サーバー上での",
+    "url": "https://note.com/mega_gorilla/n/n91df2dafe721",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、自宅サーバーにてMattermostを展開したのでそのセルフホストメモになります。",
+    "url": "https://note.com/mega_gorilla/n/n91df2dafe721",
+    "pass": 3
+   },
+   {
+    "quote": "OS: Ubuntu Server 64bit",
+    "url": "https://note.com/mega_gorilla/n/n91df2dafe721",
+    "pass": 3
+   },
+   {
+    "quote": "※ Raspberry pi等のARM系CPUの場合、MatterMost公式パッケージをビルドできないので注意してください！(ARM向けに修正済みの有志ライブラリをインストールする必要がある)",
+    "url": "https://note.com/mega_gorilla/n/n91df2dafe721",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermost 初期設定まとめ｜荒川 仁志 | Hitoshi Arakawa",
+    "url": "https://note.com/hitoshiarakawa/n/n3c422a6b3825",
+    "pass": 3
+   },
+   {
+    "quote": "荒川 仁志 | Hitoshi Arakawa",
+    "url": "https://note.com/hitoshiarakawa/n/n3c422a6b3825",
+    "pass": 3
+   },
+   {
+    "quote": "Ubuntu 22.04 に Mattermost をインストールしたことを書いた。",
+    "url": "https://note.com/hitoshiarakawa/n/n3c422a6b3825",
+    "pass": 3
+   },
+   {
+    "quote": "最初にやった初期設定や気付いたことなどをまとめてみよう。",
+    "url": "https://note.com/hitoshiarakawa/n/n3c422a6b3825",
+    "pass": 3
+   },
+   {
+    "quote": "環境：WebARENA Indigo Linux 1GB（Ubuntu 22.04）、iPad Pro 9.7”",
+    "url": "https://note.com/hitoshiarakawa/n/n3c422a6b3825",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermost on the App Store",
+    "url": "https://note.com/hitoshiarakawa/n/n3c422a6b3825",
+    "pass": 3
+   },
+   {
+    "quote": "https://apps.apple.com/us/app/mattermost/id1257222717?platform=ipad",
+    "url": "https://note.com/hitoshiarakawa/n/n3c422a6b3825",
+    "pass": 3
+   },
+   {
+    "quote": "ブラウザで Mattermost にアクセスした場合、[右上のギアアイコン＞Display＞Language] で [日本語] を選べば日本語になる。すぐに反映される（僕は英語のままで使っている）。",
+    "url": "https://note.com/hitoshiarakawa/n/n3c422a6b3825",
+    "pass": 3
+   },
+   {
+    "quote": "またまた、Synology NASでの挑戦！ Mattermost｜りんもん",
+    "url": "https://note.com/rinmon/n/nfc4f6eeeff43",
+    "pass": 3
+   },
+   {
+    "quote": "またまた、Synology NASでの挑戦！ Mattermost",
+    "url": "https://note.com/rinmon/n/nfc4f6eeeff43",
+    "pass": 3
+   },
+   {
+    "quote": "これは言わずもなが、Slackクローンのオープンソースプロジェクトだ。以前、VPSで立ち上げた。VPSと言うことは有償であった。オープンソース自体は無料なんだけれどね。",
+    "url": "https://note.com/rinmon/n/nfc4f6eeeff43",
+    "pass": 3
+   },
+   {
+    "quote": "そこで、Synologyで立ち上げられれば完全に無償じゃん。",
+    "url": "https://note.com/rinmon/n/nfc4f6eeeff43",
+    "pass": 3
+   },
+   {
+    "quote": "いつもの様に、SynologyのDockerで、程よいMattermostを探す。Mattermostには有料版と無償版があるので無償版で探します。",
+    "url": "https://note.com/rinmon/n/nfc4f6eeeff43",
+    "pass": 3
+   },
+   {
+    "quote": "「mattermost-preview」のlatestバージョンだ。インストールから立ち上げまでは簡単。例の如く、コントロールパネルのアプリケーションポータルでリバースプロキシの登録を忘れない様にね。プロキシと書くところを「プロシキ」と、どこかの国のスイーツと間違えそうになったという話はどうでも良いな。",
+    "url": "https://note.com/rinmon/n/nfc4f6eeeff43",
+    "pass": 3
+   },
+   {
+    "quote": "さて、登録して起動まではできたのだが、使い始めてしばらくすると、",
+    "url": "https://note.com/rinmon/n/nfc4f6eeeff43",
+    "pass": 3
+   },
+   {
+    "quote": "「Mattermostに接続できません。接続を確認してください。この状況がつづくようであれば、システム管理者にWebSocketポートを確認するように依頼してください。」",
+    "url": "https://note.com/rinmon/n/nfc4f6eeeff43",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermost へ Incoming Webhook で投稿する｜荒川 仁志 | Hitoshi Arakawa",
+    "url": "https://note.com/hitoshiarakawa/n/nf6fee95dd2c5",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermost へ Incoming Webhook で投稿する",
+    "url": "https://note.com/hitoshiarakawa/n/nf6fee95dd2c5",
+    "pass": 3
+   },
+   {
+    "quote": "荒川 仁志 | Hitoshi Arakawa",
+    "url": "https://note.com/hitoshiarakawa/n/nf6fee95dd2c5",
+    "pass": 3
+   },
+   {
+    "quote": "FileMaker や cron などから簡単に Mattermost へ投稿できるように、Mattermost で Incoming Webhook を有効にしてみた。",
+    "url": "https://note.com/hitoshiarakawa/n/nf6fee95dd2c5",
+    "pass": 3
+   },
+   {
+    "quote": "環境：WebARENA Indigo Linux 1GB（Ubuntu 22.04）、macOS Catalina Version 10.15.6（英語環境）",
+    "url": "https://note.com/hitoshiarakawa/n/nf6fee95dd2c5",
+    "pass": 3
+   },
+   {
+    "quote": "（１）[Mattermost の左上メニュー＞System Console＞INTEGRATIONS＞Integration Management＞Enable Incoming Webhooks] が true にする（デフォルトでなっていた）。",
+    "url": "https://note.com/hitoshiarakawa/n/nf6fee95dd2c5",
+    "pass": 3
+   },
+   {
+    "quote": "（２）[Mattermost の左上メニュー＞Integrations＞Incoming Webhooks] をクリック。",
+    "url": "https://note.com/hitoshiarakawa/n/nf6fee95dd2c5",
+    "pass": 3
+   },
+   {
+    "quote": "[Add Incoming Webhook] をクリックし、詳細を記入する。[Lock to this channel] にチェックを入れなければ、チャンネルを限定せずに Incoming Webhook を利用できる。",
+    "url": "https://note.com/hitoshiarakawa/n/nf6fee95dd2c5",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Mattermost (@Mattermost) / X Mattermost helps Z‑CERT turn everyday security conversations into sector‑wide resilience. In Dutch healthcare, the real barrier to effective incident response isn’t technology — it’s trust.",
+    "url": "https://x.com/mattermost",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermost on X: \"Mattermost v12 drops tomorrow, and it’s ... Mattermost v12 drops tomorrow, and it’s packed with upgrades that make secure collaboration even more powerful. From streamlined workflows to enhanced resilience features, v12 is built for the teams who can’t afford downtime.",
+    "url": "https://x.com/Mattermost/status/2112178202630123766",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermost on X: \"Same channel. Two separate workspaces. When ... With connected workspaces in Mattermost, your team and a partner organization can share a channel. Everyone sees the same live conversation, and each side keeps its own deployment, its own channels and its own governance.",
+    "url": "https://x.com/Mattermost/status/2112880329224581158",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermost on X: \"Mattermost is heading to Riga. We'll be at ... Mattermost is heading to Riga. We'll be at CyberChess 2026 in Latvia from 13–15 October, one of the Baltic region's most important cybersecurity gatherings, bringing together technical experts, policymakers, military representatives, and industry leaders from across Europe and NATO allied nations.",
+    "url": "https://x.com/Mattermost/status/2103024133164634508",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermost (@Mattermost) / X Join Corey Hulen, CEO of Mattermost Federal and co-founder of Mattermost, and retired Air Force C-17 pilot Nate Amidon for a 45-minute conversation about what the future",
+    "url": "https://x.com/mattermost",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Mattermost - LinkedIn Mattermost is a secure communication platform for defense, government and critical infrastructure enterprises, like utilities, communications, and financial services.",
+    "url": "https://www.linkedin.com/company/mattermost/",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermost - LinkedIn Mattermost is a secure communication platform for defense, government and critical infrastructure enterprises, like utilities, communications, and financial services.",
+    "url": "https://www.linkedin.com/products/mattermost",
+    "pass": 3
+   },
+   {
+    "quote": "Mohammed Zubair A. - Mattermost | LinkedInStaff Full Stack Engineer at Mattermost — Toronto, Ontario ...Joram Wilander - Engineering Director / Founding Developer at ...Abhijit Singh - Design at Mattermost | LinkedInChris Fowler - Greater Southampton Area | Professional ... Mattermost Superstars are trusted members who make a significant impact on the Mattermost open source community. They share t",
+    "url": "https://in.linkedin.com/in/md-zubairahmed",
+    "pass": 3
+   },
+   {
+    "quote": "Staff Full Stack Engineer at Mattermost — Toronto, Ontario ... Apply for Staff Full Stack Engineer at Mattermost in Toronto, Ontario, Canada. Full-time Mid-Senior level role. See responsibilities, qualifications, and similar jobs on LinkedIn.",
+    "url": "https://ca.linkedin.com/jobs/view/staff-full-stack-engineer-at-mattermost-4457273842",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Mattermost | Palo Alto CA - Facebook Nov 10, 2025 · In our latest Mattermost Mic, Bill Anderson shares the personal journey that led him from early fascination with cryptographic systems to leading innovation at Mattermost, where mission-critical collaboration meets uncompromising security.",
+    "url": "https://www.facebook.com/people/Mattermost/100068269412600/",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermost | Palo Alto CA - Facebook Mattermost, Palo Alto, California. 51,671 likes · 4 talking about this · 138 were here. Mattermost is a flexible, open source messaging platform that...",
+    "url": "https://www.facebook.com/p/Mattermost-100068269412600/",
+    "pass": 3
+   },
+   {
+    "quote": "Mattermost - Facebook Aug 24, 2018 · Mattermost. 860 likes. Mattermost is modern communication from behind your firewall",
+    "url": "https://www.facebook.com/MattermostHQ/",
+    "pass": 3
+   },
+   {
+    "quote": "What Is Mattermost? - Facebook Mattermost is an open-source messaging platform used for team collaboration and secure communications. It's often compared to Slack and is used by...",
+    "url": "https://www.facebook.com/fb-answers/mattermost-what-is-it/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://mattermost.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mattermost.com/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mattermost.com/solutions/industries/government-and-public-sector/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mattermost.com/solutions/industries/financial-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mattermost.com/solutions/industries/healthcare-and-life-sciences/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mattermost.com/solutions/industries/energy-and-utilities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mattermost.com/solutions/industries/technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mattermost.com/company/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mattermost.com/company/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mattermost.com/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mattermost.com/solutions/segments/national-security/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mattermost.com/solutions/segments/intelligence-community/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mattermost.com/solutions/segments/critical-infrastructure/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mattermost.com/solutions/segments/enterprise-risk-and-compliance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mattermost.com/solutions/segments/security-operations-center/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mattermost.com/solutions/use-cases/devsecops-collaboration/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mattermost.com/resources/discover/customer-stories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mattermost.com/resources/discover/customer-stories/lisa-consortium/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mattermost.com/company/leadership/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mattermost.com/company/responsible-disclosure/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://assets.mattermost.com/images/partners/hero-bg.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://assets.mattermost.com/images/partners/icons/system-integrators.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://assets.mattermost.com/images/partners/icons/resellers.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://assets.mattermost.com/images/partners/icons/deployment-partners.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.issoh.co.jp/tech/details/7454/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000178642.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://it.impress.co.jp/articles/-/29102",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exbridge.jp/ai-system/mattermost/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/mattermost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mattermost.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000178642.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000003.000178642.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mattermost.com/newsroom/press-releases/mattermost-expands-commitment-to-allied-defense-of-the-pacific-launches-mission-operations-for-microsoft-and-establishes-japan-subsidiary/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.mattermost.com/administration-guide/configure/enabling-chinese-japanese-korean-search",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mattermost.com/resources/discover/customer-stories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mattermost.com/resources/discover/customer-stories/fujitsu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/mattermost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/mattermost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://docs.mattermost.com/developers/contribute/more-info/mobile/build-your-own/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.salesforce.com/partners/become-a-partner/?bc=OTH",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/mattermost",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/mattermost",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/163070-65",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/mattermost/__mA-LyZGF_QeZzxcGwT0pypkgDzS5os4kYj0A4m_b4vc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/mega_gorilla/n/n91df2dafe721",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hitoshiarakawa/n/n3c422a6b3825",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/rinmon/n/nfc4f6eeeff43",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hitoshiarakawa/n/nf6fee95dd2c5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/mattermost",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Mattermost/status/2112178202630123766",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Mattermost/status/2112880329224581158",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Mattermost/status/2103024133164634508",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/mattermost/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/mattermost",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/md-zubairahmed",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/jobs/view/staff-full-stack-engineer-at-mattermost-4457273842",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/people/Mattermost/100068269412600/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Mattermost-100068269412600/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MattermostHQ/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fb-answers/mattermost-what-is-it/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mattermost",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Mattermost 日本 導入",
+   "results": [
+    "https://www.issoh.co.jp/tech/details/7454/",
+    "https://prtimes.jp/main/html/rd/p/000000003.000178642.html",
+    "https://it.impress.co.jp/articles/-/29102",
+    "https://exbridge.jp/ai-system/mattermost/",
+    "https://prtimes.jp/main/html/rd/p/000000005.000178642.html",
+    "https://qiita.com/caunu-s/items/8f6219333c8a82d30a63",
+    "https://kurage.exbridge.jp/oss/mattermost/",
+    "https://aslead.nri.co.jp/products/mattermost/column/how-to-use-mattermost.html",
+    "https://nagoya.dev/guides/mattermost-self-hosted-chat/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Mattermost 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://github.com/mattermost",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://mattermost.com/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.redhat.com/ja/explore/information/corporate-profile",
+    "https://www.jll.com/ja-jp/about-jll/japan-information",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mattermost Japan",
+   "results": [
+    "https://prtimes.jp/main/html/rd/p/000000001.000178642.html",
+    "https://prtimes.jp/main/html/rd/p/000000003.000178642.html",
+    "https://mattermost.com/newsroom/press-releases/mattermost-expands-commitment-to-allied-defense-of-the-pacific-launches-mission-operations-for-microsoft-and-establishes-japan-subsidiary/",
+    "https://docs.mattermost.com/administration-guide/configure/enabling-chinese-japanese-korean-search",
+    "https://mattermost.com/partners/",
+    "https://it.impress.co.jp/articles/-/29102",
+    "https://aslead.nri.co.jp/products/mattermost/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mattermost manufacturing customer case study",
+   "results": [
+    "https://mattermost.com/resources/discover/customer-stories/",
+    "https://mattermost.com/resources/discover/customer-stories/fujitsu/",
+    "https://www.casestudies.com/customer/mattermost",
+    "https://www.casestudies.com/company/mattermost",
+    "https://handbook.mattermost.com/operations/messaging-and-math/how-to-guides-for-m-and-m/how-to-write-mattermost-case-studies",
+    "https://handbook.mattermost.com/operations/customer-success",
+    "https://www.featuredcustomers.com/vendor/mattermost/case-studies"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mattermost white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://developers.mattermost.com/contribute/more-info/mobile/build-your-own/white-label/",
+    "https://partner.vw.com/partner",
+    "https://www.salesforce.com/partners/become-a-partner/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://www.extremenetworks.com/partners"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mattermost founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/mattermost",
+    "https://compworth.com/company/mattermost",
+    "https://pitchbook.com/profiles/company/163070-65",
+    "https://tracxn.com/d/companies/mattermost/__mA-LyZGF_QeZzxcGwT0pypkgDzS5os4kYj0A4m_b4vc",
+    "https://trends.vc/opportunities/companies/mattermost",
+    "https://rocketreach.co/mattermost-profile_b456aebffca0c428",
+    "https://parsers.vc/startup/mattermost.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Mattermost",
+   "results": [
+    "https://note.com/mega_gorilla/n/n91df2dafe721",
+    "https://note.com/hitoshiarakawa/n/n3c422a6b3825",
+    "https://note.com/rinmon/n/nfc4f6eeeff43",
+    "https://note.com/hitoshiarakawa/n/nf6fee95dd2c5",
+    "https://note.com/fujii_ritsuo/n/na0314d87fb2e",
+    "https://note.com/hitoshiarakawa/n/nfcb53a2cff3e",
+    "https://note.com/rinmon/n/n4836a9fe3245"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Mattermost",
+   "results": [
+    "https://x.com/mattermost",
+    "https://x.com/Mattermost/status/2112178202630123766",
+    "https://x.com/Mattermost/status/2112880329224581158",
+    "https://x.com/Mattermost/status/2103024133164634508",
+    "https://x.com/Mattermost/status/2115096187481260162",
+    "https://x.com/Mattermost/status/2104768137967333705",
+    "https://x.com/Mattermost/status/2041444620534706439"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Mattermost",
+   "results": [
+    "https://www.linkedin.com/company/mattermost/",
+    "https://www.linkedin.com/products/mattermost",
+    "https://in.linkedin.com/in/md-zubairahmed",
+    "https://ca.linkedin.com/jobs/view/staff-full-stack-engineer-at-mattermost-4457273842",
+    "https://ca.linkedin.com/in/joram-wilander-01a8983b",
+    "https://in.linkedin.com/in/abhijitsingh7",
+    "https://uk.linkedin.com/in/chris-fowler-17b2541"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Mattermost",
+   "results": [
+    "https://www.facebook.com/people/Mattermost/100068269412600/",
+    "https://www.facebook.com/p/Mattermost-100068269412600/",
+    "https://www.facebook.com/MattermostHQ/",
+    "https://www.facebook.com/fb-answers/mattermost-what-is-it/",
+    "https://www.facebook.com/p/Marks-Mattermost-61575279621735/",
+    "https://www.facebook.com/p/Beleive-Mattermost-100092247660900/",
+    "https://www.facebook.com/NamanModiDigital/videos/paying-slack-per-user-every-month-what-if-your-team-could-switch-to-a-slack-like/1972786213357661/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mattermost note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.ksw.co.jp/media/column/a139",
+    "https://mattermost.com/company/leadership/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://mattermost.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mattermost X 投稿",
+   "results": [
+    "https://x.com/mattermost",
+    "https://crowd.itpropartners.com/pieceblog/2741",
+    "https://qiita.com/maruTA-bis5/items/297db90f85d8ff94a119",
+    "https://aslead.nri.co.jp/products/mattermost/column/how-to-use-mattermost.html",
+    "https://ixmark.jp/media/1770/",
+    "https://qiita.com/free-honda/items/f7805597ec3ad0bb8f5f",
+    "https://docs.mattermost.com/integrations-guide/incoming-webhooks"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部41頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部41頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部41頁・検索12回）"
+ }
+}

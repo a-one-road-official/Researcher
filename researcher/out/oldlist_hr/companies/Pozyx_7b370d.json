@@ -1,0 +1,1591 @@
+{
+ "name": "Pozyx",
+ "aliases": [],
+ "context": "旧営業リスト｜Education / Childcare｜未接触",
+ "researched_at": "2026-11-11T13:15:12.804886+00:00",
+ "official_url": "https://pozyx.io/",
+ "identified_by": "given",
+ "profile": {
+  "連絡先": [
+   {
+    "label": "Email",
+    "value": "info@pozyx.io",
+    "url": "https://omlox.com/pozyx",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Track WIP, parts, and people across the production floor.",
+    "url": "https://www.pozyx.io/",
+    "pass": 1
+   },
+   {
+    "quote": "WIP status, dock activity, shipment progress. All tracked continuously, without scanning or manual updates.",
+    "url": "https://www.pozyx.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Triggers, alerts, and analytics turn location data into faster decisions and fewer surprises.",
+    "url": "https://www.pozyx.io/",
+    "pass": 1
+   },
+   {
+    "quote": "The assets and processes Pozyx customers track every day.",
+    "url": "https://www.pozyx.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Follow every part, order, and sub-assembly through production in real time. Know what stage each job is at without walking the floor or waiting on a scan.",
+    "url": "https://www.pozyx.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Loss & theft prevention",
+    "url": "https://www.pozyx.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Labor productivity insights",
+    "url": "https://www.pozyx.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Workforce time & attendace",
+    "url": "https://www.pozyx.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Match precision to what each asset actually needs, and what it is worth tracking.",
+    "url": "https://www.pozyx.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Precision in the zones that demand it, broad coverage everywhere else, all in a single deployment.",
+    "url": "https://www.pozyx.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Ultra-wideband (UWB) is radio technology. Same family as Bluetooth, far more precise.",
+    "url": "https://www.pozyx.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Order a Pozyx kit and go from unboxing to live tracking without waiting on a sales cycle. Industrial-grade hardware, the Pozyx Platform, and everything needed to prove the value for yourself.",
+    "url": "https://www.pozyx.io/",
+    "pass": 1
+   },
+   {
+    "quote": "\"By implementing the Pozyx Platform we finally have real-time visibility and insights over our manufacturing processes. This is something that every process engineer in manufacturing needs.\"",
+    "url": "https://www.pozyx.io/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We had a test system up and running very easily with the advertised 10 cm precision. We saw a 3% increase in our warehouse efficiency.\"",
+    "url": "https://www.pozyx.io/",
+    "pass": 1
+   },
+   {
+    "quote": "\"The Pozyx Real-TIme Location System offers us the tools to enhance productivity and safety within our factory.\"",
+    "url": "https://www.pozyx.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover Pozyx Platform v3.2 with faster performance, support for tens of thousands of trackables, improved analytics and easier integrations.",
+    "url": "https://www.pozyx.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how RTLS helps AGV and AMR fleets detect route deviations, prevent traffic conflicts, validate robot positioning, and improve facility-wide visibi",
+    "url": "https://www.pozyx.io/",
+    "pass": 1
+   },
+   {
+    "quote": "* Performance improvements are based on specific customer implementations and may vary by application.",
+    "url": "https://www.pozyx.io/solutions/industries/manufacturing-v2",
+    "pass": 1
+   },
+   {
+    "quote": "Attach tags to production orders so they travel through the shop floor with full traceability. Know cycle time at every workstation automatically.",
+    "url": "https://www.pozyx.io/solutions/industries/manufacturing-v2",
+    "pass": 1
+   },
+   {
+    "quote": "Wearable tags for workers, contractors, and visitors. Enforce access zones, enable emergency mustering, and audit labor allocation per production area.",
+    "url": "https://www.pozyx.io/solutions/industries/manufacturing-v2",
+    "pass": 1
+   },
+   {
+    "quote": "CNC machines, presses, welding stations, and heavy machinery. Know where equipment is, track utilization, and receive maintenance zone alerts.",
+    "url": "https://www.pozyx.io/solutions/industries/manufacturing-v2",
+    "pass": 1
+   },
+   {
+    "quote": "Give every operator a real-time map of your entire facility. Eliminate unproductive search time and keep production flowing without interruption.",
+    "url": "https://www.pozyx.io/solutions/industries/manufacturing-v2",
+    "pass": 1
+   },
+   {
+    "quote": "Replace manual scanning and paper-based processes with automatic location-triggered actions. Zero added burden on operators.",
+    "url": "https://www.pozyx.io/solutions/industries/manufacturing-v2",
+    "pass": 1
+   },
+   {
+    "quote": "Identify bottlenecks, idle time, and routing inefficiencies with precise cycle time data across every workstation in your facility.",
+    "url": "https://www.pozyx.io/solutions/industries/manufacturing-v2",
+    "pass": 1
+   },
+   {
+    "quote": "Achieve full automatic traceability of every production order, with a complete digital record of its journey through the factory.",
+    "url": "https://www.pozyx.io/solutions/industries/manufacturing-v2",
+    "pass": 1
+   },
+   {
+    "quote": "Labor cost per order for finance and pricing",
+    "url": "https://www.pozyx.io/solutions/industries/manufacturing-v2",
+    "pass": 1
+   },
+   {
+    "quote": "Enforce safety zones, detect proximity hazards, and enable instant emergency mustering with always-on personnel tracking.",
+    "url": "https://www.pozyx.io/solutions/industries/manufacturing-v2",
+    "pass": 1
+   },
+   {
+    "quote": "Forklift-pedestrian collision prevention",
+    "url": "https://www.pozyx.io/solutions/industries/manufacturing-v2",
+    "pass": 1
+   },
+   {
+    "quote": "Continuous improvement",
+    "url": "https://www.pozyx.io/solutions/industries/manufacturing-v2",
+    "pass": 1
+   },
+   {
+    "quote": "program fueled by RTLS data. Labor cost per order accurately calculated. Safety compliance fully automated.",
+    "url": "https://www.pozyx.io/solutions/industries/manufacturing-v2",
+    "pass": 1
+   },
+   {
+    "quote": "JIT inventory control for custom steel products",
+    "url": "https://www.pozyx.io/solutions/industries/manufacturing-v2",
+    "pass": 1
+   },
+   {
+    "quote": "ArcelorMittal's produces customized metal coils and sheet bundles for the food packaging industry under strict Just-In-Time delivery requirements. Managing an inventory of uniquely tailored products created persistent tracking and retrieval challenges that manual systems couldn't solve.",
+    "url": "https://www.pozyx.io/solutions/industries/manufacturing-v2",
+    "pass": 1
+   },
+   {
+    "quote": "Delivery compliance improved, strengthening customer relationships",
+    "url": "https://www.pozyx.io/solutions/industries/manufacturing-v2",
+    "pass": 1
+   },
+   {
+    "quote": "Labor cost per order delivered to finance for precise pricing decisions",
+    "url": "https://www.pozyx.io/solutions/industries/manufacturing-v2",
+    "pass": 1
+   },
+   {
+    "quote": "Salco's high-mix, low-volume production of tailor-made door solutions made it impossible to track work-in-progress, measure workstation cycle times, or control production costs. Production managers spent significant time on manual floor walks just to understand current state.",
+    "url": "https://www.pozyx.io/solutions/industries/manufacturing-v2",
+    "pass": 1
+   },
+   {
+    "quote": "Accurate Bill of Labor per product variant, previously impossible",
+    "url": "https://www.pozyx.io/solutions/industries/manufacturing-v2",
+    "pass": 1
+   },
+   {
+    "quote": "The gold standard for industrial tracking. Deploy in critical production areas, pick zones, and anywhere precise positioning drives real value.",
+    "url": "https://www.pozyx.io/solutions/industries/manufacturing-v2",
+    "pass": 1
+   },
+   {
+    "quote": "tools, WIP, kits, GSE, vehicles, personnel, government property, controlled assets, and work packages",
+    "url": "https://www.pozyx.io/solutions/industries/defense-and-aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "UWB precision for hangars, shops, tool rooms, and assembly zones",
+    "url": "https://www.pozyx.io/solutions/industries/defense-and-aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "* Performance improvements are based on specific customer implementations and may vary by application.",
+    "url": "https://www.pozyx.io/solutions/industries/defense-and-aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Locate engine stands, access platforms, docking systems, jigs, dollies, tow bars, GPUs, hydraulic carts, nitrogen carts, and other scarce support assets before they delay a work package or sortie prep.",
+    "url": "https://www.pozyx.io/solutions/industries/defense-and-aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Government Property & Customer-Owned Assets",
+    "url": "https://www.pozyx.io/solutions/industries/defense-and-aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Add live location context for GFP/GFE, special test equipment, customer-furnished kits, controlled assets, and serialized property so floor checks, audits, and program reviews do not depend on manual searches.",
+    "url": "https://www.pozyx.io/solutions/industries/defense-and-aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Track tow tractors, service vehicles, cargo dollies, containers, mobile power, mission equipment, ground carts, and outdoor staging assets across yards, aprons, depots, and hangar entrances.",
+    "url": "https://www.pozyx.io/solutions/industries/defense-and-aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Locate avionics test sets, NDI/NDT devices, RF testers, probes, metrology carts, calibration standards, inspection kits, and mobile lab assets. Know availability, last known location, and usage zone.",
+    "url": "https://www.pozyx.io/solutions/industries/defense-and-aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Precise indoor visibility where GPS cannot help",
+    "url": "https://www.pozyx.io/solutions/industries/defense-and-aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Track special tools, tool carts, calibrated instruments, and mobile kits to support pre-release checks, missing-tool searches, custody trails, and controlled-zone alerts.",
+    "url": "https://www.pozyx.io/solutions/industries/defense-and-aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Add live location context around government property, special tooling, serialized kits, customer-owned assets, and contract-specific materials without replacing ERP or quality systems.",
+    "url": "https://www.pozyx.io/solutions/industries/defense-and-aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Track tools, carts, gauges, fixtures, and special tooling across hangars, aircraft bays, tool rooms, and production cells.",
+    "url": "https://www.pozyx.io/solutions/industries/defense-and-aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Alert when tools leave approved zones",
+    "url": "https://www.pozyx.io/solutions/industries/defense-and-aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Support pre-release and zone-clearance workflows",
+    "url": "https://www.pozyx.io/solutions/industries/defense-and-aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Production, repair and depot visibility",
+    "url": "https://www.pozyx.io/solutions/industries/defense-and-aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Keep complex programs moving through the right zones.",
+    "url": "https://www.pozyx.io/solutions/industries/defense-and-aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Live WIP map by program, zone, and work center",
+    "url": "https://www.pozyx.io/solutions/industries/defense-and-aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Priority kit and part search for schedule recovery",
+    "url": "https://www.pozyx.io/solutions/industries/defense-and-aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Cycle-time evidence for program reviews",
+    "url": "https://www.pozyx.io/solutions/industries/defense-and-aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Heatmaps for congestion and staging improvements",
+    "url": "https://www.pozyx.io/solutions/industries/defense-and-aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Pozyx does not replace ERP, MES, QMS, or property systems, but it gives those processes a live location layer and movement history.",
+    "url": "https://www.pozyx.io/solutions/industries/defense-and-aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Movement trails for government property and controlled assets",
+    "url": "https://www.pozyx.io/solutions/industries/defense-and-aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Live maps and last-known locations help teams find tools, GSE, kits, and controlled assets faster during production, repair, and release workflows.",
+    "url": "https://www.pozyx.io/solutions/industries/defense-and-aerospace",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Pozyx | Industrial Location Tracking Solutions",
+    "url": "https://www.pozyx.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Pozyx delivers real-time location intelligence across your facilities, yards, and supply chain. From individual parts on the factory floor to shipments in motion.",
+    "url": "https://www.pozyx.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Live shop floor visibility",
+    "url": "https://www.pozyx.io/",
+    "pass": 1
+   },
+   {
+    "quote": "The highest-accuracy industrial positioning available today.",
+    "url": "https://www.pozyx.io/",
+    "pass": 1
+   },
+   {
+    "quote": "An Air Tag can tell you a bag is somewhere nearby. UWB can tell you exactly where a part is on a factory floor, down to 10 centimeters, updating many times per second. That is the difference between \"it is in the building somewhere\" and \"it is in station 4, bay 2.\"",
+    "url": "https://www.pozyx.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Pozyx is built on Omlox, the open industrial location standard, so the platform works with the hardware and systems you already have.",
+    "url": "https://www.pozyx.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Order a Pozyx kit and go from unboxing to live tracking without waiting on a sales cycle. Industrial-grade hardware, the Pozyx Platform, and everything needed to prove the value for yourself.",
+    "url": "https://www.pozyx.io/",
+    "pass": 1
+   },
+   {
+    "quote": "\"By implementing the Pozyx Platform we finally have real-time visibility and insights over our manufacturing processes. This is something that every process engineer in manufacturing needs.\"",
+    "url": "https://www.pozyx.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Salco Industrial Doors",
+    "url": "https://www.pozyx.io/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We had a test system up and running very easily with the advertised 10 cm precision. We saw a 3% increase in our warehouse efficiency.\"",
+    "url": "https://www.pozyx.io/",
+    "pass": 1
+   },
+   {
+    "quote": "\"The Pozyx Real-TIme Location System offers us the tools to enhance productivity and safety within our factory.\"",
+    "url": "https://www.pozyx.io/",
+    "pass": 1
+   },
+   {
+    "quote": "Heavy Truck Assembly Plant",
+    "url": "https://www.pozyx.io/",
+    "pass": 1
+   },
+   {
+    "quote": "RTLS for Manufacturing | Real-Time Asset Tracking | Pozyx",
+    "url": "https://www.pozyx.io/solutions/industries/manufacturing-v2",
+    "pass": 1
+   },
+   {
+    "quote": "Industry · Manufacturing",
+    "url": "https://www.pozyx.io/solutions/industries/manufacturing-v2",
+    "pass": 1
+   },
+   {
+    "quote": "Pozyx RTLS gives manufacturers",
+    "url": "https://www.pozyx.io/solutions/industries/manufacturing-v2",
+    "pass": 1
+   },
+   {
+    "quote": "of every asset, tool, vehicle, and work order across indoor and outdoor environments, turning factory floor complexity into operational clarity.",
+    "url": "https://www.pozyx.io/solutions/industries/manufacturing-v2",
+    "pass": 1
+   },
+   {
+    "quote": "Identified manufacturing use cases",
+    "url": "https://www.pozyx.io/solutions/industries/manufacturing-v2",
+    "pass": 1
+   },
+   {
+    "quote": "Attach tags to production orders so they travel through the shop floor with full traceability. Know cycle time at every workstation automatically.",
+    "url": "https://www.pozyx.io/solutions/industries/manufacturing-v2",
+    "pass": 1
+   },
+   {
+    "quote": "Powered industrial vehicles, autonomous guided vehicles, tuggers, and pallet jacks. Track routes, enforce speed zones, and log travel times per area.",
+    "url": "https://www.pozyx.io/solutions/industries/manufacturing-v2",
+    "pass": 1
+   },
+   {
+    "quote": "Every manufacturing challenge with location at its core maps to one of five value-creating categories identified across Pozyx's global deployments.",
+    "url": "https://www.pozyx.io/solutions/industries/manufacturing-v2",
+    "pass": 1
+   },
+   {
+    "quote": "Mobile/Tablet app access for floor operators",
+    "url": "https://www.pozyx.io/solutions/industries/manufacturing-v2",
+    "pass": 1
+   },
+   {
+    "quote": "Replace manual scanning and paper-based processes with automatic location-triggered actions. Zero added burden on operators.",
+    "url": "https://www.pozyx.io/solutions/industries/manufacturing-v2",
+    "pass": 1
+   },
+   {
+    "quote": "Achieve full automatic traceability of every production order, with a complete digital record of its journey through the factory.",
+    "url": "https://www.pozyx.io/solutions/industries/manufacturing-v2",
+    "pass": 1
+   },
+   {
+    "quote": "Operators spend up to 30% of their shift searching for tools and materials. Pozyx cuts that to seconds with live location lookup.",
+    "url": "https://www.pozyx.io/solutions/industries/manufacturing-v2",
+    "pass": 1
+   },
+   {
+    "quote": "One customer raised warehouse efficiency by 3% with Pozyx RTLS, a significant margin in high-volume operations where 1% has major P&L impact.",
+    "url": "https://www.pozyx.io/solutions/industries/manufacturing-v2",
+    "pass": 1
+   },
+   {
+    "quote": "Shop Floor Traceability",
+    "url": "https://www.pozyx.io/solutions/industries/manufacturing-v2",
+    "pass": 1
+   },
+   {
+    "quote": "Full automatic traceability of every order, every workstation, every minute, with zero added scanning steps for operators.",
+    "url": "https://www.pozyx.io/solutions/industries/manufacturing-v2",
+    "pass": 1
+   },
+   {
+    "quote": "Global manufacturers across sectors rely on Pozyx RTLS to make their operations faster, safer, and more data-driven.",
+    "url": "https://www.pozyx.io/solutions/industries/manufacturing-v2",
+    "pass": 1
+   },
+   {
+    "quote": "Shop floor visibility for job-shop door manufacturing",
+    "url": "https://www.pozyx.io/solutions/industries/manufacturing-v2",
+    "pass": 1
+   },
+   {
+    "quote": "Anchors covering two full buildings, with full shop floor visibility",
+    "url": "https://www.pozyx.io/solutions/industries/manufacturing-v2",
+    "pass": 1
+   },
+   {
+    "quote": "The gold standard for industrial tracking. Deploy in critical production areas, pick zones, and anywhere precise positioning drives real value.",
+    "url": "https://www.pozyx.io/solutions/industries/manufacturing-v2",
+    "pass": 1
+   },
+   {
+    "quote": "Defence and aerospace",
+    "url": "https://www.pozyx.io/solutions/industries/defense-and-aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Industry · Defense & Aerospace",
+    "url": "https://www.pozyx.io/solutions/industries/defense-and-aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "for Defense & Aerospace",
+    "url": "https://www.pozyx.io/solutions/industries/defense-and-aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Pozyx RTLS helps DoD suppliers, aerospace OEMs, MRO depots, and secure industrial sites see the live location and movement of",
+    "url": "https://www.pozyx.io/solutions/industries/defense-and-aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Identified manufacturing use cases",
+    "url": "https://www.pozyx.io/solutions/industries/defense-and-aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Defense and aerospace operations depend on scarce tools, controlled assets, serialized parts, GSE, people, and secure zones. Pozyx adds live location context where manual logs, badge events, and barcode scans leave blind spots.",
+    "url": "https://www.pozyx.io/solutions/industries/defense-and-aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Technicians, Inspectors, Contractors & Visitors",
+    "url": "https://www.pozyx.io/solutions/industries/defense-and-aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "in Defense & Aerospace",
+    "url": "https://www.pozyx.io/solutions/industries/defense-and-aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Defense and aerospace sites do not just need asset tracking. They need a location layer that can support tool control, secure workflows, supplier accountability, and readiness across complex indoor and outdoor facilities.",
+    "url": "https://www.pozyx.io/solutions/industries/defense-and-aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Use UWB inside hangars, depots, labs, shops, warehouses, and aircraft bays where GPS is unavailable and BLE or Wi-Fi is too coarse for critical workflows.",
+    "url": "https://www.pozyx.io/solutions/industries/defense-and-aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "The strongest defense and aerospace RTLS business cases combine immediate search value with longer-term traceability, safety, and operations intelligence.",
+    "url": "https://www.pozyx.io/solutions/industries/defense-and-aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce delays caused by missing ground support and mobile resources.",
+    "url": "https://www.pozyx.io/solutions/industries/defense-and-aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "for suppliers, depots, and aerospace operations",
+    "url": "https://www.pozyx.io/solutions/industries/defense-and-aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Extend to more tools, kits, vehicles, GSE, yards, warehouses, depots, production cells, and supplier flows.",
+    "url": "https://www.pozyx.io/solutions/industries/defense-and-aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Defense and aerospace pain points Pozyx turns",
+    "url": "https://www.pozyx.io/solutions/industries/defense-and-aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Pozyx combines UWB, BLE, GPS, geofencing, digital twin configuration, dashboards, analytics, alerts, and integrations so defense and aerospace teams can match the right tracking precision to the operational risk.",
+    "url": "https://www.pozyx.io/solutions/industries/defense-and-aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Use BLE for cost-effective presence tracking in stores, staging areas, container zones, warehouses, lower-risk assets, and large covered areas.",
+    "url": "https://www.pozyx.io/solutions/industries/defense-and-aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse & Logistics RTLS: Forklifts to Shipments | Pozyx",
+    "url": "https://www.pozyx.io/solutions/industries/warehousing-and-logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Pozyx RTLS helps warehouses, distribution centers, and 3PLs",
+    "url": "https://www.pozyx.io/solutions/industries/warehousing-and-logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Manage pools of totes, carts, cages, KLTs, RPCs, dollies, pallets, and customer-owned carriers moving between warehouses, stores, suppliers, and customers. Recover strays and reduce dwell.",
+    "url": "https://www.pozyx.io/solutions/industries/warehousing-and-logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Wearable tags for warehouse associates, contractors, drivers, and visitors. Enable emergency mustering, audit labor allocation by zone, and enforce access restrictions.",
+    "url": "https://www.pozyx.io/solutions/industries/warehousing-and-logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouses already have systems of record. Pozyx adds the missing real-world location layer that shows where assets actually are and how work actually moves.",
+    "url": "https://www.pozyx.io/solutions/industries/warehousing-and-logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Give operators and supervisors a live map of the warehouse so exception inventory, high-value goods, and shared equipment can be found in seconds.",
+    "url": "https://www.pozyx.io/solutions/industries/warehousing-and-logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse teams lose hours each shift searching for pallets, cages, and shared equipment. Pozyx cuts that to seconds with live location lookup.",
+    "url": "https://www.pozyx.io/solutions/industries/warehousing-and-logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse efficiency tracking for cold-chain operations",
+    "url": "https://www.pozyx.io/solutions/industries/warehousing-and-logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Overall warehouse efficiency gain — a significant margin at high throughput volumes",
+    "url": "https://www.pozyx.io/solutions/industries/warehousing-and-logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Wearable tags for operators, technicians, quality staff, contractors, and visitors. Enforce cleanroom access and gowning zones, enable emergency mustering, and audit personnel presence by area for GMP compliance.",
+    "url": "https://www.pozyx.io/solutions/industries/regulated-industries",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce manual documentation burden on operators",
+    "url": "https://www.pozyx.io/solutions/industries/regulated-industries",
+    "pass": 1
+   },
+   {
+    "quote": "Pharmaceutical, medical device, and food manufacturing companies rely on Pozyx RTLS to improve traceability, support compliance, and reduce the manual burden of regulated workflows.",
+    "url": "https://www.pozyx.io/solutions/industries/regulated-industries",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Pozyx combines three complementary positioning technologies in a single platform, so you get the right accuracy and coverage in every part of your facility.",
+    "url": "https://www.pozyx.io/solutions/industries/manufacturing-v2",
+    "pass": 1
+   },
+   {
+    "quote": "Track pallet IDs, load carriers, LPNs, case groups, and inventory lots through receiving, putaway, replenishment, picking, packing, cross-dock, returns, and exception handling without repeated manual scans.",
+    "url": "https://www.pozyx.io/solutions/industries/warehousing-and-logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Manage pools of totes, carts, cages, KLTs, RPCs, dollies, pallets, and customer-owned carriers moving between warehouses, stores, suppliers, and customers. Recover strays and reduce dwell.",
+    "url": "https://www.pozyx.io/solutions/industries/warehousing-and-logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Auto-detect arrival, staging, drop-off, and zone exit",
+    "url": "https://www.pozyx.io/solutions/industries/warehousing-and-logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Customer and carrier dispute support",
+    "url": "https://www.pozyx.io/solutions/industries/warehousing-and-logistics",
+    "pass": 1
+   },
+   {
+    "quote": "Track inbound trucks, waiting trailers, unloading bays, crane slots, laydown queues, road closures, and delivery handoffs so material arrival lines up with crew and equipment availability.",
+    "url": "https://www.pozyx.io/solutions/industries/construction",
+    "pass": 1
+   },
+   {
+    "quote": "Materials arrive early, move often, and become hard to find",
+    "url": "https://www.pozyx.io/solutions/industries/construction",
+    "pass": 1
+   },
+   {
+    "quote": "What our employees are saying",
+    "url": "https://www.pozyx.io/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "“I couldn't have asked for a better first work experience here at Pozyx. From day one, I felt involved working on a RTLS solution I believe in. My colleagues were always open to answer questions and the positive atmosphere makes up for a truly stimulating work environment. Glad to be part of the team!“",
+    "url": "https://www.pozyx.io/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "A tag is physically attached to something that is moving and is an important part of the process. The most important moving things in the process are:",
+    "url": "https://www.pozyx.io/case-studies/salco-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "In consideration of EU and Dutch privacy laws, special consideration was taken on the tracking of the operators in relation to the protection of personal data of employees. More specifically GDPR – General Data Protection Regulation EU 2016/679 and the implementation of this in the Netherlands (Uitvoeringswet Algemene verordening gegevensbescherming).",
+    "url": "https://www.pozyx.io/case-studies/salco-case-study",
+    "pass": 1
+   },
+   {
+    "quote": ". These operator tags are all available at the beginning of the work shift, and any operator can pick any tag to carry around during work hours. They can even change tags during work hours. Tracking only happens within the relevant working areas of the building.",
+    "url": "https://www.pozyx.io/case-studies/salco-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Bonduelle, a key player in the production of processed vegetables, was looking for a way to increase its warehouse efficiency. Since employees perform countless operations per day, mistakes are both time-consuming and costly. The Pozyx",
+    "url": "https://www.pozyx.io/case-studies/bonduelle-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Stop wasting man-hours searching for pallets, machines, tools or products. Full real-time yard management to improve your operational efficiency. A strong inventory control tool, part of the EWM (extended warehouse management) system for utmost inventory performance.",
+    "url": "https://www.pozyx.io/solutions/industry-4-0",
+    "pass": 1
+   },
+   {
+    "quote": "“AFL chose the Pozyx RTLS system to track orders during all stages of production. The optimization of expedite orders is of key importance to meet customer expectations, deliver on time, and drive additional revenue.",
+    "url": "https://www.pozyx.io/solutions/industry-4-0/wip-and-material-flow",
+    "pass": 1
+   },
+   {
+    "quote": "The world’s most innovative companies rely on Pozyx to bring centimeter-level accuracy to industrial operations. Now, you can be part of that success story.",
+    "url": "https://www.pozyx.io/register",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you’re a system integrator, distributor, consultant, or technology provider, the Pozyx Partner Program gives you everything you need to expand your business, add new revenue streams, and deliver cutting-edge real-time location solutions to your clients.",
+    "url": "https://www.pozyx.io/register",
+    "pass": 1
+   },
+   {
+    "quote": "creates recurring revenue for partners through license renewals, analytics add-ons, and maintenance plans.",
+    "url": "https://www.pozyx.io/register",
+    "pass": 1
+   },
+   {
+    "quote": "Work with our R&D and product teams to build joint solutions. You bring domain expertise — we bring the positioning power. Together, you unlock new markets and revenue models.",
+    "url": "https://www.pozyx.io/register",
+    "pass": 1
+   },
+   {
+    "quote": "弊社「UNIPOS」にて取り扱いがございます",
+    "url": "https://www.tegara-support.com/case-example/2023/05/3106/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.unipos.net/find/product_item.php?id=3184",
+    "url": "https://www.tegara-support.com/case-example/2023/05/3106/",
+    "pass": 3
+   },
+   {
+    "quote": "室内用の高精度位置測定デバイス「Pozyx Creator System」リニューアルのお知らせ | UNIPOS(ユニポス) | 海外ソフト ハードの製品調達・コンサルテーションサービス",
+    "url": "https://www.unipos.net/info/pozyx_creator_one/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.unipos.net/2021/10/pozyx_info/",
+    "url": "https://www.unipos.net/info/pozyx_creator_one/",
+    "pass": 3
+   },
+   {
+    "quote": "Pozyx ※日本への出荷・販売を見合わせております(2023年1月現在) | 室内用 高精度 位置測定 デバイス | 海外ハードウェアの購入ならUNIPOS(ユニポス)",
+    "url": "https://www.unipos.net/products/pozyx-japan-info/",
+    "pass": 3
+   },
+   {
+    "quote": "Arrow 100+ Submeter GNSS Receiver",
+    "url": "https://www.unipos.net/products/pozyx-japan-info/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Pozyx RTLS helps DoD suppliers, aerospace OEMs, MRO depots, and secure industrial sites see the live location and movement of",
+    "url": "https://www.pozyx.io/solutions/industries/defense-and-aerospace",
+    "pass": 1
+   },
+   {
+    "quote": "Pozyx is a global player with offices in Europe and the Americas and guarantees a worldwide presence and expertise with its experienced partner eco-system. Pozyx also works as an independent design house (IDH) helping OEM clients to bring custom-made UWB products to market.",
+    "url": "https://www.pozyx.io/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Value-Added Resellers",
+    "url": "https://www.pozyx.io/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Losing track of reusable packaging and containers means losing time and money. Reusable packaging, pallets and racks travel between production, OEMs, customers and suppliers. Even though they are labeled as returnable, packaging easily gets lost and large amounts of money go to waste.",
+    "url": "https://www.pozyx.io/solutions/industry-4-0",
+    "pass": 1
+   },
+   {
+    "quote": "Pozyx Partner Program | Grow with Industry-Leading RTLS",
+    "url": "https://www.pozyx.io/register",
+    "pass": 1
+   },
+   {
+    "quote": "Pozyx Partner Program",
+    "url": "https://www.pozyx.io/register",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you’re a system integrator, distributor, consultant, or technology provider, the Pozyx Partner Program gives you everything you need to expand your business, add new revenue streams, and deliver cutting-edge real-time location solutions to your clients.",
+    "url": "https://www.pozyx.io/register",
+    "pass": 1
+   },
+   {
+    "quote": "Earn attractive reseller margins on",
+    "url": "https://www.pozyx.io/register",
+    "pass": 1
+   },
+   {
+    "quote": "OEM およびホワイトラベルのフルフィルメント",
+    "url": "https://www.minew.com/ja/partners/pozyx/",
+    "pass": 3
+   },
+   {
+    "quote": "に設立 2007, Minew (ストックコード: 920374) は、ワイヤレス技術の革新者であり、IoT デバイスの大手メーカーです. Bluetoothに重点を置いています, LoRaWAN, 携帯電話 (LTE / NB-IoT / 4G / 5G), Wi-Fi, UWB, GPS/GNSS, 衛星通信技術, エンドツーエンドの OEM の提供, ODM, Bluetooth ビーコン用の JDM サービス, アセットトラッカー, 人事タグ, 産業センサー, IoTゲートウェイ, および FindMy 互換タグ.",
+    "url": "https://www.minew.com/ja/partners/pozyx/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM clients delivering reliable",
+    "url": "https://www.hannovermesse.de/apollo/hannover_messe_2022/obs/Binary/A1161340/Pozyx%20Leaflet%20May22.pdf",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "If you are as passionate about electronics, programming, positioning, automation and robotics as we are, please apply to our job openings below, or contact us directly at",
+    "url": "https://www.pozyx.io/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Couldn't find what your were looking for? We are always welcoming new talent. Contact us and let us know what you can offer Pozyx.",
+    "url": "https://www.pozyx.io/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The must-attend industrial transformation hotspot and yearly meeting place for Industrial players. Contact us for a free ticket.",
+    "url": "https://www.pozyx.io/company/events",
+    "pass": 1
+   },
+   {
+    "quote": "FOR ENTERPRISE ROLLOUTS, contact us directly for volume discount pricing at sales@pozyx.io",
+    "url": "https://mypozyx.myshopify.com/?srsltid=AYCX9vJ8KLA_Fn67Tt23DCMnAkofmDgqcx89gc6P07TlJcsTdXPZlZi2",
+    "pass": 3
+   },
+   {
+    "quote": "info@pozyx.io sales@pozyx.io support@pozyx.io",
+    "url": "https://www.hannovermesse.de/apollo/hannover_messe_2022/obs/Binary/A1161340/Pozyx%20Leaflet%20May22.pdf",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "日本も含め世界にはさまざまな製品が存在しており、ご紹介できるのはほんの一握りではありますが、ご参考になりますと幸いです",
+    "url": "https://www.tegakari.net/2022/12/pozyx-accurate-tracking/",
+    "pass": 3
+   },
+   {
+    "quote": "東京オリンピックでの正式種目化を機に、さらに精度の高いパフォーマンスや戦略的な演技構成を実現するため、トップアスリートや指導者の間で動作解析やデータ活用に注目が集まりました",
+    "url": "https://www.tegakari.net/2022/12/pozyx-accurate-tracking/",
+    "pass": 3
+   },
+   {
+    "quote": "日本では近年の法改正によりUWBの活用シーンが大きく広がり、自動車のスマートキー、盗難/忘れ物防止タグなど身近な製品にも取り入れられるようになりました",
+    "url": "https://www.tegakari.net/2022/12/pozyx-accurate-tracking/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内では電波法の定めによりPozyxの利用は屋内に限定されます",
+    "url": "https://www.tegakari.net/2022/12/pozyx-accurate-tracking/",
+    "pass": 3
+   },
+   {
+    "quote": "EnterpriseおよびCreator製品についてはJapanese certification(技術基準適合証明等)の取得ができていないため、日本への出荷・販売を見合わせております(2023年1月現在)",
+    "url": "https://www.tegakari.net/2022/12/pozyx-accurate-tracking/",
+    "pass": 3
+   },
+   {
+    "quote": "室内用の高精度位置測定デバイス「Pozyx Creator ONE」の導入時サポート – テガラ株式会社 サポートサイト",
+    "url": "https://www.tegara-support.com/case-example/2023/05/3106/",
+    "pass": 3
+   },
+   {
+    "quote": "EnterpriseおよびCreator製品についてはJapanese certification(技術基準適合証明等)の取得ができていないため、日本への出荷・販売を見合わせております(2023年1月現在)",
+    "url": "https://www.unipos.net/info/pozyx_creator_one/",
+    "pass": 3
+   },
+   {
+    "quote": "Q : UWBチャネル1-7だけでなく、日本向けに8-15のハイバンドも使えるよう設定変更することは可能ですか？",
+    "url": "https://www.tegakari.net/2021/10/pozyx_info/",
+    "pass": 3
+   },
+   {
+    "quote": "当時多くのバッカ―からの支持を集めたこの Pozyx に興味を持たれた日本国内の研究開発者さま向けに、ユニポスではその翌年 2016年より、Pozyx の取り扱いを開始しております",
+    "url": "https://www.tegakari.net/2021/10/pozyx_info/",
+    "pass": 3
+   },
+   {
+    "quote": "テガラ株式会社 (弊社) は、「研究開発を加速するお手伝い」という企業理念のもと、日々研究開発に携わるユーザー様に役立つ製品やサービス、情報提供を行っております",
+    "url": "https://www.tegakari.net/2021/10/pozyx_info/",
+    "pass": 3
+   },
+   {
+    "quote": "Pozyx ※日本への出荷・販売を見合わせております(2023年1月現在) | 室内用 高精度 位置測定 デバイス | 海外ハードウェアの購入ならUNIPOS(ユニポス)",
+    "url": "https://www.unipos.net/products/pozyx-japan-info/",
+    "pass": 3
+   },
+   {
+    "quote": "Pozyx ※日本への出荷・販売を見合わせております(2023年1月現在)",
+    "url": "https://www.unipos.net/products/pozyx-japan-info/",
+    "pass": 3
+   },
+   {
+    "quote": "Pozyx ※日本への出荷・販売を見合わせております(2023年1月現在)の製品概要",
+    "url": "https://www.unipos.net/products/pozyx-japan-info/",
+    "pass": 3
+   },
+   {
+    "quote": "EnterpriseおよびCreator製品についてはJapanese certification(技術基準適合証明等)の取得ができていないため、日本への出荷・販売を見合わせております(2023年1月現在)",
+    "url": "https://www.unipos.net/products/pozyx-japan-info/",
+    "pass": 3
+   },
+   {
+    "quote": "こちらの製品は無線を利用しますが日本でも問題なく利用できますか?(技適マークはついていますか?)",
+    "url": "https://www.unipos.net/products/pozyx-japan-info/",
+    "pass": 3
+   },
+   {
+    "quote": "ユニポスはPozyx ※日本への出荷・販売を見合わせております(2023年1月現在)の調達販売を行い、海外製品調達に関するお困りごとを解決するサービスです",
+    "url": "https://www.unipos.net/products/pozyx-japan-info/",
+    "pass": 3
+   },
+   {
+    "quote": "Pozyx ※日本への出荷・販売を見合わせております(2023年1月現在)に",
+    "url": "https://www.unipos.net/products/pozyx-japan-info/",
+    "pass": 3
+   },
+   {
+    "quote": "Pozyx ※日本への出荷・販売を見合わせております(2023年1月現在)と",
+    "url": "https://www.unipos.net/products/pozyx-japan-info/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "【事例紹介】「 Pozyx 」の位置測定がアスリートの技能向上に ... — 【事例紹介】「 Pozyx 」の位置測定がアスリートの技能向上に ... TEGAKARI https://www.tegakari.net > センサー技術",
+    "url": "https://www.tegakari.net/2022/12/pozyx-accurate-tracking/",
+    "pass": 3
+   },
+   {
+    "quote": "室内用の高精度位置測定デバイス「 Pozyx Creator ONE」の ... — 室内用の高精度位置測定デバイス「 Pozyx Creator ONE」の ... tegara-support.com https://www.tegara-support.com > case-example > 2023/05",
+    "url": "https://www.tegara-support.com/case-example/2023/05/3106/",
+    "pass": 3
+   },
+   {
+    "quote": "室内用の高精度位置測定デバイス「 Pozyx Creator System ... — 室内用の高精度位置測定デバイス「 Pozyx Creator System ... unipos.net https://www.unipos.net > 最新バージョン リリース情報",
+    "url": "https://www.unipos.net/info/pozyx_creator_one/",
+    "pass": 3
+   },
+   {
+    "quote": "ポジックス & Minew — ポジックス & Minew Minew https://www.minew.com > Partners > Pozyx",
+    "url": "https://www.minew.com/ja/partners/pozyx/",
+    "pass": 3
+   },
+   {
+    "quote": "Pozyx2GAD - OXTS — Pozyx2GAD - OXTS OXTS https://www.oxts.com > navigation-hardware > pozyx2gad",
+    "url": "https://www.oxts.com/ja/solutions/inertial-navigation-solutions/navigation-hardware/pozyx2gad/",
+    "pass": 3
+   },
+   {
+    "quote": "室内用の高精度位置測定デバイス「 Pozyx 」のご紹介 — 室内用の高精度位置測定デバイス「 Pozyx 」のご紹介 TEGAKARI https://www.tegakari.net > センサー技術",
+    "url": "https://www.tegakari.net/2021/10/pozyx_info/",
+    "pass": 3
+   },
+   {
+    "quote": "Pozyx ※ 日本 への出荷・販売を見合わせております(2023年1 ... — Pozyx ※ 日本 への出荷・販売を見合わせております(2023年1 ... unipos.net https://www.unipos.net > 製品 > 通信・ネットワーク機器",
+    "url": "https://www.unipos.net/products/pozyx-japan-info/",
+    "pass": 3
+   },
+   {
+    "quote": "Pozyx — Pozyx mypozyx.myshopify.com https://mypozyx.myshopify.com",
+    "url": "https://mypozyx.myshopify.com/?srsltid=AYCX9vJ8KLA_Fn67Tt23DCMnAkofmDgqcx89gc6P07TlJcsTdXPZlZi2",
+    "pass": 3
+   },
+   {
+    "quote": "Covered Countries - Pozyx — Covered Countries - Pozyx Pozyx https://www.pozyx.io > products > co...",
+    "url": "https://www.pozyx.io/products/covered-countries",
+    "pass": 3
+   },
+   {
+    "quote": "RTLS Case Studies - Pozyx — RTLS Case Studies - Pozyx Pozyx https://www.pozyx.io > case-studies",
+    "url": "https://www.pozyx.io/technology/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Real-time shopfloor visibility through indoor positioning - Pozyx — Real-time shopfloor visibility through indoor positioning - Pozyx Pozyx https://www.pozyx.io > case-studies",
+    "url": "https://www.pozyx.io/case-studies/salco-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "POZYX & RTLS - HANNOVER MESSE — POZYX & RTLS - HANNOVER MESSE HANNOVER MESSE PDF https://www.hannovermesse.de > obs > Binary > Poz...",
+    "url": "https://www.hannovermesse.de/apollo/hannover_messe_2022/obs/Binary/A1161340/Pozyx%20Leaflet%20May22.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Pozyx's Post - LinkedIn — Pozyx's Post - LinkedIn LinkedIn https://www.linkedin.com > posts > p...",
+    "url": "https://www.linkedin.com/posts/pozyx_assettracking-iot-rtls-activity-7434552686722818048-VqCT",
+    "pass": 3
+   },
+   {
+    "quote": "Pozyx Partner Program | Grow with Industry-Leading RTLS — Pozyx Partner Program | Grow with Industry-Leading RTLS Pozyx https://www.pozyx.io > register",
+    "url": "https://www.pozyx.io/register",
+    "pass": 3
+   },
+   {
+    "quote": "Pozyx Smart Label Tracking Solution - YouTube — Pozyx Smart Label Tracking Solution - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=04yjUNBYg-I",
+    "pass": 3
+   },
+   {
+    "quote": "Top Pozyx Enterprise RTLS Alternatives & Competitors 2026 — Top Pozyx Enterprise RTLS Alternatives & Competitors 2026 Gartner https://www.gartner.com > alternatives",
+    "url": "https://www.gartner.com/reviews/product/pozyx-enterprise-rtls/alternatives",
+    "pass": 3
+   },
+   {
+    "quote": "Pozyx - Pioneer in UWB Development - Omlox — Pozyx - Pioneer in UWB Development - Omlox Omlox https://omlox.com > pozyx",
+    "url": "https://omlox.com/pozyx",
+    "pass": 3
+   },
+   {
+    "quote": "Pozyx — vendor profile - Atlas by Verdantix — Pozyx — vendor profile - Atlas by Verdantix Verdantix https://atlas.verdantix.com > pozyx",
+    "url": "https://atlas.verdantix.com/vendors/pozyx",
+    "pass": 3
+   },
+   {
+    "quote": "Pozyx 2026 Company Profile: Valuation, Funding & Investors — Pozyx 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/133026-76",
+    "pass": 3
+   },
+   {
+    "quote": "2026 Funding Rounds & List of Investors - Pozyx - Tracxn — 2026 Funding Rounds & List of Investors - Pozyx - Tracxn Tracxn https://tracxn.com > ... > Pozyx",
+    "url": "https://tracxn.com/d/companies/pozyx/__ljqTJctcP4RFysYo77b7zYnjvJdEpmb9H9N8_-DYHNA/funding-and-investors",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Pozyx laboratories (@pozyxLabs) / X Pozyx is a provider of indoor positioning solutions with centimeter accuracy using UWB technology.",
+    "url": "https://x.com/pozyxlabs",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Pozyx - LinkedIn Pozyx - LinkedIn LinkedIn https://www.linkedin.com > pozyx",
+    "url": "https://www.linkedin.com/company/pozyx",
+    "pass": 3
+   },
+   {
+    "quote": "Pozyx Platform - LinkedIn Pozyx Platform - LinkedIn LinkedIn https://www.linkedin.com > products",
+    "url": "https://www.linkedin.com/products/pozyx-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Yves van Gool - Executive VP Sales & Marketing at Pozyx Yves van Gool - Executive VP Sales & Marketing at Pozyx LinkedIn https://nl.linkedin.com > yvesvangool",
+    "url": "https://nl.linkedin.com/in/yvesvangool",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Pozyx positioning - Facebook Pozyx positioning - Facebook Facebook https://www.facebook.com > ... > Brand > Electronics",
+    "url": "https://www.facebook.com/pozyx/",
+    "pass": 3
+   },
+   {
+    "quote": "New Case Study: ArcelorMittal x... - Pozyx positioning New Case Study: ArcelorMittal x... - Pozyx positioning Facebook https://www.facebook.com > pozyx > photos",
+    "url": "https://www.facebook.com/pozyx/photos/1240937288044615/",
+    "pass": 3
+   },
+   {
+    "quote": "Proud to be part of the Wireless Community here in Belgium ... Proud to be part of the Wireless Community here in Belgium ... Facebook https://www.facebook.com > pozyx > posts > proud-to-be...",
+    "url": "https://www.facebook.com/pozyx/posts/proud-to-be-part-of-the-wireless-community-here-in-belgium-we-sometimes-forget-j/1606540454817628/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.pozyx.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pozyx.io/solutions/industries/manufacturing-v2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pozyx.io/solutions/industries/defense-and-aerospace",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pozyx.io/solutions/industries/warehousing-and-logistics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pozyx.io/solutions/industries/regulated-industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pozyx.io/solutions/industries/construction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pozyx.io/company/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pozyx.io/company/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pozyx.io/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pozyx.io/case-studies/salco-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pozyx.io/case-studies/bonduelle-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pozyx.io/case-studies/intralogistics-optimization-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pozyx.io/solutions/industry-4-0/lean-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pozyx.io/solutions/industry-4-0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pozyx.io/solutions/industry-4-0/wip-and-material-flow",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pozyx.io/solutions/industry-4-0/forklift-tracking-and-fleet-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pozyx.io/company/newsroom",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pozyx.io/technology/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pozyx.io/company/events",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pozyx.io/register",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/612f4c781c90a5752d371287/622725013cdbb47759cb3d63_continental-logo-white.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/612f4c781c90a5752d371287/619fad74e551aa517a97476f_wip%20and%20material%20flow.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/612f4c781c90a5752d371287/616ed4381d24e151870522d3_automotive%2001%20small.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/612f4c781c90a5eb2237129f/6461dde1c700566da53bc79b_Salco%20WIP%20Dashboard.avif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.tegakari.net/2022/12/pozyx-accurate-tracking/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tegara-support.com/case-example/2023/05/3106/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unipos.net/info/pozyx_creator_one/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.minew.com/ja/partners/pozyx/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.unipos.net/info/pozyx_creator_one/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tegakari.net/2021/10/pozyx_info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tegara-support.com/case-example/2023/05/3106/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=5843",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unipos.net/products/pozyx-japan-info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mypozyx.myshopify.com/?srsltid=AYCX9vJ8KLA_Fn67Tt23DCMnAkofmDgqcx89gc6P07TlJcsTdXPZlZi2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.minew.com/ja/partners/pozyx/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.pozyx.io/products/covered-countries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pozyx.io/technology/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pozyx.io/case-studies/salco-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hannovermesse.de/apollo/hannover_messe_2022/obs/Binary/A1161340/Pozyx%20Leaflet%20May22.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://conexusindiana.com/case-study-type/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pozyx.io/register",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=04yjUNBYg-I",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.gartner.com/reviews/product/pozyx-enterprise-rtls/alternatives",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://omlox.com/pozyx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/133026-76",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/pozyx/__ljqTJctcP4RFysYo77b7zYnjvJdEpmb9H9N8_-DYHNA/funding-and-investors",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://finovate.com/category/funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://multiples.vc/private-comps/deputy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/pozyxlabs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/pozyx",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/pozyx-platform/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://nl.linkedin.com/in/yvesvangool",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pozyx/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pozyx/photos/1240937288044615/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pozyx/posts/proud-to-be-part-of-the-wireless-community-here-in-belgium-we-sometimes-forget-j/1606540454817628/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Pozyx 日本 導入",
+   "results": [
+    "https://www.tegakari.net/2022/12/pozyx-accurate-tracking/",
+    "https://www.tegara-support.com/case-example/2023/05/3106/",
+    "https://www.unipos.net/info/pozyx_creator_one/",
+    "https://www.minew.com/ja/partners/pozyx/",
+    "https://www.oxts.com/ja/solutions/inertial-navigation-solutions/navigation-hardware/pozyx2gad/",
+    "https://www.tegakari.net/2021/10/pozyx_info/",
+    "https://play.google.com/store/apps/details?id=io.pozyx.platformmobile&hl=ja",
+    "https://www.iland6.com/usecase/nittsu-usecase/",
+    "https://www.unipos.net/products/pozyx-japan-info/",
+    "https://www.pozyx.io/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Pozyx 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.unipos.net/info/pozyx_creator_one/",
+    "https://www.tegakari.net/2021/10/pozyx_info/",
+    "https://www.tegara-support.com/case-example/2023/05/3106/",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=5843",
+    "https://www.tegakari.net/2022/12/pozyx-accurate-tracking/",
+    "https://point-kikou.co.jp/sole-agent/list/?pg=1",
+    "https://bbguide.jp/shop/",
+    "https://ftsafe.co.jp/contactpartners/",
+    "https://www.wadax.ne.jp/company/agent/",
+    "https://www.ozax.co.jp/company/profile.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Pozyx Japan",
+   "results": [
+    "https://www.unipos.net/products/pozyx-japan-info/",
+    "https://mypozyx.myshopify.com/?srsltid=AYCX9vJ8KLA_Fn67Tt23DCMnAkofmDgqcx89gc6P07TlJcsTdXPZlZi2",
+    "https://www.minew.com/ja/partners/pozyx/",
+    "https://www.pozyx.io/products/covered-countries",
+    "https://www.tegakari.net/2021/10/pozyx_info/",
+    "https://www.instagram.com/pozyxlabs/",
+    "https://reusables.org/reusables-marketplace/pozyx/",
+    "https://www.facebook.com/pozyx/",
+    "https://www.youtube.com/watch?v=lR8Tn_wUnSg",
+    "https://www.pozyx.io/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Pozyx manufacturing customer case study",
+   "results": [
+    "https://www.pozyx.io/technology/case-studies",
+    "https://www.pozyx.io/case-studies/salco-case-study",
+    "https://www.hannovermesse.de/apollo/hannover_messe_2022/obs/Binary/A1161340/Pozyx%20Leaflet%20May22.pdf",
+    "https://conexusindiana.com/case-study-type/",
+    "https://www.linkedin.com/posts/pozyx_assettracking-iot-rtls-activity-7434552686722818048-VqCT",
+    "https://www.businesswire.com/news/home/20220530005018/en/Pozyx-Advances-Industrial-Asset-Tracking-and-Tackles-Operational-Problems-Supporting-Industry-4.0-With-Unmatched-Real-time-Visibility",
+    "https://www.iotforall.com/news/pozyx-unveils-platform-v3-0-advancing-location-intelligence-for-industrial-operations",
+    "https://www.xometry.com/resources/case-studies/",
+    "https://www.thoughtspot.com/resources/case-study",
+    "https://www.pozyx.io/case-studies/afl-aca-case-study"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Pozyx white label OR reseller OR partner program",
+   "results": [
+    "https://www.pozyx.io/register",
+    "https://www.youtube.com/watch?v=04yjUNBYg-I",
+    "https://www.gartner.com/reviews/product/pozyx-enterprise-rtls/alternatives",
+    "https://omlox.com/pozyx",
+    "https://atlas.verdantix.com/vendors/pozyx",
+    "https://help.salesplay.com/help/introducing-the-salesplay-partner-white-label-program/",
+    "https://www.linkedin.com/products/pozyx-platform/",
+    "https://getquantic.com/white-label-pos-features/",
+    "https://www.pozyx.io/pozyx-academy/how-to-install-the-pozyx-gateway",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Pozyx founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/133026-76",
+    "https://tracxn.com/d/companies/pozyx/__ljqTJctcP4RFysYo77b7zYnjvJdEpmb9H9N8_-DYHNA/funding-and-investors",
+    "https://finovate.com/category/funding/",
+    "https://multiples.vc/private-comps/deputy",
+    "https://www.cbinsights.com/company/kinexon/financials",
+    "https://burklandassociates.com/client-news/",
+    "https://news.crunchbase.com/venture/valuation-per-employee/",
+    "https://portx.io/news/portx-secures-16-5-million-in-series-b-funding-with-investors-focused-on-community-financial-institutions",
+    "https://rocketship.vc/news/",
+    "https://compworth.com/company/pozyx"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Pozyx",
+   "results": [
+    "https://note.com/bright_lynx5833/n/n2bba3b5f2d7d",
+    "https://note.com/bright_lynx5833/n/ne78f0e253686",
+    "https://note.com/bright_lynx5833/n/nc4475ed0b229"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 3
+  },
+  {
+   "query": "site:x.com Pozyx",
+   "results": [
+    "https://x.com/pozyxlabs",
+    "https://x.com/",
+    "https://x.com/BuzzingPop/status/2117864405064892847",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/evadentz/status/2115896420809216184",
+    "https://x.com/Marlayna29/status/2115433590150606880",
+    "https://x.com/RyanAFournier/status/2117296789443240367"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Pozyx",
+   "results": [
+    "https://www.linkedin.com/company/pozyx",
+    "https://www.linkedin.com/products/pozyx-platform/",
+    "https://nl.linkedin.com/in/yvesvangool",
+    "https://www.linkedin.com/in/wim-de-smet-86b563",
+    "https://be.linkedin.com/in/samuelvandevelde",
+    "https://be.linkedin.com/in/julie-neckebroek-86304310b",
+    "https://www.linkedin.com/posts/pozyx_talent-people-hiring-activity-6859083541544763392-EWgu",
+    "https://www.linkedin.com/posts/pi-north-america_pozyxhas-released-rtls-v20252-for-its-enterprise-grade-activity-7430506560616849409-AFYs",
+    "https://be.linkedin.com/in/michiel-boes-03108491",
+    "https://cn.linkedin.com/company/pozyx"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:facebook.com Pozyx",
+   "results": [
+    "https://www.facebook.com/pozyx/",
+    "https://www.facebook.com/pozyx/photos/1240937288044615/",
+    "https://www.facebook.com/pozyx/posts/proud-to-be-part-of-the-wireless-community-here-in-belgium-we-sometimes-forget-j/1606540454817628/",
+    "https://www.facebook.com/61558746156681/posts/data-logging-reduces-forklift-accidents-by-capturing-real-time-operational-data-/122237572388291538/",
+    "https://www.facebook.com/AiRTproject/",
+    "https://www.facebook.com/wellplayed.video/photos/tijd-om-nog-eens-flink-op-te-scheppen-over-onszelf-bedankt-voor-deze-mooie-woord/1684114963724545/",
+    "https://www.facebook.com/Lansitec/photos/before-choosing-an-rtls-solution-ask-a-simple-question-how-is-location-performan/1651484630313300/",
+    "https://www.facebook.com/groups/378613896396106/posts/2146430116281133/",
+    "https://www.facebook.com/groups/841452855235752/posts/1141939328520435/",
+    "https://www.facebook.com/pozyx/posts/a-team-at-the-virginia-polytechnic-institute-and-state-university-created-saver-/2517677024976774/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Pozyx note 社長",
+   "results": [
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://nipponia.or.jp/blog/3571/",
+    "https://shachomeikan.jp/industry_article/5902",
+    "https://note.com/sportstechnow",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.wantedly.com/companies/company_1284824/post_articles/483167",
+    "https://x.com/sadaaki",
+    "https://note.com/unipos/m/m8fe6f729b9df",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Pozyx X 投稿",
+   "results": [
+    "https://www.pozyx.io/",
+    "https://www.pozyx.io/pozyx-academy/how-to-install-the-pozyx-gateway",
+    "https://www.instagram.com/pozyxlabs/",
+    "https://www.pozyx.io/technology/pozyx-academy",
+    "https://www.facebook.com/pozyx/",
+    "https://www.youtube.com/watch?v=lR8Tn_wUnSg",
+    "https://www.hannovermesse.de/apollo/hannover_messe_2022/obs/Binary/A1161340/Pozyx%20Leaflet%20May22.pdf",
+    "https://github.com/pozyxLabs/Pozyx-Python-library",
+    "https://medium.com/@pozyx/activity",
+    "https://x.com/pozyxlabs"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部31頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部31頁・検索12回）"
+ }
+}

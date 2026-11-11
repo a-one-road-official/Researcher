@@ -1,0 +1,627 @@
+{
+ "name": "株式会社久松機工",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T13:14:35.877334+00:00",
+ "official_url": "http://www.hisamatsukikou.biz",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒190-1232　東京都西多摩郡瑞穂町長岡3-11-5 MAP >>>",
+    "url": "https://hisamatsukikou.biz/company/",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "東京都西多摩郡瑞穂町長岡三丁目11-5",
+    "url": "https://eigyo-mfg.com/service/navi/company/pFN8HX1jOiKl",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役",
+    "value": "久松 元大",
+    "url": "https://hisamatsukikou.biz/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "55名 （令和6年（2024年）11月1日現在）",
+    "url": "https://hisamatsukikou.biz/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "75名",
+    "url": "https://eigyo-mfg.com/service/navi/company/pFN8HX1jOiKl",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "大型精密部品加工/半導体製造装置/FPD製造装置/エネルギー関連/航空・宇宙関連/加速器関連 設計・組立 材料販売(アルミ・SUS・金属全般取扱い) 設備保全・修理 重量運搬・機械移動・据え付け",
+    "url": "https://hisamatsukikou.biz/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "金属、プラスチック加工",
+    "url": "https://hisamatsukikou.biz/recruit/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "久松機工はさまざまな業界、業種のお客様のご要望にお応えして、装置・製品・部品の加工を承っております",
+    "url": "https://hisamatsukikou.biz/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社では、半導体製造装置、FPD製造装置など、大物ワークから、小物、試作まで、幅広い製品に対応出来る設備を揃えております",
+    "url": "https://hisamatsukikou.biz/",
+    "pass": 1
+   },
+   {
+    "quote": "また、お客さまのニーズに応えるべく日々、誠心誠意ものづくりに取り組み高品質、高精度の製品を安定して提供しております",
+    "url": "https://hisamatsukikou.biz/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置やFPD製造装置などの大物部品から小物・試作までお客様のあらゆるニーズに柔軟にお応えし、「迅速」かつ「正確」に製品を提供しております",
+    "url": "https://hisamatsukikou.biz/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "事業を続けていくためには、日々努力し、誠実な態度で仕事に取り組み、すべての事や物に感謝し、品質第一の精神で製品を造ります",
+    "url": "https://hisamatsukikou.biz/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "受注型の製造業のため景気や顧客の動向に左右されやすい環境下で、他の加工業者とのすみ分けをし、高精度で難易度の高い製品の加工に取り組みます",
+    "url": "https://hisamatsukikou.biz/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のニーズに対応した製品、高精度・高品質な製品作りが出来るよう、各種マシニングセンタ、複合旋盤を取り揃えております",
+    "url": "https://hisamatsukikou.biz/machines/",
+    "pass": 1
+   },
+   {
+    "quote": "さまざまな業界、業種のお客様のご要望に柔軟にお応えし、高品質、高精度の装置・製品・部品を安定してご提供しております",
+    "url": "https://hisamatsukikou.biz/example/",
+    "pass": 1
+   },
+   {
+    "quote": "③ 生産管理 受注から納品までの生産日程計画、進捗管理業務｡ 機械の稼働管理、製品の検査成績書作成、データ入力、検査図面｡ 社有車を使用した納品",
+    "url": "https://hisamatsukikou.biz/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "久松機工の製品・サービス一覧｜イプロスものづくり",
+    "url": "https://mono.ipros.com/company/detail/2084198/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(1)",
+    "url": "https://mono.ipros.com/company/detail/2084198/category/",
+    "pass": 3
+   },
+   {
+    "quote": "高品質、高精度の装置・製品・部品を安定してご提供しております",
+    "url": "https://mono.ipros.com/company/detail/2084198/category/",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、半導体製造装置やFPD製造装置向けの大物部品から小物、試作まで、幅広い製品の加工を手がけています",
+    "url": "https://eigyo-mfg.com/service/navi/company/pFN8HX1jOiKl",
+    "pass": 3
+   },
+   {
+    "quote": "高精度かつ難易度の高い製品加工を得意とし、顧客の多様なニーズに柔軟に応えています",
+    "url": "https://eigyo-mfg.com/service/navi/company/pFN8HX1jOiKl",
+    "pass": 3
+   },
+   {
+    "quote": "迅速かつ正確な製品提供を通じて、さまざまな業界の顧客を支援しています",
+    "url": "https://eigyo-mfg.com/service/navi/company/pFN8HX1jOiKl",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "弊社では、半導体製造装置、FPD製造装置など、大物ワークから、小物、試作まで、幅広い製品に対応出来る設備を揃えております",
+    "url": "https://hisamatsukikou.biz/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置やFPD製造装置などの大物部品から小物・試作までお客様のあらゆるニーズに柔軟にお応えし、「迅速」かつ「正確」に製品を提供しております",
+    "url": "https://hisamatsukikou.biz/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "同社は、半導体製造装置やFPD製造装置向けの大物部品から小物、試作まで、幅広い製品の加工を手がけています",
+    "url": "https://eigyo-mfg.com/service/navi/company/pFN8HX1jOiKl",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "株式会社久松機工 | 大型精密部品加工･半導体製造装置･FPD製造･装置材料販売",
+    "url": "https://hisamatsukikou.biz/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社では、半導体製造装置、FPD製造装置など、大物ワークから、小物、試作まで、幅広い製品に対応出来る設備を揃えております",
+    "url": "https://hisamatsukikou.biz/",
+    "pass": 1
+   },
+   {
+    "quote": "大型精密部品加工/半導体製造装置/FPD製造装置/エネルギー関連/航空・宇宙関連/加速器関連",
+    "url": "https://hisamatsukikou.biz/company/",
+    "pass": 1
+   },
+   {
+    "quote": "精密機械部品の加工、半導体製造装置の部品加工等も受注",
+    "url": "https://hisamatsukikou.biz/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器(手術用顕微鏡)やコンタクトレンズ測定器の部品加工と組立調整までを一括受注",
+    "url": "https://hisamatsukikou.biz/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置やFPD製造装置などの大物部品から小物・試作までお客様のあらゆるニーズに柔軟にお応えし、「迅速」かつ「正確」に製品を提供しております",
+    "url": "https://hisamatsukikou.biz/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "航空機部品加工における最新加工技術によるリードタイムの短縮",
+    "url": "https://hisamatsukikou.biz/2024%E5%B9%B412%E6%9C%884%E6%97%A5%E3%88%AC%EF%BD%9E6%E6%97%A5%E3%88%AE-%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、半導体製造装置、F.P.D製造装置、エネルギー関連、",
+    "url": "https://mono.ipros.com/company/detail/2084198/category/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙関連、加速器関連、真空装置の大型精密部品加工を行っております",
+    "url": "https://mono.ipros.com/company/detail/2084198/category/",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、半導体製造装置やFPD製造装置向けの大物部品から小物、試作まで、幅広い製品の加工を手がけています",
+    "url": "https://eigyo-mfg.com/service/navi/company/pFN8HX1jOiKl",
+    "pass": 3
+   },
+   {
+    "quote": "エネルギー関連、航空・宇宙関連、加速器関連の部品加工にも対応しています",
+    "url": "https://eigyo-mfg.com/service/navi/company/pFN8HX1jOiKl",
+    "pass": 3
+   },
+   {
+    "quote": "大型精密部品加工、半導体製造装置、FPD製造装置、設計・組立、材料販売、設備保全・修理",
+    "url": "https://eigyo-mfg.com/service/navi/company/pFN8HX1jOiKl",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器(手術用顕微鏡)やコンタクトレンズ測定器の部品加工と組立調整までを一括受注",
+    "url": "https://eigyo-mfg.com/service/navi/company/pFN8HX1jOiKl",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "Hisamatsu Machine Industry Co.,Ltd.",
+    "url": "https://hisamatsukikou.biz/",
+    "pass": 1
+   },
+   {
+    "quote": "Hisamatsu Machine Industry Co.,Ltd.",
+    "url": "https://hisamatsukikou.biz/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Hisamatsu Machine Industry Co.,Ltd.",
+    "url": "https://hisamatsukikou.biz/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Hisamatsu Machine Industry Co.,Ltd.",
+    "url": "https://hisamatsukikou.biz/company/access/",
+    "pass": 1
+   },
+   {
+    "quote": "Hisamatsu Machine Industry Co.,Ltd.",
+    "url": "https://hisamatsukikou.biz/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "Hisamatsu Machine Industry Co.,Ltd.",
+    "url": "https://hisamatsukikou.biz/machines/",
+    "pass": 1
+   },
+   {
+    "quote": "Hisamatsu Machine Industry Co.,Ltd.",
+    "url": "https://hisamatsukikou.biz/example/",
+    "pass": 1
+   },
+   {
+    "quote": "Hisamatsu Machine Industry Co.,Ltd.",
+    "url": "https://hisamatsukikou.biz/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "Hisamatsu Machine Industry Co.,Ltd.",
+    "url": "https://hisamatsukikou.biz/2024%E5%B9%B412%E6%9C%884%E6%97%A5%E3%88%AC%EF%BD%9E6%E6%97%A5%E3%88%AE-%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80/",
+    "pass": 1
+   },
+   {
+    "quote": "https://hisamatsukikou.biz/",
+    "url": "https://eigyo-mfg.com/service/navi/company/pFN8HX1jOiKl",
+    "pass": 3
+   },
+   {
+    "quote": "お名前フリガナ (Same as \"Person in charge\")",
+    "url": "https://hisamatsukikou.biz/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "Hisamatsu Machine Industry Co.,Ltd.",
+    "url": "https://hisamatsukikou.biz/contact/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "金属全般から樹脂まで大きいものから小さいものまでお任せください！",
+    "url": "https://mono.ipros.com/company/detail/2084198/category/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "久松機工の製品・サービス一覧｜イプロスものづくり — Dec 26, 2019 · 久松機工 の製品・サービス一覧です。 大型精密部品の加工は、当社にお任せください！ 当社では、大型精密部品加工、設計・組立、材料販売、設備保全・修理、 重量運搬・機械移動・据え付けを行っております。 半導体製造装置、FPD製造装置など、大物ワークから、小物、 試作まで幅広い ...",
+    "url": "https://mono.ipros.com/company/detail/2084198/category/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社久松機工 | 大型精密部品加工･半導体製造装置･FPD製造･装... — 弊社では、半導体製造装置、FPD製造装置など、大物ワークから、小物、試作まで、幅広い製品に対応出来る設備を揃えております。 また、お客さまのニーズに応えるべく日々、誠心誠意ものづくりに取り組み高品質、高精度の製品を安定して提供しております。 このホームページを通じ、少し ...",
+    "url": "https://hisamatsukikou.biz/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社久松機工 | 大型精密部品加工･半導体製造装置･FPD製造･装... — 弊社社長ご挨拶と企業理念・経営方針、久松機工の基本情報について記載しています。1968年開業以降の沿革についてもご覧 ...",
+    "url": "https://hisamatsukikou.biz/",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 - 株式会社久松機工株式会社久松機工 | 加工会社ナビ株式会社久松機工｜東京都西多摩郡瑞穂町の組立・検査会社｜カコウバ株式会社久松機工（東京都）の会社概要・役員 | Compalyze株式会社 久松機工 - 瑞穂ファントム工場株式会社久松機工の会社概要・求人情報【2026年時点】| SalesNow DB — ホーム HOME 会社案内 Company information 設備紹介 Machines 加工実績 Machining Example 採用情報 Recruit お問い合わせ Contact English 株式会社久松機工の 概要 同社は、半導体製造装置やFPD製造装置向けの大物部品から小物、試作まで、幅広い製品の加工を手がけています。エネルギー関連、航空・宇宙関連、加速器関連の部品加工にも対応しています。高精度かつ難易度の高い製品加工を得意とし、顧客の多様なニーズ",
+    "url": "https://hisamatsukikou.biz/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社久松機工 | 加工会社ナビ — 株式会社久松機工の 概要 同社は、半導体製造装置やFPD製造装置向けの大物部品から小物、試作まで、幅広い製品の加工を手がけています。エネルギー関連、航空・宇宙関連、加速器関連の部品加工にも対応しています。高精度かつ難易度の高い製品加工を得意とし、顧客の多様なニーズに柔軟 ...",
+    "url": "https://eigyo-mfg.com/service/navi/company/pFN8HX1jOiKl",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社久松機工｜東京都西多摩郡瑞穂町の組立・検査会社｜カコウバ — 株式会社久松機工の事業内容 大型精密部品加工、半導体製造装置、FPD製造装置、エネルギー関連、航空・宇宙関連、加速器関連 設計・組立 材料販売 (アルミ・SUS・金属全般取扱い) 設備保全・修理 重量運搬・機械移動・据え付け 株式会社久松機工の分類 加工方法 組立・検査 材料 ステンレス ...",
+    "url": "https://xtox.co.jp/kakouba/company/7091bff62b/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社久松機工（東京都）の会社概要・役員 | Compalyze — 〒190-1232 東京都西多摩郡瑞穂町に本社を置く株式会社久松機工の企業情報。株式会社久松機工は、大型精密部品加工を中核に、半導体製造装置、FPD製造装置、エネルギー設備、航空・宇宙機器。製造業 (機械・設備)、1998年設立、社会保険被保険者数77名。代表者 久松元大。役員1名・登記1件。",
+    "url": "https://compalyze.co.jp/company/9013101004356",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 株式会社久松機工 — 下記お問い合わせフォームにご記入頂き、送信してください。（※は必ずご入力ください） Please fill in the required items below and submit. (※ is mandatory item) 後程担当者よりご連絡させて頂きます。We will contact you later on.お問い合わせいただきました内容は、弊社の掲げる個人情報保護方針に沿って管理 ...",
+    "url": "https://hisamatsukikou.biz/contact/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "下記お問い合わせフォームにご記入頂き、送信してください",
+    "url": "https://hisamatsukikou.biz/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "We will contact you later on.",
+    "url": "https://hisamatsukikou.biz/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ内容 (Text Area)※",
+    "url": "https://hisamatsukikou.biz/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "E-MAIL (Mail Address)",
+    "url": "https://hisamatsukikou.biz/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせいただきました内容は、弊社の掲げる個人情報保護方針に沿って管理し、お客様の同意なく第三者に開示・提供することはございません",
+    "url": "https://hisamatsukikou.biz/contact/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 久松機工 - Facebook 株式会社 久松機工",
+    "url": "https://www.facebook.com/株式会社-久松機工-107864394952458/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://hisamatsukikou.biz/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hisamatsukikou.biz/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hisamatsukikou.biz/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hisamatsukikou.biz/company/access/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hisamatsukikou.biz/company/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hisamatsukikou.biz/machines/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hisamatsukikou.biz/example/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hisamatsukikou.biz/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hisamatsukikou.biz/2024%E5%B9%B412%E6%9C%884%E6%97%A5%E3%88%AC%EF%BD%9E6%E6%97%A5%E3%88%AE-%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://hisamatsukikou.biz/wp/wp-content/uploads/2012/01/eye-catch1a.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.kuzuharagomu.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2084198/category/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morpha.co.jp/work/precision/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hisamatsukikou.biz/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hisamatsukikou.biz/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eigyo-mfg.com/service/navi/company/pFN8HX1jOiKl",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hisamatsukikou.biz/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.kubo-kk.co.jp/publics/index/5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.hakata-hisamatsu.net",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/株式会社-久松機工-107864394952458/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "久松機工 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.kuzuharagomu.co.jp/",
+    "https://mono.ipros.com/company/detail/2084198/category/",
+    "https://morpha.co.jp/work/precision/",
+    "https://www.bane-shisaku.com/products/",
+    "https://hisamatsukikou.biz/",
+    "https://hisamatsukikou.biz/example/",
+    "https://mono.ipros.com/product/detail/2000486933/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "久松機工 会社概要 事業内容",
+   "results": [
+    "https://hisamatsukikou.biz/",
+    "https://hisamatsukikou.biz/company/",
+    "https://eigyo-mfg.com/service/navi/company/pFN8HX1jOiKl",
+    "https://xtox.co.jp/kakouba/company/7091bff62b/",
+    "https://compalyze.co.jp/company/9013101004356",
+    "https://www.mizuho-phantom.com/member/hisamatsu/",
+    "https://salesnow.jp/db/companies/jcbkwyusdpsjvduyh"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "久松機工 お問い合わせ メール",
+   "results": [
+    "https://hisamatsukikou.biz/contact/",
+    "http://www.kubo-kk.co.jp/publics/index/5/",
+    "https://hisamatsucorp.jp/contact/",
+    "https://hisamatsucorp.jp/contact/?step=reapply",
+    "http://www.hisamatsu-syouji.com/contact/index.html",
+    "https://hisamatsukikou.biz/confirm/",
+    "https://ja.nc-net.or.jp/company/71776/inquiry/input/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 久松機工",
+   "results": [
+    "https://money.note.com/rankings/産業用機械/market_cap_desc",
+    "https://note.com/makaibito",
+    "https://note.com/makaibito/all",
+    "https://note.com/makaibito/m/m7e1c3201aaed",
+    "https://tales.note.com/good_gnu448/works",
+    "https://tales.note.com/umezaki/w031tgyu3w9c9",
+    "https://note.com/komuginyc/n/nf1dc81ed27af"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 久松機工",
+   "results": [
+    "https://help.x.com/en/using-x/download-the-x-app",
+    "https://x.com/tsk_hsf/status/1694663153848893619",
+    "https://x.com/sanwakikou",
+    "https://help.x.com/zh-cn/using-x",
+    "https://x.com/makaibito",
+    "https://x.com/YUI_hicca",
+    "https://x.com/kojihisamatsu"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 久松機工",
+   "results": [
+    "https://jp.linkedin.com/pub/dir/+/久松",
+    "https://www.linkedin.com/company/komatsu",
+    "https://jp.linkedin.com/in/宏至-久松-913407210",
+    "https://in.linkedin.com/company/linkedin",
+    "https://www.linkedin.com/",
+    "https://au.linkedin.com/company/login-nl",
+    "https://cn.linkedin.com/in/winonali711"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 久松機工",
+   "results": [
+    "https://www.facebook.com/株式会社-久松機工-107864394952458/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/",
+    "https://www.facebook.com/hisamatubussan/",
+    "https://www.facebook.com/p/誠久松-100005000688792/",
+    "https://www.facebook.com/久松-機工-165081723365419/",
+    "https://www.facebook.com/p/忍機工株式会社-100021087860587/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "久松機工 note 社長",
+   "results": [
+    "https://hisamatsukikou.biz/",
+    "https://hisamatsukikou.biz/company/",
+    "https://compalyze.co.jp/company/9013101004356",
+    "https://www.nikkan.co.jp/articles/view/00563666",
+    "https://www.mizuho-phantom.com/member/hisamatsu/",
+    "https://www.nikkan.co.jp/articles/view/00664315",
+    "https://note.com/makaibito"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "久松機工 X 投稿",
+   "results": [
+    "https://hisamatsukikou.biz/",
+    "https://hisamatsukikou.biz/video_list/",
+    "https://www.youtube.com/channel/UCMtifng24fcMjxZdBTtvx-Q/videos",
+    "https://kyoyu-ss.co.jp/news/20260227-2/",
+    "https://www.youtube.com/watch?v=bTqeaboBE5A",
+    "https://x.com/Astro_return",
+    "https://x.com/hashtag/久松"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式9頁／PDF・画像1件／外部10頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式9頁／PDF・画像1件／外部10頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式9頁／PDF・画像1件／外部10頁・検索9回）"
+ }
+}

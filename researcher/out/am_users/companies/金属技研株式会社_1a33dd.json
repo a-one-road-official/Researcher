@@ -1,0 +1,2128 @@
+{
+ "name": "金属技研株式会社",
+ "aliases": [],
+ "context": "ipros_all:受注生産",
+ "researched_at": "2026-11-11T13:17:34.233683+00:00",
+ "official_url": "http://www.kinzoku.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "503名（2026年2月末現在）",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "503名（2026年2月末現在）",
+    "url": "https://www.kinzoku.co.jp/about_mtc/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "14,211百万円",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 1
+   },
+   {
+    "label": "売上高",
+    "value": "14,211百万円",
+    "url": "https://www.kinzoku.co.jp/about_mtc/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "〒164-8721 東京都中野区本町1-32-2 ハーモニータワー27階",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 1
+   },
+   {
+    "label": "事業所所在地",
+    "value": "〒370-1132 群馬県佐波郡玉村町下新田983",
+    "url": "https://www.kinzoku.co.jp/about_mtc/factory.html",
+    "pass": 1
+   },
+   {
+    "label": "事業所所在地",
+    "value": "〒310-0843 茨城県水戸市元石川町276-21 水戸東部工業団地内",
+    "url": "https://www.kinzoku.co.jp/about_mtc/factory.html",
+    "pass": 1
+   },
+   {
+    "label": "事業所所在地",
+    "value": "〒243-0424 神奈川県海老名市社家5-4-14",
+    "url": "https://www.kinzoku.co.jp/about_mtc/factory.html",
+    "pass": 1
+   },
+   {
+    "label": "事業所所在地",
+    "value": "〒509-5142 岐阜県土岐市泉町久尻字北山1431−56 土岐アクアシルヴァ",
+    "url": "https://www.kinzoku.co.jp/about_mtc/factory.html",
+    "pass": 1
+   },
+   {
+    "label": "事業所所在地",
+    "value": "〒529-1202 滋賀県愛知郡愛荘町松尾寺1066",
+    "url": "https://www.kinzoku.co.jp/about_mtc/factory.html",
+    "pass": 1
+   },
+   {
+    "label": "事業所所在地",
+    "value": "〒679-4233 兵庫県姫路市林田町下伊勢970",
+    "url": "https://www.kinzoku.co.jp/about_mtc/factory.html",
+    "pass": 1
+   },
+   {
+    "label": "事業所所在地",
+    "value": "岩手県北上市村崎野23地割30番地9",
+    "url": "https://www.kinzoku.co.jp/about_mtc/factory.html",
+    "pass": 1
+   },
+   {
+    "label": "事業所所在地",
+    "value": "〒215153 蘇州高新区科技城峨眉山路76号",
+    "url": "https://www.kinzoku.co.jp/about_mtc/factory.html",
+    "pass": 1
+   },
+   {
+    "label": "事業所所在地",
+    "value": "Eriksbergsvägen 1, 734 92, Hallstahammar, Sweden",
+    "url": "https://www.kinzoku.co.jp/about_mtc/factory.html",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "〒164-8721 東京都中野区本町1-32-2 ハーモニータワー27階",
+    "url": "https://www.kinzoku.co.jp/about_mtc/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱材料": [
+   {
+    "quote": "【11/12開催】最先端の積層造形技術に迫る ～国内初導入のAM設備とセラミックス造形の最新動向～",
+    "url": "https://www.kinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "チタン素材の難しい切削加工を解説|使用する工具も合わせて紹介",
+    "url": "https://www.kinzoku.co.jp/core_technology/forming.html",
+    "pass": 1
+   },
+   {
+    "quote": "チタンプレートへの鏡面加工を紹介|鏡面研磨との違いも解説",
+    "url": "https://www.kinzoku.co.jp/core_technology/forming.html",
+    "pass": 1
+   },
+   {
+    "quote": "ステンレス鋼とチタン合金、アルミ合金とチタン合金の拡散接合",
+    "url": "https://www.kinzoku.co.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックス積層造形の受託生産サービスを開始",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属材料、金属粉末及び金属積層複合材料の熱処理、ろう付、拡散接合、粉末焼結、HIPHIP（熱間等方加圧）",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "材質は、無酸素銅を用い、宇宙線による放射化を防ぐため、溶解後90日間で製品として完成させました",
+    "url": "https://www.kinzoku.co.jp/about_mtc/engineering.html",
+    "pass": 1
+   },
+   {
+    "quote": "【11/12開催】最先端の積層造形技術に迫る ～国内初導入のAM設備とセラミックス造形の最新動向～ | MTC Solution",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/2026-1112",
+    "pass": 1
+   },
+   {
+    "quote": "【11/12開催】最先端の積層造形技術に迫る ～国内初導入のAM設備とセラミックス造形の最新動向～",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/2026-1112",
+    "pass": 1
+   },
+   {
+    "quote": "テーマ：セラミックスAM・電子ビーム積層造形",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/2026-1112",
+    "pass": 1
+   },
+   {
+    "quote": "・金属・セラミックスの積層造形を活用した部品製作や外注依頼を検討している方",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/2026-1112",
+    "pass": 1
+   },
+   {
+    "quote": "今回は、国内初導入となるEB-PBF最新機種「Spectra L」と、LB-PBF技術を活用した開発中のセラミックス造形について、現時点での進捗と課題を率直にお伝えします",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/2026-1112",
+    "pass": 1
+   },
+   {
+    "quote": "金属からセラミックスまで、造形技術の活用可能性を皆さまと一緒に考える機会にできればと思っています",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/2026-1112",
+    "pass": 1
+   },
+   {
+    "quote": "チタンプレートへの鏡面加工を紹介|鏡面研磨との違いも解説",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/2026-1112",
+    "pass": 1
+   },
+   {
+    "quote": "【アーカイブ配信】セラミックスをレーザーで溶かす!?～レーザービーム金属造形機で挑むアルミナセラミックス造形～",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/2026-1112",
+    "pass": 1
+   },
+   {
+    "quote": "キヤノン・金属技研 セラミックス積層造形受託生産はじまる",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/2026-1112",
+    "pass": 1
+   },
+   {
+    "quote": "チタンプレートへの鏡面加工を紹介|鏡面研磨との違いも解説",
+    "url": "https://www.kinzoku.co.jp/media/seminar/archive-2026-0827",
+    "pass": 1
+   },
+   {
+    "quote": "【11/12開催】最先端の積層造形技術に迫る ～国内初導入のAM設備とセラミックス造形の最新動向～",
+    "url": "https://www.kinzoku.co.jp/media/seminar/archive-2026-0827",
+    "pass": 1
+   },
+   {
+    "quote": "【アーカイブ配信】セラミックスをレーザーで溶かす!?～レーザービーム金属造形機で挑むアルミナセラミックス造形～",
+    "url": "https://www.kinzoku.co.jp/media/seminar/archive-2026-0827",
+    "pass": 1
+   },
+   {
+    "quote": "なお、金型には鋼・鉄・鋳鉄などの材料が使用されており、選定する材質によって耐久性・精度・コストが大きく変わります",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターで作る光硬化性樹脂の金型は、コストを圧縮しやすく、小ロット生産への対応も期待できます",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "pass": 1
+   },
+   {
+    "quote": "チタンプレートへの鏡面加工を紹介|鏡面研磨との違いも解説",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形でチタンを用いるメリットや活用例を解説",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "pass": 1
+   },
+   {
+    "quote": "チタン素材の難しい切削加工を解説|使用する工具も合わせて紹介 | MTC Solution",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-cutting-processing",
+    "pass": 1
+   },
+   {
+    "quote": "チタン素材の難しい切削加工を解説|使用する工具も合わせて紹介",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-cutting-processing",
+    "pass": 1
+   },
+   {
+    "quote": "チタンは軽くて丈夫な金属として、日用品から航空宇宙産業まで幅広いシーンで活用されています",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-cutting-processing",
+    "pass": 1
+   },
+   {
+    "quote": "チタンの加工方法に切削加工がありますが、チタンは加工が難しい金属としても知られています",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-cutting-processing",
+    "pass": 1
+   },
+   {
+    "quote": "この記事では、チタンの特徴や加工が難しい理由を解説",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-cutting-processing",
+    "pass": 1
+   },
+   {
+    "quote": "チタンの加工に適した工具や工具材質も解説するので、チタンの切削加工を検討している人はご覧ください",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-cutting-processing",
+    "pass": 1
+   },
+   {
+    "quote": "チタン素材の加工が難しい理由4つ",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-cutting-processing",
+    "pass": 1
+   },
+   {
+    "quote": "チタン素材を加工する際の使用工具3つ",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-cutting-processing",
+    "pass": 1
+   },
+   {
+    "quote": "チタン素材を加工する際の工具材質4選",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-cutting-processing",
+    "pass": 1
+   },
+   {
+    "quote": "チタンは軽くて高強度で、優れた特徴を多くもっています",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-cutting-processing",
+    "pass": 1
+   },
+   {
+    "quote": "チタン合金の比強度は、600℃の温度域までであればステンレスやアルミニウム合金の3倍程度です",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-cutting-processing",
+    "pass": 1
+   },
+   {
+    "quote": "チタンは酸素との親和性が高い性質で、酵素と接触してその表面に酸化膜を形成します",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-cutting-processing",
+    "pass": 1
+   },
+   {
+    "quote": "チタンは「難切削」と呼ばれており、加工が難しい素材として知られています",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-cutting-processing",
+    "pass": 1
+   },
+   {
+    "quote": "チタンの加工が難しい主な理由は下記4つです",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-cutting-processing",
+    "pass": 1
+   },
+   {
+    "quote": "チタンは加工の際に変形やひび割れが起きやすい素材です",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-cutting-processing",
+    "pass": 1
+   },
+   {
+    "quote": "チタンのヤング率は比較的低いため、加工中に変形や振動が起きやすいです",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-cutting-processing",
+    "pass": 1
+   },
+   {
+    "quote": "チタンを切削する際には、速度を調節しながら",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-cutting-processing",
+    "pass": 1
+   },
+   {
+    "quote": "チタンを加工するとき、熱の影響で工具が摩耗しやすいのも加工を難しくしている理由です",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-cutting-processing",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、チタンの加工の際には、熱をこもらせないための冷却対策が重要です",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-cutting-processing",
+    "pass": 1
+   },
+   {
+    "quote": "チタンの切粉は、発火する危険性があります",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-cutting-processing",
+    "pass": 1
+   },
+   {
+    "quote": "高温のチタンは空気中にある水分子にある酸素と反応するため、空気中に水素が発生します",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-cutting-processing",
+    "pass": 1
+   },
+   {
+    "quote": "チタンの切粉が発生したら、こまめに処分する必要があります",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-cutting-processing",
+    "pass": 1
+   },
+   {
+    "quote": "チタンを切削加工する際には、工具のチッピングが起きやすいです",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-cutting-processing",
+    "pass": 1
+   },
+   {
+    "quote": "純チタンの状態では引張強度はそれほど高くはありませんが、チタン合金になると強度は上がります",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-cutting-processing",
+    "pass": 1
+   },
+   {
+    "quote": "チタンの切削加工を行う際には、適した工作機械を使用する必要があります",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-cutting-processing",
+    "pass": 1
+   },
+   {
+    "quote": "チタンプレートへの鏡面加工を紹介|鏡面研磨との違いも解説 | MTC Solution",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-mirror-finish-processing",
+    "pass": 1
+   },
+   {
+    "quote": "チタンプレートへの鏡面加工を紹介|鏡面研磨との違いも解説",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-mirror-finish-processing",
+    "pass": 1
+   },
+   {
+    "quote": "鏡面加工を行う主なチタン素材や、2種類の加工方法などを紹介します",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-mirror-finish-processing",
+    "pass": 1
+   },
+   {
+    "quote": "チタン素材の鏡面仕上げを理解して業者に依頼しよう",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-mirror-finish-processing",
+    "pass": 1
+   },
+   {
+    "quote": "チタンは、「軽さ・強さ・錆びにくさ」を高い次元で併せ持つ、付加価値の高い金属材料です",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-mirror-finish-processing",
+    "pass": 1
+   },
+   {
+    "quote": "特に注目すべきは比強度の高さで、一部のチタン合金では鋼に匹敵する強度を維持しながら、密度は鉄の約 60%と大幅な軽量化を実現します",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-mirror-finish-processing",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、チタンは極めて優れた耐食性を持っています",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-mirror-finish-processing",
+    "pass": 1
+   },
+   {
+    "quote": "一方で、チタンは難削材としても知られており、加工には高度なノウハウが不可欠です",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-mirror-finish-processing",
+    "pass": 1
+   },
+   {
+    "quote": "だからこそ、チタン加工においては「素材理解×加工技術」が品質の差になります",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-mirror-finish-processing",
+    "pass": 1
+   },
+   {
+    "quote": "適切な技術と経験に基づいた加工を行うことで、チタン本来の性能を最大限に引き出すことが可能です",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-mirror-finish-processing",
+    "pass": 1
+   },
+   {
+    "quote": "鏡面加工を行っているチタン製品は、以下のように広い分野で採用されています",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-mirror-finish-processing",
+    "pass": 1
+   },
+   {
+    "quote": "昨今は印鑑でも、高級感を出すためにチタン素材の鏡面仕上げが行われています",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-mirror-finish-processing",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "豊富な検査、解析/分析装置を用いて、試作および実機製作まで一貫した製作が可能",
+    "url": "https://www.kinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要資料｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/documents/wp-company.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 1
+   },
+   {
+    "quote": "本部が統合され、開発、設計、生産および生産管理の役割を 持つ4つのセンターに再構成・集約し、開発・設計試作評価を スピードをもって取り組んでいます",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせからの流れ｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/flow.html",
+    "pass": 1
+   },
+   {
+    "quote": "リクルートTOP｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.mtc-kinzoku.co.jp",
+    "pass": 1
+   },
+   {
+    "quote": "成形／機械加工｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/core_technology/forming.html",
+    "pass": 1
+   },
+   {
+    "quote": "導入事例｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "工場紹介｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/about_mtc/factory.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属技研の歩み｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "品質管理体制｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境マネジメント｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/about_mtc/environment_ma.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリング｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/about_mtc/engineering.html",
+    "pass": 1
+   },
+   {
+    "quote": "『金属技研が進める新たな企業価値の創造』特集記事を公開｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/news_release/New_Corporate_Value.html",
+    "pass": 1
+   },
+   {
+    "quote": "HIP装置設備一覧｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/documents/wp-HIP-list.html",
+    "pass": 1
+   },
+   {
+    "quote": "真空ホットプレス装置一覧｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/documents/wp-hotpress-list.html",
+    "pass": 1
+   },
+   {
+    "quote": "精密な金型には設計・製作費が必要であり、試作用の金型材料や調整工程のコストもかかります",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "pass": 1
+   },
+   {
+    "quote": "金属プレス加工は小ロットの生産には向いていません",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "pass": 1
+   },
+   {
+    "quote": "同じ製品を少量しか製造しない小ロット生産では、金型の設計や製作にかかる初期費用を回収できないためです",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の好みや用途に合わせた製品はどうしても多品種少量生産になります",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "pass": 1
+   },
+   {
+    "quote": "小ロット生産は、受注金額に対してコストの採算が合いません",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターで作る光硬化性樹脂の金型は、コストを圧縮しやすく、小ロット生産への対応も期待できます",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "pass": 1
+   },
+   {
+    "quote": "金属で部品を製造できるため、樹脂素材では耐えられない強度・耐久性を持たせられますし、小規模ロットでの試作や短納期の製造にも対応可能、さらに金属材料を無駄なく利用することで、コストカットや制作時間の短縮も実現しています",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-3dprinter",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、金属部品として欲しいパーツのCADデータさえあれば、治工具や試作型の作成が不要です",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-3dprinter",
+    "pass": 1
+   },
+   {
+    "quote": "3次元CADデータを変更すれば、部品の微調整もできるため、試作段階での金型調整や、仕様変更に合わせて治工具の新規作成工程も省略できます",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-3dprinter",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンターの特長を活かしたものづくりを行うためには、除去がしやすく熱歪みの少ないサポート材の設計ノウハウ、既存部品の分析による形状の最適化、小ロットでも大量生産でも均一の仕上がりを保てる厳しい管理体制が必要不可欠です",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-3dprinter",
+    "pass": 1
+   },
+   {
+    "quote": "金属部品の試作、既存製品の最適化や低コスト化、軽量化にご興味がある場合は、ぜひ一度、こちらの下記ボタンよりご連絡ください",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-3dprinter",
+    "pass": 1
+   },
+   {
+    "quote": "金属部品の課題解決や試作、軽量化、強度の向上にご興味がある場合は、ぜひ一度、こちらの下記ボタンのお問い合わせフォームよりご連絡ください",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-hot-press",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/about_mtc/",
+    "pass": 1
+   },
+   {
+    "quote": "本部が統合され、開発、設計、生産および生産管理の役割を 持つ4つのセンターに再構成・集約し、開発・設計試作評価を スピードをもって取り組んでいます",
+    "url": "https://www.kinzoku.co.jp/about_mtc/",
+    "pass": 1
+   },
+   {
+    "quote": "ただし、金型の製作が必要になる場合が多く、少量生産ではコストが高くなることがあります",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/metal-processing-types",
+    "pass": 1
+   },
+   {
+    "quote": "レーザー切断は高精度で複雑な形状にも対応できるため、精密部品や試作品の製造で広く利用されています",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/metal-processing-types",
+    "pass": 1
+   },
+   {
+    "quote": "試作品や少量生産では柔軟性の高い切削加工が適していますが、量産品では金型を用いたプレス加工や鍛造加工の方がコストを抑えられる場合があります",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/metal-processing-types",
+    "pass": 1
+   },
+   {
+    "quote": "航空・宇宙向け事例 (ブレード)｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/case/aerospace01.html",
+    "pass": 1
+   },
+   {
+    "quote": "試作品加工： 機械加工 , 光造型",
+    "url": "https://www.atengineer.com/pr/kinzoku-giken/company",
+    "pass": 3
+   },
+   {
+    "quote": "複雑形状、オーバーハングを有する機能モデル及び、各種産業用試作金型等に利用できます",
+    "url": "https://www.atengineer.com/pr/kinzoku-giken/company",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "航空機や発電用タービンなど、厳しい使用環境に耐えられる信頼度の高い金属部品をご提供",
+    "url": "https://www.kinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "高品質が要求される原子力関連や宇宙・航空関連などをはじめ、高度な熱処理をご提供いたします",
+    "url": "https://www.kinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "業界トップレベルの先端技術で、液晶・半導体分野から航空･宇宙分野まで、",
+    "url": "https://www.kinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "航空機や発電用タービンなど、厳しい使用環境に耐えられる信頼度の高い金属部品をご提供",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 1
+   },
+   {
+    "quote": "半導体、エネルギー、航空・宇宙、精密機器、加速器・核融合炉など",
+    "url": "https://www.mtc-kinzoku.co.jp",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、超塑性成形では、材料が非常に伸びやすいため、一方の金型だけを使用して成形できるため、製作コストの大幅削減が可能です",
+    "url": "https://www.kinzoku.co.jp/core_technology/forming.html",
+    "pass": 1
+   },
+   {
+    "quote": "超塑性成形が、航空宇宙産業での需要が高まっている要因の一つです",
+    "url": "https://www.kinzoku.co.jp/core_technology/forming.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動車業界や航空宇宙産業では、この技術を利用して、空気力学的に最適化された形状や美しい外観の部品を製造しています",
+    "url": "https://www.kinzoku.co.jp/core_technology/forming.html",
+    "pass": 1
+   },
+   {
+    "quote": "金型の設計、製作及び超塑性成形加工までの一貫製作が可能",
+    "url": "https://www.kinzoku.co.jp/core_technology/forming.html",
+    "pass": 1
+   },
+   {
+    "quote": "金型サイズ ：1400W×2700L×900H",
+    "url": "https://www.kinzoku.co.jp/core_technology/forming.html",
+    "pass": 1
+   },
+   {
+    "quote": "金型サイズ ：1100W×2350L×365H",
+    "url": "https://www.kinzoku.co.jp/core_technology/forming.html",
+    "pass": 1
+   },
+   {
+    "quote": "半導体からエネルギー、航空宇宙まで",
+    "url": "https://www.kinzoku.co.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形装置（3Dプリンター／３次元積層造形技術）を用いた、整形外科領域のカスタムメイド医療機器の製造",
+    "url": "https://www.kinzoku.co.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "『和を貴び、和を守る』という理念のもと、創業当時はフェライトの磁性焼鈍やアルミダイキャスト用金型の熱処理を手掛けていましたが、2年後には手狭になり、新たに群馬県玉村に群馬工場を開設しました",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "1970年代には防衛・航空機関連業界にも進出し、1977年には民間機のボーイング社品質規格（BAC）の認定を取得",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "HIP技術は、ガスタービン・航空機用精密鋳造品の内部欠陥除去や、粉末ハイスの焼結処理など、多様な製品に活用されていきます",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空機部品Ti-6Al-4Vのろう付（F15J用ボディバルブ）",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "群馬工場、真空炉を導入し本格的に防衛（航空）分野の事業開始",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属技研は航空業界に関連する業界の要求を満たしております",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空製造業者に対する高い基準を常に満たすことで、当社工場の管理システムは改善し向上しています",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは常に品質管理システムの向上を目指し、ISO9000シリーズの認証や航空業界に関連する認証を取得しています",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "JIS Q9100: 航空・宇宙及び防衛分野の組織に対する要求事項",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空、宇宙、産業用部品の製造【熱処理、ろう付、溶接、ＨＩＰ（熱間等方加圧）、拡散接合及び機械加工】",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "21 航空宇宙産業",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空、宇宙、産業用部品の製造【熱処理、ろう付、HIP（熱間等方加圧）、機械加工、溶接、溶射及び非破壊検査】",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空、宇宙及び産業用部品の製造 【熱処理、ろう付、溶接、拡散接合、ＨＩＰ（熱間等方加圧）、機械加工、金属積層造形および非破壊検査】",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "・航空宇宙用部品の製造【熱処理、熱間成形、ウォータージェット加工、及び機械加工】",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空、宇宙、産業用部品の製造【熱処理、ろう付、HIP（熱間等方加圧）、 機械加工、溶接】",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空、宇宙及び産業用部品の製造【熱処理、ろう付、拡散接合、溶接、焼結、HIP（熱間等方加圧）、機械加工及び非破壊検査】",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空機のエンジンや部品製造会社であるPratt & Whitney社の管理基準を満たし、定められたスペックに基づく航空関連部品の供給者に対する品質要求であり、認証の取得が、その要求を十分に満たしていることを証明しています",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空機のエンジンや部品製造会社であるPratt & Whitney社の航空関連部品の供給者に対する品質要求管理の認証で、航空関連部品の指定されたスペックに基づく処理がPratt & Whitney社の求める処理基準を十分に満たしていることを示しています",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器産業に特化した品質マネジメントシステムに関する国際規格です",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "世界各国で“医療機器のライフサイクルに関わる組織に対する規制”の品質管理のベースとして採用されています",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "そして、各工場が会社の基本理念「環境を大切にし、人を大切にする」という考えのもと、エネルギー、産業機器、航空、医療等の分野にまたがる生産活動において限りある資源を扱いながら業務を行っているという認識を常に持ち、地球環境や労働環境に対する環境負荷の低減について継続的に取り組んでいます",
+    "url": "https://www.kinzoku.co.jp/about_mtc/environment_ma.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空、宇宙、産業用部品の製造【熱処理、ろう付、溶接、HIP（熱間等方加圧）、拡散接合及び機械加工】",
+    "url": "https://www.kinzoku.co.jp/about_mtc/environment_ma.html",
+    "pass": 1
+   },
+   {
+    "quote": "21 航空宇宙産業",
+    "url": "https://www.kinzoku.co.jp/about_mtc/environment_ma.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空、宇宙、産業用部品の製造【熱処理、ろう付、HIP（熱間等方加圧）、機械加工、溶接、溶射及び非破壊検査】",
+    "url": "https://www.kinzoku.co.jp/about_mtc/environment_ma.html",
+    "pass": 1
+   },
+   {
+    "quote": "・医療機器、産業用部品の設計・開発及び製造【熱処理、ろう付、溶接、拡散接合、HIP（熱間等方加圧）、機械加工及び金属積層造形】",
+    "url": "https://www.kinzoku.co.jp/about_mtc/environment_ma.html",
+    "pass": 1
+   },
+   {
+    "quote": "・航空、宇宙用部品の製造【熱処理、ろう付、溶接、拡散接合、HIP（熱間等方加圧）、機械加工及び金属積層造形】",
+    "url": "https://www.kinzoku.co.jp/about_mtc/environment_ma.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空、宇宙、産業用部品の製造【熱処理、ろう付、HIP（熱間等方加圧）、機械加工及び溶接】",
+    "url": "https://www.kinzoku.co.jp/about_mtc/environment_ma.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空、宇宙及び産業用部品の製造【熱処理、ろう付、拡散接合、溶接、焼結、HIP（熱間等方加圧）、機械加工及び非破壊検査】",
+    "url": "https://www.kinzoku.co.jp/about_mtc/environment_ma.html",
+    "pass": 1
+   },
+   {
+    "quote": "本製品は、Newton5月号（2010年）に写真が掲載された東京大学宇宙線研究所 神岡宇宙素粒子実験施設に納入しました当社担当のXMASS実験用PMTホルダーです",
+    "url": "https://www.kinzoku.co.jp/about_mtc/engineering.html",
+    "pass": 1
+   },
+   {
+    "quote": "材質は、無酸素銅を用い、宇宙線による放射化を防ぐため、溶解後90日間で製品として完成させました",
+    "url": "https://www.kinzoku.co.jp/about_mtc/engineering.html",
+    "pass": 1
+   },
+   {
+    "quote": "核融合･半導体などの信頼厚い金属技研に新たな歴史の１ページ､スウェーデン社買収の深謀遠慮",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/2026-1112",
+    "pass": 1
+   },
+   {
+    "quote": "複雑形状部品の成形プロセス開発・技術支援を担当し、航空・宇宙・産業機器など幅広い分野での適用実績を持つ",
+    "url": "https://www.kinzoku.co.jp/media/seminar/archive-2026-0827",
+    "pass": 1
+   },
+   {
+    "quote": "金属プレス加工はプレス機で圧力をかけ、金型の形に合わせて金属板を加工します",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "pass": 1
+   },
+   {
+    "quote": "自動車や電気製品などの精密な部品には必ず使われ、現代の産業に欠かせない技術です",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "pass": 1
+   },
+   {
+    "quote": "特定の形にするための金型をあらかじめ作り、その型を使って同じ形の製品を大量に作ります",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "pass": 1
+   },
+   {
+    "quote": "パンチ（押す側）とダイ（受ける側）で構成される金型を精密に設計・製作する",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "pass": 1
+   },
+   {
+    "quote": "金型をプレス機にセットして、テスト加工で金型の精度を確認する",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "pass": 1
+   },
+   {
+    "quote": "金属プレス加工で使用される金型の主な種類は、以下の通りです",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "pass": 1
+   },
+   {
+    "quote": "1回のプレス操作で1つの工程を行う金型",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "pass": 1
+   },
+   {
+    "quote": "1つの金型内で複数の工程（抜き・曲げなど）を連続的に行える金型",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "pass": 1
+   },
+   {
+    "quote": "異なる単発型が順列され、複数の工程を自動で加工できる金型",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "pass": 1
+   },
+   {
+    "quote": "なお、金型には鋼・鉄・鋳鉄などの材料が使用されており、選定する材質によって耐久性・精度・コストが大きく変わります",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "pass": 1
+   },
+   {
+    "quote": "金属プレス加工は以下の特性から、自動車・家電・航空機・建設・電子機器など多くの産業に貢献しています",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "pass": 1
+   },
+   {
+    "quote": "一度金型を作ってしまえば、一度のプレスで複雑な成形もできる",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "pass": 1
+   },
+   {
+    "quote": "精密に設計された金型とプレス機の制御技術によって、製品の寸法にばらつきが少ないからです",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "pass": 1
+   },
+   {
+    "quote": "成形は金型で行うことから、職人の技量によらず安定した品質を保てるのがポイントです",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "pass": 1
+   },
+   {
+    "quote": "精密な金型には設計・製作費が必要であり、試作用の金型材料や調整工程のコストもかかります",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "pass": 1
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "金属積層造形で製作したビーム窓がJ-PARC施設公開で展示されます",
+    "url": "https://www.kinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【11/12開催】最先端の積層造形技術に迫る ～国内初導入のAM設備とセラミックス造形の最新動向～",
+    "url": "https://www.kinzoku.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要資料｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/documents/wp-company.html",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形にも対応しており、金属粉末に電子ビームやレーザーを照射し、直接溶解して積層することで緻密な3D形状を造形することができます",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせからの流れ｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/flow.html",
+    "pass": 1
+   },
+   {
+    "quote": "リクルートTOP｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.mtc-kinzoku.co.jp",
+    "pass": 1
+   },
+   {
+    "quote": "成形／機械加工｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/core_technology/forming.html",
+    "pass": 1
+   },
+   {
+    "quote": "導入事例｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "製作性が悪いTiAl 製ブレードを造形・HIP・機械加工で製作",
+    "url": "https://www.kinzoku.co.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "造形・HIPの適応で鋳造型無しで複雑形状部品の高付加価値化を実現",
+    "url": "https://www.kinzoku.co.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "既存工法では製作困難な有機的な形状を積層造形で表現",
+    "url": "https://www.kinzoku.co.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形装置（3Dプリンター／３次元積層造形技術）を用いた、整形外科領域のカスタムメイド医療機器の製造",
+    "url": "https://www.kinzoku.co.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "工場紹介｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/about_mtc/factory.html",
+    "pass": 1
+   },
+   {
+    "quote": "Eriksbergsvägen 1, 734 92, Hallstahammar, Sweden",
+    "url": "https://www.kinzoku.co.jp/about_mtc/factory.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属技研の歩み｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "HIP技術は、ガスタービン・航空機用精密鋳造品の内部欠陥除去や、粉末ハイスの焼結処理など、多様な製品に活用されていきます",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "超硬材料粉末冶金（製鉄用の耐熱・耐腐食超硬ロール）",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "今話題の3D積層造形も、2001年に金属積層造形装置をいち早く茨城工場に導入しました",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "積層造形成形装置を茨城工場に導入、造形分野に参入",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビーム積層造形装置「Arcam A2X」を導入",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "レーザビーム積層造形装置「EOSINT M280」を導入",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "電子ビーム大型積層造形装置「Arcam Q20」を導入",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "神奈川工場 JIS Q 9100に金属積層造形を追加認証",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックス積層造形の受託生産サービスを開始",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "国内初となる電子ビーム造形装置「Spectra L」を導入",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "品質管理体制｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空、宇宙及び産業用部品の製造 【熱処理、ろう付、溶接、拡散接合、ＨＩＰ（熱間等方加圧）、機械加工、金属積層造形および非破壊検査】",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属材料、金属粉末及び金属積層複合材料の熱処理、ろう付、拡散接合、粉末焼結、HIPHIP（熱間等方加圧）",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "Industry Specs: AMS2750",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": ":(L5) Near Surface Examinations-Microindentation(Surface Case Depth)",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": ":(L7) Near Surface Examinations-IGA, IGO",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": ":(L10) Near Surface Examinations-Carburization/Decarburization",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "Industry Specs : AMS2750",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "・Industry Specs: AMS2750",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "AMS2759",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "AMS2759/3",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "環境マネジメント｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/about_mtc/environment_ma.html",
+    "pass": 1
+   },
+   {
+    "quote": "・医療機器、産業用部品の設計・開発及び製造【熱処理、ろう付、溶接、拡散接合、HIP（熱間等方加圧）、機械加工及び金属積層造形】",
+    "url": "https://www.kinzoku.co.jp/about_mtc/environment_ma.html",
+    "pass": 1
+   },
+   {
+    "quote": "・航空、宇宙用部品の製造【熱処理、ろう付、溶接、拡散接合、HIP（熱間等方加圧）、機械加工及び金属積層造形】",
+    "url": "https://www.kinzoku.co.jp/about_mtc/environment_ma.html",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアリング｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/about_mtc/engineering.html",
+    "pass": 1
+   },
+   {
+    "quote": "『金属技研が進める新たな企業価値の創造』特集記事を公開｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/news_release/New_Corporate_Value.html",
+    "pass": 1
+   },
+   {
+    "quote": "【11/12開催】最先端の積層造形技術に迫る ～国内初導入のAM設備とセラミックス造形の最新動向～ | MTC Solution",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/2026-1112",
+    "pass": 1
+   },
+   {
+    "quote": "【11/12開催】最先端の積層造形技術に迫る ～国内初導入のAM設備とセラミックス造形の最新動向～",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/2026-1112",
+    "pass": 1
+   },
+   {
+    "quote": "テーマ：セラミックスAM・電子ビーム積層造形",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/2026-1112",
+    "pass": 1
+   },
+   {
+    "quote": "・金属・セラミックスの積層造形を活用した部品製作や外注依頼を検討している方",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/2026-1112",
+    "pass": 1
+   },
+   {
+    "quote": "・最新の電子ビーム積層造形の特徴やメリット、デメリットに関心のある方",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/2026-1112",
+    "pass": 1
+   },
+   {
+    "quote": "金属技研では、造形事業の強化に向けて、新規材料の造形立ち上げと装置の更新を進めています",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/2026-1112",
+    "pass": 1
+   },
+   {
+    "quote": "今回は、国内初導入となるEB-PBF最新機種「Spectra L」と、LB-PBF技術を活用した開発中のセラミックス造形について、現時点での進捗と課題を率直にお伝えします",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/2026-1112",
+    "pass": 1
+   },
+   {
+    "quote": "金属からセラミックスまで、造形技術の活用可能性を皆さまと一緒に考える機会にできればと思っています",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/2026-1112",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形 (8)",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/2026-1112",
+    "pass": 1
+   },
+   {
+    "quote": "セミナー：金属積層造形 (4)",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/2026-1112",
+    "pass": 1
+   },
+   {
+    "quote": "複雑な形状にも対応可能！ 金属3Dプリンターの特長と活用事例を紹介",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/2026-1112",
+    "pass": 1
+   },
+   {
+    "quote": "【アーカイブ配信】セラミックスをレーザーで溶かす!?～レーザービーム金属造形機で挑むアルミナセラミックス造形～",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/2026-1112",
+    "pass": 1
+   },
+   {
+    "quote": "キヤノン・金属技研 セラミックス積層造形受託生産はじまる",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/2026-1112",
+    "pass": 1
+   },
+   {
+    "quote": "金属積層造形 (8)",
+    "url": "https://www.kinzoku.co.jp/media/seminar/archive-2026-0827",
+    "pass": 1
+   },
+   {
+    "quote": "セミナー：金属積層造形 (4)",
+    "url": "https://www.kinzoku.co.jp/media/seminar/archive-2026-0827",
+    "pass": 1
+   },
+   {
+    "quote": "複雑な形状にも対応可能！ 金属3Dプリンターの特長と活用事例を紹介",
+    "url": "https://www.kinzoku.co.jp/media/seminar/archive-2026-0827",
+    "pass": 1
+   },
+   {
+    "quote": "【11/12開催】最先端の積層造形技術に迫る ～国内初導入のAM設備とセラミックス造形の最新動向～",
+    "url": "https://www.kinzoku.co.jp/media/seminar/archive-2026-0827",
+    "pass": 1
+   },
+   {
+    "quote": "【アーカイブ配信】セラミックスをレーザーで溶かす!?～レーザービーム金属造形機で挑むアルミナセラミックス造形～",
+    "url": "https://www.kinzoku.co.jp/media/seminar/archive-2026-0827",
+    "pass": 1
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "お客様の多様なニーズに応える製品を提供します",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 1
+   },
+   {
+    "quote": "通常の成形工程では、製品の形状作成には雄型と雌型の両方の型が必要です",
+    "url": "https://www.kinzoku.co.jp/core_technology/forming.html",
+    "pass": 1
+   },
+   {
+    "quote": "超塑性成形は、高温で行うため、冷間加工では実現困難な細かい製品や複雑な形状に成形することができます",
+    "url": "https://www.kinzoku.co.jp/core_technology/forming.html",
+    "pass": 1
+   },
+   {
+    "quote": "加速器ターゲットの材料・製品の共同研究がMaterials Science Forum誌 (Online版) に掲載されました",
+    "url": "https://www.kinzoku.co.jp/case.html",
+    "pass": 1
+   },
+   {
+    "quote": "HIP技術は、ガスタービン・航空機用精密鋳造品の内部欠陥除去や、粉末ハイスの焼結処理など、多様な製品に活用されていきます",
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "8.3 製品及びサービスの設計・開発",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "17 基礎金属、加工金属製品",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "8.3 製品およびサービスの設計・開発",
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "pass": 1
+   },
+   {
+    "quote": "17 基礎金属、加工金属製品",
+    "url": "https://www.kinzoku.co.jp/about_mtc/environment_ma.html",
+    "pass": 1
+   },
+   {
+    "quote": "その後、当社各工場で所有している製造技術（材料選定、機械加工技術、熱処理・表面処理技術、接合技術など）を駆使して製品を完成させます",
+    "url": "https://www.kinzoku.co.jp/about_mtc/engineering.html",
+    "pass": 1
+   },
+   {
+    "quote": "技術開発本部（旧エンジニアリング事業本部）では、加速器と核融合分野の国家プロジェクトに関わる数多くの製品の設計製作を担当してきました",
+    "url": "https://www.kinzoku.co.jp/about_mtc/engineering.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属技研の研究開発・技術開発は、技術開発本部（旧エンジニアリング事業本部）が中心となって、いくつもの工場と連携し、それぞれ得意な製造技術と結びついて、製品が産み出されていきます",
+    "url": "https://www.kinzoku.co.jp/about_mtc/engineering.html",
+    "pass": 1
+   },
+   {
+    "quote": "そして、それらの製品が、お客様を通じて社会貢献に寄与するものと考えています",
+    "url": "https://www.kinzoku.co.jp/about_mtc/engineering.html",
+    "pass": 1
+   },
+   {
+    "quote": "この加速器は電子と陽電子の衝突型加速器で、電子と陽電子が正面衝突する最も大切な部分に本製品は据え付けられます",
+    "url": "https://www.kinzoku.co.jp/about_mtc/engineering.html",
+    "pass": 1
+   },
+   {
+    "quote": "本製品の中心部は衝突により発生した新たな粒子が透過しやすいように物質量の小さい薄肉のベリリウムを使用しており、冷却のため二重構造とし、その間に冷媒が流されます",
+    "url": "https://www.kinzoku.co.jp/about_mtc/engineering.html",
+    "pass": 1
+   },
+   {
+    "quote": "加速器ターゲットの材料・製品の共同研究がMaterials Science Forum誌 (Online版) に掲載されました",
+    "url": "https://www.kinzoku.co.jp/about_mtc/engineering.html",
+    "pass": 1
+   },
+   {
+    "quote": "本製品は、Newton5月号（2010年）に写真が掲載された東京大学宇宙線研究所 神岡宇宙素粒子実験施設に納入しました当社担当のXMASS実験用PMTホルダーです",
+    "url": "https://www.kinzoku.co.jp/about_mtc/engineering.html",
+    "pass": 1
+   },
+   {
+    "quote": "材質は、無酸素銅を用い、宇宙線による放射化を防ぐため、溶解後90日間で製品として完成させました",
+    "url": "https://www.kinzoku.co.jp/about_mtc/engineering.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動車や電気製品などの精密な部品には必ず使われ、現代の産業に欠かせない技術です",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "pass": 1
+   },
+   {
+    "quote": "特定の形にするための金型をあらかじめ作り、その型を使って同じ形の製品を大量に作ります",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "pass": 1
+   },
+   {
+    "quote": "実際の金属プレス加工の技術を試す試験で、試験官が製品の成形や加工精度・効率性をチェック",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "pass": 1
+   },
+   {
+    "quote": "金属プレス加工は製品の形状に合わせて加工するため、加工法には下記の通りさまざまな種類があります",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "pass": 1
+   },
+   {
+    "quote": "金属プレス加工で作られた製品は、高い精度を誇ります",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "pass": 1
+   },
+   {
+    "quote": "精密に設計された金型とプレス機の制御技術によって、製品の寸法にばらつきが少ないからです",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "pass": 1
+   },
+   {
+    "quote": "金属プレス加工の大きなメリットは、強度の高い製品を作製できる点です",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "pass": 1
+   },
+   {
+    "quote": "一枚の素材をつなぎ目なく引き伸ばす塑性（そせい）加工によって、強靭で柔らかい製品に仕上げます",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "pass": 1
+   },
+   {
+    "quote": "製造過程で金属に含まれる不純物等が繊維状に整列することも、金属プレス加工製品の強度が高い要因です",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "pass": 1
+   },
+   {
+    "quote": "同じ製品を少量しか製造しない小ロット生産では、金型の設計や製作にかかる初期費用を回収できないためです",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の好みや用途に合わせた製品はどうしても多品種少量生産になります",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "pass": 1
+   },
+   {
+    "quote": "小さすぎる製品、薄物成形も難易度が高いでしょう",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "pass": 1
+   },
+   {
+    "quote": "金属プレス加工は、私たちの生活を支えるさまざまな製品に活用されています",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "pass": 1
+   },
+   {
+    "quote": "ここでは、金属プレス加工が用いられている主な製品例をご紹介します",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの身近な電化製品の小型化・高性能化を支えているのも、高精度なプレス加工技術です",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "pass": 1
+   },
+   {
+    "quote": "産業用途にとどまらず、日常生活や社会インフラを支える製品にも数多く使用されています",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "pass": 1
+   },
+   {
+    "quote": "鏡面加工を行っているチタン製品は、以下のように広い分野で採用されています",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-mirror-finish-processing",
+    "pass": 1
+   },
+   {
+    "quote": "加速器ターゲットの材料・製品の共同研究がMaterials Science Forum誌 (Online版) に掲載されました | MTC Solution",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/a57",
+    "pass": 1
+   },
+   {
+    "quote": "加速器ターゲットの材料・製品の共同研究がMaterials Science Forum誌 (Online版) に掲載されました",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/a57",
+    "pass": 1
+   },
+   {
+    "quote": "当社社員が関わる加速器ターゲットの材料・製品の共同研究に関して、Trans Tech Publications Inc. 社の学術誌”Materials Science Forum Vol. 1024\"（https://www.scientific.net/MSF.1024）Online版にて掲載され、2021/3/15にリリースされました",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/a57",
+    "pass": 1
+   },
+   {
+    "quote": "ただし、金属3Dプリンターは、造形の方式やサイズ、機種によって製品の仕上がりが異なります",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-3dprinter",
+    "pass": 1
+   },
+   {
+    "quote": "レーザーを使うタイプの装置は、電子ビームの製品に比べて表面の滑らかな造形が可能で、電子ビームの製品は、大型形状を効率よく造形することに向いています",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-3dprinter",
+    "pass": 1
+   },
+   {
+    "quote": "ただ、金属3Dプリンターなら最初から一つの製品とした状態で一体で造形できます",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-3dprinter",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、単に受注した製品を金属で製造するだけでなく、製品の構造解析や成分分析を含む事前検証から、造形メリットを得られる形状の提案、造形後の熱処理に仕上げ・検査まで、最終製品の納品に必要な工程のすべてを一社で提供しています",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-3dprinter",
+    "pass": 1
+   },
+   {
+    "quote": "製造した造形品の強度試験も含め、製品の相談から納品まで必要な工程を自社で一貫して行えるため、受発注のコストを最小化することが可能です",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-3dprinter",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の悩みや製品の使用環境を丁寧にヒアリングし、金属3Dプリンターだからこそ実現可能な3次元ラティス構造やトポロジー最適化構造、一体化のアイデアなどを提案することができます",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-3dprinter",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、金属3Dプリンターで製造した製品のうち、高い構造強度が求められていたり、高速回転部品、振動がかかる部品においては内部欠陥を除去するための後熱処理が推奨されています",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-3dprinter",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンターは、既存製品や部品の形状もしくは特性の最適化にも向いた技術です",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-3dprinter",
+    "pass": 1
+   },
+   {
+    "quote": "金属部品の試作、既存製品の最適化や低コスト化、軽量化にご興味がある場合は、ぜひ一度、こちらの下記ボタンよりご連絡ください",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-3dprinter",
+    "pass": 1
+   },
+   {
+    "quote": "ホットプレスとは、対象製品に圧力と熱をかけ、接合や焼結、成形などを行う装置です",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-hot-press",
+    "pass": 1
+   },
+   {
+    "quote": "製品の加熱・加圧による成形加工を検討する際は、目的に応じてホットプレスとHIPどちらがコスト面や機能面で適しているのか、十分に比較することが重要です",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-hot-press",
+    "pass": 1
+   },
+   {
+    "quote": "粉体の焼結とは、粉末状にした金属をカーボンなどの型に入れ、高温で加熱し、加圧することで、高い密度を持つ製品に焼き固める作業のことです",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-hot-press",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の多様なニーズに応える製品を提供します",
+    "url": "https://www.kinzoku.co.jp/about_mtc/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車や航空機、建築物、産業機械など、多くの製品や構造物に金属加工が活用されています",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/metal-processing-types",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、「金属加工にはどのような種類があるのか知りたい」「製品に適した加工方法の選び方を知りたい」と考えている方もいるのではないでしょうか",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/metal-processing-types",
+    "pass": 1
+   },
+   {
+    "quote": "金属加工とは、金属材料にさまざまな処理を施し、目的の形状や性能を持つ製品へ加工する技術の総称です",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/metal-processing-types",
+    "pass": 1
+   },
+   {
+    "quote": "自動車や航空機、建築物、家電製品、産業機械などの多くは、金属加工によって製造された部品によって構成されています",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/metal-processing-types",
+    "pass": 1
+   },
+   {
+    "quote": "金属は高い強度や耐久性を持つ一方で、そのままでは製品として利用できません",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/metal-processing-types",
+    "pass": 1
+   },
+   {
+    "quote": "近年では製品の高性能化や高精度化が進んでおり、加工方法も多様化しています",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/metal-processing-types",
+    "pass": 1
+   },
+   {
+    "quote": "目的や用途に応じて適切な加工方法を選択することが、高品質な製品づくりにつながります",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/metal-processing-types",
+    "pass": 1
+   },
+   {
+    "quote": "加工方法によって特徴や適した用途が異なるため、製品の形状や必要な精度、生産数量などに応じて適切な方法を選択する必要があります",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/metal-processing-types",
+    "pass": 1
+   },
+   {
+    "quote": "例えば自動車の足回り部品や建設機械部品など、高い強度が必要な製品では鍛造加工が多く採用されています",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/metal-processing-types",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "お問い合わせからの流れ｜同種・異種金属の接合、積層造形など、金属に関する受注生産｜金属技研株式会社",
+    "url": "https://www.kinzoku.co.jp/flow.html",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせフォーム又は電話にてお問合せ下さい",
+    "url": "https://www.kinzoku.co.jp/flow.html",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり依頼や詳しいご相談をされたい場合は、お問い合わせフォームをご活用ください",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/2026-1112",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり依頼や詳しいご相談をされたい場合は、お問い合わせフォームをご活用ください",
+    "url": "https://www.kinzoku.co.jp/media/seminar/archive-2026-0827",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり依頼や詳しいご相談をされたい場合は、お問い合わせフォームをご活用ください",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり依頼や詳しいご相談をされたい場合は、お問い合わせフォームをご活用ください",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-cutting-processing",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり依頼や詳しいご相談をされたい場合は、お問い合わせフォームをご活用ください",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-mirror-finish-processing",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり依頼や詳しいご相談をされたい場合は、お問い合わせフォームをご活用ください",
+    "url": "https://www.kinzoku.co.jp/media/special-feature/a57",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり依頼や詳しいご相談をされたい場合は、お問い合わせフォームをご活用ください",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-3dprinter",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり依頼や詳しいご相談をされたい場合は、お問い合わせフォームをご活用ください",
+    "url": "https://www.kinzoku.co.jp/media/tag/forming",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり依頼や詳しいご相談をされたい場合は、お問い合わせフォームをご活用ください",
+    "url": "https://www.kinzoku.co.jp/media/case",
+    "pass": 1
+   },
+   {
+    "quote": "金属部品の課題解決や試作、軽量化、強度の向上にご興味がある場合は、ぜひ一度、こちらの下記ボタンのお問い合わせフォームよりご連絡ください",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-hot-press",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり依頼や詳しいご相談をされたい場合は、お問い合わせフォームをご活用ください",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-hot-press",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もり依頼や詳しいご相談をされたい場合は、お問い合わせフォームをご活用ください",
+    "url": "https://www.kinzoku.co.jp/media/techinfo/metal-processing-types",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要｜同種・異種金属の接合、積層造形など、金属に関する受注生... — 金属技研は環境保護の重要性を十分に認識し、日々の製造活動において確実に環境管理を遂行するために最大限の努力をしています。 その一環として、私たちはISO14001認証を取得して、国際規格の要求を満たす環境保護活動を推進しています。",
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研株式会社 | MTCは熱処理・HIP・接合などの金属加工を提供しま... — 金属技研株式会社（MTC）は、HIP･熱処理･拡散接合･機械加工･ろう付･溶接･金属積層造形などの要素技術を駆使し、金属部品の一貫生産サービスを提供しています。",
+    "url": "https://www.kinzoku.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研株式会社 - 会社概要 — 金属技研株式会社の事業概要 金属工学の研究グループが成長した会社であり、熱処理を基幹にして多くの要素技術を駆使し営業しております。 業務の管理は多くの分野に対応していることで、ISO9002を取得し運営をしております。",
+    "url": "https://www.atengineer.com/pr/kinzoku-giken/company",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研 (株)の会社概要 | マイナビ2028メタル技研株式会社金属技研株式会社 事業紹介 金属技研 | イプロスものづくり数字で見る金属技研｜同種・異種金属の接合、積層造形など、金属に関... — 金属技研 (株)の会社概要ページです。 マイナビ2028は、インターンシップ＆キャリア、前年の採用データ、エントリー情報を公開しており、自己分析や企業研究、皆さんの就職活動をサポートします。 COMPANY 会社情報 メタル技研株式会社は、群馬県太田市で2011年の創業以来、数々の実績で培った金属工事のノウハウと、ネットワークでお客様のご希望に合わせて、より良いご提案をさせていただいております。 まずはお気軽にご相談ください。 Feb 2, 2021 · 金属技研株式会社は、熱処理・焼結などの金属加工を行っている会社です。 一貫した受注生産・高度な品質保証システムや先端技術で、液晶・半導体分",
+    "url": "https://job.mynavi.jp/28/pc/search/corp221386/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研株式会社 事業紹介 金属技研 | イプロスものづくり — Feb 2, 2021 · 金属技研株式会社は、熱処理・焼結などの金属加工を行っている会社です。 一貫した受注生産・高度な品質保証システムや先端技術で、液晶・半導体分野から航空･宇宙分野まで、あらゆるジャンルにおいて高度な金属接合技術をご提供いたします。",
+    "url": "https://mono.ipros.com/product/detail/2000305133/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ｜同種・異種金属の接合、積層造形など、金属に関する受... — お問い合わせ｜金属技研株式会社では、熱処理、HIP処理、焼結など、あらゆる分野においてトップレベルの金属加工技術および各種構造物の設計・製作技術を提供しています。",
+    "url": "https://www.kinzoku.co.jp/contacts/contact-all.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ一覧｜同種・異種金属の接合、積層造形など、金属に関す... — お問い合わせ一覧｜金属技研株式会社では、熱処理、HIP処理、焼結など、あらゆる分野においてトップレベルの金属加工技術および各種構造物の設計・製作技術を提供しています。",
+    "url": "https://www.kinzoku.co.jp/contacts.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "金属技研株式会社 Metal Technology (@MetalTechJapan) / X 金属技研㈱の公式アカウントです😊 HIP処理、熱処理、接合、ろう付け、機械加工、解析分析、金属積層造形などモノづくりの上流から下流まで対応します🚀 Japanese forefront metal solutions company. Available in English. お問い合わせなどは会社HPから👇",
+    "url": "https://x.com/metaltechjapan",
+    "pass": 3
+   },
+   {
+    "quote": "会社パンフレットをリニューアルしました 金属技研が大切にしている考... 金属技研株式会社 Metal Technology (@MetalTechJapan). 125 views. 会社パンフレットをリニューアルしました 金属技研が大切にしている考え方や、 対応技術・一貫生産体制を、これまで以上にわかりやすくまとめています。 「どんな会社なのかを短時間で把握したい」 「金属技術の対応領域を知りたい ...",
+    "url": "https://x.com/MetalTechJapan/status/2032291306727256100",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研株式会社 Metal Technology (@MetalTechJapan) on X 【技術紹介】 HIP（Hot Isostatic Pressing）は、高温 × 高圧ガスで材料を全方向から均一に加圧する熱処理プロセス。 内部欠陥の除去や緻密化、拡散接合に使われ、高信頼部品の必須技術に。 弊社では、世界一サイズが大きいHIP炉を所有しております #金属技研 #HIP #熱処理 #拡散接合",
+    "url": "https://x.com/MetalTechJapan/status/2034102499255456148",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研株式会社 Metal Technology 金属技研株式会社 Metal Technology (@MetalTechJapan). 104 views. 📢展示会出展のお知らせ 「インターモールド名古屋」に出展します！ AM・SPFサンプルを展示予定。 当日はスタッフがブース対応します🙌 日程：5/20–22 会場：ポートメッセなごや ブース： No.1-112（まんてんプロジェクト内⑦） 事前登録は ...",
+    "url": "https://x.com/MetalTechJapan/status/2054779213316825279",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研株式会社 Metal Technology on X: \"授賞式の様子も頂きました... Sep 6, 2023 · 金属技研株式会社 Metal Technology on X: \"授賞式の様子も頂きました！いい笑顔ですね😄 👏\" 金属技研株式会社 Metal Technology @MetalTechJapan Sep 6, 2023 金属技研と都立大学の学生さんで行っている研究プロジェクト演習（PBL）で、学生さんが考案したスマホケース「涼風」をうちの樹脂＆金属3Dプリンター ...",
+    "url": "https://x.com/MetalTechJapan/status/1699340945807094029",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "吉田 昌弘 - 金属技研株式会社 - 次長 | LinkedInMinoru Ueda - 金属技研株式会社 | LinkedInMetal Technology Co. Ltd. | LinkedInMetal Technology Co. Ltd. on LinkedIn: 第11回ウェブセミナーご案内Takao Fujikawa - 金属技研㈱ - 取締役技術本部長 | LinkedIn 金属技研株式会社 - 次長 · 職歴: 金属技研株式会社 · 学歴: 東京工業大学 · 場所: 広域東京エリア · LinkedInのつながり12人。10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで吉田 昌弘さんのプロフィールを閲覧しましょう。 金属技研株式会社 · TRAFAM (次世代3D積層造形技術総合開発機構) ユーザー会 世話役 · 職歴: 金属技研株式会社",
+    "url": "https://jp.linkedin.com/in/昌弘-吉田-35342a190",
+    "pass": 3
+   },
+   {
+    "quote": "Minoru Ueda - 金属技研株式会社 | LinkedIn 金属技研株式会社 · TRAFAM (次世代3D積層造形技術総合開発機構) ユーザー会 世話役 · 職歴: 金属技研株式会社 · 場所: 日本 · LinkedInのつながり3人。10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInでMinoru Uedaさんのプロフィールを閲覧しましょう。",
+    "url": "https://jp.linkedin.com/in/minoru-ueda-490b40151",
+    "pass": 3
+   },
+   {
+    "quote": "Metal Technology Co. Ltd. on LinkedIn: 第11回ウェブセミナーご案内 約3年ぶりに「金属積層造形（AM）」に関するウェビナーを実施します！ タイトルはずばり【それ、積層造形でできるかも！？～金属技研がやって ...",
+    "url": "https://www.linkedin.com/posts/metal-technology-corporation-ltd._第11回ウェブセミナーご案内-activity-7100374028560859138-W-MJ",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ｜同種・異種金属の接合、積層造形など、金属に関する受... このたび金属技研では、本社オフィスの改装工事を実施いたします。 これに伴い、下記期間中は本社の電話回線（代表電話含む）が不通となります。 電話不通期間 2026年11月21日（土）～12月6日（日） なお、各工場は通常どおり稼働しております。 期間中のお問い合わせにつきましては、お ...",
+    "url": "https://jp.linkedin.com/posts/metal-technology-corporation-ltd._お問い合わせ同種異種金属の接合積層造形など金属に関する受注生産金属技研株式会社-activity-7524125333546164226-R7Fp",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社メカニカル技研＜自動化の総合エンジニアリング＞ | Machida ...Metal Technology Co.LTD (金属技研株式会社) - Facebook金属技研株式会社 - FacebookGIKEN LTD. / 株式会社技研製作所 | Kochi-shi Kochi倉繁歯科技工所 - 神奈川歯科大学さん・金属技研株式会社さんへお邪魔...株式会社ティーアイ技研 - Facebook金属技研株式会社滋賀工場 - Facebook Jul 16, 2024 · 株式会社メカニカル技研＜自動化の総合エンジニアリング＞, Machida. 399 followers · 29 were here. ・FA自動化設備の総合エンジニアリング ・ソフトウェアのシステム開発 Metal Technology Co.LTD (金属技研株式会社) 金属技研株式会社 Oct 9, 202",
+    "url": "https://www.facebook.com/mcgiken/",
+    "pass": 3
+   },
+   {
+    "quote": "Metal Technology Co.LTD (金属技研株式会社) - Facebook Metal Technology Co.LTD (金属技研株式会社)",
+    "url": "https://www.facebook.com/pages/Metal-Technology-CoLTD金属技研株式会社/476644839025308/",
+    "pass": 3
+   },
+   {
+    "quote": "金属技研株式会社 - Facebook 金属技研株式会社",
+    "url": "https://www.facebook.com/金属技研株式会社-222866531058575/",
+    "pass": 3
+   },
+   {
+    "quote": "GIKEN LTD. / 株式会社技研製作所 | Kochi-shi Kochi倉繁歯科技工所 - 神奈川歯科大学さん・金属技研株式会社さんへお邪魔...株式会社ティーアイ技研 - Facebook金属技研株式会社滋賀工場 - Facebook Oct 9, 2026 · GIKEN LTD. / 株式会社技研製作所, Kochi-shi. 1,590 followers · 40 talking about this · 13 were here. GIKEN LTD. / 株式会社技研製作所の公式ページです Apr 23, 2026 · Apr 23 神奈川歯科大学さん・金属技研株式会社さんへお邪魔 してきました🙌 ご対応いただきました神奈川歯科大学: 木本教授・清宮主任、金属技研（株）: Jul 17, 2026 · 株式会社ティーアイ技研. 2 followers. 2022年創業",
+    "url": "https://www.facebook.com/GIKENLTD/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.kinzoku.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/documents/wp-company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/about_mtc.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/flow.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mtc-kinzoku.co.jp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/core_technology/forming.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/case.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/about_mtc/factory.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/about_mtc/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/about_mtc/quality.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/about_mtc/environment_ma.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/about_mtc/engineering.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/news_release/New_Corporate_Value.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/media/special-feature/2026-1112",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/media/seminar/archive-2026-0827",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/documents/wp-HIP-list.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/documents/wp-hotpress-list.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-press-processing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-cutting-processing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-mirror-finish-processing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/media/special-feature/a57",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-titanium-mirror-finish-processing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-3dprinter",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/media/tag/forming",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/media/case",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-hot-press",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/about_mtc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/media/techinfo/metal-processing-types",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/media/techinfo/about-metal-3dprinter",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/case/aerospace01.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.kinzoku.co.jp/dcms_media/other/gunma_plant.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/dcms_media/other/ibaraki_plant%20.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/dcms_media/other/env_kanagawa.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/dcms_media/other/shiga_plant.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/dcms_media/other/himeji_plant.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/dcms_media/image/document-img06.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/dcms_media/image/W.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/dcms_media/image/engineering-03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/dcms_media/image/engineering-04.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/dcms_media/image/engineering-06.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kinzoku.co.jp/dcms_media/image/document-img03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://kayougiken.co.jp/waza/prototype.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zen.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://san-kk.co.jp/technical/item/test/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atengineer.com/pr/kinzoku-giken/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.metal-giken.com/publics/index/3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/metaltechjapan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MetalTechJapan/status/2032291306727256100",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MetalTechJapan/status/2034102499255456148",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MetalTechJapan/status/2054779213316825279",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/昌弘-吉田-35342a190",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/minoru-ueda-490b40151",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/metal-technology-corporation-ltd._第11回ウェブセミナーご案内-activity-7100374028560859138-W-MJ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mcgiken/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/Metal-Technology-CoLTD金属技研株式会社/476644839025308/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/金属技研株式会社-222866531058575/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/GIKENLTD/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/metaltechjapan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MetalTechJapan/status/1699340945807094029",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/posts/metal-technology-corporation-ltd._お問い合わせ同種異種金属の接合積層造形など金属に関する受注生産金属技研株式会社-activity-7524125333546164226-R7Fp",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "金属技研 取扱製品 試作 小ロット",
+   "results": [
+    "https://kayougiken.co.jp/waza/prototype.html",
+    "https://www.zen.co.jp/",
+    "https://san-kk.co.jp/technical/item/test/",
+    "https://morpha.co.jp/work/precision/",
+    "https://www.h-k-k.co.jp/prototype/",
+    "https://www.tsukasagiken.co.jp/products.html",
+    "https://www.tsukasagiken.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "金属技研 会社概要 事業内容",
+   "results": [
+    "https://www.kinzoku.co.jp/about_mtc.html",
+    "https://www.kinzoku.co.jp/",
+    "https://www.atengineer.com/pr/kinzoku-giken/company",
+    "https://job.mynavi.jp/28/pc/search/corp221386/outline.html",
+    "https://mono.ipros.com/product/detail/2000305133/",
+    "https://www.mtc-kinzoku.co.jp/number/",
+    "https://metalgiken.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "金属技研 お問い合わせ メール",
+   "results": [
+    "https://www.kinzoku.co.jp/contacts/contact-all.html",
+    "https://www.kinzoku.co.jp/contacts.html",
+    "http://www.metal-giken.com/publics/index/3",
+    "https://gi-ken.jp/contact/",
+    "https://www.gkn-kk.co.jp/contact/",
+    "http://www.gikenn.co.jp/contact.html",
+    "https://www.jmtc.co.jp/contact/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 金属技研",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com 金属技研",
+   "results": [
+    "https://x.com/metaltechjapan",
+    "https://x.com/MetalTechJapan/status/2032291306727256100",
+    "https://x.com/MetalTechJapan/status/2034102499255456148",
+    "https://x.com/MetalTechJapan/status/2054779213316825279",
+    "https://x.com/MetalTechJapan/status/2077589036743430410",
+    "https://x.com/MetalTechJapan/status/2044612456312615266",
+    "https://x.com/MetalTechJapan/status/2042075032986513811"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 金属技研",
+   "results": [
+    "https://www.linkedin.com/company/metal-technology-corporation-ltd.",
+    "https://jp.linkedin.com/in/昌弘-吉田-35342a190",
+    "https://jp.linkedin.com/in/minoru-ueda-490b40151",
+    "https://www.linkedin.com/posts/metal-technology-corporation-ltd._第11回ウェブセミナーご案内-activity-7100374028560859138-W-MJ",
+    "https://jp.linkedin.com/in/takao-fujikawa-289a7649",
+    "https://se.linkedin.com/company/metal-technology-corporation-ltd.",
+    "https://cn.linkedin.com/company/metal-technology-corporation-ltd."
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 金属技研",
+   "results": [
+    "https://www.facebook.com/mcgiken/",
+    "https://www.facebook.com/pages/Metal-Technology-CoLTD金属技研株式会社/476644839025308/",
+    "https://www.facebook.com/金属技研株式会社-222866531058575/",
+    "https://www.facebook.com/GIKENLTD/",
+    "https://www.facebook.com/lab.kura/posts/神奈川歯科大学さん金属技研株式会社さんへお邪魔してきましたご対応いただきました神奈川歯科大学木本教授清宮主任金属技研株増尾課長ありがとうございました同行いただい/1580651277398137/",
+    "https://www.facebook.com/金属技研株式会社滋賀工場-692457387458404/",
+    "https://www.facebook.com/p/株式会社ティーアイ技研-100088129726758/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "金属技研 note 社長",
+   "results": [
+    "https://www.kinzoku.co.jp/",
+    "https://compalyze.co.jp/company/4011201010452",
+    "https://cir.nii.ac.jp/crid/1521417755416471552",
+    "https://newswitch.jp/p/50014",
+    "https://www.kinzoku.co.jp/news_release/change-of-president.html",
+    "https://www.mtc-kinzoku.co.jp/culture/crosstalk/",
+    "https://www.ulvac.co.jp/news/upload/ULVAC_067J_1.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "金属技研 X 投稿",
+   "results": [
+    "https://x.com/metaltechjapan",
+    "https://x.com/MetalTechJapan/status/1699340945807094029",
+    "https://www.kinzoku.co.jp/",
+    "https://jp.linkedin.com/posts/metal-technology-corporation-ltd._お問い合わせ同種異種金属の接合積層造形など金属に関する受注生産金属技研株式会社-activity-7524125333546164226-R7Fp",
+    "https://www.giken.com/ja/news/notices/notice_20240517/",
+    "http://www.metal-giken.com/",
+    "https://www.kinzoku.co.jp/en.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式30頁／PDF・画像11件／外部19頁・検索9回）",
+  "代表者": "記載なし（3回確認済み：公式30頁／PDF・画像11件／外部19頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式30頁／PDF・画像11件／外部19頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式30頁／PDF・画像11件／外部19頁・検索9回）"
+ }
+}

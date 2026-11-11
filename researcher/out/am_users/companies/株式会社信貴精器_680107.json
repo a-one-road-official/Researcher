@@ -1,0 +1,603 @@
+{
+ "name": "株式会社信貴精器",
+ "aliases": [],
+ "context": "ipros_all:少量",
+ "researched_at": "2026-11-11T13:23:12.218495+00:00",
+ "official_url": "http://sigiseiki.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "本社、本社工場：大阪府八尾市上尾町4-1-3 本社第二工場：大阪府八尾市上尾町5-1-33 テクノセンター：大阪府八尾市上尾町4-1-6 高知工場：高知県宿毛市平田町戸内字扇3433-1 高知営業所 佐賀営業所",
+    "url": "https://sigiseiki.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81%E3%83%BB%E6%B2%BF%E9%9D%A9/",
+    "pass": 1
+   },
+   {
+    "label": "本社、本社工場",
+    "value": "大阪府八尾市上尾町4-1-3",
+    "url": "https://sigiseiki.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81%E3%83%BB%E6%B2%BF%E9%9D%A9/",
+    "pass": 1
+   },
+   {
+    "label": "本社第二工場",
+    "value": "大阪府八尾市上尾町5-1-33",
+    "url": "https://sigiseiki.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81%E3%83%BB%E6%B2%BF%E9%9D%A9/",
+    "pass": 1
+   },
+   {
+    "label": "本社工場",
+    "value": "主要設備一覧",
+    "url": "https://sigiseiki.jp/%E8%A8%AD%E5%82%99%E4%B8%80%E8%A6%A7/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　長澤 宏之",
+    "url": "https://sigiseiki.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81%E3%83%BB%E6%B2%BF%E9%9D%A9/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "85名",
+    "url": "https://sigiseiki.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81%E3%83%BB%E6%B2%BF%E9%9D%A9/",
+    "pass": 1
+   }
+  ],
+  "拠点": [
+   {
+    "label": "高知工場",
+    "value": "高知県宿毛市平田町戸内字扇3433-1",
+    "url": "https://sigiseiki.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81%E3%83%BB%E6%B2%BF%E9%9D%A9/",
+    "pass": 1
+   },
+   {
+    "label": "第二工場",
+    "value": "主要設備一覧",
+    "url": "https://sigiseiki.jp/%E8%A8%AD%E5%82%99%E4%B8%80%E8%A6%A7/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "最新鋭の充実した設備と定評ある技術力を集中させ、少量多品種生産を得意としており、確かな技術力と信頼性の高い製品をお届けいたします",
+    "url": "https://sigiseiki.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "情報通信機器、半導体部品、自動車部品や様々な治具など、安全性と精度を要求される難易度の高い製品にも積極的に取り組んでいます",
+    "url": "https://sigiseiki.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "必要に応じてクラス1000のクリーンルームも設備していますので、高い品質とクリーン度が要求される製品にも対応できる環境を整えています",
+    "url": "https://sigiseiki.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "技術・製品 - 株式会社 信貴精器 大阪府 八尾市",
+    "url": "https://ja.nc-net.or.jp/company/71600/product/",
+    "pass": 3
+   },
+   {
+    "quote": "技術・製品情報(1)",
+    "url": "https://ja.nc-net.or.jp/company/71600/product/",
+    "pass": 3
+   },
+   {
+    "quote": "品質管理も厳格で、 すべ て の加工部品や金型にお い て製品測定を実施することにより、確かな品質を保証する",
+    "url": "https://osaka-takumi-monodzukuri.com/wp/wp-content/uploads/2026/07/11066.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ポリウレア樹脂という特殊樹脂を吹き付けるのに適した専用塗布装置とな っ ており、それにより製品の長寿命化を果たす狙いだ",
+    "url": "https://osaka-takumi-monodzukuri.com/wp/wp-content/uploads/2026/07/11066.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "、製品・技術・サービス",
+    "url": "https://www.atengineer.com/pr/sigi0000/company",
+    "pass": 3
+   },
+   {
+    "quote": "各種精密加工、半導体金型の設計製作、半導体装置・装置用消耗部品・各種プラスチック製品等の製造販売を行う",
+    "url": "https://www.atengineer.com/pr/sigi0000/company",
+    "pass": 3
+   },
+   {
+    "quote": "製品・研究開発（建築・土木・プラント・設備）",
+    "url": "https://ja.nc-net.or.jp/company/71600/inquiry/input/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "鉄、ステンレス、アルミ、インバー、インコネル、ハステロイ、ＡＬＮ、シリコン、セラミック",
+    "url": "https://sigiseiki.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "チタン、インバー、インコネルといった難削材を含めた機械加工を行っています",
+    "url": "https://sigiseiki.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、ALN、シリコン、セラミックといった新素材の加工も行っています",
+    "url": "https://sigiseiki.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金型の製造から樹脂成形まで一貫して行っています",
+    "url": "https://sigiseiki.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂加工も手がけ、金型の設計から製造・加工までを 一 貫して行 い 、顧客から のど のような注文にも応えるという姿勢を貫いている",
+    "url": "https://osaka-takumi-monodzukuri.com/wp/wp-content/uploads/2026/07/11066.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "り、その 一 つに樹脂会社との連携で開発した「特殊樹脂専用塗布装置」がある",
+    "url": "https://osaka-takumi-monodzukuri.com/wp/wp-content/uploads/2026/07/11066.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ポリウレア樹脂という特殊樹脂を吹き付けるのに適した専用塗布装置とな っ ており、それにより製品の長寿命化を果たす狙いだ",
+    "url": "https://osaka-takumi-monodzukuri.com/wp/wp-content/uploads/2026/07/11066.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "各種精密金属加工、 樹脂の",
+    "url": "https://osaka-takumi-monodzukuri.com/wp/wp-content/uploads/2026/07/11066.pdf",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "最新鋭の充実した設備と定評ある技術力を集中させ、少量多品種生産を得意としており、確かな技術力と信頼性の高い製品をお届けいたします",
+    "url": "https://sigiseiki.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "試作においては、工法提案を含めた設計段階からの試作づくりも手掛けています",
+    "url": "https://sigiseiki.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "試作時だけの精度保証ではなく、まとまった数量・量産時にも安定した品質と精度を確保する信頼性の高いモノづくりを行っています",
+    "url": "https://sigiseiki.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "機械加工で行った試作から、金型の設計・製作を含む量産までトータルで製造できる環境を整えています",
+    "url": "https://sigiseiki.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "工法提案を含めた設計や試作品づくりから部品加工、 組立までの 一 貫生産体制を敷き、短納期化に成功していることが特徴だ",
+    "url": "https://osaka-takumi-monodzukuri.com/wp/wp-content/uploads/2026/07/11066.pdf",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "情報通信機器、半導体、自動車部品",
+    "url": "https://sigiseiki.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "情報通信機器をはじめ、高精密レンズ、ＩＣチップ、自動車の電装部品、半導体など精度と安全性を求められる部品に関連する様々な治具を数多く製作しています",
+    "url": "https://sigiseiki.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "情報通信機器、半導体部品、自動車部品や様々な治具など、安全性と精度を要求される難易度の高い製品にも積極的に取り組んでいます",
+    "url": "https://sigiseiki.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "マシニング加工をはじめ、ワイヤーカット、放電加工、精密治具ボーラーでの超精密加工を行っています",
+    "url": "https://sigiseiki.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金型の製造から樹脂成形まで一貫して行っています",
+    "url": "https://sigiseiki.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "工場内も恒温管理されており、厳しい品質管理のもと高精度・高品質の金型を製造しています",
+    "url": "https://sigiseiki.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "機械加工で行った試作から、金型の設計・製作を含む量産までトータルで製造できる環境を整えています",
+    "url": "https://sigiseiki.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "使い捨てガスライタープラスチック金型設計製作プレス、金型設計製作、機械販売",
+    "url": "https://sigiseiki.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81%E3%83%BB%E6%B2%BF%E9%9D%A9/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体金型、装置、製造着手",
+    "url": "https://sigiseiki.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81%E3%83%BB%E6%B2%BF%E9%9D%A9/",
+    "pass": 1
+   },
+   {
+    "quote": "「信貴精器」は自動車の電装部品や、電子部品製造装置向け部品など、さまざまな分野の精密加工で実績を積んできた企業",
+    "url": "https://osaka-takumi-monodzukuri.com/wp/wp-content/uploads/2026/07/11066.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂加工も手がけ、金型の設計から製造・加工までを 一 貫して行 い 、顧客から のど のような注文にも応えるという姿勢を貫いている",
+    "url": "https://osaka-takumi-monodzukuri.com/wp/wp-content/uploads/2026/07/11066.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "品質管理も厳格で、 すべ て の加工部品や金型にお い て製品測定を実施することにより、確かな品質を保証する",
+    "url": "https://osaka-takumi-monodzukuri.com/wp/wp-content/uploads/2026/07/11066.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "各種精密加工、半導体金型の設計製作、半導体装置・装置用消耗部品・各種プラスチック製品等の製造販売を行う",
+    "url": "https://www.atengineer.com/pr/sigi0000/company",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "でのお問い合わせ（メール送信のお電話いただけるとありがたいです",
+    "url": "https://sigiseiki.jp/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ - 株式会社 信貴精器 大阪府 八尾市",
+    "url": "https://ja.nc-net.or.jp/company/71600/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "当社からの連絡に必要な電子メールアドレスを用意してそのアドレスを当社に対して登録すること",
+    "url": "https://ja.nc-net.or.jp/company/71600/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、会員に対し、会員が登録情報として提供した電子メールアドレス宛に電子メールにより随時必要な事項の通知または連絡を行うものとします",
+    "url": "https://ja.nc-net.or.jp/company/71600/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "かかる連絡は、通常電子メールが到達する期間が経過した時に会員に到達したものとします",
+    "url": "https://ja.nc-net.or.jp/company/71600/inquiry/input/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "旋盤 YAM550",
+    "url": "https://sigiseiki.jp/%E8%A8%AD%E5%82%99%E4%B8%80%E8%A6%A7/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "技術・製品 - 株式会社 信貴精器 大阪府 八尾市 — May 27, 2021 · 株式会社 信貴精器 最終更新日: 2021-05-27 基本情報 設 備 技術・製品 沿革・理念・品質規格 地図・拠点 技術・製品情報 (1) 全て (1) : 動画有 1-1 件表示 / 1 件",
+    "url": "https://ja.nc-net.or.jp/company/71600/product/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 信貴精器 — 「信貴精器」は自動車の電装部品や、電子部品製造装置向け部品など、さまざまな分野の精密加工で実績を積んできた企業。 工法提案を含めた設計や試作品づくりから部品加工、組立までの一貫生産体制を敷き、短納期化に成功していることが特徴だ。",
+    "url": "https://osaka-takumi-monodzukuri.com/wp/wp-content/uploads/2026/07/11066.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 信貴精器 | 徹底した品質管理のもと、超精密部品加工から装... — 最新鋭の充実した設備と定評ある技術力を集中させ、少量多品種生産を得意としており、確かな技術力と信頼性の高い製品をお届けいたします。 試作においては、工法提案を含めた設計段階からの試作づくりも手掛けています。",
+    "url": "https://sigiseiki.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "主要品目 | 株式会社 信貴精器 — 最新鋭の充実した設備と定評ある技術力を集中させ、少量多品種生産を得意としており、確かな技術力と信頼性の高い製品をお届けいたします。 試作においては、工法提案を含めた設計段階からの試作づくりも手掛けています。",
+    "url": "https://sigiseiki.jp/主要品目/",
+    "pass": 3
+   },
+   {
+    "quote": "試作を含むワンストップ生産 - 株式会社 信貴精器 — May 27, 2021 · 説明 情報通信機器をはじめ、高精密レンズ、ICチップ、自動車の電装部品、半導体など精度と安全性を求められる製品を数多く製作しています。 最新鋭の充実した設備と定評ある技術力を集中させ、少量多品種生産を得意としております。",
+    "url": "https://ja.nc-net.or.jp/company/71600/product/detail/21048/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 信貴精器 | 徹底した品質管理のもと、超精密部品加工から装... — お問い合わせ 信貴精器 住所 〒581-0851 大阪府八尾市上尾町 4-1-3 代表電話番号 072-997-8355 Contents ホーム 会社概要・沿革 設備一覧 主要品目 品質・環境方針 求人情報 お問い合わせ",
+    "url": "https://sigiseiki.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要・沿革 | 株式会社 信貴精器 — 会社概要 社名株式会社 信貴精器 所在地 本社、本社工場：大阪府八尾市上尾町4-1-3 本社第二工場：大阪府八尾市上尾町5-1-33 テクノセンター：大阪府八尾市上尾町4-1-6 高知工場：高知県宿毛市平田町戸内字扇3433-1 高知営業所 佐賀営業所",
+    "url": "https://sigiseiki.jp/会社概要・沿革/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社信貴精器 - 会社概要 — 株式会社信貴精器の製品・技術・サービス 精密加工 種精密加工 精密プラスチック金型 順送り用金型 トランスファー金型 治具 自動機械 半導体金型パッケージ 半導体金型タイバー 半導体金型フォーミング 半導体金型付属装置 半導体装置 P−CVD装置用消耗部品",
+    "url": "https://www.atengineer.com/pr/sigi0000/company",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社信貴精器（大阪府）の会社概要 | Compalyze — 主要な事業内容としては、各種精密加工、精密プラスチック金型、順送り用金型やトランスファー金型の設計製作、各種治具、各種自動機械の販売、そして使い捨てガスライターやプレス金型を含む各種プラスチック製品の製造販売が挙げられます。",
+    "url": "https://compalyze.co.jp/company/4122001018682",
+    "pass": 3
+   },
+   {
+    "quote": "信貴精器 | 企業情報 | イプロスものづくり株式会社信貴精器 - 精密機器製造業界の会社の企業情報 | Baseconnect株式会社信貴精器 – 八尾ものづくりネット — Aug 1, 2018 · 信貴精器の会社概要 金属/樹脂の精密加工のことなら当社にお任せ下さい 株式会社信貴精器は、情報通信機器をはじめ、高精密レンズ、ICチップ、 自動車の電装部品、半導体など精度と安全性を求められる部品に関連する 様々な治具を数多く製作しています。 精密機器製造業界の会社 サブ業界 機械業界の会社 半導体・半導体関連装置製造業界の会社 金型製造業界の会社 化学業界の会社 樹脂製部品 (プラスチック製部品など)製造業界の会社 株式会社信貴精器：最新鋭の生産設備で精密機械加工部品を提供します。（業種：一般機械器具製造）",
+    "url": "https://mono.ipros.com/company/detail/2071286/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | 株式会社 信貴精器 — お問い合わせお見積り依頼及び業務内容へのご質問などは、こちらからお問い合わせください072-997-8355電話でのお問い合わせはこちらメールでのお問い合わせ（メール送信のお電話いただけるとありがたいです。 ）お気軽にお問い合わせください",
+    "url": "https://sigiseiki.jp/お問い合わせ/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 株式会社 信貴精器 大阪府 八尾市 — 当社からの連絡に必要な電子メールアドレスを用意してそのアドレスを当社に対して登録すること その他、必要に応じて当社の定める入会に関する規約・規則に従うこと 第6条 (契約申込の承諾)",
+    "url": "https://ja.nc-net.or.jp/company/71600/inquiry/input/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "(株)信貴精器 - Facebook (株)信貴精器",
+    "url": "https://www.facebook.com/株信貴精器-441616202549304/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社信貴精器 - Facebook 株式会社信貴精器",
+    "url": "https://www.facebook.com/株式会社信貴精器-1438042876420348/",
+    "pass": 3
+   },
+   {
+    "quote": "Shigeru Mochizuki - Facebook Sep 1, 2026 · 山行ったり海行ったり Digital creator · Shiki-gun, Nagano · 株式会社信貴精器 · 大阪府立東住吉高等学校ファンクラブ All Reels",
+    "url": "https://www.facebook.com/shigeru.mochizuki.71/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://sigiseiki.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sigiseiki.jp/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81%E3%83%BB%E6%B2%BF%E9%9D%A9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sigiseiki.jp/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sigiseiki.jp/%E8%A8%AD%E5%82%99%E4%B8%80%E8%A6%A7/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sigiseiki.jp/%E8%A8%AD%E5%82%99%E4%B8%80%E8%A6%A7/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://sigiseiki.jp/wp-content/uploads/2023/07/e5bd60a674fa9cb0397c70ea6b9ab4e9.pdf",
+    "status": "http_404",
+    "method": "pdf"
+   },
+   {
+    "url": "https://sigiseiki.jp/wp-content/uploads/2023/03/building_kaisya.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.nc-net.or.jp/company/71600/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://osaka-takumi-monodzukuri.com/wp/wp-content/uploads/2026/07/11066.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.atengineer.com/pr/sigi0000/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.nc-net.or.jp/company/71600/inquiry/input/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shinkoseiki.com/contact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/株信貴精器-441616202549304/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/株式会社信貴精器-1438042876420348/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/shigeru.mochizuki.71/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "信貴精器 取扱製品 試作 小ロット",
+   "results": [
+    "https://ja.nc-net.or.jp/company/71600/product/",
+    "https://osaka-takumi-monodzukuri.com/wp/wp-content/uploads/2026/07/11066.pdf",
+    "https://sigiseiki.jp/",
+    "https://sigiseiki.jp/主要品目/",
+    "https://ja.nc-net.or.jp/company/71600/product/detail/21048/",
+    "https://morpha.co.jp/work/precision/",
+    "https://mono.ipros.com/company/detail/2071286/catalog/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "信貴精器 会社概要 事業内容",
+   "results": [
+    "https://sigiseiki.jp/",
+    "https://sigiseiki.jp/会社概要・沿革/",
+    "https://www.atengineer.com/pr/sigi0000/company",
+    "https://compalyze.co.jp/company/4122001018682",
+    "https://mono.ipros.com/company/detail/2071286/",
+    "https://www.yao-mono.jp/company/company-100413/",
+    "https://baseconnect.in/companies/aad648fa-f5f5-438c-8eff-7a3ac06be56d"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "信貴精器 お問い合わせ メール",
+   "results": [
+    "https://sigiseiki.jp/お問い合わせ/",
+    "https://ja.nc-net.or.jp/company/71600/inquiry/input/",
+    "https://shinkoseiki.com/contact",
+    "https://www.shigi-trading.co.jp/contact/",
+    "http://www.u-chuoseiki.co.jp/contact/",
+    "https://www.shigi-sb.co.jp/contact/",
+    "https://sigiseiki.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 信貴精器",
+   "results": [
+    "https://note.com/kogei_co",
+    "https://note.com/kogei_co/n/n2ce55100bf82",
+    "https://note.com/musuhi20210303/all",
+    "https://tales.note.com/usagisan1221/board/threads/t93ysr0wa4max",
+    "https://tales.note.com/sane_jaguar7824/wj5jruv4p2dzr/episodes/esy7v48v05cgb",
+    "https://note.com/chakkun1121/n/n619991f4b26e",
+    "https://note.com/greenlight_world/n/n6dfb7972f272"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 信貴精器",
+   "results": [
+    "https://about.x.com/en",
+    "https://business.x.com/en/advertising",
+    "https://x.com/yokohamabj/status/1797666021316387131",
+    "https://x.com/kusanaginoturug",
+    "https://x.com/hashtag/信貴",
+    "https://x.com/NobutakaTsubota/status/2022467781548237152",
+    "https://x.com/mutsuki6291wiz/status/2101853625433927826"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 信貴精器",
+   "results": [
+    "https://www.linkedin.com/pub/dir/信貴/+",
+    "https://jp.linkedin.com/in/威宏-信貴-813063170",
+    "https://jp.linkedin.com/in/信貴-大松-b2533834b",
+    "https://hk.linkedin.com/in/nickycyau",
+    "https://www.linkedin.com/",
+    "https://tw.linkedin.com/company/honprec",
+    "https://fr.linkedin.com/in/林金敏-ander-46122710b/en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 信貴精器",
+   "results": [
+    "https://www.facebook.com/株信貴精器-441616202549304/",
+    "https://www.facebook.com/株式会社信貴精器-1438042876420348/",
+    "https://www.facebook.com/shigeru.mochizuki.71/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/unitechcomputertw/",
+    "https://www.facebook.com/people/株式会社信貴精密金型製作所/100054503527857/",
+    "https://www.facebook.com/nisinoseiki/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "信貴精器 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/信貴久治",
+    "https://sigiseiki.jp/",
+    "https://sigiseiki.jp/会社概要・沿革/",
+    "https://www.yao-mono.jp/company/company-100413/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://compalyze.co.jp/company/4122001018682",
+    "https://www.pref.osaka.lg.jp/documents/26805/h16kakushin-3.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "信貴精器 X 投稿",
+   "results": [
+    "https://en-hyouban.com/company/10200070572/",
+    "https://www.yao-mono.jp/company/company-100413/",
+    "https://sigiseiki.jp/",
+    "https://sigiseiki.jp/ブログ/",
+    "https://x.com/osugi8943",
+    "https://x.com/hashtag/信貴",
+    "http://www.shigi-sb.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部8頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部8頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部8頁・検索9回）"
+ }
+}

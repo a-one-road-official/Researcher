@@ -1,0 +1,1219 @@
+{
+ "name": "明星電気株式会社 本社(世田谷区用賀)、東北営業所(郡山市)、中部営業所(春日井市)、白河工場(西白河郡泉崎村)",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T13:21:38.484581+00:00",
+ "official_url": "https://meiseidenki.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "従業員数": [
+   {
+    "label": "従　業　員　数",
+    "value": "150名",
+    "url": "https://meiseidenki.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本 社 所 在 地",
+    "value": "東京都世田谷区用賀 2-32-4",
+    "url": "https://meiseidenki.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "愛知県刈谷市相生町１－１－６",
+    "url": "https://meiseidenki.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "158-8525　東京都世田谷区用賀2-32-4",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=2467",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代 表 取 締 役",
+    "value": "半澤 弘次",
+    "url": "https://meiseidenki.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "業　務　内　容",
+    "value": "電気電子部品材料の卸売並びに加工及び組み立て業務 電気電子部品の生産設備・検査装置の設計・製造・卸売業務",
+    "url": "https://meiseidenki.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "業務内容",
+    "value": "■ 東北営業所 〒 963-0209",
+    "url": "https://meiseidenki.co.jp/wordpress/wp-content/themes/meisei/pdf/Company.pdf",
+    "pass": 2
+   }
+  ],
+  "拠点": [
+   {
+    "label": "関　連　会　社",
+    "value": "Meisei Electric Singapore Pte. Ltd. 明星電気（香港）有限公司 上海盟星国際貿易有限公司 Meisei Electric (Thailand) Co.,Ltd. Meisei Electric (Philis.) Corporation Meisei International Trading Co.,Ltd.（Vietnam） 信明ライト工業株式会社",
+    "url": "https://meiseidenki.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "国内拠点",
+    "value": "【本社】世田谷区（東京都）【営業所】郡山市（福島県）東北営業所／春日井市（愛知県）中部営業所【工場】西白河郡泉崎村（福島県）白河工場【子会社】川崎市中原区（神奈川県）信明ライト工業㈱／横浜市鶴見区（神奈川県）㈱工和化成",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=2467",
+    "pass": 3
+   },
+   {
+    "label": "海外拠点",
+    "value": "【工場】CLARK（ﾌｨﾘﾋﾟﾝ）Meisei Electric (Phils.) Corporation【子会社】江蘇省（中国）Shanghai Meisei International Trading Co., Ltd.／香港Meisei Electric (HK) Co., Ltd.／ハノイ（ベトナム）Meisei International Trading Co., Ltd.／バンコック（タイ）Meisei Electric (Thailand) Co., Ltd.／シンガポールMeisei Electric Singapore Pte. Ltd.",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=2467",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "年　商",
+    "value": "34.2億円(2026年3月期)",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=2467",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取扱材料": [
+   {
+    "quote": "今回のリニューアルでは樹脂加工及び事例に...",
+    "url": "https://meiseidenki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "OCA貼り合わせ加工、テープ抜き加工、樹脂加工など加工例の紹介 | 明星電気",
+    "url": "https://meiseidenki.co.jp/meisei-01/",
+    "pass": 1
+   },
+   {
+    "quote": "熱硬化性樹脂・テープにおける多くの加工実績に",
+    "url": "https://meiseidenki.co.jp/meisei-01/",
+    "pass": 1
+   },
+   {
+    "quote": "ベークライト、ガラエポなどの樹脂加工から熱硬化性粘着テープ加工、機能性フィルム・シートの貼り付けや機能性フィルム・OCAの貼り合わせ加工まで豊富な経験があり、試作から量産まで、小ロットから大ロットまで加工事例を多数紹介できます",
+    "url": "https://meiseidenki.co.jp/meisei-01/",
+    "pass": 1
+   },
+   {
+    "quote": "加工時に発生し易い剥がれ防止工程を熱硬化性樹脂の取扱いノウハウにより追加することで数種類のサイズや厚みの異なるポリイミドフィルムの同時抜き加工を可能にする、独自ノウハウを生かし基材レスの粘着材と製品・保護剤を貼り合わせしながら加工するなどの実績があります",
+    "url": "https://meiseidenki.co.jp/meisei-01/",
+    "pass": 1
+   },
+   {
+    "quote": "機能性フィルムや光学系材料と樹脂･ガラスなどの基材との貼り合わせ加工により、車載，各種ディスプレイ等で利用される部品に要求される「飛散防止」「反射防止」「光拡散」「ヒーター」など様々な機能を実現します",
+    "url": "https://meiseidenki.co.jp/meisei-01/",
+    "pass": 1
+   },
+   {
+    "quote": "今回のリニューアルでは樹脂加工及び事例に...",
+    "url": "https://meiseidenki.co.jp/meisei-01/",
+    "pass": 1
+   },
+   {
+    "quote": "今回のリニューアルでは樹脂加工及び事例に...",
+    "url": "https://meiseidenki.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "スマートフォン・車載・医療など各分野における熱硬化性樹脂・テープに対する長年の加工実績とノウハウによるコスト低減提案を行っています",
+    "url": "https://meiseidenki.co.jp/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "TCボード、エポキシガラス(ガラエポ)、シリコンガラス、ベークライトなどの熱硬化性樹脂積層板・成形品や丸棒、パイプの加工でお困りではありませんか？永年にわたるノウハウにより熱硬化性樹脂は勿論、PEEKなどのスーパーエンプラやPOMなどのエンプラに加えその他熱可塑性樹脂・金属を問わず、試作から量産までの多種多様な対応が可能です",
+    "url": "https://meiseidenki.co.jp/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "今回のリニューアルでは樹脂加工及び事例に...",
+    "url": "https://meiseidenki.co.jp/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "熱硬化性樹脂(ガラエポ等)の成形・加工と車載向けメータークラスターパネルをメインに『日本ものづくりワールド２０２１「第25回 機械要素技術展」』にて紹介致します",
+    "url": "https://meiseidenki.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "今回のリニューアルでは樹脂加工及び事例に関する情報を拡充いたしました",
+    "url": "https://meiseidenki.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ベーク、ガラエポ等の熱硬化性樹脂から、スーパーエンプラや汎用プラ等の熱可塑性樹脂まで、樹脂加工に関するご相談は、右のお問い合わせフォームよりお気軽にお聞かせください",
+    "url": "https://meiseidenki.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "熱硬化性樹脂(ガラエポ等)の成形・加工を中心に『日本ものづくりワールド２０２０「第24回 機械要素技術展」』にて紹介致します",
+    "url": "https://meiseidenki.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "今回のリニューアルでは樹脂加工及び事例に...",
+    "url": "https://meiseidenki.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "今回のリニューアルでは樹脂加工及び事例に...",
+    "url": "https://meiseidenki.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "熱硬化性樹脂積層板をプレス機、NCルーターにて加工し",
+    "url": "https://meiseidenki.co.jp/production01_shirakawa/",
+    "pass": 1
+   },
+   {
+    "quote": "フェノール樹脂（ベークライト）積層板、エポキシガラス積層板などの板材加工はお任せください",
+    "url": "https://meiseidenki.co.jp/production01_shirakawa/",
+    "pass": 1
+   },
+   {
+    "quote": "エポキシガラス（ガラエポ）積層板は編み上げたガラス繊維にエポキシ樹脂を含浸、積層させ硬化させた成形材料です",
+    "url": "https://meiseidenki.co.jp/production01_shirakawa/",
+    "pass": 1
+   },
+   {
+    "quote": "フェノール樹脂積層板とは紙若しくは布ベースにフェノール樹脂を含浸、積層させ硬化させた成形材料です",
+    "url": "https://meiseidenki.co.jp/production01_shirakawa/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂加工等を行う第2工場",
+    "url": "https://meiseidenki.co.jp/production01_shirakawa/",
+    "pass": 1
+   },
+   {
+    "quote": "長年にわたり培われた樹脂加工の技術とノウハウを有する人材が対応にあたりますので、粘着テープの積層加工から微細加工までお任せください",
+    "url": "https://meiseidenki.co.jp/production02_shirakawa/",
+    "pass": 1
+   },
+   {
+    "quote": "機能性フィルムには材質、特性、機能などにより多種多様の種類が存在しますが、それらのフィルムは組み合わせにより、さらに新しい機能を持つフィルムになることができます",
+    "url": "https://meiseidenki.co.jp/production02_shirakawa/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂加工における切削加工、プレス加工、成形、曲げ、研磨のことなら | 明星電気",
+    "url": "https://meiseidenki.co.jp/processing-00/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂加工でも、付加価値をつけることができます",
+    "url": "https://meiseidenki.co.jp/processing-00/",
+    "pass": 1
+   },
+   {
+    "quote": "難削材としてのガラエポを始めとし各種熱硬化性樹脂に",
+    "url": "https://meiseidenki.co.jp/processing-00/",
+    "pass": 1
+   },
+   {
+    "quote": "■ 熱硬化性樹脂に長年携わっている経験から生まれる独自ノウハウ",
+    "url": "https://meiseidenki.co.jp/processing-00/",
+    "pass": 1
+   },
+   {
+    "quote": "■ FRPのような難削材からTCボード、スーパーエンプラまで対応",
+    "url": "https://meiseidenki.co.jp/processing-00/",
+    "pass": 1
+   },
+   {
+    "quote": "■ エポキシ樹脂の豊富な取扱経験によるガラエポ、TCボードなどの接着",
+    "url": "https://meiseidenki.co.jp/processing-00/",
+    "pass": 1
+   },
+   {
+    "quote": "明星電気では、熱硬化性樹脂など電気絶縁材料の取り扱いを通じて、重電・社会インフラや産業機械・電子機器など絶縁部品を必要とするお客様のご要望に応えるため、自社工場に加えグループ会社を含む製造ネットワークを構築してまいりました",
+    "url": "https://meiseidenki.co.jp/processing-00/",
+    "pass": 1
+   },
+   {
+    "quote": "京セラ㈱ 日東樹脂工業㈱ TEL： +84-362-722-108",
+    "url": "https://meiseidenki.co.jp/wordpress/wp-content/themes/meisei/pdf/Company.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "スマートフォン・タブレット・ディスプレイ機器・車載部品・ロボット・測定装置・ウェアラブル機器・医療機器・航空・製造装置・パワーエレクトロニクスなどの分野にて材料販売から樹脂加工、テープ・フィルム加工、真空貼り合わせ加工まで常に新たな技術に挑戦しお客様のご要望にお応えしていきます",
+    "url": "https://mono.ipros.com/company/detail/2008145/",
+    "pass": 3
+   },
+   {
+    "quote": "・スーパーエンジニアリングプラスチック（スーパーエンプラ）",
+    "url": "https://mono.ipros.com/company/detail/2008145/",
+    "pass": 3
+   },
+   {
+    "quote": "熱硬化性樹脂(ガラエポ等)の成形・加工を中心に『日本ものづくりワールド２０２０「第24回 機械要素技術展」』にて紹介致します",
+    "url": "https://mono.ipros.com/company/detail/2008145/",
+    "pass": 3
+   },
+   {
+    "quote": "出展内容：熱硬化性樹脂・テープの加工から貼り合わせ加工まで",
+    "url": "https://mono.ipros.com/company/detail/2008145/",
+    "pass": 3
+   },
+   {
+    "quote": "４．GRFP(ガラエポ)の成形・切削加工品(樹脂成形・加工)",
+    "url": "https://mono.ipros.com/company/detail/2008145/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "海外からの部材調達 / 海外工場への部材供給に加え、両面粘着テープ加工や精密プレス加工など白河工場での試作及び小ロット生産後のフィリピン工場への量産移行提案といった材料調達から試作・量産まで「ものづくり」に必要な各フェーズをサポートします",
+    "url": "https://meiseidenki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ベークライト、ガラエポなどの樹脂加工から熱硬化性粘着テープ加工、機能性フィルム・シートの貼り付けや機能性フィルム・OCAの貼り合わせ加工まで豊富な経験があり、試作から量産まで、小ロットから大ロットまで加工事例を多数紹介できます",
+    "url": "https://meiseidenki.co.jp/meisei-01/",
+    "pass": 1
+   },
+   {
+    "quote": "サイズの小さな加工品の同時加工から長尺材の連続加工まで可能であり、短納期要望や小ロットのため初期費用を抑えることが求められる場合に加え試作対応などお客様のお役に立てる提案ができます",
+    "url": "https://meiseidenki.co.jp/meisei-01/",
+    "pass": 1
+   },
+   {
+    "quote": "車載向けには、リブを有する2次曲面パネルへのセンサーの貼り合わせや、メーターへの光学フィルムの貼り合わせ、各種センサー部へのシート貼り合わせなど試作や量産実績が多数あります",
+    "url": "https://meiseidenki.co.jp/meisei-01/",
+    "pass": 1
+   },
+   {
+    "quote": "真空貼り合わせ加工など試作から量産まで | 明星電気",
+    "url": "https://meiseidenki.co.jp/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "曲面構造を持つ意匠パネルに静電容量スイッチを真空環境にて貼り合わせる曲面部真空貼合加工の量産実績があり、お客様と一緒に課題を解決すべく、新しい技術を用いた原理試作への検討・取り組みも可能です",
+    "url": "https://meiseidenki.co.jp/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "モスアイ、ＡＧ、ＡＲなどの特殊フィルムによる反射防止と視認性の向上を目的としたＯＣＡの真空貼り合わせ加工により、分野を問わず試作から量産までの多種多様なニーズへの対応が可能です",
+    "url": "https://meiseidenki.co.jp/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "永年にわたるノウハウにより、ベーク板、ガラスエポキシ積層板、SUS、金属などあらゆる材料に対する高精度な打ち抜き加工を通して、主にFPC分野における補強板やスピーカー・センサー分野における振動板など試作から量産までの多種多様なニーズへの対応が可能です",
+    "url": "https://meiseidenki.co.jp/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "TCボード、エポキシガラス(ガラエポ)、シリコンガラス、ベークライトなどの熱硬化性樹脂積層板・成形品や丸棒、パイプの加工でお困りではありませんか？永年にわたるノウハウにより熱硬化性樹脂は勿論、PEEKなどのスーパーエンプラやPOMなどのエンプラに加えその他熱可塑性樹脂・金属を問わず、試作から量産までの多種多様な対応が可能です",
+    "url": "https://meiseidenki.co.jp/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "概要：自動車部品の「量産・加工・試作」に特化した専門展",
+    "url": "https://meiseidenki.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙から設備等の各分野で機構部品や絶縁部品としてご採用頂いているガラエポの受注生産品、反射低減加工を施した車載向けメータークラスターパネル、モバイル分野を中心に用途があるテープ加工品の展示を予定しております",
+    "url": "https://meiseidenki.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "プレスによる少品種大量生産からルーターによる多品種少量生産まで幅広い製品にお役立ちできます",
+    "url": "https://meiseidenki.co.jp/production01_shirakawa/",
+    "pass": 1
+   },
+   {
+    "quote": "当社には長年にわたり積層板を扱ってきた実績がありますので、材料選択から試作、量産まで安心してお任せください",
+    "url": "https://meiseidenki.co.jp/production01_shirakawa/",
+    "pass": 1
+   },
+   {
+    "quote": "■ 小ロット、短納期への対応",
+    "url": "https://meiseidenki.co.jp/processing-00/",
+    "pass": 1
+   },
+   {
+    "quote": "■ マンドレル(鉄芯)など顧客仕様に合わせた特注品も製作可能",
+    "url": "https://meiseidenki.co.jp/processing-00/",
+    "pass": 1
+   },
+   {
+    "quote": "試作品から量産品までお受けしますので、貼り合わせる案件がございましたらご一報下さい",
+    "url": "https://meiseidenki.co.jp/production03_shirakawa/",
+    "pass": 1
+   },
+   {
+    "quote": "また、グローバルネットワークを活かした海外からの部材調達/海外工場への部材供給に加え、白河工場での試作及び小ロット生産後のフィリピン工場への量産移行提案といった材料調達から試作・量産まで「ものづくり」に必要な各フェーズをサポートします",
+    "url": "https://mono.ipros.com/company/detail/2008145/",
+    "pass": 3
+   },
+   {
+    "quote": "１．GFRP(ガラエポ等)の受注生産品",
+    "url": "https://mono.ipros.com/company/detail/2008145/",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙から設備等の各分野で機構部品や絶縁部品としてご採用頂いているガラエポの受注生産品、反射低減加工を施した車載向けメータークラスターパネル、モバイル分野を中心に用途があるテープ加工品の展示を予定しております",
+    "url": "https://mono.ipros.com/company/detail/2008145/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "【展示会】オートモーティブワールド２０２５「第１１回 自動車部品&加工EXPO」に出展いたします",
+    "url": "https://meiseidenki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【展示会】オートモーティブワールド２０２４「第１０回 自動車部品&加工EXPO」に出展いたします",
+    "url": "https://meiseidenki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【展示会】とうほく・北海道自動車関連技術展示商談会に出展いたします",
+    "url": "https://meiseidenki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は「とうほく・北海道自動車関連技術展...",
+    "url": "https://meiseidenki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【展示会】オートモーティブワールド２０２３「第9回 自動車部品&加工EXPO」に出展いたします",
+    "url": "https://meiseidenki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【展示会】オートモーティブワールド2019「第5回 自動車部品＆加工EXPO」に出展いたします",
+    "url": "https://meiseidenki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "経験を基にした加工ノウハウに加え、長年培ってきた材料選定ノウハウを活かすと共に、必要に応じて治具や装置製作を行うことで、材料調達から加工まで一貫した対応を実現します",
+    "url": "https://meiseidenki.co.jp/meisei-01/",
+    "pass": 1
+   },
+   {
+    "quote": "FRPパイプや丸棒（積層棒）、積層板の成形からミリング・フライス・ねじ切り・穴あけなどの各種加工に長年携わっており、絶縁性や誘電率などの電気特性、摩耗性や寸法安定性などの機械特性に加え耐薬品性などが求められる重電・社会インフラ・航空宇宙から医療機器までの幅広い分野で多くの実績があります",
+    "url": "https://meiseidenki.co.jp/meisei-01/",
+    "pass": 1
+   },
+   {
+    "quote": "ガラエポやポリイミド、テープ付きガラエポで補強板や薄物積層板加工でスマートフォンやデジカメ、医療器具などの部品向けに多くの実績があります",
+    "url": "https://meiseidenki.co.jp/meisei-01/",
+    "pass": 1
+   },
+   {
+    "quote": "機能性フィルム・シートのスリット加工から打ち抜き・貼り合わせをクリーンルーム内で一貫対応することで、スマートフォンやロボット、検査装置、医療機器などで利用される補強板を含む部品に要求される「絶縁」「シールド」「遮熱」「耐薬品性」など様々な機能を実現します",
+    "url": "https://meiseidenki.co.jp/meisei-01/",
+    "pass": 1
+   },
+   {
+    "quote": "【展示会】オートモーティブワールド２０２５「第１１回 自動車部品&加工EXPO」に出展いたします",
+    "url": "https://meiseidenki.co.jp/meisei-01/",
+    "pass": 1
+   },
+   {
+    "quote": "【展示会】オートモーティブワールド２０２４「第１０回 自動車部品&加工EXPO」に出展いたします",
+    "url": "https://meiseidenki.co.jp/meisei-01/",
+    "pass": 1
+   },
+   {
+    "quote": "【展示会】とうほく・北海道自動車関連技術展示商談会に出展いたします",
+    "url": "https://meiseidenki.co.jp/meisei-01/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は「とうほく・北海道自動車関連技術展...",
+    "url": "https://meiseidenki.co.jp/meisei-01/",
+    "pass": 1
+   },
+   {
+    "quote": "【展示会】オートモーティブワールド２０２３「第9回 自動車部品&加工EXPO」に出展いたします",
+    "url": "https://meiseidenki.co.jp/meisei-01/",
+    "pass": 1
+   },
+   {
+    "quote": "【展示会】オートモーティブワールド2019「第5回 自動車部品＆加工EXPO」に出展いたします",
+    "url": "https://meiseidenki.co.jp/meisei-01/",
+    "pass": 1
+   },
+   {
+    "quote": "【展示会】オートモーティブワールド２０２５「第１１回 自動車部品&加工EXPO」に出展いたします",
+    "url": "https://meiseidenki.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "【展示会】オートモーティブワールド２０２４「第１０回 自動車部品&加工EXPO」に出展いたします",
+    "url": "https://meiseidenki.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "【展示会】とうほく・北海道自動車関連技術展示商談会に出展いたします",
+    "url": "https://meiseidenki.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は「とうほく・北海道自動車関連技術展...",
+    "url": "https://meiseidenki.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "【展示会】オートモーティブワールド２０２３「第9回 自動車部品&加工EXPO」に出展いたします",
+    "url": "https://meiseidenki.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "【展示会】オートモーティブワールド2019「第5回 自動車部品＆加工EXPO」に出展いたします",
+    "url": "https://meiseidenki.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "加工に必要な治具の自社開発のみならず、お客様の要望に沿った検査治具・設備の受託開発サービスも行っています",
+    "url": "https://meiseidenki.co.jp/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "スマートフォン・車載・医療など各分野における熱硬化性樹脂・テープに対する長年の加工実績とノウハウによるコスト低減提案を行っています",
+    "url": "https://meiseidenki.co.jp/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の要望に応じた検査治具や装置の受託開発を行っています",
+    "url": "https://meiseidenki.co.jp/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "【展示会】オートモーティブワールド２０２５「第１１回 自動車部品&加工EXPO」に出展いたします",
+    "url": "https://meiseidenki.co.jp/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "【展示会】オートモーティブワールド２０２４「第１０回 自動車部品&加工EXPO」に出展いたします",
+    "url": "https://meiseidenki.co.jp/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "【展示会】とうほく・北海道自動車関連技術展示商談会に出展いたします",
+    "url": "https://meiseidenki.co.jp/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は「とうほく・北海道自動車関連技術展...",
+    "url": "https://meiseidenki.co.jp/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "【展示会】オートモーティブワールド２０２３「第9回 自動車部品&加工EXPO」に出展いたします",
+    "url": "https://meiseidenki.co.jp/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "【展示会】オートモーティブワールド2019「第5回 自動車部品＆加工EXPO」に出展いたします",
+    "url": "https://meiseidenki.co.jp/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "【展示会】オートモーティブワールド２０２５「第１１回 自動車部品&加工EXPO」に出展いたします",
+    "url": "https://meiseidenki.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社はオートモーティブワールド２０２５「第１１回 自動車部品&加工EXPO」に出展いたします",
+    "url": "https://meiseidenki.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "福島県内の自動車関連企業の販路開拓・拡大のため、福島県と県内の自動車関連企業で福島県ブースとして共同出展いたします",
+    "url": "https://meiseidenki.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "次世代自動車をはじめ、自動車部品や加工技術・製品を各社でご提案いたします",
+    "url": "https://meiseidenki.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "展示会名：オートモーティブワールド２０２５「第１１回 自動車部品&加工EXPO」",
+    "url": "https://meiseidenki.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体産業における製造技術、装置、材料をはじめ、車やIoT機器などの半導体を搭載した様々なアプリケーションに関する製品・技術を東北各社で総合的にご提案いたします",
+    "url": "https://meiseidenki.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "【展示会】オートモーティブワールド２０２４「第１０回 自動車部品&加工EXPO」に出展いたします",
+    "url": "https://meiseidenki.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社はオートモーティブワールド２０２４「第１０回 自動車部品&加工EXPO」に出展いたします",
+    "url": "https://meiseidenki.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "展示会名：オートモーティブワールド２０２４「第１０回 自動車部品&加工EXPO」",
+    "url": "https://meiseidenki.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "世界中の自動車メーカー・部品メーカーとサプライヤーとの技術相談・商談の場として開催",
+    "url": "https://meiseidenki.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "【展示会】とうほく・北海道自動車関連技術展示商談会に出展いたします",
+    "url": "https://meiseidenki.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は「とうほく・北海道自動車関連技術展示商談会」に出展いたします",
+    "url": "https://meiseidenki.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "展示会名：とうほく・北海道自動車関連技術展示商談会",
+    "url": "https://meiseidenki.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "概要：北海道・東北・新潟県の地元企業や団体が、トヨタグループをはじめとする東海地方の自動車関連企業に向けて、最新技術を提案する展示商談会",
+    "url": "https://meiseidenki.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "主催：とうほく自動車産業集積連携会議、北海道自動車産業集積促進協議会",
+    "url": "https://meiseidenki.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "【展示会】オートモーティブワールド２０２３「第9回 自動車部品&加工EXPO」に出展いたします",
+    "url": "https://meiseidenki.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社はオートモーティブワールド２０２３「第9回 自動車部品&加工EXPO」に出展いたします",
+    "url": "https://meiseidenki.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "展示会名：オートモーティブワールド２０２３「第9回 自動車部品&加工EXPO」",
+    "url": "https://meiseidenki.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "概要：自動車部品の「量産・加工・試作」に特化した専門展",
+    "url": "https://meiseidenki.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙から設備等の各分野で機構部品や絶縁部品としてご採用頂いているガラエポの受注生産品、反射低減加工を施した車載向けメータークラスターパネル、モバイル分野を中心に用途があるテープ加工品の展示を予定しております",
+    "url": "https://meiseidenki.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "【展示会】オートモーティブワールド2019「第5回 自動車部品＆加工EXPO」に出展いたします",
+    "url": "https://meiseidenki.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "真空貼合技術の加工事例を『オートモーティブワールド2019「第5回 自動車部品＆加工EXPO」』にて紹介致します",
+    "url": "https://meiseidenki.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は「とうほく・北海道自動車関連技術展...",
+    "url": "https://meiseidenki.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "【展示会】オートモーティブワールド２０２５「第１１回 自動車部品&加工EXPO」に出展いたします",
+    "url": "https://meiseidenki.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "【展示会】オートモーティブワールド２０２４「第１０回 自動車部品&加工EXPO」に出展いたします",
+    "url": "https://meiseidenki.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "【展示会】とうほく・北海道自動車関連技術展示商談会に出展いたします",
+    "url": "https://meiseidenki.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は「とうほく・北海道自動車関連技術展...",
+    "url": "https://meiseidenki.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "【展示会】オートモーティブワールド２０２３「第9回 自動車部品&加工EXPO」に出展いたします",
+    "url": "https://meiseidenki.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "【展示会】オートモーティブワールド2019「第5回 自動車部品＆加工EXPO」に出展いたします",
+    "url": "https://meiseidenki.co.jp/recruit/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "お問い合せ・ご相談はメールでも承っております",
+    "url": "https://meiseidenki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "尚、ご都合が悪くご来場できない方は、右の「お問い合わせフォーム」よりお気軽にご連絡下さい",
+    "url": "https://meiseidenki.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "尚、ご都合が悪くご来場できない方は、右の「お問い合わせフォーム」よりご要望をお聞かせください",
+    "url": "https://meiseidenki.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "ベーク、ガラエポ等の熱硬化性樹脂から、スーパーエンプラや汎用プラ等の熱可塑性樹脂まで、樹脂加工に関するご相談は、右のお問い合わせフォームよりお気軽にお聞かせください",
+    "url": "https://meiseidenki.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "E-mail: info@meiseidenki.co.jp",
+    "url": "https://meiseidenki.co.jp/wordpress/wp-content/themes/meisei/pdf/Company.pdf",
+    "pass": 2
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "加工時に発生し易い剥がれ防止工程を熱硬化性樹脂の取扱いノウハウにより追加することで数種類のサイズや厚みの異なるポリイミドフィルムの同時抜き加工を可能にする、独自ノウハウを生かし基材レスの粘着材と製品・保護剤を貼り合わせしながら加工するなどの実績があります",
+    "url": "https://meiseidenki.co.jp/meisei-01/",
+    "pass": 1
+   },
+   {
+    "quote": "次世代自動車をはじめ、自動車部品や加工技術・製品を各社でご提案いたします",
+    "url": "https://meiseidenki.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "※昨年の初展示の際に大変反響のありました上記製品をメインとした展示を予定しております",
+    "url": "https://meiseidenki.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体産業における製造技術、装置、材料をはじめ、車やIoT機器などの半導体を搭載した様々なアプリケーションに関する製品・技術を東北各社で総合的にご提案いたします",
+    "url": "https://meiseidenki.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "尚、下記の画像は今回出展した製品の画像になります",
+    "url": "https://meiseidenki.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "プレスによる少品種大量生産からルーターによる多品種少量生産まで幅広い製品にお役立ちできます",
+    "url": "https://meiseidenki.co.jp/production01_shirakawa/",
+    "pass": 1
+   },
+   {
+    "quote": "強度、難燃性、低導電率に優れていて薄い製品に適しています",
+    "url": "https://meiseidenki.co.jp/production01_shirakawa/",
+    "pass": 1
+   },
+   {
+    "quote": "また、製造したテープをご指定の資材、製品に貼り合わせる事も可能です",
+    "url": "https://meiseidenki.co.jp/production02_shirakawa/",
+    "pass": 1
+   },
+   {
+    "quote": "曲面やリブ等の突起物がある製品への貼り合わせ実績も多数あります",
+    "url": "https://meiseidenki.co.jp/production03_shirakawa/",
+    "pass": 1
+   },
+   {
+    "quote": "高性能HEPAフィルターで清浄な環境が保たれている専用のクリーンルームの中で貼り合わせ加工から検査までを一貫して行っていますので、安定した品質で製品の供給が可能です",
+    "url": "https://meiseidenki.co.jp/production03_shirakawa/",
+    "pass": 1
+   },
+   {
+    "quote": "ワンストップソリューションによる高品質製品にご期待ください",
+    "url": "https://meiseidenki.co.jp/production04_shirakawa/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様よりお預かりました製品やデータを基に最適な治具、装置をご提案致します",
+    "url": "https://meiseidenki.co.jp/production04_shirakawa/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス(91)",
+    "url": "https://mono.ipros.com/company/detail/2008145/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (91)",
+    "url": "https://mono.ipros.com/company/detail/2008145/",
+    "pass": 3
+   },
+   {
+    "quote": "長年の歩みの中で培われた仕入先や外注先との強固な信頼関係を礎に、素材選定から最終製品の具体化まで、顧客のあらゆる要望に高い次元で応える「統合力」を備えている点が最大の強みです",
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=2467",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "Meisei International Trading Co.,Ltd.（Vietnam）",
+    "url": "https://meiseidenki.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ベトナムに 「Meisei International Trading Co.,Ltd.（Vietnam）」 設立",
+    "url": "https://meiseidenki.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "■ ３DCAD/CAMによるデータ確認",
+    "url": "https://meiseidenki.co.jp/processing-00/",
+    "pass": 1
+   },
+   {
+    "quote": "㈱ディ・エム・シー 山一電機㈱ Clarkfield, Pampanga, 2023 PHILIPPINES",
+    "url": "https://meiseidenki.co.jp/wordpress/wp-content/themes/meisei/pdf/Company.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Samsennok, Huay Kwang, Bangkok,",
+    "url": "https://meiseidenki.co.jp/wordpress/wp-content/themes/meisei/pdf/Company.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "㈱カネカ 日光化成㈱ Giang Vo Ward, Hanoi City, VIETNAM",
+    "url": "https://meiseidenki.co.jp/wordpress/wp-content/themes/meisei/pdf/Company.pdf",
+    "pass": 2
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://meiseidenki.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meiseidenki.co.jp/meisei-01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meiseidenki.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meiseidenki.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meiseidenki.co.jp/processing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meiseidenki.co.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meiseidenki.co.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meiseidenki.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meiseidenki.co.jp/processing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meiseidenki.co.jp/processing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meiseidenki.co.jp/production01_shirakawa/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meiseidenki.co.jp/production02_shirakawa/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meiseidenki.co.jp/meisei-01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meiseidenki.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meiseidenki.co.jp/meisei-01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meiseidenki.co.jp/processing-00/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meiseidenki.co.jp/production03_shirakawa/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meiseidenki.co.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meiseidenki.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meiseidenki.co.jp/meisei-01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meiseidenki.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meiseidenki.co.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meiseidenki.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meiseidenki.co.jp/processing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meiseidenki.co.jp/processing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meiseidenki.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meiseidenki.co.jp/meisei-01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meiseidenki.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meiseidenki.co.jp/processing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meiseidenki.co.jp/production04_shirakawa/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://meiseidenki.co.jp/wordpress/wp-content/themes/meisei/pdf/company_profile.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://meiseidenki.co.jp/wordpress/wp-content/themes/meisei/pdf/Company.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://meiseidenki.co.jp/wordpress/wp-content/themes/meisei/images/shirakawa/production1/03-1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://meiseidenki.co.jp/wordpress/wp-content/themes/meisei/images/shirakawa/production1/03-2.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://meiseidenki.co.jp/wordpress/wp-content/themes/meisei/images/shirakawa/production1/03-3.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://meiseidenki.co.jp/wordpress/wp-content/themes/meisei/images/shirakawa/production1/02-1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://meiseidenki.co.jp/wordpress/wp-content/themes/meisei/images/shirakawa/production1/02-2.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://meiseidenki.co.jp/wordpress/wp-content/themes/meisei/images/shirakawa/production1/02-3.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://meiseidenki.co.jp/wordpress/wp-content/themes/meisei/images/shirakawa/production1/01-1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://meiseidenki.co.jp/wordpress/wp-content/themes/meisei/images/shirakawa/production1/01-2.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://meiseidenki.co.jp/wordpress/wp-content/themes/meisei/images/shirakawa/production1/01-3.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://meiseidenki.co.jp/wordpress/wp-content/themes/meisei/images/shirakawa/production2/03-1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://meiseidenki.co.jp/wordpress/wp-content/themes/meisei/images/shirakawa/production2/03-2.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://meiseidenki.co.jp/wordpress/wp-content/themes/meisei/images/shirakawa/production2/03-3.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/company/detail/2008145/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=2467",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2008145/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=2467",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2008145/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sbic.co.jp/investeecompany/detail/index.php?id=2467",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "明星電気 本社(世田谷区用賀)、東北営業所(郡山市)、中部営業所(春日井市)、白河工場(西白河郡泉崎村) 取扱製品 試作 小ロット",
+   "results": [
+    "https://mono.ipros.com/company/detail/2008145/",
+    "https://www.sbic.co.jp/investeecompany/detail/index.php?id=2467",
+    "https://meiseidenki.co.jp/base/",
+    "https://metoree.com/companies/14922/",
+    "https://kando-fukushima.jp/companies/1844/",
+    "https://f-monodukuri.jp/search_detail.html?no=3149",
+    "https://www.meisei.co.jp/aboutus/address",
+    "https://www.shirakawadb.jp/wp-content/uploads/2015/12/161314_pdf-1.pdf",
+    "https://www.r-agent.com/company/93779/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "明星電気 本社(世田谷区用賀)、東北営業所(郡山市)、中部営業所(春日井市)、白河工場(西白河郡泉崎村) 会社概要 事業内容",
+   "results": [
+    "https://mono.ipros.com/company/detail/2008145/",
+    "https://www.sbic.co.jp/investeecompany/detail/index.php?id=2467",
+    "https://meiseidenki.co.jp/base/",
+    "https://metoree.com/companies/14922/",
+    "https://kando-fukushima.jp/companies/1844/",
+    "https://www.meisei.co.jp/aboutus/outline",
+    "https://f-monodukuri.jp/search_detail.html?no=3149",
+    "https://www.r-agent.com/company/93779/",
+    "https://baseconnect.in/branch_offices/2a40aca8-def4-4115-a0d7-1fe1f7e8791d"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "明星電気 本社(世田谷区用賀)、東北営業所(郡山市)、中部営業所(春日井市)、白河工場(西白河郡泉崎村) お問い合わせ メール",
+   "results": [
+    "https://mono.ipros.com/company/detail/2008145/",
+    "https://meiseidenki.co.jp/base/",
+    "https://www.sbic.co.jp/investeecompany/detail/index.php?id=2467",
+    "https://metoree.com/companies/14922/",
+    "https://kando-fukushima.jp/companies/1844/",
+    "https://f-monodukuri.jp/search_detail.html?no=3149",
+    "https://www.meisei.co.jp/aboutus/address",
+    "https://baseconnect.in/branch_offices/7afa9382-3228-4241-8122-1431fee60e3d",
+    "https://www.shirakawadb.jp/wp-content/uploads/2015/12/161314_pdf-1.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:note.com 明星電気 本社(世田谷区用賀)、東北営業所(郡山市)、中部営業所(春日井市)、白河工場(西白河郡泉崎村)",
+   "results": [
+    "https://note.com/inokun/n/n7efa91c9eeb2",
+    "https://note.com/takeshio/n/n92c27003ceac",
+    "https://note.com/nkconsulting/n/n3a2fa838808d",
+    "https://tales.note.com/",
+    "https://note.com/keizokuramoto/n/nef2f6f1c855d",
+    "https://note.com/yuigot/n/n9c28ef45dafa",
+    "https://note.com/ikedanob/n/nc094e82438b1"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 明星電気 本社(世田谷区用賀)、東北営業所(郡山市)、中部営業所(春日井市)、白河工場(西白河郡泉崎村)",
+   "results": [
+    "https://x.com/MEISEI_ad",
+    "https://x.com/",
+    "https://x.com/adrnvic/status/2116339042962833541",
+    "https://x.com/the0nlygirl/status/2116306683760898367",
+    "https://x.com/spaceshark23/status/2117267370959945821",
+    "https://x.com/Breaking911/status/2116983012219040032",
+    "https://x.com/blonddtyler/status/2116733204950352049"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 明星電気 本社(世田谷区用賀)、東北営業所(郡山市)、中部営業所(春日井市)、白河工場(西白河郡泉崎村)",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com 明星電気 本社(世田谷区用賀)、東北営業所(郡山市)、中部営業所(春日井市)、白河工場(西白河郡泉崎村)",
+   "results": [
+    "https://www.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/asdto80kg/",
+    "https://www.facebook.com/p/Ryuya-Yamagishi-100001299954243/",
+    "https://www.facebook.com/RedRocketsBritishLabs/",
+    "https://www.facebook.com/marketplace/item/28724207507164995/",
+    "https://www.facebook.com/marketplace/item/28710015325262439/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "明星電気 本社(世田谷区用賀)、東北営業所(郡山市)、中部営業所(春日井市)、白河工場(西白河郡泉崎村) note 社長",
+   "results": [
+    "https://mono.ipros.com/company/detail/2008145/",
+    "https://meiseidenki.co.jp/base/",
+    "https://www.sbic.co.jp/investeecompany/detail/index.php?id=2467",
+    "https://metoree.com/companies/14922/",
+    "https://kando-fukushima.jp/companies/1844/",
+    "https://f-monodukuri.jp/search_detail.html?no=3149",
+    "https://www.meisei.co.jp/aboutus/outline",
+    "https://baseconnect.in/branch_offices/7afa9382-3228-4241-8122-1431fee60e3d",
+    "https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3015812820/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "明星電気 本社(世田谷区用賀)、東北営業所(郡山市)、中部営業所(春日井市)、白河工場(西白河郡泉崎村) X 投稿",
+   "results": [
+    "https://mono.ipros.com/company/detail/2008145/",
+    "https://meiseidenki.co.jp/base/",
+    "https://www.sbic.co.jp/investeecompany/detail/index.php?id=2467",
+    "https://kando-fukushima.jp/companies/1844/",
+    "https://f-monodukuri.jp/search_detail.html?no=3149",
+    "https://www.meisei.co.jp/aboutus/address",
+    "https://baseconnect.in/branch_offices/7afa9382-3228-4241-8122-1431fee60e3d",
+    "https://doda.jp/DodaFront/View/JobSearchDetail/j_jid__3015812820/",
+    "https://www.r-agent.com/company/93779/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  }
+ ],
+ "missing": {
+  "取引先": "記載なし（3回確認済み：公式30頁／PDF・画像14件／外部6頁・検索9回）"
+ }
+}

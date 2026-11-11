@@ -1,0 +1,1002 @@
+{
+ "name": "Millpondresearch",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜状態なし",
+ "researched_at": "2026-11-11T13:47:40.283538+00:00",
+ "official_url": "https://millpondresearch.com/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2023",
+    "url": "https://craft.co/mill-pond-research",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Reno, NV, US | view all locations",
+    "url": "https://craft.co/mill-pond-research",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Xilos is an AI Gateway. Route every LLM call through intelligent rules. Govern with content filters, PII detection, and full audit trails. Cache semantically to cut costs. WorkBench is the first application on the AI Gateway — an AI-native workspace for documents, spreadsheets, presentations, and agents. Open source version coming soon.",
+    "url": "https://www.millpondresearch.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise go-to-market",
+    "url": "https://www.millpondresearch.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Xilos speaks OpenAI's protocol natively. Any existing client that can set",
+    "url": "https://www.millpondresearch.com/",
+    "pass": 1
+   },
+   {
+    "quote": "can point at Xilos in seconds. No agent rewrites, no new SDKs, no migration projects.",
+    "url": "https://www.millpondresearch.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Works with OpenAI, Anthropic, Google, Meta, 18+ providers",
+    "url": "https://www.millpondresearch.com/",
+    "pass": 1
+   },
+   {
+    "quote": "enterprise AI spend: $1.7B → $37B in two years",
+    "url": "https://www.millpondresearch.com/",
+    "pass": 1
+   },
+   {
+    "quote": "of AI deployments never reach production",
+    "url": "https://www.millpondresearch.com/",
+    "pass": 1
+   },
+   {
+    "quote": "of agentic AI projects per Gartner, due to cost and risk",
+    "url": "https://www.millpondresearch.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Xilos sits between your agents and every LLM provider. One base_url change gives you real-time visibility, governance, and cost control.",
+    "url": "https://www.millpondresearch.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time visibility into token usage by user, department, and routing rule. Behavior-aware governance at the prompt layer. Semantic caching that cuts costs 60-73%. Works with any model — bring your own keys, self-hostable.",
+    "url": "https://www.millpondresearch.com/",
+    "pass": 1
+   },
+   {
+    "quote": "An AI-native workspace for documents, spreadsheets, presentations, and agents. Included with every Xilos account.",
+    "url": "https://www.millpondresearch.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Behavior-based governance understands intent and enforces policy at the prompt layer.",
+    "url": "https://www.millpondresearch.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Modular rule engine with vertical-specific controls for GDPR, HIPAA, and more. Built for audit.",
+    "url": "https://www.millpondresearch.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every competitor solves part of the problem. Xilos solves all of it.",
+    "url": "https://www.millpondresearch.com/",
+    "pass": 1
+   },
+   {
+    "quote": "HiddenLayer, MPR / Xilos",
+    "url": "https://www.millpondresearch.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From fully managed SaaS to air-gapped classified environments — without compromise.",
+    "url": "https://www.millpondresearch.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Xilos hosted by MPR. Zero infrastructure. Sign up, change your base_url, and go.",
+    "url": "https://www.millpondresearch.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Join the Partner Program",
+    "url": "https://www.millpondresearch.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Our Partner Program is an ecosystem program designed for technology vendors, system integrators, and implementation specialists who recognize that the future of enterprise AI is agentic—and that future requires governance.",
+    "url": "https://www.millpondresearch.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Andrew Shimshock, CEO and Co-Founder, leads our engineering teams and drives our technology vision and strategy for our cybersecurity and governance solutions.",
+    "url": "https://www.millpondresearch.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Pete Shimshock, Chief AI Officer and Co-Founder, leads our AI and policies practice, covering our model deployment, compliance and regulation frameworks, and our professional services group.",
+    "url": "https://www.millpondresearch.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Jeff Aboud develops and manages our marketing strategy to drive brand awareness and customer acquisition, as well as to highlight the impact we deliver by deploying effective and secure enterprise AI.",
+    "url": "https://www.millpondresearch.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Brad Garsten manages our technology partner relationships and programs to ensure that our customers benefit from our security and governance ecosystem, across our market verticals",
+    "url": "https://www.millpondresearch.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Zach Golden runs our federal programs and manages relationships with U.S. government entities.",
+    "url": "https://www.millpondresearch.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Empower teams to prototype, test, and deploy agents with professional-grade authoring tools and universal model compatibility.",
+    "url": "https://www.millpondresearch.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Protect private company and customer data with real-time, behavior-based governance that understands intent and enforces policy at the prompt layer.",
+    "url": "https://www.millpondresearch.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Founded in 2023 by brothers Andrew and Pete Shimshock, Mill Pond Research emerged from a vision to empower businesses to build their own AI systems. Challenging \"Big Token\" models, they championed AI that's localized, distributed, and personalized while maintaining privacy and security.",
+    "url": "https://www.millpondresearch.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Founded by brothers Andrew and Pete Shimshock with a vision to empower businesses to build their own AI systems with enterprise-grade control.",
+    "url": "https://www.millpondresearch.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Introduced our AI application layer — the workspace that enables teams to prototype, test, and deploy AI agents with universal model compatibility.",
+    "url": "https://www.millpondresearch.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Discover how Mill Pond Research can help your organization deploy, observe, secure, orchestrate, and control agentic AI at scale—with measurable efficiency, predictable spend, and auditable governance.",
+    "url": "https://www.millpondresearch.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "The comprehensive AI platform that empowers your team with model and token visibility, enabling you to test fast, switch simply, and control costs.",
+    "url": "https://www.millpondresearch.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Support for more than a dozen public models, plus private models",
+    "url": "https://www.millpondresearch.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Unified model access, agents, and prompt assets",
+    "url": "https://www.millpondresearch.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Integrated enterprise workflows",
+    "url": "https://www.millpondresearch.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Crossing the Chasm from Pilot Purgatory to Production AI",
+    "url": "https://www.millpondresearch.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "“Pilot purgatory” is the defining challenge of the modern enterprise AI wave. Organizations are awash in successful proofs-of-concept that never seem to translate into scaled, production-grade capabilities. This disconnect is often because the tools used for experimentation are ill-suited for the rigor of production.",
+    "url": "https://www.millpondresearch.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Beyond Prompting: A Strategic Guide to Building Agentic AI Workflows",
+    "url": "https://www.millpondresearch.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "For many companies, \"Al adoption\" still means deploying internal chatbots.Employees ask questions, the Al retrieves information or drafts content, andthe conversation ends. It's useful. It saves time. But it's fundamentally limited.We're already in the middle of a transition from conversational Al to agenticAI. The difference isn't incremental - it's categorical.",
+    "url": "https://www.millpondresearch.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "From Transient Prompts to Permanent Assets",
+    "url": "https://www.millpondresearch.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "April 2026",
+    "url": "https://www.millpondresearch.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Every time you use external LLMs, you’re building a house on rented land. This whitepaper explores how to transition from transient prompts to permanent assets with a unified authoring platform that turns your AI knowledge into a secure, reusable, and shareable organizational resource.",
+    "url": "https://www.millpondresearch.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Organizations that built around security and govnerance are able to accelerate their AI deployments faster than those that built around specific models. This whitepaper explores how to break the speed limit and streamline the agentic AI lifecycle with unified authoring and orchestration tools that turn weeks of tinkering into days of systematic, production-ready development.",
+    "url": "https://www.millpondresearch.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "The rush to adopt generative AI has triggered a wave of grassroots innovation across the enterprise.",
+    "url": "https://www.millpondresearch.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Identity and Access Management (IAM) is the blind spot in enterprise AI security. This white paper explores how to secure the agentic future with a modern approach to AI governance that goes beyond traditional IAM controls.",
+    "url": "https://www.millpondresearch.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Employees routinely surrender sensitive data to third-party AI systems where it becomes permanently embedded in training models and impossible to retrieve, creating an invisible exposure that traditional security tools cannot track or reverse.",
+    "url": "https://www.millpondresearch.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Mill Pond Research delivers the world's only end-to-end platform for deploying, securing, and orchestrating agentic AI at enterprise scale through Xilos—patented technology that enables CIOs and CISOs to safely harness AI efficiency while protecting proprietary data and ensuring compliance across their networks.",
+    "url": "https://www.millpondresearch.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Why 40 % of agentic-AI projects will be canceled by 2027 and how to build the unified tooling that moves enterprises from pilot purgatory to production at pace.",
+    "url": "https://www.millpondresearch.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Workbench: Mill Pond Research's universal LLM workspace - a frontend for using LLM models, creating agents, writing and sharing prompts, built on your context.",
+    "url": "https://www.millpondresearch.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Comprehensive overview of Mill Pond Research's capabilities, expertise, and proven track record in AI security and orchestration.",
+    "url": "https://www.millpondresearch.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Xilos: The Missing Piece for Secure Enterprise AI in an Agentic World",
+    "url": "https://www.millpondresearch.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "The Unseen Crisis in Enterprise AI Adoption.",
+    "url": "https://www.millpondresearch.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Comprehensive overview of Xilos features, capabilities, and enterprise security solutions for AI orchestration.",
+    "url": "https://www.millpondresearch.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "In the pursuit of understanding artificial intelligence (AI) and its limitations, we must properly frame AI in our collective…",
+    "url": "https://www.millpondresearch.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Why a Single-Model Strategy Will Fail the Enterprise",
+    "url": "https://www.millpondresearch.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "A pragmatic enterprise AI strategy recognizes the simple truth that no single AI model is the best for every task.",
+    "url": "https://www.millpondresearch.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Stop Renting Your AI Intelligence: Turn Prompts into Permanent Assets",
+    "url": "https://www.millpondresearch.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "The problem is, that knowledge exists solely within the specific vendor’s platform. So, when the organization inevitably needs to switch models — whether its due to cost, capability, or policy changes — that intellectual property is effectively trapped.",
+    "url": "https://www.millpondresearch.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "The race for AI adoption is intensifying. You are moving fast - but are you going in the right direction? This blog explores how to streamline the agentic AI lifecycle with unified authoring and orchestration tools that turn weeks of tinkering into days of systematic, production-ready development.",
+    "url": "https://www.millpondresearch.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "CEOs Updated Their 2026 Priorities",
+    "url": "https://www.millpondresearch.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Xilos is an AI Gateway. Route every LLM call through intelligent rules. Govern with content filters, PII detection, and full audit trails. Cache semantically to cut costs. WorkBench is the first application on the AI Gateway — an AI-native workspace for documents, spreadsheets, presentations, and agents. Open source version coming soon.",
+    "url": "https://www.millpondresearch.com/?trk=public_post_main-feed-card-text",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "of employees use unauthorized AI tools you can't see",
+    "url": "https://www.millpondresearch.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every competitor solves part of the problem. Xilos solves all of it.",
+    "url": "https://www.millpondresearch.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Acquired Point Solutions",
+    "url": "https://www.millpondresearch.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Jeff Aboud develops and manages our marketing strategy to drive brand awareness and customer acquisition, as well as to highlight the impact we deliver by deploying effective and secure enterprise AI.",
+    "url": "https://www.millpondresearch.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "For many companies, \"Al adoption\" still means deploying internal chatbots.Employees ask questions, the Al retrieves information or drafts content, andthe conversation ends. It's useful. It saves time. But it's fundamentally limited.We're already in the middle of a transition from conversational Al to agenticAI. The difference isn't incremental - it's categorical.",
+    "url": "https://www.millpondresearch.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Employees routinely surrender sensitive data to third-party AI systems where it becomes permanently embedded in training models and impossible to retrieve, creating an invisible exposure that traditional security tools cannot track or reverse.",
+    "url": "https://www.millpondresearch.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Your Employees Are Already Using AI. The Question Is Whether You Know About It.",
+    "url": "https://www.millpondresearch.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Your employees are already using AI tools you can’t see. The question isn’t whether you have a shadow AI problem — it’s how bad it’s gotten.",
+    "url": "https://www.millpondresearch.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "The arrival of \"Big Token\" AI models has revolutionized enterprise capabilities, enabling unprecedented efficiency and insight extraction…",
+    "url": "https://www.millpondresearch.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "of employees use unauthorized AI tools you can't see",
+    "url": "https://www.millpondresearch.com/?trk=public_post_main-feed-card-text",
+    "pass": 3
+   },
+   {
+    "quote": "Every competitor solves part of the problem. Xilos solves all of it.",
+    "url": "https://www.millpondresearch.com/?trk=public_post_main-feed-card-text",
+    "pass": 3
+   },
+   {
+    "quote": "Acquired Point Solutions",
+    "url": "https://www.millpondresearch.com/?trk=public_post_main-feed-card-text",
+    "pass": 3
+   },
+   {
+    "quote": "Mill Pond Research Company Profile - Office Locations, Competitors, Revenue, Financials, Employees, Key People, Subsidiaries | Craft.co",
+    "url": "https://craft.co/mill-pond-research",
+    "pass": 3
+   },
+   {
+    "quote": "Jeff Aboud develops and manages our marketing strategy to drive brand awareness and customer acquisition, as well as to highlight the impact we deliver by deploying effective and secure enterprise AI.",
+    "url": "https://www.millpondresearch.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "InnoGames saves employees hours each week by empowering them with AI",
+    "url": "https://custom.typingmind.com/case-studies/ask-alpha?ref=typingmind",
+    "pass": 3
+   },
+   {
+    "quote": "Marriott International",
+    "url": "https://www.appsruntheworld.com/customers-database/customers/view/mill-pond-research-united-states",
+    "pass": 3
+   },
+   {
+    "quote": "or identify new suppliers as part of their overall Digital and IT transformation projects to stay competitive, fend off threats from disruptive forces, or comply with internal mandates to improve overall enterprise efficiency.",
+    "url": "https://www.appsruntheworld.com/customers-database/customers/view/mill-pond-research-united-states",
+    "pass": 3
+   },
+   {
+    "quote": "on 2025-04-14. As part of ARTW Buyer Intent and technographics insights, these findings provide useful visibility into the Mill Pond Research digital transformation priorities and AI adoption trends.",
+    "url": "https://www.appsruntheworld.com/customers-database/customers/view/mill-pond-research-united-states",
+    "pass": 3
+   },
+   {
+    "quote": "with around 10 employees and annual revenues of $1.0 million.",
+    "url": "https://www.appsruntheworld.com/customers-database/customers/view/mill-pond-research-united-states",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Join the Partner Program",
+    "url": "https://www.millpondresearch.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Our Partner Program is an ecosystem program designed for technology vendors, system integrators, and implementation specialists who recognize that the future of enterprise AI is agentic—and that future requires governance.",
+    "url": "https://www.millpondresearch.com/partners",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "WorkBench Case Study: Large Online Bank",
+    "url": "https://www.millpondresearch.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace and Defense",
+    "url": "https://craft.co/mill-pond-research",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Mill Pond Research's success story with TypingMind",
+    "url": "https://custom.typingmind.com/case-studies/ask-alpha?ref=typingmind",
+    "pass": 3
+   },
+   {
+    "quote": "Q7. How can I access the full list of applications used by Mill Pond Research?",
+    "url": "https://www.appsruntheworld.com/customers-database/customers/view/mill-pond-research-united-states",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Mill Pond Research — “IBM is excited for our newly formed partnership with Mill Pond Research as their Xilos solution is resonating within the market by addressing the importance of managing shadow AI in the enterprise.",
+    "url": "https://www.millpondresearch.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Resources - Mill Pond Research — Mill Pond Research's comprehensive analysis of the shadow AI crisis, revealing critical enterprise vulnerabilities and introducing Xilos.AI as an integrated governance platform that observes, secures, and orchestrates AI deployments across organizations.",
+    "url": "https://www.millpondresearch.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Mill Pond Research — Mill Pond Research combines WorkBench and Xilos into a single operational and governance control plane. Built to help you create, deploy, observe, secure, orchestrate, and control your entire agentic AI ecosystem.",
+    "url": "https://www.millpondresearch.com/?trk=public_post_main-feed-card-text",
+    "pass": 3
+   },
+   {
+    "quote": "Mill Pond Research — Get Started Ready to take control of your AI future? Get in touch with our team to discover how Mill Pond Research can transform your organization's approach to AI security and orchestration.",
+    "url": "https://www.millpondresearch.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "Mill Pond Research — © 2024-2026 Mill Pond Research, Inc. All rights reserved. Privacy Policy",
+    "url": "https://www.millpondresearch.com/company/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Mill Pond Research — Xilos + watsonx: a powerful combination “IBM is excited for our newly formed partnership with Mill Pond Research as their Xilos solution is resonating within the market by addressing the importance of managing shadow AI in the enterprise. The team is looking forward to augmenting Xilos with our enterprise AI platform, watsonx.” Michael Boodee, US AI Partnership Sales Leader, I",
+    "url": "https://www.millpondresearch.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Mill Pond Research Management Team | Org Chart - RocketReach — Mill Pond Research employs 7 employees. The Mill Pond Research management team includes Christopher Caen (Chief Executive Officer), Jeff Aboud (CMO), and Priya Patel (Technical Product Manager).",
+    "url": "https://rocketreach.co/mill-pond-research-management_b7352410c429af39",
+    "pass": 3
+   },
+   {
+    "quote": "Mill Pond Research Company Profile - Office Locations ... - Craft — Mill Pond Research has 1 employees at their 1 location. See insights on Mill Pond Research including office locations, competitors, revenue, financials, executives, subsidiaries and more at Craft.",
+    "url": "https://craft.co/mill-pond-research",
+    "pass": 3
+   },
+   {
+    "quote": "Mill Pond Research - Crunchbase Company Profile & Funding — AI Infrastructure and Governance Mill Pond Research develops enterprise AI infrastructure that addresses the security, integration, and optimization challenges organizations face when deploying artificial intelligence systems at scale. Founded by Peter and Andrew Shimshock, the company has established a strong foothold in the rapidly expa",
+    "url": "https://www.crunchbase.com/organization/mill-pond-research",
+    "pass": 3
+   },
+   {
+    "quote": "Mill Pond Research — Modular rule engine with vertical-specific controls for GDPR, HIPAA, and more. Built for audit.",
+    "url": "https://www.millpondresearch.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Mill Pond Research — Discover how Mill Pond Research can help your organization deploy, observe, secure, orchestrate, and control agentic AI at scale—with measurable efficiency, predictable spend, and auditable governance.",
+    "url": "https://www.millpondresearch.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Mill Pond Research's success story with TypingMind — Mill Pond Research's innovative use of TypingMind in their Ask Alpha project demonstrates the transformative potential of AI when combined with visionary thinking and strategic implementation.",
+    "url": "https://custom.typingmind.com/case-studies/ask-alpha?ref=typingmind",
+    "pass": 3
+   },
+   {
+    "quote": "Mill Pond Research Technographics - Apps Run The World — Each quarter our research team identifies on-prem and cloud applications that are being used by the 10 Mill Pond Research employees from the public (Press Releases, Customer References, Testimonials, Case Studies and Success Stories) and proprietary sources.",
+    "url": "https://www.appsruntheworld.com/customers-database/customers/view/mill-pond-research-united-states",
+    "pass": 3
+   },
+   {
+    "quote": "Mill Pond Research: $355K Funding & 7 Employees | Mandos — Oct 11, 2026 · Mill Pond Research is a cybersecurity company specializing in AI Security, founded in 2024 and headquartered in Reno, United States. It has raised $355K in equity across 1 priced round, employs about 7 people, and is privately held.",
+    "url": "https://mandos.io/data/companies/mill-pond-research",
+    "pass": 3
+   },
+   {
+    "quote": "Mill Pond Research — Company Profile, Funding & Investors — Mill Pond Research company profile with HQ in Reno, United States, founded 2024. Explore its acquisitions, funding rounds, investors, key people and contacts on Acquirezy — updated 2026.",
+    "url": "https://acquirezy.com/organization/mill-pond-research",
+    "pass": 3
+   },
+   {
+    "quote": "Mill Pond Research - Crunchbase Company Profile & Funding — Founded by Peter and Andrew Shimshock, the company has established a strong foothold in the rapidly expanding enterprise AI space through its dual-product strategy.",
+    "url": "https://www.crunchbase.com/organization/mill-pond-research",
+    "pass": 3
+   },
+   {
+    "quote": "Mill Pond Research Funding - Undisclosed - Reno | VCBacked — Mill Pond Research raised $355K in Undisclosed funding. based in Reno, United States. View funding history, investors & founder contacts.",
+    "url": "https://www.vcbacked.co/company/mill-pond-research",
+    "pass": 3
+   },
+   {
+    "quote": "Mill Pond Research — Founded in 2023 by brothers Andrew and Pete Shimshock, Mill Pond Research emerged from a vision to empower businesses to build their own AI systems. Challenging \"Big Token\" models, they championed AI that's localized, distributed, and personalized while maintaining privacy and security.",
+    "url": "https://www.millpondresearch.com/company/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "for Transactional Email in 2023 and the related IT decision-makers and key stakeholders.",
+    "url": "https://www.appsruntheworld.com/customers-database/customers/view/mill-pond-research-united-states",
+    "pass": 3
+   },
+   {
+    "quote": "covering areas like Collaboration, Tag Management and Transactional Email.",
+    "url": "https://www.appsruntheworld.com/customers-database/customers/view/mill-pond-research-united-states",
+    "pass": 3
+   },
+   {
+    "quote": "Emails, phones & LinkedIn · 41,000+ verified contacts",
+    "url": "https://www.vcbacked.co/company/mill-pond-research",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Watch the full video. - x.com AI Governance & Security for Developers | Mill Pond Research x Auth0 Enterprise AI is moving faster than security can keep up. In this e... www.youtube.com 💬 0 🔄 1 🤍 0",
+    "url": "https://x.com/auth0/status/2051684480587268164",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Mill Pond Research - LinkedIn Secure AI Infrastructure for the Enterprise and Government | Mill Pond Research is an AI infrastructure company that develops private & secure AI solutions for organizations.",
+    "url": "https://www.linkedin.com/company/mill-pond-research",
+    "pass": 3
+   },
+   {
+    "quote": "Andrew Shimshock - Co-Founder of Mill Pond Research ...Millpond - LinkedInPete Shimshock - AI Product & Platform Leader | Patented ...Mill Pond Research's Knowledge Base for AI - LinkedInMill Pond Research on LinkedIn: #thriveai #strategicgrowth # ...Mill Pond Research on LinkedIn: #millpondresearch #askalpha # ... Leading technical and operational strategy for Mill Pond Research, an enterprise AI",
+    "url": "https://www.linkedin.com/in/andrewshimshock",
+    "pass": 3
+   },
+   {
+    "quote": "Pete Shimshock - AI Product & Platform Leader | Patented ...Mill Pond Research's Knowledge Base for AI - LinkedInMill Pond Research on LinkedIn: #thriveai #strategicgrowth # ...Mill Pond Research on LinkedIn: #millpondresearch #askalpha # ... At Mill Pond Research, we're not just building software - we're building organizational intelligence, allowing for transformative technology to become both a",
+    "url": "https://www.linkedin.com/in/pete-shimshock",
+    "pass": 3
+   },
+   {
+    "quote": "Andrew Shimshock - Co-Founder of Mill Pond Research ...Mill Pond Research - LinkedInMill Pond Research - GitHub加藤貞顕 - Wikipedia Technical Co-Founder of Mill Pond Research, I'm driving the next generation of enterprise AI solutions that address critical challenges in security, memory management, and compliance across... Mill Pond Research represents the intersection of enterprise-grade security, AI",
+    "url": "https://www.linkedin.com/in/andrewshimshock",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Mill Pond Research - Facebook Sep 24, 2025 · TechCrunch has selected Mill Pond Research as one of the top 10 cybersecurity companies to compete in this year's Startup Battlefield 200 at TechCrunch Disrupt.",
+    "url": "https://www.facebook.com/61554640073099/",
+    "pass": 3
+   },
+   {
+    "quote": "Millpond - Power your project | Christchurch - FacebookIn Ask Alpha, we have a \"College Essay Writer\" prompt that ...Mill Pond Health Campus | Greencastle IN - FacebookMillpond Integrative Health and Wellness Center - Neuropathy ...Millpond Photography - FacebookMill Pond - a PHS senior living community | Ankeny IA - Facebook Jun 1, 2026 · Millpond - Power your project, Christchurch. 136 likes · 1",
+    "url": "https://www.facebook.com/Millpondltd/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.millpondresearch.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.millpondresearch.com/partners",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.millpondresearch.com/solutions/xilos",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.millpondresearch.com/company",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.millpondresearch.com/pricing",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.millpondresearch.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.millpondresearch.com/resources/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.millpondresearch.com/?trk=public_post_main-feed-card-text",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.millpondresearch.com/contact",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.millpondresearch.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://rocketreach.co/mill-pond-research-management_b7352410c429af39",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://craft.co/mill-pond-research",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.macromill.com/company/profile.html?doing_wp_cron=1794404998.9030818939208984375000",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.millpondresearch.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.millpondresearch.com/company/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.millpondresearch.com/?trk=public_post_main-feed-card-text",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.millpondresearch.com/resources/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.casestudies.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mckinsey.com/about-us/case-studies",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://custom.typingmind.com/case-studies/ask-alpha?ref=typingmind",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.appsruntheworld.com/customers-database/customers/view/mill-pond-research-united-states",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mandos.io/data/companies/mill-pond-research",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://acquirezy.com/organization/mill-pond-research",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/mill-pond-research",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vcbacked.co/company/mill-pond-research",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/auth0/status/2051684480587268164",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/mill-pond-research",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/andrewshimshock",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/pete-shimshock",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61554640073099/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Millpondltd/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/andrewshimshock",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Millpondresearch 日本 導入",
+   "results": [
+    "https://www.millpondresearch.com/",
+    "https://www.millpondresearch.com/resources/",
+    "https://www.millpondresearch.com/?trk=public_post_main-feed-card-text",
+    "https://www.millpondresearch.com/contact",
+    "https://www.millpondresearch.com/company/about-us/",
+    "https://www.millpondresearch.com/company/",
+    "https://github.com/Mill-Pond-Research/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Millpondresearch 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.millpondresearch.com/",
+    "https://rocketreach.co/mill-pond-research-management_b7352410c429af39",
+    "https://craft.co/mill-pond-research",
+    "https://www.macromill.com/company/profile.html",
+    "https://www.crunchbase.com/organization/mill-pond-research",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.kroll.com/ja-jp"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Millpondresearch Japan",
+   "results": [
+    "https://www.millpondresearch.com/",
+    "https://www.millpondresearch.com/company/",
+    "https://www.millpondresearch.com/?trk=public_post_main-feed-card-text",
+    "https://www.millpondresearch.com/resources/",
+    "https://www.millpondresearch.com/contact",
+    "https://www.millpondresearch.com/faq",
+    "https://www.millpondresearch.com/what-we-do/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Millpondresearch manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/",
+    "https://www.mckinsey.com/about-us/case-studies",
+    "https://custom.typingmind.com/case-studies/ask-alpha?ref=typingmind",
+    "https://www.appsruntheworld.com/customers-database/customers/view/mill-pond-research-united-states",
+    "https://www.millpondresearch.com/",
+    "https://www.millpondresearch.com/resources/",
+    "https://www.linkedin.com/company/mill-pond-research"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Millpondresearch white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partner.vw.com/partner",
+    "https://upcloud.com/partner-program/",
+    "https://www.thenationalcouncil.org/get-involved/partner-with-us/partnership-program/",
+    "https://www.vizrt.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Millpondresearch founded funding employees revenue",
+   "results": [
+    "https://mandos.io/data/companies/mill-pond-research",
+    "https://acquirezy.com/organization/mill-pond-research",
+    "https://www.crunchbase.com/organization/mill-pond-research",
+    "https://www.vcbacked.co/company/mill-pond-research",
+    "https://www.millpondresearch.com/company/",
+    "https://www.millpondresearch.com/",
+    "https://www.millpondresearch.com/investors/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Millpondresearch",
+   "results": [
+    "https://note.com/tag/イラン情勢",
+    "https://note.com/eager_tiger5557",
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/cybelee/n/n933aad304206?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/chokuzen_note/n/na2da02971e6d",
+    "https://note.com/natty_toucan386/n/nf4936ae22459"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Millpondresearch",
+   "results": [
+    "https://x.com/auth0/status/2051684480587268164",
+    "https://x.com/",
+    "https://x.com/MillpondRB",
+    "https://x.com/PondResearch",
+    "https://x.com/MillStResearch",
+    "https://x.com/millpondbrewing",
+    "https://x.com/NoahFentys/status/2118178286157140113"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Millpondresearch",
+   "results": [
+    "https://www.linkedin.com/company/mill-pond-research",
+    "https://www.linkedin.com/in/andrewshimshock",
+    "https://www.linkedin.com/company/millpond",
+    "https://www.linkedin.com/in/pete-shimshock",
+    "https://www.linkedin.com/posts/mill-pond-research_github-mill-pond-researchai-knowledge-base-activity-7232455728710451204-B7Kg",
+    "https://www.linkedin.com/posts/mill-pond-research_thriveai-strategicgrowth-askalpha-activity-7141532387686952960-uE84",
+    "https://www.linkedin.com/posts/mill-pond-research_millpondresearch-askalpha-rhodesai-activity-7136443877720276993-6twE"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Millpondresearch",
+   "results": [
+    "https://www.facebook.com/61554640073099/",
+    "https://www.facebook.com/Millpondltd/",
+    "https://www.facebook.com/MillPondHC/",
+    "https://www.facebook.com/MillPondPHS/",
+    "https://www.facebook.com/millpondphotography/",
+    "https://www.facebook.com/Mill+Pond+Research/videos/1528591468541653/",
+    "https://www.facebook.com/people/Millpond-Integrative-Health-and-Wellness-Center-Neuropathy-Solutions/100066397490178/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Millpondresearch note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.linkedin.com/in/andrewshimshock",
+    "https://www.millpondresearch.com/company/",
+    "https://rocketreach.co/mill-pond-research-management_b7352410c429af39",
+    "https://www.millpondresearch.com/",
+    "https://www.linkedin.com/company/mill-pond-research",
+    "https://github.com/Mill-Pond-Research/",
+    "https://www.linkedin.com/in/pete-shimshock",
+    "https://medium.com/@millpondresearch/about"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Millpondresearch X 投稿",
+   "results": [
+    "https://www.instagram.com/millpondresearch/",
+    "https://www.millpondresearch.com/",
+    "https://x.com/PondResearch",
+    "https://www.millpondresearch.com/resources/",
+    "https://www.millpondresearch.com/?trk=public_post_main-feed-card-text",
+    "https://www.millpondresearch.com/contact",
+    "https://www.millpondresearch.com/about/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部31頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

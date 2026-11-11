@@ -1,0 +1,822 @@
+{
+ "name": "有限会社エフ・アール・ケイ",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T13:30:40.693674+00:00",
+ "official_url": "https://f-r-k.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表取締役",
+    "value": "岩瀬　雅則",
+    "url": "https://f-r-k.co.jp/company",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "愛知県春日井市鷹来町5012番地20",
+    "url": "https://f-r-k.co.jp/company",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "14名",
+    "url": "https://f-r-k.co.jp/company",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "営業品目",
+    "value": "【加工分類】 マシニング加工、フライス加工、NC旋盤加工、汎用旋盤加工、 複合旋盤加工、真空成形加工、プレス加工、曲げ板加工、接着溶接 【主要加工品】 3次元加工品、精密加工品、半導体・液晶設備部品、旋盤品、板加工品、接着溶接品、 その他プラスチック加工品全般 【取扱い材料】 ＰＥＥＫ.ポリアミドイミド、ポリイミド、等特殊エンプラ、ＰＰＳ（Ｇ入り）ＰＢＴ（Ｇ入り） 66ナイロン（Ｇ入り）MCナイロン、ジュラコン、ABS、ＵＨＭＷ、 フッ素樹脂その他エンプラ関係",
+    "url": "https://f-r-k.co.jp/company",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱材料": [
+   {
+    "quote": "(有)エフ・アール・ケイ[春日井市] - 樹脂加工のことならお任せください、プラスチックの板材・丸棒を機械切削加工(NC旋盤・マシニング・複合旋盤・フライス加工など)により、精密部品を生産する樹脂加工会社です",
+    "url": "https://f-r-k.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "有限会社エフ・アール・ケイは、高品質で高精密度な樹脂切削加工品を主に35年以上実績と信頼を持った株式会社古川樹脂工業と協力して2007年に発足しました",
+    "url": "https://f-r-k.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "MC/NC加工、旋盤加工、成形加工、板物加工、プレス・曲げ加工、溶着・溶接加工を得意分野とし、樹脂素材も安価な物から、高強度、高耐熱材料など幅広い対応ができます",
+    "url": "https://f-r-k.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2004年に㈱古川樹脂工業の営業部として発足した新しい会社です",
+    "url": "https://f-r-k.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "この雰囲気を行動力の源とし、㈱古川樹脂工業と協力会社の加工支援の下で提案型営業活動を旨とします",
+    "url": "https://f-r-k.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "協力企業先である㈱古川樹脂工業をはじめ、主要協力会社の技術力に裏づけされた精密機械加工能力は、市場競争力の激しい業界の中で強力な技術支援であり、協力会社の加工水準の引き上げに役立っています",
+    "url": "https://f-r-k.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "MC/NC加工、旋盤加工、成形加工、板物加工、プレス・曲げ加工、溶着・溶接加工を得意分野とし、樹脂素材も安価な物から、高強度、高耐熱材料など幅広い対応ができます",
+    "url": "https://f-r-k.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "MC/NC加工、旋盤加工、成形加工、板物加工、プレス・曲げ加工、溶着・溶接加工を得意分野とし、樹脂素材も安価な物から、高強度、高耐熱材料など幅広い対応ができます",
+    "url": "https://f-r-k.co.jp/about/type",
+    "pass": 1
+   },
+   {
+    "quote": "当社は多種多様な樹脂加工品を一括してお引き受けすることができます",
+    "url": "https://f-r-k.co.jp/about/type",
+    "pass": 1
+   },
+   {
+    "quote": "精密樹脂加工を追及する協力企業約20社が、加工・成形設備を保有し、お客様のご要望にお応えします",
+    "url": "https://f-r-k.co.jp/facility",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、高品質で高精密度な樹脂切削加工品を主に、35年以上の実績と",
+    "url": "https://mono.ipros.com/product/detail/2001471120/",
+    "pass": 3
+   },
+   {
+    "quote": "信頼を持った株式会社古川樹脂工業と協力して2007年に発足しました",
+    "url": "https://mono.ipros.com/product/detail/2001471120/",
+    "pass": 3
+   },
+   {
+    "quote": "CFRPを使用するメリットとは？『CFRP製プロペラ』の紹介",
+    "url": "https://mono.ipros.com/product/detail/2001471120/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "薬品・食品包装機会部品、産業用機械部品、医療機器部品、半導体関連部品、航空機関連部品、各種治具、試作品etc…",
+    "url": "https://f-r-k.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "産業分野は、薬品・食品包装機用部品、産業用機械部品、医療機器用部品、半導体関連部品、 航空機関連部品、各種治具、試作品を協力企業約20社以上で様々な業界から多岐にわたるニーズに応え、お客様に信頼をお届けする会社です",
+    "url": "https://f-r-k.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "多品種小量生産を得意としていますから、試作品など単品から小ロット・中ロットまで可能で尚且つ、多品種小量品を一括で発注できます",
+    "url": "https://f-r-k.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客指定納期にこだわり、少量で簡単なものは短納期3～5日以内",
+    "url": "https://f-r-k.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "有限会社エフ・アール・ケイ プラスチック加工（試作・切削加工・その他板加工全般）",
+    "url": "https://f-r-k.co.jp/product/machine",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチック加工（試作・切削加工・その他板加工全般）",
+    "url": "https://f-r-k.co.jp/product/machine",
+    "pass": 1
+   },
+   {
+    "quote": "有限会社エフ・アール・ケイ プラスチック加工（試作・切削加工・その他板加工全般）",
+    "url": "https://f-r-k.co.jp/product/nc",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチック加工（試作・切削加工・その他板加工全般）",
+    "url": "https://f-r-k.co.jp/product/nc",
+    "pass": 1
+   },
+   {
+    "quote": "有限会社エフ・アール・ケイ プラスチック加工（試作・切削加工・その他板加工全般）",
+    "url": "https://f-r-k.co.jp/product/board",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチック加工（試作・切削加工・その他板加工全般）",
+    "url": "https://f-r-k.co.jp/product/board",
+    "pass": 1
+   },
+   {
+    "quote": "有限会社エフ・アール・ケイ プラスチック加工（試作・切削加工・その他板加工全般）",
+    "url": "https://f-r-k.co.jp/product/mage",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチック加工（試作・切削加工・その他板加工全般）",
+    "url": "https://f-r-k.co.jp/product/mage",
+    "pass": 1
+   },
+   {
+    "quote": "有限会社エフ・アール・ケイ プラスチック加工（試作・切削加工・その他板加工全般）",
+    "url": "https://f-r-k.co.jp/product/yuchaku",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチック加工（試作・切削加工・その他板加工全般）",
+    "url": "https://f-r-k.co.jp/product/yuchaku",
+    "pass": 1
+   },
+   {
+    "quote": "薬品・食品包装機会部品、産業用機械部品、医療機器部品、半導体関連部品、航空機関連部品、各種治具、試作品etc…",
+    "url": "https://f-r-k.co.jp/case",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の声： “今回、薬品の錠剤パッケージをつくる機械に用いるプラスチック部品の試作をお願いしました",
+    "url": "https://f-r-k.co.jp/case",
+    "pass": 1
+   },
+   {
+    "quote": "初回の取引にも関わらず、こちらの要望を汲み取った上で、最短納期での試作品加工対応をして頂きました",
+    "url": "https://f-r-k.co.jp/case",
+    "pass": 1
+   },
+   {
+    "quote": "その結果、エンドユーザー様からも「試作品の検証スピードをUPすることができた」と好評でした",
+    "url": "https://f-r-k.co.jp/case",
+    "pass": 1
+   },
+   {
+    "quote": "“もともと精密な加工は得意と聞いての依頼でしたが、納品までのスピードにも驚きで、午前中に図面を渡し翌日には出荷頂いた試作品もあります",
+    "url": "https://f-r-k.co.jp/case",
+    "pass": 1
+   },
+   {
+    "quote": "今回は試作での発注でしたが、量産の際もF・R・Kに継続依頼したいと考えております",
+    "url": "https://f-r-k.co.jp/case",
+    "pass": 1
+   },
+   {
+    "quote": "F・R・Kに多品種一括見積・発注をするようにしてからは、この段取りが不要になりました",
+    "url": "https://f-r-k.co.jp/case",
+    "pass": 1
+   },
+   {
+    "quote": "エンドユーザー様の技術的な要望をそのままお伝えしたところ、まさに欲しかった通りの試作品が届き、細部にこだわったF・R・Kの職人技を垣間見ることができました",
+    "url": "https://f-r-k.co.jp/case",
+    "pass": 1
+   },
+   {
+    "quote": "多品種小量生産を得意としていますから、試作品など単品から小ロット・中ロットまで可能で尚且つ、多品種小量品を一括で発注できます",
+    "url": "https://f-r-k.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "顧客指定納期にこだわり、少量で簡単なものは短納期3～5日以内",
+    "url": "https://f-r-k.co.jp/about",
+    "pass": 1
+   },
+   {
+    "quote": "多品種 - (有)エフ・アール・ケイ[春日井市]",
+    "url": "https://f-r-k.co.jp/about/type",
+    "pass": 1
+   },
+   {
+    "quote": "小ロット - (有)エフ・アール・ケイ[春日井市]",
+    "url": "https://f-r-k.co.jp/about/lot",
+    "pass": 1
+   },
+   {
+    "quote": "多品種小量生産を得意としていますから、試作品など単品から小ロット・中ロットまで可能で尚且つ、多品種小量品を一括で発注できます",
+    "url": "https://f-r-k.co.jp/about/lot",
+    "pass": 1
+   },
+   {
+    "quote": "小ロットでも素早く対応できる体制でお待ちしております",
+    "url": "https://f-r-k.co.jp/about/lot",
+    "pass": 1
+   },
+   {
+    "quote": "顧客指定納期にこだわり、少量で簡単なものは短納期1～3日以内",
+    "url": "https://f-r-k.co.jp/about/speed",
+    "pass": 1
+   },
+   {
+    "quote": "有限会社エフ・アール・ケイ プラスチック加工（試作・切削加工・その他板加工全般）",
+    "url": "https://f-r-k.co.jp/product/seikei",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチック加工（試作・切削加工・その他板加工全般）",
+    "url": "https://f-r-k.co.jp/product/seikei",
+    "pass": 1
+   },
+   {
+    "quote": "まさに欲しかった通りの試作品が届き、細部にこだわったF・R・Kの職人技を垣間見ることができました",
+    "url": "https://mono.ipros.com/company/detail/2088176/category/",
+    "pass": 3
+   },
+   {
+    "quote": "【多品種一括発注で段取りレス】素材、加工方法、ロットの異なる加工品を一括対応した事例です！",
+    "url": "https://mono.ipros.com/company/detail/2088176/category/",
+    "pass": 3
+   },
+   {
+    "quote": "F・R・Kに多品種一括見積・発注をするようにしてからは、この段取りが不要になりました",
+    "url": "https://mono.ipros.com/company/detail/2088176/category/",
+    "pass": 3
+   },
+   {
+    "quote": "【試作品の検証スピードをUP】薬品の錠剤パッケージをつくる機械に用いるプラスチック部品の試作案件の事例をご紹介！",
+    "url": "https://mono.ipros.com/company/detail/2088176/category/",
+    "pass": 3
+   },
+   {
+    "quote": "今回、薬品の錠剤パッケージをつくる機械に用いるプラスチック部品の試作をお願いしました",
+    "url": "https://mono.ipros.com/company/detail/2088176/category/",
+    "pass": 3
+   },
+   {
+    "quote": "最短納期での試作品加工対応をして頂きました",
+    "url": "https://mono.ipros.com/company/detail/2088176/category/",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、エンドユーザー様からも「試作品の検証スピードをUPすることができた」と好評でした",
+    "url": "https://mono.ipros.com/company/detail/2088176/category/",
+    "pass": 3
+   },
+   {
+    "quote": "午前中に図面を渡し翌日には出荷頂いた試作品もあります",
+    "url": "https://mono.ipros.com/company/detail/2088176/category/",
+    "pass": 3
+   },
+   {
+    "quote": "今回は試作での発注でしたが、量産の際もF・R・Kに継続依頼したいと考えております",
+    "url": "https://mono.ipros.com/company/detail/2088176/category/",
+    "pass": 3
+   },
+   {
+    "quote": "当社では、試作・切削加工・その他板加工全般といった",
+    "url": "https://mono.ipros.com/company/detail/2088176/category/",
+    "pass": 3
+   },
+   {
+    "quote": "【試作品の検証スピードをUP】薬品の錠剤パッケージをつくる機械に用いるプラスチック部品の試作案件の事例をご紹介！",
+    "url": "https://mono.ipros.com/product/detail/2001471120/",
+    "pass": 3
+   },
+   {
+    "quote": "今回、薬品の錠剤パッケージをつくる機械に用いるプラスチック部品の試作をお願いしました",
+    "url": "https://mono.ipros.com/product/detail/2001471120/",
+    "pass": 3
+   },
+   {
+    "quote": "最短納期での試作品加工対応をして頂きました",
+    "url": "https://mono.ipros.com/product/detail/2001471120/",
+    "pass": 3
+   },
+   {
+    "quote": "その結果、エンドユーザー様からも「試作品の検証スピードをUPすることができた」と好評でした",
+    "url": "https://mono.ipros.com/product/detail/2001471120/",
+    "pass": 3
+   },
+   {
+    "quote": "午前中に図面を渡し翌日には出荷頂いた試作品もあります",
+    "url": "https://mono.ipros.com/product/detail/2001471120/",
+    "pass": 3
+   },
+   {
+    "quote": "今回は試作での発注でしたが、量産の際もF・R・Kに継続依頼したいと考えております",
+    "url": "https://mono.ipros.com/product/detail/2001471120/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体関連部品、航空機関連部品、各種治具、試作品を協力企業約20社以上で",
+    "url": "https://mono.ipros.com/product/detail/2001471120/",
+    "pass": 3
+   },
+   {
+    "quote": "工法転換｜溶接・組立品をアルミ鋳物で一体化 1個から試作",
+    "url": "https://mono.ipros.com/product/detail/2001471120/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "薬品・食品包装機会部品、産業用機械部品、医療機器部品、半導体関連部品、航空機関連部品、各種治具、試作品etc…",
+    "url": "https://f-r-k.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "産業分野は、薬品・食品包装機用部品、産業用機械部品、医療機器用部品、半導体関連部品、 航空機関連部品、各種治具、試作品を協力企業約20社以上で様々な業界から多岐にわたるニーズに応え、お客様に信頼をお届けする会社です",
+    "url": "https://f-r-k.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "3次元加工品、精密加工品、半導体・液晶設備部品、旋盤品、板加工品、接着溶接品、",
+    "url": "https://f-r-k.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "薬品・食品包装機会部品、産業用機械部品、医療機器部品、半導体関連部品、航空機関連部品、各種治具、試作品etc…",
+    "url": "https://f-r-k.co.jp/case",
+    "pass": 1
+   },
+   {
+    "quote": "【プラスチック部品加工事例】長野県 半導体部品商社B社様",
+    "url": "https://mono.ipros.com/company/detail/2088176/category/",
+    "pass": 3
+   },
+   {
+    "quote": "【プラスチック部品加工事例】愛知県 医療機器商社A社様",
+    "url": "https://mono.ipros.com/company/detail/2088176/category/",
+    "pass": 3
+   },
+   {
+    "quote": "【プラスチック部品加工事例】愛知県 医療機器商社A社様 エフ・アール・ケイ | イプロスものづくり",
+    "url": "https://mono.ipros.com/product/detail/2001471120/",
+    "pass": 3
+   },
+   {
+    "quote": "【プラスチック部品加工事例】愛知県 医療機器商社A社様",
+    "url": "https://mono.ipros.com/product/detail/2001471120/",
+    "pass": 3
+   },
+   {
+    "quote": "産業分野は、薬品・食品包装機用部品、産業用機械部品、医療機器用部品、",
+    "url": "https://mono.ipros.com/product/detail/2001471120/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体関連部品、航空機関連部品、各種治具、試作品を協力企業約20社以上で",
+    "url": "https://mono.ipros.com/product/detail/2001471120/",
+    "pass": 3
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "製品紹介 - (有)エフ・アール・ケイ[春日井市]",
+    "url": "https://f-r-k.co.jp/product",
+    "pass": 1
+   },
+   {
+    "quote": "また、一つの些細な不良品を水面下に埋没させず、徹底的に原因を解明し、より精度の高い製品の供給に協力会社を含めて日々取り組んでおります",
+    "url": "https://f-r-k.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "納期につきましては期日通りにお得意先の手元に届いて製品となるという考え方に基づき納期厳守を徹底的に管理しています",
+    "url": "https://f-r-k.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "“総合商社という特性上、あらゆる業界のあらゆる製品部品に関するお問い合わせが来るため、今後プラスチック加工関連の案件が来た際にも安心してご依頼することができそうだと感じました",
+    "url": "https://f-r-k.co.jp/case",
+    "pass": 1
+   },
+   {
+    "quote": "エフ・アール・ケイの製品・サービス一覧｜イプロスものづくり",
+    "url": "https://mono.ipros.com/company/detail/2088176/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(4)",
+    "url": "https://mono.ipros.com/company/detail/2088176/category/",
+    "pass": 3
+   },
+   {
+    "quote": "総合商社という特性上、あらゆる業界のあらゆる製品部品に関するお問い合わせが来るため、",
+    "url": "https://mono.ipros.com/company/detail/2088176/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス一覧 (4)",
+    "url": "https://mono.ipros.com/product/detail/2001471120/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "MC機で3DCAD・CAMにより3D形状も加工可能です",
+    "url": "https://f-r-k.co.jp/product",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "MAIL : info@f-r-k.co.jp",
+    "url": "https://f-r-k.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "“総合商社という特性上、あらゆる業界のあらゆる製品部品に関するお問い合わせが来るため、今後プラスチック加工関連の案件が来た際にも安心してご依頼することができそうだと感じました",
+    "url": "https://f-r-k.co.jp/case",
+    "pass": 1
+   },
+   {
+    "quote": "総合商社という特性上、あらゆる業界のあらゆる製品部品に関するお問い合わせが来るため、",
+    "url": "https://mono.ipros.com/company/detail/2088176/category/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "小ロット - (有)エフ・アール・ケイ [春日井市] — ABOUT 選ばれる理由 小ロット 1個から対応可能 試作品ならお任せ 多品種小量生産を得意としていますから、試作品など単品から小ロット・中ロットまで可能で尚且つ、多品種小量品を一括で発注できます。",
+    "url": "https://f-r-k.co.jp/about/lot",
+    "pass": 3
+   },
+   {
+    "quote": "エフ・アール・ケイの製品・サービス一覧｜イプロスものづくり — Jun 24, 2020 · エフ・アール・ケイ の製品・サービス一覧です。 プラスチック加工（試作・切削加工・その他板加工全般）なら当社へお任せください 当社は、高品質で高精密度な樹脂切削加工品を主に、35年以上の実績と 信頼を持った株式会社古川樹脂工業と協力して2007年に発足しました。 産業分野は ...",
+    "url": "https://mono.ipros.com/company/detail/2088176/category/",
+    "pass": 3
+   },
+   {
+    "quote": "【プラスチック部品加工事例】愛知県 医療機器商社A社様 エフ・アール... — エフ・アール・ケイの【プラスチック部品加工事例】愛知県 医療機器商社A社様の技術や価格情報などをご紹介。【試作品の検証スピードをUP】薬品の錠剤パッケージをつくる機械に用いるプラスチック部品の試作案件の事例をご紹介！イプロスものづくりでは加工受託など製造業向けの情報を ...",
+    "url": "https://mono.ipros.com/product/detail/2001471120/",
+    "pass": 3
+   },
+   {
+    "quote": "(有)エフ・アール・ケイ [春日井市] - 樹脂加工のことならお任せくだ... — 樹脂加工のことならお任せください、プラスチックの板材・丸棒を機械切削加工(NC旋盤・マシニング・複合旋盤・フライス加工など)により、精密部品を生産する樹脂加工会社です。",
+    "url": "https://f-r-k.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 - (有)エフ・アール・ケイ [春日井市]事業内容 - 株式会社エー・アールケイ会社概要 – 株式会社アール・ケー会社紹介 | 会社概要 | FDK会社概要 | 株式会社エフレジ - F-REGI事業内容 – 株式会社アール・ケー — 1.企業の価値を高めるために、互いの人格を尊重し技術研鑽に努めます 2.顧客満足のために、顧客の利益を絶えず考え行動しています 3.企業成長のために、前向きな発想をして建設的な意見を持ちます 新築工事、改修工事、プラント工事などの足場組立・解体工事をおこなっております。 現場の状況に合わせた柔軟な施工をさせて頂きます。 太陽光発電工事 サイト案内 TOP プライバシーポリシー 事業内容 会社概要 入居申込書 売買物件一覧 賃貸物件一覧 ホーム > 会社紹介 > 会社概要 社長よりのご挨拶 経営理念 会社概要 役員一覧 お知らせ 国内拠点 （グループ",
+    "url": "https://f-r-k.co.jp/company",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - (有)エフ・アール・ケイ [春日井市] — CONTACT お問い合わせ お気軽に お問い合わせください 他社で断られた案件や、無理かな？ と思う案件も、まずは一度ご相談ください。 どのようなご要件にも常に耳を傾け、最善の方法をご提案いたします。 0568-86-9166",
+    "url": "https://f-r-k.co.jp/contact",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - (有)エフ・アール・ケイ [春日井市] — お問い合わせありがとうございました。 弊社担当より3営業日以内に、ご入力いただ情報についてご連絡差し上げます。 「自動返信メール」が届いていない場合は、メールアドレスが誤っている可能性がございますので、恐れ入りますがお電話にてご連絡いただく",
+    "url": "https://f-r-k.co.jp/contact/thanks",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://f-r-k.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://f-r-k.co.jp/product",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://f-r-k.co.jp/product/machine",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://f-r-k.co.jp/product/nc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://f-r-k.co.jp/product/board",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://f-r-k.co.jp/product/mage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://f-r-k.co.jp/product/yuchaku",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://f-r-k.co.jp/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://f-r-k.co.jp/case",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://f-r-k.co.jp/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://f-r-k.co.jp/about/type",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://f-r-k.co.jp/about/lot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://f-r-k.co.jp/about/speed",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://f-r-k.co.jp/product/seikei",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://f-r-k.co.jp/facility",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://f-r-k.co.jp/wp/wp-content/uploads/pages/product-machine.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://f-r-k.co.jp/wp/wp-content/uploads/pages/product-nc.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://f-r-k.co.jp/wp/wp-content/uploads/pages/product-board.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://f-r-k.co.jp/wp/wp-content/uploads/pages/product-seikei.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://f-r-k.co.jp/wp/wp-content/uploads/pages/product-mage.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://f-r-k.co.jp/wp/wp-content/uploads/pages/product-yuchaku.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://f-r-k.co.jp/wp/wp-content/uploads/pages/product-machine_thum.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://f-r-k.co.jp/wp/wp-content/uploads/pages/product-nc_thum.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://f-r-k.co.jp/wp/wp-content/uploads/pages/product-board_thum.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://f-r-k.co.jp/wp/wp-content/uploads/pages/product-seikei_thum.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://f-r-k.co.jp/wp/wp-content/uploads/pages/product-mage_thum.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://f-r-k.co.jp/wp/wp-content/uploads/pages/product-yuchaku_thum.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/company/detail/2088176/category/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/product/detail/2001471120/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rk-jp.com/company-profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fdk.co.jp/company_j/gaiyo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fre-net.co.jp/contact.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "エフ・アール・ケイ 取扱製品 試作 小ロット",
+   "results": [
+    "https://f-r-k.co.jp/about/lot",
+    "https://mono.ipros.com/company/detail/2088176/category/",
+    "https://mono.ipros.com/product/detail/2001471120/",
+    "https://denken-ec.com/trial/",
+    "https://f-r-k.co.jp/",
+    "https://www.h-k-k.co.jp/prototype/",
+    "https://jp.arrk.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "エフ・アール・ケイ 会社概要 事業内容",
+   "results": [
+    "https://f-r-k.co.jp/company",
+    "https://rk-jp.com/company-profile",
+    "https://www.fdk.co.jp/company_j/gaiyo.html",
+    "https://www.f-regi.co.jp/fr/",
+    "https://rk-jp.com/content",
+    "https://f-r-k.co.jp/",
+    "https://a-rk.biz/service/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "エフ・アール・ケイ お問い合わせ メール",
+   "results": [
+    "https://f-r-k.co.jp/contact",
+    "https://f-r-k.co.jp/contact/thanks",
+    "https://fre-net.co.jp/contact.html",
+    "https://www.ffc-japan.co.jp/contact",
+    "https://www.rk-japan.co.jp/contact/",
+    "https://www.rk-japan.co.jp/contact/form/",
+    "https://rf-r.com/contact/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com エフ・アール・ケイ",
+   "results": [
+    "https://note.com/yrkand/n/n69f5761d5af5",
+    "https://note.com/",
+    "https://note.com/wise_turtle184",
+    "https://note.com/yrkand/n/n913713ee6d29",
+    "https://note.com/bms_/n/n370a065852f8",
+    "https://note.com/moviage/n/nca5a15380375",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com エフ・アール・ケイ",
+   "results": [
+    "https://x.com/ark_osaka_jpn",
+    "https://about.x.com/en",
+    "https://x.com/RK_corp_anime",
+    "https://x.com/gallery_Kr",
+    "https://help.x.com/en",
+    "https://x.com/FKofficial_212",
+    "https://x.com/FK_Shimbashi"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com エフ・アール・ケイ",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com エフ・アール・ケイ",
+   "results": [
+    "https://www.facebook.com/ARK.osaka.jpn/",
+    "https://www.facebook.com/",
+    "https://www.facebook.com/people/有アールケイケイ/100054547085368/",
+    "https://www.facebook.com/FKshinbashi/",
+    "https://www.facebook.com/gallery.kr.page/",
+    "https://www.facebook.com/efukei1986/",
+    "https://www.facebook.com/barcode.fksystem/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "エフ・アール・ケイ note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/sadaaki",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/",
+    "https://note.com/ryu15884"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "エフ・アール・ケイ X 投稿",
+   "results": [
+    "https://x.com/kei_a_ru/status/2119047423515619748",
+    "https://kakuyomu.jp/users/barkbark/news/11054822666442148220",
+    "https://x.com/kei_a_ru/status/2109615241692885284",
+    "https://f-r-k.co.jp/",
+    "https://help.x.com/ja",
+    "https://help.x.com/ja/using-x/mentions-and-replies",
+    "https://myfans.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式15頁／PDF・画像12件／外部5頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式15頁／PDF・画像12件／外部5頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式15頁／PDF・画像12件／外部5頁・検索9回）"
+ }
+}

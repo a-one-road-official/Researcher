@@ -1,0 +1,638 @@
+{
+ "name": "Shiraz AI",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AI送信済み",
+ "researched_at": "2026-11-11T13:21:55.199696+00:00",
+ "official_url": "https://www.shiraz.ai",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "A person demonstrates the task once, on video. No programming, no CAD, no teach pendant.",
+    "url": "https://shiraz.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our foundation model adapts in context from that single demonstration — no retraining, no data-collection campaign.",
+    "url": "https://shiraz.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "High-mix manufacturing changes too fast for traditional automation. Factory owners tell us the same two things: they can’t hire enough people, and the automation they’ve bought is too rigid and too expensive — so it sits idle. We built Shiraz for lines that change every week.",
+    "url": "https://shiraz.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Part of the team that commercialized Spot at Boston Dynamics, where he led manipulation projects. Previously Rethink Robotics.",
+    "url": "https://shiraz.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Led whole-body control and bimanual manipulation at Amazon Robotics. Formerly Research Assistant Professor at Northwestern University.",
+    "url": "https://shiraz.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our founding team has 20+ years of experience in robotics. Navid was part of the core team that productized Spot at Boston Dynamics and led manipulation projects there. Before that, he was at Rethink Robotics. Mojtaba led whole-body control and manipulation efforts at Amazon Robotics and was a Research Assistant Professor at Northwestern University.",
+    "url": "https://www.ycombinator.com/companies/shiraz-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Founder at Shiraz AI. Previously Senior Applied Scientist and tech lead at Amazon Robotics, leading high-impact work in perception, policy learning, and manipulation. Before that, Research Assistant Professor at Northwestern directing AI and robotics research. PhD in Mechanical Engineering and Robotics from Northwestern.",
+    "url": "https://www.ycombinator.com/companies/shiraz-ai",
+    "pass": 3
+   },
+   {
+    "quote": "We're developing a robot foundation model whose core capability is adapting instantly to new variations of a task. You give the model a human demonstration video as context, and it bridges the embodiment gap to execute the task itself. This in-context learning is the missing piece in today's VLA approaches, and it's what changing manufacturing environments need.",
+    "url": "https://www.ycombinator.com/companies/shiraz-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Between the two of us, we have 20+ years of experience in robotics. Navid was part of the core team that productized Spot at Boston Dynamics and led manipulation projects there; before that, he was at Rethink Robotics. Mojtaba led whole-body control and bimanual manipulation efforts at Amazon Robotics and was a Research Assistant Professor at Northwestern University.",
+    "url": "https://www.ycombinator.com/companies/shiraz-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Hardware / physical product",
+    "url": "https://www.extruct.ai/hub/shiraz-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Shiraz AI specializes in deploying robots that learn new manufacturing tasks from a single human demonstration. Their main product offerings include a robotic foundation model designed for industrial automation, particularly in contract manufacturing environments where production lines frequently change.",
+    "url": "https://www.extruct.ai/hub/shiraz-ai/",
+    "pass": 3
+   },
+   {
+    "quote": ": The robots can learn tasks from just one demonstration provided by a human, which eliminates the need for extensive programming or CAD designs.",
+    "url": "https://www.extruct.ai/hub/shiraz-ai/",
+    "pass": 3
+   },
+   {
+    "quote": ": The foundation model adapts to the specific context of the task without requiring retraining or additional data collection, making it highly flexible.",
+    "url": "https://www.extruct.ai/hub/shiraz-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Comprehensive Deployment",
+    "url": "https://www.extruct.ai/hub/shiraz-ai/",
+    "pass": 3
+   },
+   {
+    "quote": ": Shiraz AI provides a complete solution that includes the hardware, the learning model, and on-site deployment support, addressing the challenges faced in high-mix manufacturing scenarios.",
+    "url": "https://www.extruct.ai/hub/shiraz-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "The benefits of these features include increased efficiency in manufacturing processes, reduced costs associated with traditional automation, and the ability to quickly adapt to changing production needs.",
+    "url": "https://www.extruct.ai/hub/shiraz-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Suggest edits to this profile",
+    "url": "https://www.extruct.ai/hub/shiraz-ai/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Shiraz builds a robot foundation model that learns a new manufacturing task from a single human demonstration — delivered working on your line: hardware, model, and deployment.",
+    "url": "https://shiraz.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "High-mix manufacturing changes too fast for traditional automation. Factory owners tell us the same two things: they can’t hire enough people, and the automation they’ve bought is too rigid and too expensive — so it sits idle. We built Shiraz for lines that change every week.",
+    "url": "https://shiraz.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We deploy robots that learn new tasks from a single human demonstration in the factory. We're starting in contract manufacturing, where lines change every week and both traditional automation and today's VLAs fall over.",
+    "url": "https://www.ycombinator.com/companies/shiraz-ai",
+    "pass": 3
+   },
+   {
+    "quote": "We deploy robots that learn new tasks from a single human demonstration in the factory. A new task shows up on the floor? You just film it once on your phone and the robot picks it up. No sitting around collecting data. No engineer flying out to your site. No overnight fine-tuning. You show it, and the robot learns.",
+    "url": "https://www.ycombinator.com/companies/shiraz-ai",
+    "pass": 3
+   },
+   {
+    "quote": "We're developing a robot foundation model whose core capability is adapting instantly to new variations of a task. You give the model a human demonstration video as context, and it bridges the embodiment gap to execute the task itself. This in-context learning is the missing piece in today's VLA approaches, and it's what changing manufacturing environments need.",
+    "url": "https://www.ycombinator.com/companies/shiraz-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Do you have a manufacturing task that needs automating, or know someone who does? Let us know and we'll automate it.",
+    "url": "https://www.ycombinator.com/companies/shiraz-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Industrials, Manufacturing And Robotics",
+    "url": "https://www.extruct.ai/hub/shiraz-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Shiraz AI specializes in deploying robots that learn new manufacturing tasks from a single human demonstration. Their main product offerings include a robotic foundation model designed for industrial automation, particularly in contract manufacturing environments where production lines frequently change.",
+    "url": "https://www.extruct.ai/hub/shiraz-ai/",
+    "pass": 3
+   },
+   {
+    "quote": ": Shiraz AI provides a complete solution that includes the hardware, the learning model, and on-site deployment support, addressing the challenges faced in high-mix manufacturing scenarios.",
+    "url": "https://www.extruct.ai/hub/shiraz-ai/",
+    "pass": 3
+   },
+   {
+    "quote": "The benefits of these features include increased efficiency in manufacturing processes, reduced costs associated with traditional automation, and the ability to quickly adapt to changing production needs.",
+    "url": "https://www.extruct.ai/hub/shiraz-ai/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Part of the team that commercialized Spot at Boston Dynamics, where he led manipulation projects. Previously Rethink Robotics.",
+    "url": "https://shiraz.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our founding team has 20+ years of experience in robotics. Navid was part of the core team that productized Spot at Boston Dynamics and led manipulation projects there. Before that, he was at Rethink Robotics. Mojtaba led whole-body control and manipulation efforts at Amazon Robotics and was a Research Assistant Professor at Northwestern University.",
+    "url": "https://www.ycombinator.com/companies/shiraz-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Between the two of us, we have 20+ years of experience in robotics. Navid was part of the core team that productized Spot at Boston Dynamics and led manipulation projects there; before that, he was at Rethink Robotics. Mojtaba led whole-body control and bimanual manipulation efforts at Amazon Robotics and was a Research Assistant Professor at Northwestern University.",
+    "url": "https://www.ycombinator.com/companies/shiraz-ai",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Shiraz AI Launches Robots That Learn from Single Video ... — Shiraz AI Launches Robots That Learn from Single Video ... LinkedIn https://www.linkedin.com > posts > y-combinator_shiraz-...",
+    "url": "https://www.linkedin.com/posts/y-combinator_shiraz-ai-yc-s26-is-building-robots-that-activity-7493403448986669056-r1pO",
+    "pass": 3
+   },
+   {
+    "quote": "Shiraz AI - LinkedIn — Shiraz AI - LinkedIn LinkedIn https://www.linkedin.com > shiraz-ai",
+    "url": "https://www.linkedin.com/company/shiraz-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Shiraz AI : Robots that learn on the job | Y Combinator — Shiraz AI : Robots that learn on the job | Y Combinator Y Combinator https://www.ycombinator.com > shira...",
+    "url": "https://www.ycombinator.com/companies/shiraz-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Shiraz AI — Robots that learn on the job — Shiraz AI — Robots that learn on the job Shiraz AI https://shiraz.ai",
+    "url": "https://shiraz.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Launch YC: Shiraz AI : Robots that learn on the job — Launch YC: Shiraz AI : Robots that learn on the job Y Combinator https://www.ycombinator.com > Si7-s...",
+    "url": "https://www.ycombinator.com/launches/Si7-shiraz-ai-robots-that-learn-on-the-job",
+    "pass": 3
+   },
+   {
+    "quote": "Shiraz AI Funding | Complete Analysis - Extruct AI — Shiraz AI Funding | Complete Analysis - Extruct AI Extruct AI https://www.extruct.ai > hub > shiraz-ai",
+    "url": "https://www.extruct.ai/hub/shiraz-ai/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Shiraz AI - LinkedIn Shiraz AI - LinkedIn LinkedIn https://www.linkedin.com > shiraz-ai",
+    "url": "https://www.linkedin.com/company/shiraz-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Big update: Shiraz AI (YC S26) is official! After 4 ... - LinkedIn Big update: Shiraz AI (YC S26) is official! After 4 ... - LinkedIn LinkedIn https://www.linkedin.com > posts > m...",
+    "url": "https://www.linkedin.com/posts/mojtaba-mozaffar_big-update-shiraz-ai-yc-s26-is-official-activity-7480735685109272576-Z8qe",
+    "pass": 3
+   },
+   {
+    "quote": "Shiraz AI Launches Robots That Learn from Single Video ... Shiraz AI Launches Robots That Learn from Single Video ... LinkedIn https://www.linkedin.com > posts > y-combinator_shiraz-...",
+    "url": "https://www.linkedin.com/posts/y-combinator_shiraz-ai-yc-s26-is-building-robots-that-activity-7493403448986669056-r1pO",
+    "pass": 3
+   },
+   {
+    "quote": "Meet Shiraz AI Founders at Hacker Combinator Demo Day Meet Shiraz AI Founders at Hacker Combinator Demo Day LinkedIn https://www.linkedin.com > posts",
+    "url": "https://www.linkedin.com/posts/sundaiclub_hackercombinator-sundai-startups-activity-7487484459911520256-Q4mB",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://shiraz.ai/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://shiraz.ai/assets/demo-thumb.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://sierra.ai/jp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=-Wlkx9Uw5-g",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://j-aix.or.jp/journal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dhbr.diamond.jp/articles/-/14522",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/business/product/aiit/ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/dapper_clover965/n/nc42d96f63788",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://exawizards.com/exabase/gpt/agent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shelp.jp/agency",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/y-combinator_shiraz-ai-yc-s26-is-building-robots-that-activity-7493403448986669056-r1pO",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/shiraz-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/shiraz-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shiraz.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/launches/Si7-shiraz-ai-robots-that-learn-on-the-job",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.extruct.ai/hub/shiraz-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shiraz.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/shiraz-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=vssslczcZCs",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://stammer.ai/post/best-white-label-ai-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agentz.ai/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/SaaS/comments/1d3s9sd/recommendations_for_an_allinone_ai_saas_platform/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/nand.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/in/shirazzaman",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.crv.com/content/ai-startup-funding",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://epoch.ai/data/ai-companies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/shiraz-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/mojtaba-mozaffar_big-update-shiraz-ai-yc-s26-is-official-activity-7480735685109272576-Z8qe",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/y-combinator_shiraz-ai-yc-s26-is-building-robots-that-activity-7493403448986669056-r1pO",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/sundaiclub_hackercombinator-sundai-startups-activity-7487484459911520256-Q4mB",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/shiraz-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Shiraz AI 日本 導入",
+   "results": [
+    "https://sierra.ai/jp",
+    "https://www.youtube.com/watch?v=-Wlkx9Uw5-g",
+    "https://j-aix.or.jp/journal/",
+    "https://dhbr.diamond.jp/articles/-/14522",
+    "https://techtouch.jp/event/260728-aievent/",
+    "https://xtech.nikkei.com/atcl/nxt/column/18/00001/10792/",
+    "https://note.com/skomeda/n/n865fb4baef5b",
+    "https://zenn.dev/mkj/articles/980f90aeee0b0a",
+    "https://www.pc-webzine.com/article/3350",
+    "https://shiraz.ai/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Shiraz AI 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/business/product/aiit/ai",
+    "https://note.com/dapper_clover965/n/nc42d96f63788",
+    "https://exawizards.com/exabase/gpt/agent/",
+    "https://shelp.jp/agency",
+    "https://issenglobal.com/agency",
+    "https://jdnw.jp/agency/agency_cat/ai/",
+    "https://dailink.net/guide/ai-agency",
+    "https://www.knowleful.ai/partner/",
+    "https://www.partnerlink-dx.co.jp/bizmatch-products/ai/",
+    "https://www.linkedin.com/company/shiraz-ai"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Shiraz AI Japan",
+   "results": [
+    "https://www.linkedin.com/posts/y-combinator_shiraz-ai-yc-s26-is-building-robots-that-activity-7493403448986669056-r1pO",
+    "https://www.linkedin.com/company/shiraz-ai",
+    "https://www.ycombinator.com/companies/shiraz-ai",
+    "https://shiraz.ai/",
+    "https://accesspartnership.com/reports/distributed-ai-in-japan-from-world-class-stack-to-real-world-scale/",
+    "https://www.extruct.ai/hub/shiraz-ai/",
+    "https://globalnation.inquirer.net/338986/labor-scarce-japan-counts-on-ai-powered-robots-in-broad-industries",
+    "https://www.rand.org/pubs/perspectives/PEA4137-1.html",
+    "https://www.linkedin.com/posts/mojtaba-mozaffar_big-update-shiraz-ai-yc-s26-is-official-activity-7480735685109272576-Z8qe",
+    "https://www.investorsgo.co/marketplace/shiraz-ai"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Shiraz AI manufacturing customer case study",
+   "results": [
+    "https://www.ycombinator.com/launches/Si7-shiraz-ai-robots-that-learn-on-the-job",
+    "https://www.extruct.ai/hub/shiraz-ai/",
+    "https://shiraz.ai/",
+    "https://www.linkedin.com/company/shiraz-ai",
+    "https://kanerika.com/blogs/generative-ai-in-manufacturing/",
+    "https://www.gray.com/insights/four-use-cases-for-ais-growing-role-in-manufacturing/",
+    "https://www.leewayhertz.com/ai-use-cases-in-manufacturing/",
+    "https://tryleverage.ai/case-study-manufacturing",
+    "https://www.youtube.com/watch?v=qHwK8ughSNk",
+    "https://www.founderland.ai/articles/shiraz-ai-builds-robots-that-learn-factory-tasks-in-one-demo-mt1arpru"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Shiraz AI white label OR reseller OR partner program",
+   "results": [
+    "https://www.youtube.com/watch?v=vssslczcZCs",
+    "https://stammer.ai/post/best-white-label-ai-software",
+    "https://www.agentz.ai/partners",
+    "https://www.reddit.com/r/SaaS/comments/1d3s9sd/recommendations_for_an_allinone_ai_saas_platform/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.articsledge.com/post/white-label-ai-software",
+    "https://www.get-ryze.ai/blog/agency-white-label-ad-management-with-ai",
+    "https://pickaxe.co/post/white-label-ai-tools-for-agencies",
+    "https://asyntai.com/white-label-solutions/",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Shiraz AI founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/nand.ai",
+    "https://www.linkedin.com/in/shirazzaman",
+    "https://www.crv.com/content/ai-startup-funding",
+    "https://epoch.ai/data/ai-companies",
+    "https://thelogic.co/news/analysis/ai-startups-millions-tiny-teams/",
+    "https://www.ycombinator.com/companies/industry/generative-ai",
+    "https://sierra.ai/blog/theres-an-agent-for-that-and-it-runs-on-sierra",
+    "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-robotics-ecommerce-quince/",
+    "https://theaiworld.org/news/sierra-raises-950m-to-lead-enterprise-ai-race",
+    "https://pitchbook.com/profiles/company/1479380-68"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Shiraz AI",
+   "results": [
+    "https://note.com/chic_cosmos5485/n/n7697e29db766",
+    "https://note.com/kozewine/n/n698a3c52ba0c",
+    "https://note.com/jazzy_knot1212/n/n0e3a66dc58b8",
+    "https://note.com/cheerneko/n/n28d79c605770",
+    "https://note.com/alcotradetrust/n/n3fa12fdb2227?hl=en",
+    "https://note.com/lovely_coyote562/n/n923ec299480a",
+    "https://note.com/12about14/n/n6eb312b95cfa?hl=en",
+    "https://note.com/ainest/n/nbd795c8fe8b7",
+    "https://note.com/koichitanabe/n/n5c928c9f4fc4",
+    "https://note.com/iranippopn/n/n3705c8cfa301?hl=en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Shiraz AI",
+   "results": [
+    "https://x.com/ShirazAkmal",
+    "https://x.com/ShirazAkmal/status/2119976136440774888",
+    "https://x.com/EMERGEGHI/status/1660088276970086404",
+    "https://x.com/cathrynlavery/status/2097816360407417106",
+    "https://x.com/QuantumShiraz",
+    "https://x.com/PeterRex/status/2117741811049628108",
+    "https://x.com/DropSiteNews/status/2049752462987325812",
+    "https://x.com/alisyedshiraz",
+    "https://x.com/OSINTWarfare/status/2068629749505953896",
+    "https://x.com/shiraz_ai"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Shiraz AI",
+   "results": [
+    "https://www.linkedin.com/company/shiraz-ai",
+    "https://www.linkedin.com/posts/mojtaba-mozaffar_big-update-shiraz-ai-yc-s26-is-official-activity-7480735685109272576-Z8qe",
+    "https://www.linkedin.com/posts/y-combinator_shiraz-ai-yc-s26-is-building-robots-that-activity-7493403448986669056-r1pO",
+    "https://www.linkedin.com/posts/sundaiclub_hackercombinator-sundai-startups-activity-7487484459911520256-Q4mB",
+    "https://www.linkedin.com/in/mojtaba-mozaffar",
+    "https://www.linkedin.com/in/shirazchokshi",
+    "https://www.linkedin.com/in/shirazzaman",
+    "https://www.linkedin.com/in/skanga",
+    "https://www.linkedin.com/in/shiraz-ali-aa906518",
+    "https://www.linkedin.com/company/shirazagency"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Shiraz AI",
+   "results": [
+    "https://www.facebook.com/IBPEditingServices/posts/episode-4-snippet-5shiraz-hashim-nasereldenprotecting-independent-thinking-in-th/2122302898670360/",
+    "https://www.facebook.com/groups/WorcesterEats/posts/28083225994653908/",
+    "https://www.facebook.com/61563501245204/posts/from-youtube-to-humanity-little-star-shiraz-serving-humanity-like-abdul-sattar-e/122173526144450041/",
+    "https://www.facebook.com/shiraz.hasnat/",
+    "https://www.facebook.com/groups/634051570138386/posts/2878349375708583/",
+    "https://www.facebook.com/CSSPMSaffairs/posts/young-youtuber-muhammad-shiraz-has-remarkably-transformed-his-village-school-fro/813515777692390/",
+    "https://www.facebook.com/IBPEditingServices/videos/episode-4-snippet-5shiraz-hashim-nasereldenprotecting-independent-thinking-in-th/1422772023389633/",
+    "https://www.facebook.com/groups/WorcesterEats/posts/28116400321336475/",
+    "https://www.facebook.com/shirazkhansda/",
+    "https://www.facebook.com/public/Shiraz-AI/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Shiraz AI note 社長",
+   "results": [
+    "https://shiraz.ai/",
+    "https://www.linkedin.com/in/skanga",
+    "https://www.roundfunded.com/ja/yc-startup/shiraz-ai",
+    "https://shiraz-k.com/about/",
+    "https://www.facebook.com/IBPEditingServices/posts/episode-4-snippet-5shiraz-hashim-nasereldenprotecting-independent-thinking-in-th/2122302898670360/",
+    "https://github.com/shirazamin",
+    "https://note.com/tag/AI%E7%A4%BE%E9%95%B7",
+    "https://www.youtube.com/watch?v=LTksRRZCT38",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.crunchbase.com/person/navid-aghasadeghi-cdf2"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Shiraz AI X 投稿",
+   "results": [
+    "https://shiraz.ai/",
+    "https://www.ycombinator.com/launches/Si7-shiraz-ai-robots-that-learn-on-the-job",
+    "https://www.linkedin.com/company/shiraz-ai",
+    "https://x.com/ShirazAkmal",
+    "https://www.instagram.com/shiraz_ai_yc_s26/",
+    "https://shiraz.ai/blog/",
+    "https://koalary.com/v/shiraz-ai",
+    "https://tech-lab.sios.jp/archives/54667",
+    "https://x.com/shiraz_ai",
+    "https://x.com/ShirazA1233"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部29頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部29頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部29頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部29頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部29頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部29頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部29頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部29頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像1件／外部29頁・検索12回）"
+ }
+}

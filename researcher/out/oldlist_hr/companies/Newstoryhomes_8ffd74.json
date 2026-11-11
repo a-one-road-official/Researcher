@@ -1,0 +1,846 @@
+{
+ "name": "Newstoryhomes",
+ "aliases": [],
+ "context": "旧営業リスト｜Education / Childcare｜未接触",
+ "researched_at": "2026-11-11T13:04:14.445156+00:00",
+ "official_url": "https://www.newstoryhomes.org",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue",
+    "value": "$10,431,069",
+    "url": "https://www.influencewatch.org/non-profit/new-story-inc/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Address",
+    "value": "245 N Highland Ave 230-610",
+    "url": "https://www.causeiq.com/organizations/new-story,472529408/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "We secure underused land and build infrastructure (roads, power, sanitation).",
+    "url": "https://www.newstoryhomes.org/",
+    "pass": 1
+   },
+   {
+    "quote": "After a lifetime of renting and moving between borrowed homes, David found our land program, which offered a better location, fair pricing, and space to breathe.",
+    "url": "https://www.newstoryhomes.org/",
+    "pass": 1
+   },
+   {
+    "quote": "Donate to fund financial literacy programs, construction support, and our team.",
+    "url": "https://www.newstoryhomes.org/",
+    "pass": 1
+   },
+   {
+    "quote": "“Teaming up with New Story allowed us to extend the services we provide daily: to help people discover homes that allow them to live their best life.”",
+    "url": "https://www.newstoryhomes.org/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "“Lemonade cherishes transparency and building trust, and as a tech company doing insurance, we’re looking to partner with organizations that share these values while making a dent in the universe. This is why we identify so strongly with New Story: they have chosen to move away from the traditional nonprofit model, as they’re completely data-driven, and powered by transparency and technology.”",
+    "url": "https://www.newstoryhomes.org/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "100% Promise",
+    "url": "https://www.newstoryhomes.org/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "100% of your donation goes directly to a housing project supporting vulnerable families in Latin America.",
+    "url": "https://www.newstoryhomes.org/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "If you contribute $1 million+, our team will work directly with you to build a marketing strategy that promotes your impact.",
+    "url": "https://www.newstoryhomes.org/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "You’ll receive updates on your impact and gain access to private opportunities such as invitations to the field to see your work in Latin America.",
+    "url": "https://www.newstoryhomes.org/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Philanthropy and government subsidies only address 20% of the global housing need. The remaining 1.8 billion people require a different approach.",
+    "url": "https://www.newstoryhomes.org/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We work with local developers and municipalities to create solutions that are profitable for providers and affordable for families.",
+    "url": "https://www.newstoryhomes.org/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Donate to fund financial literacy programs, construction support, and our team.",
+    "url": "https://www.newstoryhomes.org/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "We don't hire people who want to be another cog in a machine.",
+    "url": "https://www.newstoryhomes.org/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We hire entrepreneurial-minded high achievers who take ownership of creating market-based solutions to one of humanity's biggest challenges. We hire people who bring both excellence and empathy to work that truly matters. Because those are the people who help us flip the script on how the world thinks about housing.",
+    "url": "https://www.newstoryhomes.org/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Together, we're proud to build a world where underserved families can transform their lives through land and home ownership.",
+    "url": "https://www.newstoryhomes.org/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Primary caregivers receive 12 weeks paid time off, and secondary caregivers get six weeks off post birth/adoption.",
+    "url": "https://www.newstoryhomes.org/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our hiring process is thorough",
+    "url": "https://www.newstoryhomes.org/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We design our process not only for us to get to know you but for you to get to know us. Learn more about our hiring process, including our five-step process and common practices of best candidates.",
+    "url": "https://www.newstoryhomes.org/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more about our hiring process",
+    "url": "https://www.newstoryhomes.org/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We encourage applicants to apply without regard to race, religion, sex, national origin, age, disability, or genetics. We work hard to create a welcoming culture of shared values.",
+    "url": "https://www.newstoryhomes.org/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Generous donors called the Builders fund our team, which allows us to pay in the 90% percentile of nonprofits for your position.",
+    "url": "https://www.newstoryhomes.org/careers",
+    "pass": 1
+   },
+   {
+    "quote": "As a Y Combinator alumni, we practice similar principles as the most successful startups. Working here isn’t easy, it will challenge you and grow you. While we work hard, we encourage you to prioritize your family, health, and life outside work.",
+    "url": "https://www.newstoryhomes.org/careers",
+    "pass": 1
+   },
+   {
+    "quote": "A culture of excellence begins by recruiting top-tier talent and then empowering them to be as effective as any other world-class business. After all, that’s what every family lacking adequate housing deserves — our very best.",
+    "url": "https://www.newstoryhomes.org/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The One Question We Don’t Ask Interview Candidates",
+    "url": "https://www.newstoryhomes.org/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Everything You Need to Know About Our Hiring Process",
+    "url": "https://www.newstoryhomes.org/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Everything You Need to Know About Our Hiring Process | New Story",
+    "url": "https://www.newstoryhomes.org/blog/everything-you-need-to-know-about-our-hiring-process",
+    "pass": 1
+   },
+   {
+    "quote": "This blog answers your biggest questions about our hiring process so you can have clarity and confidence throughout the journey.",
+    "url": "https://www.newstoryhomes.org/blog/everything-you-need-to-know-about-our-hiring-process",
+    "pass": 1
+   },
+   {
+    "quote": "If you’re ready to join an ambitious team tackling the housing crisis, then here’s what you can expect during our hiring process.",
+    "url": "https://www.newstoryhomes.org/blog/everything-you-need-to-know-about-our-hiring-process",
+    "pass": 1
+   },
+   {
+    "quote": "Our hiring process is generally a five-step process before we extend an offer.",
+    "url": "https://www.newstoryhomes.org/blog/everything-you-need-to-know-about-our-hiring-process",
+    "pass": 1
+   },
+   {
+    "quote": "Note that this can vary based on the position and hiring manager’s needs):",
+    "url": "https://www.newstoryhomes.org/blog/everything-you-need-to-know-about-our-hiring-process",
+    "pass": 1
+   },
+   {
+    "quote": "45-minute phone interview with our recruiter",
+    "url": "https://www.newstoryhomes.org/blog/everything-you-need-to-know-about-our-hiring-process",
+    "pass": 1
+   },
+   {
+    "quote": "60-minute Zoom interview with the hiring manager",
+    "url": "https://www.newstoryhomes.org/blog/everything-you-need-to-know-about-our-hiring-process",
+    "pass": 1
+   },
+   {
+    "quote": "90-minute Zoom interview with 3-4 people who would be on your team",
+    "url": "https://www.newstoryhomes.org/blog/everything-you-need-to-know-about-our-hiring-process",
+    "pass": 1
+   },
+   {
+    "quote": "Culture Interview | [Varies]",
+    "url": "https://www.newstoryhomes.org/blog/everything-you-need-to-know-about-our-hiring-process",
+    "pass": 1
+   },
+   {
+    "quote": "The hiring process takes 6-8 weeks, depending on the position and the schedules of everyone involved.",
+    "url": "https://www.newstoryhomes.org/blog/everything-you-need-to-know-about-our-hiring-process",
+    "pass": 1
+   },
+   {
+    "quote": "We will request 3 professional references when we extend an offer.",
+    "url": "https://www.newstoryhomes.org/blog/everything-you-need-to-know-about-our-hiring-process",
+    "pass": 1
+   },
+   {
+    "quote": "The hiring process is a two-way street of collaboration and communication.",
+    "url": "https://www.newstoryhomes.org/blog/everything-you-need-to-know-about-our-hiring-process",
+    "pass": 1
+   },
+   {
+    "quote": "Our hiring process is thorough. We design our process not only for us to get to know you but for you to get to know us — because we are all more than our work. This is best felt at the final step of the process, where we offer the opportunity to meet the team in-person or virtually. The better we understand each other as human beings, the more enjoyable and effective we’ll be at work.",
+    "url": "https://www.newstoryhomes.org/blog/everything-you-need-to-know-about-our-hiring-process",
+    "pass": 1
+   },
+   {
+    "quote": "Providing opportunities to showcase more than your interviewing skills.",
+    "url": "https://www.newstoryhomes.org/blog/everything-you-need-to-know-about-our-hiring-process",
+    "pass": 1
+   },
+   {
+    "quote": "You’re more than your answers to interview questions. That’s why we ask candidates to do a take-home assessment. We want to see your work in action and better understand how you approach problems.",
+    "url": "https://www.newstoryhomes.org/blog/everything-you-need-to-know-about-our-hiring-process",
+    "pass": 1
+   },
+   {
+    "quote": "We’ll present you with a hypothetical problem we could face at New Story, give you time to work on it, and then let you communicate your results and how you got there. It may seem like a lot, but the assessment is for more than just us to see your work up close. It’s a chance for you to experience the type of work you’ll do as a New Story team member.",
+    "url": "https://www.newstoryhomes.org/blog/everything-you-need-to-know-about-our-hiring-process",
+    "pass": 1
+   },
+   {
+    "quote": "We will communicate at the start of the hiring process whether an assessment is paid or not.",
+    "url": "https://www.newstoryhomes.org/blog/everything-you-need-to-know-about-our-hiring-process",
+    "pass": 1
+   },
+   {
+    "quote": "We receive hundreds, if not thousands, of applicants for our open roles. While we can’t provide feedback to every applicant regarding their application, if you are invited into our hiring process, we will prioritize sharing feedback if we decide not to proceed with your application. Why? We believe everyone should have the opportunity to improve, and feedback makes that possible.",
+    "url": "https://www.newstoryhomes.org/blog/everything-you-need-to-know-about-our-hiring-process",
+    "pass": 1
+   },
+   {
+    "quote": "Common practices of the best candidates",
+    "url": "https://www.newstoryhomes.org/blog/everything-you-need-to-know-about-our-hiring-process",
+    "pass": 1
+   },
+   {
+    "quote": "While we have a diverse team, many shared common practices throughout the hiring process. Here’s a short list of ways you can stand out as a candidate.",
+    "url": "https://www.newstoryhomes.org/blog/everything-you-need-to-know-about-our-hiring-process",
+    "pass": 1
+   },
+   {
+    "quote": "Speak to our problems |",
+    "url": "https://www.newstoryhomes.org/blog/everything-you-need-to-know-about-our-hiring-process",
+    "pass": 1
+   },
+   {
+    "quote": "Top candidates empathize with us by understanding our problems and speaking into how to solve them.",
+    "url": "https://www.newstoryhomes.org/blog/everything-you-need-to-know-about-our-hiring-process",
+    "pass": 1
+   },
+   {
+    "quote": "We leave room for questions in every stage of the hiring process. Take advantage of that time by getting to the bottom of your biggest questions.",
+    "url": "https://www.newstoryhomes.org/blog/everything-you-need-to-know-about-our-hiring-process",
+    "pass": 1
+   },
+   {
+    "quote": "Extreme Ownership is another core value at New Story, and we love seeing it in candidates. It’s best summarized as taking full responsibility for your role in the hiring process. Did we miss asking you something that we should know? Share more!",
+    "url": "https://www.newstoryhomes.org/blog/everything-you-need-to-know-about-our-hiring-process",
+    "pass": 1
+   },
+   {
+    "quote": "We are chatting with a lot of people every day. If we don’t follow up as quickly as you’d like, we promise it isn’t personal. Don’t hesitate to check-in! #ExtremeOwnership",
+    "url": "https://www.newstoryhomes.org/blog/everything-you-need-to-know-about-our-hiring-process",
+    "pass": 1
+   },
+   {
+    "quote": ", to test an idea. Bamboo is often mistaken for a rustic, makeshift option — something you build with when you have no other choice. What families walked through on August 1st was the opposite: a finished, staged home with furniture in every room, assembled by a small team of local masons in a matter of weeks, with an estimated 69% smaller carbon footprint than a comparable concrete home.",
+    "url": "https://www.newstoryhomes.org/blog/cool-by-design-building-with-bamboo",
+    "pass": 1
+   },
+   {
+    "quote": "We staged the inside of the home with furniture, so families didn’t only see the structure, they were able to imagine their future homes. New Story team members Claudia Acuña and Vic Mendoza joined for the open house, alongside members of two local credit unions and representatives from local cajas",
+    "url": "https://www.newstoryhomes.org/blog/cool-by-design-building-with-bamboo",
+    "pass": 1
+   },
+   {
+    "quote": ". Having them there mattered, because whether a family can choose this path often comes down to whether financing is available in the first place. Our hope is that seeing the home firsthand will move these local partners to build financial products around it, so a bamboo home becomes something a family can actually finance, not just admire.",
+    "url": "https://www.newstoryhomes.org/blog/cool-by-design-building-with-bamboo",
+    "pass": 1
+   },
+   {
+    "quote": "3D Printing",
+    "url": "https://en.wikipedia.org/wiki/New_Story_(charity)",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/New_Story_(charity)",
+    "pass": 3
+   },
+   {
+    "quote": "Market-based housing nonprofit",
+    "url": "https://en.wikipedia.org/wiki/New_Story_(charity)",
+    "pass": 3
+   },
+   {
+    "quote": "non-profit organization",
+    "url": "https://en.wikipedia.org/wiki/New_Story_(charity)",
+    "pass": 3
+   },
+   {
+    "quote": "that provides homes to people living with inadequate shelter. The organization was founded in 2014 and has provided homes for more than 15,200 people in",
+    "url": "https://en.wikipedia.org/wiki/New_Story_(charity)",
+    "pass": 3
+   },
+   {
+    "quote": ". New Story and ICON, an Austin-based construction technologies company, built the world’s first community of 3D printed homes",
+    "url": "https://en.wikipedia.org/wiki/New_Story_(charity)",
+    "pass": 3
+   },
+   {
+    "quote": "that destroyed thousands of homes. Many non-profits provided immediate",
+    "url": "https://en.wikipedia.org/wiki/New_Story_(charity)",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "As a skilled tradesman in plumbing, electricity, and masonry, David is excited to build his home “with more care and love” now that he has secure land ownership.",
+    "url": "https://www.newstoryhomes.org/",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Bring your values to life, build your brand, and support families with housing solutions.",
+    "url": "https://www.newstoryhomes.org/partnerships",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Building that trust is a part of this pilot and it, too, must be built sustainably.",
+    "url": "https://www.newstoryhomes.org/blog/cool-by-design-building-with-bamboo",
+    "pass": 1
+   },
+   {
+    "quote": "Brett Hagler, Alexandria Lafci, Matthew Marshall, Mike Arrieta",
+    "url": "https://en.wikipedia.org/wiki/New_Story_(charity)",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue: $10,431,069",
+    "url": "https://www.influencewatch.org/non-profit/new-story-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "Highest Earning Employees",
+    "url": "https://www.influencewatch.org/non-profit/new-story-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "Miscellaneous revenues",
+    "url": "https://www.causeiq.com/organizations/new-story,472529408/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "New Story Homes — New Story Homes New Story Homes https://www.newstoryhomes.org",
+    "url": "https://www.newstoryhomes.org/",
+    "pass": 3
+   },
+   {
+    "quote": "Impact - New Story Homes — Impact - New Story Homes New Story Homes https://www.newstoryhomes.org > ou...",
+    "url": "https://www.newstoryhomes.org/our-impact",
+    "pass": 3
+   },
+   {
+    "quote": "Partnerships - New Story Homes — Partnerships - New Story Homes New Story Homes https://www.newstoryhomes.org > par...",
+    "url": "https://www.newstoryhomes.org/partnerships",
+    "pass": 3
+   },
+   {
+    "quote": "New Story | We empower families to own land and homes in ... — New Story | We empower families to own land and homes in ... New Story Homes https://www.newstoryhomes.org",
+    "url": "https://www.newstoryhomes.org/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "New Story (@ newstoryhomes ) - Facebook New Story (@ newstoryhomes ) - Facebook Facebook https://www.facebook.com > ... > Nonprofit organization",
+    "url": "https://www.facebook.com/newstoryhomes/",
+    "pass": 3
+   },
+   {
+    "quote": "We took design inspo from the 1968 Mexico City Olympics for ... We took design inspo from the 1968 Mexico City Olympics for ... Facebook https://www.facebook.com > newstoryhomes > posts > we...",
+    "url": "https://www.facebook.com/newstoryhomes/posts/we-took-design-inspo-from-the-1968-mexico-city-olympics-for-this-years-winter-su/1259937636244071/",
+    "pass": 3
+   },
+   {
+    "quote": "Prices released for the new Story homes development Prices released for the new Story homes development Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/134997653901895/posts/2221458251922481/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "New Story (@NewStoryHomes) / X We pioneer market-based solutions that empower families to buy land, secure home financing, and build generational wealth.",
+    "url": "https://x.com/newstoryhomes",
+    "pass": 3
+   },
+   {
+    "quote": "“Nothing ever happens unless someone pursues a vision ... NewStoryHomes (New Story 🏡). 8 likes 1 replies. “Nothing ever happens unless someone pursues a vision fanatically.” @ToddGraves Heard this on @DavidSenra’s ...",
+    "url": "https://x.com/NewStoryHomes/status/2001762736544288987",
+    "pass": 3
+   },
+   {
+    "quote": "Reposts by One More Home (@onemorehome) / X The team is growing, and we're hiring a Social Media Manager! We're looking for a strong storyteller to help grow our online community committed to ending global homelessness. The deadline to apply is July 30. bit.ly/2Ujb2qm 2 1 3 One More Home reposted New Story 🏡 @NewStoryHomes Jul 19, 2021",
+    "url": "https://x.com/onemorehome/reposts",
+    "pass": 3
+   },
+   {
+    "quote": "This is how we #AdvanceEquity. Thank you for letting us be a ... New Story 🏡 (@NewStoryHomes). This is how we #AdvanceEquity. Thank you for letting us be a part of this @newprofit. #equity #equality #inclusion",
+    "url": "https://x.com/NewStoryHomes/status/765229865096192001",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.newstoryhomes.org/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.newstoryhomes.org/partnerships",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.newstoryhomes.org/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.newstoryhomes.org/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.newstoryhomes.org/blog/everything-you-need-to-know-about-our-hiring-process",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.newstoryhomes.org/blog/cool-by-design-building-with-bamboo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.newstoryhomes.org/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/6553cf69648c427a4cd53fba/6553cf69648c427a4cd543e9_PartnershipLogos__Providence%20Homes.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.youtube.com/watch?v=UPXN4Bc9XbI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=4h4XoNZzoJw",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://newstory-inc.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/New_Story_(charity)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gaishikei.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nipponhomes.com/en/new-houses",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mx.linkedin.com/company/new-story-homes",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.weforum.org/organizations/new-story",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://fuseproject.com/case-studies/new-story-charity/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aiinstitute.hbs.edu/platform-rctom/submission/new-story-remodeling-affordable-housing-through-3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.autodesk.com/customer-stories",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.newhomestar.com/platform/overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://webinone.com/reseller-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.influencewatch.org/non-profit/new-story-inc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.causeiq.com/organizations/new-story,472529408/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/New_Story_(charity)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://projects.propublica.org/nonprofits/organizations/472529408",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/newstoryhomes/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/newstoryhomes/posts/we-took-design-inspo-from-the-1968-mexico-city-olympics-for-this-years-winter-su/1259937636244071/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/134997653901895/posts/2221458251922481/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/newstoryhomes",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/NewStoryHomes/status/2001762736544288987",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/onemorehome/reposts",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/NewStoryHomes/status/765229865096192001",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Newstoryhomes 日本 導入",
+   "results": [
+    "https://www.youtube.com/watch?v=UPXN4Bc9XbI",
+    "https://www.youtube.com/watch?v=4h4XoNZzoJw",
+    "https://www.newstoryhomes.org/",
+    "https://newstory-inc.com/",
+    "https://www.newstoryhomes.org/our-impact",
+    "https://carislife.hatenablog.com/entry/20250925/1758794400",
+    "https://www.maplehomes.co.jp/",
+    "https://www.housenews.jp/category/overseas",
+    "https://myhome-heroes.com/articles/house-maker-new-products-2026"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Newstoryhomes 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://en.wikipedia.org/wiki/New_Story_(charity)",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "https://www.gaishikei.net/",
+    "https://www.newstoryhomes.org/our-strategy",
+    "https://www.newstoryhomes.org/our-team",
+    "https://ja.nozominetworks.com/company"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Newstoryhomes Japan",
+   "results": [
+    "https://www.newstoryhomes.org/",
+    "https://nipponhomes.com/en/new-houses",
+    "https://mx.linkedin.com/company/new-story-homes",
+    "https://jp.weforum.org/organizations/new-story",
+    "https://www.youtube.com/watch?v=yUgcwTKEwe8",
+    "https://nipponhomes.com/en",
+    "https://www.youtube.com/watch?v=KSE85A0N4Cs",
+    "https://www.youtube.com/watch?v=NZv4Vlhwdoc",
+    "https://www.instagram.com/reel/DQ2tWpyE_gP/?hl=ja",
+    "https://www.newstoryhomes.co/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Newstoryhomes manufacturing customer case study",
+   "results": [
+    "https://fuseproject.com/case-studies/new-story-charity/",
+    "https://aiinstitute.hbs.edu/platform-rctom/submission/new-story-remodeling-affordable-housing-through-3d-printing/",
+    "https://www.newstoryhomes.org/our-impact",
+    "https://www.autodesk.com/customer-stories",
+    "https://www.cisco.com/site/us/en/about/case-studies-customer-stories/index.html",
+    "https://visme.co/blog/case-study-examples/",
+    "https://www.mckinsey.com/about-us/case-studies",
+    "https://www.casestudies.com/",
+    "https://www.newstoryhomes.org/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Newstoryhomes white label OR reseller OR partner program",
+   "results": [
+    "https://www.newstoryhomes.org/partnerships",
+    "https://www.newstoryhomes.org/",
+    "https://www.newhomestar.com/platform/overview",
+    "https://webinone.com/reseller-program",
+    "https://insighto.ai/blog/white-label-partnerships/",
+    "https://whitelabelitsolutions.com/about-us-colocation/agent-partner-program/",
+    "https://www.linkedin.com/company/new-story-homes",
+    "https://www.fatbit.com/partner-program-engagement-models.html",
+    "https://www.newstoryhomes.org/builders",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Newstoryhomes founded funding employees revenue",
+   "results": [
+    "https://www.influencewatch.org/non-profit/new-story-inc/",
+    "https://www.causeiq.com/organizations/new-story,472529408/",
+    "https://en.wikipedia.org/wiki/New_Story_(charity)",
+    "https://projects.propublica.org/nonprofits/organizations/472529408",
+    "https://www.linkedin.com/company/new-story-homes",
+    "https://www.newstoryhomes.org/faq",
+    "https://www.ycombinator.com/companies/new-story",
+    "https://builtin.com/company/new-story-1/faq/compensation-benefits",
+    "https://growjo.com/company/New_Story",
+    "https://getlatka.com/companies/newstoryhomes.org"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Newstoryhomes",
+   "results": [
+    "https://note.com/aburayamafukuoka",
+    "https://note.com/tag/MMX",
+    "https://note.com/bluestudio1998/n/n5ca5523cb842?hl=en",
+    "https://note.com/teba_eleven/n/nafba6d9ea3a7",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/n35w5/n/n3230130b66e6",
+    "https://note.com/mio_adviser_8888/n/nb972565e9e9a"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Newstoryhomes",
+   "results": [
+    "https://x.com/peteflint",
+    "https://x.com/Joshua_LC_Young",
+    "https://x.com/emmaclalley",
+    "https://x.com/craftcloud3d",
+    "https://x.com/Dare_Carter",
+    "https://x.com/MsDas",
+    "https://x.com/misol140/status/1796273433300623864",
+    "https://x.com/ballard_jenny",
+    "https://x.com/misol140/status/2006130663272128881",
+    "https://x.com/newstoryhomes"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Newstoryhomes",
+   "results": [
+    "https://www.linkedin.com/company/new-story-homes",
+    "https://www.linkedin.com/in/jamesmatthewmarshall",
+    "https://www.linkedin.com/posts/new-story-homes_community-first-development-this-land-was-activity-7518008158909267968-gpXj",
+    "https://mx.linkedin.com/in/mendoza-miranda",
+    "https://www.linkedin.com/in/jumonville",
+    "https://www.linkedin.com/in/chrispbarton",
+    "https://www.linkedin.com/jobs/view/investment-sourcing-consultant-land-housing-development-at-new-story-4441914518",
+    "https://www.linkedin.com/in/bennett-wagley-a0ab98240",
+    "https://www.linkedin.com/in/emma-michel-8770b0173",
+    "https://mx.linkedin.com/company/new-story-homes"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Newstoryhomes",
+   "results": [
+    "https://www.facebook.com/newstoryhomes/",
+    "https://www.facebook.com/newstoryhomes/posts/we-took-design-inspo-from-the-1968-mexico-city-olympics-for-this-years-winter-su/1259937636244071/",
+    "https://www.facebook.com/groups/134997653901895/posts/2221458251922481/",
+    "https://www.facebook.com/100063558011356/posts/a-packed-hearing-room-turns-its-attention-to-mexico-citys-housing-secretary-as-o/2033790362082878/",
+    "https://www.facebook.com/dale.bishop.35/posts/take-a-look-an-incredible-new-build-give-dan-mckenna-homes-a-call-for-details/28975047288771616/",
+    "https://www.facebook.com/bloombergbusiness/posts/in-mexico-city-housing-theft-happens-on-average-11-times-a-day-often-when-reside/1545266670792754/",
+    "https://www.facebook.com/p/TopG-61560555884046/",
+    "https://www.facebook.com/groups/390073808081510/posts/2418160305272840/",
+    "https://www.facebook.com/HMRC/posts/before-you-start-a-council-tax-band-challenge-check-your-band-and-compare-it-wit/1469864791983577/",
+    "https://www.facebook.com/STORYHOMESOMAHA/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Newstoryhomes note 社長",
+   "results": [
+    "https://x.com/sadaaki",
+    "https://ja.wikipedia.org/wiki/%E5%8A%A0%E8%97%A4%E8%B2%9E%E9%A1%95",
+    "https://note.com/sadaaki",
+    "https://www.wantedly.com/companies/company_1284824/post_articles/483167",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.linkedin.com/in/rbhagler",
+    "https://the-shashi.com/tse/5243/ceo/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Newstoryhomes X 投稿",
+   "results": [
+    "https://x.com/newstoryhomes",
+    "https://x.com/NewStoryHomes/status/2001762736544288987",
+    "https://x.com/onemorehome/reposts",
+    "https://x.com/NewStoryHomes/status/765229865096192001",
+    "https://www.newstoryhomes.org/",
+    "https://hq.newstoryhomes.org/",
+    "https://www.xvideos.com/?k=素人投稿++無修正"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部26頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部26頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部26頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部26頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部26頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部26頁・検索12回）"
+ }
+}

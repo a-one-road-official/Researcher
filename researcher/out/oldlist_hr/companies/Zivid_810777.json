@@ -1,0 +1,1457 @@
+{
+ "name": "Zivid",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AI送信失敗",
+ "researched_at": "2026-11-11T13:23:50.569594+00:00",
+ "official_url": "https://www.zivid.com/",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2015",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%B4%E3%82%A3%E3%83%83%E3%83%89",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "01-Jan-2016    Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/167698-81",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Documentation Downloads",
+    "url": "https://www.zivid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Inbolt's flexible high-precision solution for robot guidance",
+    "url": "https://www.zivid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From onboarding to product launch and beyond, our vision engineers provide hands-on assistance.",
+    "url": "https://www.zivid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Zivid’s 3D machine vision and Motion technology powers smarter factories and warehouse automation. Our market-leading 3D color cameras and software enable customers to increase efficiency and productivity across industrial vision guided applications such as robotic bin-picking, piece-picking, assembly, inspection, and depalletization.",
+    "url": "https://www.zivid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Documentation Downloads",
+    "url": "https://www.zivid.com/en/application-stories/ing-robotics-delivers-all-in-one-3d-vision-solutions-for-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "maintains high performance despite temperature changes, making it ideal for precision assembly automation regardless of external factors. ING Robotics Co., Ltd. introduced a 3D vision solution called ROBOEYE, which integrates process management with in-house developed software to meet various customer needs.",
+    "url": "https://www.zivid.com/en/application-stories/ing-robotics-delivers-all-in-one-3d-vision-solutions-for-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "The ROBOEYE automation solution, equipped with the Zivid 3D camera, is currently being applied in several factories in South Korea. Additionally, ING Robotics has developed customized grippers and accessories, now available on their web shop. Through these advancements, ING Robotics Co., Ltd. aims to accelerate its sales in both domestic and international markets as a one-stop solution provider.",
+    "url": "https://www.zivid.com/en/application-stories/ing-robotics-delivers-all-in-one-3d-vision-solutions-for-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "“Zivid 3D cameras are equipped with a Temp-calibration function that maintains high performance despite temperature changes, making them suitable for harsh industrial environments. This feature is a significant advantage as it ensures problem-free use in actual factory settings for long periods, even in assembly tasks requiring high precision.”",
+    "url": "https://www.zivid.com/en/application-stories/ing-robotics-delivers-all-in-one-3d-vision-solutions-for-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Zivid 3D cameras are equipped with a Temp-calibration function that maintains high performance despite temperature changes, making them suitable for harsh industrial environments. This feature is a significant advantage as it ensures problem-free use in actual factory settings for long periods, even in assembly tasks requiring high precision,\" said Byung-Koo Lee, CEO of ING Robotics.",
+    "url": "https://www.zivid.com/en/application-stories/ing-robotics-delivers-all-in-one-3d-vision-solutions-for-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "ING Robotics, a Korean SME with 24 years of experience in factory automation technology, primarily serves automotive parts companies. They provide one-stop total solutions to smart factories, specializing in 3D vision technology, smart factory automation, and industrial software.",
+    "url": "https://www.zivid.com/en/application-stories/ing-robotics-delivers-all-in-one-3d-vision-solutions-for-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Zivid’s 3D machine vision and Motion technology powers smarter factories and warehouse automation. Our market-leading 3D color cameras and software enable customers to increase efficiency and productivity across industrial vision guided applications such as robotic bin-picking, piece-picking, assembly, inspection, and depalletization.",
+    "url": "https://www.zivid.com/en/application-stories/ing-robotics-delivers-all-in-one-3d-vision-solutions-for-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Documentation Downloads",
+    "url": "https://www.zivid.com/en/application-stories",
+    "pass": 1
+   },
+   {
+    "quote": "your automation project.",
+    "url": "https://www.zivid.com/en/application-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Zivid’s 3D machine vision and Motion technology powers smarter factories and warehouse automation. Our market-leading 3D color cameras and software enable customers to increase efficiency and productivity across industrial vision guided applications such as robotic bin-picking, piece-picking, assembly, inspection, and depalletization.",
+    "url": "https://www.zivid.com/en/application-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Documentation Downloads",
+    "url": "https://www.zivid.com/application-stories/optimizing-put-wall-solutions-for-order-fulfillment-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "’ AI PUTWALL is designed to automate the piece-picking process for various goods in the pharmaceutical and cosmetics sectors. The complexity and variability of the items being handled in terms of size, shape, and transparency are the biggest challenges in this industry.",
+    "url": "https://www.zivid.com/application-stories/optimizing-put-wall-solutions-for-order-fulfillment-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "The solution demonstrated impressive cycle time performance, maintaining high-speed operations essential for meeting the demands of a busy warehouse environment. The integration provided by Teknics is deployed in a real-world scenario, highlighting the practical benefits of the Simatic Robot Pick AI solution.",
+    "url": "https://www.zivid.com/application-stories/optimizing-put-wall-solutions-for-order-fulfillment-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "Teknics, a prominent system integrator in Spain specializing in the pharmaceutical and cosmetics sectors, is currently using Simatic Robot Pick AI for a Put Wall application. Teknics’ AI PUTWALL is designed to automate the piece-picking process for various goods, aiming to improve operational efficiency in a logistics center.",
+    "url": "https://www.zivid.com/application-stories/optimizing-put-wall-solutions-for-order-fulfillment-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "Additionally, the automation system needed to operate reliably and efficiently under real-world conditions, which are far more demanding than controlled lab environments. The throughput requirements were stringent, as the system had to process many items quickly to meet the operational demands of a busy warehouse.",
+    "url": "https://www.zivid.com/application-stories/optimizing-put-wall-solutions-for-order-fulfillment-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "Zivid 2+ 3D camera: Industrial-grade 3D camera providing high-resolution 3D images and capable of handling transparent and reflective objects, essential for the diverse range of products in the pharmaceutical sector.",
+    "url": "https://www.zivid.com/application-stories/optimizing-put-wall-solutions-for-order-fulfillment-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "Vacuum gripper: An adaptive gripper capable of handling various product textures, shapes, and weights.",
+    "url": "https://www.zivid.com/application-stories/optimizing-put-wall-solutions-for-order-fulfillment-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "RFID technology: Used to identify and track items accurately, supporting the batch-picking process.",
+    "url": "https://www.zivid.com/application-stories/optimizing-put-wall-solutions-for-order-fulfillment-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "Simatic Robot Pick AI software: The brain of the system, providing the intelligence needed to handle a wide range of products without the need for extensive retraining.",
+    "url": "https://www.zivid.com/application-stories/optimizing-put-wall-solutions-for-order-fulfillment-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "The setup process was impressively efficient: Siemens and Teknics managed to build and demonstrate a working prototype within a single morning, showcasing the system's ease of integration and rapid deployment capabilities.",
+    "url": "https://www.zivid.com/application-stories/optimizing-put-wall-solutions-for-order-fulfillment-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "The entire system is built with industrial-grade components, including the 3D camera, robot arm, gripper, and IPC, to ensure robust and reliable performance in demanding real-world environments. The solution demonstrated impressive cycle time performance, maintaining high-speed operations essential for meeting the demands of a busy warehouse environment.",
+    "url": "https://www.zivid.com/application-stories/optimizing-put-wall-solutions-for-order-fulfillment-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "The implementation of the Simatic Robot Pick AI solution with the Zivid 2+ camera yielded significant improvements in operational efficiency and accuracy. Some notable outcomes included:",
+    "url": "https://www.zivid.com/application-stories/optimizing-put-wall-solutions-for-order-fulfillment-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "Reduced training time: The AI system's ability to manage new products without extensive retraining drastically reduced the setup time for new items.",
+    "url": "https://www.zivid.com/application-stories/optimizing-put-wall-solutions-for-order-fulfillment-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "Enhanced picking accuracy: The high-quality 3D imaging and advanced AI algorithms ensured precise identification and handling of products, minimizing errors.",
+    "url": "https://www.zivid.com/application-stories/optimizing-put-wall-solutions-for-order-fulfillment-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "Improved throughput: The system can perform high-speed operations, essential for meeting the demands of a busy warehouse environment.",
+    "url": "https://www.zivid.com/application-stories/optimizing-put-wall-solutions-for-order-fulfillment-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "Flexibility: The solution proved adaptable to various product types, from pharmaceuticals to cosmetics, demonstrating its versatility across different sectors.",
+    "url": "https://www.zivid.com/application-stories/optimizing-put-wall-solutions-for-order-fulfillment-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "The integration provided by Teknics is deployed in a real-world scenario, highlighting the practical benefits of the Simatic Robot Pick AI solution. By leveraging advanced AI and innovative 3D vision technology, Siemens successfully addressed the key challenges in automated material handling, paving the way for broader adoption in the intralogistics, logistics, and manufacturing industries.",
+    "url": "https://www.zivid.com/application-stories/optimizing-put-wall-solutions-for-order-fulfillment-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "Siemens is a global technology company based in Germany, known for its innovative solutions in industrial automation, energy, healthcare, and infrastructure. With a strong emphasis on digital transformation, Siemens provides software and IoT-based solutions that support the transition to cleaner energy, smarter manufacturing, and resilient infrastructure globally.",
+    "url": "https://www.zivid.com/application-stories/optimizing-put-wall-solutions-for-order-fulfillment-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "Zivid’s 3D machine vision and Motion technology powers smarter factories and warehouse automation. Our market-leading 3D color cameras and software enable customers to increase efficiency and productivity across industrial vision guided applications such as robotic bin-picking, piece-picking, assembly, inspection, and depalletization.",
+    "url": "https://www.zivid.com/application-stories/optimizing-put-wall-solutions-for-order-fulfillment-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "Documentation Downloads",
+    "url": "https://www.zivid.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We are not building complete robotic systems. We provide industry-leading 3D perception and motion technology that automation integrators and robotics companies rely on to solve real-world challenges in logistics, manufacturing, and e-commerce.",
+    "url": "https://www.zivid.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "#1 product",
+    "url": "https://www.zivid.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "3D and robot vision research at SINTEF by Øystein Skotheim and Henrik Schumann-Olsen. Start of strategic project in 2011 creating a real-time 3D color camera.",
+    "url": "https://www.zivid.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "With over two decades of in-house R&D and deep expertise in optical sensors and 3D machine vision hardware and software, Zivid empowers customers to enhance efficiency and productivity across a range of applications, including bin picking, pick-and-place, assembly, packaging, and inspection.",
+    "url": "https://www.zivid.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Zivid is committed to sustainability through continuous innovation and improvement. We prioritize quality, regulatory compliance, and work exclusively with suppliers and contract manufacturers who share our high sustainability standards.",
+    "url": "https://www.zivid.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Explore how Zivid promotes environmental responsibility, people sustainability, transparency, and strong partnerships through our Environmental Requirements and ongoing initiatives.",
+    "url": "https://www.zivid.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "General: marketing@zivid.com",
+    "url": "https://www.zivid.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Zivid’s 3D machine vision and Motion technology powers smarter factories and warehouse automation. Our market-leading 3D color cameras and software enable customers to increase efficiency and productivity across industrial vision guided applications such as robotic bin-picking, piece-picking, assembly, inspection, and depalletization.",
+    "url": "https://www.zivid.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Documentation Downloads",
+    "url": "https://www.zivid.com/quote-request?hsCtaAttrib=186530689883",
+    "pass": 1
+   },
+   {
+    "quote": "Compare our 3D cameras in one glance with our Product Selector.",
+    "url": "https://www.zivid.com/quote-request?hsCtaAttrib=186530689883",
+    "pass": 1
+   },
+   {
+    "quote": "Go to Product Selector →",
+    "url": "https://www.zivid.com/quote-request?hsCtaAttrib=186530689883",
+    "pass": 1
+   },
+   {
+    "quote": "Zivid’s 3D machine vision and Motion technology powers smarter factories and warehouse automation. Our market-leading 3D color cameras and software enable customers to increase efficiency and productivity across industrial vision guided applications such as robotic bin-picking, piece-picking, assembly, inspection, and depalletization.",
+    "url": "https://www.zivid.com/quote-request?hsCtaAttrib=186530689883",
+    "pass": 1
+   },
+   {
+    "quote": "Documentation Downloads",
+    "url": "https://www.zivid.com/en/applications/3d-vision-for-the-manufacturing-industry",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you're evaluating cameras for a new cell or replacing a system that couldn't handle your parts, these are the problems Zivid is designed around.",
+    "url": "https://www.zivid.com/en/applications/3d-vision-for-the-manufacturing-industry",
+    "pass": 1
+   },
+   {
+    "quote": "Precision 3D vision for complex assembly tasks",
+    "url": "https://www.zivid.com/en/applications/3d-vision-for-the-manufacturing-industry",
+    "pass": 1
+   },
+   {
+    "quote": "Robotic assembly demands precise alignment and complete point cloud data. Zivid 3D cameras are purpose-built to handle the most challenging assembly parts and industrial conditions.",
+    "url": "https://www.zivid.com/en/applications/3d-vision-for-the-manufacturing-industry",
+    "pass": 1
+   },
+   {
+    "quote": "Minor deviations cause misloads, collisions, and unplanned downtime. Zivid 3D cameras deliver accurate, low-noise, repeatable 3D data across varying materials and lighting conditions.",
+    "url": "https://www.zivid.com/en/applications/3d-vision-for-the-manufacturing-industry",
+    "pass": 1
+   },
+   {
+    "quote": "clearly separates parts and captures fine orientation details — no pre-sorting required",
+    "url": "https://www.zivid.com/en/applications/3d-vision-for-the-manufacturing-industry",
+    "pass": 1
+   },
+   {
+    "quote": "infield correction tools and presets minimise tuning; accurate grasping in a single shot eliminates realignment jigs",
+    "url": "https://www.zivid.com/en/applications/3d-vision-for-the-manufacturing-industry",
+    "pass": 1
+   },
+   {
+    "quote": "Stop reprogramming weld paths. Start welding accurately.",
+    "url": "https://www.zivid.com/en/applications/3d-vision-for-the-manufacturing-industry",
+    "pass": 1
+   },
+   {
+    "quote": "Vision engineers need a camera that produces clean, dense, accurate data — not a point cloud that requires aggressive filtering before it's usable. Here's what Zivid delivers at the sensor level.",
+    "url": "https://www.zivid.com/en/applications/3d-vision-for-the-manufacturing-industry",
+    "pass": 1
+   },
+   {
+    "quote": "Zivid 3D cameras have a dimensional trueness error of <0.2% — meaning all objects are represented true to reality in position, dimension, and orientation, even in harsh conditions.",
+    "url": "https://www.zivid.com/en/applications/3d-vision-for-the-manufacturing-industry",
+    "pass": 1
+   },
+   {
+    "quote": "3D presets",
+    "url": "https://www.zivid.com/en/applications/3d-vision-for-the-manufacturing-industry",
+    "pass": 1
+   },
+   {
+    "quote": "Simplify camera parameter tuning and eliminate the need for manual adjustments in most cases. Preset categories cover consumer goods, parcels, manufacturing, and inspection.",
+    "url": "https://www.zivid.com/en/applications/3d-vision-for-the-manufacturing-industry",
+    "pass": 1
+   },
+   {
+    "quote": "GrayMatter integrated the Zivid camera into their AI-powered robotic cells, enabling precise, color-accurate 3D scanning for surface finishing applications.",
+    "url": "https://www.zivid.com/en/applications/3d-vision-for-the-manufacturing-industry",
+    "pass": 1
+   },
+   {
+    "quote": "ING Robotics introduced ROBOEYE, a 3D vision solution combining the Zivid 2+ L110 3D for precision assembly automation.",
+    "url": "https://www.zivid.com/en/applications/3d-vision-for-the-manufacturing-industry",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Industrial 3D cameras for robotic automation - Zivid",
+    "url": "https://www.zivid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Solwr's unique mobile picking robot for warehouse automation",
+    "url": "https://www.zivid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ING Robotics' all-in-one 3D vision solution for manufacturing",
+    "url": "https://www.zivid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Zivid’s 3D machine vision and Motion technology powers smarter factories and warehouse automation. Our market-leading 3D color cameras and software enable customers to increase efficiency and productivity across industrial vision guided applications such as robotic bin-picking, piece-picking, assembly, inspection, and depalletization.",
+    "url": "https://www.zivid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ING Robotics Delivers All-in-One 3D Vision Solutions for Manufacturing",
+    "url": "https://www.zivid.com/en/application-stories/ing-robotics-delivers-all-in-one-3d-vision-solutions-for-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Delivering All-in-One 3D Vision Solutions for Manufacturing",
+    "url": "https://www.zivid.com/en/application-stories/ing-robotics-delivers-all-in-one-3d-vision-solutions-for-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "has been automating automotive parts using 3D vision technology. However, they faced challenges in using a single automation solution due to diverse customer requirements. Furthermore, selecting a high-quality 3D machine vision camera that could perform reliably in tough manufacturing environments was essential.",
+    "url": "https://www.zivid.com/en/application-stories/ing-robotics-delivers-all-in-one-3d-vision-solutions-for-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "The ROBOEYE automation solution, equipped with the Zivid 3D camera, is currently being applied in several factories in South Korea. Additionally, ING Robotics has developed customized grippers and accessories, now available on their web shop. Through these advancements, ING Robotics Co., Ltd. aims to accelerate its sales in both domestic and international markets as a one-stop solution provider.",
+    "url": "https://www.zivid.com/en/application-stories/ing-robotics-delivers-all-in-one-3d-vision-solutions-for-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive automation",
+    "url": "https://www.zivid.com/en/application-stories/ing-robotics-delivers-all-in-one-3d-vision-solutions-for-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing automation",
+    "url": "https://www.zivid.com/en/application-stories/ing-robotics-delivers-all-in-one-3d-vision-solutions-for-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial 3D camera",
+    "url": "https://www.zivid.com/en/application-stories/ing-robotics-delivers-all-in-one-3d-vision-solutions-for-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "“Zivid 3D cameras are equipped with a Temp-calibration function that maintains high performance despite temperature changes, making them suitable for harsh industrial environments. This feature is a significant advantage as it ensures problem-free use in actual factory settings for long periods, even in assembly tasks requiring high precision.”",
+    "url": "https://www.zivid.com/en/application-stories/ing-robotics-delivers-all-in-one-3d-vision-solutions-for-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Zivid 3D cameras are equipped with a Temp-calibration function that maintains high performance despite temperature changes, making them suitable for harsh industrial environments. This feature is a significant advantage as it ensures problem-free use in actual factory settings for long periods, even in assembly tasks requiring high precision,\" said Byung-Koo Lee, CEO of ING Robotics.",
+    "url": "https://www.zivid.com/en/application-stories/ing-robotics-delivers-all-in-one-3d-vision-solutions-for-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "ING Robotics, a Korean SME with 24 years of experience in factory automation technology, primarily serves automotive parts companies. They provide one-stop total solutions to smart factories, specializing in 3D vision technology, smart factory automation, and industrial software.",
+    "url": "https://www.zivid.com/en/application-stories/ing-robotics-delivers-all-in-one-3d-vision-solutions-for-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Zivid’s 3D machine vision and Motion technology powers smarter factories and warehouse automation. Our market-leading 3D color cameras and software enable customers to increase efficiency and productivity across industrial vision guided applications such as robotic bin-picking, piece-picking, assembly, inspection, and depalletization.",
+    "url": "https://www.zivid.com/en/application-stories/ing-robotics-delivers-all-in-one-3d-vision-solutions-for-manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "and in their industrial automation applications.",
+    "url": "https://www.zivid.com/en/application-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Zivid’s 3D machine vision and Motion technology powers smarter factories and warehouse automation. Our market-leading 3D color cameras and software enable customers to increase efficiency and productivity across industrial vision guided applications such as robotic bin-picking, piece-picking, assembly, inspection, and depalletization.",
+    "url": "https://www.zivid.com/en/application-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study - Optimizing Put Wall Solutions for Order Fulfillment",
+    "url": "https://www.zivid.com/application-stories/optimizing-put-wall-solutions-for-order-fulfillment-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "The solution demonstrated impressive cycle time performance, maintaining high-speed operations essential for meeting the demands of a busy warehouse environment. The integration provided by Teknics is deployed in a real-world scenario, highlighting the practical benefits of the Simatic Robot Pick AI solution.",
+    "url": "https://www.zivid.com/application-stories/optimizing-put-wall-solutions-for-order-fulfillment-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "Additionally, the automation system needed to operate reliably and efficiently under real-world conditions, which are far more demanding than controlled lab environments. The throughput requirements were stringent, as the system had to process many items quickly to meet the operational demands of a busy warehouse.",
+    "url": "https://www.zivid.com/application-stories/optimizing-put-wall-solutions-for-order-fulfillment-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse Management System (WMS)",
+    "url": "https://www.zivid.com/application-stories/optimizing-put-wall-solutions-for-order-fulfillment-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "- industrial 3D camera",
+    "url": "https://www.zivid.com/application-stories/optimizing-put-wall-solutions-for-order-fulfillment-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "Compared to other solutions offered on the market, our solution uses an entirely industrial system. In a real-life scenario, you better have industrial grade components because the conditions are different from a lab.",
+    "url": "https://www.zivid.com/application-stories/optimizing-put-wall-solutions-for-order-fulfillment-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "Zivid 2+ 3D camera: Industrial-grade 3D camera providing high-resolution 3D images and capable of handling transparent and reflective objects, essential for the diverse range of products in the pharmaceutical sector.",
+    "url": "https://www.zivid.com/application-stories/optimizing-put-wall-solutions-for-order-fulfillment-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "Siemens industrial PC (IPC): Powers the AI and automation software, ensuring robust and reliable performance.",
+    "url": "https://www.zivid.com/application-stories/optimizing-put-wall-solutions-for-order-fulfillment-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "The entire system is built with industrial-grade components, including the 3D camera, robot arm, gripper, and IPC, to ensure robust and reliable performance in demanding real-world environments. The solution demonstrated impressive cycle time performance, maintaining high-speed operations essential for meeting the demands of a busy warehouse environment.",
+    "url": "https://www.zivid.com/application-stories/optimizing-put-wall-solutions-for-order-fulfillment-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "Improved throughput: The system can perform high-speed operations, essential for meeting the demands of a busy warehouse environment.",
+    "url": "https://www.zivid.com/application-stories/optimizing-put-wall-solutions-for-order-fulfillment-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "The integration provided by Teknics is deployed in a real-world scenario, highlighting the practical benefits of the Simatic Robot Pick AI solution. By leveraging advanced AI and innovative 3D vision technology, Siemens successfully addressed the key challenges in automated material handling, paving the way for broader adoption in the intralogistics, logistics, and manufacturing industries.",
+    "url": "https://www.zivid.com/application-stories/optimizing-put-wall-solutions-for-order-fulfillment-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "Siemens is a global technology company based in Germany, known for its innovative solutions in industrial automation, energy, healthcare, and infrastructure. With a strong emphasis on digital transformation, Siemens provides software and IoT-based solutions that support the transition to cleaner energy, smarter manufacturing, and resilient infrastructure globally.",
+    "url": "https://www.zivid.com/application-stories/optimizing-put-wall-solutions-for-order-fulfillment-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "Founded in 1992, Teknics has been supplying automation and flexible assembly solutions. Its headquarters are in Barberà del Vallès near Barcelona, with subsidiaries in the Czech Republic and France. With more than 150 engineers and specialists, the company supplies automation solutions for the cosmetics, medical, automotive, pharmaceutical, and packaging industries.",
+    "url": "https://www.zivid.com/application-stories/optimizing-put-wall-solutions-for-order-fulfillment-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "Zivid’s 3D machine vision and Motion technology powers smarter factories and warehouse automation. Our market-leading 3D color cameras and software enable customers to increase efficiency and productivity across industrial vision guided applications such as robotic bin-picking, piece-picking, assembly, inspection, and depalletization.",
+    "url": "https://www.zivid.com/application-stories/optimizing-put-wall-solutions-for-order-fulfillment-with-siemens",
+    "pass": 1
+   },
+   {
+    "quote": "We are not building complete robotic systems. We provide industry-leading 3D perception and motion technology that automation integrators and robotics companies rely on to solve real-world challenges in logistics, manufacturing, and e-commerce.",
+    "url": "https://www.zivid.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Zivid 1+ Expands Industrial Automation →",
+    "url": "https://www.zivid.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading automation companies",
+    "url": "https://www.zivid.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Zivid is committed to sustainability through continuous innovation and improvement. We prioritize quality, regulatory compliance, and work exclusively with suppliers and contract manufacturers who share our high sustainability standards.",
+    "url": "https://www.zivid.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Zivid’s 3D machine vision and Motion technology powers smarter factories and warehouse automation. Our market-leading 3D color cameras and software enable customers to increase efficiency and productivity across industrial vision guided applications such as robotic bin-picking, piece-picking, assembly, inspection, and depalletization.",
+    "url": "https://www.zivid.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Zivid offers pure-play structured-light 3D cameras for industrial applications.",
+    "url": "https://www.zivid.com/quote-request?hsCtaAttrib=186530689883",
+    "pass": 1
+   },
+   {
+    "quote": "Zivid’s 3D machine vision and Motion technology powers smarter factories and warehouse automation. Our market-leading 3D color cameras and software enable customers to increase efficiency and productivity across industrial vision guided applications such as robotic bin-picking, piece-picking, assembly, inspection, and depalletization.",
+    "url": "https://www.zivid.com/quote-request?hsCtaAttrib=186530689883",
+    "pass": 1
+   },
+   {
+    "quote": "3D machine vision for the manufacturing industry",
+    "url": "https://www.zivid.com/en/applications/3d-vision-for-the-manufacturing-industry",
+    "pass": 1
+   },
+   {
+    "quote": "working in manufacturing",
+    "url": "https://www.zivid.com/en/applications/3d-vision-for-the-manufacturing-industry",
+    "pass": 1
+   },
+   {
+    "quote": "Harsh industrial environments",
+    "url": "https://www.zivid.com/en/applications/3d-vision-for-the-manufacturing-industry",
+    "pass": 1
+   },
+   {
+    "quote": "Rotate, zoom, and explore real point clouds of manufacturing parts — shiny metals, CNC blanks, weld joints — captured with a Zivid 3D camera.",
+    "url": "https://www.zivid.com/en/applications/3d-vision-for-the-manufacturing-industry",
+    "pass": 1
+   },
+   {
+    "quote": "Zivid cameras capture the data — your team builds the solution. Here's what's been built across manufacturing floors worldwide.",
+    "url": "https://www.zivid.com/en/applications/3d-vision-for-the-manufacturing-industry",
+    "pass": 1
+   },
+   {
+    "quote": "Robotic assembly demands precise alignment and complete point cloud data. Zivid 3D cameras are purpose-built to handle the most challenging assembly parts and industrial conditions.",
+    "url": "https://www.zivid.com/en/applications/3d-vision-for-the-manufacturing-industry",
+    "pass": 1
+   },
+   {
+    "quote": "Built for industrial environments:",
+    "url": "https://www.zivid.com/en/applications/3d-vision-for-the-manufacturing-industry",
+    "pass": 1
+   },
+   {
+    "quote": "Built for the factory floor:",
+    "url": "https://www.zivid.com/en/applications/3d-vision-for-the-manufacturing-industry",
+    "pass": 1
+   },
+   {
+    "quote": "Factory-calibrated point clouds",
+    "url": "https://www.zivid.com/en/applications/3d-vision-for-the-manufacturing-industry",
+    "pass": 1
+   },
+   {
+    "quote": "Simplify camera parameter tuning and eliminate the need for manual adjustments in most cases. Preset categories cover consumer goods, parcels, manufacturing, and inspection.",
+    "url": "https://www.zivid.com/en/applications/3d-vision-for-the-manufacturing-industry",
+    "pass": 1
+   },
+   {
+    "quote": "ING Robotics | 3D vision solution for manufacturing",
+    "url": "https://www.zivid.com/en/applications/3d-vision-for-the-manufacturing-industry",
+    "pass": 1
+   },
+   {
+    "quote": "CMES | Automotive Assembly",
+    "url": "https://www.zivid.com/en/applications/3d-vision-for-the-manufacturing-industry",
+    "pass": 1
+   },
+   {
+    "quote": "CMES fuse deep learning with 3D machine vision to change the face of automotive assembly.",
+    "url": "https://www.zivid.com/en/applications/3d-vision-for-the-manufacturing-industry",
+    "pass": 1
+   },
+   {
+    "quote": "Zivid’s 3D machine vision and Motion technology powers smarter factories and warehouse automation. Our market-leading 3D color cameras and software enable customers to increase efficiency and productivity across industrial vision guided applications such as robotic bin-picking, piece-picking, assembly, inspection, and depalletization.",
+    "url": "https://www.zivid.com/en/applications/3d-vision-for-the-manufacturing-industry",
+    "pass": 1
+   },
+   {
+    "quote": "Solwr Mobile Picking Robots for Warehouse Automation",
+    "url": "https://www.zivid.com/application-stories/solwr-mobile-picking-robots-for-warehouse-automation",
+    "pass": 1
+   },
+   {
+    "quote": "Mobile Picking Robots for Warehouse Automation",
+    "url": "https://www.zivid.com/application-stories/solwr-mobile-picking-robots-for-warehouse-automation",
+    "pass": 1
+   },
+   {
+    "quote": "The deployment of Grab™ in warehouses has demonstrated its ability to handle a wide variety of items efficiently and accurately. With a picking rate of 100 items per hour and an error rate of less than 1%, the system ensures smooth operations, reducing the need for human intervention. This solution has increased productivity and improved safety by minimizing manual lifting tasks.",
+    "url": "https://www.zivid.com/application-stories/solwr-mobile-picking-robots-for-warehouse-automation",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse Management System (WMS)",
+    "url": "https://www.zivid.com/application-stories/solwr-mobile-picking-robots-for-warehouse-automation",
+    "pass": 1
+   },
+   {
+    "quote": "- industrial 3D camera",
+    "url": "https://www.zivid.com/application-stories/solwr-mobile-picking-robots-for-warehouse-automation",
+    "pass": 1
+   },
+   {
+    "quote": "To meet the challenges of automating the picking process in dynamic warehouse environments, Solwr chose to integrate Zivid’s advanced 3D vision system. The",
+    "url": "https://www.zivid.com/application-stories/solwr-mobile-picking-robots-for-warehouse-automation",
+    "pass": 1
+   },
+   {
+    "quote": "3D camera provides true-to-life point clouds with exceptional resolution and accuracy, allowing Grab™ to detect and localize a wide range of items with high precision. One of the standout features of the Zivid camera is its ability to capture transparent and reflective objects, a crucial capability given the variety of packaging materials present in food and beverage warehouses.",
+    "url": "https://www.zivid.com/application-stories/solwr-mobile-picking-robots-for-warehouse-automation",
+    "pass": 1
+   },
+   {
+    "quote": "Seamless integration with WMS ensures that Grab™ operates efficiently, receiving real-time pick orders and updating the system with progress, all while using Zivid’s vision capabilities to provide the required accuracy and performance. With this solution, Solwr was able to create a highly reliable, scalable mobile picking robot that excels in diverse warehouse environments.",
+    "url": "https://www.zivid.com/application-stories/solwr-mobile-picking-robots-for-warehouse-automation",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "When your camera arrives, download the latest",
+    "url": "https://www.zivid.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Supports C++, .NET, Python, ROS, and GenICam/HALCON — use the API to manage cameras, control acquisitions, and access point cloud data in your language of choice.",
+    "url": "https://www.zivid.com/en/applications/3d-vision-for-the-manufacturing-industry",
+    "pass": 1
+   },
+   {
+    "quote": "The unique 2D + 3D data offered by Zivid streamlines the vision processing, giving Grab™ the ability to not only detect the items but also accurately determine their pickability and proper placement on the load carrier. This precision allows Grab™ to handle objects even in disorganized and confined spaces, with minimal risk of errors.",
+    "url": "https://www.zivid.com/application-stories/solwr-mobile-picking-robots-for-warehouse-automation",
+    "pass": 1
+   },
+   {
+    "quote": "Their solutions serve a wide array of industries (aerospace & defense, automotive OEM, marine & shipbuilding, industrial equipment & heavy machinery, specialty vehicles, metal fabrication, energy…).",
+    "url": "https://www.zivid.com/application-stories/case-study-graymatter-robotics-ai-powered-robotic-surface-finishing",
+    "pass": 1
+   },
+   {
+    "quote": "Color & feature recognition: Capturing detailed color information was vital for targeted processing, requiring a vision system capable of high-fidelity color acquisition.",
+    "url": "https://www.zivid.com/application-stories/case-study-graymatter-robotics-ai-powered-robotic-surface-finishing",
+    "pass": 1
+   },
+   {
+    "quote": "Part of the R-series family, the Zivid 2+ MR60 played a crucial role in enabling precision and adaptability. Key advantages included:",
+    "url": "https://www.zivid.com/application-stories/case-study-graymatter-robotics-ai-powered-robotic-surface-finishing",
+    "pass": 1
+   },
+   {
+    "quote": "When we identified the need for capturing 3D data on transparent objects in eCommerce and intra-logistics, we saw it as an opportunity rather than a barrier. Despite the taboo surrounding transparency in 3D imaging, we embraced the challenge with determination. This is the mindset we use across our entire organization, doing our best to make what feels impossible, possible.",
+    "url": "https://www.inbolt.com/resources/blog/pioneering-visionaries-zivid-and-inbolts-perspectives-on-3d-vision/",
+    "pass": 3
+   },
+   {
+    "quote": "We are super happy to be part of your robot guidance solution with the",
+    "url": "https://www.inbolt.com/resources/blog/pioneering-visionaries-zivid-and-inbolts-perspectives-on-3d-vision/",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/167698-81",
+    "pass": 3
+   },
+   {
+    "quote": "Corporate Backed or Acquired",
+    "url": "https://pitchbook.com/profiles/company/167698-81",
+    "pass": 3
+   },
+   {
+    "quote": "Zivid has 97 total employees.",
+    "url": "https://pitchbook.com/profiles/company/167698-81",
+    "pass": 3
+   },
+   {
+    "quote": "What is Zivid’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/167698-81",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Zivid is",
+    "url": "https://pitchbook.com/profiles/company/167698-81",
+    "pass": 3
+   },
+   {
+    "quote": "Zivid: Revenue, Competitors, Alternatives",
+    "url": "https://growjo.com/company/Zivid",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and Competitors",
+    "url": "https://growjo.com/company/Zivid",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/Zivid",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/Zivid",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated revenue per employee is $",
+    "url": "https://growjo.com/company/Zivid",
+    "pass": 3
+   },
+   {
+    "quote": "... Current Industry Strategies, New Investments, Revenue and Forecast to 2028 | Fanuc, Universal Robots, KUKA, Blumenbecker, ABB, Zivid, Cross Company.",
+    "url": "https://growjo.com/company/Zivid",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "New SDK and GUI. Expansion to China, South Korea, Japan, USA, Canada.",
+    "url": "https://www.zivid.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Zividは中国、韓国、北米に販売オフィスを開設し、カナダ、中国、日本、アメリカに最初の販売代理店を任命しました",
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%B4%E3%82%A3%E3%83%83%E3%83%89",
+    "pass": 3
+   },
+   {
+    "quote": "3Dマシンビジョン・3Dセンサーのメーカー・販売代理店22社まとめ",
+    "url": "https://www.3d-machinevision.com/list/",
+    "pass": 3
+   },
+   {
+    "quote": "ここでは、編集部が厳選した、3Dマシンビジョン・3Dセンサーのメーカー・販売代理店22社について、それぞれの特徴を簡単にご紹介します",
+    "url": "https://www.3d-machinevision.com/list/",
+    "pass": 3
+   },
+   {
+    "quote": "映像機器や事務機器の開発・製造で知られる、日本の大手精密機器メーカーです",
+    "url": "https://www.3d-machinevision.com/list/",
+    "pass": 3
+   },
+   {
+    "quote": "「日本にない技術を世界から」をキーワードに、世界各国で生まれた新しい技術製品を輸入し、販売と技術サポートを行っている専門商社です",
+    "url": "https://www.3d-machinevision.com/list/",
+    "pass": 3
+   },
+   {
+    "quote": "ドイツで長年3D測定テクノロジーの開発を続けているGOM社と国内総販売代理店契約を結んでおり、国内製造業におけるGOM社の3Dスキャナ活用をサポートしています",
+    "url": "https://www.3d-machinevision.com/list/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社JRCのロボットSI事業部門の事業ブランドです",
+    "url": "https://www.3d-machinevision.com/list/",
+    "pass": 3
+   },
+   {
+    "quote": "アメリカを拠点に、北米、ヨーロッパ、日本、アジア、南アメリカなどで拠点を展開",
+    "url": "https://www.3d-machinevision.com/list/",
+    "pass": 3
+   },
+   {
+    "quote": "ともに成長するという言葉をモットーに掲げ、お互いが長期的に支え合える関係を大切にする東京精密",
+    "url": "https://www.3d-machinevision.com/list/",
+    "pass": 3
+   },
+   {
+    "quote": "東京精密の3Dマシンビジョンを",
+    "url": "https://www.3d-machinevision.com/list/",
+    "pass": 3
+   },
+   {
+    "quote": "東京貿易テクノシステムの3Dマシンビジョンを",
+    "url": "https://www.3d-machinevision.com/list/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dマシンビジョン製品・サービスを提供しているメーカー・販売代理店20社以上を調査",
+    "url": "https://www.3d-machinevision.com/list/",
+    "pass": 3
+   },
+   {
+    "quote": "「3Dマシンビジョン」と検索して上位表示されるメーカーや販売代理店をピックアップ",
+    "url": "https://www.3d-machinevision.com/list/",
+    "pass": 3
+   },
+   {
+    "quote": "Zivid Opens New Office in Japan - Rockingrobots",
+    "url": "https://www.rockingrobots.com/zivid-opens-new-office-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Zivid Opens New Office in Japan",
+    "url": "https://www.rockingrobots.com/zivid-opens-new-office-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Mikkel Orheim, Senior Vice President of Sales and Marketing at Zivid, emphasized that the Tokyo office represents a strategic move to scale the company’s 3D vision solutions and strengthen relationships with Japanese customers. Zivid views Japan as a key market for expanding its automation and artificial intelligence offerings.",
+    "url": "https://www.rockingrobots.com/zivid-opens-new-office-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "To lead the company’s efforts in Japan, Zivid has appointed Kazuto Kurosawa as Sales Director. Kurosawa has over a decade of experience in technical sales, having worked with companies in the automation sector, including Exotec, Dassault Systèmes, and MUJIN Inc. He expressed enthusiasm about introducing Zivid’s technology to address the complexities of Japan’s automation market.",
+    "url": "https://www.rockingrobots.com/zivid-opens-new-office-in-japan/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Their solutions serve a wide array of industries (aerospace & defense, automotive OEM, marine & shipbuilding, industrial equipment & heavy machinery, specialty vehicles, metal fabrication, energy…).",
+    "url": "https://www.zivid.com/application-stories/case-study-graymatter-robotics-ai-powered-robotic-surface-finishing",
+    "pass": 1
+   },
+   {
+    "quote": "Zivid joins Fizyr partner program",
+    "url": "https://www.rockingrobots.com/zivid-opens-new-office-in-japan/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ロジスティクス、マシンテンディング用産業用3Dカメラ - Zivid — ロジスティクス、マシンテンディング用産業用3Dカメラ - Zivid Zivid 3D cameras https://www.zivid.com > ...",
+    "url": "https://www.zivid.com/ja/",
+    "pass": 3
+   },
+   {
+    "quote": "ジビッドについて - Zivid — ジビッドについて - Zivid Zivid 3D cameras https://www.zivid.com > about",
+    "url": "https://www.zivid.com/ja/about",
+    "pass": 3
+   },
+   {
+    "quote": "先進の3Dビジョン技術でものづくりを探求する - Zivid — 先進の3Dビジョン技術でものづくりを探求する - Zivid Zivid 3D cameras https://www.zivid.com > exploring-manufacturing-with-a...",
+    "url": "https://www.zivid.com/ja/exploring-manufacturing-with-advanced-3d-vision-technology-zivid",
+    "pass": 3
+   },
+   {
+    "quote": "Zivid 高速・高精度3Dカメラ — Zivid 高速・高精度3Dカメラ microtechnica.jp https://www.microtechnica.jp > 取扱製品 > 3Dカメラ",
+    "url": "https://www.microtechnica.jp/products/3d_solution/Zivid3D.html",
+    "pass": 3
+   },
+   {
+    "quote": "Zivid Opens New Office in Japan - Rockingrobots — Zivid Opens New Office in Japan - Rockingrobots rockingrobots.com https://www.rockingrobots.com > zivi...",
+    "url": "https://www.rockingrobots.com/zivid-opens-new-office-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Zivid | Industrial 3D Vision for Robots - YouTube — Zivid | Industrial 3D Vision for Robots - YouTube YouTube https://www.youtube.com > channel",
+    "url": "https://www.youtube.com/channel/UCT3I0QGAfONRJO2GluzIuvg",
+    "pass": 3
+   },
+   {
+    "quote": "Jobs and Careers - Zivid — Jobs and Careers - Zivid Zivid 3D cameras https://www.zivid.com > career-join-z...",
+    "url": "https://www.zivid.com/career-join-zivid",
+    "pass": 3
+   },
+   {
+    "quote": "Application Stories - Zivid — Application Stories - Zivid Zivid 3D cameras https://www.zivid.com > application-s...",
+    "url": "https://www.zivid.com/en/application-stories",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study - Cohesive Robotics Surface Finishing Work Cell — Case Study - Cohesive Robotics Surface Finishing Work Cell Zivid 3D cameras https://www.zivid.com > cohesive-rob...",
+    "url": "https://www.zivid.com/en/application-stories/cohesive-robotics-surface-finishing",
+    "pass": 3
+   },
+   {
+    "quote": "Zivid and Inbolt's Perspectives on 3D Vision — Zivid and Inbolt's Perspectives on 3D Vision Inbolt https://www.inbolt.com > blog > pion...",
+    "url": "https://www.inbolt.com/resources/blog/pioneering-visionaries-zivid-and-inbolts-perspectives-on-3d-vision/",
+    "pass": 3
+   },
+   {
+    "quote": "Zivid - Wikipedia — Zivid - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Zivid",
+    "url": "https://en.wikipedia.org/wiki/Zivid",
+    "pass": 3
+   },
+   {
+    "quote": "Software Licensing - Zivid Knowledge Base — Software Licensing - Zivid Knowledge Base Zivid Knowledge Base https://support.zivid.com > camera",
+    "url": "https://support.zivid.com/en/latest/camera/api-reference/zivid-software-licensing.html",
+    "pass": 3
+   },
+   {
+    "quote": "Zivid 2026 Company Profile: Valuation, Funding & Investors — Zivid 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/167698-81",
+    "pass": 3
+   },
+   {
+    "quote": "Zivid : Revenue , Competitors, Alternatives - Growjo — Zivid : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > company > Zivid",
+    "url": "https://growjo.com/company/Zivid",
+    "pass": 3
+   },
+   {
+    "quote": "Zivid - 2026 Company Profile & Team - Tracxn — Zivid - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/zivid/__Fhog4ONaBZ1NX74kJYT2ao8KU8iP5-ciyMVszVXUHv8",
+    "pass": 3
+   },
+   {
+    "quote": "Zivid AS - Crunchbase Company Profile & Funding — Zivid AS - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > zivid-l...",
+    "url": "https://www.crunchbase.com/organization/zivid-labs-as",
+    "pass": 3
+   },
+   {
+    "quote": "About Zivid — About Zivid Zivid 3D cameras https://www.zivid.com > about",
+    "url": "https://www.zivid.com/about",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/167698-81",
+    "pass": 3
+   },
+   {
+    "quote": "B2B email lists",
+    "url": "https://growjo.com/company/Zivid",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Email Finder",
+    "url": "https://growjo.com/company/Zivid",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Zivid - LinkedIn Zivid - LinkedIn LinkedIn https://www.linkedin.com > zividlabs",
+    "url": "https://www.linkedin.com/company/zividlabs",
+    "pass": 3
+   },
+   {
+    "quote": "Zivid | LinkedIn Zivid | LinkedIn LinkedIn El Salvador https://sv.linkedin.com > zividlabs",
+    "url": "https://sv.linkedin.com/company/zividlabs",
+    "pass": 3
+   },
+   {
+    "quote": "Zivid : Norwegian machine vision company for robotics - LinkedIn Zivid : Norwegian machine vision company for robotics - LinkedIn LinkedIn https://www.linkedin.com > posts > m...",
+    "url": "https://www.linkedin.com/posts/michaelbatemetric_%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%A6%F0%9D%90%A9%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%B2-%F0%9D%90%92%F0%9D%90%A9%F0%9D%90%A8%F0%9D%90%AD%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%A0%F0%9D%90%A1%F0%9D%90%AD-%F0%9D%90%99%F0%9D%90%A2%F0%9D%90%AF-activity-7359563481391529984-nsNb",
+    "pass": 3
+   },
+   {
+    "quote": "Zivid | LinkedIn Zivid | LinkedIn LinkedIn https://jp.linkedin.com > company > zividlabs",
+    "url": "https://jp.linkedin.com/company/zividlabs",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Zivid | Oslo - Facebook Zivid | Oslo - Facebook Facebook https://www.facebook.com > ... > Robotics Company",
+    "url": "https://www.facebook.com/zividlabs/",
+    "pass": 3
+   },
+   {
+    "quote": "Zivid (@zividlabs) - Videoer | Facebook Zivid (@zividlabs) - Videoer | Facebook Facebook https://www.facebook.com > ... > Robotikkselskap > Zivid",
+    "url": "https://www.facebook.com/zividlabs/videos/?locale=nb_NO",
+    "pass": 3
+   },
+   {
+    "quote": "ZIVID 2+ R-SERIES，這些突破性的3D+2D視覺相機將為您的 ... ZIVID 2+ R-SERIES，這些突破性的3D+2D視覺相機將為您的 ... Facebook https://www.facebook.com > getwinauto > posts > 我們很...",
+    "url": "https://www.facebook.com/getwinauto/posts/%E6%88%91%E5%80%91%E5%BE%88%E9%AB%98%E8%88%88%E7%82%BA%E6%82%A8%E4%BB%8B%E7%B4%B9zivid%E6%9C%80%E6%96%B0%E7%B3%BB%E5%88%97-zivid-2-r-series%E9%80%99%E4%BA%9B%E7%AA%81%E7%A0%B4%E6%80%A7%E7%9A%843d2d%E8%A6%96%E8%A6%BA%E7%9B%B8%E6%A9%9F%E5%B0%87%E7%82%BA%E6%82%A8%E7%9A%84%E6%87%89%E7%94%A8%E5%B8%B6%E4%BE%86%E4%BB%A5%E4%B8%8B%E5%84%AA%E5%8B%A2-%E6%AF%94%E4%B8%8A%E4%B8%80%E4%BB%A3%E6%A9%9F%E5%9E%8B%E6%8D%95%E6%8D%89%E9%80%9F%E5%BA%A6%E6%8F%90%E5%8D%873%E5%80%8D-%E4%B8%80%E6%B5%81%E7%9A%84/1115254890647202/",
+    "pass": 3
+   },
+   {
+    "quote": "Zivid Guam - Facebook Zivid Guam - Facebook Facebook https://www.facebook.com > zivid",
+    "url": "https://www.facebook.com/zivid.guam/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.zivid.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zivid.com/en/application-stories/ing-robotics-delivers-all-in-one-3d-vision-solutions-for-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zivid.com/en/application-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zivid.com/application-stories/optimizing-put-wall-solutions-for-order-fulfillment-with-siemens",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zivid.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zivid.com/quote-request?hsCtaAttrib=186530689883",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zivid.com/en/applications/3d-vision-for-the-manufacturing-industry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zivid.com/application-stories/solwr-mobile-picking-robots-for-warehouse-automation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zivid.com/application-stories/inbolt-guidenow",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zivid.com/en/application-stories?hsCtaAttrib=183435906181",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zivid.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zivid.com/quote-request",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zivid.com/application-stories/case-study-graymatter-robotics-ai-powered-robotic-surface-finishing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zivid.com/quote-request?hsCtaAttrib=186530689883",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zivid.com/application-stories/cmes-fuse-deep-learning-with-3d-machine-vision-to-change-the-face-of-automotive-assembly",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.zivid.com/en/latest/?hsCtaAttrib=186536225666",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zivid.com/free-demo-request?hsCtaAttrib=183097073691",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zivid.com/en/applications/3d-vision-for-the-manufacturing-industry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zivid.com/quote-request?hsCtaAttrib=186530689883",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.zivid.com/hs-fs/hubfs/Zivid_January2025/Images/ROBOEYE%20with%20Zivid%202%2B.webp?width=1144&height=640&name=ROBOEYE%20with%20Zivid%202%2B.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%B4%E3%82%A3%E3%83%83%E3%83%89",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.3d-machinevision.com/list/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.microtechnica.jp/products/3d_solution/Zivid3D.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rockingrobots.com/zivid-opens-new-office-in-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%B4%E3%82%A3%E3%83%83%E3%83%89",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/channel/UCT3I0QGAfONRJO2GluzIuvg",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/channel/UCT3I0QGAfONRJO2GluzIuvg",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.inbolt.com/resources/blog/pioneering-visionaries-zivid-and-inbolts-perspectives-on-3d-vision/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.zivid.com/en/latest/camera/api-reference/zivid-software-licensing.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/167698-81",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://growjo.com/company/Zivid",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/zivid/__Fhog4ONaBZ1NX74kJYT2ao8KU8iP5-ciyMVszVXUHv8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/zivid-labs-as",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/zividlabs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sv.linkedin.com/company/zividlabs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/michaelbatemetric_%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%A6%F0%9D%90%A9%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%B2-%F0%9D%90%92%F0%9D%90%A9%F0%9D%90%A8%F0%9D%90%AD%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%A0%F0%9D%90%A1%F0%9D%90%AD-%F0%9D%90%99%F0%9D%90%A2%F0%9D%90%AF-activity-7359563481391529984-nsNb",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/zividlabs/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/zividlabs/videos/?locale=nb_NO",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/getwinauto/posts/%E6%88%91%E5%80%91%E5%BE%88%E9%AB%98%E8%88%88%E7%82%BA%E6%82%A8%E4%BB%8B%E7%B4%B9zivid%E6%9C%80%E6%96%B0%E7%B3%BB%E5%88%97-zivid-2-r-series%E9%80%99%E4%BA%9B%E7%AA%81%E7%A0%B4%E6%80%A7%E7%9A%843d2d%E8%A6%96%E8%A6%BA%E7%9B%B8%E6%A9%9F%E5%B0%87%E7%82%BA%E6%82%A8%E7%9A%84%E6%87%89%E7%94%A8%E5%B8%B6%E4%BE%86%E4%BB%A5%E4%B8%8B%E5%84%AA%E5%8B%A2-%E6%AF%94%E4%B8%8A%E4%B8%80%E4%BB%A3%E6%A9%9F%E5%9E%8B%E6%8D%95%E6%8D%89%E9%80%9F%E5%BA%A6%E6%8F%90%E5%8D%873%E5%80%8D-%E4%B8%80%E6%B5%81%E7%9A%84/1115254890647202/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/zivid.guam/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/zividlabs",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Zivid 日本 導入",
+   "results": [
+    "https://www.zivid.com/ja/",
+    "https://www.zivid.com/ja/about",
+    "https://www.zivid.com/ja/exploring-manufacturing-with-advanced-3d-vision-technology-zivid",
+    "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%B4%E3%82%A3%E3%83%83%E3%83%89",
+    "https://www.robot-digest.com/contents/?id=1736298598-676639",
+    "https://blog.zivid.com/ja/zivid-opens-new-office-in-japan-to-meet-growing-demand-for-industrial-3d-cameras",
+    "https://www.microtechnica.jp/products/3d_solution/Zivid3D.html",
+    "https://www.youtube.com/watch?v=1rfIe9SzloY",
+    "https://www.cbinsights.com/company/zivid",
+    "https://www.zivid.com/ja/zivid-2-plus-r-series"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Zivid 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.zivid.com/ja/about",
+    "https://www.zivid.com/ja/",
+    "https://www.3d-machinevision.com/list/",
+    "https://www.microtechnica.jp/products/3d_solution/Zivid3D.html",
+    "https://www.zivid.com/ja/exploring-manufacturing-with-advanced-3d-vision-technology-zivid",
+    "https://no.linkedin.com/company/zividlabs",
+    "https://en.wikipedia.org/wiki/Zivid",
+    "https://blog.zivid.com/ja/zivid-opens-new-office-in-japan-to-meet-growing-demand-for-industrial-3d-cameras",
+    "https://www.rockingrobots.com/zivid-opens-new-office-in-japan/",
+    "https://ja.wikipedia.org/wiki/日本サムスン"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Zivid Japan",
+   "results": [
+    "https://www.zivid.com/ja/",
+    "https://www.rockingrobots.com/zivid-opens-new-office-in-japan/",
+    "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%B4%E3%82%A3%E3%83%83%E3%83%89",
+    "https://www.youtube.com/channel/UCT3I0QGAfONRJO2GluzIuvg",
+    "https://www.zivid.com/career-join-zivid",
+    "https://www.linkedin.com/company/zividlabs",
+    "https://ja.wikipedia.org/wiki/ジヴィッド",
+    "https://www.zivid.com/ja/zivid-3",
+    "https://www.microtechnica.jp/products/3d_solution/Zivid3D.html",
+    "https://support.zivid.com/ja/latest/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Zivid manufacturing customer case study",
+   "results": [
+    "https://www.zivid.com/en/application-stories",
+    "https://www.zivid.com/en/application-stories/cohesive-robotics-surface-finishing",
+    "https://www.youtube.com/channel/UCT3I0QGAfONRJO2GluzIuvg",
+    "https://www.inbolt.com/resources/blog/pioneering-visionaries-zivid-and-inbolts-perspectives-on-3d-vision/",
+    "https://en.wikipedia.org/wiki/Zivid",
+    "https://metrology.news/zivid-launches-high-performance-3d-vision-for-large-scale-depalletizing-and-bin-picking/",
+    "https://www.visualcomponents.com/case-studies/",
+    "https://www.zivid.com/application-stories/adaxis-hybride-manufacturing",
+    "https://blog.zivid.com/testimonials-from-zivid-customers-in-industrial-automation",
+    "https://info.zivid.com/ebook-success-stories-robot-mounted-vision-applications"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Zivid white label OR reseller OR partner program",
+   "results": [
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://support.zivid.com/en/latest/camera/api-reference/zivid-software-licensing.html",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "https://skyswitch.com/blog/become-a-whitelabel-voip-reseller-full-guide/",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Zivid founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/167698-81",
+    "https://growjo.com/company/Zivid",
+    "https://tracxn.com/d/companies/zivid/__Fhog4ONaBZ1NX74kJYT2ao8KU8iP5-ciyMVszVXUHv8",
+    "https://www.crunchbase.com/organization/zivid-labs-as",
+    "https://www.zivid.com/about",
+    "https://en.wikipedia.org/wiki/Zivid",
+    "https://www.linkedin.com/company/zividlabs",
+    "https://www.zoominfo.com/c/zivid/398196012",
+    "https://www.vision-systems.com/directory/cameras/3d-cameras/company/14065679/zivid",
+    "https://compworth.com/company/zivid"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Zivid",
+   "results": [
+    "https://note.com/fa_fa_fa/n/nc18d9cb7c5ad",
+    "https://note.com/fit_fowl5469/n/n407746b2541a",
+    "https://note.com/fa_fa_fa/n/nc18d9cb7c5ad?hl=ko",
+    "https://note.com/fit_fowl5469/n/n86fec4325e48",
+    "https://note.com/fit_fowl5469/n/n6b5f4e991280",
+    "https://note.com/fit_fowl5469/n/nfd32478204a1",
+    "https://note.com/fit_fowl5469/n/n9266d10bc8d1",
+    "https://note.com/fit_fowl5469/n/ne986c61a2cef",
+    "https://note.com/thomasfa/n/n5b35c27a30a8",
+    "https://note.com/dashboard"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com Zivid",
+   "results": [
+    "https://x.com/FAyaguchi/status/2062481284488913002",
+    "https://x.com/RoboDKinc",
+    "https://x.com/noyakremer",
+    "https://x.com/aawsat_spt/status/2113726389580861813",
+    "https://x.com/Amsterdam1012",
+    "https://x.com/zividtwt",
+    "https://x.com/zividlabs/reposts",
+    "https://x.com/TheRealZivid",
+    "https://x.com/hashtag/zivid",
+    "https://x.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:linkedin.com Zivid",
+   "results": [
+    "https://www.linkedin.com/company/zividlabs",
+    "https://sv.linkedin.com/company/zividlabs",
+    "https://www.linkedin.com/pulse/newsletter-4-real-cost-cheap-machine-vision-hidden-risks-low-end-c3evf",
+    "https://www.linkedin.com/posts/michaelbatemetric_%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%A6%F0%9D%90%A9%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%B2-%F0%9D%90%92%F0%9D%90%A9%F0%9D%90%A8%F0%9D%90%AD%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%A0%F0%9D%90%A1%F0%9D%90%AD-%F0%9D%90%99%F0%9D%90%A2%F0%9D%90%AF-activity-7359563481391529984-nsNb",
+    "https://no.linkedin.com/jobs/view/summer-internships-2027-at-zivid-4457969095",
+    "https://www.linkedin.com/jobs/zivid-jobs-worldwide",
+    "https://no.linkedin.com/in/john-leonard-a914158",
+    "https://no.linkedin.com/in/oskotheim",
+    "https://www.linkedin.com/pulse/how-stop-point-cloud-artifacts-zividlabs",
+    "https://na.linkedin.com/company/zividlabs"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Zivid",
+   "results": [
+    "https://www.facebook.com/zividlabs/",
+    "https://www.facebook.com/zividlabs/videos/?locale=nb_NO",
+    "https://www.facebook.com/getwinauto/posts/%E6%88%91%E5%80%91%E5%BE%88%E9%AB%98%E8%88%88%E7%82%BA%E6%82%A8%E4%BB%8B%E7%B4%B9zivid%E6%9C%80%E6%96%B0%E7%B3%BB%E5%88%97-zivid-2-r-series%E9%80%99%E4%BA%9B%E7%AA%81%E7%A0%B4%E6%80%A7%E7%9A%843d2d%E8%A6%96%E8%A6%BA%E7%9B%B8%E6%A9%9F%E5%B0%87%E7%82%BA%E6%82%A8%E7%9A%84%E6%87%89%E7%94%A8%E5%B8%B6%E4%BE%86%E4%BB%A5%E4%B8%8B%E5%84%AA%E5%8B%A2-%E6%AF%94%E4%B8%8A%E4%B8%80%E4%BB%A3%E6%A9%9F%E5%9E%8B%E6%8D%95%E6%8D%89%E9%80%9F%E5%BA%A6%E6%8F%90%E5%8D%873%E5%80%8D-%E4%B8%80%E6%B5%81%E7%9A%84/1115254890647202/",
+    "https://www.facebook.com/zivid.guam/",
+    "https://www.facebook.com/robotdigest/posts/pr%E3%83%87%E3%83%91%E3%83%AC%E3%82%BF%E3%82%A4%E3%82%BA%E3%82%92%E6%96%B0%E3%81%9F%E3%81%AA%E3%83%AC%E3%83%99%E3%83%AB%E3%81%AB%E5%BC%95%E3%81%8D%E4%B8%8A%E3%81%92%E3%82%8Bzivid-%E7%94%A3%E6%A5%AD%E7%94%A8%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%E8%8D%B7%E5%BD%B9%E5%8F%B0%E3%81%AB%E7%A9%8D%E3%81%BE%E3%82%8C%E3%81%9F%E8%8D%B7%E7%89%A9%E3%82%92%E8%8D%B7%E9%99%8D%E3%82%8D%E3%81%97%E3%81%99%E3%82%8B%E3%83%87%E3%83%91%E3%83%AC%E3%82%BF%E3%82%A4%E3%82%BA%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%81%8C%E8%BF%91%E5%B9%B4%E5%A4%A7%E3%81%8D%E3%81%AA%E6%B3%A8%E7%9B%AE%E3%82%92%E9%9B%86%E3%82%81%E3%81%A6%E3%81%84%E3%82%8B%E8%8D%B7/1394571686016613/",
+    "https://www.facebook.com/schumannolsen/",
+    "https://www.facebook.com/Citizenhousingpk/videos/-karachi-mein-apna-plot-book-karne-ka-behtareen-mauqakya-aap-karachi-mein-afford/1463071446004737/",
+    "https://www.facebook.com/zividlabs/videos/1334269306733884/",
+    "https://www.facebook.com/zividlabs/videos/see-everything-with-zivid-2introducing-the-zivid-2-a-game-changing-3d-color-came/1307076640221358/",
+    "https://www.facebook.com/zividlabs/posts/-we-are-happy-to-welcome-rasmussengruppen-to-the-zivid-family-article-by-dagens-/1343330969395527/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Zivid note 社長",
+   "results": [
+    "https://www.zivid.com/about",
+    "https://www.instagram.com/zivid_as/",
+    "https://jp.linkedin.com/company/zividlabs",
+    "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%B4%E3%82%A3%E3%83%83%E3%83%89",
+    "https://www.rockingrobots.com/zivid-opens-new-office-in-japan/",
+    "https://blog.zivid.com/ja",
+    "https://www.cbinsights.com/company/zivid",
+    "https://www.zivid.com/zh-hans/exploring-manufacturing-with-advanced-3d-vision-technology-zivid",
+    "https://note.com/rgsis/m/mb6402b9ac004/hashtag/SE",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Zivid X 投稿",
+   "results": [
+    "https://support.zivid.com/en/latest/camera/support/faq.html",
+    "https://www.zivid.com/videos?wtime=45s&wchannelid=lazso2emjc&wmediaid=k39q64aezg",
+    "https://www.youtube.com/watch?v=Z-BRs0P91So",
+    "https://www.zivid.com/bin-picking-comparison-video",
+    "https://www.youtube.com/channel/UCT3I0QGAfONRJO2GluzIuvg",
+    "https://support.zivid.com/en/latest/camera/reference-articles/settings/sampling.html",
+    "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%B4%E3%82%A3%E3%83%83%E3%83%89",
+    "https://blog.zivid.com/ja",
+    "https://github.com/zivid",
+    "https://x.com/zividtwt"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式19頁／PDF・画像1件／外部24頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式19頁／PDF・画像1件／外部24頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式19頁／PDF・画像1件／外部24頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式19頁／PDF・画像1件／外部24頁・検索12回）"
+ }
+}

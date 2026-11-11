@@ -1,0 +1,1856 @@
+{
+ "name": "株式会社フジタ",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T13:31:34.337528+00:00",
+ "official_url": "http://www.fujita-k.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "拠点": [
+   {
+    "label": "工場見学",
+    "value": "お一人様 2,000円",
+    "url": "https://www.fujita-k.co.jp/factory-tour/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "本社工場 〒939-0131 富山県高岡市福岡町荒屋敷522 TEL：0766-64-3710　　FAX：0766-64-5220",
+    "url": "https://www.fujita-k.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役",
+    "value": "梶川貴子",
+    "url": "https://www.fujita-k.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "12名",
+    "url": "https://www.fujita-k.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "アルミ鋳鍛造型（設計・製作）、鍛造金型（製作）、プレス金型（設計・製作）、 ブロー成形金型（製作）、アルミ製品（削り出し加工）、試作型及び各種治具製作、 金属アート品（製作）",
+    "url": "https://www.fujita-k.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先　順不同",
+    "value": "光生アルミニューム工業株式会社様、株式会社 TAN-EI-SYA様、 武内プレス工業株式会社様、株式会社 トヨックス様",
+    "url": "https://www.fujita-k.co.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "難削材や複雑形状、既製品への追加工など様々なご相談にお応えしてきた実績約200件を掲載！",
+    "url": "http://www.fujita-k.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ネジ 特殊ネジ HPM1 お客様指定の収縮率に応じた加工が可能",
+    "url": "https://www.fujita-k.co.jp/works/20251103/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ネジ 特殊ネジ HPM1 お客様指定の収縮率に応じた加工が可能",
+    "url": "https://www.fujita-k.co.jp/works/20250916/",
+    "pass": 1
+   },
+   {
+    "quote": "工場内ではお客様の製品を取り扱っているため、機密保持の観点から秘密保持確認書を締結いただいております",
+    "url": "https://www.fujita-k.co.jp/factory-tour/",
+    "pass": 1
+   },
+   {
+    "quote": "工場内には、お取引先様の製品や機密情報が含まれる場合があります",
+    "url": "https://www.fujita-k.co.jp/factory-tour/",
+    "pass": 1
+   },
+   {
+    "quote": "工場内には、お取引先様の製品や技術に関する情報が含まれるため、お取引先様の秘密保持を最優先とさせていただいております",
+    "url": "https://www.fujita-k.co.jp/factory-tour/",
+    "pass": 1
+   },
+   {
+    "quote": "その積み重ねによって、人の心を動かす作品や製品が生まれます",
+    "url": "https://www.fujita-k.co.jp/about/why/",
+    "pass": 1
+   },
+   {
+    "quote": "工場は、製品をつくるためだけの場所ではありません",
+    "url": "https://www.fujita-k.co.jp/about/why/",
+    "pass": 1
+   },
+   {
+    "quote": "ブロー成形金型（製作）、アルミ製品（削り出し加工）、試作型及び各種治具製作、",
+    "url": "https://www.fujita-k.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "フジタのものづくりは、決められた製品を同じ方法でつくり続ける仕事ではありません",
+    "url": "https://www.fujita-k.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "特に、輪郭そのものが製品の機能や嵌め合わせ精度に関わる部品では、ワイヤー放電加工が有効な場合があります",
+    "url": "https://www.fujita-k.co.jp/technology/wire-edm/",
+    "pass": 1
+   },
+   {
+    "quote": "発注窓口を一本化できるため、調達管理の負担を軽減しながら、より早く製品をお届けできます",
+    "url": "https://www.fujita-k.co.jp/technology/turning/",
+    "pass": 1
+   },
+   {
+    "quote": "難削材加工｜製品ネジ付きピン（インコネル718）",
+    "url": "https://www.fujita-k.co.jp/technology/turning/",
+    "pass": 1
+   },
+   {
+    "quote": "難削材であるインコネル718を用いた、先端部φ2×15mmの製品ネジ付きピンの試作事例です",
+    "url": "https://www.fujita-k.co.jp/technology/turning/",
+    "pass": 1
+   },
+   {
+    "quote": "複数径・製品ネジ（M16×P=1.5）を含む複雑な形状を、1個からの試作としてご相談いただきました",
+    "url": "https://www.fujita-k.co.jp/technology/turning/",
+    "pass": 1
+   },
+   {
+    "quote": "サイズ：Φ20.2×Φ18×Φ16×Φ14×16.79×Φ2×M16×P=1.5（製品ネジ）×100",
+    "url": "https://www.fujita-k.co.jp/technology/turning/",
+    "pass": 1
+   },
+   {
+    "quote": "フジタとレイズアドヴァンスが一貫して対応することで、調達の手間と納期のロスを減らし、より早く製品をお届けします",
+    "url": "https://www.fujita-k.co.jp/technology/turning/",
+    "pass": 1
+   },
+   {
+    "quote": "前回の3Dプリンター試作に続き、今回は本格的な金属加工による製品化を実現しました",
+    "url": "https://www.fujita-k.co.jp/works/20250528/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ネジ 特殊ネジ HPM1 お客様指定の収縮率に応じた加工が可能",
+    "url": "https://www.fujita-k.co.jp/works/20260122/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ネジ 特殊ネジ HPM1 お客様指定の収縮率に応じた加工が可能",
+    "url": "https://www.fujita-k.co.jp/works/20250811/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ネジ 特殊ネジ HPM1 お客様指定の収縮率に応じた加工が可能",
+    "url": "https://www.fujita-k.co.jp/works/20250326/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ネジ 特殊ネジ HPM1 お客様指定の収縮率に応じた加工が可能 | 株式会社フジタ",
+    "url": "https://www.fujita-k.co.jp/works/20241218/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ネジ 特殊ネジ HPM1 お客様指定の収縮率に応じた加工が可能",
+    "url": "https://www.fujita-k.co.jp/works/20241218/",
+    "pass": 1
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "サイズ、材質、ロット",
+    "url": "http://www.fujita-k.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "掲載のない材質、形状でもまずはお気軽にご相談ください",
+    "url": "http://www.fujita-k.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "チタン合金 64チタン 旋盤 難削材 螺旋 試作 手書き図面",
+    "url": "https://www.fujita-k.co.jp/works/20250916/",
+    "pass": 1
+   },
+   {
+    "quote": "※インコネル718・チタンは試作対応した実績があります",
+    "url": "https://www.fujita-k.co.jp/technology/5axis/",
+    "pass": 1
+   },
+   {
+    "quote": "インコネルやチタンなどの加工はできますか？",
+    "url": "https://www.fujita-k.co.jp/technology/5axis/",
+    "pass": 1
+   },
+   {
+    "quote": "サイズ、材質、ロット",
+    "url": "https://www.fujita-k.co.jp/technology/5axis/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ／鉄・工具鋼／ステンレス／銅・真鍮／樹脂／その他要相談",
+    "url": "https://www.fujita-k.co.jp/technology/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "表にない材質・形状・サイズについても対応できる場合があります",
+    "url": "https://www.fujita-k.co.jp/technology/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "サイズ、材質、ロット",
+    "url": "https://www.fujita-k.co.jp/technology/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "用途をご相談いただければ、材質のご提案も行います",
+    "url": "https://www.fujita-k.co.jp/technology/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "②この部品、対応できる？｜材質・サイズ・精度を確認する",
+    "url": "https://www.fujita-k.co.jp/technology/wire-edm/",
+    "pass": 1
+   },
+   {
+    "quote": "放電を利用する加工方法のため、樹脂やセラミックスなど電気を通さない材料は加工できません",
+    "url": "https://www.fujita-k.co.jp/technology/wire-edm/",
+    "pass": 1
+   },
+   {
+    "quote": "部品の形状、材質、精度、用途によって適した加工方法が異なります",
+    "url": "https://www.fujita-k.co.jp/technology/wire-edm/",
+    "pass": 1
+   },
+   {
+    "quote": "図面・3Dデータ・材質・精度・数量・用途などを確認し、目的の部品を完成させるための加工方法を検討します",
+    "url": "https://www.fujita-k.co.jp/technology/wire-edm/",
+    "pass": 1
+   },
+   {
+    "quote": "担当者様の案件と比較しやすいよう、材質・サイズ・ロットなどの情報とあわせてご紹介します",
+    "url": "https://www.fujita-k.co.jp/technology/wire-edm/",
+    "pass": 1
+   },
+   {
+    "quote": "材質や硬度、形状などをご確認のうえ、加工可否を判断します",
+    "url": "https://www.fujita-k.co.jp/technology/wire-edm/",
+    "pass": 1
+   },
+   {
+    "quote": "サイズ、材質、ロット",
+    "url": "https://www.fujita-k.co.jp/technology/wire-edm/",
+    "pass": 1
+   },
+   {
+    "quote": "材質：一般的な炭素鋼・ステンレスに加え、焼き入れ後の高硬度材、インコネル・チタンなどの難削材にも対応",
+    "url": "https://www.fujita-k.co.jp/technology/turning/",
+    "pass": 1
+   },
+   {
+    "quote": "また技術開発を進め、これまで対応が難しかった焼き入れ後の高硬度材、インコネル・チタンといった難削材の加工にも対応しています",
+    "url": "https://www.fujita-k.co.jp/technology/turning/",
+    "pass": 1
+   },
+   {
+    "quote": "材質：HPM1",
+    "url": "https://www.fujita-k.co.jp/technology/turning/",
+    "pass": 1
+   },
+   {
+    "quote": "材質：インコネル718",
+    "url": "https://www.fujita-k.co.jp/technology/turning/",
+    "pass": 1
+   },
+   {
+    "quote": "材質：アルミA6061",
+    "url": "https://www.fujita-k.co.jp/technology/turning/",
+    "pass": 1
+   },
+   {
+    "quote": "インコネル・チタンなどの難削材を加工したい",
+    "url": "https://www.fujita-k.co.jp/technology/turning/",
+    "pass": 1
+   },
+   {
+    "quote": "焼き入れ後の高硬度材や、インコネル・チタンなどの難削材も加工できますか？",
+    "url": "https://www.fujita-k.co.jp/technology/turning/",
+    "pass": 1
+   },
+   {
+    "quote": "技術開発を進め、焼き入れ後の高硬度材、インコネル・チタンといった難削材の加工にも対応しています",
+    "url": "https://www.fujita-k.co.jp/technology/turning/",
+    "pass": 1
+   },
+   {
+    "quote": "サイズ、材質、ロット",
+    "url": "https://www.fujita-k.co.jp/technology/turning/",
+    "pass": 1
+   },
+   {
+    "quote": "シャフト、丸物、ねじ、多条ねじ、特殊ねじといった旋盤加工から、Φ500×700クラスの大径・長尺ワーク、焼き入れ後の高硬度材、インコネル・チタンなどの難削材、マシニング加工を組み合わせた複合加工まで対応します",
+    "url": "https://www.fujita-k.co.jp/technology/turning/",
+    "pass": 1
+   },
+   {
+    "quote": "SKD材やプレハードン鋼など、用途に応じた材質変更にも対応可能です",
+    "url": "https://www.fujita-k.co.jp/works/20250811/",
+    "pass": 1
+   },
+   {
+    "quote": "「材質が違っても加工できる？」「この形状でも作れる？」など、",
+    "url": "https://www.fujita-k.co.jp/works/20250811/",
+    "pass": 1
+   },
+   {
+    "quote": "チタン合金 64チタン 旋盤 難削材 螺旋 試作 手書き図面",
+    "url": "https://www.fujita-k.co.jp/works/20250811/",
+    "pass": 1
+   },
+   {
+    "quote": "チタン合金 64チタン 旋盤 難削材 螺旋 試作 手書き図面",
+    "url": "https://www.fujita-k.co.jp/works/20250326/",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "少量多品種・1個から対応",
+    "url": "http://www.fujita-k.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "削出加工（四輪アルミホイール）試作開発・アルミ鋳造金型・鍛造金型・ブロー成形金型制作・金型補修・CNC三次元測定サービスなど商品開発や技術開発、モノづくりのご相談ご質問も積極的に承っております",
+    "url": "http://www.fujita-k.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "試作は1個から対応可能です",
+    "url": "https://www.fujita-k.co.jp/works/20251103/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は少量多品種生産を得意としており、",
+    "url": "https://www.fujita-k.co.jp/works/20251103/",
+    "pass": 1
+   },
+   {
+    "quote": "普段は一点物の注文が多いのですが、今回は珍しく量産対応",
+    "url": "https://www.fujita-k.co.jp/works/20250916/",
+    "pass": 1
+   },
+   {
+    "quote": "一品物はもちろん、小ロットから量産まで、",
+    "url": "https://www.fujita-k.co.jp/works/20250916/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は少量多品種生産を得意としており、",
+    "url": "https://www.fujita-k.co.jp/works/20250916/",
+    "pass": 1
+   },
+   {
+    "quote": "チタン合金 64チタン 旋盤 難削材 螺旋 試作 手書き図面",
+    "url": "https://www.fujita-k.co.jp/works/20250916/",
+    "pass": 1
+   },
+   {
+    "quote": "自社に合わせたオーダーメイドの研修・視察を企画したい",
+    "url": "https://www.fujita-k.co.jp/factory-tour/",
+    "pass": 1
+   },
+   {
+    "quote": "ブロー成形金型（製作）、アルミ製品（削り出し加工）、試作型及び各種治具製作、",
+    "url": "https://www.fujita-k.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "5軸加工で試作1個から対応 | 富山の精密加工フジタ",
+    "url": "https://www.fujita-k.co.jp/technology/5axis/",
+    "pass": 1
+   },
+   {
+    "quote": "5軸加工の試作・少量加工なら、富山のフジタへ",
+    "url": "https://www.fujita-k.co.jp/technology/5axis/",
+    "pass": 1
+   },
+   {
+    "quote": "5軸加工で試作1個から対応",
+    "url": "https://www.fujita-k.co.jp/technology/5axis/",
+    "pass": 1
+   },
+   {
+    "quote": "富山・フジタは5軸加工機（DMG MORI DMU50）で、複雑形状・薄肉部品の試作・少量加工に対応します",
+    "url": "https://www.fujita-k.co.jp/technology/5axis/",
+    "pass": 1
+   },
+   {
+    "quote": "試作1個だけなので、対応してくれる加工所が見つからない",
+    "url": "https://www.fujita-k.co.jp/technology/5axis/",
+    "pass": 1
+   },
+   {
+    "quote": "試作1個・単品から対応",
+    "url": "https://www.fujita-k.co.jp/technology/5axis/",
+    "pass": 1
+   },
+   {
+    "quote": "試作1個・単品から承ります",
+    "url": "https://www.fujita-k.co.jp/technology/5axis/",
+    "pass": 1
+   },
+   {
+    "quote": "試作 1〜5個",
+    "url": "https://www.fujita-k.co.jp/technology/5axis/",
+    "pass": 1
+   },
+   {
+    "quote": "小ロット 50〜200個",
+    "url": "https://www.fujita-k.co.jp/technology/5axis/",
+    "pass": 1
+   },
+   {
+    "quote": "※インコネル718・チタンは試作対応した実績があります",
+    "url": "https://www.fujita-k.co.jp/technology/5axis/",
+    "pass": 1
+   },
+   {
+    "quote": "試作1個から対応していただけますか？",
+    "url": "https://www.fujita-k.co.jp/technology/5axis/",
+    "pass": 1
+   },
+   {
+    "quote": "単品・1個から承っております",
+    "url": "https://www.fujita-k.co.jp/technology/5axis/",
+    "pass": 1
+   },
+   {
+    "quote": "自由曲面を含む複雑な形状、多品種少量の部品、1個だけの試作品――",
+    "url": "https://www.fujita-k.co.jp/technology/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "1個〜（試作・開発案件・特注品・少量生産）",
+    "url": "https://www.fujita-k.co.jp/technology/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "そこで培った技術と経験を、精密部品・試作部品・治具・少量部品などの加工にも活かしています",
+    "url": "https://www.fujita-k.co.jp/technology/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "1個からの試作にも、金型一式のような大きな案件にも",
+    "url": "https://www.fujita-k.co.jp/technology/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "量産前の試作、社内でしか使わない治具、特注部品――",
+    "url": "https://www.fujita-k.co.jp/technology/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "単品部品だけでなく、金型部品・複数部品・金型一式など、まとまりのある案件にも対応しています",
+    "url": "https://www.fujita-k.co.jp/technology/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "「アルミ製のシフトノブが欲しい」という個人のお客様のご要望にお応えしたオーダーメイドパーツです",
+    "url": "https://www.fujita-k.co.jp/technology/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "法人の量産部品だけでなく、こうした1点からのオーダーメイド加工にも対応しています",
+    "url": "https://www.fujita-k.co.jp/technology/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "学生プロジェクトの試作品から、イベント展示用の特注パーツまで、量産前提ではない”一点もの”の相談ほど、フジタの技術と工程設計力が活きています",
+    "url": "https://www.fujita-k.co.jp/technology/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "金型部品だけでなく、精密部品・試作部品・治具など、さまざまな部品の加工に対応しています",
+    "url": "https://www.fujita-k.co.jp/technology/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "1点からの試作・小ロット加工にも対応しており、電極や治具など精密さが求められる部品にも適しています",
+    "url": "https://www.fujita-k.co.jp/technology/wire-edm/",
+    "pass": 1
+   },
+   {
+    "quote": "フジタは多品種少量の加工を得意としており、1個からの加工もご相談いただけます",
+    "url": "https://www.fujita-k.co.jp/technology/wire-edm/",
+    "pass": 1
+   },
+   {
+    "quote": "金型部品だけでなく、精密部品、試作部品、治具、少量部品なども加工しています",
+    "url": "https://www.fujita-k.co.jp/technology/wire-edm/",
+    "pass": 1
+   },
+   {
+    "quote": "フジタは金型製作会社として、精度の高い部品加工・多品種少量の部品加工を得意としてきました",
+    "url": "https://www.fujita-k.co.jp/technology/turning/",
+    "pass": 1
+   },
+   {
+    "quote": "ロット：金型部品製作で培った多品種少量対応力を活かし、1個からの試作・小ロット加工に対応",
+    "url": "https://www.fujita-k.co.jp/technology/turning/",
+    "pass": 1
+   },
+   {
+    "quote": "金型製作会社グループとしての「精度」と「多品種少量」への対応力",
+    "url": "https://www.fujita-k.co.jp/technology/turning/",
+    "pass": 1
+   },
+   {
+    "quote": "フジタグループは金型製作を軸に、1個からの精度の高い部品加工、多品種少量の加工に長年取り組んできました",
+    "url": "https://www.fujita-k.co.jp/technology/turning/",
+    "pass": 1
+   },
+   {
+    "quote": "難削材であるインコネル718を用いた、先端部φ2×15mmの製品ネジ付きピンの試作事例です",
+    "url": "https://www.fujita-k.co.jp/technology/turning/",
+    "pass": 1
+   },
+   {
+    "quote": "複数径・製品ネジ（M16×P=1.5）を含む複雑な形状を、1個からの試作としてご相談いただきました",
+    "url": "https://www.fujita-k.co.jp/technology/turning/",
+    "pass": 1
+   },
+   {
+    "quote": "フジタは金型製作で培った多品種少量への対応力を活かし、1個からの試作・小ロット加工にも対応しています",
+    "url": "https://www.fujita-k.co.jp/technology/turning/",
+    "pass": 1
+   },
+   {
+    "quote": "前回の3Dプリンター試作に続き、今回は本格的な金属加工による製品化を実現しました",
+    "url": "https://www.fujita-k.co.jp/works/20250528/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は少量多品種生産を得意としており、",
+    "url": "https://www.fujita-k.co.jp/works/20260122/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は少量多品種生産を得意としており、",
+    "url": "https://www.fujita-k.co.jp/works/20250925/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は少量多品種生産を得意としており、",
+    "url": "https://www.fujita-k.co.jp/works/20250811/",
+    "pass": 1
+   },
+   {
+    "quote": "チタン合金 64チタン 旋盤 難削材 螺旋 試作 手書き図面",
+    "url": "https://www.fujita-k.co.jp/works/20250811/",
+    "pass": 1
+   },
+   {
+    "quote": "・ ロット1の試作や、設計変更後の検証が必要な現場",
+    "url": "https://www.fujita-k.co.jp/works/20250707/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は少量多品種生産を得意としており、",
+    "url": "https://www.fujita-k.co.jp/works/20250707/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は少量多品種生産を得意としており、",
+    "url": "https://www.fujita-k.co.jp/works/20250417/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は少量多品種生産を得意としており、",
+    "url": "https://www.fujita-k.co.jp/works/20250326/",
+    "pass": 1
+   },
+   {
+    "quote": "チタン合金 64チタン 旋盤 難削材 螺旋 試作 手書き図面",
+    "url": "https://www.fujita-k.co.jp/works/20250326/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は少量多品種生産を得意としており、",
+    "url": "https://www.fujita-k.co.jp/works/20250311/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は少量多品種生産を得意としており、",
+    "url": "https://www.fujita-k.co.jp/works/20241218/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は少量多品種生産を得意としており、",
+    "url": "https://www.fujita-k.co.jp/works/20241121/",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "株式会社フジタ｜富山県高岡市のアルミ加工・金型製作・CNC3次元測定",
+    "url": "http://www.fujita-k.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "出展のお知らせ 金型展2026＠インテックス大阪",
+    "url": "http://www.fujita-k.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "削出加工（四輪アルミホイール）試作開発・アルミ鋳造金型・鍛造金型・ブロー成形金型制作・金型補修・CNC三次元測定サービスなど商品開発や技術開発、モノづくりのご相談ご質問も積極的に承っております",
+    "url": "http://www.fujita-k.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "先端わずか0.3mm以下！精密旋盤で挑む薄肉金型部品の製作事例",
+    "url": "http://www.fujita-k.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金型部品の加工事例 SUS303 ±0.04の高精度を実現！",
+    "url": "http://www.fujita-k.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "砂型シェル中子を3Dスキャンで図面化！鋳造金型のリバース事例",
+    "url": "http://www.fujita-k.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【コラム４】鋳造における「巣」とは ― 欠陥を防ぐ金型設計の工夫",
+    "url": "http://www.fujita-k.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "※同業者（特に金型製造業）の方の工場見学はお断りさせていただいております",
+    "url": "http://www.fujita-k.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金型部品の加工事例 SUS303 ±0.04の高精度を実現！ | 株式会社フジタ",
+    "url": "https://www.fujita-k.co.jp/works/20251103/",
+    "pass": 1
+   },
+   {
+    "quote": "金型部品の加工事例 SUS303 ±0.04の高精度を実現！",
+    "url": "https://www.fujita-k.co.jp/works/20251103/",
+    "pass": 1
+   },
+   {
+    "quote": "金型一式（部品数4点）",
+    "url": "https://www.fujita-k.co.jp/works/20251103/",
+    "pass": 1
+   },
+   {
+    "quote": "篏合確認では、「金型の感触は非常に良かったです！」",
+    "url": "https://www.fujita-k.co.jp/works/20251103/",
+    "pass": 1
+   },
+   {
+    "quote": "先端わずか0.3mm以下！精密旋盤で挑む薄肉金型部品の製作事例",
+    "url": "https://www.fujita-k.co.jp/works/20251103/",
+    "pass": 1
+   },
+   {
+    "quote": "先端わずか0.3mm以下！精密旋盤で挑む薄肉金型部品の製作事例",
+    "url": "https://www.fujita-k.co.jp/works/20250916/",
+    "pass": 1
+   },
+   {
+    "quote": "金型部品の加工事例 SUS303 ±0.04の高精度を実現！",
+    "url": "https://www.fujita-k.co.jp/works/20250916/",
+    "pass": 1
+   },
+   {
+    "quote": "大変申し訳ございませんが、同業者、特に金型製造業の方の工場見学はお断りしております",
+    "url": "https://www.fujita-k.co.jp/factory-tour/",
+    "pass": 1
+   },
+   {
+    "quote": "先端わずか0.3mm以下！精密旋盤で挑む薄肉金型部品の製作事例",
+    "url": "https://www.fujita-k.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "金型部品の加工事例 SUS303 ±0.04の高精度を実現！",
+    "url": "https://www.fujita-k.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "砂型シェル中子を3Dスキャンで図面化！鋳造金型のリバース事例",
+    "url": "https://www.fujita-k.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "以前から金型を発注してくださっているお客様から、ある日こんな相談を受けました",
+    "url": "https://www.fujita-k.co.jp/about/why/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちが普段手がけている金型とは、まったく畑違いの依頼です",
+    "url": "https://www.fujita-k.co.jp/about/why/",
+    "pass": 1
+   },
+   {
+    "quote": "「うちは金型の会社だから」と線を引いていたら、この依頼には出会えませんでした",
+    "url": "https://www.fujita-k.co.jp/about/why/",
+    "pass": 1
+   },
+   {
+    "quote": "金型業界の展示会「インターモールド」に足を運び、同業の会社と情報を交わす",
+    "url": "https://www.fujita-k.co.jp/about/why/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちフジタは、旋盤加工会社としてものづくりの道を歩み始めて以来、金型という一つの技術を軸にしながら、時代の変化に合わせて自らのカタチをしなやかに変え続けてきました",
+    "url": "https://www.fujita-k.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ鋳鍛造型（設計・製作）、鍛造金型（製作）、プレス金型（設計・製作）、",
+    "url": "https://www.fujita-k.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ブロー成形金型（製作）、アルミ製品（削り出し加工）、試作型及び各種治具製作、",
+    "url": "https://www.fujita-k.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "日本金型工業会 中部支部所属、富山県中小企業団体中央会、富山県金型協同組合、",
+    "url": "https://www.fujita-k.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "三協アルミとの取引開始、アルミサッシの抜型プレス金型の製造を開始しました",
+    "url": "https://www.fujita-k.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミホイール用鋳造金型の製作を開始しました",
+    "url": "https://www.fujita-k.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "OEM用のアルミホイール金型の製作を開始しました",
+    "url": "https://www.fujita-k.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "海外向けOEMアルミホイール金型の製作を開始しました",
+    "url": "https://www.fujita-k.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "金型加工を中心に、部品加工、5軸加工、3Dスキャンなど、さまざまな技術に取り組んでいます",
+    "url": "https://www.fujita-k.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "5軸加工機・マシニングセンター・フライス盤など複数の工作機械を操作し、金型製作・部品加工を担当していただきます",
+    "url": "https://www.fujita-k.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "金型は、設計と加工が一体でなければ成り立ちません",
+    "url": "https://www.fujita-k.co.jp/technology/5axis/",
+    "pass": 1
+   },
+   {
+    "quote": "フジタは、1961年の創業以来60年以上、富山でアルミ鋳造金型の設計・製作を手がけてきた金型製作会社です",
+    "url": "https://www.fujita-k.co.jp/technology/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "金型製作で培った技術を、部品加工に",
+    "url": "https://www.fujita-k.co.jp/technology/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "フジタは長年、アルミ鋳造金型の設計・製作に携わってきました",
+    "url": "https://www.fujita-k.co.jp/technology/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "金型製作は、複雑な形状、高い加工精度、複数部品の組み合わせなど、多くの要素を同時に考えながら加工する仕事です",
+    "url": "https://www.fujita-k.co.jp/technology/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "そこで培った技術と経験を、精密部品・試作部品・治具・少量部品などの加工にも活かしています",
+    "url": "https://www.fujita-k.co.jp/technology/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "金型製作では、完成形から逆算して「どこから、どの順番で、どのように加工するか」を考えます",
+    "url": "https://www.fujita-k.co.jp/technology/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "金型は、複数の部品を組み合わせて一つの機能をつくります",
+    "url": "https://www.fujita-k.co.jp/technology/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "この考え方は、精密部品・治具・金型部品・組立品など、さまざまな加工に活かされています",
+    "url": "https://www.fujita-k.co.jp/technology/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "1961年創業、60年以上の切削・金型製作の実績（高岡市にて機械部品の旋盤加工からスタート）",
+    "url": "https://www.fujita-k.co.jp/technology/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "1個からの試作にも、金型一式のような大きな案件にも",
+    "url": "https://www.fujita-k.co.jp/technology/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "量産前の試作、社内でしか使わない治具、特注部品――",
+    "url": "https://www.fujita-k.co.jp/technology/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "単品部品だけでなく、金型部品・複数部品・金型一式など、まとまりのある案件にも対応しています",
+    "url": "https://www.fujita-k.co.jp/technology/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "複数の部品からなる金型や治具では、それぞれの部品を正しく加工するだけでなく、組み付けたときにきちんと機能することが重要です",
+    "url": "https://www.fujita-k.co.jp/technology/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "金型部品だけでなく、精密部品・試作部品・治具など、さまざまな部品の加工に対応しています",
+    "url": "https://www.fujita-k.co.jp/technology/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "長年の金型製作で培った切削技術と加工ノウハウを、部品加工にも活かしています",
+    "url": "https://www.fujita-k.co.jp/technology/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "狭い切り欠き金型の入れ子などで角を出したい",
+    "url": "https://www.fujita-k.co.jp/technology/wire-edm/",
+    "pass": 1
+   },
+   {
+    "quote": "金型部品など、厚みのある材料から形状を加工する場合にもワイヤー放電加工を利用できます",
+    "url": "https://www.fujita-k.co.jp/technology/wire-edm/",
+    "pass": 1
+   },
+   {
+    "quote": "切削加工では、材料の硬度が高くなるほど加工条件や工具の選定が難しくなりますが、ワイヤー放電加工は材料の硬さに左右されにくいため、焼入れ後の金型部品などを加工する方法の一つとして利用できます",
+    "url": "https://www.fujita-k.co.jp/technology/wire-edm/",
+    "pass": 1
+   },
+   {
+    "quote": "フジタでは、ワイヤー放電加工だけでなく、金型製作や精密部品加工で培った品質管理の仕組みを活用しています",
+    "url": "https://www.fujita-k.co.jp/technology/wire-edm/",
+    "pass": 1
+   },
+   {
+    "quote": "1点からの試作・小ロット加工にも対応しており、電極や治具など精密さが求められる部品にも適しています",
+    "url": "https://www.fujita-k.co.jp/technology/wire-edm/",
+    "pass": 1
+   },
+   {
+    "quote": "金型部品だけでなく、精密部品、試作部品、治具、少量部品なども加工しています",
+    "url": "https://www.fujita-k.co.jp/technology/wire-edm/",
+    "pass": 1
+   },
+   {
+    "quote": "フジタは金型製作会社として、精度の高い部品加工・多品種少量の部品加工を得意としてきました",
+    "url": "https://www.fujita-k.co.jp/technology/turning/",
+    "pass": 1
+   },
+   {
+    "quote": "ロット：金型部品製作で培った多品種少量対応力を活かし、1個からの試作・小ロット加工に対応",
+    "url": "https://www.fujita-k.co.jp/technology/turning/",
+    "pass": 1
+   },
+   {
+    "quote": "レイズアドヴァンスは金型部品の加工を得意としており、細くて長い形状の加工、各種ねじ加工（多条ねじ・特殊ねじ）、精度の高い形状加工に強みを持っています",
+    "url": "https://www.fujita-k.co.jp/technology/turning/",
+    "pass": 1
+   },
+   {
+    "quote": "金型製作会社グループとしての「精度」と「多品種少量」への対応力",
+    "url": "https://www.fujita-k.co.jp/technology/turning/",
+    "pass": 1
+   },
+   {
+    "quote": "フジタグループは金型製作を軸に、1個からの精度の高い部品加工、多品種少量の加工に長年取り組んできました",
+    "url": "https://www.fujita-k.co.jp/technology/turning/",
+    "pass": 1
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "https://www.instagram.com/reel/DPVyIr_k18p/?igsh=cWhsYWo1NXRxeGl6",
+    "url": "https://www.fujita-k.co.jp/works/20251103/",
+    "pass": 1
+   },
+   {
+    "quote": "半信半疑のまま、工場の一角に小さな美術館「FACTORY ART MUSEUM TOYAMA」を立ち上げました",
+    "url": "https://www.fujita-k.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "FACTORY ART MUSEUM TOYAMAは、町工場の一角にある小さな美術館です",
+    "url": "https://www.fujita-k.co.jp/about/why/",
+    "pass": 1
+   },
+   {
+    "quote": "FACTORY ART MUSEUM TOYAMAは、クラウドファンディングによって多くの方々の応援をいただきながら誕生しました",
+    "url": "https://www.fujita-k.co.jp/about/why/",
+    "pass": 1
+   },
+   {
+    "quote": "FACTORY ART MUSEUM TOYAMA",
+    "url": "https://www.fujita-k.co.jp/about/why/",
+    "pass": 1
+   },
+   {
+    "quote": "3D CAD/CAM（5軸用）",
+    "url": "https://www.fujita-k.co.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "3D CAD/CAM",
+    "url": "https://www.fujita-k.co.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "2.5D CAM",
+    "url": "https://www.fujita-k.co.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "加工設備や検査、CAD・CAMなどの技能を可視化することで、",
+    "url": "https://www.fujita-k.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "FACTORY ART MUSEUM TOYAMA",
+    "url": "https://www.fujita-k.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "「FACTORY ART MUSEUM TOYAMA」 グランドオープンしました",
+    "url": "https://www.fujita-k.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "FACTORY ART MUSEUM TOYAMA への来館者 1,000人達成しました",
+    "url": "https://www.fujita-k.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "CAD/CAMによる3Dモデリング〜加工までの一貫対応",
+    "url": "https://www.fujita-k.co.jp/technology/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "1994年、3次元CAD/CAMシステムをいち早く導入",
+    "url": "https://www.fujita-k.co.jp/technology/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "CAD/CAMによる3Dモデリングから加工まで、一貫して対応しています",
+    "url": "https://www.fujita-k.co.jp/technology/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "前回の3Dプリンター試作に続き、今回は本格的な金属加工による製品化を実現しました",
+    "url": "https://www.fujita-k.co.jp/works/20250528/",
+    "pass": 1
+   },
+   {
+    "quote": "https://www.instagram.com/reel/DI6aTptyKz8",
+    "url": "https://www.fujita-k.co.jp/works/20250528/",
+    "pass": 1
+   },
+   {
+    "quote": "高精度を実現 – 複雑な曲面形状でもCAD/CAMデータ通りの形状で安定した生産が可能",
+    "url": "https://www.fujita-k.co.jp/works/20250311/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "https://www.fujita-k.co.jp/mail_form/mail.cgi?id=contact",
+    "url": "https://www.fujita-k.co.jp/works/20251103/",
+    "pass": 1
+   },
+   {
+    "quote": "https://www.fujita-k.co.jp/mail_form/mail.cgi?id=contact",
+    "url": "https://www.fujita-k.co.jp/works/20250916/",
+    "pass": 1
+   },
+   {
+    "quote": "」にチェックを入れてご送信いただくと、フジタより秘密保持確認書をメールにてお送りいたします",
+    "url": "https://www.fujita-k.co.jp/factory-tour/",
+    "pass": 1
+   },
+   {
+    "quote": "電話またはお問い合わせフォームにて受け付けています",
+    "url": "https://www.fujita-k.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "電話またはお問い合わせフォームにてご連絡ください",
+    "url": "https://www.fujita-k.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "お急ぎの場合はお問い合わせ時にお伝えください",
+    "url": "https://www.fujita-k.co.jp/technology/5axis/",
+    "pass": 1
+   },
+   {
+    "quote": "図面・仕様はメール・ウェブフォームでお送りいただけます",
+    "url": "https://www.fujita-k.co.jp/technology/5axis/",
+    "pass": 1
+   },
+   {
+    "quote": "「この図面、加工できますか？」というお問い合わせからでも構いません",
+    "url": "https://www.fujita-k.co.jp/technology/wire-edm/",
+    "pass": 1
+   },
+   {
+    "quote": "https://www.fujita-k.co.jp/mail_form/mail.cgi?id=contact",
+    "url": "https://www.fujita-k.co.jp/works/20260122/",
+    "pass": 1
+   },
+   {
+    "quote": "https://www.fujita-k.co.jp/mail_form/mail.cgi?id=contact",
+    "url": "https://www.fujita-k.co.jp/works/20250925/",
+    "pass": 1
+   },
+   {
+    "quote": "https://www.fujita-k.co.jp/mail_form/mail.cgi?id=contact",
+    "url": "https://www.fujita-k.co.jp/works/20250811/",
+    "pass": 1
+   },
+   {
+    "quote": "https://www.fujita-k.co.jp/mail_form/mail.cgi?id=contact",
+    "url": "https://www.fujita-k.co.jp/works/20250707/",
+    "pass": 1
+   },
+   {
+    "quote": "https://www.fujita-k.co.jp/mail_form/mail.cgi?id=contact",
+    "url": "https://www.fujita-k.co.jp/works/20250417/",
+    "pass": 1
+   },
+   {
+    "quote": "https://www.fujita-k.co.jp/mail_form/mail.cgi?id=contact",
+    "url": "https://www.fujita-k.co.jp/works/20250326/",
+    "pass": 1
+   },
+   {
+    "quote": "https://www.fujita-k.co.jp/mail_form/mail.cgi?id=contact",
+    "url": "https://www.fujita-k.co.jp/works/20250311/",
+    "pass": 1
+   },
+   {
+    "quote": "https://www.fujita-k.co.jp/mail_form/mail.cgi?id=contact",
+    "url": "https://www.fujita-k.co.jp/works/20241218/",
+    "pass": 1
+   },
+   {
+    "quote": "https://www.fujita-k.co.jp/mail_form/mail.cgi?id=contact",
+    "url": "https://www.fujita-k.co.jp/works/20241121/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせメールフォーム｜株式会社フジタ",
+    "url": "https://www.fujita.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "公正な研究活動に関するお問い合わせも、こちらで受け付けております",
+    "url": "https://www.fujita.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせの前に、下記の個人情報保護方針を必ずご確認ください",
+    "url": "https://www.fujita.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "（住所、氏名、生年月日、年齢、郵便番号、電話番号、FAX番号、メールアドレスなど）",
+    "url": "https://www.fujita.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "以下のお問い合わせフォームに、お客様情報とお問い合わせ内容を入力し、",
+    "url": "https://fuzita.co.jp/lmh/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせいただきました内容は、弊社の掲げる個人情報保護方針に沿って管理し、お客様の同意なく、第三者に開示・提供することはございません",
+    "url": "https://fuzita.co.jp/lmh/contact/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "サイズ、材質、ロット | 試作1個か複雑意匠形状まで | 株式会社フジタ — 富山のフジタは、試作1個から大型・複雑形状まで幅広い加工に対応。最大1,540mm、アルミ・鉄・ステンレス・難削材など多様な材質、±0.01mmからの精密加工、熱処理・表面処理までご相談いただけます。",
+    "url": "https://www.fujita-k.co.jp/technology/size-material-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "5軸加工で試作1個から対応 | 富山の精密加工フジタ — 試作1個・単品から承ります。 北海道・関東・東海・北陸・関西など、全国からの受注実績があります。 試作 1〜5個 評価品 10〜50個 小ロット 50〜200個 理由③ 「できない」と言う前に方法を考える 他社で断られた案件を持ち込んでいただく機会が多くあり ...",
+    "url": "https://www.fujita-k.co.jp/technology/5axis/",
+    "pass": 3
+   },
+   {
+    "quote": "パイプ曲げ加工なら「フジタ株式会社」｜全国対応、ご依頼相談 — お問い合わせのご案内 試作、小ロット制作のご相談承ります。是非お気軽にお問い合わせください。 u000b全国からのご依頼も対応致します。大量注文の場合は別途ご相談ください。 メールフォームはこちら",
+    "url": "http://www.fujita-inc.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "小ロット・多品種に対応した柔軟なアルミ鋳造金型製作 - 株式会社 フ... — - 試作開発向けの少量生産用金型 【PR】 株式会社フジタは、小ロット・多品種生産に対応する柔軟な金型製作体制を整えています。 自社の加工技術と協力会社の専門技術を組み合わせることで、短納期かつ高品質な金型を提供。",
+    "url": "https://ja.nc-net.or.jp/company/71142/product/detail/245204/",
+    "pass": 3
+   },
+   {
+    "quote": "フジタ - Wikipedia — 株式会社フジタ （英: Fujita Corporation）は、 東京都 渋谷区 に本社を置く大手 ハウスメーカー である 大和ハウス工業 （大阪市 北区 梅田）傘下の 建設会社。日本国内では準大手の総合建設業（準大手ゼネコン）である。 現在の会社は2002年に旧・株式会社フジタ（後に「ACリアルエステート」に ...",
+    "url": "https://ja.wikipedia.org/wiki/フジタ",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要・事業内容｜企業情報｜株式会社フジタ — フジタの会社概要・事業内容に関する情報です。",
+    "url": "https://www.fujita.co.jp/company/about/",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報｜株式会社フジタ — フジタの企業情報です。トップメッセージ・経営ビジョン・企業理念・方針・会社概要・事業内容・組織図・役員一覧・沿革・事業所一覧・関係会社・決算公告・業績ハイライトを掲載しています。",
+    "url": "https://www.fujita.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 株式会社フジタ — 会社沿革 昭和49年2月 松任市 (現白山市)北安田町1010にて内装業 (個人・藤田政樹)を創業 フジタ 昭和52年4月 株式会社内装フジタを設立 資本金500万円 代表取締役に藤田政樹就任 昭和53年12月 松任市 (現白山市)博労町188-2に社屋新築移 昭和55年9月 資本金1,000万円に増資 昭和56年7月 株式会社フジタ ...",
+    "url": "https://www.kkfujita.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 - 株式会社フジタ会社案内 - 産業廃棄物の収集運搬・処理ならフジタ(株)フジタの新卒採用・会社概要 | マイナビ2027 — 会社の年間目標を部署目標、個人目標へと展開し、全社員が同じ方向を向いて行動できる仕組みを構築しています。 3か月ごとに全体会議を開催し、進捗確認や改善点を共有しながらPDCAを回しています。 創業以来50年以上にわたり培ってきたノウハウを糧とし、「廃棄物のプロ」として、 多くのお客様と共に、環境を取り巻く課題解決をしてまいります。 今後とも、ご愛顧・ご指導を賜りますようお願い申し上げます。 代表取締役 会社概要 商号 株式会社 ... Sep 17, 2026 · (株)フジタの会社概要ページです。マイナビ2027は、採用情報や企業情報で、就職活動をサポートします。",
+    "url": "https://www.fujita-k.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせメールフォーム｜株式会社フジタ — ①本人の特定に関する情報 （住所、氏名、生年月日、年齢、郵便番号、電話番号、FAX番号、メールアドレスなど） ②当社グループが事業活動の過程においてお預かりする情報",
+    "url": "https://www.fujita.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | 株式会社フジタ — 株式会社フジタ 〒106-0032 東京都港区六本木4丁目6番地9号 TEL : 03-6824-9611 FAX : 03-6824-9617 容器卸売業 （化粧品向け及び健康食品向け他） トップ お知らせ サービスの流れ よくある質問 お問い合わせ プライバシーポリシー 企業情報 会社案内 会社概要 製品一覧",
+    "url": "https://fuzita.co.jp/lmh/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 株式会社フジタ — お問い合わせ 株式会社フジタへのご質問・ご相談・ご不明な点は、下記メールフォームよりお気軽にお問い合わせください。 お急ぎの方は、お電話・Faxでも承っております。",
+    "url": "https://www.fujita-k.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ・資料請求 - 株式会社フジタ — 新築、リフォームなど住まいづくりに関すること、土地販売に関することなど、お気軽にお問い合わせください。 下記メールフォームまたはお電話にて受付しております。 ※当フォームは、お客様からの問い合わせやご相談専用です。 営業・勧誘のメールは固くお断りいたします。 LINE登録で ...",
+    "url": "https://www.kkfujita.co.jp/contact/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "藤田嗣治はなぜレオナール・フジタとなったのか？｜kifurukawajpn Sep 9, 2025 · 明治維新後、日本人画家はこぞって、当時芸術の都と呼ばれたパリを目指しました。 西洋絵画を日本に導入するべく、本場パリで油絵を学ぼうとしたわけです。 しかしそんな中、日本人として、洋画の本場パリで活躍し、認められたパイオニアであったのが藤田嗣治。 レオナール・フジタ ...",
+    "url": "https://note.com/vivid_auklet7415/n/nb6a82e908583",
+    "pass": 3
+   },
+   {
+    "quote": "#329 「フジタ事件」大阪地裁｜会社にケンカを売った社員たち by LL-i... Jan 24, 2022 · 2013年2月6日に配信した「会社にケンカを売った社員たち」第329号で取り上げた労働判例を紹介します。 【フジタ（以下、F社）事件・大阪地裁判決】（2011年8月12日） ＜主な争点＞ 経営上の理由による定年退職後の継続雇用の拒否、更新拒絶など 1．事件の概要は？ 本件は、高年齢者等の雇用の ...",
+    "url": "https://note.com/legal_literacy/n/n7ba11e8be300",
+    "pass": 3
+   },
+   {
+    "quote": "フジタ組代表 藤田博｜note 【園の想いをカタチにする。園長・主任のサポーター】フジタ組代表の藤田です。27年間保育現場で培った知識と技術を公開！保育現場の悩み、子育ての悩み、皆さまのお役に立ちたいという想いからフジタ組を設立！現場で培ってきた信頼関係と連携力を大切にしながら、園と地域の未来を ...",
+    "url": "https://note.com/fujitagumi",
+    "pass": 3
+   },
+   {
+    "quote": "藤田嗣治の5人の妻たち。「妻」に何を求めたのか？｜芸術家の恋人たち Jun 28, 2025 · 二人は藤田が81歳で亡くなるまでの30年間を一緒に過ごし、君代は藤田の死後、作品の管理や、パリ郊外の旧宅をメゾン・アトリエ・フジタとして開館するのに尽力をつくした。 君代は藤田の妻の中では一番若く、長い結婚生活を送った女性だ。",
+    "url": "https://note.com/cute_chives8516/n/n82df526a37a5",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "藤田嗣治はなぜレオナール・フジタとなったのか？｜kifurukawajpn",
+    "url": "https://note.com/vivid_auklet7415/n/nb6a82e908583",
+    "pass": 3
+   },
+   {
+    "quote": "藤田嗣治はなぜレオナール・フジタとなったのか？",
+    "url": "https://note.com/vivid_auklet7415/n/nb6a82e908583",
+    "pass": 3
+   },
+   {
+    "quote": "明治維新後、日本人画家はこぞって、当時芸術の都と呼ばれたパリを目指しました。",
+    "url": "https://note.com/vivid_auklet7415/n/nb6a82e908583",
+    "pass": 3
+   },
+   {
+    "quote": "西洋絵画を日本に導入するべく、本場パリで油絵を学ぼうとしたわけです。",
+    "url": "https://note.com/vivid_auklet7415/n/nb6a82e908583",
+    "pass": 3
+   },
+   {
+    "quote": "しかしそんな中、日本人として、洋画の本場パリで活躍し、認められたパイオニアであったのが藤田嗣治。",
+    "url": "https://note.com/vivid_auklet7415/n/nb6a82e908583",
+    "pass": 3
+   },
+   {
+    "quote": "レオナール・フジタ（1886年11月27日 - 1968年1月29日、wikipedia）",
+    "url": "https://note.com/vivid_auklet7415/n/nb6a82e908583",
+    "pass": 3
+   },
+   {
+    "quote": "後にフランスに帰化し、キリスト教に改宗して洗礼名レオナールを用いて、レオナール・フジタと名乗った一人の画家の人生は、波乱に満ちたものでした。",
+    "url": "https://note.com/vivid_auklet7415/n/nb6a82e908583",
+    "pass": 3
+   },
+   {
+    "quote": "軍医の父（嗣章：後に軍医としての最高位、陸軍軍医総監にまで上り詰めた人）に医者になることを望まれながら、幼い頃から絵を書くことが好きで、絵描きになりたいと父に告白します。そしてその後は画業一筋に生きてゆくことになります。",
+    "url": "https://note.com/vivid_auklet7415/n/nb6a82e908583",
+    "pass": 3
+   },
+   {
+    "quote": "#329 「フジタ事件」大阪地裁｜会社にケンカを売った社員たち by LL-inc",
+    "url": "https://note.com/legal_literacy/n/n7ba11e8be300",
+    "pass": 3
+   },
+   {
+    "quote": "会社にケンカを売った社員たち by LL-inc",
+    "url": "https://note.com/legal_literacy/n/n7ba11e8be300",
+    "pass": 3
+   },
+   {
+    "quote": "」第329号で取り上げた労働判例を紹介します。",
+    "url": "https://note.com/legal_literacy/n/n7ba11e8be300",
+    "pass": 3
+   },
+   {
+    "quote": "■ 【フジタ（以下、Ｆ社）事件・大阪地裁判決】（2011年8月12日）",
+    "url": "https://note.com/legal_literacy/n/n7ba11e8be300",
+    "pass": 3
+   },
+   {
+    "quote": "経営上の理由による定年退職後の継続雇用の拒否、更新拒絶など",
+    "url": "https://note.com/legal_literacy/n/n7ba11e8be300",
+    "pass": 3
+   },
+   {
+    "quote": "本件は、高年齢者等の雇用の安定等に関する法律（以下「",
+    "url": "https://note.com/legal_literacy/n/n7ba11e8be300",
+    "pass": 3
+   },
+   {
+    "quote": "」という）９条に基づいて高年齢者の雇用確保措置として継続雇用制度を導入しているＦ社の従業員であったＡらが定年退職に当たって継続雇用を拒否され、あるいは定年退職後の継続雇用に当たって更新を拒否されたことは違法無効であるとして、同社に対し、労働契約上の権利を有する地位の確認を求めるとともに、定年退職後あるいは継続雇用の更新が拒絶された後の未払賃金等の支払いを求めたもの。",
+    "url": "https://note.com/legal_literacy/n/n7ba11e8be300",
+    "pass": 3
+   },
+   {
+    "quote": "★ Ｆ社は、建設工事の請負、企画、設計、監理およびコンサルティング業務その他を営むことを目的とする会社である。",
+    "url": "https://note.com/legal_literacy/n/n7ba11e8be300",
+    "pass": 3
+   },
+   {
+    "quote": "子どもの笑顔を守る！今日から無理なく始める、わが家の「ゆるくてリアルな防災術」〜肩肘張らない、子どもと命を守るためのリアルな備え〜",
+    "url": "https://note.com/fujitagumi",
+    "pass": 3
+   },
+   {
+    "quote": "【行事の落とし穴】「運動会を学ぶ」のか「運動会“で”学ぶ」のか？〜27年の保育現場で見えた、子どもが伸びる瞬間〜「〜を学ぶ」から「〜で学ぶ」へ。行事が終わってからが、本当のはじまり。～",
+    "url": "https://note.com/fujitagumi",
+    "pass": 3
+   },
+   {
+    "quote": "【子育ての謎】なぜ娘は家で「お父さん」、外で「パパ」と呼んでいたのか？～言葉使いに厳しかった祖母と、相手をリスペクトする「フジタ家の文化」がつないだ、子どもの無意識な使い分けのお話～",
+    "url": "https://note.com/fujitagumi",
+    "pass": 3
+   },
+   {
+    "quote": "「パスが来ない！」と悩む息子へ。父親がついた“優しいウソ”と、行動の意味づけ ～叱って正すのではなく「その行動の効果」を届けるポジティブな着地点～",
+    "url": "https://note.com/fujitagumi",
+    "pass": 3
+   },
+   {
+    "quote": "我が子が「このスポーツ、向いてないのかな」と感じたときに、大人ができること「向いていない」と「続ける価値がない」は、同じではない。～競技を通して育む、もうひとつの価値～",
+    "url": "https://note.com/fujitagumi",
+    "pass": 3
+   },
+   {
+    "quote": "「ゲームばかりの我が子」に悩む保護者へ。叱る技術より大切な、たった一つの関わり方 ～禁止から成長へ。子どもの「できた」を伸ばす自己コントロールの育て方～",
+    "url": "https://note.com/fujitagumi",
+    "pass": 3
+   },
+   {
+    "quote": "ラジオに喜怒哀楽を繰り返す私と、そんな私と一緒にいるラジオ",
+    "url": "https://note.com/fujitagumi",
+    "pass": 3
+   },
+   {
+    "quote": "祭りのあとの余韻と、主任の孤独。〜行事の「準備と片付け」から先生方を解放したい 〜片付けまでが行事。孤独な主任を支える「まるっと代行」という選択肢～",
+    "url": "https://note.com/fujitagumi",
+    "pass": 3
+   },
+   {
+    "quote": "藤田嗣治の５人の妻たち。「妻」に何を求めたのか？｜芸術家の恋人たち｜Shae Makuno",
+    "url": "https://note.com/cute_chives8516/n/n82df526a37a5",
+    "pass": 3
+   },
+   {
+    "quote": "藤田嗣治の５人の妻たち。「妻」に何を求めたのか？｜芸術家の恋人たち",
+    "url": "https://note.com/cute_chives8516/n/n82df526a37a5",
+    "pass": 3
+   },
+   {
+    "quote": "日本人でありながら、フランスの画家としてエコール・ド・パリで活躍した",
+    "url": "https://note.com/cute_chives8516/n/n82df526a37a5",
+    "pass": 3
+   },
+   {
+    "quote": "（ふじた つぐはる）もしくはレオナール・フジタ。",
+    "url": "https://note.com/cute_chives8516/n/n82df526a37a5",
+    "pass": 3
+   },
+   {
+    "quote": "ピカソやモディリアーニと親交があり、藤田特有の「乳白色の肌」でフランスで知らないものはいないほどの人気を集めた。",
+    "url": "https://note.com/cute_chives8516/n/n82df526a37a5",
+    "pass": 3
+   },
+   {
+    "quote": "猫と女性画を多く描き、作風の変化には妻や恋人、愛人たちの影響も大きかったと言われている。",
+    "url": "https://note.com/cute_chives8516/n/n82df526a37a5",
+    "pass": 3
+   },
+   {
+    "quote": "次々と妻や愛人を変えていく藤田は、ピカソと同じように女性を自分の芸術の一部としか考えていなかったのだろうか。",
+    "url": "https://note.com/cute_chives8516/n/n82df526a37a5",
+    "pass": 3
+   },
+   {
+    "quote": "鴇田登美子 （ときた とみこ） 1886-1931",
+    "url": "https://note.com/cute_chives8516/n/n82df526a37a5",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ゲーム芸人フジタ (@famicom_fujita) / X ファミコンやレトロゲームに3千万円使ったゲーム芸人フジタで～す現状フォローしない形すいませんでもフォローしてくれる優しい方お願いしますyoutube goo.gl/TjVhWp facebook goo.gl/uSiyR3 メール tajifumeijin@gmail.com",
+    "url": "https://x.com/famicom_fujita",
+    "pass": 3
+   },
+   {
+    "quote": "ゲーム芸人フジタ (@famicom_fujita) / X フジタチャンネル 2026.10.18公開 ️ 『5年ぶり！ ゆうちゃん宅へ KICK THE CANCREW MCU』 @ MCU 去年12月のファミコン刑事ゲストの時かな☺️隙あらば引き取りますよ体勢のしんちゃん @ famicom_fujita ꉂ🤣𐤔 良いご縁がありますように♡ 親友トークを覗き見 (*´艸`)",
+    "url": "https://x.com/famicom_fujita/all",
+    "pass": 3
+   },
+   {
+    "quote": "はぁ〜いフジタでェ〜す！ (@machikadofujita) / X 『横浜きぬた歯科 presents はぁ〜い！ 歯ッピーでェ〜す！ 』 お聴き下さりありがとうございました！ きぬた院長が作って下さった フジタ30周年記念キャップ🧢 改めてありがとうございました！ キャップのプレゼントもありますので、 Show more",
+    "url": "https://x.com/machikadofujita",
+    "pass": 3
+   },
+   {
+    "quote": "フジタショップ (@fujita_shop) / X 📢フジタショップ特典の一部が新しくなりました🎉 当ショップの購入特典として【フジタあぶらとり紙】が新登場！ 商品をご購入いただいた方全員に、もれなくプレゼント🎁 8/15（土）ご購入分から適用。",
+    "url": "https://x.com/fujita_shop",
+    "pass": 3
+   },
+   {
+    "quote": "ゲーム芸人フジタ (@famicom_fujita) / X Apr 8, 2011 · ファミコンやレトロゲームに3千万円使ったゲーム芸人フジタで～す現状フォローしない形すいませんでもフォローしてくれる優しい方お願いしますyoutube goo.gl/TjVhWp facebook goo.gl/uSiyR3 メール tajifumeijin@gmail.com",
+    "url": "https://x.com/famicom_fujita",
+    "pass": 3
+   },
+   {
+    "quote": "ゲーム芸人フジタ (@famicom_fujita) / Posts and Replies / X Apr 8, 2011 · ゲーム芸人フジタ (@famicom_fujita) - Posts and Replies - ファミコンやレトロゲームに3千万円使ったゲーム芸人フジタで～す現状フォローしない形すいませんでもフォローしてくれる優しい方お願いしますyoutube goo.gl/TjVhWp facebook ... | X (formerly Twitter)",
+    "url": "https://x.com/famicom_fujita/with_replies",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "FUJITA Medical Instruments Co., Ltd （株）フジタ医科器械 FUJITA Medical Instruments Co., Ltd （株）フジタ医科器械 | 257 followers on LinkedIn. We are medical instruments manufacturer based in Tokyo, JAPAN. Currently, we are developing new ...",
+    "url": "https://www.linkedin.com/company/fujita-medical-instruments",
+    "pass": 3
+   },
+   {
+    "quote": "（株）フジタ - LinkedIn （株）フジタ | 61 followers on LinkedIn. Below is a rendering of the page up to the first error.",
+    "url": "https://www.linkedin.com/company/（株）フジタ",
+    "pass": 3
+   },
+   {
+    "quote": "Kaoru Fujita - Head of Japan and Korea Blackstone Private ...藤田 雅之 - 株式会社フジタ - 代表取締役 | LinkedInRoby Justus - General Manager- Occupational Health, Safety ...Helio Fujita - Mars | LinkedInFujita Murni - Hmlet | LinkedIn Head of Japan and Korea Blackstone Private Wealth, Managing Director , The Blackstone Group · 職歴: Blackstone · 場所: 東京 · LinkedInのつながり500人以上。10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInでK",
+    "url": "https://jp.linkedin.com/in/kaoru-fujita-b80809177",
+    "pass": 3
+   },
+   {
+    "quote": "藤田 雅之 - 株式会社フジタ - 代表取締役 | LinkedIn 株式会社フジタ - 代表取締役 · 職歴: 株式会社フジタ · 場所: 滋賀県。10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで藤田 雅之さんのプロフィールを閲覧しましょう。",
+    "url": "https://jp.linkedin.com/in/雅之-藤田-58aa0a316",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社フジタ | Takaoka-shi Toyama - Facebook株式会社フジタ | Maizuru-shi Kyoto - Facebook株式会社フジタ - FacebookShinya Fujita - Facebookフジタグループ - Facebook株式会社フジタ・ジャパン - Facebook株式会社フジタ | Shizuoka-shi Shizuoka - Facebook 株式会社フジタ, Takaoka-shi. 1,402 likes · 492 were here. #アルミ鋳造金型 #鍛造金型 #ブロー成形金型 など複数の #金型製作、アル May 26, 2026 · 株式会社フジタ, Maizuru-shi. 111 followers · 2 talking about this. わら縄・大注連縄・網製造から一般産業用資材のご提供！ 株式会社フ",
+    "url": "https://www.facebook.com/fujita3710/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社フジタ | Maizuru-shi Kyoto - Facebook May 26, 2026 · 株式会社フジタ, Maizuru-shi. 111 followers · 2 talking about this. わら縄・大注連縄・網製造から一般産業用資材のご提供！",
+    "url": "https://www.facebook.com/people/株式会社フジタ/100054454901938/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社フジタ - FacebookShinya Fujita - Facebookフジタグループ - Facebook株式会社フジタ・ジャパン - Facebook株式会社フジタ | Shizuoka-shi Shizuoka - Facebook 株式会社フジタ. 34 followers · 191 were here. 白山市の住宅会社 株式会社フジタ 公式Facebookページです。 【住宅新築、 Oct 28, 2026 · フジタオミプロライブチケット手売り巡業！ 2026年10月25日（日）14時〜16時位まで ハードオフTOKYOラボ吉祥寺店 オミプロ代表と大竹店長もいます •フジタとゲーム対戦 •フジタグッズ販売 •わらしべ企画 等々 あと、10枚ほどで満員御礼なので、ぜひ！ 📞 お問い合わせはこちら 0883-52-2125（フジタグループ営業部まで） プロフィールリ",
+    "url": "https://www.facebook.com/kkfujita.official/",
+    "pass": 3
+   },
+   {
+    "quote": "Shinya Fujita - Facebook Oct 28, 2026 · フジタオミプロライブチケット手売り巡業！ 2026年10月25日（日）14時〜16時位まで ハードオフTOKYOラボ吉祥寺店 オミプロ代表と大竹店長もいます •フジタとゲーム対戦 •フジタグッズ販売 •わらしべ企画 等々 あと、10枚ほどで満員御礼なので、ぜひ！",
+    "url": "https://www.facebook.com/shinya.fujita.92/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://www.fujita-k.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujita-k.co.jp/works/20251103/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujita-k.co.jp/works/20250916/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujita-k.co.jp/factory-tour/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujita-k.co.jp/works/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujita-k.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujita-k.co.jp/about/why/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujita-k.co.jp/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujita-k.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujita-k.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujita-k.co.jp/technology/5axis/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujita-k.co.jp/technology/machining/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujita-k.co.jp/technology/wire-edm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujita-k.co.jp/technology/turning/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujita-k.co.jp/works/20250528/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujita-k.co.jp/works/20260122/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujita-k.co.jp/works/20250925/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujita-k.co.jp/works/20250811/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujita-k.co.jp/works/20250707/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujita-k.co.jp/works/20250417/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujita-k.co.jp/works/20250326/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujita-k.co.jp/works/20250311/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujita-k.co.jp/works/20241218/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujita-k.co.jp/works/20241121/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujita-k.co.jp/equipment/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.fujita-k.co.jp/wp-content/uploads/main640_product02-640x400-1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.few.co.jp/small-lot/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%B8%E3%82%BF",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujita.co.jp/company/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujita.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujita.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fuzita.co.jp/lmh/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/vivid_auklet7415/n/nb6a82e908583",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/legal_literacy/n/n7ba11e8be300",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/fujitagumi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/cute_chives8516/n/n82df526a37a5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/famicom_fujita",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/famicom_fujita/all",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/machikadofujita",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/fujita_shop",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/fujita-medical-instruments",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/（株）フジタ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/kaoru-fujita-b80809177",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/雅之-藤田-58aa0a316",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fujita3710/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/people/株式会社フジタ/100054454901938/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/kkfujita.official/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/shinya.fujita.92/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/famicom_fujita",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/famicom_fujita/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "フジタ 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.fujita-k.co.jp/technology/size-material-lot/",
+    "https://www.fujita-k.co.jp/technology/5axis/",
+    "https://www.few.co.jp/small-lot/",
+    "http://www.fujita-inc.jp/",
+    "https://ja.nc-net.or.jp/company/71142/product/detail/245204/",
+    "http://www.fujita-inc.jp/contents/",
+    "https://ja.nc-net.or.jp/company/71142/product/detail/243499/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "フジタ 会社概要 事業内容",
+   "results": [
+    "https://ja.wikipedia.org/wiki/フジタ",
+    "https://www.fujita.co.jp/company/about/",
+    "https://www.fujita.co.jp/company/",
+    "https://www.kkfujita.co.jp/company/",
+    "https://www.fujita-k.co.jp/company/",
+    "https://fujita-co.jp/company",
+    "https://job.mynavi.jp/27/pc/search/corp50077/outline.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "フジタ お問い合わせ メール",
+   "results": [
+    "https://www.fujita.co.jp/contact/",
+    "https://fuzita.co.jp/lmh/contact/",
+    "https://www.fujita-k.co.jp/contact/",
+    "http://kk-fujita33.com/contact",
+    "https://www.kkfujita.co.jp/contact/",
+    "https://fujita-company.net/contact/",
+    "https://www.fujitacorp.co.jp/main/contact_n/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com フジタ",
+   "results": [
+    "https://note.com/vivid_auklet7415/n/nb6a82e908583",
+    "https://note.com/legal_literacy/n/n7ba11e8be300",
+    "https://note.com/fujitagumi",
+    "https://note.com/cute_chives8516/n/n82df526a37a5",
+    "https://note.com/fujita_museum/n/n3f3b1feaf5dc",
+    "https://tales.note.com/",
+    "https://tales.note.com/tender_eel608/w4omd2wf8ahl3/episodes/esh34buzzl2f7"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com フジタ",
+   "results": [
+    "https://x.com/famicom_fujita",
+    "https://x.com/famicom_fujita/all",
+    "https://x.com/machikadofujita",
+    "https://x.com/fujita_shop",
+    "https://x.com/hashtag/フジタ",
+    "https://x.com/sky_heights",
+    "https://x.com/fjthr"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com フジタ",
+   "results": [
+    "https://www.linkedin.com/company/fujita-medical-instruments",
+    "https://www.linkedin.com/company/（株）フジタ",
+    "https://jp.linkedin.com/in/kaoru-fujita-b80809177",
+    "https://jp.linkedin.com/in/雅之-藤田-58aa0a316",
+    "https://in.linkedin.com/in/roby-justus-10441b68",
+    "https://be.linkedin.com/in/heliofujita",
+    "https://sg.linkedin.com/in/fujita-murni-32180363"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com フジタ",
+   "results": [
+    "https://www.facebook.com/fujita3710/",
+    "https://www.facebook.com/people/株式会社フジタ/100054454901938/",
+    "https://www.facebook.com/kkfujita.official/",
+    "https://www.facebook.com/shinya.fujita.92/",
+    "https://www.facebook.com/fujitagroup.co.jp/",
+    "https://www.facebook.com/fujita3210/",
+    "https://www.facebook.com/fujitaltd/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "フジタ note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://ja.wikipedia.org/wiki/奥村洋治",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.fujita.co.jp/company/officer/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://global.fujitsu/ja-jp/about/corporate/management",
+    "https://note.com/susumu_fujita/n/n9365431128fd"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "フジタ X 投稿",
+   "results": [
+    "https://x.com/famicom_fujita",
+    "https://x.com/famicom_fujita/with_replies",
+    "https://search.yahoo.co.jp/realtime/search/フジタ/",
+    "https://search.yahoo.co.jp/realtime/search/＃ゲーム芸人フジタ/",
+    "https://fujita.fanbox.cc/posts",
+    "https://www.patreon.com/collection/635210",
+    "https://goyimx.com/JunnosukeFujita"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式25頁／PDF・画像1件／外部24頁・検索9回）"
+ }
+}

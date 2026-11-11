@@ -1,0 +1,1142 @@
+{
+ "name": "株式会社田口型範",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T12:54:22.560097+00:00",
+ "official_url": "http://www.tpw.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "130名",
+    "url": "https://www.tpw.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "社員数",
+    "value": "69名（2016年12月現在）（会社全体142人）",
+    "url": "https://www.city.nihonmatsu.lg.jp/company.php?mode=detail&ac=1&code=18",
+    "pass": 3
+   }
+  ],
+  "拠点": [
+   {
+    "label": "生産拠点",
+    "value": "本社・川口工場／川口工場内部品加工課／福島二本松工場",
+    "url": "https://www.tpw.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒964-0981 福島県二本松市平石高田4-123",
+    "url": "https://www.city.nihonmatsu.lg.jp/company.php?mode=detail&ac=1&code=18",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "酒井栄次",
+    "url": "https://www.city.nihonmatsu.lg.jp/company.php?mode=detail&ac=1&code=18",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "産業用製品比較情報サイト「メトリー（Metoree）」に弊社…",
+    "url": "https://www.tpw.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "また、図面やデータのない製品を非接触測定機で計測し、その測定データから3Dモデルを作成する技術（リバースモデリング）も確立しています",
+    "url": "https://www.tpw.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "これらの製品は経験と伝承された技術・技能によって生み出されてきた結晶といっても過言ではございません",
+    "url": "https://www.tpw.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "その結晶を作り上げるためには、図面の読み書きから型の方案設計、製品に求められる細かい仕様の理解まで様々な技量が技術者に求められます",
+    "url": "https://www.tpw.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "FCD=球状黒鉛鋳鉄のシリンダヘッドを作りたいと依頼がありますが残念なことに製品形状確定後では難易度が高く、作れないことがあります",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "FCD鋳造時に発生する引巣を製品外に持っていくために円筒状の押湯をたくさんつける必要があります",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "押湯がつけられる平坦な製品形状なら製作可能性が高いです",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "下のシリンダヘッドはウォータジャケットや押湯接続形状を割と自由にモデリングさせて頂いたおかげで指向性凝固を実現し製品内の引巣の発生を抑えています",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "また、この後に製品形状を変更して中子数を減らす等、コストダウンの方策が可視化できるようになります",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "現在、多くの製造メーカーではCADを導入しているため、電子データとして製品データを保有している事が多いが、CADが広く普及する前に製造された製品に関しては、電子データはおろか、金型図面さえ残存していない事も少なくない",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターは技術革新が進み、試作品の製造から量産品の製造が可能な段階に移行し、多くの製品が3Dプリンターにより、文字通り「印刷」されている",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "すなわち、航空宇宙分野製品は、精度、強度及び軽量化全て満たす宇宙品質が必要",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "事務職として採用されたのですが、会社が扱う製品を知るために",
+    "url": "https://www.tpw.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "少し経ってからは製品の検査にも携わるようになり、",
+    "url": "https://www.tpw.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "また、複数ある製品の検査をする順番について、",
+    "url": "https://www.tpw.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "入社して、実際に製品を作ってみたり、他部署の製品を見たりして、(株)田口型範の製品や事業は、自分がイメージしていた木型・金型のみならず、半導体製造装置向けの部品加工やインペラー加工など、思っていたよりも",
+    "url": "https://www.tpw.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "多様な機械を用いて様々な製品づくりに携わることができる",
+    "url": "https://www.tpw.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "をしてくださり、ようやく一人で製品を加工できるようになりました",
+    "url": "https://www.tpw.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "と、既に製品化された",
+    "url": "https://www.tpw.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "加工の作業そのものは個人で行いますが、ひとつの製品を出荷するまでにはチームワークが欠かせません",
+    "url": "https://www.tpw.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "頭の中で平面の図面から立体の製品形状に変換することができる",
+    "url": "https://www.tpw.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "初めて作る製品でも、ものづくりの経験が豊富な先輩がたくさんいるので、先輩方が知っている方法を応用して対応しています",
+    "url": "https://www.tpw.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "私は、パソコンを使って型設計をしていますが、設計の段階での微々たるミスが実際の製品になると大きな問題や損害に繋がる恐れがある、という緊張感を持って作業をするように心掛けています",
+    "url": "https://www.tpw.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "モデリングをする際に、製品の完成型が見えていると作業がスムーズに行えます",
+    "url": "https://www.tpw.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "産業用製品比較情報サイト「メトリー（Metoree）」に弊社製品が掲載されました",
+    "url": "https://www.tpw.co.jp/%E7%94%A3%E6%A5%AD%E7%94%A8%E8%A3%BD%E5%93%81%E6%AF%94%E8%BC%83%E6%83%85%E5%A0%B1%E3%82%B5%E3%82%A4%E3%83%88%E3%80%8C%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BC%EF%BC%88metoree%EF%BC%89%E3%80%8D%E3%81%AB/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社田口型範における各種製品が産業用製品比較情報サイト「メトリー（Metoree）」にて掲載されました",
+    "url": "https://www.tpw.co.jp/%E7%94%A3%E6%A5%AD%E7%94%A8%E8%A3%BD%E5%93%81%E6%AF%94%E8%BC%83%E6%83%85%E5%A0%B1%E3%82%B5%E3%82%A4%E3%83%88%E3%80%8C%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BC%EF%BC%88metoree%EF%BC%89%E3%80%8D%E3%81%AB/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社田口型範は、弊社が持つ優れた製品および技術（鋳造用木型・金型/部品加工/鋳物鋳造品）を広くアピールする為",
+    "url": "https://www.tpw.co.jp/%E7%94%A3%E6%A5%AD%E7%94%A8%E8%A3%BD%E5%93%81%E6%AF%94%E8%BC%83%E6%83%85%E5%A0%B1%E3%82%B5%E3%82%A4%E3%83%88%E3%80%8C%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BC%EF%BC%88metoree%EF%BC%89%E3%80%8D%E3%81%AB/",
+    "pass": 1
+   },
+   {
+    "quote": "この度ZAZA株式会社の製品比較情報サイト「Metoree」に掲載を行う事としました",
+    "url": "https://www.tpw.co.jp/%E7%94%A3%E6%A5%AD%E7%94%A8%E8%A3%BD%E5%93%81%E6%AF%94%E8%BC%83%E6%83%85%E5%A0%B1%E3%82%B5%E3%82%A4%E3%83%88%E3%80%8C%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BC%EF%BC%88metoree%EF%BC%89%E3%80%8D%E3%81%AB/",
+    "pass": 1
+   },
+   {
+    "quote": "田口型範の製品・サービス一覧｜イプロスものづくり",
+    "url": "https://mono.ipros.com/company/detail/2077779/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(1)",
+    "url": "https://mono.ipros.com/company/detail/2077779/category/",
+    "pass": 3
+   },
+   {
+    "quote": "最近では、五軸加工羽根類や半導体関連製品の製造・量産等の",
+    "url": "https://www.pref.saitama.lg.jp/jimotosyukatsu/kigyokensaku/24245.html",
+    "pass": 3
+   },
+   {
+    "quote": "当社の製品は職人の技や経験、伝統的な手法といったアナログの良さと融合して初めて完成します",
+    "url": "https://www.city.nihonmatsu.lg.jp/company.php?mode=detail&ac=1&code=18",
+    "pass": 3
+   },
+   {
+    "quote": "お客様からの製品を独自の手法で分解し型に展開していきます",
+    "url": "https://www.city.nihonmatsu.lg.jp/company.php?mode=detail&ac=1&code=18",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "アルミ、チタン、ニッケル合金等の",
+    "url": "https://www.tpw.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1980年代から導入した同時5軸MCを駆使し、アルミ、チタン、マグネシウム、ニッケル合金等の試作から量産まで幅広く対応",
+    "url": "https://www.tpw.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "材質はアルミ、チタン、マグネシウム、ニッケル合金など多種にわたり、薄肉加工に対応した自社配合によるマシナブルワックスの削り出しも行っています",
+    "url": "https://www.tpw.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂では重かった型が木材を使用すると半分以下の重量で製作することができます",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "ExOne 3Dプリンタは、砂またはセラミック材料を使用して、3D CADファイルからカスタム完成品を作成",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "ブリスクは、実機の素材としては、航空機のエンジンに用いられるためチタンの様な耐熱合金が用いられる事が多いがブリスクの実証に用いる試作ブリスクは、アルミによる試作品となることも少なくない",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "鋳造用木型・金型・インペラー・試作鋳物・機械加工品の株式会社 田口型範",
+    "url": "https://www.tpw.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "1980年代から導入した同時5軸MCを駆使し、アルミ、チタン、マグネシウム、ニッケル合金等の試作から量産まで幅広く対応",
+    "url": "https://www.tpw.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "凝固解析により鋳造不良をなくし、短期間で試作用鋳物をお届け致します",
+    "url": "https://www.tpw.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "真空ポンプや半導体製造装置向け部品の試作から量産まで幅広く対応しております",
+    "url": "https://www.tpw.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "木型・金型、試作鋳物、機械加工品さらに同時五軸CNC加工を駆使したインペラー加工まで",
+    "url": "https://www.tpw.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "1980年頃から小規模・少人数で試作インペラ―(羽根車)の削り出しに着手し、インペラ―加工事業での実績を積み上げてきました",
+    "url": "https://www.tpw.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "凝固解析により、鋳造不良をなくし、短期間で試作用鋳物をお届け致します",
+    "url": "https://www.tpw.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "試作によくある製作途中の設変には変更が及ぶ(型の)範囲を迅速に把握し、スムーズかつ短期間で対応する体制を整えております",
+    "url": "https://www.tpw.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "真空ポンプや半導体製造装置向け部品の試作から量産まで幅広く対応しております",
+    "url": "https://www.tpw.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "事前に危険部位を予測して、試作回数の削減に貢献します",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "中子の熱膨張応力解析をすることによりベーニング発生の危険部位を予測して試作回数の削減に貢献します",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "前例のない試作なら、なおさらです",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターは技術革新が進み、試作品の製造から量産品の製造が可能な段階に移行し、多くの製品が3Dプリンターにより、文字通り「印刷」されている",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "ブリスクは、実機の素材としては、航空機のエンジンに用いられるためチタンの様な耐熱合金が用いられる事が多いがブリスクの実証に用いる試作ブリスクは、アルミによる試作品となることも少なくない",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "試作品を作成する際は、初めて扱う素材の場合もあるので気を付ける点が多く、慎重に作業を進める反面、量産品はスピードを重視して加工を行うので、",
+    "url": "https://www.tpw.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和22年以降、70年に渡り試作用木型、鋳造用金型のパイオニアとして",
+    "url": "https://www.city.nihonmatsu.lg.jp/company.php?mode=detail&ac=1&code=18",
+    "pass": 3
+   },
+   {
+    "quote": "当社は昭和22年、埼玉県川口市に「田口木工所」を創業したのが始まりであり、以降70年に渡り試作用木型、鋳造用金型のパイオニアとしてお客様の要望に応え続けてきました",
+    "url": "https://www.city.nihonmatsu.lg.jp/company.php?mode=detail&ac=1&code=18",
+    "pass": 3
+   },
+   {
+    "quote": "また、当社は試作用木型、鋳造用金型の両方を作れる強みで、同分野にて高いシェアを獲得し国内外の車両機械メーカーと取引させて頂いております",
+    "url": "https://www.city.nihonmatsu.lg.jp/company.php?mode=detail&ac=1&code=18",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "鋳造用木型・金型・インペラー・試作鋳物・機械加工品の株式会社 田口型範",
+    "url": "https://www.tpw.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "量産砂型鋳物用金型を中心に、ガスタービン向けロストワックス金型や低圧鋳造、重力鋳造向け金型の実績があります",
+    "url": "https://www.tpw.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "3D設計と最先端の5軸MCを駆使し、品質の良い金型を短期間で製作することが可能です",
+    "url": "https://www.tpw.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "真空ポンプや半導体製造装置向け部品の試作から量産まで幅広く対応しております",
+    "url": "https://www.tpw.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "特に金型加工/インペラー加工で培った5軸マシニングセンターでの短時間で高品位な部品加工にはご評価を頂いております",
+    "url": "https://www.tpw.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "鋳造用木型・金型製作で培ってきた技術と技能をアナログとデジタルのバランスを取りながら、",
+    "url": "https://www.tpw.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "今や当社が製作した木型・金型から作られた鋳造部品は、",
+    "url": "https://www.tpw.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "車両/産業機械/航空機さらには宇宙開発関連の分野まで、幅広い業界で使われております",
+    "url": "https://www.tpw.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "木型・金型、試作鋳物、機械加工品さらに同時五軸CNC加工を駆使したインペラー加工まで",
+    "url": "https://www.tpw.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "量産砂型鋳造用金型を中心に、ガスタービン向けロストワックス金型や低圧鋳造、重力鋳造向け金型の実績があります",
+    "url": "https://www.tpw.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "Creoを用いた3D設計、最新のCAD/CAM/CAE、最先端の5軸MCを駆使し、さらに5軸加工と旋削加工を同時に行うことで、品質の良い金型を短期間で製作することが可能です",
+    "url": "https://www.tpw.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "リバースモデリングでは「老朽化金型の復元」「図面のない金型の製作」などが可能です",
+    "url": "https://www.tpw.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "真空ポンプや半導体製造装置向け部品の試作から量産まで幅広く対応しております",
+    "url": "https://www.tpw.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "特に金型加工/インペラー加工で培った5軸マシニングセンターでの短時間で高品位な部品加工にはご評価を頂いております",
+    "url": "https://www.tpw.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、我々ものづくりの業界においては、AIやロボットを使うのはあくまでも『人』であり、『技術者』であります",
+    "url": "https://www.tpw.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "内燃機関エンジンを主体とした鋳造用木型金型製作から始まり、ターボチャジャーやガスタービン等の回転体、更に半導体製造装置分野にと営業範囲を広げております",
+    "url": "https://www.tpw.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "川口金型部門で技術情報管理認証制度を認証取得",
+    "url": "https://www.tpw.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "図面やデータのない金型を非接触式測定機で測定し、その測定データからサーフェイスやソリッドモデルの製作が可能です",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "・CADデータを紛失した金型や部品の再製作",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "・金型製作前のシミュレーションや解析等に利用しています",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "中子の焼けムラと金型の変形を無くす為、設計時に適切なヒーター配置の検証を行っています",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "航空部品によくある中子の数が20個以上に及ぶ知恵の輪な中子組付方案を検討します",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "従来は人の手で取り除く作業をしていましたが、数量が多いのでロボットを活用し、コスト削減に努めています",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "今後自動車の動力のモーターへの移行（EV化）に伴い、車載電装品の熱管理対策の必要性は高まる傾向",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車エンジン用インペラ製作で培ったノウハウをヒートシンク製作に応用できるため、重要工程である洗浄やバリ取り、検品も高いレベルで実施可能",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "発電施設のガスタービンや航空機のジェットエンジン部品関連の製造も担える設備も保有",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "大物ワーク自身の荷重による変形を考慮し、最適な治具設計、加工法方法の検討を行っております",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体や情報処理技術、情報通信技術の進化は留まることを知らず、今後も情報処理量を拡大させながら、デジタル技術の活用が競争力の源泉となる時代は続いていく（半導体・デジタル 産業戦略 令和５年６月（経済産業省商務情報政策局）より抜粋）",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "現に、半導体製造装置の鉱工業生産指数は、2022年において2015年指数比で200以上に成長",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体サイクルと言われる市場の乱高下は今後も発生しうるものの、中期的スパンでは今後の成長が期待できる分野",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体の高度処理化に伴い、半導体製造装置の高精度加工もより必要となる",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置部品製作に適した設備（抜粋）",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置に用いられる事が多い、アルミ素材は熱膨張係数が大きいため温度によるサイズ変化が生じ易く、弾性率の低さから歪みも発生し易い",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "現在、多くの製造メーカーではCADを導入しているため、電子データとして製品データを保有している事が多いが、CADが広く普及する前に製造された製品に関しては、電子データはおろか、金型図面さえ残存していない事も少なくない",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "加えて、量産を外部に委託している場合には、金型を外部委託会社に預けている事も多く、2020年度初頭から3～4年間の経済環境の激変に伴い、委託会社が廃業等により、金型が紛失している事例も有",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "リバースモデリングに適した設備に加え、その設備を運用する知識と経験に長けたエンジニアによる、金型リバースモデリングをご提供",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "金型製造は、田口型範の主力事業であるため、田口型範でリバースしたデータに基づく金型製作も可能",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "最新鋭の設備と75年超の業歴を通じ蓄積した技術と知識を強味に、砂型鋳造用金型製造を得意とする田口型範は、3Dプリンターの将来性を逸早く察知し、業界に先駆け3Dプリンターを導入",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "機械加工による木型や金型では困難であった立体的に複雑で微細な形状、特に内部形状が複雑な場合であっても、短納期で製作出来るのが、3Dプリンターの強み",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "鋳造技術の発展により、航空宇宙や航空機、ガスタービン等で利用されているブリスクは、従来の回転翼から更に高精度化が進んだことで、機械加工による製造が増えている",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "ブリスクは、実機の素材としては、航空機のエンジンに用いられるためチタンの様な耐熱合金が用いられる事が多いがブリスクの実証に用いる試作ブリスクは、アルミによる試作品となることも少なくない",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "例えば、液体ロケットエンジンに用いられるインデューサは鋳造や機械加工による製造が行われる事が多く、キャビテーション防止の目的から特に表面粗さに対する要求品質が高い",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "入社して、実際に製品を作ってみたり、他部署の製品を見たりして、(株)田口型範の製品や事業は、自分がイメージしていた木型・金型のみならず、半導体製造装置向けの部品加工やインペラー加工など、思っていたよりも",
+    "url": "https://www.tpw.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "また、金型部品の加工ひとつ取っても、加工する素材も、デザインも一様ではありません",
+    "url": "https://www.tpw.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "就職活動を通して他の鋳物関係の企業や医療機器の製造企業なども検討しましたが、",
+    "url": "https://www.tpw.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "機械で加工された半導体製造装置向けの部品の",
+    "url": "https://www.tpw.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "二本松工場で半導体製造装置向けの部品を作製する部署が立ち上がった",
+    "url": "https://www.tpw.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミや鉄以外の素材の加工や、インペラー以外の金属部品の金型の加工に挑戦したいです",
+    "url": "https://www.tpw.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "今後は仕上げの前工程である、加工や治具の交換などにチャレンジして、",
+    "url": "https://www.tpw.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社田口型範は、弊社が持つ優れた製品および技術（鋳造用木型・金型/部品加工/鋳物鋳造品）を広くアピールする為",
+    "url": "https://www.tpw.co.jp/%E7%94%A3%E6%A5%AD%E7%94%A8%E8%A3%BD%E5%93%81%E6%AF%94%E8%BC%83%E6%83%85%E5%A0%B1%E3%82%B5%E3%82%A4%E3%83%88%E3%80%8C%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BC%EF%BC%88metoree%EF%BC%89%E3%80%8D%E3%81%AB/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、伝統の金型製作技術とCAD/CAM/CAEを駆使し、",
+    "url": "https://mono.ipros.com/company/detail/2077779/category/",
+    "pass": 3
+   },
+   {
+    "quote": "また、図面、データのない金型を非接触測定機で計測し、",
+    "url": "https://mono.ipros.com/company/detail/2077779/category/",
+    "pass": 3
+   },
+   {
+    "quote": "大手自動車メーカーを筆頭に幅広い業種と取引が",
+    "url": "https://www.pref.saitama.lg.jp/jimotosyukatsu/kigyokensaku/24245.html",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界を筆頭に幅広い業種と取引を行っている事から、業",
+    "url": "https://www.pref.saitama.lg.jp/jimotosyukatsu/kigyokensaku/24245.html",
+    "pass": 3
+   },
+   {
+    "quote": "鋳造用木型・金型の設計～製造まで一貫にて対応し、",
+    "url": "https://www.pref.saitama.lg.jp/jimotosyukatsu/kigyokensaku/24245.html",
+    "pass": 3
+   },
+   {
+    "quote": "年にわたり鋳造用木型・金型設計製造のパイオニアとしてお客",
+    "url": "https://www.pref.saitama.lg.jp/jimotosyukatsu/kigyokensaku/24245.html",
+    "pass": 3
+   },
+   {
+    "quote": "最近では、五軸加工羽根類や半導体関連製品の製造・量産等の",
+    "url": "https://www.pref.saitama.lg.jp/jimotosyukatsu/kigyokensaku/24245.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社田口型範は、1947年に設立され、70年以上にわたり鋳造用金型の製作を行っています",
+    "url": "https://www.pref.saitama.lg.jp/jimotosyukatsu/kigyokensaku/24245.html",
+    "pass": 3
+   },
+   {
+    "quote": "昭和22年以降、70年に渡り試作用木型、鋳造用金型のパイオニアとして",
+    "url": "https://www.city.nihonmatsu.lg.jp/company.php?mode=detail&ac=1&code=18",
+    "pass": 3
+   },
+   {
+    "quote": "当社は昭和22年、埼玉県川口市に「田口木工所」を創業したのが始まりであり、以降70年に渡り試作用木型、鋳造用金型のパイオニアとしてお客様の要望に応え続けてきました",
+    "url": "https://www.city.nihonmatsu.lg.jp/company.php?mode=detail&ac=1&code=18",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "最新のCAD/CAM/CAEを駆使し、",
+    "url": "https://www.tpw.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "創業70年以上に亘り培ってきた【ノミ・カンナ等を用いた伝統的アナログ的な技術技能】と【最先端3D CAD / CAM / CAEとマシニングセンターでのデジタル的な技術技能】を組み合わせ、お客様の方案要望を反映した木型づくりを行っております",
+    "url": "https://www.tpw.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "創業70年以上に亘り培ってきた【ノミ・カンナ等を用いた伝統的アナログ的な技術技能】と【最先端3D CAD / CAM / CAEとマシニングセンターでのデジタル的な技術技能】を組み合わせ、お客様の方案要望を反映した木型づくりを行っております",
+    "url": "https://www.tpw.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "Creoを用いた3D設計、最新のCAD/CAM/CAE、最先端の5軸MCを駆使し、さらに5軸加工と旋削加工を同時に行うことで、品質の良い金型を短期間で製作することが可能です",
+    "url": "https://www.tpw.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "（3Dプリンター）",
+    "url": "https://www.tpw.co.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "砂積層装置（3Dプリンター）",
+    "url": "https://www.tpw.co.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "砂積層装置（3Dプリンタ）",
+    "url": "https://www.tpw.co.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタを使った短納期鋳物",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "砂積層3Dプリンタを使用した短納期の鋳物製作を行っています",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "従来工法で必要だった“砂型造形用の型”が不要で工程短縮できるため短納期が可能になります",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "抜け勾配の余肉、見切りエッジ、堰跡など型屋ならではの 正確な鋳造形状で解析します",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "・3Dプリンター造形",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "シュラウドと呼ばれる側板にインペラ本体が覆われているクローズドインペラは、流量物の送量効率が高まる長所を持つものの、製作難易度が高く、切削工具の選定やCAMプログラムの作り方が重要となる",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "田口型範は数多くのインペラ製作実績があるため、インペラ形状に 適した機器選定に習熟していると共にインペラ加工に適したCAMの活用に長けており、複雑形状のインペラを高い精度で効率よく生産する事が可能",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター動向",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターは技術革新が進み、試作品の製造から量産品の製造が可能な段階に移行し、多くの製品が3Dプリンターにより、文字通り「印刷」されている",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "最新鋭の設備と75年超の業歴を通じ蓄積した技術と知識を強味に、砂型鋳造用金型製造を得意とする田口型範は、3Dプリンターの将来性を逸早く察知し、業界に先駆け3Dプリンターを導入",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "機械加工による木型や金型では困難であった立体的に複雑で微細な形状、特に内部形状が複雑な場合であっても、短納期で製作出来るのが、3Dプリンターの強み",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターによる砂型製造に適した設備",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "砂積層装置（3Dプリンタ）",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "ExOne 3Dプリンタは、砂またはセラミック材料を使用して、3D CADファイルからカスタム完成品を作成",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "加えて、ブリスク製作に適したCAMも保有しており、CAM運用に熟練したエンジニアが加工難易度の高いブリスクを効率的かつ高精度でご提供します",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "長年の事業経験の中で蓄積した機械加工ノウハウ（工場全体やワーク周辺での温度管理、豊富に保有する5軸マシニングセンタの中から最適な設備選択、CAMの有効活用等）を駆使し、宇宙研究や宇宙探索に貢献させて頂きたいのが弊社の思いです",
+    "url": "https://www.tpw.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "2-20-15 Nakaaoki Kawaguchi, SAITAMA, JAPAN",
+    "url": "https://www.tpw.co.jp/%E7%94%A3%E6%A5%AD%E7%94%A8%E8%A3%BD%E5%93%81%E6%AF%94%E8%BC%83%E6%83%85%E5%A0%B1%E3%82%B5%E3%82%A4%E3%83%88%E3%80%8C%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BC%EF%BC%88metoree%EF%BC%89%E3%80%8D%E3%81%AB/",
+    "pass": 1
+   },
+   {
+    "quote": "2-19-3 Nakaaoki Kawaguchi, SAITAMA, JAPAN",
+    "url": "https://www.tpw.co.jp/%E7%94%A3%E6%A5%AD%E7%94%A8%E8%A3%BD%E5%93%81%E6%AF%94%E8%BC%83%E6%83%85%E5%A0%B1%E3%82%B5%E3%82%A4%E3%83%88%E3%80%8C%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BC%EF%BC%88metoree%EF%BC%89%E3%80%8D%E3%81%AB/",
+    "pass": 1
+   },
+   {
+    "quote": "2-20-15 Nakaaoki Kawaguchi, SAITAMA, JAPAN",
+    "url": "https://www.tpw.co.jp/entry/",
+    "pass": 1
+   },
+   {
+    "quote": "2-19-3 Nakaaoki Kawaguchi, SAITAMA, JAPAN",
+    "url": "https://www.tpw.co.jp/entry/",
+    "pass": 1
+   },
+   {
+    "quote": "2-20-15 Nakaaoki Kawaguchi, SAITAMA, JAPAN",
+    "url": "https://www.tpw.co.jp/career/",
+    "pass": 1
+   },
+   {
+    "quote": "2-19-3 Nakaaoki Kawaguchi, SAITAMA, JAPAN",
+    "url": "https://www.tpw.co.jp/career/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、伝統の金型製作技術とCAD/CAM/CAEを駆使し、",
+    "url": "https://mono.ipros.com/company/detail/2077779/category/",
+    "pass": 3
+   },
+   {
+    "quote": "今や3D-CADCAMとCNC工作機械の進化により精密な型が作られます",
+    "url": "https://www.city.nihonmatsu.lg.jp/company.php?mode=detail&ac=1&code=18",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "田口型範 — 田口型範 株式会社 田口型範 https://www.tpw.co.jp",
+    "url": "https://www.tpw.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "田口型範 の 製品 ・サービス一覧｜イプロスものづくり — 田口型範 の 製品 ・サービス一覧｜イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > ... > 株式会社田口型範",
+    "url": "https://mono.ipros.com/company/detail/2077779/category/",
+    "pass": 3
+   },
+   {
+    "quote": "事業紹介 | 株式会社 田口型範 — 事業紹介 | 株式会社 田口型範 株式会社 田口型範 https://www.tpw.co.jp > business",
+    "url": "https://www.tpw.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 田口型範 | KAWAGUCHI i-waza 伝統が育んだいいわざ — 株式会社 田口型範 | KAWAGUCHI i-waza 伝統が育んだいいわざ 川口商工会議所 https://www.kawaguchicci.or.jp > product > waza > tech46",
+    "url": "https://www.kawaguchicci.or.jp/brand/product/waza/tech46.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 田口型範 二本松工場 — 株式会社 田口型範 二本松工場 二本松市 https://www.city.nihonmatsu.lg.jp > company",
+    "url": "https://www.city.nihonmatsu.lg.jp/company.php?mode=detail&ac=1&code=18",
+    "pass": 3
+   },
+   {
+    "quote": "事業 紹介 | 株式 会社 田口型範 — 事業 紹介 | 株式 会社 田口型範 株式会社 田口型範 https://www.tpw.co.jp > business",
+    "url": "https://www.tpw.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 ｜株式会社 田口型範 — 会社情報 ｜株式会社 田口型範 株式会社 田口型範 https://www.tpw.co.jp > company",
+    "url": "https://www.tpw.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社田口型範 - 埼玉県 — 株式 会社田口型範 - 埼玉県 埼玉県 https://www.pref.saitama.lg.jp > kigyokensaku",
+    "url": "https://www.pref.saitama.lg.jp/jimotosyukatsu/kigyokensaku/24245.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社田口型範 （製造業） - 100億宣言 — 株式 会社田口型範 （製造業） - 100億宣言 １００億企業成長ポータル PDF https://growth-100-oku.smrj.go.jp > companies > pdf",
+    "url": "https://growth-100-oku.smrj.go.jp/companies/pdf/03935-00.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "田口型範 | 企業 情報 - イプロスものづくり — 田口型範 | 企業 情報 - イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/2077779/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ ｜株式会社 田口型範 — お問い合わせ ｜株式会社 田口型範 株式会社 田口型範 https://www.tpw.co.jp > contact",
+    "url": "https://www.tpw.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "既卒採用応募受付 - 株式会社 田口型範 — 既卒採用応募受付 - 株式会社 田口型範 株式会社 田口型範 https://www.tpw.co.jp > career",
+    "url": "https://www.tpw.co.jp/career/",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報｜株式会社 田口型範 — 会社情報｜株式会社 田口型範 株式会社 田口型範 https://www.tpw.co.jp > company",
+    "url": "https://www.tpw.co.jp/company/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tpw.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpw.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpw.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpw.co.jp/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpw.co.jp/technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpw.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpw.co.jp/%E7%94%A3%E6%A5%AD%E7%94%A8%E8%A3%BD%E5%93%81%E6%AF%94%E8%BC%83%E6%83%85%E5%A0%B1%E3%82%B5%E3%82%A4%E3%83%88%E3%80%8C%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BC%EF%BC%88metoree%EF%BC%89%E3%80%8D%E3%81%AB/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpw.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpw.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpw.co.jp/technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpw.co.jp/entry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tpw.co.jp/career/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/company/detail/2077779/category/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.saitama.lg.jp/jimotosyukatsu/kigyokensaku/24245.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.city.nihonmatsu.lg.jp/company.php?mode=detail&ac=1&code=18",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "田口型範 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.tpw.co.jp/",
+    "https://mono.ipros.com/company/detail/2077779/category/",
+    "https://www.tpw.co.jp/business/",
+    "https://www.kawaguchicci.or.jp/brand/product/waza/tech46.html",
+    "https://www.city.nihonmatsu.lg.jp/company.php?mode=detail&ac=1&code=18",
+    "https://sai-hataraku.jp/companies/view/198?page=51",
+    "https://www.youtube.com/watch?v=4x4h133xGGI",
+    "https://takiguchi-seisakusyo.co.jp/prototype-small-lot/",
+    "https://ja.nc-net.or.jp/company/46105/product/",
+    "https://www.protech-japan.jp/products/casting/mould.html"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "田口型範 会社概要 事業内容",
+   "results": [
+    "https://www.tpw.co.jp/business/",
+    "https://www.tpw.co.jp/company/",
+    "https://www.pref.saitama.lg.jp/jimotosyukatsu/kigyokensaku/24245.html",
+    "https://growth-100-oku.smrj.go.jp/companies/pdf/03935-00.pdf",
+    "https://mono.ipros.com/company/detail/2077779/",
+    "https://compalyze.co.jp/company/7030001075899",
+    "https://eigyo-mfg.com/service/navi/company/ApQpAeNB0xqg",
+    "https://www.kawaguchicci.or.jp/brand/product/waza/tech46.html",
+    "https://baseconnect.in/companies/3ca6892b-04db-40bb-811d-b954121d7790",
+    "https://metoree.com/companies/2011189/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "田口型範 お問い合わせ メール",
+   "results": [
+    "https://www.tpw.co.jp/contact/",
+    "https://www.city.nihonmatsu.lg.jp/company.php?mode=detail&ac=1&code=18",
+    "https://www.tpw.co.jp/career/",
+    "https://www.kawaguchicci.or.jp/brand/product/waza/tech46.html",
+    "https://www.tpw.co.jp/company/",
+    "https://www.n-model.org/member-kanto-koshin/",
+    "https://metoree.com/categories/10654/area/kanagawa/",
+    "https://doda.jp/DodaFront/View/Company/j_id__10001338464/",
+    "https://ja.nc-net.or.jp/company/46105/inquiry/",
+    "https://www.tpw.co.jp/2025/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com 田口型範",
+   "results": [
+    "https://note.com/circus_ah/n/n0105309073f1",
+    "https://note.com/nori_taguchi/n/na0c1e1c61dfc",
+    "https://note.com/tag/%E5%85%A8%E7%A4%BE%E7%B7%8F%E4%BC%9A",
+    "https://note.com/tag/%E5%A4%89%E3%82%8F%E3%82%8A%E3%81%9F%E3%81%84%E8%87%AA%E5%88%86",
+    "https://note.com/circus_ah/n/n1fcb79d5b16a",
+    "https://note.com/stsunit_hus/n/nff22ea8c6677",
+    "https://note.com/kihazuka/n/n8c120a0ed30d",
+    "https://note.com/gaku_harada/n/nbe245e75d299",
+    "https://note.com/chuokeizai/n/n60fe68fef8a9",
+    "https://note.com/takayamamusashi/n/n8ccaacf822cc"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com 田口型範",
+   "results": [
+    "https://x.com/makinomilling/status/2001936999910133953",
+    "https://x.com/pertechtual",
+    "https://x.com/_sophiaracing_",
+    "https://x.com/minamiosawaopen",
+    "https://x.com/konoy541/status/1879853025311011248",
+    "https://x.com/tuff_stuff_/with_replies",
+    "https://x.com/PARCFS",
+    "https://x.com/hardboiled20001",
+    "https://x.com/ITOSHIKIBUNKO",
+    "https://x.com/_sophiaracing_/status/2074005893751120207"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com 田口型範",
+   "results": [
+    "https://www.linkedin.com/pub/dir/Jun/Taguchi",
+    "https://jp.linkedin.com/pub/dir/Jun/Taguchi/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://www.linkedin.com/in/noriya-tarutani-91594560",
+    "https://jp.linkedin.com/in/ryutaro-tsubaki-787694164",
+    "https://jp.linkedin.com/in/yoshikatsu-watanabe-261b7b75",
+    "https://jp.linkedin.com/in/%E5%BE%B9-%E4%BD%90%E8%97%A4-52233578",
+    "https://jp.linkedin.com/in/%E6%99%8B%E5%90%BE-%E9%95%B7%E8%B0%B7%E5%B7%9D-954a73163",
+    "https://jp.linkedin.com/in/%E4%B8%87%E6%A2%A8%E9%A6%99-%E9%87%91%E6%BE%A4-770b97152",
+    "https://jp.linkedin.com/in/順-田口-41a751b6",
+    "https://jp.linkedin.com/posts/makinomilling_田口型範ロボ部品金型が軌道に最適体制を確立-activity-7407703104898576384-McO3"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com 田口型範",
+   "results": [
+    "https://www.facebook.com/jetroinnovation/?locale=ja_JP",
+    "https://www.facebook.com/jetroinnovation/posts/%E3%82%A4%E3%83%B3%E3%83%89%E7%A0%94%E7%A9%B6%E4%BC%9Ajugaad%E7%AC%AC%EF%BC%94%E5%9B%9E%E3%82%A6%E3%82%A7%E3%83%96%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E9%96%8B%E5%82%AC%E6%B1%BA%E5%AE%9A%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%82%B8%E3%82%A7%E3%83%88%E3%83%AD%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E6%94%AF%E6%8F%B4%E8%AA%B2%E3%81%A7%E3%81%99%E3%82%A4%E3%83%B3%E3%83%89%E7%A0%94%E7%A9%B6%E4%BC%9Ajugaad%E7%AC%AC%EF%BC%94%E5%9B%9E%E3%82%A6%E3%82%A7%E3%83%96%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85%E3%81%A7%E3%81%99%E6%AF%8E%E5%9B%9E%E5%A4%9A/3268922376480356/",
+    "https://www.facebook.com/JIIT.jp/posts/2026%E5%B9%B47%E6%9C%8829%E6%97%A5%E6%B0%B41400%E7%AC%AC11%E6%9C%9F-%E6%AC%A1%E4%B8%96%E4%BB%A3%E7%B5%8C%E5%96%B6%E5%B9%B9%E9%83%A8%E9%A4%8A%E6%88%90%E3%82%B3%E3%83%BC%E3%82%B9-%E7%AC%AC1%E5%9B%9E%E4%BC%9A%E5%90%88%E3%82%92%E9%96%8B%E5%82%AC%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E6%9C%AC%E9%A4%8A%E6%88%90%E3%82%B3%E3%83%BC%E3%82%B9%E3%81%AF%E6%95%B0%E5%A4%9A%E3%81%8F%E3%81%AE%E5%AE%9F%E5%8B%99%E7%B5%8C%E9%A8%93%E3%82%84%E3%83%8E%E3%82%A6%E3%83%8F%E3%82%A6%E3%82%92%E6%9C%89%E3%81%99%E3%82%8B%E5%AE%9F%E5%8B%99%E5%AE%B6%E3%81%AE%E6%96%B9%E3%80%85%E3%81%A8%E3%81%AE%E3%83%87/1967339170881177/",
+    "https://www.facebook.com/JIIT.jp/posts/2026%E5%B9%B410%E6%9C%8827%E6%97%A5%E7%81%AB1400%E7%AC%AC12%E6%9C%9F-%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%88%A6%E7%95%A5%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E7%A0%94%E7%A9%B6%E4%BC%9A-%E7%AC%AC1%E5%9B%9E%E4%BC%9A%E5%90%88%E3%82%92%E9%96%8B%E5%82%AC%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E9%80%A3%E6%97%A5%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83%E3%82%84%E6%83%85%E5%A0%B1%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AB%E9%96%A2/2051682262446867/",
+    "https://www.facebook.com/kuroobiworld/videos/heian-sandan-by-kazuaki-kurihara-%E6%A0%97%E5%8E%9F%E4%B8%80%E6%99%83%E5%B8%AB%E7%AF%84%E3%81%AE%E5%B9%B3%E5%AE%89%E4%B8%89%E6%AE%B5/1494353630582974/",
+    "https://www.facebook.com/JIIT.jp/photos/2009467540001673/",
+    "https://www.facebook.com/groups/1044164745618545/posts/28664189143189400/",
+    "https://www.facebook.com/gojptime/posts/%E7%B6%9C%E8%97%9D%E5%A8%9B%E6%A8%82perfume%E5%87%BA%E9%81%9321%E5%91%A8%E5%B9%B4%E7%B4%80%E5%BF%B5%E6%97%A5%E7%99%BC%E4%BD%88%E5%96%9C%E8%A8%8Aachan%E6%84%8F%E5%A4%A7%E5%88%A9%E5%A4%A7%E5%A9%9A%E5%8D%87%E6%A0%BC%E4%BA%BA%E5%A6%BBperfume%E6%88%90%E5%93%A1achan%E8%A5%BF%E8%84%87%E7%B6%BE%E9%A6%99%E4%BB%8A%E5%9C%A8ig%E9%A9%9A%E5%96%9C%E5%AE%A3%E5%B8%83%E8%87%AA%E5%B7%B1%E5%B7%B2%E7%B6%93%E5%9C%A8%E6%84%8F%E5%A4%A7%E5%88%A9%E7%A7%91%E8%8E%AB%E6%B9%96%E5%9C%93%E6%BB%BF%E8%88%89%E8%A1%8C%E5%A9%9A/1576694227821741/",
+    "https://www.facebook.com/kunio.tsubotani/posts/%E4%B8%8D%E6%98%93%E6%B5%81%E8%A1%8C%E3%83%9F%E3%83%8D%E3%83%AB%E3%83%90%E5%BC%8F-%E6%9C%80%E5%85%88%E7%AB%AF%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%82%B7%E3%83%83%E3%83%97-%E3%81%AE%E8%91%97%E8%80%85%E9%BB%92%E5%B7%9D%E5%85%AC%E6%99%B4%E3%81%95%E3%82%93%E3%81%A8%E3%81%AE-%E4%BA%BA%E4%BA%8B%E5%9B%B3%E6%9B%B8%E9%A4%A8-%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%AF%BE%E8%AB%87%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E7%A7%81%E3%81%AF%E5%8F%AF%E8%83%BD%E3%81%AA%E9%99%90%E3%82%8A%E6%9C%80%E5%85%88%E7%AB%AF%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84%E8%A9%B1%E3%82%92%E3%81%97%E3%82%88%E3%81%86%E3%81%A8%E6%80%9D%E3%81%A3%E3%81%A6%E3%81%84%E3%81%9F%E4%B8%BB%E3%81%AB/9871085829651834/",
+    "https://www.facebook.com/refine.tp/posts/%E5%8C%A0%E4%BA%BA%E8%81%B7%E4%BA%BA%E9%81%94%E4%BA%BA%E6%9C%89%E5%8D%80%E5%88%A5%E5%97%8E%E5%8C%A0%E4%BA%BA%E5%8C%A0%E6%97%A5%E8%AA%9E%E7%99%BC%E9%9F%B3%E6%98%AFtakuml%E5%AD%9C%E5%AD%9C%E4%B8%8D%E5%80%A6%E5%9C%B0%E9%91%BD%E7%A0%94%E6%8E%A2%E7%B4%A2%E8%A3%BD%E4%BD%9C%E5%87%BA%E6%A5%B5%E8%87%B4%E9%9D%88%E5%B7%A7%E7%B2%BE%E5%A6%99%E7%9A%84%E7%94%A2%E5%93%81%E8%81%B7%E4%BA%BA%E8%87%AA%E4%BF%A1%E8%80%8C%E5%B0%88%E6%B3%A8%E5%9C%B0%E8%87%AA%E6%88%91%E6%9C%AC%E8%89%B2%E7%9A%84%E8%A1%A8%E7%8F%BE%E5%80%94%E5%BC%B7%E8%80%8C%E5%A7%8B%E7%B5%82%E5%A6%82%E4%B8%80%E7%9A%84%E5%B0%88%E6%A5%AD%E5%B7%A5%E4%BD%9C%E8%80%85%E9%81%94%E4%BA%BA-%E6%97%A5%E8%AA%9E%E7%A8%B1%E7%82%BA/2217610251850924/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "田口型範 note 社長",
+   "results": [
+    "https://www.tpw.co.jp/change_of_representative_director/",
+    "https://kanagata-shimbun.com/220310interview-tpw/",
+    "https://www.nikkan.co.jp/articles/view/627357",
+    "https://www.nttd-es.co.jp/magazine/backnumber/no100/no100-message01.html",
+    "https://www.tpw.co.jp/company/",
+    "https://kanagata-shimbun.com/200604interview-tpw/",
+    "https://note.com/circus_ah/n/n0105309073f1",
+    "https://note.com/smart_machikoba/n/n12dc6ffbb16e",
+    "https://compalyze.co.jp/company/7030001075899",
+    "https://kanagata-shimbun.com/202605_taguchi_baishu/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "田口型範 X 投稿",
+   "results": [
+    "https://www.tpw.co.jp/news/",
+    "https://www.tpw.co.jp/",
+    "https://www.n-model.org/uncategorized/1037/",
+    "https://www.openwork.jp/user_answer.php?vid=a0A2x00000K5MyF",
+    "https://syukatsu-kaigi.jp/companies/54476/word_mouths",
+    "http://www.tajimakeihan.com/company",
+    "https://metoree.com/categories/7266/",
+    "https://www.tpw.co.jp/technology/",
+    "https://x.com/_sophiaracing_/status/2074005893751120207",
+    "https://x.com/info_taguchi"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部3頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部3頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部3頁・検索9回）",
+  "連絡先": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部3頁・検索9回）"
+ }
+}

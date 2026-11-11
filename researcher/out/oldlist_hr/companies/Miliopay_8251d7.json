@@ -1,0 +1,442 @@
+{
+ "name": "Miliopay",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-11T13:20:24.214111+00:00",
+ "official_url": "https://www.miliopay.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Conectamos bancos y empresas al mercado global de forma inmediata y segura, sin intermediarios ni esquemas de compensación riesgosos.",
+    "url": "https://miliopay.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Empresas líderes ya confían en nosotros",
+    "url": "https://miliopay.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Productos diseñados para mover dinero sin fricción",
+    "url": "https://miliopay.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Nuevos casos de uso transaccionales para canales propios y ecosistemas aliados.",
+    "url": "https://miliopay.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Recargas y pagos de premios rápidos y seguros con tarjetas.",
+    "url": "https://miliopay.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Integración directa al core bancario y canales propios",
+    "url": "https://miliopay.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Para fintechs y empresas:",
+    "url": "https://miliopay.com/",
+    "pass": 1
+   },
+   {
+    "quote": "APIs y SDKs listos para producción",
+    "url": "https://miliopay.com/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Diseñado para equipos de ingeniería",
+    "url": "https://miliopay.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ahorra tiempo de desarrollo con nuestra solución",
+    "url": "https://miliopay.com/",
+    "pass": 1
+   },
+   {
+    "quote": "del mundo de los pagos para que tus equipos construyan",
+    "url": "https://miliopay.com/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "miliopay.com 詳細な技術プロファイル - BuiltWith — 現在のウェブ技術と過去のウェブ技術 MILIOPAY.COM ウェブサイト全体で使用しています。",
+    "url": "https://builtwith.com/ja/detailed/miliopay.com",
+    "pass": 3
+   },
+   {
+    "quote": "2026 ENG - miliopay.com — Global infrastructure designed to move money in seconds. Milio allows banks, wallets, and cash networks to build and operate global remittance and payment products from a single integration.",
+    "url": "https://miliopay.com/2026-eng/",
+    "pass": 3
+   },
+   {
+    "quote": "miliopay.net — miliopay.net",
+    "url": "http://miliopay.net/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Milio - Facebook Sep 5, 2024 · Milio Sep 5, 2024 @miliopay lanza transferencias tarjeta a tarjeta 24/7 💳🚀 Esta plataforma liderada por @juanluisperez.e @dangomez y @ealzate91 promete beneficios para el sector financiero en #Colombia, ofreciendo una solución de transferencia de dinero 24/7 para pagos locales e internacionales, tanto para personas como ...",
+    "url": "https://www.facebook.com/profile.php/?id=100090586851405",
+    "pass": 3
+   },
+   {
+    "quote": "Milio - @miliopay lanza transferencias tarjeta a tarjeta ... Sep 5, 2024 · @miliopay lanza transferencias tarjeta a tarjeta 24/7 Esta plataforma liderada por @juanluisperez.e @dangomez y @ealzate91 promete beneficios para el sector financiero en #Colombia, ofreciendo...",
+    "url": "https://www.facebook.com/100090586851405/posts/miliopay-lanza-transferencias-tarjeta-a-tarjeta-247-esta-plataforma-liderada-por/470551959307695/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://miliopay.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://miliopay.com/wp-content/uploads/2026/02/Logos_movil-1-1024x572.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://miliopay.com/wp-content/uploads/2026/02/Logos_1-1.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://miliopay.com/wp-content/uploads/2026/02/Logos_2-1024x149.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://miliopay.com/wp-content/uploads/2026/02/Logos_3-1-1024x149.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://builtwith.com/ja/detailed/miliopay.com",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://miliopay.com/2026-eng/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://miliopay.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.netstars.co.jp/news/9450/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/LINE_Pay",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/miliopay/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/milio-393b",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://about.omairipay.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Japan_Self-Defense_Forces",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan-pay.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://miliopay.net/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://miliopay.com/2026-eng/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/grooveland-designs/case-study/milio-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sourceday.com/wp-content/uploads/case-study-pdfs/Military-Subcontractor-Manufacturing-Company-Case-Study-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://azure.microsoft.com/en-us/resources/customer-stories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.microsoft.com/en-us/dynamics-365/blog/content-type/customer-stories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upcloud.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/profile.php/?id=100090586851405",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100090586851405/posts/miliopay-lanza-transferencias-tarjeta-a-tarjeta-247-esta-plataforma-liderada-por/470551959307695/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Miliopay 日本 導入",
+   "results": [
+    "https://builtwith.com/ja/detailed/miliopay.com",
+    "https://miliopay.com/2026-eng/",
+    "https://miliopay.com/",
+    "https://www.netstars.co.jp/news/9450/",
+    "https://diamond.jp/articles/-/401326",
+    "https://coinpost.jp/?p=720751",
+    "https://cacco.co.jp/frauddetection/media/ec/3419/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Miliopay 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/LINE_Pay",
+    "https://www.linkedin.com/company/miliopay/",
+    "https://www.crunchbase.com/organization/milio-393b",
+    "https://about.omairipay.jp/",
+    "https://maymobility.com/ja",
+    "https://midea-japan.com/",
+    "https://jp.linkedin.com/company/conferma"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Miliopay Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Japan_Self-Defense_Forces",
+    "https://japan-pay.com/en/",
+    "http://miliopay.net/",
+    "https://miliopay.com/2026-eng/",
+    "https://miliopay.com/",
+    "https://melio.com/",
+    "https://www.linkedin.com/company/miliopay/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Miliopay manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/grooveland-designs/case-study/milio-customer-case-study",
+    "https://sourceday.com/wp-content/uploads/case-study-pdfs/Military-Subcontractor-Manufacturing-Company-Case-Study-1.pdf",
+    "https://azure.microsoft.com/en-us/resources/customer-stories/",
+    "https://www.microsoft.com/en-us/dynamics-365/blog/content-type/customer-stories/",
+    "http://miliopay.net/",
+    "https://www.mckinsey.com/about-us/case-studies",
+    "https://www.gov.uk/government/case-studies/dstl-backed-robotics-breakthrough-transforms-military-manufacturing"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Miliopay white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/",
+    "https://www.thenationalcouncil.org/get-involved/partner-with-us/partnership-program/",
+    "https://www.canva.com/partners/reseller/",
+    "https://connect.redhat.com/en/partner-program"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Miliopay founded funding employees revenue",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com Miliopay",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/diparururun",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/reikirishima/n/n24428e788f5c",
+    "https://note.com/pawsnote/n/ne236275085c7",
+    "https://note.com/umakatsu_memo/n/nb5dfbf71018f",
+    "https://note.com/seigo77",
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/dashboard"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:x.com Miliopay",
+   "results": [
+    "https://about.x.com/en",
+    "https://x.com/miliossandwich",
+    "https://help.x.com/en",
+    "https://help.x.com/en/using-x/download-the-x-app",
+    "https://x.com/miliodagamer",
+    "https://x.com/xoeeie/status/2118049984436445429",
+    "https://x.com/NoahFentys/status/2118178286157140113"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Miliopay",
+   "results": [
+    "https://co.linkedin.com/company/miliopay",
+    "https://mx.linkedin.com/company/miliopay",
+    "https://es.linkedin.com/posts/miliopay_fintech-ycw23-miilioycw23-activity-7026326850230460416-bB4c",
+    "https://www.linkedin.com/company/miliopay/",
+    "https://www.linkedin.com/company/getmilio/",
+    "https://www.linkedin.com/posts/miliopay_milio-launches-b2b-payments-automation-activity-7037572426506870784-HjeG",
+    "https://es.linkedin.com/posts/miliopay_en-milio-yc-w23-estamos-impulsando-la-transformación-activity-7369019902470299651-NHOA"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Miliopay",
+   "results": [
+    "https://www.facebook.com/profile.php/?id=100090586851405",
+    "https://www.facebook.com/100090586851405/posts/miliopay-lanza-transferencias-tarjeta-a-tarjeta-247-esta-plataforma-liderada-por/470551959307695/",
+    "https://secure.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/el3milio1/posts/keeping-my-compadre-some-company-anda-bien-sad-el-vato-no-pasa-nada-pa-ill-ask-h/1109495875196325/",
+    "https://www.facebook.com/miliossandwich/",
+    "https://www.facebook.com/MilioSocialPH/videos/did-you-knowmiliosocial-is-a-official-partner-of-gcash-milio-users-subscribers-a/1147847540403624/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Miliopay note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.com/kazutube/n/n31fbe4c26377",
+    "https://note.com/kazutube/n/nf70825b1dfe2",
+    "https://miliopay.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Miliopay X 投稿",
+   "results": [
+    "http://miliopay.net/",
+    "https://miliopay.com/home-2/",
+    "https://x.com/MiyaPayiM/status/2118832139852820521",
+    "https://miliopay.com/",
+    "https://x.com/",
+    "https://melio.com/",
+    "https://x.com/kkwkat/status/2115733602029928477"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部22頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部22頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部22頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部22頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部22頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部22頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部22頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部22頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部22頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部22頁・検索12回）"
+ }
+}

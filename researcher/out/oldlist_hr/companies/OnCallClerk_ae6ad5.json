@@ -1,0 +1,1772 @@
+{
+ "name": "OnCallClerk",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-11T12:54:05.556622+00:00",
+ "official_url": "https://oncallclerk.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Prefer to call from your phone?",
+    "url": "https://oncallclerk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A guided wizard walks you through industry, voice, and call handling. No developers, no prompt writing, no phone systems to configure.",
+    "url": "https://oncallclerk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industry templates with pricing and answers pre-filled",
+    "url": "https://oncallclerk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "30+ natural voices, preview with one click",
+    "url": "https://oncallclerk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We'll pre-fill pricing and answers for your industry.",
+    "url": "https://oncallclerk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "NMHC / Grace Hill Renter Preferences Report, 2024",
+    "url": "https://oncallclerk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Triages emergency maintenance, schedules property tours, and captures applicant details — so your team isn’t fielding pager calls at midnight.",
+    "url": "https://oncallclerk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Why property management needs 24/7 call answering",
+    "url": "https://oncallclerk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2–6 weeks hiring + training",
+    "url": "https://oncallclerk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A platform, not just a product.",
+    "url": "https://oncallclerk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every feature on this page is exposed over an API. Ship AI phone agents into your own product, or resell them to your clients under your own brand.",
+    "url": "https://oncallclerk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Create agents, provision numbers, fetch transcripts, and stream call events. Everything the dashboard does, your code can do.",
+    "url": "https://oncallclerk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Agents pre-tuned to the questions, vocabulary, and urgency of your industry.",
+    "url": "https://oncallclerk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How to Hire an AI Receptionist",
+    "url": "https://oncallclerk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A practical guide to choosing the right AI receptionist for your business.",
+    "url": "https://oncallclerk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI Receptionist Cost: Pricing & Comparison Guide",
+    "url": "https://oncallclerk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your logo. Your domain. Your pricing. OnCallClerk powers everything behind the scenes. Your clients never know we exist.",
+    "url": "https://oncallclerk.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Your product. Our infrastructure.",
+    "url": "https://oncallclerk.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "White-labelling means you take OnCallClerk's AI receptionist technology and sell it as your own. Your clients see your company name, your logo, and your domain. They pay you directly. You set the price. We handle the AI, telephony, and infrastructure invisibly.",
+    "url": "https://oncallclerk.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Branded landing pages, ready to share with prospects.",
+    "url": "https://oncallclerk.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Each agency gets demo pages they can hand to prospects. Clients see your brand, your pricing, and a live AI demo. All under your domain.",
+    "url": "https://oncallclerk.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Clean blue theme targeting dental practices. Includes appointment booking, insurance verification, and smart call routing demos.",
+    "url": "https://oncallclerk.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Minimal, authoritative theme for law firms. Captures case enquiries, routes by practice area, and books consultations.",
+    "url": "https://oncallclerk.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Polished, branded landing pages for any industry. Prospects call, hear it work, sign up.",
+    "url": "https://oncallclerk.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing & digital agencies",
+    "url": "https://oncallclerk.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Add AI phone answering to your service stack. Bundle with SEO, PPC, or web design. Clients already trust you with marketing, now handle their phones too.",
+    "url": "https://oncallclerk.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Bolt an AI receptionist onto your existing platform. If you sell CRM, scheduling, or business tools, this is a natural add-on with high retention.",
+    "url": "https://oncallclerk.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Managed service providers",
+    "url": "https://oncallclerk.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Entrepreneurs & operators",
+    "url": "https://oncallclerk.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Upload your logo, set your brand colours, connect your domain. The portal transforms into your product in minutes.",
+    "url": "https://oncallclerk.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Complete guide to building an AI-powered call center business. Covers white-label, managed service, and custom build approaches.",
+    "url": "https://oncallclerk.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Practical sales strategies, objection handling, and pricing frameworks for pitching AI to business owners.",
+    "url": "https://oncallclerk.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Stop selling someone else's product. Build your own brand, set your own prices, and keep the client relationship.",
+    "url": "https://oncallclerk.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "A moving company answering service is a 24/7 phone service that answers calls for local and long-distance moving businesses, qualifying leads by bedroom count and move date and booking in-home or virtual estimates while crews are on jobs.",
+    "url": "https://oncallclerk.com/industries/moving-company",
+    "pass": 1
+   },
+   {
+    "quote": "Moves are priced by hours, crew size, distance, stairs, elevator reservations, large items (pianos, safes, treadmills), packing services, and storage needs.",
+    "url": "https://oncallclerk.com/industries/moving-company",
+    "pass": 1
+   },
+   {
+    "quote": "A three-bedroom local move can be $900 or $3,200 depending on these variables. Generic message-takers cannot ask the right questions, so leads sit in voicemail until you can finally call back, often after the prospect has already booked someone else.",
+    "url": "https://oncallclerk.com/industries/moving-company",
+    "pass": 1
+   },
+   {
+    "quote": "Saturdays in June and the first week of every month are call surges that overwhelm any human dispatcher. Per-call answering services charge premiums during exactly this window, and traditional staff cannot keep up. Many calls go straight to voicemail, and",
+    "url": "https://oncallclerk.com/industries/moving-company",
+    "pass": 1
+   },
+   {
+    "quote": "Your highest-value leads (large homes, full-pack jobs, long-distance moves) require in-home or video estimates.",
+    "url": "https://oncallclerk.com/industries/moving-company",
+    "pass": 1
+   },
+   {
+    "quote": "These calls need to be qualified, scheduled, and confirmed promptly or the prospect cools off and books a flat-rate competitor that did not bother to inspect.",
+    "url": "https://oncallclerk.com/industries/moving-company",
+    "pass": 1
+   },
+   {
+    "quote": "For moves above your threshold (often four+ bedrooms, long-distance, or full-pack jobs) the AI books an in-home or video estimate against your live calendar. Estimators arrive prepared instead of finding out on site that the home has 250 boxes already packed and a piano on the second floor.",
+    "url": "https://oncallclerk.com/industries/moving-company",
+    "pass": 1
+   },
+   {
+    "quote": "The AI distinguishes local moves (priced hourly) from long-distance moves (priced by weight or volume, requiring a written estimate and DOT compliance). Long-distance leads get flagged and routed for a more detailed intake, so you do not quote interstate work as a four-hour local hourly job.",
+    "url": "https://oncallclerk.com/industries/moving-company",
+    "pass": 1
+   },
+   {
+    "quote": "Saturday in June rings non-stop. The AI answers every call simultaneously with no per-call surge pricing. You capture the first-week-of-month volume that traditional answering services either miss or charge double for.",
+    "url": "https://oncallclerk.com/industries/moving-company",
+    "pass": 1
+   },
+   {
+    "quote": "Pianos, safes, gun safes, large appliances, treadmills, hot tubs, art and antiques. Stairs, elevators (and whether one needs to be reserved), narrow hallways, long carries, gated communities, parking restrictions. The AI captures all of this on the booking call so your estimator and crew arrive prepared.",
+    "url": "https://oncallclerk.com/industries/moving-company",
+    "pass": 1
+   },
+   {
+    "quote": "Could someone come look at the house first? I want a more accurate price.",
+    "url": "https://oncallclerk.com/industries/moving-company",
+    "pass": 1
+   },
+   {
+    "quote": "Routing commercial and office moving leads to your sales team",
+    "url": "https://oncallclerk.com/industries/moving-company",
+    "pass": 1
+   },
+   {
+    "quote": "Transparent pricing for",
+    "url": "https://oncallclerk.com/industries/moving-company",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. The AI distinguishes local from long-distance based on origin and destination, and routes interstate moves into a separate intake flow that captures USDOT-relevant information (move size by weight or volume, target delivery window, valuation coverage preferences). Estimates for interstate moves are flagged for a written, DOT-compliant follow-up rather than a verbal phone quote.",
+    "url": "https://oncallclerk.com/industries/moving-company",
+    "pass": 1
+   },
+   {
+    "quote": "For moves above your configured threshold (typically four+ bedrooms, full-pack jobs, or long-distance), the AI books in-home or video estimates against your estimator's live calendar. It captures the home address, move date, and any specialty items so your estimator arrives prepared.",
+    "url": "https://oncallclerk.com/industries/moving-company",
+    "pass": 1
+   },
+   {
+    "quote": "Unlike per-call answering services that surge-price during peak windows, OnCallClerk is a flat monthly rate with no per-call cap. Every Saturday-in-June call is answered immediately. This is when the largest share of your annual revenue is captured, and missing calls during this window has the biggest impact on your year.",
+    "url": "https://oncallclerk.com/industries/moving-company",
+    "pass": 1
+   },
+   {
+    "quote": "Can it route commercial and office moving leads separately?",
+    "url": "https://oncallclerk.com/industries/moving-company",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Commercial moves (offices, retail, industrial) often have different pricing, weekend or evening scheduling needs, and contract requirements. The AI flags commercial leads and routes them to your sales contact via SMS rather than your residential dispatch flow.",
+    "url": "https://oncallclerk.com/industries/moving-company",
+    "pass": 1
+   },
+   {
+    "quote": "No. You forward your existing business number to OnCallClerk. Your Google Business Profile, Yelp listing, truck signage, and online ads all keep the same number. You can also get a new number from OnCallClerk if you prefer.",
+    "url": "https://oncallclerk.com/industries/moving-company",
+    "pass": 1
+   },
+   {
+    "quote": "How to Hire an AI Receptionist",
+    "url": "https://oncallclerk.com/industries/moving-company",
+    "pass": 1
+   },
+   {
+    "quote": "Per-call premium or voicemail",
+    "url": "https://oncallclerk.com/industries/moving-company",
+    "pass": 1
+   },
+   {
+    "quote": "Route moving company calls outside working hours straight to the AI. Evenings, weekends, holidays. This alone typically doubles captured moving company leads without changing a single thing about your daytime workflow.",
+    "url": "https://oncallclerk.com/industries/moving-company",
+    "pass": 1
+   },
+   {
+    "quote": "Once the transcripts show the AI is handling moving company calls well, forward your main line to it full-time. Configure emergency and priority transfers so the calls that genuinely need you still reach you. Everything else becomes a structured moving company lead in your inbox.",
+    "url": "https://oncallclerk.com/industries/moving-company",
+    "pass": 1
+   },
+   {
+    "quote": "AI Receptionist Pricing (2026): Plans from $29/mo, No Setup Fees | OnCallClerk",
+    "url": "https://oncallclerk.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "AI receptionist pricing from $29/mo.",
+    "url": "https://oncallclerk.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Start free. Paid plans from $29/mo with calendar booking, call transfers, and 24/7 coverage. No contracts, no setup fees, no surprises.",
+    "url": "https://oncallclerk.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "AI receptionist pricing compared.",
+    "url": "https://oncallclerk.com/pricing",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "For builders & agencies",
+    "url": "https://oncallclerk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every feature on this page is exposed over an API. Ship AI phone agents into your own product, or resell them to your clients under your own brand.",
+    "url": "https://oncallclerk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Run OnCallClerk under your own brand. Manage client numbers from one dashboard. Keep the margin between what you pay us and what you charge them.",
+    "url": "https://oncallclerk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "White Label AI Receptionist | Sell Under Your Own Brand | OnCallClerk",
+    "url": "https://oncallclerk.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "under your own brand.",
+    "url": "https://oncallclerk.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Access white-label portal",
+    "url": "https://oncallclerk.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "White-labelling means you take OnCallClerk's AI receptionist technology and sell it as your own. Your clients see your company name, your logo, and your domain. They pay you directly. You set the price. We handle the AI, telephony, and infrastructure invisibly.",
+    "url": "https://oncallclerk.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Each agency gets demo pages they can hand to prospects. Clients see your brand, your pricing, and a live AI demo. All under your domain.",
+    "url": "https://oncallclerk.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "The window to establish your brand is now.",
+    "url": "https://oncallclerk.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "A reseller charging $199 per client per month with 50 clients generates",
+    "url": "https://oncallclerk.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Zero mentions of OnCallClerk anywhere your clients can see. Complete white-label experience.",
+    "url": "https://oncallclerk.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing & digital agencies",
+    "url": "https://oncallclerk.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "SaaS resellers & VARs",
+    "url": "https://oncallclerk.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Upload your logo, set your brand colours, connect your domain. The portal transforms into your product in minutes.",
+    "url": "https://oncallclerk.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "VIII · White label vs building your own",
+    "url": "https://oncallclerk.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "OnCallClerk white label",
+    "url": "https://oncallclerk.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "IX · Resources for resellers",
+    "url": "https://oncallclerk.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Complete guide to building an AI-powered call center business. Covers white-label, managed service, and custom build approaches.",
+    "url": "https://oncallclerk.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Launch your branded AI receptionist platform.",
+    "url": "https://oncallclerk.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Stop selling someone else's product. Build your own brand, set your own prices, and keep the client relationship.",
+    "url": "https://oncallclerk.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Home Care & Care Agencies",
+    "url": "https://oncallclerk.com/industries/salon",
+    "pass": 1
+   },
+   {
+    "quote": "Home Care & Care Agencies",
+    "url": "https://oncallclerk.com/industries/veterinary",
+    "pass": 1
+   },
+   {
+    "quote": "Screening cold calls from software vendors and marketing agencies",
+    "url": "https://oncallclerk.com/industries/accounting",
+    "pass": 1
+   },
+   {
+    "quote": "Home Care Answering Service | AI Phone Answering for Home Care Agencies | OnCallClerk",
+    "url": "https://oncallclerk.com/industries/home-care",
+    "pass": 1
+   },
+   {
+    "quote": "Home Care & Care Agencies",
+    "url": "https://oncallclerk.com/industries/home-care",
+    "pass": 1
+   },
+   {
+    "quote": "A home care answering service handles calls for in-home care agencies from families, caregivers, and referrals.",
+    "url": "https://oncallclerk.com/industries/home-care",
+    "pass": 1
+   },
+   {
+    "quote": "They search for care agencies and start calling. They are anxious, sometimes tearful. The agency that answers with warmth and takes time to listen earns their trust. The one that sends them to voicemail never gets a callback.",
+    "url": "https://oncallclerk.com/industries/home-care",
+    "pass": 1
+   },
+   {
+    "quote": "A client falls at midnight. A family member has a concern about medication on Sunday morning. These calls cannot wait until Monday, but most agencies cannot justify the cost of 24/7 on-call office staff.",
+    "url": "https://oncallclerk.com/industries/home-care",
+    "pass": 1
+   },
+   {
+    "quote": "Home care agencies typically operate on margins of 15% to 25%.",
+    "url": "https://oncallclerk.com/industries/home-care",
+    "pass": 1
+   },
+   {
+    "quote": "How OnCallClerk Supports Care Agencies",
+    "url": "https://oncallclerk.com/industries/home-care",
+    "pass": 1
+   },
+   {
+    "quote": "Configured for the specific call types home care agencies handle every day.",
+    "url": "https://oncallclerk.com/industries/home-care",
+    "pass": 1
+   },
+   {
+    "quote": "OnCallClerk · Home Care & Care Agencies",
+    "url": "https://oncallclerk.com/industries/home-care",
+    "pass": 1
+   },
+   {
+    "quote": "Daily Call Scenarios for Care Agencies",
+    "url": "https://oncallclerk.com/industries/home-care",
+    "pass": 1
+   },
+   {
+    "quote": "home care & care agencies",
+    "url": "https://oncallclerk.com/industries/home-care",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Most care agencies set up OnCallClerk as an overflow and after-hours service initially. Calls that your team cannot answer are forwarded to the AI. Over time, many agencies switch to having the AI handle all incoming calls with transfer rules for specific situations, freeing up the coordinator entirely.",
+    "url": "https://oncallclerk.com/industries/home-care",
+    "pass": 1
+   },
+   {
+    "quote": "Compare AI and traditional answering services for home care and senior care agencies.",
+    "url": "https://oncallclerk.com/industries/home-care",
+    "pass": 1
+   },
+   {
+    "quote": "What home care agencies should look for in an AI phone agent.",
+    "url": "https://oncallclerk.com/industries/home-care",
+    "pass": 1
+   },
+   {
+    "quote": "Start as overflow for your home care & care agencies line",
+    "url": "https://oncallclerk.com/industries/home-care",
+    "pass": 1
+   },
+   {
+    "quote": "Forward calls to the AI only when your home care & care agencies line is busy or unanswered. You keep handling what you already handle. The AI catches everything else that would have gone to voicemail. Zero risk, immediate home care & care agencies lead capture win.",
+    "url": "https://oncallclerk.com/industries/home-care",
+    "pass": 1
+   },
+   {
+    "quote": "Add after-hours coverage for home care & care agencies",
+    "url": "https://oncallclerk.com/industries/home-care",
+    "pass": 1
+   },
+   {
+    "quote": "Route home care & care agencies calls outside working hours straight to the AI. Evenings, weekends, holidays. This alone typically doubles captured home care & care agencies leads without changing a single thing about your daytime workflow.",
+    "url": "https://oncallclerk.com/industries/home-care",
+    "pass": 1
+   },
+   {
+    "quote": "Graduate to full home care & care agencies coverage with transfer rules",
+    "url": "https://oncallclerk.com/industries/home-care",
+    "pass": 1
+   },
+   {
+    "quote": "Once the transcripts show the AI is handling home care & care agencies calls well, forward your main line to it full-time. Configure emergency and priority transfers so the calls that genuinely need you still reach you. Everything else becomes a structured home care & care agencies lead in your inbox.",
+    "url": "https://oncallclerk.com/industries/home-care",
+    "pass": 1
+   },
+   {
+    "quote": "What a typical reseller earns.",
+    "url": "https://oncallclerk.com/resell-ai-receptionist",
+    "pass": 1
+   },
+   {
+    "quote": "Home Care & Care Agencies",
+    "url": "https://oncallclerk.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "AI phone answering designed for home care and in-home care agencies. Handle family inquiries, carer scheduling calls, hospital referrals, and out-of-hours emergencies 24/7 with warmth and professionalism.",
+    "url": "https://oncallclerk.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "with a full API and SDK for agencies and developers who want to build voice AI into their own products, and a",
+    "url": "https://oncallclerk.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "for agencies who want to offer AI receptionist services to their clients.",
+    "url": "https://oncallclerk.com/about",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "How much revenue you lose to missed calls",
+    "url": "https://oncallclerk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "in recurring revenue with 80%+ margins. The AI handles the calls. You handle the relationships.",
+    "url": "https://oncallclerk.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Logo, brand colours, company name, and favicon. Every touchpoint carries your identity.",
+    "url": "https://oncallclerk.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Build a standalone AI receptionist brand from scratch. No dev team needed. Start selling this week, collect recurring revenue next month.",
+    "url": "https://oncallclerk.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Your foreman is wrapping a sectional in the back of a 26-foot box truck while two crew members carry a dresser down a stairwell.",
+    "url": "https://oncallclerk.com/industries/moving-company",
+    "pass": 1
+   },
+   {
+    "quote": "For moves above your threshold (often four+ bedrooms, long-distance, or full-pack jobs) the AI books an in-home or video estimate against your live calendar. Estimators arrive prepared instead of finding out on site that the home has 250 boxes already packed and a piano on the second floor.",
+    "url": "https://oncallclerk.com/industries/moving-company",
+    "pass": 1
+   },
+   {
+    "quote": "Pianos, safes, gun safes, large appliances, treadmills, hot tubs, art and antiques. Stairs, elevators (and whether one needs to be reserved), narrow hallways, long carries, gated communities, parking restrictions. The AI captures all of this on the booking call so your estimator and crew arrive prepared.",
+    "url": "https://oncallclerk.com/industries/moving-company",
+    "pass": 1
+   },
+   {
+    "quote": "For moves above your configured threshold (typically four+ bedrooms, full-pack jobs, or long-distance), the AI books in-home or video estimates against your estimator's live calendar. It captures the home address, move date, and any specialty items so your estimator arrives prepared.",
+    "url": "https://oncallclerk.com/industries/moving-company",
+    "pass": 1
+   },
+   {
+    "quote": "Unlike per-call answering services that surge-price during peak windows, OnCallClerk is a flat monthly rate with no per-call cap. Every Saturday-in-June call is answered immediately. This is when the largest share of your annual revenue is captured, and missing calls during this window has the biggest impact on your year.",
+    "url": "https://oncallclerk.com/industries/moving-company",
+    "pass": 1
+   },
+   {
+    "quote": "$30,000+ (receptionist) or lost revenue",
+    "url": "https://oncallclerk.com/industries/moving-company",
+    "pass": 1
+   },
+   {
+    "quote": "Competitor pricing verified from publicly listed pricing pages on May 7, 2026. Plans and features change; check each provider for the current rate. In-house cost based on BLS median receptionist wage with SHRM benefits multiplier and average hiring cost — see the",
+    "url": "https://oncallclerk.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "average revenue from an emergency plumbing call",
+    "url": "https://oncallclerk.com/industries/plumbing",
+    "pass": 1
+   },
+   {
+    "quote": "Why Plumbers Lose Revenue on the Phone",
+    "url": "https://oncallclerk.com/industries/plumbing",
+    "pass": 1
+   },
+   {
+    "quote": "the revenue impact adds up fast",
+    "url": "https://oncallclerk.com/industries/plumbing",
+    "pass": 1
+   },
+   {
+    "quote": "For a one or two-person plumbing operation generating $200,000 to $400,000 annually, that overhead is hard to justify even though the lost revenue from missed calls may exceed the cost. See the full breakdown in our",
+    "url": "https://oncallclerk.com/industries/plumbing",
+    "pass": 1
+   },
+   {
+    "quote": "Screening spam calls, sales pitches, and warranty scams",
+    "url": "https://oncallclerk.com/industries/plumbing",
+    "pass": 1
+   },
+   {
+    "quote": "$30,000+ (receptionist) or lost revenue",
+    "url": "https://oncallclerk.com/industries/plumbing",
+    "pass": 1
+   },
+   {
+    "quote": "Why HVAC Companies Lose Revenue on the Phone",
+    "url": "https://oncallclerk.com/industries/hvac",
+    "pass": 1
+   },
+   {
+    "quote": "of service revenue generated during just two seasonal peaks",
+    "url": "https://oncallclerk.com/industries/hvac",
+    "pass": 1
+   },
+   {
+    "quote": "Annual service bookings, warranty questions, thermostat troubleshooting, and \"what filter do I need\" calls all come in on the same number as emergencies and installation leads.",
+    "url": "https://oncallclerk.com/industries/hvac",
+    "pass": 1
+   },
+   {
+    "quote": "Warranty and parts inquiries with system details captured",
+    "url": "https://oncallclerk.com/industries/hvac",
+    "pass": 1
+   },
+   {
+    "quote": "A homeowner looking for a full rewire, a business needing a commercial fit-out, or someone wanting an EV charger installed represents $1,000 to $15,000 in potential revenue.",
+    "url": "https://oncallclerk.com/industries/electrician",
+    "pass": 1
+   },
+   {
+    "quote": "Screening spam, warranty scams, and sales calls",
+    "url": "https://oncallclerk.com/industries/electrician",
+    "pass": 1
+   },
+   {
+    "quote": "If you miss 3 calls per week and just 1 of those would have been a job worth $500, that is $2,000 per month in lost revenue. OnCallClerk costs a small fraction of a single job. Most electricians see the service pay for itself within the first week of use.",
+    "url": "https://oncallclerk.com/industries/electrician",
+    "pass": 1
+   },
+   {
+    "quote": "$30,000+ receptionist or lost revenue",
+    "url": "https://oncallclerk.com/industries/electrician",
+    "pass": 1
+   },
+   {
+    "quote": "US salon and barbershop industry annual revenue",
+    "url": "https://oncallclerk.com/industries/salon",
+    "pass": 1
+   },
+   {
+    "quote": "A traditional salon receptionist costs $25,000 to $35,000 per year. An AI salon answering service like OnCallClerk starts at $49 per month, covers your phone 24/7, and books appointments automatically. For most salons that is a fraction of the revenue from a single recovered booking each week.",
+    "url": "https://oncallclerk.com/industries/salon",
+    "pass": 1
+   },
+   {
+    "quote": "See how AI coverage compares with receptionist payroll and recovered booking revenue.",
+    "url": "https://oncallclerk.com/industries/salon",
+    "pass": 1
+   },
+   {
+    "quote": "Missed Salon Calls and Lost Revenue",
+    "url": "https://oncallclerk.com/industries/salon",
+    "pass": 1
+   },
+   {
+    "quote": "New Client Acquisition Suffers",
+    "url": "https://oncallclerk.com/industries/veterinary",
+    "pass": 1
+   },
+   {
+    "quote": "If that call goes to hold for five minutes or lands on voicemail, they call the next clinic on Google. The practice loses a client worth $500 to $700 in annual revenue.",
+    "url": "https://oncallclerk.com/industries/veterinary",
+    "pass": 1
+   },
+   {
+    "quote": "of independent shops have 4 or fewer employees",
+    "url": "https://oncallclerk.com/industries/auto-repair",
+    "pass": 1
+   },
+   {
+    "quote": "Why Auto Shops Lose Revenue on Unanswered Phones",
+    "url": "https://oncallclerk.com/industries/auto-repair",
+    "pass": 1
+   },
+   {
+    "quote": "For a 2-bay shop doing $400,000 in annual revenue, that is a significant overhead line item. The phone ends up being everybody is job and nobody is priority.",
+    "url": "https://oncallclerk.com/industries/auto-repair",
+    "pass": 1
+   },
+   {
+    "quote": "Screening warranty recall inquiries and directing them to the right resource",
+    "url": "https://oncallclerk.com/industries/auto-repair",
+    "pass": 1
+   },
+   {
+    "quote": "Logging parts-arrival callbacks so techs know when to schedule the next appointment",
+    "url": "https://oncallclerk.com/industries/auto-repair",
+    "pass": 1
+   },
+   {
+    "quote": "How Much Revenue You Lose to Missed Calls",
+    "url": "https://oncallclerk.com/industries/auto-repair",
+    "pass": 1
+   },
+   {
+    "quote": "The AI captures the caller is business type, approximate revenue, what services they need, and their preferred callback window. When you phone them back, you already know whether they are a fit for your practice.",
+    "url": "https://oncallclerk.com/industries/accounting",
+    "pass": 1
+   },
+   {
+    "quote": "We're an S-Corp, about $1.2M in revenue, need quarterly work plus the annual return.",
+    "url": "https://oncallclerk.com/industries/accounting",
+    "pass": 1
+   },
+   {
+    "quote": "Thank you — business type, revenue bracket, and services captured. That's a strong fit for the firm.",
+    "url": "https://oncallclerk.com/industries/accounting",
+    "pass": 1
+   },
+   {
+    "quote": "Capturing new client leads with business type, revenue bracket, and service needs",
+    "url": "https://oncallclerk.com/industries/accounting",
+    "pass": 1
+   },
+   {
+    "quote": "Captures business type, revenue, service needs",
+    "url": "https://oncallclerk.com/industries/accounting",
+    "pass": 1
+   },
+   {
+    "quote": "Call volume increases 30%. But you cannot hire another receptionist until revenue catches up. In the meantime, response times slip, SLA metrics degrade, and existing clients notice.",
+    "url": "https://oncallclerk.com/industries/it-support",
+    "pass": 1
+   },
+   {
+    "quote": "Every call is answered within seconds and timestamped. The structured capture process means your SLA clock starts ticking with full documentation, not a vague voicemail that arrives an hour later.",
+    "url": "https://oncallclerk.com/industries/it-support",
+    "pass": 1
+   },
+   {
+    "quote": "When carers call in sick or request shift changes, the AI logs their name, the affected client visits, the reason for absence, and whether they have arranged cover. Your coordinator gets a structured notification instead of a frantic voicemail.",
+    "url": "https://oncallclerk.com/industries/home-care",
+    "pass": 1
+   },
+   {
+    "quote": "I'll log the absence, the three affected visits, and alert the coordinator right now. Has cover been arranged or do we need to reroute?",
+    "url": "https://oncallclerk.com/industries/home-care",
+    "pass": 1
+   },
+   {
+    "quote": "The AI captures the carer name, the client visits affected, the reason for absence, expected return date, and whether they have arranged cover. Your coordinator receives a structured notification immediately so they can begin rebooking before the first visit is due.",
+    "url": "https://oncallclerk.com/industries/home-care",
+    "pass": 1
+   },
+   {
+    "quote": "annual revenue of the US green industry",
+    "url": "https://oncallclerk.com/industries/landscaping",
+    "pass": 1
+   },
+   {
+    "quote": "of residential revenue earned in just 6 months",
+    "url": "https://oncallclerk.com/industries/landscaping",
+    "pass": 1
+   },
+   {
+    "quote": "Why Landscapers Lose Revenue in Their Best Season",
+    "url": "https://oncallclerk.com/industries/landscaping",
+    "pass": 1
+   },
+   {
+    "quote": "Each call captures the project type (patio, fencing, planting, turf, garden design, maintenance), property size and details, the caller preferred timeline, and budget range if discussed. You arrive at the estimate visit already knowing the scope.",
+    "url": "https://oncallclerk.com/industries/landscaping",
+    "pass": 1
+   },
+   {
+    "quote": "Perfect. I've captured lot size, scope, and budget so the estimator arrives with the right options to show you.",
+    "url": "https://oncallclerk.com/industries/landscaping",
+    "pass": 1
+   },
+   {
+    "quote": "Monthly recurring revenue",
+    "url": "https://oncallclerk.com/resell-ai-receptionist",
+    "pass": 1
+   },
+   {
+    "quote": "Built a custom call center for my agency clients. They love it, and I'm generating recurring revenue without managing servers.",
+    "url": "https://oncallclerk.com/resell-ai-receptionist",
+    "pass": 1
+   },
+   {
+    "quote": "Build your first AI agent in ten minutes. Sign your first client this week. Collect recurring revenue next month.",
+    "url": "https://oncallclerk.com/resell-ai-receptionist",
+    "pass": 1
+   },
+   {
+    "quote": "average revenue per residential junk removal job",
+    "url": "https://oncallclerk.com/industries/junk-removal",
+    "pass": 1
+   },
+   {
+    "quote": "You are carrying a sleeper sofa down a flight of stairs.",
+    "url": "https://oncallclerk.com/industries/junk-removal",
+    "pass": 1
+   },
+   {
+    "quote": "Roughly 4 in 10 callers want the junk gone today, often before a guest arrives, a dumpster rental expires, or an open house starts.",
+    "url": "https://oncallclerk.com/industries/junk-removal",
+    "pass": 1
+   },
+   {
+    "quote": "Capturing access details (floor, stairs, elevator, gated communities, narrow driveways)",
+    "url": "https://oncallclerk.com/industries/junk-removal",
+    "pass": 1
+   },
+   {
+    "quote": "Crew arrives and discovers it on site",
+    "url": "https://oncallclerk.com/industries/junk-removal",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Why callers don’t leave voicemail",
+    "url": "https://oncallclerk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Voicemail or paid answering service",
+    "url": "https://oncallclerk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A three-bedroom local move can be $900 or $3,200 depending on these variables. Generic message-takers cannot ask the right questions, so leads sit in voicemail until you can finally call back, often after the prospect has already booked someone else.",
+    "url": "https://oncallclerk.com/industries/moving-company",
+    "pass": 1
+   },
+   {
+    "quote": "Saturdays in June and the first week of every month are call surges that overwhelm any human dispatcher. Per-call answering services charge premiums during exactly this window, and traditional staff cannot keep up. Many calls go straight to voicemail, and",
+    "url": "https://oncallclerk.com/industries/moving-company",
+    "pass": 1
+   },
+   {
+    "quote": "Moving Company Phone Handling: Voicemail vs AI",
+    "url": "https://oncallclerk.com/industries/moving-company",
+    "pass": 1
+   },
+   {
+    "quote": "Per-call premium or voicemail",
+    "url": "https://oncallclerk.com/industries/moving-company",
+    "pass": 1
+   },
+   {
+    "quote": "Forward calls to the AI only when your moving company line is busy or unanswered. You keep handling what you already handle. The AI catches everything else that would have gone to voicemail. Zero risk, immediate moving company lead capture win.",
+    "url": "https://oncallclerk.com/industries/moving-company",
+    "pass": 1
+   },
+   {
+    "quote": "Stop Losing Peak-Season Bookings to Voicemail",
+    "url": "https://oncallclerk.com/industries/moving-company",
+    "pass": 1
+   },
+   {
+    "quote": "of consumers will not leave a voicemail for a local business",
+    "url": "https://oncallclerk.com/industries/plumbing",
+    "pass": 1
+   },
+   {
+    "quote": "Voicemail Is a Lead Graveyard",
+    "url": "https://oncallclerk.com/industries/plumbing",
+    "pass": 1
+   },
+   {
+    "quote": "Most homeowners calling about a plumbing issue hang up when they hear voicemail.",
+    "url": "https://oncallclerk.com/industries/plumbing",
+    "pass": 1
+   },
+   {
+    "quote": "Handling after-hours and weekend calls without voicemail",
+    "url": "https://oncallclerk.com/industries/plumbing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. OnCallClerk is an AI receptionist for plumbers that answers every call 24/7, flags true emergencies like burst pipes and gas smells for an instant alert, and books routine estimates and service calls while you are on a job. You get a full-time receptionist for your plumbing business without the wage bill, so no lead ever goes to voicemail.",
+    "url": "https://oncallclerk.com/industries/plumbing",
+    "pass": 1
+   },
+   {
+    "quote": "Instantly. The moment the AI finishes a call, you receive a notification via SMS and email with the caller details, problem description, and urgency. Most plumbers check these during breaks between jobs and call back within 30 minutes, which is fast enough to book the job the majority of the time.",
+    "url": "https://oncallclerk.com/industries/plumbing",
+    "pass": 1
+   },
+   {
+    "quote": "Voicemail (caller moves on)",
+    "url": "https://oncallclerk.com/industries/plumbing",
+    "pass": 1
+   },
+   {
+    "quote": "Voicemail or no answer",
+    "url": "https://oncallclerk.com/industries/plumbing",
+    "pass": 1
+   },
+   {
+    "quote": "Forward calls to the AI only when your plumbing line is busy or unanswered. You keep handling what you already handle. The AI catches everything else that would have gone to voicemail. Zero risk, immediate plumbing lead capture win.",
+    "url": "https://oncallclerk.com/industries/plumbing",
+    "pass": 1
+   },
+   {
+    "quote": "When 20 homeowners call at the same time on the first cold morning, all 20 get answered immediately. No hold queue, no busy signal, no voicemail. This alone can be worth thousands of dollars during a single peak week.",
+    "url": "https://oncallclerk.com/industries/hvac",
+    "pass": 1
+   },
+   {
+    "quote": "Voicemail or expensive service",
+    "url": "https://oncallclerk.com/industries/hvac",
+    "pass": 1
+   },
+   {
+    "quote": "1-2 max, rest get voicemail",
+    "url": "https://oncallclerk.com/industries/hvac",
+    "pass": 1
+   },
+   {
+    "quote": "Forward calls to the AI only when your hvac line is busy or unanswered. You keep handling what you already handle. The AI catches everything else that would have gone to voicemail. Zero risk, immediate hvac lead capture win.",
+    "url": "https://oncallclerk.com/industries/hvac",
+    "pass": 1
+   },
+   {
+    "quote": "That is three to five hours where your phone is on silent or in your pocket. Every one of those hours can produce a buyer lead, a listing inquiry, or a cooperating agent call that goes to voicemail.",
+    "url": "https://oncallclerk.com/industries/real-estate-agent",
+    "pass": 1
+   },
+   {
+    "quote": "When sellers call their agent at 7 PM with a question and get a professional, helpful response, they feel taken care of. That trust keeps your listing and generates referrals. Sellers who reach voicemail start wondering if they picked the right agent.",
+    "url": "https://oncallclerk.com/industries/real-estate-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. OnCallClerk is an AI receptionist for real estate agents that answers every call 24/7, qualifies buyer and seller leads, answers questions about your listings, and books showings straight into your calendar. It gives solo agents and brokerages a full-time receptionist without the salary, so no lead ever reaches voicemail while you are in a showing.",
+    "url": "https://oncallclerk.com/industries/real-estate-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Sticky notes and scattered emails",
+    "url": "https://oncallclerk.com/industries/real-estate-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Forward calls to the AI only when your real estate agents line is busy or unanswered. You keep handling what you already handle. The AI catches everything else that would have gone to voicemail. Zero risk, immediate real estate agents lead capture win.",
+    "url": "https://oncallclerk.com/industries/real-estate-agent",
+    "pass": 1
+   },
+   {
+    "quote": "Most firms route these to voicemail or an answering service that takes a message but cannot triage. By the time someone checks the message, water damage has spread to multiple units.",
+    "url": "https://oncallclerk.com/industries/property-management",
+    "pass": 1
+   },
+   {
+    "quote": "The AI captures the property address, unit number, tenant name, issue description, and severity level in a structured format. Your maintenance team gets an actionable work order, not a vague voicemail.",
+    "url": "https://oncallclerk.com/industries/property-management",
+    "pass": 1
+   },
+   {
+    "quote": "Each captured maintenance request is sent as a structured notification via email or SMS to the contacts you designate. The notification includes the property address, unit number, tenant name and phone number, issue description, and the AI urgency assessment. You also have full transcripts in the dashboard for reference.",
+    "url": "https://oncallclerk.com/industries/property-management",
+    "pass": 1
+   },
+   {
+    "quote": "Voicemail or expensive answering service",
+    "url": "https://oncallclerk.com/industries/property-management",
+    "pass": 1
+   },
+   {
+    "quote": "Forward calls to the AI only when your property management line is busy or unanswered. You keep handling what you already handle. The AI catches everything else that would have gone to voicemail. Zero risk, immediate property management lead capture win.",
+    "url": "https://oncallclerk.com/industries/property-management",
+    "pass": 1
+   },
+   {
+    "quote": "These callers expect a response on the first call. If they reach voicemail, most of them will call the next electrician on Google without leaving a message.",
+    "url": "https://oncallclerk.com/industries/electrician",
+    "pass": 1
+   },
+   {
+    "quote": "Voicemail or no answer",
+    "url": "https://oncallclerk.com/industries/electrician",
+    "pass": 1
+   },
+   {
+    "quote": "Forward calls to the AI only when your electricians line is busy or unanswered. You keep handling what you already handle. The AI catches everything else that would have gone to voicemail. Zero risk, immediate electricians lead capture win.",
+    "url": "https://oncallclerk.com/industries/electrician",
+    "pass": 1
+   },
+   {
+    "quote": "They search for salons, call, hear voicemail, and either book a competitor online or forget to call back. These are motivated bookings that you lose to voicemail every night.",
+    "url": "https://oncallclerk.com/industries/salon",
+    "pass": 1
+   },
+   {
+    "quote": "If nobody picks up, they leave a voicemail that gets checked after the slot has already passed empty. An answered cancellation call gives you time to fill the chair from your waitlist.",
+    "url": "https://oncallclerk.com/industries/salon",
+    "pass": 1
+   },
+   {
+    "quote": "A salon answering service answers calls, books appointments, and handles cancellations for hair salons, barbershops, and beauty studios while your team is with clients or after you close. OnCallClerk is an AI salon answering service that works 24/7, captures every booking, and never puts a caller on hold, so you stop losing appointments to voicemail.",
+    "url": "https://oncallclerk.com/industries/salon",
+    "pass": 1
+   },
+   {
+    "quote": "Hours (voicemail checked later)",
+    "url": "https://oncallclerk.com/industries/salon",
+    "pass": 1
+   },
+   {
+    "quote": "Forward calls to the AI only when your salons & barbershops line is busy or unanswered. You keep handling what you already handle. The AI catches everything else that would have gone to voicemail. Zero risk, immediate salons & barbershops lead capture win.",
+    "url": "https://oncallclerk.com/industries/salon",
+    "pass": 1
+   },
+   {
+    "quote": "Being sent to voicemail when your pet is sick feels dismissive and drives clients to the emergency clinic or a competing practice that picks up.",
+    "url": "https://oncallclerk.com/industries/veterinary",
+    "pass": 1
+   },
+   {
+    "quote": "If that call goes to hold for five minutes or lands on voicemail, they call the next clinic on Google. The practice loses a client worth $500 to $700 in annual revenue.",
+    "url": "https://oncallclerk.com/industries/veterinary",
+    "pass": 1
+   },
+   {
+    "quote": "Every call is answered day or night, including weekends and holidays. Morning voicemail backlogs disappear. Worried pet owners who call at midnight get a compassionate, helpful response instead of a recording.",
+    "url": "https://oncallclerk.com/industries/veterinary",
+    "pass": 1
+   },
+   {
+    "quote": "In most cases, callers do not realize they are speaking with an AI. OnCallClerk is configured to be patient, compassionate, and reassuring. It listens to the owner describe what is happening, asks clarifying questions, and provides clear guidance. For a worried pet parent, getting an immediate, caring response is far better than reaching voicemail or sitting on hold.",
+    "url": "https://oncallclerk.com/industries/veterinary",
+    "pass": 1
+   },
+   {
+    "quote": "OnCallClerk delivers call summaries and appointment requests via email, SMS, or webhook. If your PMS (like Cornerstone, AVImark, or eVetPractice) supports inbound email parsing or API integrations, data can flow in automatically. Otherwise, your team receives structured summaries they can quickly enter.",
+    "url": "https://oncallclerk.com/industries/veterinary",
+    "pass": 1
+   },
+   {
+    "quote": "Voicemail or answering service",
+    "url": "https://oncallclerk.com/industries/veterinary",
+    "pass": 1
+   },
+   {
+    "quote": "Forward calls to the AI only when your veterinary practices line is busy or unanswered. You keep handling what you already handle. The AI catches everything else that would have gone to voicemail. Zero risk, immediate veterinary practices lead capture win.",
+    "url": "https://oncallclerk.com/industries/veterinary",
+    "pass": 1
+   },
+   {
+    "quote": "Compassionate AI answering for vet clinics that never want a worried pet owner to reach voicemail again.",
+    "url": "https://oncallclerk.com/industries/veterinary",
+    "pass": 1
+   },
+   {
+    "quote": "If they get voicemail, they call the next shop. Speed of response directly determines who gets the job.",
+    "url": "https://oncallclerk.com/industries/auto-repair",
+    "pass": 1
+   },
+   {
+    "quote": "Load your standard service prices (oil change, brake job, tire rotation, state inspection, alignment) and the AI quotes them to callers in real time. No more losing price shoppers to voicemail.",
+    "url": "https://oncallclerk.com/industries/auto-repair",
+    "pass": 1
+   },
+   {
+    "quote": "OnCallClerk integrates via calendar sync and webhooks. If your shop management software (like Shop-Ware, Tekmetric, or Mitchell) supports calendar feeds or API integrations, appointments can flow in automatically. Otherwise, you get a text or email with all the booking details.",
+    "url": "https://oncallclerk.com/industries/auto-repair",
+    "pass": 1
+   },
+   {
+    "quote": "Forward calls to the AI only when your auto repair & mechanics line is busy or unanswered. You keep handling what you already handle. The AI catches everything else that would have gone to voicemail. Zero risk, immediate auto repair & mechanics lead capture win.",
+    "url": "https://oncallclerk.com/industries/auto-repair",
+    "pass": 1
+   },
+   {
+    "quote": "If you do not answer, they will not leave a voicemail; they will call the next firm. During your busiest months, you are least able to answer the leads that would fill next year is calendar.",
+    "url": "https://oncallclerk.com/industries/accounting",
+    "pass": 1
+   },
+   {
+    "quote": "Route calls to the AI during focused work blocks. You get text or email summaries you can review between tasks. Fewer interruptions mean more returns completed per day and higher effective billing rates.",
+    "url": "https://oncallclerk.com/industries/accounting",
+    "pass": 1
+   },
+   {
+    "quote": "OnCallClerk delivers call summaries via email, SMS, or webhook integration. If your practice management tool (like Karbon, Canopy, or TaxDome) accepts inbound email or webhooks, you can route summaries directly into your workflow.",
+    "url": "https://oncallclerk.com/industries/accounting",
+    "pass": 1
+   },
+   {
+    "quote": "Instant text/email with full transcript",
+    "url": "https://oncallclerk.com/industries/accounting",
+    "pass": 1
+   },
+   {
+    "quote": "Forward calls to the AI only when your accountants & bookkeepers line is busy or unanswered. You keep handling what you already handle. The AI catches everything else that would have gone to voicemail. Zero risk, immediate accountants & bookkeepers lead capture win.",
+    "url": "https://oncallclerk.com/industries/accounting",
+    "pass": 1
+   },
+   {
+    "quote": "Every call is answered within seconds and timestamped. The structured capture process means your SLA clock starts ticking with full documentation, not a vague voicemail that arrives an hour later.",
+    "url": "https://oncallclerk.com/industries/it-support",
+    "pass": 1
+   },
+   {
+    "quote": "Happy to help. Logging a P4 ticket now — you'll get a secure reset link within the SLA window. Ticket number sent to your email.",
+    "url": "https://oncallclerk.com/industries/it-support",
+    "pass": 1
+   },
+   {
+    "quote": "Call summaries are sent via email or webhook in structured formats that feed into ConnectWise, Autotask, Freshdesk, Zendesk, and other ticketing platforms. No manual ticket creation from phone notes.",
+    "url": "https://oncallclerk.com/industries/it-support",
+    "pass": 1
+   },
+   {
+    "quote": "You configure your on-call schedule in the dashboard. Different engineers can be assigned to different time blocks (weeknights, weekends, holidays). When a P1 or P2 call comes in, the AI notifies whoever is currently on call via your configured method (SMS, phone call, email, or webhook to PagerDuty/Opsgenie).",
+    "url": "https://oncallclerk.com/industries/it-support",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Entrepreneurs & operators",
+    "url": "https://oncallclerk.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Commercial moves (offices, retail, industrial) often have different pricing, weekend or evening scheduling needs, and contract requirements. The AI flags commercial leads and routes them to your sales contact via SMS rather than your residential dispatch flow.",
+    "url": "https://oncallclerk.com/industries/moving-company",
+    "pass": 1
+   },
+   {
+    "quote": "A plumber answering service, also called an AI receptionist for plumbers, is a 24/7 phone service that answers calls for plumbing businesses when owners and technicians are on a job.",
+    "url": "https://oncallclerk.com/industries/plumbing",
+    "pass": 1
+   },
+   {
+    "quote": "Solo Operators Cannot Afford a Receptionist",
+    "url": "https://oncallclerk.com/industries/plumbing",
+    "pass": 1
+   },
+   {
+    "quote": "By 8 AM, your phone line is ringing non-stop. Boilers that worked yesterday have stopped. Furnaces are making strange noises. Heat pumps are freezing up. You physically cannot answer 40 calls while also dispatching technicians.",
+    "url": "https://oncallclerk.com/industries/hvac",
+    "pass": 1
+   },
+   {
+    "quote": "Your technicians are in attics, crawl spaces, rooftops, and mechanical rooms.",
+    "url": "https://oncallclerk.com/industries/hvac",
+    "pass": 1
+   },
+   {
+    "quote": "Each call captures the project type (patio, fencing, planting, turf, garden design, maintenance), property size and details, the caller preferred timeline, and budget range if discussed. You arrive at the estimate visit already knowing the scope.",
+    "url": "https://oncallclerk.com/industries/landscaping",
+    "pass": 1
+   },
+   {
+    "quote": "Commercial landscaping leads from property managers, HOAs, and building operators are captured with site details, contract type (seasonal maintenance, one-time project, recurring service), and decision-maker contact information.",
+    "url": "https://oncallclerk.com/industries/landscaping",
+    "pass": 1
+   },
+   {
+    "quote": "About a quarter-acre lot, mostly flat, thinking patio and some new planting — budget maybe $15K.",
+    "url": "https://oncallclerk.com/industries/landscaping",
+    "pass": 1
+   },
+   {
+    "quote": "Capturing residential project inquiries (patios, fencing, turf, planting)",
+    "url": "https://oncallclerk.com/industries/landscaping",
+    "pass": 1
+   },
+   {
+    "quote": "Commercial calls from property managers, HOAs, and building operators are captured with the site location, scope of work (seasonal maintenance, project-based, recurring service), contract value range if discussed, and the decision-maker contact details. These are flagged differently from residential calls so you can prioritise them appropriately.",
+    "url": "https://oncallclerk.com/industries/landscaping",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. During setup, you add your full service list: landscape design, hardscaping, fencing, paving, turf installation, planting, tree surgery, garden maintenance, irrigation, and anything else you offer. The AI explains these to callers and captures which services they are interested in.",
+    "url": "https://oncallclerk.com/industries/landscaping",
+    "pass": 1
+   },
+   {
+    "quote": "Licensing, equipment, consultation, and project-pricing guidance for design/build operators.",
+    "url": "https://oncallclerk.com/industries/landscaping",
+    "pass": 1
+   },
+   {
+    "quote": "How independent operators position against national brands with speed, local trust, and specialization.",
+    "url": "https://oncallclerk.com/industries/junk-removal",
+    "pass": 1
+   },
+   {
+    "quote": "Our customers include solo tradespeople, dental practices, law firms, property management companies, home service providers, salons, healthcare clinics, and e-commerce brands.",
+    "url": "https://oncallclerk.com/about",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Sign Up - OnCallClerk — Create your OnCallClerk account and launch an AI phone agent in minutes. Free trial, no credit card required.",
+    "url": "https://oncallclerk.com/signup",
+    "pass": 3
+   },
+   {
+    "quote": "AI Receptionist for Businesses | OnCallClerk - 24/7 Call ... — AI Receptionist for Businesses | OnCallClerk - 24/7 Call ... OnCallClerk https://oncallclerk.com",
+    "url": "https://oncallclerk.com/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Receptionist for Businesses | OnCallClerk - 24/7 Call ... — OnCallClerk is the AI receptionist that never misses a call. Launch a custom AI phone agent for support, sales, and inquiries in 5 minutes - no code required. Perfect for businesses and call centers.",
+    "url": "http://oncallclerk.com/",
+    "pass": 3
+   },
+   {
+    "quote": "OnCallClerk | 公式サイトへのアクセス - コード不要でAI電話受付エー... — OnCallClerkは、ノーコードでAI電話エージェントを構築できるプラットフォームであり、5分でAIによる受付・カスタマーサポート・営業担当の席を迅速に導入できます。 24時間体制で着信に対応し、リードを自動的に捕捉して通話の要約を生成します。",
+    "url": "https://www.cxgn.cn/ja/oncallclerk",
+    "pass": 3
+   },
+   {
+    "quote": "OnCallClerk | AIGC ALL — OnCallClerk is an AI receptionist platform that helps businesses automate phone answering with intelligent voice agents. Designed for small businesses, startups, and call centers, it enables you to launch a fully functional AI phone answering service in minutes without any coding or complex setup.",
+    "url": "https://www.aigcall.com/en/tools/oncallclerk",
+    "pass": 3
+   },
+   {
+    "quote": "OnCallClerk (@OnCallClerk) / X — OnCallClerk is the easiest platform to build and deploy AI telephone voice agents. Create custom phone assistants in minutes, no programming required.",
+    "url": "https://x.com/OnCallClerk",
+    "pass": 3
+   },
+   {
+    "quote": "AI Receptionist Use Cases | Phone Solutions for ... - OnCallClerk — Solution pages for the most common phone-handling use cases: after-hours, overflow, appointment booking, transfers, screening, qualification, bilingual, and weekend coverage.",
+    "url": "https://oncallclerk.com/use-cases",
+    "pass": 3
+   },
+   {
+    "quote": "White Label AI Receptionist | Sell Under Your Own Brand — White Label AI Receptionist | Sell Under Your Own Brand OnCallClerk https://oncallclerk.com > white-label",
+    "url": "https://oncallclerk.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Best My AI Front Desk Alternative (2026) - OnCallClerk — Best My AI Front Desk Alternative (2026) - OnCallClerk OnCallClerk https://oncallclerk.com > compare",
+    "url": "https://oncallclerk.com/compare/myaifrontdesk-alternative",
+    "pass": 3
+   },
+   {
+    "quote": "Best DialZara Alternative (2026) - OnCallClerk — Best DialZara Alternative (2026) - OnCallClerk OnCallClerk https://oncallclerk.com > compare > d...",
+    "url": "https://oncallclerk.com/compare/dialzara-alternative",
+    "pass": 3
+   },
+   {
+    "quote": "AI Phone Answering for Accountants - OnCallClerk — AI Phone Answering for Accountants - OnCallClerk OnCallClerk https://oncallclerk.com > Industries",
+    "url": "https://oncallclerk.com/industries/accounting",
+    "pass": 3
+   },
+   {
+    "quote": "How to Start an AI Call Center (From Scratch, Without a ... — How to Start an AI Call Center (From Scratch, Without a ... OnCallClerk https://oncallclerk.com > Blog",
+    "url": "https://oncallclerk.com/blog/how-to-start-ai-call-center",
+    "pass": 3
+   },
+   {
+    "quote": "AI Virtual Receptionist - Answer Every Call 24/7 - OnCallClerk — AI Virtual Receptionist - Answer Every Call 24/7 - OnCallClerk OnCallClerk https://oncallclerk.com > virtual-recep...",
+    "url": "https://oncallclerk.com/virtual-receptionist",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "OnCallClerk (@OnCallClerk) / X OnCallClerk is the easiest platform to build and deploy AI telephone voice agents. Create custom phone assistants in minutes, no programming required.",
+    "url": "https://x.com/OnCallClerk",
+    "pass": 3
+   },
+   {
+    "quote": "OnCallClerk on X: \"Offer clients a 24/7 AI receptionist demo ... Offer clients a 24/7 AI receptionist demo in under 10 minutes. Show them how easy it is to set up a phone agent with point-and-click magic. Let them see the time and money it saves firsthand. Quick, straightforward, and compelling.",
+    "url": "https://x.com/OnCallClerk/status/2105498122604454301",
+    "pass": 3
+   },
+   {
+    "quote": "OnCallClerk on X: \"The real unfair advantage? An AI booking ... OnCallClerk is the easiest platform to build and deploy AI telephone voice agents. Create custom phone assistants in minutes, no programming required ...",
+    "url": "https://x.com/OnCallClerk/status/2098099728420315638",
+    "pass": 3
+   },
+   {
+    "quote": "OnCallClerk on X: \"Rolling your own AI phone agent with raw ... OnCallClerk on X: \"Rolling your own AI phone agent with raw Twilio + a model is like building a car from scratch. Here's why using a phone-agent SDK makes it smoother: 1.",
+    "url": "https://x.com/OnCallClerk/status/2106882782387388544",
+    "pass": 3
+   },
+   {
+    "quote": "OnCallClerk on X: \"\"Voicemail\" went from leftover messages to ... OnCallClerk on X: \"\"Voicemail\" went from leftover messages to instant bookings. 30 days with an AI agent: fewer missed calls, more appointments, less stress. Plus, no more playing detective with garbled messages.",
+    "url": "https://x.com/OnCallClerk/status/2105800114115654096",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "looking po OnCall clerk female 18 to 25 yrs old - Facebook looking po OnCall clerk female 18 to 25 yrs old - Facebook Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/275546844464962/posts/1429209029098732/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://oncallclerk.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oncallclerk.com/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oncallclerk.com/industries/moving-company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oncallclerk.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oncallclerk.com/industries/plumbing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oncallclerk.com/industries/hvac",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oncallclerk.com/industries/real-estate-agent",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oncallclerk.com/industries/property-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oncallclerk.com/industries/electrician",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oncallclerk.com/industries/salon",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oncallclerk.com/industries/veterinary",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oncallclerk.com/industries/auto-repair",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oncallclerk.com/industries/accounting",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oncallclerk.com/industries/it-support",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oncallclerk.com/industries/home-care",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oncallclerk.com/industries/landscaping",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oncallclerk.com/resell-ai-receptionist",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oncallclerk.com/industries/junk-removal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oncallclerk.com/industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oncallclerk.com/about",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.opencom.co.jp/dialer/introduction.html",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://business.ntt-east.co.jp/content/cloudsolution/column-473.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ntt.com/business/services/aitelephone/lp/column-27.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oncall-japan.com/information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://id.linkedin.com/in/endypriambodo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://oncall-japan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cxgn.cn/ja/oncallclerk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aigcall.com/en/tools/oncallclerk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hcltech.com/en-us/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/clerk.chat",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/OnCallClerk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OnCallClerk/status/2105498122604454301",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OnCallClerk/status/2098099728420315638",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OnCallClerk/status/2106882782387388544",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/275546844464962/posts/1429209029098732/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OnCallClerk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OnCallClerk/status/2105800114115654096",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "OnCallClerk 日本 導入",
+   "results": [
+    "https://www.opencom.co.jp/dialer/introduction.html",
+    "https://business.ntt-east.co.jp/content/cloudsolution/column-473.html",
+    "https://www.ntt.com/business/services/aitelephone/lp/column-27.html",
+    "https://oncall-japan.com/information/",
+    "https://www.facebook.com/oncall.japan/",
+    "https://www.netdenjd.com/archives/708202",
+    "https://oncall-japan.com/",
+    "https://x.com/i/trending/2023441258102821054",
+    "http://oncallclerk.com/",
+    "https://toolidx.com/ja/tool/oncallclerk"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "OnCallClerk 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://oncallclerk.com/signup",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://id.linkedin.com/in/endypriambodo",
+    "https://oncall-japan.com/",
+    "https://www.aon.com/japan/company-overview",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.u-blox.com/en/about-us/sales-network-offices/japan-2"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "OnCallClerk Japan",
+   "results": [
+    "https://oncallclerk.com/",
+    "http://oncallclerk.com/",
+    "https://www.cxgn.cn/ja/oncallclerk",
+    "https://www.aigcall.com/en/tools/oncallclerk",
+    "https://x.com/OnCallClerk",
+    "https://toolidx.com/ja/tool/oncallclerk",
+    "https://howtomakemoneywith.ai/ja/blog/how-to-use-oncallclerk",
+    "https://oncall-japan.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "OnCallClerk manufacturing customer case study",
+   "results": [
+    "http://oncallclerk.com/",
+    "https://oncallclerk.com/use-cases",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.hcltech.com/en-us/case-studies",
+    "https://www.driveresearch.com/market-research-company-blog/case-study-voice-of-customer-voc-survey-for-a-manufacturer/",
+    "https://www.hcltech.com/case-studies/manufacturing",
+    "https://www.mckinsey.com/about-us/case-studies"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "OnCallClerk white label OR reseller OR partner program",
+   "results": [
+    "https://oncallclerk.com/white-label",
+    "https://oncallclerk.com/compare/myaifrontdesk-alternative",
+    "https://oncallclerk.com/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://oncallclerk.com/compare/dialzara-alternative",
+    "https://omc.cloud/partners-program",
+    "https://oncallclerk.com/blog/how-to-start-ai-call-center",
+    "https://www.orangemantra.com/white-label-partnership/",
+    "https://oncallclerk.com/virtual-receptionist",
+    "http://oncallclerk.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "OnCallClerk founded funding employees revenue",
+   "results": [
+    "https://oncallclerk.com/industries/accounting",
+    "https://oncallclerk.com/blog/how-to-start-ai-call-center",
+    "https://getlatka.com/companies/clerk.chat",
+    "https://oncallclerk.com/virtual-receptionist",
+    "https://pitchbook.com/profiles/company/531069-22",
+    "https://getlatka.com/blog",
+    "https://clerk.chat/blog/seed-funding/",
+    "https://www.podcastrepublic.net/podcast/1145974783",
+    "https://oncallclerk.com/blog/cost-savings-ai-receptionists",
+    "https://mandos.io/data/companies/clerk"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com OnCallClerk",
+   "results": [
+    "https://note.com/koshitsu_2025/n/nfeb76f7fff0c?hl=en",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/rapid_takin1054/n/n6c962721390b?hl=en",
+    "https://note.com/genial_colt1776/n/n6a071ca54773?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/tori_1980/n/n21037c205ade",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com OnCallClerk",
+   "results": [
+    "https://x.com/OnCallClerk",
+    "https://x.com/OnCallClerk/status/2105498122604454301",
+    "https://x.com/OnCallClerk/status/2098099728420315638",
+    "https://x.com/OnCallClerk/status/2106882782387388544",
+    "https://x.com/OnCallClerk/status/2114520745392878039",
+    "https://x.com/OnCallClerk/status/2116555815972704438",
+    "https://x.com/OnCallClerk/status/2109248963157069932"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com OnCallClerk",
+   "results": [
+    "https://www.linkedin.com/company/gataofficial",
+    "https://uk.linkedin.com/pub/dir/Michael/Richards/gb-0-United-Kingdom",
+    "https://www.linkedin.com/pub/dir/Michael/Richards",
+    "https://bi.linkedin.com/in/jean-muyoboke-b875a4381",
+    "https://www.linkedin.com/company/oncall-llc",
+    "https://uk.linkedin.com/in/michael-richards-943a4825",
+    "https://ca.linkedin.com/company/on-call-centre",
+    "https://www.linkedin.com/company/oncallinsights/",
+    "https://bi.linkedin.com/in/david-nishimwe-8504312b8",
+    "https://aw.linkedin.com/in/brianjtromp"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:facebook.com OnCallClerk",
+   "results": [
+    "https://www.facebook.com/groups/275546844464962/posts/1429209029098732/",
+    "https://www.facebook.com/oncallmedicalclinic/",
+    "https://www.facebook.com/oncallservicesandrentals/",
+    "https://www.facebook.com/oncall.staff/",
+    "https://www.facebook.com/profile.php/?id=61556752294180",
+    "https://business.facebook.com/groups/plattsburghstreetteam/",
+    "https://business.facebook.com/groups/731254351690102/",
+    "https://www.facebook.com/CallOnCall/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "OnCallClerk note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/%E5%8A%A0%E8%97%A4%E8%B2%9E%E9%A1%95",
+    "https://x.com/sadaaki",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "http://oncallclerk.com/",
+    "https://oncallclerk.com/about",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://x.com/OnCallClerk",
+    "https://note.com/ceoai15",
+    "https://note.com/oncall2026"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "OnCallClerk X 投稿",
+   "results": [
+    "https://oncallclerk.com/",
+    "https://x.com/OnCallClerk",
+    "http://oncallclerk.com/",
+    "https://x.com/OnCallClerk/status/2105800114115654096",
+    "https://x.com/OnCallClerk/status/2111288403333419229",
+    "https://x.com/OnCallClerk/status/2118087925401272404",
+    "https://x.com/OnCallClerk/status/2111409201276731670",
+    "https://x.com/OnCallClerk/status/2098280940283805901"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部20頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部20頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部20頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部20頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部20頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部20頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部20頁・検索12回）"
+ }
+}

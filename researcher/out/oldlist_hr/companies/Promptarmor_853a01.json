@@ -1,0 +1,970 @@
+{
+ "name": "Promptarmor",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-11T13:12:46.235861+00:00",
+ "official_url": "https://promptarmor.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "PromptArmor: AI Risk Intelligence",
+    "url": "https://www.promptarmor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Practical Guide to Navigating Claude Cowork’s Controls",
+    "url": "https://www.promptarmor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Using PromptArmor, we've been able to massively cut down the time it takes to evaluate AI related vendors, and show value to the business faster.",
+    "url": "https://www.promptarmor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Assess indirect prompt injection risk across every vendor AI asset: how application construction, connector scope, and data access combine to create vectors for exfiltration and phishing.",
+    "url": "https://www.promptarmor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Visibility into which vendors train on your data by default, map data flows into AI subprocessors across your portfolio, and identify shadow IT vendors exposing data to AI models.",
+    "url": "https://www.promptarmor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Insight into training data opt-out policies, data retention obligations, AI subprocessor disclosures, and more.",
+    "url": "https://www.promptarmor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI vendors ship changes constantly: new models, expanded data access, new features, vulnerabilities. PromptArmor monitors your entire vendor portfolio and alerts you the moment something shifts.",
+    "url": "https://www.promptarmor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Atlassian opting accounts in by default into metadata for training from April 16th - May 19th.",
+    "url": "https://www.promptarmor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Microsoft 365 Copilot expanding its data scope to include real-time screen and camera content analysis in voice sessions.",
+    "url": "https://www.promptarmor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Anthropic deprecating their \"Allow bypass permissions\" toggle in the admin console with new path to preserve this functionality.",
+    "url": "https://www.promptarmor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manage system and data access by user role across your entire TPRM program.",
+    "url": "https://www.promptarmor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Configure OAuth or SSO providers of choice for secure user access.",
+    "url": "https://www.promptarmor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Onboarding",
+    "url": "https://www.promptarmor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Managed onboarding, enablement, and training so your team is productive from day one.",
+    "url": "https://www.promptarmor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Research that shapes how enterprises defend against AI",
+    "url": "https://www.promptarmor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our team uncovers novel AI security vulnerabilities before they become incidents. Featured research on data exfiltration via indirect prompt injection across Claude, Google, Slack, and Writer.com platforms.",
+    "url": "https://www.promptarmor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prepare your security team",
+    "url": "https://www.promptarmor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner Program | PromptArmor",
+    "url": "https://www.promptarmor.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Join our partner ecosystem and help enterprises stay ahead of AI vendor risk. PromptArmor’s partner program is built for MSSPs, resellers, and technology platforms that serve enterprise security teams.",
+    "url": "https://www.promptarmor.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "VAR and reseller organizations that serve enterprise security buyers.",
+    "url": "https://www.promptarmor.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Managed security service providers adding AI governance to their offering.",
+    "url": "https://www.promptarmor.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "GRC, TPRM, and security platforms that want to embed AI risk intelligence.",
+    "url": "https://www.promptarmor.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "SI firms delivering security transformation programs to large enterprises.",
+    "url": "https://www.promptarmor.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "PromptArmor Pricing & Packaging",
+    "url": "https://www.promptarmor.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Flexible pricing for what you need",
+    "url": "https://www.promptarmor.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Assess and monitor the AI risk of every asset your vendors run. Start free with 5 assets, scale to your entire ecosystem with Enterprise.",
+    "url": "https://www.promptarmor.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Indirect prompt injection and data exfiltration analysis",
+    "url": "https://www.promptarmor.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Dedicated research guidance and 24-hour premium support",
+    "url": "https://www.promptarmor.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "HubSpot Claude Implementation Case Study | PromptArmor",
+    "url": "https://www.promptarmor.com/hubspot-claude-implementation-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "\"PromptArmor was essential in allowing our security team to quickly turn around an assessment of Claude during vendor due diligence, and also to help with efficient secure rollout afterwards, to accelerate adoption.\"",
+    "url": "https://www.promptarmor.com/hubspot-claude-implementation-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Chat introduced risks around indirect prompt injection, data leakage through conversational interfaces, and the potential for sensitive internal data to surface in model interactions. Code and Cowork raised concerns around access to filesystems, ability to execute code, and take actions on behalf of the user — with agentic capabilities, skills, and the ability to operate across connected systems.",
+    "url": "https://www.promptarmor.com/hubspot-claude-implementation-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "How PromptArmor Helped",
+    "url": "https://www.promptarmor.com/hubspot-claude-implementation-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "PromptArmor helped HubSpot systematically decompose each of these threat models, moving far beyond generic AI risk checklists to deliver analysis grounded in real-world attack chains and vulnerability research specific to LLM-powered tooling. They provided clarity on precisely which controls to prioritize for each surface:",
+    "url": "https://www.promptarmor.com/hubspot-claude-implementation-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Their depth of expertise in prompt injection vectors, skill and connector risks, and agentic AI threat surfaces meant the security team was operating from a position of informed confidence.",
+    "url": "https://www.promptarmor.com/hubspot-claude-implementation-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "What could have been a months-long evaluation bottleneck instead became a deployment accelerator. PromptArmor gave the security team the technical clarity to greenlight rollout on a timeline that matched the organization's ambition, while ensuring the right guardrails, monitoring, and organizational controls were in place from day one.",
+    "url": "https://www.promptarmor.com/hubspot-claude-implementation-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "HubSpot went from initial evaluation to secure, organization-wide deployment faster than expected — without compromising on the thoroughness their risk program demands.",
+    "url": "https://www.promptarmor.com/hubspot-claude-implementation-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Chuck from HubSpot presenting with PromptArmor on Claude Cowork Secure Deployment — Third Party Risk Association Conference",
+    "url": "https://www.promptarmor.com/hubspot-claude-implementation-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "The HubSpot Vendor Risk & Security team uses PromptArmor to evaluate and assess the risk of both AI-enabled vendors integrating LLMs into their products and internal tooling that drives productivity. Their threat intelligence — targeted towards novel risks from Generative AI and LLMs — has been instrumental in streamlining third-party assessments.",
+    "url": "https://www.promptarmor.com/hubspot-claude-implementation-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "Whether Generative AI is a key function of a vendor's product or HubSpot is leveraging a vendor's LLMs internally, PromptArmor surfaces relevant and timely intelligence specific to novel LLM and Generative AI risks.",
+    "url": "https://www.promptarmor.com/hubspot-claude-implementation-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "\"Prompt Armor will be invaluable and a game changer as we continue to see new Generative AI capabilities across our vendor environment.\"",
+    "url": "https://www.promptarmor.com/hubspot-claude-implementation-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "AI Vendor Risk for Industrial and Manufacturing Enterprises | PromptArmor",
+    "url": "https://www.promptarmor.com/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "AI Vendor Risk for Industrial and Manufacturing Enterprises",
+    "url": "https://www.promptarmor.com/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturers are embedding AI across supply chain, operations, and quality control. PromptArmor gives security teams the visibility to govern third-party AI tools accessing your operational and proprietary data.",
+    "url": "https://www.promptarmor.com/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Resources & Intelligence | PromptArmor",
+    "url": "https://www.promptarmor.com/resources?type=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Original research, vulnerability disclosures, and guidance on AI security risks from the PromptArmor Threat Intel Team.",
+    "url": "https://www.promptarmor.com/resources?type=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "ChatGPT for Enterprise",
+    "url": "https://www.promptarmor.com/resources?type=case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Careers | PromptArmor",
+    "url": "https://www.promptarmor.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Help enterprises secure their AI",
+    "url": "https://www.promptarmor.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "At PromptArmor, we’re pioneering how enterprises think about AI security. Join a team where your skills will help teams secure the next generation of AI systems.",
+    "url": "https://www.promptarmor.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Product Operations Analyst",
+    "url": "https://www.promptarmor.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Sales Development Representative",
+    "url": "https://www.promptarmor.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Resources & Intelligence | PromptArmor",
+    "url": "https://www.promptarmor.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Original research, vulnerability disclosures, and guidance on AI security risks from the PromptArmor Threat Intel Team.",
+    "url": "https://www.promptarmor.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "ChatGPT for Enterprise",
+    "url": "https://www.promptarmor.com/resources",
+    "pass": 1
+   },
+   {
+    "quote": "Snowflake and PromptArmor Partner on AI Security Research",
+    "url": "https://www.snowflake.com/en/blog/engineering/snowflake-promptarmor-ai-security-research0/",
+    "pass": 3
+   },
+   {
+    "quote": "PromptArmor Collaborates with Snowflake on AI Security Research",
+    "url": "https://www.snowflake.com/en/blog/engineering/snowflake-promptarmor-ai-security-research0/",
+    "pass": 3
+   },
+   {
+    "quote": "*This article contains forward-looking statements, including about our future product offerings, and are not commitments to deliver any product offerings. Actual results and offerings may differ and are subject to known and unknown risk and uncertainties. See our latest 10-Q for more information.",
+    "url": "https://www.snowflake.com/en/blog/engineering/snowflake-promptarmor-ai-security-research0/",
+    "pass": 3
+   },
+   {
+    "quote": "By submitting this form, I understand Snowflake will process my personal information in accordance with their Privacy Notice.",
+    "url": "https://www.snowflake.com/en/blog/engineering/snowflake-promptarmor-ai-security-research0/",
+    "pass": 3
+   },
+   {
+    "quote": "[2507.15219] PromptArmor: Simple yet Effective Prompt Injection Defenses",
+    "url": "https://arxiv.org/abs/2507.15219",
+    "pass": 3
+   },
+   {
+    "quote": "Press Enter to search ·",
+    "url": "https://arxiv.org/abs/2507.15219",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by leading security and risk teams",
+    "url": "https://www.promptarmor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "HubSpot Claude Implementation Case Study | PromptArmor",
+    "url": "https://www.promptarmor.com/hubspot-claude-implementation-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "HubSpot Claude Implementation Case Study",
+    "url": "https://www.promptarmor.com/hubspot-claude-implementation-case-study",
+    "pass": 1
+   },
+   {
+    "quote": "AI Vendor Risk for Industrial and Manufacturing Enterprises | PromptArmor",
+    "url": "https://www.promptarmor.com/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "AI Vendor Risk for Industrial and Manufacturing Enterprises",
+    "url": "https://www.promptarmor.com/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturers are embedding AI across supply chain, operations, and quality control. PromptArmor gives security teams the visibility to govern third-party AI tools accessing your operational and proprietary data.",
+    "url": "https://www.promptarmor.com/manufacturing",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Fortune 500",
+    "url": "https://www.promptarmor.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PromptArmor Revenue 2025: $550K Est.",
+    "url": "https://getlatka.com/companies/promptarmor.com",
+    "pass": 3
+   },
+   {
+    "quote": "PromptArmor has not published its revenue. GetLatka estimates it at about $550K a year (September 2025).",
+    "url": "https://getlatka.com/companies/promptarmor.com",
+    "pass": 3
+   },
+   {
+    "quote": "PromptArmor CEO, founders & employees",
+    "url": "https://getlatka.com/companies/promptarmor.com",
+    "pass": 3
+   },
+   {
+    "quote": "Shankar Krishnan founded PromptArmor in 2023 and runs it as CEO. PromptArmor had 2–5 employees (June 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/promptarmor.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is PromptArmor's revenue?",
+    "url": "https://getlatka.com/companies/promptarmor.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates PromptArmor's revenue at about",
+    "url": "https://getlatka.com/companies/promptarmor.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does PromptArmor have?",
+    "url": "https://getlatka.com/companies/promptarmor.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/promptarmor.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/promptarmor.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/promptarmor.com",
+    "pass": 3
+   },
+   {
+    "quote": "PromptArmor Stock Price, Funding, Valuation, Revenue & Financial Statements",
+    "url": "https://www.cbinsights.com/company/promptarmor/financials",
+    "pass": 3
+   },
+   {
+    "quote": "Funding, Valuation & Revenue",
+    "url": "https://www.cbinsights.com/company/promptarmor/financials",
+    "pass": 3
+   },
+   {
+    "quote": "2024 revenue",
+    "url": "https://www.cbinsights.com/company/promptarmor/financials",
+    "pass": 3
+   },
+   {
+    "quote": "to see revenue data from 2024 and more.",
+    "url": "https://www.cbinsights.com/company/promptarmor/financials",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Partner Program | PromptArmor",
+    "url": "https://www.promptarmor.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "We partner with leading channel partners, resellers, and platforms like SHI",
+    "url": "https://www.promptarmor.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Join our partner ecosystem and help enterprises stay ahead of AI vendor risk. PromptArmor’s partner program is built for MSSPs, resellers, and technology platforms that serve enterprise security teams.",
+    "url": "https://www.promptarmor.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "Channel Partners & Resellers",
+    "url": "https://www.promptarmor.com/partner-program",
+    "pass": 1
+   },
+   {
+    "quote": "VAR and reseller organizations that serve enterprise security buyers.",
+    "url": "https://www.promptarmor.com/partner-program",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "PromptArmor : AI Risk Intelligence — PromptArmor : AI Risk Intelligence PromptArmor https://www.promptarmor.com",
+    "url": "https://www.promptarmor.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Snowflake and PromptArmor Partner on AI Security Research — Snowflake and PromptArmor Partner on AI Security Research Snowflake https://www.snowflake.com > blog",
+    "url": "https://www.snowflake.com/en/blog/engineering/snowflake-promptarmor-ai-security-research0/",
+    "pass": 3
+   },
+   {
+    "quote": "PromptArmor - LinkedIn — PromptArmor - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/promptarmor",
+    "pass": 3
+   },
+   {
+    "quote": "PromptArmor : Simple yet Effective Prompt Injection Defenses — PromptArmor : Simple yet Effective Prompt Injection Defenses arXiv https://arxiv.org > abs",
+    "url": "https://arxiv.org/abs/2507.15219",
+    "pass": 3
+   },
+   {
+    "quote": "PromptArmor Launches to Help Assess, Monitor Third-Party AI ... — PromptArmor Launches to Help Assess, Monitor Third-Party AI ... Dark Reading https://www.darkreading.com > prom...",
+    "url": "https://www.darkreading.com/cyber-risk/promptarmor-launches-assess-monitor-third-party-ai-risk",
+    "pass": 3
+   },
+   {
+    "quote": "Partner Program - PromptArmor — Partner Program - PromptArmor PromptArmor https://www.promptarmor.com > part...",
+    "url": "https://www.promptarmor.com/partner-program",
+    "pass": 3
+   },
+   {
+    "quote": "PromptArmor Revenue 2025: $550K Est. - GetLatka — PromptArmor Revenue 2025: $550K Est. - GetLatka GetLatka https://getlatka.com > promptarmor",
+    "url": "https://getlatka.com/companies/promptarmor.com",
+    "pass": 3
+   },
+   {
+    "quote": "PromptArmor 2026 Company Profile - PitchBook — PromptArmor 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/544633-39",
+    "pass": 3
+   },
+   {
+    "quote": "PromptArmor Stock Price, Funding , Valuation ... - CB Insights — PromptArmor Stock Price, Funding , Valuation ... - CB Insights CB Insights https://www.cbinsights.com > financials",
+    "url": "https://www.cbinsights.com/company/promptarmor/financials",
+    "pass": 3
+   },
+   {
+    "quote": "PromptArmor - Crunchbase Company Profile & Funding — PromptArmor - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > promp...",
+    "url": "https://www.crunchbase.com/organization/promptarmor",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "PromptArmor - LinkedIn PromptArmor - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/promptarmor",
+    "pass": 3
+   },
+   {
+    "quote": "Vikram J. - Engineering @ PromptArmor - LinkedIn Vikram J. - Engineering @ PromptArmor - LinkedIn LinkedIn https://www.linkedin.com > vikramja...",
+    "url": "https://www.linkedin.com/in/vikramjayanthi",
+    "pass": 3
+   },
+   {
+    "quote": "Ritual Capital backs PromptArmor , a new AI security platform Ritual Capital backs PromptArmor , a new AI security platform LinkedIn https://www.linkedin.com > posts > c...",
+    "url": "https://www.linkedin.com/posts/chrisfhoward_ai-vendor-risk-for-tprm-teams-promptarmor-activity-7314045086852362240-Sh1x",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.promptarmor.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.promptarmor.com/partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.promptarmor.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.promptarmor.com/hubspot-claude-implementation-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.promptarmor.com/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.promptarmor.com/resources?type=case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.promptarmor.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.promptarmor.com/resources",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.promptarmor.com/images/logos/hubspot-logo.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.promptarmor.com/images/logos/claude-mark.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.promptarmor.com/images/logos/openai-mark.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.promptarmor.com/images/logos/copilot-color.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.webcg.net/articles/-/54501",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.knowleful.ai/partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://webridge.co.jp/llmo-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000048.000046872.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.engeniustech.com/jp/where-to-buy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.promptarmor.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snowflake.com/en/blog/engineering/snowflake-promptarmor-ai-security-research0/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/promptarmor",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://arxiv.org/abs/2507.15219",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.promptarmor.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snowflake.com/en/blog/engineering/snowflake-promptarmor-ai-security-research0/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cyberproof.com/solutions/manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.darkreading.com/cyber-risk/promptarmor-launches-assess-monitor-third-party-ai-risk",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.promptarmor.com/partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sharkstriker.com/blog/white-label-solutions-white-label-partnerships-are-revolutionizing-how-msps-work/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://synthflow.ai/blog/white-label-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/promptarmor.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/544633-39",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/promptarmor/financials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/promptarmor",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/promptarmor",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/vikramjayanthi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/chrisfhoward_ai-vendor-risk-for-tprm-teams-promptarmor-activity-7314045086852362240-Sh1x",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Promptarmor 日本 導入",
+   "results": [
+    "https://www.stellantis.jp/",
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.webcg.net/articles/-/54501",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://www.jato.com/news-and-insights-japan/%E6%97%A5%E6%9C%AC%E3%81%AEota%E6%90%AD%E8%BC%89%E7%8E%87%E3%81%AF%E3%81%AA%E3%81%9C%E4%BD%8E%E3%81%84%E3%81%AE%E3%81%8B-%E4%B8%96%E7%95%8C4%E3%82%AB%E5%9B%BD%E3%81%A8%E3%81%AE%E6%AF%94%E8%BC%83%E3%81%A7%E8%A6%8B%E3%81%88%E3%82%8B%E8%AA%B2%E9%A1%8C%E3%81%A8%E5%B1%95%E6%9C%9B",
+    "https://upstream.io/jp/",
+    "https://www.netdenjd.com/archives/708202",
+    "https://www.sentinelone.com/ja/press/sentinelone-to-acquire-prompt-security-to-advance-genai-security/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Promptarmor 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.knowleful.ai/partner/",
+    "https://webridge.co.jp/llmo-agency/",
+    "https://prtimes.jp/main/html/rd/p/000000048.000046872.html",
+    "https://www.engeniustech.com/jp/where-to-buy/",
+    "https://ext.cx/agency/",
+    "https://www.servants.co.jp/company/business/",
+    "https://log-port.com/aidx-partner-program/",
+    "https://issenglobal.com/agency",
+    "https://www.partnerlink-dx.co.jp/bizmatch-products/ai/",
+    "https://pitchbook.com/profiles/company/544633-39"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Promptarmor Japan",
+   "results": [
+    "https://www.promptarmor.com/",
+    "https://www.snowflake.com/en/blog/engineering/snowflake-promptarmor-ai-security-research0/",
+    "https://www.linkedin.com/company/promptarmor",
+    "https://arxiv.org/abs/2507.15219",
+    "https://www.darkreading.com/cyber-risk/promptarmor-launches-assess-monitor-third-party-ai-risk",
+    "https://openreview.net/forum?id=IeNXtofK6T",
+    "https://www.artificiallawyer.com/2025/04/07/promptarmor-to-protect-lawyers-from-genai-vendor-security-risks/",
+    "https://www.ycombinator.com/companies/promptarmor",
+    "https://www.promptarmor.com/resources/indirect-prompt-injection",
+    "https://www.promptarmor.com/models"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Promptarmor manufacturing customer case study",
+   "results": [
+    "https://www.promptarmor.com/",
+    "https://www.snowflake.com/en/blog/engineering/snowflake-promptarmor-ai-security-research0/",
+    "https://www.cyberproof.com/solutions/manufacturing/",
+    "https://www.darkreading.com/cyber-risk/promptarmor-launches-assess-monitor-third-party-ai-risk",
+    "https://arxiv.org/abs/2507.15219",
+    "https://github.com/prompt-armor/prompt-armor",
+    "https://openreview.net/forum?id=IeNXtofK6T",
+    "https://www.promptarmor.com/resources",
+    "https://www.artificiallawyer.com/2025/04/07/promptarmor-to-protect-lawyers-from-genai-vendor-security-risks/",
+    "https://www.promptarmor.com/manufacturing"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Promptarmor white label OR reseller OR partner program",
+   "results": [
+    "https://www.promptarmor.com/partner-program",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://sharkstriker.com/blog/white-label-solutions-white-label-partnerships-are-revolutionizing-how-msps-work/",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://www.globaltechpartners.com.au/white-label-program",
+    "https://www.robofy.ai/whitelabel-chatbot-reseller",
+    "https://www.snowflake.com/en/blog/engineering/snowflake-promptarmor-ai-security-research0/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://www.linkedin.com/company/promptarmor",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Promptarmor founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/promptarmor.com",
+    "https://pitchbook.com/profiles/company/544633-39",
+    "https://www.cbinsights.com/company/promptarmor/financials",
+    "https://www.crunchbase.com/organization/promptarmor",
+    "https://www.linkedin.com/company/promptarmor",
+    "https://www.promptarmor.com/our-story",
+    "https://www.vcbacked.co/company/promptarmor",
+    "https://www.systemaic.com/teardowns/promptarmor",
+    "https://www.ycombinator.com/companies/promptarmor",
+    "https://www.cbinsights.com/company/promptarmor"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com Promptarmor",
+   "results": [
+    "https://note.com/vesslabs/n/n46c92d85f667",
+    "https://note.com/joho_no_todai/n/n465963993ad6",
+    "https://note.com/gen_ai/n/nf92435a558a7",
+    "https://note.com/hacklog_stealth/n/n4d30936c876d",
+    "https://note.com/masa_cloud/n/n5aaf150600c4",
+    "https://note.com/shugo/n/n589b8ebc8d18",
+    "https://note.com/suzuidaki/n/nd3ace627901f",
+    "https://note.com/ai_filosofo/n/n9d92522dd3ab",
+    "https://note.com/godzy/n/n94ecef8fa104",
+    "https://note.com/calm_quail38/n/necd63f53b25d"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:x.com Promptarmor",
+   "results": [
+    "https://x.com/connect24h/status/2107356632263065821",
+    "https://x.com/GabrielHuang9",
+    "https://x.com/securestep9",
+    "https://x.com/iluciddreaming/status/2111849041281863747",
+    "https://x.com/gigazine/status/1993530235493478892",
+    "https://x.com/lbeurerkellner",
+    "https://x.com/ArmanHezarkhani/status/2026308695399784913",
+    "https://x.com/karpathy",
+    "https://x.com/gigazine/status/2059146343189287132",
+    "https://x.com/dankypower/status/2115624954524049796"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com Promptarmor",
+   "results": [
+    "https://www.linkedin.com/company/promptarmor",
+    "https://www.linkedin.com/in/vikramjayanthi",
+    "https://www.linkedin.com/in/shankar-krishnan",
+    "https://www.linkedin.com/posts/chrisfhoward_ai-vendor-risk-for-tprm-teams-promptarmor-activity-7314045086852362240-Sh1x",
+    "https://www.linkedin.com/in/tait-taniguchi",
+    "https://www.linkedin.com/posts/y-combinator_launch-yc-promptarmor-secure-llm-applications-activity-7159244113375109120-uvaI",
+    "https://www.linkedin.com/in/khai-phan",
+    "https://www.linkedin.com/posts/adam-shevell_snowflake-and-promptarmor-partner-on-ai-security-activity-7501693476896428032-5rnA",
+    "https://www.linkedin.com/in/batuhanusluel",
+    "https://www.linkedin.com/products/promptarmor/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:facebook.com Promptarmor",
+   "results": [
+    "https://www.facebook.com/thehackernews/posts/%EF%B8%8F-update-notion-confirms-it-was-impacted-by-the-fireworks-ai-breachnotion-ai-cha/1530985865732658/",
+    "https://www.facebook.com/slashdot/posts/fireworks-ai-says-its-october-breach-was-broader-than-initially-disclosed-with-a/1452513237071754/",
+    "https://www.facebook.com/thehackernews/posts/google-fixed-an-antigravity-ide-flaw-that-enabled-arbitrary-code-execution-via-a/1348186607345919/",
+    "https://www.facebook.com/0xSojalSec/posts/claude-code-is-insanely-powerful-and-thats-exactly-why-indirect-prompt-injection/1460501182270947/",
+    "https://www.facebook.com/9to5mac/posts/claude-cowork-escaped-sandbox-on-mac-gain-full-access-to-all-filessee-link-below/1618527922973899/",
+    "https://www.facebook.com/SlashdotMedia/posts/fireworks-ai-confirms-wider-breach-affecting-notion-ai-chatsfireworks-ai-says-it/1169041602316985/",
+    "https://www.facebook.com/CoSupportAI/posts/all-in-one-ai-platform-behind-the-curtainspart-2-read-how-we-built-it/625677830593732/",
+    "https://www.facebook.com/p/PromptArmor-Intel-61594837323312/",
+    "https://www.facebook.com/tprassociation/photos/register-for-our-upcoming-tprm-tool-demo-day-for-an-inside-look-at-promptarmor-p/691709743550785/",
+    "https://www.facebook.com/promptadventures/videos/heavy-armor/2648001355576733/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Promptarmor note 社長",
+   "results": [
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://x.com/sadaaki",
+    "https://note.com/ai_shacho",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://note.com/note_ir/n/n858393bef18a",
+    "https://www.youtube.com/watch?v=xPafg3yYObE",
+    "https://note.jp/n/nf016d2c0bc2f",
+    "https://diamond.jp/articles/-/388572",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Promptarmor X 投稿",
+   "results": [
+    "https://www.promptarmor.com/",
+    "https://www.snowflake.com/en/blog/engineering/snowflake-promptarmor-ai-security-research0/",
+    "https://arxiv.org/abs/2507.15219",
+    "https://openreview.net/pdf?id=IeNXtofK6T",
+    "https://promptarmor.substack.com/",
+    "https://www.promptarmor.com/resources/data-exfiltration-from-slack-ai-via-indirect-prompt-injection",
+    "https://www.youtube.com/watch?v=sZ8wpN_SBy4",
+    "https://www.nikkei.com/article/DGXZQOGN207K50Q6A120C2000000/",
+    "https://ledge.ai/articles/x_revises_privacy_policy",
+    "https://x.com/PromptArmor"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部27頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部27頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部27頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部27頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部27頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部27頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部27頁・検索12回）"
+ }
+}

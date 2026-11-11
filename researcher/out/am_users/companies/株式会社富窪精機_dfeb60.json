@@ -1,0 +1,646 @@
+{
+ "name": "株式会社富窪精機",
+ "aliases": [],
+ "context": "ipros_all:小ロット",
+ "researched_at": "2026-11-11T13:38:07.646885+00:00",
+ "official_url": "https://www.tomikuboseiki.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表取締役社長",
+    "value": "後藤  直子",
+    "url": "https://www.tomikuboseiki.co.jp/company",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒486-0901 愛知県春日井市牛山町1238",
+    "url": "https://www.tomikuboseiki.co.jp/company",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "愛知県春日井市牛山町1238",
+    "url": "https://eigyo-mfg.com/service/navi/company/6vzW9hnT3F1s",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "・精密ゴム金型の設計製作（防振ゴム、シール、パッキン、グロメット、ホース） ・樹脂ホース金型の設計製作（コルゲート） ・小ロット精密部品加工（航空機、医療、自動車、食品分野向け） ・各種ゲージ・治工具設計製作 ・３Ｄスキャナによるリバースエンジニアリング・計測サービス",
+    "url": "https://www.tomikuboseiki.co.jp/company",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "住友理工株式会社 豊田合成株式会社 日本ガイシ株式会社　ほか30社以上",
+    "url": "https://www.tomikuboseiki.co.jp/company",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "28名",
+    "url": "https://eigyo-mfg.com/service/navi/company/6vzW9hnT3F1s",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "このまま使用を続けると製品の品質低下にも繋がるため、新しい金型の製作を検討していますが、",
+    "url": "https://www.tomikuboseiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金型の設計、製品のモデリングをします",
+    "url": "https://www.tomikuboseiki.co.jp/business",
+    "pass": 1
+   },
+   {
+    "quote": "このまま使用を続けると製品の品質低下にも繋がるため、新しい金型の製作を検討していますが、",
+    "url": "https://www.tomikuboseiki.co.jp/solution",
+    "pass": 1
+   },
+   {
+    "quote": "技術・製品 - 株式会社 富窪精機 愛知県 春日井市",
+    "url": "https://ja.nc-net.or.jp/company/72757/product/?all=1",
+    "pass": 3
+   },
+   {
+    "quote": "技術・製品情報(1)",
+    "url": "https://ja.nc-net.or.jp/company/72757/product/?all=1",
+    "pass": 3
+   },
+   {
+    "quote": "\"精密部品加工\"などを行っており、製品（ゴム）の試作/量産成形も対応可能",
+    "url": "https://mono.ipros.com/product/detail/2000902581/",
+    "pass": 3
+   },
+   {
+    "quote": "■ゴム製品の成型も依頼したい、納入前にトライ・検査がしたい",
+    "url": "https://mono.ipros.com/product/detail/2000902581/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス一覧 (6)",
+    "url": "https://mono.ipros.com/product/detail/2000902581/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・研究開発（建築・土木・プラント・設備）",
+    "url": "https://ja.nc-net.or.jp/company/72757/inquiry/input/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "炭素鋼、合金鋼、調質鋼、高硬度鋼、ステンレス鋼、アルミ合金、銅、樹脂、超耐熱合金、チタン合金",
+    "url": "https://www.tomikuboseiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "炭素鋼、合金鋼、ステンレス鋼、アルミ合金、樹脂等 その他多くの素材にも対応可能です",
+    "url": "https://www.tomikuboseiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "同社は精密ゴム金型および樹脂ホース金型の設計製作を手がけています",
+    "url": "https://eigyo-mfg.com/service/navi/company/6vzW9hnT3F1s",
+    "pass": 3
+   },
+   {
+    "quote": "精密ゴム金型の設計製作、樹脂ホース金型の設計製作、小ロット精密部品加工、各種ゲージ・治工具設計製作、3Dスキャナによるリバースエンジニアリング・計測サービス",
+    "url": "https://eigyo-mfg.com/service/navi/company/6vzW9hnT3F1s",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "通常は試作型が2～3週間、量産金型は1か月程です",
+    "url": "https://www.tomikuboseiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "通常、金型製作は試作型が2～3週間、量産金型は1か月程かかるため短納期の中でも特に短い期間の案件でした",
+    "url": "https://www.tomikuboseiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "試作品の製作と量産を別の会社でお願いしたところ、試作段階では特に問題はなかったが、量産時になり試作との品質が異なることが発覚",
+    "url": "https://www.tomikuboseiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "・小ロット精密部品加工（航空機、医療、自動車、食品分野向け）",
+    "url": "https://www.tomikuboseiki.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "試作品の製作と量産を別の会社でお願いしたところ、試作段階では特に問題はなかったが、量産時になり試作との品質が異なることが発覚",
+    "url": "https://www.tomikuboseiki.co.jp/solution",
+    "pass": 1
+   },
+   {
+    "quote": "通常、金型製作は試作型が2～3週間、量産金型は1か月程かかるため短納期の中でも特に短い期間の案件でした",
+    "url": "https://www.tomikuboseiki.co.jp/solution",
+    "pass": 1
+   },
+   {
+    "quote": "航空機、医療、自動車、食品分野向けの小ロット精密部品加工も提供しています",
+    "url": "https://eigyo-mfg.com/service/navi/company/6vzW9hnT3F1s",
+    "pass": 3
+   },
+   {
+    "quote": "試作品製作から量産まで一貫した体制で、顧客の多様なニーズに応えています",
+    "url": "https://eigyo-mfg.com/service/navi/company/6vzW9hnT3F1s",
+    "pass": 3
+   },
+   {
+    "quote": "精密ゴム金型の設計製作、樹脂ホース金型の設計製作、小ロット精密部品加工、各種ゲージ・治工具設計製作、3Dスキャナによるリバースエンジニアリング・計測サービス",
+    "url": "https://eigyo-mfg.com/service/navi/company/6vzW9hnT3F1s",
+    "pass": 3
+   },
+   {
+    "quote": "\"精密部品加工\"などを行っており、製品（ゴム）の試作/量産成形も対応可能",
+    "url": "https://mono.ipros.com/product/detail/2000902581/",
+    "pass": 3
+   },
+   {
+    "quote": "工法転換｜溶接・組立品をアルミ鋳物で一体化 1個から試作",
+    "url": "https://mono.ipros.com/product/detail/2000902581/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "最新設備と培った技術であらゆる業界のゴム金型・精密金属加工に対応！",
+    "url": "https://www.tomikuboseiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車以外にも航空機や医療、食品などの金型製作や治工具の設計・製作も行っております",
+    "url": "https://www.tomikuboseiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "通常は試作型が2～3週間、量産金型は1か月程です",
+    "url": "https://www.tomikuboseiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金型を3日で製作してほしいとのご要望",
+    "url": "https://www.tomikuboseiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様より、緊急案件につき、どうしても金型を3日で製作してほしいとのご要望がありました",
+    "url": "https://www.tomikuboseiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "通常、金型製作は試作型が2～3週間、量産金型は1か月程かかるため短納期の中でも特に短い期間の案件でした",
+    "url": "https://www.tomikuboseiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "長年の使用により、金型に摩耗や曲がりなどの老朽化が見られるようになってきました",
+    "url": "https://www.tomikuboseiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "このまま使用を続けると製品の品質低下にも繋がるため、新しい金型の製作を検討していますが、",
+    "url": "https://www.tomikuboseiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ゴム金型と金属加工の秘めたる可能性を共に切り拓き",
+    "url": "https://www.tomikuboseiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社では、1977（昭和52）年の創業以来、一貫してゴム金型の設計製作に取り組んでおります",
+    "url": "https://www.tomikuboseiki.co.jp/business",
+    "pass": 1
+   },
+   {
+    "quote": "自動車用防振ゴム・ホース、産業用ゴム、",
+    "url": "https://www.tomikuboseiki.co.jp/business",
+    "pass": 1
+   },
+   {
+    "quote": "航空機、医療、自動車、食品、半導体ほか",
+    "url": "https://www.tomikuboseiki.co.jp/business",
+    "pass": 1
+   },
+   {
+    "quote": "金型の設計、製品のモデリングをします",
+    "url": "https://www.tomikuboseiki.co.jp/business",
+    "pass": 1
+   },
+   {
+    "quote": "今後も挑戦を続け、お客様の期待を超える金型づくりに社員一同邁進してまいります",
+    "url": "https://www.tomikuboseiki.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "・精密ゴム金型の設計製作（防振ゴム、シール、パッキン、グロメット、ホース）",
+    "url": "https://www.tomikuboseiki.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "・小ロット精密部品加工（航空機、医療、自動車、食品分野向け）",
+    "url": "https://www.tomikuboseiki.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "納期厳守が難しい、複雑形状の金型製作",
+    "url": "https://www.tomikuboseiki.co.jp/solution",
+    "pass": 1
+   },
+   {
+    "quote": "お客様はゴム金型製作を得意としておらず、受注してしまったけれど納期もタイトでどうしたらよいだろうか？",
+    "url": "https://www.tomikuboseiki.co.jp/solution",
+    "pass": 1
+   },
+   {
+    "quote": "長年の使用により、金型に摩耗や曲がりなどの老朽化が見られるようになってきました",
+    "url": "https://www.tomikuboseiki.co.jp/solution",
+    "pass": 1
+   },
+   {
+    "quote": "このまま使用を続けると製品の品質低下にも繋がるため、新しい金型の製作を検討していますが、",
+    "url": "https://www.tomikuboseiki.co.jp/solution",
+    "pass": 1
+   },
+   {
+    "quote": "金型を3日で製作してほしいとのご要望",
+    "url": "https://www.tomikuboseiki.co.jp/solution",
+    "pass": 1
+   },
+   {
+    "quote": "お客様より、緊急案件につき、どうしても金型を3日で製作してほしいとのご要望がありました",
+    "url": "https://www.tomikuboseiki.co.jp/solution",
+    "pass": 1
+   },
+   {
+    "quote": "通常、金型製作は試作型が2～3週間、量産金型は1か月程かかるため短納期の中でも特に短い期間の案件でした",
+    "url": "https://www.tomikuboseiki.co.jp/solution",
+    "pass": 1
+   },
+   {
+    "quote": "自動車用ゴム部品の金型製作、機械加工、組付け、調整作業",
+    "url": "https://www.tomikuboseiki.co.jp/recruit",
+    "pass": 1
+   },
+   {
+    "quote": "自動車関連(1)",
+    "url": "https://ja.nc-net.or.jp/company/72757/product/?all=1",
+    "pass": 3
+   },
+   {
+    "quote": "ゴム金型 設計製作 5軸加工 複合…",
+    "url": "https://ja.nc-net.or.jp/company/72757/product/?all=1",
+    "pass": 3
+   },
+   {
+    "quote": "同社は精密ゴム金型および樹脂ホース金型の設計製作を手がけています",
+    "url": "https://eigyo-mfg.com/service/navi/company/6vzW9hnT3F1s",
+    "pass": 3
+   },
+   {
+    "quote": "航空機、医療、自動車、食品分野向けの小ロット精密部品加工も提供しています",
+    "url": "https://eigyo-mfg.com/service/navi/company/6vzW9hnT3F1s",
+    "pass": 3
+   },
+   {
+    "quote": "精密ゴム金型の設計製作、樹脂ホース金型の設計製作、小ロット精密部品加工、各種ゲージ・治工具設計製作、3Dスキャナによるリバースエンジニアリング・計測サービス",
+    "url": "https://eigyo-mfg.com/service/navi/company/6vzW9hnT3F1s",
+    "pass": 3
+   },
+   {
+    "quote": "\"精密ゴム金型設計・製作\"や、\"3Dスキャナによるリバースエンジニアリング\"、",
+    "url": "https://mono.ipros.com/product/detail/2000902581/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、創業以来培ったゴム金型の設計製作をはじめ、精密治具や",
+    "url": "https://mono.ipros.com/product/detail/2000902581/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "3D CAD/CAM",
+    "url": "https://www.tomikuboseiki.co.jp/facility",
+    "pass": 1
+   },
+   {
+    "quote": "3D CAD/CAM",
+    "url": "https://eigyo-mfg.com/service/navi/company/6vzW9hnT3F1s",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "技術・製品 - 株式会社 富窪精機 愛知県 春日井市 — Nov 1, 2019 · 【得意分野】・精密ゴム金型の設計製作（防振ゴム、シール、パッキン、グロメット、ホース）・樹脂ホース金型の設計製作（コルゲート）・小ロット精密部品加工（航空機、医療、自動車分野向け）・各種治工具設計製作・3Dスキャナによるリバース ...",
+    "url": "https://ja.nc-net.or.jp/company/72757/product/?all=1",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社富窪精機 | 加工会社ナビ — 航空機、医療、自動車、食品分野向けの小ロット精密部品加工も提供しています。 5軸加工機を活用し、複雑形状部品の加工に対応しています。 試作品製作から量産まで一貫した体制で、顧客の多様なニーズに応えています。",
+    "url": "https://eigyo-mfg.com/service/navi/company/6vzW9hnT3F1s",
+    "pass": 3
+   },
+   {
+    "quote": "【公式】株式会社富窪精機オフィシャルサイト — このまま使用を続けると製品の品質低下にも繋がるため、新しい金型の製作を検討していますが、 製作には時間やコストが負担となり、なかなか踏み切れず悩んでいるとのご相談でした。",
+    "url": "https://www.tomikuboseiki.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "製品紹介 | 株式会社 富窪精機 — 自動車用ブーツ金型 自動車用フィラーホース金型 かしめ治具 Product 製品実績 エアホース 縦インジェクション 1ヶ取 フィラーホース 縦インジェクション 1ヶ取 エアホース 縦インジェクション 1ヶ取",
+    "url": "https://www.tomikuboseiki.co.jp/result",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 株式会社 富窪精機【公式】株式会社富窪精機オフィシャルサイト株式会社富窪精機 会社概要 富窪精機 | イプロスものづくり株式会社富窪精機 | 加工会社ナビ株式会社富窪精機の会社概要【2026年最新】| SalesNow DB株式会社 富窪精機富窪精機 | 企業情報 | イプロスものづくり — 今後も挑戦を続け、お客様の期待を超える金型づくりに社員一同邁進してまいります。 今後とも一層のご指導を賜りますようお願い申し上げます。 株式会社富窪精機 代表取締役社長 後藤 直子 試作品の製作と量産を別の会社でお願いしたところ、試作段階では特に問題はなかったが、量産時になり試作との品質が異なることが発覚。 何度も調整を重ねるのは、時間やコストの面からも負担とのご相談をいただきました。 株式会社富窪精機は、加工技術の研鑽に励み、お客様の希望を形に、 新しい未来を創り続けます。 \"精密ゴム",
+    "url": "https://www.tomikuboseiki.co.jp/company",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社富窪精機 会社概要 富窪精機 | イプロスものづくり — 株式会社富窪精機は、加工技術の研鑽に励み、お客様の希望を形に、 新しい未来を創り続けます。 \"精密ゴム金型設計・製作\"や、\"3Dスキャナによるリバースエンジニアリング\"、 \"精密部品加工\"などを行っており、製品（ゴム）の試作/量産成形も対応可能。",
+    "url": "https://mono.ipros.com/product/detail/2000902581/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社富窪精機 | 加工会社ナビ — 株式会社富窪精機の 概要 同社は精密ゴム金型および樹脂ホース金型の設計製作を手がけています。 航空機、医療、自動車、食品分野向けの小ロット精密部品加工も提供しています。 5軸加工機を活用し、複雑形状部品の加工に対応しています。",
+    "url": "https://eigyo-mfg.com/service/navi/company/6vzW9hnT3F1s",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社富窪精機の会社概要【2026年最新】| SalesNow DB — Aug 6, 2024 · 株式会社富窪精機 を含む企業リスト 8,626社がヒット 愛知県で正社員規模（推定）20人以上〜50人未満の企業リスト 有料版で全て見る 6,646社がヒット 金型製造の企業リスト",
+    "url": "https://salesnow.jp/db/companies/jcbexcsf778w2y30",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 富窪精機 — （株）富窪精機は、お客様の厳しい納期やコストの要求に応えるために、加工技術、管理体制の研鑽に努めて来ました。 今、その力を生かし、絶え間ない挑戦と顧客の開拓に一層の努力をしています。",
+    "url": "http://www.kagoshima-kigyouka.com/syoukai/tomikubo/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせの確認 | 株式会社富窪精機 — お問い合わせ CONTACT 入力にエラーがあります。 下記をご確認の上「戻る」ボタンにて修正をお願い致します。 【お名前】が未選択です。 【メールアドレス】が未選択です。",
+    "url": "https://www.tomikuboseiki.co.jp/application/themes/tomikuboseiki/mail.php",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 株式会社 富窪精機 愛知県 春日井市 — Nov 1, 2019 · 当社は、会員に対し、会員が登録情報として提供した電子メールアドレス宛に電子メールにより随時必要な事項の通知または連絡を行うものとします。 かかる連絡は、通常電子メールが到達する期間が経過した時に会員に到達したものとします。",
+    "url": "https://ja.nc-net.or.jp/company/72757/inquiry/input/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "お問い合わせ - 株式会社 富窪精機 愛知県 春日井市",
+    "url": "https://ja.nc-net.or.jp/company/72757/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "当社からの連絡に必要な電子メールアドレスを用意してそのアドレスを当社に対して登録すること",
+    "url": "https://ja.nc-net.or.jp/company/72757/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、会員に対し、会員が登録情報として提供した電子メールアドレス宛に電子メールにより随時必要な事項の通知または連絡を行うものとします",
+    "url": "https://ja.nc-net.or.jp/company/72757/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "かかる連絡は、通常電子メールが到達する期間が経過した時に会員に到達したものとします",
+    "url": "https://ja.nc-net.or.jp/company/72757/inquiry/input/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Tomikubo Seiki Co.,Ltd. / 株式会社 富窪精機 | Kasugai-shi Aichi Dec 28, 2021 · 何かと厳しい一年でしたが、来年は今年蒔いた種が少 しずつ芽生える予定です。 来年もどうぞよろしくお願いいたします。 Tomikubo Seiki Co.,Ltd. / 株式会社 富窪精機",
+    "url": "https://www.facebook.com/tomikuboseiki/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tomikuboseiki.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tomikuboseiki.co.jp/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tomikuboseiki.co.jp/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tomikuboseiki.co.jp/facility",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tomikuboseiki.co.jp/solution",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tomikuboseiki.co.jp/recruit",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://kurodaseiki.co.jp/3-3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.nc-net.or.jp/company/72757/product/?all=1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eigyo-mfg.com/service/navi/company/6vzW9hnT3F1s",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/product/detail/2000902581/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eigyo-mfg.com/service/navi/company/6vzW9hnT3F1s",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.nc-net.or.jp/company/72757/inquiry/input/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://takubo.com/mailpro.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.facebook.com/tomikuboseiki/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "富窪精機 取扱製品 試作 小ロット",
+   "results": [
+    "https://kurodaseiki.co.jp/3-3",
+    "https://ja.nc-net.or.jp/company/72757/product/?all=1",
+    "https://eigyo-mfg.com/service/navi/company/6vzW9hnT3F1s",
+    "https://www.tomikuboseiki.co.jp/",
+    "https://www.tomikuboseiki.co.jp/result",
+    "http://www.fukuiseikikogyo.co.jp/product/prototyping.php",
+    "https://kurodaseiki.co.jp/3-0"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "富窪精機 会社概要 事業内容",
+   "results": [
+    "https://www.tomikuboseiki.co.jp/company",
+    "https://mono.ipros.com/product/detail/2000902581/",
+    "https://eigyo-mfg.com/service/navi/company/6vzW9hnT3F1s",
+    "https://salesnow.jp/db/companies/jcbexcsf778w2y30",
+    "http://www.kagoshima-kigyouka.com/syoukai/tomikubo/index.html",
+    "https://mono.ipros.com/company/detail/2083336/",
+    "https://www.tomikuboseiki.co.jp/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "富窪精機 お問い合わせ メール",
+   "results": [
+    "https://www.tomikuboseiki.co.jp/application/themes/tomikuboseiki/mail.php",
+    "https://ja.nc-net.or.jp/company/72757/inquiry/input/",
+    "http://takubo.com/mailpro.html",
+    "https://fuji-seiki.co.jp/contact/",
+    "http://www.asahiseiki.co.jp/form/",
+    "https://www.fujiseiki.com/inquiry/",
+    "https://www.tomikuboseiki.co.jp/contact"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 富窪精機",
+   "results": [
+    "https://note.com/wise_turtle184",
+    "https://note.com/shaftcrafts_ka/n/n1fe6bfb27448",
+    "https://tales.note.com/",
+    "https://note.com/cogito1961/n/nb8449fb6a76f",
+    "https://note.com/schrcat/n/n2419f312dc6f",
+    "https://note.com/3n7no_tech_pr/n/n006cd33c9d9f",
+    "https://note.com/daikoseiki/n/n492c52ad7271"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 富窪精機",
+   "results": [
+    "https://x.com/dmgmorijapan",
+    "https://x.com/kyokutouseiki",
+    "https://x.com/toolyuko",
+    "https://x.com/itscelyunique/status/2117839228826521620",
+    "https://x.com/7571Novel/status/2118844582368833547",
+    "https://x.com/abdulbasitaka/status/2115913589441843427",
+    "https://x.com/kuma_model_pjt/status/2075256228838818100"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 富窪精機",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com 富窪精機",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "富窪精機 note 社長",
+   "results": [
+    "https://www.tomikuboseiki.co.jp/company",
+    "https://compalyze.co.jp/company/2180001074602",
+    "https://houjin.jp/c/2180001074602",
+    "https://www.tomikuboseiki.co.jp/",
+    "https://kanagata-shimbun.com/210514ireportage-tomikuboseiki/",
+    "https://sogno.mobi/company/index_1134406.html",
+    "https://www.facebook.com/shunichi.tomikubo/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "富窪精機 X 投稿",
+   "results": [
+    "https://www.intermold.jp/outline/search_2026_detail/285/",
+    "https://www.tomikuboseiki.co.jp/company",
+    "https://jilbab.twstalker.com/tomikubosaiyou",
+    "https://www.facebook.com/tomikuboseiki/",
+    "https://www.tomikuboseiki.co.jp/",
+    "https://www.youtube.com/@tomikuboseiki",
+    "https://x.com/Un4v5s8bgsVk9Xp"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部8頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部8頁・検索9回）"
+ }
+}

@@ -1,0 +1,823 @@
+{
+ "name": "Materee",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AI送信済み",
+ "researched_at": "2026-11-11T13:40:13.031709+00:00",
+ "official_url": "https://materee.id",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Disclosed funding",
+    "value": "US$ 3.6 M ycombinator.com",
+    "url": "https://1001startup.id/company/materee",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "おすすめのパートナー関係管理（PRM）ソフトウェア5選",
+    "url": "https://webcatalog.io/ja/apps/materee",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーのオンボーディング、トレーニング、案件登録、パフォーマンスを一元管理できる、おすすめのPRMソフトウェア5選",
+    "url": "https://webcatalog.io/ja/apps/materee",
+    "pass": 3
+   },
+   {
+    "quote": "Materee 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/501075-73",
+    "pass": 3
+   },
+   {
+    "quote": "Operator of an e-commerce platform intended to automate the distribution system of construction building materials. The company's platform aims to simplify the construction material procurement process by reducing phone calls, text messages, and back-and-forth updates, enabling contractors to purchase multi-category materials and complete the project hassle-free.",
+    "url": "https://pitchbook.com/profiles/company/501075-73",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/501075-73",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/501075-73",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/501075-73",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/501075-73",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/501075-73",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/501075-73",
+    "pass": 3
+   },
+   {
+    "quote": "Materee’s primary industry is Distributors/Wholesale.",
+    "url": "https://pitchbook.com/profiles/company/501075-73",
+    "pass": 3
+   },
+   {
+    "quote": "Is Materee a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/501075-73",
+    "pass": 3
+   },
+   {
+    "quote": "Materee is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/501075-73",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/501075-73",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/501075-73",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/501075-73",
+    "pass": 3
+   },
+   {
+    "quote": "Construction is one of the most important industries in Indonesia. Despite its importance, procuring raw materials for construction work involves many phone calls, text messages, as well as back and forth communications. Materee aims to transform and simplify construction material procurement process while assisting contractors to focus on the most important activity, completing their projects.",
+    "url": "https://www.ycombinator.com/companies/materee",
+    "pass": 3
+   },
+   {
+    "quote": "Materee: Simplifying construction materials procurement in Indonesia",
+    "url": "https://www.ycombinator.com/companies/materee",
+    "pass": 3
+   },
+   {
+    "quote": "Problem & Target Customer",
+    "url": "https://www.ycombinator.com/companies/materee",
+    "pass": 3
+   },
+   {
+    "quote": "Price seeking & stock availability check still happens manually; typically buyers spend hours or days to compare price & check for stock availability",
+    "url": "https://www.ycombinator.com/companies/materee",
+    "pass": 3
+   },
+   {
+    "quote": "Much-needed credit is expensive because buyers could not reliably provide their credit information",
+    "url": "https://www.ycombinator.com/companies/materee",
+    "pass": 3
+   },
+   {
+    "quote": "Lack of visibility on delivery time; Buyers/contractors need to prepare workers/documents to unload products. This results in lengthy waiting time during delivery",
+    "url": "https://www.ycombinator.com/companies/materee",
+    "pass": 3
+   },
+   {
+    "quote": "Product OOS due to fragmentation and disconnection in the value chain; manufacturers could not accurately produce the right product at the right time and at the right quantity",
+    "url": "https://www.ycombinator.com/companies/materee",
+    "pass": 3
+   },
+   {
+    "quote": "buyers can easily look for & buy construction material products, with real-time pricing & stock availability information",
+    "url": "https://www.ycombinator.com/companies/materee",
+    "pass": 3
+   },
+   {
+    "quote": "to ensure that delivery is on-time and to provide delivery visibility in real-time",
+    "url": "https://www.ycombinator.com/companies/materee",
+    "pass": 3
+   },
+   {
+    "quote": "to provide personalized credit offerings based on buyers’ information, for example, buyers’ transactions & payment history",
+    "url": "https://www.ycombinator.com/companies/materee",
+    "pass": 3
+   },
+   {
+    "quote": "to strategically connect us with manufacturers and provide more accurate demand planning.",
+    "url": "https://www.ycombinator.com/companies/materee",
+    "pass": 3
+   },
+   {
+    "quote": "that produces Construction Material products that are",
+    "url": "https://www.ycombinator.com/companies/materee",
+    "pass": 3
+   },
+   {
+    "quote": "https://materee.id/products",
+    "url": "https://1001startup.id/company/materee",
+    "pass": 3
+   },
+   {
+    "quote": "Materee Stock Price, Funding, Valuation, Revenue & Financial Statements",
+    "url": "https://www.cbinsights.com/company/materee/financials",
+    "pass": 3
+   },
+   {
+    "quote": "Valuations are submitted by companies, mined from state filings or news, provided by VentureSource, or based on a comparables valuation model.",
+    "url": "https://www.cbinsights.com/company/materee/financials",
+    "pass": 3
+   },
+   {
+    "quote": "Brik deals with B2B industrial materials that develop concrete and paint. It sells products directly to users, avoiding middlemen, and works on establishing distribution channels for its products. It was founded in 2022 and is based in Jakarta, Indonesia.",
+    "url": "https://www.cbinsights.com/company/materee/financials",
+    "pass": 3
+   },
+   {
+    "quote": "Bildeco is an e-commerce platform specializing in building materials within the construction industry. The company offers a variety of products including polycarbonate roofing solutions and provides services such as painting for buildings and renovation tips. Bildeco primarily caters to small and medium-sized construction companies. It was founded in 2017 and is based in Jakarta, Indonesia.",
+    "url": "https://www.cbinsights.com/company/materee/financials",
+    "pass": 3
+   },
+   {
+    "quote": "permits us to improve and customize your experience. You can read more about your",
+    "url": "https://www.cbinsights.com/company/materee/financials",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/materee.id",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/materee.id",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Industrial Supplies and Parts",
+    "url": "https://pitchbook.com/profiles/company/501075-73",
+    "pass": 3
+   },
+   {
+    "quote": "Product OOS due to fragmentation and disconnection in the value chain; manufacturers could not accurately produce the right product at the right time and at the right quantity",
+    "url": "https://www.ycombinator.com/companies/materee",
+    "pass": 3
+   },
+   {
+    "quote": "to strategically connect us with manufacturers and provide more accurate demand planning.",
+    "url": "https://www.ycombinator.com/companies/materee",
+    "pass": 3
+   },
+   {
+    "quote": "- Hansel (CEO); B2B industry & commercial expert with 10+ years of experience in Strategy (BCG), Sales, and Operations, including in Construction and Manufacturing industries.",
+    "url": "https://www.ycombinator.com/companies/materee",
+    "pass": 3
+   },
+   {
+    "quote": "Know any Manufacturer",
+    "url": "https://www.ycombinator.com/companies/materee",
+    "pass": 3
+   },
+   {
+    "quote": "Brik deals with B2B industrial materials that develop concrete and paint. It sells products directly to users, avoiding middlemen, and works on establishing distribution channels for its products. It was founded in 2022 and is based in Jakarta, Indonesia.",
+    "url": "https://www.cbinsights.com/company/materee/financials",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/501075-73",
+    "pass": 3
+   },
+   {
+    "quote": "Materee has 34 total employees.",
+    "url": "https://pitchbook.com/profiles/company/501075-73",
+    "pass": 3
+   },
+   {
+    "quote": "What is Materee’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/501075-73",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Materee is",
+    "url": "https://pitchbook.com/profiles/company/501075-73",
+    "pass": 3
+   },
+   {
+    "quote": "Hansel was a Senior VP of Strategy & Revenue at GudangAda (Sequoia-funded B2B e-commerce startup in Indonesia that has raised more than $130m) and a BCG consultant focusing on construction value chain. He completed his MBA from MIT Sloan School of Management.",
+    "url": "https://www.ycombinator.com/companies/materee",
+    "pass": 3
+   },
+   {
+    "quote": "23 employees × Rp 750 million of value added per worker — the Commerce anchor",
+    "url": "https://1001startup.id/company/materee",
+    "pass": 3
+   },
+   {
+    "quote": "Output is gross value added — what the company adds to GDP: the part of what it earns that it creates itself, after taking out everything it buys in from other firms. Revenue is a bigger number, and the wage bill is one component of this one. Nobody publishes value added, so the census estimates it from headcount and a BPS sector anchor; funding, valuation and GMV never enter.",
+    "url": "https://1001startup.id/company/materee",
+    "pass": 3
+   },
+   {
+    "quote": "Materee Stock Price, Funding, Valuation, Revenue & Financial Statements",
+    "url": "https://www.cbinsights.com/company/materee/financials",
+    "pass": 3
+   },
+   {
+    "quote": "Funding, Valuation & Revenue",
+    "url": "https://www.cbinsights.com/company/materee/financials",
+    "pass": 3
+   },
+   {
+    "quote": "Materee Revenue 2024: $3M Est.",
+    "url": "https://getlatka.com/companies/materee.id",
+    "pass": 3
+   },
+   {
+    "quote": "Materee has not published its revenue. GetLatka estimates it at about $3M a year (June 2024).",
+    "url": "https://getlatka.com/companies/materee.id",
+    "pass": 3
+   },
+   {
+    "quote": "Materee CEO, founders & employees",
+    "url": "https://getlatka.com/companies/materee.id",
+    "pass": 3
+   },
+   {
+    "quote": "Hansel Hansel founded Materee in 2022 and runs it as CEO. Materee had 20 employees (June 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/materee.id",
+    "pass": 3
+   },
+   {
+    "quote": "What is Materee's revenue?",
+    "url": "https://getlatka.com/companies/materee.id",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Materee's revenue at about",
+    "url": "https://getlatka.com/companies/materee.id",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Materee have?",
+    "url": "https://getlatka.com/companies/materee.id",
+    "pass": 3
+   },
+   {
+    "quote": "employees in June 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/materee.id",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/materee.id",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/materee.id",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/materee.id",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/501075-73",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Mac・Windows・Linux向けMateree - WebCatalog — MatereeのデスクトップアプリをMac、Windows、Linux向けにダウンロード。 Matereeは、インドネシアの建設業者向けに資材調達を簡素化し、請負業者とサプライヤーを接続するeコマースプラットフォームです。",
+    "url": "https://webcatalog.io/ja/apps/materee",
+    "pass": 3
+   },
+   {
+    "quote": "Materee: インドネシアの建築資材向けeコマースプラットフォーム — Matereeはインドネシアの建設資材向けeコマースプラットフォームです。 資材調達を簡素化し、請負業者をプロジェクト完了に集中させます。 オンライン調達 請負業者管理 プロジェクト管理ツール ウェブサイトを訪問 プロモーション",
+    "url": "https://huntscreens.com/ja/products/materee",
+    "pass": 3
+   },
+   {
+    "quote": "Materee 2026 Company Profile: Valuation, Funding & Investors ... — Information on valuation, funding, cap tables, investors, and executives for Materee. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/501075-73",
+    "pass": 3
+   },
+   {
+    "quote": "Materee - LinkedIn — Materee aims to transform & simplify construction material procurement process in Indonesia.",
+    "url": "https://www.linkedin.com/company/materee-ycs22",
+    "pass": 3
+   },
+   {
+    "quote": "Materee.id — Tim Materee akan menghubungi anda untuk memberikan ketersediaan produknya. Setelah produk dan harga dikonfirmasi, tim kami akan mengirimkan produk anda.",
+    "url": "https://www.materee.co/",
+    "pass": 3
+   },
+   {
+    "quote": "How Materee is Building Success in Indonesia's Construction ... — Materee operates as an e-commerce platform specifically designed for the construction materials sector in Indonesia. Recognizing the critical role of construction in the Indonesian economy, Materee addresses the inefficiencies prevalent in traditional procurement processes.",
+    "url": "https://reforgers.com/startups/materee",
+    "pass": 3
+   },
+   {
+    "quote": "Materee: E-commerce platform for construction materials in ... — Materee is an e-commerce platform for construction materials in Indonesia. Construction is one of the most important industries in Indonesia. Despite its importance, procuring raw materials for construction work involves many phone calls, text messages, as well as back and forth communications.",
+    "url": "https://www.ycombinator.com/companies/materee",
+    "pass": 3
+   },
+   {
+    "quote": "Materee.id — Tim Materee akan menghubungi anda untuk memberikan ketersediaan produknya. Setelah produk dan harga dikonfirmasi, tim kami akan mengirimkan produk anda.",
+    "url": "https://www.materee.id/",
+    "pass": 3
+   },
+   {
+    "quote": "Materee 2026 Company Profile: Valuation, Funding & Investors ...Materee — founders, funding, valuation — 1001startup.idMateree Stock Price, Funding, Valuation, Revenue & Financial ...Materee Revenue 2024: $3M Est. - getlatka.comMateree - 2025 Company Profile, Team, Funding & Competitors ...Materee - Products, Competitors, Financials, Employees ...How Materee hit $3M revenue with a 20 person team i",
+    "url": "https://pitchbook.com/profiles/company/501075-73",
+    "pass": 3
+   },
+   {
+    "quote": "Materee — founders, funding, valuation — 1001startup.id — Oct 29, 2026 · According to the 1001startup.id census (updated 29 Oct 2026), Materee was founded by Hansel Hansel and Steven Walentino in 2022; has 23 employees on record (read 2026-08-29); disclosed funding of US$3.6M; its head office is in Jakarta Pusat.",
+    "url": "https://1001startup.id/company/materee",
+    "pass": 3
+   },
+   {
+    "quote": "Materee Stock Price, Funding, Valuation, Revenue & Financial ... — See Materee funding rounds, investors, investments, exits and more. Evaluate their financials based on Materee's post-money valuation and revenue.",
+    "url": "https://www.cbinsights.com/company/materee/financials",
+    "pass": 3
+   },
+   {
+    "quote": "Materee Revenue 2024: $3M Est. - getlatka.com — Aug 10, 2026 · How many employees does Materee have? Materee had 20 employees in June 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/materee.id",
+    "pass": 3
+   },
+   {
+    "quote": "Materee - 2025 Company Profile, Team, Funding & Competitors ...Materee - Products, Competitors, Financials, Employees ...How Materee hit $3M revenue with a 20 person team in 2024. — Jul 31, 2025 · Materee is a seed company based in Tangerang (Indonesia), founded in 2022 by Steven Walentino and Hansel Hansel. It operates as an Online platform for buying construction materials. DealStreetAsia has le",
+    "url": "https://tracxn.com/d/companies/materee/__alvoA2zlHJwxiJ9OjUkzJwtitkOwQmiY8oDJqQRZaVs",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Materee - LinkedIn Materee | 1,135 followers on LinkedIn. Construction Digital Platform | Construction is one of the most important industry in Indonesia. Despite its importance, procuring raw materials for ...",
+    "url": "https://www.linkedin.com/company/materee-ycs22",
+    "pass": 3
+   },
+   {
+    "quote": "Hansel Hansel - Co-Founder & CEO, Materee (YC S22) | ex-BCG ... Co-Founder & CEO, Materee (YC S22) | ex-BCG | MIT Sloan · I run Materee (YC S22), a building materials distribution company. We've scaled from a single location to a multi-region network ...",
+    "url": "https://www.linkedin.com/in/hansel-hansel",
+    "pass": 3
+   },
+   {
+    "quote": "Alika Shalsa M. - Talent Acquisition at PT Materee Nusantara ... Talent Acquisition at PT Materee Nusantara Utama · I am a Psychology graduate with experience in recruitment. I have a proven track record in sourcing, assessing, and selecting top talent across various industries. Proficient in applying psychological principles to enhance recruitment strategies and ensure optimal candidate alignment",
+    "url": "https://id.linkedin.com/in/alika-shalsa-m-596564220",
+    "pass": 3
+   },
+   {
+    "quote": "Wafieq Haririe - Marketing Executive di PT.materee Nusantara ... Marketing Executive di PT.materee Nusantara utama · Pengalaman: PT.materee Nusantara utama · Lokasi: 36124 · Lihat profil Wafieq Haririe di LinkedIn, komunitas profesional yang terdiri dari 1 miliar anggota.",
+    "url": "https://id.linkedin.com/in/wafieq-haririe-08769a449",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Materee | Tangerang - Facebook Aug 15, 2022 · Materee, Tangerang. 141 followers · 1 was here. PT. Materee Nusantara Utama adalah perusahaan dagang berfokus di bidang distribusi bahan bangunan.",
+    "url": "https://www.facebook.com/p/Materee-100082150043601/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "@materee_id | X The latest posts from @materee_id",
+    "url": "https://x.com/materee_id",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://materee.id/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://webcatalog.io/ja/apps/materee",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://huntscreens.com/ja/products/materee",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/501075-73",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153268.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kuonitumlare.com/ja/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shop.laterre.com/collections/laterre",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.mercari.com/en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maturetube.tv/japanese-mature/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/company/materee-ycs22",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mat6tube.com/video/japanese+mature",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://azure.microsoft.com/en-us/resources/customer-stories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://reforgers.com/startups/materee",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/materee",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mckinsey.com/about-us/case-studies",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://upcloud.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/501075-73",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://1001startup.id/company/materee",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/materee/financials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/materee.id",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/materee-ycs22",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/hansel-hansel",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://id.linkedin.com/in/alika-shalsa-m-596564220",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://id.linkedin.com/in/wafieq-haririe-08769a449",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Materee-100082150043601/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/materee_id",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Materee 日本 導入",
+   "results": [
+    "https://webcatalog.io/ja/apps/materee",
+    "https://huntscreens.com/ja/products/materee",
+    "https://pitchbook.com/profiles/company/501075-73",
+    "https://car.watch.impress.co.jp/docs/news/2153268.html",
+    "https://www.proofpoint.com/jp/blog/cyberthreats/dmarc-adoption-industry-japan-us-2026",
+    "https://madree.jp/",
+    "https://carislife.hatenablog.com/entry/20261110/1794304800",
+    "https://generator.co.jp/metoree/",
+    "https://www.jshem.or.jp/gui-hemali/1_3.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Materee 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.kuonitumlare.com/ja/about-us",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://shop.laterre.com/collections/laterre",
+    "https://midea-japan.com/",
+    "https://www.u-blox.com/en/about-us/sales-network-offices/japan-2",
+    "https://www.smith-nephew.com/contact-us/companyinfo"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Materee Japan",
+   "results": [
+    "https://jp.mercari.com/en",
+    "https://www.maturetube.tv/japanese-mature/",
+    "https://www.linkedin.com/company/materee-ycs22",
+    "https://mat6tube.com/video/japanese+mature",
+    "https://www.materee.co/",
+    "https://www.youtube.com/watch?v=ha52oqLN45o",
+    "https://www.wayfinder.com/company/materee"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Materee manufacturing customer case study",
+   "results": [
+    "https://azure.microsoft.com/en-us/resources/customer-stories/",
+    "https://reforgers.com/startups/materee",
+    "https://www.ycombinator.com/companies/materee",
+    "https://www.mckinsey.com/about-us/case-studies",
+    "https://www.materee.id/",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://materee.id/case-studies",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Materee white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://upcloud.com/partner-program/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.gohighlevel.com/",
+    "https://www.thenationalcouncil.org/get-involved/partner-with-us/partnership-program/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Materee founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/501075-73",
+    "https://1001startup.id/company/materee",
+    "https://www.cbinsights.com/company/materee/financials",
+    "https://getlatka.com/companies/materee.id",
+    "https://tracxn.com/d/companies/materee/__alvoA2zlHJwxiJ9OjUkzJwtitkOwQmiY8oDJqQRZaVs",
+    "https://www.cbinsights.com/company/materee",
+    "https://getlatka.com/companies/materee.id/funding"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Materee",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/sumirekeiba",
+    "https://note.com/gamma0/n/n1684ec139187",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/keizokuramoto/n/nef2f6f1c855d",
+    "https://note.com/hamuchan_paku/n/nbcc309599688"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Materee",
+   "results": [
+    "https://x.com/MatureXo",
+    "https://x.com/woong__218/status/2120430831344746698",
+    "https://x.com/hashtag/mature",
+    "https://x.com/maturebuffon/status/2119756787234590971",
+    "https://x.com/USAmbUN/status/2115140092738294208",
+    "https://x.com/hashtag/maturedating",
+    "https://x.com/donne_mature",
+    "https://x.com/Seniordating70"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:linkedin.com Materee",
+   "results": [
+    "https://www.linkedin.com/company/materee-ycs22",
+    "https://www.linkedin.com/in/hansel-hansel",
+    "https://id.linkedin.com/in/alika-shalsa-m-596564220",
+    "https://id.linkedin.com/in/wafieq-haririe-08769a449",
+    "https://www.linkedin.com/in/materies",
+    "https://www.linkedin.com/posts/materee-ycs22_ycombinator-yc-materee-activity-6952087148481118208-vq3z",
+    "https://www.linkedin.com/company/materie-home"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Materee",
+   "results": [
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/p/Materee-100082150043601/",
+    "https://www.facebook.com/p/Mature-milfs-61560462188066/",
+    "https://www.facebook.com/groups/1348651510404058/",
+    "https://www.facebook.com/p/Love-Mature-Women-61560145771825/",
+    "https://www.facebook.com/p/Rich-Mature-Women-61558495917219/",
+    "https://apps.facebook.com/watch/",
+    "https://www.facebook.com/Materee-100082150043601/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Materee note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.com/sadaaki",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Materee X 投稿",
+   "results": [
+    "https://x.com/materee_id",
+    "https://x.com/maretu01",
+    "https://jp.xhamster.com/search/素人投稿+無修正流出",
+    "https://www.maturetube.com/ja/category/japanese-homemade",
+    "https://jp.xhamster.com/videos/vintage-japanese-homemade-9514259",
+    "https://jp.xhamster.com/videos/a-mature-amature-japanese-couple-home-made-video-9128647",
+    "https://x.com/meiritougao",
+    "https://kelu.jp/u/maturexteen",
+    "https://fuskator.me/12416-chinese-mature-52-photos.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 9
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部30頁・検索12回）"
+ }
+}

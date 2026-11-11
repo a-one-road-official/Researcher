@@ -1,0 +1,575 @@
+{
+ "name": "東京プロト株式会社 日吉工場",
+ "aliases": [],
+ "context": "ipros_all:小ロット",
+ "researched_at": "2026-11-11T13:14:52.084731+00:00",
+ "official_url": "http://www.tokyoproto.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表取締役社長",
+    "value": "山田 丈仁郎",
+    "url": "https://www.tokyoproto.co.jp/about-us/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "〒222-0001　神奈川県横浜市港北区樽町3-1-1 電話 045-543-0141",
+    "url": "https://www.tokyoproto.co.jp/about-us/",
+    "pass": 1
+   }
+  ],
+  "拠点": [
+   {
+    "label": "横浜工場",
+    "value": "〒222-0002　神奈川県横浜市港北区師岡町821-22 電話 045-540-4911（代表）",
+    "url": "https://www.tokyoproto.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "label": "日吉工場",
+    "value": "〒223-0051　神奈川県横浜市港北区箕輪町2-15-7 電話 045-562-9881",
+    "url": "https://www.tokyoproto.co.jp/about-us/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "プラスチック真空成形品の設計、製造 射出成形品の製造 真空成形用金型加工 プレス打ち抜き加工",
+    "url": "https://www.tokyoproto.co.jp/about-us/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "東京プロトは、設計・金型・製造まで一貫した設備で、ご満足頂ける製品づくりをご提案致します",
+    "url": "https://www.tokyoproto.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体、精密部品関連製品",
+    "url": "https://www.tokyoproto.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "東京プロトは、設計・金型・製造まで一貫した設備で、ご満足頂ける製品づくりをご提案致します",
+    "url": "https://www.tokyoproto.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "主に製品を収納し、工程内トレー、搬送用トレーとしてご利用頂いております",
+    "url": "https://www.tokyoproto.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体、精密部品関連製品",
+    "url": "https://www.tokyoproto.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "機器内部材製品、導電成形品、耐熱成形品",
+    "url": "https://www.tokyoproto.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "物流関連製品、導電真空成形トレイ、透明帯電防止トレイ、耐衝撃設計、リターナブルトレイ、ワンウェイトレイ",
+    "url": "https://www.tokyoproto.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "ブリスターパック、金属加工部品、樹脂加工品、樹脂モデル、段プラ製品、打抜き製品、紙加工製品、各種包装資材",
+    "url": "https://www.tokyoproto.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "東京プロトは、設計・金型・製造まで一貫した設備で、ご満足頂ける製品づくりをご提案致します",
+    "url": "https://www.tokyoproto.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "東京プロトは、設計・金型・製造まで一貫した設備で、ご満足頂ける製品づくりをご提案致します",
+    "url": "https://www.tokyoproto.co.jp/about-us/branch/",
+    "pass": 1
+   },
+   {
+    "quote": "東京プロトは、設計・金型・製造まで一貫した設備で、ご満足頂ける製品づくりをご提案致します",
+    "url": "https://www.tokyoproto.co.jp/about-us/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Under Shock（アンダーショック） | 製品情報 | 東京プロト株式会社",
+    "url": "https://www.tokyoproto.co.jp/product/under_shock/",
+    "pass": 1
+   },
+   {
+    "quote": "東京プロトは、設計・金型・製造まで一貫した設備で、ご満足頂ける製品づくりをご提案致します",
+    "url": "https://www.tokyoproto.co.jp/product/under_shock/",
+    "pass": 1
+   },
+   {
+    "quote": "真空成形と射出成形 | 製品情報 | 東京プロト株式会社",
+    "url": "https://www.tokyoproto.co.jp/product/shinku-shasyutu/",
+    "pass": 1
+   },
+   {
+    "quote": "東京プロトは、設計・金型・製造まで一貫した設備で、ご満足頂ける製品づくりをご提案致します",
+    "url": "https://www.tokyoproto.co.jp/product/shinku-shasyutu/",
+    "pass": 1
+   },
+   {
+    "quote": "真空成形後、外周等をダイプレスで打ち抜き加工し、製品（成形品）と不要部分を分離します",
+    "url": "https://www.tokyoproto.co.jp/product/shinku-shasyutu/",
+    "pass": 1
+   },
+   {
+    "quote": "成形・裁断後のシートをダイプレス上の抜型にセット→ダイプレス作動・打抜き→製品取り出し",
+    "url": "https://www.tokyoproto.co.jp/product/shinku-shasyutu/",
+    "pass": 1
+   },
+   {
+    "quote": "真空成形のメリット | 製品情報 | 東京プロト株式会社",
+    "url": "https://www.tokyoproto.co.jp/product/merit/",
+    "pass": 1
+   },
+   {
+    "quote": "東京プロトは、設計・金型・製造まで一貫した設備で、ご満足頂ける製品づくりをご提案致します",
+    "url": "https://www.tokyoproto.co.jp/product/merit/",
+    "pass": 1
+   },
+   {
+    "quote": "軽量化が必要な製品の部品としてはもちろん、例えば、保管用や搬送用ケースなどに採用すると大幅な減量につながります",
+    "url": "https://www.tokyoproto.co.jp/product/merit/",
+    "pass": 1
+   },
+   {
+    "quote": "製品クオリティの高さでは、各方面から信頼をいただいています",
+    "url": "https://www.tokyoproto.co.jp/product/merit/",
+    "pass": 1
+   },
+   {
+    "quote": "東京プロトは、設計・金型・製造まで一貫した設備で、ご満足頂ける製品づくりをご提案致します",
+    "url": "https://www.tokyoproto.co.jp/machine/",
+    "pass": 1
+   },
+   {
+    "quote": "東京プロトは、設計・金型・製造まで一貫した設備で、ご満足頂ける製品づくりをご提案致します",
+    "url": "https://www.tokyoproto.co.jp/about-us/qm-em/",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "東京プロトは、設計・金型・製造まで一貫した設備で、ご満足頂ける製品づくりをご提案致します",
+    "url": "https://www.tokyoproto.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体、精密部品関連製品",
+    "url": "https://www.tokyoproto.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "東京プロトは、設計・金型・製造まで一貫した設備で、ご満足頂ける製品づくりをご提案致します",
+    "url": "https://www.tokyoproto.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "ご使用工程中の自動ラインやロボット対応(＝高精度)、静電気防止、耐熱、発塵の少ない材質等、お客様のご要望に沿って設計し、ご提案致します",
+    "url": "https://www.tokyoproto.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体、精密部品関連製品",
+    "url": "https://www.tokyoproto.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体トレー、精密部品トレー、精密真空成形トレー、工程内導電トレー、エンボステープ、押出しマガジン",
+    "url": "https://www.tokyoproto.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "医療用真空成形トレー(透明、着色)",
+    "url": "https://www.tokyoproto.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "工業用治具・部品、キャップ、小物容器、トレイ",
+    "url": "https://www.tokyoproto.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "東京プロトは、設計・金型・製造まで一貫した設備で、ご満足頂ける製品づくりをご提案致します",
+    "url": "https://www.tokyoproto.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "東京プロトは、設計・金型・製造まで一貫した設備で、ご満足頂ける製品づくりをご提案致します",
+    "url": "https://www.tokyoproto.co.jp/about-us/branch/",
+    "pass": 1
+   },
+   {
+    "quote": "東京プロトは、設計・金型・製造まで一貫した設備で、ご満足頂ける製品づくりをご提案致します",
+    "url": "https://www.tokyoproto.co.jp/about-us/history/",
+    "pass": 1
+   },
+   {
+    "quote": "東京プロトは、設計・金型・製造まで一貫した設備で、ご満足頂ける製品づくりをご提案致します",
+    "url": "https://www.tokyoproto.co.jp/product/under_shock/",
+    "pass": 1
+   },
+   {
+    "quote": "真空成形の金型に設置するだけで、追加設備不要のため安価に実現",
+    "url": "https://www.tokyoproto.co.jp/product/under_shock/",
+    "pass": 1
+   },
+   {
+    "quote": "東京プロトは、設計・金型・製造まで一貫した設備で、ご満足頂ける製品づくりをご提案致します",
+    "url": "https://www.tokyoproto.co.jp/product/shinku-shasyutu/",
+    "pass": 1
+   },
+   {
+    "quote": "真空成形(成型)と射出成形(成型)の概要とプラスチック・樹脂材料、金型・試作型の一例を東京プロトの自社工場動画とあわせてご紹介します",
+    "url": "https://www.tokyoproto.co.jp/product/shinku-shasyutu/",
+    "pass": 1
+   },
+   {
+    "quote": "東京プロトは、設計・金型・製造まで一貫した設備で、ご満足頂ける製品づくりをご提案致します",
+    "url": "https://www.tokyoproto.co.jp/product/merit/",
+    "pass": 1
+   },
+   {
+    "quote": "東京プロトは、設計・金型・製造まで一貫した設備で、ご満足頂ける製品づくりをご提案致します",
+    "url": "https://www.tokyoproto.co.jp/machine/",
+    "pass": 1
+   },
+   {
+    "quote": "東京プロトは、設計・金型・製造まで一貫した設備で、ご満足頂ける製品づくりをご提案致します",
+    "url": "https://www.tokyoproto.co.jp/about-us/qm-em/",
+    "pass": 1
+   },
+   {
+    "quote": "2020年4月-5月COVID-19対策としてフェイスシールドを医療機関・介護施設・教育現場に寄贈しました",
+    "url": "https://www.tokyoproto.co.jp/about-us/qm-em/",
+    "pass": 1
+   },
+   {
+    "quote": "自動化ライン対応トレイ及び治具の設計・製作やアンダーショック開発などを通じて貢献しています",
+    "url": "https://www.tokyoproto.co.jp/about-us/qm-em/",
+    "pass": 1
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "ご使用工程中の自動ラインやロボット対応(＝高精度)、静電気防止、耐熱、発塵の少ない材質等、お客様のご要望に沿って設計し、ご提案致します",
+    "url": "https://www.tokyoproto.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "ブリスターパック、金属加工部品、樹脂加工品、樹脂モデル、段プラ製品、打抜き製品、紙加工製品、各種包装資材",
+    "url": "https://www.tokyoproto.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "真空成形(成型)と射出成形(成型)の概要とプラスチック・樹脂材料、金型・試作型の一例を東京プロトの自社工場動画とあわせてご紹介します",
+    "url": "https://www.tokyoproto.co.jp/product/shinku-shasyutu/",
+    "pass": 1
+   },
+   {
+    "quote": "真空成形機でシート状の樹脂材料を加熱し、真空引きして型に密着させて形にします",
+    "url": "https://www.tokyoproto.co.jp/product/shinku-shasyutu/",
+    "pass": 1
+   },
+   {
+    "quote": "ポリスチレン(PS)、非結晶ポリエチレンテレフタレート(A-PET)、ポリプロピレン(PP)、ポリエチレン(PE)、ポリカーボネート(PC)、ABS樹脂(ABS)、アクリル樹脂(PMMA)等",
+    "url": "https://www.tokyoproto.co.jp/product/shinku-shasyutu/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ型(切削・鋳物)、樹脂型(ケミカルウッド・エポキシ系)、木型、石膏型等用途に合わせて最適な素材を選択できます",
+    "url": "https://www.tokyoproto.co.jp/product/shinku-shasyutu/",
+    "pass": 1
+   },
+   {
+    "quote": "射出成形機で粒状の樹脂材料を加熱・溶融し、圧力で型に押し込んで形にします",
+    "url": "https://www.tokyoproto.co.jp/product/shinku-shasyutu/",
+    "pass": 1
+   },
+   {
+    "quote": "PP樹脂は、一般に収縮が大きく精度が出にくいものですが、東京プロトでは寸法公差±0.01mm、同心度10μmを大ロット量産品で安定的に実現しています",
+    "url": "https://www.tokyoproto.co.jp/product/shinku-shasyutu/",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチック樹脂・射出成形品の射出成型機による成型工程の動画",
+    "url": "https://www.tokyoproto.co.jp/product/shinku-shasyutu/",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "真空成形(成型)と射出成形(成型)の概要とプラスチック・樹脂材料、金型・試作型の一例を東京プロトの自社工場動画とあわせてご紹介します",
+    "url": "https://www.tokyoproto.co.jp/product/shinku-shasyutu/",
+    "pass": 1
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "3Dプリンター Zortrax M200 Plus",
+    "url": "https://www.tokyoproto.co.jp/machine/",
+    "pass": 1
+   },
+   {
+    "quote": "(2D/3D)CAD、CAD/CAM など",
+    "url": "https://www.tokyoproto.co.jp/machine/",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tokyoproto.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyoproto.co.jp/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyoproto.co.jp/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyoproto.co.jp/about-us/branch/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyoproto.co.jp/about-us/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyoproto.co.jp/product/under_shock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyoproto.co.jp/product/shinku-shasyutu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyoproto.co.jp/product/merit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyoproto.co.jp/machine/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyoproto.co.jp/about-us/qm-em/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.tokyoproto.co.jp/wp-content/uploads/2018/04/seihin-buzai.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.tokyoproto.co.jp/wp-content/uploads/2018/04/seihin-butsuryuu.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/company/detail/19062/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/19062/catalog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/19062/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baseconnect.in/branch_offices/dec2be5a-d023-4e78-a891-5c4d6224d663",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "東京プロト 日吉工場 取扱製品 試作 小ロット",
+   "results": [
+    "https://mono.ipros.com/company/detail/19062/",
+    "https://www.tokyoproto.co.jp/",
+    "https://mono.ipros.com/company/detail/19062/catalog/",
+    "https://www.tokyoproto.co.jp/product/",
+    "https://www.protech-japan.jp/",
+    "https://rockykasei.co.jp/lp1/",
+    "https://www.protech-japan.jp/products/casting/mould.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "東京プロト 日吉工場 会社概要 事業内容",
+   "results": [
+    "https://www.tokyoproto.co.jp/about-us/",
+    "https://www.tokyoproto.co.jp/about-us/branch/",
+    "https://mono.ipros.com/company/detail/19062/",
+    "https://mono.ipros.com/en/company/detail/19062/",
+    "https://www.atengineer.com/pr/atsight-tokyoproto/company",
+    "https://www.topro.tv/company.htm",
+    "https://www.proto-g.co.jp/proto/outline.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "東京プロト 日吉工場 お問い合わせ メール",
+   "results": [
+    "https://www.tokyoproto.co.jp/contact/",
+    "https://www.tokyoproto.co.jp/",
+    "https://baseconnect.in/branch_offices/dec2be5a-d023-4e78-a891-5c4d6224d663",
+    "https://ja.nc-net.or.jp/company/72803/inquiry/",
+    "https://www.tokyo-pt.co.jp/contact",
+    "http://pro-trust.co.jp/contact/",
+    "https://www.proto-g.co.jp/inquiry_n/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 東京プロト 日吉工場",
+   "results": [
+    "https://note.com/tag/東京ミルクチーズ工場",
+    "https://note.com/protoout/n/n5196e420544e",
+    "https://note.com/osushi30/n/ne5091d5a1399",
+    "https://note.com/proto_b/n/na59798d3be7a",
+    "https://note.com/loyal_broom7299/n/nf1e904e82096",
+    "https://note.com/common_news/n/n9bac851feedf",
+    "https://note.com/keioup/n/nba0855c95cb9"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 東京プロト 日吉工場",
+   "results": [
+    "https://x.com/hiro1218435/status/2101272007971414178",
+    "https://x.com/plotwork_0823",
+    "https://x.com/plot_p2",
+    "https://x.com/hiro1218435/status/2086559433229045826",
+    "https://x.com/plot_p4",
+    "https://x.com/s0xkdJbqDqlbzlK/status/2108574606726664489",
+    "https://x.com/plot_touring/status/1769483931383136519"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 東京プロト 日吉工場",
+   "results": [
+    "https://jp.linkedin.com/company/proto-g",
+    "https://jp.linkedin.com/in/有-大迫-7543ab108",
+    "https://www.linkedin.com/jobs/日吉工場レイアウト-jobs",
+    "https://ro.linkedin.com/in/ana-cristina-varga-0376257b",
+    "https://www.linkedin.com/in/julian-croonenberghs",
+    "https://pk.linkedin.com/in/abu-bakr-aman-46818b38a",
+    "https://au.linkedin.com/in/phillip-holding-b28a645a"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 東京プロト 日吉工場",
+   "results": [
+    "https://www.facebook.com/tokyoproto/",
+    "https://www.facebook.com/tokyoproto/posts/3922021334520623/",
+    "https://www.facebook.com/office.kataya/",
+    "https://www.facebook.com/tokyoproto/posts/東京プロトのご紹介-事業所真空成形射出成形金型製作など-1分35秒/3922021334520623/",
+    "https://www.facebook.com/tokyoproto/posts/3026555357400563/",
+    "https://www.facebook.com/plot.p2/",
+    "https://www.facebook.com/tokyoproto/posts/ゴールデンウィーク期間の営業日は以下になります425428430515257期間中の出荷や荷物の受け入れは担当までご相談下さい/711592492230206/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "東京プロト 日吉工場 note 社長",
+   "results": [
+    "https://www.tokyoproto.co.jp/about-us/",
+    "https://www.tokyoproto.co.jp/about-us/branch/",
+    "https://mono.ipros.com/en/company/detail/19062/",
+    "https://compalyze.co.jp/company/7020001021094",
+    "https://www.townnews.co.jp/0103/2019/09/19/496905.html",
+    "https://mono.ipros.com/search/company/?keyword=日吉　半導体工場",
+    "https://www.autoby.jp/_ct/17854213"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "東京プロト 日吉工場 X 投稿",
+   "results": [
+    "https://www.tokyoproto.co.jp/",
+    "https://www.tokyoproto.co.jp/about-us/branch/",
+    "https://works.aqsh.co.jp/jobs/midcareer/14150-04050361",
+    "https://mono.ipros.com/search/company/?keyword=日吉　半導体工場",
+    "https://x.com/taiyo_amos/status/2030637977970626961",
+    "https://x.com/plot_p4",
+    "https://search.yahoo.co.jp/realtime/search/日吉駅/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式10頁／PDF・画像2件／外部4頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式10頁／PDF・画像2件／外部4頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式10頁／PDF・画像2件／外部4頁・検索9回）",
+  "連絡先": "記載なし（3回確認済み：公式10頁／PDF・画像2件／外部4頁・検索9回）"
+ }
+}

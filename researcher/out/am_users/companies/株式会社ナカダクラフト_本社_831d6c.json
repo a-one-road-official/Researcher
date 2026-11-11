@@ -1,0 +1,492 @@
+{
+ "name": "株式会社ナカダクラフト 本社",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T13:17:15.964301+00:00",
+ "official_url": "http://www.nk-craft.com",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "仲田兼司",
+    "url": "https://www.nk-craft.com/company.html",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "〒501-3911 岐阜県関市肥田瀬1004番地1 →アクセス TEL. 0575-23-9591 FAX. 0575-23-9124",
+    "url": "https://www.nk-craft.com/company.html",
+    "pass": 1
+   },
+   {
+    "label": "本社",
+    "value": "〒501-3911　岐阜県関市肥田瀬1004番地1",
+    "url": "https://www.nk-craft.com/access.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "14名（2026年9月現在）",
+    "url": "https://www.nk-craft.com/company.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "15名",
+    "url": "https://mono.ipros.com/company/detail/2061840/",
+    "pass": 3
+   }
+  ],
+  "拠点": [
+   {
+    "label": "営業所",
+    "value": "〒",
+    "url": "https://www.nk-craft.com/access.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱材料": [
+   {
+    "quote": "（材質 石膏、ガラス、アクリル、ナイロン、ポリカーボネート、光造詣樹脂、ＡＢＳ、スチール、アルミ、ステンレス、チタン、ジュラルミン、インコネル、ベリリウム銅、真鍮、シルバー、ゴールド、プラチナ）",
+    "url": "https://www.nk-craft.com/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ（A5052、A2014、A7075）、ZAS、S55C、SUS、チタン、他",
+    "url": "https://www.nk-craft.com/service.html",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ（A5052,A2014,A7075）、S55C、SUS、チタン、他",
+    "url": "https://www.nk-craft.com/service.html",
+    "pass": 1
+   },
+   {
+    "quote": "・アルミ（A5052,A2014,A7075)、ZAS、S55C、SUS、チタン、他",
+    "url": "https://mono.ipros.com/company/detail/2061840/",
+    "pass": 3
+   },
+   {
+    "quote": "・試作部品の製作（樹脂、金属）",
+    "url": "https://mono.ipros.com/company/detail/2061840/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "ナカダクラフトは、H3ロケットを応援します！",
+    "url": "https://www.nk-craft.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月20日4時41分 H3ロケット10号機の打ち上げ成功 火星衛星探査機（MMX）を所定の軌道へ投入することに成功",
+    "url": "https://www.nk-craft.com/",
+    "pass": 1
+   },
+   {
+    "quote": "航空、宇宙産業部品を製造",
+    "url": "https://www.nk-craft.com/",
+    "pass": 1
+   },
+   {
+    "quote": "金型設計、検査治具設計、専用治具設計、リバースエンジニアリング",
+    "url": "https://www.nk-craft.com/service.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空・宇宙産業部品、金属製品、金型、入れ子、自動車・家電の試作、量産部品、検査治具部品",
+    "url": "https://www.nk-craft.com/service.html",
+    "pass": 1
+   },
+   {
+    "quote": "トリム治具、穴あけ治具、曲げ治具、圧着治具、カット治具、受け治具、検査治具などの生産設備",
+    "url": "https://www.nk-craft.com/service.html",
+    "pass": 1
+   },
+   {
+    "quote": "金型用主型、入れ子、置き子、スライドなど",
+    "url": "https://www.nk-craft.com/service.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空・宇宙産業部品をはじめとする、高度な機密管理が求められる製品に対応",
+    "url": "https://www.nk-craft.com/service.html",
+    "pass": 1
+   },
+   {
+    "quote": "トリム治具、穴あけ治具、曲げ治具、圧着治具、カット治具、受け治具、検査治具など、設計・加工・組立まで一貫した体制で高品質な治具を提供します",
+    "url": "https://www.nk-craft.com/service.html",
+    "pass": 1
+   },
+   {
+    "quote": "本社事務所兼工場を設立、金型設計を開始する",
+    "url": "https://www.nk-craft.com/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "東海北陸自動車道 関インターチェンジから8km",
+    "url": "https://www.nk-craft.com/access.html",
+    "pass": 1
+   },
+   {
+    "quote": "主に金型用主型、入れ子、置き子、スライドなどを取り扱っており、",
+    "url": "https://mono.ipros.com/company/detail/2061840/category/",
+    "pass": 3
+   },
+   {
+    "quote": "主に金型用主型、入れ子、置き子、スライドなどを取り扱っており、",
+    "url": "https://mono.ipros.com/company/detail/2061840/",
+    "pass": 3
+   },
+   {
+    "quote": "数十名必要な量産品の部品セット作業を削減するための治具提案・製作により少数スタッフでの作業が可能に",
+    "url": "https://mono.ipros.com/company/detail/2061840/",
+    "pass": 3
+   },
+   {
+    "quote": "主に金型用主型、入れ子、置き子、スライドなどを取り扱い、",
+    "url": "https://mono.ipros.com/company/detail/2061840/",
+    "pass": 3
+   },
+   {
+    "quote": "・自動車関連の金型・専用治具・検査治具などの設計・制作",
+    "url": "https://mono.ipros.com/company/detail/2061840/",
+    "pass": 3
+   },
+   {
+    "quote": "・金型の主型・入れ子・置き子・スライド他の金属加工",
+    "url": "https://mono.ipros.com/company/detail/2061840/",
+    "pass": 3
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "サービス／製品一覧 | 株式会社ナカダクラフト",
+    "url": "https://www.nk-craft.com/service.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空・宇宙産業部品、金属製品、金型、入れ子、自動車・家電の試作、量産部品、検査治具部品",
+    "url": "https://www.nk-craft.com/service.html",
+    "pass": 1
+   },
+   {
+    "quote": "短納期・高品質・適正価格を追求した製品を、オンライン完結でご提供します",
+    "url": "https://www.nk-craft.com/service.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空・宇宙産業部品をはじめとする、高度な機密管理が求められる製品に対応",
+    "url": "https://www.nk-craft.com/service.html",
+    "pass": 1
+   },
+   {
+    "quote": "ナカダクラフトの製品・サービス一覧｜イプロスものづくり",
+    "url": "https://mono.ipros.com/company/detail/2061840/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(1)",
+    "url": "https://mono.ipros.com/company/detail/2061840/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(1)",
+    "url": "https://mono.ipros.com/company/detail/2061840/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (1)",
+    "url": "https://mono.ipros.com/company/detail/2061840/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "航空・宇宙産業部品、金属製品、金型、入れ子、自動車・家電の試作、量産部品、検査治具部品",
+    "url": "https://www.nk-craft.com/service.html",
+    "pass": 1
+   },
+   {
+    "quote": "・3Dプリンタを使用したスピーディーな試作",
+    "url": "https://mono.ipros.com/company/detail/2061840/category/",
+    "pass": 3
+   },
+   {
+    "quote": "・3Dプリンタを使用したスピーディーな試作",
+    "url": "https://mono.ipros.com/company/detail/2061840/",
+    "pass": 3
+   },
+   {
+    "quote": "・試作部品の製作（樹脂、金属）",
+    "url": "https://mono.ipros.com/company/detail/2061840/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "株式会社SQUAIR様THE SLIT for iPhone6（左）、坂本ラヂヲ株式会社様のDiamo for iPhone6/6s（右）",
+    "url": "https://www.nk-craft.com/service.html",
+    "pass": 1
+   },
+   {
+    "quote": "仲田クラフトとして岐阜県関市にてCAD/CAMのデータサービスを始める",
+    "url": "https://www.nk-craft.com/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "キーエンス３次元測定器 AM-1100 導入",
+    "url": "https://www.nk-craft.com/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "・3Dプリンタを使用したスピーディーな試作",
+    "url": "https://mono.ipros.com/company/detail/2061840/category/",
+    "pass": 3
+   },
+   {
+    "quote": "・3Dプリンタを使用したスピーディーな試作",
+    "url": "https://mono.ipros.com/company/detail/2061840/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "敏行さん Rc 糸魚川 - 株式会社ナカダクラフト - 取締役工場長 | Link...株式会社ナカダメタル | LinkedIn7 \"Makoto Nakada\" profiles | LinkedInWelcome to our Tokyo Office! | Kraft Heinz - LinkedInArts and Culture Correspondent at The Guardian - LinkedInDelphina Maluleka - IT Anywhere | LinkedInMohamed Ahmed Boudref - Lecturer of mathematics, Bouira ... 株式会社ナカダクラフト - 取締役工場長 · 職歴: 株式会社ナカダクラフト · 場所: 愛知県 · LinkedInのつながり1人。 10億人のメンバーを擁するプロフェッ",
+    "url": "https://jp.linkedin.com/in/敏行さん-ｒｃ　糸魚川-029a5892",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.nk-craft.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nk-craft.com/service.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nk-craft.com/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nk-craft.com/recruit.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nk-craft.com/access.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://nk-craft.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2061840/category/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nakamoto88.co.jp/products",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nk-craft.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2061840/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nk-craft.com/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.craftinc.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/in/敏行さん-ｒｃ　糸魚川-029a5892",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ナカダクラフト 本社 取扱製品 試作 小ロット",
+   "results": [
+    "https://nk-craft.com/",
+    "https://mono.ipros.com/company/detail/2061840/category/",
+    "https://www.nakamoto88.co.jp/products",
+    "https://nk-craft.com/service.html",
+    "https://ja.nc-net.or.jp/company/87110/",
+    "https://nakada.co.jp/",
+    "https://nakada.co.jp/works.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ナカダクラフト 本社 会社概要 事業内容",
+   "results": [
+    "https://www.nk-craft.com/company.html",
+    "https://nk-craft.com/",
+    "https://mono.ipros.com/company/detail/2061840/",
+    "https://compalyze.co.jp/company/9200001020051",
+    "https://metoree.com/companies/46531/",
+    "https://nkdinc.co.jp/",
+    "https://www.nakadai.co.jp/corporate-info"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ナカダクラフト 本社 お問い合わせ メール",
+   "results": [
+    "https://nk-craft.com/inquiry/",
+    "https://www.nk-craft.com/contact.html",
+    "https://www.craftinc.co.jp/contact/",
+    "https://www.tecraft.co.jp/corporate/contact/",
+    "https://ja.nc-net.or.jp/company/87110/inquiry/",
+    "https://www.nacoo.com/contact/form/",
+    "https://nkdinc.co.jp/inquiry/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com ナカダクラフト 本社",
+   "results": [
+    "https://note.com/d1nkd/all",
+    "https://note.com/rio0/n/na69041762712",
+    "https://note.com/kabuya66/n/nb1a785af6d7b",
+    "https://note.com/neocraft/n/n385f122ff38b",
+    "https://note.com/amekabu/n/n3ed4a1b5143a",
+    "https://note.com/komuginyc/n/n6516a37ba460",
+    "https://note.com/dokushozamurai/n/nac6137ecbc2f"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com ナカダクラフト 本社",
+   "results": [
+    "https://x.com/",
+    "https://x.com/rio42107064",
+    "https://x.com/RNakanishiLure/status/2058350173794001399",
+    "https://x.com/intensive911/status/2115235156483322009",
+    "https://x.com/MacotoArt",
+    "https://x.com/hondajet/status/1225591398499540997",
+    "https://x.com/sakurahorikiri/status/2120300939391508550"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com ナカダクラフト 本社",
+   "results": [
+    "https://jp.linkedin.com/in/敏行さん-ｒｃ　糸魚川-029a5892",
+    "https://jp.linkedin.com/company/nakadametal",
+    "https://www.linkedin.com/pub/dir/Makoto/Nakada",
+    "https://www.linkedin.com/posts/the-kraft-heinz-company_welcome-to-our-tokyo-office-activity-7277933665693679616-B8eo",
+    "https://uk.linkedin.com/jobs/view/arts-and-culture-correspondent-at-the-guardian-4482854726",
+    "https://za.linkedin.com/in/delphina-maluleka-98b972380",
+    "https://dz.linkedin.com/in/mohamed-ahmed-boudref-58a36875"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com ナカダクラフト 本社",
+   "results": [
+    "https://www.facebook.com/p/株式会社ナカダクラフト-100066815132569/",
+    "https://www.facebook.com/people/株式会社ナカダクラフト/100066815132569/",
+    "https://www.facebook.com/株式会社ナカダクラフト-368120416546169/",
+    "https://www.facebook.com/NAKADAFACTORY/",
+    "https://www.facebook.com/nakadainc.co/",
+    "https://www.facebook.com/nakadaicompanylimited/",
+    "https://www.facebook.com/craft.y.1156/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ナカダクラフト 本社 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.nk-craft.com/company.html",
+    "https://nk-craft.com/",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.nakadanet.co.jp/company/message.html",
+    "https://nkdinc.co.jp/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ナカダクラフト 本社 X 投稿",
+   "results": [
+    "https://nk-craft.com/",
+    "https://www.nk-craft.com/company.html",
+    "https://mono.ipros.com/en/company/detail/2061840/",
+    "https://www.ipros.com/en/company/detail/2061840/",
+    "https://x.com/MacotoArt/status/2113533242255307258",
+    "https://x.com/shunkd/status/2116965030453465254",
+    "https://nkdinc.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部8頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部8頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部8頁・検索9回）",
+  "連絡先": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部8頁・検索9回）"
+ }
+}

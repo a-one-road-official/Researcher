@@ -1,0 +1,471 @@
+{
+ "name": "澄川精密株式会社",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T13:11:45.071145+00:00",
+ "official_url": "https://www.sumikawaseimitu.net",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表取締役社長",
+    "value": "澄川　誠",
+    "url": "https://www.sumikawaseimitu.net/%E3%83%88%E3%83%83%E3%83%97/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/",
+    "pass": 1
+   }
+  ],
+  "拠点": [
+   {
+    "label": "南六郷1丁目工場",
+    "value": "東京都大田区南六郷1-20-19　（小～中部品加工、試作品、単品）",
+    "url": "https://www.sumikawaseimitu.net/%E3%83%88%E3%83%83%E3%83%97/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/",
+    "pass": 1
+   },
+   {
+    "label": "南六郷3丁目工場",
+    "value": "東京都大田区南六郷3-14-16　（小～中部品加工、試作品、小ロット～大量生産）",
+    "url": "https://www.sumikawaseimitu.net/%E3%83%88%E3%83%83%E3%83%97/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/",
+    "pass": 1
+   },
+   {
+    "label": "本羽田1丁目工場",
+    "value": "東京都大田区本羽田1-6-9　　（大型部品加工、試作品、単品、小ロット）",
+    "url": "https://www.sumikawaseimitu.net/%E3%83%88%E3%83%83%E3%83%97/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/",
+    "pass": 1
+   },
+   {
+    "label": "本羽田2丁目工場",
+    "value": "東京都大田区本羽田2-8-20      (旋盤工場）",
+    "url": "https://www.sumikawaseimitu.net/%E3%83%88%E3%83%83%E3%83%97/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/",
+    "pass": 1
+   },
+   {
+    "label": "多摩川2丁目工場",
+    "value": "東京都大田区多摩川2-24-24   （小～中部品加工、試作品、単品）",
+    "url": "https://www.sumikawaseimitu.net/%E3%83%88%E3%83%83%E3%83%97/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "南六郷2丁目工場（本社 ）",
+    "value": "東京都大田区南六郷2-15-6　  （品質管理、梱包出荷、入荷）",
+    "url": "https://www.sumikawaseimitu.net/%E3%83%88%E3%83%83%E3%83%97/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "小型部品加工、大型部品加工、ロボット、航空機、自動車、半導体、装置、医療、多種多様な加工メーカー、短納期メーカ",
+    "url": "https://www.sumikawaseimitu.net/%E3%83%88%E3%83%83%E3%83%97/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員,設備台数",
+    "value": "15人　工作機械20台",
+    "url": "https://www.sumikawaseimitu.net/%E3%83%88%E3%83%83%E3%83%97/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "一点物・少量多品種": [
+   {
+    "quote": "短納期、複雑形状、試作品が殆どです",
+    "url": "https://www.sumikawaseimitu.net/",
+    "pass": 1
+   },
+   {
+    "quote": "量産に向けての試作品も対応可能（量産確定時は試作品の場合によって",
+    "url": "https://www.sumikawaseimitu.net/",
+    "pass": 1
+   },
+   {
+    "quote": "東京都大田区南六郷1-20-19 （小～中部品加工、試作品、単品）",
+    "url": "https://www.sumikawaseimitu.net/%E3%83%88%E3%83%83%E3%83%97/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/",
+    "pass": 1
+   },
+   {
+    "quote": "東京都大田区南六郷3-14-16 （小～中部品加工、試作品、小ロット～大量生産）",
+    "url": "https://www.sumikawaseimitu.net/%E3%83%88%E3%83%83%E3%83%97/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/",
+    "pass": 1
+   },
+   {
+    "quote": "東京都大田区本羽田1-6-9 （大型部品加工、試作品、単品、小ロット）",
+    "url": "https://www.sumikawaseimitu.net/%E3%83%88%E3%83%83%E3%83%97/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/",
+    "pass": 1
+   },
+   {
+    "quote": "東京都大田区多摩川2-24-24 （小～中部品加工、試作品、単品）",
+    "url": "https://www.sumikawaseimitu.net/%E3%83%88%E3%83%83%E3%83%97/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/",
+    "pass": 1
+   },
+   {
+    "quote": "圧倒的な生産性の高さに量産品、単品加工にも対応可能",
+    "url": "https://www.sumikawaseimitu.net/%E3%83%88%E3%83%83%E3%83%97/%E8%A8%AD%E5%82%99%E7%B4%B9%E4%BB%8B/",
+    "pass": 1
+   },
+   {
+    "quote": "試作品、単品は得意分野です",
+    "url": "https://www.sumikawaseimitu.net/%E3%83%88%E3%83%83%E3%83%97/%E8%A8%AD%E5%82%99%E7%B4%B9%E4%BB%8B/",
+    "pass": 1
+   },
+   {
+    "quote": "単品、試作品、量産対応可能です",
+    "url": "https://www.sumikawaseimitu.net/%E3%83%88%E3%83%83%E3%83%97/%E8%A8%AD%E5%82%99%E7%B4%B9%E4%BB%8B/",
+    "pass": 1
+   },
+   {
+    "quote": "Φ300まで単品、試作品対応可能",
+    "url": "https://www.sumikawaseimitu.net/%E3%83%88%E3%83%83%E3%83%97/%E8%A8%AD%E5%82%99%E7%B4%B9%E4%BB%8B/",
+    "pass": 1
+   },
+   {
+    "quote": "高精度な切削加工を得意とする当社では、マシニングセンタや旋盤を駆使した単品・小ロットの製作を承ります",
+    "url": "https://www.pec-kumata.com/post/sumikawaseimitsu",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "大田区で事業所6ヵ所あり微細加工、中型加工、大型加工、量産加工それぞれの工場に分けることで道具、治具の整理などからレスポンス良くコスト削減を実現させております",
+    "url": "https://www.sumikawaseimitu.net/",
+    "pass": 1
+   },
+   {
+    "quote": "SUS316Lなど金型材、SKDでもなんでもご相談下さい",
+    "url": "https://www.sumikawaseimitu.net/%E3%83%88%E3%83%83%E3%83%97/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/",
+    "pass": 1
+   },
+   {
+    "quote": "小型部品加工、大型部品加工、ロボット、航空機、自動車、半導体、装置、医療、多種多様な加工メーカー、短納期メーカ",
+    "url": "https://www.sumikawaseimitu.net/%E3%83%88%E3%83%83%E3%83%97/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/",
+    "pass": 1
+   },
+   {
+    "quote": "小型部品加工、大型部品加工、ロボット、航空機、自動車、半導体、装置、医療等を扱う装置メーカ（機械部品を加工）様などは、是非お立ち寄りください",
+    "url": "https://www.pec-kumata.com/post/sumikawaseimitsu",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "鉄、ステンレス、チタン、銅、真鍮、インコネル、スーパーインバー材",
+    "url": "https://www.sumikawaseimitu.net/%E3%83%88%E3%83%83%E3%83%97/%E5%8A%A0%E5%B7%A5%E4%BA%8B%E4%BE%8B/",
+    "pass": 1
+   },
+   {
+    "quote": "材質：アルミ、鉄、ステン、銅、真鍮、チタン、インコネル、インバなど多くの材料に対応可能です",
+    "url": "https://www.sumikawaseimitu.net/%E3%83%88%E3%83%83%E3%83%97/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "金属精密切削加工の澄川精密株式会社｜お問い合わせ - 金属加工 大田区 澄川精密",
+    "url": "https://www.sumikawaseimitu.net/%E3%83%88%E3%83%83%E3%83%97/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/",
+    "pass": 1
+   },
+   {
+    "quote": "Email Protection | Cloudflare",
+    "url": "https://www.sumikawaseimitu.net/cdn-cgi/l/email-protection",
+    "pass": 1
+   },
+   {
+    "quote": "You are unable to access this email address",
+    "url": "https://www.sumikawaseimitu.net/cdn-cgi/l/email-protection",
+    "pass": 1
+   },
+   {
+    "quote": "The website from which you got to this page is protected by Cloudflare. Email addresses on that page have been hidden in order to keep them from being accessed by malicious bots.",
+    "url": "https://www.sumikawaseimitu.net/cdn-cgi/l/email-protection",
+    "pass": 1
+   },
+   {
+    "quote": "You must enable Javascript in your browser in order to decode the e-mail address",
+    "url": "https://www.sumikawaseimitu.net/cdn-cgi/l/email-protection",
+    "pass": 1
+   },
+   {
+    "quote": "How does Cloudflare protect email addresses on website from spammers?",
+    "url": "https://www.sumikawaseimitu.net/cdn-cgi/l/email-protection",
+    "pass": 1
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "How does Cloudflare protect email addresses on website from spammers?",
+    "url": "https://www.sumikawaseimitu.net/cdn-cgi/l/email-protection",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "東京都大田区の精密金属切削加工 澄川精密株式会社 — 土日営業で金属精密切削加工対応、微細加工から大型加工まで難削材も対応する東京都大田区の澄川精密株式会社 短納期、smkw,SMKW 金属加工、樹脂加工、精密加工、今すぐ、自動車、航空、部品加工、丸部品、角部品、切削加工、板加工、大型板加工、大型部品、削り出し、 コロナショック ...",
+    "url": "https://www.sumikawaseimitu.net/",
+    "pass": 3
+   },
+   {
+    "quote": "手のひらサイズ～大物金属加工澄川精密株式会社｜会社概要 - 金属加工... — 横マシニング紹介、久々の投稿！！ncsでPVも作ったよ!金属切削加工が得意です。お仕事ください 澄川精密株式会社",
+    "url": "https://www.sumikawaseimitu.net/トップ/会社概要/",
+    "pass": 3
+   },
+   {
+    "quote": "澄川精密 (株)出展品紹介 (第14回 次世代ものづくり基盤技術産業展) — May 5, 2025 · （テクニカルアドバイザー (TA)として当方が担当）【出展者名】澄川精密株式会社【出展技術・製品の説明・見どころ】切削加工 精密部品 手のひら～2000mmワーク高精度な切削加工を得意とする当社では、マシニングセンタや旋盤を駆使した単品・小ロットの ...",
+    "url": "https://www.pec-kumata.com/post/sumikawaseimitsu",
+    "pass": 3
+   },
+   {
+    "quote": "澄川精密株式会社 | 公益財団法人名古屋産業振興公社 - Powered by イ... — 澄川精密株式会社 切削加工 精密部品 手のひら~2000mmワーク 高精度な切削加工を得意とする当社では、マシニングセンタや旋盤を駆使した単品・小ロットの製作を承ります。 短納期での対応が可能で、あらゆる仕様に対応した高品質な部品を提供します。",
+    "url": "https://pr.mono.ipros.com/nipc/product/detail/2001529454/",
+    "pass": 3
+   },
+   {
+    "quote": "澄川精密株式会社 公益財団法人名古屋産業振興公社 | イプロスものづ... — May 27, 2025 · 公益財団法人名古屋産業振興公社の澄川精密株式会社の技術や価格情報などをご紹介。切削加工 精密部品 手のひら~2000mmワークイプロスものづくりではその他など製造業向けの情報を多数掲載。応相談応相談",
+    "url": "https://mono.ipros.com/product/detail/2001529454/",
+    "pass": 3
+   },
+   {
+    "quote": "澄川精密株式会社 - Mitsuri — 事業内容 Business Overview 担当者からのPR Message from Representative 工場の強み Factory Strengths 対応可能な加工方法 Processing Methods",
+    "url": "https://app.mitsu-ri.net/pblc/profiles/AH5YR8VGH",
+    "pass": 3
+   },
+   {
+    "quote": "澄川精密株式会社（東京都大田区） 概要 - 企業情報 — Oct 5, 2015 · 澄川精密株式会社 HOME 概要 所在地 〒144-0045 東京都大田区南六郷2丁目15番6号 アクセス (Map) TEL FAX 澄川勉 事業内容 従業員数 03-6385-0348 インボイス制度適格請求書発行事業者 登録番号",
+    "url": "https://data-link-plus.com/jp/corporation/9010801016367",
+    "pass": 3
+   },
+   {
+    "quote": "澄川精密株式会社（東京都）の会社概要・役員 | Compalyze — 〒144-0045 東京都大田区に本社を置く澄川精密株式会社の企業情報。澄川精密株式会社は、東京都大田区を拠点に、金属の精密切削加工を主軸とする製造業を展開しています。MFG (MFG-10)、1994年設立、社会保険被保険者数14名。代表者 澄川勉。役員1名・登記3件。",
+    "url": "https://compalyze.co.jp/company/9010801016367",
+    "pass": 3
+   },
+   {
+    "quote": "金属精密切削加工の澄川精密株式会社｜お問い合わせ — お問い合わせ 担当：営業 澄川誠 で対応致します。 材料調達、材料支給でも可能です。 材質：アルミ、鉄、ステン、銅、真鍮、チタン、インコネル、インバなど多くの材料に対応可能です。 SUS316Lなど金型材、SKDでもなんでもご相談下さい。 材質不可 FC材は弊社機械精度、工場環境を悪化さ ...",
+    "url": "https://www.sumikawaseimitu.net/トップ/お問い合わせ/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都大田区の精密金属切削加工 澄川精密株式会社 — お問合せ・お見積りは直接担当者まで 090-5300-4892（澄川誠まで） サイトメニュー ・ホーム > 会社概要 > 澄川精密の強み > 設備紹介 > 加工事例 > アクセス ・お問い合わせ 澄川精密株式会社 〒144-0045 東京都大田区南六郷 1-20-19 東京都大田区南六郷 2-15-6",
+    "url": "https://www.sumikawaseimitu.net/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sumikawaseimitu.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumikawaseimitu.net/%E3%83%88%E3%83%83%E3%83%97/%E5%8A%A0%E5%B7%A5%E4%BA%8B%E4%BE%8B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumikawaseimitu.net/%E3%83%88%E3%83%83%E3%83%97/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumikawaseimitu.net/%E3%83%88%E3%83%83%E3%83%97/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumikawaseimitu.net/%E3%83%88%E3%83%83%E3%83%97/%E8%A8%AD%E5%82%99%E7%B4%B9%E4%BB%8B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumikawaseimitu.net/%E3%83%88%E3%83%83%E3%83%97/%E3%82%B3%E3%83%AD%E3%83%8A%E5%96%B6%E6%A5%AD/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumikawaseimitu.net/%E3%83%88%E3%83%83%E3%83%97/%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sumikawaseimitu.net/cdn-cgi/l/email-protection",
+    "status": "http_404",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.pec-kumata.com/post/sumikawaseimitsu",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://app.mitsu-ri.net/pblc/profiles/AH5YR8VGH",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sumikawa818.com/contact",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "澄川精密 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.sumikawaseimitu.net/",
+    "https://www.sumikawaseimitu.net/トップ/会社概要/",
+    "https://www.pec-kumata.com/post/sumikawaseimitsu",
+    "https://pr.mono.ipros.com/nipc/product/detail/2001529454/",
+    "https://mono.ipros.com/product/detail/2001529454/",
+    "https://mbp-japan.com/aichi/pec-kumata/column/5192081/",
+    "https://www.champ-j.com/custom/cutting/trial_production.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "澄川精密 会社概要 事業内容",
+   "results": [
+    "https://www.sumikawaseimitu.net/トップ/会社概要/",
+    "https://www.sumikawaseimitu.net/",
+    "https://app.mitsu-ri.net/pblc/profiles/AH5YR8VGH",
+    "https://data-link-plus.com/jp/corporation/9010801016367",
+    "https://compalyze.co.jp/company/9010801016367",
+    "https://mono.ipros.com/company/detail/2080595/",
+    "https://sumikawa818.com/information"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "澄川精密 お問い合わせ メール",
+   "results": [
+    "https://www.sumikawaseimitu.net/トップ/お問い合わせ/",
+    "https://sumikawa818.com/contact",
+    "https://www.sumikawaseimitu.net/",
+    "https://sumikawa-works.co.jp/お問い合わせ/",
+    "https://ishikawa-metal.co.jp/お問い合わせ/",
+    "https://suwaco.co.jp/contact/",
+    "https://www.tamagawa-seiki.co.jp/contact/email/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 澄川精密",
+   "results": [
+    "https://note.com/suminagi_project",
+    "https://note.com/",
+    "https://note.com/karasumi_0204/n/ne023891752e4",
+    "https://note.com/noelune_realm/n/nec22c112469f",
+    "https://note.com/gsh_rpg/n/n8a0fc9c3302b",
+    "https://note.com/daikidomon/n/n238268ba8967",
+    "https://note.com/kabude/n/n98d86f1e656b"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 澄川精密",
+   "results": [
+    "https://x.com/habakkuk_gordon/status/2055084484102648132",
+    "https://x.com/ezhze",
+    "https://help.x.com/zh-cn/using-x",
+    "https://x.com/AyuSumikawa0525",
+    "https://x.com/habakkuk_gordon/status/2025706209043705963",
+    "https://x.com/habakkuk_gordon/status/1992750016541463032",
+    "https://x.com/hashtag/澄川空"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 澄川精密",
+   "results": [
+    "https://tw.linkedin.com/in/瑞河-陳-893863130",
+    "https://tw.linkedin.com/in/jackal-ma-108246123",
+    "https://www.linkedin.com/check/en",
+    "https://www.linkedin.com/login/",
+    "https://jp.linkedin.com/in/恭章-澄川-466a11a9",
+    "https://cn.linkedin.com/company/东莞市智川精密科技有限公司",
+    "https://cn.linkedin.com/company/上海松川精密电子有限公司"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 澄川精密",
+   "results": [
+    "https://www.facebook.com/p/三川精密-100054412272395/",
+    "https://www.facebook.com/ChuanYoungCNC/",
+    "https://business.facebook.com/groups/389777162189248/",
+    "https://business.facebook.com/groups/862975894299972/",
+    "https://www.facebook.com/p/銳川精密有限公司-100063685734328/",
+    "https://www.facebook.com/chengchuan2020/",
+    "https://www.facebook.com/sun075525415/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "澄川精密 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.sumikawaseimitu.net/トップ/会社概要/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/tadkiyokawa",
+    "https://sumikawa-ind.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "澄川精密 X 投稿",
+   "results": [
+    "https://www.sumikawaseimitu.net/",
+    "https://x.com/sumikawaremi/status/2118978550221222386",
+    "https://x.com/sumikawamihana/status/2087514146950750439",
+    "https://www.instagram.com/shinichisumikawa/",
+    "https://sumikawa-ind.com/",
+    "https://www.wakana-y.org/womanlist/detail/澄川鮎",
+    "http://www.songchuan.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部3頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部3頁・検索9回）",
+  "取扱製品": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部3頁・検索9回）"
+ }
+}

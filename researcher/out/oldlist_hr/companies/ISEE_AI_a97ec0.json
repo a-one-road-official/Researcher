@@ -1,0 +1,953 @@
+{
+ "name": "ISEE AI",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AI送信済み",
+ "researched_at": "2026-11-11T13:43:07.424464+00:00",
+ "official_url": "https://www.isee.ai/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "More efficient & predictable yards",
+    "url": "https://www.isee.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Complete jobs and move loads more efficiently. Improve responsiveness, service level, and throughput with more consistent yard truck performance.",
+    "url": "https://www.isee.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We make your job easier. Our autonomous yard trucks provide a flexible path to automation without interrupting your daily operations.",
+    "url": "https://www.isee.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn about our approach",
+    "url": "https://www.isee.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "ISEE AI is designed to interact with people and equipment in dynamic and unpredictable situations—delivering the versatility needed to automate complex operations without disruption.",
+    "url": "https://www.isee.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "[FreightWaves] How private yards became autonomous trucking’s most promising frontier",
+    "url": "https://www.isee.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Debbie Yu, president and co-founder of ISEE, said customers don’t always have a fleet ready to automate.",
+    "url": "https://www.isee.ai/news/freightwaves-isee-partners-with-investor-holman-on-autonomous-yard-trucks",
+    "pass": 1
+   },
+   {
+    "quote": "“First of all, you have to figure out where to get the truck. Either buy it, or lease it, or rent it,” Yu said in an interview with FreightWaves. “Then we have to retrofit the truck with our autonomy kit, deploy to the customer site, do the maintenance, and run the yard.”",
+    "url": "https://www.isee.ai/news/freightwaves-isee-partners-with-investor-holman-on-autonomous-yard-trucks",
+    "pass": 1
+   },
+   {
+    "quote": "Doing retrofits in-house would have meant hiring many more technicians, work Yu said falls outside ISEE’s expertise. Holman has done truck retrofitting for years and runs a nationwide network of shops and technicians alongside its leasing business, she said.",
+    "url": "https://www.isee.ai/news/freightwaves-isee-partners-with-investor-holman-on-autonomous-yard-trucks",
+    "pass": 1
+   },
+   {
+    "quote": "“By combining Holman’s robot fleet leasing and management infrastructure with ISEE’s autonomous technology, we can provide customers with a practical solution covering the full vehicle lifecycle,” said Joe Foster, Holman’s vice president of robotics, in a statement.",
+    "url": "https://www.isee.ai/news/freightwaves-isee-partners-with-investor-holman-on-autonomous-yard-trucks",
+    "pass": 1
+   },
+   {
+    "quote": "ISEE did not need a large fleet or much retrofit capacity while it was running prototypes and pilots, Yu said. She described the company as now at an inflection point, with multiple F100 customers interested in deploying over thousands autonomous yard truck fleets with ISEE over the next couple of years.",
+    "url": "https://www.isee.ai/news/freightwaves-isee-partners-with-investor-holman-on-autonomous-yard-trucks",
+    "pass": 1
+   },
+   {
+    "quote": "partnered with ISEE in April 2025",
+    "url": "https://www.isee.ai/news/freightwaves-isee-partners-with-investor-holman-on-autonomous-yard-trucks",
+    "pass": 1
+   },
+   {
+    "quote": "That timing matches the 2027 serial production target FreightWaves reported in June. ISEE will also keep working with other yard truck OEMs on new diesel, alternative-fuel and electric models, according to the release.",
+    "url": "https://www.isee.ai/news/freightwaves-isee-partners-with-investor-holman-on-autonomous-yard-trucks",
+    "pass": 1
+   },
+   {
+    "quote": "Demand is rising as manufacturing, data centers and infrastructure grow in the United States, Yu said, including from enterprise customers “that we never imagined before.”",
+    "url": "https://www.isee.ai/news/freightwaves-isee-partners-with-investor-holman-on-autonomous-yard-trucks",
+    "pass": 1
+   },
+   {
+    "quote": "ISEE is a technology company that provides autonomous driving solutions for commercial environments. We make it easy for businesses to use autonomous vehicles by providing safe, flexible systems that adapt to any environment.",
+    "url": "https://www.isee.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "In 2017, our founders Yibiao Zhao, Debbie Yu, and Chris Baker set out to achieve the impossible: building the first AI that understands the physics, psychology, and causality of complex situations. The initial test cars were a success— safely driving and interacting with other people and drivers on congested Boston roads.",
+    "url": "https://www.isee.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Today, we’re changing the way loads move in and out of yards, tomorrow we’ll change the way goods move throughout the world.",
+    "url": "https://www.isee.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "ISEE is home to curious minds, creative technologists, and collaborative makers. We believe in using our collective power to solve hard problems for our customers.",
+    "url": "https://www.isee.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We focus on the needs of our customers. We listen to what they need and build technology that is useful for them. We move fast to approach the market and win customer’s trust.",
+    "url": "https://www.isee.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We're accountable for our deliverables and own both the problem and the solution. We believe in owning our mistakes, talking about failure, and holding each other accountable.",
+    "url": "https://www.isee.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We’re solving a once-in-a-lifetime, tough tech problem. It’s work that requires resilience to continually push ourselves in unknown and challenging directions and grow beyond our limits both individually and as a team.",
+    "url": "https://www.isee.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We value curiosity and don't believe in letting bias or what we already know hold us back. We approach each challenge with fresh eyes and an appetite to continuously adapt and reinvent.",
+    "url": "https://www.isee.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "9. Prioritize Safety",
+    "url": "https://www.isee.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Though we're nimble and practical, we never cut corners, and always maximize safety.",
+    "url": "https://www.isee.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We offer the basics, so you don’t have to worry - subsidized Medical, Dental, pre-tax savings accounts, including dependant care, commuter and 401K.",
+    "url": "https://www.isee.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We understand that everyone has a life outside of work, and we here at ISEE promote a healthy work-life balance. We provide up to 4 weeks of time off, paid holidays, and paid parental and family leave, amongst other types.",
+    "url": "https://www.isee.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We empower and provide out teams with ownership, but you’ll find a team that genuinely wants to help and support each other. We provide tools, times and ways to work together.",
+    "url": "https://www.isee.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Want to advance your skills, career and impact of your work? We here at ISEE actively promote ways for our team members to learn, grow and utilize new skills and knowledge.",
+    "url": "https://www.isee.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "In these uncertain and trying times, ISEE provides a flexible working environment - work from home, or come into our physical offices if needed.",
+    "url": "https://www.isee.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "ISEE gives me the opportunity to grow professionally while working on a very interesting project, touching on all aspects of self driving and robotics, using the latest research to solve a very practical problem that has great economic benefits for our customers.",
+    "url": "https://www.isee.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "ISEE AI is designed to navigate an unpredictable world and enable flexible autonomous solutions. We’ve spent years developing the intelligence needed to build a better autonomous driver.",
+    "url": "https://www.isee.ai/our-technology",
+    "pass": 1
+   },
+   {
+    "quote": "Predicting human behavior",
+    "url": "https://www.isee.ai/our-technology",
+    "pass": 1
+   },
+   {
+    "quote": "ISEE AI is built to learn from experience and improve its performance over time. Our system quickly processes large amounts of data from its surroundings and adapts without constant monitoring or maintenance.",
+    "url": "https://www.isee.ai/our-technology",
+    "pass": 1
+   },
+   {
+    "quote": "[L4DC 2024] Do No Harm: A Counterfactual Approach to Safe Reinforcement Learning",
+    "url": "https://www.isee.ai/our-technology",
+    "pass": 1
+   },
+   {
+    "quote": "[ICRA 2021] Planning on a (Risk) Budget: Safe Non-Conservative Planning in Probabilistic Dynamic Environments",
+    "url": "https://www.isee.ai/our-technology",
+    "pass": 1
+   },
+   {
+    "quote": "Professor at MIT, Chief Scientific Advisor at ISEE",
+    "url": "https://www.isee.ai/our-technology",
+    "pass": 1
+   },
+   {
+    "quote": "Improve your yard's efficiency and safety with an autonomous solution that seamlessly integrates into existing yard operations.",
+    "url": "https://www.isee.ai/our-technology",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President of Robotics, Holman",
+    "url": "https://www.isee.ai/news/holman-and-isee-partner-to-optimize-utilization-of-autonomous-yard-trucks",
+    "pass": 1
+   },
+   {
+    "quote": "“As autonomy moves from concept to critical infrastructure, scalability and reliability become the defining factors,” said Debbie Yu, President and Co-Founder at ISEE. “This collaboration allows us to deliver both, combining advanced AI with a proven industrial backbone. We are now positioned to deploy at scale in a way that is both capital-efficient and operationally robust.”",
+    "url": "https://www.isee.ai/news/holman-and-isee-partner-to-optimize-utilization-of-autonomous-yard-trucks",
+    "pass": 1
+   },
+   {
+    "quote": "President and Co-Founder at ISEE",
+    "url": "https://www.isee.ai/news/holman-and-isee-partner-to-optimize-utilization-of-autonomous-yard-trucks",
+    "pass": 1
+   },
+   {
+    "quote": "2024年11月にAnthropicが発表したModel Context Protocol（MCP）は、わずか1年半足らずで「AIエージェントがツールやデータに接続するための共通言語」としての地位を確立した",
+    "url": "https://note.com/betaitohuman/n/ne08a780d23a5",
+    "pass": 3
+   },
+   {
+    "quote": "これを防ぐには、ツール実行前段での強固なバリデーション（検証）や、MCPサーバー側でのLeast Privilege（最小特権の原則、必要最小限の権限しか与えないという考え方）に基づくサンドボックス化が、絶対的な要件になる",
+    "url": "https://note.com/betaitohuman/n/ne08a780d23a5",
+    "pass": 3
+   },
+   {
+    "quote": "Tool Poisoning（ツール中毒化）とPrompt Injection（プロンプト・インジェクション）",
+    "url": "https://note.com/betaitohuman/n/ne08a780d23a5",
+    "pass": 3
+   },
+   {
+    "quote": "これらのリスクを緩和するには、各ツールの権限を最小化する（Least Privilege）だけでなく、メタデータの静的解析、ツール説明のハッシュ値による変更検知、サンドボックス内でのサーバー実行といった多層的な防御機構（Defense-in-Depth）の構築が必要になる",
+    "url": "https://note.com/betaitohuman/n/ne08a780d23a5",
+    "pass": 3
+   },
+   {
+    "quote": "The 2026-07-28 Specification｜Model Context Protocol Blog",
+    "url": "https://note.com/betaitohuman/n/ne08a780d23a5",
+    "pass": 3
+   },
+   {
+    "quote": "AI Tool Protocol Drops Sessions Tomorrow: MCP's Largest Spec Change Since Launch｜TechTimes",
+    "url": "https://note.com/betaitohuman/n/ne08a780d23a5",
+    "pass": 3
+   },
+   {
+    "quote": "Model Context Protocol Specification Version Timeline｜hidekazu-konishi.com",
+    "url": "https://note.com/betaitohuman/n/ne08a780d23a5",
+    "pass": 3
+   },
+   {
+    "quote": "Stateful vs Stateless MCP: Sticky Sessions Are Gone｜Mervin Praison",
+    "url": "https://note.com/betaitohuman/n/ne08a780d23a5",
+    "pass": 3
+   },
+   {
+    "quote": "Model Context Protocol is going stateless to make scaling simpler｜InfoWorld",
+    "url": "https://note.com/betaitohuman/n/ne08a780d23a5",
+    "pass": 3
+   },
+   {
+    "quote": "Agentic MCP Security Best Practices Guide｜Cloud Security Alliance",
+    "url": "https://note.com/betaitohuman/n/ne08a780d23a5",
+    "pass": 3
+   },
+   {
+    "quote": "#ModelContextProtocol",
+    "url": "https://note.com/betaitohuman/n/ne08a780d23a5",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "We bring our autonomous vehicles to life in real-world, industrial environments with robust software and hardware engineering capabilities.",
+    "url": "https://www.isee.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Doing retrofits in-house would have meant hiring many more technicians, work Yu said falls outside ISEE’s expertise. Holman has done truck retrofitting for years and runs a nationwide network of shops and technicians alongside its leasing business, she said.",
+    "url": "https://www.isee.ai/news/freightwaves-isee-partners-with-investor-holman-on-autonomous-yard-trucks",
+    "pass": 1
+   },
+   {
+    "quote": "Retrofits and factory builds",
+    "url": "https://www.isee.ai/news/freightwaves-isee-partners-with-investor-holman-on-autonomous-yard-trucks",
+    "pass": 1
+   },
+   {
+    "quote": "“Not just retrofitting. We also need to do factory-built units through the TICO collaboration, starting from 2027,” Yu said.",
+    "url": "https://www.isee.ai/news/freightwaves-isee-partners-with-investor-holman-on-autonomous-yard-trucks",
+    "pass": 1
+   },
+   {
+    "quote": "Yu said retrofits let operators of yard trucks already working in customer yards automate sooner.",
+    "url": "https://www.isee.ai/news/freightwaves-isee-partners-with-investor-holman-on-autonomous-yard-trucks",
+    "pass": 1
+   },
+   {
+    "quote": "Demand is rising as manufacturing, data centers and infrastructure grow in the United States, Yu said, including from enterprise customers “that we never imagined before.”",
+    "url": "https://www.isee.ai/news/freightwaves-isee-partners-with-investor-holman-on-autonomous-yard-trucks",
+    "pass": 1
+   },
+   {
+    "quote": "Flexible autonomy requires new ways of thinking. Using breakthroughs in AI and engineering, we developed a better autonomous driver, designed to drive reliably in open industrial environments and navigate dynamically changing conditions.",
+    "url": "https://www.isee.ai/our-technology",
+    "pass": 1
+   },
+   {
+    "quote": "We bring our autonomous vehicles to life in real-world, industrial environments with robust software and hardware engineering capabilities.",
+    "url": "https://www.isee.ai/our-technology",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomous driving is especially challenging in industrial environments. Existing systems often sacrifice performance to ensure safety. ISEE is leading the way with a system that ensures safety without sacrificing efficiency.",
+    "url": "https://www.isee.ai/our-technology",
+    "pass": 1
+   },
+   {
+    "quote": "a global automotive services leader, today announced a new partnership with",
+    "url": "https://www.isee.ai/news/holman-and-isee-partner-to-optimize-utilization-of-autonomous-yard-trucks",
+    "pass": 1
+   },
+   {
+    "quote": "“As autonomy moves from concept to critical infrastructure, scalability and reliability become the defining factors,” said Debbie Yu, President and Co-Founder at ISEE. “This collaboration allows us to deliver both, combining advanced AI with a proven industrial backbone. We are now positioned to deploy at scale in a way that is both capital-efficient and operationally robust.”",
+    "url": "https://www.isee.ai/news/holman-and-isee-partner-to-optimize-utilization-of-autonomous-yard-trucks",
+    "pass": 1
+   },
+   {
+    "quote": "Together, Holman and ISEE are introducing a strategy that supports the rapid deployment of autonomous technology across existing yard vehicles while also forging a plan toward factory-integrated solutions for future large-scale commercialization.",
+    "url": "https://www.isee.ai/news/holman-and-isee-partner-to-optimize-utilization-of-autonomous-yard-trucks",
+    "pass": 1
+   },
+   {
+    "quote": "For additional information about Holman’s extensive range of automotive services, including the company’s innovative robotics division, please visit",
+    "url": "https://www.isee.ai/news/holman-and-isee-partner-to-optimize-utilization-of-autonomous-yard-trucks",
+    "pass": 1
+   },
+   {
+    "quote": "is a global automotive leader that serves both commercial and consumer clients",
+    "url": "https://www.isee.ai/news/holman-and-isee-partner-to-optimize-utilization-of-autonomous-yard-trucks",
+    "pass": 1
+   },
+   {
+    "quote": "by always doing the right thing for our people, our customers, and the community since 1924. The Holman story began more than 100 years ago as a single Ford dealership in New Jersey. Today, Holman, headquartered in Mount Laurel, New Jersey, is one of the largest family-owned automotive service organizations in North America with more than 10,000 employees across North America, the UK, and Germany.",
+    "url": "https://www.isee.ai/news/holman-and-isee-partner-to-optimize-utilization-of-autonomous-yard-trucks",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Retrofits cover trucks already in service. New units come through OEMs, including terminal tractor maker TICO, which",
+    "url": "https://www.isee.ai/news/freightwaves-isee-partners-with-investor-holman-on-autonomous-yard-trucks",
+    "pass": 1
+   },
+   {
+    "quote": "That timing matches the 2027 serial production target FreightWaves reported in June. ISEE will also keep working with other yard truck OEMs on new diesel, alternative-fuel and electric models, according to the release.",
+    "url": "https://www.isee.ai/news/freightwaves-isee-partners-with-investor-holman-on-autonomous-yard-trucks",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Work can be fulfilling, fun, and enjoyable. We value being part of a team that makes a difference and finds purpose and joy in our work.",
+    "url": "https://www.isee.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "As demand for autonomous yard vehicles continues to grow, together, Holman and ISEE are uniquely positioned to help businesses eliminate the barriers to entry that typically slow adoption – high upfront costs, technical complexities, and a fragmented network of vendors.",
+    "url": "https://www.isee.ai/news/holman-and-isee-partner-to-optimize-utilization-of-autonomous-yard-trucks",
+    "pass": 1
+   },
+   {
+    "quote": "by always doing the right thing for our people, our customers, and the community since 1924. The Holman story began more than 100 years ago as a single Ford dealership in New Jersey. Today, Holman, headquartered in Mount Laurel, New Jersey, is one of the largest family-owned automotive service organizations in North America with more than 10,000 employees across North America, the UK, and Germany.",
+    "url": "https://www.isee.ai/news/holman-and-isee-partner-to-optimize-utilization-of-autonomous-yard-trucks",
+    "pass": 1
+   },
+   {
+    "quote": "2026年7月28日、MCPはローンチ以来「最も大規模な変更」（リード・メンテナーのSoria Parra氏の言葉）を伴う新仕様2026-07-28をリリースした（",
+    "url": "https://note.com/betaitohuman/n/ne08a780d23a5",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ISEE AI Advanced Autonomous Yard Truck Solutions — ISEE AI has developed a better autonomous driver, designed to drive reliably in open industrial environments and navigate dynamically changing conditions.",
+    "url": "https://www.isee.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "ISEE 2026 Company Profile: Valuation, Funding & Investors ...isee ai – Industry Ranking & Company Valuation – 2026iSee - 2026 Company Profile, Team, Funding & Competitors - TracxniSEE (Aerospace and Defense) 2026 Company Profile: Valuation ...isee systems Revenue, Funding & Valuationisee ai Revenue 2023: $33.1M Est. - LATKAISEE — venture-backed company profile | Dealroom — Information on valuation",
+    "url": "https://pitchbook.com/profiles/company/186554-44",
+    "pass": 3
+   },
+   {
+    "quote": "isee ai – Industry Ranking & Company Valuation – 2026 — Discover isee ai's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/isee-ai",
+    "pass": 3
+   },
+   {
+    "quote": "iSee - 2026 Company Profile, Team, Funding & Competitors - TracxniSEE (Aerospace and Defense) 2026 Company Profile: Valuation ...isee systems Revenue, Funding & Valuationisee ai Revenue 2023: $33.1M Est. - LATKAISEE — venture-backed company profile | Dealroom — Apr 1, 2026 · iSee - About the company iSee is a series B company based in Cambridge (United States), founded in 2017 by Debbie Yu, Chris ",
+    "url": "https://tracxn.com/d/companies/isee/__h9nB_yLpYEztihRK2fBEur_2CBMrFXwCIyEUVEzth8k",
+    "pass": 3
+   },
+   {
+    "quote": "iSEE (Aerospace and Defense) 2026 Company Profile: Valuation ...isee systems Revenue, Funding & Valuationisee ai Revenue 2023: $33.1M Est. - LATKAISEE — venture-backed company profile | Dealroom — Jan 22, 2024 · The current revenue for iSEE (Aerospace and Defense) is . How much funding has iSEE (Aerospace and Defense) raised over time? iSEE (Aerospace and Defense) has raised $2M. Who are iSEE (Aer",
+    "url": "https://pitchbook.com/profiles/company/626852-80",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "ISEE, Inc｜yamaken910 - note（ノート） Apr 12, 2020 · Isee社は、AIを使用した自律型トラック輸送を実現する新興企業です。 Isee社は、独自のディープラーニング およびコグニティブAIテクノロジーを使用することで、トラック輸送における自動運転を目指しています。 本社：米国／マサチューセッツ州ケンブリッジ 創業：2017年 株式：未公開 資本 ...",
+    "url": "https://note.com/yamaken910/n/n62e8f4fd8148",
+    "pass": 3
+   },
+   {
+    "quote": "AIエージェントは、なぜ「賢くなるほど脆くなる」のか──認知・構造・... Aug 6, 2026 · 本稿で分析した4つのアプローチ──ISEEの認知基盤、Self-Organising Circuitsの自己修復能力、Beyond the Hivemindの多様性維持、HyperAgentの構造的最適化──の統合が示唆するのは、AIエージェントシステムが「人間の指示を忠実に実行する逐次的なツール実行者」から ...",
+    "url": "https://note.com/betaitohuman/n/ne08a780d23a5",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Isee社は、AIを使用した自律型トラック輸送を実現する新興企業です。",
+    "url": "https://note.com/yamaken910/n/n62e8f4fd8148",
+    "pass": 3
+   },
+   {
+    "quote": "Isee社は、独自のディープラーニング およびコグニティブAIテクノロジーを使用することで、トラック輸送における自動運転を目指しています。",
+    "url": "https://note.com/yamaken910/n/n62e8f4fd8148",
+    "pass": 3
+   },
+   {
+    "quote": "本社：米国／マサチューセッツ州ケンブリッジ",
+    "url": "https://note.com/yamaken910/n/n62e8f4fd8148",
+    "pass": 3
+   },
+   {
+    "quote": "AIエージェントは、なぜ「賢くなるほど脆くなる」のか──認知・構造・協調、3つの壁とMCPの静かな革命｜laughman-ai",
+    "url": "https://note.com/betaitohuman/n/ne08a780d23a5",
+    "pass": 3
+   },
+   {
+    "quote": "AIエージェントは、なぜ「賢くなるほど脆くなる」のか──認知・構造・協調、3つの壁とMCPの静かな革命",
+    "url": "https://note.com/betaitohuman/n/ne08a780d23a5",
+    "pass": 3
+   },
+   {
+    "quote": "はじめに：あなたのエージェントが「気づいたら止まっていた」理由",
+    "url": "https://note.com/betaitohuman/n/ne08a780d23a5",
+    "pass": 3
+   },
+   {
+    "quote": "深夜3時、監視アラートが鳴る。原因は些細なAPIの仕様変更だった。にもかかわらず、自律稼働していたはずのAIエージェント群は、まるで停電したビルのようにピタリと沈黙した──こんな経験、あるいはこれから経験するかもしれない未来を、想像したことはあるだろうか。",
+    "url": "https://note.com/betaitohuman/n/ne08a780d23a5",
+    "pass": 3
+   },
+   {
+    "quote": "2024年11月にAnthropicが発表したModel Context Protocol（MCP）は、わずか1年半足らずで「AIエージェントがツールやデータに接続するための共通言語」としての地位を確立した。TypeScript SDKとPython SDKだけで月間およそ5億ダウンロード、両者合わせて累計10億ダウンロードを突破し、OpenAI、Google DeepMind、Microsoft、AWSといった巨人たちまでもがこの規格に乗り込んだ、という事実がその普及速度を物語っている（",
+    "url": "https://note.com/betaitohuman/n/ne08a780d23a5",
+    "pass": 3
+   },
+   {
+    "quote": "）。もはやMCPは「便利な接続規格」ではなく、エージェント経済圏そのものを支える背骨になりつつある。",
+    "url": "https://note.com/betaitohuman/n/ne08a780d23a5",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、この急成長の裏側で、静かに、しかし確実に、3つの壁がAIエージェントの前に立ちはだかっている。それが本稿の主題である「認知（Cognition）」「構造（Structure）」「協調（Coordination）」の壁だ。数万規模の外部ツールが接続され、イベント駆動でエージェントが次々とトリガーされる現代のアーキテクチャにおいて、この3つの壁を越えられなければ、エージェントは「賢くなればなるほど脆くなる」という皮肉な帰結を迎える。",
+    "url": "https://note.com/betaitohuman/n/ne08a780d23a5",
+    "pass": 3
+   },
+   {
+    "quote": "本稿では、この壁を突破しようとする4つの最先端研究──",
+    "url": "https://note.com/betaitohuman/n/ne08a780d23a5",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ISEE (@isee_ai) / Posts / X ISEE (@isee_ai) - Posts - We’re an autonomous driving technology company building advanced AI to modernize the global supply c... | X (formerly Twitter)",
+    "url": "https://x.com/isee_ai",
+    "pass": 3
+   },
+   {
+    "quote": "We’re ISEE, an autonomous driving technology company building ... ISEE (@isee_ai). 14 likes. We’re ISEE, an autonomous driving technology company building advanced AI to modernize the global supply chain. Watch how our AI-powered yard trucks increase efficiency, safety, and give operators greater control over yard processes.",
+    "url": "https://x.com/isee_ai/status/1509545030670643200",
+    "pass": 3
+   },
+   {
+    "quote": "ISEE (@isee_ai) / Posts / X Feb 12, 2018 · ISEE (@isee_ai) - Posts - We’re an autonomous driving technology company building advanced AI to modernize the global supply c... | X (formerly Twitter)",
+    "url": "https://x.com/isee_ai",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "ISEE - LinkedIn ISEE is an autonomous driving technology company, spun out of MIT, whose humanistic, AI-powered, self-driving yard trucks are modernizing the global supply chain for the world’s leading companies.",
+    "url": "https://www.linkedin.com/company/isee-ai",
+    "pass": 3
+   },
+   {
+    "quote": "iSee4XAI - LinkedIn iSee4XAI | 14 followers on LinkedIn. iSee: Building the AI you trust Intelligent Sharing of Explanation Experience by Users for Users | A right to obtain an explanation of the decision reached by ...",
+    "url": "https://www.linkedin.com/company/isee4xai/",
+    "pass": 3
+   },
+   {
+    "quote": "iSEE - Impact Space Expedition and Exploration | LinkedIn iSEE (Impact Space Expedition & Exploration) is a global leader in space security, providing advanced multi sensing AI controlled technology for Space Situational and Domain Awareness (SSDA)",
+    "url": "https://de.linkedin.com/company/isee-impact-space-expedition-exploration",
+    "pass": 3
+   },
+   {
+    "quote": "Yibiao Zhao - ISEE AI | LinkedIniSee Technologies - LinkedIniSEE - Impact Space Expedition and Exploration | LinkedInisee.art - LinkedIn Experience: ISEE AI · Education: Massachusetts Institute of Technology · Location: Cambridge · 500+ connections on LinkedIn. View Yibiao Zhao’s profile on LinkedIn, a professional community ... iSee Technologies Business Consulting and Services Atlanta, GA 77 fol",
+    "url": "https://www.linkedin.com/in/yibiaozhao",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "ISEE | Cambridge MA - Facebook Oct 13, 2022 · ISEE, Cambridge. 27 likes · 1 was here. We’re an autonomous driving technology company building advanced AI to modernize the global supply chain.",
+    "url": "https://www.facebook.com/iseeai/",
+    "pass": 3
+   },
+   {
+    "quote": "isee systems - FacebookISee: AI Art & Photo Editor - FacebookISEE - International Society for Environmental EpidemiologyRead Description, AI powered Trucks! ISEE ... - FacebookISEE STEM- Idaho South and East STEM Ecosystem - FacebookAI powered trucks! . ISEE AI is a technology company that ... Stella's new AI agent built on the open‑source SD‑AI platform that helps guide you through the System Dyn",
+    "url": "https://www.facebook.com/iseesystems/",
+    "pass": 3
+   },
+   {
+    "quote": "ISee: AI Art & Photo Editor - Facebook Feb 14, 2023 · ISee: AI Art & Photo Editor. 107 likes. Editable & UNLIMITED AI Avatars & AI Art app using your own words and image",
+    "url": "https://www.facebook.com/100087295524943/",
+    "pass": 3
+   },
+   {
+    "quote": "ISEE - International Society for Environmental EpidemiologyRead Description, AI powered Trucks! ISEE ... - FacebookISEE STEM- Idaho South and East STEM Ecosystem - FacebookAI powered trucks! . ISEE AI is a technology company that ... Oct 2, 2026 · ISEE - International Society for Environmental Epidemiology. 897 followers · 5 talking about this. ISEE supports epidemiologists who study human health ",
+    "url": "https://www.facebook.com/ISEEglobal/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.isee.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.isee.ai/news/freightwaves-isee-partners-with-investor-holman-on-autonomous-yard-trucks",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.isee.ai/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.isee.ai/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.isee.ai/our-technology",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.isee.ai/news/holman-and-isee-partner-to-optimize-utilization-of-autonomous-yard-trucks",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://imagedelivery.net/XZ1UphI89GD7_-4XrucI9Q/www.holman.com/2026/10/rob-isee-partnership-oct26.jpg/w=1432,h=806",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.itmedia.co.jp/enterprise/articles/2611/06/news022.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ai-souken.com/article/ai-adoption-japan-status",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000192563.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ejje.weblio.jp/content/%E7%B7%8F%E4%BB%A3%E7%90%86%E5%BA%97",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000041.000156159.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.isee.nagoya-u.ac.jp/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dataset.isee.ai/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.isee.nagoya-u.ac.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.isee-vision.com/en/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/mpc-studios/case-study/isee-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/one-design-company/case-study/isee-launches-a-differentiated-autonomous-driving-brand-with-one-design-company-in-2021",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://customgpt.ai/ai-reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/186554-44",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/isee-ai",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/isee/__h9nB_yLpYEztihRK2fBEur_2CBMrFXwCIyEUVEzth8k",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/626852-80",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/yamaken910/n/n62e8f4fd8148",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/betaitohuman/n/ne08a780d23a5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/isee_ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/isee_ai/status/1509545030670643200",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/isee-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/isee4xai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/company/isee-impact-space-expedition-exploration",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/yibiaozhao",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/iseeai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/iseesystems/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100087295524943/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ISEEglobal/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/isee_ai",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ISEE AI 日本 導入",
+   "results": [
+    "https://www.isee.ai/",
+    "https://www.itmedia.co.jp/enterprise/articles/2611/06/news022.html",
+    "https://www.ai-souken.com/article/ai-adoption-japan-status",
+    "https://prtimes.jp/main/html/rd/p/000000001.000192563.html",
+    "https://www.nri.com/jp/media/journal/20260416.html",
+    "https://www.i-ise.com/jp/information/report/2025/rep_it_202603a.html",
+    "https://www.generativeai.tokyo/media/ai-adoption-survey-2026-sme/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ISEE AI 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ejje.weblio.jp/content/総代理店",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://prtimes.jp/main/html/rd/p/000000041.000156159.html",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://context.reverso.net/翻訳/日本語-英語/総代理店",
+    "https://prtimes.jp/main/html/rd/p/000000048.000156159.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ISEE AI Japan",
+   "results": [
+    "https://www.isee.ai/",
+    "https://www.isee.nagoya-u.ac.jp/en/",
+    "https://dataset.isee.ai/",
+    "https://www.isee.nagoya-u.ac.jp/",
+    "https://isee-ai.cn/",
+    "https://www.isee.ai/about",
+    "https://www.iseepi.org/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ISEE AI manufacturing customer case study",
+   "results": [
+    "https://www.isee-vision.com/en/customer-stories",
+    "https://www.casestudies.com/company/mpc-studios/case-study/isee-customer-case-study",
+    "https://www.casestudies.com/company/one-design-company/case-study/isee-launches-a-differentiated-autonomous-driving-brand-with-one-design-company-in-2021",
+    "https://www.isee.ai/",
+    "https://aiformanufacturing.org/",
+    "https://www.isee.ai/our-technology",
+    "https://arxiv.org/html/2408.12941v1"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ISEE AI white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://customgpt.ai/ai-reseller-program/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://aws.amazon.com/partners/programs/",
+    "https://www.seoreseller.com/",
+    "https://www.ninjaone.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ISEE AI founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/186554-44",
+    "https://compworth.com/company/isee-ai",
+    "https://tracxn.com/d/companies/isee/__h9nB_yLpYEztihRK2fBEur_2CBMrFXwCIyEUVEzth8k",
+    "https://pitchbook.com/profiles/company/626852-80",
+    "https://prospeo.io/c/isee-systems-revenue",
+    "https://getlatka.com/companies/isee.ai",
+    "https://dealroom.co/companies/isee/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com ISEE AI",
+   "results": [
+    "https://note.com/yamaken910/n/n62e8f4fd8148",
+    "https://note.com/brave_holly697/n/nc2bfe48b6df6",
+    "https://note.com/betaitohuman/n/ne08a780d23a5",
+    "https://note.com/wildriver/n/n9d95d97fbf60",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/shikichee/n/n0bc06a50e66f",
+    "https://note.com/earth_marlintuna/n/nc89f48d08dec"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com ISEE AI",
+   "results": [
+    "https://x.com/isee_ai",
+    "https://x.com/isee_ai/status/1509545030670643200",
+    "https://x.com/ISEE_global",
+    "https://x.com/iSeeVC",
+    "https://x.com/iseesystems",
+    "https://x.com/iSeeAIart",
+    "https://x.com/isee_ai/status/1592546562072264705"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com ISEE AI",
+   "results": [
+    "https://www.linkedin.com/company/isee-ai",
+    "https://www.linkedin.com/company/isee4xai/",
+    "https://de.linkedin.com/company/isee-impact-space-expedition-exploration",
+    "https://www.linkedin.com/in/yibiaozhao",
+    "https://www.linkedin.com/company/iseetechinc",
+    "https://www.linkedin.com/company/isee-impact-space-expedition-exploration",
+    "https://www.linkedin.com/company/iseeart"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com ISEE AI",
+   "results": [
+    "https://www.facebook.com/iseeai/",
+    "https://www.facebook.com/iseesystems/",
+    "https://www.facebook.com/100087295524943/",
+    "https://www.facebook.com/ISEEglobal/",
+    "https://www.facebook.com/EzyGeek/videos/-read-description-ai-powered-trucksisee-ai-is-a-technology-company-that-speciali/2109439346094938/",
+    "https://www.facebook.com/ISEESTEM/",
+    "https://www.facebook.com/reel/1602131443868505/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ISEE AI note 社長",
+   "results": [
+    "https://www.isee.ai/",
+    "https://x.com/ai_ceo_note",
+    "https://www.youtube.com/watch?v=16O80Ks5PBo",
+    "https://note.com/claudeceo",
+    "https://note.com/aiceo",
+    "https://qiita.com/komure_slj/items/bd342d2033f4364e43fb",
+    "https://www.isee.ai/about"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ISEE AI X 投稿",
+   "results": [
+    "https://x.com/isee_ai",
+    "https://www.isee.ai/",
+    "https://dataset.isee.ai/",
+    "https://isee-space.ai/",
+    "https://www.iseeie.org/sub",
+    "https://x.com/inishie_ai/status/2118387820465365044",
+    "https://digirise.ai/chaen-ai-lab/x/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部34頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部34頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部34頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部34頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部34頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部34頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部34頁・検索12回）"
+ }
+}

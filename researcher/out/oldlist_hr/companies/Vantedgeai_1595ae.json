@@ -1,0 +1,804 @@
+{
+ "name": "Vantedgeai",
+ "aliases": [],
+ "context": "旧営業リスト｜Financial Services｜未接触",
+ "researched_at": "2026-11-11T13:49:59.446911+00:00",
+ "official_url": "https://www.vantedgeai.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "27-May-2022 $3M   Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/489955-06",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2021",
+    "url": "https://startupintros.com/orgs/vantedgeai",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "Norwalk, CT, USA",
+    "url": "https://startupintros.com/orgs/vantedgeai",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "FundOS connects your books, LP records, portfolio data, documents, and workflows so AI agents reconcile, monitor, and prepare fund operations against current data. Your team approves every consequential action.",
+    "url": "https://fundos.vantedgeai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Human approval required",
+    "url": "https://fundos.vantedgeai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prime broker file / Portfolio 07",
+    "url": "https://fundos.vantedgeai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Q2 reporting pack ties to the approved NAV run",
+    "url": "https://fundos.vantedgeai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "NAV run 248 / Marketing review",
+    "url": "https://fundos.vantedgeai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "3 proposals ready for your team",
+    "url": "https://fundos.vantedgeai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "VDR / Transactions / Pricer",
+    "url": "https://fundos.vantedgeai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The operating problem",
+    "url": "https://fundos.vantedgeai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The data already exists. It is scattered across the administrator, general ledger, prime broker, CRM, document rooms, inboxes, and spreadsheets. Your team spends its time turning fragments back into a fund.",
+    "url": "https://fundos.vantedgeai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prime broker / custodian",
+    "url": "https://fundos.vantedgeai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Entities, source rules, calculations, obligations, and approvals stay connected.",
+    "url": "https://fundos.vantedgeai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Agents prepare. Your team decides.",
+    "url": "https://fundos.vantedgeai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "FundOS agents do more than answer questions. They prepare real work against current fund data and show their reasoning before anything moves.",
+    "url": "https://fundos.vantedgeai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Sources attached to every proposal",
+    "url": "https://fundos.vantedgeai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Human approval for consequential actions",
+    "url": "https://fundos.vantedgeai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proposal 1842 / Capital call notice",
+    "url": "https://fundos.vantedgeai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Agent assembled the notice from approved commitment and cash requirement records.",
+    "url": "https://fundos.vantedgeai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "LPA, subscription records, approved budget, and investor wiring instructions.",
+    "url": "https://fundos.vantedgeai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Awaiting authorized signatory approval. Nothing has been sent.",
+    "url": "https://fundos.vantedgeai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "FundOS handles LP money, confidential deal flow, and regulated workflows. Access, approvals, evidence, and isolation are designed into the system from the start.",
+    "url": "https://fundos.vantedgeai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every agent action, edit, approval, and source is preserved.",
+    "url": "https://fundos.vantedgeai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "FundOS preserves a shared data and control layer while tuning the workflows, calculations, and cadence to your strategy.",
+    "url": "https://fundos.vantedgeai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Private equity and VC",
+    "url": "https://fundos.vantedgeai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Private and structured credit",
+    "url": "https://fundos.vantedgeai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect Claude, Codex, or your own agents through MCP. External agents inherit user scope, propose write-backs for approval, and leave the same audit trail as work prepared inside FundOS.",
+    "url": "https://fundos.vantedgeai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "公式ホームページでは、Solo GP向けのStarterプランを無料で提供し、企業顧客には必要なモジュール別のカスタムEnterprise料金プランを適用すると案内されています",
+    "url": "https://ainiche.net/ja/tools/vantedgeai",
+    "pass": 3
+   },
+   {
+    "quote": "クレジットおよびプライベートデット（Private Credit）市場に特化した学習モデルを使用しており、一般的な",
+    "url": "https://ainiche.net/ja/tools/vantedgeai",
+    "pass": 3
+   },
+   {
+    "quote": "Contact for pricing; free entitlement unverified",
+    "url": "https://ainiche.net/ja/tools/vantedgeai",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise Sales Training",
+    "url": "https://vantedge.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Models trained on thousands of prospectuses to understand bond & credit language.",
+    "url": "https://pc.vantedgeai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Map extracted data directly into proprietary Excel Models. Or create templates on the fly!",
+    "url": "https://pc.vantedgeai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Intelligent Pre-Investment Screening",
+    "url": "https://pc.vantedgeai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Enterprise-Ready AI for Credit Markets",
+    "url": "https://pc.vantedgeai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Secure, Scalable, Compliant - Built for Analysts and Enterprise IT.",
+    "url": "https://pc.vantedgeai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Why Enterprises Trust VantedgeAI",
+    "url": "https://pc.vantedgeai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "VantedgeAI combines deep domain intelligence with enterprise-grade controls.",
+    "url": "https://pc.vantedgeai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Auditability, transparency, and custom training make it the most secure and adaptable credit AI platform.",
+    "url": "https://pc.vantedgeai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "From Raw Data to Precise Decisions in One-Third the Time",
+    "url": "https://pc.vantedgeai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Submit any financial, legal, or client documents - including Excel, PDF, and presentations. VantedgeAI parses, validates, and organizes information into industry-standard templates or your custom models.",
+    "url": "https://pc.vantedgeai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Automatically build financial models, compute deal attributes, benchmark risk factors, and generate valuation summaries - all directly from the data you provided.",
+    "url": "https://pc.vantedgeai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Join the elite group of Hedge Fund and Private Credit investors that leverage VantedgeAI to navigate complex credit markets with unparalleled ease and insight.",
+    "url": "https://pc.vantedgeai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Our SOC 2 compliance ensures that we meet the highest standards of security, confidentiality, and privacy,",
+    "url": "https://pc.vantedgeai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "providing our clients with confidence that their sensitive data is handled with the utmost care and integrity.",
+    "url": "https://pc.vantedgeai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Generative AI Built for Enterprise Deployment",
+    "url": "https://pc.vantedgeai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Private & Secure Infrastructure",
+    "url": "https://pc.vantedgeai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Deploy VantedgeAI in single-tenant or private cloud environments with full data isolation, encryption, and SOC 2 readiness.",
+    "url": "https://pc.vantedgeai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "From analysts buried in covenant checks to portfolio heads chasing efficiency targets - VantedgeAI removes the manual grind and replaces it with instant, auditable intelligence.",
+    "url": "https://pc.vantedgeai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Hours lost copy-pasting from 200-page prospectuses",
+    "url": "https://pc.vantedgeai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Productivity plateau - analysts maxed out",
+    "url": "https://pc.vantedgeai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Long onboarding for junior hires",
+    "url": "https://pc.vantedgeai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Rising data-provider costs",
+    "url": "https://pc.vantedgeai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "VantedgeAI turns “spreadsheet hours” into “decision minutes.”",
+    "url": "https://pc.vantedgeai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Generate comprehensive memos from unstructured data rooms in minutes — saving analysts hours.",
+    "url": "https://pc.vantedgeai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Data Security & Privacy",
+    "url": "https://pc.vantedgeai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "VantedgeAI 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/489955-06",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/489955-06",
+    "pass": 3
+   },
+   {
+    "quote": "Provider of advanced AI-driven analytics technology intended to enhance investment decision-making for credit funds.",
+    "url": "https://pitchbook.com/profiles/company/489955-06",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/489955-06",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/489955-06",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/489955-06",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Positions, covenants, exposure, borrowing bases, reconciliations, and exceptions as information arrives.",
+    "url": "https://fundos.vantedgeai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fund-grade controls are part of the operating surface.",
+    "url": "https://fundos.vantedgeai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Huscarlは、企業の自家保険（セルフインシュアランス）および自家保険子会社（キャプティブ）の運用を支援するAIアクチュアリー（保険数理）プラットフォー...",
+    "url": "https://www.firstcvc.jp/global/vantedgeai.com",
+    "pass": 3
+   },
+   {
+    "quote": "Metriportは、米国の医療データを統合・標準化し、医療従事者や臨床AIエージェントにリアルタイムで提供するオープンソースの医療データインフラ企業であ...",
+    "url": "https://www.firstcvc.jp/global/vantedgeai.com",
+    "pass": 3
+   },
+   {
+    "quote": "VantedgeAI has 18 total employees.",
+    "url": "https://pitchbook.com/profiles/company/489955-06",
+    "pass": 3
+   },
+   {
+    "quote": "What is VantedgeAI’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/489955-06",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for VantedgeAI is",
+    "url": "https://pitchbook.com/profiles/company/489955-06",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "主に英語圏の金融書式と米国・欧州の信用分析体系に最適化されているため、日本語専用の金融文書や日本固有の法的条項を分析する際には、精度がやや低下する可能性があります",
+    "url": "https://ainiche.net/ja/tools/vantedgeai",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "VantedgeAIの資金調達・投資家情報 | 海外スタートアップ | FIRST CVC — Y Combinatorのポートフォリオに掲載される海外スタートアップVantedgeAIの企業プロフィール。VantedgeAIは、プライベートクレジット、ヘッジファンド、プライベートエクイティなどの機関投資家およびフィンテック企業向けに、AI投資インフラストラクチャとAIエージェントのマーケットプレイスを ...",
+    "url": "https://www.firstcvc.jp/global/vantedgeai.com",
+    "pass": 3
+   },
+   {
+    "quote": "VantedgeAI - AIツールレビュー | AIniche — 差別化ポイント VantedgeAIは、一般的な金融AIであるAlphaSenseが膨大な「外部市場データ」の検索に重点を置くのに対し、ユーザーの「内部非公開データ（VDR、内部モデル）」の分析と実務ワークフローの自動化に最適化されています。また、Hebbiaが汎用的な文書Q&Aを提供する一方で、VantedgeAIは15年 ...",
+    "url": "https://ainiche.net/ja/tools/vantedgeai",
+    "pass": 3
+   },
+   {
+    "quote": "FundOS by VantedgeAI | Your fund, continuously current — Continuous fund operations across books, LP records, portfolio data, documents, and workflows, with every consequential action approved by your team.",
+    "url": "https://www.vantedgeai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Vantedge AI — Whether you’re seeking AI-powered sales optimization or operational solutions, Vantedge AI offers services designed to enhance flexibility, scalability, and reliability.",
+    "url": "https://vantedge.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "VantedgeAI — VantedgeAI uses specialized Ingestion and Structuring Agents to parse unstructured documents such as CIMs, credit agreements, and pitch decks. These agents extract relevant financials, deal terms, borrower information, and risk flags, transforming them into structured data that can be used for modeling, memo generation, or compliance checks.",
+    "url": "https://pc.vantedgeai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "FundOS by VantedgeAI | Your fund, continuously current — Continuous fund operations across books, LP records, portfolio data, documents, and workflows, with every consequential action approved by your team.",
+    "url": "https://fundos.vantedgeai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Analyst - agents.vantedgeai.com — An AI-powered chatbot for finance",
+    "url": "https://agents.vantedgeai.com/login",
+    "pass": 3
+   },
+   {
+    "quote": "VantedgeAI — VantedgeAI is designed to integrate with your proprietary models, whether they are in Excel, Python, or hosted via API. Our Model Agent can be configured to pass structured inputs into your existing calculations and retrieve results seamlessly—preserving the investment logic unique to your firm.",
+    "url": "https://pc.vantedgeai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "VantedgeAI — VantedgeAI Welcome back Sign in to continue to VantedgeAI Sign in with VentureInsights",
+    "url": "https://app.vantedgeai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "VantedgeAI 2026 Company Profile: Valuation, Funding ...VantedgeAI: Funding, Team & Investors | Startup IntrosVantEdge Labs 2026 Company Profile: Valuation, Funding ...VantedgeAI - Overview, News & Similar companies | ZoomInfo.comVantedge AI — Company Profile & Funding | Indexed.vcVantedgeAI Funding History, Valuation and Investors - aVentureVantedgeAI - Crunchbase Company Profile & Funding — Vante",
+    "url": "https://pitchbook.com/profiles/company/489955-06",
+    "pass": 3
+   },
+   {
+    "quote": "VantedgeAI: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Frequently Asked Questions Who founded VantedgeAI? VantedgeAI was founded in 2021 by Ravi Chachra (Founder) and Vijay Lavhale (Founder). How much funding has VantedgeAI raised? VantedgeAI has raised $3.0M in total across 1 funding round.",
+    "url": "https://startupintros.com/orgs/vantedgeai",
+    "pass": 3
+   },
+   {
+    "quote": "VantEdge Labs 2026 Company Profile: Valuation, Funding ...VantedgeAI - Overview, News & Similar companies | ZoomInfo.comVantedge AI — Company Profile & Funding | Indexed.vcVantedgeAI Funding History, Valuation and Investors - aVentureVantedgeAI - Crunchbase Company Profile & Funding — Information on valuation, funding, cap tables, investors, and executives for VantEdge Labs. Use the PitchBook Plat",
+    "url": "https://pitchbook.com/profiles/company/707188-87",
+    "pass": 3
+   },
+   {
+    "quote": "VantedgeAI - Overview, News & Similar companies | ZoomInfo.com — View VantedgeAI (www.vantedgeai.com) location in Connecticut, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+    "url": "https://www.zoominfo.com/c/vantedgeai/5000062443",
+    "pass": 3
+   },
+   {
+    "quote": "Vantedge AI — Company Profile & Funding | Indexed.vc — Vantedge AI is an agent marketplace for institutional investors, providing AI-powered investment… Founded 2021. United States. $3.5M raised across 1 round.",
+    "url": "https://indexed.vc/companies/vantedge-ai",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by credit teams managing billions",
+    "url": "https://pc.vantedgeai.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by enterprise partners and blue-chip investors managing over $100 billion in assets, with continuous deployment of new AI agents enhancing platform capabilities monthly.",
+    "url": "https://startupintros.com/orgs/vantedgeai",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/489955-06",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Excited to meet you all!!! #TechCrunchDisrupt # ... VantedgeAI (@VantedgeAi). 219 views. Excited to meet you all!!! #TechCrunchDisrupt #TechCrunchDisrupt2024 #PrivateCredit #bondmarket",
+    "url": "https://x.com/VantedgeAi/status/1851296892204040666",
+    "pass": 3
+   },
+   {
+    "quote": "@vantedgeAI | X The latest posts from @vantedgeAI",
+    "url": "https://x.com/vantedgeAI",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "VantedgeAI - LinkedIn VantedgeAI streamlines credit investing workflows by automating manual processes, significantly reducing the time and effort required for data extraction, investment analysis, and portfolio ...",
+    "url": "https://www.linkedin.com/company/vantedgeai",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://fundos.vantedgeai.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.firstcvc.jp/global/vantedgeai.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ainiche.net/ja/tools/vantedgeai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vantedge.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pc.vantedgeai.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fundos.vantedgeai.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://agents.vantedgeai.com/login",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vantedge.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pc.vantedgeai.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://app.vantedgeai.com/login",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vantedge.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marketing.vantedgemedical.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vantedgemedical.com/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://vantedgeanalytics.com/case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/vantedge-group",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/489955-06",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://startupintros.com/orgs/vantedgeai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/707188-87",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/vantedgeai/5000062443",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/VantedgeAi/status/1851296892204040666",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/vantedgeai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/vantedgeai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/vantedgeAI",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Vantedgeai 日本 導入",
+   "results": [
+    "https://www.firstcvc.jp/global/vantedgeai.com",
+    "https://ainiche.net/ja/tools/vantedgeai",
+    "https://www.vantedgeai.com/",
+    "https://vantedge.ai/",
+    "https://www.teradata.jp/insights/ai-and-machine-learning/teradata-vantage-ai-offering",
+    "https://www.vantedge.run/",
+    "https://note.com/lucky_hornet941/n/n30e4f9e0d292"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Vantedgeai 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://pc.vantedgeai.com/",
+    "https://fundos.vantedgeai.com/",
+    "https://agents.vantedgeai.com/login",
+    "https://www.vantedge.com/",
+    "https://vantedge.partners/",
+    "https://www.vantec-gl.com/jp/",
+    "https://www.aon.com/japan/company-overview"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Vantedgeai Japan",
+   "results": [
+    "https://pc.vantedgeai.com/",
+    "https://app.vantedgeai.com/",
+    "https://www.vantedgeai.com/",
+    "https://vantedge.ai/",
+    "https://vantedgeorg.com/",
+    "https://vantedge.ai/about/",
+    "https://www.vantedge.run/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Vantedgeai manufacturing customer case study",
+   "results": [
+    "https://marketing.vantedgemedical.com/case-studies",
+    "https://vantedgemedical.com/resources/case-studies",
+    "https://vantedgeanalytics.com/case-study/",
+    "https://www.casestudies.com/customer/vantedge-group",
+    "https://marketing.vantedgemedical.com/case-studies/author/vantedge-medical",
+    "https://www.vantedgesearch.com/category/case-study/",
+    "https://www.vantedgesolutionsph.com/case-studies"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Vantedgeai white label OR reseller OR partner program",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Vantedgeai founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/489955-06",
+    "https://startupintros.com/orgs/vantedgeai",
+    "https://pitchbook.com/profiles/company/707188-87",
+    "https://www.zoominfo.com/c/vantedgeai/5000062443",
+    "https://indexed.vc/companies/vantedge-ai",
+    "https://aventure.vc/companies/vantedgeai-norwalk-ct-us/fundraising",
+    "https://www.crunchbase.com/organization/8vdx"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Vantedgeai",
+   "results": [
+    "https://note.com/tag/ギャンブル依存症",
+    "https://note.com/clean_roses410/all",
+    "https://note.com/yoniumuhibi",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/yutsuki358/n/nb6532113a898",
+    "https://note.com/rm131429/n/n97e57ea0bb41",
+    "https://note.com/note_lyckad2432/n/nedd9c11bce22"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Vantedgeai",
+   "results": [
+    "https://x.com/VantedgeAi/status/1851296892204040666",
+    "https://x.com/vantedgegrowth",
+    "https://x.com/CaVantedge",
+    "https://x.com/thevantedge",
+    "https://x.com/vantEdgeBot",
+    "https://x.com/vantedge_group",
+    "https://x.com/vantedgelegacy"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Vantedgeai",
+   "results": [
+    "https://www.linkedin.com/company/vantedgeai",
+    "https://www.linkedin.com/company/vantedge-global",
+    "https://ca.linkedin.com/company/vantedge-labs",
+    "https://ke.linkedin.com/company/vant-edge",
+    "https://ca.linkedin.com/company/vantedge-logistics-inc",
+    "https://in.linkedin.com/company/vantedgesearch",
+    "https://it.linkedin.com/company/vantedge-global"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Vantedgeai",
+   "results": [
+    "https://www.facebook.com/VantedgeStudios/",
+    "https://www.facebook.com/VantedgeSearch/",
+    "https://www.facebook.com/VantedgeLuxury/",
+    "https://www.facebook.com/Vantedge/",
+    "https://www.facebook.com/vantedgegrowth/",
+    "https://www.facebook.com/vantedgeauto/",
+    "https://www.facebook.com/p/VantEdge-61593839107305/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Vantedgeai note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.linkedin.com/company/vantedgeai",
+    "https://www.vantedgeai.com/",
+    "https://www.vantedge.run/leadership",
+    "https://vantedge.ai/",
+    "https://www.vantedge.run/",
+    "https://vantedge.ai/about/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Vantedgeai X 投稿",
+   "results": [
+    "https://x.com/vantedgeAI",
+    "https://pc.vantedgeai.com/",
+    "https://app.vantedgeai.com/",
+    "https://www.vantedgeai.com/",
+    "https://www.vantedgeai.com/?trk=public_post_main-feed-card_reshare-text",
+    "https://x.com/VantedgeAi/status/1851296892204040666",
+    "https://www.vantedge.run/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部22頁・検索12回）"
+ }
+}

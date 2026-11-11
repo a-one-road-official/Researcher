@@ -1,0 +1,1254 @@
+{
+ "name": "スーパーレジン工業株式会社",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T13:19:32.938066+00:00",
+ "official_url": "http://www.super-resin.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "東京都稲城市坂浜2283",
+    "url": "https://www.albitech.co.jp/archives/case_study/002-2",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "206-0822東京都稲城市坂浜２２８３",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "label": "本社以外の事業所",
+    "value": "■津久井工場 〒252-0154 神奈川県相模原市緑区長竹３５１２",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "炭素繊維を中心とした先端複合材料を用いた成形加工メーカー。\n航空・宇宙機器や液晶・半導体製造装置の部品および産業機械部品などの研究・製造・販売。",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "田山　紘介",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "151人",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   }
+  ],
+  "拠点": [
+   {
+    "label": "関連会社",
+    "value": "寧波麗成複合材料制品有限公司（中国浙江省）",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "1957年の設立以来、複合材料の技術発展とともに歩み、航空・宇宙機器、産業機器、電波応用機器、自動車、医療・介護機器、風力発電など、幅広い分野に製品を提供してきた",
+    "url": "https://space-job.jp/company_detail/super-resin",
+    "pass": 3
+   },
+   {
+    "quote": "担える体制を強みに、高度な品質や精度が求められる製品のものづくりを支えている",
+    "url": "https://space-job.jp/company_detail/super-resin",
+    "pass": 3
+   },
+   {
+    "quote": "CFRP/GFRP製品の設計開発、成形加工、製造・量産",
+    "url": "https://space-job.jp/company_detail/super-resin",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、顧客から提示された図面に基づいて加工するだけでなく、製品に求められる性能や使用環境を踏まえ、材料、構造、製造プロセスまで含めた提案を行っている",
+    "url": "https://space-job.jp/company_detail/super-resin",
+    "pass": 3
+   },
+   {
+    "quote": "精度や品質が求められる領域に複合材製品を提供",
+    "url": "https://space-job.jp/company_detail/super-resin",
+    "pass": 3
+   },
+   {
+    "quote": "スーパーレジン工業の強みは、複合材製品の開発から製造までを一貫して担える体制にある",
+    "url": "https://space-job.jp/company_detail/super-resin",
+    "pass": 3
+   },
+   {
+    "quote": "製品要求に応じて材料選定、樹脂開発、配向設計、成形プロセスの検討",
+    "url": "https://space-job.jp/company_detail/super-resin",
+    "pass": 3
+   },
+   {
+    "quote": "を行い、用途に合わせた複合材製品を開発している",
+    "url": "https://space-job.jp/company_detail/super-resin",
+    "pass": 3
+   },
+   {
+    "quote": "CAD/CAMやFEM解析を活用し、製品形状や構造を検討することで、顧客の要求仕様に応じた製品開発を行っている",
+    "url": "https://space-job.jp/company_detail/super-resin",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、設計・解析と製造現場の知見を組み合わせることで、製造可能性と性能要件を両立した複合材製品の開発を支えている",
+    "url": "https://space-job.jp/company_detail/super-resin",
+    "pass": 3
+   },
+   {
+    "quote": "また他の製品と比べて気に入っているところがあれば教えて下さい",
+    "url": "https://www.albitech.co.jp/archives/case_study/002-2",
+    "pass": 3
+   },
+   {
+    "quote": "またアンダーカット形状の製品を同時4軸加工でプログラム作成・加工を行い、イメージした品質の良い製品が出来ています",
+    "url": "https://www.albitech.co.jp/archives/case_study/002-2",
+    "pass": 3
+   },
+   {
+    "quote": "そのマシニングに対しても引き続きハイパーミルを利用し、さまざまな製品を世の中に提供する予定です",
+    "url": "https://www.albitech.co.jp/archives/case_study/002-2",
+    "pass": 3
+   },
+   {
+    "quote": "CFRP（炭素繊維強化プラスチック）／GFRP（ガラス繊維強化プラスチック）製造メーカーとして、60年以上の経験に裏打ちされた製造力により、小ロットから量産まで対応し、品質重視のものづくりで幅広い事業の製品を提供しております",
+    "url": "https://www.albitech.co.jp/archives/case_study/002-2",
+    "pass": 3
+   },
+   {
+    "quote": "加えて設計・解析技術の蓄積により、製品の開発初期段階から材料・プロセス開発力でお客様の様々な課題をクリアしてきました",
+    "url": "https://www.albitech.co.jp/archives/case_study/002-2",
+    "pass": 3
+   },
+   {
+    "quote": "ユニークな特性を付与した樹脂と、その他の技術の融合によってお客様の求める高度な製品を実現しています",
+    "url": "https://www.albitech.co.jp/archives/case_study/002-2",
+    "pass": 3
+   },
+   {
+    "quote": "製品の詳細や提案導入・サポートまで、",
+    "url": "https://www.albitech.co.jp/archives/case_study/002-2",
+    "pass": 3
+   },
+   {
+    "quote": "■業務概要：・ＮＣ加工機で主に繊維強化プラスチック（ＣＦＲＰ／ＧＦＲＰ）製品の加工、およびＮＣプログラム作成を行って頂きます",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 スーパーレジン工業株式会社 求人名 【稲城】CAD・CAMプログラミング(NC操作)/先端複合材料/宇宙・防衛事業に強み 仕事の内容 ■業務概要：・ＮＣ加工機で主に繊維強化プラスチック（ＣＦＲＰ／ＧＦＲＰ）製品の加工、およびＮＣプログラム作成を行って頂きます",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "・少量生産品が多く、様々な業界に対して製品を製造する形のため、様々な製品にかかわれるのが魅力となります",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "必要な経験・能力等 【必須】マシニングセンタのNCプログラミング/操作経験【製品】炭素繊維/ガラス繊維等と樹脂による先端複合材(炭素繊維複合材=CFRP/ガラス繊維複合材=GFRP)です",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "【当社について】繊維強化プラスチック(FRP)を中心とする先端複合材の設計/開発/成形/製造/検査まで一貫体制で行い、最先端製品への挑戦を通じて独自の技術を確立してきました",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "産業機器/宇宙関連機器/電波応用機器(レーダードーム)/自動車/無人機/造形品(オブジェ）/医療機器に使用するFRP製品の品質管理/検査等をお任せします",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 スーパーレジン工業株式会社 求人名 【稲城/品質管理・検査】実績多数の先端複合材メーカー/面接最短1回 仕事の内容 産業機器/宇宙関連機器/電波応用機器(レーダードーム)/自動車/無人機/造形品(オブジェ）/医療機器に使用するFRP製品の品質管理/検査等をお任せします",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "【具体的には】■図面等の管理/計測機器管理/材料受入検査/検査器具・測定器を使用しての中間検査/完成検査・顧客対応/不具合対応・検査要領書作成など ■今後の品質改善のため製造部門へのFBあり【品質管理環境】宇宙関連製品は品質が非常に重要です",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "必要な経験・能力等 【必須】■品質管理または品質保証業務のご経験 【歓迎】■3次元測定器の取り扱いのある方 ■ISO9001/JISQ9100のマネジメントシステム経験 ■機械部品の設計もしくは生産技術の経験3年以上 【当社について】繊維強化プラスチック(FRP)を中心とする先端複合材の設計/開発/成形/製造/検査まで一貫体制で行い、最先端製品への挑戦を通じて独自の技術を確立してきました",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "FRP(繊維強化プラスチック)はプラスチックを炭素繊維/ガラス繊維等で強化した製品で、金属にも負けない強度とプラスチックならではの軽さを併せ持ちます",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 スーパーレジン工業株式会社 求人名 ★未経験歓迎【相模原/製造】プラモデル・DIY・ハンドメイドが好きな方へ 仕事の内容 FRP(繊維強化プラスチック)はプラスチックを炭素繊維/ガラス繊維等で強化した製品で、金属にも負けない強度とプラスチックならではの軽さを併せ持ちます",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "【具体的には】CFRP(炭素繊維強化プラスチック)製品の成形/組立をお任せします",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂が染み込ませてある炭素繊維の織物を金型に貼り付け、熱と圧力をかけて製品の形を作り上げます",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "必要な経験・能力等 ★未経験歓迎 ※小さなものから複数人で運ぶ大きなものまで、顧客ニーズに合わせ一つひとつ異なる製品を作るため、実務経験がなくとも手先を使う作業が好きな方からのご応募をお待ちしております",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "【稲城/製造】ガラス繊維・樹脂を手作業で成形/自らの手で製品を生み出す職人へ 化学製造オペレーター/ラインマネージャー",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 スーパーレジン工業株式会社 求人名 【稲城/製造】ガラス繊維・樹脂を手作業で成形/自らの手で製品を生み出す職人へ 仕事の内容 FRP(繊維強化プラスチック)はプラスチックを炭素繊維/ガラス繊維等で強化した製品で、金属にも負けない強度とプラスチックならではの軽さを併せ持ちます",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "【具体的には】GFRP(ガラス繊維強化プラスチック)製品の成形/組立をお任せします",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "人の手でガラス繊維のクロス、硬化前の樹脂を使い、製品の形を作り上げていく工程です",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "募集職種 【稲城/製造】ガラス繊維・樹脂を手作業で成形/自らの手で製品を生み出す職人へ",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "必要な経験・能力等 ★未経験歓迎/1点ものの製品を生み出す職人を目指したい方へ★ ※扱う素材の都合上、現場に空調はないものの、大型ファンやガスヒーターの稼働、ファン付きジャンパー支給などで就業環境を最大限整えています",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "【作業工程】(1)ガラス繊維の布(クロス)を金型に密着させる(2)(1)の上から固まる前の樹脂をローラーブラシ等でしっかり染み込ま せる(3)上記を繰り返した後、樹脂を硬化させ製品の大まかな形状を作る (4)製品を型から取り外し、サンダー/サンドペーパー等の工具を使い、仕様に合わせて加工(5)必要に応じて製品の塗装【材料の特徴】レーダーの保護等を担う「レーダードーム」をはじめ、様々な領域の産業/事業を支えています",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 スーパーレジン工業株式会社 求人名 ★業界未経験歓迎【稲城/製造】日勤のみ/転勤なし/土日休みと働き方◎ 仕事の内容 FRP(繊維強化プラスチック)はプラスチックを炭素繊維/ガラス繊維等で強化した製品で、金属にも負けない強度とプラスチックならではの軽さを併せ持ちます",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "必要な経験・能力等 【必須】製造/加工/組立等のご経験 ※顧客ニーズに合わせ一つひとつ異なる製品を作るため、実務経験がなくとも、ハンドメイドやプラモデル製作等、手先を使う作業が好きな方からのご応募をお待ちしております",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 スーパーレジン工業株式会社 求人名 【相模原】CAD・CAMプログラミング(NC操作)/先端複合材料/宇宙・防衛事業に強み 仕事の内容 ■業務概要：・ＮＣ加工機で主に繊維強化プラスチック（ＣＦＲＰ／ＧＦＲＰ）製品の加工、およびＮＣプログラム作成を行って頂きます",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "必要な経験・能力等 【どちらか必須】■3DCADでの製品設計経験 ■高専や大学等での機械工学専攻の方(機械設計製図の読み描きができる方を求めているため) ※上記スキルをもとに、関係各所と課題解決に向けた合意形成を行います",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "小惑星探査機「はやぶさ２」の構造体やレドーム（電波透過カバー）などの宇宙関連製品を手掛けてきた実績を持つ",
+    "url": "https://note.com/sagamikeizai/n/ne00b56271172",
+    "pass": 3
+   },
+   {
+    "quote": "大阪万博のシンボル「太陽の塔」の「太陽の顔」の製作をはじめ、航空・宇宙機器、産業機器部品、電波応用製品など幅広い分野でＦＲＰ技術を展開してきた",
+    "url": "https://note.com/sagamikeizai/n/ne00b56271172",
+    "pass": 3
+   },
+   {
+    "quote": "近年は航空宇宙や先端産業向け製品の開発にも力を入れており、地域とのつながりを大切にしながら、宇宙技術や先端素材の魅力を発信していく考えだ",
+    "url": "https://note.com/sagamikeizai/n/ne00b56271172",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "1957年の設立以来、複合材料の技術発展とともに歩み、航空・宇宙機器、産業機器、電波応用機器、自動車、医療・介護機器、風力発電など、幅広い分野に製品を提供してきた",
+    "url": "https://space-job.jp/company_detail/super-resin",
+    "pass": 3
+   },
+   {
+    "quote": "CFRP/GFRP製品の設計開発、成形加工、製造・量産",
+    "url": "https://space-job.jp/company_detail/super-resin",
+    "pass": 3
+   },
+   {
+    "quote": "必要に応じて樹脂のカスタマイズや複合材構造の最適化にも対応できる点が特徴である",
+    "url": "https://space-job.jp/company_detail/super-resin",
+    "pass": 3
+   },
+   {
+    "quote": "精度や品質が求められる領域に複合材製品を提供",
+    "url": "https://space-job.jp/company_detail/super-resin",
+    "pass": 3
+   },
+   {
+    "quote": "スーパーレジン工業の強みは、複合材製品の開発から製造までを一貫して担える体制にある",
+    "url": "https://space-job.jp/company_detail/super-resin",
+    "pass": 3
+   },
+   {
+    "quote": "CFRPやGFRPは、繊維と樹脂の組み合わせや積層構成によって、強度、剛性、熱膨張、耐環境性などの特性が変化する",
+    "url": "https://space-job.jp/company_detail/super-resin",
+    "pass": 3
+   },
+   {
+    "quote": "製品要求に応じて材料選定、樹脂開発、配向設計、成形プロセスの検討",
+    "url": "https://space-job.jp/company_detail/super-resin",
+    "pass": 3
+   },
+   {
+    "quote": "を行い、用途に合わせた複合材製品を開発している",
+    "url": "https://space-job.jp/company_detail/super-resin",
+    "pass": 3
+   },
+   {
+    "quote": "複合材は金属材料とは異なり、繊維方向や積層構成によって性能が変わるため、設計段階から材料特性を踏まえた検討が重要となる",
+    "url": "https://space-job.jp/company_detail/super-resin",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、設計・解析と製造現場の知見を組み合わせることで、製造可能性と性能要件を両立した複合材製品の開発を支えている",
+    "url": "https://space-job.jp/company_detail/super-resin",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙機器に必要な高精度な複合材部材を提供する製造技術企業",
+    "url": "https://space-job.jp/company_detail/super-resin",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、CFRPを中心とした複合材技術と航空・宇宙品質に対応する製造体制を活かし、人工衛星や宇宙機器の製造を支えるサプライヤーとして、日本の宇宙ものづくりを下支えしている",
+    "url": "https://space-job.jp/company_detail/super-resin",
+    "pass": 3
+   },
+   {
+    "quote": "CFRPで宇宙開発を支えるパイオニア！スーパーレジン工業とはどんな企業？",
+    "url": "https://space-job.jp/company_detail/super-resin",
+    "pass": 3
+   },
+   {
+    "quote": "炭素繊維を中心とした先進複合材料を用いた成形加工メーカー",
+    "url": "https://space-job.jp/company_detail/super-resin",
+    "pass": 3
+   },
+   {
+    "quote": "炭素繊維を中心とした先進複合材料を用いた成形加工メーカー",
+    "url": "https://www.albitech.co.jp/archives/case_study/002-2",
+    "pass": 3
+   },
+   {
+    "quote": "CFRP（炭素繊維強化プラスチック）の加工において、複数の角度からの穴あけや加工が必要であり、これまで3軸マシニングセンターで、多くの段取り工数が発生しておりました",
+    "url": "https://www.albitech.co.jp/archives/case_study/002-2",
+    "pass": 3
+   },
+   {
+    "quote": "MAZAK VARIAXIS i-600では、CFRP（炭素繊維強化プラスチック）の同時5軸加工に取り組んでおります",
+    "url": "https://www.albitech.co.jp/archives/case_study/002-2",
+    "pass": 3
+   },
+   {
+    "quote": "CFRP（炭素繊維強化プラスチック）／GFRP（ガラス繊維強化プラスチック）製造メーカーとして、60年以上の経験に裏打ちされた製造力により、小ロットから量産まで対応し、品質重視のものづくりで幅広い事業の製品を提供しております",
+    "url": "https://www.albitech.co.jp/archives/case_study/002-2",
+    "pass": 3
+   },
+   {
+    "quote": "中でも材料技術を代表する樹脂の自社開発は当社の得意技術です",
+    "url": "https://www.albitech.co.jp/archives/case_study/002-2",
+    "pass": 3
+   },
+   {
+    "quote": "ユニークな特性を付与した樹脂と、その他の技術の融合によってお客様の求める高度な製品を実現しています",
+    "url": "https://www.albitech.co.jp/archives/case_study/002-2",
+    "pass": 3
+   },
+   {
+    "quote": "炭素繊維を中心とした先端複合材料を用いた成形加工メーカー",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "寧波麗成複合材料制品有限公司（中国浙江省）",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "【稲城】CAD・CAMプログラミング(NC操作)/先端複合材料/宇宙・防衛事業に強み 機械製造オペレーター/ラインマネージャー",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 スーパーレジン工業株式会社 求人名 【稲城】CAD・CAMプログラミング(NC操作)/先端複合材料/宇宙・防衛事業に強み 仕事の内容 ■業務概要：・ＮＣ加工機で主に繊維強化プラスチック（ＣＦＲＰ／ＧＦＲＰ）製品の加工、およびＮＣプログラム作成を行って頂きます",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "募集職種 【稲城】CAD・CAMプログラミング(NC操作)/先端複合材料/宇宙・防衛事業に強み",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "必要な経験・能力等 【必須】マシニングセンタのNCプログラミング/操作経験【製品】炭素繊維/ガラス繊維等と樹脂による先端複合材(炭素繊維複合材=CFRP/ガラス繊維複合材=GFRP)です",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "【当社について】繊維強化プラスチック(FRP)を中心とする先端複合材の設計/開発/成形/製造/検査まで一貫体制で行い、最先端製品への挑戦を通じて独自の技術を確立してきました",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "素材開発においては改質リグニンを含む樹脂開発などSDGsにも注力",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "【稲城/品質管理・検査】実績多数の先端複合材メーカー/面接最短1回 機械品質保証",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 スーパーレジン工業株式会社 求人名 【稲城/品質管理・検査】実績多数の先端複合材メーカー/面接最短1回 仕事の内容 産業機器/宇宙関連機器/電波応用機器(レーダードーム)/自動車/無人機/造形品(オブジェ）/医療機器に使用するFRP製品の品質管理/検査等をお任せします",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "募集職種 【稲城/品質管理・検査】実績多数の先端複合材メーカー/面接最短1回",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "必要な経験・能力等 【必須】■品質管理または品質保証業務のご経験 【歓迎】■3次元測定器の取り扱いのある方 ■ISO9001/JISQ9100のマネジメントシステム経験 ■機械部品の設計もしくは生産技術の経験3年以上 【当社について】繊維強化プラスチック(FRP)を中心とする先端複合材の設計/開発/成形/製造/検査まで一貫体制で行い、最先端製品への挑戦を通じて独自の技術を確立してきました",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "【具体的には】人工衛星・防衛・産業分野の複合材 (FRP) の構造解析をお任せします",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "必要な経験・能力等 【どちらか必須】■構造解析の実務経験 ■材料力学の知見 【歓迎】■Abaqus、ANSYS、Nastranの操作経験 ■複合材に関する知見 ■複合材の解析経験 ■3D-CADによるモデリング経験 学歴・資格 学歴：大学院 大学 高専 短大 専修学校 高校 語学力： 資格：第一種運転免許普通自動車",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "FRP(繊維強化プラスチック)はプラスチックを炭素繊維/ガラス繊維等で強化した製品で、金属にも負けない強度とプラスチックならではの軽さを併せ持ちます",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 スーパーレジン工業株式会社 求人名 ★未経験歓迎【相模原/製造】プラモデル・DIY・ハンドメイドが好きな方へ 仕事の内容 FRP(繊維強化プラスチック)はプラスチックを炭素繊維/ガラス繊維等で強化した製品で、金属にも負けない強度とプラスチックならではの軽さを併せ持ちます",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "【具体的には】CFRP(炭素繊維強化プラスチック)製品の成形/組立をお任せします",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂が染み込ませてある炭素繊維の織物を金型に貼り付け、熱と圧力をかけて製品の形を作り上げます",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "必要な経験・能力等 【必須】■機械設計のご経験 【歓迎】■SOLIDWORKSの操作経験 ■構造解析経験 ■複合材に関する知見 ■プロジェクトマネージャー(リーダー)経験 学歴・資格 学歴：大学院 大学 高専 短大 専修学校 高校 語学力： 資格：第一種運転免許普通自動車",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "【稲城/製造】ガラス繊維・樹脂を手作業で成形/自らの手で製品を生み出す職人へ 化学製造オペレーター/ラインマネージャー",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 スーパーレジン工業株式会社 求人名 【稲城/製造】ガラス繊維・樹脂を手作業で成形/自らの手で製品を生み出す職人へ 仕事の内容 FRP(繊維強化プラスチック)はプラスチックを炭素繊維/ガラス繊維等で強化した製品で、金属にも負けない強度とプラスチックならではの軽さを併せ持ちます",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "人の手でガラス繊維のクロス、硬化前の樹脂を使い、製品の形を作り上げていく工程です",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "募集職種 【稲城/製造】ガラス繊維・樹脂を手作業で成形/自らの手で製品を生み出す職人へ",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "【作業工程】(1)ガラス繊維の布(クロス)を金型に密着させる(2)(1)の上から固まる前の樹脂をローラーブラシ等でしっかり染み込ま せる(3)上記を繰り返した後、樹脂を硬化させ製品の大まかな形状を作る (4)製品を型から取り外し、サンダー/サンドペーパー等の工具を使い、仕様に合わせて加工(5)必要に応じて製品の塗装【材料の特徴】レーダーの保護等を担う「レーダードーム」をはじめ、様々な領域の産業/事業を支えています",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 スーパーレジン工業株式会社 求人名 ★業界未経験歓迎【稲城/製造】日勤のみ/転勤なし/土日休みと働き方◎ 仕事の内容 FRP(繊維強化プラスチック)はプラスチックを炭素繊維/ガラス繊維等で強化した製品で、金属にも負けない強度とプラスチックならではの軽さを併せ持ちます",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "CFRP（炭素繊維強化プラスチック）、GFRP（ガラス繊維強化プラスチック）を中心とした先端複合材（コンポジット）の設計開発・成形加工メーカーであるスーパーレジン工業株式会社のコーポレートサイトです",
+    "url": "https://www.m-hand.co.jp/osaka/works/5369/",
+    "pass": 3
+   },
+   {
+    "quote": "炭素繊維をイメージさせる黒をベースに、色数を減らしてスタイリッシュなイメージで制作しました",
+    "url": "https://www.m-hand.co.jp/osaka/works/5369/",
+    "pass": 3
+   },
+   {
+    "quote": "同社はＣＦＲＰ（炭素繊維強化プラスチック）やＧＦＲＰ（ガラス繊維強化プラスチック）の高度な成形技術を持ち、人工衛星や航空宇宙機器向け部品を製造",
+    "url": "https://note.com/sagamikeizai/n/ne00b56271172",
+    "pass": 3
+   },
+   {
+    "quote": "また、ＦＲＰがどのような工程で製造されるのかについても紹介し、最先端の複合材料技術を分かりやすく解説する",
+    "url": "https://note.com/sagamikeizai/n/ne00b56271172",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "小ロットの試作から量産まで対応できる製造設備と品質管理体制を備えており、航空・宇宙機器、産業機器、半導体製造装置、電波応用機器、自動車部品など、",
+    "url": "https://space-job.jp/company_detail/super-resin",
+    "pass": 3
+   },
+   {
+    "quote": "CFRP（炭素繊維強化プラスチック）／GFRP（ガラス繊維強化プラスチック）製造メーカーとして、60年以上の経験に裏打ちされた製造力により、小ロットから量産まで対応し、品質重視のものづくりで幅広い事業の製品を提供しております",
+    "url": "https://www.albitech.co.jp/archives/case_study/002-2",
+    "pass": 3
+   },
+   {
+    "quote": "・少量生産品が多く、様々な業界に対して製品を製造する形のため、様々な製品にかかわれるのが魅力となります",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "【魅力】■少量多品種、様々な業界の製品を取り扱っており偏りがないため、幅広く請け負えます",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "1957年の設立以来、複合材料の技術発展とともに歩み、航空・宇宙機器、産業機器、電波応用機器、自動車、医療・介護機器、風力発電など、幅広い分野に製品を提供してきた",
+    "url": "https://space-job.jp/company_detail/super-resin",
+    "pass": 3
+   },
+   {
+    "quote": "小ロットの試作から量産まで対応できる製造設備と品質管理体制を備えており、航空・宇宙機器、産業機器、半導体製造装置、電波応用機器、自動車部品など、",
+    "url": "https://space-job.jp/company_detail/super-resin",
+    "pass": 3
+   },
+   {
+    "quote": "スーパーレジン工業は、ロケットや人工衛星を自社で開発する企業ではなく、",
+    "url": "https://space-job.jp/company_detail/super-resin",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙機器に必要な高精度な複合材部材を提供する製造技術企業",
+    "url": "https://space-job.jp/company_detail/super-resin",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙分野では、",
+    "url": "https://space-job.jp/company_detail/super-resin",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙機器には、打上げ時の振動や宇宙空間での温度変化に耐えながら、軽量性と寸法安定性を両立することが求められる",
+    "url": "https://space-job.jp/company_detail/super-resin",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、CFRPを中心とした複合材技術と航空・宇宙品質に対応する製造体制を活かし、人工衛星や宇宙機器の製造を支えるサプライヤーとして、日本の宇宙ものづくりを下支えしている",
+    "url": "https://space-job.jp/company_detail/super-resin",
+    "pass": 3
+   },
+   {
+    "quote": "CFRPで宇宙開発を支えるパイオニア！スーパーレジン工業とはどんな企業？",
+    "url": "https://space-job.jp/company_detail/super-resin",
+    "pass": 3
+   },
+   {
+    "quote": "航空・宇宙機器や液晶・半導体製造装置の部品および産業機械部品などの研究・製造・販売",
+    "url": "https://space-job.jp/company_detail/super-resin",
+    "pass": 3
+   },
+   {
+    "quote": "航空・宇宙機器や液晶・半導体製造装置の部品および産業機械部品などの研究・製造・販売を行っています",
+    "url": "https://www.albitech.co.jp/archives/case_study/002-2",
+    "pass": 3
+   },
+   {
+    "quote": "航空・宇宙機器や液晶・半導体製造装置の部品および産業機械部品などの研究・製造・販売",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "【稲城】CAD・CAMプログラミング(NC操作)/先端複合材料/宇宙・防衛事業に強み 機械製造オペレーター/ラインマネージャー",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 スーパーレジン工業株式会社 求人名 【稲城】CAD・CAMプログラミング(NC操作)/先端複合材料/宇宙・防衛事業に強み 仕事の内容 ■業務概要：・ＮＣ加工機で主に繊維強化プラスチック（ＣＦＲＰ／ＧＦＲＰ）製品の加工、およびＮＣプログラム作成を行って頂きます",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "募集職種 【稲城】CAD・CAMプログラミング(NC操作)/先端複合材料/宇宙・防衛事業に強み",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "親身な対応とQCD重視の姿勢が評価され、航空宇宙や産業機器など幅広い分野で採用されています",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "産業機器/宇宙関連機器/電波応用機器(レーダードーム)/自動車/無人機/造形品(オブジェ）/医療機器に使用するFRP製品の品質管理/検査等をお任せします",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 スーパーレジン工業株式会社 求人名 【稲城/品質管理・検査】実績多数の先端複合材メーカー/面接最短1回 仕事の内容 産業機器/宇宙関連機器/電波応用機器(レーダードーム)/自動車/無人機/造形品(オブジェ）/医療機器に使用するFRP製品の品質管理/検査等をお任せします",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "【具体的には】■図面等の管理/計測機器管理/材料受入検査/検査器具・測定器を使用しての中間検査/完成検査・顧客対応/不具合対応・検査要領書作成など ■今後の品質改善のため製造部門へのFBあり【品質管理環境】宇宙関連製品は品質が非常に重要です",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "学歴・資格 学歴：大学院 大学 高専 短大 専修学校 高校 語学力： 資格：第一種運転免許普通自動車",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙/防衛関係のFRP(繊維強化プラスチック)のニーズ拡大に伴う採用です",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 スーパーレジン工業株式会社 求人名 【稲城/構造解析】先端業界に唯一無二の技術で挑む 仕事の内容 宇宙/防衛関係のFRP(繊維強化プラスチック)のニーズ拡大に伴う採用です",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "【具体的には】人工衛星・防衛・産業分野の複合材 (FRP) の構造解析をお任せします",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "必要な経験・能力等 【どちらか必須】■構造解析の実務経験 ■材料力学の知見 【歓迎】■Abaqus、ANSYS、Nastranの操作経験 ■複合材に関する知見 ■複合材の解析経験 ■3D-CADによるモデリング経験 学歴・資格 学歴：大学院 大学 高専 短大 専修学校 高校 語学力： 資格：第一種運転免許普通自動車",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "航空/宇宙/防衛等、様々な先端産業で採用されています",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂が染み込ませてある炭素繊維の織物を金型に貼り付け、熱と圧力をかけて製品の形を作り上げます",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "【作業工程】(1)図面を基に複数の材料シートを何層も金型に貼り付け(2)専用設備に投入し、熱と圧力をかけて硬化させた後、金型から取り外す(3)完成した部材を接着剤やネジ等を使用し組み立て ※ドライバー/はさみ/カッターや各種電動工具を使用【求める人物】■積極的に改善提案を進めたい方：既存の手順や工程などの改善を通じた業務効率化やコスト削減に繋がるため 学歴・資格 学歴：大学院 大学 高専 短大 専修学校 高校 語学力： 資格：自動車整備士",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "＜ビジネスゴールを見据えた設計戦略立案/メンバーの能力を引き出せるリーダー候補を大募集！＞宇宙/防衛関係のFRP(繊維強化プラスチック)のニーズ拡大に伴う採用です",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 スーパーレジン工業株式会社 求人名 【稲城/構造設計(リーダー候補)】先端業界に唯一無二の技術で挑む 仕事の内容 ＜ビジネスゴールを見据えた設計戦略立案/メンバーの能力を引き出せるリーダー候補を大募集！＞宇宙/防衛関係のFRP(繊維強化プラスチック)のニーズ拡大に伴う採用です",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "【具体的には】人工衛星/防衛/産業分野のFRP構造設計/製造設計をお任せします",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "必要な経験・能力等 【必須】■機械設計のご経験 【歓迎】■SOLIDWORKSの操作経験 ■構造解析経験 ■複合材に関する知見 ■プロジェクトマネージャー(リーダー)経験 学歴・資格 学歴：大学院 大学 高専 短大 専修学校 高校 語学力： 資格：第一種運転免許普通自動車",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "【作業工程】(1)ガラス繊維の布(クロス)を金型に密着させる(2)(1)の上から固まる前の樹脂をローラーブラシ等でしっかり染み込ま せる(3)上記を繰り返した後、樹脂を硬化させ製品の大まかな形状を作る (4)製品を型から取り外し、サンダー/サンドペーパー等の工具を使い、仕様に合わせて加工(5)必要に応じて製品の塗装【材料の特徴】レーダーの保護等を担う「レーダードーム」をはじめ、様々な領域の産業/事業を支えています",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "【作業工程】(1)図面を基に複数の材料シートを何層も金型に貼り付け(2)専用設備に投入し、熱と圧力をかけて硬化させた後、金型から取り外す(3)完成した部材を接着剤やネジ等を使用し組み立て ※ドライバー/はさみ/カッターや各種電動工具を使用【求める人物】■積極的に改善提案を進めたい方：既存の手順や工程などの改善を通じた業務効率化やコスト削減に繋がるため ■将来的にリーダーやマネジメントを担いたい方 学歴・資格 学歴：大学院 大学 高専 短大 専修学校 高校 語学力： 資格：自動車整備士",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "【相模原】CAD・CAMプログラミング(NC操作)/先端複合材料/宇宙・防衛事業に強み 機械製造オペレーター/ラインマネージャー",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 スーパーレジン工業株式会社 求人名 【相模原】CAD・CAMプログラミング(NC操作)/先端複合材料/宇宙・防衛事業に強み 仕事の内容 ■業務概要：・ＮＣ加工機で主に繊維強化プラスチック（ＣＦＲＰ／ＧＦＲＰ）製品の加工、およびＮＣプログラム作成を行って頂きます",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "募集職種 【相模原】CAD・CAMプログラミング(NC操作)/先端複合材料/宇宙・防衛事業に強み",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "人工衛星に使用される部品や素材を実際に見て、触れて、学べるワークショップを通じ、宇宙産業を支える地元企業の技術力を広く発信する",
+    "url": "https://note.com/sagamikeizai/n/ne00b56271172",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙分野で培った技術を地域住民、とりわけ子どもたちに身近に感じてもらい、ものづくりへの興味や関心を育むことを目的としている",
+    "url": "https://note.com/sagamikeizai/n/ne00b56271172",
+    "pass": 3
+   },
+   {
+    "quote": "同社はＣＦＲＰ（炭素繊維強化プラスチック）やＧＦＲＰ（ガラス繊維強化プラスチック）の高度な成形技術を持ち、人工衛星や航空宇宙機器向け部品を製造",
+    "url": "https://note.com/sagamikeizai/n/ne00b56271172",
+    "pass": 3
+   },
+   {
+    "quote": "小惑星探査機「はやぶさ２」の構造体やレドーム（電波透過カバー）などの宇宙関連製品を手掛けてきた実績を持つ",
+    "url": "https://note.com/sagamikeizai/n/ne00b56271172",
+    "pass": 3
+   },
+   {
+    "quote": "軽量で高強度というＦＲＰの特性を生かし、日本の宇宙開発を支える企業の一社として知られる",
+    "url": "https://note.com/sagamikeizai/n/ne00b56271172",
+    "pass": 3
+   },
+   {
+    "quote": "「～触れて、学んで、楽しめる～宇宙部品のひみつ」をテーマに、約30分のワークショップを開催する",
+    "url": "https://note.com/sagamikeizai/n/ne00b56271172",
+    "pass": 3
+   },
+   {
+    "quote": "参加者は宇宙の仕組みを学んだ後、ＶＲゴーグルを装着して宇宙空間を疑似体験",
+    "url": "https://note.com/sagamikeizai/n/ne00b56271172",
+    "pass": 3
+   },
+   {
+    "quote": "初日の８日には、宇宙をテーマにした人気アニメ「宇宙なんちゃら こてつくん」のキャラクター「こてつくん」が来場予定",
+    "url": "https://note.com/sagamikeizai/n/ne00b56271172",
+    "pass": 3
+   },
+   {
+    "quote": "大阪万博のシンボル「太陽の塔」の「太陽の顔」の製作をはじめ、航空・宇宙機器、産業機器部品、電波応用製品など幅広い分野でＦＲＰ技術を展開してきた",
+    "url": "https://note.com/sagamikeizai/n/ne00b56271172",
+    "pass": 3
+   },
+   {
+    "quote": "近年は航空宇宙や先端産業向け製品の開発にも力を入れており、地域とのつながりを大切にしながら、宇宙技術や先端素材の魅力を発信していく考えだ",
+    "url": "https://note.com/sagamikeizai/n/ne00b56271172",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "CAD/CAMやFEM解析を活用し、製品形状や構造を検討することで、顧客の要求仕様に応じた製品開発を行っている",
+    "url": "https://space-job.jp/company_detail/super-resin",
+    "pass": 3
+   },
+   {
+    "quote": "hyperMILL CAD for CAM",
+    "url": "https://www.albitech.co.jp/archives/case_study/002-2",
+    "pass": 3
+   },
+   {
+    "quote": "社内で使用する3DCADソフトをソリッドワークスに集約することとなり、併せてCAMソフトを検討していました",
+    "url": "https://www.albitech.co.jp/archives/case_study/002-2",
+    "pass": 3
+   },
+   {
+    "quote": "hyperMILLはソリッドワークスにアドインすることでCADCAMとして運用することが可能なためエントリーさせていただきました",
+    "url": "https://www.albitech.co.jp/archives/case_study/002-2",
+    "pass": 3
+   },
+   {
+    "quote": "また5軸加工機の導入に伴い、5軸加工に対応・得意なCAMとして選定に至りました",
+    "url": "https://www.albitech.co.jp/archives/case_study/002-2",
+    "pass": 3
+   },
+   {
+    "quote": "現在使用しているMAZAK5軸加工機（2種）でCAD&CAMの技術を磨いていきます",
+    "url": "https://www.albitech.co.jp/archives/case_study/002-2",
+    "pass": 3
+   },
+   {
+    "quote": "【稲城】CAD・CAMプログラミング(NC操作)/先端複合材料/宇宙・防衛事業に強み 機械製造オペレーター/ラインマネージャー",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 スーパーレジン工業株式会社 求人名 【稲城】CAD・CAMプログラミング(NC操作)/先端複合材料/宇宙・防衛事業に強み 仕事の内容 ■業務概要：・ＮＣ加工機で主に繊維強化プラスチック（ＣＦＲＰ／ＧＦＲＰ）製品の加工、およびＮＣプログラム作成を行って頂きます",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "募集職種 【稲城】CAD・CAMプログラミング(NC操作)/先端複合材料/宇宙・防衛事業に強み",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "産業機器/宇宙関連機器/電波応用機器(レーダードーム)/自動車/無人機/造形品(オブジェ）/医療機器に使用するFRP製品の品質管理/検査等をお任せします",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 スーパーレジン工業株式会社 求人名 【稲城/品質管理・検査】実績多数の先端複合材メーカー/面接最短1回 仕事の内容 産業機器/宇宙関連機器/電波応用機器(レーダードーム)/自動車/無人機/造形品(オブジェ）/医療機器に使用するFRP製品の品質管理/検査等をお任せします",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "【相模原】CAD・CAMプログラミング(NC操作)/先端複合材料/宇宙・防衛事業に強み 機械製造オペレーター/ラインマネージャー",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "企業名 スーパーレジン工業株式会社 求人名 【相模原】CAD・CAMプログラミング(NC操作)/先端複合材料/宇宙・防衛事業に強み 仕事の内容 ■業務概要：・ＮＣ加工機で主に繊維強化プラスチック（ＣＦＲＰ／ＧＦＲＰ）製品の加工、およびＮＣプログラム作成を行って頂きます",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "募集職種 【相模原】CAD・CAMプログラミング(NC操作)/先端複合材料/宇宙・防衛事業に強み",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "当社の強み - スーパーレジン工業 — 当社の強み - スーパーレジン工業 スーパーレジン工業株式会社 https://www.super-resin.co.jp > 会社情報",
+    "url": "https://www.super-resin.co.jp/company/strengths/",
+    "pass": 3
+   },
+   {
+    "quote": "スーパーレジン工業 株式会社｜企業詳細 — スーパーレジン工業 株式会社｜企業詳細 スペジョブ https://space-job.jp > company_detail > super-resin",
+    "url": "https://space-job.jp/company_detail/super-resin",
+    "pass": 3
+   },
+   {
+    "quote": "スーパーレジン工業 株式会社様 — スーパーレジン工業 株式会社様 アルビテクノロジー株式会社 https://www.albitech.co.jp > archives > case_study",
+    "url": "https://www.albitech.co.jp/archives/case_study/002-2",
+    "pass": 3
+   },
+   {
+    "quote": "CFRPで宇宙開発を支えるパイオニア！ スーパーレジン工業 と ... — CFRPで宇宙開発を支えるパイオニア！ スーパーレジン工業 と ... space-connect.jp https://space-connect.jp > Business",
+    "url": "https://space-connect.jp/super-resin/",
+    "pass": 3
+   },
+   {
+    "quote": "スーパーレジン工業 のFRP製造の対応範囲や 製品 事例を紹介 — スーパーレジン工業 のFRP製造の対応範囲や 製品 事例を紹介 frp-fibergood.com https://www.frp-fibergood.com > FRP メーカー一覧",
+    "url": "https://www.frp-fibergood.com/list/super-resin.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 ｜ スーパーレジン工業 株式会社 — 会社概要 ｜ スーパーレジン工業 株式会社 スーパーレジン工業株式会社 https://www.super-resin.co.jp > 会社情報",
+    "url": "https://www.super-resin.co.jp/company/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容 ｜ スーパーレジン工業 株式 会社 — 事業内容 ｜ スーパーレジン工業 株式 会社 スーパーレジン工業株式会社 https://www.super-resin.co.jp > business",
+    "url": "https://www.super-resin.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "スーパーレジン工業 株式 会社 の中途採用・転職・求人 情報 — スーパーレジン工業 株式 会社 の中途採用・転職・求人 情報 リクルートエージェント https://www.r-agent.com > company",
+    "url": "https://www.r-agent.com/company/a5008/",
+    "pass": 3
+   },
+   {
+    "quote": "スーパーレジン工業 株式 会社 ｜企業詳細 — スーパーレジン工業 株式 会社 ｜企業詳細 スペジョブ https://space-job.jp > company_detail > super-resin",
+    "url": "https://space-job.jp/company_detail/super-resin",
+    "pass": 3
+   },
+   {
+    "quote": "スーパーレジン工業 株式会社の 会社概要 - マイナビ転職 — スーパーレジン工業 株式会社の 会社概要 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company",
+    "url": "https://tenshoku.mynavi.jp/company/423753/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | スーパーレジン工業 株式会社 — お問い合わせ | スーパーレジン工業 株式会社 スーパーレジン工業株式会社 https://www.super-resin.co.jp > inquiry",
+    "url": "https://www.super-resin.co.jp/inquiry/",
+    "pass": 3
+   },
+   {
+    "quote": "スーパーレジン工業 株式会社｜制作実績 — スーパーレジン工業 株式会社｜制作実績 株式会社エムハンド https://www.m-hand.co.jp > ... > 制作実績",
+    "url": "https://www.m-hand.co.jp/osaka/works/5369/",
+    "pass": 3
+   },
+   {
+    "quote": "スーパーレジン工業 株式会社の会社概要・製品情報 - Metoree — スーパーレジン工業 株式会社の会社概要・製品情報 - Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/41631/",
+    "pass": 3
+   },
+   {
+    "quote": "スーパーレジン工業 株式会社 - GOTCHA — スーパーレジン工業 株式会社 - GOTCHA chusho-gotcha.com https://chusho-gotcha.com > 企業一覧 > 製造業 > 樹脂加工",
+    "url": "https://chusho-gotcha.com/company/superresin/",
+    "pass": 3
+   },
+   {
+    "quote": "スーパーレジン工業 — スーパーレジン工業 スーパーレジン工業株式会社 https://www.super-resin.co.jp",
+    "url": "https://www.super-resin.co.jp/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "ユーザーフレンドリーなサイト構築でお問い合わせを増加",
+    "url": "https://www.m-hand.co.jp/osaka/works/5369/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "人工衛星部品やVRを身近に体感 スーパーレジン工業 - note 人工衛星部品やVRを身近に体感 スーパーレジン工業 - note note https://note.com > 科学・テクノロジー > 宇宙科学",
+    "url": "https://note.com/sagamikeizai/n/ne00b56271172",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "人工衛星部品やＶＲを身近に体感 スーパーレジン工業、橋本七夕まつりで体験型ブース ｜相模経済新聞",
+    "url": "https://note.com/sagamikeizai/n/ne00b56271172",
+    "pass": 3
+   },
+   {
+    "quote": "人工衛星部品やＶＲを身近に体感 スーパーレジン工業、橋本七夕まつりで体験型ブース",
+    "url": "https://note.com/sagamikeizai/n/ne00b56271172",
+    "pass": 3
+   },
+   {
+    "quote": "ＦＲＰ（繊維強化プラスチック）の設計・製造を手掛けるスーパーレジン工業（東京都稲城市、田山紘介社長）は、８月８日と９日に開催される「第74回橋本七夕まつり」に体験型ブースを出展する。人工衛星に使用される部品や素材を実際に見て、触れて、学べるワークショップを通じ、宇宙産業を支える地元企業の技術力を広く発信する。【2026年7月28日起稿】",
+    "url": "https://note.com/sagamikeizai/n/ne00b56271172",
+    "pass": 3
+   },
+   {
+    "quote": "橋本七夕まつりは「かながわのまつり50選」にも選ばれる相模原市を代表する夏のイベントで、今年で74回目を迎える。同社は相模原市緑区に津久井工場を構え、地域に根差した企業として祭りに参加。宇宙分野で培った技術を地域住民、とりわけ子どもたちに身近に感じてもらい、ものづくりへの興味や関心を育むことを目的としている。",
+    "url": "https://note.com/sagamikeizai/n/ne00b56271172",
+    "pass": 3
+   },
+   {
+    "quote": "同社はＣＦＲＰ（炭素繊維強化プラスチック）やＧＦＲＰ（ガラス繊維強化プラスチック）の高度な成形技術を持ち、人工衛星や航空宇宙機器向け部品を製造。小惑星探査機「はやぶさ２」の構造体やレドーム（電波透過カバー）などの宇宙関連製品を手掛けてきた実績を持つ。軽量で高強度というＦＲＰの特性を生かし、日本の宇宙開発を支える企業の一社として知られる。",
+    "url": "https://note.com/sagamikeizai/n/ne00b56271172",
+    "pass": 3
+   },
+   {
+    "quote": "ブースはアリオ橋本１階グランドガーデンに設置。「～触れて、学んで、楽しめる～宇宙部品のひみつ」をテーマに、約30分のワークショップを開催する。参加者は宇宙の仕組みを学んだ後、ＶＲゴーグルを装着して宇宙空間を疑似体験。さらに人工衛星に実際に使われる部品や素材に触れながら、それぞれの特徴や役割について理解を深めることができる。また、ＦＲＰがどのような工程で製造されるのかについても紹介し、最先端の複合材料技術を分かりやすく解説する。",
+    "url": "https://note.com/sagamikeizai/n/ne00b56271172",
+    "pass": 3
+   },
+   {
+    "quote": "初日の８日には、宇宙をテーマにした人気アニメ「宇宙なんちゃら こてつくん」のキャラクター「こてつくん」が来場予定。家族連れを中心に多くの来場者でにぎわうことが期待される。",
+    "url": "https://note.com/sagamikeizai/n/ne00b56271172",
+    "pass": 3
+   },
+   {
+    "quote": "同社は１９５７年創業。大阪万博のシンボル「太陽の塔」の「太陽の顔」の製作をはじめ、航空・宇宙機器、産業機器部品、電波応用製品など幅広い分野でＦＲＰ技術を展開してきた。近年は航空宇宙や先端産業向け製品の開発にも力を入れており、地域とのつながりを大切にしながら、宇宙技術や先端素材の魅力を発信していく考えだ。",
+    "url": "https://note.com/sagamikeizai/n/ne00b56271172",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "官報決算データベース on X: \" スーパーレジン工業 株式会社 ... 官報決算データベース on X: \" スーパーレジン工業 株式会社 ... X https://x.com > @kessan_db",
+    "url": "https://x.com/kessan_db/status/1881848154385215531",
+    "pass": 3
+   },
+   {
+    "quote": "かずぅ。@ダスカは大正義 on X: \" スーパーレジン工業 wiki ... かずぅ。@ダスカは大正義 on X: \" スーパーレジン工業 wiki ... X https://x.com > @pocaris_k",
+    "url": "https://x.com/pocaris_k/status/978977267295514625",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "伊藤 卓 - スーパーレジン工業 - 監査役 - LinkedIn 伊藤 卓 - スーパーレジン工業 - 監査役 - LinkedIn LinkedIn https://jp.linkedin.com > 卓-伊藤-474a01160",
+    "url": "https://jp.linkedin.com/in/%E5%8D%93-%E4%BC%8A%E8%97%A4-474a01160",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://www.super-resin.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://space-job.jp/company_detail/super-resin",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.albitech.co.jp/archives/case_study/002-2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.r-agent.com/company/a5008/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.m-hand.co.jp/osaka/works/5369/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/41631/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/sagamikeizai/n/ne00b56271172",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/kessan_db/status/1881848154385215531",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/pocaris_k/status/978977267295514625",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E5%8D%93-%E4%BC%8A%E8%97%A4-474a01160",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "スーパーレジン工業 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.super-resin.co.jp/company/strengths/",
+    "https://space-job.jp/company_detail/super-resin",
+    "https://www.albitech.co.jp/archives/case_study/002-2",
+    "https://space-connect.jp/super-resin/",
+    "https://www.frp-fibergood.com/list/super-resin.html",
+    "https://unisec.jp/archives/9164",
+    "https://www.tokyo-kosha.or.jp/topics/tokyo_kirari/2016/2016_P147.pdf",
+    "https://injection-lab.com/technology/64-2.html",
+    "https://www.super-resin.co.jp/manufacturing/",
+    "https://ja.wikipedia.org/wiki/スーパーレジン工業"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "スーパーレジン工業 会社概要 事業内容",
+   "results": [
+    "https://www.super-resin.co.jp/company/profile/",
+    "https://www.super-resin.co.jp/business/",
+    "https://www.r-agent.com/company/a5008/",
+    "https://space-job.jp/company_detail/super-resin",
+    "https://tenshoku.mynavi.jp/company/423753/",
+    "https://metoree.com/companies/41631/",
+    "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%AC%E3%82%B8%E3%83%B3%E5%B7%A5%E6%A5%AD",
+    "https://www.albitech.co.jp/archives/case_study/002-2",
+    "https://mono.ipros.com/company/detail/2073832/",
+    "https://ja.wikipedia.org/wiki/スーパーレジン工業"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "スーパーレジン工業 お問い合わせ メール",
+   "results": [
+    "https://www.super-resin.co.jp/inquiry/",
+    "https://www.m-hand.co.jp/osaka/works/5369/",
+    "https://metoree.com/companies/41631/",
+    "https://chusho-gotcha.com/company/superresin/",
+    "https://www.super-resin.co.jp/",
+    "https://space-job.jp/company_detail/super-resin",
+    "https://tenshoku.mynavi.jp/company/423753/",
+    "https://www.openwork.jp/company.php?m_id=a0C1000000qqZyE",
+    "https://www.tokyo-kosha.or.jp/topics/tokyo_kirari/2016/2016_P147.pdf",
+    "https://ja.wikipedia.org/wiki/スーパーレジン工業"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com スーパーレジン工業",
+   "results": [
+    "https://note.com/sagamikeizai/n/ne00b56271172",
+    "https://note.com/visionarybase/n/n281d980f0b22",
+    "https://note.com/sagamikeizai/m/md6422eda0893/archive/2026-07",
+    "https://note.com/sagamikeizai/m/md6422eda0893/hashtag/%E4%BA%BA%E5%B7%A5%E8%A1%9B%E6%98%9F",
+    "https://note.com/amulapo/n/n8a5fd95a9610",
+    "https://note.com/sagamikeizai/m/me2e27411a671/archive/2026-07",
+    "https://note.com/sagamikeizai/n/n718de0f8827b",
+    "https://note.com/good_dill292/n/ndd519c9d5bb3",
+    "https://note.com/sagamikeizai/m/me2e27411a671/hashtag/43428",
+    "https://note.com/sashupedhia/n/n6bb34d9896f6"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:x.com スーパーレジン工業",
+   "results": [
+    "https://x.com/kessan_db/status/1881848154385215531",
+    "https://x.com/Press__official/status/1995656697059463174?lang=bn",
+    "https://x.com/iterjapan/status/1892461071123800261",
+    "https://x.com/pocaris_k/status/978977267295514625",
+    "https://x.com/hayabusa2_model/status/1951533599410503771",
+    "https://x.com/Alexandra_Japan/status/1890976339819135040",
+    "https://x.com/taromuseum/status/1933354083479642404",
+    "https://x.com/K_Space_Village/status/2059883540184269134",
+    "https://x.com/EMIDASmag_WEB",
+    "https://x.com/hashtag/スーパーレジン工業"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com スーパーレジン工業",
+   "results": [
+    "https://jp.linkedin.com/in/%E5%8D%93-%E4%BC%8A%E8%97%A4-474a01160",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E7%A8%B2%E5%9F%8E%E5%B8%82%E3%80%91%E6%9D%90%E6%96%99%E9%96%8B%E7%99%BA%E2%97%86frp%E3%81%AA%E3%81%A9%E6%A8%B9%E8%84%82%E3%81%AE%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%EF%BC%8F%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E3%83%BB%E7%94%A3%E6%A5%AD%E6%A9%9F%E5%99%A8%E3%82%92%E6%94%AF%E3%81%88%E3%82%8B%EF%BC%8F%E5%B9%B4%E4%BC%91%EF%BC%91%EF%BC%92%EF%BC%90%E6%97%A5-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4482713955",
+    "https://www.linkedin.com/pub/dir/%E5%8D%93/%E4%BC%8A%E8%97%A4",
+    "https://www.linkedin.com/pub/dir/Taku/Itou",
+    "https://jp.linkedin.com/in/japan-unisec-105838200",
+    "https://jp.linkedin.com/in/yuuri-okuyama-ab188011",
+    "https://jp.linkedin.com/pub/dir/%E5%8D%93/%E4%BC%8A%E8%97%A4/jp-0-Japan",
+    "https://jp.linkedin.com/in/mo1044da",
+    "https://jp.linkedin.com/in/%E5%8D%93-%E4%BC%8A%E8%97%A4-b4a485215",
+    "https://jp.linkedin.com/in/紘介-田山-6255493b3"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com スーパーレジン工業",
+   "results": [
+    "https://www.facebook.com/fabcafemtrl/posts/mtrl-hunt%E9%80%A3%E8%BC%89%E7%AC%AC7%E5%9B%9E%E7%9B%AE%E3%81%A7%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%99%E3%82%8B%E3%81%AE%E3%81%AF%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%AC%E3%82%B8%E3%83%B3%E5%B7%A5%E6%A5%AD%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%8C%E9%96%8B%E7%99%BA%E3%81%97%E3%81%9F%E5%9B%BD%E7%94%A3%E6%9D%89%E7%94%B1%E6%9D%A5%E3%81%AE%E3%83%90%E3%82%A4%E3%82%AA%E3%83%9E%E3%82%B9%E7%B4%A0%E6%9D%90%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E6%94%B9%E8%B3%AA%E3%83%AA%E3%82%B0%E3%83%8B%E3%83%B3%E5%90%AB%E6%9C%89%E3%82%A8%E3%83%9D%E3%82%AD%E3%82%B7%E6%A8%B9%E8%84%82%E6%94%B9%E8%B3%AA%E3%83%AA%E3%82%B0%E3%83%8B%E3%83%B3%E5%90%AB/1779915190269610/",
+    "https://www.facebook.com/osamu.amano.98/",
+    "https://www.facebook.com/groups/inagi.biyori/posts/4510920909223444/",
+    "https://www.facebook.com/truboresinkk/?locale=ja_JP",
+    "https://www.facebook.com/groups/chofu123/posts/28478942138394477/",
+    "https://www.facebook.com/LignoMateria.co.jp/",
+    "https://www.facebook.com/truboresinkk/posts/%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%B7%B4%E9%A6%AC%E5%8C%BA-m%E6%A7%98%E3%81%8B%E3%82%89%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%E3%81%A8%E3%83%88%E3%83%A9%E3%83%9C%E3%81%AE%E6%90%AD%E8%BC%89%E7%94%BB%E5%83%8F%E3%82%92%E9%A0%82%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E3%81%AE%E3%81%A7%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%95%E3%81%9B%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%99%E3%82%AF%E3%83%BC%E3%83%AB%E3%82%AB%E3%83%BC%E3%82%AD%E3%83%91%E3%83%BC%E3%83%AB%E3%83%A1%E3%82%BF%E3%83%AA%E3%83%83%E3%82%AF%E3%81%AE%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A4%E3%81%AB%E5%90%8C%E8%89%B2%E3%81%AB%E5%A1%97%E8%A3%85%E3%81%97%E3%81%9F%E3%83%88%E3%83%A9%E3%83%9C%E3%82%92/4600352960012887/",
+    "https://www.facebook.com/groups/inagi.biyori/posts/4490303704618498/",
+    "https://www.facebook.com/groups/inagi.biyori/posts/4504870766495125/",
+    "https://www.facebook.com/people/スーパーレジン工業株式会社/100077378556800/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "スーパーレジン工業 note 社長",
+   "results": [
+    "https://www.super-resin.co.jp/blog/",
+    "https://www.super-resin.co.jp/company/profile/",
+    "https://www.m-hand.co.jp/osaka/works/5369/",
+    "https://www.nikkan.co.jp/spaces/view/86572",
+    "https://space-job.jp/company_detail/super-resin",
+    "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%AC%E3%82%B8%E3%83%B3%E5%B7%A5%E6%A5%AD",
+    "https://www.r-agent.com/company/a5008/",
+    "https://www.openwork.jp/company.php?m_id=a0C1000000qqZyE",
+    "https://ja.wikipedia.org/wiki/スーパーレジン工業",
+    "https://kaijiwire.jp/kokoku/01a0f9e7-a641-7491-9af9-2f8fb97679cd"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "スーパーレジン工業 X 投稿",
+   "results": [
+    "https://www.super-resin.co.jp/",
+    "https://www.albitech.co.jp/archives/case_study/002-2",
+    "https://special.nikkeibp.co.jp/atclh/NXT/26/id2026/super_resin/",
+    "https://www.youtube.com/@superresin2890",
+    "https://x.com/iterjapan/status/1892461071123800261",
+    "https://www.m-hand.co.jp/osaka/works/5369/",
+    "https://mono.ipros.com/en/company/detail/2073832/",
+    "https://www.nikkan.co.jp/articles/view/778561",
+    "https://ja.wikipedia.org/wiki/スーパーレジン工業",
+    "https://www.youtube.com/channel/UCB_rW5JUrMbMwlYoqDBUwRQ"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）"
+ }
+}

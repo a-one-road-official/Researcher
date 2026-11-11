@@ -1,0 +1,1488 @@
+{
+ "name": "Novarc Technologies",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-11T13:06:47.191344+00:00",
+ "official_url": "https://novarctech.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Lead the industry, speed through projects, and achieve rapid ROI",
+    "url": "https://www.novarctech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "As pioneers in autonomous welding, we help build the world using applied robotics and AI. Our cutting-edge cobots and AI-driven systems redefine industrial capabilities, setting new standards in quality and efficiency. Trusted globally across multiple sectors, our welding automation technologies are at the forefront of maximizing productivity and shaping the next era of manufacturing.",
+    "url": "https://www.novarctech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The SWR™ is an advanced welding cobot specifically designed for pipe and roll welding applications. Companies that have implemented the SWR™ have increased their productivity by up to 12X and achieved consistent X-ray quality welds, enhancing their competitiveness in bidding and boosting margins on existing projects.",
+    "url": "https://www.novarctech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "With the smallest footprint in the industry, the SWR-TIPTIG is a cobot designed specifically for pipe, pressure vessel, and roll welding applications using the Gas Tungsten Arc Welding (GTAW or TIG) process. This system pushes the limits of TIG welding to new heights using the advanced TIPTIG system, enhancing both speed and precision far beyond conventional standards.",
+    "url": "https://www.novarctech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our welding automation solutions are tailored to meet the unique demands of various industries, ensuring precision, reliability, and efficiency across a wide range of applications.",
+    "url": "https://www.novarctech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Seaspan's Vancouver Drydock has boosted productivity by over 400% with the SWR™, achieving consistent x-ray quality welds every time.",
+    "url": "https://www.novarctech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "By implementing Novarc’s solution, W.W. GAY has been able to achieve over 200% increase in shop productivity, 100% Radiography Test (RT), and on some projects a 12x increase in pipe welding productivity.",
+    "url": "https://www.novarctech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "By implementing the SWR, Trident Process Systems increased pipe welding productivity by an extra 200-250 diameter inches per shift, reduced labor costs by 10-20% (up to 50% on some projects), and achieved a 0% reject rate, effectively enhancing overall profitability and efficiency.",
+    "url": "https://www.novarctech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Remarkably, the SWR has proven to be equivalent to having four to six skilled welders on average for our operations.\"",
+    "url": "https://www.novarctech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trident Process Systems",
+    "url": "https://www.novarctech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Novarc did some testing for us and we fell in love.The first project we did we cut off 4.5 man weeks of shop welding, so we saved around $114,000 on that project, and it made us competitive and added value to the end user.\"",
+    "url": "https://www.novarctech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"The quality side of it is definitely the data aspect; the ability to tie in the weld data and video logs with our BIM information was a very big bonus.\"",
+    "url": "https://www.novarctech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We looked at a few other options when looking for welding solutions. The edge that Novarc has is the footprint of the equipment, we have a lot more flexibility with the SWR ... The other reason why we went with Novarc is that Novarc showed up here with what we call a “fresh air”. A new product that is really dedicated to improving pipe welding.\"",
+    "url": "https://www.novarctech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We've achieved a 400-500% increase in daily welding output, allowing the company to complete projects in a fraction of the time previously required.\"",
+    "url": "https://www.novarctech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We do not need to stop and clean in between passes. We’ve had a lot of clients come to see our shop during the bid process and they go crazy when they see the robot. They love it! They love the videotape capability. We play back the welds for them and they are absolutely gorgeous welds.\"",
+    "url": "https://www.novarctech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our impact extends across industries and continents, demonstrating precision and reliability in every project we touch.",
+    "url": "https://www.novarctech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Abicor Binzel provides welding accessories across the world. Abicor Binzel is both a supplier and a distributor of the SWR.",
+    "url": "https://www.novarctech.com/company/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "STRATUS is the Premier MEP Construction Procurement, Manufacturing, and Logistics Software.",
+    "url": "https://www.novarctech.com/company/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "TIP TIG develops and manufactures high-performance welding equipment that uses innovative wire feed technology to improve customers’ productivity.",
+    "url": "https://www.novarctech.com/company/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Verbotics Weld is an easy-to-use desktop application with key features to minimise time and effort to program your welding robot.",
+    "url": "https://www.novarctech.com/company/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Founded in 1989, the Motoman Robotics Division of Yaskawa America, Inc. is a leading robotics company in the Americas. With over 600,000 Motoman® robots installed globally, Yaskawa provides automation products and solutions for virtually every industry and robotic application.",
+    "url": "https://www.novarctech.com/company/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Precision Welding for Vessel Manufacturing | Novarc",
+    "url": "https://www.novarctech.com/solutions-by-sector/vessel-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Novarc’s proprietary technology stack includes innovative weld processes, reliable automation systems, multi-terabyte production welding datasets, AI perception and control systems, and deeply embedded enterprise deployments accumulated over more than a decade.",
+    "url": "https://www.novarctech.com/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlike other welding solutions, Novarc‘s flexible technology is capable of welding a variety of joints, with fewer space restrictions, where operators interactively make adjustments during the weld without the need to pre-program.",
+    "url": "https://www.novarctech.com/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Our impact extends across industries and continents, demonstrating precision and reliability in every project we touch.",
+    "url": "https://www.novarctech.com/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Reza Abdollahi, CTO and co-founder, became the first employee to be hired.",
+    "url": "https://www.novarctech.com/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "The first arc by the first SWR™ prototype is established.",
+    "url": "https://www.novarctech.com/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Novarc closed a pre-seed round of funding led by Seaspan Shipyards and BDC.",
+    "url": "https://www.novarctech.com/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "A rare opportunity to work on industrial robots and integrate robotic technology with Novarc’s AI and proprietary control software = career progression:",
+    "url": "https://www.novarctech.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Finding Solutions to Real Problems in the Robotic Welding Industry",
+    "url": "https://www.novarctech.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Training Budget Up to $2,000",
+    "url": "https://www.novarctech.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "“To be honest, there are times I miss the risky stuff, being “on the steel” hundreds of feet in the air, but the rewards at Novarc, personally and professionally, bring me down to earth.”",
+    "url": "https://www.novarctech.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Nikita credits Novarc’s close, tightly knit team approach. Unlike many other technology driven companies, Novarc’s Sales and Marketing group work together with a common purpose.",
+    "url": "https://www.novarctech.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Now working remotely back in Ireland with only 2 hours of office time crossover with Vancouver, Nikita does miss the in-person contact with other Novarc staff. But sharing the occasional coffee online, and access to video of events and sessions ensures a continuing link with Novarc’s strong corporate culture.",
+    "url": "https://www.novarctech.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "“We have a very, very interesting product and I learn something new every day. I’m constantly trying to improve in whatever way I can so there’s never a dull day.”",
+    "url": "https://www.novarctech.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Roxana feels this kind of positive, encouraging and rewarding environment is contagious. “People are so supportive, and there’s always an open door. When I mentioned an interest in attending Product Management classes, they just said ‘Go for it.’",
+    "url": "https://www.novarctech.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "A father who can casually mention having a robot with an integrated welder in his home garage, and is currently teaching his kids how to program them, is obviously passionate about welding.",
+    "url": "https://www.novarctech.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "“But the robotic welding industry has some problems, as well. The issue may be variation in part-to-part fit up, or variation in joints. Whatever the cause is, the result is that human welders have to spend hours fixing something the robot couldn't do, and interrupting the manufacturing workflow. A welder ends up with a grinder in their hands. And no welder wants to be an un-welder.”",
+    "url": "https://www.novarctech.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "“I’m proud of where we are because Novarc technology is truly game-changing. I’ve worked in the robotic weld space since 2019, but I have to say, with the number of variables in the welding process, I believe ‘hands on’ experience is mandatory if you’re programming a welding robot.”",
+    "url": "https://www.novarctech.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore how businesses across various industries have boosted productivity, improved weld quality, and overcome challenges using Novarc’s solutions. These examples highlight measurable results and demonstrate the long-term value of adopting innovative welding automation to stay competitive in today’s market.",
+    "url": "https://www.novarctech.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Engineering, Procurement & Construction",
+    "url": "https://www.novarctech.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Lepol Metal Transforms Welding Productivity with Novarc's Spool Welding Robot",
+    "url": "https://www.novarctech.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Sign Up for Product Updates, Recent News and more.",
+    "url": "https://www.novarctech.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Novarc's SWR™ and NovAI™ Systems enhance data center construction, improving welding precision, efficiency, and productivity.",
+    "url": "https://www.novarctech.com/solutions-by-sector/",
+    "pass": 1
+   },
+   {
+    "quote": "The SWR™ ensures precision, under 1% repair rates, and efficiency in aerospace welding with a compact design for best use of space.",
+    "url": "https://www.novarctech.com/solutions-by-sector/",
+    "pass": 1
+   },
+   {
+    "quote": "The SWR™ boosts productivity, enhancing quality and speed, helping contractors meet deadlines and win more projects.",
+    "url": "https://www.novarctech.com/solutions-by-sector/",
+    "pass": 1
+   },
+   {
+    "quote": "The SWR™ boosts oil and energy sector welding productivity, achieving up to 12X stainless and 5X carbon steel efficiency.",
+    "url": "https://www.novarctech.com/solutions-by-sector/",
+    "pass": 1
+   },
+   {
+    "quote": "The SWR™ ensures precision, low repair rates, and compliance in pharma and biotech, enhancing production with advanced welding technology.",
+    "url": "https://www.novarctech.com/solutions-by-sector/",
+    "pass": 1
+   },
+   {
+    "quote": "The SWR™ boosts vessel manufacturing efficiency and quality, offering up to 12X productivity increases while ensuring safety and sustainability.",
+    "url": "https://www.novarctech.com/solutions-by-sector/",
+    "pass": 1
+   },
+   {
+    "quote": "Precision Welding for Data Center Construction | Novarc",
+    "url": "https://www.novarctech.com/solutions-by-sector/data-center-construction/",
+    "pass": 1
+   },
+   {
+    "quote": "NovAI™ Capture, NovPlan™, and NovAI Autonomy™ can be used to upgrade existing and new 6-axis robotic welding cells by adding advanced programming capabilities, weld quality tracking, and adaptive welding intelligence. Together, these tools help robotic weld cells more easily generate weld programs, monitor weld quality, and perform adaptive welding directly in the joint.",
+    "url": "https://www.novarctech.com/solutions-by-sector/data-center-construction/",
+    "pass": 1
+   },
+   {
+    "quote": "allows contractors to capture weld data, process information, and production insights that can support quality tracking, documentation, and continuous improvement. For data center projects where weld consistency, traceability, and schedule matter, this level of visibility can help contractors better understand what is happening in the weld cell and across production.",
+    "url": "https://www.novarctech.com/solutions-by-sector/data-center-construction/",
+    "pass": 1
+   },
+   {
+    "quote": "supports the planning and programming side of robotic welding. By helping streamline weld planning and reduce programming complexity, NovPlan™ can make it easier for contractors to move from project requirements to production-ready weld programs. This is especially valuable in high-volume fabrication environments where repeatability, speed, and workflow efficiency are critical.",
+    "url": "https://www.novarctech.com/solutions-by-sector/data-center-construction/",
+    "pass": 1
+   },
+   {
+    "quote": "builds on this foundation by allowing robotic welding systems to adapt more intelligently during production. With machine vision, real-time monitoring, and adaptive control, autonomy helps reduce operator burden, improve weld consistency, and support a more scalable fabrication process.",
+    "url": "https://www.novarctech.com/solutions-by-sector/data-center-construction/",
+    "pass": 1
+   },
+   {
+    "quote": "For modular skids, frames, and related structural components, GMAW/MIG-MAG may be used for structural welds where appropriate. The right process depends on material, joint design, weld size, code requirements, inspection criteria, and project specifications.",
+    "url": "https://www.novarctech.com/solutions-by-sector/data-center-construction/",
+    "pass": 1
+   },
+   {
+    "quote": "Common structural materials may include carbon steel and stainless steel depending on modular frame design, code requirements, and welding procedure qualifications.",
+    "url": "https://www.novarctech.com/solutions-by-sector/data-center-construction/",
+    "pass": 1
+   },
+   {
+    "quote": "Data center construction is driven by aggressive timelines, strict quality expectations, and little tolerance for commissioning delays. Mechanical contractors are often asked to produce large volumes of high-quality pipe spools while navigating skilled labor shortages, inspection requirements, and increasing demand for stainless and carbon steel cooling infrastructure.",
+    "url": "https://www.novarctech.com/solutions-by-sector/data-center-construction/",
+    "pass": 1
+   },
+   {
+    "quote": "As liquid cooling becomes more common, the pressure on fabrication teams continues to grow. Contractors need repeatable weld quality, higher throughput, and fewer delays caused by rework, failed inspections, or limited availability of qualified pipe welders.",
+    "url": "https://www.novarctech.com/solutions-by-sector/data-center-construction/",
+    "pass": 1
+   },
+   {
+    "quote": "How Can Automation and AI Improve Data Center Fabrication Schedules and Costs?",
+    "url": "https://www.novarctech.com/solutions-by-sector/data-center-construction/",
+    "pass": 1
+   },
+   {
+    "quote": "In data center construction, speed to commissioning matters. The SWR™ can help accelerate pipe spool fabrication by supporting repeatable root-to-cap welding and reducing dependence on manual welding availability. When paired with multiple positioners, the system can help reduce robot idle time and improve overall shop throughput.",
+    "url": "https://www.novarctech.com/solutions-by-sector/data-center-construction/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "As pioneers in autonomous welding, we help build the world using applied robotics and AI. Our cutting-edge cobots and AI-driven systems redefine industrial capabilities, setting new standards in quality and efficiency. Trusted globally across multiple sectors, our welding automation technologies are at the forefront of maximizing productivity and shaping the next era of manufacturing.",
+    "url": "https://www.novarctech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "NovAI brings vision and cognition to your articulated robotic and mechanized welders. Our AI- powered robotic vision system increases the ROI of automated welding and automates tasks that could not be automated before.",
+    "url": "https://www.novarctech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Remarkably, the SWR has proven to be equivalent to having four to six skilled welders on average for our operations.\"",
+    "url": "https://www.novarctech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"We knew autonomy was a big deal when one of our operators forgot he was welding and walked away from the machine. It's been fantastic to collaborate with NovARC on another industry-defining evolution.\"",
+    "url": "https://www.novarctech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "With 2023 sales and revenues of $67.1 billion, Caterpillar Inc. is the world’s leading manufacturer of construction and mining equipment, off-highway diesel and natural gas engines, industrial gas turbines and diesel-electric locomotives.",
+    "url": "https://www.novarctech.com/company/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Since 1929, Miller has worked to meet the ever-evolving demands of welders around the globe with technology and innovations of welding solutions. Their commitment to welders has established them as a leader in quality, reliability and safety. Their loyalty to the industry continues with an investment in welding education to help inspire the next generation of skilled workers.",
+    "url": "https://www.novarctech.com/company/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "STRATUS is the Premier MEP Construction Procurement, Manufacturing, and Logistics Software.",
+    "url": "https://www.novarctech.com/company/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Precision Welding for Vessel Manufacturing | Novarc",
+    "url": "https://www.novarctech.com/solutions-by-sector/vessel-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "The Spool Welding Robot for Vessel Manufacturing",
+    "url": "https://www.novarctech.com/solutions-by-sector/vessel-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlike other welding solutions, Novarc‘s flexible technology is capable of welding a variety of joints, with fewer space restrictions, where operators interactively make adjustments during the weld without the need to pre-program.",
+    "url": "https://www.novarctech.com/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Novarc expanded to a dedicated manufacturing and warehousing facility on Barrow Street in North Vancouver, BC, Canada.",
+    "url": "https://www.novarctech.com/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "A rare opportunity to work on industrial robots and integrate robotic technology with Novarc’s AI and proprietary control software = career progression:",
+    "url": "https://www.novarctech.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Lucas is currently the Senior Account Executive for NovAI™ at Novarc, working with manufacturers across the United States to introduce Novarc’s innovative robotic solutions to automate the most challenging jobs.",
+    "url": "https://www.novarctech.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "It may be Lucas’ honors degree in philosophy that honed his skills in careful listening and insightful questions that result in identifying core issues that he then brings back to Novarc’s Sales Engineering team. Those issues, and their answers make an often three-hour long tour and assessment of a manufacturing facility, time well spent.",
+    "url": "https://www.novarctech.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "“At first, I was the industry rep, because I had actually worked in the welding industry for 15 years. Later, I took on the role of the operator, and the owner/purchaser. At the same time, I basically became the first person to commission a robot. From there, I worked in customer support, then as a trainer, guiding new welders to take on these various, and obviously important responsibilities.",
+    "url": "https://www.novarctech.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "“But the robotic welding industry has some problems, as well. The issue may be variation in part-to-part fit up, or variation in joints. Whatever the cause is, the result is that human welders have to spend hours fixing something the robot couldn't do, and interrupting the manufacturing workflow. A welder ends up with a grinder in their hands. And no welder wants to be an un-welder.”",
+    "url": "https://www.novarctech.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "With the same start-up energy he enjoyed at General Fusion and Vanrx, Novarc was at a pivotal point in its growth and Trevor was charged with building hardware teams, from engineering to manufacturing.\"We’re an interesting mix of hands-on engineering, design and welding. It’s cutting edge stuff and there’s no gap between tech and engineering. It's a really rewarding work atmosphere.”",
+    "url": "https://www.novarctech.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study Archive | Novarc",
+    "url": "https://www.novarctech.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Heavy Industrial Contracting",
+    "url": "https://www.novarctech.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Tank Manufacturing",
+    "url": "https://www.novarctech.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "The SWR™ ensures precision, under 1% repair rates, and efficiency in aerospace welding with a compact design for best use of space.",
+    "url": "https://www.novarctech.com/solutions-by-sector/",
+    "pass": 1
+   },
+   {
+    "quote": "District heating is a highly efficient system for distributing heat from a centralized location to residential, commercial, and industrial buildings.",
+    "url": "https://www.novarctech.com/solutions-by-sector/",
+    "pass": 1
+   },
+   {
+    "quote": "The SWR™ boosts vessel manufacturing efficiency and quality, offering up to 12X productivity increases while ensuring safety and sustainability.",
+    "url": "https://www.novarctech.com/solutions-by-sector/",
+    "pass": 1
+   },
+   {
+    "quote": "In addition to the SWR™ for pipe spool fabrication, Novarc also offers AI and software solutions for existing 6-axis robotic welding cells. These solutions are separate from the SWR™ and are designed to help manufacturers and contractors upgrade robotic weld cells used for structural weldments, modular skids, frames, and other repeatable fabrication applications.",
+    "url": "https://www.novarctech.com/solutions-by-sector/data-center-construction/",
+    "pass": 1
+   },
+   {
+    "quote": "As liquid cooling becomes more common, the pressure on fabrication teams continues to grow. Contractors need repeatable weld quality, higher throughput, and fewer delays caused by rework, failed inspections, or limited availability of qualified pipe welders.",
+    "url": "https://www.novarctech.com/solutions-by-sector/data-center-construction/",
+    "pass": 1
+   },
+   {
+    "quote": "For mechanical engineering contractors working in data center construction, the challenge is clear: produce more high-quality pipe spools, meet aggressive project schedules, and maintain consistent weld quality while navigating a shortage of qualified pipe welders.",
+    "url": "https://www.novarctech.com/solutions-by-sector/data-center-construction/",
+    "pass": 1
+   },
+   {
+    "quote": "helps mechanical contractors improve weld consistency, productivity, and quality control in pipe spool fabrication. Designed specifically for pipe welding applications, the SWR™ supports repeatable root-to-cap welding, allowing contractors to automate spool production while keeping skilled operators in control of the process.",
+    "url": "https://www.novarctech.com/solutions-by-sector/data-center-construction/",
+    "pass": 1
+   },
+   {
+    "quote": "The shipbuilding and repair industry faces several significant challenges. Complex shapes and thick materials require precision to ensure seaworthiness. There’s also a widespread shortage of skilled welders, impacting both new shipbuilding and retrofit projects. Additionally, maintaining project schedules and ensuring reliability is critical, especially for retrofits, where delays can be costly.",
+    "url": "https://www.novarctech.com/solutions-by-sector/shipbuilding/",
+    "pass": 1
+   },
+   {
+    "quote": "The SWR™ addresses the shortage of skilled welders by automating the welding process. This is crucial for both new shipbuilding and repair projects, where finding qualified welders is increasingly difficult. With the SWR™, shipbuilders and repair yards can maintain high-quality welds without relying solely on human welders. This helps fill the labor gap and ensures consistent, reliable welding.",
+    "url": "https://www.novarctech.com/solutions-by-sector/shipbuilding/",
+    "pass": 1
+   },
+   {
+    "quote": "Precision Welding for Aerospace Manufacturing | Novarc",
+    "url": "https://www.novarctech.com/solutions-by-sector/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "The Spool Welding Robot for Aerospace",
+    "url": "https://www.novarctech.com/solutions-by-sector/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "The SWR™ with TIP TIG technology offers higher deposition rates, reaching up to 4 lbs/hour, far surpassing conventional TIG systems. Additionally, it provides up to a 300% increase in travel speeds, enabling faster project completion. These gains in productivity are crucial in the aerospace sector, where efficiency and precision are paramount.",
+    "url": "https://www.novarctech.com/solutions-by-sector/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "Precision Welding for Aerospace Manufacturing | Novarc",
+    "url": "https://www.novarctech.com/solutions-by-sector/cryogenics/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Facilities:",
+    "url": "https://www.novarctech.com/solutions-by-sector/district-heating/",
+    "pass": 1
+   },
+   {
+    "quote": "Supports process heating requirements and space heating within industrial complexes.",
+    "url": "https://www.novarctech.com/solutions-by-sector/district-heating/",
+    "pass": 1
+   },
+   {
+    "quote": "Heat is generated at a central plant using various energy sources such as natural gas, coal, biomass, or waste incineration.",
+    "url": "https://www.novarctech.com/solutions-by-sector/district-heating/",
+    "pass": 1
+   },
+   {
+    "quote": "The SWR™ features instantaneous heat input monitoring via the HMI, allowing operators to ensure optimal welding conditions. Additionally, NovData records all welding parameters every 50 milliseconds, providing detailed data for quality assurance and traceability.",
+    "url": "https://www.novarctech.com/solutions-by-sector/district-heating/",
+    "pass": 1
+   },
+   {
+    "quote": "Welcome to Novarc Technologies, where welding automation meets the future. We are an industrial Physical AI company reinventing welding automation for the global fabrication industry by pioneering enterprise welding intelligence.",
+    "url": "https://www.novarctech.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Novarc Technologies is a full-stack robotics company specializing in the design and manufacturing of cobots and AI-based machine vision solutions for autonomous welding.",
+    "url": "https://www.novarctech.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "The Novarc team is made up of engineers, software developers, welders and robotic enthusiasts with automation and robotic specializations.",
+    "url": "https://www.novarctech.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President of Supply Chain and Manufacturing",
+    "url": "https://www.novarctech.com/company/team/",
+    "pass": 1
+   },
+   {
+    "quote": "Richard Dalley is an accomplished software leader with over two decades of experience driving successful product delivery and operational excellence for large-scale technology organizations. He has a proven track record of leading and scaling global engineering teams across diverse domains, including financial services, payments, machine learning, digital cinema, and industrial systems.",
+    "url": "https://www.novarctech.com/company/team/",
+    "pass": 1
+   },
+   {
+    "quote": "Robotic Solutions for Data Center Infrastructure Manufacturing",
+    "url": "https://www.novarctech.com/company/press/",
+    "pass": 1
+   },
+   {
+    "quote": "NOVARC AND HANWHA OCEAN SIGN MOU FOR INNOVATION COLLABORATION ON WELDING AUTOMATION AND AI-POWERED MANUFACTURING TECHNOLOGIES FOR ADVANCED SHIPBUILDING APPLICATIONS",
+    "url": "https://www.novarctech.com/company/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "As pioneers in autonomous welding, we help build the world using applied robotics and AI. Our cutting-edge cobots and AI-driven systems redefine industrial capabilities, setting new standards in quality and efficiency. Trusted globally across multiple sectors, our welding automation technologies are at the forefront of maximizing productivity and shaping the next era of manufacturing.",
+    "url": "https://www.automateshow.com/prior-exhibitors/novarc-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Website by Amplify Industrial Marketing + Guidance.",
+    "url": "https://www.automateshow.com/prior-exhibitors/novarc-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Find a Manufacturer / Supplier",
+    "url": "https://www.mcaa.org/manufacturers-suppliers/novarc-technologies-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "With Novarc’s Spool Welding Robot (SWR™), Harry Grodsky & Co., Inc.’s crew of four full-time pipe welders can now handle significantly more prefabrica…",
+    "url": "https://www.mcaa.org/manufacturers-suppliers/novarc-technologies-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "In late 2022, faced with both a shortage of certified wire welders and a pipeline of increasingly large-diameter, high-specification projects, Walding…",
+    "url": "https://www.mcaa.org/manufacturers-suppliers/novarc-technologies-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "Despite an industry-wide shortage of skilled welders, Kleeberg has increased productivity by partnering with Novarc Technologies and adopting the Spoo…",
+    "url": "https://www.mcaa.org/manufacturers-suppliers/novarc-technologies-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "By implementing Novarc’s Spool Welding Robot (SWR), Harder Mechanical Contractors has minimized their need for highly skilled welders and increased pr…",
+    "url": "https://www.mcaa.org/manufacturers-suppliers/novarc-technologies-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "MANUFACTURER PRODUCTS",
+    "url": "https://www.mcaa.org/manufacturers-suppliers/novarc-technologies-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "InBC Invests in Novarc Technologies, Advancing Intelligent Welding Technology for Industrial Manufacturing",
+    "url": "https://inbcinvestment.com/inbc-invests-novarc-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": ", a robotics company pioneering autonomous welding solutions for the next era of manufacturing.",
+    "url": "https://inbcinvestment.com/inbc-invests-novarc-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "Novarc Technologies is a full-stock robotics company specializing in the design and manufacturing of automated welding solutions. Its suite of products includes the Spool Welding Robot (SWR",
+    "url": "https://inbcinvestment.com/inbc-invests-novarc-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "InBC’s investment in Novarc Technologies is supporting robotics and AI innovation in B.C. and helping to advance industrial manufacturing industries for future economic growth. This investment aligns with InBC’s investment theme to innovate for the future.",
+    "url": "https://inbcinvestment.com/inbc-invests-novarc-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "VP Supply Chain & Manufacturing",
+    "url": "https://growjo.com/company/Novarc_Technologies",
+    "pass": 3
+   },
+   {
+    "quote": "“We are very pleased to be once again named to this prestigious Financial Times’ list,” said Donato Montanari, Novarc’s CTO. “We are passionate about building the future and essential infrastructure through automation solutions that bring the precision of human expertise through AI to articulated robots, cobots and mechanized welders.”",
+    "url": "https://www.novarctech.com/company/press-releases/novarc-named-to-the-financial-times-the-americas-fastest-growing-companies-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "As a proven pioneer in the field of welding automation, Novarc Technologies is a full-stack AI robotics company specializing in the design and manufacturing of automated welding solutions for challenging welding applications. Novarc’s Spool Welding Robot (SWR) is recognized by customers globally for its impact in the fabrication industry. For more information, visit novarctech.com",
+    "url": "https://www.novarctech.com/company/press-releases/novarc-named-to-the-financial-times-the-americas-fastest-growing-companies-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of collaborative welding robots designed to solve automation problems. The company offers commercialization of cobots and AI (artificial intelligence) systems for robotic welding applications, enabling quick resolution of challenging industrial automation problems.",
+    "url": "https://pitchbook.com/profiles/company/179282-89",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "The Novarc team is here to help. Contact us with any questions you may have, and we’ll assist you with the information or support you need. Just fill out the form, and we’ll be in touch shortly to discuss how we can help with your specific requirements. We look forward to hearing from you!",
+    "url": "https://www.novarctech.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Novarc team is here to help. Contact us with any questions you may have, and we’ll assist you with the information or support you need. Just fill out the form, and we’ll be in touch shortly to discuss how we can help with your specific requirements. We look forward to hearing from you!",
+    "url": "https://www.novarctech.com/company/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "The Novarc team is here to help. Contact us with any questions you may have, and we’ll assist you with the information or support you need. Just fill out the form, and we’ll be in touch shortly to discuss how we can help with your specific requirements. We look forward to hearing from you!",
+    "url": "https://www.novarctech.com/solutions-by-sector/vessel-manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "The Novarc team is here to help. Contact us with any questions you may have, and we’ll assist you with the information or support you need. Just fill out the form, and we’ll be in touch shortly to discuss how we can help with your specific requirements. We look forward to hearing from you!",
+    "url": "https://www.novarctech.com/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "The Novarc team is here to help. Contact us with any questions you may have, and we’ll assist you with the information or support you need. Just fill out the form, and we’ll be in touch shortly to discuss how we can help with your specific requirements. We look forward to hearing from you!",
+    "url": "https://www.novarctech.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "The Novarc team is here to help. Contact us with any questions you may have, and we’ll assist you with the information or support you need. Just fill out the form, and we’ll be in touch shortly to discuss how we can help with your specific requirements. We look forward to hearing from you!",
+    "url": "https://www.novarctech.com/solutions-by-sector/",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us today to speak with an automation expert.",
+    "url": "https://www.novarctech.com/solutions-by-sector/data-center-construction/",
+    "pass": 1
+   },
+   {
+    "quote": "The Novarc team is here to help. Contact us with any questions you may have, and we’ll assist you with the information or support you need. Just fill out the form, and we’ll be in touch shortly to discuss how we can help with your specific requirements. We look forward to hearing from you!",
+    "url": "https://www.novarctech.com/solutions-by-sector/shipbuilding/",
+    "pass": 1
+   },
+   {
+    "quote": "The Novarc team is here to help. Contact us with any questions you may have, and we’ll assist you with the information or support you need. Just fill out the form, and we’ll be in touch shortly to discuss how we can help with your specific requirements. We look forward to hearing from you!",
+    "url": "https://www.novarctech.com/solutions-by-sector/nuclear/",
+    "pass": 1
+   },
+   {
+    "quote": "The Novarc team is here to help. Contact us with any questions you may have, and we’ll assist you with the information or support you need. Just fill out the form, and we’ll be in touch shortly to discuss how we can help with your specific requirements. We look forward to hearing from you!",
+    "url": "https://www.novarctech.com/solutions-by-sector/aerospace/",
+    "pass": 1
+   },
+   {
+    "quote": "The Novarc team is here to help. Contact us with any questions you may have, and we’ll assist you with the information or support you need. Just fill out the form, and we’ll be in touch shortly to discuss how we can help with your specific requirements. We look forward to hearing from you!",
+    "url": "https://www.novarctech.com/solutions-by-sector/building-construction/",
+    "pass": 1
+   },
+   {
+    "quote": "The Novarc team is here to help. Contact us with any questions you may have, and we’ll assist you with the information or support you need. Just fill out the form, and we’ll be in touch shortly to discuss how we can help with your specific requirements. We look forward to hearing from you!",
+    "url": "https://www.novarctech.com/solutions-by-sector/cryogenics/",
+    "pass": 1
+   },
+   {
+    "quote": "The Novarc team is here to help. Contact us with any questions you may have, and we’ll assist you with the information or support you need. Just fill out the form, and we’ll be in touch shortly to discuss how we can help with your specific requirements. We look forward to hearing from you!",
+    "url": "https://www.novarctech.com/solutions-by-sector/district-heating/",
+    "pass": 1
+   },
+   {
+    "quote": "The Novarc team is here to help. Contact us with any questions you may have, and we’ll assist you with the information or support you need. Just fill out the form, and we’ll be in touch shortly to discuss how we can help with your specific requirements. We look forward to hearing from you!",
+    "url": "https://www.novarctech.com/solutions-by-sector/food-and-dairy/",
+    "pass": 1
+   },
+   {
+    "quote": "The Novarc team is here to help. Contact us with any questions you may have, and we’ll assist you with the information or support you need. Just fill out the form, and we’ll be in touch shortly to discuss how we can help with your specific requirements. We look forward to hearing from you!",
+    "url": "https://www.novarctech.com/solutions-by-sector/oil-gas/",
+    "pass": 1
+   },
+   {
+    "quote": "The Novarc team is here to help. Contact us with any questions you may have, and we’ll assist you with the information or support you need. Just fill out the form, and we’ll be in touch shortly to discuss how we can help with your specific requirements. We look forward to hearing from you!",
+    "url": "https://www.novarctech.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "The Novarc team is here to help. Contact us with any questions you may have, and we’ll assist you with the information or support you need. Just fill out the form, and we’ll be in touch shortly to discuss how we can help with your specific requirements. We look forward to hearing from you!",
+    "url": "https://www.novarctech.com/company/team/",
+    "pass": 1
+   },
+   {
+    "quote": "The Novarc team is here to help. Contact us with any questions you may have, and we’ll assist you with the information or support you need. Just fill out the form, and we’ll be in touch shortly to discuss how we can help with your specific requirements. We look forward to hearing from you!",
+    "url": "https://www.novarctech.com/company/press/",
+    "pass": 1
+   },
+   {
+    "quote": "The Novarc team is here to help. Contact us with any questions you may have, and we’ll assist you with the information or support you need. Just fill out the form, and we’ll be in touch shortly to discuss how we can help with your specific requirements. We look forward to hearing from you!",
+    "url": "https://www.novarctech.com/company/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "B2B email lists",
+    "url": "https://growjo.com/company/Novarc_Technologies",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Email Finder",
+    "url": "https://growjo.com/company/Novarc_Technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/179282-89",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "With 2023 sales and revenues of $67.1 billion, Caterpillar Inc. is the world’s leading manufacturer of construction and mining equipment, off-highway diesel and natural gas engines, industrial gas turbines and diesel-electric locomotives.",
+    "url": "https://www.novarctech.com/company/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Novarc was impacted by the Covid outbreak, resulting in downsizing. After a setback in Q2, Novarc rebounded and achieved record-breaking revenue by the end of 2020.",
+    "url": "https://www.novarctech.com/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Novarc expanded to a dedicated manufacturing and warehousing facility on Barrow Street in North Vancouver, BC, Canada.",
+    "url": "https://www.novarctech.com/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Embarking on a career with us means joining a vibrant team committed to making a difference on a global scale. Here, your work transcends traditional boundaries, contributing to a movement that’s reshaping our tech-driven future. At Novarc, you’re not just an employee; you’re a vital part of our ambitious journey.",
+    "url": "https://www.novarctech.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "\"She's had the wind at her back\": the journey of one of Novarc's first employees",
+    "url": "https://www.novarctech.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "“You learn something new all the time, and being part of a team with other supporting units, the personal rewards are great. I look back today and I’m honestly amazed at how my career has developed. And that trajectory has completely surpassed my expectations.",
+    "url": "https://www.novarctech.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "“Novarc is incorporating the technology of machine learning, modern software, and artificial intelligence with robotics and welding. I don’t think many companies have that marriage of technology in a traditional field like welding. And that’s really exciting!”",
+    "url": "https://www.novarctech.com/company/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Harry Grodsky & Co. has spent a century building a reputation for excellence. Here's how they're using Novarc's SWR™ to make the next century even stronger.",
+    "url": "https://www.novarctech.com/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Heat is transported via a network of insulated pipes, typically carrying hot water or steam, to multiple buildings.",
+    "url": "https://www.novarctech.com/solutions-by-sector/district-heating/",
+    "pass": 1
+   },
+   {
+    "quote": "At Novarc Technologies, we are proud to collaborate with a diverse array of global leaders and innovators.",
+    "url": "https://www.novarctech.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "NOVARC LAUNCHES NovAI AUTONOMY AS PART OF NovAI SUITE LEVERAGING FIVE YEARS OF FIELD-PROVEN PHYSICAL AI AND EXPANDS THE INTEGRATION TO YASKAWA AND ABB ROBOTS",
+    "url": "https://www.novarctech.com/company/press-releases/",
+    "pass": 1
+   },
+   {
+    "quote": "With Novarc’s Spool Welding Robot (SWR™), Harry Grodsky & Co., Inc.’s crew of four full-time pipe welders can now handle significantly more prefabrica…",
+    "url": "https://www.mcaa.org/manufacturers-suppliers/novarc-technologies-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "Novarc Technologies: Revenue, Competitors, Alternatives",
+    "url": "https://growjo.com/company/Novarc_Technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and Competitors",
+    "url": "https://growjo.com/company/Novarc_Technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/Novarc_Technologies",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/Novarc_Technologies",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated revenue per employee is $",
+    "url": "https://growjo.com/company/Novarc_Technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Novarc placed #140 out of the 500 companies that made the annual ranking, recognizing those companies that grew fastest in The Americas by examining their highest compound annual growth (CAGR) in revenues between 2021 and 2024.",
+    "url": "https://www.novarctech.com/company/press-releases/novarc-named-to-the-financial-times-the-americas-fastest-growing-companies-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "The creation of the ranking was based on the following criteria: Revenue of at least US $100,000 generated in 2021; revenue of at least US $1.5M generated in 2024; the company is independent (the company is not a subsidiary or branch office of any kind); the company is headquartered in one of 20 American countries; and, revenue growth was primarily organic between 2021 and 2024.",
+    "url": "https://www.novarctech.com/company/press-releases/novarc-named-to-the-financial-times-the-americas-fastest-growing-companies-2026/",
+    "pass": 3
+   },
+   {
+    "quote": "Corporate Backed or Acquired",
+    "url": "https://pitchbook.com/profiles/company/179282-89",
+    "pass": 3
+   },
+   {
+    "quote": "Novarc Technologies has 141 total employees.",
+    "url": "https://pitchbook.com/profiles/company/179282-89",
+    "pass": 3
+   },
+   {
+    "quote": "What is Novarc Technologies’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/179282-89",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Novarc Technologies is",
+    "url": "https://pitchbook.com/profiles/company/179282-89",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Novarc Technologies — Novarc Technologies novarctech.com https://www.novarctech.com",
+    "url": "https://www.novarctech.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Novarc Technologies Inc. - LinkedIn — Novarc Technologies Inc. - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/novarc-technologies-inc-",
+    "pass": 3
+   },
+   {
+    "quote": "Novarc Technologies Inc. | North Vancouver BC - Facebook — Novarc Technologies Inc. | North Vancouver BC - Facebook Facebook https://www.facebook.com > ... > Robotics Company",
+    "url": "https://www.facebook.com/novarctech/",
+    "pass": 3
+   },
+   {
+    "quote": "Novarc Technologies Inc. (@novarctech) - Instagram — Novarc Technologies Inc. (@novarctech) - Instagram Instagram https://www.instagram.com > novarct...",
+    "url": "https://www.instagram.com/novarctech/",
+    "pass": 3
+   },
+   {
+    "quote": "Novarc Technologies Inc. - LinkedIn — Novarc Technologies Inc. - LinkedIn LinkedIn https://ca.linkedin.com > company",
+    "url": "https://ca.linkedin.com/company/novarc-technologies-inc-",
+    "pass": 3
+   },
+   {
+    "quote": "Novarc Technologies Inc. - Automate 2027 — Novarc Technologies Inc. - Automate 2027 Automate Show https://www.automateshow.com > no...",
+    "url": "https://www.automateshow.com/exhibitors/novarc-technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Novarc Technologies Inc. - MCAA — Novarc Technologies Inc. - MCAA MCAA https://www.mcaa.org > novarc-techn...",
+    "url": "https://www.mcaa.org/manufacturers-suppliers/novarc-technologies-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "InBC Invests in Novarc Technologies — InBC Invests in Novarc Technologies InBC Investment Corp. https://inbcinvestment.com > Blog",
+    "url": "https://inbcinvestment.com/inbc-invests-novarc-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study Archive - Novarc Technologies — Case Study Archive - Novarc Technologies novarctech.com https://www.novarctech.com > case-st...",
+    "url": "https://www.novarctech.com/resources/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Amid industry challenges, Novarc Technologies is redefining ... — Amid industry challenges, Novarc Technologies is redefining ... Manufacturing Today https://manufacturing-today.com > a...",
+    "url": "https://manufacturing-today.com/news/amid-industry-challenges-novarc-technologies-is-redefining-the-future-of-welding/",
+    "pass": 3
+   },
+   {
+    "quote": "Novarc Technologies — Novarc Technologies Ship Technology https://www.ship-technology.com > n...",
+    "url": "https://www.ship-technology.com/contractors/ps-ai/novarc-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "42 Novarc Technologies Inc. Customer Reviews & References — 42 Novarc Technologies Inc. Customer Reviews & References Featured Customers https://www.featuredcustomers.com > ...",
+    "url": "https://www.featuredcustomers.com/vendor/novarc-technologies-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Novarc Technologies : Revenue , Competitors, Alternatives — Novarc Technologies : Revenue , Competitors, Alternatives Growjo https://growjo.com > company > Nov...",
+    "url": "https://growjo.com/company/Novarc_Technologies",
+    "pass": 3
+   },
+   {
+    "quote": "Novarc Technologies - $12.6 M Revenue , Employees & Growth — Novarc Technologies - $12.6 M Revenue , Employees & Growth Kona Equity https://www.konaequity.com > novar...",
+    "url": "https://www.konaequity.com/company/novarc-technologies-4865322372/",
+    "pass": 3
+   },
+   {
+    "quote": "Novarc Technologies 2026 Company Profile - PitchBook — Novarc Technologies 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/179282-89",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Novarc Technologies Inc. - LinkedIn Novarc Technologies Inc. - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/novarc-technologies-inc-",
+    "pass": 3
+   },
+   {
+    "quote": "Novarc Technologies Inc. showcases AI-powered welding ... Novarc Technologies Inc. showcases AI-powered welding ... LinkedIn https://www.linkedin.com > posts > jacobrhall_roboticwel...",
+    "url": "https://www.linkedin.com/posts/jacobrhall_roboticwelding-fabtech-novarc-activity-7371897952468066304-qsQw",
+    "pass": 3
+   },
+   {
+    "quote": "Novarc Technologies Inc. | LinkedIn Novarc Technologies Inc. | LinkedIn LinkedIn https://jp.linkedin.com > novarc-technologies-inc-",
+    "url": "https://jp.linkedin.com/company/novarc-technologies-inc-",
+    "pass": 3
+   },
+   {
+    "quote": "Novarc Technologies Inc. - LinkedIn Novarc Technologies Inc. - LinkedIn LinkedIn https://ca.linkedin.com > company",
+    "url": "https://ca.linkedin.com/company/novarc-technologies-inc-",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Novarc Technologies Inc. | North Vancouver BC - Facebook Novarc Technologies Inc. | North Vancouver BC - Facebook Facebook https://www.facebook.com > ... > Robotics Company",
+    "url": "https://www.facebook.com/novarctech/",
+    "pass": 3
+   },
+   {
+    "quote": "Novarc Technologies Inc. (@novarctech) - Photos | Facebook Novarc Technologies Inc. (@novarctech) - Photos | Facebook Facebook https://www.facebook.com > ... > Novarc Technologies Inc.",
+    "url": "https://www.facebook.com/novarctech/photos/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.novarctech.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.novarctech.com/company/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.novarctech.com/solutions-by-sector/vessel-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.novarctech.com/company/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.novarctech.com/company/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.novarctech.com/resources/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.novarctech.com/solutions-by-sector/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.novarctech.com/solutions-by-sector/data-center-construction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.novarctech.com/solutions-by-sector/shipbuilding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.novarctech.com/solutions-by-sector/nuclear/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.novarctech.com/solutions-by-sector/aerospace/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.novarctech.com/solutions-by-sector/building-construction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.novarctech.com/solutions-by-sector/cryogenics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.novarctech.com/solutions-by-sector/district-heating/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.novarctech.com/solutions-by-sector/food-and-dairy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.novarctech.com/solutions-by-sector/oil-gas/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.novarctech.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.novarctech.com/company/team/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.novarctech.com/company/press/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.novarctech.com/company/press-releases/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.novarctech.com/wp-content/uploads/2024/11/Partners-header.jpg?x81126",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.novarctech.com/wp-content/uploads/2024/11/Vessel-Manufacturing-header-e1730749843790.jpg?x81126",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.novarctech.com/wp-content/uploads/2024/10/Industrial-Tank-Manufacturing-small.jpg?x81126",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.novarctech.com/wp-content/uploads/2024/11/Oil-Gas-Industry-small_5.jpg?x81126",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.novarctech.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/novarc-technologies-inc-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=z71HxvL8jpU",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.facebook.com/novarctech/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.novarctech.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ca.linkedin.com/company/novarc-technologies-inc-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.automateshow.com/prior-exhibitors/novarc-technologies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mcaa.org/manufacturers-suppliers/novarc-technologies-inc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/novarc-technologies-inc-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.novarctech.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mcaa.org/manufacturers-suppliers/novarc-technologies-inc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automateshow.com/prior-exhibitors/novarc-technologies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.novarctech.com/resources/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manufacturing-today.com/news/amid-industry-challenges-novarc-technologies-is-redefining-the-future-of-welding/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://inbcinvestment.com/inbc-invests-novarc-technologies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ship-technology.com/contractors/ps-ai/novarc-technologies/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.novarctech.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/novarc-technologies-inc-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://inbcinvestment.com/inbc-invests-novarc-technologies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mcaa.org/manufacturers-suppliers/novarc-technologies-inc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Novarc_Technologies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.konaequity.com/company/novarc-technologies-4865322372/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.novarctech.com/company/press-releases/novarc-named-to-the-financial-times-the-americas-fastest-growing-companies-2026/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/179282-89",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/company/novarc-technologies-inc-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/jacobrhall_roboticwelding-fabtech-novarc-activity-7371897952468066304-qsQw",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/novarc-technologies-inc-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/novarctech/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/novarctech/photos/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/novarc-technologies-inc-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/novarc-technologies-inc-",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Novarc Technologies 日本 導入",
+   "results": [
+    "https://www.novarctech.com/",
+    "https://www.linkedin.com/company/novarc-technologies-inc-",
+    "https://www.youtube.com/watch?v=z71HxvL8jpU",
+    "https://www.facebook.com/novarctech/",
+    "https://www.instagram.com/novarctech/",
+    "https://www.ship-technology.com/contractors/ps-ai/novarc-technologies/",
+    "https://www.defenseandmunitions.com/news/novarc-yaskawa-advancing-ai-powered-autonomous-welding-automation/",
+    "https://www.offshore-technology.com/contractors/ps-robotics/novarc-technologies/",
+    "https://ga-match.co.jp/ai-catalog/novarc-technologies/",
+    "https://roboticstrend.net/2026/06/15/novarcx安川電機、ai溶接ロボで自動化加速/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Novarc Technologies 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.novarctech.com/",
+    "https://ca.linkedin.com/company/novarc-technologies-inc-",
+    "https://www.automateshow.com/exhibitors/novarc-technologies",
+    "https://www.mcaa.org/manufacturers-suppliers/novarc-technologies-inc/",
+    "https://inbcinvestment.com/inbc-invests-novarc-technologies/",
+    "https://www.instagram.com/novarctech/",
+    "https://www.thefabricator.com/directory/showroom/novarc-technologies",
+    "https://www.offshore-technology.com/contractors/ps-robotics/novarc-technologies/",
+    "https://www.facebook.com/novarctech/",
+    "https://www.novarctech.com/company/team/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Novarc Technologies Japan",
+   "results": [
+    "https://www.linkedin.com/company/novarc-technologies-inc-",
+    "https://www.novarctech.com/",
+    "https://www.mcaa.org/manufacturers-suppliers/novarc-technologies-inc/",
+    "https://www.automateshow.com/exhibitors/novarc-technologies",
+    "https://inbcinvestment.com/inbc-invests-novarc-technologies/",
+    "https://www.instagram.com/novarctech/",
+    "https://www.canadianinnovators.org/members/novarc-technologies",
+    "https://pitchbook.com/profiles/company/179282-89",
+    "https://www.novarctech.com/company/",
+    "https://novarc.com/en/home-english/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Novarc Technologies manufacturing customer case study",
+   "results": [
+    "https://www.novarctech.com/resources/case-studies/",
+    "https://manufacturing-today.com/news/amid-industry-challenges-novarc-technologies-is-redefining-the-future-of-welding/",
+    "https://inbcinvestment.com/inbc-invests-novarc-technologies/",
+    "https://www.ship-technology.com/contractors/ps-ai/novarc-technologies/",
+    "https://www.featuredcustomers.com/vendor/novarc-technologies-inc",
+    "https://www.youtube.com/watch?v=0I9tL1w6HZc",
+    "https://www.casestudies.com/company/novarc-technologies-inc/case-study/with-over-8-decades-of-experience-harder-mechanical-is-a-large-nationally-recognized-contractor-with-an-outstanding-reputation",
+    "https://www.offshore-technology.com/contractors/ps-robotics/novarc-technologies/",
+    "https://www.linkedin.com/posts/novarc-technologies-inc-_weldingautomation-fabrication-robotics-activity-7429594478564294656-0b8B",
+    "https://www.novarctech.com/resources/case-studies/page/2/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Novarc Technologies white label OR reseller OR partner program",
+   "results": [
+    "https://www.novarctech.com/",
+    "https://www.linkedin.com/company/novarc-technologies-inc-",
+    "https://inbcinvestment.com/inbc-invests-novarc-technologies/",
+    "https://www.mcaa.org/manufacturers-suppliers/novarc-technologies-inc/",
+    "https://pypeserver.com/novarc/",
+    "https://www.automateshow.com/exhibitors/novarc-technologies",
+    "https://www.offshore-technology.com/contractors/ps-robotics/novarc-technologies/",
+    "https://www.youtube.com/watch?v=4RzqnWy3MM0",
+    "https://dealroom.co/companies/novarc-technologies/",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Novarc Technologies founded funding employees revenue",
+   "results": [
+    "https://growjo.com/company/Novarc_Technologies",
+    "https://www.konaequity.com/company/novarc-technologies-4865322372/",
+    "https://www.novarctech.com/company/press-releases/novarc-named-to-the-financial-times-the-americas-fastest-growing-companies-2026/",
+    "https://pitchbook.com/profiles/company/179282-89",
+    "https://www.owler.com/company/novarctech",
+    "https://www.bdc.ca/en/about/mediaroom/news-releases/bdc-capital-provides-growth-capital-novarc-technologies-ip-backed-financing-fund-first-deal",
+    "https://craft.co/novarc-technologies",
+    "https://www.linkedin.com/company/novarc-technologies-inc-",
+    "https://www.crunchbase.com/organization/novarc-technologies",
+    "https://compworth.com/company/novarc-technologies"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Novarc Technologies",
+   "results": [
+    "https://note.com/thomasfa/n/nb78abb63e0a1",
+    "https://note.com/taka_honda/n/n36f4457e1080",
+    "https://note.com/hitowaza/n/n64c56112abb1?hl=en",
+    "https://note.com/takusamar/n/n57c2bca0edc5",
+    "https://note.com/novarca/n/n5c06212e1fc0",
+    "https://note.com/novarca/n/n95e39349b728",
+    "https://note.com/wise_turtle184",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/yasuhitoo/n/n32e1b455ba61"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:x.com Novarc Technologies",
+   "results": [
+    "https://x.com/novarctech",
+    "https://x.com/IlirAliu_/status/2118781869751668799",
+    "https://x.com/HanwhaCanada",
+    "https://x.com/IlirAliu_/status/2118781869751668799/video/1",
+    "https://x.com/MCAANews",
+    "https://x.com/ExportDevCanada",
+    "https://x.com/novarc28",
+    "https://x.com/HanwhaCanada/status/2061214803356459514",
+    "https://x.com/hashtag/novarc",
+    "https://x.com/p0ptartkitty/status/2115926138987913708"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:linkedin.com Novarc Technologies",
+   "results": [
+    "https://www.linkedin.com/company/novarc-technologies-inc-",
+    "https://www.linkedin.com/posts/jacobrhall_roboticwelding-fabtech-novarc-activity-7371897952468066304-qsQw",
+    "https://jp.linkedin.com/company/novarc-technologies-inc-",
+    "https://ca.linkedin.com/in/thomasthiessen",
+    "https://ca.linkedin.com/in/hooshiar-mehrabi",
+    "https://www.linkedin.com/in/doudera",
+    "https://ca.linkedin.com/in/soroushkarimzadeh",
+    "https://ca.linkedin.com/in/ahmadashoori",
+    "https://www.linkedin.com/posts/novarc-technologies-inc-_wj-oneil-company-wjo-is-a-mechanical-activity-7448006876245491712-xAHs",
+    "https://ca.linkedin.com/in/reza-abdollahi-32097b7"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com Novarc Technologies",
+   "results": [
+    "https://www.facebook.com/novarctech/",
+    "https://www.facebook.com/novarctech/photos/",
+    "https://www.facebook.com/MillerWelders/videos/we-partnered-with-novarc-technologies-inc-to-introduce-the-copilot-builder-with-/951249870980908/",
+    "https://www.facebook.com/novarctech/videos/introducing-swr-f-easier-faster-slip-on-flange-welding-x-ray-quality-welds-accou/622995276095549/",
+    "https://www.facebook.com/MillerWelders/videos/were-kicking-off-nascc-with-a-look-at-our-copilot-builder-with-blue-iq-powered-b/939454782418425/",
+    "https://www.facebook.com/FABshopmagazine/posts/the-novarc-technologies-inc-booth-at-fabtech-was-full-of-activity-including-a-vi/2012115563335416/",
+    "https://www.facebook.com/MillerWelders/videos/day-2-at-fabtech-brought-more-demonstrations-conversations-and-a-closer-look-at-/2251406948764879/",
+    "https://www.facebook.com/MillerWelders/posts/day-2-at-fabtech-brought-more-demonstrations-conversations-and-a-closer-look-at-/1664613565032962/",
+    "https://www.facebook.com/TheWaldingerCorporation/videos/at-our-des-moinesbased-iso-certified-offsite-manufacturing-facility-quality-and-/800325406023307/",
+    "https://www.facebook.com/Novarc26/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Novarc Technologies note 社長",
+   "results": [
+    "https://www.novarctech.com/",
+    "https://ca.linkedin.com/company/novarc-technologies-inc-",
+    "https://inbcinvestment.com/inbc-invests-novarc-technologies/",
+    "https://www.canadianinnovators.org/members/novarc-technologies",
+    "https://pitchbook.com/profiles/company/179282-89",
+    "https://www.aerospacemanufacturinganddesign.com/news/novarc-yaskawa-advance-ai-powered-autonomous-welding-automation/",
+    "https://www.youtube.com/watch?v=z71HxvL8jpU",
+    "https://www.instagram.com/novarctech/",
+    "https://www.novarctech.com/company/team/",
+    "https://www.novarctech.com/company/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Novarc Technologies X 投稿",
+   "results": [
+    "https://x.com/novarctech",
+    "https://www.novarctech.com/",
+    "https://inbcinvestment.com/inbc-invests-novarc-technologies/",
+    "https://ca.linkedin.com/company/novarc-technologies-inc-",
+    "https://www.mcaa.org/manufacturers-suppliers/novarc-technologies-inc/",
+    "https://www.facebook.com/novarctech/",
+    "https://www.canadianinnovators.org/members/novarc-technologies",
+    "https://www.metalformingmagazine.com/article/?/pressroom-automation/robotics/novarc-and-yaskawa-to-partner-on-ai-powered-autonomous-welding-automation"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部31頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部31頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部31頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部31頁・検索12回）"
+ }
+}

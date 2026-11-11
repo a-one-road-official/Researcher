@@ -1,0 +1,576 @@
+{
+ "name": "株式会社澤村溶射センター",
+ "aliases": [],
+ "context": "ipros_all:特注",
+ "researched_at": "2026-11-11T13:20:00.709524+00:00",
+ "official_url": "http://yosha.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "事務所 〒655-0035　兵庫県神戸市垂水区五色山3丁目3番地28号",
+    "url": "https://yosha.jp/pages/3/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "溶射トレーニングセンター 〒651-2124 兵庫県神戸市西区玉津町水谷５５７−１６",
+    "url": "https://yosha.jp/pages/3/",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒",
+    "url": "https://yosha.jp/pages/19/",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "兵庫県神戸市垂水区五色山三丁目3-28",
+    "url": "https://eigyo-mfg.com/service/navi/company/RiS9wIZ53QWS",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役　澤村正夫",
+    "url": "https://yosha.jp/pages/3/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "1.ガス式・HVOF式・プラズマ式・アーク式溶射装置、 レーザークラッディング装置と溶射材料の販売 2.溶射附帯設備及びロボットの設計販売 3.自動機の設計、設置 4.溶射用集塵装置の設計、販売、メンテナンス 5.アーク溶射ガンのリース 6.ガス式溶射ガンのリース 7.溶射作業請負 8.溶射のコンサルティング業務",
+    "url": "https://yosha.jp/pages/3/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "7名",
+    "url": "https://eigyo-mfg.com/service/navi/company/RiS9wIZ53QWS",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "製品分野": [
+   {
+    "quote": "溶射装置、レーザークラッド装置、ブラスト装置、集塵装置、ロボット、溶射・ブラスト材料の販売から設備設計まで行っています",
+    "url": "https://yosha.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙関連をはじめ、自動車、半導体、製紙、製鋼、プラント、船舶、ボイラー、IHなど幅広い分野で活躍しています",
+    "url": "https://yosha.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2.溶射附帯設備及びロボットの販売",
+    "url": "https://yosha.jp/pages/71/",
+    "pass": 1
+   },
+   {
+    "quote": "2.溶射附帯設備及びロボットの販売",
+    "url": "https://yosha.jp/pages/46/",
+    "pass": 1
+   },
+   {
+    "quote": "フレーム・アーク・HVOF・プラズマ・コールドスプレー・レーザークラッド・集塵装置・溶射ブース・ロボット設備",
+    "url": "https://yosha.jp/pages/3/",
+    "pass": 1
+   },
+   {
+    "quote": "2.溶射附帯設備及びロボットの設計販売",
+    "url": "https://yosha.jp/pages/3/",
+    "pass": 1
+   },
+   {
+    "quote": "2.溶射附帯設備及びロボットの販売",
+    "url": "https://yosha.jp/pages/3/",
+    "pass": 1
+   },
+   {
+    "quote": "2.溶射附帯設備及びロボットの販売",
+    "url": "https://yosha.jp/pages/72/",
+    "pass": 1
+   },
+   {
+    "quote": "2.溶射附帯設備及びロボットの販売",
+    "url": "https://yosha.jp/pages/110/",
+    "pass": 1
+   },
+   {
+    "quote": "2.溶射附帯設備及びロボットの販売",
+    "url": "https://yosha.jp/pages/19/",
+    "pass": 1
+   },
+   {
+    "quote": "溶射ロボット・ターンテーブル・トラバーサー・自動機回転機など",
+    "url": "https://yosha.jp/pages/109/",
+    "pass": 1
+   },
+   {
+    "quote": "2.溶射附帯設備及びロボットの販売",
+    "url": "https://yosha.jp/pages/109/",
+    "pass": 1
+   },
+   {
+    "quote": "2.溶射附帯設備及びロボットの販売",
+    "url": "https://yosha.jp/pages/47/",
+    "pass": 1
+   },
+   {
+    "quote": "2.溶射附帯設備及びロボットの販売",
+    "url": "https://yosha.jp/pages/73/",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙、自動車、半導体、プラント、船舶など多岐にわたる業界の顧客に対し、耐摩耗性や防食性、耐熱性などの機能付与を提案しています",
+    "url": "https://eigyo-mfg.com/service/navi/company/RiS9wIZ53QWS",
+    "pass": 3
+   },
+   {
+    "quote": "溶射装置・レーザークラッディング装置・溶射材料の販売,溶射附帯設備及びロボットの設計販売,自動機の設計・設置,溶射用集塵装置の設計・販売・メンテナンス,溶射ガンのリース,溶射作業請負",
+    "url": "https://eigyo-mfg.com/service/navi/company/RiS9wIZ53QWS",
+    "pass": 3
+   },
+   {
+    "quote": "２.溶射附帯設備及びロボットの販売",
+    "url": "https://www.atengineer.com/pr/sawamura-yosha/company",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Mail: infoアットマークyosha.jp",
+    "url": "https://yosha.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ ｜ 株式会社 澤村溶射センター",
+    "url": "https://yosha.jp/pages/19/",
+    "pass": 1
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "GFRPやCFRP、３Dプリンター製母材に対する溶射",
+    "url": "https://yosha.jp/pages/71/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂溶射装置PG550",
+    "url": "https://yosha.jp/pages/46/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂溶射装置ヘラクレス（広面積用樹脂溶射装置）",
+    "url": "https://yosha.jp/pages/46/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂溶射装置PG550",
+    "url": "https://yosha.jp/pages/47/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂溶射装置ヘラクレス（広面積用樹脂溶射装置）",
+    "url": "https://yosha.jp/pages/47/",
+    "pass": 1
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "製品紹介動画｜溶射装置メーカー｜株式会社澤村溶射センター",
+    "url": "https://yosha.jp/pages/72/",
+    "pass": 1
+   },
+   {
+    "quote": "製品保証について｜溶射装置メーカー｜株式会社澤村溶射センター",
+    "url": "https://yosha.jp/pages/110/",
+    "pass": 1
+   },
+   {
+    "quote": "尚、代替品との交換または修理を行なった場合でも保証期間の起算日は対象製品の当初ご納入日とさせていただきます",
+    "url": "https://yosha.jp/pages/110/",
+    "pass": 1
+   },
+   {
+    "quote": "② お客様の装置または、ソフトウエアの設計内容など、対象製品以外に起因した故障",
+    "url": "https://yosha.jp/pages/110/",
+    "pass": 1
+   },
+   {
+    "quote": "(2)保証範囲は上記（1）を限度とし、対象製品の故障に起因するお客様での二次損害（装置の損傷、機会損失、逸失利益等）及びいかなる損害も保証の対象外とさせていただきます",
+    "url": "https://yosha.jp/pages/110/",
+    "pass": 1
+   },
+   {
+    "quote": "メタライゼーション製品の大要｜溶射装置メーカー｜株式会社澤村溶射センター",
+    "url": "https://yosha.jp/pages/73/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス(50)",
+    "url": "https://mono.ipros.com/company/detail/2058319/catalog/",
+    "pass": 3
+   },
+   {
+    "quote": "の製品一覧｜澤村溶射センター｜イプロスものづくり",
+    "url": "https://mono.ipros.com/company/detail/2058319/category/65268/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(50)",
+    "url": "https://mono.ipros.com/company/detail/2058319/category/65268/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "Metallisation - Thermal Spray Aluminium (TSA) on offshore platform with flamespray MK73",
+    "url": "https://yosha.jp/pages/72/",
+    "pass": 1
+   },
+   {
+    "quote": "Metallisation - Metal spray for body panel repairs with MK73 flame spray system",
+    "url": "https://yosha.jp/pages/72/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "製品一覧 - 株式会社澤村溶射センター製品一覧 ｜ 株式会社 澤村溶射センター製品一覧 ｜ 株式会社 澤村溶射センター製品一覧 ｜ 株式会社 澤村溶射センター澤村溶射センターのカタログ一覧 | イプロスものづくりアーク溶射 の製品一覧｜澤村溶射センター｜イプロスものづくり製品紹介 | 株式会社澤村製作所 — 1.ガス式・HVOF式・プラズマ式・アーク式溶射装置、レーザークラッディング装置と溶射材料の輸入販売 2.溶射附帯設備及びロボットの販売 3.自動機の設計、施工 4.溶射用集塵装置の販売 5.アーク溶射ガンのリース・レンタル 6.ガス式溶射ガンのリース ... お客様が必要とする設備を設計、販売しています。 また、ブラスト装置も取り扱っておりますので ブラスト → 溶射 → 封孔処理 のラインも 得意としています。 お客様の品物、工場のレイアウトに合わせた、設備をご提案いたします。 H",
+    "url": "https://yosha.jp/pages/46/",
+    "pass": 3
+   },
+   {
+    "quote": "澤村溶射センターのカタログ一覧 | イプロスものづくり — 澤村溶射センターのカタログ一覧です。 無料でダウンロードできます。 澤村溶射センターは、溶射装置のことなら当社にお任せください！ お客様現場に合った設備をご提案いたします。 溶射装置は装置選びが大切です。",
+    "url": "https://mono.ipros.com/company/detail/2058319/catalog/",
+    "pass": 3
+   },
+   {
+    "quote": "アーク溶射 の製品一覧｜澤村溶射センター｜イプロスものづくり — 溶射装置は装置選びが大切です。 株式会社澤村溶射センターは、主にガス式・HVOF式・プラズマ式・アーク式溶射装置、レーザークラッディング装置と溶射材料の輸入販売を行っている会社です。 弊社はメーカーのゴールドリセーラーに認定されています。",
+    "url": "https://mono.ipros.com/company/detail/2058319/category/65268/",
+    "pass": 3
+   },
+   {
+    "quote": "製品一覧 ｜ 株式会社 澤村溶射センター — お客様が必要とする設備を設計、販売しています。 また、ブラスト装置も取り扱っておりますので ブラスト → 溶射 → 封孔処理 のラインも 得意としています。 お客様の品物、工場のレイアウトに合わせた、設備をご提案いたします。",
+    "url": "https://yosha.jp/pages/109/",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内｜溶射装置メーカー｜株式会社澤村溶射センター溶射装置メーカー｜株式会社澤村溶射センター会社案内 ｜ 株式会社 澤村溶射センター溶射機 メーカー 株式会社 澤村溶射センター トップページ株式会社澤村溶射センター | 加工会社ナビ有限会社澤村溶射センター - 会社概要会社概要｜株式会社澤村溶射センター — 当社は溶射装置のプロでもありますが、溶射のプロでもあり、他社からの更新はもちろん、新規で溶射を始める企業様に溶射前処理から施工管理まで親切丁寧を心がけてご提案を行っております。 Jan 6, 2025 · 独自のノウハウと豊富な実績 澤村溶射センタ－は1922年創業の歴史ある溶射装置メーカー英Metallisastion社の日本総代理店です。 溶射装置、レーザークラッド装置、ブラスト装置、集塵装置、ロボット、溶射・ブラスト材料の販売から設備設計まで行っています。 昔からあるフレ－ム溶",
+    "url": "https://yosha.jp/pages/3/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社澤村溶射センター | 加工会社ナビ — 株式会社澤村溶射センターの 概要 同社は、溶射装置やレーザークラッド装置などの表面改質設備を専門に扱っています。 溶射装置や関連材料の販売、設備設計、溶射作業請負、コンサルティングを手がけています。",
+    "url": "https://eigyo-mfg.com/service/navi/company/RiS9wIZ53QWS",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社澤村溶射センター - 会社概要 — 企業プロフィール 企業名 有限会社澤村溶射センター 企業名かな さわむらようしゃせんたー 住所 〒655-0035 兵庫県神戸市垂水区五色山3丁目3番地28号 ホームページ 有限会社澤村溶射センターのホームページ",
+    "url": "https://www.atengineer.com/pr/sawamura-yosha/company",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜株式会社澤村溶射センター — 株式会社澤村溶射センター 兵庫県神戸市垂水区五色山3-3-28 TEL：078-707-1509",
+    "url": "https://www.kensetumap.com/company/626226/profile.php",
+    "pass": 3
+   },
+   {
+    "quote": "溶射装置メーカー｜株式会社澤村溶射センター — Jan 6, 2025 · 独自のノウハウと豊富な実績 澤村溶射センタ－は1922年創業の歴史ある溶射装置メーカー英Metallisastion社の日本総代理店です。 溶射装置、レーザークラッド装置、ブラスト装置、集塵装置、ロボット、溶射・ブラスト材料の販売から設備設計まで行っています。",
+    "url": "https://yosha.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ ｜ 株式会社 澤村溶射センターお問い合わせ ｜ 株式会社 澤村溶射センター溶射装置メーカー｜株式会社澤村溶射センターお問い合わせ｜澤村株式会社（公式ホームページ）｜澤村｜sawamura｜...お問い合わせ | 澤村産業株式会社製品一覧 ｜ 株式会社 澤村溶射センター株式会社澤村溶射センター - 日本溶射工業会 — お問い合わせ メールでのお問い合わせは「プライバシーポリシー」ページをご確認の上、下記フォームからお願いたします。 お返事は1日以内にさせていただいております。 ※ 部分は必須項目です。 ※M＆A営業メールはお断りしております。 メールでのお問い合わせは「プライバシーポリシー」ページをご確認の上、下記フォームからお願いたします。 尚、お返事には数日かかる場合がございますので、ご了承くださいませ。 ※ 部分は必須項目です。 Jan 6, 2025 · 澤村溶射センタ",
+    "url": "https://yosha.jp/pages/19/",
+    "pass": 3
+   },
+   {
+    "quote": "溶射装置メーカー｜株式会社澤村溶射センター — Jan 6, 2025 · 澤村溶射センターは全世界に顧客を持ち、アーク、ガス・HVOF・プラズマ・樹脂溶射装置レーザークラッディング装置・溶射材料、 溶射付随設備の販売、メンテナンス、溶射に関する技術サポートを行っています。",
+    "url": "https://yosha.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社澤村溶射センター - 日本溶射工業会 — ・メタライゼーション レーザークラッド装置 ・メタライゼーション 溶射材料 ・ドイツ ドラム社製 溶射材料 ・米国 アーマコア溶射材料 ・アラモ社樹脂溶射装置 ・その他溶射付帯設備及びロボット お問合せ担当者： 澤村 正夫 メールアドレス： info@yosha.jp",
+    "url": "https://jtsa.jp/members/k015/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Kenji Sawamura - 株式会社澤村溶射センター - 常務取締役 | LinkedIn 株式会社澤村溶射センター - 常務取締役 · リンクドインで見たい情報があったので登録しただけです。 · 職歴: 株式会社澤村溶射センター · 場所: 神戸 · LinkedInのつながり2人。",
+    "url": "https://jp.linkedin.com/in/kenji-sawamura-535b54326",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "澤村溶射センター - Facebook 澤村溶射センター. 2 likes. Local business",
+    "url": "https://www.facebook.com/people/澤村溶射センター/100064146335232/",
+    "pass": 3
+   },
+   {
+    "quote": "澤村溶射センター - Facebook Sep 28, 2019 · 澤村溶射センター. 2 likes. Local business Details Page · Local business yosha.jp 澤村溶射センター updated their cover",
+    "url": "https://www.facebook.com/100064146335232/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://yosha.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yosha.jp/pages/71/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yosha.jp/pages/46/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yosha.jp/pages/3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yosha.jp/pages/72/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yosha.jp/pages/110/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yosha.jp/pages/19/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yosha.jp/pages/109/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yosha.jp/pages/47/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://yosha.jp/pages/73/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://yosha.jp/files/libs/330/201806011759021051.jpg?1681706170",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/company/detail/2058319/catalog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2058319/category/65268/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eigyo-mfg.com/service/navi/company/RiS9wIZ53QWS",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atengineer.com/pr/sawamura-yosha/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sawamura-net.co.jp/pages/5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/in/kenji-sawamura-535b54326",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/people/澤村溶射センター/100064146335232/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100064146335232/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "澤村溶射センター 取扱製品 試作 小ロット",
+   "results": [
+    "https://yosha.jp/pages/46/",
+    "https://mono.ipros.com/company/detail/2058319/catalog/",
+    "https://mono.ipros.com/company/detail/2058319/category/65268/",
+    "https://yosha.jp/pages/109/",
+    "https://www.sawamura-pl.jp/製品紹介"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 5
+  },
+  {
+   "query": "澤村溶射センター 会社概要 事業内容",
+   "results": [
+    "https://yosha.jp/pages/3/",
+    "https://eigyo-mfg.com/service/navi/company/RiS9wIZ53QWS",
+    "https://www.atengineer.com/pr/sawamura-yosha/company",
+    "https://www.kensetumap.com/company/626226/profile.php",
+    "https://yosha.jp/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 5
+  },
+  {
+   "query": "澤村溶射センター お問い合わせ メール",
+   "results": [
+    "https://yosha.jp/pages/19/",
+    "https://yosha.jp/",
+    "https://sawamura-net.co.jp/pages/5/",
+    "https://www.sawamura-sangyo.co.jp/contact/",
+    "https://jtsa.jp/members/k015/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 5
+  },
+  {
+   "query": "site:note.com 澤村溶射センター",
+   "results": [
+    "https://note.com/masaki_sawamura",
+    "https://note.com/miikue/n/n85e28c859e66",
+    "https://note.com/metalmickey",
+    "https://note.com/kogolab/n/n286a955f132d",
+    "https://note.com/murata_boring/n/n9e88bf89e391",
+    "https://note.com/shizuoka_factory/n/n306ff6d888d6",
+    "https://note.com/yahatagyoza_39/n/n4eded6076fa6"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 澤村溶射センター",
+   "results": [
+    "https://x.com/",
+    "https://x.com/Hsawamura19",
+    "https://x.com/tetsu_sawamura",
+    "https://x.com/Hsawamura19/status/2039258972289638756",
+    "https://x.com/kanzai_1967/status/2039499947113066656",
+    "https://x.com/evadentz/status/2115896420809216184",
+    "https://x.com/avanti_book/status/2120352061644734875"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 澤村溶射センター",
+   "results": [
+    "https://jp.linkedin.com/in/kenji-sawamura-535b54326",
+    "https://www.linkedin.com/pub/dir/+/澤村",
+    "https://jp.linkedin.com/in/幸一郎-澤村-78441abb",
+    "https://ca.linkedin.com/in/wendymcdonald",
+    "https://jp.linkedin.com/in/徹-澤村-54308a259",
+    "https://jp.linkedin.com/in/宗仁-澤村-3871a9a5",
+    "https://jp.linkedin.com/in/tadashi-sawamura-446a35a7/ja"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 澤村溶射センター",
+   "results": [
+    "https://www.facebook.com/people/澤村溶射センター/100064146335232/",
+    "https://www.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/thispageisaboutwords/photos/",
+    "https://www.facebook.com/p/柏木優作-100009414191584/",
+    "https://www.facebook.com/澤村獣医科病院統合医療センター-267705060446062/",
+    "https://www.facebook.com/tetsu.sawamura/",
+    "https://secure.facebook.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "澤村溶射センター note 社長",
+   "results": [
+    "https://yosha.jp/pages/3/",
+    "https://compalyze.co.jp/company/7140002006025",
+    "https://yosha.jp/",
+    "https://jtsa.jp/members/k015/",
+    "https://ilsarto.net/blog/archives/6025",
+    "https://www.kobekk.or.jp/member/sawamura.html"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 6
+  },
+  {
+   "query": "澤村溶射センター X 投稿",
+   "results": [
+    "https://yosha.jp/pages/3/",
+    "https://www.facebook.com/100064146335232/",
+    "https://yosha.jp/",
+    "https://x.com/tetsu_sawamura/status/2103845035750146549",
+    "https://x.com/sawamura_kirari"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 5
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式10頁／PDF・画像1件／外部8頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式10頁／PDF・画像1件／外部8頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式10頁／PDF・画像1件／外部8頁・検索9回）",
+  "一点物・少量多品種": "記載なし（3回確認済み：公式10頁／PDF・画像1件／外部8頁・検索9回）"
+ }
+}

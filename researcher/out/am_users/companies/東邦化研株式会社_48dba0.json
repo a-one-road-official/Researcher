@@ -1,0 +1,624 @@
+{
+ "name": "東邦化研株式会社",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T13:15:06.024627+00:00",
+ "official_url": "http://www.tohokaken.jp",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役　長島　惣平",
+    "url": "https://www.tohokaken.jp/about/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "イオンプレーティング部 〒343-0822 埼玉県越谷市大字西方2725 電話 048-989-2050 FAX 048-989-2052 材料解析部 〒343-0822 埼玉県越谷市大字西方2725 電話 048-940-9811 FAX 048-989-2052 https://www.tohokaken-cat.jp/ 本社・環境分析センター 〒343-0824 埼玉県越谷市流通団地三丁目3番地8 電話 048-961-6161 FAX 048-961-5111 https://www.tohokaken.co.jp/",
+    "url": "https://www.tohokaken.jp/about/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "イオンプレーティング・真空蒸着・スパッタリング・プラズマCVDによる表面処理薄膜コーティング受託加工サービス",
+    "url": "https://www.tohokaken.jp/about/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "一点物・少量多品種": [
+   {
+    "quote": "技術的なご相談や試作のご依頼も! お気軽にご相談ください",
+    "url": "https://www.tohokaken.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "技術的なご相談や試作のご依頼も! お気軽にご相談ください",
+    "url": "https://www.tohokaken.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "技術的なご相談や試作のご依頼も! お気軽にご相談ください",
+    "url": "https://www.tohokaken.jp/about/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "技術的なご相談や試作のご依頼も! お気軽にご相談ください",
+    "url": "https://www.tohokaken.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "技術的なご相談や試作のご依頼も! お気軽にご相談ください",
+    "url": "https://www.tohokaken.jp/about/quality_control/",
+    "pass": 1
+   },
+   {
+    "quote": "試作など少数単位から大量生産に至るまで承っております",
+    "url": "https://www.tohokaken.jp/information/",
+    "pass": 1
+   },
+   {
+    "quote": "技術的なご相談や試作のご依頼も! お気軽にご相談ください",
+    "url": "https://www.tohokaken.jp/information/",
+    "pass": 1
+   },
+   {
+    "quote": "技術的なご相談や試作のご依頼も! お気軽にご相談ください",
+    "url": "https://www.tohokaken.jp/information/equpment/",
+    "pass": 1
+   },
+   {
+    "quote": "技術的なご相談や試作のご依頼も! お気軽にご相談ください",
+    "url": "https://www.tohokaken.jp/information/intro/",
+    "pass": 1
+   },
+   {
+    "quote": "技術的なご相談や試作のご依頼も! お気軽にご相談ください",
+    "url": "https://www.tohokaken.jp/support/progress/",
+    "pass": 1
+   },
+   {
+    "quote": "技術的なご相談や試作のご依頼も! お気軽にご相談ください",
+    "url": "https://www.tohokaken.jp/service/what/",
+    "pass": 1
+   },
+   {
+    "quote": "技術的なご相談や試作のご依頼も! お気軽にご相談ください",
+    "url": "https://www.tohokaken.jp/Information/equpment/",
+    "pass": 1
+   },
+   {
+    "quote": "試作など少数単位から大量生産に至るまで承っております",
+    "url": "https://www.tohokaken.jp/Information/",
+    "pass": 1
+   },
+   {
+    "quote": "技術的なご相談や試作のご依頼も! お気軽にご相談ください",
+    "url": "https://www.tohokaken.jp/Information/",
+    "pass": 1
+   },
+   {
+    "quote": "技術的なご相談や試作のご依頼も! お気軽にご相談ください",
+    "url": "https://www.tohokaken.jp/Information/intro/",
+    "pass": 1
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "DLC（Diamond-Like Carbon）、SiO2、SiN、SiCの4膜種に対応",
+    "url": "https://www.tohokaken.jp/",
+    "pass": 1
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "多くのお客様より、様々な材質や形状の基板（コーティング対象物）へのご依頼を頂き、これにお応えしてまいりました",
+    "url": "https://www.tohokaken.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂やパターンなどが既に成膜してある等、温度を極力かけたくない場合もお気軽にご相談ください",
+    "url": "https://www.tohokaken.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂の種類や対象物の耐熱温度、表面状態などにより成膜方法を検討しますので、お気軽にご相談ください",
+    "url": "https://www.tohokaken.jp/service/",
+    "pass": 1
+   },
+   {
+    "quote": "マスクの設計製作も含むパターン成膜や、樹脂フィルムへの成膜、立体物などの複雑な形状へのコーティングや大面積のコーティングが可能です",
+    "url": "https://www.tohokaken.jp/information/",
+    "pass": 1
+   },
+   {
+    "quote": "コーティングの対象物は樹脂・セラミックス・金属・ガラスその他いろいろあります",
+    "url": "https://www.tohokaken.jp/information/",
+    "pass": 1
+   },
+   {
+    "quote": "PCやPET、PEN、Pl、合成樹脂等、フィルムなどへの成膜も可能です",
+    "url": "https://www.tohokaken.jp/information/intro/",
+    "pass": 1
+   },
+   {
+    "quote": "その際の付着力は、樹脂の成型の仕方や表面状態、樹脂の種類などによって変わります",
+    "url": "https://www.tohokaken.jp/information/intro/",
+    "pass": 1
+   },
+   {
+    "quote": "マスクの設計製作も含むパターン成膜や、樹脂フィルムへの成膜、立体物などの複雑な形状へのコーティングや大面積のコーティングが可能です",
+    "url": "https://www.tohokaken.jp/Information/",
+    "pass": 1
+   },
+   {
+    "quote": "コーティングの対象物は樹脂・セラミックス・金属・ガラスその他いろいろあります",
+    "url": "https://www.tohokaken.jp/Information/",
+    "pass": 1
+   },
+   {
+    "quote": "PCやPET、PEN、Pl、合成樹脂等、フィルムなどへの成膜も可能です",
+    "url": "https://www.tohokaken.jp/Information/intro/",
+    "pass": 1
+   },
+   {
+    "quote": "その際の付着力は、樹脂の成型の仕方や表面状態、樹脂の種類などによって変わります",
+    "url": "https://www.tohokaken.jp/Information/intro/",
+    "pass": 1
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "東邦化研株式会社はお客様に満足いただける製品とサービスの提供の為に、6つの品質方針に基づいて行動します",
+    "url": "https://www.tohokaken.jp/about/quality_control/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客満足を向上する上で、顧客要求事項を的確に捉え、満足を得られる製品を提供する",
+    "url": "https://www.tohokaken.jp/about/quality_control/",
+    "pass": 1
+   },
+   {
+    "quote": "信頼性の高い製品の提供を志し、関連する企業との共存関係を深めて行く",
+    "url": "https://www.tohokaken.jp/about/quality_control/",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "受注後、成膜する際に基板を保持する”ホルダー（治具）”や、部分的に成膜する時に用いる”マスク”を設計し手配いたします",
+    "url": "https://www.tohokaken.jp/support/progress/",
+    "pass": 1
+   },
+   {
+    "quote": "基板のご支給（または手配） 治具（基板を保持するもの）の作成",
+    "url": "https://www.tohokaken.jp/support/progress/",
+    "pass": 1
+   },
+   {
+    "quote": "イオンプレーティングとは、宇宙開発技術の一環として、アメリカで開発されためっきの一つです",
+    "url": "https://www.tohokaken.jp/service/what/",
+    "pass": 1
+   },
+   {
+    "quote": "塗装には対象物を塗装するための治具が必要不可欠です",
+    "url": "https://www.toho-kaken.com/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "一般的には治具の洗浄は液体の化学薬品で行いますが、臭気が強く強アルカリまたは強酸性の薬品を使用する大変危険な作業です",
+    "url": "https://www.toho-kaken.com/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "普通自動車免許保持者、年齢35歳まで",
+    "url": "https://www.toho-kaken.com/company.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "東邦化研 のサービス | イオンプレーティングの 東邦化研 株式会社 — 東邦化研 のサービス | イオンプレーティングの 東邦化研 株式会社 tohokaken.jp https://www.tohokaken.jp > service",
+    "url": "https://www.tohokaken.jp/service/",
+    "pass": 3
+   },
+   {
+    "quote": "『機能性薄膜の受託加工サービス』 東邦化研 - イプロス — 『機能性薄膜の受託加工サービス』 東邦化研 - イプロス 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > ... > 表面処理受託サービス",
+    "url": "https://mono.ipros.com/product/detail/2000256996/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | イオンプレーティングの 東邦化研 株式会社 — 会社概要 | イオンプレーティングの 東邦化研 株式会社 tohokaken.jp https://www.tohokaken.jp > about",
+    "url": "https://www.tohokaken.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "東邦化研 株式 会社 会社 案内 — 東邦化研 株式 会社 会社 案内 toho-kaken.com https://www.toho-kaken.com > company",
+    "url": "https://www.toho-kaken.com/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 東邦化研株式会社 材料解析部 — お問い合わせ - 東邦化研株式会社 材料解析部 tohokaken-cat.jp https://www.tohokaken-cat.jp > contact",
+    "url": "https://www.tohokaken-cat.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "東邦化研 株式 会社 の転職・企業 概要 - doda — 東邦化研 株式 会社 の転職・企業 概要 - doda doda https://doda.jp > View > Company > j_id__10002507809",
+    "url": "https://doda.jp/DodaFront/View/Company/j_id__10002507809/",
+    "pass": 3
+   },
+   {
+    "quote": "東邦化研 株式 会社 （81976）の転職・求人 情報 — 東邦化研 株式 会社 （81976）の転職・求人 情報 エン転職 https://employment.en-japan.com > ... > 転職 法人営業",
+    "url": "https://employment.en-japan.com/comp-81976/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | イオンプレーティングの 東邦化研 株式会社 — お問い合わせ | イオンプレーティングの 東邦化研 株式会社 tohokaken.jp https://www.tohokaken.jp > contact",
+    "url": "https://www.tohokaken.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | 東邦化研 工業株式会社 — お問い合わせ | 東邦化研 工業株式会社 東邦化研工業 http://www.toho-kaken.co.jp > contact",
+    "url": "http://www.toho-kaken.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | 東邦化研 株式会社［環境分析センター］ — お問い合わせ | 東邦化研 株式会社［環境分析センター］ 東邦化研株式会社［環境分析センター］ https://www.tohokaken.co.jp > toiawase",
+    "url": "https://www.tohokaken.co.jp/toiawase.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用情報 - 東邦化研株式会社 材料解析部 — 採用情報 - 東邦化研株式会社 材料解析部 tohokaken-cat.jp https://www.tohokaken-cat.jp > about > recruit",
+    "url": "https://www.tohokaken-cat.jp/about/recruit/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "事前にメールもしくはお電話にてご連絡の上履歴書（写貼）をご持参ください",
+    "url": "https://www.toho-kaken.com/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | 東邦化研株式会社 材料解析部",
+    "url": "https://www.tohokaken-cat.jp/contact/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "官報決算データベース on X: \" 東邦化研 工業株式会社 第57期 ... 官報決算データベース on X: \" 東邦化研 工業株式会社 第57期 ... X https://x.com > @kessan_db",
+    "url": "https://x.com/kessan_db/status/1956972537625403536",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "森満 直樹 - MORIMITSU Naoki,計量証明事業所勤務､ 東邦化研 ... 森満 直樹 - MORIMITSU Naoki,計量証明事業所勤務､ 東邦化研 ... LinkedIn https://jp.linkedin.com > 直樹-森満-0bb113238",
+    "url": "https://jp.linkedin.com/in/%E7%9B%B4%E6%A8%B9-%E6%A3%AE%E6%BA%80-0bb113238",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "#FrogWren 生地完成しました。 あとは 東邦化研 のドープで ... #FrogWren 生地完成しました。 あとは 東邦化研 のドープで ... Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/596947413779779/posts/3711622362312253/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.tohokaken.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohokaken.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohokaken.jp/about/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohokaken.jp/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohokaken.jp/about/quality_control/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohokaken.jp/information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohokaken.jp/information/equpment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohokaken.jp/information/intro/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohokaken.jp/support/progress/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohokaken.jp/service/what/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohokaken.jp/Information/equpment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohokaken.jp/Information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohokaken.jp/Information/intro/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mfg-hack.com/plastic/10134/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=hUn4tT9VgWU",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.toho-kaken.com/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohokaken-cat.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.toho-kaken.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tohokaken.co.jp/toiawase.html",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/kessan_db/status/1956972537625403536",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E7%9B%B4%E6%A8%B9-%E6%A3%AE%E6%BA%80-0bb113238",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/596947413779779/posts/3711622362312253/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "東邦化研 取扱製品 試作 小ロット",
+   "results": [
+    "https://injection-lab.com/technology/64-2.html",
+    "https://mfg-hack.com/plastic/10134/",
+    "https://www.youtube.com/watch?v=hUn4tT9VgWU",
+    "https://www.tohokaken.jp/service/",
+    "https://mono.ipros.com/product/detail/2000256996/",
+    "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "https://www.zen.co.jp/",
+    "https://kyoeidesign.co.jp/lot-production/",
+    "https://kakounosusume.com/product/epomold/",
+    "https://www.tohokaken.jp/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "東邦化研 会社概要 事業内容",
+   "results": [
+    "https://www.tohokaken.jp/about/",
+    "https://www.toho-kaken.com/company.html",
+    "https://www.tohokaken-cat.jp/contact/",
+    "https://doda.jp/DodaFront/View/Company/j_id__10002507809/",
+    "https://employment.en-japan.com/comp-81976/",
+    "https://mono.ipros.com/company/detail/356214/",
+    "https://compalyze.co.jp/company/5120001018272",
+    "https://jobtalk.jp/companies/39628",
+    "https://www.atengineer.com/pr/tohokaken/company",
+    "https://tohokaken.co.jp/gaiyou.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "東邦化研 お問い合わせ メール",
+   "results": [
+    "https://www.tohokaken.jp/contact/",
+    "http://www.toho-kaken.co.jp/contact/",
+    "https://www.tohokaken.co.jp/toiawase.html",
+    "https://www.tohokaken-cat.jp/about/recruit/",
+    "https://www.sk-kaken.co.jp/contact/",
+    "https://kk-kaken.jp/contact/",
+    "https://www.kaken-material.co.jp/contact.html",
+    "https://iicca.jp/company/touhoukakenn/",
+    "https://www.toho-kaken.com/contact.html",
+    "http://www.tohokaken.co.jp/toiawase.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com 東邦化研",
+   "results": [
+    "https://note.com/kurosonosuke/n/n5f56e488df47",
+    "https://note.com/nagoya_ura/n/nf56044b8f25e",
+    "https://note.com/nagoyauniversity/n/n8b868eb25084",
+    "https://note.com/kotasnote/n/n7ac7ea16a3c6",
+    "https://note.com/clipcorporation/n/nd98b7a21782b",
+    "https://note.com/tebaichiro/n/n9b5ee64ea74b",
+    "https://note.com/takahashijuku/n/nc3e1004bf31f",
+    "https://note.com/scivanai/n/n948be296f306",
+    "https://note.com/scien_inc/n/n8c61ca003412",
+    "https://note.com/tag/%E8%B2%B7%E5%8F%8E%E9%98%B2%E8%A1%9B%E7%AD%96"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 東邦化研",
+   "results": [
+    "https://x.com/kessan_db/status/1956972537625403536",
+    "https://x.com/comb_laser",
+    "https://x.com/TohoUnivRA/status/1802508058515673507",
+    "https://x.com/mutohlab_toho_u/status/1818566790198198640",
+    "https://x.com/toho_denki/status/1846806882473988171",
+    "https://x.com/sakusaku_kabu/status/2060700225099211042",
+    "https://x.com/HiromasaFunato",
+    "https://x.com/794Shinpei",
+    "https://x.com/QST_Japan",
+    "https://x.com/quickdisclosure/status/2054320920983113854"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com 東邦化研",
+   "results": [
+    "https://jp.linkedin.com/in/%E7%9B%B4%E6%A8%B9-%E6%A3%AE%E6%BA%80-0bb113238",
+    "https://jp.linkedin.com/posts/yamatoman_%E3%81%A4%E3%81%AA%E3%81%8C%E3%82%8A%E7%94%B3%E8%AB%8B%E5%A4%A7%E6%AD%93%E8%BF%8E-%E6%B3%A3%E3%81%8D%E5%A3%B2-%E7%B8%81%E6%97%A5-activity-7070912231596556288-ZIiJ",
+    "https://jp.linkedin.com/in/yumehito-suwa-6194672b9",
+    "https://jp.linkedin.com/in/sachiko-onda-135069422",
+    "https://jp.linkedin.com/in/kazuya-sato-111109279",
+    "https://jp.linkedin.com/in/mkurosaka",
+    "https://jp.linkedin.com/in/tetsuya-shiba-983990b5",
+    "https://jp.linkedin.com/in/itsuki-furumi-67b583207",
+    "https://jp.linkedin.com/in/teruaki-nakayama-57647660"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com 東邦化研",
+   "results": [
+    "https://www.facebook.com/groups/596947413779779/posts/3711622362312253/",
+    "https://www.facebook.com/61572713174841/posts/%E6%97%A5%E6%9C%AC%E3%81%84%E3%81%AE%E3%81%A1%E3%81%AE%E6%95%99%E8%82%B2%E5%AD%A6%E4%BC%9A%E7%AC%AC27%E5%9B%9E%E7%A0%94%E7%A9%B6%E5%A4%A7%E4%BC%9A%E6%84%9B%E7%9F%A5%E5%A4%A7%E4%BC%9A%E3%81%84%E3%81%AE%E3%81%A1%E3%81%AE%E6%95%99%E8%82%B2%E3%81%A7%E3%81%A4%E3%81%AA%E3%81%8C%E3%82%8B-%E7%94%9F%E3%81%8D%E5%BF%83%E5%9C%B0%E3%81%AE%E3%82%88%E3%81%84%E7%A4%BE%E4%BC%9A%E3%81%AB%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E6%9C%AC%E6%97%A5%E3%82%88%E3%82%8A%E5%8F%82%E5%8A%A0%E5%8F%97%E4%BB%98%E3%82%92%E9%96%8B%E5%A7%8B%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99%E5%A4%A7%E5%A4%89%E5%A4%9A%E3%81%8F%E3%81%AE%E6%96%B9%E3%81%AE%E3%81%94%E5%B0%BD%E5%8A%9B%E3%81%AB%E3%82%88%E3%82%8A%E3%81%8A%E3%81%8B/122182318124757105/",
+    "https://www.facebook.com/kazunobu.sawada2/posts/%E5%8C%85%E6%8B%AC%E7%9A%84%E9%80%A3%E6%90%BA%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%8D%94%E5%AE%9A-%E6%9D%B1%E9%82%A6%E3%82%AC%E3%82%B9%E6%A0%AA%E6%9D%B1%E9%82%A6%E3%82%AC%E3%82%B9%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E6%A0%AA%E6%B1%9F%E5%8D%97%E5%B8%82%E3%81%93%E3%81%AE%E5%8D%94%E5%AE%9A%E3%81%AF%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7%E5%9F%B9%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F%E7%9B%B8%E4%BA%92%E3%81%AE%E5%8D%94%E5%8A%9B%E9%96%A2%E4%BF%82%E3%82%92%E4%B8%80%E5%B1%A4%E5%BC%B7%E5%8C%96%E3%81%97%E4%B8%89%E8%80%85%E3%81%AE%E9%80%A3%E6%90%BA%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%E5%8F%96%E7%B5%84%E3%81%AB%E3%82%88%E3%81%A3%E3%81%A6%E5%9C%B0%E5%9F%9F%E3%81%AE%E8%AA%B2%E9%A1%8C%E8%A7%A3%E6%B1%BA/3297582407062852/",
+    "https://www.facebook.com/QST.Japan/posts/%E5%8F%97%E8%B3%9E%E5%A0%B1%E5%91%8A2026%E5%B9%B49%E6%9C%8816%E6%97%A5-%E5%90%8D%E5%89%8D%E9%BD%8A%E8%97%A4%E6%9F%9A%E5%AD%A3-%E3%81%95%E3%81%84%E3%81%A8%E3%81%86%E3%82%86%E3%81%9A%E3%81%8D%E9%80%A3%E6%90%BA%E5%A4%A7%E5%AD%A6%E9%99%A2%E7%94%9F%E6%9D%B1%E9%82%A6%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2-qst%E7%97%85%E9%99%A2-%E9%87%8D%E7%B2%92%E5%AD%90%E7%B7%9A%E6%B2%BB%E7%99%82%E7%A0%94%E7%A9%B6%E9%83%A8%E7%94%9F%E7%89%A9%E7%89%A9%E7%90%86%E7%A0%94%E7%A9%B6%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97-%E5%8F%97%E8%B3%9Ebest-post/1386642753618186/",
+    "https://www.facebook.com/keiothoracicsurgery/?locale=es_LA",
+    "https://www.facebook.com/nagasakiunivobgy/posts/%E5%AD%90%E5%AE%AE%E9%A0%B8%E7%99%8C%E5%BA%83%E6%B1%8E%E5%AD%90%E5%AE%AE%E9%A0%B8%E9%83%A8%E6%91%98%E5%87%BA%E8%A1%93%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E8%AC%9B%E6%BC%94%E4%BC%9A%E3%81%8C%E8%A1%8C%E3%82%8F%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E4%B8%80%E8%88%AC%E6%BC%94%E9%A1%8C%E3%81%AF%E9%95%B7%E5%B4%8E%E5%A4%A7%E5%AD%A6%E3%81%AE%E5%8E%9F%E7%94%B0%E4%BA%9C%E7%94%B1%E7%BE%8E%E5%85%88%E7%94%9F%E3%81%8Ccst%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E8%AC%9B%E6%BC%94%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E7%89%B9%E5%88%A5%E8%AC%9B%E6%BC%94%E3%81%AF%E6%9D%B1%E9%82%A6%E5%A4%A7%E5%AD%A6%E7%94%A3%E5%A9%A6%E4%BA%BA%E7%A7%91%E5%A4%A7%E6%A9%8B%E7%97%85%E9%99%A2%E6%95%99%E6%8E%88%E3%81%AE%E7%94%B0/1416070976970927/",
+    "https://www.facebook.com/JSPMWakateWG/posts/%E7%AC%AC9%E5%9B%9E%E5%BF%83%E8%BA%AB%E5%8C%BB%E5%AD%A6%E5%90%88%E5%90%8C%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC-%E5%8F%82%E5%8A%A0%E5%8C%BB%E5%B1%80%E7%B4%B9%E4%BB%8B%E2%91%A1%E5%AF%92%E6%9A%96%E5%B7%AE%E3%81%AE%E3%81%82%E3%82%8B%E6%97%A5%E3%81%8C%E7%B6%9A%E3%81%84%E3%81%A6%E3%81%8A%E3%82%8A%E3%81%BE%E3%81%99%E3%81%8C%E7%9A%86%E6%A7%98%E4%BD%93%E8%AA%BF%E3%81%AF%E3%81%84%E3%81%8B%E3%81%8C%E3%81%A7%E3%81%97%E3%82%87%E3%81%86%E3%81%8B%E4%BD%93%E8%AA%BF%E3%82%92%E5%A4%A7%E3%81%8D%E3%81%8F%E5%B4%A9%E3%81%95%E3%81%AA%E3%81%84%E3%82%88%E3%81%86%E3%81%AB%E9%81%A9%E6%AD%A3%E3%81%AA%E9%A3%9F%E4%BA%8B%E3%82%84%E7%9D%A1%E7%9C%A0%E9%81%8B%E5%8B%95%E3%82%92%E7%84%A1%E7%90%86%E3%81%AA%E3%81%8F%E7%B6%9A%E3%81%91/832945585304225/",
+    "https://www.facebook.com/ryo.iwamoto11/posts/-international-matcha-cupping-forum%E3%82%92ny%E3%81%AB%E3%81%A6%E9%96%8B%E5%82%AC%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99-%E3%83%AF%E3%82%A4%E3%83%B3%E3%82%84%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%81%A8%E5%90%8C%E3%81%98%E3%82%88%E3%81%86%E3%81%AB%E6%8A%B9%E8%8C%B6%E3%81%AB%E3%82%82%E7%94%A3%E5%9C%B0%E3%82%84%E5%93%81%E7%A8%AE%E4%BD%9C%E3%82%8A%E6%89%8B%E3%81%AB%E3%82%88%E3%82%8B%E9%A9%9A%E3%81%8F%E3%81%BB/4477786745700360/",
+    "https://www.facebook.com/ovex.temdec/posts/2025%E5%B9%B412%E6%9C%886%E6%97%A5%E5%9C%9F%E9%96%8B%E5%82%AC%E7%AC%AC10%E5%9B%9E%E5%9B%BD%E9%9A%9B%E8%87%A8%E5%BA%8A%E5%8C%BB%E5%AD%A6%E4%BC%9A%E5%AD%A6%E8%A1%93%E9%9B%86%E4%BC%9A%E4%B9%9D%E5%B7%9E%E5%A4%A7%E5%AD%A6%E5%8C%BB%E5%AD%A6%E9%83%A8-%E7%99%BE%E5%B9%B4%E8%AC%9B%E5%A0%82%E3%81%AE%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%8C%E6%9B%B4%E6%96%B0%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E5%9B%BD%E9%9A%9B%E8%87%A8%E5%BA%8A%E5%8C%BB%E5%AD%A6%E4%BC%9A%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E6%9C%AC%E4%BC%9A%E3%81%AF%E8%A8%AA%E6%97%A5%E5%9C%A8%E4%BD%8F%E5%A4%96%E5%9B%BD%E4%BA%BA%E3%81%B8%E3%81%AE%E5%8C%BB%E7%99%82%E6%8F%90/1335279311727995/",
+    "https://www.facebook.com/jemsnews2/posts/-%E4%BB%A4%E5%92%8C7%E5%B9%B4%E5%BA%A6%E5%AD%A6%E4%BC%9A%E8%B3%9E%E7%AD%89%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-%E6%9C%AC%E5%B9%B4%E5%BA%A6%E3%81%AE%E6%97%A5%E6%9C%AC%E7%92%B0%E5%A2%83%E5%A4%89%E7%95%B0%E5%8E%9F%E3%82%B2%E3%83%8E%E3%83%A0%E5%AD%A6%E4%BC%9A%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%AD%A6%E4%BC%9A%E8%B3%9E%E7%AD%89%E3%81%AB%E3%81%A4%E3%81%8D%E3%81%BE%E3%81%97%E3%81%A6%E3%81%AF6%E6%9C%88%E3%81%AE%E7%90%86%E4%BA%8B%E4%BC%9A%E3%81%8A%E3%82%88%E3%81%B36%E6%9C%88%E3%81%AE%E8%A9%95%E8%AD%B0%E5%93%A1%E4%BC%9A%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E4%B8%8B%E8%A8%98%E3%81%AE%E9%80%9A%E3%82%8A%E9%81%B8%E5%87%BA%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E5%AD%A6%E4%BC%9A/767393782605921/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "東邦化研 note 社長",
+   "results": [
+    "https://www.tohokaken.jp/about/",
+    "http://www.toho-kaken.co.jp/",
+    "https://www.tohokaken-cat.jp/about/",
+    "https://mono.ipros.com/company/detail/356214/",
+    "https://ja.nc-net.or.jp/company/86013/",
+    "https://syukatsu-kaigi.jp/companies/68121/word_mouths",
+    "https://iicca.jp/company/touhoukakenn/",
+    "https://eigyo-mfg.com/service/navi/company/ik5ykQQ1meq8",
+    "https://kaijiwire.jp/kokoku/019f83ff-52d0-7ac1-ab66-473b3ca7ec41",
+    "https://the-shashi.com/tse/4409/ceo/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "東邦化研 X 投稿",
+   "results": [
+    "https://www.tohokaken.jp/",
+    "https://www.tohokaken-cat.jp/",
+    "http://www.toho-kaken.co.jp/product/",
+    "https://syukatsu-kaigi.jp/companies/68121/word_mouths",
+    "https://www.tohokaken.jp/service/",
+    "https://jp.linkedin.com/in/%E7%9B%B4%E6%A8%B9-%E6%A3%AE%E6%BA%80-0bb113238",
+    "https://iicca.jp/company/touhoukakenn/",
+    "https://www.youtube.com/channel/UCB4qJy2Qr40J9_wdR7f8EZQ",
+    "https://careerconnection.jp/review/50802/whiteblack/",
+    "https://tohokaken.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部10頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部10頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部10頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部10頁・検索9回）"
+ }
+}

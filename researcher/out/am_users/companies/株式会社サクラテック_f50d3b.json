@@ -1,0 +1,824 @@
+{
+ "name": "株式会社サクラテック",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T13:00:44.156087+00:00",
+ "official_url": "http://www.sacra-tech.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本　社",
+    "value": "福島県白河市中町 8 得意分野 ・半導体 ・ロボット ・通信 ・医療 ・航空宇宙 ・環境　などの金属、樹脂部品加工",
+    "url": "https://www.sacra-tech.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "本　社",
+    "value": "福島県白河市中町 8",
+    "url": "https://www.sacra-tech.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "本社",
+    "value": "〒961-0951 福島県白河市中町8",
+    "url": "https://www.sacra-tech.co.jp/company.html",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役　櫻岡敏之",
+    "url": "https://www.sacra-tech.co.jp/company.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "男性：45名　女性：20名 合計：65名（2022年4月現在）",
+    "url": "https://www.sacra-tech.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "計56名 （男39名・女17名。2016年3月現在）",
+    "url": "https://www.sacra-tech.co.jp/company.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "・金属部品加工",
+    "url": "https://www.sacra-tech.co.jp/company.html",
+    "pass": 1
+   }
+  ],
+  "拠点": [
+   {
+    "label": "新白河第一工場",
+    "value": "〒961-0835 福島県白河市白坂大倉矢見 220",
+    "url": "https://www.sacra-tech.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "新白河第二工場・新白河営業所",
+    "value": "〒961-0835 福島県白河市白坂大倉矢見 250 TEL 0248-28-2126　FAX 0248-28-2570",
+    "url": "https://www.sacra-tech.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "東京営業所",
+    "value": "〒101-0046 東京都千代田区神田多町2-9　大藤ビル2階 TEL 03-6206-9175　FAX 03-6206-9177",
+    "url": "https://www.sacra-tech.co.jp/company.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "製品形状、材質などに合わせて5軸加工機、複合加工機を駆使し、複雑形状の製品を高精度かつ安定した品質でお届けいたします",
+    "url": "https://www.sacra-tech.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "私たち部品加工メーカーを取り巻く産業界では、ますます付加価値の高い製品づくり、そして変種変量生産体制のご要求が高まってきております",
+    "url": "https://www.sacra-tech.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、これまでに多種多様な複雑形状の製品を手掛けた",
+    "url": "https://www.sacra-tech.co.jp/ax5.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、これらの豊富な加工設備を製品形状、材質などに合わせて",
+    "url": "https://www.sacra-tech.co.jp/ax5.html",
+    "pass": 1
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "製品形状、材質などに合わせて5軸加工機、複合加工機を駆使し、複雑形状の製品を高精度かつ安定した品質でお届けいたします",
+    "url": "https://www.sacra-tech.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "・環境 などの金属、樹脂部品加工",
+    "url": "https://www.sacra-tech.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、これらの豊富な加工設備を製品形状、材質などに合わせて",
+    "url": "https://www.sacra-tech.co.jp/ax5.html",
+    "pass": 1
+   },
+   {
+    "quote": "加工時間を短くするため材質を銅からアルミに変更した結果、5％の価格低減につながり、生産量もアップした",
+    "url": "https://www.sacra-tech.co.jp/proposed.html",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂加工の受注を開始、立型5軸MCを1台、5軸複合旋盤加工機を2台増設",
+    "url": "https://www.sacra-tech.co.jp/c_history.html",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "最初は小ロットだが変種変量になる可能性がある",
+    "url": "https://www.sacra-tech.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "豊富な加工設備で小ロットから中ロット、量産まで柔軟に対応可能です",
+    "url": "https://www.sacra-tech.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "試作から量産品まで造り込み品質、真空脱脂洗浄、目視検査、仕上げなど徹底して品質確保に努めています",
+    "url": "https://www.sacra-tech.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "DM発送代行 梱包 コピーサービス 都内 小ロット 商品サンプル発送 信書の発送",
+    "url": "https://sakuratec.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "小ロットから大ロットの宛名ラベル貼りから封入作業、手作業、梱包、",
+    "url": "https://sakuratec.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "短納期で小ロットから大ロットのメーリング作業や梱包作業が必要な場合もお気軽にご相談ください",
+    "url": "https://sakuratec.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "小ロット短納期でのご注文はもちろん、少量のカラーコピーから年間を通した保管発送",
+    "url": "https://sakuratec.co.jp/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "通信機器・宇宙防衛関連・半導体関連などの精密部品、金属部品の切削・加工",
+    "url": "https://www.sacra-tech.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "協働ロボットEz LOADER付き5軸複合加工機2台(うち1台はバーフィーダ付)を導入致しました",
+    "url": "https://www.sacra-tech.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "自動搬入ロボット搭載の立型マシニング(回転テーブル付)1台を新たに導入致しました",
+    "url": "https://www.sacra-tech.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "2017年11月29日(水)から12月2日(土)まで東京ビッグサイトで開催されます2017国際ロボット展に福島県ブースにて共同出展しました",
+    "url": "https://www.sacra-tech.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器・通信機器・宇宙防衛関連・半導体関連などの精密部品、金属部品の切削・加工｜株式会社 サクラテック",
+    "url": "https://www.sacra-tech.co.jp/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "通信、半導体、航空・宇宙、光学、空圧、測定機器、環境など",
+    "url": "https://www.sacra-tech.co.jp/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "ロボット、ポンプ、光モジュールなど",
+    "url": "https://www.sacra-tech.co.jp/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器・通信機器・宇宙防衛関連・半導体関連などの精密部品、金属部品の切削・加工｜株式会社 サクラテック",
+    "url": "https://www.sacra-tech.co.jp/ask.php",
+    "pass": 1
+   },
+   {
+    "quote": "通信機器・宇宙防衛関連・半導体関連などの精密部品、金属部品の切削・加工｜株式会社 サクラテック",
+    "url": "https://www.sacra-tech.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器・通信機器・宇宙防衛関連・半導体関連などの精密部品、金属部品の切削・加工｜株式会社 サクラテック",
+    "url": "https://www.sacra-tech.co.jp/ax5.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器・通信機器・宇宙防衛関連・半導体関連などの精密部品、金属部品の切削・加工｜株式会社 サクラテック",
+    "url": "https://www.sacra-tech.co.jp/proposed.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器・通信機器・宇宙防衛関連・半導体関連などの精密部品、金属部品の切削・加工｜株式会社 サクラテック",
+    "url": "https://www.sacra-tech.co.jp/equipment.html",
+    "pass": 1
+   },
+   {
+    "quote": "5軸旋盤 (協働ロボット付)",
+    "url": "https://www.sacra-tech.co.jp/equipment.html",
+    "pass": 1
+   },
+   {
+    "quote": "(1台自動搬入ロボット搭載)",
+    "url": "https://www.sacra-tech.co.jp/equipment.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器・通信機器・宇宙防衛関連・半導体関連などの精密部品、金属部品の切削・加工｜株式会社 サクラテック",
+    "url": "https://www.sacra-tech.co.jp/c_history.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動搬入ロボット搭載の立型MCを1台、立型5軸MCを1台増設",
+    "url": "https://www.sacra-tech.co.jp/c_history.html",
+    "pass": 1
+   },
+   {
+    "quote": "5軸複合加工機を2台増設（自動搬入ロボット搭載）",
+    "url": "https://www.sacra-tech.co.jp/c_history.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器・通信機器・宇宙防衛関連・半導体関連などの精密部品、金属部品の切削・加工｜株式会社 サクラテック",
+    "url": "https://www.sacra-tech.co.jp/c_access.html",
+    "pass": 1
+   },
+   {
+    "quote": "・東北自動車道の白河ICより約10分",
+    "url": "https://www.sacra-tech.co.jp/c_access.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器・通信機器・宇宙防衛関連・半導体関連などの精密部品、金属部品の切削・加工｜株式会社 サクラテック",
+    "url": "https://www.sacra-tech.co.jp/c_rec.html",
+    "pass": 1
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "3Dプリンター（N2 Plus）",
+    "url": "https://www.sacra-tech.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社ではCAD/CAMの専任プログラマーが",
+    "url": "https://www.sacra-tech.co.jp/ax5.html",
+    "pass": 1
+   },
+   {
+    "quote": "CAD/CAMのスペシャリストを目指して！！",
+    "url": "https://www.sacra-tech.co.jp/c_rec.html",
+    "pass": 1
+   },
+   {
+    "quote": "①CAD/CAMを３年以上経験された方",
+    "url": "https://www.sacra-tech.co.jp/c_rec.html",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "電話又はE-mailにてお問合わせの上、履歴書（写真添付）持参でご来社さい",
+    "url": "https://www.sacra-tech.co.jp/c_rec.html",
+    "pass": 1
+   },
+   {
+    "quote": "関東圏内の特に東京都内の法人さま向けにダイレクトメールＤＭなどの発送代行を行っています",
+    "url": "https://sakuratec.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイレクトメール発送などをご安心してお任せいただける環境を整えております",
+    "url": "https://sakuratec.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "化粧品業界やアパレル業界のダイレクトメールなどなど、",
+    "url": "https://sakuratec.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイレクトメール発送代行はサクラテックにお任せ下さい",
+    "url": "https://sakuratec.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせいただきました内容は、弊社の掲げる個人情報保護方針に沿って管理し、お客様の同意なく第三者に開示・提供することはございません",
+    "url": "https://www.sakuratech-ndi.jp/contact/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "サクラテック株式会社 — サクラテック株式会社の公式コーポレートサイト。 サクラテックは、1972年に日本で初めて「極厚亜鉛めっき鉄線」を開発した線材メーカーで、亜鉛めっき技術のパイオニア企業として、社会を支えています。",
+    "url": "https://www.sakura-tech.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "精密部品、金属部品の切削加工、5軸加工｜株式会社 サクラテック — 最初は小ロットだが変種変量になる可能性がある 加工形状に応じて発注先を分ける手間を省きたい 厳密な納期の管理がされていない 品質が安定しない 納期まであまり時間がない 複雑形状の為、価格が高くなってしまう",
+    "url": "https://www.sacra-tech.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "DM発送代行 梱包 コピーサービス 都内 小ロット 商品サンプル発送 信...サクラテック株式会社のセンサー技術：横浜市港北区新横浜【スーパーエンプラ・エンプラ・プラスチック 加工提案を致します 試... — サクラテックのDM発送代行サービスについてご案内 小ロットから大ロットの宛名ラベル貼りから封入作業、手作業、梱包、 紙媒体以外に、常温の商品サンプルの発送まで、 私たちがサポートいたします。 お知らせ 経済産業省・中小企業庁は、革新的な製品・サービス開発、地域経済の活性化、多様な人材活用の観点から、優れた取り組みを行っている中小企業・小規模事業者を「はばたく中小企業・小規模事業者300社」として、弊社が選定されました。 加工提案を致します 試作開発支援 スーパーエンプラ・エンプラ・プラスチック 試作開発支援 ＜材質＞ MCナイロン POM PEEK PTFE ABS アクリル PVC",
+    "url": "https://sakuratec.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "製品情報 - サクラテック株式会社 — 私たちについて 製品情報 亜鉛めっき鉄線（JIS G3547） 亜鉛めっき鋼線（JIS G3548準拠） 10%アルミ-亜鉛合金めっき線「ガンバルZシリーズ」 養殖用極厚めっき線 有刺鉄線 果樹園規格用針金 特注品（受注生産） 極厚亜鉛めっき鉄線とは 製品仕様一覧 製造工程 ...",
+    "url": "https://www.sakura-tech.co.jp/product/",
+    "pass": 3
+   },
+   {
+    "quote": "サクラテック株式会社のセンサー技術：横浜市港北区新横浜 — お知らせ 経済産業省・中小企業庁は、革新的な製品・サービス開発、地域経済の活性化、多様な人材活用の観点から、優れた取り組みを行っている中小企業・小規模事業者を「はばたく中小企業・小規模事業者300社」として、弊社が選定されました。",
+    "url": "https://sakuratech.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "通信機器・宇宙防衛関連・半導体関連などの精密部品、金属部品の切削...サクラテック株式会社精密部品、金属部品の切削加工、5軸加工｜株式会社 サクラテックトップページ | サクラテック株式会社会社案内 | サクラテック株式会社会社概要・地図 | 省力化機器、省人化装置の設計製造｜サクラテック — 主な協力会社は、放電加工、ワイヤ加工、ブラスト処理、メッキ処理、熱処理などです。 また、社長の櫻岡敏之が会長をつとめるFYMという共同受注グループがあります。 こちらは、福島県内の若い経営者の集まりです。 サクラテック株式会社の公式コーポレートサイト。 サクラテックは、1972年に日本で初めて「極厚亜鉛めっき鉄線」を開発した線材メーカーで、亜鉛めっき技術のパイオニア企業として、社会を支えています。 株式会社サクラテック 複雑形状の切削加工メーカー 0248-28-2126 0248-28-2570 ",
+    "url": "https://www.sacra-tech.co.jp/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "精密部品、金属部品の切削加工、5軸加工｜株式会社 サクラテック — 株式会社サクラテック 複雑形状の切削加工メーカー 0248-28-2126 0248-28-2570 本社 〒961-0951 福島県白河市中町8 新白河第一工場 〒961-0835 福島県白河市白坂大倉矢見 220-3 新白河第二工場・新白河営業所 〒961-0835 福島県白河市白坂大倉矢見 250 TEL 0248-28-2126 FAX 0248-28-2570",
+    "url": "https://www.sacra-tech.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "トップページ | サクラテック株式会社 — サクラテック株式会社は、航空・宇宙・防衛産業向け非破壊検査装置の企画、開発、設計、製造、販売、改修を通じて、お客様の作業性向上と品質保証ならびに、世界中の空の安全に貢献しています。",
+    "url": "https://www.sakuratech-ndi.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 | サクラテック株式会社 — 企業理念技術で文化発展、安全発展に貢献し、信頼を築き、常に協力者との共栄を考え社会にとって存在意義のある企業とあれ会社概要 会社名サクラテック株式会社設立2024年3月資本金5,000,000円代表者代表取締役 飯島 大輔所在地〒198-0024 東京都青梅市新町5 ...",
+    "url": "https://www.sakuratech-ndi.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ ｜ サクラテック株式会社 — マンション・ビル名 ※省略せずにご記入ください お問い合わせ項目 製品情報 採用について その他のお問い合わせ お問い合わせ内容 当社の プライバシーポリシー に 同意の上お問い合わせください。",
+    "url": "https://www.sakura-tech.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | サクラテック株式会社 — お問い合わせいただきました内容は、弊社の掲げる個人情報保護方針に沿って管理し、お客様の同意なく第三者に開示・提供することはございません。 詳細につきましては、当サイトの「プライバシーポリシー」をご参照ください。",
+    "url": "https://www.sakuratech-ndi.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "【株式会社 サクラテック】－お問い合わせ－ — お問い合わせは次の3通りの方法からお選びいただけます。 メール送信 ･･･下記フォームに必要事項をご記入いただき、送信してください。 FAX送信 ･･･当フォームをプリントアウトし、必要事項ご記入の上、FAX送信して下さい。 FAX番号 ⇒ 0248-28-2570",
+    "url": "https://www.sacra-tech.co.jp/otoiawase.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | サクラテックのホームページ — サクラテックへようこそ 会社概要 商品のご案内 お問い合わせ 〒370-3523 群馬県高崎市福島町727-15 TEL 027-373-8844 FAX 027-395-8844",
+    "url": "https://sakura-tc.jp/お問い合わせ/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【こーばへ行こう！】＃サクラテック編｜KINDAI Leaders Dec 31, 2023 · みなさんこんにちは！ KINDAI Leadersです！ ！！ 今日は様々な針金を加工するこーばであるサクラテック株式会社さんを紹介します！ ！！！！ KINDAI Leadersのメンバーが変わるがわる参加させて頂き凄く親切にして頂きました。",
+    "url": "https://note.com/kindai_leaders/n/n09e4d7a2a7fd",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【こーばへ行こう！】＃サクラテック編｜KINDAI Leaders",
+    "url": "https://note.com/kindai_leaders/n/n09e4d7a2a7fd",
+    "pass": 3
+   },
+   {
+    "quote": "今日は様々な針金を加工するこーばであるサクラテック株式会社さんを紹介します！！！！！",
+    "url": "https://note.com/kindai_leaders/n/n09e4d7a2a7fd",
+    "pass": 3
+   },
+   {
+    "quote": "KINDAI Leadersのメンバーが変わるがわる参加させて頂き凄く親切にして頂きました。",
+    "url": "https://note.com/kindai_leaders/n/n09e4d7a2a7fd",
+    "pass": 3
+   },
+   {
+    "quote": "私たちが参加させて頂いた時は完全予約制の「みんなでBOTTO桜劇ツアー」を特別に見学させて頂きました！",
+    "url": "https://note.com/kindai_leaders/n/n09e4d7a2a7fd",
+    "pass": 3
+   },
+   {
+    "quote": "そのツアーでは、これまでの会社の歩みや亜鉛メッキ鉄線について教えてもらいました。亜鉛メッキ鉄線はさまざまところに使われていて養殖の金網やフェンス、海底電力ケーブルにも使われるそうです。また成分から強くこだわってきたことが伝わってきました。",
+    "url": "https://note.com/kindai_leaders/n/n09e4d7a2a7fd",
+    "pass": 3
+   },
+   {
+    "quote": "その後針金を使ったサクラを作る体験をさせて頂きました！！！",
+    "url": "https://note.com/kindai_leaders/n/n09e4d7a2a7fd",
+    "pass": 3
+   },
+   {
+    "quote": "凄く綺麗なのでKINDAI Leadersを運営する先生のクラスが卒業することに向けて購入していました＾＾",
+    "url": "https://note.com/kindai_leaders/n/n09e4d7a2a7fd",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "サクラテックケア合同会社 (@sakuratechcare) / Posts / X サクラテックケア合同会社 (@sakuratechcare) - Posts - 「ITインフラの全レイヤーを一貫して支える、インフラのスペシャリスト」 ITインフラエンジニアとして約25年、サーバー、ネットワークから最新のマルチクラウド環境まで、設計・構築・運用の全工程に... | X ...",
+    "url": "https://x.com/sakuratechcare",
+    "pass": 3
+   },
+   {
+    "quote": "六月純弥 on X: \"サクラテックて何やねん。 サクラテツやろがい。\" ふじ🐉は、「オリジナルの読み切り」か「原作を元にしたアレンジコミカライズ」で光るタイプの漫画家だと思ってます (何目線) RP ワークワークとかサクラテックはおれにはあまり刺さらなかったんだ…ごめんよ…",
+    "url": "https://x.com/yamamiko75/status/2098591434597351857",
+    "pass": 3
+   },
+   {
+    "quote": "東大阪のモノづくりを楽しむ SAKURA祭り \\ モノづくりへの興味のきっ... ／東大阪のモノづくりを楽しむSAKURA祭り\\モノづくりへの興味のきっかけになるよう子ども向けのゲームやワークショップなどを楽しめるSAKURA祭りが川田にあるサクラテック株式会社で開催されます。 詳細はウェブサイトで↓ sakura-matsuri2024.hp.peraichi.com 💬0 🔄4",
+    "url": "https://x.com/higashiosaka_pr/status/1775810546798858674",
+    "pass": 3
+   },
+   {
+    "quote": "六月純弥 on X: \"サクラテックて何やねん。 サクラテツやろがい。\" Sep 11, 2026 · ふじ🐉は、「オリジナルの読み切り」か「原作を元にしたアレンジコミカライズ」で光るタイプの漫画家だと思ってます (何目線) RP ワークワークとかサクラテックはおれにはあまり刺さらなかったんだ…ごめんよ…",
+    "url": "https://x.com/yamamiko75/status/2098591434597351857",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "サクラテック株式会社 - Facebook株式会社サクラテック | Shirakawa-shi Fukushimaサクラテック株式会社 - 【お知らせ】23-0821_役員人事異動... | Face...サクラテック株式会社 - 皆様、こんにちは サクラテックです ついに！...サクラテック株式会社 - 【 ️ ️ ️告知 ️ ️ ️】 YO CHECK IT ... | Fac...サクラテック株式会社 - 【オープン】ECサイト フォロワーのみなさま...Sakura Digital technologies | Quezon City - Facebook そしてサクラテックももっとがん ばる！ これを紡いでいくことで、東大阪は良くなる、大阪関 西はアツくなる、そして、日本は前進する！ ホンマにそう思ってます。 それにしても、学生がアツイ質問してくれたことが素 直にめちゃ嬉しかった",
+    "url": "https://www.facebook.com/sakuratech1939/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社サクラテック | Shirakawa-shi Fukushimaサクラテック株式会社 - 【お知らせ】23-0821_役員人事異動... | Face...サクラテック株式会社 - 皆様、こんにちは サクラテックです ついに！...サクラテック株式会社 - 【 ️ ️ ️告知 ️ ️ ️】 YO CHECK IT ... | Fac...サクラテック株式会社 - 【オープン】ECサイト フォロワーのみなさま...Sakura Digital technologies | Quezon City - Facebook Nov 17, 2024 · 今から自身の就職の事を考え、活 動されるとは感心しきりです。 サクラテックはそんな 方達をお待ちしています。 昨日、弊社白河工場にて新入社員の入社式がおこなわ れました。 今年度は新たに5人の仲間が加わりました 。 Aug 30, 2023",
+    "url": "https://www.facebook.com/sacratech.challenge/",
+    "pass": 3
+   },
+   {
+    "quote": "サクラテック株式会社 - 皆様、こんにちは サクラテックです ついに！... Oct 28, 2022 · 皆様、こんにちは🌞 サクラテックです🌸 ついに！ 針金×サクラテックの NEWポスターを公開！ あなたを針金の虜に… サクラテックの手にかかれば 可能性は無限大！ 皆様の安心安全・快適な暮らしを守るべく、おもろい未来を創造し続けます。",
+    "url": "https://www.facebook.com/sakuratech1939/photos/皆様こんにちはサクラテックですついに針金サクラテックのnewポスターを公開あなたを針金の虜にサクラテックの手にかかれば可能性は無限大皆様の安心安全快適な暮らしを/187408300471697/",
+    "pass": 3
+   },
+   {
+    "quote": "サクラテック株式会社 - 【 ️ ️ ️告知 ️ ️ ️】 YO CHECK IT ... | Fac... Mar 14, 2023 · 【 ️ ️ ️告知 ️ ️ ️】 YO CHECK IT🤘 SAKURATECHの歴史が新たに始まる🤩 第一回『SAKURA祭』を開催します👏 祭開催の背景には色んな想いが込められています。 『桜の時期に、サクラテックが祭りしないでどうする？ 』...",
+    "url": "https://www.facebook.com/sakuratech1939/posts/️️️告知️️️yo-check-itsakuratechの歴史が新たに始まる第一回sakura祭を開催します祭開催の背景には色んな想いが込められています桜の時/235884658957394/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "SHOTA OHASHI - サクラテック株式会社 代表取締役社長 | LinkedIn加藤貞顕 - Wikipedia#9 サクラテック株式会社 代表取締役 大橋 翔太 - YouTube サクラテック株式会社 代表取締役社長 · 職歴: サクラテック株式会社 · 場所: 東京 · LinkedInのつながり3人。 10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInでSHOTA OHASHIさんのプロフィールを閲覧しましょう。 加藤貞顕 加藤 貞顕 （かとう さだあき、 1973年 6月11日 [1] - ）は、日本の 編集者 、 実業家。 note株式会社 代表取締役CEO。 （2020年4月7日 株式会社ピースオブケイクより社名変更） Oct 27, 2024 · 企業名 ：サクラテック株式会社/代表取締役 大橋 翔太 URL ： https://www.",
+    "url": "https://jp.linkedin.com/in/shota-ohashi-1595071a0",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sacra-tech.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sacra-tech.co.jp/products.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sacra-tech.co.jp/ask.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sacra-tech.co.jp/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sacra-tech.co.jp/ax5.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sacra-tech.co.jp/proposed.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sacra-tech.co.jp/equipment.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sacra-tech.co.jp/c_history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sacra-tech.co.jp/c_access.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sacra-tech.co.jp/c_rec.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.sacra-tech.co.jp/img/products/s/001.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sacra-tech.co.jp/img/products/s/002.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sacra-tech.co.jp/img/products/s/003.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sacra-tech.co.jp/img/products/s/004.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sacra-tech.co.jp/img/products/s/012.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sacra-tech.co.jp/img/products/s/020.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sacra-tech.co.jp/img/products/s/035.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sacra-tech.co.jp/img/products/s/018.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sacra-tech.co.jp/img/top/top_products.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sacra-tech.co.jp/img/top/top_sub03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.sakura-tech.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sakuratec.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sakura-tech.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sakura-tech.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sakuratech-ndi.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sakura-finetek.com/ja/contact-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kindai_leaders/n/n09e4d7a2a7fd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/sakuratechcare",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/yamamiko75/status/2098591434597351857",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/higashiosaka_pr/status/1775810546798858674",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sakuratech1939/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sacratech.challenge/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sakuratech1939/photos/皆様こんにちはサクラテックですついに針金サクラテックのnewポスターを公開あなたを針金の虜にサクラテックの手にかかれば可能性は無限大皆様の安心安全快適な暮らしを/187408300471697/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sakuratech1939/posts/️️️告知️️️yo-check-itsakuratechの歴史が新たに始まる第一回sakura祭を開催します祭開催の背景には色んな想いが込められています桜の時/235884658957394/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/shota-ohashi-1595071a0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/yamamiko75/status/2098591434597351857",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "サクラテック 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.sakura-tech.co.jp/",
+    "https://www.sacra-tech.co.jp/",
+    "https://sakuratec.co.jp/",
+    "https://www.sakura-tech.co.jp/product/",
+    "https://sakuratech.jp/",
+    "https://www.sacra-tech.co.jp/mass.html",
+    "https://ja.nc-net.or.jp/company/73752/product/detail/201505/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "サクラテック 会社概要 事業内容",
+   "results": [
+    "https://www.sacra-tech.co.jp/company.html",
+    "https://www.sakura-tech.co.jp/",
+    "https://www.sacra-tech.co.jp/",
+    "https://www.sakuratech-ndi.jp/",
+    "https://www.sakuratech-ndi.jp/company/",
+    "http://www.sakuratech510.com/company/",
+    "https://www.sakura-tech.co.jp/company/outline/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "サクラテック お問い合わせ メール",
+   "results": [
+    "https://www.sakura-tech.co.jp/contact/",
+    "https://www.sakuratech-ndi.jp/contact/",
+    "https://www.sakura-finetek.com/ja/contact-us/",
+    "https://www.sacra-tech.co.jp/otoiawase.html",
+    "https://sakura-tc.jp/お問い合わせ/",
+    "https://sakuratec.co.jp/contact",
+    "https://sakuratech.jp/お問合せ/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com サクラテック",
+   "results": [
+    "https://note.com/kindai_leaders/n/n09e4d7a2a7fd",
+    "https://note.com/sakura_tech",
+    "https://note.com/sakura_tech/all",
+    "https://note.com/sakura_tech/n/ndae26d5f0838",
+    "https://note.com/fandm_club/n/n54345884a274",
+    "https://tales.note.com/platypus2000jp/wsz80ca79sl9b",
+    "https://tales.note.com/platypus2000jp/warfdo5cyuyrz"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com サクラテック",
+   "results": [
+    "https://x.com/sakuratechcare",
+    "https://x.com/yamamiko75/status/2098591434597351857",
+    "https://x.com/higashiosaka_pr/status/1775810546798858674",
+    "https://x.com/SakuraTech21",
+    "https://x.com/SakuraTech3ant",
+    "https://x.com/sakura_misaking",
+    "https://x.com/SDS_official_x/status/2116062083171446980"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com サクラテック",
+   "results": [
+    "https://sg.linkedin.com/company/sakura-tech-s-pte-ltd",
+    "https://www.linkedin.com/pub/dir/sakura/tech",
+    "https://br.linkedin.com/company/sakura-tech-s-pte-ltd",
+    "https://my.linkedin.com/company/sakura-tech-s-pte-ltd",
+    "https://www.linkedin.com/company/pt-sakura-tech-indonesia",
+    "https://jp.linkedin.com/company/サクラファインテックジャパン（株）",
+    "https://cn.linkedin.com/company/sakura-tech-s-pte-ltd"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com サクラテック",
+   "results": [
+    "https://www.facebook.com/sakuratech1939/",
+    "https://www.facebook.com/sacratech.challenge/",
+    "https://www.facebook.com/sakuratech1939/photos/皆様こんにちはサクラテックですついに針金サクラテックのnewポスターを公開あなたを針金の虜にサクラテックの手にかかれば可能性は無限大皆様の安心安全快適な暮らしを/187408300471697/",
+    "https://www.facebook.com/sakuratech1939/posts/️️️告知️️️yo-check-itsakuratechの歴史が新たに始まる第一回sakura祭を開催します祭開催の背景には色んな想いが込められています桜の時/235884658957394/",
+    "https://www.facebook.com/sakuratech1939/posts/オープンecサイトフォロワーのみなさまこんにちわサクラテックがついに本日一般消費者の方々向けにecサイトを立ち上げさせて頂く運びとなりましたこれもひとえにフォロ/185907193955141/",
+    "https://www.facebook.com/sakuratech1939/posts/お知らせ23-0821_役員人事異動当社の8月21日付役員人事をお知らせ致します新体制となりますが会社のミッションを全うしビジョン達成に向け歩んで参りますので引/330639119481947/",
+    "https://www.facebook.com/sakuradigitech/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "サクラテック note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.sakura-tech.co.jp/company/message/",
+    "https://jp.linkedin.com/in/shota-ohashi-1595071a0",
+    "https://www.youtube.com/watch?v=MMt77g9M-5U",
+    "https://www.sakura-tech.co.jp/company/outline/",
+    "https://mabp.co.jp/interview/12986/",
+    "https://note.com/sakurasaku_negio/n/n344c33f1adb9"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "サクラテック X 投稿",
+   "results": [
+    "https://x.com/yamamiko75/status/2098591434597351857",
+    "https://www.sakura-tech.co.jp/",
+    "https://x.com/Sakura00_rush/status/2118645027622858914",
+    "https://x.com/SakuraTech3ant",
+    "https://x.com/sebsuter",
+    "https://x.com/SakuraSweet2525/status/2061822759395860929",
+    "https://x.com/pjskra2026"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式10頁／PDF・画像10件／外部16頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式10頁／PDF・画像10件／外部16頁・検索9回）"
+ }
+}

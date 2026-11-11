@@ -1,0 +1,570 @@
+{
+ "name": "松本産業株式会社（ネジの松本産業） 岡発戸工場",
+ "aliases": [],
+ "context": "ipros_all:小ロット",
+ "researched_at": "2026-11-11T13:12:20.666160+00:00",
+ "official_url": "http://matsumoto-screw.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "住所",
+    "value": "〒",
+    "url": "https://matsumoto-screw.jp/pages/11/",
+    "pass": 1
+   },
+   {
+    "label": "■本　　　社 /",
+    "value": "〒270-1154 千葉県我孫子市白山1-22-6 TEL：04-7182-4490",
+    "url": "https://matsumoto-screw.jp/pages/2/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "■代　表　者 /",
+    "value": "松本　眞輔",
+    "url": "https://matsumoto-screw.jp/pages/2/",
+    "pass": 1
+   }
+  ],
+  "拠点": [
+   {
+    "label": "■工　　　場 /",
+    "value": "〒270-1137 千葉県我孫子市岡発戸1380-5\nTEL:04-7182-4490　FAX:04-7182-2382",
+    "url": "https://matsumoto-screw.jp/pages/2/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "■従 業 員 数 /",
+    "value": "17名",
+    "url": "https://matsumoto-screw.jp/pages/2/",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "■主な納入先 /",
+    "value": "(株)東京鋲兼　三協(株)　サンコーインダストリー(株)　オリップ(株) 山一精工(株) (株)タカシマ　(株)ハイオス　(株)創和 ボサード(株） 鍋屋バイテック(株) 医学系薬学系大学・研究所 海外（輸出先）　中国　香港　台湾　タイ　マレーシア　アメリカ　フランス",
+    "url": "https://matsumoto-screw.jp/pages/2/",
+    "pass": 1
+   },
+   {
+    "label": "■主な仕入先 /",
+    "value": "(株)杉田製線　(株)オーアンドケー　(株)山本製線所 (株)メタルワン鉄鋼製品販売 善成金属(株)　(株)サンエツ商事 イヌイ工業(株）　山崎精工(株)　エマナック東日本(株) （株)チクマ",
+    "url": "https://matsumoto-screw.jp/pages/2/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "オーダーメイド製品・少量ロットのご注文など、ご予算にあわせて細かく丁寧に対応いたします",
+    "url": "https://matsumoto-screw.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "松本産業は、お客様の多様なニーズに応えるため、オーダーメイド製品や少量ロットのご注文に対しても、細やかな対応を心掛けています",
+    "url": "https://matsumoto-screw.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "予算に合わせた最適な提案を行い、必要な製品を迅速にお届けすることを目指しています",
+    "url": "https://matsumoto-screw.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "小さな部品の「ねじ」ですが、たった1本なくても製品が機能しないこともありますので、重要な部品であります",
+    "url": "https://matsumoto-screw.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の改善の糸口にもなりますので、お客様のわかる範囲でお知らせください",
+    "url": "https://matsumoto-screw.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "大小の正三角形の組み合わせにより、松本産業製品の",
+    "url": "https://matsumoto-screw.jp/pages/2/",
+    "pass": 1
+   },
+   {
+    "quote": "●正三角形を用いて、正三角形の幾何学的精密さ＝製品の精密さを表しています",
+    "url": "https://matsumoto-screw.jp/pages/2/",
+    "pass": 1
+   },
+   {
+    "quote": "●正三角形（小）が正三角形（大）に入り込むことで松本産業製品であるネジ（ファスナー）の抽象的用途を表しています",
+    "url": "https://matsumoto-screw.jp/pages/2/",
+    "pass": 1
+   },
+   {
+    "quote": "製品紹介｜ねじ|ネジ|ネジの松本産業|一般サイズから1ミリ以下の超マイクロネジまで",
+    "url": "https://matsumoto-screw.jp/pages/24/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス(282)",
+    "url": "https://mono.ipros.com/company/detail/2032393/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (282)",
+    "url": "https://mono.ipros.com/company/detail/2032393/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "多種多様な形状、大きさ、材質のネジを取り扱っております",
+    "url": "https://matsumoto-screw.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "同じく緩み対策としてはナイロン系樹脂をネジ部に塗布して緩み対策とするネジも取り扱っております",
+    "url": "https://matsumoto-screw.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ノジロックと樹脂接着剤とを組み合わせたダブルのロック効果を求めたハイブリッドなネジの納品事例もあります",
+    "url": "https://matsumoto-screw.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "・鉄 ・ステンレス ・真鍮 ・銅 ・アルミ ・チタン",
+    "url": "https://matsumoto-screw.jp/pages/24/",
+    "pass": 1
+   },
+   {
+    "quote": "チタンねじ、アルミねじもどうぞ",
+    "url": "https://mono.ipros.com/company/detail/2032393/",
+    "pass": 3
+   },
+   {
+    "quote": "鉄 ステンレス 真鍮 銅 アルミ チタン リン青銅",
+    "url": "https://mono.ipros.com/company/detail/2032393/",
+    "pass": 3
+   },
+   {
+    "quote": "材質：鉄10R",
+    "url": "https://matsumotoneji.cart.fc2.com/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "オーダーメイド製品・少量ロットのご注文など、ご予算にあわせて細かく丁寧に対応いたします",
+    "url": "https://matsumoto-screw.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "松本産業は、お客様の多様なニーズに応えるため、オーダーメイド製品や少量ロットのご注文に対しても、細やかな対応を心掛けています",
+    "url": "https://matsumoto-screw.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ネジを一つだけ（小ロットで）注文したいが、受け入れてくれるお店があるのか分からない…",
+    "url": "https://matsumoto-screw.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "技術的なご相談、試作依頼などもご相談ください",
+    "url": "https://matsumoto-screw.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ネジ径0.5mmリベット試作開始、ホームページ開設",
+    "url": "https://matsumoto-screw.jp/pages/2/",
+    "pass": 1
+   },
+   {
+    "quote": "を中心に、法人・個人問わず、小ロットで販売しています",
+    "url": "https://matsumotoneji.cart.fc2.com/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "医療関連部品や精密機器などに使用される超マイクロネジ、ミニチュアネジ、極小ネジ",
+    "url": "https://matsumoto-screw.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "メネジとの最適マッチング効果により、ネジ単体で緩み防止機能を持つノジロックでは、眼鏡業界・遊戯具業界・宇宙航空業界からの評価をいただいております",
+    "url": "https://matsumoto-screw.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "一般サイズの生産から医療関連機器・マウス脳波測定用・研究用途カスタムねじ・極小ねじ・極小リベット、低頭ねじ",
+    "url": "https://mono.ipros.com/company/detail/2032393/",
+    "pass": 3
+   },
+   {
+    "quote": "精密マイクロモーター、ベアリング、医療機器、精密機器、通信機、半導体設備",
+    "url": "https://matsumotoneji.cart.fc2.com/",
+    "pass": 3
+   },
+   {
+    "quote": "・ラット・マウス向け脳波測定用(実験・研究用）、小型ロボット、宇宙航空部品・超小型衛星（ノジロック）",
+    "url": "https://matsumotoneji.cart.fc2.com/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "一般(個人)の方からも「ねじ」に対する疑問や、お問い合わせをお受けいたします",
+    "url": "https://matsumoto-screw.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせは下記のいずれかよりお気軽にどうぞ",
+    "url": "https://matsumoto-screw.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "☆ お問い合わせ ☆｜ねじ|ネジ|ネジの松本産業|一般サイズから1ミリ以下の超マイクロネジまで",
+    "url": "https://matsumoto-screw.jp/pages/11/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ内容によっては、以下のようなご対応をさせて頂く場合がございます",
+    "url": "https://matsumoto-screw.jp/pages/11/",
+    "pass": 1
+   },
+   {
+    "quote": "当社はお問い合わせに対する回答やご要望いただいた資料提供などのためだけに、ご記入いただきましたお名前、ご住所などの個人情報を当社個人情報保護方針に従って利用いたします",
+    "url": "https://matsumoto-screw.jp/pages/11/",
+    "pass": 1
+   },
+   {
+    "quote": "・LINE公式アカウントでのお問い合わせについて",
+    "url": "https://matsumotoneji.cart.fc2.com/",
+    "pass": 3
+   },
+   {
+    "quote": "◆代引きご利用のお客様は弊社確認メールに発送承諾の返信メールをお送りください",
+    "url": "https://matsumotoneji.cart.fc2.com/",
+    "pass": 3
+   },
+   {
+    "quote": "また定休日と営業日の午後3時以降にご注文いただきました分につきましては、後日ご注文確認メールをお送りさせていただいております",
+    "url": "https://matsumotoneji.cart.fc2.com/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "メガネ用ねじ Lami Lock Screw",
+    "url": "https://mono.ipros.com/company/detail/2032393/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ねじ|ネジ| ネジの松本産業 |一般サイズから1ミリ以下の超 ... — ねじ|ネジ| ネジの松本産業 |一般サイズから1ミリ以下の超 ... ネジの松本産業 https://matsumoto-screw.jp",
+    "url": "https://matsumoto-screw.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "松本産業 株式会社（ ネジの松本産業 ） | 企業情報 - イプロス — 松本産業 株式会社（ ネジの松本産業 ） | 企業情報 - イプロス 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 機械要素・部品",
+    "url": "https://mono.ipros.com/company/detail/2032393/",
+    "pass": 3
+   },
+   {
+    "quote": "極小ネジ マイクロネジ 1本通販 ネジ診断 ネジの松本産業 — 極小ネジ マイクロネジ 1本通販 ネジ診断 ネジの松本産業 matsumotoneji.cart.fc2.com https://matsumotoneji.cart.fc2.com",
+    "url": "https://matsumotoneji.cart.fc2.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ネジの松本産業 - YouTube — ネジの松本産業 - YouTube YouTube https://www.youtube.com > channel",
+    "url": "https://www.youtube.com/channel/UCoe5kaXn1CgJt-paUkXyVUw",
+    "pass": 3
+   },
+   {
+    "quote": "松本産業 株式 会社 （ ネジの松本産業 ） | 企業情報 - イプロス — 松本産業 株式 会社 （ ネジの松本産業 ） | 企業情報 - イプロス 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 機械要素・部品",
+    "url": "https://mono.ipros.com/company/detail/2032393/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "松本産業株式会社 Matsumoto Industry Co.,Ltd. - Facebook Jun 26, 2026 · Ltd. 4d · Public 本日は天気がよく 気持ちいいです#松本産業#工場#手賀沼#factory#ネジ 金森達郎 1 松本産業株式会社 Matsumoto Industry Co., Ltd. 1w · Public 全国のお取引先様 ご心配いただきありがとうございます 千葉県我孫子市 ネジの松本産業です",
+    "url": "https://www.facebook.com/nejinomatsumotosangyo/posts/カスタム品-製作事例m8-ピッチ125ネジの松本産業-m8-カスタム-factory-screw/1883058259274321/",
+    "pass": 3
+   },
+   {
+    "quote": "カスタム品 製作事例 コイン幅のネジ... - 松本産業株式会社 Matsumot... Feb 3, 2026 · Ltd. 4d · Public 本日は天気がよく 気持ちいいです#松本産業#工場#手賀沼#factory#ネジ 金森達郎 1 松本産業株式会社 Matsumoto Industry Co., Ltd. 1w · Public 全国のお取引先様 ご心配いただきありがとうございます 千葉県我孫子市 ネジの松本産業です",
+    "url": "https://www.facebook.com/nejinomatsumotosangyo/posts/カスタム品-製作事例コイン幅のネジコイン幅-カスタム品-ネジの松本産業-factory-screw/1763944177852397/",
+    "pass": 3
+   },
+   {
+    "quote": "#ねじの松本産業 #ねじの小売 #ネジ... - 松本産業株式会社 Matsumoto... Jan 11, 2024 · 来年もネジの魅力を発信していきますので、よろしく お願いします！ 良いお年をお迎えください .*˚#年末のご挨拶#ネジの松本産業#町工場#ものづくり#お世話になりました Shinichi Kobayashi and 金森達郎 2",
+    "url": "https://www.facebook.com/nejinomatsumotosangyo/posts/ねじの松本産業-ねじの小売-ネジ-screw-カスタムネジ-マイクロネジ-ミニチュアネジ-ミニチュア-製作-模型製作/1230968901149930/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://matsumoto-screw.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://matsumoto-screw.jp/pages/11/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://matsumoto-screw.jp/pages/2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://matsumoto-screw.jp/pages/7/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://matsumoto-screw.jp/pages/24/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://matsumoto-screw.jp/pages/13/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://matsumoto-screw.jp/pages/41/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://matsumoto-screw.jp/pages/43/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/company/detail/2032393/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/6954/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2032393/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/6954/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2032393/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://matsumotoneji.cart.fc2.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/nejinomatsumotosangyo/posts/カスタム品-製作事例m8-ピッチ125ネジの松本産業-m8-カスタム-factory-screw/1883058259274321/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/nejinomatsumotosangyo/posts/カスタム品-製作事例コイン幅のネジコイン幅-カスタム品-ネジの松本産業-factory-screw/1763944177852397/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/nejinomatsumotosangyo/posts/ねじの松本産業-ねじの小売-ネジ-screw-カスタムネジ-マイクロネジ-ミニチュアネジ-ミニチュア-製作-模型製作/1230968901149930/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "松本産業 (ネジの松本産業) 岡発戸工場 取扱製品 試作 小ロット",
+   "results": [
+    "https://matsumoto-screw.jp/",
+    "https://mono.ipros.com/company/detail/2032393/",
+    "https://metoree.com/companies/6954/",
+    "https://matsumotoneji.cart.fc2.com/",
+    "https://www.youtube.com/channel/UCoe5kaXn1CgJt-paUkXyVUw",
+    "https://eigyo-mfg.com/service/navi/company/IBfWlGERAG2A",
+    "https://www.facebook.com/nejinomatsumotosangyo/",
+    "http://www.nejijapan.com/company/index/e2690068093115121fa4dce86328f4e6"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "松本産業 (ネジの松本産業) 岡発戸工場 会社概要 事業内容",
+   "results": [
+    "https://matsumoto-screw.jp/",
+    "https://mono.ipros.com/company/detail/2032393/",
+    "https://metoree.com/companies/6954/",
+    "https://eigyo-mfg.com/service/navi/company/IBfWlGERAG2A",
+    "https://matsumotoneji.cart.fc2.com/",
+    "https://www.facebook.com/nejinomatsumotosangyo/",
+    "https://www.city.okayama.jp/jigyosha/0000010019.html",
+    "https://mac-exe.co.jp/",
+    "https://matsumoto-screw.jp/pages/38/",
+    "https://matsumoto-screw.jp/pages/2/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "松本産業 (ネジの松本産業) 岡発戸工場 お問い合わせ メール",
+   "results": [
+    "https://matsumoto-screw.jp/",
+    "https://mono.ipros.com/company/detail/2032393/",
+    "https://matsumotoneji.cart.fc2.com/",
+    "https://metoree.com/companies/6954/",
+    "https://matsusan-co.com/contact/",
+    "http://www.nejijapan.com/company/index/e2690068093115121fa4dce86328f4e6",
+    "https://www.matsumoto-co.jp/contact/",
+    "http://www.matsumoto-sangyo.co.jp/contact.html",
+    "https://www.matsumotosangyou.co.jp/inquiry/index.php",
+    "https://matsumoto-screw.jp/pages/11/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 松本産業 (ネジの松本産業) 岡発戸工場",
+   "results": [
+    "https://note.com/m_ama_recycler/n/n0284ba3c7fd3?hl=en",
+    "https://note.com/m_ama_recycler",
+    "https://note.com/m_ama_recycler/n/n0284ba3c7fd3",
+    "https://note.com/pcsupportojisan/n/n4ed822703804",
+    "https://note.com/just_ixora8135/n/ne6b67bb87167",
+    "https://note.com/brave_coyote999/n/n5dd9d0e73462",
+    "https://note.com/jubipulse/n/ndcca6acbc832"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 松本産業 (ネジの松本産業) 岡発戸工場",
+   "results": [
+    "https://x.com/matsumotosangyo",
+    "https://x.com/matsu_ferecycle",
+    "https://x.com/i/trending/2092949491334967501",
+    "https://x.com/hashtag/ネジ生産工場",
+    "https://x.com/5gatubyou_",
+    "https://x.com/F080H/status/2075354333466808590",
+    "https://x.com/5gatubyou_/status/2079811373694095364"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 松本産業 (ネジの松本産業) 岡発戸工場",
+   "results": [
+    "https://jp.linkedin.com/in/俊紀-飯島-096b43142",
+    "https://jp.linkedin.com/in/shinsuke-matsumoto-b1761546",
+    "https://www.linkedin.com/in/timbakke",
+    "https://www.linkedin.com/in/lisakubicki",
+    "https://in.linkedin.com/in/shreyan-ray-638969250",
+    "https://uk.linkedin.com/in/esther-firth-4abba1148",
+    "https://bm.linkedin.com/in/slottimore"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 松本産業 (ネジの松本産業) 岡発戸工場",
+   "results": [
+    "https://www.facebook.com/nejinomatsumotosangyo/",
+    "https://www.facebook.com/nejinomatsumotosangyo/posts/カスタム品-製作事例m8-ピッチ125ネジの松本産業-m8-カスタム-factory-screw/1883058259274321/",
+    "https://www.facebook.com/nejinomatsumotosangyo/posts/カスタム品-製作事例コイン幅のネジコイン幅-カスタム品-ネジの松本産業-factory-screw/1763944177852397/",
+    "https://www.facebook.com/nejinomatsumotosangyo/posts/ねじの松本産業-ねじの小売-ネジ-screw-カスタムネジ-マイクロネジ-ミニチュアネジ-ミニチュア-製作-模型製作/1230968901149930/",
+    "https://www.facebook.com/reel/1297122467624023/",
+    "https://www.facebook.com/nejinomatsumotosangyo/posts/きょうのマシンpf1202512ネジの松本産業-ヘッダー-圧造-工場-factory/1731458697767612/",
+    "https://www.facebook.com/nejinomatsumotosangyo/posts/こんにちはネジの松本産業です今回展示会に展示する赤いネジと青いネジのご注文がありました赤いネジ青いネジ珍しい色のネジですねピンク色のネジも過去にご注文いただいた/1254335992146554/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "松本産業 (ネジの松本産業) 岡発戸工場 note 社長",
+   "results": [
+    "https://matsumoto-screw.jp/",
+    "https://mono.ipros.com/company/detail/2032393/",
+    "https://www.youtube.com/watch?v=Xr_ujR-F1qE",
+    "https://www.youtube.com/channel/UCoe5kaXn1CgJt-paUkXyVUw",
+    "https://matsumotoneji.cart.fc2.com/",
+    "https://www.youtube.com/watch?v=C80lDdIMTVU",
+    "https://www.facebook.com/nejinomatsumotosangyo/posts/%E3%81%8A%E4%B8%96%E8%A9%B1%E6%A7%98%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99%E9%81%85%E3%82%8C%E3%81%B0%E3%81%9B%E3%81%AA%E3%81%8C%E3%82%89jp%E3%81%AE%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AEhttps%E5%8C%96%E3%82%92%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%83%8D%E3%82%B8%E3%81%AE%E6%9D%BE%E6%9C%AC%E7%94%A3%E6%A5%AD-%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3-%E3%81%AD%E3%81%98-https-%E6%A5%B5%E5%B0%8F%E3%81%AD%E3%81%98-%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%8D%E3%82%B8-%E6%9D%BE%E6%9C%AC%E7%94%A3%E6%A5%AD-/1603421787237971/",
+    "https://wakuwaku-kashiwa.net/mobile/corpDetail/385",
+    "http://www.nejijapan.com/company/index/e2690068093115121fa4dce86328f4e6",
+    "https://matsumoto-screw.jp/pages/2/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "松本産業 (ネジの松本産業) 岡発戸工場 X 投稿",
+   "results": [
+    "https://matsumoto-screw.jp/",
+    "https://mono.ipros.com/company/detail/2032393/",
+    "https://matsumotoneji.cart.fc2.com/",
+    "https://www.youtube.com/watch?v=Xr_ujR-F1qE",
+    "https://www.youtube.com/channel/UCoe5kaXn1CgJt-paUkXyVUw",
+    "https://www.facebook.com/nejinomatsumotosangyo/",
+    "https://www.youtube.com/shorts/7ShaessZ7wM",
+    "https://www.instagram.com/matsumotoscrew/",
+    "https://mono.ipros.com/en/company/detail/2032393/",
+    "https://www.ipros.com/company/detail/2032393/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部9頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部9頁・検索9回）"
+ }
+}

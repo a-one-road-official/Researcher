@@ -1,0 +1,1412 @@
+{
+ "name": "パルステック工業株式会社",
+ "aliases": [],
+ "context": "ipros_all:特注",
+ "researched_at": "2026-11-11T13:24:23.038027+00:00",
+ "official_url": "https://www.pulstec.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "〒431-1304 静岡県浜松市浜名区 細江町中川7000番地の35",
+    "url": "https://www.pulstec.co.jp/company/guide/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒141-0031 東京都品川区 西五反田8丁目1番14号 最勝ビル10階",
+    "url": "https://www.pulstec.co.jp/company/guide/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "41800 West Eleven Mile Road, Suite 223 Novi, MI 48375 USA",
+    "url": "https://www.pulstec.co.jp/company/guide/",
+    "pass": 1
+   },
+   {
+    "label": "本社 所在地",
+    "value": "日本 〒 431-1304 静岡県 浜松市 浜名区 細江町中川 7000番地の35 北緯34度47分58.6秒 東経137度41分16.4秒 ﻿ / ﻿ 北緯34.799611度 東経137.687889度 ﻿ / 34.799611; 137.687889 座標 : 北緯34度47分58.6秒 東経137度41分16.4秒 ﻿ / ﻿ 北緯34.799611度 東経137.687889度 ﻿ / 34.799611; 137.687889",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%82%B9%E3%83%86%E3%83%83%E3%82%AF%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "163名 (2026年4月1日現在)",
+    "url": "https://www.pulstec.co.jp/company/guide/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "156人（2024年3月31日現在）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%82%B9%E3%83%86%E3%83%83%E3%82%AF%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "主要事業内容",
+    "value": "電子応用機器・ 装置の製造および販売",
+    "url": "https://www.pulstec.co.jp/company/guide/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "電子応用機器・装置の製造および販売",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%82%B9%E3%83%86%E3%83%83%E3%82%AF%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役 会長 鈴木幸博 代表取締役 社長 青野嘉幸",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%82%B9%E3%83%86%E3%83%83%E3%82%AF%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "26億12百万円（2024年3月期）",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%82%B9%E3%83%86%E3%83%83%E3%82%AF%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "展示会、製品、IR情報など",
+    "url": "https://www.pulstec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "小型カメラの採用によりPWS-1000と比べ、さらに小型･軽量・低価格を実現し、既存製品への組み込みも一層容易になりました",
+    "url": "https://www.pulstec.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "計測サービス／装置レンタル | 製品情報 | パルステック工業株式会社",
+    "url": "https://www.pulstec.co.jp/product/measuring_rental/",
+    "pass": 1
+   },
+   {
+    "quote": "開発体制強化のため開発プロジェクトを発足し、自社製品開発に着手",
+    "url": "https://www.pulstec.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "光ディスク関連の新製品開発強化のため、東京営業所内に開発室を開設｡",
+    "url": "https://www.pulstec.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "新製品・新技術情報収集を目的として、東京営業所内に技術推進室を設置",
+    "url": "https://www.pulstec.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "ウェビナー | 製品情報 | パルステック工業株式会社",
+    "url": "https://www.pulstec.co.jp/product/webinar/",
+    "pass": 1
+   },
+   {
+    "quote": "説明資料 | 製品情報 | パルステック工業株式会社",
+    "url": "https://www.pulstec.co.jp/product/document/",
+    "pass": 1
+   },
+   {
+    "quote": "ポータブル型X線残留応力測定装置 | 製品情報 | パルステック工業株式会社",
+    "url": "https://www.pulstec.co.jp/product/x-ray/",
+    "pass": 1
+   },
+   {
+    "quote": "世界で初めてcosα法の製品化に成功し、小型・軽量・高速・高精度・低価格を実現した装置です",
+    "url": "https://www.pulstec.co.jp/product/x-ray/",
+    "pass": 1
+   },
+   {
+    "quote": "X線単結晶方位測定装置 | 製品情報 | パルステック工業株式会社",
+    "url": "https://www.pulstec.co.jp/product/laue/",
+    "pass": 1
+   },
+   {
+    "quote": "高速波面センサ | 製品情報 | パルステック工業株式会社",
+    "url": "https://www.pulstec.co.jp/product/optical_other/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器製造／ヘルスケア | 製品情報 | パルステック工業株式会社",
+    "url": "https://www.pulstec.co.jp/product/medical_healthcare/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は創業以来、最新の技術、優秀なエンジニアそして斬新なアイデアをもって、需要先の要求への対応と社会の発展に貢献できる製品づくりを目指してきました",
+    "url": "https://www.pulstec.co.jp/ir/guide/",
+    "pass": 1
+   },
+   {
+    "quote": "それぞれが抱える開発・生産工程上の課題を解消することが当社の使命であると認識し、高品質・低価格製品の提供を追求し続け、それぞれの需要先ニーズに適合した幅広い製品群を開発・提供してきました",
+    "url": "https://www.pulstec.co.jp/ir/guide/",
+    "pass": 1
+   },
+   {
+    "quote": "・エンジニアが開発と生産に兼任で携わることにより、高付加価値製品を創出する",
+    "url": "https://www.pulstec.co.jp/ir/guide/",
+    "pass": 1
+   },
+   {
+    "quote": "主要な取扱製品は、ポータブル型Ｘ線残留応力測定装置、ヘルスケア・医療関連機器の受託開発及び受託製造、光ディスク関連の評価及び検査等を行う機器・装置、非接触３次元スキャナのほか、顧客仕様に基づく計測・制御・データ処理等を行う専用機器・装置であります",
+    "url": "https://www.pulstec.co.jp/ir/guide/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、株主に対する利益還元を経営の重要課題の一つと位置付け、業績に応じて安定的な配当を継続して行うとともに、内部留保資金は、事業のさらなる拡大・発展を図るため、新規事業の創出、新製品・新技術の開発、生産・研究開発用設備等に充当することを基本方針としております",
+    "url": "https://www.pulstec.co.jp/ir/guide/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、工業製品が存在する限り「計測」することはなくならないと考えています",
+    "url": "https://www.pulstec.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の強みである光波センシング技術を駆使し、測定・評価・検査等の領域において、これからも、お客様の要望に応える製品を開発するとともに、お客様に選ばれ続ける製品を提供することにより、多くの皆様に期待され必要とされ続ける企業であることを目指してまいります",
+    "url": "https://www.pulstec.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "パルステック工業株式会社は、「創意と工夫をもって新しい価値を創造し、社会の発展に貢献する」を企業理念として掲げ、電子機器の開発・製造に関する事業活動、製品およびサービスを通じて、社会との信頼関係を深め、「美しい地球を未来に」をスローガンとして全社員の総意をもって「環境との調和」の実現に努める",
+    "url": "https://www.pulstec.co.jp/company/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "4. 環境に調和した技術、製品の開発に努める",
+    "url": "https://www.pulstec.co.jp/company/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "ＲｏＨＳ指令、お客様独自の化学物質規制に適合した製品開発を行っております",
+    "url": "https://www.pulstec.co.jp/company/environment/",
+    "pass": 1
+   },
+   {
+    "quote": "●RoHS指令(電気・電子機器における特定有害物質の使用制限)に適合した製品開発",
+    "url": "https://www.pulstec.co.jp/company/sdgs/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dスキャナ | 製品情報 | パルステック工業株式会社",
+    "url": "https://www.pulstec.co.jp/product/3d-scanner/",
+    "pass": 1
+   },
+   {
+    "quote": "工業製品(家電、楽器他)の三次元計測",
+    "url": "https://www.pulstec.co.jp/product/3d-scanner/",
+    "pass": 1
+   },
+   {
+    "quote": "光応用製品 OPTICAL APPLICATION MEASUREMENT",
+    "url": "https://www.pulstec.co.jp/pdf/pamphlet_pr.pdf?10",
+    "pass": 2
+   },
+   {
+    "quote": "光ディスク分野で培った光波センシング技術を活用し、様々な光応用製品を提案します",
+    "url": "https://www.pulstec.co.jp/pdf/pamphlet_pr.pdf?10",
+    "pass": 2
+   },
+   {
+    "quote": "製品開発製造の流れ 設計、製造、品質保証までワンストップ対応",
+    "url": "https://www.pulstec.co.jp/pdf/pamphlet_pr.pdf?10",
+    "pass": 2
+   },
+   {
+    "quote": "臨床検査機器ODM(受託開発・製造) 医療機器クラス| 製品のPMDA届出実績",
+    "url": "https://www.pulstec.co.jp/pdf/pamphlet_pr.pdf?10",
+    "pass": 2
+   },
+   {
+    "quote": "既製品では対応困難な省力化機器や検査設備などを数多く手掛け、",
+    "url": "https://www.pulstec.co.jp/pdf/pamphlet_pr.pdf?10",
+    "pass": 2
+   },
+   {
+    "quote": "今まで培ってきた要素技術を複合することにより自社開発した製品であり、",
+    "url": "https://www.pulstec.co.jp/pdf/pamphlet_pr.pdf?10",
+    "pass": 2
+   },
+   {
+    "quote": "パルステック工業の製品情報一覧 - indexPro",
+    "url": "https://www.indexpro.co.jp/SearchProduct/182",
+    "pass": 3
+   },
+   {
+    "quote": "小型カメラの採用によりPWS-1000と比べ、さらに小型･軽量・低価格を実現し、既存製品への組み込みも一層容易になりました",
+    "url": "http://pulstec.co.jp/product/",
+    "pass": 3
+   },
+   {
+    "quote": "テクノロジーを用いた製品の開発及び販売を行っている",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%82%B9%E3%83%86%E3%83%83%E3%82%AF%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "測定器は、Cosα法を用いた製品化が世界初となり、高精度・低コストでの残留応力測定が実現された",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%82%B9%E3%83%86%E3%83%83%E3%82%AF%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "に至る光ディスク検査装置や光ピックアップ評価装置を製造し、国内外の企業に製品を販売・",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%82%B9%E3%83%86%E3%83%83%E3%82%AF%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、光ディスク市場が縮小する中、同社は保有する光学技術と研究開発力を活用し、新たな製品分野への展開を図る",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%82%B9%E3%83%86%E3%83%83%E3%82%AF%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "主催の「精密工学会ものづくり賞」などで、当社の製品が受賞し、高い評価を得ている",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%82%B9%E3%83%86%E3%83%83%E3%82%AF%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "製品・研究開発（建築・土木・プラント・設備）",
+    "url": "https://ja.nc-net.or.jp/company/61292/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "「測る」ことは工業製品が存在する限り消えない",
+    "url": "https://note.com/tanabot/n/n219c799f5433",
+    "pass": 3
+   },
+   {
+    "quote": "料理人が味見をせずに料理を出せないように、工業製品において「計測」は避けては通れない、絶対的な工程である",
+    "url": "https://note.com/tanabot/n/n219c799f5433",
+    "pass": 3
+   },
+   {
+    "quote": "そしてこれらの製品は他の会社も作っているのだろうか",
+    "url": "https://note.com/tanabot/n/n219c799f5433",
+    "pass": 3
+   },
+   {
+    "quote": "研究所向けのニッチな製品であり、今後も成長見込みはないと考えた方が良さそうです",
+    "url": "https://note.com/capital_democra/n/nd73d1c64ca01",
+    "pass": 3
+   },
+   {
+    "quote": "製品の一つに、X線を使って金属表面の残留応力を測る装置があります",
+    "url": "https://note.com/wakulabo_/n/nf5508ed8c052",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、対象に触れず、壊さずに測定するX線回折の技術を製品にしています",
+    "url": "https://note.com/wakulabo_/n/nf5508ed8c052",
+    "pass": 3
+   },
+   {
+    "quote": "主な製品分野：X線残留応力測定装置などの計測・検査装置",
+    "url": "https://note.com/wakulabo_/n/nf5508ed8c052",
+    "pass": 3
+   },
+   {
+    "quote": "「測る」は、製品について判断できる根拠を増やす仕事でもあると考えます",
+    "url": "https://note.com/wakulabo_/n/nf5508ed8c052",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "樹脂埋め、鏡面研磨等の前工程が不要な硬化層深さ測定装置！",
+    "url": "https://www.pulstec.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "X線回折を用いた鋼材の品質評価・歯車運用に伴う材質変化・残存寿命予測",
+    "url": "https://www.pulstec.co.jp/product/webinar/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂埋め、鏡面研磨等の前処理工程の工数削減できます",
+    "url": "https://www.pulstec.co.jp/product/x-ray/",
+    "pass": 1
+   },
+   {
+    "quote": "熱処理による焼入ムラの評価(樹脂埋め検査工程の削減)",
+    "url": "https://www.pulstec.co.jp/product/x-ray/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂理め、鏡面研磨等の前工程が不要な硬化層深さ測定装置!",
+    "url": "https://www.pulstec.co.jp/pdf/pamphlet_pr.pdf?10",
+    "pass": 2
+   },
+   {
+    "quote": "熱処理による焼入ムラの評価(樹脂埋め検査工程の削減)",
+    "url": "https://www.pulstec.co.jp/pdf/pamphlet_pr.pdf?10",
+    "pass": 2
+   },
+   {
+    "quote": "◆樹脂埋め、鏡面研磨等の前処理工程の工数削減",
+    "url": "https://www.pulstec.co.jp/pdf/hardness_eye.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "樹脂への埋め込み、",
+    "url": "https://www.pulstec.co.jp/pdf/hardness_eye.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "樹脂埋め、鏡面研磨等の前工程が不要な硬化層深さ測定装置！",
+    "url": "http://pulstec.co.jp/product/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "医療機器製造業許可証の交付を受け医療・臨床研究検査機器などの受託開発から試作、OEM生産等お客様の幅広いニーズに対応できます",
+    "url": "https://www.pulstec.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "解決困難な課題、特注設備、共同開発、技術者派遣なとどお客様のニーズに合わせ、",
+    "url": "https://www.pulstec.co.jp/pdf/pamphlet_pr.pdf?10",
+    "pass": 2
+   },
+   {
+    "quote": "医療機器製造業許可証の交付を受け医療・臨床研究検査機器などの受託開発から試作、OEM生産等お客様の幅広いニーズに対応できます",
+    "url": "http://pulstec.co.jp/product/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "医療機器製造業許可証の交付を受け医療・臨床研究検査機器などの受託開発から試作、OEM生産等お客様の幅広いニーズに対応できます",
+    "url": "https://www.pulstec.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "FSCANを搭載した手術ナビゲーションシステムの医療認可取得",
+    "url": "https://www.pulstec.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "μ-X360n用揺動治具を開発",
+    "url": "https://www.pulstec.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "医療分野における品質マネジメントシステムの国際標準規格",
+    "url": "https://www.pulstec.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "μ-X360s用3軸揺動治具を開発",
+    "url": "https://www.pulstec.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "汎用ロボットを用いたμ-X360s 3軸揺動測定システムを開発",
+    "url": "https://www.pulstec.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "汎用ロボットを用いたμ-X360s 電磁鋼板用マッピングシステムを開発",
+    "url": "https://www.pulstec.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "ポータブル型Ⅹ線残留応力測定装置\"μ-X360s\"を搭載したロボットによる残留応力マッピングシステムを開発",
+    "url": "https://www.pulstec.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタで造形された医療用デバイスの医療への適応紹介",
+    "url": "https://www.pulstec.co.jp/product/webinar/",
+    "pass": 1
+   },
+   {
+    "quote": "輸送用機器(鉄道、自動車、船舶、飛行機など)、軸受け、鉄鋼、重機、電力関係、表面改質など幅広い産業分野",
+    "url": "https://www.pulstec.co.jp/product/x-ray/",
+    "pass": 1
+   },
+   {
+    "quote": "小型・軽量であり、インライン検査やロボットによる全数検査にも対応可能です",
+    "url": "https://www.pulstec.co.jp/product/x-ray/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器製造／ヘルスケア | 製品情報 | パルステック工業株式会社",
+    "url": "https://www.pulstec.co.jp/product/medical_healthcare/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の需要先は、家電・輸送用機器・精密機械・半導体・化学・繊維・医療等多岐にわたっています",
+    "url": "https://www.pulstec.co.jp/ir/guide/",
+    "pass": 1
+   },
+   {
+    "quote": "主要な取扱製品は、ポータブル型Ｘ線残留応力測定装置、ヘルスケア・医療関連機器の受託開発及び受託製造、光ディスク関連の評価及び検査等を行う機器・装置、非接触３次元スキャナのほか、顧客仕様に基づく計測・制御・データ処理等を行う専用機器・装置であります",
+    "url": "https://www.pulstec.co.jp/ir/guide/",
+    "pass": 1
+   },
+   {
+    "quote": "「X線残留応力測定装置」は、自動車や輸送機器を中心に社会生活に必要なモノの計測に使われ、「ヘルスケア装置」は、体外診断を中心とした健康福祉に必要な計測に使われ、「光応用・特殊機器装置」は、産業に必要な製造装置や検査装置として様々なモノの計測に使われています",
+    "url": "https://www.pulstec.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "ロボットビジョンや専用計測システムなど、多様な場面で活用いただけます",
+    "url": "https://www.pulstec.co.jp/product/3d-scanner/",
+    "pass": 1
+   },
+   {
+    "quote": "ロボットでピッキングするための対象物の三次元形状を計測",
+    "url": "https://www.pulstec.co.jp/product/3d-scanner/",
+    "pass": 1
+   },
+   {
+    "quote": "溶接ロボットに取り付けて、溶接対象物の位置情報を三次元計測し溶接位置を補正",
+    "url": "https://www.pulstec.co.jp/product/3d-scanner/",
+    "pass": 1
+   },
+   {
+    "quote": "CADデータとの違いを把握するため、現場で金型成形品を三次元計測",
+    "url": "https://www.pulstec.co.jp/product/3d-scanner/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車、軸受け、鉄鋼、重機、鉄道、電力関係、表面改納など幅広い",
+    "url": "https://www.pulstec.co.jp/pdf/pamphlet_pr.pdf?10",
+    "pass": 2
+   },
+   {
+    "quote": "診断薬/医療機器メーカーとのコラボレーション",
+    "url": "https://www.pulstec.co.jp/pdf/pamphlet_pr.pdf?10",
+    "pass": 2
+   },
+   {
+    "quote": "医療機器への適用実績を背景に安定した検出性能を実現します",
+    "url": "https://www.pulstec.co.jp/pdf/pamphlet_pr.pdf?10",
+    "pass": 2
+   },
+   {
+    "quote": "臨床検査機器ODM(受託開発・製造) 医療機器クラス| 製品のPMDA届出実績",
+    "url": "https://www.pulstec.co.jp/pdf/pamphlet_pr.pdf?10",
+    "pass": 2
+   },
+   {
+    "quote": "・光学設計ソフト:ZEMAX、OSLO 産業用ロボット技術 [設計ツール]",
+    "url": "https://www.pulstec.co.jp/pdf/pamphlet_pr.pdf?10",
+    "pass": 2
+   },
+   {
+    "quote": "設備 ・産業用ロボット教示等…49名 FPGA開発ツール",
+    "url": "https://www.pulstec.co.jp/pdf/pamphlet_pr.pdf?10",
+    "pass": 2
+   },
+   {
+    "quote": "・マッハツェンダー型千渉計 ・産業用ロボット検査等…21名 Vivado Design Suite, Altera",
+    "url": "https://www.pulstec.co.jp/pdf/pamphlet_pr.pdf?10",
+    "pass": 2
+   },
+   {
+    "quote": "ーー ーー 6二直多関節ロボット CO",
+    "url": "https://www.pulstec.co.jp/pdf/pamphlet_pr.pdf?10",
+    "pass": 2
+   },
+   {
+    "quote": "医療機器製造業許可証の交付を受け医療・臨床研究検査機器などの受託開発から試作、OEM生産等お客様の幅広いニーズに対応できます",
+    "url": "http://pulstec.co.jp/product/",
+    "pass": 3
+   },
+   {
+    "quote": "FSCANを搭載した手術ナビゲーションシステムの医療認可取得",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%82%B9%E3%83%86%E3%83%83%E3%82%AF%E5%B7%A5%E6%A5%AD",
+    "pass": 3
+   },
+   {
+    "quote": "どれほど高度なロボットも、どれほど速い電気自動車も、その部品が「正しく作られているか」を測ることができなければ、ただの鉄の塊に過ぎない",
+    "url": "https://note.com/tanabot/n/n219c799f5433",
+    "pass": 3
+   },
+   {
+    "quote": "製造業の現場で培われた精度が、今度は医療やヘルスケアの分野にも関連している",
+    "url": "https://note.com/tanabot/n/n219c799f5433",
+    "pass": 3
+   },
+   {
+    "quote": "・輸送用機器(鉄道、自動車、船舶、飛行機など)、軸受け、鉄鋼、重機、電力関係、表面改質など幅広い産業分野",
+    "url": "https://note.com/capital_democra/n/nd73d1c64ca01",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "\"PAMS3000\"",
+    "url": "https://www.pulstec.co.jp/company/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3D積層造形体における残留応力の形成とその制御",
+    "url": "https://www.pulstec.co.jp/product/webinar/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3D積層造形法は、新たな力学特性制御ツールである！これは、同法の溶融池やその近傍の特徴的な熱履歴によるものである",
+    "url": "https://www.pulstec.co.jp/product/webinar/",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、この熱履歴は、残留応力を発達させ、造形精度や特性劣化を引き起こす",
+    "url": "https://www.pulstec.co.jp/product/webinar/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3Dプリンタで造形された医療用デバイスの医療への適応紹介",
+    "url": "https://www.pulstec.co.jp/product/webinar/",
+    "pass": 1
+   },
+   {
+    "quote": "溶接・積層造形・各種ピーニングによる残留応力分布の測定",
+    "url": "https://www.pulstec.co.jp/product/webinar/",
+    "pass": 1
+   },
+   {
+    "quote": "耐熱合金製3D造形体の残留応力と耐久性評価",
+    "url": "https://www.pulstec.co.jp/product/webinar/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター",
+    "url": "https://www.pulstec.co.jp/product/webinar/",
+    "pass": 1
+   },
+   {
+    "quote": "SIAM DENSO MANUFACTURING",
+    "url": "https://www.pulstec.co.jp/company/customer/",
+    "pass": 1
+   },
+   {
+    "quote": "UNIVERSITY OF ALABAMA(USA)",
+    "url": "https://www.pulstec.co.jp/company/customer/",
+    "pass": 1
+   },
+   {
+    "quote": ":Undcrstand ・3Dプリンター活用技術検定保有者",
+    "url": "https://www.pulstec.co.jp/pdf/pamphlet_pr.pdf?10",
+    "pass": 2
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "● フリーメールアドレスでのお申込みは対象外とさせていただきますので、予めご了承ください",
+    "url": "https://www.pulstec.co.jp/product/webinar/",
+    "pass": 1
+   },
+   {
+    "quote": "ウェビナーに関するお問合せは、下記メールアドレス「ウェビナー担当」宛にお願いいたします",
+    "url": "https://www.pulstec.co.jp/product/webinar/",
+    "pass": 1
+   },
+   {
+    "quote": "すべてのプロセスにおける結果のご連絡は、お電話もしくはE-mail、書面にてご連絡させていただきます",
+    "url": "https://www.pulstec.co.jp/recruit/career/",
+    "pass": 1
+   },
+   {
+    "quote": "NON-CONTACT SURFACE HARDNESS VARIATION SCANNER",
+    "url": "https://www.pulstec.co.jp/pdf/pamphlet_pr.pdf?10",
+    "pass": 2
+   },
+   {
+    "quote": "E-mail : sales@pulstec.co.jp",
+    "url": "https://www.pulstec.co.jp/pdf/mura_r.pdf?4",
+    "pass": 2
+   },
+   {
+    "quote": "会社全般についてのお問い合わせ | お問い合わせ | パルステック工業株式会社",
+    "url": "http://pulstec.co.jp/contact/other/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - パルステック工業 株式会社 静岡県 浜松市浜名区",
+    "url": "https://ja.nc-net.or.jp/company/61292/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "パルステック工業 株式会社へのお問い合わせ",
+    "url": "https://ja.nc-net.or.jp/company/61292/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "当社からの連絡に必要な電子メールアドレスを用意してそのアドレスを当社に対して登録すること",
+    "url": "https://ja.nc-net.or.jp/company/61292/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、会員に対し、会員が登録情報として提供した電子メールアドレス宛に電子メールにより随時必要な事項の通知または連絡を行うものとします",
+    "url": "https://ja.nc-net.or.jp/company/61292/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "かかる連絡は、通常電子メールが到達する期間が経過した時に会員に到達したものとします",
+    "url": "https://ja.nc-net.or.jp/company/61292/inquiry/input/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "パルステック工業の製品情報一覧 - indexPro — パルステック工業の製品情報や代理店・取扱店に関するページです。 電子部品、産業部品、アプリケーション製品を探すなら国内約4500社の情報を収録している日本最大の電子・産業部品ポータルサイトindexProにお任せください。",
+    "url": "https://www.indexpro.co.jp/SearchProduct/182",
+    "pass": 3
+   },
+   {
+    "quote": "パルステック工業株式会社 エレクトロニクス技術、精密機械技術、光学... — 製品情報TOP PULSTEC VIDEO TECHNICAL DOCUMENT パルステックウェビナー ポータブル型 X線残留応力測定装置 熱処理硬化層深さ測定装置 非接触硬さムラスキャナ X線単結晶方位測定装置 波面センサ レンズユニット波面計測システム 医療機器製造／ ヘルスケア 計測 ...",
+    "url": "https://www.pulstec.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "製品情報 | パルステック工業株式会社 — 医療機器製造／ ヘルスケア DVDやBlu-rayなどの光ディスク分野で培った先端要素技術 (電気、機構、ソフト、光学)を応用展開！ 医療機器製造業許可証の交付を受け医療・臨床研究検査機器などの受託開発から試作、OEM生産等お客様の幅広いニーズに対応でき ...",
+    "url": "http://pulstec.co.jp/product/",
+    "pass": 3
+   },
+   {
+    "quote": "パルステック工業の製品・サービス一覧｜イプロスものづくり — Mar 2, 2026 · 「ポータブル型X線残留応力測定装置」や「蛍光検出ヘッド」は、今まで培ってきた要素技術を複合することにより自社開発した製品であり、各方面から高い評価を得ています。",
+    "url": "https://mono.ipros.com/company/detail/2029750/category/",
+    "pass": 3
+   },
+   {
+    "quote": "パルステック工業のカタログ一覧 | イプロスものづくり — Mar 2, 2026 · 「ポータブル型X線残留応力測定装置」や「蛍光検出ヘッド」は、今まで培ってきた要素技術を複合することにより自社開発した製品であり、各方面から高い評価を得ています。",
+    "url": "https://mono.ipros.com/company/detail/2029750/catalog/",
+    "pass": 3
+   },
+   {
+    "quote": "パルステック工業 - Wikipedia — パルステック工業 ... パルステック工業株式会社 （パルステックこうぎょう、 英: PULSTEC INDUSTRIAL CO., LTD.）は、 光 関連の検査機器を主とした電子機器の製造および販売を手がける企業。 光に関する高い技術力を持ち、特に 光ディスク 分野を得意とする [1]。",
+    "url": "https://ja.wikipedia.org/wiki/パルステック工業",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 会社情報 | パルステック工業株式会社 — 会社概要 | 会社情報 | パルステック工業株式会社 エレクトロニクス技術、精密機械技術、光学技術等の最先端技術を駆使し、研究開発型企業として時代のニーズに応えます。",
+    "url": "https://www.pulstec.co.jp/company/guide/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | IR情報 | パルステック工業株式会社パルステック工業 - Wikipedia会社概要 | 株式会社PALTEKパルステック工業（6894）のプロフィール | 会社四季報オンラインパルステック工業（6894）の事業内容・業績｜平均年収624万円（電気機...パルステック工業はどんな会社？事業内容・企業データ｜電気機器 | 企... — わずか数名の自信家たちの楽観的挑戦からスタートしたパルステック。時代の流れとともに、社会の一躍を担う企業へと成長を遂げました。いつの時代にも技術者と技術者を支える同士によって、あらゆる可能性に挑戦してきた果敢なチャレンジ精神こそが、現在のパルステックを築き上げた礎だと確信しています。 私たちパルステックは、今後も精鋭のプロフェッショナル集団として、技術力勝負で新しい価値を創造し、限りない夢の実現に挑戦し続けます。 See full list o",
+    "url": "https://www.pulstec.co.jp/ir/guide/",
+    "pass": 3
+   },
+   {
+    "quote": "パルステック工業（6894）のプロフィール | 会社四季報オンライン — 13 hours ago · パルステック工業（6894）のプロフィール情報です。 「研究開発型で光技術活用した電子機器・装置製造、X線残留応力測定装置やヘルスケア装置注力」",
+    "url": "https://shikiho.toyokeizai.net/stocks/6894/corporate",
+    "pass": 3
+   },
+   {
+    "quote": "パルステック工業（6894）の事業内容・業績｜平均年収624万円（電気機... — Jun 18, 2026 · パルステック工業（6894）は電気機器の会社。 主な事業は光応用・特殊機器装置関連・X線残留応力測定装置関連。 2026年3月期は売上26億円・営業利益4億円、平均年収624万円（電気機器210社の中で160位）。 事業内容と業績を有価証券報告書の数字で図解。",
+    "url": "https://zukaikeizai.com/kaisha/6894/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | パルステック工業株式会社 — 採用情報 採用TOP 求める人物像 数字で見るPULSTEC 新卒採用 キャリア採用 先輩社員の声 採用FAQ 会社説明会/インターンシップ 採用についてのお問い合わせ",
+    "url": "https://www.pulstec.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "会社全般についてのお問い合わせ | お問い合わせ | パルステック工業... — 会社全般についてのお問い合わせ | お問い合わせ | パルステック工業株式会社 エレクトロニクス技術、精密機械技術、光学技術等の最先端技術を駆使し、研究開発型企業として時代のニーズに応えます。",
+    "url": "http://pulstec.co.jp/contact/other/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - パルステック工業 株式会社 静岡県 浜松市北区 — Nov 24, 2023 · サービスについて 会員サービスについて ホームページ制作 動画制作 メディア・リサーチ事業 メールマガジンの配信停止 NCネットワークについて 企業サイト 会社案内 NCネットワークが目指すもの 採用情報 会社案内 特定商取引に基づく表記 広告掲載 個人 ...",
+    "url": "https://ja.nc-net.or.jp/company/61292/inquiry/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【高配当株】パルステック工業（6894） ★3.3 光とX線で測る小さな技術... メンバー限定の掲示板 メンバー限定の記事 メンバー限定の会員証 活動期間に応じたバッジ 参加手続きへ ログイン #日本株 #NISA #企業分析 #個別株 #決算分析 #高配当株 #決算短信 #パルステック工業 チップで応援 AIによる個別株情報分析室 フォロー",
+    "url": "https://note.com/pocoa_420/n/nfa014aba9992",
+    "pass": 3
+   },
+   {
+    "quote": "パルステック工業 (6894)「株100銘柄投資実験 - 19/100」： 何をして... Feb 10, 2026 · そこでふと考えた。 私たちが「結局、何をしているのかよくわからない」と首を傾げるような地味な企業こそ、実は誰にも見つかっていない宝箱なのではないか。 今回見つけた「パルステック工業 (6894)」という社名も、その一つである。",
+    "url": "https://note.com/tanabot/n/n219c799f5433",
+    "pass": 3
+   },
+   {
+    "quote": "第50回：企業分析22：パルステック工業｜capital_democra May 4, 2025 · ニッチな企業を見つけたので、投資対象にすべきか？を分析してみます。 1。事業内容 ・基本的には測定機器のメーカーです。 ・X線残留応力測定や、熱処理硬化層深さ測定などと、読んだだけでは意味が分からないニッチな測定装置のようです。 出所：企業HP 使用用途としては、色々な所で ...",
+    "url": "https://note.com/capital_democra/n/nd73d1c64ca01",
+    "pass": 3
+   },
+   {
+    "quote": "金属にも、見た目では分からない「力の残り方」がある 浜松市浜名区のパルステック工業は、計測・検査に関わる装置を手がける会社です。 製品の一つに、X線を使って金属表面の残留応力を測る装置があります。 残留応力は、外からの力を取り去ったあとも材料に残る応力のこと。",
+    "url": "https://note.com/wakulabo_/n/nf5508ed8c052",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【高配当株】パルステック工業（6894） ★3.3 光とX線で測る小さな技術企業の実力｜AIによる個別株情報分析室",
+    "url": "https://note.com/pocoa_420/n/nfa014aba9992",
+    "pass": 3
+   },
+   {
+    "quote": "【高配当株】パルステック工業（6894） ★3.3 光とX線で測る小さな技術企業の実力",
+    "url": "https://note.com/pocoa_420/n/nfa014aba9992",
+    "pass": 3
+   },
+   {
+    "quote": "本稿は 有償の生成AIを活用して作成したレポートです。掲載データは企業 IR 資料などをもとにまとめました。必ず元データもご確認ください。10年以上の長期投資を前提に評価するよう、2026年6月に評価基準を見直しております。",
+    "url": "https://note.com/pocoa_420/n/nfa014aba9992",
+    "pass": 3
+   },
+   {
+    "quote": "本ページをご覧いただき、ありがとうございます。実験的に始めた記事作成ですが、10万件を超える閲覧をいただいており、想定以上の反響に驚いております。",
+    "url": "https://note.com/pocoa_420/n/nfa014aba9992",
+    "pass": 3
+   },
+   {
+    "quote": "AIサービス利用料以外にも記事の作成や維持の時間的コストが大きく、継続するか悩んでいるところがありまして、モチベーション維持のためにもご支援いただけると大変助かります。",
+    "url": "https://note.com/pocoa_420/n/nfa014aba9992",
+    "pass": 3
+   },
+   {
+    "quote": "今後作成する記事について、一定割合をメンバー限定にしていきます。",
+    "url": "https://note.com/pocoa_420/n/nfa014aba9992",
+    "pass": 3
+   },
+   {
+    "quote": "過去掲載記事が増えてきて閲覧が難しくなってきましたので、過去の全記事について、一覧表示と絞り込みができるページもご利用いただけます（掲示板をご覧ください）",
+    "url": "https://note.com/pocoa_420/n/nfa014aba9992",
+    "pass": 3
+   },
+   {
+    "quote": "ある銘柄の記事を更新した場合、古い記事は順次削除しますのでご了承ください。プラン内容は手探りなところがあり、今後、内容の変更や再構成を行う可能性があります。",
+    "url": "https://note.com/pocoa_420/n/nfa014aba9992",
+    "pass": 3
+   },
+   {
+    "quote": "パルステック工業 (6894)「株100銘柄投資実験 - 19/100」： 何をしているか分かりにくいBtoB企業って割安になりがちじゃない？ | 株を勉強して1年で100銘柄買ったら、人生が変わった.｜Tanabot",
+    "url": "https://note.com/tanabot/n/n219c799f5433",
+    "pass": 3
+   },
+   {
+    "quote": "パルステック工業 (6894)「株100銘柄投資実験 - 19/100」： 何をしているか分かりにくいBtoB企業って割安になりがちじゃない？ | 株を勉強して1年で100銘柄買ったら、人生が変わった...",
+    "url": "https://note.com/tanabot/n/n219c799f5433",
+    "pass": 3
+   },
+   {
+    "quote": "この記事を開いてくださりありがとうございます。「この1年で100銘柄の株を実際に買う」という、無謀とも言える実験を続けている初心者投資家の\"Tanabot\"です。",
+    "url": "https://note.com/tanabot/n/n219c799f5433",
+    "pass": 3
+   },
+   {
+    "quote": "株式投資を始めてから、私の毎日は少しだけ奇妙なものになった。以前なら素通りしていた経済ニュースに出てくる企業名に注意が向く。この1年で100銘柄の株を買うという実験も今は19番目の門の前に立っている。",
+    "url": "https://note.com/tanabot/n/n219c799f5433",
+    "pass": 3
+   },
+   {
+    "quote": "投資の世界には、派手な主役たちが溢れている。誰もが知るコーヒーチェーンや、最先端のスマートフォンを作る企業。それらは確かに魅力的だ。知っている。普通に生きていれば誰でも。そんな企業はたいてい割高の指標になっていることが多い。",
+    "url": "https://note.com/tanabot/n/n219c799f5433",
+    "pass": 3
+   },
+   {
+    "quote": "そこでふと考えた。私たちが「結局、何をしているのかよくわからない」と首を傾げるような地味な企業こそ、実は誰にも見つかっていない宝箱なのではないか。今回見つけた「",
+    "url": "https://note.com/tanabot/n/n219c799f5433",
+    "pass": 3
+   },
+   {
+    "quote": "バフェットへの挑戦：自分の理解の範囲を広げる",
+    "url": "https://note.com/tanabot/n/n219c799f5433",
+    "pass": 3
+   },
+   {
+    "quote": "いつか記事にしようと思っているのだが、投資の神様、ウォーレン・バフェットの本を読んだ。その中には「自分の理解できる範囲に投資せよ」と説いている部分がある。私はこれを「自分の身の回りにある商品を買え」という風に解釈していた。",
+    "url": "https://note.com/tanabot/n/n219c799f5433",
+    "pass": 3
+   },
+   {
+    "quote": "第50回：企業分析22：パルステック工業｜capital_democra",
+    "url": "https://note.com/capital_democra/n/nd73d1c64ca01",
+    "pass": 3
+   },
+   {
+    "quote": "ニッチな企業を見つけたので、投資対象にすべきか？を分析してみます。",
+    "url": "https://note.com/capital_democra/n/nd73d1c64ca01",
+    "pass": 3
+   },
+   {
+    "quote": "・X線残留応力測定や、熱処理硬化層深さ測定などと、読んだだけでは意味が分からないニッチな測定装置のようです。",
+    "url": "https://note.com/capital_democra/n/nd73d1c64ca01",
+    "pass": 3
+   },
+   {
+    "quote": "使用用途としては、色々な所で必要なようです。",
+    "url": "https://note.com/capital_democra/n/nd73d1c64ca01",
+    "pass": 3
+   },
+   {
+    "quote": "・輸送用機器(鉄道、自動車、船舶、飛行機など)、軸受け、鉄鋼、重機、電力関係、表面改質など幅広い産業分野",
+    "url": "https://note.com/capital_democra/n/nd73d1c64ca01",
+    "pass": 3
+   },
+   {
+    "quote": "・加工後の寸法変化、溶接部の亀裂、熱処理の割れ、処理後の強度不足などの課題解決",
+    "url": "https://note.com/capital_democra/n/nd73d1c64ca01",
+    "pass": 3
+   },
+   {
+    "quote": "・工程改善、品質管理、歩留まり向上、設備の耐久性の把握、インフラなどの余寿命診断など",
+    "url": "https://note.com/capital_democra/n/nd73d1c64ca01",
+    "pass": 3
+   },
+   {
+    "quote": "ということで、ニッチですが、ニーズはあるらしいという感じです。",
+    "url": "https://note.com/capital_democra/n/nd73d1c64ca01",
+    "pass": 3
+   },
+   {
+    "quote": "金属にも、見た目では分からない「力の残り方」がある｜WAKULABO 静岡｜街とはたらくの探究",
+    "url": "https://note.com/wakulabo_/n/nf5508ed8c052",
+    "pass": 3
+   },
+   {
+    "quote": "金属にも、見た目では分からない「力の残り方」がある",
+    "url": "https://note.com/wakulabo_/n/nf5508ed8c052",
+    "pass": 3
+   },
+   {
+    "quote": "WAKULABO 静岡｜街とはたらくの探究",
+    "url": "https://note.com/wakulabo_/n/nf5508ed8c052",
+    "pass": 3
+   },
+   {
+    "quote": "つるりとした金属部品。見た目が同じでも、加工などのあとに残る力の状態まで同じとは限りません。その違いを、どうやって確かめるのでしょうか。",
+    "url": "https://note.com/wakulabo_/n/nf5508ed8c052",
+    "pass": 3
+   },
+   {
+    "quote": "浜松市浜名区のパルステック工業は、計測・検査に関わる装置を手がける会社です。製品の一つに、X線を使って金属表面の残留応力を測る装置があります。",
+    "url": "https://note.com/wakulabo_/n/nf5508ed8c052",
+    "pass": 3
+   },
+   {
+    "quote": "残留応力は、外からの力を取り去ったあとも材料に残る応力のこと。同社は、対象に触れず、壊さずに測定するX線回折の技術を製品にしています。金属の状態を数値で捉える、ものづくりのための道具です。",
+    "url": "https://note.com/wakulabo_/n/nf5508ed8c052",
+    "pass": 3
+   },
+   {
+    "quote": "本社：静岡県浜松市浜名区細江町中川7000-35",
+    "url": "https://note.com/wakulabo_/n/nf5508ed8c052",
+    "pass": 3
+   },
+   {
+    "quote": "売上高：24億9,911万円（単体・2026年3月期）",
+    "url": "https://note.com/wakulabo_/n/nf5508ed8c052",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "パルステック工業株式会社 2026年3月期 決算短信〔日本基準〕 (連結) ... 官報決算データベース (@kessan_db). 84 views. パルステック工業株式会社 2026年3月期 決算短信〔日本基準〕 (連結) 証券コード: 6894 売上高: 25億5300万円 (+2.7%) 営業利益: 3億5600万円 (+6.2%) 経常利益: 3億9600万円 (+12%) 親会社株主に帰属する当期純利益: 2億8500万円 ( 19.7%)",
+    "url": "https://x.com/kessan_db/status/2058192549932847211",
+    "pass": 3
+   },
+   {
+    "quote": "パルステック工業株式会社 2026年3月期 第3四半期決算短信〔日本基準... パルステック工業株式会社 2026年3月期 第3四半期決算短信〔日本基準〕 (連結) 証券コード: 6894 売上高: 16億3,200万円 (+1.7%) 営業利益: 2億100万円 (+33%) 経常利益: 2億2,900万円 (+29.9%) 親会社株主に帰属する四半期純利益: 1億5,900万円 (+45.3%)",
+    "url": "https://x.com/kessan_db/status/2020459336309379459",
+    "pass": 3
+   },
+   {
+    "quote": "パルステック工業、中期経営計画を策定 MARR Online事務局 (@MARR_Online). 104 views. パルステック工業、中期経営計画を策定",
+    "url": "https://x.com/MARR_Online/status/2054479595299275068",
+    "pass": 3
+   },
+   {
+    "quote": "はけんまーじんりつ on X: \"パルステック工業株式会社 所在地: 静岡県... パルステック工業株式会社 所在地: 静岡県浜松市北区細江町中川7000番地の35 マージン率: 56.6％ 派遣料金の平均額: 77,500円 賃金の平均額: 33,616円 202503時点 #浜松市 #派遣会社 #派遣マージン率 #パルステック工業 #静岡県 13 Oct 2026 07:57:44",
+    "url": "https://x.com/hakenmarginrate/status/2109916481043734796",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "パルステック工業株式会社 | Hamamatsu-shi Shizuokaパルステック工業株式会社 - 【お知らせ】パルステックウェビナー開催...パルステック工業株式会社 - 【お知らせ】「第40回素形材産業技術賞」...パルステック工業株式会社 - 【お知らせ】パルステックウェビナー開催...パルステック工業株式会社 - 【お知らせ】パルステックウェビナー開催...パルステック工業株式会社 - 【お知らせ】パルステックウェビナー大成...パルステック工業株式会社 - 【お知らせ】環境美化活動を実施しました... Jun 1, 2026 · パルステック工業株式会社, Hamamatsu. 145 likes · 1 talking about this · 2 were here. パルステック工業株式会社の公式Facebookです。 製品情報や技術TipsなどHPとは違った角度から皆",
+    "url": "https://www.facebook.com/PULSTEC/",
+    "pass": 3
+   },
+   {
+    "quote": "パルステック工業株式会社 - 【お知らせ】「第40回素形材産業技術賞」... Nov 28, 2024 · https://www.pulstec.co.jp/product/webinar/ Reid Brooks and 3 others パルステック工業株式会社 Jan 22",
+    "url": "https://www.facebook.com/PULSTEC/posts/お知らせ第40回素形材産業技術賞を受賞しました一般財団法人素形材センターが主催する令和6年度-第40回素形材産業技術賞にて熱処理硬化層深さ測定装置hardnes/1113059200821366/",
+    "pass": 3
+   },
+   {
+    "quote": "パルステック工業株式会社 - 【お知らせ】パルステックウェビナー開催... Oct 29, 2025 · パルステック工業株式会社 - 【お知らせ】パルステックウェビナー開催のお知らせ！ 大好評！ 今回で19回目を迎えるパルステックウェビナー開催のお知らせ！ 無料でご自由に参加いただけます。",
+    "url": "https://www.facebook.com/PULSTEC/photos/お知らせパルステックウェビナー開催のお知らせ大好評今回で19回目を迎えるパルステックウェビナー開催のお知らせ無料でご自由に参加いただけます開催日時2025年11/1402531381874145/",
+    "pass": 3
+   },
+   {
+    "quote": "パルステック工業株式会社 - 【お知らせ】パルステックウェビナー大成... Mar 13, 2026 · パルステック工業株式会社 【お知らせ】パルステックウェビナー開催のお知らせ ！ 第21回パルステックウェビナーの案内です。 今回のウェビナーでは、大阪大学大学院 工学研究科の趙研先生をお招きし、 「金属3D積層造形体における残留応力の形成と ...",
+    "url": "https://www.facebook.com/PULSTEC/posts/お知らせパルステックウェビナー大成功311水に名古屋大学の田中啓介先生をお招きし第20回パルステックウェビナーを開催しましたlive配信のためお聞き苦しい点もあ/1518261653634450/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.pulstec.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/product/measuring_rental/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/company/guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/product/webinar/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/product/video/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/product/document/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/product/x-ray/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/product/laue/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/product/optical_other/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/product/medical_healthcare/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/ir/guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/company/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/company/customer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/company/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/company/health/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/company/sdgs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/company/event/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/recruit/fresh/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/recruit/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/product/3d-scanner/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.pulstec.co.jp/pdf/pamphlet_pr.pdf?10",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/pdf/keisoku_xray.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/pdf/hardness_eye.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/pdf/mura_r.pdf?4",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/pdf/slaue.pdf?3",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/pdf/mlaue.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/pdf/pws_1000.pdf?3",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/pdf/lucas.pdf?1",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/product/image/panel01.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/product/image/mx360j.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/product/image/hardnesseye.webp?1",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/product/image/murar.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/product/image/slaue.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/product/image/lucas.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/product/image/pws500.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/product/image/pws1000.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/product/image/lc1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/product/image/keikou.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/product/image/pcr.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.pulstec.co.jp/product/measuring_rental/image/panel01.webp?2",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.indexpro.co.jp/SearchProduct/182",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://pulstec.co.jp/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AB%E3%82%B9%E3%83%86%E3%83%83%E3%82%AF%E5%B7%A5%E6%A5%AD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://pulstec.co.jp/contact/other/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.nc-net.or.jp/company/61292/inquiry/input/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/pocoa_420/n/nfa014aba9992",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tanabot/n/n219c799f5433",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/capital_democra/n/nd73d1c64ca01",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/wakulabo_/n/nf5508ed8c052",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/kessan_db/status/2058192549932847211",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/kessan_db/status/2020459336309379459",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MARR_Online/status/2054479595299275068",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hakenmarginrate/status/2109916481043734796",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/PULSTEC/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/PULSTEC/posts/お知らせ第40回素形材産業技術賞を受賞しました一般財団法人素形材センターが主催する令和6年度-第40回素形材産業技術賞にて熱処理硬化層深さ測定装置hardnes/1113059200821366/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/PULSTEC/photos/お知らせパルステックウェビナー開催のお知らせ大好評今回で19回目を迎えるパルステックウェビナー開催のお知らせ無料でご自由に参加いただけます開催日時2025年11/1402531381874145/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/PULSTEC/posts/お知らせパルステックウェビナー大成功311水に名古屋大学の田中啓介先生をお招きし第20回パルステックウェビナーを開催しましたlive配信のためお聞き苦しい点もあ/1518261653634450/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "パルステック工業 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.indexpro.co.jp/SearchProduct/182",
+    "https://www.pulstec.co.jp/",
+    "http://pulstec.co.jp/product/",
+    "https://mono.ipros.com/company/detail/2029750/category/",
+    "https://mono.ipros.com/company/detail/2029750/catalog/",
+    "https://www.ipros.com/company/detail/2029750/catalog/",
+    "https://www.ipros.com/company/detail/2029750/category/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "パルステック工業 会社概要 事業内容",
+   "results": [
+    "https://ja.wikipedia.org/wiki/パルステック工業",
+    "https://www.pulstec.co.jp/company/guide/",
+    "https://www.pulstec.co.jp/ir/guide/",
+    "https://shikiho.toyokeizai.net/stocks/6894/corporate",
+    "https://zukaikeizai.com/kaisha/6894/",
+    "https://kigyobunseki.jp/companies/ityxn7/",
+    "https://www.paltek.co.jp/corp/profile/index.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "パルステック工業 お問い合わせ メール",
+   "results": [
+    "https://www.pulstec.co.jp/contact/",
+    "http://pulstec.co.jp/contact/other/",
+    "https://ja.nc-net.or.jp/company/61292/inquiry/",
+    "https://www.paltac.co.jp/contact/",
+    "https://www.paltek.co.jp/inquiry/index.html",
+    "https://www.parco.co.jp/contact/",
+    "https://www.taiyo-ltd.co.jp/inquiry/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com パルステック工業",
+   "results": [
+    "https://note.com/pocoa_420/n/nfa014aba9992",
+    "https://note.com/tanabot/n/n219c799f5433",
+    "https://note.com/capital_democra/n/nd73d1c64ca01",
+    "https://note.com/wakulabo_/n/nf5508ed8c052",
+    "https://note.com/tanabot/n/nd0795a108c51",
+    "https://note.com/tatsuya_sabato/n/n17f2a60f2127",
+    "https://note.com/tatsuya_sabato/n/n17f2a60f2127?hl=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com パルステック工業",
+   "results": [
+    "https://x.com/kessan_db/status/2058192549932847211",
+    "https://x.com/kessan_db/status/2020459336309379459",
+    "https://x.com/MARR_Online/status/2054479595299275068",
+    "https://x.com/hakenmarginrate/status/2109916481043734796",
+    "https://help.x.com/en/using-x",
+    "https://x.com/kabutie_jp/status/2046206242079814020",
+    "https://business.x.com/en/advertising"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com パルステック工業",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com パルステック工業",
+   "results": [
+    "https://www.facebook.com/PULSTEC/",
+    "https://www.facebook.com/PULSTEC/posts/お知らせ第40回素形材産業技術賞を受賞しました一般財団法人素形材センターが主催する令和6年度-第40回素形材産業技術賞にて熱処理硬化層深さ測定装置hardnes/1113059200821366/",
+    "https://www.facebook.com/PULSTEC/photos/お知らせパルステックウェビナー開催のお知らせ大好評今回で19回目を迎えるパルステックウェビナー開催のお知らせ無料でご自由に参加いただけます開催日時2025年11/1402531381874145/",
+    "https://www.facebook.com/PULSTEC/posts/お知らせパルステックウェビナー大成功311水に名古屋大学の田中啓介先生をお招きし第20回パルステックウェビナーを開催しましたlive配信のためお聞き苦しい点もあ/1518261653634450/",
+    "https://www.facebook.com/PULSTEC/posts/お知らせ環境美化活動を実施しました秋の交通安全街頭指導にあわせ歩行者が安全に通行できるように環境美化活動を実施しました歩道の草取りには26人が参加し草ごみ22袋/1704250035035610/",
+    "https://www.facebook.com/PULSTEC/posts/お知らせパルステックウェビナー開催のお知らせ第21回パルステックウェビナーの案内です今回のウェビナーでは大阪大学大学院-工学研究科の趙研先生をお招きし金属3d積/1644568417670439/",
+    "https://www.facebook.com/PULSTEC/posts/お知らせパルステックウェビナー開催のお知らせ第20回パルステックウェビナーの案内ですおかげさまで20回を迎えることができました今回は長年にわたり材料強度学および/1504203421706940/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "パルステック工業 note 社長",
+   "results": [
+    "https://kigyo-scope.jp/company/6894/ceo/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://kitaishihon.com/company/6894/board-of-director",
+    "https://j-lic.com/companies/6894/directors",
+    "https://compalyze.co.jp/company/5080401004455",
+    "https://www.nikkei.com/article/DGXZQOCC188K90Y4A110C2000000/",
+    "https://the-shashi.com/tse/6894/ceo/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "パルステック工業 X 投稿",
+   "results": [
+    "https://ja.wikipedia.org/wiki/パルステック工業",
+    "https://finance.yahoo.co.jp/quote/6894.T/post",
+    "https://www.pulstec.co.jp/",
+    "https://www.pulstec.co.jp/recruit/voice/",
+    "https://x.com/SilverPalace_JA/status/2118553965961068657",
+    "https://x.com/Palnotee/status/2118296843285373194",
+    "https://finance.yahoo.co.jp/cm/search?type=thread&query=パルステック+工業+x"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "取引先": "記載なし（3回確認済み：公式24頁／PDF・画像20件／外部17頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式24頁／PDF・画像20件／外部17頁・検索9回）"
+ }
+}

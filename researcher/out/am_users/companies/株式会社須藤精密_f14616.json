@@ -1,0 +1,546 @@
+{
+ "name": "株式会社須藤精密",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T13:06:30.645776+00:00",
+ "official_url": "http://www.sudo-precise.co.jp",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "私たち「須藤精密」は、半導体関連の超精密治工具から大物金型部品まで常に高品質な製品をお届けしています",
+    "url": "https://www.sudo-precise.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品 | 精密機械加工・微細穴加工の須藤精密",
+    "url": "https://www.sudo-precise.co.jp/products",
+    "pass": 1
+   },
+   {
+    "quote": "既存顧客への見積りや納品、製品の梱包作業などが主な業務内容で、ノルマや飛込み営業はほとんど有りません",
+    "url": "https://www.sudo-precise.co.jp/recruit",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス(4)",
+    "url": "https://mono.ipros.com/company/detail/2008870/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (4)",
+    "url": "https://mono.ipros.com/company/detail/2008870/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社須藤精密 製品紹介「半田ボール搭載治具」",
+    "url": "https://mono.ipros.com/company/detail/2008870/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社須藤精密 製品紹介「精密機械加工部品」",
+    "url": "https://mono.ipros.com/company/detail/2008870/",
+    "pass": 3
+   },
+   {
+    "quote": "長年培ってきた多様な技術と豊富な経験を最新技術と融合し、お客様に信頼される製品を設計・製作しています",
+    "url": "https://www.mizuho-phantom.com/member/sudou/",
+    "pass": 3
+   },
+   {
+    "quote": "各企業が集まることで、試作1個から、横連携で行う製品開発・一括発注まで柔軟に対応が可能です",
+    "url": "https://www.mizuho-phantom.com/member/sudou/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "長年にわたり少量多品種な試作部品の加工を行ってきた実績を基に、近年では恒温工場を新設し精密微細穴加工やチタン等の難削材加工にも注力しております",
+    "url": "https://www.sudo-precise.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "長年にわたり少量多品種である試作部品の加工を行ってきた実績を基に、近年では恒温工場を新設し精密微細穴加工やチタン等の難削材加工にも注力しています",
+    "url": "https://www.sudo-precise.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "一般鋼材、アルミ、ステンレス、 チタン、超硬、セラミック、 各種エンプラなど",
+    "url": "https://www.sudo-precise.co.jp/products",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ、ステンレス、チタンなど",
+    "url": "https://www.sudo-precise.co.jp/products",
+    "pass": 1
+   },
+   {
+    "quote": "φ0.1mm以下の微細穴加工から1000mmの大型研磨加工、材質は鉄、アルミ、ステンレス、チタン、樹脂など各種対応可能です",
+    "url": "https://mono.ipros.com/company/detail/2008870/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "長年にわたり少量多品種な試作部品の加工を行ってきた実績を基に、近年では恒温工場を新設し精密微細穴加工やチタン等の難削材加工にも注力しております",
+    "url": "https://www.sudo-precise.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "長年にわたり少量多品種である試作部品の加工を行ってきた実績を基に、近年では恒温工場を新設し精密微細穴加工やチタン等の難削材加工にも注力しています",
+    "url": "https://www.sudo-precise.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "試作：φ 0.05mm ／量産：φ 0.08mm",
+    "url": "https://www.sudo-precise.co.jp/products",
+    "pass": 1
+   },
+   {
+    "quote": "試作：0.15mm（ボール径：φ 0.1）",
+    "url": "https://www.sudo-precise.co.jp/products",
+    "pass": 1
+   },
+   {
+    "quote": "精密機械加工・微細穴加工部品を一貫体制で試作から量産まで対応します",
+    "url": "https://mono.ipros.com/company/detail/2008870/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造装置向けの治工具や医療機器部品など、主に精密機械加工部品の試作から量産までを行っています",
+    "url": "https://mono.ipros.com/company/detail/2008870/",
+    "pass": 3
+   },
+   {
+    "quote": "各企業が集まることで、試作1個から、横連携で行う製品開発・一括発注まで柔軟に対応が可能です",
+    "url": "https://www.mizuho-phantom.com/member/sudou/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "私たち須藤精密は半世紀にわたり日本の半導体業界を支えてきました",
+    "url": "https://www.sudo-precise.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "スマートフォンやゲーム機の中にある半導体は私たちの仕事があるからこそ実現できる",
+    "url": "https://www.sudo-precise.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は創業以来、主に半導体製造関連の治工具・精密機械加工部品を製造しております",
+    "url": "https://www.sudo-precise.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "私たち「須藤精密」は、半導体関連の超精密治工具から大物金型部品まで常に高品質な製品をお届けしています",
+    "url": "https://www.sudo-precise.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "長年培ったノウハウと最新の加工設備により、 半導体製造用の精密治工具から大型金型部品まで設計、製造いたします",
+    "url": "https://www.sudo-precise.co.jp/products",
+    "pass": 1
+   },
+   {
+    "quote": "1. 半導体製造関連冶工具の設計、製造、販売",
+    "url": "https://www.sudo-precise.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "2. 金型及び精密機械部品の設計、製造、販売",
+    "url": "https://www.sudo-precise.co.jp/company",
+    "pass": 1
+   },
+   {
+    "quote": "須藤精密は、創業時から半導体業界に携わってきました",
+    "url": "https://www.sudo-precise.co.jp/recruit",
+    "pass": 1
+   },
+   {
+    "quote": "今後も顧客である半導体業界は安定した成長が見込まれますので、そこで一緒に活躍してくれる仲間を探しています！",
+    "url": "https://www.sudo-precise.co.jp/recruit",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置向けの治工具や医療機器部品など、主に精密機械加工部品の試作から量産までを行っています",
+    "url": "https://mono.ipros.com/company/detail/2008870/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造関連冶工具の設計、製造、販売",
+    "url": "https://mono.ipros.com/company/detail/2008870/",
+    "pass": 3
+   },
+   {
+    "quote": "金型及び精密機械部品の設計、製造、販売",
+    "url": "https://mono.ipros.com/company/detail/2008870/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社須藤精密 製品紹介「半田ボール搭載治具」",
+    "url": "https://mono.ipros.com/company/detail/2008870/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造関連の治工具・精密機械加工部品の設計・製作",
+    "url": "https://www.mizuho-phantom.com/member/sudou/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造関連の超精密治工具から大物金型部品まで設計・製作",
+    "url": "https://www.mizuho-phantom.com/member/sudou/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造用の治工具をはじめとする精密機械加工部品の設計から量産までを行っています",
+    "url": "https://www.mizuho-phantom.com/member/sudou/",
+    "pass": 3
+   },
+   {
+    "quote": "非常に高い加工精度が要求される半田ボール搭載治具を製作しています",
+    "url": "https://www.mizuho-phantom.com/member/sudou/",
+    "pass": 3
+   },
+   {
+    "quote": "これはＢＧＡ（ＩＣ部品）製造時に、φ０．２～０．３㎜程度の半田ボールを真空吸着するために用いられる治具です",
+    "url": "https://www.mizuho-phantom.com/member/sudou/",
+    "pass": 3
+   },
+   {
+    "quote": "検査治具（半導体用ソケット）の微細穴明け加工も可能です",
+    "url": "https://www.mizuho-phantom.com/member/sudou/",
+    "pass": 3
+   },
+   {
+    "quote": "ダイボンディングやワイヤーボンディング時に使用されるコレットやステージ、押え治具、搬送時に用いられる高精度トレイなどを製作しています",
+    "url": "https://www.mizuho-phantom.com/member/sudou/",
+    "pass": 3
+   },
+   {
+    "quote": "・超微細穴明け加工 例：ハンダボール搭載治具(穴径φ0.05mm、アスペクト比１０)",
+    "url": "https://www.mizuho-phantom.com/member/sudou/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "履歴書・職務経歴書による書類選考（メール送付）",
+    "url": "https://www.sudo-precise.co.jp/recruit",
+    "pass": 1
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "月 - 金: 9.00am -5.00pm",
+    "url": "https://www.mizuho-phantom.com/member/sudou/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "精密機械加工・微細穴加工の 須藤精密 : ホーム — 精密機械加工・微細穴加工の 須藤精密 : ホーム sudo-precise.co.jp https://www.sudo-precise.co.jp",
+    "url": "https://www.sudo-precise.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "須藤精密 | 企業情報 | イプロスものづくり — 須藤精密 | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 機械要素・部品",
+    "url": "https://mono.ipros.com/company/detail/2008870/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 須藤精密 - 瑞穂ファントム工場 — 株式会社 須藤精密 - 瑞穂ファントム工場 瑞穂ファントム工場 https://www.mizuho-phantom.com > 参加企業一覧",
+    "url": "https://www.mizuho-phantom.com/member/sudou/",
+    "pass": 3
+   },
+   {
+    "quote": "須藤精密 | 企業 情報 | イプロスものづくり — 須藤精密 | 企業 情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 機械要素・部品",
+    "url": "https://mono.ipros.com/company/detail/2008870/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 須藤精密 の 会社概要 ・製品情報 - Metoree — 株式会社 須藤精密 の 会社概要 ・製品情報 - Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/5577/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 精密機械加工・微細穴加工の 須藤精密 — 会社概要 | 精密機械加工・微細穴加工の 須藤精密 sudo-precise.co.jp https://www.sudo-precise.co.jp > company",
+    "url": "https://www.sudo-precise.co.jp/company",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社須藤精密 の採用・求人 情報 -engage - エンゲージ — 株式 会社須藤精密 の採用・求人 情報 -engage - エンゲージ エンゲージ https://en-gage.net > sudo-precise_saiyo",
+    "url": "https://en-gage.net/sudo-precise_saiyo/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社須藤精密 （瑞穂町） - 東京都企業立地相談センター — 株式 会社須藤精密 （瑞穂町） - 東京都企業立地相談センター 東京都企業立地相談センター https://www.ilsc.metro.tokyo.lg.jp > voice",
+    "url": "https://www.ilsc.metro.tokyo.lg.jp/voice/001.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | 精密機械加工・微細穴加工の 須藤精密 — お問い合わせ | 精密機械加工・微細穴加工の 須藤精密 sudo-precise.co.jp https://www.sudo-precise.co.jp > contact",
+    "url": "https://www.sudo-precise.co.jp/contact",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sudo-precise.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sudo-precise.co.jp/products",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sudo-precise.co.jp/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sudo-precise.co.jp/technique",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sudo-precise.co.jp/equipment-list",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sudo-precise.co.jp/recruit",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/company/detail/2008870/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mizuho-phantom.com/member/sudou/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2008870/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/5577/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2008870/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mizuho-phantom.com/member/sudou/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "須藤精密 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.sudo-precise.co.jp/",
+    "https://mono.ipros.com/company/detail/2008870/",
+    "https://www.mizuho-phantom.com/member/sudou/",
+    "https://www.zen.co.jp/",
+    "https://injection-lab.com/download/1955-2.html",
+    "https://ja.nc-net.or.jp/company/84780/",
+    "https://mfg-hack.com/plastic/10134/",
+    "https://www.tnksanwa.co.jp/media/detail.html?id=3348",
+    "https://www.youtube.com/watch?v=rL1D8Ah3h3g",
+    "https://www.sudo-precise.co.jp/products"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "須藤精密 会社概要 事業内容",
+   "results": [
+    "https://mono.ipros.com/company/detail/2008870/",
+    "https://metoree.com/companies/5577/",
+    "https://www.sudo-precise.co.jp/company",
+    "https://en-gage.net/sudo-precise_saiyo/",
+    "https://www.ilsc.metro.tokyo.lg.jp/voice/001.html",
+    "https://www.symphony-r1902.jp/pf/sdo_smt_brief/",
+    "https://ja.nc-net.or.jp/company/84780/",
+    "https://shachomeikan.jp/industry_article/3651",
+    "https://sudo-seisakusho.com/company/profile/",
+    "https://www.sudo-precise.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "須藤精密 お問い合わせ メール",
+   "results": [
+    "https://www.sudo-precise.co.jp/contact",
+    "https://mono.ipros.com/company/detail/2008870/",
+    "https://www.mizuho-phantom.com/member/sudou/",
+    "https://sudo-seisakusho.com/inquiry/",
+    "https://www.sutoh-works.co.jp/contact",
+    "https://ja.nc-net.or.jp/company/84780/",
+    "https://www.ilsc.metro.tokyo.lg.jp/voice/001.html",
+    "https://baseconnect.in/companies/dc770878-7ee3-42f7-8e3b-b8e86ee17416",
+    "https://sudo-ew.co.jp/contact.html",
+    "https://www.sudo-precise.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com 須藤精密",
+   "results": [
+    "https://note.com/nice_hare524/n/ndf72ed6676fe",
+    "https://note.com/nice_hare524/n/n17a64b8e482f",
+    "https://note.com/fm_de/n/n6c7b2b6bf9ed",
+    "https://note.com/zipangu_boy/n/n9c946426b275",
+    "https://note.com/nice_hare524/n/n3fae01c1dbf3",
+    "https://note.com/kazumachiba/n/nf7d13e995fc1",
+    "https://note.com/brave_pipit4027/n/n367da8eb99d5",
+    "https://note.com/shogokuroda/n/nd2d5fe1aa7e3",
+    "https://note.com/mono2310/n/n06de48f45772",
+    "https://note.com/hsmark"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com 須藤精密",
+   "results": [
+    "https://x.com/SUTOH_KIKAI",
+    "https://x.com/Me_No3196/status/876419879984693248",
+    "https://x.com/morisawa1040/status/2112816304419975266",
+    "https://x.com/sutominoru",
+    "https://x.com/intent/retweet?tweet_id=2104403220194078739&utm_source=yjrealtime&utm_medium=search",
+    "https://x.com/jimin_koho/status/2066456893581877630",
+    "https://x.com/ice8leaves/status/2112812355730235817",
+    "https://x.com/UTokyo_Bioeng",
+    "https://x.com/tadataka_s",
+    "https://x.com/HexagonScrew/status/2071698564666057044"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com 須藤精密",
+   "results": [
+    "https://cn.linkedin.com/in/%E7%BE%8E%E7%8E%B2-%E4%B8%9B%EF%BC%88%E5%8F%A2%EF%BC%89-201780187",
+    "https://jp.linkedin.com/in/%E4%B8%80%E8%A1%8C-%E9%A0%88%E8%97%A4-84824b17b",
+    "https://jp.linkedin.com/in/sudo-seiya",
+    "https://jp.linkedin.com/in/%E5%93%B2%E4%B9%9F-%E9%A0%88%E8%97%A4-38b793147",
+    "https://www.linkedin.com/pub/dir/%E5%B2%B3%E5%A4%AB/+",
+    "https://www.linkedin.com/pub/dir/Tetsuya/+/cn-0-China",
+    "https://jp.linkedin.com/in/morihiro-koyama-7572a179",
+    "https://www.linkedin.com/pub/dir/%E9%A0%86%E5%AD%90/+/jp-7687-Within-23-wards,-Tokyo,-Japan",
+    "https://jp.linkedin.com/in/ttsubouchi"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com 須藤精密",
+   "results": [
+    "https://www.facebook.com/tokyoilsc/posts/%E9%83%BD%E5%86%85%E4%BC%81%E6%A5%AD%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BCvol2%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E6%96%87%E6%98%9F%E9%96%A3%E5%A4%A7%E7%94%B0%E5%8C%BA%E7%92%B0%E5%A2%83%E5%AF%BE%E5%BF%9C%E5%8D%B0%E5%88%B7%E3%81%AE%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BC%E9%83%BD%E5%BF%83%E3%81%AB%E3%81%82%E3%82%8B%E3%81%93%E3%81%A8%E3%81%A7%E9%AB%98%E7%94%9F%E7%94%A3%E6%80%A7%E3%82%92%E3%81%91%E3%82%93%E5%BC%95%E3%81%97%E6%8E%A1%E7%94%A8%E3%81%AB%E3%83%97%E3%83%A9%E3%82%B9%E8%A8%98%E4%BA%8B%E5%85%A8%E6%96%87%E3%81%AF%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E6%AC%84%E3%81%AE%E3%83%AA%E3%83%B3%E3%82%AF%E3%81%8B%E3%82%89/1718836096911974/",
+    "https://www.facebook.com/tokyoilsc/",
+    "https://www.facebook.com/100064841531437/posts/%E6%9C%AC%E7%95%AA%E3%81%BE%E3%81%A7%E3%81%82%E3%81%A815-%E6%97%A5%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%B8%8Eorchestra-il-nesso%E5%BA%83%E5%A0%B1%E3%81%AE%E9%A6%AC%E5%A0%B4%E3%81%A7%E3%81%99%E3%81%A4%E3%81%84%E3%81%AB%E6%BC%94%E5%A5%8F%E4%BC%9A%E3%81%BE%E3%81%A7%E6%AE%8B%E3%82%8A%E7%B4%842%E9%80%B1%E9%96%93%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E3%81%A8%E3%81%84%E3%81%86%E3%82%8F%E3%81%91%E3%81%A7%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7%E8%AC%8E%E3%81%AB%E3%81%A4%E3%81%A4%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%84%E3%81%9F/1794342320803153/",
+    "https://www.facebook.com/oakcorporation/posts/%E3%81%93%E3%82%93%E3%81%B0%E3%82%93%E3%81%AF%E5%B7%A5%E5%A0%B4%E3%81%AE%E3%81%84%E3%82%8D%E3%81%84%E3%82%8D%E7%B2%BE%E5%AF%86%E5%8A%A0%E5%B7%A5%E3%81%8C%E8%A6%81%E6%B1%82%E3%81%95%E3%82%8C%E3%82%8B%E3%83%A9%E3%83%B3%E3%83%97%E3%83%90%E3%83%AB%E3%83%96%E5%8A%A0%E5%B7%A5%E3%81%A7%E5%9F%B9%E3%81%A3%E3%81%9F%E6%8A%80%E8%A1%93%E3%82%92%E6%B4%BB%E3%81%8B%E3%81%97%E3%82%AC%E3%83%A9%E3%82%B9%E3%81%AE%E3%82%A4%E3%83%B3%E3%83%86%E3%83%AA%E3%82%A2%E3%82%82%E8%A3%BD%E9%80%A0%E3%81%97%E3%81%A6%E3%81%8A%E3%82%8A%E3%81%BE%E3%81%99%E3%82%AC%E3%83%A9%E3%82%B9%E7%B2%BE%E5%AF%86%E5%8A%A0%E5%B7%A5%E3%82%AC%E3%83%A9%E3%82%B9%E3%81%AE%E9%A6%99%E7%82%89%E3%82%B3%E3%83%B3%E3%83%81%E3%83%A5%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B9%E5%8A%A0/1595465759259751/",
+    "https://www.facebook.com/gallery.japan.art/posts/the-form-of-a-quiet-prayeryasunori-suto-lacquerwarelacquer-artist-yasunori-suto-/868340202789822/",
+    "https://www.facebook.com/shindoyoshitaka/posts/%E5%B7%9D%E5%8F%A3%E5%B8%82%E8%AD%B0%E4%BC%9A%E8%AD%B0%E5%93%A1%E9%81%B8%E6%8C%99%E8%87%AA%E6%B0%91%E5%85%9A%E6%8E%A8%E8%96%A6%E9%A0%88%E8%97%A4%E3%81%B2%E3%82%8D%E3%81%9F%E3%81%8B%E5%80%99%E8%A3%9C%E3%82%92%E5%BF%9C%E6%8F%B4%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E9%A0%88%E8%97%A4%E3%81%95%E3%82%93%E3%81%AF35%E6%89%8D%E7%8F%BE%E5%BD%B9%E3%81%AE%E5%B7%9D%E5%8F%A3%E9%9D%92%E5%B9%B4%E4%BC%9A%E8%AD%B0%E6%89%80%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E3%81%A7%E3%81%82%E3%82%8A%E8%87%AA%E6%B0%91%E5%85%9A%E5%B7%9D%E5%8F%A3%E6%94%AF%E9%83%A8%E3%81%AE%E5%85%AC%E5%8B%9F%E3%81%AB%E5%BF%9C%E5%8B%9F%E3%81%97%E3%81%A6%E3%81%8F%E3%82%8C%E3%81%9F%E6%96%B0%E4%BA%BA%E5%80%99%E8%A3%9C%E3%81%A7%E3%81%99%E6%88%B8/1651870551699965/",
+    "https://www.facebook.com/61578259940998/posts/%E3%81%8C%E3%82%93%E6%A4%9C%E8%A8%BA%E3%81%AE%E7%84%A1%E5%84%9F%E5%8C%96%EF%BC%92-%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%95%B7%E9%81%B8%E6%A8%AA%E6%B5%9C%E5%B8%82%E9%95%B7%E9%81%B8%E3%81%AF10%E6%9C%8818%E6%97%A5-%E5%AE%9F%E7%B8%BE-%E5%AD%90%E8%82%B2%E3%81%A6%E5%B1%B1%E4%B8%AD%E7%AB%B9%E6%98%A5/122198334578941998/",
+    "https://www.facebook.com/shimuraseiki/",
+    "https://www.facebook.com/archiphotonet/posts/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9so-il%E3%81%AE%E8%A8%AD%E8%A8%88%E3%81%A7%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF%E3%81%AB%E3%82%A4%E3%83%83%E3%82%BB%E3%82%A4%E3%83%9F%E3%83%A4%E3%82%B1%E3%81%AE%E6%96%B0%E6%97%97%E8%89%A6%E5%BA%97%E3%81%8C%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E5%A4%A7%E5%9E%8B%E3%82%AC%E3%83%A9%E3%82%B9%E3%82%92%E7%B2%BE%E5%AF%86%E5%8A%A0%E5%B7%A5%E3%81%97%E3%81%9F%E9%80%8F%E6%98%8E%E3%81%AE%E9%9A%8E%E6%AE%B5%E3%82%92%E5%82%99%E3%81%88%E6%AD%B4%E5%8F%B2%E7%9A%84%E3%81%AA%E6%A7%8B%E9%80%A0%E3%82%92%E9%87%91%E5%B1%9E%E7%B4%A0%E6%9D%90%E3%81%A7%E5%BC%95%E3%81%8D%E7%AB%8B%E3%81%A6%E3%82%8B%E7%A9%BA%E9%96%93%E3%82%92%E6%A7%8B%E7%AF%89%E5%BA%97/1550426183759764/",
+    "https://www.facebook.com/p/株式会社須藤精密-100063764193874/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "須藤精密 note 社長",
+   "results": [
+    "https://www.sudo-precise.co.jp/ceo",
+    "https://shachomeikan.jp/industry_article/3651",
+    "https://www.ilsc.metro.tokyo.lg.jp/voice/001.html",
+    "https://www.symphony-r1902.jp/pf/sdo_smt_brief/",
+    "https://mono.ipros.com/company/detail/2008870/",
+    "https://www.nikkan.co.jp/articles/view/717799",
+    "https://www.mizuho-phantom.com/member/sudou/",
+    "https://ja.nc-net.or.jp/company/84780/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://shachomeikan.jp/corporations/23859"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "須藤精密 X 投稿",
+   "results": [
+    "https://www.sudo-precise.co.jp/",
+    "https://en-gage.net/sudo-precise_saiyo/",
+    "https://www.mizuho-phantom.com/member/sudou/",
+    "https://www.symphony-r1902.jp/pf/sdo_smt_brief/",
+    "https://mono.ipros.com/company/detail/2008870/",
+    "https://ja.nc-net.or.jp/company/84780/",
+    "https://brandbuddyz.com/information/news-2/",
+    "https://www.nikkan.co.jp/articles/view/717799",
+    "https://www.sudo-precise.co.jp/products",
+    "https://x.com/S7_D8/status/2112513948260212798"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "所在地": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部6頁・検索9回）",
+  "事業内容": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部6頁・検索9回）",
+  "代表者": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部6頁・検索9回）",
+  "従業員数": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部6頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部6頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部6頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部6頁・検索9回）"
+ }
+}

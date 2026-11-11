@@ -1,0 +1,930 @@
+{
+ "name": "株式会社アオキ",
+ "aliases": [],
+ "context": "ipros_all:多品種",
+ "researched_at": "2026-11-11T13:31:17.106978+00:00",
+ "official_url": "http://www.aoki-maido.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "【本社工場】 〒577-0065 大阪府東大阪市高井田中5丁目7番3号 TEL：06-6781-5141　FAX：06-6781-3921",
+    "url": "https://aoki-maido.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役社長",
+    "value": "青木　理",
+    "url": "https://aoki-maido.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "取引先",
+    "value": "JAXA、エアバス・ヘリコプターズ・ジャパン㈱、㈱エイ・イー・エス、大阪大学、 （株）大塚製薬工場、（株）国際電気通信基礎研究所（ATR）、新明和工業（株）、住友精密工業（株）、ダイキン工業（株）、三菱重工業（株）、シャープ（株）",
+    "url": "https://aoki-maido.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "業務内容",
+    "value": "【1-1】製造(機械加工）：工作機械を使用しての金属部品加工作業 （マシニング経験者・ＣＡＤ／ＣＡＭ経験者優遇）※当社使用は、Mastercam 【1-2】製造(機械加工）：工作機械を使用しての金属部品加工作業・製品磨き・仕上 （未経験者可） 【2】製造(複合材）：航空機に使用される特殊な材料（複合材）の加工作業 【3】品質保証：現場で加工されたものを、測定機器を使用して計測、検査",
+    "url": "https://aoki-maido.co.jp/recruit/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "製品、工場見学、求人など、お気軽にご相談ください",
+    "url": "http://aoki-maido.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "技術に誇りを持ち、チームワークを大切にする仲間たちと共に、世界に誇る製品を生み出しませんか？",
+    "url": "https://aoki-maido.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様への最高の製品提供を目指し、従業員一同が協力し合い、業務にあたります",
+    "url": "https://aoki-maido.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "【1-2】製造(機械加工）：工作機械を使用しての金属部品加工作業・製品磨き・仕上",
+    "url": "https://aoki-maido.co.jp/recruit/",
+    "pass": 1
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "株式会社アオキは、金属部品切削加工、CFRP加工、品質保証、及び販売部門で、時代のニーズに即したモノづくりを目指しています",
+    "url": "http://aoki-maido.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新幹線、F-1、人工衛星などの宇宙関連の次世代材料として注目を集めているカーボンファイバー（CFRP）の加工",
+    "url": "https://aoki-maido.co.jp/services/",
+    "pass": 1
+   },
+   {
+    "quote": "（アルミニウム、チタニウム、ステンレス、難削材、CFRP複合材）",
+    "url": "https://aoki-maido.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ＢＯＥＩＮＧ社の複合材認定工場の認定を受ける",
+    "url": "https://aoki-maido.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ジェット旅客機B787の試作機、量産機部品（金属部品と複合材加工部品）を受注し、生産を開始する",
+    "url": "https://aoki-maido.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "仕事は複合材と呼ばれる材質を決められた大きさ、形にカットするだけ",
+    "url": "https://aoki-maido.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "おまけに当社が扱う複合材は特殊なものですから、端材ですら発注先に返品しないといけません",
+    "url": "https://aoki-maido.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "【2】製造(複合材）：航空機に使用される特殊な材料（複合材）の加工作業",
+    "url": "https://aoki-maido.co.jp/recruit/",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "空へ、宇宙へ、そして・・・",
+    "url": "http://aoki-maido.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社アオキには、誤差が許されない航空機部品製造で培った職人技が活かされています",
+    "url": "http://aoki-maido.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "輸液バッグ、ボトルの搬送パレット、医療機器、試作、開発部品",
+    "url": "https://aoki-maido.co.jp/services/",
+    "pass": 1
+   },
+   {
+    "quote": "航空機の翼胴フェアリングやドアで使用されるパネルの加工や接着",
+    "url": "https://aoki-maido.co.jp/services/",
+    "pass": 1
+   },
+   {
+    "quote": "新幹線、F-1、人工衛星などの宇宙関連の次世代材料として注目を集めているカーボンファイバー（CFRP）の加工",
+    "url": "https://aoki-maido.co.jp/services/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器、試作、量産、開発部品",
+    "url": "https://aoki-maido.co.jp/services/",
+    "pass": 1
+   },
+   {
+    "quote": "機械装置設計製造、航空機部品、精密部品、切削加工",
+    "url": "https://aoki-maido.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "宇宙関連、航空機関連、農業関連、医療関連、研究開発関連、自動車製造装置関連",
+    "url": "https://aoki-maido.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "東大阪宇宙関連開発研究会が設立し、青木豊彦が会長に就任する",
+    "url": "https://aoki-maido.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "宇宙航空研究開発機構（JAXA）との取引開始",
+    "url": "https://aoki-maido.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "航空機業界の特殊工程認定機関（PRI）からのNadcap認定を取得する",
+    "url": "https://aoki-maido.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "大阪市立大学と「医療コンソーシアム」を設立する",
+    "url": "https://aoki-maido.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "国際航空宇宙展に防衛装備庁ブース内で無人飛行機（VTOL)を出展",
+    "url": "https://aoki-maido.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ですが、航空機の部材ですから、1mmの狂いも許されません",
+    "url": "https://aoki-maido.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "【2】製造(複合材）：航空機に使用される特殊な材料（複合材）の加工作業",
+    "url": "https://aoki-maido.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "地域の健康をサポートするドラッグストアに調剤機能が不可欠という認識のもと、調剤薬局を展開し、医薬分業の進展に即応できる体制を構築するとともに、地域医療機関との提携を推進し、お客様から信頼を得られる企業を目指しています",
+    "url": "https://kusuri-aoki-hd.co.jp/company/business/",
+    "pass": 3
+   },
+   {
+    "quote": "クスリのアオキホールディングスは、医薬分業の担い手として医療機関から出される処方せんの調剤サービスを展開しています",
+    "url": "https://kusuri-aoki-hd.co.jp/company/business/",
+    "pass": 3
+   },
+   {
+    "quote": "医薬分業下の医療提供施設として、調剤したお薬だけではなく、一般用医薬品も含めた服薬指導、在宅患者様への訪問指導や介護のアドバイスなど、ドラッグストア併設調剤薬局に期待される役割は年々増えてきており、地域の患者様、お客様の求めるサービスを追求しています",
+    "url": "https://kusuri-aoki-hd.co.jp/company/business/",
+    "pass": 3
+   },
+   {
+    "quote": "医療機関の近隣ではなく、患者様の自宅や職場の近くに立地し、お買物にご利用いただいている店舗でお薬を受取ることができます",
+    "url": "https://kusuri-aoki-hd.co.jp/company/business/",
+    "pass": 3
+   },
+   {
+    "quote": "生活に密着した薬局で、複数の医療機関から幅広く処方せんを受付ける店舗となります",
+    "url": "https://kusuri-aoki-hd.co.jp/company/business/",
+    "pass": 3
+   },
+   {
+    "quote": "​2026年1月、アオキが打ち出したのが、悪名高き「買収防衛策（ポイズンピル）」の導入です",
+    "url": "https://note.com/tokalog/n/n2ad944bf65a4",
+    "pass": 3
+   },
+   {
+    "quote": "その上でさらに防衛策を敷くのは、外部からの正当な批判を封じ込め、少数株主の利益を無視する『創業家のための壁』だ」と",
+    "url": "https://note.com/tokalog/n/n2ad944bf65a4",
+    "pass": 3
+   },
+   {
+    "quote": "買収防衛策は正式に導入されることになります",
+    "url": "https://note.com/tokalog/n/n2ad944bf65a4",
+    "pass": 3
+   },
+   {
+    "quote": "​防衛策は可決されましたが、アオキの本当の戦いは今日から始まります",
+    "url": "https://note.com/tokalog/n/n2ad944bf65a4",
+    "pass": 3
+   },
+   {
+    "quote": "経営陣の公私混同の徹底追及や、取締役の解任請求、さらには法的手段による防衛策の無効化など、執拗な揺さぶりが予想されます",
+    "url": "https://note.com/tokalog/n/n2ad944bf65a4",
+    "pass": 3
+   },
+   {
+    "quote": "​アオキが内紛に揺れ、防衛にリソースを割いている間に、業界首位のウエルシアや、勢いづくツルハHDは、アオキの地盤である北陸や中部地方に刺客となる新店を次々と投入してくるでしょう",
+    "url": "https://note.com/tokalog/n/n2ad944bf65a4",
+    "pass": 3
+   },
+   {
+    "quote": "​買収防衛策は「ポイズンピル（毒薬）」と呼ばれます",
+    "url": "https://note.com/tokalog/n/n2ad944bf65a4",
+    "pass": 3
+   },
+   {
+    "quote": "🇯🇵株式市場の朝が変わる――10月1日、「半導体の熱」と「小売り決算」の交差点📅 2026年10月1日（木）🌸サクラの電車の中で株式投資",
+    "url": "https://money.note.com/companies/3549",
+    "pass": 3
+   },
+   {
+    "quote": "地方の住宅地を中心としたドミナント出店戦略を得意としており、調剤薬局の併設を進めることで地域医療のインフラとしての役割も担っています",
+    "url": "https://note.com/ready_fox3873/n/n23f285bda873",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "輸液バッグ、ボトルの搬送パレット、医療機器、試作、開発部品",
+    "url": "https://aoki-maido.co.jp/services/",
+    "pass": 1
+   },
+   {
+    "quote": "多品種小ロット生産、試作単品、量産試作",
+    "url": "https://aoki-maido.co.jp/services/",
+    "pass": 1
+   },
+   {
+    "quote": "開発試作、量産試作、不良低減、コスト削減に伴う部品加工の提案",
+    "url": "https://aoki-maido.co.jp/services/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器、試作、量産、開発部品",
+    "url": "https://aoki-maido.co.jp/services/",
+    "pass": 1
+   },
+   {
+    "quote": "現本社工場に【株式会社アオキ】と社名変更し移転すると共に【青木 豊彦】が二代目社長に就任するジェット旅客機B777の試作機、量産機部品を受注し、生産を開始する",
+    "url": "https://aoki-maido.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ジェット旅客機B787の試作機、量産機部品（金属部品と複合材加工部品）を受注し、生産を開始する",
+    "url": "https://aoki-maido.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "AM3330 X3050,Y330,Z300",
+    "url": "https://aoki-maido.co.jp/facilities/",
+    "pass": 1
+   },
+   {
+    "quote": "3D CAD/CAM",
+    "url": "https://aoki-maido.co.jp/facilities/",
+    "pass": 1
+   },
+   {
+    "quote": "（マシニング経験者・ＣＡＤ／ＣＡＭ経験者優遇）※当社使用は、Mastercam",
+    "url": "https://aoki-maido.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "https://www.pref.toyama.jp/1300/kensei/kouhou/houdou/2026/8gatu/20260828kusurinoaokikamikitazimaten.html",
+    "url": "https://note.com/shop_openwatch/n/n554240cac9a1",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "お電話、またはお問い合わせ画面よりご連絡ください",
+    "url": "https://aoki-maido.co.jp/recruit/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "事業概要 | 株式会社アオキ — 多品種小ロット生産、試作単品、量産試作。 航空機部品（複合材） 航空機の翼胴フェアリングやドアで使用されるパネルの加工や接着。 新幹線、F-1、人工衛星などの宇宙関連の次世代材料として注目を集めているカーボンファイバー（CFRP）の加工。",
+    "url": "https://aoki-maido.co.jp/services/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アオキ | 人工衛星打ち上げの夢を実現した切削加工技術力 — 事業概要 services 株式会社アオキは、金属部品切削加工、CFRP加工、品質保証、及び販売部門で、時代のニーズに即したモノづくりを目指しています。 詳しく見る",
+    "url": "http://aoki-maido.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "試作品 - アクリル加工・樹脂加工専門の株式会社アオキ工芸 — Nov 29, 2024 · 試作品 【取り外し可能な仕切り付き！】塩ビ製「小物入れ」試作品 2024年11月29日 aoki-kogei",
+    "url": "https://aoki-kogei.com/category/product-case/trial-product/",
+    "pass": 3
+   },
+   {
+    "quote": "アオキ製作株式会社 | 北海道 | 室蘭 | 先端技術を導入し、常に特色あ... — 工場で一貫して行っておりますので幅広い製品に対応が可能です。 50年以上の金属加工の経験・実績から培った熟練の技が、複雑な加工に対応します。 先端技術を導入し、常に特色ある製品づくりを展開しています。",
+    "url": "http://aoki-seisaku.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ナイトウェア・パジャマ、ルームウェアの縫製OEMメーカー｜株式会社ア... — 可能性を切り拓く。 株式会社アオキは総合縫製OEMメーカーとして営業、企画、製造、検査、管理の全部門が一体となり、トレーサビリティの確立、多品種・小ロット・短納期生産、コスト削減など、お客様が抱える課題解決に尽力します。",
+    "url": "https://kk-aoki.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容｜株式会社クスリのアオキホールディングス — 調剤薬局事業 PHARMACY 地域の健康をトータルで守る 「かかりつけ薬局」を 目指しています。 クスリのアオキホールディングスは、医薬分業の担い手として医療機関から出される処方せんの調剤サービスを展開しています。",
+    "url": "https://kusuri-aoki-hd.co.jp/company/business/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | アオキ株式会社 - aoki-g.jp会社概要 – あなたのまちのクスリのアオキ企業情報 | 株式会社AOKIホールディングス — 商号アオキ株式会社本社〒315-0027 [br-xs]茨城県石岡市杉並1-7-16TEL:0299-22-2226 (代) / FAX:0299-36-0022創業1895年 (明治28年)設立1948年 (昭和23年)資本金2,340万円代表 〒924-8510 石川県白山市横江町5180番地 株式会社AOKIホールディングスの企業情報をご覧いただけます。",
+    "url": "https://www.aoki-g.jp/aboutus/company_info/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ｜アオキ株式会社 - aoki-cojp.com — お問い合わせフォーム 下記に必要事項を入力の上、送信してください。 * 印は必須入力です。",
+    "url": "http://aoki-cojp.com/contact/index.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "クスリのアオキのオープン予定【2026年10月最新】新店・開店日一覧 Oct 15, 2026 · クスリのアオキの公式サイトには「新店オープン情報」のページがあり、オープン直前（前日ごろ）に新店・リニューアル店の情報が掲載されます。 一方、数か月先の予定は公式サイトには載らないため、この記事では次の情報を組み合わせて整理しました。",
+    "url": "https://note.com/shop_openwatch/n/n554240cac9a1",
+    "pass": 3
+   },
+   {
+    "quote": "クスリのアオキ「20年提携」の終焉と独裁への懸念。臨時株主総会で何... Feb 17, 2026 · 石川県白山市に本社を置くクスリのアオキホールディングス（以下、アオキ）の臨時株主総会です。 かつての盟友・イオンとの決別、そして「世界最強の物言う株主」オアシス・マネジメントとの全面対決。",
+    "url": "https://note.com/tokalog/n/n2ad944bf65a4",
+    "pass": 3
+   },
+   {
+    "quote": "クスリのアオキホールディングス（3549）最新株価・配当情報と今後の... クスリのアオキホールディングス（3549）の最新株価、配当情報、業績動向を徹底解説！ 今後の見通しや投資のポイントを専門家視点でわかりやすく紹介。 初心者から上級者まで役立つnoteの記事が満載！",
+    "url": "https://money.note.com/companies/3549",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年6月25日 クスリのアオキホールディングス】フード＆ドラッグ... Jun 25, 2026 · 2016年には持株会社体制へ移行し、「株式会社クスリのアオキホールディングス」を設立しました。 地方の住宅地を中心としたドミナント出店戦略を得意としており、調剤薬局の併設を進めることで地域医療のインフラとしての役割も担っています。",
+    "url": "https://note.com/ready_fox3873/n/n23f285bda873",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "クスリのアオキのオープン予定【2026年10月最新】新店・開店日一覧｜新店・閉店ウォッチャー",
+    "url": "https://note.com/shop_openwatch/n/n554240cac9a1",
+    "pass": 3
+   },
+   {
+    "quote": "クスリのアオキのオープン予定【2026年10月最新】新店・開店日一覧",
+    "url": "https://note.com/shop_openwatch/n/n554240cac9a1",
+    "pass": 3
+   },
+   {
+    "quote": "結論：クスリのアオキは2026年8〜9月だけで公式発表ベース14店舗を新規出店し、10月以降も東北・北陸・甲信・東海・四国で新店の計画が続いています。",
+    "url": "https://note.com/shop_openwatch/n/n554240cac9a1",
+    "pass": 3
+   },
+   {
+    "quote": "2026年10月15日時点で確認できる今後の出店予定は、大規模小売店舗立地法（大店立地法）の届出ベースで、2026年10月〜2027年2月に少なくとも12店舗あります。",
+    "url": "https://note.com/shop_openwatch/n/n554240cac9a1",
+    "pass": 3
+   },
+   {
+    "quote": "クスリのアオキの公式サイトには「新店オープン情報」のページがあり、",
+    "url": "https://note.com/shop_openwatch/n/n554240cac9a1",
+    "pass": 3
+   },
+   {
+    "quote": "オープン直前（前日ごろ）に新店・リニューアル店の情報が掲載",
+    "url": "https://note.com/shop_openwatch/n/n554240cac9a1",
+    "pass": 3
+   },
+   {
+    "quote": "されます。一方、数か月先の予定は公式サイトには載らないため、この記事では次の情報を組み合わせて整理しました。",
+    "url": "https://note.com/shop_openwatch/n/n554240cac9a1",
+    "pass": 3
+   },
+   {
+    "quote": "クスリのアオキ公式サイト「新店オープン情報」（オープン済み・直前の店舗）",
+    "url": "https://note.com/shop_openwatch/n/n554240cac9a1",
+    "pass": 3
+   },
+   {
+    "quote": "クスリのアオキ「20年提携」の終焉と独裁への懸念。臨時株主総会で何が決まったのか？｜トカ・ログの管理人さん",
+    "url": "https://note.com/tokalog/n/n2ad944bf65a4",
+    "pass": 3
+   },
+   {
+    "quote": "クスリのアオキ「20年提携」の終焉と独裁への懸念。臨時株主総会で何が決まったのか？",
+    "url": "https://note.com/tokalog/n/n2ad944bf65a4",
+    "pass": 3
+   },
+   {
+    "quote": "本日、2026年2月17日。ドラッグストア業界、延いては日本の上場企業のあり方を問う「運命の一日」が終わりました。石川県白山市に本社を置くクスリのアオキホールディングス（以下、アオキ）の臨時株主総会です。",
+    "url": "https://note.com/tokalog/n/n2ad944bf65a4",
+    "pass": 3
+   },
+   {
+    "quote": "​かつての盟友・イオンとの決別、そして「世界最強の物言う株主」オアシス・マネジメントとの全面対決。その舞台裏で何が起き、私たちの投資環境や消費生活にどう影響するのか。これまでの経緯と、最新の総会結果をどこよりも詳しく、熱くお届けします。",
+    "url": "https://note.com/tokalog/n/n2ad944bf65a4",
+    "pass": 3
+   },
+   {
+    "quote": "​1. 騒動の原点：なぜ「20年の絆」はゴミ箱に捨てられたのか？",
+    "url": "https://note.com/tokalog/n/n2ad944bf65a4",
+    "pass": 3
+   },
+   {
+    "quote": "​物語の始まりは、2003年に遡ります。まだ地方の一ドラッグストアチェーンに過ぎなかったアオキが、流通巨人イオンと資本業務提携を結んだあの日、業界は「理想的な共存共栄モデル」と称賛しました。地方の個性を活かしつつ、巨人のインフラを借りる。この戦略でアオキは北陸、信越、北関東へと一気に勢力を拡大しました。",
+    "url": "https://note.com/tokalog/n/n2ad944bf65a4",
+    "pass": 3
+   },
+   {
+    "quote": "​しかし、2026年の今、その絆は修復不可能なまでに崩壊しました。",
+    "url": "https://note.com/tokalog/n/n2ad944bf65a4",
+    "pass": 3
+   },
+   {
+    "quote": "​2025年後半、イオンが静かにアオキ株を買い増し、保有比率を10%超へ引き上げました。さらに、イオンが先行して子会社化したツルハホールディングスが保有するアオキ株を合わせると、実質的な影響力は15%に達しました。",
+    "url": "https://note.com/tokalog/n/n2ad944bf65a4",
+    "pass": 3
+   },
+   {
+    "quote": "クスリのアオキホールディングス（3549）株価・今後の見通し・予想｜noteマネー",
+    "url": "https://money.note.com/companies/3549",
+    "pass": 3
+   },
+   {
+    "quote": "注釈: 26/10 第1四半期の決算発表、26/7 通期の決算発表",
+    "url": "https://money.note.com/companies/3549",
+    "pass": 3
+   },
+   {
+    "quote": "クスリのアオキホールディングス（3549） ★3.1 食品と調剤の成長力、その利益の行方",
+    "url": "https://money.note.com/companies/3549",
+    "pass": 3
+   },
+   {
+    "quote": "【決算解説】クスリのアオキ（3549）が急騰！+18.9%のストップ高！1Q営業益＋16％――「食品を増やしても粗利が落ちない」決算の衝撃",
+    "url": "https://money.note.com/companies/3549",
+    "pass": 3
+   },
+   {
+    "quote": "クスリのアオキ（3549）がストップ高。「食品を売るドラッグストア」の決算を読む💊",
+    "url": "https://money.note.com/companies/3549",
+    "pass": 3
+   },
+   {
+    "quote": "「買い遅れた…」と焦ったら。クスリのアオキ急騰で考える、長期投資の買いどき",
+    "url": "https://money.note.com/companies/3549",
+    "pass": 3
+   },
+   {
+    "quote": "【10年連続増配】クスリのアオキホールディングス（3549）を8指標で分析したら6つクリアでした",
+    "url": "https://money.note.com/companies/3549",
+    "pass": 3
+   },
+   {
+    "quote": "【3549】クスリのアオキホールディングス｜2026年5月期決算レビュー｜積極出店で売上拡大、利益の質はどう変化したのか【KGS Research】",
+    "url": "https://money.note.com/companies/3549",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年6月25日 クスリのアオキホールディングス】フード＆ドラッグで挑む未来と市場変更の深層｜さささ",
+    "url": "https://note.com/ready_fox3873/n/n23f285bda873",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年6月25日 クスリのアオキホールディングス】フード＆ドラッグで挑む未来と市場変更の深層",
+    "url": "https://note.com/ready_fox3873/n/n23f285bda873",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社クスリのアオキホールディングスは、石川県白山市に本社を置くドラッグストア大手企業です。その歴史は非常に長く、1869年（明治2年）に「",
+    "url": "https://note.com/ready_fox3873/n/n23f285bda873",
+    "pass": 3
+   },
+   {
+    "quote": "」として創業したところから始まります。1985年に株式会社クスリのアオキを設立し、北陸地方を中心に近隣型小売業を展開してきました。2016年には持株会社体制へ移行し、「",
+    "url": "https://note.com/ready_fox3873/n/n23f285bda873",
+    "pass": 3
+   },
+   {
+    "quote": "地方の住宅地を中心としたドミナント出店戦略を得意としており、調剤薬局の併設を進めることで地域医療のインフラとしての役割も担っています。",
+    "url": "https://note.com/ready_fox3873/n/n23f285bda873",
+    "pass": 3
+   },
+   {
+    "quote": "同社の歴史において特記すべき最近の動向として、2026年6月19日付で東京証券取引所のプライム市場から「",
+    "url": "https://note.com/ready_fox3873/n/n23f285bda873",
+    "pass": 3
+   },
+   {
+    "quote": "」へ市場区分を変更したことが挙げかります。同時に、名古屋証券取引所のメイン市場へも重複上場を果たしました。プライム市場で求められる流通株式比率の基準達成が困難であったことを見極め、中長期的な成長や経営効率を優先するための前向きな経営判断とされていますが、市場では様々な議論を呼んでいます。",
+    "url": "https://note.com/ready_fox3873/n/n23f285bda873",
+    "pass": 3
+   },
+   {
+    "quote": "現在、同社が最も注力しているサービスおよび商品は、生鮮食品を大幅に強化した「",
+    "url": "https://note.com/ready_fox3873/n/n23f285bda873",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "アオキスーパー【公式】 (@AokiSuper_CoLtd) / X アオキスーパー公式アカウント キャンペーンやお得な情報をお届け！ コメントやDMには返信できません。 公式キャラクター #らこぽん 🦦 (CV: #矢野妃菜喜 さん)& #あおきみらい 🎶ちゃん (CV: #大西亜玖璃 さん)もよろしく💕YouTube youtube.com/@aokisuper-co",
+    "url": "https://x.com/AokiSuper_CoLtd",
+    "pass": 3
+   },
+   {
+    "quote": "アオキ ムラコ (@aokimurako) / X 2 802 26K アオキ ムラコ @aokimurako Nov 4 本当はキャップ被ってただろうな、とは思いつつノーセットヘアが描きたいというオタクのエゴで取らせていただきました ()",
+    "url": "https://x.com/aokimurako",
+    "pass": 3
+   },
+   {
+    "quote": "クスリのアオキ (@kusuri_aoki) / X クスリのアオキです！ @kusuri_aoki hasn’t posted When they do, their posts will show up here.",
+    "url": "https://x.com/kusuri_aoki",
+    "pass": 3
+   },
+   {
+    "quote": "アオキ ムラコ on X: \"公式投稿は無しよね…そうよね… \" Jun 17, 2026 · アオキ ムラコ @aokimurako Show translation 公式投稿は無しよね…そうよね…😭 3:07 PM · Jun 16, 2026 · 154.8K Views",
+    "url": "https://x.com/aokimurako/status/2066900489284067401",
+    "pass": 3
+   },
+   {
+    "quote": "アオキケイ on X: \"新曲を投稿しました。アゲハとヨタカという曲です... Jul 20, 2026 · 新曲を投稿しました。 アゲハとヨタカという曲です。 Youtube: https://t.co/qgMjPI5AUC niconico: https://t.co/eOZjPyLcqA 素敵なイラストはしゃららら様@i_onion_7 にお願いしました。 ありがとうございます。 よろしくお願いします。",
+    "url": "https://x.com/AAAaokidesu/status/2079140489052463179",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "（株）アオキスーパー | LinkedIn （株）アオキスーパー 小売業 名古屋市中村区、愛知県 4人のフォロワー",
+    "url": "https://jp.linkedin.com/company/（株）アオキスーパー",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "AOKI / アオキ - FacebookAOKI Global - Facebook株式会社アオキ - Facebook株式会社アオキ - Facebook祭用品アオキ | Akishima-shi Tokyo - Facebook株式会社アオキ - Facebookフードストアあおき | Numazu-shi Shizuoka - Facebook AOKI / アオキ. 5,401 followers · 81 talking about this. ビジネスウェア専門店AOKI 公式Facebookページです。 新商品やスタッフのコーディネートをご紹介いたします その他公式SNSでも情報発信中！ ぜひご覧くださいませ。 6 days ago · Make busy mornings effortless with AOKI’s 5 curated women’s tops. Fea",
+    "url": "https://www.facebook.com/aokistyle/",
+    "pass": 3
+   },
+   {
+    "quote": "AOKI Global - Facebook株式会社アオキ - Facebook株式会社アオキ - Facebook祭用品アオキ | Akishima-shi Tokyo - Facebook株式会社アオキ - Facebookフードストアあおき | Numazu-shi Shizuoka - Facebook 6 days ago · Make busy mornings effortless with AOKI’s 5 curated women’s tops. Featuring flattering silhouettes, easy movement, and refined quality, they bring versatile confidence to your weekly workwear. Jul 21, 2026 · 愛知県のあいち航空ミュージアムに行ってきまし",
+    "url": "https://www.facebook.com/AokiGlobalOfficial/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アオキ - Facebook Jul 21, 2026 · 愛知県のあいち航空ミュージアムに行ってきました！ アオキでも製造に携わっているUS- 2の展示を見に行きました。 実際に自分たちが製造している製品の後工程や、 その他の一連の、US-2が完成するまでの工程を 学んだりすることができました。",
+    "url": "https://www.facebook.com/people/株式会社アオキ/100083735625282/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アオキ - Facebook祭用品アオキ | Akishima-shi Tokyo - Facebook株式会社アオキ - Facebookフードストアあおき | Numazu-shi Shizuoka - Facebook Aug 1, 2026 · 株式会社アオキ is at 京都市勧業館 みやこめっせ. 取引先の展示会を訪問。 京都のホテルや料亭などとお取引があり、インポート の食材をはじめ 京都ならではの素晴らしい食文化 を見る事ができた。 Oct 21, 2026 · 祭用品アオキ, Akishima. 429 followers · 127 talking about this · 26 were here. 大正10年創業、祭用品アオキです。 祭用品のことならお任せください！ Jul 1, 2026 · 株式会社アオキ. 480 likes · 15 were her",
+    "url": "https://www.facebook.com/aokizirushi/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://aoki-maido.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aoki-maido.co.jp/services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aoki-maido.co.jp/form/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aoki-maido.co.jp/facilities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aoki-maido.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aoki-maido.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aoki-maido.co.jp/form/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aoki-maido.co.jp/services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aoki-maido.co.jp/facilities/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aoki-maido.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aoki-maido.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://aoki-maido.co.jp/services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://aoki-maido.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aoki-kogei.com/category/product-case/trial-product/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://kusuri-aoki-hd.co.jp/company/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aoki-g.jp/aboutus/company_info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aoki-corporate.co.jp/company/overview/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.aoki-corporate.co.jp/contact/index.html",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://superaoki.com/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aoki-style.com/special/support/contact.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shop_openwatch/n/n554240cac9a1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tokalog/n/n2ad944bf65a4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://money.note.com/companies/3549",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/ready_fox3873/n/n23f285bda873",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/AokiSuper_CoLtd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/aokimurako",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/kusuri_aoki",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/（株）アオキスーパー",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/aokistyle/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/AokiGlobalOfficial/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/people/株式会社アオキ/100083735625282/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/aokizirushi/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/aokimurako/status/2066900489284067401",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AAAaokidesu/status/2079140489052463179",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "アオキ 取扱製品 試作 小ロット",
+   "results": [
+    "https://aoki-maido.co.jp/services/",
+    "http://aoki-maido.co.jp/",
+    "https://aoki-kogei.com/category/product-case/trial-product/",
+    "http://aoki-seisaku.co.jp/",
+    "https://kk-aoki.co.jp/",
+    "https://aoki-kogei.com/2024/11/29/prototype-vinyl-chloride-accessory-container/",
+    "http://aoki-kougyou.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "アオキ 会社概要 事業内容",
+   "results": [
+    "https://kusuri-aoki-hd.co.jp/company/business/",
+    "https://www.aoki-g.jp/aboutus/company_info/",
+    "https://www.aoki-corporate.co.jp/company/overview/index.html",
+    "https://ir.aoki-hd.co.jp/ja/corporate/profile.html",
+    "https://www.aoki-hd.co.jp/enterprise/index.html/",
+    "https://www.kusuri-aoki.co.jp/company-info/",
+    "https://ir.aoki-hd.co.jp/ja/corporate/index.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "アオキ お問い合わせ メール",
+   "results": [
+    "https://www.aoki-corporate.co.jp/contact/index.html",
+    "https://superaoki.com/contact/",
+    "https://www.aoki-style.com/special/support/contact.html",
+    "http://aoki-cojp.com/contact/index.html",
+    "https://www.aoki-style.com/special/support/change.html",
+    "https://aok1.co/?contact",
+    "https://www.aoki-g.jp/contactus/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com アオキ",
+   "results": [
+    "https://note.com/shop_openwatch/n/n554240cac9a1",
+    "https://note.com/tokalog/n/n2ad944bf65a4",
+    "https://money.note.com/companies/3549",
+    "https://note.com/ready_fox3873/n/n23f285bda873",
+    "https://note.com/echon_slopty/n/nc486f3fb3314",
+    "https://note.com/apt_hebe8902/n/n707809998235",
+    "https://note.com/sgbc_3588/n/ne27cf0675a8a"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com アオキ",
+   "results": [
+    "https://x.com/AokiSuper_CoLtd",
+    "https://x.com/aokimurako",
+    "https://x.com/kusuri_aoki",
+    "https://x.com/aoki818",
+    "https://x.com/Aoki_sns",
+    "https://x.com/aoki_tosh",
+    "https://x.com/aoki_rio1203",
+    "https://x.com/AokiSuper_CoLtd/all",
+    "https://x.com/Aoki_sns/with_replies",
+    "https://x.com/fumomo_"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:linkedin.com アオキ",
+   "results": [
+    "https://jp.linkedin.com/company/（株）アオキスーパー",
+    "https://www.linkedin.com/in/wes-aoki-0010814",
+    "https://jp.linkedin.com/in/aopico",
+    "https://uk.linkedin.com/in/hisayoaoki",
+    "https://ca.linkedin.com/in/michael-aoki-98428711",
+    "https://www.linkedin.com/company/aoki-mobility-pvt-ltd",
+    "https://cn.linkedin.com/in/scott-aoki-3b804b16"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com アオキ",
+   "results": [
+    "https://www.facebook.com/aokistyle/",
+    "https://www.facebook.com/AokiGlobalOfficial/",
+    "https://www.facebook.com/people/株式会社アオキ/100083735625282/",
+    "https://www.facebook.com/aokizirushi/",
+    "https://www.facebook.com/maturi.aoki/",
+    "https://www.facebook.com/p/株式会社アオキ-100057644613034/",
+    "https://www.facebook.com/FoodStoreAoki/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "アオキ note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/青木宏憲",
+    "https://ja.wikipedia.org/wiki/青木拡憲",
+    "https://the-shashi.com/tse/3549/executives/ceo/aoki-hironori/",
+    "https://the-shashi.com/tse/3549/executives/",
+    "https://open-keieisha-db.com/executives/aoki-hironori-kusuri",
+    "https://note.com/echon_slopty/n/nc486f3fb3314",
+    "https://note.com/asunaro_aoki/n/n7ee981f7e934"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "アオキ X 投稿",
+   "results": [
+    "https://x.com/aokimurako/status/2066900489284067401",
+    "https://x.com/AAAaokidesu/status/2079140489052463179",
+    "https://aokitori.fanbox.cc/posts",
+    "https://x.com/aoki_weed/status/2118664785416143309",
+    "https://x.com/aoki_jun0923/status/2117935247790907619",
+    "https://x.com/aoki_tosh/status/2104927812650156119",
+    "https://x.com/yoaoki/status/2097095429251092743"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部23頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部23頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部23頁・検索9回）"
+ }
+}

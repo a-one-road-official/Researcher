@@ -1,0 +1,854 @@
+{
+ "name": "Pervices",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial control / test｜AI送信済み",
+ "researched_at": "2026-11-11T13:18:48.418510+00:00",
+ "official_url": "https://www.pervices.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Results demonstrated in customer programs compared with alternative hardware and ground-up development approaches. Results vary by project.",
+    "url": "https://www.pervices.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Per Vices develops high-performance, wideband software defined radio transceivers and receivers with up to 16 independent radio channels. Our SDR platforms provide the RF performance, bandwidth, channel count and data throughput required for demanding RF systems.",
+    "url": "https://www.pervices.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Start with a proven, high-performance SDR platform instead of developing custom radio hardware from the ground up. Reduce development effort, integration complexity and technical risk while maintaining a platform that can scale from development through deployment.",
+    "url": "https://www.pervices.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Per Vices software defined radios provide industry-leading instantaneous RF bandwidth, with configurations supporting up to 16 GHz of aggregate bandwidth in a single platform.",
+    "url": "https://www.pervices.com/",
+    "pass": 1
+   },
+   {
+    "quote": "High-speed digital interfaces support sustained data throughput from 20 Gbps to 400 Gbps, enabling real-time acquisition and processing of wideband RF signals.",
+    "url": "https://www.pervices.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Start with a proven COTS SDR platform and customize only where required, reducing the technical and schedule risk associated with ground-up radio development.",
+    "url": "https://www.pervices.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce hardware and development costs by building on proven SDR platforms, existing IP and engineering experience instead of developing custom radio hardware from scratch.",
+    "url": "https://www.pervices.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Simplify development and supply-chain management with one vendor providing SDR hardware, customization, integration support and long-term platform support.",
+    "url": "https://www.pervices.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Configurable radio chains, phase-coherent operation and high digital throughput make Cyan ideal for applications requiring simultaneous acquisition, transmission and real-time processing of large amounts of RF spectrum.",
+    "url": "https://www.pervices.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for applications where RF performance, bandwidth, channel count and scalability cannot be compromised.",
+    "url": "https://www.pervices.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for applications requiring proven SDR performance in a compact, cost-effective platform.",
+    "url": "https://www.pervices.com/",
+    "pass": 1
+   },
+   {
+    "quote": "designed for RF applications requiring access to extremely high frequencies. It provides four independent receive channels, tuning from near DC to 40 GHz, with up to 300 MHz of RF bandwidth per channel.",
+    "url": "https://www.pervices.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Choose a proven COTS SDR platform or work with our engineering team on a custom solution with full integration support.",
+    "url": "https://www.pervices.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Per Vices has done an excellent job in the development of this product, and we now have a radar receiver that costs a fraction of the legacy unit and occupies less than 10% of the space of the original.",
+    "url": "https://www.pervices.com/",
+    "pass": 1
+   },
+   {
+    "quote": "I was profoundly impressed with the unit...again I was blown away.",
+    "url": "https://www.pervices.com/",
+    "pass": 1
+   },
+   {
+    "quote": "...and it’s very much appreciated.",
+    "url": "https://www.pervices.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Per Vices’ Crimson Arria V SoC-based SDR COTS board truly is a flexible product with a wide range of applications well suited for military, governmental and wireless networking applications. It’s a unique blend of hardware and software that delivers a high-performance, turnkey multi-channel radio.",
+    "url": "https://www.pervices.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Altera is a leading SDR provider",
+    "url": "https://www.pervices.com/",
+    "pass": 1
+   },
+   {
+    "quote": "President - Crystek Corporation",
+    "url": "https://www.pervices.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We used our technical background in FPGA design to help Per Vices incorporate many innovative SDR features into their product. The capabilities and flexibility of their SDR solution is right in line with what people want from wireless solutions today.",
+    "url": "https://www.pervices.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Per Vices SDR product line provides optimal functionality at the price people need.– , ,",
+    "url": "https://www.pervices.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We offer COTS products, custom SDR solutions, and full integration support, allowing customers to start with proven hardware and adapt it to meet their specific system requirements reducing overall risk.",
+    "url": "https://www.pervices.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Software defined radio moves much of the functionality traditionally implemented using dedicated radio hardware into software and programmable digital logic. This allows a single RF platform to be configured for different frequencies, bandwidths, waveforms, protocols, and applications without requiring completely different radio hardware.",
+    "url": "https://www.pervices.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Our approach combines proven COTS hardware with the ability to customize and integrate our platforms around specific project requirements.",
+    "url": "https://www.pervices.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Our platforms provide wide tuning ranges, high instantaneous RF bandwidth, multiple independent radio channels, phase-coherent operation, and high-speed digital interfaces.",
+    "url": "https://www.pervices.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Our engineering team publishes technical articles, application notes, whitepapers, case studies, product specifications, and support documentation covering software defined radio technology and its use in demanding RF applications.",
+    "url": "https://www.pervices.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Product documentation, application notes, configuration guidance, performance measurements, and integration resources.",
+    "url": "https://www.pervices.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Per Vices develops high-performance software defined radio (SDR) platforms for commercial, research, and mission-critical applications. We pride ourselves on an open and collaborative workplace and are always looking for talented and motivated individuals interested in solving challenging RF, FPGA, embedded, and hardware engineering problems.",
+    "url": "https://www.pervices.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "highlighting your relevant experience. We are particularly interested in candidates with experience in RF, FPGA, embedded systems, hardware design, software development, or electronics manufacturing. If your experience does not align exactly with one of the opportunities listed above but you think you would be a good fit for Per Vices, we would still like to hear from you.",
+    "url": "https://www.pervices.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "A career at Per Vices provides the opportunity to work across multiple engineering disciplines, broaden your skills, and gain experience with advanced RF, FPGA, embedded, and digital technologies. Team members receive a comprehensive benefits package, flexible working hours, and opportunities for training and mentoring in a collaborative engineering environment.",
+    "url": "https://www.pervices.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive benefits package",
+    "url": "https://www.pervices.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Training and mentoring",
+    "url": "https://www.pervices.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Storage and processing systems to interface with your SDR.",
+    "url": "https://www.pervices.com/host-storage/",
+    "pass": 1
+   },
+   {
+    "quote": "Start with what you need and work with us to extend the capabilities as your project needs evolve while minimizing costs.",
+    "url": "https://www.pervices.com/host-storage/",
+    "pass": 1
+   },
+   {
+    "quote": "Each application has different requirements and our selection of network interface cards allows for managing costs vs performance for your project.",
+    "url": "https://www.pervices.com/host-storage/",
+    "pass": 1
+   },
+   {
+    "quote": "The host systems come loaded with sample applications for customers to easily achieve the basic performance required by their project.",
+    "url": "https://www.pervices.com/host-storage/",
+    "pass": 1
+   },
+   {
+    "quote": "Host systems vary in cost depending on the interfacing product, required RAM, CPU, GPU, and hard drive space.",
+    "url": "https://www.pervices.com/host-storage/",
+    "pass": 1
+   },
+   {
+    "quote": "Software Defined Radio Pricing | Per Vices",
+    "url": "https://www.pervices.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "All pricing below is in USD",
+    "url": "https://www.pervices.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "A comprehensive pricing matrix is available",
+    "url": "https://www.pervices.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect with one of our specialists to develop the right product for you.",
+    "url": "https://www.pervices.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Per Vices develops high-performance software defined radio (SDR) platforms for commercial, research, and mission-critical applications. We pride ourselves on an open and collaborative workplace and are always looking for talented and motivated individuals interested in solving challenging RF, FPGA, embedded, and hardware engineering problems.",
+    "url": "https://www.pervices.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "highlighting your relevant experience. We are particularly interested in candidates with experience in RF, FPGA, embedded systems, hardware design, software development, or electronics manufacturing. If your experience does not align exactly with one of the opportunities listed above but you think you would be a good fit for Per Vices, we would still like to hear from you.",
+    "url": "https://www.pervices.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "A career at Per Vices provides the opportunity to work across multiple engineering disciplines, broaden your skills, and gain experience with advanced RF, FPGA, embedded, and digital technologies. Team members receive a comprehensive benefits package, flexible working hours, and opportunities for training and mentoring in a collaborative engineering environment.",
+    "url": "https://www.pervices.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive benefits package",
+    "url": "https://www.pervices.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Training and mentoring",
+    "url": "https://www.pervices.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Printed Circuit Board Designer",
+    "url": "https://growjo.com/company/Per_Vices",
+    "pass": 3
+   },
+   {
+    "quote": "Apollo.io API Pricing",
+    "url": "https://growjo.com/company/Per_Vices",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Top 3 Radar Manufacturer",
+    "url": "https://www.pervices.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Manager (Military, Aerospace, Government Business Unit) - Altera",
+    "url": "https://www.pervices.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our SDR platforms are used by organizations developing advanced radar, spectrum monitoring, GPS/GNSS, communications, test and measurement, medical, aerospace, defence, and other RF systems.",
+    "url": "https://www.pervices.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Per Vices SDR platforms have been selected by leading organizations across defence, aerospace, R&D, communications, medical, and government customers.",
+    "url": "https://www.pervices.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "PCBA Manufacturing Assistant",
+    "url": "https://www.pervices.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "highlighting your relevant experience. We are particularly interested in candidates with experience in RF, FPGA, embedded systems, hardware design, software development, or electronics manufacturing. If your experience does not align exactly with one of the opportunities listed above but you think you would be a good fit for Per Vices, we would still like to hear from you.",
+    "url": "https://www.pervices.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "PCBA Manufacturing Assistant",
+    "url": "https://www.pervices.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "highlighting your relevant experience. We are particularly interested in candidates with experience in RF, FPGA, embedded systems, hardware design, software development, or electronics manufacturing. If your experience does not align exactly with one of the opportunities listed above but you think you would be a good fit for Per Vices, we would still like to hear from you.",
+    "url": "https://www.pervices.com/careers",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "High-speed digital interfaces support sustained data throughput from 20 Gbps to 400 Gbps, enabling real-time acquisition and processing of wideband RF signals.",
+    "url": "https://www.pervices.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Configurable radio chains, phase-coherent operation and high digital throughput make Cyan ideal for applications requiring simultaneous acquisition, transmission and real-time processing of large amounts of RF spectrum.",
+    "url": "https://www.pervices.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Its compact architecture, independent radio chains and high-speed digital interfaces make Calamine well suited for wideband RF signal acquisition, spectrum monitoring and other applications requiring coverage across an exceptionally broad frequency range.",
+    "url": "https://www.pervices.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for applications where frequency coverage and wideband RF acquisition are critical.",
+    "url": "https://www.pervices.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Per Vices’ Crimson Arria V SoC-based SDR COTS board truly is a flexible product with a wide range of applications well suited for military, governmental and wireless networking applications. It’s a unique blend of hardware and software that delivers a high-performance, turnkey multi-channel radio.",
+    "url": "https://www.pervices.com/",
+    "pass": 1
+   },
+   {
+    "quote": "General Manager - Arrow Electronics Inc.",
+    "url": "https://www.pervices.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A high-performance SDR can operate as a receiver, transmitter, transceiver, waveform generator, spectrum monitoring system, or part of a larger radar, communications, test, or sensing system.",
+    "url": "https://www.pervices.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "highlighting your relevant experience. We are particularly interested in candidates with experience in RF, FPGA, embedded systems, hardware design, software development, or electronics manufacturing. If your experience does not align exactly with one of the opportunities listed above but you think you would be a good fit for Per Vices, we would still like to hear from you.",
+    "url": "https://www.pervices.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "highlighting your relevant experience. We are particularly interested in candidates with experience in RF, FPGA, embedded systems, hardware design, software development, or electronics manufacturing. If your experience does not align exactly with one of the opportunities listed above but you think you would be a good fit for Per Vices, we would still like to hear from you.",
+    "url": "https://www.pervices.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Per Vices: Revenue, Competitors, Alternatives",
+    "url": "https://growjo.com/company/Per_Vices",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and Competitors",
+    "url": "https://growjo.com/company/Per_Vices",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/Per_Vices",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/Per_Vices",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated revenue per employee is $",
+    "url": "https://growjo.com/company/Per_Vices",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "B2B email lists",
+    "url": "https://growjo.com/company/Per_Vices",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Email Finder",
+    "url": "https://growjo.com/company/Per_Vices",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Per Vices - Crunchbase Company Profile & Funding — Per Vices - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > per-vi...",
+    "url": "https://www.crunchbase.com/organization/per-vices",
+    "pass": 3
+   },
+   {
+    "quote": "Per Vices : Revenue , Competitors, Alternatives - Growjo — Per Vices : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > Per_Vices",
+    "url": "https://growjo.com/company/Per_Vices",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Per Vices Corporation | LinkedIn Per Vices Corporation | LinkedIn LinkedIn https://ca.linkedin.com > company",
+    "url": "https://ca.linkedin.com/company/per-vices-corporation",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "For sale Aerox v2 pm CE 生 ලැබූ PERVICES SERVICES For sale Aerox v2 pm CE 生 ලැබූ PERVICES SERVICES Facebook https://www.facebook.com > groups > posts",
+    "url": "https://www.facebook.com/groups/809000109230476/posts/4222526151211171/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.pervices.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pervices.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pervices.com/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pervices.com/host-storage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pervices.com/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pervices.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pervices.com/careers",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.pervices.com/host-storage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pervices.com/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pervices.com/wp-content/uploads/2021/10/shuttle-case.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.pervices.com/wp-content/uploads/2021/10/3U-server.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.pervices.com/wp-content/uploads/2021/10/1U-server.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trafficnews.jp/post/725198",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trados.com/jp/partners/resellers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://services.digital.go.jp/visit-japan-web/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vjw.digital.go.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.global-yamato.com/en/hands-free-travel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan.travel/en/us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vITTAFAwAZDK9MLjUhc4foqAv0McemqEkYNBh8Tsgk6TellgsKo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.flexwareinnovation.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.athenaswc.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hpe.com/us/en/customer-case-studies.html",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intermedia.com/resellers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://skyswitch.com/blog/become-a-whitelabel-voip-reseller-full-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/per-vices",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Per_Vices",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bullfincher.io/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/perfios",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ca.linkedin.com/company/per-vices-corporation",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/809000109230476/posts/4222526151211171/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Pervices 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.stellantis.jp/",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://trafficnews.jp/post/725198",
+    "https://www.facebook.com/impress.carwatch/posts/stellantis%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%83%95%E3%83%AB%E3%82%B5%E3%82%A4%E3%82%BA%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88%E3%83%A9%E3%83%83%E3%82%AFram-1500-limited%E6%97%A5%E6%9C%AC%E5%B0%8E%E5%85%A5-2027%E5%B9%B4%E3%81%AB%E3%81%BE%E3%81%9A%E3%81%AF100%E5%8F%B0%E3%82%92%E7%99%BA%E5%A3%B2%E4%BA%88%E5%AE%9A-ram-%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88/1595981509000273/",
+    "https://www.mycar-life.com/article/2026/11/08/32725.html",
+    "https://www.autocar.jp/post/1292024",
+    "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "https://www.pervices.com/",
+    "https://1-president.com/services-japan-absence/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Pervices 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.bgent.net/plus/article/7044",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.trados.com/jp/partners/resellers/",
+    "https://dairitenboshu.com/",
+    "https://b-seeds.com/",
+    "https://www.provej.jp/service/developing-overseas-business-partners/distributor/",
+    "https://www.pjr.jp/agent/",
+    "https://www.youtube.com/watch?v=m9qq9nQP9KI",
+    "https://metoree.com/companies/42006/distributors/",
+    "https://dairitenboshu.com/column/detail/soudairiten"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 21
+  },
+  {
+   "query": "Pervices Japan",
+   "results": [
+    "https://services.digital.go.jp/visit-japan-web/",
+    "https://www.vjw.digital.go.jp/",
+    "https://www.global-yamato.com/en/hands-free-travel/",
+    "https://www.japan.travel/en/",
+    "https://jp.usembassy.gov/services/",
+    "https://www.trade.gov/japan",
+    "https://en.wikipedia.org/wiki/Trade_and_services_in_Japan",
+    "https://www.mofa.go.jp/j_info/visit/visa/index.html",
+    "https://www.jees.or.jp/en/",
+    "https://www.japanadultguide.com/japans-adult-services/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Pervices manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vITTAFAwAZDK9MLjUhc4foqAv0McemqEkYNBh8Tsgk6TellgsKo",
+    "https://www.flexwareinnovation.com/case-studies/",
+    "https://www.athenaswc.com/case-studies/",
+    "https://www.hpe.com/us/en/customer-case-studies.html",
+    "https://www.ptc.com/en/case-studies?srsltid=AYCX9vK5QeQPHiJ5gAou9cKcij0C-KAxbHIG6Kh3CHCoJz0g6fRoOAG_",
+    "https://www.factory-twin.com/casestudies",
+    "https://c3.ai/customers",
+    "https://bizowie.com/case-studies",
+    "https://www.pre-scient.com/us/resources/case-study/",
+    "https://www.sciencedirect.com/science/article/pii/S0019850107001563"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Pervices white label OR reseller OR partner program",
+   "results": [
+    "https://www.mycompanyworks.com/reseller",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://www.intermedia.com/resellers",
+    "https://skyswitch.com/blog/become-a-whitelabel-voip-reseller-full-guide/",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://suitedash.com/reseller-program/",
+    "https://insighto.ai/blog/white-label-reseller-programs/",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Pervices founded funding employees revenue",
+   "results": [
+    "https://www.crunchbase.com/organization/per-vices",
+    "https://growjo.com/company/Per_Vices",
+    "https://bullfincher.io/",
+    "https://getlatka.com/companies/perfios",
+    "https://www.geekwire.com/2022/field-workforce-management-software-startup-zuper-lands-13m/",
+    "https://gaps.com/finance/",
+    "https://www.owler.com/company/p-3-inc",
+    "https://stripe.com/",
+    "https://tracxn.com/d/companies/per-vices/__PvpluKaaEPALABtrViSbUYVjzrQDHYPU2dCfIyWSFAo/funding-and-investors",
+    "https://compworth.com/company/founded"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Pervices",
+   "results": [
+    "https://note.com/clever_eel2325/m/mf7d3216e2056/hashtag/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9",
+    "https://note.com/clever_eel2325/m/mf7d3216e2056/hashtag/%E5%AD%A6%E7%94%9F%E9%81%8B%E5%8B%95",
+    "https://note.com/clever_eel2325/n/n976f69098e19",
+    "https://note.com/tag/ヴァイスシュヴァルツ",
+    "https://note.com/diparururun/n/n78c1fbc5e52d",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/love02899487488/all",
+    "https://note.com/daigakuinstudy/n/n431150851d95?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://tales.note.com/kind_cosmos9896/wiyxpcjj4ahp0/episodes/e6b9tic0em3q3"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:x.com Pervices",
+   "results": [
+    "https://x.com/SaddickAdams/status/2023378156359716968",
+    "https://x.com/marklevy2gb",
+    "https://x.com/UFSurgery",
+    "https://x.com/QATAR_POST/status/2114348170381594824",
+    "https://x.com/jarujaru12th/status/1461688910833094668",
+    "https://x.com/doc_hakase/status/2105388746330014200",
+    "https://x.com/chocoplacup0823/status/1461662541633888258",
+    "https://x.com/Orange_Mali/status/2113552191705247803",
+    "https://x.com/alsharq_portal/status/2114353628249211146",
+    "https://x.com/ciclo21/status/2116951037407887635"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com Pervices",
+   "results": [
+    "https://ca.linkedin.com/company/per-vices-corporation",
+    "https://www.linkedin.com/company/town-of-mangonia-park-fl",
+    "https://www.linkedin.com/in/andrea-aguilar-a112a591",
+    "https://www.linkedin.com/company/turi-wood-consulting-llc",
+    "https://au.linkedin.com/in/mark2good",
+    "https://au.linkedin.com/in/malcolm-hall-design",
+    "https://il.linkedin.com/in/leor-catalan-entrepreneur",
+    "https://www.linkedin.com/company/arc-hospice-care",
+    "https://www.linkedin.com/in/roger-diwan",
+    "https://www.linkedin.com/company/pearce-services"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com Pervices",
+   "results": [
+    "https://www.facebook.com/groups/3192590187663978/posts/4632093113713671/",
+    "https://www.facebook.com/groups/809000109230476/posts/4222526151211171/",
+    "https://www.facebook.com/pastoresaubanda/posts/1647907940024054/",
+    "https://www.facebook.com/servicesbydudley/videos/service-announcement-continue-to-keep-the-davis-family-in-your-thoughts/1878526646889102/",
+    "https://www.facebook.com/groups/1913174592285862/posts/4545432565726705/",
+    "https://www.facebook.com/100005228659079/videos/mufasa-eswatini/1067828822717039/",
+    "https://www.facebook.com/groups/477096846938418/posts/1820590159255740/",
+    "https://www.facebook.com/pastoresaubanda/photos/1648116273336554/",
+    "https://www.facebook.com/groups/216627732763316/posts/1667228987703176/",
+    "https://www.facebook.com/adlserviceinc/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Pervices note 社長",
+   "results": [
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://note.com/sadaaki",
+    "https://x.com/sadaaki",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.com/bookdam/n/n705725ded23e",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://www.smrj.go.jp/supporter/fund_investment/funding/case/aihbak0000001wv3.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Pervices X 投稿",
+   "results": [
+    "https://x.com/hashtag/PIES",
+    "https://www.opera.com/ja/features/x",
+    "https://x.com/_PeriDraw",
+    "https://www.youtube.com/hashtag/pervesions",
+    "https://www.pervz.com/",
+    "https://www.xvideos.com/",
+    "https://x.com/pervy/status/1676279526827892740",
+    "https://www.patreon.com/cw/PerseusCreates/posts?l=zh-HK",
+    "https://x.com/deeper_official",
+    "https://www.xvideos3.com/tags/perverse"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部26頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部26頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部26頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部26頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部26頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部26頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部26頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部26頁・検索12回）"
+ }
+}

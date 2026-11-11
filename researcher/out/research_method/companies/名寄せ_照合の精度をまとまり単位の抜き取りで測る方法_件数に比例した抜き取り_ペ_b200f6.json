@@ -8,271 +8,99 @@
  ],
  "context": "突き合わせ",
  "kind": "market",
- "researched_at": "2026-11-09T12:40:16.567892+00:00",
+ "researched_at": "2026-11-11T13:08:12.843256+00:00",
  "evidence": {
-  "失敗・落とし穴": [
-   {
-    "quote": "accounting for sampling biases and managing class imbalances. Otherwise, using naive",
-    "url": "https://joss.theoj.org/papers/10.21105/joss.05619.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "relatively small benchmark datasets. However, this process has been shown to yield biased",
-    "url": "https://joss.theoj.org/papers/10.21105/joss.05619.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "biased benchmark datasets. The ER-Evaluation package implements this methodology and",
-    "url": "https://joss.theoj.org/papers/10.21105/joss.05619.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "estimators that account for sampling biases. Our approach is simple, practical and principled – key",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "leads to misleading and highly biased performance metrics as shown in section 1.1. This is concerning given",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Example 1 (Bias of precision computed on benchmark datasets). To exemplify the problem with the trivial",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "bias = 0.467",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "bias = -0.001",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "proposed precision estimates which accounts for the sampling mechanism. Sample bias and root mean squared",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "proposed precision estimator which is nearly unbiased. Both precision estimators rely on exactly the same",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "discussed in section 1.1, are nearly unbiased, and are easy to use in practice.",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Furthermore, our approach is novel. To our knowledge, we are the ﬁrst to propose unbiased performance",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "estimators based on cluster and block samples. Past work either ignored biases when computing precision",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Note that our data collection methodology is biased toward PantentsView’s current disambiguation.",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "readability, we present here a generic formula for an approximately unbiased estimator of the ratio of means",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "and then specify the needed quantities for each representation below. The estimator applies a ﬁrst order bias",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "assuming the corrected estimator has a small bias (S¨ arndal et al., 2003; Fuller, 2011). The generic formula",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "100 times in order to provide the distribution of the estimators and metrics such as bias and root mean",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "unbiased sample of labelled data. This makes standard unbiased sampling impractical in",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "biased sampling [Fu+12 ; Rah+14 ], however the resulting performance estimates may",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "be misleading due to statistical bias. It is also common to avoid evaluation altogether",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "upon the eﬃciency of unbiased sampling methods, while ensuring that the performance",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "estimates remain unbiased. This problem has received little attention in the ER literature",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "results. However, standard unbiased methods require an impractically large quantity of",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "signi/f_icant bias. It is clear that alternative methods are required to produce accurate",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "biased, adaptive sampling policy. We prove that the estimates produced by our framework",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "does not bias the results.",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "model [CH90 ]. The model was observed to achieve lower bias for various parameters",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "quality control when relying on crowdsourcing—e.g. due to worker biases, lack of eﬀort",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "cluster reassignments, through a user-speci/f_ied biased distribution on the product space",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "of cluster items. However, the biased distribution must be designed so that random item",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Typical evaluation procedures used in entity resolution can result in misleading conclusions, as some commonly-used performance estimators are biased",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ", even when the true precision for the entire data set may be much lower. When combining biased precision estimates with recall estimates into an F1 score, this can lead to performance rank reversals: an algorithm may be assessed to perform better than another with high confidence, despite the opposite being true in practice",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "to characterize the linkage accuracy at the level of the record pairs. The LR metric highlights potential biases, here linkage rate differences across subgroups, by measuring the variance of estimated linkage propensities.",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ", we also can use the bias-adjusted estimator and variance estimator described in",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ") within subgroups. We visualize the results by adapting the performance bias module of the Deepchecks Python package",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ". We make further adjustments to reduce bias in the ratio estimator and its variance estimator using the approach described in",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "pairwise recall. Note that bias is below",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "The empirical bias is always smaller than",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "when going up to samples of size at least 400. This validates the near unbiasedness of the estimators.",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "pairwise recall. Note that bias is essentially zero when sampling with probability proportional to cluster size (the default approach), and only substantial for pairwise precision estimates when sampling clusters with uniform probabilities.",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Seeing the non-stars: (Some) sources of bias in past disambiguation",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "View a PDF of the paper titled How to Evaluate Entity Resolution Systems: An Entity-Centric Framework with Application to Inventor Name Disambiguation, by Olivier Binette and 4 other authors",
-    "url": "https://arxiv.org/abs/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
-  ],
   "手順・やり方": [
+   {
+    "quote": "How to Evaluate Entity Resolution Systems:",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "An Entity-Centric Framework with Application to",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "ing for a needle in a haystack, traditional evaluation methods use sophisticated, application-specific sam-",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "and a variety of evaluation tasks. Specifically, we propose an entity-centric data labeling methodology",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "that integrates with a unified framework for monitoring summary statistics, estimating key performance",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "date the framework in an application to inventor name disambiguation and through simulation studies.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "methods often rely on manually reviewing pairs of records to validate linkage predictions. However, finding",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "evaluation framework with the following components.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "4. Data Labeling Though Cluster Sampling: A methodology for creating a benchmark set of fully-",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Our framework does black box evaluation. That is, we evaluate the end result of an entity resolution system,",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "without considering its specific architecture. This allows our framework to apply to any entity resolution",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Figure 1 represents the elements of the evaluation framework as well as their interdependencies.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Methodology (§3.2)",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Figure 1: Diagram representation of the main elements of the framework and their dependencies. The entity",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "or from our data labeling methodology. Error analysis and performance estimates rely on cluster-wise error",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
    {
     "quote": "comprehensive evaluation framework to measure their performance and compare different",
     "url": "https://joss.theoj.org/papers/10.21105/joss.05619.pdf",
@@ -682,7 +510,805 @@
     "first_seen": "2026-11-06"
    }
   ],
+  "実例": [
+   {
+    "quote": "numerous yet small. For example, entity resolution is used for the identification of unique inventors listed",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "same entity. For example, we can approximately resolve unique inventors by using patent topic, co-authors,",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "For example, a resolved cluster of 10 records in a database of 1 , 000, 010 records includes",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "In section 4, we showcase its application to inventor name disambiguation and its validation in simulation",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "resolution systems, using the methodology used by Statistics Canada as an example.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "patent grant date, patent assignee, and patent classification codes; see Table 1 for examples.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "T able 1: Example of attributes available for individual inventor mentions. Additional attributes, such as",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "or operational. In the former case, the main goal is to produce a linked file including all the required",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "responses and explanatory variables, to fit some regression model. A good example is the linkage of the",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "considering model-based estimates (Dasylva and Goussanou, 2022). For example, this approach was used to",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "example, with probability proportional to size sampling, we have pc = |c|/N. Sampling processes and designs",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "For example, when sampling clusters with probability proportional to size, we havepc = |c|/N. Consequently,",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "example, we can estimate each expectation with its corresponding weighted sample average—and take the",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "In this case, the probability that a given cluster c is sampled in any single draw is |c|/N, i.e., this is sampling",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "of population quantities (Lohr, 2021). This is the case for PatentsView data, as large clusters tend to be",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "performance. In the case of PatentsView’s disambiguation, no principled evaluation methodology is avail-",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "example 1 below.",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Example 1 (Bias of precision computed on benchmark datasets). To exemplify the problem with the trivial",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "used in numerous scientiﬁc studies (Toole et al., 2021). For example, Choudhury and Kim (2019) studied",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In cases where no errors were found, the current disambiguation was assumed to be correct. Performance",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Figure 2: Example of ground truth clustering C (represented by boxes with a full border) and pre-",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Cluster Sampling Representation In the cluster sampling case, sampling probabilities are typically",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "rate helps showcase the properties of our estimators when only a small proportion of the sampled clusters is",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "record/cluster sampling cases, we looked at the eﬀect of sampling 100, 200 and 400 records/clusters.",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "and with the bias adjustment given in (8). Note that in the case of recall with cluster blocks, the",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "naive recall estimator performs well in this case. However, the recall estimator accounting for the sampling",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "size distributions. The bias of ratio estimators can be high in this case, especially when using small samples",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "estimation accuracy in such cases.",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "This section provides more information on example 1.",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For this example, we considered the RLdata10000 dataset from Sariyar and Borg (2022). This is a",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "experiments for the case study on U.S. Census and Social Security Administration data",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "B.4.1 Case 0 ≤𝜎 <1 and𝛼 >0 . . . . . . . . . . . . . . . . . . . . . . . 166",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "B.4.2 Case 𝜎 <0 and𝛼 =m𝜅 form∈ N . . . . . . . . . . . . . . . . . . 166",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "1.2 Illustrative example of semantic heterogeneity and data quality issues . . 3",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "3.6 Results for d-b/l.Varink in the population estimation case study . . . . . . . 63",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "worst case. In an open world, ER methods must be robust to heterogeneity in data",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "it impossible to directly compare most of the attributes. For example, the listing from",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Figure 1.2: A realistic example of semantic heterogeneity and data quality issues encoun-",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "solution, even if there are feasible alternatives. For example, when applying ER to product",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "match status of the two listings. However, in this example it is diﬃcult to say for certain",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "itself. For example, when performing statistical analyses on integrated data, it may be",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "computationally expensive, especially in the case of ER due to the quadratic scaling",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "labelled examples to produce precise estimates of performance. On the other hand, ad-hoc",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "labelled examples. There has been some work in this area in a machine learning context",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "automate. In simple cases, there is a one-to-one mapping between attributes in",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Entity resolution systems typically employ machine learning and artificial intelligence models to tackle this challenge. The models use contextual information to predict whether or not two records refer to the same entity. For example, we can approximately resolve unique inventors by using patent topic, co-authors, employer, and location, in addition to first and last names",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Instead of reviewing pairs of records, our evaluation approach utilizes a sample of fully-resolved entities, i.e., ground truth, or known clusters. In this approach, all pairs within a resolved cluster are known to match, and any pair that intersects a resolved cluster but is not contained within it is known to be a non-match. For example, a resolved cluster of",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ", we showcase its application to inventor name disambiguation and its validation in simulation studies. Finally, we conclude in section",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "We then discuss our motivating data and application in more detail. Finally, we provide additional information on current industry standards for the evaluation of entity resolution systems, using the methodology used by Statistics Canada as an example.",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Example of attributes available for individual inventor mentions. Additional attributes, such as co-inventor information and patent text, are available as well.",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". For example, this approach was used to set the record similarity threshold (i.e., how similar two records have to be before they are linked) in the probabilistic linkage between the 2021 census of agriculture and the census of population for the same year",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "is sampled in any one draw. For example, with probability proportional to size sampling, we have",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "For example, when sampling clusters with probability proportional to size, we have",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "clusters to estimate the expectations in the numerators and denominators separately—for example, we can estimate each expectation with its corresponding weighted sample average—and take the ratio of the relevant estimated expectations.",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "In this case, the probability that a given cluster",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". This is the case for PatentsView data, as large clusters tend to be associated with increased chances for errors.",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Other sampling designs can be leveraged, in which case the probabilities",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "should change to match the design. For example, uniform sampling probabilities",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "can be appropriate when entities, rather than records, are sampled at random. As another example, suppose the disambiguation algorithm provides match probabilities between all pairs of records; that is, we have probabilities",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". For example, systematic failure to disambiguate inventor names from a given culture, for instance due to differences in naming conventions, could be considered an unacceptable flaw even if the relative prevalence of such inventors is low. It is therefore necessary to test systems and to investigate errors to help identify such issues",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "commonly-used performance estimators are biased (Wang et al., 2022; Binette et al., 2022). This can lead to",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "the true precision for the entire data set may be much lower. When combining biased precision estimates",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "The LR metric highlights potential biases, here linkage rate differences across subgroups, by measuring the",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "bias-adjusted estimator and variance estimator described in Binette et al. (2022). Similarly, the homonymy",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "adapting the performance bias module of the Deepchecks Python package (Chorev et al., 2023) to include",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "reduce bias in the ratio estimator and its variance estimator using the approach described in Binette et al.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "ground truth for the RLData10000 data set, we can compute the bias and root mean square error (RMSE)",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Figure 9 summarizes the results of 1,000 runs. The empirical bias is always smaller than 0 .4% and always",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "less than 0 .2% when going up to samples of size at least 400. This validates the near unbiasedness of the",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "In terms of bias, uniform sampling weights are unreliable for estimating pairwise precision in this simu-",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "cluster sizes with many errors may not be observed frequently in the sample. On the other hand, the bias",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Ventura, S. L., R. Nugent, and E. R. Fuchs (2015). Seeing the non-stars: (Some) sources of bias in past",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "precision and 97% pairwise recall. Note that bias is below 0.4% in all cases.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "of the algorithm, specifically, 91% pairwise precision and 94% pairwise recall. Note that bias is essentially",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "accounting for sampling biases and managing class imbalances. Otherwise, using naive",
+    "url": "https://joss.theoj.org/papers/10.21105/joss.05619.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "relatively small benchmark datasets. However, this process has been shown to yield biased",
+    "url": "https://joss.theoj.org/papers/10.21105/joss.05619.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "biased benchmark datasets. The ER-Evaluation package implements this methodology and",
+    "url": "https://joss.theoj.org/papers/10.21105/joss.05619.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "estimators that account for sampling biases. Our approach is simple, practical and principled – key",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "leads to misleading and highly biased performance metrics as shown in section 1.1. This is concerning given",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Example 1 (Bias of precision computed on benchmark datasets). To exemplify the problem with the trivial",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "bias = 0.467",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "bias = -0.001",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "proposed precision estimates which accounts for the sampling mechanism. Sample bias and root mean squared",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "proposed precision estimator which is nearly unbiased. Both precision estimators rely on exactly the same",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "discussed in section 1.1, are nearly unbiased, and are easy to use in practice.",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Furthermore, our approach is novel. To our knowledge, we are the ﬁrst to propose unbiased performance",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "estimators based on cluster and block samples. Past work either ignored biases when computing precision",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Note that our data collection methodology is biased toward PantentsView’s current disambiguation.",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "readability, we present here a generic formula for an approximately unbiased estimator of the ratio of means",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "and then specify the needed quantities for each representation below. The estimator applies a ﬁrst order bias",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "assuming the corrected estimator has a small bias (S¨ arndal et al., 2003; Fuller, 2011). The generic formula",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "100 times in order to provide the distribution of the estimators and metrics such as bias and root mean",
+    "url": "https://arxiv.org/pdf/2210.01230",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "unbiased sample of labelled data. This makes standard unbiased sampling impractical in",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "biased sampling [Fu+12 ; Rah+14 ], however the resulting performance estimates may",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "be misleading due to statistical bias. It is also common to avoid evaluation altogether",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "upon the eﬃciency of unbiased sampling methods, while ensuring that the performance",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "estimates remain unbiased. This problem has received little attention in the ER literature",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "results. However, standard unbiased methods require an impractically large quantity of",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "signi/f_icant bias. It is clear that alternative methods are required to produce accurate",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "biased, adaptive sampling policy. We prove that the estimates produced by our framework",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "does not bias the results.",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "model [CH90 ]. The model was observed to achieve lower bias for various parameters",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "quality control when relying on crowdsourcing—e.g. due to worker biases, lack of eﬀort",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "cluster reassignments, through a user-speci/f_ied biased distribution on the product space",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "of cluster items. However, the biased distribution must be designed so that random item",
+    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Typical evaluation procedures used in entity resolution can result in misleading conclusions, as some commonly-used performance estimators are biased",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ", even when the true precision for the entire data set may be much lower. When combining biased precision estimates with recall estimates into an F1 score, this can lead to performance rank reversals: an algorithm may be assessed to perform better than another with high confidence, despite the opposite being true in practice",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "to characterize the linkage accuracy at the level of the record pairs. The LR metric highlights potential biases, here linkage rate differences across subgroups, by measuring the variance of estimated linkage propensities.",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ", we also can use the bias-adjusted estimator and variance estimator described in",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ") within subgroups. We visualize the results by adapting the performance bias module of the Deepchecks Python package",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": ". We make further adjustments to reduce bias in the ratio estimator and its variance estimator using the approach described in",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "pairwise recall. Note that bias is below",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "The empirical bias is always smaller than",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "when going up to samples of size at least 400. This validates the near unbiasedness of the estimators.",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "pairwise recall. Note that bias is essentially zero when sampling with probability proportional to cluster size (the default approach), and only substantial for pairwise precision estimates when sampling clusters with uniform probabilities.",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   },
+   {
+    "quote": "Seeing the non-stars: (Some) sources of bias in past disambiguation",
+    "url": "https://arxiv.org/html/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
+  "一次情報の探し方": [
+   {
+    "quote": "View a PDF of the paper titled How to Evaluate Entity Resolution Systems: An Entity-Centric Framework with Application to Inventor Name Disambiguation, by Olivier Binette and 4 other authors",
+    "url": "https://arxiv.org/abs/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-06"
+   }
+  ],
   "突き合わせ・推定": [
+   {
+    "quote": "2. Global Performance Metric Estimates: To obtain estimates of global performance metrics such",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "tain estimates that are representative of the system’s performance on the entire data set, not just the",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Estimates (§3.4)",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "computed for predictions, while their true value for a ground truth clustering can be estimated using labeled",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "or from our data labeling methodology. Error analysis and performance estimates rely on cluster-wise error",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "the true precision for the entire data set may be much lower. When combining biased precision estimates",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "with recall estimates into an F1 score, this can lead to performance rank reversals: an algorithm may be",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Figure 2: Left: Estimated number of citations to PatentsView in academic literature by year. Right:",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Number of citations by estimated Dewey Decimal Broad Classification. The estimated citation numbers were",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "results, with the 2023 year estimate containing extrapolated counts for November and December. The Dewey",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "querying openAI’s GPT-3.5 model for a classification estimate. Note that GPT-3.5 could not ascertain the",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "files and an average of one million API requests per month. In Figure 2, we show the estimated numbers of",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "variance of estimated linkage propensities.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "At Statistics Canada, accuracy measures are estimated primarily through clerical reviews (Dasylva et al.,",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "considering model-based estimates (Dasylva and Goussanou, 2022). For example, this approach was used to",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
    {
     "quote": "al. ( 2023) for obtaining accurate performance metric estimates based on small and potentially",
     "url": "https://joss.theoj.org/papers/10.21105/joss.05619.pdf",
@@ -959,305 +1585,13 @@
     "pass": 3,
     "first_seen": "2026-11-06"
    }
-  ],
-  "実例": [
-   {
-    "quote": "performance. In the case of PatentsView’s disambiguation, no principled evaluation methodology is avail-",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "example 1 below.",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Example 1 (Bias of precision computed on benchmark datasets). To exemplify the problem with the trivial",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "used in numerous scientiﬁc studies (Toole et al., 2021). For example, Choudhury and Kim (2019) studied",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "In cases where no errors were found, the current disambiguation was assumed to be correct. Performance",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Figure 2: Example of ground truth clustering C (represented by boxes with a full border) and pre-",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Cluster Sampling Representation In the cluster sampling case, sampling probabilities are typically",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "rate helps showcase the properties of our estimators when only a small proportion of the sampled clusters is",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "record/cluster sampling cases, we looked at the eﬀect of sampling 100, 200 and 400 records/clusters.",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "and with the bias adjustment given in (8). Note that in the case of recall with cluster blocks, the",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "naive recall estimator performs well in this case. However, the recall estimator accounting for the sampling",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "size distributions. The bias of ratio estimators can be high in this case, especially when using small samples",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "estimation accuracy in such cases.",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "This section provides more information on example 1.",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "For this example, we considered the RLdata10000 dataset from Sariyar and Borg (2022). This is a",
-    "url": "https://arxiv.org/pdf/2210.01230",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "experiments for the case study on U.S. Census and Social Security Administration data",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "B.4.1 Case 0 ≤𝜎 <1 and𝛼 >0 . . . . . . . . . . . . . . . . . . . . . . . 166",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "B.4.2 Case 𝜎 <0 and𝛼 =m𝜅 form∈ N . . . . . . . . . . . . . . . . . . 166",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "1.2 Illustrative example of semantic heterogeneity and data quality issues . . 3",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "3.6 Results for d-b/l.Varink in the population estimation case study . . . . . . . 63",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "worst case. In an open world, ER methods must be robust to heterogeneity in data",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "it impossible to directly compare most of the attributes. For example, the listing from",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Figure 1.2: A realistic example of semantic heterogeneity and data quality issues encoun-",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "solution, even if there are feasible alternatives. For example, when applying ER to product",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "match status of the two listings. However, in this example it is diﬃcult to say for certain",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "itself. For example, when performing statistical analyses on integrated data, it may be",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "computationally expensive, especially in the case of ER due to the quadratic scaling",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "labelled examples to produce precise estimates of performance. On the other hand, ad-hoc",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "labelled examples. There has been some work in this area in a machine learning context",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "automate. In simple cases, there is a one-to-one mapping between attributes in",
-    "url": "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Entity resolution systems typically employ machine learning and artificial intelligence models to tackle this challenge. The models use contextual information to predict whether or not two records refer to the same entity. For example, we can approximately resolve unique inventors by using patent topic, co-authors, employer, and location, in addition to first and last names",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Instead of reviewing pairs of records, our evaluation approach utilizes a sample of fully-resolved entities, i.e., ground truth, or known clusters. In this approach, all pairs within a resolved cluster are known to match, and any pair that intersects a resolved cluster but is not contained within it is known to be a non-match. For example, a resolved cluster of",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ", we showcase its application to inventor name disambiguation and its validation in simulation studies. Finally, we conclude in section",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "We then discuss our motivating data and application in more detail. Finally, we provide additional information on current industry standards for the evaluation of entity resolution systems, using the methodology used by Statistics Canada as an example.",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Example of attributes available for individual inventor mentions. Additional attributes, such as co-inventor information and patent text, are available as well.",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ". For example, this approach was used to set the record similarity threshold (i.e., how similar two records have to be before they are linked) in the probabilistic linkage between the 2021 census of agriculture and the census of population for the same year",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "is sampled in any one draw. For example, with probability proportional to size sampling, we have",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "For example, when sampling clusters with probability proportional to size, we have",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "clusters to estimate the expectations in the numerators and denominators separately—for example, we can estimate each expectation with its corresponding weighted sample average—and take the ratio of the relevant estimated expectations.",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "In this case, the probability that a given cluster",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ". This is the case for PatentsView data, as large clusters tend to be associated with increased chances for errors.",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "Other sampling designs can be leveraged, in which case the probabilities",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "should change to match the design. For example, uniform sampling probabilities",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": "can be appropriate when entities, rather than records, are sampled at random. As another example, suppose the disambiguation algorithm provides match probabilities between all pairs of records; that is, we have probabilities",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   },
-   {
-    "quote": ". For example, systematic failure to disambiguate inventor names from a given culture, for instance due to differences in naming conventions, could be considered an unacceptable flaw even if the relative prevalence of such inventors is low. It is therefore necessary to test systems and to investigate errors to help identify such issues",
-    "url": "https://arxiv.org/html/2404.05622",
-    "pass": 3,
-    "first_seen": "2026-11-06"
-   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/tender_clam9623/n/n1b395ae1dbd3",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/atstream/n/n4b6dd8a1e381",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/ai_scout_jp/n/n91cff96707e1",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/famous_auklet634/n/n2dc0db47a808",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/atstream/n/n15ddcade7e85",
     "status": "ok",
     "method": "http"
    },
@@ -1267,12 +1601,32 @@
     "method": "http"
    },
    {
+    "url": "https://note.com/hearty_acacia322/n/n6b62d63f88ca",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/atstream/n/n15ddcade7e85",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tender_clam9623/n/n1b395ae1dbd3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tender_hawk4482/n/ne99993b74788",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://iotec-biz.com/column/nukitori-kensa/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.tbts.co.jp/useful/column/iot-ai/sampling-inspection/",
+    "url": "https://data-viz-lab.com/data-matching-and-data-cleansing",
     "status": "ok",
     "method": "http"
    },
@@ -1282,12 +1636,12 @@
     "method": "http"
    },
    {
-    "url": "https://geniee.co.jp/media/cdp/best-data-matching-tools-comparison/",
+    "url": "https://www.tbts.co.jp/useful/column/iot-ai/sampling-inspection/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.t-denshi-k.co.jp/media/column/attributes-sampling-inspection",
+    "url": "https://geniee.co.jp/media/cdp/best-data-matching-tools-comparison/",
     "status": "ok",
     "method": "http"
    },
@@ -1302,27 +1656,7 @@
     "method": "http"
    },
    {
-    "url": "https://support.minitab.com/ja-jp/minitab/help-and-how-to/quality-and-process-improvement/acceptance-sampling/how-to/attributes-acceptance-sampling/interpret-the-results/all-statistics-and-graphs/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.t-denshi-k.co.jp/media/column/aql-sampling",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.qtec.or.jp/knowledge/inspection/aql/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.mhlw.go.jp/topics/idenshi/codex/06/dl/cac_gl50.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://yachiyo-sol.com/library/nukitori-kensa-houhou/",
     "status": "ok",
     "method": "http"
    },
@@ -1332,32 +1666,52 @@
     "method": "http"
    },
    {
+    "url": "https://support.minitab.com/ja-jp/minitab/help-and-how-to/quality-and-process-improvement/acceptance-sampling/how-to/attributes-acceptance-sampling/interpret-the-results/all-statistics-and-graphs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.qtec.or.jp/knowledge/inspection/aql/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.sansan.com/media/aggregation-of-names/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.t-denshi-k.co.jp/media/column/attributes-sampling-inspection",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.altmetric.com/details/doi/10.1029/2018ja026223",
     "status": "robots_disallowed",
     "method": ""
    },
    {
-    "url": "https://iridge.jp/blog/202507/39156/",
+    "url": "https://www.shanon.co.jp/blog/entry/ma_data_cleansing/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
+    "url": "https://t-tosei.jp/knowledge/2078?srsltid=AYCX9vKQtKzhoYd5UDxhMyQ7OlioG7TvGX2AjXqhejMDZNnSzuinib8k",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://data-viz-lab.com/inquiry-data",
+    "url": "https://www.vectrix.co.jp/download/pdf/paper_qcpro3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://machiruka.com/sampling-inspection-criteria/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://arxiv.org/pdf/2210.01230",
+    "url": "https://arxiv.org/pdf/2404.05622",
     "status": "ok",
     "method": "pdf"
    },
@@ -1367,24 +1721,24 @@
     "method": "pdf"
    },
    {
+    "url": "https://medium.com/data-science/entity-resolution-identifying-real-world-entities-in-noisy-data-3e8c59f4f41c",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
     "url": "https://dl.acm.org/doi/10.1145/3721985",
     "status": "http_403",
     "method": "http"
    },
    {
-    "url": "https://medium.com/data-science/entity-resolution-identifying-real-world-entities-in-noisy-data-3e8c59f4f41c",
-    "status": "http_403",
-    "method": "http"
+    "url": "https://www.reddit.com/r/semanticweb/comments/1i2yaie/question_entity_resolution_how_would_i_design_a/",
+    "status": "robots_disallowed",
+    "method": ""
    },
    {
     "url": "https://vldb.org/pvldb/vol3/R18.pdf",
     "status": "ok",
     "method": "pdf"
-   },
-   {
-    "url": "https://www.science.org/doi/10.1126/sciadv.abi8021",
-    "status": "http_403",
-    "method": "http"
    }
   ]
  },
@@ -1392,16 +1746,16 @@
   {
    "query": "名寄せ・照合の精度をまとまり単位の抜き取りで測る方法（件数に比例した抜き取り・ペア単位の精度の偏り） site:note.com",
    "results": [
-    "https://note.com/tender_clam9623/n/n1b395ae1dbd3",
     "https://note.com/atstream/n/n4b6dd8a1e381",
-    "https://note.com/ai_scout_jp/n/n91cff96707e1",
-    "https://note.com/famous_auklet634/n/n2dc0db47a808",
-    "https://note.com/atstream/n/n15ddcade7e85",
     "https://note.com/anomaly_inc/n/n15611efccadc",
-    "https://note.com/hearty_acacia322/n/n6b62d63f88ca"
+    "https://note.com/hearty_acacia322/n/n6b62d63f88ca",
+    "https://note.com/atstream/n/n15ddcade7e85",
+    "https://note.com/tender_clam9623/n/n1b395ae1dbd3",
+    "https://note.com/tender_hawk4482/n/ne99993b74788",
+    "https://note.com/famous_auklet634/n/n2dc0db47a808"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -1409,18 +1763,18 @@
    "query": "名寄せ・照合の精度をまとまり単位の抜き取りで測る方法（件数に比例した抜き取り・ペア単位の精度の偏り） note",
    "results": [
     "https://iotec-biz.com/column/nukitori-kensa/",
-    "https://www.tbts.co.jp/useful/column/iot-ai/sampling-inspection/",
     "https://note.com/atstream/n/n4b6dd8a1e381",
+    "https://data-viz-lab.com/data-matching-and-data-cleansing",
     "https://usonar.co.jp/blog/b_1935.html",
+    "https://www.tbts.co.jp/useful/column/iot-ai/sampling-inspection/",
     "https://geniee.co.jp/media/cdp/best-data-matching-tools-comparison/",
-    "https://www.t-denshi-k.co.jp/media/column/attributes-sampling-inspection",
     "https://sales-marker.jp/report/entity-resolution-lead-data/",
-    "https://www.salesforce.com/jp/blog/jp-duplicate-data-integration/",
-    "https://note.com/atstream/n/n15ddcade7e85",
-    "https://seigitech.com/articles/sampling-inspection-aql"
+    "https://cir.nii.ac.jp/crid/1390001205645074944",
+    "https://www.t-denshi-k.co.jp/media/column/attributes-sampling-inspection",
+    "https://www.keyence.co.jp/ss/products/measure-sys/measurement-selection/process/sampling-inspection.jsp"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -1429,58 +1783,58 @@
    "query": "名寄せ・照合の精度をまとまり単位の抜き取りで測る方法（件数に比例した抜き取り・ペア単位の精度の偏り） やり方",
    "results": [
     "https://www.keyence.co.jp/ss/products/measure-sys/measurement-selection/process/sampling-inspection.jsp",
-    "https://iotec-biz.com/column/nukitori-kensa/",
     "https://www.tbts.co.jp/useful/column/iot-ai/sampling-inspection/",
-    "https://support.minitab.com/ja-jp/minitab/help-and-how-to/quality-and-process-improvement/acceptance-sampling/how-to/attributes-acceptance-sampling/interpret-the-results/all-statistics-and-graphs/",
     "https://www.t-denshi-k.co.jp/media/column/aql-sampling",
+    "https://iotec-biz.com/column/nukitori-kensa/",
+    "https://kaminashi.jp/media/sampling-inspection",
+    "https://support.minitab.com/ja-jp/minitab/help-and-how-to/quality-and-process-improvement/acceptance-sampling/how-to/attributes-acceptance-sampling/interpret-the-results/all-statistics-and-graphs/",
     "https://www.qtec.or.jp/knowledge/inspection/aql/",
+    "https://jp.sansan.com/media/aggregation-of-names/",
     "https://www.mhlw.go.jp/topics/idenshi/codex/06/dl/cac_gl50.pdf",
-    "https://yachiyo-sol.com/library/nukitori-kensa-houhou/",
-    "https://www.tmcsystem.co.jp/column/fa/aql-sampling-inspection",
     "https://data-viz-lab.com/data-matching-and-data-cleansing"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 14
   },
   {
    "query": "名寄せ・照合の精度をまとまり単位の抜き取りで測る方法（件数に比例した抜き取り・ペア単位の精度の偏り） 事例",
    "results": [
+    "https://www.keyence.co.jp/ss/products/measure-sys/measurement-selection/process/sampling-inspection.jsp",
+    "https://www.tbts.co.jp/useful/column/iot-ai/sampling-inspection/",
+    "https://iotec-biz.com/column/nukitori-kensa/",
+    "https://www.t-denshi-k.co.jp/media/column/attributes-sampling-inspection",
     "https://kaminashi.jp/media/sampling-inspection",
+    "https://usonar.co.jp/blog/b_1935.html",
     "https://www.altmetric.com/details/doi/10.1029/2018ja026223",
-    "https://iridge.jp/blog/202507/39156/",
-    "https://note.com/atstream/n/n15ddcade7e85",
-    "https://suuteki.ai-yobikou.com/field/data-interpretation/ri-01/text",
-    "https://data-viz-lab.com/inquiry-data",
-    "https://researchmap.jp/blogs/blog_entries/view/1169682/1a934445e917db74bb7a92a52eb9248c?frame_id=2030915",
-    "https://www.datascientist.or.jp/common/docs/skillcheck_ver4.00.pdf",
-    "https://eprints.lib.hokudai.ac.jp/dspace/bitstream/2115/5525/1/JCG272(1-4).pdf",
-    "https://takuminotie.com/blog/2023/03/27/工場での抜き取り検査と検査判定基準/2/"
+    "https://www.shanon.co.jp/blog/entry/ma_data_cleansing/",
+    "https://t-tosei.jp/knowledge/2078?srsltid=AYCX9vKQtKzhoYd5UDxhMyQ7OlioG7TvGX2AjXqhejMDZNnSzuinib8k",
+    "https://www.vectrix.co.jp/download/pdf/paper_qcpro3.pdf"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 13
   },
   {
    "query": "entity resolution evaluation cluster sampling precision bias",
    "results": [
-    "https://arxiv.org/pdf/2210.01230",
+    "https://arxiv.org/pdf/2404.05622",
     "https://www.ngmarchant.net/assets/pdf/phd-thesis.pdf",
-    "https://dl.acm.org/doi/10.1145/3721985",
     "https://medium.com/data-science/entity-resolution-identifying-real-world-entities-in-noisy-data-3e8c59f4f41c",
+    "https://dl.acm.org/doi/10.1145/3721985",
+    "https://www.reddit.com/r/semanticweb/comments/1i2yaie/question_entity_resolution_how_would_i_design_a/",
     "https://vldb.org/pvldb/vol3/R18.pdf",
-    "https://www.science.org/doi/10.1126/sciadv.abi8021",
     "http://home.cse.ust.hk/~leichen/courses/mscit6000d/notes/entityresolution.pdf",
+    "https://www.science.org/doi/10.1126/sciadv.abi8021",
     "https://www.placekey.io/blog/entity-resolution-key-concepts",
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC11636688/",
     "https://arxiv.org/html/2404.05622"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 15
@@ -1488,16 +1842,16 @@
   {
    "query": "site:note.com 名寄せ・照合の精度をまとまり単位の抜き取りで測る方法（件数に比例した抜き取り・ペア単位の精度の偏り）",
    "results": [
+    "https://note.com/atstream/n/n4b6dd8a1e381",
+    "https://note.com/anomaly_inc/n/n15611efccadc",
     "https://note.com/tender_clam9623/n/n1b395ae1dbd3",
     "https://note.com/anomaly_inc/n/n97a5977ecc26",
-    "https://note.com/atstream/n/n4b6dd8a1e381",
     "https://note.com/famous_auklet634/n/n2dc0db47a808",
     "https://note.com/atstream/n/n15ddcade7e85",
-    "https://note.com/anomaly_inc/n/n15611efccadc",
-    "https://note.com/hearty_acacia322/n/n6b62d63f88ca"
+    "https://note.com/tender_hawk4482/n/ne99993b74788"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   },
@@ -1505,12 +1859,12 @@
    "query": "site:x.com 名寄せ・照合の精度をまとまり単位の抜き取りで測る方法（件数に比例した抜き取り・ペア単位の精度の偏り）",
    "results": [
     "https://x.com/hhayashiss/status/2068967239894843745",
-    "https://x.com/high_tech_stock/status/2088111498271097196",
     "https://x.com/kigyoka_mezase/status/2108860090866626961",
-    "https://x.com/Jeanscpa/status/2087479422882550226",
-    "https://x.com/applied_HPC_AI/status/2072541385727869112",
+    "https://x.com/high_tech_stock/status/2088111498271097196",
     "https://x.com/nayuta_office/status/2118523887646363883",
-    "https://x.com/shohei_eduai/status/2114318558943473982"
+    "https://x.com/Jeanscpa/status/2087479422882550226",
+    "https://x.com/ichiro_Advisor/status/2117572498849988968",
+    "https://x.com/applied_HPC_AI/status/2072541385727869112"
    ],
    "engines": [
     "ddgs:google"
@@ -1520,13 +1874,13 @@
   {
    "query": "site:linkedin.com 名寄せ・照合の精度をまとまり単位の抜き取りで測る方法（件数に比例した抜き取り・ペア単位の精度の偏り）",
    "results": [
-    "https://de.linkedin.com/jobs",
-    "https://no.linkedin.com/company/kompetansebroen",
+    "https://jp.linkedin.com/posts/datarobot-japan_datarobot-codespaceでllmを活用した名寄せ処理をやってみた-activity-7298587463697014784-zCK7",
     "https://jp.linkedin.com/posts/hiroyukimonma_工場での抜き取り検査と検査判定基準-イラスト図解-日本のものづくり品質管理-activity-7244885387460952065-NKrC",
-    "https://at.linkedin.com/in/christian-kniescheck/en",
     "https://www.linkedin.com/posts/hiroyukimonma_工場での抜き取り検査と検査判定基準-イラスト図解-日本のものづくり品質管理-activity-7244885387460952065-NKrC",
     "https://www.linkedin.com/posts/hiroyukimonma_工場での抜き取り検査と検査判定基準-イラスト図解-日本のものづくり品質管理-activity-7269624851126988800-WZ_c",
-    "https://jp.linkedin.com/pulse/maximize-accuracy-reconciliation-automation-solutions-10decoders-eoi6c?tl=ja"
+    "https://jp.linkedin.com/pulse/maximize-accuracy-reconciliation-automation-solutions-10decoders-eoi6c?tl=ja",
+    "https://jp.linkedin.com/pulse/how-reconciliation-automation-saves-time-improves-accuracy-koshai-fclyc?tl=ja",
+    "https://jp.linkedin.com/pulse/finance-teams-guide-reconciliation-kpis-bestitssapreconciled-hcjce?tl=ja"
    ],
    "engines": [
     "ddgs:google"
@@ -1537,37 +1891,37 @@
    "query": "site:facebook.com 名寄せ・照合の精度をまとまり単位の抜き取りで測る方法（件数に比例した抜き取り・ペア単位の精度の偏り）",
    "results": [
     "https://www.facebook.com/usonar.jp/posts/982804950532316/",
-    "https://www.facebook.com/hirofumi.matsuoka1/posts/名寄せとはある市区町村内で一人が持つ不動産をまとめた一覧表名寄帳を作ることです固定資産税がかからない私道や山林未登記の建物まで載るため相続の際に隠れた財産の見落/32927447200236710/",
-    "https://www.facebook.com/saaskecloud/photos/おすすめコンテンツのご紹介マーケティングブログデータクレンジングと名寄せデータの質を高める実践方法を公開しましたデータクレンジングの重要性とビジネスへの影響とは/996842299114322/",
-    "https://www.facebook.com/sratohokuinc/posts/研究者の名前がデータベースに異なる形式で登録されることは学術研究や資金調達の際に混乱を招く可能性があります名寄せの課題を解決することで研究者の業績の正確な評価や/857495186385362/",
     "https://www.facebook.com/story.php/?story_fbid=928799332617794&id=100064632072166",
+    "https://www.facebook.com/saaskecloud/photos/おすすめコンテンツのご紹介マーケティングブログデータクレンジングと名寄せデータの質を高める実践方法を公開しましたデータクレンジングの重要性とビジネスへの影響とは/996842299114322/",
+    "https://www.facebook.com/akira.yoshioka/videos/指示はa社でも箱はb社20ケース数はぴったりそれでもこのまま積むことはできません出発まであと30分隣の便も同じ時刻焦る気持ちを抑えて出荷指示書と箱の品番届け先を/1122187700526006/",
     "https://www.facebook.com/MitsubishiElectricFA.JP/posts/課題解決ガイドブック照合機能でラクラク解決変更したプログラムやパラメータの箇所が分からないそんなお悩みはございませんかシーケンサ用のエンジニアリングツール-gx/711581991127674/",
-    "https://www.facebook.com/onosokki/posts/faqより指示精度と分解能って何が違うのリニアゲージセンサに関して指示精度と分解能って何が違うのとよく聞かれますこれはリニアゲージセンサに限ったことではなく計測/3805920176152142/"
+    "https://www.facebook.com/onosokki/posts/faqより指示精度と分解能って何が違うのリニアゲージセンサに関して指示精度と分解能って何が違うのとよく聞かれますこれはリニアゲージセンサに限ったことではなく計測/3805920176152142/",
+    "https://www.facebook.com/pfu.jp/videos/まずは自社の業務でどこにムダがありどう見直せるのかチェックしませんか/3250310865357818/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
   {
    "query": "名寄せ・照合の精度をまとまり単位の抜き取りで測る方法（件数に比例した抜き取り・ペア単位の精度の偏り） note 社長",
    "results": [
-    "https://www.keyence.co.jp/ss/products/measure-sys/measurement-selection/process/sampling-inspection.jsp",
-    "https://iotec-biz.com/column/nukitori-kensa/",
-    "https://www.tbts.co.jp/useful/column/iot-ai/sampling-inspection/",
     "https://note.com/atstream/n/n4b6dd8a1e381",
-    "https://www.t-denshi-k.co.jp/media/column/attributes-sampling-inspection",
     "https://jp.sansan.com/media/aggregation-of-names/",
     "https://data-viz-lab.com/data-matching-and-data-cleansing",
     "https://usonar.co.jp/blog/b_1935.html",
+    "https://geniee.co.jp/media/cdp/best-data-matching-tools-comparison/",
     "https://www.hammock.jp/hpr/media/name-collection-methods.html",
-    "https://takuminotie.com/blog/2023/03/27/工場での抜き取り検査と検査判定基準/2/"
+    "https://sales-marker.jp/report/entity-resolution-lead-data/",
+    "https://www.salesforce.com/jp/blog/jp-duplicate-data-integration/",
+    "https://www.tbts.co.jp/useful/column/iot-ai/sampling-inspection/",
+    "https://www.vectrix.co.jp/download/pdf/paper_qcpro3.pdf"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 14
+   "n_hits": 16
   },
   {
    "query": "名寄せ・照合の精度をまとまり単位の抜き取りで測る方法（件数に比例した抜き取り・ペア単位の精度の偏り） X 投稿",
@@ -1576,15 +1930,15 @@
     "https://www.tbts.co.jp/useful/column/iot-ai/sampling-inspection/",
     "https://www.t-denshi-k.co.jp/media/column/attributes-sampling-inspection",
     "https://kaminashi.jp/media/sampling-inspection",
+    "https://www.mhlw.go.jp/topics/idenshi/codex/06/dl/cac_gl50.pdf",
+    "https://app.testgorilla.com/preview/825639?language=ja-jp",
     "https://usonar.co.jp/blog/b_1935.html",
     "https://support.minitab.com/ja-jp/minitab/help-and-how-to/quality-and-process-improvement/acceptance-sampling/how-to/variables-acceptance-sampling-create-compare/methods-and-formulas/methods-and-formulas/",
     "https://jp.sansan.com/media/aggregation-of-names/",
-    "https://www.hammock.jp/hpr/media/name-collection-methods.html",
-    "https://sales-marker.jp/report/entity-resolution-lead-data/",
-    "https://seigitech.com/articles/sampling-inspection-aql"
+    "https://www.vectrix.co.jp/download/pdf/paper_qcpro3.pdf"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 14
@@ -1593,24 +1947,388 @@
    "query": "entity resolution evaluation cluster sampling precision bias site:linkedin.com",
    "results": [
     "https://www.linkedin.com/in/delenn",
-    "https://www.linkedin.com/in/samuel-kang-270884222/ko",
     "https://www.linkedin.com/pulse/emergent-clustering-embedding-spaces-foundations-prompt-lively-qhvae",
     "https://www.linkedin.com/in/anitanesbitt",
-    "https://www.linkedin.com/in/tyler-j-howard",
     "https://il.linkedin.com/in/gurevichvladimir",
     "https://lu.linkedin.com/in/yramirezc",
-    "https://ca.linkedin.com/in/sehajs",
-    "https://www.linkedin.com/in/adamezzat",
-    "https://www.linkedin.com/in/nasreenbuhn"
+    "https://www.linkedin.com/in/cmuliliu",
+    "https://www.linkedin.com/in/johnsonsini",
+    "https://www.linkedin.com/in/avinasharutla",
+    "https://www.linkedin.com/pulse/leveraging-advanced-ai-technologies-enhanced-data-anand-ramachandran-j9o0c",
+    "https://www.linkedin.com/in/darsei"
    ],
    "engines": [
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 10
+   "n_hits": 17
   }
  ],
  "missing": {},
- "new_this_run": {},
- "runs": 14,
+ "new_this_run": {
+  "手順・やり方": [
+   {
+    "quote": "How to Evaluate Entity Resolution Systems:",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "An Entity-Centric Framework with Application to",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "ing for a needle in a haystack, traditional evaluation methods use sophisticated, application-specific sam-",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "and a variety of evaluation tasks. Specifically, we propose an entity-centric data labeling methodology",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "that integrates with a unified framework for monitoring summary statistics, estimating key performance",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "date the framework in an application to inventor name disambiguation and through simulation studies.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "methods often rely on manually reviewing pairs of records to validate linkage predictions. However, finding",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "evaluation framework with the following components.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "4. Data Labeling Though Cluster Sampling: A methodology for creating a benchmark set of fully-",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Our framework does black box evaluation. That is, we evaluate the end result of an entity resolution system,",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "without considering its specific architecture. This allows our framework to apply to any entity resolution",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Figure 1 represents the elements of the evaluation framework as well as their interdependencies.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Methodology (§3.2)",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Figure 1: Diagram representation of the main elements of the framework and their dependencies. The entity",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "or from our data labeling methodology. Error analysis and performance estimates rely on cluster-wise error",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "numerous yet small. For example, entity resolution is used for the identification of unique inventors listed",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "same entity. For example, we can approximately resolve unique inventors by using patent topic, co-authors,",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "For example, a resolved cluster of 10 records in a database of 1 , 000, 010 records includes",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "In section 4, we showcase its application to inventor name disambiguation and its validation in simulation",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "resolution systems, using the methodology used by Statistics Canada as an example.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "patent grant date, patent assignee, and patent classification codes; see Table 1 for examples.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "T able 1: Example of attributes available for individual inventor mentions. Additional attributes, such as",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "or operational. In the former case, the main goal is to produce a linked file including all the required",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "responses and explanatory variables, to fit some regression model. A good example is the linkage of the",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "considering model-based estimates (Dasylva and Goussanou, 2022). For example, this approach was used to",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "example, with probability proportional to size sampling, we have pc = |c|/N. Sampling processes and designs",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "For example, when sampling clusters with probability proportional to size, we havepc = |c|/N. Consequently,",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "example, we can estimate each expectation with its corresponding weighted sample average—and take the",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "In this case, the probability that a given cluster c is sampled in any single draw is |c|/N, i.e., this is sampling",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "of population quantities (Lohr, 2021). This is the case for PatentsView data, as large clusters tend to be",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "commonly-used performance estimators are biased (Wang et al., 2022; Binette et al., 2022). This can lead to",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "the true precision for the entire data set may be much lower. When combining biased precision estimates",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "The LR metric highlights potential biases, here linkage rate differences across subgroups, by measuring the",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "bias-adjusted estimator and variance estimator described in Binette et al. (2022). Similarly, the homonymy",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "adapting the performance bias module of the Deepchecks Python package (Chorev et al., 2023) to include",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "reduce bias in the ratio estimator and its variance estimator using the approach described in Binette et al.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "ground truth for the RLData10000 data set, we can compute the bias and root mean square error (RMSE)",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Figure 9 summarizes the results of 1,000 runs. The empirical bias is always smaller than 0 .4% and always",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "less than 0 .2% when going up to samples of size at least 400. This validates the near unbiasedness of the",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "In terms of bias, uniform sampling weights are unreliable for estimating pairwise precision in this simu-",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "cluster sizes with many errors may not be observed frequently in the sample. On the other hand, the bias",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Ventura, S. L., R. Nugent, and E. R. Fuchs (2015). Seeing the non-stars: (Some) sources of bias in past",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "precision and 97% pairwise recall. Note that bias is below 0.4% in all cases.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "of the algorithm, specifically, 91% pairwise precision and 94% pairwise recall. Note that bias is essentially",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   }
+  ],
+  "突き合わせ・推定": [
+   {
+    "quote": "2. Global Performance Metric Estimates: To obtain estimates of global performance metrics such",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "tain estimates that are representative of the system’s performance on the entire data set, not just the",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Estimates (§3.4)",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "computed for predictions, while their true value for a ground truth clustering can be estimated using labeled",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "or from our data labeling methodology. Error analysis and performance estimates rely on cluster-wise error",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "the true precision for the entire data set may be much lower. When combining biased precision estimates",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "with recall estimates into an F1 score, this can lead to performance rank reversals: an algorithm may be",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Figure 2: Left: Estimated number of citations to PatentsView in academic literature by year. Right:",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Number of citations by estimated Dewey Decimal Broad Classification. The estimated citation numbers were",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "results, with the 2023 year estimate containing extrapolated counts for November and December. The Dewey",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "querying openAI’s GPT-3.5 model for a classification estimate. Note that GPT-3.5 could not ascertain the",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "files and an average of one million API requests per month. In Figure 2, we show the estimated numbers of",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "variance of estimated linkage propensities.",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "At Statistics Canada, accuracy measures are estimated primarily through clerical reviews (Dasylva et al.,",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "considering model-based estimates (Dasylva and Goussanou, 2022). For example, this approach was used to",
+    "url": "https://arxiv.org/pdf/2404.05622",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   }
+  ]
+ },
+ "runs": 15,
  "first_researched_at": "2026-11-06T05:53:03.281036+00:00"
 }

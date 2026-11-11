@@ -1,0 +1,821 @@
+{
+ "name": "Nestgenomics",
+ "aliases": [],
+ "context": "旧営業リスト｜Digital Health/Genomics｜未接触",
+ "researched_at": "2026-11-11T13:11:11.659995+00:00",
+ "official_url": "https://nestgenomics.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Bring the promise of genetics to more patients, faster.",
+    "url": "https://www.nestgenomics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Program Analytics & Insights",
+    "url": "https://www.nestgenomics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Measure program performance, optimize workflows with real-time data, and track clinical and economic outcomes.",
+    "url": "https://www.nestgenomics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Identify patients who meet genetic testing criteria using the EMR and/or patient-reported data. Our AI-powered algorithms help you proactively surface patients who would benefit from genomic testing.",
+    "url": "https://www.nestgenomics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Nest supports flexible lab configurations and standardizes the experience for patients and providers across labs.",
+    "url": "https://www.nestgenomics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect to your preferred lab partners with flexible routing and configuration options.",
+    "url": "https://www.nestgenomics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Customize test menus by program, clinic, or specialty to match your workflows.",
+    "url": "https://www.nestgenomics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Supports program growth",
+    "url": "https://www.nestgenomics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Scale your genomic programs without re-platforming as your needs evolve.",
+    "url": "https://www.nestgenomics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enter your patient volume to see projected outcomes based on real-world results from Nest implementations.",
+    "url": "https://www.nestgenomics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Do you support both providers and patients?",
+    "url": "https://www.nestgenomics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Can we run multiple genomic programs on one platform?",
+    "url": "https://www.nestgenomics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Backed by Y-Combinator and driven by clinical integrity, we build beautiful, user-centered, evidence-based products that integrate genomics into provider workflows. The result is a seamless approach to delivering precision medicine at scale, from intake to long-term management.",
+    "url": "https://www.nestgenomics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our team is made up of product experts, genetic counselors, seasoned engineers and serial entrepreneurs in the genomics space, most recently building Clear Genetics — including the GIA chatbot that served millions of patients — which was acquired by Invitae in 2019.",
+    "url": "https://www.nestgenomics.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "As genetics advanced, the science kept moving faster. New tests became available. Discoveries accelerated. Therapies became more promising, but getting those advances to patients was still far too hard.",
+    "url": "https://www.nestgenomics.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Over and over, I saw the same problem: life-changing genetic information existed, but it was not reaching people in routine care. Access depended on where you lived, who your provider was, how much time the clinic had, and whether the right systems were in place. Genetics was advancing quickly, but the infrastructure to deliver it at scale was not.",
+    "url": "https://www.nestgenomics.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "I have had the privilege of working with many incredible teammates. They stayed with me through multiple companies, which allows us to build together from a place of trust. We've worked with forward-thinking providers, health systems, and care teams. By combining forces, we learned the real barriers to bringing genetics to the point of care.",
+    "url": "https://www.nestgenomics.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "The challenge is not only scientific. It is operational. It is workflow. It is education and follow-up. It is making sure the right patient is identified, the right information is shared, the right test is ordered, and care happens after results come back. These are solvable problems, but only if we build for the realities of healthcare.",
+    "url": "https://www.nestgenomics.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "We built Nest because delivering genomic care at scale is hard: fragmented workflows, limited genetics expertise, and high operational burden. Nest brings smart capabilities into one system—so organizations can launch and scale precision medicine programs, enable timely access to genetic information, and truly focus on patient care.",
+    "url": "https://www.nestgenomics.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Our team is made up of product experts, genetic counselors, seasoned engineers and serial entrepreneurs in the genomics space, most recently building Clear Genetics — including the GIA chatbot that served millions of patients — which was acquired by Invitae in 2019.",
+    "url": "https://www.nestgenomics.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "As genetics advanced, the science kept moving faster. New tests became available. Discoveries accelerated. Therapies became more promising, but getting those advances to patients was still far too hard.",
+    "url": "https://www.nestgenomics.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Over and over, I saw the same problem: life-changing genetic information existed, but it was not reaching people in routine care. Access depended on where you lived, who your provider was, how much time the clinic had, and whether the right systems were in place. Genetics was advancing quickly, but the infrastructure to deliver it at scale was not.",
+    "url": "https://www.nestgenomics.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "I have had the privilege of working with many incredible teammates. They stayed with me through multiple companies, which allows us to build together from a place of trust. We've worked with forward-thinking providers, health systems, and care teams. By combining forces, we learned the real barriers to bringing genetics to the point of care.",
+    "url": "https://www.nestgenomics.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "The challenge is not only scientific. It is operational. It is workflow. It is education and follow-up. It is making sure the right patient is identified, the right information is shared, the right test is ordered, and care happens after results come back. These are solvable problems, but only if we build for the realities of healthcare.",
+    "url": "https://www.nestgenomics.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "We built Nest because delivering genomic care at scale is hard: fragmented workflows, limited genetics expertise, and high operational burden. Nest brings smart capabilities into one system—so organizations can launch and scale precision medicine programs, enable timely access to genetic information, and truly focus on patient care.",
+    "url": "https://www.nestgenomics.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Customers evaluate the quality of Nest Genomics’s products using the following success metrics.",
+    "url": "https://www.cbinsights.com/company/nest-genomics/customers",
+    "pass": 3
+   },
+   {
+    "quote": "athenahealth focuses on healthcare practices with technology in the healthcare sector. It offers electronic health records, revenue cycle management, and patient engagement solutions aimed at facilitating processes for patients and healthcare providers. It primarily serves healthcare providers and administrators. It was founded in 1997 and is based in Boston, Massachusetts.",
+    "url": "https://www.cbinsights.com/company/nest-genomics/customers",
+    "pass": 3
+   },
+   {
+    "quote": "permits us to improve and customize your experience. You can read more about your",
+    "url": "https://www.cbinsights.com/company/nest-genomics/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/nestgenomics.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/nestgenomics.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/nestgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/nestgenomics.com",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by Healthcare Organizations Nationwide",
+    "url": "https://www.nestgenomics.com/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Make genomic care part of every patient journey.",
+    "url": "https://www.nestgenomics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We are on a mission to make genomics a routine part of patient care.",
+    "url": "https://www.nestgenomics.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Our team is made up of product experts, genetic counselors, seasoned engineers and serial entrepreneurs in the genomics space, most recently building Clear Genetics — including the GIA chatbot that served millions of patients — which was acquired by Invitae in 2019.",
+    "url": "https://www.nestgenomics.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Our work has included building platforms to support universal carrier screening, and later Clear Genetics and GIA—the Genetic Information Assistant—which was ultimately acquired by Invitae.",
+    "url": "https://www.nestgenomics.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "I have had the privilege of working with many incredible teammates. They stayed with me through multiple companies, which allows us to build together from a place of trust. We've worked with forward-thinking providers, health systems, and care teams. By combining forces, we learned the real barriers to bringing genetics to the point of care.",
+    "url": "https://www.nestgenomics.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Huscarlは、企業の自家保険（セルフインシュアランス）および自家保険子会社（キャプティブ）の運用を支援するAIアクチュアリー（保険数理）プラットフォー...",
+    "url": "https://www.firstcvc.jp/global/nestgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "We are on a mission to make genomics a routine part of patient care.",
+    "url": "https://www.nestgenomics.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Our team is made up of product experts, genetic counselors, seasoned engineers and serial entrepreneurs in the genomics space, most recently building Clear Genetics — including the GIA chatbot that served millions of patients — which was acquired by Invitae in 2019.",
+    "url": "https://www.nestgenomics.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Our work has included building platforms to support universal carrier screening, and later Clear Genetics and GIA—the Genetic Information Assistant—which was ultimately acquired by Invitae.",
+    "url": "https://www.nestgenomics.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "I have had the privilege of working with many incredible teammates. They stayed with me through multiple companies, which allows us to build together from a place of trust. We've worked with forward-thinking providers, health systems, and care teams. By combining forces, we learned the real barriers to bringing genetics to the point of care.",
+    "url": "https://www.nestgenomics.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "athenahealth focuses on healthcare practices with technology in the healthcare sector. It offers electronic health records, revenue cycle management, and patient engagement solutions aimed at facilitating processes for patients and healthcare providers. It primarily serves healthcare providers and administrators. It was founded in 1997 and is based in Boston, Massachusetts.",
+    "url": "https://www.cbinsights.com/company/nest-genomics/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Nest Genomics Revenue 2024: $552K Est.",
+    "url": "https://getlatka.com/companies/nestgenomics.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Nest Genomics revenue",
+    "url": "https://getlatka.com/companies/nestgenomics.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Nest Genomics has not published its revenue. GetLatka estimates it at about $552K a year (June 2024).",
+    "url": "https://getlatka.com/companies/nestgenomics.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Nest Genomics CEO, founders & employees",
+    "url": "https://getlatka.com/companies/nestgenomics.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Moran Snir founded Nest Genomics in 2022 and runs it as CEO. Nest Genomics had 14 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/nestgenomics.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "What is Nest Genomics' revenue?",
+    "url": "https://getlatka.com/companies/nestgenomics.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Nest Genomics' revenue at about",
+    "url": "https://getlatka.com/companies/nestgenomics.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Nest Genomics have?",
+    "url": "https://getlatka.com/companies/nestgenomics.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/nestgenomics.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/nestgenomics.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/nestgenomics.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/nestgenomics.com#customers",
+    "pass": 3
+   },
+   {
+    "quote": "Nest Genomics Revenue 2024: $552K Est.",
+    "url": "https://getlatka.com/companies/nestgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Nest Genomics revenue",
+    "url": "https://getlatka.com/companies/nestgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Nest Genomics has not published its revenue. GetLatka estimates it at about $552K a year (June 2024).",
+    "url": "https://getlatka.com/companies/nestgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Nest Genomics CEO, founders & employees",
+    "url": "https://getlatka.com/companies/nestgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Moran Snir founded Nest Genomics in 2022 and runs it as CEO. Nest Genomics had 14 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/nestgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Nest Genomics' revenue?",
+    "url": "https://getlatka.com/companies/nestgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Nest Genomics' revenue at about",
+    "url": "https://getlatka.com/companies/nestgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Nest Genomics have?",
+    "url": "https://getlatka.com/companies/nestgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/nestgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/nestgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/nestgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/nestgenomics.com",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Nest Genomics — Transform patient care with AI built for genomics. Nest gives your health system a single platform to launch, coordinate, and scale genomic programs.",
+    "url": "https://www.nestgenomics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Nest Genomics (YC W22)の資金調達・投資家情報 | 海外スタートアップ... — Alumni Ventures、Y Combinatorのポートフォリオに掲載される海外スタートアップNest Genomics (YC W22)の企業プロフィール。Nest Genomics（法人名: Nest Health Tech Inc.）は、ゲノム医療を日常の臨床現場に統合するためのソフトウェアプラット...",
+    "url": "https://www.firstcvc.jp/global/nestgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "About - Nest Genomics — At Nest, we are passionate about increasing access to genetic information. YC backed and engineering led, we build beautiful, user centered, evidence based products.",
+    "url": "https://www.nestgenomics.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Nest Genomics Customers - CB Insights — athenahealth operates as a company providing healthcare technology solutions, including electronic health records, medical billing and practice management software, and patient engagement tools. The offerings aim to improve operations and patient care. athenahealth serves a variety of customers, including provider organizations, medical practices of differen",
+    "url": "https://www.cbinsights.com/company/nest-genomics/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Nest Genomics 2026 Company Profile: Valuation, Funding ...Nest Genomics (YC W22) : Revenue, Funding, Valuation ...How Nest Genomics hit $552K revenue with a 14 person team in ...Nest Genomics Revenue 2024: $552K Est. - getlatka.comNest Genomics Funding History, Valuation and Investors - aVentureNest Genomics - 2026 Company Profile, Team, Funding ... - TracxnNest Genomics — Company Profile & Fundin",
+    "url": "https://pitchbook.com/profiles/company/494510-41",
+    "pass": 3
+   },
+   {
+    "quote": "Nest Genomics (YC W22) : Revenue, Funding, Valuation ... — Discover Nest Genomics (YC W22)'s estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/nest-genomics-yc-w22",
+    "pass": 3
+   },
+   {
+    "quote": "How Nest Genomics hit $552K revenue with a 14 person team in ... — When was Nest Genomics founded? Nest Genomics was founded in 2022. How much revenue does Nest Genomics generate? Nest Genomics generates $552K in revenue. How much funding does Nest Genomics have? Nest Genomics raised $0. How many employees does Nest Genomics have? Nest Genomics has 14 employees. Where is Nest Genomics headquarters",
+    "url": "https://getlatka.com/companies/nestgenomics.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Nest Genomics Revenue 2024: $552K Est. - getlatka.com — Sep 2, 2026 · Nest Genomics 2024 estimated revenue: $552K. 14 employees. Industry: Other Vertical Industry Software. Founded 2022. Updated Sep 2, 2026.",
+    "url": "https://getlatka.com/companies/nestgenomics.com",
+    "pass": 3
+   },
+   {
+    "quote": "Nest Genomics Funding History, Valuation and Investors - aVenture — Oct 15, 2026 · Funding rounds, valuation history, and investor coverage across 14 investors for Nest Genomics.",
+    "url": "https://aventure.vc/companies/nest-genomics-new-york-city-ny-us/fundraising",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Nest Genomics (YC W22) - LinkedIn Nest Genomics (YC W22) | 2,119 followers on LinkedIn. Genomic insights for life | Nest is building a platform for providers and patients to make genetic information part of everyday health",
+    "url": "https://www.linkedin.com/company/nesthealth",
+    "pass": 3
+   },
+   {
+    "quote": "Guy Snir - Cofounder at Nest Genomics (YC W22) - We're ...Alkis Sellis - Nest Genomics (YC W22) | LinkedIn#wearehiring #genomics #precisionmedicine #salesjobs # ...#health #genomics #precisionmedicine | Nest Genomics (YC W22)Emilie Johnson Simmons - Product at Nest Genomics | LinkedIn Cofounder at Nest Genomics (YC W22) - We're Hiring! · Specialties: Product Management, Digital Health, Analytical,",
+    "url": "https://www.linkedin.com/in/guysnir",
+    "pass": 3
+   },
+   {
+    "quote": "Alkis Sellis - Nest Genomics (YC W22) | LinkedIn#wearehiring #genomics #precisionmedicine #salesjobs # ...#health #genomics #precisionmedicine | Nest Genomics (YC W22)Emilie Johnson Simmons - Product at Nest Genomics | LinkedIn Εμπειρία: Nest Genomics (YC W22) · Εκπαίδευση: University of Athens · Τοποθεσία: Athens Metropolitan Area · 500+ συνδέσεις στο LinkedIn. Δείτε Alkis Sellis το προφίλ στο Li",
+    "url": "https://gr.linkedin.com/in/alkis-sellis-51a09a26",
+    "pass": 3
+   },
+   {
+    "quote": "Emilie Johnson Simmons - Product at Nest Genomics | LinkedIn Product at Nest Genomics · Experience: Nest Genomics (YC W22) · Education: Stanford University · Location: San Francisco · 500+ connections on LinkedIn. View Emilie Johnson Simmons’ profile ...",
+    "url": "https://www.linkedin.com/in/emilie-johnson-simmons-50b14b11",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Y Combinator - Nest Genomics (YC W22) has raised $8.5... Nest Genomics just closed a $8.5 million seed financing round. The company provides the software infrastructure needed for health systems, clinics, drugmakers and payers to launch and scale genomic programs.",
+    "url": "https://www.facebook.com/YCombinator/posts/10159687388854107/",
+    "pass": 3
+   },
+   {
+    "quote": "iAngels - Exciting news! Nest Genomics, an iAngels... | Facebook Jan 24, 2023 · Exciting news! Nest Genomics, an iAngels portfolio company, just closed an $8.5 million Seed financing round to bring genomics into mainstream patient care. #Nest is an AI-powered platform that...",
+    "url": "https://www.facebook.com/iAngelsCapital/posts/exciting-news-nest-genomics-an-iangels-portfolio-company-just-closed-an-85-milli/5797150383671271/",
+    "pass": 3
+   },
+   {
+    "quote": "N.E.S.T. (Network for Endangered Sea Turtles) - FacebookFacebookLionBird - Facebook Nest 45 progressed quickly. In the early checks, volunteers noticed the signature sinkhole in the sand that tells us that sea turtles are getting ready to emerge, and they heard activity within the nest. The nest boiled a couple of nights later, with a few other sea turtles emerging the following nights. Nest excav",
+    "url": "https://www.facebook.com/NESTOBX/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.nestgenomics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nestgenomics.com/about/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.nestgenomics.com/images/mount-sinai.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nestgenomics.com/logos/rady-childrens.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nestgenomics.com/logos/ms-medicine.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nestgenomics.com/logos/baptist-health.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.nestgenomics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.firstcvc.jp/global/nestgenomics.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://pages.10xgenomics.com/jp-portal.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.nest-biotech.com/news/detail-361985.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nestgenomics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nestgenomics.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smith-nephew.com/en-us/contact-us/companyinfo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://genomicsjapan.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nest-biotech.com/news/nest-first-japan-distributor-conference-successfully-concluded-361985.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nestgenomics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nestgenomics.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/nest-genomics/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/nest",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.designorate.com/innovation-nest-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mendix.com/customer-stories/a-prescription-for-innovation-in-biopharmaceutical-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.thenationalcouncil.org/get-involved/partner-with-us/partnership-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nebius.com/nebius-partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/494510-41",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/nest-genomics-yc-w22",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/nestgenomics.com#customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/nestgenomics.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/nesthealth",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/guysnir",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://gr.linkedin.com/in/alkis-sellis-51a09a26",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/emilie-johnson-simmons-50b14b11",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/YCombinator/posts/10159687388854107/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/iAngelsCapital/posts/exciting-news-nest-genomics-an-iangels-portfolio-company-just-closed-an-85-milli/5797150383671271/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/NESTOBX/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Nestgenomics 日本 導入",
+   "results": [
+    "https://www.nestgenomics.com/",
+    "https://www.firstcvc.jp/global/nestgenomics.com",
+    "http://pages.10xgenomics.com/jp-portal.html",
+    "https://jp.nest-biotech.com/news/detail-361985.html",
+    "https://www.verifiedmarketreports.com/ja/blog/top-10-companies-in-genomics/",
+    "https://en.firstcvc.jp/global/nestgenomics.com",
+    "https://jp.nest-biotech.com/news/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nestgenomics 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.nestgenomics.com/",
+    "https://www.nestgenomics.com/about",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.cosmobio.co.jp/agency/brevitycode.asp",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/",
+    "https://ja.nozominetworks.com/company"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nestgenomics Japan",
+   "results": [
+    "http://genomicsjapan.jp/",
+    "https://www.nest-biotech.com/news/nest-first-japan-distributor-conference-successfully-concluded-361985.html",
+    "https://www.nestgenomics.com/",
+    "https://www.nestgenomics.com/about",
+    "https://www.firstcvc.jp/global/nestgenomics.com",
+    "https://jp.linkedin.com/company/nestbiotechnology",
+    "https://en.firstcvc.jp/global/nestgenomics.com"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nestgenomics manufacturing customer case study",
+   "results": [
+    "https://www.cbinsights.com/company/nest-genomics/customers",
+    "https://www.casestudies.com/customer/nest",
+    "https://www.designorate.com/innovation-nest-case-study/",
+    "https://www.mendix.com/customer-stories/a-prescription-for-innovation-in-biopharmaceutical-manufacturing/",
+    "https://azure.microsoft.com/en-us/resources/customer-stories/",
+    "https://www.nestgenomics.com/",
+    "https://www.nestgenomics.com/impact/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nestgenomics white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.thenationalcouncil.org/get-involved/partner-with-us/partnership-program/",
+    "https://nebius.com/nebius-partner-program",
+    "https://upcloud.com/partner-program/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.nestgenomics.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nestgenomics founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/494510-41",
+    "https://compworth.com/company/nest-genomics-yc-w22",
+    "https://getlatka.com/companies/nestgenomics.com/customers",
+    "https://getlatka.com/companies/nestgenomics.com",
+    "https://aventure.vc/companies/nest-genomics-new-york-city-ny-us/fundraising",
+    "https://tracxn.com/d/companies/nestgenomics/__zHLAD1GnKoeX5bNViE2XQ39C-WFgpC4vw06K59b8ON0",
+    "https://indexed.vc/companies/nesthealth"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Nestgenomics",
+   "results": [
+    "https://note.com/worldpeace2024",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/seigo77",
+    "https://note.com/dashboard",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/fond_clam2634/n/n06d26defb95d",
+    "https://note.com/momiji_man_10/n/n62ea2d9a9a9a"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Nestgenomics",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Nestgenomics",
+   "results": [
+    "https://www.linkedin.com/company/nesthealth",
+    "https://www.linkedin.com/in/guysnir",
+    "https://gr.linkedin.com/in/alkis-sellis-51a09a26",
+    "https://www.linkedin.com/in/emilie-johnson-simmons-50b14b11",
+    "https://il.linkedin.com/company/nesthealth",
+    "https://pe.linkedin.com/posts/nesthealth_wearehiring-genomics-precisionmedicine-activity-7289644225124528128-OQDV",
+    "https://www.linkedin.com/posts/nesthealth_health-genomics-precisionmedicine-activity-7449422393904685058-pFZK"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Nestgenomics",
+   "results": [
+    "https://www.facebook.com/YCombinator/posts/10159687388854107/",
+    "https://www.facebook.com/iAngelsCapital/posts/exciting-news-nest-genomics-an-iangels-portfolio-company-just-closed-an-85-milli/5797150383671271/",
+    "https://www.facebook.com/NESTOBX/",
+    "https://www.facebook.com/",
+    "https://www.facebook.com/lionbirdventures/",
+    "https://www.facebook.com/medcitynews/posts/10160502786068281/",
+    "https://www.facebook.com/lionbirdventures/posts/thrilled-to-support-the-nest-genomics-team-in-its-journey-to-make-the-world-of-g/614433860488260/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nestgenomics note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.nestgenomics.com/",
+    "https://www.nestgenomics.com/about",
+    "https://www.cbinsights.com/company/nest-genomics/people",
+    "https://rocketreach.co/nest-genomics-yc-w22-management_b7957e11c245a5ec",
+    "https://compalyze.co.jp/company/7010401169229",
+    "https://www.crunchbase.com/person/moran-shochat-snir"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nestgenomics X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部31頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部31頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部31頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部31頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像4件／外部31頁・検索12回）"
+ }
+}

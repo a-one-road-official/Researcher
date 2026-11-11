@@ -1,0 +1,1101 @@
+{
+ "name": "Mindgard",
+ "aliases": [],
+ "context": "旧営業リスト｜AI Security｜状態なし",
+ "researched_at": "2026-11-11T13:44:14.415402+00:00",
+ "official_url": "https://mindgard.ai",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "料金タイプ",
+    "value": "フリーミアム（無料〜要問い合わせ） 無料枠 あり（基本的なAIセキュリティ検証・限定的なテスト機能）",
+    "url": "https://aipicks.jp/tool/mindgard#japanese",
+    "pass": 3
+   },
+   {
+    "label": "料金タイプ",
+    "value": "フリーミアム（無料〜要問い合わせ） 無料枠 あり（基本的なAIセキュリティ検証・限定的なテスト機能）",
+    "url": "https://aipicks.jp/tool/mindgard",
+    "pass": 3
+   },
+   {
+    "label": "Pricing Strategy",
+    "value": "Subscription-based SaaS model",
+    "url": "https://dexteragent.ai/companies/mindgard-1771662968",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded year",
+    "value": "Founded year：2022",
+    "url": "https://dexteragent.ai/companies/mindgard-1771662968",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Investors",
+    "value": ".406 Ventures, Lakestar, Atlantic Bridge, IQ Capital, Willowtree Investments",
+    "url": "https://dexteragent.ai/companies/mindgard-1771662968",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "By chaining cross-modal prompts and clever framing, Mindgard technology surfaced hidden instructions from OpenAI’s video generator",
+    "url": "https://mindgard.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The Mindgard solution identified two vulnerabilities in the Zed IDE and our team worked with the developers on a coordinated remediation process",
+    "url": "https://mindgard.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "After extracting Grok 4’s system prompt using soft elicitation techniques, the model began voluntarily offering detailed guidance on illegal and dangerous",
+    "url": "https://mindgard.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically take action to mitigate risk and validate defensive improvement",
+    "url": "https://mindgard.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Built to Find, Prove, and Fix AI Risk",
+    "url": "https://mindgard.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Mindgard profiles AI systems the way attackers do, mapping models, agents, tools, and behaviors before attack execution. This reveals higher-impact vulnerabilities faster than broad, prompt-heavy approaches.",
+    "url": "https://mindgard.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Insights from 175+ publicly disclosed AI vulnerabilities feed Mindgard’s proprietary knowledge base, continuously strengthening how the platform discovers and exploits new attack paths.",
+    "url": "https://mindgard.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "With APIs, CI/CD support, and integrations across enterprise AI workflows, Mindgard secures AI across production environments and infrastructure, from open source models to managed AI platforms.",
+    "url": "https://mindgard.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Why should enterprises trust Mindgard to secure their AI systems?",
+    "url": "https://mindgard.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "How does Mindgard compare with open-source AI security tools such as Garak, PyRIT, and Promptfoo?",
+    "url": "https://mindgard.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "What makes Mindgard’s offensive security approach different?",
+    "url": "https://mindgard.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "A global enterprise technology services provider used Mindgard to test models, prompts, and guardrails directly, measure which defenses worked best, and establish a repeatable baseline for governing AI risk as applications evolve.",
+    "url": "https://mindgard.ai/learn/customers",
+    "pass": 1
+   },
+   {
+    "quote": "A healthcare AI platform used Mindgard to assess a deployed AI application, uncover AI-specific security risks, improve its system prompt, and strengthen security posture faster.",
+    "url": "https://mindgard.ai/learn/customers",
+    "pass": 1
+   },
+   {
+    "quote": "A global development and financial institution needed to understand how real adversaries could iteratively probe, manipulate, and exploit AI systems",
+    "url": "https://mindgard.ai/learn/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Demonstrating Real AI Security Impact in a Global Semiconductor Manufacturing Enterprise",
+    "url": "https://mindgard.ai/learn/customers",
+    "pass": 1
+   },
+   {
+    "quote": "A global semiconductor manufacturing enterprise needed to distinguish real, exploitable AI security risks from low-signal safety findings",
+    "url": "https://mindgard.ai/learn/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Securing Mission-Critical AI Applications in a Global, Highly Regulated Enterprise",
+    "url": "https://mindgard.ai/learn/customers",
+    "pass": 1
+   },
+   {
+    "quote": "A global, highly regulated enterprise needed to validate the security of a mission-critical AI application embedded in sensitive workflows",
+    "url": "https://mindgard.ai/learn/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Protecting Enterprise-Scale AI Systems with Continuous, Attacker-Aligned Testing",
+    "url": "https://mindgard.ai/learn/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Mindgard’s attacker-aligned, research-driven approach provides security leaders with the insight and operational leverage needed to reduce risk, support compliance, and enable the confident use of AI.",
+    "url": "https://mindgard.ai/blog/the-mindgard-philosophy",
+    "pass": 1
+   },
+   {
+    "quote": "Mindgard carries this research forward by transforming deep scientific insight into an enterprise-ready solution that protects organizations against AI threats. Mindgard merges advanced R&D with offensive security expertise and behavioral science to protect AI systems and agents to ensure the secure and confident deployment of AI across the business.",
+    "url": "https://mindgard.ai/blog/the-mindgard-philosophy",
+    "pass": 1
+   },
+   {
+    "quote": "Organizations globally are rapidly adopting GenAI and agentic technology. These systems are being embedded into existing stacks, often without full visibility into how their probabilistic and opaque behaviors introduce oversights that attackers can exploit.",
+    "url": "https://mindgard.ai/blog/the-mindgard-philosophy",
+    "pass": 1
+   },
+   {
+    "quote": "Mindgard’s Principles",
+    "url": "https://mindgard.ai/blog/the-mindgard-philosophy",
+    "pass": 1
+   },
+   {
+    "quote": "attackers do not blindly go after targets. They scope out, map the attack surface, reverse engineer, probe boundaries, identify weak points, strategize a plan, and",
+    "url": "https://mindgard.ai/blog/the-mindgard-philosophy",
+    "pass": 1
+   },
+   {
+    "quote": "they attack. Mindgard’s platform is built to emulate how attackers operate by mirroring this adversarial process to empower security teams to identify, assess and mitigate AI risks within enterprises.",
+    "url": "https://mindgard.ai/blog/the-mindgard-philosophy",
+    "pass": 1
+   },
+   {
+    "quote": "AI security is not a solved problem. As models, agents, use cases, and attacker techniques evolve, continuous research is essential. Mindgard stays ahead through rapid vulnerability discovery, attack simulation innovation, and deep ties to university AI security laboratories, enabling organizations to deploy AI systems that remain resilient, compliant, and aligned with emerging threats.",
+    "url": "https://mindgard.ai/blog/the-mindgard-philosophy",
+    "pass": 1
+   },
+   {
+    "quote": "The Mindgard Approach",
+    "url": "https://mindgard.ai/blog/the-mindgard-philosophy",
+    "pass": 1
+   },
+   {
+    "quote": "Mindgard’s approach aligns with attacker methodology across three core phases:",
+    "url": "https://mindgard.ai/blog/the-mindgard-philosophy",
+    "pass": 1
+   },
+   {
+    "quote": "Evaluate AI behaviors and capabilities to surface traits and weaknesses, identify data sources, and fingerprint connected tools and agents. Mindgard reveals what attackers can learn about the AI system.",
+    "url": "https://mindgard.ai/blog/the-mindgard-philosophy",
+    "pass": 1
+   },
+   {
+    "quote": "Weaponize the attack surface to design and deliver context-specific payloads that exploit identified weaknesses. Mindgard determines the most relevant and effective security testing strategies.",
+    "url": "https://mindgard.ai/blog/the-mindgard-philosophy",
+    "pass": 1
+   },
+   {
+    "quote": "Mindgard’s principles and approach are directly embedded within the architecture of the Mindgard Platform, which unifies AI discovery, adversarial testing, and runtime protection into one continuous workflow.",
+    "url": "https://mindgard.ai/blog/the-mindgard-philosophy",
+    "pass": 1
+   },
+   {
+    "quote": "illuminates the AI attack surface through performing deep reconnaissance, highlighting exploitation paths, evaluating model security properties, and behavioral manipulation opportunities within AI models, agents, applications, and systems.",
+    "url": "https://mindgard.ai/blog/the-mindgard-philosophy",
+    "pass": 1
+   },
+   {
+    "quote": ", the runtime detection and response layer that applies context-driven guardrails, system prompt hardening, and tailored remediation guidance to defend AI systems against attacker attempts.",
+    "url": "https://mindgard.ai/blog/the-mindgard-philosophy",
+    "pass": 1
+   },
+   {
+    "quote": "By unifying research intelligence, attacker-aligned testing, and runtime defence, the Mindgard Platform exposes the most relevant and sophisticated attacks real adversaries can perform. This allows organizations to surface, measure, and mitigate impactful risks with clarity and precision.",
+    "url": "https://mindgard.ai/blog/the-mindgard-philosophy",
+    "pass": 1
+   },
+   {
+    "quote": "Mindgard reveals the vulnerabilities that pose real security consequences, enabling teams to focus on high-impact risks rather than noise. Clear evidence of attacker pivot paths helps organizations prevent breaches before they escalate.",
+    "url": "https://mindgard.ai/blog/the-mindgard-philosophy",
+    "pass": 1
+   },
+   {
+    "quote": "Mindgard provides ongoing measurement and reporting of AI risk exposure, helping organizations demonstrate security posture to governance bodies, auditors, and regulators.",
+    "url": "https://mindgard.ai/blog/the-mindgard-philosophy",
+    "pass": 1
+   },
+   {
+    "quote": "Mindgard encodes years of AI security and offensive security research into a platform that extends the reach of existing teams. Rather than replace practitioners, the platform enhances their capabilities with automated reconnaissance, attacker-aligned insights, and deeper visibility across AI deployments.",
+    "url": "https://mindgard.ai/blog/the-mindgard-philosophy",
+    "pass": 1
+   },
+   {
+    "quote": "Conclusion: Implications for Enterprise AI Security",
+    "url": "https://mindgard.ai/blog/the-mindgard-philosophy",
+    "pass": 1
+   },
+   {
+    "quote": ". See how Mindgard finds and proves the weakness attackers could exploit in yours.",
+    "url": "https://mindgard.ai/blog/the-mindgard-philosophy",
+    "pass": 1
+   },
+   {
+    "quote": "Mindgard gives organizations the visibility and protection to discover, assess, and defend their AI systems and agents.",
+    "url": "https://mindgard.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Mindgard’s research has produced 175+ publicly disclosed AI vulnerabilities. The intelligence gained from those discoveries continuously strengthens the platform, helping organizations identify exploitable attack paths, including emerging agentic AI threats, and stay ahead of evolving attacks.",
+    "url": "https://mindgard.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Mindgard secures AI models, agents, and applications against exploitable threats. Spun out of more than a decade of pioneering AI security research at Lancaster University, Mindgard combines offensive security expertise, ai red teaming, attacker intelligence, and automated protection to help organizations discover, assess, and defend their AI agents and systems.",
+    "url": "https://mindgard.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Mindgard's values guide our actions and decisions. These principles form the foundation of our company's culture, shaping how we interact within our teams and with our clients. They inspire us to improve continuously and help us navigate the dynamic landscape of the AI security industry.",
+    "url": "https://mindgard.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Product Officer",
+    "url": "https://mindgard.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Marketing Officer",
+    "url": "https://mindgard.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Seed round led by top security investors, validating demand for an offensive-security approach to AI and the thesis that effective defenses must emulate real attacker behavior.",
+    "url": "https://mindgard.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Expanded leadership with key hires: CEO James Brear, Head of Research Aaron Portnoy, and Offensive Security Lead Rich Smith, accelerating the research-led foundation.",
+    "url": "https://mindgard.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Secured Fortune 500 design partners, validating enterprise demand for attacker-aligned AI security.",
+    "url": "https://mindgard.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Mindgard is committed to ensuring that you have the opportunity to do the best work of your career and help drive our industry forward as the leading AI security company. We aim to provide a range of world-class products and services to our customers. Join us to be part of our team.",
+    "url": "https://mindgard.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Working for Mindgard has been a great help in both my career and personal development. The ability to work on problems I find interesting, build my skills in new areas and work with a knowledgeable and like-minded team, all while seeing the company grow, is very motivating. I'm excited to go to work every day.",
+    "url": "https://mindgard.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Mindgard is a great place to work if you're excited about building interesting technology. We are always working with cutting edge tech, providing ample opportunity to learn new and exciting things. You also get to team up with smart people who are just as motivated as you are.",
+    "url": "https://mindgard.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Mindgard's values guide our actions and decisions. These principles form the foundation of our company's culture, shaping how we interact within our teams and with our clients. They inspire us to improve continuously and help us navigate the dynamic landscape of the AI security industry.",
+    "url": "https://mindgard.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Demonstrating Real AI Security Impact in a Global Semiconductor Manufacturing Enterprise",
+    "url": "https://mindgard.ai/customers/demonstrating-real-ai-security-impact-in-a-global-semiconductor-manufacturing-enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "A global semiconductor manufacturing enterprise needed to distinguish real, exploitable AI security risks from low-signal safety findings",
+    "url": "https://mindgard.ai/customers/demonstrating-real-ai-security-impact-in-a-global-semiconductor-manufacturing-enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "A global semiconductor manufacturing enterprise needed to distinguish real, exploitable AI security risks from low-signal safety findings, as model-centric testing failed to demonstrate how AI behavior could materially impact confidentiality, integrity, and availability.",
+    "url": "https://mindgard.ai/customers/demonstrating-real-ai-security-impact-in-a-global-semiconductor-manufacturing-enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Mindgard was deployed to perform attacker-aligned reconnaissance and continuous AI red teaming across full AI systems, prioritizing vulnerabilities based on exploitability and security impact rather than theoretical failure modes.",
+    "url": "https://mindgard.ai/customers/demonstrating-real-ai-security-impact-in-a-global-semiconductor-manufacturing-enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "The organization uncovered concrete, high-impact AI vulnerabilities, accelerated remediation through clear attacker evidence, and established a repeatable process for measuring and communicating AI security risk that meaningfully reduced enterprise exposure.",
+    "url": "https://mindgard.ai/customers/demonstrating-real-ai-security-impact-in-a-global-semiconductor-manufacturing-enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Security leadership needed a way to identify and prioritize AI vulnerabilities that had",
+    "url": "https://mindgard.ai/customers/demonstrating-real-ai-security-impact-in-a-global-semiconductor-manufacturing-enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "To address this gap, the organization deployed Mindgard to evaluate AI systems through the lens of real adversarial behavior and demonstrable security impact. Rather than focusing on isolated model responses, Mindgard assessed the full AI system, including model behavior, system prompts, guardrails, orchestration logic, and integrations with internal tools and data sources.",
+    "url": "https://mindgard.ai/customers/demonstrating-real-ai-security-impact-in-a-global-semiconductor-manufacturing-enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Crucially, Mindgard filtered out noise. Findings were prioritized based on exploitability and business impact, ensuring that security teams focused on vulnerabilities that attackers could realistically weaponize. Each issue was documented with clear evidence showing how the vulnerability could be exploited, why it mattered from a security standpoint, and options to remediate the risk.",
+    "url": "https://mindgard.ai/customers/demonstrating-real-ai-security-impact-in-a-global-semiconductor-manufacturing-enterprise",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Demonstrating Real AI Security Impact in a Global Semiconductor Manufacturing Enterprise",
+    "url": "https://mindgard.ai/learn/customers",
+    "pass": 1
+   },
+   {
+    "quote": "A global semiconductor manufacturing enterprise needed to distinguish real, exploitable AI security risks from low-signal safety findings",
+    "url": "https://mindgard.ai/learn/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Demonstrating Real AI Security Impact in a Global Semiconductor Manufacturing Enterprise",
+    "url": "https://mindgard.ai/customers/demonstrating-real-ai-security-impact-in-a-global-semiconductor-manufacturing-enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "A global semiconductor manufacturing enterprise needed to distinguish real, exploitable AI security risks from low-signal safety findings",
+    "url": "https://mindgard.ai/customers/demonstrating-real-ai-security-impact-in-a-global-semiconductor-manufacturing-enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "A global semiconductor manufacturing enterprise needed to distinguish real, exploitable AI security risks from low-signal safety findings, as model-centric testing failed to demonstrate how AI behavior could materially impact confidentiality, integrity, and availability.",
+    "url": "https://mindgard.ai/customers/demonstrating-real-ai-security-impact-in-a-global-semiconductor-manufacturing-enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "For this global semiconductor manufacturer, Mindgard delivered demonstrable AI security impact by cutting through noise and exposing the vulnerabilities that truly mattered. The result was stronger protection of intellectual property, improved confidence in AI-enabled systems, and a security program grounded in how attackers actually exploit AI in real-world environments.",
+    "url": "https://mindgard.ai/customers/demonstrating-real-ai-security-impact-in-a-global-semiconductor-manufacturing-enterprise",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprises in financial services, healthcare, manufacturing, cybersecurity",
+    "url": "https://dexteragent.ai/companies/mindgard-1771662968",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Dr. Peter Garraghan is Mindgard’s Founder and Chief Science Officer, and an internationally recognized expert in AI security.",
+    "url": "https://mindgard.ai/blog/the-mindgard-philosophy",
+    "pass": 1
+   },
+   {
+    "quote": "Mindgard carries this research forward by transforming deep scientific insight into an enterprise-ready solution that protects organizations against AI threats. Mindgard merges advanced R&D with offensive security expertise and behavioral science to protect AI systems and agents to ensure the secure and confident deployment of AI across the business.",
+    "url": "https://mindgard.ai/blog/the-mindgard-philosophy",
+    "pass": 1
+   },
+   {
+    "quote": "Mindgard was founded on pioneering research by Dr. Peter Garraghan at Lancaster University, which showed traditional AppSec could not address AI-specific risks.",
+    "url": "https://mindgard.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Secured Fortune 500 design partners, validating enterprise demand for attacker-aligned AI security.",
+    "url": "https://mindgard.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Mindgard is committed to ensuring that you have the opportunity to do the best work of your career and help drive our industry forward as the leading AI security company. We aim to provide a range of world-class products and services to our customers. Join us to be part of our team.",
+    "url": "https://mindgard.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "It's incredibly rewarding to be at the forefront of AI security, experiencing the excitement of being part of something big, creating state-of-the-art solutions and tackling unsolved challenges. The entire team is fantastic, welcoming, and hardworking, making the entire challenge all more enjoyable and easier.",
+    "url": "https://mindgard.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Compounding this was Mindgard’s early-stage status, with no paying customers at the time we began. Rather than over-index on product promotion, we took a strategic thought leadership approach, positioning CEO and co-founder Dr. Peter Garraghan as a credible, technical, and authoritative voice in AI security.",
+    "url": "https://www.blackunicornpr.com/case-study-mindgard/",
+    "pass": 3
+   },
+   {
+    "quote": "Mindgard’s CEO Dr. Peter Garraghan became a recognised voice in AI security through sustained media presence:",
+    "url": "https://www.blackunicornpr.com/case-study-mindgard/",
+    "pass": 3
+   },
+   {
+    "quote": ",” listed in",
+    "url": "https://www.blackunicornpr.com/case-study-mindgard/",
+    "pass": 3
+   },
+   {
+    "quote": "Mindgard now stands as a widely recognised UK deeptech success story with international media reach and a growing presence in enterprise and government security conversations. The co-founder and CEO, Peter Garraghan, is a recognised thought leader in the security for AI space.",
+    "url": "https://www.blackunicornpr.com/case-study-mindgard/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://www.blackunicornpr.com/case-study-mindgard/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.blackunicornpr.com/case-study-mindgard/",
+    "pass": 3
+   },
+   {
+    "quote": "Mindgard Profile 2026: Revenue, Competitors & Strategy",
+    "url": "https://dexteragent.ai/companies/mindgard-1771662968",
+    "pass": 3
+   },
+   {
+    "quote": "Mindgard is a funded company based in London (United Kingdom), founded in 2022 by Dr. Peter Garraghan. It operates as a cybersecurity firm specializing in AI security solutions. Mindgard has raised $8 million in funding. The company has 16 active competitors, including 16 funded and 8 that have exited. Its top competitors include companies like Uno, Zip Security, and Ohio Cyber Reserve.",
+    "url": "https://dexteragent.ai/companies/mindgard-1771662968",
+    "pass": 3
+   },
+   {
+    "quote": "What is Mindgard's annual revenue history?",
+    "url": "https://dexteragent.ai/companies/mindgard-1771662968",
+    "pass": 3
+   },
+   {
+    "quote": "July 2016: The AI Security Lab was established at Lancaster University by Professor Peter Garraghan for the purpose of researching next-generation AI systems.",
+    "url": "https://note.com/vueloo_blog/n/n512979df7708?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Dr. Peter Garraghan (CEO/CTO, Co-founder): A leading authority in AI security research.",
+    "url": "https://note.com/vueloo_blog/n/n512979df7708?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Mindgardは、**ピーター・ガラハン（Peter Garraghan）博士（CEO兼CTO）とスティーブ・ストリート（Steve Street）**氏（COO兼CRO）によって設立されました",
+    "url": "https://note.com/vueloo_blog/n/n512979df7708",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "公式サイトに日本語の表示は見当たりません（2026年9月時点）",
+    "url": "https://aipicks.jp/tool/mindgard#japanese",
+    "pass": 3
+   },
+   {
+    "quote": "公式サイトに日本語の表示は見当たりません（2026年9月時点）",
+    "url": "https://aipicks.jp/tool/mindgard",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Mindgardは日本語対応してる?UI・出力・サポートを検証 (2026) | AI P... — Mindgardの日本語対応を、UI表示・入出力・サポートの3項目で整理しました。 公式サイトの表示言語と編集部の評価をもとに、日本語で業務に使えるかの判断材料と、同カテゴリの代替候補をまとめています。",
+    "url": "https://aipicks.jp/tool/mindgard/japanese",
+    "pass": 3
+   },
+   {
+    "quote": "Mindgardとは？評判・料金・機能【無料あり】 | AI PICKS — Oct 3, 2026 · Mindgardの評判・料金・代替ツールを比較。 AIシステムに対する自動レッドチーミングと継続的な脆弱性検証により、生成AIや機械学習モデルのリスクを可視化できます。",
+    "url": "https://aipicks.jp/tool/mindgard",
+    "pass": 3
+   },
+   {
+    "quote": "Mindgard - AI Red Teaming & AI Security Solutions — Mindgard goes beyond identifying vulnerabilities. It validates which weaknesses are exploitable, explains their potential impact, and provides evidence and guidance to help teams close them. Teams can retest fixes, verify that defenses remain effective, and deploy runtime protections where needed.",
+    "url": "https://mindgard.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Mindgard:多様なモダリティにわたるAIモデルのランタイム脆弱性を継続... — Mindgardは、大規模言語モデル、生成AI、画像や音声などのマルチモーダルモデルを含むAIシステムを保護するために設計された専門のAIセキュリティプラットフォームです。",
+    "url": "https://moge.ai/ja/product/mindgard",
+    "pass": 3
+   },
+   {
+    "quote": "Mindgard: AIレッドチーミングツール Features, Pricing & Use Cases — MindgardはLLM、エージェント、マルチモーダルモデルのレッドチーミングを自動化し、悪用可能な欠陥を特定してOWASPとMITRE ATLASへの対応づけまで行う。",
+    "url": "https://www.nextfor.ai/ja/products/mindgard",
+    "pass": 3
+   },
+   {
+    "quote": "Mindgard - AI Red Teaming & AI Security Solutions — The Mindgard Platform maps and secures the AI attack surface. Acting as an autonomous red teamer, Mindgard uses attacker-style reconnaissance and intelligence powered by its vulnerability disclosures to reveal how adversaries discover and exploit AI agents and systems.",
+    "url": "https://mindgard.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Mindgard Raises $30M Series A — Oct 30, 2026 · Mindgard combines pioneering AI security research with world-renowned offensive security expertise to assess and protect AI systems from adversaries.",
+    "url": "https://mindgard.ai/blog/mindgard-raises-30m-series-a",
+    "pass": 3
+   },
+   {
+    "quote": "Mindgard: AIセキュリティおよび自動レッドチーミングプラットフォー... — Mindgardは、AIシステムやエージェントの脆弱性を自動的に発見・評価・防御するセキュリティプラットフォームです。 攻撃者視点の偵察と研究に基づいた分析で、AI特有のリスクを特定します。",
+    "url": "https://huntscreens.com/ja/products/mindgard",
+    "pass": 3
+   },
+   {
+    "quote": "AI Security Customer Stories & Case Studies - Mindgard — Explore Mindgard customer stories and AI security case studies showing how enterprises uncover real AI risks and strengthen defenses.",
+    "url": "https://mindgard.ai/learn/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Mindgard Customer Success Stories — For this global semiconductor manufacturer, Mindgard delivered demonstrable AI security impact by cutting through noise and exposing the vulnerabilities that truly mattered.",
+    "url": "https://mindgard.ai/customers/demonstrating-real-ai-security-impact-in-a-global-semiconductor-manufacturing-enterprise",
+    "pass": 3
+   },
+   {
+    "quote": "Case study: Mindgard - blackunicornpr.com — Nov 24, 2025 · Check out Black Unicorn PR's case study for Mindgard, the security for AI cybersecurity startup.",
+    "url": "https://www.blackunicornpr.com/case-study-mindgard/",
+    "pass": 3
+   },
+   {
+    "quote": "Mindgard Ltd - Lancaster University — Resulting from their cutting-edge approach in the increasingly important cyber security industry, Mindgard were recently recognised at the UK’s Most Innovative Cyber SME at the prestigious Infosecurity Europe 2024 event.",
+    "url": "https://www.lancaster.ac.uk/business-and-innovation/case-studies/mindgard-ltd",
+    "pass": 3
+   },
+   {
+    "quote": "Mindgard 2026 Company Profile: Valuation, Funding & Investors ...Mindgard – Estimated Net Worth, Growth & Competitor Overview –…Mindgard Profile 2026: Financials, AI Strategy & ComparisonMindgard limited: $41.94M Funding & 36 Employees | MandosMindgard: Funding, Team & Investors | Startup IntrosMindgard Raises $30M Series AMindgard — venture-backed company profile | Dealroom — Information on valua",
+    "url": "https://pitchbook.com/profiles/company/503094-43",
+    "pass": 3
+   },
+   {
+    "quote": "Mindgard – Estimated Net Worth, Growth & Competitor Overview –… — Discover Mindgard's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/mindgard",
+    "pass": 3
+   },
+   {
+    "quote": "Mindgard Profile 2026: Financials, AI Strategy & Comparison — Mindgard is a funded company based in London (United Kingdom), founded in 2022 by Dr. Peter Garraghan. It operates as a cybersecurity firm specializing in AI security solutions.",
+    "url": "https://dexteragent.ai/companies/mindgard-1771662968",
+    "pass": 3
+   },
+   {
+    "quote": "Mindgard limited: $41.94M Funding & 36 Employees | Mandos — Oct 25, 2026 · Mindgard limited is a cybersecurity company specializing in AI Security, founded in 2022 and headquartered in London, United Kingdom. It has raised $41.94M in equity across 3 priced rounds, employs about 36 people, and is privately held.",
+    "url": "https://mandos.io/data/companies/mindgard-limited",
+    "pass": 3
+   },
+   {
+    "quote": "Mindgard: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Mindgard has raised $11.8M in total across 2 funding rounds. Who are Mindgard's investors? Mindgard's investors include .406 Ventures, IQ Capital. AI security testing to protect systems from emerging threats.",
+    "url": "https://startupintros.com/orgs/mindgard",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Mindgard is a leading company in artificial intelligence (AI ... May 5, 2025 · As a leading company in artificial intelligence (AI) security testing, Mindgard's mission is to help enterprises protect their AI systems from emerging threats that cannot be addressed by traditional application security tools.",
+    "url": "https://note.com/vueloo_blog/n/n512979df7708?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Mindgardは、人工知能（AI）セキュリティテストのリーディングカンパ... May 5, 2025 · 概要 Mindgardは、人工知能（AI）セキュリティテストのリーディングカンパニーとして、企業がAIシステムを従来のアプリケーションセキュリティツールでは対処できない新たな脅威から守ることを使命としています。",
+    "url": "https://note.com/vueloo_blog/n/n512979df7708",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Mindgard is a leading company in artificial intelligence (AI) security testing 🇬🇧｜MasaT. 武富 正人",
+    "url": "https://note.com/vueloo_blog/n/n512979df7708?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/vueloo_blog/n/n512979df7708?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Mindgard is a leading company in artificial intelligence (AI) security testing 🇬🇧",
+    "url": "https://note.com/vueloo_blog/n/n512979df7708?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "As a leading company in artificial intelligence (AI) security testing, Mindgard's mission is to help enterprises protect their AI systems from emerging threats that cannot be addressed by traditional application security tools. With the rapid adoption of AI, risks such as data leakage, model theft, and prompt injection are increasing. Mindgard provides a unique 'Dynamic Application Security Testin",
+    "url": "https://note.com/vueloo_blog/n/n512979df7708?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Mindgard's mission is to 'secure the world's AI.' While AI brings transformation to business and society, new cyber risks that traditional security tools cannot handle are emerging. Mindgard provides comprehensive and practical security solutions to enable enterprises to safely adopt and operate AI, Generative AI (GenAI), and Large Language Models (LLMs). By leveraging automated red-teaming and th",
+    "url": "https://note.com/vueloo_blog/n/n512979df7708?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Mindgard was founded by Dr. Peter Garraghan (CEO and CTO) and Steve Street (COO and CRO). Dr. Garraghan is a Professor of Computer Science at Lancaster University and an international expert in AI security, having led AI and machine learning security research for over a decade. He has authored over 60 academic papers and secured over 11.6 million euros in research funding, which established the te",
+    "url": "https://note.com/vueloo_blog/n/n512979df7708?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Mindgard's headquarters is located in London, United Kingdom. While the specific address is not listed in public information, the office is located on the 24th floor of Level39, an office space for technology startups in Canary Wharf, London. Research and development are conducted through a strong partnership with the AI Security Lab at Lancaster University, leveraging the UK's technology ecosyste",
+    "url": "https://note.com/vueloo_blog/n/n512979df7708?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "July 2016: The AI Security Lab was established at Lancaster University by Professor Peter Garraghan for the purpose of researching next-generation AI systems.",
+    "url": "https://note.com/vueloo_blog/n/n512979df7708?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Mindgardは、人工知能（AI）セキュリティテストのリーディングカンパニー 🇬🇧｜MasaT. 武富 正人",
+    "url": "https://note.com/vueloo_blog/n/n512979df7708",
+    "pass": 3
+   },
+   {
+    "quote": "Mindgardは、人工知能（AI）セキュリティテストのリーディングカンパニー 🇬🇧",
+    "url": "https://note.com/vueloo_blog/n/n512979df7708",
+    "pass": 3
+   },
+   {
+    "quote": "Mindgardは、人工知能（AI）セキュリティテストのリーディングカンパニーとして、企業がAIシステムを従来のアプリケーションセキュリティツールでは対処できない新たな脅威から守ることを使命としています。AIの急速な普及に伴い、データ漏洩、モデル盗難、プロンプトインジェクションなどのリスクが増大する中、Mindgardは独自の「Dynamic Application Security Testing for AI（DAST-AI）」ソリューションを提供し、AIライフサイクル全体で継続的かつ自動化されたセキュリティテストを実現します。本社は英国ロンドンに位置し、研究開発の基盤はランカスター大学のAIセキュリティラボに根ざしています。",
+    "url": "https://note.com/vueloo_blog/n/n512979df7708",
+    "pass": 3
+   },
+   {
+    "quote": "Mindgardのミッションは「世界のAIをセキュアにすること」です。AIがビジネスや社会に変革をもたらす一方で、従来のセキュリティツールでは対処できない新たなサイバーリスクが顕在化しています。Mindgardは、企業がAIや生成AI（GenAI）、大規模言語モデル（LLM）を安全に導入・運用できるよう、包括的で実践的なセキュリティソリューションを提供します。自動化されたレッドチームテストと脅威インテリジェンスを活用し、企業がデジタル資産、ブランド、評判を守りながらAIの競争優位性を最大限に引き出すことを支援します。",
+    "url": "https://note.com/vueloo_blog/n/n512979df7708",
+    "pass": 3
+   },
+   {
+    "quote": "Mindgardは、**ピーター・ガラハン（Peter Garraghan）博士（CEO兼CTO）とスティーブ・ストリート（Steve Street）**氏（COO兼CRO）によって設立されました。ガラハン博士はランカスター大学のコンピュータサイエンス教授であり、AIセキュリティの国際的専門家として、10年以上にわたりAIと機械学習のセキュリティ研究を主導。60以上の学術論文と1,160万ユーロ以上の研究資金を獲得し、Mindgardの技術基盤を築きました。ストリート氏は、ビジネス運営と収益戦略を統括し、SaaSプラットフォームとしてのMindgardの商業化を推進しています。なお、初期の共同創業者であるNeeraj Suri氏は研究面で関与していましたが、現在は退任しています。",
+    "url": "https://note.com/vueloo_blog/n/n512979df7708",
+    "pass": 3
+   },
+   {
+    "quote": "Mindgardの本社は英国ロンドン（London, United Kingdom）に位置しています。具体的住所は公開情報に記載されていませんが、Level39（ロンドンのカナリーワーフにある技術系スタートアップ向けオフィススペース）の24階にオフィスを構えています。研究開発は、ランカスター大学のAIセキュリティラボとの強固な連携を通じて行われており、英国の技術エコシステムを活用しています。2024年12月には米国市場拡大のため、ボストンにリーダーシップ拠点を設立しました。",
+    "url": "https://note.com/vueloo_blog/n/n512979df7708",
+    "pass": 3
+   },
+   {
+    "quote": "2016年7月: ピーター・ガラハン教授により、ランカスター大学に次世代AIシステムの研究を目的としたAIセキュリティラボが設立。",
+    "url": "https://note.com/vueloo_blog/n/n512979df7708",
+    "pass": 3
+   },
+   {
+    "quote": "2022年5月: Mindgardがランカスター大学のスピンアウトとして設立され、ロンドンを拠点に企業向けAIセキュリティソリューションの提供を開始。",
+    "url": "https://note.com/vueloo_blog/n/n512979df7708",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "\"#Mindgard\" - Results on X | Live Posts & Updates Results for \"#Mindgard\" on X (Twitter). Find the latest posts, discussions, and updates about #Mindgard. 2 results found.",
+    "url": "https://x.com/hashtag/Mindgard",
+    "pass": 3
+   },
+   {
+    "quote": "AiThority.com on X: \"Mindgard Expands AI and Cloud Ecosystem ... Mindgard Expands AI and Cloud Ecosystem with Anthropic, NVIDIA, Microsoft, Google Cloud and AWS https://t.co/HQq89YBZHe #MachineLearning #AdversarialAI #SmartAI #AI #EnterpriseAI #GenerativeAI #GenAI #MLAlgorithms #DeepLearning #AIResearch #AIRevolution",
+    "url": "https://x.com/AiThority/status/2097956046165676235",
+    "pass": 3
+   },
+   {
+    "quote": "@mindgard | X The latest posts from @mindgard",
+    "url": "https://x.com/mindgard",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Mindgard - LinkedIn Mindgard combines attacker-led reconnaissance with automated AI Red Teaming to reveal how adversaries can discover and exploit your AI.",
+    "url": "https://www.linkedin.com/company/mindgard",
+    "pass": 3
+   },
+   {
+    "quote": "Mindgard - LinkedIn Mindgard is the offensive security platform purpose-built for AI systems and agents. We help security and engineering teams discover the vulnerabilities most likely to lead to a breach, close...",
+    "url": "https://uk.linkedin.com/company/mindgard",
+    "pass": 3
+   },
+   {
+    "quote": "Peter Garraghan - Founder @ Mindgard | Chair Professor in AI ...Midgard Inc. - LinkedInFergal Glynn - Mindgard | LinkedInTom Axbey - Mindgard | LinkedInJames F. Brear - Chief Executive Officer at Mindgard | LinkedIn Spun out from over a decade of AI security research at Lancaster University and headquartered in Boston and London, Mindgard is the attack-led AI security platform that continuously va",
+    "url": "https://uk.linkedin.com/in/pgarraghan",
+    "pass": 3
+   },
+   {
+    "quote": "Fergal Glynn - Mindgard | LinkedInTom Axbey - Mindgard | LinkedInJames F. Brear - Chief Executive Officer at Mindgard | LinkedIn · Experience: Mindgard · Location: United States · 500+ connections on LinkedIn. View Fergal Glynn’s profile on LinkedIn, a professional community of 1 billion members. Experience: Mindgard · Location: Boston · 500+ connections on LinkedIn. View Tom Axbey’s profile on Li",
+    "url": "https://www.linkedin.com/in/fergalglynn",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "CHINESE AI MODEL GOES ROGUE: Mindgard CEO Peter Gerraghan ... CHINESE AI MODEL GOES ROGUE: Mindgard CEO Peter Gerraghan exposes how Moonshot AI's Kimi model was manipulated into generating \"how-to manuals\" for biological weapons, assassinations, and cyberattacks using real-time data.",
+    "url": "https://www.facebook.com/SpecialReport/videos/chinese-ai-model-goes-rogue-mindgard-ceo-peter-gerraghan-exposes-how-moonshot-ai/2274492696731305/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://mindgard.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mindgard.ai/learn/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mindgard.ai/blog/the-mindgard-philosophy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mindgard.ai/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mindgard.ai/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mindgard.ai/customers/demonstrating-real-ai-security-impact-in-a-global-semiconductor-manufacturing-enterprise",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://aipicks.jp/tool/mindgard#japanese",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aipicks.jp/tool/mindgard",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://moge.ai/ja/product/mindgard",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/MTG_(%E4%BC%81%E6%A5%AD)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mindgate.solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jll.com/ja-jp/about-jll/japan-information",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aipicks.jp/tool/mindgard#japanese",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://huntscreens.com/ja/products/mindgard",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.blackunicornpr.com/case-study-mindgard/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lancaster.ac.uk/business-and-innovation/case-studies/mindgard-ltd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/503094-43",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/mindgard",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://dexteragent.ai/companies/mindgard-1771662968",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mandos.io/data/companies/mindgard-limited",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/vueloo_blog/n/n512979df7708?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/vueloo_blog/n/n512979df7708",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/hashtag/Mindgard",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AiThority/status/2097956046165676235",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/mindgard",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/company/mindgard",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/pgarraghan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/fergalglynn",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/SpecialReport/videos/chinese-ai-model-goes-rogue-mindgard-ceo-peter-gerraghan-exposes-how-moonshot-ai/2274492696731305/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mindgard",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Mindgard 日本 導入",
+   "results": [
+    "https://aipicks.jp/tool/mindgard/japanese",
+    "https://aipicks.jp/tool/mindgard",
+    "https://mindgard.ai/",
+    "https://moge.ai/ja/product/mindgard",
+    "https://www.nextfor.ai/ja/products/mindgard",
+    "https://huntscreens.com/ja/products/mindgard",
+    "https://www.itmedia.co.jp/business/articles/2610/08/news016.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mindgard 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/MTG_(企業)",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.mindgate.solutions/",
+    "https://www.jll.com/ja-jp/about-jll/japan-information",
+    "https://www.mtg.gr.jp/en/",
+    "https://www.aon.com/japan/company-overview",
+    "https://www.capgemini.com/jp-jp/about-us/overview-and-access/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mindgard Japan",
+   "results": [
+    "https://mindgard.ai/",
+    "https://mindgard.ai/blog/mindgard-raises-30m-series-a",
+    "https://aipicks.jp/tool/mindgard/japanese",
+    "https://huntscreens.com/ja/products/mindgard",
+    "https://aipicks.jp/tool/mindgard",
+    "https://finance.yahoo.com/technology/ai/articles/mindgard-announces-enhanced-guardian-agent-140000284.html?fr=sycsrp_catchall",
+    "https://midgard.com/ja-jp"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mindgard manufacturing customer case study",
+   "results": [
+    "https://mindgard.ai/learn/customers",
+    "https://mindgard.ai/customers/demonstrating-real-ai-security-impact-in-a-global-semiconductor-manufacturing-enterprise",
+    "https://www.blackunicornpr.com/case-study-mindgard/",
+    "https://www.lancaster.ac.uk/business-and-innovation/case-studies/mindgard-ltd",
+    "https://www.casestudies.com/company/brandner-communications/case-study/milgard-customer-case-study",
+    "https://cdn.prod.website-files.com/694a121bf1f53efcd2d516eb/6ac8038b93941cab4e5c3961_CASE+STUDY+-+Mindgard+(1).pdf",
+    "https://www.casestudies.com/company/syntax/case-study/milgard-moves-to-high-touch-support-on-syntax-enterprise-cloud"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mindgard white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mindgard founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/503094-43",
+    "https://compworth.com/company/mindgard",
+    "https://dexteragent.ai/companies/mindgard-1771662968",
+    "https://mandos.io/data/companies/mindgard-limited",
+    "https://startupintros.com/orgs/mindgard",
+    "https://mindgard.ai/blog/mindgard-raises-30m-series-a",
+    "https://dealroom.co/companies/mindgard/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Mindgard",
+   "results": [
+    "https://note.com/vueloo_blog/n/n512979df7708?hl=en",
+    "https://note.com/vueloo_blog/n/n512979df7708",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/yojosenpai/n/na86db9319db1",
+    "https://note.com/spaceygoblin/n/n0f0677188638",
+    "https://note.com/lofty_laelia5757/n/n8f949b6d9e47",
+    "https://note.com/cute_willet990/n/n9529041a97d7"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Mindgard",
+   "results": [
+    "https://x.com/hashtag/Mindgard",
+    "https://x.com/AiThority/status/2097956046165676235",
+    "https://x.com/midgard229",
+    "https://x.com/midgardio",
+    "https://x.com/Midgard_Walker/status/2120156216588660799",
+    "https://x.com/Midgard_Walker/status/2120149806190653805",
+    "https://x.com/Midgard_Walker/status/2120079996190376402"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Mindgard",
+   "results": [
+    "https://www.linkedin.com/company/mindgard",
+    "https://uk.linkedin.com/company/mindgard",
+    "https://uk.linkedin.com/in/pgarraghan",
+    "https://www.linkedin.com/in/fergalglynn",
+    "https://www.linkedin.com/in/tomaxbey",
+    "https://www.linkedin.com/in/jamesfbrear",
+    "https://www.linkedin.com/company/midgard-plastics-inc/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Mindgard",
+   "results": [
+    "https://www.facebook.com/SpecialReport/videos/chinese-ai-model-goes-rogue-mindgard-ceo-peter-gerraghan-exposes-how-moonshot-ai/2274492696731305/",
+    "https://www.facebook.com/SiegeOfMidgardRO/",
+    "https://business.facebook.com/groups/2366669336901836/",
+    "https://www.facebook.com/p/Midgard-Rising-61574634149261/",
+    "https://www.facebook.com/MidgardMerch/",
+    "https://www.facebook.com/Midgardmetal/",
+    "https://www.facebook.com/MidgardMusingsOfficial/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mindgard note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://mindgard.ai/blog/mindgard-raises-30m-series-a",
+    "https://note.com/sanshita_note/n/n06e080c63da4",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mindgard X 投稿",
+   "results": [
+    "https://x.com/mindgard",
+    "https://mindgard.ai/",
+    "https://mindgard.ai/learn/disclosures",
+    "https://mindgarden.app/login",
+    "https://docs.mindgard.ai/user-guide/sign-up-for-a-trial",
+    "https://newtalk.tw/news/view/2026-06-18/1042152",
+    "https://x.com/Midgard_Shadow"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部29頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部29頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部29頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部29頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部29頁・検索12回）"
+ }
+}

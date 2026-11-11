@@ -1,0 +1,1153 @@
+{
+ "name": "Memorahealth",
+ "aliases": [],
+ "context": "旧営業リスト｜Healthcare IT｜未接触",
+ "researched_at": "2026-11-11T13:09:08.412157+00:00",
+ "official_url": "https://www.memorahealth.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "4. Seed Round",
+    "value": "01-Sep-2020    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/168251-41",
+    "pass": 3
+   },
+   {
+    "label": "2. Seed Round",
+    "value": "01-Apr-2018 $2.2M $2.32M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/168251-41",
+    "pass": 3
+   },
+   {
+    "label": "Seed-3",
+    "value": "",
+    "url": "https://pitchbook.com/profiles/company/168251-41",
+    "pass": 3
+   },
+   {
+    "label": "Seed-1",
+    "value": "281,531 $0.000010 $0.01 $0.09 $0.09 1x $0.09 0.21%",
+    "url": "https://pitchbook.com/profiles/company/168251-41",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "28,016,027 $0.000010 $0.02 $0.29 $0.29 1x $0.29 21.01%",
+    "url": "https://pitchbook.com/profiles/company/168251-41",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Digitize & Automate Care Programs | Memora Health",
+    "url": "https://www.memorahealth.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Average of Programs on Memora's latest AI model",
+    "url": "https://www.memorahealth.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Result from a GI Program with a large integrated delivery network",
+    "url": "https://www.memorahealth.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Result from an Oncology Program with a not-for-profit health system",
+    "url": "https://www.memorahealth.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Result from a Postpartum Program with an academic medical center",
+    "url": "https://www.memorahealth.com/",
+    "pass": 1
+   },
+   {
+    "quote": "5 Ways AI Simplifies Workflows to Boost Employee Retention in Healthcare",
+    "url": "https://www.memorahealth.com/",
+    "pass": 1
+   },
+   {
+    "quote": "With health systems still battling troubling workforce churn rates, learn five ways AI can streamline care team operations to boost employee retention in healthcare.",
+    "url": "https://www.memorahealth.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How to Gain Trust in Healthcare AI From Patients and Providers",
+    "url": "https://www.memorahealth.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore why patients and providers might be hesitant to embrace healthcare AI — and how to cultivate trust in harnessing it.",
+    "url": "https://www.memorahealth.com/",
+    "pass": 1
+   },
+   {
+    "quote": "April 26, 2024",
+    "url": "https://www.memorahealth.com/",
+    "pass": 1
+   },
+   {
+    "quote": "April 11, 2024",
+    "url": "https://www.memorahealth.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Intro to Healthcare AI and NLP: What to Know About Intelligently Improving Care Management",
+    "url": "https://www.memorahealth.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Platform & Care Programs",
+    "url": "https://www.memorahealth.com/legacy/partner-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Platform & Care Programs",
+    "url": "https://www.memorahealth.com/legacy/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Memora Health and Intermountain Health Partner to Scale Innovative Care Delivery Programs",
+    "url": "https://www.memorahealth.com/news/memora-health-and-intermountain-health-partner-to-scale-innovative-care-delivery-programs",
+    "pass": 1
+   },
+   {
+    "quote": "Memora’s intelligent care enablement platform will support Intermountain in delivering high-quality care to more patients across the enterprise, beginning in oncology.",
+    "url": "https://www.memorahealth.com/news/memora-health-and-intermountain-health-partner-to-scale-innovative-care-delivery-programs",
+    "pass": 1
+   },
+   {
+    "quote": "to implement new innovative care delivery programs for patients of the enterprise, delivering high-quality care to more people.",
+    "url": "https://www.memorahealth.com/news/memora-health-and-intermountain-health-partner-to-scale-innovative-care-delivery-programs",
+    "pass": 1
+   },
+   {
+    "quote": "Memora’s intelligent care enablement platform uses AI to automate basic tasks for healthcare teams while proactively guiding patients through their care plans. Rather than sending patients home from a doctor’s visit with only paperwork, Memora’s conversational AI can instantly address patient questions about their treatment, medications, and side effects.",
+    "url": "https://www.memorahealth.com/news/memora-health-and-intermountain-health-partner-to-scale-innovative-care-delivery-programs",
+    "pass": 1
+   },
+   {
+    "quote": "When necessary, Memora’s platform can identify complex issues and connect them to their doctor or clinical care team for more support. In this way, the technology empowers health systems to scale personalized, high-quality care while also minimizing time spent by providers on routine administrative tasks.",
+    "url": "https://www.memorahealth.com/news/memora-health-and-intermountain-health-partner-to-scale-innovative-care-delivery-programs",
+    "pass": 1
+   },
+   {
+    "quote": "Together, Memora and Intermountain share a vision to scale this innovative technology to additional service lines, streamlining workflows and supporting the patient experience across the full enterprise.",
+    "url": "https://www.memorahealth.com/news/memora-health-and-intermountain-health-partner-to-scale-innovative-care-delivery-programs",
+    "pass": 1
+   },
+   {
+    "quote": "As treatments evolve with the latest research and evidence base, so will Memora’s digital care programs, ensuring the highest quality of care.",
+    "url": "https://www.memorahealth.com/news/memora-health-and-intermountain-health-partner-to-scale-innovative-care-delivery-programs",
+    "pass": 1
+   },
+   {
+    "quote": "Lara Key, press@memorahealth.com",
+    "url": "https://www.memorahealth.com/news/memora-health-and-intermountain-health-partner-to-scale-innovative-care-delivery-programs",
+    "pass": 1
+   },
+   {
+    "quote": "Platform & Care Programs",
+    "url": "https://www.memorahealth.com/legacy/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Platform & Care Programs",
+    "url": "https://www.memorahealth.com/legacy/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Intro to Healthcare AI and NLP: What to Know About Intelligently Improving Care Management",
+    "url": "https://www.memorahealth.com/news/intro-to-healthcare-ai-and-nlp-intelligently-improving-care-management",
+    "pass": 1
+   },
+   {
+    "quote": "Healthcare is changing like never before. An unprecedented global pandemic combined with advances in the adoption and capabilities of technology have connected patients even more to their care providers. But at the same time, care teams are stretched thin and burned out from industry-wide workforce challenges alongside a significant increase in patient needs and expectations.",
+    "url": "https://www.memorahealth.com/news/intro-to-healthcare-ai-and-nlp-intelligently-improving-care-management",
+    "pass": 1
+   },
+   {
+    "quote": "natural language processing",
+    "url": "https://www.memorahealth.com/news/intro-to-healthcare-ai-and-nlp-intelligently-improving-care-management",
+    "pass": 1
+   },
+   {
+    "quote": "What is natural language processing (NLP)?",
+    "url": "https://www.memorahealth.com/news/intro-to-healthcare-ai-and-nlp-intelligently-improving-care-management",
+    "pass": 1
+   },
+   {
+    "quote": "1. What is natural language processing (NLP)?",
+    "url": "https://www.memorahealth.com/news/intro-to-healthcare-ai-and-nlp-intelligently-improving-care-management",
+    "pass": 1
+   },
+   {
+    "quote": "Natural language processing (NLP) is a subfield of AI that helps computers understand, interpret, and interact with human language. Essentially, it enables software to read and interact similarly to how we do in normal conversation.",
+    "url": "https://www.memorahealth.com/news/intro-to-healthcare-ai-and-nlp-intelligently-improving-care-management",
+    "pass": 1
+   },
+   {
+    "quote": "At Memora, NLP is central to providing a personal experience and an unrivaled level of support to patients.",
+    "url": "https://www.memorahealth.com/news/intro-to-healthcare-ai-and-nlp-intelligently-improving-care-management",
+    "pass": 1
+   },
+   {
+    "quote": ". And with our NLP-powered conversational AI automating routine tasks, providers can spend more time delivering top-of-license care.",
+    "url": "https://www.memorahealth.com/news/intro-to-healthcare-ai-and-nlp-intelligently-improving-care-management",
+    "pass": 1
+   },
+   {
+    "quote": "Conversational AI, on the other hand, typically leverages NLP techniques to understand users’ questions and responses based on context, then assess them and respond in conversational ways. Combined with machine learning algorithms, conversational AI can learn from user interactions and improve future assessments and predictions.",
+    "url": "https://www.memorahealth.com/news/intro-to-healthcare-ai-and-nlp-intelligently-improving-care-management",
+    "pass": 1
+   },
+   {
+    "quote": "NLP can power healthtech products to engage in natural, open-ended conversations with end users. With this technology, interactions that would otherwise feel sterile and transactional now can have a human touch.",
+    "url": "https://www.memorahealth.com/news/intro-to-healthcare-ai-and-nlp-intelligently-improving-care-management",
+    "pass": 1
+   },
+   {
+    "quote": "NLP systems can interpret meaning out of unstructured data, enabling automation across more use cases and reducing tasks that would otherwise fall on human staff.",
+    "url": "https://www.memorahealth.com/news/intro-to-healthcare-ai-and-nlp-intelligently-improving-care-management",
+    "pass": 1
+   },
+   {
+    "quote": "Healthcare organizations using Memora Health’s platform can offer patients a user-friendly way to engage with their care teams and receive friendly, evidence-based guidance through SMS. On the provider’s side, Memora’s platform cuts down on phone followup and the heavy influx of inbox messages associated with",
+    "url": "https://www.memorahealth.com/news/intro-to-healthcare-ai-and-nlp-intelligently-improving-care-management",
+    "pass": 1
+   },
+   {
+    "quote": "In healthcare, there simply isn’t enough time in the day to handle all the administrative work and provide effective, high-level care to patients inside and outside of hospital walls. Automated patient engagement software can have a major impact on clinical practice, as patient data can be collected without taking time from an already overloaded staff’s schedule.",
+    "url": "https://www.memorahealth.com/news/intro-to-healthcare-ai-and-nlp-intelligently-improving-care-management",
+    "pass": 1
+   },
+   {
+    "quote": "NLP systems still do the heavy lifting to collect and filter data for clinicians, but allow patients much more flexibility in sharing information that could be relevant. This provides concise and intelligent clinical insights but allows much greater visibility to each patient’s unique experience.",
+    "url": "https://www.memorahealth.com/news/intro-to-healthcare-ai-and-nlp-intelligently-improving-care-management",
+    "pass": 1
+   },
+   {
+    "quote": "By collecting better data, NLP systems can also provide patients with much more congenial, personalized experiences. With NLP-equipped platforms, people can navigate their care journeys while having friendly conversations and feel like they have continuous support from providers.",
+    "url": "https://www.memorahealth.com/news/intro-to-healthcare-ai-and-nlp-intelligently-improving-care-management",
+    "pass": 1
+   },
+   {
+    "quote": "“I felt like I always had someone checking on me. I also had comfort knowing I could text any questions I have and get a health professional to quickly answer.” - A patient's experience with Memora Health",
+    "url": "https://www.memorahealth.com/news/intro-to-healthcare-ai-and-nlp-intelligently-improving-care-management",
+    "pass": 1
+   },
+   {
+    "quote": "Ultimately, health organizations need a solution that will help care teams save time and become more efficient without compromising the quality of their patient care or clinical data. Memora Health offers clinical breadth and depth across a range of functional",
+    "url": "https://www.memorahealth.com/news/intro-to-healthcare-ai-and-nlp-intelligently-improving-care-management",
+    "pass": 1
+   },
+   {
+    "quote": ", delivered to patients via NLP-powered, automated text messages. Clinical insights and action items are intelligently triaged and routed to the appropriate team member within existing workflows so care teams can focus where it matters most- patient care.",
+    "url": "https://www.memorahealth.com/news/intro-to-healthcare-ai-and-nlp-intelligently-improving-care-management",
+    "pass": 1
+   },
+   {
+    "quote": "Interests range from computational biology to health policy to tech. Prev. worked as a researcher at the CDC and lectured in medical informatics at Penn and Georgia Tech.",
+    "url": "https://www.ycombinator.com/companies/memora-health",
+    "pass": 3
+   },
+   {
+    "quote": "Surgeon, health AI researcher, and angel investor. Former co-founder of Memora Health (YC W18), an enterprise care navigation company, which was acquired by Commure.",
+    "url": "https://www.ycombinator.com/companies/memora-health",
+    "pass": 3
+   },
+   {
+    "quote": "Apr 20, 2023",
+    "url": "https://www.ycombinator.com/companies/memora-health",
+    "pass": 3
+   },
+   {
+    "quote": "Apr 18, 2023",
+    "url": "https://www.ycombinator.com/companies/memora-health",
+    "pass": 3
+   },
+   {
+    "quote": "Read 1 Memora Health reviews and testimonials from customers, explore 8 case studies and customer success stories, and watch customer videos to see why companies chose Memora Health as their Patient Communications Software",
+    "url": "https://www.featuredcustomers.com/vendor/memora-health",
+    "pass": 3
+   },
+   {
+    "quote": "\"Our Penny pilot using an augmented intelligence chatbot is a novel strategy to improve medication adherence and manage toxicities related to oral chemotherapy agents with a primary goal of improving …",
+    "url": "https://www.featuredcustomers.com/vendor/memora-health",
+    "pass": 3
+   },
+   {
+    "quote": "American College of Obstetricians and Gynecologists achieves 97% postpartum program completion with …",
+    "url": "https://www.featuredcustomers.com/vendor/memora-health",
+    "pass": 3
+   },
+   {
+    "quote": "a major California not-for-profit health service provider boosts SDOH data capture 4x …",
+    "url": "https://www.featuredcustomers.com/vendor/memora-health",
+    "pass": 3
+   },
+   {
+    "quote": "Boston Medical Center boosts PRO survey completion to 75% with Memora Health",
+    "url": "https://www.featuredcustomers.com/vendor/memora-health",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Video",
+    "url": "https://www.featuredcustomers.com/vendor/memora-health",
+    "pass": 3
+   },
+   {
+    "quote": "Let potential prospects find you on the world's only",
+    "url": "https://www.featuredcustomers.com/vendor/memora-health",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/memora-health",
+    "pass": 3
+   },
+   {
+    "quote": "FREE and learn about our upgraded profile options to",
+    "url": "https://www.featuredcustomers.com/vendor/memora-health",
+    "pass": 3
+   },
+   {
+    "quote": "unlock all of your customer references for prospects",
+    "url": "https://www.featuredcustomers.com/vendor/memora-health",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/memora-health",
+    "pass": 3
+   },
+   {
+    "quote": "We ensure your product works perfectly, every time, on every device.",
+    "url": "https://outpostqa.com/case-studies/memora-health/",
+    "pass": 3
+   },
+   {
+    "quote": "QA Process Audits & Enterprise Governance",
+    "url": "https://outpostqa.com/case-studies/memora-health/",
+    "pass": 3
+   },
+   {
+    "quote": "By transitioning from reactive bug discovery to proactive platform hardening, OutpostQA embedded seamlessly into agile pods to establish robust automation and ensure patient safety.",
+    "url": "https://outpostqa.com/case-studies/memora-health/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Memora Health Is Now Part of Commure, Enhancing Intelligent Care Navigation",
+    "url": "https://www.memorahealth.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Founder and CEO of Novitas Holdings, which invests in and acquires technology businesses. Former co-founder and CEO of Memora Health (W18), a workflow automation platform for health systems. Memora raised over $80M from leading investors such as a16z and GC, and was acquired by Commure in 2024.",
+    "url": "https://www.ycombinator.com/companies/memora-health",
+    "pass": 3
+   },
+   {
+    "quote": "Surgeon, health AI researcher, and angel investor. Former co-founder of Memora Health (YC W18), an enterprise care navigation company, which was acquired by Commure.",
+    "url": "https://www.ycombinator.com/companies/memora-health",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/memora-health",
+    "pass": 3
+   },
+   {
+    "quote": "Recognizing the incredible success and stability of their platform, a major enterprise recently acquired the company. Before the acquisition, their core ecosystem featured internal tools for survey generation, intuitive interfaces for patients, and an advanced artificial intelligence system.",
+    "url": "https://outpostqa.com/case-studies/memora-health/",
+    "pass": 3
+   },
+   {
+    "quote": "Care delivery is increasingly shifting out of the four walls of the hospital, a trend accelerated by the COVID-19 pandemic. But the lack of necessary infrastructure to support this digital health transition continues to be a major barrier for providers and patients.",
+    "url": "https://www.fiercehealthcare.com/health-tech/memora-health-nabs-30m-scale-complex-care-management-solution",
+    "pass": 3
+   },
+   {
+    "quote": "\"The structure of this financing is more unique as far as the type of organizations who participated including a handful of different health systems and also health plans participated as part of it,\" Sevak said in an interview.",
+    "url": "https://www.fiercehealthcare.com/health-tech/memora-health-nabs-30m-scale-complex-care-management-solution",
+    "pass": 3
+   },
+   {
+    "quote": "Memora Health has grown rapidly with revenue doubling last year and the company's head count growing by nearly 4x, Sevak said.",
+    "url": "https://www.fiercehealthcare.com/health-tech/memora-health-nabs-30m-scale-complex-care-management-solution",
+    "pass": 3
+   },
+   {
+    "quote": "Commure Revenue, Valuation, Funding & Investors | Multiples",
+    "url": "https://multiples.vc/private-comps/commure",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue, Valuation, Funding & Investors",
+    "url": "https://multiples.vc/private-comps/commure",
+    "pass": 3
+   },
+   {
+    "quote": "Commure is valued at $7B as of May 2026, a 35.0x revenue multiple. Commure revenue was $200M, as disclosed with its latest round.",
+    "url": "https://multiples.vc/private-comps/commure",
+    "pass": 3
+   },
+   {
+    "quote": "Commure's latest recorded revenue is $200M, as of its undisclosed-stage round in May 2026. At a $7B valuation, that implies a 35.0x revenue multiple.",
+    "url": "https://multiples.vc/private-comps/commure",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue grew from $105M in October 2023 to $200M in May 2026, while the revenue multiple moved from 57.1x to 35.0x.",
+    "url": "https://multiples.vc/private-comps/commure",
+    "pass": 3
+   },
+   {
+    "quote": "Commure revenue by funding round",
+    "url": "https://multiples.vc/private-comps/commure",
+    "pass": 3
+   },
+   {
+    "quote": "Commure revenue and valuation multiple by funding round",
+    "url": "https://multiples.vc/private-comps/commure",
+    "pass": 3
+   },
+   {
+    "quote": "* Revenue (or ARR) figures are the values recorded alongside each funding round. Typically run-rate revenue at the time of the deal, or a reported LTM (last 12 months) revenue.",
+    "url": "https://multiples.vc/private-comps/commure",
+    "pass": 3
+   },
+   {
+    "quote": "Later developments saw additional rounds, such as a $70 million Series E in October 2023 at a $6 billion valuation and a merger with Athelas backed by General Catalyst to form an AI-focused entity valued at $6 billion, planning potential IPO in 2-3 years.",
+    "url": "https://multiples.vc/private-comps/commure",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up to see data on 350K+ funding rounds and disclosed revenue and EBITDA valuation multiples, from seed, through growth stage, to pre-IPO.",
+    "url": "https://multiples.vc/private-comps/commure",
+    "pass": 3
+   },
+   {
+    "quote": "Latest Acquisitions by",
+    "url": "https://multiples.vc/private-comps/commure",
+    "pass": 3
+   },
+   {
+    "quote": "Athelas is a healthcare technology company that sells revenue cycle management s…",
+    "url": "https://multiples.vc/private-comps/commure",
+    "pass": 3
+   },
+   {
+    "quote": "acquisitions and their M&A valuation multiples.",
+    "url": "https://multiples.vc/private-comps/commure",
+    "pass": 3
+   },
+   {
+    "quote": "Commure competitors include listed companies like Tempus AI and UiPath, and private ones like Abridge, EliseAI, Doctolib and Socure.",
+    "url": "https://multiples.vc/private-comps/commure",
+    "pass": 3
+   },
+   {
+    "quote": "Is Commure publicly listed?",
+    "url": "https://multiples.vc/private-comps/commure",
+    "pass": 3
+   },
+   {
+    "quote": "What is Commure's revenue?",
+    "url": "https://multiples.vc/private-comps/commure",
+    "pass": 3
+   },
+   {
+    "quote": "Commure's latest recorded revenue is $200M (May 2026).",
+    "url": "https://multiples.vc/private-comps/commure",
+    "pass": 3
+   },
+   {
+    "quote": "What is Commure's revenue multiple?",
+    "url": "https://multiples.vc/private-comps/commure",
+    "pass": 3
+   },
+   {
+    "quote": "Commure's latest valuation implies a 35.0x revenue multiple ($7B valuation on $200M of revenue).",
+    "url": "https://multiples.vc/private-comps/commure",
+    "pass": 3
+   },
+   {
+    "quote": "How many companies has Commure acquired?",
+    "url": "https://multiples.vc/private-comps/commure",
+    "pass": 3
+   },
+   {
+    "quote": "Commure has acquired 8 companies, including",
+    "url": "https://multiples.vc/private-comps/commure",
+    "pass": 3
+   },
+   {
+    "quote": "What was the largest acquisition by Commure?",
+    "url": "https://multiples.vc/private-comps/commure",
+    "pass": 3
+   },
+   {
+    "quote": "The $139M acquisition of Augmedix in July 2024 is the largest acquisition Commure has made to date.",
+    "url": "https://multiples.vc/private-comps/commure",
+    "pass": 3
+   },
+   {
+    "quote": "Memora Health 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/168251-41",
+    "pass": 3
+   },
+   {
+    "quote": "7. Merger/Acquisition",
+    "url": "https://pitchbook.com/profiles/company/168251-41",
+    "pass": 3
+   },
+   {
+    "quote": "Memora Health has 111 total employees.",
+    "url": "https://pitchbook.com/profiles/company/168251-41",
+    "pass": 3
+   },
+   {
+    "quote": "What is Memora Health’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/168251-41",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Memora Health is",
+    "url": "https://pitchbook.com/profiles/company/168251-41",
+    "pass": 3
+   },
+   {
+    "quote": "When was Memora Health acquired?",
+    "url": "https://pitchbook.com/profiles/company/168251-41",
+    "pass": 3
+   },
+   {
+    "quote": "Memora Health was acquired on 20-Dec-2024.",
+    "url": "https://pitchbook.com/profiles/company/168251-41",
+    "pass": 3
+   },
+   {
+    "quote": "Who acquired Memora Health?",
+    "url": "https://pitchbook.com/profiles/company/168251-41",
+    "pass": 3
+   },
+   {
+    "quote": "Memora Health was acquired by",
+    "url": "https://pitchbook.com/profiles/company/168251-41",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "info@memorahealth.com",
+    "url": "https://www.memorahealth.com/legacy/partner-overview",
+    "pass": 1
+   },
+   {
+    "quote": "info@memorahealth.com",
+    "url": "https://www.memorahealth.com/legacy/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "info@memorahealth.com",
+    "url": "https://www.memorahealth.com/legacy/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "info@memorahealth.com",
+    "url": "https://www.memorahealth.com/legacy/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/memora-health",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/memora-health",
+    "pass": 3
+   },
+   {
+    "quote": "By entering your email, you agree to our",
+    "url": "https://outpostqa.com/case-studies/memora-health/",
+    "pass": 3
+   },
+   {
+    "quote": "EliseAI is a New York-based AI platform automating communications for multifamily housing and healthcare providers. It handles leasing inquiries, maintenance tickets, renewals, and appointments via SMS, email, voice, and chat in 17 languages. EliseAI integrates with Yardi, RealPage, and EHR systems like Epic, serving 2 million units and clinics in women's health and orthopedics with CRM modules.",
+    "url": "https://multiples.vc/private-comps/commure",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/168251-41",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Memora Health - LinkedIn — Memora Health - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/memora-health",
+    "pass": 3
+   },
+   {
+    "quote": "Privacy Policy | Memora Health — Privacy Policy | Memora Health Commure https://www.memorahealth.com > legal",
+    "url": "https://www.memorahealth.com/legal/privacy-policy",
+    "pass": 3
+   },
+   {
+    "quote": "Memora Health: Digitize and Automate Complex Care ... — Memora Health: Digitize and Automate Complex Care ... Y Combinator https://www.ycombinator.com > mem...",
+    "url": "https://www.ycombinator.com/companies/memora-health",
+    "pass": 3
+   },
+   {
+    "quote": "Memora Health - Crunchbase Company Profile & Funding — Memora Health - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > memo...",
+    "url": "https://www.crunchbase.com/organization/memora-health",
+    "pass": 3
+   },
+   {
+    "quote": "Memora Health - X — Memora Health - X X https://x.com > @memorahealth",
+    "url": "https://x.com/memorahealth/status/1641143790873215004",
+    "pass": 3
+   },
+   {
+    "quote": "9 Memora Health Customer Reviews & References — 9 Memora Health Customer Reviews & References Featured Customers https://www.featuredcustomers.com > ...",
+    "url": "https://www.featuredcustomers.com/vendor/memora-health",
+    "pass": 3
+   },
+   {
+    "quote": "Healthcare Software QA Testing: Memora Health | OutpostQA — Healthcare Software QA Testing: Memora Health | OutpostQA Outpost QA https://outpostqa.com > memora-health",
+    "url": "https://outpostqa.com/case-studies/memora-health/",
+    "pass": 3
+   },
+   {
+    "quote": "Startup Success: Memora Health Uses Live Learning to Build ... — Startup Success: Memora Health Uses Live Learning to Build ... LifeLabs Learning https://www.lifelabslearning.com > m...",
+    "url": "https://www.lifelabslearning.com/results/memorahealth",
+    "pass": 3
+   },
+   {
+    "quote": "Memora Health nabs $30M to scale up complex care ... — Memora Health nabs $30M to scale up complex care ... Fierce Healthcare https://www.fiercehealthcare.com > h...",
+    "url": "https://www.fiercehealthcare.com/health-tech/memora-health-nabs-30m-scale-complex-care-management-solution",
+    "pass": 3
+   },
+   {
+    "quote": "Memora Health - 2026 Company Profile & Team - Tracxn — Memora Health - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/memora-health/__bHY6JT6r_fUCHM3Rki9LHrIRyECDaXUPI_xqNtMh73g",
+    "pass": 3
+   },
+   {
+    "quote": "Memora Health 2026 Company Profile - PitchBook — Memora Health 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/168251-41",
+    "pass": 3
+   },
+   {
+    "quote": "Memora Health Revenue 2023: $32.5M Est. - GetLatka — Memora Health Revenue 2023: $32.5M Est. - GetLatka GetLatka https://getlatka.com > memorahealth",
+    "url": "https://getlatka.com/companies/memorahealth.com",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/memora-health",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Memora Health - X Memora Health - X X https://x.com > @memorahealth",
+    "url": "https://x.com/memorahealth/status/1725150392994910268",
+    "pass": 3
+   },
+   {
+    "quote": "Memora Health - X Memora Health - X X https://x.com > @memorahealth",
+    "url": "https://x.com/memorahealth/status/1641143790873215004",
+    "pass": 3
+   },
+   {
+    "quote": "Memora Health - X Memora Health - X X https://x.com > @memorahealth",
+    "url": "https://x.com/memorahealth/status/1673682784353763329",
+    "pass": 3
+   },
+   {
+    "quote": "Memora Health - X Memora Health - X X https://x.com > @memorahealth",
+    "url": "https://x.com/memorahealth/status/1701226193121394867",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Memora Health - LinkedIn Memora Health - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/memora-health",
+    "pass": 3
+   },
+   {
+    "quote": "Manav Sevak, CEO at Memora Health - LinkedIn Manav Sevak, CEO at Memora Health - LinkedIn LinkedIn https://www.linkedin.com > posts",
+    "url": "https://www.linkedin.com/posts/manavsevak_manav-sevak-ceo-at-memora-health-activity-7107366946605535233-4yub",
+    "pass": 3
+   },
+   {
+    "quote": "CEO and Co-founder, Memora Health | Corey Feldman CEO and Co-founder, Memora Health | Corey Feldman LinkedIn https://www.linkedin.com > posts > cs...",
+    "url": "https://www.linkedin.com/posts/csfeldman_manav-sevak-ceo-and-co-founder-memora-activity-7173324366523285506-_yhb",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.memorahealth.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.memorahealth.com/legacy/partner-overview",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.memorahealth.com/legacy/about-us",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.memorahealth.com/news/memora-health-and-intermountain-health-partner-to-scale-innovative-care-delivery-programs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.memorahealth.com/legacy/case-studies",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.memorahealth.com/legacy/careers",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.memorahealth.com/news/intro-to-healthcare-ai-and-nlp-intelligently-improving-care-management",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/62f7d438e6b06566f352379b/65e6540c79796ffdc884fdb5_Intermountain%20Health%20Partnership.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://global.fujitsu/ja-JP/industries/healthcare-pharma/healthcare",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000020.000045502.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mediphone.co.jp/news/press_release/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan.plugandplaytechcenter.com/innovation-services/health",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/memora-health",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.summitpharma.co.jp/japanese/service/alliance/topics/spi_20200601.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.leisure.co.jp/agency",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.merit.co.jp/dealer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/memora-health",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/memora-health",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/memora-health",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJFT70Q_KZhMldN_tDj8cdh7mvFoOgU5zHSnIGoNnyCfnudW9jl",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/memora-health",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://outpostqa.com/case-studies/memora-health/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mdic.org/resources/case-study-point-of-care-3d-printing-for-personalized-medical-devices/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mrghealth.com/resellers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://karpahealth.com/compare/best-white-label-telehealth-platforms/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://helpsquad.com/resellers-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fiercehealthcare.com/health-tech/memora-health-nabs-30m-scale-complex-care-management-solution",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://multiples.vc/private-comps/commure",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/memora-health/__bHY6JT6r_fUCHM3Rki9LHrIRyECDaXUPI_xqNtMh73g",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/168251-41",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/memorahealth/status/1725150392994910268",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/memorahealth/status/1641143790873215004",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/memorahealth/status/1673682784353763329",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/memorahealth/status/1701226193121394867",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/memora-health",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/manavsevak_manav-sevak-ceo-at-memora-health-activity-7107366946605535233-4yub",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/csfeldman_manav-sevak-ceo-and-co-founder-memora-activity-7173324366523285506-_yhb",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/memorahealth/status/1725150392994910268",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/memora-health",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Memorahealth 日本 導入",
+   "results": [
+    "https://global.fujitsu/ja-JP/industries/healthcare-pharma/healthcare",
+    "https://prtimes.jp/main/html/rd/p/000000020.000045502.html",
+    "https://mediphone.co.jp/news/press_release/",
+    "https://japan.plugandplaytechcenter.com/innovation-services/health",
+    "https://www.healthcare.omron.co.jp/",
+    "https://blogs.nvidia.co.jp/blog/japan-sovereign-ai-healthcare/",
+    "https://patient.digikar-smart.jp/announcements",
+    "https://dementia-platform.jp/ja/",
+    "https://www.siemens-healthineers.com/jp/insights/news/mobile-health-units-japan",
+    "https://ainiche.net/ja/tools/memora-health"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Memorahealth 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.linkedin.com/company/memora-health",
+    "https://www.summitpharma.co.jp/japanese/service/alliance/topics/spi_20200601.pdf",
+    "https://www.leisure.co.jp/agency",
+    "https://www.merit.co.jp/dealer/",
+    "https://www.emergobyul.com/ja/services/mexico-registration-holder-imported-medical-devices",
+    "https://findex.co.jp/agency/medical.html",
+    "https://www.m360.co.jp/",
+    "https://sharekarte.com/dairi/",
+    "https://www.euglena.jp/businessrd/healthcare/partner/",
+    "https://www.unival.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Memorahealth Japan",
+   "results": [
+    "https://www.memorahealth.com/legal/privacy-policy",
+    "https://www.linkedin.com/company/memora-health",
+    "https://www.ycombinator.com/companies/memora-health",
+    "https://www.crunchbase.com/organization/memora-health",
+    "https://x.com/memorahealth/status/1641143790873215004",
+    "https://pitchbook.com/profiles/company/168251-41",
+    "https://www.instagram.com/reel/DVehH9HlAfW/",
+    "https://transformcap.com/partner-companies/memora-health",
+    "https://pubmed.ncbi.nlm.nih.gov/30464475/",
+    "https://www.memorahealth.com/index.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Memorahealth manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJFT70Q_KZhMldN_tDj8cdh7mvFoOgU5zHSnIGoNnyCfnudW9jl",
+    "https://www.featuredcustomers.com/vendor/memora-health",
+    "https://outpostqa.com/case-studies/memora-health/",
+    "https://mdic.org/resources/case-study-point-of-care-3d-printing-for-personalized-medical-devices/",
+    "https://www.lifelabslearning.com/results/memorahealth",
+    "https://www.generalcatalyst.com/stories/our-investment-in-memora-health",
+    "https://remodelhealth.com/case-studies",
+    "https://www.youtube.com/watch?v=uHmBZnII4go",
+    "https://transformcap.com/partner-companies/memora-health",
+    "https://www.casestudies.com/customer/memora-health"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Memorahealth white label OR reseller OR partner program",
+   "results": [
+    "https://mrghealth.com/resellers/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://karpahealth.com/compare/best-white-label-telehealth-platforms/",
+    "https://helpsquad.com/resellers-partners/",
+    "https://www.fusehealth.com/blogs/best-white-label-telehealth-platform",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://cuvo.co/blog/best-white-label-telehealth-platforms",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Memorahealth founded funding employees revenue",
+   "results": [
+    "https://www.fiercehealthcare.com/health-tech/memora-health-nabs-30m-scale-complex-care-management-solution",
+    "https://multiples.vc/private-comps/commure",
+    "https://tracxn.com/d/companies/memora-health/__bHY6JT6r_fUCHM3Rki9LHrIRyECDaXUPI_xqNtMh73g",
+    "https://pitchbook.com/profiles/company/168251-41",
+    "https://getlatka.com/companies/memorahealth.com",
+    "https://a16z.com/announcement/investing-in-memora-health/",
+    "https://mercomcapital.com/memora-health-raises-10-5-million-for-workflow-automation-platform/",
+    "https://www.crunchbase.com/organization/memora-health",
+    "https://settervc.com/company/memora-health",
+    "https://compworth.com/company/memora-health"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Memorahealth",
+   "results": [
+    "https://note.com/jafcogroup8595/n/n3490b9bf0923",
+    "https://note.com/tinkermodejapan/n/n79ab33b5be56"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 2
+  },
+  {
+   "query": "site:x.com Memorahealth",
+   "results": [
+    "https://x.com/memorahealth/status/1725150392994910268",
+    "https://x.com/memorahealth/status/1641143790873215004",
+    "https://x.com/memorahealth/status/1673682784353763329",
+    "https://x.com/memorahealth/status/1701226193121394867",
+    "https://x.com/memorahealth/status/1699808800763494813",
+    "https://x.com/mnvsevak",
+    "https://x.com/memorahealth/status/1703778401239085143/photo/1",
+    "https://x.com/memorahealth/status/1701597424073298180/photo/1",
+    "https://x.com/mnvsevak/status/1557785180898840577",
+    "https://x.com/vanessatkuhn"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com Memorahealth",
+   "results": [
+    "https://www.linkedin.com/company/memora-health",
+    "https://www.linkedin.com/in/kunaalnaik",
+    "https://www.linkedin.com/posts/manavsevak_manav-sevak-ceo-at-memora-health-activity-7107366946605535233-4yub",
+    "https://www.linkedin.com/posts/csfeldman_manav-sevak-ceo-and-co-founder-memora-activity-7173324366523285506-_yhb",
+    "https://www.linkedin.com/posts/eric-flyckt_memora-announces-30m-investment-led-by-general-activity-7054143092265811968-7LEA",
+    "https://www.linkedin.com/in/manavsevak",
+    "https://www.linkedin.com/pulse/why-i-joined-memora-health-gc-spotlight-nathan-leong-nathan-leong",
+    "https://www.linkedin.com/in/laranoel",
+    "https://www.linkedin.com/in/abby-mandel-80893bb0",
+    "https://www.linkedin.com/in/omarnagji"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Memorahealth",
+   "results": [
+    "https://www.facebook.com/AltairCapital?locale=zh_HK",
+    "https://www.facebook.com/stanthonysf/posts/a-little-teamwork-goes-a-long-way-the-twitch-team-recently-came-together-for-a-h/1348036874037128/",
+    "https://www.facebook.com/webex/posts/community-health-network-is-using-webex-to-transform-patient-and-employee-experi/1144944648098769/",
+    "https://www.facebook.com/ndolacitycouncil/posts/for-more-information-on-the-coronavirus-disease-covid-19-send-the-word-corona-to/3185959651628466/",
+    "https://www.facebook.com/mvhealthsystem/posts/patient-access-week-recognizes-the-teams-who-are-often-the-first-point-of-contac/1552924866838075/",
+    "https://www.facebook.com/100089246778010/posts/great-day-at-the-praesum-healthcare-corporate-headquarters-in-west-palm-beach-fl/1124500390534843/",
+    "https://www.facebook.com/strongsvillecs/posts/congratulations-shriya-srinivasan-shs-class-of-2012-for-being-named-to-the-forbe/3209624542593902/",
+    "https://www.facebook.com/AriannaHuffington/posts/healthcare-has-become-remarkably-good-at-treating-disease-the-next-frontier-is-h/1661115508708772/",
+    "https://www.facebook.com/opticall/posts/aao-is-almost-here-and-this-year-marks-a-new-chapter-for-opticall-powered-by-pro/1754794386118665/",
+    "https://www.facebook.com/DrOzCMS/posts/my-good-friend-tony-robbins-joined-us-at-qualcon26-to-talk-about-empowering-ours/122180770244832696/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Memorahealth note 社長",
+   "results": [
+    "https://x.com/sadaaki",
+    "https://online.nikkei-cnbc.co.jp/vod/58940",
+    "https://note.com/ai_shacho",
+    "https://www.facebook.com/hrbrainbiz/posts/%E5%BD%B9%E5%93%A1note%E5%85%AC%E9%96%8B%E5%8F%96%E7%B7%A0%E5%BD%B9%E5%89%AF%E7%A4%BE%E9%95%B7cro%E7%99%BD%E4%BA%95%E3%81%AEnote%E7%AC%AC6%E5%BC%BE%E5%85%AC%E9%96%8B%E3%81%A7%E3%81%99%E7%B5%8C%E5%96%B6%E8%80%85%E3%81%AF%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%A8%E3%81%84%E3%81%86%E4%BA%BA%E7%A8%AE%E3%82%92%E7%90%86%E8%A7%A3%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B%E8%A8%98%E4%BA%8B%E3%81%AF%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88%E6%AC%84%E3%82%92%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%EF%B8%8F/1768371175288504/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.linkedin.com/company/memora-health",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Memorahealth X 投稿",
+   "results": [
+    "https://www.memorahealth.com/legal/privacy-policy",
+    "https://x.com/memorahealth/status/1725150392994910268",
+    "https://www.linkedin.com/company/memora-health",
+    "https://www.ycombinator.com/companies/memora-health",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC11185906/",
+    "https://x.com/memorahealth/status/1701597424073298180/photo/1",
+    "https://med.stanford.edu/news/insights/2023/08/new-ai-tool-for-pathologists-trained-by-twitter-now-known-as-x.html",
+    "https://impilo.health/blog/impilo-partners-with-memora-health/",
+    "https://www.lifelabslearning.com/results/memorahealth",
+    "https://x.com/memorahealth"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部32頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部32頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部32頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部32頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部32頁・検索12回）"
+ }
+}

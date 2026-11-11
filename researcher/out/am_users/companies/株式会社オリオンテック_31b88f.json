@@ -1,0 +1,434 @@
+{
+ "name": "株式会社オリオンテック",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T13:15:58.096695+00:00",
+ "official_url": "https://www.oriontec.co.jp",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "一点物・少量多品種": [
+   {
+    "quote": "(株)オリオンテック トップページ 試作 短納期 精密加工",
+    "url": "https://www.oriontec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "試作部品、サンプル、精密加工のオリオンテック",
+    "url": "https://www.oriontec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "試作部品、サンプルをどこよりも早く精密加工致します！！",
+    "url": "https://www.oriontec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "試作部品は｢納期が無い｣、｢精度がうるさい｣、｢数が少ない｣、｢材料が特殊｣等、嫌われがちです",
+    "url": "https://www.oriontec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社ではその様な部品を5軸マシニングセンタ、ＮＣ旋盤、研磨機、ワイヤー等の複合加工技術を駆使して高精度単品加工を短納期にて製作するシステム化に成功しております",
+    "url": "https://www.oriontec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "単品加工を中心に試作品の加工、設計、組立等を主に受注",
+    "url": "https://www.oriontec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "マシニングセンタ、NC旋盤等を駆使して高品質の単品加工を短納期にて製作するシステム化に成功",
+    "url": "https://www.oriontec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "３、プリズム、導光板の試作と金型の製造",
+    "url": "https://mono.ipros.com/company/detail/318454/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "大阪・関西万博マッチングポータルの「宇宙・先端産業分野」に掲載されました",
+    "url": "https://www.oriontec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "趣味の一品からロケットの部品まで幅広く対応致します",
+    "url": "https://www.oriontec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和49年5月、東京は大田区の東蒲田にて,株式会社東京計器の航空用精密機械部品の加工工場として設立",
+    "url": "https://www.oriontec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "同社の航空用部品等の加工を中心に、金型治具等を製作",
+    "url": "https://www.oriontec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "３、プリズム、導光板の試作と金型の製造",
+    "url": "https://mono.ipros.com/company/detail/318454/",
+    "pass": 3
+   },
+   {
+    "quote": "・プリズム、導光板金型の製作",
+    "url": "https://mono.ipros.com/company/detail/318454/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "ここでは、当社が保有するCAD/CAMと対応可能なデータ形式の一覧を紹介致します",
+    "url": "https://www.oriontec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "また、メールによるCADデータの受渡し、2D・3D CAD/CAMの導入、旋盤・マシニングセンタ・ワイヤ放電・研磨等を駆使した複合加工技術により、短納期にも対応できる製作システムを確立しております",
+    "url": "https://www.oriontec.co.jp/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "当社ではこのような仕事に対し、図形データのやり取りを容易にして短納期にも対応できるよう電子メールによる図形データの受渡しを取り入れました",
+    "url": "https://www.oriontec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "また、メールによるCADデータの受渡し、2D・3D CAD/CAMの導入、旋盤・マシニングセンタ・ワイヤ放電・研磨等を駆使した複合加工技術により、短納期にも対応できる製作システムを確立しております",
+    "url": "https://www.oriontec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "下記のお問い合わせフォームに必要事項をご入力の上お送りください",
+    "url": "https://orion-tec.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お電話（平日10:00-18:00）でのお問い合わせも可能ですので、お気軽にお電話ください",
+    "url": "https://orion-tec.jp/contact/",
+    "pass": 3
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "製品・サービス(6)",
+    "url": "https://mono.ipros.com/company/detail/318454/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (6)",
+    "url": "https://mono.ipros.com/company/detail/318454/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "１、フェムト秒レーザーを使ったガラスやセラミックへの非熱超微細加工が可能",
+    "url": "https://mono.ipros.com/company/detail/318454/",
+    "pass": 3
+   },
+   {
+    "quote": "５、材質を選ばず加工可能（樹脂 〜 焼入れ鋼、チタン、ニッケルといった難削材まで幅広く対応）",
+    "url": "https://mono.ipros.com/company/detail/318454/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 (株) オリオンテック 大田区 金属加工 複合加工 — 会社概要 (株) オリオンテック 大田区 金属加工 複合加工 株式会社オリオンテック https://www.oriontec.co.jp > outline",
+    "url": "https://www.oriontec.co.jp/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 オリオンテック の 会社概要 ・製品情報 - Metoree — 株式会社 オリオンテック の 会社概要 ・製品情報 - Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/46526/",
+    "pass": 3
+   },
+   {
+    "quote": "オリオンテック | 企業 情報 | イプロスものづくり — オリオンテック | 企業 情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/318454/",
+    "pass": 3
+   },
+   {
+    "quote": "会社 案内 - オリオンテック株式会社 — 会社 案内 - オリオンテック株式会社 オリオンテック株式会社 https://orion-tec.jp > company",
+    "url": "https://orion-tec.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - オリオンテック株式会社 — お問い合わせ - オリオンテック株式会社 オリオンテック株式会社 https://orion-tec.jp > contact",
+    "url": "https://orion-tec.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "オリオンテック お問合わせ フォーム — オリオンテック お問合わせ フォーム 株式会社オリオンテック https://www.oriontec.co.jp > contact",
+    "url": "https://www.oriontec.co.jp/contact.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.oriontec.co.jp/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.oriontec.co.jp/company-banner.gif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.oriontec.co.jp/cc.gif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.oriontec.co.jp/m4.gif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.oriontec.co.jp/cc.gif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.orion.co.jp/plastics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mfg-hack.com/plastic/10134/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/46526/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/318454/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.orionbeer.co.jp/customerservices/contact_form/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orion-tec.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "オリオンテック 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.orion.co.jp/plastics",
+    "https://injection-lab.com/technology/64-2.html",
+    "https://mfg-hack.com/plastic/10134/",
+    "https://www.youtube.com/watch?v=rL1D8Ah3h3g",
+    "https://www.xeffect.com/small/",
+    "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "https://kakounosusume.com/product/epomold/",
+    "https://shinko56.com/trial.html",
+    "https://www.protech-japan.jp/products/resin/small-lot-resin.html",
+    "https://oripra.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "オリオンテック 会社概要 事業内容",
+   "results": [
+    "https://www.oriontec.co.jp/outline.html",
+    "https://metoree.com/companies/46526/",
+    "https://mono.ipros.com/company/detail/318454/",
+    "https://orion-tec.jp/company/",
+    "https://www.orionkikai.co.jp/company/profile/",
+    "https://saiki-navi.jp/member_li/orion-tec/",
+    "https://www.orion-netsugaku.co.jp/company/overview/",
+    "https://www.orionbeer.co.jp/company/outline.html",
+    "https://www.mirai-ota.net/company/detail/39",
+    "https://oriontec.net/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "オリオンテック お問い合わせ メール",
+   "results": [
+    "https://www.orionbeer.co.jp/customerservices/contact_form/",
+    "https://orion-tec.jp/contact/",
+    "https://www.oriontec.co.jp/contact.html",
+    "https://orionstar.co.jp/contact",
+    "https://www.orionkikai.co.jp/rakuno/inquiry/",
+    "https://www.orionsystem.co.jp/qa/qa1.html",
+    "https://k-orion.co.jp/info/contact/",
+    "https://www.orion-it.ac.jp/contact",
+    "https://www.orion-g.co.jp/contact/index.html",
+    "https://www.oriontec.co.jp/inquiry.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com オリオンテック",
+   "results": [
+    "https://note.com/startup_now0708/n/ncac47e96fba0",
+    "https://note.com/techocean_corp/n/na73d93d1c63a",
+    "https://note.com/shinya1204/n/n18f3572fb90a",
+    "https://note.com/suguru_kawashima/n/nc3586d9b5bb4",
+    "https://note.com/yamabug/n/n0751cad4957b",
+    "https://note.com/mocchan/n/nf2f80ca8333d",
+    "https://note.com/diceksuzuki/n/ne337bb20bf75",
+    "https://note.com/iwata9999/n/n7deeba923111",
+    "https://note.com/startup_now0708/n/n5ef9a8fb32fd",
+    "https://note.com/hax"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com オリオンテック",
+   "results": [
+    "https://x.com/asou401/status/2110232993935859819",
+    "https://x.com/machidaT_toreca/status/2119244772732981346",
+    "https://x.com/NIKKEIxTECH/status/2041287476862668831",
+    "https://x.com/kojima1211/status/2027300840583893126",
+    "https://x.com/NMC_nichimecha/reposts",
+    "https://x.com/kojima1211/status/1954063615453265980",
+    "https://x.com/nohara_painter/status/1992544300446736723?lang=ar",
+    "https://x.com/textucugia/status/1172961732848865280",
+    "https://x.com/PEKETTER_TECH/status/2114652095307764007",
+    "https://x.com/ORION_ATS"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com オリオンテック",
+   "results": [
+    "https://jp.linkedin.com/posts/yoichiaso_%E6%B2%96%E7%B8%84%E7%9C%8Calphadrive%E3%82%A4%E3%82%AA%E3%83%B3%E7%90%89%E7%90%83%E3%82%AA%E3%83%AA%E3%82%AA%E3%83%B3%E3%83%93%E3%83%BC%E3%83%AB%E3%81%AA%E3%81%A9%E7%9C%8C%E5%86%85%E4%BC%81%E6%A5%AD%EF%BC%99%E7%A4%BE%E3%81%AE%E6%96%B0%E8%A6%8F%E4%BA%8B%E6%A5%AD-activity-7515998516234633216-Yw0A",
+    "https://jp.linkedin.com/pulse/top-institutional-defi-projects-supported-global-banks-garima-singh-2n1df?tl=ja",
+    "https://jp.linkedin.com/pulse/metas-next-leap-orion-glasses-quest-3s-ai-upgrades-connect-r-pillai-wpdze?tl=ja",
+    "https://jp.linkedin.com/pulse/byte-sized-tech-newsletter-lovers-2-mark-pinchen-wga9e?tl=ja",
+    "https://jp.linkedin.com/pulse/my-unpopular-opinion-zuckerbergs-70-billion-loss-smartest-lipp-ud8re?tl=ja",
+    "https://jp.linkedin.com/in/takaaki-honjo-28384212b",
+    "https://jp.linkedin.com/pulse/space-tech-acceleration-anthony-starr-z2wre?tl=ja",
+    "https://jp.linkedin.com/pulse/orion-core-ren%C3%A1n-espinar-saavedra-o9hjf?tl=ja",
+    "https://jp.linkedin.com/pulse/digital-wealth-revolution-how-wealthtech-atbcc?tl=ja",
+    "https://www.linkedin.com/company/oriontekinc"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com オリオンテック",
+   "results": [
+    "https://www.facebook.com/61559092931930/posts/%E3%82%AA%E3%83%AA%E3%82%AA%E3%83%B3%E3%83%93%E3%83%BC%E3%83%AB%E5%85%B1%E5%89%B5%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E5%8B%9F%E9%9B%86%E6%B2%96%E7%B8%84%E7%94%A3%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%8F%E3%83%BC%E3%83%96%E3%81%AE%E5%AE%89%E5%AE%9A%E4%BE%9B%E7%B5%A6%E3%81%A8%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3%E3%81%AE%E9%A3%9F%E4%BD%93%E9%A8%93%E3%81%AE%E9%9D%A9%E6%96%B0%E3%81%AB%E6%8C%91%E6%88%A6%E3%82%A2%E3%82%B0%E3%83%AA%E3%83%86%E3%83%83%E3%82%AF%E7%AD%89%E3%81%AE%E7%9F%A5%E8%A6%8B%E3%82%92%E3%81%8A%E6%8C%81%E3%81%A1%E3%81%AE%E6%96%B9%E3%82%92%E5%8B%9F%E9%9B%86%E3%81%97%E3%81%BE%E3%81%99%E7%B7%A0%E5%88%871023%E9%87%911800/122237641796303097/",
+    "https://www.facebook.com/kanagawa.rocket/posts/-%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B1%E3%83%BC%E3%82%B9%E3%81%A8%E3%82%A4%E3%83%B3%E3%82%B8%E3%82%A7%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%99%E3%83%AB%E3%81%8C%E5%AE%8C%E6%88%90%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-%E6%96%B0%E8%A6%8F%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B1%E3%83%BC%E3%82%B9%E3%81%A8%E3%82%A4%E3%83%B3%E3%82%B8%E3%82%A7%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%99%E3%83%AB%E3%81%A7%E3%81%99%E5%A4%A7%E7%94%B0%E5%8C%BA%E3%81%AE%E3%82%AA%E3%83%AA%E3%82%AA%E3%83%B3%E3%83%86%E3%83%83%E3%82%AF%E3%81%95%E3%82%93%E3%81%A8%E9%87%8C%E4%B8%AD%E7%B2%BE%E6%A9%9F%E3%81%95%E3%82%93%E3%81%AB%E5%8A%A0%E5%B7%A5%E3%82%92%E3%81%97/891958564263812/",
+    "https://www.facebook.com/dairyjapan/posts/%E9%A3%BC%E6%96%99%E9%A3%BC%E6%96%99%E6%B7%BB%E5%8A%A0%E7%89%A9%E5%8B%95%E7%89%A9%E7%94%A8%E5%8C%BB%E8%96%AC%E5%93%81%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E9%96%8B%E7%99%BA%E3%81%A8%E8%B2%A9%E5%A3%B2%E6%A5%AD%E5%8B%99%E3%81%8A%E3%82%88%E3%81%B3%E3%81%93%E3%82%8C%E3%81%AB%E9%96%A2%E9%80%A3%E3%81%97%E3%81%9F%E4%BA%8B%E6%A5%AD%E3%82%92%E8%A1%8C%E3%81%AA%E3%81%86%E3%83%A9%E3%83%AC%E3%83%9E%E3%83%B3%E3%83%89%E3%83%90%E3%82%A4%E3%82%AA%E3%83%86%E3%83%83%E3%82%AF%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AF%E7%8F%BE%E5%9C%A8%E5%96%B6%E6%A5%AD%E9%83%A8%E5%9C%B0%E5%9F%9F%E3%83%9E%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%92%E5%8B%9F%E9%9B%86%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B-%E5%8B%9F%E9%9B%86%E3%81%AE/1161032329364184/",
+    "https://www.facebook.com/groups/2935998186488286/posts/28757009933960424/",
+    "https://www.facebook.com/100087434317002/videos/%E4%BB%8A%E5%B9%B4%E3%81%A74%E5%9B%9E%E7%9B%AE%E3%81%AE%E9%96%8B%E5%82%AC%E3%81%A8%E3%81%AA%E3%82%8B%E6%B2%96%E7%B8%84%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC%E3%82%B9%E3%83%94%E3%83%AA%E3%83%83%E3%83%84%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB%E6%98%A8%E5%B9%B4%E3%81%AF%E3%81%8A%E3%82%88%E3%81%9D1500%E5%90%8D%E3%81%8C%E6%9D%A5%E5%A0%B4%E3%81%97%E3%81%9F%E5%9B%BD%E5%86%85%E6%9C%89%E6%95%B0%E3%81%AE%E6%B4%8B%E9%85%92%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%A7%E3%81%99%E5%A4%A7%E4%BA%BA%E6%B0%97%E3%81%AE%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC%E3%82%84%E6%B2%96%E7%B8%84%E7%9C%8C%E7%94%A3%E3%81%AE%E3%82%B9%E3%83%94%E3%83%AA%E3%83%83%E3%83%84/1924091575055750/",
+    "https://www.facebook.com/OISTInnovation/posts/english-follows-%E3%82%AA%E3%83%AA%E3%82%AA%E3%83%B3%E3%83%93%E3%83%BC%E3%83%AB%E3%81%A8%E6%96%B0%E3%81%9F%E3%81%AA%E5%8F%AF%E8%83%BD%E6%80%A7%E3%82%92%E6%8E%A2%E3%82%8B10%E6%9C%8814%E6%97%A5oist-innovationoist-igemoist%E3%81%AE%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%A7%E3%81%82%E3%82%8Bat/122328948884031817/",
+    "https://www.facebook.com/kyuuniichiban/posts/%E6%AD%AF%E3%83%96%E3%83%A9%E3%82%B7%E4%BA%A4%E6%8F%9B%E3%83%87%E3%83%BC%E6%98%A8%E6%97%A58%E6%97%A5%E3%81%AF%E8%AA%9E%E5%91%82%E5%90%88%E3%82%8F%E3%81%9B%E3%81%8B%E3%82%89%E6%AD%AF%E3%83%96%E3%83%A9%E3%82%B7%E4%BA%A4%E6%8F%9B%E3%83%87%E3%83%BC%E3%81%A7%E3%81%97%E3%81%9F%E6%AD%AF%E3%83%96%E3%83%A9%E3%82%B7%E3%81%AF1%E3%81%8B%E6%9C%88%E3%81%BB%E3%81%A9%E3%81%A7%E5%8A%A3%E5%8C%96%E3%81%97%E3%81%A6%E3%81%97%E3%81%BE%E3%81%86%E3%81%9F%E3%82%81%E6%AF%8E%E6%9C%88%E4%BA%A4%E6%8F%9B%E3%81%99%E3%82%8B%E5%BF%85%E8%A6%81%E3%81%8C%E3%81%82%E3%82%8B%E3%81%9D%E3%81%86%E3%81%A7%E3%81%99%E7%8B%AC%E7%AB%8B%E6%B4%97%E9%9D%A2%E5%8F%B0%E4%BA%A4%E6%8F%9B%E7%8B%AC%E7%AB%8B%E6%B4%97%E9%9D%A2%E5%8F%B0%E5%8F%96%E3%82%8A/1983018023088210/",
+    "https://www.facebook.com/dairyjapan/posts/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%A8%E3%82%B9%E3%83%87%E3%82%A3%E3%83%BC%E3%82%A8%E3%82%B9-%E3%83%90%E3%82%A4%E3%82%AA%E3%83%86%E3%83%83%E3%82%AF%E3%81%AF%E3%83%95%E3%83%BC%E3%83%89%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E8%84%B1%E7%82%AD%E7%B4%A0%E3%82%B7%E3%83%B3%E3%83%9D%E3%82%B8%E3%82%A6%E3%83%A02025%E8%82%89%E7%89%9B%E7%B7%A8%E6%8C%81%E7%B6%9A%E5%8F%AF%E8%83%BD%E3%81%AA%E7%95%9C%E7%94%A3%E3%81%AE%E6%9C%AA%E6%9D%A5%E7%92%B0%E5%A2%83%E3%81%A8%E7%B5%8C%E6%B8%88%E3%81%AE%E8%AA%BF%E5%92%8C%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%97%E3%81%A6%E3%82%92%E9%96%8B%E5%82%AC%E3%81%99%E3%82%8B-%E6%9C%AC%E3%82%B7%E3%83%B3%E3%83%9D%E3%82%B8%E3%82%A6%E3%83%A0%E3%81%A7%E3%81%AF/1342043317929750/",
+    "https://www.facebook.com/kyuuniichiban/posts/%E5%B1%8B%E6%A0%B9%E3%81%AE%E3%83%AA%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%BE%E3%81%A8%E3%82%81%E6%96%BD%E5%B7%A5%E4%BA%8B%E4%BE%8B%E3%81%8B%E3%82%89%E5%B1%8B%E6%A0%B9%E3%81%AE%E3%83%AA%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E4%BA%8B%E4%BE%8B%E3%82%92%E3%81%84%E3%81%8F%E3%81%A4%E3%81%8B%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%81%97%E3%81%A6%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E3%81%BF%E3%81%BE%E3%81%97%E3%81%9F%E3%82%B9%E3%83%AC%E3%83%BC%E3%83%88%E5%B1%8B%E6%A0%B9%E8%91%BA%E3%81%8D%E6%9B%BF%E3%81%88%E5%A1%97%E8%A3%85%E7%93%A6%E3%82%B9%E3%83%AC%E3%83%BC%E3%83%88%E5%B1%8B%E6%A0%B9%E5%B1%8B%E6%A0%B9%E3%81%AE%E3%83%AA%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%A7%E3%81%8A%E5%9B%B0%E3%82%8A%E3%81%AA/1976993360357343/",
+    "https://www.facebook.com/オリオンテック株式会社-284372934925601/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "オリオンテック note 社長",
+   "results": [
+    "https://note.com/shizuoka_pr/n/n0463c6a1dc22",
+    "https://note.com/shizuoka_pr/n/nbe70f9055c2c",
+    "https://note.ishida-tec.co.jp/magazines",
+    "https://biz.note.com/n/n4043af14f174",
+    "https://agenda-note.com/brands/detail/id=3630",
+    "https://note.com/hiroyuki_osumi/n/n7ee9d6539628",
+    "https://www.tss-tv.co.jp/soda/hiroshima/20210307_2.html",
+    "https://note.ishida-tec.co.jp/n/n5e220bbdfafc",
+    "https://x.com/orionwirgman/status/1869926439052816688",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "オリオンテック X 投稿",
+   "results": [
+    "https://saiki-navi.jp/member_li/orion-tec/",
+    "https://orion-tec.jp/privacy/",
+    "https://www.oriontec.co.jp/",
+    "https://www.youtube.com/shorts/2jCYWz-bfLs",
+    "https://www.tss-tv.co.jp/soda/hiroshima/20210307_2.html",
+    "https://www.knshow.com/detail/1d8269ae2102f690.html",
+    "https://syukatsu-kaigi.jp/companies/157436/word_mouths",
+    "https://oriontec.net/",
+    "https://x.com/orionchichi/status/2119831537072087458",
+    "https://x.com/orionchichi/status/2109225310294303158"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部7頁・検索9回）",
+  "事業内容": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部7頁・検索9回）",
+  "代表者": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部7頁・検索9回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部7頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部7頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部7頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部7頁・検索9回）"
+ }
+}

@@ -8,7 +8,7 @@
  ],
  "context": "裏取り",
  "kind": "market",
- "researched_at": "2026-11-09T12:41:37.897701+00:00",
+ "researched_at": "2026-11-11T13:15:29.478099+00:00",
  "evidence": {},
  "figures": {},
  "checked": {
@@ -19,12 +19,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/massets/n/nb23e0b543f5b",
+    "url": "https://note.com/eager_bonobo1325/n/naf0127a20bc7",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/eager_bonobo1325/n/naf0127a20bc7",
+    "url": "https://note.com/massets/n/nb23e0b543f5b",
     "status": "ok",
     "method": "http"
    },
@@ -34,12 +34,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/chusho_yosuke/n/n9ae67d444914",
+    "url": "https://note.com/smallbiz_update/n/nce83cf9b436b",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/claudegptai/n/n96352d309114",
+    "url": "https://note.com/chusho_yosuke/n/n9ae67d444914",
     "status": "ok",
     "method": "http"
    },
@@ -64,22 +64,22 @@
     "method": "http"
    },
    {
+    "url": "https://note.com/kind_clam9731/n/n8a1a499f4bbf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://www.goo-net.com/kaitori/satei/kaitori-satei/satei-knowhow/9011/",
     "status": "network_error:ConnectTimeout",
     "method": "http"
    },
    {
-    "url": "https://debono.co.jp/media/ai-usecase/lab-notebook-rule-check/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://lefixea.jp/articles/surveying-equipment171",
+    "url": "https://dx.nsw.co.jp/column/11918/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://dx.nsw.co.jp/column/11918/",
+    "url": "https://lefixea.jp/articles/surveying-equipment171",
     "status": "ok",
     "method": "http"
    },
@@ -99,17 +99,7 @@
     "method": "http"
    },
    {
-    "url": "https://at-pocket.com/plugin/usecases/facility-inspection-completion-signature/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://lilz-nbk.co.jp/column/6391/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.adtek-fuji.co.jp/adfactory/equipment-inspection/",
     "status": "ok",
     "method": "http"
    },
@@ -119,22 +109,27 @@
     "method": "http"
    },
    {
+    "url": "https://www.adtek-fuji.co.jp/adfactory/equipment-inspection/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://de-v.co.jp/works/field-reporting/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.zenrin-datacom.net/solution/drone/casestudy",
+    "url": "https://at-pocket.com/plugin/usecases/facility-inspection-completion-signature/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://solution.toppan.co.jp/toppan-digital/contents/eplatch_column27.html",
+    "url": "https://kaminashi.jp/media/electronic-maintenance-log",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    },
    {
-    "url": "https://datajournalism.com/read/handbook/verification-2/5-investigating-with-databases-verifying-data-quality",
+    "url": "https://www.fujielectric.co.jp/products/chemical/solution_detail/kadai08.html",
     "status": "ok",
     "method": "http"
    },
@@ -144,12 +139,17 @@
     "method": "http"
    },
    {
-    "url": "https://www.sciencedirect.com/science/article/pii/S2444569X24001379",
-    "status": "http_403",
+    "url": "https://datajournalism.com/read/handbook/verification-2/5-investigating-with-databases-verifying-data-quality",
+    "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://icedq.com/6-data-quality-dimensions",
+    "url": "https://www.6sigma.us/six-sigma-in-focus/dimensions-of-data-quality/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://edm-1.itrcweb.org/analytical-data-quality-review/",
     "status": "ok",
     "method": "http"
    },
@@ -159,8 +159,8 @@
     "method": "http"
    },
    {
-    "url": "https://www.ibm.com/products/tutorials/6-pillars-of-data-quality-and-how-to-improve-your-data",
-    "status": "ok",
+    "url": "https://www.sciencedirect.com/science/article/pii/S2444569X24001379",
+    "status": "http_403",
     "method": "http"
    }
   ]
@@ -170,38 +170,37 @@
    "query": "受け取ったデータの点検の手順（完全さ・重複・正確さ・整合・符号の一覧・Verification Handbook の後継と日本語の解説・GIJN・4-117） site:note.com",
    "results": [
     "https://note.com/nabana_cs/n/n36496cf88541",
-    "https://note.com/massets/n/nb23e0b543f5b",
     "https://note.com/eager_bonobo1325/n/naf0127a20bc7",
+    "https://note.com/massets/n/nb23e0b543f5b",
     "https://note.com/takayuki_sase/n/n5691eec1bfe7",
-    "https://note.com/chusho_yosuke/n/n9ae67d444914",
-    "https://note.com/claudegptai/n/n96352d309114",
-    "https://note.com/syotyo_builmen/n/n332929666a4d",
-    "https://note.com/kazu_t/n/n0a3e06ad8e29",
     "https://note.com/smallbiz_update/n/nce83cf9b436b",
-    "https://note.com/altenergy/n/n87b784ed31f2"
+    "https://note.com/chusho_yosuke/n/n9ae67d444914",
+    "https://note.com/altenergy/n/n87b784ed31f2",
+    "https://note.com/kazu_t/n/n0a3e06ad8e29",
+    "https://note.com/syotyo_builmen/n/n332929666a4d",
+    "https://note.com/claudegptai/n/n96352d309114"
    ],
    "engines": [
-    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 10
   },
   {
    "query": "受け取ったデータの点検の手順（完全さ・重複・正確さ・整合・符号の一覧・Verification Handbook の後継と日本語の解説・GIJN・4-117） note",
    "results": [
-    "https://www.jiw.co.jp/waymark_note/manual/viewer.html?page=manual_field_operations.html",
     "https://note.com/nabana_cs/n/n36496cf88541",
     "https://note.com/eager_bonobo1325/n/naf0127a20bc7",
+    "https://www.jiw.co.jp/waymark_note/manual/viewer.html?page=manual_field_operations.html",
     "https://toyota.jp/maintenance_note/",
     "https://note.com/nakasanpro/n/na11c25d9a2e3",
     "https://note.com/ai_labo26/n/n7dcedef8d0bb",
+    "https://note.com/kind_clam9731/n/n8a1a499f4bbf",
     "https://www.goo-net.com/kaitori/satei/kaitori-satei/satei-knowhow/9011/",
-    "https://debono.co.jp/media/ai-usecase/lab-notebook-rule-check/",
     "https://note.com/tasklab_biz/n/ndbf202242aff",
-    "https://note.com/aki_ai_hack/n/n7449663be705"
+    "https://note.com/bright_bear371/n/n12526b839954"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -209,16 +208,16 @@
   {
    "query": "受け取ったデータの点検の手順（完全さ・重複・正確さ・整合・符号の一覧・Verification Handbook の後継と日本語の解説・GIJN・4-117） やり方",
    "results": [
-    "https://lefixea.jp/articles/surveying-equipment171",
     "https://dx.nsw.co.jp/column/11918/",
+    "https://lefixea.jp/articles/surveying-equipment171",
     "https://www.gsi.go.jp/common/000260369.pdf",
     "https://dfct.daikinaircon.com/check/help/manual.html",
     "https://www.optim.co.jp/optim-support-and-growth-portal/blog/inspection-digitalization/",
+    "https://lilz-nbk.co.jp/column/6391/",
     "https://at-pocket.com/plugin/usecases/facility-inspection-completion-signature/",
-    "https://www.mlit.go.jp/tec/constplan/content/001612927.pdf",
+    "https://www.mlit.go.jp/tec/constplan/content/001880737.pdf",
     "https://emanet.jp/column/cloud-drive-public-sharing-audit/",
-    "https://yachiyo-sol.com/library/hozen-kiroku/",
-    "https://genba-tameshita.com/incoming-inspection-guide/"
+    "https://data-viz-lab.com/how-to-data-cleaning"
    ],
    "engines": [
     "ddgs:google",
@@ -231,17 +230,17 @@
    "results": [
     "https://lilz-nbk.co.jp/column/6391/",
     "https://www.optim.co.jp/optim-support-and-growth-portal/blog/inspection-digitalization/",
-    "https://www.adtek-fuji.co.jp/adfactory/equipment-inspection/",
     "https://i-reporter.jp/column/15903/",
+    "https://www.adtek-fuji.co.jp/adfactory/equipment-inspection/",
     "https://de-v.co.jp/works/field-reporting/",
-    "https://www.zenrin-datacom.net/solution/drone/casestudy",
     "https://at-pocket.com/plugin/usecases/facility-inspection-completion-signature/",
-    "https://www.gsi.go.jp/common/000260369.pdf",
-    "https://solution.toppan.co.jp/toppan-digital/contents/eplatch_column27.html",
-    "https://atena.chatwork.com/scan-service/column/scan-delivery-inspection/"
+    "https://kaminashi.jp/media/electronic-maintenance-log",
+    "https://www.fujielectric.co.jp/products/chemical/solution_detail/kadai08.html",
+    "https://mentena.biz/insight/mobile-tablet-equipment-inspection-paperless/",
+    "https://www.asteria.com/jp/warp/blog/165951.html"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -249,39 +248,39 @@
   {
    "query": "verification handbook data quality completeness duplicates integrity check investigative",
    "results": [
-    "https://datajournalism.com/read/handbook/verification-2/5-investigating-with-databases-verifying-data-quality",
     "https://www.collibra.com/blog/the-6-dimensions-of-data-quality",
-    "https://www.sciencedirect.com/science/article/pii/S2444569X24001379",
-    "https://icedq.com/6-data-quality-dimensions",
+    "https://datajournalism.com/read/handbook/verification-2/5-investigating-with-databases-verifying-data-quality",
+    "https://www.6sigma.us/six-sigma-in-focus/dimensions-of-data-quality/",
+    "https://edm-1.itrcweb.org/analytical-data-quality-review/",
     "https://www.ovaledge.com/blog/data-quality-testing-guide",
-    "https://www.ibm.com/products/tutorials/6-pillars-of-data-quality-and-how-to-improve-your-data",
+    "https://www.sciencedirect.com/science/article/pii/S2444569X24001379",
     "https://atlan.com/data-integrity-vs-data-quality/",
-    "https://www.gsa.gov/directives-library/gsa-information-and-data-quality-handbook-1",
-    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10646672/",
+    "https://dep.nj.gov/wp-content/uploads/srp/data_qual_assess_guidance.pdf",
+    "https://www.ibm.com/products/tutorials/6-pillars-of-data-quality-and-how-to-improve-your-data",
     "https://verificationhandbook.com/"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 16
   },
   {
    "query": "site:note.com 受け取ったデータの点検の手順（完全さ・重複・正確さ・整合・符号の一覧・Verification Handbook の後継と日本語の解説・GIJN・4-117）",
    "results": [
     "https://note.com/nabana_cs/n/n36496cf88541",
-    "https://note.com/massets/n/nb23e0b543f5b",
     "https://note.com/eager_bonobo1325/n/naf0127a20bc7",
+    "https://note.com/massets/n/nb23e0b543f5b",
     "https://note.com/takayuki_sase/n/n5691eec1bfe7",
+    "https://note.com/smallbiz_update/n/nce83cf9b436b",
     "https://note.com/chusho_yosuke/n/n9ae67d444914",
-    "https://note.com/kazu_t/n/n0a3e06ad8e29",
-    "https://note.com/claudegptai/n/n96352d309114",
-    "https://note.com/syotyo_builmen/n/n332929666a4d",
     "https://note.com/altenergy/n/n87b784ed31f2",
-    "https://note.com/smallbiz_update/n/nce83cf9b436b"
+    "https://note.com/kazu_t/n/n0a3e06ad8e29",
+    "https://note.com/syotyo_builmen/n/n332929666a4d",
+    "https://note.com/claudegptai/n/n96352d309114"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -297,11 +296,11 @@
     "https://x.com/sora_biz/status/2114636749553147954",
     "https://x.com/tetumemo/status/2098656305309421766",
     "https://x.com/sora_biz/status/2116087305504952551",
-    "https://x.com/shinjiko9/status/1921333337781850204?lang=ar",
-    "https://x.com/Akki_AI7/status/2113569498154561895"
+    "https://x.com/sachiAi_comp/article/2116281508009066618",
+    "https://x.com/shinjiko9/status/1921333337781850204?lang=ar"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -309,19 +308,19 @@
   {
    "query": "site:linkedin.com 受け取ったデータの点検の手順（完全さ・重複・正確さ・整合・符号の一覧・Verification Handbook の後継と日本語の解説・GIJN・4-117）",
    "results": [
-    "https://jp.linkedin.com/pulse/how-implement-clause-85-iso-9001-production-service-danny-lee-pcqi-skcje?tl=ja",
-    "https://jp.linkedin.com/pulse/autonomous-ships-need-more-than-ai-why-maritime-cyber-kremmydas-uwh7e?tl=ja",
     "https://jp.linkedin.com/pulse/new-engineering-risk-agent-written-code-evidence-trail-yadav-dncjf?tl=ja",
-    "https://www.linkedin.com/in/noboru-gunji-39aa5921/",
+    "https://jp.linkedin.com/pulse/autonomous-ships-need-more-than-ai-why-maritime-cyber-kremmydas-uwh7e?tl=ja",
     "https://jp.linkedin.com/in/geeorgey",
-    "https://jp.linkedin.com/in/hisao-tamaue-bab27a14",
+    "https://www.linkedin.com/in/noboru-gunji-39aa5921/",
     "https://jp.linkedin.com/in/say24",
+    "https://jp.linkedin.com/in/hisao-tamaue-bab27a14",
     "https://jp.linkedin.com/in/masuo-shiraiwa-71b0681b2",
     "https://jp.linkedin.com/in/%E6%99%BA%E5%AE%B6%E8%87%B3-%E7%AD%A7-708b22206",
-    "https://jp.linkedin.com/in/yoshio-ishigami"
+    "https://jp.linkedin.com/company/amela-japan",
+    "https://jp.linkedin.com/in/hidekazu-kakishima-4069a334"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -329,16 +328,16 @@
   {
    "query": "site:facebook.com 受け取ったデータの点検の手順（完全さ・重複・正確さ・整合・符号の一覧・Verification Handbook の後継と日本語の解説・GIJN・4-117）",
    "results": [
-    "https://www.facebook.com/psc.maxx/",
     "https://www.facebook.com/psc.maxx/posts/%E9%85%8D%E4%BF%A1%E3%81%BE%E3%81%A7%E6%AE%8B%E3%82%8A8%E6%97%A510%E6%9C%8814%E6%97%A5windows-11-24h2%E3%81%AB%E6%9C%80%E5%BE%8C%E3%81%AE%E6%9B%B4%E6%96%B0%E7%A4%BE%E5%86%85pc%E6%9B%B4%E6%96%B0%E5%89%8D%E3%81%AE5%E5%A4%A7%E6%BA%96%E5%82%99%E3%81%8A%E3%81%AF%E3%82%88%E3%81%86%E3%81%95%E3%82%93%E3%81%A7%E3%81%99%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9%E5%A7%AB%E8%B7%AF%E3%81%AE%E6%9D%BE%E6%9C%AC%E3%81%A7%E3%81%99%E5%85%88%E3%81%BB%E3%81%A9%E5%85%AC%E5%BC%8F%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E6%9B%B4%E6%96%B0%E3%81%97%E3%81%BE%E3%81%97/1751298423666260/",
-    "https://www.facebook.com/masahiro.oyanagi/posts/%E6%80%96%E3%81%84%E5%90%8D%E5%89%8D%E3%81%AE%E8%84%86%E5%BC%B1%E6%80%A7%E3%81%BB%E3%81%A9-%E3%82%84%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AF%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%A0%E3%81%93%E3%81%93%E6%95%B0%E6%97%A5-sns%E3%81%A7http2shell%E3%81%A8%E3%81%84%E3%81%86%E8%84%86%E5%BC%B1%E6%80%A7%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E7%A9%B4%E3%81%AE%E5%90%8D%E5%89%8D%E3%81%8C%E9%A3%9B%E3%81%B3%E4%BA%A4%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E5%90%8D%E5%89%8D%E3%81%A0%E3%81%91%E8%81%9E%E3%81%8F%E3%81%A8%E3%83%8D%E3%83%83%E3%83%88%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF%E3%81%9D/39411468651801772/",
     "https://www.facebook.com/groups/194970507271704/posts/9516255608476434/",
+    "https://www.facebook.com/masahiro.oyanagi/posts/%E6%80%96%E3%81%84%E5%90%8D%E5%89%8D%E3%81%AE%E8%84%86%E5%BC%B1%E6%80%A7%E3%81%BB%E3%81%A9-%E3%82%84%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AF%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%A0%E3%81%93%E3%81%93%E6%95%B0%E6%97%A5-sns%E3%81%A7http2shell%E3%81%A8%E3%81%84%E3%81%86%E8%84%86%E5%BC%B1%E6%80%A7%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%81%AE%E7%A9%B4%E3%81%AE%E5%90%8D%E5%89%8D%E3%81%8C%E9%A3%9B%E3%81%B3%E4%BA%A4%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E5%90%8D%E5%89%8D%E3%81%A0%E3%81%91%E8%81%9E%E3%81%8F%E3%81%A8%E3%83%8D%E3%83%83%E3%83%88%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF%E3%81%9D/39411468651801772/",
     "https://www.facebook.com/psc.maxx/posts/%E6%A5%AD%E5%8B%99%E5%8A%B9%E7%8E%87%E5%8C%96gmail%E3%81%8C%E6%BF%80%E5%A4%89%E6%9C%80%E6%96%B0gemini-3ai-inbox%E3%81%A7%E3%83%A1%E3%83%BC%E3%83%AB%E5%87%A6%E7%90%86%E3%81%8C%E5%8A%87%E7%9A%84%E6%99%82%E7%9F%AD%E3%81%AB%E3%81%AA%E3%82%8B%E8%A3%8F%E6%8A%80%EF%B8%8F%E3%81%8A%E3%81%AF%E3%82%88%E3%81%86%E3%81%95%E3%82%93%E3%81%A7%E3%81%99%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9%E5%A7%AB%E8%B7%AF%E3%81%AE%E6%9D%BE%E6%9C%AC%E3%81%A7%E3%81%99%E5%85%88%E3%81%BB%E3%81%A9%E3%83%96%E3%83%AD%E3%82%B0%E3%82%92%E6%9B%B4%E6%96%B0%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/1709444157851687/",
-    "https://www.facebook.com/psc.maxx/posts/%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AEit%E6%8B%85%E5%BD%93%E8%80%85%E6%A7%98%E3%81%B8-%E7%B7%8A%E6%80%A5%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B10%E6%9C%8814%E6%97%A5%E9%85%8D%E4%BF%A124h2%E6%9C%AC%E5%BD%93%E3%81%AB%E6%9C%80%E5%BE%8C%E3%81%AE%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%9B%B4%E6%96%B0%E7%A4%BE%E5%86%85pc%E6%9B%B4%E6%96%B0%E5%89%8D%E3%81%AB%E3%82%84%E3%82%8B%E3%81%B9%E3%81%8D5%E3%81%A4%E3%81%AE%E6%BA%96%E5%82%99%E3%82%92%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AB%E3%81%BE%E3%81%A8%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F2026%E5%B9%B41/1750300597099376/",
     "https://www.facebook.com/psc.maxx/posts/3%E6%9C%88%E6%B1%BA%E7%AE%97pc%E6%96%B0%E8%AA%BF%E3%81%A7%E7%AF%80%E7%A8%8E%E3%82%92%E7%8B%99%E3%81%86%E7%B5%8C%E5%96%B6%E8%80%85%E6%A7%98%E3%81%B8%E4%BB%8A%E6%97%A5%E3%81%8C%E5%AE%9F%E8%B3%AA%E3%81%AE%E7%B7%A0%E5%88%87%E3%81%A7%E3%81%99%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9%E5%A7%AB%E8%B7%AF%E3%81%AE%E6%9D%BE%E6%9C%AC%E5%8C%A1%E4%BA%BA%E3%81%A7%E3%81%99%E6%9C%AC%E6%97%A5%E3%81%AE%E3%83%96%E3%83%AD%E3%82%B0%E3%81%A7%E3%81%AF%E6%84%8F%E5%A4%96%E3%81%A8%E7%9F%A5%E3%82%89%E3%82%8C%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E7%AF%80%E7%A8%8E%E3%81%AE%E3%83%87%E3%83%83%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E6%9B%B8%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F-3/1552290450233726/",
+    "https://www.facebook.com/psc.maxx/posts/%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E3%81%AEit%E6%8B%85%E5%BD%93%E8%80%85%E6%A7%98%E3%81%B8-%E7%B7%8A%E6%80%A5%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B10%E6%9C%8814%E6%97%A5%E9%85%8D%E4%BF%A124h2%E6%9C%AC%E5%BD%93%E3%81%AB%E6%9C%80%E5%BE%8C%E3%81%AE%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%9B%B4%E6%96%B0%E7%A4%BE%E5%86%85pc%E6%9B%B4%E6%96%B0%E5%89%8D%E3%81%AB%E3%82%84%E3%82%8B%E3%81%B9%E3%81%8D5%E3%81%A4%E3%81%AE%E6%BA%96%E5%82%99%E3%82%92%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AB%E3%81%BE%E3%81%A8%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F2026%E5%B9%B41/1750300597099376/",
     "https://www.facebook.com/suichD/posts/%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E5%AE%89%E5%85%A8%E7%AE%A1%E7%90%86%E4%BB%BB%E3%81%9B%E3%81%8D%E3%82%8A%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B10%E6%9C%8821%E6%97%A5php%E3%81%AE%E9%87%8D%E5%A4%A7%E3%81%AA%E8%84%86%E5%BC%B1%E6%80%A7%E3%81%8C%E5%85%AC%E8%A1%A8%E3%81%95%E3%82%8C%E5%A4%9A%E3%81%8F%E3%81%AE%E3%83%AC%E3%83%B3%E3%82%BF%E3%83%AB%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%81%A7%E7%B7%8A%E6%80%A5%E5%AF%BE%E5%BF%9C%E3%81%8C%E8%A1%8C%E3%82%8F%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E3%81%86%E3%81%A1%E3%81%AE%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AF%E5%A4%A7%E4%B8%88/1751898770275155/",
     "https://www.facebook.com/psc.maxx/posts/%E7%A4%BE%E5%93%A1%E3%81%AE%E7%9C%BC%E7%B2%BE%E7%96%B2%E5%8A%B4%E3%82%92%E3%82%BC%E3%83%AD%E3%81%AB%E8%BF%BD%E5%8A%A0%E8%B2%BB%E7%94%A8%E3%81%AA%E3%81%97windows-11%E6%96%B0%E6%A9%9F%E8%83%BD%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88%E3%81%A7%E5%A4%95%E6%96%B9%E3%81%AE%E7%9B%AE%E3%81%AE%E7%96%B2%E3%82%8C%E3%82%92%E8%A7%A3%E6%B6%88%E3%81%99%E3%82%8B%E8%A8%AD%E5%AE%9A%E8%A1%93%EF%B8%8F%E3%81%8A%E3%81%AF%E3%82%88%E3%81%86%E3%81%95%E3%82%93%E3%81%A7%E3%81%99%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9%E5%A7%AB%E8%B7%AF%E3%81%AE%E6%9D%BE%E6%9C%AC%E3%81%A7%E3%81%99%E5%85%88%E3%81%BB%E3%81%A9%E5%85%AC%E5%BC%8F/1749264263869676/",
-    "https://www.facebook.com/natsumi.toshikura/posts/%E9%98%B2%E7%81%BD%E3%82%B0%E3%83%83%E3%82%BA%E3%81%AE%E7%82%B9%E6%A4%9C%E3%82%92%E3%81%97%E3%81%9F2%E5%B9%B4%E3%81%B6%E3%82%8A%E3%81%90%E3%82%89%E3%81%84%E4%B8%80%E9%83%A8%E6%9C%9F%E9%99%90%E5%88%87%E3%82%8C%E3%81%AE%E3%82%82%E3%81%AE%E3%81%8C%E3%81%82%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%A7%E6%96%B0%E3%81%97%E3%81%84%E3%82%82%E3%81%AE%E3%81%A8%E5%85%A5%E3%82%8C%E6%9B%BF%E3%81%88%E3%83%96%E3%83%AD%E3%82%B0%E3%82%82%E6%9B%B8%E3%81%84%E3%81%9F%E3%81%AE%E3%81%A7%E8%AA%AD%E3%82%93%E3%81%A7%E3%81%AD/3825771560910856/"
+    "https://www.facebook.com/natsumi.toshikura/posts/%E9%98%B2%E7%81%BD%E3%82%B0%E3%83%83%E3%82%BA%E3%81%AE%E7%82%B9%E6%A4%9C%E3%82%92%E3%81%97%E3%81%9F2%E5%B9%B4%E3%81%B6%E3%82%8A%E3%81%90%E3%82%89%E3%81%84%E4%B8%80%E9%83%A8%E6%9C%9F%E9%99%90%E5%88%87%E3%82%8C%E3%81%AE%E3%82%82%E3%81%AE%E3%81%8C%E3%81%82%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%A7%E6%96%B0%E3%81%97%E3%81%84%E3%82%82%E3%81%AE%E3%81%A8%E5%85%A5%E3%82%8C%E6%9B%BF%E3%81%88%E3%83%96%E3%83%AD%E3%82%B0%E3%82%82%E6%9B%B8%E3%81%84%E3%81%9F%E3%81%AE%E3%81%A7%E8%AA%AD%E3%82%93%E3%81%A7%E3%81%AD/3825771560910856/",
+    "https://www.facebook.com/p/JAPAN-CARER-VOICE-61565731626592/"
    ],
    "engines": [
     "ddgs:google",
@@ -349,22 +348,20 @@
   {
    "query": "受け取ったデータの点検の手順（完全さ・重複・正確さ・整合・符号の一覧・Verification Handbook の後継と日本語の解説・GIJN・4-117） note 社長",
    "results": [
-    "https://note.com/77777777777/n/neca2ac4138c9",
     "https://note.com/syacyo_otasuke/n/nbf5266344f92",
-    "https://note.com/soloops_jp/n/n45827535aa1f",
+    "https://note.com/77777777777/n/neca2ac4138c9",
+    "https://note.com/eager_bonobo1325/n/naf0127a20bc7",
     "https://note.com/nakasanpro/n/na11c25d9a2e3",
-    "https://debono.co.jp/media/ai-usecase/lab-notebook-rule-check/",
+    "https://note.com/soloops_jp/n/n45827535aa1f",
     "https://note.com/ai_labo26/n/n7dcedef8d0bb",
-    "https://www.youtube.com/watch?v=GXJxk284DCo",
+    "https://debono.co.jp/media/ai-usecase/lab-notebook-rule-check/",
     "https://note.com/digitalcube/n/n2fe41c284aad",
-    "https://www.goo-net.com/kaitori/satei/kaitori-satei/satei-knowhow/9011/",
-    "https://x.com/ai_kei01/status/2108840291205828945"
+    "https://www.goo-net.com/kaitori/satei/kaitori-satei/satei-knowhow/9011/"
    ],
    "engines": [
-    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 9
   },
   {
    "query": "受け取ったデータの点検の手順（完全さ・重複・正確さ・整合・符号の一覧・Verification Handbook の後継と日本語の解説・GIJN・4-117） X 投稿",
@@ -372,13 +369,13 @@
     "https://help.x.com/ja/managing-your-account/how-to-download-your-x-archive",
     "https://cacco.co.jp/frauddetection/media/for-consumers/20134/",
     "https://ai-rise.net/column/chatgpt-x-read-guide/",
-    "https://note.com/dx_ai_tools/n/nd831ea9143ab",
     "https://lp.yoom.fun/blog-posts/how-to-automatically-collect-and-utilize-twitter-posts",
+    "https://note.com/dx_ai_tools/n/nd831ea9143ab",
     "https://koneta.nifty.com/koneta_detail/1141008024346_1.htm",
     "https://taga-tame.com/blog/how-to-use-twitter-analytics-and-5-effective-analysis-methods/",
     "https://eltes-solution.jp/column/digitalrisk-57",
     "https://qiita.com/Octoparse_Japan/items/77d23518a22e0055d088",
-    "https://x.com/shigoto_tools/status/2119044027916095509"
+    "https://kotanigawakenji.com/generative-ai-marketing/chatgpt-x-analysis"
    ],
    "engines": [
     "ddgs:google",
@@ -389,16 +386,16 @@
   {
    "query": "verification handbook data quality completeness duplicates integrity check investigative site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/top-content/supply-chain-management/ensuring-data-quality/key-principles-for-high-quality-data/",
     "https://www.linkedin.com/posts/john-godshalk-a74b6b5_data-integrity-again-data-integrity-di-activity-7512902114776379393-DBYD",
+    "https://www.linkedin.com/top-content/supply-chain-management/ensuring-data-quality/key-principles-for-high-quality-data/",
     "https://www.linkedin.com/top-content/science/best-practices-for-data-management/maintaining-data-integrity-throughout-the-research-process/",
     "https://www.linkedin.com/top-content/supply-chain-management/ensuring-data-quality/how-to-ensure-data-accuracy-in-organizations/",
-    "https://www.linkedin.com/pulse/data-science-approaches-quality-from-raw-dataset-yair-rajwan-ms-dsc",
     "https://www.linkedin.com/pulse/bad-data-big-decisions-how-integrity-breakdowns-lead-andre-bnv7e",
+    "https://www.linkedin.com/pulse/data-science-approaches-quality-from-raw-dataset-yair-rajwan-ms-dsc",
     "https://www.linkedin.com/top-content/supply-chain-management/ensuring-data-quality/data-validation-before-loading-into-mysql/",
-    "https://www.linkedin.com/top-content/project-management/creating-project-status-reports/ensuring-data-accuracy-in-reports/",
     "https://www.linkedin.com/top-content/supply-chain-management/ensuring-data-quality/certifying-data-for-dashboards/",
-    "https://www.linkedin.com/top-content/artificial-intelligence/data-quality-for-ai/best-practices-for-data-quality-in-generative-ai/"
+    "https://www.linkedin.com/top-content/project-management/creating-project-status-reports/ensuring-data-accuracy-in-reports/",
+    "https://www.linkedin.com/top-content/supply-chain-management/ensuring-data-quality/importance-of-data-monitoring/"
    ],
    "engines": [
     "ddgs:google",
@@ -415,6 +412,6 @@
   "実例": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 2,
+ "runs": 3,
  "first_researched_at": "2026-11-09T01:57:39.110490+00:00"
 }

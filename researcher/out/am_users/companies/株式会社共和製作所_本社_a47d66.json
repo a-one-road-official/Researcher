@@ -1,0 +1,643 @@
+{
+ "name": "株式会社共和製作所 本社",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T13:32:18.883399+00:00",
+ "official_url": "https://www.kyowa-tokai.com",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表取締役社長",
+    "value": "河口 治也",
+    "url": "https://www.kyowa-tokai.com/company/about/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒447-0857 愛知県碧南市大浜上町二丁目35番地２ Mail : info@kyowa-tokai.co.jp TEL : 0566-70-8481 / FAX：0566-70-8482",
+    "url": "https://www.kyowa-tokai.com/company/about/",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "愛知県豊田市トヨタ町1番地",
+    "url": "https://www.kyowa-tokai.com/news/automotive-ex-2025-1/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "4名",
+    "url": "https://www.kyowa-tokai.com/company/about/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業案内",
+    "value": "カーボン(CFRP)商品の製造・加工・販売",
+    "url": "https://www.kyowa-tokai.com/company/about/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "蕨山Carbonではカーボンを使用した製品化を希望されるお客様のご依頼・ご要望を承ります",
+    "url": "https://www.kyowa-tokai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ご依頼者様からのご依頼品、または蕨山Carbonが製作したオリジナルのカーボン製品を紹介します",
+    "url": "https://www.kyowa-tokai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "以降、今日まで様々な鉄製品を加工してきました",
+    "url": "https://www.kyowa-tokai.com/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "「蕨山Carbon」ではカーボンの製品化をお手伝いします！",
+    "url": "https://www.kyowa-tokai.com/cfrp/sample-service3/",
+    "pass": 1
+   },
+   {
+    "quote": "・こんな製品をカーボンで１から製作してみたい",
+    "url": "https://www.kyowa-tokai.com/cfrp/sample-service3/",
+    "pass": 1
+   },
+   {
+    "quote": "※事前に「製品化へのサポート内容」、「製品化の注意点」をお読みいただくとスムーズにお話が出来るかと思います",
+    "url": "https://www.kyowa-tokai.com/cfrp/sample-service3/",
+    "pass": 1
+   },
+   {
+    "quote": "また、「蕨山Carbon」ではこれまで数多くの加工依頼、製品化を行ってきました",
+    "url": "https://www.kyowa-tokai.com/cfrp/sample-service3/",
+    "pass": 1
+   },
+   {
+    "quote": "※契約上、公開可能な製品のみを掲載しております",
+    "url": "https://www.kyowa-tokai.com/cfrp/sample-service3/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様からのご依頼で製品化した『商品』や弊社の研究開発で製作した『試作品』を掲載しておりますので是非ご覧下さい",
+    "url": "https://www.kyowa-tokai.com/cfrp/",
+    "pass": 1
+   },
+   {
+    "quote": "5. 素材]次製品)の独自開発を行ない、様々な機能に対応します",
+    "url": "https://www.kyowa-tokai.com/wp-content/uploads/2022/01/%E8%95%A8%E5%B1%B1Carbon%E3%83%8F%E3%82%9A%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88.pdf",
+    "pass": 2
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "『蕨山Carbon』CFRP切削加工技術紹介",
+    "url": "https://www.kyowa-tokai.com/",
+    "pass": 1
+   },
+   {
+    "quote": "そして2代目の河口治也は初代の事業を継承しつつ、第二創業として次世代の素材”カーボン”(CFRP)の加工に着目",
+    "url": "https://www.kyowa-tokai.com/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "50年以上の鉄の切削加工の技術を元に加工が困難なカーボン(CFRP)の切削加工を開始しました",
+    "url": "https://www.kyowa-tokai.com/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "また、カーボン(CFRP)の加工だけに留まらず、お客様の様々なニーズに応えるべく、材料の調達から一部成形まで行っております",
+    "url": "https://www.kyowa-tokai.com/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "カーボン(CFRP)商品の製造・加工・販売",
+    "url": "https://www.kyowa-tokai.com/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPワッシャー、CTオイル、CFRP製精密機械部品",
+    "url": "https://www.kyowa-tokai.com/news/automotive-ex-2025-1/",
+    "pass": 1
+   },
+   {
+    "quote": "CFRP(カーボン)セミナーを行いました！！ | 蕨山Carbon",
+    "url": "https://www.kyowa-tokai.com/news/cfrp-seminar-202310/",
+    "pass": 1
+   },
+   {
+    "quote": "10月23日(月)に名古屋にて共和製作所主催のCFRP(カーボン)セミナーを開催しました",
+    "url": "https://www.kyowa-tokai.com/news/cfrp-seminar-202310/",
+    "pass": 1
+   },
+   {
+    "quote": "「CFRP(カーボン)“超”基本セミナー」",
+    "url": "https://www.kyowa-tokai.com/news/cfrp-seminar-202310/",
+    "pass": 1
+   },
+   {
+    "quote": "「CFRP(カーボン)“導入・活用”セミナー」",
+    "url": "https://www.kyowa-tokai.com/news/cfrp-seminar-202310/",
+    "pass": 1
+   },
+   {
+    "quote": "・但し、全ての加工に言えることですが、世間にある平板はCFも樹脂も異なり、繊維配向・成形方法も異なりますので、",
+    "url": "https://www.kyowa-tokai.com/cfrp/sample-service1/",
+    "pass": 1
+   },
+   {
+    "quote": "本日は河口社長と営業の大宮がおりますので、CFRPについて是非、お問い合わせ頂ければ幸いです",
+    "url": "https://www.kyowa-tokai.com/news/shinkinbusiness-2023-2/",
+    "pass": 1
+   },
+   {
+    "quote": "CFRP(カーボン)セミナーを行いました！！",
+    "url": "https://www.kyowa-tokai.com/news/shinkinbusiness-2023-2/",
+    "pass": 1
+   },
+   {
+    "quote": "藤山CarbonはCFRPで新たな社会を切り開いていきます",
+    "url": "https://www.kyowa-tokai.com/wp-content/uploads/2022/01/%E8%95%A8%E5%B1%B1Carbon%E3%83%8F%E3%82%9A%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "炭素繊維の高強度 ・高弾性を目指して素材開発を行ながなつてきましたが、",
+    "url": "https://www.kyowa-tokai.com/wp-content/uploads/2022/01/%E8%95%A8%E5%B1%B1Carbon%E3%83%8F%E3%82%9A%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "樹脂との組み合わせにより、 お客様のニーズにご対応できる素材開発も",
+    "url": "https://www.kyowa-tokai.com/wp-content/uploads/2022/01/%E8%95%A8%E5%B1%B1Carbon%E3%83%8F%E3%82%9A%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "CFRP材には積層が存在しますが、特殊刃物により底面もされいに",
+    "url": "https://www.kyowa-tokai.com/wp-content/uploads/2022/01/%E8%95%A8%E5%B1%B1Carbon%E3%83%8F%E3%82%9A%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ただし、有炭素繊維を切ってしまうので成形の際は繊維方向に細心の注意を",
+    "url": "https://www.kyowa-tokai.com/wp-content/uploads/2022/01/%E8%95%A8%E5%B1%B1Carbon%E3%83%8F%E3%82%9A%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88.pdf",
+    "pass": 2
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Mail : info@kyowa-tokai.co.jp",
+    "url": "https://www.kyowa-tokai.com/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "※携帯電話キャリアのメールアドレス（docomoやau、softbank等）はご遠慮下さい",
+    "url": "https://www.kyowa-tokai.com/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/",
+    "pass": 1
+   },
+   {
+    "quote": "※携帯電話キャリアのメールアドレス（docomoやau、softbank等）はご遠慮下さい",
+    "url": "https://www.kyowa-tokai.com/company/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/",
+    "pass": 1
+   },
+   {
+    "quote": "本日は河口社長と営業の大宮がおりますので、CFRPについて是非、お問い合わせ頂ければ幸いです",
+    "url": "https://www.kyowa-tokai.com/news/shinkinbusiness-2023-2/",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "名城大学飛行ロボットクラブ マルチコプター部のスポンサー開始",
+    "url": "https://www.kyowa-tokai.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "A/T電磁弁部品にブラケット取付の為、",
+    "url": "https://www.kyowa-tokai.com/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "この度、弊社では、トヨタ自動車株式会社のサプライヤーズセンターで開催される表題の展示会に出展いたします",
+    "url": "https://www.kyowa-tokai.com/news/automotive-ex-2025-1/",
+    "pass": 1
+   },
+   {
+    "quote": "なお、ご来場は、トヨタ自動車株式会社及びトヨタ自動車株式会社のサプライヤーのみとなりますので、ご了承ください",
+    "url": "https://www.kyowa-tokai.com/news/automotive-ex-2025-1/",
+    "pass": 1
+   },
+   {
+    "quote": "会場 ：トヨタ自動車株式会社（本社）サプライヤーズセンター 1階・2階",
+    "url": "https://www.kyowa-tokai.com/news/automotive-ex-2025-1/",
+    "pass": 1
+   },
+   {
+    "quote": "「第4回 ドローンサミット」出展スタートしました",
+    "url": "https://www.kyowa-tokai.com/news/automotive-ex-2025-1/",
+    "pass": 1
+   },
+   {
+    "quote": "「第4回 ドローンサミット」出展スタートしました",
+    "url": "https://www.kyowa-tokai.com/news/cfrp-seminar-202310/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社が部品製作しているドローンの機体も展示しますので、是非会場でご覧ください",
+    "url": "https://www.kyowa-tokai.com/news/shinkinbusiness-2023-2/",
+    "pass": 1
+   },
+   {
+    "quote": "「第4回 ドローンサミット」出展スタートしました",
+    "url": "https://www.kyowa-tokai.com/news/shinkinbusiness-2023-2/",
+    "pass": 1
+   },
+   {
+    "quote": "・現在もメタルの自動車部品量産加工を行なっており、 量産化に",
+    "url": "https://www.kyowa-tokai.com/wp-content/uploads/2022/01/%E8%95%A8%E5%B1%B1Carbon%E3%83%8F%E3%82%9A%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "寸法精度0.02以下の微細な形状の加工を応用し、ロボットピン等の精度が",
+    "url": "https://www.kyowa-tokai.com/wp-content/uploads/2022/01/%E8%95%A8%E5%B1%B1Carbon%E3%83%8F%E3%82%9A%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88.pdf",
+    "pass": 2
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "3Dプリンターの導入",
+    "url": "https://www.kyowa-tokai.com/company/history/",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "特注86シフトノブ",
+    "url": "https://www.kyowa-tokai.com/cfrp_category/example/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様からのご依頼で製品化した『商品』や弊社の研究開発で製作した『試作品』を掲載しておりますので是非ご覧下さい",
+    "url": "https://www.kyowa-tokai.com/cfrp/",
+    "pass": 1
+   },
+   {
+    "quote": "5㎜を超えると特注品となります",
+    "url": "https://www.kyowa-tokai.com/cfrp/sample-service1/",
+    "pass": 1
+   },
+   {
+    "quote": "4. 試作・少量品から量産加工にも対応します",
+    "url": "https://www.kyowa-tokai.com/wp-content/uploads/2022/01/%E8%95%A8%E5%B1%B1Carbon%E3%83%8F%E3%82%9A%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88.pdf",
+    "pass": 2
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 共和製作所（Kyowa Mfg Inc.） | Tokai-shi Aichi株式会社 共和製作所株式会社共和製作所株式会社 協和製作所 | Takaoka-shi Toyama - Facebook共和製作所株式会社共和製作所 蕨山Carbon / reoneite... - 株式会社 共和製作所...株式会社協和製作所 | Facebook Aug 6, 2026 · 株式会社共和製作所 蕨山Carbon / reoneiteです。 弊社は、今年からレーシングドライバー 『箕浦稜己』選手を応援致します。 JMS Racing with B-Maxより2026年FIA- F4に参戦致します。 皆様の応援を宜しく御願い致します。 株式会社 共和製作所 株式会社共和製作所 Jul 2, 2026 · 株式会社 協和製作所, Takaoka-shi. 27 followers. 創業",
+    "url": "https://www.facebook.com/KyowaMFG/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.kyowa-tokai.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-tokai.com/company/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-tokai.com/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-tokai.com/company/facility/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-tokai.com/cfrp_category/productization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-tokai.com/cfrp_category/example/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-tokai.com/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-tokai.com/CFRP_category/service-category3/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-tokai.com/CFRP_category/%E8%A3%BD%E5%93%81%E5%8C%96%E4%BA%8B%E4%BE%8B/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-tokai.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-tokai.com/company/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-tokai.com/cfrp_category/machining/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-tokai.com/CFRP_category/service-category2/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-tokai.com/news/automotive-ex-2025-1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-tokai.com/news/cfrp-seminar-202310/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-tokai.com/company/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-tokai.com/cfrp/sample-service3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-tokai.com/cfrp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-tokai.com/cfrp/sample-service1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-tokai.com/news/shinkinbusiness-2023-2/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.kyowa-tokai.com/wp-content/uploads/2022/01/%E8%95%A8%E5%B1%B1Carbon%E3%83%8F%E3%82%9A%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kyowa-tokai.com/wp-content/uploads/2019/07/%E8%A3%BD%E5%93%81%E5%8C%96%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-740x440.jpeg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kyowa-tokai.com/wp-content/uploads/2019/07/%E8%A3%BD%E5%93%81%E5%8C%96%E3%81%B8%E3%81%AE%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88-740x440.jpeg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kyowa-tokai.com/wp-content/uploads/2019/06/%E8%A3%BD%E5%93%81%E5%8C%96%E3%81%B8%E3%81%AE%E6%B3%A8%E6%84%8F%E7%82%B9-740x440.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kyowa-tokai.com/wp-content/uploads/2019/07/%E8%A3%BD%E5%93%81%E5%8C%96%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.jpeg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://kouno-ss.com/small-lot/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyoeidesign.co.jp/lot-production/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://kyoeidesign.co.jp/lot-production/lot-case/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://kwss.jp/aboutus.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-ltd.co.jp/about/overview.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-ltd.co.jp/recruit/company/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-ltd.co.jp/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kwss.jp/contact.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyouwa-ss.com/contact/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/KyowaMFG/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "共和製作所 本社 取扱製品 試作 小ロット",
+   "results": [
+    "https://kouno-ss.com/small-lot/",
+    "https://kyoeidesign.co.jp/lot-production/",
+    "https://kyoeidesign.co.jp/lot-production/lot-case/",
+    "https://kyouwa-ss.com/",
+    "https://ja.nc-net.or.jp/company/75810/product/detail/270561/",
+    "https://www.kyowadenshi.com/02_02_engineering_manufacture.html",
+    "https://www.kyowadenshi.com/02_00_product.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "共和製作所 本社 会社概要 事業内容",
+   "results": [
+    "https://kwss.jp/aboutus.html",
+    "https://www.kyowa-ltd.co.jp/about/overview.html",
+    "https://www.kyowa-ltd.co.jp/recruit/company/profile/",
+    "https://kyouwa-ss.com/",
+    "https://kwss.jp/business.html",
+    "https://kyowa-ctc.co.jp/company/",
+    "https://kyowa-seisakusyo.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "共和製作所 本社 お問い合わせ メール",
+   "results": [
+    "https://www.kyowa-ltd.co.jp/inquiry/",
+    "https://kwss.jp/contact.html",
+    "https://kyouwa-ss.com/contact/",
+    "https://kyowaseisakusho.co.jp/contact/",
+    "http://www.kyowa-corp.co.jp/contact",
+    "https://kyowa-seisakusyo.co.jp/contact/",
+    "https://kyowa-ctc.co.jp/contact/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 共和製作所 本社",
+   "results": [
+    "https://note.com/kyowa_ei/all",
+    "https://note.com/kyowa_ei",
+    "https://note.com/kyowa_ei/n/n9d69317b97fa",
+    "https://tales.note.com/",
+    "https://note.com/kyowa_ss/n/nb801cf60b20a",
+    "https://note.com/sankituushin/n/n5604d34a41a2",
+    "https://note.com/kyowa_heat1961/n/nb2e42a03b3d3"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 共和製作所 本社",
+   "results": [
+    "https://x.com/ACftf1CBTJWlwYJ",
+    "https://x.com/kyowa_ss",
+    "https://x.com/kyowa_web",
+    "https://x.com/Sayulist1/status/2067649363464290701",
+    "https://x.com/listedcorp_inc/status/2090029045564240139",
+    "https://x.com/RyanAFournier/status/2117296789443240367",
+    "https://x.com/itscelyunique/status/2117839228826521620"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 共和製作所 本社",
+   "results": [
+    "https://www.linkedin.com/in/diego-sarabia-654409353",
+    "https://www.linkedin.com/company/collins-aerospace/",
+    "https://jp.linkedin.com/company/（株）共和",
+    "https://jp.linkedin.com/company/（株）協和エクシオ",
+    "https://in.linkedin.com/in/umangakumawat",
+    "https://pk.linkedin.com/in/abu-bakr-aman-46818b38a",
+    "https://my.linkedin.com/jobs/view/country-manager-new-market-expansion-at-first-circle-4471674924"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 共和製作所 本社",
+   "results": [
+    "https://www.facebook.com/KyowaMFG/",
+    "https://www.facebook.com/株式会社-共和製作所-266542313423560/",
+    "https://www.facebook.com/株式会社共和製作所-107068871856472/",
+    "https://www.facebook.com/p/株式会社-協和製作所-61568885183542/",
+    "https://www.facebook.com/共和製作所-1427167927513868/",
+    "https://www.facebook.com/株式会社協和製作所-124504707624132/",
+    "https://www.facebook.com/KyowaMFG/posts/株式会社共和製作所蕨山carbon-reoneite-ですこの度弊社では事業継続力強化計画bcpを策定し令和4年4月8日付けで経済産業省の認定を受けました弊社は/5653864747971154/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "共和製作所 本社 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.japanmetaldaily.com/articles/-/262452",
+    "https://compalyze.co.jp/company/8180001094256",
+    "https://prtimes.com/story/detail/rVP0pQS1WdB",
+    "https://prtimes.jp/story/detail/BdNJd5t2Gmr",
+    "https://kyowaseisakusho.co.jp/company/message.php",
+    "https://www.kyowa-ind.co.jp/archives/1502"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "共和製作所 本社 X 投稿",
+   "results": [
+    "https://kwss.jp/aboutus.html",
+    "https://kyouwa-ss.com/company/",
+    "https://x.com/HexagonScrew/status/2073873031781564811",
+    "https://kyouwa-ss.com/",
+    "https://www.kwss.jp/",
+    "https://x.com/reiwasaisin/status/2119698160616624141",
+    "https://www.kyowa-casting.co.jp/info/x旧twitterアカウント開設のお知らせ.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像5件／外部10頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式20頁／PDF・画像5件／外部10頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式20頁／PDF・画像5件／外部10頁・検索9回）"
+ }
+}

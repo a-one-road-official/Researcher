@@ -1,0 +1,1980 @@
+{
+ "name": "株式会社小川製作所",
+ "aliases": [],
+ "context": "ipros_all:オーダーメイド",
+ "researched_at": "2026-11-11T13:17:39.771877+00:00",
+ "official_url": "https://ogawa-tech.jp",
+ "identified_by": "given",
+ "profile": {
+  "拠点": [
+   {
+    "label": "TOKYO町工場HUB",
+    "value": "新製品開発・新規事業支援",
+    "url": "https://ogawa-tech.jp/service/precision/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役　小川弘之",
+    "url": "https://ogawa-tech.jp/company/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒124-0021 東京都葛飾区細田1-10-20",
+    "url": "https://ogawa-tech.jp/company/",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "取引先",
+    "value": "モノづくりのニーズを持つあらゆる企業/人が当社のお客様です ・各種メーカー (航空宇宙、半導体関連、医療機器、食品機械、理化学装置、建築資材 他) ・各種サービス業等 ・受託加工業者 ・大学等研究機関 ・工務店 ・個人",
+    "url": "https://ogawa-tech.jp/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "適格請求書発行事業者",
+    "value": "T3011801029769",
+    "url": "https://ogawa-tech.jp/wp-content/uploads/2025/01/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80-%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85.pdf",
+    "pass": 2
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "株式会社小川製作所では、航空機、半導体、医療機器などの先端分野から、建築、その他あらゆる分野の金属製品や部品を製作しています",
+    "url": "https://ogawa-tech.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "シンクやホッパー、フード、カバーといったステンレス製品の製作は創業以来長年培ってきた薄板板金技術がお役に立てるはずです",
+    "url": "https://ogawa-tech.jp/service/handwork/",
+    "pass": 1
+   },
+   {
+    "quote": "歪みの少ない溶接技術と、きめ細かいバフ研磨技術を駆使してご納得いただける製品を製作いたします",
+    "url": "https://ogawa-tech.jp/service/handwork/",
+    "pass": 1
+   },
+   {
+    "quote": "シンクやホッパー、フード、カバーといったステンレス製品の製作は創業以来長年培ってきた薄板板金技術がお役に立てるはずです",
+    "url": "https://ogawa-tech.jp/service/handwork/frame-making/",
+    "pass": 1
+   },
+   {
+    "quote": "歪みの少ない溶接技術と、きめ細かいバフ研磨技術を駆使してご納得いただける製品を製作いたします",
+    "url": "https://ogawa-tech.jp/service/handwork/frame-making/",
+    "pass": 1
+   },
+   {
+    "quote": "5軸加工を中心としたマシニングセンタやNC旋盤、ワイヤー放電などの機械加工、レーザーカットやタレットパンチなどの精密板金、各種溶接、表面処理、特殊加工工程など様々な加工技術による高品質な製品・部品を供給いたします",
+    "url": "https://ogawa-tech.jp/service/precision/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では様々な工程や製品に特化した100社以上のパートナー企業と業務提携し、相互に協力してお客様のあらゆるモノづくりにお役立ちできる体制を整えています",
+    "url": "https://ogawa-tech.jp/service/precision/",
+    "pass": 1
+   },
+   {
+    "quote": "身の回りの電化製品や自動車のパネル類などのプラスチック部品も、元は金型と呼ばれる型に樹脂を流し込んで作ります",
+    "url": "https://ogawa-tech.jp/service/precision/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、精密研磨加工を自社で行う事で、最終的な製品の品質を一定以上に保つ体制を整えました",
+    "url": "https://ogawa-tech.jp/service/precision/accurate-polishing/",
+    "pass": 1
+   },
+   {
+    "quote": "単なる加工品や技術リソースの提供にとどまらず、お客様の製品やサービスの付加価値向上に寄与する事が、当社の担うべき役割と位置づけ、他者にはない独自のモノづくりサービスをご提供してまいります",
+    "url": "https://ogawa-tech.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "超音波洗浄とは、超音波により製品を微細に振動させることで、表面だけでなく部品内部に付着する汚れも強力に除去する洗浄方法です",
+    "url": "https://ogawa-tech.jp/service/precision/cleaning/",
+    "pass": 1
+   },
+   {
+    "quote": "脱気梱包とは、主に製品の保護を目的に、専用の袋内の空気を抜き梱包する方法です",
+    "url": "https://ogawa-tech.jp/service/precision/packing/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では精密加工部品は、製品の品質を保つために脱気梱包しエアパッキンで保護する仕様を標準としています",
+    "url": "https://ogawa-tech.jp/service/precision/packing/",
+    "pass": 1
+   },
+   {
+    "quote": "脱気梱包できない大きさの場合は、製品をポリエチレン袋に入れて極力空気を抜いた後、エアパッキン等で梱包いたします",
+    "url": "https://ogawa-tech.jp/service/precision/packing/",
+    "pass": 1
+   },
+   {
+    "quote": "洗浄工程後の製品を、素手で触らないようナイロンポリ袋に入れ、脱気梱包器で空気を抜きながら梱包します",
+    "url": "https://ogawa-tech.jp/service/precision/packing/",
+    "pass": 1
+   },
+   {
+    "quote": "脱気梱包の後、製品毎にエアパッキンで包み個別梱包により製品を保護します",
+    "url": "https://ogawa-tech.jp/service/precision/packing/",
+    "pass": 1
+   },
+   {
+    "quote": "標準仕様で脱気梱包できないような大きな製品でも、脱気梱包や真空梱包が必要な場合は、協力企業にて対応可能です",
+    "url": "https://ogawa-tech.jp/service/precision/packing/",
+    "pass": 1
+   },
+   {
+    "quote": "また、当社設備で脱気梱包ができない大きさの場合は、ポリエチレン製の袋に製品を入れ、極力空気を抜いた上で、エアパッキン等で保護する梱包が基本となります",
+    "url": "https://ogawa-tech.jp/service/precision/packing/",
+    "pass": 1
+   },
+   {
+    "quote": "製品を個別にエアパッキンで保護した後、段ボール箱に緩衝材を十分に入れ、製品同士がぶつからないように配慮して箱詰めします",
+    "url": "https://ogawa-tech.jp/service/precision/packing/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、製品の特性や梱包形態に合わせた配送を手配いたします",
+    "url": "https://ogawa-tech.jp/service/precision/packing/",
+    "pass": 1
+   },
+   {
+    "quote": "大型の製品や、箱数が多くパレット積載状態での納品が必要な場合など、通常の運送業者(混載便)にて対応が困難な製品の場合は、別途仕立便を手配いたします",
+    "url": "https://ogawa-tech.jp/service/precision/packing/",
+    "pass": 1
+   },
+   {
+    "quote": "特に大型製品の場合は、お客様にてトラックからのフォークリフト等での積み下ろしが可能かどうかなど、詳細をご教示ください",
+    "url": "https://ogawa-tech.jp/service/precision/packing/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、製品の納入にあたり、出荷前検査を実施し以下のものを提出させていただいております",
+    "url": "https://ogawa-tech.jp/service/precision/inspection/",
+    "pass": 1
+   },
+   {
+    "quote": "製品を御支給いただき測定箇所や数量のご指示に従って検査作業を受託いたします",
+    "url": "https://ogawa-tech.jp/service/precision/inspection/",
+    "pass": 1
+   },
+   {
+    "quote": "製品を定盤に置き、相対的な高さを精度よくスピーディに測定することができます",
+    "url": "https://ogawa-tech.jp/service/precision/inspection/",
+    "pass": 1
+   },
+   {
+    "quote": "機械開発支援とは、お客様の製品・機械・装置開発で発生する技術的課題を、伴走型にて支援するサービスです",
+    "url": "https://ogawa-tech.jp/service/engineering/",
+    "pass": 1
+   },
+   {
+    "quote": "製品(プロダクト)の開発全般も一貫して対応させていただけますし、試験や実験の装置、生産設備用の治具などの用途や、設計だけ、試作だけなどの部分的なお手伝いも可能です",
+    "url": "https://ogawa-tech.jp/service/engineering/",
+    "pass": 1
+   },
+   {
+    "quote": "図面を逸失してしまった製品や部品について、現物を測定、図面化し、製造可能とすることができます",
+    "url": "https://ogawa-tech.jp/service/engineering/",
+    "pass": 1
+   },
+   {
+    "quote": "新しい機械や装置、製品等のアイディアを製品化するまでのあらゆるプロセスで、技術サポートをいたします",
+    "url": "https://ogawa-tech.jp/service/engineering/development-support/",
+    "pass": 1
+   },
+   {
+    "quote": "丸投げの開発を受けるのではなく、開発に必要な一つ一つのステップをお客様との密接なコミュニケーションを通じて、試行錯誤を繰り返しながら、求めている製品や機械を実現することに取り組んでいます",
+    "url": "https://ogawa-tech.jp/service/engineering/development-support/",
+    "pass": 1
+   },
+   {
+    "quote": "「プロセスにコミットする」とは、開発された最終製品を作り出すことにコミットするのではなく、お客様の開発の諸段階で必要な技術リソースを総合的に提供することにコミットするということです",
+    "url": "https://ogawa-tech.jp/service/engineering/development-support/",
+    "pass": 1
+   },
+   {
+    "quote": "開発全体の完成を請け負うのではなく、製品・機械装置・治具などの新規開発という企業の継続的な活動が、効率的かつ効果的に実施されるための技術支援を行います",
+    "url": "https://ogawa-tech.jp/service/engineering/development-support/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の要件や仕様に不確定、あるいは未知な部分があったとしても、段階を踏んで足元を固めながら開発を進めていくことができ、結果的にスピード感を持ちながら、ミニマムコストでの開発支援が可能となります",
+    "url": "https://ogawa-tech.jp/service/engineering/development-support/",
+    "pass": 1
+   },
+   {
+    "quote": "製品開発の技術的なコンサルティングから実際の試作や量産まで、それぞれの諸段階で高いレベルの技術リソースとソリューションを提供しています",
+    "url": "https://ogawa-tech.jp/service/engineering/development-support/",
+    "pass": 1
+   },
+   {
+    "quote": "試作品の制作においても、いきなり完成品を目指すのではなく、製品の要件や技術的課題を検証する上で優先度が高いもの特定し、短期間で（設計→試作→検証→計画）のサイクルを回していくことで、結果的にスピード感のある開発を実現することができます",
+    "url": "https://ogawa-tech.jp/service/engineering/development-support/",
+    "pass": 1
+   },
+   {
+    "quote": "製品や機械のアイデアは、それがどんなに素晴らしく見えても、誤った前提条件や見過ごしてしまった技術的な問題があれば、きちんとした完成品にはなりません",
+    "url": "https://ogawa-tech.jp/service/engineering/development-support/",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、複雑な製品や機械となれば、一つの試作品で全ての課題を特定することは困難です",
+    "url": "https://ogawa-tech.jp/service/engineering/development-support/",
+    "pass": 1
+   },
+   {
+    "quote": "共同で開発するというコンセプトは、こうした試行錯誤の過程も一緒に重ね、より良い製品に仕上げていくことを想定しています",
+    "url": "https://ogawa-tech.jp/service/engineering/development-support/",
+    "pass": 1
+   },
+   {
+    "quote": "画期的な樹脂製品のアイディアがあるが、具現化する手段が無いため、3D設計をしてほしい",
+    "url": "https://ogawa-tech.jp/service/engineering/development-support/",
+    "pass": 1
+   },
+   {
+    "quote": "概略設計により、大まかな製品の成立性や機能・動作、詳細設計・製作の工数を把握できます",
+    "url": "https://ogawa-tech.jp/service/engineering/3d-design/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の社内工程やパートナーシップにより、あらゆる製品の製作に対応しています",
+    "url": "https://ogawa-tech.jp/service/engineering/3d-design/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の3Dデータより対称形状を生成",
+    "url": "https://ogawa-tech.jp/service/engineering/3d-design/",
+    "pass": 1
+   },
+   {
+    "quote": "図面を逸失した製品を復元する場合、海外製品を国産化したい場合など、現品を測定し、図面化することで製造を可能とすることができます",
+    "url": "https://ogawa-tech.jp/service/engineering/reverse-engineering/",
+    "pass": 1
+   },
+   {
+    "quote": "製品や形状によっては、上記以外にも様々なバフを使い分けます",
+    "url": "https://ogawa-tech.jp/technology/buffing/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、鉄バフ用の金剛砂として#60～#300程度までを用意し、製品に応じて柔軟に組み合わせています",
+    "url": "https://ogawa-tech.jp/technology/buffing/",
+    "pass": 1
+   },
+   {
+    "quote": "鉄バフによって粗磨きが終わった製品は、仕上げ磨き工程で最終的な研磨状態に仕上げていきます",
+    "url": "https://ogawa-tech.jp/technology/forceps-polishing/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では3次元CADを活用した設計支援も行っておりますので、アイディアレベルからの製品開発でもお役立ちできます",
+    "url": "https://ogawa-tech.jp/technology/forceps-polishing/",
+    "pass": 1
+   },
+   {
+    "quote": "また、薄板を任意に曲げる技術も職人技が必要な領域ですが、デジタル技術を組み合わせる事で様々な製品を製作する事が可能です",
+    "url": "https://ogawa-tech.jp/technology/stainless-product/",
+    "pass": 1
+   },
+   {
+    "quote": "大量生産品ではラインナップの無い、オリジナルの器具をオーダーメイドで製作いたします",
+    "url": "https://ogawa-tech.jp/technology/stainless-product/",
+    "pass": 1
+   },
+   {
+    "quote": "上の例以外にも、様々なステンレス製品を製作可能です",
+    "url": "https://ogawa-tech.jp/technology/stainless-product/",
+    "pass": 1
+   },
+   {
+    "quote": "・架台、躯体、台車などのステンレス製品をオーダーメイド製作",
+    "url": "https://ogawa-tech.jp/wp-content/uploads/2025/01/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80-%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "小川製作所では、トン数の異なる複数の射出成形機を保有し、製品サイズや用途に応じた柔軟な成形対応が可能です",
+    "url": "https://ogawa-works.com/strengths/",
+    "pass": 3
+   },
+   {
+    "quote": "少量多品種から量産まで、製品ごとの条件に合わせて最適な成形方法を選定しています",
+    "url": "https://ogawa-works.com/strengths/",
+    "pass": 3
+   },
+   {
+    "quote": "小川製作所は、さまざまな業界向けの製品製造に携わってきました",
+    "url": "https://ogawa-works.com/strengths/",
+    "pass": 3
+   },
+   {
+    "quote": "製品ごとのチェック項目や検査工程を明確にし、安定した品質を維持",
+    "url": "https://ogawa-works.com/strengths/",
+    "pass": 3
+   },
+   {
+    "quote": "製品コンセプトや課題を詳しくヒアリングし、経験に基いたコストダウンの提案や最適な樹脂選定など、具現化に向けた最適なプランご提案していきます",
+    "url": "https://ogawa-works.com/strengths/",
+    "pass": 3
+   },
+   {
+    "quote": "成形効率と製品精度を両立させる金型設計を行います",
+    "url": "https://ogawa-works.com/strengths/",
+    "pass": 3
+   },
+   {
+    "quote": "射出成形機と熟練のオペレーターによる緻密な条件設定で、高品質な製品を安定して量産します",
+    "url": "https://ogawa-works.com/strengths/",
+    "pass": 3
+   },
+   {
+    "quote": "仕上がった製品を、お客様ご指定の場所に迅速にお届けします",
+    "url": "https://ogawa-works.com/strengths/",
+    "pass": 3
+   },
+   {
+    "quote": "「歴史に学び」「経験に学ぶ」そして次の新たな時代を想像し、更なる新技術を取り入れた製品の開発・品質・サービスの向上に努めています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp293841/outline.html",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "ステンレス、アルミ、チタン、樹脂(PEEK、テフロン等含む)",
+    "url": "https://ogawa-tech.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "身の回りの電化製品や自動車のパネル類などのプラスチック部品も、元は金型と呼ばれる型に樹脂を流し込んで作ります",
+    "url": "https://ogawa-tech.jp/service/precision/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "レーザーカットやタレットパンチでは加工できないような素材(t0.5mm未満の薄板や、樹脂・木材など)で威力を発揮します",
+    "url": "https://ogawa-tech.jp/service/precision/sheet-metal/",
+    "pass": 1
+   },
+   {
+    "quote": "錆が問題となる素材や、CFRP等の積層素材などには不向きです",
+    "url": "https://ogawa-tech.jp/service/precision/sheet-metal/",
+    "pass": 1
+   },
+   {
+    "quote": "曲げられる板厚は、材質や形状にもよりますので、適宜お問合せ下さい",
+    "url": "https://ogawa-tech.jp/service/precision/sheet-metal/",
+    "pass": 1
+   },
+   {
+    "quote": "形状、材質、板厚によって対応の可否や製作方法、金型の仕様が異なります",
+    "url": "https://ogawa-tech.jp/service/precision/sheet-metal/",
+    "pass": 1
+   },
+   {
+    "quote": "加工速度の向上だけでなく、対応可能な板厚の幅が増えたり、様々な材質に対応できたりと進化のスピードも速い領域です",
+    "url": "https://ogawa-tech.jp/service/precision/sheet-metal/",
+    "pass": 1
+   },
+   {
+    "quote": "SS400やSPCC、SPHC、ボンデ鋼板など一般的な材質での溶接性は良好です",
+    "url": "https://ogawa-tech.jp/service/precision/weldment/",
+    "pass": 1
+   },
+   {
+    "quote": "精密研磨加工は熟練の技術が必要な高度な加工ですが、当社では多くの精密部品の実績を有しており、アルミ合金はもちろん、ステンレスやチタンにも対応しています",
+    "url": "https://ogawa-tech.jp/service/precision/accurate-polishing/",
+    "pass": 1
+   },
+   {
+    "quote": "材質や素材の状態によりますが、基本的には粗磨き(#300程度)、中磨き(#400～#1,200程度)、仕上げ磨き(#2,000程度)と段階的に磨きを重ねます",
+    "url": "https://ogawa-tech.jp/service/precision/accurate-polishing/",
+    "pass": 1
+   },
+   {
+    "quote": "素材： ステンレス、チタン、アルミ",
+    "url": "https://ogawa-tech.jp/service/precision/accurate-polishing/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂の成型部品を吸着させるためのブロックです",
+    "url": "https://ogawa-tech.jp/service/precision/accurate-polishing/",
+    "pass": 1
+   },
+   {
+    "quote": "各種塗装、メッキ、研磨などの表面処理や樹脂・セラミックス・貴金属などの素材についても加工を承ります",
+    "url": "https://ogawa-tech.jp/service/precision/surface-treatment/",
+    "pass": 1
+   },
+   {
+    "quote": "メッキ処理時に電気を通さないため、金属以外にもプラスチックやセラミックスへのメッキも可能です",
+    "url": "https://ogawa-tech.jp/service/precision/surface-treatment/",
+    "pass": 1
+   },
+   {
+    "quote": "鉄鋼、銅、ステンレス、アルミ合金など様々な材質に適用可能です",
+    "url": "https://ogawa-tech.jp/service/precision/surface-treatment/",
+    "pass": 1
+   },
+   {
+    "quote": "メラミン焼付塗装とは、塗料にメラミン樹脂を用いた焼付塗装で低温で硬化し扱いやすい一般的な焼付塗装です",
+    "url": "https://ogawa-tech.jp/service/precision/surface-treatment/",
+    "pass": 1
+   },
+   {
+    "quote": "加熱温度は、アクリル樹脂焼付塗装よりも低温(150℃程度)です",
+    "url": "https://ogawa-tech.jp/service/precision/surface-treatment/",
+    "pass": 1
+   },
+   {
+    "quote": "アクリル焼付塗装とは、塗料にアクリル樹脂を用いた焼付塗装です",
+    "url": "https://ogawa-tech.jp/service/precision/surface-treatment/",
+    "pass": 1
+   },
+   {
+    "quote": "メラミン樹脂焼付塗装よりもややコストアップとなりがちですが、メリットも多いです",
+    "url": "https://ogawa-tech.jp/service/precision/surface-treatment/",
+    "pass": 1
+   },
+   {
+    "quote": "焼付塗装と異なり、常温での自然乾燥で硬化させる塗装方法ですので、熱を加えることのできない樹脂などの素材や、焼付塗装では対応できないような大型部品の塗装に用いられます",
+    "url": "https://ogawa-tech.jp/service/precision/surface-treatment/",
+    "pass": 1
+   },
+   {
+    "quote": "加熱しますので、熱に弱い材質や、熱により変形の生じる材質には不向きです",
+    "url": "https://ogawa-tech.jp/service/precision/surface-treatment/",
+    "pass": 1
+   },
+   {
+    "quote": "材質や表面の状態によって、塗料の密着度が変化しますので、設計時に不明な点がありましたら遠慮なくご相談ください",
+    "url": "https://ogawa-tech.jp/service/precision/surface-treatment/",
+    "pass": 1
+   },
+   {
+    "quote": "複雑形状の大型樹脂成型部品の加工用治具を設計、製作したい",
+    "url": "https://ogawa-tech.jp/service/engineering/development-support/",
+    "pass": 1
+   },
+   {
+    "quote": "画期的な樹脂製品のアイディアがあるが、具現化する手段が無いため、3D設計をしてほしい",
+    "url": "https://ogawa-tech.jp/service/engineering/development-support/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂成型部品の3Dデータより対象形状を生成",
+    "url": "https://ogawa-tech.jp/service/engineering/3d-design/",
+    "pass": 1
+   },
+   {
+    "quote": "【アウトプット】3Dデータ、2DCADデータ(図面)、立体物(樹脂、金属)",
+    "url": "https://ogawa-tech.jp/service/engineering/reverse-engineering/",
+    "pass": 1
+   },
+   {
+    "quote": "材質はステンレスが主となりますが、鉄やチタン、アルミなども対応可能です",
+    "url": "https://ogawa-tech.jp/technology/buffing/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のバフ研磨加工は、下記大きさ、材質にて対応可能です",
+    "url": "https://ogawa-tech.jp/technology/buffing/",
+    "pass": 1
+   },
+   {
+    "quote": "チタン (純チタン、6-4チタン)",
+    "url": "https://ogawa-tech.jp/technology/buffing/",
+    "pass": 1
+   },
+   {
+    "quote": "バフと研磨剤は仕上げ段階や形状、材質に応じて特定の組み合わせで用います",
+    "url": "https://ogawa-tech.jp/technology/buffing/",
+    "pass": 1
+   },
+   {
+    "quote": "鉄バフやボールバフでは難しい研磨内容の場合、樹脂やゴム製バフも活用しています",
+    "url": "https://ogawa-tech.jp/technology/buffing/",
+    "pass": 1
+   },
+   {
+    "quote": "対象の材質や求められる仕上状態によって研磨材を使い分けます",
+    "url": "https://ogawa-tech.jp/technology/forceps-polishing/",
+    "pass": 1
+   },
+   {
+    "quote": "１２社鉄系、アルミ、チタン、マグネシウム合金、樹脂材 料",
+    "url": "https://ogawa-tech.jp/wp-content/uploads/2025/01/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80-%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "１３社歯切り、エッチング、刻印、３Ｄプリンタ、セラミックス加工その他特 殊 加 工",
+    "url": "https://ogawa-tech.jp/wp-content/uploads/2025/01/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80-%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "また、形状や材質による成形の難しさも、これまでに蓄積してきたノウハウをもとに検討",
+    "url": "https://ogawa-works.com/strengths/",
+    "pass": 3
+   },
+   {
+    "quote": "製品コンセプトや課題を詳しくヒアリングし、経験に基いたコストダウンの提案や最適な樹脂選定など、具現化に向けた最適なプランご提案していきます",
+    "url": "https://ogawa-works.com/strengths/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "小川製作所 医療機器・半導体製造装置・理化学装置・食品加工機械 東京都葛飾区 | バフ研磨・製缶・溶接、精密機械加工、3D設計はお任せください",
+    "url": "https://ogawa-tech.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社小川製作所では、航空機、半導体、医療機器などの先端分野から、建築、その他あらゆる分野の金属製品や部品を製作しています",
+    "url": "https://ogawa-tech.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "特に医療機器(鋼製器具)の製造など、アナログ的な職人の減少する領域では、お客様と一緒に技術・技能伝承を進めています",
+    "url": "https://ogawa-tech.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製缶加工による架台、躯体、台車の製作や医療機器の溶接・バフ研磨、サニタリー配管の製作も得意としています",
+    "url": "https://ogawa-tech.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器や食品機械、理化学装置の製作や溶接・研磨加工は是非お任せください",
+    "url": "https://ogawa-tech.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置、航空機、医療・理化学などの先端分野や、産業用機械の精密部品の製造はお任せください！",
+    "url": "https://ogawa-tech.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新しい装置や自働化機械、治具の設計、開発全般の伴走支援はお任せください！",
+    "url": "https://ogawa-tech.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "医療・介護用ベッド、各種器具の部品",
+    "url": "https://ogawa-tech.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ステー、ブラケット、シンク、ワゴン、台車",
+    "url": "https://ogawa-tech.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "各分野の装置、機械、治具の設計・開発支援",
+    "url": "https://ogawa-tech.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "(ドローン、自働化装置など)",
+    "url": "https://ogawa-tech.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「東京彩人記 宇宙部門の経験、町工場に」",
+    "url": "https://ogawa-tech.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製缶・溶接・研磨の受託加工 | 事業内容 | 小川製作所 医療機器・半導体製造装置・理化学装置・食品加工機械 東京都葛飾区",
+    "url": "https://ogawa-tech.jp/service/handwork/",
+    "pass": 1
+   },
+   {
+    "quote": "ステンレスや鉄、アルミの架台・躯体・台車などの製作や、医療機器の研磨加工、理化学装置・食品加工機械部品、建築金物などの製作に多くの実績があります",
+    "url": "https://ogawa-tech.jp/service/handwork/",
+    "pass": 1
+   },
+   {
+    "quote": "厨房器具や建築金物(医療施設向け含む)では薄板ステンレスの加工品が多用されています",
+    "url": "https://ogawa-tech.jp/service/handwork/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、医療機器や、食品加工機械、理化学装置部品などの",
+    "url": "https://ogawa-tech.jp/service/handwork/",
+    "pass": 1
+   },
+   {
+    "quote": "また、半導体や医療関連の精密機械部品には、寸法精度を守りながらRa1.0前後の研磨を行うハンドワークによる",
+    "url": "https://ogawa-tech.jp/service/handwork/",
+    "pass": 1
+   },
+   {
+    "quote": "を使用し、医療機器(鉗子などの鋼製器具他)や食品加工機械部品の研磨加工を得意としています",
+    "url": "https://ogawa-tech.jp/service/handwork/",
+    "pass": 1
+   },
+   {
+    "quote": "TIG溶接加工 | 事業内容 | 小川製作所 医療機器・半導体製造装置・理化学装置・食品加工機械 東京都葛飾区",
+    "url": "https://ogawa-tech.jp/service/handwork/welding/",
+    "pass": 1
+   },
+   {
+    "quote": "サニタリー管や医療器具の受託製造などでも、溶接加工と研磨加工を一貫して社内工程で対応しています",
+    "url": "https://ogawa-tech.jp/service/handwork/welding/",
+    "pass": 1
+   },
+   {
+    "quote": "材料調達、部品の製作、治具の設計・製作から、溶接後の後処理、機械加工による2次加工まで一括してお受けできます",
+    "url": "https://ogawa-tech.jp/service/handwork/welding/",
+    "pass": 1
+   },
+   {
+    "quote": "必要に応じて、専用の治具を設計・製作いたします",
+    "url": "https://ogawa-tech.jp/service/handwork/welding/",
+    "pass": 1
+   },
+   {
+    "quote": "特に医療機器の製造には、SUS420やSUS630が用いられますが、実績も豊富です",
+    "url": "https://ogawa-tech.jp/service/handwork/welding/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器、食品加工機械、理化学装置の分野はもちろんですが、半導体関連や精密機器の分野でも多くの実績がございますので、安心してお任せください",
+    "url": "https://ogawa-tech.jp/service/handwork/welding/",
+    "pass": 1
+   },
+   {
+    "quote": "研磨加工 | 事業内容 | 小川製作所 医療機器・半導体製造装置・理化学装置・食品加工機械 東京都葛飾区",
+    "url": "https://ogawa-tech.jp/service/handwork/polishing/",
+    "pass": 1
+   },
+   {
+    "quote": "特に、寸法変化を1～2μm程度に抑える高度な精密研磨加工の技術は、半導体製造装置や食品・医療機械部品のお客様に高く評価されています",
+    "url": "https://ogawa-tech.jp/service/handwork/polishing/",
+    "pass": 1
+   },
+   {
+    "quote": "食品機械や医療用部品の溶接には、ビードカットと研磨も併せて受託可能です",
+    "url": "https://ogawa-tech.jp/service/handwork/polishing/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器や食品加工機械、理化学装置などの分野で用いられる加工技術です",
+    "url": "https://ogawa-tech.jp/service/handwork/polishing/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、その両者の長所を生かした研磨手法により、主に医療機器や食品加工機械部品などの研磨加工を効率的かつ丁寧に実施することができます",
+    "url": "https://ogawa-tech.jp/service/handwork/polishing/",
+    "pass": 1
+   },
+   {
+    "quote": "いわゆる鉗子と呼ばれる鋼製器具(ステンレス、真鍮)を中心に、医療機器の研磨加工を請け負っています",
+    "url": "https://ogawa-tech.jp/service/handwork/polishing/",
+    "pass": 1
+   },
+   {
+    "quote": "当社ではエメリーバフやサイザルバフを使用し、医療機器(鉗子などの鋼製器具他)や食品機械部品の研磨加工を得意としています",
+    "url": "https://ogawa-tech.jp/service/handwork/polishing/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置や食品・医療機械部品では、機械加工の切削目(カッターマーク)が腐食等の原因となり問題となります",
+    "url": "https://ogawa-tech.jp/service/handwork/polishing/",
+    "pass": 1
+   },
+   {
+    "quote": "製缶加工 | 事業内容 | 小川製作所 医療機器・半導体製造装置・理化学装置・食品加工機械 東京都葛飾区",
+    "url": "https://ogawa-tech.jp/service/handwork/frame-making/",
+    "pass": 1
+   },
+   {
+    "quote": "角パイプを組み合わせて、大型ディスプレイの懸架用ブラケットを設計、製作しました",
+    "url": "https://ogawa-tech.jp/service/handwork/frame-making/",
+    "pass": 1
+   },
+   {
+    "quote": "厨房器具や建築金物(医療施設向け含む)では薄板ステンレスの加工品が多用されています",
+    "url": "https://ogawa-tech.jp/service/handwork/frame-making/",
+    "pass": 1
+   },
+   {
+    "quote": "精密機械加工部品の製作 | 事業内容 | 小川製作所 医療機器・半導体製造装置・理化学装置・食品加工機械 東京都葛飾区",
+    "url": "https://ogawa-tech.jp/service/precision/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体関連部品、医療器具 等",
+    "url": "https://ogawa-tech.jp/service/precision/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置、医療機器向け",
+    "url": "https://ogawa-tech.jp/service/precision/",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙や半導体製造装置など、最先端分野の精密加工部品の製作に欠かせない切削加工を得意としています",
+    "url": "https://ogawa-tech.jp/service/precision/",
+    "pass": 1
+   },
+   {
+    "quote": "航空機部品やインペラ・ローターブレードに代表されるような複雑かつ精密な部品加工は是非当社の5軸加工をお試しください",
+    "url": "https://ogawa-tech.jp/service/precision/",
+    "pass": 1
+   },
+   {
+    "quote": "厳格な品質管理体制を要求される航空機部品の量産品供給をお任せいただくなど、当社の品質管理についても高くご評価いただいています",
+    "url": "https://ogawa-tech.jp/service/precision/",
+    "pass": 1
+   },
+   {
+    "quote": "航空機、半導体、医療関連の先端分野から、一般産業用機械や建築関連まで、あらゆる分野のお客様向けに、試作開発の単品や、多品種少量生産部品を供給いたします",
+    "url": "https://ogawa-tech.jp/service/precision/",
+    "pass": 1
+   },
+   {
+    "quote": "機械加工 | 事業内容 | 小川製作所 医療機器・半導体製造装置・理化学装置・食品加工機械 東京都葛飾区",
+    "url": "https://ogawa-tech.jp/service/precision/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "典型的なのは航空機の機体構造部品ですが、ブラケットやハウジングなどといった部品もフライス加工によるものが多いです",
+    "url": "https://ogawa-tech.jp/service/precision/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "身の回りの電化製品や自動車のパネル類などのプラスチック部品も、元は金型と呼ばれる型に樹脂を流し込んで作ります",
+    "url": "https://ogawa-tech.jp/service/precision/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "この金型を作り出すのも主にマシニングセンタの仕事です",
+    "url": "https://ogawa-tech.jp/service/precision/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "また、航空機の構造部品や、医療、半導体など、様々な分野の精密部品にも、マシニングセンタで削った部品がそのまま使われたりします",
+    "url": "https://ogawa-tech.jp/service/precision/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "板金加工 | 事業内容 | 小川製作所 医療機器・半導体製造装置・理化学装置・食品加工機械 東京都葛飾区",
+    "url": "https://ogawa-tech.jp/service/precision/sheet-metal/",
+    "pass": 1
+   },
+   {
+    "quote": "カバーや精度・強度の必要のないブラケットなどの部品製作に多く用いられます",
+    "url": "https://ogawa-tech.jp/service/precision/sheet-metal/",
+    "pass": 1
+   },
+   {
+    "quote": "もちろん金型を製作してのプレス加工や絞り加工なども対応可能です",
+    "url": "https://ogawa-tech.jp/service/precision/sheet-metal/",
+    "pass": 1
+   },
+   {
+    "quote": "基本的には曲げの内アールは任意となりますが、指定のある場合は所有している金型との兼ね合いで対応可否が決まります",
+    "url": "https://ogawa-tech.jp/service/precision/sheet-metal/",
+    "pass": 1
+   },
+   {
+    "quote": "プレス加工とは、プレス機により板金素材に圧力をかけながら金型を押し当てて成形する加工です",
+    "url": "https://ogawa-tech.jp/service/precision/sheet-metal/",
+    "pass": 1
+   },
+   {
+    "quote": "金型の製作費用がかかりますが、量産に向いた加工方法です",
+    "url": "https://ogawa-tech.jp/service/precision/sheet-metal/",
+    "pass": 1
+   },
+   {
+    "quote": "形状、材質、板厚によって対応の可否や製作方法、金型の仕様が異なります",
+    "url": "https://ogawa-tech.jp/service/precision/sheet-metal/",
+    "pass": 1
+   },
+   {
+    "quote": "ヘラ絞り加工とは、回転する金型に薄板を押し当てながら、金型に沿うようにヘラで扱いていく事で形状を作り出します",
+    "url": "https://ogawa-tech.jp/service/precision/sheet-metal/",
+    "pass": 1
+   },
+   {
+    "quote": "プレス加工と比べると金型費用も安く済みます",
+    "url": "https://ogawa-tech.jp/service/precision/sheet-metal/",
+    "pass": 1
+   },
+   {
+    "quote": "溶接加工 | 事業内容 | 小川製作所 医療機器・半導体製造装置・理化学装置・食品加工機械 東京都葛飾区",
+    "url": "https://ogawa-tech.jp/service/precision/weldment/",
+    "pass": 1
+   },
+   {
+    "quote": "ビードを除去(ビードカット)し、研磨して滑らかに仕上げる事で、医療や食品、理化学装置部品などにも多用されます",
+    "url": "https://ogawa-tech.jp/service/precision/weldment/",
+    "pass": 1
+   },
+   {
+    "quote": "ロボットアームを使用した高精度な溶接などに使用されます",
+    "url": "https://ogawa-tech.jp/service/precision/weldment/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体関連装置の部品製作などに用いられることが多い工程となりますが、加工費用は高くなります",
+    "url": "https://ogawa-tech.jp/service/precision/weldment/",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "多品種少量で複雑形状のバフ研磨は最も職人技が必要な加工分野の一つです",
+    "url": "https://ogawa-tech.jp/service/handwork/",
+    "pass": 1
+   },
+   {
+    "quote": "もちろん、機械加工部品や板金加工部品などを組み合わせた特注仕様も製作いたします",
+    "url": "https://ogawa-tech.jp/service/handwork/",
+    "pass": 1
+   },
+   {
+    "quote": "単品から数モノまで、微細加工品から大型製缶品まで対応可能ですので、是非お気軽にご依頼ください",
+    "url": "https://ogawa-tech.jp/service/handwork/welding/",
+    "pass": 1
+   },
+   {
+    "quote": "高難易度のものなどは、試作・トライからの対応も可能です",
+    "url": "https://ogawa-tech.jp/service/handwork/welding/",
+    "pass": 1
+   },
+   {
+    "quote": "多品種少量で複雑形状のバフ研磨は最も職人技が必要な加工分野の一つです",
+    "url": "https://ogawa-tech.jp/service/handwork/polishing/",
+    "pass": 1
+   },
+   {
+    "quote": "規格品にない寸法のため、オーダーメイドでの製作でした",
+    "url": "https://ogawa-tech.jp/service/handwork/frame-making/",
+    "pass": 1
+   },
+   {
+    "quote": "航空機、半導体、医療関連の先端分野から、一般産業用機械や建築関連まで、あらゆる分野のお客様向けに、試作開発の単品や、多品種少量生産部品を供給いたします",
+    "url": "https://ogawa-tech.jp/service/precision/",
+    "pass": 1
+   },
+   {
+    "quote": "多品種少量や1点モノの板金部品の製作にお困りの際には是非お気軽にお申し付けください",
+    "url": "https://ogawa-tech.jp/service/precision/sheet-metal/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、レーザーカットやタレットパンチなど、多品種少量生産に特化した精密板金加工を得意としています",
+    "url": "https://ogawa-tech.jp/service/precision/sheet-metal/",
+    "pass": 1
+   },
+   {
+    "quote": "多品種少量の精密板金加工で主流となる加工工程です",
+    "url": "https://ogawa-tech.jp/service/precision/sheet-metal/",
+    "pass": 1
+   },
+   {
+    "quote": "板金加工は自動化が進み、多品種少量でも安定して安価な加工が可能な製造工程です",
+    "url": "https://ogawa-tech.jp/service/precision/sheet-metal/",
+    "pass": 1
+   },
+   {
+    "quote": "多品種少量や1点モノの溶接加工でお困りの場合は、是非お気軽にご連絡ください",
+    "url": "https://ogawa-tech.jp/service/precision/weldment/",
+    "pass": 1
+   },
+   {
+    "quote": "3次元CADを活用したデジタル設計によって、機械、装置、治具などをアイディアレベルから概略設計、詳細設計、試作、量産化のお手伝いをさせていただいています",
+    "url": "https://ogawa-tech.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "製造方法を鑑みた上で、多品種少量生産に特化した技術的なアドバイスをさせていただきます",
+    "url": "https://ogawa-tech.jp/service/precision/design-assist/",
+    "pass": 1
+   },
+   {
+    "quote": "多品種少量や一点モノの表面処理でお困りの際には、是非お気軽にご依頼ください",
+    "url": "https://ogawa-tech.jp/service/precision/surface-treatment/",
+    "pass": 1
+   },
+   {
+    "quote": "四酸化鉄被膜(黒染めメッキ)や、溶融亜鉛メッキなど、以前は多く用いられてきたものの、メッキ業者が減少する事で対応が難しくなってきている処理や、大量生産に向いていて多品種少量だと対応が難しい処理もあります",
+    "url": "https://ogawa-tech.jp/service/precision/surface-treatment/",
+    "pass": 1
+   },
+   {
+    "quote": "ご要望に応じて簡易的な超音波洗浄や、お客様の専用スペックに対応したオーダーメイドの超音波洗浄にも対応可能です",
+    "url": "https://ogawa-tech.jp/service/precision/cleaning/",
+    "pass": 1
+   },
+   {
+    "quote": "製品(プロダクト)の開発全般も一貫して対応させていただけますし、試験や実験の装置、生産設備用の治具などの用途や、設計だけ、試作だけなどの部分的なお手伝いも可能です",
+    "url": "https://ogawa-tech.jp/service/engineering/",
+    "pass": 1
+   },
+   {
+    "quote": "製作手法を加味した提案書やプレゼンテーション用資料の作成から、試作・量産、更には各種解析、試験要領の立案・実施まで対応いたします",
+    "url": "https://ogawa-tech.jp/service/engineering/",
+    "pass": 1
+   },
+   {
+    "quote": "構想から、試作機の開発を経て、2022年にはパイロット店舗公開まで漕ぎつけることができました",
+    "url": "https://ogawa-tech.jp/service/engineering/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の開発支援プロセスを導入いただき、試作や実地試験を繰り返しながらブラッシュアップを繰り返しています",
+    "url": "https://ogawa-tech.jp/service/engineering/",
+    "pass": 1
+   },
+   {
+    "quote": "製作手法を加味した提案書やプレゼンテーション用資料の作成から、試作・量産、更には各種解析、試験要領の立案・実施まで対応いたします",
+    "url": "https://ogawa-tech.jp/service/engineering/development-support/",
+    "pass": 1
+   },
+   {
+    "quote": "単品部品から、ドローンやロボットまで、様々なニーズに対応しています",
+    "url": "https://ogawa-tech.jp/service/engineering/development-support/",
+    "pass": 1
+   },
+   {
+    "quote": "製品開発の技術的なコンサルティングから実際の試作や量産まで、それぞれの諸段階で高いレベルの技術リソースとソリューションを提供しています",
+    "url": "https://ogawa-tech.jp/service/engineering/development-support/",
+    "pass": 1
+   },
+   {
+    "quote": "試作品の制作においても、いきなり完成品を目指すのではなく、製品の要件や技術的課題を検証する上で優先度が高いもの特定し、短期間で（設計→試作→検証→計画）のサイクルを回していくことで、結果的にスピード感のある開発を実現することができます",
+    "url": "https://ogawa-tech.jp/service/engineering/development-support/",
+    "pass": 1
+   },
+   {
+    "quote": "そのようなリスクを低減するため、試作品を制作して課題をあぶり出していくことは有効です",
+    "url": "https://ogawa-tech.jp/service/engineering/development-support/",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、複雑な製品や機械となれば、一つの試作品で全ての課題を特定することは困難です",
+    "url": "https://ogawa-tech.jp/service/engineering/development-support/",
+    "pass": 1
+   },
+   {
+    "quote": "対象商材の要求仕様をお客様と擦り合わせながら、設計・試作を担当",
+    "url": "https://ogawa-tech.jp/service/engineering/development-support/",
+    "pass": 1
+   },
+   {
+    "quote": "実機を測定の上、当社にてカバーを設計、試作品を製作手配",
+    "url": "https://ogawa-tech.jp/service/engineering/development-support/",
+    "pass": 1
+   },
+   {
+    "quote": "設計だけでなく、本業の製造事業により、試作品製作、量産も受託可能です",
+    "url": "https://ogawa-tech.jp/service/engineering/3d-design/",
+    "pass": 1
+   },
+   {
+    "quote": "日常的に、多品種少量の機械加工、板金加工、製缶加工を行っている町工場だからこその、スピーディな製作が可能です",
+    "url": "https://ogawa-tech.jp/service/engineering/3d-design/",
+    "pass": 1
+   },
+   {
+    "quote": "数値化し、図面化されたものは、そのまま実際の試作や量産に使用することが可能です",
+    "url": "https://ogawa-tech.jp/service/engineering/reverse-engineering/",
+    "pass": 1
+   },
+   {
+    "quote": "特に鉗子などの鋼製器具では、多品種少量のバフ研磨やTIG溶接加工を長年受託してきました",
+    "url": "https://ogawa-tech.jp/technology/forceps-polishing/",
+    "pass": 1
+   },
+   {
+    "quote": "は多品種少量で、ロット内でも寸法のバラツキが大きく、研磨工程を自動化する事は困難な場合が多いようです",
+    "url": "https://ogawa-tech.jp/technology/forceps-polishing/",
+    "pass": 1
+   },
+   {
+    "quote": "大量生産品ではラインナップの無い、オリジナルの器具をオーダーメイドで製作いたします",
+    "url": "https://ogawa-tech.jp/technology/stainless-product/",
+    "pass": 1
+   },
+   {
+    "quote": "・架台、躯体、台車などのステンレス製品をオーダーメイド製作",
+    "url": "https://ogawa-tech.jp/wp-content/uploads/2025/01/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80-%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・半導体製造装置、航空機、医療など先端分野の多品種少量品に実績があります",
+    "url": "https://ogawa-tech.jp/wp-content/uploads/2025/01/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80-%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・アイディア段階から試作、量産化までトータルでサポートします",
+    "url": "https://ogawa-tech.jp/wp-content/uploads/2025/01/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80-%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・概略設計、詳細設計、試作の各段階で",
+    "url": "https://ogawa-tech.jp/wp-content/uploads/2025/01/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80-%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "少量多品種から量産まで、製品ごとの条件に合わせて最適な成形方法を選定しています",
+    "url": "https://ogawa-works.com/strengths/",
+    "pass": 3
+   },
+   {
+    "quote": "小ロットから大ロットまで、多様な形状・素材に対応可能です",
+    "url": "https://ogawa-works.com/strengths/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様によって仕様が異なるため、オーダーメイドに近い設計を行い、時代の変化や要望に合わせて機械設計を行うのが私たちの仕事です",
+    "url": "https://job.mynavi.jp/27/pc/search/corp293841/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "創業時より、常にお客様に寄り添って、オーダーメイドで製作していくことを心掛けていますので、顧客から高い評価を頂いています",
+    "url": "https://job.mynavi.jp/27/pc/search/corp293841/outline.html",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "製缶・溶接・研磨加工についてのお問い合わせ",
+    "url": "https://ogawa-tech.jp/service/handwork/",
+    "pass": 1
+   },
+   {
+    "quote": "Mail: info@ogawa-tech.jp",
+    "url": "https://ogawa-tech.jp/service/handwork/",
+    "pass": 1
+   },
+   {
+    "quote": "Mail: info@ogawa-tech.jp",
+    "url": "https://ogawa-tech.jp/service/handwork/welding/",
+    "pass": 1
+   },
+   {
+    "quote": "Mail: info@ogawa-tech.jp",
+    "url": "https://ogawa-tech.jp/service/handwork/polishing/",
+    "pass": 1
+   },
+   {
+    "quote": "Mail: info@ogawa-tech.jp",
+    "url": "https://ogawa-tech.jp/service/handwork/frame-making/",
+    "pass": 1
+   },
+   {
+    "quote": "Mail: info@ogawa-tech.jp",
+    "url": "https://ogawa-tech.jp/service/precision/",
+    "pass": 1
+   },
+   {
+    "quote": "Mail: info@ogawa-tech.jp",
+    "url": "https://ogawa-tech.jp/service/precision/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "Mail: info@ogawa-tech.jp",
+    "url": "https://ogawa-tech.jp/service/precision/sheet-metal/",
+    "pass": 1
+   },
+   {
+    "quote": "Mail: info@ogawa-tech.jp",
+    "url": "https://ogawa-tech.jp/service/precision/weldment/",
+    "pass": 1
+   },
+   {
+    "quote": "Mail: info@ogawa-tech.jp",
+    "url": "https://ogawa-tech.jp/service/precision/accurate-polishing/",
+    "pass": 1
+   },
+   {
+    "quote": "MAIL: info@ogawa-tech.jp",
+    "url": "https://ogawa-tech.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Mail: info@ogawa-tech.jp",
+    "url": "https://ogawa-tech.jp/service/precision/design-assist/",
+    "pass": 1
+   },
+   {
+    "quote": "Mail: info@ogawa-tech.jp",
+    "url": "https://ogawa-tech.jp/service/precision/surface-treatment/",
+    "pass": 1
+   },
+   {
+    "quote": "Mail: info@ogawa-tech.jp",
+    "url": "https://ogawa-tech.jp/service/precision/heat-treatment/",
+    "pass": 1
+   },
+   {
+    "quote": "Mail: info@ogawa-tech.jp",
+    "url": "https://ogawa-tech.jp/service/precision/cleaning/",
+    "pass": 1
+   },
+   {
+    "quote": "Mail: info@ogawa-tech.jp",
+    "url": "https://ogawa-tech.jp/service/precision/packing/",
+    "pass": 1
+   },
+   {
+    "quote": "Mail: info@ogawa-tech.jp",
+    "url": "https://ogawa-tech.jp/service/precision/inspection/",
+    "pass": 1
+   },
+   {
+    "quote": "Mail: info@ogawa-tech.jp",
+    "url": "https://ogawa-tech.jp/service/engineering/",
+    "pass": 1
+   },
+   {
+    "quote": "Mail: info@ogawa-tech.jp",
+    "url": "https://ogawa-tech.jp/service/engineering/development-support/",
+    "pass": 1
+   },
+   {
+    "quote": "3D設計に関するお問い合わせ",
+    "url": "https://ogawa-tech.jp/service/engineering/3d-design/",
+    "pass": 1
+   },
+   {
+    "quote": "Mail: info@ogawa-tech.jp",
+    "url": "https://ogawa-tech.jp/service/engineering/3d-design/",
+    "pass": 1
+   },
+   {
+    "quote": "リバースエンジニアリングに関するお問い合わせ",
+    "url": "https://ogawa-tech.jp/service/engineering/reverse-engineering/",
+    "pass": 1
+   },
+   {
+    "quote": "Mail: info@ogawa-tech.jp",
+    "url": "https://ogawa-tech.jp/service/engineering/reverse-engineering/",
+    "pass": 1
+   },
+   {
+    "quote": "Mail: info@ogawa-tech.jp",
+    "url": "https://ogawa-tech.jp/technology/buffing/",
+    "pass": 1
+   },
+   {
+    "quote": "Mail: info@ogawa-tech.jp",
+    "url": "https://ogawa-tech.jp/technology/forceps-polishing/",
+    "pass": 1
+   },
+   {
+    "quote": "Mail: info@ogawa-tech.jp",
+    "url": "https://ogawa-tech.jp/technology/stainless-product/",
+    "pass": 1
+   },
+   {
+    "quote": "5軸加工に関するお問い合わせ",
+    "url": "https://ogawa-tech.jp/technology/5axis-milling/",
+    "pass": 1
+   },
+   {
+    "quote": "Mail: info@ogawa-tech.jp",
+    "url": "https://ogawa-tech.jp/technology/5axis-milling/",
+    "pass": 1
+   },
+   {
+    "quote": "Mail: info@ogawa-tech.jp",
+    "url": "https://ogawa-tech.jp/technology/milling/",
+    "pass": 1
+   },
+   {
+    "quote": "MAIL: info@ogawa-tech.jp @@@@",
+    "url": "https://ogawa-tech.jp/wp-content/uploads/2025/01/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80-%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "気負わず、気軽にお問い合わせいただければと思います",
+    "url": "https://job.mynavi.jp/27/pc/search/corp293841/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ｜株式会社小川製作所（公式ホームページ）",
+    "url": "https://www.ogawa-seisakusho.jp/pages/5/",
+    "pass": 3
+   },
+   {
+    "quote": "当社へのお問い合わせをご検討いただき、誠にありがとうございます",
+    "url": "https://www.ogawa-seisakusho.jp/pages/5/",
+    "pass": 3
+   },
+   {
+    "quote": "■返信メールをお受け取りいただけるよう、受信設定（迷惑メール設定）等をお確かめください",
+    "url": "https://www.ogawa-seisakusho.jp/pages/5/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 小川製作所 【各種お問い合わせ】",
+    "url": "http://www.ogawaseisakusho.co.jp/mail.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせは、下記フォームをご記入の上、「送信」ボタンをクリックしてください",
+    "url": "http://www.ogawaseisakusho.co.jp/mail.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ内容を確認のうえ、弊社担当よりご連絡差し上げます",
+    "url": "http://www.ogawaseisakusho.co.jp/mail.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社小川製作所 -医療機部品を専門とする精密板金工場- » お問い合わせ",
+    "url": "https://ogawa-ss.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社製品についてのお問い合わせは、こちらで受付しております",
+    "url": "https://ogawa-ss.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社製品についてのお問い合わせは、下記にて承っております",
+    "url": "https://ogawa-ss.jp/contact/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "#10 CAMの基本とNCプログラムの作成工程",
+    "url": "https://ogawa-tech.jp/service/precision/design-assist/",
+    "pass": 1
+   },
+   {
+    "quote": "立体物製作の方法には、3Dプリンタを含むいわゆるラピッドプロトタイピングや、切削加工等のオプションがあります",
+    "url": "https://ogawa-tech.jp/service/engineering/reverse-engineering/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "私たちの強み – (有) 小川製作所 — 私たちの強み – (有) 小川製作所 ogawa-works.com https://ogawa-works.com > strengths",
+    "url": "https://ogawa-works.com/strengths/",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社 小川製作所 | 受注会員 — 有限会社 小川製作所 | 受注会員 サイタマ・サプライヤー・サーチエンジン https://www.s-search.jp > r_company",
+    "url": "https://www.s-search.jp/r_company.php?id=552066",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 - 小川製作所 — 会社情報 - 小川製作所 小川製作所 https://www.ogawa-ss.co.jp > company",
+    "url": "https://www.ogawa-ss.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社 小川製作所 (岡山県)の 会社概要 ・製品情報 | Metoree — 有限会社 小川製作所 (岡山県)の 会社概要 ・製品情報 | Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/31294/",
+    "pass": 3
+   },
+   {
+    "quote": "(株) 小川製作所 の新卒採用・ 会社概要 | マイナビ2027 — (株) 小川製作所 の新卒採用・ 会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp293841 > outline",
+    "url": "https://job.mynavi.jp/27/pc/search/corp293841/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 株式会社 小川製作所 — 会社概要 - 株式会社 小川製作所 ogawa-seisakusyo.co.jp https://www.ogawa-seisakusyo.co.jp > company",
+    "url": "https://www.ogawa-seisakusyo.co.jp/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社 案内｜株式 会社小川製作所 （公式ホームページ） — 会社 案内｜株式 会社小川製作所 （公式ホームページ） ogawa-seisakusho.jp https://www.ogawa-seisakusho.jp > pages",
+    "url": "https://www.ogawa-seisakusho.jp/pages/17/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 株式会社小川製作所のホームページ — お問い合わせ - 株式会社小川製作所のホームページ ogawa-seisakusho.jp https://www.ogawa-seisakusho.jp > pages",
+    "url": "https://www.ogawa-seisakusho.jp/pages/5/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 小川製作所 【各種 お問い合わせ 】 — 株式会社 小川製作所 【各種 お問い合わせ 】 ogawaseisakusho.co.jp http://www.ogawaseisakusho.co.jp > mail",
+    "url": "http://www.ogawaseisakusho.co.jp/mail.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 小川製作所 -医療機部品を専門とする精密板金工場 — 株式会社 小川製作所 -医療機部品を専門とする精密板金工場 ogawa-ss.jp https://ogawa-ss.jp > contact",
+    "url": "https://ogawa-ss.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ Contact - 小川製作所 — お問い合わせ Contact - 小川製作所 ogawa-works.com https://ogawa-works.com > contact",
+    "url": "https://ogawa-works.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | 工場自動化設備のワンストップ製作 - 小川製作所 — お問い合わせ | 工場自動化設備のワンストップ製作 - 小川製作所 有限会社小川製作所 https://ogwss.co.jp > contact-us",
+    "url": "https://ogwss.co.jp/contact-us/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "小川製作所 | 製造業x経済統計 - note 小川製作所 | 製造業x経済統計 - note note https://note.com > ogawa_tech",
+    "url": "https://note.com/ogawa_tech",
+    "pass": 3
+   },
+   {
+    "quote": "日本の経済統計と転換点 #001-050｜ 小川製作所 - note 日本の経済統計と転換点 #001-050｜ 小川製作所 - note note https://note.com > ogawa_tech",
+    "url": "https://note.com/ogawa_tech/m/m3f6ab608ca2e",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社 小川製作所 - note 有限会社 小川製作所 - note note https://note.com > ogwss",
+    "url": "https://note.com/ogwss",
+    "pass": 3
+   },
+   {
+    "quote": "日本の経済統計と転換点 #051-100｜ 小川製作所 - note 日本の経済統計と転換点 #051-100｜ 小川製作所 - note note https://note.com > ogawa_tech",
+    "url": "https://note.com/ogawa_tech/m/mc1932caede34",
+    "pass": 3
+   },
+   {
+    "quote": "小川製作所 | 製造業 x 経済統計 - note 小川製作所 | 製造業 x 経済統計 - note note https://note.com > ogawa_tech",
+    "url": "https://note.com/ogawa_tech",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "小川製作所 | 製造業x経済統計｜note",
+    "url": "https://note.com/ogawa_tech",
+    "pass": 3
+   },
+   {
+    "quote": "450 実は少ない日本人の財産所得 家計の純受取 国際比較",
+    "url": "https://note.com/ogawa_tech",
+    "pass": 3
+   },
+   {
+    "quote": "449 財産所得の純受取が多い日本 総所得への寄与率 国際比較",
+    "url": "https://note.com/ogawa_tech",
+    "pass": 3
+   },
+   {
+    "quote": "448 正味の総所得が拡大する政府 一般政府の第1次所得バランス(純) 国際比較",
+    "url": "https://note.com/ogawa_tech",
+    "pass": 3
+   },
+   {
+    "quote": "447 実は多い日本企業の正味の所得 企業の第1次所得バランス(純) 国際比較",
+    "url": "https://note.com/ogawa_tech",
+    "pass": 3
+   },
+   {
+    "quote": "446 日本人の正味の総所得ってどれくらい？ 家計の第1次所得バランス(純) 国際比較",
+    "url": "https://note.com/ogawa_tech",
+    "pass": 3
+   },
+   {
+    "quote": "445 日本の正味の総所得は多いのか？ 第1次所得バランス(純) 国際比較",
+    "url": "https://note.com/ogawa_tech",
+    "pass": 3
+   },
+   {
+    "quote": "日本の経済統計と転換点 #001-050｜小川製作所 | 製造業x経済統計｜note",
+    "url": "https://note.com/ogawa_tech/m/m3f6ab608ca2e",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済の統計データをグラフ化し共有する連載です。",
+    "url": "https://note.com/ogawa_tech/m/m3f6ab608ca2e",
+    "pass": 3
+   },
+   {
+    "quote": "050 日本人は幸福か！？ - 幸福度と寛容さの国際比較",
+    "url": "https://note.com/ogawa_tech/m/m3f6ab608ca2e",
+    "pass": 3
+   },
+   {
+    "quote": "049 自動車産業の設備投資 - 資産・負債と純資産",
+    "url": "https://note.com/ogawa_tech/m/m3f6ab608ca2e",
+    "pass": 3
+   },
+   {
+    "quote": "048 自動車産業の変化 - 国内事業の生産性と給与水準",
+    "url": "https://note.com/ogawa_tech/m/m3f6ab608ca2e",
+    "pass": 3
+   },
+   {
+    "quote": "任意のテキストを打ち込むと、それに合わせてGコードを動的に生成して、",
+    "url": "https://note.com/ogwss",
+    "pass": 3
+   },
+   {
+    "quote": "刻印やお絵描きが出来るような物にしています。",
+    "url": "https://note.com/ogwss",
+    "pass": 3
+   },
+   {
+    "quote": "３Dプリンタも活用し、出来る限り低コストで製作している製作過程をご紹介します。",
+    "url": "https://note.com/ogwss",
+    "pass": 3
+   },
+   {
+    "quote": "日本の経済統計と転換点 #051-100｜小川製作所 | 製造業x経済統計｜note",
+    "url": "https://note.com/ogawa_tech/m/mc1932caede34",
+    "pass": 3
+   },
+   {
+    "quote": "日本の経済統計をグラフ化し共有する連載です。",
+    "url": "https://note.com/ogawa_tech/m/mc1932caede34",
+    "pass": 3
+   },
+   {
+    "quote": "100 性別による所得格差とは？ - 日本のジェンダーギャップ",
+    "url": "https://note.com/ogawa_tech/m/mc1932caede34",
+    "pass": 3
+   },
+   {
+    "quote": "099 人口とGDP - 少子高齢化は日本だけではない？",
+    "url": "https://note.com/ogawa_tech/m/mc1932caede34",
+    "pass": 3
+   },
+   {
+    "quote": "098 賃金と消費 - 実質での相関はあるか？",
+    "url": "https://note.com/ogawa_tech/m/mc1932caede34",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "小川製作所 | 製造業x経済統計 (@OgawaSeisakusho) / X 小川製作所 | 製造業x経済統計 (@OgawaSeisakusho) / X X https://x.com > OgawaSeisakusho",
+    "url": "https://x.com/OgawaSeisakusho",
+    "pass": 3
+   },
+   {
+    "quote": "小川晃一郎 @ 小川製作所 (@ogawass) / X 小川晃一郎 @ 小川製作所 (@ogawass) / X X https://x.com > ogawass",
+    "url": "https://x.com/ogawass",
+    "pass": 3
+   },
+   {
+    "quote": "小川製作所 | 製造業x経済統計 on X: \"＜メンバー紹介＞ 株式 ... 小川製作所 | 製造業x経済統計 on X: \"＜メンバー紹介＞ 株式 ... X https://x.com > @OgawaSeisakusho",
+    "url": "https://x.com/OgawaSeisakusho/status/2116275329178476836",
+    "pass": 3
+   },
+   {
+    "quote": "小川製作所 | 製造業 x 経済統計 (@OgawaSeisakusho) / X 小川製作所 | 製造業 x 経済統計 (@OgawaSeisakusho) / X X https://x.com > OgawaSeisakusho",
+    "url": "https://x.com/OgawaSeisakusho",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "kikuchi Bf - 株式会社 小川製作所 - 取締役設計部長 - LinkedIn kikuchi Bf - 株式会社 小川製作所 - 取締役設計部長 - LinkedIn LinkedIn https://jp.linkedin.com > kikuchi-bf-b9243696",
+    "url": "https://jp.linkedin.com/in/kikuchi-bf-b9243696",
+    "pass": 3
+   },
+   {
+    "quote": "小川 真由 - 株式会社 小川製作所 - 取締役 営業技術担当 東京都 ... 小川 真由 - 株式会社 小川製作所 - 取締役 営業技術担当 東京都 ... LinkedIn https://jp.linkedin.com > masayoshi-ogawa1980",
+    "url": "https://jp.linkedin.com/in/masayoshi-ogawa1980",
+    "pass": 3
+   },
+   {
+    "quote": "小川 益子 - 株式会社 小川製作所 - 経理 - LinkedIn 小川 益子 - 株式会社 小川製作所 - 経理 - LinkedIn LinkedIn https://jp.linkedin.com > 益子-小川-a2b7811a4",
+    "url": "https://jp.linkedin.com/in/%E7%9B%8A%E5%AD%90-%E5%B0%8F%E5%B7%9D-a2b7811a4",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "小川製作所 - Avaleht | Facebook 小川製作所 - Avaleht | Facebook Facebook https://www.facebook.com > pages > 小川製作所",
+    "url": "https://www.facebook.com/pages/%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80/215763755124214?locale=et_EE",
+    "pass": 3
+   },
+   {
+    "quote": "信念を兼ね備えた技工士」 東京都台東区の（株） 小川製作所 ... 信念を兼ね備えた技工士」 東京都台東区の（株） 小川製作所 ... Facebook https://www.facebook.com > posts > 小川-露胤寛小川製...",
+    "url": "https://www.facebook.com/giko4com/posts/%E5%B0%8F%E5%B7%9D-%E9%9C%B2%E8%83%A4%E5%AF%9B%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%82%A3%E8%80%85%E3%81%95%E3%82%93%E3%81%AE%E6%9C%AC%E9%9F%B3%E3%82%92%E8%87%AA%E7%84%B6%E3%81%AB%E5%BC%95%E3%81%8D%E5%87%BA%E3%81%99%E5%84%AA%E3%81%97%E3%81%95%E3%81%A8%E5%BC%B7%E3%81%95%E4%BF%A1%E5%BF%B5%E3%82%92%E5%85%BC%E3%81%AD%E5%82%99%E3%81%88%E3%81%9F%E6%8A%80%E5%B7%A5%E5%A3%AB%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E3%81%AE%E6%A0%AA%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AF%E5%B0%8F%E5%B7%9D-%E9%9C%B2%E8%83%A4%E5%AF%9B%E3%81%8A%E3%81%8C%E3%82%8F-%E3%82%8B%E3%81%84%E3%81%8B%E3%82%93%E6%B0%8F%E3%81%8C%E4%BB%A3/2571151726489725/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://ogawa-tech.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogawa-tech.jp/service/handwork/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogawa-tech.jp/service/handwork/welding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogawa-tech.jp/service/handwork/polishing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogawa-tech.jp/service/handwork/frame-making/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogawa-tech.jp/service/precision/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogawa-tech.jp/service/precision/machining/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogawa-tech.jp/service/precision/sheet-metal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogawa-tech.jp/service/precision/weldment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogawa-tech.jp/service/precision/accurate-polishing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogawa-tech.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogawa-tech.jp/service/precision/design-assist/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogawa-tech.jp/service/precision/surface-treatment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogawa-tech.jp/service/precision/heat-treatment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogawa-tech.jp/service/precision/cleaning/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogawa-tech.jp/service/precision/packing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogawa-tech.jp/service/precision/inspection/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogawa-tech.jp/service/engineering/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogawa-tech.jp/service/engineering/development-support/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogawa-tech.jp/service/engineering/3d-design/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogawa-tech.jp/service/engineering/reverse-engineering/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogawa-tech.jp/technology/buffing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogawa-tech.jp/technology/forceps-polishing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogawa-tech.jp/technology/stainless-product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogawa-tech.jp/technology/5axis-milling/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogawa-tech.jp/technology/milling/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://ogawa-tech.jp/wp-content/uploads/2025/01/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80-%E4%BC%9A%E7%A4%BE%E6%A1%88%E5%86%85.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://injection-lab.com/download/1955-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogawa-mfg.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogawa-works.com/strengths/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ogawa-ss.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/31294/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp293841/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ogawa-seisakusho.jp/pages/5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.ogawaseisakusho.co.jp/mail.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ogawa-ss.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ogawa_tech",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ogawa_tech/m/m3f6ab608ca2e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ogwss",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ogawa_tech/m/mc1932caede34",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/OgawaSeisakusho",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ogawass",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OgawaSeisakusho/status/2116275329178476836",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/kikuchi-bf-b9243696",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/masayoshi-ogawa1980",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E7%9B%8A%E5%AD%90-%E5%B0%8F%E5%B7%9D-a2b7811a4",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80/215763755124214?locale=et_EE",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/giko4com/posts/%E5%B0%8F%E5%B7%9D-%E9%9C%B2%E8%83%A4%E5%AF%9B%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%82%A3%E8%80%85%E3%81%95%E3%82%93%E3%81%AE%E6%9C%AC%E9%9F%B3%E3%82%92%E8%87%AA%E7%84%B6%E3%81%AB%E5%BC%95%E3%81%8D%E5%87%BA%E3%81%99%E5%84%AA%E3%81%97%E3%81%95%E3%81%A8%E5%BC%B7%E3%81%95%E4%BF%A1%E5%BF%B5%E3%82%92%E5%85%BC%E3%81%AD%E5%82%99%E3%81%88%E3%81%9F%E6%8A%80%E5%B7%A5%E5%A3%AB%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E3%81%AE%E6%A0%AA%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AF%E5%B0%8F%E5%B7%9D-%E9%9C%B2%E8%83%A4%E5%AF%9B%E3%81%8A%E3%81%8C%E3%82%8F-%E3%82%8B%E3%81%84%E3%81%8B%E3%82%93%E6%B0%8F%E3%81%8C%E4%BB%A3/2571151726489725/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/ogawa_tech",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ogawa_tech/m/m3f6ab608ca2e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ogwss",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/OgawaSeisakusho",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OgawaSeisakusho",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/ogawa_tech",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/ogawass",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "小川製作所 取扱製品 試作 小ロット",
+   "results": [
+    "https://injection-lab.com/download/1955-2.html",
+    "https://ogawa-mfg.co.jp/",
+    "https://ogawa-works.com/strengths/",
+    "https://mfg-hack.com/plastic/10134/",
+    "https://www.s-search.jp/r_company.php?id=552066",
+    "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "https://www.youtube.com/watch?v=hUn4tT9VgWU",
+    "https://metoree.com/companies/31294/",
+    "https://mono.ipros.com/company/detail/2092178/",
+    "http://ogasei.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "小川製作所 会社概要 事業内容",
+   "results": [
+    "https://www.ogawa-ss.co.jp/company/",
+    "https://metoree.com/companies/31294/",
+    "https://job.mynavi.jp/27/pc/search/corp293841/outline.html",
+    "https://www.ogawa-seisakusyo.co.jp/company.html",
+    "https://www.ogawa-seisakusho.jp/pages/17/",
+    "https://ogwss.co.jp/company/history/",
+    "https://ogawa-works.com/information/",
+    "https://eigyo-mfg.com/service/navi/company/Y6DFQYV4q11X",
+    "http://www.ogawaseisakusyo.jp/company.html",
+    "https://www.ogawa-seisakusho.jp/pages/36/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "小川製作所 お問い合わせ メール",
+   "results": [
+    "https://www.ogawa-seisakusho.jp/pages/5/",
+    "http://www.ogawaseisakusho.co.jp/mail.html",
+    "https://ogawa-ss.jp/contact/",
+    "https://ogawa-works.com/contact/",
+    "https://ogwss.co.jp/contact-us/",
+    "https://ogawa-mfg.co.jp/contact/",
+    "https://ogw-mfg.com/contact/",
+    "https://www.ogawa-seisakusyo.co.jp/recruit.html",
+    "https://tokyo-fabhub.com/author/ogawa-technical-works/",
+    "https://www.ogawa-seisakusho.jp/pages/49/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com 小川製作所",
+   "results": [
+    "https://note.com/ogawa_tech",
+    "https://note.com/ogawa_tech/m/m3f6ab608ca2e",
+    "https://note.com/ogwss",
+    "https://note.com/ogawa_tech/m/mc1932caede34",
+    "https://note.com/ogawa_tech/m/mbe7f5d17f322/hashtag/%E4%BB%98%E5%8A%A0%E4%BE%A1%E5%80%A4",
+    "https://note.com/ogawa_tech/n/n2fb7a4a91a3c",
+    "https://note.com/ogawa_tech/n/nabe4710352c7",
+    "https://note.com/ogawa_tech/m/m435b88ba404d/hashtag/%E7%8F%BE%E9%87%91",
+    "https://note.com/ogawa_tech/m/m435b88ba404d/hashtag/%E7%94%B7%E6%80%A7",
+    "https://note.com/ogwss/n/n7ab1cdfb19bc"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:x.com 小川製作所",
+   "results": [
+    "https://x.com/OgawaSeisakusho",
+    "https://x.com/ogawass",
+    "https://x.com/OgawaSeisakusho/status/2116275329178476836",
+    "https://x.com/OgawaSeisakusho/status/2116694460109299941",
+    "https://x.com/OgawaSeisakusho/status/2116274526992678983",
+    "https://x.com/OgawaSeisakusho/reposts",
+    "https://x.com/OgawaSeisakusho/status/2114116112833208578",
+    "https://x.com/OgawaSeisakusho/highlights",
+    "https://x.com/OgawaSeisakusho/status/2117720115563389425",
+    "https://x.com/fa_ogwss"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:linkedin.com 小川製作所",
+   "results": [
+    "https://jp.linkedin.com/in/kikuchi-bf-b9243696",
+    "https://jp.linkedin.com/in/masayoshi-ogawa1980",
+    "https://www.linkedin.com/pub/dir/Masayoshi/Ogawa",
+    "https://jp.linkedin.com/in/%E7%9B%8A%E5%AD%90-%E5%B0%8F%E5%B7%9D-a2b7811a4",
+    "https://jp.linkedin.com/in/%E5%8D%93%E7%9F%A2-%E9%AB%98%E6%A9%8B-1133aa184",
+    "https://www.linkedin.com/pub/dir/%E7%9C%9F%E7%94%B1/%E5%B0%8F%E5%B7%9D",
+    "https://www.linkedin.com/pub/dir/Jun/Ogawa/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://www.linkedin.com/pub/dir/Hideo/Ogawa",
+    "https://www.linkedin.com/pub/dir/Taisei/Ogawa",
+    "https://www.linkedin.com/company/ogawa-seisakusho/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com 小川製作所",
+   "results": [
+    "https://www.facebook.com/pages/%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80/215763755124214?locale=et_EE",
+    "https://www.facebook.com/yuichiro.ogawa.771/",
+    "https://www.facebook.com/giko4com/posts/%E5%B0%8F%E5%B7%9D-%E9%9C%B2%E8%83%A4%E5%AF%9B%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E6%82%A3%E8%80%85%E3%81%95%E3%82%93%E3%81%AE%E6%9C%AC%E9%9F%B3%E3%82%92%E8%87%AA%E7%84%B6%E3%81%AB%E5%BC%95%E3%81%8D%E5%87%BA%E3%81%99%E5%84%AA%E3%81%97%E3%81%95%E3%81%A8%E5%BC%B7%E3%81%95%E4%BF%A1%E5%BF%B5%E3%82%92%E5%85%BC%E3%81%AD%E5%82%99%E3%81%88%E3%81%9F%E6%8A%80%E5%B7%A5%E5%A3%AB%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8F%B0%E6%9D%B1%E5%8C%BA%E3%81%AE%E6%A0%AA%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AF%E5%B0%8F%E5%B7%9D-%E9%9C%B2%E8%83%A4%E5%AF%9B%E3%81%8A%E3%81%8C%E3%82%8F-%E3%82%8B%E3%81%84%E3%81%8B%E3%82%93%E6%B0%8F%E3%81%8C%E4%BB%A3/2571151726489725/",
+    "https://www.facebook.com/masayoshi.ogawa.777/",
+    "https://www.facebook.com/61565071298062/posts/%E5%B1%95%E7%A4%BA%E4%BC%9A%E5%87%BA%E5%B1%95%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B7%E6%9C%8824%E6%97%A5%E6%B0%B425%E6%97%A5%E6%9C%A8%E3%81%AB%E4%B8%89%E5%85%89%E9%9B%BB%E6%A5%AD%E6%A7%98%E3%81%AB%E3%81%A6%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%82%8B%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B1%95%E3%81%AB%E5%87%BA%E5%B1%95%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99%E4%BB%8A%E5%9B%9E%E3%81%AF%E5%BD%93%E7%A4%BE%E7%8B%AC%E8%87%AA%E3%81%AE%E4%BE%9B%E7%B5%A6%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%B0%E3%82%89%E3%81%91%E3%83%94%E3%83%83%E3%82%AF%E3%82%92%E5%B1%95%E7%A4%BA%E3%81%97%E3%81%BE%E3%81%99%E3%81%B0%E3%82%89%E3%81%91%E3%83%94%E3%83%83/122173107938502376/",
+    "https://www.facebook.com/MONOist/posts/monoist%E3%81%AE%E8%A8%98%E4%BA%8B%E3%81%8B%E3%82%89%E3%82%AF%E3%82%A4%E3%82%BA%E3%82%92%E5%87%BA%E9%A1%8C-%E3%83%A2%E3%83%8E%E3%81%A5%E3%81%8F%E3%82%8A%E6%A5%AD%E7%95%8C%E3%81%AE%E7%9F%A5%E8%AD%98%E3%82%92%E6%A5%BD%E3%81%97%E3%81%8F%E5%A2%97%E3%82%84%E3%81%97%E3%81%A6%E3%81%84%E3%81%8D%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%E4%BB%8A%E5%9B%9E%E3%81%AF%E9%80%A3%E8%BC%89%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%82%B9%E3%82%AD%E3%83%9E%E6%99%82%E9%96%93%E3%81%AB%E3%81%AA%E3%81%8C%E3%82%81%E3%82%8B%E7%B5%8C%E6%B8%88%E3%83%87%E3%83%BC%E3%82%BF%E3%81%8B%E3%82%89%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%81%97%E3%81%BE%E3%81%97/1780574280735509/",
+    "https://www.facebook.com/agripocket.ogawa/",
+    "https://www.facebook.com/MONOist/posts/monoist%E3%81%AB%E6%8E%B2%E8%BC%89%E3%81%97%E3%81%9F%E4%B8%BB%E8%A6%81%E3%81%AA%E8%A8%98%E4%BA%8B%E3%82%92%E8%AA%AD%E3%81%BF%E3%82%84%E3%81%99%E3%81%84pdf%E5%BD%A2%E5%BC%8F%E3%81%AE%E9%9B%BB%E5%AD%90%E3%83%96%E3%83%83%E3%82%AF%E3%83%AC%E3%83%83%E3%83%88%E3%81%AB%E5%86%8D%E7%B7%A8%E9%9B%86%E3%81%97%E3%81%9F%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E9%9B%BB%E5%AD%90%E3%83%96%E3%83%83%E3%82%AF%E3%83%AC%E3%83%83%E3%83%88%E4%BB%8A%E5%9B%9E%E3%81%AFmonoist%E3%81%AE%E5%A4%A7%E4%BA%BA%E6%B0%97%E9%80%A3%E8%BC%89%E5%B0%8F%E5%B7%9D%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AE%E3%82%B9%E3%82%AD/1801379651988305/",
+    "https://www.facebook.com/61565071298062/posts/%E3%81%8A%E3%81%8B%E3%82%84%E3%81%BE%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E5%B1%95otex2026%E3%81%AB%E5%87%BA%E5%B1%95%E3%81%97%E3%81%BE%E3%81%9911%E6%9C%8811%E6%97%A5%E6%B0%B412%E6%97%A5%E6%9C%A8%E3%81%AE2%E6%97%A5%E9%96%93%E3%82%B3%E3%83%B3%E3%83%99%E3%83%83%E3%82%AF%E3%82%B9%E5%B2%A1%E5%B1%B1%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%82%8B%E3%81%8A%E3%81%8B%E3%82%84%E3%81%BE%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC%E5%B1%95otex2026%E3%81%AB%E5%87%BA%E5%B1%95%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE/122246544266502376/",
+    "https://www.facebook.com/ogawatech2015/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "小川製作所 note 社長",
+   "results": [
+    "https://note.com/ogawa_tech",
+    "https://note.com/ogawa_tech/m/m3f6ab608ca2e",
+    "https://note.com/ogwss",
+    "https://x.com/OgawaSeisakusho",
+    "https://note.com/ogawa_tech/m/m11d5dae06db9/hashtag/%E4%BB%98%E5%8A%A0%E4%BE%A1%E5%80%A4",
+    "https://www.threads.com/@ogawaseisakusho",
+    "https://ogwss.co.jp/post-1849/",
+    "https://note.com/ogawa_tech/m/mc1932caede34/hashtag/2488",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://ogwsss.co.jp/company/president/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "小川製作所 X 投稿",
+   "results": [
+    "https://x.com/OgawaSeisakusho",
+    "https://note.com/ogawa_tech",
+    "https://x.com/ogawass",
+    "https://www.instagram.com/ogawaseisakusho/",
+    "https://note.com/ogawa_tech/m/m3f6ab608ca2e",
+    "http://www.ogawaseisakusho.co.jp/",
+    "https://creative-land.jp/company-detail/62",
+    "https://www.ogawamfg.com/",
+    "https://ogwsss.co.jp/",
+    "https://tokyo-fabhub.com/author/ogawa-technical-works/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式26頁／PDF・画像1件／外部28頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式26頁／PDF・画像1件／外部28頁・検索9回）"
+ }
+}

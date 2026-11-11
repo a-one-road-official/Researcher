@@ -1,0 +1,1931 @@
+{
+ "name": "Metal",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-11T13:49:04.330900+00:00",
+ "official_url": "https://metal.ai/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Metal | AI context layer for private capital",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "PE hub's interview with Metal and Court Square Capital",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The AI context platform for private capital",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by leading private capital firms",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Metal reads your files, data rooms, CRM and email where they live. One company, three names, four versions of ARR. That’s where the work begins.",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Five sources, five numbers. Metal keeps every discovered value and ranks them by source priority, confidence and recency. The one that wins carries its citation, and the four it set aside stay visible.",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "QBR Q1 · Retention deck",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Passed pre-IOI, Mar 2024.",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "STRICTLY PRIVATE AND CONFIDENTIAL",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Precision components for industrial customers, three plants.",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Egnyte · Project Halden data room",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "What’s the latest on Project Lumen ahead of IC?",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Project Lumen · Decision review · Claude",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Growth and retention remain ahead of the current operating case.",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "38 prior NDAs",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Checked against 38 prior NDAs",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "CTO, Berkshire Partners",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“With Metal, we’ve fast-tracked our path to leverage meaningful AI benefits across the firm – from our investment staff to our support staff and everyone in between. Metal’s partnership-driven approach has been key – not only in implementing the technology but in ensuring its adoption across our firm.”",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "51 paired questions over a real private-equity dataset. Same model, same agent: one reads through Metal, the other through a leading enterprise file platform.",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Built for private equity, private credit and the technology teams that build on it.",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-grade security",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Verified controls across security, availability, processing integrity, confidentiality, and privacy.",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Full compliance with EU data protection requirements.",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Information security management best practices.",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "No. Your CRM, file shares and data rooms stay where they are, and they remain your systems of record. Metal reads from them and writes verified results back. It isn't a replacement store or a data vendor. Your teams keep working in the AI tools they already use, so there is no new destination to adopt and no firm-wide retraining.",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Berkshire Partners - Metal AI for Private Equity",
+    "url": "https://www.metal.ai/blog/how-berkshire-partners-collaborative-approach-led-to-ai-adoption",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Berkshire Partners",
+    "url": "https://www.metal.ai/blog/how-berkshire-partners-collaborative-approach-led-to-ai-adoption",
+    "pass": 1
+   },
+   {
+    "quote": "With nearly 40 years of experience and over $28 billion in assets under management, Berkshire's team of more than 200 investment professionals invests with a unified philosophy: relationships matter, a belief in the power of teams, and winning the right way.",
+    "url": "https://www.metal.ai/blog/how-berkshire-partners-collaborative-approach-led-to-ai-adoption",
+    "pass": 1
+   },
+   {
+    "quote": "Berkshire's partnership-driven approach is backed up by a long investment history. From household names like",
+    "url": "https://www.metal.ai/blog/how-berkshire-partners-collaborative-approach-led-to-ai-adoption",
+    "pass": 1
+   },
+   {
+    "quote": ", Berkshire's long-term view has allowed them to remain steadfast in the face of volatility.",
+    "url": "https://www.metal.ai/blog/how-berkshire-partners-collaborative-approach-led-to-ai-adoption",
+    "pass": 1
+   },
+   {
+    "quote": "When generative AI burst onto the scene in 2023, Berkshire Partners immediately understood its potential to fundamentally change their investment process. Their leadership team set four impactful objectives:",
+    "url": "https://www.metal.ai/blog/how-berkshire-partners-collaborative-approach-led-to-ai-adoption",
+    "pass": 1
+   },
+   {
+    "quote": "How could they improve their ability to develop an investment thesis and reach conviction faster?",
+    "url": "https://www.metal.ai/blog/how-berkshire-partners-collaborative-approach-led-to-ai-adoption",
+    "pass": 1
+   },
+   {
+    "quote": "Improve access to knowledge:",
+    "url": "https://www.metal.ai/blog/how-berkshire-partners-collaborative-approach-led-to-ai-adoption",
+    "pass": 1
+   },
+   {
+    "quote": "In addition to these goals, Berkshire recognized the need for a technology partner who could not only handle the technical implementation but also provide essential support in change management to ensure firm-wide adoption.",
+    "url": "https://www.metal.ai/blog/how-berkshire-partners-collaborative-approach-led-to-ai-adoption",
+    "pass": 1
+   },
+   {
+    "quote": "Berkshire Partners Met Metal",
+    "url": "https://www.metal.ai/blog/how-berkshire-partners-collaborative-approach-led-to-ai-adoption",
+    "pass": 1
+   },
+   {
+    "quote": "Berkshire initially experimented with AI tooling in-house, but soon recognized the complexity and resource intensity it required. This led them to seek out a partner focused on their specific needs—enter Metal.",
+    "url": "https://www.metal.ai/blog/how-berkshire-partners-collaborative-approach-led-to-ai-adoption",
+    "pass": 1
+   },
+   {
+    "quote": "Critically, we shared Berkshire's belief in the importance of partnerships. We knew that implementing AI would require more than just deploying technology; it would require driving adoption to help every employee leverage AI in their workflow.",
+    "url": "https://www.metal.ai/blog/how-berkshire-partners-collaborative-approach-led-to-ai-adoption",
+    "pass": 1
+   },
+   {
+    "quote": "To reach conviction on a space, Berkshire's team previously had to manually process vast amounts of unstructured data: research call notes and transcripts, company financials, public filings, and more.",
+    "url": "https://www.metal.ai/blog/how-berkshire-partners-collaborative-approach-led-to-ai-adoption",
+    "pass": 1
+   },
+   {
+    "quote": "For example, expert call transcripts offer valuable context—providing the story behind the metrics—but are inherently unstructured, making them time-consuming to analyze.",
+    "url": "https://www.metal.ai/blog/how-berkshire-partners-collaborative-approach-led-to-ai-adoption",
+    "pass": 1
+   },
+   {
+    "quote": "With Metal, Berkshire's team can upload thousands of transcript pages and summarize large document sets or drill down into details. Our specialized data processing allows Berkshire to differentiate between speakers, identify mentions of specific companies, and focus on key financial metrics and KPIs—automating tasks that previously consumed hours of analyst time.",
+    "url": "https://www.metal.ai/blog/how-berkshire-partners-collaborative-approach-led-to-ai-adoption",
+    "pass": 1
+   },
+   {
+    "quote": "To encourage utilization, Berkshire regularly reviewed Metal's outputs and accuracy with our team. It was crucial for us to demonstrate early wins for their staff, while empowering them to shape the product through their feedback. This ongoing collaboration has been key to our shared success.",
+    "url": "https://www.metal.ai/blog/how-berkshire-partners-collaborative-approach-led-to-ai-adoption",
+    "pass": 1
+   },
+   {
+    "quote": "Metal is also designed to easily integrate with critical business systems. For Berkshire Partners, this meant tying in their CRM data to provide a holistic picture of every opportunity or portfolio company.",
+    "url": "https://www.metal.ai/blog/how-berkshire-partners-collaborative-approach-led-to-ai-adoption",
+    "pass": 1
+   },
+   {
+    "quote": "We worked closely with Berkshire to understand how their CRM was organized and what data needed to be pulled into Metal. This was not only key from an integration perspective, but gave Berkshire complete control over what data gets stored into Metal to ensure they're adhering to compliance requirements.",
+    "url": "https://www.metal.ai/blog/how-berkshire-partners-collaborative-approach-led-to-ai-adoption",
+    "pass": 1
+   },
+   {
+    "quote": "By augmenting Metal with Berkshire's CRM data, their team was given unprecedented views of companies through data aggregation. For example, in addition to company-provided documents and public research, we also pulled in key data such as company descriptions, demographic data, financials, and activity notes from key meetings.",
+    "url": "https://www.metal.ai/blog/how-berkshire-partners-collaborative-approach-led-to-ai-adoption",
+    "pass": 1
+   },
+   {
+    "quote": "With this data stored in Metal, it became far more discoverable. For example, Berkshire's teams can now surface companies through simple natural language searches.",
+    "url": "https://www.metal.ai/blog/how-berkshire-partners-collaborative-approach-led-to-ai-adoption",
+    "pass": 1
+   },
+   {
+    "quote": "Additionally, Metal offers a holistic view of qualitative and quantitative data for each company in the system. This allows Berkshire's teams to gain insights on anything from financial performance relative to the market, to preparing for management meetings in a fraction of the time.",
+    "url": "https://www.metal.ai/blog/how-berkshire-partners-collaborative-approach-led-to-ai-adoption",
+    "pass": 1
+   },
+   {
+    "quote": "With the introduction of rich company dashboards and the aggregation of fund history in Metal, the next phase of our partnership focused on empowering Berkshire's team with access to these new insights.",
+    "url": "https://www.metal.ai/blog/how-berkshire-partners-collaborative-approach-led-to-ai-adoption",
+    "pass": 1
+   },
+   {
+    "quote": "Berkshire's team can now surface insights across their entire history of deals and portfolio companies, democratizing knowledge and making it accessible to everyone in the firm, all within the firm's data governance framework and requirements.",
+    "url": "https://www.metal.ai/blog/how-berkshire-partners-collaborative-approach-led-to-ai-adoption",
+    "pass": 1
+   },
+   {
+    "quote": "For example, by storing company descriptions, notes, and metrics, Metal can suggest similar companies based on a company's profile. And given Berkshire's control over what data gets stored in Metal, they can adhere to compliance requirements and protect non-public information.",
+    "url": "https://www.metal.ai/blog/how-berkshire-partners-collaborative-approach-led-to-ai-adoption",
+    "pass": 1
+   },
+   {
+    "quote": "By proactively surfacing these connections, Berkshire's teams are presented with correlations that they otherwise may have missed.",
+    "url": "https://www.metal.ai/blog/how-berkshire-partners-collaborative-approach-led-to-ai-adoption",
+    "pass": 1
+   },
+   {
+    "quote": "About Metal | AI context layer for private capital",
+    "url": "https://www.metal.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "Based in New York, Metal partners with top firms to power intelligent private capital",
+    "url": "https://www.metal.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "Our team brings together expertise in finance, enterprise software, and AI to build the infrastructure powering the future of investing.",
+    "url": "https://www.metal.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "Join top firms redefining private capital with AI",
+    "url": "https://www.metal.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "private capital with AI",
+    "url": "https://www.metal.ai/company",
+    "pass": 1
+   },
+   {
+    "quote": "Every object in your Context Graph is reachable through a documented API and a native Model Context Protocol server. Wire Metal into Claude, ChatGPT, Copilot, or your own agents — no new platform to learn, just the context your firm already has.",
+    "url": "https://www.metal.ai/solutions/technical-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Do the work once — not on every prompt.",
+    "url": "https://www.metal.ai/solutions/technical-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Context is resolved before the prompt, so agents stop re-crawling raw files on every chat.",
+    "url": "https://www.metal.ai/solutions/technical-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Every answer lands on the same reconciled source of truth, with provenance back to the document.",
+    "url": "https://www.metal.ai/solutions/technical-teams",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise control, by default.",
+    "url": "https://www.metal.ai/solutions/technical-teams",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by leading private capital firms",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing · Fund III · Portfolio",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Precision components for industrial customers, three plants.",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Halden Industrials · as of 7 Mar 2025",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Halden Industrials · 6 pages",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Berkshire Partners - Metal AI for Private Equity",
+    "url": "https://www.metal.ai/blog/how-berkshire-partners-collaborative-approach-led-to-ai-adoption",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Berkshire Partners",
+    "url": "https://www.metal.ai/blog/how-berkshire-partners-collaborative-approach-led-to-ai-adoption",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by top Private Equity firms",
+    "url": "https://www.metal.ai/book-a-demo",
+    "pass": 1
+   },
+   {
+    "quote": "in late 2011, under the independent Toy's Factory sublabel Juonbu Records.",
+    "url": "https://en.wikipedia.org/wiki/Babymetal",
+    "pass": 3
+   },
+   {
+    "quote": "\". Released under the main Toy's Factory label and Juonbu Records,",
+    "url": "https://en.wikipedia.org/wiki/Babymetal",
+    "pass": 3
+   },
+   {
+    "quote": "under Toy's Factory and the band's new sublabel BMD Fox Records.",
+    "url": "https://en.wikipedia.org/wiki/Babymetal",
+    "pass": 3
+   },
+   {
+    "quote": "It was subsequently used by WWE as the theme song for the 2024",
+    "url": "https://en.wikipedia.org/wiki/Babymetal",
+    "pass": 3
+   },
+   {
+    "quote": "\" and chocolate, subjects which critics say are a step away from typical lyrical styles used by most",
+    "url": "https://en.wikipedia.org/wiki/Babymetal",
+    "pass": 3
+   },
+   {
+    "quote": "Toy's Factory (October 12, 2011).",
+    "url": "https://en.wikipedia.org/wiki/Babymetal",
+    "pass": 3
+   },
+   {
+    "quote": "Toy's Factory artists",
+    "url": "https://en.wikipedia.org/wiki/Babymetal",
+    "pass": 3
+   },
+   {
+    "quote": "Japan's largest! Specialized in all kinds of steel & nonferrous metals as well as its manufacturing and processing technologies.",
+    "url": "https://www.material-expo.jp/hub/en-gb/about/metal.html",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies | Precision Manufacturing & Metal Work",
+    "url": "https://www.jcmetalworks.co.uk/metal-manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Our Plant & Machinery",
+    "url": "https://www.jcmetalworks.co.uk/metal-manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Mate’s latest case study features another great example of how to increase throughput and reduce labor costs. Mate Regional Sales Manager Peter Visser was visiting a customer that did multiple press brake setups per day. These setups took about 10 minutes each and the customer, Bilan Metal Works, was looking for a better solution.",
+    "url": "https://www.mate.com/fabrication-solutions/sheet-metal-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "When Mate’s sales engineer spotted a manufacturer spending an inordinate amount of time on tool set up, he recommended switching to RapidSet™ canisters. Doing so added $35,000 in increased capacity and generated $5,730 in annual savings from improved grind life.",
+    "url": "https://www.mate.com/fabrication-solutions/sheet-metal-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Mate’s in-field sales support uncovered a slug pulling issue. Switching to Mate Slug Free® dies added over $160,000 in value for this manufacturer of commercial food handling equipment.",
+    "url": "https://www.mate.com/fabrication-solutions/sheet-metal-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "When the world’s leading manufacturer of ice and beverage systems switched to Mate’s Ultra TEC fully-guided tooling, they realized an additional $200,000 per year in annual green light time.",
+    "url": "https://www.mate.com/fabrication-solutions/sheet-metal-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "A leading manufacturer of truck and SUV accessories had been using a laser to produce parts featuring its company and product logos, which were very complex. They wanted to produce a higher yield within a specific run time.",
+    "url": "https://www.mate.com/fabrication-solutions/sheet-metal-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Major HVAC Manufacturer Saves $100K Annually",
+    "url": "https://www.mate.com/fabrication-solutions/sheet-metal-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "When a major HVAC manufacturer started buying newer Amada EM-series punch presses, they standardized on Mate Ultra TEC tooling an reaped the rewards.",
+    "url": "https://www.mate.com/fabrication-solutions/sheet-metal-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Circa Metals is both a contract manufacturer for leading companies and a manufacturer of electrical and communications equipment enclosures. The company acquired two Prima Power punch presses with the intention of streamlining operations and…",
+    "url": "https://www.mate.com/fabrication-solutions/sheet-metal-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Hydraulic & Mechanical Equipment Manufacturer",
+    "url": "https://www.mate.com/fabrication-solutions/sheet-metal-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "A global manufacturer of hydraulic and mechanical equipment serving a wide array of industries wanted to reduce the amount of time…",
+    "url": "https://www.mate.com/fabrication-solutions/sheet-metal-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "A key manufacturer of indoor HVAC systems was experiencing problems with tool setup and maintenance…",
+    "url": "https://www.mate.com/fabrication-solutions/sheet-metal-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Elevator Manufacturer",
+    "url": "https://www.mate.com/fabrication-solutions/sheet-metal-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "An elevator manufacturer replaced their existing punch presses with Trumpf-style presses.",
+    "url": "https://www.mate.com/fabrication-solutions/sheet-metal-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Steel Door & Cabinet Manufacturer",
+    "url": "https://www.mate.com/fabrication-solutions/sheet-metal-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "A manufacturer of steel doors and cabinets wanted to save money on spot welding, and contacted Mate to offer a solution.",
+    "url": "https://www.mate.com/fabrication-solutions/sheet-metal-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Our sales engineers at Mate have years of experience on the shop floor. We are inspired by supporting our customers achieve their vision…",
+    "url": "https://www.mate.com/fabrication-solutions/sheet-metal-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Firelake Manufacturing",
+    "url": "https://www.mate.com/fabrication-solutions/sheet-metal-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "It’s no secret that eliminating secondary operations improves throughput and reduces costs—positive additions that every manufacturing company…",
+    "url": "https://www.mate.com/fabrication-solutions/sheet-metal-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "HVAC Equipment Manufacturer",
+    "url": "https://www.mate.com/fabrication-solutions/sheet-metal-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Fireplace Manufacturer",
+    "url": "https://www.mate.com/fabrication-solutions/sheet-metal-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "For sheet metal manufacturers, scrap is often a source of wasted profits. Because scrapped parts need to be made again, scrap is…",
+    "url": "https://www.mate.com/fabrication-solutions/sheet-metal-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Work by Leading Custom Metal Fabricators | TMCO",
+    "url": "https://www.tmcoinc.com/blog/case-study-successful-projects-by-leading-custom-metal-fabricators/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Successful Projects by Leading Custom Metal Fabricators",
+    "url": "https://www.tmcoinc.com/blog/case-study-successful-projects-by-leading-custom-metal-fabricators/",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, we’ll walk through three project examples that demonstrate the value of partnering with an experienced, full-service fabrication provider and highlight how collaboration, advanced technology, and engineering expertise translate into successful manufacturing outcomes.",
+    "url": "https://www.tmcoinc.com/blog/case-study-successful-projects-by-leading-custom-metal-fabricators/",
+    "pass": 3
+   },
+   {
+    "quote": "Project 1: High-Strength Industrial Assembly Built for Heavy-Duty Performance",
+    "url": "https://www.tmcoinc.com/blog/case-study-successful-projects-by-leading-custom-metal-fabricators/",
+    "pass": 3
+   },
+   {
+    "quote": "industrial equipment manufacturer",
+    "url": "https://www.tmcoinc.com/blog/case-study-successful-projects-by-leading-custom-metal-fabricators/",
+    "pass": 3
+   },
+   {
+    "quote": "Project 2: Precision Metal Enclosure for an Electronics Manufacturer",
+    "url": "https://www.tmcoinc.com/blog/case-study-successful-projects-by-leading-custom-metal-fabricators/",
+    "pass": 3
+   },
+   {
+    "quote": "The enclosure was approved for production following successful testing. The final part maintained high accuracy, visual consistency, and compatibility with the company’s assembly process — strengthening the manufacturer’s product reliability and brand reputation.",
+    "url": "https://www.tmcoinc.com/blog/case-study-successful-projects-by-leading-custom-metal-fabricators/",
+    "pass": 3
+   },
+   {
+    "quote": "The project was completed without delays caused by missing or inaccurate components demonstrating how experienced custom metal fabricators can support construction efficiency and scheduling reliability.",
+    "url": "https://www.tmcoinc.com/blog/case-study-successful-projects-by-leading-custom-metal-fabricators/",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced equipment and modern manufacturing technology",
+    "url": "https://www.tmcoinc.com/blog/case-study-successful-projects-by-leading-custom-metal-fabricators/",
+    "pass": 3
+   },
+   {
+    "quote": "The right metal fabrication partner brings more than machines and materials; they bring problem-solving experience. Whether the need is precision components for electronics, heavy-duty structures for industrial use, or tailored parts for construction or engineered systems, the difference is found in expertise, communication, and quality control.",
+    "url": "https://www.tmcoinc.com/blog/case-study-successful-projects-by-leading-custom-metal-fabricators/",
+    "pass": 3
+   },
+   {
+    "quote": ". Successful case studies demonstrate technical skill, manufacturing quality, and the ability to deliver consistent results even in demanding applications.",
+    "url": "https://www.tmcoinc.com/blog/case-study-successful-projects-by-leading-custom-metal-fabricators/",
+    "pass": 3
+   },
+   {
+    "quote": "Custom Industrial Equipment Manufacturing: An OEM Guide",
+    "url": "https://www.tmcoinc.com/blog/case-study-successful-projects-by-leading-custom-metal-fabricators/",
+    "pass": 3
+   },
+   {
+    "quote": "Evaluate custom industrial equipment manufacturing partners with a practical guide to scope, engineering support, production controls, quality, capacity, and total program cost.",
+    "url": "https://www.tmcoinc.com/blog/case-study-successful-projects-by-leading-custom-metal-fabricators/",
+    "pass": 3
+   },
+   {
+    "quote": "Turnkey Manufacturing Companies: What to Verify Before You Sign",
+    "url": "https://www.tmcoinc.com/blog/case-study-successful-projects-by-leading-custom-metal-fabricators/",
+    "pass": 3
+   },
+   {
+    "quote": "The term turnkey does not explain which processes are performed internally, how capacity is planned, or what the quoted price includes. Use this practical checklist to evaluate process scope, quality, engineering support, accountability, and total program cost before choosing a manufacturing partner.",
+    "url": "https://www.tmcoinc.com/blog/case-study-successful-projects-by-leading-custom-metal-fabricators/",
+    "pass": 3
+   },
+   {
+    "quote": "How to Choose a Turnkey Manufacturer for Complex OEM Production",
+    "url": "https://www.tmcoinc.com/blog/case-study-successful-projects-by-leading-custom-metal-fabricators/",
+    "pass": 3
+   },
+   {
+    "quote": "Choosing a turnkey manufacturer for complex OEM production requires more than comparing quotes. Learn which criteria separate reliable production partners from manufacturers that may create problems as your program grows.",
+    "url": "https://www.tmcoinc.com/blog/case-study-successful-projects-by-leading-custom-metal-fabricators/",
+    "pass": 3
+   },
+   {
+    "quote": "Metal Processing Industry Lean Manufacturing Case Studies",
+    "url": "https://txm.com/case-studies/industry/metal-processing/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive & Recreational Vehicles",
+    "url": "https://txm.com/case-studies/industry/metal-processing/",
+    "pass": 3
+   },
+   {
+    "quote": "High Tech Manufacturing",
+    "url": "https://txm.com/case-studies/industry/metal-processing/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Packaging Case Studies",
+    "url": "https://txm.com/case-studies/industry/metal-processing/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Metal reads your files, data rooms, CRM and email where they live. One company, three names, four versions of ARR. That’s where the work begins.",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Five sources, five numbers. Metal keeps every discovered value and ranks them by source priority, confidence and recency. The one that wins carries its citation, and the four it set aside stay visible.",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "ARR · FY24",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "ARR (diligence v3)",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Attached. ARR lands at 12.4 on the revised basis, see p.6. The operating plan still carries 12.1 until the Q2 refresh.",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Can you confirm the FY24 ARR before Thursday's call?",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "ARR 12.6 per the QBR deck?",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The hard part of adopting AI is ours.",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Every position on one live record, so narrowing headroom surfaces early.",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "When a new version of a file arrives, how do the figures stay current and accurate?",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "released in 2008, was also released in North America in 2009. 2011 saw Versailles starring in their own television show.",
+    "url": "https://en.wikipedia.org/wiki/Japanese_metal",
+    "pass": 3
+   },
+   {
+    "quote": "'s single \"Starry Sky\" topped the",
+    "url": "https://en.wikipedia.org/wiki/Japanese_metal",
+    "pass": 3
+   },
+   {
+    "quote": "\"6/1付週間シングルランキング1位はPassCodeの「STARRY SKY」\"",
+    "url": "https://en.wikipedia.org/wiki/Japanese_metal",
+    "pass": 3
+   },
+   {
+    "quote": "their final European show of the year as part of the group's \"Babymetal Apocalypse\" phase. It was later announced the band would also return to",
+    "url": "https://en.wikipedia.org/wiki/Babymetal",
+    "pass": 3
+   },
+   {
+    "quote": "by saying that \"Yuimetal remains a member of the band, but she is not on this current U.S. tour.\" The reply also hinted about \"a new narrative for the future of the band which is currently evolving\" and a \"storyline\" that \"has changed\".",
+    "url": "https://en.wikipedia.org/wiki/Babymetal",
+    "pass": 3
+   },
+   {
+    "quote": "s Brian Mansfield commenting that the \"video looks like some kind of bizarre animé, with a dark-goth set and band members playing in skeleton costumes, and the three girls execute intricate choreography, flash heart signs and make windmill arm motions like they're playing air guitar\"",
+    "url": "https://en.wikipedia.org/wiki/Babymetal",
+    "pass": 3
+   },
+   {
+    "quote": "The majority of their lyrics are in Japanese and they see their choreography as a way to break the language barrier.",
+    "url": "https://en.wikipedia.org/wiki/Babymetal",
+    "pass": 3
+   },
+   {
+    "quote": "When asked about people who do not consider the band's pop-infused music \"metal\", Nakamoto acknowledged the claims and praised such accusations, warranting how metal purists have their own preferences for metal being a certain way, and taking them into consideration for the band's progress.",
+    "url": "https://en.wikipedia.org/wiki/Babymetal",
+    "pass": 3
+   },
+   {
+    "quote": "Red Team Wins NHK Kōhaku Uta Gassen After four Years - Carried by Closing Act Misia, Japan Record Awards Winner LiSA, and December Debut NiziU",
+    "url": "https://en.wikipedia.org/wiki/Babymetal",
+    "pass": 3
+   },
+   {
+    "quote": "\"Meet the teen idols behind Babymetal, Japan's bizarre metal sensation\"",
+    "url": "https://en.wikipedia.org/wiki/Babymetal",
+    "pass": 3
+   },
+   {
+    "quote": "Circa Metals is both a contract manufacturer for leading companies and a manufacturer of electrical and communications equipment enclosures. The company acquired two Prima Power punch presses with the intention of streamlining operations and…",
+    "url": "https://www.mate.com/fabrication-solutions/sheet-metal-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "A global manufacturer of hydraulic and mechanical equipment serving a wide array of industries wanted to reduce the amount of time…",
+    "url": "https://www.mate.com/fabrication-solutions/sheet-metal-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://www.tmcoinc.com/blog/case-study-successful-projects-by-leading-custom-metal-fabricators/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.tmcoinc.com/blog/case-study-successful-projects-by-leading-custom-metal-fabricators/",
+    "pass": 3
+   },
+   {
+    "quote": "TXM Lean Case Study – Lean Production System Enables Manufacturer to Double Revenue",
+    "url": "https://txm.com/case-studies/industry/metal-processing/",
+    "pass": 3
+   },
+   {
+    "quote": "TXM helped this truck parts manufacturer double revenue after the 2008 GFC. Read how a Lean Production System was implem…",
+    "url": "https://txm.com/case-studies/industry/metal-processing/",
+    "pass": 3
+   },
+   {
+    "quote": "THE CHALLENGE Following the Post-Glover acquisition in 2009 half of the business was relocated to a new site. The resist…",
+    "url": "https://txm.com/case-studies/industry/metal-processing/",
+    "pass": 3
+   },
+   {
+    "quote": "Metal Funding, Revenue & Investors — $4.5M+ Raised (2026) | ToolJunction",
+    "url": "https://www.tooljunction.io/ai-tools/metal-so/company",
+    "pass": 3
+   },
+   {
+    "quote": "Metal Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/metal-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Metal",
+    "url": "https://prospeo.io/c/metal-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/metal-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/metal-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/metal-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Metal?",
+    "url": "https://prospeo.io/c/metal-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Metal generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/metal-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/metal-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/metal-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Metal have?",
+    "url": "https://prospeo.io/c/metal-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/metal-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "From here on, we will dive into specific techniques for creating authentic-sounding nu metal tracks in DTM. By mastering four key elements—guitar, drums, arrangement, and production—you can effectively recreate the nu metal sound.",
+    "url": "https://note.com/soundwitches/n/n3358b0301c35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Song Structure (Arrangement)",
+    "url": "https://note.com/soundwitches/n/n3358b0301c35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "To suppress the \"muffled\" quality of the distortion, it is effective to lightly dip the 250–400Hz range and cut the fuzz components in the 4–8kHz range with a narrow bandwidth.",
+    "url": "https://note.com/soundwitches/n/n3358b0301c35?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Your firm already holds the data across files, CRM, email and data rooms, each written its own way.",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Metal reads your files, data rooms, CRM and email where they live. One company, three names, four versions of ARR. That’s where the work begins.",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The banker’s email says Halden Corp. Your CRM says HALDEN INDS. The CIM says Halden Inc. Metal recognizes all three as one company and brings every file, note and figure onto a single deal record.",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Companies, people, deals and funds matched across CRM, files and email.",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Metal Meets Your Team Where It Works: Email, Slack, and Teams",
+    "url": "https://www.metal.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "TICK TO RECEIVE OUR QUARTERLY NEWSLETTER AND OCCASIONAL EMAILS.",
+    "url": "https://www.jcmetalworks.co.uk/metal-manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/metal-revenue",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Metal Gathering Tour Live in Japan 2010 — Grokipedia",
+    "url": "https://grokipedia.com/page/metal_gathering_tour_live_in_japan_2010",
+    "pass": 3
+   },
+   {
+    "quote": "Metal Gathering Tour Live in Japan 2010",
+    "url": "https://grokipedia.com/page/metal_gathering_tour_live_in_japan_2010",
+    "pass": 3
+   },
+   {
+    "quote": "The video from the 2010 Japan tour provides fans a 124-minute document of the concert.",
+    "url": "https://grokipedia.com/page/metal_gathering_tour_live_in_japan_2010",
+    "pass": 3
+   },
+   {
+    "quote": "The first DVD presents the main concert footage, including 20 tracks such as \"The Trooper,\" \"Hallowed Be Thy Name,\" \"Run to the Hills,\" and \"The Number of the Beast,\" performed with precision and enthusiasm to an enthusiastic Japanese audience.",
+    "url": "https://grokipedia.com/page/metal_gathering_tour_live_in_japan_2010",
+    "pass": 3
+   },
+   {
+    "quote": "The second disc offers additional value through encore performances like \"Wasted Years\" from Osaka and \"Moonchild\" from Nagoya, an interview segment, and a behind-the-scenes feature titled \"Tomei Highway,\" offering insights into the tour's logistics and camaraderie.",
+    "url": "https://grokipedia.com/page/metal_gathering_tour_live_in_japan_2010",
+    "pass": 3
+   },
+   {
+    "quote": "The band's 2010 Japan tour represented a key milestone in their international reach.",
+    "url": "https://grokipedia.com/page/metal_gathering_tour_live_in_japan_2010",
+    "pass": 3
+   },
+   {
+    "quote": "The Metal Gathering Tour was announced in December 2009 as a promotional venture highlighting The Iron Maidens' tribute to Iron Maiden, capitalizing on the British band's longstanding popularity in Japan, where Iron Maiden had previously drawn massive crowds and released their seminal live album",
+    "url": "https://grokipedia.com/page/metal_gathering_tour_live_in_japan_2010",
+    "pass": 3
+   },
+   {
+    "quote": "The tour itinerary consisted of five shows from January 25 to 31, 2010, all at Club Holiday venues: three performances in Tokyo's Shinjuku district on January 25, 26, and 31; one in Osaka on January 28; and one in Nagoya on January 29.",
+    "url": "https://grokipedia.com/page/metal_gathering_tour_live_in_japan_2010",
+    "pass": 3
+   },
+   {
+    "quote": "Each concert, held in intimate spaces accommodating 300 to 600 attendees, sold out rapidly, reflecting intense demand from Japanese audiences who sang along to every lyric with fervor, creating an electric atmosphere akin to Iron Maiden's historic live recordings.",
+    "url": "https://grokipedia.com/page/metal_gathering_tour_live_in_japan_2010",
+    "pass": 3
+   },
+   {
+    "quote": "The Japanese metal scene embraced the band through tie-ins like opening acts from local group Destrose and an offstage collaboration dinner with guitarist Marty Friedman, formerly of Megadeth, underscoring cultural exchanges within the genre.",
+    "url": "https://grokipedia.com/page/metal_gathering_tour_live_in_japan_2010",
+    "pass": 3
+   },
+   {
+    "quote": "This tour held broader significance as a bridge between The Iron Maidens' homage to Iron Maiden and Japan's reverent heavy metal culture, where fans treated the performers with exceptional respect and hospitality, including traditions like heated toilet seats and abundant cuisine—experiences the band described as \"like Thanksgiving every day.\"",
+    "url": "https://grokipedia.com/page/metal_gathering_tour_live_in_japan_2010",
+    "pass": 3
+   },
+   {
+    "quote": "The sold-out success not only boosted the band's visibility but also led to the filming of these shows for a Japan-exclusive live DVD, capturing the unique energy of their Asian debut.",
+    "url": "https://grokipedia.com/page/metal_gathering_tour_live_in_japan_2010",
+    "pass": 3
+   },
+   {
+    "quote": "were captured during The Iron Maidens' five-date tour from January 25 to January 31, 2010, at Club Holiday venues in Tokyo-Shinjuku, Osaka, and Nagoya, with all shows filmed for the release.",
+    "url": "https://grokipedia.com/page/metal_gathering_tour_live_in_japan_2010",
+    "pass": 3
+   },
+   {
+    "quote": "These club shows attracted audiences of approximately 450 per night at the Shinjuku venue, fostering an intimate and electric atmosphere among dedicated Japanese heavy metal fans known for their fervent support of tribute acts.",
+    "url": "https://grokipedia.com/page/metal_gathering_tour_live_in_japan_2010",
+    "pass": 3
+   },
+   {
+    "quote": "captured live performances by The Iron Maidens during their January 2010 tour in Japan, resulting in a two-disc DVD set released exclusively in that market.",
+    "url": "https://grokipedia.com/page/metal_gathering_tour_live_in_japan_2010",
+    "pass": 3
+   },
+   {
+    "quote": "was released on August 29, 2010, exclusively in Japan as a two-disc DVD set in NTSC format with stereo audio. Issued by XLR Entertainment under catalog number YZXL-8001, the physical release featured multi-camera pro-shot footage of the band's performances.",
+    "url": "https://grokipedia.com/page/metal_gathering_tour_live_in_japan_2010",
+    "pass": 3
+   },
+   {
+    "quote": "Announcements were shared via the band's official website and metal news outlets, detailing the filming of all five tour dates in January 2010 across Tokyo, Osaka, and Nagoya.",
+    "url": "https://grokipedia.com/page/metal_gathering_tour_live_in_japan_2010",
+    "pass": 3
+   },
+   {
+    "quote": "The release targeted Iron Maiden fans, leveraging the original band's strong cult following in Japan.",
+    "url": "https://grokipedia.com/page/metal_gathering_tour_live_in_japan_2010",
+    "pass": 3
+   },
+   {
+    "quote": "The packaging featured a two-disc DVD set in NTSC format with stereo audio, housed in a standard case and distributed exclusively in Japan by XLR Entertainment on August 29, 2010.",
+    "url": "https://grokipedia.com/page/metal_gathering_tour_live_in_japan_2010",
+    "pass": 3
+   },
+   {
+    "quote": "Wasted Years (encore from Holiday Osaka show; from",
+    "url": "https://grokipedia.com/page/metal_gathering_tour_live_in_japan_2010",
+    "pass": 3
+   },
+   {
+    "quote": "consisted of the following members of The Iron Maidens, reflecting the band's lineup during their January 2010 performances in Japan:",
+    "url": "https://grokipedia.com/page/metal_gathering_tour_live_in_japan_2010",
+    "pass": 3
+   },
+   {
+    "quote": "was issued as a limited edition 2-DVD set exclusive to the Japanese market on August 29, 2010, by XLR Entertainment, with no widespread international distribution beyond imports.",
+    "url": "https://grokipedia.com/page/metal_gathering_tour_live_in_japan_2010",
+    "pass": 3
+   },
+   {
+    "quote": "discogs.com/release/7945564-The-Iron-Maidens-Metal-Gathering-Tour-Live-In-Japan-2010",
+    "url": "https://grokipedia.com/page/metal_gathering_tour_live_in_japan_2010",
+    "pass": 3
+   },
+   {
+    "quote": "bandtoband.com/album/the-iron-maidens/metal-gathering-tour-live-in-japan-2010",
+    "url": "https://grokipedia.com/page/metal_gathering_tour_live_in_japan_2010",
+    "pass": 3
+   },
+   {
+    "quote": "ultimatemetal.com/threads/the-iron-maidens-announce-five-live-dates-for-japan-playing-annual-christmas-show-in.551185/",
+    "url": "https://grokipedia.com/page/metal_gathering_tour_live_in_japan_2010",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese metal - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Japanese_metal",
+    "pass": 3
+   },
+   {
+    "quote": "Metal music from Japan",
+    "url": "https://en.wikipedia.org/wiki/Japanese_metal",
+    "pass": 3
+   },
+   {
+    "quote": "& the Flowers,\" Japan's",
+    "url": "https://en.wikipedia.org/wiki/Japanese_metal",
+    "pass": 3
+   },
+   {
+    "quote": "Another 1971 Japanese album that has been described as proto-metal, is",
+    "url": "https://en.wikipedia.org/wiki/Japanese_metal",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese heavy metal bands started emerging in the late 1970s, pioneered by",
+    "url": "https://en.wikipedia.org/wiki/Japanese_metal",
+    "pass": 3
+   },
+   {
+    "quote": "on their Japanese tours.",
+    "url": "https://en.wikipedia.org/wiki/Japanese_metal",
+    "pass": 3
+   },
+   {
+    "quote": "In the 1980s, a plethora of Japanese heavy metal bands formed.",
+    "url": "https://en.wikipedia.org/wiki/Japanese_metal",
+    "pass": 3
+   },
+   {
+    "quote": ", Loudness became the first Japanese metal act signed to a major label in the United States.",
+    "url": "https://en.wikipedia.org/wiki/Japanese_metal",
+    "pass": 3
+   },
+   {
+    "quote": "and made them the first Japanese metal band to sell 100,000 copies.",
+    "url": "https://en.wikipedia.org/wiki/Japanese_metal",
+    "pass": 3
+   },
+   {
+    "quote": "made them the first Japanese metal band to reach number one on the chart.",
+    "url": "https://en.wikipedia.org/wiki/Japanese_metal",
+    "pass": 3
+   },
+   {
+    "quote": "In April 1989, X Japan's second album",
+    "url": "https://en.wikipedia.org/wiki/Japanese_metal",
+    "pass": 3
+   },
+   {
+    "quote": "(1996), before disbanding in 1997. X Japan actually signed an American record deal with",
+    "url": "https://en.wikipedia.org/wiki/Japanese_metal",
+    "pass": 3
+   },
+   {
+    "quote": "rock festival, featuring strictly all-female Japanese musicians and bands.",
+    "url": "https://en.wikipedia.org/wiki/Japanese_metal",
+    "pass": 3
+   },
+   {
+    "quote": "The 1980s also saw Japan's first",
+    "url": "https://en.wikipedia.org/wiki/Japanese_metal",
+    "pass": 3
+   },
+   {
+    "quote": ", who were active throughout the 1990s, and their innate melodic sensibility for helping hard rock and heavy metal music penetrate the Japanese mainstream.",
+    "url": "https://en.wikipedia.org/wiki/Japanese_metal",
+    "pass": 3
+   },
+   {
+    "quote": ", both of whom have gained exposure outside Japan, formed in the 1990s. Bands with influence from",
+    "url": "https://en.wikipedia.org/wiki/Japanese_metal",
+    "pass": 3
+   },
+   {
+    "quote": "(1999). The late 1990s and early to mid-2000s saw many veteran acts reunite with classic line-ups; Lazy (1998), Bow Wow (1998), Earthshaker (1999), Loudness (2001), 44Magnum (2002), Show-Ya (2005) and X Japan (2007).",
+    "url": "https://en.wikipedia.org/wiki/Japanese_metal",
+    "pass": 3
+   },
+   {
+    "quote": "In 2007, X Japan drummer",
+    "url": "https://en.wikipedia.org/wiki/Japanese_metal",
+    "pass": 3
+   },
+   {
+    "quote": ", discussing the metal scene in Japan. The 2008",
+    "url": "https://en.wikipedia.org/wiki/Japanese_metal",
+    "pass": 3
+   },
+   {
+    "quote": ", becoming the first Japanese act to headline the venue, and their album",
+    "url": "https://en.wikipedia.org/wiki/Japanese_metal",
+    "pass": 3
+   },
+   {
+    "quote": "reached number 15 on the UK Albums Chart, marking the highest ever entry by a Japanese act.",
+    "url": "https://en.wikipedia.org/wiki/Japanese_metal",
+    "pass": 3
+   },
+   {
+    "quote": "for Best New Band and became the first Japanese all-female heavy metal band to perform at Germany's",
+    "url": "https://en.wikipedia.org/wiki/Japanese_metal",
+    "pass": 3
+   },
+   {
+    "quote": "in London hosted Metal Matsuri, the first all-Japanese heavy metal festival outside Japan. Headlined by",
+    "url": "https://en.wikipedia.org/wiki/Japanese_metal",
+    "pass": 3
+   },
+   {
+    "quote": "by British-based Japanese solo act",
+    "url": "https://en.wikipedia.org/wiki/Japanese_metal",
+    "pass": 3
+   },
+   {
+    "quote": "became the first Japanese band to win Wacken Open Air's",
+    "url": "https://en.wikipedia.org/wiki/Japanese_metal",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese kawaii metal band",
+    "url": "https://en.wikipedia.org/wiki/Babymetal",
+    "pass": 3
+   },
+   {
+    "quote": "This article is about the Japanese band. For the album, see",
+    "url": "https://en.wikipedia.org/wiki/Babymetal",
+    "pass": 3
+   },
+   {
+    "quote": ", Japan",
+    "url": "https://en.wikipedia.org/wiki/Babymetal",
+    "pass": 3
+   },
+   {
+    "quote": ", is a Japanese",
+    "url": "https://en.wikipedia.org/wiki/Babymetal",
+    "pass": 3
+   },
+   {
+    "quote": "culture, including elaborate choreography. Initially a sub-unit of the Japanese idol group",
+    "url": "https://en.wikipedia.org/wiki/Babymetal",
+    "pass": 3
+   },
+   {
+    "quote": ", and the Japanese pronunciation rhymes with \"heavy metal\".",
+    "url": "https://en.wikipedia.org/wiki/Babymetal",
+    "pass": 3
+   },
+   {
+    "quote": "In August 2012, Babymetal performed at Japan's",
+    "url": "https://en.wikipedia.org/wiki/Babymetal",
+    "pass": 3
+   },
+   {
+    "quote": "The same year, Babymetal performed outside of Japan for the first time at the 2012",
+    "url": "https://en.wikipedia.org/wiki/Babymetal",
+    "pass": 3
+   },
+   {
+    "quote": ", Japan.",
+    "url": "https://en.wikipedia.org/wiki/Babymetal",
+    "pass": 3
+   },
+   {
+    "quote": "In November, Babymetal released a promo video for the Japanese premiere of",
+    "url": "https://en.wikipedia.org/wiki/Babymetal",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Metal Gathering Tour Live in Japan 2010 — Metal Gathering Tour Live in Japan 2010 is a live concert video release by The Iron Maidens, an all-female tribute band dedicated to performing the music of the British heavy metal group Iron Maiden. Recorded during the band's tour performances in J…",
+    "url": "https://grokipedia.com/page/metal_gathering_tour_live_in_japan_2010",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese metal - Wikipedia — Japanese metal (Japanese: ジャパニーズ・メタル, Hepburn: Japanīzu metaru) is heavy metal music from Japan. The country's first metal bands formed in the mid-to-late 1970s.",
+    "url": "https://en.wikipedia.org/wiki/Japanese_metal",
+    "pass": 3
+   },
+   {
+    "quote": "Babymetal - Wikipedia — In 2009, the band's producer and heavy metal enthusiast Kobametal started planning the launch of a \"metal dance unit\" that would fuse heavy metal with Japanese idol culture, including elaborate choreography.",
+    "url": "https://en.wikipedia.org/wiki/Babymetal",
+    "pass": 3
+   },
+   {
+    "quote": "METAL JAPAN | [Held inside] Highly-functional Material Week — METAL JAPAN is the leading metal industry expo that gathers all kinds of technologies related to high-performance metals such as aluminium, copper, titanium, magnesium, precious metals, steel, and other metal materials.",
+    "url": "https://www.material-expo.jp/hub/en-gb/about/metal.html",
+    "pass": 3
+   },
+   {
+    "quote": "FULL METAL JAPAN 2026 — The special “FULL METAL” experience, previously held aboard luxury cruise ships and at resort hotels around the world, now arrives in Japan for the first time as an indoor festival experience.",
+    "url": "https://fullmetaljapan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies | Precision Manufacturing & Metal Work — See how we turn customer briefs into finished metal products, from secure kiosks and equipment lockers to HVAC components and retail displays.",
+    "url": "https://www.jcmetalworks.co.uk/metal-manufacturing-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Sheet Metal Case Studies - Mate Precision Technologies — See how Mate Precision Technologies works with our customers around the world to overcome complex fabrication challenges, increase efficiency and bring visions to life. Mate’s latest case study features another great example of how to increase throughput and reduce labor costs.",
+    "url": "https://www.mate.com/fabrication-solutions/sheet-metal-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Work by Leading Custom Metal Fabricators | TMCO — See real project examples from leading custom metal fabricators. Learn how expertise, technology, and engineering collaboration drive successful manufacturing outcomes.",
+    "url": "https://www.tmcoinc.com/blog/case-study-successful-projects-by-leading-custom-metal-fabricators/",
+    "pass": 3
+   },
+   {
+    "quote": "Metal Processing Industry Lean Manufacturing Case Studies — Read and Watch Metal Processing Industry Lean Manufacturing Case Studies provided by our experienced Lean Consultants at TXM Lean Solutions.",
+    "url": "https://txm.com/case-studies/industry/metal-processing/",
+    "pass": 3
+   },
+   {
+    "quote": "Metal Fabrication Case Studies & Success Stories | Wolf Metals — Discover real-world examples of successful custom metal fabrication projects by Wolf Metals. Our case studies showcase our ability to solve complex challenges.",
+    "url": "https://www.wolfmetals.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Metal – Estimated Net Worth, Growth & Competitor Overview – 2026 — Discover Metal's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/metal",
+    "pass": 3
+   },
+   {
+    "quote": "Metal Funding, Revenue & Investors — $4.5M+ Raised (2026 ... — How much funding has Metal raised? Metal has raised $4.5M+ and is at the Seed stage. Investors include a16z speedrun, Y Combinator, Pioneer Fund, Rebel Fund.",
+    "url": "https://www.tooljunction.io/ai-tools/metal-so/company",
+    "pass": 3
+   },
+   {
+    "quote": "Metal 2026 Company Profile: Valuation, Funding & Investors ... — Information on valuation, funding, cap tables, investors, and executives for Metal. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/518338-99",
+    "pass": 3
+   },
+   {
+    "quote": "Metal Revenue, Funding & ValuationMetal (Financial Software) 2026 Company Profile: Valuation ...Metal - 2026 Company Profile, Team, Funding & Competitors ...MetalX – Revenue, Valuation & Top Competitors – 2026 — Metal is a multidisciplinary branding design firm actively involved in all areas of print communications, corporate branding, annual reports, all facets of web based communications, as wel",
+    "url": "https://prospeo.io/c/metal-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Metal (Financial Software) 2026 Company Profile: Valuation ... — Oct 5, 2026 · Information on valuation, funding, cap tables, investors, and executives for Metal (Financial Software). Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/1495353-25",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Custom Industrial Equipment Manufacturing: An OEM Guide",
+    "url": "https://www.tmcoinc.com/blog/case-study-successful-projects-by-leading-custom-metal-fabricators/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Supply Chain Strategy in 2026: Six Priorities for Resilience and Speed",
+    "url": "https://www.tmcoinc.com/blog/case-study-successful-projects-by-leading-custom-metal-fabricators/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM supply chain strategy in 2026 requires more than lower prices or fewer suppliers. Learn how total-cost analysis, selective consolidation, regional sourcing, reliable data, supplier-risk planning, and early engineering collaboration can improve resilience without creating new concentration risks.",
+    "url": "https://www.tmcoinc.com/blog/case-study-successful-projects-by-leading-custom-metal-fabricators/",
+    "pass": 3
+   },
+   {
+    "quote": "OEM Procurement Strategy: How to Cut Supplier Risk and Improve Production Outcomes",
+    "url": "https://www.tmcoinc.com/blog/case-study-successful-projects-by-leading-custom-metal-fabricators/",
+    "pass": 3
+   },
+   {
+    "quote": "A strong OEM procurement strategy does more than reduce purchase prices. It lowers supplier risk, improves production consistency, and builds a supply chain that continues performing when disruptions occur.",
+    "url": "https://www.tmcoinc.com/blog/case-study-successful-projects-by-leading-custom-metal-fabricators/",
+    "pass": 3
+   },
+   {
+    "quote": "Aluminum Fabrication Services: What OEMs Should Demand From Their Fabrication Partner",
+    "url": "https://www.tmcoinc.com/blog/case-study-successful-projects-by-leading-custom-metal-fabricators/",
+    "pass": 3
+   },
+   {
+    "quote": "Aluminum fabrication services can vary significantly in material knowledge, production capabilities, and quality consistency. Learn what OEMs should demand from a fabrication partner before committing to production.",
+    "url": "https://www.tmcoinc.com/blog/case-study-successful-projects-by-leading-custom-metal-fabricators/",
+    "pass": 3
+   },
+   {
+    "quote": "How to Choose a Turnkey Manufacturer for Complex OEM Production",
+    "url": "https://www.tmcoinc.com/blog/case-study-successful-projects-by-leading-custom-metal-fabricators/",
+    "pass": 3
+   },
+   {
+    "quote": "Choosing a turnkey manufacturer for complex OEM production requires more than comparing quotes. Learn which criteria separate reliable production partners from manufacturers that may create problems as your program grows.",
+    "url": "https://www.tmcoinc.com/blog/case-study-successful-projects-by-leading-custom-metal-fabricators/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "The History of Heavy Metal Part 4: The Late 70s, Evolving ... The Rock & Roll Hall of Fame also recognizes their twin guitars, riffs, and Halford's high-pitched vocals as the elements that created the template for later heavy metal.",
+    "url": "https://note.com/metal_university/n/n91d01f5f574f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Exploring the Origins of Metal Band Names: Part 4 Metalcore ... Feb 15, 2026 · The band name \"Trivium\" means \"the place where three roads meet\" in Latin, and as the name suggests, it was named with the intention of being a crossroads for three musical elements: thrash metal, melodic death metal, and hardcore.",
+    "url": "https://note.com/metal_university/n/nc69f2ff93ef2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "metalの人気・新着記事まとめ｜note AppleのMetal APIやApple Siliconを活用した、高度なグラフィックスとAI推論の技術が注目されています。ローカルLLMの高速化手法や、最新チップの性能検証、開発環境の構築に関する記事が集まっています。",
+    "url": "https://note.com/tag/metal",
+    "pass": 3
+   },
+   {
+    "quote": "[Music Genre] What is Nu Metal? A Complete Guide to Its ... Jul 10, 2026 · Nu Metal is a rock subgenre that emerged in the mid-1990s in the United States, blending rap, metal, and hip-hop grooves into one. Over heavy, down-tuned guitar riffs, rap, singing, and screaming alternate rapidly.",
+    "url": "https://note.com/soundwitches/n/n3358b0301c35?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "The History of Heavy Metal Part 4: The Late 70s, Evolving from Hard Rock to Heavy Metal｜メタル大学",
+    "url": "https://note.com/metal_university/n/n91d01f5f574f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/metal_university/n/n91d01f5f574f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The History of Heavy Metal Part 4: The Late 70s, Evolving from Hard Rock to Heavy Metal",
+    "url": "https://note.com/metal_university/n/n91d01f5f574f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the late 1970s, the landscape surrounding British rock was changing significantly. While the era of hard rock built by bands like Black Sabbath, Deep Purple, and Led Zeppelin continued, punk bands such as the Sex Pistols, The Clash, and The Damned were rapidly gaining momentum in London, introducing short, fast, and raw music as a new set of values. During that era, it was Judas Priest and Motö",
+    "url": "https://note.com/metal_university/n/n91d01f5f574f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Judas Priest—The Birth of the Metal Gods",
+    "url": "https://note.com/metal_university/n/n91d01f5f574f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Judas Priest - Exciter",
+    "url": "https://note.com/metal_university/n/n91d01f5f574f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Judas Priest was formed in the West Midlands, England, in 1969. After several lineup changes, Rob Halford joined in 1973, followed by Glenn Tipton in 1974, establishing the twin-guitar system with K.K. Downing. They released their debut album, \"Rocka Rolla,\" that same year, but at this point, it was heavily influenced by blues rock and progressive rock, differing significantly from the style Judas",
+    "url": "https://note.com/metal_university/n/n91d01f5f574f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For 1977's \"Sin After Sin,\" they left Gull Records to sign with CBS, which significantly changed their production environment. They brought in Deep Purple's Roger Glover as producer. In addition to tracks like \"Sinner,\" \"Diamonds and Rust,\" and \"Starbreaker,\" the final track on the album, \"Dissident Aggressor,\" pushed intense riffs and Halford's high-pitched vocals to the forefront. Slayer later c",
+    "url": "https://note.com/metal_university/n/n91d01f5f574f?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Exploring the Origins of Metal Band Names: Part 4 Metalcore Edition｜メタル大学",
+    "url": "https://note.com/metal_university/n/nc69f2ff93ef2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/metal_university/n/nc69f2ff93ef2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Exploring the Origins of Metal Band Names: Part 4 Metalcore Edition",
+    "url": "https://note.com/metal_university/n/nc69f2ff93ef2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Since the rise of the metalcore genre, its sound, which combines extremity with lyricism, has garnered an enthusiastic following. When looking at the background of these band names, one finds truly diverse and interesting episodes hidden within. From those derived from literary works and local place names to those born from deep philosophy or humor, band names often serve as a mirror reflecting th",
+    "url": "https://note.com/metal_university/n/nc69f2ff93ef2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A metalcore band from Massachusetts, USA, formed in 1999. They led the metalcore boom in the early 2000s and achieved success, with their albums earning gold record status in the US. The band name is derived from an episode of the American TV drama \"The X-Files\" titled \"Kill Switch,\" and it carries the meaning of a \"restart\"—fitting for a new band formed after the dissolution of their previous one",
+    "url": "https://note.com/metal_university/n/nc69f2ff93ef2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A metalcore band from California, USA, formed in 2000. They have frequently charted in the US and become a representative presence in metalcore, but their band name is derived from American literature. The inspiration for the name was William Faulkner's novel \"As I Lay Dying.\" The members were drawn to the deep tragedy of the title and chose this name as it resonated with the band's intense and me",
+    "url": "https://note.com/metal_university/n/nc69f2ff93ef2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A band from Byron Bay, Australia, formed in 2003. They boast global popularity, not just in their native Australia, and have leaped to the center of modern metalcore. Surprisingly, the band name is named after the members' hometown. It is derived from the name of the street where the members had their practice space when they first formed, and it was named \"Parkway Drive\" out of love for their loc",
+    "url": "https://note.com/metal_university/n/nc69f2ff93ef2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A band from Florida, USA, formed in 2000. They achieved international success by fusing diverse elements from thrash metal to metalcore. The band name \"Trivium\" means \"the place where three roads meet\" in Latin, and as the name suggests, it was named with the intention of being a crossroads for three musical elements: thrash metal, melodic death metal, and hardcore. Derived from a term also known ",
+    "url": "https://note.com/metal_university/n/nc69f2ff93ef2?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "metalの人気・新着記事まとめ｜note",
+    "url": "https://note.com/tag/metal",
+    "pass": 3
+   },
+   {
+    "quote": "AppleのMetal APIやApple Siliconを活用した、高度なグラフィックスとAI推論の技術が注目されています。",
+    "url": "https://note.com/tag/metal",
+    "pass": 3
+   },
+   {
+    "quote": "ローカルLLMの高速化手法や、最新チップの性能検証、開発環境の構築に関する記事が集まっています。",
+    "url": "https://note.com/tag/metal",
+    "pass": 3
+   },
+   {
+    "quote": "AppleのMetal APIやApple Siliconを活用した、高度なグラフィックスとAI推論の技…",
+    "url": "https://note.com/tag/metal",
+    "pass": 3
+   },
+   {
+    "quote": "8GBのMacで26Bモデルを動かす：TurboFieldfareが変えるローカルLLMの常識とwiftとMetalで書かれた裏の仕組み",
+    "url": "https://note.com/tag/metal",
+    "pass": 3
+   },
+   {
+    "quote": "ゆいまる‐IT界隈以外でAIを使いまくる2005年生まれ",
+    "url": "https://note.com/tag/metal",
+    "pass": 3
+   },
+   {
+    "quote": "Aporathについて ― 独白 -DOKUHAKU-",
+    "url": "https://note.com/tag/metal",
+    "pass": 3
+   },
+   {
+    "quote": "[Music Genre] What is Nu Metal? A Complete Guide to Its Characteristics, History, and Recommended Songs｜soundwitches｜ボカロP・DTM初心者向け",
+    "url": "https://note.com/soundwitches/n/n3358b0301c35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/soundwitches/n/n3358b0301c35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Music Genre] What is Nu Metal? A Complete Guide to Its Characteristics, History, and Recommended Songs",
+    "url": "https://note.com/soundwitches/n/n3358b0301c35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "soundwitches｜ボカロP・DTM初心者向け",
+    "url": "https://note.com/soundwitches/n/n3358b0301c35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Nu Metal is a rock subgenre that emerged in the mid-1990s in the United States, blending rap, metal, and hip-hop grooves into one. Over heavy, down-tuned guitar riffs, rap, singing, and screaming alternate rapidly. This \"freedom to cross genres\" reshaped the global rock scene from the late 90s to the early 2000s.",
+    "url": "https://note.com/soundwitches/n/n3358b0301c35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Many people might think, \"I know the name Nu Metal, but how is it different from regular metal?\" In this article, we will provide a complete guide, from the musical characteristics of Nu Metal and the background of its birth, to essential representative songs, and even specific techniques for reproducing that \"groove that resonates from the depths of the earth\" using DTM. Now that it is being re-e",
+    "url": "https://note.com/soundwitches/n/n3358b0301c35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What is Nu Metal? Let's understand the basics of the genre",
+    "url": "https://note.com/soundwitches/n/n3358b0301c35?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Definition and characteristics of Nu Metal",
+    "url": "https://note.com/soundwitches/n/n3358b0301c35?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "METAL SLUG (@METALSLUG_EN) / X Celebrating 30 years of METAL SLUG! 🎉 METAL SLUG ULTIMATE COLLECTION is coming in 2027! Fun beyond the front lines! 💥 It features an extensive gallery/museum mode packed with title logos, visual materials, and more from across the series' history.",
+    "url": "https://x.com/MetalSlug_EN",
+    "pass": 3
+   },
+   {
+    "quote": "Metal (@metal__ai) / X Metal now lets private-capital teams create and edit live dashboard widgets in chat. Turn a question into a list, chart, or map tied to connected company, deal, and activity context, then keep using the view as the data changes.",
+    "url": "https://x.com/metal__ai",
+    "pass": 3
+   },
+   {
+    "quote": "THIS DAY IN METAL (@ThisDayInMETAL) / X This Day In Metal provides a comprehensive overview of the latest news, interviews, album reviews, and features within the metal music scene. 🇨🇦🤘🏻⚡️🎸🥁",
+    "url": "https://x.com/ThisDayInMETAL",
+    "pass": 3
+   },
+   {
+    "quote": "Metal Church (@metalchurchis1) / X Oct 9, 2012 · Guitar tutorials, video chats, vinyl records, mixing & mastering, behind the scenes insights & info into upcoming Metal Church, Hall Aflame and Presto Ballet releases...and much more!",
+    "url": "https://x.com/metalchurchis1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Metal - LinkedIn From investor discovery and relationship mapping to our in-app fundraising copilot that can guide round collateral and strategy, Metal brings deep intelligence to all the core workflows involved...",
+    "url": "https://www.linkedin.com/company/raisewithmetal",
+    "pass": 3
+   },
+   {
+    "quote": "Metal - LinkedIn Metal is the context layer for private equity and private credit firms. We turn everything your firm has touched, every deal, company, and decision, into one context graph that powers the AI...",
+    "url": "https://www.linkedin.com/company/getmetal",
+    "pass": 3
+   },
+   {
+    "quote": "Metal Supermarkets - LinkedIn We are passionate about our customers, products, service, and franchisees. Metal Supermarkets is a dependable business model, a trusted international brand name and a lucrative franchise...",
+    "url": "https://ca.linkedin.com/company/metal-supermarkets-franchising-group",
+    "pass": 3
+   },
+   {
+    "quote": "POWERSON METAL - XUZHOU POWERSON METAL TECHNOLOGY CO.,LTD ...Hadco Metal Trading Co.,LLC - LinkedInKen Rutkowski - International Speaker | Super Connector ...London Metal Exchange | LinkedIn Xuzhou Powerson Metal Technology Co., Ltd located in Xuzhou, Jiangsu Province, China.It is well-located and easy of access with a ascendant geographical location and convenient transportation. Powerson main pr",
+    "url": "https://cn.linkedin.com/in/powerson-metal",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Fire & Metal | San Jose CA - Facebook 2 days ago · Fire & Metal, San Jose. 395 followers · 21 talking about this. Fire & Metal, formerly Sparkle Grill Cleaning, is the premier outdoor kitchen design and...",
+    "url": "https://www.facebook.com/firemetalco/",
+    "pass": 3
+   },
+   {
+    "quote": "The Metal Voice - FacebookNew and used Scrap Metal for sale | Facebook Marketplace ...Meta for Business (formerly Facebook for Business)Industrial Metal Service | San Jose CA - FacebookKeep Metal - FacebookMetal Underground - Facebook 1 day ago · The Metal Voice. 123,634 followers · 11,409 talking about this · 80 were here. Metal Reviews, Interviews Reviews & Debates Support PayPal.Me/themetalvoic",
+    "url": "https://www.facebook.com/themetalvoice/",
+    "pass": 3
+   },
+   {
+    "quote": "New and used Scrap Metal for sale | Facebook Marketplace ... New and used Scrap Metal for sale near you on Facebook Marketplace. Find great deals or sell your items for free.",
+    "url": "https://l.facebook.com/marketplace/category/scrap-metal/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Metal Service | San Jose CA - FacebookKeep Metal - FacebookMetal Underground - Facebook 6 days ago · Something big is taking shape at Industrial Metal Service. We’ve been preparing for another workhorse to add to our operation… This will help us increase capacity, improve efficiency, and continuous, delivering precision, cut material with the fast turnaround our customers expect. Oct 22",
+    "url": "https://www.facebook.com/industrialmetalservice/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.metal.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal.ai/blog/how-berkshire-partners-collaborative-approach-led-to-ai-adoption",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal.ai/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal.ai/solutions/technical-teams",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.metal.ai/book-a-demo",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eikaiwa.dmm.com/uknow/questions/65573/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mtlo.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://grokipedia.com/page/metal_gathering_tour_live_in_japan_2010",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Japanese_metal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Babymetal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.material-expo.jp/hub/en-gb/about/metal.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jcmetalworks.co.uk/metal-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mate.com/fabrication-solutions/sheet-metal-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tmcoinc.com/blog/case-study-successful-projects-by-leading-custom-metal-fabricators/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://txm.com/case-studies/industry/metal-processing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/metal",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tooljunction.io/ai-tools/metal-so/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/518338-99",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/metal-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/metal_university/n/n91d01f5f574f?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/metal_university/n/nc69f2ff93ef2?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/metal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/soundwitches/n/n3358b0301c35?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/MetalSlug_EN",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/metal__ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ThisDayInMETAL",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/metalchurchis1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/raisewithmetal",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/getmetal",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/metal-supermarkets-franchising-group",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cn.linkedin.com/in/powerson-metal",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/firemetalco/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/themetalvoice/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://l.facebook.com/marketplace/category/scrap-metal/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/industrialmetalservice/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Metal 日本 導入",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Metal 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://eikaiwa.dmm.com/uknow/questions/65573/",
+    "https://www.mtlo.co.jp/",
+    "https://metalex.co.jp/",
+    "https://www.toyota-tsusho.com/company/group/metal.html",
+    "https://www.izumi-metal.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Metal Japan",
+   "results": [
+    "https://grokipedia.com/page/metal_gathering_tour_live_in_japan_2010",
+    "https://en.wikipedia.org/wiki/Japanese_metal",
+    "https://en.wikipedia.org/wiki/Babymetal",
+    "https://www.material-expo.jp/hub/en-gb/about/metal.html",
+    "https://fullmetaljapan.com/",
+    "https://www.mtlo.co.jp/en/",
+    "https://www.youtube.com/@FULLMETALJAPANOFFICIAL",
+    "https://metalshout.com/japanese-metal-bands-of-all-time/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Metal manufacturing customer case study",
+   "results": [
+    "https://www.jcmetalworks.co.uk/metal-manufacturing-case-studies/",
+    "https://www.mate.com/fabrication-solutions/sheet-metal-case-studies/",
+    "https://www.tmcoinc.com/blog/case-study-successful-projects-by-leading-custom-metal-fabricators/",
+    "https://txm.com/case-studies/industry/metal-processing/",
+    "https://www.wolfmetals.com/case-studies",
+    "https://txm.com/case-studies/industry/metal-processing/metal-manufacturing/",
+    "https://innoway-metalparts.com/category/engineering-case-studies/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Metal white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://www.seoreseller.com/",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers",
+    "https://www.canva.com/partners/reseller/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Metal founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/metal",
+    "https://www.tooljunction.io/ai-tools/metal-so/company",
+    "https://pitchbook.com/profiles/company/518338-99",
+    "https://prospeo.io/c/metal-revenue",
+    "https://pitchbook.com/profiles/company/1495353-25",
+    "https://tracxn.com/d/companies/metal/__mJ-AL83VDDIS_lQPK-LrqZnGdnHOSHDKlWelLrdx3V4",
+    "https://compworth.com/company/metalx"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Metal",
+   "results": [
+    "https://note.com/metal_university/n/n91d01f5f574f?hl=en",
+    "https://note.com/metal_university/n/nc69f2ff93ef2?hl=en",
+    "https://note.com/tag/metal",
+    "https://note.com/soundwitches/n/n3358b0301c35?hl=en",
+    "https://note.com/go_metal/n/n37b5abdcc35a",
+    "https://tales.note.com/aimaiish_frame08/wjurvkixd9nr5/episodes/ediwpdh2sc2m8",
+    "https://note.com/para7mii/n/n036af9e505b2"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Metal",
+   "results": [
+    "https://x.com/MetalSlug_EN",
+    "https://x.com/metal__ai",
+    "https://x.com/ThisDayInMETAL",
+    "https://x.com/metalchurchis1",
+    "https://x.com/heavymetalink",
+    "https://x.com/metalntwx",
+    "https://money.x.com/en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Metal",
+   "results": [
+    "https://www.linkedin.com/company/raisewithmetal",
+    "https://www.linkedin.com/company/getmetal",
+    "https://ca.linkedin.com/company/metal-supermarkets-franchising-group",
+    "https://cn.linkedin.com/in/powerson-metal",
+    "https://jm.linkedin.com/company/hadco-metal-trading-co.-llc",
+    "https://na.linkedin.com/company/london-metal-exchange",
+    "https://th.linkedin.com/in/kenrutkowski"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Metal",
+   "results": [
+    "https://www.facebook.com/firemetalco/",
+    "https://www.facebook.com/themetalvoice/",
+    "https://l.facebook.com/marketplace/category/scrap-metal/",
+    "https://www.facebook.com/industrialmetalservice/",
+    "https://www.facebook.com/Keeepmetal/",
+    "https://www.facebook.com/metalunderground/",
+    "https://business.facebook.com/home.php/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Metal note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.mtlo.co.jp/en/company/officer/",
+    "https://note.com/metalpharmacy",
+    "https://www.mtlo.co.jp/company/officer/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Metal X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部36頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部36頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部36頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部36頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部36頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部36頁・検索12回）"
+ }
+}

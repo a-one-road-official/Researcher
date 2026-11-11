@@ -1,0 +1,1826 @@
+{
+ "name": "NavVis",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AI送信済み",
+ "researched_at": "2026-11-11T13:28:17.905585+00:00",
+ "official_url": "https://www.navvis.com",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "設立",
+    "value": "設立：2013 年5 月",
+    "url": "https://solutions.kke.co.jp/navvis/news/clx-news-release/",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2013年5月",
+    "url": "https://www.kke.co.jp/release/16048",
+    "pass": 3
+   },
+   {
+    "label": "設立",
+    "value": "設立：2013年5 月",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/NewsRelease_20260908.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "ENTERPRISE SERVICES >",
+    "url": "https://www.navvis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "alongside any surveying devices already in your inventory. For accuracy that exceeds industry standards from any wearable or handheld device, NavVis LX-Series is powered by precision",
+    "url": "https://www.navvis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "that's entirely in a class of its own. Customers use NavVis technology for 90% of their projects.",
+    "url": "https://www.navvis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Process, geo-register, and automatically align scan data from NavVis devices with survey-grade accuracy. Generate photorealistic point clouds and panoramic images seamlessly.",
+    "url": "https://www.navvis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our products and pricing",
+    "url": "https://www.navvis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Improving efficiency with NavVis",
+    "url": "https://www.navvis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Get free downloads of point clouds, models, linework, and more thanks to seamless integration with 3rd party software.",
+    "url": "https://www.navvis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "NAVVIS FALL '26 PRODUCT UPDATE",
+    "url": "https://www.navvis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See NavVis CLX in Action: Extended Product Demo + Live Q&A",
+    "url": "https://www.navvis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ENTERPRISE SERVICES >",
+    "url": "https://www.navvis.com/partners?ptype=Manufacturing+certified",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing certified mapping partners own several NavVis mobile mapping devices, meet stringent quality criteria and are trusted providers of mapping services around the world. They bring a wealth of experience in surveying or 3D reality capture to each project. They are selected and certified by NavVis from among its most experienced users.",
+    "url": "https://www.navvis.com/partners?ptype=Manufacturing+certified",
+    "pass": 1
+   },
+   {
+    "quote": "Solution partners use NavVis software products or APIs to develop and offer innovative services and solutions to customers. Their offerings typically include application development and system integration services, consulting services or standalone solutions for different use cases and industries.",
+    "url": "https://www.navvis.com/partners?ptype=Manufacturing+certified",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers are well-established and trusted companies specializing in survey equipment, hardware and software, for geospatial professionals. They bring NavVis Reality Capture Solution to all corners of the world and, with extensive understanding of local markets and customers, provide tailored advice and support.",
+    "url": "https://www.navvis.com/partners?ptype=Manufacturing+certified",
+    "pass": 1
+   },
+   {
+    "quote": "ENTERPRISE SERVICES >",
+    "url": "https://www.navvis.com/partners?ptype=Reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing certified mapping partners own several NavVis mobile mapping devices, meet stringent quality criteria and are trusted providers of mapping services around the world. They bring a wealth of experience in surveying or 3D reality capture to each project. They are selected and certified by NavVis from among its most experienced users.",
+    "url": "https://www.navvis.com/partners?ptype=Reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Solution partners use NavVis software products or APIs to develop and offer innovative services and solutions to customers. Their offerings typically include application development and system integration services, consulting services or standalone solutions for different use cases and industries.",
+    "url": "https://www.navvis.com/partners?ptype=Reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers are well-established and trusted companies specializing in survey equipment, hardware and software, for geospatial professionals. They bring NavVis Reality Capture Solution to all corners of the world and, with extensive understanding of local markets and customers, provide tailored advice and support.",
+    "url": "https://www.navvis.com/partners?ptype=Reseller",
+    "pass": 1
+   },
+   {
+    "quote": "ENTERPRISE SERVICES >",
+    "url": "https://www.navvis.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Today NavVis combines survey-grade mobile reality capture (VLX, MLX, and CLX) with IVION. Together, they provide a managed, versioned and accessible System of Record, reflecting a facility or work site as it stands today. Every engineering tool and every intelligent system reads from the same source.",
+    "url": "https://www.navvis.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "During his stay at the Stanford University GPS Lab, PhD student Georg Schroth comes up with the idea of a fundamentally new approach to indoor positioning based on computer vision. This topic later became the basis of his research at the Technical University of Munich (TUM).",
+    "url": "https://www.navvis.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "NavVis receives €7.5 million Series B funding. Target Partners and Don Dodge (Developer Evangelist at Google) join as new investors, and MIG Fonds and BayBG increased their previous holdings.",
+    "url": "https://www.navvis.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "2020 - Products and financing",
+    "url": "https://www.navvis.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "2023 - New products & features",
+    "url": "https://www.navvis.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "More than one billion square meters captured, processed and distributed through NavVis in 2025",
+    "url": "https://www.navvis.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Cross-Dataset Alignment introduced in IVION Processing",
+    "url": "https://www.navvis.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "ENTERPRISE SERVICES >",
+    "url": "https://www.navvis.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Join a community of curious innovators, tech enthusiasts and proactive doers.",
+    "url": "https://www.navvis.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Nationalities represented",
+    "url": "https://www.navvis.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "NavVis Employee Spotlight: Georgina Gonzalez, Senior Program Manager",
+    "url": "https://www.navvis.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Meet the Recruiting Team at NavVis",
+    "url": "https://www.navvis.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "\"Awesome working culture! People are happy, experts in their respective fields and have the option to move internally from one team to another and learn for self and professional development!\"",
+    "url": "https://www.navvis.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The NavVis recruiting process",
+    "url": "https://www.navvis.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Interview with recruiter",
+    "url": "https://www.navvis.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Meet your new manager and colleagues in your prospective team.",
+    "url": "https://www.navvis.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The internal language at NavVis is English, even though we have many German customers. Our preference for your application language is generally English. However, we understand if some documents (i.e. reference letters) are in a different language.",
+    "url": "https://www.navvis.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Preparing for the interview at NavVis",
+    "url": "https://www.navvis.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We advise all candidates to spend a few hours on our website (and related links) to really get comfortable with our products, services, demos, use cases, NavVis partners, etc.",
+    "url": "https://www.navvis.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Be prepared to solve new problems with us",
+    "url": "https://www.navvis.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We are seeking great problem-solvers who have fun exploring a new business or technology-related challenge and explaining how they would tackle this.",
+    "url": "https://www.navvis.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The interview is a chance to get to know us. You’ll find we are a friendly, diverse, and supportive group of people passionate about NavVis technology.",
+    "url": "https://www.navvis.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "ENTERPRISE SERVICES >",
+    "url": "https://www.navvis.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing certified mapping partners own several NavVis mobile mapping devices, meet stringent quality criteria and are trusted providers of mapping services around the world. They bring a wealth of experience in surveying or 3D reality capture to each project. They are selected and certified by NavVis from among its most experienced users.",
+    "url": "https://www.navvis.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Solution partners use NavVis software products or APIs to develop and offer innovative services and solutions to customers. Their offerings typically include application development and system integration services, consulting services or standalone solutions for different use cases and industries.",
+    "url": "https://www.navvis.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers are well-established and trusted companies specializing in survey equipment, hardware and software, for geospatial professionals. They bring NavVis Reality Capture Solution to all corners of the world and, with extensive understanding of local markets and customers, provide tailored advice and support.",
+    "url": "https://www.navvis.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "ENTERPRISE SERVICES >",
+    "url": "https://www.navvis.com/partners?ptype=Ambassador",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing certified mapping partners own several NavVis mobile mapping devices, meet stringent quality criteria and are trusted providers of mapping services around the world. They bring a wealth of experience in surveying or 3D reality capture to each project. They are selected and certified by NavVis from among its most experienced users.",
+    "url": "https://www.navvis.com/partners?ptype=Ambassador",
+    "pass": 1
+   },
+   {
+    "quote": "Solution partners use NavVis software products or APIs to develop and offer innovative services and solutions to customers. Their offerings typically include application development and system integration services, consulting services or standalone solutions for different use cases and industries.",
+    "url": "https://www.navvis.com/partners?ptype=Ambassador",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers are well-established and trusted companies specializing in survey equipment, hardware and software, for geospatial professionals. They bring NavVis Reality Capture Solution to all corners of the world and, with extensive understanding of local markets and customers, provide tailored advice and support.",
+    "url": "https://www.navvis.com/partners?ptype=Ambassador",
+    "pass": 1
+   },
+   {
+    "quote": "ENTERPRISE SERVICES >",
+    "url": "https://www.navvis.com/partners?ptype=Solution+partner",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing certified mapping partners own several NavVis mobile mapping devices, meet stringent quality criteria and are trusted providers of mapping services around the world. They bring a wealth of experience in surveying or 3D reality capture to each project. They are selected and certified by NavVis from among its most experienced users.",
+    "url": "https://www.navvis.com/partners?ptype=Solution+partner",
+    "pass": 1
+   },
+   {
+    "quote": "Solution partners use NavVis software products or APIs to develop and offer innovative services and solutions to customers. Their offerings typically include application development and system integration services, consulting services or standalone solutions for different use cases and industries.",
+    "url": "https://www.navvis.com/partners?ptype=Solution+partner",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers are well-established and trusted companies specializing in survey equipment, hardware and software, for geospatial professionals. They bring NavVis Reality Capture Solution to all corners of the world and, with extensive understanding of local markets and customers, provide tailored advice and support.",
+    "url": "https://www.navvis.com/partners?ptype=Solution+partner",
+    "pass": 1
+   },
+   {
+    "quote": "ENTERPRISE SERVICES >",
+    "url": "https://www.navvis.com/industry",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you're a surveyor or reality capture specialist seeking accuracy and efficiency, an architect, engineer, or construction professional wanting to verify built results against your plans, an owner or operator needing updated spatial information, or a factory planner looking for the next optimization move, NavVis technology is here to help.",
+    "url": "https://www.navvis.com/industry",
+    "pass": 1
+   },
+   {
+    "quote": "NavVis workflow and products",
+    "url": "https://www.navvis.com/industry",
+    "pass": 1
+   },
+   {
+    "quote": "NavVis provides dynamic handheld reality capture devices and a comprehensive spatial data platform that helps teams generate accurate digital representations of physical spaces, integrate as-built data, and manage point clouds more efficiently.",
+    "url": "https://www.navvis.com/industry",
+    "pass": 1
+   },
+   {
+    "quote": "alongside our data processing, visualization, and collaboration platform,",
+    "url": "https://www.navvis.com/industry",
+    "pass": 1
+   },
+   {
+    "quote": ", customers have an end-to-end reality capture solution for applications across surveying, engineering and construction, automotive, process manufacturing, and more. Capture sites at walking speed and manage your point clouds with intuitive tools for creation, collaboration, and publication.",
+    "url": "https://www.navvis.com/industry",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more about our use cases and how NavVis technology can help reduce project costs and improve collaboration across the project lifecycle.",
+    "url": "https://www.navvis.com/industry",
+    "pass": 1
+   },
+   {
+    "quote": "From small projects and confined spaces to large, complex environments,",
+    "url": "https://www.navvis.com/industry",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Manufacturing certified",
+    "url": "https://www.navvis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Transforming the automotive industry",
+    "url": "https://www.navvis.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing certified",
+    "url": "https://www.navvis.com/partners?ptype=Manufacturing+certified",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing certified mapping partners",
+    "url": "https://www.navvis.com/partners?ptype=Manufacturing+certified",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing certified mapping partners own several NavVis mobile mapping devices, meet stringent quality criteria and are trusted providers of mapping services around the world. They bring a wealth of experience in surveying or 3D reality capture to each project. They are selected and certified by NavVis from among its most experienced users.",
+    "url": "https://www.navvis.com/partners?ptype=Manufacturing+certified",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing certified",
+    "url": "https://www.navvis.com/partners?ptype=Reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing certified mapping partners",
+    "url": "https://www.navvis.com/partners?ptype=Reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing certified mapping partners own several NavVis mobile mapping devices, meet stringent quality criteria and are trusted providers of mapping services around the world. They bring a wealth of experience in surveying or 3D reality capture to each project. They are selected and certified by NavVis from among its most experienced users.",
+    "url": "https://www.navvis.com/partners?ptype=Reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing certified",
+    "url": "https://www.navvis.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "More than two billion square meters of industrial plants, construction sites, and buildings are held on IVION, cutting rework and downtime and forming the foundation for automation, analytics, and AI-grounded decisions at scale.",
+    "url": "https://www.navvis.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "\"NavVis is one of the very finest German B2B IndustrialTech companies. A global leader out of Germany.\"",
+    "url": "https://www.navvis.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing certified",
+    "url": "https://www.navvis.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing certified",
+    "url": "https://www.navvis.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing certified mapping partners",
+    "url": "https://www.navvis.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing certified mapping partners own several NavVis mobile mapping devices, meet stringent quality criteria and are trusted providers of mapping services around the world. They bring a wealth of experience in surveying or 3D reality capture to each project. They are selected and certified by NavVis from among its most experienced users.",
+    "url": "https://www.navvis.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing certified",
+    "url": "https://www.navvis.com/partners?ptype=Ambassador",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing certified mapping partners",
+    "url": "https://www.navvis.com/partners?ptype=Ambassador",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing certified mapping partners own several NavVis mobile mapping devices, meet stringent quality criteria and are trusted providers of mapping services around the world. They bring a wealth of experience in surveying or 3D reality capture to each project. They are selected and certified by NavVis from among its most experienced users.",
+    "url": "https://www.navvis.com/partners?ptype=Ambassador",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing certified",
+    "url": "https://www.navvis.com/partners?ptype=Solution+partner",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing certified mapping partners",
+    "url": "https://www.navvis.com/partners?ptype=Solution+partner",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing certified mapping partners own several NavVis mobile mapping devices, meet stringent quality criteria and are trusted providers of mapping services around the world. They bring a wealth of experience in surveying or 3D reality capture to each project. They are selected and certified by NavVis from among its most experienced users.",
+    "url": "https://www.navvis.com/partners?ptype=Solution+partner",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing certified",
+    "url": "https://www.navvis.com/industry",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you're a surveyor or reality capture specialist seeking accuracy and efficiency, an architect, engineer, or construction professional wanting to verify built results against your plans, an owner or operator needing updated spatial information, or a factory planner looking for the next optimization move, NavVis technology is here to help.",
+    "url": "https://www.navvis.com/industry",
+    "pass": 1
+   },
+   {
+    "quote": ", customers have an end-to-end reality capture solution for applications across surveying, engineering and construction, automotive, process manufacturing, and more. Capture sites at walking speed and manage your point clouds with intuitive tools for creation, collaboration, and publication.",
+    "url": "https://www.navvis.com/industry",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial facilities",
+    "url": "https://www.navvis.com/industry",
+    "pass": 1
+   },
+   {
+    "quote": "Global manufacturing operations",
+    "url": "https://www.navvis.com/industry",
+    "pass": 1
+   },
+   {
+    "quote": "Layout & production line changes",
+    "url": "https://www.navvis.com/industry",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing | Industry",
+    "url": "https://www.navvis.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing certified",
+    "url": "https://www.navvis.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Enabling the factory of the future",
+    "url": "https://www.navvis.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Professionals in global supply chain, engineering and operations can now digitalize their facilities with unprecedented speed and accuracy. Make decisions with confidence using reliable, detailed visualizations of your factories and production assets.",
+    "url": "https://www.navvis.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "An end-to-end digital factory solution",
+    "url": "https://www.navvis.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "We arrange for our global network of certified mapping partners to scan your factories around the world.",
+    "url": "https://www.navvis.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "We manage the setup & implementation of your digital factory solution. We train and enable your teams.",
+    "url": "https://www.navvis.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "We provide support so that your teams have everything they need to continuously benefit from your digital factory solution.",
+    "url": "https://www.navvis.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "BMW plants are digitalized with NavVis technology",
+    "url": "https://www.navvis.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "The BMW Group relies on the support of the NavVis Digital Factory Solution to digitize its plants worldwide, making them fit for the automotive production factories of the future.",
+    "url": "https://www.navvis.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Improved remote collaboration between central and plant roles enables quicker decision making in industrial change projects",
+    "url": "https://www.navvis.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "The digitalization of paper-based shop floor processes using mobile devices brings major productivity benefits to operation and maintenance teams",
+    "url": "https://www.navvis.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Travel cost reduction for industrial engineers due to remotes site visits",
+    "url": "https://www.navvis.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "You're only a few clicks away from having every factory at your fingertips",
+    "url": "https://www.navvis.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Used by household names in manufacturing",
+    "url": "https://www.navvis.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Our trailblazing digital factory technology now benefits some of the biggest names in manufacturing",
+    "url": "https://www.navvis.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "VR & Digital Factory IT Lead",
+    "url": "https://www.navvis.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Even while in home office, our factory planners are able to take measurements in production halls without being there or even pick up a measuring tape.",
+    "url": "https://www.navvis.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Digital factory use cases",
+    "url": "https://www.navvis.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Global manufacturing operations",
+    "url": "https://www.navvis.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Layout & production line changes",
+    "url": "https://www.navvis.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Patented NavVis mobile mapping technology can capture production assets and factory buildings in a global manufacturing network with unprecedented speed and accuracy.",
+    "url": "https://www.navvis.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "NavVis IVION Processing Enterprise allows you to securely and efficiently process point clouds and panoramic images, reducing the time and effort required to create actionable reality capture data. Optimize your processing workflows to ensure faster and more seamless performance, all while meeting the demanding security needs of manufacturing and automotive industries.",
+    "url": "https://www.navvis.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Remote factory access",
+    "url": "https://www.navvis.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Now factory planners and engineering departments can better understand, collaborate and make the right decisions, based on actual site conditions they can trust. Empower key stakeholders to explore best practice scenarios, remotely engage suppliers, and reduce time to market.",
+    "url": "https://www.navvis.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing certified",
+    "url": "https://www.navvis.com/industry/customers-success",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Owner-Operators",
+    "url": "https://www.navvis.com/industry/customers-success",
+    "pass": 1
+   },
+   {
+    "quote": "Hear from surveyors, AEC teams, and owner-operators about what happens when the physical and digital worlds stay in sync.",
+    "url": "https://www.navvis.com/industry/customers-success",
+    "pass": 1
+   },
+   {
+    "quote": "Watch the full case study",
+    "url": "https://www.navvis.com/industry/customers-success",
+    "pass": 1
+   },
+   {
+    "quote": "How KION, NavVis, and NVIDIA are collaborating on Industrial Digital Twins",
+    "url": "https://www.navvis.com/industry/customers-success",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing certified",
+    "url": "https://www.navvis.com/company/trust-center",
+    "pass": 1
+   },
+   {
+    "quote": "*) is a standard assessment and exchange mechanism for the automotive industry. As of April 2021, NavVis is rated TISAX assessment level 3 for information security, data protection, and connection of third parties.",
+    "url": "https://www.navvis.com/company/trust-center",
+    "pass": 1
+   },
+   {
+    "quote": "NavVis Solution integrates with the Industrial Cloud from Volkswagen",
+    "url": "https://www.navvis.com/company/trust-center",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Resellers are well-established and trusted companies specializing in survey equipment, hardware and software, for geospatial professionals. They bring NavVis Reality Capture Solution to all corners of the world and, with extensive understanding of local markets and customers, provide tailored advice and support.",
+    "url": "https://www.navvis.com/partners?ptype=Manufacturing+certified",
+    "pass": 1
+   },
+   {
+    "quote": "Become an authorised reseller",
+    "url": "https://www.navvis.com/partners?ptype=Manufacturing+certified",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers are well-established and trusted companies specializing in survey equipment, hardware and software, for geospatial professionals. They bring NavVis Reality Capture Solution to all corners of the world and, with extensive understanding of local markets and customers, provide tailored advice and support.",
+    "url": "https://www.navvis.com/partners?ptype=Reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Become an authorised reseller",
+    "url": "https://www.navvis.com/partners?ptype=Reseller",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers are well-established and trusted companies specializing in survey equipment, hardware and software, for geospatial professionals. They bring NavVis Reality Capture Solution to all corners of the world and, with extensive understanding of local markets and customers, provide tailored advice and support.",
+    "url": "https://www.navvis.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Become an authorised reseller",
+    "url": "https://www.navvis.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers are well-established and trusted companies specializing in survey equipment, hardware and software, for geospatial professionals. They bring NavVis Reality Capture Solution to all corners of the world and, with extensive understanding of local markets and customers, provide tailored advice and support.",
+    "url": "https://www.navvis.com/partners?ptype=Ambassador",
+    "pass": 1
+   },
+   {
+    "quote": "Become an authorised reseller",
+    "url": "https://www.navvis.com/partners?ptype=Ambassador",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers are well-established and trusted companies specializing in survey equipment, hardware and software, for geospatial professionals. They bring NavVis Reality Capture Solution to all corners of the world and, with extensive understanding of local markets and customers, provide tailored advice and support.",
+    "url": "https://www.navvis.com/partners?ptype=Solution+partner",
+    "pass": 1
+   },
+   {
+    "quote": "Become an authorised reseller",
+    "url": "https://www.navvis.com/partners?ptype=Solution+partner",
+    "pass": 1
+   },
+   {
+    "quote": "Our ecosystem includes more than 70 partners worldwide, including solution partners and authorized resellers, who deliver innovative services and solutions based on our technology, bringing our next-generation spatial intelligence capabilities to their customers.",
+    "url": "https://www.navvis.com/become-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Learn more about current partners and authorized resellers",
+    "url": "https://www.navvis.com/become-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Head Reseller Partnerships",
+    "url": "https://growjo.com/company/NavVis",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Chief Revenue Officer",
+    "url": "https://www.navvis.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "Become part of the team",
+    "url": "https://www.navvis.com/company/about",
+    "pass": 1
+   },
+   {
+    "quote": "30 days of paid time off per year (20 days for student employees)",
+    "url": "https://www.navvis.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Full visa and relocation support (for permanent employees)",
+    "url": "https://www.navvis.com/company/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We arrange for our global network of certified mapping partners to scan your factories around the world.",
+    "url": "https://www.navvis.com/industry/manufacturing",
+    "pass": 1
+   },
+   {
+    "quote": "At NavVis, security and privacy is built into the very heart of our products and services. For the peace of mind of our customers, partners and employees, these are the safeguards we deploy as standard.",
+    "url": "https://www.navvis.com/company/trust-center",
+    "pass": 1
+   },
+   {
+    "quote": "Each user account is listed with a “last active” timestamp, giving an “at-a-glance” overview of user activity.",
+    "url": "https://www.navvis.com/company/trust-center",
+    "pass": 1
+   },
+   {
+    "quote": "NavVis has a Secure Development Policy covering all aspects of the software development and test lifecycle, to ensure that the software we produce continues to meet our own high standards for security. This policy, and the processes it covers, are a key part of our security certifications, and are reviewed and audited regularly.",
+    "url": "https://www.navvis.com/company/trust-center",
+    "pass": 1
+   },
+   {
+    "quote": "Penetration tests are carried out regularly, and any high-risk vulnerability is addressed before release",
+    "url": "https://www.navvis.com/company/trust-center",
+    "pass": 1
+   },
+   {
+    "quote": "We aim to incorporate sustainability as a key part of our design process at NavVis.",
+    "url": "https://www.navvis.com/company/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "We are actively educating our employees on environmental topics and ensure the reduction of waste in our office spaces.",
+    "url": "https://www.navvis.com/company/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "We encourage flexibility to facilitate any specific personal needs of our employees.",
+    "url": "https://www.navvis.com/company/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "We set up sustainability targets and ensure they are regularly monitored as a part of our company wide OKRs.",
+    "url": "https://www.navvis.com/company/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "The up-to-date, comprehensive and accessible data about the existing building and facilities, captured and accessed with the help of NavVis solutions, enable the identification of areas of improvement when it comes to the utilization of existing living spaces and the seamless planning as well as executions of your projects around the creation of barrier-free living spaces.",
+    "url": "https://www.navvis.com/company/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "Both Europe and the US are witnessing a demographic shift towards an increasing elderly population with specific needs. However, it's important to note that the requirement for barrier-free spaces extends beyond age; inclusivity for all should be a global priority.",
+    "url": "https://www.navvis.com/company/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "The Pestel Institute proposes various courses of action in their 2023 report, with a particular emphasis on renovating existing buildings. This renovation strategy includes reducing the floor area per unit to optimize existing living spaces and remodeling building structures, such as stairs, bathrooms, and door sizes, to facilitate barrier-free living.",
+    "url": "https://www.navvis.com/company/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "Test customers have been surprised and excited about how much NavVis CLX lowers their barrier to laser scanning without compromising the data quality NavVis is known for.",
+    "url": "https://solutions.kke.co.jp/navvis/news/clx-news-release/",
+    "pass": 3
+   },
+   {
+    "quote": "Test customers have been surprised and excited about how much NavVis CLX lowers their barrier to laser scanning without compromising the data quality NavVis is known for.",
+    "url": "https://www.kke.co.jp/release/16048",
+    "pass": 3
+   },
+   {
+    "quote": "barrier to laser scanning without compromising the data quality NavVis is known for.",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/NewsRelease_20260908.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss out on having your company listed on the world's",
+    "url": "https://www.featuredcustomers.com/vendor/navvis/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "NavVis: Revenue, Competitors, Alternatives",
+    "url": "https://growjo.com/company/NavVis",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and Competitors",
+    "url": "https://growjo.com/company/NavVis",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/NavVis",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/NavVis",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated revenue per employee is $",
+    "url": "https://growjo.com/company/NavVis",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Asia/Pacific – Japan (AWS region ap-northeast-1)",
+    "url": "https://www.navvis.com/company/trust-center",
+    "pass": 1
+   },
+   {
+    "quote": "The Japanese multinational scanned its facilities with",
+    "url": "https://www.navvis.com/company/sustainability",
+    "pass": 1
+   },
+   {
+    "quote": "KKE NavVis Summit Japan 2026 開催決定！ご案内（10/16）",
+    "url": "https://solutions.kke.co.jp/navvis/news/kke-navvis-summit-japan-2026-opening/",
+    "pass": 3
+   },
+   {
+    "quote": "今年も毎年恒例の「KKE NavVis Summit Japan 2026」を開催いたします",
+    "url": "https://solutions.kke.co.jp/navvis/news/kke-navvis-summit-japan-2026-opening/",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、先日日本国内でも正式にリリースされたNavVisの新製品",
+    "url": "https://solutions.kke.co.jp/navvis/news/kke-navvis-summit-japan-2026-opening/",
+    "pass": 3
+   },
+   {
+    "quote": "今後も両社の強固な連携のもと、日本のみならず世界の産業DXとPhysical AIの発展に貢献してまいります",
+    "url": "https://solutions.kke.co.jp/navvis/news/kke-navvis-summit-japan-2026-opening/",
+    "pass": 3
+   },
+   {
+    "quote": "KKE NavVis Summit Japan 2026",
+    "url": "https://solutions.kke.co.jp/navvis/news/kke-navvis-summit-japan-2026-opening/",
+    "pass": 3
+   },
+   {
+    "quote": "〒100-7004 東京都千代田区丸の内二丁目7番2号 KITTE 4階",
+    "url": "https://solutions.kke.co.jp/navvis/news/kke-navvis-summit-japan-2026-opening/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社構造計画研究所 NavVis事業部 部長",
+    "url": "https://solutions.kke.co.jp/navvis/news/kke-navvis-summit-japan-2026-opening/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社構造計画研究所 NavVis事業部",
+    "url": "https://solutions.kke.co.jp/navvis/news/kke-navvis-summit-japan-2026-opening/",
+    "pass": 3
+   },
+   {
+    "quote": "構造計画研究所では日本のお客様から寄せられたニーズをもとに、KKEではNavVis IVIONをより幅広い業務で活用するためのアドオンモジュールを独自に開発しています",
+    "url": "https://solutions.kke.co.jp/navvis/news/kke-navvis-summit-japan-2026-opening/",
+    "pass": 3
+   },
+   {
+    "quote": "関西電力株式会社 水力事業本部 HpXグループ",
+    "url": "https://solutions.kke.co.jp/navvis/news/kke-navvis-summit-japan-2026-opening/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社竹中工務店 生産本部アドバンストコンストラクショングループ",
+    "url": "https://solutions.kke.co.jp/navvis/news/kke-navvis-summit-japan-2026-opening/",
+    "pass": 3
+   },
+   {
+    "quote": "本田技研工業株式会社 生産技術統括部 設備生産部設備設計課",
+    "url": "https://solutions.kke.co.jp/navvis/news/kke-navvis-summit-japan-2026-opening/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社構造計画研究所 NavVis事業部 自動車・製造室",
+    "url": "https://solutions.kke.co.jp/navvis/news/kke-navvis-summit-japan-2026-opening/",
+    "pass": 3
+   },
+   {
+    "quote": "KKE NavVis Summit Japan 2025 開催報告",
+    "url": "https://solutions.kke.co.jp/navvis/news/kke-navvis-summit-japan-2026-opening/",
+    "pass": 3
+   },
+   {
+    "quote": "KKE NavVis Summit Japan 事務局",
+    "url": "https://solutions.kke.co.jp/navvis/news/kke-navvis-summit-japan-2026-opening/",
+    "pass": 3
+   },
+   {
+    "quote": "navvis-summit-japan@kke.co.jp",
+    "url": "https://solutions.kke.co.jp/navvis/news/kke-navvis-summit-japan-2026-opening/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社構造計画研究所（本社：東京都中野区、代表取締役社長：湯口達夫）は、NavVis GmbH（本社：ドイツ・ミュンヘン、CEO & Co-founder：Felix Reinshagen、以下NavVis社）が開発したハンディ型3D レーザースキャナ「NavVis CLX」（ナビビズ シーエルエックス）の国内販売を本日より開始します",
+    "url": "https://solutions.kke.co.jp/navvis/news/clx-news-release/",
+    "pass": 3
+   },
+   {
+    "quote": "10 月16 日（金）「KKE NavVis Summit Japan 2026」にて、国内初披露",
+    "url": "https://solutions.kke.co.jp/navvis/news/clx-news-release/",
+    "pass": 3
+   },
+   {
+    "quote": "本日より、日本国内での注文受付を開始します",
+    "url": "https://solutions.kke.co.jp/navvis/news/clx-news-release/",
+    "pass": 3
+   },
+   {
+    "quote": "■ 「KKE NavVis Summit Japan 2026」開催概要",
+    "url": "https://solutions.kke.co.jp/navvis/news/clx-news-release/",
+    "pass": 3
+   },
+   {
+    "quote": "10 月16 日（金）開催の「KKE NavVis Summit Japan 2026」にて、「NavVis CLX」のデモ機を国内初展示いたします",
+    "url": "https://solutions.kke.co.jp/navvis/news/clx-news-release/",
+    "pass": 3
+   },
+   {
+    "quote": "本イベントでは、NavVis 社CEO による講演をはじめ、関西電力株式会社、株式会社竹中工務店、本田技研工業株式会社など、業界を代表する企業や大学・研究機関をお招きし、デジタルツインの先進的な活用事例をご紹介します",
+    "url": "https://solutions.kke.co.jp/navvis/news/clx-news-release/",
+    "pass": 3
+   },
+   {
+    "quote": "https://solutions.kke.co.jp/navvis/news/kke-navvis-summit-japan-2026-opening/",
+    "url": "https://solutions.kke.co.jp/navvis/news/clx-news-release/",
+    "pass": 3
+   },
+   {
+    "quote": "日本は、構造計画研究所が信頼できるパートナーとして参画して以来、NavVis にとってますます重要な市場となっています",
+    "url": "https://solutions.kke.co.jp/navvis/news/clx-news-release/",
+    "pass": 3
+   },
+   {
+    "quote": "本製品は日本の市場に2 つの変化をもたらすと期待しています",
+    "url": "https://solutions.kke.co.jp/navvis/news/clx-news-release/",
+    "pass": 3
+   },
+   {
+    "quote": "日本の皆様、構造計画研究所および NavVis に対し、この 10 年間にわたりご信頼を賜り、誠にありがとうございます",
+    "url": "https://solutions.kke.co.jp/navvis/news/clx-news-release/",
+    "pass": 3
+   },
+   {
+    "quote": "10 月に開催される「KKE NavVis Summit Japan2026」にて、 NavVisCLX が皆様の業務にどのような効果をもたらすか、共にお話しできることを楽しみにしています",
+    "url": "https://solutions.kke.co.jp/navvis/news/clx-news-release/",
+    "pass": 3
+   },
+   {
+    "quote": "“Japan has been a key market for NavVis since our earliest years with KKE as our trusted partner and shareholder.",
+    "url": "https://solutions.kke.co.jp/navvis/news/clx-news-release/",
+    "pass": 3
+   },
+   {
+    "quote": "To our customers in Japan: Thank you for a decade of trust in KKE and NavVis. I look forward to discussing what CLX means for your work when I join the KKE NavVis Summit this October.”",
+    "url": "https://solutions.kke.co.jp/navvis/news/clx-news-release/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社構造計画研究所は、工学知を用いて社会の諸問題の解決に挑む技術コンサルティングファームです",
+    "url": "https://solutions.kke.co.jp/navvis/news/clx-news-release/",
+    "pass": 3
+   },
+   {
+    "quote": "※ 構造計画研究所および、構造計画研究所のロゴは、株式会社構造計画研究所の登録商標です",
+    "url": "https://solutions.kke.co.jp/navvis/news/clx-news-release/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社構造計画研究所（本社：東京都中野区、代表取締役社長：湯口達夫）は、NavVis GmbH（本社：ドイツ・ミュンヘン、CEO & Co-founder：Felix Reinshagen、以下NavVis社）が開発したハンディ型3Dレーザースキャナ「NavVis CLX」（ナビビズ シーエルエックス）の国内販売を本日より開始します",
+    "url": "https://www.kke.co.jp/release/16048",
+    "pass": 3
+   },
+   {
+    "quote": "③ 10 月 16 日(金)「KKE NavVis Summit Japan 2026」にて、国内初披露",
+    "url": "https://www.kke.co.jp/release/16048",
+    "pass": 3
+   },
+   {
+    "quote": "本日より、日本国内での注文受付を開始します",
+    "url": "https://www.kke.co.jp/release/16048",
+    "pass": 3
+   },
+   {
+    "quote": "■ 「KKE NavVis Summit Japan 2026」開催概要",
+    "url": "https://www.kke.co.jp/release/16048",
+    "pass": 3
+   },
+   {
+    "quote": "10月16日（金）開催の「KKE NavVis Summit Japan 2026」にて、「NavVis CLX」のデモ機を国内初展示いたします",
+    "url": "https://www.kke.co.jp/release/16048",
+    "pass": 3
+   },
+   {
+    "quote": "本イベントでは、NavVis社CEOによる講演をはじめ、関西電力株式会社、株式会社竹中工務店、本田技研工業株式会社など、業界を代表する企業や大学・研究機関をお招きし、デジタルツインの先進的な活用事例をご紹介します",
+    "url": "https://www.kke.co.jp/release/16048",
+    "pass": 3
+   },
+   {
+    "quote": "https://solutions.kke.co.jp/navvis/news/kke-navvis-summit-japan-2026-opening/",
+    "url": "https://www.kke.co.jp/release/16048",
+    "pass": 3
+   },
+   {
+    "quote": "日本は、構造計画研究所が信頼できるパートナーとして参画して以来、NavVisにとってますます重要な市場となっています",
+    "url": "https://www.kke.co.jp/release/16048",
+    "pass": 3
+   },
+   {
+    "quote": "本製品は日本の市場に2つの変化をもたらすと期待しています",
+    "url": "https://www.kke.co.jp/release/16048",
+    "pass": 3
+   },
+   {
+    "quote": "日本の皆様、構造計画研究所およびNavVisに対し、この10年間にわたりご信頼を賜り、誠にありがとうございます",
+    "url": "https://www.kke.co.jp/release/16048",
+    "pass": 3
+   },
+   {
+    "quote": "10月に開催される「KKE NavVis Summit Japan2026」にて、NavVis CLXが皆様の業務にどのような効果をもたらすか、共にお話しできることを楽しみにしています",
+    "url": "https://www.kke.co.jp/release/16048",
+    "pass": 3
+   },
+   {
+    "quote": "“Japan has been a key market for NavVis since our earliest years with KKE as our trusted partner and shareholder.",
+    "url": "https://www.kke.co.jp/release/16048",
+    "pass": 3
+   },
+   {
+    "quote": "To our customers in Japan: Thank you for a decade of trust in KKE and NavVis. I look forward to discussing what CLX means for your work when I join the KKE NavVis Summit this October.”",
+    "url": "https://www.kke.co.jp/release/16048",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社構造計画研究所は、工学知を用いて社会の諸問題の解決に挑む技術コンサルティングファームです",
+    "url": "https://www.kke.co.jp/release/16048",
+    "pass": 3
+   },
+   {
+    "quote": "※ 構造計画研究所および、構造計画研究所のロゴは、株式会社構造計画研究所の登録商標です",
+    "url": "https://www.kke.co.jp/release/16048",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社構造計画研究所（本社：東京都中野区、代表取締役社長：湯口達夫）は、NavVis",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/NewsRelease_20260908.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "3 10 月 16 日（金）「KKE NavVis Summit Japan 2026」にて、国内初披露",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/NewsRelease_20260908.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本日より、日本国内での注文受付を開始します",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/NewsRelease_20260908.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■ 「KKE NavVis Summit Japan 2026」開催概要",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/NewsRelease_20260908.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10 月 16 日（金）開催の「KKE NavVis Summit Japan 2026」にて、 「NavVis CLX」のデモ",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/NewsRelease_20260908.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "式会社、株式会社竹中工務店、本田技研工業株式会社など、業界を代表する企業や大学・研究機",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/NewsRelease_20260908.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "https://solutions.kke.co.jp/navvis/news/kke-navvis-summit-japan-2026-opening/",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/NewsRelease_20260908.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本は、構造計画研究所が信頼できるパートナーとして参画して以来、NavVis にとってます",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/NewsRelease_20260908.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "本製品は日本の市場に2 つの変化をもたらすと期待しています",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/NewsRelease_20260908.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本の皆様、構造計画研究所およびNavVis に対し、この10 年間にわたりご信頼を賜り、誠",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/NewsRelease_20260908.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "10 月に開催される 「KKE NavVis Summit Japan2026」 にて、NavVis",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/NewsRelease_20260908.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "“Japan has been a key market for NavVis since our earliest years with KKE as our trusted",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/NewsRelease_20260908.pdf",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "e-mail：navvis-info@kke.co.jp",
+    "url": "https://solutions.kke.co.jp/navvis/news/clx-news-release/",
+    "pass": 3
+   },
+   {
+    "quote": "e-mail：kke-pr@kke.co.jp",
+    "url": "https://solutions.kke.co.jp/navvis/news/clx-news-release/",
+    "pass": 3
+   },
+   {
+    "quote": "e-mail：navvis-info@kke.co.jp",
+    "url": "https://www.kke.co.jp/release/16048",
+    "pass": 3
+   },
+   {
+    "quote": "e-mail：kke-pr@kke.co.jp",
+    "url": "https://www.kke.co.jp/release/16048",
+    "pass": 3
+   },
+   {
+    "quote": "e-mail：navvis-info@kke.co.jp",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/NewsRelease_20260908.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "e-mail：kke-pr@kke.co.jp",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/NewsRelease_20260908.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/navvis/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/navvis/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "B2B email lists",
+    "url": "https://growjo.com/company/NavVis",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Email Finder",
+    "url": "https://growjo.com/company/NavVis",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "KKE NavVis Summit Japan 2026 開催決定！ご案内（10/16） — 本講演では、3D計測からデータ処理・共有・活用まで、NavVisが今後どのように製品・サービスを進化させていくのか、現在取り組んでいる開発や最新技術、今後のロードマップを交えながら、NavVisが描く将来像をお伝えします。",
+    "url": "https://solutions.kke.co.jp/navvis/news/kke-navvis-summit-japan-2026-opening/",
+    "pass": 3
+   },
+   {
+    "quote": "ハンディ型3D レーザースキャナのエントリーモデル 「NavVis CLX」の... — Sep 8, 2026 · 計測から処理、共有、成果物作成まで、一貫したワークフローで業務を効率化します。 これまで費用や運用の難しさから導入を見送っていた企業や現場においても、 NavVis クオリティの一連のワークフローをスムーズに導入・展開いただけます。",
+    "url": "https://solutions.kke.co.jp/navvis/news/clx-news-release/",
+    "pass": 3
+   },
+   {
+    "quote": "ハンディ型3Dレーザースキャナのエントリーモデル 「NavVis CLX」の販... — Sep 8, 2026 · 本製品は、NavVis社の高精度な3Dスキャン技術と洗練されたワークフローを継承しながら、圧倒的な小型・軽量化を実現した、初期導入費用298万円～（税抜）のエントリーモデルです。",
+    "url": "https://www.kke.co.jp/release/16048",
+    "pass": 3
+   },
+   {
+    "quote": "ハンディ型 3D レーザースキャナのエントリーモデル 「NavVis CLX」 ... — 計測から処理、共有、成果物作成まで、一貫したワークフローで業務を効率化します。 これまで費用や運用の難しさから導入を見送っていた企業や現場においても、NavVis クオリティの一連のワークフローをスムーズに導入・展開いただけます。",
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/NewsRelease_20260908.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ハンディ型3Dレーザースキャナのエントリーモデル「NavVis CLX」の販... — Sep 8, 2026 · 本製品は、NavVis社の高精度な3Dスキャン技術と洗練されたワークフローを継承しながら、圧倒的な小型・軽量化を実現した、初期導入費用298万円 ...",
+    "url": "https://prtimes.jp/main/html/rd/p/000000087.000023284.html",
+    "pass": 3
+   },
+   {
+    "quote": "NavVis｜複雑な現場の3Dデータを高速かつ高品質にご提供 — NavVisシリーズ製品の紹介サイトです。NavVisシリーズでは複雑な現場の3Dデータを⾼速かつ⾼品質で計測いたします。製品の販売はもちろん、レンタルやデータ計測請負サービスも行っております。現場での計測作業時間を大幅削減や3Dデータの取得はNavVisシリーズにお任せください。",
+    "url": "https://solutions.kke.co.jp/navvis/",
+    "pass": 3
+   },
+   {
+    "quote": "NavVis総合製品資料 ｜NavVisで複雑な現場の3Dデータを高速かつ高品質... — 製品カタログお申し込み NavVis VLX NavVis MLX NavVis IVION",
+    "url": "https://solutions.kke.co.jp/navvis/catalog/navvis_products/",
+    "pass": 3
+   },
+   {
+    "quote": "NavVis 複雑な現場の3Dデータを高速かつ高品質にご提供｜株式会社神戸... — NavVisシリーズ製品の現場3Dデータ取得の高速化についてご紹介します。NavVisシリーズでは現況図がない現場の3Dデータ取得を10倍以上高速化し、現場での計測作業時間を大幅削減や合成処理の手間を大幅削減いたします。",
+    "url": "https://www.kobeseiko.co.jp/NavVis.html",
+    "pass": 3
+   },
+   {
+    "quote": "NavVis VLX｜株式会社日本インシーク — 建設コンサルタント 株式会社日本インシークのNavVis VLXページです。ライフライン、交通都市計画、防災、空間情報、測量などを軸にインフラ整備を行い、調査、計画、設計、維持管理まで、当社技術力を活かしたトータルサポートを提供いたします。",
+    "url": "https://www.insiek.co.jp/business/technology/ict/vlx.html",
+    "pass": 3
+   },
+   {
+    "quote": "新型ウェアラブル計測デバイス 「NavVis VLX3」の国内販売を開始しま... — May 25, 2023 · ～さらに高精度な点群・パノラマ写真を取得、土木・プラント分野の測量業務を効率化～ 構造計画研究所は、ドイツのスタートアップ企業NavVis GmbH（本社：ドイツ ミュンヘン、CEO：Felix Reinshagen 氏 […]",
+    "url": "https://www.kke.co.jp/release/13711",
+    "pass": 3
+   },
+   {
+    "quote": "NavVis｜複雑な現場の3Dデータを高速かつ高品質にご提供 — NavVisシリーズ製品の紹介サイトです。 NavVisシリーズでは複雑な現場の3Dデータを⾼速かつ⾼品質で計測いたします。 製品の販売はもちろん、レンタルやデータ計測請負サービスも行っております。",
+    "url": "https://solutions.kke.co.jp/navvis/",
+    "pass": 3
+   },
+   {
+    "quote": "KKE NavVis Summit Japan 2026 開催決定！ご案内（10/16） — 今年も毎年恒例の「KKE NavVis Summit Japan 2026」を開催いたします。 今回は、先日日本国内でも正式にリリースされたNavVisの新製品 「NavVis CLX」 「NavVis VLX4」 を、皆様に初めてお披露目する機会となります。 3年ぶりに来日するNavVis CEO Felix Reinshagenから、新製品の開発コンセプトや目指す未来、今後の製品ロードマップについて直接ご紹介します。 また、 関西電力、竹中工務店 、 本田技研工業 をはじめとする業界を代表する企業の皆様から、NavVisを活用した先進的な事例をご講演いただきます。",
+    "url": "https://solutions.kke.co.jp/navvis/news/kke-navvis-summit-japan-2026-opening/",
+    "pass": 3
+   },
+   {
+    "quote": "Laser scanning solutions & digital twin technology | NavVis — Process, geo-register, and automatically align scan data from NavVis devices with survey-grade accuracy. Generate photorealistic point clouds and panoramic images seamlessly.",
+    "url": "https://www.navvis.com/",
+    "pass": 3
+   },
+   {
+    "quote": "NavVis Summit Japan 2026（東京・10月16日）に出展します — Sep 19, 2026 · 2026年10月16日に東京で開催される構造計画研究所（KKE）主催「NavVis Summit Japan 2026」に出展します。 ロボ工の点群撮影の流れと、「通信環境可視化システム」（開発中）、「帳票デジタイザ eforms」をご紹介します。",
+    "url": "https://syn-digicon.com/news/navvis/",
+    "pass": 3
+   },
+   {
+    "quote": "#kke #navvis #digitaltwin #realitycapture #summit ... - LinkedIn — First, DENSO, Japan’s largest automotive supplier, will share its experience and insights from digitizing 45 major plants across Japan in just one year using NavVis technology.",
+    "url": "https://www.linkedin.com/posts/kenichi-takane-07395043_kke-navvis-digitaltwin-activity-7389565089856712704-Mye4",
+    "pass": 3
+   },
+   {
+    "quote": "Siemens and the digital factory of the future, powered by NavVis — Siemens Electronics Works Amberg is a lighthouse factory that routinely pushes the boundaries of innovation in manufacturing; working with NavVis, they succeeded in implementing a fully immersive digital twin of the production halls and offices.",
+    "url": "https://www.navvis.com/resources/case-studies/siemens",
+    "pass": 3
+   },
+   {
+    "quote": "NavVis B2B Case Studies & Customer Successes — And with their digital factory solutions, users are equipped to make better operational decisions, boost productivity, streamline business processes, and improve profitability. See how NavVis solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/navvis",
+    "pass": 3
+   },
+   {
+    "quote": "6 high-value use cases for NavVis technology in the digital ...15 NavVis Case Studies, Success Stories, & Customer StoriesThe Case Studies Page - Navvis | MaybeWorksCase Study: Audi achieves site-independent production ...NavVis Revolutionizes Reality Capture Technology with AWS ... — To transfer resources within a global network, a central planning team will frequently evaluate their entire stock",
+    "url": "https://www.navvis.com/blog/high-value-use-cases-for-navvis-technology-in-the-digital-factory",
+    "pass": 3
+   },
+   {
+    "quote": "15 NavVis Case Studies, Success Stories, & Customer Stories — Narrow down 15 case studies by company size & industry to find out how NavVis works for a business like yours.",
+    "url": "https://www.featuredcustomers.com/vendor/navvis/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "The Case Studies Page - Navvis | MaybeWorks — Together with NavVis, we built a custom CMS that streamlines operations and strengthens client collaboration. The system helped cut project delivery time by 16% thanks to real-time visibility and smoother team coordination.",
+    "url": "https://maybe.works/showcases/navvis",
+    "pass": 3
+   },
+   {
+    "quote": "NavVis – Strategic Position & Company Metrics – 2026 — Analysts estimate NavVis brings in $84.6M annually. The revenue per employee estimate for NavVis is $215.9K. Cumulative funding for NavVis currently stands at $96.4M. As of now, NavVis employs over 300+ people. Last year, NavVis increased its workforce by 11%.",
+    "url": "https://compworth.com/company/navvis",
+    "pass": 3
+   },
+   {
+    "quote": "NavVis 2026 Company Profile: Valuation, Funding & Investors ...NavVis - 2026 Company Profile, Team, Funding, Competitors ...NavVis: Revenue, Competitors, Alternatives - GrowjoNavvis - Overview, News & Similar companies | ZoomInfo.comNavvis - 2025 Company Profile, Funding & Competitors - TracxnNavVis Valuation, Funding & Investors | Multiples — Information on valuation, funding, cap tables, investo",
+    "url": "https://pitchbook.com/profiles/company/99546-67",
+    "pass": 3
+   },
+   {
+    "quote": "NavVis - 2026 Company Profile, Team, Funding, Competitors ...NavVis: Revenue, Competitors, Alternatives - GrowjoNavvis - Overview, News & Similar companies | ZoomInfo.comNavvis - 2025 Company Profile, Funding & Competitors - TracxnNavVis Valuation, Funding & Investors | Multiples — Mar 16, 2026 · NavVis is a series C company based in Germany, founded in 2013 by Felix Reinshagen, Georg Schroth, Rob",
+    "url": "https://tracxn.com/d/companies/navvis/__8IlNt4JnJdwkqQEg5F5GFEEHf4MxTfW007wVaqn6Q-8",
+    "pass": 3
+   },
+   {
+    "quote": "NavVis: Revenue, Competitors, Alternatives - Growjo — NavVis, a Munich, Germany-based indoor spatial intelligence platform, raised $35.5m in Series C funding. The round was led by Digital+ Partners, with participation from new investor Kozo Keikaku Engineering Inc. (KKE) and existing investors MIG, Target Partners and BayBG.",
+    "url": "https://growjo.com/company/NavVis",
+    "pass": 3
+   },
+   {
+    "quote": "Navvis - Overview, News & Similar companies | ZoomInfo.com — Gather financial insights about Navvis, including details on funding rounds, investors, total funding, and acquisitions, to gain a comprehensive understanding of their financial strategy.",
+    "url": "https://www.zoominfo.com/c/navvis--co-llc/26951689",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Navvis (@NavvisPopHealth) / Posts / X Navvis is a leading population health company, helping health plans, hospital systems, and physician groups succeed in value-based care.",
+    "url": "https://x.com/navvispophealth",
+    "pass": 3
+   },
+   {
+    "quote": "NavVis on X: \"We're thrilled to introduce the new cornerstone ... We're thrilled to introduce the new cornerstone of reality capture, NavVis VLX 3! It efficiently delivers comprehensive, highly detailed #data for complex indoor and outdoor sites.",
+    "url": "https://x.com/NavVisOfficial/status/1655871594290397188",
+    "pass": 3
+   },
+   {
+    "quote": "構造計画研究所 on X: \"高精細3Dレーザースキャナ「NavVis VLX4」を本... 高精細3Dレーザースキャナ「NavVis VLX4」を本日より販売開始します。 3基の高精度LiDARセンサーで、計測効率と高解像度を両立するハイエンドモデルです。 建築設備・製造設備・プラントのScan-to-BIMに活用いただけます。",
+    "url": "https://x.com/KKE_Inc/status/2105126609137410059",
+    "pass": 3
+   },
+   {
+    "quote": "@navvis | X The latest posts from @navvis",
+    "url": "https://x.com/navvis",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "NavVis - LinkedIn Today NavVis combines survey-grade mobile reality capture (VLX, MLX, and CLX) with IVION. Together, they provide a managed, versioned and accessible System of Record, reflecting a facility or...",
+    "url": "https://www.linkedin.com/company/navvis",
+    "pass": 3
+   },
+   {
+    "quote": "Navvis (healthcare) - LinkedIn Driving performance in population health and value-based care | Navvis is a leading value-based care enablement company, driving clinical, financial, and operational performance for healthcare ...",
+    "url": "https://www.linkedin.com/company/navvishealthcare",
+    "pass": 3
+   },
+   {
+    "quote": "NavVis | LinkedIn NavVis is the Source of Spatial Truth for the built world. Founded in 2013, the company was built on a single conviction: the people who build and operate the physical world deserve to know...",
+    "url": "https://in.linkedin.com/company/navvis",
+    "pass": 3
+   },
+   {
+    "quote": "Navvis Geomatics and Testing - LinkedIn Navvis Geomatics Since being established in 2020, Navvis Technologies LTD has been known for an unparalleled commitment to customer satisfaction. It’s this standard of excellence that has...",
+    "url": "https://ca.linkedin.com/company/navvis-technologies-ltd",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Navvis | St. Louis MO - FacebookNavVis | Munich - FacebookLog Into FacebookNavvis Healthcare - FacebookWhat if you could walk through your facility from anywhere in ...NavVis 3D Mapping | map, cartography | NavVis is a 3D mapping ...NavVis Users Group - Facebook Dec 15, 2022 · Navvis, St. Louis. 4 likes. Navvis is a healthcare transformation company helping partners succeed in value-based care. Ju",
+    "url": "https://www.facebook.com/NavvisPopHealth/",
+    "pass": 3
+   },
+   {
+    "quote": "NavVis | Munich - FacebookLog Into FacebookNavvis Healthcare - FacebookWhat if you could walk through your facility from anywhere in ...NavVis 3D Mapping | map, cartography | NavVis is a 3D mapping ...NavVis Users Group - Facebook Jul 25, 2021 · NavVis, Munich. 1,593 likes · 36 were here. Bridging the gap between the physical and digital world, NavVis enables service providers and enterprises to..",
+    "url": "https://www.facebook.com/navvis.de/",
+    "pass": 3
+   },
+   {
+    "quote": "Navvis Healthcare - Facebook Navvis Healthcare",
+    "url": "https://www.facebook.com/pages/Navvis+Healthcare/128952565342852/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.navvis.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.navvis.com/partners?ptype=Manufacturing+certified",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.navvis.com/partners?ptype=Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.navvis.com/company/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.navvis.com/company/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.navvis.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.navvis.com/partners?ptype=Ambassador",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.navvis.com/partners?ptype=Solution+partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.navvis.com/industry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.navvis.com/industry/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.navvis.com/industry/customers-success",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.navvis.com/industry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.navvis.com/industry/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.navvis.com/become-partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.navvis.com/company/trust-center",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.navvis.com/company/sustainability",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.navvis.com/company/trust-center",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.navvis.com/hs-fs/hubfs/Partners/hero-partner.jpg?width=300&name=hero-partner.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.navvis.com/hs-fs/hubfs/CustomerStory_Thumbnail_LE34.png?width=300&name=CustomerStory_Thumbnail_LE34.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://solutions.kke.co.jp/navvis/news/kke-navvis-summit-japan-2026-opening/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://solutions.kke.co.jp/navvis/news/clx-news-release/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kke.co.jp/release/16048",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kke-hd.co.jp/cms/uploads/2026/09/NewsRelease_20260908.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://solutions.kke.co.jp/navvis/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://solutions.kke.co.jp/navvis/catalog/navvis_products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kobeseiko.co.jp/NavVis.html",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.insiek.co.jp/business/technology/ict/vlx.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://solutions.kke.co.jp/navvis/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://solutions.kke.co.jp/navvis/news/kke-navvis-summit-japan-2026-opening/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://syn-digicon.com/news/navvis/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/navvis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/navvis/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.arista.com/en/partner/partner-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/navvis",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/99546-67",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/navvis/__8IlNt4JnJdwkqQEg5F5GFEEHf4MxTfW007wVaqn6Q-8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://growjo.com/company/NavVis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/navvispophealth",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/NavVisOfficial/status/1655871594290397188",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/KKE_Inc/status/2105126609137410059",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/navvis",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/navvishealthcare",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/navvis",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/navvis-technologies-ltd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/NavvisPopHealth/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/navvis.de/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/Navvis+Healthcare/128952565342852/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/navvis",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "NavVis 日本 導入",
+   "results": [
+    "https://solutions.kke.co.jp/navvis/news/kke-navvis-summit-japan-2026-opening/",
+    "https://solutions.kke.co.jp/navvis/news/clx-news-release/",
+    "https://www.kke.co.jp/release/16048",
+    "https://www.kke-hd.co.jp/cms/uploads/2026/09/NewsRelease_20260908.pdf",
+    "https://prtimes.jp/main/html/rd/p/000000087.000023284.html",
+    "https://built.itmedia.co.jp/bt/articles/2609/15/news066.html",
+    "https://www.kke-hd.co.jp/release/16686"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "NavVis 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://solutions.kke.co.jp/navvis/",
+    "https://solutions.kke.co.jp/navvis/catalog/navvis_products/",
+    "https://www.kobeseiko.co.jp/NavVis.html",
+    "https://www.insiek.co.jp/business/technology/ict/vlx.html",
+    "https://www.kke.co.jp/release/13711",
+    "https://www.insiek.co.jp/business/sale/",
+    "https://cspi-expo.com/result/2024/exhibitor/detail.php?id=43"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "NavVis Japan",
+   "results": [
+    "https://solutions.kke.co.jp/navvis/",
+    "https://solutions.kke.co.jp/navvis/news/kke-navvis-summit-japan-2026-opening/",
+    "https://www.navvis.com/",
+    "https://syn-digicon.com/news/navvis/",
+    "https://www.linkedin.com/posts/kenichi-takane-07395043_kke-navvis-digitaltwin-activity-7389565089856712704-Mye4",
+    "https://www.lattice.co.jp/events/2026/1016-navvissummit2026",
+    "https://www.insiek.co.jp/business/technology/ict/vlx.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "NavVis manufacturing customer case study",
+   "results": [
+    "https://www.navvis.com/resources/case-studies/siemens",
+    "https://www.casestudies.com/company/navvis",
+    "https://www.navvis.com/blog/high-value-use-cases-for-navvis-technology-in-the-digital-factory",
+    "https://www.featuredcustomers.com/vendor/navvis/case-studies",
+    "https://maybe.works/showcases/navvis",
+    "https://www.casestudies.com/company/navvis/case-study/never-standing-still-audi-steers-towards-virtualization",
+    "https://aws.amazon.com/solutions/case-studies/navvis-case-study/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "NavVis white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://www.arista.com/en/partner/partner-program",
+    "https://upcloud.com/partner-program/",
+    "https://www.seoreseller.com/",
+    "https://nebius.com/nebius-partner-program"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "NavVis founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/navvis",
+    "https://pitchbook.com/profiles/company/99546-67",
+    "https://tracxn.com/d/companies/navvis/__8IlNt4JnJdwkqQEg5F5GFEEHf4MxTfW007wVaqn6Q-8",
+    "https://growjo.com/company/NavVis",
+    "https://www.zoominfo.com/c/navvis--co-llc/26951689",
+    "https://tracxn.com/d/companies/navvis/__iWiGUXbVJc8mEqKcjC1vbRnrURKGb4-fxMkH8b1p1lE",
+    "https://multiples.vc/private-comps/navvis"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com NavVis",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/seigo77",
+    "https://note.com/tag/2026年ドラフト",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/quruli/n/n35d2b6cdc37a",
+    "https://note.com/butarounet/n/nd7206f5ae7d2",
+    "https://note.com/levelma/n/n667dbb60564d"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com NavVis",
+   "results": [
+    "https://x.com/navvispophealth",
+    "https://x.com/NavVisOfficial/status/1655871594290397188",
+    "https://x.com/KKE_Inc/status/2105126609137410059",
+    "https://x.com/",
+    "https://x.com/MovingAtomsLab/status/2111378871090135182",
+    "https://x.com/TechCrunch/status/677069413468737536",
+    "https://x.com/danackerson"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com NavVis",
+   "results": [
+    "https://www.linkedin.com/company/navvis",
+    "https://www.linkedin.com/company/navvishealthcare",
+    "https://in.linkedin.com/company/navvis",
+    "https://ca.linkedin.com/company/navvis-technologies-ltd",
+    "https://cn.linkedin.com/company/navvis",
+    "https://cn.linkedin.com/in/jimmyliziming",
+    "https://de.linkedin.com/in/felix-reinshagen-527ab97a"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com NavVis",
+   "results": [
+    "https://www.facebook.com/NavvisPopHealth/",
+    "https://www.facebook.com/navvis.de/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/pages/Navvis+Healthcare/128952565342852/",
+    "https://www.facebook.com/AptellaAsia/videos/navvis-3d-mapping/1000831841228933/",
+    "https://www.facebook.com/groups/1451117496775741/",
+    "https://www.facebook.com/TechnologyDevelopmentInstitute/videos/navvis-social-vidmp4/26852842371067085/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "NavVis note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "NavVis X 投稿",
+   "results": [
+    "https://x.com/navvis",
+    "https://www.navvis.com/",
+    "https://zh.navvis.com/",
+    "https://space.bilibili.com/3461577002978205/video",
+    "https://x.com/KKE_Inc/status/2105126609137410059",
+    "https://iv.navvis.com/",
+    "https://zh.navvis.com/resources/content-library"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式17頁／PDF・画像2件／外部32頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式17頁／PDF・画像2件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式17頁／PDF・画像2件／外部32頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式17頁／PDF・画像2件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式17頁／PDF・画像2件／外部32頁・検索12回）"
+ }
+}

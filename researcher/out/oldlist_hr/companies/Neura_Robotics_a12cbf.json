@@ -1,0 +1,1763 @@
+{
+ "name": "Neura Robotics",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-11T13:12:38.032341+00:00",
+ "official_url": "https://neura-robotics.com/",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "HQ City",
+    "value": "Ulm",
+    "url": "https://multiples.vc/private-comps/neura-robotics",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Gen 4 launched at the opening of the NEURA Gym in Munich and is built to work alongside people and training on real tasks, from the companies that need them done.",
+    "url": "https://neura-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Built to handle any task, in any environment. Whether it's streamlining production, supporting business operations, or assisting at home, our technology adapts to the way you work and live.",
+    "url": "https://neura-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Cognitive robots that think and learn, collaborative platforms that work alongside humans, and AI-powered assistants that understand your world. Our span of products is tailored to suit a variety of applications and support you, all built on advanced robotics technology and artificial intelligence that enables machines to sense, respond, and adapt like never before.",
+    "url": "https://neura-robotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Collaborative robots reduce direct human contact in critical processing steps and support strict hygiene standards.",
+    "url": "https://neura-robotics.com/industries/food-and-beverage/",
+    "pass": 1
+   },
+   {
+    "quote": "Food and beverage producers can quickly adapt to rising global demand and changing consumer preferences with automation solutions.",
+    "url": "https://neura-robotics.com/industries/food-and-beverage/",
+    "pass": 1
+   },
+   {
+    "quote": "Robots ensure precise filling and dosing, reducing waste and ensuring product consistency.",
+    "url": "https://neura-robotics.com/industries/food-and-beverage/",
+    "pass": 1
+   },
+   {
+    "quote": "Efficient Product Handling",
+    "url": "https://neura-robotics.com/industries/food-and-beverage/",
+    "pass": 1
+   },
+   {
+    "quote": "Precision Filling and Quality Inspection",
+    "url": "https://neura-robotics.com/industries/food-and-beverage/",
+    "pass": 1
+   },
+   {
+    "quote": "for Consistent Food Production",
+    "url": "https://neura-robotics.com/industries/food-and-beverage/",
+    "pass": 1
+   },
+   {
+    "quote": "Our Products for your Needs in the Food and Beverage Industry",
+    "url": "https://neura-robotics.com/industries/food-and-beverage/",
+    "pass": 1
+   },
+   {
+    "quote": "Robotics speed up order handling and reduce process shortages.",
+    "url": "https://neura-robotics.com/industries/logistics/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve Accuracy and Reduce Errors",
+    "url": "https://neura-robotics.com/industries/logistics/",
+    "pass": 1
+   },
+   {
+    "quote": "Vision systems and AI-driven precision lower return rates and rework.",
+    "url": "https://neura-robotics.com/industries/logistics/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve Ergonomics and Safety",
+    "url": "https://neura-robotics.com/industries/logistics/",
+    "pass": 1
+   },
+   {
+    "quote": "From goods-in to end-of-line, mobile and collaborative robots keep materials moving between warehouses, stations and production zones. Navigating autonomously through dynamic environments, they take over internal transport and repetitive handling tasks while working safely alongside your team — connecting warehouse logistics, intralogistics and end-of-line automation into one continuous flow.",
+    "url": "https://neura-robotics.com/industries/logistics/",
+    "pass": 1
+   },
+   {
+    "quote": "Our Recommended Products for Warehouse & Fulfillment",
+    "url": "https://neura-robotics.com/industries/logistics/",
+    "pass": 1
+   },
+   {
+    "quote": "Skilled caregivers still spend part of every shift pushing beds, chasing supplies and loading sterilisers. As the workforce shrinks, those hours grow harder to spare. One German care network alone expects 800 of its 3,000 staff to retire within three years. NEURA HealthTech takes that physical work off their hands and gives the time back to patients.",
+    "url": "https://neura-robotics.com/industries/healthcare-robotics/",
+    "pass": 1
+   },
+   {
+    "quote": "Our sterile goods system collects used surgical instruments and takes them to the washers and sterilisers. It then returns clean sets to every unit. Using MAV+, it travels across machines and stations within your current layout, with no construction work. Technicians are spared heavy loads, long walks and repeated clothing changes, leaving space for quality checks.",
+    "url": "https://neura-robotics.com/industries/healthcare-robotics/",
+    "pass": 1
+   },
+   {
+    "quote": "In the operating room and at the dental chair, concentration is everything. Our robotic arms pass doctors, surgeons and dentists each tool the second it is needed, so their focus remains on the procedure. Embedded in medical devices, the arms see, feel and respond to the clinician they support.",
+    "url": "https://neura-robotics.com/industries/healthcare-robotics/",
+    "pass": 1
+   },
+   {
+    "quote": "Start with your process",
+    "url": "https://neura-robotics.com/industries/healthcare-robotics/",
+    "pass": 1
+   },
+   {
+    "quote": "Discovery begins with structured interviews in your departments and ends with a workflow plan you can act on, costed and sequenced.",
+    "url": "https://neura-robotics.com/industries/healthcare-robotics/",
+    "pass": 1
+   },
+   {
+    "quote": "Automation That Drives Precision in Machining and Assembly",
+    "url": "https://neura-robotics.com/industries/metal-and-machining/",
+    "pass": 1
+   },
+   {
+    "quote": "Automated welding with millimeter precision, even for small batches.",
+    "url": "https://neura-robotics.com/industries/metal-and-machining/",
+    "pass": 1
+   },
+   {
+    "quote": "Flexibly reprogrammable for high-mix, low-volume production environments.",
+    "url": "https://neura-robotics.com/industries/metal-and-machining/",
+    "pass": 1
+   },
+   {
+    "quote": "Improved Workplace Safety",
+    "url": "https://neura-robotics.com/industries/metal-and-machining/",
+    "pass": 1
+   },
+   {
+    "quote": "Precision Welding with",
+    "url": "https://neura-robotics.com/industries/metal-and-machining/",
+    "pass": 1
+   },
+   {
+    "quote": "Start Your Industrial Automation with Our Products",
+    "url": "https://neura-robotics.com/industries/metal-and-machining/",
+    "pass": 1
+   },
+   {
+    "quote": "Free up valuable time by handling routine processes autonomously.",
+    "url": "https://neura-robotics.com/industries/transportation/",
+    "pass": 1
+   },
+   {
+    "quote": "Identify defects using camera-based inspections to keep production standards high.",
+    "url": "https://neura-robotics.com/industries/transportation/",
+    "pass": 1
+   },
+   {
+    "quote": "Versatile assembly support, ideal for multi-variant production and for increasing productivity.",
+    "url": "https://neura-robotics.com/industries/transportation/",
+    "pass": 1
+   },
+   {
+    "quote": "Our Products For Your Transportation Solutions",
+    "url": "https://neura-robotics.com/industries/transportation/",
+    "pass": 1
+   },
+   {
+    "quote": "NEURA was founded on the belief that the next major technology revolution will not happen on screens, but in the physical world. As aging populations, labor shortages and growing demand for skilled work reshape economies worldwide, Physical AI will become essential to sustaining productivity, prosperity and quality of life.",
+    "url": "https://neura-robotics.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "We stay two steps ahead through ownership, freedom of action, and a bias for progress.",
+    "url": "https://neura-robotics.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "We build a culture of open communication, transparency, and mutual appreciation.",
+    "url": "https://neura-robotics.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "The largest capital raise of a full-stack robotics company. The investment supports us on the way towards the production toward multi-million robots by 2030 and scales both the Neuraverse platform and NEURA Gyms worldwide.",
+    "url": "https://neura-robotics.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "NEURA makes its first major public appearance at automatica 2022, introducing several new products to the world. Among them: 4NE1 Gen 1, NEURA's first cognitive humanoid robot.",
+    "url": "https://neura-robotics.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "NEURA unveils its full product portfolio, including 4NE1 Gen 2 and MAiRA XL. European investors contribute €50M, joined by $16M from InterAlpen Partners, laying the foundation for global expansion.",
+    "url": "https://neura-robotics.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "First products launched",
+    "url": "https://neura-robotics.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Product design, production, testing, integration and deployment are all covered within the group.",
+    "url": "https://neura-robotics.com/about-us/neura-group/",
+    "pass": 1
+   },
+   {
+    "quote": "Precision Electronics for Tomorrow’s Machines",
+    "url": "https://neura-robotics.com/about-us/neura-group/",
+    "pass": 1
+   },
+   {
+    "quote": "NEURA Electronics provides the industrial electronics backbone for NEURA robots and Neuraverse enabled systems. The team designs and manufactures control cabinets, power electronics and sensor integrations for demanding automation projects. This in-house expertise allows fast iterations and highly reliable hardware for Neuraverse connected fleets.",
+    "url": "https://neura-robotics.com/about-us/neura-group/",
+    "pass": 1
+   },
+   {
+    "quote": "Automation Solutions: From Problem to Production",
+    "url": "https://neura-robotics.com/about-us/neura-group/",
+    "pass": 1
+   },
+   {
+    "quote": "Most automation projects don’t fail in the lab. They fail on the floor, when a system built for ideal conditions meets a real one. NEURA Automation builds systems for welding, sanding, material transport, machine tending, quality inspection and more. Every one of these is customized to the specific problem it solves and tested in its own operations, before it can ever be a risk on the shop floor.",
+    "url": "https://neura-robotics.com/about-us/neura-group/",
+    "pass": 1
+   },
+   {
+    "quote": "移動時間の価値を高める──JR東海が「Supreme Class」に込めた思い",
+    "url": "https://forbesjapan.com/articles/detail/77977",
+    "pass": 3
+   },
+   {
+    "quote": "テレビの先にある新たなリーチ サテライトオフィスがPrime Video広告を選んだ理由",
+    "url": "https://forbesjapan.com/articles/detail/77977",
+    "pass": 3
+   },
+   {
+    "quote": "DOBOTの強みを関西のイベントでPR／DOBOT JAPANほか",
+    "url": "https://www.robot-digest.com/contents/?id=1642412017-101791",
+    "pass": 3
+   },
+   {
+    "quote": "System Design Explained: APIs, Databases, Caching, CDNs, Load Balancing & Production Infra",
+    "url": "https://www.youtube.com/watch?v=czHCM4fGQoU",
+    "pass": 3
+   },
+   {
+    "quote": "Videos & Infographics",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "April 30, 2026",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "measurable production results at scale",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "How Does Physical AI Learn with Limited Training Data?",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "“Physical AI will only reach its full potential if intelligence can be trained, validated, and continuously improved in the real world,” according to the AWS partnership announcement.",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Major manufacturing economies face a combined 101 million worker deficit by 2030, according to David Reger. China accounts for 87 million of that deficit, while the EU and Japan are each projected to be short 7 million workers. The aging population across all three regions is driving the deficit, and",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "April 2026",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "The 4NE1 Gen 3.5, designed in collaboration with Studio F.A. Porsche, is priced at 98,000 euros for individual orders and drops to 60,000 euros per unit for fleet purchases of 20 or more. Both models run on the NVIDIA Thor T5000 processor and the NVIDIA Isaac GR00T XX",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "measurable production results from humanoid robots at BMW",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Based on a video interview with David Reger, founder and CEO of Neura Robotics, recorded by Lucian Fogoros of IIoT World at the AWS booth during Hannover Messe 2026. Additional specifications from Neura Robotics public product documentation and the AWS-Neura partnership announcement of April 20, 2026.",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "The 4NE1 Gen 3.5 handles precision assembly, quality inspection, palletizing, machine tending, pressing buttons, turning switches, and loading parts into machines. It lifts up to 100 kg, has 25+ degrees of freedom, and runs six to eight hours with hot-swappable batteries for continuous 24/7 operation.",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Physical AI robots are fully autonomous and reactive, adapting to changing conditions without reprogramming. Models trained on the smaller 4NE1 Mini transfer directly to the manufacturing-grade 4NE1 Gen 3.5. Fleet intelligence is shared across all robots through the cloud-based Neuraverse platform hosted on AWS.",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Neura Robotics prices the manufacturing-grade 4NE1 Gen 3.5 at 60,000 to 98,000 euros per unit, with fleet orders of 20 or more qualifying for the lower price point. With a 101 million worker deficit projected by 2030, the ROI calculation compares robot unit cost against the rising cost of unfilled manufacturing positions across China (87 million deficit), the EU (7 million), and Japan (7 million).",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "From goods-in to end-of-line, mobile and collaborative robots keep materials moving between warehouses, stations and production zones. Navigating autonomously through dynamic environments, they take over internal transport and repetitive handling tasks while working safely alongside your team — connecting warehouse logistics, intralogistics and end-of-line automation into one continuous flow.",
+    "url": "https://neura-robotics.com/industries/logistics/",
+    "pass": 1
+   },
+   {
+    "quote": "Our Recommended Products for Warehouse & Fulfillment",
+    "url": "https://neura-robotics.com/industries/logistics/",
+    "pass": 1
+   },
+   {
+    "quote": "Our sterile goods system collects used surgical instruments and takes them to the washers and sterilisers. It then returns clean sets to every unit. Using MAV+, it travels across machines and stations within your current layout, with no construction work. Technicians are spared heavy loads, long walks and repeated clothing changes, leaving space for quality checks.",
+    "url": "https://neura-robotics.com/industries/healthcare-robotics/",
+    "pass": 1
+   },
+   {
+    "quote": "Start Your Industrial Automation with Our Products",
+    "url": "https://neura-robotics.com/industries/metal-and-machining/",
+    "pass": 1
+   },
+   {
+    "quote": "Automation for automotive and aviation | NEURA Robotics",
+    "url": "https://neura-robotics.com/industries/transportation/",
+    "pass": 1
+   },
+   {
+    "quote": "Aviation and Aerospace",
+    "url": "https://neura-robotics.com/industries/transportation/",
+    "pass": 1
+   },
+   {
+    "quote": "NEURA Electronics provides the industrial electronics backbone for NEURA robots and Neuraverse enabled systems. The team designs and manufactures control cabinets, power electronics and sensor integrations for demanding automation projects. This in-house expertise allows fast iterations and highly reliable hardware for Neuraverse connected fleets.",
+    "url": "https://neura-robotics.com/about-us/neura-group/",
+    "pass": 1
+   },
+   {
+    "quote": "Most automation projects don’t fail in the lab. They fail on the floor, when a system built for ideal conditions meets a real one. NEURA Automation builds systems for welding, sanding, material transport, machine tending, quality inspection and more. Every one of these is customized to the specific problem it solves and tested in its own operations, before it can ever be a risk on the shop floor.",
+    "url": "https://neura-robotics.com/about-us/neura-group/",
+    "pass": 1
+   },
+   {
+    "quote": "Neura Robotics: Physical AI for Manufacturing | IIoT World",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Events 2026",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "#manufacturing automation",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "to scale physical AI from controlled lab environments to global manufacturing deployment.",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "What Can Humanoid Robots Do on a Factory Floor Today?",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Why Is the Manufacturing Labor Shortage Accelerating Robot Adoption?",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Major manufacturing economies face a combined 101 million worker deficit by 2030, according to David Reger. China accounts for 87 million of that deficit, while the EU and Japan are each projected to be short 7 million workers. The aging population across all three regions is driving the deficit, and",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "industry surveys show 86% of manufacturers now treat AI and robotics as essential",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing, logistics",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "earlier in 2026, where a similar deployment model achieved factory-scale output.",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Neura Robotics is a German cognitive robotics company founded in 2019 and headquartered in Metzingen. The company develops humanoid robots for manufacturing, logistics, and personal use. CEO and founder David Reger coined the term “cognitive robotics.” Neura has raised 185 million euros and partners with AWS, Kawasaki, Schaeffler, Bosch, and Qualcomm Technologies.",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "2. What tasks can the 4NE1 humanoid robot perform in factories?",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "3. How does physical AI differ from traditional industrial robotics?",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Physical AI robots are fully autonomous and reactive, adapting to changing conditions without reprogramming. Models trained on the smaller 4NE1 Mini transfer directly to the manufacturing-grade 4NE1 Gen 3.5. Fleet intelligence is shared across all robots through the cloud-based Neuraverse platform hosted on AWS.",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "4. How many manufacturing workers will the world be short by 2030?",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "5. What is physical AI and how does it work in factories?",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "6. What is the ROI of deploying humanoid robots in manufacturing?",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Neura Robotics prices the manufacturing-grade 4NE1 Gen 3.5 at 60,000 to 98,000 euros per unit, with fleet orders of 20 or more qualifying for the lower price point. With a 101 million worker deficit projected by 2030, the ROI calculation compares robot unit cost against the rising cost of unfilled manufacturing positions across China (87 million deficit), the EU (7 million), and Japan (7 million).",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "7. How is AI being used in manufacturing operations today?",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Lucian Fogoros is the Co-Founder of IIoT World, a global industrial technology media and events platform focused on Industrial IoT, Industrial AI, automation, manufacturing, energy, and industrial cybersecurity. An entrepreneurial software engineer and business leader, Lucian has worked in the industrial software and automation industry since 1998.",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Humanoid Robots in Manufacturing: 2026 Data",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "AGIBOT's G2 completed 140 continuous hours on a Longcheer Technology consumer electronics production line with a 99.9% success rate. Agility Robotics' Digit handles bearing components at Schaeffler's South Carolina factory…",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Figure AI's humanoid robots completed an 11-month deployment at BMW's Spartanburg plant, loading 90,000+ sheet metal parts across 1,250 operational hours and contributing to the production of more than 30,000…",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Manufacturing & Supply Chain Summit",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Learn how AI can improve manufacturing and supply chains. Join the free online summit.",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": ". These systems represent a significant expansion of the company’s cognitive robotics portfolio and are designed to operate across manufacturing, logistics, service and household environments.",
+    "url": "https://www.ces.tech/success-stories/neura-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "NEURA’s CES demonstrations showcased how this shared intelligence model could support a wide range of applications, from industrial automation and logistics to service robotics and home assistance.",
+    "url": "https://www.ces.tech/success-stories/neura-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "NEURA Robotics’ presence at CES underscored this broader momentum. By combining humanoid robotics, collaborative machines and a shared intelligence platform, the company demonstrated how the next generation of robots could operate across factories, logistics networks, healthcare settings and everyday environments.",
+    "url": "https://www.ces.tech/success-stories/neura-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Neura Robotics is doing extremely well in funding, industrial expansion, and partnerships, making it one of Europe's strongest robotics startups. But its humanoid business still has to prove that it can deliver robots reliably at commercial scale.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "Neura's biggest commercial advantage may have little to do with humanoids. By acquiring ek robotics, Bosch Rexroth's ACTIVE Shuttle platform, and ADLATUS Robotics, it has added established industrial transport and cleaning businesses with existing customers and deployed machines.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "That's an important distinction from many humanoid startups. Neura can potentially build revenue through warehouse transport, factory logistics, and cleaning while its 4NE1 humanoid remains under development.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "The humanoid ambitions are enormous, including plans for thousands of units annually and eventually millions of robots across its portfolio. Yet Neura hasn't published comprehensive figures for completed humanoids, manufacturing costs, customer acceptance, or production reliability.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "Bosch, Schaeffler, AWS, and semiconductor partners give Neura an unusually strong route toward manufacturing and deployment. But many of those relationships involve development, infrastructure, or future applications rather than confirmed large-scale humanoid deliveries.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "Our assessment is that Neura has built a credible industrial robotics group with a serious opportunity in physical AI. Its next defining milestones are turning orders into revenue, manufacturing thousands of reliable robots, and demonstrating measurable productivity improvements at customer sites.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "Founded in Germany in 2019 by David Reger, Neura started with cognitive industrial robots designed to sense and respond to their surroundings. It has since expanded into robotic arms, autonomous mobile robots, service robots, and the 4NE1 humanoid.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "Neura also has a different approach from startups focused almost entirely on humanoids. It wants to connect multiple types of robots through one AI platform, allowing them to learn skills, share data, and work in industrial environments.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "That strategy has attracted Bosch, Schaeffler, NVIDIA, Amazon, and Qualcomm. Neura now has substantial financial backing and industrial relationships to compete globally, although its commercial results are still much harder to assess than its fundraising success.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "That's three important industrial robotics additions in less than eleven months. The acquired businesses brought existing customers, manufacturing knowledge, and deployed systems.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "At $100 million in annual sales, Neura would trade at 70 times revenue. Even at $500 million, the multiple would still be 14 times. Those levels demand strong growth, particularly for a company manufacturing physical hardware with component, assembly, and maintenance costs.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "Take Schaeffler. In November 2025, the German industrial supplier announced plans to integrate a mid-four-digit number of Neura humanoids into its factories by 2035. That potentially represents several thousand robots, but the deployment timetable stretches across roughly a decade.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "Still, the Schaeffler example provides more substance than a vague expression of interest. It combines a deployment agreement with component development and access to industrial operating data.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "Neura Robotics has laid out aggressive manufacturing plans, but mass production of its 4NE1 humanoid has yet to be independently demonstrated at the scale it is targeting.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "Neura has some unusually useful partners for this challenge. Schaeffler is developing humanoid components, Bosch brings manufacturing expertise, and a September 2026 partnership with SECO focuses on industrial computing hardware built around Qualcomm technologies.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "Nevertheless, the company has not released comprehensive figures for actual completed humanoids, manufacturing yields, unit costs, or robots accepted by customers.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "Its industrial supply chain is taking shape. The hard part now is consistently turning those components into thousands of working humanoids.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "Figure provides a particularly useful comparison. In November 2025, Figure reported that its Figure 02 robots had loaded more than 90,000 sheet-metal parts during approximately 1,250 hours of operation at BMW's Spartanburg factory. BMW subsequently confirmed those figures.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "These are relatively narrow industrial tasks, but they have measurable volumes and were performed in real workplaces.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "Neura's strength is broader. Its portfolio already includes established industrial and mobile robots, while 4NE1, Neuron AI, and Neuraverse are intended to work together.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "Tesla brings manufacturing resources and AI expertise, Boston Dynamics has deep robotics engineering experience, and Unitree has moved quickly on humanoid hardware development and pricing.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial ecosystem and shared robot AI",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "Existing industrial robotics; limited public 4NE1 operating figures",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing resources and AI",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Skilled caregivers still spend part of every shift pushing beds, chasing supplies and loading sterilisers. As the workforce shrinks, those hours grow harder to spare. One German care network alone expects 800 of its 3,000 staff to retire within three years. NEURA HealthTech takes that physical work off their hands and gives the time back to patients.",
+    "url": "https://neura-robotics.com/industries/healthcare-robotics/",
+    "pass": 1
+   },
+   {
+    "quote": "Robots take over monotonous or physically demanding tasks, reducing the risk of injury for employees.",
+    "url": "https://neura-robotics.com/industries/transportation/",
+    "pass": 1
+   },
+   {
+    "quote": "Its reported order book exceeding $1 billion is encouraging, especially with Schaeffler planning to deploy several thousand humanoids by 2035. Still, long-term commitments aren't the same as delivered robots, and Neura hasn't disclosed how much of that backlog will turn into near-term revenue.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "That's an important distinction from many humanoid startups. Neura can potentially build revenue through warehouse transport, factory logistics, and cleaning while its 4NE1 humanoid remains under development.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "At $7 billion, the financial expectations are steep. Even $500 million in annual revenue would imply a 14x revenue multiple, demanding strong growth and attractive margins from a business heavily exposed to physical hardware.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "Our assessment is that Neura has built a credible industrial robotics group with a serious opportunity in physical AI. Its next defining milestones are turning orders into revenue, manufacturing thousands of reliable robots, and demonstrating measurable productivity improvements at customer sites.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "Neura Robotics is expanding extremely quickly through funding, acquisitions, and partnerships, but we still cannot measure its organic revenue growth reliably.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "The expansion goes beyond fundraising. Neura acquired ek robotics in October 2025, adding more than 300 employees and an established autonomous transport business. It then acquired Bosch Rexroth's ACTIVE Shuttle platform and ADLATUS Robotics in August 2026.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "That's three important industrial robotics additions in less than eleven months. The acquired businesses brought existing customers, manufacturing knowledge, and deployed systems.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "What we cannot establish is how much Neura's own products are growing. The company does not publish comprehensive audited financial statements showing revenue growth, recurring sales, or the contribution of acquisitions.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "But what kind of revenue would justify $7 billion?",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "At $100 million in annual sales, Neura would trade at 70 times revenue. Even at $500 million, the multiple would still be 14 times. Those levels demand strong growth, particularly for a company manufacturing physical hardware with component, assembly, and maintenance costs.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "Annual revenue scenario",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "Neura Robotics has reported more than $1 billion in orders and strategic commitments, which suggests serious customer interest, although the company has not disclosed enough details to establish how much revenue those commitments will generate.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "These are relatively narrow industrial tasks, but they have measurable volumes and were performed in real workplaces.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "Neura Robotics is increasingly becoming an industrial automation group, and its recent acquisitions may be more important to its near-term business than the publicity around 4NE1.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "In October 2025, it acquired ek robotics, which brought over 300 employees, more than 60 years of experience, and an established customer base in autonomous industrial transport.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "Later in August, it acquired ADLATUS Robotics, a specialist in autonomous professional cleaning with hundreds of installed systems.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "Three acquisitions across roughly eleven months expanded Neura into mobile logistics, factory transport, and cleaning. Those businesses already address tasks customers understand and pay to automate.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "Even so, Neura's acquisition strategy gives it a practical way to grow its industrial presence before general-purpose humanoids are ready for widespread use.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "We wouldn't be surprised if Neura's specialized robots generate meaningful commercial results before 4NE1 becomes a widely deployed product. The acquired businesses already have installations, whereas the humanoid is still building its public operating record.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": ", we put numbers on each part of the market, so you can see where it makes sense to focus.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "The three acquisitions discussed above have also brought products and engineering teams with different histories. Integrating their technologies into one ecosystem could take considerable effort.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "The second is commercial activity. We would want to see how much of the reported $1 billion order pipeline turns into revenue, particularly from industrial customers such as Schaeffler.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "The company has attracted extraordinary financial backing, built relationships with major manufacturers, and acquired established robotics businesses. That puts Neura in a stronger position than many startups still relying on prototype demonstrations and venture funding alone.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "This analysis examines how Neura Robotics is performing across financing, commercial traction, manufacturing readiness, technology, industrial partnerships, acquisitions, and competition. We assessed whether its reported $7 billion valuation and rapid expansion are supported by observable business results, rather than relying primarily on fundraising announcements or demonstrations.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": ". The reported $7 billion valuation is treated as a private-market financing benchmark. The Series C's maximum announced size is not assumed to represent fully received funds, and the reported order pipeline is assessed separately from delivered products and booked revenue.",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "Robots aren’t new, and have long been used in factories to carry out repetitive tasks like assembling, welding, painting and quality inspection.",
+    "url": "https://hvcapital.com/portfolio/neura-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Traditionally, robots were trained to carry out the same action in the same environment. Now, AI has unlocked the ability for robots to be sent into unfamiliar territories, judge what the task is that needs to be done, and execute it.",
+    "url": "https://hvcapital.com/portfolio/neura-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Where many traditional robotics companies focus on isolated machines or software with narrow applications, David understood that delivering real value to customers requires offering the full-stack of hardware, sensors, AI models, and software.",
+    "url": "https://hvcapital.com/portfolio/neura-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "SoftBank’s proposed $5.4B acquisition of ABB Robotics blocked by China",
+    "url": "https://www.robotics247.com/article/neura_robotics_gft_partner_to_build_next_generation_software_for_physical_ai",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up to see data on 350K+ funding rounds and disclosed revenue and EBITDA valuation multiples, from seed, through growth stage, to pre-IPO.",
+    "url": "https://multiples.vc/private-comps/neura-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Latest Acquisitions by",
+    "url": "https://multiples.vc/private-comps/neura-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "ADLATUS Robotics is a service robotics company based in Ulm, Germany. It develops, makes and sells cleaning robots and gives customers consulting, commissioning and training. NEURA Mobile Robots acquired it in 2026.",
+    "url": "https://multiples.vc/private-comps/neura-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "acquisitions and their M&A valuation multiples.",
+    "url": "https://multiples.vc/private-comps/neura-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "NEURA Robotics competitors include listed companies like EquipmentShare.com, PTC, Proto Labs and Imdex, and private ones like Certus Core and Divergent.",
+    "url": "https://multiples.vc/private-comps/neura-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Is NEURA Robotics publicly listed?",
+    "url": "https://multiples.vc/private-comps/neura-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "How many companies has NEURA Robotics acquired?",
+    "url": "https://multiples.vc/private-comps/neura-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "NEURA Robotics has acquired 1 company, including",
+    "url": "https://multiples.vc/private-comps/neura-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "収益度が中位にとどまるのは、非上場で売上・損益が開示されていないためです",
+    "url": "https://note.com/kagawatomo/n/nba625c5d0b9f",
+    "pass": 3
+   },
+   {
+    "quote": "売上高、営業損益（非上場のため未開示",
+    "url": "https://note.com/kagawatomo/n/nba625c5d0b9f",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Official Partner of Neura Robotics in Japan.",
+    "url": "https://nichieikikou.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社はドイツNEURA ROBOTICS社の日本における公式パートナーです",
+    "url": "https://nichieikikou.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "アイシン・エィ・ダブリュ株式会社 ／ NTN株式会社 ／ 株式会社FTS ／ 株式会社協豊製作所 ／",
+    "url": "https://nichieikikou.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "／ 津田工業株式会社 ／ 株式会社豊田自動織機 ／",
+    "url": "https://nichieikikou.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "トヨタ自動車株式会社 ／ トヨタ自動車九州株式会社 ／ トヨタ自動車北海道株式会社 ／",
+    "url": "https://nichieikikou.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "トヨタ車体株式会社 ／ 日立オートモティブシステムズ株式会社 ／ 日野自動車株式会社 ／",
+    "url": "https://nichieikikou.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "「世界最高の人型ロボ」をうたうNeura Robotics新モデルの実力は？ 6月に欧州で発売開始 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+    "url": "https://forbesjapan.com/articles/detail/77977",
+    "pass": 3
+   },
+   {
+    "quote": "100年続くホテルが、100年先の森を育てる理由──「東京ステーションホテル」が未来へつなぐもの",
+    "url": "https://forbesjapan.com/articles/detail/77977",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ今、日本市場に勝機があるのか ローランド・ベルガーが示す日本企業の新たな成長像",
+    "url": "https://forbesjapan.com/articles/detail/77977",
+    "pass": 3
+   },
+   {
+    "quote": "上智大学×タキヒヨーの共創が生んだサステナブルTシャツ――「TOKYOエシカル」がつなぐ新たな可能性",
+    "url": "https://forbesjapan.com/articles/detail/77977",
+    "pass": 3
+   },
+   {
+    "quote": "KKR・大和証券の両トップが語る 日本が「世界有数の成長市場」になる未来",
+    "url": "https://forbesjapan.com/articles/detail/77977",
+    "pass": 3
+   },
+   {
+    "quote": "Forbes JAPANの最新のニュースをお届けします",
+    "url": "https://forbesjapan.com/articles/detail/77977",
+    "pass": 3
+   },
+   {
+    "quote": "日栄機工は、ドイツのロボットベンチャー企業ニウラロボティクスの国内唯一の正規代理店として、AI搭載の協働ロボット「MAiRA（マイラ）」を昨年夏に販売した",
+    "url": "https://www.robot-digest.com/contents/?id=1642412017-101791",
+    "pass": 3
+   },
+   {
+    "quote": "DOBOTの強みを関西のイベントでPR／DOBOT JAPANほか",
+    "url": "https://www.robot-digest.com/contents/?id=1642412017-101791",
+    "pass": 3
+   },
+   {
+    "quote": "[ショールーム探訪vol.3]秘密じゃないけど秘密基地【後編】／ABB「アプリケーション・センター東日本」",
+    "url": "https://www.robot-digest.com/contents/?id=1642412017-101791",
+    "pass": 3
+   },
+   {
+    "quote": "受注額と生産額、ともに前年を大幅に下回る／日本ロボット工業会 2023年統計",
+    "url": "https://www.robot-digest.com/contents/?id=1642412017-101791",
+    "pass": 3
+   },
+   {
+    "quote": "NEURA Robotics 日本 - YouTube",
+    "url": "https://www.youtube.com/watch?v=czHCM4fGQoU",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社日栄機工 4,612回視聴 5 年前",
+    "url": "https://www.youtube.com/watch?v=czHCM4fGQoU",
+    "pass": 3
+   },
+   {
+    "quote": "NEURA Robotics 日本-マルチセンシング自律搬送台車",
+    "url": "https://www.youtube.com/watch?v=czHCM4fGQoU",
+    "pass": 3
+   },
+   {
+    "quote": "4,612回視聴 • 2021/07/02 • JAPAN",
+    "url": "https://www.youtube.com/watch?v=czHCM4fGQoU",
+    "pass": 3
+   },
+   {
+    "quote": "NEURA-ROBOTICS-Japan - Nichieikikou.Co.Ltd",
+    "url": "https://nichieikikou.co.jp/neura-robotics-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "日本で唯一のドイツ社NEURA ROBOTICSのオフィシャルパートナーです",
+    "url": "https://nichieikikou.co.jp/neura-robotics-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Major manufacturing economies face a combined 101 million worker deficit by 2030, according to David Reger. China accounts for 87 million of that deficit, while the EU and Japan are each projected to be short 7 million workers. The aging population across all three regions is driving the deficit, and",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "According to Neura Robotics CEO David Reger, major economies face a combined 101 million worker deficit by 2030: China 87 million, the EU 7 million, and Japan 7 million, driven by rapid population aging across all three regions.",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Neura Robotics prices the manufacturing-grade 4NE1 Gen 3.5 at 60,000 to 98,000 euros per unit, with fleet orders of 20 or more qualifying for the lower price point. With a 101 million worker deficit projected by 2030, the ROI calculation compares robot unit cost against the rising cost of unfilled manufacturing positions across China (87 million deficit), the EU (7 million), and Japan (7 million).",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "On July 19, 2023, Neura Robotics closed a $55 million funding round led by Lingotto (affiliate of Exor N.V.), with participation from Vsquared Ventures, Primepulse, and HV Capital. The capital will expand production infrastructure in Germany to meet demand, support R&D, hire talent, and drive market entry into the US and Japan. GP Bullhound advised on the transaction.",
+    "url": "https://multiples.vc/private-comps/neura-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "日本の大手産業コングロマリットが顧客に含まれていることは、商業的な牽引力が欧州にとどまらないことを示す、と評価されている",
+    "url": "https://note.com/kagawatomo/n/nba625c5d0b9f",
+    "pass": 3
+   },
+   {
+    "quote": "第一に、日本企業は既にNEURAと組んでいる",
+    "url": "https://note.com/kagawatomo/n/nba625c5d0b9f",
+    "pass": 3
+   },
+   {
+    "quote": "つまり日本の主要ロボットメーカーは、NEURAの技術を「競合」としてだけでなく「調達先」としても扱っている",
+    "url": "https://note.com/kagawatomo/n/nba625c5d0b9f",
+    "pass": 3
+   },
+   {
+    "quote": "この関係が今後どうなるかは、日本のロボット産業にとって具体的な論点である",
+    "url": "https://note.com/kagawatomo/n/nba625c5d0b9f",
+    "pass": 3
+   },
+   {
+    "quote": "日本の産業用ロボットは、精度と信頼性と保守性で世界を取った",
+    "url": "https://note.com/kagawatomo/n/nba625c5d0b9f",
+    "pass": 3
+   },
+   {
+    "quote": "この軸で競争が起きたとき、日本メーカーがどう応じるか",
+    "url": "https://note.com/kagawatomo/n/nba625c5d0b9f",
+    "pass": 3
+   },
+   {
+    "quote": "日本には、Siemensのような産業ソフトウェアの垂直統合が存在しない",
+    "url": "https://note.com/kagawatomo/n/nba625c5d0b9f",
+    "pass": 3
+   },
+   {
+    "quote": "これは日本のロボットスタートアップにとっても、そのまま当てはまる問いである",
+    "url": "https://note.com/kagawatomo/n/nba625c5d0b9f",
+    "pass": 3
+   },
+   {
+    "quote": "| 日本の産業への含意、資本構成の教訓 | 筆者の見解 |",
+    "url": "https://note.com/kagawatomo/n/nba625c5d0b9f",
+    "pass": 3
+   },
+   {
+    "quote": "日本への示唆──「全部ある国」が、もう一つある",
+    "url": "https://note.com/kagawatomo/n/nf0714522fe1c",
+    "pass": 3
+   },
+   {
+    "quote": "日本円では約2,240億円です",
+    "url": "https://note.com/kagawatomo/n/nf0714522fe1c",
+    "pass": 3
+   },
+   {
+    "quote": "日本円では約1,650億円です",
+    "url": "https://note.com/kagawatomo/n/nf0714522fe1c",
+    "pass": 3
+   },
+   {
+    "quote": "日本円では約3,900億円です",
+    "url": "https://note.com/kagawatomo/n/nf0714522fe1c",
+    "pass": 3
+   },
+   {
+    "quote": "390億ドルは、日本円で約6.2兆円です",
+    "url": "https://note.com/kagawatomo/n/nf0714522fe1c",
+    "pass": 3
+   },
+   {
+    "quote": "そして、この技術への最大の第三者検証が、日本から来ています",
+    "url": "https://note.com/kagawatomo/n/nf0714522fe1c",
+    "pass": 3
+   },
+   {
+    "quote": "創業100年を超える日本のロボット大手、川崎重工系のKawasaki Roboticsは、2023年に協働ロボット「CLシリーズ」を発表しました",
+    "url": "https://note.com/kagawatomo/n/nf0714522fe1c",
+    "pass": 3
+   },
+   {
+    "quote": "11. 日本への示唆──「全部ある国」が、もう一つある",
+    "url": "https://note.com/kagawatomo/n/nf0714522fe1c",
+    "pass": 3
+   },
+   {
+    "quote": "このニュースは、日本にとって非常に重要です",
+    "url": "https://note.com/kagawatomo/n/nf0714522fe1c",
+    "pass": 3
+   },
+   {
+    "quote": "なぜなら、日本は欧州、とくにドイツとよく似ているからです",
+    "url": "https://note.com/kagawatomo/n/nf0714522fe1c",
+    "pass": 3
+   },
+   {
+    "quote": "日本には、ロボットがあります",
+    "url": "https://note.com/kagawatomo/n/nf0714522fe1c",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、日本にも素材はあります",
+    "url": "https://note.com/kagawatomo/n/nf0714522fe1c",
+    "pass": 3
+   },
+   {
+    "quote": "皮肉なことに、日本企業はすでにこの欧州の枠組みの中で動いています",
+    "url": "https://note.com/kagawatomo/n/nf0714522fe1c",
+    "pass": 3
+   },
+   {
+    "quote": "つまり、個社レベルでは、日本企業は欧州のフィジカルAI連合の「顧客」や「株主」としてすでに参加できている",
+    "url": "https://note.com/kagawatomo/n/nf0714522fe1c",
+    "pass": 3
+   },
+   {
+    "quote": "できていないのは、日本国内で同じ連合を組むことだけです",
+    "url": "https://note.com/kagawatomo/n/nf0714522fe1c",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Automation for automotive and aviation - Neura Robotics — Automation for automotive and aviation - Neura Robotics Neura Robotics https://neura-robotics.com > industries",
+    "url": "https://neura-robotics.com/industries/transportation/",
+    "pass": 3
+   },
+   {
+    "quote": "「世界最高の人型ロボ」をうたう Neura Robotics 新モデルの ... — 「世界最高の人型ロボ」をうたう Neura Robotics 新モデルの ... Forbes JAPAN https://forbesjapan.com > テクノロジー > AI",
+    "url": "https://forbesjapan.com/articles/detail/77977",
+    "pass": 3
+   },
+   {
+    "quote": "NEURA Robotics | The Future of Intelligent Robotics — NEURA Robotics | The Future of Intelligent Robotics Neura Robotics https://neura-robotics.com",
+    "url": "https://neura-robotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "NEURA Robotics (@neurarobotics) · Metzingen - Instagram — NEURA Robotics (@neurarobotics) · Metzingen - Instagram Instagram https://www.instagram.com > neuraro...",
+    "url": "https://www.instagram.com/neurarobotics/",
+    "pass": 3
+   },
+   {
+    "quote": "NEURA Robotics 日本 - YouTube — NEURA Robotics 日本 - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=czHCM4fGQoU",
+    "pass": 3
+   },
+   {
+    "quote": "NEURA Robotics - LinkedIn — NEURA Robotics - LinkedIn LinkedIn https://de.linkedin.com > neura-robotics",
+    "url": "https://de.linkedin.com/company/neura-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Neura Robotics : Physical AI for Manufacturing - IIoT World — Neura Robotics : Physical AI for Manufacturing - IIoT World IIoT World https://www.iiot-world.com > robotics",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "How's Neura Robotics doing these days? - New Market Pitch — How's Neura Robotics doing these days? - New Market Pitch New Market Pitch https://newmarketpitch.com > news",
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "pass": 3
+   },
+   {
+    "quote": "NEURA Robotics - HV Capital — NEURA Robotics - HV Capital HV Capital https://hvcapital.com > neura-robotics",
+    "url": "https://hvcapital.com/portfolio/neura-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "How Neura Robotics Is Rethinking Humanoid Bot Design — How Neura Robotics Is Rethinking Humanoid Bot Design Reddit https://www.reddit.com > robotics > comments > how_ne...",
+    "url": "https://www.reddit.com/r/robotics/comments/1l00kkj/how_neura_robotics_is_rethinking_humanoid_bot/",
+    "pass": 3
+   },
+   {
+    "quote": "NEURA Robotics , GFT partner to build next-generation ... — NEURA Robotics , GFT partner to build next-generation ... Robotics 24/7 https://www.robotics247.com > article",
+    "url": "https://www.robotics247.com/article/neura_robotics_gft_partner_to_build_next_generation_software_for_physical_ai",
+    "pass": 3
+   },
+   {
+    "quote": "Meet the Robotic Trainers! At NEURA Robotics ... - Instagram — Meet the Robotic Trainers! At NEURA Robotics ... - Instagram Instagram https://www.instagram.com > reel > DCCLBkvoJnJ",
+    "url": "https://www.instagram.com/reel/DCCLBkvoJnJ/",
+    "pass": 3
+   },
+   {
+    "quote": "NEURA Robotics partners with Bosch to advance German ... — NEURA Robotics partners with Bosch to advance German ... The Robot Report https://www.therobotreport.com > ne...",
+    "url": "https://www.therobotreport.com/neura-robotics-partners-bosch-advance-german-made-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "NEURA Robotics Valuation, Funding & Investors - Multiples.vc — NEURA Robotics Valuation, Funding & Investors - Multiples.vc Multiples.vc https://multiples.vc > Companies",
+    "url": "https://multiples.vc/private-comps/neura-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "NEURA Robotics Secures €120 Million in Series B Funding to ... — NEURA Robotics Secures €120 Million in Series B Funding to ... Neura Robotics https://neura-robotics.com > neura-ro...",
+    "url": "https://neura-robotics.com/neura-robotics-secures-euro-120-million-series-b/",
+    "pass": 3
+   },
+   {
+    "quote": "EP.105 NEURA ROBOTICS HITS $7B VALUATION WITH $1.4 ... — EP.105 NEURA ROBOTICS HITS $7B VALUATION WITH $1.4 ... we all are robots https://ziegler.substack.com > ep105-...",
+    "url": "https://ziegler.substack.com/p/ep105-neura-robotics-hits-7b-valuation",
+    "pass": 3
+   },
+   {
+    "quote": "Neura Robotics - Wikipedia — Neura Robotics - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Neur...",
+    "url": "https://en.wikipedia.org/wiki/Neura_Robotics",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Your Email (required)",
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "4-19. NEURA Robotics のフィジカルAI戦略を読む｜香川友志 4-19. NEURA Robotics のフィジカルAI戦略を読む｜香川友志 note https://note.com > 科学・テクノロジー > ロボット技術",
+    "url": "https://note.com/kagawatomo/n/nba625c5d0b9f",
+    "pass": 3
+   },
+   {
+    "quote": "NEURA Robotics とAMI    欧州フィジカルAI「逆襲」の構造を ... NEURA Robotics とAMI    欧州フィジカルAI「逆襲」の構造を ... note https://note.com > 科学・テクノロジー > AI・機械学習",
+    "url": "https://note.com/kagawatomo/n/nf0714522fe1c",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "4-19.NEURA RoboticsのフィジカルAI戦略を読む｜香川友志",
+    "url": "https://note.com/kagawatomo/n/nba625c5d0b9f",
+    "pass": 3
+   },
+   {
+    "quote": "4-19.NEURA RoboticsのフィジカルAI戦略を読む",
+    "url": "https://note.com/kagawatomo/n/nba625c5d0b9f",
+    "pass": 3
+   },
+   {
+    "quote": "NEURA Roboticsは欧州ヒューマノイドの本命か――4NE1、認知ロボット、ドイツ製造業AI",
+    "url": "https://note.com/kagawatomo/n/nba625c5d0b9f",
+    "pass": 3
+   },
+   {
+    "quote": "欧米フィジカルAI 2026 完全版 第19回",
+    "url": "https://note.com/kagawatomo/n/nba625c5d0b9f",
+    "pass": 3
+   },
+   {
+    "quote": "シリーズ：欧米フィジカルAI 2026 完全版",
+    "url": "https://note.com/kagawatomo/n/nba625c5d0b9f",
+    "pass": 3
+   },
+   {
+    "quote": "副題：ヒューマノイドロボット・自動運転・産業ロボット・ロボット基盤モデルで見る「欧米AI企業TOP20＋番外編」",
+    "url": "https://note.com/kagawatomo/n/nba625c5d0b9f",
+    "pass": 3
+   },
+   {
+    "quote": "評価軸：AI部門の有名度 / 資本力 / 技術力 / 収益度 / AI部門価値",
+    "url": "https://note.com/kagawatomo/n/nba625c5d0b9f",
+    "pass": 3
+   },
+   {
+    "quote": "本稿では、会社発表・第三者による報道・将来計画・外部推計を区別して記述します。企業が自ら主張している内容は「同社によれば」「会社発表では」と明記し、報道機関が伝えた数字は「報道ベース」と付記しました。まだ実現していない計画は、実績と混同されないよう将来形で記述しています。金額は1ドル＝160円、1ユーロ＝170円で概算換算しています（2026年8月時点の目安）。",
+    "url": "https://note.com/kagawatomo/n/nba625c5d0b9f",
+    "pass": 3
+   },
+   {
+    "quote": "NEURA RoboticsとAMI──欧州フィジカルAI「逆襲」の構造を読む｜香川友志",
+    "url": "https://note.com/kagawatomo/n/nf0714522fe1c",
+    "pass": 3
+   },
+   {
+    "quote": "NEURA RoboticsとAMI──欧州フィジカルAI「逆襲」の構造を読む",
+    "url": "https://note.com/kagawatomo/n/nf0714522fe1c",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ巨額マネーは、アメリカでも中国でもなく、この2社に流れたのか",
+    "url": "https://note.com/kagawatomo/n/nf0714522fe1c",
+    "pass": 3
+   },
+   {
+    "quote": "2026年、AIマネーの流れに小さくない異変が起きています。",
+    "url": "https://note.com/kagawatomo/n/nf0714522fe1c",
+    "pass": 3
+   },
+   {
+    "quote": "3月10日、フランス・パリ発のAIスタートアップ",
+    "url": "https://note.com/kagawatomo/n/nf0714522fe1c",
+    "pass": 3
+   },
+   {
+    "quote": "AMI / Advanced Machine Intelligence",
+    "url": "https://note.com/kagawatomo/n/nf0714522fe1c",
+    "pass": 3
+   },
+   {
+    "quote": "10.3億ドル、約8.9億ユーロ、約1,650億円",
+    "url": "https://note.com/kagawatomo/n/nf0714522fe1c",
+    "pass": 3
+   },
+   {
+    "quote": "そして6月10日、ドイツ・メッツィンゲン発の",
+    "url": "https://note.com/kagawatomo/n/nf0714522fe1c",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "NEURA Robotics (@NEURARobotics) / X NEURA Robotics (@NEURARobotics) / X X https://x.com > NEURARobotics",
+    "url": "https://x.com/NEURARobotics",
+    "pass": 3
+   },
+   {
+    "quote": "NEURA Robotics on X NEURA Robotics on X X https://x.com > @NEURARobotics",
+    "url": "https://x.com/NEURARobotics/status/2118321868893511769",
+    "pass": 3
+   },
+   {
+    "quote": "NEURA Robotics on X: \"We are proud to announce Neuron AI NEURA Robotics on X: \"We are proud to announce Neuron AI X https://x.com > @NEURARobotics",
+    "url": "https://x.com/NEURARobotics/status/2110704914200453247",
+    "pass": 3
+   },
+   {
+    "quote": "NEURA Robotics (@NEURARobotics) on X NEURA Robotics (@NEURARobotics) on X X https://x.com > @NEURARobotics",
+    "url": "https://x.com/NEURARobotics/status/2099832868700651554",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "NEURA Robotics - LinkedIn NEURA Robotics - LinkedIn LinkedIn https://de.linkedin.com > neura-robotics",
+    "url": "https://de.linkedin.com/company/neura-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "NEURA Robotics : Jobs - LinkedIn NEURA Robotics : Jobs - LinkedIn LinkedIn https://www.linkedin.com > jobs",
+    "url": "https://www.linkedin.com/company/neura-robotics/jobs/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "NEURA Robotics | Metzingen - Facebook NEURA Robotics | Metzingen - Facebook Facebook https://www.facebook.com > ... > Automation Service",
+    "url": "https://www.facebook.com/NEURARobotics/",
+    "pass": 3
+   },
+   {
+    "quote": "David Reger's $7 billion Neura Robotics wants to be the Apple ... David Reger's $7 billion Neura Robotics wants to be the Apple ... Facebook https://www.facebook.com > forbes > posts > david-regers...",
+    "url": "https://www.facebook.com/forbes/posts/david-regers-7-billion-neura-robotics-wants-to-be-the-apple-of-physical-ai-build/1490825246240794/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://neura-robotics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://neura-robotics.com/industries/food-and-beverage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://neura-robotics.com/industries/logistics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://neura-robotics.com/industries/healthcare-robotics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://neura-robotics.com/industries/metal-and-machining/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://neura-robotics.com/industries/transportation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://neura-robotics.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://neura-robotics.com/about-us/neura-group/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://nichieikikou.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://forbesjapan.com/articles/detail/77977",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robot-digest.com/contents/?id=1642412017-101791",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nichieikikou.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.instagram.com/neurarobotics/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=czHCM4fGQoU",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://nichieikikou.co.jp/neura-robotics-japan/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://de.linkedin.com/company/neura-robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ces.tech/success-stories/neura-robotics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hvcapital.com/portfolio/neura-robotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robotics247.com/article/neura_robotics_gft_partner_to_build_next_generation_software_for_physical_ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hvcapital.com/portfolio/neura-robotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/reel/DCCLBkvoJnJ/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://multiples.vc/private-comps/neura-robotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ziegler.substack.com/p/ep105-neura-robotics-hits-7b-valuation",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kagawatomo/n/nba625c5d0b9f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kagawatomo/n/nf0714522fe1c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/NEURARobotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/NEURARobotics/status/2118321868893511769",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/NEURARobotics/status/2110704914200453247",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/NEURARobotics/status/2099832868700651554",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://de.linkedin.com/company/neura-robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/neura-robotics/jobs/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/NEURARobotics/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/forbes/posts/david-regers-7-billion-neura-robotics-wants-to-be-the-apple-of-physical-ai-build/1490825246240794/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/NEURARobotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/NEURARobotics",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Neura Robotics 日本 導入",
+   "results": [
+    "https://nichieikikou.co.jp/",
+    "https://neura-robotics.com/industries/transportation/",
+    "https://forbesjapan.com/articles/detail/77977",
+    "https://www.robot-digest.com/contents/?id=1642412017-101791",
+    "https://www.fa.omron.co.jp/product/robotics/information/robot_20240408/",
+    "https://jp-industrieanlagen.de/en/neura/",
+    "https://nichieikikou.co.jp/neura-robotics-japan/",
+    "https://robot-technology.jp/2022/visitor/Information/index/ChargeNo=28",
+    "https://note.com/kmoriyama/n/n4f1c65c3a6ed",
+    "https://physical-ai-hojokin.jp/articles/neura-4ne1-hojokin/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Neura Robotics 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://nichieikikou.co.jp/",
+    "https://neura-robotics.com/",
+    "https://www.instagram.com/neurarobotics/",
+    "https://www.youtube.com/watch?v=czHCM4fGQoU",
+    "https://www.robot-digest.com/contents/?id=1642412017-101791",
+    "https://www.mobile-robots.com/manufacturer/neura-robotics/",
+    "https://www.robotics247.com/company/neura_robotics",
+    "https://www.facebook.com/NEURARobotics/",
+    "https://en.wikipedia.org/wiki/Neura_Robotics",
+    "https://jobs.neura-robotics.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Neura Robotics Japan",
+   "results": [
+    "https://neura-robotics.com/",
+    "https://nichieikikou.co.jp/neura-robotics-japan/",
+    "https://de.linkedin.com/company/neura-robotics",
+    "https://www.iiot-world.com/artificial-intelligence-ml/robotics/neura-robotics-physical-ai-manufacturing/",
+    "https://forbesjapan.com/articles/detail/77977",
+    "https://en.wikipedia.org/wiki/Neura_Robotics",
+    "https://neura-robotics.com/combining-neuras-unique-real-world-data-and-ai-enabled-neuraverse-platform-with-nvidias-advanced-simulation-and-computing-platform-is-accelerating-the-development-of-cognitive-robots/",
+    "https://www.youtube.com/watch?v=i0DiyYgsxFU",
+    "https://kawasakirobotics.com/robots-category/cobots/",
+    "https://robophil.com/neura-robotics/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "Neura Robotics manufacturing customer case study",
+   "results": [
+    "https://www.ces.tech/success-stories/neura-robotics/",
+    "https://neura-robotics.com/",
+    "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "https://hvcapital.com/portfolio/neura-robotics",
+    "https://www.reddit.com/r/robotics/comments/1l00kkj/how_neura_robotics_is_rethinking_humanoid_bot/",
+    "https://www.facebook.com/interestingengineering/videos/amazon-and-nvidia-just-backed-german-startup-neura-robotics-with-14-billion-fund/2409690209857672/",
+    "https://www.casestudies.com/company/weights-biases/case-study/neura-robotics-scales-a-100-cell-gym-and-2300-square-meter-site-with-weights-biases",
+    "https://www.reddit.com/r/robotics/comments/1qcjrll/neura_robotics_with_new_generation_of_humanoid_i/",
+    "https://www.cbinsights.com/company/neura-robotics",
+    "https://cimworks.in/wp-content/uploads/2025/11/neura_robotics_case_studies.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Neura Robotics white label OR reseller OR partner program",
+   "results": [
+    "https://neura-robotics.com/",
+    "https://www.robotics247.com/article/neura_robotics_gft_partner_to_build_next_generation_software_for_physical_ai",
+    "https://hvcapital.com/portfolio/neura-robotics",
+    "https://www.instagram.com/reel/DCCLBkvoJnJ/",
+    "https://www.therobotreport.com/neura-robotics-partners-bosch-advance-german-made-robotics/",
+    "https://primepulse.com/en/portfolio/neura-robotics/",
+    "https://c4v.com/companies/neura-robotics/",
+    "https://humanoidroboticstechnology.com/industry-news/neura-robotics-and-amazon-web-services-announce-strategic-agreement/",
+    "https://www.youtube.com/watch?v=kPEAFYA1gEk",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Neura Robotics founded funding employees revenue",
+   "results": [
+    "https://multiples.vc/private-comps/neura-robotics",
+    "https://neura-robotics.com/neura-robotics-secures-euro-120-million-series-b/",
+    "https://newmarketpitch.com/blogs/news/humanoid-robotics-neura-update",
+    "https://ziegler.substack.com/p/ep105-neura-robotics-hits-7b-valuation",
+    "https://en.wikipedia.org/wiki/Neura_Robotics",
+    "https://pitchbook.com/profiles/company/459542-98",
+    "https://www.reddit.com/r/Futurology/comments/1i3i80c/neura_robotics_secures_120m_in_series_b_for_its/",
+    "https://www.zoominfo.com/c/neura-robotics/557096134",
+    "https://www.crunchbase.com/organization/neura-robotics",
+    "https://getlatka.com/companies/neura-robotics.com"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Neura Robotics",
+   "results": [
+    "https://note.com/kagawatomo/n/nba625c5d0b9f",
+    "https://note.com/kmoriyama/n/n7aad56a6d53e?hl=en",
+    "https://note.com/lush_macaw9968/n/n78dde049184f?hl=en",
+    "https://note.com/kagawatomo/n/nf0714522fe1c",
+    "https://note.com/kmoriyama/n/n4f1c65c3a6ed",
+    "https://note.com/tag/NEURA%20Robotics",
+    "https://note.com/hiroki_morishima/n/n3127862d8889",
+    "https://note.com/yasuhitoo/n/n95c888c6d0e4?hl=en",
+    "https://note.com/tomohiro2866/n/n1a2ce28c1a1f?hl=en",
+    "https://note.com/kmoriyama/n/n4f1c65c3a6ed?hl=en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com Neura Robotics",
+   "results": [
+    "https://x.com/NEURARobotics",
+    "https://x.com/NEURARobotics/status/2118321868893511769",
+    "https://x.com/NEURARobotics/status/2110704914200453247",
+    "https://x.com/NEURARobotics/status/2099832868700651554",
+    "https://x.com/Forbes/status/2111842244399612076",
+    "https://x.com/CyberRobooo/status/2111129223306134000",
+    "https://x.com/NewsTongueX/status/2117160652691108228",
+    "https://x.com/CyberRobooo/status/2114344158492258439",
+    "https://x.com/CyberRobooo/status/1986359299233489174",
+    "https://x.com/neurarobotics"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:linkedin.com Neura Robotics",
+   "results": [
+    "https://de.linkedin.com/company/neura-robotics",
+    "https://de.linkedin.com/in/dregerofficial",
+    "https://www.linkedin.com/company/neura-robotics/jobs/",
+    "https://www.linkedin.com/posts/johnkoetsier_just-did-a-massive-deep-dive-into-neura-robotics-activity-7521618465871319040-H3W9",
+    "https://www.linkedin.com/posts/neura-robotics_guided-by-a-clear-vision-neura-robotics-activity-7392106873329487872-PrUV",
+    "https://www.linkedin.com/posts/dregerofficial_neura-robotics-is-opening-a-new-location-activity-7404066756069326848-AmhQ",
+    "https://www.linkedin.com/posts/tech-funding-news_germanysneura-robotics-to-raise-1b-from-activity-7435311161958531073-7fkz",
+    "https://de.linkedin.com/in/anandvks",
+    "https://www.linkedin.com/posts/neura-robotics_robots-will-only-become-truly-intelligent-activity-7383863786438410240-u24m",
+    "https://www.linkedin.com/company/neura-electronics-gmbh"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:facebook.com Neura Robotics",
+   "results": [
+    "https://www.facebook.com/NEURARobotics/",
+    "https://www.facebook.com/bloombergbusiness/videos/ai-robots-could-drive-european-economy-says-neura-ceo/1618035589834653/",
+    "https://www.facebook.com/ctorobotics/videos/germany-just-opened-a-gym-where-robots-learn-to-work-at-the-opening-of-the-tum-c/2590061178098499/",
+    "https://www.facebook.com/forbes/posts/david-regers-7-billion-neura-robotics-wants-to-be-the-apple-of-physical-ai-build/1490825246240794/",
+    "https://www.facebook.com/GermanyinSingapore/posts/from-pioneering-cognitive-robots-to-leading-europe-in-robot-density-449-per-10k-/1557511583069624/",
+    "https://www.facebook.com/bloombergbusiness/posts/david-reger-neura-robotics-ceo-explains-how-physical-ai-and-robotics-could-becom/1475853321067423/",
+    "https://www.facebook.com/interestingengineering/posts/german-robotics-firm-neura-robotics-has-closed-one-of-the-largest-funding-rounds/1457327246438708/",
+    "https://www.facebook.com/NVIDIARobotics/videos/how-is-ai-changing-robotics-featuring-openmind-neura-robotics-fanuc-america-corp/1340898411527737/",
+    "https://www.facebook.com/WevolverApp/videos/the-humanoid-robot-4ne-1-from-neura-robotics-combines-ai-and-neura-hardware-to-t/1553809171941103/",
+    "https://www.facebook.com/NeuraInnovation/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Neura Robotics note 社長",
+   "results": [
+    "https://x.com/NEURARobotics",
+    "https://jobs.neura-robotics.com/offer/head-of-robotic-ai-applications-neu/ddf2dc85-c5c5-4eeb-9d8b-9f0e8707f79f",
+    "https://www.youtube.com/watch?v=paHfLzW39to",
+    "https://www.qualcomm.com/news/releases/2026/03/neura-robotics-and-qualcomm--enter-strategic-collaboration-to-ad",
+    "https://note.com/kagawatomo/n/nba625c5d0b9f",
+    "https://www.facebook.com/bloombergbusiness/videos/ai-robots-could-drive-european-economy-says-neura-ceo/1618035589834653/",
+    "https://www.instagram.com/reel/Deg1AQYgNfD/",
+    "https://hvcapital.com/portfolio/neura-robotics",
+    "https://en.wikipedia.org/wiki/Neura_Robotics",
+    "https://de.wikipedia.org/wiki/Neura_Robotics"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Neura Robotics X 投稿",
+   "results": [
+    "https://x.com/NEURARobotics",
+    "https://neura-robotics.com/",
+    "https://www.reddit.com/r/robotics/comments/1l00kkj/how_neura_robotics_is_rethinking_humanoid_bot/",
+    "https://www.youtube.com/watch?v=GE7VDgR_J1g",
+    "https://www.afp.com/en/infos/neura-robotics-introduces-neuron-ai-brain-physical-world",
+    "https://www.reddit.com/r/robotics/comments/1qcjrll/neura_robotics_with_new_generation_of_humanoid_i/",
+    "https://www.youtube.com/c/NEURARobotics",
+    "https://www.instagram.com/neurarobotics/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部30頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部30頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部30頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部30頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部30頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部30頁・検索12回）"
+ }
+}

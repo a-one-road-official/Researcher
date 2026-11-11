@@ -1,4 +1,4 @@
-# 一都三県 表彰・認定リスト起点の芋づる式リスト（資本金1億円以上・自動車除く）— 事業内容・資本金・設立・株主・取引先（事実のみ・65社）
+# 一都三県 表彰・認定リスト起点の芋づる式リスト（資本金1億円以上・自動車除く）— 事業内容・資本金・設立・株主・取引先（事実のみ・67社）
 
 ## Ashirase
 - 公式URL：https://www.ashirase.com/（given）
@@ -3191,6 +3191,91 @@ NTTエレクトロニクステクノ株式会社
 - 株主：記載なし（3回確認済み：公式5頁／PDF・画像2件／外部10頁・検索11回）
 - 主要取引先：記載なし（3回確認済み：公式5頁／PDF・画像2件／外部10頁・検索11回）
 
+## トーソー
+- 公式URL：https://www.toso.co.jp/（given）
+- 事業内容：ログイン・新規会員登録（https://www.toso.co.jp/・1回目）
+- 事業内容：ログイン・新規会員登録（https://www.toso.co.jp/products/hanging/cases/・1回目）
+- 事業内容：ログイン・新規会員登録（https://www.toso.co.jp/toso_info/・1回目）
+- 資本金：11億7,000万円（https://www.toso.co.jp/toso_info/toso_info/・1回目）
+- 資本金：5,000万円（https://www.ts-toso.co.jp/company/・3回目）
+- 創業年度：設立：1949年9月（https://www.toso.co.jp/toso_info/toso_info/・1回目）
+- 創業年度：設立：1999年 6月22日（https://www.ts-toso.co.jp/company/・3回目）
+- 創業年度：設立：1949年9月（https://www.intra-mart.jp/case-study/006325.html・3回目）
+- 従業員数：連結990名　単体652名 （2026年3月31日現在）（https://www.toso.co.jp/toso_info/toso_info/・1回目）
+- 従業員数：33名（https://www.ts-toso.co.jp/company/・3回目）
+- 売上高：連結23,253百万円　単体21,697百万円（2026年3月期）（https://www.toso.co.jp/toso_info/toso_info/・1回目）
+- 所在地：〒104-0033 東京都中央区新川1丁目4番9号 TEL:03（3552）1211（代表） FAX:03（3552）1009（https://www.toso.co.jp/toso_info/toso_info/・1回目）
+- 所在地：〒104-0033 東京都中央区新川1丁目29番地13号 永代橋エコピアザビル5階（https://www.ts-toso.co.jp/company/・3回目）
+- 所在地：03-6852-1181（https://www.ts-toso.co.jp/company/・3回目）
+- 代表者：八重島 真人（ヤエシマ マコト）（https://www.toso.co.jp/toso_info/toso_info/・1回目）
+- 代表者：代表取締役社長　潮見 尚道（https://www.ts-toso.co.jp/company/・3回目）
+- 主要取引先：みずほ銀行 三菱UFJ銀行 常陽銀行 きらぼし銀行 三井住友銀行（https://www.toso.co.jp/toso_info/toso_info/・1回目）
+- 売上の柱（何で稼ぐか）：
+  - 「お家の中のいろいろな場所での使い方をご紹介します」（https://www.toso.co.jp/・1回目）
+  - 「TOSO製品を山田耕介が分かりやすくご紹介します」（https://www.toso.co.jp/・1回目）
+  - 「家づくりに役立つインテリア製品のご紹介をしています」（https://www.toso.co.jp/・1回目）
+  - 「インテリア製品の開発、製造、販売」（https://www.toso.co.jp/toso_info/toso_info/・1回目）
+  - 「製造本部、商品開発本部、品質保証部」（https://www.toso.co.jp/toso_info/toso_info/・1回目）
+  - 「施工事例紹介｜トーソー株式会社｜カーテンレール・ブラインド 窓周り製品の総合メーカー」（https://www.toso.co.jp/project/・1回目）
+  - 「文教大学 あだちキャンパス｜施工事例紹介｜トーソー株式会社｜カーテンレール・ブラインド 窓周り製品の総合メーカー」（https://www.toso.co.jp/project/case-60・1回目）
+  - 「みんなの賑わい 交流拠点コンパス｜施工事例紹介｜トーソー株式会社｜カーテンレール・ブラインド 窓周り製品の総合メーカー」（https://www.toso.co.jp/project/case-62・1回目）
+  - 「1999年にカーテンレールの国内トップメーカーであるトーソー株式会社の100％子会社として設立されて以来、窓まわり商材の施工・販売を軸に実績を重ね、今日まで事業を拡大してまいりました」（https://www.ts-toso.co.jp/company/・3回目）
+  - 「現在では、トーソー株式会社における施工支援・協力業務をはじめ、内装全般にわたる施工・メンテナンス事業、材料販売へと領域を広げております」（https://www.ts-toso.co.jp/company/・3回目）
+  - 「カーテンレール、各種ブラインド、間仕切り、建築金物商品並びにその他室内外装飾品、収納品の販売・取付、監理・保守」（https://www.ts-toso.co.jp/company/・3回目）
+  - 「書籍の出版や展示会の運営等、インテリア文化を広める活動にも力を入れております」（https://job.mynavi.jp/28/pc/search/corp54284/outline.html・3回目）
+- 客は誰か：
+  - 「トーソーは、インテリア製品の企画、製造、販売を主要な事業とし、一般家庭向けから、ホテルなどの法人向け製品も幅広く展開している」（https://www.intra-mart.jp/case-study/006325.html・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「トーソー株式会社｜カーテンレール・ブラインド 窓周り製品の総合メーカー」（https://www.toso.co.jp/・1回目）
+  - 「企業情報｜トーソー株式会社｜カーテンレール・ブラインド 窓周り製品の総合メーカー」（https://www.toso.co.jp/toso_info/・1回目）
+  - 「会社概要｜企業情報｜トーソー株式会社｜カーテンレール・ブラインド 窓周り製品の総合メーカー」（https://www.toso.co.jp/toso_info/toso_info/・1回目）
+  - 「みずほ銀行 三菱UFJ銀行 常陽銀行 きらぼし銀行 三井住友銀行」（https://www.toso.co.jp/toso_info/toso_info/・1回目）
+  - 「沿革｜会社概要｜トーソー株式会社｜カーテンレール・ブラインド 窓周り製品の総合メーカー」（https://www.toso.co.jp/toso_info/history/・1回目）
+  - 「施工事例紹介｜トーソー株式会社｜カーテンレール・ブラインド 窓周り製品の総合メーカー」（https://www.toso.co.jp/project/・1回目）
+  - 「横浜ベイコート倶楽部 ホテル＆スパリゾート」（https://www.toso.co.jp/project/・1回目）
+  - 「文教大学 あだちキャンパス｜施工事例紹介｜トーソー株式会社｜カーテンレール・ブラインド 窓周り製品の総合メーカー」（https://www.toso.co.jp/project/case-60・1回目）
+  - 「みんなの賑わい 交流拠点コンパス｜施工事例紹介｜トーソー株式会社｜カーテンレール・ブラインド 窓周り製品の総合メーカー」（https://www.toso.co.jp/project/case-62・1回目）
+  - 「建設業は決して簡単な仕事ではなく覚えることも多いため、成果につながらず悩む方もいるかもしれません」（https://toso-saiyou.jp/about/・3回目）
+  - 「管理会社／建設会社／ビル・マンションオーナー／一般ユーザー ほか」（https://toso-saiyou.jp/about/・3回目）
+  - 「1999年にカーテンレールの国内トップメーカーであるトーソー株式会社の100％子会社として設立されて以来、窓まわり商材の施工・販売を軸に実績を重ね、今日まで事業を拡大してまいりました」（https://www.ts-toso.co.jp/company/・3回目）
+- 資本金・株主：
+  - 「資本金を500万円に増資」（https://toso-saiyou.jp/about/・3回目）
+  - 「資本金を1,000万円に増資」（https://toso-saiyou.jp/about/・3回目）
+  - 「資本金を2,000万円に増資」（https://toso-saiyou.jp/about/・3回目）
+  - 「資本金を3,000万円に増資」（https://toso-saiyou.jp/about/・3回目）
+  - 「1999年にカーテンレールの国内トップメーカーであるトーソー株式会社の100％子会社として設立されて以来、窓まわり商材の施工・販売を軸に実績を重ね、今日まで事業を拡大してまいりました」（https://www.ts-toso.co.jp/company/・3回目）
+  - 「トーソー株式会社（100%出資） 東京証券取引所スタンダード市場上場」（https://www.ts-toso.co.jp/company/・3回目）
+  - 「年休125日・福利厚生多数・東証市場上場の安定した環境下で働けます」（https://job.mynavi.jp/28/pc/search/corp54284/outline.html・3回目）
+  - 「上場企業の決算発表日程や株主総会の日程を事前に確認することができます」（https://www.nikkei.com/nkd/company/kessan/?scode=5956・3回目）
+  - 「【5956】トーソーの株主優待情報 | 株主優待情報コンテンツ『知って得する株主優待』」（https://yutai.net-ir.ne.jp/company/5956/・3回目）
+  - 「※100株以上を1年以上継続保有（3月末日および9月末日の株主名簿に同一株主番号で連続3回以上記載）の株主が対象」（https://yutai.net-ir.ne.jp/company/5956/・3回目）
+  - 「※（2）3年以上継続保有（3月末日および9月末日の株主名簿に同一株主番号で連続7回以上記載）の株主は下記のとおり」（https://yutai.net-ir.ne.jp/company/5956/・3回目）
+  - 「MIR@I会員には、毎週、最新の株主優待情報が届きます」（https://yutai.net-ir.ne.jp/company/5956/・3回目）
+- 表彰・認定の記録：
+  - 「TOSOはこれまでに30種類以上の製品でグッドデザイン賞を受賞しています」（https://www.toso.co.jp/toso_info/history/・1回目）
+  - 「2025年度受賞」（https://www.toso.co.jp/toso_info/history/・1回目）
+  - 「2023年度受賞」（https://www.toso.co.jp/toso_info/history/・1回目）
+  - 「2022年度受賞」（https://www.toso.co.jp/toso_info/history/・1回目）
+  - 「・現つくば工場がカーテンレールでJIS認定」（https://job.mynavi.jp/28/pc/search/corp54284/outline.html・3回目）
+  - 「・カーテンレール「モノ16」でグッドデザイン賞を受賞」（https://job.mynavi.jp/28/pc/search/corp54284/outline.html・3回目）
+  - 「・カーテンレール「レガートユニ」でグッドデザイン賞を受賞」（https://job.mynavi.jp/28/pc/search/corp54284/outline.html・3回目）
+  - 「・ウッドブラインド「ベネウッド」でグッドデザイン賞を受賞」（https://job.mynavi.jp/28/pc/search/corp54284/outline.html・3回目）
+  - 「・室内物干し金物「ランドリーバー LB-1」でグッドデザイン賞を受賞」（https://job.mynavi.jp/28/pc/search/corp54284/outline.html・3回目）
+- 検索結果の抜粋：
+  - 「会社概要 ｜企業情報｜ トーソー 株式会社 — 会社概要 ｜企業情報｜ トーソー 株式会社 TOSO https://www.toso.co.jp > toso_info > toso_info」（https://www.toso.co.jp/toso_info/toso_info/・3回目）
+  - 「トーソー グループとは — トーソー グループとは toso-saiyou.jp https://toso-saiyou.jp > about」（https://toso-saiyou.jp/about/・3回目）
+  - 「会社概要 - トーソーサービス株式会社 — 会社概要 - トーソーサービス株式会社 トーソーサービス株式会社 https://www.ts-toso.co.jp > company」（https://www.ts-toso.co.jp/company/・3回目）
+  - 「ABOUT US 私たちについて - 株式会社トーソー — ABOUT US 私たちについて - 株式会社トーソー 株式会社トーソー https://toso-dc.jp > about」（https://toso-dc.jp/about/・3回目）
+  - 「トーソー (株)の 会社概要 | マイナビ2028 — トーソー (株)の 会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp54284 > outline」（https://job.mynavi.jp/28/pc/search/corp54284/outline.html・3回目）
+  - 「決算ハイライト｜IR｜ トーソー 株式会社 — 決算ハイライト｜IR｜ トーソー 株式会社 TOSO https://www.toso.co.jp > highlight」（https://www.toso.co.jp/ir/highlight/・3回目）
+  - 「トーソー (株)の会社概要 | マイナビ2028 — トーソー (株)の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp54284 > outline」（https://job.mynavi.jp/28/pc/search/corp54284/outline.html・3回目）
+  - 「【 トーソー 】[5956]決算発表や業務・財務情報 | 日経電子版 — 【 トーソー 】[5956]決算発表や業務・財務情報 | 日経電子版 日本経済新聞 https://www.nikkei.com > nkd > company > kessan」（https://www.nikkei.com/nkd/company/kessan/?scode=5956・3回目）
+  - 「トーソー 【5956】の最新決算発表、業績修正 - 株探 — トーソー 【5956】の最新決算発表、業績修正 - 株探 株探 https://kabutan.jp > トーソー (5956) > 決算」（https://kabutan.jp/stock/finance?code=5956・3回目）
+  - 「株主 ・投資家のみなさんへ  IR情報 トーソー 株式会社 — 株主 ・投資家のみなさんへ  IR情報 トーソー 株式会社 TOSO https://www.toso.co.jp > ... > 株主・個人投資家の皆様へ」（https://www.toso.co.jp/ir/individual_20211214/08.html・3回目）
+  - 「トーソー 【5956】の大 株主 情報 - 株探 — トーソー 【5956】の大 株主 情報 - 株探 株探 https://kabutan.jp > stock > holder」（https://kabutan.jp/stock/holder?code=5956・3回目）
+  - 「【5956】 トーソー の 株主 優待情報 — 【5956】 トーソー の 株主 優待情報 yutai.net-ir.ne.jp https://yutai.net-ir.ne.jp > company」（https://yutai.net-ir.ne.jp/company/5956/・3回目）
+- 株主：記載なし（3回確認済み：公式13頁／PDF・画像2件／外部16頁・検索11回）
+
 ## ネクサス・プラウド・インベストメント
 - 公式URL：https://nexas-proud-investment.com/（given）
 - 事業内容：・働く30代の資産形成に役立つ情報発信メディア「マニマニくん」の運営 ・自社ブランドREGOLITHシリーズの開発 ・不動産コンサルティング（https://best100.v-tsushin.jp/company/nexas-proud-investment/・3回目）
@@ -4225,6 +4310,87 @@ NTTエレクトロニクステクノ株式会社
 - 売上高：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部16頁・検索11回）
 - 株主：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部16頁・検索11回）
 - 主要取引先：記載なし（3回確認済み：公式14頁／PDF・画像2件／外部16頁・検索11回）
+
+## 寺田
+- 公式URL：https://www.trd.co.jp/（given）
+- 事業内容：化成品・電子デバイス・機能性樹脂　製造・販売／不動産賃貸（https://www.trd.co.jp/pages/19/・1回目）
+- 事業内容：化成品・電子デバイス・機能性樹脂の製造・販売（https://job.mynavi.jp/27/pc/search/corp38414/outline.html・3回目）
+- 資本金：100,000,000円（授権資本2億円）（https://www.trd.co.jp/pages/19/・1回目）
+- 資本金：100,000,000円（https://job.mynavi.jp/27/pc/search/corp38414/outline.html・3回目）
+- 創業年度：設立：1947年（昭和22年）7月16日（https://www.trd.co.jp/pages/19/・1回目）
+- 創業年度：設立：1947年（昭和22年）7月16日（https://job.mynavi.jp/27/pc/search/corp38414/outline.html・3回目）
+- 従業員数：70名（https://www.trd.co.jp/pages/19/・1回目）
+- 従業員数：65名（https://job.mynavi.jp/27/pc/search/corp38414/outline.html・3回目）
+- 売上高：30億円（2025年5月期）（https://job.mynavi.jp/27/pc/search/corp38414/outline.html・3回目）
+- 所在地：〒105-0011 東京都港区芝公園2-3-3 寺田ビル2F TEL：03-3431-8211（代）／FAX：03-3431-8210（https://www.trd.co.jp/pages/19/・1回目）
+- 所在地：105-0011（https://job.mynavi.jp/27/pc/search/corp38414/outline.html・3回目）
+- 所在地：東京都港区芝公園2-3-3 寺田ビル2F（https://job.mynavi.jp/27/pc/search/corp38414/outline.html・3回目）
+- 代表者：代表取締役社長　寺田 浩一（https://www.trd.co.jp/pages/19/・1回目）
+- 売上の柱（何で稼ぐか）：
+  - 「当社は、化学品・電子材料関連商材の仕入販売をする商事部門、及び電気・電子分野、」（https://www.trd.co.jp/・1回目）
+  - 「設計開発から製造・販売」をワンストップで行っています」（https://www.trd.co.jp/・1回目）
+  - 「パナソニック社のプリント配線板の代理店としてプリント基板を販売、実装品の販売からプリント配線板の加工に欠かせないドリル・ルーターなどの周辺商材も幅広く取り扱ってございます」（https://www.trd.co.jp/・1回目）
+  - 「自社製品の「テラダイト®」を設計から樹脂製造まで一貫してご提案」（https://www.trd.co.jp/・1回目）
+  - 「エポキシ・アクリル・フッ素などの高機能製樹脂をベースとした配合品・合成品の設計・開発から製造・販売までのサービスをワンストップでご提供しています」（https://www.trd.co.jp/・1回目）
+  - 「取扱品のご紹介、カタログダウンロードはこちら（外部リンク）」（https://www.trd.co.jp/・1回目）
+  - 「化成品・電子デバイス・機能性樹脂 製造・販売／不動産賃貸」（https://www.trd.co.jp/pages/19/・1回目）
+  - 「特許を取得し、MPテープ製造工場を江東区に新設」（https://www.trd.co.jp/pages/25/・1回目）
+  - 「テラダは各種乾燥機を中心に様々な機械を設計・販売をする会社です」（https://web-terada.jp/company.php・3回目）
+  - 「また、荒茶製造の乾燥技術や搬送技術、粉砕技術は他の食品加工技術に転用できるものも多く、さらには企画から設計、開発（機械、ソフト含む）、製造、設置までを一貫して自社で行えるメリットを生かして、様々な分野のニーズにも対応してきました」（https://web-terada.jp/company.php・3回目）
+  - 「0547-45-5145（製造）」（https://web-terada.jp/company.php・3回目）
+  - 「故寺田信太郎が寺田製作所を創業 製茶機械の製作・販売を開始」（https://web-terada.jp/company.php・3回目）
+- 客は誰か：
+  - 「主に建築・土木業界向けに特殊なケミカル品をご提供」（https://www.trd.co.jp/・1回目）
+  - 「事業としては法人向けの「Sansan」という名刺管理サービスと、個人向けには「Eight」という2つのサービスをやっています」（https://z.incubatefund.com/n/nea2cab1ed6a3?gs=3f7b6cca7ad300b47fe3dda6fae373ab・3回目）
+  - 「カタログ通販に専任営業サポートが付いた法人向けデリバリーサービス「スマートオフィス」、官公庁向け「スマートガバメント」、文教市場向け「スマートスクール」、介護・福祉市場向け「スマート介護」を中心に、購買コストダウンや環境購買への提案を行う「JeSS」等、市場の変化とともに進化するNew Middleman®（新たな中間流通業）として、オフィス生産性向上に役立つ独自サービスを展開」（https://cloudcabinet.terrada.co.jp/case・3回目）
+- 客の産業（導入事例・取引先）：
+  - 「弊社つくば工場で製品の撹拌、分散及び簡単な合成などをご要望にそって行っております」（https://www.trd.co.jp/・1回目）
+  - 「本社（東京）や各営業所、つくば工場についてご案内いたします」（https://www.trd.co.jp/・1回目）
+  - 「化成品・電子デバイス・機能性樹脂 製造・販売／不動産賃貸」（https://www.trd.co.jp/pages/19/・1回目）
+  - 「■つくば工場（物流センター・技術センター 併設）」（https://www.trd.co.jp/pages/19/・1回目）
+  - 「つくば工場（物流センター・技術センター 併設）」（https://www.trd.co.jp/pages/19/・1回目）
+  - 「東京都港区に本社を、江東区に工場を設置」（https://www.trd.co.jp/pages/25/・1回目）
+  - 「特許を取得し、MPテープ製造工場を江東区に新設」（https://www.trd.co.jp/pages/25/・1回目）
+  - 「茨城工場を茨城県常総市（旧水海道市）に建設する」（https://www.trd.co.jp/pages/25/・1回目）
+  - 「江東区の配送センターをつくば工場内 物流センターに移転、統合」（https://www.trd.co.jp/pages/25/・1回目）
+  - 「とくに製茶機械の歴史は“テラダ”の歴史といっても過言ではなく、現在のシステム化された荒茶工場の発展に寄与してきたと自負しております」（https://web-terada.jp/company.php・3回目）
+  - 「常にお客様の声に耳を傾け、時代のニーズにあった機械を開発し、多くのお客様と強い信頼関係を築くことができましたことは、大変な喜びであります」（https://web-terada.jp/company.php・3回目）
+  - 「3. お客様に信頼される人材の育成実現のため、絶えず高められる品質目標を設定し、教育や社内監査を行う」（https://web-terada.jp/company.php・3回目）
+- 資本金・株主：
+  - 「資本金150万円にて「寺田興業株式会社」設立」（https://www.trd.co.jp/pages/25/・1回目）
+  - 「資本金250万円に増資」（https://www.trd.co.jp/pages/25/・1回目）
+  - 「資本金375万円に増資」（https://www.trd.co.jp/pages/25/・1回目）
+  - 「資本金750万円に増資」（https://www.trd.co.jp/pages/25/・1回目）
+  - 「資本金1500万円に増資」（https://www.trd.co.jp/pages/25/・1回目）
+  - 「資本金2000万円に増資」（https://www.trd.co.jp/pages/25/・1回目）
+  - 「資本金2500万円に増資」（https://www.trd.co.jp/pages/25/・1回目）
+  - 「資本金3500万円に増資」（https://www.trd.co.jp/pages/25/・1回目）
+  - 「資本金5600万円に増資」（https://www.trd.co.jp/pages/25/・1回目）
+  - 「資本金11000万円に増資」（https://www.trd.co.jp/pages/25/・1回目）
+  - 「資本金10000万円に変更（減資）」（https://www.trd.co.jp/pages/25/・1回目）
+  - 「資本金81,000,000円に増資」（https://web-terada.jp/company.php・3回目）
+- 表彰・認定の記録：
+  - 「日本茶アワードにて半発酵茶「紅ウーロン」がプラチナ賞を受賞」（https://web-terada.jp/company.php・3回目）
+  - 「日本茶アワードにて紅茶「かなやRED」がファインプロダクト賞を受賞」（https://web-terada.jp/company.php・3回目）
+  - 「「まもれーる・トイレくん」がグッドデザイン賞を受賞」（https://job.mynavi.jp/28/pc/search/corp104734/outline.html・3回目）
+  - 「・「まもれーる・屋外くん」が第11回キッズデザイン賞を受賞」（https://job.mynavi.jp/28/pc/search/corp104734/outline.html・3回目）
+  - 「第66回(令和3年度)澁澤賞を受賞」（https://job.mynavi.jp/28/pc/search/corp104734/outline.html・3回目）
+  - 「その後、RPAツールを選定し、初期のテスト運用を行いながら段階的に本格導入へと移行しました」（https://www.co-well.jp/works/case_terrada・3回目）
+- 検索結果の抜粋：
+  - 「会社概要 - 株式会社寺田 — 会社概要 - 株式会社寺田 株式会社寺田 https://www.trd.co.jp > pages」（https://www.trd.co.jp/pages/19/・3回目）
+  - 「株式 会社寺田 製作所 - 会社 案内 - — 株式 会社寺田 製作所 - 会社 案内 - 株式会社寺田製作所 https://web-terada.jp > company」（https://web-terada.jp/company.php・3回目）
+  - 「(株) TERADA 【旧社名：(株) 寺田 電機製作所】の 会社概要 — (株) TERADA 【旧社名：(株) 寺田 電機製作所】の 会社概要 マイナビ https://job.mynavi.jp > search > corp104734 > outline」（https://job.mynavi.jp/28/pc/search/corp104734/outline.html・3回目）
+  - 「企業 情報 - 寺田 工業株式 会社 — 企業 情報 - 寺田 工業株式 会社 寺田工業株式会社 https://www.terada-k.co.jp > company」（https://www.terada-k.co.jp/company/・3回目）
+  - 「(株) 寺田 の新卒採用・会社概要 | マイナビ2027 — (株) 寺田 の新卒採用・会社概要 | マイナビ2027 マイナビ https://job.mynavi.jp > search > corp38414 > outline」（https://job.mynavi.jp/27/pc/search/corp38414/outline.html・3回目）
+  - 「株式会社 寺田 鉄工所の企業情報 - キャリタス就活 — 株式会社 寺田 鉄工所の企業情報 - キャリタス就活 キャリタス就活 https://job.career-tasu.jp > corp > detail-uc」（https://job.career-tasu.jp/corp/00035463/detail-uc/・3回目）
+  - 「寺田 ポンプ製作所の業績/ 売上 / 事業 の将来性と成長性(全3件 ... — 寺田 ポンプ製作所の業績/ 売上 / 事業 の将来性と成長性(全3件 ... 転職会議 https://jobtalk.jp > ... > 株式会社寺田ポンプ製作所」（https://jobtalk.jp/companies/11714/answers?question_codes=sales・3回目）
+  - 「(株) 寺田 ポンプ製作所の会社概要 | マイナビ2028 — (株) 寺田 ポンプ製作所の会社概要 | マイナビ2028 マイナビ https://job.mynavi.jp > search > corp80732 > outline」（https://job.mynavi.jp/28/pc/search/corp80732/outline.html・3回目）
+  - 「寺田 倉庫、エンジェル3名からの 資金調達 に関して - note — 寺田 倉庫、エンジェル3名からの 資金調達 に関して - note note https://note.com > ビジネス > スタートアップ・VC」（https://note.com/aokiu/n/nee70b481d9a5・3回目）
+  - 「創業前からの二人三脚、起業家Sansan 寺田 氏とVC赤浦氏の12 ... — 創業前からの二人三脚、起業家Sansan 寺田 氏とVC赤浦氏の12 ... Incubate Fund https://z.incubatefund.com > ...」（https://z.incubatefund.com/n/nea2cab1ed6a3・3回目）
+  - 「寺田 修輔|Shusuke Terada on X: "投資先の田口さんから、VC ... — 寺田 修輔|Shusuke Terada on X: "投資先の田口さんから、VC ... X https://x.com > @ShusukeTerada」（https://x.com/ShusukeTerada/status/2111602794658722001・3回目）
+  - 「サービス 導入事例 一覧CASE STUDY - 寺田倉庫 — サービス 導入事例 一覧CASE STUDY - 寺田倉庫 寺田倉庫 Warehouse TERRADA https://www.terrada.co.jp > document > case」（https://www.terrada.co.jp/document/case/・3回目）
+- 株主：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部30頁・検索11回）
+- 主要取引先：記載なし（3回確認済み：公式4頁／PDF・画像0件／外部30頁・検索11回）
 
 ## 小松ばね工業
 - 公式URL：https://www.komatsubane.com/（given）

@@ -1,0 +1,1010 @@
+{
+ "name": "Mach9",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AI送信済み",
+ "researched_at": "2026-11-11T13:59:36.651987+00:00",
+ "official_url": "https://www.mach9.io",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2021",
+    "url": "https://startupintros.com/orgs/mach9",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "San Francisco, CA, USA",
+    "url": "https://startupintros.com/orgs/mach9",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Chart of time spent collecting and processing a dataset: 223 days with conventional surveying, 59 days with reality capture and manual drafting, 6 days with Mach9.",
+    "url": "https://mach9.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "COLLECTING & PROCESSING A DATASET",
+    "url": "https://mach9.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Conventional surveying is only as fast as you can hire",
+    "url": "https://mach9.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Mach9 reads your point cloud and auto-detects the features you need: breaklines, curbs, striping, poles, signs, surfaces.",
+    "url": "https://mach9.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Mach9 shaves weeks and weeks off extraction on our civil corridor projects. We can fly through vertices and line work in 3D — half our data is already done before we start verifying.",
+    "url": "https://mach9.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The ability to perform full QA in a single interface, without jumping between systems, has transformed how we approach statewide inventories. Mach9 brought consistency and confidence to our data workflows.",
+    "url": "https://mach9.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Project Manager, Michael Baker International",
+    "url": "https://mach9.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "When Alex Baikovitz co-founded Mach9 Robotics in 2021, his goal was to build a better, faster, and cheaper way for civil engineers to do visual inspections. The company aimed to cut through red tape and modernize the slow, outdated processes that bog down construction in the United States.",
+    "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+    "pass": 3
+   },
+   {
+    "quote": "So Baikovitz dropped “Robotics” from the company’s name and pivoted to developing AI-powered computer-aided design (CAD) software instead. The bet paid off, as Mach9 has racked up nearly 100 customers for the private beta of its software, and they’ve used it on more than 2,500 projects to date.",
+    "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+    "pass": 3
+   },
+   {
+    "quote": "That momentum helped Mach9 unlock new funding. On Wednesday, the startup announced a $34 million Series A funding round co-led by First Round Capital and Bessemer Venture Partners. Also throwing in were Prudence, an early-stage, New York-based firm that focuses on investing in AI software use cases for construction and real estate, and Quiet Capital, a VC firm already on the cap table.",
+    "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+    "pass": 3
+   },
+   {
+    "quote": ", which uses AI to produce code-compliant, permit-ready architectural blueprints in just a few minutes, was among the top 200 companies in the Startup Battlefield competition at last week’s",
+    "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+    "pass": 3
+   },
+   {
+    "quote": "“It takes months to be able to deliver a project, and about a week per mile for someone to do manually in the legacy incumbent software that’s built by the Autodesk and Bentley Systems of the world,” he said.",
+    "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Mach9 says its software automates a lot of that work, making the process 10x faster and dramatically reducing costs. This allows customers doing surveying and civil engineering work to “expand their own capacity and take on more types of work, bigger projects, and expand the reach of how reality-capture data can influence major infrastructure decisions,” Baikovitz said.",
+    "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+    "pass": 3
+   },
+   {
+    "quote": "As for the funding, Baikovitz said his startup will split it between improving the product, hiring industry experts, and scaling “all parts of our organization to keep up with where the market is taking us.”",
+    "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+    "pass": 3
+   },
+   {
+    "quote": "“I’m not interested in getting this cheaper, lower-cost hardware,” he remembers one VP telling him. But better software could “improve our efficiency in delivering these big statewide transportation mapping initiatives,” he said. He added that such projects help make states that Mach9 has worked with, like Texas, “much more safe [and] effective.”",
+    "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+    "pass": 3
+   },
+   {
+    "quote": "建設・不動産向けAIソフトに注力するニューヨーク拠点のアーリーステージ投資会社Prudenceと、既存投資家のQuiet Capitalも参加した",
+    "url": "https://mezha.net/jp/news/mezha-cc0b2a0696c1ca512130b857_mach9-raises-34m-after-pivoting-to/",
+    "pass": 3
+   },
+   {
+    "quote": "AIを使って、法令に準拠し、許可申請に使える建築設計図を数分で作成するBlueprints AIは、先週のTechCrunch DisruptでStartup Battlefieldコンペティションに選ばれた200社の一つだった",
+    "url": "https://mezha.net/jp/news/mezha-cc0b2a0696c1ca512130b857_mach9-raises-34m-after-pivoting-to/",
+    "pass": 3
+   },
+   {
+    "quote": "These 9 proprietary tech and advanced AI tools were designed to accelerate your business trajectory faster than you can say “what just happened?” responsibly, transparently, and always in alignment with your values.",
+    "url": "https://mach9.com/suite",
+    "pass": 3
+   },
+   {
+    "quote": "The AI Content Lab fuses human creativity with machine precision to generate, adapt, and scale storytelling across every platform.",
+    "url": "https://mach9.com/suite",
+    "pass": 3
+   },
+   {
+    "quote": "We can simulate campaigns, learn from results, and optimize before launch, creating content that’s fast, fluid, and always on brand.",
+    "url": "https://mach9.com/suite",
+    "pass": 3
+   },
+   {
+    "quote": "By combining data, content intelligence, and behavioral insight, Mach9 keeps brands visible and relevant in the new era of discovery.",
+    "url": "https://mach9.com/suite",
+    "pass": 3
+   },
+   {
+    "quote": "See how firms across surveying, telecom, electric utilities, and transportation use Mach9 to accelerate project delivery and reduce costs at scale.",
+    "url": "https://mach9.ai/customers",
+    "pass": 3
+   },
+   {
+    "quote": "GPD Group Drafts Precise Corridor Linework 70% Faster with Mach9",
+    "url": "https://mach9.ai/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Pennoni Increased Civil Infrastructure Project Capacity by 50% with Mach9",
+    "url": "https://mach9.ai/customers",
+    "pass": 3
+   },
+   {
+    "quote": "INCREASE IN PROJECT CAPACITY WITHOUT ADDING HEADCOUNT",
+    "url": "https://mach9.ai/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Mach9 shaves weeks and weeks off extraction on our civil corridor projects. We can fly through vertices and line work in 3D — half our data is already done before we start verifying.",
+    "url": "https://mach9.ai/customers",
+    "pass": 3
+   },
+   {
+    "quote": "The ability to perform full QA in a single interface, without jumping between systems, has transformed how we approach statewide inventories. Mach9 brought consistency and confidence to our data workflows.",
+    "url": "https://mach9.ai/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Project Manager, Michael Baker International",
+    "url": "https://mach9.ai/customers",
+    "pass": 3
+   },
+   {
+    "quote": "See how we solve real business problems with creative, data-backed execution.",
+    "url": "https://mach9.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Proven Outcomes in Compliance-Driven Campaigns",
+    "url": "https://mach9.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Mach9 supported Jose Cuervo Tradicional by strengthening its digital presence across social, SEO, and web—expanding reach on Instagram while driving significant gains in visibility. These improvements positioned the brand for stronger awareness and sustained inbound growth",
+    "url": "https://mach9.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Mach9 helped multiple pharmaceutical companies reclaim digital authority in emerging markets by elevating verified healthcare professionals and localizing scientific content across LATAM, Africa, and the Middle East—reducing misinformation and increasing trust in official medical narratives",
+    "url": "https://mach9.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Mach9 partnered with LEGO to deepen brand storytelling and foster stronger emotional connections with fans, turning everyday engagement into a vibrant, community-driven experience. Our approach elevated how LEGO interacts with its audience, creating more meaningful, positive conversations across channels.",
+    "url": "https://mach9.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Reebok, a global fitness brand, sought to win a competitive bidding war to become the official outfitter for a professional soccer team—despite being the lowest bidder",
+    "url": "https://mach9.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "CHI-CHI’s, a well-known Mexican-inspired restaurant chain, has long held a loyal following. However, in today’s fast-moving social landscape, familiarity alone wasn’t enough. The brand recognized the need to evolve—shifting from static, product-only content toward something more vibrant, authentic, and community-driven.",
+    "url": "https://mach9.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "As one of the world’s leading rideshare platforms, DiDi faced a complex challenge: reaching and influencing a community of drivers that exists largely outside traditional media ecosystems. Drivers operate within tightly knit digital circles, private groups, and underground forums—spaces where corporate voices often fail to connect.",
+    "url": "https://mach9.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "What does Mach9’s mission of accelerating the development of global infrastructure with its geospatial data solutions mean in practice?",
+    "url": "https://www.gim-international.com/case-study/5-questions-to-alex-baikovitz-mach9?output=pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Everything that’s designed and built starts with a map. Improving the accuracy and productivity of map-making is a way to develop and build the next generation of infrastructure such as roads, utilities, telecommunications and many other systems that keep the world running.",
+    "url": "https://www.gim-international.com/case-study/5-questions-to-alex-baikovitz-mach9?output=pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Mach9 transforms complex image and point cloud datasets into precise 2D and 3D engineering deliverables with speed and efficiency.",
+    "url": "https://www.gim-international.com/case-study/5-questions-to-alex-baikovitz-mach9?output=pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Data interoperability of automated geospatial production software like Mach9 Digital Surveyor with common engineering software systems is critical. By connecting Mach9 maps into downstream infrastructure design and asset management project workflows, we are helping surveyors, engineers and owner/operators to accelerate the development of the next generation of infrastructure around the world.",
+    "url": "https://www.gim-international.com/case-study/5-questions-to-alex-baikovitz-mach9?output=pdf",
+    "pass": 3
+   },
+   {
+    "quote": "co-founded Mach9 in 2021 with the goal of building a platform for automated geospatial production, leveraging advanced AI feature extraction to swiftly transform unstructured 3D data into maps. He previously worked as a",
+    "url": "https://www.gim-international.com/case-study/5-questions-to-alex-baikovitz-mach9?output=pdf",
+    "pass": 3
+   },
+   {
+    "quote": ", co-led by First Round Capital and Bessemer Venture Partners, with participation from Prudence and returning investor Quiet Capital. Mach9 says the financing brings its total funding to $49M. The capital will support expansion of its AI software for surveying and civil engineering.",
+    "url": "https://devcuration.com/articles/mach9-raises-34m-series-a-ai-cad-civil-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "Mach9's proposition reaches into the labor behind infrastructure delivery. A road or utility scan can contain an extraordinary amount of information while leaving an experienced technician with days of drawing work. Automating part of that preparation could give an engineering firm room to accept more assignments, with the same professionals still responsible for checking what leaves the office.",
+    "url": "https://devcuration.com/articles/mach9-raises-34m-series-a-ai-cad-civil-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "Mach9's founders reached the software business by changing their minds about the product. The",
+    "url": "https://devcuration.com/articles/mach9-raises-34m-series-a-ai-cad-civil-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "Mach9's browser-based CAD workflow begins with uploaded scan data and produces a draft of physical features. The",
+    "url": "https://devcuration.com/articles/mach9-raises-34m-series-a-ai-cad-civil-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "current product documentation",
+    "url": "https://devcuration.com/articles/mach9-raises-34m-series-a-ai-cad-civil-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "describes automated extraction of curbs, striping, poles, signs and other geometry, followed by editing and quality control. Surveyors can inspect the proposed work, move vertices and draw manually where the site requires it.",
+    "url": "https://devcuration.com/articles/mach9-raises-34m-series-a-ai-cad-civil-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "That workflow preserves a consequential place for professional judgment. A model can propose geometry, but a survey team still has to decide whether the output represents the site well enough for its intended use. Time saved on initial tracing can move into inspection, difficult features and the preparation of the final deliverable.",
+    "url": "https://devcuration.com/articles/mach9-raises-34m-series-a-ai-cad-civil-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "Exports include DXF, DGN and Esri Feature Services, connecting the work to existing CAD and geographic-information workflows. Supporting those destinations matters commercially because an engineering buyer's obligation continues after the AI finishes its first pass. The file must remain useful to the people and systems further along the project.",
+    "url": "https://devcuration.com/articles/mach9-raises-34m-series-a-ai-cad-civil-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "The purchasing comparison therefore extends beyond a feature list. A firm can examine how much preparation, checking and file handling remains on a representative job, then evaluate the purchase against that complete workload. That is an operating question a project manager can investigate with the team's own data, before extending the workflow across more assignments.",
+    "url": "https://devcuration.com/articles/mach9-raises-34m-series-a-ai-cad-civil-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "reports a 50% increase in project capacity without adding headcount, alongside faster survey-to-CAD production. The case describes a team that had assembled different software combinations for different deliverables, then coordinated the resulting files. Bringing more of that work into one environment reduced the handoffs surrounding the drawing itself.",
+    "url": "https://devcuration.com/articles/mach9-raises-34m-series-a-ai-cad-civil-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "Those results belong to a specific customer account published by the vendor. They illustrate why an engineering firm might buy the software, while leaving other buyers to establish the result on their own mix of projects. A corridor survey and a complex site can place different demands on extraction, correction and review.",
+    "url": "https://devcuration.com/articles/mach9-raises-34m-series-a-ai-cad-civil-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "provides another view of the same commercial territory. It describes sign-inventory work in which extraction, validation and asset information are brought into a shared environment. The useful output travels beyond a picture of a road into decisions about the assets along it.",
+    "url": "https://devcuration.com/articles/mach9-raises-34m-series-a-ai-cad-civil-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "Mach9 reports use across more than 2,500 projects and 100,000 miles of infrastructure in all 50 states. Named customers include WSP, HNTB and NV5. That company-reported footprint gives the funding story a record of deployment to examine, while the customer cases explain what teams have actually been trying to improve inside those projects.",
+    "url": "https://devcuration.com/articles/mach9-raises-34m-series-a-ai-cad-civil-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "describes plans to broaden Mach9's feature types and data sources and expand its go-to-market team. Its description of usage-based pricing is important to the investment logic: the product is evaluated against the effort attached to a job. More coverage within the workflow could make that calculation relevant to a wider range of surveying assignments.",
+    "url": "https://devcuration.com/articles/mach9-raises-34m-series-a-ai-cad-civil-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "previously announced $12M Seed in November 2024",
+    "url": "https://devcuration.com/articles/mach9-raises-34m-series-a-ai-cad-civil-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "and participated again in this round. The current $49M cumulative figure is the company's reported total; the two disclosed round amounts are not presented as a complete history of every financing. No valuation or revenue figure was disclosed in the announcements reviewed.",
+    "url": "https://devcuration.com/articles/mach9-raises-34m-series-a-ai-cad-civil-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "For infrastructure buyers, the significance sits in the work between collection and delivery. A procurement decision about CAD can influence how an experienced team uses its time, how much checking stays inside one environment and how readily a finished file reaches the next engineer. The economics become tangible when the software is used on a job with a deadline and a client waiting.",
+    "url": "https://devcuration.com/articles/mach9-raises-34m-series-a-ai-cad-civil-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "Mach9 is extending its product from that position, with",
+    "url": "https://devcuration.com/articles/mach9-raises-34m-series-a-ai-cad-civil-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "and commercial expansion supporting the effort. As additional feature types arrive, surveying teams will be deciding which pieces of their existing production process can follow them into the same working environment. Each of those decisions carries another part of an infrastructure project from raw capture toward a drawing somebody is ready to use.",
+    "url": "https://devcuration.com/articles/mach9-raises-34m-series-a-ai-cad-civil-engineering",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "A recurring theme in the civil engineering industry is how difficult it is to find trained technicians. Mach9 enables us to do 50% more work with the same experienced team. That's extremely important for us.",
+    "url": "https://mach9.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "A recurring theme in the civil engineering industry is how difficult it is to find trained technicians. Mach9 enables us to do 50% more work with the same experienced team. That's extremely important for us.",
+    "url": "https://mach9.ai/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Mach9 partnered with Penske Automotive Italy to analyze digital conversations across the luxury automotive sector—revealing market signals, competitive dynamics, and audience insights to inform positioning and strategic communication.",
+    "url": "https://mach9.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Data interoperability of automated geospatial production software like Mach9 Digital Surveyor with common engineering software systems is critical. By connecting Mach9 maps into downstream infrastructure design and asset management project workflows, we are helping surveyors, engineers and owner/operators to accelerate the development of the next generation of infrastructure around the world.",
+    "url": "https://www.gim-international.com/case-study/5-questions-to-alex-baikovitz-mach9?output=pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Mach9-hosted Pennoni case study",
+    "url": "https://devcuration.com/articles/mach9-raises-34m-series-a-ai-cad-civil-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "Mach9 reports use across more than 2,500 projects and 100,000 miles of infrastructure in all 50 states. Named customers include WSP, HNTB and NV5. That company-reported footprint gives the funding story a record of deployment to examine, while the customer cases explain what teams have actually been trying to improve inside those projects.",
+    "url": "https://devcuration.com/articles/mach9-raises-34m-series-a-ai-cad-civil-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "A Mach9-hosted case study reports a 50% capacity increase at Pennoni without added headcount. That is a specific customer account, so other firms should evaluate extraction, review and handoff work on their own representative projects.",
+    "url": "https://devcuration.com/articles/mach9-raises-34m-series-a-ai-cad-civil-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "Onodrim Raises $300M to Expand Europe's Industrial Base",
+    "url": "https://devcuration.com/articles/mach9-raises-34m-series-a-ai-cad-civil-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "techcrunch.com/2024/11/14/mach9-is-equipping-infrastructure-operators-with-better-information",
+    "url": "https://startupintros.com/orgs/mach9",
+    "pass": 3
+   },
+   {
+    "quote": "According to a recent LinkedIn post from Mach9, its platform is being used by aerial teams to process LiDAR and photogrammetry data for larger surveying projects. The post suggests the",
+    "url": "https://www.tipranks.com/private-companies/mach9",
+    "pass": 3
+   },
+   {
+    "quote": "According to a recent LinkedIn post from pQCee, Singapore’s Cyber Security Agency (CSA) quantum-safe milestones would require critical-infrastructure operators to submit migration plans by March 2027, with suppliers expected to",
+    "url": "https://www.tipranks.com/private-companies/mach9",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "You can contact or verify outreach from Sean by emailing",
+    "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Mach9 — AI CAD software for civil engineering — Mach9 shaves weeks and weeks off extraction on our civil corridor projects. We can fly through vertices and line work in 3D — half our data is already done before we start verifying.",
+    "url": "https://mach9.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dスキャンから土木のCAD図面を自動で描くMach9、シリーズAで3,400万... — Oct 23, 2026 · 同社は、この工程がほぼすべてのインフラ事業で初期段階のボトルネックの一つになっていると指摘する。 Mach9 は、この「スキャンから図面へ」の工程を AI で自動化する。",
+    "url": "https://thebridge.jp/2026/10/mach9-series-a-ai-cad-civil-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "Mach9 raises $34M after pivoting to AI CAD software — Oct 21, 2026 · That momentum helped Mach9 unlock new funding. On Wednesday, the startup announced a $34 million Series A funding round co-led by First Round Capital and Bessemer Venture Partners.",
+    "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+    "pass": 3
+   },
+   {
+    "quote": "AI CADソフトへの転換を経て、Mach9が$34Mを調達 — Oct 21, 2026 · Mach9は社名から「Robotics」を外し、AI搭載のコンピューター支援設計（CAD）ソフトへと事業を転換した。 同社は水曜日、First Round CapitalとBessemer Venture PartnersがシリーズAラウンドを共同で主導し、3400万ドルを調達したと発表した。",
+    "url": "https://mezha.net/jp/news/mezha-cc0b2a0696c1ca512130b857_mach9-raises-34m-after-pivoting-to/",
+    "pass": 3
+   },
+   {
+    "quote": "Mach9 Raises $34M Series A to Bring Civil Engineering into ... — Oct 21, 2026 · Mach9 is the AI CAD platform for civil engineering, built to expand the world’s capacity to build and maintain critical infrastructure. Its software turns 3D scans into engineering-ready CAD drawings, helping teams work up to 10x faster and at one-fifth the cost.",
+    "url": "https://mach9.ai/news/34-million-series-a",
+    "pass": 3
+   },
+   {
+    "quote": "The Mach9 Suite Digital Growth System - Mach 9 — Explore the Mach9 Suite, a connected digital growth system powered by AI, analytics, and creativity to help brands move faster, stay aligned, and drive measurable results.",
+    "url": "https://mach9.com/suite",
+    "pass": 3
+   },
+   {
+    "quote": "Mach9 raises $34M after pivoting to AI CAD software — Oct 21, 2026 · When Alex Baikovitz co-founded Mach9 Robotics in 2021, his goal was to build a better, faster, and cheaper way for civil engineers to do visual inspections. The company aimed to cut through red...",
+    "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+    "pass": 3
+   },
+   {
+    "quote": "Amazon.co.jp: mach9 - アマゾン — mach9 カーパーツ バイクパーツ販売しています。 ハイエース Z900RS/CAFEの商品をメインに取り扱いしてます。",
+    "url": "https://www.amazon.co.jp/stores/mach9/page/64C524B8-BD70-4EA7-95C8-42F7CE86F09C",
+    "pass": 3
+   },
+   {
+    "quote": "Customer results and case studies — Mach9 — Mach9 shaves weeks and weeks off extraction on our civil corridor projects. We can fly through vertices and line work in 3D — half our data is already done before we start verifying. A recurring theme in the civil engineering industry is how difficult it is to find trained technicians.",
+    "url": "https://mach9.ai/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies | Real Results from Mach9 Clients — Want to know what working with Mach9 looks like? Browse real-world case studies with measurable results and strategic insight.",
+    "url": "https://mach9.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "5 questions toâ€¦ Alex Baikovitz, Mach9 — By connecting Mach9 maps into downstream infrastructure design and asset management project workflows, we are helping surveyors, engineers and owner/operators to accelerate the development of the next generation of infrastructure around the world.",
+    "url": "https://www.gim-international.com/case-study/5-questions-to-alex-baikovitz-mach9?output=pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Mach9 Raises $34M Series A for Civil Engineering AI CAD — Oct 22, 2026 · A Mach9-hosted Pennoni case study reports a 50% increase in project capacity without adding headcount, alongside faster survey-to-CAD production. The case describes a team that had assembled different software combinations for different deliverables, then coordinated the resulting files.",
+    "url": "https://devcuration.com/articles/mach9-raises-34m-series-a-ai-cad-civil-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "PHARMA Case Study - Mach 9 — See how Mach 9 helped PHARMA address key brand and growth challenges through strategic digital marketing, cultural insight, and performance-driven execution.",
+    "url": "https://mach9.com/case-studies/pharma",
+    "pass": 3
+   },
+   {
+    "quote": "Mach9 – Valuation, Revenue & Market Scope – 2026 — Oct 21, 2026 · Mach9 has not publicly shared its revenue figures as of now. How much funding has Mach9 raised? Mach9 has raised a total of $46M in funding. How many employees does Mach9 have? Mach9 has 30+ employees. Who are the top competitors of Mach9? Top competitors of Mach9 includes Cursor, Niantic and Pitney Bowes. What is the valuation of M",
+    "url": "https://compworth.com/company/mach9",
+    "pass": 3
+   },
+   {
+    "quote": "Mach9 Robotics 2026 Company Profile: Valuation, Funding ...Mach9: Funding, Team & Investors | Startup IntrosMach9: Valuation, Funding & Investors - TipRanksMach 9 – Financial Footprint & Growth Factors – 2026Mach9 Funding History: $47.9M | Indexed.vcMach9 $34M Series A Funding (2026) | Investors & Contacts ... — Information on valuation, funding, cap tables, investors, and executives for Mach9 Rob",
+    "url": "https://pitchbook.com/profiles/company/464454-55",
+    "pass": 3
+   },
+   {
+    "quote": "Mach9: Funding, Team & Investors | Startup Intros — Nov 1, 2024 · Mach9 was founded in 2021 in San Francisco by a team including Alexander Baikovitz, who has a background working at Carnegie Mellon University’s Robotics Institute and with organizations such as the U.S. Department of Energy and DARPA.",
+    "url": "https://startupintros.com/orgs/mach9",
+    "pass": 3
+   },
+   {
+    "quote": "Mach9: Valuation, Funding & Investors - TipRanks — Oct 21, 2026 · Mach9 valuation, funding and investors: $34M raised in 1 funding round, latest round Series A ($34M). Investors include First Round Capital, Bessemer Venture Partners and Prudence.",
+    "url": "https://www.tipranks.com/private-companies/mach9",
+    "pass": 3
+   },
+   {
+    "quote": "Mach9 Funding History: $47.9M | Indexed.vc — Oct 25, 2026 · Mach9 is an artificial intelligence company in San Francisco, United States, founded in 2021. It has raised $47.9M across 3 rounds, most recently a $34.0M Series A in October 2026.",
+    "url": "https://indexed.vc/companies/mach9geo",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "AI Narrative Intelligence",
+    "url": "https://mach9.com/suite",
+    "pass": 3
+   },
+   {
+    "quote": "The Mach9 Suite transforms fragmented digital chaos into a connected, high‐performing growth system - keeping your narrative aligned and resonating in culture as it shifts in real time.",
+    "url": "https://mach9.com/suite",
+    "pass": 3
+   },
+   {
+    "quote": "AI NARRATIVE INTELLIGENCE",
+    "url": "https://mach9.com/suite",
+    "pass": 3
+   },
+   {
+    "quote": "The result: brand narratives that stay aligned, resonant, and impossible to ignore.",
+    "url": "https://mach9.com/suite",
+    "pass": 3
+   },
+   {
+    "quote": "AI Narrative Intelligence",
+    "url": "https://mach9.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Mach9 helped multiple pharmaceutical companies reclaim digital authority in emerging markets by elevating verified healthcare professionals and localizing scientific content across LATAM, Africa, and the Middle East—reducing misinformation and increasing trust in official medical narratives",
+    "url": "https://mach9.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Mach9's proposition reaches into the labor behind infrastructure delivery. A road or utility scan can contain an extraordinary amount of information while leaving an experienced technician with days of drawing work. Automating part of that preparation could give an engineering firm room to accept more assignments, with the same professionals still responsible for checking what leaves the office.",
+    "url": "https://devcuration.com/articles/mach9-raises-34m-series-a-ai-cad-civil-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "There is a useful discipline in that change of direction. The customer gets to define which part of the workflow deserves attention, even when the answer sends the founders away from the thing they first set out to build. Mach9 now has fresh capital behind that software commitment, five years after its founding.",
+    "url": "https://devcuration.com/articles/mach9-raises-34m-series-a-ai-cad-civil-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "and participated again in this round. The current $49M cumulative figure is the company's reported total; the two disclosed round amounts are not presented as a complete history of every financing. No valuation or revenue figure was disclosed in the announcements reviewed.",
+    "url": "https://devcuration.com/articles/mach9-raises-34m-series-a-ai-cad-civil-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "and commercial expansion supporting the effort. As additional feature types arrive, surveying teams will be deciding which pieces of their existing production process can follow them into the same working environment. Each of those decisions carries another part of an infrastructure project from raw capture toward a drawing somebody is ready to use.",
+    "url": "https://devcuration.com/articles/mach9-raises-34m-series-a-ai-cad-civil-engineering",
+    "pass": 3
+   },
+   {
+    "quote": "Current Number of Employees",
+    "url": "https://www.tipranks.com/private-companies/mach9",
+    "pass": 3
+   },
+   {
+    "quote": "+0.0% employees",
+    "url": "https://www.tipranks.com/private-companies/mach9",
+    "pass": 3
+   },
+   {
+    "quote": "According to a recent LinkedIn post from Eqvista, Foundational ranked first among 15 pre-seed-funded startups listed for October 2026, with $10.8 million raised. Minerva Humanoids and Evos followed with $10",
+    "url": "https://www.tipranks.com/private-companies/mach9",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Mach9’s Digital Surveyor is among the first software solutions capable of automatically extracting 3D features from combined LiDAR and imagery data while remaining OEM-agnostic. It identifies and classifies over 20 urban and infrastructure features critical for engineering and planning[1][7].",
+    "url": "https://startupintros.com/orgs/mach9",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Mach9 (@Mach9Geo) / X Science & Technology San Francisco mach9.ai Joined October 2026 3Following 22Followers Mention Mach9 @Mach9Geo Oct 21",
+    "url": "https://x.com/Mach9Geo",
+    "pass": 3
+   },
+   {
+    "quote": "mach9 (@mach9) / X 15 followers · 0 following. Joined May 2008. See the latest conversations with @mach9",
+    "url": "https://x.com/mach9",
+    "pass": 3
+   },
+   {
+    "quote": "Mach9 (@Mach9F1) / X Mach9 is proud member of the F1 in Schools program. The aim of the program is to help students such as ourselves expand our engineering knowledge by creating a functional model F1 car.",
+    "url": "https://x.com/Mach9F1",
+    "pass": 3
+   },
+   {
+    "quote": "Mach9 (@Oreshni7) / Posts / X Mach9 (@Oreshni7) - Posts - | X (formerly Twitter) THIS GUY LOST $200 IN ONE DAY BECAUSE THE STRING \"HERMES.md\" WAS IN HIS GIT COMMITS HERMES.md is a real convention used in AI agent projects. it's a system prompt specification file. not some obscure edge case he's on claude max 20x at $200 a month. yesterday claude code hit him with \"you're out of extra usage\" out of",
+    "url": "https://x.com/Oreshni7",
+    "pass": 3
+   },
+   {
+    "quote": "mach9 (@mach9) / X May 11, 2008 · 15 followers · 0 following. Joined May 2008. See the latest conversations with @mach9",
+    "url": "https://x.com/mach9",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Mach9 - LinkedIn AI CAD Software for Civil Engineering | Mach9 is the AI CAD platform for civil engineering, built to expand the world’s capacity to build and maintain critical infrastructure.",
+    "url": "https://www.linkedin.com/company/mach9geo",
+    "pass": 3
+   },
+   {
+    "quote": "MACH9 - LinkedIn Your Narrative, As Intended | Mach9 is a digital-first agency that blends advanced technology, data-driven insights, and strategic creativity to help brands tell their story as intended.",
+    "url": "https://www.linkedin.com/company/mach9digital",
+    "pass": 3
+   },
+   {
+    "quote": "MACH9 | LinkedIn Born out of a desire to fill a gap in the digital agency world, Mach9 combines proprietary tech, AI-powered solutions, and expert talent to deliver work that’s innovative, impactful, and rooted...",
+    "url": "https://mx.linkedin.com/company/mach9digital",
+    "pass": 3
+   },
+   {
+    "quote": "Mach9 - LinkedIn Mach9 | 6 followers on LinkedIn. Specialists in paid and organic marketing. | We'll help you build high converting digital marketing campaigns for your business.",
+    "url": "https://au.linkedin.com/company/mach-nine",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "MACH9 | Dhaka - FacebookMach9 - Facebookmach9 - FacebookMach9 The Pilot Shop | Mumbai - FacebookMach 9 Motorsport | Richmond BC - FacebookMach 9 - FacebookMach 9 Equine - Facebook Jun 22, 2026 · MACH9, Dhaka. 3,085 followers · 3 talking about this · 6 were here. MACH9 is your one-stop shop for all things tech, from cutting-edge devices and... Nov 16, 2025 · Mach9. 7 followers. Sydney-based digital",
+    "url": "https://www.facebook.com/mach9bd/",
+    "pass": 3
+   },
+   {
+    "quote": "Mach9 - Facebook Nov 16, 2025 · Mach9. 7 followers. Sydney-based digital marketing agency here to help you supercharge the growth of your business!",
+    "url": "https://www.facebook.com/mach9au/",
+    "pass": 3
+   },
+   {
+    "quote": "mach9 - Facebook Aug 31, 2026 · mach9. 253 followers · 13 talking about this. mach9",
+    "url": "https://www.facebook.com/p/mach9-61570157923504/",
+    "pass": 3
+   },
+   {
+    "quote": "Mach9 The Pilot Shop | Mumbai - FacebookMach 9 Motorsport | Richmond BC - FacebookMach 9 - FacebookMach 9 Equine - Facebook May 17, 2023 · Coming up soon MACH9 THE PILOT SHOP finally taking shape OPENING date will be announced soon. Visit our website on www.mach9thepilotshop.com follow us on INSTAGRAM @mach9pilotshop Another week of precision and performance here at Mach9 Motorsport. Appreciate al",
+    "url": "https://www.facebook.com/mach9thepilotshop/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://mach9.ai/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://mach9.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://thebridge.jp/2026/10/mach9-series-a-ai-cad-civil-engineering",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mezha.net/jp/news/mezha-cc0b2a0696c1ca512130b857_mach9-raises-34m-after-pivoting-to/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/MacJapanese",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mach9.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mach9.com/suite",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mach9.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mach9.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gim-international.com/case-study/5-questions-to-alex-baikovitz-mach9?output=pdf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://devcuration.com/articles/mach9-raises-34m-series-a-ai-cad-civil-engineering",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upcloud.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/mach9",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/464454-55",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/mach9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tipranks.com/private-companies/mach9",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/Mach9Geo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mach9",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Mach9F1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Oreshni7",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/mach9geo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/mach9digital",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mx.linkedin.com/company/mach9digital",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://au.linkedin.com/company/mach-nine",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mach9bd/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mach9au/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/mach9-61570157923504/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mach9thepilotshop/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Mach9Geo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mach9",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Mach9F1",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Mach9 日本 導入",
+   "results": [
+    "https://mach9.ai/",
+    "https://thebridge.jp/2026/10/mach9-series-a-ai-cad-civil-engineering",
+    "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+    "https://mezha.net/jp/news/mezha-cc0b2a0696c1ca512130b857_mach9-raises-34m-after-pivoting-to/",
+    "https://mach9.ai/news/34-million-series-a",
+    "https://www.youtube.com/watch?v=OjHwFhMs7wA",
+    "https://news.mynavi.jp/article/20261109-ram-1500/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mach9 代理店 OR 総代理店 OR 日本法人",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Mach9 Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/MacJapanese",
+    "https://mach9.ai/",
+    "https://mach9.com/suite",
+    "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+    "https://www.amazon.co.jp/stores/mach9/page/64C524B8-BD70-4EA7-95C8-42F7CE86F09C",
+    "https://mach9.ai/mobile-mapping",
+    "https://mach9.com/about-us",
+    "https://www.mach9.company/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Mach9 manufacturing customer case study",
+   "results": [
+    "https://mach9.ai/customers",
+    "https://mach9.com/case-studies",
+    "https://www.gim-international.com/case-study/5-questions-to-alex-baikovitz-mach9?output=pdf",
+    "https://devcuration.com/articles/mach9-raises-34m-series-a-ai-cad-civil-engineering",
+    "https://mach9.com/case-studies/pharma",
+    "https://mach9.ai/customers/case-studies/fibersmith",
+    "https://48629466.fs1.hubspotusercontent-na2.net/hubfs/48629466/CASE+STUDIES+-+WEBSITE+3.0/Michael+Baker+x+Mach9+-+Case+Study.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mach9 white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/",
+    "https://www.ninjaone.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mach9 founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/mach9",
+    "https://pitchbook.com/profiles/company/464454-55",
+    "https://startupintros.com/orgs/mach9",
+    "https://www.tipranks.com/private-companies/mach9",
+    "https://indexed.vc/companies/mach9geo",
+    "https://fundup.ai/recently-funded-startups/company/dfcaec6c0fd1f515c7a6f455192f8e6eeef8e2cba679af205f4958a707ae6954/mach9",
+    "https://compworth.com/company/mach-9"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Mach9",
+   "results": [
+    "https://note.com/diparururun",
+    "https://note.com/jiji27/n/nb5c966d74d9d?hl=en",
+    "https://note.com/machidatomomi/n/n69af9d4c691e?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/mach55_/n/n8dedcf15c666",
+    "https://note.com/mach55_/n/nf1f9b0b0aca2?hl=en"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 6
+  },
+  {
+   "query": "site:x.com Mach9",
+   "results": [
+    "https://x.com/Mach9Geo",
+    "https://x.com/mach9",
+    "https://x.com/Mach9F1",
+    "https://x.com/Oreshni7",
+    "https://x.com/mach9d",
+    "https://x.com/Mach9Geo/with_replies",
+    "https://x.com/0xmach_"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Mach9",
+   "results": [
+    "https://www.linkedin.com/company/mach9geo",
+    "https://www.linkedin.com/company/mach9digital",
+    "https://mx.linkedin.com/company/mach9digital",
+    "https://au.linkedin.com/company/mach-nine",
+    "https://mx.linkedin.com/in/anthargama",
+    "https://au.linkedin.com/in/zuhairsiddiqui1",
+    "https://www.linkedin.com/in/haowensh"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Mach9",
+   "results": [
+    "https://www.facebook.com/mach9bd/",
+    "https://www.facebook.com/mach9au/",
+    "https://www.facebook.com/p/mach9-61570157923504/",
+    "https://www.facebook.com/mach9thepilotshop/",
+    "https://www.facebook.com/mach9motorsport/",
+    "https://www.facebook.com/p/Mach-9-61585197659484/",
+    "https://www.facebook.com/p/Mach-9-Equine-61580225828026/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mach9 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://www.theofficialboard.com/org-chart/mach9",
+    "https://mach9.ai/",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mach9 X 投稿",
+   "results": [
+    "https://x.com/Mach9Geo",
+    "https://x.com/mach9",
+    "https://x.com/Mach9F1",
+    "https://mach9.ai/",
+    "https://cloud.mach9.io/api/auth/signin",
+    "https://x.com/Mach9Robotics",
+    "https://www.instagram.com/mach9digital/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）"
+ }
+}

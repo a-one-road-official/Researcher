@@ -1,0 +1,844 @@
+{
+ "name": "株式会社ミライ化成 青森Lab",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T12:59:51.357070+00:00",
+ "official_url": "http://www.miraikasei.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "【長野本社】 〒387-0001 長野県千曲市雨宮2473 TEL：026（274）7662（代表） FAX：026（274）7663 【松本事業所】 〒399-0033 長野県松本市大字笹賀6008 TEL：0263（25）4405 FAX：0263（25）4437 【伊那事業所】 〒399-4511 長野県上伊那郡南箕輪村9004-1 TEL：0265（76）7557 FAX：0265（76）7558 【M2base＋M2Lab】 *長野事業所新倉庫 ＋ 食品研究開発拠点 〒387-0001 長野県千曲市雨宮2480-1 【青森Lab】*循環型CFRP 研究開発拠点 〒033-0073 青森県上北郡六戸町金矢1−1",
+    "url": "http://www.miraikasei.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "【長野本社】",
+    "value": "定温倉庫、毒物劇物倉庫、危険物倉庫、可動式倉庫 7tトラック 6台 5tトラック 1台 4tトラック 3台 フォークリフト 6台  *うち、防爆フォークリフト1台",
+    "url": "http://www.miraikasei.com/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "・化学工業薬品販売 ・食品原料販売 ・倉庫業 ・酒類販売 ・医薬品および高度管理医療機器の販売 ・建設業 ・機械装置販売 ・一般貨物運送業",
+    "url": "http://www.miraikasei.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "【松本事業所】",
+    "value": "毒物劇物倉庫、危険物倉庫 フォークリフト 1台",
+    "url": "http://www.miraikasei.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "【伊那事業所】",
+    "value": "毒物劇物倉庫、危険物倉庫 4tトラック 1台 フォークリフト 1台",
+    "url": "http://www.miraikasei.com/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "72名（2026年4月1日時点）",
+    "url": "http://www.miraikasei.com/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱材料": [
+   {
+    "quote": "CFRP 端材の回収・再資源化によるサプライチェーンの構築を目指し再生炭素繊維成形品事業を加速",
+    "url": "http://www.miraikasei.com",
+    "pass": 1
+   },
+   {
+    "quote": "一気通貫で再生炭素繊維を研究開発する「青森Lab」開所式を実施",
+    "url": "http://www.miraikasei.com",
+    "pass": 1
+   },
+   {
+    "quote": "「IHI／SAMPE Japan 学生ブリッジコンテスト」にミライ化成が再生炭素繊維から製造した不織布を強化材として提供",
+    "url": "http://www.miraikasei.com",
+    "pass": 1
+   },
+   {
+    "quote": "三谷産業グループのミライ化成と日本曹達グループの日曹金属化学、炭素繊維のリサイクル分野にて協業を開始",
+    "url": "http://www.miraikasei.com",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度NEDOプログラムに、 ミライ化成の「再生炭素繊維不織布を利用した高効率CFRTP加工技術の開発」が採択",
+    "url": "http://www.miraikasei.com",
+    "pass": 1
+   },
+   {
+    "quote": "【青森Lab】*循環型CFRP 研究開発拠点",
+    "url": "http://www.miraikasei.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "・再生炭素繊維 研究開発拠点 三沢Lab開設",
+    "url": "http://www.miraikasei.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "循環型CFRP開発部門 | 事業案内 | 株式会社ミライ化成",
+    "url": "http://www.miraikasei.com/business/cfrp/",
+    "pass": 1
+   },
+   {
+    "quote": "「IHI／SAMPE Japan 学生ブリッジコンテスト」にミライ化成が再生炭素繊維から製造した不織布を強化材として提供",
+    "url": "http://www.miraikasei.com/business/cfrp/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年度NEDOプログラムに、 ミライ化成の「再生炭素繊維不織布を利用した高効率CFRTP加工技術の開発」が採択",
+    "url": "http://www.miraikasei.com/business/cfrp/",
+    "pass": 1
+   },
+   {
+    "quote": "青森県の研究所で、CFRPのリサイクル技術と加工技術の研究をしています",
+    "url": "http://www.miraikasei.com/business/cfrp/",
+    "pass": 1
+   },
+   {
+    "quote": "— ミライ化成は再生炭素繊維の早期社会実装を目指しています —",
+    "url": "http://www.miraikasei.com/business/cfrp/",
+    "pass": 1
+   },
+   {
+    "quote": "循循環型CFRP開発部のリサイクル・加工技術を加工機器と合わせて取り扱いいたします",
+    "url": "http://www.miraikasei.com/business/cfrp/",
+    "pass": 1
+   },
+   {
+    "quote": "これによりユーザーの工場内でCFRPリサイクルが可能になります",
+    "url": "http://www.miraikasei.com/business/cfrp/",
+    "pass": 1
+   },
+   {
+    "quote": "Miraiプロセスは日本各地、世界各国でのCFRPリサイクルを可能にします",
+    "url": "http://www.miraikasei.com/business/cfrp/",
+    "pass": 1
+   },
+   {
+    "quote": "循環型CFRP開発部のもつリサイクル技術と加工技術に関して",
+    "url": "http://www.miraikasei.com/business/cfrp/",
+    "pass": 1
+   },
+   {
+    "quote": "rCFに可とう性エポキシ樹脂を含浸させた耐久性の高い人工皮革",
+    "url": "http://www.miraikasei.com/business/cfrp/",
+    "pass": 1
+   },
+   {
+    "quote": "任意の樹脂、目付け、配合に変更できる",
+    "url": "http://www.miraikasei.com/business/cfrp/",
+    "pass": 1
+   },
+   {
+    "quote": "循環型CFRP開発品に関するお問い合わせは",
+    "url": "http://www.miraikasei.com/business/cfrp/",
+    "pass": 1
+   },
+   {
+    "quote": "circular_cfrp@miraikasei.com",
+    "url": "http://www.miraikasei.com/business/cfrp/",
+    "pass": 1
+   },
+   {
+    "quote": "熱可塑繊維樹脂にバージン炭素繊維を配合した複合材料です",
+    "url": "https://mono.ipros.com/company/detail/2056118/category/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂を改質することで炭素繊維と密着性を向上させた製品となっています",
+    "url": "https://mono.ipros.com/company/detail/2056118/category/",
+    "pass": 3
+   },
+   {
+    "quote": "【試作品紹介】100%再生炭素繊維不織布",
+    "url": "https://mono.ipros.com/company/detail/2056118/category/",
+    "pass": 3
+   },
+   {
+    "quote": "任意の繊維長さで『100%再生炭素繊維不織布』を作成",
+    "url": "https://mono.ipros.com/company/detail/2056118/category/",
+    "pass": 3
+   },
+   {
+    "quote": "また、樹脂繊維との混紡不織布の成型板試作も実施",
+    "url": "https://mono.ipros.com/company/detail/2056118/category/",
+    "pass": 3
+   },
+   {
+    "quote": "任意の樹脂・炭素繊維含有比率で調整できます",
+    "url": "https://mono.ipros.com/company/detail/2056118/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■再生炭素繊維使用比率100%の不織布",
+    "url": "https://mono.ipros.com/company/detail/2056118/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■樹脂繊維との混紡不織布の成型板試作も実施",
+    "url": "https://mono.ipros.com/company/detail/2056118/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■任意の樹脂・炭素繊維含有比率で調整できる",
+    "url": "https://mono.ipros.com/company/detail/2056118/category/",
+    "pass": 3
+   },
+   {
+    "quote": "再生炭素繊維＜再生スキーム構築から加工製品開発まで＞",
+    "url": "https://mono.ipros.com/company/detail/2056118/category/",
+    "pass": 3
+   },
+   {
+    "quote": "CFRP生産工程の端材・廃材を再生利用しませんか？",
+    "url": "https://mono.ipros.com/company/detail/2056118/category/",
+    "pass": 3
+   },
+   {
+    "quote": "当社では、CFRP製品の製造時に発生する端材・廃材から、",
+    "url": "https://mono.ipros.com/company/detail/2056118/category/",
+    "pass": 3
+   },
+   {
+    "quote": "炭素繊維を分離、回収し、炭素繊維複合材として再生する技術を提供しています",
+    "url": "https://mono.ipros.com/company/detail/2056118/category/",
+    "pass": 3
+   },
+   {
+    "quote": "再生した炭素繊維複合材は、CFRPの充填材料、強化フィラーのほか、",
+    "url": "https://mono.ipros.com/company/detail/2056118/category/",
+    "pass": 3
+   },
+   {
+    "quote": "CFRP産業廃棄物の排出量削減、再生炭素繊維を活用した製品開発など、",
+    "url": "https://mono.ipros.com/company/detail/2056118/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■溶媒法(ケミカルリサイクル)を用いた炭素繊維回収技術を保有",
+    "url": "https://mono.ipros.com/company/detail/2056118/category/",
+    "pass": 3
+   },
+   {
+    "quote": "化学工業薬品や食品添加物、機械設備などをご提供する商社 新規事業（炭素繊維再生事業）を展開中",
+    "url": "https://mono.ipros.com/company/detail/2056118/",
+    "pass": 3
+   },
+   {
+    "quote": "これまでの事業活動を礎に青森県三沢市に炭素繊維の再生技術の開発拠点（青森Lab）を設立",
+    "url": "https://mono.ipros.com/company/detail/2056118/",
+    "pass": 3
+   },
+   {
+    "quote": "中量試作まで可能な設備を導入し、炭素繊維の再生技術ならびに再生材料を使用した出口製品の開発を推し進めています",
+    "url": "https://mono.ipros.com/company/detail/2056118/",
+    "pass": 3
+   },
+   {
+    "quote": "■再生炭素繊維および一次加工品の開発・製造・販売",
+    "url": "https://mono.ipros.com/company/detail/2056118/",
+    "pass": 3
+   },
+   {
+    "quote": "■炭素繊維強化樹脂（ペレット）の開発・製造",
+    "url": "https://mono.ipros.com/company/detail/2056118/",
+    "pass": 3
+   },
+   {
+    "quote": "■受委託業務（めっき、切断・研磨、セラミックス溶射など）",
+    "url": "https://mono.ipros.com/company/detail/2056118/",
+    "pass": 3
+   },
+   {
+    "quote": "【試作品紹介】100%再生炭素繊維不織布",
+    "url": "https://mono.ipros.com/company/detail/2056118/",
+    "pass": 3
+   },
+   {
+    "quote": "再生炭素繊維＜再生スキーム構築から加工製品開発まで＞",
+    "url": "https://mono.ipros.com/company/detail/2056118/",
+    "pass": 3
+   },
+   {
+    "quote": "【100%再生材料】炭素繊維不織布",
+    "url": "https://mono.ipros.com/company/detail/2056118/",
+    "pass": 3
+   },
+   {
+    "quote": "再生炭素繊維＜再生スキーム構築から加工製品開発まで＞ ミライ化成 | イプロスものづくり",
+    "url": "https://mono.ipros.com/product/detail/2000649195/",
+    "pass": 3
+   },
+   {
+    "quote": "再生炭素繊維＜再生スキーム構築から加工製品開発まで＞",
+    "url": "https://mono.ipros.com/product/detail/2000649195/",
+    "pass": 3
+   },
+   {
+    "quote": "CFRP生産工程の端材・廃材を再生利用しませんか？",
+    "url": "https://mono.ipros.com/product/detail/2000649195/",
+    "pass": 3
+   },
+   {
+    "quote": "当社では、CFRP製品の製造時に発生する端材・廃材から、",
+    "url": "https://mono.ipros.com/product/detail/2000649195/",
+    "pass": 3
+   },
+   {
+    "quote": "炭素繊維を分離、回収し、炭素繊維複合材として再生する技術を提供しています",
+    "url": "https://mono.ipros.com/product/detail/2000649195/",
+    "pass": 3
+   },
+   {
+    "quote": "再生した炭素繊維複合材は、CFRPの充填材料、強化フィラーのほか、",
+    "url": "https://mono.ipros.com/product/detail/2000649195/",
+    "pass": 3
+   },
+   {
+    "quote": "CFRP産業廃棄物の排出量削減、再生炭素繊維を活用した製品開発など、",
+    "url": "https://mono.ipros.com/product/detail/2000649195/",
+    "pass": 3
+   },
+   {
+    "quote": "■溶媒法(ケミカルリサイクル)を用いた炭素繊維回収技術を保有",
+    "url": "https://mono.ipros.com/product/detail/2000649195/",
+    "pass": 3
+   },
+   {
+    "quote": "【100%再生材料】炭素繊維不織布",
+    "url": "https://mono.ipros.com/product/detail/2000649195/",
+    "pass": 3
+   },
+   {
+    "quote": "これまでの事業活動を礎に青森県三沢市に炭素繊維の再生技術の開発拠点（青森Lab）を設立",
+    "url": "https://mono.ipros.com/product/detail/2000649195/",
+    "pass": 3
+   },
+   {
+    "quote": "中量試作まで可能な設備を導入し、炭素繊維の再生技術ならびに再生材料を使用した出口製品の開発を推し進めています",
+    "url": "https://mono.ipros.com/product/detail/2000649195/",
+    "pass": 3
+   },
+   {
+    "quote": "【基礎知識資料】配管補修に必要な炭素繊維複合材とは？",
+    "url": "https://mono.ipros.com/product/detail/2000649195/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "「IHI／SAMPE Japan 学生ブリッジコンテスト」にミライ化成が再生炭素繊維から製造した不織布を強化材として提供",
+    "url": "http://www.miraikasei.com",
+    "pass": 1
+   },
+   {
+    "quote": "「IHI／SAMPE Japan 学生ブリッジコンテスト」にミライ化成が再生炭素繊維から製造した不織布を強化材として提供",
+    "url": "http://www.miraikasei.com/business/cfrp/",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "半導体、情報機器、精密機械、化学、食品加工といった経済を担う産業分野に",
+    "url": "http://www.miraikasei.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "※各種分析機器・装置、高度管理医療機器などを取り扱っております",
+    "url": "http://www.miraikasei.com/business/chemical/",
+    "pass": 1
+   },
+   {
+    "quote": "■新たな設備を必要とせず、既存の設備・金型を使用することができます",
+    "url": "https://mono.ipros.com/company/detail/2056118/category/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体、情報機器、精密機械、化学、食品加工といった経済を担う産業分野に工業薬品、電子材料、食品添加物、装置類などを提供しています",
+    "url": "https://mono.ipros.com/company/detail/2056118/",
+    "pass": 3
+   },
+   {
+    "quote": "■化学工業薬品、食品添加物および高度管理医療機器の販売",
+    "url": "https://mono.ipros.com/company/detail/2056118/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体、情報機器、精密機械、化学、食品加工といった経済を担う産業分野に工業薬品、電子材料、食品添加物、装置類などを提供しています",
+    "url": "https://mono.ipros.com/product/detail/2000649195/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "循環型CFRP開発品に関するお問い合わせは",
+    "url": "http://www.miraikasei.com/business/cfrp/",
+    "pass": 1
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "ミライ化成の製品・サービス一覧｜イプロスものづくり",
+    "url": "https://mono.ipros.com/company/detail/2056118/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(3)",
+    "url": "https://mono.ipros.com/company/detail/2056118/category/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂を改質することで炭素繊維と密着性を向上させた製品となっています",
+    "url": "https://mono.ipros.com/company/detail/2056118/category/",
+    "pass": 3
+   },
+   {
+    "quote": "（通常ラインナップは10％～30％です",
+    "url": "https://mono.ipros.com/company/detail/2056118/category/",
+    "pass": 3
+   },
+   {
+    "quote": "再生炭素繊維＜再生スキーム構築から加工製品開発まで＞",
+    "url": "https://mono.ipros.com/company/detail/2056118/category/",
+    "pass": 3
+   },
+   {
+    "quote": "当社では、CFRP製品の製造時に発生する端材・廃材から、",
+    "url": "https://mono.ipros.com/company/detail/2056118/category/",
+    "pass": 3
+   },
+   {
+    "quote": "CFRP産業廃棄物の排出量削減、再生炭素繊維を活用した製品開発など、",
+    "url": "https://mono.ipros.com/company/detail/2056118/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■製品化後のマーケティング・販路開拓までサポート",
+    "url": "https://mono.ipros.com/company/detail/2056118/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(3)",
+    "url": "https://mono.ipros.com/company/detail/2056118/",
+    "pass": 3
+   },
+   {
+    "quote": "中量試作まで可能な設備を導入し、炭素繊維の再生技術ならびに再生材料を使用した出口製品の開発を推し進めています",
+    "url": "https://mono.ipros.com/company/detail/2056118/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (3)",
+    "url": "https://mono.ipros.com/company/detail/2056118/",
+    "pass": 3
+   },
+   {
+    "quote": "再生炭素繊維＜再生スキーム構築から加工製品開発まで＞",
+    "url": "https://mono.ipros.com/company/detail/2056118/",
+    "pass": 3
+   },
+   {
+    "quote": "再生炭素繊維＜再生スキーム構築から加工製品開発まで＞ ミライ化成 | イプロスものづくり",
+    "url": "https://mono.ipros.com/product/detail/2000649195/",
+    "pass": 3
+   },
+   {
+    "quote": "再生炭素繊維＜再生スキーム構築から加工製品開発まで＞",
+    "url": "https://mono.ipros.com/product/detail/2000649195/",
+    "pass": 3
+   },
+   {
+    "quote": "当社では、CFRP製品の製造時に発生する端材・廃材から、",
+    "url": "https://mono.ipros.com/product/detail/2000649195/",
+    "pass": 3
+   },
+   {
+    "quote": "CFRP産業廃棄物の排出量削減、再生炭素繊維を活用した製品開発など、",
+    "url": "https://mono.ipros.com/product/detail/2000649195/",
+    "pass": 3
+   },
+   {
+    "quote": "■製品化後のマーケティング・販路開拓までサポート",
+    "url": "https://mono.ipros.com/product/detail/2000649195/",
+    "pass": 3
+   },
+   {
+    "quote": "中量試作まで可能な設備を導入し、炭素繊維の再生技術ならびに再生材料を使用した出口製品の開発を推し進めています",
+    "url": "https://mono.ipros.com/product/detail/2000649195/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス一覧 (3)",
+    "url": "https://mono.ipros.com/product/detail/2000649195/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "【試作品紹介】100%再生炭素繊維不織布",
+    "url": "https://mono.ipros.com/company/detail/2056118/category/",
+    "pass": 3
+   },
+   {
+    "quote": "また、樹脂繊維との混紡不織布の成型板試作も実施",
+    "url": "https://mono.ipros.com/company/detail/2056118/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■樹脂繊維との混紡不織布の成型板試作も実施",
+    "url": "https://mono.ipros.com/company/detail/2056118/category/",
+    "pass": 3
+   },
+   {
+    "quote": "中量試作まで可能な設備を導入し、炭素繊維の再生技術ならびに再生材料を使用した出口製品の開発を推し進めています",
+    "url": "https://mono.ipros.com/company/detail/2056118/",
+    "pass": 3
+   },
+   {
+    "quote": "【試作品紹介】100%再生炭素繊維不織布",
+    "url": "https://mono.ipros.com/company/detail/2056118/",
+    "pass": 3
+   },
+   {
+    "quote": "廃材の状態・繊維種・物量によって再生試作費は変動いたします",
+    "url": "https://mono.ipros.com/product/detail/2000649195/",
+    "pass": 3
+   },
+   {
+    "quote": "中量試作まで可能な設備を導入し、炭素繊維の再生技術ならびに再生材料を使用した出口製品の開発を推し進めています",
+    "url": "https://mono.ipros.com/product/detail/2000649195/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ミライ化成 の 製品 ・サービス一覧｜イプロスものづくり — ミライ化成 の 製品 ・サービス一覧｜イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > ... > 株式会社ミライ化成 青森Lab",
+    "url": "https://mono.ipros.com/company/detail/2056118/category/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社ミライ化成 青森Lab - イプロス — 株式 会社ミライ化成 青森Lab - イプロス 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 化学",
+    "url": "https://mono.ipros.com/company/detail/2056118/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社ミライ化成 青森LAB — 株式 会社ミライ化成 青森LAB 青森県産業立地ガイド PDF https://aomori-ritti-guide.jp > data > yuchi2024_45",
+    "url": "https://aomori-ritti-guide.jp/10_download/data/yuchi2024_45.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ミライ化成 青森LAB — 株式会社 ミライ化成 青森LAB 青森県産業立地ガイド PDF https://aomori-ritti-guide.jp > data > yuchi2024_45",
+    "url": "https://aomori-ritti-guide.jp/10_download/data/yuchi2024_45.pdf",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://www.miraikasei.com",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "http://www.miraikasei.com/company/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "http://www.miraikasei.com/business/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "http://www.miraikasei.com/business/chemical/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "http://www.miraikasei.com/business/food/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "http://www.miraikasei.com/business/storage/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "http://www.miraikasei.com/business/cfrp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "http://www.miraikasei.com/business/customer/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "http://www.miraikasei.com/business/index.html",
+    "status": "network_error:SSLError",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "http://www.miraikasei.com/pdf/2026.06.19_release.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.miraikasei.com/pdf/2023.11.14_NEDO-program.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.miraikasei.com/pdf/sale_carbon.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.miraikasei.com/pdf/2026.07.06_release.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.miraikasei.com/pdf/2026.04.08_release.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.miraikasei.com/pdf/2025.05.27_release.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.miraikasei.com/pdf/2024.11.21_news.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   },
+   {
+    "url": "http://www.miraikasei.com/pdf/2024.05.20_merger.pdf",
+    "status": "network_error:SSLError",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.mitani.co.jp/news/20250530",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2056118/category/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xtech.nikkei.com/atcl/nxt/news/24/02575/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitani.co.jp/news/20250530",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2056118/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mitani.co.jp/news/20250530",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mono.ipros.com/product/detail/2000649195/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ミライ化成 青森Lab 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.mitani.co.jp/news/20250530",
+    "https://mono.ipros.com/company/detail/2056118/category/",
+    "https://xtech.nikkei.com/atcl/nxt/news/24/02575/",
+    "https://www.iru-miru.com/article/75515",
+    "https://monoist.itmedia.co.jp/mn/articles/2506/03/news044_2.html",
+    "https://www.miraikasei.com/business/cfrp/",
+    "https://www.jwing.net/news/93772",
+    "https://news.nicovideo.jp/watch/nw17734184",
+    "https://prtimes.jp/main/html/rd/p/000000141.000032549.html",
+    "https://www.miraikasei.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "ミライ化成 青森Lab 会社概要 事業内容",
+   "results": [
+    "https://www.mitani.co.jp/news/20250530",
+    "https://www.miraikasei.com/company/",
+    "https://mono.ipros.com/company/detail/2056118/",
+    "https://xtech.nikkei.com/atcl/nxt/news/24/02575/",
+    "https://aomori-ritti-guide.jp/10_download/data/yuchi2024_45.pdf",
+    "https://www.iru-miru.com/article/75515",
+    "https://www.nikkan.co.jp/articles/view/750877",
+    "https://x.com/MITANISANGYO/status/1927875750071521345",
+    "https://www.jwing.net/news/93772",
+    "https://www.pref.aomori.lg.jp/soshiki/sangyo/richi/files/49miraikasei.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "ミライ化成 青森Lab お問い合わせ メール",
+   "results": [
+    "https://www.mitani.co.jp/news/20250530",
+    "https://www.miraikasei.com/company/",
+    "https://mono.ipros.com/product/detail/2000649195/",
+    "https://aomori-ritti-guide.jp/10_download/data/yuchi2024_45.pdf",
+    "https://www.nikkan.co.jp/articles/view/750877",
+    "https://xtech.nikkei.com/atcl/nxt/news/24/02575/",
+    "https://x.com/MITANISANGYO/status/1927875750071521345",
+    "https://chematels.com/company/gTRiYebAFdxj6QFLyjhT/info",
+    "https://www.miraikasei.com/",
+    "https://www.miraikasei.com/contact/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com ミライ化成 青森Lab",
+   "results": [
+    "https://note.com/kuwaman_88/n/n2db04803a9ab",
+    "https://note.com/clipcorporation/n/nee52a3a16393",
+    "https://note.com/miraikurulab",
+    "https://note.com/miraijinlab",
+    "https://note.com/mirai_rabo",
+    "https://note.com/mirainolab",
+    "https://note.com/mirainolab/all",
+    "https://note.com/lutanriche/n/ne76b341f7fe1",
+    "https://note.com/mirainolab/n/n26937e8907b8"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:x.com ミライ化成 青森Lab",
+   "results": [
+    "https://x.com/MITANISANGYO/status/1927875750071521345",
+    "https://x.com/MITANISANGYO/status/1944902198435176503",
+    "https://x.com/MITANISANGYO/status/2044246724181672065",
+    "https://x.com/MITANISANGYO/status/1959811183038636495",
+    "https://x.com/MITANISANGYO/status/1928339400418807840",
+    "https://x.com/MITANISANGYO/status/2041698746879373612",
+    "https://x.com/MITANISANGYO/status/2049686606471479483",
+    "https://x.com/hashtag/ミライ化成",
+    "https://x.com/mirailabotv"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:linkedin.com ミライ化成 青森Lab",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com ミライ化成 青森Lab",
+   "results": [
+    "https://www.facebook.com/株式会社ミライ化成-103453091223121/",
+    "https://www.facebook.com/profile.php/?id=100067943465909",
+    "https://www.facebook.com/mirailab.jp/",
+    "https://www.facebook.com/miraifarmlabo8911/",
+    "https://www.facebook.com/miraijin.labo/",
+    "https://www.facebook.com/放課後ミライ探究ラボ-Mitan-Lab-105740901683159/videos/青森市mitan-lab-木曜日-かけっこ教室子どもたちがいつも楽しみにしているリレー一年生三年生が多い教室なのでみんなの関心は自分のチームが勝つかに集中します/268658645148607/",
+    "https://www.facebook.com/放課後ミライ探究ラボ-Mitan-Lab-105740901683159/videos/青森市青葉mitan-lab-冬休みの確認テストを受けている小学１年生さん国語の問題は記憶に頼らずに読むことが大事一生懸命読んでます️習いごとができる送迎つきア/345051270799106/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ミライ化成 青森Lab note 社長",
+   "results": [
+    "https://www.mitani.co.jp/news/20250530",
+    "https://www.nikkei.com/article/DGXZRSP691816_Q5A530C2000000/",
+    "https://aomori-ritti-guide.jp/10_download/data/yuchi2024_45.pdf",
+    "https://x.com/MITANISANGYO/status/1927875750071521345",
+    "https://www.nikkan.co.jp/articles/view/750877",
+    "https://www.iru-miru.com/article/75515",
+    "https://mono.ipros.com/product/detail/2000649195/",
+    "https://www.jwing.net/news/93772",
+    "https://prtimes.jp/main/html/rd/p/000000133.000032549.html",
+    "https://www.miraikasei.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "ミライ化成 青森Lab X 投稿",
+   "results": [
+    "https://x.com/MITANISANGYO/status/1927875750071521345",
+    "https://www.mitani.co.jp/news/20250530",
+    "https://aomori-ritti-guide.jp/10_download/data/yuchi2024_45.pdf",
+    "https://www.miraikasei.com/",
+    "https://www.nikkei.com/article/DGXZRSP691816_Q5A530C2000000/",
+    "https://www.nikkan.co.jp/articles/view/750877",
+    "https://www.iru-miru.com/article/75515",
+    "https://www.daily-tohoku.news/archives/322421",
+    "https://www.jwing.net/news/93772",
+    "https://x.com/MITANISANGYO/status/1928339400418807840"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "代表者": "記載なし（3回確認済み：公式9頁／PDF・画像8件／外部7頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式9頁／PDF・画像8件／外部7頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式9頁／PDF・画像8件／外部7頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式9頁／PDF・画像8件／外部7頁・検索9回）"
+ }
+}

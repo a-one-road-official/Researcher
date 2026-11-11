@@ -1,0 +1,367 @@
+{
+ "name": "nagoya-trade-expo.jp",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Events / Exhibitions｜返信あり",
+ "researched_at": "2026-11-11T13:15:43.696279+00:00",
+ "official_url": "https://nagoya-trade-expo.jp/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "株式会社Preferred Networks AI Products ＆ Solutions事業本部",
+    "url": "https://www.pref.aichi.jp/press-release/robot-ai-symposium2026-techbizexpo.html",
+    "pass": 3
+   },
+   {
+    "quote": "メール：sangyoshinko@pref.aichi.lg.jp",
+    "url": "https://www.pref.aichi.jp/press-release/robot-ai-symposium2026-techbizexpo.html",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "株式会社Preferred Networks AI Products ＆ Solutions事業本部",
+    "url": "https://www.pref.aichi.jp/press-release/robot-ai-symposium2026-techbizexpo.html",
+    "pass": 3
+   },
+   {
+    "quote": "トロン株式会社 代表取締役社長 和嶋 渓 氏",
+    "url": "https://www.pref.aichi.jp/press-release/robot-ai-symposium2026-techbizexpo.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社豊田自動織機 技術戦略部 部長 名和 政道 氏",
+    "url": "https://www.pref.aichi.jp/press-release/robot-ai-symposium2026-techbizexpo.html",
+    "pass": 3
+   },
+   {
+    "quote": "名古屋国際見本市委員会（構成団体：愛知県、名古屋市、名古屋商工会議所、独立行政法人日本貿易振興機構（JETRO）名古屋貿易情報センター、公益財団法人名古屋産業振興公社）",
+    "url": "https://www.pref.aichi.jp/press-release/robot-ai-symposium2026-techbizexpo.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Nagoya-Trade-Expo.jp Domain Information & Lookup Data — Nagoya Trade Expo is a dedicated platform for promoting trade and business opportunities in Nagoya, Japan. The website serves as a resource for exhibitors and visitors, providing information about upcoming trade shows, exhibitions, and events in the region.",
+    "url": "https://www.ipaddress.com/website/nagoya-trade-expo.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "nagoya-trade-expo.jp Traffic Analytics & Market Share ... — nagoya-trade-expo.jp is ranked #4124 in the Business and Consumer Services > Business Services category and #6814020 Globally according to November 2022 data. Get the full nagoya-trade-expo.jp Analytics and market share drilldown here",
+    "url": "https://www.similarweb.com/website/nagoya-trade-expo.jp/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Manufacturing World - held in Tokyo, Osaka & Nagoya, Japan名古屋市社会福祉協議会 - 災害に備えるための総合展『中部ライフガー...Tokai Clarion,Ltd.（東海クラリオン株式会社）メッセナゴヤ 〈MESSE NAGOYA〉 - FacebookKan-de Nagoya Trading | Nagoya-shi Aichi - Facebook Oct 9, 2026 · Manufacturing World - held in Tokyo, Osaka & Nagoya, Japan Japan's largest manufacturing trade show series, held in Tokyo, Osaka, Nagoya and Fukuoka. Nov 8, 2024 · ライフガード公式 htt",
+    "url": "https://www.facebook.com/manufacturingworldjapan/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://nagoya-trade-expo.jp/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.nepconjapan.jp/nagoya/en-gb.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automotiveworld.jp/nagoya/en-gb.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.aichi.jp/press-release/robot-ai-symposium2026-techbizexpo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://search-nagoya-trade-expo.com/search",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.koaglobal.com/corporate/offices/distributors1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yamamoto_ec/n/ncc92bffa3f69",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blog.buyer-zemi.jp/2026/07/12/sole-distributor-vs-sales-agent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.automotiveworld.jp/nagoya/en-gb.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nepconjapan.jp/nagoya/en-gb.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.manufacturing-world.jp/nagoya/en-gb.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aee.expo-info.jsae.or.jp/en/nagoya/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.manufacturing-world.jp/nagoya/en-gb.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.manufacturing-world.jp/nagoya/en-gb/previous.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nepconjapan.jp/nagoya/en-gb.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lnews.jp/2025/03/r0307503.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/hub/nagoya-companies-more-than-1m-in-revenue",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/893873-08",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/903178-18",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://companydata.com/companies/nagoya/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/manufacturingworldjapan/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "nagoya-trade-expo.jp 日本 導入",
+   "results": [
+    "https://www.nepconjapan.jp/nagoya/en-gb.html",
+    "https://www.automotiveworld.jp/nagoya/en-gb.html",
+    "https://www.pref.aichi.jp/press-release/robot-ai-symposium2026-techbizexpo.html",
+    "https://search-nagoya-trade-expo.com/search",
+    "https://www.kgf-chubu.com/",
+    "https://japanese.cgtn.com/2026/11/10/ARTI1794262952982858",
+    "https://www.jetro.go.jp/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "nagoya-trade-expo.jp 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://note.com/yamamoto_ec/n/ncc92bffa3f69",
+    "https://blog.buyer-zemi.jp/2026/07/12/sole-distributor-vs-sales-agent/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.houjin-bangou.nta.go.jp/en/index.html",
+    "https://messe.nikkei.co.jp/exhibitor/index/RT/ja?c=134"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "nagoya-trade-expo.jp Japan",
+   "results": [
+    "https://www.automotiveworld.jp/nagoya/en-gb.html",
+    "https://www.nepconjapan.jp/nagoya/en-gb.html",
+    "https://www.manufacturing-world.jp/nagoya/en-gb.html",
+    "https://aee.expo-info.jsae.or.jp/en/nagoya/",
+    "https://www.ipaddress.com/website/nagoya-trade-expo.jp/",
+    "https://search-nagoya-trade-expo.com/search",
+    "https://www.messenagoya.jp/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "nagoya-trade-expo.jp manufacturing customer case study",
+   "results": [
+    "https://www.manufacturing-world.jp/nagoya/en-gb.html",
+    "https://www.manufacturing-world.jp/nagoya/en-gb/previous.html",
+    "https://www.nepconjapan.jp/nagoya/en-gb.html",
+    "https://en.lnews.jp/2025/03/r0307503.html",
+    "https://www.mitsubishielectric.com/fa/our-stories/031/index.html",
+    "https://www.mitsubishielectric.com/fa/our-stories/028/pdf/In-house_case_study_028.pdf",
+    "https://search-nagoya-trade-expo.com/search"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "nagoya-trade-expo.jp white label OR reseller OR partner program",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "nagoya-trade-expo.jp founded funding employees revenue",
+   "results": [
+    "https://www.crunchbase.com/hub/nagoya-companies-more-than-1m-in-revenue",
+    "https://pitchbook.com/profiles/company/893873-08",
+    "https://pitchbook.com/profiles/company/903178-18",
+    "https://companydata.com/companies/nagoya/",
+    "https://www.similarweb.com/website/nagoya-trade-expo.jp/",
+    "https://prospeo.io/c/nagoya-city-university-revenue",
+    "https://search-nagoya-trade-expo.com/search"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com nagoya-trade-expo.jp",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com nagoya-trade-expo.jp",
+   "results": [
+    "https://x.com/expo17nagoya",
+    "https://jf.x.com/images/media-preview/2090110070755332103",
+    "https://jf.x.com/images/media-preview/2098725699804926412",
+    "https://x.com/nagoyaidolexpo",
+    "https://x.com/ipexconnectors/status/2062338550679716238",
+    "https://x.com/nobarA_Info_/status/996920628782350336",
+    "https://x.com/nyklineofficial/status/2117859453689118902"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com nagoya-trade-expo.jp",
+   "results": [
+    "https://www.linkedin.com/posts/有弘-佐藤-18318868_trade-fairs-in-japan-visit-plan-update-smart-activity-7495999184102256641-PnKk",
+    "https://jp.linkedin.com/company/aichi-sky-expo",
+    "https://jp.linkedin.com/company/nshowcase",
+    "https://www.linkedin.com/posts/aichi-sky-expo_aichiskyexpo-exhibitioncenter-eventvenue-activity-7488494556200509440-phgW",
+    "https://pl.linkedin.com/in/gokhansonmezcan",
+    "https://mx.linkedin.com/in/sarachagamj",
+    "https://cn.linkedin.com/in/michael-h-2619321a"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com nagoya-trade-expo.jp",
+   "results": [
+    "https://www.facebook.com/alleventsalert/posts/302777095222621/",
+    "https://www.facebook.com/manufacturingworldjapan/",
+    "https://www.facebook.com/TokaiClarion/",
+    "https://www.facebook.com/messenagoya/",
+    "https://www.facebook.com/kandenagoyatrading/",
+    "https://www.facebook.com/unibo.official/photos/展示情報本日7月27日木30日日まで名古屋にて行われているロボット技術産業フェアのtis様ブースにてユニボの展示が行われていますお近くの方はぜひお越しくださいま/1948574452092087/",
+    "https://www.facebook.com/nagoyashi.shakyo/photos/災害に備えるための総合展中部ライフガードtec2024のご案内-防災減災危機管理に関する技術製品サービスを幅広く紹介併催行事として名古屋港の防災減災を考えるプロ/545898824855959/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "nagoya-trade-expo.jp note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://jp.linkedin.com/in/yoshihito-kita-625852100",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://note.com/sadaaki"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "nagoya-trade-expo.jp X 投稿",
+   "results": [
+    "https://www.t-expo.jp/en/biz/exhibit2025",
+    "https://www.material-expo.jp/nagoya/ja-jp/about/previous.html",
+    "https://www.nipc.or.jp/welfare/",
+    "https://biz.chunichi.co.jp/blog/51070ETZDPVTN/article/3151070000/10310/",
+    "https://www.messenagoya.jp/",
+    "https://agts-expo.jp/",
+    "https://search-nagoya-trade-expo.com/search"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部21頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部21頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部21頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部21頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部21頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部21頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部21頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部21頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部21頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部21頁・検索12回）"
+ }
+}

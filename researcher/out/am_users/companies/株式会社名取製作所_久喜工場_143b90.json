@@ -1,0 +1,984 @@
+{
+ "name": "株式会社名取製作所 久喜工場",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T13:05:07.455231+00:00",
+ "official_url": "http://www.natori-mnf.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "本社 〒362-0034　埼玉県上尾市愛宕3-15-14 TEL：048-774-1153（代表） FAX：048-774-1155 久喜工場 〒346-0028　埼玉県久喜市河原井町47-3 TEL：0480-22-3301 FAX：0480-22-8818 東京オフィス 〒105-0004　東京都港区新橋2丁目5-2 フィリピン現地法人 Natori Harmo Manufacturing",
+    "url": "https://natori-mnf.co.jp/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "本社 〒362-0034　埼玉県上尾市愛宕3-15-14 TEL：048-774-1153（代表） FAX：048-774-1155 久喜工場 〒346-0028　埼玉県久喜市河原井町47-3 TEL：0480-22-3301 FAX：0480-22-8818 東京オフィス 〒105-0004　東京都港区新橋2丁目5-2 フィリピン現地法人 Natori Harmo Manufacturing",
+    "url": "https://natori-mnf.co.jp/about/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "45名",
+    "url": "https://natori-mnf.co.jp/about/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役",
+    "value": "名取 秀幸",
+    "url": "https://natori-mnf.co.jp/about/",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "取引先企業 (順不同・敬称略)",
+    "value": "株式会社デンソーワイパシステムズ 岡部株式会社 三井金属鉱業株式会社 三菱ケミカル株式会社 関東梯子株式会社　他",
+    "url": "https://natori-mnf.co.jp/about/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "より良い未来を築くため、私たちの製品やサービスが、社会に貢献することを信じ、そのために日々努力してまいります",
+    "url": "https://natori-mnf.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「3次元曲げ加工」、「プレス金型」、「治具加工」、「外観仕上げ」と、高い加工技術による高品質の製品ご提供しています",
+    "url": "https://natori-mnf.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "チタン加工は難易度は高いものの、製品の質と多様性非常に価値のある技術です",
+    "url": "https://natori-mnf.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "名取製作所の製品実績は、大きく分けて 量産品 と 試作・開発品 になります",
+    "url": "https://natori-mnf.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "その難しいチタンの加工ですが、名取製作所の確かな技術で、お客様の製品のチタン化のお手伝いをさせていただきます",
+    "url": "https://natori-mnf.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Q 1：既存製品をチタン化したい場合、相談に乗ってもらえますか？",
+    "url": "https://natori-mnf.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "安定した高品質…納品前製品に自社ノウハウの詰まった目視検査を行うことで、高品質な製品精度の保証を行っております",
+    "url": "https://natori-mnf.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "進化する技術… 生産現場をIOT化し、ばらつきを可視化することで、現場力の継続的な向上による高品質な製品提供を可能にしました",
+    "url": "https://natori-mnf.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "そのためご相談から提案、設計、製作、アフターフォローまで対応できる範囲は広く、お客様に納得していただける製品をご提供させていただくことをお約束します",
+    "url": "https://natori-mnf.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の品質基準を満たし、安全で高品質の製品を提供するために ISO9001/14001 統合版を取得し、その要求事項を遵守しています",
+    "url": "https://natori-mnf.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの製品は、産業界のみならず、地域社会にも良い影響を与えることを目指します",
+    "url": "https://natori-mnf.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "そして、その結果として生み出される製品やサービスは、社会に真の価値を提供するものとなると確信しています",
+    "url": "https://natori-mnf.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの製品やサービスが、社会に貢献することを信じ、そのために日々努力してまいります",
+    "url": "https://natori-mnf.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "また、日本人向けに蓄積したこれらの技術と経験を活かし、将来的にはアジア全体の義肢ユーザーにむけた製品の製作に取り組んでいきたいと考えております",
+    "url": "https://natori-mnf.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "曲げ加工技術の進化とその応用は、多様な製品分野において新しい可能性を切り開きます",
+    "url": "https://natori-mnf.co.jp/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "エキスパートのこだわりが、製品の品質、性能、美観を高めることに寄与し、より高機能で魅力的な製品を提供します",
+    "url": "https://natori-mnf.co.jp/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の製品を使用したワイパーは車のフロントガラス曲面にしっかりフィットし、高い拭きとり性能があります",
+    "url": "https://natori-mnf.co.jp/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "ワイパーアームピース製品は、『 1.嵌合 2.強度 3.動作 4.外観 』の4項目が要求されます",
+    "url": "https://natori-mnf.co.jp/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、製品全体の組み立てや動作の安定性が向上します",
+    "url": "https://natori-mnf.co.jp/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "適切な材料を適切な加工方法で加工することにより、製品の耐荷重性や耐摩耗性が向上します",
+    "url": "https://natori-mnf.co.jp/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "動作に必要な正確な形状や寸法を実現することで、製品の動作性能や効率が向上します",
+    "url": "https://natori-mnf.co.jp/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "精密な加工により、表面仕上げやデザインに細部までこだわることができ、製品の見た目の品質や印象が向上します",
+    "url": "https://natori-mnf.co.jp/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "このように当社の加工技術は、製品の性能や品質を向上させます",
+    "url": "https://natori-mnf.co.jp/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "計算する力ももちろんの事、素材が持つ本来の力にどれほどの力を加えて曲げればよいか、その素材毎や、製品が使われるシーン毎によって実現に必要な曲げ技術は変わってきます",
+    "url": "https://natori-mnf.co.jp/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "名取製作所では、試作で精確な製品を作り出したあと、生産ラインを構築し、プレス機と多関節ロボットでひねり・ねじり加工品を生産いたします",
+    "url": "https://natori-mnf.co.jp/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "名取製作所の製品の完成度が高い理由が、金型の精度が高い事にあります",
+    "url": "https://natori-mnf.co.jp/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "現在、プレス加工を行うにあたり、名取製作所では、まずその製品の形状、要求性能などを検討し、最適なプレスラインを設計することから始めます",
+    "url": "https://natori-mnf.co.jp/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "このノウハウを製作する全ての製品にも適応させ、ご提供いたします",
+    "url": "https://natori-mnf.co.jp/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "そのためご相談から提案、設計、製作、アフターフォローまで対応できる範囲は広く、お客様に納得していただける製品をご提供させていただくことをお約束します",
+    "url": "https://natori-mnf.co.jp/production/",
+    "pass": 1
+   },
+   {
+    "quote": "画像測定器、CNC三次元測定機などの最新の検査設備を導入し、お客様に信頼される製品づくりを行っています",
+    "url": "https://natori-mnf.co.jp/production/",
+    "pass": 1
+   },
+   {
+    "quote": "また、納品前製品に自社ノウハウの詰まった目視検査を行うことで、高品質な製品精度の保証を行っております",
+    "url": "https://natori-mnf.co.jp/production/",
+    "pass": 1
+   },
+   {
+    "quote": "【製品名】チタンケース、フランジケース",
+    "url": "https://natori-mnf.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "【製品名】クランプ、アダプター",
+    "url": "https://natori-mnf.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "電気伝導率が高い銅は、硬度が低いため加工がしやすく、複雑で精密な形状の製品の制作が可能です",
+    "url": "https://natori-mnf.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "測定器を用いた製品検査、目視検査による検品等を行います",
+    "url": "https://natori-mnf.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "A. 段取りの計画や調整方法などに学ぶ点が多く、また検査前に作業者自身が製品をチェックする習慣は、HTCでもぜひ取り入れていきたいと感じました",
+    "url": "https://natori-mnf.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "共同研究先との守秘義務により、具体的な製品画像や加工事例の掲載は控えておりますが、現在、インコネルを用いた製品開発にも携わっております",
+    "url": "https://natori-mnf.co.jp/2026/10/400/",
+    "pass": 1
+   },
+   {
+    "quote": "名取製作所では、ステンレスの耐食性と高強度性という特性を活かした製品製作を行っています",
+    "url": "https://natori-mnf.co.jp/2026/10/383/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の製品ごとに最適な治具を自社開発・考案することも可能です",
+    "url": "https://natori-mnf.co.jp/2026/10/383/",
+    "pass": 1
+   },
+   {
+    "quote": "歴史として70年程度と浅いチタン加工ですが、その素材から作られる製品は今までにない機能性を発揮しています",
+    "url": "https://natori-mnf.co.jp/titanium/",
+    "pass": 1
+   },
+   {
+    "quote": "名取製作所は設立当初から、硬鋼材のような硬く取り扱いの難しい素材をプレス加工で製品化してきており、そのクオリティの高さから国内トップシェアを誇っている製品もあります",
+    "url": "https://natori-mnf.co.jp/titanium/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス(3)",
+    "url": "https://mono.ipros.com/company/detail/340742/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (3)",
+    "url": "https://mono.ipros.com/company/detail/340742/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "株式会社 名取製作所 - 確かなプレス加工とチタン技術でみなさまの思いをカタチに",
+    "url": "https://natori-mnf.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "確かなプレス加工とチタン技術でみなさまの思いをカタチに",
+    "url": "https://natori-mnf.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "チタンをはじめ、ステンレス材、インコネル、その他様々な金属材のお取り扱いが可能です",
+    "url": "https://natori-mnf.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "チタン加工は難易度は高いものの、製品の質と多様性非常に価値のある技術です",
+    "url": "https://natori-mnf.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "チタン加工は名取製作所が得意としている加工の一つです",
+    "url": "https://natori-mnf.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "チタンは素材として優秀な性質を持っています",
+    "url": "https://natori-mnf.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "その難しいチタンの加工ですが、名取製作所の確かな技術で、お客様の製品のチタン化のお手伝いをさせていただきます",
+    "url": "https://natori-mnf.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "名取製作所のスポーツ義足用アダプターは、長さや色、材質などが変えられ、一人一人に最適なものが製作可能です",
+    "url": "https://natori-mnf.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Q 1：既存製品をチタン化したい場合、相談に乗ってもらえますか？",
+    "url": "https://natori-mnf.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "チタンという加工が難しい素材でも、当社の長年の経験により培った金属加工・プレス技術を使い、ご納得頂ける品質でご提供が可能です",
+    "url": "https://natori-mnf.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "抜き、曲げ、ねじりなどの金型の種類も、取り扱う材質や、デザインにより違うので、それぞれに適した金型を製作し、オリジナルなプレスのラインに組み込みます",
+    "url": "https://natori-mnf.co.jp/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "チタンは、酸や塩に対する耐腐食性があるため壊れにくく、高温でも性能を維持します",
+    "url": "https://natori-mnf.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "【製品名】チタンケース、フランジケース",
+    "url": "https://natori-mnf.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "純チタン、64チタンの",
+    "url": "https://natori-mnf.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "チタンは、海水や塩水環境下でも高い耐食性を維持し、プラチナに匹敵します",
+    "url": "https://natori-mnf.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "チタンは陽極酸化により、美しく発色します",
+    "url": "https://natori-mnf.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、1949年の創業以来培ってきた金属加工の技術、そして「最適な材料を最適な加工方法で」という理念のもと、チタンをはじめ、ステンレス材、インコネルなど様々な金属材のお取り扱いをしております",
+    "url": "https://natori-mnf.co.jp/2026/10/400/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の最大の強みは、金属の中でも最難関とされる「純チタン」や「チタン合金」の加工実績が多くある点です",
+    "url": "https://natori-mnf.co.jp/2026/10/383/",
+    "pass": 1
+   },
+   {
+    "quote": "チタン加工で培った技術やノウハウがあるからこそ、ステンレスにおいても高い精度で、かつ複雑な加工にも対応が可能です",
+    "url": "https://natori-mnf.co.jp/2026/10/383/",
+    "pass": 1
+   },
+   {
+    "quote": "名取製作所のチタン｜チタン技術 - 株式会社 名取製作所",
+    "url": "https://natori-mnf.co.jp/titanium/",
+    "pass": 1
+   },
+   {
+    "quote": "チタン加工は名取製作所が得意としている加工の一つです",
+    "url": "https://natori-mnf.co.jp/titanium/",
+    "pass": 1
+   },
+   {
+    "quote": "チタンは素材として優秀な性質を持っています",
+    "url": "https://natori-mnf.co.jp/titanium/",
+    "pass": 1
+   },
+   {
+    "quote": "その難しいチタンの加工ですが、我々は下記加工技術で、お客様が必要としているものを形にしてきています",
+    "url": "https://natori-mnf.co.jp/titanium/",
+    "pass": 1
+   },
+   {
+    "quote": "チタンの中で得意とする素材は、64チタン合金 (Ti-６AL-4V)",
+    "url": "https://natori-mnf.co.jp/titanium/",
+    "pass": 1
+   },
+   {
+    "quote": "チタンと一括りにしても、純チタンを初めて、様々なチタンの合金素材があります",
+    "url": "https://natori-mnf.co.jp/titanium/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は中でも64チタン合金の加工を得意としております",
+    "url": "https://natori-mnf.co.jp/titanium/",
+    "pass": 1
+   },
+   {
+    "quote": "チタンの加工技術は発展途上中、日々進化しています",
+    "url": "https://natori-mnf.co.jp/titanium/",
+    "pass": 1
+   },
+   {
+    "quote": "最初のチタンは1790年に未知な元素として初めは「メナカイト」と名付けられましたが、1795年に成分分析により特殊な性質をもつ元素としてチタンと名付けられました",
+    "url": "https://natori-mnf.co.jp/titanium/",
+    "pass": 1
+   },
+   {
+    "quote": "しかしそれから純チタンが抽出出来たのは100年以上たった1910年で、実際に金属として実用化され始めたのは、さらに30年後の1946年です",
+    "url": "https://natori-mnf.co.jp/titanium/",
+    "pass": 1
+   },
+   {
+    "quote": "歴史として70年程度と浅いチタン加工ですが、その素材から作られる製品は今までにない機能性を発揮しています",
+    "url": "https://natori-mnf.co.jp/titanium/",
+    "pass": 1
+   },
+   {
+    "quote": "航空機、ロケットなどは、強さと軽さ、錆びにくさをもつチタンにはうってつけです",
+    "url": "https://natori-mnf.co.jp/titanium/",
+    "pass": 1
+   },
+   {
+    "quote": "チタンという難しい素材でも、 ご希望のクオリティに金属加工・プレス技術を使い、ご納得頂ける価格でご提供いたします",
+    "url": "https://natori-mnf.co.jp/titanium/",
+    "pass": 1
+   },
+   {
+    "quote": "名取製作所はチタン化のお手伝いをいたします",
+    "url": "https://natori-mnf.co.jp/titanium/",
+    "pass": 1
+   },
+   {
+    "quote": "チタン化８つのメリット",
+    "url": "https://natori-mnf.co.jp/titanium/",
+    "pass": 1
+   },
+   {
+    "quote": "1. チタンは人にやさしい",
+    "url": "https://natori-mnf.co.jp/titanium/",
+    "pass": 1
+   },
+   {
+    "quote": "チタンで作ると、安心な品物になる",
+    "url": "https://natori-mnf.co.jp/titanium/",
+    "pass": 1
+   },
+   {
+    "quote": "2. チタンは錆びない",
+    "url": "https://natori-mnf.co.jp/titanium/",
+    "pass": 1
+   },
+   {
+    "quote": "チタンで作れば、メンテナンスフリー",
+    "url": "https://natori-mnf.co.jp/titanium/",
+    "pass": 1
+   },
+   {
+    "quote": "3. チタンは環境に優しい",
+    "url": "https://natori-mnf.co.jp/titanium/",
+    "pass": 1
+   },
+   {
+    "quote": "4. チタンは軽い",
+    "url": "https://natori-mnf.co.jp/titanium/",
+    "pass": 1
+   },
+   {
+    "quote": "5. チタンは強い",
+    "url": "https://natori-mnf.co.jp/titanium/",
+    "pass": 1
+   },
+   {
+    "quote": "チタンで作れると、小さく、軽く、薄くできる",
+    "url": "https://natori-mnf.co.jp/titanium/",
+    "pass": 1
+   },
+   {
+    "quote": "6.チタンは美しい",
+    "url": "https://natori-mnf.co.jp/titanium/",
+    "pass": 1
+   },
+   {
+    "quote": "7. チタンは冷たくない",
+    "url": "https://natori-mnf.co.jp/titanium/",
+    "pass": 1
+   },
+   {
+    "quote": "チタンプレス加工・硬鋼線プレス加工や金型・治工具の製作も得意としている名取製作所は、自動車、医療、マザーマシン等の部品加工や自動車、建築金物の金型製作を行っております",
+    "url": "https://mono.ipros.com/company/detail/340742/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "名取製作所の製品実績は、大きく分けて 量産品 と 試作・開発品 になります",
+    "url": "https://natori-mnf.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "量産と試作では全く違うように思いがちですが、名取製作所は「本質は同じ」と考えています",
+    "url": "https://natori-mnf.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "小ロット多品種…様々なニーズに対応可能な体制があります",
+    "url": "https://natori-mnf.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "名取製作所では、試作で精確な製品を作り出したあと、生産ラインを構築し、プレス機と多関節ロボットでひねり・ねじり加工品を生産いたします",
+    "url": "https://natori-mnf.co.jp/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "試作から量産まで｜加工技術 - 株式会社 名取製作所",
+    "url": "https://natori-mnf.co.jp/production/",
+    "pass": 1
+   },
+   {
+    "quote": "製造ではサーボプレスやロボット、専用機を使いQCD向上に努めており、量産・試作（金型を起こさない製作）も行っております",
+    "url": "https://mono.ipros.com/company/detail/340742/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "コラム 現場の課題を解決する治具、共同開発の裏側",
+    "url": "https://natori-mnf.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「3次元曲げ加工」、「プレス金型」、「治具加工」、「外観仕上げ」と、高い加工技術による高品質の製品ご提供しています",
+    "url": "https://natori-mnf.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "また、長年の自動車部品受託生産で培った自動車の厳しい外観品質基準を適用した品質保証の仕組みを設定し、品質保証体制を整えております",
+    "url": "https://natori-mnf.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "プレス加工において、歩留まりは、適切な金型を設計し、精度の高い材料を選定するなどの対策を講じても、一定は発生してしまいます",
+    "url": "https://natori-mnf.co.jp/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "名取製作所の主力商品は、自動車部品である、ワイパーのアームピースです",
+    "url": "https://natori-mnf.co.jp/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "3次元曲げ加工と聞くと、多くはパイプ材での加工が多いですが、名取製作所では、硬鋼線等の難加工材でロボットラインでの加工が可能な技術、体制をとることができます",
+    "url": "https://natori-mnf.co.jp/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "名取製作所では、試作で精確な製品を作り出したあと、生産ラインを構築し、プレス機と多関節ロボットでひねり・ねじり加工品を生産いたします",
+    "url": "https://natori-mnf.co.jp/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "2. プレス金型",
+    "url": "https://natori-mnf.co.jp/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "名取製作所の製品の完成度が高い理由が、金型の精度が高い事にあります",
+    "url": "https://natori-mnf.co.jp/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "創業当時、金型の製作は外部に委託していましたが、金型製作の技術やノウハウを蓄積することによる改善のスピードアップを目指し、現在では社内にて金型を製作しています",
+    "url": "https://natori-mnf.co.jp/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "金型を自分達で作り、試すことで、プレス加工の本質を追求することができます",
+    "url": "https://natori-mnf.co.jp/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "抜き、曲げ、ねじりなどの金型の種類も、取り扱う材質や、デザインにより違うので、それぞれに適した金型を製作し、オリジナルなプレスのラインに組み込みます",
+    "url": "https://natori-mnf.co.jp/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "そして、金型構造も、そのプレスラインを最大に適合するよう設計され、社内で製作されます",
+    "url": "https://natori-mnf.co.jp/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "その際、作業性、安全性、品質、効率など、すべての要素が考慮し、その上で自社製作の金型を使うことで、名取製作所のプレス技術はまたひとつ蓄積されるのです",
+    "url": "https://natori-mnf.co.jp/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "3. 治具加工",
+    "url": "https://natori-mnf.co.jp/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車メーカーが外観に求める品質は非常に高く、その検査も厳しいことで知られています",
+    "url": "https://natori-mnf.co.jp/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社が製作している自動車外装部品のワイパーアームピースは、その厳しい検査を通過できる高い品質を持っています",
+    "url": "https://natori-mnf.co.jp/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "音叉のU字部分を金型を用いて熱をかけ曲げ加工している",
+    "url": "https://natori-mnf.co.jp/production/",
+    "pass": 1
+   },
+   {
+    "quote": "加工条件と金型の変更をご提案することで、比較的加工が難しいとされている冷間プレスによる加工を可能とし、お客様が持っていた課題を名取製作所の技術でクリアしました",
+    "url": "https://natori-mnf.co.jp/production/",
+    "pass": 1
+   },
+   {
+    "quote": "1. 金型の設計や製作、生産設備の企画検討、メンテナンス等を行います",
+    "url": "https://natori-mnf.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "プレス機を操作して金属の加工を行ったり、ロボットを使った省力化設備のオペレーション等を行います",
+    "url": "https://natori-mnf.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、航空機のエンジン部品や各種プラントなど、過酷な条件が求められる分野で不可欠な素材として重宝されています",
+    "url": "https://natori-mnf.co.jp/2026/10/400/",
+    "pass": 1
+   },
+   {
+    "quote": "加工の力が加わると、素材そのものが硬くなってしまう性質（加工硬化）が強いため、プレスなどの連続した加工が難しく、金型にも大きな負担がかかります",
+    "url": "https://natori-mnf.co.jp/2026/10/400/",
+    "pass": 1
+   },
+   {
+    "quote": "熱を逃がしにくい性質があるため、加工時に発生する熱が局所的に集中しやすく、工具や金型の寿命を縮めてしまいます",
+    "url": "https://natori-mnf.co.jp/2026/10/400/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の製品ごとに最適な治具を自社開発・考案することも可能です",
+    "url": "https://natori-mnf.co.jp/2026/10/383/",
+    "pass": 1
+   },
+   {
+    "quote": "コラム 現場の課題を解決する治具、共同開発の裏側",
+    "url": "https://natori-mnf.co.jp/2026/10/383/",
+    "pass": 1
+   },
+   {
+    "quote": "航空機、ロケットなどは、強さと軽さ、錆びにくさをもつチタンにはうってつけです",
+    "url": "https://natori-mnf.co.jp/titanium/",
+    "pass": 1
+   },
+   {
+    "quote": "チタンプレス加工・硬鋼線プレス加工や金型・治工具の製作も得意としている名取製作所は、自動車、医療、マザーマシン等の部品加工や自動車、建築金物の金型製作を行っております",
+    "url": "https://mono.ipros.com/company/detail/340742/",
+    "pass": 3
+   },
+   {
+    "quote": "金型・治工具ではCAD・CAMによる加工はもちろんのこと、設計ではCAEによる強度解析ができます",
+    "url": "https://mono.ipros.com/company/detail/340742/",
+    "pass": 3
+   },
+   {
+    "quote": "また、リバースエンジニアリングとして、図面の無い金型の修理や、読み込んだワークにデザインの追加なども行っております",
+    "url": "https://mono.ipros.com/company/detail/340742/",
+    "pass": 3
+   },
+   {
+    "quote": "製造ではサーボプレスやロボット、専用機を使いQCD向上に努めており、量産・試作（金型を起こさない製作）も行っております",
+    "url": "https://mono.ipros.com/company/detail/340742/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社名取製作所〜プレス金型設計・製作・加工〜",
+    "url": "https://mono.ipros.com/company/detail/340742/",
+    "pass": 3
+   },
+   {
+    "quote": "消耗した金型・部品の複製ならお任せ下さい！",
+    "url": "https://mono.ipros.com/company/detail/340742/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "3D CAD / CAM",
+    "url": "https://natori-mnf.co.jp/production/",
+    "pass": 1
+   },
+   {
+    "quote": "金型・治工具ではCAD・CAMによる加工はもちろんのこと、設計ではCAEによる強度解析ができます",
+    "url": "https://mono.ipros.com/company/detail/340742/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "ご応募の前に職場見学を希望される方はお問い合わせフォームからご連絡ください",
+    "url": "https://natori-mnf.co.jp/recruit/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社 名取製作所 久喜工場 - イプロス — 株式会社 名取製作所 久喜工場 - イプロス 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/340742/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社名取製作所 久喜工場 - イプロス — 株式 会社名取製作所 久喜工場 - イプロス 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/340742/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://natori-mnf.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://natori-mnf.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://natori-mnf.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://natori-mnf.co.jp/manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://natori-mnf.co.jp/production/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://natori-mnf.co.jp/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://natori-mnf.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://natori-mnf.co.jp/2026/10/400/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://natori-mnf.co.jp/2026/10/383/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://natori-mnf.co.jp/titanium/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://natori-mnf.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/340742/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp265886/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://natori-mnf.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/340742/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://job.mynavi.jp/27/pc/search/corp265886/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://natori-mnf.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/340742/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kk-natori.co.jp/contact/index.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "名取製作所 久喜工場 取扱製品 試作 小ロット",
+   "results": [
+    "https://natori-mnf.co.jp/",
+    "https://mono.ipros.com/company/detail/340742/",
+    "https://job.mynavi.jp/27/pc/search/corp265886/outline.html",
+    "https://natori-mnf.co.jp/production/",
+    "https://www.kk-natori.co.jp/",
+    "https://kanto-meti-gov.note.jp/n/nad6173af8dce",
+    "https://iot.iri-tokyo.jp/result/natori.html",
+    "https://s-search.jp/r_company.php?id=531961",
+    "https://ja.nc-net.or.jp/company/84567/",
+    "https://natori-mnf.conohawing.com/index.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "名取製作所 久喜工場 会社概要 事業内容",
+   "results": [
+    "https://natori-mnf.co.jp/about/",
+    "https://mono.ipros.com/company/detail/340742/",
+    "https://job.mynavi.jp/27/pc/search/corp265886/outline.html",
+    "https://natori-mnf.co.jp/",
+    "https://www.kk-natori.co.jp/company/gaiyou/index.html",
+    "https://compalyze.co.jp/company/4030001041524",
+    "https://baseconnect.in/branch_offices/17cdde4f-914d-4c56-b475-e537c3182863",
+    "https://ja.nc-net.or.jp/company/84567/",
+    "https://kanto-meti-gov.note.jp/n/nad6173af8dce",
+    "https://www.kk-natori.co.jp/company/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "名取製作所 久喜工場 お問い合わせ メール",
+   "results": [
+    "https://natori-mnf.co.jp/contact/",
+    "https://mono.ipros.com/company/detail/340742/",
+    "https://www.kk-natori.co.jp/contact/index.html",
+    "https://natori-mnf.co.jp/about/",
+    "https://www.e-monotsukuri.com/%E6%A0%AA%E5%90%8D%E5%8F%96%E8%A3%BD%E4%BD%9C%E6%89%80/",
+    "https://compalyze.co.jp/company/4030001041524",
+    "https://job.mynavi.jp/27/pc/search/corp265886/outline.html",
+    "https://ja.nc-net.or.jp/company/84567/",
+    "https://s-search.jp/r_company.php?id=531961",
+    "http://www.natori-ss.co.jp/contact.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 名取製作所 久喜工場",
+   "results": [
+    "https://note.com/natoriki",
+    "https://note.com/nichuspecial2020/n/n0ba8bd3906d7",
+    "https://note.com/nichuspecial2020/n/nc096dca04ea8",
+    "https://note.com/nimo505/n/na3a1415e423c",
+    "https://note.com/565_mitti/n/na78140264ad9",
+    "https://note.com/hirokazu66/n/n272611a6d922",
+    "https://note.com/tomoyasuworks/n/nef96f3f6ca4e"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 名取製作所 久喜工場",
+   "results": [
+    "https://x.com/meti_Kanto/status/1872524502493753832",
+    "https://x.com/OkabearOfficial/status/2047153315671330985",
+    "https://x.com/sana_natori/status/2101701517904662705",
+    "https://x.com/film_TFC/status/2063601756391813295",
+    "https://x.com/jocelynseip/status/2118260591680983528",
+    "https://x.com/sana_natori/status/2027038247826931856",
+    "https://x.com/bisai_matsuura"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 名取製作所 久喜工場",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com 名取製作所 久喜工場",
+   "results": [
+    "https://www.facebook.com/株式会社名取製作所-148724338670007/",
+    "https://www.facebook.com/sasakeishop/",
+    "https://secure.facebook.com/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/kyoceraindustrialtools/videos/マンホール蓋製造工場に潜入lシリーズ本音レビュー今回は関東最大規模のマンホール蓋製造工場長島鋳物株式会社さんの久喜工場に伺いました街の安全を守るマンホール蓋は鉄/1458010998565413/",
+    "https://www.facebook.com/City.Kuki/posts/市長のくきぶら訪問市内で活躍する企業等を訪問する市長のくきぶら訪問今回はマンホールの鉄蓋をはじめ公共事業に属性がある品物を中心に製造している日本鋳鉄管久喜工場で/4987127531407400/",
+    "https://www.facebook.com/100083328003175/posts/株式会社キョクサンの宮城工場に24時間持ち込み可能の古着回収スポットが設置されました場所は名取震災メモリアル公園のすぐ横でみどり色のスーパーハウスと古着回収中の/868411295946463/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "名取製作所 久喜工場 note 社長",
+   "results": [
+    "https://kanto-meti-gov.note.jp/n/nad6173af8dce",
+    "https://natori-mnf.co.jp/",
+    "https://mono.ipros.com/company/detail/340742/",
+    "https://job.mynavi.jp/27/pc/search/corp265886/outline.html",
+    "https://www.kk-natori.co.jp/company/gaiyou/index.html",
+    "https://ja.nc-net.or.jp/company/84567/",
+    "https://iot.iri-tokyo.jp/result/natori.html",
+    "https://natori-mnf.co.jp/about/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "名取製作所 久喜工場 X 投稿",
+   "results": [
+    "https://natori-mnf.co.jp/",
+    "https://mono.ipros.com/company/detail/340742/",
+    "https://kanto-meti-gov.note.jp/n/nad6173af8dce",
+    "https://job.mynavi.jp/27/pc/search/corp265886/outline.html",
+    "https://www.kk-natori.co.jp/",
+    "https://natori-mnf.co.jp/about/",
+    "https://iot.iri-tokyo.jp/result/natori.html",
+    "https://ja.nc-net.or.jp/company/84567/",
+    "https://teambeyond.metro.tokyo.lg.jp/enterprise/voice/voice_0071/",
+    "https://www.kk-natori.co.jp/company/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部9頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部9頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式10頁／PDF・画像0件／外部9頁・検索9回）"
+ }
+}

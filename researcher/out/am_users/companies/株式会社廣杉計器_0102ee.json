@@ -1,0 +1,971 @@
+{
+ "name": "株式会社廣杉計器",
+ "aliases": [],
+ "context": "ipros_all:小ロット",
+ "researched_at": "2026-11-11T13:03:46.337260+00:00",
+ "official_url": "https://hirosugi.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表取締役",
+    "value": "佐々木　和子",
+    "url": "https://hirosugi.co.jp/shop/pages/company",
+    "pass": 1
+   },
+   {
+    "label": "代表者名",
+    "value": "代表取締役　佐々木 和子",
+    "url": "https://www.atengineer.com/pr/hirosugi/company",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "電子機器及び電子部品の製造・販売 機構部品の製造・販売",
+    "url": "https://hirosugi.co.jp/shop/pages/company",
+    "pass": 1
+   },
+   {
+    "label": "国内事業",
+    "value": "エンタープライズ事業",
+    "url": "https://www.monotaro.com/s/b-5013/",
+    "pass": 3
+   },
+   {
+    "label": "海外事業子会社",
+    "value": "NAVIMRO（Korea/韓国）",
+    "url": "https://www.monotaro.com/s/b-5013/",
+    "pass": 3
+   },
+   {
+    "label": "その他事業子会社",
+    "value": "MONOTARO TECHNOLOGIES INDIA PRIVATE LIMITED",
+    "url": "https://www.monotaro.com/s/b-5013/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "〒216-0035　神奈川県川崎市宮前区馬絹6-1-28",
+    "url": "https://hirosugi.co.jp/shop/pages/company",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒216-0035 神奈川県川崎市宮前区馬絹2038-1",
+    "url": "https://www.monotaro.com/s/b-5013/",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "〒216-0035 神奈川県神奈川県川崎市宮前区馬絹6-1-28",
+    "url": "https://www.atengineer.com/pr/hirosugi/company",
+    "pass": 3
+   }
+  ],
+  "拠点": [
+   {
+    "label": "海外拠点",
+    "value": "杉广商貿(大連)有限公司 Hirosugi-Keiki (Dalian) Co.,Ltd.",
+    "url": "https://hirosugi.co.jp/shop/pages/company",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "45名(2026年6月時点)",
+    "url": "https://hirosugi.co.jp/shop/pages/company",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "取引先",
+    "value": "取引先企業32,000社 国内取扱商社6,000社、国内取扱メーカー16,000社、海外商社5社",
+    "url": "https://hirosugi.co.jp/shop/pages/company",
+    "pass": 1
+   },
+   {
+    "label": "仕入先募集",
+    "value": "取引希望の方はこちら",
+    "url": "https://www.monotaro.com/s/b-5013/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "製品分野": [
+   {
+    "quote": "【協賛情報】かわさきロボット競技大会協賛のお知らせ",
+    "url": "https://hirosugi.co.jp/shop/",
+    "pass": 1
+   },
+   {
+    "quote": "電子部品、コンピュータ、基板取付品、産業機器、機械、精密機器、理化学装置、ロボット、家電、医療機器など",
+    "url": "https://hirosugi.co.jp/shop/pages/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社廣杉計器は、プリント基板の取付けからロボットの機構部品まで、世界のものづくりを支えるスペーサー総合メーカーです",
+    "url": "https://www.monotaro.com/s/b-5013/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "商品に関するお問い合わせなど、お気軽にご連絡ください",
+    "url": "https://hirosugi.co.jp/shop/",
+    "pass": 1
+   },
+   {
+    "quote": "図面などと合わせてお問い合わせをお待ちしております",
+    "url": "https://www.atengineer.com/pr/hirosugi/company",
+    "pass": 3
+   },
+   {
+    "quote": "＠engineerにログインしておくと、あなた様のご連絡先は自動的に表示され、お問い合わせ時に便利です",
+    "url": "https://www.atengineer.com/pr/hirosugi/inquiry",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 廣杉計器へお問い合わせ - LEDのポータルサイト - LEDLED",
+    "url": "https://www.densetsu-i.com/member_inquiry/form/hirosugi/",
+    "pass": 3
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "製品ラインナップを10万規格に拡充",
+    "url": "https://hirosugi.co.jp/shop/pages/company",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、商品の販売を通してお客様の要望に適合する品質の製品をタイムリーに提供します",
+    "url": "https://hirosugi.co.jp/shop/pages/company",
+    "pass": 1
+   },
+   {
+    "quote": "今では製品ラインアップは全11万アイテム以上",
+    "url": "https://hirosugi.co.jp/shop/pages/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "11万アイテム以上の製品ラインアップに豊富な自社在庫、迅速な出荷体制、各種書類発行などワンストップでの部品供給により",
+    "url": "https://hirosugi.co.jp/shop/pages/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "「製品」「品質」「納期」「コスト」――すべてにおいて安定した体制を確立",
+    "url": "https://hirosugi.co.jp/shop/pages/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "豊富な製品ラインアップと分かりやすくお求めになりやすい製品価格、",
+    "url": "https://hirosugi.co.jp/shop/pages/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は、環境負荷規制やRoHS指令に対応した製品開発に積極的に取り組んでおります",
+    "url": "https://hirosugi.co.jp/shop/pages/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "一部製品（材料）は外部分析機関に委託し、信頼性の高いエビデンスを基にRoHS対応調査を実施しています",
+    "url": "https://hirosugi.co.jp/shop/pages/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "新商品2,000アイテム追加で、ますます充実したラインナップ",
+    "url": "https://hirosugi.co.jp/shop/pages/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "2.フルカラー製品写真で見やすいレイアウト！",
+    "url": "https://hirosugi.co.jp/shop/pages/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "製品は巻頭の目次/製品一覧から探すのが簡単です",
+    "url": "https://hirosugi.co.jp/shop/pages/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報が分かりやすいページ構成で、素早く目的の商品を見つけられます",
+    "url": "https://hirosugi.co.jp/shop/pages/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "3.全製品単価込みのカタログ！",
+    "url": "https://hirosugi.co.jp/shop/pages/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂の耐薬品性一覧表など、製品の特性を把握するのに役立つ情報が満載",
+    "url": "https://hirosugi.co.jp/shop/pages/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "スペーサー・ワッシャー等 基板用部品＆機構部品の製品資料｜廣杉計器",
+    "url": "https://hirosugi.co.jp/shop/pages/technical",
+    "pass": 1
+   },
+   {
+    "quote": "メカニカル＆エレクトロニクスパーツ 全118,000品以上取扱い！ 製品サンプル＆カタログ請求受付中",
+    "url": "https://www.atengineer.com/pr/hirosugi/document_box",
+    "pass": 3
+   },
+   {
+    "quote": "【カタログ無料請求で】30種類の製品サンプルプレゼント",
+    "url": "https://www.atengineer.com/pr/hirosugi/document_box",
+    "pass": 3
+   },
+   {
+    "quote": "カタログ（製品一覧、新商品、インフォメーション） (2026総合_全ページ.pdf)",
+    "url": "https://www.atengineer.com/pr/hirosugi/document_box",
+    "pass": 3
+   },
+   {
+    "quote": "製品情報(45)",
+    "url": "https://www.atengineer.com/pr/hirosugi/document_box",
+    "pass": 3
+   },
+   {
+    "quote": "2026年新製品情報(4)",
+    "url": "https://www.atengineer.com/pr/hirosugi/document_box",
+    "pass": 3
+   },
+   {
+    "quote": "高品質な製品をお届けする為、自社内に検査設備を完備",
+    "url": "https://www.monotaro.com/s/b-5013/",
+    "pass": 3
+   },
+   {
+    "quote": "メカニカル＆エレクトロニクスパーツ 全118,000品以上取扱い！ 製品サンプル＆カタログ請求受付中",
+    "url": "https://www.atengineer.com/pr/hirosugi/company",
+    "pass": 3
+   },
+   {
+    "quote": "当社の幅広い製品は、多様な用途にマッチする多彩なラインナップを誇っており、その多機能性と高い品質、短納期、低コストの製品を提供は幅広い産業のお客様に高い評価を頂いております",
+    "url": "https://www.atengineer.com/pr/hirosugi/company",
+    "pass": 3
+   },
+   {
+    "quote": "製品開発から設計、調達、技術サポートまで、製品提供を通してワンストップで弊社がサポートいたします",
+    "url": "https://www.atengineer.com/pr/hirosugi/company",
+    "pass": 3
+   },
+   {
+    "quote": "当社は多様なニーズに合わせた製品を提供し、サイズ調整可能な規格製品を備えています",
+    "url": "https://www.atengineer.com/pr/hirosugi/company",
+    "pass": 3
+   },
+   {
+    "quote": "特注品の製作も可能で、お客様の要望に合わせた製品を提供します",
+    "url": "https://www.atengineer.com/pr/hirosugi/company",
+    "pass": 3
+   },
+   {
+    "quote": "当社の製品は、多様な用途にマッチする多彩な製品ラインナップを誇っており、その多機能性と高品質は、幅広い産業で高く評価されています",
+    "url": "https://www.atengineer.com/pr/hirosugi/company",
+    "pass": 3
+   },
+   {
+    "quote": "製品の幅広い適用性は、プロジェクトごとに最適なソリューションを見つける際に貴重な選択肢となります",
+    "url": "https://www.atengineer.com/pr/hirosugi/company",
+    "pass": 3
+   },
+   {
+    "quote": "当社は全製品の自社在庫を充実させ、",
+    "url": "https://www.atengineer.com/pr/hirosugi/company",
+    "pass": 3
+   },
+   {
+    "quote": "製品ラインナップを10万規格に拡充",
+    "url": "https://www.atengineer.com/pr/hirosugi/company",
+    "pass": 3
+   },
+   {
+    "quote": "製品情報(45)",
+    "url": "https://www.atengineer.com/pr/hirosugi/company",
+    "pass": 3
+   },
+   {
+    "quote": "2026年新製品情報(4)",
+    "url": "https://www.atengineer.com/pr/hirosugi/company",
+    "pass": 3
+   },
+   {
+    "quote": "メカニカル＆エレクトロニクスパーツ 全118,000品以上取扱い！ 製品サンプル＆カタログ請求受付中",
+    "url": "https://www.atengineer.com/pr/hirosugi/inquiry",
+    "pass": 3
+   },
+   {
+    "quote": "製品情報(45)",
+    "url": "https://www.atengineer.com/pr/hirosugi/inquiry",
+    "pass": 3
+   },
+   {
+    "quote": "2026年新製品情報(4)",
+    "url": "https://www.atengineer.com/pr/hirosugi/inquiry",
+    "pass": 3
+   },
+   {
+    "quote": "例えばですが、M3の52ｍｍのスペーサが欲しくてもラインナップが50飛んで55なので、そういう時は50+2をねじ1本で通したり、40+12のイモネジ連結したりするなどで対応できます",
+    "url": "https://note.com/tonchan_kwsk/n/neede508e25ba",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "様々な材質・形状・用途のニーズに対応できる",
+    "url": "https://hirosugi.co.jp/shop/pages/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "金属・樹脂・ゴム・セラミックスなど多彩な材質と形状、ミリ単位のサイズ展開",
+    "url": "https://hirosugi.co.jp/shop/pages/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂の耐薬品性一覧表など、製品の特性を把握するのに役立つ情報が満載",
+    "url": "https://hirosugi.co.jp/shop/pages/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂ネジ 六角ナット(ポリカーボネート) PCNT-00",
+    "url": "https://www.monotaro.com/s/b-5013/",
+    "pass": 3
+   },
+   {
+    "quote": "PBT4830：FSS-41057・ナイロン ：FSS-41035，FSS-41085(樹脂部)、リン青銅：FSS-41035，FSS-41057・黄 銅：FSS-41085(コンタクト)",
+    "url": "https://www.monotaro.com/s/b-5013/",
+    "pass": 3
+   },
+   {
+    "quote": "208(PBT4830：1.82Mpa)・290(ナイロン ：1.80MPa) (樹脂部)",
+    "url": "https://www.monotaro.com/s/b-5013/",
+    "pass": 3
+   },
+   {
+    "quote": "UL94V-0(材料) (樹脂部)",
+    "url": "https://www.monotaro.com/s/b-5013/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂ネジ (+)ナベ小ねじ(ポリカーボネート) PC-0000",
+    "url": "https://www.monotaro.com/s/b-5013/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂ネジ 六角穴付ボルト(ポリカーボネート) PCC-0000",
+    "url": "https://www.monotaro.com/s/b-5013/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂ネジ ブッシュリベット NP-0000",
+    "url": "https://www.monotaro.com/s/b-5013/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂ネジ(ピーク六角穴付ボルト) PEC-0000 六角穴付ボルト",
+    "url": "https://www.monotaro.com/s/b-5013/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂ネジ(ナイロン小ネジ) N-0000ナベ小ネジ",
+    "url": "https://www.monotaro.com/s/b-5013/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂ネジ (+)皿小ねじ(ポリカーボネート) PCF-0000",
+    "url": "https://www.monotaro.com/s/b-5013/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂ネジ(ナイロン ナット) NNT-00ナット(2種)",
+    "url": "https://www.monotaro.com/s/b-5013/",
+    "pass": 3
+   },
+   {
+    "quote": "他社にはない材質、サイズ、形状の多彩な選択肢を低コストで提供",
+    "url": "https://www.atengineer.com/pr/hirosugi/company",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂（ポリカ、POM）",
+    "url": "https://note.com/tonchan_kwsk/n/neede508e25ba",
+    "pass": 3
+   },
+   {
+    "quote": "カーボン（CFRP）、ガラエポ（FRP）",
+    "url": "https://note.com/tonchan_kwsk/n/neede508e25ba",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "最小ロット50個以上であれば、端数注文もOK（例：64個、1024個）",
+    "url": "https://hirosugi.co.jp/shop/pages/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "最小ロット50個から購入可能で",
+    "url": "https://hirosugi.co.jp/shop/pages/aboutus",
+    "pass": 1
+   },
+   {
+    "quote": "特注品の製作も可能で、お客様の要望に合わせた製品を提供します",
+    "url": "https://www.atengineer.com/pr/hirosugi/company",
+    "pass": 3
+   },
+   {
+    "quote": "最小ロット50個以上からの注文に対応",
+    "url": "https://www.atengineer.com/pr/hirosugi/company",
+    "pass": 3
+   },
+   {
+    "quote": "オーダーメイドのバッテリーの製作依頼はここに頼んでいます",
+    "url": "https://note.com/tonchan_kwsk/n/neede508e25ba",
+    "pass": 3
+   },
+   {
+    "quote": "でシールドの基板やっつけてたりしながら試作基板を作ってソフト担当に渡してたりしたのだが、組付け時に何だこりゃ",
+    "url": "https://note.com/hrs885/n/n4ffdc652102a",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "スペーサー・ワッシャー・ピンヘッダーの総合メーカー【廣杉計器】 — ㈱廣杉計器では、スペーサー・ピンヘッダー・ワッシャーなど基板用部品や機構部品を数多く取り揃えております。 お客様に満足していただけるように多品種・小ロット・短納期でサポート。 15時迄のご注文で当日出荷可。 2000円以上のご注文で送料無料。",
+    "url": "https://hirosugi.co.jp/shop/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社廣杉計器 - 資料ボックス — スペーサー・ワッシャー・ピンヘッダー・インサートナットなど、基板取付部品や機構部品の製造・販売を行っています。 高品質・低価格・多品種・小ロット・即納体制で製品をお届けします。 製品は1個数十円より最小ロ",
+    "url": "https://www.atengineer.com/pr/hirosugi/document_box",
+    "pass": 3
+   },
+   {
+    "quote": "廣杉計器 【通販モノタロウ】 最短即日出荷廣杉計器製品の選定・通販 | MISUMI (ミスミ)無料サンプル - 廣杉計器 | Apérza（アペルザ） | ものづくり産業向け...全10万点以上の基板用部品取扱い | (株)廣杉計器 | ECN | トランジス... — 廣杉計器のすべての商品 廣杉計器 株式会社廣杉計器は、プリント基板の取付けからロボットの機構部品まで、世界のものづくりを支えるスペーサー総合メーカーです。 高品質な製品をお届けする為、自社内に検査設備を完備。 廣杉計器の選定・通販ページ。 ミスミ他、国内外3,324メーカー、2,070万点以上の商品を1個から配送。 豊富なCADデータ提供。 廣杉計器を始め、FA・金型部品、工具・工場消耗品の通販ならMISUMI。 無料サンプルの製品概要 製品を手にとって確かめたいといった要望にご対応いたします！ 廣杉計器では、「購入前に",
+    "url": "https://www.monotaro.com/s/b-5013/",
+    "pass": 3
+   },
+   {
+    "quote": "廣杉計器製品の選定・通販 | MISUMI (ミスミ) — 廣杉計器の選定・通販ページ。 ミスミ他、国内外3,324メーカー、2,070万点以上の商品を1個から配送。 豊富なCADデータ提供。 廣杉計器を始め、FA・金型部品、工具・工場消耗品の通販ならMISUMI。",
+    "url": "https://jp.misumi-ec.com/vona2/maker/hirosugikeiki/",
+    "pass": 3
+   },
+   {
+    "quote": "無料サンプル - 廣杉計器 | Apérza（アペルザ） | ものづくり産業向け... — 無料サンプルの製品概要 製品を手にとって確かめたいといった要望にご対応いたします！ 廣杉計器では、「購入前に実際の製品を見てみたい」といった要望に応え、製品のサンプル提供を行っている。",
+    "url": "https://www.aperza.com/ja/d/s/Hirosugi-Keiki/172905.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報｜廣杉計器 - hirosugi.co.jp — 廣杉計器では、スペーサー・ピンヘッダー・ワッシャーなど基板用部品や機構部品を数多く取り揃えております。 お客様に満足していただけるように多品種・小ロット・短納期でサポート。 15時迄のご注文で当日出荷可",
+    "url": "https://hirosugi.co.jp/shop/pages/company",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社廣杉計器 - 会社概要会社概要 | 廣杉精機企業情報 | 廣杉計器 - Powered by イプロスものづくり廣杉計器 | 企業情報 | イプロスものづくり廣杉計器 - shintoku.info株式会社廣杉計器 - 製造業界の会社の企業情報 | Baseconnect — 廣杉計器10個の特徴 118,000点以上の規格部品で多彩な選択肢を提供 プロジェクトの開発と設計を効率的に合理化を実現します。 当社は国内最大級のスペーサーラインアップ 他社にはない材質、サイズ、形状の多彩な選択肢を低コストで提供。 送料無料 精密部品のプロフェッショナル廣杉精機。会社概要。 私たち廣杉計器はスペーサー・端子・ワッシャー・ブッシュ・ネジ等を扱うメカニカル&エレクトロニクスパーツの総合メーカーです 当社の幅広い製品は、多様な用途にマッチする多彩なラインナップを誇っており、多機能性と高い品質、短",
+    "url": "https://www.atengineer.com/pr/hirosugi/company",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 廣杉精機企業情報 | 廣杉計器 - Powered by イプロスものづくり廣杉計器 | 企業情報 | イプロスものづくり廣杉計器 - shintoku.info株式会社廣杉計器 - 製造業界の会社の企業情報 | Baseconnect — 精密部品のプロフェッショナル廣杉精機。会社概要。 私たち廣杉計器はスペーサー・端子・ワッシャー・ブッシュ・ネジ等を扱うメカニカル&エレクトロニクスパーツの総合メーカーです 当社の幅広い製品は、多様な用途にマッチする多彩なラインナップを誇っており、多機能性と高い品質、短納期、低コスト ... 私たち廣杉計器はスペーサー・端子・ワッシャー・ブッシュ・ネジ等を扱うメカニカル&エレクトロニクスパーツの総合メーカーです 当社の幅広い製品は、多様な用途にマッチする多彩なラインナップを誇っており、多機能性と高い品質、短納期、低コスト ... 特に、松阪",
+    "url": "http://www.hirosugi.com/about/introduce.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 | 廣杉計器 - Powered by イプロスものづくり — 私たち廣杉計器はスペーサー・端子・ワッシャー・ブッシュ・ネジ等を扱うメカニカル&エレクトロニクスパーツの総合メーカーです 当社の幅広い製品は、多様な用途にマッチする多彩なラインナップを誇っており、多機能性と高い品質、短納期、低コスト ...",
+    "url": "https://pr.mono.ipros.com/hirosugi/information/",
+    "pass": 3
+   },
+   {
+    "quote": "廣杉計器 | 企業情報 | イプロスものづくり廣杉計器 - shintoku.info株式会社廣杉計器 - 製造業界の会社の企業情報 | Baseconnect — 私たち廣杉計器はスペーサー・端子・ワッシャー・ブッシュ・ネジ等を扱うメカニカル&エレクトロニクスパーツの総合メーカーです 当社の幅広い製品は、多様な用途にマッチする多彩なラインナップを誇っており、多機能性と高い品質、短納期、低コスト ... 特に、松阪精器やタカギ部品といった企業が同業他社として挙げられます。 これらの競合他社も、廣杉計器同様に幅広い製品ラインアップを提供していますが、以下の点で廣杉計器が優位性を持っていると評価されています。 製造業界の会社 金属部品製造業界の会社 サブ業界 化学業界の会社 樹脂製部品 (プラスチック製部品など)製造業界の会社 自動車・乗り物業界の会社 ゴム製品・タイヤ製造業界の会社",
+    "url": "https://mono.ipros.com/company/detail/7146/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ窓口｜廣杉計器 — 廣杉計器では、スペーサー・ピンヘッダー・ワッシャーなど基板用部品や機構部品を数多く取り揃えております。 お客様に満足していただけるように多品種・小ロット・短納期でサポート。 15時迄のご注文で当日出荷可",
+    "url": "https://hirosugi.co.jp/shop/pages/form-support",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社廣杉計器 - お問い合わせ — 最新版の製品総合カタログ（無料）のご請求や、無料サンプルのお申し込みなどお気軽にご相談ください。 製品に関するお問い合わせや「こんな製品ない？ 」などのご質問もこちらからお問い合わせください。",
+    "url": "https://www.atengineer.com/pr/hirosugi/inquiry",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 廣杉計器へお問い合わせ - LEDのポータルサイト - LEDLED — 株式会社 廣杉計器へお問い合わせ メールにてお問い合わせを受け付けます。 必要事項を記入し、各項目の入力が終わりましたら「確認画面へ」ボタンをクリックしてください。 ※お問い合わせとは異なった趣旨のメールはお控え下さい。",
+    "url": "https://www.densetsu-i.com/member_inquiry/form/hirosugi/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 廣杉計器へお問い合わせ - LEDのポータルサイト - LEDLED — 株式会社 廣杉計器へお問い合わせ メールにてお問い合わせを受け付けます。 必要事項を記入し、各項目の入力が終わりましたら「確認画面へ」ボタンをクリックしてください。",
+    "url": "https://www.densetsu-i.com/member_inquiry/conf/hirosugi/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "購入先一覧｜トンチャン - note（ノート） Nov 10, 2023 · ヒロスギネット [ヒロスギネット] スペーサー・ピンヘッダー・ワッシャーなどの基板取付部品や機構部品の通販サイト 金属スペーサー スペーサーの総合メーカー「廣杉計器」の基板取付部品や機構部品の販売サイトです。 www.hirosugi-net.co.jp",
+    "url": "https://note.com/tonchan_kwsk/n/neede508e25ba",
+    "pass": 3
+   },
+   {
+    "quote": "穴位置｜ひろし - note（ノート） Dec 23, 2024 · とりあえず現状は廣杉計器の WN-14P で固定した。 もともとのスタッキングコネクタが固いので機能的には抜け方向の力が防止できれば良いのだがこれはこれで嵌りが固すぎて何らかのトラブルでボード交換したくなった時に面倒そうだ。",
+    "url": "https://note.com/hrs885/n/n4ffdc652102a",
+    "pass": 3
+   },
+   {
+    "quote": "PUNKWORKSHOPの白軸（V1）のボタンを買った雑感とカスタマイズの話｜... May 21, 2024 · レバーレスを使う人にはおすすめできます。 SIW-0522-10G: ワッシャー｜ヒロスギネット｜スペーサー・ピンヘッダー・ワッシャー通販 SIW-0522-10G スペーサーの総合メーカー「廣杉計器」の基板取付部品や機構部品の販売サイトです。 www.hirosugi-net.co.jp",
+    "url": "https://note.com/yuyushiki/n/n1e2c50dc76ec",
+    "pass": 3
+   },
+   {
+    "quote": "Victrix PRO KO Customization Memo Part 3: Switch ... 金属スペーサー/丸型中空/黄銅スペーサー（パイプ,脱脂）/M2｜ヒロスギネット｜スペーサー・ピンヘッダー・ワッシャー通販 M2 スペーサーの総合メーカー「廣杉計器」の基板取付部品や機構部品の販売サイトです。 www.hirosugi-net.co.jp",
+    "url": "https://note.com/kosakaaaaa/n/nba3c23a283ce?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "かわロボを作るうえでの工具や材料などの購入先をメモっとこうと思います",
+    "url": "https://note.com/tonchan_kwsk/n/neede508e25ba",
+    "pass": 3
+   },
+   {
+    "quote": "個人では購入が難しく、団体（学校など）で購入する必要があります",
+    "url": "https://note.com/tonchan_kwsk/n/neede508e25ba",
+    "pass": 3
+   },
+   {
+    "quote": "フリマアプリ「メルカリ」でmaro@プロフィール欄要確認さんが販売中 https://jp.mercari.com/user/profile/370460555?utm_source=android&utm_medium=share",
+    "url": "https://note.com/tonchan_kwsk/n/neede508e25ba",
+    "pass": 3
+   },
+   {
+    "quote": "最近なかなかベアリングの安くて安定しているところがないのでフェンスカーの知り合いのところで購入しています",
+    "url": "https://note.com/tonchan_kwsk/n/neede508e25ba",
+    "pass": 3
+   },
+   {
+    "quote": "ちゃんと防湿庫で保管されているらしく、質が良くて手頃な価格で手にはいります",
+    "url": "https://note.com/tonchan_kwsk/n/neede508e25ba",
+    "pass": 3
+   },
+   {
+    "quote": "適当な商品のコメント欄に必要なベアリングの寸法(型番)と個数を書いて問い合わせてみて下さい",
+    "url": "https://note.com/tonchan_kwsk/n/neede508e25ba",
+    "pass": 3
+   },
+   {
+    "quote": "※フランジ付きベアリングはまだ取り扱いがないみたいですが、問い合わせが多いらしく検討中みたいです",
+    "url": "https://note.com/tonchan_kwsk/n/neede508e25ba",
+    "pass": 3
+   },
+   {
+    "quote": "最近気づいたのですが、意外と種類豊富で低価格です",
+    "url": "https://note.com/tonchan_kwsk/n/neede508e25ba",
+    "pass": 3
+   },
+   {
+    "quote": "仕事でCAN通信と7セグ6桁とDI（スイッチの押下をとる）だけ必要な基板が必要になったのだが、工数と予算がないためArduinoを使って解決することにした。UNO R4であればCANコントローラは載っているのでトランシーバをシールド側に載せればOK。",
+    "url": "https://note.com/hrs885/n/n4ffdc652102a",
+    "pass": 3
+   },
+   {
+    "quote": "7セグはI2C接続のコントローラICで解決することにした。",
+    "url": "https://note.com/hrs885/n/n4ffdc652102a",
+    "pass": 3
+   },
+   {
+    "quote": "でシールドの基板やっつけてたりしながら試作基板を作ってソフト担当に渡してたりしたのだが、組付け時に何だこりゃ。（ブツ見ながらうすうすは気づいていたが）",
+    "url": "https://note.com/hrs885/n/n4ffdc652102a",
+    "pass": 3
+   },
+   {
+    "quote": "左上のPB1（リセットボタン）の右側。NPTH（いわゆるバカ穴）なのだが、すぐ横にJDIGITALのスタッキングコネクタのソケットがある。実物見ながら、「この穴使えなさそうだよな。」と思っていたのだが組立てたら（シールドとUNO R4基板間に支柱立ててた。）予想通り使えない。",
+    "url": "https://note.com/hrs885/n/n4ffdc652102a",
+    "pass": 3
+   },
+   {
+    "quote": "基板設計した人は何を考えてこの位置に穴をあけたんだろうか。",
+    "url": "https://note.com/hrs885/n/n4ffdc652102a",
+    "pass": 3
+   },
+   {
+    "quote": "組立に関して事前検討時間がなかったのであるものでどうにかする方針で秋月で買ったプラビス・支柱で組んだのだけど他の３穴と違ってここだけはどうにもならない。ワンタッチスペーサなら何とかなりそうな気もするが何が正解なんだろうか。ネットで調べてもよくわからないので正解を知ってる人がいれば教えてほしい。",
+    "url": "https://note.com/hrs885/n/n4ffdc652102a",
+    "pass": 3
+   },
+   {
+    "quote": "で固定した。もともとのスタッキングコネクタが固いので機能的には抜け方向の力が防止できれば良いのだがこれはこれで嵌りが固すぎて何らかのトラブルでボード交換したくなった時に面倒そうだ。",
+    "url": "https://note.com/hrs885/n/n4ffdc652102a",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "yuna_digick on X: \"廣杉計器のお知らせにエグい価格改定表が貼ってあ... 廣杉計器のお知らせにエグい価格改定表が貼ってあるんだけど… https://t.co/eVRY8t8AGk",
+    "url": "https://x.com/yuna_digick/status/2033052611147084076",
+    "pass": 3
+   },
+   {
+    "quote": "くらはし/Koichi Kurahashi ⋈ on X: \"廣杉計器さんからのアンケート。... 廣杉計器さんからのアンケート。 好きなメーカーなので回答しようとしたけど、住所まで入力しなきゃいけないのでキャンセル。 「抽選でハーゲンダッツ」ぐらいで住所収集するのはやめてちょ。",
+    "url": "https://x.com/TareObjects/status/2089519026892591585",
+    "pass": 3
+   },
+   {
+    "quote": "なかちー on X: \"プレート作り直してのJump hack X2完成体の出来上が... スペーサーで使用しているのは、廣杉計器さんの丸型のアルミスペーサー 無電解ニッケルメッキ 長さは45ミリと50ミリ 丸型にしたのは、六角スペーサーだとネジ式ボタンがoptionボタン以外当たってくるので、丸型にしてます",
+    "url": "https://x.com/nakachi_1225/status/2102406907168432585",
+    "pass": 3
+   },
+   {
+    "quote": "Miracle Hero (@MiracleHero1) / X 中空スペーサーだとROM交換する時に レスロックまでネジ外さなければならないないので、メネジのスペーサーに交換 高さはタイトーF2は14㍉ コナミGXは17㍉ ちょうどこのサイズは千石で扱ってないので廣杉計器通販で注文 交換しようとしたらイヤなのを ...",
+    "url": "https://x.com/MiracleHero1",
+    "pass": 3
+   },
+   {
+    "quote": "yuna_digick on X: \"廣杉計器のお知らせにエグい価格改定表が貼ってあ... Mar 15, 2026 · 廣杉計器のお知らせにエグい価格改定表が貼ってあるんだけど… https://t.co/eVRY8t8AGk",
+    "url": "https://x.com/yuna_digick/status/2033052611147084076",
+    "pass": 3
+   },
+   {
+    "quote": "くらはし/Koichi Kurahashi ⋈ on X: \"廣杉計器さんからのアンケート。... Aug 17, 2026 · 廣杉計器さんからのアンケート。 好きなメーカーなので回答しようとしたけど、住所まで入力しなきゃいけないのでキャンセル。 「抽選でハーゲンダッツ」ぐらいで住所収集するのはやめてちょ。",
+    "url": "https://x.com/TareObjects/status/2089519026892591585",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://hirosugi.co.jp/shop/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hirosugi.co.jp/shop/pages/form-support",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hirosugi.co.jp/shop/pages/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hirosugi.co.jp/shop/pages/aboutus",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hirosugi.co.jp/shop/pages/technical",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hirosugi.co.jp/shop/pages/subjective-basis",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hirosugi.co.jp/shop/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://hirosugi.co.jp/img/usr/freepage/aboutus/products_01.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://hirosugi.co.jp/img/usr/freepage/aboutus/products_02.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://hirosugi.co.jp/img/usr/freepage/aboutus/products_03.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://hirosugi.co.jp/img/usr/freepage/aboutus/products_04.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://hirosugi.co.jp/img/usr/freepage/aboutus/products_06.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://hirosugi.co.jp/img/usr/freepage/aboutus/products_15.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://hirosugi.co.jp/img/usr/freepage/aboutus/products_07.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://hirosugi.co.jp/img/usr/freepage/aboutus/products_08.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://hirosugi.co.jp/img/usr/freepage/aboutus/products_09.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://hirosugi.co.jp/img/usr/freepage/aboutus/products_10.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://hirosugi.co.jp/img/usr/freepage/aboutus/products_11.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://hirosugi.co.jp/img/usr/freepage/aboutus/products_12.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.atengineer.com/pr/hirosugi/document_box",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.monotaro.com/s/b-5013/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atengineer.com/pr/hirosugi/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.hirosugi.com/about/introduce.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atengineer.com/pr/hirosugi/inquiry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.densetsu-i.com/member_inquiry/form/hirosugi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tonchan_kwsk/n/neede508e25ba",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hrs885/n/n4ffdc652102a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yuyushiki/n/n1e2c50dc76ec",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kosakaaaaa/n/nba3c23a283ce?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/yuna_digick/status/2033052611147084076",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TareObjects/status/2089519026892591585",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/nakachi_1225/status/2102406907168432585",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MiracleHero1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/yuna_digick/status/2033052611147084076",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TareObjects/status/2089519026892591585",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "廣杉計器 取扱製品 試作 小ロット",
+   "results": [
+    "https://hirosugi.co.jp/shop/",
+    "https://www.atengineer.com/pr/hirosugi/document_box",
+    "https://www.monotaro.com/s/b-5013/",
+    "https://jp.misumi-ec.com/vona2/maker/hirosugikeiki/",
+    "https://www.aperza.com/ja/d/s/Hirosugi-Keiki/172905.html",
+    "https://ecn.cqpub.co.jp/products/hirosugi/",
+    "https://www.atengineer.com/pr/hirosugi/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "廣杉計器 会社概要 事業内容",
+   "results": [
+    "https://hirosugi.co.jp/shop/pages/company",
+    "https://www.atengineer.com/pr/hirosugi/company",
+    "http://www.hirosugi.com/about/introduce.html",
+    "https://pr.mono.ipros.com/hirosugi/information/",
+    "https://mono.ipros.com/company/detail/7146/",
+    "http://shintoku.info/new-page/entry42.html",
+    "https://baseconnect.in/companies/02d06f56-cbb5-47d4-bfef-89f791b6881b"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "廣杉計器 お問い合わせ メール",
+   "results": [
+    "https://hirosugi.co.jp/shop/pages/form-support",
+    "https://www.atengineer.com/pr/hirosugi/inquiry",
+    "https://www.densetsu-i.com/member_inquiry/form/hirosugi/",
+    "https://www.densetsu-i.com/member_inquiry/conf/hirosugi/",
+    "https://cedar.co.jp/contact.html",
+    "https://form.evort.jp/hirosugi/contact",
+    "https://www.hirosugi-net.co.jp/shop/contact/contact.aspx?goods=23"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 廣杉計器",
+   "results": [
+    "https://note.com/tonchan_kwsk/n/neede508e25ba",
+    "https://note.com/hrs885/n/n4ffdc652102a",
+    "https://note.com/yuyushiki/n/n1e2c50dc76ec",
+    "https://note.com/kosakaaaaa/n/nba3c23a283ce?hl=en",
+    "https://note.com/catfist/n/nb3981c46db23",
+    "https://note.com/kosakaaaaa/n/nba3c23a283ce",
+    "https://note.com/nd_precision/n/n33906fe8c3fa"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 廣杉計器",
+   "results": [
+    "https://x.com/yuna_digick/status/2033052611147084076",
+    "https://x.com/TareObjects/status/2089519026892591585",
+    "https://x.com/nakachi_1225/status/2102406907168432585",
+    "https://x.com/MiracleHero1",
+    "https://x.com/ECN_cqpub",
+    "https://x.com/spaceshark23/status/2117267370959945821",
+    "https://x.com/FilCrow_/status/2118738060196155540",
+    "https://x.com/thekonyjen/status/2112890582159028475",
+    "https://x.com/NoahFentys/status/2118178286157140113"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:linkedin.com 廣杉計器",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com 廣杉計器",
+   "results": [
+    "https://www.facebook.com/kobatagauge/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/narcdog1/",
+    "https://www.facebook.com/vjjackson1/",
+    "https://www.facebook.com/cosmoairleaktester/",
+    "https://www.facebook.com/brewrockhill/",
+    "https://www.facebook.com/tbozek/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "廣杉計器 note 社長",
+   "results": [
+    "https://en-hyouban.com/company/10007249694/kuchikomi/387032/",
+    "https://hirosugi.co.jp/shop/pages/company",
+    "https://www.atengineer.com/pr/hirosugi/company",
+    "https://www.tdb.co.jp/service/u/1006.jsp?TDBCompanyCode=200929504",
+    "http://www.hirosugi.com/about/index.html",
+    "http://www.hirosugi.jp/",
+    "http://www.hirosugi.com/about/introduce.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "廣杉計器 X 投稿",
+   "results": [
+    "https://x.com/yuna_digick/status/2033052611147084076",
+    "https://x.com/TareObjects/status/2089519026892591585",
+    "https://hirosugi.co.jp/shop/pages/list",
+    "https://www.suzuden.co.jp/post_maker/廣杉計器/",
+    "https://www.atengineer.com/pr/hirosugi/inquiry",
+    "https://www.atengineer.com/pr/hirosugi/document_box",
+    "http://www.hirosugi.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像12件／外部16頁・検索9回）",
+  "AM関連": "記載なし（3回確認済み：公式7頁／PDF・画像12件／外部16頁・検索9回）"
+ }
+}

@@ -1,0 +1,840 @@
+{
+ "name": "Mudafy",
+ "aliases": [],
+ "context": "旧営業リスト｜Non-AUMS｜未接触",
+ "researched_at": "2026-11-11T13:20:10.895256+00:00",
+ "official_url": "https://mudafy.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Mudafy | Una nueva forma de encontrar tu propiedad",
+    "url": "https://mudafy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Una nueva forma de encontrar tu propiedad.",
+    "url": "https://mudafy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Una red de inmobiliarias y asesores con tecnología propia.",
+    "url": "https://mudafy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Buscar propiedades en",
+    "url": "https://mudafy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Best practices for uploading photos",
+    "url": "https://www.mudafy.ai/help-center",
+    "pass": 3
+   },
+   {
+    "quote": "Profile, security & preferences",
+    "url": "https://www.mudafy.ai/help-center",
+    "pass": 3
+   },
+   {
+    "quote": "Updating your profile",
+    "url": "https://www.mudafy.ai/help-center",
+    "pass": 3
+   },
+   {
+    "quote": "Notification preferences",
+    "url": "https://www.mudafy.ai/help-center",
+    "pass": 3
+   },
+   {
+    "quote": "Security best practices",
+    "url": "https://www.mudafy.ai/help-center",
+    "pass": 3
+   },
+   {
+    "quote": "How long does AI processing take?",
+    "url": "https://www.mudafy.ai/help-center",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, we recommend disclosing the use of virtual staging in your property listings as required by local real estate regulations.",
+    "url": "https://www.mudafy.ai/help-center",
+    "pass": 3
+   },
+   {
+    "quote": "Venta y renta de propiedades en México | Mudafy",
+    "url": "https://mudafy.com.mx/",
+    "pass": 3
+   },
+   {
+    "quote": "Encuentra tu próxima casa. Te acompañamos hasta la escritura.",
+    "url": "https://mudafy.com.mx/",
+    "pass": 3
+   },
+   {
+    "quote": "Propiedades en venta y renta, con un asesor de Mudafy en cada paso.",
+    "url": "https://mudafy.com.mx/",
+    "pass": 3
+   },
+   {
+    "quote": "Guías de colonias con precios, servicios y lo que hay cerca.",
+    "url": "https://mudafy.com.mx/",
+    "pass": 3
+   },
+   {
+    "quote": "Cuánto te presta cada banco y de cuánto es la mensualidad.",
+    "url": "https://mudafy.com.mx/",
+    "pass": 3
+   },
+   {
+    "quote": "Precios y oferta de tu ciudad, mes a mes.",
+    "url": "https://mudafy.com.mx/",
+    "pass": 3
+   },
+   {
+    "quote": "Precio del metro cuadrado por alcaldía.",
+    "url": "https://mudafy.com.mx/",
+    "pass": 3
+   },
+   {
+    "quote": "Precios y servicios de cada colonia.",
+    "url": "https://mudafy.com.mx/",
+    "pass": 3
+   },
+   {
+    "quote": "Mira todas las propiedades en",
+    "url": "https://mudafy.com.mx/",
+    "pass": 3
+   },
+   {
+    "quote": "Una red de inmobiliarias y asesores con tecnología propia para comprar, vender y rentar en México y Argentina.",
+    "url": "https://mudafy.com.mx/",
+    "pass": 3
+   },
+   {
+    "quote": "propiedades publicadas en exclusiva",
+    "url": "https://mudafy.com.mx/",
+    "pass": 3
+   },
+   {
+    "quote": "Sí. Mudafy es una red de más de 30 oficinas y más de 600 asesores inmobiliarios en Argentina y México, con más de 5,000 propiedades publicadas en exclusiva. Tu asesor te acompaña en todo el proceso, con asesoría legal sin costo hasta la escritura.",
+    "url": "https://mudafy.com.mx/",
+    "pass": 3
+   },
+   {
+    "quote": "Te asignamos un asesor de tu zona que te acompaña de punta a punta: busca opciones según lo que necesitas, coordina las visitas, te ayuda a negociar y te acompaña hasta la firma. Si vendes, valúa tu propiedad con datos del mercado, la publica y filtra a los interesados.",
+    "url": "https://mudafy.com.mx/",
+    "pass": 3
+   },
+   {
+    "quote": "¿Puedo comprar con crédito Infonavit o bancario?",
+    "url": "https://mudafy.com.mx/",
+    "pass": 3
+   },
+   {
+    "quote": "Excelente atención de Liza! Me ayudó muchísimo a que el proceso fuera más simple",
+    "url": "https://mudafy.com.mx/",
+    "pass": 3
+   },
+   {
+    "quote": "Liza Rivera nos acompañó en todo el proceso de compra de nuestro departamento, desde la búsqueda hasta el día de la entrega de llaves, y no podemos estar más agradecidos.",
+    "url": "https://mudafy.com.mx/",
+    "pass": 3
+   },
+   {
+    "quote": "Nuestra operación no fue sencilla pero Liza siempre estuvo al pendiente, resolviendo y escuchando cada ajuste que pedimos y lo llevó a la mesa con claridad y profesionalismo. Siempre buscó que la operación fuera segura para nosotros.",
+    "url": "https://mudafy.com.mx/",
+    "pass": 3
+   },
+   {
+    "quote": "Lo que más valoramos fue su paciencia, su honestidad y su compromiso para destrabar cada obstáculo hasta que pudimos firmar y recibir nuestro nuevo hogar. Si buscas una broker que realmente te acompañe y defienda tus intereses, Liza es la indicada.",
+    "url": "https://mudafy.com.mx/",
+    "pass": 3
+   },
+   {
+    "quote": "No es la primera vez que ellos coordinan la venta de una propiedad. Siempre su acompañamiento es rápido y excepcional. Son impecables y muy profesionales. Recomendables al 100.",
+    "url": "https://mudafy.com.mx/",
+    "pass": 3
+   },
+   {
+    "quote": "Durante el proceso de compra me sentí acompañado todo el tiempo por el equipo legal de Mudafy, siempre velando por mis intereses.",
+    "url": "https://mudafy.com.mx/",
+    "pass": 3
+   },
+   {
+    "quote": "ampliamente su experiencia, profesionalismo y dedicación.aparte de que nos ayudo todo online",
+    "url": "https://mudafy.com.mx/",
+    "pass": 3
+   },
+   {
+    "quote": "Si necesitas comprar o vender,aparte de su paciencia y siempre con una sonrisa ..",
+    "url": "https://mudafy.com.mx/",
+    "pass": 3
+   },
+   {
+    "quote": "Gracias por ayudarnos y como dijo ella una gran experiencia , pues todo fue video llamada y con la mejor calidad y disponibilidad. Y si estas buscando un lugar para comprar o vender comunícate con Paola Vargas , no importa en el país que estes ., gracias Paola Att:la familia Bautista osuna.",
+    "url": "https://mudafy.com.mx/",
+    "pass": 3
+   },
+   {
+    "quote": "If you are looking for a real estate advisor who truly cares about you, guides you with dedication, and makes you feel secure at every step, Paola is undoubtedly the right person. We consider her more than just a professional; she is a great ally in the search for your ideal home.",
+    "url": "https://mudafy.com.mx/",
+    "pass": 3
+   },
+   {
+    "quote": "Mi esposa y yo queremos agradecerte de corazón por todo el apoyo que nos diste durante el proceso de compra de nuestro apartamento.",
+    "url": "https://mudafy.com.mx/",
+    "pass": 3
+   },
+   {
+    "quote": "Fichai is powered by Mudafy, a company with over a decade of experience transforming how people buy and sell properties. We're on a mission to give every realtor superpowers.",
+    "url": "https://www.mudafy.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": ", creating a platform that digitizes the entire real estate transaction process. Today, Mudafy operates across Latin America with 350+ team members.",
+    "url": "https://www.mudafy.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "\"We spent 10 years learning what real estate professionals actually need. Now we're using AI to give them superpowers.\"",
+    "url": "https://www.mudafy.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "After a decade of building products, Mudafy launches as a full-time venture.",
+    "url": "https://www.mudafy.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "Launch of Mudafy US, bringing AI-powered tools to US real estate professionals.",
+    "url": "https://www.mudafy.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "Professional quality in seconds",
+    "url": "https://www.mudafy.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "We leverage cutting-edge AI to solve real problems for real estate professionals.",
+    "url": "https://www.mudafy.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "We're proud to be backed by investors who believed in companies like Facebook, SpaceX, Airbnb, and Stripe before anyone else.",
+    "url": "https://www.mudafy.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "The world's most prestigious startup accelerator",
+    "url": "https://www.mudafy.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "Join thousands of real estate professionals using Fichai to create stunning property photos in seconds.",
+    "url": "https://www.mudafy.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "Case · PropTech · Lead Qualification",
+    "url": "https://studiochat.io/case-studies/mudafy",
+    "pass": 3
+   },
+   {
+    "quote": "How Mudafy turned a flood of WhatsApp inquiries into a stream of qualified leads, and gave its agents back the hours they spent chasing contacts who were never going to buy.",
+    "url": "https://studiochat.io/case-studies/mudafy",
+    "pass": 3
+   },
+   {
+    "quote": "Leads qualified before the agent",
+    "url": "https://studiochat.io/case-studies/mudafy",
+    "pass": 3
+   },
+   {
+    "quote": "Hundreds of inquiries, lots of noise in the leads",
+    "url": "https://studiochat.io/case-studies/mudafy",
+    "pass": 3
+   },
+   {
+    "quote": "Mudafy receives hundreds of WhatsApp inquiries every month about its property catalog. The problem wasn't a lack of demand: it was the noise: tons of unqualified leads come in, and agents spent hours filtering them by hand.",
+    "url": "https://studiochat.io/case-studies/mudafy",
+    "pass": 3
+   },
+   {
+    "quote": "Agents manually qualified every inquiry, losing hours on warm and cold leads that would never convert.",
+    "url": "https://studiochat.io/case-studies/mudafy",
+    "pass": 3
+   },
+   {
+    "quote": "Qualification depended on the person and the moment. Good leads went cold waiting, and bad ones consumed the same attention.",
+    "url": "https://studiochat.io/case-studies/mudafy",
+    "pass": 3
+   },
+   {
+    "quote": "Inquiries came in at all hours. Without someone available 24/7, prospects with real intent were lost before the first contact.",
+    "url": "https://studiochat.io/case-studies/mudafy",
+    "pass": 3
+   },
+   {
+    "quote": "StudioChat built an AI assistant that follows Mudafy's sales strategy in every WhatsApp conversation: it gets to know the prospect, presents the projects, and decides whether there's a real fit before involving a human.",
+    "url": "https://studiochat.io/case-studies/mudafy",
+    "pass": 3
+   },
+   {
+    "quote": "The assistant follows Mudafy's commercial playbook step by step: it probes, presents projects, and detects fit, always in the brand's voice.",
+    "url": "https://studiochat.io/case-studies/mudafy",
+    "pass": 3
+   },
+   {
+    "quote": "Gets to know the prospect",
+    "url": "https://studiochat.io/case-studies/mudafy",
+    "pass": 3
+   },
+   {
+    "quote": "Presents the projects",
+    "url": "https://studiochat.io/case-studies/mudafy",
+    "pass": 3
+   },
+   {
+    "quote": "Talks through the catalog and the relevant projects based on what each person is looking for, without rigid scripts.",
+    "url": "https://studiochat.io/case-studies/mudafy",
+    "pass": 3
+   },
+   {
+    "quote": "Separates hot, warm, and cold leads so commercial energy goes only where there's real intent.",
+    "url": "https://studiochat.io/case-studies/mudafy",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Simulador de crédito hipotecario",
+    "url": "https://mudafy.com.mx/",
+    "pass": 3
+   },
+   {
+    "quote": "Sí. Puedes calcular la mensualidad con nuestro simulador de crédito hipotecario y tu asesor te ayuda a comparar opciones de financiamiento y con la documentación.",
+    "url": "https://mudafy.com.mx/",
+    "pass": 3
+   },
+   {
+    "quote": "Durante el proceso de compra me sentí acompañado todo el tiempo por el equipo legal de Mudafy, siempre velando por mis intereses.",
+    "url": "https://mudafy.com.mx/",
+    "pass": 3
+   },
+   {
+    "quote": "Estoy voy muy feliz y agradecido de haber adquirido mi hogar a través de este gran equipo",
+    "url": "https://mudafy.com.mx/",
+    "pass": 3
+   },
+   {
+    "quote": "La verdad es que si están pensando en adquirir inmuebles, Mudafy lo hace sencillo, nos presentaron a un excelente equipo de asesoría inmobiliaria e hipotecaria.",
+    "url": "https://mudafy.com.mx/",
+    "pass": 3
+   },
+   {
+    "quote": "How Avera connected Mercado Libre, Amazon, and its own store into one assistant that resolves invoicing, warranties, and tracking end to end.",
+    "url": "https://studiochat.io/case-studies",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Mudafy - LinkedIn 日本 — Mudafy | LinkedInのフォロワー数19,182人。 Somos la plataforma inmobiliaria que conecta a las personas con su hogar ideal, mediante asesoría personalizada en cada etapa del proceso, logrando...",
+    "url": "https://jp.linkedin.com/company/mudafy",
+    "pass": 3
+   },
+   {
+    "quote": "Help Center | Mudafy — Get help with Mudafy. Find guides, tutorials, and answers to frequently asked questions about our AI-powered real estate photo editing tools.",
+    "url": "https://www.mudafy.ai/help-center",
+    "pass": 3
+   },
+   {
+    "quote": "Venta y renta de propiedades en México | Mudafy — Encuentra departamentos, casas, terrenos y más en venta y renta en México. Asesoría personalizada con expertos de Mudafy.",
+    "url": "https://mudafy.com.mx/",
+    "pass": 3
+   },
+   {
+    "quote": "About Us | Fichai - AI Photo Editing for Real Estate - mudafy.ai — Fichai is built by Mudafy, a company with 10+ years of real estate technology experience, backed by Founders Fund. Empowering realtors with AI-powered photo editing tools.",
+    "url": "https://www.mudafy.ai/about",
+    "pass": 3
+   },
+   {
+    "quote": "Mudafy | AI Photo Editing for Real Estate — Transform your property listings with AI-powered photo editing. Virtual staging, image enhancement, and object removal for real estate professionals.",
+    "url": "https://www.mudafy.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Mudafy | Una nueva forma de encontrar tu propiedad — Mudafy es una red de inmobiliarias y asesores con tecnología propia, con el respaldo de Y Combinator y Founders Fund. Propiedades en Argentina y México.",
+    "url": "https://mudafy.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Mudafy | AI Photo Editing for Real Estate — Transform your property listings with AI-powered photo editing. Virtual staging, image enhancement, and object removal for real estate professionals.",
+    "url": "https://www.mudafy.ai/login",
+    "pass": 3
+   },
+   {
+    "quote": "Help Center | Mudafy — Find guides, tutorials, and answers to frequently asked questions about our AI-powered real estate photo editing tools.",
+    "url": "https://www.mudafy.ai/help-center",
+    "pass": 3
+   },
+   {
+    "quote": "Mudafy case study: AI WhatsApp lead qualification — StudioChat built an AI assistant that follows Mudafy's sales strategy in every WhatsApp conversation: it gets to know the prospect, presents the projects, and decides whether there's a real fit before involving a human.",
+    "url": "https://studiochat.io/case-studies/mudafy",
+    "pass": 3
+   },
+   {
+    "quote": "Case studies: Coderhouse, Mudafy & Avera | StudioChat — How Mudafy turned hundreds of WhatsApp inquiries into qualified leads, and discovered, through a weekly report, that a parking filter was disqualifying good leads.",
+    "url": "https://studiochat.io/case-studies",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Mudafy case study: AI WhatsApp lead qualification",
+    "url": "https://studiochat.io/case-studies/mudafy",
+    "pass": 3
+   },
+   {
+    "quote": "Case study published with authorization from Mudafy. Data as of July 2026.",
+    "url": "https://studiochat.io/case-studies/mudafy",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "How Rebill added Billy to its Pylon inbox across email, chat and Slack, connected it to its database without asking engineering for endpoints, and maintains it from Claude.",
+    "url": "https://studiochat.io/case-studies",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Mudafy (@mudafy_mx) / Posts / X May 7, 2019 · #TeInteresa | ¡Comprar una casa sí es posible! @mudafy_mx cuenta con un equipo de asesores que te ayudarán para el otorgamiento de créditos hipotecarios o para adquirir tu vivienda.",
+    "url": "https://x.com/mudafy_mx",
+    "pass": 3
+   },
+   {
+    "quote": "Juli Alvarez on X: \"Que paja lo de Itti / Ueno bank. Estuve ... Aug 27, 2026 · Que paja lo de Itti / Ueno bank. Estuve en un proceso de layoff (Mudafy - 2023) donde via una town hall volamos ~300 personas de diversos equipos. No se lo recomiendo a nadie y menos en este contexto. En mi laburo hay diversas vacantes abiertas para clientes de afuera (técnicas y de negocio)…",
+    "url": "https://x.com/usainbot95/status/2092818782951489854",
+    "pass": 3
+   },
+   {
+    "quote": "@mudafy_ar | X The latest posts from @mudafy_ar",
+    "url": "https://x.com/mudafy_ar",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Mudafy - LinkedIn Mudafy is a tech-enabled real estate broker that makes it easier for people to buy and sell their homes. Mudafy is the largest marketplace end-to-end in Mexico and Argentina regarding listings...",
+    "url": "https://www.linkedin.com/company/mudafy",
+    "pass": 3
+   },
+   {
+    "quote": "Mudafy - LinkedIn Mudafy | 19.251 seguidores en LinkedIn. Somos la plataforma inmobiliaria que conecta a las personas con su hogar ideal, mediante asesoría personalizada en cada etapa del proceso, logrando...",
+    "url": "https://ar.linkedin.com/company/mudafy",
+    "pass": 3
+   },
+   {
+    "quote": "Mudafy One - LinkedIn Mudafy One | 228 followers on LinkedIn. Somos un portal inmobiliario que ofrece una nueva experiencia al momento de comprar y vender una propiedad, combinando innovación tecnológica con ...",
+    "url": "https://www.linkedin.com/company/mudafy-one",
+    "pass": 3
+   },
+   {
+    "quote": "Mudafy Roggio Bustos - LinkedIn En Mudafy Roggio Bustos nos enorgullece ser una inmobiliaria boutique con un enfoque único en satisfacer las necesidades de clientes de alto poder adquisitivo en la ciudad de Córdoba, Argentina.",
+    "url": "https://ar.linkedin.com/company/mudafy-roggio-bustos",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Mudafy México - FacebookMudafy | Buenos Aires - FacebookMudafy Alfa | Mexico City - FacebookMudafy One - FacebookMudafy Nativa - FacebookMudafy Realty - FacebookAlejandra - Mudafy - Real State - Facebook ¿Listo para llevar tu carrera al siguiente nivel? 🚀 En Mudafy, no caminas solo: aquí encuentras las herramientas, el acompañamiento y la red que impulsa resultados reales. 👉 Descubre lo que podemo",
+    "url": "https://www.facebook.com/MudafyMx/",
+    "pass": 3
+   },
+   {
+    "quote": "Mudafy | Buenos Aires - FacebookMudafy Alfa | Mexico City - FacebookMudafy One - FacebookMudafy Nativa - FacebookMudafy Realty - FacebookAlejandra - Mudafy - Real State - Facebook Aug 19, 2026 · En Mudafy te damos las herramientas tecnológicas en tiempo real para ir siempre un paso adelante y asegurar cada operación. Escribinos para sumarte a nuestra red. Mudafy Alfa, Mexico City. 37 followers · 2",
+    "url": "https://www.facebook.com/mudafyAr/",
+    "pass": 3
+   },
+   {
+    "quote": "Mudafy Alfa | Mexico City - Facebook Mudafy Alfa, Mexico City. 37 followers · 2 talking about this. Mudafy es una proptech que ofrece un servicio integral para la compra y venta de propiedades.",
+    "url": "https://www.facebook.com/p/Mudafy-Alfa-61567339809041/",
+    "pass": 3
+   },
+   {
+    "quote": "Mudafy One - Facebook Mudafy One. 82 followers · 287 talking about this. Te conectamos con tu hogar ideal 🏠💫",
+    "url": "https://www.facebook.com/mudafyone/about/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://mudafy.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://jp.linkedin.com/company/mudafy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.mudafy.ai/help-center",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mudafy.com.mx/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mudafy.ai/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%BC%E3%82%B5%E3%82%A4%E3%83%88%E3%83%BB%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yamamoto_ec/n/nd3b3890ee728",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/moodify_japan/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.mudafy.ai/login",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mudafy.ai/help-center",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://studiochat.io/case-studies/mudafy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://studiochat.io/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://madasky.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manufyn.com/case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://upcloud.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/mudafy_mx",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/usainbot95/status/2092818782951489854",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/mudafy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ar.linkedin.com/company/mudafy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/mudafy-one",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ar.linkedin.com/company/mudafy-roggio-bustos",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MudafyMx/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mudafyAr/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Mudafy-Alfa-61567339809041/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mudafyone/about/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mudafy_mx",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mudafy_ar",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Mudafy 日本 導入",
+   "results": [
+    "https://jp.linkedin.com/company/mudafy",
+    "https://www.mudafy.ai/help-center",
+    "https://mudafy.com.mx/",
+    "https://www.mudafy.ai/about",
+    "https://www.mudafy.ai/",
+    "https://www.proofpoint.com/jp/blog/cyberthreats/dmarc-adoption-industry-japan-us-2026",
+    "https://note.com/daikidomon/n/n72eaa3f8113c"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mudafy 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/キーサイト・テクノロジー",
+    "https://note.com/yamamoto_ec/n/nd3b3890ee728",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "https://biz.toyokeizai.net/data/service/detail/id=418",
+    "https://nidafjapan.com/",
+    "https://jpmktg.winbond.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mudafy Japan",
+   "results": [
+    "https://mudafy.com/",
+    "https://www.instagram.com/moodify_japan/",
+    "https://www.mudafy.ai/login",
+    "https://www.mudafy.ai/help-center",
+    "https://modufy.co/ja",
+    "https://www.amazon.co.jp/stores/MODUFY/page/B96D737D-866E-404E-9DEC-3C6A2FB4B18C",
+    "https://moodify.jp/pages/profile"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mudafy manufacturing customer case study",
+   "results": [
+    "https://studiochat.io/case-studies/mudafy",
+    "https://studiochat.io/case-studies",
+    "https://madasky.com/case-studies",
+    "https://manufyn.com/case-study/",
+    "https://www.mudafy.ai/help-center",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.sciencedirect.com/science/article/pii/S2405844023018327"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mudafy white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://upcloud.com/partner-program/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.extremenetworks.com/partners",
+    "https://www.thenationalcouncil.org/get-involved/partner-with-us/partnership-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mudafy founded funding employees revenue",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com Mudafy",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/seigo77",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/higegori_consul/n/n95055b1956b0",
+    "https://note.com/daimaookorin/n/neb534e12144e",
+    "https://note.com/hecate_mk2/n/n76b0fb396098"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Mudafy",
+   "results": [
+    "https://x.com/mudafy_mx",
+    "https://x.com/",
+    "https://x.com/usainbot95/status/2092818782951489854",
+    "https://x.com/jocelynseip/status/2118260591680983528",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/BuzzingPop/status/2117864405064892847",
+    "https://x.com/Blkfantasy4u/status/1723552497883595088"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Mudafy",
+   "results": [
+    "https://www.linkedin.com/company/mudafy",
+    "https://ar.linkedin.com/company/mudafy",
+    "https://www.linkedin.com/company/mudafy-one",
+    "https://ar.linkedin.com/company/mudafy-roggio-bustos",
+    "https://mx.linkedin.com/company/mudafy-bahena",
+    "https://mx.linkedin.com/in/fortefranco",
+    "https://in.linkedin.com/in/mkhn-mudasir-942253255"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Mudafy",
+   "results": [
+    "https://www.facebook.com/MudafyMx/",
+    "https://www.facebook.com/mudafyAr/",
+    "https://www.facebook.com/p/Mudafy-Alfa-61567339809041/",
+    "https://www.facebook.com/mudafyone/about/",
+    "https://www.facebook.com/p/Mudafy-Nativa-61581072640958/",
+    "https://www.facebook.com/61555374715272/",
+    "https://www.facebook.com/p/Alejandra-Mudafy-Real-State-61560209002547/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mudafy note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/sadaaki",
+    "https://theorg.com/org/mudafy/teams/leadership-team",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://x.com/i/trending/2089933905184882879"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Mudafy X 投稿",
+   "results": [
+    "https://x.com/mudafy_mx",
+    "https://x.com/mudafy_ar",
+    "https://www.mudafy.ai/help-center",
+    "https://mudafy.com.mx/",
+    "https://mudafy.com.ar/",
+    "https://www.mudafy.ai/login",
+    "https://x.com/Tsurugi_muda/status/2108112247142936708",
+    "https://x.com/Tsurugi_muda/status/2085903042290057476"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

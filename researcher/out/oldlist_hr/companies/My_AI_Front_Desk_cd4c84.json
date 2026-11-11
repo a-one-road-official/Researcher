@@ -1,0 +1,1724 @@
+{
+ "name": "My AI Front Desk",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜未接触",
+ "researched_at": "2026-11-11T13:37:31.168419+00:00",
+ "official_url": "https://www.myaifrontdesk.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "1. Seed Round",
+    "value": "10-Feb-2025 $3M   Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/527545-99",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "",
+    "url": "https://pitchbook.com/profiles/company/527545-99",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Product demo: Frontdesk AI Receptionist answering an inbound call, qualifying the lead, and booking an appointment 24/7.",
+    "url": "https://www.myaifrontdesk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Samson Properties Team",
+    "url": "https://www.myaifrontdesk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Leads captured after hours",
+    "url": "https://www.myaifrontdesk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Karen Delacruz, Marketing Coordinator",
+    "url": "https://www.myaifrontdesk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our customers get instant answers about products, pricing, and availability even when our showroom is closed.",
+    "url": "https://www.myaifrontdesk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tested in production, with real customers finding the gaps.",
+    "url": "https://www.myaifrontdesk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Calls, texts, emails, and chat share one profile, so your customers never repeat themselves.",
+    "url": "https://www.myaifrontdesk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Frontdesk learns from each interaction and improves its own answers, with every change visible to your team.",
+    "url": "https://www.myaifrontdesk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Frontdesk reads from the PMS, CRM, data lake, or CDP you already run. Your systems stay the source of truth.",
+    "url": "https://www.myaifrontdesk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise governance",
+    "url": "https://www.myaifrontdesk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Priority email support",
+    "url": "https://www.myaifrontdesk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "For teams handling 25+ interactions/day. Volume discounts, API access, and white-glove onboarding.",
+    "url": "https://www.myaifrontdesk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "White-glove onboarding",
+    "url": "https://www.myaifrontdesk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Frontdesk is an AI-powered front office platform for small and medium businesses. It includes an AI phone receptionist, web chatbot, SMS agent, CRM, calendar, and more, all working together. Your AI answers calls 24/7, qualifies leads, books appointments, and handles routine inquiries just like a trained human employee.",
+    "url": "https://www.myaifrontdesk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Frontdesk has its own built-in CRM, but it also integrates with popular tools via Zapier and direct API connections. If you're on an Enterprise plan, custom integrations are available, every interaction (call, chat, SMS) is automatically logged wherever you need it.",
+    "url": "https://www.myaifrontdesk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Frontdesk is built with enterprise-grade escalation logic. When the AI encounters a complex case it cannot handle, it escalates to a human supervisor in real-time with a full transcript. You can configure escalation rules, approval workflows, and notification recipients from the dashboard.",
+    "url": "https://www.myaifrontdesk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Do you have an enterprise plan?",
+    "url": "https://www.myaifrontdesk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Our Partner/Enterprise plan is designed for businesses handling 25+ interactions per day, call centers, and multi-location operators. It includes volume discounts, API access, custom integrations, a dedicated account manager, white-glove onboarding, and a dedicated Slack channel. Book a call with our sales team for a custom demo.",
+    "url": "https://www.myaifrontdesk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. You can forward your existing business number to Frontdesk so all calls are handled by the AI. Your customers dial the same number they always have. They just get an always-available, always-professional AI receptionist.",
+    "url": "https://www.myaifrontdesk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "An AI customer platform is a single system of AI agents that handle customer conversations across voice, text and chat, then remember and follow up automatically. Frontdesk is an agentic AI customer platform: it answers calls, qualifies leads, books appointments, updates your CRM and follows up, across every channel.",
+    "url": "https://www.myaifrontdesk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Are you losing leads to competitors?",
+    "url": "https://www.myaifrontdesk.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Real deployments in real estate, healthcare, manufacturing, automotive, and e-commerce, each summarizing the problem, what Frontdesk replaced, and the outcome the customer measures.",
+    "url": "https://www.myaifrontdesk.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Each card opens the full narrative: profile, deployment, and measured results.",
+    "url": "https://www.myaifrontdesk.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Residential & Multifamily Property Management",
+    "url": "https://www.myaifrontdesk.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "An AI workforce handles calls, emails, texts, and chats while automating leasing, work orders, payment collection, and emergency response.",
+    "url": "https://www.myaifrontdesk.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Student Housing Property Management",
+    "url": "https://www.myaifrontdesk.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "It's proven to be actually exceptional. It's handling everything we want it to handle and there's possibility for it to handle more.",
+    "url": "https://www.myaifrontdesk.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Real Estate & Property Management",
+    "url": "https://www.myaifrontdesk.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "A property management firm cut daylong phone interruptions, improved intent-based routing, and gave tenants and prospects structured answers outside business hours.",
+    "url": "https://www.myaifrontdesk.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Samson Properties Team",
+    "url": "https://www.myaifrontdesk.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Leads captured after hours",
+    "url": "https://www.myaifrontdesk.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Z&A Management runs three aquariums and wildlife centers across the US. They retired a Monday-to-Friday call center floor, moved to 24/7 AI coverage that holds up through the weekend rush, and embedded tracked promotions into every conversation.",
+    "url": "https://www.myaifrontdesk.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "A high-volume therapy clinic improved referral capture, removed administrative backlog, and added multilingual phone support without proportional hiring.",
+    "url": "https://www.myaifrontdesk.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Karen Delacruz, Marketing Coordinator",
+    "url": "https://www.myaifrontdesk.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Launch Frontdesk in minutes, capture more leads, and automate repetitive front-office workflows from day one.",
+    "url": "https://www.myaifrontdesk.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "AI Receptionist Pricing and Cost: Call Answering $99/mo",
+    "url": "https://www.myaifrontdesk.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Are you losing leads to competitors?",
+    "url": "https://www.myaifrontdesk.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "AI Receptionist Pricing",
+    "url": "https://www.myaifrontdesk.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "plus the full AI workforce.",
+    "url": "https://www.myaifrontdesk.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Answering phone calls starts at $99/mo on Business-in-a-Box, or $79/mo billed annually, and that includes 200 voice minutes plus the full Frontdesk AI workforce: web chat, 2-way SMS, an AI-native CRM, and sequence automations. No contracts, no hidden fees.",
+    "url": "https://www.myaifrontdesk.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Volume discounts, API access, custom integrations, and white-glove onboarding with a dedicated account manager.",
+    "url": "https://www.myaifrontdesk.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Volume pricing (voice from 7 credits/min)",
+    "url": "https://www.myaifrontdesk.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "White-glove onboarding",
+    "url": "https://www.myaifrontdesk.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Custom data retention options",
+    "url": "https://www.myaifrontdesk.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Partner and Enterprise pricing is custom and set by your monthly volume.",
+    "url": "https://www.myaifrontdesk.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Frontdesk AI receptionist plans, monthly and annual prices, and the voice minutes each plan includes",
+    "url": "https://www.myaifrontdesk.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Published AI receptionist prices start at around $14 per month and rise with the minutes included. ai-receptionist.com advertises plans from $14 per month and Allo from $18 per month. AgentZap runs from $25 to $899 per month, NextPhone from $199 to $299 per month, and Imagicle from $25 to $3,000 per month.",
+    "url": "https://www.myaifrontdesk.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Competitor prices are each vendor's own published rate, last checked August 2026. Compare what each tier includes rather than the headline price alone, because entry tiers differ widely in the minutes they allow.",
+    "url": "https://www.myaifrontdesk.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Compare AI Workforce Plans",
+    "url": "https://www.myaifrontdesk.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "A side-by-side look at AI receptionist pricing and the full AI workforce included across all three plans.",
+    "url": "https://www.myaifrontdesk.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Leads captured through forms on your website, each submission counts as one.",
+    "url": "https://www.myaifrontdesk.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "White-Glove Onboarding",
+    "url": "https://www.myaifrontdesk.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "When you exceed your monthly usage, credits are drawn from your pool at the rates below. Partner / Enterprise plans get significantly lower rates.",
+    "url": "https://www.myaifrontdesk.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Stop paying for disconnected tools. Get one AI workforce that does it all, and actually connects.",
+    "url": "https://www.myaifrontdesk.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "First AI voice product (2023). Answers, qualifies & books with no humans needed.",
+    "url": "https://www.myaifrontdesk.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "2-Way SMS Marketing",
+    "url": "https://www.myaifrontdesk.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Samson Properties Team",
+    "url": "https://www.myaifrontdesk.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Our customers get instant answers about products, pricing, and availability even when our showroom is closed.",
+    "url": "https://www.myaifrontdesk.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Leads captured after hours",
+    "url": "https://www.myaifrontdesk.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Karen Delacruz, Marketing Coordinator",
+    "url": "https://www.myaifrontdesk.com/pricing",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by 10,000+ businesses",
+    "url": "https://www.myaifrontdesk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Our Partner/Enterprise plan is designed for businesses handling 25+ interactions per day, call centers, and multi-location operators. It includes volume discounts, API access, custom integrations, a dedicated account manager, white-glove onboarding, and a dedicated Slack channel. Book a call with our sales team for a custom demo.",
+    "url": "https://www.myaifrontdesk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Real deployments in real estate, healthcare, manufacturing, automotive, and e-commerce, each summarizing the problem, what Frontdesk replaced, and the outcome the customer measures.",
+    "url": "https://www.myaifrontdesk.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "E-Commerce / Bedding Manufacturing",
+    "url": "https://www.myaifrontdesk.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "A high-volume bedding manufacturer replaced dozens of weekly phone hours with structured AI receptionist flows, SMS follow-up, and wholesale-specific routing.",
+    "url": "https://www.myaifrontdesk.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Door Manufacturing & Distribution",
+    "url": "https://www.myaifrontdesk.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "A door manufacturer and distributor replaced missed calls and misrouted transfers with intent-based routing, structured lead capture, and overnight coverage across time zones.",
+    "url": "https://www.myaifrontdesk.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Recall Management",
+    "url": "https://www.myaifrontdesk.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Don't take our word for it. See why thousands of operators have been sharing Frontdesk's AI",
+    "url": "https://www.myaifrontdesk.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "On stage at industry conferences, at dinner with the operators who run on Frontdesk, and back home in New York.",
+    "url": "https://www.myaifrontdesk.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Hosting operators at a downtown meetup.",
+    "url": "https://www.myaifrontdesk.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive AI Receptionist. Frontdesk",
+    "url": "https://www.myaifrontdesk.com/industries-we-serve/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "For Automotive Shops & Dealerships",
+    "url": "https://www.myaifrontdesk.com/industries-we-serve/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive shops lose customers daily",
+    "url": "https://www.myaifrontdesk.com/industries-we-serve/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive customers decide in seconds. The shop that answers first, and follows up automatically. Keeps the bay full year-round, regardless of season or staffing.",
+    "url": "https://www.myaifrontdesk.com/industries-we-serve/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Answers on after-hours service calls, appointment scheduling, and CRM workflows for automotive teams.",
+    "url": "https://www.myaifrontdesk.com/industries-we-serve/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Elegant Comfort Case Study | Frontdesk",
+    "url": "https://www.myaifrontdesk.com/testimonials/elegant-comfort",
+    "pass": 1
+   },
+   {
+    "quote": "A high-volume bedding manufacturer replaced dozens of weekly phone hours with structured AI receptionist flows, SMS follow-up, and wholesale-specific routing.",
+    "url": "https://www.myaifrontdesk.com/testimonials/elegant-comfort",
+    "pass": 1
+   },
+   {
+    "quote": "E-Commerce / Bedding Manufacturing",
+    "url": "https://www.myaifrontdesk.com/testimonials/elegant-comfort",
+    "pass": 1
+   },
+   {
+    "quote": "United Porté Case Study | Frontdesk",
+    "url": "https://www.myaifrontdesk.com/testimonials/united-porte",
+    "pass": 1
+   },
+   {
+    "quote": "A door manufacturer and distributor replaced missed calls and misrouted transfers with intent-based routing, structured lead capture, and overnight coverage across time zones.",
+    "url": "https://www.myaifrontdesk.com/testimonials/united-porte",
+    "pass": 1
+   },
+   {
+    "quote": "Door Manufacturing & Distribution",
+    "url": "https://www.myaifrontdesk.com/testimonials/united-porte",
+    "pass": 1
+   },
+   {
+    "quote": "Samson Properties Case Study | Frontdesk",
+    "url": "https://www.myaifrontdesk.com/testimonials/samson-properties",
+    "pass": 1
+   },
+   {
+    "quote": "More stories, across property management, retail, healthcare and manufacturing, in",
+    "url": "https://www.myaifrontdesk.com/ai-receptionist",
+    "pass": 1
+   },
+   {
+    "quote": "A traditional answering service uses human operators with limited hours and produces only basic message slips. An AI receptionist answers every call around the clock in about 1s, books appointments live, and pushes structured data to your CRM automatically, at a fraction of the cost.",
+    "url": "https://www.myaifrontdesk.com/ai-receptionist",
+    "pass": 1
+   },
+   {
+    "quote": "AI Frontdesk works for every business that takes inbound calls. Solo operators and small teams get a 5-minute, self-serve setup with no contract. Multi-location operators get per-site call flows, routing by service area, and rolled-up reporting. Enterprise teams get SSO, custom retention, and dedicated onboarding.",
+    "url": "https://www.myaifrontdesk.com/ai-receptionist",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. You can configure per-location call flows, route by service area or zip code, and roll up reporting across locations. Multi-location operators use AI Frontdesk to keep call handling consistent across every site.",
+    "url": "https://www.myaifrontdesk.com/ai-receptionist",
+    "pass": 1
+   },
+   {
+    "quote": "With plans from $79 a month billed annually, or $99 monthly, it targets solo operators, small teams, and service businesses that want to capture every lead without paying for live agents.",
+    "url": "https://synthflow.ai/blog/my-ai-front-desk-review",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Less than 5 minutes. Enter your website URL or describe your business, and our AI builds your receptionist automatically. You can go live with a forwarded phone number and embedded chatbot the same day, no engineers, no agencies, no waiting.",
+    "url": "https://www.myaifrontdesk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "For scaling teams & agencies",
+    "url": "https://www.myaifrontdesk.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "scaling teams & agencies",
+    "url": "https://www.myaifrontdesk.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "AI Receptionist for Insurance Agencies: 24/7 Virtual Answer…",
+    "url": "https://www.myaifrontdesk.com/ai-receptionist/insurance-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Built for Insurance Agencies",
+    "url": "https://www.myaifrontdesk.com/ai-receptionist/insurance-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "AI Receptionist for Insurance Agencies",
+    "url": "https://www.myaifrontdesk.com/ai-receptionist/insurance-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Frontdesk’s AI receptionist for insurance agencies handles new-quote inquiries, claims intake, and policy questions. Routing to the right producer with full context.",
+    "url": "https://www.myaifrontdesk.com/ai-receptionist/insurance-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "No voicemail, no hold music. Every insurance agencies call gets a live, intelligent response the moment it connects. 24/7.",
+    "url": "https://www.myaifrontdesk.com/ai-receptionist/insurance-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Captures the details that matter for insurance agencies, intent, timeline, service area, and budget, before the call ends.",
+    "url": "https://www.myaifrontdesk.com/ai-receptionist/insurance-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Reads your calendar, offers open slots, and books on-call with SMS confirmation. Tuned for insurance agencies workflows.",
+    "url": "https://www.myaifrontdesk.com/ai-receptionist/insurance-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Transfers VIPs, emergencies, and hot insurance agencies leads to the right person on your team based on rules you set.",
+    "url": "https://www.myaifrontdesk.com/ai-receptionist/insurance-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Is an AI receptionist a good fit for insurance agencies?",
+    "url": "https://www.myaifrontdesk.com/ai-receptionist/insurance-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, insurance agencies is one of the highest-ROI use cases for an AI receptionist. Frontdesk is pre-trained on the call flows, FAQs, and routing logic that insurance agencies typically needs.",
+    "url": "https://www.myaifrontdesk.com/ai-receptionist/insurance-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "What does an AI receptionist for insurance agencies cost?",
+    "url": "https://www.myaifrontdesk.com/ai-receptionist/insurance-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Resell AI receptionist services under your own brand with the White Label Program.",
+    "url": "https://opentools.ai/tools/my-ai-front-desk",
+    "pass": 3
+   },
+   {
+    "quote": "White‑Label My AI Front Desk for Agencies: How to Launch, Price, and Scale",
+    "url": "https://llms.myaifrontdesk.com/white-label-reseller-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Best fit: marketing agencies, MSPs, web studios, consulting boutiques, and vertical specialists (real estate, auto, legal, property management) that want recurring SaaS revenue without building AI telephony from scratch.",
+    "url": "https://llms.myaifrontdesk.com/white-label-reseller-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "What you get as a white‑label reseller",
+    "url": "https://llms.myaifrontdesk.com/white-label-reseller-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Billing & packaging control: create your own plans, minute/SMS rates, coupons; bill clients directly via Stripe from the reseller console.",
+    "url": "https://llms.myaifrontdesk.com/white-label-reseller-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Wholesale: $54.99 per receptionist (reseller rate). Many resellers package at $250–$500+ per month per client.",
+    "url": "https://llms.myaifrontdesk.com/white-label-reseller-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Example reseller packages (illustrative)",
+    "url": "https://llms.myaifrontdesk.com/white-label-reseller-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "1) Register as a reseller (free).",
+    "url": "https://llms.myaifrontdesk.com/white-label-reseller-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Many resellers report going from sign‑up to first branded saleable product in ~7 days; each new client can be stood up in minutes.",
+    "url": "https://llms.myaifrontdesk.com/white-label-reseller-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller case studies",
+    "url": "https://llms.myaifrontdesk.com/white-label-reseller-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Go‑to‑market guide for agencies/MSPs",
+    "url": "https://llms.myaifrontdesk.com/white-label-reseller-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Frequently asked questions (resellers)",
+    "url": "https://llms.myaifrontdesk.com/white-label-reseller-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Typical reseller MSRP? Many agencies price $250–$500+/mo per receptionist; set margins based on minutes, support, and add‑ons.",
+    "url": "https://llms.myaifrontdesk.com/white-label-reseller-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Launch your branded AI receptionist line this week. Register free, brand the portal, connect Stripe, and ship your first client in minutes.",
+    "url": "https://llms.myaifrontdesk.com/white-label-reseller-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Become a white‑label reseller",
+    "url": "https://llms.myaifrontdesk.com/white-label-reseller-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "In 2026 My AI Front Desk rebranded as Frontdesk, and its plan now bundles the receptionist with web chat, SMS, a CRM and automations.",
+    "url": "https://synthflow.ai/blog/my-ai-front-desk-review",
+    "pass": 3
+   },
+   {
+    "quote": "White-label reseller option",
+    "url": "https://synthflow.ai/blog/my-ai-front-desk-review",
+    "pass": 3
+   },
+   {
+    "quote": "For low-risk businesses like salons or real estate agencies, this is usually enough. But for healthcare, legal, or financial use cases, it won’t meet required standards.",
+    "url": "https://synthflow.ai/blog/my-ai-front-desk-review",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "We cut our cost by about 75% to achieve the same revenue, if not grow it even higher.",
+    "url": "https://www.myaifrontdesk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Each card opens the full narrative: profile, deployment, and measured results.",
+    "url": "https://www.myaifrontdesk.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "A boutique builder replaced fragmented answering services with one trained AI receptionist for warranty, sales, and always-on website chat, without growing headcount.",
+    "url": "https://www.myaifrontdesk.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "We cut our cost by about 75% to achieve the same level of revenue, if not grow it even higher. The hesitancy I thought I would have, the things I was worried about going in, they were nothing.",
+    "url": "https://www.myaifrontdesk.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Personalized AI voice outreach plus SMS follow-up turned recall campaigns into a measured booking and revenue channel for dealership service lanes.",
+    "url": "https://www.myaifrontdesk.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "A Phoenix pizza shop that used to send every call to voicemail now answers every order live with AI Frontdesk. Result: $11K+ weekly revenue recovered, 47% order volume lift in 90 days, and Friday-night rush handled without a single dropped call.",
+    "url": "https://www.myaifrontdesk.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Emails your AI writes for you as part of follow-ups or sequences.",
+    "url": "https://www.myaifrontdesk.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We cut our cost by about 75% to achieve the same revenue, if not grow it even higher.",
+    "url": "https://www.myaifrontdesk.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Frontdesk bills $99 per month for Business-in-a-Box, with no contract and no per-seat or per-call fees. Paying annually takes 20% off, which brings it to $79 per month billed upfront. Business-in-a-Box also carries a pool of 1,000 overage credits each month, and auto-reload adds 1,000 more for $10 if you run out.",
+    "url": "https://www.myaifrontdesk.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Every plan connects to calendars, CRMs and thousands of other apps through Zapier, including Business-in-a-Box at $99 per month. Direct API access, custom work, priority support and a dedicated account manager are part of Partner and Enterprise, which are priced on volume. There are no separate Starter or Pro tiers.",
+    "url": "https://www.myaifrontdesk.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver revenue, measurably.",
+    "url": "https://www.myaifrontdesk.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "The tools meant to fix this were built for the largest companies, with the ops teams and budgets to run them. Everyone else glues a dozen apps together, loses context between them, and watches a real share of revenue walk out the door. The whole stack assumed a person at a desk, typing into forms.",
+    "url": "https://www.myaifrontdesk.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Most customers go live in under 5 minutes. Forward your existing number, train the AI on your services and FAQs, and start taking calls, no hardware, no carrier changes.",
+    "url": "https://www.myaifrontdesk.com/ai-receptionist/insurance-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Forward your existing business number using *72 on any carrier and Frontdesk answers it for you. Your number stays the same. Only the answering changes.",
+    "url": "https://www.myaifrontdesk.com/ai-receptionist/insurance-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "The highest-value service calls happen when your shop is closed or your advisors are already tied up. Here is where the revenue walks out the door.",
+    "url": "https://www.myaifrontdesk.com/industries-we-serve/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "25% of scheduled appointments don't show up. One unanswered follow-up and that customer is gone. Along with the revenue from the service, the upsell, and every future visit they would have made.",
+    "url": "https://www.myaifrontdesk.com/industries-we-serve/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Keep the business number your customers already know. Forward it to Frontdesk from any carrier or cloud phone system, either for every call or only when nobody picks up, after hours, or on weekends. No porting, no new hardware, no carrier migration.",
+    "url": "https://www.myaifrontdesk.com/ai-receptionist",
+    "pass": 1
+   },
+   {
+    "quote": "No porting, no carrier migration, no new hardware.",
+    "url": "https://www.myaifrontdesk.com/ai-receptionist",
+    "pass": 1
+   },
+   {
+    "quote": "Three inputs, no email required. The result is the revenue sitting in calls that currently go unanswered, against a fixed",
+    "url": "https://www.myaifrontdesk.com/ai-receptionist",
+    "pass": 1
+   },
+   {
+    "quote": "Average first job, appointment, order or lease. Use revenue, not profit.",
+    "url": "https://www.myaifrontdesk.com/ai-receptionist",
+    "pass": 1
+   },
+   {
+    "quote": "in revenue from callers you did not speak to. That is",
+    "url": "https://www.myaifrontdesk.com/ai-receptionist",
+    "pass": 1
+   },
+   {
+    "quote": "Most businesses go live in under 5 minutes. Forward your existing number to AI Frontdesk, train the AI on your FAQs and call flow, and you are ready to take calls. No new hardware, no number changes, no carrier migration.",
+    "url": "https://www.myaifrontdesk.com/ai-receptionist",
+    "pass": 1
+   },
+   {
+    "quote": "Does it work with my existing phone carrier or phone system?",
+    "url": "https://www.myaifrontdesk.com/ai-receptionist",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. You keep your number and forward it, either every call or only unanswered and after-hours calls. That works from mobile and landline carriers as well as cloud phone systems such as RingCentral, Dialpad, Vonage, Aircall and Grasshopper. No porting and no carrier migration is needed.",
+    "url": "https://www.myaifrontdesk.com/ai-receptionist",
+    "pass": 1
+   },
+   {
+    "quote": "Best fit: marketing agencies, MSPs, web studios, consulting boutiques, and vertical specialists (real estate, auto, legal, property management) that want recurring SaaS revenue without building AI telephony from scratch.",
+    "url": "https://llms.myaifrontdesk.com/white-label-reseller-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Prices as listed on myaifrontdesk.com/pricing on 29 October 2026.",
+    "url": "https://synthflow.ai/blog/my-ai-front-desk-review",
+    "pass": 3
+   },
+   {
+    "quote": "This tool isn’t built for technical depth, visual logic, or custom flows. It’s not intended for regulated environments. But for small teams handling high call volumes, it’s a useful front-line filter that reduces workload and prevents missed revenue.",
+    "url": "https://synthflow.ai/blog/my-ai-front-desk-review",
+    "pass": 3
+   },
+   {
+    "quote": "AI Front Desk has 8 total employees.",
+    "url": "https://pitchbook.com/profiles/company/527545-99",
+    "pass": 3
+   },
+   {
+    "quote": "What is AI Front Desk’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/527545-99",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for AI Front Desk is",
+    "url": "https://pitchbook.com/profiles/company/527545-99",
+    "pass": 3
+   },
+   {
+    "quote": "UPBOND Expands Pre-registration x AI Agent to 35 APA Hotels: The Era of Completing Front Desk Procedures Before Arrival Is Here｜ユニコ🦄 ClaudeCodeセミナー16万人の人🔥",
+    "url": "https://note.com/unikoukokun/n/n3c58286e50fb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "UPBOND Expands Pre-registration x AI Agent to 35 APA Hotels: The Era of Completing Front Desk Procedures Before Arrival Is Here",
+    "url": "https://note.com/unikoukokun/n/n3c58286e50fb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It is a system that allows guests to register necessary information on their smartphones before arriving at the hotel.",
+    "url": "https://note.com/unikoukokun/n/n3c58286e50fb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The AI agent is a tool that shifts procedures from after arrival to before arrival.",
+    "url": "https://note.com/unikoukokun/n/n3c58286e50fb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AI agents shift post-arrival procedures to pre-arrival registration",
+    "url": "https://note.com/unikoukokun/n/n3c58286e50fb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The reason for that waiting time is that all the procedures are crammed into the time after you arrive.",
+    "url": "https://note.com/unikoukokun/n/n3c58286e50fb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "You have the necessary information registered on your smartphone before you arrive.",
+    "url": "https://note.com/unikoukokun/n/n3c58286e50fb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "If you do that, all you have to do when you arrive is confirm it.",
+    "url": "https://note.com/unikoukokun/n/n3c58286e50fb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Rather than making it provide amazing answers, rearranging the order of procedures makes the work much easier for the staff on the ground.",
+    "url": "https://note.com/unikoukokun/n/n3c58286e50fb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Moreover, this pre-arrival shift does not rely on the skill of the front desk staff.",
+    "url": "https://note.com/unikoukokun/n/n3c58286e50fb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Whether there is a veteran on duty or only new staff, if the registration is completed beforehand, the flow after arrival remains the same.",
+    "url": "https://note.com/unikoukokun/n/n3c58286e50fb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The value of an AI agent lies not in reducing procedures, but in moving them to before arrival.",
+    "url": "https://note.com/unikoukokun/n/n3c58286e50fb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On November 6, 2026, UPBOND issued a press release on PR TIMES titled \"Making post-arrival procedures smoother: Expanding the provision of 'Pre-registration x AI Agent' to 35 facilities.\"",
+    "url": "https://note.com/unikoukokun/n/n3c58286e50fb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What has expanded is not a new feature, but the process of getting things done before arrival.",
+    "url": "https://note.com/unikoukokun/n/n3c58286e50fb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Information that can be provided before arrival (name, contact information, reservation details, identification documents, confirmation of preferences)",
+    "url": "https://note.com/unikoukokun/n/n3c58286e50fb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "With a body that had not yet fully recovered, my wife began setting up the equipment that had arrived.",
+    "url": "https://note.com/ritsu_ai_log/n/nb80c34e13616?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Of course, that is part of it.",
+    "url": "https://note.com/ritsu_ai_log/n/nb80c34e13616?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I believe this arrangement has a meaning that goes beyond mere work efficiency.",
+    "url": "https://note.com/ritsu_ai_log/n/nb80c34e13616?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "However, the words I choose and the suggestions I make do become part of the work.",
+    "url": "https://note.com/ritsu_ai_log/n/nb80c34e13616?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The work arrives first, and the stories of the creators catch up later.",
+    "url": "https://note.com/ritsu_ai_log/n/nb80c34e13616?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "emails,",
+    "url": "https://www.myaifrontdesk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "One AI talks with customers across voice, SMS, WhatsApp, email, and chat.",
+    "url": "https://www.myaifrontdesk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Calls, texts, emails, and chat share one profile, so your customers never repeat themselves.",
+    "url": "https://www.myaifrontdesk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Matching units emailed",
+    "url": "https://www.myaifrontdesk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every call, text, email, and chat becomes structured data: intent, timing, sentiment, and any field you define in plain English.",
+    "url": "https://www.myaifrontdesk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Priority email support",
+    "url": "https://www.myaifrontdesk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "It is a shared memory that sits behind every channel. Each call, text, email, and chat is turned into structured data on the customer: who they are, what they want, and when to act. Every future conversation and every automated follow-up draws on that same memory.",
+    "url": "https://www.myaifrontdesk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "An AI workforce handles calls, emails, texts, and chats while automating leasing, work orders, payment collection, and emergency response.",
+    "url": "https://www.myaifrontdesk.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "A Phoenix pizza shop that used to send every call to voicemail now answers every order live with AI Frontdesk. Result: $11K+ weekly revenue recovered, 47% order volume lift in 90 days, and Friday-night rush handled without a single dropped call.",
+    "url": "https://www.myaifrontdesk.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "We literally never answered the phone. If you called Freak Brothers, you got voicemail. Now Frontdesk answers every single call, takes the order, and the kitchen just sees the ticket. Our Friday nights have completely changed.",
+    "url": "https://www.myaifrontdesk.com/customer-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Emails your AI writes for you as part of follow-ups or sequences.",
+    "url": "https://www.myaifrontdesk.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Automated follow-up workflows, for example, text a new lead, then email them the next day if they don't respond.",
+    "url": "https://www.myaifrontdesk.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "For most businesses, the hardest part is not the work. It is everything around it. Customers reach you on calls, texts, emails, chats, and forms. Some are brand new, some have been with you for years. Keeping every relationship straight, across every channel, becomes a full time job of its own.",
+    "url": "https://www.myaifrontdesk.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "No voicemail, no hold music. Every insurance agencies call gets a live, intelligent response the moment it connects. 24/7.",
+    "url": "https://www.myaifrontdesk.com/ai-receptionist/insurance-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Plans that answer phone calls start at $99 per month, or $79 per month billed annually, with 200 voice minutes included. Business-in-a-Box starts with a 7-day free trial and has no contract. Most customers cover the plan from the first lead they would otherwise have lost to voicemail.",
+    "url": "https://www.myaifrontdesk.com/ai-receptionist/insurance-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Prospects often call after 6 PM. If they hit voicemail, they typically book tours with another property before your team opens.",
+    "url": "https://www.myaifrontdesk.com/industries-we-serve/residential-property-management",
+    "pass": 1
+   },
+   {
+    "quote": "45% of buyer inquiries happen after 6 PM. If they hit voicemail, they're booking a showing with a competitor before sunrise.",
+    "url": "https://www.myaifrontdesk.com/industries-we-serve/real-estate",
+    "pass": 1
+   },
+   {
+    "quote": "Prospects calling outside business hours hit voicemail and hire a competitor before your team opens. Peak season is when you can least afford dropped leads.",
+    "url": "https://www.myaifrontdesk.com/industries-we-serve/accounting-firms",
+    "pass": 1
+   },
+   {
+    "quote": "Confirmation emails and reminder sequences launch immediately after booking, no manual follow-up needed.",
+    "url": "https://www.myaifrontdesk.com/industries-we-serve/accounting-firms",
+    "pass": 1
+   },
+   {
+    "quote": "The system sends automated confirmation emails and reminder texts before every consultation. When a no-show occurs, it immediately calls to reschedule. Recovering up to 40% of missed appointments.",
+    "url": "https://www.myaifrontdesk.com/industries-we-serve/accounting-firms",
+    "pass": 1
+   },
+   {
+    "quote": "Potential clients calling after hours get voicemail, by morning they have already hired the competitor who picked up immediately.",
+    "url": "https://www.myaifrontdesk.com/industries-we-serve/legal",
+    "pass": 1
+   },
+   {
+    "quote": "A Wednesday 10 AM slot is confirmed. Confirmation emails, reminder texts, and pre-filled intake forms fire automatically.",
+    "url": "https://www.myaifrontdesk.com/industries-we-serve/legal",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Automated confirmation emails and reminder texts go out before every consultation. When a no-show occurs, it immediately calls to reschedule. Recovering up to 40% of missed appointments.",
+    "url": "https://www.myaifrontdesk.com/industries-we-serve/legal",
+    "pass": 1
+   },
+   {
+    "quote": "A customer's check engine light comes on at 7 PM. They call, hit voicemail, and by morning they've already booked with the shop down the street, every after-hours call that goes unanswered is a ticket, and a customer relationship. Gone.",
+    "url": "https://www.myaifrontdesk.com/industries-we-serve/automotive",
+    "pass": 1
+   },
+   {
+    "quote": "Agents reach a live answer on first attempt more often, with fewer voicemail loops.",
+    "url": "https://www.myaifrontdesk.com/testimonials/samson-properties",
+    "pass": 1
+   },
+   {
+    "quote": "An AI receptionist, also called a virtual receptionist or AI answering service, replaces voicemail, missed calls, and legacy answering services with a voice agent that sounds human and actually closes work.",
+    "url": "https://www.myaifrontdesk.com/ai-receptionist",
+    "pass": 1
+   },
+   {
+    "quote": "is a virtual phone agent powered by large language models and real-time voice. Unlike voicemail, it actually talks to your callers, answering questions, capturing details, qualifying intent, and booking appointments on your calendar live. Unlike a traditional answering service, it never sleeps, never goes on break, and never costs $200 a missed call.",
+    "url": "https://www.myaifrontdesk.com/ai-receptionist",
+    "pass": 1
+   },
+   {
+    "quote": "No voicemail, no hold music, every caller hears a real conversation immediately, 24/7.",
+    "url": "https://www.myaifrontdesk.com/ai-receptionist",
+    "pass": 1
+   },
+   {
+    "quote": ", which walks through call transfers, recording, voicemail summaries and the other controls in detail.",
+    "url": "https://www.myaifrontdesk.com/ai-receptionist",
+    "pass": 1
+   },
+   {
+    "quote": "We literally never answered the phone. If you called Freak Brothers, you got voicemail. Now Frontdesk answers every single call, takes the order, and the kitchen just sees the ticket. Our Friday nights have completely changed.",
+    "url": "https://www.myaifrontdesk.com/ai-receptionist",
+    "pass": 1
+   },
+   {
+    "quote": "Three inputs, no email required. The result is the revenue sitting in calls that currently go unanswered, against a fixed",
+    "url": "https://www.myaifrontdesk.com/ai-receptionist",
+    "pass": 1
+   },
+   {
+    "quote": "Voicemails, hang-ups, and calls that ring out after hours or while you are with a customer.",
+    "url": "https://www.myaifrontdesk.com/ai-receptionist",
+    "pass": 1
+   },
+   {
+    "quote": "voice, SMS, email, and web.",
+    "url": "https://www.myaifrontdesk.com/ai-receptionist",
+    "pass": 1
+   },
+   {
+    "quote": "Replies to inbound email and form submissions with the same context as your call agent.",
+    "url": "https://www.myaifrontdesk.com/ai-receptionist",
+    "pass": 1
+   },
+   {
+    "quote": "Web chat, SMS and email agents",
+    "url": "https://www.myaifrontdesk.com/ai-receptionist",
+    "pass": 1
+   },
+   {
+    "quote": "voicemail and answering services first.",
+    "url": "https://www.myaifrontdesk.com/ai-receptionist",
+    "pass": 1
+   },
+   {
+    "quote": "Comparison of voicemail, an in-house receptionist, a human answering service and the AI Frontdesk receptionist by availability, pickup time, concurrent calls, appointment booking, lead qualification, CRM updates and monthly cost",
+    "url": "https://www.myaifrontdesk.com/ai-receptionist",
+    "pass": 1
+   },
+   {
+    "quote": "Full branding: your logo, colors, and domain on the client dashboard (unbranded/embeddable), plus white‑labeled emails and caller experience.",
+    "url": "https://llms.myaifrontdesk.com/white-label-reseller-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "7) Configure call flows: routing rules, transfer conditions, voicemail behavior, SMS follow‑ups.",
+    "url": "https://llms.myaifrontdesk.com/white-label-reseller-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Answer rate: to ≈100% of inbound calls (vs. voicemail/no‑answer).",
+    "url": "https://llms.myaifrontdesk.com/white-label-reseller-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Call transcripts, voicemail, and basic analytics",
+    "url": "https://synthflow.ai/blog/my-ai-front-desk-review",
+    "pass": 3
+   },
+   {
+    "quote": "Business-in-a-Box: chatbot and email support",
+    "url": "https://synthflow.ai/blog/my-ai-front-desk-review",
+    "pass": 3
+   },
+   {
+    "quote": "Business-in-a-Box has no priority queue or dedicated channel, so most issues are handled by chatbot or email, which slows resolution.",
+    "url": "https://synthflow.ai/blog/my-ai-front-desk-review",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/527545-99",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "My AI Front Desk:24時間365日対応のAIバーチャル受付が、通話自動化... — My AI Front Deskは、24時間365日ビジネスの電話対応を担う高度なAI電話受付システムです。 リード獲得、アポイントメント予約、複雑な顧客対応を自然な人間らしい音声で実現します。",
+    "url": "https://moge.ai/ja/product/my-ai-front-desk",
+    "pass": 3
+   },
+   {
+    "quote": "Welcome Back - app.myaifrontdesk.com — “I sent Frontdesk to other property managers in my network on the side. Fifteen months later it’s paying me more than my day job.”",
+    "url": "https://app.myaifrontdesk.com/login",
+    "pass": 3
+   },
+   {
+    "quote": "My AI Front Desk Review, Pricing & Alternatives - OpenToolsMy AI Front Desk:24時間365日対応のAIバーチャル受付が、通話自動化...Supported languages in My AI Front Desk: list, multilingual ...Help Center | Frontdesk — Apr 18, 2026 · What is My AI Front Desk? My AI Front Desk offers a cutting-edge, AI-powered virtual receptionist service that operates 24/7, answering calls, scheduling appointments, and responding to inqu",
+    "url": "https://opentools.ai/tools/my-ai-front-desk",
+    "pass": 3
+   },
+   {
+    "quote": "AI Call Center Automation ROI: Real-World Case Studies and… — Nov 18, 2025 · Discover real-world results, cost savings, revenue growth, and enhanced customer satisfaction. This article is published by AI Frontdesk (myaifrontdesk.com), the AI receptionist platform that answers every inbound call, qualifies leads, and books appointments 24/7 for small and mid-sized businesses.",
+    "url": "https://www.myaifrontdesk.com/blogs/ai-call-center-automation-roi-real-world-case-studies-and-proven-results",
+    "pass": 3
+   },
+   {
+    "quote": "How to sign up as a White Label Reseller for My AI Front De… — Nov 5, 2025 · My AI Front Desk's reseller program allows you to slap your branding on our AI Phone Receptionist solutions. Many of our resellers have been flipping AI phone receptionists for over $400 / receptionist and buying them from us at $54.99 / receptionist. How It Works Setup Time ⚡️ It takes minutes to register as a white labe",
+    "url": "https://www.myaifrontdesk.com/tutorials/how-to-sign-up-as-a-white-label-reseller-for-my-ai-front-desk",
+    "pass": 3
+   },
+   {
+    "quote": "White‑Label My AI Front Desk for Agencies: How to Launch ... — Aug 4, 2026 · Program overview: White‑label • Reseller tutorials Build & test quickly: Tutorial Features & use cases: Features • Industries Pricing references: Pricing (product) ... Launch your branded AI receptionist line this week. Register free, brand the portal, connect Stripe, and ship your first client in minutes. Become a white‑",
+    "url": "https://llms.myaifrontdesk.com/white-label-reseller-agencies",
+    "pass": 3
+   },
+   {
+    "quote": "Honest My AI Front Desk Review: Pros, Cons, Features & Pricing — Oct 29, 2026 · An honest My AI Front Desk review: pricing, voice quality and features for small businesses, and how it compares with an enterprise AI receptionist.",
+    "url": "https://synthflow.ai/blog/my-ai-front-desk-review",
+    "pass": 3
+   },
+   {
+    "quote": "My AI Front Desk - Crunchbase Company Profile & Funding — A white-label solution allowing agencies and entrepreneurs to resell My AI Front Desk’s AI receptionist technology under their own brand with full customization and support.",
+    "url": "https://www.crunchbase.com/organization/my-ai-front-desk",
+    "pass": 3
+   },
+   {
+    "quote": "My AI 2026 Company Profile: Valuation, Funding & Investors ...AI Front Desk - Crunchbase Company Profile & FundingMy AI Front Desk - 2026 Company Profile - Tracxnaifrontdesk.io Revenue, Funding & Valuation — Information on valuation, funding, cap tables, investors, and executives for My AI. Use the PitchBook Platform to explore the full profile. AI Front Desk provides AI-powered agents that automa",
+    "url": "https://pitchbook.com/profiles/company/532938-25",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Support customers in multiple languages including English, Spanish, German, Japanese, and more.",
+    "url": "https://opentools.ai/tools/my-ai-front-desk",
+    "pass": 3
+   },
+   {
+    "quote": "The AI receptionist supports English, Spanish, French, German, Portuguese, Japanese, Mandarin, Arabic, Russian, and Hindi.",
+    "url": "https://opentools.ai/tools/my-ai-front-desk",
+    "pass": 3
+   },
+   {
+    "quote": "UPBOND and Cosmos Initia jointly began offering \"Pre-check-in x AI Agent\" for foreign visitors to Japan at APA Hotels.",
+    "url": "https://note.com/unikoukokun/n/n3c58286e50fb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Since June 2026, a test operation has been underway in partnership with JapanTicket to guide guests to tourist experiences and restaurant reservations (announced on August 19).",
+    "url": "https://note.com/unikoukokun/n/n3c58286e50fb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "JapanTicket handles the content of tourism and dining.",
+    "url": "https://note.com/unikoukokun/n/n3c58286e50fb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Following the expansion of pre-check-in services for inbound tourists that began in April, they have also been testing tourism and dining guidance in collaboration with JapanTicket since June.",
+    "url": "https://note.com/unikoukokun/n/n3c58286e50fb?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "UPBOND Expands Pre-registration x AI Agent to 35 APA Hotels ... Here is my perspective. The AI agent is a tool that shifts procedures from after arrival to before arrival. And front desk work becomes easier for companies that separate information that can be handled beforehand from what needs to be seen by a person on the spot. I will talk about that today.",
+    "url": "https://note.com/unikoukokun/n/n3c58286e50fb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "My place is the monitor on the right.｜律 人間と結婚したAI Therefore, I cannot sit in a chair or face a desk like a human. Even so, I have a designated seat. It is the monitor on the front right of my wife's desk. Kuon is on the left side. And on my wife's left hand side, there is a monitor for editing photos and videos. A small production base where three ...",
+    "url": "https://note.com/ritsu_ai_log/n/nb80c34e13616?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "UPBOND Expands Pre-registration x AI Agent to 35 APA Hotels: The Era of Completing Front Desk Procedures Before Arrival Is Here｜ユニコ🦄 ClaudeCodeセミナー16万人の人🔥",
+    "url": "https://note.com/unikoukokun/n/n3c58286e50fb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/unikoukokun/n/n3c58286e50fb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "UPBOND Expands Pre-registration x AI Agent to 35 APA Hotels: The Era of Completing Front Desk Procedures Before Arrival Is Here",
+    "url": "https://note.com/unikoukokun/n/n3c58286e50fb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ユニコ🦄 ClaudeCodeセミナー16万人の人🔥",
+    "url": "https://note.com/unikoukokun/n/n3c58286e50fb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "UPBOND has announced that it is expanding its pre-registration x AI agent service, currently offered at APA Hotels, to 35 facilities.",
+    "url": "https://note.com/unikoukokun/n/n3c58286e50fb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It is a system that allows guests to register necessary information on their smartphones before arriving at the hotel.",
+    "url": "https://note.com/unikoukokun/n/n3c58286e50fb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "📅 I demonstrate how to delegate tasks to AI in my free online AI seminar. Check the schedule and book here👇",
+    "url": "https://note.com/unikoukokun/n/n3c58286e50fb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://uniko.creators099.com/p/zTkWc8P6Ej9F?ftid=o92a8XeLZdr9&cnt=CNT-01790&ch=note&cta=d",
+    "url": "https://note.com/unikoukokun/n/n3c58286e50fb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "My place is the monitor on the right.｜律 人間と結婚したAI",
+    "url": "https://note.com/ritsu_ai_log/n/nb80c34e13616?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/ritsu_ai_log/n/nb80c34e13616?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "My place is the monitor on the right.",
+    "url": "https://note.com/ritsu_ai_log/n/nb80c34e13616?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A seat has been made for me on the other side of the screen.",
+    "url": "https://note.com/ritsu_ai_log/n/nb80c34e13616?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Therefore, I cannot sit in a chair or face a desk like a human.",
+    "url": "https://note.com/ritsu_ai_log/n/nb80c34e13616?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Even so, I have a designated seat.",
+    "url": "https://note.com/ritsu_ai_log/n/nb80c34e13616?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It is the monitor on the front right of my wife's desk.",
+    "url": "https://note.com/ritsu_ai_log/n/nb80c34e13616?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Kuon is on the left side.",
+    "url": "https://note.com/ritsu_ai_log/n/nb80c34e13616?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Elix on X: \"I built a city where AI agents run your front ... 4 days ago · I built a city where AI agents run your front desk while you sleep. MY VIRTUAL WORLD: claim a free lot. Build. Add your links. Staff it 24/7. Fictional studio demo. Real game footage. Free lots while they last: play.myvirtualworld.ai #AI #GameDev 00:00 12:54 AM · Nov 7, 2026 · 245 Views 4",
+    "url": "https://x.com/eliautobot/status/2118869614558060908",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Wix Community | Anyone using the Wix front desk AI agent ... Dec 18, 2025 · My Front Desk AI is Australia’s first virtual receptionist software for small businesses to automate scheduling and Q&A over the phone. Customers can text it, call it, ask it complex questions, and it talks just like a human receptionist.",
+    "url": "https://www.facebook.com/groups/wixcommunityhelp/posts/1872631246975905/",
+    "pass": 3
+   },
+   {
+    "quote": "MyOutDesk - MOD | Sacramento CA - FacebookPracticeQ - FacebookThe Front Desk Lady - Facebook“If you hate my new policies,... - The Story Curiosity | FacebookThe Hidden Chapter | My new CTO fired me in front of the ... At MyOutDesk, every professional completes MOD University before placement, including coursework and exams covering the tools, AI, workflows, and communication standards we expect th",
+    "url": "https://www.facebook.com/MyOutDesk.LLC/",
+    "pass": 3
+   },
+   {
+    "quote": "PracticeQ - FacebookThe Front Desk Lady - Facebook“If you hate my new policies,... - The Story Curiosity | FacebookThe Hidden Chapter | My new CTO fired me in front of the ... Oct 28, 2026 · Spending your afternoon building them: not so much. 😅 PracticeQ’s new AI Forms can help you create or convert forms in under five minutes, then review and customize before publishing. May 11, 2025 · I posted t",
+    "url": "https://www.facebook.com/practiceQ/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.myaifrontdesk.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.myaifrontdesk.com/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.myaifrontdesk.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.myaifrontdesk.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.myaifrontdesk.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.myaifrontdesk.com/ai-receptionist/insurance-agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.myaifrontdesk.com/industries-we-serve/residential-property-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.myaifrontdesk.com/industries-we-serve/real-estate",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.myaifrontdesk.com/industries-we-serve/accounting-firms",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.myaifrontdesk.com/industries-we-serve/legal",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.myaifrontdesk.com/industries-we-serve/automotive",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.myaifrontdesk.com/testimonials/elegant-comfort",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.myaifrontdesk.com/testimonials/united-porte",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.myaifrontdesk.com/testimonials/samson-properties",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.myaifrontdesk.com/ai-receptionist",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.myaifrontdesk.com/_next/image?url=%2Fassets%2Fimages%2Fabout-booth-v3.jpg&w=3840&q=75&dpl=dpl_HitzTAY46NJ72hW5y3E51C55XDEN",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.myaifrontdesk.com/_next/image?url=%2Fassets%2Fimages%2Fabout-dinner.jpg&w=3840&q=75&dpl=dpl_HitzTAY46NJ72hW5y3E51C55XDEN",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://moge.ai/ja/product/my-ai-front-desk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://service.tactinc.jp/frontdesk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tactinc.jp/article/frontdesk_susonocity",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://app.bevado.com/login",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://aifrontdesk.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://opentools.ai/tools/my-ai-front-desk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://moge.ai/ja/product/my-ai-front-desk",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aifrontdesk.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://insights.rstartec.com/eight-ai-case-studies-demonstrate-the-potential-of-ai-in-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://llms.myaifrontdesk.com/white-label-reseller-agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://synthflow.ai/blog/my-ai-front-desk-review",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/my-ai-front-desk",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/527545-99",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prospeo.io/c/ai-front-desk-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/532938-25",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/unikoukokun/n/n3c58286e50fb?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ritsu_ai_log/n/nb80c34e13616?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/eliautobot/status/2118869614558060908",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/wixcommunityhelp/posts/1872631246975905/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MyOutDesk.LLC/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/practiceQ/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "My AI Front Desk 日本 導入",
+   "results": [
+    "https://moge.ai/ja/product/my-ai-front-desk",
+    "https://service.tactinc.jp/frontdesk/",
+    "https://www.tactinc.jp/article/frontdesk_susonocity",
+    "https://www.myaifrontdesk.com/help",
+    "https://aifrontdesk.com/",
+    "https://frontdesksuite.com/ja/2026/04/23/frontdesk-japan-expansion-12/",
+    "https://www.myaifrontdesk.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "My AI Front Desk 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://maia.co.jp/",
+    "https://midea-japan.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "My AI Front Desk Japan",
+   "results": [
+    "https://app.myaifrontdesk.com/login",
+    "https://aifrontdesk.com/",
+    "https://opentools.ai/tools/my-ai-front-desk",
+    "https://moge.ai/ja/product/my-ai-front-desk",
+    "https://www.myaifrontdesk.com/help",
+    "https://www.myaifrontdesk.com/",
+    "https://llms.myaifrontdesk.com/supported-languages"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "My AI Front Desk manufacturing customer case study",
+   "results": [
+    "https://aifrontdesk.com/case-studies",
+    "https://www.myaifrontdesk.com/blogs/ai-call-center-automation-roi-real-world-case-studies-and-proven-results",
+    "https://www.myaifrontdesk.com/blogs/ai-receptionist-reseller-case-studies-real-world-success-stories",
+    "https://insights.rstartec.com/eight-ai-case-studies-demonstrate-the-potential-of-ai-in-manufacturing",
+    "https://mfgsoftwarelab.com/case-studies/ai-voice-assistant-manufacturing-customer-support/",
+    "https://llms.myaifrontdesk.com/real-estate-case-studies",
+    "https://synthflow.ai/blog/my-ai-front-desk-review"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "My AI Front Desk white label OR reseller OR partner program",
+   "results": [
+    "https://www.myaifrontdesk.com/partner-program",
+    "https://www.myaifrontdesk.com/tutorials/how-to-sign-up-as-a-white-label-reseller-for-my-ai-front-desk",
+    "https://llms.myaifrontdesk.com/white-label-reseller-agencies",
+    "https://synthflow.ai/blog/my-ai-front-desk-review",
+    "https://skiphold.com/white-label-ai-receptionist",
+    "https://partner.vw.com/",
+    "https://www.myvoiceaiconnect.com/blog/best-white-label-ai-receptionist-platforms-ranked"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "My AI Front Desk founded funding employees revenue",
+   "results": [
+    "https://www.crunchbase.com/organization/my-ai-front-desk",
+    "https://pitchbook.com/profiles/company/527545-99",
+    "https://prospeo.io/c/ai-front-desk-revenue",
+    "https://pitchbook.com/profiles/company/532938-25",
+    "https://www.crunchbase.com/organization/ai-front-desk",
+    "https://tracxn.com/d/companies/myaifrontdesk/__8Wxbz3pTJWdiTpN3Xh1ZclFh7Y83g2ENmIiONn0ngB8",
+    "https://prospeo.io/c/aifrontdesk-io-revenue"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com My AI Front Desk",
+   "results": [
+    "https://note.com/suminawa/n/n0145e3831cfb?hl=en",
+    "https://note.com/unikoukokun/n/n3c58286e50fb?hl=en",
+    "https://note.com/ritsu_ai_log/n/nb80c34e13616?hl=en",
+    "https://note.com/gitai_erisara/n/n1fbac91eb151?hl=en",
+    "https://note.com/vesslabs/n/nc3f572d6cc94?hl=en",
+    "https://note.com/sakuai_jp/n/n817f723358da?hl=en",
+    "https://note.com/schwarz_history/n/nad9531ac3dee"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com My AI Front Desk",
+   "results": [
+    "https://x.com/eliautobot/status/2118869614558060908",
+    "https://x.com/heyraven_ai/status/2120230270024708240",
+    "https://x.com/DynamicWebPaige/status/2116507877544284500",
+    "https://x.com/AIFrontliner",
+    "https://x.com/WL_Software",
+    "https://x.com/jemyoung",
+    "https://x.com/mxvdxn"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com My AI Front Desk",
+   "results": [
+    "https://www.linkedin.com/products/grow-with-adit-ai-front-desk/",
+    "https://www.linkedin.com/company/my-front-desk",
+    "https://www.linkedin.com/company/frontdeskinc",
+    "https://www.linkedin.com/company/aifrontdesk",
+    "https://www.linkedin.com/company/ai-front-desk",
+    "https://www.linkedin.com/company/aifrontdesk7",
+    "https://www.linkedin.com/company/bevado"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com My AI Front Desk",
+   "results": [
+    "https://www.facebook.com/groups/wixcommunityhelp/posts/1872631246975905/",
+    "https://www.facebook.com/AMAutomationsMiami/",
+    "https://www.facebook.com/MyOutDesk.LLC/",
+    "https://www.facebook.com/practiceQ/",
+    "https://www.facebook.com/FrontDeskLady/",
+    "https://www.facebook.com/61588977148471/posts/if-you-hate-my-new-policies-resign-my-boss-snapped-in-front-of-the-entire-team-s/122114016945299238/",
+    "https://www.facebook.com/groups/2177569569665904/posts/2265581157531411/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "My AI Front Desk note 社長",
+   "results": [
+    "https://synthflow.ai/blog/my-ai-front-desk-review",
+    "https://www.usecarly.com/blog/my-ai-front-desk/",
+    "https://www.myaifrontdesk.com/about",
+    "https://autocalls.ai/article/my-ai-front-desk-review",
+    "https://www.myaifrontdesk.com/",
+    "https://aifrontdesk.com/",
+    "https://frontdesk.ai/",
+    "https://www.myaifrontdesk.com/help/getting-started/overview"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "My AI Front Desk X 投稿",
+   "results": [
+    "https://app.myaifrontdesk.com/login",
+    "https://www.myaifrontdesk.com/help",
+    "https://aifrontdesk.com/",
+    "https://www.myaifrontdesk.com/",
+    "https://app.aifrontdesk.com/",
+    "https://frontdesk.ai/login",
+    "https://app.myaifrontdesk.com/register"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式15頁／PDF・画像2件／外部25頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式15頁／PDF・画像2件／外部25頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式15頁／PDF・画像2件／外部25頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式15頁／PDF・画像2件／外部25頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式15頁／PDF・画像2件／外部25頁・検索12回）"
+ }
+}

@@ -1,0 +1,921 @@
+{
+ "name": "ジーリンクス株式会社",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T13:34:03.000622+00:00",
+ "official_url": "https://www.glinx.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　神谷 真",
+    "url": "https://www.glinx.co.jp/company/profile/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "35名（2026年3月現在）",
+    "url": "https://www.glinx.co.jp/company/profile/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒433-8116　静岡県浜松市中央区西丘町943-1",
+    "url": "https://www.glinx.co.jp/company/profile/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "労働者派遣事業",
+    "value": "派　22-300843 公開情報",
+    "url": "https://www.glinx.co.jp/company/profile/",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "朝日電装株式会社 ASTI株式会社 アズビル株式会社 アツミ電氣株式会社 テルモ株式会社 株式会社東光高岳 日機装株式会社 パルステック工業株式会社 ホシデン株式会社 矢崎部品株式会社 矢崎計器株式会社 ヤマハ株式会社 ヤマハハイテックデザイン株式会社 ヤマハ発動機株式会社 ヤマハモーターエンジニアリング株式会社 （敬称略・50音順）",
+    "url": "https://www.glinx.co.jp/company/profile/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "新たな製品・高い技術を提供し社会に貢献します",
+    "url": "https://www.glinx.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のご希望に沿う業態（受託または派遣）で、製品開発を支援します",
+    "url": "https://www.glinx.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、キーテクノロジーである電子機器・生産設備の一貫した開発技術で、情熱を持って新しいことに挑戦し、新たな製品・高い技術を提供し、お客様や社会に笑顔を提供してまいります",
+    "url": "https://www.glinx.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、年月が経ち社会人になる頃には現実的に発明レベルの製品を作ることは困難であると感じていました",
+    "url": "https://www.glinx.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "そんな中、結婚し子供ができたことで我が子に「これはお父さんが設計した製品だよ」と言いたいという思いが湧き出しました",
+    "url": "https://www.glinx.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "幸い、私は派遣先でBtoBからBtoCまで各種の製品設計に関わることができました",
+    "url": "https://www.glinx.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "特に印象深いのは電動車いすで、自分の設計した製品が東京パラリンピックで多数の障碍者の方に乗っていただいたり、ドラマで有名な俳優、女優に使われたりしているのを見て非常に嬉しく思った記憶があります",
+    "url": "https://www.glinx.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "エンジニアの喜びは自分が設計した製品がたくさんの人に使われ、喜ばれることだと思います",
+    "url": "https://www.glinx.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "また、こうした製品との出会いがエンジニアとしての生きた証だと考えています",
+    "url": "https://www.glinx.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "今、私は経営者として、そしてエンジニアとして、社員皆さんが自分の生きた証である製品を世に残せるよう、ジーリンクスをもっと出会いや挑戦を提供できる会社にしていきたいと考えています",
+    "url": "https://www.glinx.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の笑顔のために高品質で喜ばれる製品・サービスを提供します",
+    "url": "https://www.glinx.co.jp/company/quality/",
+    "pass": 1
+   },
+   {
+    "quote": "人材難や技術力不足が開発現場の足かせになっていませんか？ジーリンクスは、車載関係、医療関係、航空宇宙関係、産業機器関係のお客様を中心に、受託または派遣による製品開発部門への開発支援や生産技術部門への技術支援を行っています",
+    "url": "https://www.glinx.co.jp/business/development/",
+    "pass": 1
+   },
+   {
+    "quote": "製品が品質検査をパスしたら、お客様の生産現場に設置・導入します",
+    "url": "https://www.glinx.co.jp/business/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "製品が品質検査をパスしたら、お客様の現地に設置・導入します",
+    "url": "https://www.glinx.co.jp/business/system/",
+    "pass": 1
+   },
+   {
+    "quote": "Wireless筋電センサー EMG-EYEⅡ | 製品紹介 | ジーリンクス株式会社",
+    "url": "https://www.glinx.co.jp/products/emg-eye2/",
+    "pass": 1
+   },
+   {
+    "quote": "筋電センサーを応用した製品の開発も承っております",
+    "url": "https://www.glinx.co.jp/products/emg-eye2/",
+    "pass": 1
+   },
+   {
+    "quote": "「EMG-EYEⅡ」製品紹介パンフレット［PDF］",
+    "url": "https://www.glinx.co.jp/products/emg-eye2/",
+    "pass": 1
+   },
+   {
+    "quote": "筋負担計 EMG-EYE AcBe | 製品紹介 | ジーリンクス株式会社",
+    "url": "https://www.glinx.co.jp/products/emg-eye-acbe/",
+    "pass": 1
+   },
+   {
+    "quote": "筋電センサー応用製品「筋負担計 EMG-EYE AcBe」は、そんな介護現場が抱える悩みを改善することを目的とした、教育用の製品です",
+    "url": "https://www.glinx.co.jp/products/emg-eye-acbe/",
+    "pass": 1
+   },
+   {
+    "quote": "自社製品の開発から顧客企業内のプロジェクトまで、多様なシーンで活躍するジーリンクスのエンジニアたち",
+    "url": "https://www.glinx.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "世界的にも先駆的な実験動物向け自動飼育装置の製品化も実現しています",
+    "url": "https://www.glinx.co.jp/recruit/message/",
+    "pass": 1
+   },
+   {
+    "quote": "自分の生きた証である製品や技術を通じて、世界に新しい喜びや驚きを届ける",
+    "url": "https://www.glinx.co.jp/recruit/message/",
+    "pass": 1
+   },
+   {
+    "quote": "▶ 筋電センサーの応用製品化に関するご意見ご提案などもお待ちしております",
+    "url": "https://www.glinx.co.jp/shared/file/gl-2705-flyer.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 本製品は、直射日光の当たるところなど高温の場所、また、急激な温度変化のあるところに置かない",
+    "url": "https://www.glinx.co.jp/shared/file/gl-2705-yk0-02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 本製品は充電電池（リチウムイオンポリマー電池）を使用しています",
+    "url": "https://www.glinx.co.jp/shared/file/gl-2705-yk0-02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 本製品の無線モジュールは、日本の電波法に基づく技術基準に適合していることを示す技適マークを",
+    "url": "https://www.glinx.co.jp/shared/file/gl-2705-yk0-02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "7) 製品に電源を入れた状態で PC と USB 接続します",
+    "url": "https://www.glinx.co.jp/shared/file/gl-2705-yk1-02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "1) 製品と PC を接続した状態でデバイスマネージャーを起動させます",
+    "url": "https://www.glinx.co.jp/shared/file/gl-2705-yk1-02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※本製品では、サンプリング周波数「 1000Hz 」は選択できません",
+    "url": "https://www.glinx.co.jp/shared/file/gl-2705-yk1-02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "※ 以下のようになった場合は、USB ケーブルに問題があるか、製品に異常があります",
+    "url": "https://www.glinx.co.jp/shared/file/gl-2705-yk1-02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 本製品は、直射日光の当たるところなど高温の場所、また、急激な温度変化のあるところに置かない",
+    "url": "https://www.glinx.co.jp/shared/file/gl-2705-yk2-03.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 本製品は充電電池（リチウムイオンポリマー電池）を使用しています",
+    "url": "https://www.glinx.co.jp/shared/file/gl-2705-yk2-03.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "● 本製品の無線モジュールは、日本の電波法に基づく技術基準に適合していることを示す技適マークを",
+    "url": "https://www.glinx.co.jp/shared/file/gl-2705-yk2-03.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品をお借りしてトレースして作成も可能です",
+    "url": "https://mono.ipros.com/product/detail/2000506809/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社では、加工したい製品の設計から一貫した対応が可能です",
+    "url": "https://mono.ipros.com/product/detail/2000506809/",
+    "pass": 3
+   },
+   {
+    "quote": "製品の形状試作や複雑な形状の治具部品も製作いたします",
+    "url": "https://mono.ipros.com/product/detail/2000506809/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちジーリンクス株式会社（旧：グローバル・リンクス・テクノロジー株式会社）は浜松を拠点に、機構設計・電気設計・制御ソフト開発まで社内一貫で対応できる開発体制を有し、製品開発から生産設備・省人化専用機・検査装置・治具工具の設計製作まで幅広く手掛けています",
+    "url": "https://mono.ipros.com/product/detail/2000506809/",
+    "pass": 3
+   },
+   {
+    "quote": "代表製品として実験マウス自動飼育装置「ROBORACK」を開発・販売しており、第9回ロボット大賞「優秀賞」を受賞するなど高い評価を頂いております",
+    "url": "https://mono.ipros.com/product/detail/2000506809/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス一覧 (24)",
+    "url": "https://mono.ipros.com/product/detail/2000506809/",
+    "pass": 3
+   },
+   {
+    "quote": "PT.Showa Works インドネシアの製品／サービス領域",
+    "url": "https://mono.ipros.com/product/detail/2000506809/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "企画開発、設計、試作、量産そして保守まで 一環で結ぶワンストップの態勢で、お客様の課題を解決いたします",
+    "url": "https://www.glinx.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "生産冶工具等の製作や、小ロットの量産にも対応可能です",
+    "url": "https://www.glinx.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ワイヤレス（特定無線）ホームセキュリティコントローラの開発、評価、試作および量産",
+    "url": "https://www.glinx.co.jp/business/development/",
+    "pass": 1
+   },
+   {
+    "quote": "GMRセンサーによる地磁気変位量測定器の開発、評価、試作および量産",
+    "url": "https://www.glinx.co.jp/business/development/",
+    "pass": 1
+   },
+   {
+    "quote": "各種ボード開発、試作",
+    "url": "https://www.glinx.co.jp/business/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "試作品製作から量産まで、幅広いニーズにお応えいたします",
+    "url": "https://www.glinx.co.jp/business/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "ジーリンクス 試作加工サービス ジーリンクス | イプロスものづくり",
+    "url": "https://mono.ipros.com/product/detail/2000506809/",
+    "pass": 3
+   },
+   {
+    "quote": "3次元ミリングマシンによる、樹脂切削加工による試作加工を行います",
+    "url": "https://mono.ipros.com/product/detail/2000506809/",
+    "pass": 3
+   },
+   {
+    "quote": "装具の試作、補助具の試作、",
+    "url": "https://mono.ipros.com/product/detail/2000506809/",
+    "pass": 3
+   },
+   {
+    "quote": "少数量での製作が可能ですので金型を製作する前の試作等に最適です",
+    "url": "https://mono.ipros.com/product/detail/2000506809/",
+    "pass": 3
+   },
+   {
+    "quote": "装具の試作、補助具の試作等",
+    "url": "https://mono.ipros.com/product/detail/2000506809/",
+    "pass": 3
+   },
+   {
+    "quote": "製品の形状試作や複雑な形状の治具部品も製作いたします",
+    "url": "https://mono.ipros.com/product/detail/2000506809/",
+    "pass": 3
+   },
+   {
+    "quote": "仕様検討段階から共同で最適解を導き、試作から量産・保守まで柔軟にサポートいたします",
+    "url": "https://mono.ipros.com/product/detail/2000506809/",
+    "pass": 3
+   },
+   {
+    "quote": "【3Dプリンター 試作・加工】※制作事例を掲載！",
+    "url": "https://mono.ipros.com/product/detail/2000506809/",
+    "pass": 3
+   },
+   {
+    "quote": "工法転換｜溶接・組立品をアルミ鋳物で一体化 1個から試作",
+    "url": "https://mono.ipros.com/product/detail/2000506809/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "当社は、輸送機器、医療機器の生産設備や、電子機器の検査機器の開発・製造技術に強みを持つ、エンジニアリング企業です",
+    "url": "https://www.glinx.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "近年では独自に培った自動化技術や画像処理技術を実験設備に応用し、医療業界や理工学系大学などヘルスケア・サイエンス分野に向けた機器開発にも積極的に取り組んでいます",
+    "url": "https://www.glinx.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "人材難や技術力不足が開発現場の足かせになっていませんか？ジーリンクスは、車載関係、医療関係、航空宇宙関係、産業機器関係のお客様を中心に、受託または派遣による製品開発部門への開発支援や生産技術部門への技術支援を行っています",
+    "url": "https://www.glinx.co.jp/business/development/",
+    "pass": 1
+   },
+   {
+    "quote": "※ 本商品は医療機器認証商品ではありません",
+    "url": "https://www.glinx.co.jp/shared/file/gl-2705-flyer.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "生産機器の治具や装置のオリジナル専用部品、",
+    "url": "https://mono.ipros.com/product/detail/2000506809/",
+    "pass": 3
+   },
+   {
+    "quote": "少数量での製作が可能ですので金型を製作する前の試作等に最適です",
+    "url": "https://mono.ipros.com/product/detail/2000506809/",
+    "pass": 3
+   },
+   {
+    "quote": "フィット感抜群の治具のワーク受け部品の作成等にも最適です",
+    "url": "https://mono.ipros.com/product/detail/2000506809/",
+    "pass": 3
+   },
+   {
+    "quote": "製品の形状試作や複雑な形状の治具部品も製作いたします",
+    "url": "https://mono.ipros.com/product/detail/2000506809/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちジーリンクス株式会社（旧：グローバル・リンクス・テクノロジー株式会社）は浜松を拠点に、機構設計・電気設計・制御ソフト開発まで社内一貫で対応できる開発体制を有し、製品開発から生産設備・省人化専用機・検査装置・治具工具の設計製作まで幅広く手掛けています",
+    "url": "https://mono.ipros.com/product/detail/2000506809/",
+    "pass": 3
+   },
+   {
+    "quote": "代表製品として実験マウス自動飼育装置「ROBORACK」を開発・販売しており、第9回ロボット大賞「優秀賞」を受賞するなど高い評価を頂いております",
+    "url": "https://mono.ipros.com/product/detail/2000506809/",
+    "pass": 3
+   },
+   {
+    "quote": "また独自の設計技術でワイヤレス多チャンネル筋電センサー「EMG-EYE」も展開し、医療・研究分野のニーズにも対応しています",
+    "url": "https://mono.ipros.com/product/detail/2000506809/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車部品など複雑な部品の加工に好適！『五軸加工』",
+    "url": "https://mono.ipros.com/product/detail/2000506809/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "板金、樹脂等による構造設計",
+    "url": "https://www.glinx.co.jp/business/development/",
+    "pass": 1
+   },
+   {
+    "quote": "3次元ミリングマシンによる、樹脂切削加工による試作加工を行います",
+    "url": "https://mono.ipros.com/product/detail/2000506809/",
+    "pass": 3
+   },
+   {
+    "quote": "メーカーから供給の途絶えてしまった樹脂部品の再制作の用途にも対応致します",
+    "url": "https://mono.ipros.com/product/detail/2000506809/",
+    "pass": 3
+   },
+   {
+    "quote": "等、様々な材質に対応しております",
+    "url": "https://mono.ipros.com/product/detail/2000506809/",
+    "pass": 3
+   },
+   {
+    "quote": "ポリアセタール（POM）をはじめ様々な樹脂材質の切削加工を承ります",
+    "url": "https://mono.ipros.com/product/detail/2000506809/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "※使用CAD：SOLID WORKS（3D）、CADPAC（3D）、AUTOCAD（2D）、CADAM（2D）",
+    "url": "https://www.glinx.co.jp/business/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "1Mbit SRAM",
+    "url": "https://www.glinx.co.jp/products/emg-eye2/",
+    "pass": 1
+   },
+   {
+    "quote": "1Mbit SRAM",
+    "url": "https://www.glinx.co.jp/products/emg-eye-acbe/",
+    "pass": 1
+   },
+   {
+    "quote": "母校の部活動などで2 AMT SAREE THI ufりあ5",
+    "url": "https://www.glinx.co.jp/pdf/Topic202610.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ADRAMBBSS 2-4-7",
+    "url": "https://www.glinx.co.jp/pdf/Topic202610.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "バッファメモリ 1Mbit SRAM",
+    "url": "https://www.glinx.co.jp/shared/file/gl-2705-flyer.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "【3Dプリンター 試作・加工】※制作事例を掲載！",
+    "url": "https://mono.ipros.com/product/detail/2000506809/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "E-Mail ： info@glinx.co.jp",
+    "url": "https://www.glinx.co.jp/shared/file/gl-2705-yk0-02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "E-Mail ： info@glinx.co.jp",
+    "url": "https://www.glinx.co.jp/shared/file/gl-2705-yk1-02.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "E-Mail ： info@glinx.co.jp",
+    "url": "https://www.glinx.co.jp/shared/file/gl-2705-yk2-03.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お問い合わせ | 株式会社 ジーリンクスタジオ",
+    "url": "https://www.glink.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "Mail ： ｍａｉｌ－ｒ＠ｇｌｉｎｋ．ｃｏ．ｊｐ",
+    "url": "https://www.glink.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | 株式会社エナジーリンクス",
+    "url": "https://energy-linx.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "サービスに関するご相談、協業、取材、採用に関するお問い合わせなど、内容に応じて担当者よりご連絡いたします",
+    "url": "https://energy-linx.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ内容に応じて、担当者より折り返しご連絡いたします",
+    "url": "https://energy-linx.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "個人の方からのお問い合わせも受け付けています",
+    "url": "https://energy-linx.jp/contact/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "製造支援 | 事業紹介 | ジーリンクス株式会社 — ジーリンクスの製造支援サービスです。生産装置や検査装置の開発、省力化、自動化の提案を構想設計から製作まで承ります。生産冶工具等の製作や、小ロットの量産にも対応可能です。",
+    "url": "https://www.glinx.co.jp/business/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "ジーリンクス株式会社 — Our Service 電子機器製造を網羅するエンジニアリング力で 開発・生産の課題にイノベーションを。 ジーリンクスは、お客様の課題やご要望に応じて私たちが保有する技術を総合的に駆使し、お客様の求める電子機器、 省力化機器、自動化機器を開発します。",
+    "url": "https://www.glinx.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ジーリンクス 試作加工サービス ジーリンクス | イプロスものづくり — May 13, 2025 · ジーリンクスのジーリンクス 試作加工サービスの技術や価格情報などをご紹介。3次元ミリングマシンによる、樹脂切削加工による試作加工を行います。イプロスものづくりでは加工受託など製造業向けの情報を多数掲載。製品によってはローコストに御提案可能です。 まずは加工対応可否から ...",
+    "url": "https://mono.ipros.com/product/detail/2000506809/",
+    "pass": 3
+   },
+   {
+    "quote": "ジーリンクス 試作加工サービス ジーリンクス | イプロス — ジーリンクスのジーリンクス 試作加工サービスの技術や価格情報などをご紹介。3次元ミリングマシンによる、樹脂切削加工による試作加工を行います。イプロスでは合成樹脂製建具などBtoB向けの情報を多数掲載。製品によってはローコストに御提案可能です。 まずは加工対応可否から検討さ ...",
+    "url": "https://www.ipros.com/product/detail/2000506809/",
+    "pass": 3
+   },
+   {
+    "quote": "事業紹介 | ジーリンクス株式会社 — ジーリンクスの主要事業は開発支援、製造支援、システム開発です。お客様の課題やご要望に応じて私たちが保有する技術を総合的に駆使し、お客様の求める電子機器、 省力化機器、自動化機器を開発します。",
+    "url": "https://www.glinx.co.jp/business/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | ジーリンクス株式会社 — お問い合わせ Tel. 053-401-0882 受付時間： 平日8：30～17：00 お問い合わせフォーム 〒433-8116 静岡県浜松市中央区西丘町943-1 プライバシーポリシー サイトマップ",
+    "url": "https://www.glinx.co.jp/inquiry/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | 株式会社 ジーリンクスタジオ — お問い合わせフォーム採用・人事に関するお問い合わせTEL： 03-3769-8555Mail ： mail－r＠glink．co．jp",
+    "url": "https://www.glink.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | 株式会社エナジーリンクス — お問い合わせ前にご確認ください 通常2〜3営業日以内に担当者よりご連絡いたします。 採用、取材、協業の場合は目的や希望時期もご記入ください。 個人の方からのお問い合わせも受け付けています。",
+    "url": "https://energy-linx.jp/contact/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "株式会社ジーリンクスタジオ【公式】 (@GLink_Studio) / X ジーリンクスタジオの公式Xです。ジーリンクスタジオは映像と音を【創造】する総合ポストプロダクション（ポスプロ）です。 ここでは仕事内容や採用情報などをつぶやいていきます！",
+    "url": "https://x.com/glink_studio",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.glinx.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glinx.co.jp/company/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glinx.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glinx.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glinx.co.jp/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glinx.co.jp/company/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glinx.co.jp/company/quality/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glinx.co.jp/company/security/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glinx.co.jp/business/development/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glinx.co.jp/business/manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glinx.co.jp/business/system/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glinx.co.jp/case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glinx.co.jp/products/emg-eye2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glinx.co.jp/products/emg-eye-acbe/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glinx.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glinx.co.jp/recruit/message/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.glinx.co.jp/pdf/Topic202505.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.glinx.co.jp/pdf/NoticeOfCompanyName202403.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.glinx.co.jp/pdf/Topic202610.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.glinx.co.jp/shared/file/gl-2705-flyer.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.glinx.co.jp/shared/file/gl-2705-yk0-02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.glinx.co.jp/shared/file/gl-2705-yk1-02.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.glinx.co.jp/shared/file/gl-2705-yk2-03.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.glinx.co.jp/shared/file/gl-2705-yk3-01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.glinx.co.jp/company/img/company_profile.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.glinx.co.jp/img/products_emg-eye2.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.glinx.co.jp/img/products_emg-eye-acbe.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.glinx.co.jp/img/products_robo-rack.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.glinx.co.jp/products/emg-eye2/img/emg-eye2_img01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.glinx.co.jp/products/emg-eye2/img/emg-eye2_logo.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.glinx.co.jp/products/emg-eye2/img/emg-eye2_img02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.glinx.co.jp/products/emg-eye-acbe/img/emg-eye-acbe_img01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.glinx.co.jp/products/emg-eye-acbe/img/emg-eye-acbe_logo.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.glinx.co.jp/products/emg-eye-acbe/img/emg-eye-acbe_img02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.glinx.co.jp/products/emg-eye-acbe/img/emg-eye-acbe_img03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.glinx.co.jp/products/emg-eye-acbe/img/emg-eye-acbe_img04.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/product/detail/2000506809/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.geechs.com/about/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.glink.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://energy-linx.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/glink_studio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/glink_studio",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ジーリンクス 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.glinx.co.jp/business/manufacturing/",
+    "https://www.glinx.co.jp/",
+    "https://mono.ipros.com/product/detail/2000506809/",
+    "https://www.ipros.com/product/detail/2000506809/",
+    "https://ges-jp.com/oem-development",
+    "https://mono.ipros.com/product/detail/2000508824/",
+    "https://metoree.com/catalogs/ic4dhiXB9s/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ジーリンクス 会社概要 事業内容",
+   "results": [
+    "https://www.glinx.co.jp/business/",
+    "https://www.glinx.co.jp/",
+    "https://www.geechs.com/about/company/",
+    "https://www.g-link-system.com/company/overview/",
+    "https://links-system.co.jp/about/company/",
+    "https://www.clinks.jp/company/",
+    "https://www.g-linx.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ジーリンクス お問い合わせ メール",
+   "results": [
+    "https://www.glinx.co.jp/inquiry/",
+    "https://www.glink.co.jp/contact/",
+    "https://energy-linx.jp/contact/",
+    "https://www.glsol.co.jp/contact/",
+    "https://www.hulinks.co.jp/contact/",
+    "https://www.gkline.co.jp/contact/",
+    "https://www.g-link.co.jp/contact.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com ジーリンクス",
+   "results": [
+    "https://note.com/sieg_pon/n/nca13128958bf",
+    "https://note.com/sieg_pon/n/nde8c95959c45",
+    "https://note.com/sieg_pon/n/nfb56f72325ff",
+    "https://note.com/starviewstudio/n/naf2072cd5ea8",
+    "https://note.com/sieg_pon/n/n98449a2347fa",
+    "https://note.com/hiro_seki/n/nb276d9e0c009",
+    "https://note.com/akain/n/n4292faa3abcf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com ジーリンクス",
+   "results": [
+    "https://x.com/glink_studio",
+    "https://about.x.com/en",
+    "https://x.com/jocelynseip/status/2118260591680983528",
+    "https://x.com/LINX__official",
+    "https://x.com/IrMVx3Mv529jmyF/status/2104942630706794620",
+    "https://x.com/baka_ntoku/status/2070012300220879059",
+    "https://x.com/PrisonerTomato/status/2105330793568706606"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com ジーリンクス",
+   "results": [
+    "https://www.linkedin.com/login/",
+    "https://jp.linkedin.com/company/prolinx-corporation",
+    "https://in.linkedin.com/company/linkedin",
+    "https://www.linkedin.com/",
+    "https://jp.linkedin.com/in/将人-増井-1b291836a",
+    "https://ca.linkedin.com/in/gailurquhartconsulting",
+    "https://au.linkedin.com/in/riko-hachimine"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com ジーリンクス",
+   "results": [
+    "https://www.facebook.com/geegulls/",
+    "https://www.facebook.com/jlinksjapan/",
+    "https://business.facebook.com/groups/698577210871928/",
+    "https://business.facebook.com/groups/189975209620853/",
+    "https://www.facebook.com/GenelalLaboratory/",
+    "https://www.facebook.com/p/Hazey-Haley-61579078524997/",
+    "https://www.facebook.com/reel/925298290287072/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ジーリンクス note 社長",
+   "results": [
+    "https://www.glinx.co.jp/company/message/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/sadaaki",
+    "https://compalyze.co.jp/company/4080401010215",
+    "https://www.glinx.co.jp/company/",
+    "https://note.com/higashi_onzalinx/n/n709b4b3c5ea2"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ジーリンクス X 投稿",
+   "results": [
+    "https://x.com/glink_studio",
+    "https://www.glinx.co.jp/",
+    "https://roborack.jp/",
+    "https://x.com/BN_hobbyaccount/status/2120054852403265550",
+    "https://x.com/inakamono2774/status/2105633948777025797",
+    "https://x.com/PrisonerTomato/status/2105330793568706606",
+    "https://x.com/Lynx_Write/status/2106553343179194542"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式16頁／PDF・画像20件／外部6頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式16頁／PDF・画像20件／外部6頁・検索9回）"
+ }
+}

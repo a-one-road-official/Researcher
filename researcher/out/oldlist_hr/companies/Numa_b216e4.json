@@ -1,0 +1,1547 @@
+{
+ "name": "Numa",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜状態なし",
+ "researched_at": "2026-11-11T13:20:23.778646+00:00",
+ "official_url": "https://www.numa.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Start with the problem,",
+    "url": "https://numa.com/",
+    "pass": 1
+   },
+   {
+    "quote": "find the product that fixes it",
+    "url": "https://numa.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every product runs on the same Numa system, so each one starts with the customer’s full history.",
+    "url": "https://numa.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Extinguishes deals going sideways before they're lost. Driving 70% retention with those rescues.",
+    "url": "https://numa.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rebuilt its service department around a single source of truth that increased accountability, saved management hours, and significantly improved its CSI.",
+    "url": "https://numa.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our service department now runs on Numa’s AI agents. We’ve seen a 40% increase in profits. We’ll never go back.",
+    "url": "https://numa.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our service department now runs on NUMA’s AI agents. We’ve seen a 40% increase in profits. We’ll never go back.",
+    "url": "https://numa.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Numa is the AI Operating System that increases CSI by improving how dealerships engage with customers and coordinate across departments by - integrating with your CRM and DMS, flagging at risk customers immediately, capturing every call and text, and booking appointments with timely follow-up. We free up employees time and orchestrate their work better.",
+    "url": "https://numa.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Most dealerships go live in 2-3 weeks. A dedicated Numa team handles DMS integration, phone configuration, and team training, with check-ins in the first weeks to catch issues early. Because Numa connects to systems you already run, setup doesn’t disrupt daily operations, and most teams are proficient within 90 days.",
+    "url": "https://numa.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Numa is built for franchise dealerships and multi-rooftop groups running high call and text volume through fixed ops, where missed communication directly costs service revenue and retention. It fits single stores wanting to stop missing calls and large groups standardizing operations across rooftops alike.",
+    "url": "https://numa.com/",
+    "pass": 1
+   },
+   {
+    "quote": "One belief: communication is where dealership profit is won.",
+    "url": "https://numa.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Dealerships don't lose customers because demand dried up. They lose them because communication breaks down. Calls go unanswered, messages pile up, and the problem surfaces after the customer is already gone.",
+    "url": "https://numa.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Built Location Labs from the ground up and sold it for $220M with $19M in primary capital. Profitable for seven consecutive years. Started his career at Bain. Harvard MBA.",
+    "url": "https://numa.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Previous CRO of Cardone Automotive Software, sold $100M of SaaS into automotive. COO and President of the $1.5B Ziegler dealership group.",
+    "url": "https://numa.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Scaled Location Labs to its $220M acquisition, then as CEO 10xed growth at Storewise ahead of a 6x PE exit. Go-to-market leadership at Symantec, Avast, and AT&T prior.",
+    "url": "https://numa.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Product Design",
+    "url": "https://numa.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Founding product designer at Numa, shaping the product for 8+ years. Came from Location Labs alongside the founding team. Cognitive Science, UC Berkeley.",
+    "url": "https://numa.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "The Greek word for excellence. We believe in being 1% better every day. We approach challenges with a growth mindset and reflect on our work to identify how to do things better next time.",
+    "url": "https://numa.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "In ancient history, soldiers in a Phalanx carried shields not for their own protection, but for the person next to them. We are the ultimate team player. Humble attitude. Focused on helping teammates above ourselves.",
+    "url": "https://numa.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Precision Routing puts every caller in the right hands",
+    "url": "https://numa.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Every product runs on one system, connected to",
+    "url": "https://numa.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "GM iMR Approved Turnkey Vendor",
+    "url": "https://numa.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Available through the FordDirect program",
+    "url": "https://numa.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Family planning, pet insurance, HSA/FSA and identity theft protection.",
+    "url": "https://numa.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Product Marketing Manager",
+    "url": "https://numa.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Sales Development Representative (SDR)",
+    "url": "https://numa.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Another Product Didn't Solve It",
+    "url": "https://numa.com/casestudies/dyer-automotive-group-gives-ai-a-second-shot",
+    "pass": 1
+   },
+   {
+    "quote": "At Dyer, the demand for fast answers landed on the phones. Answering them was the biggest problem in Dyer's service departments, Holmes says, so Dyer brought in AI answering from an AI product.",
+    "url": "https://numa.com/casestudies/dyer-automotive-group-gives-ai-a-second-shot",
+    "pass": 1
+   },
+   {
+    "quote": "Holmes now calls the system \"one of the worst things we did.\" The team had lost touch with its customers, Holmes says, and the system gave Dyer no read on how callers were feeling. Retention was slipping, and advisors were overwhelmed.",
+    "url": "https://numa.com/casestudies/dyer-automotive-group-gives-ai-a-second-shot",
+    "pass": 1
+   },
+   {
+    "quote": "Sofia Gonzalez, who manages the BDC that Dyer calls its customer care department, saw the same gap. Gonzalez suspects the first provider didn't account for who Dyer's customers are: people who like a personal touch.",
+    "url": "https://numa.com/casestudies/dyer-automotive-group-gives-ai-a-second-shot",
+    "pass": 1
+   },
+   {
+    "quote": "After the first AI product, the team was wary of another new program. A lot of the advisors, service managers, and BDC agents had the same reaction, Gonzalez says: \"here we go again.\"",
+    "url": "https://numa.com/casestudies/dyer-automotive-group-gives-ai-a-second-shot",
+    "pass": 1
+   },
+   {
+    "quote": "Numa sent trainers to work with people one-on-one in the store, and Holmes counts that among the biggest reasons the second try took hold. The first provider had handed over the system with no training. \"Boom. Hope it works for you,\" in Holmes's words. \"I think we got more training from Numa than we did when we installed a new CRM,\" Holmes says.",
+    "url": "https://numa.com/casestudies/dyer-automotive-group-gives-ai-a-second-shot",
+    "pass": 1
+   },
+   {
+    "quote": "Gonzalez credits the on-site training, along with a better product, with turning the team's reaction around. The rollout went much the same way in all the stores, Holmes says.",
+    "url": "https://numa.com/casestudies/dyer-automotive-group-gives-ai-a-second-shot",
+    "pass": 1
+   },
+   {
+    "quote": "Holmes had expected advisors to see Numa as one more process to fit into the day. Advisors and managers came back with a different question, Holmes says: \"why didn't we have this before?\"",
+    "url": "https://numa.com/casestudies/dyer-automotive-group-gives-ai-a-second-shot",
+    "pass": 1
+   },
+   {
+    "quote": "Numa also comes up in Dyer's daily reports and weekly meetings. Holmes says the team reviews its Numa number there, alongside gross profit and the other metrics Dyer tracks.",
+    "url": "https://numa.com/casestudies/dyer-automotive-group-gives-ai-a-second-shot",
+    "pass": 1
+   },
+   {
+    "quote": "Dyer hires service advisors for \"that tenacity to sell,\" Holmes says, but before Numa those advisors were \"spending 30, 40% of their time on the phones.\" Holmes put the problem as a question: \"Why do we have someone with that personality, the made-to-sell, spending all their time answering phones?\"",
+    "url": "https://numa.com/casestudies/dyer-automotive-group-gives-ai-a-second-shot",
+    "pass": 1
+   },
+   {
+    "quote": "Holmes says call volume has come down since the team could see who had heard back. Advisors can concentrate on selling. Some of the time that went to the phones now goes to multi-point videos, and Dyer sends more of them to customers.",
+    "url": "https://numa.com/casestudies/dyer-automotive-group-gives-ai-a-second-shot",
+    "pass": 1
+   },
+   {
+    "quote": "\"It's increased CSI, it's increased NPS, it's increased customer satisfaction, increased gross profit, and employee retention.\"",
+    "url": "https://numa.com/casestudies/dyer-automotive-group-gives-ai-a-second-shot",
+    "pass": 1
+   },
+   {
+    "quote": "You don't have permission to access \"http://docs.redhat.com/ja/documentation/red_hat_enterprise_linux/7/html/virtualization_deployment_and_administration_guide/sect-manipulating_the_domain_xml-numa_node_tuning\" on this server.",
+    "url": "https://docs.redhat.com/ja/documentation/red_hat_enterprise_linux/7/html/virtualization_deployment_and_administration_guide/sect-manipulating_the_domain_xml-numa_node_tuning",
+    "pass": 3
+   },
+   {
+    "quote": "NuMA CRISPRノックアウト（KO）およびHDRプラスミド",
+    "url": "https://www.scbt.com/ja/browse/numa-antibodies?srsltid=AYCX9vI8VrJ7ZZ8NmDURiN-oHMgcVoM7VeaDbR-ibVg1vQfyeDu1qVYe",
+    "pass": 3
+   },
+   {
+    "quote": "NuMA CRISPR/Cas9 KOプラスミド (h)",
+    "url": "https://www.scbt.com/ja/browse/numa-antibodies?srsltid=AYCX9vI8VrJ7ZZ8NmDURiN-oHMgcVoM7VeaDbR-ibVg1vQfyeDu1qVYe",
+    "pass": 3
+   },
+   {
+    "quote": "NuMA CRISPR活性化プラスミドとレンチウイルス粒子",
+    "url": "https://www.scbt.com/ja/browse/numa-antibodies?srsltid=AYCX9vI8VrJ7ZZ8NmDURiN-oHMgcVoM7VeaDbR-ibVg1vQfyeDu1qVYe",
+    "pass": 3
+   },
+   {
+    "quote": "NuMA CRISPR Activationプラスミド (h)",
+    "url": "https://www.scbt.com/ja/browse/numa-antibodies?srsltid=AYCX9vI8VrJ7ZZ8NmDURiN-oHMgcVoM7VeaDbR-ibVg1vQfyeDu1qVYe",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Shosaku_Numa",
+    "pass": 3
+   },
+   {
+    "quote": "Heinrich Wieland Prize",
+    "url": "https://en.wikipedia.org/wiki/Shosaku_Numa",
+    "pass": 3
+   },
+   {
+    "quote": ", before he became Professor of Medical Chemistry at the Faculty of Medicine,",
+    "url": "https://en.wikipedia.org/wiki/Shosaku_Numa",
+    "pass": 3
+   },
+   {
+    "quote": "Numa and co-workers cloned and sequenced the cDNA and delineated the primary structures of different families of receptors and channels including a neurotransmitter-gated channel (",
+    "url": "https://en.wikipedia.org/wiki/Shosaku_Numa",
+    "pass": 3
+   },
+   {
+    "quote": "), and a G-protein-coupled receptor (",
+    "url": "https://en.wikipedia.org/wiki/Shosaku_Numa",
+    "pass": 3
+   },
+   {
+    "quote": "Scientists from Wakayama Prefecture",
+    "url": "https://en.wikipedia.org/wiki/Shosaku_Numa",
+    "pass": 3
+   },
+   {
+    "quote": ", a non-profit organization.",
+    "url": "https://en.wikipedia.org/wiki/Shosaku_Numa",
+    "pass": 3
+   },
+   {
+    "quote": "If you're visiting Numa on a budget, you can reduce travel expenses by booking a motel room at one of the city's many affordable hotels which has cheap hotel prices.",
+    "url": "https://www.reservations.com/Hotels/numa-japan",
+    "pass": 3
+   },
+   {
+    "quote": "These affordable lodging properties come with basic amenities and good comfort, for example amenities like Satellite TV, 24-hour front desk and Coffeemaker.",
+    "url": "https://www.reservations.com/Hotels/numa-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Kanagawa Prefectural Sagamiko Exchange Center",
+    "url": "https://www.reservations.com/Hotels/numa-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Imagine reserving a hotel for a business trip that doesn't provide free Wi-fi for its guests.",
+    "url": "https://www.reservations.com/Hotels/numa-japan",
+    "pass": 3
+   },
+   {
+    "quote": "You can narrow down your hotel search and get everything you want by viewing accommodation types like motel, resort, inns, B&B, and lodge that provides amenities like pet-friendly, free breakfast, and gym or by different activities like golf, beach, ski, or casino.",
+    "url": "https://www.reservations.com/Hotels/numa-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Public bath/onsen services include an indoor mineral hot springs (Japanese-style onsen). This service features separate men and women areas.",
+    "url": "https://www.reservations.com/Hotels/numa-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Fuchu Urban Hotel Offers Accommodation In Fuchu. Guests Can Enjoy The On-Site Restaurant.You Will Find A Kettle In The Room. Providing Private Parking, This Japanese-Style Business Hotel Also Features Free Wifi Throughout The Property.You Will Find Dry Cleaning Services At The Property.The Nearest Airport Is Tokyo Haneda International Airport, 29 Km From The Property.",
+    "url": "https://www.reservations.com/Hotels/numa-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Today’s UV index is 3 make sure to prepare properly.",
+    "url": "https://www.reservations.com/Hotels/numa-japan",
+    "pass": 3
+   },
+   {
+    "quote": "On average, the price per night for a good 2.5 star to 3-star hotel in Numa for this weekend can be as low as $74.71.",
+    "url": "https://www.reservations.com/Hotels/numa-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Kanagawa Prefectural Lake Tsukui Shiroyama Park",
+    "url": "https://www.reservations.com/Hotels/numa-japan",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by 1,500+ dealerships",
+    "url": "https://numa.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Dyer Automotive Group",
+    "url": "https://numa.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How Willis Automotive used Numa to deliver its best CSI year across nine brands, grow customer-pay labor sales 8%, and end the Monday voicemail backlog.",
+    "url": "https://numa.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Engineers, dealer veterans, and operators.",
+    "url": "https://numa.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "A growing team of dealer veterans, engineers, operators, and customer obsessives. Different backgrounds. One mission: make dealership communication work the way it should.",
+    "url": "https://numa.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Previous CRO of Cardone Automotive Software, sold $100M of SaaS into automotive. COO and President of the $1.5B Ziegler dealership group.",
+    "url": "https://numa.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Over 13 years in automotive SaaS, specializing in AI for dealerships. Started at Gary Crossley Ford, then built high-performing sales teams and drove AI adoption industry-wide.",
+    "url": "https://numa.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "How Dyer Automotive Group gave AI a second shot",
+    "url": "https://numa.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Dyer Automotive Group's customers didn't change. The AI answering them did. | Numa Case Studies",
+    "url": "https://numa.com/casestudies/dyer-automotive-group-gives-ai-a-second-shot",
+    "pass": 1
+   },
+   {
+    "quote": "Dyer Automotive Group's customers didn't change. The AI answering them did.",
+    "url": "https://numa.com/casestudies/dyer-automotive-group-gives-ai-a-second-shot",
+    "pass": 1
+   },
+   {
+    "quote": "Jay Holmes is VP of Fixed Operations at Dyer Automotive Group in Florida, Numa's Dealership of the Month for October 2026.",
+    "url": "https://numa.com/casestudies/dyer-automotive-group-gives-ai-a-second-shot",
+    "pass": 1
+   },
+   {
+    "quote": "Jay Holmes is VP of Fixed Operations at Dyer Automotive Group, Numa's Dealership of the Month for October 2026. Dyer came to Numa after a first try with AI went wrong, and the turnaround started when the team studied its own phone calls.",
+    "url": "https://numa.com/casestudies/dyer-automotive-group-gives-ai-a-second-shot",
+    "pass": 1
+   },
+   {
+    "quote": "— Jay Holmes, VP of Fixed Operations, Dyer Automotive Group",
+    "url": "https://numa.com/casestudies/dyer-automotive-group-gives-ai-a-second-shot",
+    "pass": 1
+   },
+   {
+    "quote": "— Sofia Gonzalez, BDC Manager, Dyer Automotive Group",
+    "url": "https://numa.com/casestudies/dyer-automotive-group-gives-ai-a-second-shot",
+    "pass": 1
+   },
+   {
+    "quote": "How Dyer Automotive Group gave AI a second shot",
+    "url": "https://numa.com/casestudies",
+    "pass": 3
+   },
+   {
+    "quote": "Dyer Automotive Group's customers didn't change. The AI answering them did.",
+    "url": "https://numa.com/casestudies",
+    "pass": 3
+   },
+   {
+    "quote": "Willis Automotive transforms communication and delivers its best CSI year",
+    "url": "https://numa.com/casestudies",
+    "pass": 3
+   },
+   {
+    "quote": "NUMA partners with investors, property owners, developers, and hotel operators to create innovative technology-based operator solutions. NUMA's proprietary technology stack increases profits by up to 40% for hotel operators through automated business processes, intelligent pricing, and higher occupancy rates.",
+    "url": "https://press.numastays.com/millennial-and-gen-z-hotel-numa-group-raises-45m-fueled-by-strong-performance-despite-pandemic",
+    "pass": 3
+   },
+   {
+    "quote": "Germany-based NUMA Group successfully expanded into Spain, Italy, Austria, and the Czech Republic in 2021. NUMA achieved 85% booking occupancy of its 2,500 units in Europe, a stark contrast to the industry-wide decline caused by the pandemic.",
+    "url": "https://press.numastays.com/millennial-and-gen-z-hotel-numa-group-raises-45m-fueled-by-strong-performance-despite-pandemic",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Increased revenue and dollars per repair order while reducing costs and boosting CSI with Numa’s AI agents.",
+    "url": "https://numa.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Numa is the AI Operating System that increases CSI by improving how dealerships engage with customers and coordinate across departments by - integrating with your CRM and DMS, flagging at risk customers immediately, capturing every call and text, and booking appointments with timely follow-up. We free up employees time and orchestrate their work better.",
+    "url": "https://numa.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Dealerships use Numa to recover service revenue lost to missed calls and slow replies. Numa cuts average customer response time from 23 hours to under 10 minutes and lifts repair-order dollars per advisor by over 35%.",
+    "url": "https://numa.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Numa is built for franchise dealerships and multi-rooftop groups running high call and text volume through fixed ops, where missed communication directly costs service revenue and retention. It fits single stores wanting to stop missing calls and large groups standardizing operations across rooftops alike.",
+    "url": "https://numa.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We watched this play out the same way across hundreds of rooftops, so we built Numa to fix it. The team behind it carries 150 years of dealership experience and 50 ML engineers, the same group that grew Location Labs to a $220M exit.",
+    "url": "https://numa.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Ran Sales, Business Development, and operations at Location Labs through a $220M acquisition. Before that, led early IoT innovation at Microsoft. Harvard MBA. Brown CS.",
+    "url": "https://numa.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Scaled Location Labs to its $220M acquisition, then as CEO 10xed growth at Storewise ahead of a 6x PE exit. Go-to-market leadership at Symantec, Avast, and AT&T prior.",
+    "url": "https://numa.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Things won't always go right. We anticipate it, have a plan, and carry on in the face of adversity. We don't let challenges or anxiety get in the way of forward momentum.",
+    "url": "https://numa.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "In ancient history, soldiers in a Phalanx carried shields not for their own protection, but for the person next to them. We are the ultimate team player. Humble attitude. Focused on helping teammates above ourselves.",
+    "url": "https://numa.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "a part of Reservations Group, a trusted independent travel company since 2003",
+    "url": "https://www.reservations.com/Hotels/numa-japan",
+    "pass": 3
+   },
+   {
+    "quote": "You can narrow down your hotel search and get everything you want by viewing accommodation types like motel, resort, inns, B&B, and lodge that provides amenities like pet-friendly, free breakfast, and gym or by different activities like golf, beach, ski, or casino.",
+    "url": "https://www.reservations.com/Hotels/numa-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Team Gillman uses AI agents to increase revenue, reduce headcount, and boost CSI",
+    "url": "https://numa.com/casestudies",
+    "pass": 3
+   },
+   {
+    "quote": "Sign up to see data on 350K+ funding rounds and disclosed revenue and EBITDA valuation multiples, from seed, through growth stage, to pre-IPO.",
+    "url": "https://multiples.vc/private-comps/numa",
+    "pass": 3
+   },
+   {
+    "quote": "Latest Acquisitions by",
+    "url": "https://multiples.vc/private-comps/numa",
+    "pass": 3
+   },
+   {
+    "quote": "acquisitions and their M&A valuation multiples.",
+    "url": "https://multiples.vc/private-comps/numa",
+    "pass": 3
+   },
+   {
+    "quote": "Numa competitors include listed companies like Marriott and Hilton, and private ones like Mews, citizenM, Danke Apartment and Bungalow.",
+    "url": "https://multiples.vc/private-comps/numa",
+    "pass": 3
+   },
+   {
+    "quote": "Is Numa publicly listed?",
+    "url": "https://multiples.vc/private-comps/numa",
+    "pass": 3
+   },
+   {
+    "quote": "How many companies has Numa acquired?",
+    "url": "https://multiples.vc/private-comps/numa",
+    "pass": 3
+   },
+   {
+    "quote": "Numa has acquired 3 companies, including",
+    "url": "https://multiples.vc/private-comps/numa",
+    "pass": 3
+   },
+   {
+    "quote": "What was the largest acquisition by Numa?",
+    "url": "https://multiples.vc/private-comps/numa",
+    "pass": 3
+   },
+   {
+    "quote": "The $27M acquisition of Native in July 2024 is the largest acquisition Numa has made to date.",
+    "url": "https://multiples.vc/private-comps/numa",
+    "pass": 3
+   },
+   {
+    "quote": "Arrived Homes is a real estate investment platform headquartered in Seattle that enables fractional ownership of rental properties. It acquires, renovates, and manages single-family homes across markets like Atlanta and Phoenix, allowing investors to buy shares starting at $100 for passive rental income. The firm handles all property operations and distributes quarterly dividends.",
+    "url": "https://multiples.vc/private-comps/numa",
+    "pass": 3
+   },
+   {
+    "quote": "NUMA: 500% revenue growth, over 2,500 units, booking occupancy 85% despite COVID, 230% above market average across Europe",
+    "url": "https://press.numastays.com/millennial-and-gen-z-hotel-numa-group-raises-45m-fueled-by-strong-performance-despite-pandemic",
+    "pass": 3
+   },
+   {
+    "quote": "In addition to a superior consumer offering, Numa’s technology, pricing tools, and utilization of anonymized data drives both operational savings, for example, via process automation and higher revenues through smart pricing and maximizing occupancy. This results in more sustainable growth and higher structural profitability than averages across the hospitality industry.",
+    "url": "https://www.verlinvest.com/insights/numa-investment/",
+    "pass": 3
+   },
+   {
+    "quote": "As part of this latest fundraise, Verlinvest, the international investment company backed by the families behind AB InBev, which has invested in successful consumer brands including Oatly, Vita Coco, Tony’s Chocolonely and Chewy.com, will join Numa’s existing investor base, which also includes Headline, Cherry Ventures, DN Capital, Soravia, and Cape Capital.",
+    "url": "https://www.verlinvest.com/insights/numa-investment/",
+    "pass": 3
+   },
+   {
+    "quote": "It arrived the very next day.",
+    "url": "https://note.com/flute_nknm/n/ncc2ef7b134c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Windows 11 laptop has arrived; I have a 22-inch monitor connected to it.",
+    "url": "https://note.com/flute_nknm/n/ncc2ef7b134c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AnthropicついにIPO、AI株急反発、この勢いは本物か 2026年10月26日のオプション市場分析とニュース",
+    "url": "https://note.com/numa_numaali",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "How Willis Automotive used Numa to deliver its best CSI year across nine brands, grow customer-pay labor sales 8%, and end the Monday voicemail backlog.",
+    "url": "https://numa.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Deployed at 40 stores and saw dramatic gains in accountability, voicemail response, and appointment booking freeing reps to serve more customers and setting the stage for a 50-location rollout.",
+    "url": "https://numa.com/",
+    "pass": 1
+   },
+   {
+    "quote": "E-Mail: media@numastays.com",
+    "url": "https://press.numastays.com/millennial-and-gen-z-hotel-numa-group-raises-45m-fueled-by-strong-performance-despite-pandemic",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "🤝NUMAは日本全国のXR・メタバース系サークルの互助組織を目指します",
+    "url": "https://numa-meta.com/",
+    "pass": 3
+   },
+   {
+    "quote": "最大規模のVRサークル山形大学VR部と東京大学のVRサークルUT-virtualの対談が開催されました！",
+    "url": "https://numa-meta.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ローカルっていうものが東京には一切存在しないからね",
+    "url": "https://numa-meta.com/",
+    "pass": 3
+   },
+   {
+    "quote": "この前、東日本の大学のe-Sports連盟みたいな、学生が主体でやっているところがあるんですけれど、それに招待されて",
+    "url": "https://numa-meta.com/",
+    "pass": 3
+   },
+   {
+    "quote": "NUMAって、そもそもナニ？ - 株式会社計測技術研究所",
+    "url": "https://www.keisoku.co.jp/u-po/20260414-02/",
+    "pass": 3
+   },
+   {
+    "quote": "、日本語にすると",
+    "url": "https://www.keisoku.co.jp/u-po/20260414-02/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese neuroscientist",
+    "url": "https://en.wikipedia.org/wiki/Shosaku_Numa",
+    "pass": 3
+   },
+   {
+    "quote": "Wakayama, Japan",
+    "url": "https://en.wikipedia.org/wiki/Shosaku_Numa",
+    "pass": 3
+   },
+   {
+    "quote": "Kyoto, Japan",
+    "url": "https://en.wikipedia.org/wiki/Shosaku_Numa",
+    "pass": 3
+   },
+   {
+    "quote": "by the Government of Japan in 1991.",
+    "url": "https://en.wikipedia.org/wiki/Shosaku_Numa",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese molecular biologists",
+    "url": "https://en.wikipedia.org/wiki/Shosaku_Numa",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese neuroscientists",
+    "url": "https://en.wikipedia.org/wiki/Shosaku_Numa",
+    "pass": 3
+   },
+   {
+    "quote": "Articles containing Japanese-language text",
+    "url": "https://en.wikipedia.org/wiki/Shosaku_Numa",
+    "pass": 3
+   },
+   {
+    "quote": "Top 20 best hotels in Numa, Japan - Reservations.com",
+    "url": "https://www.reservations.com/Hotels/numa-japan",
+    "pass": 3
+   },
+   {
+    "quote": "RIHGA Royal Hotel Tokyo",
+    "url": "https://www.reservations.com/Hotels/numa-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Toyoko Inn Tokyo Hachioji-eki Kita-guchi",
+    "url": "https://www.reservations.com/Hotels/numa-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Best Western Rembrandt Hotel Tokyo Machida",
+    "url": "https://www.reservations.com/Hotels/numa-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Public bath/onsen services include an indoor mineral hot springs (Japanese-style onsen). This service features separate men and women areas.",
+    "url": "https://www.reservations.com/Hotels/numa-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Toyoko Inn Tokyo Tachikawa-eki Kita-guchi",
+    "url": "https://www.reservations.com/Hotels/numa-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Hotel Nikko Tachikawa Tokyo",
+    "url": "https://www.reservations.com/Hotels/numa-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Fuchu Urban Hotel Offers Accommodation In Fuchu. Guests Can Enjoy The On-Site Restaurant.You Will Find A Kettle In The Room. Providing Private Parking, This Japanese-Style Business Hotel Also Features Free Wifi Throughout The Property.You Will Find Dry Cleaning Services At The Property.The Nearest Airport Is Tokyo Haneda International Airport, 29 Km From The Property.",
+    "url": "https://www.reservations.com/Hotels/numa-japan",
+    "pass": 3
+   },
+   {
+    "quote": "View all Numa, Japan hotels, motels, lodging and attractions on Numa, Japan location map.",
+    "url": "https://www.reservations.com/Hotels/numa-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Weather Forecast for Numa, Japan",
+    "url": "https://www.reservations.com/Hotels/numa-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Traveling to Numa, Japan?",
+    "url": "https://www.reservations.com/Hotels/numa-japan",
+    "pass": 3
+   },
+   {
+    "quote": "Best suburbs, counties and towns near Numa, Japan.",
+    "url": "https://www.reservations.com/Hotels/numa-japan",
+    "pass": 3
+   },
+   {
+    "quote": "POCO・Blackview・UMIDIGI・Anbernic・GL.iNet など、日本ではまだ情報の少ないモデルまで丁寧に解説します",
+    "url": "https://note.com/numa_numaali",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "NUMA 全日本大学メタバース連盟 — NUMA 全日本大学メタバース連盟 numa-meta.com https://numa-meta.com",
+    "url": "https://numa-meta.com/",
+    "pass": 3
+   },
+   {
+    "quote": "NUMA 全日本大学メタバース連盟 (@numa_meta_) / X — NUMA 全日本大学メタバース連盟 (@numa_meta_) / X X https://x.com > numa_meta_",
+    "url": "https://x.com/numa_meta_",
+    "pass": 3
+   },
+   {
+    "quote": "23.9. NUMA ノードのチューニング | Red Hat Enterprise Linux — 23.9. NUMA ノードのチューニング | Red Hat Enterprise Linux Red Hat Documentation https://docs.redhat.com > red_hat_enterprise_linux > html",
+    "url": "https://docs.redhat.com/ja/documentation/red_hat_enterprise_linux/7/html/virtualization_deployment_and_administration_guide/sect-manipulating_the_domain_xml-numa_node_tuning",
+    "pass": 3
+   },
+   {
+    "quote": "NUMA って、そもそもナニ？ - 株式会社計測技術研究所 — NUMA って、そもそもナニ？ - 株式会社計測技術研究所 株式会社計測技術研究所 https://www.keisoku.co.jp > ... > その他",
+    "url": "https://www.keisoku.co.jp/u-po/20260414-02/",
+    "pass": 3
+   },
+   {
+    "quote": "VMwareの代替ソリューション： NUMA 対応仮想化最適化 — VMwareの代替ソリューション： NUMA 対応仮想化最適化 Sangfor Technologies https://www.sangfor.com > blog > cloud-and-infrastructure",
+    "url": "https://www.sangfor.com/jp/blog/cloud-and-infrastructure/vmware-replacement-numa-aware-performance",
+    "pass": 3
+   },
+   {
+    "quote": "NuMA 抗体 | SCBT - Santa Cruz Biotechnology — NuMA 抗体 | SCBT - Santa Cruz Biotechnology Santa Cruz Biotechnology https://www.scbt.com > ... > 細胞周期",
+    "url": "https://www.scbt.com/ja/browse/numa-antibodies?srsltid=AYCX9vI8VrJ7ZZ8NmDURiN-oHMgcVoM7VeaDbR-ibVg1vQfyeDu1qVYe",
+    "pass": 3
+   },
+   {
+    "quote": "NUMA について | 台湾のバーコードスキャナー製造業者 — NUMA について | 台湾のバーコードスキャナー製造業者 NUMA Electronics Inc. https://www.numa-tech.com > case-studies",
+    "url": "https://www.numa-tech.com/ja/case-studies/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Numa - Official Site | Always Best Rates — Numa - Official Site | Always Best Rates Numa https://numastays.com",
+    "url": "https://numastays.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Shosaku Numa - Wikipedia — Shosaku Numa - Wikipedia Wikipedia https://en.wikipedia.org > wiki > Shos...",
+    "url": "https://en.wikipedia.org/wiki/Shosaku_Numa",
+    "pass": 3
+   },
+   {
+    "quote": "Top 20 best hotels in Numa , Japan - Reservations.com — Top 20 best hotels in Numa , Japan - Reservations.com Reservations.com https://www.reservations.com > Hotels",
+    "url": "https://www.reservations.com/Hotels/numa-japan",
+    "pass": 3
+   },
+   {
+    "quote": "NUMA_official (@ NUMA .JPN) - Facebook — NUMA_official (@ NUMA .JPN) - Facebook Facebook https://www.facebook.com > ... > Entertainment website",
+    "url": "https://www.facebook.com/NUMA.JPN/?locale=ja_JP",
+    "pass": 3
+   },
+   {
+    "quote": "NUMA とは - Broadcom TechDocs — NUMA とは - Broadcom TechDocs Broadcom TechDocs https://techdocs.broadcom.com > vsphere > what-is-numa",
+    "url": "https://techdocs.broadcom.com/jp/ja/vmware-cis/vsphere/vsphere/8-0/vsphere-resource-management/using-numa-systems-with-esxi/what-is-numa.html",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - Numa — Case Studies - Numa numa.com https://numa.com > casestudies",
+    "url": "https://numa.com/casestudies",
+    "pass": 3
+   },
+   {
+    "quote": "Numa Funding , Investors & Competitors - Multiples.vc — Numa Funding , Investors & Competitors - Multiples.vc Multiples.vc https://multiples.vc > Companies",
+    "url": "https://multiples.vc/private-comps/numa",
+    "pass": 3
+   },
+   {
+    "quote": "Millennial and Gen Z hotel NUMA Group raises $45M fueled ... — Millennial and Gen Z hotel NUMA Group raises $45M fueled ... Numa https://press.numastays.com > millenn...",
+    "url": "https://press.numastays.com/millennial-and-gen-z-hotel-numa-group-raises-45m-fueled-by-strong-performance-despite-pandemic",
+    "pass": 3
+   },
+   {
+    "quote": "Numa - 2026 Company Profile & Team - Tracxn — Numa - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/numa/__yRSA6ZTVffRbSsiL2tAxeznJunABRmWvNnPk0Au7f74",
+    "pass": 3
+   },
+   {
+    "quote": "Our partnership With Numa | Verlinvest — Our partnership With Numa | Verlinvest Verlinvest https://www.verlinvest.com > insights",
+    "url": "https://www.verlinvest.com/insights/numa-investment/",
+    "pass": 3
+   },
+   {
+    "quote": "Numa raises $32M to bring AI and automation to car dealerships — Numa raises $32M to bring AI and automation to car dealerships LinkedIn https://www.linkedin.com > posts > a...",
+    "url": "https://www.linkedin.com/posts/andreasstavropoulos_numa-raises-32m-to-bring-ai-and-automation-activity-7246932175533580288-3cEe",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Numa - note Numa - note note https://note.com > flute_nknm",
+    "url": "https://note.com/flute_nknm",
+    "pass": 3
+   },
+   {
+    "quote": "The Results and Unexpected Discoveries After Eating \" Numa ... The Results and Unexpected Discoveries After Eating \" Numa ... note https://note.com > 料理・グルメ > レシピ・作り方",
+    "url": "https://note.com/diet_km/n/nf56a9111d333?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Buying a new PC｜ Numa - note Buying a new PC｜ Numa - note note https://note.com > コンピュータ・IT > パソコン・周辺機器",
+    "url": "https://note.com/flute_nknm/n/ncc2ef7b134c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "NUMA_ali - note NUMA_ali - note note https://note.com > numa_numaali",
+    "url": "https://note.com/numa_numaali",
+    "pass": 3
+   },
+   {
+    "quote": "numa . - note numa . - note note https://note.com > numadot",
+    "url": "https://note.com/numadot",
+    "pass": 3
+   },
+   {
+    "quote": "numa - note numa - note note https://note.com > naganuma_web",
+    "url": "https://note.com/naganuma_web",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "三ツ星ファームのレトルト（案件ではありません）",
+    "url": "https://note.com/flute_nknm",
+    "pass": 3
+   },
+   {
+    "quote": "ティーレマン ウィーンフィル 終演の理想形",
+    "url": "https://note.com/flute_nknm",
+    "pass": 3
+   },
+   {
+    "quote": "飲食に関することで様々な疑問を書き連ねてます",
+    "url": "https://note.com/flute_nknm",
+    "pass": 3
+   },
+   {
+    "quote": "The Results and Unexpected Discoveries After Eating \"Numa\" for a Week｜tenpa｜ 完コピダイエットの実践者",
+    "url": "https://note.com/diet_km/n/nf56a9111d333?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/diet_km/n/nf56a9111d333?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Results and Unexpected Discoveries After Eating \"Numa\" for a Week",
+    "url": "https://note.com/diet_km/n/nf56a9111d333?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The diet meal known to those in the know,",
+    "url": "https://note.com/diet_km/n/nf56a9111d333?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I ate it once a day for a week.",
+    "url": "https://note.com/diet_km/n/nf56a9111d333?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "So, what happened to my weight, you ask...?",
+    "url": "https://note.com/diet_km/n/nf56a9111d333?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I didn't lose any weight!",
+    "url": "https://note.com/diet_km/n/nf56a9111d333?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Just like my steamer challenge, there was no change in weight this time either.",
+    "url": "https://note.com/diet_km/n/nf56a9111d333?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/flute_nknm/n/ncc2ef7b134c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Actually, I was using Windows 7 until last week (lol).",
+    "url": "https://note.com/flute_nknm/n/ncc2ef7b134c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Since it had finally become super slow, I ordered one from the rainforest site.",
+    "url": "https://note.com/flute_nknm/n/ncc2ef7b134c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It arrived the very next day.",
+    "url": "https://note.com/flute_nknm/n/ncc2ef7b134c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It's running fast and smooth now!",
+    "url": "https://note.com/flute_nknm/n/ncc2ef7b134c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The PC itself is a laptop, but I have a large monitor connected to it.",
+    "url": "https://note.com/flute_nknm/n/ncc2ef7b134c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "By the way, according to information online, it seems about 10% of individual users are still using 7...",
+    "url": "https://note.com/flute_nknm/n/ncc2ef7b134c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Windows 11 laptop has arrived; I have a 22-inch monitor connected to it.",
+    "url": "https://note.com/flute_nknm/n/ncc2ef7b134c9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "海外通販初心者ガイドVol.1 基礎編｜失敗しないための最短ルート",
+    "url": "https://note.com/numa_numaali",
+    "pass": 3
+   },
+   {
+    "quote": "今夜のCPIがAI株の運命を決める 2026年11月9日のオプション市場分析とニュース",
+    "url": "https://note.com/numa_numaali",
+    "pass": 3
+   },
+   {
+    "quote": "半導体指数-12%の衝撃 底はまだ先か 2026年11月5日のオプション市場分析とニュース",
+    "url": "https://note.com/numa_numaali",
+    "pass": 3
+   },
+   {
+    "quote": "中間選挙で揺れるAI株の行方 2026年11月3～4日の市場分析とニュース",
+    "url": "https://note.com/numa_numaali",
+    "pass": 3
+   },
+   {
+    "quote": "AMD決算、中間選挙、イラン緊張で迎える運命の火曜夜 オプション市場分析とニュース",
+    "url": "https://note.com/numa_numaali",
+    "pass": 3
+   },
+   {
+    "quote": "中間選挙とApple決算、AI株は今夜どう動くか",
+    "url": "https://note.com/numa_numaali",
+    "pass": 3
+   },
+   {
+    "quote": "AI株暴落の正体と、Palantir・Apple決算の行方",
+    "url": "https://note.com/numa_numaali",
+    "pass": 3
+   },
+   {
+    "quote": "たまに投げるならこんなボウリング場「たまなげ！」 384 青森・アオモリボウル",
+    "url": "https://note.com/numadot",
+    "pass": 3
+   },
+   {
+    "quote": "たまに投げるならこんなボウリング場「たまなげ！」 383 茨城・GiGO BOWL石岡",
+    "url": "https://note.com/numadot",
+    "pass": 3
+   },
+   {
+    "quote": "たまに投げるならこんなボウリング場「たまなげ！」 382 大分・日田アストロボウル",
+    "url": "https://note.com/numadot",
+    "pass": 3
+   },
+   {
+    "quote": "たまに投げるならこんなボウリング場「たまなげ！」 212-2 愛知・開運ボウル",
+    "url": "https://note.com/numadot",
+    "pass": 3
+   },
+   {
+    "quote": "たまに投げるならこんなボウリング場「たまなげ！」 381 秋田・ロックンボウル",
+    "url": "https://note.com/numadot",
+    "pass": 3
+   },
+   {
+    "quote": "たまに投げるならこんなボウリング場「たまなげ！」 380 熊本・パスカワールド グリーンランド",
+    "url": "https://note.com/numadot",
+    "pass": 3
+   },
+   {
+    "quote": "たまに投げるならこんなボウリング場「たまなげ！」 379 群馬・レインボーワールド前橋",
+    "url": "https://note.com/numadot",
+    "pass": 3
+   },
+   {
+    "quote": "たまに投げるならこんなボウリング場「たまなげ！」 378 山形・米沢ボウリングレーンズ",
+    "url": "https://note.com/numadot",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Numa / 沼能友樹 (@tomoki_numano) / X Numa / 沼能友樹 (@tomoki_numano) / X X https://x.com > tomoki_numano",
+    "url": "https://x.com/tomoki_numano",
+    "pass": 3
+   },
+   {
+    "quote": "Numa (@NyumMa02) / X Numa (@NyumMa02) / X X https://x.com > NyumMa02",
+    "url": "https://x.com/NyumMa02",
+    "pass": 3
+   },
+   {
+    "quote": "Numa (@NumaNooms) / X Numa (@NumaNooms) / X X https://x.com > NumaNooms > all",
+    "url": "https://x.com/NumaNooms/all",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Numa - LinkedIn Numa - LinkedIn LinkedIn https://www.linkedin.com > numa",
+    "url": "https://www.linkedin.com/company/numa",
+    "pass": 3
+   },
+   {
+    "quote": "Numa AI - LinkedIn Numa AI - LinkedIn LinkedIn https://www.linkedin.com > getnuma",
+    "url": "https://www.linkedin.com/company/getnuma",
+    "pass": 3
+   },
+   {
+    "quote": "Numa | LinkedIn Numa | LinkedIn LinkedIn https://www.linkedin.com > weusenuma",
+    "url": "https://www.linkedin.com/company/weusenuma/",
+    "pass": 3
+   },
+   {
+    "quote": "NUMA Networks - LinkedIn NUMA Networks - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/numa-networks",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Numa Elementary School | Fallon NV - Facebook Numa Elementary School | Fallon NV - Facebook Facebook https://www.facebook.com > ... > Elementary School",
+    "url": "https://www.facebook.com/NumaElementary/",
+    "pass": 3
+   },
+   {
+    "quote": "Numa | Oakland CA - Facebook Numa | Oakland CA - Facebook Facebook https://www.facebook.com > ... > Software Company",
+    "url": "https://www.facebook.com/numahelps/",
+    "pass": 3
+   },
+   {
+    "quote": "NUMA Judo | Facebook NUMA Judo | Facebook Facebook https://www.facebook.com > Facebook Groups",
+    "url": "https://www.facebook.com/groups/326777537402077/",
+    "pass": 3
+   },
+   {
+    "quote": "NUMA Wellness Collective | Mobile AL - Facebook NUMA Wellness Collective | Mobile AL - Facebook Facebook https://www.facebook.com > ... > Wellness Center",
+    "url": "https://www.facebook.com/p/NUMA-Wellness-Collective-61577769808937/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://numa.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://numa.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://numa.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://numa.com/casestudies/dyer-automotive-group-gives-ai-a-second-shot",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://numa-meta.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/numa_meta_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://docs.redhat.com/ja/documentation/red_hat_enterprise_linux/7/html/virtualization_deployment_and_administration_guide/sect-manipulating_the_domain_xml-numa_node_tuning",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keisoku.co.jp/u-po/20260414-02/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.keisoku.co.jp/u-po/20260414-02/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://resources.altium.com/jp/p/authorized-vs-unauthorized-distributors-electronic-components-supply-chain",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.scbt.com/ja/browse/numa-antibodies?srsltid=AYCX9vI8VrJ7ZZ8NmDURiN-oHMgcVoM7VeaDbR-ibVg1vQfyeDu1qVYe",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://numastays.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Shosaku_Numa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reservations.com/Hotels/numa-japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/NUMA.JPN/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vIySAbhwt2VT9yyymMBwNCsPo7Ijpe3pkggxmmAnPwn4szkDQwz",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://numa.com/casestudies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nutanix.com/solutions/manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://webinone.com/reseller-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://multiples.vc/private-comps/numa",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://press.numastays.com/millennial-and-gen-z-hotel-numa-group-raises-45m-fueled-by-strong-performance-despite-pandemic",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/numa/__yRSA6ZTVffRbSsiL2tAxeznJunABRmWvNnPk0Au7f74",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.verlinvest.com/insights/numa-investment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/flute_nknm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/diet_km/n/nf56a9111d333?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/flute_nknm/n/ncc2ef7b134c9?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/numa_numaali",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/tomoki_numano",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/NyumMa02",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/NumaNooms/all",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/numa",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/getnuma",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/weusenuma/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/numa-networks",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/NumaElementary/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/numahelps/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/326777537402077/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/NUMA-Wellness-Collective-61577769808937/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/numa_numaali",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/flute_nknm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/numadot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/naganuma_web",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Numa 日本 導入",
+   "results": [
+    "https://numa-meta.com/",
+    "https://x.com/numa_meta_",
+    "https://docs.redhat.com/ja/documentation/red_hat_enterprise_linux/7/html/virtualization_deployment_and_administration_guide/sect-manipulating_the_domain_xml-numa_node_tuning",
+    "https://www.keisoku.co.jp/u-po/20260414-02/",
+    "https://www.sangfor.com/jp/blog/cloud-and-infrastructure/vmware-replacement-numa-aware-performance",
+    "https://www.os.is.s.u-tokyo.ac.jp/publication/poster/2024-apsys-chiang/",
+    "https://techdocs.broadcom.com/jp/ja/vmware-cis/vsphere/vsphere/7-0/vsphere-resource-management/using-numa-systems-with-esxi/what-is-numa.html",
+    "https://www.numa-tech.com/ja/case-studies/index.html",
+    "https://www.facebook.com/NUMA.JPN/?locale=ja_JP",
+    "https://ja.wikipedia.org/wiki/NUMA"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Numa 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.keisoku.co.jp/u-po/20260414-02/",
+    "https://resources.altium.com/jp/p/authorized-vs-unauthorized-distributors-electronic-components-supply-chain",
+    "https://www.bgent.net/plus/article/7044",
+    "https://www.scbt.com/ja/browse/numa-antibodies?srsltid=AYCX9vI8VrJ7ZZ8NmDURiN-oHMgcVoM7VeaDbR-ibVg1vQfyeDu1qVYe",
+    "https://www.numa-tech.com/ja/case-studies/index.html",
+    "https://www.medicalexpo.com/ja/soc/numa-electronics-305697.html",
+    "https://numa-s.com/recpolicy/",
+    "https://www.jftc.go.jp/dk/soudanjirei/h23/h22nendomokuji/h22nendo02.html",
+    "https://www.booking.com/hotel/de/numa-l-bloc-apartments.ja.html",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Numa Japan",
+   "results": [
+    "https://numastays.com/",
+    "https://en.wikipedia.org/wiki/Shosaku_Numa",
+    "https://www.reservations.com/Hotels/numa-japan",
+    "https://www.facebook.com/NUMA.JPN/?locale=ja_JP",
+    "https://techdocs.broadcom.com/jp/ja/vmware-cis/vsphere/vsphere/8-0/vsphere-resource-management/using-numa-systems-with-esxi/what-is-numa.html",
+    "https://www.youtube.com/watch?v=wlmmsJvFgzQ",
+    "https://inbox.numa.com/login",
+    "https://vocaloid.fandom.com/wiki/Numa",
+    "https://numa.net/about-numa-2/",
+    "https://ja.wikipedia.org/wiki/NRNA-Japan"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Numa manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vIySAbhwt2VT9yyymMBwNCsPo7Ijpe3pkggxmmAnPwn4szkDQwz",
+    "https://numa.com/casestudies",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.nutanix.com/solutions/manufacturing",
+    "https://nomuda.com/case-studies/",
+    "https://nmis.scot/what-we-do/case-studies/",
+    "https://www.prnewswire.com/news-releases/numa-introduces-the-first-voice-ai-with-a-smart-inbox-that-understands-every-customer-conversation-for-dealerships-302623160.html",
+    "https://www.linkedin.com/top-content/innovation/innovation-in-manufacturing-processes/case-studies-on-successful-manufacturing-innovations/",
+    "https://asknuma.ai/use-cases",
+    "https://www.numa.co/en/media-contenu/cas-client"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Numa white label OR reseller OR partner program",
+   "results": [
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://webinone.com/reseller-program",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://getquantic.com/become-white-label-software-reseller/",
+    "https://intandem.vcita.com/blog/partners/different-types-of-white-label-partnerships",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://sales-label.com/blog/white-label-saas-reseller"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Numa founded funding employees revenue",
+   "results": [
+    "https://multiples.vc/private-comps/numa",
+    "https://press.numastays.com/millennial-and-gen-z-hotel-numa-group-raises-45m-fueled-by-strong-performance-despite-pandemic",
+    "https://tracxn.com/d/companies/numa/__yRSA6ZTVffRbSsiL2tAxeznJunABRmWvNnPk0Au7f74",
+    "https://www.verlinvest.com/insights/numa-investment/",
+    "https://www.linkedin.com/posts/andreasstavropoulos_numa-raises-32m-to-bring-ai-and-automation-activity-7246932175533580288-3cEe",
+    "https://growjo.com/company/numa_(formerly_COSI)",
+    "https://techcrunch.com/2022/02/07/boutique-hotel-tech-platform-numa-raises-45m-growth-financing-round-led-by-dn-capital/",
+    "https://www.crunchbase.com/organization/cosi-hospitality",
+    "https://dealroom.co/companies/numa-5/",
+    "https://compworth.com/company/numa"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Numa",
+   "results": [
+    "https://note.com/flute_nknm",
+    "https://note.com/diet_km/n/nf56a9111d333?hl=en",
+    "https://note.com/flute_nknm/n/ncc2ef7b134c9?hl=en",
+    "https://note.com/numa_numaali",
+    "https://note.com/chic_loris5096/n/n5566a4ecea7f",
+    "https://note.com/aiojisan2024/n/n017b5d35beff",
+    "https://note.com/flute_nknm/n/nb038830e89b7",
+    "https://note.com/numachantrip/n/n751a323d82fe?hl=en",
+    "https://note.com/value_jinja/n/n2485b1cf561f?hl=en",
+    "https://note.com/arisatokei/n/nafa6499a6a25?hl=en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Numa",
+   "results": [
+    "https://x.com/tomoki_numano",
+    "https://x.com/NyumMa02",
+    "https://x.com/NumaNooms/all",
+    "https://x.com/Gman250",
+    "https://x.com/tripleoji",
+    "https://x.com/sideb_01/status/2087011371267375291",
+    "https://x.com/numa_meta_",
+    "https://x.com/Anetttu",
+    "https://x.com/Numa___00",
+    "https://x.com/numa_exchange"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com Numa",
+   "results": [
+    "https://www.linkedin.com/company/numa",
+    "https://www.linkedin.com/company/getnuma",
+    "https://www.linkedin.com/company/weusenuma/",
+    "https://www.linkedin.com/company/numa-networks",
+    "https://www.linkedin.com/pulse/numa-why-its-important-performance-tuning-sudhir-pant-as5zc",
+    "https://www.linkedin.com/posts/vibhork_postgresql-dataplatforms-performance-activity-7386720849728339970-Dpko",
+    "https://de.linkedin.com/company/numa-stays",
+    "https://www.linkedin.com/in/numadhamani",
+    "https://www.linkedin.com/company/numaconsulting"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com Numa",
+   "results": [
+    "https://www.facebook.com/NumaElementary/",
+    "https://www.facebook.com/numahelps/",
+    "https://www.facebook.com/groups/326777537402077/",
+    "https://www.facebook.com/p/NUMA-Wellness-Collective-61577769808937/",
+    "https://www.facebook.com/NumaFoods/",
+    "https://www.facebook.com/numarestaurant/",
+    "https://www.facebook.com/groups/numacompact2xusers/posts/1319070800010419/",
+    "https://www.facebook.com/numahotels/",
+    "https://www.facebook.com/p/Numa-Style-61575281327898/",
+    "https://www.facebook.com/p/Numa-Coffee-Bar-By-Chef-Reynaga-61575806579900/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Numa note 社長",
+   "results": [
+    "https://note.com/numa_numaali",
+    "https://note.com/flute_nknm",
+    "https://note.com/numadot",
+    "https://note.com/naganuma_web",
+    "https://www.youtube.com/watch?v=ejK9NyrS3e0",
+    "https://note.com/flute_nknm/n/nb038830e89b7",
+    "https://www.cow-soap.co.jp/news/news-20231030-001/",
+    "https://note.com/naganuma_web/all",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Numa X 投稿",
+   "results": [
+    "https://www.reddit.com/r/DigitalPiano/comments/1c9jchx/numa_x_piano_73_want_to_love_it_but_cant/?tl=ja",
+    "https://www.studiologic-music.com/blog/2021-09-20_introducing_numaxpiano/",
+    "https://dirigent.jp/blog/introduce-numa-x-piano-5",
+    "https://pianoclack.com/forum/d/858-studiologic-numa-x-piano-73-review",
+    "https://forums.musicplayer.com/topic/190354-studiologic-numa-x-stage-piano-73-review/",
+    "https://applink.reverb.com/en-se/item/76056494-numa-x-piano-73-studiologic",
+    "https://note.com/chic_loris5096/n/n5566a4ecea7f?hl=en",
+    "https://www.synthcloud.net/products/pcl011-pacolab-expressive-pack-studiologic-numa-x-piano?srsltid=AYCX9vKDx1D9wl1S-iBgLCJHms8u0ydpambna8jgMxvOFOn4v2LF_ErJ",
+    "https://x.com/numa_radio",
+    "https://x.com/NumaV7/status/2091321546694631679"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部43頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部43頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部43頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部43頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部43頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部43頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部43頁・検索12回）"
+ }
+}

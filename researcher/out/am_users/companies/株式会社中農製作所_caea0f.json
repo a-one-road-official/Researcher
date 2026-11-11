@@ -1,0 +1,748 @@
+{
+ "name": "株式会社中農製作所",
+ "aliases": [],
+ "context": "ipros_all:特注",
+ "researched_at": "2026-11-11T13:40:53.031798+00:00",
+ "official_url": "https://www.senjoh-komachi.jp",
+ "identified_by": "given",
+ "profile": {
+  "拠点": [
+   {
+    "label": "新町工場",
+    "value": "〒579-8037東大阪市新町21-26",
+    "url": "https://www.senjoh-komachi.jp/",
+    "pass": 1
+   },
+   {
+    "label": "新町工場",
+    "value": "〒579-8037東大阪市新町21-26",
+    "url": "https://www.senjoh-komachi.jp/case/",
+    "pass": 1
+   },
+   {
+    "label": "新町工場",
+    "value": "〒579-8037東大阪市新町21-26",
+    "url": "https://www.senjoh-komachi.jp/info/2026/05/blackwhite.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "洗浄小町は、東大阪ブランド推進機構より「ナンバーワン」・「オンリーワン」・ 「プラスアルファ」の高い認定基準をクリアした製品として、東大阪ブランド製品に認定されました",
+    "url": "https://www.senjoh-komachi.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Aqua Komachi 標準ラインナップʢ\u0012\u0019Ὑ\u0010\u0012 ؈ʣ",
+    "url": "https://www.senjoh-komachi.jp/images/common/aqua-komachi.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "以後、中小型船舶の減速機をはじめ、トラクターなどの農機具、そして高精度な自動車部品へと、各時代のニーズに応える製品を製造し、着実な成長を遂げてまいりました",
+    "url": "https://nakanos-s.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "小型部品洗浄機をはじめとする自社製品の開発を推進するなど、新事業へも挑戦を続けています",
+    "url": "https://nakanos-s.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "中農製作所の製品・サービス一覧｜イプロスものづくり",
+    "url": "https://mono.ipros.com/company/detail/2048187/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(15)",
+    "url": "https://mono.ipros.com/company/detail/2048187/category/",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザー様における製品検査が不要！交差穴のバリに対して当社が完全保証を実施！",
+    "url": "https://mono.ipros.com/company/detail/2048187/category/",
+    "pass": 3
+   },
+   {
+    "quote": "保証により、お客様はノーチェックでの製品組立ができます",
+    "url": "https://mono.ipros.com/company/detail/2048187/category/",
+    "pass": 3
+   },
+   {
+    "quote": "シビアな製品検査を実施することで、全数バリレス保証を実現しています",
+    "url": "https://mono.ipros.com/company/detail/2048187/category/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社中農製作所では、製品の材質・サイズ・形状・公差等に合わせて、",
+    "url": "https://mono.ipros.com/company/detail/2048187/category/",
+    "pass": 3
+   },
+   {
+    "quote": "この製品の情報は、公式サイトの公開情報をもとに BizExpo が作成したものです",
+    "url": "https://bizexpo.jp/companies/nakanos-s/products/precision-machining",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "ミニコマを使用し始めてからは、マスキング治具の新品購入量が激減しました",
+    "url": "https://www.senjoh-komachi.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "塗装治具に付いた塗膜が水だけで綺麗に簡単に剥離出来て、非常に助かっています",
+    "url": "https://www.senjoh-komachi.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "事例⑤ ～協動ロボットによる自働ライン対応～",
+    "url": "https://www.senjoh-komachi.jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車(T社Tier1)",
+    "url": "https://www.senjoh-komachi.jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "⇒ロボット連携対応により、加工→洗浄→検査を完全自動化",
+    "url": "https://www.senjoh-komachi.jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車業界を中心にバルブ、航空など様々な業界の洗浄シーンで導入・活躍しています",
+    "url": "https://www.senjoh-komachi.jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "Y 自動車業界 (Tier 1 ,2) での実績あり",
+    "url": "https://www.senjoh-komachi.jp/images/common/auto.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "以後、中小型船舶の減速機をはじめ、トラクターなどの農機具、そして高精度な自動車部品へと、各時代のニーズに応える製品を製造し、着実な成長を遂げてまいりました",
+    "url": "https://nakanos-s.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "2000年代初頭からは、半導体製造装置、ロボットなどの最先端分野をはじめ、20業種を超える多様な産業機械部品を製造",
+    "url": "https://nakanos-s.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "また、搬送用ロボットとのセット対応もお任せください",
+    "url": "https://mono.ipros.com/company/detail/2048187/category/",
+    "pass": 3
+   },
+   {
+    "quote": "【洗浄工程自働化】搬送ロボット連携(『洗浄小町』シリーズ)",
+    "url": "https://mono.ipros.com/company/detail/2048187/category/",
+    "pass": 3
+   },
+   {
+    "quote": "特殊治具により、チャッキング歪みを徹底的に排除！ミクロンオーダーの高精密・高真円度を実現！",
+    "url": "https://mono.ipros.com/company/detail/2048187/category/",
+    "pass": 3
+   },
+   {
+    "quote": "避けられない三角形状の変型を、自社開発の特殊治具により抑止",
+    "url": "https://mono.ipros.com/company/detail/2048187/category/",
+    "pass": 3
+   },
+   {
+    "quote": "特殊治具で適切に固定することにより、ミクロンオーダーの高精密・",
+    "url": "https://mono.ipros.com/company/detail/2048187/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■三角形状の変型を自社開発の特殊治具により抑止",
+    "url": "https://mono.ipros.com/company/detail/2048187/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■ビビリが発生しないよう特殊治具で適切に固定",
+    "url": "https://mono.ipros.com/company/detail/2048187/category/",
+    "pass": 3
+   },
+   {
+    "quote": "特殊治具におる仕上げ加工により、φ100程度・肉厚1mmの",
+    "url": "https://mono.ipros.com/company/detail/2048187/category/",
+    "pass": 3
+   },
+   {
+    "quote": "深溝加工刃具、多段の精度穴を同時に仕上げる位置決め・多数個取り治具等",
+    "url": "https://mono.ipros.com/company/detail/2048187/category/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "材質上、錆が発生しやすいため乾燥が重要",
+    "url": "https://www.senjoh-komachi.jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "上記にはない、温度、材質（金属以外も可）、用途についても最適な洗浄剤を独自ブレンドす",
+    "url": "https://www.senjoh-komachi.jp/images/common/aqua-komachi.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "浄剤など、材質・用途に応じて様々な洗浄剤の組",
+    "url": "https://www.senjoh-komachi.jp/images/common/aqua-komachi.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "株式会社中農製作所では、製品の材質・サイズ・形状・公差等に合わせて、",
+    "url": "https://mono.ipros.com/company/detail/2048187/category/",
+    "pass": 3
+   },
+   {
+    "quote": "【塗膜剥離】塗装現場で溶剤、使ってますか？──マスキング材の材質による最適な剥離方法とは？",
+    "url": "https://note.com/nakano_senjoh",
+    "pass": 3
+   },
+   {
+    "quote": "【塗膜剥離】塗装現場で溶剤、使ってますか？──マスキング材の材質による最適な剥離方法とは？",
+    "url": "https://note.com/nakano_senjoh/all",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "Tay Thanh Ward, Tan Phu District, HCM City, Viet Nam",
+    "url": "https://www.senjoh-komachi.jp/images/common/aqua-komachi.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Instagram 4コマ漫画No.16『BLACK村田』を追加しました",
+    "url": "https://nakanos-s.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "Instagram ダナン竣工式を追加しました",
+    "url": "https://nakanos-s.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "例）example@nakanos-s.co.jp（半角英数字）",
+    "url": "https://www.nakanos-s.co.jp/inquiry/index.html",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "高度な切削加工技術を駆使し、あらゆる産業機械部品の試作・量産加工を行っています",
+    "url": "https://nakanos-s.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "アルミ・ステンレスの複雑形状・精密切削に対応し、産業機械部品の試作・量産加工を行う",
+    "url": "https://bizexpo.jp/companies/nakanos-s/products/precision-machining",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "精密切削加工と部品洗浄機の＜中農製作所＞ — 株式会社中農製作所は、1949年、ミシン部品製造事業を創業。 以後、中小型船舶の減速機をはじめ、トラクターなどの農機具、そして高精度な自動車部品へと、各時代のニーズに応える製品を製造し、着実な成長を遂げてまいりました。",
+    "url": "https://nakanos-s.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "中農製作所の製品・サービス一覧｜イプロスものづくり — Nov 24, 2025 · 中農製作所 の製品・サービス一覧です。 加工における洗浄工程の「効率化」にお悩みではございませんか？当社の部品洗浄機『洗浄小町』が洗浄工程のインライン化をお助けします！ 部品洗浄機『洗浄小町』シリーズの製作・販売も行っており、自動車部品の加工メーカー様を中心にバルブ ...",
+    "url": "https://mono.ipros.com/company/detail/2048187/category/",
+    "pass": 3
+   },
+   {
+    "quote": "精密切削加工（株式会社中農製作所）｜BizExpo.jp — この製品の企業 株式会社中農製作所製造業・企業ページ（ほかの製品・会社情報）出展情報出展予定：2026洗浄総合展 株式会社中農製作所 の企業ページへ戻る",
+    "url": "https://bizexpo.jp/companies/nakanos-s/products/precision-machining",
+    "pass": 3
+   },
+   {
+    "quote": "部品加工事業 の製品一覧｜中農製作所｜イプロスものづくり — Nov 24, 2025 · 中農製作所 の 部品加工事業 の一覧情報。 加工における洗浄工程の「効率化」にお悩みではございませんか？当社の部品洗浄機『洗浄小町』が洗浄工程のインライン化をお助けします！ 部品洗浄機『洗浄小町』シリーズの製作・販売も行っており、自動車部品の加工メーカー様を中心にバルブ ...",
+    "url": "https://mono.ipros.com/company/detail/2048187/category/64968/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ｜精密切削加工と部品洗浄機の＜中農製作所＞ — お問い合わせ お電話またはメールでお気軽にお問い合わせください 専任スタッフが迅速にご対応させていただきます。 中農製作所では、各種部品製作や技術等に関するご質問・お問い合わせを承っております。また、その他のご相談につきましても、お電話またはメールでお気軽にお尋ね ...",
+    "url": "https://www.nakanos-s.co.jp/inquiry/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "精密切削加工と部品洗浄機の＜中農製作所＞ — 中農製作所 業務ブログ 洗浄小町TV 70周年記念映像 企業情報 ベトナム法人 WEBサイト 採用情報「BLACK & WHITE」 知的資産経営報告書（PDF） 独自の高度な技術を有する精密切削加工のエキスパート企業として、最新の切削加工ニーズにお応えしてまいります。",
+    "url": "https://nakanos-s.co.jp/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "お問い合わせ｜精密切削加工と部品洗浄機の＜中農製作所＞",
+    "url": "https://www.nakanos-s.co.jp/inquiry/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "中農製作所では、各種部品製作や技術等に関するご質問・お問い合わせを承っております",
+    "url": "https://www.nakanos-s.co.jp/inquiry/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、その他のご相談につきましても、お電話またはメールでお気軽にお尋ねください",
+    "url": "https://www.nakanos-s.co.jp/inquiry/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "メールでのお問合せは、下記の各フォームにご入力の上ご送信ください",
+    "url": "https://www.nakanos-s.co.jp/inquiry/index.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "中農製作所｜note 中農製作所 製造業の現場改善を支援する洗浄装置メーカーです。 インラインに特化した部品洗浄機や塗膜剥離の自動化など、省人化・コスト削減の最新情報を発信。 製造業の利益を守るためのヒントをお届けします。",
+    "url": "https://note.com/nakano_senjoh",
+    "pass": 3
+   },
+   {
+    "quote": "中農製作所の記事一覧｜note（ノート） 【部品洗浄】「ちゃんと洗えてる」をどう証明する？洗浄品質の正しい測り方 中農製作所 2か月前 2か月前",
+    "url": "https://note.com/nakano_senjoh/all",
+    "pass": 3
+   },
+   {
+    "quote": "【部品洗浄】洗浄トラブル\"あるある\"と解決のヒント｜中農製作所 Mar 31, 2026 · インライン洗浄に特化した小型部品洗浄機『洗浄小町』｜株式会社中農製作所 洗浄小町は、自社の部品加工ラインの生産性向上のために開発した水系・小型部品洗浄機です。 www.senjoh-komachi.jp ↓ WEBでのお問い合わせはこちらから！",
+    "url": "https://note.com/nakano_senjoh/n/n867ea308b628",
+    "pass": 3
+   },
+   {
+    "quote": "【塗膜剥離】塗装業の危機を乗り切る──現場で起きている大きな変化｜... Apr 13, 2026 · ミニコマMK-2 | 部品洗浄機ラインナップ｜洗浄小町｜株式会社中農製作所 マスキングゴムに付いた塗料を剥離して再利用できる!ミニコマMK-2 www.senjoh-komachi.jp",
+    "url": "https://note.com/nakano_senjoh/n/ne83faca909f4",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【部品洗浄】「ちゃんと洗えてる」をどう証明する？洗浄品質の正しい測り方",
+    "url": "https://note.com/nakano_senjoh",
+    "pass": 3
+   },
+   {
+    "quote": "【塗膜剥離】塗装業の危機を乗り切る──現場で起きている大きな変化",
+    "url": "https://note.com/nakano_senjoh",
+    "pass": 3
+   },
+   {
+    "quote": "【部品洗浄】洗浄トラブル\"あるある\"と解決のヒント",
+    "url": "https://note.com/nakano_senjoh",
+    "pass": 3
+   },
+   {
+    "quote": "【塗膜剥離】マスキング費用の高騰は避けられないのか──原材料の価格上昇と現場改善の選択肢",
+    "url": "https://note.com/nakano_senjoh",
+    "pass": 3
+   },
+   {
+    "quote": "【部品洗浄】部品洗浄で失敗しない！洗浄剤選びのポイント",
+    "url": "https://note.com/nakano_senjoh",
+    "pass": 3
+   },
+   {
+    "quote": "【塗膜剥離】塗装現場とSDGs──\"マスキング再利用\"が持つ環境改善の可能性",
+    "url": "https://note.com/nakano_senjoh",
+    "pass": 3
+   },
+   {
+    "quote": "【部品洗浄】「ちゃんと洗えてる」をどう証明する？洗浄品質の正しい測り方",
+    "url": "https://note.com/nakano_senjoh/all",
+    "pass": 3
+   },
+   {
+    "quote": "【塗膜剥離】塗装業の危機を乗り切る──現場で起きている大きな変化",
+    "url": "https://note.com/nakano_senjoh/all",
+    "pass": 3
+   },
+   {
+    "quote": "【部品洗浄】洗浄トラブル\"あるある\"と解決のヒント",
+    "url": "https://note.com/nakano_senjoh/all",
+    "pass": 3
+   },
+   {
+    "quote": "【塗膜剥離】マスキング費用の高騰は避けられないのか──原材料の価格上昇と現場改善の選択肢",
+    "url": "https://note.com/nakano_senjoh/all",
+    "pass": 3
+   },
+   {
+    "quote": "【部品洗浄】部品洗浄で失敗しない！洗浄剤選びのポイント",
+    "url": "https://note.com/nakano_senjoh/all",
+    "pass": 3
+   },
+   {
+    "quote": "【塗膜剥離】塗装現場とSDGs──\"マスキング再利用\"が持つ環境改善の可能性",
+    "url": "https://note.com/nakano_senjoh/all",
+    "pass": 3
+   },
+   {
+    "quote": "【部品洗浄】これで迷わない！部品洗浄機の選定ポイント(その③)",
+    "url": "https://note.com/nakano_senjoh/all",
+    "pass": 3
+   },
+   {
+    "quote": "【塗膜剥離】塗膜剥離を見直しただけで、年間約170万円の削減に繋がった話",
+    "url": "https://note.com/nakano_senjoh/all",
+    "pass": 3
+   },
+   {
+    "quote": "【部品洗浄】洗浄トラブル\"あるある\"と解決のヒント｜中農製作所",
+    "url": "https://note.com/nakano_senjoh/n/n867ea308b628",
+    "pass": 3
+   },
+   {
+    "quote": "【部品洗浄】洗浄トラブル\"あるある\"と解決のヒント",
+    "url": "https://note.com/nakano_senjoh/n/n867ea308b628",
+    "pass": 3
+   },
+   {
+    "quote": "実際の現場で起きやすいトラブルと具体的な対処法",
+    "url": "https://note.com/nakano_senjoh/n/n867ea308b628",
+    "pass": 3
+   },
+   {
+    "quote": "・水(純水)のみの場合、水系洗浄剤に変えてみる",
+    "url": "https://note.com/nakano_senjoh/n/n867ea308b628",
+    "pass": 3
+   },
+   {
+    "quote": "・ブロワー→ エアブローに変えてみる（風力によるアプローチ）",
+    "url": "https://note.com/nakano_senjoh/n/n867ea308b628",
+    "pass": 3
+   },
+   {
+    "quote": "・動かない固定式の場合、回転式に変える（遠心力を利用）",
+    "url": "https://note.com/nakano_senjoh/n/n867ea308b628",
+    "pass": 3
+   },
+   {
+    "quote": "「熱」、「風」、「動き」のどれかを見直すことで乾燥力が向上する可能性あり！",
+    "url": "https://note.com/nakano_senjoh/n/n867ea308b628",
+    "pass": 3
+   },
+   {
+    "quote": "脱脂力だけを突き詰めると、シミが残る場合も多い",
+    "url": "https://note.com/nakano_senjoh/n/n867ea308b628",
+    "pass": 3
+   },
+   {
+    "quote": "【塗膜剥離】塗装業の危機を乗り切る──現場で起きている大きな変化｜中農製作所",
+    "url": "https://note.com/nakano_senjoh/n/ne83faca909f4",
+    "pass": 3
+   },
+   {
+    "quote": "【塗膜剥離】塗装業の危機を乗り切る──現場で起きている大きな変化",
+    "url": "https://note.com/nakano_senjoh/n/ne83faca909f4",
+    "pass": 3
+   },
+   {
+    "quote": "塗装工事業の倒産件数が143件（前年比＋22.2%）と大きく増加",
+    "url": "https://note.com/nakano_senjoh/n/ne83faca909f4",
+    "pass": 3
+   },
+   {
+    "quote": "この状況だけ見ると単に「景気が悪いから」と捉えられがちですが、実際はくつかの要因が重なっています。",
+    "url": "https://note.com/nakano_senjoh/n/ne83faca909f4",
+    "pass": 3
+   },
+   {
+    "quote": "塗料やシンナーは石油由来なため、中東情勢の影響を大きく受けます。",
+    "url": "https://note.com/nakano_senjoh/n/ne83faca909f4",
+    "pass": 3
+   },
+   {
+    "quote": "もあり、現場のコスト構造を大きく変えています。",
+    "url": "https://note.com/nakano_senjoh/n/ne83faca909f4",
+    "pass": 3
+   },
+   {
+    "quote": "塗装業界は価格競争が激しく、コストが上がっても受注価格に反映しづらい現実があります。",
+    "url": "https://note.com/nakano_senjoh/n/ne83faca909f4",
+    "pass": 3
+   },
+   {
+    "quote": "こうした状況の中で、現場レベルでは静かに変化が起きています。",
+    "url": "https://note.com/nakano_senjoh/n/ne83faca909f4",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "おはようございます 昨日「MOBIO展活」見学ツアーで中農製作所さんに... MOBIOものづくりビジネスセンター大阪 (@MOBIO_). 156 views. おはようございます 昨日「MOBIO展活」見学ツアーで中農製作所さんに遭遇！展示がさらに進化中 マスキングプラグやキャップの再利用でお困りの方は必見です。インテックス大阪『塗料・塗装設備展』は本日最終日！ 企業詳細 https://t.co ...",
+    "url": "https://x.com/MOBIO_/status/2055089741511745807",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社中農製作所 Mar 21, 2023 · 塗装工程にエコなご提案。 使用後の塗料がついた シリコン製のマスキングゴム、捨てていませんか？ minikomaで再生し再利用できます。 Yoshiaki Uda 株式会社中農製作所 Dec 19, 2022 株式会社中農製作所 Dec 19, 2022 株式会社中農製作所。 FB始めました。 Yoshiaki Uda 1 株式会社中農 ...",
+    "url": "https://www.facebook.com/people/株式会社-中農製作所/100089079301920/",
+    "pass": 3
+   },
+   {
+    "quote": "中農製作所 中農製作所 ... 中農製作所",
+    "url": "https://www.facebook.com/中農製作所-452963531427444/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社中農製作所 株式会社中農製作所",
+    "url": "https://www.facebook.com/株式会社中農製作所-287782747926636/",
+    "pass": 3
+   },
+   {
+    "quote": "東大阪市立産業技術支援センター | Higashiosaka-shi Osaka株式会社中農機 - Facebookマスキングゴムの再生 | 塗装工程にエコなご提案。 使用後の塗料がつ...中農貴詞 - Facebook 3月6日（金） 15:00～17:00 特別講演 「モノづくり現場のカイゼンへの着眼点」 大阪工業大学 情報科学部 データサイエンス学科 教授 皆川 健多郎 氏 17:10～17:40 修了式 ・挨拶；中農 康久 会長（（株）中農製作所 代表取締役会長） ・出席役員紹介 中農 康久 ... Jul 7, 2018 · 株式会社中農機. 157 followers. Agricultural Cooperative 昨日のクボタ田植え機SPU650ですが、早速部品が届い たので作業再開です👨🏻🔧💡 パーツリストを見て頂ければ多板クラッチの構造が分 かりやすいと思います💡クラ",
+    "url": "https://www.facebook.com/sangicenter/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.senjoh-komachi.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.senjoh-komachi.jp/case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.senjoh-komachi.jp/info/2026/05/blackwhite.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.senjoh-komachi.jp/images/common/auto.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.senjoh-komachi.jp/images/common/aqua-komachi.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.senjoh-komachi.jp/images/common/ft-logo1.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.senjoh-komachi.jp/images/common/higashiosaka-brand.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.senjoh-komachi.jp/images/top/bn-5.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://nakanos-s.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2048187/category/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bizexpo.jp/companies/nakanos-s/products/precision-machining",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nakanos-s.co.jp/inquiry/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nakanos-s.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nakano_senjoh",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nakano_senjoh/all",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nakano_senjoh/n/n867ea308b628",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nakano_senjoh/n/ne83faca909f4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/MOBIO_/status/2055089741511745807",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/people/株式会社-中農製作所/100089079301920/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/中農製作所-452963531427444/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/株式会社中農製作所-287782747926636/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sangicenter/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "中農製作所 取扱製品 試作 小ロット",
+   "results": [
+    "https://nakanos-s.co.jp/",
+    "https://mono.ipros.com/company/detail/2048187/category/",
+    "https://bizexpo.jp/companies/nakanos-s/products/precision-machining",
+    "https://mono.ipros.com/company/detail/2048187/category/64968/",
+    "https://kouno-ss.com/small-lot/",
+    "https://www.ipros.com/company/detail/2048187/category/",
+    "https://www.nakanos-s.co.jp/service/precision_machining.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "中農製作所 会社概要 事業内容",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "中農製作所 お問い合わせ メール",
+   "results": [
+    "https://www.nakanos-s.co.jp/inquiry/index.html",
+    "https://www.senjoh-komachi.jp/contact/",
+    "https://nakanos-s.co.jp/",
+    "https://www.nakamura-mfg.com/contact/",
+    "https://www.nakagawa-seisakusyo.com/contact/",
+    "http://www.chuo-seisakusho.co.jp/contact/",
+    "https://www.bestool-kanon.co.jp/contact/index.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 中農製作所",
+   "results": [
+    "https://note.com/nakano_senjoh",
+    "https://note.com/nakano_senjoh/all",
+    "https://note.com/nakano_senjoh/n/n867ea308b628",
+    "https://note.com/nakano_senjoh/n/ne83faca909f4",
+    "https://note.com/nakano_senjoh/n/n718e03c7a69d",
+    "https://note.com/nakano_senjoh/n/n4dba369a4848",
+    "https://note.com/nakano_senjoh/n/n12d2a980104b"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 中農製作所",
+   "results": [
+    "https://x.com/MOBIO_/status/2055089741511745807",
+    "https://x.com/chunokakoub",
+    "https://help.x.com/zh-cn/using-x",
+    "https://x.com/slverspoon",
+    "https://x.com/colormejassy/status/2118498768739790880",
+    "https://x.com/evadentz/status/2115896420809216184",
+    "https://x.com/NoahFentys/status/2118178286157140113"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 中農製作所",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com 中農製作所",
+   "results": [
+    "https://www.facebook.com/people/株式会社-中農製作所/100089079301920/",
+    "https://www.facebook.com/中農製作所-452963531427444/",
+    "https://www.facebook.com/株式会社中農製作所-287782747926636/",
+    "https://www.facebook.com/sangicenter/",
+    "https://www.facebook.com/nakanouki/",
+    "https://www.facebook.com/nakanotakashi19840804/",
+    "https://www.facebook.com/watch/?v=951436592900372",
+    "https://www.facebook.com/mobio.osaka/videos/株中農製作所さんの洗浄小町tcv/1753531161492309/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "中農製作所 note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "中農製作所 X 投稿",
+   "results": [
+    "https://nakanos-s.co.jp/",
+    "https://www.instagram.com/p/DfSIJcomOHX/",
+    "https://www.instagram.com/popular/中農製作所/",
+    "https://nakanos-s.co.jp/info/info_20250926_tpf.html",
+    "https://www.youtube.com/watch?v=Eeb95qTEBqw",
+    "https://note.com/nakano_senjoh",
+    "https://www.senjoh-komachi.jp/info/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "所在地": "記載なし（3回確認済み：公式3頁／PDF・画像5件／外部14頁・検索9回）",
+  "事業内容": "記載なし（3回確認済み：公式3頁／PDF・画像5件／外部14頁・検索9回）",
+  "代表者": "記載なし（3回確認済み：公式3頁／PDF・画像5件／外部14頁・検索9回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像5件／外部14頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像5件／外部14頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式3頁／PDF・画像5件／外部14頁・検索9回）"
+ }
+}

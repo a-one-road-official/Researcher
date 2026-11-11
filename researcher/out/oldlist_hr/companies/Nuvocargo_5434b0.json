@@ -1,0 +1,1299 @@
+{
+ "name": "Nuvocargo",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜商談中",
+ "researched_at": "2026-11-11T12:57:23.051135+00:00",
+ "official_url": "https://www.nuvocargo.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Newport, TN",
+    "url": "https://www.nuvocargo.com/customer-stories/tanteo-tequila/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "New York City, NY, USA",
+    "url": "https://ycpedia.com/companies/nuvocargo",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "創業年",
+    "value": "創業年：2019",
+    "url": "https://ycpedia.com/companies/nuvocargo",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Send loads the way you do today",
+    "url": "https://www.nuvocargo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "RFPs, automatic mini bids and AI agents negotiating spot loads help us find the best carrier at the best rate.",
+    "url": "https://www.nuvocargo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Handle more loads without hiring",
+    "url": "https://www.nuvocargo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "more loads, same team",
+    "url": "https://www.nuvocargo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your customers’ deliveries today, updated 1:52 PM: Northgate Market delivered at 10:20 AM, Ridgeline Supply Co. for 3:40 PM with its delay handled and Cedarline Foods on time for 5:15 PM. The update sent to your team at 1:52 PM reads: SH-87577 is running 40 minutes behind after traffic near Birmingham, and Ridgeline already has the new time.",
+    "url": "https://www.nuvocargo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "More loads to Harborline Transport",
+    "url": "https://www.nuvocargo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A review of the Atlanta to Fort Worth lane over the last 30 days, on-time delivery by carrier: Harborline Transport 96% and recommended, Westvale Freight 91%, Stonepath Carriers 84%. Then the change approved by you: more loads to Harborline Transport.",
+    "url": "https://www.nuvocargo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "No long rollout, no hard integration and no training. Our AI agents work inside the systems you already use.",
+    "url": "https://www.nuvocargo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Count on us for trucks on the loads you send, or for running and improving your whole network.",
+    "url": "https://www.nuvocargo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Byhalia → Nashwauk · Ironwood Express · 70% OTD",
+    "url": "https://www.nuvocargo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring proof to every review",
+    "url": "https://www.nuvocargo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "project44",
+    "url": "https://www.nuvocargo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "cut costs and improved on-time delivery",
+    "url": "https://www.nuvocargo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Both: the same AI agents that run our own operation do the daily work on your loads. Experienced freight operators oversee them with clear rules, step in when an agent should not decide and answer for the result. Every action on every shipment is logged, human or AI, so you always know who did what.",
+    "url": "https://www.nuvocargo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Tens of thousands of loads later, our promise is the same one we started with.",
+    "url": "https://www.nuvocargo.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "No matter what team you are on, make sure your work is adding value to our customers and building deeper customer relationships. Listen to our customers, understand their needs and pain points, and focus on what matters to them. Deliver products & services that our customers love and that address real problems for them.",
+    "url": "https://www.nuvocargo.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "We do our best work every day and seek to be constantly improving.",
+    "url": "https://www.nuvocargo.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "We embrace the highs & lows we will face in pursuit of our mission together. Be adaptable to the constant changes that are normal in a startup. Strive to be a teammate that everyone would want by their side when faced with difficult obstacles and problems. Strive to face adversity with a sense of optimism, determination, and a good attitude.",
+    "url": "https://www.nuvocargo.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "We represent the company in our actions in front of customers, teammates, and the communities we operate in. Make decisions like an owner, with the highest integrity.",
+    "url": "https://www.nuvocargo.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Product & Engineering",
+    "url": "https://www.nuvocargo.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Nuvocargo is building the first AI-native freight execution engine for North American shippers. It combines AI agents with experienced freight operators on NuvoOS, its proprietary system of record. Nuvocargo helps shippers simplify their supply chains, reduce freight spend, improve service and adopt AI faster.",
+    "url": "https://www.nuvocargo.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Leading shippers across North America have run tens of thousands of loads with Nuvocargo. Founded in 2019, Nuvocargo is backed by $75M+ from global investors, including Tiger Global, QED, NFX, Hi Ventures, Y Combinator and the founders of Nubank, Ramp and Deel.",
+    "url": "https://www.nuvocargo.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Industry Provider",
+    "url": "https://www.nuvocargo.com/customer-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "Demand for Tanteo's premium tequilas was growing faster than its cross-border logistics could keep up with, and the border was a black box: no transit status for days at a time, no proactive notice when customs held a load, and hours every month spent vetting carriers. Tanteo now runs the lane with Nuvocargo, at half the transit time and a quarter less freight cost.",
+    "url": "https://www.nuvocargo.com/customer-stories/tanteo-tequila/",
+    "pass": 1
+   },
+   {
+    "quote": "As demand for Tanteo's premium tequilas surged, ensuring a reliable, cost-efficient and transparent supply chain became a top priority. Managing U.S. to Mexico cross-border logistics presented four critical problems:",
+    "url": "https://www.nuvocargo.com/customer-stories/tanteo-tequila/",
+    "pass": 1
+   },
+   {
+    "quote": "Lack of transparency in communication, preventing proactive responses to shipment delays and customs processes, and reducing the ability to mitigate disruptions before they escalated.",
+    "url": "https://www.nuvocargo.com/customer-stories/tanteo-tequila/",
+    "pass": 1
+   },
+   {
+    "quote": "Customs bottlenecks causing unpredictable delays, risking stockouts, missed retail commitments and potential business losses.",
+    "url": "https://www.nuvocargo.com/customer-stories/tanteo-tequila/",
+    "pass": 1
+   },
+   {
+    "quote": "Tanteo partnered with Nuvocargo, a tech-enabled freight and customs provider specializing in U.S. to Mexico cross-border trade. Powered by NuvoOS, Tanteo unlocked three things:",
+    "url": "https://www.nuvocargo.com/customer-stories/tanteo-tequila/",
+    "pass": 1
+   },
+   {
+    "quote": "Structured communication flows gave Tanteo continuous updates at every stage of transit, from pickup to final delivery, including customs processing and border clearance status. With a 24/7 team of cross-border experts, Tanteo could make decisions on real-time shipment tracking and proactive alerts rather than on guesses.",
+    "url": "https://www.nuvocargo.com/customer-stories/tanteo-tequila/",
+    "pass": 1
+   },
+   {
+    "quote": "Optimized freight procurement and compliance",
+    "url": "https://www.nuvocargo.com/customer-stories/tanteo-tequila/",
+    "pass": 1
+   },
+   {
+    "quote": "A brokerage network of more than 20,000 U.S. to Mexico cross-border trucks streamlined carrier procurement, with CTPAT-certified partners. That removed the burden of manual vetting and freed Tanteo's logistics team for higher-impact work.",
+    "url": "https://www.nuvocargo.com/customer-stories/tanteo-tequila/",
+    "pass": 1
+   },
+   {
+    "quote": "With Nuvocargo's visibility and hands-on logistics support, Tanteo saw measurable improvements across the operation:",
+    "url": "https://www.nuvocargo.com/customer-stories/tanteo-tequila/",
+    "pass": 1
+   },
+   {
+    "quote": "25% lower freight costs, optimizing carrier selection without compromising service quality.",
+    "url": "https://www.nuvocargo.com/customer-stories/tanteo-tequila/",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time visibility across six border-specific checkpoints, for granular shipment oversight and proactive updates.",
+    "url": "https://www.nuvocargo.com/customer-stories/tanteo-tequila/",
+    "pass": 1
+   },
+   {
+    "quote": "A significant reduction in manual logistics tasks, freeing up hours previously spent on carrier procurement and shipment tracking.",
+    "url": "https://www.nuvocargo.com/customer-stories/tanteo-tequila/",
+    "pass": 1
+   },
+   {
+    "quote": "Proactive issue management, so Tanteo always had advance notice of disruptions before they escalated.",
+    "url": "https://www.nuvocargo.com/customer-stories/tanteo-tequila/",
+    "pass": 1
+   },
+   {
+    "quote": "With a scalable and reliable supply chain, Tanteo is equipped for continued growth in the premium tequila market. As its operations expand it depends on Nuvocargo's real-time visibility, cost-efficient logistics and cross-border support to keep logistics performance predictable, cost-effective and transparent.",
+    "url": "https://www.nuvocargo.com/customer-stories/tanteo-tequila/",
+    "pass": 1
+   },
+   {
+    "quote": "Mansfield Plumbing Products",
+    "url": "https://www.nuvocargo.com/customer-stories/mansfield-plumbing/",
+    "pass": 1
+   },
+   {
+    "quote": "Production moved to the Mexican plant",
+    "url": "https://www.nuvocargo.com/customer-stories/mansfield-plumbing/",
+    "pass": 1
+   },
+   {
+    "quote": "Commercial representatives could not see order shipping status",
+    "url": "https://www.nuvocargo.com/customer-stories/mansfield-plumbing/",
+    "pass": 1
+   },
+   {
+    "quote": ", so every new vendor became its own manual process.",
+    "url": "https://www.nuvocargo.com/customer-stories/mansfield-plumbing/",
+    "pass": 1
+   },
+   {
+    "quote": "On capacity, Nuvocargo added vendors to Mansfield's supplier network and put an efficient load tendering process behind them, which is what found better rates and service on domestic FTL.",
+    "url": "https://www.nuvocargo.com/customer-stories/mansfield-plumbing/",
+    "pass": 1
+   },
+   {
+    "quote": "The relationship runs on a cadence: weekly operational meetings, Monthly Business Reviews, and recurring reports on financial provisioning, shipment information and savings, plus ad-hoc analytics for yearly planning and special projects.",
+    "url": "https://www.nuvocargo.com/customer-stories/mansfield-plumbing/",
+    "pass": 1
+   },
+   {
+    "quote": "The production migration landed.",
+    "url": "https://www.nuvocargo.com/customer-stories/mansfield-plumbing/",
+    "pass": 1
+   },
+   {
+    "quote": "Commercial representatives became independent",
+    "url": "https://www.nuvocargo.com/customer-stories/mansfield-plumbing/",
+    "pass": 1
+   },
+   {
+    "quote": "Load building optimisation, so orders are allocated into multi-stop FTL or LTL loads rather than assigned one at a time.",
+    "url": "https://www.nuvocargo.com/customer-stories/mansfield-plumbing/",
+    "pass": 1
+   },
+   {
+    "quote": "Leads the Mansfield relationship at Nuvocargo, working with their commercial and operations teams to keep the carrier network running.",
+    "url": "https://www.nuvocargo.com/customer-stories/mansfield-plumbing/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Industry Provider",
+    "url": "https://www.nuvocargo.com/customer-stories/automotive-industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Communication became proactive rather than requested: a 24/7 monitoring team reported to all stakeholders every two hours, so status arrived before anyone had to ask for it.",
+    "url": "https://www.nuvocargo.com/customer-stories/automotive-industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Your singular focus on U.S.-Mexico transportation made me think you know what you're doing and I was very impressed with your onboarding process.",
+    "url": "https://www.nuvocargo.com/customer-stories/automotive-industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Tier 1 Automotive Industry Provider",
+    "url": "https://www.nuvocargo.com/customer-stories/automotive-industry/",
+    "pass": 1
+   },
+   {
+    "quote": "The supplier's cross-border operation became a streamlined, secure and predictable process. The communication barriers and shipment unpredictability that had held expansion back were replaced by a transparent flow, and the company reached a 98% OTIF rate.",
+    "url": "https://www.nuvocargo.com/customer-stories/automotive-industry/",
+    "pass": 1
+   },
+   {
+    "quote": "The flourishing trade relationship between the US and Mexico is facilitated by their geographic proximity and the extensive land border the two countries share, making land trade easier. Air freight can cost up to",
+    "url": "https://research.contrary.com/company/nuvocargo",
+    "pass": 3
+   },
+   {
+    "quote": "Nuvocargo provides a US-Mexico cross-border freight solution that encompasses freight forwarding, customs brokerage, cargo insurance, and managed transportation. Nuvocargo allows business customers to centralize their vendors and provides “granular real-time visibility” on freight shipments with “6+ border-specific events, and 24/7 tracking across every leg”. As of April 2024, it leverages",
+    "url": "https://research.contrary.com/company/nuvocargo",
+    "pass": 3
+   },
+   {
+    "quote": "to provide this solution for customers, along with a",
+    "url": "https://research.contrary.com/company/nuvocargo",
+    "pass": 3
+   },
+   {
+    "quote": "the University of Auckland. After graduation, he was a founding team member, instructor, and product manager for",
+    "url": "https://research.contrary.com/company/nuvocargo",
+    "pass": 3
+   },
+   {
+    "quote": ". Blackman left his role as CTO in February 2023 and as of April 2024, was still working as an",
+    "url": "https://research.contrary.com/company/nuvocargo",
+    "pass": 3
+   },
+   {
+    "quote": "Nuvocargo is a digital freight forwarder that assists customers in managing shipments through software. This approach centralizes data from various parties, enabling streamlined management and tracking of shipments on a cloud-based system. Beyond its primary freight forwarding service, Nuvocargo also provides additional products like customs brokering, cargo insurance, and supply chain financing.",
+    "url": "https://research.contrary.com/company/nuvocargo",
+    "pass": 3
+   },
+   {
+    "quote": "Nuvocargo also provides a bilingual software platform, accessible on both desktop and mobile devices. It offers visibility on shipments, with live end-to-end tracking across borders with visibility into",
+    "url": "https://research.contrary.com/company/nuvocargo",
+    "pass": 3
+   },
+   {
+    "quote": "critical stages such as arrival at origin, loading, paperwork processing, departure from origin, arrival at the border, border crossing, arrival at the destination, unloading, and ultimately, delivery at the final destination. The software platform also serves as a centralized solution for documents and paperwork, as well as reports intended to help customers optimize their supply chains.",
+    "url": "https://research.contrary.com/company/nuvocargo",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Manufacturers,",
+    "url": "https://www.nuvocargo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Both: the same AI agents that run our own operation do the daily work on your loads. Experienced freight operators oversee them with clear rules, step in when an agent should not decide and answer for the result. Every action on every shipment is logged, human or AI, so you always know who did what.",
+    "url": "https://www.nuvocargo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Nuvocargo combines AI agents with experienced freight operators on NuvoOS to run managed transportation, freight brokerage and customs brokerage from PO to POD.",
+    "url": "https://www.nuvocargo.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "In 2026 we launched Nuvo AI and put the AI agents that run our own operation in shippers’ hands. Their teams now move every load with them, from the quote to the invoice audit, and experienced freight operators answer for the result.",
+    "url": "https://www.nuvocargo.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Nuvocargo is building the first AI-native freight execution engine for North American shippers. It combines AI agents with experienced freight operators on NuvoOS, its proprietary system of record. Nuvocargo helps shippers simplify their supply chains, reduce freight spend, improve service and adopt AI faster.",
+    "url": "https://www.nuvocargo.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Industry Provider",
+    "url": "https://www.nuvocargo.com/customer-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "Production moved to the Mexican plant",
+    "url": "https://www.nuvocargo.com/customer-stories/mansfield-plumbing/",
+    "pass": 1
+   },
+   {
+    "quote": "and away from local US manufacturing.",
+    "url": "https://www.nuvocargo.com/customer-stories/mansfield-plumbing/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Industry: Transforming Cross-Border Challenges | Nuvocargo",
+    "url": "https://www.nuvocargo.com/customer-stories/automotive-industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive Industry Provider",
+    "url": "https://www.nuvocargo.com/customer-stories/automotive-industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Cross-border shipping is not simply moving goods from A to B; it is a network of logistical and regulatory detail. Having already ventured into it once, this Tier 1 automotive supplier had met three things:",
+    "url": "https://www.nuvocargo.com/customer-stories/automotive-industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Tier 1 Automotive Industry Provider",
+    "url": "https://www.nuvocargo.com/customer-stories/automotive-industry/",
+    "pass": 1
+   },
+   {
+    "quote": "For the shippers, manufacturers, distributors, and retailers we talk to, freight and logistics is consistently one of their largest cost items. Reducing spend — or at the very least avoiding unnecessary cost increases — is always top of mind.",
+    "url": "https://www.deepakchhugani.com/p/nuvocargo-uses-ai-to-drive-concrete",
+    "pass": 3
+   },
+   {
+    "quote": "The New York-based logistics technology company said its new platform, Nuvo AI, is an AI-native freight execution engine built to help manufacturers, retailers and distributors manage truckload freight while reducing costs and operational complexity.",
+    "url": "https://www.freightwaves.com/news/exclusive-nuvocargo-unveils-ai-native-freight-engine-aimed-at-shippers",
+    "pass": 3
+   },
+   {
+    "quote": "Chhugani said Nuvo AI is designed specifically for North American shippers, including manufacturers, wholesalers, retailers and distributors that move truckload freight.",
+    "url": "https://www.freightwaves.com/news/exclusive-nuvocargo-unveils-ai-native-freight-engine-aimed-at-shippers",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Our AI agents handle check calls, appointments and carrier follow-ups, so your team has more time for customers and planning.",
+    "url": "https://www.nuvocargo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our technology uses data from every load to find savings and better carriers, then brings them to you to decide what fits your supply chain.",
+    "url": "https://www.nuvocargo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "RFPs, automatic mini bids and AI agents negotiating spot loads help us find the best carrier at the best rate.",
+    "url": "https://www.nuvocargo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We track every load, catch delays early and send more of your freight to the carriers that deliver on time.",
+    "url": "https://www.nuvocargo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "On-time delivery by carrier",
+    "url": "https://www.nuvocargo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A review of the Atlanta to Fort Worth lane over the last 30 days, on-time delivery by carrier: Harborline Transport 96% and recommended, Westvale Freight 91%, Stonepath Carriers 84%. Then the change approved by you: more loads to Harborline Transport.",
+    "url": "https://www.nuvocargo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Carrier Sourcing Agent",
+    "url": "https://www.nuvocargo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our AI agents, one after another in the order they run: data extraction, shipment building, compliance validation, carrier sourcing, negotiation, appointment scheduling, dispatch, tracking activation and, last, invoice reconciliation",
+    "url": "https://www.nuvocargo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "For shippers who need reliable capacity at lower rates, with vetted carriers and live tracking.",
+    "url": "https://www.nuvocargo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Atlanta → Fort Worth · Stonepath Carriers · 75% OTD",
+    "url": "https://www.nuvocargo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Morristown → Chester · Stonepath Carriers · 77% OTD",
+    "url": "https://www.nuvocargo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "For shippers who want lower costs and better service across their whole network, with one partner managing every broker and carrier.",
+    "url": "https://www.nuvocargo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "with on-time, carrier and lane reports",
+    "url": "https://www.nuvocargo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "LTL carriers in the network",
+    "url": "https://www.nuvocargo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "FTL carriers in the network",
+    "url": "https://www.nuvocargo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Do we have to change our systems or carriers?",
+    "url": "https://www.nuvocargo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Open positions are listed by area on our",
+    "url": "https://www.nuvocargo.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "How Kimberly-Clark Mexico turned a pandemic carrier shortage into a partner for 50 routes",
+    "url": "https://www.nuvocargo.com/customer-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "Demand for Tanteo's premium tequilas was growing faster than its cross-border logistics could keep up with, and the border was a black box: no transit status for days at a time, no proactive notice when customs held a load, and hours every month spent vetting carriers. Tanteo now runs the lane with Nuvocargo, at half the transit time and a quarter less freight cost.",
+    "url": "https://www.nuvocargo.com/customer-stories/tanteo-tequila/",
+    "pass": 1
+   },
+   {
+    "quote": "Time-intensive carrier vetting, requiring hours each month to secure reliable transportation partners.",
+    "url": "https://www.nuvocargo.com/customer-stories/tanteo-tequila/",
+    "pass": 1
+   },
+   {
+    "quote": "A brokerage network of more than 20,000 U.S. to Mexico cross-border trucks streamlined carrier procurement, with CTPAT-certified partners. That removed the burden of manual vetting and freed Tanteo's logistics team for higher-impact work.",
+    "url": "https://www.nuvocargo.com/customer-stories/tanteo-tequila/",
+    "pass": 1
+   },
+   {
+    "quote": "25% lower freight costs, optimizing carrier selection without compromising service quality.",
+    "url": "https://www.nuvocargo.com/customer-stories/tanteo-tequila/",
+    "pass": 1
+   },
+   {
+    "quote": "A significant reduction in manual logistics tasks, freeing up hours previously spent on carrier procurement and shipment tracking.",
+    "url": "https://www.nuvocargo.com/customer-stories/tanteo-tequila/",
+    "pass": 1
+   },
+   {
+    "quote": "LTL carriers in the network",
+    "url": "https://www.nuvocargo.com/customer-stories/mansfield-plumbing/",
+    "pass": 1
+   },
+   {
+    "quote": "FTL carriers in the network",
+    "url": "https://www.nuvocargo.com/customer-stories/mansfield-plumbing/",
+    "pass": 1
+   },
+   {
+    "quote": "With 1,500 delivery locations and a four-person logistics team, Mansfield needed exactly that. Nuvocargo took on carrier coordination and gave commercial reps the shipment visibility to answer customers themselves.",
+    "url": "https://www.nuvocargo.com/customer-stories/mansfield-plumbing/",
+    "pass": 1
+   },
+   {
+    "quote": "Mansfield receives its shipments from Mexico on a consistent four-day average transit, because customs, carriers and the other vendors are coordinated as one operation.",
+    "url": "https://www.nuvocargo.com/customer-stories/mansfield-plumbing/",
+    "pass": 1
+   },
+   {
+    "quote": "The carrier network grew from three to ten",
+    "url": "https://www.nuvocargo.com/customer-stories/mansfield-plumbing/",
+    "pass": 1
+   },
+   {
+    "quote": "Leads the Mansfield relationship at Nuvocargo, working with their commercial and operations teams to keep the carrier network running.",
+    "url": "https://www.nuvocargo.com/customer-stories/mansfield-plumbing/",
+    "pass": 1
+   },
+   {
+    "quote": "A first attempt at U.S. to Mexico freight had gone badly enough to cool this Tier 1 supplier's enthusiasm for the market: every message needed translating, shipments went dark the moment they crossed, and delays arrived without warning. The lane now runs through one point of contact, with status every two hours.",
+    "url": "https://www.nuvocargo.com/customer-stories/automotive-industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Language barriers that turned routine updates into constant email translation.",
+    "url": "https://www.nuvocargo.com/customer-stories/automotive-industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Communication became proactive rather than requested: a 24/7 monitoring team reported to all stakeholders every two hours, so status arrived before anyone had to ask for it.",
+    "url": "https://www.nuvocargo.com/customer-stories/automotive-industry/",
+    "pass": 1
+   },
+   {
+    "quote": "The supplier's cross-border operation became a streamlined, secure and predictable process. The communication barriers and shipment unpredictability that had held expansion back were replaced by a transparent flow, and the company reached a 98% OTIF rate.",
+    "url": "https://www.nuvocargo.com/customer-stories/automotive-industry/",
+    "pass": 1
+   },
+   {
+    "quote": "300K社以上のcarrierにアクセスでき、12以上のAI agentを導入",
+    "url": "https://ycpedia.com/companies/nuvocargo",
+    "pass": 3
+   },
+   {
+    "quote": "vetted carriers with a total fleet of over",
+    "url": "https://research.contrary.com/company/nuvocargo",
+    "pass": 3
+   },
+   {
+    "quote": "a company that would tackle the complexities of cross-border trade between the US and Mexico, a market fraught with challenges like language barriers, cumbersome paperwork, and complex regulations. Nuvocargo emerged as the",
+    "url": "https://research.contrary.com/company/nuvocargo",
+    "pass": 3
+   },
+   {
+    "quote": "a Federal Motor Carrier Safety Administration (FMCSA)-licensed, door-to-door freight forwarding service between the US, Mexico, and Canada for both imports and exports in both directions. It does so through a network of carriers and a bilingual team.",
+    "url": "https://research.contrary.com/company/nuvocargo",
+    "pass": 3
+   },
+   {
+    "quote": "critical stages such as arrival at origin, loading, paperwork processing, departure from origin, arrival at the border, border crossing, arrival at the destination, unloading, and ultimately, delivery at the final destination. The software platform also serves as a centralized solution for documents and paperwork, as well as reports intended to help customers optimize their supply chains.",
+    "url": "https://research.contrary.com/company/nuvocargo",
+    "pass": 3
+   },
+   {
+    "quote": "requirement for carriers in the US. On top of cargo insurance, carriers must carry",
+    "url": "https://research.contrary.com/company/nuvocargo",
+    "pass": 3
+   },
+   {
+    "quote": "For carriers, Nuvocargo offers",
+    "url": "https://research.contrary.com/company/nuvocargo",
+    "pass": 3
+   },
+   {
+    "quote": "matching. This allows carriers to haul on their preferred driving routes. It also offers an “all-in-one” software platform intended to help carriers streamline operations. In addition to visualizing all loads in one place, the platform allows carriers to upload invoices, proofs of delivery, and compliance documents.",
+    "url": "https://research.contrary.com/company/nuvocargo",
+    "pass": 3
+   },
+   {
+    "quote": "Carriers face high asset costs, low margins, and lengthy payment delays which range between",
+    "url": "https://research.contrary.com/company/nuvocargo",
+    "pass": 3
+   },
+   {
+    "quote": "days. This raises cash flow management concerns, often causing carriers to turn to high-interest-rate loans. To address this problem, Nuvocargo offers QuickPay, a cash advance product allowing carriers to receive their payment in less than",
+    "url": "https://research.contrary.com/company/nuvocargo",
+    "pass": 3
+   },
+   {
+    "quote": "involved in cross-border trade between the United States and Mexico. Selling to these customers can be complex due to the intricacies of cross-border trade, including compliance with customs regulations, differing transportation standards, and language barriers. The last of these potential obstacles is why Nuvocargo emphasizes that its team is",
+    "url": "https://research.contrary.com/company/nuvocargo",
+    "pass": 3
+   },
+   {
+    "quote": ". As of April 2024, carriers using the Nuvocargo platform",
+    "url": "https://research.contrary.com/company/nuvocargo",
+    "pass": 3
+   },
+   {
+    "quote": "Samax Express, Union Carriers, and Soluciones de Monterrey S.A. de C.V. Its shipping customers",
+    "url": "https://research.contrary.com/company/nuvocargo",
+    "pass": 3
+   },
+   {
+    "quote": "of the global freight forwarding market revenue in 2021.",
+    "url": "https://research.contrary.com/company/nuvocargo",
+    "pass": 3
+   },
+   {
+    "quote": "and publicly listed in",
+    "url": "https://research.contrary.com/company/nuvocargo",
+    "pass": 3
+   },
+   {
+    "quote": "international package carriers, the world's",
+    "url": "https://research.contrary.com/company/nuvocargo",
+    "pass": 3
+   },
+   {
+    "quote": "employees and generated",
+    "url": "https://research.contrary.com/company/nuvocargo",
+    "pass": 3
+   },
+   {
+    "quote": "of its total revenue.",
+    "url": "https://research.contrary.com/company/nuvocargo",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of April 2024. KN operates as a",
+    "url": "https://research.contrary.com/company/nuvocargo",
+    "pass": 3
+   },
+   {
+    "quote": "between shippers and carriers, matching companies that wish to ship goods with carriers that have the capacity to transport the goods. By pooling demand, KN sells transportation capacity at more",
+    "url": "https://research.contrary.com/company/nuvocargo",
+    "pass": 3
+   },
+   {
+    "quote": "rates than shippers could secure by dealing with the carriers directly.",
+    "url": "https://research.contrary.com/company/nuvocargo",
+    "pass": 3
+   },
+   {
+    "quote": ", Flexport connects importers, exporters, trucking companies, ocean carriers, airlines, customs agencies, and port terminals to create a supply chain analytics dashboard that sets it apart from other startups like Nuvocargo.",
+    "url": "https://research.contrary.com/company/nuvocargo",
+    "pass": 3
+   },
+   {
+    "quote": "based on the distance and route of the cargo being shipped. Freight forwarding margins are subject to economies of scale because freight forwarders can negotiate better pricing from carriers in exchange for giving them higher volume. Consequently, legacy competitors like KNl had gross margins of",
+    "url": "https://research.contrary.com/company/nuvocargo",
+    "pass": 3
+   },
+   {
+    "quote": "After successfully onboarding shippers and carriers to its platform, Nuvocargo cross-sells its financial products, such as",
+    "url": "https://research.contrary.com/company/nuvocargo",
+    "pass": 3
+   },
+   {
+    "quote": "tied to inventory levels. Lastly, Nuvocargo offers 48-hour payment on the day of load delivery to carriers, who often have to wait",
+    "url": "https://research.contrary.com/company/nuvocargo",
+    "pass": 3
+   },
+   {
+    "quote": "Nuvocargo’s revenues grew by",
+    "url": "https://research.contrary.com/company/nuvocargo",
+    "pass": 3
+   },
+   {
+    "quote": ", carrier capacity is tightening, and",
+    "url": "https://www.deepakchhugani.com/p/nuvocargo-uses-ai-to-drive-concrete",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Tender by email, EDI or API with the shipment details your team already uses. No new system to learn.",
+    "url": "https://www.nuvocargo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Language barriers that turned routine updates into constant email translation.",
+    "url": "https://www.nuvocargo.com/customer-stories/automotive-industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Most shippers start managing their freight with spreadsheets and email. It works fine when you’re spending less than $3-5M a year on freight. But as your spend grows and complexity kicks in, you realize you need to optimize — and that’s when the vendor creep begins.",
+    "url": "https://www.deepakchhugani.com/p/nuvocargo-uses-ai-to-drive-concrete",
+    "pass": 3
+   },
+   {
+    "quote": "The system can ingest purchase orders from a shipper’s ERP system, build loads, schedule appointments, negotiate with carriers through voice and email AI, track shipments via GPS and handle freight audit and payment.",
+    "url": "https://www.freightwaves.com/news/exclusive-nuvocargo-unveils-ai-native-freight-engine-aimed-at-shippers",
+    "pass": 3
+   },
+   {
+    "quote": "B2B email lists",
+    "url": "https://growjo.com/company/Nuvocargo",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Email Finder",
+    "url": "https://growjo.com/company/Nuvocargo",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "YC の会社ページに本人が掲載している情報（日本語訳は AI 翻訳",
+    "url": "https://ycpedia.com/companies/nuvocargo",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Nuvocargo - YCpedia — 事業内容 Nuvocargoは、北米のtruckload freight向けAIパートナー。メーカー、retailer、distributor、shipperに対し、管理するソフトウェアを増やすのではなく、確かな成果を届ける。 以下を実現する。 - 輸送コストを削減 — 手作業をなくし、ソフトウェア費用と輸送費を削減 - サービスレベルを向上 ...",
+    "url": "https://ycpedia.com/companies/nuvocargo",
+    "pass": 3
+   },
+   {
+    "quote": "Nuvocargo | One engine for North American truckload freight — One engine to run your North American truckload freight: Nuvocargo’s AI agents and freight experts handle every load, from carrier rates to paid invoices.",
+    "url": "https://www.nuvocargo.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Nuvocargoの資金調達・投資家情報 | 海外スタートアップ | FIRST CVC — Y Combinatorのポートフォリオに掲載される海外スタートアップNuvocargoの企業プロフィール。Nuvocargoは、米国・メキシコ間のクロスボーダー陸上輸送を中心に、北米全域のトラック輸送を効率化する物流テクノロジー企業です。荷主と運送事業者を結ぶデジタル貨物仲介（フォワーディング）を軸に ...",
+    "url": "https://www.firstcvc.jp/global/nuvocargo.com",
+    "pass": 3
+   },
+   {
+    "quote": "Nuvocargo | One engine for North American truckload freight — Nuvocargo | One engine for North American truckload freight Nuvocargo https://www.nuvocargo.com",
+    "url": "https://www.nuvocargo.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Nuvocargo - LinkedIn — Nuvocargo - LinkedIn LinkedIn https://www.linkedin.com > nuvocargo",
+    "url": "https://www.linkedin.com/company/nuvocargo",
+    "pass": 3
+   },
+   {
+    "quote": "Nuvocargo Launches AI-Native Freight Execution Engine for ... — Nuvocargo Launches AI-Native Freight Execution Engine for ... LinkedIn https://www.linkedin.com > posts",
+    "url": "https://www.linkedin.com/posts/deepakchhugani_today-were-launching-nuvo-ai-the-first-activity-7439662556673277953-O0Ld",
+    "pass": 3
+   },
+   {
+    "quote": "Knowledge Hub | Nuvocargo — Knowledge Hub | Nuvocargo Nuvocargo https://www.nuvocargo.com > knowl...",
+    "url": "https://www.nuvocargo.com/knowledge-hub",
+    "pass": 3
+   },
+   {
+    "quote": "Nuvocargo (@ nuvocargo ) • Instagram photos and videos — Nuvocargo (@ nuvocargo ) • Instagram photos and videos Instagram https://www.instagram.com > nuvocar...",
+    "url": "https://www.instagram.com/nuvocargo/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer stories | Nuvocargo — Customer stories | Nuvocargo Nuvocargo https://www.nuvocargo.com > custom...",
+    "url": "https://www.nuvocargo.com/customer-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Report: Nuvocargo Business Breakdown & Founding Story — Report: Nuvocargo Business Breakdown & Founding Story contrary.com https://research.contrary.com > nuvoc...",
+    "url": "https://research.contrary.com/company/nuvocargo",
+    "pass": 3
+   },
+   {
+    "quote": "Nuvocargo uses AI to drive concrete outcomes for our customers — Nuvocargo uses AI to drive concrete outcomes for our customers deepakchhugani.com https://www.deepakchhugani.com > n...",
+    "url": "https://www.deepakchhugani.com/p/nuvocargo-uses-ai-to-drive-concrete",
+    "pass": 3
+   },
+   {
+    "quote": "How Freight Operating Partners Are Paid (2026 Guide) — How Freight Operating Partners Are Paid (2026 Guide) Nuvocargo https://www.nuvocargo.com > how-fr...",
+    "url": "https://www.nuvocargo.com/blog-posts/how-freight-operating-partners-are-paid",
+    "pass": 3
+   },
+   {
+    "quote": "How Nuvocargo Shifted To Being AI-Native With Deepak ... — How Nuvocargo Shifted To Being AI-Native With Deepak ... YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=ApZVKlkG8cU&vl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Nuvocargo unveils AI-native freight engine aimed at shippers — Nuvocargo unveils AI-native freight engine aimed at shippers FreightWaves https://www.freightwaves.com > news",
+    "url": "https://www.freightwaves.com/news/exclusive-nuvocargo-unveils-ai-native-freight-engine-aimed-at-shippers",
+    "pass": 3
+   },
+   {
+    "quote": "Nuvocargo unveils AI-native freight engine aimed at shippers — Nuvocargo unveils AI-native freight engine aimed at shippers Yahoo Finance https://finance.yahoo.com > news > e...",
+    "url": "https://finance.yahoo.com/news/exclusive-nuvocargo-unveils-ai-native-110000642.html",
+    "pass": 3
+   },
+   {
+    "quote": "Nuvocargo : Revenue , Competitors, Alternatives - Growjo — Nuvocargo : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > Nuvocargo",
+    "url": "https://growjo.com/company/Nuvocargo",
+    "pass": 3
+   },
+   {
+    "quote": "Nuvocargo - Overview, News & Similar companies - ZoomInfo — Nuvocargo - Overview, News & Similar companies - ZoomInfo ZoomInfo https://www.zoominfo.com > nuvocar...",
+    "url": "https://www.zoominfo.com/c/nuvocargo-inc/475464081",
+    "pass": 3
+   },
+   {
+    "quote": "Nuvocargo 2026 Company Profile - PitchBook — Nuvocargo 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/267553-81",
+    "pass": 3
+   },
+   {
+    "quote": "Nuvocargo - Crunchbase Company Profile & Funding — Nuvocargo - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > Nuvoc...",
+    "url": "https://www.crunchbase.com/organization/Nuvocargo",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": ", Flexport connects importers, exporters, trucking companies, ocean carriers, airlines, customs agencies, and port terminals to create a supply chain analytics dashboard that sets it apart from other startups like Nuvocargo.",
+    "url": "https://research.contrary.com/company/nuvocargo",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Fast Company on X: \" Nuvocargo's tracking capabilities for ... Fast Company on X: \" Nuvocargo's tracking capabilities for ... X https://x.com > @FastCompany",
+    "url": "https://x.com/FastCompany/status/1904897885696623070",
+    "pass": 3
+   },
+   {
+    "quote": "Fast Company on X : \" Nuvocargo's tracking capabilities for ... Fast Company on X : \" Nuvocargo's tracking capabilities for ... X https://x.com > @FastCompany",
+    "url": "https://x.com/FastCompany/status/1904897885696623070",
+    "pass": 3
+   },
+   {
+    "quote": "Nuvocargo (@nuvocargo) / Posts / X Apr 7, 2020 · Nuvocargo’s 4PL, Customs, and 3PL solutions help North America shippers cut costs, boost service levels, and adopt AI faster across their US-MX supply chain.",
+    "url": "https://x.com/Nuvocargo",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Nuvocargo - LinkedIn Nuvocargo - LinkedIn LinkedIn https://www.linkedin.com > nuvocargo",
+    "url": "https://www.linkedin.com/company/nuvocargo",
+    "pass": 3
+   },
+   {
+    "quote": "Nuvocargo : Cross-border Market Update - LinkedIn Nuvocargo : Cross-border Market Update - LinkedIn LinkedIn https://www.linkedin.com > pulse > n...",
+    "url": "https://www.linkedin.com/pulse/november-cross-border-market-update-nuvocargo-4mhkc",
+    "pass": 3
+   },
+   {
+    "quote": "Deepak Chhugani - Nuvocargo - LinkedIn Deepak Chhugani - Nuvocargo - LinkedIn LinkedIn https://www.linkedin.com > deepakch...",
+    "url": "https://www.linkedin.com/in/deepakchhugani",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Nuvocargo - Facebook Nuvocargo - Facebook Facebook https://www.facebook.com > nuvocargo",
+    "url": "https://www.facebook.com/nuvocargo/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.nuvocargo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nuvocargo.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nuvocargo.com/customer-stories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nuvocargo.com/customer-stories/tanteo-tequila/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nuvocargo.com/customer-stories/mansfield-plumbing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nuvocargo.com/customer-stories/automotive-industry/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://36kr.jp/503110/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/biznews/2025/04/fe47e79a794055f1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ycpedia.com/companies/nuvocargo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nhu.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nvoworldwide.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://novaexpress.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nca.aero/main.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/nuvocargo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/deepakchhugani_today-were-launching-nuvo-ai-the-first-activity-7439662556673277953-O0Ld",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://research.contrary.com/company/nuvocargo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/getnuvo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.deepakchhugani.com/p/nuvocargo-uses-ai-to-drive-concrete",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=ApZVKlkG8cU&vl=ja",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.freightwaves.com/news/exclusive-nuvocargo-unveils-ai-native-freight-engine-aimed-at-shippers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Nuvocargo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/nuvocargo-inc/475464081",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/267553-81",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://research.contrary.com/company/nuvocargo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/FastCompany/status/1904897885696623070",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/nuvocargo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/november-cross-border-market-update-nuvocargo-4mhkc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/nuvocargo/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/deepakchhugani",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/FastCompany/status/1904897885696623070",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Nuvocargo",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Nuvocargo 日本 導入",
+   "results": [
+    "https://36kr.jp/503110/",
+    "https://www.jetro.go.jp/biznews/2025/04/fe47e79a794055f1.html",
+    "https://ycpedia.com/companies/nuvocargo",
+    "https://www.nuvocargo.com/",
+    "https://www.firstcvc.jp/global/nuvocargo.com",
+    "https://m.36kr.com/p/1522476018716807",
+    "https://www.nuvocargo.com/?region=japan",
+    "https://36kr.jp/502580/",
+    "https://www.lnews.jp/2026/10/s1019602.html"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Nuvocargo 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.nhu.co.jp/",
+    "https://nvoworldwide.com/",
+    "https://novaexpress.co.jp/company/",
+    "https://www.nca.aero/main.html",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/",
+    "https://knotglobal-hd.com/",
+    "https://www.seafortnavi.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nuvocargo Japan",
+   "results": [
+    "https://www.nuvocargo.com/",
+    "https://www.linkedin.com/company/nuvocargo",
+    "https://www.linkedin.com/posts/deepakchhugani_today-were-launching-nuvo-ai-the-first-activity-7439662556673277953-O0Ld",
+    "https://www.nuvocargo.com/knowledge-hub",
+    "https://www.instagram.com/nuvocargo/",
+    "https://www.linkedin.com/posts/deepakchhugani_tomorrow-is-nuvocargos-biggest-launch-to-activity-7439327277739388929-ukYm",
+    "https://www.facebook.com/nuvocargo/",
+    "https://www.nuvocargo.com/about/",
+    "https://ycpedia.com/companies/nuvocargo",
+    "https://app.nuvocargo.com/en/welcome"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Nuvocargo manufacturing customer case study",
+   "results": [
+    "https://www.nuvocargo.com/customer-stories/",
+    "https://research.contrary.com/company/nuvocargo",
+    "https://www.casestudies.com/company/getnuvo",
+    "https://www.deepakchhugani.com/p/nuvocargo-uses-ai-to-drive-concrete",
+    "https://www.linkedin.com/pulse/case-studies-nvocc-logistics-success-afnwf",
+    "https://www.nuvocargo.com/blog-posts/future-logistics-how-ai-shaping-industry",
+    "https://www.youtube.com/watch?v=ApZVKlkG8cU&vl=ja",
+    "https://harlem.capital/inside-nuvocargo-how-a-85m-startup-is-rebuilding-freight-with-ai/",
+    "https://cdn.prod.website-files.com/673655d332b61ff7b2c86b10/67882e252738095bd9433b85_654c12bbbae19d5165e15593_Nuvocargo_CaseStudy-compressed.pdf"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Nuvocargo white label OR reseller OR partner program",
+   "results": [
+    "https://www.nuvocargo.com/",
+    "https://www.nuvocargo.com/blog-posts/how-freight-operating-partners-are-paid",
+    "https://www.youtube.com/watch?v=ApZVKlkG8cU&vl=ja",
+    "https://www.freightwaves.com/news/exclusive-nuvocargo-unveils-ai-native-freight-engine-aimed-at-shippers",
+    "https://finance.yahoo.com/news/exclusive-nuvocargo-unveils-ai-native-110000642.html",
+    "https://www.orrick.com/en/News/2023/06/Logistics-Startup-Nuvocargo-Plans-Expansion-Along-US-Mexico-Border-After-36-Million-Funding-Round",
+    "https://pitchbook.com/profiles/company/267553-81",
+    "https://www.nuvocargo.com/brokerage/",
+    "https://www.nuvocargo.com/blog-posts/what-is-managed-transportation-services",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Nuvocargo founded funding employees revenue",
+   "results": [
+    "https://growjo.com/company/Nuvocargo",
+    "https://www.zoominfo.com/c/nuvocargo-inc/475464081",
+    "https://pitchbook.com/profiles/company/267553-81",
+    "https://research.contrary.com/company/nuvocargo",
+    "https://www.crunchbase.com/organization/Nuvocargo",
+    "https://exa.ai/websets/directory/nuvocargo-funding",
+    "https://tracxn.com/d/companies/nuvocargo/__g1Q_xkmc0WMc9lhSlBQXsCP2VZmFdM0HU3xZxGPlAy0",
+    "https://dealroom.co/companies/nuvocargo/",
+    "https://www.owler.com/company/nuvocargo",
+    "https://compworth.com/company/nuvocargo"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:note.com Nuvocargo",
+   "results": [
+    "https://note.com/endeavorjapan/n/n9a1cd4687b08",
+    "https://note.com/okb777/n/ne4c6ed1b6b46",
+    "https://note.com/takurot/n/nf78308f6472c",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/fond_clam2634/n/n06d26defb95d",
+    "https://note.com/tori_1980/n/n21037c205ade",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/masa_cloud/n/n1fc93c6da79a",
+    "https://note.com/godel/n/n219ff14f4820"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:x.com Nuvocargo",
+   "results": [
+    "https://x.com/FastCompany/status/1904897885696623070",
+    "https://x.com/JamesCurrier",
+    "https://x.com/ExtendHQ",
+    "https://x.com/MarcAtiyeh",
+    "https://x.com/OrrickTech",
+    "https://x.com/dchhugani/status/1476664399427420161",
+    "https://x.com/HarlemCapital",
+    "https://x.com/jfcelia",
+    "https://x.com/ricardomedinarm/status/1384569905484292096?s=12",
+    "https://x.com/Nuvocargo"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Nuvocargo",
+   "results": [
+    "https://www.linkedin.com/company/nuvocargo",
+    "https://www.linkedin.com/in/luis-e-torres-r",
+    "https://www.linkedin.com/posts/deepakchhugani_tomorrow-is-nuvocargos-biggest-launch-to-activity-7439327277739388929-ukYm",
+    "https://www.linkedin.com/pulse/november-cross-border-market-update-nuvocargo-4mhkc",
+    "https://www.linkedin.com/posts/deepakchhugani_today-were-launching-nuvo-ai-the-first-activity-7439662556673277953-O0Ld",
+    "https://www.linkedin.com/in/deepakchhugani",
+    "https://mx.linkedin.com/in/benjaminbattles",
+    "https://www.linkedin.com/company/merge-transportation",
+    "https://lb.linkedin.com/posts/maryannazevedo_nuvocargo-raises-205m-at-a-180m-valuation-activity-6876185117174378496-vLZr",
+    "https://mx.linkedin.com/company/nuvocargo"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Nuvocargo",
+   "results": [
+    "https://www.facebook.com/nuvocargo/",
+    "https://www.facebook.com/groups/szsdl/posts/29663527033265953/",
+    "https://www.facebook.com/fb-answers/which-logistics-companies-help-with-nearshoring-and-supply-chain-diversification/",
+    "https://www.facebook.com/mergetransportation/",
+    "https://www.facebook.com/flonetworks/posts/expanding-across-the-us-mexico-border-shouldnt-mean-adding-a-new-carrier-for-eve/1106760291969955/",
+    "https://www.facebook.com/RevistaForbesEcuador/posts/deepak-chhugani-lidera-nuvocargo-una-empresa-digital-de-comercio-transfronterizo/313713410956405/",
+    "https://www.facebook.com/uscmarshallmsba/",
+    "https://www.facebook.com/RevistaForbesEcuador/posts/con-casi-100-colaboradores-nuvocargo-busca-modernizar-el-mundo-de-la-log%C3%ADstica-i/319363747058038/",
+    "https://www.facebook.com/RevistaForbesEcuador/photos/us-180-millones-es-el-valor-de-nuvocargo-una-plataforma-digital-de-comercio-tran/309228944738185/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Nuvocargo note 社長",
+   "results": [
+    "https://www.forbes.com/profile/deepak-chhugani/",
+    "https://www.nuvocargo.com/blog-posts/deepak-chhugani-recognized-forbes-30-under-30-north-america-enterprise-technology",
+    "https://www.linkedin.com/in/deepakchhugani",
+    "https://exa.ai/websets/directory/nuvocargo-executives",
+    "https://www.nuvocargo.com/blog-posts/ceo-letter-nuvocargo-mentum-acquisition",
+    "https://harlem.capital/inside-nuvocargo-how-a-85m-startup-is-rebuilding-freight-with-ai/",
+    "https://research.contrary.com/company/nuvocargo",
+    "https://beamstart.com/@deepak-chhugani-17292345997186",
+    "https://www.nuvocargo.com/blog-posts/letter-ceo-nuvocargo-raises-series-a",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Nuvocargo X 投稿",
+   "results": [
+    "https://www.nuvocargo.com/knowledge-hub",
+    "https://x.com/FastCompany/status/1904897885696623070",
+    "https://x.com/Nuvocargo",
+    "https://www.nuvocargo.com/",
+    "https://www.nuvocargo.com/faq/",
+    "https://www.instagram.com/nuvocargo/",
+    "https://app.nuvocargo.com/en/login",
+    "https://forms.nuvocargo.com/",
+    "https://x.com/dchhugani/status/1954926713328029962"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部25頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部25頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部25頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部25頁・検索12回）"
+ }
+}

@@ -1,0 +1,1635 @@
+{
+ "name": "Nooks",
+ "aliases": [],
+ "context": "旧営業リスト｜Sales / GTM Tech｜状態なし",
+ "researched_at": "2026-11-11T13:22:32.582008+00:00",
+ "official_url": "https://www.nooks.ai",
+ "identified_by": "given",
+ "profile": {
+  "料金": [
+   {
+    "label": "料金タイプ",
+    "value": "有料 無料枠 なし（有料のみ）",
+    "url": "https://aipicks.jp/tool/nooks",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Identify buying signals, prioritize the right accounts, and engage prospects while intent is high.",
+    "url": "https://www.nooks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Research, prioritize, personalize, and execute multi-channel outreach, with infrastructure built to turn more activity into conversations.",
+    "url": "https://www.nooks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Identify what your best reps do differently, coach every seller against real conversations, and reinforce improvement through practice.",
+    "url": "https://www.nooks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise outbound strategy",
+    "url": "https://www.nooks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"The proof is in the pudding of being able to see … a 31% increase in meetings, which is huge. I could consolidate three different vendors that I'm using right now and just use Nooks.\"",
+    "url": "https://www.nooks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "\"It's a modern, AI-powered platform that allows this massive omni-channel approach to reach your prospects with more intelligence. If go-to-market leaders don't adopt it, they're going to be left behind.\"",
+    "url": "https://www.nooks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Every interaction creates new context — helping humans and agents learn what works and continuously improve.",
+    "url": "https://www.nooks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Careers | Work with us on the hardest problem in AI | Nooks",
+    "url": "https://www.nooks.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Learn EQ from sales reps with proactive agents",
+    "url": "https://www.nooks.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Our interns ship to production, come back and lead. Early-career engineers are among the company's top code contributors.",
+    "url": "https://www.nooks.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing | AI Sales Engagement Platform | Nooks",
+    "url": "https://www.nooks.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Intelligent Prioritization",
+    "url": "https://www.nooks.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Prospect Recommendations",
+    "url": "https://www.nooks.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Automated Prospect Sourcing",
+    "url": "https://www.nooks.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "100+ Pre-built Signals",
+    "url": "https://www.nooks.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Auto-add/remove Prospects",
+    "url": "https://www.nooks.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Rule-based Prioritization",
+    "url": "https://www.nooks.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Secondary data providers",
+    "url": "https://www.nooks.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The quality of conversations has gone up because of the signals and insights Nooks provides.",
+    "url": "https://www.nooks.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Can I replace my contact data provider with Nooks?",
+    "url": "https://www.nooks.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Most customers maintain their primary data provider. Some people replace their secondary data provider.",
+    "url": "https://www.nooks.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Which contact data providers does Nooks integrate with?",
+    "url": "https://www.nooks.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Nooks integrates with ZoomInfo, Cognism, and LeadIQ to pass through contact data via API. A subscription with these providers is required in order to access the data in Nooks.",
+    "url": "https://www.nooks.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Which contact data providers does Nooks give me access to with the Data package?",
+    "url": "https://www.nooks.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Wiza, People Data Labs, Apollo, Forager, Datagma, Prospeo.",
+    "url": "https://www.nooks.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "The proof is in the pipeline",
+    "url": "https://www.nooks.ai/customer-success",
+    "pass": 1
+   },
+   {
+    "quote": "Filter by the Nooks product that drove the result.",
+    "url": "https://www.nooks.ai/customer-success",
+    "pass": 1
+   },
+   {
+    "quote": "How ContentSquare Drove a 31% Increase in Meetings",
+    "url": "https://www.nooks.ai/customer-success",
+    "pass": 1
+   },
+   {
+    "quote": "How Hungry Used Nooks AI Agents to Triple Prospect Engagement and Double MRR per Rep",
+    "url": "https://www.nooks.ai/customer-success",
+    "pass": 1
+   },
+   {
+    "quote": "Apr 22, 2026",
+    "url": "https://www.nooks.ai/customer-success",
+    "pass": 1
+   },
+   {
+    "quote": "Apr 20, 2026",
+    "url": "https://www.nooks.ai/customer-success",
+    "pass": 1
+   },
+   {
+    "quote": "Apr 9, 2026",
+    "url": "https://www.nooks.ai/customer-success",
+    "pass": 1
+   },
+   {
+    "quote": "Apr 7, 2026",
+    "url": "https://www.nooks.ai/customer-success",
+    "pass": 1
+   },
+   {
+    "quote": "High-Velocity Outbound: How Pendo Scaled Pipeline Productivity with Nooks",
+    "url": "https://www.nooks.ai/customer-success",
+    "pass": 1
+   },
+   {
+    "quote": "How Spring Health Went From Struggling to Dial to 4x’ing Their Meeting Rate",
+    "url": "https://www.nooks.ai/customer-success",
+    "pass": 1
+   },
+   {
+    "quote": "Apr 16, 2025",
+    "url": "https://www.nooks.ai/customer-success",
+    "pass": 1
+   },
+   {
+    "quote": "Proven outbound plays your team can run today",
+    "url": "https://www.nooks.ai/categories/guides-and-resources",
+    "pass": 1
+   },
+   {
+    "quote": "3 Ways to Improve Response Rates in the Noisy World of AI",
+    "url": "https://www.nooks.ai/categories/guides-and-resources",
+    "pass": 1
+   },
+   {
+    "quote": "From cold call to close: How to accelerate enterprise deal cycles",
+    "url": "https://www.nooks.ai/categories/guides-and-resources",
+    "pass": 1
+   },
+   {
+    "quote": "How to master prospecting as an AE",
+    "url": "https://www.nooks.ai/categories/guides-and-resources",
+    "pass": 1
+   },
+   {
+    "quote": "Skip the noise and connect with 3x more prospects",
+    "url": "https://www.nooks.ai/referral-sign-up",
+    "pass": 1
+   },
+   {
+    "quote": "Nooks Partner Program",
+    "url": "https://www.nooks.ai/referral-sign-up",
+    "pass": 1
+   },
+   {
+    "quote": "Tell us who you have in mind. Once it's approved, we'll pair you with an AE and you make the intro.",
+    "url": "https://www.nooks.ai/referral-sign-up",
+    "pass": 1
+   },
+   {
+    "quote": "Nooks finds the accounts worth pursuing, writes the emails, and dials the prospects most likely to pick up, while giving outbound teams control over how much gets automated.",
+    "url": "https://www.nooks.ai/solutions/outbound",
+    "pass": 1
+   },
+   {
+    "quote": "Find and prioritize the right accounts.",
+    "url": "https://www.nooks.ai/solutions/outbound",
+    "pass": 1
+   },
+   {
+    "quote": "\"Most SDR leaders care about dials. What I care about is conversations and solving customers' problems. The power of Nooks is it gets us into the actual real meat and potatoes of thatconversation.\"",
+    "url": "https://www.nooks.ai/solutions/outbound",
+    "pass": 1
+   },
+   {
+    "quote": "Tests and optimizes campaigns, and finds ways for reps to improve their outreach.",
+    "url": "https://www.nooks.ai/solutions/outbound",
+    "pass": 1
+   },
+   {
+    "quote": "Identifies nuances in your team’s writing or selling preferences and turns them into skills that you can edit and approve.",
+    "url": "https://www.nooks.ai/solutions/outbound",
+    "pass": 1
+   },
+   {
+    "quote": "Prospecting & Enrichment",
+    "url": "https://www.nooks.ai/solutions/outbound",
+    "pass": 1
+   },
+   {
+    "quote": "Account & prospect signals",
+    "url": "https://www.nooks.ai/solutions/outbound",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Salesforce and HubSpot, the data providers you already pay for, and Claude or ChatGPT over MCP.",
+    "url": "https://www.nooks.ai/solutions/outbound",
+    "pass": 1
+   },
+   {
+    "quote": "Outbound includes the Outbound Agents and the Nooks Dialer, in Core and Pro. In Core, the rep directs the agent. In Pro, agents also run in the background on triggers and schedules.",
+    "url": "https://www.nooks.ai/solutions/outbound",
+    "pass": 1
+   },
+   {
+    "quote": "Your AEs were hired to close. While they sell, Nooks deal agents handle the prep, send the follow-ups, reach the missing stakeholders and keep the CRM current.",
+    "url": "https://www.nooks.ai/solutions/deal-management",
+    "pass": 1
+   },
+   {
+    "quote": "Promises made on a call get caught and drafted in the rep's style. Decide to send proactively or choose to send only after approval.",
+    "url": "https://www.nooks.ai/solutions/deal-management",
+    "pass": 1
+   },
+   {
+    "quote": "Tracks which discovery questions have been answered while the call is live, then prompts the rep with the ones still open before it ends.",
+    "url": "https://www.nooks.ai/solutions/deal-management",
+    "pass": 1
+   },
+   {
+    "quote": "Preps a brief for every meeting on the rep's calendar: why the account matters now, the buyer's tools today, and questions or competitors to expect. Shows its reasoning and drafts the agenda email, ready to send.",
+    "url": "https://www.nooks.ai/solutions/deal-management",
+    "pass": 1
+   },
+   {
+    "quote": "Reps used to prompt AI.",
+    "url": "https://www.nooks.ai/solutions/deal-management",
+    "pass": 1
+   },
+   {
+    "quote": "Node is the AI personal assistant for sales, and the first proactive agent on Nooks. It runs in the background on every deal, draws on the full platform, and texts the rep when there's a move to make. Share your quota and it works the quarter with you.",
+    "url": "https://www.nooks.ai/solutions/deal-management",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-call account prep",
+    "url": "https://www.nooks.ai/solutions/deal-management",
+    "pass": 1
+   },
+   {
+    "quote": "Pulls who's attending and what was promised last time, and recommends how to open the call.",
+    "url": "https://www.nooks.ai/solutions/deal-management",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Nooks | Revenue infrastructure for reps and agents",
+    "url": "https://www.nooks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue infrastructure for reps and agents",
+    "url": "https://www.nooks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Put revenue agents to work across every motion. Every lead worked, every deal moved, every account covered.",
+    "url": "https://www.nooks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "The companies redefining software are redefining revenue with",
+    "url": "https://www.nooks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Purpose-built execution infrastructure helps calls connect, emails land, and revenue work get done reliably at scale.",
+    "url": "https://www.nooks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Every breakthrough company has to grow to survive. Nooks builds the revenue agents behind 2,000+ of them. Help us power revenue for the fastest growing companies in the world.",
+    "url": "https://www.nooks.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue is the largest function at most companies, and the last for AI to inflect. Whoever cracks it shapes how every company grows. But teaching an agent to sell is hard.",
+    "url": "https://www.nooks.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "ARR growth year-over-year",
+    "url": "https://www.nooks.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "The best revenue teams run on Nooks",
+    "url": "https://www.nooks.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Results from revenue‑impacting teams",
+    "url": "https://www.nooks.ai/customer-success",
+    "pass": 1
+   },
+   {
+    "quote": "How 2,000+ teams run revenue",
+    "url": "https://www.nooks.ai/referral-sign-up",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue Agent Platform",
+    "url": "https://www.nooks.ai/referral-sign-up",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue agents and reps on one platform",
+    "url": "https://www.nooks.ai/referral-sign-up",
+    "pass": 1
+   },
+   {
+    "quote": "Help the revenue teams you know sell more with agents that execute, and get paid for every deal you bring in.",
+    "url": "https://www.nooks.ai/referral-sign-up",
+    "pass": 1
+   },
+   {
+    "quote": "If the deal closes, you get 10% of first-year ARR, up to $5K.",
+    "url": "https://www.nooks.ai/referral-sign-up",
+    "pass": 1
+   },
+   {
+    "quote": "The best revenue teams run on Nooks",
+    "url": "https://www.nooks.ai/referral-sign-up",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue agents that actually work.",
+    "url": "https://www.nooks.ai/referral-sign-up",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue teams running on Nooks",
+    "url": "https://www.nooks.ai/solutions/outbound",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue teams running on Nooks",
+    "url": "https://www.nooks.ai/solutions/deal-management",
+    "pass": 1
+   },
+   {
+    "quote": "They work through skills, each one a single job such as a daily deal brief, a post-call follow-up or a business case, and they carry the account’s context from one skill to the next.",
+    "url": "https://www.nooks.ai/solutions/deal-management",
+    "pass": 1
+   },
+   {
+    "quote": "About Nooks: The Applied AI Lab Behind Revenue Agents",
+    "url": "https://www.nooks.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Revenue Officer",
+    "url": "https://www.nooks.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Driving billion-dollar pipeline and revenue growth",
+    "url": "https://www.nooks.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "Outreachは、AIエージェントが商談・アカウントを自律的に処理する「Agentic AI Platform for Revenue Teams」です",
+    "url": "https://aipicks.jp/tool/nooks",
+    "pass": 3
+   },
+   {
+    "quote": "SalesLoftは予測分析のClariと経営統合し、単体の営業アウトリーチツールから「Predictive Revenue System」と呼ぶ複合プラットフォームに再編",
+    "url": "https://aipicks.jp/tool/nooks",
+    "pass": 3
+   },
+   {
+    "quote": "Nooksが5億ドルを調達、AI営業アシスタント「Node」を発表：NYSEコンテンツ更新",
+    "url": "https://www.moomoo.com/ja/news/post/1003506202/nooks-secures-500m-launches-ai-sales-assistant-node-nyse-content",
+    "pass": 3
+   },
+   {
+    "quote": "ニューヨーク、2026年11月4日／PRNewswire／――ニューヨーク証券取引所（NYSE）は、NYSEの取引フロアから直接、毎日のプレマーケット情報を提供しています",
+    "url": "https://www.moomoo.com/ja/news/post/1003506202/nooks-secures-500m-launches-ai-sales-assistant-node-nyse-content",
+    "pass": 3
+   },
+   {
+    "quote": "取引開始前の市場動向に関する洞察を得るために、本日のNYSEプレマーケット情報をぜひご活用ください",
+    "url": "https://www.moomoo.com/ja/news/post/1003506202/nooks-secures-500m-launches-ai-sales-assistant-node-nyse-content",
+    "pass": 3
+   },
+   {
+    "quote": "Nooksの最高経営責任者がNYSE Liveに登壇し、Revenue Agent Platformについて議論します",
+    "url": "https://www.moomoo.com/ja/news/post/1003506202/nooks-secures-500m-launches-ai-sales-assistant-node-nyse-content",
+    "pass": 3
+   },
+   {
+    "quote": "ブロードリッジ（NYSE：BR）は声明で、同プラットフォームにオンチェーンガバナンスおよびデジタル移管代行サービスを導入すると述べました",
+    "url": "https://www.moomoo.com/ja/news/post/1003506202/nooks-secures-500m-launches-ai-sales-assistant-node-nyse-content",
+    "pass": 3
+   },
+   {
+    "quote": "ブロードリッジの幹部であるダニエル・グリエリ氏がNYSEライブに登場し、同社のトークン化に関する取り組みや最新の決算について詳しく説明します",
+    "url": "https://www.moomoo.com/ja/news/post/1003506202/nooks-secures-500m-launches-ai-sales-assistant-node-nyse-content",
+    "pass": 3
+   },
+   {
+    "quote": "ウーバー（NYSE: UBER）、マクドナルド（NYSE: MCD）、およびCVSヘルス（NYSE: CVS）は、今朝四半期決算を発表しました",
+    "url": "https://www.moomoo.com/ja/news/post/1003506202/nooks-secures-500m-launches-ai-sales-assistant-node-nyse-content",
+    "pass": 3
+   },
+   {
+    "quote": "サムサラ（NYSE: IOT）は、世界を支える産業にAIをもたらしたことを祝います",
+    "url": "https://www.moomoo.com/ja/news/post/1003506202/nooks-secures-500m-launches-ai-sales-assistant-node-nyse-content",
+    "pass": 3
+   },
+   {
+    "quote": "インヴェントラスト（ニューヨーク証券取引所コード：IVT）は、上場5周年を迎えました",
+    "url": "https://www.moomoo.com/ja/news/post/1003506202/nooks-secures-500m-launches-ai-sales-assistant-node-nyse-content",
+    "pass": 3
+   },
+   {
+    "quote": "市場の洞察、IPOの動向、そして本日の開場セレモニーについては、NYSE TVアプリをダウンロードし、NYSEのYouTubeチャンネルをご覧ください：TV.NYSE.com および YouTube.com/@NYSEofficial",
+    "url": "https://www.moomoo.com/ja/news/post/1003506202/nooks-secures-500m-launches-ai-sales-assistant-node-nyse-content",
+    "pass": 3
+   },
+   {
+    "quote": "Sky Quarry、BioForceのネバダ州における2,500万米ドル規模の石油開発資金調達活動を支援するための意向書を締結",
+    "url": "https://www.moomoo.com/ja/news/post/1003506202/nooks-secures-500m-launches-ai-sales-assistant-node-nyse-content",
+    "pass": 3
+   },
+   {
+    "quote": "Harry Potter & Wizard",
+    "url": "https://booknookkit.com/product-category/japanese-book-nook/?srsltid=AYCX9vJi3jsvm5uNOV3a3VuuYnoq8NILjHY4wkMNV6wJ8qcuobbyHC6b",
+    "pass": 3
+   },
+   {
+    "quote": "— A Japanese book nook builds a narrow street scene — paper lanterns, noren curtains, a noodle counter or a shrine gate — lit the way those streets actually look after dark. The kits here arrive flat-packed with the wood and printed scenery, and most include an LED; glue and batteries are often left out for air shipping, so check the listing for each one.",
+    "url": "https://booknookkit.com/product-category/japanese-book-nook/?srsltid=AYCX9vJi3jsvm5uNOV3a3VuuYnoq8NILjHY4wkMNV6wJ8qcuobbyHC6b",
+    "pass": 3
+   },
+   {
+    "quote": "In most kits the LED strip is routed so several lantern positions glow. The product page describes the lighting arrangement for each scene.",
+    "url": "https://booknookkit.com/product-category/japanese-book-nook/?srsltid=AYCX9vJi3jsvm5uNOV3a3VuuYnoq8NILjHY4wkMNV6wJ8qcuobbyHC6b",
+    "pass": 3
+   },
+   {
+    "quote": "— we build these ourselves and would rather point you at the right one than sell you the wrong one. Every theme we carry is on our",
+    "url": "https://booknookkit.com/product-category/japanese-book-nook/?srsltid=AYCX9vJi3jsvm5uNOV3a3VuuYnoq8NILjHY4wkMNV6wJ8qcuobbyHC6b",
+    "pass": 3
+   },
+   {
+    "quote": "A quiet note now and then — new arrivals, build tips and early access. No spam.",
+    "url": "https://booknookkit.com/product-category/japanese-book-nook/?srsltid=AYCX9vJi3jsvm5uNOV3a3VuuYnoq8NILjHY4wkMNV6wJ8qcuobbyHC6b",
+    "pass": 3
+   },
+   {
+    "quote": "Twilight of the Warriors Book Nook",
+    "url": "https://book-nook-kits.com/collections/japan-book-nook?srsltid=AYCX9vKYoY6J97FUOncoXdwun3iFaHhH0ZyIX-Dyzbhj7qIOITUBktbb",
+    "pass": 3
+   },
+   {
+    "quote": "Harry Potter Book Nook",
+    "url": "https://book-nook-kits.com/collections/japan-book-nook?srsltid=AYCX9vKYoY6J97FUOncoXdwun3iFaHhH0ZyIX-Dyzbhj7qIOITUBktbb",
+    "pass": 3
+   },
+   {
+    "quote": "The Sakura Wine Alley Book Nook directly references the narrow alleys (yokocho) found in bustling neighborhoods of Tokyo (like Shinjuku's Omoide Yokocho or Shibuya), Osaka (Dotonbori), and Kyoto, where small bars, izakayas, and traditional restaurants line up under cherry blossom trees.",
+    "url": "https://book-nook-kits.com/collections/japan-book-nook?srsltid=AYCX9vKYoY6J97FUOncoXdwun3iFaHhH0ZyIX-Dyzbhj7qIOITUBktbb",
+    "pass": 3
+   },
+   {
+    "quote": "Why Carry uses Porter instead of hiring a full-time DevOps engineer",
+    "url": "https://www.porter.run/case-study/nooks",
+    "pass": 3
+   },
+   {
+    "quote": "Nooks discovered Temporal through word of mouth from engineers who had used it at other companies. When scaling challenges arrived, the team was struck by how quickly they could build a proof of concept.",
+    "url": "https://temporal.io/resources/case-studies/nooks",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "2x more email replies with",
+    "url": "https://www.nooks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Manage emailing, dialing, and social touches from one intelligent platform.",
+    "url": "https://www.nooks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Purpose-built execution infrastructure helps calls connect, emails land, and revenue work get done reliably at scale.",
+    "url": "https://www.nooks.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Automated Voicemail Drops",
+    "url": "https://www.nooks.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Add and Execute Call, Email, SMS, and Social steps",
+    "url": "https://www.nooks.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Catch-all and verified emails",
+    "url": "https://www.nooks.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "No, Nooks integrates with Clay. Nooks can currently enrich contact data like email and phone numbers.",
+    "url": "https://www.nooks.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Adaptive Security Consolidated Their Outbound Stack and 4x'd Email Response Rates with Nooks AI Sequencing",
+    "url": "https://www.nooks.ai/customer-success",
+    "pass": 1
+   },
+   {
+    "quote": "AI Emails That Work: How to Deploy and Operationalize AI at Scale",
+    "url": "https://www.nooks.ai/categories/guides-and-resources",
+    "pass": 1
+   },
+   {
+    "quote": "Nooks finds the accounts worth pursuing, writes the emails, and dials the prospects most likely to pick up, while giving outbound teams control over how much gets automated.",
+    "url": "https://www.nooks.ai/solutions/outbound",
+    "pass": 1
+   },
+   {
+    "quote": "Send emails that sound like your best rep.",
+    "url": "https://www.nooks.ai/solutions/outbound",
+    "pass": 1
+   },
+   {
+    "quote": "Every email draws on the account's news and your past conversations, and the top-performing openers get shared with the team.",
+    "url": "https://www.nooks.ai/solutions/outbound",
+    "pass": 1
+   },
+   {
+    "quote": "Runs calls, emails, and LinkedIn messages in one sequence, without switching tools.",
+    "url": "https://www.nooks.ai/solutions/outbound",
+    "pass": 1
+   },
+   {
+    "quote": "Pulls the account news, the tools they use, and every past call and email into one brief.",
+    "url": "https://www.nooks.ai/solutions/outbound",
+    "pass": 1
+   },
+   {
+    "quote": "Reopens lost deals when something changes, with the email drafted.",
+    "url": "https://www.nooks.ai/solutions/outbound",
+    "pass": 1
+   },
+   {
+    "quote": "Write first-touch emails",
+    "url": "https://www.nooks.ai/solutions/outbound",
+    "pass": 1
+   },
+   {
+    "quote": "Drafts each email from the account's news and history, with sources on every line.",
+    "url": "https://www.nooks.ai/solutions/outbound",
+    "pass": 1
+   },
+   {
+    "quote": "Calls, emails, dispositions and meetings write back to Salesforce or HubSpot. No shadow CRM, no duplicate records.",
+    "url": "https://www.nooks.ai/solutions/outbound",
+    "pass": 1
+   },
+   {
+    "quote": "Deal Agents do the work to help surface critical deal info ahead of deal and pipeline reviews. The agent flags the deal and drafts the email that fixes it.",
+    "url": "https://www.nooks.ai/solutions/deal-management",
+    "pass": 1
+   },
+   {
+    "quote": "Preps a brief for every meeting on the rep's calendar: why the account matters now, the buyer's tools today, and questions or competitors to expect. Shows its reasoning and drafts the agenda email, ready to send.",
+    "url": "https://www.nooks.ai/solutions/deal-management",
+    "pass": 1
+   },
+   {
+    "quote": "Will deal agents send emails or update the CRM without my approval?",
+    "url": "https://www.nooks.ai/solutions/deal-management",
+    "pass": 1
+   },
+   {
+    "quote": "You decide whether deal agents act on their own. Reps can approve each email or CRM update before it goes out, or let the agents run.",
+    "url": "https://www.nooks.ai/solutions/deal-management",
+    "pass": 1
+   },
+   {
+    "quote": "A general model connected to your CRM can answer questions about your deals. The Deal Agent also acts on what it finds. It sends the follow-up and updates the CRM through execution infrastructure Nooks already runs, including email domains and phone numbers kept in good standing so emails land in the inbox and calls connect.",
+    "url": "https://www.nooks.ai/solutions/deal-management",
+    "pass": 1
+   },
+   {
+    "quote": "Most of the calls that sales representatives make go to voicemail, wasting hours of their time listening to ringtones instead of talking to potential customers. With sales teams regularly making hundreds of calls per week,",
+    "url": "https://www.porter.run/case-study/nooks",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Nooks Partner Program",
+    "url": "https://www.nooks.ai/referral-sign-up",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "すぐに、誰でも使いこなせるつくりを気に入り、2019年に東京都板橋区にオープンしたNOOKS LABO - factory & outlets - でも、",
+    "url": "https://squareup.com/jp/ja/townsquare/nooks-foods",
+    "pass": 3
+   },
+   {
+    "quote": "Perfect if you have décor with a feng shui style, Japanese zen, or Asian touches. These miniatures also harmonize beautifully with indoor plants, manga books, or Japanese culture books, creating a soothing and exotic atmosphere.",
+    "url": "https://book-nook-kits.com/collections/japan-book-nook?srsltid=AYCX9vKYoY6J97FUOncoXdwun3iFaHhH0ZyIX-Dyzbhj7qIOITUBktbb",
+    "pass": 3
+   },
+   {
+    "quote": "How Toma uses Porter and Deepgram to Transform the Automotive Industry with Voice AI",
+    "url": "https://www.porter.run/case-study/nooks",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "NOOKS FOODS | Square POSレジ導入事例",
+    "url": "https://squareup.com/jp/ja/townsquare/nooks-foods",
+    "pass": 3
+   },
+   {
+    "quote": "東京都渋谷区に2店舗、板橋区に1店舗、そして伊勢丹新宿内に1店舗ある",
+    "url": "https://squareup.com/jp/ja/townsquare/nooks-foods",
+    "pass": 3
+   },
+   {
+    "quote": "すぐに、誰でも使いこなせるつくりを気に入り、2019年に東京都板橋区にオープンしたNOOKS LABO - factory & outlets - でも、",
+    "url": "https://squareup.com/jp/ja/townsquare/nooks-foods",
+    "pass": 3
+   },
+   {
+    "quote": "営業担当者のための米AIツール「Nooks」が66億円調達、評価額440億円に | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+    "url": "https://forbesjapan.com/articles/detail/74675",
+    "pass": 3
+   },
+   {
+    "quote": "上智大学×タキヒヨーの共創が生んだサステナブルTシャツ――「TOKYOエシカル」がつなぐ新たな可能性",
+    "url": "https://forbesjapan.com/articles/detail/74675",
+    "pass": 3
+   },
+   {
+    "quote": "100年続くホテルが、100年先の森を育てる理由──「東京ステーションホテル」が未来へつなぐもの",
+    "url": "https://forbesjapan.com/articles/detail/74675",
+    "pass": 3
+   },
+   {
+    "quote": "なぜ今、日本市場に勝機があるのか ローランド・ベルガーが示す日本企業の新たな成長像",
+    "url": "https://forbesjapan.com/articles/detail/74675",
+    "pass": 3
+   },
+   {
+    "quote": "KKR・大和証券の両トップが語る 日本が「世界有数の成長市場」になる未来",
+    "url": "https://forbesjapan.com/articles/detail/74675",
+    "pass": 3
+   },
+   {
+    "quote": "Forbes JAPANの最新のニュースをお届けします",
+    "url": "https://forbesjapan.com/articles/detail/74675",
+    "pass": 3
+   },
+   {
+    "quote": "日本の電話番号や日本語の通話への対応も公式では確認できません",
+    "url": "https://aipicks.jp/tool/nooks",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内への発信や日本語の通話への対応は公式で確認できない",
+    "url": "https://aipicks.jp/tool/nooks",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内への発信への対応は確認できないため、北米へ営業をかける企業が主な対象です",
+    "url": "https://aipicks.jp/tool/nooks",
+    "pass": 3
+   },
+   {
+    "quote": "東京都渋谷区上原1-13-9 1F",
+    "url": "https://nooksfoods.com/?mode=f41",
+    "pass": 3
+   },
+   {
+    "quote": "東京都新宿区新宿3-14-1",
+    "url": "https://nooksfoods.com/?mode=f41",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Book Nook Kits — Kyoto, Tokyo & Sakura Scenes 2026",
+    "url": "https://booknookkit.com/product-category/japanese-book-nook/?srsltid=AYCX9vJi3jsvm5uNOV3a3VuuYnoq8NILjHY4wkMNV6wJ8qcuobbyHC6b",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Book Nook Kits",
+    "url": "https://booknookkit.com/product-category/japanese-book-nook/?srsltid=AYCX9vJi3jsvm5uNOV3a3VuuYnoq8NILjHY4wkMNV6wJ8qcuobbyHC6b",
+    "pass": 3
+   },
+   {
+    "quote": "A glass-and-timber Japanese greenhouse in full cherry-blossom bloom, with wind chimes, a tatami nook and a sleeping cat. It comes with a warm LED and an acrylic dust cover.",
+    "url": "https://booknookkit.com/product-category/japanese-book-nook/?srsltid=AYCX9vJi3jsvm5uNOV3a3VuuYnoq8NILjHY4wkMNV6wJ8qcuobbyHC6b",
+    "pass": 3
+   },
+   {
+    "quote": "Cutebee Japanese Convenience Store DIY Miniature House Kit",
+    "url": "https://booknookkit.com/product-category/japanese-book-nook/?srsltid=AYCX9vJi3jsvm5uNOV3a3VuuYnoq8NILjHY4wkMNV6wJ8qcuobbyHC6b",
+    "pass": 3
+   },
+   {
+    "quote": "Cutebee Japanese Grocery Store DIY Miniature House Kit",
+    "url": "https://booknookkit.com/product-category/japanese-book-nook/?srsltid=AYCX9vJi3jsvm5uNOV3a3VuuYnoq8NILjHY4wkMNV6wJ8qcuobbyHC6b",
+    "pass": 3
+   },
+   {
+    "quote": "Cutebee Japanese Ramen Shop DIY Book Nook Kit",
+    "url": "https://booknookkit.com/product-category/japanese-book-nook/?srsltid=AYCX9vJi3jsvm5uNOV3a3VuuYnoq8NILjHY4wkMNV6wJ8qcuobbyHC6b",
+    "pass": 3
+   },
+   {
+    "quote": "Cutebee Japanese Style Series DIY Miniature House Kits",
+    "url": "https://booknookkit.com/product-category/japanese-book-nook/?srsltid=AYCX9vJi3jsvm5uNOV3a3VuuYnoq8NILjHY4wkMNV6wJ8qcuobbyHC6b",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese DIY Miniature House Kit – With LED",
+    "url": "https://booknookkit.com/product-category/japanese-book-nook/?srsltid=AYCX9vJi3jsvm5uNOV3a3VuuYnoq8NILjHY4wkMNV6wJ8qcuobbyHC6b",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Garden DIY Miniature House Kit – With LED",
+    "url": "https://booknookkit.com/product-category/japanese-book-nook/?srsltid=AYCX9vJi3jsvm5uNOV3a3VuuYnoq8NILjHY4wkMNV6wJ8qcuobbyHC6b",
+    "pass": 3
+   },
+   {
+    "quote": "Mini Japanese Tea House Book Nook Kit – For Beginners",
+    "url": "https://booknookkit.com/product-category/japanese-book-nook/?srsltid=AYCX9vJi3jsvm5uNOV3a3VuuYnoq8NILjHY4wkMNV6wJ8qcuobbyHC6b",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese sakura greenhouse",
+    "url": "https://booknookkit.com/product-category/japanese-book-nook/?srsltid=AYCX9vJi3jsvm5uNOV3a3VuuYnoq8NILjHY4wkMNV6wJ8qcuobbyHC6b",
+    "pass": 3
+   },
+   {
+    "quote": "— A Japanese book nook builds a narrow street scene — paper lanterns, noren curtains, a noodle counter or a shrine gate — lit the way those streets actually look after dark. The kits here arrive flat-packed with the wood and printed scenery, and most include an LED; glue and batteries are often left out for air shipping, so check the listing for each one.",
+    "url": "https://booknookkit.com/product-category/japanese-book-nook/?srsltid=AYCX9vJi3jsvm5uNOV3a3VuuYnoq8NILjHY4wkMNV6wJ8qcuobbyHC6b",
+    "pass": 3
+   },
+   {
+    "quote": "Building your first japanese book nook",
+    "url": "https://booknookkit.com/product-category/japanese-book-nook/?srsltid=AYCX9vJi3jsvm5uNOV3a3VuuYnoq8NILjHY4wkMNV6wJ8qcuobbyHC6b",
+    "pass": 3
+   },
+   {
+    "quote": "Warm light is the whole point, so a finished japanese book nook belongs somewhere it will be seen after dark — a bookshelf gap, a desk, a hallway table or a windowsill away from direct sun, which fades printed parts over time. Dust settles into open interiors faster than you expect; a soft brush every few weeks keeps a scene looking new for years.",
+    "url": "https://booknookkit.com/product-category/japanese-book-nook/?srsltid=AYCX9vJi3jsvm5uNOV3a3VuuYnoq8NILjHY4wkMNV6wJ8qcuobbyHC6b",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese & Sakura Kits",
+    "url": "https://booknookkit.com/product-category/japanese-book-nook/?srsltid=AYCX9vJi3jsvm5uNOV3a3VuuYnoq8NILjHY4wkMNV6wJ8qcuobbyHC6b",
+    "pass": 3
+   },
+   {
+    "quote": "What themes do Japanese book nooks cover?",
+    "url": "https://booknookkit.com/product-category/japanese-book-nook/?srsltid=AYCX9vJi3jsvm5uNOV3a3VuuYnoq8NILjHY4wkMNV6wJ8qcuobbyHC6b",
+    "pass": 3
+   },
+   {
+    "quote": "Still unsure which Japanese book nook to pick?",
+    "url": "https://booknookkit.com/product-category/japanese-book-nook/?srsltid=AYCX9vJi3jsvm5uNOV3a3VuuYnoq8NILjHY4wkMNV6wJ8qcuobbyHC6b",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese book nook kits in the US shop",
+    "url": "https://booknookkit.com/product-category/japanese-book-nook/?srsltid=AYCX9vJi3jsvm5uNOV3a3VuuYnoq8NILjHY4wkMNV6wJ8qcuobbyHC6b",
+    "pass": 3
+   },
+   {
+    "quote": "Every wooden book nook kit we list, sorted by theme and brand: wizarding alleys, Japanese streets, libraries and haunted houses. Laser-cut wood, warm LED.",
+    "url": "https://booknookkit.com/product-category/japanese-book-nook/?srsltid=AYCX9vJi3jsvm5uNOV3a3VuuYnoq8NILjHY4wkMNV6wJ8qcuobbyHC6b",
+    "pass": 3
+   },
+   {
+    "quote": "16 kits also live in Japanese Book Nook Kits.",
+    "url": "https://booknookkit.com/product-category/japanese-book-nook/?srsltid=AYCX9vJi3jsvm5uNOV3a3VuuYnoq8NILjHY4wkMNV6wJ8qcuobbyHC6b",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese miniature house kits and sakura DIY dollhouses: cherry blossom shops, tea rooms and Kyoto streets you build by hand and light with warm LED.",
+    "url": "https://booknookkit.com/product-category/japanese-book-nook/?srsltid=AYCX9vJi3jsvm5uNOV3a3VuuYnoq8NILjHY4wkMNV6wJ8qcuobbyHC6b",
+    "pass": 3
+   },
+   {
+    "quote": "12 kits also live in Japanese Book Nook Kits.",
+    "url": "https://booknookkit.com/product-category/japanese-book-nook/?srsltid=AYCX9vJi3jsvm5uNOV3a3VuuYnoq8NILjHY4wkMNV6wJ8qcuobbyHC6b",
+    "pass": 3
+   },
+   {
+    "quote": "10 kits also live in Japanese Book Nook Kits.",
+    "url": "https://booknookkit.com/product-category/japanese-book-nook/?srsltid=AYCX9vJi3jsvm5uNOV3a3VuuYnoq8NILjHY4wkMNV6wJ8qcuobbyHC6b",
+    "pass": 3
+   },
+   {
+    "quote": "8 kits also live in Japanese Book Nook Kits.",
+    "url": "https://booknookkit.com/product-category/japanese-book-nook/?srsltid=AYCX9vJi3jsvm5uNOV3a3VuuYnoq8NILjHY4wkMNV6wJ8qcuobbyHC6b",
+    "pass": 3
+   },
+   {
+    "quote": "7 kits also live in Japanese Book Nook Kits.",
+    "url": "https://booknookkit.com/product-category/japanese-book-nook/?srsltid=AYCX9vJi3jsvm5uNOV3a3VuuYnoq8NILjHY4wkMNV6wJ8qcuobbyHC6b",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Book Nook & Asian Style DIY Kits",
+    "url": "https://book-nook-kits.com/collections/japan-book-nook?srsltid=AYCX9vKYoY6J97FUOncoXdwun3iFaHhH0ZyIX-Dyzbhj7qIOITUBktbb",
+    "pass": 3
+   },
+   {
+    "quote": "These Book Nooks transport you to the Land of the Rising Sun through Japanese architecture with its traditional black tile roofs, natural wood facades, signs with Japanese calligraphy, sliding shoji doors, tatami mats, miniature bonsai trees, and meticulous artisan details. You'll also be transported to the alleyways of Kyoto or the bustling neighborhoods of Tokyo.",
+    "url": "https://book-nook-kits.com/collections/japan-book-nook?srsltid=AYCX9vKYoY6J97FUOncoXdwun3iFaHhH0ZyIX-Dyzbhj7qIOITUBktbb",
+    "pass": 3
+   },
+   {
+    "quote": "FAQ about Japan Book Nook",
+    "url": "https://book-nook-kits.com/collections/japan-book-nook?srsltid=AYCX9vKYoY6J97FUOncoXdwun3iFaHhH0ZyIX-Dyzbhj7qIOITUBktbb",
+    "pass": 3
+   },
+   {
+    "quote": "Which Japanese Book Nook is the easiest to build?",
+    "url": "https://book-nook-kits.com/collections/japan-book-nook?srsltid=AYCX9vKYoY6J97FUOncoXdwun3iFaHhH0ZyIX-Dyzbhj7qIOITUBktbb",
+    "pass": 3
+   },
+   {
+    "quote": "Who should buy a Japanese Book Nook?",
+    "url": "https://book-nook-kits.com/collections/japan-book-nook?srsltid=AYCX9vKYoY6J97FUOncoXdwun3iFaHhH0ZyIX-Dyzbhj7qIOITUBktbb",
+    "pass": 3
+   },
+   {
+    "quote": "This type of Book Nook is ideal if you or a loved one is a fan of Japanese and Asian culture, or for all manga and anime enthusiasts and anyone who dreams of visiting this fascinating country.",
+    "url": "https://book-nook-kits.com/collections/japan-book-nook?srsltid=AYCX9vKYoY6J97FUOncoXdwun3iFaHhH0ZyIX-Dyzbhj7qIOITUBktbb",
+    "pass": 3
+   },
+   {
+    "quote": "Perfect if you have décor with a feng shui style, Japanese zen, or Asian touches. These miniatures also harmonize beautifully with indoor plants, manga books, or Japanese culture books, creating a soothing and exotic atmosphere.",
+    "url": "https://book-nook-kits.com/collections/japan-book-nook?srsltid=AYCX9vKYoY6J97FUOncoXdwun3iFaHhH0ZyIX-Dyzbhj7qIOITUBktbb",
+    "pass": 3
+   },
+   {
+    "quote": "Which Japanese cities or scenes are represented in Book Nooks?",
+    "url": "https://book-nook-kits.com/collections/japan-book-nook?srsltid=AYCX9vKYoY6J97FUOncoXdwun3iFaHhH0ZyIX-Dyzbhj7qIOITUBktbb",
+    "pass": 3
+   },
+   {
+    "quote": "You'll find traditional restaurants and shops from all over Japan.",
+    "url": "https://book-nook-kits.com/collections/japan-book-nook?srsltid=AYCX9vKYoY6J97FUOncoXdwun3iFaHhH0ZyIX-Dyzbhj7qIOITUBktbb",
+    "pass": 3
+   },
+   {
+    "quote": "The Sakura Densya Book Nook is inspired by the iconic Enoden train (Enoshima Electric Railway line) that runs through the Kamakura and Enoshima region near Tokyo, famous for its cherry blossoms and picturesque coastal landscapes.",
+    "url": "https://book-nook-kits.com/collections/japan-book-nook?srsltid=AYCX9vKYoY6J97FUOncoXdwun3iFaHhH0ZyIX-Dyzbhj7qIOITUBktbb",
+    "pass": 3
+   },
+   {
+    "quote": "The Under the Sakura Book Nook depicts an ancient Japanese town where every building was made of wood, evoking the atmosphere of historic districts like Gion in Kyoto or traditional villages from the Edo period, with their cobblestone alleys and paper lanterns.",
+    "url": "https://book-nook-kits.com/collections/japan-book-nook?srsltid=AYCX9vKYoY6J97FUOncoXdwun3iFaHhH0ZyIX-Dyzbhj7qIOITUBktbb",
+    "pass": 3
+   },
+   {
+    "quote": "The Sakura Wine Alley Book Nook directly references the narrow alleys (yokocho) found in bustling neighborhoods of Tokyo (like Shinjuku's Omoide Yokocho or Shibuya), Osaka (Dotonbori), and Kyoto, where small bars, izakayas, and traditional restaurants line up under cherry blossom trees.",
+    "url": "https://book-nook-kits.com/collections/japan-book-nook?srsltid=AYCX9vKYoY6J97FUOncoXdwun3iFaHhH0ZyIX-Dyzbhj7qIOITUBktbb",
+    "pass": 3
+   },
+   {
+    "quote": "What are the best Japanese book nooks to build?",
+    "url": "https://book-nook-kits.com/collections/japan-book-nook?srsltid=AYCX9vKYoY6J97FUOncoXdwun3iFaHhH0ZyIX-Dyzbhj7qIOITUBktbb",
+    "pass": 3
+   },
+   {
+    "quote": "Among our best-selling Japanese book nooks, you'll find Morita-Ya, Choshi no Shitamachi and Moss-Lantern Harmony Garden.",
+    "url": "https://book-nook-kits.com/collections/japan-book-nook?srsltid=AYCX9vKYoY6J97FUOncoXdwun3iFaHhH0ZyIX-Dyzbhj7qIOITUBktbb",
+    "pass": 3
+   },
+   {
+    "quote": "Where to buy our Japan Book Nook ?",
+    "url": "https://book-nook-kits.com/collections/japan-book-nook?srsltid=AYCX9vKYoY6J97FUOncoXdwun3iFaHhH0ZyIX-Dyzbhj7qIOITUBktbb",
+    "pass": 3
+   },
+   {
+    "quote": "You can purchase your Japan Book Nook directly on our website.",
+    "url": "https://book-nook-kits.com/collections/japan-book-nook?srsltid=AYCX9vKYoY6J97FUOncoXdwun3iFaHhH0ZyIX-Dyzbhj7qIOITUBktbb",
+    "pass": 3
+   },
+   {
+    "quote": "You can find some Japan Book Nook at physical retailers or in large stores, but they are not widely distributed yet. That's why we recommend ordering directly from our website to ensure you get",
+    "url": "https://book-nook-kits.com/collections/japan-book-nook?srsltid=AYCX9vKYoY6J97FUOncoXdwun3iFaHhH0ZyIX-Dyzbhj7qIOITUBktbb",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "NOOKS FOODS | Square POSレジ 導入 事例 — NOOKS FOODS | Square POSレジ 導入 事例 Square https://squareup.com > townsquare > nooks-foods",
+    "url": "https://squareup.com/jp/ja/townsquare/nooks-foods",
+    "pass": 3
+   },
+   {
+    "quote": "営業担当者のための米AIツール「 Nooks 」が66億円調達 — 営業担当者のための米AIツール「 Nooks 」が66億円調達 Forbes JAPAN https://forbesjapan.com > スタートアップ > 海外",
+    "url": "https://forbesjapan.com/articles/detail/74675",
+    "pass": 3
+   },
+   {
+    "quote": "Nooks （ ヌークス ）とは？評判・料金・機能 - AI PICKS — Nooks （ ヌークス ）とは？評判・料金・機能 - AI PICKS aipicks.jp https://aipicks.jp > AIセールス",
+    "url": "https://aipicks.jp/tool/nooks",
+    "pass": 3
+   },
+   {
+    "quote": "Nooks が5億ドルを調達、AI営業アシスタント「Node」を発表 — Nooks が5億ドルを調達、AI営業アシスタント「Node」を発表 Moomoo https://www.moomoo.com > news > post > nooks-secures-...",
+    "url": "https://www.moomoo.com/ja/news/post/1003506202/nooks-secures-500m-launches-ai-sales-assistant-node-nyse-content",
+    "pass": 3
+   },
+   {
+    "quote": "店舗のご案内 - NOOKS FOODS（公式オンラインショップ） — 店舗のご案内 - NOOKS FOODS（公式オンラインショップ） NOOKS FOODS https://nooksfoods.com > ...",
+    "url": "https://nooksfoods.com/?mode=f41",
+    "pass": 3
+   },
+   {
+    "quote": "Book Nooks Japan - Etsy — Book Nooks Japan - Etsy Etsy https://www.etsy.com > market > boo...",
+    "url": "https://www.etsy.com/market/book_nooks_japan",
+    "pass": 3
+   },
+   {
+    "quote": "Book nooks in Japan : r/JapanTravelTips - Reddit — Book nooks in Japan : r/JapanTravelTips - Reddit Reddit https://www.reddit.com > comments",
+    "url": "https://www.reddit.com/r/JapanTravelTips/comments/1grtwxx/book_nooks_in_japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Nooks - LinkedIn — Nooks - LinkedIn LinkedIn https://www.linkedin.com > nooksapp",
+    "url": "https://www.linkedin.com/company/nooksapp",
+    "pass": 3
+   },
+   {
+    "quote": "Observe Case Study : 80% Less Research, 40% More Connects — Observe Case Study : 80% Less Research, 40% More Connects Nooks https://www.nooks.ai > how-observe-...",
+    "url": "https://www.nooks.ai/customer-success/how-observe-replaced-its-legacy-sequencer-to-cut-research-time-by-80-and-power-new-pipeline",
+    "pass": 3
+   },
+   {
+    "quote": "How Nooks uses Porter to achieve a median latency of 250ms ... — How Nooks uses Porter to achieve a median latency of 250ms ... Porter. run https://www.porter.run > nooks",
+    "url": "https://www.porter.run/case-study/nooks",
+    "pass": 3
+   },
+   {
+    "quote": "How Nooks scaled their AI platform 100x without breaking — How Nooks scaled their AI platform 100x without breaking Temporal https://temporal.io > ... > Case Study",
+    "url": "https://temporal.io/resources/case-studies/nooks",
+    "pass": 3
+   },
+   {
+    "quote": "Nooks Case Study : 70% Lower Web Search Costs - Parallel.ai — Nooks Case Study : 70% Lower Web Search Costs - Parallel.ai Parallel Web Systems https://parallel.ai > case-study-nooks",
+    "url": "https://parallel.ai/blog/case-study-nooks",
+    "pass": 3
+   },
+   {
+    "quote": "Nooks 2025: Record Growth & AI Sales Platform — Nooks 2025: Record Growth & AI Sales Platform Nooks https://www.nooks.ai > blog-posts > n...",
+    "url": "https://www.nooks.ai/blog-posts/nooks-heads-into-2025-with-record-momentum-and-growth",
+    "pass": 3
+   },
+   {
+    "quote": "Nooks - Crunchbase Company Profile & Funding — Nooks - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > nooks...",
+    "url": "https://www.crunchbase.com/organization/nooks-f66c",
+    "pass": 3
+   },
+   {
+    "quote": "Nooks , an AI sales startup, just took $500 million from General ... — Nooks , an AI sales startup, just took $500 million from General ... Instagram https://www.instagram.com > reel > DfasvpsBpHE",
+    "url": "https://www.instagram.com/reel/DfasvpsBpHE/",
+    "pass": 3
+   },
+   {
+    "quote": "Nooks raises $43M Series B, valued at $285M, to automate ... — Nooks raises $43M Series B, valued at $285M, to automate ... LinkedIn https://www.linkedin.com > posts",
+    "url": "https://www.linkedin.com/posts/startupbeaker_startups-ai-sales-activity-7383656895737151488-m0Te",
+    "pass": 3
+   },
+   {
+    "quote": "Nooks announces $43M Series B and launches AI Sales ... — Nooks announces $43M Series B and launches AI Sales ... PR Newswire https://www.prnewswire.com > nooks...",
+    "url": "https://www.prnewswire.com/news-releases/nooks-announces-43m-series-b-and-launches-ai-sales-assistant-platform-302285425.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Niches, Nooks , and Raised Platforms: About Small Spaces in ... Niches, Nooks , and Raised Platforms: About Small Spaces in ... note https://note.com > ライフスタイル > 住まい・暮らし",
+    "url": "https://note.com/globalbase/n/nc45e14970140?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Niches, Nooks, and Raised Platforms: About Small Spaces in the Home｜グローバルベイス公式note",
+    "url": "https://note.com/globalbase/n/nc45e14970140?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/globalbase/n/nc45e14970140?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Niches, Nooks, and Raised Platforms: About Small Spaces in the Home",
+    "url": "https://note.com/globalbase/n/nc45e14970140?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Terms like \"niche,\" \"nook,\" and \"raised platform\" are often seen in renovation examples.",
+    "url": "https://note.com/globalbase/n/nc45e14970140?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "While they may not be central spaces in the home like the living room or kitchen, having such areas can change the comfort and livability of your home.",
+    "url": "https://note.com/globalbase/n/nc45e14970140?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Whether it's increasing storage in a limited area or creating a place to take a breather.",
+    "url": "https://note.com/globalbase/n/nc45e14970140?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Small touches within the home make daily life richer.",
+    "url": "https://note.com/globalbase/n/nc45e14970140?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, we will introduce three types of spaces that are frequently incorporated into renovations.",
+    "url": "https://note.com/globalbase/n/nc45e14970140?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Nooks (@JoinNooks) / X Nooks (@JoinNooks) / X X https://x.com > JoinNooks",
+    "url": "https://x.com/JoinNooks",
+    "pass": 3
+   },
+   {
+    "quote": "AGTP on X: \"BREAKING: AI sales startup Nooks has secured ... AGTP on X: \"BREAKING: AI sales startup Nooks has secured ... X https://x.com > @AGTPinsights",
+    "url": "https://x.com/AGTPinsights/status/2117948637317591240",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Nooks - LinkedIn Nooks - LinkedIn LinkedIn https://www.linkedin.com > nooksapp",
+    "url": "https://www.linkedin.com/company/nooksapp",
+    "pass": 3
+   },
+   {
+    "quote": "Nooks - LinkedIn Nooks - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/nooks-works",
+    "pass": 3
+   },
+   {
+    "quote": "Nooks : Jobs - LinkedIn Nooks : Jobs - LinkedIn LinkedIn https://www.linkedin.com > jobs",
+    "url": "https://www.linkedin.com/company/nooksapp/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Nooks : Culture - LinkedIn Nooks : Culture - LinkedIn LinkedIn https://www.linkedin.com > life",
+    "url": "https://www.linkedin.com/company/nooksapp/life",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Nooks | Lorain OH - Facebook Nooks | Lorain OH - Facebook Facebook https://www.facebook.com > Nooksclothing",
+    "url": "https://www.facebook.com/Nooksclothing/",
+    "pass": 3
+   },
+   {
+    "quote": "Nooks Gallery & Bookstore | Lancaster PA - Facebook Nooks Gallery & Bookstore | Lancaster PA - Facebook Facebook https://www.facebook.com > ... > Bookstore",
+    "url": "https://www.facebook.com/noooooks/",
+    "pass": 3
+   },
+   {
+    "quote": "Book Nooks - Kits, Supplies & Finished Nooks | Facebook Book Nooks - Kits, Supplies & Finished Nooks | Facebook Facebook https://www.facebook.com > Facebook Groups",
+    "url": "https://www.facebook.com/groups/nookshop/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.nooks.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nooks.ai/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nooks.ai/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nooks.ai/customer-success",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nooks.ai/categories/guides-and-resources",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nooks.ai/referral-sign-up",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nooks.ai/solutions/outbound",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nooks.ai/solutions/deal-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nooks.ai/about",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://squareup.com/jp/ja/townsquare/nooks-foods",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://forbesjapan.com/articles/detail/74675",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aipicks.jp/tool/nooks",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.moomoo.com/ja/news/post/1003506202/nooks-secures-500m-launches-ai-sales-assistant-node-nyse-content",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=m9qq9nQP9KI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://nook-inter.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nooksfoods.com/?mode=f41",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/topics/keywords/%E6%97%A5%E6%9C%AC%E7%B7%8F%E4%BB%A3%E7%90%86%E5%BA%97",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.etsy.com/market/book_nooks_japan",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://booknookkit.com/product-category/japanese-book-nook/?srsltid=AYCX9vJi3jsvm5uNOV3a3VuuYnoq8NILjHY4wkMNV6wJ8qcuobbyHC6b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.reddit.com/r/JapanTravelTips/comments/1grtwxx/book_nooks_in_japan/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://book-nook-kits.com/collections/japan-book-nook?srsltid=AYCX9vKYoY6J97FUOncoXdwun3iFaHhH0ZyIX-Dyzbhj7qIOITUBktbb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.porter.run/case-study/nooks",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aws.amazon.com/jp/solutions/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://temporal.io/resources/case-studies/nooks",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://webinone.com/reseller-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sales-label.com/blog/white-label-saas-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/nooks-f66c",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/reel/DfasvpsBpHE/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/startupbeaker_startups-ai-sales-activity-7383656895737151488-m0Te",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/globalbase/n/nc45e14970140?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/JoinNooks",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/AGTPinsights/status/2117948637317591240",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/nooksapp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/nooks-works",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/nooksapp/jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/nooksapp/life",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Nooksclothing/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/noooooks/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/nookshop/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/JoinNooks",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Nooks 日本 導入",
+   "results": [
+    "https://squareup.com/jp/ja/townsquare/nooks-foods",
+    "https://forbesjapan.com/articles/detail/74675",
+    "https://aipicks.jp/tool/nooks",
+    "https://www.moomoo.com/ja/news/post/1003506202/nooks-secures-500m-launches-ai-sales-assistant-node-nyse-content",
+    "https://sakihaya.theletter.jp/posts/50553cb0-2306-11ee-bc2c-710519fd2cf3",
+    "https://trs.jp.toto.com/blog/68/post_3187w-nook",
+    "https://www.ozone.co.jp/news/event/669/",
+    "https://www.youtube.com/watch?v=rVKSTtRj8pE",
+    "https://play.google.com/store/apps/details?id=xovoltlabs.nooks&hl=ja",
+    "https://www.nooks.ai/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Nooks 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.youtube.com/watch?v=m9qq9nQP9KI",
+    "https://nook-inter.com/",
+    "https://nooksfoods.com/?mode=f41",
+    "https://prtimes.jp/topics/keywords/%E6%97%A5%E6%9C%AC%E7%B7%8F%E4%BB%A3%E7%90%86%E5%BA%97",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://b-seeds.com/business/target/individual/affluent",
+    "https://www.instagram.com/nooksfoods/",
+    "https://note.com/kynovus/n/n9e9dd471fa7e",
+    "https://www.youtube.com/watch?v=Gcr01pLRick",
+    "https://nooksfoods.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Nooks Japan",
+   "results": [
+    "https://www.etsy.com/market/book_nooks_japan",
+    "https://booknookkit.com/product-category/japanese-book-nook/?srsltid=AYCX9vJi3jsvm5uNOV3a3VuuYnoq8NILjHY4wkMNV6wJ8qcuobbyHC6b",
+    "https://www.reddit.com/r/JapanTravelTips/comments/1grtwxx/book_nooks_in_japan/",
+    "https://book-nook-kits.com/collections/japan-book-nook?srsltid=AYCX9vKYoY6J97FUOncoXdwun3iFaHhH0ZyIX-Dyzbhj7qIOITUBktbb",
+    "https://www.linkedin.com/company/nooksapp",
+    "https://byanavrin.com/en-jp/collections/book-nooks",
+    "https://www.nooks.ai/",
+    "https://www.booknookworld.com/collections/japanese-book-nooks?srsltid=AYCX9vJsTFTtwMaofwyz5vFwDRCvQBOhYGs5ZLOVXIcmyyPBT7iFKOJU",
+    "https://www.booknookworld.com/collections/japanese-book-nooks",
+    "https://booknookkit.com/product-category/japanese-book-nook/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Nooks manufacturing customer case study",
+   "results": [
+    "https://www.nooks.ai/customer-success/how-observe-replaced-its-legacy-sequencer-to-cut-research-time-by-80-and-power-new-pipeline",
+    "https://www.porter.run/case-study/nooks",
+    "https://aws.amazon.com/solutions/case-studies/",
+    "https://temporal.io/resources/case-studies/nooks",
+    "https://parallel.ai/blog/case-study-nooks",
+    "https://www.renishaw.com/en/additive-manufacturing-case-studies--44452?srsltid=AYCX9vJIQybIDRFvo_l0DFoPUKW4VfH6cb44RH4rqrsmAr3qg5ng0zvF",
+    "https://www.sciencedirect.com/science/article/pii/S2212827124013945",
+    "https://nookpodusa.com/case-studies/?srsltid=AYCX9vKx806sm9G7MgAR2s3baeYeIrkxbdrQ5w9avCSVCnjUdVnjUOdH",
+    "https://www.nclouds.com/customer-success/",
+    "https://www.casestudies.com/company/nooks"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Nooks white label OR reseller OR partner program",
+   "results": [
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://webinone.com/reseller-program",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://sales-label.com/blog/white-label-saas-reseller",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://www.siptrunk.com/blog/white-label-saas-reseller/",
+    "https://www.vendasta.com/blog/best-white-label-reseller-programs/",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://wayfront.com/blog/white-label-reseller-programs",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Nooks founded funding employees revenue",
+   "results": [
+    "https://www.nooks.ai/blog-posts/nooks-heads-into-2025-with-record-momentum-and-growth",
+    "https://www.crunchbase.com/organization/nooks-f66c",
+    "https://www.instagram.com/reel/DfasvpsBpHE/",
+    "https://www.linkedin.com/posts/startupbeaker_startups-ai-sales-activity-7383656895737151488-m0Te",
+    "https://www.prnewswire.com/news-releases/nooks-announces-43m-series-b-and-launches-ai-sales-assistant-platform-302285425.html",
+    "https://tracxn.com/d/companies/nooks/__mlfvfJIFXIxw3IRywxhHVfhwhn1QoWKDXqdX9NXygxI",
+    "https://www.nooks.ai/",
+    "https://www.instagram.com/p/C6OcIkop2Dr/",
+    "https://forgeglobal.com/nooks_ipo/",
+    "https://compworth.com/company/nooks-ai"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Nooks",
+   "results": [
+    "https://note.com/crafithouse/n/na81b0229406a?hl=en",
+    "https://note.com/nook_tohoku/m/md1fc038f5632",
+    "https://note.com/globalbase/n/nc45e14970140?hl=en",
+    "https://note.com/mimi0926/n/n0f9f67ddd14e?hl=en",
+    "https://note.com/nook_tohoku/n/na5aec0a5061a",
+    "https://note.com/izumiayane_/n/n1364bd6f9966?hl=en",
+    "https://note.com/nook_tohoku/m/m03172042531e",
+    "https://note.com/daidaidesign/n/nc1367fcd7c2f?hl=en",
+    "https://note.com/mimi0926/n/nc4267cbaf70e?hl=en",
+    "https://note.com/nook_tohoku/n/n6df1a0c32696"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Nooks",
+   "results": [
+    "https://x.com/JoinNooks",
+    "https://x.com/_dan_lee_",
+    "https://x.com/AGTPinsights/status/2117948637317591240",
+    "https://x.com/malapatastudio",
+    "https://x.com/TradedVC/status/2118104984373833821",
+    "https://x.com/NooksHQ/status/2118045994025951502",
+    "https://x.com/TradedVC/status/2118145915605459452",
+    "https://help.x.com/en/using-x/x-for-android-faqs",
+    "https://x.com/RealGeorgeNooks",
+    "https://x.com/CoachNooks"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com Nooks",
+   "results": [
+    "https://www.linkedin.com/company/nooksapp",
+    "https://www.linkedin.com/company/nooks-works",
+    "https://www.linkedin.com/company/nooksapp/jobs",
+    "https://www.linkedin.com/company/nooksapp/life",
+    "https://www.linkedin.com/in/zhangjesse",
+    "https://www.linkedin.com/in/dan9lee",
+    "https://www.linkedin.com/posts/joeygilkey_the-worst-mainstream-dialer-in-the-market-activity-7275960268193464320-3MxI",
+    "https://www.linkedin.com/in/sahilmehra",
+    "https://www.linkedin.com/in/surirohan",
+    "https://www.linkedin.com/company/nook-2023"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:facebook.com Nooks",
+   "results": [
+    "https://www.facebook.com/Nooksclothing/",
+    "https://www.facebook.com/nook/",
+    "https://www.facebook.com/noooooks/",
+    "https://www.facebook.com/groups/nookshop/",
+    "https://www.facebook.com/groups/1017503466452779/",
+    "https://www.facebook.com/Nookstherapper/",
+    "https://www.facebook.com/thenooksmusic/",
+    "https://www.facebook.com/p/Nooks-and-Notions-100067528791288/",
+    "https://www.facebook.com/groups/1849448625917953/posts/2307139863482158/",
+    "https://www.facebook.com/groups/nokboxnook/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Nooks note 社長",
+   "results": [
+    "https://note.com/nook_tohoku/m/md1fc038f5632",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://diamond.jp/articles/-/388572",
+    "https://note.com/note_ir/n/n722b1675e9e7",
+    "https://nipponia.or.jp/blog/3571/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://x.com/sadaaki",
+    "https://froggy.smbcnikko.co.jp/66481/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Nooks X 投稿",
+   "results": [
+    "https://x.com/JoinNooks",
+    "https://www.nooks.ai/",
+    "https://www.youtube.com/watch?v=ncqPTdR7ltQ",
+    "https://nooks.works/privacy/?hsLang=en",
+    "https://www.linkedin.com/company/nooksapp",
+    "https://github.com/discus0434/nook",
+    "https://www.instagram.com/noooooks/",
+    "https://www.nookatyou.com/pages/nook-x-collabs?srsltid=AYCX9vLKYtTaMSa9yKCK1pCrMNRYjLxW1ZlxuJInCCkwnlefgsW3aoWS",
+    "https://x.com/nooks_arte/status/2108152376729469005",
+    "https://www.instagram.com/nooksx/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部33頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部33頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部33頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部33頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式9頁／PDF・画像0件／外部33頁・検索12回）"
+ }
+}

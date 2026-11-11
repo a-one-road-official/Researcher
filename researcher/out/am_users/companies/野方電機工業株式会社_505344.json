@@ -1,0 +1,745 @@
+{
+ "name": "野方電機工業株式会社",
+ "aliases": [],
+ "context": "ipros_all:少量",
+ "researched_at": "2026-11-11T13:23:46.193144+00:00",
+ "official_url": "http://www.nogatadenki.jp",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表取締役",
+    "value": "加藤　裕輔",
+    "url": "https://www.nogatadenki.jp/company.html?id=company",
+    "pass": 1
+   },
+   {
+    "label": "代表取締役",
+    "value": "加藤　裕輔",
+    "url": "https://www.nogatadenki.jp/company.html",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "東京都中野区野方6丁目30番地27号（ 交通アクセス >> ）",
+    "url": "https://www.nogatadenki.jp/company.html?id=company",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "東京都中野区野方6丁目30番地27号（ 交通アクセス >> ）",
+    "url": "https://www.nogatadenki.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "〒165-0027 東京都中野区野方6-30-27",
+    "url": "https://waterjet-method.net/contents/085",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "〒463-0808 愛知県名古屋市守山区花咲台2-401",
+    "url": "https://waterjet-method.net/contents/085",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "〒459-8001 愛知県名古屋市緑区大高町字丸の内65番地の１",
+    "url": "https://waterjet-method.net/contents/085",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "〒146-0081 東京都大田区仲池上2丁目4番12号",
+    "url": "https://waterjet-method.net/contents/085",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "9人",
+    "url": "https://www.nogatadenki.jp/company.html?id=company",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "9人",
+    "url": "https://www.nogatadenki.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "社員数",
+    "value": "10人 担当者 加藤　裕輔",
+    "url": "https://ja.nc-net.or.jp/company/73786/product/detail/8523/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "切削加工、放電加工、ウォータージェット加工、板金加工、3D CADによるデータ作成・他",
+    "url": "https://waterjet-method.net/contents/085",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "ウォータージェット機器・各種洗浄装置・生産設備とFAシステムの設計製作販売自動車事業.環境保全、省資源、省エネに対応した価値の高いメンテナンス",
+    "url": "https://waterjet-method.net/contents/085",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "ウォータージェット工事、コンクリートの補強・補修工事 道路維持・清掃業務、貨物自動車の運送",
+    "url": "https://waterjet-method.net/contents/085",
+    "pass": 3
+   },
+   {
+    "label": "事業内容",
+    "value": "建物改修工事/建物調査診断・設計 /躯体補修工事/建築物解体/上記に付帯する一切の業務",
+    "url": "https://waterjet-method.net/contents/085",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取扱材料": [
+   {
+    "quote": "機械加工 野方電機工業 (金属加工・樹脂加工)",
+    "url": "https://www.nogatadenki.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "加工品目 | 機械加工 野方電機工業 (金属加工・樹脂加工)",
+    "url": "https://www.nogatadenki.jp/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "ニッケル、チタン、バナジウム、モリブデン、銀、タングステン、白金、金、鉛、ビスマス",
+    "url": "https://www.nogatadenki.jp/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "超硬、64チタン合金、銅タングステン、ヘビーアロイ、硬鉛",
+    "url": "https://www.nogatadenki.jp/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "マシナブルセラミックス、アルミナ、ジルコニア、窒化アルミ、窒化珪素、炭化珪素",
+    "url": "https://www.nogatadenki.jp/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "野方電機工業について | 機械加工 野方電機工業 (金属加工・樹脂加工)",
+    "url": "https://www.nogatadenki.jp/company.html?id=company",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は金属、超硬、樹脂、セラミックス、カーボンなど幅広い素材の部品加工工場です",
+    "url": "https://www.nogatadenki.jp/company.html?id=company",
+    "pass": 1
+   },
+   {
+    "quote": "取り扱い素材はステンレス、チタン、モリブデン、ハステロイ、超硬などの難削材からアルミ、鉄、真鍮、銅などの金属、",
+    "url": "https://www.nogatadenki.jp/company.html?id=company",
+    "pass": 1
+   },
+   {
+    "quote": "野方電機工業について | 機械加工 野方電機工業 (金属加工・樹脂加工)",
+    "url": "https://www.nogatadenki.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は金属、超硬、樹脂、セラミックス、カーボンなど幅広い素材の部品加工工場です",
+    "url": "https://www.nogatadenki.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "取り扱い素材はステンレス、チタン、モリブデン、ハステロイ、超硬などの難削材からアルミ、鉄、真鍮、銅などの金属、",
+    "url": "https://www.nogatadenki.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "アクセスマップ | 機械加工 野方電機工業 (金属加工・樹脂加工)",
+    "url": "https://www.nogatadenki.jp/access.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は金属、樹脂、超硬など幅広い素材の部品加工工場です",
+    "url": "https://mono.ipros.com/company/detail/69163/",
+    "pass": 3
+   },
+   {
+    "quote": "各種金属から樹脂類まで、１個から部品加工可能",
+    "url": "https://mono.ipros.com/company/detail/69163/",
+    "pass": 3
+   },
+   {
+    "quote": "金属や樹脂、セラミックスなど多様な素材に対応する高い技術力を誇っています",
+    "url": "https://waterjet-method.net/contents/085",
+    "pass": 3
+   },
+   {
+    "quote": "金属や樹脂、超硬材料など幅広い素材に対応しており、試作品や治工具を1個から製作可能です",
+    "url": "https://waterjet-method.net/contents/085",
+    "pass": 3
+   },
+   {
+    "quote": "この加工法では高圧水流を利用するため、熱に弱いプラスチックやゴム、複合材料などの軟質材を歪みなく加工することが可能です",
+    "url": "https://waterjet-method.net/contents/085",
+    "pass": 3
+   },
+   {
+    "quote": "弊社は金属、超硬、樹脂、セラミックス、カーボンなど幅広い素材の部品加工工場です",
+    "url": "https://ja.nc-net.or.jp/company/73786/product/detail/8523/",
+    "pass": 3
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "加工品目 | 機械加工 野方電機工業 (金属加工・樹脂加工)",
+    "url": "https://www.nogatadenki.jp/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス(18)",
+    "url": "https://mono.ipros.com/company/detail/69163/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (18)",
+    "url": "https://mono.ipros.com/company/detail/69163/",
+    "pass": 3
+   },
+   {
+    "quote": "特に、複雑な形状や細部の寸法精度が要求される製品に強みがあり、数個からのオーダーにも対応可能しています",
+    "url": "https://waterjet-method.net/contents/085",
+    "pass": 3
+   },
+   {
+    "quote": "鉛特有の変形や変質を防ぎつつ、複雑な形状の製品を作ることが可能です",
+    "url": "https://waterjet-method.net/contents/085",
+    "pass": 3
+   },
+   {
+    "quote": "など、研究機関や医療分野でのニーズに応える製品を製作しています",
+    "url": "https://waterjet-method.net/contents/085",
+    "pass": 3
+   },
+   {
+    "quote": "野方電機工業では、この技術を活かしてゴム製品の高精度な切断を行っています",
+    "url": "https://waterjet-method.net/contents/085",
+    "pass": 3
+   },
+   {
+    "quote": "どの会社も、ウォータージェット技術を用いた製品やサービスを提供している会社のため、一緒に比較してみてください",
+    "url": "https://waterjet-method.net/contents/085",
+    "pass": 3
+   },
+   {
+    "quote": "日進機工の概要やおすすめの取り扱い製品を紹介！",
+    "url": "https://waterjet-method.net/contents/085",
+    "pass": 3
+   },
+   {
+    "quote": "特にウォータージェット加工の分野では、熱影響のない切断を実現し、複雑な形状や高精度を求める製品に最適なソリューションを提供しています",
+    "url": "https://waterjet-method.net/contents/085",
+    "pass": 3
+   },
+   {
+    "quote": "技術・製品情報(1)",
+    "url": "https://ja.nc-net.or.jp/company/73786/product/detail/8523/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "精密機械加工、金属加工、各種部品製作、試作製作を法人様、個人様を問わず短納期で承ります",
+    "url": "https://www.nogatadenki.jp/company.html?id=company",
+    "pass": 1
+   },
+   {
+    "quote": "精密機械加工、金属加工、各種部品製作、試作製作を法人様、個人様を問わず短納期で承ります",
+    "url": "https://www.nogatadenki.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "試作品、治工具などを部品１個から短納期でお受け致します",
+    "url": "https://mono.ipros.com/company/detail/69163/",
+    "pass": 3
+   },
+   {
+    "quote": "研究用、実験用部品及び治具、その他半導体製造装置部品、自動化、省電力化機械部品、電源機器部品などの少量多種部品を短納期で対応する",
+    "url": "https://mono.ipros.com/company/detail/69163/",
+    "pass": 3
+   },
+   {
+    "quote": "マシニング、旋盤、ワイヤーカット等の少量の精密機械加工で個人様も対応可能です",
+    "url": "https://mono.ipros.com/company/detail/69163/",
+    "pass": 3
+   },
+   {
+    "quote": "金属や樹脂、超硬材料など幅広い素材に対応しており、試作品や治工具を1個から製作可能です",
+    "url": "https://waterjet-method.net/contents/085",
+    "pass": 3
+   },
+   {
+    "quote": "試作品の製作では、精度が要求される分野にも適応し、厳しい品質基準をクリアする部品を提供しています",
+    "url": "https://waterjet-method.net/contents/085",
+    "pass": 3
+   },
+   {
+    "quote": "なケースも多く、試作品や小ロットの生産にも適しています",
+    "url": "https://waterjet-method.net/contents/085",
+    "pass": 3
+   },
+   {
+    "quote": "量産から少量生産まで柔軟に対応できる点も強みであり、顧客の多様なニーズを満たす信頼性の高いサービスを提供しています",
+    "url": "https://waterjet-method.net/contents/085",
+    "pass": 3
+   },
+   {
+    "quote": "ロット：1個（単品）",
+    "url": "https://ja.nc-net.or.jp/company/73786/product/detail/8523/",
+    "pass": 3
+   },
+   {
+    "quote": "精密機械加工、金属加工、各種部品製作、試作製作を法人様、個人様を問わず短納期で承ります",
+    "url": "https://ja.nc-net.or.jp/company/73786/product/detail/8523/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "3D CADによるデータ・図面作成、治具設計、各種機械設計にも対応しております",
+    "url": "https://www.nogatadenki.jp/company.html?id=company",
+    "pass": 1
+   },
+   {
+    "quote": "国立研究開発法人宇宙航空研究開発機構(JAXA)",
+    "url": "https://www.nogatadenki.jp/company.html?id=company",
+    "pass": 1
+   },
+   {
+    "quote": "国立研究開発法人 海上・港湾・航空技術研究所",
+    "url": "https://www.nogatadenki.jp/company.html?id=company",
+    "pass": 1
+   },
+   {
+    "quote": "3D CADによるデータ・図面作成、治具設計、各種機械設計にも対応しております",
+    "url": "https://www.nogatadenki.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "国立研究開発法人宇宙航空研究開発機構(JAXA)",
+    "url": "https://www.nogatadenki.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "国立研究開発法人 海上・港湾・航空技術研究所",
+    "url": "https://www.nogatadenki.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究用、実験用部品及び治具、その他半導体製造装置部品、自動化、省電力化機械部品、電源機器部品などの少量多種部品を短納期で対応する",
+    "url": "https://mono.ipros.com/company/detail/69163/",
+    "pass": 3
+   },
+   {
+    "quote": "【制作事例2】自動車用 バルブアダプター",
+    "url": "https://mono.ipros.com/company/detail/69163/",
+    "pass": 3
+   },
+   {
+    "quote": "独立行政法人宇宙航空研究開発機構(JAXA)",
+    "url": "https://mono.ipros.com/company/detail/69163/",
+    "pass": 3
+   },
+   {
+    "quote": "など、研究機関や医療分野でのニーズに応える製品を製作しています",
+    "url": "https://waterjet-method.net/contents/085",
+    "pass": 3
+   },
+   {
+    "quote": "また、複雑な形状や微細なパターンの切断も可能で、自動車部品、機械用シール材、工業用パッキンなど多岐にわたる用途に対応しています",
+    "url": "https://waterjet-method.net/contents/085",
+    "pass": 3
+   },
+   {
+    "quote": "ウォータージェット機器・各種洗浄装置・生産設備とFAシステムの設計製作販売自動車事業.環境保全、省資源、省エネに対応した価値の高いメンテナンス",
+    "url": "https://waterjet-method.net/contents/085",
+    "pass": 3
+   },
+   {
+    "quote": "道路維持・清掃業務、貨物自動車の運送",
+    "url": "https://waterjet-method.net/contents/085",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "3Dプリンター",
+    "url": "https://www.nogatadenki.jp/company.html?id=company",
+    "pass": 1
+   },
+   {
+    "quote": "国立研究開発法人海洋研究開発機構(JAMSTEC)",
+    "url": "https://www.nogatadenki.jp/company.html?id=company",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター",
+    "url": "https://www.nogatadenki.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "国立研究開発法人海洋研究開発機構(JAMSTEC)",
+    "url": "https://www.nogatadenki.jp/company.html",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "野方電機工業株式会社 TEL：03 - 3330 - 1191 FAX：03 - 3330 - 1193 E -mail：info@nogatadenki.jp",
+    "url": "https://www.nogatadenki.jp/images/pdf/calendar.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "野方電機工業 株式会社の会社概要・ 製品 情報 | Metoree — 野方電機工業 株式会社の会社概要・ 製品 情報 | Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/45930/",
+    "pass": 3
+   },
+   {
+    "quote": "野方電機工業 | 企業情報 | イプロスものづくり — 野方電機工業 | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/69163/",
+    "pass": 3
+   },
+   {
+    "quote": "機械加工 野方電機工業 (金属加工・樹脂加工) — 機械加工 野方電機工業 (金属加工・樹脂加工) 野方電機工業株式会社 https://www.nogatadenki.jp",
+    "url": "https://www.nogatadenki.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "野方電機工業 | 企業 情報 | イプロスものづくり — 野方電機工業 | 企業 情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/69163/",
+    "pass": 3
+   },
+   {
+    "quote": "野方電機工業 株式会社の 会社概要 や強みと取り扱う施工方法も ... — 野方電機工業 株式会社の 会社概要 や強みと取り扱う施工方法も ... waterjet-method.net https://waterjet-method.net > contents",
+    "url": "https://waterjet-method.net/contents/085",
+    "pass": 3
+   },
+   {
+    "quote": "野方電機工業 株式会社の 会社概要 ・製品情報 | Metoree — 野方電機工業 株式会社の 会社概要 ・製品情報 | Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/45930/",
+    "pass": 3
+   },
+   {
+    "quote": "機械加工 野方電機工業 (金属加工・樹脂加工) — 機械加工 野方電機工業 (金属加工・樹脂加工) 野方電機工業株式会社 https://www.nogatadenki.jp > company",
+    "url": "https://www.nogatadenki.jp/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "野方電機工業 株式 会社 - 比較ビズ — 野方電機工業 株式 会社 - 比較ビズ 比較ビズ https://www.biz.ne.jp > corporation",
+    "url": "https://www.biz.ne.jp/corporation/50802/",
+    "pass": 3
+   },
+   {
+    "quote": "見積り依頼 | 機械加工 野方電機工業 (金属加工・樹脂加工) — 見積り依頼 | 機械加工 野方電機工業 (金属加工・樹脂加工) 野方電機工業株式会社 https://www.nogatadenki.jp > estimate",
+    "url": "https://www.nogatadenki.jp/estimate.html",
+    "pass": 3
+   },
+   {
+    "quote": "「1個からの部品製作」 - 野方電機工業 株式会社 — 「1個からの部品製作」 - 野方電機工業 株式会社 エミダス https://ja.nc-net.or.jp > company > product > detail",
+    "url": "https://ja.nc-net.or.jp/company/73786/product/detail/8523/",
+    "pass": 3
+   },
+   {
+    "quote": "生産状況の確認方法は？ | 製作実績 - 野方電機工業 — 生産状況の確認方法は？ | 製作実績 - 野方電機工業 野方電機工業株式会社 https://www.nogatadenki.jp > ...",
+    "url": "https://www.nogatadenki.jp/qa/%E7%94%9F%E7%94%A3%E7%8A%B6%E6%B3%81%E3%81%AE%E7%A2%BA%E8%AA%8D%E6%96%B9%E6%B3%95%E3%81%AF%EF%BC%9F",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "野方電機工業 | Nakano-ku Tokyo - Facebook 野方電機工業 | Nakano-ku Tokyo - Facebook Facebook https://www.facebook.com > ... > 商業・工業 > 製造業",
+    "url": "https://www.facebook.com/nogatadenki/?locale=ja_JP",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "\"#野方電機工業\" - Results on X | Live Posts & Updates Results for \"#野方電機工業\" on X (Twitter). Find the latest posts, discussions, and updates about #野方電機工業. 3 results found.",
+    "url": "https://x.com/hashtag/野方電機工業",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.nogatadenki.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nogatadenki.jp/products.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nogatadenki.jp/company.html?id=company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nogatadenki.jp/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nogatadenki.jp/access.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.nogatadenki.jp/images/pdf/calendar.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nogatadenki.jp/images/access/map.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://metoree.com/companies/45930/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/69163/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asiaplanning.com/machining/column/column-4733/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/69163/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://waterjet-method.net/contents/085",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://metoree.com/companies/45930/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/69163/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.nc-net.or.jp/company/73786/product/detail/8523/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/nogatadenki/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/野方電機工業",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "野方電機工業 取扱製品 試作 小ロット",
+   "results": [
+    "https://metoree.com/companies/45930/",
+    "https://mono.ipros.com/company/detail/69163/",
+    "https://asiaplanning.com/machining/column/column-4733/",
+    "https://www.nogatadenki.jp/",
+    "https://www.zen.co.jp/",
+    "https://injection-lab.com/technology/64-2.html",
+    "https://www.youtube.com/watch?v=hUn4tT9VgWU",
+    "https://www.yumoto.jp/technology/onepoint/high-mix-low-volume/",
+    "http://www.ccnet21.ne.jp/company/2458",
+    "https://nogatadenki.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "野方電機工業 会社概要 事業内容",
+   "results": [
+    "https://mono.ipros.com/company/detail/69163/",
+    "https://waterjet-method.net/contents/085",
+    "https://metoree.com/companies/45930/",
+    "https://www.nogatadenki.jp/company.html",
+    "https://www.biz.ne.jp/corporation/50802/",
+    "https://ja.nc-net.or.jp/company/73786/product/detail/8523/",
+    "https://www.buffett-code.com/company/e4llob2mvj/",
+    "https://grutto-plus.com/area/fukutoshin/218/",
+    "https://seizogyo-channel.com/seizogyo/nogatadenki-jp/",
+    "https://www.nogatadenki.jp/company.html?id=company"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "野方電機工業 お問い合わせ メール",
+   "results": [
+    "https://www.nogatadenki.jp/estimate.html",
+    "https://mono.ipros.com/company/detail/69163/",
+    "https://ja.nc-net.or.jp/company/73786/product/detail/8523/",
+    "https://www.instagram.com/ndkinc/",
+    "https://www.nogatadenki.jp/qa/%E7%94%9F%E7%94%A3%E7%8A%B6%E6%B3%81%E3%81%AE%E7%A2%BA%E8%AA%8D%E6%96%B9%E6%B3%95%E3%81%AF%EF%BC%9F",
+    "https://waterjet-method.net/contents/085",
+    "http://www.ccnet21.ne.jp/company/2458",
+    "https://www.facebook.com/nogatadenki/?locale=ja_JP",
+    "https://x.com/NogataDenki",
+    "https://www.nogeden.co.jp/contact/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 野方電機工業",
+   "results": [
+    "https://note.com/t_kamei/n/n589e229b5388",
+    "https://note.com/spacebizmedia/n/ndd2059f38a06",
+    "https://note.com/clipcorporation/n/n98b93209203e",
+    "https://note.com/clipcorporation/n/na436b705ea10",
+    "https://note.com/clipcorporation/n/n265f7fe4f42f",
+    "https://note.com/cogito1961/n/n871615003917",
+    "https://note.com/clipcorporation/n/n7e6c861e4299",
+    "https://note.com/ideal_lynx1277/n/n66887e085374",
+    "https://note.com/clipcorporation/n/ncac634f36080",
+    "https://note.com/yayayasu/n/nd7ddeae5b57b"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com 野方電機工業",
+   "results": [
+    "https://x.com/NogataDenki",
+    "https://x.com/NogataDenki/status/2056286764214693964",
+    "https://x.com/NogataDenki/status/1355040496247181312",
+    "https://x.com/NogataDenki/status/1526108963074633728",
+    "https://x.com/hashtag/%E3%82%A2%E3%83%AB%E3%83%9F%E5%8A%A0%E5%B7%A5",
+    "https://x.com/damingnimad/status/1307941161399586821",
+    "https://x.com/raijinbotics",
+    "https://x.com/shasharii",
+    "https://x.com/daigaku_fyd",
+    "https://x.com/hashtag/野方電機工業"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:linkedin.com 野方電機工業",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com 野方電機工業",
+   "results": [
+    "https://www.facebook.com/nogatadenki/?locale=ja_JP",
+    "https://www.facebook.com/nogatadenki/posts/%E7%9C%9F%E9%8D%AE%E9%83%A8%E5%93%81%E5%A4%A7%E5%AD%A6%E3%81%AE%E7%A0%94%E7%A9%B6%E5%AE%A4%E3%81%8B%E3%82%89%E3%81%94%E6%B3%A8%E6%96%87%E9%A0%82%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E5%AE%9F%E9%A8%93%E9%83%A8%E5%93%81%E3%81%A7%E3%81%99-%E7%9C%9F%E9%8D%AE-%E7%9C%9F%E9%8D%AE%E8%A3%BD-%E7%9C%9F%E9%8D%AE%E9%83%A8%E5%93%81-%E5%AE%9F%E9%A8%93%E7%94%A8%E9%83%A8%E5%93%81-nc%E6%97%8B%E7%9B%A4-%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A-%E9%87%91%E5%B1%9E%E5%8A%A0%E5%B7%A5-%E7%94%BA%E5%B7%A5%E5%A0%B4-%E9%87%8E%E6%96%B9%E9%9B%BB%E6%A9%9F%E5%B7%A5%E6%A5%AD/820020856781219/",
+    "https://www.facebook.com/nogatadenki/posts/nhk%E3%83%89%E3%83%A9%E3%83%9E%E5%AE%99%E3%82%8F%E3%81%9F%E3%82%8B%E6%95%99%E5%AE%A4%E3%81%AE%E5%B7%A5%E5%A0%B4%E3%82%B7%E3%83%BC%E3%83%B3%E3%81%AB%E5%BC%8A%E7%A4%BE%E3%81%8C%E3%83%AD%E3%82%B1%E5%9C%B0%E3%81%A8%E3%81%97%E3%81%A6%E4%BD%BF%E7%94%A8%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E6%AF%8E%E5%9B%9E%E8%83%B8%E3%81%8C%E7%86%B1%E3%81%8F%E3%81%AA%E3%82%8B%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%84%E7%89%A9%E8%AA%9E%E3%81%9C%E3%81%B2%E3%81%94%E8%A6%A7%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E6%AC%A1%E5%9B%9E%E6%94%BE%E9%80%81%E7%AC%AC7%E8%A9%B111%E6%9C%8819%E6%97%A5%E7%81%AB%E5%A4%9C1000104/888606729922631/",
+    "https://www.facebook.com/media/set/?set=a.708817105811489.1073741849.221492007877337&type=3",
+    "https://www.facebook.com/nogatadenki/posts/%E3%82%A2%E3%83%AB%E3%83%9F%E5%8A%A0%E5%B7%A5-%E3%82%BF%E3%83%95%E3%83%A9%E3%83%A0%E5%87%A6%E7%90%86-%E3%82%BF%E3%83%95%E3%83%A9%E3%83%A0%E5%87%A6%E7%90%86%E3%81%A8%E3%81%AF%E3%82%A2%E3%83%AB%E3%83%9F%E3%82%84%E3%82%A2%E3%83%AB%E3%83%9F%E5%90%88%E9%87%91%E3%81%AE%E8%A1%A8%E9%9D%A2%E3%81%AB%E7%A1%AC%E8%B3%AA%E3%82%A2%E3%83%AB%E3%83%9E%E3%82%A4%E3%83%88%E5%87%A6%E7%90%86%E3%81%A8%E3%83%95%E3%83%83%E7%B4%A0%E6%A8%B9%E8%84%82%E3%82%92%E8%A4%87%E5%90%88%E3%81%97%E3%81%9F%E7%9A%AE%E8%86%9C%E3%81%A7%E3%81%99%E8%80%90%E6%91%A9%E8%80%97%E6%80%A7%E3%81%AB%E5%84%AA%E3%82%8C%E6%BD%A4%E6%BB%91%E6%80%A7%E9%9D%9E%E7%B2%98%E7%9D%80%E6%80%A7%E8%80%90%E9%A3%9F%E6%80%A7%E3%81%8C%E9%AB%98%E3%81%8F%E6%91%BA%E5%8B%95/1325570376226262/",
+    "https://www.facebook.com/nogatadenki/posts/%E3%83%8D%E3%82%A4%E3%83%93%E3%83%BC%E3%83%96%E3%83%AB%E3%83%BC%E3%82%A2%E3%83%AB%E3%83%9E%E3%82%A4%E3%83%88%E3%83%8D%E3%82%A4%E3%83%93%E3%83%BC%E3%83%96%E3%83%AB%E3%83%BC%E3%82%A2%E3%83%AB%E3%83%9E%E3%82%A4%E3%83%88%E4%BB%95%E4%B8%8A%E3%81%92%E3%81%AE%E6%A9%9F%E6%A2%B0%E8%A3%85%E7%BD%AE%E9%83%A8%E5%93%81%E8%A3%BD%E4%BD%9C%E3%82%92%E6%89%BF%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E4%BB%96%E3%81%AB%E3%82%82%E3%81%94%E5%B8%8C%E6%9C%9B%E3%81%AE%E8%89%B2%E3%81%8C%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E3%82%89%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%A2%E3%83%AB%E3%83%9E%E3%82%A4%E3%83%88%E3%81%AE%E8%89%B2%E8%A6%8B%E6%9C%AC%E3%81%8B%E3%82%89%E3%82%82%E3%81%8A%E9%81%B8%E3%81%B3%E3%81%84%E3%81%9F%E3%81%A0%E3%81%91/1048952113888091/",
+    "https://www.facebook.com/nogatadenki/posts/%E7%9C%9F%E9%8D%AE%E9%83%A8%E5%93%81%E4%B9%85%E4%BF%9D%E7%94%B0%E3%83%81%E3%82%A7%E3%83%B3%E3%83%90%E3%83%AD%E5%B7%A5%E6%88%BF%E6%A7%98%E3%82%88%E3%82%8A%E3%81%94%E4%BE%9D%E9%A0%BC%E3%81%84%E3%81%9F%E3%81%A0%E3%81%84%E3%81%9F%E3%83%81%E3%82%A7%E3%83%B3%E3%83%90%E3%83%AD%E3%81%AE%E7%9C%9F%E9%8D%AE%E3%83%8D%E3%82%B8%E9%83%A8%E5%93%81%E3%81%A7%E3%81%99%E7%8F%BE%E7%89%A9%E3%82%92%E3%81%8A%E9%A0%90%E3%81%8B%E3%82%8A%E3%81%97%E6%8E%A1%E5%AF%B8%E5%9B%B3%E9%9D%A2%E3%81%AE%E4%BD%9C%E6%88%90%E3%81%8B%E3%82%89%E6%89%BF%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F-cembalo-harpsichor/1269516685164965/",
+    "https://www.facebook.com/nogatadenki/posts/%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88-%E5%9B%9B%E6%96%B9-%E8%AC%99%E4%B8%80%E3%81%95%E3%82%93%E3%81%AE%E4%BD%9C%E5%93%81%E3%81%A7%E3%81%99%E5%BC%8A%E7%A4%BE%E3%81%A7%E9%83%A8%E5%93%81%E8%A3%BD%E4%BD%9C%E3%81%AE%E3%81%8A%E6%89%8B%E4%BC%9D%E3%81%84%E3%82%92%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E4%BD%9C%E5%93%81%E3%81%AE%E5%86%99%E7%9C%9F%E3%82%92%E9%80%81%E3%81%A3%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E7%8F%BE%E4%BB%A3%E3%82%A2%E3%83%BC%E3%83%88-%E5%BD%AB%E5%88%BB%E5%AE%B6-%E8%8A%B8%E8%A1%93%E5%AE%B6-%E9%87%91%E5%B1%9E%E3%82%A2%E3%83%BC%E3%83%88-%E3%83%A1%E3%82%BF%E3%83%AB%E3%82%A2%E3%83%BC%E3%83%88-%E8%8A%B8/821692106614094/",
+    "https://www.facebook.com/nogatadenki/photos/%E3%83%88%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E8%A3%BD%E4%BD%9Cline-message-sticker-award%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%AA%E3%83%96%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E3%81%AE%E3%83%88%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%82%92%E8%A3%BD%E4%BD%9C%E8%87%B4%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%82%B5%E3%83%B3%E3%83%89%E3%83%96%E3%83%A9%E3%82%B9%E3%83%88%E5%BE%8C%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A2%E3%83%AB%E3%83%9E%E3%82%A4%E3%83%88%E3%82%B7%E3%83%AB/3076703639044962/",
+    "https://www.facebook.com/nogatadenki/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "野方電機工業 note 社長",
+   "results": [
+    "https://www.nogatadenki.jp/",
+    "https://mono.ipros.com/company/detail/69163/",
+    "https://www.instagram.com/ndkinc/",
+    "https://metoree.com/companies/45930/",
+    "https://grutto-plus.com/area/fukutoshin/218/",
+    "https://ja.nc-net.or.jp/company/73786/product/detail/8523/",
+    "https://www.facebook.com/nogatadenki/?locale=ja_JP",
+    "https://note.com/mobio_osaka/m/m460bce6570b4",
+    "https://waterjet-method.net/contents/085",
+    "https://nogatadenki.jp/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "野方電機工業 X 投稿",
+   "results": [
+    "https://x.com/hashtag/野方電機工業",
+    "https://nogatadenki.jp/",
+    "https://www.instagram.com/ndkinc/",
+    "https://twstalker.com/hashtag/#野方電機工業",
+    "https://twfan.net/user/287620311/new/1",
+    "https://x.com/NogataDenki",
+    "https://db.bitstar.tokyo/instagram/177429"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部10頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部10頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式5頁／PDF・画像2件／外部10頁・検索9回）"
+ }
+}

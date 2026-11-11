@@ -1,0 +1,869 @@
+{
+ "name": "名西株式会社 名古屋本社",
+ "aliases": [],
+ "context": "ipros_all:小ロット",
+ "researched_at": "2026-11-11T13:25:21.261742+00:00",
+ "official_url": "https://www.meisei-kk.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "住所",
+    "value": "愛知県あま市甚目寺桑丸53番地1",
+    "url": "https://www.meisei-kk.com/info/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役",
+    "value": "朝比 美和子",
+    "url": "https://www.meisei-kk.com/info/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "20名（令和6年度）",
+    "url": "https://www.meisei-kk.com/info/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "プラスチック素材の企画提案、製作、加工及びゴム、金属、異素材製品とのアッセンブリー 【素材】 塩化ビニール、アクリライト、ABS、ポリカボネート、その他エンジニアプラスチック 【製品】 板加工、工業用部品、電機部品、機械部品、自動ラインパレット、半導体及び液晶板製造装置部品",
+    "url": "https://www.meisei-kk.com/info/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "だからこそ、お客様の想いを誰よりも理解し、くみ取り、想像以上の製品へと具現化する事ができると自負しております",
+    "url": "https://www.meisei-kk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "美しい、一切の乱れのない環境を維持・向上させる事で、技術者の心が乱れず、感謝の心を育み、それが「高い品質の製品を圧倒的短納期」にて大切なお客様の下へお届けできる礎になると考えています",
+    "url": "https://www.meisei-kk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "長年培った技術力と高い基本力を通じ 、既存製品のVA提案など 、お客様の製品を、より軽く、より強く、より安く、より価値ある製品への改善のお手伝いを承っております",
+    "url": "https://www.meisei-kk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "今は、工場内での製品づくりだけでなく、お客様への提案営業、次世代への技術継承と、未来へ繋ぐ仕事に取り組んでくれています",
+    "url": "https://www.meisei-kk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチック・ゴム・金属・異素材製品の企画提案・製作・加工｜名西株式会社",
+    "url": "https://www.meisei-kk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、成形加工では難しい形状の複雑な製品の製作や、1個からの少量生産にもお応えすることができます",
+    "url": "https://www.meisei-kk.com/form/",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチック・ゴム・金属・異素材製品の企画提案・製作・加工｜名西株式会社",
+    "url": "https://www.meisei-kk.com/form/",
+    "pass": 1
+   },
+   {
+    "quote": "とは、既存の製品の",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "壊れた既存製品の修理によるトータルコストの削減や環境への取り組みの支援",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "名西株式会社では、60年に渡り培った高度な技術と知見を以て、長期的・複眼的に分析し、現在使用している製品が、お客さまにとってさらに良いものになりますようにご提案をさせていただきます",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "従来の製品はビス止めで、錆及び落下による設備事故が頻発していた",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "高度な切削技術によるはめ込み構造への変更により、ビス止め構造の事故リスクをなくし、錆による製品劣化の防止を実現",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "従来は、製品毎に違う「受け」を使用していたが、全製品共通の「受け」を開発する事で、製造過程における大幅な工程削減とコスト削減を実現",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "製品が破損した事により、新規製作の依頼を受けたが、修理を提案",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "従来は、破損製品は廃棄し、やむなく新規製作を依頼していましたが、名西では高度な修理技術を用い、復元できるものは修理対応をします",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に傷のつかない「樹脂製スクレーパー」の開発",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様より、製造工程の中の「シール剥離工程」において、金属製スクレーパーを使用してシール剥離を行っていたのですが、その際に強く擦ると製品に傷が入ってしまうとの相談を受け、樹脂製のスクレーパーに替えてみてはどうかと提案しました",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "その後、お客様の製品の材質とシール剥離の強度を踏まえ、特注の樹脂製スクレーパーを開発",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に傷が殆どつかず、シール剥離も金属製スクレーパーの時より格段に楽になったとのお喜びの声を頂き、その後幾度も追加注文を頂いています",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "どのような製品であっても、必ず製作をするのが試作品（プロトタイプ）です",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "名西では、企画段階から関わらせて頂き、プロトタイプ製作において、構造上問題の無い軽量化やコスト削減提案なども同時に実施し、付加価値の高い製品づくりに貢献してまいります",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の工場内では、製品の油抜きと着脱工程の問題解決のためのワーク受けの改善取り組みはあったものの、ワーク受けに大幅なソリが生じてしまい、寸法精度が下がるために断念していましたが、名西の高精度なソリ制御技術により、寸法精度を維持したままで、お客様の理想を実現する事が出来ました",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチック・ゴム・金属・異素材製品の企画提案・製作・加工｜名西株式会社",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "材料の性質や天候・湿気まで見極めた加工により、プラスチック加工製品の課題である「反り」を限りなくゼロにする独自技術を有しております",
+    "url": "https://www.meisei-kk.com/kakou/",
+    "pass": 1
+   },
+   {
+    "quote": "よって、例えば電子部品等、精密な製品にも対応可能です",
+    "url": "https://www.meisei-kk.com/kakou/",
+    "pass": 1
+   },
+   {
+    "quote": "よって、油分を嫌う製品でも最高レベルの高精度製品を製作出来ます",
+    "url": "https://www.meisei-kk.com/kakou/",
+    "pass": 1
+   },
+   {
+    "quote": "旋盤加工品やプーリー等、素材や寸法精度など、高度な製品精度を求められる重要な部品について、当社では旋盤と熟練工の卓越した技術によって、短納期で高品質な製品に仕上げてお客様に提供いたします",
+    "url": "https://www.meisei-kk.com/kakou/",
+    "pass": 1
+   },
+   {
+    "quote": "どこにも負けない、美観や・強度にも徹底的にこだわった、接着・溶接の最高技術を以てお客様に価値ある製品を提供いたします",
+    "url": "https://www.meisei-kk.com/kakou/",
+    "pass": 1
+   },
+   {
+    "quote": "通常、工程ごとに違う企業に振り分けて完成させる製品が多い中、わが社では、お客様にお手を煩わせる事のないよう、一貫して全て責任を持って自社対応しております",
+    "url": "https://www.meisei-kk.com/kakou/",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチック・ゴム・金属・異素材製品の企画提案・製作・加工｜名西株式会社",
+    "url": "https://www.meisei-kk.com/kakou/",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチック・ゴム・金属・異素材加工の製品情報｜名西株式会社",
+    "url": "https://www.meisei-kk.com/item/",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチック・ゴム・金属・異素材加工の製品情報<",
+    "url": "https://www.meisei-kk.com/item/",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチック・ゴム・金属・異素材加工の製品情報",
+    "url": "https://www.meisei-kk.com/item/",
+    "pass": 1
+   },
+   {
+    "quote": "パネルソーと呼ばれる大きなカッターで製品に合わせてカッティングを行います",
+    "url": "https://www.meisei-kk.com/item/",
+    "pass": 1
+   },
+   {
+    "quote": "例えば、医療機器や自動車部品など、最高精度が求められる製品にも対応します",
+    "url": "https://www.meisei-kk.com/item/",
+    "pass": 1
+   },
+   {
+    "quote": "組み立てが必要な製品は、設計図に従って、熟練した職人により、ひとつひとつ手作業で組み立てを行います",
+    "url": "https://www.meisei-kk.com/item/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は守秘義務があり、製品事例のほとんどを掲載することができません",
+    "url": "https://www.meisei-kk.com/item/",
+    "pass": 1
+   },
+   {
+    "quote": "製品事例① 量産搬送トレイ・搬送用パレット",
+    "url": "https://www.meisei-kk.com/item/",
+    "pass": 1
+   },
+   {
+    "quote": "製品を保護しながら運ぶための搬送用パレットなどを提案・設計させていただいております",
+    "url": "https://www.meisei-kk.com/item/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の材質にあわせた素材提案、",
+    "url": "https://www.meisei-kk.com/item/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の形状や収納ケース側のサイズに合わせた1mm以下の単位での細かな調整など、",
+    "url": "https://www.meisei-kk.com/item/",
+    "pass": 1
+   },
+   {
+    "quote": "高精度の三次元加工や面粗度が圧倒的に高い「最高品質の製品を短納期で量産」する事が可能です",
+    "url": "https://www.meisei-kk.com/item/",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチック・ゴム・金属・異素材製品の企画提案・製作・加工｜名西株式会社",
+    "url": "https://www.meisei-kk.com/item/",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチック・ゴム・金属・異素材製品の企画提案・製作・加工｜名西株式会社",
+    "url": "https://www.meisei-kk.com/setsubi/",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチック・ゴム・金属・異素材製品の企画提案・製作・加工｜名西株式会社",
+    "url": "https://www.meisei-kk.com/sozai/",
+    "pass": 1
+   },
+   {
+    "quote": "その前提には、人間としての高い品格、それを支えるのは「礼儀礼節」と「おもてなしの心」であると考え、日々、社員全員一心に自らを高める努力と共に、その思いを一品一品の製品に込めております",
+    "url": "https://www.meisei-kk.com/info/",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチック素材の企画提案、製作、加工及びゴム、金属、異素材製品とのアッセンブリー",
+    "url": "https://www.meisei-kk.com/info/",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチック・ゴム・金属・異素材製品の企画提案・製作・加工｜名西株式会社",
+    "url": "https://www.meisei-kk.com/info/",
+    "pass": 1
+   },
+   {
+    "quote": "美しい、一切の乱れのない環境を維持・向上させる事で、心が乱れず、感謝の心が育まれ、それがお客様の想像以上の高い品質の製品づくりに繋がっていきます",
+    "url": "https://www.meisei-kk.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "工場内での製品の検査・検品及び軽作業、お客様への製品配送などの業務を担ってもらいます",
+    "url": "https://www.meisei-kk.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "たとえお客様に納得いただける製品が完成しても、それがゴールではありません",
+    "url": "https://www.meisei-kk.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチック・ゴム・金属・異素材製品の企画提案・製作・加工｜名西株式会社",
+    "url": "https://www.meisei-kk.com/recruit/",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "図面のいらないプラスチック特注加工の専門会社-名西株式会社",
+    "url": "https://www.meisei-kk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "1個からの小ロットでも、どこよりも誠実に、迅速に、そして最高の品質とアイデアを以て必ずお応えします",
+    "url": "https://www.meisei-kk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "サンプル製作はもちろん、1個からの小ロットのご依頼もお受けいたします",
+    "url": "https://www.meisei-kk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "この度、名西では新たに「5軸MC + 独自技術を最大限に生かす特注の固定治具」を導入しました",
+    "url": "https://www.meisei-kk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "図面のいらないプラスチック特注加工の専門会社-名西株式会社",
+    "url": "https://www.meisei-kk.com/form/",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、成形加工では難しい形状の複雑な製品の製作や、1個からの少量生産にもお応えすることができます",
+    "url": "https://www.meisei-kk.com/form/",
+    "pass": 1
+   },
+   {
+    "quote": "VA/VE提案事例集 – 図面のいらないプラスチック特注加工の専門会社-名西株式会社",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "図面のいらないプラスチック特注加工の専門会社-名西株式会社",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂切削加工で様々な素材の試作品を短納期で作成することが可能",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "その後、お客様の製品の材質とシール剥離の強度を踏まえ、特注の樹脂製スクレーパーを開発",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様より「ナット部の締め工程において、市販の金属製スパナ及び六角レンチスクレーパーを使用してナット部の締めを行っているが、その際に強く締めるとナット部に傷が入ってしまう」との相談を受け、樹脂製の特注スパナ及び六角レンチに替えてみてはどうかと提案しました",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "その後、特注の樹脂製スパナ・六角レンチを開発",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "成型品（量産品）の型取りも可能な高精度な試作品製作事例",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターでは実現不可能な「寸法精度が極めて高い」試作品",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "どのような製品であっても、必ず製作をするのが試作品（プロトタイプ）です",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "３Dプリンターでは製作不可能な、寸法公差精度の極めて高い試作品を製作しますので、そのまま量産品の型取りが可能です",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "単品切削加工対応にて、反り制御と寸法公差の改善",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "収縮差の原因である「残留応力」の降伏点を考慮し、自社独自の高精度切削 加工技術により、単品の切削加工において、反りの制御を実現",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "名西では、従来の切削加工における「材質内の収縮差」による反りが出てしまう原因を考慮し、収縮差の原因である「残留応力」のバランスを取る、独自の高精度切削技術を用い、結果として、単品切削加工において、反りを制御し、寸法公差100分台を実現する事ができました",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "図面のいらないプラスチック特注加工の専門会社-名西株式会社",
+    "url": "https://www.meisei-kk.com/kakou/",
+    "pass": 1
+   },
+   {
+    "quote": "図面のいらないプラスチック特注加工の専門会社-名西株式会社",
+    "url": "https://www.meisei-kk.com/item/",
+    "pass": 1
+   },
+   {
+    "quote": "図面のいらないプラスチック特注加工の専門会社-名西株式会社",
+    "url": "https://www.meisei-kk.com/setsubi/",
+    "pass": 1
+   },
+   {
+    "quote": "図面のいらないプラスチック特注加工の専門会社-名西株式会社",
+    "url": "https://www.meisei-kk.com/sozai/",
+    "pass": 1
+   },
+   {
+    "quote": "図面のいらないプラスチック特注加工の専門会社-名西株式会社",
+    "url": "https://www.meisei-kk.com/info/",
+    "pass": 1
+   },
+   {
+    "quote": "2026採用情報|図面のいらないプラスチック特注加工の専門会社-名西株式会社",
+    "url": "https://www.meisei-kk.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "図面のいらないプラスチック特注加工の専門会社-名西株式会社",
+    "url": "https://www.meisei-kk.com/recruit/",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "大手一部上場メーカー様・航空宇宙業界様・国の研究機関様などからの高度なご要望に応え続けてきた 60 年の自信",
+    "url": "https://www.meisei-kk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "名西には、航空宇宙業界や、国の研究機関からも依頼を頂く、超高度な反り制御技術、3D プリンターでは実現不可能な極めて高い寸法精度技術など、60年に渡り積み上げてきた一流の技術があります",
+    "url": "https://www.meisei-kk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "この度、名西では新たに「5軸MC + 独自技術を最大限に生かす特注の固定治具」を導入しました",
+    "url": "https://www.meisei-kk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "今般では、宇宙航空業界・医療機関・国の研究機関からのご依頼なども承っております",
+    "url": "https://www.meisei-kk.com/",
+    "pass": 1
+   },
+   {
+    "quote": "特殊な治具を用い、取付位置を正確に測り、取付を行う",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "外部からの解決提案としては、金型を作り、成形品として量産するしかないとの事で、我が社に相談に来られました",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "金型を作らなければならないかと悩まれていましたが、その場合は多大なコストが発生し、量産しなければ採算が合わない中、名西にご相談を頂きました",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "例えば、医療機器や自動車部品など、最高精度が求められる製品にも対応します",
+    "url": "https://www.meisei-kk.com/item/",
+    "pass": 1
+   },
+   {
+    "quote": "260℃の高温耐性、良好な自己潤滑性、化学腐食耐性、難燃剤、剥離抵抗、耐摩耗性、耐放射線性を備え、航空宇宙、自動車製造、エレクトロニクス、電気、医療、食品加工分野で広く使用されています",
+    "url": "https://www.meisei-kk.com/sozai/",
+    "pass": 1
+   },
+   {
+    "quote": "板加工、工業用部品、電機部品、機械部品、自動ラインパレット、半導体及び液晶板製造装置部品",
+    "url": "https://www.meisei-kk.com/info/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "見積もり/サンプル製作/お問い合わせ|名西株式会社",
+    "url": "https://www.meisei-kk.com/form/",
+    "pass": 1
+   },
+   {
+    "quote": "Mail:meisei1@vesta.ocn.ne.jp",
+    "url": "https://www.meisei-kk.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積りのご依頼・お問い合わせは、お気軽にどうぞ",
+    "url": "https://www.meisei-kk.com/wp-content/themes/keni6_wp_corp_130124/images/top/footer-contact.png",
+    "pass": 2
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "あらゆる樹脂の可能性をとことんまで知り尽くした名西株式会社ならではご提案をさせていただきます",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "また、現状で樹脂部品をご利用の企業様で、",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂切削加工で様々な素材の試作品を短納期で作成することが可能",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に傷のつかない「樹脂製スクレーパー」の開発",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様より、製造工程の中の「シール剥離工程」において、金属製スクレーパーを使用してシール剥離を行っていたのですが、その際に強く擦ると製品に傷が入ってしまうとの相談を受け、樹脂製のスクレーパーに替えてみてはどうかと提案しました",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "その後、お客様の製品の材質とシール剥離の強度を踏まえ、特注の樹脂製スクレーパーを開発",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "ナット部に傷のつかない「樹脂製スパナ・六角レンチ」の開発",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様より「ナット部の締め工程において、市販の金属製スパナ及び六角レンチスクレーパーを使用してナット部の締めを行っているが、その際に強く締めるとナット部に傷が入ってしまう」との相談を受け、樹脂製の特注スパナ及び六角レンチに替えてみてはどうかと提案しました",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "その後、特注の樹脂製スパナ・六角レンチを開発",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "強く締めてもナット部に傷がつかず、又、樹脂製のため軽く、作業効率も高まったとのお喜びの声を頂きました",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "ご相談を頂いた時点において、従来の切削加工の問題でもある「材質内にある不均一な収縮差」による反りが出てしまっていました",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "名西では、従来の切削加工における「材質内の収縮差」による反りが出てしまう原因を考慮し、収縮差の原因である「残留応力」のバランスを取る、独自の高精度切削技術を用い、結果として、単品切削加工において、反りを制御し、寸法公差100分台を実現する事ができました",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の材質にあわせた素材提案、",
+    "url": "https://www.meisei-kk.com/item/",
+    "pass": 1
+   },
+   {
+    "quote": "ナイロン、ポリアセタールなどの熱可塑性樹脂板に比較して、耐熱性、電気特性、強度、寸法安定性に優れます",
+    "url": "https://www.meisei-kk.com/sozai/",
+    "pass": 1
+   },
+   {
+    "quote": "電気絶縁用途では熱硬化性樹脂積層板と比較して吸水性、電気特性、加工性が著しく改善されています",
+    "url": "https://www.meisei-kk.com/sozai/",
+    "pass": 1
+   },
+   {
+    "quote": "独特な分子構造はさまざまな特性をもたらし、プラスチックの材質において大変優れています",
+    "url": "https://www.meisei-kk.com/sozai/",
+    "pass": 1
+   },
+   {
+    "quote": "一つの素材で、非粘着性、低摩擦性、耐薬品性、耐候性、電気特性、耐熱性といった複数の特性を兼ね備える点では、稀有な樹脂といえます",
+    "url": "https://www.meisei-kk.com/sozai/",
+    "pass": 1
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "3Dプリンターでは実現不可能な「寸法精度が極めて高い」試作品",
+    "url": "https://www.meisei-kk.com/vave/",
+    "pass": 1
+   },
+   {
+    "quote": "CAD/CAMを使用する事で、高精度・高品質な加工が可能となります",
+    "url": "https://www.meisei-kk.com/item/",
+    "pass": 1
+   },
+   {
+    "quote": "3D CAD/CAM Master cam Millx6",
+    "url": "https://www.meisei-kk.com/setsubi/",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.meisei-kk.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meisei-kk.com/form/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meisei-kk.com/vave/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meisei-kk.com/kakou/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meisei-kk.com/item/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meisei-kk.com/setsubi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meisei-kk.com/sozai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meisei-kk.com/info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meisei-kk.com/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meisei-kk.com/info/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.meisei-kk.com/wp-content/themes/keni6_wp_corp_130124/images/item/item-3.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.meisei-kk.com/wp-content/themes/keni6_wp_corp_130124/images/top/footer-link1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.meisei-kk.com/wp-content/themes/keni6_wp_corp_130124/images/top/footer-link3.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.meisei-kk.com/wp-content/themes/keni6_wp_corp_130124/images/top/footer-contact.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.zen.co.jp/area/nagoya/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-moroto.com/prototype/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meisei-industry.co.jp/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.aichi-meisei.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meiseieng.com/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meiseitechno.com/contact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meisei-system.com/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/",
+    "status": "http_403",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "名西 名古屋本社 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.zen.co.jp/area/nagoya/",
+    "https://3d-moroto.com/prototype/",
+    "https://www.meisei-kk.com/",
+    "https://mono.ipros.com/product/detail/2000536757/",
+    "https://www.meisei-kk.com/item/",
+    "https://mono.ipros.com/company/detail/2088804/category/",
+    "https://meisei-industry.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "名西 名古屋本社 会社概要 事業内容",
+   "results": [
+    "https://www.meisei-kk.com/info/",
+    "https://www.meisei-industry.co.jp/company.html",
+    "https://www.aichi-meisei.com/about",
+    "https://www.meiseisoil.com/business/",
+    "https://meiseiyakuhin.com/company.html",
+    "https://meisei-industry.co.jp/",
+    "http://www.meisei-kk.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "名西 名古屋本社 お問い合わせ メール",
+   "results": [
+    "https://meiseieng.com/contact/",
+    "https://www.meiseitechno.com/contact",
+    "https://www.meisei-system.com/お問い合わせ/",
+    "http://meiseikougyou.jp/contact",
+    "https://www.meiseisoil.com/contact.php",
+    "https://meisei-trust.com/contact",
+    "https://www.aichi-meisei.com/contact"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 名西 名古屋本社",
+   "results": [
+    "https://note.com/stmn_hr/n/nf96a4568187e",
+    "https://note.com/takeru_3535/n/nb93405d89c09",
+    "https://note.com/fit_donkey836/n/nf0e5d22cc752",
+    "https://note.com/jet__internet/n/nf3eb0f983823",
+    "https://note.com/mantyo/n/n29b73611723f",
+    "https://note.com/tosaka50/n/n39116a51e1d9",
+    "https://note.com/komuginyc/n/nf1dc81ed27af"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 名西 名古屋本社",
+   "results": [
+    "https://x.com/Takihyo_Jpn/status/1295584498701070336",
+    "https://x.com/Kaze3681/status/1569307498502590464",
+    "https://x.com/Kyosuke1213ss/status/2119370906535682414",
+    "https://help.x.com/zh-cn/using-x",
+    "https://x.com/sima747type9/status/1301827598968713218",
+    "https://x.com/iontaunmeisei",
+    "https://x.com/GIGO_Meisei"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 名西 名古屋本社",
+   "results": [
+    "https://www.linkedin.com/login/linke",
+    "https://in.linkedin.com/company/linkedin",
+    "https://www.linkedin.com/",
+    "https://jp.linkedin.com/posts/makoto-max-yawata-3a8a269_本社移転のお知らせ-ニュースリリース-株式会社whi-holdings-activity-7401493919668297728-xr-O",
+    "https://jp.linkedin.com/posts/yukari-takebe_皆さんに警告です-会議は30分で終わらせます-それ以上は内容ではなく睡魔と戦-activity-7512884278112698368-sok5",
+    "https://za.linkedin.com/jobs/view/営業／自動車アフターマーケット業界コンサルティング（名古屋）-at-株式会社ファブリカコミュニケーションズ-4487590622",
+    "https://br.linkedin.com/jobs/view/【大阪／法務】独立系総合商社-投資案件・m＆a等-海外44ヶ国・国内18拠点のグローバル事業展開-スキルアップできる環境-at-hanwa-co-ltd-4486624835",
+    "https://www.linkedin.com/pub/dir/大/+/jp-7654-Aichi,-Japan",
+    "https://za.linkedin.com/in/laurinda-mabunda-90448a1a1",
+    "https://www.linkedin.com/in/kazumitaguchi/ja"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:facebook.com 名西 名古屋本社",
+   "results": [
+    "https://www.facebook.com/meiseik/",
+    "https://www.facebook.com/meisei.ds/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/meiseikenzai/",
+    "https://www.facebook.com/p/名古屋本社-100027856686759/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/StudioRiRiTa/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "名西 名古屋本社 note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "名西 名古屋本社 X 投稿",
+   "results": [
+    "https://x.com/cbc_shuzai",
+    "https://www.meisei-kk.com/",
+    "https://x.com/MAXBOOKS_meieki/status/2118910164330053670",
+    "https://meiseiyakuhin.com/company.html",
+    "https://meisei-industry.co.jp/",
+    "https://meiseieng.com/",
+    "https://meiseidenki1998.com/company/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式10頁／PDF・画像4件／外部7頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式10頁／PDF・画像4件／外部7頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式10頁／PDF・画像4件／外部7頁・検索9回）"
+ }
+}

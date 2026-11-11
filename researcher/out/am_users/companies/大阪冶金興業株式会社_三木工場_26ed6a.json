@@ -1,0 +1,813 @@
+{
+ "name": "大阪冶金興業株式会社 三木工場",
+ "aliases": [],
+ "context": "ipros_all:受注生産",
+ "researched_at": "2026-11-11T13:40:58.327669+00:00",
+ "official_url": "https://www.osakayakin.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "寺内 俊太郎",
+    "url": "https://www.osakayakin.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "140名",
+    "url": "https://www.osakayakin.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "業務内容",
+    "value": "＜真空熱処理＞ ・高速度鋼、ダイス鋼、高クロム鋼等の焼入、焼戻し、時効処理 ・オーステナイト系ステンレス鋼、耐熱鋼の固溶化処理 ・各種耐熱材料の溶体化処理、時効処理 ・耐熱合金鋳造材の均質化処理、溶体化処理 ・軽合金、チタン合金等の溶体化処理、時効処理 ＜一般処理＞ ・各種合金鋼部品の焼入、焼戻し、および雰囲気処理 ＜窒化処理＞ ・小型部品から直径1,000mm、長さ1,900mmまでのガス窒化処理 ・ステンレス鋼全般のガス窒化処理 ・チタン・タンタル部品の真空窒化処理 ＜ろう付及び接合加工＞ ・合金鋼、ステンレス鋼、耐熱材料の各種高温真空ろう付 ・非鉄材料の銀ろう付、銅ろう付 ・各種合金材料の拡散接合〈SUS-金属、Ti-金属等〉 ＜その他熱処理関連部品＞ ・サブ・ゼロ処理 ・熱処理各種試験、試作およびコンサルティング ＜金属粉末射出成形部品（MIM）＞ ・鉄系合金、ステンレス鋼、活性金属、耐熱合金、その他各種難加工金属材料 ＜金属粉末積層造形部品（3Dプリンタ）＞ ・金型成形および機械加工では製作できない金属部品の製作 ＜医療機器 の開発 ･製造 ･販売＞ ・医療機器製造業登録 登",
+    "url": "https://www.osakayakin.co.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "AM関連": [
+   {
+    "quote": "日本AM(Additive Manufacturing)学会 学会賞を受賞いたしました",
+    "url": "https://www.osakayakin.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "＜金属粉末積層造形部品（3Dプリンタ）＞",
+    "url": "https://www.osakayakin.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ＭＩＭ（金属粉末射出成形部品）の営業を開始",
+    "url": "https://www.osakayakin.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "３次元金属積層造形装置（３Ｄプリンター）設備を導入（金属部品の立体造形製造を開始）",
+    "url": "https://www.osakayakin.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "三木工場に金属粉末積層造形の専用工場を竣工、関連設備を増強し、更なる充実を図る",
+    "url": "https://www.osakayakin.co.jp/company/history/",
+    "pass": 1
+   },
+   {
+    "quote": "平成20年には積層造形システムを導入して金属造形の可能性を飛躍的に向上させたのも、モノづくりへの新たな挑戦への試みです",
+    "url": "https://www.osakayakin.co.jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "ガスアトマイズ装置を導入して独自の粉末材料を生産し、HIP焼結による高密度化やMIMによる大型部品の製造を可能にします",
+    "url": "https://www.osakayakin.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "長年培ってきた熱処理技術、大型成形機、HIP焼結炉、ガスアトマイズ粉末製造装置などの設備を活かし、高強度な大型部品や新材料開発を含めた部品製造に幅広く取り組んでいます",
+    "url": "https://www.osakayakin.co.jp/business/mim/",
+    "pass": 1
+   },
+   {
+    "quote": "真空焼結炉の管理ノウハウおよび低酸素の粉末作製技術を",
+    "url": "https://www.osakayakin.co.jp/business/mim/",
+    "pass": 1
+   },
+   {
+    "quote": "各種の方法がありますが、当社は金属を溶かす熱源にレーザー光を採用した積層造形法（Selective Laser Melting：SLM）を導入しており、非常に複雑で微細構造のものづくりをスピーディに行う事が可能です",
+    "url": "https://www.osakayakin.co.jp/business/3d-printer/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のSLMの最大の特徴は、ガスアトマイズ装置による独自の金属粉末材料の開発から、微細形状・構造の金属製品の試作まで一貫した体制で製品の試作・生産が可能です",
+    "url": "https://www.osakayakin.co.jp/business/3d-printer/",
+    "pass": 1
+   },
+   {
+    "quote": "アルゴンガスアトマイズ装置によりチタン材料を始め、各種金属の粉末製造が可能",
+    "url": "https://www.osakayakin.co.jp/business/3d-printer/",
+    "pass": 1
+   },
+   {
+    "quote": "3次元構造物の金属造形が可能なSLM",
+    "url": "https://www.osakayakin.co.jp/business/3d-printer/",
+    "pass": 1
+   },
+   {
+    "quote": "EOS M290による金属造形",
+    "url": "https://www.osakayakin.co.jp/business/3d-printer/",
+    "pass": 1
+   },
+   {
+    "quote": "CAD上で、造形しようとする部品を数10μm間隔のスライス断面形状を作成し、その情報に従って散布した金属粉末の層上にレーザー光を走査させて金属粉末を溶融・凝固させます",
+    "url": "https://www.osakayakin.co.jp/business/3d-printer/",
+    "pass": 1
+   },
+   {
+    "quote": "その上に金属粉末を再び散布し、次のスライス断面形状に合わせてレーザー光を走査させて溶融・凝固層を積み重ねます",
+    "url": "https://www.osakayakin.co.jp/business/3d-printer/",
+    "pass": 1
+   },
+   {
+    "quote": "軽合金、鋼鉄類から超合金、複合材まで、幅広い金属材料からモックアップや金型、最終製品までを3D造形できるシステムです",
+    "url": "https://www.osakayakin.co.jp/business/3d-printer/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3D積層造形技術を使った医療分野の製品開発、",
+    "url": "https://www.osakayakin.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "日本AM(Additive Manufacturing)学会 学会賞を受賞いたしました",
+    "url": "https://www.osakayakin.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "このたび、弊社 大阪冶金興業株式会社は、一般社団法人日本Additive Manufacturing学会（日本AM学会）が開催した「第2回講演大会」（2026年9月1日～3日、函館サーモン・まるなまアリーナ）において、学会賞を受賞いたしました",
+    "url": "https://www.osakayakin.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "また、講演大会2日目には、弊社代表取締役社長 寺内が受賞講演をさせていただき、これまで取り組んできたAdditive Manufacturing（AM）技術に関する研究・開発について、多くの皆様にご紹介する機会をいただきました",
+    "url": "https://www.osakayakin.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "今回の受賞を励みに、これからも金属加工・熱処理技術とAM技術のさらなる可能性を追求し、より良いものづくりと新たな価値の創造に挑戦してまいります",
+    "url": "https://www.osakayakin.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "そして、今回の受賞への感謝を胸に、弊社も日本AM学会の一員として、Additive Manufacturing技術のさらなる発展と普及、そして日本AM学会のますますの飛躍に向けて、微力ではございますが協力してまいります",
+    "url": "https://www.osakayakin.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "日本AM学会 第2回講演大会の様子はこちら→",
+    "url": "https://www.osakayakin.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "https://ji-am.jp/2026/09/lecture_conference_2all/",
+    "url": "https://www.osakayakin.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「チタン粉末の成形技術と生体活性処理による新医療機器の開発」",
+    "url": "https://www.osakayakin.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "粉末加工部造形メディカル部門 課長 角谷 達也",
+    "url": "https://www.osakayakin.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "粉末加工部造形メディカル部門 係長心得 北山 青空",
+    "url": "https://www.osakayakin.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "MBSラジオはAM1179／FM90.6です",
+    "url": "https://www.osakayakin.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "また、極低温に強い先端材料である「関大合金シリコロイ（高ケイ素ステンレス鋼）」を原材料に3Dプリンターで製造したオブジェで、カーボンニュートラル社会の実現に貢献する技術についても紹介します",
+    "url": "https://www.osakayakin.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「TCT JAPAN 2025」に日本AM協会の一員として出展させていただきます",
+    "url": "https://www.osakayakin.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「金属粉末製造から熱処理までトータル的な金属積層造形のものづくり」",
+    "url": "https://www.osakayakin.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "「最新鋭HIP装置で積層造形の品質向上とコスト削減」",
+    "url": "https://www.osakayakin.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "金属熱処理加工、金属粉末加工を通して社会貢献に邁進して参ります",
+    "url": "https://www.osakayakin.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "今後も当社の発展、金属熱処理加工、金属粉末加工を通して社会貢献に邁進して参ります",
+    "url": "https://www.osakayakin.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "MIM技術は金属粉末とバインダー（結合剤）を混合してペレット状の原料を作り、射出成形機で金型に射出することで複雑形状の金属部品を製造する方法です",
+    "url": "https://www.osakayakin.co.jp/business/mim/about-mim/",
+    "pass": 1
+   },
+   {
+    "quote": "成形後、バインダーを取り除き、金属粉末を焼結してニアネットシェイプと強度を得ます",
+    "url": "https://www.osakayakin.co.jp/business/mim/about-mim/",
+    "pass": 1
+   },
+   {
+    "quote": "これらの工法とは異なりMIMは、金属粉末を用いたペレット状の原料を射出成形し、それを脱脂・焼結することで、仕上げ加工の必要がない最終製品に近い形状をつくる技術です",
+    "url": "https://www.osakayakin.co.jp/business/mim/about-mim/",
+    "pass": 1
+   },
+   {
+    "quote": "・粉末試料、金属板などの多結晶解析パターンの",
+    "url": "https://www.osakayakin.co.jp/business/mim/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "・金属粉末や金属組織の高倍率観察およびEDS（エネルギー分散型X線分光法）による定性・定量分析およびマッピング（元素分布の確認）",
+    "url": "https://www.osakayakin.co.jp/business/mim/equipment/",
+    "pass": 1
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "・軽合金、チタン合金等の溶体化処理、時効処理",
+    "url": "https://www.osakayakin.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "材質：鉄系合金（Fen-8%Ni）",
+    "url": "https://www.osakayakin.co.jp/business/mim/",
+    "pass": 1
+   },
+   {
+    "quote": "材質：SUS630／SUS316L",
+    "url": "https://www.osakayakin.co.jp/business/mim/",
+    "pass": 1
+   },
+   {
+    "quote": "材質：SKD11/SKH51",
+    "url": "https://www.osakayakin.co.jp/business/mim/",
+    "pass": 1
+   },
+   {
+    "quote": "材質：SKD11",
+    "url": "https://www.osakayakin.co.jp/business/mim/",
+    "pass": 1
+   },
+   {
+    "quote": "材質：純チタン／SUS420J2",
+    "url": "https://www.osakayakin.co.jp/business/mim/",
+    "pass": 1
+   },
+   {
+    "quote": "材質：SUS316L",
+    "url": "https://www.osakayakin.co.jp/business/mim/",
+    "pass": 1
+   },
+   {
+    "quote": "純チタン、チタン合金、耐熱合金",
+    "url": "https://www.osakayakin.co.jp/business/mim/",
+    "pass": 1
+   },
+   {
+    "quote": "純チタン、各種チタン合金",
+    "url": "https://www.osakayakin.co.jp/business/mim/",
+    "pass": 1
+   },
+   {
+    "quote": "活かせるチタンＭＩＭ製造の実績が豊富である",
+    "url": "https://www.osakayakin.co.jp/business/mim/",
+    "pass": 1
+   },
+   {
+    "quote": "チタンアルミ、",
+    "url": "https://www.osakayakin.co.jp/business/mim/",
+    "pass": 1
+   },
+   {
+    "quote": "アルゴンガスアトマイズ装置によりチタン材料を始め、各種金属の粉末製造が可能",
+    "url": "https://www.osakayakin.co.jp/business/3d-printer/",
+    "pass": 1
+   },
+   {
+    "quote": "軽合金、鋼鉄類から超合金、複合材まで、幅広い金属材料からモックアップや金型、最終製品までを3D造形できるシステムです",
+    "url": "https://www.osakayakin.co.jp/business/3d-printer/",
+    "pass": 1
+   },
+   {
+    "quote": "マルエージング鋼、ステンレス鋼、コバルトクロムモリブデン、チタン合金、ニッケル基超合金",
+    "url": "https://www.osakayakin.co.jp/business/3d-printer/",
+    "pass": 1
+   },
+   {
+    "quote": "「チタン粉末の成形技術と生体活性処理による新医療機器の開発」",
+    "url": "https://www.osakayakin.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "・鉄合金、チタン、各種耐熱合金、その他高融点材料など",
+    "url": "https://www.osakayakin.co.jp/business/mim/about-mim/",
+    "pass": 1
+   },
+   {
+    "quote": "・チタンなどの活性金属を含めた新材料の製作が可能である",
+    "url": "https://www.osakayakin.co.jp/business/mim/about-mim/",
+    "pass": 1
+   },
+   {
+    "quote": "・材質と断面画像の解像度・コントラストを選ぶだけで最適な撮影条件が設定されるなど、操作が容易",
+    "url": "https://www.osakayakin.co.jp/business/mim/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "・金属材料・製品の成分分析および品質管理（材質チェックや異材判定など）",
+    "url": "https://www.osakayakin.co.jp/business/mim/equipment/",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "・熱処理各種試験、試作およびコンサルティング",
+    "url": "https://www.osakayakin.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "大阪冶金興業は金属素材のご提案から金属部品の製造・加工まで、金属加工技術を駆使した一貫体制の受注生産を行っています",
+    "url": "https://www.osakayakin.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のSLMの最大の特徴は、ガスアトマイズ装置による独自の金属粉末材料の開発から、微細形状・構造の金属製品の試作まで一貫した体制で製品の試作・生産が可能です",
+    "url": "https://www.osakayakin.co.jp/business/3d-printer/",
+    "pass": 1
+   },
+   {
+    "quote": "また充実した検査装置により、試作品の評価を行う事ができます",
+    "url": "https://www.osakayakin.co.jp/business/3d-printer/",
+    "pass": 1
+   },
+   {
+    "quote": "各種の検査装置を用いて試作品を評価することが出来ます",
+    "url": "https://www.osakayakin.co.jp/business/3d-printer/",
+    "pass": 1
+   },
+   {
+    "quote": "・測定データを実寸法に拡大したり別々の撮影データを合成することができる（試作検討）",
+    "url": "https://www.osakayakin.co.jp/business/mim/equipment/",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "・金型成形および機械加工では製作できない金属部品の製作",
+    "url": "https://www.osakayakin.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "・医療機器製造業登録 登録番号 28BZ200121",
+    "url": "https://www.osakayakin.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "・第一種医療機器製造販売業許可 許可番号 28B1X10012",
+    "url": "https://www.osakayakin.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "その応用分野も産業用部品から医療用デバイスまで多岐に広がっています",
+    "url": "https://www.osakayakin.co.jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "そして自動車や時計などの小さくて精密な部品から、エネルギー施設に使用される高度な耐久性金属部品まで、幅広く手掛けてまいりました",
+    "url": "https://www.osakayakin.co.jp/company/message/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車関連、医療関係から航空機など高精度な金属加工技術が求められるあらゆる分野にお応えします",
+    "url": "https://www.osakayakin.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "工作機械、精密機器、作業工具、医療機器、航空機部品など、様々な分野で幅広い材料のMIM部品が活用されています",
+    "url": "https://www.osakayakin.co.jp/business/mim/",
+    "pass": 1
+   },
+   {
+    "quote": "一般機械部品、自動車部品",
+    "url": "https://www.osakayakin.co.jp/business/mim/",
+    "pass": 1
+   },
+   {
+    "quote": "シャフト、シリンダー、医療機器、キー部品",
+    "url": "https://www.osakayakin.co.jp/business/mim/",
+    "pass": 1
+   },
+   {
+    "quote": "耐摩耗部品、耐食機械部品、医療機器、治工具",
+    "url": "https://www.osakayakin.co.jp/business/mim/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器、時計、装飾品",
+    "url": "https://www.osakayakin.co.jp/business/mim/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器、原動機、航空機、環境部品",
+    "url": "https://www.osakayakin.co.jp/business/mim/",
+    "pass": 1
+   },
+   {
+    "quote": "原動機、航空機、環境部品",
+    "url": "https://www.osakayakin.co.jp/business/mim/",
+    "pass": 1
+   },
+   {
+    "quote": "医療・航空分野などで求められる複材形状・構造部材の製作が可能なSLMを採用",
+    "url": "https://www.osakayakin.co.jp/business/3d-printer/",
+    "pass": 1
+   },
+   {
+    "quote": "軽合金、鋼鉄類から超合金、複合材まで、幅広い金属材料からモックアップや金型、最終製品までを3D造形できるシステムです",
+    "url": "https://www.osakayakin.co.jp/business/3d-printer/",
+    "pass": 1
+   },
+   {
+    "quote": "大阪冶金興業が長年にわたり培ってきた金属熱加工技術をベースに、医療・産業関連を中心とした新たな分野へと挑戦する研究開発のための専用棟です",
+    "url": "https://www.osakayakin.co.jp/business/3d-printer/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3D積層造形技術を使った医療分野の製品開発、",
+    "url": "https://www.osakayakin.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "「チタン粉末の成形技術と生体活性処理による新医療機器の開発」",
+    "url": "https://www.osakayakin.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "MIM技術は金属粉末とバインダー（結合剤）を混合してペレット状の原料を作り、射出成形機で金型に射出することで複雑形状の金属部品を製造する方法です",
+    "url": "https://www.osakayakin.co.jp/business/mim/about-mim/",
+    "pass": 1
+   },
+   {
+    "quote": "・産業用部材やインプラント等の微細構造解析用画像の撮影",
+    "url": "https://www.osakayakin.co.jp/business/mim/equipment/",
+    "pass": 1
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "求められる製品を生産すること、さらに新しいマーケットを創造すること",
+    "url": "https://www.osakayakin.co.jp/company/philosophy/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに最新設備を拡充して精度の高いモノづくりにこだわる一方、充実した検査設備で目に見える部分から見えない部分まで製品の品質管理を徹底して実施しています",
+    "url": "https://www.osakayakin.co.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "材料や製品形状に合わせ、様々な要求にお答えするための設備を取り揃えています",
+    "url": "https://www.osakayakin.co.jp/business/vacuum-heat-treatment/",
+    "pass": 1
+   },
+   {
+    "quote": "大阪冶金のMIM製品 | 大阪冶金興業株式会社",
+    "url": "https://www.osakayakin.co.jp/business/mim/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のSLMの最大の特徴は、ガスアトマイズ装置による独自の金属粉末材料の開発から、微細形状・構造の金属製品の試作まで一貫した体制で製品の試作・生産が可能です",
+    "url": "https://www.osakayakin.co.jp/business/3d-printer/",
+    "pass": 1
+   },
+   {
+    "quote": "軽合金、鋼鉄類から超合金、複合材まで、幅広い金属材料からモックアップや金型、最終製品までを3D造形できるシステムです",
+    "url": "https://www.osakayakin.co.jp/business/3d-printer/",
+    "pass": 1
+   },
+   {
+    "quote": "例えば、顧客要求を満たす熱処理方案の作成、金属素材から製品化までを担い、",
+    "url": "https://www.osakayakin.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "金属3D積層造形技術を使った医療分野の製品開発、",
+    "url": "https://www.osakayakin.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "の3つのテーマをメインにパネルおよび製品を展示予定です",
+    "url": "https://www.osakayakin.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "これらの工法とは異なりMIMは、金属粉末を用いたペレット状の原料を射出成形し、それを脱脂・焼結することで、仕上げ加工の必要がない最終製品に近い形状をつくる技術です",
+    "url": "https://www.osakayakin.co.jp/business/mim/about-mim/",
+    "pass": 1
+   },
+   {
+    "quote": "・400g以上の無欠陥製品の製作が可能である",
+    "url": "https://www.osakayakin.co.jp/business/mim/about-mim/",
+    "pass": 1
+   },
+   {
+    "quote": "・複数の３次元寸法測定器を保有しており、製品形状を考慮した最適な寸法検査が可能である",
+    "url": "https://www.osakayakin.co.jp/business/mim/about-mim/",
+    "pass": 1
+   },
+   {
+    "quote": "・金属材料・製品の成分分析および品質管理（材質チェックや異材判定など）",
+    "url": "https://www.osakayakin.co.jp/business/mim/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "・製品表面にある目に見えない細かい欠陥を、破壊せず発見する",
+    "url": "https://www.osakayakin.co.jp/business/mim/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "・製品にある細かい欠陥に蛍光浸透剤を染み込ませ、暗室にて光らせ、表面の割れ、ブローホールなどを検出することが出来る検査設備",
+    "url": "https://www.osakayakin.co.jp/business/mim/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、複製品の製作や設計変更ができる（リバースエンジニアリング）",
+    "url": "https://www.osakayakin.co.jp/business/mim/equipment/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "休業中も当ホームページにて、お問い合わせの受付を行っておりますが、",
+    "url": "https://www.osakayakin.co.jp/news/",
+    "pass": 1
+   },
+   {
+    "quote": "休業中も当ウェブサイトにて、お問い合わせの受付を行っておりますが、",
+    "url": "https://www.osakayakin.co.jp/news/",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.osakayakin.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osakayakin.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osakayakin.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osakayakin.co.jp/company/philosophy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osakayakin.co.jp/company/message/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osakayakin.co.jp/company/miki-factory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osakayakin.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osakayakin.co.jp/business/vacuum-heat-treatment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osakayakin.co.jp/business/hi-nito/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osakayakin.co.jp/business/mim/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osakayakin.co.jp/business/3d-printer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osakayakin.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osakayakin.co.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osakayakin.co.jp/business/mim/about-mim/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.osakayakin.co.jp/business/mim/equipment/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.osakayakin.co.jp/images/index/company_03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/search/product/?keyword=%E4%B8%89%E6%9C%A8%E5%B7%A5%E5%A0%B4%E3%80%80%E5%A4%A7%E9%98%AA%E5%86%B6%E9%87%91%E8%88%88%E6%A5%AD",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/nhk02/documents/202-oosakayakin8-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://web.pref.hyogo.lg.jp/nhk02/documents/202-oosakayakin8-1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.mikikogyo0417.com/contact",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "大阪冶金興業 三木工場 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.osakayakin.co.jp/company/miki-factory/",
+    "https://mono.ipros.com/search/product/?keyword=三木工場　大阪冶金興業",
+    "https://web.pref.hyogo.lg.jp/nhk02/documents/202-oosakayakin8-1.pdf",
+    "https://www.aperza.com/company/page/754/",
+    "https://www.jab.or.jp/compatible_organizations/115235",
+    "https://www.osakayakin.co.jp/",
+    "https://newswitch.jp/p/27191"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "大阪冶金興業 三木工場 会社概要 事業内容",
+   "results": [
+    "https://www.osakayakin.co.jp/company/miki-factory/",
+    "https://www.osakayakin.co.jp/company/",
+    "https://web.pref.hyogo.lg.jp/nhk02/documents/202-oosakayakin8-1.pdf",
+    "https://www.j-hiroba.jp/pdf/mod/comlist01/ouenkigyo_77693.pdf",
+    "https://www.mikikogyo0417.com/company",
+    "https://www.j-hiroba.jp/job_seaker/comlist01/detail_77693.html",
+    "https://www.mikicci.or.jp/archives/member/大阪冶金興業-株式会社"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "大阪冶金興業 三木工場 お問い合わせ メール",
+   "results": [
+    "https://www.osakayakin.co.jp/contact/",
+    "https://www.osakayakin.co.jp/company/miki-factory/",
+    "https://www.mikikogyo0417.com/contact",
+    "https://baseconnect.in/branch_offices/dfc3b6f9-8132-41a0-b648-43805dc21728",
+    "https://web.pref.hyogo.lg.jp/nhk02/documents/202-oosakayakin8-1.pdf",
+    "https://baseconnect.in/branch_offices/d814fbe7-23a5-4ffc-b086-50236c3a7c71",
+    "https://www.nyk.co.jp/contact/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 大阪冶金興業 三木工場",
+   "results": [
+    "https://note.com/biz_com/n/n4eba52c96faf",
+    "https://note.com/pandamomo/n/n088d4dee7f3c",
+    "https://note.com/mobio_osaka/n/n344a8e86385e",
+    "https://note.com/maecheck/n/ne089f3bd06dc",
+    "https://note.com/mmc_recruit/n/n9216a9157756",
+    "https://note.com/factory_view/n/ned1dc7ab03df",
+    "https://note.com/zenschool/n/nf650b82f727d"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 大阪冶金興業 三木工場",
+   "results": [
+    "https://x.com/BigPigsCompany/status/2104031946972316138",
+    "https://help.x.com/en/using-x/download-the-x-app",
+    "https://x.com/iterjapan/status/1788403590660497740",
+    "https://x.com/nikkei_bizdaily/status/660971844174909440",
+    "https://x.com/MIKI_METALWORKS/status/2090335630157131806",
+    "https://x.com/mikigakki_pr/status/2118544150475964763",
+    "https://x.com/sangyo_web/status/2038488491106210213"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 大阪冶金興業 三木工場",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com 大阪冶金興業 三木工場",
+   "results": [
+    "https://www.facebook.com/nami.katsuragi.7/videos/大阪冶金興業の三木工場見学寺内社長との対談に行ってきました潜水艦や戦闘機衛星などにも使用される部品も製造されているのですが細やかな職人技にも支えられてきることを/1922985244975502/",
+    "https://www.facebook.com/nami.katsuragi.7/posts/大阪冶金興業の三木工場見学寺内社長との対談に行ってきました潜水艦や戦闘機衛星などにも使用される部品も製造されているのですが細やかな職人技にも支えられてきることを/25754116107575567/",
+    "https://www.facebook.com/nami.katsuragi.7/posts/大阪冶金興業の三木工場見学寺内社長との対談に行ってきました潜水艦や戦闘機衛星などにも使用される部品も製造されているのですが細やかな職人技にも支えられてきることを/25754093124244532/",
+    "https://www.facebook.com/people/三木興業/61585137776335/",
+    "https://www.facebook.com/photo.php/?fbid=24548760781444445",
+    "https://www.facebook.com/nami.katsuragi.7/posts/7326301047450353/",
+    "https://www.facebook.com/kongocorp1947/posts/1656863334361958/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "大阪冶金興業 三木工場 note 社長",
+   "results": [
+    "https://www.osakayakin.co.jp/company/miki-factory/",
+    "https://www.osakayakin.co.jp/company/",
+    "https://www.facebook.com/nami.katsuragi.7/videos/大阪冶金興業の三木工場見学寺内社長との対談に行ってきました潜水艦や戦闘機衛星などにも使用される部品も製造されているのですが細やかな職人技にも支えられてきることを/1922985244975502/",
+    "https://www.facebook.com/nami.katsuragi.7/posts/大阪冶金興業の三木工場見学寺内社長との対談に行ってきました潜水艦や戦闘機衛星などにも使用される部品も製造されているのですが細やかな職人技にも支えられてきることを/25754116107575567/",
+    "https://www.nikkan.co.jp/articles/view/00630367",
+    "https://www.japanmetal.com/news-t2009021031695.html",
+    "https://newswitch.jp/p/27191"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "大阪冶金興業 三木工場 X 投稿",
+   "results": [
+    "https://www.osakayakin.co.jp/company/miki-factory/",
+    "https://www.instagram.com/p/C8wBGHDSvrZ/",
+    "https://www.osakayakin.co.jp/",
+    "https://atcompany.jp/osakayakin/",
+    "https://www.instagram.com/reel/DLWSA3jyauM/",
+    "https://atcompany.jp/osakayakin/recruit/requirement/568508/",
+    "https://x.com/mda3519/status/2118547435538763834"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "所在地": "記載なし（3回確認済み：公式15頁／PDF・画像1件／外部4頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式15頁／PDF・画像1件／外部4頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式15頁／PDF・画像1件／外部4頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式15頁／PDF・画像1件／外部4頁・検索9回）"
+ }
+}

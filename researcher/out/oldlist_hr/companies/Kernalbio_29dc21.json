@@ -1,0 +1,1005 @@
+{
+ "name": "Kernalbio",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-11T13:34:40.430583+00:00",
+ "official_url": "https://www.kernalbio.com/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$567,000",
+    "url": "https://prospeo.io/c/kernal-biologics-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$73,000,000",
+    "url": "https://prospeo.io/c/kernal-biologics-revenue",
+    "pass": 3
+   },
+   {
+    "label": "4. Seed Round",
+    "value": "21-Oct-2020    Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/166787-65",
+    "pass": 3
+   },
+   {
+    "label": "Seed-1",
+    "value": "",
+    "url": "https://pitchbook.com/profiles/company/166787-65",
+    "pass": 3
+   },
+   {
+    "label": "Seed-3",
+    "value": "5,406,319 $0.000100  $0.59 $0.59 1x $0.59 15.73%",
+    "url": "https://pitchbook.com/profiles/company/166787-65",
+    "pass": 3
+   },
+   {
+    "label": "Seed-2",
+    "value": "1,785,184 $0.000100  $0.08 $0.08 1x $0.08 5.19%",
+    "url": "https://pitchbook.com/profiles/company/166787-65",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "700 Main St, Cambridge, Massachusetts 02139, US",
+    "url": "https://prospeo.io/c/kernal-biologics-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2016",
+    "url": "https://prospeo.io/c/kernal-biologics-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "cell therapies could overcome these barriers by programming cells directly inside the body. This can be achieved by delivering the right sequence to the right tissues and cells, with precise targeting and selective translation.",
+    "url": "https://www.kernalbio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our therapeutics are delivered to target cells and programmed with state-of-the-art AI models to ensure selective translation in these cells — enabling scalable",
+    "url": "https://www.kernalbio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Kernal Biologics to Showcase mRNA 2.0 Platform and T-Cell-Targeted LNPs for In Situ CAR T Programming at ASGCT 2026",
+    "url": "https://www.kernalbio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "improve patient experience",
+    "url": "https://www.kernalbio.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Physician entrepreneur who developed an FDA-approved cancer drug at Merck & Co",
+    "url": "https://www.kernalbio.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "President & Cofounder",
+    "url": "https://www.kernalbio.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "President & CEO Emeritus of Dana Farber Cancer Institute, Harvard Medical School",
+    "url": "https://www.kernalbio.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Founding Director of Parallel Squared Technology Institute & Professor at Northeastern University",
+    "url": "https://www.kernalbio.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President for R&D, Tel Aviv University",
+    "url": "https://www.kernalbio.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "With roots at MIT, Harvard, Merck, and BMS, our management team has spearheaded the development of three FDA-approved therapies and holds over 120 patents. Based in Cambridge, MA, and backed by Hummingbird Ventures, Amgen Ventures, and NASA, Kernal Bio is revolutionizing mRNA therapeutics by leveraging AI to deliver precision treatments within the body.",
+    "url": "https://www.kernalbio.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Kernal is dedicated to providing a diverse work environment and is committed to",
+    "url": "https://www.kernalbio.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "equal employment opportunities for all its employees and qualified applicants. We do not",
+    "url": "https://www.kernalbio.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "discriminate in employment practices for reasons of race, color, national origin, age, gender,",
+    "url": "https://www.kernalbio.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "sexual orientation, marital or veteran status, religion, disability, or any other legally protected",
+    "url": "https://www.kernalbio.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "improve patient experience",
+    "url": "https://kernalbio.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Physician entrepreneur who developed an FDA-approved cancer drug at Merck & Co",
+    "url": "https://kernalbio.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "President & Cofounder",
+    "url": "https://kernalbio.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "President & CEO Emeritus of Dana Farber Cancer Institute, Harvard Medical School",
+    "url": "https://kernalbio.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Founding Director of Parallel Squared Technology Institute & Professor at Northeastern University",
+    "url": "https://kernalbio.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Vice President for R&D, Tel Aviv University",
+    "url": "https://kernalbio.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "22 Positively Brilliant Mini Recipe Videos",
+    "url": "https://bostonvoyager.com/interview/meet-yusuf-erkul-kernal-biologics-cambridge/",
+    "pass": 3
+   },
+   {
+    "quote": "April 10, 2018",
+    "url": "https://bostonvoyager.com/interview/meet-yusuf-erkul-kernal-biologics-cambridge/",
+    "pass": 3
+   },
+   {
+    "quote": "Based on their publications and patent filings, we can say that Kernal is unique in its onco-selective mRNA approach. We have benefited greatly from these established players and their experiences, and they have made us feel welcome in the mRNA field and shared their business expertise. That is why we would like to partner with them in the future.",
+    "url": "https://bostonvoyager.com/interview/meet-yusuf-erkul-kernal-biologics-cambridge/",
+    "pass": 3
+   },
+   {
+    "quote": "Finally, Manfred taught me how to approach drug development, how to design and execute preclinical experiments in immunology and oncology with great discipline, and how to enjoy doing all these with a cool attitude.",
+    "url": "https://bostonvoyager.com/interview/meet-yusuf-erkul-kernal-biologics-cambridge/",
+    "pass": 3
+   },
+   {
+    "quote": "Co-Founder & President",
+    "url": "https://prospeo.io/c/kernal-biologics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Kernal creates mRNA therapies to cure severe diseases including cancer. Our mRNA therapies instruct specific cells on how to make their own drugs. With roots at MIT, Harvard and Big Pharma, our team previously built a successful Biotech company and has deep expertise in mRNA space.",
+    "url": "https://prospeo.io/c/kernal-biologics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/kernal-biologics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Kernal Biologics has approximately",
+    "url": "https://prospeo.io/c/kernal-biologics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/kernal-biologics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/kernal-biologics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/kernal-biologics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Kernal Biologics 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/166787-65",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of onco-selective mRNA therapeutics designed to program human cells directly inside the body.",
+    "url": "https://pitchbook.com/profiles/company/166787-65",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/166787-65",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/166787-65",
+    "pass": 3
+   },
+   {
+    "quote": "07-Apr-2025",
+    "url": "https://pitchbook.com/profiles/company/166787-65",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/166787-65",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/166787-65",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of onco-selective mRNA therapeutics designed to program human cells directly inside the body. The company util",
+    "url": "https://pitchbook.com/profiles/company/166787-65",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/166787-65",
+    "pass": 3
+   },
+   {
+    "quote": "Kernal Biologics’s primary industry is Drug Discovery.",
+    "url": "https://pitchbook.com/profiles/company/166787-65",
+    "pass": 3
+   },
+   {
+    "quote": "Is Kernal Biologics a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/166787-65",
+    "pass": 3
+   },
+   {
+    "quote": "Kernal Biologics is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/166787-65",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/166787-65",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/166787-65",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/166787-65",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/kernalbio.com#funding",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/kernalbio.com#funding",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "cell therapies could overcome these barriers by programming cells directly inside the body. This can be achieved by delivering the right sequence to the right tissues and cells, with precise targeting and selective translation.",
+    "url": "https://www.kernalbio.com/",
+    "pass": 1
+   },
+   {
+    "quote": "equal employment opportunities for all its employees and qualified applicants. We do not",
+    "url": "https://www.kernalbio.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Kernal Biologics Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/kernal-biologics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Kernal Biologics Revenue",
+    "url": "https://prospeo.io/c/kernal-biologics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Kernal Biologics",
+    "url": "https://prospeo.io/c/kernal-biologics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/kernal-biologics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/kernal-biologics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/kernal-biologics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Kernal Biologics?",
+    "url": "https://prospeo.io/c/kernal-biologics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Kernal Biologics generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/kernal-biologics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/kernal-biologics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/kernal-biologics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Kernal Biologics have?",
+    "url": "https://prospeo.io/c/kernal-biologics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/kernal-biologics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/166787-65",
+    "pass": 3
+   },
+   {
+    "quote": "Kernal Biologics has 21 total employees.",
+    "url": "https://pitchbook.com/profiles/company/166787-65",
+    "pass": 3
+   },
+   {
+    "quote": "What is Kernal Biologics’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/166787-65",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Kernal Biologics is",
+    "url": "https://pitchbook.com/profiles/company/166787-65",
+    "pass": 3
+   },
+   {
+    "quote": "Kernal Biologics Revenue 2024: $3.8M Est.",
+    "url": "https://getlatka.com/companies/kernalbio.com#funding",
+    "pass": 3
+   },
+   {
+    "quote": "Kernal Biologics revenue",
+    "url": "https://getlatka.com/companies/kernalbio.com#funding",
+    "pass": 3
+   },
+   {
+    "quote": "Kernal Biologics has not published its revenue. GetLatka estimates it at about $3.8M a year (June 2024).",
+    "url": "https://getlatka.com/companies/kernalbio.com#funding",
+    "pass": 3
+   },
+   {
+    "quote": "Kernal Biologics CEO, founders & employees",
+    "url": "https://getlatka.com/companies/kernalbio.com#funding",
+    "pass": 3
+   },
+   {
+    "quote": "Yusuf Erkul founded Kernal Biologics in 2016 and runs it as CEO. Kernal Biologics had 15 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/kernalbio.com#funding",
+    "pass": 3
+   },
+   {
+    "quote": "What is Kernal Biologics' revenue?",
+    "url": "https://getlatka.com/companies/kernalbio.com#funding",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Kernal Biologics' revenue at about",
+    "url": "https://getlatka.com/companies/kernalbio.com#funding",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Kernal Biologics have?",
+    "url": "https://getlatka.com/companies/kernalbio.com#funding",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/kernalbio.com#funding",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/kernalbio.com#funding",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/kernalbio.com#funding",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/kernalbio.com#funding",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Kernal Biologics - LinkedIn 日本 — Kernal Biologics | LinkedInのフォロワー数5,118人。KernalBio creates mRNA therapies that instruct specific cells on how to make their own medicine | Kernal creates mRNA therapies to cure severe diseases including cancer. Our mRNA therapies instruct specific cells on how to make their own drugs. With roots at MIT, Harvard and Big Pharma, our team previously built a successful",
+    "url": "https://jp.linkedin.com/company/kernal-biologics-inc.",
+    "pass": 3
+   },
+   {
+    "quote": "Home | Kernal Biologics — Kernal biologics is an onco-selective mRNA therapeutics company located in Cambridge, MA",
+    "url": "https://www.kernalbio.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Pipeline | Kernal Biologics — Explore our pipeline of mRNA 2.0 therapies. Intelligently programmed to target cancers and autoimmune disorders, right where they’re needed.",
+    "url": "https://www.kernalbio.com/pipeline",
+    "pass": 3
+   },
+   {
+    "quote": "海外new things | 「Kernal Biologics」获2500万美元A轮融资，推进肿... — Kernal Biologics, Inc. 7月7日宣布完成2500万美元的A 轮融资，由 Hummingbird Ventures 领投，Amgen Ventures、HBM Genomics 和 Civilization Ventures 等风险投资公司也参与了 ...",
+    "url": "https://www.36kr.com/p/1818454089412224",
+    "pass": 3
+   },
+   {
+    "quote": "Home | Kernal Biologics — The right tissue. The right cell. Current cell therapies are slow to manufacture, costly, and limited to specialized centers. In vivo cell therapies could overcome these barriers by programming cells directly inside the body. This can be achieved by delivering the right sequence to the right tissues and cells, with precise targeting and selective translation. This is the ",
+    "url": "https://www.kernalbio.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Kernal Biologics | LinkedIn — Kernal Biologics | LinkedInのフォロワー数5,118人。KernalBio creates mRNA therapies that instruct specific cells on how to make their own medicine | Kernal creates mRNA therapies to cure severe diseases including cancer. Our mRNA therapies instruct specific cells on how to make their own drugs. With roots at MIT, Harvard and Big Pharma, our team previously built a successful Bi",
+    "url": "https://jp.linkedin.com/company/kernal-biologics-inc.",
+    "pass": 3
+   },
+   {
+    "quote": "About | Kernal Biologics — Synthetic biologists. Immunologists. Data scientists. Together, we’re making designer mRNA drugs to cure serious illnesses.",
+    "url": "https://kernalbio.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Yusuf Erkul - Co-founder, CEO at Kernal Bio | LinkedInKernal Bio - BIO International Convention 2026Kernal Biologics | MTECKernal Biologics: Kernal is creating mRNA 2.0 therapies that ... — Co-founder, CEO at Kernal Bio · A physician-entrepreneur devoted to the discovery and development of novel therapies. · Education: MIT Sloan School of Management · Location: Cambridge · 500 ... Jun 24, 2026 · K",
+    "url": "https://www.linkedin.com/in/yusuf-erkul-b23b4516",
+    "pass": 3
+   },
+   {
+    "quote": "Kernal Bio - BIO International Convention 2026 — Jun 24, 2026 · Kernal Bio is a VC-backed biotech company pioneering in vivo CAR-T therapies. We harness selective mRNA-LNP technology to treat cancer and autoimmune diseases with precision—ensuring targeted delivery and minimizing off-target effects. Our KR-402 program achieves over 90% delivery efficiency with T-cell-targeted LNPs, enabling direct ",
+    "url": "https://convention.bio.org/2026-sessions-and-courses/kernal-bio",
+    "pass": 3
+   },
+   {
+    "quote": "Meet Yusuf Erkul of Kernal Biologics in Cambridge – Boston ... — Apr 10, 2018 · I first got into Hacettepe Medical School, but then switched to MIT to study biology, where I learned how to think critically, how to break, how to build, how to troubleshoot, how to discover new things (new gene variants, new biomarkers, new ways to analyze biomaterials).",
+    "url": "https://bostonvoyager.com/interview/meet-yusuf-erkul-kernal-biologics-cambridge/",
+    "pass": 3
+   },
+   {
+    "quote": "Kernal Biologics Revenue, Funding & Valuation — Kernal Biologics has revenue of $8,500,000, estimated valuation of $27,200,000, $73,000,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/kernal-biologics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Kernal Biologics 2026 Company Profile: Valuation, Funding ...KernalBiologics – Industry Ranking & Company Valuation – 2026How Kernal Biologics hit $3.8M revenue with a 15 person team ...Kernal Biologics - 2026 Company Profile, Team, Funding ...Kernal Biologics: Funding, Investors & Team (Nov 2026)Kernal Biologics Stock Price, Funding, Valuation, Revenue ... — Information on valuation, funding, cap",
+    "url": "https://pitchbook.com/profiles/company/166787-65",
+    "pass": 3
+   },
+   {
+    "quote": "KernalBiologics – Industry Ranking & Company Valuation – 2026 — Revenue, valuation, and funding figures for KernalBiologics are estimates based on publicly available information, industry analysis, regulatory filings, company-provided profile updates, and proprietary data aggregation methods.",
+    "url": "https://compworth.com/company/kernalbiologics",
+    "pass": 3
+   },
+   {
+    "quote": "How Kernal Biologics hit $3.8M revenue with a 15 person team ... — Kernal Biologics Valuation, Funding Rounds Explore the complete funding history and valuation milestones for this company. Below you'll find detailed information about each funding round, including investment amounts, lead investors, and key financial metrics that have shaped the company's growth trajectory.",
+    "url": "https://getlatka.com/companies/kernalbio.com/funding",
+    "pass": 3
+   },
+   {
+    "quote": "Kernal Biologics - 2026 Company Profile, Team, Funding ... — Mar 17, 2026 · Kernal Biologics is a series A company based in Cambridge (United States), founded in 2016 by Catherine Moroski Erkul, Yusuf Erkul and Burak Yilmaz. It operates as a Developer of mRNA therapeutics for immuno-oncology using deep learning technology. Kernal Biologics has raised $35.8M in funding from Hummingbird Ventures.",
+    "url": "https://tracxn.com/d/companies/kernalbiologics/__hR5SaE-r3pguFxYVILlPnvErTbqy84SF_I5hAhqYPiY",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/kernal-biologics-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/166787-65",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Congrats! @Kernalbio and @PanTherTX are the #Amgen golden ... Amgen 🧪🔬🧬 (@Amgen). Congrats! @Kernalbio and @PanTherTX are the #Amgen golden ticket winners receiving free lab space @LabCentral to further their important, innovative research.",
+    "url": "https://x.com/Amgen/status/1073036536957059072",
+    "pass": 3
+   },
+   {
+    "quote": "Yusuf Erkul (@yusuf_erkul) / Posts / X A day @LabCentral 238 and this is what happens, invite to eat cake with @kernalbio @yusuf_erkul and a special gift of Kernal branded socks! Now they will be with me wherever I wander! PS - Happy Birthday Rudy Christmas! 🍰 💬0 🔄1 🤍8 0 📎 🔁Reposted by Yusuf Erkul Tendai ChisowaTendaiChisowa Sep 9",
+    "url": "https://x.com/yusuf_erkul",
+    "pass": 3
+   },
+   {
+    "quote": "Busy afternoon sessions with @BeaconIntel @LumaCyte ... CAR-TCR (@CAR_TCell). 445 views. Busy afternoon sessions with @BeaconIntel @LumaCyte & @kernalbio! #CARTCR",
+    "url": "https://x.com/CAR_TCell/status/1836472728041476450",
+    "pass": 3
+   },
+   {
+    "quote": "@kernalbio | X The latest posts from @kernalbio",
+    "url": "https://x.com/kernalbio",
+    "pass": 3
+   },
+   {
+    "quote": "Yusuf Erkul (@yusuf_erkul) / Posts / X 💬0 🔄2 🤍10 0 📎 🔁Reposted by Yusuf Erkul Y Combinator ycombinator Jul 7 Congrats to the team @kernalbio!Kernal Bio (YC S20) uses proprietary mRNA technology to provide cancer patients with treatments that give them the best chance of beating their disease — while eliminating as many common side effects as possible:",
+    "url": "https://x.com/yusuf_erkul",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Kernal Biologics - LinkedIn Kernal Biologics | 5,116 followers on LinkedIn. KernalBio creates mRNA therapies that instruct specific cells on how to make their own medicine | Kernal creates mRNA therapies to cure severe ...",
+    "url": "https://www.linkedin.com/company/kernal-biologics-inc.",
+    "pass": 3
+   },
+   {
+    "quote": "Ying-Cing Lin - Principal Scientist at Kernalbio | LinkedInKerNel Biomedical - LinkedInYusuf Erkul - Co-founder, CEO at Kernal Bio | LinkedInJeff Ozdemir, PhD - Cofounder, Head of Platform @KernalBio ...Kernel - LinkedInIsaak Mueller - Scientist in Synthetic Biology | LinkedIn Principal Scientist at Kernalbio · 10 years post-graduate immunologist with deep understanding of innate and adaptive immu",
+    "url": "https://www.linkedin.com/in/ying-cing-lin-8b83ab99",
+    "pass": 3
+   },
+   {
+    "quote": "Yusuf Erkul - Co-founder, CEO at Kernal Bio | LinkedInJeff Ozdemir, PhD - Cofounder, Head of Platform @KernalBio ...Kernel - LinkedInIsaak Mueller - Scientist in Synthetic Biology | LinkedIn Co-founder, CEO at Kernal Bio · A physician-entrepreneur devoted to the discovery and development of novel therapies. · Education: MIT Sloan School of Management · Location: Cambridge · 500 ... May 8, 2014 · C",
+    "url": "https://www.linkedin.com/in/yusuf-erkul-b23b4516",
+    "pass": 3
+   },
+   {
+    "quote": "Yusuf Erkul - Co-founder, CEO at Kernal Bio | LinkedInKernal Biologics Management Team | Org Chart - RocketReach加藤貞顕 - WikipediaYusuf Erkul - Co-Founder & Chief Executive Officer at Kernal ...Kernal Biologics | LinkedIn Co-founder, CEO at Kernal Bio · A physician-entrepreneur devoted to the discovery and development of novel therapies. · Education: MIT Sloan School of Management · Location: Cambri",
+    "url": "https://www.linkedin.com/in/yusuf-erkul-b23b4516",
+    "pass": 3
+   },
+   {
+    "quote": "Kernal Biologics | LinkedIn Kernal Biologics | LinkedInのフォロワー数5,118人。KernalBio creates mRNA therapies that instruct specific cells on how to make their own medicine | Kernal creates mRNA therapies to cure severe diseases including cancer. Our mRNA therapies instruct specific cells on how to make their own drugs. With roots at MIT, Harvard and Big Pharma, our team previously built a successful Biot",
+    "url": "https://jp.linkedin.com/company/kernal-biologics-inc.",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "KernalBiologics | Cambridge MA - Facebook Jul 22, 2021 · KernalBiologics, Cambridge. 599 likes. Kernal Biologics is mRNA vaccine and therapeutics development company",
+    "url": "https://www.facebook.com/KernalBiologics-1770335909881227/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.kernalbio.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kernalbio.com/partnerships",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kernalbio.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kernalbio.com/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.kernalbio.com/_images/partnerships/partnerships.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://jp.linkedin.com/company/kernal-biologics-inc.",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.shionogi.com/jp/ja/news/2026/10/20261005_02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tryable.jp/news/314",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/kernal-biologics-inc.",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://kernalbio.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/in/yusuf-erkul-b23b4516",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.agcbio.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://elevate.bio/elevated-insights/partner-case-study-accelerating-car-t-cell-therapy-manufacturing-for-autoimmune-disease/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bostonvoyager.com/interview/meet-yusuf-erkul-kernal-biologics-cambridge/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://upcloud.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prospeo.io/c/kernal-biologics-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/166787-65",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/kernalbiologics",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/kernalbio.com#funding",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Amgen/status/1073036536957059072",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/yusuf_erkul",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CAR_TCell/status/1836472728041476450",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/kernal-biologics-inc.",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/ying-cing-lin-8b83ab99",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/yusuf-erkul-b23b4516",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/KernalBiologics-1770335909881227/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/yusuf-erkul-b23b4516",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/kernal-biologics-inc.",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/kernalbio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Amgen/status/1073036536957059072",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/yusuf_erkul",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Kernalbio 日本 導入",
+   "results": [
+    "https://jp.linkedin.com/company/kernal-biologics-inc.",
+    "https://www.kernalbio.com/",
+    "https://www.kernalbio.com/pipeline",
+    "https://www.shionogi.com/jp/ja/news/2026/10/20261005_02.html",
+    "https://www.36kr.com/p/1818454089412224",
+    "https://www.linkedin.com/in/yusuf-erkul-b23b4516",
+    "https://www.koerber.com/ja"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Kernalbio 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://tryable.jp/news/314",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://www.kernalbio.com/",
+    "https://www.korea-labo.com/",
+    "https://www.one-line.com/ja/local-information/jp",
+    "https://www.pega.com/ja/about/locations/japan",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.kernalbio.com/careers",
+    "https://www.cosmobio.co.jp/agency/brevitycode.asp"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Kernalbio Japan",
+   "results": [
+    "https://jp.linkedin.com/company/kernal-biologics-inc.",
+    "https://www.kernalbio.com/",
+    "https://kernalbio.com/about",
+    "https://www.linkedin.com/in/yusuf-erkul-b23b4516",
+    "https://convention.bio.org/2026-sessions-and-courses/kernal-bio",
+    "https://mtec-sc.org/life-sciences/kernal-biologics",
+    "https://www.ycombinator.com/companies/kernal-biologics"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Kernalbio manufacturing customer case study",
+   "results": [
+    "https://www.agcbio.com/case-studies",
+    "https://elevate.bio/elevated-insights/partner-case-study-accelerating-car-t-cell-therapy-manufacturing-for-autoimmune-disease/",
+    "https://bostonvoyager.com/interview/meet-yusuf-erkul-kernal-biologics-cambridge/",
+    "https://www.kernalbio.com/",
+    "https://www.kernalbio.com/pipeline",
+    "https://www.businesswire.com/news/home/20251007266824/en/Kernal-Bio-Awarded-up-to-$48-Million-from-ARPA-H-to-Develop-Lower-Cost-in-vivo-CAR-T-cell-Therapies-for-Hematological-Cancers-and-Autoimmune-Disease",
+    "https://www.fiercebiotech.com/biotech/amgen-backed-kernal-biologics-pops-25m-mrna-platform"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Kernalbio white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://upcloud.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partners.spectrum.com/",
+    "https://www.thenationalcouncil.org/get-involved/partner-with-us/partnership-program/",
+    "https://www.vizrt.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Kernalbio founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/kernal-biologics-revenue",
+    "https://pitchbook.com/profiles/company/166787-65",
+    "https://compworth.com/company/kernalbiologics",
+    "https://getlatka.com/companies/kernalbio.com/funding",
+    "https://tracxn.com/d/companies/kernalbiologics/__hR5SaE-r3pguFxYVILlPnvErTbqy84SF_I5hAhqYPiY",
+    "https://fundediq.co/kernal-biologics-kernalbio-com-funding/",
+    "https://www.cbinsights.com/company/kernal-biologics/financials"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Kernalbio",
+   "results": [
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/lively_pika8336/n/n5adf36c23e7b",
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/tag/Intelligent+UI",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/tolove/n/n20b5ae2e7bd8",
+    "https://note.com/media_lab/n/n5816c7011007?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Kernalbio",
+   "results": [
+    "https://x.com/Amgen/status/1073036536957059072",
+    "https://x.com/yusuf_erkul",
+    "https://x.com/Kernalgridmro",
+    "https://x.com/CAR_TCell/status/1836472728041476450",
+    "https://x.com/KERNAL_D",
+    "https://x.com/kerncountry",
+    "https://x.com/Kernal_Jerry"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Kernalbio",
+   "results": [
+    "https://www.linkedin.com/company/kernal-biologics-inc.",
+    "https://www.linkedin.com/in/ying-cing-lin-8b83ab99",
+    "https://fr.linkedin.com/company/kernel-biomedical",
+    "https://www.linkedin.com/in/yusuf-erkul-b23b4516",
+    "https://www.linkedin.com/in/jeff-ozdemir-phd-22822321",
+    "https://www.linkedin.com/in/isaak-mueller",
+    "https://www.linkedin.com/company/kernel"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Kernalbio",
+   "results": [
+    "https://www.facebook.com/KernalBiologics-1770335909881227/",
+    "https://www.facebook.com/kernal.bobb/",
+    "https://www.facebook.com/kernel.bio/",
+    "https://www.facebook.com/kerneltools/",
+    "https://www.facebook.com/thekernalcountry/",
+    "https://www.facebook.com/kernal.roberts/",
+    "https://www.facebook.com/p/Biokernel-61580853902436/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Kernalbio note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.linkedin.com/in/yusuf-erkul-b23b4516",
+    "https://jp.linkedin.com/company/kernal-biologics-inc.",
+    "https://www.kernalbio.com/",
+    "https://kernalbio.com/about",
+    "https://rocketreach.co/kernal-biologics-management_b4542ba9fc98f30b",
+    "https://www.zoominfo.com/p/Yusuf-Erkul/2200031678"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Kernalbio X 投稿",
+   "results": [
+    "https://x.com/kernalbio",
+    "https://x.com/Amgen/status/1073036536957059072",
+    "https://x.com/yusuf_erkul",
+    "https://kernalbio.com/news/kernal-bio-presents-at-the-bio-quity-europe",
+    "https://www.kernalbio.com/",
+    "https://www.kernalbio.com/pipeline",
+    "https://kernalbio.com/about"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部31頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部31頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部31頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式4頁／PDF・画像1件／外部31頁・検索12回）"
+ }
+}

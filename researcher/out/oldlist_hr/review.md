@@ -1765,6 +1765,10 @@
 - 「Creative Commons 表示 2.1 日本 License」（https://ejje.weblio.jp/content/variance）
 - 「Variance of Variance - Ryou Ohsawa @ National Astronomical Observatory of Japan」（https://www.ryouohsawa.info/note/stats/variances/）
 
+## Vantedgeai（https://www.vantedgeai.com/）
+- 「主に英語圏の金融書式と米国・欧州の信用分析体系に最適化されているため、日本語専用の金融文書や日本固有の法的条項を分析する際には、精度がやや低下する可能性があります」（https://ainiche.net/ja/tools/vantedgeai）
+- 「Huscarlは、企業の自家保険（セルフインシュアランス）および自家保険子会社（キャプティブ）の運用を支援するAIアクチュアリー（保険数理）プラットフォー...」（https://www.firstcvc.jp/global/vantedgeai.com）
+
 ## Useagave（https://www.useagave.com）
 - 「Metoki: Today's theme is Agave Syrup x Tequila. "Agave syrup" has really started appearing everywhere lately. We've invited Ms. Yabuta, who was the first to import such agave syrup into Japan!」（https://note.com/kenko_mag/n/n7ae3671d206f?hl=en）
 - 「Yabuta: It has been 19 years since I first imported agave syrup to Japan in 2006. At the time, I would have been thrilled if there was even one type of agave syrup in a supermarket, but now I'm happy to see supermarkets that carry several types. In supermarkets, it is sometimes sold alongside the or」（https://note.com/kenko_mag/n/n7ae3671d206f?hl=en）
@@ -2069,9 +2073,54 @@
 - 「Oklo's Future and Outlook: Down 78% from Peak, Company and Management Sold 47.02 Million Shares at an Average of $74, and H1 Interest Income is 37 Times Revenue｜ウマキ＠日本株・米国株・仮想通貨・FX」（https://note.com/umaki11/n/n9bd790ff7612?hl=en）
 - 「Oklo Inc. (NYSE: OKLO) (“Oklo” or “the Company”), an advanced nuclear technology company, today announced a strategic manufacturing agreement with U.S. Forged Rings, Inc. (USFR) to support the long-term deployment of Oklo's Aurora powerhouses through access to planned domestic manufacturing capacity」（https://oklo.com/newsroom/oklo-u-s-forged-rings-partner-to-advance-domestic-manufacturing-for-future-aurora-powerhouse-dep）
 
+## Nuvocargo（https://www.nuvocargo.com）
+- 「YC の会社ページに本人が掲載している情報（日本語訳は AI 翻訳」（https://ycpedia.com/companies/nuvocargo）
+
+## Nsave（https://www.nsave.com/）
+- 「「Sushi rice」って書いてあるものが日本のお米に近いみたいですが、なかったため安いものを買いました」（https://note.com/lucky_hebe142/n/n91488c20e065）
+- 「「Sushi rice」「Medium grain」「Short grain」と書かれているものを選ぶと日本米に近いみたいです」（https://note.com/lucky_hebe142/n/n91488c20e065）
+- 「日本米より軽いけど、水加減と炊き方を工夫すれば近づける」（https://note.com/lucky_hebe142/n/n91488c20e065）
+
+## Nooks（https://www.nooks.ai）
+- 「なぜ今、日本市場に勝機があるのか ローランド・ベルガーが示す日本企業の新たな成長像」（https://forbesjapan.com/articles/detail/74675）
+- 「KKR・大和証券の両トップが語る 日本が「世界有数の成長市場」になる未来」（https://forbesjapan.com/articles/detail/74675）
+- 「日本の電話番号や日本語の通話への対応も公式では確認できません」（https://aipicks.jp/tool/nooks）
+- 「Nooksが5億ドルを調達、AI営業アシスタント「Node」を発表：NYSEコンテンツ更新」（https://www.moomoo.com/ja/news/post/1003506202/nooks-secures-500m-launches-ai-sales-assistant-node-nyse-content）
+
+## Nomod（https://nomod.com）
+- 「Nomod for WooCommerce – WordPress プラグイン | WordPress.org 日本語」（https://ja.wordpress.org/plugins/nomod-for-woocommerce/）
+- 「Salaries are not listed on the board, so they are not listed here.」（https://nomod.com/en-ae/careers）
+
+## Noloco（https://www.noloco.io）
+- 「日本語で操作・ヘルプを利用できる範囲は要確認です」（https://appruto.jp/tools/noloco/）
+- 「サーバーの場所や日本語対応を示すものではありません」（https://appruto.jp/tools/noloco/）
+- 「Q3: 日本語には対応していますか？ A: 開発エディタや公式ドキュメントは主に英語です」（https://skywork.ai/skypage/ja/adalo-no-code-app-development/1984094755782316032）
+
+## nikkan.tech（https://nikkan.tech）
+- 「Highlighted Exhibitions held in Japan」（https://biz.nikkan.co.jp/eve/en/）
+- 「One of Japan's largest exhibitions of industrial cleaning products and technologies,」（https://biz.nikkan.co.jp/eve/en/）
+- 「Japan Robot Week 2024 is held every other year as a sister exhibition to the iREX, which」（https://biz.nikkan.co.jp/eve/en/）
+
+## Nanoprecise Sci Corp（https://nanoprecise.io/）
+- 「このラウンドはカナダ輸出開発公社（EDC）が主導し、Honeywell Venturesと日本精工（NSK Ltd. ）、EC Mergers & Acquisitionsが参加した」（https://kyodonewsprwire.jp/release/202301101949）
+- 「世界3大ベアリングメーカーの1社である日本精工（NSK Ltd.）と、産業技術セクターに特化した大手国際投資銀行のEC Mergers & Acquisitionsも、Nanopreciseの高い成長の可能性とソリューションの広範な普及のためのこの投資ラウンドを通じてNanopreciseを支援することを選択した」（https://kyodonewsprwire.jp/release/202301101949）
+- 「Cision Ltd.の子会社として、Cisionクラウドベースコミュニケーション製品、世界最大のマルチチャネル、多文化コンテンツ普及ネットワークと包括的なワークフローツールおよびプラットフォームを組み合わせることで、様々な組織のストーリーを支えています」（https://kyodonewsprwire.jp/release/202503286541）
+
 ## Nango（https://www.nango.dev）
 - 「Nango — Japan Ski Resorts — The Japow Project」（https://japowproject.com/en/resorts/nango）
 - 「Built from Japan GSI survey elevation data and aerial photos. Runs are coloured by the resort’s official difficulty. Height is exaggerated 1.3× so the slopes read clearly.」（https://japowproject.com/en/resorts/nango）
+
+## My AI Front Desk（https://www.myaifrontdesk.com）
+- 「Support customers in multiple languages including English, Spanish, German, Japanese, and more.」（https://opentools.ai/tools/my-ai-front-desk）
+- 「The AI receptionist supports English, Spanish, French, German, Portuguese, Japanese, Mandarin, Arabic, Russian, and Hindi.」（https://opentools.ai/tools/my-ai-front-desk）
+- 「UPBOND and Cosmos Initia jointly began offering "Pre-check-in x AI Agent" for foreign visitors to Japan at APA Hotels.」（https://note.com/unikoukokun/n/n3c58286e50fb?hl=en）
+- 「Prices as listed on myaifrontdesk.com/pricing on 29 October 2026.」（https://synthflow.ai/blog/my-ai-front-desk-review）
+
+## Multiway Robotics（https://www.multiway-robotics.com/）
+- 「中国発スマート物流ロボ「Multiway Robotics」、シリーズBで数十億円を追加調達 - 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア」（https://36kr.jp/352488/）
+- 「23年には日本にも子会社を設立した」（https://36kr.jp/352488/）
+- 「主な取引先には、宇宙開発を手がける中国航天科技集団（CASIC）、仏エアバス、日本の住友グループ、韓国のサムスンとLGグループ、米エマソン・エレクトリックなど世界の有名企業が含まれている」（https://36kr.jp/352488/）
+- 「23年には日本にも子会社を設立した」（https://36kr.jp/352488/）
 
 ## Multiplylabs（https://www.multiplylabs.com/）
 - 「AI の次なる革命: Multiply Labsが細胞治療バイオ製造のためのロボット駆動型ラボを拡大 - NVIDIA | Japan Blog」（https://blogs.nvidia.co.jp/blog/multiply-labs-isaac-omniverse/）
@@ -2080,6 +2129,52 @@
 
 ## Modjoul（https://modjoul.com/）
 - 「ANSELL AND MODJOUL JOIN FORCES TO DEVELOP DATA-DRIVEN SAFETY EQUIPMENT | Ansell Japan」（https://www.ansell.com/jp/en/press-releases/ansell-and-modjoul-join-forces-to-develop--data-driven-safety-equipment）
+
+## Miso（https://miso.kr/）
+- 「Traditional Japanese seasoning」（https://en.wikipedia.org/wiki/Miso）
+- 「, a Japanese culinary staple food. Miso is high in protein and rich in minerals, and it played an important nutritional role in」（https://en.wikipedia.org/wiki/Miso）
+- 「. Miso is widely used in both traditional and modern cooking in Japan, and as of 2018 had been gaining worldwide interest.」（https://en.wikipedia.org/wiki/Miso）
+- 「Kitopi is the world’s leading state-of-the-art, managed cloud kitchen platform with over 1000 employees across UAE, KSA and Kuwait. Kitopi enables restaurants to open delivery only locations by providing the …」（https://www.featuredcustomers.com/vendor/miso-robotics/case-studies）
+
+## Mindgard（https://mindgard.ai）
+- 「公式サイトに日本語の表示は見当たりません（2026年9月時点）」（https://aipicks.jp/tool/mindgard#japanese）
+- 「公式サイトに日本語の表示は見当たりません（2026年9月時点）」（https://aipicks.jp/tool/mindgard）
+
+## Mews（https://www.mews.com）
+- 「©Journal of Japanese Society for Emergency Medicine」（https://www.jstage.jst.go.jp/article/jsem/20/3/20_534/_pdf/-char/ja）
+- 「Hospital, Okinawa, Japan, 2 Department of Emergency and」（https://www.jstage.jst.go.jp/article/jsem/20/3/20_534/_pdf/-char/ja）
+- 「Japan, 3 Department of Surgery, Chubu Tokushukai」（https://www.jstage.jst.go.jp/article/jsem/20/3/20_534/_pdf/-char/ja）
+- 「Matthijs Welle founded Mews Systems in 2012 and runs it as CEO. Mews Systems has 1,418 employees (November 2025, LinkedIn), up from 1,236 a year earlier.」（https://getlatka.com/companies/mews-systems）
+
+## Metal（https://metal.ai/）
+- 「Metal Gathering Tour Live in Japan 2010 — Grokipedia」（https://grokipedia.com/page/metal_gathering_tour_live_in_japan_2010）
+- 「Metal Gathering Tour Live in Japan 2010」（https://grokipedia.com/page/metal_gathering_tour_live_in_japan_2010）
+- 「The video from the 2010 Japan tour provides fans a 124-minute document of the concert.」（https://grokipedia.com/page/metal_gathering_tour_live_in_japan_2010）
+- 「their final European show of the year as part of the group's "Babymetal Apocalypse" phase. It was later announced the band would also return to」（https://en.wikipedia.org/wiki/Babymetal）
+
+## Medusajs（https://medusajs.com）
+- 「Learn how Material Bank Japan transitioned to a fully localized commerce platform built with Medusa, enabling end-to-end workflows from design to order in minutes.」（https://medusajs.com/blog/materialbank）
+- 「is a global unicorn that has raised over $300M to transform how architects and designers source material samples. In 2023, Material Bank Japan, operated by DesignFuture Japan, launched a platform that now centralizes over 70,000 samples from 210 brands, all available with free overnight shipping nat」（https://medusajs.com/blog/materialbank）
+- 「However, the Japanese market required more than a direct replication of HQ’s commerce experience. To meet the needs of customers ranging from small studios to some of Japan’s largest design firms, the local team needed full control over their tech stack and the agility to build commerce features tai」（https://medusajs.com/blog/materialbank）
+
+## Lugg（https://www.lugg.com）
+- 「日本、韓国、中国、台湾、ベトナム、香港、インドネシア、シンガポール、アメリカ、タイ、イタリア、イギリス、マカオ、マレーシア、スペイン、フランス、オランダ、オーストラリア、アラブ首長国連邦、オーストリア、カナダ、チェコ、ドイツ、ギリシャ、ハンガリー、ニュージーランド、フィリピン、ポルトガル、トルコ」（https://luggagent.com/ja/destinations）
+- 「Japan Luggage Delivery | Same-Day Airport & Hotel Delivery from US$45 | LuggAgent」（https://luggagent.com/japan）
+- 「Japan Luggage Delivery: Same-Day Airport & Hotel Delivery」（https://luggagent.com/japan）
+
+## Lucle（https://lucle.jp/）
+- 「日本語・英語対応やLINE連携など、ビジネスに必要な機能も揃っています」（https://lucle.jp/）
+- 「Play Game Boy Lucle (Japan, Europe) Online in your browser - RetroGames.cc」（https://www.retrogames.cc/gameboy-games/lucle-japan-europe.html）
+- 「Lucle (Japan, Europe)」（https://www.retrogames.cc/gameboy-games/lucle-japan-europe.html）
+
+## Limble CMMS（https://limblecmms.com/）
+- 「Limble CMMSは日本語化が十分でない可能性があるため、UI操作やヘルプの理解に時間を要する場合があります」（https://fitgap.com/jp/products/limble-cmms）
+- 「FitGapの要件チェックでは、「日本語UI対応」が×(非対応)です」（https://fitgap.com/jp/products/limble-cmms）
+- 「一方で、「日本語アラート文適合」や「日本市場保全フロー適合」は○(対応)のため、アラートや保全手順の適合だけでなく、日常的に操作する画面の言語まで確認することが重要です」（https://fitgap.com/jp/products/limble-cmms）
+
+## Joinfleek（https://www.joinfleek.com/）
+- 「米国、ヨーロッパ、オーストラリア、日本のバイヤーは、発送前に内容を正確に把握できるため、大規模に調達できます」（https://www.joinfleek.com/ja/careers）
+- 「米国、オーストラリア、日本、ヨーロッパ全域に顧客」（https://www.joinfleek.com/ja/careers）
 
 ## Metalpine GmbH（https://www.metalpine.at）
 - 「METALPINE is part of the internationally represented htm Group (hightech metal invest) with locations in Germany, Austria, Bahrain and Japan.」（https://metalpine.at/）

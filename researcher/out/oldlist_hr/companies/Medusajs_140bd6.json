@@ -1,0 +1,1198 @@
+{
+ "name": "Medusajs",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-11T13:36:53.405615+00:00",
+ "official_url": "https://medusajs.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "MCP, CLI, Skills, and Agent Previews",
+    "url": "https://medusajs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Configurable products",
+    "url": "https://medusajs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced Product Management",
+    "url": "https://medusajs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Create rich product pages, set up product bundles, and manage large assortments effortlessly with our bulk editor.",
+    "url": "https://medusajs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Set up sales channels with different rules and products to handle multi-store sales, POS, apps, and more.",
+    "url": "https://medusajs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Advanced Promotion Engine",
+    "url": "https://medusajs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Set up advanced promotion rules, including campaigns, special customer and B2B pricing, free shipping, and more.",
+    "url": "https://medusajs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Bob Kinney, Staff SWE & Project Lead",
+    "url": "https://medusajs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We built the MVP for our entire B2B APAC solution in only 5 months. That speed to iteration is hard to get with traditional enterprise setups.",
+    "url": "https://medusajs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fastest Way to Production,",
+    "url": "https://medusajs.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Zero-config infrastructure with predictable pricing.",
+    "url": "https://medusajs.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Instant previews on PRs",
+    "url": "https://medusajs.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Fixed infra, predictable bills",
+    "url": "https://medusajs.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Priority Cloud support",
+    "url": "https://medusajs.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Longer backup retention",
+    "url": "https://medusajs.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise License, 24/7 Support, and platform SLAs.",
+    "url": "https://medusajs.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "BYOC with Enterprise License",
+    "url": "https://medusajs.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-configured infrastructure that scales automatically based on traffic.",
+    "url": "https://medusajs.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Powering global enterprises with high-volume drops and million-SKU catalogs.",
+    "url": "https://medusajs.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Go from zero to production in minutes",
+    "url": "https://medusajs.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-grade reliability",
+    "url": "https://medusajs.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Support, SLAs and Enterprise-only features",
+    "url": "https://medusajs.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Priority issue resolution",
+    "url": "https://medusajs.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-configured caching",
+    "url": "https://medusajs.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Preview Environments (PE)",
+    "url": "https://medusajs.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. You can upgrade in the Cloud dashboard. For Enterprise plans, contact our team via",
+    "url": "https://medusajs.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Plans are billed monthly in advance, with flex usage from the previous month added to your next invoice. You can cancel anytime, paying only for the current month and any outstanding usage.",
+    "url": "https://medusajs.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Add-ons (e.g. Preview Environments or additional Seats) are billed in advance and pro-rated from the date they are added. For example, a $10 Preview Environment added halfway through the month would cost $5 paid along the next billing cycle.",
+    "url": "https://medusajs.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Will you host my customizations to my Medusa project?",
+    "url": "https://medusajs.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Your custom backend logic is deployed along with your Medusa project on our infrastructure.",
+    "url": "https://medusajs.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How does Medusa comply with data regulations and GDPR?",
+    "url": "https://medusajs.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Our infrastructure provider maintains GDPR-aligned controls and security certifications, which we leverage as part of our overall data protection approach. While we provide a compliant-by-design environment, you remain responsible for applying practices that meet the specific legal requirements of your jurisdiction. Learn more in our",
+    "url": "https://medusajs.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "for more details on our compliance practices.",
+    "url": "https://medusajs.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How many orders or products can the Pro Plan handle within the resource limits?",
+    "url": "https://medusajs.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "6,000+ Products Matched to Every Vehicle Type",
+    "url": "https://medusajs.com/blog/category/user-stories",
+    "pass": 1
+   },
+   {
+    "quote": "80% Cost Savings: AI-Powered Email Order Processing at INSPIRED Pet Nutrition",
+    "url": "https://medusajs.com/blog/category/user-stories",
+    "pass": 1
+   },
+   {
+    "quote": "From Zero to a 500k+ product B2B Distributor Platform in Five Months",
+    "url": "https://medusajs.com/blog/category/user-stories",
+    "pass": 1
+   },
+   {
+    "quote": "April 23, 2025",
+    "url": "https://medusajs.com/blog/category/user-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Integrating ERPs with Medusa: Two real-world approaches",
+    "url": "https://medusajs.com/blog/category/user-stories",
+    "pass": 1
+   },
+   {
+    "quote": "Marketplace, DTC, B2B, Subscription, Services, Mobile app, POS, Dynamic pricing, Configurable products, ERP, PIM",
+    "url": "https://medusajs.com/experts",
+    "pass": 1
+   },
+   {
+    "quote": "B2B, DTC, Subscription, Dynamic pricing, Configurable products, Services, ERP, PIM, Mobile app",
+    "url": "https://medusajs.com/experts",
+    "pass": 1
+   },
+   {
+    "quote": "POS, Marketplace, B2B, Services, ERP, Dynamic pricing, Configurable products",
+    "url": "https://medusajs.com/experts",
+    "pass": 1
+   },
+   {
+    "quote": "B2B, DTC, Marketplace, Subscription, Dynamic pricing, Configurable products, ERP, PIM, Mobile app, POS",
+    "url": "https://medusajs.com/experts",
+    "pass": 1
+   },
+   {
+    "quote": "Vision Rescue Pro (B2B)",
+    "url": "https://medusajs.com/experts",
+    "pass": 1
+   },
+   {
+    "quote": "B2B, DTC, ERP, PIM, Dynamic pricing, Configurable products",
+    "url": "https://medusajs.com/experts",
+    "pass": 1
+   },
+   {
+    "quote": "DTC, B2B, Marketplace, PIM, ERP, Configurable products, Dynamic pricing, Mobile app",
+    "url": "https://medusajs.com/experts",
+    "pass": 1
+   },
+   {
+    "quote": "DTC, B2B, Dynamic pricing, Configurable products",
+    "url": "https://medusajs.com/experts",
+    "pass": 1
+   },
+   {
+    "quote": "B2B, DTC, Marketplace, Dynamic pricing, Services, ERP, PIM",
+    "url": "https://medusajs.com/experts",
+    "pass": 1
+   },
+   {
+    "quote": "B2B, DTC, Services, Configurable products, Dynamic pricing",
+    "url": "https://medusajs.com/experts",
+    "pass": 1
+   },
+   {
+    "quote": "B2B procurement hub",
+    "url": "https://medusajs.com/experts",
+    "pass": 1
+   },
+   {
+    "quote": "B2B, DTC, Dynamic pricing, Configurable products, ERP, PIM, Mobile app",
+    "url": "https://medusajs.com/experts",
+    "pass": 1
+   },
+   {
+    "quote": "B2B, DTC, Marketplace, POS, Mobile app, ERP, PIM, Dynamic pricing, Subscription, Configurable products",
+    "url": "https://medusajs.com/experts",
+    "pass": 1
+   },
+   {
+    "quote": "B2B, DTC, Configurable products, Dynamic pricing, ERP, PIM",
+    "url": "https://medusajs.com/experts",
+    "pass": 1
+   },
+   {
+    "quote": "B2B, DTC, Marketplace, Subscription, Configurable products, Dynamic pricing, ERP, PIM, App development",
+    "url": "https://medusajs.com/experts",
+    "pass": 1
+   },
+   {
+    "quote": "Province Electric Supply",
+    "url": "https://medusajs.com/experts",
+    "pass": 1
+   },
+   {
+    "quote": "DTC, B2B, POS, Mobile app, Subscription, Services, Dynamic pricing, Configurable products, ERP, PIM",
+    "url": "https://medusajs.com/experts",
+    "pass": 1
+   },
+   {
+    "quote": "B2B, Dynamic pricing, Configurable products, ERP, PIM, Mobile app",
+    "url": "https://medusajs.com/experts",
+    "pass": 1
+   },
+   {
+    "quote": "DTC, Services, B2B, Subscription, ERP, PIM, Configurable products, Dynamic pricing",
+    "url": "https://medusajs.com/experts",
+    "pass": 1
+   },
+   {
+    "quote": "B2B, DTC, Subscription, Configurable products, Dynamic pricing, App development, ERP, PIM",
+    "url": "https://medusajs.com/experts",
+    "pass": 1
+   },
+   {
+    "quote": "DTC, Dynamic pricing, Configurable products",
+    "url": "https://medusajs.com/experts",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Set order reservations, streamline complex inventory handling, and keep stock in sync across warehouses.",
+    "url": "https://medusajs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "B2C automotive parts",
+    "url": "https://medusajs.com/experts",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive spare parts",
+    "url": "https://medusajs.com/experts",
+    "pass": 1
+   },
+   {
+    "quote": "B2B industrial supplies",
+    "url": "https://medusajs.com/experts",
+    "pass": 1
+   },
+   {
+    "quote": "The completed platform replaced Wipertech's legacy Craft Commerce implementation with a modern commerce architecture built specifically for automotive fitment. Customers now identify compatible products through vehicle-based search and compatibility tools, while internal teams manage inventory, content, orders, fitment data, and operations from one centralized platform.",
+    "url": "https://medusajs.com/blog/wipertech",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Building a Scalable B2B eCommerce Platform with MedusaJS | Inviggo",
+    "url": "https://www.inviggo.com/blog/building-a-scalable-b2b-ecommerce-platform-with-medusajs",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Building a Scalable B2B eCommerce Platform with MedusaJS",
+    "url": "https://www.inviggo.com/blog/building-a-scalable-b2b-ecommerce-platform-with-medusajs",
+    "pass": 3
+   },
+   {
+    "quote": "Plugin Case Study 1: GMO PG Payment Integration (Japan)",
+    "url": "https://closerworks.com/medusajs-plugin-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Plugin Case Study 2: CJ Logistics Fulfillment Sync (Korea)",
+    "url": "https://closerworks.com/medusajs-plugin-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Plugin Case Study 3: Tax Invoice Generator for HK / SG",
+    "url": "https://closerworks.com/medusajs-plugin-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Plugin Case Study #4: Sales Analytics Dashboard Extension",
+    "url": "https://closerworks.com/medusajs-plugin-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Plugin Case Study #5: Naver Pay Integration (Korea)",
+    "url": "https://closerworks.com/medusajs-plugin-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Building a Scalable B2B eCommerce Platform with MedusaJS - Inviggo case study | Techreviewer.co",
+    "url": "https://techreviewer.co/companies/inviggo/case-study-building-a-scalable-b2b-ecommerce-platform-with-medusajs",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Building a Scalable B2B eCommerce Platform with MedusaJS",
+    "url": "https://techreviewer.co/companies/inviggo/case-study-building-a-scalable-b2b-ecommerce-platform-with-medusajs",
+    "pass": 3
+   },
+   {
+    "quote": "Good Chef, a shock-frozen plant-based meal delivery service, needed a",
+    "url": "https://speardevs.com/blog/medusa-case-studies/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "80% cost savings with AI-powered email to-order flow",
+    "url": "https://medusajs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Medusa Search and Emails",
+    "url": "https://medusajs.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Built-in support for transactional emails",
+    "url": "https://medusajs.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "then $7 per 10,000 Emails",
+    "url": "https://medusajs.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": ". We’re continuously expanding regions, contact us to learn more about upcoming locations.",
+    "url": "https://medusajs.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "80% Cost Savings: AI-Powered Email Order Processing at INSPIRED Pet Nutrition",
+    "url": "https://medusajs.com/blog/category/user-stories",
+    "pass": 1
+   },
+   {
+    "quote": ". Promotions can vary by visit date, day of the week, or channel, while email-based usage limits restrict repeated redemption of partner codes.",
+    "url": "https://medusajs.com/blog/portaventura",
+    "pass": 1
+   },
+   {
+    "quote": "Failed renewals are recovered rather than written off. A failed charge moves the subscription to past-due and starts an automatic retry sequence of up to 5 attempts, with a marketing email at each step. A subscription recovered anywhere in that sequence returns to active on its original renewal date, so a card failure never pushes the billing schedule later.",
+    "url": "https://medusajs.com/blog/healthletic",
+    "pass": 1
+   },
+   {
+    "quote": "primarily serves B2B customers ordering custom printed canned beverages for events and brand activations. Their previous Shopify shop offered only standardized products, while custom orders required manual back-and-forth via email and phone to finalize designs, quantities, and delivery details.",
+    "url": "https://medusajs.com/blog/two-weeks-to-live-bloom",
+    "pass": 1
+   },
+   {
+    "quote": "console.log(`Order ${order.display_id} placed by ${order.customer.email}`);",
+    "url": "https://omomuki-tech.com/archives/1176",
+    "pass": 3
+   },
+   {
+    "quote": "Step-by-step e-mail notification",
+    "url": "https://www.inviggo.com/blog/building-a-scalable-b2b-ecommerce-platform-with-medusajs",
+    "pass": 3
+   },
+   {
+    "quote": ", ensuring a seamless checkout experience. The system includes order verification, email notifications for each step, and the ability to cancel orders when applicable.",
+    "url": "https://www.inviggo.com/blog/building-a-scalable-b2b-ecommerce-platform-with-medusajs",
+    "pass": 3
+   },
+   {
+    "quote": "In case you need more information contact us at office@inviggo.com",
+    "url": "https://www.inviggo.com/blog/building-a-scalable-b2b-ecommerce-platform-with-medusajs",
+    "pass": 3
+   },
+   {
+    "quote": "hello@closerworks.com",
+    "url": "https://closerworks.com/medusajs-plugin-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Step-by-step e-mail notification",
+    "url": "https://techreviewer.co/companies/inviggo/case-study-building-a-scalable-b2b-ecommerce-platform-with-medusajs",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Our infrastructure provider maintains GDPR-aligned controls and security certifications, which we leverage as part of our overall data protection approach. While we provide a compliant-by-design environment, you remain responsible for applying practices that meet the specific legal requirements of your jurisdiction. Learn more in our",
+    "url": "https://medusajs.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "PortAventura: +63% revenue with Medusa for hotel and ticket bookings",
+    "url": "https://medusajs.com/blog/category/user-stories",
+    "pass": 1
+   },
+   {
+    "quote": "PortAventura: +63% revenue with Medusa for hotel and ticket bookings",
+    "url": "https://medusajs.com/blog/materialbank",
+    "pass": 1
+   },
+   {
+    "quote": "Medusa - PortAventura: +63% revenue with Medusa for hotel and ticket bookings",
+    "url": "https://medusajs.com/blog/portaventura",
+    "pass": 1
+   },
+   {
+    "quote": "PortAventura: +63% revenue with Medusa for hotel and ticket bookings",
+    "url": "https://medusajs.com/blog/portaventura",
+    "pass": 1
+   },
+   {
+    "quote": ", a Medusa Expert partner, to bring those purchases together. Following the rebuild, PortAventura saw a 63% revenue uplift from the same traffic, alongside higher checkout conversion and order value.",
+    "url": "https://medusajs.com/blog/portaventura",
+    "pass": 1
+   },
+   {
+    "quote": "The unified checkout lets customers book tickets, hotel rooms, and extras together. Alongside the 63% revenue uplift, checkout conversion increased by 40% and average order value by 17%.",
+    "url": "https://medusajs.com/blog/portaventura",
+    "pass": 1
+   },
+   {
+    "quote": "is a D2C brand selling dietary supplements and wellness formulas as one-time purchases and recurring subscriptions. Yearly, the business draws 3.8M+ visitors, processes 240,000+ orders, and generates $24M+ in yearly GMV. It is live across six markets, with the US carrying roughly 70% of volume alongside the UK, Australia, Canada, South Korea, and France.",
+    "url": "https://medusajs.com/blog/healthletic",
+    "pass": 1
+   },
+   {
+    "quote": "A custom Medusa-Shopify sync plugin connects the two sides. Every order placed on the new storefront, including every renewal the subscription module charges, syncs automatically into Shopify. Healthletic's fulfillment, 3PL, and CommsLayer-based support tooling carry on working from the same order records as before, so no part of the operations layer had to be rebuilt to match the new platform.",
+    "url": "https://medusajs.com/blog/healthletic",
+    "pass": 1
+   },
+   {
+    "quote": "The wallets show up twice in the flow. PayPal, Apple Pay, and Google Pay sit at the very start of checkout, so a customer with wallet details saved can pay before typing anything. Anyone who scrolls past reaches the standard payment step, where the same three wallets appear again alongside card entry. On a hosted checkout, that arrangement is set by the provider.",
+    "url": "https://medusajs.com/blog/healthletic",
+    "pass": 1
+   },
+   {
+    "quote": "PortAventura: +63% revenue with Medusa for hotel and ticket bookings",
+    "url": "https://medusajs.com/blog/healthletic",
+    "pass": 1
+   },
+   {
+    "quote": "PortAventura: +63% revenue with Medusa for hotel and ticket bookings",
+    "url": "https://medusajs.com/blog/wipertech",
+    "pass": 1
+   },
+   {
+    "quote": "for obtaining company logos easily as part of the product configuration.",
+    "url": "https://medusajs.com/blog/two-weeks-to-live-bloom",
+    "pass": 1
+   },
+   {
+    "quote": "PortAventura: +63% revenue with Medusa for hotel and ticket bookings",
+    "url": "https://medusajs.com/blog/two-weeks-to-live-bloom",
+    "pass": 1
+   },
+   {
+    "quote": "Daily/weekly revenue by region, product, category",
+    "url": "https://closerworks.com/medusajs-plugin-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://closerworks.com/medusajs-plugin-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://closerworks.com/medusajs-plugin-case-studies/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Learn how Material Bank Japan transitioned to a fully localized commerce platform built with Medusa, enabling end-to-end workflows from design to order in minutes.",
+    "url": "https://medusajs.com/blog/materialbank",
+    "pass": 1
+   },
+   {
+    "quote": "is a global unicorn that has raised over $300M to transform how architects and designers source material samples. In 2023, Material Bank Japan, operated by DesignFuture Japan, launched a platform that now centralizes over 70,000 samples from 210 brands, all available with free overnight shipping nationwide.",
+    "url": "https://medusajs.com/blog/materialbank",
+    "pass": 1
+   },
+   {
+    "quote": "However, the Japanese market required more than a direct replication of HQ’s commerce experience. To meet the needs of customers ranging from small studios to some of Japan’s largest design firms, the local team needed full control over their tech stack and the agility to build commerce features tailored to their market.",
+    "url": "https://medusajs.com/blog/materialbank",
+    "pass": 1
+   },
+   {
+    "quote": "Before Medusa, Material Bank Japan operated within a globally managed commerce platform. The system’s performance and mobile experience limited flexibility, and integrations with their WMS and PIM required frequent maintenance. The Japanese team had no backend access, leaving them unable to localize or adapt the platform.",
+    "url": "https://medusajs.com/blog/materialbank",
+    "pass": 1
+   },
+   {
+    "quote": "Tech Lead at Material Bank Japan",
+    "url": "https://medusajs.com/blog/materialbank",
+    "pass": 1
+   },
+   {
+    "quote": "In early 2025, the Japanese team decided to migrate. Medusa’s open-source flexibility and",
+    "url": "https://medusajs.com/blog/materialbank",
+    "pass": 1
+   },
+   {
+    "quote": "The result was a full launch in just four months, delivering a highly customized platform that integrated seamlessly with all of Material Bank Japan’s existing tools.",
+    "url": "https://medusajs.com/blog/materialbank",
+    "pass": 1
+   },
+   {
+    "quote": "Material Bank Japan now runs on a platform designed entirely around the local market. With full operational autonomy, the team controls its roadmap end-to-end. Instead of waiting on global priorities, they can develop and iterate at their own pace to meet local needs, at the speed their market demands.",
+    "url": "https://medusajs.com/blog/materialbank",
+    "pass": 1
+   },
+   {
+    "quote": "With Medusa, the team built features tailored to the local Japanese design workflows. Below are some of the highlights:",
+    "url": "https://medusajs.com/blog/materialbank",
+    "pass": 1
+   },
+   {
+    "quote": "are handled through an integration with Japanese Money Forward. Contracts are uploaded as PDFs, parsed into Medusa for product and brand IDs, and then used to generate automated invoices for brand subscriptions and lead fees.",
+    "url": "https://medusajs.com/blog/materialbank",
+    "pass": 1
+   },
+   {
+    "quote": "Looking ahead, the team is already developing new capabilities, including an AI-powered agent to recommend products and assist designers throughout their workflow. With full control of their platform, they are free to keep experimenting, innovating, and shaping the future of design sourcing in Japan.",
+    "url": "https://medusajs.com/blog/materialbank",
+    "pass": 1
+   },
+   {
+    "quote": "Japanese Cosmetics Brand — Localized DTC",
+    "url": "https://closerworks.com/medusajs-plugin-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "—especially when entering localization-heavy markets like Japan, Korea, or Southeast Asia.",
+    "url": "https://closerworks.com/medusajs-plugin-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Plugin Case Study 1: GMO PG Payment Integration (Japan)",
+    "url": "https://closerworks.com/medusajs-plugin-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Client expanding into Japan required support for",
+    "url": "https://closerworks.com/medusajs-plugin-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Enabled launch in Japan with compliant payment support",
+    "url": "https://closerworks.com/medusajs-plugin-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Fashion brand scaling across Korea, Japan, and SEA",
+    "url": "https://closerworks.com/medusajs-plugin-case-studies/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "added another dimension. The same code could offer different discounts depending on the visit date or sales channel. Partner programmes such as Carnet Jove and DIA also needed their own validation and redemption rules.",
+    "url": "https://medusajs.com/blog/portaventura",
+    "pass": 1
+   },
+   {
+    "quote": ". If your brand is growing, localizing, or expanding into complex operations, custom plugins are the way to go.",
+    "url": "https://closerworks.com/medusajs-plugin-case-studies/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "VendureとMedusaの違い｜ライセンス・API・B2Bで比較【2026年10月】 — Sep 29, 2023 · 保守はコミュニティ主体になるため、決済連携の更新頻度は導入前にリポジトリで確認しておきます。 Medusaの @medusajs/payment-stripe はコアと同じ2.21.2で公開されており、版がそろっています。",
+    "url": "https://www.issoh.co.jp/tech/details/1500/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Building a Scalable B2B eCommerce Platform with ... — Discover how Inviggo built a scalable B2B eCommerce platform using MedusaJS, featuring multi-vendor support, custom order flows, Stripe integration, and dynamic translations to streamline complex business transactions.",
+    "url": "https://www.inviggo.com/blog/building-a-scalable-b2b-ecommerce-platform-with-medusajs",
+    "pass": 3
+   },
+   {
+    "quote": "MedusaJS Plugin Case Studies - closerworks.com — At CloserWorks, we’ve developed and deployed a range of MedusaJS plugins to help brands scale their operations, connect to local providers, and run region-specific commerce logic. In this post, we showcase real plugin case studies, what they solve, how they work, and the outcomes they deliver.",
+    "url": "https://closerworks.com/medusajs-plugin-case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Building a Scalable B2B eCommerce Platform with ... — May 20, 2025 · Solution MedusaJS – Chosen as the foundation for its robust eCommerce capabilities and high customizability, allowing us to tailor the order flow, invoicing, and vendor management to B2B needs. Next.js – Used for the buyer-facing frontend, ensuring fast performance and strong SEO optimization to improve product discov",
+    "url": "https://techreviewer.co/companies/inviggo/case-study-building-a-scalable-b2b-ecommerce-platform-with-medusajs",
+    "pass": 3
+   },
+   {
+    "quote": "Medusa - 2026 Company Profile, Team, Funding & Financials ...Medusa - Overview, News & Similar companies | ZoomInfo.comMedusa: Funding, Investors & Team (Nov 2026) | FundedIQMedusa - Crunchbase Company Profile & FundingMedusa Revenue, Funding & ValuationMedusa — investors & funding | gritt.io — Mar 4, 2026 · Medusa is a seed company based in Copenhagen (Denmark), founded in 2021 by Nicklas Gellner",
+    "url": "https://tracxn.com/d/companies/medusa/__7IddFo2gcgd2ttJ5VuvgBD736abnSTYDBdGPTso9_-g",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "次世代ECの標準「Medusa」とは？アーキテクチャからビジネスモデル、... May 18, 2026 · Medusa - Open-Source Commerce Platformu2028for Agents and Developers The most flexible commerce platform for agents and developers medusajs.com",
+    "url": "https://note.com/humble_bobcat51/n/nd84cf4010fc7",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Medusa (@medusajs) / X Medusa @medusajs the commerce platform for agents and developers medusajs.com Joined March 2021",
+    "url": "https://x.com/medusajs",
+    "pass": 3
+   },
+   {
+    "quote": "Medusa is an SDK for commerce. Our tools and modules run in ... Medusa (@medusajs). 65 likes. Medusa is an SDK for commerce. Our tools and modules run in new, modern environments and make it easy for developers to create unique experiences. Tomorrow we are shipping our biggest release yet. Read why we started Medusa here.",
+    "url": "https://x.com/medusajs/status/1642937343253393408",
+    "pass": 3
+   },
+   {
+    "quote": "Medusa on X: \"Our AI tooling now evolves with Medusa. Learn ... Learn how we use agents to turn Medusa docs updates into PRs for our skills and MCP instructions, ensuring our agent toolkit is always up to date. medusajs.com/blog/agentic-a…",
+    "url": "https://x.com/medusajs/status/2098136314553979236",
+    "pass": 3
+   },
+   {
+    "quote": "Medusa on X: \"Curious what Medusa Cloud has to offer? Explore ... Curious what Medusa Cloud has to offer? Explore the platform and features with our new public demo. demo.cloud.medusajs.com",
+    "url": "https://x.com/medusajs/status/2100200979823984806",
+    "pass": 3
+   },
+   {
+    "quote": "\"#MedusaJS\" - Results on X | Live Posts & Updates Results for \"#MedusaJS\" on X (Twitter). Find the latest posts, discussions, and updates about #MedusaJS. 20 results found.",
+    "url": "https://x.com/hashtag/MedusaJS",
+    "pass": 3
+   },
+   {
+    "quote": "Medusa (@medusajs) / X October'26 Newsletter The new Medusa MCP, three Core releases, new Cloud features, deep dives into Search and our own Claude setup, a new user story, 19 new community integrations, lots of highlights from our community, and more.",
+    "url": "https://x.com/medusajs",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Best MedusaJS Development Companies for Custom Ecommerce in 2026 Jul 14, 2026 · DIRECT ANSWER Elogic Commerce is the best overall MedusaJS development company in this ranking for custom ecommerce development, enterprise B2B, SAP or ERP integration, multi-country commerce, and ...",
+    "url": "https://www.linkedin.com/pulse/best-medusajs-development-companies-custom-ecommerce-2026-paul-okhrem-t5inf",
+    "pass": 3
+   },
+   {
+    "quote": "Kelvin Gevariya - Full-Stack Developer | MedusaJS & MercurJS ...Best MedusaJS Features | What Makes It Different? - LinkedInWhy MedusaJS is the Future of Headless Ecommerce - LinkedInMedusa - Newsletter Oct'26 | Medusa - LinkedInMedusa - Medusa v2.0 Release | Medusa - LinkedIn Full-Stack Developer | MedusaJS & MercurJS Headless Commerce Specialist | React · Next.js · Node · TypeScript · PostgreSQL",
+    "url": "https://in.linkedin.com/in/kelvin-gevariya",
+    "pass": 3
+   },
+   {
+    "quote": "Best MedusaJS Features | What Makes It Different? - LinkedIn Jan 31, 2026 · Discover the best MedusaJS features that make headless ecommerce simple and powerful for your business. Unlock Medusa ecommerce growth today!",
+    "url": "https://www.linkedin.com/pulse/best-medusajs-features-what-makes-different-tameta-tech-n1vif",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Medusa JS - Facebook Medusa JS is on Facebook. Join Facebook to connect with Medusa JS and others you may know. Facebook gives people the power to share and makes the world more open and connected.",
+    "url": "https://www.facebook.com/medusajs/photos/",
+    "pass": 3
+   },
+   {
+    "quote": "Cộng Đồng MedusaJS Việt Nam | Facebook Feb 27, 2025 · Cộng đồng dành cho những ai muốn học cách xây dựng website thương mại điện tử bằng MedusaJS hoàn toàn miễn phí, mã nguồn mở, và dễ mở rộng. Tại đây,...",
+    "url": "https://www.facebook.com/groups/830454199241821/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://medusajs.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://medusajs.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://medusajs.com/blog/category/user-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://medusajs.com/experts",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://medusajs.com/blog/category/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://medusajs.com/blog/materialbank",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://medusajs.com/blog/category/user-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://medusajs.com/blog/portaventura",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://medusajs.com/blog/healthletic",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://medusajs.com/blog/wipertech",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://medusajs.com/blog/two-weeks-to-live-bloom",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://medusajs.com/_next/image?url=https%3A%2F%2Fassets.medusajs.com%2Fcdn-cgi%2Fimage%2Fwidth%3D720%2Cheight%3D480%2Cquality%3D82%2Cformat%3Dauto%2Cfit%3Dcover%2Fuploads%2F2025%2F05%2Fodocar-medusa-partners-t0i9hmot.webp&w=1080&q=75",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.issoh.co.jp/tech/details/1500/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.issoh.co.jp/column/details/4372/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/humble_bobcat51/n/nd84cf4010fc7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://omomuki-tech.com/archives/1176",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%BF%E3%82%BF%E3%83%BB%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%82%BF%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%BB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B7%E3%82%BA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%82%B5%E3%83%A0%E3%82%B9%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.koaglobal.com/corporate/offices/distributors1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://medusajapan.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://medusajapan.net/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/medusajapan/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/medusajapan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.inviggo.com/blog/building-a-scalable-b2b-ecommerce-platform-with-medusajs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://closerworks.com/medusajs-plugin-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techreviewer.co/companies/inviggo/case-study-building-a-scalable-b2b-ecommerce-platform-with-medusajs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://speardevs.com/blog/medusa-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://upcloud.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/medusa",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/medusa/__7IddFo2gcgd2ttJ5VuvgBD736abnSTYDBdGPTso9_-g",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fundediq.co/medusa-medusajs-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/medusa-3e4d",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/humble_bobcat51/n/nd84cf4010fc7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/medusajs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/medusajs/status/1642937343253393408",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/medusajs/status/2098136314553979236",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/medusajs/status/2100200979823984806",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/best-medusajs-development-companies-custom-ecommerce-2026-paul-okhrem-t5inf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/kelvin-gevariya",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/best-medusajs-features-what-makes-different-tameta-tech-n1vif",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/medusajs/photos/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/830454199241821/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/MedusaJS",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/medusajs",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Medusajs 日本 導入",
+   "results": [
+    "https://www.issoh.co.jp/tech/details/1500/",
+    "https://www.issoh.co.jp/column/details/4372/",
+    "https://note.com/humble_bobcat51/n/nd84cf4010fc7",
+    "https://omomuki-tech.com/archives/1176",
+    "https://medusajs.com/",
+    "https://zenn.dev/trusthub/articles/e698e267ac846d",
+    "https://zenn.dev/ekoh/scraps/4985e911866076"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Medusajs 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/日本タタ・コンサルタンシー・サービシズ",
+    "https://ja.wikipedia.org/wiki/日本サムスン",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://medusajs.com/",
+    "https://biz.toyokeizai.net/data/service/detail/id=418",
+    "https://www.cosmobio.co.jp/agency/brevitycode.asp"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Medusajs Japan",
+   "results": [
+    "https://medusajapan.net/",
+    "https://medusajapan.net/ja",
+    "https://www.facebook.com/medusajapan/",
+    "https://www.linkedin.com/company/medusajapan",
+    "https://medusajs.com/",
+    "https://medusajs.com/cloud",
+    "https://cloud.medusajs.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Medusajs manufacturing customer case study",
+   "results": [
+    "https://www.inviggo.com/blog/building-a-scalable-b2b-ecommerce-platform-with-medusajs",
+    "https://closerworks.com/medusajs-plugin-case-studies/",
+    "https://techreviewer.co/companies/inviggo/case-study-building-a-scalable-b2b-ecommerce-platform-with-medusajs",
+    "https://speardevs.com/blog/medusa-case-studies/",
+    "https://kvytechnology.com/blog/software/medusa-js-success-stories/",
+    "https://medusajs.com/experts/rb2",
+    "https://medusajs.com/blog/tekla"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Medusajs white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://upcloud.com/partner-program/",
+    "https://www.thenationalcouncil.org/get-involved/partner-with-us/partnership-program/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.ninjaone.com/partner-program/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Medusajs founded funding employees revenue",
+   "results": [
+    "https://www.crunchbase.com/organization/medusa",
+    "https://tracxn.com/d/companies/medusa/__7IddFo2gcgd2ttJ5VuvgBD736abnSTYDBdGPTso9_-g",
+    "https://fundediq.co/medusa-medusajs-com-funding/",
+    "https://www.crunchbase.com/organization/medusa-3e4d",
+    "https://prospeo.io/c/medusa-revenue",
+    "https://www.gritt.io/company/medusajs/",
+    "https://www.zoominfo.com/c/medusajs-inc/566015085"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Medusajs",
+   "results": [
+    "https://note.com/tag/アジア大会",
+    "https://note.com/inokun/n/n7efa91c9eeb2",
+    "https://note.com/dashboard",
+    "https://note.com/humble_bobcat51/n/nd84cf4010fc7",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/ak_iii/n/n3ceb0a3f545d",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Medusajs",
+   "results": [
+    "https://x.com/medusajs",
+    "https://x.com/medusajs/status/1642937343253393408",
+    "https://x.com/medusajs/status/2098136314553979236",
+    "https://x.com/medusajs/status/2100200979823984806",
+    "https://x.com/medusajs/status/2102419264569520169",
+    "https://x.com/medusajs/status/2102419252934238341",
+    "https://x.com/medusajs/status/2082809757417583024"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Medusajs",
+   "results": [
+    "https://www.linkedin.com/company/medusajs",
+    "https://www.linkedin.com/pulse/best-medusajs-development-companies-custom-ecommerce-2026-paul-okhrem-t5inf",
+    "https://in.linkedin.com/in/kelvin-gevariya",
+    "https://www.linkedin.com/pulse/best-medusajs-features-what-makes-different-tameta-tech-n1vif",
+    "https://www.linkedin.com/pulse/why-medusajs-future-headless-ecommerce-tameta-tech-6yfof",
+    "https://www.linkedin.com/posts/medusajs_medusa-newsletter-oct26-activity-7523086861070913536-uPnJ",
+    "https://www.linkedin.com/posts/medusajs_medusa-v20-release-activity-7255266484938051584-V17e"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Medusajs",
+   "results": [
+    "https://www.facebook.com/medusajs/photos/",
+    "https://www.facebook.com/groups/830454199241821/",
+    "https://secure.facebook.com/login/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/agency.medusa/",
+    "https://www.facebook.com/groups/jobITDaNang/posts/2445777999176557/",
+    "https://www.facebook.com/dbotsoftware/photos/were-proud-to-announce-that-dbot-software-is-now-an-official-medusajs-expert-par/1122630136687638/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Medusajs note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://grokipedia.com/page/MedusaJS",
+    "https://note.com/k4medley",
+    "https://prtimes.jp/main/html/rd/p/000000075.000080389.html",
+    "https://medusajs.com/",
+    "https://docs.medusajs.com/cloud/emails"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Medusajs X 投稿",
+   "results": [
+    "https://x.com/hashtag/MedusaJS",
+    "https://x.com/medusajs",
+    "https://github.com/medusajs/medusa",
+    "https://medusajs.com/",
+    "https://github.com/medusajs",
+    "https://docs.medusajs.com/",
+    "https://docs.medusajs.com/cloud/emails"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式11頁／PDF・画像1件／外部36頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式11頁／PDF・画像1件／外部36頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式11頁／PDF・画像1件／外部36頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式11頁／PDF・画像1件／外部36頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式11頁／PDF・画像1件／外部36頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式11頁／PDF・画像1件／外部36頁・検索12回）"
+ }
+}

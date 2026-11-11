@@ -1,0 +1,640 @@
+{
+ "name": "株式会社協新製作所 本社",
+ "aliases": [],
+ "context": "ipros_all:多品種",
+ "researched_at": "2026-11-11T13:03:01.890773+00:00",
+ "official_url": "http://www.kyoshin-works.com",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役会長　菊地浩二 代表取締役社長　山口洋介",
+    "url": "https://www.kyoshin-works.com/company/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社 所在地",
+    "value": "〒350-0157 埼玉県比企郡川島町下伊草279-1",
+    "url": "https://www.kyoshin-works.com/company/",
+    "pass": 1
+   }
+  ],
+  "拠点": [
+   {
+    "label": "工場面積",
+    "value": "土地　2,182㎡　　建物　1,027㎡",
+    "url": "https://www.kyoshin-works.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "海外拠点",
+    "value": "上海魁新精密机械有限公司 〒200444 上海市宝山区园光路365-2幢一层 TEL : +86-21-64345177 / FAX : +86-21-64345199 URL : http://www.kyoshin-works.cn/",
+    "url": "https://www.kyoshin-works.com/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "精密機械業界向け部品製造、及び組立",
+    "url": "https://www.kyoshin-works.com/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "40名",
+    "url": "https://www.ipros.com/company/detail/2050188/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "しかし「良い機械を使えば良い製品が作れる」、という訳ではありません",
+    "url": "https://www.kyoshin-works.com/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの製品には、長年培った加工ノウハウの蓄積が活かされています",
+    "url": "https://www.kyoshin-works.com/",
+    "pass": 1
+   },
+   {
+    "quote": "しかし「良い機械を使えば良い製品が作れる」、",
+    "url": "https://www.kyoshin-works.com/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちの製品には、長年培った加工ノウハウの蓄積が",
+    "url": "https://www.kyoshin-works.com/",
+    "pass": 1
+   },
+   {
+    "quote": "また当社の加工範疇外の製品でも、協力会社のネットワークを駆使してワンストップで供給可能です",
+    "url": "https://www.kyoshin-works.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "今後も技術力と生産性の向上を進め、より一層お客様に価値ある製品・サービスを提供できるよう努めてまいります",
+    "url": "https://www.kyoshin-works.com/2026/04/13/business-innovation-plan/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス(1)",
+    "url": "https://www.ipros.com/company/detail/2050188/",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器（歯科、内視鏡、CT、MRIなど）、光学･計測･分析機器、半導体関連など、多岐にわたる業界の製品に使用されています",
+    "url": "https://www.ipros.com/company/detail/2050188/",
+    "pass": 3
+   },
+   {
+    "quote": "業務管理システムにより、材料から製品までロットでのトレーサビリティを管理しています",
+    "url": "https://www.ipros.com/company/detail/2050188/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (1)",
+    "url": "https://www.ipros.com/company/detail/2050188/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "材質・形状・精度など多種多様なワークの最適解を導きます",
+    "url": "https://www.kyoshin-works.com/",
+    "pass": 1
+   },
+   {
+    "quote": "駆使して、材質・形状・精度など多種多様なワークの",
+    "url": "https://www.kyoshin-works.com/",
+    "pass": 1
+   },
+   {
+    "quote": "強力な転造圧力を発揮しますので、展性のある材質なら対応可能です",
+    "url": "https://www.kyoshin-works.com/2025/12/01/nissei-comet-fa-5s/",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "独自の業務管理システムに加え、IoT稼働監視システム、協働型ロボット、AI外観検査システム、RPAなど、最新のシステムをいち早く取り入れてブラッシュアップしています",
+    "url": "https://www.kyoshin-works.com/",
+    "pass": 1
+   },
+   {
+    "quote": "独自の業務管理システムに加え、IoT稼働監視システム、協働型ロボット、AI外観検査システム、RPAなど、",
+    "url": "https://www.kyoshin-works.com/",
+    "pass": 1
+   },
+   {
+    "quote": "協働型ロボット1号機導入",
+    "url": "https://www.kyoshin-works.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ロボット仕様、",
+    "url": "https://www.kyoshin-works.com/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器（歯科、内視鏡、CT、MRIなど）、光学･計測･分析機器、半導体関連など、多岐にわたる業界の製品に使用されています",
+    "url": "https://www.ipros.com/company/detail/2050188/",
+    "pass": 3
+   },
+   {
+    "quote": "ISO9001、ISO14001に加え、医療機器向けのISO13485の国際認証を取得しています",
+    "url": "https://www.ipros.com/company/detail/2050188/",
+    "pass": 3
+   },
+   {
+    "quote": "IoT稼働監視システム、協働型ロボット、AI外観検査システム、RPAなど、",
+    "url": "https://www.ipros.com/company/detail/2050188/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "【新規設備導入】CNC三次元測定機 東京精密[DuraMax5/5/5]",
+    "url": "https://www.kyoshin-works.com/",
+    "pass": 1
+   },
+   {
+    "quote": "DuraMax5/5/5",
+    "url": "https://www.kyoshin-works.com/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "【新規設備導入】CNC三次元測定機 東京精密[DuraMax5/5/5]",
+    "url": "https://www.kyoshin-works.com/2026/04/13/business-innovation-plan/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社協新製作所 | 【新規設備導入】CNC三次元測定機 東京精密[DuraMax5/5/5] 2026年11月11日",
+    "url": "https://www.kyoshin-works.com/2026/02/02/cnc-duramax5-5-5/",
+    "pass": 1
+   },
+   {
+    "quote": "【新規設備導入】CNC三次元測定機 東京精密[DuraMax5/5/5]",
+    "url": "https://www.kyoshin-works.com/2026/02/02/cnc-duramax5-5-5/",
+    "pass": 1
+   },
+   {
+    "quote": "東京精密「ZEISS DuraMax5/5/5」",
+    "url": "https://www.kyoshin-works.com/2026/02/02/cnc-duramax5-5-5/",
+    "pass": 1
+   },
+   {
+    "quote": "【新規設備導入】CNC三次元測定機 東京精密[DuraMax5/5/5]",
+    "url": "https://www.kyoshin-works.com/2026/01/16/cnc-vmz-s3020/",
+    "pass": 1
+   },
+   {
+    "quote": "CAD･CAMやNC工作機械を駆使して精密機械向けの高精度切削加工部品を製造しています",
+    "url": "https://www.ipros.com/company/detail/2050188/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "試作、小ロットから",
+    "url": "https://www.kyoshin-works.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "また、独自の安全在庫管理システムによりフレキシブルな多品種少量生産体制を実現",
+    "url": "https://www.kyoshin-works.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "短納期の試作や数個単位の小ロットもお気軽にご相談ください",
+    "url": "https://www.kyoshin-works.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当社独自のフレキシブル生産体制により、短納期の試作も対応可能です",
+    "url": "https://www.kyoshin-works.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "トップレベルの精密部品加工技術で、試作・開発から量産まで、幅広いニーズにご対応します",
+    "url": "https://www.ipros.com/company/detail/2050188/",
+    "pass": 3
+   },
+   {
+    "quote": "多品種少量生産体制を整えており、短納期の試作から量産まで承ります",
+    "url": "https://www.ipros.com/company/detail/2050188/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.kyoshin-works.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoshin-works.com/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoshin-works.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoshin-works.com/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoshin-works.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoshin-works.com/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoshin-works.com/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoshin-works.com/2026/04/13/business-innovation-plan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoshin-works.com/2026/02/02/cnc-duramax5-5-5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoshin-works.com/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoshin-works.com/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoshin-works.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoshin-works.com/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoshin-works.com/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoshin-works.com/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoshin-works.com/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoshin-works.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoshin-works.com/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoshin-works.com/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoshin-works.com/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoshin-works.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoshin-works.com/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoshin-works.com/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoshin-works.com/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoshin-works.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoshin-works.com/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoshin-works.com/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoshin-works.com/2026/01/16/cnc-vmz-s3020/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoshin-works.com/2025/12/01/nissei-comet-fa-5s/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoshin-works.com/2025/11/28/shinmonodukuri2025/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.kyoshin-works.com/wp-content/uploads/Kyoshin_CP_2021.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.kyoshin-works.com/wp-content/uploads/kyoshin_CSR_A4.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+    "status": "error",
+    "method": ""
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mfg-hack.com/plastic/10134/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/company/482944/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seniorjob.jp/company-2422/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipros.com/company/detail/2050188/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipros.com/company/detail/2050188/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyoshin-mfg.co.jp/contact.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "協新製作所 本社 取扱製品 試作 小ロット",
+   "results": [
+    "https://injection-lab.com/technology/64-2.html",
+    "https://mfg-hack.com/plastic/10134/",
+    "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "https://www.ipros.com/company/detail/2050188/",
+    "https://www.youtube.com/watch?v=rL1D8Ah3h3g",
+    "https://www.kyoshin-works.com/business/",
+    "https://www.zen.co.jp/",
+    "https://kishimotokogyo.co.jp/archives/prototype/",
+    "https://san-ss.co.jp/service/plastickanagata/plasticseikeihin-ryousan",
+    "https://mono.ipros.com/company/detail/2050188/category/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "協新製作所 本社 会社概要 事業内容",
+   "results": [
+    "https://tenshoku.mynavi.jp/company/482944/",
+    "https://seniorjob.jp/company-2422/",
+    "https://www.ipros.com/company/detail/2050188/",
+    "https://www.kyoshin-works.com/company/",
+    "https://kyoshin.com/%E4%BC%81%E6%A5%AD%E6%83%85%E5%A0%B1/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/",
+    "https://www.r-agent.com/company/j5452/",
+    "https://tokigawashachu.com/kyosinseisakujo-hikigenkiup2023/",
+    "https://employment.en-japan.com/comp-81471/",
+    "https://www.bizreach.jp/companies/49325/",
+    "https://www.kyoshin-works.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "協新製作所 本社 お問い合わせ メール",
+   "results": [
+    "https://www.ipros.com/company/detail/2050188/",
+    "https://kyoshin-mfg.co.jp/contact.html",
+    "https://www.kyoshin-works.com/",
+    "https://kyoshin-tr.co.jp/contact/",
+    "https://www.kyosan.co.jp/inquiry/inquiry.html",
+    "https://www.sankyo-s-s.co.jp/contact/",
+    "https://www.h-kyoshin.co.jp/company/location/",
+    "https://kyoshin.com/%E4%BC%81%E6%A5%AD%E6%83%85%E5%A0%B1/%E4%BA%8B%E6%A5%AD%E6%89%80%E3%83%BB%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9/",
+    "https://www.sankyo-ss.co.jp/contact3.html",
+    "https://www.kyoshin-works.com/company/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com 協新製作所 本社",
+   "results": [
+    "https://note.com/bestat/n/n81d1669ef529",
+    "https://note.com/truck_rc/n/nb37929d1bc66",
+    "https://note.com/archnote/n/nefcc229ec501",
+    "https://note.com/gmf_plus/n/n0efd55823718",
+    "https://note.com/zakone/n/n0e7a25f74220",
+    "https://note.com/exportcontrol/n/nea2d0e52c0f9",
+    "https://note.com/petenshoku/n/n90ea69b8171f",
+    "https://note.com/bizgram/n/n5bde4d5402d1",
+    "https://note.com/murata_pr/n/nf9b36f33bf5f",
+    "https://note.com/kigyo_navi/n/n39f642d7185a"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 協新製作所 本社",
+   "results": [
+    "https://x.com/EBARA_OFFICIAL",
+    "https://x.com/nishiwaki_taka/status/1986619966226108651",
+    "https://x.com/TEKKOSHIMBUN",
+    "https://x.com/TANOI_official",
+    "https://x.com/AdobeJapan",
+    "https://x.com/luigi_jpn/article/2100528790161989729",
+    "https://x.com/nb_shinbun",
+    "https://x.com/An_Nahal_Inc",
+    "https://x.com/quickdisclosure/status/2053958509134545218",
+    "https://x.com/bimedia_web"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "site:linkedin.com 協新製作所 本社",
+   "results": [
+    "https://jp.linkedin.com/in/makoto1118",
+    "https://jp.linkedin.com/in/eren-tomikawa",
+    "https://jp.linkedin.com/company/%E6%97%A5%E6%96%B0%E9%9B%BB%E6%A9%9F%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://jp.linkedin.com/jobs/view/1795-2%E8%BC%AA%E8%BB%8A%E7%94%A8-%E9%9B%BB%E5%AD%90%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88%E8%A3%BD%E5%93%81%E3%81%B8%E3%81%AE%E9%87%8F%E7%94%A3%E3%83%A9%E3%82%A4%E3%83%B3%E6%A7%8B%E7%AF%89-%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93-%E6%A5%AD%E5%8B%99%E3%80%90%E5%AE%AE%E5%9F%8E%E3%80%91-at-astemo-ltd-4484298966",
+    "https://www.linkedin.com/in/yumika-murakami-4b083232a",
+    "https://jp.linkedin.com/jobs/view/%E7%94%9F%E7%94%A3%E6%8A%80%E8%A1%93dx%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%EF%BC%88%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%EF%BC%89%EF%BC%8F%E6%9D%B1%E4%BA%AC%E3%83%BB%E8%8C%A8%E5%9F%8E%E5%8B%A4%E5%8B%99%E3%80%90mn127%E3%80%91-at-hitachi-high-tech-corporation-4260780549",
+    "https://jp.linkedin.com/company/daiomfg",
+    "https://jp.linkedin.com/in/satoshitakagic2v/en",
+    "https://jp.linkedin.com/jobs/view/%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%83%9E%E3%83%BC%E3%82%B3%E3%83%A0%E6%8E%A8%E9%80%B2%EF%BC%88%E6%A5%AD%E5%8B%99%E6%A8%99%E6%BA%96%E5%8C%96%E3%83%BB%E5%9F%BA%E7%9B%A4%E4%BC%81%E7%94%BB%EF%BC%8F%E6%B5%B7%E5%A4%96%E6%8B%A0%E7%82%B9%E3%81%A8%E3%81%AE%E9%80%A3%E6%90%BA%E3%83%BB%E5%90%88%E6%84%8F%E5%BD%A2%E6%88%90-%EF%BC%8F%E4%B8%BB%E4%BB%BB%E3%83%BB%E6%8B%85%E5%BD%93%E3%82%AF%E3%83%A9%E3%82%B9%EF%BC%8F%E6%9D%B1%E4%BA%AC%E5%8B%A4%E5%8B%99%E3%80%90m862%E3%80%91-at-hitachi-high-tech-corporation-4480626218?position=39&pageNum=0&refId=AaPBNjbqoBSIKbYOOTnx0g%3D%3D&trackingId=QQX0YhPtQyuTTvJZuSC3AQ%3D%3D",
+    "https://jp.linkedin.com/in/yoko-k-771161143"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:facebook.com 協新製作所 本社",
+   "results": [
+    "https://www.facebook.com/city.komoro/posts/2026214%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-%E9%AB%98%E6%A9%8B%E8%A3%BD%E4%BD%9C%E6%89%80-%E6%9C%AC%E7%A4%BE%E5%B7%A5%E5%A0%B4%E7%AB%A3%E5%B7%A5%E5%BC%8F%E4%BA%95%E5%AD%90%E5%8C%BA%E7%B2%BE%E5%AF%86%E6%9D%BF%E9%87%91%E8%A3%BD%E7%BC%B6%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5%E3%82%92%E4%B8%80%E8%B2%AB%E3%81%97%E3%81%A6%E6%89%8B%E3%81%8C%E3%81%91%E3%82%8B%E9%AB%98%E6%A9%8B%E8%A3%BD%E4%BD%9C%E6%89%80%E6%A7%98%E3%81%AE%E6%96%B0%E5%B7%A5%E5%A0%B4%E7%AB%A3%E5%B7%A5%E5%BC%8F%E3%81%AB%E5%87%BA%E5%B8%AD%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E5%88%87%E6%96%AD%E3%82%84%E5%8E%9A%E6%9D%BF%E6%9B%B2%E3%81%92%E3%83%9E%E3%82%B7/932949779239914/",
+    "https://www.facebook.com/BystronicJapan/videos/%E6%9C%AC%E7%A4%BE%E3%82%B9%E3%82%A4%E3%82%B9%E5%B7%A5%E5%A0%B4%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%83%90%E3%82%A4%E3%82%B9%E3%83%88%E3%83%AD%E3%83%8B%E3%83%83%E3%82%AF%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%81%A7%E3%81%99%E4%BB%8A%E6%97%A5%E3%81%AF%E5%BD%93%E7%A4%BE%E3%83%95%E3%82%A1%E3%82%A4%E3%83%90%E3%83%BC%E3%83%AC%E3%83%BC%E3%82%B6%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%81%AE%E7%94%9F%E7%94%A3%E3%82%92%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%82%B9%E3%82%A4%E3%82%B9%E6%96%B0%E5%B7%A5%E5%A0%B4%E3%81%A7%E3%83%AC%E3%83%BC%E3%82%B6%E5%88%87%E6%96%AD%E6%A9%9F%E3%81%AE%E7%94%9F%E7%94%A3%E5%B7%A5%E7%A8%8B%E3%82%92%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99%E6%98%AF%E9%9D%9E%E3%81%94%E8%A6%A7/512140426455216/",
+    "https://www.facebook.com/murayamadenkiseisakusyo/?locale=ja_JP",
+    "https://www.facebook.com/groups/841161560618507/posts/2202106141190702/",
+    "https://www.facebook.com/hitachi.it/posts/%E6%97%A5%E7%AB%8B%E3%81%AE%E5%8D%94%E5%89%B5%E3%81%AE%E6%A3%AE%E3%82%92%E6%96%B0%E5%85%A5%E7%A4%BE%E5%93%A1%E3%81%8C%E4%BD%93%E9%A8%93%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E4%BB%8A%E5%B9%B4%E5%BA%A6%E3%82%82%E6%96%B0%E5%85%A5%E7%A4%BE%E5%93%A1%E3%81%8C%E4%B8%AD%E3%81%AE%E4%BA%BA%E3%81%AE%E9%83%A8%E7%BD%B2%E3%81%AB%E3%82%82%E9%85%8D%E5%B1%9E%E3%81%95%E3%82%8C%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E6%9C%9F%E5%BE%85%E3%81%AE%E6%96%B0%E5%85%A5%E7%A4%BE%E5%93%A1%E3%83%86%E3%83%AC%E3%83%AF%E3%83%BC%E3%82%AF%E3%81%AE%E3%81%9F%E3%82%81%E3%83%AA%E3%82%A2%E3%83%AB%E3%81%A7%E3%81%AF%E4%BC%9A%E3%81%A3%E3%81%A6%E3%81%8A%E3%82%89%E3%81%9A%E4%BC%9A%E8%A9%B1%E3%81%AE%E3%81%BF%E3%81%A7/4329042340490654/",
+    "https://www.facebook.com/hitachi.it/posts/%E6%97%A5%E7%AB%8B%E3%81%AEweb%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2digital-evolution-headline%E6%96%B0%E7%9D%80%E8%A8%98%E4%BA%8B%E7%B4%B9%E4%BB%8B%EF%B8%8F%E6%97%A5%E7%AB%8B%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%BD%E3%83%95%E3%83%88%E7%94%9F%E6%88%90ai%E3%81%A7%E5%A4%89%E3%82%8F%E3%82%8B%E5%B0%8F%E5%A3%B2%E3%81%AE%E6%9C%AA%E6%9D%A5%E5%BE%8C%E7%B7%A8%E9%A1%A7%E5%AE%A2%E4%BD%93%E9%A8%93%E3%81%A8%E5%83%8D%E3%81%8D%E6%96%B9%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B%E7%94%9F/951971906933829/",
+    "https://www.facebook.com/100068008845295/photos/%E5%8F%96%E5%BC%95%E5%85%88%E3%81%A8%E3%81%A8%E3%82%82%E3%81%AB%E3%83%9F%E3%83%8B%E5%A4%A7%E7%94%B0%E5%8C%BA%E3%82%92%E5%BD%A2%E6%88%90it%E3%82%92%E9%A7%86%E4%BD%BF%E3%81%97%E3%81%A6%E7%B5%8C%E5%96%B6%E3%81%AE%E5%8A%B9%E7%8E%87%E5%8C%96%E3%82%92%E5%9B%B3%E3%82%8A%E3%81%A4%E3%81%A4%E9%80%A3%E6%90%BA%E3%82%92%E5%BC%B7%E3%82%81%E3%82%8B%E4%BC%81%E6%A5%AD2010%E5%B9%B4%E7%89%88%E4%B8%AD%E5%B0%8F%E4%BC%81%E6%A5%AD%E7%99%BD%E6%9B%B8%E3%82%88%E3%82%8A-%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%A4%A7%E7%94%B0%E5%8C%BA%E3%81%AE%E5%B2%A1%E7%94%B0%E9%88%91%E9%87%91%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%BE%93%E6%A5%AD%E5%93%A159%E5%90%8D%E8%B3%87%E6%9C%AC%E9%87%91/522643847780359/",
+    "https://www.facebook.com/groups/207036717742683/posts/1707861060993567/",
+    "https://www.facebook.com/sokenss.co.jp/",
+    "https://www.facebook.com/yamada.ss/videos/%E5%B1%95%E7%A4%BA%E4%BC%9A%E9%A1%A7%E5%AE%A2%E3%81%AE%E8%A6%81%E6%B1%82%E3%82%92%E3%82%AB%E3%82%BF%E3%83%81%E3%81%AB%E3%81%99%E3%82%8B%E3%83%A2%E3%83%8E%E3%81%A5%E3%81%8F%E3%82%8A%E9%9B%86%E5%9B%A3%E3%83%A2%E3%83%8E%E3%81%A5%E3%81%8F%E3%82%8A%E4%BA%BA%E6%9D%90%E3%81%AE0%E3%81%8B%E3%82%89%E3%81%AE%E8%82%B2%E6%88%90%E6%8E%A1%E7%94%A8%E6%83%85%E5%A0%B1-%EF%B8%8F%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%8B%E3%82%89%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B%E4%B8%8B%E3%81%95%E3%81%84%E5%B1%B1%E7%94%B0%E8%A3%BD%E4%BD%9C%E6%89%80-%E3%82%B9%E3%83%86%E3%83%B3%E3%83%AC%E3%82%B9-%E9%89%84-%E7%94%A3%E6%A5%AD%E6%A9%9F%E6%A2%B0-%E8%A3%85%E7%BD%AE/27415968201346245/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "協新製作所 本社 note 社長",
+   "results": [
+    "https://www.ipros.com/company/detail/2050188/",
+    "https://www.kyoshin-works.com/2026/07/01/notice-of-change-in-representative-director-and-president/",
+    "https://note.com/ninkuboxx/n/n1cbad79b84a1",
+    "https://www.nikkan.co.jp/articles/view/156475",
+    "https://note.com/greinout2025/n/na080505d8582",
+    "https://tokigawashachu.com/kyosinseisakujo-hikigenkiup2023/",
+    "https://www.instagram.com/kyoshin_works/",
+    "https://www.youtube.com/watch?v=AedGQPR34fY",
+    "https://www.facebook.com/Kyoshinworks/",
+    "https://www.kyoshin-works.com/company/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "協新製作所 本社 X 投稿",
+   "results": [
+    "https://www.kyoshin-works.com/",
+    "https://www.ipros.com/company/detail/2050188/",
+    "https://www.facebook.com/Kyoshinworks/",
+    "https://www.instagram.com/kyoshin_works/",
+    "https://tokigawashachu.com/kyosinseisakujo-hikigenkiup2023/",
+    "https://www.youtube.com/watch?v=AedGQPR34fY",
+    "https://www.bic-akita.or.jp/guide/company/company_list/2886/",
+    "https://www.kyoshin-works.com/company/",
+    "https://kyoshin-tr.co.jp/category/blog/",
+    "https://kyoshin.com/企業情報/会社概要/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式30頁／PDF・画像3件／外部8頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式30頁／PDF・画像3件／外部8頁・検索9回）",
+  "連絡先": "記載なし（3回確認済み：公式30頁／PDF・画像3件／外部8頁・検索9回）"
+ }
+}

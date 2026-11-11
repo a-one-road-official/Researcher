@@ -1,0 +1,481 @@
+{
+ "name": "株式会社田中鉄工所 営業部",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T13:32:07.731449+00:00",
+ "official_url": "http://www.tanaka-iron.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒651-2124　兵庫県神戸市西区伊川谷町潤和1103-1",
+    "url": "https://tanaka-iron.com/company/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役　田中祥靖",
+    "url": "https://tanaka-iron.com/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "48名（2026年6月現在）",
+    "url": "https://tanaka-iron.com/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "産業用ロボット・医療機器・原子力・航空機などの 精密部品の切削加工",
+    "url": "https://tanaka-iron.com/company/",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先 （順不同）",
+    "value": "川崎重工業株式会社、シスメックス株式会社、シスメックスRA株式会社、三菱重工業株式会社、三菱電機プラントエンジニアリング株式会社、カワサキロボットサービス株式会社",
+    "url": "https://tanaka-iron.com/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱材料": [
+   {
+    "quote": "最新の5軸マシニングセンタをはじめとする高性能の精密加工設備と、長年にわたり培ってきた職人技を駆使し、チタン・ステンレスなどの難削材や、薄物プレートの高精度加工にも対応します",
+    "url": "https://tanaka-iron.com/",
+    "pass": 1
+   },
+   {
+    "quote": "チタン・ステンレスなどの難削材や、薄物プレートの高精度加工にも対応",
+    "url": "https://tanaka-iron.com/about/",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "汎用品の量産、複雑形状の加工品、1つだけの試作品にも柔軟に対応します",
+    "url": "https://tanaka-iron.com/",
+    "pass": 1
+   },
+   {
+    "quote": "汎用品の量産、複雑形状の加工品、1つだけの試作品にも柔軟に対応します",
+    "url": "https://tanaka-iron.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "汎用品の量産、複雑形状の加工品、1つだけの試作品にも柔軟に対応します",
+    "url": "https://tanaka-iron.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "長年にわたり培われてきた職人技と先進技術を融合し、汎用品の量産、複雑形状の加工品、1つだけの試作品にも柔軟に対応します",
+    "url": "https://tanaka-iron.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "汎用品の量産、複雑形状の加工品、1つだけの試作品にも柔軟に対応します",
+    "url": "https://tanaka-iron.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "汎用品の量産、複雑形状の加工品、1つだけの試作品にも柔軟に対応します",
+    "url": "https://tanaka-iron.com/facilities-and-technology/",
+    "pass": 1
+   },
+   {
+    "quote": "汎用品の量産、複雑形状の加工品、1つだけの試作品にも柔軟に対応します",
+    "url": "https://tanaka-iron.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "汎用品の量産、複雑形状の加工品、1つだけの試作品にも柔軟に対応します",
+    "url": "https://tanaka-iron.com/news/post-2578/",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "産業用ロボットや医療機器をはじめ、先進分野で求められる精密加工において、",
+    "url": "https://tanaka-iron.com/",
+    "pass": 1
+   },
+   {
+    "quote": "産業用ロボットや医療機器をはじめ、先進分野で求められる精密加工において、",
+    "url": "https://tanaka-iron.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置をはじめとする、生産現場で使用される、産業用ロボットの部品を製造しています",
+    "url": "https://tanaka-iron.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "ウエハ搬送ロボット(ハンド周辺・アーム・ハウジングなど)の部品",
+    "url": "https://tanaka-iron.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "血液検査や手術支援ロボットなど、医療現場を支える機器の関連部品を製造しています",
+    "url": "https://tanaka-iron.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "血球計数検査機器の部品、手術支援ロボット(hinotori)の部品",
+    "url": "https://tanaka-iron.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "日本が抱える課題の一つである、原子炉の廃炉作業に関わるロボットの部品を製造しています",
+    "url": "https://tanaka-iron.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "原子炉内検査ロボットやデブリ採取ロボットなどの部品",
+    "url": "https://tanaka-iron.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "創業当時から手掛けてきた航空機関連分野のノウハウを活かし、船・航空機の機能を支える部品を製造しています",
+    "url": "https://tanaka-iron.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "産業用ロボット・医療機器などの部品製造を中心に",
+    "url": "https://tanaka-iron.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "産業用ロボット・医療機器・原子力・航空機などの",
+    "url": "https://tanaka-iron.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "川崎重工業株式会社、シスメックス株式会社、シスメックスRA株式会社、三菱重工業株式会社、三菱電機プラントエンジニアリング株式会社、カワサキロボットサービス株式会社",
+    "url": "https://tanaka-iron.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "航空機の主脚づくりからスタートした田中鉄工所",
+    "url": "https://tanaka-iron.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "航空機の部品づくりに始まり、難易度の高い精密加工の要求に確実にお応えし、大手の重工業メーカーや医療機器メーカーから厚い信頼を得てきました",
+    "url": "https://tanaka-iron.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Kawasaki 6軸協働ロボット",
+    "url": "https://tanaka-iron.com/facilities-and-technology/",
+    "pass": 1
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "また生産活動においても一貫した高水準の製品を提供することによって、",
+    "url": "https://tanaka-iron.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "経験豊富な技術者による徹底した品質測定で高品質な製品づくりを実現",
+    "url": "https://tanaka-iron.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "2019年に、こうべ産業・就労支援財団により、国内トップレベルの技術や製品づくりを行う企業として認定されました",
+    "url": "https://tanaka-iron.com/facilities-and-technology/",
+    "pass": 1
+   },
+   {
+    "quote": "営業をサポートする事務スタッフをはじめ、製品作りの現場でも女性が活躍しています",
+    "url": "https://tanaka-iron.com/recruit/",
+    "pass": 1
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "MAM72-25V",
+    "url": "https://tanaka-iron.com/facilities-and-technology/",
+    "pass": 1
+   },
+   {
+    "quote": "MAM72-35V",
+    "url": "https://tanaka-iron.com/facilities-and-technology/",
+    "pass": 1
+   },
+   {
+    "quote": "MAM72-52V",
+    "url": "https://tanaka-iron.com/facilities-and-technology/",
+    "pass": 1
+   },
+   {
+    "quote": "MAM72-42V",
+    "url": "https://tanaka-iron.com/facilities-and-technology/",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://tanaka-iron.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tanaka-iron.com/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tanaka-iron.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tanaka-iron.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tanaka-iron.com/facilities-and-technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tanaka-iron.com/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tanaka-iron.com/news/post-2578/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tanaka-iron.com/facilities-and-technology/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://tanaka-iron.com/cms/wp-content/themes/original/dist/images/footer/img-calendar.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://tanaka-iron.com/cms/wp-content/uploads/2026/08/e4252cdf00cb241d150e61c906c208aa.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.tanaka-tk.jp/service",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.tanaka-tk.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tanakairon.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tanaka-tk.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tanaka-tk.co.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tanakaironworks.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ta-tetsu.com/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://tnkiw.co.jp/contact/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://tanaka-tk.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "田中鉄工所 営業部 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.tanaka-tk.jp/service",
+    "https://www.tanaka-tk.jp/",
+    "https://tanakairon.net/",
+    "https://tanaka-iron.com/",
+    "https://mono.ipros.com/company/detail/63473/category/",
+    "https://www.tanaka-seimitsu.com/index.html",
+    "https://mono.ipros.com/company/detail/63473/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "田中鉄工所 営業部 会社概要 事業内容",
+   "results": [
+    "https://tanaka-tk.co.jp/",
+    "https://tanaka-tk.co.jp/business/",
+    "https://tanakaironworks.com/company/",
+    "https://www.tanateku.co.jp/company",
+    "https://tanaka-t.com/pages/19/",
+    "https://tanaka-t.com/",
+    "https://tanaka-iron-works.com/company/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "田中鉄工所 営業部 お問い合わせ メール",
+   "results": [
+    "https://www.ta-tetsu.com/お問い合わせ/",
+    "http://tnkiw.co.jp/contact/",
+    "https://tanaka-tk.co.jp/contact/",
+    "https://tanaka-t.com/pages/5/",
+    "https://tanakaironworks.com/contact/",
+    "https://www.tanateku.co.jp/contact",
+    "https://tanakatk.com/contact"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 田中鉄工所 営業部",
+   "results": [
+    "https://note.com/builds_official/n/n5e5c66556a13",
+    "https://note.com/acrovehr/n/ne271c091ea05",
+    "https://note.com/lina45",
+    "https://note.com/lina45/n/ne05e39069e47",
+    "https://tales.note.com/neko_and8284/wjcsrfkokt7d3",
+    "https://note.com/note_precal/n/n02b4457be375",
+    "https://note.com/atech_recruit/n/nb7ff77b27db8"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 田中鉄工所 営業部",
+   "results": [
+    "https://x.com/lasercut_jp",
+    "https://x.com/threee_sales",
+    "https://x.com/threee_sales/status/2100869408977715200",
+    "https://x.com/singlem_atotugi",
+    "https://x.com/ujontaka/status/2093080657237057746",
+    "https://x.com/baw_peca/status/2111698799899132012",
+    "https://x.com/tanaka_kgs"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 田中鉄工所 営業部",
+   "results": [
+    "https://jp.linkedin.com/in/toshi-furuie-54938b47",
+    "https://jp.linkedin.com/in/いちろう-たなか-3884092aa",
+    "https://www.linkedin.com/in/ktokusei",
+    "https://www.linkedin.com/pub/dir/清貴/田中",
+    "https://jp.linkedin.com/in/貴之-田中-82522baa",
+    "https://jp.linkedin.com/company/（株）田中鉄工所",
+    "https://jp.linkedin.com/in/就-田中-a97097310"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 田中鉄工所 営業部",
+   "results": [
+    "https://www.facebook.com/kajiyakousaku/",
+    "https://www.facebook.com/people/株式会社-田中鉄工所/100084438502485/",
+    "https://www.facebook.com/laser.cut.co.jp/about/",
+    "https://www.facebook.com/tanakayasuco/",
+    "https://www.facebook.com/laser.cut.co.jp/posts/紹介していただきました地元はもちろんもっと広く知っていただけるよう頑張りますレーザー加工レーザー加工機川口金属加工レーザーマーカーレーザー刻印川口機械組合川口信/324404249156255/",
+    "https://www.facebook.com/p/田中鉄工株-100066528494865/",
+    "https://www.facebook.com/Tanaka.Geological.Co/posts/1193089278567352/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "田中鉄工所 営業部 note 社長",
+   "results": [
+    "https://tanaka-tk.co.jp/company-profile/",
+    "https://tanakairon.net/",
+    "https://note.com/lina45",
+    "https://note.com/lina45/n/ne05e39069e47",
+    "https://tanaka-iron.com/recruit/interview/interview-165/",
+    "https://tanaka-iron-works.com/news/1986/",
+    "https://tanaka-iron-works.com/news/1879/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "田中鉄工所 営業部 X 投稿",
+   "results": [
+    "https://tanakairon.net/",
+    "https://x.com/lasercut_jp",
+    "https://tanaka-tk.co.jp/",
+    "https://tanaka-iron.com/recruit/interview/interview-165/",
+    "https://x.com/kinkatonn/status/2120261970511401205",
+    "https://tanaka-iron-works.com/",
+    "https://tanaka-t.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式8頁／PDF・画像2件／外部9頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式8頁／PDF・画像2件／外部9頁・検索9回）",
+  "連絡先": "記載なし（3回確認済み：公式8頁／PDF・画像2件／外部9頁・検索9回）"
+ }
+}

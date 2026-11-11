@@ -1,0 +1,842 @@
+{
+ "name": "Nextmv",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜未接触",
+ "researched_at": "2026-11-11T13:27:57.848739+00:00",
+ "official_url": "https://nextmv.io",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "A third-party browser plugin, such as Ghostery or NoScript, is preventing JavaScript from running.",
+    "url": "https://www.fico.com/platform/decisionops",
+    "pass": 1
+   },
+   {
+    "quote": "⌛️ Approximate time to complete: 20 min.",
+    "url": "https://docs.nextmv.io/learn/tutorials/bring-your-model-cli/",
+    "pass": 3
+   },
+   {
+    "quote": "Have a pre-existing decision model and you want to explore the Nextmv",
+    "url": "https://docs.nextmv.io/learn/tutorials/bring-your-model-cli/",
+    "pass": 3
+   },
+   {
+    "quote": "Are fluent using a language of your preference, such as C++, Java, Python, etc.",
+    "url": "https://docs.nextmv.io/learn/tutorials/bring-your-model-cli/",
+    "pass": 3
+   },
+   {
+    "quote": "principle that they are not Nextmv-created decision models. You can, and",
+    "url": "https://docs.nextmv.io/learn/tutorials/bring-your-model-cli/",
+    "pass": 3
+   },
+   {
+    "quote": "Sudoku authored by FICO® Xpress in Python",
+    "url": "https://docs.nextmv.io/learn/tutorials/bring-your-model-cli/",
+    "pass": 3
+   },
+   {
+    "quote": "Simple LP problem authored by HiGHS in C++",
+    "url": "https://docs.nextmv.io/learn/tutorials/bring-your-model-cli/",
+    "pass": 3
+   },
+   {
+    "quote": "Vehicle Routing Problem with Pickups and Deliveries authored by OR-Tools in",
+    "url": "https://docs.nextmv.io/learn/tutorials/bring-your-model-cli/",
+    "pass": 3
+   },
+   {
+    "quote": "1. Prepare the executable code",
+    "url": "https://docs.nextmv.io/learn/tutorials/bring-your-model-cli/",
+    "pass": 3
+   },
+   {
+    "quote": "problem. Copy the desired example code to a script named:",
+    "url": "https://docs.nextmv.io/learn/tutorials/bring-your-model-cli/",
+    "pass": 3
+   },
+   {
+    "quote": "for the Xpress example.",
+    "url": "https://docs.nextmv.io/learn/tutorials/bring-your-model-cli/",
+    "pass": 3
+   },
+   {
+    "quote": "// HiGHS is designed to solve linear optimization problems of the form",
+    "url": "https://docs.nextmv.io/learn/tutorials/bring-your-model-cli/",
+    "pass": 3
+   },
+   {
+    "quote": "// The matrix A is represented in packed vector form, either",
+    "url": "https://docs.nextmv.io/learn/tutorials/bring-your-model-cli/",
+    "pass": 3
+   },
+   {
+    "quote": "// The matrix Q is represented in packed column form",
+    "url": "https://docs.nextmv.io/learn/tutorials/bring-your-model-cli/",
+    "pass": 3
+   },
+   {
+    "quote": "// Although the first constraint could be expressed as an upper",
+    "url": "https://docs.nextmv.io/learn/tutorials/bring-your-model-cli/",
+    "pass": 3
+   },
+   {
+    "quote": "\"Primal solution status: \"",
+    "url": "https://docs.nextmv.io/learn/tutorials/bring-your-model-cli/",
+    "pass": 3
+   },
+   {
+    "quote": "primal_solution_status",
+    "url": "https://docs.nextmv.io/learn/tutorials/bring-your-model-cli/",
+    "pass": 3
+   },
+   {
+    "quote": "// Report the primal and solution values and basis",
+    "url": "https://docs.nextmv.io/learn/tutorials/bring-your-model-cli/",
+    "pass": 3
+   },
+   {
+    "quote": "// Report the primal solution values",
+    "url": "https://docs.nextmv.io/learn/tutorials/bring-your-model-cli/",
+    "pass": 3
+   },
+   {
+    "quote": "/** Minimal Pickup & Delivery Problem (PDP).*/",
+    "url": "https://docs.nextmv.io/learn/tutorials/bring-your-model-cli/",
+    "pass": 3
+   },
+   {
+    "quote": "/// @brief Print the solution.",
+    "url": "https://docs.nextmv.io/learn/tutorials/bring-your-model-cli/",
+    "pass": 3
+   },
+   {
+    "quote": "// Instantiate the data problem.",
+    "url": "https://docs.nextmv.io/learn/tutorials/bring-your-model-cli/",
+    "pass": 3
+   },
+   {
+    "quote": "// Solve the problem.",
+    "url": "https://docs.nextmv.io/learn/tutorials/bring-your-model-cli/",
+    "pass": 3
+   },
+   {
+    "quote": "// Print solution on console.",
+    "url": "https://docs.nextmv.io/learn/tutorials/bring-your-model-cli/",
+    "pass": 3
+   },
+   {
+    "quote": "2.1. Xpress",
+    "url": "https://docs.nextmv.io/learn/tutorials/bring-your-model-cli/",
+    "pass": 3
+   },
+   {
+    "quote": "command in the root of your project.",
+    "url": "https://docs.nextmv.io/learn/tutorials/bring-your-model-cli/",
+    "pass": 3
+   },
+   {
+    "quote": "Highly Qualified Leads a month",
+    "url": "https://dmtcorp.io/case-studies/nextmv",
+    "pass": 3
+   },
+   {
+    "quote": "1) Defining a Clear Ideal Customer Profile (ICP)",
+    "url": "https://dmtcorp.io/case-studies/nextmv",
+    "pass": 3
+   },
+   {
+    "quote": "With use cases ranging from route optimization to supply chain decision-making, pinpointing the most profitable and accessible market segment was difficult. Nextmv’s value proposition was relevant across many niches, but broad targeting risked be too generic to be relevant.",
+    "url": "https://dmtcorp.io/case-studies/nextmv",
+    "pass": 3
+   },
+   {
+    "quote": "2) Scaling Lead Generation Across Industries",
+    "url": "https://dmtcorp.io/case-studies/nextmv",
+    "pass": 3
+   },
+   {
+    "quote": "Nextmv wanted to expand its market presence in logistics, retail, and delivery sectors - but lacked the in-house capacity to conduct deep market and lead research at scale, while also being able to find relevant signals to make the outreach more precise.",
+    "url": "https://dmtcorp.io/case-studies/nextmv",
+    "pass": 3
+   },
+   {
+    "quote": "3) Prioritizing the Right Decision-Makers",
+    "url": "https://dmtcorp.io/case-studies/nextmv",
+    "pass": 3
+   },
+   {
+    "quote": "Identifying who within a company holds purchasing influence for DecisionOps tools is complex - job titles vary widely between industries, from Operations Managers to AI Engineering Leads.",
+    "url": "https://dmtcorp.io/case-studies/nextmv",
+    "pass": 3
+   },
+   {
+    "quote": "DMT Business Development team joined the outbound team and was focused on designing research and signal identification strategies to help Nextmv quickly find, validate, and eventually reach out to the relevant prospects.",
+    "url": "https://dmtcorp.io/case-studies/nextmv",
+    "pass": 3
+   },
+   {
+    "quote": "We held multiple collaborative sessions with Nextmv’s sales and marketing team to align on a refined ICP, balancing industry breadth with high-conversion potential niches.",
+    "url": "https://dmtcorp.io/case-studies/nextmv",
+    "pass": 3
+   },
+   {
+    "quote": "2,500+ Highly Qualified Leads a month - verified contacts across multiple geographies and industries.",
+    "url": "https://dmtcorp.io/case-studies/nextmv",
+    "pass": 3
+   },
+   {
+    "quote": "Shortened Sales Cycle - by providing sales teams with ready-to-use, segmented lead lists, they decreased lead-to-deal time by 23%.",
+    "url": "https://dmtcorp.io/case-studies/nextmv",
+    "pass": 3
+   },
+   {
+    "quote": "highly qualified leads a month",
+    "url": "https://dmtcorp.io/case-studies/nextmv",
+    "pass": 3
+   },
+   {
+    "quote": "This project equipped Nextmv with",
+    "url": "https://dmtcorp.io/case-studies/nextmv",
+    "pass": 3
+   },
+   {
+    "quote": ". The database became the foundation for targeted email campaigns, outbound calls, and strategic account-based marketing efforts-ultimately increasing the client’s",
+    "url": "https://dmtcorp.io/case-studies/nextmv",
+    "pass": 3
+   },
+   {
+    "quote": "Multi-industry prospect mapping",
+    "url": "https://dmtcorp.io/case-studies/nextmv",
+    "pass": 3
+   },
+   {
+    "quote": "Elevate your lead generation strategy and join industry leaders who’ve unlocked unparalleled growth.",
+    "url": "https://dmtcorp.io/case-studies/nextmv",
+    "pass": 3
+   },
+   {
+    "quote": "Request a Project Plan",
+    "url": "https://dmtcorp.io/case-studies/nextmv",
+    "pass": 3
+   },
+   {
+    "quote": "And yet, the process involved in achieving resource optimization, efficiency and making truly data-driven decisions is laborious to say the least, and usually involves an immense amount of talent and resources.",
+    "url": "https://techcrunch.com/2020/05/07/nextmv-picks-up-2-7m-to-optimize-and-test-decision-models-for-the-logistics-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "The YC-backed company, led by Carolyn Mooney and Ryan O’Neil, recently raised a $2.7 million seed round from FirstMark Capital and Dynamo, with participation from XFactor, Atypical and 2048. The premise is to provide developer-friendly building blocks for optimizing decision models and testing them, with a specific focus on the logistics operations industry.",
+    "url": "https://techcrunch.com/2020/05/07/nextmv-picks-up-2-7m-to-optimize-and-test-decision-models-for-the-logistics-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "Nextmv developed Hop to allow businesses to optimize their decision models, ensuring that the combination of business rules involved in their operation is as aligned as it can possibly be with their overall goals and value proposition. It allows developers to look at all the different configurations of business rules possible, and find the right combination that fits their problem.",
+    "url": "https://techcrunch.com/2020/05/07/nextmv-picks-up-2-7m-to-optimize-and-test-decision-models-for-the-logistics-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "Let’s use packing a truck as an example. There may be hundreds of business rules around the way that a delivery truck should be packed based on optimizing mileage and fuel usage and which products should be packed above or below others, and the list goes on and on. Even with all those rules, there may be millions of possibly configurations of how the truck should be packed.",
+    "url": "https://techcrunch.com/2020/05/07/nextmv-picks-up-2-7m-to-optimize-and-test-decision-models-for-the-logistics-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "Alongside Hop, nextmv has also developed a product called Dash. Dash is a simulation framework that lets developers test their models in a real-world situation without the same real-world costs. Essentially, developers can test their decision models just like they test the software itself.",
+    "url": "https://techcrunch.com/2020/05/07/nextmv-picks-up-2-7m-to-optimize-and-test-decision-models-for-the-logistics-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "https://techcrunch.com/wp-content/uploads/2020/05/Dash-Visual.mp4",
+    "url": "https://techcrunch.com/2020/05/07/nextmv-picks-up-2-7m-to-optimize-and-test-decision-models-for-the-logistics-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "Nextmv charges on a per-seat basis but is not yet sharing pricing publicly.",
+    "url": "https://techcrunch.com/2020/05/07/nextmv-picks-up-2-7m-to-optimize-and-test-decision-models-for-the-logistics-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/nextmv.io",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/nextmv.io",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Nextmv — Nextmv is a platform that provides a DecisionOps workflow for efficient model validation and management, a model marketplace for specific use cases, and connections into the vast decision technology ecosystem.",
+    "url": "https://www.nextmv.io/",
+    "pass": 3
+   },
+   {
+    "quote": "4. Connect Your Model – CLI - Nextmv Docs — A tutorial to explore the Nextmv Platform using a custom decision model and the CLI.",
+    "url": "https://docs.nextmv.io/learn/tutorials/bring-your-model-cli/",
+    "pass": 3
+   },
+   {
+    "quote": "Decision optimization solutions for routing ... - Nextmv — Create your own Nextmv can run custom decision models. Reach out to us to learn more about what you can create and manage with Nextmv.",
+    "url": "https://www.nextmv.io/apps",
+    "pass": 3
+   },
+   {
+    "quote": "www.nextmv.com — www.nextmv.com",
+    "url": "https://www.nextmv.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Decision optimization solutions for routing ... - Nextmv — Build custom, domain-specific decision services faster with Nextmv. Create custom constraints and value functions, or try a pre-built app. Dispatch people, products, and services from one location to another — from food delivery to ride sharing, and more.",
+    "url": "https://www.nextmv.io/apps",
+    "pass": 3
+   },
+   {
+    "quote": "Nextmv - LinkedIn — Nextmv, now part of FICO, is a DecisionOps platform that accelerates optimization AI teams with tools for deployment, testing, CI/CD, collaboration, and management of decision models.",
+    "url": "https://www.linkedin.com/company/nextmv",
+    "pass": 3
+   },
+   {
+    "quote": "Overview - Nextmv Docs — The Nextmv platform accelerates teams with DecisionOps developer tooling, optimization integrations, collaboration workspaces, and decision app quickstarts. New to Nextmv? Learn about Nextmv with tutorials to get you up and running and explanations about all features of the platform.",
+    "url": "https://docs.nextmv.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer story - Nextmv — How Grubhub’s data science team uses Nextmv to accelerate model development, ship models as microservices, and build trust with business users.",
+    "url": "https://www.nextmv.io/category/customer-story",
+    "pass": 3
+   },
+   {
+    "quote": "Route planning, logistics, optimization API & SDK | Nextmv — Nextmv is a platform that provides a DecisionOps workflow for efficient model validation and management, a model marketplace for specific use cases, and connections into the vast decision technology ecosystem.",
+    "url": "https://www.nextmv.io/",
+    "pass": 3
+   },
+   {
+    "quote": "Expanding Nextmv’s Market Reach with Targeted Lead Research — Discover how Nextmv gained 2,500+ qualified leads monthly through ICP refinement, industry research, and precise decision-maker targeting.",
+    "url": "https://dmtcorp.io/case-studies/nextmv",
+    "pass": 3
+   },
+   {
+    "quote": "nextmv picks up $2.7M to optimize and test decision models ... — May 7, 2020 · Nextmv developed Hop to allow businesses to optimize their decision models, ensuring that the combination of business rules involved in their operation is as aligned as it can possibly be with...",
+    "url": "https://techcrunch.com/2020/05/07/nextmv-picks-up-2-7m-to-optimize-and-test-decision-models-for-the-logistics-industry/",
+    "pass": 3
+   },
+   {
+    "quote": "SalesNash × Nextmv: Powering Nextmv's Reach with Targeted ... — Concentrating on logistics, retail, and delivery industries, we aimed to connect Nextmv with potential clients who could benefit from their innovative platform. Determining the ideal customer profile was tough because Nextmv’s platform is used in many different industries.",
+    "url": "https://www.vendry.io/case-study/powering-nextmvs-reach-with-targeted-research-159565",
+    "pass": 3
+   },
+   {
+    "quote": "Nextmv – Competitor List & Expansion Signals – 2026 — Discover Nextmv's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/nextmv",
+    "pass": 3
+   },
+   {
+    "quote": "Nextmv 2026 Company Profile: Valuation, Investors ... - PitchBooknextmv - 2026 Company Profile, Team, Funding & Competitors ...Nextmv Revenue 2024: $3.8M Est. - getlatka.comnextmv — Company Profile | The Company Checknextmv: Funding, Investors & Team (Oct 2026) | FundedIQNextmv: Funding, Team & Investors | Startup Intros — Information on acquisition, funding, cap tables, investors, and executives ",
+    "url": "https://pitchbook.com/profiles/company/432512-47",
+    "pass": 3
+   },
+   {
+    "quote": "nextmv - 2026 Company Profile, Team, Funding & Competitors ... — Feb 12, 2026 · nextmv is a series A company based in Sacramento (United States), founded in 2019 by Andrew Hoagland, Ryan O'Neil and Carolyn Mooney. It operates as a Provider of cloud-based delivery route automation software. nextmv has raised $14.3M in funding from investors like FirstMark, Y Combinator and Dynamo.",
+    "url": "https://tracxn.com/d/companies/nextmv/__YghCCVynJeF90PH1sbp90w99CK1V7cwe0BUpNNbLlnQ",
+    "pass": 3
+   },
+   {
+    "quote": "Nextmv Revenue 2024: $3.8M Est. - getlatka.com — Aug 10, 2026 · Nextmv is an AI & Machine Learning Operationalization (MLOps) Software company based in Philadelphia, founded in 2019.",
+    "url": "https://getlatka.com/companies/nextmv.io",
+    "pass": 3
+   },
+   {
+    "quote": "nextmv — Company Profile | The Company Check — nextmv is a company based in Sacramento (United States) founded in 2019 by Ryan O'Neil and Carolyn Mooney. nextmv has raised $14.32 million across 3 funding rounds from investors including FirstMark, Claire Johnson and Ankit Agarwal. nextmv offers products and services including DecisionOps Platform, Vehicle Routing App, and Scheduling Tool ...",
+    "url": "https://www.thecompanycheck.com/company/b/nextmv/4rdy4cy79pcg9hx80",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "scalable lead acquisition framework",
+    "url": "https://dmtcorp.io/case-studies/nextmv",
+    "pass": 3
+   },
+   {
+    "quote": "Nextmv Revenue 2024: $3.8M Est.",
+    "url": "https://getlatka.com/companies/nextmv.io",
+    "pass": 3
+   },
+   {
+    "quote": "Nextmv has not published its revenue. GetLatka estimates it at about $3.8M a year (June 2024).",
+    "url": "https://getlatka.com/companies/nextmv.io",
+    "pass": 3
+   },
+   {
+    "quote": "Nextmv CEO, founders & employees",
+    "url": "https://getlatka.com/companies/nextmv.io",
+    "pass": 3
+   },
+   {
+    "quote": "Carolyn Mooney founded Nextmv in 2019 and runs it as CEO. Nextmv had 19 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/nextmv.io",
+    "pass": 3
+   },
+   {
+    "quote": "What is Nextmv's revenue?",
+    "url": "https://getlatka.com/companies/nextmv.io",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Nextmv's revenue at about",
+    "url": "https://getlatka.com/companies/nextmv.io",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Nextmv have?",
+    "url": "https://getlatka.com/companies/nextmv.io",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/nextmv.io",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/nextmv.io",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/nextmv.io",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/nextmv.io",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": ". The database became the foundation for targeted email campaigns, outbound calls, and strategic account-based marketing efforts-ultimately increasing the client’s",
+    "url": "https://dmtcorp.io/case-studies/nextmv",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Next (@NextMV) / Posts / X Next (@NextMV) - Posts - | X (formerly Twitter) jogando Come and play slither.io #slitherio",
+    "url": "https://x.com/NextMV",
+    "pass": 3
+   },
+   {
+    "quote": "\"#nextmv\" - Results on X | Live Posts & Updates From transporting styrofoam to electrical wiring, lighting to hydraulic systems, learn how construction material delivery startup Oico uses #Nextmv Cloud for #routeoptimization and automation.",
+    "url": "https://x.com/hashtag/nextmv",
+    "pass": 3
+   },
+   {
+    "quote": "Nextmv is a developer platform for decision automation ... Nextmv is a developer platform for decision automation. Historically, optimization has been the province of PhDs using complex software. @getnextmv democratizes the space and makes it approachable by any developer.",
+    "url": "https://x.com/mattturck/status/1514604021167759368",
+    "pass": 3
+   },
+   {
+    "quote": "Carolyn Mooney (@cmoon6) / Posts / X 🎉 We’re thrilled to release v1.0 of the Nextmv platform! This release brings all the tooling together – for development, testing, deployment, and operation – to accelerate decision model development.",
+    "url": "https://x.com/cmoon6",
+    "pass": 3
+   },
+   {
+    "quote": "Next (@NextMV) / Posts / X Dec 10, 2014 · Next (@NextMV) - Posts - | X (formerly Twitter) jogando Come and play slither.io #slitherio",
+    "url": "https://x.com/NextMV",
+    "pass": 3
+   },
+   {
+    "quote": "@nextmv_io | X The latest posts from @nextmv_io",
+    "url": "https://x.com/nextmv_io",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Nextmv - LinkedIn Nextmv, now part of FICO, is a DecisionOps platform that accelerates optimization AI teams with tools for deployment, testing, CI/CD, collaboration, and management of decision models.",
+    "url": "https://www.linkedin.com/company/nextmv",
+    "pass": 3
+   },
+   {
+    "quote": "Nextmv Newsletter - LinkedIn Oct 27, 2026 · Roundup of Operations Research, Decision Science, and DecisionOps content from Nextmv and the optimization community",
+    "url": "https://www.linkedin.com/newsletters/nextmv-newsletter-7239624837428617216",
+    "pass": 3
+   },
+   {
+    "quote": "Sebastián Quintero - Nextmv | LinkedInCarolyn Mooney - Nextmv | LinkedInTiffany Patella - Nextmv | LinkedInChris Keyser - Nextmv | LinkedInWe're mving! - LinkedIn At Nextmv we provide the building blocks for developers to make and test automated decisions. We provide optimization and simulation tools and expertise to do so. · Experience: Nextmv · Education: University of Pennsylvania · Location: P",
+    "url": "https://co.linkedin.com/in/sebastian-quintero-rojas",
+    "pass": 3
+   },
+   {
+    "quote": "Carolyn Mooney - Nextmv | LinkedInTiffany Patella - Nextmv | LinkedInChris Keyser - Nextmv | LinkedInWe're mving! - LinkedIn · Experience: Nextmv · Education: University of Pennsylvania · Location: Philadelphia · 500+ connections on LinkedIn. Experience: Nextmv · Education: University of Cambridge · Location: Detroit Metropolitan Area · 500+ connections on LinkedIn. · Experience: Nextmv · Educatio",
+    "url": "https://www.linkedin.com/in/carolyn-m-mooney",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "넥스트무브 - Facebook매력적인 그녀! 질서진영 한효주! 2017 #초대형 #MMORPG #기대작 #사...Facebook - log in or sign upLog Into FacebookMeta for Business (formerly Facebook for Business)Shoreline Sisterhood | Austin TX - Facebook. 本日13日21時配信 GAN『Who's Next』MV ... - Facebook Nov 9, 2017 · 바로가기: http://thine.nextmv.com/ 2017년 하반기 기대작! 초대형 신작 MMORPG Rival Playing Game, 다인! 비공개 CBT 영상으로 다인을 먼저 만나 보세요! 완전 기대된다인!! 😉 보상이 2배! 스페셜사전예",
+    "url": "https://www.facebook.com/nextmv/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.fico.com/platform/decisionops",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.fico.com/platform/decisionops",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.nextmv.io/learn/tutorials/bring-your-model-cli/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fico.com/platform/decisionops",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.next-mobility.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fico.com/platform/decisionops",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nextmv.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.fico.com/platform/decisionops",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/nextmv",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.fico.com/platform/decisionops",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fico.com/platform/decisionops",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dmtcorp.io/case-studies/nextmv",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techcrunch.com/2020/05/07/nextmv-picks-up-2-7m-to-optimize-and-test-decision-models-for-the-logistics-industry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nextiva.com/company/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/nextmv",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/432512-47",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/nextmv/__YghCCVynJeF90PH1sbp90w99CK1V7cwe0BUpNNbLlnQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/nextmv.io",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/NextMV",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/nextmv",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mattturck/status/1514604021167759368",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/cmoon6",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/nextmv",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/newsletters/nextmv-newsletter-7239624837428617216",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://co.linkedin.com/in/sebastian-quintero-rojas",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/carolyn-m-mooney",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/nextmv/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/NextMV",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/nextmv_io",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Nextmv 日本 導入",
+   "results": [
+    "https://www.nextmv.io/",
+    "https://docs.nextmv.io/learn/tutorials/bring-your-model-cli/",
+    "https://www.nextmv.io/apps",
+    "https://www.next-mobility.co.jp/",
+    "https://www.nextvision.co.jp/",
+    "https://www.next-mobility.co.jp/category/post/",
+    "https://carislife.hatenablog.com/entry/20261110/1794304800"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nextmv 代理店 OR 総代理店 OR 日本法人",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Nextmv Japan",
+   "results": [
+    "https://www.nextmv.io/",
+    "https://www.nextmv.com/",
+    "https://www.nextmv.io/apps",
+    "https://www.linkedin.com/company/nextmv",
+    "https://docs.nextmv.io/",
+    "https://github.com/nextmv-io",
+    "https://cloud.nextmv.io/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nextmv manufacturing customer case study",
+   "results": [
+    "https://www.nextmv.io/category/customer-story",
+    "https://www.nextmv.io/",
+    "https://dmtcorp.io/case-studies/nextmv",
+    "https://techcrunch.com/2020/05/07/nextmv-picks-up-2-7m-to-optimize-and-test-decision-models-for-the-logistics-industry/",
+    "https://www.vendry.io/case-study/powering-nextmvs-reach-with-targeted-research-159565",
+    "https://www.gartner.com/reviews/product/nextmv",
+    "https://www.aimpointdigital.com/partners/nextmv"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nextmv white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://www.nextiva.com/company/partners",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.ninjaone.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nextmv founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/nextmv",
+    "https://pitchbook.com/profiles/company/432512-47",
+    "https://tracxn.com/d/companies/nextmv/__YghCCVynJeF90PH1sbp90w99CK1V7cwe0BUpNNbLlnQ",
+    "https://getlatka.com/companies/nextmv.io",
+    "https://www.thecompanycheck.com/company/b/nextmv/4rdy4cy79pcg9hx80",
+    "https://fundediq.co/nextmv-nextmv-io-funding/",
+    "https://startupintros.com/orgs/nextmv"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Nextmv",
+   "results": [
+    "https://note.com/tag/Muse+Wonder",
+    "https://note.com/dashboard",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/godel/n/n219ff14f4820",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Nextmv",
+   "results": [
+    "https://x.com/NextMV",
+    "https://x.com/hashtag/nextmv",
+    "https://x.com/mattturck/status/1514604021167759368",
+    "https://x.com/cmoon6",
+    "https://help.x.com/en",
+    "https://x.com/getnextmv/status/1674494511832260613",
+    "https://x.com/andrewhoagland"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Nextmv",
+   "results": [
+    "https://www.linkedin.com/company/nextmv",
+    "https://www.linkedin.com/newsletters/nextmv-newsletter-7239624837428617216",
+    "https://co.linkedin.com/in/sebastian-quintero-rojas",
+    "https://www.linkedin.com/in/carolyn-m-mooney",
+    "https://www.linkedin.com/in/tiffany-bogich",
+    "https://www.linkedin.com/in/chrisakeyser",
+    "https://www.linkedin.com/pulse/were-mving-nextmv-qwhkc"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Nextmv",
+   "results": [
+    "https://www.facebook.com/nextmv/",
+    "https://secure.facebook.com/",
+    "https://secure.facebook.com/login/",
+    "https://business.facebook.com/latest/home/",
+    "https://www.facebook.com/ShorelineSisterhood/",
+    "https://www.facebook.com/CL.OFFICIAL.ACC/videos/本日13日21時配信ganwhos-nextmv-shooting-behind-the-scenesgan岩田剛典の新曲whos-nextミュージックビデオ撮/990908350445873/",
+    "https://www.facebook.com/nextmv/videos/thine-최초공개-tvcf-20한효주편/955749464565968/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nextmv note 社長",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Nextmv X 投稿",
+   "results": [
+    "https://x.com/NextMV",
+    "https://x.com/nextmv_io",
+    "https://www.nextmv.io/",
+    "https://docs.nextmv.io/learn/applications/community-apps/",
+    "https://x.com/cmoon6",
+    "https://x.com/tsukiato_staff/status/2051616582623977762",
+    "https://help.x.com/ja/using-x/edit-post"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

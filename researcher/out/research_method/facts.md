@@ -3907,11 +3907,11 @@
 
 ## 生産性の分解（Olley-Pakes・配分の効き・加重平均と単純平均の差）を統計表で使う実務の解説（Olley Pakes decomposition allocative efficiency weighted unweighted productivity practitioner）
 - 文脈：
-- 手順・やり方：記載なし（読んだ12頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
-- 失敗・落とし穴：記載なし（読んだ12頁・検索12回）
-- 実例：記載なし（読んだ12頁・検索12回）
+- 手順・やり方：記載なし（読んだ29頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ29頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ29頁・検索12回）
+- 失敗・落とし穴：記載なし（読んだ29頁・検索12回）
+- 実例：記載なし（読んだ29頁・検索12回）
 
 ## Webページの本文から関連記事・メニュー・広告を除いて取り出す方法（スクレイピングの本文抽出・失敗例）（main content extraction boilerplate removal related articles scraping）
 - 文脈：
@@ -6899,71 +6899,71 @@
 ## 名寄せ・照合の精度をまとまり単位の抜き取りで測る方法（件数に比例した抜き取り・ペア単位の精度の偏り）（entity resolution evaluation cluster sampling precision bias）
 - 文脈：突き合わせ
 - 手順・やり方：
-  - 「comprehensive evaluation framework to measure their performance and compare different」（https://joss.theoj.org/papers/10.21105/joss.05619.pdf）
-  - 「framework that can address challenges associated with ER system evaluation, including」（https://joss.theoj.org/papers/10.21105/joss.05619.pdf）
-  - 「clustering metrics and toy benchmark datasets without a principled evaluation methodology」（https://joss.theoj.org/papers/10.21105/joss.05619.pdf）
-  - 「all components of a principled evaluation framework for ER systems. It incorporates principled」（https://joss.theoj.org/papers/10.21105/joss.05619.pdf）
-  - 「architecture, ensuring straightforward portability to other languages and frameworks when」（https://joss.theoj.org/papers/10.21105/joss.05619.pdf）
-  - 「methods based on labeling record pairs ( Marchant & Rubinstein, 2017 ). The entity-centric」（https://joss.theoj.org/papers/10.21105/joss.05619.pdf）
-  - 「To address this issue, a new entity-centric methodology has been proposed in Binette, York, et」（https://joss.theoj.org/papers/10.21105/joss.05619.pdf）
-  - 「biased benchmark datasets. The ER-Evaluation package implements this methodology and」（https://joss.theoj.org/papers/10.21105/joss.05619.pdf）
-  - 「numerous extensions to create a comprehensive, end-to-end evaluation framework. It aims」（https://joss.theoj.org/papers/10.21105/joss.05619.pdf）
-  - 「name disambiguation ( Binette, Madhavan, et al., 2023 ). The original methodology has been」（https://joss.theoj.org/papers/10.21105/joss.05619.pdf）
-  - 「published in Binette, York, et al. ( 2023) and extended methodology is under development in」（https://joss.theoj.org/papers/10.21105/joss.05619.pdf）
-  - 「end-to-end evaluation framework for entity resolution systems with application to inventor」（https://joss.theoj.org/papers/10.21105/joss.05619.pdf）
-  - 「This paper introduces a novel evaluation methodology for entity resolution algorithms. It is motivated」（https://arxiv.org/pdf/2210.01230）
-  - 「using an entity resolution algorithm. We provide a data collection methodology and tailored performance」（https://arxiv.org/pdf/2210.01230）
-  - 「performance. In the case of PatentsView’s disambiguation, no principled evaluation methodology is avail-」（https://arxiv.org/pdf/2210.01230）
+  - 「How to Evaluate Entity Resolution Systems:」（https://arxiv.org/pdf/2404.05622）
+  - 「An Entity-Centric Framework with Application to」（https://arxiv.org/pdf/2404.05622）
+  - 「ing for a needle in a haystack, traditional evaluation methods use sophisticated, application-specific sam-」（https://arxiv.org/pdf/2404.05622）
+  - 「and a variety of evaluation tasks. Specifically, we propose an entity-centric data labeling methodology」（https://arxiv.org/pdf/2404.05622）
+  - 「that integrates with a unified framework for monitoring summary statistics, estimating key performance」（https://arxiv.org/pdf/2404.05622）
+  - 「date the framework in an application to inventor name disambiguation and through simulation studies.」（https://arxiv.org/pdf/2404.05622）
+  - 「methods often rely on manually reviewing pairs of records to validate linkage predictions. However, finding」（https://arxiv.org/pdf/2404.05622）
+  - 「evaluation framework with the following components.」（https://arxiv.org/pdf/2404.05622）
+  - 「4. Data Labeling Though Cluster Sampling: A methodology for creating a benchmark set of fully-」（https://arxiv.org/pdf/2404.05622）
+  - 「Our framework does black box evaluation. That is, we evaluate the end result of an entity resolution system,」（https://arxiv.org/pdf/2404.05622）
+  - 「without considering its specific architecture. This allows our framework to apply to any entity resolution」（https://arxiv.org/pdf/2404.05622）
+  - 「Figure 1 represents the elements of the evaluation framework as well as their interdependencies.」（https://arxiv.org/pdf/2404.05622）
+  - 「Methodology (§3.2)」（https://arxiv.org/pdf/2404.05622）
+  - 「Figure 1: Diagram representation of the main elements of the framework and their dependencies. The entity」（https://arxiv.org/pdf/2404.05622）
+  - 「or from our data labeling methodology. Error analysis and performance estimates rely on cluster-wise error」（https://arxiv.org/pdf/2404.05622）
 - 突き合わせ・推定：
-  - 「al. ( 2023) for obtaining accurate performance metric estimates based on small and potentially」（https://joss.theoj.org/papers/10.21105/joss.05619.pdf）
-  - 「is to obtain estimates that are representative of performance on the full data, for which no ground truth」（https://arxiv.org/pdf/2210.01230）
-  - 「tative performance estimates (Fuller, 2011).」（https://arxiv.org/pdf/2210.01230）
-  - 「Figure 1: Distribution of precision estimates versus the true precision of 52% (shown as a dotted vertical」（https://arxiv.org/pdf/2210.01230）
-  - 「line). Panel A shows the trivial precision estimates computed for sampled records. Panel B shows our」（https://arxiv.org/pdf/2210.01230）
-  - 「proposed precision estimates which accounts for the sampling mechanism. Sample bias and root mean squared」（https://arxiv.org/pdf/2210.01230）
-  - 「In panel A of ﬁgure 1, we see the distribution of precision estimates versus the true precision of 52%」（https://arxiv.org/pdf/2210.01230）
-  - 「shown as a dotted vertical line. Precision estimates are usually very close to 100% and always higher than」（https://arxiv.org/pdf/2210.01230）
-  - 「benchmark datasets. In our simulation studies (see Figure 3 for instance), naive precision estimates are」（https://arxiv.org/pdf/2210.01230）
-  - 「estimate precision and recall from sampled record pairs. Other approaches to the estimation of performance」（https://arxiv.org/pdf/2210.01230）
-  - 「metrics are model based, where estimated precision and recall can be obtained from predicted match prob-」（https://arxiv.org/pdf/2210.01230）
-  - 「2. It can easily be generalized to estimate other clustering metrics, such as cluster precision, cluster recall,」（https://arxiv.org/pdf/2210.01230）
-  - 「provide estimates for precision or recall (McVeigh et al., 2019), or provided solutions tailored to very speciﬁc」（https://arxiv.org/pdf/2210.01230）
-  - 「provide cost-eﬀective estimates for any disambiguation algorithm.」（https://arxiv.org/pdf/2210.01230）
-  - 「to validate the performance of our estimators. Section 3 then presents our performance estimates and results」（https://arxiv.org/pdf/2210.01230）
+  - 「2. Global Performance Metric Estimates: To obtain estimates of global performance metrics such」（https://arxiv.org/pdf/2404.05622）
+  - 「tain estimates that are representative of the system’s performance on the entire data set, not just the」（https://arxiv.org/pdf/2404.05622）
+  - 「Estimates (§3.4)」（https://arxiv.org/pdf/2404.05622）
+  - 「computed for predictions, while their true value for a ground truth clustering can be estimated using labeled」（https://arxiv.org/pdf/2404.05622）
+  - 「or from our data labeling methodology. Error analysis and performance estimates rely on cluster-wise error」（https://arxiv.org/pdf/2404.05622）
+  - 「the true precision for the entire data set may be much lower. When combining biased precision estimates」（https://arxiv.org/pdf/2404.05622）
+  - 「with recall estimates into an F1 score, this can lead to performance rank reversals: an algorithm may be」（https://arxiv.org/pdf/2404.05622）
+  - 「Figure 2: Left: Estimated number of citations to PatentsView in academic literature by year. Right:」（https://arxiv.org/pdf/2404.05622）
+  - 「Number of citations by estimated Dewey Decimal Broad Classification. The estimated citation numbers were」（https://arxiv.org/pdf/2404.05622）
+  - 「results, with the 2023 year estimate containing extrapolated counts for November and December. The Dewey」（https://arxiv.org/pdf/2404.05622）
+  - 「querying openAI’s GPT-3.5 model for a classification estimate. Note that GPT-3.5 could not ascertain the」（https://arxiv.org/pdf/2404.05622）
+  - 「files and an average of one million API requests per month. In Figure 2, we show the estimated numbers of」（https://arxiv.org/pdf/2404.05622）
+  - 「variance of estimated linkage propensities.」（https://arxiv.org/pdf/2404.05622）
+  - 「At Statistics Canada, accuracy measures are estimated primarily through clerical reviews (Dasylva et al.,」（https://arxiv.org/pdf/2404.05622）
+  - 「considering model-based estimates (Dasylva and Goussanou, 2022). For example, this approach was used to」（https://arxiv.org/pdf/2404.05622）
 - 一次情報の探し方：
   - 「View a PDF of the paper titled How to Evaluate Entity Resolution Systems: An Entity-Centric Framework with Application to Inventor Name Disambiguation, by Olivier Binette and 4 other authors」（https://arxiv.org/abs/2404.05622）
 - 失敗・落とし穴：
+  - 「commonly-used performance estimators are biased (Wang et al., 2022; Binette et al., 2022). This can lead to」（https://arxiv.org/pdf/2404.05622）
+  - 「the true precision for the entire data set may be much lower. When combining biased precision estimates」（https://arxiv.org/pdf/2404.05622）
+  - 「The LR metric highlights potential biases, here linkage rate differences across subgroups, by measuring the」（https://arxiv.org/pdf/2404.05622）
+  - 「bias-adjusted estimator and variance estimator described in Binette et al. (2022). Similarly, the homonymy」（https://arxiv.org/pdf/2404.05622）
+  - 「adapting the performance bias module of the Deepchecks Python package (Chorev et al., 2023) to include」（https://arxiv.org/pdf/2404.05622）
+  - 「reduce bias in the ratio estimator and its variance estimator using the approach described in Binette et al.」（https://arxiv.org/pdf/2404.05622）
+  - 「ground truth for the RLData10000 data set, we can compute the bias and root mean square error (RMSE)」（https://arxiv.org/pdf/2404.05622）
+  - 「Figure 9 summarizes the results of 1,000 runs. The empirical bias is always smaller than 0 .4% and always」（https://arxiv.org/pdf/2404.05622）
+  - 「less than 0 .2% when going up to samples of size at least 400. This validates the near unbiasedness of the」（https://arxiv.org/pdf/2404.05622）
+  - 「In terms of bias, uniform sampling weights are unreliable for estimating pairwise precision in this simu-」（https://arxiv.org/pdf/2404.05622）
+  - 「cluster sizes with many errors may not be observed frequently in the sample. On the other hand, the bias」（https://arxiv.org/pdf/2404.05622）
+  - 「Ventura, S. L., R. Nugent, and E. R. Fuchs (2015). Seeing the non-stars: (Some) sources of bias in past」（https://arxiv.org/pdf/2404.05622）
+  - 「precision and 97% pairwise recall. Note that bias is below 0.4% in all cases.」（https://arxiv.org/pdf/2404.05622）
+  - 「of the algorithm, specifically, 91% pairwise precision and 94% pairwise recall. Note that bias is essentially」（https://arxiv.org/pdf/2404.05622）
   - 「accounting for sampling biases and managing class imbalances. Otherwise, using naive」（https://joss.theoj.org/papers/10.21105/joss.05619.pdf）
-  - 「relatively small benchmark datasets. However, this process has been shown to yield biased」（https://joss.theoj.org/papers/10.21105/joss.05619.pdf）
-  - 「biased benchmark datasets. The ER-Evaluation package implements this methodology and」（https://joss.theoj.org/papers/10.21105/joss.05619.pdf）
-  - 「estimators that account for sampling biases. Our approach is simple, practical and principled – key」（https://arxiv.org/pdf/2210.01230）
-  - 「leads to misleading and highly biased performance metrics as shown in section 1.1. This is concerning given」（https://arxiv.org/pdf/2210.01230）
-  - 「Example 1 (Bias of precision computed on benchmark datasets). To exemplify the problem with the trivial」（https://arxiv.org/pdf/2210.01230）
-  - 「bias = 0.467」（https://arxiv.org/pdf/2210.01230）
-  - 「bias = -0.001」（https://arxiv.org/pdf/2210.01230）
-  - 「proposed precision estimates which accounts for the sampling mechanism. Sample bias and root mean squared」（https://arxiv.org/pdf/2210.01230）
-  - 「proposed precision estimator which is nearly unbiased. Both precision estimators rely on exactly the same」（https://arxiv.org/pdf/2210.01230）
-  - 「discussed in section 1.1, are nearly unbiased, and are easy to use in practice.」（https://arxiv.org/pdf/2210.01230）
-  - 「Furthermore, our approach is novel. To our knowledge, we are the ﬁrst to propose unbiased performance」（https://arxiv.org/pdf/2210.01230）
-  - 「estimators based on cluster and block samples. Past work either ignored biases when computing precision」（https://arxiv.org/pdf/2210.01230）
-  - 「Note that our data collection methodology is biased toward PantentsView’s current disambiguation.」（https://arxiv.org/pdf/2210.01230）
-  - 「readability, we present here a generic formula for an approximately unbiased estimator of the ratio of means」（https://arxiv.org/pdf/2210.01230）
 - 実例：
-  - 「performance. In the case of PatentsView’s disambiguation, no principled evaluation methodology is avail-」（https://arxiv.org/pdf/2210.01230）
-  - 「example 1 below.」（https://arxiv.org/pdf/2210.01230）
-  - 「Example 1 (Bias of precision computed on benchmark datasets). To exemplify the problem with the trivial」（https://arxiv.org/pdf/2210.01230）
-  - 「used in numerous scientiﬁc studies (Toole et al., 2021). For example, Choudhury and Kim (2019) studied」（https://arxiv.org/pdf/2210.01230）
-  - 「In cases where no errors were found, the current disambiguation was assumed to be correct. Performance」（https://arxiv.org/pdf/2210.01230）
-  - 「Figure 2: Example of ground truth clustering C (represented by boxes with a full border) and pre-」（https://arxiv.org/pdf/2210.01230）
-  - 「Cluster Sampling Representation In the cluster sampling case, sampling probabilities are typically」（https://arxiv.org/pdf/2210.01230）
-  - 「rate helps showcase the properties of our estimators when only a small proportion of the sampled clusters is」（https://arxiv.org/pdf/2210.01230）
-  - 「record/cluster sampling cases, we looked at the eﬀect of sampling 100, 200 and 400 records/clusters.」（https://arxiv.org/pdf/2210.01230）
-  - 「and with the bias adjustment given in (8). Note that in the case of recall with cluster blocks, the」（https://arxiv.org/pdf/2210.01230）
-  - 「naive recall estimator performs well in this case. However, the recall estimator accounting for the sampling」（https://arxiv.org/pdf/2210.01230）
-  - 「size distributions. The bias of ratio estimators can be high in this case, especially when using small samples」（https://arxiv.org/pdf/2210.01230）
-  - 「estimation accuracy in such cases.」（https://arxiv.org/pdf/2210.01230）
-  - 「This section provides more information on example 1.」（https://arxiv.org/pdf/2210.01230）
-  - 「For this example, we considered the RLdata10000 dataset from Sariyar and Borg (2022). This is a」（https://arxiv.org/pdf/2210.01230）
+  - 「numerous yet small. For example, entity resolution is used for the identification of unique inventors listed」（https://arxiv.org/pdf/2404.05622）
+  - 「same entity. For example, we can approximately resolve unique inventors by using patent topic, co-authors,」（https://arxiv.org/pdf/2404.05622）
+  - 「For example, a resolved cluster of 10 records in a database of 1 , 000, 010 records includes」（https://arxiv.org/pdf/2404.05622）
+  - 「In section 4, we showcase its application to inventor name disambiguation and its validation in simulation」（https://arxiv.org/pdf/2404.05622）
+  - 「resolution systems, using the methodology used by Statistics Canada as an example.」（https://arxiv.org/pdf/2404.05622）
+  - 「patent grant date, patent assignee, and patent classification codes; see Table 1 for examples.」（https://arxiv.org/pdf/2404.05622）
+  - 「T able 1: Example of attributes available for individual inventor mentions. Additional attributes, such as」（https://arxiv.org/pdf/2404.05622）
+  - 「or operational. In the former case, the main goal is to produce a linked file including all the required」（https://arxiv.org/pdf/2404.05622）
+  - 「responses and explanatory variables, to fit some regression model. A good example is the linkage of the」（https://arxiv.org/pdf/2404.05622）
+  - 「considering model-based estimates (Dasylva and Goussanou, 2022). For example, this approach was used to」（https://arxiv.org/pdf/2404.05622）
+  - 「example, with probability proportional to size sampling, we have pc = |c|/N. Sampling processes and designs」（https://arxiv.org/pdf/2404.05622）
+  - 「For example, when sampling clusters with probability proportional to size, we havepc = |c|/N. Consequently,」（https://arxiv.org/pdf/2404.05622）
+  - 「example, we can estimate each expectation with its corresponding weighted sample average—and take the」（https://arxiv.org/pdf/2404.05622）
+  - 「In this case, the probability that a given cluster c is sampled in any single draw is |c|/N, i.e., this is sampling」（https://arxiv.org/pdf/2404.05622）
+  - 「of population quantities (Lohr, 2021). This is the case for PatentsView data, as large clusters tend to be」（https://arxiv.org/pdf/2404.05622）
 
 ## 調査の計画と報告の食い違い（指標の差し替え・事前登録との照合）を自分の調査で防ぐ方法（outcome switching pre-registration discrepancy detection research）
 - 文脈：失敗
@@ -9197,30 +9197,57 @@
 ## 統計報道の指針（外れ値・平均への回帰・比較の相手の置き方）（statistics reporting guidelines outliers regression to the mean broadcaster）
 - 文脈：推定
 - 手順・やり方：
+  - 「This guidance note discusses how to report statistics. Its purpose is to highlight some of the pitfalls and offer」（https://downloads.bbc.co.uk/rmhttp/guidelines/editorialguidelines/pdfs/ReportingStatistics.pdf）
+  - 「guidance on how to interpret and report figures in our output correctly. It is not intended to provide comprehensive」（https://downloads.bbc.co.uk/rmhttp/guidelines/editorialguidelines/pdfs/ReportingStatistics.pdf）
+  - 「advice about how to calculate statistical problems.」（https://downloads.bbc.co.uk/rmhttp/guidelines/editorialguidelines/pdfs/ReportingStatistics.pdf）
+  - 「For further discussion about how to evaluate statistics from sources, such as surveys」（https://downloads.bbc.co.uk/rmhttp/guidelines/editorialguidelines/pdfs/ReportingStatistics.pdf）
+  - 「or causation; misleading graphs; selective comparisons and risk all disc uss how to」（https://downloads.bbc.co.uk/rmhttp/guidelines/editorialguidelines/pdfs/ReportingStatistics.pdf）
+  - 「goes up in uneven steps or does not start at zero;」（https://downloads.bbc.co.uk/rmhttp/guidelines/editorialguidelines/pdfs/ReportingStatistics.pdf）
+  - 「context about th e veracity of those figure s or methodology behind them may also」（https://downloads.bbc.co.uk/rmhttp/guidelines/editorialguidelines/pdfs/ReportingStatistics.pdf）
+  - 「investigated, consider explaining the methodology or providing links to it. Links to」（https://downloads.bbc.co.uk/rmhttp/guidelines/editorialguidelines/pdfs/ReportingStatistics.pdf）
+  - 「5. Look at the methodology. All responsible producers of statistics will tell」（https://downloads.bbc.co.uk/rmhttp/guidelines/editorialguidelines/pdfs/ReportingStatistics.pdf）
+  - 「compare them – methods and samples can differ. Comparisons between」（https://downloads.bbc.co.uk/rmhttp/guidelines/editorialguidelines/pdfs/ReportingStatistics.pdf）
+  - 「Never be afraid to ask advice from a statistician about how to understand statistics.」（https://downloads.bbc.co.uk/rmhttp/guidelines/editorialguidelines/pdfs/ReportingStatistics.pdf）
   - 「This guidance note discusses how to report statistics and data, while avoiding some of the pitfalls. Advice in assessing the creditability of data-based stories; statistical checking or how to report statistics can be sought from」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
   - 「Audiences may need to understand how the data originated to assess its importance. This may include understanding study-design; sample size; representativeness; how the data was collected; geographical relevance or time periods and the methodology used to analyse the data.」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
   - 「For further discussion about how to evaluate statistics from sources, such as surveys and polls see separate guidance note.」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
   - 「For guidelines about Data: data quality; how data is sourced; how to access analyse, present, report and store data, see Editorial Guidelines,」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
-  - 「methodology used to analyse any dataset should normally be available to the audience, in a format appropriate to the content, including any relevant uncertainty or margins of error.」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
-  - 「The more detail a report includes of the data analysis, the more detail should be provided about the methodology, taking account of where the content will be published.」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
-  - 「300 words and an explanatory graphic to the methodology」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
+- 突き合わせ・推定：
+  - 「scenario. The central estimate is the most likely to be accurate.」（https://downloads.bbc.co.uk/rmhttp/guidelines/editorialguidelines/pdfs/ReportingStatistics.pdf）
+- 一次情報の探し方：
+  - 「It is therefore good practice to check the numbers with the primary source and」（https://downloads.bbc.co.uk/rmhttp/guidelines/editorialguidelines/pdfs/ReportingStatistics.pdf）
 - 失敗・落とし穴：
+  - 「This guidance note discusses how to report statistics. Its purpose is to highlight some of the pitfalls and offer」（https://downloads.bbc.co.uk/rmhttp/guidelines/editorialguidelines/pdfs/ReportingStatistics.pdf）
+  - 「provided we ask the right questions and are aware of the pitfalls. All producers of」（https://downloads.bbc.co.uk/rmhttp/guidelines/editorialguidelines/pdfs/ReportingStatistics.pdf）
+  - 「bias’ may distort the overall narrative.」（https://downloads.bbc.co.uk/rmhttp/guidelines/editorialguidelines/pdfs/ReportingStatistics.pdf）
+  - 「data from a biased source unless you have substantial corroborating evidence or」（https://downloads.bbc.co.uk/rmhttp/guidelines/editorialguidelines/pdfs/ReportingStatistics.pdf）
+  - 「contextualise, explain and interpret statistics in more detail as well as the pitfalls to」（https://downloads.bbc.co.uk/rmhttp/guidelines/editorialguidelines/pdfs/ReportingStatistics.pdf）
+  - 「error or measuring mistake. As such, or if they are simply unlikely, they may not」（https://downloads.bbc.co.uk/rmhttp/guidelines/editorialguidelines/pdfs/ReportingStatistics.pdf）
+  - 「But not all outliers are mistakes and these unrepresentative numbers might mark」（https://downloads.bbc.co.uk/rmhttp/guidelines/editorialguidelines/pdfs/ReportingStatistics.pdf）
+  - 「own bias and preconceptions. Consider if causality was actually examined by the」（https://downloads.bbc.co.uk/rmhttp/guidelines/editorialguidelines/pdfs/ReportingStatistics.pdf）
+  - 「mistake. For example, determining whether spending on flood defences had gone up」（https://downloads.bbc.co.uk/rmhttp/guidelines/editorialguidelines/pdfs/ReportingStatistics.pdf）
+  - 「We should normally acknowledge serious factual errors and correct such mistakes」（https://downloads.bbc.co.uk/rmhttp/guidelines/editorialguidelines/pdfs/ReportingStatistics.pdf）
+  - 「An effective way of correcting a mistake is saying what was wrong as well as putting」（https://downloads.bbc.co.uk/rmhttp/guidelines/editorialguidelines/pdfs/ReportingStatistics.pdf）
+  - 「(See Editorial Guidelines Accuracy Section 3 Correcting Mistakes 3.4.26)」（https://downloads.bbc.co.uk/rmhttp/guidelines/editorialguidelines/pdfs/ReportingStatistics.pdf）
   - 「This guidance note discusses how to report statistics and data, while avoiding some of the pitfalls. Advice in assessing the creditability of data-based stories; statistical checking or how to report statistics can be sought from」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
   - 「Often outliers can be chance phenomena or due to experimental abnormality, data error or measuring mistake. As such, they may not reveal anything unusual or scientifically significant at all and a story based on such an outlier may need to be rejected.」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
   - 「But not all outliers are mistakes, and these unrepresentative numbers might mark something significant. So, consideration should be given to whether outliers are credible, given existing evidence. If in doubt, ask the producer of the statistics and check with other experts in the field.」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
 - 実例：
-  - 「Care should be taken when reporting a change in an average as it does not necessarily mean a change for an individual. For example, if average wages rise, this does not mean that all people in the distribution get paid more; some people may not have seen an increase in their wage at all because a mean value does not reflect income distribution.」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
-  - 「Consideration should be given to regression to the mean as a possible cause of an observed change. For example, the reduction in the incidence of an illness following a vaccination programme may be explained by regression to the mean, particularly if the intervention was at the height of an outbreak.」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
-  - 「Comparisons can help numbers which may be meaningless in isolation, make more sense. For example, reporting that German GDP has increased by 0.3% is more meaningful if audiences are told which time periods are being compared or how large German GDP is, or how the change compares with other European countries.」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
-  - 「Failure to look at comparisons can highlight other contextual problems. For example, 584 unwanted pregnancies from one type of contraceptive is not so significant when compared with the much higher failure rates of other contraceptives, making it possibly the most effective form of contraception to use.」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
-  - 「Beware that changes in measuring systems or recording standards can invalidate comparisons over time. For example」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
-  - 「To make levels of risk more meaningful, content makers should consider expressing that risk in human terms rather than as a percentage. For example」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
-  - 「(It should be noted that 1,000 out of 10,000 sounds like a higher risk than 1 out of 10 and should be avoided. If comparing risks, the same denominator should be used. For example,」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
-  - 「Usually, the smaller the sample, the larger the margin of error and the less likely the result is robust. Also, results which fall well within the margin may not indicate anything at all. For example」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
-  - 「Content makers should also consider whether the data, which may be statistically important, is relevant to the audience. For example, do the short-term changes in unemployment figures reveal how the labour market has changed, or is an examination of the long-term trends required?」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
-  - 「For example, a BBC investigation about illegal sewage spills during a dry period published online may devote」（https://www.bbc.co.uk/editorialguidelines/guidance/reporting-statistics-and-data/）
-- 突き合わせ・推定：記載なし（読んだ25頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ25頁・検索12回）
+  - 「interest in the information. For example, a company or government department that」（https://downloads.bbc.co.uk/rmhttp/guidelines/editorialguidelines/pdfs/ReportingStatistics.pdf）
+  - 「whole, can reveal new stories. Consider, for example, comparing different sectors of」（https://downloads.bbc.co.uk/rmhttp/guidelines/editorialguidelines/pdfs/ReportingStatistics.pdf）
+  - 「may be disproportionately affected in a misleading way. For example, if the mean」（https://downloads.bbc.co.uk/rmhttp/guidelines/editorialguidelines/pdfs/ReportingStatistics.pdf）
+  - 「appropriate way to represent the central value. T he median income, for example,」（https://downloads.bbc.co.uk/rmhttp/guidelines/editorialguidelines/pdfs/ReportingStatistics.pdf）
+  - 「example, if average wages rise, this does not mean that all people in the distribution」（https://downloads.bbc.co.uk/rmhttp/guidelines/editorialguidelines/pdfs/ReportingStatistics.pdf）
+  - 「audience. For example, if the ‘average’ wage has gone up by 2.3% what does t hat」（https://downloads.bbc.co.uk/rmhttp/guidelines/editorialguidelines/pdfs/ReportingStatistics.pdf）
+  - 「number of items to which they relate or people they affect. For example 1, an annual」（https://downloads.bbc.co.uk/rmhttp/guidelines/editorialguidelines/pdfs/ReportingStatistics.pdf）
+  - 「more dramatic, unless it is put into context. For example 2, you may think a」（https://downloads.bbc.co.uk/rmhttp/guidelines/editorialguidelines/pdfs/ReportingStatistics.pdf）
+  - 「For example 3, the introduction of a speed camera following a spike in car crashes」（https://downloads.bbc.co.uk/rmhttp/guidelines/editorialguidelines/pdfs/ReportingStatistics.pdf）
+  - 「due to a particular treatment, when it is actually due to chance. For example, the」（https://downloads.bbc.co.uk/rmhttp/guidelines/editorialguidelines/pdfs/ReportingStatistics.pdf）
+  - 「point should be used. For example, an increase in interest rates from 10% to 12% is」（https://downloads.bbc.co.uk/rmhttp/guidelines/editorialguidelines/pdfs/ReportingStatistics.pdf）
+  - 「percentage. For example, the price of a product which has risen from £10 to £12」（https://downloads.bbc.co.uk/rmhttp/guidelines/editorialguidelines/pdfs/ReportingStatistics.pdf）
+  - 「are. For example, you could add clarity to the statement that interest rates went up」（https://downloads.bbc.co.uk/rmhttp/guidelines/editorialguidelines/pdfs/ReportingStatistics.pdf）
+  - 「start or end points. For example, a dou bling in reported crime when there has only」（https://downloads.bbc.co.uk/rmhttp/guidelines/editorialguidelines/pdfs/ReportingStatistics.pdf）
+  - 「example4, the number of films that Nicolas Cage appeared in correlated with the」（https://downloads.bbc.co.uk/rmhttp/guidelines/editorialguidelines/pdfs/ReportingStatistics.pdf）
 
 ## 会社の照合で主の番号と付随の属性を分けて確度を付ける方法（entity resolution primary secondary identifiers confidence scoring company registry）
 - 文脈：同一性
@@ -13519,10 +13546,10 @@
   - 「What is survivorship bias in stock market data?」（https://solotrade.io/learn/quant-quantitative-trading-158）
   - 「Why does survivorship bias inflate backtest performance?」（https://solotrade.io/learn/quant-quantitative-trading-158）
   - 「How can survivorship bias be reduced?」（https://solotrade.io/learn/quant-quantitative-trading-158）
-- 手順・やり方：記載なし（読んだ17頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ17頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ17頁・検索12回）
-- 実例：記載なし（読んだ17頁・検索12回）
+- 手順・やり方：記載なし（読んだ12頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ12頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ12頁・検索12回）
+- 実例：記載なし（読んだ12頁・検索12回）
 
 ## 調べる人の三角測量（独立した2人が同じ資料を読んで判定を比べる・一致率と食い違いの解き方）をファクトチェック・調査報道・アナリストが書いた記事（investigator triangulation independent coders agreement fact-checking analysts）
 - 文脈：突き合わせ
@@ -17027,36 +17054,73 @@
 ## トレンドの折れ目（構造変化）の判定を少ない年数で決めない方法（折れ目の後の年数・2通りの推計を並べる・予測の当たりで比べる）（structural break detection short sample after break trend specification comparison forecast performance）
 - 文脈：突き合わせ・推定
 - 手順・やり方：
-  - 「たとえば料金改定、UI刷新、大型キャンペーン、アルゴリズム変更、競合の参入、法規制、災害や社会的イベントなどがあると、指標の水準が段差のように変わることがあります」（https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html）
-  - 「時系列予測を使える形にするためには、学習と評価のやり方を“時間に忠実”にする必要があります」（https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html）
-  - 「具体的には、ローリング検証やウォークフォワード検証と呼ばれる方法で、学習期間を少しずつ進めながら未来を複数回予測し、実運用に近い形で性能を見ます」（https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html）
-  - 「運用を成立させる最後のコツは、予測の更新頻度と責任範囲を明確にすることです」（https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html）
-  - 「現場を知り、人を動かす──ヤマハ発動機 小野豊土氏が語る、会社の未来を変える『変革実現型CIO』への挑戦」（https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html）
-  - 「ステップ1: データの収集と前処理」（https://www.consulnote.com/articles/data-analysis/trend-analysis/）
-  - 「ステップ2: トレンドの可視化と特性把握」（https://www.consulnote.com/articles/data-analysis/trend-analysis/）
-  - 「ステップ3: トレンドモデルの推定」（https://www.consulnote.com/articles/data-analysis/trend-analysis/）
-  - 「ステップ4: 予測と信頼区間の提示」（https://www.consulnote.com/articles/data-analysis/trend-analysis/）
+  - 「ポリマス型人材は、AI成功のカギを握るのか」（https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html）
+  - 「しかし、これらの方法は、保険業界」（https://www.giroj.or.jp/publication/risk/No_67-2.pdf）
+  - 「１．年次データを使用した時系列回帰による予測方法」（https://www.giroj.or.jp/publication/risk/No_67-2.pdf）
+  - 「しかしながら、これらのマクロ的な予測方法は、企業が行う日々の生産活動やサービ」（https://www.giroj.or.jp/publication/risk/No_67-2.pdf）
+  - 「２．月次データを使用した時系列回帰による予測方法」（https://www.giroj.or.jp/publication/risk/No_67-2.pdf）
+  - 「「2.1 出国日本人の予測手法」と同様な方法によって、以下に交通事故死者数の」（https://www.giroj.or.jp/publication/risk/No_67-2.pdf）
+  - 「た重回帰分析手法も行ってみるというように、双方からアプローチするという方法がと」（https://www.giroj.or.jp/publication/risk/No_67-2.pdf）
+  - 「エージェントスキル：自律型 AI が変える最適化とサプライチェーンの未来」（https://www.docswell.com/s/mikiokubo/5X23G4-forecast）
+  - 「季節振幅が水準によらずほぼ一定なら加法型を用いる」（https://www.docswell.com/s/mikiokubo/5X23G4-forecast）
+  - 「月次データの年周期ならL=12、日次データの週周期ならL=7が典型である」（https://www.docswell.com/s/mikiokubo/5X23G4-forecast）
+  - 「加法型との優劣はrolling-originで決める」（https://www.docswell.com/s/mikiokubo/5X23G4-forecast）
+  - 「DeepAR：多数系列を共有する自己回帰型確率予測」（https://www.docswell.com/s/mikiokubo/5X23G4-forecast）
+  - 「T5型モデルは過去トークンから次トークンの分布を学習する」（https://www.docswell.com/s/mikiokubo/5X23G4-forecast）
+  - 「Transform er（T5）型」（https://www.docswell.com/s/mikiokubo/5X23G4-forecast）
+  - 「自動選択型の統計モデル：AutoETS・AutoCES・AutoTBATS・AutoMFLES」（https://www.docswell.com/s/mikiokubo/5X23G4-forecast）
 - 突き合わせ・推定：
-  - 「具体的には、ローリング検証やウォークフォワード検証と呼ばれる方法で、学習期間を少しずつ進めながら未来を複数回予測し、実運用に近い形で性能を見ます」（https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html）
-  - 「堅牢なベースライン、時間に忠実な検証、ドリフトを前提にした監視、説明可能性、更新ルール」（https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html）
-  - 「帰無仮説 γ = 𝜃 = 0が 採択 され たら 、 構 造 変 化 な しと判断されます」（https://www.fbc.keio.ac.jp/~tyabu/keiryo/trend.pdf）
-  - 「回帰分析は、時間を説明変数として最小二乗法でトレンドラインを推定します」（https://www.consulnote.com/articles/data-analysis/trend-analysis/）
-  - 「ステップ3: トレンドモデルの推定」（https://www.consulnote.com/articles/data-analysis/trend-analysis/）
-  - 「推定したトレンドモデルをもとに将来の値を予測します」（https://www.consulnote.com/articles/data-analysis/trend-analysis/）
-  - 「市場規模の推定: 業界データのトレンドから、ターゲット市場の将来規模を予測します」（https://www.consulnote.com/articles/data-analysis/trend-analysis/）
+  - 「以上の結果から、2050年における65歳以上の人口割合を推定すると、y＝ａｘ＋ｂ」（https://www.giroj.or.jp/publication/risk/No_67-2.pdf）
+  - 「国立社会保障・人口問題研究所による推定は、単なるトレンド予測手法ではなく、」（https://www.giroj.or.jp/publication/risk/No_67-2.pdf）
+  - 「口を推計するためには、①基準人口、②将来生残率、③将来の出生率、④将来の出生」（https://www.giroj.or.jp/publication/risk/No_67-2.pdf）
+  - 「次に、指数回帰モデルによる推定を行ってみた」（https://www.giroj.or.jp/publication/risk/No_67-2.pdf）
+  - 「推定式は、ｙ＝ｂｅax すなわち、」（https://www.giroj.or.jp/publication/risk/No_67-2.pdf）
+  - 「表1.2.1 65歳以上の人口割合の年次推移（推定）」（https://www.giroj.or.jp/publication/risk/No_67-2.pdf）
+  - 「日本の将来人口推計については、コーホート要因法という精緻な要因データに基づき」（https://www.giroj.or.jp/publication/risk/No_67-2.pdf）
+  - 「どうであっただろうかを推定するため、以下に回帰分析による推定を行ってみることと」（https://www.giroj.or.jp/publication/risk/No_67-2.pdf）
+  - 「上記の推定式に基づき、出国日本人の月別推移を推定したのが、図2.1.3である」（https://www.giroj.or.jp/publication/risk/No_67-2.pdf）
+  - 「表2.2.4に基づき、交通事故死者数の月別推移を推定したのが、図2.2.3である」（https://www.giroj.or.jp/publication/risk/No_67-2.pdf）
+  - 「1)国立社会保障・人口問題研究所：日本の将来推計人口」（https://www.giroj.or.jp/publication/risk/No_67-2.pdf）
+  - 「検証データ上で、例えば二乗誤差を最小にする重みを求める」（https://www.docswell.com/s/mikiokubo/5X23G4-forecast）
+  - 「外れ値の影響は二乗誤差より小さく、中央値の推定に対応する」（https://www.docswell.com/s/mikiokubo/5X23G4-forecast）
+  - 「「Auto」は候補構造やパラメータを探索することであり、適切な検証分割・周期・評価指標まで自動的に保証するもの」（https://www.docswell.com/s/mikiokubo/5X23G4-forecast）
+  - 「検証窓数 rolling-originの起点数」（https://www.docswell.com/s/mikiokubo/5X23G4-forecast）
 - 一次情報の探し方：
-  - 「次に、時系列専用の統計モデルがあります」（https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html）
-  - 「過去の実績データに潜むパターンを統計的に抽出することで、直感や経験則に頼らない意思決定を可能にします」（https://www.consulnote.com/articles/data-analysis/trend-analysis/）
-  - 「トレンド分析の基本的な考え方は古くから存在しますが、統計的な時系列分析の体系化はジョージ・ボックスとグウィリム・ジェンキンスによる1970年の著書「Time Series Analysis: Forecasting and Control」が大きく貢献しました」（https://www.consulnote.com/articles/data-analysis/trend-analysis/）
-  - 「ボックス=ジェンキンス法として知られるARIMAモデルは、トレンド分析の統計的基盤として現在も広く使われています」（https://www.consulnote.com/articles/data-analysis/trend-analysis/）
-  - 「回帰分析やその他の統計手法を用いて、トレンドを数式化します」（https://www.consulnote.com/articles/data-analysis/trend-analysis/）
-  - 「トレンド分析は、時系列データの中長期的な傾向を統計的に把握し、将来の動向を予測する基本的な分析手法です」（https://www.consulnote.com/articles/data-analysis/trend-analysis/）
+  - 「不規則変動の4つの要素から組み立てられた決定論的因果関係モデルが採用されている」（https://www.giroj.or.jp/publication/risk/No_67-2.pdf）
+  - 「政府や民間調査機関等が公表している各種統計データの中には、年次別データの他に、」（https://www.giroj.or.jp/publication/risk/No_67-2.pdf）
+  - 「法務省出入国管理統計によると、出国日本人数の年次別推移は、表2.1.1のとおりで」（https://www.giroj.or.jp/publication/risk/No_67-2.pdf）
+  - 「してきた安全対策の効果等が指摘されているが、一方で、警察庁統計では、発生から24」（https://www.giroj.or.jp/publication/risk/No_67-2.pdf）
+  - 「2)法務省：出入国管理統計 2001.」（https://www.giroj.or.jp/publication/risk/No_67-2.pdf）
+  - 「古典的な統計モデルから最新のAIモデルまで」（https://www.docswell.com/s/mikiokubo/5X23G4-forecast）
+  - 「季節ナイーブ法、指数平滑法、ARIMA、Theta法、Prophet、Croston法などの統計モデルから、LightGBM、XGBoost、CatBoostなどの機械学習モデル、DeepAR、Temporal Fusion Transformer、PatchTST、DLinearなどの深層学習モデル、Chronos、Chronos-Bolt、Chronos-2、Totoなどの時系列基盤モデルまで幅広く紹介します」（https://www.docswell.com/s/mikiokubo/5X23G4-forecast）
+  - 「CatBoost：順序付きターゲット統計により、カテゴリ変数のリークを抑えて処理する」（https://www.docswell.com/s/mikiokubo/5X23G4-forecast）
+  - 「自動選択型の統計モデル：AutoETS・AutoCES・AutoTBATS・AutoMFLES」（https://www.docswell.com/s/mikiokubo/5X23G4-forecast）
+  - 「AutoML実装名：ベースライン・統計・間欠需要」（https://www.docswell.com/s/mikiokubo/5X23G4-forecast）
+  - 「CatBoost：順序付きターゲット統計でリークを抑える」（https://www.docswell.com/s/mikiokubo/5X23G4-forecast）
+  - 「カテゴリ変数の符号化：リークを避けて統計量を作る」（https://www.docswell.com/s/mikiokubo/5X23G4-forecast）
+  - 「CatBoostのordered statisticsは、ランダム順序で当該行より前のデータだけからカテゴリ統計を作る」（https://www.docswell.com/s/mikiokubo/5X23G4-forecast）
+  - 「時系列では、未来時点のターゲットをカテゴリ統計へ混ぜないよう、時間順序をさらに守る必要がある」（https://www.docswell.com/s/mikiokubo/5X23G4-forecast）
+  - 「統計特徴量やD TW からクラスタID を作る 各学習窓内で再推定する」（https://www.docswell.com/s/mikiokubo/5X23G4-forecast）
+- 失敗・落とし穴：
+  - 「特に、予測時点では利用できない情報を誤って利用する「データリーク」について、実務上の注意点を整理します」（https://www.docswell.com/s/mikiokubo/5X23G4-forecast）
+  - 「係数1-β/2によりCroston法の正のバイアス」（https://www.docswell.com/s/mikiokubo/5X23G4-forecast）
+  - 「同じ誤りをするモデルを増やしても改善しない」（https://www.docswell.com/s/mikiokubo/5X23G4-forecast）
 - 実例：
-  - 「例えば「当日の売上」から作った特徴量を予測に使ってしまうなど、時間の矢印を逆流させるミスが起きやすいです」（https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html）
-  - 「例えば広告費を増やした場合のシナリオ、価格を変えた場合のシナリオなど、予測を“もしも”の計画に変換できると、単なる数当てから一段上がります」（https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html）
-  - 「AI利用を昇進条件に据えるのはアリ？アクセンチュアの事例から考える」（https://www.cio.com/article/4106194/%E6%99%82%E7%B3%BB%E5%88%97%E4%BA%88%E6%B8%AC%E3%82%92%E3%80%8C%E5%BD%93%E3%81%A6%E3%82%8B%E3%80%8D%E3%82%88%E3%82%8A%E3%80%8C%E4%BD%BF%E3%81%88%E3%82%8B%E3%80%8D%E5%BD%A2%E3%81%AB%E3%81%99%E3%82%8B.html）
-  - 「移動平均法、回帰分析、指数平滑法などの手法を目的に応じて使い分け、季節変動を適切に分離することで、信頼性の高い分析結果が得られます」（https://www.consulnote.com/articles/data-analysis/trend-analysis/）
-- 失敗・落とし穴：記載なし（読んだ16頁・検索12回）
+  - 「後の推移にダイレクトな変化を及ぼすような場合、例えば、出国日本人の年次別推移に基」（https://www.giroj.or.jp/publication/risk/No_67-2.pdf）
+  - 「これらの事例をみると、いずれも人為的な要因により大きく変」（https://www.giroj.or.jp/publication/risk/No_67-2.pdf）
+  - 「リックな動向を加味した推移予測をどう行えばよいのか、事例を用いながら、数量化理論」（https://www.giroj.or.jp/publication/risk/No_67-2.pdf）
+  - 「以上の結果から、2050年における65歳以上の人口割合を推定すると、y＝ａｘ＋ｂ」（https://www.giroj.or.jp/publication/risk/No_67-2.pdf）
+  - 「例えば、メーカーなどは需要予測に」（https://www.giroj.or.jp/publication/risk/No_67-2.pdf）
+  - 「例えば、スーパーなど」（https://www.giroj.or.jp/publication/risk/No_67-2.pdf）
+  - 「ばよいのか、具体的な事例を用いながら、以下に紹介する」（https://www.giroj.or.jp/publication/risk/No_67-2.pdf）
+  - 「すると、以下のような回帰分析結果が得られる」（https://www.giroj.or.jp/publication/risk/No_67-2.pdf）
+  - 「表2.1.4 回帰分析結果」（https://www.giroj.or.jp/publication/risk/No_67-2.pdf）
+  - 「表2.1.5 年次別の回帰分析実行結果」（https://www.giroj.or.jp/publication/risk/No_67-2.pdf）
+  - 「表2.2.3 回帰分析結果」（https://www.giroj.or.jp/publication/risk/No_67-2.pdf）
+  - 「表2.2.4 年次別の回帰分析実行結果」（https://www.giroj.or.jp/publication/risk/No_67-2.pdf）
+  - 「本論文では、具体的な事例を用いて、数量化理論Ⅰ類と呼ばれる多変量解析手法を用」（https://www.giroj.or.jp/publication/risk/No_67-2.pdf）
+  - 「それらの手法のさらにきめ細かい活用事例等については、別の機会」（https://www.giroj.or.jp/publication/risk/No_67-2.pdf）
+  - 「予測結果を業務上の意思決定や計画立案につなげたい方」（https://www.docswell.com/s/mikiokubo/5X23G4-forecast）
 
 ## 報道機関が「独自に検証できていない」と断る作法と、その数字の扱い（通信社の配信の断り書き・他社報道の引用・未確認の印）（news agency could not independently verify attribution practice handling unverified figures）
 - 文脈：手順・やり方
