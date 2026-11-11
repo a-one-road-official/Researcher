@@ -1,0 +1,463 @@
+{
+ "name": "Pagelever",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜未接触",
+ "researched_at": "2026-11-11T11:00:33.770262+00:00",
+ "official_url": "http://pagelever.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Unified Takes a Comprehensive Approach to Omnichannel Digital Advertising",
+    "url": "https://www.unified.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A best in class team of digital experts leveraging purpose built technology to deliver operational excellence and insights across paid social, programmatic, OTT and digital audio.",
+    "url": "https://www.unified.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Unified Takes a Comprehensive Approach to Digital Advertising",
+    "url": "https://www.unified.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We have established partnerships across platform, creative and data providers to ensure our clients have the resources needed to deliver the best campaigns possible.",
+    "url": "https://www.unified.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Social Media Communications Coordinator at",
+    "url": "https://www.unified.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Unified makes my life easier. Their Investment Dashboard gives me complete access into all of our brands’ social advertising initiatives, making it easy to track the results of our social investments in real-time.”",
+    "url": "https://www.unified.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Head of Social Media at the",
+    "url": "https://www.unified.com/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted By Global Brands",
+    "url": "https://www.unified.com/",
+    "pass": 1
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Almost 15 years since having PageLever go through ... Almost 15 years since having PageLever go through @ycombinator, I decided it was time to apply again. I’m bringing the experience I wish I had last time. I’m partnered with the right cofounder. We know who we can trust to build it with us. Doesn’t mean this is easy, but 💬1 🔄0 🤍1 📊12",
+    "url": "https://x.com/wdavidturner/status/2118808131278909513",
+    "pass": 3
+   },
+   {
+    "quote": "At some point during Pagelever, I decided to move to a ... At some point during Pagelever, I decided to move to a nicotine and polyphasic sleep schedule. I was worse as a human being. I forgot to call the person I was dating for an entire month. In my mind, it had been like a missed weekend.",
+    "url": "https://x.com/wdavidturner/status/2037180159518736621",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.unified.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trafficnews.jp/post/725198",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.webcg.net/articles/-/54501",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growth-dx.com/column/agency_dealer/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japan-forward.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japanrevealed.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://monocle.com/fashion/retail/japanese-menswear-revival-gentleman-parlour/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.smejapan.com/business-news/the-era-of-pagers-in-japan-is-officially-over/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bizowie.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.infor.com/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://aws.amazon.com/jp/manufacturing/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.l2l.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/white-label-business-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.reddit.com/r/ycombinator/comments/1hsdufh/anyone_offering_a_white_label_reseller_version_of/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://getlatka.com/companies/pagefreezer.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gaps.com/finance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/unified/__bL8SgDOnDoIP1_tXL1adZHmaAyPkMZsYlKSjBrYt4u0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://multiples.vc/private-comps/the-browser-company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/wdavidturner/status/2118808131278909513",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/wdavidturner/status/2037180159518736621",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Pagelever 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.stellantis.jp/",
+    "https://trafficnews.jp/post/725198",
+    "https://www.webcg.net/articles/-/54501",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://response.jp/article/2026/11/07/418712.html",
+    "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "https://x.com/car_watch/status/2117506082629370157",
+    "https://www.thomsonreuters.co.jp/ja/customer-stories/mitsui-onesource.html",
+    "https://www.proofpoint.com/jp/blog/cyberthreats/dmarc-adoption-industry-japan-us-2026"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Pagelever 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.bgent.net/plus/article/7044",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://dairitenboshu.com/",
+    "https://growth-dx.com/column/agency_dealer/",
+    "https://www.youtube.com/watch?v=jNmmMo1EQkE",
+    "https://www.hits-company.co.jp/alliance/column/agency-business/",
+    "https://support.google.com/business/answer/7353903?hl=ja",
+    "https://partner-prop.com/lab/partner-business/agency/3216/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://pitchbook.com/profiles/company/56022-58"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Pagelever Japan",
+   "results": [
+    "https://japan-forward.com/",
+    "https://japanrevealed.jp/",
+    "https://monocle.com/fashion/retail/japanese-menswear-revival-gentleman-parlour/",
+    "https://www.smejapan.com/business-news/the-era-of-pagers-in-japan-is-officially-over/",
+    "https://www.tokyoweekender.com/",
+    "https://www.youtube.com/watch?v=Tk7cR0F0Mqk",
+    "https://www.bbc.com/news/world-asia-49888869",
+    "https://www.japancierge.com/",
+    "http://www.paj.gr.jp/english",
+    "https://pitchbook.com/profiles/company/56022-58"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Pagelever manufacturing customer case study",
+   "results": [
+    "https://bizowie.com/case-studies",
+    "https://www.infor.com/customer-stories",
+    "https://aws.amazon.com/manufacturing/case-studies/",
+    "https://www.l2l.com/case-studies",
+    "https://663810.fs1.hubspotusercontent-na1.net/hubfs/663810/2022%20-%20CLEVR%20Success%20Stories%20EBooks/CLEVR%20Success%20Stories%20-%20Manufacturing%20-%20ENG.pdf",
+    "https://www.factory-twin.com/casestudies",
+    "https://www.jmp.com/en/customer-stories/customer-listing/by-industry/industrial-manufacturing",
+    "https://pimcore.com/en/customers",
+    "https://www.dbswebsite.com/blog/manufacturing-website-marketing-case-studies/",
+    "https://ycinsight.com/stories/pagelever"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Pagelever white label OR reseller OR partner program",
+   "results": [
+    "https://suitedash.com/white-label-business-software/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://www.reddit.com/r/ycombinator/comments/1hsdufh/anyone_offering_a_white_label_reseller_version_of/",
+    "https://www.mastercard.com/europe/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "https://www.siptrunk.com/blog/white-label-saas-reseller/",
+    "https://www.nuwebgroup.com/blog/entrepreneur/everything-you-need-to-know-about-white-label-reseller-programs",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://content.platfio.com/blog/software-reseller-programs-worth-joining-2026",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Pagelever founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/pagefreezer.com",
+    "https://gaps.com/finance/",
+    "https://tracxn.com/d/companies/unified/__bL8SgDOnDoIP1_tXL1adZHmaAyPkMZsYlKSjBrYt4u0",
+    "https://multiples.vc/private-comps/the-browser-company",
+    "https://bullfincher.io/",
+    "https://www.forbes.com/sites/kenrickcai/2022/03/16/webflow-series-c-4-billion-valuation-100-million-revenue/",
+    "https://dealroom.co/news/163221-pagaya-eyes-2b-in-2029-revenue-as-it-expands-ai-lending-funding/",
+    "https://www.tryspecter.com/companies",
+    "https://growjo.com/company/Pager",
+    "https://pitchbook.com/profiles/company/56022-58"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "site:note.com Pagelever",
+   "results": [
+    "https://note.com/dashboard",
+    "https://note.com/shikaku_tokyo/n/n5821b2197469",
+    "https://note.com/large_canna6443/n/n89b239f0708a",
+    "https://note.com/gk2hk/n/n41472d1c7c9a",
+    "https://note.com/keizokuramoto/n/nef2f6f1c855d",
+    "https://note.com/hiroki_kurimoto/n/n2d4008683d13",
+    "https://note.com/kirik/n/n68d0d0606e59",
+    "https://note.com/kurashi_bouei/n/n05fceaf99d8b"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:x.com Pagelever",
+   "results": [
+    "https://x.com/NicoMuoio",
+    "https://x.com/wdavidturner/status/2118808131278909513",
+    "https://x.com/wdavidturner/status/2037180159518736621",
+    "https://about.x.com/en",
+    "https://help.x.com/en",
+    "https://x.com/edgerank",
+    "https://help.x.com/zh-cn/using-x",
+    "https://x.com/bentleyforus/status/2118551830636736906"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:linkedin.com Pagelever",
+   "results": [
+    "https://www.linkedin.com/in/wdavidturner",
+    "https://www.linkedin.com/in/jessechannon",
+    "https://www.linkedin.com/posts/gerard-kijlstra-302a633_362-publishers-showed-up-at-our-webinar-yesterday-activity-7470782427796287488-bsVy",
+    "https://www.linkedin.com/posts/mattmaguire_workday-is-where-good-candidates-go-to-quit-activity-7445816734814621696-PsZw",
+    "https://www.linkedin.com/in/brendanirvinebroque",
+    "https://www.linkedin.com/in/kristinmasters",
+    "https://www.linkedin.com/in/aaliaqat",
+    "https://se.linkedin.com/in/edvin-bukvic",
+    "https://www.linkedin.com/in/kimjohnsonnewzdash",
+    "https://www.linkedin.com/in/podoherty"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "site:facebook.com Pagelever",
+   "results": [
+    "https://www.facebook.com/marismith/photos/the-1-marketing-challenge-for-b2b-marketers-is-producing-engaging-content-check-/10150562541510009/",
+    "https://www.facebook.com/groups/435078917109881/posts/2206748386609583/",
+    "https://www.facebook.com/UCDSportandFitness/photos/",
+    "https://www.facebook.com/Lever.ae/",
+    "https://www.facebook.com/CloudDefensive/posts/post-malone-with-his-cdlcsthumb-on-repost-fuckyeahguns-kagwerksthe-homie-postmal/2463552327058212/",
+    "https://www.facebook.com/groups/9228442200560864/posts/26305691032409381/",
+    "https://www.facebook.com/love.valeriano/videos/%EF%B8%8F-another-fall-break-another-reason-to-be-grateful-for-the-4th-year-in-a-row-i-g/1755775828836995/",
+    "https://www.facebook.com/TMZ/posts/fbi-director-kash-patel-reportedly-admitted-in-the-past-to-twice-being-arrested-/1408450851317012/",
+    "https://www.facebook.com/groups/486400875765378/posts/1798200637918722/",
+    "https://www.facebook.com/pagelever/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  },
+  {
+   "query": "Pagelever note 社長",
+   "results": [
+    "https://note.com/shacho_homon/m/m1bd972cc202e",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://x.com/sadaaki",
+    "https://diamond.jp/articles/-/388572",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://note.com/tag/%E7%A4%BE%E9%95%B7%E3%83%96%E3%83%AD%E3%82%B0",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://note.jp/n/n357c90362be4",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Pagelever X 投稿",
+   "results": [
+    "https://publish.x.com/",
+    "https://knowledge.page-vault.com/how-to-capture-x/twitter-posts-and-replies",
+    "https://legalrequests.twitter.com/forms/landing_disclaimer",
+    "https://www.youtube.com/watch?v=gvbCoPOjdwA",
+    "https://www.powercms.jp/products/document/standard/options/tweet-entry.html",
+    "https://chromewebstore.google.com/detail/twitter-post-exporter-dow/jdegdcamkndlebppmdlkgolkknkbjcne?hl=ja",
+    "https://note.com/socialselling/n/n80449faef8e2",
+    "https://zenn.dev/spacemarket/articles/9fbff59b801631",
+    "https://lp.yoom.fun/fb-templates/314498",
+    "https://x.com/wdavidturner/status/2118808131278909513"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）"
+ }
+}

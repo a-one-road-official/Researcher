@@ -1,0 +1,853 @@
+{
+ "name": "株式会社サトキン",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T11:45:04.220329+00:00",
+ "official_url": "http://www.satokin.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒370-2124　群馬県高崎市吉井町塩309-8",
+    "url": "https://www.satokin.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "〒370-2124 群馬県高崎市吉井町塩309-8",
+    "url": "https://imono-cuttingwork.net/contents/012",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "〒379-2203 群馬県伊勢崎市曲沢町685-8",
+    "url": "https://imono-cuttingwork.net/contents/012",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "〒949-8201 新潟県中魚沼郡津南町大字芦ヶ崎乙887",
+    "url": "https://imono-cuttingwork.net/contents/012",
+    "pass": 3
+   },
+   {
+    "label": "本社所在地",
+    "value": "〒100-8503 東京都千代田区内幸町2-2-2 富国生命ビル",
+    "url": "https://imono-cuttingwork.net/contents/012",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "30名",
+    "url": "https://www.satokin.co.jp/company.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "銅合金・アルミ合金鋳造、アルミ熱処理、その他関連品",
+    "url": "https://www.satokin.co.jp/company.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "一点物・少量多品種": [
+   {
+    "quote": "試作開発、提案、鋳造、熱処理、量産までのワンストップ体制",
+    "url": "https://www.satokin.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社サトキンは、幅広い対応材質と高精度な鋳造技術、試作から量産までのワンストップ体制、独自の鋳包み技術を特徴としています",
+    "url": "https://imono-cuttingwork.net/contents/012",
+    "pass": 3
+   },
+   {
+    "quote": "試作開発から提案、鋳造、熱処理、量産までを一貫して行うワンストップ体制により、顧客のニーズに迅速に対応し、高品質な製品を提供しています",
+    "url": "https://imono-cuttingwork.net/contents/012",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社須藤機械は、多様な素材への対応力、一貫対応と品質管理、多品種小ロット生産への対応を特徴とする鋳物加工企業です",
+    "url": "https://imono-cuttingwork.net/contents/012",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "大型設備・産業機械・特殊車両・船舶・電機・食品・景観事業・医療",
+    "url": "https://www.satokin.co.jp/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ（全材種対応可）、ダイカスト（普通、真空、スクイズ、PF）、砂型鋳造、金型鋳造、棒材、ブロック材など",
+    "url": "https://imono-cuttingwork.net/contents/012",
+    "pass": 3
+   },
+   {
+    "quote": "鉄、アルミ、ステンレス、銅、真鍮、チタン、インコネル、ハステロイなど幅広い素材の高精度加工に対応し、専用治具を用いた複雑な形状や高精度部品の加工が可能です",
+    "url": "https://imono-cuttingwork.net/contents/012",
+    "pass": 3
+   },
+   {
+    "quote": "遠心鋳造、連続鋳造、砂型鋳造などの技術を用いて、銅合金製品を製造しており、建設機械や産業用ロボット、ダム水門、橋梁など、幅広い分野で使用される高品質な製品を提供しています",
+    "url": "https://imono-cuttingwork.net/contents/012",
+    "pass": 3
+   },
+   {
+    "quote": "自動車部品・産業機械部品・宇宙部品・船舶部品・鉄道部品・医療部品・景観品等",
+    "url": "https://note.com/satokin5522/n/nda9ef071bf66",
+    "pass": 3
+   },
+   {
+    "quote": "主な用途は、架線金具、船舶用部品、事務機器、航空機用部品等向き",
+    "url": "https://note.com/satokin5522/n/nda9ef071bf66",
+    "pass": 3
+   },
+   {
+    "quote": "銅合金鋳物の鋳造法としては、銅合金の種類にもよりますが砂型鋳造、重力金型鋳造、ダイカストなどがありますが、砂型鋳造がもっとも多く用いられています",
+    "url": "https://note.com/satokin5522/n/nda9ef071bf66",
+    "pass": 3
+   },
+   {
+    "quote": "自動車部品をはじめ軽量化が進む現代、鉄からアルミへの置き換えが進んでいます",
+    "url": "https://note.com/satokin5522/n/nda9ef071bf66",
+    "pass": 3
+   },
+   {
+    "quote": "また、銅の熱を伝える力は、逆に冷やすことにも利用され、電子部品や自動車部品等の放熱対策にも役に立っています",
+    "url": "https://note.com/satokin5522/n/nda9ef071bf66",
+    "pass": 3
+   },
+   {
+    "quote": "ジュースの缶や軽量化が進むスマホ、飛行機や新幹線のボディ、そして開発が進むロボット部品など、鉄や銅では重くて対応できない場合はアルミ合金が使われます",
+    "url": "https://note.com/satokin5522/n/n35f6ce793af9",
+    "pass": 3
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "未知への一歩を恐れずに、素直な気持ちと強い意志を持って「世の中の為になる製品」を創造する",
+    "url": "https://www.satokin.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "試作開発から提案、鋳造、熱処理、量産までを一貫して行うワンストップ体制により、顧客のニーズに迅速に対応し、高品質な製品を提供しています",
+    "url": "https://imono-cuttingwork.net/contents/012",
+    "pass": 3
+   },
+   {
+    "quote": "柔軟な発想と確かな鋳造技術で満足のいく製品を提供しています",
+    "url": "https://imono-cuttingwork.net/contents/012",
+    "pass": 3
+   },
+   {
+    "quote": "サトキンは、最新の鋳造設備を導入しており、これにより高品質な製品を安定的に供給しています",
+    "url": "https://imono-cuttingwork.net/contents/012",
+    "pass": 3
+   },
+   {
+    "quote": "鋳物加工をすることでより高品質の製品を実現することができます",
+    "url": "https://imono-cuttingwork.net/contents/012",
+    "pass": 3
+   },
+   {
+    "quote": "ここまでは、鋳造加工を行っている株式会社サトキンに強みや製造可能な製品ついてを紹介しましたが、ここからは、鋳造だけではなく、鋳造後の鋳物加工の依頼先を検討している企業担当者向けのおすすめの3社を紹介します",
+    "url": "https://imono-cuttingwork.net/contents/012",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、素材調達から後工程処理までの一貫対応や自社開発の生産管理システム、品質マネジメントシステムを維持し、高品質な製品を安定供給しています",
+    "url": "https://imono-cuttingwork.net/contents/012",
+    "pass": 3
+   },
+   {
+    "quote": "遠心鋳造、連続鋳造、砂型鋳造などの技術を用いて、銅合金製品を製造しており、建設機械や産業用ロボット、ダム水門、橋梁など、幅広い分野で使用される高品質な製品を提供しています",
+    "url": "https://imono-cuttingwork.net/contents/012",
+    "pass": 3
+   },
+   {
+    "quote": "また、ISO9001に基づいた品質管理システムを導入し、蛍光X線分析装置、引張試験機、硬さ試験機などの試験設備を用いて、製品の品質を厳密にチェックしています",
+    "url": "https://imono-cuttingwork.net/contents/012",
+    "pass": 3
+   },
+   {
+    "quote": "ねずみ鋳鉄（FC300）、ダクタイル鋳鉄（FCD450）、ダクタイル鋳鉄と高クロム鋳鉄を同時に鋳込むハイブリットバレルなどの特殊鋳造品を製造しており、長年の技術の蓄積と経験豊かな技能力によって高精度かつ高品質な製品を提供しています",
+    "url": "https://imono-cuttingwork.net/contents/012",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、高性能材料の開発にも注力しており、高剛性高減衰能鋳鉄TAFSON®など、より高精度で高品質な製品の提供が可能となっています",
+    "url": "https://imono-cuttingwork.net/contents/012",
+    "pass": 3
+   },
+   {
+    "quote": "この溶けた金属を、砂や他の材料で作った「鋳型（いがた）」の空洞部分に流し込み、冷却して固めた製品を「...",
+    "url": "https://imono-cuttingwork.net/contents/012",
+    "pass": 3
+   },
+   {
+    "quote": "製品・研究開発（建築・土木・プラント・設備）",
+    "url": "https://ja.nc-net.or.jp/company/47507/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちの身近にあるアルミ製品と言えば『 一円玉 』ですが、金属の歴史の中で私たちの生活には欠かせない材料となった",
+    "url": "https://note.com/satokin5522/n/n35f6ce793af9",
+    "pass": 3
+   },
+   {
+    "quote": "アルミ合金の特性を活かした薄肉の製品！砂型鋳造でこんな繊細な鋳物をつくることができます",
+    "url": "https://note.com/satokin5522/n/n35f6ce793af9",
+    "pass": 3
+   },
+   {
+    "quote": "サトキンは、オンリーワン製品からナンバーワン製品を目指しています！！",
+    "url": "https://note.com/satokin5522/n/n35f6ce793af9",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "8：00am～5：10pm 10分休憩（午前・午後）、昼休み60分",
+    "url": "https://www.satokin.co.jp/recruit.html",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "試作・開発支援｜株式会社サトキン — サトキンでは、小物から大物、複雑形状から薄肉形状などの技術難易度の高い砂型鋳造品など様々な試作支援を行っています。 材質や形状、構造、要求仕様などに合わせて、最適な砂型鋳造の鋳込み条件を算出し試作を行っています。",
+    "url": "https://www.satokin.co.jp/trial.html",
+    "pass": 3
+   },
+   {
+    "quote": "ゼロから1を創り出す砂型鋳造の株式会社サトキン — 砂型鋳造、銅合金鋳造、アルミ鋳造の群馬県 サトキンです。 サトキンの砂型鋳造は小物の超精密鋳物 (100g～500g)から工作機械や船舶に使用される超大型鋳物 (1500kg)まで対応致します。",
+    "url": "https://www.satokin.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "サトキンの製品・サービス一覧｜イプロスものづくり — 小物から大物、高精度、薄肉形状など様々な砂型鋳造が可能 AC4C-T6を使用した砂型鋳造による製品事例をご紹介します。 納入業界は電力関連で、対応ロット数は1個～50個。 製品の重量は18kgで、サイズはΦ290mm×Φ240mm×360mmです。",
+    "url": "https://mono.ipros.com/company/detail/319808/category/",
+    "pass": 3
+   },
+   {
+    "quote": "【砂型鋳造の試作事例】機構ケース（試作） サトキン | イプロスもの... — 『機構ケース』の試作事例をご紹介いたします。 納入業界は電力関連で、対応ロット数は1～100個。 製缶品からの移行で、剛性（強度）と価格、そして 納期の面において有効という結果に繋がりました。",
+    "url": "https://mono.ipros.com/product/detail/2000704536/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜株式会社サトキン — 砂型鋳造、銅合金鋳造、アルミ鋳造の群馬県 サトキンです。 サトキンの砂型鋳造は小物の超精密鋳物 (100g～500g)から工作機械や船舶に使用される超大型鋳物 (1500kg)まで対応致します。",
+    "url": "https://www.satokin.co.jp/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社サトキンの会社概要｜強みや取り扱い内容も紹介 ｜鋳物切削加... — 株式会社サトキンは、砂型鋳造を行う会社です。 主に銅合金鋳造とアルミ鋳造を提供しています。 本記事では、株式会社サトキンの会社概要や強み、取り扱い内容について紹介します。 鋳造品には鋳物加工が欠かせません。",
+    "url": "https://imono-cuttingwork.net/contents/012",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社サトキン（群馬県高崎市） 概要 - 企業情報 — Oct 5, 2015 · この法人データが国税庁で更新されたのは2018年（平成30年）9月28日です。 事業内容、組織沿革、役員名簿、売上高等につきましては、当該法人の公式ウェブサイト等をご確認下さい。",
+    "url": "https://data-link-plus.com/jp/corporation/5070001007041",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社サトキンの会社概要・製品情報 | Metoree — 株式会社サトキンは1946年に設立された群馬県高崎市吉井町塩309-8に本社が所在する会社です。 アルミ鋳物、鋳造加工、大物鋳物、鋳物試作サービス等を取り扱っています。 株式会社サトキンの基本情報や取り扱い製品などの情報を掲載中です",
+    "url": "https://metoree.com/companies/42548/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ｜株式会社サトキン — お電話でのお問い合わせ 〒370-2124 群馬県高崎市吉井町塩309-8 TEL. 027-320-3655 FAX. 027-320-3656 メールでのお問い合わせ",
+    "url": "https://www.satokin.co.jp/ask.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ – サトキンファーム — お問い合わせは以下のフォームに必要情報（お名前、電話番号、メールアドレス）、 お問い合わせ内容を記入していただき、 [送信する]ボタンをクリックしてください。 後日、当店よりメールもしくは電話にてご連絡を差し上げます。",
+    "url": "https://satokinfarm.myshopify.com/pages/contact",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 世の中のためになるモノづくり！！【砂型鋳造のサトキ... — サトキンは小物の超精密鋳物から搬送ロボット部品や船舶に使用される超大型鋳物 (1500kg) まで対応しています。",
+    "url": "https://ja.nc-net.or.jp/company/47507/inquiry/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "株式会社サトキンは、幅広い対応材質と高精度な鋳造技術、試作から量産までのワンストップ体制、独自の鋳包み技術を特徴としています",
+    "url": "https://imono-cuttingwork.net/contents/012",
+    "pass": 3
+   },
+   {
+    "quote": "鉄、アルミ、ステンレス、銅、真鍮、チタン、インコネル、ハステロイなど幅広い素材の高精度加工に対応し、専用治具を用いた複雑な形状や高精度部品の加工が可能です",
+    "url": "https://imono-cuttingwork.net/contents/012",
+    "pass": 3
+   },
+   {
+    "quote": "使用できる金属も用途により様々で、鋳鉄、アルミニウム合金、銅合金、マグネシウム合金等があります",
+    "url": "https://note.com/satokin5522/n/nda9ef071bf66",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "お問い合わせは以下のフォームに必要情報（お名前、電話番号、メールアドレス）、",
+    "url": "https://satokinfarm.myshopify.com/pages/contact",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ内容を記入していただき、[送信する]ボタンをクリックしてください",
+    "url": "https://satokinfarm.myshopify.com/pages/contact",
+    "pass": 3
+   },
+   {
+    "quote": "後日、当店よりメールもしくは電話にてご連絡を差し上げます",
+    "url": "https://satokinfarm.myshopify.com/pages/contact",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 砂型鋳造のサトキン（群馬）は、アルミ鋳物 銅合金鋳物を魂を込めてつくっている会社です",
+    "url": "https://ja.nc-net.or.jp/company/47507/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "当社からの連絡に必要な電子メールアドレスを用意してそのアドレスを当社に対して登録すること",
+    "url": "https://ja.nc-net.or.jp/company/47507/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、会員に対し、会員が登録情報として提供した電子メールアドレス宛に電子メールにより随時必要な事項の通知または連絡を行うものとします",
+    "url": "https://ja.nc-net.or.jp/company/47507/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "かかる連絡は、通常電子メールが到達する期間が経過した時に会員に到達したものとします",
+    "url": "https://ja.nc-net.or.jp/company/47507/inquiry/input/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "アルミ鋳造・銅合金鋳造の材料について｜(株)サトキンは 【 砂型鋳造... Feb 13, 2023 · 【 サトキンのモノづくり 】アルミ合金と銅合金鋳造を主に取り扱い、大型・薄肉・鋳包み部品を得意としています。 産業ロボット部品（アルミ鋳物）は鋳肌にこだわり、銅合金鋳造では、素材重量1,000㎏を鋳込め、アルミ青銅を取り扱える国内有数の企業です。",
+    "url": "https://note.com/satokin5522/n/nda9ef071bf66",
+    "pass": 3
+   },
+   {
+    "quote": "(株)サトキンは 【 砂型鋳造で世の中のためになる鋳物をつくっていま... (株)サトキンは 【 砂型鋳造で世の中のためになる鋳物をつくっています！ 】 【 サトキンのモノづくり 】アルミ合金と銅合金鋳造を主に取り扱い、大型・薄肉・鋳包み部品を得意としています。",
+    "url": "https://note.com/satokin5522",
+    "pass": 3
+   },
+   {
+    "quote": "(株)サトキンは 【 砂型鋳造で世の中のためになる鋳物をつくっていま... Nov 10, 2021 · (株)サトキンは 【 砂型鋳造で世の中のためになる鋳物をつくっています！ 】 【 サトキンのモノづくり 】アルミ合金と銅合金鋳造を主に取り扱い、大型・薄肉・鋳包み部品を得意としています。",
+    "url": "https://note.com/satokin5522/all",
+    "pass": 3
+   },
+   {
+    "quote": "美肌の鋳肌（いはだ）！】アルミ合金鋳造｜(株)サトキンは 【 砂型鋳... Sep 22, 2021 · 【 大きなもの 】【 肉厚なもの 】 幅広い業界のニーズに対応できます！ ！ 鋳肌の美しい大物の鋳物をつくりたいお客様は必見です。 サトキンは、オンリーワン製品からナンバーワン製品を目指しています！ ！",
+    "url": "https://note.com/satokin5522/n/n35f6ce793af9",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "アルミ鋳造・銅合金鋳造の材料について｜(株)サトキンは 【 砂型鋳造で世の中のためになる鋳物をつくっています！ 】",
+    "url": "https://note.com/satokin5522/n/nda9ef071bf66",
+    "pass": 3
+   },
+   {
+    "quote": "(株)サトキンは 【 砂型鋳造で世の中のためになる鋳物をつくっています！ 】",
+    "url": "https://note.com/satokin5522/n/nda9ef071bf66",
+    "pass": 3
+   },
+   {
+    "quote": "鋳造は、金属を溶かして鋳型に入れることで、作りたい形状を容易に形にすることができ、",
+    "url": "https://note.com/satokin5522/n/nda9ef071bf66",
+    "pass": 3
+   },
+   {
+    "quote": "自動車部品・産業機械部品・宇宙部品・船舶部品・鉄道部品・医療部品・景観品等",
+    "url": "https://note.com/satokin5522/n/nda9ef071bf66",
+    "pass": 3
+   },
+   {
+    "quote": "、私たちの生活になくてはならない存在となっています。使用できる金属も用途により様々で、鋳鉄、アルミニウム合金、銅合金、マグネシウム合金等があります。今回はその中でも弊社で主に取り扱っている、",
+    "url": "https://note.com/satokin5522/n/nda9ef071bf66",
+    "pass": 3
+   },
+   {
+    "quote": "アルミニウムは金属の中でも密度が2.7g/㎝³と低く軽量な方で、融点は660.3℃です。電気・熱伝導性に優れ、展延性に富んでいます。",
+    "url": "https://note.com/satokin5522/n/nda9ef071bf66",
+    "pass": 3
+   },
+   {
+    "quote": "私たちがつくっている鋳物用アルミ二ウム合金は、＜表１＞に示すように 熱処理を必要とする",
+    "url": "https://note.com/satokin5522/n/nda9ef071bf66",
+    "pass": 3
+   },
+   {
+    "quote": "に分類できます。熱処理型はなぜ熱処理が必要かというと、鋳物を熱処理すると結晶構造やその金属の性質が変化し、その結果金属を強くしたり、さびにくくさせる事を可能にします。つくる鋳物の用途により、必要な機械的性質に変化させる事ができるという訳です。軽量化が進む今、熱処理により機械性質をコントロールできるアルミ合金が更に活躍しそうですね。",
+    "url": "https://note.com/satokin5522/n/nda9ef071bf66",
+    "pass": 3
+   },
+   {
+    "quote": "(株)サトキンは 【 砂型鋳造で世の中のためになる鋳物をつくっています！ 】｜note",
+    "url": "https://note.com/satokin5522",
+    "pass": 3
+   },
+   {
+    "quote": "(株)サトキンは 【 砂型鋳造で世の中のためになる鋳物をつくっています！ 】",
+    "url": "https://note.com/satokin5522",
+    "pass": 3
+   },
+   {
+    "quote": "★ブロンズに輝く大きなお釜★【 砂型鋳造 】でつくる工程をご紹介します！！",
+    "url": "https://note.com/satokin5522",
+    "pass": 3
+   },
+   {
+    "quote": "【 美肌の鋳肌（いはだ）！】アルミ合金鋳造",
+    "url": "https://note.com/satokin5522",
+    "pass": 3
+   },
+   {
+    "quote": "(株)サトキンは 【 砂型鋳造で世の中のためになる鋳物をつくっています！ 】の記事一覧｜note",
+    "url": "https://note.com/satokin5522/all",
+    "pass": 3
+   },
+   {
+    "quote": "(株)サトキンは 【 砂型鋳造で世の中のためになる鋳物をつくっています！ 】",
+    "url": "https://note.com/satokin5522/all",
+    "pass": 3
+   },
+   {
+    "quote": "★ブロンズに輝く大きなお釜★【 砂型鋳造 】でつくる工程をご紹介します！！",
+    "url": "https://note.com/satokin5522/all",
+    "pass": 3
+   },
+   {
+    "quote": "【 美肌の鋳肌（いはだ）！】アルミ合金鋳造",
+    "url": "https://note.com/satokin5522/all",
+    "pass": 3
+   },
+   {
+    "quote": "【 美肌の鋳肌（いはだ）！】アルミ合金鋳造｜(株)サトキンは 【 砂型鋳造で世の中のためになる鋳物をつくっています！ 】",
+    "url": "https://note.com/satokin5522/n/n35f6ce793af9",
+    "pass": 3
+   },
+   {
+    "quote": "【 美肌の鋳肌（いはだ）！】アルミ合金鋳造",
+    "url": "https://note.com/satokin5522/n/n35f6ce793af9",
+    "pass": 3
+   },
+   {
+    "quote": "(株)サトキンは 【 砂型鋳造で世の中のためになる鋳物をつくっています！ 】",
+    "url": "https://note.com/satokin5522/n/n35f6ce793af9",
+    "pass": 3
+   },
+   {
+    "quote": "私たちの身近にあるアルミ製品と言えば『 一円玉 』ですが、金属の歴史の中で私たちの生活には欠かせない材料となった",
+    "url": "https://note.com/satokin5522/n/n35f6ce793af9",
+    "pass": 3
+   },
+   {
+    "quote": "。実は、2000年以上も前に使われている鉄や銅に比べると、",
+    "url": "https://note.com/satokin5522/n/n35f6ce793af9",
+    "pass": 3
+   },
+   {
+    "quote": "ととても新しくて若い金属です。ジュースの缶や軽量化が進むスマホ、飛行機や新幹線のボディ、そして開発が進むロボット部品など、鉄や銅では重くて対応できない場合はアルミ合金が使われます。",
+    "url": "https://note.com/satokin5522/n/n35f6ce793af9",
+    "pass": 3
+   },
+   {
+    "quote": "★アルミ合金ならではの美しさをご覧ください★",
+    "url": "https://note.com/satokin5522/n/n35f6ce793af9",
+    "pass": 3
+   },
+   {
+    "quote": "アルミ合金の特性を活かした薄肉の製品！砂型鋳造でこんな繊細な鋳物をつくることができます。",
+    "url": "https://note.com/satokin5522/n/n35f6ce793af9",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "サトキン (@bpi5m) / X Feb 20, 2023 · Mention Follow Posts Posts RepliesReplies RepostsReposts MediaMedia サトキン @bpi5m Jun 13, 2023",
+    "url": "https://x.com/bpi5m",
+    "pass": 3
+   },
+   {
+    "quote": "サトキン (@z0rdal8sFckEKYO) / X Jan 10, 2023 · Mention Follow PostsPosts RepliesReplies RepostsReposts MediaMedia サトキン @z0rdal8sFckEKYO Jan 10, 2023 サトキンファーム satokin.raku-uru.jp",
+    "url": "https://x.com/z0rdal8sFckEKYO",
+    "pass": 3
+   },
+   {
+    "quote": "サトキンサイト on X: \"パワーハラスメント\" / X Aug 17, 2026 · パワーハラスメント サトキンサイト @IwoCtI8hkXX0qBE パワーハラスメント 5:52 PM · Aug 17, 2026 1Views",
+    "url": "https://x.com/IwoCtI8hkXX0qBE/status/2089410137161396513",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.satokin.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.satokin.co.jp/products.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.satokin.co.jp/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.satokin.co.jp/ask.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.satokin.co.jp/equipment.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.satokin.co.jp/recruit.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.satokin.co.jp/img/products/001.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.satokin.co.jp/img/products/006.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.satokin.co.jp/img/products/1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.satokin.co.jp/img/products/2.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.satokin.co.jp/img/products/3.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.satokin.co.jp/img/products/4.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.satokin.co.jp/img/products/5.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.satokin.co.jp/img/products/6.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.satokin.co.jp/img/products/7.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.satokin.co.jp/img/products/btn.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "http://www.sakaguchi-tanko.co.jp/service/lot.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://imono-cuttingwork.net/contents/012",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://satokinfarm.myshopify.com/pages/contact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.nc-net.or.jp/company/47507/inquiry/input/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/satokin5522/n/nda9ef071bf66",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/satokin5522",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/satokin5522/all",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/satokin5522/n/n35f6ce793af9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/satokin5522/n/nda9ef071bf66",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/satokin5522",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/satokin5522/all",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/satokin5522/n/n35f6ce793af9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/satokin5522/n/nda9ef071bf66",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/satokin5522",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/satokin5522/all",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/satokin5522/n/n35f6ce793af9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/satokin5522/n/nda9ef071bf66",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/satokin5522",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/satokin5522/all",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/satokin5522/n/n35f6ce793af9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/bpi5m",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/z0rdal8sFckEKYO",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/IwoCtI8hkXX0qBE/status/2089410137161396513",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "サトキン 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.satokin.co.jp/trial.html",
+    "https://www.satokin.co.jp/",
+    "http://www.sakaguchi-tanko.co.jp/service/lot.php",
+    "https://mono.ipros.com/company/detail/319808/category/",
+    "https://mono.ipros.com/product/detail/2000704536/",
+    "https://www.ipros.com/product/detail/2000704537/",
+    "https://www.ipros.com/product/detail/2000704539/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "サトキン 会社概要 事業内容",
+   "results": [
+    "https://www.satokin.co.jp/company.html",
+    "https://www.satokin.co.jp/",
+    "https://imono-cuttingwork.net/contents/012",
+    "https://data-link-plus.com/jp/corporation/5070001007041",
+    "https://metoree.com/companies/42548/",
+    "https://mono.ipros.com/company/detail/319808/",
+    "https://ja.nc-net.or.jp/company/47507/product/",
+    "https://www.sato-global.com/ja/about/company/overview/",
+    "https://www.fp-satoken.com/about/",
+    "http://satoken.biz/profile/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "サトキン お問い合わせ メール",
+   "results": [
+    "https://www.satokin.co.jp/ask.html",
+    "https://satokinfarm.myshopify.com/pages/contact",
+    "https://ja.nc-net.or.jp/company/47507/inquiry/",
+    "https://www.satokin.co.jp/",
+    "https://ja.nc-net.or.jp/company/47507/inquiry/input/",
+    "https://www.sankin.co.jp/contact/",
+    "https://www.sato.co.jp/contact/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com サトキン",
+   "results": [
+    "https://note.com/satokin5522/n/nda9ef071bf66",
+    "https://note.com/satokin5522",
+    "https://note.com/satokin5522/all",
+    "https://note.com/satokin5522/n/n35f6ce793af9",
+    "https://note.com/satokin5522/n/n1a2c9a9f29f7",
+    "https://note.com/satokin5522/n/n5614b3715b8a",
+    "https://note.com/satokin5522/n/n2ad3a0409491"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com サトキン",
+   "results": [
+    "https://note.com/satokin5522/n/nda9ef071bf66",
+    "https://note.com/satokin5522",
+    "https://note.com/satokin5522/all",
+    "https://note.com/satokin5522/n/n35f6ce793af9",
+    "https://note.com/satokin5522/n/n1a2c9a9f29f7",
+    "https://note.com/satokin5522/n/n5614b3715b8a",
+    "https://note.com/satokin5522/n/n2ad3a0409491"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com サトキン",
+   "results": [
+    "https://note.com/satokin5522/n/nda9ef071bf66",
+    "https://note.com/satokin5522",
+    "https://note.com/satokin5522/all",
+    "https://note.com/satokin5522/n/n35f6ce793af9",
+    "https://note.com/satokin5522/n/n1a2c9a9f29f7",
+    "https://note.com/satokin5522/n/n5614b3715b8a",
+    "https://note.com/satokin5522/n/n2ad3a0409491"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com サトキン",
+   "results": [
+    "https://note.com/satokin5522/n/nda9ef071bf66",
+    "https://note.com/satokin5522",
+    "https://note.com/satokin5522/all",
+    "https://note.com/satokin5522/n/n35f6ce793af9",
+    "https://note.com/satokin5522/n/n1a2c9a9f29f7",
+    "https://note.com/satokin5522/n/n5614b3715b8a",
+    "https://note.com/satokin5522/n/n2ad3a0409491"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "サトキン note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.com/sadaaki",
+    "https://note.com/saiyou_dekirukun/all",
+    "https://x.com/sadaaki"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "サトキン X 投稿",
+   "results": [
+    "https://x.com/bpi5m",
+    "https://x.com/z0rdal8sFckEKYO",
+    "https://x.com/IwoCtI8hkXX0qBE/status/2089410137161396513",
+    "https://www.instagram.com/satokin7.7/",
+    "https://x.com/satotin_yusuke/status/2119564018809778250",
+    "https://x.com/mmmmmmofumofu/status/2117175195102482810",
+    "https://search.yahoo.co.jp/realtime/search/シッキン/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "代表者": "記載なし（3回確認済み：公式6頁／PDF・画像10件／外部23頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像10件／外部23頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式6頁／PDF・画像10件／外部23頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式6頁／PDF・画像10件／外部23頁・検索9回）"
+ }
+}

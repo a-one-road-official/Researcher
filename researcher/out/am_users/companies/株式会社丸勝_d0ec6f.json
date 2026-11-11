@@ -1,0 +1,758 @@
+{
+ "name": "株式会社丸勝",
+ "aliases": [],
+ "context": "ipros_all:小ロット",
+ "researched_at": "2026-11-11T11:16:30.502127+00:00",
+ "official_url": "https://www.mrkt.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒959-1512新潟県南蒲原郡田上町羽生田123番地 ＜地図＞ TEL.0256-57-2081(代)\n\nFAX.0256-57-3581",
+    "url": "https://www.mrkt.co.jp/companyinfo/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "46名 / 2026年 3月 1日 現在",
+    "url": "https://www.mrkt.co.jp/companyinfo/",
+    "pass": 1
+   }
+  ],
+  "拠点": [
+   {
+    "label": "工場面積",
+    "value": "敷地： 約8,000㎡",
+    "url": "https://www.mrkt.co.jp/companyinfo/",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "ユニチカ株式会社 　株式会社有沢製作所 　株式会社ニチビ 　日本レヂボン株式会社",
+    "url": "https://www.mrkt.co.jp/companyinfo/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "ガラス繊維織物製造 ガラスクロス（断熱用、道路補強用、FRP補強用、バグフィルター用、アルミ濾過用、耐火スクリーン用、シリカ用、ウレタン補強用、砥石用、等） ガラスロービングクロス（FRP補強用、重電用、建築材用、道路補強用、等） （FRP用、防蝕ライニング用、アルミ濾過用、等） 炭素繊維織物製造 カーボンクロス（航空機機材用、スポーツ用品、等） アルミナ繊維、アラミド繊維等特殊繊維織物製造",
+    "url": "https://www.mrkt.co.jp/companyinfo/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱材料": [
+   {
+    "quote": "株式会社丸勝 – ガラス繊維織物（ガラスクロス・ガラスロービングクロス）/炭素繊維織物（カーボンクロス・カーボン）",
+    "url": "https://www.mrkt.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ガラス繊維織物（ガラスクロス・ガラスロービングクロス）/炭素繊維織物（カーボンクロス・カーボン）",
+    "url": "https://www.mrkt.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "熱可塑性複合材料【プリプレグ・セミプレーグシート】開発中",
+    "url": "https://www.mrkt.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ガラス繊維織物（ガラスクロス・ガラスロービングクロス）/炭素繊維織物（カーボンクロス・カーボン）",
+    "url": "https://www.mrkt.co.jp/companyinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "資本金1,000万円に増資炭素繊維織物生産を開始",
+    "url": "https://www.mrkt.co.jp/companyinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "第3工場建設 炭素繊維織物を分離生産拡充",
+    "url": "https://www.mrkt.co.jp/companyinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "ガラス繊維織物（ガラスクロス・ガラスロービングクロス）/炭素繊維織物（カーボンクロス・カーボン）",
+    "url": "https://www.mrkt.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "1Kから24Kまでの炭素繊維を、平織・綾織・朱子織等の織物（カーボンクロス）に自在に製織します",
+    "url": "https://www.mrkt.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "ガラス繊維、炭素繊維をはじめアラミド繊維の他、銅線、ステンレス線等の金属繊維を複合したハイブリッドクロスをご希望に合わせ多様な織り方で製織いたします",
+    "url": "https://www.mrkt.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "ガラス繊維織物（ガラスクロス・ガラスロービングクロス）/炭素繊維織物（カーボンクロス・カーボン）",
+    "url": "https://www.mrkt.co.jp/facilities_machines/",
+    "pass": 1
+   },
+   {
+    "quote": "ガラス繊維織物（ガラスクロス・ガラスロービングクロス）/炭素繊維織物（カーボンクロス・カーボン）",
+    "url": "https://www.mrkt.co.jp/products/%EF%BC%83%EF%BD%88%EF%BD%83",
+    "pass": 1
+   },
+   {
+    "quote": "ガラス繊維織物（ガラスクロス・ガラスロービングクロス）/炭素繊維織物（カーボンクロス・カーボン）",
+    "url": "https://www.mrkt.co.jp/products/%EF%BC%83bias",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "お客様の要求に試作・設計から量産に至るまで、徹底して応える",
+    "url": "https://www.mrkt.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "また、超高温耐熱繊維アルミナや高強度高弾性率アラミド繊維をはじめ、あらゆる新素材高性能繊維の織物を小ロットの試行から短納期で対応いたします",
+    "url": "https://www.mrkt.co.jp/companyinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、家畜の生体情報や体調をヒアリングし、オーダーメイドの飼料設計やメニュー提案、資材調達などのトータルコンサルティングを行います",
+    "url": "https://www.marukatsu.info/",
+    "pass": 3
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "また、長年培った製織技術を応用し、創意工夫とチャレンジ精神で新しい織物の開発に力を注ぎ、ラケットからロケットまでを合言葉に、当社の製品（ガラスクロス、カーボンクロス等）はスポーツ用品から航空宇宙用途まで幅広く採用され社会に貢献しています",
+    "url": "https://www.mrkt.co.jp/companyinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "自動倉庫建設（原料、製品、約400PL収納）",
+    "url": "https://www.mrkt.co.jp/companyinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "テーブルウェア（陶磁器・ガラス・木製品・金属）の企画制作・卸売・小売",
+    "url": "https://maru-katsu.co.jp/craft_mk/user_data/company",
+    "pass": 3
+   },
+   {
+    "quote": "国内外メーカーと幅広いネットワークを築き、豊富な品ぞろえと高品質な製品をご提供しております",
+    "url": "https://www.tokyomarukatsu.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "近年では、メーカー既製品だけでなく別注製作や什器製作のご依頼も増えており、よりお客様のご要望にお応えできるよう、従業員一同、日々精進を続けております",
+    "url": "https://www.tokyomarukatsu.co.jp/company/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "また、長年培った製織技術を応用し、創意工夫とチャレンジ精神で新しい織物の開発に力を注ぎ、ラケットからロケットまでを合言葉に、当社の製品（ガラスクロス、カーボンクロス等）はスポーツ用品から航空宇宙用途まで幅広く採用され社会に貢献しています",
+    "url": "https://www.mrkt.co.jp/companyinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "具体的には、土木資材（アスファルト補強）用、断熱用、バグフィルター用、アルミ濾過用、超高温耐熱（シリカ）用、電気絶縁用、FRP用、コーテッド用等のガラスクロス、ガラスロービングクロス、と、スポーツ用品から車両、航空宇宙用のカーボンクロスを中心に委託製造および製造販売をいたしております",
+    "url": "https://www.mrkt.co.jp/companyinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "カーボンクロス（航空機機材用、スポーツ用品、等）",
+    "url": "https://www.mrkt.co.jp/companyinfo/",
+    "pass": 1
+   },
+   {
+    "quote": "断熱用、アルミ張り用、テント・コーテッド用、ウレタン補強用、アルミろ過用、バグフィルター用、シリカ用、砥石用、FRP補強用、道路補強用等幅広い用途に使用され、シリカ用クロスではH-ⅡA/Bロケットに採用されております",
+    "url": "https://www.mrkt.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "【用途：バグフィルター用、シリカ用、コーテッド用等】※シリカ処理後、H-ⅡA固体ロケットブースターに採用",
+    "url": "https://www.mrkt.co.jp/products/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "formmail@maru-katsu.co.jp",
+    "url": "https://maru-katsu.co.jp/craft_mk/user_data/company",
+    "pass": 3
+   },
+   {
+    "quote": "MAIL : e-mame@marukatsu.info",
+    "url": "https://www.marukatsu.info/",
+    "pass": 3
+   },
+   {
+    "quote": "通常、お問い合わせのご返信は2、3営業日以内を心がけております",
+    "url": "https://maru-katsu.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "数日経っても当社からの返信がない場合は、ご入力いただいたメールアドレスに間違い、又はお客様のメールサーバーの設定などにより自動的に「迷惑メール」として格納される場合があります",
+    "url": "https://maru-katsu.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "※お問い合わせより7営業日以内でご連絡が無い場合は、恐れ入りますが再度お問い合わせいただきますようお願いいたします",
+    "url": "https://maru-katsu.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせいただきました内容は、当社の掲げる個人情報保護方針に沿って管理し、お客様の同意なく第三者に開示・提供することはございません",
+    "url": "https://maru-katsu.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "商品に関するお問い合わせ、お見積、新規取引のご希望など、",
+    "url": "https://maru-katsu.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "メールやお電話での様々なお問い合わせを承っております",
+    "url": "https://www.marusyou111.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "メールでの仕事ご相談・求人ご応募・お問い合わせは",
+    "url": "https://www.marusyou111.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "工事ご相談・求人ご応募・その他お問い合わせの際は、",
+    "url": "https://www.marusyou111.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせの際は下記の「個人情報保護方針」をご確認ください",
+    "url": "https://www.marusyou111.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "個人情報の利用目的：お問い合わせへの回答にご利用させていただく場合があります",
+    "url": "https://www.marusyou111.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ｜丸勝モルダー特殊加工（公式ホームページ）",
+    "url": "https://moruder.jp/pages/5/",
+    "pass": 3
+   },
+   {
+    "quote": "■返信メールをお受け取りいただけるよう、受信設定（迷惑メール設定）等をお確かめください",
+    "url": "https://moruder.jp/pages/5/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "MAIL : e-mame@marukatsu.info",
+    "url": "https://www.marukatsu.info/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "CRAFT MK | 会社概要 - 丸勝 — CRAFT MK | 会社概要 - 丸勝 株式会社丸勝 https://maru-katsu.co.jp > craft_mk > user_data > company",
+    "url": "https://maru-katsu.co.jp/craft_mk/user_data/company",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社 丸勝 — 株式 会社 丸勝 marukatsu.info https://www.marukatsu.info",
+    "url": "https://www.marukatsu.info/",
+    "pass": 3
+   },
+   {
+    "quote": "会社 案内 - 株式会社東京丸勝 — 会社 案内 - 株式会社東京丸勝 株式会社東京丸勝 https://www.tokyomarukatsu.co.jp > company",
+    "url": "https://www.tokyomarukatsu.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 丸勝 の 会社概要 - マイナビ転職 — 株式会社 丸勝 の 会社概要 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company",
+    "url": "https://tenshoku.mynavi.jp/company/455544/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ ｜株式会社 丸勝 — お問い合わせ ｜株式会社 丸勝 株式会社丸勝 https://maru-katsu.co.jp > contact",
+    "url": "https://maru-katsu.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | 丸勝 — お問い合わせ | 丸勝 marusyou111.com https://www.marusyou111.com > contact",
+    "url": "https://www.marusyou111.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 丸勝モルダー特殊加工のホームページ — お問い合わせ - 丸勝モルダー特殊加工のホームページ 丸勝モルダー特殊加工 https://moruder.jp > pages",
+    "url": "https://moruder.jp/pages/5/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 丸勝水産株式会社 — お問い合わせ - 丸勝水産株式会社 丸勝水産株式会社 https://marukatusuisan.com > contactform",
+    "url": "https://marukatusuisan.com/contactform",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 中国料理 丸勝 — お問い合わせ - 中国料理 丸勝 中国料理 丸勝 https://www.marushou.net > contact",
+    "url": "https://www.marushou.net/contact/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "敬和キャンパスレポ Vol.70 20210205 丸勝 建設株式会社で ... 敬和キャンパスレポ Vol.70 20210205 丸勝 建設株式会社で ... note https://note.com > ... > その他人物インタビュー",
+    "url": "https://note.com/keiwacampus/n/ne0bedee5610d",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "敬和キャンパスレポ Vol.70 20210205 丸勝建設株式会社で活躍する卒業生坂井雪香さん｜敬和キャンパスレポ",
+    "url": "https://note.com/keiwacampus/n/ne0bedee5610d",
+    "pass": 3
+   },
+   {
+    "quote": "敬和キャンパスレポ Vol.70 20210205 丸勝建設株式会社で活躍する卒業生坂井雪香さん",
+    "url": "https://note.com/keiwacampus/n/ne0bedee5610d",
+    "pass": 3
+   },
+   {
+    "quote": "2/5の敬和キャンパスレポは、見附市の丸勝建設株式会社で活躍する卒業生、坂井雪香さんをお迎えしました。在学中は国際ダンスサークルの部長でもあった坂井さんは、卒業後フィリピン・セブにて、「インターンシップ留学」を経験したあと、見附市で現在の仕事についています。現在は丸勝建設株式会社の営業として、同社が運営する天然温泉麻生の湯（長岡市）の運営にも注力されています。在学中のこと、セブでの生活のこと、現在のお仕事のこと、さまざまうかがいました。MCは吉田。",
+    "url": "https://note.com/keiwacampus/n/ne0bedee5610d",
+    "pass": 3
+   },
+   {
+    "quote": "「敬和キャンパスレポ」放送済み番組アーカイブ",
+    "url": "https://note.com/keiwacampus/n/ne0bedee5610d",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "麺酒場 丸勝 (@marukatu2oo8) / X 麺酒場 丸勝 (@marukatu2oo8) / X X https://x.com > ...",
+    "url": "https://x.com/marukatu2oo8",
+    "pass": 3
+   },
+   {
+    "quote": "麺酒場 丸勝 on X: \"カウンター並び5名空きました\" / X 麺酒場 丸勝 on X: \"カウンター並び5名空きました\" / X X https://x.com > @marukatu2oo8",
+    "url": "https://x.com/marukatu2oo8/status/2116731822944252210",
+    "pass": 3
+   },
+   {
+    "quote": "麺酒場 丸勝 on X - @marukatu2oo8 麺酒場 丸勝 on X - @marukatu2oo8 X https://x.com > @marukatu2oo8",
+    "url": "https://x.com/marukatu2oo8/status/2115808966471225673",
+    "pass": 3
+   },
+   {
+    "quote": "麺酒場 丸勝 on X - @marukatu2oo8 麺酒場 丸勝 on X - @marukatu2oo8 X https://x.com > @marukatu2oo8",
+    "url": "https://x.com/marukatu2oo8/status/2119658663271161980",
+    "pass": 3
+   },
+   {
+    "quote": "瀬津 丸 勝 (Masaru Setsumaru) (@MasaruSetsumaru) / X 瀬津 丸 勝 (Masaru Setsumaru) (@MasaruSetsumaru) / X X https://x.com > MasaruSetsumaru",
+    "url": "https://x.com/MasaruSetsumaru",
+    "pass": 3
+   },
+   {
+    "quote": "麺酒場 丸勝 on X : \"満席  \" / X - @marukatu2oo8 麺酒場 丸勝 on X : \"満席  \" / X - @marukatu2oo8 X https://x.com > @marukatu2oo8",
+    "url": "https://x.com/marukatu2oo8/status/2001250108462289033",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Ritsuko Takeuchi - 丸勝 運輸株式会社 - 取締役 | LinkedIn Ritsuko Takeuchi - 丸勝 運輸株式会社 - 取締役 | LinkedIn LinkedIn https://jp.linkedin.com > ...",
+    "url": "https://jp.linkedin.com/in/ritsuko-takeuchi-8174b080",
+    "pass": 3
+   },
+   {
+    "quote": "Kota Kajiwara - 株式会社 丸勝 - 取締役 | LinkedIn Kota Kajiwara - 株式会社 丸勝 - 取締役 | LinkedIn LinkedIn https://jp.linkedin.com > kota-kajiwara-96613590",
+    "url": "https://jp.linkedin.com/in/kota-kajiwara-96613590",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "会席料理 丸勝 | Kurihara-shi Miyagi - Facebook 会席料理 丸勝 | Kurihara-shi Miyagi - Facebook Facebook https://www.facebook.com > ... > Kaiseki Restaurant",
+    "url": "https://www.facebook.com/p/%E4%BC%9A%E5%B8%AD%E6%96%99%E7%90%86-%E4%B8%B8%E5%8B%9D-100063635949849/",
+    "pass": 3
+   },
+   {
+    "quote": "丸勝 食堂 - Home | Facebook 丸勝 食堂 - Home | Facebook Facebook https://www.facebook.com > ...",
+    "url": "https://www.facebook.com/297096123786869",
+    "pass": 3
+   },
+   {
+    "quote": "丸勝 食品 | Yawata-shi Kyoto - Facebook 丸勝 食品 | Yawata-shi Kyoto - Facebook Facebook https://www.facebook.com > ... > 食料品店 > グルメ食料品",
+    "url": "https://www.facebook.com/marukatsushokuhin/?locale=ja_JP",
+    "pass": 3
+   },
+   {
+    "quote": "丸勝 建築株式会社 - Facebook 丸勝 建築株式会社 - Facebook Facebook https://www.facebook.com > ... > 自宅の改装 > 建設会社",
+    "url": "https://www.facebook.com/marukatsukenchiku/?locale=ja_JP",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.mrkt.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mrkt.co.jp/companyinfo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mrkt.co.jp/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mrkt.co.jp/facilities_machines/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mrkt.co.jp/products/%EF%BC%83%EF%BD%88%EF%BD%83",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mrkt.co.jp/products/%EF%BC%83bias",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mrkt.co.jp/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mrkt.co.jp/companyinfo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mrkt.co.jp/facilities_machines/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.mrkt.co.jp/app/themes/mrk2018/img/200_product.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mfg-hack.com/plastic/10134/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=rL1D8Ah3h3g",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://maru-katsu.co.jp/craft_mk/user_data/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marukatsu.info/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyomarukatsu.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://maru-katsu.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marusyou111.com/contact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://moruder.jp/pages/5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/keiwacampus/n/ne0bedee5610d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/marukatu2oo8",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/marukatu2oo8/status/2116731822944252210",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/marukatu2oo8/status/2115808966471225673",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/marukatu2oo8/status/2119658663271161980",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/ritsuko-takeuchi-8174b080",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/kota-kajiwara-96613590",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/%E4%BC%9A%E5%B8%AD%E6%96%99%E7%90%86-%E4%B8%B8%E5%8B%9D-100063635949849/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/297096123786869",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/marukatsushokuhin/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/marukatsukenchiku/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MasaruSetsumaru",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/marukatu2oo8/status/2001250108462289033",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "丸勝 取扱製品 試作 小ロット",
+   "results": [
+    "https://injection-lab.com/technology/64-2.html",
+    "https://mfg-hack.com/plastic/10134/",
+    "https://www.youtube.com/watch?v=rL1D8Ah3h3g",
+    "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "https://injection-fuchu.com/column/1203/",
+    "https://www.rd-stuff.com/injectionmolding-lp/",
+    "https://www.xeffect.com/small/",
+    "https://www.youtube.com/watch?v=hUn4tT9VgWU",
+    "http://www.plus-atlas.co.jp/trial.php",
+    "https://www.furutaka-netsel.co.jp/utility/elec_26_small-lot"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "丸勝 会社概要 事業内容",
+   "results": [
+    "https://maru-katsu.co.jp/craft_mk/user_data/company",
+    "https://www.marukatsu.info/",
+    "https://www.tokyomarukatsu.co.jp/company/",
+    "https://www.marukatsu-eco.co.jp/company.html",
+    "https://tenshoku.mynavi.jp/company/455544/",
+    "https://www.mrkt.co.jp/companyinfo/",
+    "https://shachomeikan.jp/corporations/24696",
+    "http://www.kezuribushi.com/kaisya_gaiyo.html",
+    "https://baseconnect.in/companies/d6d85bd1-5fee-4b67-8ef4-f2fb5dd3e4e4"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "丸勝 お問い合わせ メール",
+   "results": [
+    "https://maru-katsu.co.jp/contact/",
+    "https://www.marusyou111.com/contact",
+    "https://moruder.jp/pages/5/",
+    "https://marukatusuisan.com/contactform",
+    "https://www.marushou.net/contact/",
+    "https://www.marukatsu.info/contact/",
+    "http://www.kezuribushi.com/otoiawase.php",
+    "https://www.maru-katu.co.jp/pages/3/",
+    "https://marukatu.com/contact/",
+    "https://www.marusho-jing-xin.com/contact/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com 丸勝",
+   "results": [
+    "https://note.com/sevenrich/n/n57798fc1b8dc",
+    "https://note.com/keiwacampus/n/ne0bedee5610d",
+    "https://note.com/miwa_takada/n/ncc5bb856cea7",
+    "https://note.com/miwa_takada/n/n1431318a0f22",
+    "https://note.com/wagyumafia/n/n066b3e0d46fe",
+    "https://note.com/miwa_takada/n/nc5d378196ca8",
+    "https://note.com/prima_higashit01/n/n99e4626d9339",
+    "https://note.com/miwa_takada/n/n95c2b2ceeb3e",
+    "https://note.com/miwa_takada/n/nb46ce75797bf",
+    "https://note.com/loglass_post/n/nbc8c2f2619f8"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com 丸勝",
+   "results": [
+    "https://x.com/marukatu2oo8",
+    "https://x.com/marukatu2oo8/status/2116731822944252210",
+    "https://x.com/marukatu2oo8/status/2115808966471225673",
+    "https://x.com/marukatu2oo8/status/2119658663271161980",
+    "https://x.com/MasaruSetsumaru",
+    "https://x.com/marukatu2oo8/status/2118587632360046870",
+    "https://x.com/marukatu2oo8/status/2089731130748748221",
+    "https://x.com/marukatu2oo8/status/2105259186930217088",
+    "https://x.com/marukatu2oo8/status/2105348775040667753",
+    "https://note.com/prima_higashit01/n/n99e4626d9339"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "site:linkedin.com 丸勝",
+   "results": [
+    "https://jp.linkedin.com/in/ritsuko-takeuchi-8174b080",
+    "https://jp.linkedin.com/in/kota-kajiwara-96613590",
+    "https://jp.linkedin.com/in/hayato-matsuba-a06a7a184",
+    "https://www.linkedin.com/pub/dir/%E5%8B%9D%E5%88%A9/%E7%94%B0%E4%B8%AD",
+    "https://www.linkedin.com/pub/dir/%E3%81%8B%E3%81%A4/%E3%81%9F%E3%81%AA%E3%81%8B",
+    "https://www.linkedin.com/pub/dir/Katsutoshi/Tanaka",
+    "https://jp.linkedin.com/in/toshio-katayama-b7b77878",
+    "https://th.linkedin.com/in/masaki-uemura-8bb15527b",
+    "https://jp.linkedin.com/in/%E5%AD%9D%E5%AD%90-%E5%8B%9D%E4%B8%B8-19242b406",
+    "https://note.com/prima_higashit01/n/n99e4626d9339"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "site:facebook.com 丸勝",
+   "results": [
+    "https://www.facebook.com/p/%E4%BC%9A%E5%B8%AD%E6%96%99%E7%90%86-%E4%B8%B8%E5%8B%9D-100063635949849/",
+    "https://www.facebook.com/297096123786869",
+    "https://www.facebook.com/marukatsushokuhin/?locale=ja_JP",
+    "https://www.facebook.com/marukatsukenchiku/?locale=ja_JP",
+    "https://www.facebook.com/marukatsukenchiku/photos/",
+    "https://www.facebook.com/p/%E4%B8%B8%E5%8B%9D%E9%85%92%E5%A0%B4-100048547818189/",
+    "https://www.facebook.com/kuriharatourism/posts/%E3%82%AC%E3%82%B9%E3%83%88%E3%83%AD%E3%83%8E%E3%83%9F%E3%83%BC%E3%83%84%E3%83%BC%E3%83%AA%E3%82%BA%E3%83%A0%E3%81%AE%E8%A6%96%E5%AF%9F%E2%91%A0%E4%BC%9A%E5%B8%AD%E6%96%99%E7%90%86-%E4%B8%B8%E5%8B%9D%E3%82%B3%E3%83%BC%E3%82%B9%E6%9C%9F%E9%96%932026%E5%B9%B49%E6%9C%8810%E6%97%A5%E6%9C%A811%E6%97%A5%E9%87%91%E4%BB%8A%E5%B9%B4%E5%BA%A6%E3%81%AF%E3%82%AC%E3%82%B9%E3%83%88%E3%83%AD%E3%83%8E%E3%83%9F%E3%83%BC%E3%83%84%E3%83%BC%E3%83%AA%E3%82%BA%E3%83%A0%E3%81%AE%E5%95%86%E5%93%81%E3%81%A5%E3%81%8F%E3%82%8A%E3%81%AB%E5%8F%96%E3%82%8A%E7%B5%84%E3%82%93%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99%E3%82%AC%E3%82%B9%E3%83%88%E3%83%AD%E3%83%8E%E3%83%9F/1423309803327059/",
+    "https://www.facebook.com/p/%E4%B8%B8%E5%8B%9D%E9%87%91%E7%89%A9%E5%BA%97-100057637771500/",
+    "https://www.facebook.com/satoru.kobayashi.796/",
+    "https://note.com/prima_higashit01/n/n99e4626d9339"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "丸勝 note 社長",
+   "results": [
+    "https://note.com/sevenrich/n/n57798fc1b8dc",
+    "https://note.com/marukatsu_0001/n/n6ab983b49629",
+    "https://note.com/sevenrich/n/n1b6b7cd12d19",
+    "https://note.com/miwa_takada/n/nb46ce75797bf",
+    "https://note.box-hr.co.jp/n/neb9d6b5dbd0b",
+    "https://prtimes.jp/main/html/rd/p/000000038.000132384.html",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://diamond.jp/articles/-/388572",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "丸勝 X 投稿",
+   "results": [
+    "https://x.com/MasaruSetsumaru",
+    "https://kachimai.jp/article/index.php?no=2018615134954",
+    "https://twitter.com/trademark_bot/status/1163713791634419713/photo/1",
+    "https://x.com/marukatu2oo8/status/2001250108462289033",
+    "https://retty.me/area/PRE20/ARE227/SUB22701/100001186340/",
+    "https://joetsu.yukiguni.town/l-news/212328/",
+    "https://syukatsu-kaigi.jp/companies/70962/word_mouths",
+    "https://x.com/marujuso/status/2120083904094941300",
+    "https://x.com/marushin_0214",
+    "https://search.yahoo.co.jp/realtime/search/投稿/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "代表者": "記載なし（3回確認済み：公式9頁／PDF・画像1件／外部22頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式9頁／PDF・画像1件／外部22頁・検索9回）"
+ }
+}

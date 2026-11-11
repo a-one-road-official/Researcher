@@ -1,0 +1,1746 @@
+{
+ "name": "株式会社キョーワハーツ",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T11:24:19.287972+00:00",
+ "official_url": "https://www.kyowa-hearts.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "【本社/工場】〒223-0066  神奈川県横浜市港北区高田西1-5-1 ▶アクセス 【支　 　店】〒153-0042  東京都目黒区青葉台3-16-1 TEL: 045-593-6116 FAX: 045-593-6121 URL: https://www.kyowa-hearts.com/ E-mail: info@kyowa-hearts.com",
+    "url": "https://www.kyowa-hearts.com/com/",
+    "pass": 1
+   },
+   {
+    "label": "所在地（本社/工場）",
+    "value": "〒223-0066 神奈川県横浜市港北区高田西1-5-1　TEL 045-593-6116／FAX 045-593-6121",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   },
+   {
+    "label": "所在地（支店）",
+    "value": "〒153-0042 東京都目黒区青葉台3-16-1",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   },
+   {
+    "label": "所在地",
+    "value": "本社・工場：神奈川県横浜市港北区高田西1-5-1（支店：東京都目黒区青葉台3-16-1）",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   },
+   {
+    "label": "本社・工場",
+    "value": "神奈川県横浜市港北区高田西1-5-1（支店：東京都目黒区青葉台3-16-1）",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "20名",
+    "url": "https://www.kyowa-hearts.com/com/",
+    "pass": 1
+   },
+   {
+    "label": "従業員",
+    "value": "20名",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "20名（会社概要の記載）",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "微細・精密プレス金型設計・製作、金属プレス加工製品の製作 及び当社製ファイル等文房具の製作・商品開発 ※納入実績：通信機用部品・自動車電装品部品・半導体検査装置部品・医療機器部品等 ▶ ▶ ▶詳しくはこちら",
+    "url": "https://www.kyowa-hearts.com/com/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "微細・精密プレス金型設計・製作、金属プレス加工製品の製作、及び当社製ファイル等文房具の製作・商品開発",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役",
+    "value": "坂本 留実",
+    "url": "https://www.kyowa-hearts.com/com/",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役 坂本 留実",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   }
+  ],
+  "拠点": [
+   {
+    "label": "工場顕微鏡",
+    "value": "2台 ニコン製",
+    "url": "https://www.kyowa-hearts.com/setsubi/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "超精密金型製作、精密プレス加工をコア技術とし、お客様の製品開発から量産まで",
+    "url": "https://www.kyowa-hearts.com/",
+    "pass": 1
+   },
+   {
+    "quote": "単なる部品”パーツ”ではなく、製品の核”ハーツ”をつくる」",
+    "url": "https://www.kyowa-hearts.com/",
+    "pass": 1
+   },
+   {
+    "quote": "こして培った技術力を基礎に、「想いを形に！」と製品開発を自ら志し、自社開発第一号として「ヌーケ」の開発を行いました",
+    "url": "https://www.kyowa-hearts.com/",
+    "pass": 1
+   },
+   {
+    "quote": "このようにキョーワハーツは、培った技術力と世の中の変化や潜在するニーズを捉える想像力によって、お客様の開発支援に加えさまざまな製品作りに取り組んでいます",
+    "url": "https://www.kyowa-hearts.com/",
+    "pass": 1
+   },
+   {
+    "quote": "微細・精密プレス金型設計・製作、金属プレス加工製品の製作",
+    "url": "https://www.kyowa-hearts.com/com/",
+    "pass": 1
+   },
+   {
+    "quote": "ご相談の内容をもとに、製品の詳細（検査対象箇所、公差、二次加工、梱包仕様など）を決定します",
+    "url": "https://www.kyowa-hearts.com/flow/",
+    "pass": 1
+   },
+   {
+    "quote": "④金型の御見積・金型設計製作・製品の量産スタート",
+    "url": "https://www.kyowa-hearts.com/flow/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社キョーワハーツ|板バネ（板ばね）・絞り・精密プレス加工/微細・複雑・精密プレス加工 製品情報",
+    "url": "https://www.kyowa-hearts.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "バラの製品づくりはもちろん、連カット品、リール製品にも対応しています",
+    "url": "https://www.kyowa-hearts.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "キョーワハーツの製品作りは、「",
+    "url": "https://www.kyowa-hearts.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "製品のRを細かく調整し、",
+    "url": "https://www.kyowa-hearts.com/spling/",
+    "pass": 1
+   },
+   {
+    "quote": "細いスリット部の製品の転び、ねじれ対策",
+    "url": "https://www.kyowa-hearts.com/spling/",
+    "pass": 1
+   },
+   {
+    "quote": "りのへミング曲げ加工のため、上下がズレやすいので、その対策が製品安定のためのポイント",
+    "url": "https://www.kyowa-hearts.com/spling/",
+    "pass": 1
+   },
+   {
+    "quote": "製品が小さく曲げ高さも低い、左右対称でない曲げ部の寸法安定の工夫",
+    "url": "https://www.kyowa-hearts.com/spling/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社キョーワハーツ|板バネ（板ばね）・絞り・精密プレス加工/絞り加工 製品情報",
+    "url": "https://www.kyowa-hearts.com/sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、従来の製品に加え、高い強度や気密性が必要な絞り成形部品も、安定した品質で供給できるようになりました",
+    "url": "https://www.kyowa-hearts.com/sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "この技術的な広がりが、お客様の設計の自由度を高め、製品開発の可能性を広げ、市場競争力の向上に貢献することができます",
+    "url": "https://www.kyowa-hearts.com/sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "責任をもって金型設計から一貫生産を行い、製品の精巧さ･寿命においてもトップレベルを保ち続けています",
+    "url": "https://www.kyowa-hearts.com/sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "絞り部外径寸法 Φ1.4 製品外形 3.2X3.2",
+    "url": "https://www.kyowa-hearts.com/sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "マッチング部が細いので送り時に製品が捩れる",
+    "url": "https://www.kyowa-hearts.com/sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "カットオフの後、金型上に製品がのこるので、それを排出するための工夫が必要",
+    "url": "https://www.kyowa-hearts.com/sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "特に、高い耐食性や強度が求められる製品に多用されるステンレス材は、加工硬化が起こりやすく、精密な絞り成形を行うには、細心の注意と熟練の技術が求められます",
+    "url": "https://www.kyowa-hearts.com/sibori/",
+    "pass": 1
+   },
+   {
+    "quote": ": この一貫生産仕組みを通じて、私たちは製品の精巧さ、寿命においても高い水準を保ち続けるよう、細部にまでこだわって製造に取り組んでおります",
+    "url": "https://www.kyowa-hearts.com/sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "特に絞り加工で製造される金属部品は、その精度が最終製品の性能に直結するため、微細な寸法管理を徹底し、信頼性の高い部品提供に尽力しています",
+    "url": "https://www.kyowa-hearts.com/sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社キョーワハーツ|板バネ（板ばね）・絞り・精密プレス加工/マグネシウム合金のプレス加工 製品情報",
+    "url": "https://www.kyowa-hearts.com/magnesium/",
+    "pass": 1
+   },
+   {
+    "quote": "キョーワハーツでは、難加工材であるがゆえに普及が妨げられていた「マグネシウム合金のプレス製品」に注目し、温間プレス技術を活用して、マグネシウム合金のプレス成形を実現しました",
+    "url": "https://www.kyowa-hearts.com/magnesium/",
+    "pass": 1
+   },
+   {
+    "quote": "高機能のマグネシウム合金プレス製品を一緒に実現しましょう",
+    "url": "https://www.kyowa-hearts.com/magnesium/",
+    "pass": 1
+   },
+   {
+    "quote": "市場におけるマグネシウムプレス成形製品としては、ノートＰＣカバーの実用例が最も多いです",
+    "url": "https://www.kyowa-hearts.com/magnesium/",
+    "pass": 1
+   },
+   {
+    "quote": "加工後常温に戻し製品取り出し、完成です",
+    "url": "https://www.kyowa-hearts.com/magnesium/",
+    "pass": 1
+   },
+   {
+    "quote": "製品化に際しては用途に適した表面処理を施すことが必要です",
+    "url": "https://www.kyowa-hearts.com/magnesium/",
+    "pass": 1
+   },
+   {
+    "quote": "しかしメッキは必ず比重の重たい金属を乗せることになり製品重量を重たくします",
+    "url": "https://www.kyowa-hearts.com/magnesium/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社キョーワハーツ|板バネ（板ばね）・絞り・精密プレス加工/製品開発お困り相談所",
+    "url": "https://www.kyowa-hearts.com/consultation/",
+    "pass": 1
+   },
+   {
+    "quote": "精密プレス加工、金型製作はじめ幅広いノウハウを持つ「製品開発お困り相談所」にお気軽にご相談ください",
+    "url": "https://www.kyowa-hearts.com/consultation/",
+    "pass": 1
+   },
+   {
+    "quote": "求められる機能や配置するスペースについてお聞きし、製品図面も弊社が作成しました",
+    "url": "https://www.kyowa-hearts.com/consultation/",
+    "pass": 1
+   },
+   {
+    "quote": "製品のコアになる部品の最も大事な個所が、試作では出来たのに量産では設計通りできないと言われ時間ばかりが過ぎていく",
+    "url": "https://www.kyowa-hearts.com/consultation/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社では形状・寸法の安定するための工夫を盛り込んだ金型を製作し、安定した品質の製品を量産しお客様に喜んでいただいています",
+    "url": "https://www.kyowa-hearts.com/consultation/",
+    "pass": 1
+   },
+   {
+    "quote": "ケース5：市販している製品の改良をしたい",
+    "url": "https://www.kyowa-hearts.com/consultation/",
+    "pass": 1
+   },
+   {
+    "quote": "連カット品、リールの製品もご相談ください",
+    "url": "https://www.kyowa-hearts.com/blog/?cat=%E5%8A%A0%E5%B7%A5%E4%BA%8B%E4%BE%8B&id=19",
+    "pass": 1
+   },
+   {
+    "quote": "ご相談の内容をもとに、製品の詳細（検査対象箇所、公差、二次加工、梱包仕様など）を決定します",
+    "url": "https://www.kyowa-hearts.com//flow/",
+    "pass": 1
+   },
+   {
+    "quote": "④金型の御見積・金型設計製作・製品の量産スタート",
+    "url": "https://www.kyowa-hearts.com//flow/",
+    "pass": 1
+   },
+   {
+    "quote": "製品のコアになる部品の最も大事な個所が、試作では出来たのに量産では設計通りでき",
+    "url": "https://www.kyowa-hearts.com/images/40_%E8%A3%BD%E5%93%81%E9%96%8B%E7%99%BA%E3%81%8A%E5%9B%B0%E3%82%8A%E7%9B%B8%E8%AB%87%E6%89%80.jpg",
+    "pass": 2
+   },
+   {
+    "quote": "○客様の新製品立上げを試作から量産まで全力でサポート",
+    "url": "https://mono.ipros.com/product/detail/2000125900/",
+    "pass": 3
+   },
+   {
+    "quote": "こんな加工ができないか、構想段階だが相談してみたい、試作から始めてみたい等、製品の開発の時に多くのお客様からご相談いただいています",
+    "url": "https://mono.ipros.com/product/detail/2000125900/",
+    "pass": 3
+   },
+   {
+    "quote": "開発段階では、材質、形状決定のアドバイスから、二次加工まで、お客様の疑問にトータルなアドバイスで、新製品立上げを全力でサポートします",
+    "url": "https://mono.ipros.com/product/detail/2000125900/",
+    "pass": 3
+   },
+   {
+    "quote": "また「垢抜けた製品こそ安定した品質の証し」と考え、十分な調整（ひと手間かける）をしてから量産に入ります",
+    "url": "https://mono.ipros.com/product/detail/2000125900/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス一覧 (61)",
+    "url": "https://mono.ipros.com/product/detail/2000125900/",
+    "pass": 3
+   },
+   {
+    "quote": "企業紹介｜微細・精密プレス金型の設計・製作、金属プレス加工製品（板バネ・カーリング・絞り・マグネシウム合金の温間プレス）の製作",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社キョーワハーツは、神奈川県横浜市港北区に本社・工場を置く、微細・精密プレス金型の設計・製作と、金属プレス加工製品の製作を行う会社です",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   },
+   {
+    "quote": "公式サイトは、製品・サービスのメニュー（特急試作・絞り加工・板バネ加工・微細・複雑・精密プレス加工・金型販売・マグネシウム合金プレス加工・自社商品「ヌーケ」）のほか、製品開発お困り相談所、金型トラブル救急隊で構成されています",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   },
+   {
+    "quote": "めっき加工時に製品同士がくっつかないよう、ダボを設けたとしている",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   },
+   {
+    "quote": "公開されている事例は、納入先の企業名を出さず、製品の仕様（材質・板厚・寸法）と、金型製作・プレス加工上のポイントとして紹介されています",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   },
+   {
+    "quote": "連続端子巻取機 4台、精密レベラー 1台、画像処理検査装置（フープ製品用）1台、プレス品自動整列装置 1台",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   },
+   {
+    "quote": "微細・精密プレス金型設計・製作、金属プレス加工製品の製作、及び当社製ファイル等文房具の製作・商品開発",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   },
+   {
+    "quote": "検査対象の箇所、公差、二次加工（めっきなど）、梱包仕様など、製品の詳細（同社が打ち合わせで決めるとしている項目）",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "貢献してきた実績があり、さらにマグネシウムなど軽量化素材の加工、金型の販売も行っている会社です",
+    "url": "https://www.kyowa-hearts.com/",
+    "pass": 1
+   },
+   {
+    "quote": "【お困り解決事例】材質、形状が決まらない",
+    "url": "https://www.kyowa-hearts.com/catalog-service/",
+    "pass": 1
+   },
+   {
+    "quote": "驚きの15g！タッチレスでウイルス対策マグネシウム製フック〈マグクリーン〉",
+    "url": "https://www.kyowa-hearts.com/catalog-service/",
+    "pass": 1
+   },
+   {
+    "quote": "マグネシウム合金製フック「マグクリーン」※技術紹介も",
+    "url": "https://www.kyowa-hearts.com/catalog-service/",
+    "pass": 1
+   },
+   {
+    "quote": "図面がない場合…ポンチ絵やイラスト、概略の大きさと形状・材質・板厚についてのお考えをお知らせください",
+    "url": "https://www.kyowa-hearts.com/flow/",
+    "pass": 1
+   },
+   {
+    "quote": "形状や材質などが確定していない場合は、こちらからご提案させていだきます",
+    "url": "https://www.kyowa-hearts.com/flow/",
+    "pass": 1
+   },
+   {
+    "quote": "◆銅・銅合金（黄銅･ベリ銅･チタン銅･燐青銅･洋白など）",
+    "url": "https://www.kyowa-hearts.com/flow/",
+    "pass": 1
+   },
+   {
+    "quote": "◆SPCC，SECC ◆マグネシウム",
+    "url": "https://www.kyowa-hearts.com/flow/",
+    "pass": 1
+   },
+   {
+    "quote": "自社設計―製作の精密順送金型によるプレス加工では、板バネ、絞り加工のほかにも、多彩な材質・品目を 取り扱っています",
+    "url": "https://www.kyowa-hearts.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "◆銅および銅合金（黄銅･ベリ銅･チタン銅･燐青銅･洋白など）",
+    "url": "https://www.kyowa-hearts.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "◆銅および銅合金（黄銅･ベリ銅･チタン銅･燐青銅･洋白など）",
+    "url": "https://www.kyowa-hearts.com/spling/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社キョーワハーツ|板バネ（板ばね）・絞り・精密プレス加工/マグネシウム合金のプレス加工 製品情報",
+    "url": "https://www.kyowa-hearts.com/magnesium/",
+    "pass": 1
+   },
+   {
+    "quote": "ステンレス鋼、チタン合金などに温間プレスを適用することで絞り性が向上することは、良く知られています",
+    "url": "https://www.kyowa-hearts.com/magnesium/",
+    "pass": 1
+   },
+   {
+    "quote": "キョーワハーツでは、難加工材であるがゆえに普及が妨げられていた「マグネシウム合金のプレス製品」に注目し、温間プレス技術を活用して、マグネシウム合金のプレス成形を実現しました",
+    "url": "https://www.kyowa-hearts.com/magnesium/",
+    "pass": 1
+   },
+   {
+    "quote": "マグネシウム合金には、以下の特徴があります",
+    "url": "https://www.kyowa-hearts.com/magnesium/",
+    "pass": 1
+   },
+   {
+    "quote": "高機能のマグネシウム合金プレス製品を一緒に実現しましょう",
+    "url": "https://www.kyowa-hearts.com/magnesium/",
+    "pass": 1
+   },
+   {
+    "quote": "AZ31B合金において成型後大気中でマグネシウム特有の白い肌を呈しています",
+    "url": "https://www.kyowa-hearts.com/magnesium/",
+    "pass": 1
+   },
+   {
+    "quote": "市場におけるマグネシウムプレス成形製品としては、ノートＰＣカバーの実用例が最も多いです",
+    "url": "https://www.kyowa-hearts.com/magnesium/",
+    "pass": 1
+   },
+   {
+    "quote": "マグネシウムプレス成形によって超肉薄、軽量シャーシーが実現できます",
+    "url": "https://www.kyowa-hearts.com/magnesium/",
+    "pass": 1
+   },
+   {
+    "quote": "プレス工程で金型を250～300℃に加熱保持することが基本的な手段ですので、金型設計に際して鋼製金型とマグネシウム合金の熱膨張特性の違いを考慮して設計します",
+    "url": "https://www.kyowa-hearts.com/magnesium/",
+    "pass": 1
+   },
+   {
+    "quote": "この技術を応用して熱可塑性炭素繊維強化樹脂も成形可能となります",
+    "url": "https://www.kyowa-hearts.com/magnesium/",
+    "pass": 1
+   },
+   {
+    "quote": "陽極酸化処理は電解質液中でマグネシウム合金を陽極として通電し表面に酸化被膜を形成します",
+    "url": "https://www.kyowa-hearts.com/magnesium/",
+    "pass": 1
+   },
+   {
+    "quote": "また、プレス加工だけでなく、ワイヤー放電加工機を用いたマグネシウム合金の放電加工のご相談もお受けしております",
+    "url": "https://www.kyowa-hearts.com/magnesium/",
+    "pass": 1
+   },
+   {
+    "quote": "図面がない場合…ポンチ絵やイラスト、概略の大きさと形状・材質・板厚についてのお考えをお知らせください",
+    "url": "https://www.kyowa-hearts.com//flow/",
+    "pass": 1
+   },
+   {
+    "quote": "形状や材質などが確定していない場合は、こちらからご提案させていだきます",
+    "url": "https://www.kyowa-hearts.com//flow/",
+    "pass": 1
+   },
+   {
+    "quote": "◆銅・銅合金（黄銅･ベリ銅･チタン銅･燐青銅･洋白など）",
+    "url": "https://www.kyowa-hearts.com//flow/",
+    "pass": 1
+   },
+   {
+    "quote": "◆SPCC，SECC ◆マグネシウム",
+    "url": "https://www.kyowa-hearts.com//flow/",
+    "pass": 1
+   },
+   {
+    "quote": "板バネを設計した経験がないので、材質・形状の設計、試作まで一貫して対応してほし",
+    "url": "https://www.kyowa-hearts.com/images/40_%E8%A3%BD%E5%93%81%E9%96%8B%E7%99%BA%E3%81%8A%E5%9B%B0%E3%82%8A%E7%9B%B8%E8%AB%87%E6%89%80.jpg",
+    "pass": 2
+   },
+   {
+    "quote": "ツで材質・形状を提案、試作品も納入、お客様で現在評価中です",
+    "url": "https://www.kyowa-hearts.com/images/40_%E8%A3%BD%E5%93%81%E9%96%8B%E7%99%BA%E3%81%8A%E5%9B%B0%E3%82%8A%E7%9B%B8%E8%AB%87%E6%89%80.jpg",
+    "pass": 2
+   },
+   {
+    "quote": "○材質、形状決定のアドバイスから金型変更・ 修正にも素早く対応",
+    "url": "https://mono.ipros.com/product/detail/2000125900/",
+    "pass": 3
+   },
+   {
+    "quote": "４ 難加工材加工（チタン、記憶合金、マグネシウム合金など）",
+    "url": "https://mono.ipros.com/product/detail/2000125900/",
+    "pass": 3
+   },
+   {
+    "quote": "開発段階では、材質、形状決定のアドバイスから、二次加工まで、お客様の疑問にトータルなアドバイスで、新製品立上げを全力でサポートします",
+    "url": "https://mono.ipros.com/product/detail/2000125900/",
+    "pass": 3
+   },
+   {
+    "quote": "企業紹介｜微細・精密プレス金型の設計・製作、金属プレス加工製品（板バネ・カーリング・絞り・マグネシウム合金の温間プレス）の製作",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   },
+   {
+    "quote": "微細・精密プレス金型の設計から、板バネ・絞り・マグネシウム合金のプレス加工までを手がける、神奈川県横浜市の会社",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   },
+   {
+    "quote": "キョーワハーツ「マグネシウム合金のプレス加工」",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   },
+   {
+    "quote": "難加工材のマグネシウム合金は、金型を250〜300℃に加熱して保つ温間プレスで成形しています",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   },
+   {
+    "quote": "公式サイトは、製品・サービスのメニュー（特急試作・絞り加工・板バネ加工・微細・複雑・精密プレス加工・金型販売・マグネシウム合金プレス加工・自社商品「ヌーケ」）のほか、製品開発お困り相談所、金型トラブル救急隊で構成されています",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   },
+   {
+    "quote": "自社設計・製作の精密順送金型で、板バネ・絞りのほか多彩な材質・品目のプレス加工を行っている",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   },
+   {
+    "quote": "マグネシウム合金のプレス加工（温間プレス）",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   },
+   {
+    "quote": "難加工材のマグネシウム合金を、温間プレスで成形している",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   },
+   {
+    "quote": "材質は鉄、板厚0.2mmのシールドケースで、絞り・切欠き・ダボの加工を順送金型の型内で行った",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   },
+   {
+    "quote": "公開されている事例は、納入先の企業名を出さず、製品の仕様（材質・板厚・寸法）と、金型製作・プレス加工上のポイントとして紹介されています",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   },
+   {
+    "quote": "マグネシウム合金を温間プレスで薄く成形し、軽い筐体・カバーにする方法として紹介",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   },
+   {
+    "quote": "同社は、図面がある場合は図面を送り、ない場合はポンチ絵やイラスト、概略の大きさ・形状・材質・板厚などの考えを伝えるよう案内しています",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   },
+   {
+    "quote": "図面がなければ、ポンチ絵・イラスト、概略の大きさ・形状・材質・板厚の考え（分かる範囲でよい）",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   },
+   {
+    "quote": "材質・板厚と、求める精度（真円度・同心度・抜き精度・バネ荷重など）",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   },
+   {
+    "quote": "板バネ・カーリング・絞り・マグネシウム合金のプレス加工や、金型のトラブルの相談は、公式サイトのお問い合わせフォームから送れます",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   },
+   {
+    "quote": "マグネシウム合金のパイプ・ワイヤー・ロッドの冷間引抜と二次加工、試作を行う、静岡県富士宮市の会社",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "最短3日の特急試作、その後の金型製作も最短2週間のスピード対応で納期を厳守します",
+    "url": "https://www.kyowa-hearts.com/",
+    "pass": 1
+   },
+   {
+    "quote": "試作ではできたのに、量産では形にならない",
+    "url": "https://www.kyowa-hearts.com/",
+    "pass": 1
+   },
+   {
+    "quote": "半世紀以上にわたり「ものづくりに心を込めて」、開発構想、試作品の製作・金型製作・量産加工・組立てまで、金属プレス加工を柱に、お客様に寄り添い、安心感をお届けし評価を頂いてきました",
+    "url": "https://www.kyowa-hearts.com/",
+    "pass": 1
+   },
+   {
+    "quote": "【お困り解決事例】試作はできたが、量産がうまくいかない",
+    "url": "https://www.kyowa-hearts.com/catalog-service/",
+    "pass": 1
+   },
+   {
+    "quote": "【お困り解決事例】部品設計、試作から任せたい",
+    "url": "https://www.kyowa-hearts.com/catalog-service/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社キョーワハーツ|板バネ（板ばね）・絞り・精密プレス加工/お問い合わせ～試作、量産までの流れ",
+    "url": "https://www.kyowa-hearts.com/flow/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ～試作、量産までの流れ",
+    "url": "https://www.kyowa-hearts.com/flow/",
+    "pass": 1
+   },
+   {
+    "quote": "※試作と量産、両方あわせた御見積も可能です",
+    "url": "https://www.kyowa-hearts.com/flow/",
+    "pass": 1
+   },
+   {
+    "quote": "御注文後、試作品を作製いたします",
+    "url": "https://www.kyowa-hearts.com/flow/",
+    "pass": 1
+   },
+   {
+    "quote": "◆試作数量 1〜100個程度 １個からでもお気軽に！",
+    "url": "https://www.kyowa-hearts.com/flow/",
+    "pass": 1
+   },
+   {
+    "quote": "完成した試作品をお客様にお送りし、機能を確認したのちに、必要であれば改良を重ね最終形状を決定します",
+    "url": "https://www.kyowa-hearts.com/flow/",
+    "pass": 1
+   },
+   {
+    "quote": "ぜひ開発、試作の段階からご相談ください",
+    "url": "https://www.kyowa-hearts.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "◆手作り試作 1〜100個程度",
+    "url": "https://www.kyowa-hearts.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "図面ができたら、まず試作をして性能確認をしていただきます",
+    "url": "https://www.kyowa-hearts.com/spling/",
+    "pass": 1
+   },
+   {
+    "quote": "試作はレーザー加工、ワイヤー放電加工、エッチングなどによるブランク加工、仮型による曲げ加工により、1個から100個くらいまで",
+    "url": "https://www.kyowa-hearts.com/spling/",
+    "pass": 1
+   },
+   {
+    "quote": "ぜひ開発、試作の段階からご相談ください",
+    "url": "https://www.kyowa-hearts.com/spling/",
+    "pass": 1
+   },
+   {
+    "quote": "◆手作り試作 1〜100個程度",
+    "url": "https://www.kyowa-hearts.com/spling/",
+    "pass": 1
+   },
+   {
+    "quote": "試作ではできたが、量産がうまくいなかい",
+    "url": "https://www.kyowa-hearts.com/consultation/",
+    "pass": 1
+   },
+   {
+    "quote": "ケース3：試作ではできたのに、量産では形にならないのだが・・・",
+    "url": "https://www.kyowa-hearts.com/consultation/",
+    "pass": 1
+   },
+   {
+    "quote": "製品のコアになる部品の最も大事な個所が、試作では出来たのに量産では設計通りできないと言われ時間ばかりが過ぎていく",
+    "url": "https://www.kyowa-hearts.com/consultation/",
+    "pass": 1
+   },
+   {
+    "quote": "「新技術創造室」の設置（試作品や新素材の技術研究に着手）",
+    "url": "https://www.kyowa-hearts.com/history/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社キョーワハーツ|板バネ（板ばね）・絞り・精密プレス加工/お問い合わせ～試作、量産までの流れ",
+    "url": "https://www.kyowa-hearts.com//flow/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ～試作、量産までの流れ",
+    "url": "https://www.kyowa-hearts.com//flow/",
+    "pass": 1
+   },
+   {
+    "quote": "※試作と量産、両方あわせた御見積も可能です",
+    "url": "https://www.kyowa-hearts.com//flow/",
+    "pass": 1
+   },
+   {
+    "quote": "御注文後、試作品を作製いたします",
+    "url": "https://www.kyowa-hearts.com//flow/",
+    "pass": 1
+   },
+   {
+    "quote": "◆試作数量 1〜100個程度 １個からでもお気軽に！",
+    "url": "https://www.kyowa-hearts.com//flow/",
+    "pass": 1
+   },
+   {
+    "quote": "完成した試作品をお客様にお送りし、機能を確認したのちに、必要であれば改良を重ね最終形状を決定します",
+    "url": "https://www.kyowa-hearts.com//flow/",
+    "pass": 1
+   },
+   {
+    "quote": "微細・精密プレス、板バネ加工 試作から量産まで",
+    "url": "https://www.kyowa-hearts.com/images/logo.png",
+    "pass": 2
+   },
+   {
+    "quote": "ツ 試作ではできたが、 量産がうまくいかない",
+    "url": "https://www.kyowa-hearts.com/images/40_%E8%A3%BD%E5%93%81%E9%96%8B%E7%99%BA%E3%81%8A%E5%9B%B0%E3%82%8A%E7%9B%B8%E8%AB%87%E6%89%80.jpg",
+    "pass": 2
+   },
+   {
+    "quote": "板バネを設計した経験がないので、材質・形状の設計、試作まで一貫して対応してほし",
+    "url": "https://www.kyowa-hearts.com/images/40_%E8%A3%BD%E5%93%81%E9%96%8B%E7%99%BA%E3%81%8A%E5%9B%B0%E3%82%8A%E7%9B%B8%E8%AB%87%E6%89%80.jpg",
+    "pass": 2
+   },
+   {
+    "quote": "ツで材質・形状を提案、試作品も納入、お客様で現在評価中です",
+    "url": "https://www.kyowa-hearts.com/images/40_%E8%A3%BD%E5%93%81%E9%96%8B%E7%99%BA%E3%81%8A%E5%9B%B0%E3%82%8A%E7%9B%B8%E8%AB%87%E6%89%80.jpg",
+    "pass": 2
+   },
+   {
+    "quote": "試作はできたのに、 量産では形にならないのだが…・",
+    "url": "https://www.kyowa-hearts.com/images/40_%E8%A3%BD%E5%93%81%E9%96%8B%E7%99%BA%E3%81%8A%E5%9B%B0%E3%82%8A%E7%9B%B8%E8%AB%87%E6%89%80.jpg",
+    "pass": 2
+   },
+   {
+    "quote": "製品のコアになる部品の最も大事な個所が、試作では出来たのに量産では設計通りでき",
+    "url": "https://www.kyowa-hearts.com/images/40_%E8%A3%BD%E5%93%81%E9%96%8B%E7%99%BA%E3%81%8A%E5%9B%B0%E3%82%8A%E7%9B%B8%E8%AB%87%E6%89%80.jpg",
+    "pass": 2
+   },
+   {
+    "quote": "試作加工 Trial Product キョーワハーツ | イプロスものづくり",
+    "url": "https://mono.ipros.com/product/detail/2000125900/",
+    "pass": 3
+   },
+   {
+    "quote": "試作最短3日",
+    "url": "https://mono.ipros.com/product/detail/2000125900/",
+    "pass": 3
+   },
+   {
+    "quote": "試作から量産までの期間がないときには、",
+    "url": "https://mono.ipros.com/product/detail/2000125900/",
+    "pass": 3
+   },
+   {
+    "quote": "○試作最短3日",
+    "url": "https://mono.ipros.com/product/detail/2000125900/",
+    "pass": 3
+   },
+   {
+    "quote": "○客様の新製品立上げを試作から量産まで全力でサポート",
+    "url": "https://mono.ipros.com/product/detail/2000125900/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の部品形状の検討、試作、金型製作、量産加工まで全て対応可能です",
+    "url": "https://mono.ipros.com/product/detail/2000125900/",
+    "pass": 3
+   },
+   {
+    "quote": "こんな加工ができないか、構想段階だが相談してみたい、試作から始めてみたい等、製品の開発の時に多くのお客様からご相談いただいています",
+    "url": "https://mono.ipros.com/product/detail/2000125900/",
+    "pass": 3
+   },
+   {
+    "quote": "工法転換｜溶接・組立品をアルミ鋳物で一体化 1個から試作",
+    "url": "https://mono.ipros.com/product/detail/2000125900/",
+    "pass": 3
+   },
+   {
+    "quote": "キョーワハーツ「キョーワハーツの特急試作」",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   },
+   {
+    "quote": "量産前に、形や性能を確かめるための試作を急いで作りたい",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   },
+   {
+    "quote": "試作のブランクは、微細レーザー（ビーム径0.03）、ワイヤー放電加工、エッチング、簡易金型のプレスから精度・数量で選び、…",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ～試作、量産までの流れ｜キョーワハーツ",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   },
+   {
+    "quote": "公式サイトは、製品・サービスのメニュー（特急試作・絞り加工・板バネ加工・微細・複雑・精密プレス加工・金型販売・マグネシウム合金プレス加工・自社商品「ヌーケ」）のほか、製品開発お困り相談所、金型トラブル救急隊で構成されています",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   },
+   {
+    "quote": "試作スピード見積、特急試作、量産を見越した試作品製作で、開発のスピードアップを支えるとしている",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   },
+   {
+    "quote": "試作数は1〜100個程度、量産は10,000〜100万個以上（板バネ加工は最少ロット5,000個から）としている",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ（見積・試作・量産・工場見学など） ↗",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   },
+   {
+    "quote": "マグネシウム合金のパイプ・ワイヤー・ロッドの冷間引抜と二次加工、試作を行う、静岡県富士宮市の会社",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   },
+   {
+    "quote": "薄いステンレスやアルミの溶接を含む精密板金を、試作・小ロット中心に手がける、東京都日野市の板金加工の会社",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "超精密金型製作、精密プレス加工をコア技術とし、お客様の製品開発から量産まで",
+    "url": "https://www.kyowa-hearts.com/",
+    "pass": 1
+   },
+   {
+    "quote": "貢献してきた実績があり、さらにマグネシウムなど軽量化素材の加工、金型の販売も行っている会社です",
+    "url": "https://www.kyowa-hearts.com/",
+    "pass": 1
+   },
+   {
+    "quote": "最短3日の特急試作、その後の金型製作も最短2週間のスピード対応で納期を厳守します",
+    "url": "https://www.kyowa-hearts.com/",
+    "pass": 1
+   },
+   {
+    "quote": "老朽化したプレス金型のオーバーホールについて",
+    "url": "https://www.kyowa-hearts.com/",
+    "pass": 1
+   },
+   {
+    "quote": "半世紀以上にわたり「ものづくりに心を込めて」、開発構想、試作品の製作・金型製作・量産加工・組立てまで、金属プレス加工を柱に、お客様に寄り添い、安心感をお届けし評価を頂いてきました",
+    "url": "https://www.kyowa-hearts.com/",
+    "pass": 1
+   },
+   {
+    "quote": "【専門家が解説】プレス金型の種類と選び方｜単発型・順送型・トランスファー型の違いとは？",
+    "url": "https://www.kyowa-hearts.com/",
+    "pass": 1
+   },
+   {
+    "quote": "微細・精密プレス金型設計・製作、金属プレス加工製品の製作",
+    "url": "https://www.kyowa-hearts.com/com/",
+    "pass": 1
+   },
+   {
+    "quote": "※納入実績：通信機用部品・自動車電装品部品・半導体検査装置部品・医療機器部品等",
+    "url": "https://www.kyowa-hearts.com/com/",
+    "pass": 1
+   },
+   {
+    "quote": "＼えっ、そこまでやるの？／ 精密金型製作へのこだわり TOP3",
+    "url": "https://www.kyowa-hearts.com/catalog-service/",
+    "pass": 1
+   },
+   {
+    "quote": "【一撃で金属加工のお悩みを解決！】お申し込みから金型製作・量産までのフロー",
+    "url": "https://www.kyowa-hearts.com/catalog-service/",
+    "pass": 1
+   },
+   {
+    "quote": "④金型の御見積・金型設計製作・製品の量産スタート",
+    "url": "https://www.kyowa-hearts.com/flow/",
+    "pass": 1
+   },
+   {
+    "quote": "総生産見込み数（金型の保証ショット）などを考慮し、",
+    "url": "https://www.kyowa-hearts.com/flow/",
+    "pass": 1
+   },
+   {
+    "quote": "御注文後、量産金型を設計・製作し、プレス加工したサンプルをお客様にお送りし、評価していただきます",
+    "url": "https://www.kyowa-hearts.com/flow/",
+    "pass": 1
+   },
+   {
+    "quote": "必要であれば、金型の修正を行います",
+    "url": "https://www.kyowa-hearts.com/flow/",
+    "pass": 1
+   },
+   {
+    "quote": "金型設計製作、プレス加工（量産）、検査、梱包まで、本社工場で一貫対応しております",
+    "url": "https://www.kyowa-hearts.com/flow/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社キョーワハーツ|板バネ（板ばね）・絞り・精密プレス加工/順送金型・プレス加工の課題解決事例",
+    "url": "https://www.kyowa-hearts.com/blog/?cat=%E9%A0%86%E9%80%81%E9%87%91%E5%9E%8B%E3%83%BB%E3%83%97%E3%83%AC%E3%82%B9%E5%8A%A0%E5%B7%A5%E3%81%AE%E8%AA%B2%E9%A1%8C%E8%A7%A3%E6%B1%BA%E4%BA%8B%E4%BE%8B",
+    "pass": 1
+   },
+   {
+    "quote": "工程削減 順送金型で角筒絞り、切欠き・ダボも型内で加工",
+    "url": "https://www.kyowa-hearts.com/blog/?cat=%E9%A0%86%E9%80%81%E9%87%91%E5%9E%8B%E3%83%BB%E3%83%97%E3%83%AC%E3%82%B9%E5%8A%A0%E5%B7%A5%E3%81%AE%E8%AA%B2%E9%A1%8C%E8%A7%A3%E6%B1%BA%E4%BA%8B%E4%BE%8B",
+    "pass": 1
+   },
+   {
+    "quote": "自社設計―製作の精密順送金型によるプレス加工では、板バネ、絞り加工のほかにも、多彩な材質・品目を 取り扱っています",
+    "url": "https://www.kyowa-hearts.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "金型は 「コンパクト・シンプル・寸法の安定するレイアウト・メンテナンスのしやすい金型構造」という方針に基づき、高精度の工作機械・測定器を駆使し、経験豊富な技術者が製作に当たっています",
+    "url": "https://www.kyowa-hearts.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車電装品・半導体検査装置・光学検査機器・産業機械・通信機器・医療機器・アクセサリー",
+    "url": "https://www.kyowa-hearts.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "補強板・歯科矯正器具・巻き爪矯正器具・内視鏡用部品・補聴器用部品（音口）",
+    "url": "https://www.kyowa-hearts.com/press/",
+    "pass": 1
+   },
+   {
+    "quote": "量産は精密順送金型により、最少ロット5,000個から最大100万個以上まで",
+    "url": "https://www.kyowa-hearts.com/spling/",
+    "pass": 1
+   },
+   {
+    "quote": "板厚が0.06と薄いため、少しでも金型内に抵抗があると座屈するので、注意が必要",
+    "url": "https://www.kyowa-hearts.com/spling/",
+    "pass": 1
+   },
+   {
+    "quote": "れるため、部品精度の管理及び金型組込み精度が問われる",
+    "url": "https://www.kyowa-hearts.com/spling/",
+    "pass": 1
+   },
+   {
+    "quote": "キャリアとのつなぎ部が細いため、金型内で少しでも引っかかると曲げ寸法に影響が出るため注意が必要",
+    "url": "https://www.kyowa-hearts.com/spling/",
+    "pass": 1
+   },
+   {
+    "quote": "曲げ工程数が多いので、いかに金型コンパクトに設計するかがポイント",
+    "url": "https://www.kyowa-hearts.com/spling/",
+    "pass": 1
+   },
+   {
+    "quote": "カムスライド機構を多用している金型の給油・清掃・メンテナンス",
+    "url": "https://www.kyowa-hearts.com/spling/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車電装品・半導体検査装置・光学検査機器・産業機械・通信機器・医療機器・アクセサリー",
+    "url": "https://www.kyowa-hearts.com/spling/",
+    "pass": 1
+   },
+   {
+    "quote": "補強板・歯科矯正器具・巻き爪矯正器具・内視鏡用部品・補聴器用部品（音口）",
+    "url": "https://www.kyowa-hearts.com/spling/",
+    "pass": 1
+   },
+   {
+    "quote": "一つの金型工程内で切断、穴あけ、曲げ、絞り成形などを連続して行うことで、高精度かつ高効率なものづくりを実現します",
+    "url": "https://www.kyowa-hearts.com/sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "責任をもって金型設計から一貫生産を行い、製品の精巧さ･寿命においてもトップレベルを保ち続けています",
+    "url": "https://www.kyowa-hearts.com/sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "カットオフの後、金型上に製品がのこるので、それを排出するための工夫が必要",
+    "url": "https://www.kyowa-hearts.com/sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、ステンレス材をはじめとする特殊材の成形には、それぞれの材料の特性を深く理解し、最適な絞り条件や金型設計を適用することが不可欠だと考えています",
+    "url": "https://www.kyowa-hearts.com/sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "そして、この加工技術を支える基盤として、私たちは責任をもって金型設計から一貫生産を行う体制を維持しております",
+    "url": "https://www.kyowa-hearts.com/sibori/",
+    "pass": 1
+   },
+   {
+    "quote": ": 金型設計は、部品の品質と、生産工程の安定性を決める重要な要素です",
+    "url": "https://www.kyowa-hearts.com/sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、最新の解析も活用しながら、材料の流動を考慮に入れた金型を自社内で設計・製作しています",
+    "url": "https://www.kyowa-hearts.com/sibori/",
+    "pass": 1
+   },
+   {
+    "quote": ": 自社内で金型を製作・管理することで、量産中の金型の状態を細かくチェックし、安定した品質を保つよう努めています",
+    "url": "https://www.kyowa-hearts.com/sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "１．金型設計製作",
+    "url": "https://www.kyowa-hearts.com/magnesium/",
+    "pass": 1
+   },
+   {
+    "quote": "プレス工程で金型を250～300℃に加熱保持することが基本的な手段ですので、金型設計に際して鋼製金型とマグネシウム合金の熱膨張特性の違いを考慮して設計します",
+    "url": "https://www.kyowa-hearts.com/magnesium/",
+    "pass": 1
+   },
+   {
+    "quote": "金型を250～300℃に加熱しながらプレス加工します",
+    "url": "https://www.kyowa-hearts.com/magnesium/",
+    "pass": 1
+   },
+   {
+    "quote": "金型構造に応じて所定の加熱及び冷却をして加工を進めます",
+    "url": "https://www.kyowa-hearts.com/magnesium/",
+    "pass": 1
+   },
+   {
+    "quote": "■金型を作ってくれるところはないか（金型販売）",
+    "url": "https://www.kyowa-hearts.com/consultation/",
+    "pass": 1
+   },
+   {
+    "quote": "精密プレス加工、金型製作はじめ幅広いノウハウを持つ「製品開発お困り相談所」にお気軽にご相談ください",
+    "url": "https://www.kyowa-hearts.com/consultation/",
+    "pass": 1
+   },
+   {
+    "quote": "技術力、問題解決力を駆使し、プレス加工、金型製作におけるお客様のお困りを",
+    "url": "https://www.kyowa-hearts.com/consultation/",
+    "pass": 1
+   },
+   {
+    "quote": "は、自動車部品メーカーです",
+    "url": "https://www.kyowa-hearts.com/consultation/",
+    "pass": 1
+   },
+   {
+    "quote": "ステンレスの板バネで、鋭角の曲げと円弧が連続するという難易度の高いものでしたが、構造を工夫した量産金型を製作し、量産プレス加工ももちろんお客様の要求以上のものを実現できました",
+    "url": "https://www.kyowa-hearts.com/consultation/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社では形状・寸法の安定するための工夫を盛り込んだ金型を製作し、安定した品質の製品を量産しお客様に喜んでいただいています",
+    "url": "https://www.kyowa-hearts.com/consultation/",
+    "pass": 1
+   },
+   {
+    "quote": "F社様は、医療機器メーカーです",
+    "url": "https://www.kyowa-hearts.com/consultation/",
+    "pass": 1
+   },
+   {
+    "quote": "内視鏡用の薄くて細いパイプの加工用金型の案件で、６社が様々な提案をした中で弊社の提案を「異次元の発想」と評価、採用いただきました",
+    "url": "https://www.kyowa-hearts.com/consultation/",
+    "pass": 1
+   },
+   {
+    "quote": "金型を納入したところ「100倍精度がよくなった」と喜んでいただいています",
+    "url": "https://www.kyowa-hearts.com/consultation/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社キョーワハーツ|板バネ（板ばね）・絞り・精密プレス加工/順送金型・プレス加工の課題解決事例",
+    "url": "https://www.kyowa-hearts.com/blog/?cat=%E9%A0%86%E9%80%81%E9%87%91%E5%9E%8B%E3%83%BB%E3%83%97%E3%83%AC%E3%82%B9%E5%8A%A0%E5%B7%A5%E3%81%AE%E8%AA%B2%E9%A1%8C%E8%A7%A3%E6%B1%BA%E4%BA%8B%E4%BE%8B&id=0",
+    "pass": 1
+   },
+   {
+    "quote": "工程削減 順送金型で角筒絞り、切欠き・ダボも型内で加工",
+    "url": "https://www.kyowa-hearts.com/blog/?cat=%E9%A0%86%E9%80%81%E9%87%91%E5%9E%8B%E3%83%BB%E3%83%97%E3%83%AC%E3%82%B9%E5%8A%A0%E5%B7%A5%E3%81%AE%E8%AA%B2%E9%A1%8C%E8%A7%A3%E6%B1%BA%E4%BA%8B%E4%BE%8B&id=0",
+    "pass": 1
+   },
+   {
+    "quote": "④金型の御見積・金型設計製作・製品の量産スタート",
+    "url": "https://www.kyowa-hearts.com//flow/",
+    "pass": 1
+   },
+   {
+    "quote": "総生産見込み数（金型の保証ショット）などを考慮し、",
+    "url": "https://www.kyowa-hearts.com//flow/",
+    "pass": 1
+   },
+   {
+    "quote": "御注文後、量産金型を設計・製作し、プレス加工したサンプルをお客様にお送りし、評価していただきます",
+    "url": "https://www.kyowa-hearts.com//flow/",
+    "pass": 1
+   },
+   {
+    "quote": "必要であれば、金型の修正を行います",
+    "url": "https://www.kyowa-hearts.com//flow/",
+    "pass": 1
+   },
+   {
+    "quote": "金型設計製作、プレス加工（量産）、検査、梱包まで、本社工場で一貫対応しております",
+    "url": "https://www.kyowa-hearts.com//flow/",
+    "pass": 1
+   },
+   {
+    "quote": "金型価格、 会社によって",
+    "url": "https://www.kyowa-hearts.com/images/%E8%A1%A8%E7%B4%99%E9%87%91%E5%9E%8B%E3%81%AF%E3%81%AA%E3%81%9C%E4%BC%81%E6%A5%AD%E3%81%AB%E3%82%88%E3%81%A3%E3%81%A6%E4%BE%A1%E6%A0%BC%E5%B7%AE%E3%81%8C%E3%81%82%E3%82%8B%E3%81%AE%E3%81%8B%20-%20%E3%82%B3%E3%83%94%E3%83%BC.jpg",
+    "pass": 2
+   },
+   {
+    "quote": "B社様は、自動車部品メーカーです",
+    "url": "https://www.kyowa-hearts.com/images/40_%E8%A3%BD%E5%93%81%E9%96%8B%E7%99%BA%E3%81%8A%E5%9B%B0%E3%82%8A%E7%9B%B8%E8%AB%87%E6%89%80.jpg",
+    "pass": 2
+   },
+   {
+    "quote": "続するという難易度の高いものでしたが、構造を工夫した量産金型を製作し、量産プレス",
+    "url": "https://www.kyowa-hearts.com/images/40_%E8%A3%BD%E5%93%81%E9%96%8B%E7%99%BA%E3%81%8A%E5%9B%B0%E3%82%8A%E7%9B%B8%E8%AB%87%E6%89%80.jpg",
+    "pass": 2
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "オールステンレスのタングラム”METAGRAM”（メタグラム）",
+    "url": "https://www.kyowa-hearts.com/catalog-service/",
+    "pass": 1
+   },
+   {
+    "quote": "お打ち合わせ（対面・オンライン（ZOOM、GoogleMeet、Teams等））も、大歓迎です♪",
+    "url": "https://www.kyowa-hearts.com/flow/",
+    "pass": 1
+   },
+   {
+    "quote": "お打ち合わせ（対面・オンライン（ZOOM、GoogleMeet、Teams等））も、大歓迎です♪",
+    "url": "https://www.kyowa-hearts.com//flow/",
+    "pass": 1
+   },
+   {
+    "quote": "三次元CAD／CAM 4台（TopSolid・TopProgress・SolidWorks・SolidCAM）、二次元CAD／CAM 5台、解析ソフト（TP-STRUCT）1台",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   },
+   {
+    "quote": "打ち合わせは対面やオンライン（ZOOM・Google Meet・Teams等）も受け付けています",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター造形",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "株式会社キョーワハーツ|板バネ（板ばね）・絞り・精密プレス加工/お問い合わせ～試作、量産までの流れ",
+    "url": "https://www.kyowa-hearts.com/flow/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ～試作、量産までの流れ",
+    "url": "https://www.kyowa-hearts.com/flow/",
+    "pass": 1
+   },
+   {
+    "quote": "ぜひお気軽にお問い合わせ、ご相談ください",
+    "url": "https://www.kyowa-hearts.com/spling/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社キョーワハーツ|板バネ（板ばね）・絞り・精密プレス加工/お問い合わせ～試作、量産までの流れ",
+    "url": "https://www.kyowa-hearts.com//flow/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ～試作、量産までの流れ",
+    "url": "https://www.kyowa-hearts.com//flow/",
+    "pass": 1
+   },
+   {
+    "quote": "詳しくはお問い合わせ、もしくはカタログをご覧ください",
+    "url": "https://mono.ipros.com/product/detail/2000125900/",
+    "pass": 3
+   },
+   {
+    "quote": "●詳しくはお問い合わせ、もしくはカタログをご覧ください",
+    "url": "https://mono.ipros.com/product/detail/2000125900/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ～試作、量産までの流れ｜キョーワハーツ",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   },
+   {
+    "quote": "問い合わせは、公式サイトのお問い合わせフォーム（外部の入力フォームの仕組みで表示）、電話、FAXから行います",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   },
+   {
+    "quote": "板バネ・カーリング・絞り・マグネシウム合金のプレス加工や、金型のトラブルの相談は、公式サイトのお問い合わせフォームから送れます",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ（見積・試作・量産・工場見学など） ↗",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   },
+   {
+    "quote": "ボタンを押すとキョーワハーツの公式サイトのお問い合わせフォームが開きます",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社キョーワハーツ|板バネ（板ばね）・絞り・精密プレス加工/キ... — 特に板バネの試作から量産まで、時間がないときには、弊社の提案力、素材調達力、短納期対応力をご活用下さい。 キョーワハーツでは、バネ性・滑り性・耐久性など、机上のシミュレーションでは性能把握が困難な薄板バネ製品を得意としております。",
+    "url": "https://www.kyowa-hearts.com/shisaku/",
+    "pass": 3
+   },
+   {
+    "quote": "試作加工 Trial Product キョーワハーツ | イプロスものづくり — Mar 25, 2026 · 量産を見据えた試作と金型設計。 試作最短3日。 量産金型最短2週間。 試作から量産までの期間がないときには、 キョーワハーツの提案力、素材調達力、短納期対応力をご活用ください。",
+    "url": "https://mono.ipros.com/product/detail/2000125900/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社キョーワハーツ | ものづくり技術百科 — 株式会社キョーワハーツは、神奈川県横浜市港北区に本社・工場を置く、微細・精密プレス金型の設計・製作と、金属プレス加工製品の製作を行う会社です。 創業は1951年5月、設立は1958年1月、資本金は1,000万円、従業員は20名と会社概要に記載しています。",
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社キョーワハーツ|板バネ（板ばね）・絞り・精密プレス加工 — 板バネ加工を得意としています。 手作り試作から、精密順送金型による精密プレス加工まで。 「薄い、小さい、細い」製品が得意で、自動車や医療機器、半導体分野で使われる板バネやコンタクトは特に得意な分野です。",
+    "url": "https://www.kyowa-hearts.com/",
+    "pass": 3
+   },
+   {
+    "quote": "特急試作 キョーワハーツ | イプロスものづくり — Mar 25, 2026 · 特に、バネ性・滑り性・耐久性など、シミュレーションが困難な薄板 バネ製品の製作を得意としています。 また、板バネ試作をご依頼頂く際にも、豊富な受け入れフォーマットに よって迅速なデータの受渡しが可能です。 お気軽にお問い合わせください。",
+    "url": "https://mono.ipros.com/product/detail/2001559236/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社キョーワハーツ|板バネ（板ばね）・絞り・精密プレス加工 — わたしたち、神奈川県横浜市 ㈱キョーワハーツは、「小型化・軽量化」をキーワードに超精密金型製作、精密プレス加工をコア技術とし、お客様の製品開発から量産まで一貫対応する金属加工のプロ集団です。",
+    "url": "https://www.kyowa-hearts.com/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社キョーワハーツ|板バネ（板ばね）・絞り・精密プレス加工/会... — 会社概要,板バネ加工を得意としています。 手作り試作から、精密順送金型による精密プレス加工まで。 「薄い、小さい、細い」製品が得意で、自動車や医療機器、半導体分野で使われる板バネやコンタクトは特に得意な分野です。",
+    "url": "https://www.kyowa-hearts.com/com/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社キョーワハーツ（神奈川県）の会社概要・役員 | Compalyze — 事業概要 株式会社キョーワハーツは、微細・精密プレス金型の設計・製作、金属プレス加工製品の製作、および自社製ファイル等の文房具の製作・商品開発を主要事業とする金属加工のプロ集団です。",
+    "url": "https://compalyze.co.jp/company/1020001055791",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社キョーワハーツ - 会社概要 — 株式会社キョーワハーツの事業概要 私たちは、精密金属部品開発支援業です。 特に板ばね・板バネの形状・材質検討、試作品製作から、精密順送金型の設計—製作、プレス量産加工まで、全力でお客様の開発スピー ドアップをサポートします。",
+    "url": "https://www.atengineer.com/pr/kyowa-hearts/company",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社キョーワハーツ|板バネ（板ばね）・絞り・精密プレス加工/総... — 総合問合せ,板バネ加工を得意としています。 手作り試作から、精密順送金型による精密プレス加工まで。 「薄い、小さい、細い」製品が得意で、自動車や医療機器、半導体分野で使われる板バネやコンタクトは特に得意な分野です。",
+    "url": "https://www.kyowa-hearts.com/cont_sogo/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "株式会社キョーワハーツ│2025年7月 機械要素技術展 出展 (@kyowaheart... キョーワハーツはMedtec Japan出展いたします ️4/18 (水)～4/20 (金)東京ビッグサイトにて！ #medtec #medtecjapan ご来場お待ちしております☺️",
+    "url": "https://x.com/kyowahearts1951",
+    "pass": 3
+   },
+   {
+    "quote": "NewsTV on X: \"＜PR＞企業ドクター・フォーバル 可視化伴走支援で挑む... ＜PR＞企業ドクター・フォーバル 可視化伴走支援で挑む利益改善の最前線。 原価可視化、価格交渉、見積精度向上。 キョーワハーツの事例から支援の実像を紹介。 https://t.co/nSsSygngJS",
+    "url": "https://x.com/Newstv_jp/status/2084446941291929660",
+    "pass": 3
+   },
+   {
+    "quote": "NewsTV on X: \"＜PR＞企業ドクター・フォーバル 可視化伴走支援で挑む... NewsTV on X: \"＜PR＞企業ドクター・フォーバル 可視化伴走支援で挑む利益改善の最前線。 原価可視化、価格交渉、見積精度向上。 キョーワハーツの事例から支援の実像を紹介。 NewsTV @Newstv_jp Show translation",
+    "url": "https://x.com/Newstv_jp/status/2084217618945482970",
+    "pass": 3
+   },
+   {
+    "quote": "ものづくり新聞 Making Things News 【公式】 on X: \"\\最新記事公開／... \\最新記事公開／ ネジ好き新人が順送金型パーツ製造に挑む新人研修：株式会社キョーワハーツ | ものづくり新聞 #町工場 #新卒 https://t.co/1V4RAFZRjm",
+    "url": "https://x.com/MonoNet_Publica/status/1669176651828146176",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Kyowa Hearts in Japan:キョーワハーツ | Yokohama Kanagawa【キョーワハーツのホームページにFacebook、In... - Kyowa Hearts in...みなさま、おはようございます。キョーワハーツの今野です... - Kyowa...Kyowa Hearts in... - Kyowa Hearts in Japan:キョーワハーツ【連絡】キョーワハーツのホームページにSNS3つのアイ... - Kyowa Hea...リニューアルしたホームページどうですか？... - Kyowa Hearts in Jap...キョーワハーツが経営理念に掲げる可能思考とは、プラス思... - Kyowa... May 13, 2026 · Kyowa Hearts in Japan:キョーワハーツ, Yokohama. 389 likes. 神奈川県横浜市",
+    "url": "https://www.facebook.com/kyowahearts/",
+    "pass": 3
+   },
+   {
+    "quote": "【キョーワハーツのホームページにFacebook、In... - Kyowa Hearts in... Aug 23, 2020 · 【キョーワハーツのホームページにFacebook、Instagram、twitterのアイコン追加しました～♪】 https://www.kyowa-hearts.com/ キョーワハーツのコンテンツは技術的なこと以外にもIoTから、みなさまのビジネス、人生に役立つ資料のみを配信しています！ ...",
+    "url": "https://www.facebook.com/kyowahearts/posts/キョーワハーツのホームページにfacebookinstagramtwitterのアイコン追加しましたhttpswwwkyowa-heartscomキョーワハーツ/4406138819460537/",
+    "pass": 3
+   },
+   {
+    "quote": "みなさま、おはようございます。キョーワハーツの今野です... - Kyowa... Jan 14, 2021 · キョーワハーツの今野です。 この金型、お客様の昭和か平成初期につくった金型です。 最近、プレス屋さんの廃業などで加工してくれるところがなくなったお客様も増えています。 キョーワハーツなら金型トラブル救急隊サービスがございます。",
+    "url": "https://www.facebook.com/kyowahearts/posts/みなさまおはようございますキョーワハーツの今野ですこの金型お客様の昭和か平成初期につくった金型です最近プレス屋さんの廃業などで加工してくれるところがなくなったお/5066929686714777/",
+    "pass": 3
+   },
+   {
+    "quote": "Kyowa Hearts in... - Kyowa Hearts in Japan:キョーワハーツ Feb 18, 2024 · キョーワハーツ マーケ部 Apr 5 先日は地域活動の一環として、早淵川の清掃に参 加しました！ 地域の皆様と交流しながら、清々しい汗を流した 一日。 綺麗な川を次世代へ繋いでいけるよう、これから も継続的な活動に取り組んでまいります。",
+    "url": "https://www.facebook.com/photo/?fbid=1157826478948317",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.kyowa-hearts.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-hearts.com/cases/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-hearts.com/cont_sogo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-hearts.com/com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-hearts.com/catalog-case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-hearts.com/catalog-service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-hearts.com/blog/?cat=%E5%8A%A0%E5%B7%A5%E4%BA%8B%E4%BE%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-hearts.com/flow/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-hearts.com/blog/?cat=%E9%A0%86%E9%80%81%E9%87%91%E5%9E%8B%E3%83%BB%E3%83%97%E3%83%AC%E3%82%B9%E5%8A%A0%E5%B7%A5%E3%81%AE%E8%AA%B2%E9%A1%8C%E8%A7%A3%E6%B1%BA%E4%BA%8B%E4%BE%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-hearts.com/contpage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-hearts.com/press/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-hearts.com/spling/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-hearts.com/sibori/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-hearts.com/magnesium/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-hearts.com/setsubi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-hearts.com/consultation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-hearts.com/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-hearts.com/access/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-hearts.com/blog/?cat=%E5%8A%A0%E5%B7%A5%E4%BA%8B%E4%BE%8B&id=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-hearts.com/blog/?cat=%E5%8A%A0%E5%B7%A5%E4%BA%8B%E4%BE%8B&id=19",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-hearts.com/blog/?cat=%E5%8A%A0%E5%B7%A5%E4%BA%8B%E4%BE%8B&id=38",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-hearts.com//contpage/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-hearts.com/blog/?cat=%E9%A0%86%E9%80%81%E9%87%91%E5%9E%8B%E3%83%BB%E3%83%97%E3%83%AC%E3%82%B9%E5%8A%A0%E5%B7%A5%E3%81%AE%E8%AA%B2%E9%A1%8C%E8%A7%A3%E6%B1%BA%E4%BA%8B%E4%BE%8B&id=0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyowa-hearts.com//flow/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.kyowa-hearts.com/images/cases_img002.JPG",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kyowa-hearts.com/images/logo.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kyowa-hearts.com/images/%E8%A1%A8%E7%B4%99%E9%87%91%E5%9E%8B%E3%81%AF%E3%81%AA%E3%81%9C%E4%BC%81%E6%A5%AD%E3%81%AB%E3%82%88%E3%81%A3%E3%81%A6%E4%BE%A1%E6%A0%BC%E5%B7%AE%E3%81%8C%E3%81%82%E3%82%8B%E3%81%AE%E3%81%8B%20-%20%E3%82%B3%E3%83%94%E3%83%BC.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kyowa-hearts.com/images/1750406099_%E5%9B%B31.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kyowa-hearts.com/images/40_%E8%A3%BD%E5%93%81%E9%96%8B%E7%99%BA%E3%81%8A%E5%9B%B0%E3%82%8A%E7%9B%B8%E8%AB%87%E6%89%80.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kyowa-hearts.com/images/logo.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kyowa-hearts.com/images/logo.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kyowa-hearts.com/images/logo.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kyowa-hearts.com/images/logo.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kyowa-hearts.com/images/jirei_img03_01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/product/detail/2000125900/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/1020001055791",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://kyw.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyo-wa-group.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/kyowahearts1951",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Newstv_jp/status/2084446941291929660",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Newstv_jp/status/2084217618945482970",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MonoNet_Publica/status/1669176651828146176",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/kyowahearts/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/kyowahearts/posts/キョーワハーツのホームページにfacebookinstagramtwitterのアイコン追加しましたhttpswwwkyowa-heartscomキョーワハーツ/4406138819460537/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/kyowahearts/posts/みなさまおはようございますキョーワハーツの今野ですこの金型お客様の昭和か平成初期につくった金型です最近プレス屋さんの廃業などで加工してくれるところがなくなったお/5066929686714777/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/photo/?fbid=1157826478948317",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "キョーワハーツ 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.kyowa-hearts.com/shisaku/",
+    "https://mono.ipros.com/product/detail/2000125900/",
+    "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "https://www.kyowa-hearts.com/",
+    "https://mono.ipros.com/product/detail/2001559236/",
+    "https://ja.nc-net.or.jp/company/1129/",
+    "https://www.h-k-k.co.jp/prototype/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "キョーワハーツ 会社概要 事業内容",
+   "results": [
+    "https://www.kyowa-hearts.com/",
+    "https://www.kyowa-hearts.com/com/",
+    "https://compalyze.co.jp/company/1020001055791",
+    "https://www.atengineer.com/pr/kyowa-hearts/company",
+    "https://gijutsu-hyakka.com/companies/kyowa-hearts/",
+    "https://data-link-plus.com/jp/corporation/1020001055791",
+    "https://eigyo-mfg.com/service/navi/company/WKlO1sCzdbYk"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "キョーワハーツ お問い合わせ メール",
+   "results": [
+    "https://www.kyowa-hearts.com/",
+    "https://kyw.jp/contact/",
+    "https://kyo-wa-group.co.jp/contact/",
+    "https://ja.nc-net.or.jp/company/1129/inquiry/input/",
+    "https://www.kyowa-hearts.com/cont_sogo/",
+    "https://www.kyowa-co.net/contact/",
+    "https://nouque.jp/contact"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com キョーワハーツ",
+   "results": [
+    "https://note.com/hiradairaheipei/n/nf7a0934944d8",
+    "https://note.com/nyooooon/n/n7162dfb05ed9",
+    "https://tales.note.com/",
+    "https://note.com/jyugemu828/n/n3d7ba6da10a8",
+    "https://note.com/yato_0322/n/n5df114637103",
+    "https://note.com/aki_same213/n/n7ef0368b1d33",
+    "https://note.com/shot60858814/n/n888f852c135d"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com キョーワハーツ",
+   "results": [
+    "https://x.com/kyowahearts1951",
+    "https://x.com/Newstv_jp/status/2084446941291929660",
+    "https://x.com/Newstv_jp/status/2084217618945482970",
+    "https://x.com/MonoNet_Publica/status/1669176651828146176",
+    "https://x.com/kyowa_inc",
+    "https://x.com/likecafe55",
+    "https://x.com/ZKH_official"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com キョーワハーツ",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com キョーワハーツ",
+   "results": [
+    "https://www.facebook.com/kyowahearts/",
+    "https://www.facebook.com/kyowahearts/posts/キョーワハーツのホームページにfacebookinstagramtwitterのアイコン追加しましたhttpswwwkyowa-heartscomキョーワハーツ/4406138819460537/",
+    "https://www.facebook.com/kyowahearts/posts/みなさまおはようございますキョーワハーツの今野ですこの金型お客様の昭和か平成初期につくった金型です最近プレス屋さんの廃業などで加工してくれるところがなくなったお/5066929686714777/",
+    "https://www.facebook.com/photo/?fbid=1157826478948317",
+    "https://www.facebook.com/kyowahearts/posts/連絡キョーワハーツのホームページにsns３つのアイコンが追加されましたfacebookインスタグラムtwitterこちらも月金毎日発信しておりますのでぜひご覧く/4482714315136320/",
+    "https://www.facebook.com/kyowahearts/posts/1863122440428867/",
+    "https://www.facebook.com/kyowahearts/posts/リニューアルしたホームページどうですか見やすくなりましたかpdfをなくしみなさまにストレスなく見てもらえるようにしましたσσホームページからもfacebookは/2012207512187025/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "キョーワハーツ note 社長",
+   "results": [
+    "https://www.kyowa-hearts.com/",
+    "https://www.kyowa-hearts.com/blog/20261001084508/",
+    "https://compalyze.co.jp/company/1020001055791",
+    "https://dummy.origin.onlystory.co.jp/stories/1213",
+    "https://kanto-koshinetsu.forval.co.jp/success-story/465/",
+    "https://meguro3ma.com/project/member21/",
+    "https://www.kyowa-company.com/message/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "キョーワハーツ X 投稿",
+   "results": [
+    "https://www.kyowa-hearts.com/",
+    "https://www.nicovideo.jp/watch/sm44265196",
+    "https://www.kyowa-hearts.com/com/",
+    "https://x.com/_KINGDOMHEARTS/status/2106961165352128613",
+    "https://x.com/_KINGDOMHEARTS/status/2107667231215870264",
+    "https://search.yahoo.co.jp/realtime/search/キングダム+ハーツ/?ei=UTF-8",
+    "https://www.gamespark.jp/article/2026/05/12/166281.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式24頁／PDF・画像10件／外部13頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式24頁／PDF・画像10件／外部13頁・検索9回）"
+ }
+}

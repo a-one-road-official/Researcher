@@ -1,0 +1,991 @@
+{
+ "name": "Prosights",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-11T11:00:34.235902+00:00",
+ "official_url": "https://prosights.co/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "09-May-2024    Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/592862-23",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "ProSights – Data Partner for Finance & Operations Teams",
+    "url": "https://www.prosights.co/",
+    "pass": 1
+   },
+   {
+    "quote": "A proprietary reconciliation engine that ties disparate data across systems.",
+    "url": "https://www.prosights.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Margin and retention by product or service, on reconciled data.",
+    "url": "https://www.prosights.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Custom apps for AP matching, bank rec and approvals, with review.",
+    "url": "https://www.prosights.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Private Equity & Credit",
+    "url": "https://www.prosights.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Milestone-based pricing",
+    "url": "https://www.prosights.co/",
+    "pass": 1
+   },
+   {
+    "quote": "First working prototype",
+    "url": "https://www.prosights.co/",
+    "pass": 1
+   },
+   {
+    "quote": "of gross profit kept, from two services management had planned to cut",
+    "url": "https://www.prosights.co/",
+    "pass": 1
+   },
+   {
+    "quote": "of EBITDA run-rate from repricing older-car work at three shops",
+    "url": "https://www.prosights.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Implementation progress alongside renewal dates",
+    "url": "https://www.prosights.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Delivery against plan, from SOWs to project actuals",
+    "url": "https://www.prosights.co/",
+    "pass": 1
+   },
+   {
+    "quote": "An enterprise software company brings SOWs, purchase orders and project delivery into one source-linked view of scope, hours and renewal dates.",
+    "url": "https://www.prosights.co/",
+    "pass": 1
+   },
+   {
+    "quote": "on every agreement, so each renewal prices from the contract",
+    "url": "https://www.prosights.co/",
+    "pass": 1
+   },
+   {
+    "quote": "How does pricing work?",
+    "url": "https://www.prosights.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Job-level margins across a 35-acquisition roll-up | ProSights",
+    "url": "https://www.prosights.co/case-studies/paperless-field-workflow",
+    "pass": 1
+   },
+   {
+    "quote": "of gross profit kept, from two services management had planned to cut",
+    "url": "https://www.prosights.co/case-studies/paperless-field-workflow",
+    "pass": 1
+   },
+   {
+    "quote": "of EBITDA run-rate from repricing older-car work at three shops",
+    "url": "https://www.prosights.co/case-studies/paperless-field-workflow",
+    "pass": 1
+   },
+   {
+    "quote": "ProSights created a shared work-order ID across RailcarRX, ADP and Sage, tagged every service order with location, car type, car age, customer, supplier and parts, and built an operating scorecard that management and the sponsor read from the same numbers.",
+    "url": "https://www.prosights.co/case-studies/paperless-field-workflow",
+    "pass": 1
+   },
+   {
+    "quote": "The ERP held about 25 broad service types and nothing about the car, the parts, the labor or the shop. Reporting ran through 35 Excel workbooks linked by lookup formulas and refreshed a few times a year for board meetings. On that view paint and blast and rubber linings looked unprofitable, and management planned to cut both.",
+    "url": "https://www.prosights.co/case-studies/paperless-field-workflow",
+    "pass": 1
+   },
+   {
+    "quote": "We started with one question the CFO already had, why gross margin had fallen against the prior year. We linked each service order across the three systems, grouped similar jobs by service, shop, car type, age and supplier, and compared each group with the prior year and the weighted average, so finance could see the decline at job level before anyone cut a service.",
+    "url": "https://www.prosights.co/case-studies/paperless-field-workflow",
+    "pass": 1
+   },
+   {
+    "quote": "A matching layer that creates and maintains the shared order ID. A tagged record for every service order, from request form through parts and labor to the paid invoice. An operating scorecard with four KPI groups, demand, throughput, cycle time and unit economics, baselined on prior year and refreshed from the source systems. A selected view of the same data for the sponsor.",
+    "url": "https://www.prosights.co/case-studies/paperless-field-workflow",
+    "pass": 1
+   },
+   {
+    "quote": "Sources: RailcarRX, ADP, Sage. Process: Shared work-order ID, Validate matches, Human review. Destinations: Job-level scorecard.",
+    "url": "https://www.prosights.co/case-studies/paperless-field-workflow",
+    "pass": 1
+   },
+   {
+    "quote": "A two-week diagnostic, findings in writing, a plan priced by milestone.",
+    "url": "https://www.prosights.co/case-studies/paperless-field-workflow",
+    "pass": 1
+   },
+   {
+    "quote": "AP and bank reconciliation across 35 subsidiaries | ProSights",
+    "url": "https://www.prosights.co/case-studies/ap-and-bank-reconciliation",
+    "pass": 1
+   },
+   {
+    "quote": "A railcar services roll-up ran finance 35 times over. About 550 supplier invoices a month were typed and coded by hand across company folders, with vendors set up differently in each subsidiary. Around 90 bank accounts were reconciled one at a time against Sage, and unexplained differences carried into the next month. Nobody checked an invoice price against the purchase order it paid.",
+    "url": "https://www.prosights.co/case-studies/ap-and-bank-reconciliation",
+    "pass": 1
+   },
+   {
+    "quote": "ProSights built one invoice workflow and one reconciliation queue across all subsidiaries, with every extracted value linked to its source page and staff reviewing only the items that fail a check.",
+    "url": "https://www.prosights.co/case-studies/ap-and-bank-reconciliation",
+    "pass": 1
+   },
+   {
+    "quote": "We took the two recurring processes with the clearest baseline, measured them per invoice and per account, and agreed the matching and coding rules with the controller before automating anything. Review stayed with the finance team. The workflows prepare records and route exceptions, and staff approve before anything posts to Sage.",
+    "url": "https://www.prosights.co/case-studies/ap-and-bank-reconciliation",
+    "pass": 1
+   },
+   {
+    "quote": "Sources: Supplier invoices, Purchase orders, Bank statements, Sage. Process: Invoice checks, Reconciliation, Finance approval. Destinations: Approved Sage export, Exception queue.",
+    "url": "https://www.prosights.co/case-studies/ap-and-bank-reconciliation",
+    "pass": 1
+   },
+   {
+    "quote": "A two-week diagnostic, findings in writing, a plan priced by milestone.",
+    "url": "https://www.prosights.co/case-studies/ap-and-bank-reconciliation",
+    "pass": 1
+   },
+   {
+    "quote": "Case Studies | ProSights",
+    "url": "https://www.prosights.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Finance and operations problems, solved inside the systems clients run.",
+    "url": "https://www.prosights.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Delivery against plan, from SOWs to project actuals",
+    "url": "https://www.prosights.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "An enterprise software company sold implementation services on statements of work and purchase orders that existed only as PDFs. Project hours sat in the services system and Snowflake, customer accounts in Salesforce, and none of the datasets tied. Finance needed a project-by-project view of contracted scope against delivery, with implementation progress alongside renewal dates.",
+    "url": "https://www.prosights.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "One customer record for retention reviews",
+    "url": "https://www.prosights.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "A consumer products company with about 9,000 products in three segments and about $250 million of revenue quoted on standard cost. Freight sat at shipment level, customization costs stayed in production records and returns came back as credit memos, so Sales approved quotes without seeing the margin the order would actually earn.",
+    "url": "https://www.prosights.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "A railcar services roll-up ran finance 35 times over. About 550 supplier invoices a month were typed and coded by hand across company folders, with vendors set up differently in each subsidiary. Around 90 bank accounts were reconciled one at a time against Sage, and unexplained differences carried into the next month. Nobody checked an invoice price against the purchase order it paid.",
+    "url": "https://www.prosights.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "ProSights built a Salesforce migration workflow for a compliance software company, with more than 42,000 account, contact and lead records loaded into the sandbox for validation.",
+    "url": "https://www.prosights.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "A two-week diagnostic, findings in writing, a plan priced by milestone.",
+    "url": "https://www.prosights.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Delivery against plan, from SOWs to project actuals | ProSights",
+    "url": "https://www.prosights.co/case-studies/embedded-extraction-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Delivery against plan, from SOWs to project actuals",
+    "url": "https://www.prosights.co/case-studies/embedded-extraction-platform",
+    "pass": 1
+   },
+   {
+    "quote": "An enterprise software company sold implementation services on statements of work and purchase orders that existed only as PDFs. Project hours sat in the services system and Snowflake, customer accounts in Salesforce, and none of the datasets tied. Finance needed a project-by-project view of contracted scope against delivery, with implementation progress alongside renewal dates.",
+    "url": "https://www.prosights.co/case-studies/embedded-extraction-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Implementation progress alongside renewal dates",
+    "url": "https://www.prosights.co/case-studies/embedded-extraction-platform",
+    "pass": 1
+   },
+   {
+    "quote": "ProSights matches SOWs, purchase orders and order forms to customer accounts and project records, extracts commercial terms with citations to the source page, and compares planned scope and hours against actuals from the services system in one review workspace.",
+    "url": "https://www.prosights.co/case-studies/embedded-extraction-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Customer names and IDs differed between the documents, Salesforce and the services system, so a purchase order could not be attached with confidence to the project it paid for. Some documents carried a Salesforce ID, others only a customer name, a signing ID or a date, and the matching rules had never been written down. Historical order forms and SOWs had never been structured.",
+    "url": "https://www.prosights.co/case-studies/embedded-extraction-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Sources: PDFs — SOWs and POs, Salesforce — Customer accounts, Services system — Project hours.",
+    "url": "https://www.prosights.co/case-studies/embedded-extraction-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Match customer and project",
+    "url": "https://www.prosights.co/case-studies/embedded-extraction-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Sources: PDFs — SOWs and POs, Salesforce, Services system. Process: Match customer and project, Review conflicts. Destinations: Planned vs actual.",
+    "url": "https://www.prosights.co/case-studies/embedded-extraction-platform",
+    "pass": 1
+   },
+   {
+    "quote": "The workspace brings contracted scope, logged hours and renewal dates into one project view. Services teams can investigate work outside the agreed scope, while customer success can review delayed implementations before renewal. Each finding links back to the source document and project record, giving Finance a clear basis for follow-up.",
+    "url": "https://www.prosights.co/case-studies/embedded-extraction-platform",
+    "pass": 1
+   },
+   {
+    "quote": "A two-week diagnostic, findings in writing, a plan priced by milestone.",
+    "url": "https://www.prosights.co/case-studies/embedded-extraction-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Contract terms reconciled into Salesforce and ARR | ProSights",
+    "url": "https://www.prosights.co/case-studies/post-m-a-data-migration",
+    "pass": 1
+   },
+   {
+    "quote": "on every agreement, so each renewal prices from the contract",
+    "url": "https://www.prosights.co/case-studies/post-m-a-data-migration",
+    "pass": 1
+   },
+   {
+    "quote": "ProSights extracted every contract term with a citation to the clause it came from, validated it against a defined schema, loaded it into Salesforce without overwriting existing records, and reconciled the result to ARR for board reporting.",
+    "url": "https://www.prosights.co/case-studies/post-m-a-data-migration",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-year agreements had been split into annual records. No identifier tied a CRM record to the signed agreement that governed it, so every correction was manual. The previous vendor had delivered the migration and left, and finance could not reconcile ARR from the CRM to the balance sheet.",
+    "url": "https://www.prosights.co/case-studies/post-m-a-data-migration",
+    "pass": 1
+   },
+   {
+    "quote": "A reasoning-based extraction engine that reads footnotes, tables and handwriting in four languages. A human review surface with the source clause beside every value. A re-runnable pipeline that can be pointed at the next acquisition. A reconciliation of contract ARR to the balance sheet.",
+    "url": "https://www.prosights.co/case-studies/post-m-a-data-migration",
+    "pass": 1
+   },
+   {
+    "quote": "Sources: Signed agreements — 5 formats, 4 languages. Process: Extract with citations, Validate, Human review. Destinations: Salesforce agreements, ARR reconciliation.",
+    "url": "https://www.prosights.co/case-studies/post-m-a-data-migration",
+    "pass": 1
+   },
+   {
+    "quote": "A two-week diagnostic, findings in writing, a plan priced by milestone.",
+    "url": "https://www.prosights.co/case-studies/post-m-a-data-migration",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Data & Solutions Architect | ProSights",
+    "url": "https://www.prosights.co/careers/senior-data-solutions-architect",
+    "pass": 1
+   },
+   {
+    "quote": "Create profiling, mapping, reconciliation, lineage, cutover, and rollback approaches for high-stakes customer, contract, financial, and operational data.",
+    "url": "https://www.prosights.co/careers/senior-data-solutions-architect",
+    "pass": 1
+   },
+   {
+    "quote": "Translate an operating workflow into a pragmatic architecture spanning source systems, databases, warehouses, applications, and AI services.",
+    "url": "https://www.prosights.co/careers/senior-data-solutions-architect",
+    "pass": 1
+   },
+   {
+    "quote": "Build identity, retention, data quality, auditability, access control, and stewardship into the solution from the beginning.",
+    "url": "https://www.prosights.co/careers/senior-data-solutions-architect",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "250+ Employees, $90B+ AUM, Los Angeles, CA",
+    "url": "https://www.prosights.co/",
+    "pass": 1
+   },
+   {
+    "quote": "800+ Employees, $100B+ AUM, Austin, TX",
+    "url": "https://www.prosights.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Job-level margins across a 35-acquisition roll-up",
+    "url": "https://www.prosights.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Contract terms reconciled into Salesforce and ARR",
+    "url": "https://www.prosights.co/",
+    "pass": 1
+   },
+   {
+    "quote": "A European software company reconciled acquired contract terms into Salesforce, with source-linked renewal dates and indexation clauses.",
+    "url": "https://www.prosights.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Job-level margins across a 35-acquisition roll-up | ProSights",
+    "url": "https://www.prosights.co/case-studies/paperless-field-workflow",
+    "pass": 1
+   },
+   {
+    "quote": "Job-level margins across a 35-acquisition roll-up",
+    "url": "https://www.prosights.co/case-studies/paperless-field-workflow",
+    "pass": 1
+   },
+   {
+    "quote": "ProSights created a shared work-order ID across RailcarRX, ADP and Sage, tagged every service order with location, car type, car age, customer, supplier and parts, and built an operating scorecard that management and the sponsor read from the same numbers.",
+    "url": "https://www.prosights.co/case-studies/paperless-field-workflow",
+    "pass": 1
+   },
+   {
+    "quote": "Sources: RailcarRX — Work orders, ADP — Labor hours, Sage — Invoices.",
+    "url": "https://www.prosights.co/case-studies/paperless-field-workflow",
+    "pass": 1
+   },
+   {
+    "quote": "Sources: RailcarRX, ADP, Sage. Process: Shared work-order ID, Validate matches, Human review. Destinations: Job-level scorecard.",
+    "url": "https://www.prosights.co/case-studies/paperless-field-workflow",
+    "pass": 1
+   },
+   {
+    "quote": "A railcar services roll-up ran finance 35 times over. About 550 supplier invoices a month were typed and coded by hand across company folders, with vendors set up differently in each subsidiary. Around 90 bank accounts were reconciled one at a time against Sage, and unexplained differences carried into the next month. Nobody checked an invoice price against the purchase order it paid.",
+    "url": "https://www.prosights.co/case-studies/ap-and-bank-reconciliation",
+    "pass": 1
+   },
+   {
+    "quote": "AP staff re-entered invoice details across email, TimberScan, RailcarRX and Sage and searched for supporting documents by hand. Finance had no current view of outstanding payables. Each subsidiary had its own cash setup, so bank reconciliation meant opening statements and Sage folders account by account and matching transactions manually.",
+    "url": "https://www.prosights.co/case-studies/ap-and-bank-reconciliation",
+    "pass": 1
+   },
+   {
+    "quote": "Job-level margins across a 35-acquisition roll-up",
+    "url": "https://www.prosights.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "A consumer products company with about 9,000 products in three segments and about $250 million of revenue quoted on standard cost. Freight sat at shipment level, customization costs stayed in production records and returns came back as credit memos, so Sales approved quotes without seeing the margin the order would actually earn.",
+    "url": "https://www.prosights.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "A railcar services roll-up ran finance 35 times over. About 550 supplier invoices a month were typed and coded by hand across company folders, with vendors set up differently in each subsidiary. Around 90 bank accounts were reconciled one at a time against Sage, and unexplained differences carried into the next month. Nobody checked an invoice price against the purchase order it paid.",
+    "url": "https://www.prosights.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Contract terms reconciled into Salesforce and ARR",
+    "url": "https://www.prosights.co/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Customer names and IDs differed between the documents, Salesforce and the services system, so a purchase order could not be attached with confidence to the project it paid for. Some documents carried a Salesforce ID, others only a customer name, a signing ID or a date, and the matching rules had never been written down. Historical order forms and SOWs had never been structured.",
+    "url": "https://www.prosights.co/case-studies/embedded-extraction-platform",
+    "pass": 1
+   },
+   {
+    "quote": "We started with SOWs and purchase orders, the documents that carry the commercial terms. We agreed the matching rules with finance and the services team, recorded the rule used for every match, then extended to the wider document set. Conflicts between a document and a system record go to a review queue, and nothing in the system is overwritten.",
+    "url": "https://www.prosights.co/case-studies/embedded-extraction-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Contract terms reconciled into Salesforce and ARR | ProSights",
+    "url": "https://www.prosights.co/case-studies/post-m-a-data-migration",
+    "pass": 1
+   },
+   {
+    "quote": "Contract terms reconciled into Salesforce and ARR",
+    "url": "https://www.prosights.co/case-studies/post-m-a-data-migration",
+    "pass": 1
+   },
+   {
+    "quote": "ProSights extracted every contract term with a citation to the clause it came from, validated it against a defined schema, loaded it into Salesforce without overwriting existing records, and reconciled the result to ARR for board reporting.",
+    "url": "https://www.prosights.co/case-studies/post-m-a-data-migration",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-year agreements had been split into annual records. No identifier tied a CRM record to the signed agreement that governed it, so every correction was manual. The previous vendor had delivered the migration and left, and finance could not reconcile ARR from the CRM to the balance sheet.",
+    "url": "https://www.prosights.co/case-studies/post-m-a-data-migration",
+    "pass": 1
+   },
+   {
+    "quote": "A reasoning-based extraction engine that reads footnotes, tables and handwriting in four languages. A human review surface with the source clause beside every value. A re-runnable pipeline that can be pointed at the next acquisition. A reconciliation of contract ARR to the balance sheet.",
+    "url": "https://www.prosights.co/case-studies/post-m-a-data-migration",
+    "pass": 1
+   },
+   {
+    "quote": "Sources: Signed agreements — 5 formats, 4 languages. Process: Extract with citations, Validate, Human review. Destinations: Salesforce agreements, ARR reconciliation.",
+    "url": "https://www.prosights.co/case-studies/post-m-a-data-migration",
+    "pass": 1
+   },
+   {
+    "quote": "Define canonical models, domain boundaries, system-of-record decisions, and integration contracts across acquired and legacy systems.",
+    "url": "https://www.prosights.co/careers/senior-data-solutions-architect",
+    "pass": 1
+   },
+   {
+    "quote": "ProSights has 13 total employees.",
+    "url": "https://pitchbook.com/profiles/company/592862-23",
+    "pass": 3
+   },
+   {
+    "quote": "What is ProSights’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/592862-23",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for ProSights is",
+    "url": "https://pitchbook.com/profiles/company/592862-23",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "AP staff re-entered invoice details across email, TimberScan, RailcarRX and Sage and searched for supporting documents by hand. Finance had no current view of outstanding payables. Each subsidiary had its own cash setup, so bank reconciliation meant opening statements and Sage folders account by account and matching transactions manually.",
+    "url": "https://www.prosights.co/case-studies/ap-and-bank-reconciliation",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/592862-23",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Translate an operating workflow into a pragmatic architecture spanning source systems, databases, warehouses, applications, and AI services.",
+    "url": "https://www.prosights.co/careers/senior-data-solutions-architect",
+    "pass": 1
+   },
+   {
+    "quote": "You understand warehouses, lakehouses, APIs, eventing, MDM, identity, governance, and the realities of ERP and CRM data.",
+    "url": "https://www.prosights.co/careers/senior-data-solutions-architect",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Case Studies | ProSights — Case Studies | ProSights ProSights https://www.prosights.co > case-studies",
+    "url": "https://www.prosights.co/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "ProSights – Data Partner for Finance & Operations Teams — ProSights – Data Partner for Finance & Operations Teams ProSights https://www.prosights.co",
+    "url": "https://www.prosights.co/",
+    "pass": 3
+   },
+   {
+    "quote": "Justin Wu - Co- Founder @ ProSights - LinkedIn — Justin Wu - Co- Founder @ ProSights - LinkedIn LinkedIn https://www.linkedin.com > ai-finance",
+    "url": "https://www.linkedin.com/in/ai-finance",
+    "pass": 3
+   },
+   {
+    "quote": "ProSights - 2026 Company Profile & Team - Tracxn — ProSights - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/prosights/__KUd5WnlyL7YPyO5_8IySPYPcP98D2Pl96BA2HI5Thbg",
+    "pass": 3
+   },
+   {
+    "quote": "ProSights - Crunchbase Company Profile & Funding — ProSights - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > prosig...",
+    "url": "https://www.crunchbase.com/organization/prosights",
+    "pass": 3
+   },
+   {
+    "quote": "ProSights 2026 Company Profile: Valuation, Funding & Investors — ProSights 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/592862-23",
+    "pass": 3
+   },
+   {
+    "quote": "ProSights : Data services for finance and operations at PE ... — ProSights : Data services for finance and operations at PE ... Y Combinator https://www.ycombinator.com > prosi...",
+    "url": "https://www.ycombinator.com/companies/prosights",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "ProSights - LinkedIn ProSights - LinkedIn LinkedIn https://www.linkedin.com > prosightsco",
+    "url": "https://www.linkedin.com/company/prosightsco",
+    "pass": 3
+   },
+   {
+    "quote": "Justin Wu - Co-Founder @ ProSights - LinkedIn Justin Wu - Co-Founder @ ProSights - LinkedIn LinkedIn https://www.linkedin.com > ai-finance",
+    "url": "https://www.linkedin.com/in/ai-finance",
+    "pass": 3
+   },
+   {
+    "quote": "Aaron G. - Co-Founder @ ProSights | Value Creation - LinkedIn Aaron G. - Co-Founder @ ProSights | Value Creation - LinkedIn LinkedIn https://www.linkedin.com > guoaaron",
+    "url": "https://www.linkedin.com/in/guoaaron",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Enterprise risk management roundtable in New York - Facebook Enterprise risk management roundtable in New York - Facebook Facebook https://www.facebook.com > posts > prosights-ceo-jen-gui...",
+    "url": "https://www.facebook.com/61555948642471/posts/prosights-ceo-jen-guidi-joined-members-of-the-enterprise-risk-management-large-b/122300372294198288/",
+    "pass": 3
+   },
+   {
+    "quote": "No compromise. ULTIMA CP PRO sights offer unparalleled ... No compromise. ULTIMA CP PRO sights offer unparalleled ... Facebook https://www.facebook.com > Shibuya.Archery > posts > n...",
+    "url": "https://www.facebook.com/Shibuya.Archery/posts/no-compromise-ultima-cp-pro-sights-offer-unparalleled-reliability-adjustability-/1252465880212699/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.prosights.co/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prosights.co/case-studies/paperless-field-workflow",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prosights.co/case-studies/ap-and-bank-reconciliation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prosights.co/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prosights.co/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prosights.co/case-studies/embedded-extraction-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prosights.co/case-studies/post-m-a-data-migration",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prosights.co/careers/senior-data-solutions-architect",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://finance.biggo.jp/news/d7f9e971-3cf3-4267-9109-4a4753ee858d",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stellantis-campaign.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.proface.com/ja/support/distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=10054",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bizresearch.net/search",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pro-light.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ameblo.jp/fj1200lc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/ProLightJapan/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://prolight-provisual.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prosights.co/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cognizant.com/us/en/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.factbird.com/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.conveyormg.com/resources/blogs/creating-manufacturing-case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prosights.co/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.preferredpatron.com/reseller-loyalty-programs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/in/ai-finance",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tracxn.com/d/companies/prosights/__KUd5WnlyL7YPyO5_8IySPYPcP98D2Pl96BA2HI5Thbg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/prosights",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/592862-23",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/company/prosightsco",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/ai-finance",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/guoaaron",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61555948642471/posts/prosights-ceo-jen-guidi-joined-members-of-the-enterprise-risk-management-large-b/122300372294198288/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Shibuya.Archery/posts/no-compromise-ultima-cp-pro-sights-offer-unparalleled-reliability-adjustability-/1252465880212699/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Prosights 日本 導入",
+   "results": [
+    "https://www.stellantis.jp/",
+    "https://topics.smt.docomo.ne.jp/article/goonet/trend/goonet-294321",
+    "https://finance.biggo.jp/news/d7f9e971-3cf3-4267-9109-4a4753ee858d",
+    "https://www.stellantis-campaign.jp/",
+    "https://www.netdenjd.com/archives/708202",
+    "https://global.nissannews.com/ja-JP/releases/250922-01-j",
+    "https://www.autocar.jp/post/1177110",
+    "https://motor-fan.jp/article/1336342/",
+    "https://www.nextfor.ai/ja/products/prosights",
+    "https://aimyflow.com/ja/ai/prosights-co"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Prosights 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.proface.com/ja/support/distributor",
+    "https://dairitenboshu.com/",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=10054",
+    "https://bizresearch.net/search",
+    "https://www.provej.jp/service/developing-overseas-business-partners/distributor/",
+    "https://www.bgent.net/",
+    "https://www.ms-ad-hd.com/ja/word_point/word0087.html",
+    "https://b-seeds.com/",
+    "https://mono.ipros.com/cg1/%E4%BB%A3%E7%90%86%E5%BA%97%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9/",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Prosights Japan",
+   "results": [
+    "https://www.pro-light.jp/",
+    "https://ameblo.jp/fj1200lc/",
+    "https://www.facebook.com/ProLightJapan/",
+    "https://prolight-provisual.jp/",
+    "https://www.prolitejapan.ca/",
+    "https://www.youtube.com/watch?v=4mlooJUeJig",
+    "https://www.monotaro.com/s/q-%E3%83%97%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%88/?srsltid=AYCX9vJHQcrQkIkStPF5vLq_IcQ3jG0uMNjixcNtF3NRFt4zZib51T5m",
+    "https://www.prosights.com/",
+    "https://www.nextfor.ai/ja/products/prosights",
+    "https://www.prosights.com/advisory.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Prosights manufacturing customer case study",
+   "results": [
+    "https://www.prosights.co/case-studies",
+    "https://www.cognizant.com/us/en/case-studies",
+    "https://www.factbird.com/resources/case-studies",
+    "https://www.conveyormg.com/resources/blogs/creating-manufacturing-case-studies",
+    "https://fourjaw.com/tell-your-manufacturing-story",
+    "https://aws.amazon.com/manufacturing/case-studies/",
+    "https://www.infosys.com/industries/industrial-manufacturing/case-studies.html",
+    "https://www.industryweek.com/leadership/strategic-planning-execution/article/21261091/winning-with-customer-case-studies-4-tips-6-pitfalls",
+    "https://go.perceptyx.com/customer-stories"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Prosights white label OR reseller OR partner program",
+   "results": [
+    "https://www.prosights.co/",
+    "https://www.preferredpatron.com/reseller-loyalty-programs",
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://elfsight.com/affiliate-program/articles-saas-white-label/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.prosightfa.org/",
+    "https://www.ycombinator.com/companies/prosights",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Prosights founded funding employees revenue",
+   "results": [
+    "https://www.linkedin.com/in/ai-finance",
+    "https://tracxn.com/d/companies/prosights/__KUd5WnlyL7YPyO5_8IySPYPcP98D2Pl96BA2HI5Thbg",
+    "https://www.crunchbase.com/organization/prosights",
+    "https://pitchbook.com/profiles/company/592862-23",
+    "https://www.ycombinator.com/companies/prosights",
+    "https://www.prosights.co/",
+    "https://www.cbinsights.com/company/prosights/financials",
+    "https://www.caplight.com/company/prosights",
+    "https://gaps.com/finance/",
+    "https://prospeo.io/c/prosights-revenue"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com Prosights",
+   "results": [
+    "https://note.com/gen_ai/n/n604db2ec63b2",
+    "https://note.com/brave_viola100/n/n93c9f0c98400",
+    "https://note.com/s_yamahuda/n/n9ee7399b6e8b",
+    "https://note.com/brave_viola100/n/n93c9f0c98400/comments",
+    "https://note.com/smatterer/n/ne79379b6544e",
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/majimeron/n/nb0d89e8ba191?hl=en",
+    "https://note.com/alpha_red/n/nc1bceb6665b0?hl=en",
+    "https://note.com/kurobat/n/n589f268221f5?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:x.com Prosights",
+   "results": [
+    "https://x.com/theinformation/status/1904960317282463778",
+    "https://x.com/IanECox/status/2040084973563032060",
+    "https://x.com/Auhoug",
+    "https://x.com/RoadAtlanta/status/2118094432784220361",
+    "https://x.com/EchigoyaKasuga/status/2095400304892317729",
+    "https://x.com/fen7121/status/2112160341736173880",
+    "https://x.com/cmjornal/status/2118351462581358956",
+    "https://x.com/prosights/",
+    "https://x.com/ProSightFA",
+    "https://x.com/hollyjhughes"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:linkedin.com Prosights",
+   "results": [
+    "https://www.linkedin.com/company/prosightsco",
+    "https://www.linkedin.com/in/ai-finance",
+    "https://www.linkedin.com/in/guoaaron",
+    "https://www.linkedin.com/posts/y-combinator_launch-yc-prosights-ai-powered-deal-activity-7179522698195218434-BHTP",
+    "https://www.linkedin.com/company/prosightfa",
+    "https://www.linkedin.com/posts/guoaaron_one-year-ago-prosights-was-in-a-tough-spot-activity-7401624695432847362-LAAx",
+    "https://www.linkedin.com/in/abhishekwl",
+    "https://www.linkedin.com/in/sm-alihussaini",
+    "https://www.linkedin.com/in/aditya-murjani",
+    "https://www.linkedin.com/company/prosights-llc/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Prosights",
+   "results": [
+    "https://www.facebook.com/prosightdigital/",
+    "https://www.facebook.com/61555948642471/posts/prosights-ceo-jen-guidi-joined-members-of-the-enterprise-risk-management-large-b/122300372294198288/",
+    "https://www.facebook.com/Shibuya.Archery/posts/no-compromise-ultima-cp-pro-sights-offer-unparalleled-reliability-adjustability-/1252465880212699/",
+    "https://www.facebook.com/truballarchery/videos/be-an-expert-and-learn-how-to-adjust-the-tension-setting-on-the-new-axcel-achiev/6552823348150367/",
+    "https://www.facebook.com/magpul/posts/theyre-here-the-mbus-3-incorporates-the-best-features-strengths-and-value-of-our/5696695157009453/",
+    "https://www.facebook.com/truballarchery/posts/congratulations-to-tru-ball-axcel-toptierteam-members-who-made-the-podium-at-the/841757951325428/",
+    "https://www.facebook.com/magpul/posts/the-next-evolution-in-our-mbus-line-is-here-the-mbus-3-incorporates-the-best-fea/3867421056603548/",
+    "https://www.facebook.com/lancasterarchery/posts/bottomland-camo-has-landed-hhas-newest-finish-is-available-now-on-select-nytrx-p/1189971599841954/",
+    "https://www.facebook.com/truballarchery/posts/congratulations-senior-pro-champion-keith-ahlstrom-the-2025-asa-pro-am-in-metrop/1167467532087800/",
+    "https://www.facebook.com/p/ProSight-Financial-Association-61555948642471/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Prosights note 社長",
+   "results": [
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://x.com/sadaaki",
+    "https://note.com/sadaaki",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://lp.startup-db.com/media/articles/piece-of-cake",
+    "https://note.com/topic/noteprolist",
+    "https://froggy.smbcnikko.co.jp/66484/",
+    "https://note.prodelight.co.jp/n/n86bbab417c72",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Prosights X 投稿",
+   "results": [
+    "https://www.prosights.com/",
+    "https://www.youtube.com/watch?v=gvbCoPOjdwA",
+    "https://x.com/pro_p24/status/1818969666955698549",
+    "https://xpost-pro.com/",
+    "https://www.reddit.com/r/ProCreate/comments/1fu8spn/help_with_posting_on_twitterx/?tl=ja",
+    "https://chromewebstore.google.com/detail/x-pro-targeting/onkfhapdikdljooblkaigahglmnpaplk",
+    "https://www.youtube.com/watch?v=zhEe6q2AGtA",
+    "https://pro-x.co.jp/",
+    "https://www.youtube.com/watch?v=UKJ_UigAiYk"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部29頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部29頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部29頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部29頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部29頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部29頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部29頁・検索12回）"
+ }
+}

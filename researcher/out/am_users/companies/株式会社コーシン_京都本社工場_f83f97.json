@@ -1,0 +1,537 @@
+{
+ "name": "株式会社コーシン 京都本社工場",
+ "aliases": [],
+ "context": "ipros_all:多品種",
+ "researched_at": "2026-11-11T11:13:53.786602+00:00",
+ "official_url": "http://www.k-koshin.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒613-0036 京都府久世郡久御山町田井新荒見266-1",
+    "url": "https://www.k-koshin.com/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "本社 〒613-0036 京都府久世郡久御山町田井新荒見266-1 淀工場 京都府京都市伏見区淀生津115-8",
+    "url": "https://www.k-koshin.com/company",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者名",
+    "value": "恩田 健帥",
+    "url": "https://www.k-koshin.com/",
+    "pass": 1
+   },
+   {
+    "label": "代表取締役",
+    "value": "恩田 健帥",
+    "url": "https://www.k-koshin.com/company",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "精密板金単品及び量産加工・板金部品設計試作・板金加工品デザイン",
+    "url": "https://www.k-koshin.com/",
+    "pass": 1
+   },
+   {
+    "label": "営業品目",
+    "value": "【事業内容】 板金部品デザイン 試作品設計・製造 板金加工・精密板金 製缶加工 溶接 表面処理・検査 【取扱い製品業種】 産業機器部品 分析装置部品 航空機器部品 食品関連装置部品 防護施設製品部品 電気自動車部品 医療機器部品 半導体機器部品 制御盤筐体 産業ロボット部品 船舶機械部品 美術舞台装置、道具 大学・研究機関向け板金部品 他",
+    "url": "https://www.k-koshin.com/company",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "26名",
+    "url": "https://www.k-koshin.com/company",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "産業機器メーカー 航空機器部品メーカー 食品関連装置メーカー 防護施設製品メーカー 電気自動車メーカー 医療機器メーカー 半導体機器メーカー 制御盤メーカー 産業ロボットメーカー 船舶機械メーカー 美術舞台製作会社 大学・研究機関 他",
+    "url": "https://www.k-koshin.com/company",
+    "pass": 1
+   },
+   {
+    "label": "取引先銀行",
+    "value": "京都信用金庫 久御山支店 京都中央信用金庫 久御山支店",
+    "url": "https://www.k-koshin.com/company",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "レーザー加工、シャーリング、ステンレス溶接など板金加工による精密板金製品の一貫生産を行なっております",
+    "url": "https://www.k-koshin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様が新製品の開発から販売を手軽に次々と行えるお手伝いをさせていただく事で、日本からものづくりを逃がさない（Made In Japanを減らさない）努力を続けていきたいと考えております",
+    "url": "https://www.k-koshin.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "新規に金型を製作する必要がなくなり、製品開発から販売への初期費用を削減いたします",
+    "url": "https://www.k-koshin.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "また、金型製作にかかる時間を無くすことで、ライバル他社よりも早く市場への製品投入を可能にいたします",
+    "url": "https://www.k-koshin.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "銅やアルミ製品にも成形加工を行うことが可能ですので、プレス金型などを製作する必要もございません",
+    "url": "https://www.k-koshin.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "複雑に抜き曲げされた部品を溶接にて組み上げ、製品に仕上げます",
+    "url": "https://www.k-koshin.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社コーシン｜製品紹介・加工実績｜精密板金加工のスピード革命！",
+    "url": "https://www.k-koshin.com/product",
+    "pass": 1
+   },
+   {
+    "quote": "ひとつひとつの製品を「より精密に、より低価格で」お客様にご提供するためにHMX-3510NTシングルヘッドパンチプレスなど、最新板金設備を豊富に取り揃えております",
+    "url": "https://www.k-koshin.com/facility",
+    "pass": 1
+   },
+   {
+    "quote": "【HMX】金型をひとつずつシングルヘッド部に瞬時に供給・交換して製品加工するシングルヘッド方式のパンチプレスです",
+    "url": "https://www.k-koshin.com/facility",
+    "pass": 1
+   },
+   {
+    "quote": "コーシンの製品・サービス一覧｜イプロスものづくり",
+    "url": "https://mono.ipros.com/company/detail/2046482/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(2)",
+    "url": "https://mono.ipros.com/company/detail/2046482/category/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の希望納期に近付けて納品いたしますので、製品が市場投入に遅れてしまうような事はございません",
+    "url": "https://mono.ipros.com/company/detail/2046482/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製品を小型化、シンプル化する過程において組み込まれるバスバーの形状も、複雑な形が要求されます",
+    "url": "https://mono.ipros.com/company/detail/2046482/category/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "精密板金単品及び量産加工・板金部品設計試作・板金加工品デザイン",
+    "url": "https://www.k-koshin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ハイスピード精密板金試作・単品加工、板金部品設計・デザイン、無駄なコストをかけないことで、トータルスピードサービスを提供しております",
+    "url": "https://www.k-koshin.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "大型板金加工品の単品短納期対応にお困りの企業様へ",
+    "url": "https://mono.ipros.com/company/detail/2046482/category/",
+    "pass": 3
+   },
+   {
+    "quote": "大物板金、製缶案件を得意とする企業は、事業規模も大きく量産品に対応していただけますが、工程変更や生産品目の急な変更に対応が出来ない企業がほとんどで、単品発注になると",
+    "url": "https://mono.ipros.com/company/detail/2046482/category/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社はタレパン金型の種類が豊富ですので、ひねりが加えられたり、R形状が多い複雑なものの多品種少量生産でも、コストと時間をかけずに製作することが可能です",
+    "url": "https://mono.ipros.com/company/detail/2046482/category/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "さらに当社では、金型保有全国TOPクラスの1,000本を所有し、形状・変数変量の対応はもちろん、金型コストも抑えられます",
+    "url": "https://www.k-koshin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "またアルミや、銅などの非鉄金属の加工を得意としており、ルーバーやエンボスといった成形加工金型も各種取り揃えております",
+    "url": "https://www.k-koshin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "パンチプレス金型保有全国TOPクラスの1,000本を所有し、形状・変数変量の対応はもちろん、金型コストを抑えられます",
+    "url": "https://www.k-koshin.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "新規に金型を製作する必要がなくなり、製品開発から販売への初期費用を削減いたします",
+    "url": "https://www.k-koshin.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "また、金型製作にかかる時間を無くすことで、ライバル他社よりも早く市場への製品投入を可能にいたします",
+    "url": "https://www.k-koshin.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "銅やアルミ製品にも成形加工を行うことが可能ですので、プレス金型などを製作する必要もございません",
+    "url": "https://www.k-koshin.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "ルーバー、カウンターシンク・エンボスなどの成形加工用のパンチプレス金型も多数保有しており、無駄な時間とコストがかかる新規金型作成が不要です",
+    "url": "https://www.k-koshin.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "パンチプレス金型保有全国TOPクラスの1,000本を所有し、形状・変数変量の対応はもちろん、金型コストも抑えられます",
+    "url": "https://www.k-koshin.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "異形状でも多数の金型を組み合わせて加工いたします",
+    "url": "https://www.k-koshin.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "当社ではパンチプレス機用の成形加工金型を数多く取り揃えており、ルーバー加工用の金型も大小多数ございます",
+    "url": "https://www.k-koshin.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "銅は滅菌力が強く、菌などの感染を防ぐため医療現場などで利用されています",
+    "url": "https://www.k-koshin.com/product",
+    "pass": 1
+   },
+   {
+    "quote": "専用曲げ金型を製作せずに1個からでも加工いたします",
+    "url": "https://www.k-koshin.com/product",
+    "pass": 1
+   },
+   {
+    "quote": "【HMX】金型をひとつずつシングルヘッド部に瞬時に供給・交換して製品加工するシングルヘッド方式のパンチプレスです",
+    "url": "https://www.k-koshin.com/facility",
+    "pass": 1
+   },
+   {
+    "quote": "弊社はタレパン金型の種類が豊富ですので、ひねりが加えられたり、R形状が多い複雑なものの多品種少量生産でも、コストと時間をかけずに製作することが可能です",
+    "url": "https://mono.ipros.com/company/detail/2046482/category/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "多種多材な材料板厚に対応、その材質や板厚に応じた適正条件で角度と寸法を出しております",
+    "url": "https://www.k-koshin.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "鉄はもちろんのこと、アルミ・ステンレス・チタン溶接をはじめ、TIG溶接、MIG溶接、スポット溶接に対応いたします",
+    "url": "https://www.k-koshin.com/business",
+    "pass": 1
+   },
+   {
+    "quote": "材質：ガルバニュウム材 タレパン成形加工品",
+    "url": "https://www.k-koshin.com/product",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "お客様からお預かりした図面やCADデータ、ポンチ絵や電話メールなどの打ち合わせに基づきデータ作成を行います",
+    "url": "https://www.k-koshin.com/business",
+    "pass": 1
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "パンチング-京都コーシン（打ち抜き加工・タレパン・パンチプレス・Tu...川島織物セルコン京都本社工場 - Facebookウェルディング-京都コーシン（TIG溶接・半自動溶接・スポット溶接・...ベンディング-京都コーシン（曲げ・R曲げ・深曲げ・bending）パンチング-京都コーシン（打ち抜き加工・タレパン・パンチプレス・Tu...株式会社コーシン - Facebook【香心ポーク】～コーシン | Ozu-machi Kikuchi-gun Kumamoto Jan 8, 2015 · パンチング-京都コーシン（打ち抜き加工・タレパン・パンチプレス・Turret Punch Press）. 91 followers. 精密板金加工のスピード革命！ 川島織物セルコン京都本社工場 Jan 14, 2015 · 曲げ加工した材料を溶接して、箱型の製品を製作して いきます。 精密板金加工のスピ",
+    "url": "https://www.facebook.com/punchpress/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.k-koshin.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.k-koshin.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.k-koshin.com/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.k-koshin.com/product",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.k-koshin.com/facility",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.k-koshin.com/wp-content/uploads/product_img001.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.k-koshin.com/wp-content/uploads/product_img002.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.k-koshin.com/wp-content/uploads/product_img003.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.k-koshin.com/wp-content/uploads/product_img004.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.k-koshin.com/wp-content/uploads/product_img005.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.k-koshin.com/wp-content/uploads/product_img006.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.k-koshin.com/wp-content/uploads/product_img007.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.k-koshin.com/wp-content/uploads/product_img008.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.k-koshin.com/wp-content/uploads/product_img009.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.k-koshin.com/wp-content/uploads/product_img010.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.k-koshin.com/wp-content/uploads/l_product_img011.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.k-koshin.com/wp-content/uploads/l_product_img012.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/company/detail/2046482/category/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://k-kosin.co.jp/products",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.koshin-k.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ko-shinn.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.koshin-inc.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/punchpress/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "コーシン 京都本社工場 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.k-koshin.com/product",
+    "https://mono.ipros.com/company/detail/2046482/category/",
+    "http://k-kosin.co.jp/products",
+    "https://www.koshin-k.co.jp/",
+    "http://www.y-koshin.com/",
+    "https://www.k-koshin.com/",
+    "http://k-kosin.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "コーシン 京都本社工場 会社概要 事業内容",
+   "results": [
+    "https://www.k-koshin.com/company",
+    "https://www.k-koshin.com/",
+    "https://www.koshin-k.co.jp/",
+    "http://www.kyoto-koshin.co.jp/pro.html",
+    "https://www.koshin-k.co.jp/info/",
+    "https://koushin1112.com/work.html",
+    "https://www.koshin-ltd.jp/info/about.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "コーシン 京都本社工場 お問い合わせ メール",
+   "results": [
+    "https://www.ko-shinn.co.jp/contact/",
+    "https://www.k-koshin.com/contact",
+    "https://www.koshin-inc.jp/contact/",
+    "https://koushin1112.com/contact.php",
+    "http://kohshinweb.jp/mail_to.php",
+    "http://www.koshin-t.co.jp/contact.html",
+    "https://www.ko-shinn.co.jp/contact-company/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com コーシン 京都本社工場",
+   "results": [
+    "https://note.com/sankituushin/n/n1a0943ba7eb7",
+    "https://note.com/sdc_sdc/n/n83eff2c36ddf",
+    "https://note.com/kohei010138/n/n2f276f892057",
+    "https://note.com/kozo_s/n/n67c57f73ec4c",
+    "https://note.com/jazzmastertorino/n/na18f38146e13",
+    "https://note.com/xsolrecruit_/n/n092fcdcbef59",
+    "https://note.com/sunmcolor/n/n220a0c2157d8"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com コーシン 京都本社工場",
+   "results": [
+    "https://x.com/kyoto_koshin",
+    "https://x.com/koshinmilk1906",
+    "https://x.com/koshinmilk1906/status/1711897755759808965",
+    "https://x.com/koshinmilk1906/status/2052669995579314417",
+    "https://x.com/Sayulist1/status/2062879961476935919",
+    "https://x.com/matsuikoji/status/2082396944249577608",
+    "https://x.com/NidecJP/status/1637680366785028096"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com コーシン 京都本社工場",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com コーシン 京都本社工場",
+   "results": [
+    "https://www.facebook.com/punchpress/",
+    "https://www.facebook.com/川島織物セルコン京都本社工場-258043920886515/",
+    "https://www.facebook.com/weld.welding/",
+    "https://www.facebook.com/bending.press/",
+    "https://www.facebook.com/punchpress/photos/788539027835736/",
+    "https://www.facebook.com/kosin0506/",
+    "https://www.facebook.com/cohsin/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "コーシン 京都本社工場 note 社長",
+   "results": [
+    "https://www.k-koshin.com/",
+    "https://y-koshin.com/company/",
+    "https://www.k-koshin.com/company",
+    "http://www.kyoto-koshin.co.jp/pro.html",
+    "http://k-kosin.co.jp/aboutus",
+    "https://www.koshin-k.co.jp/",
+    "https://www.koshin-inc.jp/company/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "コーシン 京都本社工場 X 投稿",
+   "results": [
+    "https://www.k-koshin.com/company",
+    "https://www.k-koshin.com/",
+    "http://k-kosin.co.jp/",
+    "https://www.monodukuri-kyoto.jp/company/4285/",
+    "https://www.koshin-k.co.jp/",
+    "https://x.com/ikura2501/status/2119647525376495652",
+    "https://www.koshin-ltd.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像12件／外部6頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式5頁／PDF・画像12件／外部6頁・検索9回）",
+  "AM関連": "記載なし（3回確認済み：公式5頁／PDF・画像12件／外部6頁・検索9回）"
+ }
+}

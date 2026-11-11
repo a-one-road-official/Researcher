@@ -1,0 +1,773 @@
+{
+ "name": "Provenskincare",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-11T10:39:55.869752+00:00",
+ "official_url": "https://www.provenskincare.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Personalized Skincare That Adapts to You | Proven Skincare",
+    "url": "https://www.provenskincare.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Read our privacy policy",
+    "url": "https://www.provenskincare.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Personalized skin care brand Proven raises $12.2M | Retail Dive",
+    "url": "https://www.retaildive.com/news/proven-raises-series-a-funding/693809/",
+    "pass": 3
+   },
+   {
+    "quote": "Personalized skin care brand Proven raises $12.2M",
+    "url": "https://www.retaildive.com/news/proven-raises-series-a-funding/693809/",
+    "pass": 3
+   },
+   {
+    "quote": "With the fresh funding, the company will launch new products for its Proven Skincare and Noteworthy brands, as well as expand its team.",
+    "url": "https://www.retaildive.com/news/proven-raises-series-a-funding/693809/",
+    "pass": 3
+   },
+   {
+    "quote": "Proven skin care products on a sink counter. The company brought in a Series A funding round led by NewH2 Ventures as well as existing investors.",
+    "url": "https://www.retaildive.com/news/proven-raises-series-a-funding/693809/",
+    "pass": 3
+   },
+   {
+    "quote": "Courtesy of Proven Skincare",
+    "url": "https://www.retaildive.com/news/proven-raises-series-a-funding/693809/",
+    "pass": 3
+   },
+   {
+    "quote": "Personalized beauty brand Proven has raised $12.2 million in Series A funding led by NewH2 Ventures with participation from existing investors.",
+    "url": "https://www.retaildive.com/news/proven-raises-series-a-funding/693809/",
+    "pass": 3
+   },
+   {
+    "quote": "The company plans to use the funding to expand its two brands — Proven Skincare and Noteworthy — and build out its team, according to a press release emailed to Retail Dive.",
+    "url": "https://www.retaildive.com/news/proven-raises-series-a-funding/693809/",
+    "pass": 3
+   },
+   {
+    "quote": "Proven has brought in more than $21 million in investments. The company previously raised $6 million in seed funding and another $3 million in Regulation A+ funding, per the release.",
+    "url": "https://www.retaildive.com/news/proven-raises-series-a-funding/693809/",
+    "pass": 3
+   },
+   {
+    "quote": "Proven has grown to bring in more than $30 million in revenue, reached break-even and will be profitable by the end of the year, according to the company.",
+    "url": "https://www.retaildive.com/news/proven-raises-series-a-funding/693809/",
+    "pass": 3
+   },
+   {
+    "quote": "In just the past year Proven has expanded into the U.K. and Europe,",
+    "url": "https://www.retaildive.com/news/proven-raises-series-a-funding/693809/",
+    "pass": 3
+   },
+   {
+    "quote": "Proven built its business model on its ability to craft unique skin care and fragrance products, which are personalized for its customers. Both Proven and Noteworthy — which launched this year — rely on AI technology to customize products for individual customers wanting their own signature skin care or scent.",
+    "url": "https://www.retaildive.com/news/proven-raises-series-a-funding/693809/",
+    "pass": 3
+   },
+   {
+    "quote": "AI comes into play when potential customers visit the Proven website and take the brand’s three-minute quiz that can determine what products work best for them. An algorithm analyzes millions of factors for customers, including changing seasons, the skin’s tolerance to active ingredients, geographical moves, aging and pregnancy.",
+    "url": "https://www.retaildive.com/news/proven-raises-series-a-funding/693809/",
+    "pass": 3
+   },
+   {
+    "quote": "Proven was founded in 2017 by Ming Zhao and",
+    "url": "https://www.retaildive.com/news/proven-raises-series-a-funding/693809/",
+    "pass": 3
+   },
+   {
+    "quote": "Amy Yuan, and officially launched two years later after a period of extensive research that to date has drawn from over 4,000 scientific studies and testimonials from more than 20 million people on skin care preferences.",
+    "url": "https://www.retaildive.com/news/proven-raises-series-a-funding/693809/",
+    "pass": 3
+   },
+   {
+    "quote": "Referred to as the Skin Genome Project, the company’s research has studied over 100,000 individual beauty products and the effectiveness of 20,238 skin care ingredients.",
+    "url": "https://www.retaildive.com/news/proven-raises-series-a-funding/693809/",
+    "pass": 3
+   },
+   {
+    "quote": "Proven Skincare offers five products: personalized cleaner, day moisturizer, night cream, day eye cream, and night eye cream.",
+    "url": "https://www.retaildive.com/news/proven-raises-series-a-funding/693809/",
+    "pass": 3
+   },
+   {
+    "quote": "Since Proven launched in 2019, we have built industry-leading technology that allows us to create personalized beauty products unlike anything ever available to the public, and this new funding allows us to continue our essential work of making personalized skincare and fragrance the standard,",
+    "url": "https://www.retaildive.com/news/proven-raises-series-a-funding/693809/",
+    "pass": 3
+   },
+   {
+    "quote": ", who is also Proven’s co-CEO, said in a statement.",
+    "url": "https://www.retaildive.com/news/proven-raises-series-a-funding/693809/",
+    "pass": 3
+   },
+   {
+    "quote": "“I’m often asked why personalization is so important, and the truth is, none of us would use a one-size-fits-all-all medicine to cure the body of an ailment. So if we wouldn’t take that approach to the rest of our body, why should we settle for basic beauty products that aren’t personalized to our unique needs?”",
+    "url": "https://www.retaildive.com/news/proven-raises-series-a-funding/693809/",
+    "pass": 3
+   },
+   {
+    "quote": "Proven raises US$12.2M to grow AI-powered personalized beauty and fragrance solutions",
+    "url": "https://www.personalcareinsights.com/news/proven-raises-us122m-to-grow-ai-powered-personalized-beauty-and-fragrance-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "New product development",
+    "url": "https://www.personalcareinsights.com/news/proven-raises-us122m-to-grow-ai-powered-personalized-beauty-and-fragrance-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "Packaging & processing",
+    "url": "https://www.personalcareinsights.com/news/proven-raises-us122m-to-grow-ai-powered-personalized-beauty-and-fragrance-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "Proven raises US$12.2M to...",
+    "url": "https://www.personalcareinsights.com/news/proven-raises-us122m-to-grow-ai-powered-personalized-beauty-and-fragrance-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "14 Sep 2023 --- Personalized beauty brand Proven has closed a US$12.2 million Series A round. The funds will be channeled toward the company’s brands, which includes the AI-powered Proven Skincare brand specializing in personalized products. Its portfolio also includes Noteworthy, marketed as a “first-of-its-kind” personalized fragrance company.",
+    "url": "https://www.personalcareinsights.com/news/proven-raises-us122m-to-grow-ai-powered-personalized-beauty-and-fragrance-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "The funding round comprised existing investors, with NewH2 Ventures, serving as lead investor.",
+    "url": "https://www.personalcareinsights.com/news/proven-raises-us122m-to-grow-ai-powered-personalized-beauty-and-fragrance-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "“Since Proven launched in 2019, we have built industry-leading technology that allows us to create personalized beauty products unlike anything ever available to the public, and this new funding allows us to continue our essential work of making personalized skin care and fragrance the standard,” says Proven co-founder and co-CEO, Ming Zhao.",
+    "url": "https://www.personalcareinsights.com/news/proven-raises-us122m-to-grow-ai-powered-personalized-beauty-and-fragrance-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "Earlier this year, Proven expanded into the personalized fragrance space with the launch of Noteworthy, a scent company that reports upwards of US$5 million in revenue.",
+    "url": "https://www.personalcareinsights.com/news/proven-raises-us122m-to-grow-ai-powered-personalized-beauty-and-fragrance-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "In addition, Proven Skincare expanded its first personalized eye cream system into EUand the UK, which were granted two groundbreaking patents that protect Proven’s use of personalization in skin care, and partnered with prestige retailer Sephora.",
+    "url": "https://www.personalcareinsights.com/news/proven-raises-us122m-to-grow-ai-powered-personalized-beauty-and-fragrance-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "Proven previously raised US$6 million in seed funding and around US$3 million in Regulation A+ funding. The company has reached break-even and will be profitable by year’s end.",
+    "url": "https://www.personalcareinsights.com/news/proven-raises-us122m-to-grow-ai-powered-personalized-beauty-and-fragrance-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "Proven creates simple, personalized and clinically proven skin care products at scale thanks to its proprietary Skin Genome Project, which it touts as the “largest beauty database.”",
+    "url": "https://www.personalcareinsights.com/news/proven-raises-us122m-to-grow-ai-powered-personalized-beauty-and-fragrance-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "The Skin Genome Project takes the following data into account various data points in order to craft personalized products for consumers.",
+    "url": "https://www.personalcareinsights.com/news/proven-raises-us122m-to-grow-ai-powered-personalized-beauty-and-fragrance-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "These include the effectiveness of over 20,238 skin care ingredients and information about over 100,000 individual products (luxury, prescription, generic, etc.).",
+    "url": "https://www.personalcareinsights.com/news/proven-raises-us122m-to-grow-ai-powered-personalized-beauty-and-fragrance-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "The project also spans over 20 million testimonials, over 4,000 scientific publications, the water hardness, humidity level and UV index where you live.",
+    "url": "https://www.personalcareinsights.com/news/proven-raises-us122m-to-grow-ai-powered-personalized-beauty-and-fragrance-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "To formulate custom skin care, customers visit the Proven Skincare website and take a three-minute Skin Genome Quiz. Using the answers to the quiz, Proven’s algorithm instantly analyzes millions of factors to select the best ingredients for their skin.",
+    "url": "https://www.personalcareinsights.com/news/proven-raises-us122m-to-grow-ai-powered-personalized-beauty-and-fragrance-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "Proven also adjusts its formulations every eight weeks to evolve with the customer based on key factors including changing seasons, the skin’s tolerance to active ingredients, geographical moves, aging, and pregnancy. “As a customer’s skin changes, their skin care evolves with them,” notes the brand.",
+    "url": "https://www.personalcareinsights.com/news/proven-raises-us122m-to-grow-ai-powered-personalized-beauty-and-fragrance-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "Proven currently offers five products personalized to customers’ individual needs. The products include Personalized Cleaner, Personalized Day Moisturizer, Personalized Night Cream, Personalized Day Eye Crea and Personalized Night Eye Cream. The products can be conveniently purchased as systems or purchased separately.",
+    "url": "https://www.personalcareinsights.com/news/proven-raises-us122m-to-grow-ai-powered-personalized-beauty-and-fragrance-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "Noteworthy was founded in 2021. It functions by offering customers the Fragrance Finder Quiz on its website. This test includes a few simple questions about customers’ personality, life experience and individual preferences to create their fragrance profile.",
+    "url": "https://www.personalcareinsights.com/news/proven-raises-us122m-to-grow-ai-powered-personalized-beauty-and-fragrance-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "From the profile, the algorithm is then able to determine their personalized scent recommendations. Noteworthy’s quiz is based on a year-long longitudinal study that was conducted to build a unique database and algorithm based on inputs from hundreds of users.",
+    "url": "https://www.personalcareinsights.com/news/proven-raises-us122m-to-grow-ai-powered-personalized-beauty-and-fragrance-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "The Noteworthy algorithm then uses responses from the quiz to build a personalized Discovery Kit, containing four curated fragrance samples based on their unique preferences. Customers can then try their samples at their leisure at home and decide if they would like to purchase a full-sized fragrance.",
+    "url": "https://www.personalcareinsights.com/news/proven-raises-us122m-to-grow-ai-powered-personalized-beauty-and-fragrance-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "Personalized skin care brand Proven was founded in 2017 and launched in 2019",
+    "url": "https://www.personalcareinsights.com/news/proven-raises-us122m-to-grow-ai-powered-personalized-beauty-and-fragrance-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "(Image credit: Proven Skincare)",
+    "url": "https://www.personalcareinsights.com/news/proven-raises-us122m-to-grow-ai-powered-personalized-beauty-and-fragrance-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "Proven Skincare was founded in 2017 by Ming Zhao and Dr. Amy Yuan and launched in 2019.",
+    "url": "https://www.personalcareinsights.com/news/proven-raises-us122m-to-grow-ai-powered-personalized-beauty-and-fragrance-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "The company received the 2018 Massachusetts Institute of Technology Artificial Intelligence Technology Award, was awarded Best Use of Technology at the 2022 Glossy Beauty Awards for its proprietary Skin Genome Project, and reached more than US$30 million in revenue.",
+    "url": "https://www.personalcareinsights.com/news/proven-raises-us122m-to-grow-ai-powered-personalized-beauty-and-fragrance-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "The company has reached break-even and will be profitable by year’s end, it reports.",
+    "url": "https://www.personalcareinsights.com/news/proven-raises-us122m-to-grow-ai-powered-personalized-beauty-and-fragrance-solutions.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "provenskincare | provenskincare — provenskincare | provenskincare PROVEN Skincare https://www.provenskincare.com",
+    "url": "https://www.provenskincare.com/?srsltid=AYCX9vI22n7HaUMcSje6Pg8VPy50kqtucz5QFH9ybyDbk2GHDtkg0hUG",
+    "pass": 3
+   },
+   {
+    "quote": "provenskincare | provenskincare — provenskincare | provenskincare PROVEN Skincare https://www.provenskincare.com",
+    "url": "https://www.provenskincare.com/?srsltid=AYCX9vIGMI6v_Bsa1DGhY59PpYiTB_dPERyz0XjjqVZlIogUdHG4GKDO",
+    "pass": 3
+   },
+   {
+    "quote": "PROVEN Skincare | LinkedIn — PROVEN Skincare | LinkedIn LinkedIn https://jp.linkedin.com > company > provenskincare",
+    "url": "https://jp.linkedin.com/company/provenskincare",
+    "pass": 3
+   },
+   {
+    "quote": "provenskincare | provenskincare — provenskincare | provenskincare PROVEN Skincare https://www.provenskincare.com",
+    "url": "https://www.provenskincare.com/?srsltid=AYCX9vIMNWT_TqNTCQX5sRXzdtW7axst2dOTKj6RzudsJR0ktvWK8yEb",
+    "pass": 3
+   },
+   {
+    "quote": "PROVEN Skincare - LinkedIn — PROVEN Skincare - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/provenskincare",
+    "pass": 3
+   },
+   {
+    "quote": "PROVEN: Intelligent Beauty (@ provenskincare ) - Instagram — PROVEN: Intelligent Beauty (@ provenskincare ) - Instagram Instagram https://www.instagram.com > provens...",
+    "url": "https://www.instagram.com/provenskincare/",
+    "pass": 3
+   },
+   {
+    "quote": "PROVEN (@ provenskincare ) - Facebook — PROVEN (@ provenskincare ) - Facebook Facebook https://www.facebook.com > ... > Brand > Health/beauty",
+    "url": "https://www.facebook.com/provenskincare/",
+    "pass": 3
+   },
+   {
+    "quote": "PROVEN Skincare Reviews - Trustpilot — PROVEN Skincare Reviews - Trustpilot Trustpilot https://www.trustpilot.com > review",
+    "url": "https://www.trustpilot.com/review/provenskincare.com",
+    "pass": 3
+   },
+   {
+    "quote": "provenskincare | provenskincare — provenskincare | provenskincare PROVEN Skincare https://www.provenskincare.com",
+    "url": "https://www.provenskincare.com/?srsltid=AYCX9vJFn7eYqRU0eXhN_BysD0V6wFuYS4JFLfkE1b5CRBQ3r4upGkJw",
+    "pass": 3
+   },
+   {
+    "quote": "Press | PROVEN Skincare — As Seen in Vogue, Forbes, WSJ — Press | PROVEN Skincare — As Seen in Vogue, Forbes, WSJ PROVEN Skincare https://www.provenskincare.com > pr...",
+    "url": "https://www.provenskincare.com/press/?srsltid=AYCX9vIg_4BQ3rGnX3TQDrPEPPLE1hOxpmHc0cD8jRqNf0MASKGmPuUC",
+    "pass": 3
+   },
+   {
+    "quote": "Proven Skincare - Crunchbase Company Profile & Funding — Proven Skincare - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > prove...",
+    "url": "https://www.crunchbase.com/organization/proven-2932",
+    "pass": 3
+   },
+   {
+    "quote": "Proven Skincare Raises $12.2 Million Series A Funding - Happi — Proven Skincare Raises $12.2 Million Series A Funding - Happi Happi | Household And Personal Products Industry https://www.happi.com > proven-skin...",
+    "url": "https://www.happi.com/breaking-news/proven-skincare-raises-12-2-million-series-a-fundi/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Proven has grown to bring in more than $30 million in revenue, reached break-even and will be profitable by the end of the year, according to the company.",
+    "url": "https://www.retaildive.com/news/proven-raises-series-a-funding/693809/",
+    "pass": 3
+   },
+   {
+    "quote": "and launched the DTC Noteworthy scent brand which has revenue of $5 million.",
+    "url": "https://www.retaildive.com/news/proven-raises-series-a-funding/693809/",
+    "pass": 3
+   },
+   {
+    "quote": "In-cosmetics Asia 2026: Suppliers advance skin barrier health and regeneration",
+    "url": "https://www.personalcareinsights.com/news/proven-raises-us122m-to-grow-ai-powered-personalized-beauty-and-fragrance-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "Earlier this year, Proven expanded into the personalized fragrance space with the launch of Noteworthy, a scent company that reports upwards of US$5 million in revenue.",
+    "url": "https://www.personalcareinsights.com/news/proven-raises-us122m-to-grow-ai-powered-personalized-beauty-and-fragrance-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "The company received the 2018 Massachusetts Institute of Technology Artificial Intelligence Technology Award, was awarded Best Use of Technology at the 2022 Glossy Beauty Awards for its proprietary Skin Genome Project, and reached more than US$30 million in revenue.",
+    "url": "https://www.personalcareinsights.com/news/proven-raises-us122m-to-grow-ai-powered-personalized-beauty-and-fragrance-solutions.html",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "The company plans to use the funding to expand its two brands — Proven Skincare and Noteworthy — and build out its team, according to a press release emailed to Retail Dive.",
+    "url": "https://www.retaildive.com/news/proven-raises-series-a-funding/693809/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Cosme Week Tokyo 2027",
+    "url": "https://www.personalcareinsights.com/news/proven-raises-us122m-to-grow-ai-powered-personalized-beauty-and-fragrance-solutions.html",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo Big Sight, Japan",
+    "url": "https://www.personalcareinsights.com/news/proven-raises-us122m-to-grow-ai-powered-personalized-beauty-and-fragrance-solutions.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "PROVEN Skincare - LinkedIn PROVEN Skincare - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/provenskincare",
+    "pass": 3
+   },
+   {
+    "quote": "PROVEN Skincare's Post - LinkedIn PROVEN Skincare's Post - LinkedIn LinkedIn https://www.linkedin.com > posts > pr...",
+    "url": "https://www.linkedin.com/posts/provenskincare_we-are-thrilled-to-announce-that-the-teams-activity-7060253305590968320-95Zt",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "PROVEN (@ provenskincare ) - Facebook PROVEN (@ provenskincare ) - Facebook Facebook https://www.facebook.com > ... > Brand > Health/beauty",
+    "url": "https://www.facebook.com/provenskincare/",
+    "pass": 3
+   },
+   {
+    "quote": "Don't swipe right…you might miss what's new. ⁠ ⁠... - Facebook Don't swipe right…you might miss what's new. ⁠ ⁠... - Facebook Facebook https://www.facebook.com > provenskincare > photos",
+    "url": "https://www.facebook.com/provenskincare/photos/1610299977806087/",
+    "pass": 3
+   },
+   {
+    "quote": "PROVEN - Your under-eyes have different needs, day and... PROVEN - Your under-eyes have different needs, day and... Facebook https://www.facebook.com > provenskincare > photos",
+    "url": "https://www.facebook.com/provenskincare/photos/1578736550962430/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.provenskincare.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.prssjp.com/links/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pgcd.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000085593.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/provenskincare",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.medbis.co.jp/rea",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.provej.jp/service/developing-overseas-business-partners/distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/provenskincare",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.instagram.com/provenskincare/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/provenskincare/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/provenskincare",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.cosmeticsandtoiletries.com/research/methods-tools/article/21837214/a-case-study-in-logistics-for-personalized-skin-care",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.5wpr.com/new/skincare-haircare-pr-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pravadaprivatelabel.com/?srsltid=AYCX9vIKrmbVBkV-GbFJIqHN_gMA_zfTNabwJtnzysqe6l2Jnd71v_rz",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospyrmed.com/blog/post/best-private-label-skincare-manufacturers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.selfnamed.com/en/white-label-skincare",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=RyrWu4PI8r0",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.retaildive.com/news/proven-raises-series-a-funding/693809/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.personalcareinsights.com/news/proven-raises-us122m-to-grow-ai-powered-personalized-beauty-and-fragrance-solutions.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/proven-2932",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/provenskincare",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/provenskincare_we-are-thrilled-to-announce-that-the-teams-activity-7060253305590968320-95Zt",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/provenskincare/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/provenskincare/photos/1610299977806087/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/provenskincare/photos/1578736550962430/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/provenskincare",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/provenskincare",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Provenskincare 日本 導入",
+   "results": [
+    "https://www.provenskincare.com/?srsltid=AYCX9vI22n7HaUMcSje6Pg8VPy50kqtucz5QFH9ybyDbk2GHDtkg0hUG",
+    "https://www.prssjp.com/links/",
+    "https://www.pgcd.jp/",
+    "https://prtimes.jp/main/html/rd/p/000000012.000085593.html",
+    "https://romapink.jp/",
+    "https://www.youtube.com/watch?v=qjxaCJ8frM4",
+    "https://abanro.com/ja/us-market-entry/beauty-personal-care/",
+    "https://pharmesthetic.jp/",
+    "https://dermaestheticsjapan.com/pages/introduction?srsltid=AYCX9vL83YTNXOgj34h8jYcIqqDvItcI5d7PuOevzu6RFh9Lx_PLUfTl",
+    "https://www.provenskincare.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Provenskincare 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.provenskincare.com/?srsltid=AYCX9vIGMI6v_Bsa1DGhY59PpYiTB_dPERyz0XjjqVZlIogUdHG4GKDO",
+    "https://jp.linkedin.com/company/provenskincare",
+    "https://www.medbis.co.jp/rea",
+    "https://www.provej.jp/service/developing-overseas-business-partners/distributor/",
+    "https://www.prioricosme.com/distributor/special/",
+    "https://alpc.tokyo/pages/business-d2c",
+    "https://cml-jp.com/agency/",
+    "http://www.beprotec.co.jp/agency.html",
+    "https://7beauty.jp/guide/agency?srsltid=AYCX9vKQjb44cnwd1RiN4ItbHHqLooejPZM2jZjYeWWaLhictR1b49_H",
+    "https://dairitenboshu.com/column/detail/soudairiten"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Provenskincare Japan",
+   "results": [
+    "https://www.provenskincare.com/?srsltid=AYCX9vIMNWT_TqNTCQX5sRXzdtW7axst2dOTKj6RzudsJR0ktvWK8yEb",
+    "https://www.linkedin.com/company/provenskincare",
+    "https://www.instagram.com/provenskincare/",
+    "https://www.facebook.com/provenskincare/",
+    "https://www.trustpilot.com/review/provenskincare.com",
+    "https://support.provenskincare.com/en-US/articles/my-proven-system-96718",
+    "https://www.youtube.com/watch?v=nTHtT1vXY-s&vl=ja",
+    "https://www.instagram.com/reel/DfHstfCxdbX/",
+    "https://www.crunchbase.com/organization/proven-2932",
+    "https://www.provenskincare.com/collections/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Provenskincare manufacturing customer case study",
+   "results": [
+    "https://www.linkedin.com/company/provenskincare",
+    "https://www.cosmeticsandtoiletries.com/research/methods-tools/article/21837214/a-case-study-in-logistics-for-personalized-skin-care",
+    "https://www.provenskincare.com/?srsltid=AYCX9vJFn7eYqRU0eXhN_BysD0V6wFuYS4JFLfkE1b5CRBQ3r4upGkJw",
+    "https://www.5wpr.com/new/skincare-haircare-pr-case-studies/",
+    "https://www.reddit.com/r/business/comments/1o7t9c6/case_study_how_email_marketing_transformed_a/",
+    "https://baghouse.com/case-study-innovative-solutions-for-cosmetics-manufacturing/?srsltid=AYCX9vK5oly6uoie7xfrXn_NLkKNR4FCEI5gZOmKugAxvoJ6XH9GJq96",
+    "https://www.forbes.com/sites/davidprosser/2022/03/23/how-proven-skincare-brought-science-to-the-art-of-beauty/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC12085869/",
+    "https://www.evalueserve.com/blog/how-innovation-is-reshaping-the-clinical-skin-care-industry/",
+    "https://www.provenskincare.com/reviews/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Provenskincare white label OR reseller OR partner program",
+   "results": [
+    "https://www.pravadaprivatelabel.com/?srsltid=AYCX9vIKrmbVBkV-GbFJIqHN_gMA_zfTNabwJtnzysqe6l2Jnd71v_rz",
+    "https://prospyrmed.com/blog/post/best-private-label-skincare-manufacturers",
+    "https://www.selfnamed.com/en/white-label-skincare",
+    "https://www.youtube.com/watch?v=RyrWu4PI8r0",
+    "https://cosmedical.co/pages/private-label?srsltid=AYCX9vJzWtRjWVk-IXgIvgqTWHmlPqJ4qHYHfhgg5mBOskSPHGW2pjy7",
+    "https://www.keychain.com/manufacturer/private-label-skincare",
+    "https://www.universalcompanies.com/pages/private-label-skin-care?srsltid=AYCX9vKo651BdlQGo7TyuXYy3IOK0MhYFhNm3tc1A_VTo_ijsfFUkU_U",
+    "https://dscpsmartfulfillment.com/blog/white-label-products-to-sell/",
+    "https://wonnda.com/magazine/private-label-skincare-products/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Provenskincare founded funding employees revenue",
+   "results": [
+    "https://www.retaildive.com/news/proven-raises-series-a-funding/693809/",
+    "https://www.provenskincare.com/press/?srsltid=AYCX9vIg_4BQ3rGnX3TQDrPEPPLE1hOxpmHc0cD8jRqNf0MASKGmPuUC",
+    "https://www.personalcareinsights.com/news/proven-raises-us122m-to-grow-ai-powered-personalized-beauty-and-fragrance-solutions.html",
+    "https://www.crunchbase.com/organization/proven-2932",
+    "https://www.happi.com/breaking-news/proven-skincare-raises-12-2-million-series-a-fundi/",
+    "https://leadiq.com/c/proven-skincare/5a8ed6e556000023016596ea",
+    "https://www.clay.com/dossier/proven-skincare-funding",
+    "https://dealroom.co/companies/proven-skincare/",
+    "https://tracxn.com/d/companies/proven/__SDFWbdFmaSWpo3Srk5QKUvtdRwWs2fMuQod9CRSK2NE",
+    "https://compworth.com/company/provenskincarecom"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Provenskincare",
+   "results": [
+    "https://note.com/aikobijin/n/nd8dedd6b2269",
+    "https://note.com/ryosukewexer/n/n82db4802cc9b",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/seigo77",
+    "https://note.com/asako_pharmacist/n/n60af889eeaa9?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/cute_willet990/n/n9529041a97d7",
+    "https://note.com/naonaoweek/n/n9744f03e3cce?hl=en",
+    "https://note.com/heqat/n/nacdcc7396aa0"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:x.com Provenskincare",
+   "results": [
+    "https://x.com/ChloeMorello",
+    "https://x.com/guidetoiceland",
+    "https://x.com/natondeckugc",
+    "https://x.com/naomirwolf/status/2120171367639265671",
+    "https://x.com/hashtag/tejidoproductivo",
+    "https://x.com/grok/status/2118509984086364242",
+    "https://x.com/mochi_mochi_kr/status/2051295442491818096/video/1",
+    "https://x.com/",
+    "https://x.com/SkincareProven",
+    "https://x.com/GetProven"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:linkedin.com Provenskincare",
+   "results": [
+    "https://www.linkedin.com/company/provenskincare",
+    "https://www.linkedin.com/in/mingszhao",
+    "https://www.linkedin.com/in/amy-zaoshi-yuan-b482707",
+    "https://www.linkedin.com/posts/provenskincare_we-are-thrilled-to-announce-that-the-teams-activity-7060253305590968320-95Zt",
+    "https://www.linkedin.com/in/marcy-green-johnson",
+    "https://www.linkedin.com/in/russelljosephharris",
+    "https://www.linkedin.com/in/chapmanmarc",
+    "https://www.linkedin.com/in/alih2oman",
+    "https://www.linkedin.com/in/xinran-li-63494769",
+    "https://www.linkedin.com/in/ebrainsoft"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:facebook.com Provenskincare",
+   "results": [
+    "https://www.facebook.com/provenskincare/",
+    "https://www.facebook.com/provenskincare/photos/1610299977806087/",
+    "https://www.facebook.com/provenskincare/photos/1578736550962430/",
+    "https://www.facebook.com/sephora/posts/clinical-skincare-but-make-it-personal-welcome-to-sephora-proven-skincare/10159762448374405/?locale=af_ZA",
+    "https://www.facebook.com/provenskincare/videos/-your-scent-found/1862982691541627/",
+    "https://www.facebook.com/scienceskincareaus/videos/seven-years-in-the-making-ive-spent-years-quietly-putting-every-piece-in-place-a/2661434694305836/",
+    "https://www.facebook.com/100089494582130/posts/-proven-results-real-transformation-6-months-of-consistent-skincare-can-make-a-m/1072674059059070/",
+    "https://www.facebook.com/trinnylondon/posts/clinically-proven-skincare-for-your-hands-take-back-time-overnight-hand-transfor/1470305721860493/",
+    "https://www.facebook.com/dunesuncare/posts/our-award-winning-suncare-lineup-with-derm-approved-clinically-proven-skincare-b/1060801206782238/",
+    "https://www.facebook.com/100089387445224/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Provenskincare note 社長",
+   "results": [
+    "https://www.provenskincare.com/?srsltid=AYCX9vKjys9NBVKPDYYDlrsGDIJqk5F8iIdfcybezLCK7D3ZRIkCYxAV",
+    "https://note.com/seeyounz/m/m43f70a42e747/hashtag/%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B1%E3%82%A2",
+    "https://parableskincare.com/pages/founders-note?srsltid=AYCX9vIer099_646dKotzwxDUtUR85cYZCqtX5ZGjbI3ojvUxGY_wzdb",
+    "https://www.linkedin.com/company/provenskincare",
+    "https://www.instagram.com/provenskincare/",
+    "https://note.com/vinc_note/n/n9fa52841a48d",
+    "https://www.facebook.com/provenskincare/",
+    "https://note.com/hajime2222",
+    "https://www.businesswire.com/news/home/20220706005445/en/PROVEN-Skincare-Granted-Groundbreaking-Patent-First-Time-Personalization-Has-Been-Patented-Cements-PROVENs-Position-As-The-Leader-in-Personalized-Skincare",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Provenskincare X 投稿",
+   "results": [
+    "https://www.provenskincare.com/?srsltid=AYCX9vKU3VUa6-HTxQpRP9sIc26U34PzlC2h8jpuOO1_pTDGgGI1aWrS",
+    "https://www.linkedin.com/company/provenskincare",
+    "https://www.instagram.com/provenskincare/",
+    "https://www.instagram.com/reel/DZGbSV2v-fu/",
+    "https://www.facebook.com/provenskincare/",
+    "https://www.trustpilot.com/review/provenskincare.com",
+    "https://x.com/hashtag/Skincare",
+    "https://support.provenskincare.com/en-US/articles/my-proven-system-96718",
+    "https://provenskincare.xyz/",
+    "https://x.com/provenskincare"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部26頁・検索12回）"
+ }
+}

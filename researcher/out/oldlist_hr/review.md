@@ -1616,6 +1616,11 @@
 - 「Translated from the Japanese original:」（https://physicalainews.jp/en/news/circuithub-unveils-circuit-board-manufacturing-system-the-grid-with-4-e5490c）
 - 「. The Japanese version is authoritative if they differ.」（https://physicalainews.jp/en/news/circuithub-unveils-circuit-board-manufacturing-system-the-grid-with-4-e5490c）
 
+## Am Flow（https://am-flow.com）
+- 「If you prefer a Japanese layout, you can select "JP (JIS)" under "Keyboard layout".」（https://note.com/amane5395/n/n14f214ae48e9?hl=en）
+- 「Previously, I used remapping to switch between Japanese input on a US layout. Whether or not you can replace keys is not just about having more features to play with; I think it's a part that relates to daily ease of use.」（https://note.com/amane5395/n/n14f214ae48e9?hl=en）
+- 「A Japanese layout is also available」（https://note.com/amane5395/n/n14f214ae48e9?hl=en）
+
 ## Backflip（https://backflip.ai）
 - 「Japanese anime television series」（https://en.wikipedia.org/wiki/Backflip!!）
 - 「is an original Japanese」（https://en.wikipedia.org/wiki/Backflip!!）
@@ -1662,6 +1667,11 @@
 - 「シリコンバレー外で台頭する米有望スタートアップが日本企業にPR」（https://www.jetro.go.jp/biznews/2020/10/2fb738364b992955.html）
 - 「今回のピッチイベントには、そうしたシリコンバレー以外の都市・地域から、日本企業との協業を検討する、または将来、日本への進出を検討する企業9社が参加」（https://www.jetro.go.jp/biznews/2020/10/2fb738364b992955.html）
 - 「UAE最大の石油・ガス企業Abu Dhabi National Oil Company（ADNOC）の子会社ADNOC Gasとの複数年契約」（https://www.jdti.jp/blog-us-defense-tech-list/blog-gecko-robotics）
+
+## Hadrian（https://www.hadrian.co）
+- 「この動きは、ソフトウェアと自動化を駆使した新しいものづくりのアプローチを示しており、日本の製造業にとっても示唆に富む事例と言えるでしょう」（https://seisan-navi.com/20260321-hadrian/）
+- 「このプロジェクトには、20億ドル（日本円で約3000億円規模）という巨額の投資が行われています」（https://seisan-navi.com/20260321-hadrian/）
+- 「日本の現場から見たHadrian社のアプローチ」（https://seisan-navi.com/20260321-hadrian/）
 
 ## Isembard（https://isembard.com）
 - 「Following ratification of the Kensington Treaty in October, Astroscale and OHB have signed an MoU to enhance cooperation between the UK, Germany and Japan towards protecting critical infrastructure in space, whilst supporting the safe, sustainable and responsible use of the orbital environment.」（https://www.adsadvance.co.uk/isembard-opens-londons-largest-factory-since-wwii/）
@@ -1919,6 +1929,11 @@
 - 「分野で革新的なソリ ューション・イネイブラーを探す日本企業や投資家のサポート、日本市場への進出を」（https://www.jetro.go.jp/ext_images/theme/innovation/gahub/telaviv/report202208.pdf）
 - 「彼らの創業過程や事業戦略、今後の展望、さらには日本市場への思いや本音を聞いた」（https://www.jetro.go.jp/ext_images/theme/innovation/gahub/telaviv/report202208.pdf）
 
+## Rye（https://rye.com）
+- 「Rye in Japan Trade | The Observatory of Economic Complexity」（https://oec.world/en/profile/bilateral-product/rye/reporter/jpn）
+- 「Rye in Japan Trade | The Observatory of Economic Complexity」（https://oec.world/en/profile/bilateral-product/rye-2100200/reporter/jpn）
+- 「. In 2024, the main destinations of Japan's」（https://oec.world/en/profile/bilateral-product/rye-2100200/reporter/jpn）
+
 ## Runsybil（https://www.runsybil.com）
 - 「日本が一番弱い3領域に、いま海外マネーが殺到している｜Masa｜ラグレスポータル」（https://note.com/lagless/n/n879a2c57eebb）
 - 「日本が一番弱い3領域に、いま海外マネーが殺到している」（https://note.com/lagless/n/n879a2c57eebb）
@@ -1931,10 +1946,19 @@
 - 「List of Japanese websites that use RudderStack, ranked by popularity (Tranco). 0 sites in our sample, checked by our own crawler.」（https://scraping.pro/technologies/rudderstack/websites/jp）
 - 「Don't miss out on having your company listed on the world's」（https://www.featuredcustomers.com/vendor/rudderstack/case-studies）
 
+## Rossum（https://rossum.ai）
+- 「Manager at Master Trust Bank of Japan」（https://rossum.ai/solutions/across-industries/）
+- 「Explore real-world success stories from industry leaders such as Master Trust Bank of Japan, Adyen, and Kiwi. Discover how Rossum is unlocking efficiency and growth.」（https://rossum.ai/solutions/across-industries/）
+- 「How The Master Trust Bank of Japan reduced manual workload by 75%」（https://rossum.ai/solutions/across-industries/）
+
 ## Rocsys（https://www.rocsys.com/）
 - 「No.4472 EV & Mobility News Digest — Japan & Global（2026年4月30日作成）｜EV COMMONS JAPAN」（https://note.com/aslan_2001/n/n5e354cb3b614）
 - 「No.4472 EV & Mobility News Digest — Japan & Global（2026年4月30日作成）」（https://note.com/aslan_2001/n/n5e354cb3b614）
 - 「、2026/4/30 06:00 JST、日本）」（https://note.com/aslan_2001/n/n5e354cb3b614）
+
+## Robust AI（https://www.robust.ai/）
+- 「あわせて、Robust.AIの日本市場への参入および事業展開の支援も開始いたします」（https://note.com/15throck/n/naf927013ea4a）
+- 「15th Rockは、今回の出資を通じて、Robust.AIのさらなる技術開発およびグローバル展開を支援するとともに、日本国内の物流・製造業界における次世代ロボティクスの活用促進を図ってまいります」（https://note.com/15throck/n/naf927013ea4a）
 
 ## Robofy（https://www.robofy.ai）
 - 「Robofyの機能・料金・日本語対応｜導入前の確認点 | ツール灯台」（https://tool-todai.com/services/robofy/）
@@ -1957,6 +1981,9 @@
 - 「English, Spanish, French, German, Hindi, and Japanese out of the box — an immediate upsell in any market with a bilingual customer base.」（https://www.ringlyn.com/agency/）
 - 「Answer in English, Spanish, French, German, Hindi, and Japanese — an easy upsell in any market with a bilingual customer base.」（https://www.ringlyn.com/white-label-ai-receptionist/）
 
+## Returngo（https://returngo.ai）
+- 「この開発者は日本語での直接的なサポートを提供していません」（https://apps.shopify.com/returngo/?locale=ja）
+
 ## Rescuetime（https://www.rescuetime.com）
 - 「**日本語環境では引っかかる場所があります」（https://note.com/t_furuta/n/n8bd4f3a28d66）
 - 「**ウィンドウタイトルに日本語が含まれる場合の文字列マッチングでつまずいたという報告があり、設定に正規表現が必要な場面もあります」（https://note.com/t_furuta/n/n8bd4f3a28d66）
@@ -1967,8 +1994,92 @@
 - 「✅ 日本初のLLMO特化サービス「.Ai SEO」でPRを革新」（https://note.com/hiroshikinoshita/n/n75a31a11615e）
 - 「But accuracy and speed is just the foundation. Reducto provides granular control: it can extract only handwritten portions, summarize specific tables, or parse complex multilingual technical documents – all through simple prompts. Whether it’s a Japanese algebra textbook or handwritten notes, Reduct」（https://a16z.com/announcement/investing-in-reducto/）
 
+## Readily（https://readily.co）
+- 「日本語WordNet(英和)での「readily」の意味」（https://ejje.weblio.jp/content/readily）
+- 「READILY | Cambridge 英語-日本語辞典での定義 - Cambridge Dictionary」（https://dictionary.cambridge.org/ja/dictionary/english-japanese/readily）
+- 「Cambridge English–Japanese Dictionary」（https://dictionary.cambridge.org/ja/dictionary/english-japanese/readily）
+
+## Provenskincare（https://www.provenskincare.com）
+- 「Tokyo Big Sight, Japan」（https://www.personalcareinsights.com/news/proven-raises-us122m-to-grow-ai-powered-personalized-beauty-and-fragrance-solutions.html）
+
+## Protex AI（https://www.protex.ai/）
+- 「Protex AIの導入事例と日本での相談｜安全管理・危険作業検知（アイルランド・2020年）｜GAMATCH」（https://ga-match.co.jp/ai-catalog/protex-ai/）
+- 「Nu-Iron Unlimited is a subsidiary of Nucor Steel, the leading steelmaker and recycler in the United States. A specialized facility based in Trinidad and Tobago, they were already established as a local safety leader. “Contractors tell me this is one of the safest sites they’ve ever been to. When the」（https://www.protex.ai/case-studies/how-nu-iron-achieved-an-award-winning-44-reduction-in-incidents）
+
+## Proliferate（https://proliferate.com）
+- 「日本語WordNet(英和)での「proliferate」の意味」（https://ejje.weblio.jp/content/proliferate）
+- 「「Information」は「情報」のことだから、「information is proliferating at a much more rapid rate than in the past」は日本語で「情報は昔より迅速な程度で激増しています」という意味になります」（https://engoo.jp/app/words/word/proliferate/zga0ELstQmCjlQAAAACVsw）
+- 「Japan and South Korea would also be in violation of the Non Proliferation Treaty (NPT) they signed as non-nuclear weapons states and could be subjected to international sanctions as well.」（https://engoo.jp/app/words/word/proliferate/zga0ELstQmCjlQAAAACVsw）
+
+## Prefixbox（https://www.prefixbox.com）
+- 「Prefixbox プレフィックスボックスとは ECサイト内検索の改善のAI｜使い方・料金・日本語対応」（https://eeai.tv/tools/prefixbox）
+- 「Prefixboxの日本語対応は確認できていません」（https://eeai.tv/tools/prefixbox）
+
 ## Pointone（https://pointone.ai/）
 - 「with offices and representatives around the globe we speak Chinese, Japanese, Korean, French, Spanish, German, Russian, Lithuanian, English and can work with most other languages.」（https://pointoneintl.com/）
+
+## Plus One Robotics（https://www.plusonerobotics.com/）
+- 「電子機器の組み立てロボットは、米国ではあまり展開されておらず、マレーシアや日本などアジアで需要があるものです」（https://techblitz.com/startup-interview/plus-one-robotics/）
+- 「米国ではDexterityやCovariant、欧州ではFizyr、日本にはMujinという競合がいます」（https://techblitz.com/startup-interview/plus-one-robotics/）
+- 「日本はまだ成長する余地がある市場なので、Mujinが1社で勝者になることはないと考えています」（https://techblitz.com/startup-interview/plus-one-robotics/）
+- 「重要な業務の一つが、中南米での子会社設立です」（https://techblitz.com/startup-interview/plus-one-robotics/）
+
+## Pina（https://pina.earth/en）
+- 「ピンネット工法のジャピナ[JAPINA] | 全日本外壁ピンネット工事業協同組合」（http://japina.com/）
+- 「PINA, Kagoshima, Japan - Reviews, Ratings, Tips and Why You Should Go – Wanderlog」（https://wanderlog.com/place/details/3497395/pina）
+- 「Try one of the best pizzas in Japan」（https://wanderlog.com/place/details/3497395/pina）
+
+## Percepto（https://www.percepto.co/）
+- 「Percepto、点検データを統合するフィジカルAI基盤「Axion」を発表 | 日本フィジカルAI新聞」（https://physicalainews.jp/news/percepto-tenken-deeta-wo-tougou-suru-fijikaru-ai-kiban-axion-12f412）
+- 「本記事の収集・日本語化・構成にはAIを使用しています」（https://physicalainews.jp/news/percepto-tenken-deeta-wo-tougou-suru-fijikaru-ai-kiban-axion-12f412）
+- 「重要ニュース5本・日本/中国・Research Picks・今週の公募」（https://physicalainews.jp/news/percepto-tenken-deeta-wo-tougou-suru-fijikaru-ai-kiban-axion-12f412）
+- 「Agility、SPAC合併でナスダック上場」（https://physicalainews.jp/news/percepto-tenken-deeta-wo-tougou-suru-fijikaru-ai-kiban-axion-12f412）
+
+## Peakflo（https://peakflo.co）
+- 「Global MNC headquarterd in Japan」（https://blog.peakflo.co/en/case-studies/construction-machinery-case-study）
+
+## Paystack（https://www.paystack.com）
+- 「Paystack は日本ではご利用いただけません」（https://support.wix.com/ja/article/paystack-%E3%82%92%E6%B1%BA%E6%B8%88%E6%96%B9%E6%B3%95%E3%81%A8%E3%81%97%E3%81%A6%E8%A8%AD%E5%AE%9A%E3%81%99%E3%82%8B）
+- 「Apply for a Japan 1–3 Month Visa N700, 000」（https://paystack.shop/pay/-1blklwmhx）
+- 「Pay for Japan One-Time Gift - Paystack」（https://paystack.shop/pay/japan-one-time）
+
+## Partly（https://partly.com）
+- 「日本語WordNet(英和)での「partly」の意味」（https://ejje.weblio.jp/content/partly）
+- 「これら４つの言葉はどれも日本語にすると「参加する」に近い意味になりますが英語では少し意味する部分が異なります」（https://talking-english.net/partially-in-part-partly/）
+- 「日本語WordNet(英和)での「Partly.」の意味」（https://ejje.weblio.jp/content/Partly.）
+
+## Pachama（https://pachama.com）
+- 「日本では2023年10月に東京証券取引所で、二酸化炭素（CO2）の排出量を取引するカーボン・クレジット市場が始まりました」（https://note.com/amuro_human/n/nf27e189aaa75）
+- 「PACHAMAMAはいち早くCUMBIA、PATCHANKA、MESTIZO、ROCK LATINO、REBEL MUSICシーンに着目し、今まで非英語圏のアーティストを積極的に日本に招聘してきました」（http://www.japonicus.com/pachamama2024.html）
+- 「特にCUMBIAに関しては日本で初めてCUMBIAに特化したイベントを開催した事で注目されて来たPACHAMAMA」（http://www.japonicus.com/pachamama2024.html）
+
+## Paces（https://paces.com）
+- 「日本語版保護的・代償的体験(PACEs)尺度の開発 : 日本における実態調査および信頼性と妥当性の検討 | CiNii Research」（https://cir.nii.ac.jp/crid/1520869544764445824）
+- 「日本語版保護的・代償的体験(PACEs)尺度の開発 : 日本における実態調査および信頼性と妥当性の検討」（https://cir.nii.ac.jp/crid/1520869544764445824）
+- 「Development of the Japanese version of the Protective and Compensatory Experiences (PACEs) Scale : Prevalence, reliability, and validity of the scale」（https://cir.nii.ac.jp/crid/1520869544764445824）
+
+## Orum（https://www.orum.com）
+- 「Q5: 日本語には対応していますか？ A: Orumは160カ国以上でのグローバル展開を発表しており、多言語対応を進めています」（https://skywork.ai/skypage/ja/ai-sales-support-guide/1984159084661624832）
+- 「しかし、現時点（2025年10月）での日本語UIや日本語の音声認識・分析機能の正式な対応レベルについては、公式サイトからの最新情報を確認する必要があります」（https://skywork.ai/skypage/ja/ai-sales-support-guide/1984159084661624832）
+- 「同社はKOSDAQ上場のために提出した有価証券届出書で、今年通期の連結ベース売上752億ウォン、営業利益315億ウォンを計上し、黒字転換すると見込んだ」（https://biz.chosun.com/jp/jp-science/2026/07/05/RPLK24EBZBHL7NOBJ4ACTLC3PI/）
+
+## Oklo（https://oklo.com）
+- 「Japan Atomic Power Company」（https://en.wikipedia.org/wiki/Oklo_Inc.）
+- 「Japan Nuclear Fuel Limited」（https://en.wikipedia.org/wiki/Oklo_Inc.）
+- 「Oklo's Future and Outlook: Down 78% from Peak, Company and Management Sold 47.02 Million Shares at an Average of $74, and H1 Interest Income is 37 Times Revenue｜ウマキ＠日本株・米国株・仮想通貨・FX」（https://note.com/umaki11/n/n9bd790ff7612?hl=en）
+- 「Oklo Inc. (NYSE: OKLO) (“Oklo” or “the Company”), an advanced nuclear technology company, today announced a strategic manufacturing agreement with U.S. Forged Rings, Inc. (USFR) to support the long-term deployment of Oklo's Aurora powerhouses through access to planned domestic manufacturing capacity」（https://oklo.com/newsroom/oklo-u-s-forged-rings-partner-to-advance-domestic-manufacturing-for-future-aurora-powerhouse-dep）
+
+## Nango（https://www.nango.dev）
+- 「Nango — Japan Ski Resorts — The Japow Project」（https://japowproject.com/en/resorts/nango）
+- 「Built from Japan GSI survey elevation data and aerial photos. Runs are coloured by the resort’s official difficulty. Height is exaggerated 1.3× so the slopes read clearly.」（https://japowproject.com/en/resorts/nango）
+
+## Multiplylabs（https://www.multiplylabs.com/）
+- 「AI の次なる革命: Multiply Labsが細胞治療バイオ製造のためのロボット駆動型ラボを拡大 - NVIDIA | Japan Blog」（https://blogs.nvidia.co.jp/blog/multiply-labs-isaac-omniverse/）
+- 「Australia · UK · Japan」（https://www.multiplylabs.co/about-us/）
+- 「Australia, UK + Japan」（https://www.multiplylabs.co/about-us/）
+
+## Modjoul（https://modjoul.com/）
+- 「ANSELL AND MODJOUL JOIN FORCES TO DEVELOP DATA-DRIVEN SAFETY EQUIPMENT | Ansell Japan」（https://www.ansell.com/jp/en/press-releases/ansell-and-modjoul-join-forces-to-develop--data-driven-safety-equipment）
 
 ## Metalpine GmbH（https://www.metalpine.at）
 - 「METALPINE is part of the internationally represented htm Group (hightech metal invest) with locations in Germany, Austria, Bahrain and Japan.」（https://metalpine.at/）

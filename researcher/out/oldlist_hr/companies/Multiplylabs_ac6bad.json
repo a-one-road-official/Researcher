@@ -1,0 +1,1547 @@
+{
+ "name": "Multiplylabs",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AI送信済み",
+ "researched_at": "2026-11-11T11:33:16.755110+00:00",
+ "official_url": "https://www.multiplylabs.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "We’re proud to announce our",
+    "url": "https://www.multiplylabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Biomanufacturing Problem",
+    "url": "https://www.multiplylabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The next generation of biological drugs is showing incredible promise in terms of safety and efficacy. The science is working. But the manufacturing stack, built decades ago for small molecules and large batches, was never designed for the complexity, precision, and throughput that advanced therapies now demand. What worked for the last generation of pharma can't work for the next.",
+    "url": "https://www.multiplylabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manual processes introduce variability and contamination risk that no amount of training can eliminate.",
+    "url": "https://www.multiplylabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Through imitiation learning, parallel orchestration, and real-time monitoring, our robots enable your existing instrument ecosystem to scale. When demand doubles, deploy another cluster, scaling throughput without increasing process complexity.",
+    "url": "https://www.multiplylabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Cluster connects your existing GMP instruments inside a closed, automated environment. Your process stays the same. Your throughput increases by up to 100x, and costs decrease by 74%.",
+    "url": "https://www.multiplylabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "— reconfigure instrument sets as your process evolves",
+    "url": "https://www.multiplylabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Unit Operations Approach",
+    "url": "https://www.multiplylabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Each operation is orchestrated by robotic arms operating in sterile environments, significantly reducing contamination risk, and executing with precision run after run.",
+    "url": "https://www.multiplylabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Multiply Labs' software enables your manufacturing protocol to be robotically executed, collecting every sensor reading and every interaction in real time. We deliver complete electronic records directly to you and your quality system.",
+    "url": "https://www.multiplylabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every process parameter logged continuously. Anomalies surface before they become failures.",
+    "url": "https://www.multiplylabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Product Manager",
+    "url": "https://www.multiplylabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Staff Program Manager",
+    "url": "https://www.multiplylabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re proud to announce our",
+    "url": "https://www.multiplylabs.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Solving robotics' hardest manufacturing problems.",
+    "url": "https://www.multiplylabs.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We are in the center of it all: the AI boom, the robotics industry, the biotech space. San Francisco is the place to be and it is where we are. The people, the energy, and the proximity to the most important ideas in tech and life science all converge here.",
+    "url": "https://www.multiplylabs.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We build robots because the manufacturing bottleneck for advanced biologics is real. Patients are waiting for treatments that exist but can't be made at scale. This is one of the hardest technical problems we know of — and exactly the kind of problem we want to work on.",
+    "url": "https://www.multiplylabs.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We're looking for builders who want hard problems and real stakes. If that's you, we'd like to meet you.",
+    "url": "https://www.multiplylabs.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We’re proud to announce our",
+    "url": "https://www.multiplylabs.com/visit",
+    "pass": 1
+   },
+   {
+    "quote": "Tell us about your program",
+    "url": "https://www.multiplylabs.com/visit",
+    "pass": 1
+   },
+   {
+    "quote": "Your browser doesn't support HTML5 video. Here is a",
+    "url": "https://blogs.nvidia.co.jp/blog/multiply-labs-isaac-omniverse/",
+    "pass": 3
+   },
+   {
+    "quote": "https://blogs.nvidia.com/wp-content/uploads/2026/01/Multiply-Labs_Short2_15MB.mp4",
+    "url": "https://blogs.nvidia.co.jp/blog/multiply-labs-isaac-omniverse/",
+    "pass": 3
+   },
+   {
+    "quote": "https://blogs.nvidia.com/wp-content/uploads/2026/01/Multiply-Labs_Short3_15MB.mp4",
+    "url": "https://blogs.nvidia.co.jp/blog/multiply-labs-isaac-omniverse/",
+    "pass": 3
+   },
+   {
+    "quote": "https://blogs.nvidia.com/wp-content/uploads/2026/01/Multiply-Labs_Short1_15MB.mp4",
+    "url": "https://blogs.nvidia.co.jp/blog/multiply-labs-isaac-omniverse/",
+    "pass": 3
+   },
+   {
+    "quote": "Beginning with cell and gene therapy and now expanding to advanced biologics, including antibodies, viral vectors, and mRNA, the company's platform is owned and operated directly by pharmaceutical and biologics companies rather than run as an outsourced service, giving manufacturers direct control over their production capacity. That trajectory is what drew this round's investor base.",
+    "url": "https://www.biospace.com/press-releases/multiply-labs-raises-75-million-series-b-to-close-the-gap-between-drug-discovery-and-drug-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "\"The world of physical AI biological manufacturing has arrived,\" said Dr. Patrick Soon-Shiong, founder of NantWorks. \"Manufacturing cell therapies is extraordinarily complex—every step must meet GMP standards when executing the intricate processes of cell manufacturing. Multiply Labs is building robots with the potential to change the speed and scale of these therapies for patients worldwide.\"",
+    "url": "https://www.biospace.com/press-releases/multiply-labs-raises-75-million-series-b-to-close-the-gap-between-drug-discovery-and-drug-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Multiply Labs will use the new capital to expand manufacturing capacity, accelerate its product roadmap, and scale its team across engineering, regulatory, and commercial functions, building the operational foundation for the transition from clinical-stage deployments to commercial-scale production.",
+    "url": "https://www.biospace.com/press-releases/multiply-labs-raises-75-million-series-b-to-close-the-gap-between-drug-discovery-and-drug-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "We write down what counts — qualified applications, booked meetings — and how it is measured, before any work starts. If the tracking cannot prove it, we fix the tracking first.",
+    "url": "https://www.multiplylabs.co/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Strategy, websites, search, paid ads, follow-up automation and analytics. We staff the ones your bottleneck needs and leave the rest out of the invoice.",
+    "url": "https://www.multiplylabs.co/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "We work in your CRM and your reporting, next to the people who handle admissions, recruitment and client service.",
+    "url": "https://www.multiplylabs.co/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "AI Talent on Demand went from 22 to 557 monthly organic clicks in four months. We widened that content programme only after the first pages ranked.",
+    "url": "https://www.multiplylabs.co/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "02 / The operating principles",
+    "url": "https://www.multiplylabs.co/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "The business result leads the scorecard",
+    "url": "https://www.multiplylabs.co/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "We run the website, campaigns, content, CRM and reporting as one build. An enquiry dropped between two of them is still a lost enquiry.",
+    "url": "https://www.multiplylabs.co/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Digital marketing lead",
+    "url": "https://www.multiplylabs.co/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Steven leads paid acquisition, channel strategy and performance reporting. He has worked in digital marketing for 21 years across finance, education, technology and e-commerce. His focus is connecting campaign decisions to qualified leads, enrolments and revenue.",
+    "url": "https://www.multiplylabs.co/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "04 / The AI production team",
+    "url": "https://www.multiplylabs.co/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "The agents handle repeatable production, checks and pattern finding. Steven and Khamsouk set the brief, verify the output and sign every client-facing decision.",
+    "url": "https://www.multiplylabs.co/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Assembles page structures and tested components from the approved brief.",
+    "url": "https://www.multiplylabs.co/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Builds scoped features, integrations and automations from approved specifications.",
+    "url": "https://www.multiplylabs.co/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Prepares the weekly scorecard and traces movement back to its source data.",
+    "url": "https://www.multiplylabs.co/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Paid ads optimisation",
+    "url": "https://www.multiplylabs.co/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Campaign changes approved by Steven",
+    "url": "https://www.multiplylabs.co/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "No business needs every marketing discipline at full intensity at once. You pay for the ones doing the work this quarter.",
+    "url": "https://www.multiplylabs.co/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Production and implementation",
+    "url": "https://www.multiplylabs.co/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "The plan becomes pages, campaigns, content, automations and measurement that actually fires.",
+    "url": "https://www.multiplylabs.co/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "for a workflow that previously required manually gathering, processing, and visualizing robotic event data",
+    "url": "https://foxglove.dev/customers/multiply-labs",
+    "pass": 3
+   },
+   {
+    "quote": "visibility across the full robotic system giving engineers always-on access to behavior across traditional robotic arms and proprietary electromechanical subsystems in one unified view",
+    "url": "https://foxglove.dev/customers/multiply-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Before Foxglove, making sense of a single robotic event meant manually gathering logs from multiple sources and reconstructing the sequence after the fact, a process that could take two to three hours per event. Worse, engineers were largely limited to looking at one event at a time, which made it hard to see patterns across subsystems or across runs.",
+    "url": "https://foxglove.dev/customers/multiply-labs",
+    "pass": 3
+   },
+   {
+    "quote": "This kind of workflow does not scale well for a company building production-grade robotic biomanufacturing systems. As the number of subsystems grows, the number of possible interactions grows with it. A single robotic event may involve motion planning, control software, mechanical behavior, sensors, proprietary electromechanical components, and the manufacturing protocol itself.",
+    "url": "https://foxglove.dev/customers/multiply-labs",
+    "pass": 3
+   },
+   {
+    "quote": "For Multiply Labs, the challenge was not simply collecting data. The challenge was making that data usable fast enough for engineers to improve system performance, investigate anomalies, and keep scaling a reliable robotic platform.",
+    "url": "https://foxglove.dev/customers/multiply-labs",
+    "pass": 3
+   },
+   {
+    "quote": "“Foxglove gives us one place to see everything our systems are doing, across the robotic arms and our various subsystems. Instead of chasing logs across machines, we stream every event to the cloud and inspect it in context. That continuous visibility is what lets us catch issues early and keep improving how the systems run.”",
+    "url": "https://foxglove.dev/customers/multiply-labs",
+    "pass": 3
+   },
+   {
+    "quote": "The Data Flywheel: Scaling robotic systems through continuous improvement",
+    "url": "https://foxglove.dev/customers/multiply-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Foxglove helps Multiply Labs turn every robotic run into a continuous data flywheel—streaming, analyzing, and applying insights to improve future deployments.",
+    "url": "https://foxglove.dev/customers/multiply-labs",
+    "pass": 3
+   },
+   {
+    "quote": "This flywheel matters especially for Physical AI. Robots need to learn from real-world operation, not just from controlled test cases. By making robotic events easier to capture, visualize, and understand, Foxglove helps Multiply Labs turn production data into engineering leverage.",
+    "url": "https://foxglove.dev/customers/multiply-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Customers evaluate the quality of Multiply Labs’s products using the following success metrics.",
+    "url": "https://www.cbinsights.com/company/multiply-labs/customers",
+    "pass": 3
+   },
+   {
+    "quote": "improved production throughput / speed",
+    "url": "https://www.cbinsights.com/company/multiply-labs/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Opentron automates laboratory processes with its integrated laboratory platform. It provides liquid-handling laboratory robots and cell engineering solutions for research and healthcare. It serves academic, biopharma, synthetic biology, and clinical research sectors. It was founded in 2014 and is based in Long Island City, New York.",
+    "url": "https://www.cbinsights.com/company/multiply-labs/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Peak Analysis and Automation focuses on laboratory automation systems within the life and physical sciences sectors. The company provides products such as laboratory workcells, robotic systems, and scheduling software, which aim to assist in laboratory workflows. PAA serves the pharmaceutical, biotechnology, and academic sectors. It was founded in 1992 and is based in Farnborough, United Kingdom.",
+    "url": "https://www.cbinsights.com/company/multiply-labs/customers",
+    "pass": 3
+   },
+   {
+    "quote": "permits us to improve and customize your experience. You can read more about your",
+    "url": "https://www.cbinsights.com/company/multiply-labs/customers",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Multiply Labs | Robotic Biomanufacturing Infrastructure",
+    "url": "https://www.multiplylabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "for biological manufacturing",
+    "url": "https://www.multiplylabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Biomanufacturing Problem",
+    "url": "https://www.multiplylabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The factory floors are not ready.",
+    "url": "https://www.multiplylabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The next generation of biological drugs is showing incredible promise in terms of safety and efficacy. The science is working. But the manufacturing stack, built decades ago for small molecules and large batches, was never designed for the complexity, precision, and throughput that advanced therapies now demand. What worked for the last generation of pharma can't work for the next.",
+    "url": "https://www.multiplylabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Demand for advanced therapies is growing rapidly; current manufacturing methods cannot keep pace.",
+    "url": "https://www.multiplylabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Full Biomanufacturing Stack",
+    "url": "https://www.multiplylabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Biologics manufacturing is made up of dozens of discrete unit operations, each one requiring a highly controlled, closed sterile environment and strong repeatability across every transfer, every dispense, every interaction. Multiply Labs automates the entire sequence inside a closed, GMP-ready system.",
+    "url": "https://www.multiplylabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Multiply Labs' software enables your manufacturing protocol to be robotically executed, collecting every sensor reading and every interaction in real time. We deliver complete electronic records directly to you and your quality system.",
+    "url": "https://www.multiplylabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Physical AI and robotics now make reliable closed-loop biomanufacturing economically viable. We build the technology that enables you to get there first.",
+    "url": "https://www.multiplylabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Roboticists, scientists, and engineers building the robotic future of biomanufacturing.",
+    "url": "https://www.multiplylabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Supply Chain & Manufacturing Officer",
+    "url": "https://www.multiplylabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Experience the future of biomanufacturing.",
+    "url": "https://www.multiplylabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Schedule a visit to our facility in San Francisco and see the robotic manufacturing platform with your own eyes.",
+    "url": "https://www.multiplylabs.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We're a team of roboticists, scientists, and engineers who are rebuilding biomanufacturing from scratch. The work is hard, the pace is fast, and the team is world-class.",
+    "url": "https://www.multiplylabs.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Solving robotics' hardest manufacturing problems.",
+    "url": "https://www.multiplylabs.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We build robots because the manufacturing bottleneck for advanced biologics is real. Patients are waiting for treatments that exist but can't be made at scale. This is one of the hardest technical problems we know of — and exactly the kind of problem we want to work on.",
+    "url": "https://www.multiplylabs.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Experience the future of biomanufacturing",
+    "url": "https://www.multiplylabs.com/visit",
+    "pass": 1
+   },
+   {
+    "quote": "Schedule a visit to our facility in San Francisco and see the robotic manufacturing platform with your own eyes.",
+    "url": "https://www.multiplylabs.com/visit",
+    "pass": 1
+   },
+   {
+    "quote": "Multiply Labs Raises $75 Million Series B to Close the Gap Between Drug Discovery and Drug Manufacturing - BioSpace",
+    "url": "https://www.biospace.com/press-releases/multiply-labs-raises-75-million-series-b-to-close-the-gap-between-drug-discovery-and-drug-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Multiply Labs Raises $75 Million Series B to Close the Gap Between Drug Discovery and Drug Manufacturing",
+    "url": "https://www.biospace.com/press-releases/multiply-labs-raises-75-million-series-b-to-close-the-gap-between-drug-discovery-and-drug-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Series B funding will strengthen Multiply Labs' momentum scaling the robotic manufacturing platform turning AI-discovered drugs into treatments patients can receive.",
+    "url": "https://www.biospace.com/press-releases/multiply-labs-raises-75-million-series-b-to-close-the-gap-between-drug-discovery-and-drug-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Beginning with cell and gene therapy and now expanding to advanced biologics, including antibodies, viral vectors, and mRNA, the company's platform is owned and operated directly by pharmaceutical and biologics companies rather than run as an outsourced service, giving manufacturers direct control over their production capacity. That trajectory is what drew this round's investor base.",
+    "url": "https://www.biospace.com/press-releases/multiply-labs-raises-75-million-series-b-to-close-the-gap-between-drug-discovery-and-drug-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "\"The world of physical AI biological manufacturing has arrived,\" said Dr. Patrick Soon-Shiong, founder of NantWorks. \"Manufacturing cell therapies is extraordinarily complex—every step must meet GMP standards when executing the intricate processes of cell manufacturing. Multiply Labs is building robots with the potential to change the speed and scale of these therapies for patients worldwide.\"",
+    "url": "https://www.biospace.com/press-releases/multiply-labs-raises-75-million-series-b-to-close-the-gap-between-drug-discovery-and-drug-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Multiply Labs will use the new capital to expand manufacturing capacity, accelerate its product roadmap, and scale its team across engineering, regulatory, and commercial functions, building the operational foundation for the transition from clinical-stage deployments to commercial-scale production.",
+    "url": "https://www.biospace.com/press-releases/multiply-labs-raises-75-million-series-b-to-close-the-gap-between-drug-discovery-and-drug-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Before GMP: Six manufacturing considerations gene therapy sponsors should address earlier",
+    "url": "https://www.biospace.com/press-releases/multiply-labs-raises-75-million-series-b-to-close-the-gap-between-drug-discovery-and-drug-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Forge’s Piteri-Molina on AI, Ohio and what’s next for gene therapy manufacturing",
+    "url": "https://www.biospace.com/press-releases/multiply-labs-raises-75-million-series-b-to-close-the-gap-between-drug-discovery-and-drug-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by these industry leaders",
+    "url": "https://www.multiplylabs.co/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "This kind of workflow does not scale well for a company building production-grade robotic biomanufacturing systems. As the number of subsystems grows, the number of possible interactions grows with it. A single robotic event may involve motion planning, control software, mechanical behavior, sensors, proprietary electromechanical components, and the manufacturing protocol itself.",
+    "url": "https://foxglove.dev/customers/multiply-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Looking Ahead: Building the foundation for scalable robotic biomanufacturing",
+    "url": "https://foxglove.dev/customers/multiply-labs",
+    "pass": 3
+   },
+   {
+    "quote": "By training larger, more complex physical AI models on Anyscale’s multi-cloud platform, Multiply Labs enables robots to better handle edge cases and drive toward high-throughput, contamination-free biomanufacturing.",
+    "url": "https://www.anyscale.com/resources/case-study/multiply-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Multiply Labs builds robotic biomanufacturing systems designed to help the biologics industry manufacture precision medicines at scale. Their modular robotic clusters reduce manufacturing bottlenecks and minimize human contamination while automating industry-standard biomanufacturing processes.",
+    "url": "https://www.anyscale.com/resources/case-study/multiply-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Securely deployed within their own environment to protect sensitive manufacturing video data",
+    "url": "https://www.anyscale.com/resources/case-study/multiply-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Multiply Labs operates in highly IP-sensitive biomanufacturing environments. Video data from pharmaceutical manufacturing processes is highly confidential and must remain tightly controlled within their already approved cloud environments.",
+    "url": "https://www.anyscale.com/resources/case-study/multiply-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Multiply Labs works closely with pharmaceutical manufacturers, where process information is highly sensitive and tightly guarded. Maintaining strict controls over the data and the environments where the data was processed through training workflows was essential.",
+    "url": "https://www.anyscale.com/resources/case-study/multiply-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Multiply Labs is continuing to invest in robotics R&D to expand the adaptability and intelligence of its biomanufacturing systems. As workflows become more complex, the team is focused on enabling robots to rapidly learn new tasks, handle edge cases more robustly, and further reduce human intervention in sensitive manufacturing processes.",
+    "url": "https://www.anyscale.com/resources/case-study/multiply-labs",
+    "pass": 3
+   },
+   {
+    "quote": "This requires exploring more advanced learning architectures, requiring sustained access to scalable, distributed GPU training. With a standardized, multi-cloud foundation in place, Multiply Labs is positioned to iterate faster and accelerate the development of increasingly capable robotic systems for advanced biologics manufacturing.",
+    "url": "https://www.anyscale.com/resources/case-study/multiply-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer of robotic systems intended to automate biological therapy manufacturing processes.",
+    "url": "https://pitchbook.com/profiles/company/164308-96",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer of robotic systems intended to automate biological therapy manufacturing processes. The company offers robotic clusters, automated instrument integration, sterile processing equipment, and process monitoring software, enabling pharmaceutical and biotechnology companies to automate production workflows and maintain manufacturing consistency.",
+    "url": "https://pitchbook.com/profiles/company/164308-96",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Manufacturing",
+    "url": "https://pitchbook.com/profiles/company/164308-96",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer of robotic systems intended to automate biological therapy manufacturing processes. The company offers robo",
+    "url": "https://pitchbook.com/profiles/company/164308-96",
+    "pass": 3
+   },
+   {
+    "quote": "Systems, methods, and devices for automated cellular therapy manufacturing and liquid control",
+    "url": "https://pitchbook.com/profiles/company/164308-96",
+    "pass": 3
+   },
+   {
+    "quote": "Systems, methods, and devices for automated cellular therapy manufacturing through graphical user interface",
+    "url": "https://pitchbook.com/profiles/company/164308-96",
+    "pass": 3
+   },
+   {
+    "quote": "ポケモン大好きエンジニア｜英語学習 ｜AI’s Next Revolution: Multiply Labs Is Scaling Robotics-Driven Cell Therapy Biomanufacturing Labs",
+    "url": "https://note.com/littlemex63454/n/ne4717c724479",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA Official, AI’s Next Revolution: Multiply Labs Is Scaling Robotics-Driven Cell Therapy Biomanufacturing Labs Content Overview｜TechSage",
+    "url": "https://note.com/tomohiro2866/n/n15db8f7c2bc3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA Official, AI’s Next Revolution: Multiply Labs Is Scaling Robotics-Driven Cell Therapy Biomanufacturing Labs Content Overview",
+    "url": "https://note.com/tomohiro2866/n/n15db8f7c2bc3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AI’s Next Revolution: Multiply Labs Is Scaling Robotics-Driven Cell Therapy Biomanufacturing Labs",
+    "url": "https://note.com/tomohiro2866/n/n15db8f7c2bc3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://blogs.nvidia.com/blog/multiply-labs-cell-therapy-biomanufacturing/",
+    "url": "https://note.com/tomohiro2866/n/n15db8f7c2bc3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Pharmaceutical manufacturing using living organisms; it requires precision work in a sterile environment.",
+    "url": "https://note.com/tomohiro2866/n/n15db8f7c2bc3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Automation Revolution in Cell Therapy Manufacturing by Multiply Labs",
+    "url": "https://note.com/tomohiro2866/n/n15db8f7c2bc3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Current cell therapies (for cancer and genetic diseases) rely on highly skilled \"craftsmanship,\" making manufacturing costs extremely high at over",
+    "url": "https://note.com/tomohiro2866/n/n15db8f7c2bc3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Multiply Labs is introducing automation similar to cleanrooms in the semiconductor industry to biopharmaceutical manufacturing.",
+    "url": "https://note.com/tomohiro2866/n/n15db8f7c2bc3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Robots perform the manufacturing process for genetically modified cells 24/7, eliminating human error.",
+    "url": "https://note.com/tomohiro2866/n/n15db8f7c2bc3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing costs reduced by",
+    "url": "https://note.com/tomohiro2866/n/n15db8f7c2bc3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Through robot imitation learning, a statistically equivalent and precise manufacturing process is established that does not rely on individual human skills.",
+    "url": "https://note.com/tomohiro2866/n/n15db8f7c2bc3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Robot Revolution in Cell Therapy Manufacturing by Multiply Labs: Overview and Impact",
+    "url": "https://note.com/tomohiro2866/n/n15db8f7c2bc3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "reduce manufacturing costs by more than 70%",
+    "url": "https://note.com/tomohiro2866/n/n15db8f7c2bc3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1. Background: Challenges in Cell Therapy Manufacturing",
+    "url": "https://note.com/tomohiro2866/n/n15db8f7c2bc3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "While cell therapy holds great potential for treating cancer, genetic diseases, and autoimmune disorders, its manufacturing process faces many challenges.",
+    "url": "https://note.com/tomohiro2866/n/n15db8f7c2bc3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA公式、AI’s Next Revolution: Multiply Labs Is Scaling Robotics-Driven Cell Therapy Biomanufacturing｜TechSage",
+    "url": "https://note.com/tomohiro2866/n/n15db8f7c2bc3",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "手作業での精密作業を協働ロボットで自動化し、再現性を向上｜UR5e 導入事例",
+    "url": "https://www.universal-robots.com/ja/case-stories/multiply-labs/",
+    "pass": 3
+   },
+   {
+    "quote": "AI の次なる革命: Multiply Labsが細胞治療バイオ製造のためのロボット駆動型ラボを拡大 - NVIDIA | Japan Blog",
+    "url": "https://blogs.nvidia.co.jp/blog/multiply-labs-isaac-omniverse/",
+    "pass": 3
+   },
+   {
+    "quote": "Australia · UK · Japan",
+    "url": "https://www.multiplylabs.co/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Australia, UK + Japan",
+    "url": "https://www.multiplylabs.co/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "9. 技術的詳細の追加: OmniverseとIsaac Simへの言及を追加（元の日本語の意図を反映）",
+    "url": "https://note.com/littlemex63454/n/ne4717c724479",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Friend's Email Address",
+    "url": "https://blogs.nvidia.co.jp/blog/multiply-labs-isaac-omniverse/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/164308-96",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Multiply Labs | Robotic Biomanufacturing Infrastructure — Multiply Labs automates the entire sequence inside a closed, GMP-ready system. Each operation is orchestrated by robotic arms operating in sterile environments, significantly reducing contamination risk, and executing with precision run after run.",
+    "url": "https://www.multiplylabs.com/",
+    "pass": 3
+   },
+   {
+    "quote": "手作業での精密作業を協働ロボットで自動化し、再現性を向上｜UR5e 導... — Multiply Labsは製薬企業と連携し、科学者が実際に作業する様子を映像として記録。 そのデータを協働ロボットに学習させることで、人の動きを効率よく、かつ高い再現性で実行できるようにしています。 パリエッティ氏は、次のように語ります。",
+    "url": "https://www.universal-robots.com/ja/case-stories/multiply-labs/",
+    "pass": 3
+   },
+   {
+    "quote": "AI の次なる革命: Multiply Labsが細胞治療バイオ製造のためのロボッ... — スタートアップの Multiply Labs が主要な細胞治療企業と共に、クリーン ルーム内にロボット製造を導入することで、従来システムと比較して 70% 以上のコスト削減と生産速度の向上を実現しました。",
+    "url": "https://blogs.nvidia.co.jp/blog/multiply-labs-isaac-omniverse/",
+    "pass": 3
+   },
+   {
+    "quote": "Multiply Labs Raises $75 Million Series B | Multiply Labs — Oct 6, 2026 · Multiply Labs will use the new capital to expand manufacturing capacity, accelerate its product roadmap, and scale its team across engineering, regulatory, and commercial functions, building the operational foundation for the transition from clinical-stage deployments to commercial-scale production.",
+    "url": "https://www.multiplylabs.com/press/series-b-2026",
+    "pass": 3
+   },
+   {
+    "quote": "アストラゼネカ、ロボット技術で細胞治療の製造自動化へ – Multiply L... — Jan 28, 2026 · 大手製薬会社アストラゼネカが、ロボット技術を持つMultiply Labs社と提携し、細胞治療の製造プロセス自動化に乗り出しました。 個別化医療の進展に伴い複雑化する製造現場の課題解決に向けた、注目すべき取り組みです。",
+    "url": "https://seisan-navi.com/20260128-multiply-labs/",
+    "pass": 3
+   },
+   {
+    "quote": "Multiply Labs Raises $75 Million Series B | Multiply Labs — Oct 6, 2026 · SAN FRANCISCO, OCTOBER 6, 2026 — Multiply Labs, the physical AI company automating some of the most complex manufacturing processes in medicine, today announced a $75 million Series B, bringing its total capital raised to over $100 million since its founding in 2016. The round was led by Dr. Patrick Soon-Shiong with NantWork",
+    "url": "https://www.multiplylabs.com/press/series-b-2026",
+    "pass": 3
+   },
+   {
+    "quote": "Multiply Labs - LinkedIn — Multiply Labs develops advanced robotic systems that manufacture next-gen therapies at scale. We believe that automation is the key to enable life-saving therapies to reach all the patients who ...",
+    "url": "https://www.linkedin.com/company/multiply-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Multiply Labs Raises $75 Million Series B to Close the Gap ... — Oct 6, 2026 · Multiply Labs raises $75M Series B led by Dr. Patrick Soon-Shiong to scale robotic manufacturing to help patients access next-generation drugs.",
+    "url": "https://www.businesswire.com/news/home/20261006407770/en/Multiply-Labs-Raises-$75-Million-Series-B-to-Close-the-Gap-Between-Drug-Discovery-and-Drug-Manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Multiply Labs Raises $75 Million Series B to Close the Gap ... — Oct 7, 2026 · Multiply Labs’ robotic clusters integrate with a company’s existing instruments and processes, without requiring a new facility or changes to already-validated practices. Each cluster automates the timed, repetitive steps of biologics manufacturing within an enclosed, GMP-compliant system, delivering a 74% reduction in ",
+    "url": "https://www.biospace.com/press-releases/multiply-labs-raises-75-million-series-b-to-close-the-gap-between-drug-discovery-and-drug-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Multiply Labs (@multiplylabs) / X — Leveraging robotics technology to manufacture personalized pharmaceuticals at scale. We are very excited to unveil our cell therapy manufacturing robots! This is the first end-to-end system that is compatible with the leading GMP instruments, so your process can be automated without changes.",
+    "url": "https://x.com/multiplylabs",
+    "pass": 3
+   },
+   {
+    "quote": "About Multiply Labs | Multiply Labs — Multiply Labs is an AI-native growth agency in Australia and Japan, running strategy, production and analytics for training providers and recruiters.",
+    "url": "https://www.multiplylabs.co/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Multiply Labs | Robotic Biomanufacturing Infrastructure — Multiply Labs' software enables your manufacturing protocol to be robotically executed, collecting every sensor reading and every interaction in real time. We deliver complete electronic records directly to you and your quality system.",
+    "url": "https://www.multiplylabs.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Product | Multiply Labs — Multiply Labs builds robotic systems that automate your existing biomanufacturing instruments with no process transfer, no lock-in. Our technology brings closed-system GMP automation to your full, end-to-end process.",
+    "url": "https://www.multiplylabs.com/product",
+    "pass": 3
+   },
+   {
+    "quote": "Multiply Labs | Robotic Biomanufacturing Infrastructure — The science is working. But the manufacturing stack, built decades ago for small molecules and large batches, was never designed for the complexity, precision, and throughput that advanced therapies now demand. What worked for the last generation of pharma can't work for the next.",
+    "url": "https://www.multiplylabs.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Multiply Labs — Customer story | Foxglove — How Multiply Labs uses Foxglove to scale robotic biomanufacturing of advanced therapies. Multiply Labs is bringing Physical AI to life sciences—the first autonomous manufacturing platform for biologics, starting with cell therapy, the most complex manufacturing challenge in medicine.",
+    "url": "https://foxglove.dev/customers/multiply-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Multiply Labs Customers - CB Insights — The company offers a modular, cGMP platform for industrial scale cell therapy manufacturing, which includes automation in a closed and automated single-use cartridge, a high-throughput quality control platform, and a fully integrated software suite for cell therapy manufacturing.",
+    "url": "https://www.cbinsights.com/company/multiply-labs/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Multiply Labs Advances AI for Biologics Robotics on Anyscale — With a standardized, multi-cloud foundation in place, Multiply Labs is positioned to iterate faster and accelerate the development of increasingly capable robotic systems for advanced biologics manufacturing.",
+    "url": "https://www.anyscale.com/resources/case-study/multiply-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Multiply Labs - universal-robots.com — Multiply Labs, leveraging UR cobots, has developed a groundbreaking robotic cluster that is fundamentally transforming the manufacturing of life-saving cell and gene therapies.",
+    "url": "https://www.universal-robots.com/case-stories/multiply-labs/",
+    "pass": 3
+   },
+   {
+    "quote": "Multiply Labs – Revenue, Valuation & Top Competitors – 2026 — Multiply Labs continues to expand with estimated revenue of $9.8M, team of around 60+ employees, currently in San Francisco, staying relevant in changing times.",
+    "url": "https://compworth.com/company/multiply-labs",
+    "pass": 3
+   },
+   {
+    "quote": "Multiply Labs - 2026 Company Profile, Funding | The Company Check — Oct 15, 2026 · Multiply Labs has raised $191.32 million across 9 funding rounds from investors including Graph Ventures, Fenox Venture Capital and P101. The company has 34 employees.",
+    "url": "https://www.thecompanycheck.com/company/b/multiply-labs/lwe7a5pgga95hs69n",
+    "pass": 3
+   },
+   {
+    "quote": "Multiply Labs 2026 Company Profile: Valuation, Funding ...Multiply Labs - 2026 Company Profile, Team, Funding ... - TracxnMultiply Labs Funding, Valuation & InvestorsMultiply Labs Revenue 2024: $7.1M Est. - getlatka.comWhat Funding Has Multiply Labs Raised? Full History | toflow.ai — Information on valuation, funding, cap tables, investors, and executives for Multiply Labs. Use the PitchBook Platf",
+    "url": "https://pitchbook.com/profiles/company/164308-96",
+    "pass": 3
+   },
+   {
+    "quote": "Multiply Labs - 2026 Company Profile, Team, Funding ... - TracxnMultiply Labs Funding, Valuation & InvestorsMultiply Labs Revenue 2024: $7.1M Est. - getlatka.comWhat Funding Has Multiply Labs Raised? Full History | toflow.ai — Jun 6, 2026 · Multiply Labs is a series A company based in San Francisco (United States), founded in 2016 by Alice Melocchi, Tiffany Kuo, Joe Wilson and Fred Parietti. It op",
+    "url": "https://tracxn.com/d/companies/multiply-labs/__Voq9VxC2-YIeSYnJiWPnUmHBy1Q5W1qO4tf8sAaRL7U",
+    "pass": 3
+   },
+   {
+    "quote": "Multiply Labs Funding, Valuation & Investors — Multiply Labs is a San Francisco robotics company founded in 2016. It develops modular robotic systems that automate manufacturing steps for complex medicines, including cell and gene therapies and mRNA products.",
+    "url": "https://venturecapitaltracker.com/startup/multiply-labs",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "\"The world of physical AI biological manufacturing has arrived,\" said Dr. Patrick Soon-Shiong, founder of NantWorks. \"Manufacturing cell therapies is extraordinarily complex—every step must meet GMP standards when executing the intricate processes of cell manufacturing. Multiply Labs is building robots with the potential to change the speed and scale of these therapies for patients worldwide.\"",
+    "url": "https://www.biospace.com/press-releases/multiply-labs-raises-75-million-series-b-to-close-the-gap-between-drug-discovery-and-drug-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "Reach, clicks and rankings explain the path, but qualified enquiries, enrolments and revenue are what we report against.",
+    "url": "https://www.multiplylabs.co/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Steven leads paid acquisition, channel strategy and performance reporting. He has worked in digital marketing for 21 years across finance, education, technology and e-commerce. His focus is connecting campaign decisions to qualified leads, enrolments and revenue.",
+    "url": "https://www.multiplylabs.co/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "Checks acquisition and CRM data for patterns, gaps and unusual movement.",
+    "url": "https://www.multiplylabs.co/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "We decide what matters, what counts, and which part of the system moves first.",
+    "url": "https://www.multiplylabs.co/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "55 employees",
+    "url": "https://foxglove.dev/customers/multiply-labs",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/164308-96",
+    "pass": 3
+   },
+   {
+    "quote": "Multiply Labs has 65 total employees.",
+    "url": "https://pitchbook.com/profiles/company/164308-96",
+    "pass": 3
+   },
+   {
+    "quote": "What is Multiply Labs’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/164308-96",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Multiply Labs is",
+    "url": "https://pitchbook.com/profiles/company/164308-96",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA's foundation model for humanoid robots. It aims to learn quickly by observing human movements (e.g., carrying luggage).",
+    "url": "https://note.com/tomohiro2866/n/n15db8f7c2bc3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ". Furthermore, manual processes carry a high risk of contamination, and the loss of expertise due to staff turnover is a factor hindering productivity.",
+    "url": "https://note.com/tomohiro2866/n/n15db8f7c2bc3?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "ポケモン大好きエンジニア｜英語学習 ｜AI’s Next Revolution: Multip... Jan 29, 2026 · AI’s Next Revolution: Multiply Labs Is Scaling Robotics-Driven Cell Therapy Biomanufacturing Labs Startup works with leading cell therapy companies to bring ro blogs.nvidia.com",
+    "url": "https://note.com/littlemex63454/n/ne4717c724479",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA Official, AI’s Next Revolution: Multiply Labs Is ... Jan 30, 2026 · Multiply Labs' ultimate goal is to transform cell therapy from an expensive treatment for a select few patients into a large-scale therapy accessible to millions, leading a paradigm shift across the entire industry.",
+    "url": "https://note.com/tomohiro2866/n/n15db8f7c2bc3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA公式、AI’s Next Revolution: Multiply Labs Is Scaling ... Jan 30, 2026 · 4. 結論 Multiply Labsは、NVIDIAの最先端AI・シミュレーション技術を統合することで、これまで「一部の人のための高価な治療」だった細胞療法を、数百万人に届けるための「スケーラブルな産業」へと変革しようとしています。 以下が詳細な内容になります。",
+    "url": "https://note.com/tomohiro2866/n/n15db8f7c2bc3",
+    "pass": 3
+   },
+   {
+    "quote": "Physical AI News (October 8, 2026 Issue)｜Yasuhito Morimoto Oct 8, 2026 · Multiply Labs has raised $75 million in Series B funding to expand its \"Physical AI\" platform, which executes biopharmaceutical manufacturing processes using autonomous robots.",
+    "url": "https://note.com/yasuhitoo/n/n2a7fe98da927?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "ポケモン大好きエンジニア｜英語学習 ｜AI’s Next Revolution: Multiply Labs Is Scaling Robotics-Driven Cell Therapy Bioman｜littlemex",
+    "url": "https://note.com/littlemex63454/n/ne4717c724479",
+    "pass": 3
+   },
+   {
+    "quote": "ポケモン大好きエンジニア｜英語学習 ｜AI’s Next Revolution: Multiply Labs Is Scaling Robotics-Driven Cell Therapy Biomanufacturing Labs",
+    "url": "https://note.com/littlemex63454/n/ne4717c724479",
+    "pass": 3
+   },
+   {
+    "quote": "この記事のロボット導入についての意見を教えてください。",
+    "url": "https://note.com/littlemex63454/n/ne4717c724479",
+    "pass": 3
+   },
+   {
+    "quote": "この記事の重要な点は、製造現場における専門家の属人性をなくし、自動化するためにロボットを使うことの実現性を証明した点です。コストを下げて製造速度を上げることはより多くの消費者に価値を届けられるということです。今回のケースでは富裕層のみが受けられる治療を大衆に広げる可能性があります。OmniverseとIsaac Simを使ってラボのデジタルツインを構築して人間の作業動画からロボットを訓練することで高度な人間の作業を自動化できることを証明する良い事例です。",
+    "url": "https://note.com/littlemex63454/n/ne4717c724479",
+    "pass": 3
+   },
+   {
+    "quote": "The most important things of this article is demonstrating feasibility using robot to automate experts works, and eliminating experts dependency in manufacturing site. Reducing cost and lead time leads to give values to lots of consumers. In this article case, it is possible to expand treatment capability from rich people to masses. It is ideal cases to prove possibilities of the automation of hum",
+    "url": "https://note.com/littlemex63454/n/ne4717c724479",
+    "pass": 3
+   },
+   {
+    "quote": "- [x] SVOの基本文に分解できるか考える",
+    "url": "https://note.com/littlemex63454/n/ne4717c724479",
+    "pass": 3
+   },
+   {
+    "quote": "__【書いた後】Level 1チェック（必須）__",
+    "url": "https://note.com/littlemex63454/n/ne4717c724479",
+    "pass": 3
+   },
+   {
+    "quote": "- [?] 時制は正しいか？（現在/過去/未来）",
+    "url": "https://note.com/littlemex63454/n/ne4717c724479",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA Official, AI’s Next Revolution: Multiply Labs Is Scaling Robotics-Driven Cell Therapy Biomanufacturing Labs Content Overview｜TechSage",
+    "url": "https://note.com/tomohiro2866/n/n15db8f7c2bc3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/tomohiro2866/n/n15db8f7c2bc3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA Official, AI’s Next Revolution: Multiply Labs Is Scaling Robotics-Driven Cell Therapy Biomanufacturing Labs Content Overview",
+    "url": "https://note.com/tomohiro2866/n/n15db8f7c2bc3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Source/Detailed Information:",
+    "url": "https://note.com/tomohiro2866/n/n15db8f7c2bc3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AI’s Next Revolution: Multiply Labs Is Scaling Robotics-Driven Cell Therapy Biomanufacturing Labs",
+    "url": "https://note.com/tomohiro2866/n/n15db8f7c2bc3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "https://blogs.nvidia.com/blog/multiply-labs-cell-therapy-biomanufacturing/",
+    "url": "https://note.com/tomohiro2866/n/n15db8f7c2bc3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "(From NVIDIA Official Blog)",
+    "url": "https://note.com/tomohiro2866/n/n15db8f7c2bc3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A method of treating diseases (such as cancer) by collecting a patient's cells and enhancing them through genetic modification; it is expensive because it is produced individually.",
+    "url": "https://note.com/tomohiro2866/n/n15db8f7c2bc3?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA公式、AI’s Next Revolution: Multiply Labs Is Scaling Robotics-Driven Cell Therapy Biomanufacturing｜TechSage",
+    "url": "https://note.com/tomohiro2866/n/n15db8f7c2bc3",
+    "pass": 3
+   },
+   {
+    "quote": "NVIDIA公式、AI’s Next Revolution: Multiply Labs Is Scaling Robotics-Driven Cell Therapy Biomanufacturing Labs 内容紹介",
+    "url": "https://note.com/tomohiro2866/n/n15db8f7c2bc3",
+    "pass": 3
+   },
+   {
+    "quote": "AI’s Next Revolution: Multiply Labs Is Scaling Robotics-Driven Cell Therapy Biomanufacturing Labs",
+    "url": "https://note.com/tomohiro2866/n/n15db8f7c2bc3",
+    "pass": 3
+   },
+   {
+    "quote": "https://blogs.nvidia.com/blog/multiply-labs-cell-therapy-biomanufacturing/",
+    "url": "https://note.com/tomohiro2866/n/n15db8f7c2bc3",
+    "pass": 3
+   },
+   {
+    "quote": "患者の細胞を採取し、遺伝子操作などで強化して病気（がんなど）を治療する方法です、個別に作るため高価です。​",
+    "url": "https://note.com/tomohiro2866/n/n15db8f7c2bc3",
+    "pass": 3
+   },
+   {
+    "quote": "💠バイオ製造 (Biomanufacturing)",
+    "url": "https://note.com/tomohiro2866/n/n15db8f7c2bc3",
+    "pass": 3
+   },
+   {
+    "quote": "生物を使った医薬品製造です、無菌状態で精密作業が必要になります。",
+    "url": "https://note.com/tomohiro2866/n/n15db8f7c2bc3",
+    "pass": 3
+   },
+   {
+    "quote": "💠デジタルツイン (Digital Twin)",
+    "url": "https://note.com/tomohiro2866/n/n15db8f7c2bc3",
+    "pass": 3
+   },
+   {
+    "quote": "フィジカルAIニュース(2026/10/8号)｜Yasuhito Morimoto",
+    "url": "https://note.com/yasuhitoo/n/n2a7fe98da927?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "フィジカルAIニュース(2026/10/8号)",
+    "url": "https://note.com/yasuhitoo/n/n2a7fe98da927?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "2026/10/7のフィジカルAIニュースは、研究デモよりも「商用化・量産・安全証明」が前面に出ていました。Multiply Labsはバイオ製造ロボットの拡大へ7,500万ドルを調達し、Agility RoboticsはDigit 5の商用展開と3億ドル超の複数年注文を提示。Boston DynamicsはRohit Prasad氏をCEOに迎え、Physical AIの商用化を経営課題として明示しました。医療ではMINIGRAPHが磁気誘導型ロボット手術を前進させる一方、Tesla FSDでは欧州の承認審査を巡り、安全性エビデンスの妥当性が改めて問われています。",
+    "url": "https://note.com/yasuhitoo/n/n2a7fe98da927?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ChatGPT Images 2.5 にて作成した、記事の全体像インフォグラフィック画像",
+    "url": "https://note.com/yasuhitoo/n/n2a7fe98da927?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Gemini 3 - Nano Banana 2 にて作成した、記事の全体像インフォグラフィック画像",
+    "url": "https://note.com/yasuhitoo/n/n2a7fe98da927?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1️⃣ Multiply Labs：7,500万ドル調達、Physical AIでバイオ製造を拡大",
+    "url": "https://note.com/yasuhitoo/n/n2a7fe98da927?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Business Wire / Multiply Labs",
+    "url": "https://note.com/yasuhitoo/n/n2a7fe98da927?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Multiply Labsは、バイオ医薬品の製造工程を自律ロボットで実行する「Physical AI」基盤の拡大に向け、7,500万ドルのSeries Bを調達しました。累計調達額は1億ドル超です。同社のロボットクラスターは既存設備に組み込める密閉型GMP対応システムで、反復工程を連続実行します。会社公表では、手作業比で1投与あたりコストを74%削減し、最大100倍のスループットを実現するとしています。対象は細胞・遺伝子治療から抗体、ウイルスベクター、mRNAへ拡大中です。ただし74%・100倍はいずれも同社公表値で、今回新たな第三者比較試験が示されたわけではありません。",
+    "url": "https://note.com/yasuhitoo/n/n2a7fe98da927?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Continuum Labs on X: \"@ycombinator @multiplylabs AI can ... Congrats to @ multiplylabs (YC S16) on their $75M Series B! They build robots that manufacture the world's most complex drugs, including gene therapies and mRNA treatments.",
+    "url": "https://x.com/continuumlabs_/status/2107849671213490231",
+    "pass": 3
+   },
+   {
+    "quote": "Multiply Labs (@multiplylabs) / X At Multiply Labs, we’re building the robotic future of biomanufacturing—but behind every robot action is a team of brilliant individuals making it all possible.",
+    "url": "https://x.com/multiplylabs",
+    "pass": 3
+   },
+   {
+    "quote": "Fred Parietti (@FredParietti) / X This week on @multiplylabs Lab Notes (Episode 3!), we dive into multi-arm parallelism. Success in highly complex, regulated, and time-consuming process automation often comes down to parallelism and effective use of space.",
+    "url": "https://x.com/FredParietti",
+    "pass": 3
+   },
+   {
+    "quote": "We strapped a Go-Pro onto our new robots to show you what it ... Multiply Labs (@multiplylabs). 4 likes 265 views. We strapped a Go-Pro onto our new robots to show you what it looks like from their perspective - clean, repeatable, and automated!",
+    "url": "https://x.com/multiplylabs/status/1922705971824271791",
+    "pass": 3
+   },
+   {
+    "quote": "Multiply Labs (@multiplylabs) / X Today, @multiplylabs reveals the world's first cellular therapy robot! In Episode 26 of S³, our first ever follow up episode, we go deep on: - The robot's capabilities - Multiply's design approach - What Fred learned building it",
+    "url": "https://x.com/multiplylabs",
+    "pass": 3
+   },
+   {
+    "quote": "Fred Parietti (@FredParietti) / X Co-founder and CEO @multiplylabs. I love robots, particularly the most advanced ones. And nothing is cooler and more advanced than robot that save lives!",
+    "url": "https://x.com/FredParietti",
+    "pass": 3
+   },
+   {
+    "quote": "Big milestone! Multiply Labs has joined the ... - x.com multiplylabs (Multiply Labs). 3 likes 0 replies. 🤖 Big milestone! Multiply Labs has joined the NVIDIA Inception Program. 🚀 Excited to leverage NVIDIA's AI power to scale our robotic manufacturing of next-gen therapies.",
+    "url": "https://x.com/multiplylabs/status/1917239955320959436",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Fred (Federico) Parietti - Multiply Labs | LinkedInLucy Mae Cempron - Athena | LinkedInWinston Zha - Chief of Staff @ Multiply Labs | Robots for ...Christopher Cheng - Multiply Labs | LinkedInMultiply Labs Agency - LinkedInDavid Perez, PMP - Multiply Labs | LinkedIn May 29, 2017 · About I am specialized in the control and design of advanced robotic systems. At Multiply Labs,… With a robust backgro",
+    "url": "https://www.linkedin.com/in/fred-parietti",
+    "pass": 3
+   },
+   {
+    "quote": "Lucy Mae Cempron - Athena | LinkedInWinston Zha - Chief of Staff @ Multiply Labs | Robots for ...Christopher Cheng - Multiply Labs | LinkedInMultiply Labs Agency - LinkedInDavid Perez, PMP - Multiply Labs | LinkedIn With a robust background in office administration, sales, and attending to clients' personal and professional needs, I bring a comprehensive skill set to the table. My experience has e",
+    "url": "https://ph.linkedin.com/in/lucy-mae-cempron-343851325",
+    "pass": 3
+   },
+   {
+    "quote": "Winston Zha - Chief of Staff @ Multiply Labs | Robots for ...Christopher Cheng - Multiply Labs | LinkedInMultiply Labs Agency - LinkedInDavid Perez, PMP - Multiply Labs | LinkedIn Chief of Staff @ Multiply Labs | Robots for Life Science Manufacturing · I'm an entrepreneurially minded individual that combines computer science with an understanding of how business operate. · Experience: Multiply Lab",
+    "url": "https://www.linkedin.com/in/winston-zha-404980167",
+    "pass": 3
+   },
+   {
+    "quote": "Christopher Cheng - Multiply Labs | LinkedInMultiply Labs Agency - LinkedInDavid Perez, PMP - Multiply Labs | LinkedIn · Experience: Multiply Labs · Education: University of California, Los Angeles · Location: San Francisco Bay Area · 500+ connections on LinkedIn. Multiply your Leads and Sales | Multiply Labs provides fractional marketing teams that generate you hot leads from organic and paid tra",
+    "url": "https://www.linkedin.com/in/chrisjcheng",
+    "pass": 3
+   },
+   {
+    "quote": "Winston Zha - Chief of Staff @ Multiply Labs | Robots for ...Multiply Labs (@multiplylabs) / XFred Parietti (@FredParietti) / XFred Parietti - Co-Founder & CEO @ Multiply Labs - Crunchbase Chief of Staff @ Multiply Labs | Robots for Life Science Manufacturing · I'm an entrepreneurially minded individual that combines computer science with an understanding of how business operate. Today, @multiplyl",
+    "url": "https://www.linkedin.com/in/winston-zha-404980167",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Multiply Labs - FacebookHow 3D printing and robotics enable personalized supplements ...#MultiplyLabs Collaborates... - Pharmaceutical Outsourcing ...Multiply Labs Limited - FacebookMultiply Labs - We are thrilled to announce a $2.8M... - FacebookImitation learning scales the manufacturing of life-saving ...74% cost reduction and up to 100x more doses… Multiply Labs ... Dec 18, 2020 · Behind every",
+    "url": "https://www.facebook.com/multiplylabsforyou/",
+    "pass": 3
+   },
+   {
+    "quote": "#MultiplyLabs Collaborates... - Pharmaceutical Outsourcing ... Oct 11, 2023 · #MultiplyLabs Collaborates with Industry Leaders to Deliver a Successful PoC of Robotic Cell Therapy Manufacturing Read the latest outsourcing news here...",
+    "url": "https://www.facebook.com/PharmaceuticalOutsourcing/posts/multiplylabs-collaborates-with-industry-leaders-to-deliver-a-successful-poc-of-r/809898007809289/",
+    "pass": 3
+   },
+   {
+    "quote": "Multiply Labs - We are thrilled to announce a $2.8M... - Facebook May 8, 2017 · Since our founding, Multiply Labs has been laser focused on developing a personalization approach to medication and supplements. Today, we are thrilled to announce a $2.8M investment from a group of exceptional investors, including P101, CRCM, Y Combinator, Fenox VC, and Fifty Years, that will help…",
+    "url": "https://www.facebook.com/multiplylabsforyou/posts/we-are-thrilled-to-announce-a-28m-investment-from-a-group-of-exceptional-investo/733573093488549/",
+    "pass": 3
+   },
+   {
+    "quote": "Multiply Labs Limited - Facebook Multiply Labs Limited",
+    "url": "https://www.facebook.com/Multiply-Labs-Limited-2348906981990145/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.multiplylabs.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.multiplylabs.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.multiplylabs.com/visit",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.multiplylabs.com/static/img/1-brand-multiply-labs-logos-full-logo-color.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.multiplylabs.com/static/img/1-brand-multiply-labs-logos-full-logo-white.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.multiplylabs.com/static/img/1-brand-partner-logos-nvidia.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.multiplylabs.com/static/img/1-brand-partner-logos-universal-robots-small.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.universal-robots.com/ja/case-stories/multiply-labs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blogs.nvidia.co.jp/blog/multiply-labs-isaac-omniverse/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/multiply-labs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.businesswire.com/news/home/20261006407770/en/Multiply-Labs-Raises-$75-Million-Series-B-to-Close-the-Gap-Between-Drug-Discovery-and-Drug-Manufacturing",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.biospace.com/press-releases/multiply-labs-raises-75-million-series-b-to-close-the-gap-between-drug-discovery-and-drug-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/multiplylabs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.multiplylabs.co/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://foxglove.dev/customers/multiply-labs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/multiply-labs/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.anyscale.com/resources/case-study/multiply-labs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/multiply-labs",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/multiply-labs/lwe7a5pgga95hs69n",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/164308-96",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/multiply-labs/__Voq9VxC2-YIeSYnJiWPnUmHBy1Q5W1qO4tf8sAaRL7U",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/littlemex63454/n/ne4717c724479",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tomohiro2866/n/n15db8f7c2bc3?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tomohiro2866/n/n15db8f7c2bc3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yasuhitoo/n/n2a7fe98da927?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/continuumlabs_/status/2107849671213490231",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/multiplylabs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/FredParietti",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/multiplylabs/status/1922705971824271791",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/fred-parietti",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ph.linkedin.com/in/lucy-mae-cempron-343851325",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/winston-zha-404980167",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/chrisjcheng",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/multiplylabsforyou/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/PharmaceuticalOutsourcing/posts/multiplylabs-collaborates-with-industry-leaders-to-deliver-a-successful-poc-of-r/809898007809289/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/multiplylabsforyou/posts/we-are-thrilled-to-announce-a-28m-investment-from-a-group-of-exceptional-investo/733573093488549/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Multiply-Labs-Limited-2348906981990145/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/winston-zha-404980167",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/multiplylabs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/FredParietti",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/multiplylabs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/multiplylabs/status/1917239955320959436",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Multiplylabs 日本 導入",
+   "results": [
+    "https://www.multiplylabs.com/",
+    "https://www.universal-robots.com/ja/case-stories/multiply-labs/",
+    "https://blogs.nvidia.co.jp/blog/multiply-labs-isaac-omniverse/",
+    "https://www.multiplylabs.com/press/series-b-2026",
+    "https://seisan-navi.com/20260128-multiply-labs/",
+    "https://www.firstcvc.jp/global/multiplylabs.com",
+    "https://thebridge.jp/2026/10/multiply-labs-series-b-75m-nantworks-pharma-manufacturing-robots"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Multiplylabs 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.multiplylabs.com/press/series-b-2026",
+    "https://www.linkedin.com/company/multiply-labs",
+    "https://www.businesswire.com/news/home/20261006407770/en/Multiply-Labs-Raises-$75-Million-Series-B-to-Close-the-Gap-Between-Drug-Discovery-and-Drug-Manufacturing",
+    "https://www.biospace.com/press-releases/multiply-labs-raises-75-million-series-b-to-close-the-gap-between-drug-discovery-and-drug-manufacturing",
+    "https://www.shinetsu.co.jp/jp/company/network/worldwide/",
+    "https://www.moodys.com/web/ja/jp/moodys-company-info.html",
+    "https://www.capgemini.com/jp-jp/about-us/overview-and-access/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Multiplylabs Japan",
+   "results": [
+    "https://x.com/multiplylabs",
+    "https://www.multiplylabs.co/about-us/",
+    "https://www.multiplylabs.com/",
+    "https://www.multiplylabs.com/product",
+    "https://blogs.nvidia.co.jp/blog/multiply-labs-isaac-omniverse/",
+    "https://jp.linkedin.com/company/multiply-labs",
+    "https://www.multiplylabs.co/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Multiplylabs manufacturing customer case study",
+   "results": [
+    "https://www.multiplylabs.com/",
+    "https://foxglove.dev/customers/multiply-labs",
+    "https://www.cbinsights.com/company/multiply-labs/customers",
+    "https://www.anyscale.com/resources/case-study/multiply-labs",
+    "https://www.universal-robots.com/case-stories/multiply-labs/",
+    "https://blogs.nvidia.com/blog/multiply-labs-isaac-omniverse/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 6
+  },
+  {
+   "query": "Multiplylabs white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partners.spectrum.com/",
+    "https://upcloud.com/partner-program/",
+    "https://www.multiplylabs.com/",
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://www.upcounsel.com/reseller-agreement",
+    "https://www.reseller.co.nz/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "Multiplylabs founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/multiply-labs",
+    "https://www.thecompanycheck.com/company/b/multiply-labs/lwe7a5pgga95hs69n",
+    "https://pitchbook.com/profiles/company/164308-96",
+    "https://tracxn.com/d/companies/multiply-labs/__Voq9VxC2-YIeSYnJiWPnUmHBy1Q5W1qO4tf8sAaRL7U",
+    "https://venturecapitaltracker.com/startup/multiply-labs",
+    "https://getlatka.com/companies/multiplylabs.com",
+    "https://toflow.ai/spotlight/multiply-labs"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Multiplylabs",
+   "results": [
+    "https://note.com/littlemex63454/n/ne4717c724479",
+    "https://note.com/tomohiro2866/n/n15db8f7c2bc3?hl=en",
+    "https://note.com/tomohiro2866/n/n15db8f7c2bc3",
+    "https://note.com/yasuhitoo/n/n2a7fe98da927?hl=en",
+    "https://note.com/quruli/n/n35d2b6cdc37a",
+    "https://note.com/teya3_sedum794/n/n1f3b8e554e8d",
+    "https://note.com/ftlab_jp/n/n9cdc936a2ec9?hl=en"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Multiplylabs",
+   "results": [
+    "https://x.com/continuumlabs_/status/2107849671213490231",
+    "https://x.com/multiplylabs",
+    "https://x.com/FredParietti",
+    "https://x.com/multiplylabs/status/1922705971824271791",
+    "https://x.com/fredparietti/status/2107496518634844641",
+    "https://x.com/hashtag/multiplylab",
+    "https://x.com/multiplylabs/status/1917239955320959436"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Multiplylabs",
+   "results": [
+    "https://www.linkedin.com/in/fred-parietti",
+    "https://ph.linkedin.com/in/lucy-mae-cempron-343851325",
+    "https://www.linkedin.com/in/winston-zha-404980167",
+    "https://www.linkedin.com/in/chrisjcheng",
+    "https://www.linkedin.com/company/multiply-labs-agency",
+    "https://www.linkedin.com/in/dperezpe",
+    "https://www.linkedin.com/company/multiply-labs"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Multiplylabs",
+   "results": [
+    "https://www.facebook.com/multiplylabsforyou/",
+    "https://www.facebook.com/PharmaceuticalOutsourcing/posts/multiplylabs-collaborates-with-industry-leaders-to-deliver-a-successful-poc-of-r/809898007809289/",
+    "https://www.facebook.com/multiplylabsforyou/posts/we-are-thrilled-to-announce-a-28m-investment-from-a-group-of-exceptional-investo/733573093488549/",
+    "https://www.facebook.com/Multiply-Labs-Limited-2348906981990145/",
+    "https://www.facebook.com/multiplylabsforyou/videos/how-3d-printing-and-robotics-enable-personalized-supplements-and-medication-orde/627009270811599/",
+    "https://www.facebook.com/UniversalRobots/videos/multiply-labs-case-study-/1327789625404740/",
+    "https://www.facebook.com/reel/1260343438671404/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Multiplylabs note 社長",
+   "results": [
+    "https://www.linkedin.com/in/winston-zha-404980167",
+    "https://x.com/multiplylabs",
+    "https://x.com/FredParietti",
+    "https://www.multiplylabs.com/",
+    "https://www.multiplylabs.com/news",
+    "https://www.youtube.com/watch?v=nKkVCroLhgI",
+    "https://www.crunchbase.com/person/fred-parietti"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Multiplylabs X 投稿",
+   "results": [
+    "https://x.com/multiplylabs",
+    "https://huggingface.co/MultiplyLabs",
+    "https://x.com/multiplylabs/status/1917239955320959436",
+    "https://www.multiplylabs.com/",
+    "https://www.multiplylabs.com/visit",
+    "https://www.youtube.com/@MultiplyLabs",
+    "https://x.com/fredparietti/status/2107496518634844641"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部39頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部39頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部39頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部39頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部39頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部39頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式3頁／PDF・画像4件／外部39頁・検索12回）"
+ }
+}

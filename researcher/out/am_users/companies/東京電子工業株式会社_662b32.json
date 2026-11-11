@@ -1,0 +1,1049 @@
+{
+ "name": "東京電子工業株式会社",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T10:46:54.479345+00:00",
+ "official_url": "https://tokyo-denshi.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社",
+    "value": "〒335-0033 埼玉県戸田市笹目北町8-9 MAP TEL：048-422-1171 FAX：048-422-1172",
+    "url": "https://tokyo-denshi.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "本社",
+    "value": "〒335-0033 埼玉県戸田市笹目北町8-9 MAP TEL：048-422-1171 FAX：048-422-1172",
+    "url": "https://www.tokyo-denshi.jp/company/",
+    "pass": 3
+   }
+  ],
+  "拠点": [
+   {
+    "label": "春日部工場",
+    "value": "〒345-0023 埼玉県北葛飾郡杉戸町大字本郷字東中518 MAP TEL：0480-35-2891 FAX：0480-35-2892",
+    "url": "https://tokyo-denshi.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "大阪営業所",
+    "value": "〒530-0014 大阪府大阪市北区鶴野町4-11 朝日プラザ梅田 2F",
+    "url": "https://tokyo-denshi.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "春日部工場",
+    "value": "〒345-0023 埼玉県北葛飾郡杉戸町大字本郷字東中518 MAP TEL：0480-35-2891 FAX：0480-35-2892",
+    "url": "https://www.tokyo-denshi.jp/company/",
+    "pass": 3
+   },
+   {
+    "label": "大阪営業所",
+    "value": "〒530-0014 大阪府大阪市北区鶴野町4-11 朝日プラザ梅田 2F",
+    "url": "https://www.tokyo-denshi.jp/company/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "小沼　和之",
+    "url": "https://tokyo-denshi.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "小沼　和之",
+    "url": "https://www.tokyo-denshi.jp/company/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "セラミックス・ガラス・複合材の精密微細加工",
+    "url": "https://tokyo-denshi.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "セラミックス・ガラス・複合材の精密微細加工",
+    "url": "https://www.tokyo-denshi.jp/company/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取扱材料": [
+   {
+    "quote": "東京電子工業は、セラミックスやガラス、",
+    "url": "https://tokyo-denshi.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "基板の材料となるセラミックス、ガラスなどの、硬質で加工時に壊れやすい難素材の加工が可能です",
+    "url": "https://tokyo-denshi.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックス、ファインセラミックス加工-切断_研削・溝入れ_研磨｜東京電子工業株式会社",
+    "url": "https://tokyo-denshi.jp/material/ceramic.html",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックス加工の6つの強み",
+    "url": "https://tokyo-denshi.jp/material/ceramic.html",
+    "pass": 1
+   },
+   {
+    "quote": "硬くて脆い、セラミックス素材を",
+    "url": "https://tokyo-denshi.jp/material/ceramic.html",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックスは、「硬くて脆い素材」の代表的な難素材",
+    "url": "https://tokyo-denshi.jp/material/ceramic.html",
+    "pass": 1
+   },
+   {
+    "quote": "東京電子工業は、パターン付き材料の高精度切断、厚みのあるセラミックスの高精度加工を実現",
+    "url": "https://tokyo-denshi.jp/material/ceramic.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業分野で最もよく使われているファインセラミックスの１種です",
+    "url": "https://tokyo-denshi.jp/material/ceramic.html",
+    "pass": 1
+   },
+   {
+    "quote": "ファインセラミックスの中でも、最も熱伝導率が高く、ICの放熱板や、LEDやレーザー素子の製作などに利用",
+    "url": "https://tokyo-denshi.jp/material/ceramic.html",
+    "pass": 1
+   },
+   {
+    "quote": "常温における機械的強度が最も強いセラミックス",
+    "url": "https://tokyo-denshi.jp/material/ceramic.html",
+    "pass": 1
+   },
+   {
+    "quote": "［ セラミックス、ファインセラミックス素材一覧 ］",
+    "url": "https://tokyo-denshi.jp/material/ceramic.html",
+    "pass": 1
+   },
+   {
+    "quote": "｜ ステアタイト ｜ サイアロン ｜ ゼロデュア ｜ チタン酸バリウム ｜ PZT ｜",
+    "url": "https://tokyo-denshi.jp/material/ceramic.html",
+    "pass": 1
+   },
+   {
+    "quote": "｜ マシナブルセラミックス ｜ ムライト ｜ 酸化亜鉛 ｜",
+    "url": "https://tokyo-denshi.jp/material/ceramic.html",
+    "pass": 1
+   },
+   {
+    "quote": "とりわけ、「セラミックス」や「ガラス」「複合材」の超精密加工に関しては、様々な産業のお客様へ加工品をご提供しており、試作・量産品の加工事例を含めると、約100,000件におよびます",
+    "url": "https://tokyo-denshi.jp/material/ceramic.html",
+    "pass": 1
+   },
+   {
+    "quote": "技術と機械設備のパワーを結集して、セラミックスを理想の形状に仕上げます",
+    "url": "https://tokyo-denshi.jp/material/ceramic.html",
+    "pass": 1
+   },
+   {
+    "quote": "加工条件の最適化により、セラミックス表面や側面の金属部分に発生するバリを最小限に抑制",
+    "url": "https://tokyo-denshi.jp/material/ceramic.html",
+    "pass": 1
+   },
+   {
+    "quote": "「硬くて脆い」素材の代表格である「セラミックス素材」を、お客様のご希望とする形状に仕上げます",
+    "url": "https://tokyo-denshi.jp/material/ceramic.html",
+    "pass": 1
+   },
+   {
+    "quote": "創立以来、研鑽し蓄積し続けた機械加工のノウハウと技術で信頼性の高い超微細化セラミックス加工製品に仕上げます",
+    "url": "https://tokyo-denshi.jp/material/ceramic.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様から「セラミックス片を櫛状に加工してほしい」という依頼をいただき、完全切断ではなく、セラミックス片の途中で切断を止め、文字通り「櫛状」に加工しました",
+    "url": "https://tokyo-denshi.jp/material/ceramic.html",
+    "pass": 1
+   },
+   {
+    "quote": "作業工程を改善することでセラミックス表面や側面の金属部分に発生するバリを低減",
+    "url": "https://tokyo-denshi.jp/material/ceramic.html",
+    "pass": 1
+   },
+   {
+    "quote": "ガラスは、「割れやすく、汚れやすい」素材で、セラミックス同様に加工が難しいといわれています",
+    "url": "https://tokyo-denshi.jp/material/glass.html",
+    "pass": 1
+   },
+   {
+    "quote": "とりわけ、「セラミックス」や「ガラス」「複合材」の超精密加工に関しては、様々な産業のお客様へ加工品をご提供しており、試作・量産品の加工事例を含めると、約100,000件におよびます",
+    "url": "https://tokyo-denshi.jp/material/glass.html",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックスや石英ガラス等、他の材質でも同様の加工が可能です",
+    "url": "https://tokyo-denshi.jp/material/glass.html",
+    "pass": 1
+   },
+   {
+    "quote": "複合材を同時加工-切断_研削・溝入れ_研磨｜東京電子工業株式会社",
+    "url": "https://tokyo-denshi.jp/material/composite.html",
+    "pass": 1
+   },
+   {
+    "quote": "> 素材別加工技術_ 複合材、各種素材加工",
+    "url": "https://tokyo-denshi.jp/material/composite.html",
+    "pass": 1
+   },
+   {
+    "quote": "複合材加工の6つの強み",
+    "url": "https://tokyo-denshi.jp/material/composite.html",
+    "pass": 1
+   },
+   {
+    "quote": "ガラスとシリコンの接合材料や、金属ベースの樹脂基板など、異なる材料の「複合材」を同時加工することも可能ですので、お気軽にご相談ください",
+    "url": "https://tokyo-denshi.jp/material/composite.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、当社が得意とするセラミックス素材やガラス素材のほか、結晶材（シリコン 、サファイア、化合物半導体）や磁性材（フェライト、サマリウムコバルト、ネオジウム）、樹脂（ガラスエポキシ樹脂他）、金属（銅、アルミ他各種）などの超精密加工にも対応が可能",
+    "url": "https://tokyo-denshi.jp/material/composite.html",
+    "pass": 1
+   },
+   {
+    "quote": "｜ガラス + シリコン 複合材｜セラミックス + 金属 複合材｜ガラス + 金属 複合材｜ガラス + 高分子 複合材｜",
+    "url": "https://tokyo-denshi.jp/material/composite.html",
+    "pass": 1
+   },
+   {
+    "quote": "｜セラミックス + 高分子 複合材｜ガラス + セラミックス 複合材｜シリコン + セラミックス 複合材｜",
+    "url": "https://tokyo-denshi.jp/material/composite.html",
+    "pass": 1
+   },
+   {
+    "quote": "とりわけ、「セラミックス」や「ガラス」「複合材」の超精密加工に関しては、様々な産業のお客様へ加工品をご提供しており、試作・量産品の加工事例を含めると、約100,000件におよびます",
+    "url": "https://tokyo-denshi.jp/material/composite.html",
+    "pass": 1
+   },
+   {
+    "quote": "約200種類のダイヤモンド工具と技術・ノウハウを結集して、複合材ならびに各素材を理想の形状に仕上げます",
+    "url": "https://tokyo-denshi.jp/material/composite.html",
+    "pass": 1
+   },
+   {
+    "quote": "加工性の異なる材質の複合材ガラスとシリコンの陽極接合基板を1種類のブレードでダイシング加工",
+    "url": "https://tokyo-denshi.jp/material/composite.html",
+    "pass": 1
+   },
+   {
+    "quote": "延性の高い銅ベースの樹脂基板を金属バリ無くダイシング加工が可能",
+    "url": "https://tokyo-denshi.jp/material/composite.html",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックスやガラスといった難素材のほか、様々な種類の素材の精密・微細加工が可能です",
+    "url": "https://tokyo-denshi.jp/material/composite.html",
+    "pass": 1
+   },
+   {
+    "quote": "異なる特性を持つ材質素材同士の同時加工もサポート",
+    "url": "https://tokyo-denshi.jp/material/composite.html",
+    "pass": 1
+   },
+   {
+    "quote": "ダイシング加工、切断・研削・溝入れ・研磨加工-セラミックス、ガラス、複合材｜東京電子工業株式会社",
+    "url": "https://tokyo-denshi.jp/introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックス、ガラス、複合材など多種多様な素材の特性を吟味しながら、高度なプログラミング技術やエンジニアが培ったノウハウによって、お客様が理想とする形状を実現します",
+    "url": "https://tokyo-denshi.jp/introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "ダイシング加工は、高速回転するダイヤモンドブレードでセラミックスやガラスなどの素材や基板をダイス状に切断したり、溝入れを施すこと",
+    "url": "https://tokyo-denshi.jp/introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "2. 複合材のものを同時加工",
+    "url": "https://tokyo-denshi.jp/introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックスやガラス等、様々な種類の素材に対応することができます",
+    "url": "https://tokyo-denshi.jp/introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "近年、セラミックスやガラスの切断加工に特化し、最新鋭のダイシングマシンやスライシングマシンをはじめ、クリーンルーム（本社工場）などの設備機器、体制を充実させ、お客様の高度な仕様や生産数、納品スケジュールの短縮化をサポート",
+    "url": "https://tokyo-denshi.jp/factory/",
+    "pass": 1
+   },
+   {
+    "quote": "難素材セラミックス、サファイアを高精度加工",
+    "url": "https://tokyo-denshi.jp/factory/",
+    "pass": 1
+   },
+   {
+    "quote": "高速回転するスピンドルにダイヤモンドブレードを取り付け、セラミックスやガラス、複合材等をダイス状に切断したり、溝入れ加工を実現します",
+    "url": "https://tokyo-denshi.jp/factory/",
+    "pass": 1
+   },
+   {
+    "quote": "ダイシングマシン同様、ダイヤモンドブレードを高速回転させ、比較的厚みのあるセラミックス、複合材などの高硬度素材の切断、または溝入れ加工を行います",
+    "url": "https://tokyo-denshi.jp/factory/",
+    "pass": 1
+   },
+   {
+    "quote": "ダイヤモンドチップを埋め込んだバンドでセラミックスやガラス、複合材、結晶材などを高精度に加工します",
+    "url": "https://tokyo-denshi.jp/factory/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックスやガラス、複合材加工に使用します",
+    "url": "https://tokyo-denshi.jp/factory/",
+    "pass": 1
+   },
+   {
+    "quote": "回転する研削砥石を用いて、セラミックスやガラス、複合材等を高精度に加工",
+    "url": "https://tokyo-denshi.jp/factory/",
+    "pass": 1
+   },
+   {
+    "quote": "回転する研削砥石を用いて、セラミックスやガラス、複合材などの糸面・C面を高精度に加工できます",
+    "url": "https://tokyo-denshi.jp/factory/",
+    "pass": 1
+   },
+   {
+    "quote": "レーザ光線を使用して、セラミックスやガラス、複合材等の材料を切断、穴あけ、微細加工を行うことができます",
+    "url": "https://tokyo-denshi.jp/factory/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックスやガラス等の円筒工作物の仕上げをすることができます",
+    "url": "https://tokyo-denshi.jp/factory/",
+    "pass": 1
+   },
+   {
+    "quote": "サンドブラストにより、セラミックス・ガラス・シリコン等に精密な溝加工ができます",
+    "url": "https://tokyo-denshi.jp/factory/",
+    "pass": 1
+   },
+   {
+    "quote": "テープダイシングを行うために、セラミックスやガラス、複合材等にダイシングテープを貼り付けます",
+    "url": "https://tokyo-denshi.jp/factory/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックス・ガラス・複合材の精密微細加工",
+    "url": "https://tokyo-denshi.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "デジタルカメラ用セラミックス基板の生産を開始",
+    "url": "https://tokyo-denshi.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "スマートフォン向けセラミックスの生産を開始",
+    "url": "https://tokyo-denshi.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ただし、加工可能な最径は、板厚や材質などの条件によって異なりますので、詳細はお気軽にご相談ください",
+    "url": "https://tokyo-denshi.jp/2026/08/17/%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%81%A7%E3%81%AE%E5%B0%8F%E5%BE%84%E3%81%8F%E3%82%8A%E6%8A%9C%E3%81%8D%E5%8A%A0%E5%B7%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "また、対応可能な材質はアルミナに限らず、各種セラミックスやガラスなど、さまざまな脆性材料の精密加工にも対応しています",
+    "url": "https://tokyo-denshi.jp/2026/08/17/%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%81%A7%E3%81%AE%E5%B0%8F%E5%BE%84%E3%81%8F%E3%82%8A%E6%8A%9C%E3%81%8D%E5%8A%A0%E5%B7%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "石英ガラスだけでなく、他の材質でも加工可能です",
+    "url": "https://tokyo-denshi.jp/glass/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックスや石英ガラス等、他の材質でも同様の加工が可能です",
+    "url": "https://tokyo-denshi.jp/glass/",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "試作品や量産品を問わず、",
+    "url": "https://tokyo-denshi.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "とりわけ、「セラミックス」や「ガラス」「複合材」の超精密加工に関しては、様々な産業のお客様へ加工品をご提供しており、試作・量産品の加工事例を含めると、約100,000件におよびます",
+    "url": "https://tokyo-denshi.jp/material/ceramic.html",
+    "pass": 1
+   },
+   {
+    "quote": "とりわけ、「セラミックス」や「ガラス」「複合材」の超精密加工に関しては、様々な産業のお客様へ加工品をご提供しており、試作・量産品の加工事例を含めると、約100,000件におよびます",
+    "url": "https://tokyo-denshi.jp/material/glass.html",
+    "pass": 1
+   },
+   {
+    "quote": "とりわけ、「セラミックス」や「ガラス」「複合材」の超精密加工に関しては、様々な産業のお客様へ加工品をご提供しており、試作・量産品の加工事例を含めると、約100,000件におよびます",
+    "url": "https://tokyo-denshi.jp/material/composite.html",
+    "pass": 1
+   },
+   {
+    "quote": "試作・量産に対応した2つの生産工場と、充実した設備を保有",
+    "url": "https://tokyo-denshi.jp/introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "研磨加工とは、砥粒と呼ばれる硬度が高く微細な粒を同時に作用させて、材料の表面を少量ずつ削り、滑らかな状態へ加工する技術です",
+    "url": "https://tokyo-denshi.jp/introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "試作品と量産品向けの2つの自社工場を保有",
+    "url": "https://tokyo-denshi.jp/factory/",
+    "pass": 1
+   },
+   {
+    "quote": "本社工場は多品種、春日部工場は量産品と分業化することで、生産効率を上げています",
+    "url": "https://tokyo-denshi.jp/factory/",
+    "pass": 1
+   },
+   {
+    "quote": "試作品・開発品含め、数量は1個～量産品まで、最適な加工設備にての加工をご提案、２工場体制にて柔軟に対応",
+    "url": "https://tokyo-denshi.jp/factory/",
+    "pass": 1
+   },
+   {
+    "quote": "ガラス精密加工 - 事例紹介_開発・小ロットから量産まで｜東京電子工業株式会社",
+    "url": "https://tokyo-denshi.jp/glass/",
+    "pass": 1
+   },
+   {
+    "quote": "また、弊社は試作から量産まで一貫して対応致します",
+    "url": "https://tokyo-denshi.jp/2025/10/07/%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%81%A7%E3%81%AE%E5%BE%AE%E7%B4%B0%E5%8A%A0%E5%B7%A5%E4%BA%8B%E4%BE%8B/",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "スマートフォンやパソコン、テレビ、車載部品などに内蔵する半導体や電子部品、",
+    "url": "https://tokyo-denshi.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "第3回 『九州』半導体産業展にご来場いただきありがとうございます",
+    "url": "https://tokyo-denshi.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "第3回【九州】半導体産業展に出展致します",
+    "url": "https://tokyo-denshi.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "素材としては、強度や耐熱性能に優れ、耐食性が高く、半導体製造プロセスにおいて欠かすことができません",
+    "url": "https://tokyo-denshi.jp/material/ceramic.html",
+    "pass": 1
+   },
+   {
+    "quote": "刃物やノズル、インプラントなど破壊靭性に優れています",
+    "url": "https://tokyo-denshi.jp/material/ceramic.html",
+    "pass": 1
+   },
+   {
+    "quote": "半導体分野から通信機器、医療機器、車載機器など、多種多様な分野のお客様ニーズにお応えしています",
+    "url": "https://tokyo-denshi.jp/material/ceramic.html",
+    "pass": 1
+   },
+   {
+    "quote": "半導体分野から通信機器、医療機器、車載機器など、多種多様な分野のお客様ニーズにお応えしています",
+    "url": "https://tokyo-denshi.jp/material/glass.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、当社が得意とするセラミックス素材やガラス素材のほか、結晶材（シリコン 、サファイア、化合物半導体）や磁性材（フェライト、サマリウムコバルト、ネオジウム）、樹脂（ガラスエポキシ樹脂他）、金属（銅、アルミ他各種）などの超精密加工にも対応が可能",
+    "url": "https://tokyo-denshi.jp/material/composite.html",
+    "pass": 1
+   },
+   {
+    "quote": "半導体分野から通信機器、医療機器、車載機器など、多種多様な分野のお客様ニーズにお応えしています",
+    "url": "https://tokyo-denshi.jp/material/composite.html",
+    "pass": 1
+   },
+   {
+    "quote": "半導体ウエハーや基板等に作られたパターンに合わせ、個々の機能を持ったチップを切り分けます",
+    "url": "https://tokyo-denshi.jp/introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体やIT機器製造の業界でよくある、特急スケジュールでも安心",
+    "url": "https://tokyo-denshi.jp/introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "テレビ、プロジェクター、デジタルカメラ、スマートフォン、光通信、医療機器等、創業当初からその時代の最先端製品に着目し、その発展に寄与すべくお手伝いしてまいりました",
+    "url": "https://tokyo-denshi.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "カメラ、各種センサ用ガラス、通信、医療、車載、航空宇宙分野向け",
+    "url": "https://tokyo-denshi.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "高齢化社会の中でも人々が健康的で安心できる生活を送ることができるように、医療に関連した製品を創造することで貢献します",
+    "url": "https://tokyo-denshi.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "用途：医療、理化学ガラス",
+    "url": "https://tokyo-denshi.jp/glass/",
+    "pass": 1
+   },
+   {
+    "quote": "※別途、加工用の治具も制作しました",
+    "url": "https://tokyo-denshi.jp/glass/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体、通信機器をはじめ、様々な産業分野でガラス加工の実績を有します",
+    "url": "https://tokyo-denshi.jp/glass/",
+    "pass": 1
+   },
+   {
+    "quote": "マシニングセンタという最先端の設備を、蓄積してきた膨大な加工データ（知見）と、一品ごとに最適解を導き出す治具製作（技術）で、図面上の理想を具現化してまいります",
+    "url": "https://tokyo-denshi.jp/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "透明度が高く、耐熱性が高いという特性により、光ファイバーや半導体製造装置に多用されています",
+    "url": "https://tokyo-denshi.jp/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "装置への理解と経験、プログラミング知識、また独自治具による工夫、他の加工方法との組み合わせなど、",
+    "url": "https://tokyo-denshi.jp/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車、電子部品、航空宇宙、医療機器など、幅広い分野で活用されています",
+    "url": "https://tokyo-denshi.jp/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "特に電気自動車（EV）や再生可能エネルギー、AI・5G分野など、これらの分野の拡大に伴い、SiCパワー半導体の需要も増加しています",
+    "url": "https://tokyo-denshi.jp/2025/11/10/%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fsic%E3%81%AE%E5%8A%A0%E5%B7%A5%E4%BA%8B%E4%BE%8B/",
+    "pass": 1
+   },
+   {
+    "quote": "テレビ、プロジェクター、デジタルカメラ、スマートフォン、光通信、医療機器等、創業当初からその時代の最先端製品に着目し、その発展に寄与すべくお手伝いしてまいりました",
+    "url": "https://www.tokyo-denshi.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "カメラ、各種センサ用ガラス、通信、医療、車載、航空宇宙分野向け",
+    "url": "https://www.tokyo-denshi.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "高齢化社会の中でも人々が健康的で安心できる生活を送ることができるように、医療に関連した製品を創造することで貢献します",
+    "url": "https://www.tokyo-denshi.jp/company/",
+    "pass": 3
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "得られた技術やノウハウをお客様のモノづくりへ反映させ、最終製品に小型化・高機能化といった「新しい付加価値」につながるよう、ご提供いたします",
+    "url": "https://tokyo-denshi.jp/material/ceramic.html",
+    "pass": 1
+   },
+   {
+    "quote": "創立以来、研鑽し蓄積し続けた機械加工のノウハウと技術で信頼性の高い超微細化セラミックス加工製品に仕上げます",
+    "url": "https://tokyo-denshi.jp/material/ceramic.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品時の通電トラブルなどを回避でき、歩留まりも大幅削減できます",
+    "url": "https://tokyo-denshi.jp/material/ceramic.html",
+    "pass": 1
+   },
+   {
+    "quote": "得られた技術やノウハウをお客様のモノづくりへ反映させ、最終製品に小型化・高機能化といった「新しい付加価値」につながるよう、ご提供いたします",
+    "url": "https://tokyo-denshi.jp/material/glass.html",
+    "pass": 1
+   },
+   {
+    "quote": "内径が細く長い製品でも管の内部まで綺麗な洗浄が可能",
+    "url": "https://tokyo-denshi.jp/material/glass.html",
+    "pass": 1
+   },
+   {
+    "quote": "創立以来、研鑽し蓄積し続けた機械加工のノウハウと技術で信頼性の高い超微細化ガラス加工製品に仕上げます",
+    "url": "https://tokyo-denshi.jp/material/glass.html",
+    "pass": 1
+   },
+   {
+    "quote": "「次工程（お客様側の工程）で発生するカケを改善してほしい」とのご依頼を受けて、従来切断加工していたガラス製品に、切断と面取りの同時加工を提案",
+    "url": "https://tokyo-denshi.jp/material/glass.html",
+    "pass": 1
+   },
+   {
+    "quote": "チッピングを最小化することで、ガラス製品の有効範囲を最大にし、部品の小型化が実現可能になります",
+    "url": "https://tokyo-denshi.jp/material/glass.html",
+    "pass": 1
+   },
+   {
+    "quote": "得られた技術やノウハウをお客様のモノづくりへ反映させ、最終製品に小型化・高機能化といった「新しい付加価値」につながるよう、ご提供いたします",
+    "url": "https://tokyo-denshi.jp/material/composite.html",
+    "pass": 1
+   },
+   {
+    "quote": "素材の特性や製品の仕様に合わせ、ダイシングマシンと最適なブレード（砥石）でダイシング加工を行います",
+    "url": "https://tokyo-denshi.jp/introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "3. 大きな素材から微細製品への一貫加工",
+    "url": "https://tokyo-denshi.jp/introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "大きな素材から微細製品への一貫加工もお任せください",
+    "url": "https://tokyo-denshi.jp/introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "製品移載の自動化で省人化を図り、品質安定と工数削減を実現",
+    "url": "https://tokyo-denshi.jp/factory/",
+    "pass": 1
+   },
+   {
+    "quote": "経験豊富なベテランの技術営業が、ご発注から製品の仕様決定、加工作業、検査、納品まで責任を持って担当させていただきます",
+    "url": "https://tokyo-denshi.jp/factory/",
+    "pass": 1
+   },
+   {
+    "quote": "テレビ、プロジェクター、デジタルカメラ、スマートフォン、光通信、医療機器等、創業当初からその時代の最先端製品に着目し、その発展に寄与すべくお手伝いしてまいりました",
+    "url": "https://tokyo-denshi.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "これらの製品をはじめ、エレクトロニクス分野の製品は、当時も今も常に進化、発展し続けております",
+    "url": "https://tokyo-denshi.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "イノベーションを促進させ付加価値ある製品を創造し、技術能力を向上させます",
+    "url": "https://tokyo-denshi.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "高齢化社会の中でも人々が健康的で安心できる生活を送ることができるように、医療に関連した製品を創造することで貢献します",
+    "url": "https://tokyo-denshi.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "経験豊富な技術営業が、ご発注から製品の仕様決定、加工作業、検査、納品まで責任を持って担当させていただきます",
+    "url": "https://tokyo-denshi.jp/glass/",
+    "pass": 1
+   },
+   {
+    "quote": "経験豊富な技術営業が、ご発注から製品の仕様決定、加工作業、検査、納品まで責任を持って担当させていただきます",
+    "url": "https://tokyo-denshi.jp/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミナ 2.9x1.5mmの製品を",
+    "url": "https://tokyo-denshi.jp/material/images/ceramic/img_12.png",
+    "pass": 2
+   },
+   {
+    "quote": "テレビ、プロジェクター、デジタルカメラ、スマートフォン、光通信、医療機器等、創業当初からその時代の最先端製品に着目し、その発展に寄与すべくお手伝いしてまいりました",
+    "url": "https://www.tokyo-denshi.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "これらの製品をはじめ、エレクトロニクス分野の製品は、当時も今も常に進化、発展し続けております",
+    "url": "https://www.tokyo-denshi.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "イノベーションを促進させ付加価値ある製品を創造し、技術能力を向上させます",
+    "url": "https://www.tokyo-denshi.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "高齢化社会の中でも人々が健康的で安心できる生活を送ることができるように、医療に関連した製品を創造することで貢献します",
+    "url": "https://www.tokyo-denshi.jp/company/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "お客様からフォームや電話などでお問い合わせをいただきましたら、3営業日以内でお返事いたします",
+    "url": "https://tokyo-denshi.jp/factory/",
+    "pass": 1
+   },
+   {
+    "quote": "E-mail : info@tokyodenshi.co.jp",
+    "url": "http://www.tokyodenshi.co.jp/tokyod_hp/tinfo.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様からお預かりした個人情報は、当社からのご連絡や業務のご案内やご質問に対する回答として、電子メールや資料のご送付に利用いたします",
+    "url": "http://www.tokyodenshi.co.jp/tokyod_hp/tinfo.html",
+    "pass": 3
+   },
+   {
+    "quote": "７．お問い合わせ",
+    "url": "http://www.tokyodenshi.co.jp/tokyod_hp/tinfo.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "硬くて脆い難素材_超精密加工・超微細加工｜東京電子工業株式会社 — 東京電子工業は、硬くて脆い難素材のセラミックス、ガラス、複合材を得意とする、超精密・超微細加工のエキスパート企業です。埼玉県に自社2工場を有し、24時間フル稼働。他社で困難な素材でも、試作品から量産品まで短納期でお応えします。",
+    "url": "http://www.tokyo-denshi.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "ガラス精密加工 - 事例紹介_開発・小ロットから量産まで｜東京電子工... — 東京電子工業の ガラス加工 ガラスの特性を最大限に活かし 他社で断られた難しい加工も実現！ 東京電子工業は、各種ガラスなど 脆く 、 扱いが難しい 難素材・精密加工 のエキスパート 開発段階からご相談いただき、 24時間体制の国内自社工場 （2カ所 ...",
+    "url": "https://tokyo-denshi.jp/glass/",
+    "pass": 3
+   },
+   {
+    "quote": "印刷品質検査機器・排出装置のトータル提案｜東京電子工業 — パッケージ品質 検査機 の 最適設計 を提供します 満足度の高い、お客様のニーズに合わせた 製品づくりで48年による信頼 ...",
+    "url": "https://www.t-denshi-k.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内-経営理念・環境理念_概要_SDGsの取組み_アクセス｜東京電子...会社概要 | 東京電子株式会社硬くて脆い難素材_超精密加工・超微細加工｜東京電子工業株式会社東京電子工業株式会社_会社案内 - tokyodenshi.co.jp東京電子株式会社 | 極高真空技術とパルスパワー技術で、先進社会を支...概要 | TDKについて | TDK株式会社TODENKO 東京電線工業株式会社 | 会社について — 東京電子工業は、セラミックス・ガラス・複合材の精密微細加工を事業内容とする1966年創業の会社です。埼玉県戸田市に本社・工場、また春日部工場を有しています。創業当初から時代の最先端製品に着目し、アイデアと最新の技術でお応えし続けております。 042-329-5090 平日：午前9時～午後5時 YouTube 東京電子TV トップページ 会社概要 企業概要 アクセスマップ 品質方針",
+    "url": "http://www.tokyo-denshi.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "東京電子工業株式会社_会社案内 - tokyodenshi.co.jp — 東京電子工業（株）は創業以来一貫して多品種多品目の電子機器を生産してまいりました。 近年では、通信機器・計測器：TVカメラ・モニター・CATV・各関連機器の生産及び試験,、 制御盤関連機器の生産及び試験 、コンピューター関連機器の生産及びテスト業務、 各種ケーブルの端末加工及び ...",
+    "url": "http://tokyodenshi.co.jp/tokyod_hp/tco.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ｜東京電子工業株式会社 — セラミックス、ガラスなどの難素材の超精密加工・超微細加工 お見積のご依頼 その他 上記以外、弊社の製品や技術、サービスに関するお問い合わせは、電話またはFAX、下記のお問い合わせフォーム（その他）からお問い合わせください。",
+    "url": "https://tokyo-denshi.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "東京電子工業株式会社_お問い合わせ — 上で送信をお願いいたします。（ ＊部は必須項目です。） Eメールアドレス＊ 会社名 お名前＊ お名前フリガナ＊ 郵便番号＊ 住 所（お届け先）＊ TEL＊ FAX＊ 内 容＊ 当社のプライバシーポリシーに同意する＊ ＊プライバシーポリシー 東京電子工業（株）以下「当社」は、以下のとおり ...",
+    "url": "http://www.tokyodenshi.co.jp/tokyod_hp/tinfo.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 東京電子工業株式会社 — 当社へのお問い合わせは、電話かFAX、または下記お問い合わせフォームにてお寄せください。 後日、担当者よりご連絡させていただきます。 ※【受付時間】9：00～17：00（土・日・祝日は除く）",
+    "url": "https://www.t-denshi-k.co.jp/contact.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "東京電子工業株式会社 - Facebook 東京電子工業株式会社",
+    "url": "https://www.facebook.com/東京電子工業株式会社-155391571334738/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社東京電子工業 - Facebook 株式会社東京電子工業",
+    "url": "https://www.facebook.com/株式会社東京電子工業-106338491888503/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://tokyo-denshi.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyo-denshi.jp/category/case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyo-denshi.jp/material/ceramic.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyo-denshi.jp/material/glass.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyo-denshi.jp/material/composite.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyo-denshi.jp/introduction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyo-denshi.jp/factory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyo-denshi.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyo-denshi.jp/2026/08/17/%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%81%A7%E3%81%AE%E5%B0%8F%E5%BE%84%E3%81%8F%E3%82%8A%E6%8A%9C%E3%81%8D%E5%8A%A0%E5%B7%A5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyo-denshi.jp/glass/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyo-denshi.jp/machining/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyo-denshi.jp/2025/11/10/%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fsic%E3%81%AE%E5%8A%A0%E5%B7%A5%E4%BA%8B%E4%BE%8B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyo-denshi.jp/2025/10/07/%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%81%A7%E3%81%AE%E5%BE%AE%E7%B4%B0%E5%8A%A0%E5%B7%A5%E4%BA%8B%E4%BE%8B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyo-denshi.jp/2025/08/27/%E6%8A%80%E8%A1%93%E6%83%85%E5%A0%B1%EF%BC%9A%CF%860-14mm-%E5%BE%AE%E7%B4%B0%E7%A9%B4%E5%8A%A0%E5%B7%A5%E3%81%AE%E5%8A%A0%E5%B7%A5%E4%BA%8B%E4%BE%8B/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://tokyo-denshi.jp/material/images/ceramic/img_12.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://tokyo-denshi.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taiyo-elc.com/business/011/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tokyo-denshi.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toel.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyo-denshi.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.tokyodenshi.co.jp/tokyod_hp/tinfo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tet.co.jp/jpn/contact.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/東京電子工業株式会社-155391571334738/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/株式会社東京電子工業-106338491888503/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "東京電子工業 取扱製品 試作 小ロット",
+   "results": [
+    "http://www.tokyo-denshi.jp/",
+    "https://tokyo-denshi.jp/glass/",
+    "http://taiyo-elc.com/business/011/",
+    "https://www.tpc.toray/solution/sol_002.html",
+    "https://www.t-denshi-k.co.jp/",
+    "https://www.tdicorp.co.jp/",
+    "https://www.toel.co.jp/sitemap/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "東京電子工業 会社概要 事業内容",
+   "results": [
+    "http://www.tokyo-denshi.jp/company/",
+    "https://www.toel.co.jp/company/",
+    "http://www.tokyo-denshi.jp/",
+    "http://tokyodenshi.co.jp/tokyod_hp/tco.html",
+    "https://www.toel.co.jp/",
+    "https://todenko.co.jp/company/",
+    "https://www.tdk.com/ja/about_tdk/tdk_at_a_glance/index.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "東京電子工業 お問い合わせ メール",
+   "results": [
+    "https://tokyo-denshi.jp/contact/",
+    "http://www.tokyodenshi.co.jp/tokyod_hp/tinfo.html",
+    "https://tet.co.jp/jpn/contact.html",
+    "https://www.t-denshi-k.co.jp/contact.html",
+    "https://www.todenko.co.jp/contact/",
+    "http://tokyodenshi.co.jp/tokyod_hp/info.html",
+    "https://tokyo-denshi-recruit.com/contact/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 東京電子工業",
+   "results": [
+    "https://note.com/densen_note",
+    "https://note.com/clipcorporation/n/n375b6ab05403",
+    "https://note.com/inshi_math_lab/n/n72b9a1509a3c",
+    "https://tales.note.com/studio_yoizuki",
+    "https://tales.note.com/20220612/wr98m266akp5v",
+    "https://note.com/charm_dunlin3899/n/n3fb36a190d06",
+    "https://note.com/marine5353/n/n5c543eb43409"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 東京電子工業",
+   "results": [
+    "https://help.x.com/en/x-for-websites-ads-info-and-privacy",
+    "https://help.x.com/en",
+    "https://x.com/TokyoDenshiClub",
+    "https://x.com/itchie_tatsumi",
+    "https://x.com/MatsuoInstitute/status/2110243340734415079",
+    "https://x.com/sputnik_jp/status/2099442411613168049",
+    "https://x.com/electrobeam1977"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 東京電子工業",
+   "results": [
+    "https://jp.linkedin.com/company/tokyo-electron/jobs",
+    "https://jp.linkedin.com/in/修一-杉山-92a7a439b",
+    "https://www.linkedin.com/in/hirokawabe/ja",
+    "https://my.linkedin.com/jobs/view/head-of-collections-at-monee-4471669847",
+    "https://www.linkedin.com/company/topologicinc/",
+    "https://gb.linkedin.com/",
+    "https://my.linkedin.com/jobs/view/head-of-business-development-at-moneywave-4477234811"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 東京電子工業",
+   "results": [
+    "https://www.facebook.com/東京電子工業株式会社-155391571334738/",
+    "https://www.facebook.com/株式会社東京電子工業-106338491888503/",
+    "https://www.facebook.com/profile.php/?id=133742003303735",
+    "https://business.facebook.com/groups/126032840903855/",
+    "https://www.facebook.com/p/豊電子工業-100063593799257/",
+    "https://www.facebook.com/FUJIDENSHI/",
+    "https://www.facebook.com/tci.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "東京電子工業 note 社長",
+   "results": [
+    "https://tokyo-denshi.jp/company/",
+    "https://www.saitama-j.or.jp/files/libs/4300/202601200945228731.pdf",
+    "https://compalyze.co.jp/company/2040001048363",
+    "http://www.tokyo-denshi.jp/",
+    "https://www.t-denshi-k.co.jp/",
+    "https://www.instagram.com/p/DeHUxfmEnlY/",
+    "https://todenko.co.jp/company/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "東京電子工業 X 投稿",
+   "results": [
+    "http://www.tokyo-denshi.jp/",
+    "https://tokyo-denshi.jp/info/",
+    "https://www.t-denshi-k.co.jp/",
+    "https://x.com/TDK_Japan",
+    "https://x.com/TODENKYO",
+    "https://www.tokyo-ec.ac.jp/entrance/ao.html",
+    "https://www.tokyo-ec.ac.jp/entrance/entry.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部9頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部9頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部9頁・検索9回）",
+  "AM関連": "記載なし（3回確認済み：公式14頁／PDF・画像1件／外部9頁・検索9回）"
+ }
+}

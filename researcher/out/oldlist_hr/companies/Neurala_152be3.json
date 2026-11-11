@@ -1,0 +1,985 @@
+{
+ "name": "Neurala",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AI送信済み",
+ "researched_at": "2026-11-11T11:23:31.975048+00:00",
+ "official_url": "https://www.neurala.com/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Vision AI engineered for your product - Neurala",
+    "url": "https://www.neurala.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Neurala’s patented L-DNN™ technology runs the entire AI workflow at the edge, trains on a handful of images, and integrates directly into your hardware or software stack. No cloud. No massive datasets. No compromise on privacy.",
+    "url": "https://www.neurala.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Patented technology. Proven in production.",
+    "url": "https://www.neurala.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our Lifelong Deep Neural Network (L-DNN)™ is designed from the ground up to run inside real products, in real environments — without the constraints that make conventional deep learning impractical for deployment.",
+    "url": "https://www.neurala.com/",
+    "pass": 1
+   },
+   {
+    "quote": "L-DNN reaches high accuracy with dramatically less training data than conventional neural networks. Where standard models require thousands of labeled examples, Neurala’s technology learns from a small number of representative images and continues learning as new data becomes available.",
+    "url": "https://www.neurala.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The full loop — training, adaptation, and inference — runs on-device, on standard processors such as Intel i3 or higher, with no GPU required. End users can train custom models using their own data, on their own hardware, without sending anything to the cloud.",
+    "url": "https://www.neurala.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Privacy in Neurala is architectural, not a configuration option. Image data is processed and stored locally by design. It never touches an external server. For OEM partners in regulated or security-sensitive industries, this is a hard requirement. Neurala meets it without compromise.",
+    "url": "https://www.neurala.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every environment is different. We work directly with your engineering team to understand your hardware, your use case, and your customers — then package our technology to fit precisely.",
+    "url": "https://www.neurala.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We learn your stack in depth: hardware constraints, target environment, end-user requirements, and where vision AI needs to live within your product architecture. No assumptions. No generic solutions.",
+    "url": "https://www.neurala.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We package Neurala’s L-DNN into a software library built specifically for your environment. This isn’t configuration — it’s engineering. The output is a tailored integration that fits your product exactly.",
+    "url": "https://www.neurala.com/",
+    "pass": 1
+   },
+   {
+    "quote": "You ship a product with embedded vision AI that works reliably, at the edge, from day one. Our team remains available through deployment and beyond. A partnership doesn’t end at handoff.",
+    "url": "https://www.neurala.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Deployed inside products that ship to the world",
+    "url": "https://www.neurala.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Neurala has partnered with global technology leaders to embed vision AI directly into their products — production deployments, at scale, inside products used by enterprise customers worldwide.",
+    "url": "https://www.neurala.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Gold — Best New Product in Social Innovation",
+    "url": "https://www.neurala.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ready to add patented vision AI to your product?",
+    "url": "https://www.neurala.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Vision AI deployed inside enterprise products - Neurala",
+    "url": "https://www.neurala.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "L-DNN deployed inside products that",
+    "url": "https://www.neurala.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Neurala’s vision AI technology is embedded inside the products of some of the world’s leading technology companies. These are production deployments — at scale, in demanding real-world environments — powered by the same patented L-DNN at the core of everything we build.",
+    "url": "https://www.neurala.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "faster training than conventional deep learning",
+    "url": "https://www.neurala.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "sufficient to train production-ready model",
+    "url": "https://www.neurala.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Production deployments",
+    "url": "https://www.neurala.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Technology proven in the field",
+    "url": "https://www.neurala.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Production deployments, at scale, inside products used by enterprise customers worldwide.",
+    "url": "https://www.neurala.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Neurala developed a customized model-training application for Sony's AITRIOS marketplace that allowed users to train and deploy purpose-built vision AI models for use with Sony's AI-enabled IMX500 vision sensor. This tool made it simple and easy for any user to build custom vision AI models that could run on the edge on smart cameras with Sony's IMX500 sensor.",
+    "url": "https://www.neurala.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "100% detection accuracy across 14 product lines serving 1 million meals per week",
+    "url": "https://www.neurala.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "apetito deployed Neurala’s L-DNN technology across their production facility to detect missing meal components before trays leave the line. 30 custom vision AI models were built and deployed, with new models trainable in as little as 10 minutes without AI expertise. The model developed to detect missing Yorkshire pudding achieved 100% accuracy in testing.",
+    "url": "https://www.neurala.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Talk to our engineering team about what L-DNN would look like embedded in your product.",
+    "url": "https://www.neurala.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Neurala was founded in 2006 by neuroscientists whose research for NASA, DARPA, and the Air Force Research Labs led them to a simple but radical question: what if AI could learn the way biological brains do? That question became a patented technology now deployed inside enterprise products around the world.",
+    "url": "https://www.neurala.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "enterprise partners globally",
+    "url": "https://www.neurala.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "In 2013, Neurala emerged from stealth and joined the Techstars program to begin commercial deployment. Today, Neurala’s L-DNN technology is embedded inside products built by FLIR, Sony Semiconductor Solutions, IHI, and more — and we are actively working with integrators and OEM hardware companies to put L-DNN inside the next generation of intelligent products.",
+    "url": "https://www.neurala.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Neuroscientist and entrepreneur. Max led Neurala from founding through its commercial growth phase, combining deep research expertise with a hands-on approach to building the company.",
+    "url": "https://www.neurala.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Computational neuroscientist and architect of L-DNN. Anatoli leads Neurala and holds primary responsibility for the patented technology at the core of every partnership.",
+    "url": "https://www.neurala.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "To make powerful vision AI accessible — deployable on inexpensive hardware, trainable from minimal data, and embeddable in the products that people actually use.",
+    "url": "https://www.neurala.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "As Head of Research, Matt leads the development of next-generation AI technologies with a focus on edge intelligence, automated visual inspection, and adaptive learning systems. He works closely with engineering teams to bring advanced research into production, helping customers deploy efficient, high-performance AI on resource-constrained devices.",
+    "url": "https://www.neurala.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Director of Product Management",
+    "url": "https://www.neurala.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Gold — Best New Product in Social Innovation",
+    "url": "https://www.neurala.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "The Edison Awards honor significant product innovation and positive societal impact. Gold is the highest category awarded.",
+    "url": "https://www.neurala.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "100 Most Promising AI Companies",
+    "url": "https://www.neurala.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Recognizes innovations that address real-world problems at scale. Neurala honored for making vision AI accessible without requiring AI expertise.",
+    "url": "https://www.neurala.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Neurala founding leadership recognized by EY for entrepreneurial achievement in New England.",
+    "url": "https://www.neurala.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "If you’re evaluating vision AI for your product, talk to Neurala’s engineers directly. We’ll give you an honest assessment of what L-DNN can do in your environment.",
+    "url": "https://www.neurala.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Z-Trak Express 1k5",
+    "url": "https://www.teledynevisionsolutions.com/ja-jp/company/news/iis/flir-systems-and-neurala-make-deep-learning-inspection-for-the-production-line-more-accessible/",
+    "pass": 3
+   },
+   {
+    "quote": "High Speed 3D Profile Sensors",
+    "url": "https://www.teledynevisionsolutions.com/ja-jp/company/news/iis/flir-systems-and-neurala-make-deep-learning-inspection-for-the-production-line-more-accessible/",
+    "pass": 3
+   },
+   {
+    "quote": "PCI Express Gen4 Platform",
+    "url": "https://www.teledynevisionsolutions.com/ja-jp/company/news/iis/flir-systems-and-neurala-make-deep-learning-inspection-for-the-production-line-more-accessible/",
+    "pass": 3
+   },
+   {
+    "quote": "PCI Express Gen3 Platform",
+    "url": "https://www.teledynevisionsolutions.com/ja-jp/company/news/iis/flir-systems-and-neurala-make-deep-learning-inspection-for-the-production-line-more-accessible/",
+    "pass": 3
+   },
+   {
+    "quote": "Our sister company Teledyne ICM provides integrated digital portable X-ray solutions for non-destructive testing.",
+    "url": "https://www.teledynevisionsolutions.com/ja-jp/company/news/iis/flir-systems-and-neurala-make-deep-learning-inspection-for-the-production-line-more-accessible/",
+    "pass": 3
+   },
+   {
+    "quote": "Software & Firmware Downloads",
+    "url": "https://www.teledynevisionsolutions.com/ja-jp/company/news/iis/flir-systems-and-neurala-make-deep-learning-inspection-for-the-production-line-more-accessible/",
+    "pass": 3
+   },
+   {
+    "quote": "You must be logged in to download this content. Please",
+    "url": "https://www.teledynevisionsolutions.com/ja-jp/company/news/iis/flir-systems-and-neurala-make-deep-learning-inspection-for-the-production-line-more-accessible/",
+    "pass": 3
+   },
+   {
+    "quote": "Please fill out the form and a product expert will reach out to you shortly.",
+    "url": "https://www.teledynevisionsolutions.com/ja-jp/company/news/iis/flir-systems-and-neurala-make-deep-learning-inspection-for-the-production-line-more-accessible/",
+    "pass": 3
+   },
+   {
+    "quote": "Sao Tome and Principe",
+    "url": "https://www.teledynevisionsolutions.com/ja-jp/company/news/iis/flir-systems-and-neurala-make-deep-learning-inspection-for-the-production-line-more-accessible/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, email me the latest news, training and deals from Teledyne FLIR.",
+    "url": "https://www.teledynevisionsolutions.com/ja-jp/company/news/iis/flir-systems-and-neurala-make-deep-learning-inspection-for-the-production-line-more-accessible/",
+    "pass": 3
+   },
+   {
+    "quote": "Z-Trak Express 1k5",
+    "url": "https://www.teledynevisionsolutions.com/ja-jp/learn/learning-center/machine-vision/make-deep-learning-implementation-faster-easier-and-more-cost-effective/",
+    "pass": 3
+   },
+   {
+    "quote": "High Speed 3D Profile Sensors",
+    "url": "https://www.teledynevisionsolutions.com/ja-jp/learn/learning-center/machine-vision/make-deep-learning-implementation-faster-easier-and-more-cost-effective/",
+    "pass": 3
+   },
+   {
+    "quote": "PCI Express Gen4 Platform",
+    "url": "https://www.teledynevisionsolutions.com/ja-jp/learn/learning-center/machine-vision/make-deep-learning-implementation-faster-easier-and-more-cost-effective/",
+    "pass": 3
+   },
+   {
+    "quote": "PCI Express Gen3 Platform",
+    "url": "https://www.teledynevisionsolutions.com/ja-jp/learn/learning-center/machine-vision/make-deep-learning-implementation-faster-easier-and-more-cost-effective/",
+    "pass": 3
+   },
+   {
+    "quote": "Our sister company Teledyne ICM provides integrated digital portable X-ray solutions for non-destructive testing.",
+    "url": "https://www.teledynevisionsolutions.com/ja-jp/learn/learning-center/machine-vision/make-deep-learning-implementation-faster-easier-and-more-cost-effective/",
+    "pass": 3
+   },
+   {
+    "quote": "Software & Firmware Downloads",
+    "url": "https://www.teledynevisionsolutions.com/ja-jp/learn/learning-center/machine-vision/make-deep-learning-implementation-faster-easier-and-more-cost-effective/",
+    "pass": 3
+   },
+   {
+    "quote": "You must be logged in to download this content. Please",
+    "url": "https://www.teledynevisionsolutions.com/ja-jp/learn/learning-center/machine-vision/make-deep-learning-implementation-faster-easier-and-more-cost-effective/",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.flir.com/products/firefly-dl/",
+    "url": "https://www.teledynevisionsolutions.com/ja-jp/learn/learning-center/machine-vision/make-deep-learning-implementation-faster-easier-and-more-cost-effective/",
+    "pass": 3
+   },
+   {
+    "quote": "Please fill out the form and a product expert will reach out to you shortly.",
+    "url": "https://www.teledynevisionsolutions.com/ja-jp/learn/learning-center/machine-vision/make-deep-learning-implementation-faster-easier-and-more-cost-effective/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by global technology leaders",
+    "url": "https://www.neurala.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Neurala has partnered with global technology leaders to embed vision AI directly into their products — production deployments, at scale, inside products used by enterprise customers worldwide.",
+    "url": "https://www.neurala.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Production deployments, at scale, inside products used by enterprise customers worldwide.",
+    "url": "https://www.neurala.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-enhanced optical character recognition for warehouse materials handling",
+    "url": "https://www.neurala.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Through the Neurala Brain Builder platform, end users, integrators and device manufacturers now have a straightforward and inexpensive way for non-AI experts to deploy AI models to AITRIOS compatible edge sensing devices featuring the IMX500.",
+    "url": "https://www.neurala.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "View All Industrial Cameras",
+    "url": "https://www.teledynevisionsolutions.com/ja-jp/company/news/iis/flir-systems-and-neurala-make-deep-learning-inspection-for-the-production-line-more-accessible/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Custom & OEM",
+    "url": "https://www.teledynevisionsolutions.com/ja-jp/company/news/iis/flir-systems-and-neurala-make-deep-learning-inspection-for-the-production-line-more-accessible/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive Manufacturing",
+    "url": "https://www.teledynevisionsolutions.com/ja-jp/company/news/iis/flir-systems-and-neurala-make-deep-learning-inspection-for-the-production-line-more-accessible/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace Imaging Overview",
+    "url": "https://www.teledynevisionsolutions.com/ja-jp/company/news/iis/flir-systems-and-neurala-make-deep-learning-inspection-for-the-production-line-more-accessible/",
+    "pass": 3
+   },
+   {
+    "quote": "View All Industrial Cameras",
+    "url": "https://www.teledynevisionsolutions.com/ja-jp/learn/learning-center/machine-vision/make-deep-learning-implementation-faster-easier-and-more-cost-effective/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Custom & OEM",
+    "url": "https://www.teledynevisionsolutions.com/ja-jp/learn/learning-center/machine-vision/make-deep-learning-implementation-faster-easier-and-more-cost-effective/",
+    "pass": 3
+   },
+   {
+    "quote": "Automotive Manufacturing",
+    "url": "https://www.teledynevisionsolutions.com/ja-jp/learn/learning-center/machine-vision/make-deep-learning-implementation-faster-easier-and-more-cost-effective/",
+    "pass": 3
+   },
+   {
+    "quote": "Aerospace Imaging Overview",
+    "url": "https://www.teledynevisionsolutions.com/ja-jp/learn/learning-center/machine-vision/make-deep-learning-implementation-faster-easier-and-more-cost-effective/",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Neurala",
+    "url": "https://www.casestudies.com/customer/neurala",
+    "pass": 3
+   },
+   {
+    "quote": "Neurala - Customer Case Study",
+    "url": "https://www.casestudies.com/customer/neurala",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Privacy in Neurala is architectural, not a configuration option. Image data is processed and stored locally by design. It never touches an external server. For OEM partners in regulated or security-sensitive industries, this is a hard requirement. Neurala meets it without compromise.",
+    "url": "https://www.neurala.com/",
+    "pass": 1
+   },
+   {
+    "quote": "In 2013, Neurala emerged from stealth and joined the Techstars program to begin commercial deployment. Today, Neurala’s L-DNN technology is embedded inside products built by FLIR, Sony Semiconductor Solutions, IHI, and more — and we are actively working with integrators and OEM hardware companies to put L-DNN inside the next generation of intelligent products.",
+    "url": "https://www.neurala.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Custom & OEM",
+    "url": "https://www.teledynevisionsolutions.com/ja-jp/company/news/iis/flir-systems-and-neurala-make-deep-learning-inspection-for-the-production-line-more-accessible/",
+    "pass": 3
+   },
+   {
+    "quote": "Scientific Custom & OEM",
+    "url": "https://www.teledynevisionsolutions.com/ja-jp/company/news/iis/flir-systems-and-neurala-make-deep-learning-inspection-for-the-production-line-more-accessible/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Custom & OEM",
+    "url": "https://www.teledynevisionsolutions.com/ja-jp/learn/learning-center/machine-vision/make-deep-learning-implementation-faster-easier-and-more-cost-effective/",
+    "pass": 3
+   },
+   {
+    "quote": "Scientific Custom & OEM",
+    "url": "https://www.teledynevisionsolutions.com/ja-jp/learn/learning-center/machine-vision/make-deep-learning-implementation-faster-easier-and-more-cost-effective/",
+    "pass": 3
+   },
+   {
+    "quote": "ディープラーニングは、複雑で主観的な意思決定を素早く自動化したいマシンビジョンエンジニアやOEMシステム設計者にとって強力なツールとなります",
+    "url": "https://www.teledynevisionsolutions.com/ja-jp/learn/learning-center/machine-vision/make-deep-learning-implementation-faster-easier-and-more-cost-effective/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Yes, email me the latest news, training and deals from Teledyne FLIR.",
+    "url": "https://www.teledynevisionsolutions.com/ja-jp/company/news/iis/flir-systems-and-neurala-make-deep-learning-inspection-for-the-production-line-more-accessible/",
+    "pass": 3
+   },
+   {
+    "quote": "Yes, email me the latest news, training and deals from Teledyne FLIR.",
+    "url": "https://www.teledynevisionsolutions.com/ja-jp/learn/learning-center/machine-vision/make-deep-learning-implementation-faster-easier-and-more-cost-effective/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Vision AI engineered for your product - Neurala — We package Neurala’s L-DNN into a software library built specifically for your environment. This isn’t configuration — it’s engineering. The output is a tailored integration that fits your product exactly.",
+    "url": "https://www.neurala.com/",
+    "pass": 3
+   },
+   {
+    "quote": "FLIR SystemsとNeuralaは生産ライン向けのディープラーニング検査をよ... — AIの専門知識を持たない人を支援し、生産ラインにディープラーニング検査を導入する際の複雑さとコストを削減するため、FLIR SystemsはNeuralaと協力して、完全なサポート付きのソフトウェアとハードウェアのソリューションを開発しました。",
+    "url": "https://www.teledynevisionsolutions.com/ja-jp/company/news/iis/flir-systems-and-neurala-make-deep-learning-inspection-for-the-production-line-more-accessible/",
+    "pass": 3
+   },
+   {
+    "quote": "Teledyne FLIRとNeuralaが協力して、どのようにディープラーニングの... — このような問題を解決するためにFLIR SystemsはNeuralaと協力して、非熟練者のためのエンド・ツー・エンドの開発や導入ソリューションを提供しています。 当社の費用対効果に優れたこのソリューションでは、必要なデータ量を大幅に削減して対応できます。",
+    "url": "https://www.teledynevisionsolutions.com/ja-jp/learn/learning-center/machine-vision/make-deep-learning-implementation-faster-easier-and-more-cost-effective/",
+    "pass": 3
+   },
+   {
+    "quote": "Neuralaが業界初のIndustry 4.0対応AI搭載産業用カメラを提供すべくフ... — Mar 29, 2021 · 今回の協業を通じ、Neuralaとフリアーは、生産ラインで深層学習機能を導入したい顧客に、以前にも増して迅速で費用効果の高いエントリー ...",
+    "url": "https://www.businesswire.com/news/home/20210329005622/ja",
+    "pass": 3
+   },
+   {
+    "quote": "Vision AI engineered for your product - Neurala — Neurala is delivered as a software library engineered to fit your specific stack. It works with your existing hardware, your existing pipeline, and your existing team without requiring you to rebuild around it.",
+    "url": "https://www.neurala.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Neurala | LinkedIn — Neurala is a pioneer in AI-powered quality inspection software. Neurala leverages its proprietary AI platform to empower companies to automate visual inspections. Manufacturers around the world...",
+    "url": "https://jp.linkedin.com/company/neurala",
+    "pass": 3
+   },
+   {
+    "quote": "The team behind L-DNN™ vision AI technology - Neurala — At Neurala, he has helped develop core computer vision software infrastructure and build high-performing engineering teams. Outside work, JR enjoys time with his wife and three daughters, board games, and volunteering as an audio/video engineer at his church.",
+    "url": "https://www.neurala.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Neurala Uses Software & Services — Explore case studies featuring Neurala as the customer — learn how vendors and partners helped Neurala solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/neurala",
+    "pass": 3
+   },
+   {
+    "quote": "Vision AI deployed inside enterprise products - Neurala — Through the Neurala Brain Builder platform, end users, integrators and device manufacturers now have a straightforward and inexpensive way for non-AI experts to deploy AI models to AITRIOS compatible edge sensing devices featuring the IMX500.",
+    "url": "https://www.neurala.com/customers/",
+    "pass": 3
+   },
+   {
+    "quote": "Vision AI engineered for your product - Neurala — Neurala has partnered with global technology leaders to embed vision AI directly into their products — production deployments, at scale, inside products used by enterprise customers worldwide.",
+    "url": "https://www.neurala.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Neurala – Estimated Net Worth, Growth & Competitor Overview – … — Neurala's estimated revenue per employee stands at $235.1K. Neurala has raised a total of $32.1M in funding. Neurala currently has a workforce of over 30+. Neurala reduced its employee count by 23% last year. Neurala operates in a competitive market alongside 5 tracked alternatives.",
+    "url": "https://compworth.com/company/neurala",
+    "pass": 3
+   },
+   {
+    "quote": "Neurala 2026 Company Profile: Valuation, Funding & Investors ...Neurala Information - RocketReachNeurala - 2026 Company Profile, Funding & Competitors - TracxnAnnual Revenue, Growth & Competitor Analysis Report for ...Neurala Biosciences 2026 Company Profile: Valuation, Funding ...Neurala - Overview, News & Similar companies | ZoomInfo.com — Information on valuation, funding, cap tables, investors",
+    "url": "https://pitchbook.com/profiles/company/57127-60",
+    "pass": 3
+   },
+   {
+    "quote": "Neurala Information - RocketReachNeurala - 2026 Company Profile, Funding & Competitors - TracxnAnnual Revenue, Growth & Competitor Analysis Report for ...Neurala Biosciences 2026 Company Profile: Valuation, Funding ...Neurala - Overview, News & Similar companies | ZoomInfo.com — Neurala is an Artificial Intelligence, Software, and Drones company located in Boston, Massachusetts with $8 million in ",
+    "url": "https://rocketreach.co/neurala-profile_b5ec93f7f42e7c33",
+    "pass": 3
+   },
+   {
+    "quote": "Neurala - 2026 Company Profile, Funding & Competitors - TracxnAnnual Revenue, Growth & Competitor Analysis Report for ...Neurala Biosciences 2026 Company Profile: Valuation, Funding ...Neurala - Overview, News & Similar companies | ZoomInfo.com — Aug 8, 2026 · Neurala is a series C company based in Boston (United States), founded in 2006. It operates as a Developer of vision artificial intelligenc",
+    "url": "https://tracxn.com/d/companies/neurala/__OCLAqwtz09Ms5Pw0h_4EGJIcplleLZxDkpAdmgCtFjw",
+    "pass": 3
+   },
+   {
+    "quote": "Annual Revenue, Growth & Competitor Analysis Report for ...Neurala Biosciences 2026 Company Profile: Valuation, Funding ...Neurala - Overview, News & Similar companies | ZoomInfo.com — Oct 12, 2026 · Neurala is classified as operating in the Custom Computer Programming & Software Development Services industry, NAICS Code 541511. Note: Neurala's revenues are gauged from an analysis of company filin",
+    "url": "https://incfact.com/company/neurala-boston-ma/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Neurala (@Neurala) / Posts / X Neurala’s always-on, low-power, continuously learning AI is changing the game! Unlike traditional models, this AI adapts in real time without relying on the cloud.",
+    "url": "https://x.com/neurala",
+    "pass": 3
+   },
+   {
+    "quote": "Neurala (@NeuralaAI) / X Your creative artificial intelligence development studio. Neurala is specialized in software development, data science and artificial intelligence. 🧠",
+    "url": "https://x.com/NeuralaAI",
+    "pass": 3
+   },
+   {
+    "quote": "Neurala Biosciences (@NeuralaBio) / Posts / X We’re thrilled to announce that Neurala Biosciences has been named a finalist for Best Newcomer at the Governor of Victoria Startup Awards by LaunchVic! It’s an honour to be recognised alongside some of Victoria’s most innovative and impactful startups.",
+    "url": "https://x.com/NeuralaBio",
+    "pass": 3
+   },
+   {
+    "quote": "Neurala on X: \"Read the Neurala VIA use cases and learn about ... Read the Neurala VIA use cases and learn about the versatility of our Vision Inspection software #quality #AI #mfg #industry40 #electonic #pcba #surfaceinspection #plastics https://t.co/0JgXSXMice",
+    "url": "https://x.com/Neurala/status/1357741940658196483",
+    "pass": 3
+   },
+   {
+    "quote": "Neurala (@Neurala) / Posts / X Apr 4, 2012 · Neurala’s always-on, low-power, continuously learning AI is changing the game! Unlike traditional models, this AI adapts in real time without relying on the cloud.",
+    "url": "https://x.com/neurala",
+    "pass": 3
+   },
+   {
+    "quote": "Neurala (@NeuralaAI) / X Feb 27, 2023 · Your creative artificial intelligence development studio. Neurala is specialized in software development, data science and artificial intelligence. 🧠",
+    "url": "https://x.com/NeuralaAI",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Neurala - LinkedIn Neurala is a pioneer in AI-powered quality inspection software. | Neurala leverages its proprietary AI platform to empower companies to automate visual inspections.",
+    "url": "https://www.linkedin.com/company/neurala/",
+    "pass": 3
+   },
+   {
+    "quote": "Neurala Biosciences - LinkedIn Neurala Biosciences | 575 followers on LinkedIn. We develop innovative pharmaceutical grade DMT-based medicines and therapies aiming to transform the lives of those facing some of the most ...",
+    "url": "https://www.linkedin.com/company/neurala-biosciences",
+    "pass": 3
+   },
+   {
+    "quote": "Neurala Vision | LinkedIn Soluções avançadas em visão industrial e automação, com foco em precisão, confiabilidade e engenharia especializada. | Neurala Vision é uma empresa especializada em soluções avançadas de inspeção...",
+    "url": "https://br.linkedin.com/company/neurala-vision",
+    "pass": 3
+   },
+   {
+    "quote": "Daniel Perkins - CEO & Co-Founder at Neurala Biosciences ...Heather Ames - Co Founder and COO Neurala | LinkedInAnatoli Gorchet - Co-Founder, CEO, and CTO at Neurala | LinkedInNeurala VIA - LinkedIn Daniel is CEO of Neurala Biosciences, a University of Melbourne spin-out developing DMT-harmala therapeutics as registered treatments for mental health and addiction. Dr. Heather Ames Versace, co-found",
+    "url": "https://au.linkedin.com/in/daniel-perkins-4806631b0",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Neurala | Boston MA - FacebookIf you haven’t seen Neurala VIA at #automate2025 no worries ...Neurala - Neurala's Brains4Bots™ software can assist both ...Neurula Technologies | Abu Dhabi - FacebookNeurala - Read about our latest funding round - Neurala ...Inception Spotlight: AI Startup Neurala Sees 7X Speedup with ...Robotics News - Neurala is the company behind The Neurala ... May 14, 2025 · Neu",
+    "url": "https://www.facebook.com/Neurala/",
+    "pass": 3
+   },
+   {
+    "quote": "If you haven’t seen Neurala VIA at #automate2025 no worries ... May 13, 2025 · If you haven’t seen Neurala VIA at #automate2025 no worries. You have until Thursday to visit booth 8534 and see a live demonstration of our vision...",
+    "url": "https://www.facebook.com/Neurala/videos/if-you-havent-seen-neurala-via-at-automate2025-no-worries-you-have-until-thursda/3985769265075352/",
+    "pass": 3
+   },
+   {
+    "quote": "Neurala - Neurala's Brains4Bots™ software can assist both ... Oct 23, 2017 · Neurala's Brains4Bots™ software can assist both during flight and after the flight for faster and more accurate inspections. See how here:",
+    "url": "https://www.facebook.com/Neurala/posts/neuralas-brains4bots-software-can-assist-both-during-flight-and-after-the-flight/2203593769781663/",
+    "pass": 3
+   },
+   {
+    "quote": "Neurala - Read about our latest funding round - Neurala ... Aug 4, 2021 · Read about our latest funding round - Neurala Raises $12 Million to Scale Artificial Intelligence for Industrial Manufacturing #AI #manufacturing...",
+    "url": "https://www.facebook.com/Neurala/posts/read-about-our-latest-funding-round-neurala-raises-12-million-to-scale-artificia/3432051136935914/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.neurala.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neurala.com/customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.neurala.com/about/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A9%E3%83%AA%E3%83%B3%E3%82%AF",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teledynevisionsolutions.com/ja-jp/company/news/iis/flir-systems-and-neurala-make-deep-learning-inspection-for-the-production-line-more-accessible/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.teledynevisionsolutions.com/ja-jp/learn/learning-center/machine-vision/make-deep-learning-implementation-faster-easier-and-more-cost-effective/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/contract/basic/8378/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/neurala",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://neuraldsp.com/store-locator/japan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/neurala",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/deep-learning-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://upcloud.com/global/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/neurala",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/57127-60",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://rocketreach.co/neurala-profile_b5ec93f7f42e7c33",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/neurala/__OCLAqwtz09Ms5Pw0h_4EGJIcplleLZxDkpAdmgCtFjw",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/neurala",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/NeuralaAI",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/NeuralaBio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Neurala/status/1357741940658196483",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/neurala/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/neurala-biosciences",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://br.linkedin.com/company/neurala-vision",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://au.linkedin.com/in/daniel-perkins-4806631b0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Neurala/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Neurala/videos/if-you-havent-seen-neurala-via-at-automate2025-no-worries-you-have-until-thursda/3985769265075352/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Neurala/posts/neuralas-brains4bots-software-can-assist-both-during-flight-and-after-the-flight/2203593769781663/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Neurala/posts/read-about-our-latest-funding-round-neurala-raises-12-million-to-scale-artificia/3432051136935914/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/neurala",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/NeuralaAI",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Neurala 日本 導入",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ニューラリンク",
+    "https://www.neurala.com/",
+    "https://www.teledynevisionsolutions.com/ja-jp/company/news/iis/flir-systems-and-neurala-make-deep-learning-inspection-for-the-production-line-more-accessible/",
+    "https://www.teledynevisionsolutions.com/ja-jp/learn/learning-center/machine-vision/make-deep-learning-implementation-faster-easier-and-more-cost-effective/",
+    "https://www.businesswire.com/news/home/20210329005622/ja",
+    "https://forbesjapan.com/articles/detail/77977",
+    "https://aifriends.jp/frontia-national-physical-ai-project-japan/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Neurala 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://ejje.weblio.jp/content/総代理店",
+    "https://note.com/diriten/n/n1b67fea48b89",
+    "https://prtimes.jp/main/html/rd/p/000000687.000032317.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Neurala Japan",
+   "results": [
+    "https://www.neurala.com/",
+    "https://jp.linkedin.com/company/neurala",
+    "https://www.neurala.com/about/",
+    "https://neuraldsp.com/store-locator/japan",
+    "https://en.neural.co.jp/",
+    "https://www.neural-group.com/en/",
+    "https://neuraldsp.jp/",
+    "https://www.neurala.co/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Neurala manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/customer/neurala",
+    "https://www.neurala.com/customers/",
+    "https://digitaldefynd.com/IQ/deep-learning-case-studies/",
+    "https://www.neurala.com/",
+    "https://www.casestudies.com/company/neural-concept",
+    "https://www.arcweb.com/industry-best-practices/how-neural-manufacturing-process-industries-fosters-intelligent-business",
+    "https://www.neuralconcept.com/customer-stories"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Neurala white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://upcloud.com/partner-program/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.thenationalcouncil.org/get-involved/partner-with-us/partnership-program/",
+    "https://nebius.com/nebius-partner-program"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Neurala founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/neurala",
+    "https://pitchbook.com/profiles/company/57127-60",
+    "https://rocketreach.co/neurala-profile_b5ec93f7f42e7c33",
+    "https://tracxn.com/d/companies/neurala/__OCLAqwtz09Ms5Pw0h_4EGJIcplleLZxDkpAdmgCtFjw",
+    "https://incfact.com/company/neurala-boston-ma/",
+    "https://pitchbook.com/profiles/company/539946-10",
+    "https://www.zoominfo.com/c/neurala-inc/347935130"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Neurala",
+   "results": [
+    "https://note.com/diparururun",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/hashtag/edh",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/cute_willet990/n/n9529041a97d7",
+    "https://note.com/spaceygoblin/n/n0f0677188638"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Neurala",
+   "results": [
+    "https://x.com/neurala",
+    "https://x.com/NeuralaAI",
+    "https://x.com/NeuralaBio",
+    "https://x.com/Neurala/status/1357741940658196483",
+    "https://x.com/",
+    "https://x.com/TheM1project",
+    "https://x.com/itscelyunique/status/2117839228826521620"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Neurala",
+   "results": [
+    "https://www.linkedin.com/company/neurala/",
+    "https://www.linkedin.com/company/neurala-biosciences",
+    "https://br.linkedin.com/company/neurala-vision",
+    "https://au.linkedin.com/in/daniel-perkins-4806631b0",
+    "https://www.linkedin.com/in/heather-ames-58bb487",
+    "https://www.linkedin.com/in/anatoli-gorchet-427a0720",
+    "https://www.linkedin.com/products/neurala-via"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Neurala",
+   "results": [
+    "https://www.facebook.com/Neurala/",
+    "https://www.facebook.com/Neurala/videos/if-you-havent-seen-neurala-via-at-automate2025-no-worries-you-have-until-thursda/3985769265075352/",
+    "https://www.facebook.com/Neurala/posts/neuralas-brains4bots-software-can-assist-both-during-flight-and-after-the-flight/2203593769781663/",
+    "https://www.facebook.com/Neurala/posts/read-about-our-latest-funding-round-neurala-raises-12-million-to-scale-artificia/3432051136935914/",
+    "https://www.facebook.com/NVIDIAAI/videos/inception-spotlight-ai-startup-neurala-sees-7x-speedup-with-ngc/2353019551477303/",
+    "https://www.facebook.com/100081745608515/posts/neurala-is-the-company-behind-the-neurala-brain-a-deep-learning-neural-network-s/1535339456531261/",
+    "https://www.facebook.com/NeurulaTechnologies/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Neurala note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.com/koala_president",
+    "https://www.linkedin.com/in/anatoli-gorchet-427a0720",
+    "https://diamond.jp/articles/-/388572"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Neurala X 投稿",
+   "results": [
+    "https://x.com/neurala",
+    "https://x.com/NeuralaAI",
+    "https://www.neurala.com/",
+    "https://www.neurala.co/",
+    "https://www.neurala.com/news-press/",
+    "https://www.instagram.com/neurala/",
+    "https://x-sou.com/ja/u/hotspring_girls/2101182208254075172"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部33頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部33頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部33頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部33頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部33頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部33頁・検索12回）",
+  "規模・親会社": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部33頁・検索12回）"
+ }
+}

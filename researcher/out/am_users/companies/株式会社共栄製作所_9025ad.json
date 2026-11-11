@@ -1,0 +1,647 @@
+{
+ "name": "株式会社共栄製作所",
+ "aliases": [],
+ "context": "ipros_all:多品種",
+ "researched_at": "2026-11-11T11:41:41.432244+00:00",
+ "official_url": "http://sakucity-icc.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒385-0051 長野県佐久市中込3361",
+    "url": "https://sakucity-industrialpark.com/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "主な事業",
+    "value": "印刷機のデリバリーユニットの完成品製造、巻線機、精密産業機械の製造",
+    "url": "https://sakucity-industrialpark.com/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "「既製品ではサイズが合わない」「愛車やバイクに世界で一つのパーツをつけたい」「お気に入りのアイアン家具を作りたい」",
+    "url": "http://kyouei-factory.com/service.html",
+    "pass": 3
+   },
+   {
+    "quote": "「既製品ではサイズが合わない」「愛車やバイクに世界で一つのパーツをつけたい」「お気に入りのアイアン家具を作りたい」",
+    "url": "http://kyouei-factory.com/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "大量生産の時代から多品種小ロット生産にいち早く切り替えを行い、複雑形状の工程数が掛かる製品を精度良くそしてより早く加工するために5軸制御マシニングや複合加工機の導入を行っております",
+    "url": "https://www.kyoei-seisakusyo.jp/jigyou1.html",
+    "pass": 3
+   },
+   {
+    "quote": "3次元測定器をはじめとした検査体制も整えており、加工から検査まで一貫した工程管理を行うことでお客様にご満足いただける高品質な製品をお届けします",
+    "url": "https://www.kyoei-seisakusyo.jp/jigyou1.html",
+    "pass": 3
+   },
+   {
+    "quote": "継ぎ手・シャフト・ベアリングなど、製品の加工事例を動画と参考寸法付きで掲載しています",
+    "url": "https://www.kyoei-seisakusyo.jp/jigyou1.html",
+    "pass": 3
+   },
+   {
+    "quote": "初のオリジナル製品「KSハンガー」・「ストッパー付高ナット」を開設し全国販売をする",
+    "url": "https://www.ke-ss.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社製品や事業内容に関するお問合せはこちらからお願いいたします",
+    "url": "https://kyouei.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "細かい部分に技術力が発揮され、その結晶として唯一無二の製品が完成するのだ",
+    "url": "https://note.com/mobio_osaka/n/nc19f5da6de70",
+    "pass": 3
+   },
+   {
+    "quote": "広さ・天井高ともに十分なスペースが確保できたことで、防音BOXのような大物製品の製造も可能になった",
+    "url": "https://note.com/mobio_osaka/n/nc19f5da6de70",
+    "pass": 3
+   },
+   {
+    "quote": "「よく驚かれるんですが、うちは他メーカーの製品でもバランシング調整や修理・メンテナンスを請け負います",
+    "url": "https://note.com/mobio_osaka/n/nc19f5da6de70",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "完全なCAD図面がない構想段階や、手書きのスケッチからでも長年の知見を活かして最適な形状・材質・加工方法をご提案",
+    "url": "http://kyouei-factory.com/service.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | 共栄製作所 | プレス加工・樹脂成形・組立・金型の一貫生産",
+    "url": "https://kyouei.com/contact/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "業務内容｜鉄加工・肉盛り補修・製缶・小ロット試作 | 有限会社共栄製作所",
+    "url": "http://kyouei-factory.com/service.html",
+    "pass": 3
+   },
+   {
+    "quote": "試作1個OK",
+    "url": "http://kyouei-factory.com/service.html",
+    "pass": 3
+   },
+   {
+    "quote": "手書きポンチ絵・試作1個から",
+    "url": "http://kyouei-factory.com/service.html",
+    "pass": 3
+   },
+   {
+    "quote": "「現物合わせでの部材製作」「小ロット・試作1点もの」「破損パーツの修理・復元溶接」など、現場の様々なお悩みに柔軟にお応えします",
+    "url": "http://kyouei-factory.com/service.html",
+    "pass": 3
+   },
+   {
+    "quote": "試作1点・小ロット・特注品に迅速対応",
+    "url": "http://kyouei-factory.com/service.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業用機械の大型架台からプラント配管、建築金物、各種修理・試作まで",
+    "url": "http://kyouei-factory.com/service.html",
+    "pass": 3
+   },
+   {
+    "quote": "重機用アタッチメントの補強溶接、車両用サブフレーム、特注ブラケットなど強度を要する厚板溶接",
+    "url": "http://kyouei-factory.com/service.html",
+    "pass": 3
+   },
+   {
+    "quote": "コンベアフレーム、工場内特注ラック、高耐候性パレット、頑丈な作業台や台車の設計・溶接製作",
+    "url": "http://kyouei-factory.com/service.html",
+    "pass": 3
+   },
+   {
+    "quote": "手書きスケッチからの1点物試作、摩耗・亀裂の入った金属パーツの溶接肉盛り、構造物の改造補修",
+    "url": "http://kyouei-factory.com/service.html",
+    "pass": 3
+   },
+   {
+    "quote": "ワンオフのマフラーブラケット、特注ステー、補強プレート、ドレスアップパーツなど、こだわりに応じた高精度な金属加工",
+    "url": "http://kyouei-factory.com/service.html",
+    "pass": 3
+   },
+   {
+    "quote": "室内の特注アイアン手すり、テーブルの脚（アイアンレッグ）、オープンシェルフのフレーム、オーダー表札など",
+    "url": "http://kyouei-factory.com/service.html",
+    "pass": 3
+   },
+   {
+    "quote": "鉄加工・手溶接・試作なら有限会社共栄製作所 | 茨城県結城市",
+    "url": "http://kyouei-factory.com/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "鉄素材、歪みの制御、1点ものの試作から修理・復元まで幅広く承ります",
+    "url": "http://kyouei-factory.com/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "試作1個・持ち込み修理OK",
+    "url": "http://kyouei-factory.com/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "試作1個・即日・短納期相談",
+    "url": "http://kyouei-factory.com/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "産業用機械の大型架台からプラント配管、建築金物、各種修理・試作まで",
+    "url": "http://kyouei-factory.com/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "重機用アタッチメントの補強溶接、車両用サブフレーム、特注ブラケットなど強度を要する厚板溶接",
+    "url": "http://kyouei-factory.com/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "コンベアフレーム、工場内特注ラック、高耐候性パレット、頑丈な作業台や台車の設計・溶接製作",
+    "url": "http://kyouei-factory.com/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "手書きスケッチからの1点物試作、摩耗・亀裂の入った金属パーツの溶接肉盛り、構造物の改造補修",
+    "url": "http://kyouei-factory.com/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ワンオフのマフラーブラケット、特注ステー、補強プレート、ドレスアップパーツなど、こだわりに応じた高精度な金属加工",
+    "url": "http://kyouei-factory.com/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "室内の特注アイアン手すり、テーブルの脚（アイアンレッグ）、オープンシェルフのフレーム、オーダー表札など",
+    "url": "http://kyouei-factory.com/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "多品種小ロットの精密部品加工・金属加工｜共栄製作所",
+    "url": "https://www.kyoei-seisakusyo.jp/jigyou1.html",
+    "pass": 3
+   },
+   {
+    "quote": "大量生産の時代から多品種小ロット生産にいち早く切り替えを行い、複雑形状の工程数が掛かる製品を精度良くそしてより早く加工するために5軸制御マシニングや複合加工機の導入を行っております",
+    "url": "https://www.kyoei-seisakusyo.jp/jigyou1.html",
+    "pass": 3
+   },
+   {
+    "quote": "■様々な場所・用途で使われる送風機をオーダーメイドで製作",
+    "url": "https://note.com/mobio_osaka/n/nc19f5da6de70",
+    "pass": 3
+   },
+   {
+    "quote": "同社ではユーザーの要望に合わせて、一つひとつオーダーメイドで設計・製作を行っている",
+    "url": "https://note.com/mobio_osaka/n/nc19f5da6de70",
+    "pass": 3
+   },
+   {
+    "quote": "こちらも継承してきた職人の技術に加え、コンピュータを搭載した新しい機械の導入により、小ロット～大ロットに対応できる体制を整えている",
+    "url": "https://note.com/mobio_osaka/n/nc19f5da6de70",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "自動化ロボットでは追従できない複雑な立体形状や歪みが出やすい薄板加工まで、職人の目と手で最適な熱量をコントロール",
+    "url": "http://kyouei-factory.com/service.html",
+    "pass": 3
+   },
+   {
+    "quote": "重機用アタッチメントの補強溶接、車両用サブフレーム、特注ブラケットなど強度を要する厚板溶接",
+    "url": "http://kyouei-factory.com/service.html",
+    "pass": 3
+   },
+   {
+    "quote": "ワンオフのマフラーブラケット、特注ステー、補強プレート、ドレスアップパーツなど、こだわりに応じた高精度な金属加工",
+    "url": "http://kyouei-factory.com/service.html",
+    "pass": 3
+   },
+   {
+    "quote": "自動ロボットでは追従できない複雑形状や、入熱による金属歪みを職人の経験と技術で最小限に抑え、高精度に仕上げます",
+    "url": "http://kyouei-factory.com/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "重機用アタッチメントの補強溶接、車両用サブフレーム、特注ブラケットなど強度を要する厚板溶接",
+    "url": "http://kyouei-factory.com/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ワンオフのマフラーブラケット、特注ステー、補強プレート、ドレスアップパーツなど、こだわりに応じた高精度な金属加工",
+    "url": "http://kyouei-factory.com/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | 共栄製作所 | プレス加工・樹脂成形・組立・金型の一貫生産",
+    "url": "https://kyouei.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "左／自動車の車速実験用エンジン冷却ファン 右／ターボファン",
+    "url": "https://note.com/mobio_osaka/n/nc19f5da6de70",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "業務内容｜鉄加工・肉盛り補修・製缶・小ロット試作 | 有限会社共栄製... — 共栄製作所の業務内容をご紹介します。 長年の職人技による手溶接を中心に、精密な製缶加工、機械部品や金型の肉盛り補修、試作品の1点モノ製作まで幅広く対応。 用途に合わせた最適な高品質溶接加工をご提供します。",
+    "url": "http://kyouei-factory.com/service.html",
+    "pass": 3
+   },
+   {
+    "quote": "鉄加工・手溶接・試作なら有限会社共栄製作所 | 茨城県結城市 — 茨城県結城市の有限会社共栄製作所は、鉄加工、手溶接、製缶、試作を小ロット1個から承ります。 図面なしの手書きスケッチからの製作や、他社で断られた特急対応・肉盛り補修もお任せください。",
+    "url": "http://kyouei-factory.com/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "小ロット生産 – 株式会社共栄製作所 — 2022.07.25. 小ロット生産",
+    "url": "https://kyoei-ss.jp/works/小ロット生産/",
+    "pass": 3
+   },
+   {
+    "quote": "共栄製作所 事業内容 - kyoei-seisakusyo.jp — 会社案内 経営理念 ご挨拶 会社概要 会社沿革 事業案内 事業内容 機械加工 機械設備 MOVIE 製品事例 MAP 事業所所在地 採用情報 採用について 新卒者の方へ 中途採用 お問い合わせ お問い合わせ先 共栄製作所 © 2026 Kyoei Seisakusyo Co., Ltd. プライバシーポリシー",
+    "url": "https://www.kyoei-seisakusyo.jp/jigyou1.html",
+    "pass": 3
+   },
+   {
+    "quote": "共栄製作所 会社概要 - kyoei-seisakusyo.jp — 会社案内 経営理念 ご挨拶 会社概要 会社沿革 事業案内 事業内容 機械加工 機械設備 MOVIE 製品事例 MAP 事業所所在地 採用情報 採用について 新卒者の方へ 中途採用 お問い合わせ お問い合わせ先 共栄製作所 © 2026 Kyoei Seisakusyo Co., Ltd. プライバシーポリシー",
+    "url": "http://www.kyoei-seisakusyo.jp/kaisyaan3.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 共栄製作所株式会社 — 会社概要 社名 共栄製作所株式会社 所在地 〒933-0959 富山県高岡市長江550-1 TEL 0766-",
+    "url": "https://www.ke-ss.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社共栄製作所:プラスチック樹脂の加工製作所･東京都 — 企業理念 共栄製作所は1976年の創立以来【優れた技術と確かな実績で先端技術の発展に貢献する】をモットーに 常に皆様に信頼される高精度、高品質な製品を作り続けてまいりました。 現在、我が国に世界に誇る産業として日々めざましい進歩を続ける医療機器、通信機器、計測機器、半導体 ...",
+    "url": "http://kyoei-jp.com/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 | 共栄製作所 | プレス加工・樹脂成形・組立・金型の一貫生... — 必要とされるモノが変化し多様化する社会で、共に生き、共に栄える。 「共存共栄」の精神とグローバルな事業展開で、社員一丸となり技術革新に取り組み、共栄グループはさらなる飛躍を目指します。 代表取締役 髙林俊康",
+    "url": "https://kyouei.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | 共栄製作所 | プレス加工・樹脂成形・組立・金型の一... — 弊社製品や事業内容に関するお問合せはこちらからお願いいたします。 お気軽にお問合せください。 お問い合わせ内容を下記メールフォームにご入力後、「入力内容の確認」ボタンをクリックしてください。",
+    "url": "https://kyouei.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | 株式会社共栄製作所 — Jun 9, 2021 · 〒257-0031 神奈川県秦野市曽屋114 TEL：0463-81-4347 FAX：0463-83-0838 Access map ホーム 製品紹介 製造方法 ご挨拶 SDGsの取り組み 企業情報 採用情報 お問い合わせ",
+    "url": "https://kyoei-seisakusho.co.jp/mailform/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ – 株式会社 共栄製作所 — 会社名 氏名 電話番号 メールアドレス お問い合わせ内容 メッセージ本文",
+    "url": "https://kyoei-works.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | 共栄製作所 — 株式会社 共栄製作所 〒627-0041 京都府京丹後市峰山町菅310番地 TEL.0772-62-0175 FAX.0772-62-6646 プライバシーポリシー ⓒ 2021 株式会社 共栄製作所",
+    "url": "https://k-kyoeiss.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ – 株式会社共栄製作所 — お問い合わせ CONTACT 下記フォームに必要事項をご入力の上、確認ボタンを押して確認後、送信ください。 担当者にて確認後、メールもしくはお電話にてご連絡いたします。",
+    "url": "https://kyoei-ss.jp/contact/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "メール・FAXからのご注文は24時間受け付けております",
+    "url": "https://www.ke-ss.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | 共栄製作所 | プレス加工・樹脂成形・組立・金型の一貫生産",
+    "url": "https://kyouei.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ内容を下記メールフォームにご入力後、「入力内容の確認」ボタンをクリックしてください",
+    "url": "https://kyouei.com/contact/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "次世代を育て、送風機づくりで日本の産業を支える。｜MOBIO（ものづく... Jan 9, 2025 · 株式会社共栄製作所 代表取締役 北野 静香 氏 様々な場所・用途で使われる送風機をオーダーメイドで製作 送風機といえば、「ファンが回転して風を起こすもの」という認識は誰もがお持ちだろう。 では、それらはどんなところで使われているのだろうか。",
+    "url": "https://note.com/mobio_osaka/n/nc19f5da6de70",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "金属の線材を平面から立体曲げ加工まで、長年の技術ノウハウと加工設備で意志を持たない素材に命を吹き込まれるように造形されている同社",
+    "url": "https://note.com/mobio_osaka/n/nc19f5da6de70",
+    "pass": 3
+   },
+   {
+    "quote": "ニーズの多様化が進み、加えてコロナ禍で社会生活が一変し、個人の意識も変革してきた状況下、若い人の新たな発想力の活用とネットという手法を組み合わせ、この「造形美術品」のような線材曲げ加工品が、様々な分野で活躍をする場を拡げたいと熱く語っていただきました",
+    "url": "https://note.com/mobio_osaka/n/nc19f5da6de70",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "次世代を育て、送風機づくりで日本の産業を支える。｜MOBIO（ものづくりビジネスセンター大阪）公式note",
+    "url": "https://note.com/mobio_osaka/n/nc19f5da6de70",
+    "pass": 3
+   },
+   {
+    "quote": "次世代を育て、送風機づくりで日本の産業を支える。",
+    "url": "https://note.com/mobio_osaka/n/nc19f5da6de70",
+    "pass": 3
+   },
+   {
+    "quote": "MOBIO（ものづくりビジネスセンター大阪）公式note",
+    "url": "https://note.com/mobio_osaka/n/nc19f5da6de70",
+    "pass": 3
+   },
+   {
+    "quote": "※この記事は、2022年7月7日に取材した内容です。",
+    "url": "https://note.com/mobio_osaka/n/nc19f5da6de70",
+    "pass": 3
+   },
+   {
+    "quote": "■様々な場所・用途で使われる送風機をオーダーメイドで製作",
+    "url": "https://note.com/mobio_osaka/n/nc19f5da6de70",
+    "pass": 3
+   },
+   {
+    "quote": "送風機といえば、「ファンが回転して風を起こすもの」という認識は誰もがお持ちだろう。",
+    "url": "https://note.com/mobio_osaka/n/nc19f5da6de70",
+    "pass": 3
+   },
+   {
+    "quote": "では、それらはどんなところで使われているのだろうか。",
+    "url": "https://note.com/mobio_osaka/n/nc19f5da6de70",
+    "pass": 3
+   },
+   {
+    "quote": "創業54年の送風機メーカー、株式会社共栄製作所の代表取締役 北野 静香 氏は、",
+    "url": "https://note.com/mobio_osaka/n/nc19f5da6de70",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://sakucity-industrialpark.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "http://kyouei-factory.com/service.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://kyouei-factory.com/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyoeidesign.co.jp/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoei-seisakusyo.jp/jigyou1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyoei-seisakusyo.jp/kaisyaan3.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ke-ss.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyouei.com/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyoei-seisakusho.co.jp/mailform/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyoei-works.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mobio_osaka/n/nc19f5da6de70",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mobio_osaka/n/nc19f5da6de70",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mobio_osaka/n/nc19f5da6de70",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mobio_osaka/n/nc19f5da6de70",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "共栄製作所 取扱製品 試作 小ロット",
+   "results": [
+    "http://kyouei-factory.com/service.html",
+    "http://kyouei-factory.com/index.html",
+    "https://kyoeidesign.co.jp/",
+    "https://systemcreate-inc.co.jp/products/moiron_top",
+    "https://kyoei-ss.jp/works/小ロット生産/",
+    "https://kyoeidesign.co.jp/news/lot-production/",
+    "http://kyoei-seisakusyo.jp/",
+    "https://www.atengineer.com/pr/kyoei-design/general/104",
+    "https://kyoei-ss.jp/business/小ロット生産/",
+    "https://k-kyoeiss.co.jp/product/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "共栄製作所 会社概要 事業内容",
+   "results": [
+    "https://www.kyoei-seisakusyo.jp/jigyou1.html",
+    "http://www.kyoei-seisakusyo.jp/kaisyaan3.html",
+    "https://www.ke-ss.jp/company/",
+    "http://kyoei-jp.com/company.html",
+    "https://kyouei.com/company/",
+    "https://kyouei.com/",
+    "https://kyoei-jp.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "共栄製作所 お問い合わせ メール",
+   "results": [
+    "https://kyouei.com/contact/",
+    "https://kyoei-seisakusho.co.jp/mailform/",
+    "https://kyoei-works.co.jp/contact/",
+    "https://k-kyoeiss.co.jp/contact/",
+    "https://kyoei-ss.jp/contact/",
+    "https://www.kyouei-seisakusyo.com/contact",
+    "https://www.kyoei-mfg.co.jp/contact/",
+    "http://www.kyoei-seisakusyo.jp/otoiawase.html",
+    "https://kyoueifan.com/contact/",
+    "https://www.ke-ss.jp/contact/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:note.com 共栄製作所",
+   "results": [
+    "https://note.com/kyoei_casket",
+    "https://note.com/kyoei_seiko",
+    "https://note.com/mobio_osaka/n/nc19f5da6de70",
+    "https://note.com/shibaura_saiyou/n/n21dbf9766cef",
+    "https://tales.note.com/",
+    "https://note.com/project23/n/n37db10b5dfa5",
+    "https://note.com/project23/n/n86e42b14bbd2"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 共栄製作所",
+   "results": [
+    "https://note.com/mobio_osaka/n/nc19f5da6de70",
+    "https://note.com/shibaura_saiyou/n/n21dbf9766cef",
+    "https://tales.note.com/",
+    "https://note.com/project23/n/n37db10b5dfa5",
+    "https://note.com/kyoei_casket",
+    "https://note.com/kyoei_seiko",
+    "https://note.com/project23/n/n86e42b14bbd2"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 共栄製作所",
+   "results": [
+    "https://note.com/mobio_osaka/n/nc19f5da6de70",
+    "https://note.com/shibaura_saiyou/n/n21dbf9766cef",
+    "https://tales.note.com/",
+    "https://note.com/project23/n/n37db10b5dfa5",
+    "https://note.com/kyoei_casket",
+    "https://note.com/kyoei_seiko",
+    "https://note.com/project23/n/n86e42b14bbd2"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 共栄製作所",
+   "results": [
+    "https://note.com/mobio_osaka/n/nc19f5da6de70",
+    "https://note.com/shibaura_saiyou/n/n21dbf9766cef",
+    "https://tales.note.com/",
+    "https://note.com/project23/n/n37db10b5dfa5",
+    "https://note.com/kyoei_casket",
+    "https://note.com/kyoei_seiko",
+    "https://note.com/project23/n/n86e42b14bbd2"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "共栄製作所 note 社長",
+   "results": [
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.com/kyoei_casket/m/m6e72db7f6cdf",
+    "https://www.kyoei-casket.co.jp/blog/note/",
+    "https://kyouei.com/company/",
+    "https://www.kyoei-seisakusyo.jp/kaisyaan2.html",
+    "https://kyouei.com/",
+    "https://note.com/mobio_osaka/n/nc19f5da6de70"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "共栄製作所 X 投稿",
+   "results": [
+    "https://kyoei-seisakusho.co.jp/",
+    "http://kyoei-works.co.jp/",
+    "https://kyouei.com/",
+    "https://www.ke-ss.jp/item/",
+    "https://x.com/kyoei_orions/reposts",
+    "https://x.com/kyoei_orions/status/1935882138760745383",
+    "https://search.yahoo.co.jp/realtime/search/＃共栄鍛工所/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "代表者": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部13頁・検索9回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部13頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部13頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部13頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部13頁・検索9回）"
+ }
+}

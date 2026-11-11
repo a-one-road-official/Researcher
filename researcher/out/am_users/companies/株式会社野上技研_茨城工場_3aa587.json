@@ -1,0 +1,1064 @@
+{
+ "name": "株式会社野上技研 茨城工場",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T11:26:05.779311+00:00",
+ "official_url": "http://www.nogami-gk.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表取締役",
+    "value": "野上 良太",
+    "url": "https://nogamigiken.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "代表者名",
+    "value": "代表取締役 野上 良太",
+    "url": "https://hitachiomiya-shoko.jp/2535/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "本社： 〒152-0002　東京都目黒区目黒本町５丁目９番３号 茨城工場、テクニカルソリューションセンター： 〒319-2144　茨城県常陸大宮市泉１１３６番３号 TEL 0295-53-2188（代表）",
+    "url": "https://nogamigiken.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "茨城県常陸大宮市泉1136-3",
+    "url": "https://hitachiomiya-shoko.jp/2535/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "60名",
+    "url": "https://nogamigiken.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "62名",
+    "url": "https://hitachiomiya-shoko.jp/2535/",
+    "pass": 3
+   },
+   {
+    "label": "従業員数",
+    "value": "62名",
+    "url": "https://mono.ipros.com/company/detail/75813/",
+    "pass": 3
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "大手基幹産業各社 自動車、電気、半導体、医療、化学、金属、樹脂、繊維",
+    "url": "https://nogamigiken.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "主要取引先",
+    "value": "大手基幹産業各社 \n自動車、電気、半導体、医療、化学、金属、樹脂、繊維 (順不同・敬称略)",
+    "url": "https://mono.ipros.com/company/detail/75813/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "超精密治具・精密プレス金型の設計製作及び精密プレス加工",
+    "url": "https://hitachiomiya-shoko.jp/2535/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "製品を引っ掛けて損傷したりするリスクが減り、より均質なサンプルが取れるようになりました",
+    "url": "https://nogamigiken.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の仕様選び・お見積り、試し抜きテストや技術的なご相談など",
+    "url": "https://nogamigiken.com/",
+    "pass": 1
+   },
+   {
+    "quote": "切断幅150ｍｍと250ｍｍの2種をラインナップ",
+    "url": "https://nogamigiken.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ラミネートセルの試作および小ロット生産に特化した製品です",
+    "url": "https://nogamigiken.com/",
+    "pass": 1
+   },
+   {
+    "quote": "世界11,000台のスタンダード製品",
+    "url": "https://nogamigiken.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "ラミネートセルの試作および小ロット生産に特化した製品です",
+    "url": "https://nogamigiken.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "切断幅150ｍｍと250ｍｍの2種をラインナップ",
+    "url": "https://nogamigiken.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "製品が届いたら ― 動作および品質確認（1:39 無音）",
+    "url": "https://nogamigiken.com/handpunch/",
+    "pass": 1
+   },
+   {
+    "quote": "製品を引っ掛けて損傷したりするリスクが減り、より均質なサンプルが取れるようになりました",
+    "url": "https://nogamigiken.com/handpunch/",
+    "pass": 1
+   },
+   {
+    "quote": "※お預かりした材料は、打抜いた製品・端材ともにご返送いたします",
+    "url": "https://nogamigiken.com/handpunch/",
+    "pass": 1
+   },
+   {
+    "quote": "Q8. 製品の保証について教えてください",
+    "url": "https://nogamigiken.com/handpunch/",
+    "pass": 1
+   },
+   {
+    "quote": "ハンドパンチシリーズ各製品の保証期間はご納品後、１年間です",
+    "url": "https://nogamigiken.com/handpunch/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の仕様詳細など、ご検討に役立つ資料が",
+    "url": "https://nogamigiken.com/lp/cleanpress01/",
+    "pass": 1
+   },
+   {
+    "quote": "電池材料加工ツールのトップメーカーとして、開発/研究現場のニーズを従え、改良・改善を積み重ねた製品をご提供いたします",
+    "url": "https://nogamigiken.com/lp/cleanpress01/",
+    "pass": 1
+   },
+   {
+    "quote": "ご希望に合わせた製品仕様を選定するために、ご希望の形状や対象材料・ご要求品質などの条件をお伺いいたします",
+    "url": "https://nogamigiken.com/lp/cleanpress01/",
+    "pass": 1
+   },
+   {
+    "quote": "「カセット式打抜き治具クリーンプレス」は、カセット金型と専用プレス機の2つの製品からなり、カセット金型を交換することで、打抜き寸法・形状を変えることができます",
+    "url": "https://nogamigiken.com/lp/cleanpress01/",
+    "pass": 1
+   },
+   {
+    "quote": "はい、製品納品時に取扱説明書を同梱しております",
+    "url": "https://nogamigiken.com/lp/cleanpress01/",
+    "pass": 1
+   },
+   {
+    "quote": "製品をご使用の際、ご不明点やお困りの点ございましたら、お気軽にご連絡くださいませ",
+    "url": "https://nogamigiken.com/lp/cleanpress01/",
+    "pass": 1
+   },
+   {
+    "quote": "製品オプションとして、少量産の作業性を向上させるオプションテーブル・架台を取り付けることもできます",
+    "url": "https://nogamigiken.com/lp/cleanpress01/",
+    "pass": 1
+   },
+   {
+    "quote": "当社製品の保証期間は当社が出荷した日から1年間となります",
+    "url": "https://nogamigiken.com/lp/cleanpress01/",
+    "pass": 1
+   },
+   {
+    "quote": "製品保証規程の詳細に関しましては、お問合せくださいませ",
+    "url": "https://nogamigiken.com/lp/cleanpress01/",
+    "pass": 1
+   },
+   {
+    "quote": "経産省 「ものづくり中小企業製品開発等支援補助金」に採択",
+    "url": "https://nogamigiken.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "りそな中小企業振興財団「中小企業優秀技術・新製品賞」奨励賞 受賞",
+    "url": "https://nogamigiken.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の仕様選び・お見積り、試し抜きテストや技術的なご相談など",
+    "url": "https://nogamigiken.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は精密研削加工を主力とし、超精密治具製品の開発・設計・製作、精密金型部品・機械部品の製造、精密プレス金型（試作～量産）の設計・製作、及び精密プレス加工を行っております",
+    "url": "https://hitachiomiya-shoko.jp/2535/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(6)",
+    "url": "https://mono.ipros.com/company/detail/75813/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社は精密研削加工を主力とし、超精密治具製品(フィルム抜き治具をはじめ各種切断治具）の開発・設計・製作、精密金型部品・機械部品の製造、精密プレス金型（試作〜量産）の設計・製作、及び精密プレス加工を行っております",
+    "url": "https://mono.ipros.com/company/detail/75813/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (6)",
+    "url": "https://mono.ipros.com/company/detail/75813/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "全固体電池のフルセルなど、硬度や密着強度の異なる複数の材料が積層された複合材断面を、クラックや崩れ、層間の剥離なく超高品質加工",
+    "url": "https://nogamigiken.com/",
+    "pass": 1
+   },
+   {
+    "quote": "硫化物系／ポリマー系固体電解質層、シリコン負極、リチウム金属負極、セラミックグリーンシートなど、多様な材料に対応",
+    "url": "https://nogamigiken.com/",
+    "pass": 1
+   },
+   {
+    "quote": "金属箔や樹脂シートなど箔材に特化した試験片加工治具です",
+    "url": "https://nogamigiken.com/",
+    "pass": 1
+   },
+   {
+    "quote": "・刃部材質：合金工具鋼 / 超硬+特殊コーティング",
+    "url": "https://nogamigiken.com/",
+    "pass": 1
+   },
+   {
+    "quote": "・刃部材質：合金工具鋼/超硬＋特殊コーティング",
+    "url": "https://nogamigiken.com/",
+    "pass": 1
+   },
+   {
+    "quote": "材質や刃のクリアランスも選択可能で、グローブボックス内での使用や操作中の快適性も考慮された設計です",
+    "url": "https://nogamigiken.com/",
+    "pass": 1
+   },
+   {
+    "quote": "・刃物部材質：合金工具鋼／超硬合金／超硬＋特殊コーティング",
+    "url": "https://nogamigiken.com/",
+    "pass": 1
+   },
+   {
+    "quote": "試料材質に合わせて切断刃交換可能（短絡防止刃/Ｌｉ金属付着防止刃）",
+    "url": "https://nogamigiken.com/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックス刃：5㎜×5㎜ 角R0.2/0.5㎜",
+    "url": "https://nogamigiken.com/",
+    "pass": 1
+   },
+   {
+    "quote": "金属箔や樹脂シートなど箔材に特化した試験片加工治具です",
+    "url": "https://nogamigiken.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "・刃部材質：合金工具鋼 / 超硬+特殊コーティング",
+    "url": "https://nogamigiken.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックス刃：5㎜×5㎜ 角R0.2/0.5㎜",
+    "url": "https://nogamigiken.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "試料材質に合わせて切断刃交換可能（短絡防止刃/Ｌｉ金属付着防止刃）",
+    "url": "https://nogamigiken.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "・刃部材質：合金工具鋼/超硬＋特殊コーティング",
+    "url": "https://nogamigiken.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "異なる材質の多層材であるため、レーザーカットは不可",
+    "url": "https://nogamigiken.com/case/sem-cp-precut/",
+    "pass": 1
+   },
+   {
+    "quote": "また、リチウム金属の層を含んでおり、樹脂や生体組織などの断面を加工するミクロトームも、採用できませんでした",
+    "url": "https://nogamigiken.com/case/sem-cp-precut/",
+    "pass": 1
+   },
+   {
+    "quote": "金属箔や樹脂シートなど箔材に特化した試験片加工治具です",
+    "url": "https://nogamigiken.com/case/sem-cp-precut/",
+    "pass": 1
+   },
+   {
+    "quote": "・刃部材質：合金工具鋼 / 超硬+特殊コーティング",
+    "url": "https://nogamigiken.com/case/sem-cp-precut/",
+    "pass": 1
+   },
+   {
+    "quote": "金属箔や樹脂シートなど箔材に特化した試験片加工治具です",
+    "url": "https://nogamigiken.com/handpunch/",
+    "pass": 1
+   },
+   {
+    "quote": "・刃部材質：合金工具鋼 / 超硬+特殊コーティング",
+    "url": "https://nogamigiken.com/handpunch/",
+    "pass": 1
+   },
+   {
+    "quote": "加工対象の材質や厚み、打抜きサイズにより異なりますが、リチウムイオン電池の負極材の実績としては、月平均2,000ショットの打抜き加工を行うお客様の多くが、２～３年に一度の再研磨メンテナンスを実施しています",
+    "url": "https://nogamigiken.com/lp/cleanpress01/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車、電気、半導体、医療、化学、金属、樹脂、繊維",
+    "url": "https://nogamigiken.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "金属箔や樹脂シートなど箔材に特化した試験片加工治具です",
+    "url": "https://nogamigiken.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "・刃部材質：合金工具鋼 / 超硬+特殊コーティング",
+    "url": "https://nogamigiken.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "刃物形状、材質他のノウハウにより、各種接着剤等が付着し難い構造も可能です",
+    "url": "https://mono.ipros.com/company/detail/75813/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車、電気、半導体、医療、化学、金属、樹脂、繊維",
+    "url": "https://mono.ipros.com/company/detail/75813/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "電池性能評価用ラミネートセルの試作開始支援",
+    "url": "https://nogamigiken.com/",
+    "pass": 1
+   },
+   {
+    "quote": "1辺ずつ切断するため、様々なサイズで試作したい場合に向いています",
+    "url": "https://nogamigiken.com/",
+    "pass": 1
+   },
+   {
+    "quote": "野上技研の「電極抜きハンドパンチ」は、コイン電池試作における正極・負極材の精密打抜き加工において、世界30ヵ国以上、9,000台を超える導入実績を誇る業界標準ツールです",
+    "url": "https://nogamigiken.com/",
+    "pass": 1
+   },
+   {
+    "quote": "コインセルの正極・負極材の試作用打抜き、目付測定、品質管理サンプル作製に最適",
+    "url": "https://nogamigiken.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ラミネートセルの試作および小ロット生産に特化した製品です",
+    "url": "https://nogamigiken.com/",
+    "pass": 1
+   },
+   {
+    "quote": "正極用・負極用を揃えることで、電池試作をすぐに始められます",
+    "url": "https://nogamigiken.com/",
+    "pass": 1
+   },
+   {
+    "quote": "コイン電池試作に、品質管理に",
+    "url": "https://nogamigiken.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "連続加工もスムーズで、少量産も安定的に行えます",
+    "url": "https://nogamigiken.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "１辺ずつ切断できるため、様々なサイズでの試作に適しています",
+    "url": "https://nogamigiken.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "ラミネートセルの試作および小ロット生産に特化した製品です",
+    "url": "https://nogamigiken.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "正極用・負極用を揃えることで、電池試作をすぐに始められます",
+    "url": "https://nogamigiken.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "1辺ずつ切断するため、様々なサイズで試作したい場合に向いています",
+    "url": "https://nogamigiken.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "コイン電池試作用の正極／負極材の打抜きに、",
+    "url": "https://nogamigiken.com/handpunch/",
+    "pass": 1
+   },
+   {
+    "quote": "CR2032など、コイン電池試作用の正極材／負極材を精密加工したい",
+    "url": "https://nogamigiken.com/handpunch/",
+    "pass": 1
+   },
+   {
+    "quote": "例えば「Φ9.5mm」など、上記以外の打抜き径のご指定や角型ハンドパンチの場合は受注生産となり、納期は5週間～です",
+    "url": "https://nogamigiken.com/handpunch/",
+    "pass": 1
+   },
+   {
+    "quote": "3μm、2μm 仕様は受注生産となります",
+    "url": "https://nogamigiken.com/handpunch/",
+    "pass": 1
+   },
+   {
+    "quote": "ラミネートセルの試作・少量産に「カセット式打抜き治具クリーンプレス」 – 野上技研",
+    "url": "https://nogamigiken.com/lp/cleanpress01/",
+    "pass": 1
+   },
+   {
+    "quote": "正極用・負極用でそろえることで、電池試作をすぐに始められます",
+    "url": "https://nogamigiken.com/lp/cleanpress01/",
+    "pass": 1
+   },
+   {
+    "quote": "ロール材の加工・少量産を行う場合におすすめです",
+    "url": "https://nogamigiken.com/lp/cleanpress01/",
+    "pass": 1
+   },
+   {
+    "quote": "それ以外のサイズ・形状をご指定いただく場合は受注生産となります",
+    "url": "https://nogamigiken.com/lp/cleanpress01/",
+    "pass": 1
+   },
+   {
+    "quote": "受注生産品の納期は、ご注文後7～9週間（仕様により変動）ほどとなります",
+    "url": "https://nogamigiken.com/lp/cleanpress01/",
+    "pass": 1
+   },
+   {
+    "quote": "製品オプションとして、少量産の作業性を向上させるオプションテーブル・架台を取り付けることもできます",
+    "url": "https://nogamigiken.com/lp/cleanpress01/",
+    "pass": 1
+   },
+   {
+    "quote": "少量産用に使用したいのですが、メンテナンスサイクルはどれくらいですか？",
+    "url": "https://nogamigiken.com/lp/cleanpress01/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は精密研削加工を主力とし、超精密治具製品の開発・設計・製作、精密金型部品・機械部品の製造、精密プレス金型（試作～量産）の設計・製作、及び精密プレス加工を行っております",
+    "url": "https://hitachiomiya-shoko.jp/2535/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社は精密研削加工を主力とし、超精密治具製品(フィルム抜き治具をはじめ各種切断治具）の開発・設計・製作、精密金型部品・機械部品の製造、精密プレス金型（試作〜量産）の設計・製作、及び精密プレス加工を行っております",
+    "url": "https://mono.ipros.com/company/detail/75813/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "弊社ではグローブボックス内で作業しているが、治具本体も軽く、非常に助かっている",
+    "url": "https://nogamigiken.com/",
+    "pass": 1
+   },
+   {
+    "quote": "精密引張試験片カット治具（短冊状／ダンベル状）",
+    "url": "https://nogamigiken.com/",
+    "pass": 1
+   },
+   {
+    "quote": "金属箔や樹脂シートなど箔材に特化した試験片加工治具です",
+    "url": "https://nogamigiken.com/",
+    "pass": 1
+   },
+   {
+    "quote": "片手で操作可能なハンディサイズながら、大型据え置き治具を上回る精密な打抜き性能を誇り、バリや剥離のないきれいなエッジと均一な断面を実現",
+    "url": "https://nogamigiken.com/",
+    "pass": 1
+   },
+   {
+    "quote": "金属層を含む電池フルセルの断面出しに最適な仕上げ加工用治具です",
+    "url": "https://nogamigiken.com/",
+    "pass": 1
+   },
+   {
+    "quote": "加工時に試料端面に加わるダメージを極限まで抑えた工法を用いた、超精密打抜き加工治具です",
+    "url": "https://nogamigiken.com/",
+    "pass": 1
+   },
+   {
+    "quote": "せん断加工の原理上、最もワークへのダメージの少ない独自工法および治具機構を採用",
+    "url": "https://nogamigiken.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "金型（最大打抜き寸法50×70mm）はカセット交換式",
+    "url": "https://nogamigiken.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "精密引張試験片カット治具（短冊状／ダンベル状）",
+    "url": "https://nogamigiken.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "金属箔や樹脂シートなど箔材に特化した試験片加工治具です",
+    "url": "https://nogamigiken.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "加工時に試料端面に加わるダメージを極限まで抑えた工法を用いた、超精密打抜き加工治具です",
+    "url": "https://nogamigiken.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "金属層を含む電池フルセルの断面出しに最適な仕上げ加工用治具です",
+    "url": "https://nogamigiken.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "お納めした『SEM観察用試料 仕上げ加工用治具』と同様の工法で加工",
+    "url": "https://nogamigiken.com/case/sem-cp-precut/",
+    "pass": 1
+   },
+   {
+    "quote": "ハンドリングのミスを予め排除する治具の使用手順と作業性",
+    "url": "https://nogamigiken.com/case/sem-cp-precut/",
+    "pass": 1
+   },
+   {
+    "quote": "精密引張試験片カット治具（短冊状／ダンベル状）",
+    "url": "https://nogamigiken.com/case/sem-cp-precut/",
+    "pass": 1
+   },
+   {
+    "quote": "金属箔や樹脂シートなど箔材に特化した試験片加工治具です",
+    "url": "https://nogamigiken.com/case/sem-cp-precut/",
+    "pass": 1
+   },
+   {
+    "quote": "据え置きの大型治具をはるかに上回る加工性能と堅牢性を、",
+    "url": "https://nogamigiken.com/handpunch/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社ではグローブボックス内で作業しているが、治具本体も軽く、非常に助かっている",
+    "url": "https://nogamigiken.com/handpunch/",
+    "pass": 1
+   },
+   {
+    "quote": "これらを超える打抜きサイズの場合、『卓上打抜き治具 クリーンプレス』であれば丸形で最大Φ50.00㎜、角型で最大50.00 x 70.00㎜まで対応できます",
+    "url": "https://nogamigiken.com/handpunch/",
+    "pass": 1
+   },
+   {
+    "quote": "電極用 卓上精密打抜き治具 クリーンプレスのご紹介（4:34 無音）",
+    "url": "https://nogamigiken.com/handpunch/",
+    "pass": 1
+   },
+   {
+    "quote": "ハンドパンチでは割れてしまうような特に脆性の高い材料に対応した治具（断面観察用試料 打抜き／仕上げ治具）などもございます",
+    "url": "https://nogamigiken.com/handpunch/",
+    "pass": 1
+   },
+   {
+    "quote": "精密引張試験片カット治具（短冊状／ダンベル状）",
+    "url": "https://nogamigiken.com/handpunch/",
+    "pass": 1
+   },
+   {
+    "quote": "金属箔や樹脂シートなど箔材に特化した試験片加工治具です",
+    "url": "https://nogamigiken.com/handpunch/",
+    "pass": 1
+   },
+   {
+    "quote": "ラミネートセルの試作・少量産に「カセット式打抜き治具クリーンプレス」 – 野上技研",
+    "url": "https://nogamigiken.com/lp/cleanpress01/",
+    "pass": 1
+   },
+   {
+    "quote": "国内外の電池/自動車/材料メーカー/研究機関において、多くのユーザー様が長年に渡り継続利用",
+    "url": "https://nogamigiken.com/lp/cleanpress01/",
+    "pass": 1
+   },
+   {
+    "quote": "カセット金型をプレス機にセットして使用します",
+    "url": "https://nogamigiken.com/lp/cleanpress01/",
+    "pass": 1
+   },
+   {
+    "quote": "プレス機を兼用しているため、金型の交換がスピーディーに対応可能",
+    "url": "https://nogamigiken.com/lp/cleanpress01/",
+    "pass": 1
+   },
+   {
+    "quote": "「カセット式打抜き治具クリーンプレス」は、カセット金型と専用プレス機の2つの製品からなり、カセット金型を交換することで、打抜き寸法・形状を変えることができます",
+    "url": "https://nogamigiken.com/lp/cleanpress01/",
+    "pass": 1
+   },
+   {
+    "quote": "ただし、厚みのある圧粉成型品の場合、カセット式打抜き治具を用いたクリーンプレスでは、割れが生じる可能性があります",
+    "url": "https://nogamigiken.com/lp/cleanpress01/",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、当社ではこのような成型品や、脆性の高いシリコン負極材料にも対応可能な専用治具をご用意しております",
+    "url": "https://nogamigiken.com/lp/cleanpress01/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車、電気、半導体、医療、化学、金属、樹脂、繊維",
+    "url": "https://nogamigiken.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車：常磐自動車道 那珂ICより約20分",
+    "url": "https://nogamigiken.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "精密引張試験片カット治具（短冊状／ダンベル状）",
+    "url": "https://nogamigiken.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "金属箔や樹脂シートなど箔材に特化した試験片加工治具です",
+    "url": "https://nogamigiken.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は精密研削加工を主力とし、超精密治具製品の開発・設計・製作、精密金型部品・機械部品の製造、精密プレス金型（試作～量産）の設計・製作、及び精密プレス加工を行っております",
+    "url": "https://hitachiomiya-shoko.jp/2535/",
+    "pass": 3
+   },
+   {
+    "quote": "金型・治具・機械部品は、1μ前後の高精度仕上げが可能です",
+    "url": "https://hitachiomiya-shoko.jp/2535/",
+    "pass": 3
+   },
+   {
+    "quote": "精密プレス部品は薄物（t0.020～）・小物（米粒大前後）・金型内複合品を得意としております",
+    "url": "https://hitachiomiya-shoko.jp/2535/",
+    "pass": 3
+   },
+   {
+    "quote": "超精密治具・精密プレス金型の設計製作及び精密プレス加工",
+    "url": "https://hitachiomiya-shoko.jp/2535/",
+    "pass": 3
+   },
+   {
+    "quote": "・超精密治具・器具・検査冶具の設計製作販売 ・極薄板ｔ０．０１０のプレス加工 ・フィルム抜き金型設計製作",
+    "url": "https://mono.ipros.com/company/detail/75813/",
+    "pass": 3
+   },
+   {
+    "quote": "バイスで培った超精密加工技術で、ワーク形状に合わせた各種精密治具を、デザインからご提案させて頂きます",
+    "url": "https://mono.ipros.com/company/detail/75813/",
+    "pass": 3
+   },
+   {
+    "quote": "超精密仕上で極小クリアランスの『フィルム抜き金型・治具』はバリ・変形が無く",
+    "url": "https://mono.ipros.com/company/detail/75813/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社は精密研削加工を主力とし、超精密治具製品(フィルム抜き治具をはじめ各種切断治具）の開発・設計・製作、精密金型部品・機械部品の製造、精密プレス金型（試作〜量産）の設計・製作、及び精密プレス加工を行っております",
+    "url": "https://mono.ipros.com/company/detail/75813/",
+    "pass": 3
+   },
+   {
+    "quote": "金型・治具・機械部品は、１μ前後の高精度仕上げが可能です",
+    "url": "https://mono.ipros.com/company/detail/75813/",
+    "pass": 3
+   },
+   {
+    "quote": "精密プレス部品は薄物（t0.010）・小物（米粒大前後）・金型内複合品を得意としており、コイニング品ではミクロン単位での管理も可能です",
+    "url": "https://mono.ipros.com/company/detail/75813/",
+    "pass": 3
+   },
+   {
+    "quote": "【Liイオン電池電極材用】超精密 打抜き・切断金型",
+    "url": "https://mono.ipros.com/company/detail/75813/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車、電気、半導体、医療、化学、金属、樹脂、繊維",
+    "url": "https://mono.ipros.com/company/detail/75813/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "（NOGAMI-S工法・デモ用に負極材を加工）",
+    "url": "https://nogamigiken.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ドメイン名変更のお知らせ(nogamigiken.com)",
+    "url": "https://nogamigiken.com/",
+    "pass": 1
+   },
+   {
+    "quote": "https://www.nogamigiken.com/contact/demo/",
+    "url": "https://nogamigiken.com/handpunch/",
+    "pass": 1
+   },
+   {
+    "quote": "No.1「NOGAMI」",
+    "url": "https://nogamigiken.com/lp/cleanpress01/",
+    "pass": 1
+   },
+   {
+    "quote": "http://www.nogami-gk.co.jp",
+    "url": "https://hitachiomiya-shoko.jp/2535/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "お電話でのお問い合わせ TEL: ０２９５－５３－２１０９",
+    "url": "https://nogamigiken.com/",
+    "pass": 1
+   },
+   {
+    "quote": "https://www.nogamigiken.com/contact/demo/",
+    "url": "https://nogamigiken.com/handpunch/",
+    "pass": 1
+   },
+   {
+    "quote": "3分でわかる資料をメールでダウンロード",
+    "url": "https://nogamigiken.com/lp/cleanpress01/",
+    "pass": 1
+   },
+   {
+    "quote": "詳細につきましては、お気軽にお問い合わせフォームよりご相談ください",
+    "url": "https://nogamigiken.com/lp/cleanpress01/",
+    "pass": 1
+   },
+   {
+    "quote": "クリーンプレスのお問い合わせはすべて無料です",
+    "url": "https://nogamigiken.com/lp/cleanpress01/",
+    "pass": 1
+   },
+   {
+    "quote": "お電話でのお問い合わせ TEL: ０２９５－５３－２１０９",
+    "url": "https://nogamigiken.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "***詳細やお問い合わせは弊社公式サイトをご覧下さい***",
+    "url": "https://mono.ipros.com/company/detail/75813/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 -野上技研【野上技研】電池材料の打抜き加工・断面試料製作なら【テスト機貸出し中！】 の製品一覧｜野上技研｜イプロスものづくり株式会社 野上技研 茨城工場 - 常陸大宮市商工会の製品一覧｜野上技研｜イプロスものづくり地図・拠点情報 - 超精密抜き・切断治具の野上技研会社概要 | 株式会社野上技研採用ホームページ — アクセス（茨城工場） 電 車：JR水郡線 常陸大宮駅下車 タクシーにて約10分 自動車：常磐自動車道 那珂ICより約20分 野上技研の「電極抜きハンドパンチ」は、コイン電池試作における正極・負極材の精密打抜き加工において、世界30ヵ国以上、9,000台を超える導入実績を誇る業界標準ツールです。 Apr 1, 2026 · 設立 1973年7月 資本金 1000万 従業員数 62名 住所 茨城県常陸大宮市泉1136-3 電話 0295-53-2109 公式サイト 最終更新",
+    "url": "https://nogamigiken.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 野上技研 茨城工場 - 常陸大宮市商工会の製品一覧｜野上技研｜イプロスものづくり地図・拠点情報 - 超精密抜き・切断治具の野上技研会社概要 | 株式会社野上技研採用ホームページ — 当社は精密研削加工を主力とし、超精密治具製品の開発・設計・製作、精密金型部品・機械部品の製造、精密プレス金型（試作～量産）の設計・製作、及び精密プレス加工を行っております。 金型・治具・機械部品は、1μ前後の高精度仕上げが可能です。 野上技研 の の一覧情報。 ・超精密治具・器具・検査冶具の設計製作販売 ・極薄板t0．010のプレス加工 ・フィルム抜き金型設計製作 バイスで培った超精密加工技術で、ワーク形状に合わせた各種精密治具を、デザインからご提案させて頂きます。 株式会社 野上技研 電話番号： 0295-53-2109 FAX： 0295-53-1228 ホームページ 基本情報 設 備 技術・製品",
+    "url": "https://hitachiomiya-shoko.jp/2535/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 -野上技研会社概要 | 株式会社野上技研採用ホームページ株式会社 野上技研 茨城工場 - 常陸大宮市商工会野上技研 | 企業情報 | イプロスものづくり株式会社野上技研 - 会社概要株式会社野上技研 - city.hitachiomiya.lg.jp茨城工場 - 株式会社野上技研の事業所情報 | Baseconnect — アクセス（茨城工場） 電 車：JR水郡線 常陸大宮駅下車 タクシーにて約10分 自動車：常磐自動車道 那珂ICより約20分 創業事業の刃物からプレス加⼯と領域を広げるなかで、私たちは単に図⾯から製品を作るのではなく、「どんな⼯法で課題を解決するか」などお客様企業のパートナーとして頼られる存在になりました。 当社は精密研削加工を主力とし、超精密治具製品の開発・設計・製作、精密金型部品・機械部品の製造、精密プレス金型（試作～量産）の設計・製作、及び精密プレス加工を",
+    "url": "https://nogamigiken.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 野上技研 茨城工場 - 常陸大宮市商工会野上技研 | 企業情報 | イプロスものづくり株式会社野上技研 - 会社概要株式会社野上技研 - city.hitachiomiya.lg.jp茨城工場 - 株式会社野上技研の事業所情報 | Baseconnect — 当社は精密研削加工を主力とし、超精密治具製品の開発・設計・製作、精密金型部品・機械部品の製造、精密プレス金型（試作～量産）の設計・製作、及び精密プレス加工を行っております。 金型・治具・機械部品は、1μ前後の高精度仕上げが可能です。 精密プレス部品は薄物（t0.020 ... 野上技研の会社概要 ・超精密治具・器具・検査冶具の設計製作販売 ・極薄板t0．010のプレス加工 ・フィルム抜き金型設計製作 バイスで培った超精密加工技術で、ワーク形状に合わせた各種精密治具を、デザインからご提案させて頂きます。 株式会社野上技研の事業",
+    "url": "https://hitachiomiya-shoko.jp/2535/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://nogamigiken.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nogamigiken.com/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nogamigiken.com/case/sem-cp-precut/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nogamigiken.com/handpunch/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nogamigiken.com/lp/cleanpress01/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nogamigiken.com/company/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://nogamigiken.com/lp/cleanpress01/image/product_item01.min.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://nogamigiken.com/lp/cleanpress01/image/product_item02.min.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://nogamigiken.com/lp/cleanpress01/image/product_item03.min.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://nogamigiken.com/lp/cleanpress01/image/product_item04.min.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://nogamigiken.com/lp/cleanpress01/image/product_item05.min.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://nogamigiken.com/lp/cleanpress01/image/product_item06.min.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://nogamigiken.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nogamigiken.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hitachiomiya-shoko.jp/2535/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nogamigiken.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hitachiomiya-shoko.jp/2535/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/75813/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nogamigiken.com/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nogamigiken.com/en/temp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nogamigiken.co.jp/contact.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "野上技研 茨城工場 取扱製品 試作 小ロット",
+   "results": [
+    "https://nogamigiken.com/company/",
+    "https://nogamigiken.com/",
+    "https://hitachiomiya-shoko.jp/2535/",
+    "https://mono.ipros.com/company/detail/75813/category/002035/",
+    "https://ja.nc-net.or.jp/company/43653/map/",
+    "https://mono.ipros.com/company/detail/75813/category/8418/",
+    "https://nogamigiken-saiyo.com/company/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "野上技研 茨城工場 会社概要 事業内容",
+   "results": [
+    "https://nogamigiken.com/company/",
+    "https://hitachiomiya-shoko.jp/2535/",
+    "https://mono.ipros.com/company/detail/75813/",
+    "https://www.atengineer.com/pr/nogami-gk/company",
+    "https://www.city.hitachiomiya.lg.jp/data/doc/1750643509_doc_1_0.pdf",
+    "https://baseconnect.in/branch_offices/7b5921f9-a95c-4546-bda9-0af727624955",
+    "https://nogamigiken-saiyo.com/company/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "野上技研 茨城工場 お問い合わせ メール",
+   "results": [
+    "https://nogamigiken.com/contact/",
+    "https://nogamigiken.com/en/temp/contact/",
+    "https://nogamigiken.co.jp/contact.html",
+    "https://nogamigiken.co.jp/contact_send.php",
+    "https://ja.nc-net.or.jp/company/43653/inquiry/",
+    "https://baseconnect.in/branch_offices/7b5921f9-a95c-4546-bda9-0af727624955",
+    "https://hitachiomiya-shoko.jp/2535/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 野上技研 茨城工場",
+   "results": [
+    "https://note.com/aloe_e_ole/n/n7c7650e77d97",
+    "https://note.com/tokoshie/n/n673a467cc13f",
+    "https://note.com/nimo505/n/n6db050914d65",
+    "https://tales.note.com/clever_finch3591/wccfwgvt131k6",
+    "https://note.com/sankituushin/n/n21ee41d05eb2",
+    "https://note.com/izima2025/n/n0a529a254a24",
+    "https://note.com/nimo505/n/n024768b1d9a8"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 野上技研 茨城工場",
+   "results": [
+    "https://blog.x.com/en/product/introducing-a-new-twitter-dot-com",
+    "https://x.com/Beyondge_CEO/status/2111036679696105634",
+    "https://x.com/Beyondge_CEO/status/2112834274529591688",
+    "https://x.com/Kyowagiken_corp",
+    "https://x.com/sore_shirabeta/status/2105262101413687301",
+    "https://x.com/sore_shirabeta/status/2105231614758486098",
+    "https://x.com/akameneko31/status/2119815426737885248"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 野上技研 茨城工場",
+   "results": [
+    "https://jp.linkedin.com/in/哲也-野上-385215206",
+    "https://www.linkedin.com/pub/dir/良太/野上",
+    "https://www.linkedin.com/pub/dir/Tetsuya/Nogami",
+    "https://my.linkedin.com/jobs/view/head-of-collections-at-monee-4471669847",
+    "https://ch.linkedin.com/in/dr-stefan-m-toth-2520481ba",
+    "https://jp.linkedin.com/jobs/view/p-ee1293-電動車-ev・hev-用モータに関する設計-機械-【茨城】（xev）-at-astemo-ltd-4424182424",
+    "https://fr.linkedin.com/in/christi-karandikar-65299256"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 野上技研 茨城工場",
+   "results": [
+    "https://www.facebook.com/野上技研-193235181191050/",
+    "https://www.facebook.com/野上技研工業株式会社-268936609864127/",
+    "https://www.facebook.com/100070331418221/",
+    "https://www.facebook.com/giken.toso/",
+    "https://www.facebook.com/野上鉄工場-483171958360161/",
+    "https://www.facebook.com/aiwagiken/",
+    "https://www.facebook.com/hits.or.jp/videos/354299910065960/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "野上技研 茨城工場 note 社長",
+   "results": [
+    "https://nogamigiken.com/company/",
+    "https://www.atengineer.com/pr/nogami-gk/company",
+    "https://nogamigiken-saiyo.com/company/",
+    "https://note.com/nogami_kei_",
+    "https://works.aqsh.co.jp/companies/3013201004542",
+    "https://kanto-meti-gov.note.jp/n/nfb4d36862810",
+    "https://nogamigiken.com/news/企業見学バスツアーで県内の中高生が来社しまし/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "野上技研 茨城工場 X 投稿",
+   "results": [
+    "https://nogamigiken.com/company/",
+    "https://nogamigiken.com/",
+    "https://hitachiomiya-shoko.jp/2535/",
+    "https://ja.nc-net.or.jp/company/43653/map/",
+    "https://nogamigiken-saiyo.com/company/",
+    "https://ohmiyawork.com/story/nogamigiken",
+    "https://x.com/akahara32/status/2120435220818375016"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像6件／外部9頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式6頁／PDF・画像6件／外部9頁・検索9回）"
+ }
+}

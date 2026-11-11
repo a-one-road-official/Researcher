@@ -1,0 +1,689 @@
+{
+ "name": "Phiar",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-11T11:21:52.235013+00:00",
+ "official_url": "https://www.phiar.net",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "3. Seed Round",
+    "value": "23-Nov-2018    Completed Product Development",
+    "url": "https://pitchbook.com/profiles/company/232093-72",
+    "pass": 3
+   },
+   {
+    "label": "Seed-1",
+    "value": "947,579 $0.000100  $0.65 $0.65 1x $0.65 6.23%",
+    "url": "https://pitchbook.com/profiles/company/232093-72",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "2,288,457 $0.000100  $1.14 $1.14 1x $1.14 15.04%",
+    "url": "https://pitchbook.com/profiles/company/232093-72",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "「世代を超えた“100年企業”を創る」 世界有数のファンド規模誇るNew Enterprise Associates",
+    "url": "https://techblitz.com/startup-interview/phiartechnologies/",
+    "pass": 3
+   },
+   {
+    "quote": "Prototype construction",
+    "url": "https://phiaro.jp/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Phiaro will introduce their internal project “NGDP” at a webinar hosted by Varjo Technologies",
+    "url": "https://phiaro.jp/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Phiar 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/232093-72",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an augmented reality navigation application designed to assist driving while reading routing directions on a 2D map. The company's application offers real-time road understanding and shows exactly where to go without the need to take eyes off the wheel or road, thus providing drivers with enhanced, safe, and intuitive driving routes.",
+    "url": "https://pitchbook.com/profiles/company/232093-72",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/232093-72",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/232093-72",
+    "pass": 3
+   },
+   {
+    "quote": "Phiar’s primary industry is Automotive.",
+    "url": "https://pitchbook.com/profiles/company/232093-72",
+    "pass": 3
+   },
+   {
+    "quote": "Is Phiar a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/232093-72",
+    "pass": 3
+   },
+   {
+    "quote": "Phiar is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/232093-72",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/232093-72",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/232093-72",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/232093-72",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "「電力の変化」をどう読むか 東京ガスも出資する米AmperonのAI予測の仕組み",
+    "url": "https://techblitz.com/startup-interview/phiartechnologies/",
+    "pass": 3
+   },
+   {
+    "quote": "「電力の変化」をどう読むか 東京ガスも出資する米AmperonのAI予測の仕組みの詳細を見る",
+    "url": "https://techblitz.com/startup-interview/phiartechnologies/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "海外で注目を集めるAIスタートアップ：「Phiar Technologies」の全貌... — Dec 22, 2024 · まとめ Phiar Technologiesは、AIとARの融合で自動車業界に新たな価値を提供する注目のスタートアップです。 その技術は、ドライバーの利便性と安全性を向上させるだけでなく、スマートシティや物流といった新分野への応用も期待されています。",
+    "url": "https://generative-ai.co.jp/usecase/sales-marketing-ai/ai-startup-usecase-phiar-technologies/",
+    "pass": 3
+   },
+   {
+    "quote": "AR技術を使った、直観的カーナビPhiar Technologies – TECHBLITZ — May 29, 2019 · 2017年に設立されたPhiar Technologiesは、ARテクノロジーを用いたカーナビゲーションシステムを開発するスタートアップ。今回はFounder & CEOのChen-Ping Yu氏に...",
+    "url": "https://techblitz.com/startup-interview/phiartechnologies/",
+    "pass": 3
+   },
+   {
+    "quote": "PHIARO GROUP — We work for the enrichment of all, connecting today, tomorrow, and beyond with cutting-edge technology For decades, Phiaro Group has been pursuing the progress of mobility as a strategic engineering partner in the automotive industry, and has taken on the challenge of creating new value through the development of many products and technologies. This means we don’t just merely build ",
+    "url": "https://phiaro.jp/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Phiar: AI駆動型ARナビゲーションで安全運転を進化 — Phiarは、スマートフォンや車載ディスプレイで動作するAI駆動型のARナビゲーション運転ソフトウェアソリューションです。安全な運転、直感的な道順、周囲環境とのつながりを提供します。",
+    "url": "https://huntscreens.com/ja/products/phiar",
+    "pass": 3
+   },
+   {
+    "quote": "車社会におけるARカーナビPhiarの可能性とは？ | ONETECH — Sep 22, 2020 · 近年車の運転をサポートするサービスが増えています。今回紹介する「Phiar」は、ARの技術を活用したカーナビゲーションシステムです。 ARカーナビゲーションシステムによって、私たちの生活にどんな変化をもたらすのか、またAR技術がどのように活用されるのかご紹介いたします。",
+    "url": "https://onetech.jp/blog/what-is-ar-car-navigation-system-piar-in-the-car-society-9083",
+    "pass": 3
+   },
+   {
+    "quote": "PHIARO GROUP — Strive for No.1 - 株式会社フィアロコーポレーションの公式WEBサイトです。",
+    "url": "https://phiaro.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "phiar.com — phiar.com",
+    "url": "https://phiar.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Phiarslitan | ThePhiarWikis Wiki | Fandom — The Phiarslitan Officially Republic of Phssiarian, I know as \"Phiar-Slitan\" and Phssiaria, (i known as formerly Phiarland) no have flag Country in EST. 2018 or 2019, but TikTok video First Country Est. 2020 \"State of Abrab\" Official Phiar Studio Est \"2024\"",
+    "url": "https://thephiarwikis.fandom.com/wiki/Phiarland",
+    "pass": 3
+   },
+   {
+    "quote": "Phiar (Acquired by Google) | AI-powered AR navigation | LinkedIn — Phiar is an ultra-lightweight AI company, building the world's most advanced Ultra-Lightweight Spatial AI Engine to enable every vehicle to see its surroundings, running real-time at the edge ...",
+    "url": "https://www.linkedin.com/company/phiar/",
+    "pass": 3
+   },
+   {
+    "quote": "Phiar – Market Position & Workforce Comparison – 2026 — Discover Phiar's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/phiar",
+    "pass": 3
+   },
+   {
+    "quote": "Phiar 2026 Company Profile: Valuation, Investors, Acquisition ...Phiar Technologies - 2026 Company Profile, Team, Funding ...Phiar Technologies - 2026 Company Profile, Team, Funding ...Phiar: Revenue, Competitors, Alternatives - GrowjoPhiar - Products, Competitors, Financials, Employees ...Phiar Technologies: Funding, Team & Investors | Startup Intros — Information on acquisition, funding, cap tab",
+    "url": "https://pitchbook.com/profiles/company/232093-72",
+    "pass": 3
+   },
+   {
+    "quote": "Phiar Technologies - 2026 Company Profile, Team, Funding ...Phiar Technologies - 2026 Company Profile, Team, Funding ...Phiar: Revenue, Competitors, Alternatives - GrowjoPhiar - Products, Competitors, Financials, Employees ...Phiar Technologies: Funding, Team & Investors | Startup Intros — Jan 24, 2026 · Phiar Technologies is an acqui-hired company based in Boston (United States), founded in 2017 ",
+    "url": "https://tracxn.com/d/companies/phiar-technologies/__erdR0pchDWR-F1Jt4K3JS_-osmr8EJqesF-Vjymdcxo",
+    "pass": 3
+   },
+   {
+    "quote": "Phiar Technologies - 2026 Company Profile, Team, Funding ... — Mar 24, 2026 · Phiar Technologies is an acqui-hired company based in Boston (United States), founded in 2017 by Chen-Ping Yu and James Briscoe. It operates as a Provider of an AI and AR-based navigation app for automobiles. Phiar Technologies has raised $15M in funding from investors like Telenav, State Farm and The Venture Reality Fun",
+    "url": "https://tracxn.com/d/companies/phiartechnologies/__erdR0pchDWR-F1Jt4K3JS_-osmr8EJqesF-Vjymdcxo",
+    "pass": 3
+   },
+   {
+    "quote": "Phiar: Revenue, Competitors, Alternatives - Growjo — Phiar was founded in 2017 and is now based in Redwood City, California. keywords: N/A N/A Total Funding 7 Number of Employees $507.5k Revenue (est)",
+    "url": "https://growjo.com/company/Phiar",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Phiar’s primary industry is Automotive.",
+    "url": "https://pitchbook.com/profiles/company/232093-72",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Phiar 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/232093-72",
+    "pass": 3
+   },
+   {
+    "quote": "5. Merger/Acquisition",
+    "url": "https://pitchbook.com/profiles/company/232093-72",
+    "pass": 3
+   },
+   {
+    "quote": "Phiar has 21 total employees.",
+    "url": "https://pitchbook.com/profiles/company/232093-72",
+    "pass": 3
+   },
+   {
+    "quote": "What is Phiar’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/232093-72",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Phiar is",
+    "url": "https://pitchbook.com/profiles/company/232093-72",
+    "pass": 3
+   },
+   {
+    "quote": "When was Phiar acquired?",
+    "url": "https://pitchbook.com/profiles/company/232093-72",
+    "pass": 3
+   },
+   {
+    "quote": "Phiar was acquired on 20-Sep-2022.",
+    "url": "https://pitchbook.com/profiles/company/232093-72",
+    "pass": 3
+   },
+   {
+    "quote": "Phiar was acquired by",
+    "url": "https://pitchbook.com/profiles/company/232093-72",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/232093-72",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Phiar (@Phiar6) / Posts / X Posts Phiar Phiar6 Aug 14 ¡Usa mi código de invitación para ganar dinero extra! vm.tiktok.com/ZMNGaTpRh/",
+    "url": "https://x.com/Phiar6",
+    "pass": 3
+   },
+   {
+    "quote": "&phiar ☽ || e-dating user @josikeuu on X: \"we were supposed ... we were supposed to keep this a secret but of course you just had to bring the public in and make yourself look like a victim.",
+    "url": "https://x.com/pihv_v/status/2117086783326343203",
+    "pass": 3
+   },
+   {
+    "quote": "Phiara⌇ふぃあら (@phiarachan) / X 彩羽のあ🪽💫@irohaNoazzZ 夏萌うな🫧🐟@una_natsumeoO の総合アカウント ファンクラブhttps://t.co/V4cS7uluRz 配信タグ #ふぃあらいぶ",
+    "url": "https://x.com/phiarachan",
+    "pass": 3
+   },
+   {
+    "quote": "フィアちゃん＠見習い天使系VTuber on X: \"次はないよ\" Post フィアちゃん＠見習い天使系VTuber🪽🌈 @V_phiar_chan Show translation 次はないよ 7:15 PM · Oct 28, 2026 ·",
+    "url": "https://x.com/V_phiar_chan/status/2115522811347570801",
+    "pass": 3
+   },
+   {
+    "quote": "Replies by Phiar (@Phiarlkgi) / X Show 10 25 234 3.3K Phiar @Phiarlkgi 5h ใหญ่มากคับ 5 คู่สามีภรรยาซีคอนบางแค V2 @crv27992 Oct 5 ถ้านัดกัน ขอแน่นอนหน่อยนะคะ จะไปไหนก็ไปไม่ได้ รอแล้วหาย 2 4 120 1.4K Phiar @Phiarlkgi 5h อยากดูดจังคับ 5 ...",
+    "url": "https://x.com/Phiarlkgi/with_replies",
+    "pass": 3
+   },
+   {
+    "quote": "Phiara⌇ふぃあら (@phiarachan) / X 明日10月分の記事を投稿いたしますので少々お待ちください。 また、先ほど気付いたのですが9月もチェキをお届けし損ねているため、10月分とまとめてお届けいたします💦",
+    "url": "https://x.com/phiarachan",
+    "pass": 3
+   },
+   {
+    "quote": "リクヤ@不定期配信者 on X: \"@V_phiar_chan フィアさんおはひあ〜 ( ⌯... Oct 6, 2026 · 🪽🌈みんなおはひあ～🌈🪽 #おはようVTuber 週の真ん中水曜日～～っ 今週も折り返し地点に立ってるよ～ ( *´艸`) フィアちゃん最近ウマ娘のシンデレラグレイだけ アニメ見てなかったから履修を始めたんだけど… あの、オグリが好きになりました…🤣🤣 みんなもチェックして見て欲しい‼ 6 ...",
+    "url": "https://x.com/enteivol/status/2107594364881104965",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Phiar (Acquired by Google) | AI-powered AR navigation | LinkedIn Phiar is an ultra-lightweight AI company, building the world's most advanced Ultra-Lightweight Spatial AI Engine to enable every vehicle to see its surroundings, running real-time at the edge ...",
+    "url": "https://www.linkedin.com/company/phiar/",
+    "pass": 3
+   },
+   {
+    "quote": "Phiar Jobs in United States (11,000+ Open Roles) | LinkedIn Today’s top 11,000+ Phiar jobs in United States. Leverage your professional network, and get hired. New Phiar jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/phiar-jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Phiar Phiar thang - Student at University | LinkedIn Student at University · Education: University · Location: Perth. View Phiar Phiar thang’s profile on LinkedIn, a professional community of 1 billion members.",
+    "url": "https://au.linkedin.com/in/phiar-phiar-thang-037194136",
+    "pass": 3
+   },
+   {
+    "quote": "Phiar Ceu Hnin Zaathang - AWS | Kubernetes | CICD | NodeJS ...Phiar (Acquired by Google)’s Post - LinkedInPhiar (Acquired by Google) | AI-powered AR navigation’s PostPhiar raises $3 million for AR navigation to eliminate wrong ... AWS | Kubernetes | CICD | NodeJS | Java | Automation · Experience: Westpac · Education: Deakin University · Location: Melbourne · 173 connections on LinkedIn. View Phiar",
+    "url": "https://au.linkedin.com/in/phiarceuhninzaathang",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Phiar - FacebookPhiar - FacebookFacebookPhiar Te Joshua Nu - Facebookka fa pa ti hin abo i athak tuk kheuh... - Phiar Te Joshua Nu ...Kut phiar### | Lalchhanliani Jan - FacebookPhiar on Reels | Facebook Jan 6, 2020 · Phiar. 153 likes. Phiar is an ultra-lightweight AI company, building the world's most advanced Ultra-Lightweight Spatial AI Engine to enable every vehicle to see its surroundings. Phi",
+    "url": "https://www.facebook.com/phiartechnologies/",
+    "pass": 3
+   },
+   {
+    "quote": "Phiar - Facebook Phiar is on Facebook. Join Facebook to connect with Phiar and others you may know. Facebook gives people the power to share and makes the world more open and connected.",
+    "url": "https://www.facebook.com/phiar.2024/",
+    "pass": 3
+   },
+   {
+    "quote": "Phiar Te Joshua Nu - Facebook Phiar Te Joshua Nu. 6,997 likes · 325 talking about this. Digital creator",
+    "url": "https://www.facebook.com/phiar.te.7/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.phiar.net",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://generative-ai.co.jp/usecase/sales-marketing-ai/ai-startup-usecase-phiar-technologies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://techblitz.com/startup-interview/phiartechnologies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://phiaro.jp/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://huntscreens.com/ja/products/phiar",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A3%E3%83%BC_(%E4%BC%81%E6%A5%AD)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yamamoto_ec/n/ncc92bffa3f69",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://phiaro.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unival.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Casey_Phair",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://phiaro.jp/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://phiar.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://thephiarwikis.fandom.com/wiki/Phiarland",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seoreseller.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/phiar",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/232093-72",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/phiar-technologies/__erdR0pchDWR-F1Jt4K3JS_-osmr8EJqesF-Vjymdcxo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tracxn.com/d/companies/phiartechnologies/__erdR0pchDWR-F1Jt4K3JS_-osmr8EJqesF-Vjymdcxo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Phiar6",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/pihv_v/status/2117086783326343203",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/phiarachan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/V_phiar_chan/status/2115522811347570801",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/phiar/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/phiar-jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://au.linkedin.com/in/phiar-phiar-thang-037194136",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://au.linkedin.com/in/phiarceuhninzaathang",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/phiartechnologies/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/phiar.2024/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/phiar.te.7/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Phiarlkgi/with_replies",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/phiarachan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/enteivol/status/2107594364881104965",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Phiar 日本 導入",
+   "results": [
+    "https://generative-ai.co.jp/usecase/sales-marketing-ai/ai-startup-usecase-phiar-technologies/",
+    "https://techblitz.com/startup-interview/phiartechnologies/",
+    "https://phiaro.jp/en/",
+    "https://huntscreens.com/ja/products/phiar",
+    "https://onetech.jp/blog/what-is-ar-car-navigation-system-piar-in-the-car-society-9083",
+    "https://thebridge.jp/2022/09/phiar-acquired-by-google",
+    "https://ameblo.jp/silver-garage-ikebukuro/entry-12464961342.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Phiar 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ジョージフィッシャー_(企業)",
+    "https://note.com/yamamoto_ec/n/ncc92bffa3f69",
+    "https://phiaro.jp/",
+    "https://www.unival.jp/",
+    "https://jp.linkedin.com/company/conferma",
+    "https://www.firapy.co.jp/",
+    "https://www.gaia-jp.com/company/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Phiar Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Casey_Phair",
+    "https://phiaro.jp/en/",
+    "https://phiar.com/",
+    "https://thephiarwikis.fandom.com/wiki/Phiarland",
+    "https://www.linkedin.com/company/phiar/",
+    "https://www.ycombinator.com/companies/phiar",
+    "https://www.holy-seraph.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Phiar manufacturing customer case study",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Phiar white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.seoreseller.com/",
+    "https://upcloud.com/partner-program/",
+    "https://www.ninjaone.com/partner-program/",
+    "https://www.extremenetworks.com/partners"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Phiar founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/phiar",
+    "https://pitchbook.com/profiles/company/232093-72",
+    "https://tracxn.com/d/companies/phiar-technologies/__erdR0pchDWR-F1Jt4K3JS_-osmr8EJqesF-Vjymdcxo",
+    "https://tracxn.com/d/companies/phiartechnologies/__erdR0pchDWR-F1Jt4K3JS_-osmr8EJqesF-Vjymdcxo",
+    "https://growjo.com/company/Phiar",
+    "https://www.cbinsights.com/company/phiar",
+    "https://startupintros.com/orgs/phiar-technologies"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Phiar",
+   "results": [
+    "https://note.com/stargazingwario/n/nc8ea3d35c0f4",
+    "https://note.com/tag/dots",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/ogikubo/n/nf616c0b6685a",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/guaran/n/ne1da1b216a7a",
+    "https://note.com/abeshi/n/n0506b291db8a"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Phiar",
+   "results": [
+    "https://x.com/Phiar6",
+    "https://x.com/pihv_v/status/2117086783326343203",
+    "https://x.com/phiarachan",
+    "https://x.com/V_phiar_chan/status/2115522811347570801",
+    "https://x.com/V_phiar_chan/status/2094452974802333754",
+    "https://x.com/V_phiar_chan/status/2104457855080505627",
+    "https://x.com/V_phiar_chan/status/2100130384621240798"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Phiar",
+   "results": [
+    "https://www.linkedin.com/company/phiar/",
+    "https://www.linkedin.com/jobs/phiar-jobs",
+    "https://au.linkedin.com/in/phiar-phiar-thang-037194136",
+    "https://au.linkedin.com/in/phiarceuhninzaathang",
+    "https://www.linkedin.com/posts/phiar_phiar-raises-3-million-for-ar-navigation-activity-6473695975495081984-4_d3",
+    "https://www.linkedin.com/posts/phiar_phiar-technologies-secures-12-million-series-activity-6849002500629032961-Y6Ut",
+    "https://www.linkedin.com/posts/phiar_google-maps-introduces-ai-powered-live-lane-activity-7391546561412960256-WaTf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Phiar",
+   "results": [
+    "https://www.facebook.com/phiartechnologies/",
+    "https://www.facebook.com/phiar.2024/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/phiar.te.7/",
+    "https://www.facebook.com/phiar.te.7/posts/ka-fa-pa-ti-hin-abo-i-athak-tuk-kheuh-peng-hau-zei-dah-si-hnga/2318692658869157/",
+    "https://www.facebook.com/Bawihnui.Nautea/videos/kut-phiar/1148490904169345/",
+    "https://www.facebook.com/reel/1819564778995930/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Phiar note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://www.linkedin.com/company/phiar/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.com/mycareer_ceo"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Phiar X 投稿",
+   "results": [
+    "https://x.com/Phiarlkgi/with_replies",
+    "https://x.com/phiarachan",
+    "https://x.com/enteivol/status/2107594364881104965",
+    "https://x.com/V_phiar_chan/status/2116290297491787862",
+    "https://x.com/V_phiar_chan/status/2108424260863848648",
+    "https://x.com/V_phiar_chan/status/2112380098636882188",
+    "https://phira.moe/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部34頁・検索12回）"
+ }
+}

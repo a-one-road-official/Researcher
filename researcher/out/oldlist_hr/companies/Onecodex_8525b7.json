@@ -1,0 +1,880 @@
+{
+ "name": "Onecodex",
+ "aliases": [],
+ "context": "旧営業リスト｜Education / Childcare｜未接触",
+ "researched_at": "2026-11-11T11:40:19.928499+00:00",
+ "official_url": "",
+ "identified_by": "not_found",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Our advanced algorithms and curated database provide the most accurate picture of complex metagenomic samples. Meanwhile, an intuitive web-based interface makes data accessible to both bench scientists and computational biologists.",
+    "url": "https://www.onecodex.com/",
+    "pass": 3
+   },
+   {
+    "quote": "We make it easier to solve problems in biology through genomics. Go from stool sample to results quickly and easily - One Codex gives structure to complex datasets, answering questions like: \"What microbes are present?\" and \"What are they doing?\"",
+    "url": "https://www.onecodex.com/",
+    "pass": 3
+   },
+   {
+    "quote": "An easy-to-use web platform, simple APIs for accessing data programatically, and integrations with Illumina BaseSpace and other tools allow you and your collaborators to analyze hundreds or thousands of samples.",
+    "url": "https://www.onecodex.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Complete Reproducibility",
+    "url": "https://www.onecodex.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Solve your reproducibility crisis and de-risk your research. Run the exact same analysis on sample number 1 and 1000, without worrying about bias from batch effects.",
+    "url": "https://www.onecodex.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Premium support and SLA",
+    "url": "https://www.onecodex.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Get started by dragging and dropping your sequence data into web browser. You'll have a full comprehensive picture of your samples in minutes.",
+    "url": "https://www.onecodex.com/platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Share your findings – and the underlying data – directly with your colleagues. Alternatively, we can help you develop reproducible reports that generate PDF, Excel, and other outputs.",
+    "url": "https://www.onecodex.com/platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Functional prediction",
+    "url": "https://www.onecodex.com/platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Targeted panels identify specific functional or phylogenetic markers of interest and may be used to predict function such as antimicrobial resistance (AMR)",
+    "url": "https://www.onecodex.com/platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Extend your other analyses to answer specific questions. Reports build on other analyses and provide a convenient way to encapsulate and share results.",
+    "url": "https://www.onecodex.com/platform/",
+    "pass": 3
+   },
+   {
+    "quote": "(as of January 2025) consists of ~148K complete microbial genomes, including approximately:",
+    "url": "https://docs.onecodex.com/en/articles/3761205-one-codex-database",
+    "pass": 3
+   },
+   {
+    "quote": "The human and mouse genomes are included to screen out host reads, and you can find the complete list of organisms in our",
+    "url": "https://docs.onecodex.com/en/articles/3761205-one-codex-database",
+    "pass": 3
+   },
+   {
+    "quote": ". The database is assembled from both of public and private sources, with a combination of automated and manual curation steps to remove low quality or mislabeled records. Analysis against the",
+    "url": "https://docs.onecodex.com/en/articles/3761205-one-codex-database",
+    "pass": 3
+   },
+   {
+    "quote": "Precise quantification",
+    "url": "https://docs.onecodex.com/en/articles/3761205-one-codex-database",
+    "pass": 3
+   },
+   {
+    "quote": "eliminate low abundance or low confidence hits, only probable sequencing or reference genome artifacts.[1]",
+    "url": "https://docs.onecodex.com/en/articles/3761205-one-codex-database",
+    "pass": 3
+   },
+   {
+    "quote": "simulated sample from Segata et al. (2012). It shows how the latest version of the platform provides extremely accurate relative abundance estimates, while also substantially limiting the number of false positives when compared to previous k-mer based methods like Kraken.",
+    "url": "https://docs.onecodex.com/en/articles/3761205-one-codex-database",
+    "pass": 3
+   },
+   {
+    "quote": "Segata N, Waldron L, Ballarini A, Narasimhan V, Jousson O, Huttenhower C. Metagenomic microbial community profiling using clade-specific marker genes. Nat Methods. 2012 Jun 10;9(8):811-4. doi:",
+    "url": "https://docs.onecodex.com/en/articles/3761205-one-codex-database",
+    "pass": 3
+   },
+   {
+    "quote": "Surveillance, Bioinformatics, Genomics, Probiotics, Next Generation Sequencing, Microbiome, Clinical Microbiology, Pathogen Detection, Infectious Diseases, Metagenomics, Epidemiology",
+    "url": "https://prospeo.io/c/one-codex-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/one-codex-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Asociación Gallega de Profesionales de la Criminología| AGPCrim",
+    "url": "https://prospeo.io/c/one-codex-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "One Codex has approximately",
+    "url": "https://prospeo.io/c/one-codex-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/one-codex-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/one-codex-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/one-codex-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "One Codex 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/102422-26",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a bioinformatics platform designed to provide data for applied microbial genomics.",
+    "url": "https://pitchbook.com/profiles/company/102422-26",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a bioinformatics platform designed to provide data for applied microbial genomics. The company specializes in creating robust, scalable, and secure bioinformatics solutions for metagenomics and microbial genomics, with a strong focus on ease of use, thereby providing applied microbiologists with fast and easy-to-use microbiome analysis with the microbial reference database.",
+    "url": "https://pitchbook.com/profiles/company/102422-26",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/102422-26",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/102422-26",
+    "pass": 3
+   },
+   {
+    "quote": "One Codex’s primary industry is Other Healthcare Technology Systems.",
+    "url": "https://pitchbook.com/profiles/company/102422-26",
+    "pass": 3
+   },
+   {
+    "quote": "Is One Codex a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/102422-26",
+    "pass": 3
+   },
+   {
+    "quote": "One Codex is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/102422-26",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/102422-26",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/102422-26",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/102422-26",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Leading institutions trust One Codex for everything from microbiome sequencing to data analysis to reporting. Our customers include top academic labs, biotechnology companies developing live biotherapeutics (LBPs), and clinical laboratories performing infectious disease diagnostics.",
+    "url": "https://www.onecodex.com/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "One Codex | A fast, easy-to-use platform for microbiome ... — A fast, easy-to-use platform for microbiome sequencing and analysis Get started quickly with an intuitive interface and rapid, accurate analysis. One Codex is the world’s largest microbial reference database and can support millions of microbiome and infectious disease samples.",
+    "url": "https://www.onecodex.com/",
+    "pass": 3
+   },
+   {
+    "quote": "One Codex — One Codex is the leading bioinformatics and data platform for microbial genomics. It supports taxonomic and functional analysis of metagenomic data (WGS), 16S, 18S, ITS, and other amplicon data.",
+    "url": "https://app.onecodex.com/",
+    "pass": 3
+   },
+   {
+    "quote": "A complete platform for microbial genomics - One Codex — A complete platform for microbial genomics Go from sequence to solution with interactive results and rapid analyses. Manage your databank, analyze your samples, and share the results with colleagues and collaborators — whether you have one sample or one million.",
+    "url": "https://www.onecodex.com/platform/",
+    "pass": 3
+   },
+   {
+    "quote": "One Codex Database — Oct 20, 2026 · The human and mouse genomes are included to screen out host reads, and you can find the complete list of organisms in our list of references. The database is assembled from both of public and private sources, with a combination of automated and manual curation steps to remove low quality or mislabeled records. Analysis against the One Codex Database provides:",
+    "url": "https://docs.onecodex.com/en/articles/3761205-one-codex-database",
+    "pass": 3
+   },
+   {
+    "quote": "One Codex — One Codex is the leading bioinformatics and data platform for microbial genomics. It supports taxonomic and functional analysis of metagenomic data (WGS), 16S, 18S, ITS, and other amplicon data.",
+    "url": "https://app.onecodex.com/examples",
+    "pass": 3
+   },
+   {
+    "quote": "One Codex Revenue, Funding & Valuation - prospeo.io — Founded in 2014, the One Codex platform counts thousands of users across leading academic institutions, biotechnology companies, and public sector organizations. One Codex is built on top of Amazon Web Services and is the only microbial genomics offering providing HIPAA-level security, as well as other strong compliance and audit guarantees.",
+    "url": "https://prospeo.io/c/one-codex-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "One Codex 2026 Company Profile: Valuation, Investors ...One Codex Funding: $120K | Indexed.vcOne Codex - 2025 Company Profile, Team, Funding ... - TracxnOne Codex Information - RocketReachOne Codex Valuation & Funding History | CaplightOne Codex Company Profile - Office Locations, Competitors ... — Information on acquisition, funding, cap tables, investors, and executives for One Codex. Use the Pi",
+    "url": "https://pitchbook.com/profiles/company/102422-26",
+    "pass": 3
+   },
+   {
+    "quote": "One Codex Funding: $120K | Indexed.vc — One Codex is a Biotech company based in San Francisco, United States, founded in 2014. It has raised $120K in total across 1 round, most recently a $120K Seed round in Jul 2014.",
+    "url": "https://indexed.vc/companies/onecodex",
+    "pass": 3
+   },
+   {
+    "quote": "One Codex - 2025 Company Profile, Team, Funding ... - Tracxn — Oct 19, 2025 · One Codex is a seed company based in San Francisco (United States), founded in 2014 by Nick Greenfield. It operates as a Microbiome sequencing and analysis platform for accelerating research and discovery. One Codex has raised $120K in funding. The company has 738 active competitors, including 151 funded and 84 that have",
+    "url": "https://tracxn.com/d/companies/one-codex/__5j-rUZ4BOyONAMrvVc4kjgTZx1txSYlEOYPpmXOiLTc",
+    "pass": 3
+   },
+   {
+    "quote": "One Codex Information - RocketReachOne Codex Valuation & Funding History | CaplightOne Codex Company Profile - Office Locations, Competitors ... — One Codex is a Biotechnology, Business Services General, and Other Healthcare Technology Systems company located in San Francisco, California with $11 million in revenue and 11 employees. Find top employees, contact details and business statistics at Ro",
+    "url": "https://rocketreach.co/one-codex-profile_b4571accfca7bd57",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "and should only be used for diagnostic purposes or for comparison to pure read-level classifiers, e.g., Kraken. Please feel free to contact us if you believe you have a sample where an important taxa is not displayed in the filtered result set.",
+    "url": "https://docs.onecodex.com/en/articles/3761205-one-codex-database",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/one-codex-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/102422-26",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "One Codex Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/one-codex-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At One Codex",
+    "url": "https://prospeo.io/c/one-codex-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/one-codex-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/one-codex-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/one-codex-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of One Codex?",
+    "url": "https://prospeo.io/c/one-codex-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "One Codex generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/one-codex-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/one-codex-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/one-codex-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does One Codex have?",
+    "url": "https://prospeo.io/c/one-codex-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/one-codex-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "One Codex 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/102422-26",
+    "pass": 3
+   },
+   {
+    "quote": "5. Merger/Acquisition",
+    "url": "https://pitchbook.com/profiles/company/102422-26",
+    "pass": 3
+   },
+   {
+    "quote": "One Codex has 13 total employees.",
+    "url": "https://pitchbook.com/profiles/company/102422-26",
+    "pass": 3
+   },
+   {
+    "quote": "What is One Codex’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/102422-26",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for One Codex is",
+    "url": "https://pitchbook.com/profiles/company/102422-26",
+    "pass": 3
+   },
+   {
+    "quote": "When was One Codex acquired?",
+    "url": "https://pitchbook.com/profiles/company/102422-26",
+    "pass": 3
+   },
+   {
+    "quote": "One Codex was acquired on 01-Feb-2021.",
+    "url": "https://pitchbook.com/profiles/company/102422-26",
+    "pass": 3
+   },
+   {
+    "quote": "Who acquired One Codex?",
+    "url": "https://pitchbook.com/profiles/company/102422-26",
+    "pass": 3
+   },
+   {
+    "quote": "One Codex was acquired by",
+    "url": "https://pitchbook.com/profiles/company/102422-26",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Magnus Wolf - @OneCodex (@OneCodex1) / X 1 Magnus Wolf - @OneCodex @OneCodex1 Mar 31, 2021 A great article about modern angular development and tooling",
+    "url": "https://x.com/onecodex1",
+    "pass": 3
+   },
+   {
+    "quote": "Nick Greenfield (@boydgreenfield) / Posts / X GitHub - onecodex/rust-bfield: B-field implementation in Rust github.com 💬1 🔄2 🤍12 📊903 📎 🔁Reposted by Nick Greenfield Simon Willison simonw Apr 26 Under-appreciated leaderboard in my opinion - function calling (aka tool usage) is one of the most interesting applications of LLMs, plus it should be independent of how much \"knowledge\" is baked into the m",
+    "url": "https://x.com/boydgreenfield",
+    "pass": 3
+   },
+   {
+    "quote": "Kashef Qaadri (@geneiam) / Posts / X genomics, bioinformatics @biorad | former vp @onecodex, @benchling & @biomatters / @geneious Opinions are my own.",
+    "url": "https://x.com/geneiam",
+    "pass": 3
+   },
+   {
+    "quote": "@OneCodex | X The latest posts from @OneCodex",
+    "url": "https://x.com/OneCodex",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Magnus Wolf – Freelancer, Consultant, Software-Entwickler ...Denise Lynch - Scientific Implementation Lead at One Codex ...#onecodex #gestionedelpersonale #efficienzaaziendale | OneCodeX#onecodex #gestionedelpersonale #hr #risorseumane # ...Brian Fish - One Codex | LinkedIn Freelancer, Consultant, Software-Entwickler & Inhaber bei OneCodex GmbH · Berufserfahrung: OneCodex GmbH · Ausbildung: Fachho",
+    "url": "https://ch.linkedin.com/in/magnus-wolf-31891894",
+    "pass": 3
+   },
+   {
+    "quote": "Denise Lynch - Scientific Implementation Lead at One Codex ...#onecodex #gestionedelpersonale #efficienzaaziendale | OneCodeX#onecodex #gestionedelpersonale #hr #risorseumane # ...Brian Fish - One Codex | LinkedIn Jun 19, 2015 · Scientific Implementation Lead at One Codex · Experience: One Codex · Location: Canada · 500+ connections on LinkedIn. View Denise Lynch’s profile on LinkedIn, a professio",
+    "url": "https://ca.linkedin.com/in/denise-lynch-62173517",
+    "pass": 3
+   },
+   {
+    "quote": "#onecodex #gestionedelpersonale #efficienzaaziendale | OneCodeX OneCodeX nasce per semplificare la gestione del personale, ridurre le attività manuali e restituire tempo all’azienda. Tempo da dedicare ai clienti, all’organizzazione e alla crescita.",
+    "url": "https://it.linkedin.com/posts/onecodex-ai_onecodex-gestionedelpersonale-efficienzaaziendale-activity-7505698123256664064-ZkO0",
+    "pass": 3
+   },
+   {
+    "quote": "#onecodex #gestionedelpersonale #hr #risorseumane # ... Il volto di chi non deve più impazzire con turni, ferie e gestione del personale. Mentre qualcuno è ancora alle prese con fogli Excel, modifiche dell'ultimo minuto e decine di messaggi per comunicare i turni, c'è chi ha scelto di semplificare tutto con OneCodeX. Con OneCodeX la gestione del personale diventa davvero smart: I turni vengono gen",
+    "url": "https://it.linkedin.com/posts/onecodex-ai_onecodex-gestionedelpersonale-hr-activity-7508081322347806720-MJRx",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "OneCodex GmbH | Bassersdorf - Facebook OneCodex GmbH, Bassersdorf. 69 followers. Wir konzipieren und realisieren Ihre Applikationen mit den aktuellsten Technologien und setzten dabei diverse IT-Werkzeuge nutzbringend ein.",
+    "url": "https://www.facebook.com/onecodex.ch/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.onecodex.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://app.onecodex.com/login?next=%2F",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.onecodex.com/platform/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://keikama-saikaihatsu.com/codex",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://app.onecodex.com/login?next=%2F",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.biocodex.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.onecodex.com/en/articles/3761205-one-codex-database",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.codexworld.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onecodex.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://app.onecodex.com/examples",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upcloud.com/global/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/one-codex-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/102422-26",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://indexed.vc/companies/onecodex",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/one-codex/__5j-rUZ4BOyONAMrvVc4kjgTZx1txSYlEOYPpmXOiLTc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/onecodex1",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/boydgreenfield",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/geneiam",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ch.linkedin.com/in/magnus-wolf-31891894",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/denise-lynch-62173517",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://it.linkedin.com/posts/onecodex-ai_onecodex-gestionedelpersonale-efficienzaaziendale-activity-7505698123256664064-ZkO0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://it.linkedin.com/posts/onecodex-ai_onecodex-gestionedelpersonale-hr-activity-7508081322347806720-MJRx",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/onecodex.ch/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OneCodex",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Onecodex",
+   "results": [
+    "https://www.onecodex.com/",
+    "https://app.onecodex.com/",
+    "https://www.onecodex.com/platform/",
+    "https://docs.onecodex.com/",
+    "https://app.onecodex.com/references",
+    "https://github.com/lidge-jun/opencodex",
+    "https://developer.onecodex.com/api-reference/getting-started"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "株式会社Onecodex",
+   "results": [
+    "https://www.onecodex.com/",
+    "https://app.onecodex.com/",
+    "https://www.onecodex.com/platform/",
+    "https://www.onecodex.com/landing/",
+    "https://www.onecodex.com/sequencing/",
+    "https://www.onecodex.com/genome-library/",
+    "https://www.onecodex.com/microbiome/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Onecodex 株式会社",
+   "results": [
+    "https://www.onecodex.com/",
+    "https://app.onecodex.com/",
+    "https://www.onecodex.com/landing/",
+    "https://www.onecodex.com/platform/",
+    "https://www.onecodex.com/sequencing/",
+    "https://docs.onecodex.com/",
+    "https://www.onecodex.com/genome-library/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Ｏｎｅｃｏｄｅｘ",
+   "results": [
+    "https://ja.wikipedia.org/wiki/OLDCODEX",
+    "https://www.onecodex.com/",
+    "https://app.onecodex.com/",
+    "https://www.onecodex.com/platform/",
+    "https://docs.onecodex.com/",
+    "https://docs.onecodex.com/en/articles/6891181-sequencing-and-analysis-methods",
+    "https://github.com/onecodex/",
+    "https://github.com/onecodex/onecodex"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Onecodex Japan",
+   "results": [
+    "https://www.onecodex.com/",
+    "https://app.onecodex.com/",
+    "https://www.onecodex.com/landing/",
+    "https://www.onecodex.com/platform/",
+    "https://www.onecodex.com/sequencing/",
+    "https://www.onecodex.com/microbiome/",
+    "https://www.onecodex.com/genome-library/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Onecodex 日本",
+   "results": [
+    "https://www.onecodex.com/",
+    "https://app.onecodex.com/",
+    "https://www.onecodex.com/platform/",
+    "https://www.onecodex.com/products/",
+    "https://www.onecodex.com/sequencing/",
+    "https://www.onecodex.com/microbiome/",
+    "https://www.onecodex.com/landing/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Onecodex K.K.",
+   "results": [
+    "https://www.onecodex.com/",
+    "https://app.onecodex.com/login?next=/",
+    "https://www.onecodex.com/landing/",
+    "https://docs.onecodex.com/",
+    "https://www.onecodex.com/platform/",
+    "https://www.onecodex.com/genome-library/",
+    "https://www.onecodex.com/microbiome-sequencing/process/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Onecodex 日本 導入",
+   "results": [
+    "https://www.onecodex.com/",
+    "https://app.onecodex.com/",
+    "https://www.onecodex.com/platform/",
+    "https://keikama-saikaihatsu.com/codex",
+    "https://note.com/ai_diary_jp/n/n4903cf4a9174",
+    "https://www.onecodex.com/microbiome/",
+    "https://www.onecodex.com/sequencing/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Onecodex 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://app.onecodex.com/",
+    "https://www.biocodex.com/en/",
+    "https://docs.onecodex.com/en/articles/3761205-one-codex-database",
+    "https://codexglobal.net/",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.onefc.com/jp/about-us/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Onecodex Japan",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Onecodex manufacturing customer case study",
+   "results": [
+    "https://www.codexworld.com/case-studies/",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.onecodex.com/",
+    "https://app.onecodex.com/examples",
+    "https://www.onecodex.com/platform/",
+    "https://www.atcc.org/about-us/who-we-are/our-partnerships/one-codex-partnership",
+    "https://docs.onecodex.com/en/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Onecodex white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/",
+    "https://www.superantispyware.com/reseller-program",
+    "https://www.ninjaone.com/partner-program/",
+    "https://www.thenationalcouncil.org/get-involved/partner-with-us/partnership-program/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Onecodex founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/one-codex-revenue",
+    "https://pitchbook.com/profiles/company/102422-26",
+    "https://indexed.vc/companies/onecodex",
+    "https://tracxn.com/d/companies/one-codex/__5j-rUZ4BOyONAMrvVc4kjgTZx1txSYlEOYPpmXOiLTc",
+    "https://rocketreach.co/one-codex-profile_b4571accfca7bd57",
+    "https://www.caplight.com/company/onecodex",
+    "https://craft.co/one-codex"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Onecodex",
+   "results": [
+    "https://note.com/daikidomon/n/n2df6ab4a4ff6?hl=en",
+    "https://note.com/k_m391/n/n8d8b77e7301d?hl=en",
+    "https://note.com/reika0830/n/neca6a580dab4?hl=en",
+    "https://note.com/masa_aimaster/n/n6b928a1c1a8e?hl=en",
+    "https://note.com/oto_wan_ai/n/n45e66688d26f?hl=en",
+    "https://note.com/koume9499/n/n0909344e1b8c?hl=en",
+    "https://note.com/ttsukahara/n/nbe87bcda37f3?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Onecodex",
+   "results": [
+    "https://x.com/onecodex1",
+    "https://x.com/boydgreenfield",
+    "https://x.com/geneiam",
+    "https://x.com/trycodex",
+    "https://x.com/Codex_HQ",
+    "https://x.com/codexfx",
+    "https://x.com/OpenAIDevs/status/2080390328880951299"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Onecodex",
+   "results": [
+    "https://ch.linkedin.com/in/magnus-wolf-31891894",
+    "https://ca.linkedin.com/in/denise-lynch-62173517",
+    "https://it.linkedin.com/posts/onecodex-ai_onecodex-gestionedelpersonale-efficienzaaziendale-activity-7505698123256664064-ZkO0",
+    "https://it.linkedin.com/posts/onecodex-ai_onecodex-gestionedelpersonale-hr-activity-7508081322347806720-MJRx",
+    "https://www.linkedin.com/in/brainfish",
+    "https://www.linkedin.com/company/onecodex",
+    "https://www.linkedin.com/posts/onecodex_weve-just-released-the-biggest-update-ever-activity-7313222775005949953-CMcC"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Onecodex",
+   "results": [
+    "https://www.facebook.com/onecodex.ch/",
+    "https://secure.facebook.com/login/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/thecodexnetwork/",
+    "https://www.facebook.com/onecodex.ch/posts/2008891449209562/",
+    "https://www.facebook.com/OneCodex/",
+    "https://www.facebook.com/oneCodexofficial/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Onecodex note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.com/i_shacho_jp/n/ne33b1d6fc0ff",
+    "https://www.onecodex.com/",
+    "https://note.com/u_suke_37/n/nb5c188029313"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Onecodex X 投稿",
+   "results": [
+    "https://x.com/OneCodex",
+    "https://www.onecodex.com/",
+    "https://app.onecodex.com/",
+    "https://x.com/kimurap0729/status/2045164324986232910",
+    "https://chaaaaarin.github.io/kawaru-20260708/onepager.html",
+    "https://www.onecodex.com/landing/",
+    "https://zhuanlan.zhihu.com/p/2071615226705982299"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部29頁・検索19回）",
+  "株主": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部29頁・検索19回）",
+  "従業員数": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部29頁・検索19回）",
+  "売上高": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部29頁・検索19回）",
+  "所在地": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部29頁・検索19回）",
+  "料金": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部29頁・検索19回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部29頁・検索19回）",
+  "日本の担い手": "記載なし（3回確認済み：公式0頁／PDF・画像0件／外部29頁・検索19回）"
+ }
+}

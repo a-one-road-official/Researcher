@@ -1,0 +1,1631 @@
+{
+ "name": "有限会社飯田製作所 福島第2工場",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T10:58:18.020135+00:00",
+ "official_url": "https://www.iidaf.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "横浜本社 〒245-0018 神奈川県横浜市泉区上飯田町823 福島工場 〒969-1203 福島県本宮市白岩字埋内120-2 TEL：0243-44-3013 FAX：0243-44-3016 福島第2工場 〒969-1204 福島県本宮市糠沢字水上21-2 TEL：0243-64-2320 FAX：0243-64-2571",
+    "url": "https://iidaf.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "日本 福島県 本宮市 [地図を見る] 担当者 大内 知恵",
+    "url": "https://ja.nc-net.or.jp/company/72888/",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "年商",
+    "value": "21億6,300万円（令和7年3月決算時）",
+    "url": "https://iidaf.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "年間売上高",
+    "value": "24,017 万円 エミダス会員番号 72888",
+    "url": "https://ja.nc-net.or.jp/company/72888/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "145名（2026年4月1日時点）",
+    "url": "https://iidaf.com/company/",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "NOK株式会社 淀川ヒューテック株式会社 サーパス工業株式会社 株式会社仙台ニコン",
+    "url": "https://iidaf.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "取引先銀行",
+    "value": "三菱UFJ銀行仙台中央支店 東邦銀行本宮支店",
+    "url": "https://iidaf.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "主要取引先",
+    "value": "NOK株式会社 イーグル工業株式会社 淀川ヒューテック株式会社 株式会社仙台ニコン サーパス工業株式会社",
+    "url": "https://ja.nc-net.or.jp/company/72888/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "製品設計から金型設計・製作、",
+    "url": "https://iidaf.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品設計から製造設計、金型設計・製作、樹脂成形（射出成形・圧縮成形）、切削加工まで、一貫した生産体制を構築しています",
+    "url": "https://iidaf.com/",
+    "pass": 1
+   },
+   {
+    "quote": "「使う身になって作ろう良い製品」を合言葉にして、",
+    "url": "https://iidaf.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ISO9001:2015に準拠した品質マネジメントシステムのもと、『使う身になって作ろう良い製品』を合言葉に、全社一丸となって品質向上に取り組んでおります",
+    "url": "https://iidaf.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "特に、PTFEなどの柔らかく精度を出しにくい樹脂材の加工に強みを持ち、均一な肉厚（t=0.2±0.025mm）で、バリや反りを抑えた高精度製品を提供しています",
+    "url": "https://iidaf.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "量産段階では、生産技術担当者が治具設計・製作を行うことで、高精度で歩留まりの良い製品を実現しています",
+    "url": "https://iidaf.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ごとにご希望の見積り数量をご指定いただき、問い合わせフォームにて見積の依頼内容をお知らせください",
+    "url": "https://iidaf.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "納期は、製品の素材・形状・数量、工場内設備の稼働状況により変動がございます",
+    "url": "https://iidaf.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の現物をお預かりして採寸し、加工可能判断をさせていただきます",
+    "url": "https://iidaf.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "製品内部形状を確認するため、破断する必要があるものもございますので、ご注意ください",
+    "url": "https://iidaf.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "加工、検査エリアは製品の寸法変動を抑えるため、25℃±2℃で管理された恒温エリアとしております",
+    "url": "https://iidaf.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "製品サンプルの展示ルームもございますので、製品を直接お手に取ってご確認いただけます",
+    "url": "https://iidaf.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "金型設計から加工、さらには量産までを一貫して行うため、バリや変形、反りのない高品質な製品を安定的に供給可能です",
+    "url": "https://iidaf.com/service/press/",
+    "pass": 1
+   },
+   {
+    "quote": "また、スリット加工（最小幅0.06mm）やツブシ加工においても、均一性の高い製品を提供しています",
+    "url": "https://iidaf.com/service/press/",
+    "pass": 1
+   },
+   {
+    "quote": "自社にて品質管理体制を完全に整え、エコアクション21認証も取得しており、各業界で信頼性の高い製品を提供しています",
+    "url": "https://iidaf.com/service/press/",
+    "pass": 1
+   },
+   {
+    "quote": "製品サイズ：1mm～150mm角",
+    "url": "https://iidaf.com/service/press/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ごとにご希望の見積り数量をご指定いただき、問い合わせフォームにて見積の依頼内容をお知らせください",
+    "url": "https://iidaf.com/service/press/",
+    "pass": 1
+   },
+   {
+    "quote": "納期は、製品の素材・形状・数量、工場内設備の稼働状況により変動がございます",
+    "url": "https://iidaf.com/service/press/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の現物をお預かりして採寸し、加工可能判断をさせていただきます",
+    "url": "https://iidaf.com/service/press/",
+    "pass": 1
+   },
+   {
+    "quote": "製品内部形状を確認するため、破断する必要があるものもございますので、ご注意ください",
+    "url": "https://iidaf.com/service/press/",
+    "pass": 1
+   },
+   {
+    "quote": "加工、検査エリアは製品の寸法変動を抑えるため、25℃±2℃で管理された恒温エリアとしております",
+    "url": "https://iidaf.com/service/press/",
+    "pass": 1
+   },
+   {
+    "quote": "製品サンプルの展示ルームもございますので、製品を直接お手に取ってご確認いただけます",
+    "url": "https://iidaf.com/service/press/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、試作開発から実製品対応まで幅広いニーズに応えるため、複数の高性能3Dプリンタを導入しております",
+    "url": "https://iidaf.com/service/3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "世界に一つだけの特別な製品づくりにも最適です",
+    "url": "https://iidaf.com/service/3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、造形後に特殊製法によるアニール処理を行うことで、高精度かつ高強度な製品に仕上げることもできます",
+    "url": "https://iidaf.com/service/3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス（43件）",
+    "url": "https://pr.mono.ipros.com/iidaf/",
+    "pass": 3
+   },
+   {
+    "quote": "講演や各種セミナー、関連製品や技術を紹介する産業展です",
+    "url": "https://pr.mono.ipros.com/iidaf/",
+    "pass": 3
+   },
+   {
+    "quote": "本展は、世界で最も歴史のあるバイオテクノロジー展示会で、最新の医療技術や製品が紹介されるだけでなく、研究者・医療専門家・バイオテク企業が一堂に集い、情報交換やビジネスマッチングの場としても大注目されています",
+    "url": "https://pr.mono.ipros.com/iidaf/",
+    "pass": 3
+   },
+   {
+    "quote": "環境に配慮した工場で、建機・産機、食品機械向けのパッキンシールなどの樹脂製品を",
+    "url": "https://pr.mono.ipros.com/iidaf/",
+    "pass": 3
+   },
+   {
+    "quote": "≪医療分野にも対応–高精度な加工技術を活かした製品づくり≫",
+    "url": "https://pr.mono.ipros.com/iidaf/",
+    "pass": 3
+   },
+   {
+    "quote": "IIDAならではの技術力を活かし、金型製品・成形部品・切削部品など、",
+    "url": "https://pr.mono.ipros.com/iidaf/",
+    "pass": 3
+   },
+   {
+    "quote": "精密加工技術で高品質製品を提供し、自動車・半導体に加え医療・航空宇宙分野への参入を加速します",
+    "url": "https://ja.nc-net.or.jp/company/72888/",
+    "pass": 3
+   },
+   {
+    "quote": "飯田独自の技術と積み重ねた信頼をもとに、『金型製品』『成形部品』『切削部品』を",
+    "url": "https://ja.nc-net.or.jp/company/72888/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(43)",
+    "url": "https://mono.ipros.com/company/detail/2066948/",
+    "pass": 3
+   },
+   {
+    "quote": "環境に配慮した工場で、建機・産機、食品機械向けのパッキンシールなどの樹脂製品を",
+    "url": "https://mono.ipros.com/company/detail/2066948/",
+    "pass": 3
+   },
+   {
+    "quote": "≪医療分野にも対応–高精度な加工技術を活かした製品づくり≫",
+    "url": "https://mono.ipros.com/company/detail/2066948/",
+    "pass": 3
+   },
+   {
+    "quote": "IIDAならではの技術力を活かし、金型製品・成形部品・切削部品など、",
+    "url": "https://mono.ipros.com/company/detail/2066948/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (43)",
+    "url": "https://mono.ipros.com/company/detail/2066948/",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社飯田製作所 会社案内＜フッ素樹脂・プラスチック総合加工＞IIDAの会社概要/生産拠点/沿革/設備/製品概要をご紹介",
+    "url": "https://mono.ipros.com/company/detail/2066948/",
+    "pass": 3
+   },
+   {
+    "quote": "講演や各種セミナー、関連製品や技術を紹介する産業展です",
+    "url": "https://mono.ipros.com/company/detail/2066948/",
+    "pass": 3
+   },
+   {
+    "quote": "本展は、世界で最も歴史のあるバイオテクノロジー展示会で、最新の医療技術や製品が紹介されるだけでなく、研究者・医療専門家・バイオテク企業が一堂に集い、情報交換やビジネスマッチングの場としても大注目されています",
+    "url": "https://mono.ipros.com/company/detail/2066948/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・研究開発（建築・土木・プラント・設備）",
+    "url": "https://ja.nc-net.or.jp/company/72888/inquiry/input/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "フッ素樹脂・PEEKの精密加工｜有限会社飯田製作所",
+    "url": "https://iidaf.com/",
+    "pass": 1
+   },
+   {
+    "quote": "フッ素樹脂（PTFE）やエンプラ（PEEK、POM他）のプラスチック精密切削・成形ならIIDA",
+    "url": "https://iidaf.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品設計から製造設計、金型設計・製作、樹脂成形（射出成形・圧縮成形）、切削加工まで、一貫した生産体制を構築しています",
+    "url": "https://iidaf.com/",
+    "pass": 1
+   },
+   {
+    "quote": "創業以来60年以上、フッ素樹脂の切削加工に専念してきた長い歴史があります",
+    "url": "https://iidaf.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンティングを含め、樹脂加工においては、試作から量産試作、大量生産まで、小径からΦ1200までのリング形状、□500までの角物、5軸マシニングによる傾斜や球状等の複雑形状の樹脂部品の加工も可能です",
+    "url": "https://iidaf.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "またPEEKやPEKといった先進的なエンプラ樹脂切削加工や、",
+    "url": "https://iidaf.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "試作段階からの技術支援を通じて、汎用プラからスーパーエンプラ樹脂加工まであらゆる課題に挑みます",
+    "url": "https://iidaf.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂ベアリング「2020年度グッドデザイン賞」受賞",
+    "url": "https://iidaf.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "フッ素樹脂（PTFE）の切削加工をはじめ、軟部材樹脂の精密切削加工を試作から量産まで行っております",
+    "url": "https://iidaf.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "フルカラー造形から高耐熱樹脂の加工まで、目的に応じた最適な造形が可能です",
+    "url": "https://iidaf.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "PTFE（フッ素樹脂）と金属を直接結びつける、弊社の特許技術です",
+    "url": "https://iidaf.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "六角ボルト | フッ素樹脂・PEEKの精密加工｜有限会社飯田製作所",
+    "url": "https://iidaf.com/works/%E5%85%AD%E8%A7%92%E3%83%9C%E3%83%AB%E3%83%88/",
+    "pass": 1
+   },
+   {
+    "quote": "極細スリット加工品 | フッ素樹脂・PEEKの精密加工｜有限会社飯田製作所",
+    "url": "https://iidaf.com/works/%E6%A5%B5%E7%B4%B0%E3%82%B9%E3%83%AA%E3%83%83%E3%83%88%E5%8A%A0%E5%B7%A5%E5%93%81/",
+    "pass": 1
+   },
+   {
+    "quote": "材質にNi-Tin材（ニッケルチタン合金/形状記憶合金）を用いることで、他材質にはない独自の機能性を発揮します",
+    "url": "https://iidaf.com/works/%E6%A5%B5%E7%B4%B0%E3%82%B9%E3%83%AA%E3%83%83%E3%83%88%E5%8A%A0%E5%B7%A5%E5%93%81/",
+    "pass": 1
+   },
+   {
+    "quote": "フッ素樹脂（PTFE）など難削材の切削加工",
+    "url": "https://iidaf.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "フッ素樹脂（PTFE）などの難削材加工でお悩みではありませんか？",
+    "url": "https://iidaf.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の強みは、フッ素樹脂をはじめとする軟部材樹脂の高度精密切削加工技術にあります",
+    "url": "https://iidaf.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "特に、PTFEなどの柔らかく精度を出しにくい樹脂材の加工に強みを持ち、均一な肉厚（t=0.2±0.025mm）で、バリや反りを抑えた高精度製品を提供しています",
+    "url": "https://iidaf.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "フルカラー造形から高耐熱樹脂の加工まで、目的に応じた最適な造形が可能です",
+    "url": "https://iidaf.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "PTFE（フッ素樹脂）と金属を直接結びつける、弊社の特許技術です",
+    "url": "https://iidaf.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "特に細枠プレス品や薄膜フィルムの実績において高い評価をいただいており、極薄チタン材への加工など豊富な経験があります",
+    "url": "https://iidaf.com/service/press/",
+    "pass": 1
+   },
+   {
+    "quote": "金属：金属全般（チタン、ステンレス、黄銅（真鍮）など）",
+    "url": "https://iidaf.com/service/press/",
+    "pass": 1
+   },
+   {
+    "quote": "フッ素樹脂（PTFE）の切削加工をはじめ、軟部材樹脂の精密切削加工を試作から量産まで行っております",
+    "url": "https://iidaf.com/service/press/",
+    "pass": 1
+   },
+   {
+    "quote": "フルカラー造形から高耐熱樹脂の加工まで、目的に応じた最適な造形が可能です",
+    "url": "https://iidaf.com/service/press/",
+    "pass": 1
+   },
+   {
+    "quote": "PTFE（フッ素樹脂）と金属を直接結びつける、弊社の特許技術です",
+    "url": "https://iidaf.com/service/press/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ造形 | フッ素樹脂・PEEKの精密加工｜有限会社飯田製作所",
+    "url": "https://iidaf.com/service/3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "レジン、フィラメントの種類も豊富に取り揃え、フルカラー造形から高耐熱樹脂の加工まで、目的に応じた最適な造形が可能です",
+    "url": "https://iidaf.com/service/3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂を用いた高精度な造形により、複雑な形状や細かな寸法も正確に再現",
+    "url": "https://iidaf.com/service/3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "03．PEEKなどのスーパーエンプラ対応可能",
+    "url": "https://iidaf.com/service/3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "フッ素樹脂（PTFE）の切削加工をはじめ、軟部材樹脂の精密切削加工を試作から量産まで行っております",
+    "url": "https://iidaf.com/service/3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "PTFE（フッ素樹脂）と金属を直接結びつける、弊社の特許技術です",
+    "url": "https://iidaf.com/service/3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "切削加工 | フッ素樹脂・PEEKの精密加工｜有限会社飯田製作所",
+    "url": "https://iidaf.com/works_cat/cutting-processing/",
+    "pass": 1
+   },
+   {
+    "quote": "成形加工 | フッ素樹脂・PEEKの精密加工｜有限会社飯田製作所",
+    "url": "https://iidaf.com/works_cat/%E6%88%90%E5%BD%A2%E5%8A%A0%E5%B7%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "プレス加工 | フッ素樹脂・PEEKの精密加工｜有限会社飯田製作所",
+    "url": "https://iidaf.com/works_cat/%E3%83%97%E3%83%AC%E3%82%B9%E5%8A%A0%E5%B7%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "ミラーベース | フッ素樹脂・PEEKの精密加工｜有限会社飯田製作所",
+    "url": "https://iidaf.com/works/20/",
+    "pass": 1
+   },
+   {
+    "quote": "【2020年グッドデザイン賞受賞】樹脂ベアリング",
+    "url": "https://pr.mono.ipros.com/iidaf/",
+    "pass": 3
+   },
+   {
+    "quote": "・医療向け射出成形品 ・金属プレス加工品 ・樹脂カニューラ等",
+    "url": "https://pr.mono.ipros.com/iidaf/",
+    "pass": 3
+   },
+   {
+    "quote": "IIDAブースでは、射出成形品や高精度な樹脂切削加工品を展示！",
+    "url": "https://pr.mono.ipros.com/iidaf/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂・エンプラ加工の新たな可能性を、ぜひ会場で体感してください",
+    "url": "https://pr.mono.ipros.com/iidaf/",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社飯田製作所 – 樹脂加工のエキスパート",
+    "url": "https://pr.mono.ipros.com/iidaf/",
+    "pass": 3
+   },
+   {
+    "quote": "IIDAは、フッ素樹脂（PTFE）の切削加工をはじめ、硬質樹脂PEEKの精密切削や",
+    "url": "https://pr.mono.ipros.com/iidaf/",
+    "pass": 3
+   },
+   {
+    "quote": "軟部材樹脂の高度精密切削など、多様な樹脂加工を手掛けています",
+    "url": "https://pr.mono.ipros.com/iidaf/",
+    "pass": 3
+   },
+   {
+    "quote": "環境に配慮した工場で、建機・産機、食品機械向けのパッキンシールなどの樹脂製品を",
+    "url": "https://pr.mono.ipros.com/iidaf/",
+    "pass": 3
+   },
+   {
+    "quote": "※樹脂加工の一貫生産体制 で、お客様のさまざまなご要望にお応えします",
+    "url": "https://pr.mono.ipros.com/iidaf/",
+    "pass": 3
+   },
+   {
+    "quote": "難加工樹脂の切削・成形なら｜飯田製作所（福島県）",
+    "url": "https://ja.nc-net.or.jp/company/72888/",
+    "pass": 3
+   },
+   {
+    "quote": "【高温樹脂対応】3Dプリンタ造形 開発初期の検討に最適！短納期とコスト削減で理想のものづくりを加速します",
+    "url": "https://ja.nc-net.or.jp/company/72888/",
+    "pass": 3
+   },
+   {
+    "quote": "【高温樹脂対応】3Dプリ...",
+    "url": "https://ja.nc-net.or.jp/company/72888/",
+    "pass": 3
+   },
+   {
+    "quote": "飯田製作所は、フッ素樹脂の精密切削加工をはじめ、耐熱性・耐久性に優れた",
+    "url": "https://ja.nc-net.or.jp/company/72888/",
+    "pass": 3
+   },
+   {
+    "quote": "硬質樹脂PEEK切削加工品を安定供給しております",
+    "url": "https://ja.nc-net.or.jp/company/72888/",
+    "pass": 3
+   },
+   {
+    "quote": "・組立て高級オイルシール ・各種エンプラ製樹脂部品",
+    "url": "https://ja.nc-net.or.jp/company/72888/",
+    "pass": 3
+   },
+   {
+    "quote": "JFIA 一般社団法人日本弗素樹脂工業会 正会員",
+    "url": "https://ja.nc-net.or.jp/company/72888/",
+    "pass": 3
+   },
+   {
+    "quote": "〔事業範囲〕自動車向けベアリングに使用される樹脂切削加工部品の製造",
+    "url": "https://ja.nc-net.or.jp/company/72888/",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社飯田製作所 – 樹脂加工のエキスパート",
+    "url": "https://mono.ipros.com/company/detail/2066948/",
+    "pass": 3
+   },
+   {
+    "quote": "IIDAは、フッ素樹脂（PTFE）の切削加工をはじめ、硬質樹脂PEEKの精密切削や",
+    "url": "https://mono.ipros.com/company/detail/2066948/",
+    "pass": 3
+   },
+   {
+    "quote": "軟部材樹脂の高度精密切削など、多様な樹脂加工を手掛けています",
+    "url": "https://mono.ipros.com/company/detail/2066948/",
+    "pass": 3
+   },
+   {
+    "quote": "環境に配慮した工場で、建機・産機、食品機械向けのパッキンシールなどの樹脂製品を",
+    "url": "https://mono.ipros.com/company/detail/2066948/",
+    "pass": 3
+   },
+   {
+    "quote": "※樹脂加工の一貫生産体制 で、お客様のさまざまなご要望にお応えします",
+    "url": "https://mono.ipros.com/company/detail/2066948/",
+    "pass": 3
+   },
+   {
+    "quote": "〈取扱い材質〉フッ素樹脂 エンジニアリングプラスチック",
+    "url": "https://mono.ipros.com/company/detail/2066948/",
+    "pass": 3
+   },
+   {
+    "quote": "JFIA 一般社団法人日本弗素樹脂工業会 正会員",
+    "url": "https://mono.ipros.com/company/detail/2066948/",
+    "pass": 3
+   },
+   {
+    "quote": "〔事業範囲〕自動車向けベアリングに使用される樹脂切削加工部品の製造",
+    "url": "https://mono.ipros.com/company/detail/2066948/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "軟材料・特殊形状・薄肉も、試作～量産まで幅広く対応します",
+    "url": "https://iidaf.com/",
+    "pass": 1
+   },
+   {
+    "quote": "多品種少量～大量生産に対応したプラスチック部品の製造を行っています",
+    "url": "https://iidaf.com/",
+    "pass": 1
+   },
+   {
+    "quote": "試作や小ロット多品種、大量生産まで対応",
+    "url": "https://iidaf.com/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンティングを含め、樹脂加工においては、試作から量産試作、大量生産まで、小径からΦ1200までのリング形状、□500までの角物、5軸マシニングによる傾斜や球状等の複雑形状の樹脂部品の加工も可能です",
+    "url": "https://iidaf.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "試作段階からの技術支援を通じて、汎用プラからスーパーエンプラ樹脂加工まであらゆる課題に挑みます",
+    "url": "https://iidaf.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "フッ素樹脂（PTFE）の切削加工をはじめ、軟部材樹脂の精密切削加工を試作から量産まで行っております",
+    "url": "https://iidaf.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "試作や小ロット多品種、大量生産まで対応",
+    "url": "https://iidaf.com/works/%E5%85%AD%E8%A7%92%E3%83%9C%E3%83%AB%E3%83%88/",
+    "pass": 1
+   },
+   {
+    "quote": "試作や小ロット多品種、大量生産まで対応",
+    "url": "https://iidaf.com/works/%E6%A5%B5%E7%B4%B0%E3%82%B9%E3%83%AA%E3%83%83%E3%83%88%E5%8A%A0%E5%B7%A5%E5%93%81/",
+    "pass": 1
+   },
+   {
+    "quote": "1個からの試作から大量生産まで柔軟に対応いたします",
+    "url": "https://iidaf.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "・インペラやトロイダルプロペラなどの試作向け特殊形状加工",
+    "url": "https://iidaf.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "この革新的な技術により、年間1億個を超える生産量を達成し、多品種少量生産から大量生産まで柔軟に対応可能な体制を整えています",
+    "url": "https://iidaf.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "03．試作から大量生産まで社内一貫対応",
+    "url": "https://iidaf.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "試作段階では、お客様から頂いた図面を基に3DCADを使用してプログラムを作成します",
+    "url": "https://iidaf.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターを使った試作も対応可能です",
+    "url": "https://iidaf.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "自社内に試作ラインと量産ラインを併設していることも、当社の強みの一つです",
+    "url": "https://iidaf.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、試作段階で得られた知見を量産工程にシームレスに反映することが可能です",
+    "url": "https://iidaf.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社で製作可能なものでしたら1個の試作品から承ります",
+    "url": "https://iidaf.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "最小ロットはございませんので、お気軽にお申し付けください",
+    "url": "https://iidaf.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "小ロットでも大ロットのご依頼でも、特急対応のご相談も検討、対応させていただきます",
+    "url": "https://iidaf.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "「金型設計・製作」と「量産を見据えた試作」を内製化",
+    "url": "https://iidaf.com/service/press/",
+    "pass": 1
+   },
+   {
+    "quote": "設計段階では、現物や3D/2D CADデータからの解析が可能で、試作から量産までスムーズに進行可能です",
+    "url": "https://iidaf.com/service/press/",
+    "pass": 1
+   },
+   {
+    "quote": "量産可能性評価および工程の効率化、さらに必要な治工具の検討を含め、一般的な「試作」の枠組みを超えた「量産のための試作」「品質確保のための試作」「コストを抑えるための試作」をご提供いたします",
+    "url": "https://iidaf.com/service/press/",
+    "pass": 1
+   },
+   {
+    "quote": "フッ素樹脂（PTFE）の切削加工をはじめ、軟部材樹脂の精密切削加工を試作から量産まで行っております",
+    "url": "https://iidaf.com/service/press/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社で製作可能なものでしたら1個の試作品から承ります",
+    "url": "https://iidaf.com/service/press/",
+    "pass": 1
+   },
+   {
+    "quote": "最小ロットはございませんので、お気軽にお申し付けください",
+    "url": "https://iidaf.com/service/press/",
+    "pass": 1
+   },
+   {
+    "quote": "小ロットでも大ロットのご依頼でも、特急対応のご相談も検討、対応させていただきます",
+    "url": "https://iidaf.com/service/press/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、試作開発から実製品対応まで幅広いニーズに応えるため、複数の高性能3Dプリンタを導入しております",
+    "url": "https://iidaf.com/service/3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "また、図面や3Dデータをもとにした試作品づくりをサポートしており、設計段階での検証として安心してご利用いただけるだけでなく、",
+    "url": "https://iidaf.com/service/3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "01．1点物や試作でも高精度な寸法仕上げ",
+    "url": "https://iidaf.com/service/3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の3Dプリンタ造形サービスは、1点物のオリジナル造形から試作品のご依頼まで幅広く対応しています",
+    "url": "https://iidaf.com/service/3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ造形で、試作・治具・補助具などもスピーディーにご提供します",
+    "url": "https://iidaf.com/service/3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "フッ素樹脂（PTFE）の切削加工をはじめ、軟部材樹脂の精密切削加工を試作から量産まで行っております",
+    "url": "https://iidaf.com/service/3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "試作や小ロット多品種、大量生産まで対応",
+    "url": "https://iidaf.com/works/20/",
+    "pass": 1
+   },
+   {
+    "quote": "製作し、試作品1個から量産品までお客様の幅広いニーズに対応いたします",
+    "url": "https://pr.mono.ipros.com/iidaf/",
+    "pass": 3
+   },
+   {
+    "quote": "近年の需要拡大に対応し、3Dプリンタによる試作・小ロット生産 も実施しています",
+    "url": "https://pr.mono.ipros.com/iidaf/",
+    "pass": 3
+   },
+   {
+    "quote": "金型設計から成形・切削・3D加工まで一貫対応し、試作1個から量産まで対応",
+    "url": "https://ja.nc-net.or.jp/company/72888/",
+    "pass": 3
+   },
+   {
+    "quote": "（ 試作開発・少量生産 / ＮＣ機械加工 ）",
+    "url": "https://ja.nc-net.or.jp/company/72888/",
+    "pass": 3
+   },
+   {
+    "quote": "製作し、試作品1個から量産品までお客様の幅広いニーズに対応いたします",
+    "url": "https://mono.ipros.com/company/detail/2066948/",
+    "pass": 3
+   },
+   {
+    "quote": "近年の需要拡大に対応し、3Dプリンタによる試作・小ロット生産 も実施しています",
+    "url": "https://mono.ipros.com/company/detail/2066948/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "『ロボット航空宇宙フェスタふくしま2026』出展のお知らせ",
+    "url": "https://iidaf.com/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車や建設機械、産業機械など幅広い業界で実績があります",
+    "url": "https://iidaf.com/",
+    "pass": 1
+   },
+   {
+    "quote": "切込作業や包装、搬送、整列、着脱をロボットや専用機で自動化し、高品質な量産体制を構築しています",
+    "url": "https://iidaf.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品設計から金型設計・製作、",
+    "url": "https://iidaf.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品設計から製造設計、金型設計・製作、樹脂成形（射出成形・圧縮成形）、切削加工まで、一貫した生産体制を構築しています",
+    "url": "https://iidaf.com/",
+    "pass": 1
+   },
+   {
+    "quote": "2023年11月より射出成形及び金型の部門を近隣企業から譲り受けて、",
+    "url": "https://iidaf.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "創業当時から工場内はすべて25℃±2度で管理され、自動車部品で培った高度な品質管理意識と測定技術を活かし、",
+    "url": "https://iidaf.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチック精密切削事業を主軸として、射出成形、インサート成形、金型製作、精密プレス加工まで、幅広い技術分野で卓越した製造力を誇っています",
+    "url": "https://iidaf.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "順送プレス型・単発プレス型・射出成形型・インサート成形型など高精度の金型で高い品質を実現します",
+    "url": "https://iidaf.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "最小板厚0.02mmの薄板金属、およびフィルム等の金型製作から加工まで行っております",
+    "url": "https://iidaf.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "取付金型サイズ x500 y350",
+    "url": "https://iidaf.com/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "取付金型サイズ x400 y200",
+    "url": "https://iidaf.com/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "スパナやレンチを使って回し、しっかり固定できるため、機械・建築・自動車などさまざまな分野で使われています",
+    "url": "https://iidaf.com/works/%E5%85%AD%E8%A7%92%E3%83%9C%E3%83%AB%E3%83%88/",
+    "pass": 1
+   },
+   {
+    "quote": "安定した品質での量産対応が可能となり、医療機器製造における信頼性の高い供給体制を構築しています",
+    "url": "https://iidaf.com/works/%E6%A5%B5%E7%B4%B0%E3%82%B9%E3%83%AA%E3%83%83%E3%83%88%E5%8A%A0%E5%B7%A5%E5%93%81/",
+    "pass": 1
+   },
+   {
+    "quote": "Ni-Tin材は医療機器分野で広く使用されていますが、その特性上、加工が難しい素材として知られています",
+    "url": "https://iidaf.com/works/%E6%A5%B5%E7%B4%B0%E3%82%B9%E3%83%AA%E3%83%83%E3%83%88%E5%8A%A0%E5%B7%A5%E5%93%81/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器部品（ステント、ガイド部品、保持リング、クランプ構造部品）",
+    "url": "https://iidaf.com/works/%E6%A5%B5%E7%B4%B0%E3%82%B9%E3%83%AA%E3%83%83%E3%83%88%E5%8A%A0%E5%B7%A5%E5%93%81/",
+    "pass": 1
+   },
+   {
+    "quote": "量産段階では、生産技術担当者が治具設計・製作を行うことで、高精度で歩留まりの良い製品を実現しています",
+    "url": "https://iidaf.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチック精密切削事業を主軸として、射出成形、インサート成形、金型製作、精密プレス加工まで、幅広い技術分野で卓越した製造力を誇っています",
+    "url": "https://iidaf.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "順送プレス型・単発プレス型・射出成形型・インサート成形型など高精度の金型で高い品質を実現します",
+    "url": "https://iidaf.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "最小板厚0.02mmの薄板金属、およびフィルム等の金型製作から加工まで行っております",
+    "url": "https://iidaf.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "金型設計から加工、さらには量産までを一貫して行うため、バリや変形、反りのない高品質な製品を安定的に供給可能です",
+    "url": "https://iidaf.com/service/press/",
+    "pass": 1
+   },
+   {
+    "quote": "「金型設計・製作」と「量産を見据えた試作」を内製化",
+    "url": "https://iidaf.com/service/press/",
+    "pass": 1
+   },
+   {
+    "quote": "自社内に設計者が在籍し、加工設備も整えているため、金型の内製が可能です",
+    "url": "https://iidaf.com/service/press/",
+    "pass": 1
+   },
+   {
+    "quote": "有限会社飯田製作所 福島工場は、2024年度に「医療品、医薬品等の品質、有効性及び安全性の確保等に関する法律第23条の2の3第1項」の規定による医療機器製造業者として登録されています",
+    "url": "https://iidaf.com/service/press/",
+    "pass": 1
+   },
+   {
+    "quote": "（対象：金型設計・製作、射出成形、プレス加工）",
+    "url": "https://iidaf.com/service/press/",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチック精密切削事業を主軸として、射出成形、インサート成形、金型製作、精密プレス加工まで、幅広い技術分野で卓越した製造力を誇っています",
+    "url": "https://iidaf.com/service/press/",
+    "pass": 1
+   },
+   {
+    "quote": "順送プレス型・単発プレス型・射出成形型・インサート成形型など高精度の金型で高い品質を実現します",
+    "url": "https://iidaf.com/service/press/",
+    "pass": 1
+   },
+   {
+    "quote": "「こんな治具があったらいいな」をすぐカタチに",
+    "url": "https://iidaf.com/service/3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ造形で、試作・治具・補助具などもスピーディーにご提供します",
+    "url": "https://iidaf.com/service/3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチック精密切削事業を主軸として、射出成形、インサート成形、金型製作、精密プレス加工まで、幅広い技術分野で卓越した製造力を誇っています",
+    "url": "https://iidaf.com/service/3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "順送プレス型・単発プレス型・射出成形型・インサート成形型など高精度の金型で高い品質を実現します",
+    "url": "https://iidaf.com/service/3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "最小板厚0.02mmの薄板金属、およびフィルム等の金型製作から加工まで行っております",
+    "url": "https://iidaf.com/service/3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "エンプラ精密部品一貫生産！半導体関連の需要増に対応！＜加工事例＞",
+    "url": "https://pr.mono.ipros.com/iidaf/",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年11月27日(金)～11月28日(土)】ロボット航空宇宙フェスタふくしま2026出展のお知らせ",
+    "url": "https://pr.mono.ipros.com/iidaf/",
+    "pass": 3
+   },
+   {
+    "quote": "『ロボット・航空宇宙フェスタふくしま2026』に出展いたします",
+    "url": "https://pr.mono.ipros.com/iidaf/",
+    "pass": 3
+   },
+   {
+    "quote": "本展は、世界で最も歴史のあるバイオテクノロジー展示会で、最新の医療技術や製品が紹介されるだけでなく、研究者・医療専門家・バイオテク企業が一堂に集い、情報交換やビジネスマッチングの場としても大注目されています",
+    "url": "https://pr.mono.ipros.com/iidaf/",
+    "pass": 3
+   },
+   {
+    "quote": "・医療向け射出成形品 ・金属プレス加工品 ・樹脂カニューラ等",
+    "url": "https://pr.mono.ipros.com/iidaf/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社は、今年も医療機器関連の最新技術が集まる",
+    "url": "https://pr.mono.ipros.com/iidaf/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年11月、医療機器部品メーカーから金型加工および射出成形事業を譲受し、",
+    "url": "https://pr.mono.ipros.com/iidaf/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより金型設計製作・射出成形・プレス加工",
+    "url": "https://pr.mono.ipros.com/iidaf/",
+    "pass": 3
+   },
+   {
+    "quote": "≪医療分野にも対応–高精度な加工技術を活かした製品づくり≫",
+    "url": "https://pr.mono.ipros.com/iidaf/",
+    "pass": 3
+   },
+   {
+    "quote": "IIDAならではの技術力を活かし、金型製品・成形部品・切削部品など、",
+    "url": "https://pr.mono.ipros.com/iidaf/",
+    "pass": 3
+   },
+   {
+    "quote": "金型設計から成形・切削・3D加工まで一貫対応し、試作1個から量産まで対応",
+    "url": "https://ja.nc-net.or.jp/company/72888/",
+    "pass": 3
+   },
+   {
+    "quote": "精密加工技術で高品質製品を提供し、自動車・半導体に加え医療・航空宇宙分野への参入を加速します",
+    "url": "https://ja.nc-net.or.jp/company/72888/",
+    "pass": 3
+   },
+   {
+    "quote": "エンプラ精密部品一貫生産！半導体関連の需要増に対応！＜加工事例＞",
+    "url": "https://ja.nc-net.or.jp/company/72888/",
+    "pass": 3
+   },
+   {
+    "quote": "【医療】患部が見やすく 操作性に優れた内視鏡用カニューラ",
+    "url": "https://ja.nc-net.or.jp/company/72888/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年11月には、医療機器部品メーカーより金型加工・射出成形事業を譲り受け、",
+    "url": "https://ja.nc-net.or.jp/company/72888/",
+    "pass": 3
+   },
+   {
+    "quote": "金型設計製作・射出成形・プレス加工・切削加工を一体化した精密加工が対応可能となりました",
+    "url": "https://ja.nc-net.or.jp/company/72888/",
+    "pass": 3
+   },
+   {
+    "quote": "飯田独自の技術と積み重ねた信頼をもとに、『金型製品』『成形部品』『切削部品』を",
+    "url": "https://ja.nc-net.or.jp/company/72888/",
+    "pass": 3
+   },
+   {
+    "quote": "金型設計・製作・組立、射出成形、切削加工、3Dプリンタ造形",
+    "url": "https://ja.nc-net.or.jp/company/72888/",
+    "pass": 3
+   },
+   {
+    "quote": "・医療機器部品（検査機器用部品、内視鏡手術用器具部品）",
+    "url": "https://ja.nc-net.or.jp/company/72888/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月23日 JIS Q 9100 航空・宇宙・防衛産業向け品質マネジメントシステムの",
+    "url": "https://ja.nc-net.or.jp/company/72888/",
+    "pass": 3
+   },
+   {
+    "quote": "〔事業範囲〕自動車向けベアリングに使用される樹脂切削加工部品の製造",
+    "url": "https://ja.nc-net.or.jp/company/72888/",
+    "pass": 3
+   },
+   {
+    "quote": "2023年11月、医療機器部品メーカーから金型加工および射出成形事業を譲受し、",
+    "url": "https://mono.ipros.com/company/detail/2066948/",
+    "pass": 3
+   },
+   {
+    "quote": "これにより金型設計製作・射出成形・プレス加工",
+    "url": "https://mono.ipros.com/company/detail/2066948/",
+    "pass": 3
+   },
+   {
+    "quote": "≪医療分野にも対応–高精度な加工技術を活かした製品づくり≫",
+    "url": "https://mono.ipros.com/company/detail/2066948/",
+    "pass": 3
+   },
+   {
+    "quote": "IIDAならではの技術力を活かし、金型製品・成形部品・切削部品など、",
+    "url": "https://mono.ipros.com/company/detail/2066948/",
+    "pass": 3
+   },
+   {
+    "quote": "2026年1月23日 JIS Q 9100 航空・宇宙・防衛産業向け品質マネジメントシステムの",
+    "url": "https://mono.ipros.com/company/detail/2066948/",
+    "pass": 3
+   },
+   {
+    "quote": "〔事業範囲〕自動車向けベアリングに使用される樹脂切削加工部品の製造",
+    "url": "https://mono.ipros.com/company/detail/2066948/",
+    "pass": 3
+   },
+   {
+    "quote": "エンプラ精密部品一貫生産！半導体関連の需要増に対応！＜加工事例＞",
+    "url": "https://mono.ipros.com/company/detail/2066948/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "PTFEやPEEKなどの軟材料加工に加え、同時五軸加工機や3Dプリンタを活用し、インペラやベローズなどの複雑形状や薄肉部品の高精度加工が可能です",
+    "url": "https://iidaf.com/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ造形",
+    "url": "https://iidaf.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "フルカラー造形から高耐熱樹脂の加工まで、目的に応じた最適な造形が可能です",
+    "url": "https://iidaf.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "OKAMOTO PSG65DX",
+    "url": "https://iidaf.com/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "Creo Parametric（旧Pro/ENGINEER ） （PTCジャパン株式会社）",
+    "url": "https://iidaf.com/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターを使った試作も対応可能です",
+    "url": "https://iidaf.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ造形",
+    "url": "https://iidaf.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "フルカラー造形から高耐熱樹脂の加工まで、目的に応じた最適な造形が可能です",
+    "url": "https://iidaf.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ造形",
+    "url": "https://iidaf.com/service/press/",
+    "pass": 1
+   },
+   {
+    "quote": "フルカラー造形から高耐熱樹脂の加工まで、目的に応じた最適な造形が可能です",
+    "url": "https://iidaf.com/service/press/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ造形 | フッ素樹脂・PEEKの精密加工｜有限会社飯田製作所",
+    "url": "https://iidaf.com/service/3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ造形",
+    "url": "https://iidaf.com/service/3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "IIDAの3Dプリンタ造形",
+    "url": "https://iidaf.com/service/3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、試作開発から実製品対応まで幅広いニーズに応えるため、複数の高性能3Dプリンタを導入しております",
+    "url": "https://iidaf.com/service/3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "レジン、フィラメントの種類も豊富に取り揃え、フルカラー造形から高耐熱樹脂の加工まで、目的に応じた最適な造形が可能です",
+    "url": "https://iidaf.com/service/3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "光造形式：218.88×122.88×260ｍｍ",
+    "url": "https://iidaf.com/service/3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "IIDAの3Dプリンタ造形の特徴",
+    "url": "https://iidaf.com/service/3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の3Dプリンタ造形サービスは、1点物のオリジナル造形から試作品のご依頼まで幅広く対応しています",
+    "url": "https://iidaf.com/service/3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂を用いた高精度な造形により、複雑な形状や細かな寸法も正確に再現",
+    "url": "https://iidaf.com/service/3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンタ造形で、試作・治具・補助具などもスピーディーにご提供します",
+    "url": "https://iidaf.com/service/3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "02．3Dプリンタ造形 × NC旋盤加工（２次加工）",
+    "url": "https://iidaf.com/service/3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "複雑形状は3Dプリンターで製作し、回転対象部や接続部などのみを切削加工で仕上げることで、",
+    "url": "https://iidaf.com/service/3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "当社保有の高機能3Dプリンタは、耐薬品性・耐熱性に優れたエンジニアリングプラスチック（PEEK、PCなど）にも対応しています",
+    "url": "https://iidaf.com/service/3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "加熱温度を最適に制御することで、反りが発生しやすい素材でも安定した造形が可能です",
+    "url": "https://iidaf.com/service/3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、造形後に特殊製法によるアニール処理を行うことで、高精度かつ高強度な製品に仕上げることもできます",
+    "url": "https://iidaf.com/service/3d-printing/",
+    "pass": 1
+   },
+   {
+    "quote": "≪3Dプリンター加工にも対応≫",
+    "url": "https://pr.mono.ipros.com/iidaf/",
+    "pass": 3
+   },
+   {
+    "quote": "近年の需要拡大に対応し、3Dプリンタによる試作・小ロット生産 も実施しています",
+    "url": "https://pr.mono.ipros.com/iidaf/",
+    "pass": 3
+   },
+   {
+    "quote": "【高温樹脂対応】3Dプリンタ造形 開発初期の検討に最適！短納期とコスト削減で理想のものづくりを加速します",
+    "url": "https://ja.nc-net.or.jp/company/72888/",
+    "pass": 3
+   },
+   {
+    "quote": "金型設計・製作・組立、射出成形、切削加工、3Dプリンタ造形",
+    "url": "https://ja.nc-net.or.jp/company/72888/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター",
+    "url": "https://ja.nc-net.or.jp/company/72888/",
+    "pass": 3
+   },
+   {
+    "quote": "≪3Dプリンター加工にも対応≫",
+    "url": "https://mono.ipros.com/company/detail/2066948/",
+    "pass": 3
+   },
+   {
+    "quote": "近年の需要拡大に対応し、3Dプリンタによる試作・小ロット生産 も実施しています",
+    "url": "https://mono.ipros.com/company/detail/2066948/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "製品ごとにご希望の見積り数量をご指定いただき、問い合わせフォームにて見積の依頼内容をお知らせください",
+    "url": "https://iidaf.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ごとにご希望の見積り数量をご指定いただき、問い合わせフォームにて見積の依頼内容をお知らせください",
+    "url": "https://iidaf.com/service/press/",
+    "pass": 1
+   },
+   {
+    "quote": "担当者のメールまたはホームページのお問い合わせフォームをご利用ください",
+    "url": "https://pr.mono.ipros.com/iidaf/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 難加工樹脂の切削・成形なら｜飯田製作所（福島県）",
+    "url": "https://ja.nc-net.or.jp/company/72888/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社 飯田製作所 福島第２工場へのお問い合わせ",
+    "url": "https://ja.nc-net.or.jp/company/72888/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "当社からの連絡に必要な電子メールアドレスを用意してそのアドレスを当社に対して登録すること",
+    "url": "https://ja.nc-net.or.jp/company/72888/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、会員に対し、会員が登録情報として提供した電子メールアドレス宛に電子メールにより随時必要な事項の通知または連絡を行うものとします",
+    "url": "https://ja.nc-net.or.jp/company/72888/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "かかる連絡は、通常電子メールが到達する期間が経過した時に会員に到達したものとします",
+    "url": "https://ja.nc-net.or.jp/company/72888/inquiry/input/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "有限会社 飯田製作所 福島第2工場 - Powered by イプロス ... — 有限会社 飯田製作所 福島第2工場 - Powered by イプロス ... 製造業向け情報検索サイト イプロスものづくり https://pr.mono.ipros.com > iidaf",
+    "url": "https://pr.mono.ipros.com/iidaf/",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社 飯田製作所 福島第2工場 への お問い合わせ — 有限会社 飯田製作所 福島第2工場 への お問い合わせ エミダス https://ja.nc-net.or.jp > company > inquiry > input",
+    "url": "https://ja.nc-net.or.jp/company/72888/inquiry/input/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://iidaf.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iidaf.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iidaf.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iidaf.com/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iidaf.com/works/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iidaf.com/facility/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iidaf.com/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iidaf.com/works/%E5%85%AD%E8%A7%92%E3%83%9C%E3%83%AB%E3%83%88/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iidaf.com/works/%E6%A5%B5%E7%B4%B0%E3%82%B9%E3%83%AA%E3%83%83%E3%83%88%E5%8A%A0%E5%B7%A5%E5%93%81/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iidaf.com/service/cutting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iidaf.com/service/press/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iidaf.com/service/3d-printing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iidaf.com/works_cat/cutting-processing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iidaf.com/works_cat/%E6%88%90%E5%BD%A2%E5%8A%A0%E5%B7%A5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iidaf.com/works_cat/%E3%83%97%E3%83%AC%E3%82%B9%E5%8A%A0%E5%B7%A5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iidaf.com/works/%E6%A5%B5%E7%B4%B0%E3%82%B9%E3%83%AA%E3%83%83%E3%83%88%E5%8A%A0%E5%B7%A5%E5%93%81/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iidaf.com/works_cat/%E6%88%90%E5%BD%A2%E5%8A%A0%E5%B7%A5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iidaf.com/works_cat/%E3%83%97%E3%83%AC%E3%82%B9%E5%8A%A0%E5%B7%A5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iidaf.com/works/20/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://pr.mono.ipros.com/iidaf/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iidaf.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.nc-net.or.jp/company/72888/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iidaf.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2066948/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.nc-net.or.jp/company/72888/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iidaf.com/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/iidaf/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.nc-net.or.jp/company/72888/inquiry/input/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "飯田製作所 福島第2工場 取扱製品 試作 小ロット",
+   "results": [
+    "https://pr.mono.ipros.com/iidaf/",
+    "https://iidaf.com/",
+    "https://ja.nc-net.or.jp/company/72888/",
+    "https://f-monodukuri.jp/search_detail.html?no=3656",
+    "https://fmc.fmddsc.jp/db/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E9%A3%AF%E7%94%B0%E8%A3%BD%E4%BD%9C%E6%89%80/",
+    "https://matching.idec.or.jp/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E9%A3%AF%E7%94%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "https://www.city.motomiya.lg.jp/kigyo-guide/kigyo/k-012.html",
+    "https://pr.mono.ipros.com/iidaf/information/",
+    "https://www.shirakawadb.jp/161022",
+    "https://mono.ipros.com/company/detail/2066948/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "飯田製作所 福島第2工場 会社概要 事業内容",
+   "results": [
+    "https://iidaf.com/company/",
+    "https://mono.ipros.com/company/detail/2066948/",
+    "https://ja.nc-net.or.jp/company/72888/",
+    "https://f-monodukuri.jp/search_detail.html?no=3656",
+    "https://iidaf.com/",
+    "https://fmc.fmddsc.jp/db/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E9%A3%AF%E7%94%B0%E8%A3%BD%E4%BD%9C%E6%89%80/",
+    "https://matching.idec.or.jp/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E9%A3%AF%E7%94%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "https://fukushima-innovation-club.com/fic-member/iidaf/",
+    "https://pr.mono.ipros.com/iidaf/information/",
+    "https://iidaf.com/service/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "飯田製作所 福島第2工場 お問い合わせ メール",
+   "results": [
+    "https://iidaf.com/contact/",
+    "https://pr.mono.ipros.com/iidaf/",
+    "https://ja.nc-net.or.jp/company/72888/inquiry/input/",
+    "https://f-monodukuri.jp/search_detail.html?no=3656",
+    "https://www.iida-seisakusho.co.jp/contact/",
+    "https://www.iida-ss.com/contact.html",
+    "https://iidaf.com/",
+    "https://fmc.fmddsc.jp/db/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E9%A3%AF%E7%94%B0%E8%A3%BD%E4%BD%9C%E6%89%80/",
+    "https://mono.ipros.com/company/detail/2066948/",
+    "https://iidaf.com/contact-check/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:note.com 飯田製作所 福島第2工場",
+   "results": [
+    "https://note.com/hassyadai_social/n/ne1da32b6d51d",
+    "https://note.com/like_d51791/n/n2403f814c54a",
+    "https://note.com/ezuremanagement/n/ned8d225ba00b",
+    "https://note.com/pvlabo_2020/n/n3c5b44599f59",
+    "https://note.com/comemo/m/mb7af516ae320",
+    "https://note.com/chidaism/n/nc5228ef29ef4",
+    "https://note.com/_____noma/n/ncee0e7c6441f",
+    "https://note.com/honmotoei/n/n7d4ee593b3e1",
+    "https://note.com/haearumiraihea5r/n/n1ff62ff50ce5?sub_rt=share_pb",
+    "https://note.com/780210/n/naccb79f0f42e"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 飯田製作所 福島第2工場",
+   "results": [
+    "https://x.com/tenshodo_models",
+    "https://x.com/hst_tvasahi",
+    "https://x.com/uguigawa132",
+    "https://x.com/tomokiyosatoshi",
+    "https://x.com/kitagikon",
+    "https://x.com/Hiramatz",
+    "https://x.com/Danny151a",
+    "https://x.com/3tohe",
+    "https://x.com/nyyanya",
+    "https://x.com/ku1851e"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com 飯田製作所 福島第2工場",
+   "results": [
+    "https://sg.linkedin.com/in/ehata-atsuko-35893510b",
+    "https://www.linkedin.com/pub/dir/%E4%BC%B8%E5%B9%B8/+",
+    "https://jp.linkedin.com/in/%E7%A5%90%E4%BD%9C-%E4%B9%85%E4%BF%9D%E7%94%B0-795859280",
+    "https://jp.linkedin.com/in/%E6%B5%A9%E4%B8%80-%E7%A5%9E%E5%B1%B1-499809177",
+    "https://jp.linkedin.com/directory/companies/more-4",
+    "https://jp.linkedin.com/in/良平-加藤-777353201",
+    "https://www.linkedin.com/pub/dir/晴久/飯田",
+    "https://www.linkedin.com/jobs/株式会社飯田製作所-ビズリーチ-jobs",
+    "https://hu.linkedin.com/in/péter-néz-3768a53",
+    "https://es.linkedin.com/pulse/pirlo-tv-una-guía-completa-para-ver-fútbol-en-vivo-y-uribe-castro-pbf5e"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:facebook.com 飯田製作所 福島第2工場",
+   "results": [
+    "https://www.facebook.com/ALPSALPINE/videos/%E3%82%A2%E3%83%AB%E3%83%97%E3%82%B9%E3%82%A2%E3%83%AB%E3%83%91%E3%82%A4%E3%83%B3-%E3%81%84%E3%82%8F%E3%81%8Dfc-%E3%83%8F%E3%83%BC%E3%83%9E%E3%83%BC%E3%83%89%E3%83%AA%E3%83%BC-%EF%BC%91%E6%97%A5%E7%A4%BE%E5%93%A1%E4%BD%93%E9%A8%93-%EF%BC%92%EF%BC%90%EF%BC%92%EF%BC%95%E7%AC%AC%EF%BC%92%E9%83%A8/762990019538657/",
+    "https://www.facebook.com/mk.cera.co.jp/videos/%E6%9C%AA%E7%B5%8C%E9%A8%93%E3%81%8B%E3%82%89%E4%B8%96%E7%95%8C%E3%81%A7%E4%BD%BF%E3%82%8F%E3%82%8C%E3%82%8B%E9%83%A8%E5%93%81%E3%82%92%E3%81%A4%E3%81%8F%E3%82%8B%E6%8A%80%E8%A1%93%E8%80%85%E3%81%B8%E5%9B%B3%E9%9D%A2%E3%82%92%E8%A6%8B%E3%81%A6%E8%87%AA%E5%88%86%E3%81%A7%E5%B7%A5%E5%A4%AB%E3%81%97%E3%81%A6%E9%80%B2%E3%82%81%E3%82%8B%E5%B0%91%E9%87%8F%E3%82%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%83%A1%E3%82%A4%E3%83%89%E3%81%AE%E4%BB%95%E4%BA%8B%E3%81%A7%E3%81%99%E3%83%A9%E3%82%A4%E3%83%B3%E4%BD%9C%E6%A5%AD%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%8F35%E5%90%8D%E3%81%AE%E3%83%81%E3%83%BC%E3%83%A0%E3%81%A7%E5%8F%96%E3%82%8A%E7%B5%84%E3%81%BF%E3%81%BE%E3%81%99%E6%9C%80%E5%88%9D%E3%81%AF1%E4%BA%BA1/1661378908699273/",
+    "https://www.facebook.com/kisomachi/?locale=ja_JP",
+    "https://www.facebook.com/groups/910167836188853/",
+    "https://www.facebook.com/groups/125304120886568/",
+    "https://www.facebook.com/株式会社-飯田製作所-102856581487955/",
+    "https://www.facebook.com/hikari.co.ltd/posts/有限会社-飯田製作所-様-httpwwwiidafcojp-webpcスマホタブレットサイト一部改訂リリースしました-有限会社飯田製作所福島県本宮市様フッ素樹脂/1257515040996918/",
+    "https://www.facebook.com/株式会社飯田製作所-1821427451512747/",
+    "https://www.facebook.com/hikari.co.ltd/posts/リリース情報有限会社飯田製作所-様-webサイトhttpwwwiidafcojp他制作実績の一部をご紹介httpwwwhkrcojp/418305888304513/",
+    "https://www.facebook.com/p/株式会社-飯田製作所-100063684964287/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "飯田製作所 福島第2工場 note 社長",
+   "results": [
+    "https://iidaf.com/company/",
+    "https://pr.mono.ipros.com/iidaf/",
+    "https://f-monodukuri.jp/search_detail.html?no=3656",
+    "https://ja.nc-net.or.jp/company/72888/",
+    "https://www.tkgiso.co.jp/review/1457",
+    "https://www.nikkan.co.jp/articles/view/695824",
+    "https://iidaf.com/",
+    "https://fukushima-innovation-club.com/fic-member/iidaf/",
+    "https://mono.ipros.com/company/detail/2066948/",
+    "https://ja.nc-net.or.jp/company/72888/history/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "飯田製作所 福島第2工場 X 投稿",
+   "results": [
+    "https://pr.mono.ipros.com/iidaf/",
+    "https://iidaf.com/",
+    "https://ja.nc-net.or.jp/company/72888/",
+    "https://f-monodukuri.jp/search_detail.html?no=3656",
+    "https://www.kanken-cm.co.jp/construction/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E9%A3%AF%E7%94%B0%E8%A3%BD%E4%BD%9C%E6%89%80-%E7%A6%8F%E5%B3%B6%E7%AC%AC2%E5%B7%A5%E5%A0%B4-3%E6%A3%9F%E5%A2%97%E7%AF%89%E5%B7%A5%E4%BA%8B/",
+    "https://iidaf.com/company/",
+    "https://www.nikkan.co.jp/articles/view/720815",
+    "https://matching.idec.or.jp/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E9%A3%AF%E7%94%B0%E8%A3%BD%E4%BD%9C%E6%89%80",
+    "https://pr.mono.ipros.com/iidaf/information/",
+    "https://pr.mono.ipros.com/iidaf/news/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式19頁／PDF・画像0件／外部9頁・検索9回）",
+  "代表者": "記載なし（3回確認済み：公式19頁／PDF・画像0件／外部9頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式19頁／PDF・画像0件／外部9頁・検索9回）"
+ }
+}

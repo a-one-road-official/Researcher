@@ -1,0 +1,1168 @@
+{
+ "name": "Percepto",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜AI送信済み",
+ "researched_at": "2026-11-11T11:21:58.729059+00:00",
+ "official_url": "https://www.percepto.co/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "The most advanced autonomous drones, deployed at scale by leading enterprises",
+    "url": "https://percepto.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Integrated weather station + ADS-B in",
+    "url": "https://percepto.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“With Percepto solutions we are able to identify problems before they occur. The Percepto solution gave us more reliable information on the power plant production and made sure we will be %100 available. Using Percepto technology, we are saving time and increasing employee safety.”",
+    "url": "https://percepto.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Percepto drone technology saves lives. It prevents incidents, it prevents accidents, it reduces the exposure to risk. It helps us control the risk probability like never before.”",
+    "url": "https://percepto.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Real-time visibility across our port operations has improved response times and kept our teams safer.”",
+    "url": "https://percepto.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Autonomous drone integration into enterprises isn’t the future - it’s the present.",
+    "url": "https://percepto.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "We are hardware engineers, software developers, machine vision experts, robotics-aficionados & industry professionals all working together as one.",
+    "url": "https://percepto.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "At our core, we believe in developing technology that complements skilled human labor with state-of-the-art hardware and software. We proved that autonomous solutions for industry aren’t the future, but instead real, scalable technology impacting business’ productivity, sustainability and safety.",
+    "url": "https://percepto.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Chief Marketing Officer",
+    "url": "https://percepto.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Chief Product Officer",
+    "url": "https://percepto.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Vice President, People",
+    "url": "https://percepto.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Vice President, Product",
+    "url": "https://percepto.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Vice President, Strategic Accounts",
+    "url": "https://percepto.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Vice President, R&D",
+    "url": "https://percepto.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Percepto’s previous launch, on June 22, packaged its AI with next-generation",
+    "url": "https://dronexl.co/2026/10/27/percepto-axion-inspection-ai-third-party-drones-new-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "Axion applies more than 160 AI models to RGB photos, radiometric thermal data, gas-imaging video and orthomosaic maps from any supported source. Percepto says it trained those models on more than 100,000 hours of autonomous inspection data. It sells Axion as software-as-a-service and has not published pricing.",
+    "url": "https://dronexl.co/2026/10/27/percepto-axion-inspection-ai-third-party-drones-new-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "Percepto Keeps Its Drones and Moves Their Production to the US",
+    "url": "https://dronexl.co/2026/10/27/percepto-axion-inspection-ai-third-party-drones-new-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "Percepto’s AI Read DJI Footage in 2021, and Now the Software Leads the Sale",
+    "url": "https://dronexl.co/2026/10/27/percepto-axion-inspection-ai-third-party-drones-new-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": ", Bellanger says most operators already run drone programs, sensors and inspection contracts, and the bottleneck has moved to reviewing what they collect. He says the drones and stations stay a core part of the business.",
+    "url": "https://dronexl.co/2026/10/27/percepto-axion-inspection-ai-third-party-drones-new-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "Bellanger comes from software. He was CEO of application-security company Prevoty when",
+    "url": "https://dronexl.co/2026/10/27/percepto-axion-inspection-ai-third-party-drones-new-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "Selling the AI without the drone is the right call. Percepto’s own 2021 DJI integration shows it has known for years that its customers fly other companies’ aircraft. Percepto hasn’t published which drones Axion supports, and its product page names none.",
+    "url": "https://dronexl.co/2026/10/27/percepto-axion-inspection-ai-third-party-drones-new-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "Percepto via PR Newswire",
+    "url": "https://dronexl.co/2026/10/27/percepto-axion-inspection-ai-third-party-drones-new-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "ICL Dead Sea boosts productivity and streamlines inspections with Percepto autonomous drones",
+    "url": "https://www.casestudies.com/company/percepto",
+    "pass": 3
+   },
+   {
+    "quote": "ICL Dead Sea Drone Program Manager",
+    "url": "https://www.casestudies.com/company/percepto",
+    "pass": 3
+   },
+   {
+    "quote": "Vice President of Operations and Plant Manager",
+    "url": "https://www.casestudies.com/company/percepto",
+    "pass": 3
+   },
+   {
+    "quote": "a leading solar farm operator in Spain achieves safer, more productive plant operations with Percepto autonomous drones",
+    "url": "https://www.casestudies.com/company/percepto",
+    "pass": 3
+   },
+   {
+    "quote": "RockBlast improves mining safety and compliance with Percepto autonomous drones",
+    "url": "https://www.casestudies.com/company/percepto",
+    "pass": 3
+   },
+   {
+    "quote": "Siemens Energy improves plant availability with Percepto autonomous inspections",
+    "url": "https://www.casestudies.com/company/percepto",
+    "pass": 3
+   },
+   {
+    "quote": "Percepto works across a number of digital communications disciplines to build comprehensive strategies that achieve results; from online reputation management and public relations to social media and content marketing.",
+    "url": "https://www.percepto-digital.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "We helped a leading European luxury hotel & resort brand grow its organic visibility across international markets while navigating a complex multi-language site migration. Through a mix of technical SEO, site architecture improvements, and scalable content, the brand achieved strong gains in traffic, leads, and engagement.",
+    "url": "https://www.percepto-digital.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Years after a move to the private sector, a business leader’s Wikipedia page still skewed political. See how Percepto turned it into a due-diligence asset – COI disclosed, talk-page-only workflow, deep research with independent sources, phased requests, and consensus-built edits that foreground verified achievements.",
+    "url": "https://www.percepto-digital.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Percepto embarks on reputation management to improve a tech leader’s search engine results and affect ChatGPT answers for relevant queries.",
+    "url": "https://www.percepto-digital.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Percepto partnered with a leader of the Central European Energy sector, to refocus his online narrative and increase his digital presence for English-speaking search engine searches.",
+    "url": "https://www.percepto-digital.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "A leader in the IoT industry, Client H, contacted Percepto in order to boost their online presence and help them to create and maintain a positive and strong digital narrative. Stakeholders which the client wanted to particularly focus on included commercial partners, clients and potential employees.",
+    "url": "https://www.percepto-digital.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Digital PR and stakeholders engagement for travel-tech startup",
+    "url": "https://www.percepto-digital.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Delve into Refundit’s experience navigating European regulatory challenges. Uncover our approach to message promotion, stakeholder engagement, and positive impacts on the tourism industry in this comprehensive case study of PR, Taxfreeworld.org, and digital strategies.",
+    "url": "https://www.percepto-digital.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Percepto partnered with a high-profile investment banking and brokerage firm, who focus on the health tech space, to provide a full-service, online reputation management strategy.",
+    "url": "https://www.percepto-digital.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Percepto partnered with a Swiss investment firm to increase their online presence and create the perfect narrative across multiple countries in two different languages.",
+    "url": "https://www.percepto-digital.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Successful Exposure through Social Media Strategy",
+    "url": "https://www.percepto-digital.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "The Wolf Prize is an annual award presented to global leading figures in the world of science, mathematics and art, recognizing the world’s finest.",
+    "url": "https://www.percepto-digital.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Raising Exposure Through PR",
+    "url": "https://www.percepto-digital.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "International, eco-friendly electronics brand, EcoFlow, contacted Percepto to implement a two-month, project-based campaign.",
+    "url": "https://www.percepto-digital.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "A leader in the energy sector partnered with Percepto to take control of their online narrative, improve their visibility and increase positive sentiment around their own brand and that of their company.",
+    "url": "https://www.percepto-digital.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.",
+    "url": "https://www.percepto-digital.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.percepto-digital.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.",
+    "url": "https://www.percepto-digital.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Prevent issues from turning into downtime with end-to-end inspection and monitoring",
+    "url": "https://percepto.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Learn how to meet deadlines by avoiding errors and ensuring contractor accountability with daily, AI-powered progress reports.",
+    "url": "https://percepto.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Keep your site in top shape while improving OpEx by automating issue detection and geolocation",
+    "url": "https://percepto.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Boost safety and productivity with autonomous inspection & monitoring.",
+    "url": "https://percepto.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Download the case study to learn how one of the world’s largest manufacturers of potash boosts productivity and efficiency with autonomous drones",
+    "url": "https://percepto.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Learn how Delek US boosts productivity, safety, compliance and profitability across multiple refineries with autonomous drone operations",
+    "url": "https://percepto.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "To learn more about how our autonomous oil & gas solutions are improving ROI for sites worldwide, download our overview.",
+    "url": "https://percepto.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "This ebook walks you through the solar plants construction and operations processes, the challenges that arise, and how to overcome them using a solar software solution to meet tight construction schedules and energy production requirements.",
+    "url": "https://percepto.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Learn how leading heavy industrial sites fully automate inspections to minimize downtime and optimize production",
+    "url": "https://percepto.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Read about the top 10 use cases on driving productivity and increasing safety",
+    "url": "https://percepto.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Optimizing visual site inspections is critical to boosting industrial sites’ productivity, efficiency and safety. Most inspections are done manually, but the industry is moving towards fully autonomous inspection and monitoring",
+    "url": "https://percepto.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous Drones are transforming industrial operations – automating time-consuming and labor-intensive processes, and driving a whole new world of data-driven analytics. Learn all about autonomous drones and their various applications in the industrial realm.",
+    "url": "https://percepto.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "2020 Best Practices Award",
+    "url": "https://percepto.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Download the Frost & Sullivan Best Practices Award Report to learn why Percepto was recognized as the 2020 Global Autonomous Drones Enabling Technology Leader.",
+    "url": "https://percepto.com/resources/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "“It paid for itself during a recent freeze event, when we were able to start the plant up earlier. We had better information, delivered quickly to the decision makers, and we kept people out of harm's way. Instead of them going out in -21°F weather, we were able to bring the information right to them; they're able to make the right operational decisions and the safest decisions.”",
+    "url": "https://percepto.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“With Percepto solutions we are able to identify problems before they occur. The Percepto solution gave us more reliable information on the power plant production and made sure we will be %100 available. Using Percepto technology, we are saving time and increasing employee safety.”",
+    "url": "https://percepto.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hexagon launches AEON humanoid robot for industrial use",
+    "url": "https://physicalainews.jp/news/percepto-tenken-deeta-wo-tougou-suru-fijikaru-ai-kiban-axion-12f412",
+    "pass": 3
+   },
+   {
+    "quote": "Percepto’s holistic solution enables fully automated inspections and continuous monitoring of critical infrastructure around the globe. This is all facilitated by a visionary team based in the US and Israel, focused on pushing the boundaries of industrial automation.",
+    "url": "https://percepto.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Operators can also type questions about an asset in plain English. In Percepto’s own demo, a utility worker sending a lineman to a pole asks what else is wrong with it, and Axion answers that a deteriorated crossarm was detected on June 3 and a vegetation crew trimmed a nearby tree two months ago.",
+    "url": "https://dronexl.co/2026/10/27/percepto-axion-inspection-ai-third-party-drones-new-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "station names, for operators who need more frequent coverage. The company says it is consolidating engineering, manufacturing and assembly in the United States, alongside its existing US remote operations, tying the move to “American Drone Dominance.”",
+    "url": "https://dronexl.co/2026/10/27/percepto-axion-inspection-ai-third-party-drones-new-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": ", Bellanger says most operators already run drone programs, sensors and inspection contracts, and the bottleneck has moved to reviewing what they collect. He says the drones and stations stay a core part of the business.",
+    "url": "https://dronexl.co/2026/10/27/percepto-axion-inspection-ai-third-party-drones-new-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "US Drone Manufacturing",
+    "url": "https://dronexl.co/2026/10/27/percepto-axion-inspection-ai-third-party-drones-new-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "Chemical Manufacturing",
+    "url": "https://www.casestudies.com/company/percepto",
+    "pass": 3
+   },
+   {
+    "quote": "Semiconductor Manufacturing",
+    "url": "https://www.casestudies.com/company/percepto",
+    "pass": 3
+   },
+   {
+    "quote": "Vice President of Operations and Plant Manager",
+    "url": "https://www.casestudies.com/company/percepto",
+    "pass": 3
+   },
+   {
+    "quote": "a leading solar farm operator in Spain achieves safer, more productive plant operations with Percepto autonomous drones",
+    "url": "https://www.casestudies.com/company/percepto",
+    "pass": 3
+   },
+   {
+    "quote": "Siemens Energy improves plant availability with Percepto autonomous inspections",
+    "url": "https://www.casestudies.com/company/percepto",
+    "pass": 3
+   },
+   {
+    "quote": "Delve into Refundit’s experience navigating European regulatory challenges. Uncover our approach to message promotion, stakeholder engagement, and positive impacts on the tourism industry in this comprehensive case study of PR, Taxfreeworld.org, and digital strategies.",
+    "url": "https://www.percepto-digital.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "The market leading drone-in-a-box portfolio. AI powered. Industrial grade. Trusted by regulators worldwide.",
+    "url": "https://percepto.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Percepto – leading the revolution of unmanned inspection of industrial infrastructure",
+    "url": "https://percepto.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "ICL Dead Sea Case Study",
+    "url": "https://percepto.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Download the case study to learn how one of the world’s largest manufacturers of potash boosts productivity and efficiency with autonomous drones",
+    "url": "https://percepto.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "This ebook walks you through the solar plants construction and operations processes, the challenges that arise, and how to overcome them using a solar software solution to meet tight construction schedules and energy production requirements.",
+    "url": "https://percepto.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Learn how leading heavy industrial sites fully automate inspections to minimize downtime and optimize production",
+    "url": "https://percepto.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Optimizing visual site inspections is critical to boosting industrial sites’ productivity, efficiency and safety. Most inspections are done manually, but the industry is moving towards fully autonomous inspection and monitoring",
+    "url": "https://percepto.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous Drones are transforming industrial operations – automating time-consuming and labor-intensive processes, and driving a whole new world of data-driven analytics. Learn all about autonomous drones and their various applications in the industrial realm.",
+    "url": "https://percepto.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial site visual inspection survey report including technology trends, industry benchmarks and shortcomings.",
+    "url": "https://percepto.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Dor Abuhasira - Industrial site transformation",
+    "url": "https://percepto.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "What do dermatology and industrial sites have in common? AI has the power to boost overall health and prevent disasters in both. Watch the full webinar to learn how.",
+    "url": "https://percepto.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous Drones Transforming Industrial Site Operations Down Under",
+    "url": "https://percepto.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Autonomous Drones: Helping Industrial Sites Mitigate COVID-19 Impact",
+    "url": "https://percepto.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Listen to CCO and Co-Founder of Percepto Ariel Avitan and Frost & Sullivan’s VP Aerospace, Defense & Security Mike Blades as they discuss the value of autonomous drones during both normal and crisis conditions, use cases of companies mitigating COVID-19 using autonomous drones, and more.",
+    "url": "https://percepto.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Learn how Siemens is using Percepto AIM for electric utility power plant inspection and monitoring to improve maintenance using reliable information to locate problems quickly, keep the factory compliant and avoid unnecessary risks to human lives and equipment.",
+    "url": "https://percepto.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Percepto",
+    "url": "https://www.casestudies.com/customer/percepto",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Percepto、点検データを統合するフィジカルAI基盤「Axion」を発表 | 日本フィジカルAI新聞",
+    "url": "https://physicalainews.jp/news/percepto-tenken-deeta-wo-tougou-suru-fijikaru-ai-kiban-axion-12f412",
+    "pass": 3
+   },
+   {
+    "quote": "本記事の収集・日本語化・構成にはAIを使用しています",
+    "url": "https://physicalainews.jp/news/percepto-tenken-deeta-wo-tougou-suru-fijikaru-ai-kiban-axion-12f412",
+    "pass": 3
+   },
+   {
+    "quote": "重要ニュース5本・日本/中国・Research Picks・今週の公募",
+    "url": "https://physicalainews.jp/news/percepto-tenken-deeta-wo-tougou-suru-fijikaru-ai-kiban-axion-12f412",
+    "pass": 3
+   },
+   {
+    "quote": "タイムラインを合わせる日本、次に必要なものは [相良静造のUnmanned World] Vol.14",
+    "url": "https://drone.jp/news/2023112902165777003.html",
+    "pass": 3
+   },
+   {
+    "quote": "DRONE.jp（https://drone.jp/、以下本サイト）は、ドローンやマルチコプターについての本格的な解説やおすすめ、最新情報を発信する日本初のメディアとして、「Explore the Future」をタグラインに2015年スタートしました",
+    "url": "https://drone.jp/news/2023112902165777003.html",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Agility、SPAC合併でナスダック上場",
+    "url": "https://physicalainews.jp/news/percepto-tenken-deeta-wo-tougou-suru-fijikaru-ai-kiban-axion-12f412",
+    "pass": 3
+   },
+   {
+    "quote": "Chief Revenue Officer",
+    "url": "https://percepto.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "The same asset view applied to an oil and gas tank site, with a tank's corrosion, valve and thermal findings listed by date. Image credit: Percepto",
+    "url": "https://dronexl.co/2026/10/27/percepto-axion-inspection-ai-third-party-drones-new-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": ", Bellanger says most operators already run drone programs, sensors and inspection contracts, and the bottleneck has moved to reviewing what they collect. He says the drones and stations stay a core part of the business.",
+    "url": "https://dronexl.co/2026/10/27/percepto-axion-inspection-ai-third-party-drones-new-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "Percepto partnered with a leader of the Central European Energy sector, to refocus his online narrative and increase his digital presence for English-speaking search engine searches.",
+    "url": "https://www.percepto-digital.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "A leader in the IoT industry, Client H, contacted Percepto in order to boost their online presence and help them to create and maintain a positive and strong digital narrative. Stakeholders which the client wanted to particularly focus on included commercial partners, clients and potential employees.",
+    "url": "https://www.percepto-digital.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Percepto partnered with a Swiss investment firm to increase their online presence and create the perfect narrative across multiple countries in two different languages.",
+    "url": "https://www.percepto-digital.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "A leader in the energy sector partnered with Percepto to take control of their online narrative, improve their visibility and increase positive sentiment around their own brand and that of their company.",
+    "url": "https://www.percepto-digital.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.",
+    "url": "https://www.percepto-digital.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.percepto-digital.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Percepto Revenue 2024: $26M Est.",
+    "url": "https://getlatka.com/companies/percepto.co",
+    "pass": 3
+   },
+   {
+    "quote": "Percepto has not published its revenue. GetLatka estimates it at about $26M a year (June 2024).",
+    "url": "https://getlatka.com/companies/percepto.co",
+    "pass": 3
+   },
+   {
+    "quote": "Percepto had 173 employees (June 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/percepto.co",
+    "pass": 3
+   },
+   {
+    "quote": "What is Percepto's revenue?",
+    "url": "https://getlatka.com/companies/percepto.co",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Percepto's revenue at about",
+    "url": "https://getlatka.com/companies/percepto.co",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Percepto have?",
+    "url": "https://getlatka.com/companies/percepto.co",
+    "pass": 3
+   },
+   {
+    "quote": "employees in June 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/percepto.co",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/percepto.co",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/percepto.co",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/percepto.co",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Percepto、点検データを統合するフィジカルAI基盤「Axion」を発表 | ... — Oct 30, 2026 · Perceptoは2026年10月27日、点検データを統合・分析するフィジカルAI基盤「Axion」を発表した。 160超の専用AIモデルを搭載し、10万時間超の自律点検データで訓練したという。 新たなソフトウェア提供を通じ、同社製以外のドローンやセンサーのデータも扱う。",
+    "url": "https://physicalainews.jp/news/percepto-tenken-deeta-wo-tougou-suru-fijikaru-ai-kiban-axion-12f412",
+    "pass": 3
+   },
+   {
+    "quote": "Homepage - Percepto — Our collaboration with Percepto is a key example of that effort, topping the power of automation, artificial intelligence, and data-driven insights, helping us work smarter and safer to deliver the energy the world needs while working to develop lower carbon solutions for tomorrow”.",
+    "url": "https://percepto.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Percepto Axion：ドローンとセンサー向けAI点検プラットフォーム - ニ... — Oct 27, 2026 · Percepto、ドローンとセンサー向け点検プラットフォームAxionを発表 PerceptoはAxionを発表しました。これは、他社製のドローンやセンサーに加え、同社自身のハードウェアとも連携する点検プラットフォームであると、 World Oil が報じています。このプラットフォームは電力網、石油ガス施設、産業 ...",
+    "url": "https://www.indexbox.io/ja/blog/percepto-launches-axion-inspection-platform-for-drones-and-sensors/",
+    "pass": 3
+   },
+   {
+    "quote": "Percepto 、1人で自律型ドローン30機の目視外運用が可能に。FAAから承... — Nov 29, 2023 · 以前のPerceptoドローンの運用では1機のドローンを監視し操作するのに1人のパイロットが必要だったが、今回の新たな承認により、1人のパイロットが同時に最大30機のドローンを商用運用できるようになり、ドローンの自動化と遠隔操作が再定義されるという。",
+    "url": "https://drone.jp/news/2023112902165777003.html",
+    "pass": 3
+   },
+   {
+    "quote": "自律型ドローン検査で先行するイスラエルベンチャーPercepto ｜アドバ... — Jul 24, 2023 · 2023年6月、自律型ドローン検査を手掛けるイスラエルのベンチャー企業、PerceptoはシリーズCにおいて6700万ドルの資金調達に成功したと発表した。本記事では、自律型ドローン検査の概要から、Perceptoの詳細について紹介する。保全",
+    "url": "https://www.atx-research.co.jp/contents/2023/07/24/percepto",
+    "pass": 3
+   },
+   {
+    "quote": "About | Autonomous Inspections & Monitoring | Percepto — Oct 27, 2026 · Percepto’s holistic solution enables fully automated inspections and continuous monitoring of critical infrastructure around the globe. This is all facilitated by a visionary team pushing the boundaries of industrial automation.",
+    "url": "https://percepto.com/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Percepto Opens Its Inspection AI to Rival Drones Under a New CEO — Oct 27, 2026 · Percepto's Axion sells its inspection AI as software for other makers' drones and sensors, under new CEO Julien Bellanger. Its own drones stay.",
+    "url": "https://dronexl.co/2026/10/27/percepto-axion-inspection-ai-third-party-drones-new-ceo/",
+    "pass": 3
+   },
+   {
+    "quote": "Percepto - LinkedIn — Percepto has been managing the online presence of high-profile individuals, brands, and organizations since 2007. By becoming an integral part of our clients’ extended team, we help to create ...",
+    "url": "https://www.linkedin.com/company/percepto",
+    "pass": 3
+   },
+   {
+    "quote": "Percepto - LinkedIn — Percepto is the Physical AI platform for continuous infrastructure visibility. Operators utilize Percepto not only to collect more data, but to close the gap between what's actually happening on ...",
+    "url": "https://www.linkedin.com/company/perceptophysicalai",
+    "pass": 3
+   },
+   {
+    "quote": "Percepto B2B Case Studies & Customer Successes — See how Percepto solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/percepto",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - Percepto — Case Studies Percepto works across a number of digital communications disciplines to build comprehensive strategies that achieve results; from online reputation management and public relations to social media and content marketing.",
+    "url": "https://www.percepto-digital.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Resources | Automated Inspections & Monitoring | Percepto — Oct 27, 2026 · Case Study - PDF Delek US Case Study Learn how Delek US boosts productivity, safety, compliance and profitability across multiple refiner ...",
+    "url": "https://percepto.com/resources/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Percepto Uses Software & Services — Explore case studies featuring Percepto as the customer — learn how vendors and partners helped Percepto solve real business challenges. Percepto is the leading autonomous inspection and monitoring solution provider, revolutionizing how industrial sites monitor and inspect their critical infrastructure and assets.",
+    "url": "https://www.casestudies.com/customer/percepto",
+    "pass": 3
+   },
+   {
+    "quote": "Homepage - Percepto — The Percepto solution gave us more reliable information on the power plant production and made sure we will be %100 available. Using Percepto technology, we are saving time and increasing employee safety.”",
+    "url": "https://percepto.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Percepto – Growth Analysis & Alternative Companies – 2026 — About Percepto Percepto (founded 2013, Israel) provides autonomous multi-mission drone systems for enterprises; reported revenue is $100.9M and it has 200+ employees. Percepto develops autonomous on-site multi-mission drone systems for enterprise use. Its platform uses real-time computer vision to enable automated drone operations managed",
+    "url": "https://compworth.com/company/percepto",
+    "pass": 3
+   },
+   {
+    "quote": "Percepto Revenue 2024: $26M Est. - getlatka.com — Oct 30, 2026 · Percepto 2024 estimated revenue: $26M. 173 employees. Industry: Robotics & Drones. Founded 2014. HQ: United States. Updated Oct 30, 2026.",
+    "url": "https://getlatka.com/companies/percepto.co",
+    "pass": 3
+   },
+   {
+    "quote": "Percepto — Company Profile | The Company Check — Percepto is an Aerospace, Defense & Maritime company based in Tel Aviv, Israel, founded in 2014 with $128M raised. See funding on The Company Check.",
+    "url": "https://www.thecompanycheck.com/company/b/percepto/ag7vm1p2jw8evp0hh",
+    "pass": 3
+   },
+   {
+    "quote": "Percepto - 2026 Company Profile, Funding & Competitors - Tracxn — Mar 20, 2026 · Percepto is a series C company based in Tel Aviv (Israel), founded in 2014. It operates as a Provider of autonomous drone technology and industrial inspection solutions. Percepto has raised $128M in funding from Koch Disruptive Technologies and USVP. The company has 802 active competitors, including 145 funded and 59 ",
+    "url": "https://tracxn.com/d/companies/percepto/__85zj0D7-g2vYrsFbzQ7KoAFxHxKtdPhijxYOgfRhXRk",
+    "pass": 3
+   },
+   {
+    "quote": "Percepto: Funding, Investors & Team (Oct 2026) | FundedIQ — Percepto is a Consumer Electronics company in Modi'in, Israel. Raised $112M across 2 rounds; latest a Series C in Jun 2023. Investors and funding history.",
+    "url": "https://fundediq.co/percepto-percepto-co-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Percepto- Physical AI (@PerceptoAIM) / X Percepto is the Physical AI platform for continuous infrastructure visibility.",
+    "url": "https://x.com/PerceptoAIM",
+    "pass": 3
+   },
+   {
+    "quote": "Percepto (@perceptodigital) / Posts / X Jan 17, 2012 · Sep 30 Reputation is a college's most precious commodity, attracting top professors, students and funding for research. Our recent Percepto Insider discusses the hows, whys and whens of #reputation management for #education institutions.",
+    "url": "https://x.com/perceptodigital",
+    "pass": 3
+   },
+   {
+    "quote": "Percepto International (@PerceptoIntl) / Posts / X Aug 5, 2021 · The Percepto team wishes you all Happy Holidays! This is the time of year when the endless stream of holiday advertisements can easily influence our decision making, so be mindful of what you consume and enjoy the festive season!",
+    "url": "https://x.com/PerceptoIntl",
+    "pass": 3
+   },
+   {
+    "quote": "Percepto (@PerceptoStudios) / Posts / X Feb 15, 2014 · Percepto (@PerceptoStudios) - Posts - Creative Think Shop. Artists aimed to inspire. Share art and ideas. | X (formerly Twitter)",
+    "url": "https://x.com/perceptostudios",
+    "pass": 3
+   },
+   {
+    "quote": "Percepto (@perceptodigital) / Posts / X Jan 17, 2012 · Percepto (@perceptodigital) - Posts - Strategic online communications for brands and business leaders since 2007 | X (formerly Twitter)",
+    "url": "https://x.com/perceptodigital",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Percepto - LinkedIn Percepto is the Physical AI platform for continuous infrastructure visibility. Operators utilize Percepto not only to collect more data, but to close the gap between what's actually happening on ...",
+    "url": "https://www.linkedin.com/company/perceptophysicalai",
+    "pass": 3
+   },
+   {
+    "quote": "Percepto - LinkedIn Percepto has been managing the online presence of high-profile individuals, brands, and organizations since 2007. By becoming an integral part of our clients’ extended team, we help to create ...",
+    "url": "https://www.linkedin.com/company/percepto",
+    "pass": 3
+   },
+   {
+    "quote": "Percepto - LinkedIn Percepto is the Physical AI platform for continuous infrastructure visibility. Operators utilize Percepto not only to collect more data, but to close the gap between what's actually happening on their assets and what they know about it — the gap where risk, cost, and liability quietly accumulate. Percepto orchestrates autonomous and remote data capture across drones, sensors, a",
+    "url": "https://il.linkedin.com/company/perceptophysicalai",
+    "pass": 3
+   },
+   {
+    "quote": "Percepto - LinkedIn Percepto is the leading autonomous inspection and monitoring solution provider, revolutionizing how enterprises monitor and inspect their critical infrastructure and assets. Our solution, combining Percepto AIM software and Percepto Air drones with regulatory approvals and turnkey service support, empowers organizations to optimize performance, safety, and sustainability. Perce",
+    "url": "https://ca.linkedin.com/company/perceptoautonomousdrones",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Percepto | Austin TX - Facebook Apr 28, 2024 · Percepto, Austin. 2,968 followers. Percepto is the Physical AI platform for continuous infrastructure visibility, giving operators of mission-critical assets a standing, verified guarantee that...",
+    "url": "https://www.facebook.com/perceptophysicalai/",
+    "pass": 3
+   },
+   {
+    "quote": "Percepto | Tel Aviv - FacebookPercepto - FacebookPercepto | Warsaw - FacebookPERCEPTO STUDIOS - FacebookPercepto taller de empaque - FacebookPercepto - Facebook Aug 12, 2026 · Percepto, Tel Aviv. 1,058 followers · 56 were here. Percepto is a group of innovative thinkers, digital strategists and story tellers who have been mana Aug 10, 2026 · PERCEPTO. Una experiencia donde el sonido deja de ser el",
+    "url": "https://www.facebook.com/PerceptoDigital/",
+    "pass": 3
+   },
+   {
+    "quote": "Percepto - Facebook Aug 10, 2026 · PERCEPTO. Una experiencia donde el sonido deja de ser el único lenguaje y el espacio comienza a responder. Por primera vez, la anomalía incorporará Nodos de Interacción, elementos desarrollados para expandir la transmisión y alterar la forma en que cada Receptor experimenta el entorno. La frecuencia ya fue sincronizada.",
+    "url": "https://www.facebook.com/p/Percepto-61566485499294/",
+    "pass": 3
+   },
+   {
+    "quote": "Percepto | Warsaw - FacebookPERCEPTO STUDIOS - FacebookPercepto taller de empaque - FacebookPercepto - Facebook May 10, 2023 · Percepto, Warsaw. 973 likes. Percepto [LAB] & Percepto [VFX] offers : Creative Visual Production Creative Direction Production / Lighting / Multimedia Design Video Content Production NOTCH / UE4... Aug 1, 2026 · PERCEPTO STUDIOS, Baltimore. 574 followers · 3 talking about ",
+    "url": "https://www.facebook.com/PerceptoLab/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://percepto.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://physicalainews.jp/news/percepto-tenken-deeta-wo-tougou-suru-fijikaru-ai-kiban-axion-12f412",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://percepto.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexbox.io/ja/blog/percepto-launches-axion-inspection-platform-for-drones-and-sensors/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://drone.jp/news/2023112902165777003.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.koaglobal.com/corporate/offices/distributors1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-maker",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.toyokeizai.net/data/service/detail/id=418",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://percepto.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://percepto.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dronexl.co/2026/10/27/percepto-axion-inspection-ai-third-party-drones-new-ceo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/percepto",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.casestudies.com/company/percepto",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.percepto-digital.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://percepto.com/resources/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/percepto",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://upcloud.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/percepto",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/percepto.co",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/percepto/ag7vm1p2jw8evp0hh",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/percepto/__85zj0D7-g2vYrsFbzQ7KoAFxHxKtdPhijxYOgfRhXRk",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/PerceptoAIM",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/perceptodigital",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/PerceptoIntl",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/perceptostudios",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/perceptophysicalai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/percepto",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://il.linkedin.com/company/perceptophysicalai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/perceptoautonomousdrones",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/perceptophysicalai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/PerceptoDigital/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Percepto-61566485499294/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/PerceptoLab/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/PerceptoAIM",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/perceptodigital",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Percepto 日本 導入",
+   "results": [
+    "https://physicalainews.jp/news/percepto-tenken-deeta-wo-tougou-suru-fijikaru-ai-kiban-axion-12f412",
+    "https://percepto.com/",
+    "https://www.indexbox.io/ja/blog/percepto-launches-axion-inspection-platform-for-drones-and-sensors/",
+    "https://drone.jp/news/2023112902165777003.html",
+    "https://www.atx-research.co.jp/contents/2023/07/24/percepto",
+    "https://percepto.com/about/",
+    "https://flypix.ai/ja/percepto-alternatives/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Percepto 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://www.indexpro.co.jp/distributor/search-maker",
+    "https://biz.toyokeizai.net/data/service/detail/id=418",
+    "https://www.perceptcorp.com/",
+    "https://jpmktg.winbond.com/",
+    "https://japanesedistributors.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Percepto Japan",
+   "results": [
+    "https://percepto.com/",
+    "https://percepto.com/about/",
+    "https://dronexl.co/2026/10/27/percepto-axion-inspection-ai-third-party-drones-new-ceo/",
+    "https://www.linkedin.com/company/percepto",
+    "https://www.linkedin.com/company/perceptophysicalai",
+    "https://www.percepto.net/",
+    "https://perceptointernational.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Percepto manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/percepto",
+    "https://www.percepto-digital.com/case-studies/",
+    "https://percepto.com/resources/",
+    "https://www.casestudies.com/customer/percepto",
+    "https://percepto.com/",
+    "https://www.percepto-digital.com/case-studies/fast-moving-consumer-goods-fmcg/",
+    "https://www.featuredcustomers.com/vendor/percepto/case-studies"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Percepto white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partner.vw.com/partner",
+    "https://upcloud.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.thenationalcouncil.org/get-involved/partner-with-us/partnership-program/",
+    "https://www.superantispyware.com/reseller-program"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Percepto founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/percepto",
+    "https://getlatka.com/companies/percepto.co",
+    "https://www.thecompanycheck.com/company/b/percepto/ag7vm1p2jw8evp0hh",
+    "https://tracxn.com/d/companies/percepto/__85zj0D7-g2vYrsFbzQ7KoAFxHxKtdPhijxYOgfRhXRk",
+    "https://fundediq.co/percepto-percepto-co-funding/",
+    "https://prospeo.io/c/percepto-management-revenue",
+    "https://www.zoominfo.com/c/percepto/409411847"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Percepto",
+   "results": [
+    "https://note.com/beloved_tomoka",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/maxmatsuura/n/n5184b760199e",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/long_falcon5090/n/n392ef61e0ed0",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/ibara3314/n/n3cfb1c790e1c"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Percepto",
+   "results": [
+    "https://x.com/PerceptoAIM",
+    "https://x.com/perceptodigital",
+    "https://x.com/PerceptoIntl",
+    "https://x.com/perceptostudios",
+    "https://x.com/PerceptoC",
+    "https://x.com/hashtag/Percepto",
+    "https://x.com/guanajuato/status/2119156736070197579"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Percepto",
+   "results": [
+    "https://www.linkedin.com/company/perceptophysicalai",
+    "https://www.linkedin.com/company/percepto",
+    "https://il.linkedin.com/company/perceptophysicalai",
+    "https://ca.linkedin.com/company/perceptoautonomousdrones",
+    "https://il.linkedin.com/company/perceptoautonomousdrones",
+    "https://br.linkedin.com/company/consultoriapercepto",
+    "https://in.linkedin.com/company/perceptoai"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Percepto",
+   "results": [
+    "https://www.facebook.com/perceptophysicalai/",
+    "https://www.facebook.com/PerceptoDigital/",
+    "https://www.facebook.com/p/Percepto-61566485499294/",
+    "https://www.facebook.com/PerceptoLab/",
+    "https://www.facebook.com/perceptostudios/",
+    "https://www.facebook.com/perceptoempaques/",
+    "https://www.facebook.com/Perceptocomunicacion/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Percepto note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://percepto.com/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.jp/n/ncc37a1d4aa0b",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Percepto X 投稿",
+   "results": [
+    "https://x.com/PerceptoAIM",
+    "https://x.com/perceptodigital",
+    "https://percepto.com/",
+    "https://percepto.com/about/",
+    "https://drones.percepto.co/",
+    "https://www.perceptoai.com/",
+    "https://note.com/unpoco/n/n4737c18b9b97"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部38頁・検索12回）"
+ }
+}

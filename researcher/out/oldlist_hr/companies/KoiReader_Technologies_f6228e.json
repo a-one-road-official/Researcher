@@ -1,0 +1,1088 @@
+{
+ "name": "KoiReader Technologies",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AI送信済み",
+ "researched_at": "2026-11-11T11:38:40.386644+00:00",
+ "official_url": "https://www.koireader.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "12-Jun-2019 $60K $60K  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/268106-86",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "NVIDIA Partner. Trusted by Fortune 50 enterprises",
+    "url": "https://www.koireader.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Efficiency Problem",
+    "url": "https://www.koireader.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proven in production at Fortune 50 facilities across 6 verticals",
+    "url": "https://www.koireader.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Hardware-activated AI, proven in production at Fortune 50 facilities.",
+    "url": "https://www.koireader.com/",
+    "pass": 1
+   },
+   {
+    "quote": "To a live proof of value on your dock",
+    "url": "https://www.koireader.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Quick proof at your Gate, Yard, Dock, or within the Warehouse.",
+    "url": "https://www.koireader.com/",
+    "pass": 1
+   },
+   {
+    "quote": "KoiReader has deployed five integrated products at this facility, each addressing a distinct failure point in the yard operations chain.",
+    "url": "https://www.koireader.com/resources/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Executives who operate high-velocity networks understand the risks. Manual gate processes mean inconsistent security checks, unverified asset movement.",
+    "url": "https://www.koireader.com/resources/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "KoiReader's Intel-accelerated AI solution provides supply chain leaders the accuracy and process efficiency they need in today's highly competitive market.",
+    "url": "https://www.koireader.com/resources/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "A digital twin is not a nice-to-have, but the backbone of a digital operations strategy to unlock unprecedented value.",
+    "url": "https://www.koireader.com/resources/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Hype versus Reality: Apple Vision Pro Applications in Supply Chain",
+    "url": "https://www.koireader.com/resources/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Simplify Cost Takeout, Increase Sales, Minimize Returns, and Gain Unprecedented Operational Efficiency",
+    "url": "https://www.koireader.com/resources/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "UNLOCK EXCLUSIVE CONTENT JOIN US",
+    "url": "https://www.koireader.com/resources/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Unprecedented Operational Efficiency and Accuracy across the Operational Footprint",
+    "url": "https://www.koireader.com/partner/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Next-Gen Supply Chains: Powered by Enterprise AI",
+    "url": "https://www.koireader.com/partner/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Innovative Strategies and Best Practices for Supply Chain Success",
+    "url": "https://www.koireader.com/partner/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Resource Planning (ERP)",
+    "url": "https://www.koireader.com/partner/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Proprietary Algorithms",
+    "url": "https://www.koireader.com/partner/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Unprecedented Operational Efficiency and Accuracy across the Operational Footprint",
+    "url": "https://www.koireader.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Next-Gen Supply Chains: Powered by Enterprise AI",
+    "url": "https://www.koireader.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Innovative Strategies and Best Practices for Supply Chain Success",
+    "url": "https://www.koireader.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise Resource Planning (ERP)",
+    "url": "https://www.koireader.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Proprietary Algorithms",
+    "url": "https://www.koireader.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time Machinery Inspection and prediction of Potential Failure Points",
+    "url": "https://www.koireader.com/koivision/manufacturing-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "Dashboard for Data Science KPIs and Video Analytics",
+    "url": "https://www.koireader.com/koivision/manufacturing-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "AUTONOMOUS PROCESS TRACKING FOR PEOPLE, ASSETS, INVENTORY, AND MACHINES",
+    "url": "https://www.koireader.com/koivision/manufacturing-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "HUMAN AND ROBOTIC PICKING PROCESS AUTOMATION",
+    "url": "https://www.koireader.com/koivision/manufacturing-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "Industry’s First AI-Powered Product Suite to enable Manufacturing Intelligence",
+    "url": "https://www.koireader.com/koivision/manufacturing-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "Flat, Non-Transactional Pricing",
+    "url": "https://www.koireader.com/koivision/manufacturing-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "How we enabled compliance to Safety Protocols through live Tracking of Human and Machinery Movements on factory floor",
+    "url": "https://www.koireader.com/koivision/manufacturing-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "How we improved quality control through advanced imaging and software",
+    "url": "https://www.koireader.com/koivision/manufacturing-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "KoiReader Technologies 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/268106-86",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/268106-86",
+    "pass": 3
+   },
+   {
+    "quote": "Operator of an AI-powered facilities intelligence platform designed to orchestrate real-time operational visibility and control across logistics, supply chain, and production environments.",
+    "url": "https://pitchbook.com/profiles/company/268106-86",
+    "pass": 3
+   },
+   {
+    "quote": "Operator of an AI-powered facilities intelligence platform designed to orchestrate real-time operational visibility and control across logistics, supply chain, and production environments. The company's platform offers intelligent OCR, hardware-integrated data capture, and computer vision capabilities, enabling enterprise operations teams to monitor workflows and improve accuracy and efficiency.",
+    "url": "https://pitchbook.com/profiles/company/268106-86",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/268106-86",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/268106-86",
+    "pass": 3
+   },
+   {
+    "quote": "System for simulating operation equipment in a production environment",
+    "url": "https://pitchbook.com/profiles/company/268106-86",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/268106-86",
+    "pass": 3
+   },
+   {
+    "quote": "KoiReader Technologies’s primary industry is Business/Productivity Software.",
+    "url": "https://pitchbook.com/profiles/company/268106-86",
+    "pass": 3
+   },
+   {
+    "quote": "Is KoiReader Technologies a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/268106-86",
+    "pass": 3
+   },
+   {
+    "quote": "KoiReader Technologies is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/268106-86",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/268106-86",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/268106-86",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/268106-86",
+    "pass": 3
+   },
+   {
+    "quote": "Chief Marketing Officer",
+    "url": "https://growjo.com/company/KoiReader_-_Unlock_Smart_Operations",
+    "pass": 3
+   },
+   {
+    "quote": "Director Product Management and Marketing",
+    "url": "https://growjo.com/company/KoiReader_-_Unlock_Smart_Operations",
+    "pass": 3
+   },
+   {
+    "quote": "Solution Design (Pre-Sales), Innovation Strategy & SalesOps",
+    "url": "https://growjo.com/company/KoiReader_-_Unlock_Smart_Operations",
+    "pass": 3
+   },
+   {
+    "quote": "Apollo.io API Pricing",
+    "url": "https://growjo.com/company/KoiReader_-_Unlock_Smart_Operations",
+    "pass": 3
+   },
+   {
+    "quote": "KoiReader Technologies is a GLOBAL AWARD WINNING FreightTech 100 product company with deep industry and operations footprint.",
+    "url": "https://getlatka.com/companies/koireader-technologies-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Apr 2021",
+    "url": "https://getlatka.com/companies/koireader-technologies-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/koireader-technologies-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/koireader-technologies-inc",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "One Platform for Warehousing, Yard, Manufacturing, and Retail powered by intelligent vision, AutonomousOCR®, Digital twins and agentic AI.",
+    "url": "https://www.koireader.com/",
+    "pass": 1
+   },
+   {
+    "quote": "NVIDIA Partner. Trusted by Fortune 50 enterprises",
+    "url": "https://www.koireader.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse Intelligence",
+    "url": "https://www.koireader.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Intelligence",
+    "url": "https://www.koireader.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Line efficiency, inventory & lot traceability, inbound/outbound verification, and safety & compliance for the smart factory.",
+    "url": "https://www.koireader.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Quick proof at your Gate, Yard, Dock, or within the Warehouse.",
+    "url": "https://www.koireader.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Built by operators and innovators from logistics and supply chain industry.",
+    "url": "https://www.koireader.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Vision AI Case Studies for Yard and Warehouse | KoiReader",
+    "url": "https://www.koireader.com/resources/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Intelligence",
+    "url": "https://www.koireader.com/resources/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Why the most expensive minutes in your supply chain happen before the warehouse.",
+    "url": "https://www.koireader.com/resources/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse Intelligence",
+    "url": "https://www.koireader.com/resources/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "is the Logistics, Supply Chain, and Industrial Automation Newsletter where we highlight how you can reimagine operations through Deep Tech Insights.",
+    "url": "https://www.koireader.com/resources/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Intelligence",
+    "url": "https://www.koireader.com/partner/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Enable a Smart Factory with Surface Defect Detection, Smart Carton Count and Inspection Applications",
+    "url": "https://www.koireader.com/partner/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse Intelligence",
+    "url": "https://www.koireader.com/partner/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse Management Systems (WMS)",
+    "url": "https://www.koireader.com/partner/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Execution Systems",
+    "url": "https://www.koireader.com/partner/partnerships",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Intelligence",
+    "url": "https://www.koireader.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Enable a Smart Factory with Surface Defect Detection, Smart Carton Count and Inspection Applications",
+    "url": "https://www.koireader.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse Intelligence",
+    "url": "https://www.koireader.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Built by operators and innovators from logistics and supply chain industry.",
+    "url": "https://www.koireader.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse Management Systems (WMS)",
+    "url": "https://www.koireader.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Execution Systems",
+    "url": "https://www.koireader.com/company/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Intelligence with Vision AI | KoiReader",
+    "url": "https://www.koireader.com/koivision/manufacturing-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing Intelligence",
+    "url": "https://www.koireader.com/koivision/manufacturing-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time Tracking of Human and Machine Movement for Safety Compliance within the Factory Environment with Alerts",
+    "url": "https://www.koireader.com/koivision/manufacturing-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Engineering and Efficiency Insights",
+    "url": "https://www.koireader.com/koivision/manufacturing-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "Industry’s First AI-Powered Product Suite to enable Manufacturing Intelligence",
+    "url": "https://www.koireader.com/koivision/manufacturing-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "How we enabled real-time defect detection of sheet metal in Factory",
+    "url": "https://www.koireader.com/koivision/manufacturing-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "KoiTrack™ Powered Inventory Tracking inside Factory",
+    "url": "https://www.koireader.com/koivision/manufacturing-intelligence",
+    "pass": 1
+   },
+   {
+    "quote": "How we enabled compliance to Safety Protocols through live Tracking of Human and Machinery Movements on factory floor",
+    "url": "https://www.koireader.com/koivision/manufacturing-intelligence",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Topline and bottom-line revenue loss",
+    "url": "https://www.koireader.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500 Saves $800K in Dwell Time with KoiReader",
+    "url": "https://www.koireader.com/resources/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune 500",
+    "url": "https://www.koireader.com/resources/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "KoiVision™ Platform introduces simulation, visualization, and automation as an integrated capability as part of an AI Operating Model",
+    "url": "https://www.koireader.com/resources/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "KoiReader Technologies has 65 total employees.",
+    "url": "https://pitchbook.com/profiles/company/268106-86",
+    "pass": 3
+   },
+   {
+    "quote": "What is KoiReader Technologies’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/268106-86",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for KoiReader Technologies is",
+    "url": "https://pitchbook.com/profiles/company/268106-86",
+    "pass": 3
+   },
+   {
+    "quote": "KoiReader - Unlock Smart Operations: Revenue, Competitors, Alternatives",
+    "url": "https://growjo.com/company/KoiReader_-_Unlock_Smart_Operations",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and Competitors",
+    "url": "https://growjo.com/company/KoiReader_-_Unlock_Smart_Operations",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/KoiReader_-_Unlock_Smart_Operations",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/KoiReader_-_Unlock_Smart_Operations",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated revenue per employee is $",
+    "url": "https://growjo.com/company/KoiReader_-_Unlock_Smart_Operations",
+    "pass": 3
+   },
+   {
+    "quote": "KoiReader Technologies, Inc. Revenue 2024: $6.9M Est.",
+    "url": "https://getlatka.com/companies/koireader-technologies-inc",
+    "pass": 3
+   },
+   {
+    "quote": "KoiReader Technologies, Inc. revenue",
+    "url": "https://getlatka.com/companies/koireader-technologies-inc",
+    "pass": 3
+   },
+   {
+    "quote": "KoiReader Technologies, Inc. has not published its revenue. GetLatka estimates it at about $6.9M a year (October 2024).",
+    "url": "https://getlatka.com/companies/koireader-technologies-inc",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/koireader-technologies-inc",
+    "pass": 3
+   },
+   {
+    "quote": "KoiReader Technologies, Inc. CEO, founders & employees",
+    "url": "https://getlatka.com/companies/koireader-technologies-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Cody Behles founded KoiReader Technologies, Inc. in 2019 and runs it as CEO. KoiReader Technologies, Inc. had 101 employees (December 2024, LinkedIn), up from 68 a year earlier.",
+    "url": "https://getlatka.com/companies/koireader-technologies-inc",
+    "pass": 3
+   },
+   {
+    "quote": "What is KoiReader Technologies, Inc.'s revenue?",
+    "url": "https://getlatka.com/companies/koireader-technologies-inc",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates KoiReader Technologies, Inc.'s revenue at about",
+    "url": "https://getlatka.com/companies/koireader-technologies-inc",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does KoiReader Technologies, Inc. have?",
+    "url": "https://getlatka.com/companies/koireader-technologies-inc",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/koireader-technologies-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/koireader-technologies-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/koireader-technologies-inc",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/koireader-technologies-inc",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "KoiReader Technology and Channel Partners",
+    "url": "https://www.koireader.com/partner/partnerships",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "KoiReader Technologies - LinkedIn 日本 — KoiReader is a global award winning FreightTech100 product company with deep Maritime, Logistics, Trade and Supply chain industry expertise. Backed by multiple patents (pending), our core product...",
+    "url": "https://jp.linkedin.com/company/koireader",
+    "pass": 3
+   },
+   {
+    "quote": "KoiReader Technologies | LinkedIn — KoiReader is a global award winning FreightTech100 product company with deep Maritime, Logistics, Trade and Supply chain industry expertise. Backed by multiple patents (pending), our core product...",
+    "url": "https://in.linkedin.com/company/koireader",
+    "pass": 3
+   },
+   {
+    "quote": "KoiReader Technologies - LinkedIn — KoiReader is a global award winning FreightTech100 product company with deep Maritime, Logistics, Trade and Supply chain industry expertise. Backed by multiple patents (pending), our core product...",
+    "url": "https://www.linkedin.com/company/koireader",
+    "pass": 3
+   },
+   {
+    "quote": "Koi Reader - 2026 Company Profile & Team - TracxnKoiReader Technologies 2026 Company Profile: Valuation ...KoiReader Technologies Inc - Company Profile and News — Apr 4, 2026 · It operates as a Provider of AI-powered platform for supply chain and logistics optimization. Koi Reader has raised $60K in funding. The company has 477 active competitors, including 38 funded and 57 that have exited. Its t",
+    "url": "https://tracxn.com/d/companies/koireader/__qGPpnZCagO2AePF4gZEbymJTVc06B0QfynGTEhWZQUc",
+    "pass": 3
+   },
+   {
+    "quote": "KoiReader Technologies 2026 Company Profile: Valuation ... — Information on valuation, funding, cap tables, investors, and executives for KoiReader Technologies. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/268106-86",
+    "pass": 3
+   },
+   {
+    "quote": "KoiReader Technologies 2026 Company Profile: Valuation ...Koi Reader - 2026 Company Profile, Team, Funding ... - TracxnKoiReader - Unlock Smart Operations: Revenue, Competitors ...KoiReader Technologies, Inc. Revenue 2024: $6.9M Est. - LATKAKoiReader - Products, Competitors, Financials, Employees ...KoiReader Stock Price, Funding, Valuation, Revenue ...KoiReader Technologies, Inc. Company Profile:",
+    "url": "https://pitchbook.com/profiles/company/268106-86",
+    "pass": 3
+   },
+   {
+    "quote": "Koi Reader - 2026 Company Profile, Team, Funding ... - TracxnKoiReader - Unlock Smart Operations: Revenue, Competitors ...KoiReader Technologies, Inc. Revenue 2024: $6.9M Est. - LATKAKoiReader - Products, Competitors, Financials, Employees ...KoiReader Stock Price, Funding, Valuation, Revenue ...KoiReader Technologies, Inc. Company Profile: Financials ... — Apr 4, 2026 · Koi Reader is a seed compa",
+    "url": "https://tracxn.com/d/companies/koireader/__qGPpnZCagO2AePF4gZEbymJTVc06B0QfynGTEhWZQUc",
+    "pass": 3
+   },
+   {
+    "quote": "KoiReader Technologies, Inc. Revenue 2024: $6.9M Est. - LATKA — Dec 23, 2024 · Cody Behles founded KoiReader Technologies, Inc. in 2019 and runs it as CEO. KoiReader Technologies, Inc. had 101 employees (December 2024, LinkedIn), up from 68 a year earlier.",
+    "url": "https://getlatka.com/companies/koireader-technologies-inc",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/268106-86",
+    "pass": 3
+   },
+   {
+    "quote": "B2B email lists",
+    "url": "https://growjo.com/company/KoiReader_-_Unlock_Smart_Operations",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Email Finder",
+    "url": "https://growjo.com/company/KoiReader_-_Unlock_Smart_Operations",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "KoiReader Technologies (@KoiReaderTech) / Posts / X KoiReader Technologies (@KoiReaderTech) - Posts - NVIDIA Partner enabling Intelligent Digital Operations and Process Excellence with KoiVision Platfor... | X (formerly Twitter)",
+    "url": "https://x.com/KoiReaderTech",
+    "pass": 3
+   },
+   {
+    "quote": "Thank you to all of our judges and finalists: @axomindai ... Thank you to all of our judges and finalists: @axomindai, CeiliX, @Copper_Robotics, @DaxoRobotics, EV Bots Inc, Hardhat Robotics, KoiReader Technologies, Luffy AI, and @mowito2",
+    "url": "https://x.com/NVIDIARobotics/status/2069240008507342898",
+    "pass": 3
+   },
+   {
+    "quote": "KoiReader Technologies (@KoiReaderTech) / Posts / X Jan 14, 2026 · KoiReader Technologies (@KoiReaderTech) - Posts - NVIDIA Partner enabling Intelligent Digital Operations and Process Excellence with KoiVision Platfor... | X (formerly Twitter)",
+    "url": "https://x.com/KoiReaderTech",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "KoiReader Technologies | LinkedIn KoiReader is a global award winning FreightTech100 product company with deep Maritime, Logistics, Trade and Supply chain industry expertise. Backed by multiple patents (pending), our core product...",
+    "url": "https://in.linkedin.com/company/koireader",
+    "pass": 3
+   },
+   {
+    "quote": "KoiReader Technologies - LinkedIn Freight Management Software KoiReader is a global award winning FreightTech100 product company with deep Maritime, Logistics, Trade and Supply chain industry expertise.",
+    "url": "https://www.linkedin.com/company/koireader",
+    "pass": 3
+   },
+   {
+    "quote": "KoiReader Technologies - LinkedIn KoiReader is a global award winning FreightTech100 product company with deep Maritime, Logistics, Trade and Supply chain industry expertise. Backed by multiple patents (pending), our core product...",
+    "url": "https://gb.linkedin.com/company/koireader/",
+    "pass": 3
+   },
+   {
+    "quote": "Vivek Prasad - KoiReader - Unlock Smart Operations | LinkedInPadmaja Santhanam - Change is a Process, not an Event | LinkedInKOI Technologies - LinkedIn · Experience: KoiReader - Unlock Smart Operations · Education: Gitam · Location: Bengaluru · 500+ connections on LinkedIn. View Vivek Prasad’s profile on LinkedIn, a professional community of... Proficient in Agile and Waterfall project management",
+    "url": "https://in.linkedin.com/in/pravivek",
+    "pass": 3
+   },
+   {
+    "quote": "Ashutosh Prasad - 𝗦𝗼𝗹𝘃𝗶𝗻𝗴 𝘁𝗵𝗲 ||#120813;.𝟴𝟳𝗧 𝗙𝗮𝗰𝗶𝗹𝗶𝘁...KoiReader Leadership Team and AdvisorsAshutosh Prasad – Founder & CEO at KoiReader Technologies, Inc.KoiReader Technologies - LinkedInAshutosh Prasad, KoiReader Technologies Inc: Profile and ...Ashutosh Prasad | F6S Member ProfileAshutosh Prasad, Founder & CEO, KoiReader Technologies, Inc. Feb 1, 2026 · Walked out of the program a week before ",
+    "url": "https://www.linkedin.com/in/hiashhere",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "KoiReader - Facebook Aug 7, 2019 KoiReader is an emerging technologies firm that enables digital innovation through their proprietary technology capabilities, platform integration and ISV partnerships and are looking for computer vision engineers. #computervision#engineers#data#jobs#careersClick the link below to apply: ANALYTICSINDIAJOBS.COM",
+    "url": "https://www.facebook.com/KoiReader/mentions/",
+    "pass": 3
+   },
+   {
+    "quote": "KOIREADER TECHNOLOGIES - Facebook KOIREADER TECHNOLOGIES",
+    "url": "https://www.facebook.com/KOIREADER-TECHNOLOGIES-102833928540468/",
+    "pass": 3
+   },
+   {
+    "quote": "KoiReader Technologies - 2nd place winner of Smart Port ... Jul 26, 2020 · KoiReader was the 2nd place winner in #SmartPortChalleng2019 and is using a #machinelearning visual recognition system to extract contextual data from documents to speed up processing time and reduce mis-declaration of dangerous goods.",
+    "url": "https://www.facebook.com/PortInnovationEcosystemReimagined/posts/180904450063762/",
+    "pass": 3
+   },
+   {
+    "quote": "KoiReader Technologies and Kinetic... - A3 Vision & Imaging Jun 7, 2024 · KoiReader Technologies and Kinetic Vision announce strategic partnership to pioneer advanced solutions that deliver simulation, visualization, and automation as an integrated capability to enterprise customers in a unified platform.",
+    "url": "https://www.facebook.com/A3visionimaging/posts/koireader-technologies-and-kinetic-vision-announce-strategic-partnership-to-pion/843377574490933/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.koireader.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.koireader.com/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.koireader.com/partner/partnerships",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.koireader.com/company/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.koireader.com/koivision/manufacturing-intelligence",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://d2fedaqd9kwzub.cloudfront.net/website/_next/static/media/1_Manufacturing_Intelligence.2f2c7f84.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://d2fedaqd9kwzub.cloudfront.net/website/_next/static/media/1_Partnerships.3549dd56.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://d2fedaqd9kwzub.cloudfront.net/website/_next/static/media/koireader-nvidia-inflection-point-operational-intelligence.90a37b42.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://d2fedaqd9kwzub.cloudfront.net/website/_next/static/media/Partners_BG.4422de75.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.intel.co.jp/content/www/jp/ja/content-details/756574/koireader-aiot-powered-hyperautomation-solution-1-pager.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/koireader",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/koireader",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/koireader",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tracxn.com/d/companies/koireader/__qGPpnZCagO2AePF4gZEbymJTVc06B0QfynGTEhWZQUc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.kore.ai/customer-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.trustradius.com/products/koireader/reviews?qs=pros-and-cons",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.databricks.com/blog/introducing-new-databricks-partner-program-and-well-architected-framework-isvs-and-data",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cohesity.com/partners/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/digitalexperience/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/268106-86",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/koireader/__qGPpnZCagO2AePF4gZEbymJTVc06B0QfynGTEhWZQUc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://growjo.com/company/KoiReader_-_Unlock_Smart_Operations",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/koireader-technologies-inc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/KoiReaderTech",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/NVIDIARobotics/status/2069240008507342898",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/koireader",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/koireader",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://gb.linkedin.com/company/koireader/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/pravivek",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/KoiReader/mentions/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/KOIREADER-TECHNOLOGIES-102833928540468/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/PortInnovationEcosystemReimagined/posts/180904450063762/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/A3visionimaging/posts/koireader-technologies-and-kinetic-vision-announce-strategic-partnership-to-pion/843377574490933/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/hiashhere",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/koireader",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/KoiReaderTech",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "KoiReader Technologies 日本 導入",
+   "results": [
+    "https://www.koireader.com/",
+    "https://www.intel.co.jp/content/www/jp/ja/content-details/756574/koireader-aiot-powered-hyperautomation-solution-1-pager.html",
+    "https://jp.linkedin.com/company/koireader",
+    "https://www.koireader.com/partner/partnerships",
+    "https://in.linkedin.com/company/koireader",
+    "https://marketplace.microsoft.com/ja-jp/product/koireadertechnologiesinc1746729471189.koivision_manufacturing_intelligence",
+    "https://gadget-otaku.com/2026/07/06/kindle-koreader-jailbreak-formats/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "KoiReader Technologies 代理店 OR 総代理店 OR 日本法人",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "KoiReader Technologies Japan",
+   "results": [
+    "https://www.koireader.com/company/about-us",
+    "https://www.linkedin.com/company/koireader",
+    "https://in.linkedin.com/company/koireader",
+    "https://tracxn.com/d/companies/koireader/__qGPpnZCagO2AePF4gZEbymJTVc06B0QfynGTEhWZQUc",
+    "https://pitchbook.com/profiles/company/268106-86",
+    "https://www.bloomberg.com/profile/company/1725116D:US",
+    "https://www.koireader.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "KoiReader Technologies manufacturing customer case study",
+   "results": [
+    "https://www.koireader.com/resources/case-studies",
+    "https://www.koireader.com/",
+    "https://www.kore.ai/customer-stories",
+    "https://www.trustradius.com/products/koireader/reviews?qs=pros-and-cons",
+    "https://aiexpert.network/case-study-ai-integration-and-ethical-considerations-at-pepsico/",
+    "https://blogs.nvidia.com/blog/pepsi-koivision/",
+    "https://koivision.substack.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "KoiReader Technologies white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://www.databricks.com/blog/introducing-new-databricks-partner-program-and-well-architected-framework-isvs-and-data",
+    "https://www.cohesity.com/partners/",
+    "https://partners.adobe.com/digitalexperience/",
+    "https://www.sap.com/partners/partner-program.html",
+    "https://upcloud.com/partner-program/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "KoiReader Technologies founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/268106-86",
+    "https://tracxn.com/d/companies/koireader/__qGPpnZCagO2AePF4gZEbymJTVc06B0QfynGTEhWZQUc",
+    "https://growjo.com/company/KoiReader_-_Unlock_Smart_Operations",
+    "https://getlatka.com/companies/koireader-technologies-inc",
+    "https://www.cbinsights.com/company/koireader",
+    "https://www.cbinsights.com/company/koireader/financials",
+    "https://www.privco.com/company/koireader-technologies"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com KoiReader Technologies",
+   "results": [
+    "https://note.com/tag/トモダチコレクション",
+    "https://note.com/kentabright",
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/",
+    "https://note.com/tag/mentor",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/quruli/n/n35d2b6cdc37a"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com KoiReader Technologies",
+   "results": [
+    "https://x.com/KoiReaderTech",
+    "https://x.com/visimid",
+    "https://x.com/",
+    "https://x.com/NVIDIARobotics/status/2069240008507342898",
+    "https://x.com/bentleyforus/status/2118551830636736906",
+    "https://x.com/colormejassy/status/2118498768739790880",
+    "https://x.com/itscelyunique/status/2117839228826521620"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com KoiReader Technologies",
+   "results": [
+    "https://in.linkedin.com/company/koireader",
+    "https://www.linkedin.com/company/koireader",
+    "https://gb.linkedin.com/company/koireader/",
+    "https://in.linkedin.com/in/pravivek",
+    "https://uk.linkedin.com/in/padmajasanthanam",
+    "https://www.linkedin.com/company/koi-technologies",
+    "https://www.linkedin.com/products/koireader"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com KoiReader Technologies",
+   "results": [
+    "https://www.facebook.com/KoiReader/mentions/",
+    "https://www.facebook.com/KOIREADER-TECHNOLOGIES-102833928540468/",
+    "https://www.facebook.com/PortInnovationEcosystemReimagined/posts/180904450063762/",
+    "https://www.facebook.com/A3visionimaging/posts/koireader-technologies-and-kinetic-vision-announce-strategic-partnership-to-pion/843377574490933/",
+    "https://www.facebook.com/kendalltechnologies/",
+    "https://www.facebook.com/p/Amit-Verma-100001756457843/",
+    "https://www.facebook.com/waretual/videos/behind-the-shheen-with-vasu-ramanujam-partner-growth-strategy-at-koireader-inc/978640772912107/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "KoiReader Technologies note 社長",
+   "results": [
+    "https://www.linkedin.com/in/hiashhere",
+    "https://neuron.com/profile/5003544488/ashutosh-prasad",
+    "https://www.linkedin.com/company/koireader",
+    "https://www.bloomberg.com/profile/person/25064114",
+    "https://www.supplychainbrain.com/authors/10106-ashutosh-prasad-founder-ceo-koireader-technologies-inc",
+    "https://www.koireader.com/company/our-team",
+    "https://www.f6s.com/member/koireader"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "KoiReader Technologies X 投稿",
+   "results": [
+    "https://x.com/KoiReaderTech",
+    "https://www.koireader.com/",
+    "https://www.koireader.com/company/about-us",
+    "https://www.koireader.com/resources/blogs",
+    "https://www.koireader.com/partner/partnerships",
+    "https://x.com/korodesign/status/2118959377092927966",
+    "https://www.linkedin.com/in/hiashhere"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式5頁／PDF・画像4件／外部28頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像4件／外部28頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像4件／外部28頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式5頁／PDF・画像4件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式5頁／PDF・画像4件／外部28頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式5頁／PDF・画像4件／外部28頁・検索12回）"
+ }
+}

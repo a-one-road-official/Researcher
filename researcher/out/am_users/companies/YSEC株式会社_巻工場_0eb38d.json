@@ -1,0 +1,288 @@
+{
+ "name": "YSEC株式会社 巻工場",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T11:14:38.932920+00:00",
+ "official_url": "https://www.ysec.jp",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役　山内 英圓 （慶次郎）",
+    "url": "https://www.ysec.jp/company/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "〒221-0865　横浜市神奈川区片倉1丁目8-18",
+    "url": "https://www.ysec.jp/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "124名（2023年10月現在）",
+    "url": "https://www.ysec.jp/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "航空・宇宙機器、防衛機器、医療機器などの精密部品の加工～組立",
+    "url": "https://www.ysec.jp/company/",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "三菱重工業株式会社 名古屋誘導推進システム製作所 三菱重工業株式会社 神戸造船所 三菱電機株式会社 鎌倉製作所 川崎重工業株式会社 航空・宇宙カンパニー 川崎重工業株式会社 ガスタービン・機械カンパニー 株式会社IHI 相馬工場 株式会社IHIエアロスペース 住友重機械工業株式会社 新明和工業株式会社 日本飛行機株式会社 日本電気株式会社 キヤノン電子管デバイス株式会社 東京航空計器株式会社 株式会社東芝 小向事業所 株式会社東芝 京浜事業所 株式会社ジャムコ",
+    "url": "https://www.ysec.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "製品分野": [
+   {
+    "quote": "株式会社山之内製作所 | 航空・宇宙機器、防衛機器、医療機器などの精密部品の加工～組立",
+    "url": "https://www.ysec.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "量産品の金型成形と違い、1品からオリジナル形状で製作可能",
+    "url": "https://www.ysec.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "航空・宇宙機器、防衛機器、医療機器などの精密部品の加工～組立",
+    "url": "https://www.ysec.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体機器、電機製品、バルブなどの製品を経て、現在では防衛特機部品、医療機器、宇宙開発機器など、精密部品の加工から組み立てまでを行っています",
+    "url": "https://www.ysec.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "2002年に【ISO9001】、2006年に【JISQ9100】の認証をそれぞれ取得し、品質、精度、管理を最重要視し、現在は航空機エンジン部品をはじめ機体などを含め、常に「他社より一歩先を行く」ことを目指しております",
+    "url": "https://www.ysec.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "航空・宇宙・防衛用、医療機器用及びその他機器用の精密機械部品の製造",
+    "url": "https://www.ysec.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "航空・宇宙関連部品の品質と信頼性の管理、保証業務",
+    "url": "https://www.ysec.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "量産品の金型成形と違い、1品からオリジナル形状で製作可能",
+    "url": "https://www.ysec.jp/service/",
+    "pass": 1
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "弊社は1965年創業より、技術の構築を何よりも優先し、常に新しい技術、新しい製品を生み出してまいりました",
+    "url": "https://www.ysec.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体機器、電機製品、バルブなどの製品を経て、現在では防衛特機部品、医療機器、宇宙開発機器など、精密部品の加工から組み立てまでを行っています",
+    "url": "https://www.ysec.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "これからも社員一丸となり、お客様に満足していただける製品作りに邁進する所存です",
+    "url": "https://www.ysec.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "厳格なトレーサビリティ・システムを備えた管理体制のもと、バラツキのない品質の製品を作り込む",
+    "url": "https://www.ysec.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "「難切削精密複合加工」分野におけるパイオニアとしての自覚をもち、新に競争力のある製品を供給してブランド化を志向する",
+    "url": "https://www.ysec.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ysec.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ysec.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ysec.jp/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ysec.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.ysec.jp/wp-content/uploads/2025/07/%E4%BA%8B%E6%A5%AD%E4%B8%BB%E8%A1%8C%E5%8B%95%E8%A8%88%E7%94%BB.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ysec.jp/wp-content/themes/original/images/img_company_catch.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.ysec.co.jp/contact.html",
+    "status": "network_error:SSLError",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "YSEC 巻工場 取扱製品 試作 小ロット",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "YSEC 巻工場 会社概要 事業内容",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "YSEC 巻工場 お問い合わせ メール",
+   "results": [
+    "https://www.ysec.jp/ys/mail/",
+    "https://www.ysec.jp/contact/",
+    "https://www.ysec.co.jp/contact.html",
+    "https://www.sec.co.jp/ja/contact/contact.html",
+    "https://www.mapion.co.jp/phonebook/M51018/15108/122390234_ipcbl/",
+    "https://usec.co.jp/contact_form/",
+    "https://www.atengineer.com/pr/ysec/inquiry/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com YSEC 巻工場",
+   "results": [
+    "https://note.com/handoutainews/n/naff54e176d66",
+    "https://note.com/semicontimes/n/n0ec8962447d2",
+    "https://note.com/modern_eider5829/n/na864d447cbef",
+    "https://note.com/tukamatter/n/ncde3b73277f5",
+    "https://note.com/chikama_teppei/n/nd5b65fb5e514",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/sore_shirabeta/n/nc80ba8df9aa4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com YSEC 巻工場",
+   "results": [
+    "https://x.com/ysecit",
+    "https://x.com/RyanAFournier/status/2117296789443240367",
+    "https://help.x.com/zh-cn/using-x",
+    "https://x.com/NoahFentys/status/2118178286157140113",
+    "https://x.com/BuzzingPop/status/2117864405064892847",
+    "https://x.com/financialjuice/status/2110057196725891518",
+    "https://x.com/PopBase/status/2116494180054909027"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com YSEC 巻工場",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com YSEC 巻工場",
+   "results": [
+    "https://www.facebook.com/megukin/posts/新潟市西蒲区旧巻町漆山工業団地にysecグループの新工場の視察に伺いました新潟県に初の航空宇宙産業の部品生産拠点施設として今関係者が熱い視線を送っているところで/725694234120057/",
+    "https://www.facebook.com/",
+    "https://www.facebook.com/ysec01/",
+    "https://www.facebook.com/public/Ysec/",
+    "https://www.facebook.com/YSEC.CA/",
+    "https://www.facebook.com/ysecit/",
+    "https://www.facebook.com/yaleysec/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "YSEC 巻工場 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.ysec.jp/",
+    "https://mono.ipros.com/en/company/detail/2034043/",
+    "https://compalyze.co.jp/company/6020001044138",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://mono.ipros.com/company/detail/2034043/",
+    "https://www.ysec.jp/company/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "YSEC 巻工場 X 投稿",
+   "results": [
+    "https://www.ysec.jp/",
+    "https://www.ysec.jp/company/",
+    "https://x.com/rkrkym/status/2119006327527899569",
+    "https://www.ysec.jp/blog/",
+    "https://search.yahoo.co.jp/realtime/search/投稿/",
+    "https://x.com/cea_neko/status/2116862190095655032",
+    "https://x.com/twitcasting_jp/status/2100831269575868441"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像2件／外部1頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式4頁／PDF・画像2件／外部1頁・検索9回）",
+  "取扱材料": "記載なし（3回確認済み：公式4頁／PDF・画像2件／外部1頁・検索9回）",
+  "一点物・少量多品種": "記載なし（3回確認済み：公式4頁／PDF・画像2件／外部1頁・検索9回）",
+  "AM関連": "記載なし（3回確認済み：公式4頁／PDF・画像2件／外部1頁・検索9回）",
+  "連絡先": "記載なし（3回確認済み：公式4頁／PDF・画像2件／外部1頁・検索9回）"
+ }
+}

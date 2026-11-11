@@ -1,0 +1,475 @@
+{
+ "name": "岩佐工業株式会社",
+ "aliases": [],
+ "context": "ipros_all:単品",
+ "researched_at": "2026-11-11T10:51:03.130345+00:00",
+ "official_url": "https://www.iwasakk.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒370-3531　群馬県高崎市足門町316-2（群馬足門工業団地） Tel：027-372-2711　FAX：027-372-2710　E-mail：iwasa@iwasakk.jp",
+    "url": "https://www.iwasakk.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒370-3531 群馬高崎市足門町316-2（群馬足門工業団地）",
+    "url": "https://www.iwasakk.jp/company/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役　岩佐 慶一郎",
+    "url": "https://www.iwasakk.jp/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "42名（男36名 女6名） 平均年齢33才",
+    "url": "https://www.iwasakk.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "42名",
+    "url": "https://mono.ipros.com/company/detail/2092475/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "電子部品、化学、航空宇宙関連機器、精密機器、光学機器、産業用ロボット、医療機器、半導体、通信機器、工作機械、自動車関連等の精密機械部品加工、検査治具、生産治具、装置組立",
+    "url": "https://www.iwasakk.jp/company/",
+    "pass": 1
+   }
+  ],
+  "拠点": [
+   {
+    "label": "第二工場（研磨工場",
+    "value": "194平方メートル）を増設",
+    "url": "https://www.iwasakk.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "第三工場（検査・組立工場",
+    "value": "135平方メートル）を増設",
+    "url": "https://www.iwasakk.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "高精度な製品を社内一貫生産・一貫加工・短納期で対応致します",
+    "url": "https://www.iwasakk.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の強みは単品加工に特化し、高精度な製品を社内一貫生産・一貫加工・短納期で対応することと自負しております",
+    "url": "https://www.iwasakk.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス(1)",
+    "url": "https://mono.ipros.com/company/detail/2092475/",
+    "pass": 3
+   },
+   {
+    "quote": "当社の強みは単品加工に特化し、高精度な製品を社内一貫生産・一貫加工・",
+    "url": "https://mono.ipros.com/company/detail/2092475/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (1)",
+    "url": "https://mono.ipros.com/company/detail/2092475/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "試作開発部品・専用機部品の単品加工への特化が当社の強み",
+    "url": "https://www.iwasakk.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社はマシニングセンタ・形彫放電・ワイヤ放電・細穴放電・研磨・円筒研磨・鏡面研磨・バレル研磨・バフ研磨・NC旋盤・汎用フライス盤・サンドブラスト機・エアロラップ等の充実した最新の機械設備による、電子部品・自動車・化学・航空宇宙関連機器・半導体・精密機器・光学機器・医療機器・通信機器などの精密部品加工・機械加工・金型部品加工・金属加工・単品加工・3次元加工及び、試作部品・開発部品・治工具・検査治具・生産治具・装置組立等を行っております",
+    "url": "https://www.iwasakk.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の強みは単品加工に特化し、高精度な製品を社内一貫生産・一貫加工・短納期で対応することと自負しております",
+    "url": "https://www.iwasakk.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の強みは単品加工に特化し、高精度な製品を社内一貫生産・一貫加工・",
+    "url": "https://mono.ipros.com/company/detail/2092475/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "【公式】岩佐工業株式会社 | 各種精密機械部品の加工、治工具・生産治具・検査治具の製作及び組立を行います",
+    "url": "https://www.iwasakk.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社はマシニングセンタ・形彫放電・ワイヤ放電・細穴放電・研磨・円筒研磨・鏡面研磨・バレル研磨・バフ研磨・NC旋盤・汎用フライス盤・サンドブラスト機・エアロラップ等の充実した最新の機械設備による、電子部品・自動車・化学・航空宇宙関連機器・半導体・精密機器・光学機器・医療機器・通信機器などの精密部品加工・機械加工・金型部品加工・金属加工・単品加工・3次元加工及び、試作部品・開発部品・治工具・検査治具・生産治具・装置組立等を行っております",
+    "url": "https://www.iwasakk.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "電子部品、化学、航空宇宙関連機器、精密機器、光学機器、産業用ロボット、医療機器、半導体、通信機器、工作機械、自動車関連等の精密機械部品加工、検査治具、生産治具、装置組立",
+    "url": "https://www.iwasakk.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、各種精密機械部品の加工、治工具・生産治具・検査治具の製作及び",
+    "url": "https://mono.ipros.com/company/detail/2092475/",
+    "pass": 3
+   },
+   {
+    "quote": "■電子部品、化学、航空宇宙関連機器、精密機器、光学機器、医療機器、",
+    "url": "https://mono.ipros.com/company/detail/2092475/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体、通信機器、工作機械、自動車関連等の精密機械部品加工、",
+    "url": "https://mono.ipros.com/company/detail/2092475/",
+    "pass": 3
+   },
+   {
+    "quote": "検査治具、生産治具、金型製作、装置組立",
+    "url": "https://mono.ipros.com/company/detail/2092475/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Tel：027-372-2711 FAX：027-372-2710 E-mail：iwasa@iwasakk.jp",
+    "url": "https://www.iwasakk.jp/company/",
+    "pass": 1
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "TOP SOLID7/TOP CAM7",
+    "url": "https://www.iwasakk.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "VOICE 3D CAD/CAM",
+    "url": "https://www.iwasakk.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "VOICE 2.5D CAD/CAM",
+    "url": "https://www.iwasakk.jp/equipment/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "岩佐工業 | 企業 情報 | イプロスものづくり — 岩佐工業 | 企業 情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/2092475/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 【公式】岩佐工業株式会社 — 会社概要 - 【公式】岩佐工業株式会社 岩佐工業株式会社 https://www.iwasakk.jp > company",
+    "url": "https://www.iwasakk.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "岩佐工業 株式会社（群馬県）の 会社概要 ・役員 | Compalyze — 岩佐工業 株式会社（群馬県）の 会社概要 ・役員 | Compalyze Compalyze https://compalyze.co.jp > 企業検索 > 機械・設備",
+    "url": "https://compalyze.co.jp/company/1070001009371",
+    "pass": 3
+   },
+   {
+    "quote": "岩佐工業 株式会社の 会社概要 ・求人 - 求人ジャーナル — 岩佐工業 株式会社の 会社概要 ・求人 - 求人ジャーナル 求人ジャーナルネット https://www.job-j.net > company > detail",
+    "url": "https://www.job-j.net/company/detail/168625/",
+    "pass": 3
+   },
+   {
+    "quote": "contact お問い合わせ - 【公式】岩佐工業株式会社 — contact お問い合わせ - 【公式】岩佐工業株式会社 岩佐工業株式会社 https://www.iwasakk.jp > contact",
+    "url": "https://www.iwasakk.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "岩佐工業 | 企業情報 | イプロスものづくり — 岩佐工業 | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/2092475/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.iwasakk.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwasakk.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwasakk.jp/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwasakk.jp/info/404/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwasakk.jp/info/402/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwasakk.jp/info/397/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwasakk.jp/info/393/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwasakk.jp/info/392/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mfg-hack.com/plastic/10134/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zen.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2092475/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/1070001009371",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://iwasa-kikai.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iwasa-kk.jp/contents/toiawase.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "岩佐工業 取扱製品 試作 小ロット",
+   "results": [
+    "https://injection-lab.com/technology/64-2.html",
+    "https://mfg-hack.com/plastic/10134/",
+    "https://www.zen.co.jp/",
+    "https://san-kk.co.jp/technical/item/test/",
+    "https://www.youtube.com/watch?v=rL1D8Ah3h3g",
+    "https://shinko56.com/trial.html",
+    "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "https://mono.ipros.com/cg1/%E8%A9%A6%E4%BD%9C/%E6%A8%B9%E8%84%82/",
+    "https://jp.arrk.com/service/lvp/",
+    "https://www.kowa-n.co.jp/business"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "岩佐工業 会社概要 事業内容",
+   "results": [
+    "https://mono.ipros.com/company/detail/2092475/",
+    "https://www.iwasakk.jp/company/",
+    "https://compalyze.co.jp/company/1070001009371",
+    "https://www.job-j.net/company/detail/168625/",
+    "https://iwasa-kikai.co.jp/company/",
+    "https://eigyo-mfg.com/service/navi/company/gnLVAEtm18PK",
+    "https://ja.nc-net.or.jp/company/84998/",
+    "https://www.buffett-code.com/company/5k2yu0vkn2/",
+    "https://metoree.com/companies/17402/",
+    "https://w-iwasa.jp/company-profile/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "岩佐工業 お問い合わせ メール",
+   "results": [
+    "https://www.iwasakk.jp/contact/",
+    "https://iwasa-kikai.co.jp/contact/",
+    "https://iwasa-kk.jp/contents/toiawase.html",
+    "https://mono.ipros.com/company/detail/2092475/",
+    "http://e-iwasa.net/contact/",
+    "https://ja.nc-net.or.jp/company/84998/",
+    "http://www.iwasasekizai.com/inquiry.html",
+    "https://iwasa-denki.com/contact",
+    "https://www.iwasakk.jp/",
+    "http://iwasa-kk.jp/contents/toiawase.html"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com 岩佐工業",
+   "results": [
+    "https://note.com/wakusei2nd/n/n877540261a42",
+    "https://note.com/arcmasters/n/ndb15f6fede77",
+    "https://note.com/just_50/n/na3a6330eb7bf",
+    "https://note.com/holy_viper7334/n/nf4235ebddf0a",
+    "https://note.com/fuddy/n/nea088401c9fa",
+    "https://note.com/f30103/n/nae44b5d54922",
+    "https://note.com/spread_bomb/n/n6d6742bcf9b0",
+    "https://note.com/chocomugi_3/n/nbfe163c0d504",
+    "https://note.com/jasper_ex/n/n135bacecd450",
+    "https://note.com/tokai6484/n/n2d69a74407ee"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 岩佐工業",
+   "results": [
+    "https://x.com/miyakun525583/status/1886675491299713271",
+    "https://x.com/ayumuiwasa_cars/status/1641355924635000832",
+    "https://x.com/HondaJP/status/1992775980436316462",
+    "https://x.com/clubtriax/status/1514563729681444871",
+    "https://x.com/HondaJP/status/1858752080254558676",
+    "https://x.com/chemicaldailyad/status/1831096926349263215",
+    "https://x.com/ayumuiwasa_cars/status/1822485367892922879",
+    "https://x.com/HondaJP_Live/status/1730900430635651485",
+    "https://x.com/HondaJP_Live/status/1996782162235085058"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:linkedin.com 岩佐工業",
+   "results": [
+    "https://www.linkedin.com/pub/dir/+/Iwasa/jp-0-Japan",
+    "https://jp.linkedin.com/in/%E8%8B%B1%E6%98%8E-%E5%B2%A9%E4%BD%90-908883175",
+    "https://www.linkedin.com/pub/dir/Tadakatsu/+",
+    "https://jp.linkedin.com/pub/dir/Tadakatsu/Sano/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://jp.linkedin.com/pub/dir/+/Iwasa/jp-7672-%E5%BA%83%E5%9F%9F%E6%9D%B1%E4%BA%AC%E3%82%A8%E3%83%AA%E3%82%A2",
+    "https://www.linkedin.com/posts/%E8%8B%B1%E6%98%8E-%E5%B2%A9%E4%BD%90-908883175_ibm%E3%81%A8%E3%81%AE%E6%88%A6%E7%95%A5%E7%9A%84%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%E3%82%B7%E3%83%83%E3%83%97%E3%81%AE%E4%B8%8B%E5%85%A8%E7%A4%BE%E7%9A%84%E3%81%ABdx%E3%82%92%E6%8E%A8%E9%80%B2%E3%81%99%E3%82%8B%E9%96%A2%E8%A5%BF%E3%83%9A%E3%82%A4%E3%83%B3%E3%83%88-%E5%90%8C%E7%A4%BE-activity-6989327686024261632-p1AQ",
+    "https://jp.linkedin.com/in/seiyaiwasa",
+    "https://jp.linkedin.com/in/tomohiro-iwasa",
+    "https://www.linkedin.com/pub/dir/+/Iwasa"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com 岩佐工業",
+   "results": [
+    "https://www.facebook.com/ShinMaywaIndustries.official2024/posts/%E7%A4%BE%E5%86%85%E6%8A%80%E8%83%BD%E7%AB%B6%E6%8A%80%E4%BC%9A%E8%8B%A5%E6%89%8B%E3%81%AE%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8%E7%89%A9%E8%AA%9E-nc%E6%97%8B%E7%9B%A4%E5%B2%A9%E4%BD%90%E3%81%95%E3%82%93%E5%BD%93%E6%97%A5%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8A%E7%B7%A8%E3%83%A2%E3%83%8E%E3%81%A5%E3%81%8F%E3%82%8A%E3%81%AB%E5%96%9C%E3%81%B3%E3%81%A8%E3%83%97%E3%83%A9%E3%82%A4%E3%83%89%E3%82%92%E6%8C%81%E3%81%A1%E8%87%AA%E4%B8%BB%E7%9A%84%E3%81%AB%E6%8A%80%E8%83%BD%E3%81%AE%E7%B6%AD%E6%8C%81%E5%90%91%E4%B8%8A%E3%82%92%E5%9B%B3%E3%82%8B%E3%81%93%E3%81%A8%E3%82%92%E7%9B%AE%E7%9A%84%E3%81%AB%E9%96%8B%E5%82%AC%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E7%A4%BE%E5%86%85%E8%A1%8C%E4%BA%8B%E7%A4%BE/122259777494186943/",
+    "https://www.facebook.com/HondaJP/posts/team-mugen%E5%B2%A9%E4%BD%90%E6%AD%A9%E5%A4%A2-%E9%81%B8%E6%89%8B%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%E7%8D%B2%E5%BE%97%E5%B2%A9%E4%BD%90%E9%81%B8%E6%89%8B%E3%81%8C%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9F%E3%83%A5%E3%83%A9%E3%81%A7%E8%87%AA%E8%BA%AB%E5%88%9D%E3%81%A8%E3%81%AA%E3%82%8B%E3%83%89%E3%83%A9%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%E3%83%81%E3%83%A3%E3%83%B3%E3%83%94%E3%82%AA%E3%83%B3%E3%82%92%E8%A6%8B%E4%BA%8B%E7%8D%B2%E5%BE%97%E3%81%97%E3%81%BE%E3%81%97%E3%81%9Fhonda-%E3%81%AF%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89%E3%82%82%E3%83%89%E3%83%A9/1293245316160891/",
+    "https://www.facebook.com/kyoeimetal/posts/1635263385055039/",
+    "https://www.facebook.com/aline.inc/posts/%E5%B2%A9%E4%BD%90%E3%82%BF%E3%82%A4%E3%83%AB%E5%B7%A5%E6%A5%AD%E6%A7%98%E3%81%AE%E3%82%B7%E3%83%B3%E3%83%9C%E3%83%AB%E3%83%9E%E3%83%BC%E3%82%AF%E3%83%AD%E3%82%B4%E3%82%BF%E3%82%A4%E3%83%97%E3%82%92%E5%88%B6%E4%BD%9C%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%82%A4%E3%83%8B%E3%82%B7%E3%83%A3%E3%83%AB%E3%81%AEi%E3%82%92%E3%83%A2%E3%82%B6%E3%82%A4%E3%82%AF%E3%82%BF%E3%82%A4%E3%83%AB%E3%81%AE%E3%82%88%E3%81%86%E3%81%AA%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%A7%E6%A7%8B%E6%88%90%E3%81%97%E6%84%9F%E6%80%A7%E8%B1%8A%E3%81%8B%E3%81%AA%E7%B7%BB%E5%AF%86%E3%81%AA%E4%BB%95%E4%BA%8B%E3%81%B6%E3%82%8A%E3%82%92%E8%A1%A8%E7%8F%BE%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99/1618643644888949/",
+    "https://www.facebook.com/iwasaniki/?locale=ja_JP",
+    "https://www.facebook.com/mugen1973/videos/team-mugen-autobacsqf-of-2026-super-formula-rd3-autopolisteammugen-autobacs-sfor/1471019117988920/",
+    "https://www.facebook.com/HondaJP/posts/f1%E3%83%A9%E3%82%B9%E3%83%99%E3%82%AC%E3%82%B9%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%97%E3%83%AA1124%E6%97%A5%E3%82%A6%E3%82%A8%E3%83%AB%E3%82%AB%E3%83%A0%E3%83%97%E3%83%A9%E3%82%B6%E9%9D%92%E5%B1%B1%E3%81%A7%E3%83%91%E3%83%96%E3%83%AA%E3%83%83%E3%82%AF%E3%83%93%E3%83%A5%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0%E9%96%8B%E5%82%AC%E6%B1%BA%E5%AE%9A%E5%85%A5%E9%A4%A8%E6%95%B4%E7%90%86%E5%88%B8%E9%85%8D%E5%B8%83-9%E6%99%821f%E5%85%88%E7%9D%80%E6%8A%BD%E9%81%B8%E6%8C%87%E5%AE%9A%E5%B8%AD2f%E5%85%88%E7%9D%80%E8%87%AA%E7%94%B1%E5%B8%AD%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9F%E3%83%A5%E3%83%A9%E3%81%A7/981410604011032/",
+    "https://www.facebook.com/JapanContractBridgeLeague/posts/%E5%B2%A9%E4%BD%90%E6%9D%AF%E3%81%AE%E7%B5%90%E6%9E%9C-8%E6%9C%8810%E6%97%A5%E5%AD%A6%E7%94%9F%E3%83%AA%E3%83%BC%E3%82%B0%E4%B8%BB%E5%82%AC%E3%81%AE%E5%87%BA%E8%BA%AB%E6%A0%A1%E3%83%9A%E3%82%A2%E6%88%A6%E3%81%AE%E5%84%AA%E5%8B%9D%E3%81%AF%E6%9C%A8%E5%B1%B1%E6%99%BA%E8%A3%95%E9%87%8E%E5%8F%A3%E5%8B%87%E4%BB%8B%E5%A4%A7%E9%98%AA%E5%A4%A7%E5%AD%A6%E5%86%99%E7%9C%9F%E3%83%9A%E3%82%A2%E3%81%A7%E3%81%97%E3%81%9F%E5%85%A5%E8%B3%9E%E3%83%9A%E3%82%A2%E3%81%AE%E5%87%BA%E8%BA%AB%E6%A0%A1%E3%81%AF%E4%BB%A5%E4%B8%8B%E3%81%AE%E9%80%9A%E3%82%8A%EF%BC%92%E4%BD%8D-%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6%EF%BC%93%EF%BC%94%E4%BD%8D-%E5%A4%A7%E9%98%AA%E5%A4%A7%E5%AD%A6%EF%BC%95%E4%BD%8D/897372102429262/",
+    "https://www.facebook.com/kyoeimetal/posts/1589788946269150/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "岩佐工業 note 社長",
+   "results": [
+    "https://note.com/f30103",
+    "https://note.com/ceo_muscle/n/n179528cd80fd",
+    "https://www.instagram.com/p/DaXZvyBpoGt/",
+    "https://note.com/wakusei2nd/n/n877540261a42",
+    "https://www.iwasakk.jp/author/iwasa/",
+    "https://note.com/aeterlink/n/ne893b94eacc4",
+    "https://irbank.net/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E5%B2%A9%E4%BD%90%E5%B7%A5%E6%A5%AD",
+    "https://note.com/ses_75/n/n129c0f981cfa",
+    "https://ja.wikipedia.org/wiki/岩佐恭知",
+    "https://compalyze.co.jp/company/1070001009371"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "岩佐工業 X 投稿",
+   "results": [
+    "https://www.iwasa-sakan.co.jp/blog/",
+    "https://x.com/yu_iwa3/status/2065698182558859458",
+    "https://www.iwasakk.jp/map/",
+    "https://www.instagram.com/iwasa_kogyo/",
+    "https://www.the-miyanichi.co.jp/paper/kennaitokushu/202303.html",
+    "https://www.kensetumap.com/company/494034/profile.php",
+    "http://twitter.com/mayuko_iwasa",
+    "http://msp.fas.ibaraki.ac.jp/",
+    "https://www.iwasakk.jp/",
+    "https://www.iwasakk.jp/author/iwasa/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部7頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部7頁・検索9回）",
+  "取扱材料": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部7頁・検索9回）"
+ }
+}

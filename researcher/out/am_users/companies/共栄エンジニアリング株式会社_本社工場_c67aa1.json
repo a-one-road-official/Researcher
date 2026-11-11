@@ -1,0 +1,693 @@
+{
+ "name": "共栄エンジニアリング株式会社 本社工場",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T11:36:37.579034+00:00",
+ "official_url": "https://www.kyoeieng.co.jp",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "取扱材料": [
+   {
+    "quote": "「微細加工EXPO」に世界初 樹脂製コーナーキューブミ…",
+    "url": "https://kyoeieng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「微細加工EXPO」に世界初 樹脂製コーナーキューブミラーを出展します",
+    "url": "https://kyoeieng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂の試作加工を皮切りに事業拡大をしてきました",
+    "url": "https://kyoeieng.co.jp/business",
+    "pass": 1
+   },
+   {
+    "quote": "コピー機部品の樹脂切削試作から事業をスタートしました",
+    "url": "https://kyoeieng.co.jp/business_s04",
+    "pass": 1
+   },
+   {
+    "quote": "お客様が求める精度を実現するために各社が培ってきた技術とノウハウをシームレスにつなぎ、光学設計技術、金型製作や超精密加工技術、樹脂着色・成形技術をかけ合わせたワンストップで高品質なものづくりをご提供します",
+    "url": "https://kyoeieng.co.jp/business_s05",
+    "pass": 1
+   },
+   {
+    "quote": "長年培ってきた樹脂の着色・コンパウンド、成形、印刷、そして基板実装や各種組立技術を備え、お客さまの生産工程を一貫してプロデュースいたします",
+    "url": "https://kyoeieng.co.jp/business_s05",
+    "pass": 1
+   },
+   {
+    "quote": "様々な光学シミュレーションを活用することにより、求める光学特性を満たした光学樹脂部品の設計が可能",
+    "url": "https://kyoeieng.co.jp/business_s05",
+    "pass": 1
+   },
+   {
+    "quote": "また、樹脂を直接削り出し、金型品同等精度の試作品も製造可能",
+    "url": "https://kyoeieng.co.jp/business_s05",
+    "pass": 1
+   },
+   {
+    "quote": "「微細加工EXPO」に世界初 樹脂製コーナーキューブミラーを出展します｜お知らせ｜共栄エンジニアリング株式会社｜KYOEI ENGINEERING",
+    "url": "https://kyoeieng.co.jp/2026/01/15/1776",
+    "pass": 1
+   },
+   {
+    "quote": "「微細加工EXPO」に世界初 樹脂製コーナーキューブミラーを出展します",
+    "url": "https://kyoeieng.co.jp/2026/01/15/1776",
+    "pass": 1
+   },
+   {
+    "quote": "ここにて，世界初(自社調べ)となる樹脂製の測量・測距用コーナーキューブミラーを展示いたします",
+    "url": "https://kyoeieng.co.jp/2026/01/15/1776",
+    "pass": 1
+   },
+   {
+    "quote": "コーナーキューブミラーを樹脂射出成形により製造",
+    "url": "https://kyoeieng.co.jp/engine/wp-content/uploads/2026/01/b293b3333b378cc0cd9a16cedb90a3ea.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "- PC、COP、COC、高耐熱グレードなど様々な樹脂材料選定が可能",
+    "url": "https://kyoeieng.co.jp/engine/wp-content/uploads/2026/01/b293b3333b378cc0cd9a16cedb90a3ea.pdf",
+    "pass": 2
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "人と機械のコラボレーションを大切にし、豊富な経験と最新鋭設備により試作から量産まで、モデル、切削・放電、金型・成形、微細加工の各要素でトータルなソリューションをスピード感と柔軟性をもって提供します",
+    "url": "https://kyoeieng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "試作、量産を問わず一貫して対応しており、",
+    "url": "https://kyoeieng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂の試作加工を皮切りに事業拡大をしてきました",
+    "url": "https://kyoeieng.co.jp/business",
+    "pass": 1
+   },
+   {
+    "quote": "試作から量産まで、",
+    "url": "https://kyoeieng.co.jp/business",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター、真空注型、塗装など試作要素を幅広く提供します",
+    "url": "https://kyoeieng.co.jp/business",
+    "pass": 1
+   },
+   {
+    "quote": "グループとしての強みを活かし、製品設計から開発試作、量産生産までの一貫加工製造が可能です",
+    "url": "https://kyoeieng.co.jp/business",
+    "pass": 1
+   },
+   {
+    "quote": "第一歩、モデル試作",
+    "url": "https://kyoeieng.co.jp/business_s04",
+    "pass": 1
+   },
+   {
+    "quote": "試作・小ロットを中心とした部品加工を生業とする共栄エンジニアリング",
+    "url": "https://kyoeieng.co.jp/business_s04",
+    "pass": 1
+   },
+   {
+    "quote": "コピー機部品の樹脂切削試作から事業をスタートしました",
+    "url": "https://kyoeieng.co.jp/business_s04",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙分野向けなどの難形状、難削材に対応する多軸加工機を用いた精密切削部品加工を得意とする現在でも、製品開発の初期段階でお客様の構想をカタチにする切削、造形、塗装など、各種の試作加工要素を大切にし、あらゆる期待にお応えします",
+    "url": "https://kyoeieng.co.jp/business_s04",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは試作を得意とする企業として他社に出来ない難案件も、圧倒的な技術力、発想力、そして行動力で数多く請負い、特殊で難しい事例をお客様の満足いくカタチでアウトプットしてまいりました",
+    "url": "https://kyoeieng.co.jp/business_s01",
+    "pass": 1
+   },
+   {
+    "quote": "時には企画段階からお客様に伴走し、試作の先を見据えた進言を行いながら、実直に最善のカタチを作り上げることに注力しています",
+    "url": "https://kyoeieng.co.jp/business_s01",
+    "pass": 1
+   },
+   {
+    "quote": "これまでの製造ノウハウを活かした仕組みづくりで小ロット・短納期の試作を実現します",
+    "url": "https://kyoeieng.co.jp/business_s01",
+    "pass": 1
+   },
+   {
+    "quote": "ロボットによる自動化、最適な生産方法の算出、自社一貫体制等あらゆる部分で無駄を省き、小ロット多品種における短納期を実現しています",
+    "url": "https://kyoeieng.co.jp/business_s01",
+    "pass": 1
+   },
+   {
+    "quote": "グループとしての強みを活かし、会社の枠を超えて製品設計から開発試作、量産生産までの一貫加工製造が可能です",
+    "url": "https://kyoeieng.co.jp/business_s05",
+    "pass": 1
+   },
+   {
+    "quote": "多品種・小ロットの製造ニーズにも柔軟に対応でき、特に難加工形状や高度な精度が求められる製造ニーズにおいて高い技術と対応力を有しています",
+    "url": "https://kyoeieng.co.jp/business_s05",
+    "pass": 1
+   },
+   {
+    "quote": "また、樹脂を直接削り出し、金型品同等精度の試作品も製造可能",
+    "url": "https://kyoeieng.co.jp/business_s05",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "第７０回宇宙科学技術連合講演会に出展します",
+    "url": "https://kyoeieng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "人と機械のコラボレーションを大切にし、豊富な経験と最新鋭設備により試作から量産まで、モデル、切削・放電、金型・成形、微細加工の各要素でトータルなソリューションをスピード感と柔軟性をもって提供します",
+    "url": "https://kyoeieng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "車載・航空宇宙・医療・カメラ/O.A機器・半導体など",
+    "url": "https://kyoeieng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "設計から削り出し、金型製作から射出成形まで、",
+    "url": "https://kyoeieng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "微細加工を利用して高精度な精密金型・精密成形を実現します",
+    "url": "https://kyoeieng.co.jp/business",
+    "pass": 1
+   },
+   {
+    "quote": "弊社の研究拠点であるナノテクノロジー生産技術センターでは車載、航空宇宙、IT、医療、エネルギー等の分野において必要とされる最先端オプティクスや半導体部品開発に対し、独自の超精密加工技術を提供しています",
+    "url": "https://kyoeieng.co.jp/business_s03",
+    "pass": 1
+   },
+   {
+    "quote": "開発品の切削加工から、精密金型の光学レンズ・微細形状の駒加工まで幅広く対応する事で、トータルソリューションを提供いたします",
+    "url": "https://kyoeieng.co.jp/business_s03",
+    "pass": 1
+   },
+   {
+    "quote": "難削材加工などの加工技術、JISQ9100準拠の品質保証体制を生かし、航空宇宙産業の発展と安全に貢献致します",
+    "url": "https://kyoeieng.co.jp/profile",
+    "pass": 1
+   },
+   {
+    "quote": "JIS Q 9100 ：2016（航空宇宙）認証取得（5月）",
+    "url": "https://kyoeieng.co.jp/profile",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙分野向けなどの難形状、難削材に対応する多軸加工機を用いた精密切削部品加工を得意とする現在でも、製品開発の初期段階でお客様の構想をカタチにする切削、造形、塗装など、各種の試作加工要素を大切にし、あらゆる期待にお応えします",
+    "url": "https://kyoeieng.co.jp/business_s04",
+    "pass": 1
+   },
+   {
+    "quote": "ロボットによる自動化、最適な生産方法の算出、自社一貫体制等あらゆる部分で無駄を省き、小ロット多品種における短納期を実現しています",
+    "url": "https://kyoeieng.co.jp/business_s01",
+    "pass": 1
+   },
+   {
+    "quote": "様々な形状に合わせて多軸同期加工や自社独自の治具設計、工程設計により短納期と高品質をお届けします",
+    "url": "https://kyoeieng.co.jp/business_s01",
+    "pass": 1
+   },
+   {
+    "quote": "他社では困難とされる加工案件にも積極的に取り組んでおり、加工方法や条件、治具による仕上がりの違いを把握しています",
+    "url": "https://kyoeieng.co.jp/business_s01",
+    "pass": 1
+   },
+   {
+    "quote": "金型・成形｜事業案内｜共栄エンジニアリング株式会社｜KYOEI ENGINEERING",
+    "url": "https://kyoeieng.co.jp/business_s02",
+    "pass": 1
+   },
+   {
+    "quote": "クオリティーの高い精密金型を製作・加工するために、独自の加工技術・ノウハウを蓄積しており、精密加工技術を有する技術者が最新鋭の設備を駆使して高精度な部品を追求しています",
+    "url": "https://kyoeieng.co.jp/business_s02",
+    "pass": 1
+   },
+   {
+    "quote": "車載、航空宇宙、医療、各種光学レンズ部品など高精度を要求される分野において金型の設計から",
+    "url": "https://kyoeieng.co.jp/business_s02",
+    "pass": 1
+   },
+   {
+    "quote": "加工、型組、成形など全ての工程を緻密に進め、高精度な金型を製作しています",
+    "url": "https://kyoeieng.co.jp/business_s02",
+    "pass": 1
+   },
+   {
+    "quote": "創業以来培ってきた金型加工の分野で、機械やソフトウェアで補えない匠の感覚や感性などの弊社に根付く職人の技術力は、ものづくりの本質として受け継ぎながら先端技術と職人技を掛け合わせたものづくりを日々進めています",
+    "url": "https://kyoeieng.co.jp/business_s02",
+    "pass": 1
+   },
+   {
+    "quote": "金型では成形機サイズ35tから最大650tクラスの大型金型まで製作可能な設備を取り揃えています",
+    "url": "https://kyoeieng.co.jp/business_s02",
+    "pass": 1
+   },
+   {
+    "quote": "金型製造と同じ工場に成形設備を保有する事により、金型から成形までを自社完結し、",
+    "url": "https://kyoeieng.co.jp/business_s02",
+    "pass": 1
+   },
+   {
+    "quote": "また、量産成形を見据えた金型設計を想定し、お客様にVA/VE提案も行います",
+    "url": "https://kyoeieng.co.jp/business_s02",
+    "pass": 1
+   },
+   {
+    "quote": "お客様が求める精度を実現するために各社が培ってきた技術とノウハウをシームレスにつなぎ、光学設計技術、金型製作や超精密加工技術、樹脂着色・成形技術をかけ合わせたワンストップで高品質なものづくりをご提供します",
+    "url": "https://kyoeieng.co.jp/business_s05",
+    "pass": 1
+   },
+   {
+    "quote": "精密部品加工、金型製作、射出成形、超精密微細加工など、お客様のご要望を実現する体制を備えています",
+    "url": "https://kyoeieng.co.jp/business_s05",
+    "pass": 1
+   },
+   {
+    "quote": "様々な加工技術を駆使し、要求を満足する金型を作成",
+    "url": "https://kyoeieng.co.jp/business_s05",
+    "pass": 1
+   },
+   {
+    "quote": "また、樹脂を直接削り出し、金型品同等精度の試作品も製造可能",
+    "url": "https://kyoeieng.co.jp/business_s05",
+    "pass": 1
+   },
+   {
+    "quote": "企画・設計・製造は株式会社KID J 様（特許第7606270号）で、当社は微細加工を用いた金型製作をお手伝いしております",
+    "url": "https://kyoeieng.co.jp/2026/01/15/1776",
+    "pass": 1
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "人とくるまのテクノロジー展 2026 YOKOHAMA…",
+    "url": "https://kyoeieng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "人とくるまのテクノロジー展 2026 YOKOHAMAに参加します",
+    "url": "https://kyoeieng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "MC加工、射出成形、光造形、注型などの製法で",
+    "url": "https://kyoeieng.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター、真空注型、塗装など試作要素を幅広く提供します",
+    "url": "https://kyoeieng.co.jp/business",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙分野向けなどの難形状、難削材に対応する多軸加工機を用いた精密切削部品加工を得意とする現在でも、製品開発の初期段階でお客様の構想をカタチにする切削、造形、塗装など、各種の試作加工要素を大切にし、あらゆる期待にお応えします",
+    "url": "https://kyoeieng.co.jp/business_s04",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター（VPP/SLA方式）で20年ほどの実績が有り、国内最大級のワークサイズながら高精度・高精細なモデルを短納期で提供します",
+    "url": "https://kyoeieng.co.jp/business_s04",
+    "pass": 1
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "グループとしての強みを活かし、製品設計から開発試作、量産生産までの一貫加工製造が可能です",
+    "url": "https://kyoeieng.co.jp/business",
+    "pass": 1
+   },
+   {
+    "quote": "製品の形状精度や表面粗度、微細ステップパターン等のプロファイルを計測し品質を保証致します",
+    "url": "https://kyoeieng.co.jp/business_s03",
+    "pass": 1
+   },
+   {
+    "quote": "社員同士の和を大切にし、社会や技術の変化にいち早く対応することで、お客様のニーズにあった製品、品質、サービスを提供し続けます",
+    "url": "https://kyoeieng.co.jp/profile",
+    "pass": 1
+   },
+   {
+    "quote": "事業活動、製品及びサービスの提供に当たっては、法規制および、お客様の規定や方針、ガイドラインを遵守すると共に、国内外で法規制される化学物質の含有禁止を管理し、法規制を遵守します",
+    "url": "https://kyoeieng.co.jp/profile",
+    "pass": 1
+   },
+   {
+    "quote": "常により良い製品、品質、サービスの提供が出来る様に、継続的に改善に努めます",
+    "url": "https://kyoeieng.co.jp/profile",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙分野向けなどの難形状、難削材に対応する多軸加工機を用いた精密切削部品加工を得意とする現在でも、製品開発の初期段階でお客様の構想をカタチにする切削、造形、塗装など、各種の試作加工要素を大切にし、あらゆる期待にお応えします",
+    "url": "https://kyoeieng.co.jp/business_s04",
+    "pass": 1
+   },
+   {
+    "quote": "デザイン検討モックから最終製品まで多岐に渡り、きれいな加飾を得意として好評を博しています",
+    "url": "https://kyoeieng.co.jp/business_s04",
+    "pass": 1
+   },
+   {
+    "quote": "極薄部品や形状精度が高い光学レンズ、転写難易度が高い微細デザイン製品などを忠実に製造する為に、様々な成形技術開発を行い、お客様へご提案しています",
+    "url": "https://kyoeieng.co.jp/business_s02",
+    "pass": 1
+   },
+   {
+    "quote": "グループとしての強みを活かし、会社の枠を超えて製品設計から開発試作、量産生産までの一貫加工製造が可能です",
+    "url": "https://kyoeieng.co.jp/business_s05",
+    "pass": 1
+   },
+   {
+    "quote": "HUD（Head Up Display）をはじめとした各種車載メーター、様々なセンサー製品等の設計・開発技術を有し、国内外の大手メーカーに精密機械部品を提供しています",
+    "url": "https://kyoeieng.co.jp/business_s05",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "E-Mail：toiawase@kyoeieng.co.jp URL： https://www.kyoeieng.co.jp/",
+    "url": "https://kyoeieng.co.jp/engine/wp-content/uploads/2026/01/b293b3333b378cc0cd9a16cedb90a3ea.pdf",
+    "pass": 2
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://kyoeieng.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyoeieng.co.jp/business",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyoeieng.co.jp/business_s03",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyoeieng.co.jp/profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyoeieng.co.jp/business_s04",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyoeieng.co.jp/business_s01",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyoeieng.co.jp/business_s02",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyoeieng.co.jp/business_s05",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyoeieng.co.jp/2026/01/15/1776",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://kyoeieng.co.jp/engine/wp-content/uploads/2026/01/b293b3333b378cc0cd9a16cedb90a3ea.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kyoeieng.co.jp/img/index_Illust01.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://kyoeieng.co.jp/img/index_Illust02.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://kyoeieng.co.jp/img/index_Illust03.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://kyoeieng.co.jp/img/index_Illust04.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://kyoeieng.co.jp/img/index_Illust01_sp.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://kyoeieng.co.jp/img/index21.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://kyoeidesign.co.jp/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipros.com/company/detail/2065359/category/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyoeidesign.co.jp/lot-production/lot-case/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://kyoeieng.co.jp/profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoei-e.com/companyinfo.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kyoeieng.co.jp/contact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kec-ltd.co.jp/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kyoei-e.com/contact.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "共栄エンジニアリング 本社工場 取扱製品 試作 小ロット",
+   "results": [
+    "https://kyoeidesign.co.jp/",
+    "https://www.ipros.com/company/detail/2065359/category/",
+    "https://kyoeidesign.co.jp/lot-production/lot-case/",
+    "https://kyoei-foodmachine.com/",
+    "https://kyoei-foodmachine.com/products-list/",
+    "https://kyoeieng.co.jp/business_s04",
+    "https://kyoeieng.co.jp/",
+    "https://www.kyoei-eg.co.jp/",
+    "https://www.kyoei-engineering.com/",
+    "https://kyoeieng.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "共栄エンジニアリング 本社工場 会社概要 事業内容",
+   "results": [
+    "https://kyoeieng.co.jp/profile",
+    "https://www.kyoeieng.co.jp/business",
+    "https://www.kyoei-e.com/companyinfo.html",
+    "https://kyoei-foodmachine.com/company-overview/",
+    "https://www.kec-ltd.co.jp/",
+    "https://www.atengineer.com/pr/kyoeieng/company",
+    "https://www.kyoei-e.com/jigyo.html",
+    "https://kyoeieng.jp/company/",
+    "https://www.kec-ltd.co.jp/会社概要/",
+    "https://kyoeieng.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "共栄エンジニアリング 本社工場 お問い合わせ メール",
+   "results": [
+    "https://kyoeieng.co.jp/contact",
+    "https://www.kec-ltd.co.jp/お問い合わせ/",
+    "https://www.kyoei-e.com/contact.html",
+    "https://kyoei-foodmachine.com/contact/",
+    "https://kyoei-foodmachine.com/axcess/",
+    "https://www.kyoei-1966.jp/contact",
+    "https://www.kyoei-engineering.com/contact/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 共栄エンジニアリング 本社工場",
+   "results": [
+    "https://note.com/kyoei_seiko",
+    "https://note.com/kyoei_seiko/n/n980e40331edd",
+    "https://tales.note.com/menmennovel2/works",
+    "https://note.com/project23/n/n37db10b5dfa5",
+    "https://note.com/atelier_kafuka/n/nc05c7434caad",
+    "https://note.com/kyoei_casket/n/n175d7fbd5499",
+    "https://note.com/kyoei_casket/n/nc58f9f1e4de9",
+    "https://note.com/take_factorytour/n/n30f57f5e8eb6",
+    "https://note.com/shoeiseiki/n/n7c6e9a5e712d",
+    "https://note.com/shoeiseiki/n/n549dd52ccae4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:x.com 共栄エンジニアリング 本社工場",
+   "results": [
+    "https://note.com/kyoei_seiko/n/n980e40331edd",
+    "https://tales.note.com/menmennovel2/works",
+    "https://note.com/project23/n/n37db10b5dfa5",
+    "https://note.com/kyoei_seiko",
+    "https://note.com/atelier_kafuka/n/nc05c7434caad",
+    "https://note.com/kyoei_casket/n/n175d7fbd5499",
+    "https://note.com/kyoei_casket/n/nc58f9f1e4de9",
+    "https://note.com/take_factorytour/n/n30f57f5e8eb6",
+    "https://note.com/shoeiseiki/n/n7c6e9a5e712d",
+    "https://note.com/shoeiseiki/n/n549dd52ccae4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:linkedin.com 共栄エンジニアリング 本社工場",
+   "results": [
+    "https://note.com/kyoei_seiko/n/n980e40331edd",
+    "https://tales.note.com/menmennovel2/works",
+    "https://note.com/project23/n/n37db10b5dfa5",
+    "https://note.com/kyoei_seiko",
+    "https://note.com/atelier_kafuka/n/nc05c7434caad",
+    "https://note.com/kyoei_casket/n/n175d7fbd5499",
+    "https://note.com/kyoei_casket/n/nc58f9f1e4de9",
+    "https://note.com/take_factorytour/n/n30f57f5e8eb6",
+    "https://note.com/shoeiseiki/n/n7c6e9a5e712d",
+    "https://note.com/shoeiseiki/n/n549dd52ccae4"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:facebook.com 共栄エンジニアリング 本社工場",
+   "results": [
+    "https://note.com/kyoei_seiko/n/n980e40331edd",
+    "https://tales.note.com/menmennovel2/works",
+    "https://note.com/project23/n/n37db10b5dfa5",
+    "https://note.com/kyoei_seiko",
+    "https://note.com/atelier_kafuka/n/nc05c7434caad",
+    "https://note.com/kyoei_casket/n/n175d7fbd5499",
+    "https://note.com/kyoei_casket/n/nc58f9f1e4de9",
+    "https://note.com/take_factorytour/n/n30f57f5e8eb6",
+    "https://note.com/shoeiseiki/n/n7c6e9a5e712d",
+    "https://note.com/shoeiseiki/n/n549dd52ccae4"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "共栄エンジニアリング 本社工場 note 社長",
+   "results": [
+    "https://kyoeieng.co.jp/profile",
+    "https://www.kyoei-e.com/companyinfo.html",
+    "https://kyoeieng.co.jp/",
+    "https://kyoei-foodmachine.com/company-overview/",
+    "https://kyoei-eng.net/company/",
+    "https://note.com/kyoei_casket/m/m6e72db7f6cdf",
+    "https://kyoei-foodmachine.com/message-representative-director/",
+    "http://www.kyoei-eg.co.jp/pages01.html",
+    "https://kye.jp/president/",
+    "https://kyoeieng.jp/company/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "共栄エンジニアリング 本社工場 X 投稿",
+   "results": [
+    "https://kyoeieng.co.jp/",
+    "https://kyoeieng.co.jp/profile",
+    "https://mono.ipros.com/company/detail/2065359/",
+    "https://pub-mediabox-storage.rxweb-prd.com/exhibitor/document/exh-9f0fffc0-e21c-4e9c-a931-8222bde560c2/beac4c72-b76a-488e-b99a-2be5786d52fe.pdf",
+    "https://jobtalk.jp/companies/197726/answers",
+    "https://www.kyoei-eg.co.jp/",
+    "https://x.com/KKauto_kyoei/status/2118591978451677563"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "所在地": "記載なし（3回確認済み：公式9頁／PDF・画像7件／外部8頁・検索9回）",
+  "事業内容": "記載なし（3回確認済み：公式9頁／PDF・画像7件／外部8頁・検索9回）",
+  "代表者": "記載なし（3回確認済み：公式9頁／PDF・画像7件／外部8頁・検索9回）",
+  "従業員数": "記載なし（3回確認済み：公式9頁／PDF・画像7件／外部8頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式9頁／PDF・画像7件／外部8頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式9頁／PDF・画像7件／外部8頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式9頁／PDF・画像7件／外部8頁・検索9回）"
+ }
+}

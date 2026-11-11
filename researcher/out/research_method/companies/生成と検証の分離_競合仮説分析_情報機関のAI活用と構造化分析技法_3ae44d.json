@@ -8,8 +8,142 @@
  ],
  "context": "分析の型",
  "kind": "market",
- "researched_at": "2026-11-09T12:17:53.212338+00:00",
+ "researched_at": "2026-11-11T10:46:42.411566+00:00",
  "evidence": {
+  "一次情報の探し方": [
+   {
+    "quote": "：今回の調査では、一次情報で確認できなかった",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "評価用には、決算説明会（アーニングコール）の書き起こしから作ったデータセットECT-QAを新設した",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "モデルに実績の統計を与えるだけで相対15.3%改善した点から、",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "LLMが得意なのは、文章の統計的なつながりだ",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "一次情報で確認できた範囲で、位置づけを整理する",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Heuer『Psychology of Intelligence Analysis』（CIA、PDF）",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "CSET：Opinions on “AI+”（英訳PDF）",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "：求人情報の急増、規制当局への提出書類の変化、SNS上の感情の変化など、公開情報に現れる小さな兆候をAIが検出し、分析官に示す",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この論文の主題は国防の調達、組織改革、訓練、採用という公共行政上の課題であり、作戦の技術的な詳細は扱っていない",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Massive社の分類は、金融犯罪と暗号資産の追跡分析をOSINTツールの独立した分野として位置づけ、Chainalysisなどの事業者を挙げるとともに、2025年の不正な暗号資産取引が409億ドルに上るという統計を引いている(Turner, 2026)",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2025年2月から5月の軍の調達文書にはDeepSeekへの言及が150件以上あり、兵器工業集団傘下の兵器科学研究院の特許は、公開情報、人的情報、信号情報、地理空間情報、技術情報のデータで軍用大規模言語モデルを訓練し、情報サイクルの全段階を支援する構想を示している(Insikt Group, 2025)",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "この段階では「人間とAIの協働モデル」を明示的な設計原則として採用し、AIが収集と優先順位づけを、人間が検証と意思決定を担う役割分担を制度化する(Palmieri et al., 2026)",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "本稿の調査範囲では、日本の公的機関が生成AIのインテリジェンス活用に関する公式方針や倫理原則を公表した文書は確認できなかった",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://aclanthology.org/2023.eval4nlp-1.7.pdf",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://www.cia.gov/resources/csi/static/643e18ba5bf779749a14059019db53b2/Article-The-Promise-and-Peril-of-Artificial-Intelligence-Studies-68-1-March-2024.pdf",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://www.cimic-coe.org/wp-content/uploads/2025/03/factsheet-ai.pdf",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://assets.recordedfuture.com/insikt-report-pdfs/2025/ta-cn-2025-0617.pdf",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://www.defense.gouv.fr/sites/default/files/drm/Esprit%20d%C3%A9fense%20n%C2%B0%2017%20-%20Automne%202025-24-43.pdf",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://www.cia.gov/resources/csi/static/Article-Espionage-in-Our-AI-Future-Studies-70-1-Mar2026.pdf",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://docs.house.gov/meetings/BA/BA10/20230427/115822/HHRG-118-BA10-Wstate-NelsonB-20230427.pdf",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://cdn.asp.events/CLIENT_Defence__8EE24275_D70D_4386_936BB8991B847FF8/sites/Navy-Leaders-2022/media/libraries/cne24-presentations/Day-3-UDSA-1115-OPTION-1-_PUBLIC_CNE_NATO_Data_and_AI_Policies.pdf",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "https://www.dni.gov/files/documents/ICD/ICD-203.pdf",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "失敗・落とし穴": [
    {
     "quote": "この\"つなぐ\"作業を、人間の代わりに、二十四時間、疲れずに、しかも間違いを自分で疑いながら続けるAI",
@@ -157,462 +291,6 @@
    },
    {
     "quote": "同時に、報告書自身が、開発や販売にあたる主体は有効性を誇張する動機を持つと注意を促していることは、中国側の能力を評価する際にも情報源の格付けが必要であることを示している",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "手順・やり方": [
-   {
-    "quote": "「AIが自分の調査手順を書き換える」層は、最も魅力的で、最も危うい",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "これらを、手順（プロトコル）として実行可能にしようと試みたのが、先ほど触れた",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Signal Map（シグナル地図）→ Convergence Analysis（収束分析）→ Contrarian View（逆張りの視点）→ Timing Grid（時機の判断）と進む手順は、実務にも使いやすい",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ここがポイント：インテリジェンスとは「情報の量」ではなく「問いの質」と「疑う手順」で決まる",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "疑い続ける手順を、止まらずに回し続けること",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "AIは、こうした人間の方法論を置き換えるのではなく、",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "EU：毎年の報告書と、方法の透明性への注文",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "日本：NISTEPが書いた、率直な反省",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "科学技術・学術政策研究所（NISTEP）は、1971年からおよそ5年ごとに",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Firecracker型のmicroVMは",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "手続き記憶：改善され続ける調査手順（Skill）",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "（Nous Research、2026年2月公開）は、セッションをまたぐ永続メモリ、SQLiteの全文検索による過去会話の検索、そして経験からSKILL.mdというファイルに手順を保存する仕組みを持つ",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "たとえば、仮説H「企業の推論基盤は、クラウド依存から自社管理型へ移行している」の確信度が、最初は10%だったとする（オッズは1対9）",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "構想の最上層には、システムが自分の調査手順（Skill）や判定プロンプトを、結果を見て書き換える層がある",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "1つのオープンウェイトモデル（Qwen3.6-27B）が、タスクを解く役、チームの手順を最適化する役、成果を評価する役を兼ね、",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "本稿は、世界の主要な情報機関が生成AI(大規模言語モデル、エージェント型AI、マルチモーダルAI)をどのように実際の業務に取り入れているかを調べ、その知見を実務向けにまとめたものである",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "エージェント型AI：人間が与えた目標に対し、必要な手順を自ら組み立て、外部の道具を呼び出して多段階の作業を進めるAI",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Khalid & Witmer(2025)は、大規模言語モデルを用いた主題分析の手順を四段階に整理した",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "一つの情報源に頼らず、複数の情報源を突き合わせることが方法論上欠かせない",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "エージェント型AIはこれをさらに進め、収集、処理、分析の三つの段階を自律的に行き来する(Palmieri et al., 2026)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "：theHarvester、SpiderFoot、OSINT Framework",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "エージェント型の例としてOpenOSINTがある",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "対話型の実行環境、ウェブ画面、コマンドライン、MCPサーバーの四つの使い方がある(OpenOSINT, 2026)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2.2.3 「エージェント型OSINT」という質的な転換",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "情報機関のOSINT自動化と企業の競争インテリジェンスの自動化が、方法論としてほぼ同じ線上にあることを示す実例である",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "CIAの公刊誌に載った近年の論考は、ソーシャルメディアなどの公開データと業務上の記録を大規模言語モデルに読み込ませ、協力者との対話で使うべき言葉や避けるべき話題、相手が示しそうな反論を事前に助言させる使い方を提案している(Mulligan, 2026)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "GCHQ長官のアン・キースト＝バトラーは、2026年5月27日にブレッチリー・パークで行った第1回GCHQ年次講演で、国家サイバーセキュリティセンター(NCSC)がエージェント型AIを組み込んだ国家規模のサイバー防衛能力を開発中であることを明らかにした",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2021年の「拡張知能」から2026年の「エージェント型AIによる機械の速さでの防御」への移行は、後述する導入計画の第一段階から第四段階までを、一つの機関が5年間で歩んだ例といえる",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2.4.2 フランスDGSEの統合型モデル",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "GCHQが自らの防御にエージェント型AIを組み込もうとしているように、企業も自社ネットワークの防御に同じ技術を使うことができる",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "：今回の調査では、一次情報で確認できなかった",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "評価用には、決算説明会（アーニングコール）の書き起こしから作ったデータセットECT-QAを新設した",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "モデルに実績の統計を与えるだけで相対15.3%改善した点から、",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "LLMが得意なのは、文章の統計的なつながりだ",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "一次情報で確認できた範囲で、位置づけを整理する",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Heuer『Psychology of Intelligence Analysis』（CIA、PDF）",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "CSET：Opinions on “AI+”（英訳PDF）",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "：求人情報の急増、規制当局への提出書類の変化、SNS上の感情の変化など、公開情報に現れる小さな兆候をAIが検出し、分析官に示す",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この論文の主題は国防の調達、組織改革、訓練、採用という公共行政上の課題であり、作戦の技術的な詳細は扱っていない",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Massive社の分類は、金融犯罪と暗号資産の追跡分析をOSINTツールの独立した分野として位置づけ、Chainalysisなどの事業者を挙げるとともに、2025年の不正な暗号資産取引が409億ドルに上るという統計を引いている(Turner, 2026)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2025年2月から5月の軍の調達文書にはDeepSeekへの言及が150件以上あり、兵器工業集団傘下の兵器科学研究院の特許は、公開情報、人的情報、信号情報、地理空間情報、技術情報のデータで軍用大規模言語モデルを訓練し、情報サイクルの全段階を支援する構想を示している(Insikt Group, 2025)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "この段階では「人間とAIの協働モデル」を明示的な設計原則として採用し、AIが収集と優先順位づけを、人間が検証と意思決定を担う役割分担を制度化する(Palmieri et al., 2026)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "本稿の調査範囲では、日本の公的機関が生成AIのインテリジェンス活用に関する公式方針や倫理原則を公表した文書は確認できなかった",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "https://aclanthology.org/2023.eval4nlp-1.7.pdf",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "https://www.cia.gov/resources/csi/static/643e18ba5bf779749a14059019db53b2/Article-The-Promise-and-Peril-of-Artificial-Intelligence-Studies-68-1-March-2024.pdf",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "https://www.cimic-coe.org/wp-content/uploads/2025/03/factsheet-ai.pdf",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "https://assets.recordedfuture.com/insikt-report-pdfs/2025/ta-cn-2025-0617.pdf",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "https://www.defense.gouv.fr/sites/default/files/drm/Esprit%20d%C3%A9fense%20n%C2%B0%2017%20-%20Automne%202025-24-43.pdf",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "https://www.cia.gov/resources/csi/static/Article-Espionage-in-Our-AI-Future-Studies-70-1-Mar2026.pdf",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "https://docs.house.gov/meetings/BA/BA10/20230427/115822/HHRG-118-BA10-Wstate-NelsonB-20230427.pdf",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "https://cdn.asp.events/CLIENT_Defence__8EE24275_D70D_4386_936BB8991B847FF8/sites/Navy-Leaders-2022/media/libraries/cne24-presentations/Day-3-UDSA-1115-OPTION-1-_PUBLIC_CNE_NATO_Data_and_AI_Policies.pdf",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "https://www.dni.gov/files/documents/ICD/ICD-203.pdf",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "確率予測の採点にはBrier Score（予測確率と結果の差の二乗の平均",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "観測システムが予測を出すなら、この文化――確率で言い切り、結果で採点する――を、最初から組み込むべきだと私は考える",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "構想の最上層には、システムが自分の調査手順（Skill）や判定プロンプトを、結果を見て書き換える層がある",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "予測を記録し、結果が出たらBrier Scoreで採点し、その成績が悪化した手順だけを書き換える",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "：結果を、人間が「議論できる形」で見せる",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "観測システムを実際に作る人は、地味な層から先に固めるほうが、結果として遠くまで行ける、というのが私の見立てである",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "：仮説ごとに、確率、期限、判定基準、結果を書き、期限が来たらBrier Scoreで採点する",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "わずか2サイクルの結果から、長期の安定性は言えない",
-    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "エージェントは、Shodan、Censys、Maltego、VirusTotal、MISPといった外部ツールを自分で選んで呼び出し、結果を見て推論を更新し、目的を達成するか停止条件に達するまで作業を繰り返す(Palmieri et al., 2026)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "同プロジェクトは「AIはツールの呼び出しを指示するだけで、実際のプログラムは利用者側のコードが実行するため、幻覚による調査結果は構造的に生じない」という原則を掲げる(OpenOSINT, 2026)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "国内の事例では、公開情報と企業情報を大規模なデータベース上で名寄せして整理し、営業活動に活かす取り組みにより、年間約1,300時間の情報収集の工数削減が報告されている(ユーソナー, 2023)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "情報機関のOSINT自動化と企業の競争インテリジェンスの自動化が、方法論としてほぼ同じ線上にあることを示す実例である",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "第二に、HavocSecが挙げる事例(銀行がフィッシング用ドメイン3件を47分で特定、ジャーナリストが47のボットアカウントを特定)は、AIを用いたOSINTの効果が調査の速さに最もはっきり現れることを示している(HavocSec, 2026)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "GCHQの倫理文書は、AIを自ら判断する主体ではなく、人間の分析官が審査するためのデータを抽出する「拡張知能」と位置づけ、データ、設計、結果の各段階で偏りを抑えることを求めている(GCHQ, 2021)",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2.3.3 イスラエルの事例と証拠の限界",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "イスラエルの事例が示しているのは、AIが信号情報、計測・痕跡情報、人的情報の境界を溶かす統合運用の可能性である",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "衛星、無人機、電波の傍受によって収集能力が飛躍的に高まった結果、「情報が多すぎると情報が死ぬ」という処理能力の限界が課題になっていると指摘する",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "企業での応用としては、農業関連企業が衛星のスペクトルデータで広い地域の作物の収量を評価し、商品取引や供給計画に活かす事例や、競合他社の工場周辺の熱の放出や環境データを観察して生産量や稼働率を推定する「間接計測」の手法がある",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Khalid & Witmer(2025)は、大規模言語モデルを使った帰納的な主題分析に関する12本の研究を体系的に検討し、モデルの結果は人間の分析とおおむね一致するものの、わずかなプロンプトの違いで出力が大きく変わる再現性の低さが最大の限界だと結論づけた",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "Schulhoff他(2024)が第6章で示した事例研究は、支援を求める文章の中から自殺の危険を示す「切迫した絶望感」を検出するという課題に対し、プロンプトの設計を繰り返し改善していく過程を詳しく記している",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "公開情報を大量に取り込むOSINTエージェントはこの攻撃に構造的に弱く、敵対勢力が公開情報源に仕込んだ指示によって分析結果が操作されうる",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "データ、設計、結果の各段階で偏りを抑えること、必要性と比例性を評価すること、多様な人材でチームを構成すること、説明可能なAI技術を使うことが掲げられている",
-    "url": "https://note.com/everprogress/n/nc066813442e3",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   },
-   {
-    "quote": "2.8.2 中国の事例が示す対照的な型",
     "url": "https://note.com/everprogress/n/nc066813442e3",
     "pass": 3,
     "first_seen": "2026-11-05"
@@ -799,6 +477,328 @@
     "pass": 3,
     "first_seen": "2026-11-05"
    }
+  ],
+  "実例": [
+   {
+    "quote": "確率予測の採点にはBrier Score（予測確率と結果の差の二乗の平均",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "観測システムが予測を出すなら、この文化――確率で言い切り、結果で採点する――を、最初から組み込むべきだと私は考える",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "構想の最上層には、システムが自分の調査手順（Skill）や判定プロンプトを、結果を見て書き換える層がある",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "予測を記録し、結果が出たらBrier Scoreで採点し、その成績が悪化した手順だけを書き換える",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "：結果を、人間が「議論できる形」で見せる",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "観測システムを実際に作る人は、地味な層から先に固めるほうが、結果として遠くまで行ける、というのが私の見立てである",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "：仮説ごとに、確率、期限、判定基準、結果を書き、期限が来たらBrier Scoreで採点する",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "わずか2サイクルの結果から、長期の安定性は言えない",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "エージェントは、Shodan、Censys、Maltego、VirusTotal、MISPといった外部ツールを自分で選んで呼び出し、結果を見て推論を更新し、目的を達成するか停止条件に達するまで作業を繰り返す(Palmieri et al., 2026)",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "同プロジェクトは「AIはツールの呼び出しを指示するだけで、実際のプログラムは利用者側のコードが実行するため、幻覚による調査結果は構造的に生じない」という原則を掲げる(OpenOSINT, 2026)",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "国内の事例では、公開情報と企業情報を大規模なデータベース上で名寄せして整理し、営業活動に活かす取り組みにより、年間約1,300時間の情報収集の工数削減が報告されている(ユーソナー, 2023)",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "情報機関のOSINT自動化と企業の競争インテリジェンスの自動化が、方法論としてほぼ同じ線上にあることを示す実例である",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "第二に、HavocSecが挙げる事例(銀行がフィッシング用ドメイン3件を47分で特定、ジャーナリストが47のボットアカウントを特定)は、AIを用いたOSINTの効果が調査の速さに最もはっきり現れることを示している(HavocSec, 2026)",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "GCHQの倫理文書は、AIを自ら判断する主体ではなく、人間の分析官が審査するためのデータを抽出する「拡張知能」と位置づけ、データ、設計、結果の各段階で偏りを抑えることを求めている(GCHQ, 2021)",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2.3.3 イスラエルの事例と証拠の限界",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "イスラエルの事例が示しているのは、AIが信号情報、計測・痕跡情報、人的情報の境界を溶かす統合運用の可能性である",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "衛星、無人機、電波の傍受によって収集能力が飛躍的に高まった結果、「情報が多すぎると情報が死ぬ」という処理能力の限界が課題になっていると指摘する",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "企業での応用としては、農業関連企業が衛星のスペクトルデータで広い地域の作物の収量を評価し、商品取引や供給計画に活かす事例や、競合他社の工場周辺の熱の放出や環境データを観察して生産量や稼働率を推定する「間接計測」の手法がある",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Khalid & Witmer(2025)は、大規模言語モデルを使った帰納的な主題分析に関する12本の研究を体系的に検討し、モデルの結果は人間の分析とおおむね一致するものの、わずかなプロンプトの違いで出力が大きく変わる再現性の低さが最大の限界だと結論づけた",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Schulhoff他(2024)が第6章で示した事例研究は、支援を求める文章の中から自殺の危険を示す「切迫した絶望感」を検出するという課題に対し、プロンプトの設計を繰り返し改善していく過程を詳しく記している",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "公開情報を大量に取り込むOSINTエージェントはこの攻撃に構造的に弱く、敵対勢力が公開情報源に仕込んだ指示によって分析結果が操作されうる",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "データ、設計、結果の各段階で偏りを抑えること、必要性と比例性を評価すること、多様な人材でチームを構成すること、説明可能なAI技術を使うことが掲げられている",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2.8.2 中国の事例が示す対照的な型",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "「AIが自分の調査手順を書き換える」層は、最も魅力的で、最も危うい",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "これらを、手順（プロトコル）として実行可能にしようと試みたのが、先ほど触れた",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Signal Map（シグナル地図）→ Convergence Analysis（収束分析）→ Contrarian View（逆張りの視点）→ Timing Grid（時機の判断）と進む手順は、実務にも使いやすい",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ここがポイント：インテリジェンスとは「情報の量」ではなく「問いの質」と「疑う手順」で決まる",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "疑い続ける手順を、止まらずに回し続けること",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "AIは、こうした人間の方法論を置き換えるのではなく、",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "EU：毎年の報告書と、方法の透明性への注文",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "日本：NISTEPが書いた、率直な反省",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "科学技術・学術政策研究所（NISTEP）は、1971年からおよそ5年ごとに",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Firecracker型のmicroVMは",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "手続き記憶：改善され続ける調査手順（Skill）",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "（Nous Research、2026年2月公開）は、セッションをまたぐ永続メモリ、SQLiteの全文検索による過去会話の検索、そして経験からSKILL.mdというファイルに手順を保存する仕組みを持つ",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "たとえば、仮説H「企業の推論基盤は、クラウド依存から自社管理型へ移行している」の確信度が、最初は10%だったとする（オッズは1対9）",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "構想の最上層には、システムが自分の調査手順（Skill）や判定プロンプトを、結果を見て書き換える層がある",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "1つのオープンウェイトモデル（Qwen3.6-27B）が、タスクを解く役、チームの手順を最適化する役、成果を評価する役を兼ね、",
+    "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "本稿は、世界の主要な情報機関が生成AI(大規模言語モデル、エージェント型AI、マルチモーダルAI)をどのように実際の業務に取り入れているかを調べ、その知見を実務向けにまとめたものである",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "エージェント型AI：人間が与えた目標に対し、必要な手順を自ら組み立て、外部の道具を呼び出して多段階の作業を進めるAI",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "Khalid & Witmer(2025)は、大規模言語モデルを用いた主題分析の手順を四段階に整理した",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "一つの情報源に頼らず、複数の情報源を突き合わせることが方法論上欠かせない",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "エージェント型AIはこれをさらに進め、収集、処理、分析の三つの段階を自律的に行き来する(Palmieri et al., 2026)",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "：theHarvester、SpiderFoot、OSINT Framework",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "エージェント型の例としてOpenOSINTがある",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "対話型の実行環境、ウェブ画面、コマンドライン、MCPサーバーの四つの使い方がある(OpenOSINT, 2026)",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2.2.3 「エージェント型OSINT」という質的な転換",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "情報機関のOSINT自動化と企業の競争インテリジェンスの自動化が、方法論としてほぼ同じ線上にあることを示す実例である",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "CIAの公刊誌に載った近年の論考は、ソーシャルメディアなどの公開データと業務上の記録を大規模言語モデルに読み込ませ、協力者との対話で使うべき言葉や避けるべき話題、相手が示しそうな反論を事前に助言させる使い方を提案している(Mulligan, 2026)",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "GCHQ長官のアン・キースト＝バトラーは、2026年5月27日にブレッチリー・パークで行った第1回GCHQ年次講演で、国家サイバーセキュリティセンター(NCSC)がエージェント型AIを組み込んだ国家規模のサイバー防衛能力を開発中であることを明らかにした",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2021年の「拡張知能」から2026年の「エージェント型AIによる機械の速さでの防御」への移行は、後述する導入計画の第一段階から第四段階までを、一つの機関が5年間で歩んだ例といえる",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "2.4.2 フランスDGSEの統合型モデル",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   },
+   {
+    "quote": "GCHQが自らの防御にエージェント型AIを組み込もうとしているように、企業も自社ネットワークの防御に同じ技術を使うことができる",
+    "url": "https://note.com/everprogress/n/nc066813442e3",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
   ]
  },
  "figures": {},
@@ -820,17 +820,22 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/tsunobuchi/n/n037e5cd3ee54",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/betaitohuman/n/nd6bfb5c808e7",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/f_bby__shota/n/n3558ea5d3ed1",
+    "url": "https://note.com/phonet_dx/n/n24552e241ef1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tsunobuchi/n/n7b192013ed4c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ximix.niandc.co.jp/column/how-will-generative-ai-change-data-analysis",
     "status": "ok",
     "method": "http"
    },
@@ -840,22 +845,12 @@
     "method": "http"
    },
    {
-    "url": "https://ximix.niandc.co.jp/column/generative-ai-competitive-analysis",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/tsunobuchi/n/n14a67db1074a",
+    "url": "https://note.com/okodukai_prompt/n/n36089dd52177",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://www.j-techno.co.jp/seminar/seminar-76117/",
-    "status": "ok",
-    "method": "browser"
-   },
-   {
-    "url": "https://gen-ai-media.guga.or.jp/keyperson/ukyo-ogasawara/",
     "status": "ok",
     "method": "http"
    },
@@ -865,37 +860,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.ninesigma.com/jp/service/akceli/article/ai-research/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.gijutu.co.jp/doc/b_2353.htm",
-    "status": "network_error:ConnectTimeout",
-    "method": "http"
-   },
-   {
-    "url": "https://www.ai-alright.com/articles/2112/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.abeam.com/jp/ja/insights/294/",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.nri.com/jp/service/solution/solution_ai_ai_structureddata_semantic.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.juse.or.jp/sqip/community/bucyo/16/files/shiryou_seika1.pdf",
+    "url": "https://www.jri.co.jp/MediaLibrary/file/advanced/advanced-technology/pdf/16353.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://www.snowflake.com/ja/artificial-intelligence/industries/",
+    "url": "https://ximix.niandc.co.jp/column/generative-ai-competitive-analysis",
     "status": "ok",
     "method": "http"
    },
@@ -905,7 +875,37 @@
     "method": "http"
    },
    {
+    "url": "https://www.ai-alright.com/articles/2112/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
     "url": "https://johokiko.co.jp/publishing/BC260303.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.juse.or.jp/sqip/community/bucyo/16/files/shiryou_seika1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://koiyal.com/blog/hypothesis-testing-ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.snowflake.com/ja/artificial-intelligence/industries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.argo-graph.co.jp/media/knowledge/wp_ai_manufacturing-ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-viz-lab.com/data-structuring-for-generative-ai",
     "status": "ok",
     "method": "http"
    },
@@ -915,14 +915,14 @@
     "method": "http"
    },
    {
-    "url": "https://www.msiism.jp/article/genai-and-textmining.html",
+    "url": "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://qiita.com/seahawk/items/dac052f04656ffc5adb7",
+    "url": "https://acaric.jp/articles/2329",
     "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
     "url": "https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf",
@@ -945,14 +945,14 @@
     "method": "http"
    },
    {
-    "url": "https://anticitizenone.medium.com/analysis-of-competing-hypotheses-176bd8147dbc",
-    "status": "http_403",
-    "method": "http"
+    "url": "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "status": "ok",
+    "method": "pdf"
    },
    {
-    "url": "https://www.semanticscholar.org/paper/The-%E2%80%9Canalysis-of-competing-hypotheses%E2%80%9D-in-analysis-Dhami-Belton/7259921c0524f064138c8d971cec2bab687ab6b6",
+    "url": "https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
    }
   ]
  },
@@ -963,13 +963,13 @@
     "https://note.com/everprogress/n/nc066813442e3",
     "https://note.com/tsunobuchi/n/n344cda1840c5",
     "https://note.com/anozaki/n/nd51ffc6dffe8",
-    "https://note.com/tsunobuchi/n/n037e5cd3ee54",
     "https://note.com/betaitohuman/n/nd6bfb5c808e7",
-    "https://note.com/f_bby__shota/n/n3558ea5d3ed1",
     "https://note.com/phonet_dx/n/n24552e241ef1",
-    "https://note.com/vijay_singh1970/n/n6ccb374af90f",
+    "https://note.com/tsunobuchi/n/n7b192013ed4c",
+    "https://note.com/vast_cosmos500/n/n046d2953d0de",
     "https://note.com/matomechannel/n/n2165d41341d8",
-    "https://note.com/rtrtrtrt/n/nf07c4b5d8ef9"
+    "https://note.com/rtrtrtrt/n/nf07c4b5d8ef9",
+    "https://note.com/vijay_singh1970/n/n6ccb374af90f"
    ],
    "engines": [
     "ddgs:google",
@@ -982,33 +982,33 @@
    "results": [
     "https://note.com/everprogress/n/nc066813442e3",
     "https://note.com/tsunobuchi/n/n344cda1840c5",
+    "https://ximix.niandc.co.jp/column/how-will-generative-ai-change-data-analysis",
     "https://note.com/brave_quince241/n/n90eb278dbec7",
-    "https://ximix.niandc.co.jp/column/generative-ai-competitive-analysis",
-    "https://note.com/tsunobuchi/n/n14a67db1074a",
+    "https://note.com/okodukai_prompt/n/n36089dd52177",
     "https://www.j-techno.co.jp/seminar/seminar-76117/",
-    "https://gen-ai-media.guga.or.jp/keyperson/ukyo-ogasawara/",
     "https://note.com/valuesharing/n/n1097f4e9f8ea",
-    "https://yellowfin.co.jp/blog/jpblog-generative-ai-data-analysis/",
+    "https://www.jri.co.jp/file/advanced/advanced-technology/pdf/16353.pdf",
+    "http://www.city.nanyo.yamagata.jp/dxchosei/5793",
     "https://qiita.com/seahawk/items/dac052f04656ffc5adb7"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 16
   },
   {
    "query": "生成と検証の分離・競合仮説分析（情報機関のAI活用と構造化分析技法） やり方",
    "results": [
-    "https://www.ninesigma.com/jp/service/akceli/article/ai-research/",
     "https://note.com/everprogress/n/nc066813442e3",
-    "https://www.gijutu.co.jp/doc/b_2353.htm",
     "https://ximix.niandc.co.jp/column/generative-ai-competitive-analysis",
+    "https://www.gijutu.co.jp/doc/b_2374.htm",
     "https://www.ai-alright.com/articles/2112/",
-    "https://www.abeam.com/jp/ja/insights/294/",
-    "https://www.nri.com/jp/service/solution/solution_ai_ai_structureddata_semantic.html",
+    "https://johokiko.co.jp/publishing/BC260303.php",
     "https://www.juse.or.jp/sqip/community/bucyo/16/files/shiryou_seika1.pdf",
-    "https://johokiko.co.jp/seminar_chemical/AD261221.php",
+    "https://koiyal.com/blog/hypothesis-testing-ai",
+    "https://www.comm.tcu.ac.jp/cisj/25/assets/25_2.pdf",
+    "https://www.nri.com/jp/service/solution/solution_ai_ai_structureddata_semantic.html",
     "https://qiita.com/seahawk/items/dac052f04656ffc5adb7"
    ],
    "engines": [
@@ -1025,17 +1025,17 @@
     "https://note.com/everprogress/n/nc066813442e3",
     "https://ximix.niandc.co.jp/column/generative-ai-competitive-analysis",
     "https://johokiko.co.jp/publishing/BC260303.php",
-    "https://www.abeam.com/jp/ja/insights/294/",
     "https://www.juse.or.jp/sqip/community/bucyo/16/files/shiryou_seika1.pdf",
+    "https://www.argo-graph.co.jp/media/knowledge/wp_ai_manufacturing-ai/",
+    "https://data-viz-lab.com/data-structuring-for-generative-ai",
     "https://jp.dotdata.com/blog/genai-text-analysis-and-use-cases/",
-    "https://www.msiism.jp/article/genai-and-textmining.html",
     "https://qiita.com/seahawk/items/dac052f04656ffc5adb7"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 16
   },
   {
    "query": "structured analytic techniques ACH analysis of competing hypotheses generation verification separation",
@@ -1044,15 +1044,15 @@
     "https://www.jips.org/uploads/2021/10/JIPS-JointStructuredAnalysisTechniques-JSAT-Oct2021-1.pdf",
     "https://www.foi.se/download/18.7fd35d7f166c56ebe0bffd5/1542623691441/A-tool-for-generating_FOI-S--4390--SE.pdf",
     "https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses",
-    "https://anticitizenone.medium.com/analysis-of-competing-hypotheses-176bd8147dbc",
-    "https://www.semanticscholar.org/paper/The-%E2%80%9Canalysis-of-competing-hypotheses%E2%80%9D-in-analysis-Dhami-Belton/7259921c0524f064138c8d971cec2bab687ab6b6",
+    "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706",
+    "https://umbrex.com/resources/frameworks/competitive-intelligence-frameworks/analysis-of-competing-hypotheses/",
     "https://blog.eclecticiq.com/how-to-structure-analysis-of-competing-hypotheses-ach",
     "https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1408/RAND_RR1408.pdf",
     "https://intelligencenotes.com/08-Guides--and--Manuals/Analytical-Frameworks/Analysis-of-Competing-Hypotheses",
-    "https://www.futuribles.com/wp-content/uploads/related-documents/analysis-of-competing-hypotheses.pdf?postId=73706"
+    "https://sosintel.co.uk/mastering-the-analysis-of-competing-hypotheses-ach-a-practical-framework-for-clear-thinking/"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 13
@@ -1064,15 +1064,15 @@
     "https://note.com/tsunobuchi/n/n344cda1840c5",
     "https://note.com/anozaki/n/nd51ffc6dffe8",
     "https://note.com/tsunobuchi/n/n037e5cd3ee54",
+    "https://note.com/tsunobuchi/n/n7b192013ed4c",
     "https://note.com/betaitohuman/n/nd6bfb5c808e7",
     "https://note.com/f_bby__shota/n/n3558ea5d3ed1",
     "https://note.com/phonet_dx/n/n24552e241ef1",
-    "https://note.com/vijay_singh1970/n/n6ccb374af90f",
     "https://note.com/rtrtrtrt/n/nf07c4b5d8ef9",
-    "https://note.com/matomechannel/n/n2165d41341d8"
+    "https://note.com/vijay_singh1970/n/n6ccb374af90f"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -1080,19 +1080,19 @@
   {
    "query": "site:x.com 生成と検証の分離・競合仮説分析（情報機関のAI活用と構造化分析技法）",
    "results": [
-    "https://x.com/MakeAI_CEO/status/2043674800888119512",
-    "https://x.com/fujikawa/status/2117379851183362329",
-    "https://x.com/ai_jitan/article/2076056237654049218",
     "https://x.com/MLB_Connection/status/2117633720077398268",
-    "https://x.com/fujikawa/status/2119199547675361693",
-    "https://x.com/fujikawa/status/2113405959590867403",
-    "https://x.com/fujikawa/status/2118860150589284601",
+    "https://x.com/MakeAI_CEO/status/2043674800888119512",
+    "https://x.com/ai_jitan/article/2076056237654049218",
+    "https://x.com/fujikawa/status/2117379851183362329",
     "https://x.com/nekobuta33/status/2118534575572054500",
+    "https://x.com/fujikawa/status/2113405959590867403",
+    "https://x.com/fujikawa/status/2119199547675361693",
     "https://x.com/KagawaTomo/status/2117167013231816948",
-    "https://x.com/MakeAI_CEO/article/2094926606318150012"
+    "https://x.com/fujikawa/status/2118860150589284601",
+    "https://x.com/KagawaTomo/status/2119194011420565771"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -1100,16 +1100,16 @@
   {
    "query": "site:linkedin.com 生成と検証の分離・競合仮説分析（情報機関のAI活用と構造化分析技法）",
    "results": [
-    "https://jp.linkedin.com/pulse/daily-ai-work-pulse-4th-april-jeroen-ern%C3%A9-9jbxc?tl=ja",
+    "https://jp.linkedin.com/pulse/offensive-security-becoming-intelligence-problem-joas-a-santos-gaasf?tl=ja",
     "https://www.linkedin.com/in/ayuka-baba-605087113",
     "https://jp.linkedin.com/pulse/building-agent-cmo-what-ai-native-software-engineering-jae-w-lee-c1v1f?tl=ja",
+    "https://jp.linkedin.com/pulse/daily-ai-work-pulse-4th-april-jeroen-ern%C3%A9-9jbxc?tl=ja",
     "https://jp.linkedin.com/pulse/transmission-06-cognos-dusty-lynn-brown-msolq-3mnxc?tl=ja",
+    "https://jp.linkedin.com/in/kazutaka-takarabe-a4815634",
     "https://jp.linkedin.com/pulse/brief-already-out-date-sebastian-vedsted-jespersen-912ee?tl=ja",
     "https://jp.linkedin.com/in/seiko-yamaguchi/en",
-    "https://jp.linkedin.com/in/kazutaka-takarabe-a4815634",
     "https://jp.linkedin.com/pulse/neither-fish-nor-fowl-hybrid-operating-model-satisfies-divesh-singla-y0eyc?tl=ja",
-    "https://jp.linkedin.com/in/%E6%99%83%E4%B8%80-%E6%9C%89%E6%9D%91-237690145/en",
-    "https://jp.linkedin.com/pulse/quiet-quitting-building-our-changing-relationship-ambition-brewton-nleje?tl=ja"
+    "https://jp.linkedin.com/in/%E6%99%83%E4%B8%80-%E6%9C%89%E6%9D%91-237690145/en"
    ],
    "engines": [
     "ddgs:google",
@@ -1120,39 +1120,39 @@
   {
    "query": "site:facebook.com 生成と検証の分離・競合仮説分析（情報機関のAI活用と構造化分析技法）",
    "results": [
-    "https://www.facebook.com/groups/713390697225371/",
     "https://www.facebook.com/groups/548266103946448/posts/1327190169387367/",
+    "https://www.facebook.com/groups/713390697225371/",
     "https://www.facebook.com/kidera.yoshi/",
+    "https://www.facebook.com/100015175352703/posts/2723118811537271/",
     "https://www.facebook.com/groups/636937404041026/posts/1741092583625497/",
     "https://www.facebook.com/Gooseberry12000/photos/2001661470991893/",
+    "https://www.facebook.com/100015175352703/posts/%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%89%E3%83%A2%E3%83%8D%E3%81%AE%E7%9D%A1%E8%93%AE%E3%81%A8%E6%B1%A0%E7%94%B0%E9%9B%85%E5%85%89%E5%AD%A6%E3%81%AE%E9%80%A3%E5%8B%95%E6%80%A7%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%AF%94%E8%BC%83%E7%BE%8E%E5%AD%A6%E7%A0%94%E7%A9%B6%E8%87%AA%E7%84%B6%E5%85%89%E6%B0%B4%E9%9D%A2%E6%99%82%E9%96%93%E7%94%9F%E5%91%BD%E3%81%AE%E5%BE%AA%E7%92%B0%E3%81%A8ai%E3%81%AB%E3%82%88%E3%82%8B%E6%96%B0%E3%81%97%E3%81%84%E8%8A%B8%E8%A1%93%E5%89%B5%E7%94%9F%E4%BB%8A%E5%9B%9E%E3%81%AE%E7%A0%94%E7%A9%B6%E3%81%AF%E3%83%9E%E3%83%8D%E3%81%AB%E7%B6%9A%E3%81%84%E3%81%A6%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E5%8D%B0%E8%B1%A1%E6%B4%BE%E3%82%92%E4%BB%A3%E8%A1%A8%E3%81%99%E3%82%8B%E7%94%BB%E5%AE%B6/2721945304987955/",
     "https://www.facebook.com/iwashiro.manju/",
-    "https://www.facebook.com/kddibusiness/photos/生成aiで業務効率プロセスを変革-kddi社内コンテスト厳選アイデア事例をご紹介kddiでは実務における生成ai活用を推進していますその一環として今年で第2回目/1251943700067809/",
-    "https://www.facebook.com/100057639182191/posts/令和8年20262月3日本学の業務運営dx作業部会および生成ai活用検証イニシアチブgauti主催で生成-ai-と共創に向けた学びの場を開催しました-事務職員を/1422587116339248/",
-    "https://www.facebook.com/seminarbase/videos/新規事業で失敗する会社の共通点/2196483481132725/",
-    "https://www.facebook.com/anozaki/posts/先日参加した-知財dxユーザー祭り2026-の振り返りをnoteにアップしました生成aiを組織に実装する前に考えるべきこと知財dxユーザー祭り2026に参加して/28602977205986785/"
+    "https://www.facebook.com/p/%E8%BF%91%E8%97%A4%E9%82%A6%E6%98%8E-61555752112018/",
+    "https://www.facebook.com/100057639182191/posts/令和8年20262月3日本学の業務運営dx作業部会および生成ai活用検証イニシアチブgauti主催で生成-ai-と共創に向けた学びの場を開催しました-事務職員を/1422587116339248/"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 13
+   "n_hits": 16
   },
   {
    "query": "生成と検証の分離・競合仮説分析（情報機関のAI活用と構造化分析技法） note 社長",
    "results": [
     "https://note.com/everprogress/n/nc066813442e3",
     "https://note.com/tsunobuchi/n/n344cda1840c5",
-    "https://ximix.niandc.co.jp/column/how-will-generative-ai-change-data-analysis",
     "https://note.com/brave_quince241/n/n90eb278dbec7",
     "https://note.com/zenkok/n/n9d37a76fd4ad",
-    "https://note.com/valuesharing/n/n1097f4e9f8ea",
     "https://gen-ai-media.guga.or.jp/keyperson/ukyo-ogasawara/",
+    "https://note.com/okodukai_prompt/n/n36089dd52177",
     "https://www.j-techno.co.jp/seminar/seminar-76117/",
-    "https://yellowfin.co.jp/blog/jpblog-generative-ai-data-analysis/",
+    "https://note.com/valuesharing/n/n1097f4e9f8ea",
+    "https://www.jri.co.jp/file/advanced/advanced-technology/pdf/16353.pdf",
     "https://qiita.com/seahawk/items/dac052f04656ffc5adb7"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -1161,14 +1161,14 @@
    "query": "生成と検証の分離・競合仮説分析（情報機関のAI活用と構造化分析技法） X 投稿",
    "results": [
     "https://ximix.niandc.co.jp/column/generative-ai-competitive-analysis",
-    "https://note.com/brave_quince241/n/n90eb278dbec7",
-    "https://www.msiism.jp/article/genai-and-textmining.html",
-    "https://www.alteryx.com/ja/blog/generative-ai-use-cases",
-    "http://www.city.nanyo.yamagata.jp/dxchosei/5793",
+    "https://note.com/tsunobuchi/n/n344cda1840c5",
+    "https://wakara.co.jp/mathlog/20250810-2",
     "https://www.ipsj.or.jp/checkit/AI.html",
+    "https://www.alteryx.com/ja/blog/generative-ai-use-cases",
+    "https://www.msiism.jp/article/genai-and-textmining.html",
+    "http://www.city.nanyo.yamagata.jp/dxchosei/5793",
     "https://techblog.zozo.com/entry/ai-ready-data-analysis-flow",
     "https://www.gijutu.co.jp/doc/b_2355.htm",
-    "https://www.soumu.go.jp/main_content/001006039.pdf",
     "https://qiita.com/seahawk/items/dac052f04656ffc5adb7"
    ],
    "engines": [
@@ -1182,24 +1182,23 @@
    "results": [
     "https://pl.linkedin.com/in/thanke",
     "https://www.linkedin.com/in/andydunn8",
-    "https://www.linkedin.com/in/prasanthnandanuru",
     "https://www.linkedin.com/learning/advanced-strategic-threat-intelligence-research-and-reporting/analysis-of-competing-hypotheses-ach",
     "https://www.linkedin.com/pulse/analysis-competing-hypotheses-ach-powerful-tool-aml-damián",
-    "https://uk.linkedin.com/posts/ole-donner_psychology-of-intelligence-analysis-richards-activity-7023923723569135616-5dds",
     "https://in.linkedin.com/posts/ole-donner_analysis-of-competing-hypotheses-for-digital-activity-7025432512029970433-Zwcj",
-    "https://pe.linkedin.com/posts/dr-avner-barnea-90055_analysis-of-competing-hypotheses-an-overview-activity-7127649525468397570-tUll",
     "https://nl.linkedin.com/posts/ole-donner_how-to-perform-an-analysis-of-competing-hypotheses-activity-7041687135061438464-l44Z",
-    "https://www.linkedin.com/learning/advanced-strategic-threat-intelligence-research-and-reporting/structured-analytic-techniques-sats"
+    "https://uk.linkedin.com/posts/ole-donner_psychology-of-intelligence-analysis-richards-activity-7023923723569135616-5dds",
+    "https://pe.linkedin.com/posts/dr-avner-barnea-90055_analysis-of-competing-hypotheses-an-overview-activity-7127649525468397570-tUll",
+    "https://www.linkedin.com/posts/apophis133_cti-activity-7299235871881400320-RwNB"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 10
+   "n_hits": 9
   }
  ],
  "missing": {},
  "new_this_run": {},
- "runs": 24,
+ "runs": 25,
  "first_researched_at": "2026-11-05T04:36:16.255544+00:00"
 }

@@ -1,0 +1,411 @@
+{
+ "name": "有限会社モリモト機工",
+ "aliases": [],
+ "context": "ipros_all:単品",
+ "researched_at": "2026-11-11T11:05:37.980814+00:00",
+ "official_url": "https://morimoto-kiko.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所 在 地",
+    "value": "〒373-0825 群馬県太田市高林東町1738",
+    "url": "https://morimoto-kiko.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒373-0825 群馬県太田市高林東町1738",
+    "url": "https://www.atengineer.com/pr/morimoto-kiko/company",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "7名",
+    "url": "https://morimoto-kiko.com/company/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代  　表",
+    "value": "守本　直樹",
+    "url": "https://morimoto-kiko.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "代表者名",
+    "value": "守本直樹",
+    "url": "https://www.atengineer.com/pr/morimoto-kiko/company",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業案内",
+    "value": "機械フレーム製作、製缶加工、溶接加工、機械加工、機械設計製作",
+    "url": "https://morimoto-kiko.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "適格請求書発行事業者 登録番号",
+    "value": "T2-0700-0203-1299",
+    "url": "https://morimoto-kiko.com/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "の大型製品までお客様のご要望に迅速にお応えします",
+    "url": "https://morimoto-kiko.com/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、工具交換を含む金属加工をコンピュータ制御で行うことができるマシニングセンタという工作機械を使用し、高精度な製品を製作しています",
+    "url": "https://morimoto-kiko.com/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "、製品・技術・サービス",
+    "url": "https://www.atengineer.com/pr/morimoto-kiko/company",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社モリモト機工の製品・技術・サービス",
+    "url": "https://www.atengineer.com/pr/morimoto-kiko/company",
+    "pass": 3
+   },
+   {
+    "quote": "手のひらサイズから4ｍ超えの大型製品までお客様のご要望に迅速にお応えします",
+    "url": "https://www.atengineer.com/pr/morimoto-kiko/company",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "を得意としているため、試作品・特注品など",
+    "url": "https://morimoto-kiko.com/",
+    "pass": 1
+   },
+   {
+    "quote": "を得意としておりますので、特注品・試作品など1個から承ります",
+    "url": "https://www.atengineer.com/pr/morimoto-kiko/company",
+    "pass": 3
+   },
+   {
+    "quote": "単品・小ロット・量産（最大300個/月）に対応",
+    "url": "https://www.atengineer.com/pr/morimoto-kiko/company",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "創立以降、社会の一員であるという責任感をもち、建設・自動車産業など様々な分野でモノづくりに励んできました",
+    "url": "https://morimoto-kiko.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "北関東自動車道 太田桐生ICより車で約22分",
+    "url": "https://morimoto-kiko.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "東北自動車道 館林ICより車で約38分",
+    "url": "https://morimoto-kiko.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "SS400 ロボット回転治具",
+    "url": "https://morimoto-kiko.com/works/",
+    "pass": 1
+   },
+   {
+    "quote": "SS400 ロボット架台",
+    "url": "https://morimoto-kiko.com/works/",
+    "pass": 1
+   },
+   {
+    "quote": "SS400 ブラケット 100x150x300",
+    "url": "https://morimoto-kiko.com/works/",
+    "pass": 1
+   },
+   {
+    "quote": "SS400 治具",
+    "url": "https://morimoto-kiko.com/works/",
+    "pass": 1
+   },
+   {
+    "quote": "溶接機、ロボットシステム、食品製造機、自動車部品製造機 など",
+    "url": "https://morimoto-kiko.com/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "ブラケット、スタンド、ベースプレート、ゲージ、ステー、ツメ、固定金具、治具 など",
+    "url": "https://morimoto-kiko.com/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "SS400 治具",
+    "url": "https://morimoto-kiko.com/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "建設・自動車・半導体分野などの製缶・溶接・機械加工を得意とする会社です",
+    "url": "https://www.atengineer.com/pr/morimoto-kiko/company",
+    "pass": 3
+   },
+   {
+    "quote": "分野は建設・自動車・半導体・農業・土木・食品分野など多岐にわたります",
+    "url": "https://www.atengineer.com/pr/morimoto-kiko/company",
+    "pass": 3
+   },
+   {
+    "quote": "機械架台、ロボット架台、機械フレーム、産業機械用部品、",
+    "url": "https://www.atengineer.com/pr/morimoto-kiko/company",
+    "pass": 3
+   },
+   {
+    "quote": "治具、産業機械用部品等",
+    "url": "https://www.atengineer.com/pr/morimoto-kiko/company",
+    "pass": 3
+   },
+   {
+    "quote": "プリハードン鋼（プラスチック金型用鋼）（NAK材）",
+    "url": "https://www.atengineer.com/pr/morimoto-kiko/company",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "モリモト機工｜群馬県太田市 製缶・溶接・機械加工・マシニング加工 — 【製缶・溶接・機械加工】群馬県太田市にある当社では、主に産業機械用フレームや切削加工部品をはじめとした各種機械用部品を製作しています。指先サイズから4m超えの大型製缶品まで1個から製作できます。 法人様はもちろん、個人様もお気軽にお問い合わせください。",
+    "url": "https://morimoto-kiko.com/",
+    "pass": 3
+   },
+   {
+    "quote": "【受託製造サービス】各種産業機械の製缶・溶接加工 モリモト機工 | ... — 分野は建設・自動車・半導体・農業分野など多岐にわたります。 当社は単品加工を得意としているため、試作品・特注品など1個から承ります。 指先サイズ～4m超えの大型製品までお客様のご要望に迅速にお応えします。",
+    "url": "https://mono.ipros.com/product/detail/2000617914/",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 - 有限会社 モリモト機工有限会社モリモト機工 - 会社概要モリモト株式会社 MORIMOTO CO., LTD.｜日本・石川県のジャカードアク...会社案内 - 株式会社モリモト会社概要｜会社情報｜株式会社モリモト事業内容 | 有限会社みのり機工 | 重工業・医療・食品・電子業界の部... — 群馬県太田市にある当社では、主に産業機械用フレーム・架台・部品を製作しています。手のひらサイズから4m超えの大型製品まで1個から製作できます。 企業プロフィール 企業名 有限会社モリモト機工 企業名かな モリモトキコウ 住所 〒373-0825 群馬県太田市高林東町1738 最寄り駅 東武伊勢崎線 太田駅より車で約13分 東武小泉線 西小泉駅より車で約8分 代表者名 守本直樹 設立年月日 1997年06月05日 資本金 300万円 ホームページ 有限会社モリモト機 ... DOMAIN ",
+    "url": "https://morimoto-kiko.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社モリモト機工 - 会社概要 — 企業プロフィール 企業名 有限会社モリモト機工 企業名かな モリモトキコウ 住所 〒373-0825 群馬県太田市高林東町1738 最寄り駅 東武伊勢崎線 太田駅より車で約13分 東武小泉線 西小泉駅より車で約8分 代表者名 守本直樹 設立年月日 1997年06月05日 資本金 300万円 ホームページ 有限会社モリモト機 ...",
+    "url": "https://www.atengineer.com/pr/morimoto-kiko/company",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://morimoto-kiko.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morimoto-kiko.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morimoto-kiko.com/works/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morimoto-kiko.com/machining/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morimoto-kiko.com/facility/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morimoto-kiko.com/2025/12/11/%E3%83%AF%E3%82%A4%E3%83%A4%E6%94%BE%E9%9B%BB%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%82%92%E5%B0%8E%E5%85%A5%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://3d-moroto.com/prototype/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-moroto.com/case_category/prototype/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://morpha.co.jp/work/precision/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atengineer.com/pr/morimoto-kiko/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morimoto-real.co.jp/corporate/outline.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "モリモト機工 取扱製品 試作 小ロット",
+   "results": [
+    "https://3d-moroto.com/prototype/",
+    "https://3d-moroto.com/case_category/prototype/",
+    "https://morpha.co.jp/work/precision/",
+    "https://morimoto-kiko.com/",
+    "https://mono.ipros.com/product/detail/2000617914/",
+    "https://morimoto-corp.jp/",
+    "http://morimoto-corp.jp/products/metal_processing.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "モリモト機工 会社概要 事業内容",
+   "results": [
+    "https://morimoto-kiko.com/company/",
+    "https://www.atengineer.com/pr/morimoto-kiko/company",
+    "https://www.morimoto-real.co.jp/corporate/outline.html",
+    "https://morimoto-kiko.com/",
+    "http://www.minorikiko.jp/item.html",
+    "https://www.mmpro.co.jp/",
+    "https://morimoto-corp.jp/company/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "モリモト機工 お問い合わせ メール",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com モリモト機工",
+   "results": [
+    "https://note.com/mor_mot",
+    "https://money.note.com/rankings/産業用機械/market_cap_desc",
+    "https://note.com/m0r1m0t0",
+    "https://tales.note.com/umezaki/w031tgyu3w9c9",
+    "https://tales.note.com/",
+    "https://note.com/players_gia/n/n0b502ed7e5a7",
+    "https://note.com/mhib0625/n/n941f02551519"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com モリモト機工",
+   "results": [
+    "https://x.com/",
+    "https://help.x.com/en/using-x/download-the-x-app",
+    "https://x.com/i/trending/2072830671085523263",
+    "https://help.x.com/zh-tw/using-x",
+    "https://x.com/m0r1m0t0",
+    "https://x.com/05qgL9AK7GT0cQd/status/2120310741618315392",
+    "https://x.com/nx_morimoto"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com モリモト機工",
+   "results": [
+    "https://jp.linkedin.com/in/智雄-森元-344a8438a",
+    "https://www.linkedin.com/check/en",
+    "https://nl.linkedin.com/in/rima-husseini-8873a6364",
+    "https://jp.linkedin.com/company/（株）モリモト",
+    "https://gb.linkedin.com/",
+    "https://www.linkedin.com/jobs/豊臣機工（株）-jobs-worldwide",
+    "https://cl.linkedin.com/in/paul-andrés-chateau-undurraga-8266842b7"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com モリモト機工",
+   "results": [
+    "https://www.facebook.com/morimotocran/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/charlemorimoto/",
+    "https://www.facebook.com/login.php/",
+    "https://www.facebook.com/100048962485747/",
+    "https://www.facebook.com/morimotorent.official/",
+    "https://www.facebook.com/p/Morimoto-COLTD-モリモト株式会社-100052650356789/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "モリモト機工 note 社長",
+   "results": [
+    "https://morimoto-kiko.com/",
+    "https://morimoto-kiko.com/company/",
+    "https://morimoto-real.co.jp/corporate/officer.html",
+    "https://jp.linkedin.com/in/智雄-森元-344a8438a",
+    "https://morimoto-corp.jp/company/",
+    "https://www.morimoto-real.co.jp/corporate/news/20250625.pdf",
+    "https://jobtalk.jp/companies/3486/answers?question_codes=president"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "モリモト機工 X 投稿",
+   "results": [
+    "https://morimoto-kiko.com/author/admin/",
+    "https://morimoto-kiko.com/",
+    "https://mono.ipros.com/product/detail/2000587964/",
+    "https://x.com/Morimotoaaaaa/status/2111631459933118759",
+    "https://x.com/Morimotoaaaaa/status/2107315847454941629",
+    "https://www.morimotogumi.co.jp/",
+    "https://www.zokeisha.co.jp/motomoto/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部5頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部5頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部5頁・検索9回）",
+  "取扱材料": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部5頁・検索9回）",
+  "AM関連": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部5頁・検索9回）",
+  "連絡先": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部5頁・検索9回）"
+ }
+}

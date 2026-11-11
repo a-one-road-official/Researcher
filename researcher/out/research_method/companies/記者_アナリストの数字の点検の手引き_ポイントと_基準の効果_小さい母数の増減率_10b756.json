@@ -8,23 +8,39 @@
  ],
  "context": "推定",
  "kind": "market",
- "researched_at": "2026-11-09T12:40:42.915725+00:00",
+ "researched_at": "2026-11-11T10:50:22.487404+00:00",
  "evidence": {
-  "失敗・落とし穴": [
+  "手順・やり方": [
    {
-    "quote": "<h3><strong>2. Be extra cautious when comparing percentages because this is where many people make mistakes.</strong></h3>",
-    "url": "https://journalistsresource.org/home/percent-change-math-for-journalists/",
+    "quote": "WEBINAR: How to Edit Data Stories in the Age of AI?",
+    "url": "https://gijn.org/stories/4-tips-for-avoiding-math-errors-when-reporting/",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-11"
    },
    {
-    "quote": "2. Be extra cautious when comparing percentages because this is where many people make mistakes.",
-    "url": "https://journalistsresource.org/home/percent-change-math-for-journalists/",
+    "quote": "step-by-step instructions",
+    "url": "https://gijn.org/stories/4-tips-for-avoiding-math-errors-when-reporting/",
     "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
-  "手順・やり方": [
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "of Reuters led the session, “How to Approach Stats In Your Story.”",
+    "url": "https://gijn.org/stories/4-tips-for-avoiding-math-errors-when-reporting/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Interpreting Data: Tips to Make Sure You Know How to Read the Numbers",
+    "url": "https://gijn.org/stories/4-tips-for-avoiding-math-errors-when-reporting/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "<li>Investigative Reporters and Editors (IRE) typically hosts workshops focusing on statistical literacy during its annual conferences. At IRE&rsquo;s annual data journalism conference in 2021, LaFleur and colleague <a href=\"https://twitter.com/JaimiDowdell\">Jaimi Dowdell</a>&nbsp;of Reuters led the session, &ldquo;How to Approach Stats In Your Story.&rdquo;</li>",
+    "url": "https://gijn.org/stories/4-tips-for-avoiding-math-errors-when-reporting/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
    {
     "quote": "<p>While you can do the math yourself with these <a href=\"https://www.mathsisfun.com/numbers/percentage-change.html\">step-by-step instructions</a>, it’s easy to find a percentage change calculator online.</p>",
     "url": "https://journalistsresource.org/home/percent-change-math-for-journalists/",
@@ -70,6 +86,18 @@
   ],
   "実例": [
    {
+    "quote": "As an example, let’s say state legislators set aside $30 million to fund a new traffic safety program in 2021. This year, they budgeted $38 million.",
+    "url": "https://gijn.org/stories/4-tips-for-avoiding-math-errors-when-reporting/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "When you add or subtract percentages — for example, when you subtract the percentage of children diagnosed with autism in 1981 from the percentage diagnosed in 2021 — describe the result using percentage points.",
+    "url": "https://gijn.org/stories/4-tips-for-avoiding-math-errors-when-reporting/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
     "quote": "<p>As an example, let’s say state legislators set aside $30 million to fund a new traffic safety program in 2021. This year, they budgeted $38 million.</p>",
     "url": "https://journalistsresource.org/home/percent-change-math-for-journalists/",
     "pass": 3,
@@ -93,48 +121,33 @@
     "pass": 3,
     "first_seen": "2026-11-09"
    }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "2. Be extra cautious when comparing percentages, because this is where many people make mistakes.",
+    "url": "https://gijn.org/stories/4-tips-for-avoiding-math-errors-when-reporting/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "<h3><strong>2. Be extra cautious when comparing percentages because this is where many people make mistakes.</strong></h3>",
+    "url": "https://journalistsresource.org/home/percent-change-math-for-journalists/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "2. Be extra cautious when comparing percentages because this is where many people make mistakes.",
+    "url": "https://journalistsresource.org/home/percent-change-math-for-journalists/",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/kagawatomo/n/n509e3f985875",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/lukehide/n/n41e8aa61f7e6",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/kagawatomo/n/n704995757996",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/all_zero/n/nf802b0141ff6",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/marusho_1266/n/n7a0b255cf8f2",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/ichi_twnovel/n/n56533998f7d3",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/t_note_memo/n/n5f463357da7f",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/ku2t/n/n73300b122872",
+    "url": "https://note.com/report_check_lab",
     "status": "ok",
     "method": "http"
    },
@@ -144,77 +157,122 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/fumika_pen7/n/n936f0d9af374",
+    "url": "https://note.com/report_check_lab/n/n710cbd0ecc36",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.help-note.com/hc/ja/articles/40855099018777-%E3%82%A2%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9-%CE%B2-%E8%A8%98%E4%BA%8B%E3%82%92%E5%88%86%E6%9E%90%E3%81%99%E3%82%8B",
+    "url": "https://note.com/moral_yarrow7487/n/n33648d3ecf26",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ai_company30/n/n36c20b984d9e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tsuki_sidebiz/n/n51a41c0cd68e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/prime_clam604/n/n8cf0a23fd026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/nooknest2025-tech/note-analytics-kit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hina_no_note/n/n383aa22aa4b0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://notematic.hatenablog.com/entry/2026/06/14/192640_1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ideatech.jp/column/1o7bvptr/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://report.prism-ai.jp/report-numerical-notation-guide/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japump.co.jp/sns-column/bunseki-yarikata/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kodachi.jp/column/claude-data-anomaly-check/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.chosakai.gr.jp/oshirase/%E3%80%8E%E8%A8%98%E8%80%85%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%87%E3%83%BC%E3%82%BF%E6%B4%BB%E7%94%A8%E3%83%8F%E3%83%B3%E3%83%89%E3%83%96%E3%83%83%E3%82%AF-3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://listen.style/p/ktptjzrf/exqngmlg",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/pulse/trusting-story-numbers-how-journalists-reporting-mcdougall-mba-hvcte?tl=ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://kanautech.jp/blog/shachou-dashboard-5w1h-checklist",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jsda.or.jp/about/content/sannkou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://taskhub.jp/useful/ocr-number/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/kanautechjp/status/2113472984295862644",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/8993b6ae-e3d2-4d34-afe1-5c722d8e516f/1e7bc70b/20250325_policies_manual-analog-regulation-review_outline_01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://gijn.org/stories/4-tips-for-avoiding-math-errors-when-reporting/",
     "status": "ok",
     "method": "browser"
    },
    {
-    "url": "https://note.com/hirotakai/n/n9ef7c781f9cc",
+    "url": "https://datainteractivej.com/data/numeracy-for-journalists/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-39231?contdisp=inline",
-    "status": "ok",
-    "method": "table"
-   },
-   {
-    "url": "https://kyodonewsprwire.jp/corp/shioj/3112/",
+    "url": "https://lab.imedd.org/en/data-donts-expert-tips-to-avoid-misleading-audiences-with-numbers/",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://blog.cd-j.net/pr-skill/medialist/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://fr.readyfor.jp/article/20240920",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.clair.or.jp/j/forum/c_mailmagazine/201302_2/3-1.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.worldoftest.com/ja/print/pdf/node/6768",
-    "status": "http_403",
-    "method": "http"
-   },
-   {
-    "url": "https://www.saa.or.jp/pb/shikaku/magazine/index.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.mhlw.go.jp/stf/newpage_67518.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.soumu.go.jp/main_content/000937342.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.fsa.go.jp/common/law/guide/kinyushohin/03.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.nikkei.com/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.nidec.com/files/user/www-nidec-com/corporate/news/2026/0303-01/260303-01jp.pdf",
+    "url": "https://files.eric.ed.gov/fulltext/EJ1474591.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -224,28 +282,8 @@
     "method": "http"
    },
    {
-    "url": "https://datainteractivej.com/data/numeracy-for-journalists/",
+    "url": "https://smussenden.github.io/coursefiles/data_journalism_interactive_textbook/appendix-math.html",
     "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.skillsyouneed.com/num/percent-change.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.khanacademy.org/economics-finance-domain/macroeconomics/macro-economic-indicators-and-the-business-cycle/macro-real-vs-nominal-gdp/a/adjusting-nominal-values-to-real-values-cnx",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.dallasfed.org/research/basics/nominal",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.stlouisfed.org/publications/page-one-economics/2023/01/03/adjusting-for-inflation",
-    "status": "network_error:ReadTimeout",
     "method": "http"
    }
   ]
@@ -254,133 +292,109 @@
   {
    "query": "記者・アナリストの数字の点検の手引き（ポイントと%・基準の効果・小さい母数の増減率・1人あたり・平均と中央値・実質と名目・合計が合わない表・Poynter Math for Journalists・Journalist's Resource・4-118） site:note.com",
    "results": [
-    "https://note.com/kagawatomo/n/n509e3f985875",
-    "https://note.com/lukehide/n/n41e8aa61f7e6",
-    "https://note.com/kagawatomo/n/n704995757996",
-    "https://note.com/all_zero/n/nf802b0141ff6",
-    "https://note.com/marusho_1266/n/n7a0b255cf8f2",
-    "https://note.com/ichi_twnovel/n/n56533998f7d3",
-    "https://note.com/space_buddha/n/n8d78c3b5908b",
-    "https://note.com/tasuto11/n/n7df4c0e455ae",
-    "https://note.com/kagawatomo/n/nf8f6b50d6072",
-    "https://note.com/ample_orca8522/n/n66a338c5e021"
+    "https://note.com/report_check_lab",
+    "https://note.com/ai_kotsukotsu/n/nb0b985e4efc6",
+    "https://note.com/report_check_lab/n/n710cbd0ecc36",
+    "https://note.com/moral_yarrow7487/n/n33648d3ecf26",
+    "https://note.com/ai_company30/n/n36c20b984d9e",
+    "https://note.com/tsuki_sidebiz/n/n51a41c0cd68e",
+    "https://note.com/zenai/n/nef29a49ad6c8"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 17
+   "n_hits": 7
   },
   {
    "query": "記者・アナリストの数字の点検の手引き（ポイントと%・基準の効果・小さい母数の増減率・1人あたり・平均と中央値・実質と名目・合計が合わない表・Poynter Math for Journalists・Journalist's Resource・4-118） note",
    "results": [
-    "https://note.com/t_note_memo/n/n5f463357da7f",
-    "https://note.com/ku2t/n/n73300b122872",
-    "https://note.com/ai_kotsukotsu/n/nb0b985e4efc6",
-    "https://note.com/fumika_pen7/n/n936f0d9af374",
-    "https://www.help-note.com/hc/ja/articles/40855099018777-%E3%82%A2%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9-%CE%B2-%E8%A8%98%E4%BA%8B%E3%82%92%E5%88%86%E6%9E%90%E3%81%99%E3%82%8B",
-    "https://note.com/hirotakai/n/n9ef7c781f9cc",
-    "https://note.com/wise_gerbil1934/n/ncada0458b2f7",
-    "https://www.worldoftest.com/ja/print/pdf/node/6768",
-    "https://note.com/tac_life/n/nf744cafbd1f9",
-    "https://github.com/nooknest2025-tech/note-analytics-kit"
+    "https://note.com/prime_clam604/n/n8cf0a23fd026",
+    "https://github.com/nooknest2025-tech/note-analytics-kit",
+    "https://note.com/hina_no_note/n/n383aa22aa4b0",
+    "https://notematic.hatenablog.com/entry/2026/06/14/192640_1",
+    "https://ideatech.jp/column/1o7bvptr/",
+    "https://report.prism-ai.jp/report-numerical-notation-guide/",
+    "https://listen.style/p/ktptjzrf/exqngmlg"
    ],
    "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "記者・アナリストの数字の点検の手引き（ポイントと%・基準の効果・小さい母数の増減率・1人あたり・平均と中央値・実質と名目・合計が合わない表・Poynter Math for Journalists・Journalist's Resource・4-118） やり方",
    "results": [
-    "https://www.iadb.org/ja/viewer/EZIDB0000171-1375635338-39231",
-    "https://kyodonewsprwire.jp/corp/shioj/3112/",
-    "https://blog.cd-j.net/pr-skill/medialist/",
-    "https://fr.readyfor.jp/article/20240920",
-    "https://www.clair.or.jp/j/forum/c_mailmagazine/201302_2/3-1.pdf",
-    "https://www.worldoftest.com/ja/print/pdf/node/6768",
-    "https://yahimaro.com/inspection/inspection-checklist/",
-    "https://bizwrite.jp/note/checklist/checklist_pr_press.html",
-    "https://www.meti.go.jp/meti_lib/report/2022FY/000670.pdf",
-    "https://japump.co.jp/sns-column/bunseki-yarikata/"
+    "https://japump.co.jp/sns-column/bunseki-yarikata/",
+    "https://ideatech.jp/column/1o7bvptr/",
+    "https://kodachi.jp/column/claude-data-anomaly-check/",
+    "https://www.chosakai.gr.jp/oshirase/『記者のためのオープンデータ活用ハンドブック-3/",
+    "https://listen.style/p/ktptjzrf/exqngmlg",
+    "https://jp.linkedin.com/pulse/trusting-story-numbers-how-journalists-reporting-mcdougall-mba-hvcte?tl=ja",
+    "https://report.prism-ai.jp/report-numerical-notation-guide/"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "記者・アナリストの数字の点検の手引き（ポイントと%・基準の効果・小さい母数の増減率・1人あたり・平均と中央値・実質と名目・合計が合わない表・Poynter Math for Journalists・Journalist's Resource・4-118） 事例",
    "results": [
-    "https://www.saa.or.jp/pb/shikaku/magazine/index.html",
-    "https://blog.cd-j.net/pr-skill/medialist/",
-    "https://www.mhlw.go.jp/stf/newpage_67518.html",
-    "https://www.soumu.go.jp/main_content/000937342.pdf",
-    "https://www.fsa.go.jp/common/law/guide/kinyushohin/03.html",
-    "https://www.nikkei.com/",
-    "https://www.nidec.com/files/user/www-nidec-com/corporate/news/2026/0303-01/260303-01jp.pdf",
-    "https://www.meti.go.jp/meti_lib/report/2022FY/000670.pdf",
-    "https://www.lrqa.com/ja-jp/resources/?filter1=694&sort=0",
-    "https://ideatech.jp/column/1o7bvptr/"
+    "https://ideatech.jp/column/1o7bvptr/",
+    "https://kanautech.jp/blog/shachou-dashboard-5w1h-checklist",
+    "https://www.chosakai.gr.jp/oshirase/『記者のためのオープンデータ活用ハンドブック-3/",
+    "https://www.jsda.or.jp/about/content/sannkou.pdf",
+    "https://taskhub.jp/useful/ocr-number/",
+    "https://x.com/kanautechjp/status/2113472984295862644",
+    "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/8993b6ae-e3d2-4d34-afe1-5c722d8e516f/1e7bc70b/20250325_policies_manual-analog-regulation-review_outline_01.pdf"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "journalism numeracy guide percent change base effect per capita inflation adjustment errors",
    "results": [
-    "https://journalistsresource.org/home/percent-change-math-for-journalists/",
+    "https://gijn.org/stories/4-tips-for-avoiding-math-errors-when-reporting/",
     "https://datainteractivej.com/data/numeracy-for-journalists/",
-    "https://www.skillsyouneed.com/num/percent-change.html",
-    "https://www.khanacademy.org/economics-finance-domain/macroeconomics/macro-economic-indicators-and-the-business-cycle/macro-real-vs-nominal-gdp/a/adjusting-nominal-values-to-real-values-cnx",
-    "https://www.dallasfed.org/research/basics/nominal",
-    "https://www.youtube.com/watch?v=mRsfsEnVj8w",
-    "https://www.stlouisfed.org/publications/page-one-economics/2023/01/03/adjusting-for-inflation",
-    "https://oertx.highered.texas.gov/courseware/lesson/1907/student-old/?task=3",
-    "https://www.bls.gov/cpi/questions-and-answers.htm",
-    "https://gijn.org/stories/4-tips-for-avoiding-math-errors-when-reporting/"
+    "https://lab.imedd.org/en/data-donts-expert-tips-to-avoid-misleading-audiences-with-numbers/",
+    "https://files.eric.ed.gov/fulltext/EJ1474591.pdf",
+    "https://journalistsresource.org/home/percent-change-math-for-journalists/",
+    "https://smussenden.github.io/coursefiles/data_journalism_interactive_textbook/appendix-math.html",
+    "https://ajh.rodrigozamith.com/creating-journalistic-content/integrating-quantitative-information/"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:bing"
    ],
-   "n_hits": 15
+   "n_hits": 7
   },
   {
    "query": "site:note.com 記者・アナリストの数字の点検の手引き（ポイントと%・基準の効果・小さい母数の増減率・1人あたり・平均と中央値・実質と名目・合計が合わない表・Poynter Math for Journalists・Journalist's Resource・4-118）",
    "results": [
-    "https://note.com/ichi_twnovel/n/ncbbb3b6bdd68",
-    "https://note.com/ichi_twnovel/n/nc49098104ba2",
-    "https://note.com/kikuyosi/n/n6dff3e4a06d6",
-    "https://note.com/fictitiousness/n/naa61518182a4",
-    "https://note.com/yomidokoro/n/nebb71b3d6555",
     "https://note.com/report_check_lab",
-    "https://note.com/aitrigger_ax/n/n4a0718da148a",
+    "https://note.com/report_check_lab/n/n710cbd0ecc36",
     "https://note.com/moral_yarrow7487/n/n33648d3ecf26",
+    "https://note.com/ai_company30/n/n36c20b984d9e",
     "https://note.com/zenai/n/nef29a49ad6c8",
-    "https://note.com/kind_rail6975/n/n2233faa496ec"
+    "https://note.com/tsuki_sidebiz/n/n51a41c0cd68e",
+    "https://note.com/noted_fox391/n/nb1cc0d31e51a"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 12
+   "n_hits": 7
   },
   {
    "query": "site:x.com 記者・アナリストの数字の点検の手引き（ポイントと%・基準の効果・小さい母数の増減率・1人あたり・平均と中央値・実質と名目・合計が合わない表・Poynter Math for Journalists・Journalist's Resource・4-118）",
    "results": [
     "https://x.com/kanautechjp/status/2113472984295862644",
-    "https://x.com/kanda_daisuke/status/1162523808697208832",
-    "https://x.com/Kumada_SlowNews/status/2097876321825366065",
-    "https://x.com/asahi_ai_x/status/2109538810958918064",
-    "https://x.com/oyashima787/status/2048229372319125916",
+    "https://x.com/kawakenka/status/2118871053967458359",
     "https://x.com/thjqs/status/2108781418558153105",
-    "https://x.com/Mar_3simai/status/2099473803684594122"
+    "https://x.com/Gunsou_Ai/status/2118186604242309124",
+    "https://x.com/kanda_daisuke/status/1162523808697208832",
+    "https://x.com/Mar_3simai/status/2099473803684594122",
+    "https://x.com/ogurapunk/status/2112474042783740221"
    ],
    "engines": [
     "ddgs:google"
@@ -390,29 +404,45 @@
   {
    "query": "site:linkedin.com 記者・アナリストの数字の点検の手引き（ポイントと%・基準の効果・小さい母数の増減率・1人あたり・平均と中央値・実質と名目・合計が合わない表・Poynter Math for Journalists・Journalist's Resource・4-118）",
    "results": [
-    "https://at.linkedin.com/in/strahberger",
-    "https://www.linkedin.com/posts/yuki-sugi-74168011_ｉｒは広報より役立つ-vol2-activity-7348244985684664321-QKZB",
+    "https://www.linkedin.com/in/federico-stubbe-jr-68886013",
+    "https://www.linkedin.com/in/udaykumarraju",
+    "https://ie.linkedin.com/in/morten-andersen-1517152",
     "https://ro.linkedin.com/in/silvia-maican-0989a117",
     "https://jp.linkedin.com/pulse/trusting-story-numbers-how-journalists-reporting-mcdougall-mba-hvcte?tl=ja",
     "https://jp.linkedin.com/pulse/提案書の数字どれが最新か迷わないために食い違いを溜めないai活用4つのコツ-hiroaki-mori-vlj2c",
-    "https://www.linkedin.com/posts/亮祐-寺光-a14065226_数字が苦手だったメルカリのデータアナリストが教えるデータ分析の第一歩-activity-7163500968188268545-Uqy4",
     "https://hr.linkedin.com/posts/konnotomo_ibm-cloudはミッションクリティカルにフォーカス貢献していく-activity-7004374408752488448-gEeq"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
   {
    "query": "site:facebook.com 記者・アナリストの数字の点検の手引き（ポイントと%・基準の効果・小さい母数の増減率・1人あたり・平均と中央値・実質と名目・合計が合わない表・Poynter Math for Journalists・Journalist's Resource・4-118）",
    "results": [
-    "https://www.facebook.com/SAAJ1962/posts/企業分析ワークショップ開催レポート-数字の裏づけが伝えるをより強力に-ニュースを読み解く力効率的な情報収集力正しく分析し仮説を立てる力こうしたビジネススキルはど/2437912063164847/",
+    "https://www.facebook.com/freon.co.jp/posts/教えてフロン排出抑制法簡易点検の手引きに掲載されているチェックシートは具体的に何を記載すればいいの異常の有無を記載するのか/1988048388098557/",
     "https://www.facebook.com/moltsinc/photos/教えて-the-moltsデータが抜け漏れなく正しく取れているかどうか不安だけどどこから手直しするかがわからない社内コンテンツマーケターの違和感があるデータどこ/1300977045367061/",
-    "https://www.facebook.com/nikkyo.web/posts/新着動画ですn90-記者のイチオシ23-1人1台活用の手引-動画で記者自ら記事を解説するn90-記者のイチオシ2021年4月26日1人1台活用の手引の回ですht/809889759649138/",
-    "https://www.facebook.com/ntaapage/photos/taの露出度3月下旬恒例の新年度の相場見通しが日経新聞に掲載されたご覧になられた方も多いと思うそこに選ばれた専門家と称する4人は当然のことながら全員が株式のスト/731616303549241/",
-    "https://www.facebook.com/yamazkimakoto/videos/緩やかに沈む日本5つの数字が示す危機ひとつの党-代表記者会見-01これは危機ではありません緩やかな沈没です5つの数字-出生数68万6千人実質賃金3年連続マイナス/939021982347566/",
-    "https://www.facebook.com/subnumerology/posts/第２期のアナリストコースが終了しました-アナリストコースとは鑑定と分析に特化した３ヶ月のコースマスター認定以上の方が受講できる上級コースです-最終回のカリキュラ/1064694157023300/",
-    "https://www.facebook.com/investment.meigen/posts/証券会社のアナリストは株式市場の動向を調べ水晶球を見つめ細かな数字の計算をしたりスポンサー付きの旅に出る以前に基本的な責務顧客を儲けさせる仕事を果たすべきである/476680635746185/"
+    "https://www.facebook.com/freon.co.jp/posts/教えてフロン排出抑制法簡易点検の手引きに掲載されているチェックシートは具体的に何を記載すればいいの異常の有無を記載するのか-httpstcoe4pqffrsva/2041267729443289/",
+    "https://www.facebook.com/CompTIAJP/videos/careers-データアナリストkeyポイントは3つ①数字の表面だけにとらわれず組織の業務の奥に潜む価値あるデータの傾向を見抜く②データに基づく洞察を活用して組/2131573574068780/",
+    "https://www.facebook.com/freon.co.jp/posts/1824335017803229/",
+    "https://www.facebook.com/freon.co.jp/posts/1952596051643791/",
+    "https://www.facebook.com/SAAJ1962/posts/企業分析ワークショップ開催レポート-数字の裏づけが伝えるをより強力に-ニュースを読み解く力効率的な情報収集力正しく分析し仮説を立てる力こうしたビジネススキルはど/2437912063164847/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "記者・アナリストの数字の点検の手引き（ポイントと%・基準の効果・小さい母数の増減率・1人あたり・平均と中央値・実質と名目・合計が合わない表・Poynter Math for Journalists・Journalist's Resource・4-118） note 社長",
+   "results": [
+    "https://note.com/shachonumbers",
+    "https://note.com/yutaro0212/n/nc2d97a9be793",
+    "https://partnersense.co.jp/media/funding/1035/",
+    "https://listen.style/p/ktptjzrf/exqngmlg",
+    "https://ideatech.jp/column/1o7bvptr/",
+    "https://kanautech.jp/blog/shachou-dashboard-5w1h-checklist",
+    "https://toyokeizai.net/articles/-/327737"
    ],
    "engines": [
     "ddgs:google"
@@ -420,71 +450,88 @@
    "n_hits": 7
   },
   {
-   "query": "記者・アナリストの数字の点検の手引き（ポイントと%・基準の効果・小さい母数の増減率・1人あたり・平均と中央値・実質と名目・合計が合わない表・Poynter Math for Journalists・Journalist's Resource・4-118） note 社長",
-   "results": [
-    "https://note.com/t_note_memo/n/n5f463357da7f",
-    "https://note.com/fumika_pen7/n/n936f0d9af374",
-    "https://note.com/ku2t/n/n73300b122872",
-    "https://note.com/hirotakai/n/n9ef7c781f9cc",
-    "https://note.com/pokemimi/n/nc4b6cfd25f67",
-    "https://www.nikkei.com/article/DGXZQOFM013AB0R00C26A6000000/",
-    "https://note.haba.co.jp/article/staff-notes/news/detail/486",
-    "https://ai-no-chikara.com/posts/note-algorithm-2026",
-    "https://www.saa.or.jp/pb/shikaku/magazine/index.html",
-    "https://note.com/tatsuya_sabato/n/n0c671c0b2844"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
-   ],
-   "n_hits": 16
-  },
-  {
    "query": "記者・アナリストの数字の点検の手引き（ポイントと%・基準の効果・小さい母数の増減率・1人あたり・平均と中央値・実質と名目・合計が合わない表・Poynter Math for Journalists・Journalist's Resource・4-118） X 投稿",
    "results": [
-    "https://x.com/gagarot200/article/2071381863512539226",
-    "https://www.softbank.jp/corp/news/conference/webcast/",
-    "https://www.jpx.co.jp/",
-    "https://news.google.com/home?hl=ja&gl=JP&ceid=JP%3Aja",
-    "https://www.soumu.go.jp/johotsusintokei/linkdata/r07_03_houkoku.pdf",
-    "https://doda.jp/DodaFront/View/JobSearchList/j_oc__081113S/-op__3/-ha__65%2C0/-preBtn__3/-page__3/",
-    "https://www.tv-asahi.co.jp/announcer/personal/",
-    "https://www.nikkei.com/",
-    "https://www.nagoyatv.com/ana/profile/",
-    "https://www.comnico.jp/we-love-social/how-to-use-twitter-analytics"
+    "https://x.com/kawakenka/status/2118871053967458359",
+    "https://www.comnico.jp/we-love-social/how-to-use-twitter-analytics",
+    "https://x.com/kanautechjp/status/2113472984295862644",
+    "https://x-force.thinkforce.co.jp/archives/243",
+    "https://note.com/x_unyou/n/n9797d63ad5ae",
+    "https://business.x.com/ja/analytics",
+    "https://www.sharecoto.co.jp/twitterlab/know-how/impression/"
    ],
    "engines": [
-    "ddgs:google",
-    "yahoo_jp"
+    "ddgs:google"
    ],
-   "n_hits": 16
+   "n_hits": 7
   },
   {
    "query": "journalism numeracy guide percent change base effect per capita inflation adjustment errors site:linkedin.com",
-   "results": [
-    "https://www.linkedin.com/pulse/pricing-increase-brief-implementation-guide-strategy-messaging-kakas-j6zse",
-    "https://de.linkedin.com/in/ikendiukhov",
-    "https://www.linkedin.com/in/carlosgoes",
-    "https://www.linkedin.com/posts/danleedata_what-is-multicollinearity-vif-lets-learn-activity-7511440120315715586-BREx",
-    "https://www.linkedin.com/in/dave-lagassa-502446b",
-    "https://www.linkedin.com/in/anthony-romeo-ab713685",
-    "https://www.linkedin.com/in/keithmaziarek",
-    "https://www.linkedin.com/in/mohak-doshi-3672md",
-    "https://www.linkedin.com/in/adam-domingue-100869128",
-    "https://www.linkedin.com/in/geng-deng-ph-d-cfa-frm-bb05175"
-   ],
-   "engines": [
-    "ddgs:bing",
-    "yahoo_jp"
-   ],
-   "n_hits": 17
+   "results": [],
+   "engines": [],
+   "n_hits": 0
   }
  ],
  "missing": {
-  "突き合わせ・推定": "記載なし（読んだ30頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ30頁・検索12回）"
+  "突き合わせ・推定": "記載なし（読んだ28頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ28頁・検索12回）"
  },
- "new_this_run": {},
- "runs": 2,
+ "new_this_run": {
+  "手順・やり方": [
+   {
+    "quote": "WEBINAR: How to Edit Data Stories in the Age of AI?",
+    "url": "https://gijn.org/stories/4-tips-for-avoiding-math-errors-when-reporting/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "step-by-step instructions",
+    "url": "https://gijn.org/stories/4-tips-for-avoiding-math-errors-when-reporting/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "of Reuters led the session, “How to Approach Stats In Your Story.”",
+    "url": "https://gijn.org/stories/4-tips-for-avoiding-math-errors-when-reporting/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "Interpreting Data: Tips to Make Sure You Know How to Read the Numbers",
+    "url": "https://gijn.org/stories/4-tips-for-avoiding-math-errors-when-reporting/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "<li>Investigative Reporters and Editors (IRE) typically hosts workshops focusing on statistical literacy during its annual conferences. At IRE&rsquo;s annual data journalism conference in 2021, LaFleur and colleague <a href=\"https://twitter.com/JaimiDowdell\">Jaimi Dowdell</a>&nbsp;of Reuters led the session, &ldquo;How to Approach Stats In Your Story.&rdquo;</li>",
+    "url": "https://gijn.org/stories/4-tips-for-avoiding-math-errors-when-reporting/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "As an example, let’s say state legislators set aside $30 million to fund a new traffic safety program in 2021. This year, they budgeted $38 million.",
+    "url": "https://gijn.org/stories/4-tips-for-avoiding-math-errors-when-reporting/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "When you add or subtract percentages — for example, when you subtract the percentage of children diagnosed with autism in 1981 from the percentage diagnosed in 2021 — describe the result using percentage points.",
+    "url": "https://gijn.org/stories/4-tips-for-avoiding-math-errors-when-reporting/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   }
+  ],
+  "失敗・落とし穴": [
+   {
+    "quote": "2. Be extra cautious when comparing percentages, because this is where many people make mistakes.",
+    "url": "https://gijn.org/stories/4-tips-for-avoiding-math-errors-when-reporting/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   }
+  ]
+ },
+ "runs": 3,
  "first_researched_at": "2026-11-09T01:57:37.439612+00:00"
 }

@@ -1,0 +1,506 @@
+{
+ "name": "株式会社ネクスト",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T10:52:30.676557+00:00",
+ "official_url": "https://www.next-craft.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 ｜株式会社 NEXT （ ネクスト ） — 会社概要 ｜株式会社 NEXT （ ネクスト ） 株式会社NEXT（ネクスト） https://www.next-company.co.jp > company",
+    "url": "https://www.next-company.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 株式会社ネクスト — 会社概要 - 株式会社ネクスト 株式会社ネクスト https://nextinc.co.jp > company > outline",
+    "url": "https://nextinc.co.jp/company/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 株式会社NEXT(ネクスト) — 会社概要 - 株式会社NEXT(ネクスト) nextjp.co.jp https://nextjp.co.jp > next-company",
+    "url": "https://nextjp.co.jp/next-company/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 株式会社ネクスト — 会社概要 - 株式会社ネクスト n-ex-t.co.jp https://www.n-ex-t.co.jp > company",
+    "url": "https://www.n-ex-t.co.jp/company",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 会社案内 - ネクスト株式会社 — 会社概要 | 会社案内 - ネクスト株式会社 ネクスト株式会社 https://next-bin.com > company > company-profile",
+    "url": "https://next-bin.com/company/company-profile/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "nextbeat - ネクスト ビート nextbeat - ネクスト ビート note.com https://note.com > nextbeat",
+    "url": "https://note.com/nextbeat",
+    "pass": 3
+   },
+   {
+    "quote": "わだ@ ネクスト テクノロジー - note わだ@ ネクスト テクノロジー - note note https://note.com > wadant",
+    "url": "https://note.com/wadant",
+    "pass": 3
+   },
+   {
+    "quote": "【ロングインタビュー】 ネクスト エンタープライズ代表・曽部 ... 【ロングインタビュー】 ネクスト エンタープライズ代表・曽部 ... note https://note.com > ... > ビジネスリーダーインタビュー",
+    "url": "https://note.com/next_enterprise/n/n0d93879d03ef",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【東京・転勤なし】保育士バンク！両面型キャリアアドバイザー",
+    "url": "https://note.nextbeat.co.jp/?gs=1f9cb3bd1f08baf96003af16f5c7b936",
+    "pass": 3
+   },
+   {
+    "quote": "【広島・転勤なし】保育士バンク！両面型キャリアアドバイザー",
+    "url": "https://note.nextbeat.co.jp/?gs=1f9cb3bd1f08baf96003af16f5c7b936",
+    "pass": 3
+   },
+   {
+    "quote": "【名古屋・転勤なし】保育士バンク！両面型キャリアアドバイザー",
+    "url": "https://note.nextbeat.co.jp/?gs=1f9cb3bd1f08baf96003af16f5c7b936",
+    "pass": 3
+   },
+   {
+    "quote": "ネクストビートのリアルを知る！就活生に読んでほしいおすすめ記事5選",
+    "url": "https://note.nextbeat.co.jp/?gs=1f9cb3bd1f08baf96003af16f5c7b936",
+    "pass": 3
+   },
+   {
+    "quote": "才能ではなく、打席の数で経営に近づいた。新卒入社4年でCOOになった野田が語る、事業と組織を動かす面白さ",
+    "url": "https://note.nextbeat.co.jp/?gs=1f9cb3bd1f08baf96003af16f5c7b936",
+    "pass": 3
+   },
+   {
+    "quote": "「真剣にやるから負けると悔しい」 toBとtoC営業双方を極める若きリーダーの挑戦",
+    "url": "https://note.nextbeat.co.jp/?gs=1f9cb3bd1f08baf96003af16f5c7b936",
+    "pass": 3
+   },
+   {
+    "quote": "上海出張をまとめつつ、今後について考える。",
+    "url": "https://note.com/wadant",
+    "pass": 3
+   },
+   {
+    "quote": "サンフランシスコで見た未来と、これからの挑戦",
+    "url": "https://note.com/wadant",
+    "pass": 3
+   },
+   {
+    "quote": "入社してから後悔してほしくない。NEXT TECHNOLOGYが大切にしていること",
+    "url": "https://note.com/wadant",
+    "pass": 3
+   },
+   {
+    "quote": "AI時代、人材を提供する会社ではなく、価値を創造する会社へ。",
+    "url": "https://note.com/wadant",
+    "pass": 3
+   },
+   {
+    "quote": "エンジニアから選ばれる会社を目指して、評価制度を改めて考える",
+    "url": "https://note.com/wadant",
+    "pass": 3
+   },
+   {
+    "quote": "7期目の振り返り｜経営して分かった現実と課題",
+    "url": "https://note.com/wadant",
+    "pass": 3
+   },
+   {
+    "quote": "SES転職で失敗しない企業選びを本気で考える",
+    "url": "https://note.com/wadant",
+    "pass": 3
+   },
+   {
+    "quote": "エンジニア不要論は本当？AI時代の価値をあらためて考える",
+    "url": "https://note.com/wadant",
+    "pass": 3
+   },
+   {
+    "quote": "【ロングインタビュー】ネクストエンタープライズ代表・曽部博樹｜株式会社ネクストエンタープライズ",
+    "url": "https://note.com/next_enterprise/n/n0d93879d03ef",
+    "pass": 3
+   },
+   {
+    "quote": "【ロングインタビュー】ネクストエンタープライズ代表・曽部博樹",
+    "url": "https://note.com/next_enterprise/n/n0d93879d03ef",
+    "pass": 3
+   },
+   {
+    "quote": "ちょっと体調悪いからさ、もし休んだらいけねえなと思って書いたんだよ。",
+    "url": "https://note.com/next_enterprise/n/n0d93879d03ef",
+    "pass": 3
+   },
+   {
+    "quote": "そう言いながら曽部さんは、こちらが用意した質問に合わせて、事前にびっしり書き込んだメモを差し出してくれた。",
+    "url": "https://note.com/next_enterprise/n/n0d93879d03ef",
+    "pass": 3
+   },
+   {
+    "quote": "「結構色々インタビューしたんですけど、ちゃんと書いて来てくださる方初めてです。」",
+    "url": "https://note.com/next_enterprise/n/n0d93879d03ef",
+    "pass": 3
+   },
+   {
+    "quote": "こちらが思わず漏らすと、曽部さんは照れくさそうに笑う。",
+    "url": "https://note.com/next_enterprise/n/n0d93879d03ef",
+    "pass": 3
+   },
+   {
+    "quote": "取材のテーマは、創業の原点、経営の軸、そして次の10年。",
+    "url": "https://note.com/next_enterprise/n/n0d93879d03ef",
+    "pass": 3
+   },
+   {
+    "quote": "物流の現場を知り尽くし、派遣という仕組みの“寒々しさ”に違和感を抱き続けてきた曽部さんは、いま何を見ているのか。",
+    "url": "https://note.com/next_enterprise/n/n0d93879d03ef",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "株式会社ソシオ ネクスト (@SocionextJapan) / X 株式会社ソシオ ネクスト (@SocionextJapan) / X X https://x.com > SocionextJapan",
+    "url": "https://x.com/SocionextJapan",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "ジャパン ネクスト 証券株式会社／Japannext Co., Ltd. | LinkedIn ジャパン ネクスト 証券株式会社／Japannext Co., Ltd. | LinkedIn LinkedIn https://www.linkedin.com > company > japannext",
+    "url": "https://www.linkedin.com/company/japannext",
+    "pass": 3
+   },
+   {
+    "quote": "（株） ネクスト ジェン - LinkedIn （株） ネクスト ジェン - LinkedIn LinkedIn https://www.linkedin.com > （株）ネクストジェン",
+    "url": "https://www.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%82%B8%E3%82%A7%E3%83%B3",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 ネクスト インターナショナル (@ Next .international.jp) 株式会社 ネクスト インターナショナル (@ Next .international.jp) Facebook https://www.facebook.com > ... > Brand > Product/service",
+    "url": "https://www.facebook.com/Next.international.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ネクスト ビジョン - Facebook 株式会社 ネクスト ビジョン - Facebook Facebook https://www.facebook.com > ... > Internet company",
+    "url": "https://www.facebook.com/nextvision.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 ネクスト | Hitachiomiya-shi Ibaraki - Facebook 株式会社 ネクスト | Hitachiomiya-shi Ibaraki - Facebook Facebook https://www.facebook.com > ... > Motor vehicle company",
+    "url": "https://www.facebook.com/nextohmiya/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.next-craft.com",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=hUn4tT9VgWU",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mfg-hack.com/plastic/10134/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.next-company.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nextinc.co.jp/company/outline.html",
+    "status": "network_error:SSLError",
+    "method": "http"
+   },
+   {
+    "url": "https://nextjp.co.jp/next-company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nextdirect.zendesk.com/hc/ja-jp/articles/4547397704721-%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://contact.unext.jp/video-inquiry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://help.next.rikunabi.com/s/article/000025531",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.nextbeat.co.jp/?gs=1f9cb3bd1f08baf96003af16f5c7b936",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/wadant",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/next_enterprise/n/n0d93879d03ef",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/SocionextJapan",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/japannext",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%82%B8%E3%82%A7%E3%83%B3",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Next.international.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/nextvision.co.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/nextohmiya/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/wadant",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ネクスト 取扱製品 試作 小ロット",
+   "results": [
+    "https://injection-lab.com/technology/64-2.html",
+    "https://www.youtube.com/watch?v=hUn4tT9VgWU",
+    "https://mfg-hack.com/plastic/10134/",
+    "https://www.techno-labo.com/",
+    "https://www.slkco.jp/column/inject/knowledge/small-lot",
+    "https://www.minamidesign.co.jp/review/984/",
+    "https://kishimotokogyo.co.jp/archives/prototyping-massproduction/",
+    "https://www.rd-stuff.com/injectionmolding-lp/",
+    "https://www.gkn.co.jp/blog/prototype-mold/",
+    "https://www.zen.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "ネクスト 会社概要 事業内容",
+   "results": [
+    "https://www.next-company.co.jp/company/",
+    "https://nextinc.co.jp/company/outline.html",
+    "https://nextjp.co.jp/next-company/",
+    "https://www.n-ex-t.co.jp/company",
+    "https://next-bin.com/company/company-profile/",
+    "https://nextco.jp/company/",
+    "https://www.next.inc/about/",
+    "https://job.mynavi.jp/27/pc/search/corp281845/outline.html",
+    "https://ne-xt.jp/company-profile.html",
+    "https://www.nextinc.co.jp/company/outline.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "ネクスト お問い合わせ メール",
+   "results": [
+    "https://nextdirect.zendesk.com/hc/ja-jp/articles/4547397704721-%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B",
+    "https://contact.unext.jp/",
+    "https://help.next.rikunabi.com/s/article/000025531",
+    "https://unext-hd.co.jp/contact/",
+    "https://appllio.com/unext-how-to-inquire",
+    "https://help.unext.jp/",
+    "https://www.u-next-net.jp/mail/",
+    "https://note.com/kaoru_lifehack/n/n3271a591b649",
+    "https://next-co.com/contact/",
+    "https://carnext.co.jp/contact/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com ネクスト",
+   "results": [
+    "https://note.com/nextbeat",
+    "https://note.com/wadant",
+    "https://note.com/nexttech",
+    "https://note.com/next_enterprise/n/n0d93879d03ef",
+    "https://note.com/next1_reo",
+    "https://note.com/daiwalifenext",
+    "https://note.com/honest_zephyr756/n/n561cca5440bc",
+    "https://note.com/next_enterprise",
+    "https://note.com/wadant/n/n17551197eac4",
+    "https://note.com/nextone_"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com ネクスト",
+   "results": [
+    "https://x.com/SocionextJapan",
+    "https://x.com/UNEXT_football",
+    "https://help.x.com/en/resources/glossary",
+    "https://x.com/nextofficial",
+    "https://x.com/ysk_okada/status/1998924336900747742",
+    "https://x.com/nikkeinewsnext",
+    "https://devcommunity.x.com/t/how-to-undo-revoke-access-of-twitter-application-the-next-day/427",
+    "https://devcommunity.x.com/t/when-authenticating-requests-to-the-twitter-api-v2-endpoints-you-must-use-keys-and-tokens-from-a-twitter-developer-app-that-is-attached-to-a-project-you-can-create-a-project-via-the-developer-portal/189699?page=4",
+    "https://help.x.com/en/using-x/premium-business",
+    "https://devcommunity.x.com/t/media-gallery-unable-to-click-next-when-viewing-a-video/19706"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com ネクスト",
+   "results": [
+    "https://www.linkedin.com/company/japannext",
+    "https://uk.linkedin.com/company/lifeatnext",
+    "https://jp.linkedin.com/company/next-step-japan",
+    "https://www.linkedin.com/company/%EF%BC%88%E6%A0%AA%EF%BC%89%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%82%B8%E3%82%A7%E3%83%B3",
+    "https://www.linkedin.com/newsletters/up-next-from-bcg-6917470155912400897",
+    "https://news.linkedin.com/2026/hiring-assistant-2",
+    "https://www.linkedin.com/newsletters/next-6620313105912127488",
+    "https://www.linkedin.com/company/nextsense-global/",
+    "https://jp.linkedin.com/company/next-move-kk",
+    "https://jp.linkedin.com/company/aeonnext"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com ネクスト",
+   "results": [
+    "https://www.facebook.com/Next.international.jp/",
+    "https://www.facebook.com/nextvision.co.jp/",
+    "https://www.facebook.com/nextohmiya/",
+    "https://www.facebook.com/nextofficial/",
+    "https://www.facebook.com/npo.nextone/",
+    "http://code.facebook.com/posts/360346274145943/introducing-data-center-fabric-the-next-generation-facebook-data-center-network/",
+    "https://www.facebook.com/nextcorporation.info/",
+    "https://www.facebook.com/NextGen.Inc/",
+    "https://www.facebook.com/nexteducationthink/?locale=ja_JP",
+    "https://code.facebook.com/posts/1869788206569924/introducing-bryce-canyon-our-next-generation-storage-platform/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "ネクスト note 社長",
+   "results": [
+    "https://note.com/next1_reo/n/ne9188ca85ccb",
+    "https://note.com/wadant",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://note.com/next_enterprise/n/n0d93879d03ef",
+    "https://x.com/sadaaki",
+    "https://diamond.jp/articles/-/388572",
+    "https://note.com/",
+    "https://ja.wikipedia.org/wiki/%E5%8A%A0%E8%97%A4%E8%B2%9E%E9%A1%95",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "ネクスト X 投稿",
+   "results": [
+    "https://x.com/next_channel_",
+    "https://publish.x.com/",
+    "https://zenn.dev/kikutaro/articles/a691e07de8084e",
+    "https://koneta.nifty.com/koneta_detail/1141008024346_1.htm",
+    "https://note.com/socialselling/n/n80449faef8e2",
+    "https://growthseed.jp/experts/sns/twitter-scheduled-post/",
+    "https://fasme.asia/sns/x-tips-5826/",
+    "https://sinis-x.tetemarche.co.jp/blog/x-reserve",
+    "https://x.com/watch_UNEXT",
+    "https://help.x.com/ja/using-x/posting-gifs-and-pictures"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索9回）",
+  "事業内容": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索9回）",
+  "代表者": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索9回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索9回）",
+  "取扱製品": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索9回）",
+  "取扱材料": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索9回）",
+  "一点物・少量多品種": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索9回）",
+  "製品分野": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索9回）",
+  "AM関連": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索9回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部19頁・検索9回）"
+ }
+}

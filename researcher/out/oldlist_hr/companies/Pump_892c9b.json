@@ -1,0 +1,2324 @@
+{
+ "name": "Pump",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-11T10:58:49.633197+00:00",
+ "official_url": "https://www.pump.co/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$4M",
+    "url": "https://getlatka.com/companies/pump.co",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Pump buys reserved capacity across its customer base and passes the rate to you. If usage drops, it’s Pump’s problem.",
+    "url": "https://www.pump.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Set a quality bar once. Pump routes at pooled token rates, with fallbacks when a provider is down.",
+    "url": "https://www.pump.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Untagged spend gets owners suggested, so allocation stops being a quarterly project.",
+    "url": "https://www.pump.co/",
+    "pass": 1
+   },
+   {
+    "quote": "EC2 · production",
+    "url": "https://www.pump.co/",
+    "pass": 1
+   },
+   {
+    "quote": "How Pump Promises To Slash Your Runaway Cloud Computing Costs",
+    "url": "https://www.pump.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Free to use. Providers pay us.",
+    "url": "https://www.pump.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Pump is free to use, made possible by our group buying model and partnerships with cloud and AI model providers.",
+    "url": "https://www.pump.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring your own cloud accounts or model API keys. Keep your existing setup and controls, with Pump’s optimization, hands-on support, and custom enterprise pricing.",
+    "url": "https://www.pump.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Backed by Leaders. Supported by enterprise-grade security.",
+    "url": "https://www.pump.co/",
+    "pass": 1
+   },
+   {
+    "quote": "AWS EC2 Pricing Update 2025: GPU Cuts & New Instances",
+    "url": "https://www.pump.co/",
+    "pass": 1
+   },
+   {
+    "quote": "From Spreadsheet Nightmares to Cloud Cost Optimization",
+    "url": "https://www.pump.co/",
+    "pass": 1
+   },
+   {
+    "quote": "AWS Bedrock Pricing - Cost Breakdown & Savings Guide",
+    "url": "https://www.pump.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Pump Pricing: Free Cloud Cost Optimization, No % of Savings",
+    "url": "https://www.pump.co/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We don’t price based on how much you spend or save. You can start free and get visibility fast.",
+    "url": "https://www.pump.co/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "1 year data retention",
+    "url": "https://www.pump.co/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "2 year data retention",
+    "url": "https://www.pump.co/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "22+ providers",
+    "url": "https://www.pump.co/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Get predictable spend",
+    "url": "https://www.pump.co/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Cloud providers pay Pump to manage billing complexity. Your team gets savings, visibility, security, and operational support for free.",
+    "url": "https://www.pump.co/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "By submitting your email, you agree to opt in to marketing emails.",
+    "url": "https://www.pump.co/customers/how-usergems-saved-time-and-money-using-pump-view",
+    "pass": 1
+   },
+   {
+    "quote": "UserGems is the AI Command Center for outbound and ABM. One place for all your signals, data, and prioritization. Deploy AI agents to drive pipeline with personalized Outbound, ABM, and signal-based Advertising. Powered by the world's best contact data. UserGems has generated over $4 billion in pipeline and $1 billion in revenue across 350+ startups and public enterprises.",
+    "url": "https://www.pump.co/customers/how-usergems-saved-time-and-money-using-pump-view",
+    "pass": 1
+   },
+   {
+    "quote": "By submitting your email, you agree to opt in to marketing emails.",
+    "url": "https://www.pump.co/customers/how-heo-space-built-full-cloud-visibility-across-3-aws-environments-with-pump-view",
+    "pass": 1
+   },
+   {
+    "quote": ": seven custom dashboards covering each of HEO's environments individually, combined resource-level cost views across all accounts, and a year-to-date cost analysis. He structured the reports around HEO's tagging system so he can slice costs by ecosystem or by project, then analyze trends across accounts over any time period.",
+    "url": "https://www.pump.co/customers/how-heo-space-built-full-cloud-visibility-across-3-aws-environments-with-pump-view",
+    "pass": 1
+   },
+   {
+    "quote": "The shift from AWS's native tools to Pump View wasn't just about a better interface. It changed how cost data feeds into HEO's engineering decisions. \"I bake that into our software development roadmap,\" DJ said. He uses these dashboards to understand which services are growing, which projects are driving spend, and where rapid iteration is creating cost that the team hasn't accounted for.",
+    "url": "https://www.pump.co/customers/how-heo-space-built-full-cloud-visibility-across-3-aws-environments-with-pump-view",
+    "pass": 1
+   },
+   {
+    "quote": "During the call, DJ discovered Pump View's report subscription feature and immediately set up a monthly Slack subscription so cost reports would flow to leadership automatically without him having to pull or present them.",
+    "url": "https://www.pump.co/customers/how-heo-space-built-full-cloud-visibility-across-3-aws-environments-with-pump-view",
+    "pass": 1
+   },
+   {
+    "quote": "Resource-Level Visibility That AWS Couldn't Provide",
+    "url": "https://www.pump.co/customers/how-heo-space-built-full-cloud-visibility-across-3-aws-environments-with-pump-view",
+    "pass": 1
+   },
+   {
+    "quote": "His Production resource view shows exactly which components cost what: the",
+    "url": "https://www.pump.co/customers/how-heo-space-built-full-cloud-visibility-across-3-aws-environments-with-pump-view",
+    "pass": 1
+   },
+   {
+    "quote": "DJ described discovering the anomaly detection capability organically while reviewing his dashboards. \"What was interesting is in the View dashboard, I saw Pump was actually doing analytics on the trends. Anything that bumps up over a certain percent, it brings up a little triangle,\" he said. \"That was pretty cool. I would love to get alerting around that.\"",
+    "url": "https://www.pump.co/customers/how-heo-space-built-full-cloud-visibility-across-3-aws-environments-with-pump-view",
+    "pass": 1
+   },
+   {
+    "quote": "\"I used View to basically get a good understanding of how I could repurpose the AWS budgets or the cost estimation tool in AWS, so that I could identify any runaway processes or runaway costs.\"",
+    "url": "https://www.pump.co/customers/how-heo-space-built-full-cloud-visibility-across-3-aws-environments-with-pump-view",
+    "pass": 1
+   },
+   {
+    "quote": "is becoming part of that toolkit. HEO ran its first AWS Well-Architected scan through Pump Secure, scoring an 81% pass rate with 244 findings across the Production environment, including 32 high-severity items like security groups allowing open ingress on database ports.",
+    "url": "https://www.pump.co/customers/how-heo-space-built-full-cloud-visibility-across-3-aws-environments-with-pump-view",
+    "pass": 1
+   },
+   {
+    "quote": "DJ has already recommended Pump to friends running their own businesses. \"It's definitely a tool I like, and I do promote,\" he said.",
+    "url": "https://www.pump.co/customers/how-heo-space-built-full-cloud-visibility-across-3-aws-environments-with-pump-view",
+    "pass": 1
+   },
+   {
+    "quote": "By submitting your email, you agree to opt in to marketing emails.",
+    "url": "https://www.pump.co/customers/how-salesforge-cut-10-off-their-aws-bill-on-autopilot-with-pump-save",
+    "pass": 1
+   },
+   {
+    "quote": "\"We just integrated, and we started seeing savings right away. It was pretty surprising and pretty cool that we just integrated and literally 10% of the bill is cut. I don't know how it does that, I already see that on EC2, our bill is less.\"",
+    "url": "https://www.pump.co/customers/how-salesforge-cut-10-off-their-aws-bill-on-autopilot-with-pump-save",
+    "pass": 1
+   },
+   {
+    "quote": "SalesForge builds six interconnected sales tools covering everything from email infrastructure to multichannel outreach. The 45-person team runs all six products on AWS with a single DevOps engineer managing infrastructure. As they expand into data science and machine learning, keeping cloud costs predictable has become a priority.",
+    "url": "https://www.pump.co/customers/how-salesforge-cut-10-off-their-aws-bill-on-autopilot-with-pump-save",
+    "pass": 1
+   },
+   {
+    "quote": "For most startups on AWS, meaningful cost savings require locking into reserved instances for one to three years. SalesForge couldn't make that bet. Their infrastructure spans six products, workloads are still maturing, and predicting capacity needs two years out wasn't feasible.",
+    "url": "https://www.pump.co/customers/how-salesforge-cut-10-off-their-aws-bill-on-autopilot-with-pump-save",
+    "pass": 1
+   },
+   {
+    "quote": "As SalesForge's workloads stabilize, the team plans to layer in Pump's reserved instance recommendations to compound those savings further.",
+    "url": "https://www.pump.co/customers/how-salesforge-cut-10-off-their-aws-bill-on-autopilot-with-pump-save",
+    "pass": 1
+   },
+   {
+    "quote": "This Slack-first approach fits how a 45-person startup actually operates. The DevOps team monitors savings and checks recommendations in the Pump dashboard when they need to go deeper. Leadership gets the headlines in Slack. No one has to context-switch into another tool to stay informed about cloud spend.",
+    "url": "https://www.pump.co/customers/how-salesforge-cut-10-off-their-aws-bill-on-autopilot-with-pump-save",
+    "pass": 1
+   },
+   {
+    "quote": "With only one DevOps engineer and six products running on AWS, SalesForge needed cost visibility that didn't require a dedicated analyst to interpret. The",
+    "url": "https://www.pump.co/customers/how-salesforge-cut-10-off-their-aws-bill-on-autopilot-with-pump-save",
+    "pass": 1
+   },
+   {
+    "quote": "dashboard gave them exactly that: a single view of spend across all six products, with optimization recommendations built in.",
+    "url": "https://www.pump.co/customers/how-salesforge-cut-10-off-their-aws-bill-on-autopilot-with-pump-save",
+    "pass": 1
+   },
+   {
+    "quote": "\"Without us investing much time there, it's pretty magical that it just does the savings.\"",
+    "url": "https://www.pump.co/customers/how-salesforge-cut-10-off-their-aws-bill-on-autopilot-with-pump-save",
+    "pass": 1
+   },
+   {
+    "quote": "Since integrating Pump, SalesForge has seen an immediate 10% reduction in their AWS bill, without any manual optimization work from their engineering team. The onboarding process took less than a week using Pump's CloudFormation stacks, and their solo DevOps engineer didn't need to step away from core infrastructure responsibilities to get it running.",
+    "url": "https://www.pump.co/customers/how-salesforge-cut-10-off-their-aws-bill-on-autopilot-with-pump-save",
+    "pass": 1
+   },
+   {
+    "quote": "By submitting your email, you agree to opt in to marketing emails.",
+    "url": "https://www.pump.co/customers/how-forusall-eliminated-hidden-aws-costs-across-rds-infrastructure-with-pump-save",
+    "pass": 1
+   },
+   {
+    "quote": "\"There were several optimizations that the Pump team was able to propose, which we implemented. It was multi-tiered.\" - Bhavani Yanamadala, Head of Engineering & CTO",
+    "url": "https://www.pump.co/customers/how-forusall-eliminated-hidden-aws-costs-across-rds-infrastructure-with-pump-save",
+    "pass": 1
+   },
+   {
+    "quote": "The first layer was commitment optimization: compute savings plans, database savings plans covering both RDS and OpenSearch, and additional reserved instances layered in as workloads stabilized. This addressed the predictable, always-on spend that ForUsAll's previous reseller had never touched.",
+    "url": "https://www.pump.co/customers/how-forusall-eliminated-hidden-aws-costs-across-rds-infrastructure-with-pump-save",
+    "pass": 1
+   },
+   {
+    "quote": "ForUsAll is now building its next-generation platform on Aurora Serverless v2 and expanding its use of AI tools for development. Bhavani has expressed interest in LLM compute reservation strategies and is exploring",
+    "url": "https://www.pump.co/customers/how-forusall-eliminated-hidden-aws-costs-across-rds-infrastructure-with-pump-save",
+    "pass": 1
+   },
+   {
+    "quote": "for unified visibility across AWS and AI tool spend as that footprint grows.",
+    "url": "https://www.pump.co/customers/how-forusall-eliminated-hidden-aws-costs-across-rds-infrastructure-with-pump-save",
+    "pass": 1
+   },
+   {
+    "quote": "ForUsAll's six-person engineering team got the kind of infrastructure investigation that usually requires a dedicated FinOps hire - and found savings no dashboard could surface.",
+    "url": "https://www.pump.co/customers/how-forusall-eliminated-hidden-aws-costs-across-rds-infrastructure-with-pump-save",
+    "pass": 1
+   },
+   {
+    "quote": "AWS EC2 Pricing Update 2025: GPU Cuts & New Instances",
+    "url": "https://www.pump.co/blog/aws-ec2-pricing-update/",
+    "pass": 1
+   },
+   {
+    "quote": "EC2 Pricing",
+    "url": "https://www.pump.co/blog/aws-ec2-pricing-update/",
+    "pass": 1
+   },
+   {
+    "quote": "Amazon reduced the prices of GPU instances by 45%",
+    "url": "https://www.pump.co/blog/aws-ec2-pricing-update/",
+    "pass": 1
+   },
+   {
+    "quote": ". Also, Amazon introduced additional high-performance instances and made adjustments to the Reserved Instances framework. These updates are beneficial regardless of the scope of your operations, whether you are processing workload on AI, scaling a startup, or managing enterprise infrastructure.",
+    "url": "https://www.pump.co/blog/aws-ec2-pricing-update/",
+    "pass": 1
+   },
+   {
+    "quote": ", I will provide all the relevant information regarding the",
+    "url": "https://www.pump.co/blog/aws-ec2-pricing-update/",
+    "pass": 1
+   },
+   {
+    "quote": "AWS EC2 Pricing Update 2025",
+    "url": "https://www.pump.co/blog/aws-ec2-pricing-update/",
+    "pass": 1
+   },
+   {
+    "quote": ". It includes GPU discounts, new instances, different regional prices, and cost optimization measures.",
+    "url": "https://www.pump.co/blog/aws-ec2-pricing-update/",
+    "pass": 1
+   },
+   {
+    "quote": "What is AWS EC2 and How Does Pricing Work?",
+    "url": "https://www.pump.co/blog/aws-ec2-pricing-update/",
+    "pass": 1
+   },
+   {
+    "quote": "is. EC2 offers resizable compute capacity in the cloud. Virtual servers, or instances, can be launched in minutes and scaled based on demand. A variety of workloads can be supported, which include web hosting, databases, machine learning training, and high-performance computing.",
+    "url": "https://www.pump.co/blog/aws-ec2-pricing-update/",
+    "pass": 1
+   },
+   {
+    "quote": "EC2 Pricing Models:",
+    "url": "https://www.pump.co/blog/aws-ec2-pricing-update/",
+    "pass": 1
+   },
+   {
+    "quote": ": Flexible discount pricing of up to 72% is obtained in exchange for a consistent usage commitment of a dollar per hour.",
+    "url": "https://www.pump.co/blog/aws-ec2-pricing-update/",
+    "pass": 1
+   },
+   {
+    "quote": ": You can manually bid on unused EC2 capacity and save up to 90%. This option is great for workloads that are flexible and fault-tolerant.",
+    "url": "https://www.pump.co/blog/aws-ec2-pricing-update/",
+    "pass": 1
+   },
+   {
+    "quote": "What Changed in EC2 Pricing in June 2025",
+    "url": "https://www.pump.co/blog/aws-ec2-pricing-update/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by 2,500+ fast growing teams",
+    "url": "https://www.pump.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 2500+ fast growing teams in",
+    "url": "https://www.pump.co/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Improved efficiency by eliminating the financial friction caused by manual processes and scattered data.",
+    "url": "https://www.pump.co/blog/cloud-cost-optimization/",
+    "pass": 1
+   },
+   {
+    "quote": "Case Study: Tapestry Improves Feedback with AWS and Amazon Bedrock",
+    "url": "https://www.pump.co/blog/aws-bedrock-pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by engineering teams on AWS, GCP, Azure, and Oracle Cloud",
+    "url": "https://www.pump.co/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Read Whalesync case study →",
+    "url": "https://www.pump.co/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Read Terra case study →",
+    "url": "https://www.pump.co/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by fast growing teams in AI & machine learning",
+    "url": "https://www.pump.co/industries/ai-ml",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by fast growing teams in AI and machine learning",
+    "url": "https://www.pump.co/industries/ai-ml",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by fast growing teams in fintech & financial services",
+    "url": "https://www.pump.co/industries/fintech",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by fast growing teams in healthcare & life sciences",
+    "url": "https://www.pump.co/industries/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by fast growing teams in data & developer infrastructure",
+    "url": "https://www.pump.co/industries/data-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 2500+ fast growing teams in",
+    "url": "https://www.pump.co/schedule-a-demo",
+    "pass": 1
+   },
+   {
+    "quote": "Enrichment, app, and warehouse split out, so a CRM sync that doubled last quarter shows up as a line and not a surprise.",
+    "url": "https://www.pump.co/industries/gtm-software",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by fast growing teams in sales & GTM software",
+    "url": "https://www.pump.co/industries/gtm-software",
+    "pass": 1
+   },
+   {
+    "quote": "Pipeline, app, and warehouse split out. Cost per enriched record becomes a number.",
+    "url": "https://www.pump.co/industries/gtm-software",
+    "pass": 1
+   },
+   {
+    "quote": "Pump reads every pipeline, sync, and warehouse query, and reschedules, resizes, or rewrites none of them. It changes the price of the capacity you're already buying.",
+    "url": "https://www.pump.co/industries/gtm-software",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by fast growing teams in ecommerce & retail",
+    "url": "https://www.pump.co/industries/ecommerce",
+    "pass": 1
+   },
+   {
+    "quote": ". It’s like AWS giving customers access to their model factories. Early adopters mentioned in the announcement included",
+    "url": "https://www.pump.co/blog/aws-re-invent/",
+    "pass": 1
+   },
+   {
+    "quote": "Top 7 Japanese Water Pump Manufacturers (2026 List) - Mislier Water Pump",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 7 Japanese Water Pump Manufacturers (2026 List)",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "EBARA and TORISHIMA dominate large-scale industrial and infrastructure projects (waterworks, power plants).",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "• very large industrial pump groups supplying projects worldwide (power stations, desalination, municipal water),",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "• and chemical process / magnet-driven pump manufacturers for corrosive fluids",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "This article is written for practical buyers: plant engineers, contractors, procurement teams, and system integrators who want a clear picture of the Japanese water pump manufacturer landscape—without marketing fluff, and without pretending there is one perfect brand for every job.",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "Leading Manufacturers: Industrial Centrifugal and Submersible Specialists",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "Quick shortlist: the most recognized Japanese water pump manufacturers",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "Broad industrial pump groups (water, power, desalination, general industry)",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "3) TSURUMI (Tsurumi Manufacturing)",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "NIKKISO (cryogenic and process pumping equipment, strong in energy/industrial niches)",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "ShinMaywa (submersible pumps, wastewater systems, and industrial equipment—often project-driven)",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "If you only include one Japanese water pump manufacturer in a global project shortlist, EBARA is usually it. EBARA is known for a wide range: end-suction pumps, process pumps, building services pumps, waterworks pumps, and major industrial systems.",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "• Industrial process water and utilities",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "On EBARA’s own product pages, you’ll see single-stage end-suction product lines such as the “model GSO,” positioned for ISO standards and industrial use. The public specs listed include capacities up to 1400 m³/h and heads up to 150 m, with operating temperatures up to 150°C depending on configuration.",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "• Maintainability: back pull-out designs and standard seal chambers reduce downtime in industrial plants.",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "Torishima is a major Japanese pump name with long history in large and engineered pumping solutions. In many international EPC conversations, TORISHIMA shows up when the application is “serious infrastructure”—power plants, drainage stations, desalination, and other high-demand services.",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "• Industrial facilities requiring engineered pump packages rather than “off-the-shelf” only",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "3) TSURUMI (Tsurumi Manufacturing) – the submersible workhorse brand",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "If the job is submersible drainage, construction dewatering, sewage bypass, or wastewater pumping where clogging risk is real, TSURUMI is one of the most recognized Japanese pump manufacturers worldwide. Their product pages focus heavily on durability features that matter in the field: cable entry protection, seal design, wear parts, and continuous-duty performance.",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "• Commercial/industrial facilities needing reliable submersible packages",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "TEIKOKU is a very different kind of “Japanese water pump manufacturer.” In many chemical and energy facilities, the biggest cost is not the pump itself—it’s the consequence of leakage: safety incidents, environmental risk, lost product, and unplanned shutdowns.",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "• Chemical and petrochemical plants (zero-leakage requirements)",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "NIKKISO is known in several industrial equipment areas, including pumping-related systems. If your application touches cryogenic, LNG, or specialized process packages, you may see NIKKISO on project lists.",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "ShinMaywa shows up in wastewater and industrial project contexts. Depending on region and distributor network, they can be a credible alternative where submersible pump systems and packaged solutions are required.",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "New year holiday of NOP office/factory in Japan",
+    "url": "https://www.nopgroup.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Aisin Quality: Trusted by professionals for precision and durability.",
+    "url": "https://mizumoauto.com/products/npw-m-61-npw-m-61-water-pump-made-in-japan?srsltid=AYCX9vJegQhmG3cTQItFRP1_190ejKll0alnFlffQWnS4CE7KQGy07eV",
+    "pass": 3
+   },
+   {
+    "quote": "Items must be securely packed in the original manufacturer's packaging.",
+    "url": "https://mizumoauto.com/products/npw-m-61-npw-m-61-water-pump-made-in-japan?srsltid=AYCX9vJegQhmG3cTQItFRP1_190ejKll0alnFlffQWnS4CE7KQGy07eV",
+    "pass": 3
+   },
+   {
+    "quote": "Piston rings, main bearings, and rod bearings are non-returnable if the manufacturer’s seal or shrink-wrapped plastic has been opened. No exceptions—this ensures the integrity of the parts you receive.",
+    "url": "https://mizumoauto.com/products/npw-m-61-npw-m-61-water-pump-made-in-japan?srsltid=AYCX9vJegQhmG3cTQItFRP1_190ejKll0alnFlffQWnS4CE7KQGy07eV",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Pump Solutions | Industrial Pump Case Studies",
+    "url": "https://pitbullpumps.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Submersible Pumps",
+    "url": "https://pitbullpumps.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Filter Press Pumps",
+    "url": "https://pitbullpumps.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Pump Case Studies",
+    "url": "https://pitbullpumps.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "We’ll publish a new case study each month – make sure to come back to learn more about how the simple design of our industrial pumps help customers overcome their mostÂ complicated pumping challenges.",
+    "url": "https://pitbullpumps.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Metal Finishing Plant Cuts Maintenance Costs, Downtime with Positive-Displacement Pump",
+    "url": "https://pitbullpumps.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Reliability, Productivity at Steel Plant Get a Boost from Pitbull Submersible Pumps",
+    "url": "https://pitbullpumps.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Packing House Cuts Maintenance Costs with a Pitbull Industrial Pump",
+    "url": "https://pitbullpumps.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "The velocity of the material that travels through your pipes can depend on the type of industrial pumps you use; the right velocity & pump can save your pipes & equipment from serious damage.",
+    "url": "https://pitbullpumps.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Have a tough industrial pumping challenge? Pitbull Pumps can help.",
+    "url": "https://pitbullpumps.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Pitbull Industrial Pumps",
+    "url": "https://pitbullpumps.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "The HI Case Study Committee is responsible for maintaining this comprehensive list of all HI case studies found within HI publications and Pump Systems Matter (PSM) training materials. To accomplish this, the committee meets monthly to discuss any recent submissions.",
+    "url": "https://www.pumps.org/case-studies/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Alerts to Slack/Email",
+    "url": "https://www.pump.co/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "By submitting your email, you agree to opt in to marketing emails.",
+    "url": "https://www.pump.co/customers/how-usergems-saved-time-and-money-using-pump-view",
+    "pass": 1
+   },
+   {
+    "quote": "Send Reports Seamlessly to Slack or Email",
+    "url": "https://www.pump.co/customers/how-usergems-saved-time-and-money-using-pump-view",
+    "pass": 1
+   },
+   {
+    "quote": "By submitting your email, you agree to opt in to marketing emails.",
+    "url": "https://www.pump.co/customers/how-heo-space-built-full-cloud-visibility-across-3-aws-environments-with-pump-view",
+    "pass": 1
+   },
+   {
+    "quote": "By submitting your email, you agree to opt in to marketing emails.",
+    "url": "https://www.pump.co/customers/how-salesforge-cut-10-off-their-aws-bill-on-autopilot-with-pump-save",
+    "pass": 1
+   },
+   {
+    "quote": "SalesForge builds six interconnected sales tools covering everything from email infrastructure to multichannel outreach. The 45-person team runs all six products on AWS with a single DevOps engineer managing infrastructure. As they expand into data science and machine learning, keeping cloud costs predictable has become a priority.",
+    "url": "https://www.pump.co/customers/how-salesforge-cut-10-off-their-aws-bill-on-autopilot-with-pump-save",
+    "pass": 1
+   },
+   {
+    "quote": "By submitting your email, you agree to opt in to marketing emails.",
+    "url": "https://www.pump.co/customers/how-forusall-eliminated-hidden-aws-costs-across-rds-infrastructure-with-pump-save",
+    "pass": 1
+   },
+   {
+    "quote": "to suit your purposes? You can for just $0.001 per 1000 tokens. For example, if you are teaching the model how to write email templates for your business, the cost is quite reasonable. Also, all custom models can be stored at a very low cost of",
+    "url": "https://www.pump.co/blog/aws-bedrock-pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "A tracking number will be emailed within one business day after shipping.",
+    "url": "https://mizumoauto.com/products/npw-m-61-npw-m-61-water-pump-made-in-japan?srsltid=AYCX9vJegQhmG3cTQItFRP1_190ejKll0alnFlffQWnS4CE7KQGy07eV",
+    "pass": 3
+   },
+   {
+    "quote": "If it's not there, contact us via phone or eBay message for assistance.",
+    "url": "https://mizumoauto.com/products/npw-m-61-npw-m-61-water-pump-made-in-japan?srsltid=AYCX9vJegQhmG3cTQItFRP1_190ejKll0alnFlffQWnS4CE7KQGy07eV",
+    "pass": 3
+   },
+   {
+    "quote": "sales@pitbullpumps.com",
+    "url": "https://pitbullpumps.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Questions? Contact Us",
+    "url": "https://www.pumps.org/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Interested in submitting a case study? Please use the template (linked above) to prepare the content for committee review. The template provides an overview of the submission process and outlines the structure and criteria for a strong HI case study. When you are ready to submit your case study, please email",
+    "url": "https://www.pumps.org/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B email lists",
+    "url": "https://growjo.com/company/PUMP",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Email Finder",
+    "url": "https://growjo.com/company/PUMP",
+    "pass": 3
+   },
+   {
+    "quote": "Please feel free to contact us with questions like, \"What kind of liquids can this be used for?\" or \"Which pump is right for my facility?\"",
+    "url": "https://note.com/mitsuwapump/n/n40910c3086f4?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "UserGems is the AI Command Center for outbound and ABM. One place for all your signals, data, and prioritization. Deploy AI agents to drive pipeline with personalized Outbound, ABM, and signal-based Advertising. Powered by the world's best contact data. UserGems has generated over $4 billion in pipeline and $1 billion in revenue across 350+ startups and public enterprises.",
+    "url": "https://www.pump.co/customers/how-usergems-saved-time-and-money-using-pump-view",
+    "pass": 1
+   },
+   {
+    "quote": "is becoming part of that toolkit. HEO ran its first AWS Well-Architected scan through Pump Secure, scoring an 81% pass rate with 244 findings across the Production environment, including 32 high-severity items like security groups allowing open ingress on database ports.",
+    "url": "https://www.pump.co/customers/how-heo-space-built-full-cloud-visibility-across-3-aws-environments-with-pump-view",
+    "pass": 1
+   },
+   {
+    "quote": "Don't take it for granted that your current arrangement is optimal. Because new instance types are launched constantly, there are probably benefits to periodic audits, such as:",
+    "url": "https://www.pump.co/blog/aws-ec2-pricing-update/",
+    "pass": 1
+   },
+   {
+    "quote": "As Usergems continues to scale, Pump remains part of the foundation that supports sustainable growth and operational clarity across teams.",
+    "url": "https://www.pump.co/blog/aws-ec2-pricing-update/",
+    "pass": 1
+   },
+   {
+    "quote": ". Living through that nightmare is something I will carry with me forever – the numb fingers resulting from data entry and the all-consuming fear of overlooking something critical, accompanied by a mental load that surpasses my breaking point. Personally, this was exhausting.",
+    "url": "https://www.pump.co/blog/cloud-cost-optimization/",
+    "pass": 1
+   },
+   {
+    "quote": "As Usergems continues to scale, Pump remains part of the foundation that supports sustainable growth and operational clarity across teams.",
+    "url": "https://www.pump.co/blog/cloud-cost-optimization/",
+    "pass": 1
+   },
+   {
+    "quote": "such as Amazon S3, encrypting the data in the process. Results can then be used as part of the business workflows, such as building chatbots, customizing customer service, or automating menial tasks.",
+    "url": "https://www.pump.co/blog/aws-bedrock-pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Better engagement from employees and increased customer support.",
+    "url": "https://www.pump.co/blog/aws-bedrock-pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "As Usergems continues to scale, Pump remains part of the foundation that supports sustainable growth and operational clarity across teams.",
+    "url": "https://www.pump.co/blog/aws-bedrock-pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "You run the workload on behalf of every customer. Their growth reaches your bill before it reaches your revenue.",
+    "url": "https://www.pump.co/industries/data-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": ". This year was not just about updates; it felt different from all the previous years as it demonstrated the arrival of the AI-native era of the cloud, automation, and AI acceleration. Cloud, Automation, and AI Fine-Tuning: The Triumph of the Cloud Era!",
+    "url": "https://www.pump.co/blog/aws-re-invent/",
+    "pass": 1
+   },
+   {
+    "quote": "As Usergems continues to scale, Pump remains part of the foundation that supports sustainable growth and operational clarity across teams.",
+    "url": "https://www.pump.co/blog/aws-re-invent/",
+    "pass": 1
+   },
+   {
+    "quote": "Layne, J. E., Parkin, C. G., & Zisser, H. (2016). Efficacy of the Omnipod Insulin Management System on Glycemic Control in Patients With Type 1 Diabetes Previously Treated With Multiple Daily Injections or Continuous Subcutaneous Insulin Infusion. Journal of diabetes science and technology, 10(5), 1130-5. https://doi.org/10.1177/1932296816638674",
+    "url": "https://kobe-kishida-clinic.com/about-diabetes-internal-medicine/insulin-therapy/insulin-advanced-devices/omnipod-patch-pump-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Lebenthal, Y., Lazar, L., Benzaquen, H., Shalitin, S., & Phillip, M. (2012). Patient perceptions of using the OmniPod system compared with conventional insulin pumps in young adults with type 1 diabetes. Diabetes technology & therapeutics, 14(5), 411-7. https://doi.org/10.1089/dia.2011.0228",
+    "url": "https://kobe-kishida-clinic.com/about-diabetes-internal-medicine/insulin-therapy/insulin-advanced-devices/omnipod-patch-pump-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Kong, Y. W., Yuan, C. Y., Kiburg, K., Brown, K., Trawley, S., Partovi, A., Roem, K., Pham, C., Harrison, N., Fourlanos, S., Ekinci, E. I., & O’Neal, D. N. (2024). Treatment Satisfaction With Omnipod DASH in Adults With Type 1 Diabetes: A Nonblinded 1:1 Randomized Controlled Trial. The Journal of clinical endocrinology and metabolism, 109(8), 1984-1995. https://doi.org/10.1210/clinem/dgae088",
+    "url": "https://kobe-kishida-clinic.com/about-diabetes-internal-medicine/insulin-therapy/insulin-advanced-devices/omnipod-patch-pump-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Riveline, J. P., Hopley, C., Olivieri, A. V., Guigand, G., Littlewood, M., & Penfornis, A. (2026). Is Omnipod 5 cost effective for the management of type 1 diabetes among adults in France?. Diabetes & metabolism, 52(1), 101721. https://doi.org/10.1016/j.diabet.2025.101721",
+    "url": "https://kobe-kishida-clinic.com/about-diabetes-internal-medicine/insulin-therapy/insulin-advanced-devices/omnipod-patch-pump-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "There isn’t a universal, globally accepted “Top 10 pump brands” list that’s both up-to-date and purely Japan-focused. Different publications use different criteria (total company revenue, pump-segment revenue, installed base, patents, regional market share, or web visibility). So here’s the approach used in this guide:",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "If you need a strict “by revenue” list, the best method is to compare each brand’s latest annual report and pump-segment disclosure. That’s doable—but it changes year to year and requires consistent segment definitions. For a Google site article meant to guide buyers, the “who is best for what job” view is usually more useful.",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "Tier 2 – Notable specialists (often strong in a narrower segment)",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "On EBARA’s own product pages, you’ll see single-stage end-suction product lines such as the “model GSO,” positioned for ISO standards and industrial use. The public specs listed include capacities up to 1400 m³/h and heads up to 150 m, with operating temperatures up to 150°C depending on configuration.",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "harry02@lanmsl.com",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "We are not responsible for lost or damaged returns. If your return is lost or damaged during shipping, a refund cannot be issued, as the item cannot be resold or returned to the supplier. Please file a claim directly with your shipping carrier for reimbursement.",
+    "url": "https://mizumoauto.com/products/npw-m-61-npw-m-61-water-pump-made-in-japan?srsltid=AYCX9vJegQhmG3cTQItFRP1_190ejKll0alnFlffQWnS4CE7KQGy07eV",
+    "pass": 3
+   },
+   {
+    "quote": "Mizumo Auto provides a 90-day Limited Warranty against defects in workmanship and materials under normal service conditions, effective from the original delivery date.",
+    "url": "https://mizumoauto.com/products/npw-m-61-npw-m-61-water-pump-made-in-japan?srsltid=AYCX9vJegQhmG3cTQItFRP1_190ejKll0alnFlffQWnS4CE7KQGy07eV",
+    "pass": 3
+   },
+   {
+    "quote": "This warranty is non-transferable and applies only to the original purchaser. Coverage is limited to the replacement or refund of defective products.",
+    "url": "https://mizumoauto.com/products/npw-m-61-npw-m-61-water-pump-made-in-japan?srsltid=AYCX9vJegQhmG3cTQItFRP1_190ejKll0alnFlffQWnS4CE7KQGy07eV",
+    "pass": 3
+   },
+   {
+    "quote": "The warranty does not cover labor costs, damage resulting from accidents, misuse, alterations, or unauthorized modifications, as well as additional expenses such as towing, fluids, oils, car rentals, and any other parts not included in the original purchase.",
+    "url": "https://mizumoauto.com/products/npw-m-61-npw-m-61-water-pump-made-in-japan?srsltid=AYCX9vJegQhmG3cTQItFRP1_190ejKll0alnFlffQWnS4CE7KQGy07eV",
+    "pass": 3
+   },
+   {
+    "quote": "Warranty Claims Process:",
+    "url": "https://mizumoauto.com/products/npw-m-61-npw-m-61-water-pump-made-in-japan?srsltid=AYCX9vJegQhmG3cTQItFRP1_190ejKll0alnFlffQWnS4CE7KQGy07eV",
+    "pass": 3
+   },
+   {
+    "quote": "All warranty claims must be pre-authorized and returned prepaid to Mizumo Auto for inspection and approval.",
+    "url": "https://mizumoauto.com/products/npw-m-61-npw-m-61-water-pump-made-in-japan?srsltid=AYCX9vJegQhmG3cTQItFRP1_190ejKll0alnFlffQWnS4CE7KQGy07eV",
+    "pass": 3
+   },
+   {
+    "quote": "Import duties, taxes, and brokerage fees are not included in the shipping fee. Please check with your shipping carrier and local customs office regarding any applicable fees before placing your order.",
+    "url": "https://mizumoauto.com/products/npw-m-61-npw-m-61-water-pump-made-in-japan?srsltid=AYCX9vJegQhmG3cTQItFRP1_190ejKll0alnFlffQWnS4CE7KQGy07eV",
+    "pass": 3
+   },
+   {
+    "quote": "A major chicken processing plant in northwest Arkansas, part of one of the world’s largest meat processors, produces millions of pounds of meat each week and needed a…",
+    "url": "https://flowsolutions.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "This is a photo of SLES in a barrel",
+    "url": "https://www.tapflopumps.co.uk/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Pump.co Revenue 2025: $15.2M, $4M Raised",
+    "url": "https://getlatka.com/companies/pump.co",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, valuation & funding",
+    "url": "https://getlatka.com/companies/pump.co",
+    "pass": 3
+   },
+   {
+    "quote": "Pump.co's annual revenue was $15.2M in April 2025, the most recent figure on record.",
+    "url": "https://getlatka.com/companies/pump.co",
+    "pass": 3
+   },
+   {
+    "quote": "All 2 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/pump.co",
+    "pass": 3
+   },
+   {
+    "quote": "Pump.co CEO, founders & employees",
+    "url": "https://getlatka.com/companies/pump.co",
+    "pass": 3
+   },
+   {
+    "quote": "Spandana Nakka founded Pump.co in 2022 and runs it as CEO. Pump.co has 76 employees (November 2025, LinkedIn), up from 9 a year earlier.",
+    "url": "https://getlatka.com/companies/pump.co",
+    "pass": 3
+   },
+   {
+    "quote": "What is Pump.co's revenue?",
+    "url": "https://getlatka.com/companies/pump.co",
+    "pass": 3
+   },
+   {
+    "quote": "Pump.co's annual revenue was",
+    "url": "https://getlatka.com/companies/pump.co",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Pump.co have?",
+    "url": "https://getlatka.com/companies/pump.co",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of November 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/pump.co",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/pump.co",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/pump.co",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/pump.co",
+    "pass": 3
+   },
+   {
+    "quote": "PUMP: Revenue, Competitors, Alternatives",
+    "url": "https://growjo.com/company/PUMP",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and Competitors",
+    "url": "https://growjo.com/company/PUMP",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/PUMP",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/PUMP",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated revenue per employee is $",
+    "url": "https://growjo.com/company/PUMP",
+    "pass": 3
+   },
+   {
+    "quote": "Pump revenue, funding & growth rate | Sacra",
+    "url": "https://sacra.com/c/pump/",
+    "pass": 3
+   },
+   {
+    "quote": "hit $25M in annualized revenue in 2025, up from roughly $7M at the end of 2024 and $500K as of March 2024, reflecting rapid expansion in spend under management as the company scaled its pooled billing model.",
+    "url": "https://sacra.com/c/pump/",
+    "pass": 3
+   },
+   {
+    "quote": "Pump’s revenue is driven by its position as a cloud reseller and intermediary, earning a percentage of aggregated volume discounts negotiated with AWS and GCP rather than charging customers directly.",
+    "url": "https://sacra.com/c/pump/",
+    "pass": 3
+   },
+   {
+    "quote": "Growth is tightly coupled to customer acquisition and average cloud spend per account. The company reports hundreds to over 1,000 customers and a pooled purchasing base that enables 20–40% typical savings, suggesting strong alignment between customer value and revenue expansion as usage scales.",
+    "url": "https://sacra.com/c/pump/",
+    "pass": 3
+   },
+   {
+    "quote": "Looking forward, revenue growth depends on expanding beyond AWS into GCP and Azure, increasing penetration into higher-spend mid-market customers, and layering additional monetization through visibility, security, and AI-driven optimization products.",
+    "url": "https://sacra.com/c/pump/",
+    "pass": 3
+   },
+   {
+    "quote": "The product is free to end customers: Pump earns revenue from cloud providers through reseller economics and the margin created when aggregated customer spend qualifies for pricing tiers that no individual startup could reach on its own.",
+    "url": "https://sacra.com/c/pump/",
+    "pass": 3
+   },
+   {
+    "quote": ", and its acquisition of CloudWize in late 2025 moved it into security posture and compliance, mirroring the same Save-View-Secure bundle",
+    "url": "https://sacra.com/c/pump/",
+    "pass": 3
+   },
+   {
+    "quote": "into accounts earlier and at lower customer acquisition cost than direct outbound.",
+    "url": "https://sacra.com/c/pump/",
+    "pass": 3
+   },
+   {
+    "quote": "'s economic model depends on maintaining authorized reseller status and favorable discount-sharing arrangements with AWS, GCP, and Azure, so",
+    "url": "https://sacra.com/c/pump/",
+    "pass": 3
+   },
+   {
+    "quote": "Billing-layer trust barrier",
+    "url": "https://sacra.com/c/pump/",
+    "pass": 3
+   },
+   {
+    "quote": "PIU has a title system with various acquisition conditions (e.g., \"play charts by the same creator n times or more,\" \"clear boss charts of a specified version,\" or even \"achieve a specific result on a specific chart\"). Among these, there are titles known as INTERMEDIATE to EXPERT.",
+    "url": "https://note.com/cst_dl_sol/n/n90e58e97e938?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Since I was originally a foot-mopping charge player, I narrowed my stance and moved my feet back and forth while always stepping on the yellow panel, and I got it on the first try. However, there is a part in the second half where you have to turn your body sideways properly, so as long as you take care of that, it's practically a freebie. Personally.",
+    "url": "https://note.com/cst_dl_sol/n/n90e58e97e938?hl=en",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Reseller markup eliminated on day one",
+    "url": "https://www.pump.co/customers/how-forusall-eliminated-hidden-aws-costs-across-rds-infrastructure-with-pump-save",
+    "pass": 1
+   },
+   {
+    "quote": "Within three months of switching to Pump, ForUsAll went from paying a 10% reseller markup with no optimization to running a multi-layered savings strategy backed by dedicated solutions architecture support. The impact came in two distinct layers.",
+    "url": "https://www.pump.co/customers/how-forusall-eliminated-hidden-aws-costs-across-rds-infrastructure-with-pump-save",
+    "pass": 1
+   },
+   {
+    "quote": "The first layer was commitment optimization: compute savings plans, database savings plans covering both RDS and OpenSearch, and additional reserved instances layered in as workloads stabilized. This addressed the predictable, always-on spend that ForUsAll's previous reseller had never touched.",
+    "url": "https://www.pump.co/customers/how-forusall-eliminated-hidden-aws-costs-across-rds-infrastructure-with-pump-save",
+    "pass": 1
+   },
+   {
+    "quote": "for any given customer to exclude all other customers. MSPs and resellers who had previously allowed customers to access discount sharing will be most impacted by these changes.",
+    "url": "https://www.pump.co/blog/aws-ec2-pricing-update/",
+    "pass": 1
+   },
+   {
+    "quote": "These changes will affect resellers, not FinOps platforms, including",
+    "url": "https://www.pump.co/blog/aws-ec2-pricing-update/",
+    "pass": 1
+   },
+   {
+    "quote": "Resellers lose the ability to offer shared discount models",
+    "url": "https://www.pump.co/blog/aws-ec2-pricing-update/",
+    "pass": 1
+   },
+   {
+    "quote": "Pump Referral Program: Refer Teams, Earn Credits",
+    "url": "https://www.pump.co/partner-refer",
+    "pass": 1
+   },
+   {
+    "quote": "Kong, Y. W., Yuan, C. Y., Kiburg, K., Brown, K., Trawley, S., Partovi, A., Roem, K., Pham, C., Harrison, N., Fourlanos, S., Ekinci, E. I., & O’Neal, D. N. (2024). Treatment Satisfaction With Omnipod DASH in Adults With Type 1 Diabetes: A Nonblinded 1:1 Randomized Controlled Trial. The Journal of clinical endocrinology and metabolism, 109(8), 1984-1995. https://doi.org/10.1210/clinem/dgae088",
+    "url": "https://kobe-kishida-clinic.com/about-diabetes-internal-medicine/insulin-therapy/insulin-advanced-devices/omnipod-patch-pump-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Pump’s revenue is driven by its position as a cloud reseller and intermediary, earning a percentage of aggregated volume discounts negotiated with AWS and GCP rather than charging customers directly.",
+    "url": "https://sacra.com/c/pump/",
+    "pass": 3
+   },
+   {
+    "quote": "is a B2B cloud reseller and optimization engine.",
+    "url": "https://sacra.com/c/pump/",
+    "pass": 3
+   },
+   {
+    "quote": "The product is free to end customers: Pump earns revenue from cloud providers through reseller economics and the margin created when aggregated customer spend qualifies for pricing tiers that no individual startup could reach on its own.",
+    "url": "https://sacra.com/c/pump/",
+    "pass": 3
+   },
+   {
+    "quote": "Pump competes across all three with a free, reseller-funded model that most rivals do not match.",
+    "url": "https://sacra.com/c/pump/",
+    "pass": 3
+   },
+   {
+    "quote": "DoiT has the closest structural overlap with Pump's model: it combines FinOps software with a cloud commerce and reseller motion",
+    "url": "https://sacra.com/c/pump/",
+    "pass": 3
+   },
+   {
+    "quote": "'s economic model depends on maintaining authorized reseller status and favorable discount-sharing arrangements with AWS, GCP, and Azure, so",
+    "url": "https://sacra.com/c/pump/",
+    "pass": 3
+   },
+   {
+    "quote": "a unilateral change to reseller economics, partner program terms, or API access by any of the three cloud providers could compress Pump's margin pool faster than the company could pivot to a software-fee model.",
+    "url": "https://sacra.com/c/pump/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Asia Pacific (Mumbai), Asia Pacific (Tokyo), Asia Pacific (Jakarta), South America (Sao Paulo).",
+    "url": "https://www.pump.co/blog/aws-ec2-pricing-update/",
+    "pass": 1
+   },
+   {
+    "quote": "Asia Pacific (Mumbai), Asia Pacific (Tokyo), Asia Pacific (Jakarta).",
+    "url": "https://www.pump.co/blog/aws-ec2-pricing-update/",
+    "pass": 1
+   },
+   {
+    "quote": "オムニポッドは日本で使える？チューブレス式パッチポンプの導入状況 - 神戸きしだクリニック（神戸市中央区）",
+    "url": "https://kobe-kishida-clinic.com/about-diabetes-internal-medicine/insulin-therapy/insulin-advanced-devices/omnipod-patch-pump-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "オムニポッドは日本で使える？チューブレス式パッチポンプの導入状況",
+    "url": "https://kobe-kishida-clinic.com/about-diabetes-internal-medicine/insulin-therapy/insulin-advanced-devices/omnipod-patch-pump-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "海外での販売は、日本での導入可否を直接示す情報ではありません",
+    "url": "https://kobe-kishida-clinic.com/about-diabetes-internal-medicine/insulin-therapy/insulin-advanced-devices/omnipod-patch-pump-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、パッチ型とチューブのあるポンプの違い、海外研究の読み方、日本での承認・保険適用・採用状況の確認先を解説しています",
+    "url": "https://kobe-kishida-clinic.com/about-diabetes-internal-medicine/insulin-therapy/insulin-advanced-devices/omnipod-patch-pump-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "オムニポッドを日本で使えるかは何で決まる？",
+    "url": "https://kobe-kishida-clinic.com/about-diabetes-internal-medicine/insulin-therapy/insulin-advanced-devices/omnipod-patch-pump-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "日本で暮らす2型糖尿病の人が読む際は、糖尿病の型、年齢、使用したシリーズ、医療制度の違いを切り分けます",
+    "url": "https://kobe-kishida-clinic.com/about-diabetes-internal-medicine/insulin-therapy/insulin-advanced-devices/omnipod-patch-pump-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "一方、使わなかった人との公平な比較は難しく、参加者の年齢や糖尿病の型、医療制度も日本の読者とは異なります",
+    "url": "https://kobe-kishida-clinic.com/about-diabetes-internal-medicine/insulin-therapy/insulin-advanced-devices/omnipod-patch-pump-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "海外のデータからは、パッチ型の使用経験や検討すべき項目を把握できますが、国内で使えるかという質問への答えは、日本の公的な承認情報と流通状況から確認してください",
+    "url": "https://kobe-kishida-clinic.com/about-diabetes-internal-medicine/insulin-therapy/insulin-advanced-devices/omnipod-patch-pump-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "日本で通常の診療として導入できるかは、国内承認、販売と供給、保険診療での扱い、医療機関の採用状況を順に確認して決まります",
+    "url": "https://kobe-kishida-clinic.com/about-diabetes-internal-medicine/insulin-therapy/insulin-advanced-devices/omnipod-patch-pump-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "海外の公式サイトは海外での提供状況を示すもので、国内導入の根拠にはなりません",
+    "url": "https://kobe-kishida-clinic.com/about-diabetes-internal-medicine/insulin-therapy/insulin-advanced-devices/omnipod-patch-pump-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "海外の記事は掲載国と公開日を確認し、日本向けの情報と混同しない姿勢が必要です",
+    "url": "https://kobe-kishida-clinic.com/about-diabetes-internal-medicine/insulin-therapy/insulin-advanced-devices/omnipod-patch-pump-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "個人輸入で入手できるかという話と、日本の医療機関が責任を持って処方し、継続支援できるかという話も別です",
+    "url": "https://kobe-kishida-clinic.com/about-diabetes-internal-medicine/insulin-therapy/insulin-advanced-devices/omnipod-patch-pump-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "フランスの制度を前提にしたオムニポッドの費用対効果の推計値は、日本の費用へ置き換えられず、国内の負担は価格、診療報酬、支援の仕組みを踏まえて受診先で個別に確認します",
+    "url": "https://kobe-kishida-clinic.com/about-diabetes-internal-medicine/insulin-therapy/insulin-advanced-devices/omnipod-patch-pump-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "海外法人へ問い合わせるより、日本法人または国内担当窓口の回答が適切です",
+    "url": "https://kobe-kishida-clinic.com/about-diabetes-internal-medicine/insulin-therapy/insulin-advanced-devices/omnipod-patch-pump-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "海外で販売中なら日本の医療機関でも処方できますか？",
+    "url": "https://kobe-kishida-clinic.com/about-diabetes-internal-medicine/insulin-therapy/insulin-advanced-devices/omnipod-patch-pump-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "海外で販売中という情報だけでは、日本の医療機関での処方可否を判断できません",
+    "url": "https://kobe-kishida-clinic.com/about-diabetes-internal-medicine/insulin-therapy/insulin-advanced-devices/omnipod-patch-pump-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 7 Japanese Water Pump Manufacturers (2026 List) - Mislier Water Pump",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 7 Japanese Water Pump Manufacturers (2026 List)",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "Prioritize Japanese brands when project specifications mandate strict JIS/ISO standards, high-end metallurgy, or long-term operational stability.",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "While quality is high, Japanese brands often face extended lead times and premium pricing.",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "Why Japanese Pump Brands Lead the Global Fluid Handling Market",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "This article is written for practical buyers: plant engineers, contractors, procurement teams, and system integrators who want a clear picture of the Japanese water pump manufacturer landscape—without marketing fluff, and without pretending there is one perfect brand for every job.",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "There isn’t a universal, globally accepted “Top 10 pump brands” list that’s both up-to-date and purely Japan-focused. Different publications use different criteria (total company revenue, pump-segment revenue, installed base, patents, regional market share, or web visibility). So here’s the approach used in this guide:",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "Quick shortlist: the most recognized Japanese water pump manufacturers",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "If you only include one Japanese water pump manufacturer in a global project shortlist, EBARA is usually it. EBARA is known for a wide range: end-suction pumps, process pumps, building services pumps, waterworks pumps, and major industrial systems.",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "Torishima is a major Japanese pump name with long history in large and engineered pumping solutions. In many international EPC conversations, TORISHIMA shows up when the application is “serious infrastructure”—power plants, drainage stations, desalination, and other high-demand services.",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "If the job is submersible drainage, construction dewatering, sewage bypass, or wastewater pumping where clogging risk is real, TSURUMI is one of the most recognized Japanese pump manufacturers worldwide. Their product pages focus heavily on durability features that matter in the field: cable entry protection, seal design, wear parts, and continuous-duty performance.",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "TEIKOKU is a very different kind of “Japanese water pump manufacturer.” In many chemical and energy facilities, the biggest cost is not the pump itself—it’s the consequence of leakage: safety incidents, environmental risk, lost product, and unplanned shutdowns.",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "Tier 2: other notable Japanese pump brands (strong depending on the niche)",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "How to choose a Japanese water pump manufacturer for your project (a buyer’s checklist)",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "1) Is a Japanese water pump manufacturer always better than other countries?",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "Not automatically. Japan has many strong brands, but the right answer depends on application, specification, and after-sales support. For low-risk, low-duty services, a well-made local brand can perform perfectly.",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "2) Which Japanese brand is best for sewage and drainage?",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "3) Which Japanese brand is best for large industrial projects?",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "4) Which Japanese pump brand is best for zero-leakage chemical service?",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "Selecting a Japanese water pump manufacturer is often a strategic decision based on a legacy of reliability and precise engineering. Brands like Ebara, Tsurumi, and Torishima have set the global standard for hydraulic efficiency and metallurgical durability. For massive infrastructure or high-risk chemical processes, these brands remain the primary choice for specifiers worldwide.",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": ", we respect the benchmarks set by Japanese engineering. We have integrated these same standards into our manufacturing process, providing contractors and engineers with high-performance centrifugal and submersible pumps that bridge the gap between premium Japanese quality and the need for agile project execution.",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "If you have a project specification based on a Japanese brand and need a technical cross-reference or a quote for an equivalent high-performance model, our engineering team is ready to assist.",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "Notice of Tokyo office new location",
+    "url": "https://www.nopgroup.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "New year holiday of NOP office/factory in Japan",
+    "url": "https://www.nopgroup.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "NPW M-61 Water Pump MADE IN JAPAN – Mizumo Auto",
+    "url": "https://mizumoauto.com/products/npw-m-61-npw-m-61-water-pump-made-in-japan?srsltid=AYCX9vJegQhmG3cTQItFRP1_190ejKll0alnFlffQWnS4CE7KQGy07eV",
+    "pass": 3
+   },
+   {
+    "quote": "NPW M-61 Water Pump MADE IN JAPAN",
+    "url": "https://mizumoauto.com/products/npw-m-61-npw-m-61-water-pump-made-in-japan?srsltid=AYCX9vJegQhmG3cTQItFRP1_190ejKll0alnFlffQWnS4CE7KQGy07eV",
+    "pass": 3
+   },
+   {
+    "quote": "1 NPW Water Pump w/ Gasket (made in Japan)",
+    "url": "https://mizumoauto.com/products/npw-m-61-npw-m-61-water-pump-made-in-japan?srsltid=AYCX9vJegQhmG3cTQItFRP1_190ejKll0alnFlffQWnS4CE7KQGy07eV",
+    "pass": 3
+   },
+   {
+    "quote": "歌唱力やダンスにおいて日本国内でトップレベルの実力を誇るモンスターグループ・ミュージシャングループSMAPを超えることはできなかったが、それでも活動初期の頃は10代のアイドルグループ（B級アイドルポジション）としてSMAPに対抗する形で登場し、人気を博した",
+    "url": "https://note.com/werty1tym/n/n8a1457a05447",
+    "pass": 3
+   },
+   {
+    "quote": "1997年5月には日本テレビ系列のワイドショー『ルックルックこんにちは』でレッスン、レコーディング風景、Zepp OSAKAでのライブ、インタビューなどデビュー前の様子が取材された（このときの映像は2001年にDA PUMPが同番組にゲスト出演した回でも放送され、2018年に同じ日本テレビ系列で放送された「1周回って知らない話」でも当時のVTRが流された）",
+    "url": "https://note.com/werty1tym/n/n8a1457a05447",
+    "pass": 3
+   },
+   {
+    "quote": "8月に初コンサート『DA PUMP 1st STAGE EXPRESSION』が大阪城ホールよりスタートし、福岡国際センター、名古屋レインボーホール、日本武道館と全国4会場で開催",
+    "url": "https://note.com/werty1tym/n/n8a1457a05447",
+    "pass": 3
+   },
+   {
+    "quote": "この10年間でグッときた日本のボーイズグループ楽曲20選 【w-inds.多め】",
+    "url": "https://note.com/tag/DAPUMP",
+    "pass": 3
+   },
+   {
+    "quote": "アイドルの育成を専門としている日本の芸能事務所「ライジングプロダクション」と「ジャニーズ事務所」の存在",
+    "url": "https://note.com/werty1tym/n/nb2687f24688e",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "代理店 一覧 | ケミカル ポンプ と流体制御機器のイワキ [製品 ... — 代理店 一覧 | ケミカル ポンプ と流体制御機器のイワキ [製品 ... iwakipumps.jp https://www.iwakipumps.jp > corporate > agency",
+    "url": "https://www.iwakipumps.jp/corporate/agency/",
+    "pass": 3
+   },
+   {
+    "quote": "販売 代理店 一覧｜OEMコンプレッサー・ ポンプ ｜トーマス — 販売 代理店 一覧｜OEMコンプレッサー・ ポンプ ｜トーマス thomaspumps.com https://www.thomaspumps.com > homepage > 会社情報",
+    "url": "https://www.thomaspumps.com/ja/about-us/distributors/",
+    "pass": 3
+   },
+   {
+    "quote": "Top 7 Japanese Water Pump Manufacturers (2026 List) — Top 7 Japanese Water Pump Manufacturers (2026 List) Mislier https://www.mislier.com > japanese-w...",
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "pass": 3
+   },
+   {
+    "quote": "JAPAN PUMP ENGINEERING CO., LTD. — JAPAN PUMP ENGINEERING CO., LTD. 日本ポンプ技研 https://www.japan-pump-eng.com > ...",
+    "url": "https://www.japan-pump-eng.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Nippon Oil Pump Co., Ltd. — Nippon Oil Pump Co., Ltd. 日本オイルポンプ https://www.nopgroup.com > ...",
+    "url": "https://www.nopgroup.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "NPW M-61 Water Pump MADE IN JAPAN - Mizumo Auto — NPW M-61 Water Pump MADE IN JAPAN - Mizumo Auto Mizumo Auto https://mizumoauto.com > products > npw-m-61-npw-m-...",
+    "url": "https://mizumoauto.com/products/npw-m-61-npw-m-61-water-pump-made-in-japan?srsltid=AYCX9vJegQhmG3cTQItFRP1_190ejKll0alnFlffQWnS4CE7KQGy07eV",
+    "pass": 3
+   },
+   {
+    "quote": "Torishima Pump Mfg. Co., Ltd. Torishima Pump — Torishima Pump Mfg. Co., Ltd. Torishima Pump torishima.co.jp https://www.torishima.co.jp > ...",
+    "url": "https://www.torishima.co.jp/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Pump Case Studies — Industrial Pump Case Studies Pitbull Industrial Pumps https://pitbullpumps.com > case-studies",
+    "url": "https://pitbullpumps.com/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - Pumps .org — Case Studies - Pumps .org Pumps.org https://www.pumps.org > case-studies",
+    "url": "https://www.pumps.org/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - Tapflo Pumps UK — Case Studies - Tapflo Pumps UK Tapflo UK https://www.tapflopumps.co.uk > case...",
+    "url": "https://www.tapflopumps.co.uk/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "A Case Study on Pump Transfer Times and Waste Reduction — A Case Study on Pump Transfer Times and Waste Reduction ResearchGate https://www.researchgate.net > 40033...",
+    "url": "https://www.researchgate.net/publication/400336193_Optimizing_Production_Efficiency_Through_Mechanical_Upgrades_A_Case_Study_on_Pump_Transfer_Times_and_Waste_Reduction",
+    "pass": 3
+   },
+   {
+    "quote": "Pump .co Revenue 2025: $15.2M, $4M Raised - GetLatka — Pump .co Revenue 2025: $15.2M, $4M Raised - GetLatka GetLatka https://getlatka.com > pump",
+    "url": "https://getlatka.com/companies/pump.co",
+    "pass": 3
+   },
+   {
+    "quote": "$15M ARR in 18 months. 35 people. Profitable. Pump .co just ... — $15M ARR in 18 months. 35 people. Profitable. Pump .co just ... LinkedIn https://www.linkedin.com > posts",
+    "url": "https://www.linkedin.com/posts/henrythe9th_15m-arr-in-18-months-35-people-profitable-activity-7329109617592934400-5p0N",
+    "pass": 3
+   },
+   {
+    "quote": "PUMP : Revenue , Competitors, Alternatives - Growjo — PUMP : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > company > PUMP",
+    "url": "https://growjo.com/company/PUMP",
+    "pass": 3
+   },
+   {
+    "quote": "Pump revenue , funding & growth rate | Sacra — Pump revenue , funding & growth rate | Sacra sacra.com https://sacra.com > pump",
+    "url": "https://sacra.com/c/pump/",
+    "pass": 3
+   },
+   {
+    "quote": "Pump .co Valuation & Funding History - Caplight — Pump .co Valuation & Funding History - Caplight Caplight https://www.caplight.com > pump-co",
+    "url": "https://www.caplight.com/company/pump-co",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "The Most Common Pump in Factories: Why Centrifugal Pumps ... The Most Common Pump in Factories: Why Centrifugal Pumps ... note https://note.com > 科学・テクノロジー > 機械・工学",
+    "url": "https://note.com/mitsuwapump/n/n40910c3086f4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A memorandum on obtaining ADVANCED Lv.1 in Pump it Up A memorandum on obtaining ADVANCED Lv.1 in Pump it Up note https://note.com > cst_dl_sol",
+    "url": "https://note.com/cst_dl_sol/n/n90e58e97e938?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What is the difference between a slurry pump and a regular ... What is the difference between a slurry pump and a regular ... note https://note.com > ビジネス > ビジネス全般",
+    "url": "https://note.com/mitsuwapump/n/n20899052b73d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "SMAPの対抗馬 / 4人組のダンスアイドルグループ『DA PUMP 』 SMAPの対抗馬 / 4人組のダンスアイドルグループ『DA PUMP 』 note https://note.com > エンタメ > 音楽",
+    "url": "https://note.com/werty1tym/n/n8a1457a05447",
+    "pass": 3
+   },
+   {
+    "quote": "DAPUMPの人気・新着記事まとめ - note DAPUMPの人気・新着記事まとめ - note note https://note.com > tag > DAPUMP",
+    "url": "https://note.com/tag/DAPUMP",
+    "pass": 3
+   },
+   {
+    "quote": "DA PUMP とジャニーズの関係｜エンターくん - note DA PUMP とジャニーズの関係｜エンターくん - note note https://note.com > エンタメ > アイドル",
+    "url": "https://note.com/werty1tym/n/nb2687f24688e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "The Most Common Pump in Factories: Why Centrifugal Pumps Can Move Water｜挑戦するポンプ屋@ビジネス",
+    "url": "https://note.com/mitsuwapump/n/n40910c3086f4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/mitsuwapump/n/n40910c3086f4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Most Common Pump in Factories: Why Centrifugal Pumps Can Move Water",
+    "url": "https://note.com/mitsuwapump/n/n40910c3086f4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "You may have heard the word \"pump,\" but you might not know exactly how it works to move liquids—surprisingly, many people are in that same boat.",
+    "url": "https://note.com/mitsuwapump/n/n40910c3086f4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The most commonly used pump in factories and water/sewage systems is the",
+    "url": "https://note.com/mitsuwapump/n/n40910c3086f4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ". In this article, we will explain as clearly as possible how a centrifugal pump moves liquid.",
+    "url": "https://note.com/mitsuwapump/n/n40910c3086f4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "How a Centrifugal Pump Works",
+    "url": "https://note.com/mitsuwapump/n/n40910c3086f4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "First, let's explain the mechanism of this centrifugal pump.",
+    "url": "https://note.com/mitsuwapump/n/n40910c3086f4?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A memorandum on obtaining ADVANCED Lv.1 in Pump it Up｜でるそる",
+    "url": "https://note.com/cst_dl_sol/n/n90e58e97e938?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/cst_dl_sol/n/n90e58e97e938?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "A memorandum on obtaining ADVANCED Lv.1 in Pump it Up",
+    "url": "https://note.com/cst_dl_sol/n/n90e58e97e938?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "For those meeting me for the first time, hello. For those I haven't seen in a while, it's been a while. I'm Delsol. This time, since I recently obtained the title ADVANCED Lv.1 in the game Pump it Up (hereinafter referred to as \"PIU\"), I would like to summarize how I obtained it while looking back on the process.",
+    "url": "https://note.com/cst_dl_sol/n/n90e58e97e938?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "PIU has a title system with various acquisition conditions (e.g., \"play charts by the same creator n times or more,\" \"clear boss charts of a specified version,\" or even \"achieve a specific result on a specific chart\"). Among these, there are titles known as INTERMEDIATE to EXPERT.",
+    "url": "https://note.com/cst_dl_sol/n/n90e58e97e938?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "These titles are obtained when the \"rating value of (specified difficulty) is XX or higher,\" and for ADVANCED and above, the prerequisite is that you must have already obtained the title one level below.",
+    "url": "https://note.com/cst_dl_sol/n/n90e58e97e938?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "To give an example, the \"ADVANCED Lv.1\" title I obtained this time has the condition: \"[Lv.20 Rating] 13000 points or higher // Earn [INTERMEDIATE Lv.10]\". Translated into plain English, this means you can obtain the title if you have obtained INTERMEDIATE Lv.10 and have a rating value of 13000 points or higher for Lv.20.",
+    "url": "https://note.com/cst_dl_sol/n/n90e58e97e938?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Now, as for what a rating value is, it is a value called \"PUMBILITY\" calculated from the grade you receive when you clear a chart (so-called Break On, hereinafter \"BO\"). Regarding this PUMBILITY, in the case of Lv.20, which is the target difficulty for ADVANCED Lv.1, you get 650 points for AA, 683 points for AA+, and 715 points for AAA.",
+    "url": "https://note.com/cst_dl_sol/n/n90e58e97e938?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What is the difference between a slurry pump and a regular pump? 5 Q&As you should know｜挑戦するポンプ屋@ビジネス",
+    "url": "https://note.com/mitsuwapump/n/n20899052b73d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/mitsuwapump/n/n20899052b73d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What is the difference between a slurry pump and a regular pump? 5 Q&As you should know",
+    "url": "https://note.com/mitsuwapump/n/n20899052b73d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What is the difference between a slurry pump and a regular pump?",
+    "url": "https://note.com/mitsuwapump/n/n20899052b73d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is one of the questions we often receive from those who have just started considering the introduction of a pump.",
+    "url": "https://note.com/mitsuwapump/n/n20899052b73d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Even if they look similar, they are completely different on the inside.",
+    "url": "https://note.com/mitsuwapump/n/n20899052b73d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In this article, we will pick up 5 common questions about slurry pumps and answer them in a Q&A format.",
+    "url": "https://note.com/mitsuwapump/n/n20899052b73d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Q1. What is the fundamental difference between a slurry pump and a regular pump?",
+    "url": "https://note.com/mitsuwapump/n/n20899052b73d?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "SMAPの対抗馬 / 4人組のダンスアイドルグループ『DA PUMP』｜エンターくん",
+    "url": "https://note.com/werty1tym/n/n8a1457a05447",
+    "pass": 3
+   },
+   {
+    "quote": "SMAPの対抗馬 / 4人組のダンスアイドルグループ『DA PUMP』",
+    "url": "https://note.com/werty1tym/n/n8a1457a05447",
+    "pass": 3
+   },
+   {
+    "quote": "』（ダ・パンプ）は1997年にライジングプロダクションからデビューした4人組の男性アイドルグループ（ダンス＆ボーカルグループ）。歌唱力やダンスにおいて日本国内でトップレベルの実力を誇るモンスターグループ・ミュージシャングループSMAPを超えることはできなかったが、それでも活動初期の頃は10代のアイドルグループ（B級アイドルポジション）としてSMAPに対抗する形で登場し、人気を博した。ファン層は主にメンバーと同じくらいの年齢層である中高生が中心であり、女性ファンだけでなく若い男性ファン（青少年）も多く獲得した。",
+    "url": "https://note.com/werty1tym/n/n8a1457a05447",
+    "pass": 3
+   },
+   {
+    "quote": "全盛期にDA PUMPが出演していたバラエティ番組の一例",
+    "url": "https://note.com/werty1tym/n/n8a1457a05447",
+    "pass": 3
+   },
+   {
+    "quote": "グループ名は当初、「THE Rockets」という名前が候補に挙げられていたが、ヒップホップのコンセプトと合わなかったため、当時のavex関係者（松浦勝人らを含むスタッフ陣）たちがデビュー曲である「Feelin' Good -It's PARADISE-」のパフォーマンスを見て「飛び跳ねているような動きが多いからJUMP、THE JUMPで行こう！」と名付けたことに由来する。その後、「THE」を「DA」に、「JUMP」を「PUMP」に変換して『DA PUMP』となり、「音楽にのって飛び跳ねる仲間たち」という意味が込められている。デビュー前からメディア露出、ストリートライブ、イベント、ライブツアーなどを行い、注目を集めた。1990年代当時、ジャニーズ以外の男性アイドルグループがデビュー前からテレビ出演することは珍しいことだった。総売り上げ枚数は約800万枚を記録している。",
+    "url": "https://note.com/werty1tym/n/n8a1457a05447",
+    "pass": 3
+   },
+   {
+    "quote": "1996年、沖縄アクターズスクール内でダンスユニットKOOZが結成される",
+    "url": "https://note.com/werty1tym/n/n8a1457a05447",
+    "pass": 3
+   },
+   {
+    "quote": "1996年9月、沖縄アクターズスクール内で2人組のバックダンサーデュオ（KEN＆YUKINARI）を組んでいた奥本 健と玉城幸也、B.B WAVES（KEN＆YUKINARIに合流）として養成所に入学した宮良 忍、ダンスチーム「エクスペルギャング」で活動していた邊土名一茶の4人によってダンスユニットKOOZ（クーズ）を結成。ユニット名は養成所のマキノ正幸が「君たちはまだプロではない、クズの段階だ！！だからクーズだな！」と発言したことに由来する。当時、ライジングプロダクションの平 哲夫社長は「うちは男のグループはやらないんですよ～男性タレントは育成しません」という方針だったが、沖縄アクターズスクールのマキノ正幸校長から「今、面白い子たちがいるから一度、見てみてください！」と言われ、彼らのパフォーマンスを見た後、平社長は「この子たち（ISSAがいれば）だったら売れるかも！」と考えが変わり、男性",
+    "url": "https://note.com/werty1tym/n/n8a1457a05447",
+    "pass": 3
+   },
+   {
+    "quote": "1997年1月、「Billy The Kids」としてメディア露出 / フジテレビ系列",
+    "url": "https://note.com/werty1tym/n/n8a1457a05447",
+    "pass": 3
+   },
+   {
+    "quote": "DAPUMPの人気・新着記事まとめ｜note",
+    "url": "https://note.com/tag/DAPUMP",
+    "pass": 3
+   },
+   {
+    "quote": "DA PUMPのLIVEへ！車椅子で参戦した１日",
+    "url": "https://note.com/tag/DAPUMP",
+    "pass": 3
+   },
+   {
+    "quote": "ねこの運転手|小さな幸せ探し隊 〜小さな幸せありがとう〜",
+    "url": "https://note.com/tag/DAPUMP",
+    "pass": 3
+   },
+   {
+    "quote": "DA PUMPの『U.S.A』をNLPで読み解きます。",
+    "url": "https://note.com/tag/DAPUMP",
+    "pass": 3
+   },
+   {
+    "quote": "ワクワクすることの重要性は本田健さんもバシャールも言っていました",
+    "url": "https://note.com/tag/DAPUMP",
+    "pass": 3
+   },
+   {
+    "quote": "にちじょうにゅーす20261030朝｜ナイナイ矢部が深夜ラジオ卒業！まどマギ新情報、ゴジラ今夜放送、異例の高校サッカー判定まで最新9選！",
+    "url": "https://note.com/tag/DAPUMP",
+    "pass": 3
+   },
+   {
+    "quote": "SMAPの停滞期（1998年～2002年）",
+    "url": "https://note.com/tag/DAPUMP",
+    "pass": 3
+   },
+   {
+    "quote": "DA PUMPとジャニーズの関係｜エンターくん",
+    "url": "https://note.com/werty1tym/n/nb2687f24688e",
+    "pass": 3
+   },
+   {
+    "quote": "アイドルの育成を専門としている日本の芸能事務所「ライジングプロダクション」と「ジャニーズ事務所」の存在。ジャニーズ事務所は主に男性アイドルのプロデュース業を中心に展開しており、ライジングプロダクションは主に女性アイドルのプロデュース業を展開している事務所である。",
+    "url": "https://note.com/werty1tym/n/nb2687f24688e",
+    "pass": 3
+   },
+   {
+    "quote": "(左)ジャニーズ事務所 / ライジングプロダクション(右)",
+    "url": "https://note.com/werty1tym/n/nb2687f24688e",
+    "pass": 3
+   },
+   {
+    "quote": "★ジャニーズ事務所×ライジングプロダクション",
+    "url": "https://note.com/werty1tym/n/nb2687f24688e",
+    "pass": 3
+   },
+   {
+    "quote": "そもそもライジングプロダクションは、沖縄アクターズスクール以外にもアップフロントプロモーション、オフィス北野といった芸能事務所とも友好関係である。1990年代、男性グループのDA PUMPをデビューさせるとき、ライジングプロの平 社長がジャニーズ事務所へ赴き、「競合を避けるため、ジャニーズ事務所のタレントが出演している番組にDA PUMPは出演しません」と約束を交わし、この件に関して両事務所とも合意がなされています。これは両者に敵対心があるということではなく、お互いの活動を邪魔しないようにすれば両者それぞれのスタイルで自由に活動することができるし、その方がグループにとっても有利だろうといった判断でのことでした。",
+    "url": "https://note.com/werty1tym/n/nb2687f24688e",
+    "pass": 3
+   },
+   {
+    "quote": "ライジングプロの平 哲夫氏 / ジャニーズ事務所の創業者、ジャニー喜多川",
+    "url": "https://note.com/werty1tym/n/nb2687f24688e",
+    "pass": 3
+   },
+   {
+    "quote": "1997年5月 / デビュー1ヶ月前のDA PUMPの姿（デビュー前のメディア露出）",
+    "url": "https://note.com/werty1tym/n/nb2687f24688e",
+    "pass": 3
+   },
+   {
+    "quote": "このような話し合いがあったおかげでライジングプロの平 哲夫氏は「DA PUMPをデビューさせることに関しては、そんなに苦しくなかったです。ISSAの声を聴いて、これはもう間違いなく売れると思いましたから。デビュー曲もいきなり20万枚近く売れました。」と後年に語っています。DA PUMPはデビューする前からライブツアーやイベントなども行っており、またその様子がワイドショーなどで紹介されるなどメディア露出に関しては恵まれていたアイドルグループでした。1990年代当時、ジャニーズ以外の男性アイドルグループがデビュー前の過程をテレビで見せるといったことは珍しいことだった。",
+    "url": "https://note.com/werty1tym/n/nb2687f24688e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Pump .fun (@Pumpfun) / X Pump .fun (@Pumpfun) / X X https://x.com > Pumpfun",
+    "url": "https://x.com/Pumpfun",
+    "pass": 3
+   },
+   {
+    "quote": "David Pump (@David_Pump) / X David Pump (@David_Pump) / X X https://x.com > David_Pump",
+    "url": "https://x.com/David_Pump",
+    "pass": 3
+   },
+   {
+    "quote": "PUMP ! (@pumpunderwear) / X PUMP ! (@pumpunderwear) / X X https://x.com > pumpunderwear",
+    "url": "https://x.com/pumpunderwear",
+    "pass": 3
+   },
+   {
+    "quote": "Dana Pump (@Dana_Pump) / X Dana Pump (@Dana_Pump) / X X https://x.com > Dana_Pump",
+    "url": "https://x.com/Dana_Pump",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Pump .co - LinkedIn Pump .co - LinkedIn LinkedIn https://www.linkedin.com > pumpcloud",
+    "url": "https://www.linkedin.com/company/pumpcloud",
+    "pass": 3
+   },
+   {
+    "quote": "Pump Supply Inc. - LinkedIn Pump Supply Inc. - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/pumpsupplyinc",
+    "pass": 3
+   },
+   {
+    "quote": "National Pump Company | LinkedIn National Pump Company | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/national-pump-company",
+    "pass": 3
+   },
+   {
+    "quote": "Cornell Pump Company, LLC - LinkedIn Cornell Pump Company, LLC - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/cornell-pump",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Lil Pump (@lilpumpofficial) - Facebook Lil Pump (@lilpumpofficial) - Facebook Facebook https://www.facebook.com > ... > Singer > Rapper",
+    "url": "https://www.facebook.com/lilpumpofficial/",
+    "pass": 3
+   },
+   {
+    "quote": "Preferred Pump (@preferredpump) - Facebook Preferred Pump (@preferredpump) - Facebook Facebook https://www.facebook.com > preferredpump",
+    "url": "https://www.facebook.com/preferredpump/",
+    "pass": 3
+   },
+   {
+    "quote": "Pump & Pantry (@pumpandpantry) - Facebook Pump & Pantry (@pumpandpantry) - Facebook Facebook https://www.facebook.com > ... > Convenience Store",
+    "url": "https://www.facebook.com/pumpandpantry/",
+    "pass": 3
+   },
+   {
+    "quote": "a. Reciprocating Pumps use a plunger or a piston to displace ... a. Reciprocating Pumps use a plunger or a piston to displace ... Facebook https://www.facebook.com > stationaryengineers > posts",
+    "url": "https://www.facebook.com/groups/stationaryengineers/posts/10159960882447554/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.pump.co/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pump.co/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pump.co/customers/how-usergems-saved-time-and-money-using-pump-view",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pump.co/customers/how-heo-space-built-full-cloud-visibility-across-3-aws-environments-with-pump-view",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pump.co/customers/how-salesforge-cut-10-off-their-aws-bill-on-autopilot-with-pump-save",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pump.co/customers/how-forusall-eliminated-hidden-aws-costs-across-rds-infrastructure-with-pump-save",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pump.co/blog/aws-ec2-pricing-update/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pump.co/blog/cloud-cost-optimization/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pump.co/blog/aws-bedrock-pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pump.co/partner-refer",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pump.co/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pump.co/industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pump.co/industries/ai-ml",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pump.co/industries/fintech",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pump.co/industries/healthcare",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pump.co/industries/data-infrastructure",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pump.co/schedule-a-demo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pump.co/industries/gtm-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pump.co/industries/ecommerce",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pump.co/blog/aws-re-invent/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.youtube.com/watch?v=7g12dkt5fe8",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.daiichiasso.co.jp/topics/news-detail.php?id=5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kobe-kishida-clinic.com/about-diabetes-internal-medicine/insulin-therapy/insulin-advanced-devices/omnipod-patch-pump-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iwakipumps.jp/corporate/agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/14475/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kouken.info/contact/distributor-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thomaspumps.com/ja/about-us/distributors/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-pump-eng.com/en/",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nopgroup.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mizumoauto.com/products/npw-m-61-npw-m-61-water-pump-made-in-japan?srsltid=AYCX9vJegQhmG3cTQItFRP1_190ejKll0alnFlffQWnS4CE7KQGy07eV",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitbullpumps.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pumps.org/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://flowsolutions.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tapflopumps.co.uk/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/pump.co",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/henrythe9th_15m-arr-in-18-months-35-people-profitable-activity-7329109617592934400-5p0N",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://growjo.com/company/PUMP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sacra.com/c/pump/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mitsuwapump/n/n40910c3086f4?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/cst_dl_sol/n/n90e58e97e938?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mitsuwapump/n/n20899052b73d?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Pumpfun",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/David_Pump",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/pumpunderwear",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Dana_Pump",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/pumpcloud",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/pumpsupplyinc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/national-pump-company",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/cornell-pump",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/lilpumpofficial/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/preferredpump/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pumpandpantry/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/stationaryengineers/posts/10159960882447554/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/werty1tym/n/n8a1457a05447",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/DAPUMP",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/werty1tym/n/nb2687f24688e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Pumpfun",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Pump 日本 導入",
+   "results": [
+    "https://www.youtube.com/watch?v=7g12dkt5fe8",
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.daiichiasso.co.jp/topics/news-detail.php?id=5",
+    "https://kobe-kishida-clinic.com/about-diabetes-internal-medicine/insulin-therapy/insulin-advanced-devices/omnipod-patch-pump-japan/",
+    "https://response.jp/article/2026/11/07/418712.html",
+    "https://crd.ndl.go.jp/reference/entry/index.php?page=ref_view&id=1000177955",
+    "https://www.carenet.com/news/general/carenet/39478",
+    "https://kuruma-news.jp/post/355600",
+    "https://monoist.itmedia.co.jp/mn/articles/2609/01/news017.html",
+    "https://www.se.com/jp/ja/work/solutions/machine-control/pumping/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Pump 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.iwakipumps.jp/corporate/agency/",
+    "https://metoree.com/companies/14475/distributors/",
+    "https://www.kouken.info/contact/distributor-2/",
+    "https://www.thomaspumps.com/ja/about-us/distributors/",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=8352",
+    "https://www.cemco.jp/other/iwaki/",
+    "https://www.nopgroup.com/support/kanto/",
+    "https://www.maruo.ne.jp/solution/agency/",
+    "https://www.leybold.com/ja-jp/about-us/about-leyboldjapan/distributors"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Pump Japan",
+   "results": [
+    "https://www.mislier.com/japanese-water-pump-manufacturers/",
+    "https://www.japan-pump-eng.com/en/",
+    "https://www.nopgroup.com/en/",
+    "https://mizumoauto.com/products/npw-m-61-npw-m-61-water-pump-made-in-japan?srsltid=AYCX9vJegQhmG3cTQItFRP1_190ejKll0alnFlffQWnS4CE7KQGy07eV",
+    "https://www.torishima.co.jp/en/",
+    "https://www.sanwapump.com/",
+    "https://sankopump.co.jp/en/",
+    "https://www.mohno-pump.co.jp/en/",
+    "https://www.vacuum-guide.com/directory/asia/japan-vacuum-5.htm",
+    "https://ja.wikipedia.org/wiki/Pure_Japanese"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "Pump manufacturing customer case study",
+   "results": [
+    "https://pitbullpumps.com/case-studies/",
+    "https://www.pumps.org/case-studies/",
+    "https://flowsolutions.com/case-studies/",
+    "https://www.tapflopumps.co.uk/case-studies/",
+    "https://www.researchgate.net/publication/400336193_Optimizing_Production_Efficiency_Through_Mechanical_Upgrades_A_Case_Study_on_Pump_Transfer_Times_and_Waste_Reduction",
+    "https://dugganinc.com/blog/case-study/global-industrial-manufacturer-pump-division/",
+    "https://pumps.circor.com/case-studies",
+    "https://goatpumps.com/blogs/case-study/food-manufacturing-case-study?srsltid=AYCX9vIZvwv3mWxzs6145HB6zAfOlR5vHbz3wGlf6iLxji4gtLzydti8",
+    "https://industry.pulpandpaper-technology.com/suppliers/sam-turbo-industry-private-limited/pressrealese/1539672114-case-studies.pdf",
+    "https://www.rittal.com/us-en_US/Solutions/Case-studies/Pump-Manufacturer-Case-Study"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Pump white label OR reseller OR partner program",
+   "results": [
+    "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://getquantic.com/become-white-label-software-reseller/",
+    "https://www.reddit.com/r/GrowthHacking/comments/1rxruln/using_a_whitelabel_or_reseller_program_to/",
+    "https://journeybee.io/resources/beyond-co-branding-why-white-label-partner-software-defines-winning-partnerships",
+    "https://aws.amazon.com/partners/programs/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Pump founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/pump.co",
+    "https://www.linkedin.com/posts/henrythe9th_15m-arr-in-18-months-35-people-profitable-activity-7329109617592934400-5p0N",
+    "https://growjo.com/company/PUMP",
+    "https://sacra.com/c/pump/",
+    "https://www.caplight.com/company/pump-co",
+    "https://www.zoominfo.com/c/pump-billing-inc/1318117628",
+    "https://tracxn.com/d/companies/pump/__Tp3R4THTkvcM8zS3Zo0rxnZrxDw9WClt3bUKpEWYlYY",
+    "https://pitchbook.com/profiles/company/522263-71",
+    "https://www.crunchbase.com/organization/pump-b398",
+    "https://compworth.com/company/pump"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:note.com Pump",
+   "results": [
+    "https://note.com/mitsuwapump/n/n40910c3086f4?hl=en",
+    "https://note.com/ylescegt/n/n77e0442dc8da?hl=en",
+    "https://note.com/cst_dl_sol/n/n90e58e97e938?hl=en",
+    "https://note.com/mitsuwapump/n/n20899052b73d?hl=en",
+    "https://note.com/arno_0109/n/n2921cde486bd?hl=en",
+    "https://note.com/mitsuwapump/n/nc5e1f141b7f0?hl=en",
+    "https://note.com/sainokunimansion/n/nc1a7ebb465bd?hl=en",
+    "https://note.com/rapid_sedum6222/n/nf5598caecc17?hl=en",
+    "https://note.com/mitsuwapump/n/n13580a9bc59e?hl=en",
+    "https://note.com/mep_studio/n/nc2b289a54a93?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Pump",
+   "results": [
+    "https://x.com/Pumpfun",
+    "https://x.com/David_Pump",
+    "https://x.com/pumpunderwear",
+    "https://x.com/Dana_Pump",
+    "https://x.com/Schwarzenegger/status/2085117158401728799",
+    "https://x.com/EmpoweringPumps",
+    "https://x.com/i/article/2112217741704696288",
+    "https://x.com/i/trending/2094087741726179715",
+    "https://x.com/Pumpfun/status/2112239830797287674",
+    "https://x.com/PumpFun711"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com Pump",
+   "results": [
+    "https://www.linkedin.com/company/pumpcloud",
+    "https://www.linkedin.com/company/pumpsupplyinc",
+    "https://www.linkedin.com/company/national-pump-company",
+    "https://www.linkedin.com/company/cornell-pump",
+    "https://au.linkedin.com/company/foundation-pump-services",
+    "https://www.linkedin.com/company/electric-pump",
+    "https://www.linkedin.com/company/smithpump",
+    "https://www.linkedin.com/pulse/introduction-pumps-how-select-right-pump-wxi1c",
+    "https://uk.linkedin.com/company/pump-aid",
+    "https://www.linkedin.com/company/pumpman-pumpsource-usa"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Pump",
+   "results": [
+    "https://www.facebook.com/lilpumpofficial/",
+    "https://www.facebook.com/preferredpump/",
+    "https://www.facebook.com/pumpandpantry/",
+    "https://www.facebook.com/groups/stationaryengineers/posts/10159960882447554/",
+    "https://www.facebook.com/arnoldsports/videos/arnold-explains-what-the-pump-feels-like-in-pumping-iron-/2041722790046497/",
+    "https://www.facebook.com/groups/LoosePartsPlay/posts/6573008056054092/",
+    "https://www.facebook.com/Toolaholic/videos/just-messing-around-with-the-new-temcoindustrial-drill-powered-water-pump-this-i/1360323862609616/",
+    "https://www.facebook.com/groups/dullmensclub/posts/2202565387066657/",
+    "https://www.facebook.com/harborfreight/videos/the-pittsburgh-multi-use-transfer-pump-makes-easy-work-of-transferring-fluid-to-/836446262675783/",
+    "https://www.facebook.com/thepumphoopeston/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Pump note 社長",
+   "results": [
+    "https://note.com/werty1tym/n/n8a1457a05447",
+    "https://note.com/tag/DAPUMP",
+    "https://note.com/werty1tym/n/nb2687f24688e",
+    "https://ja.wikipedia.org/wiki/DA_PUMP",
+    "https://www.pump.tokyo/story/pump-work-01/",
+    "https://dapump.jp/profile/",
+    "https://www.buzzfeed.com/jp/ryosukekamba/taira5",
+    "https://note.com/fumiko_takahashi/n/n3b7c466892e8",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/ceo/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Pump X 投稿",
+   "results": [
+    "https://x.com/Pumpfun",
+    "https://www.youtube.com/watch?v=GcPLYqhmgLg",
+    "https://www.reddit.com/r/solana/comments/1ldd33m/pump_fun_suspended_on_x_whats_going_on/",
+    "https://www.instagram.com/p/DK-c_7Nzkok/",
+    "https://jp.beincrypto.com/pump-fun-x-account-hacked/",
+    "https://www.youtube.com/watch?v=Y0N1w7-n4gg",
+    "https://www.bitdefender.com/en-gb/blog/hotforsecurity/pump-fun-x-account-hacked-to-promote-fake-pump-token-cryptocurrency-scam",
+    "https://pump.fun/",
+    "https://ja.wikipedia.org/wiki/ポンプ_(雑誌)",
+    "https://x.com/Pumpfun/status/2049232506143006844"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部43頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部43頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部43頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部43頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像0件／外部43頁・検索12回）"
+ }
+}

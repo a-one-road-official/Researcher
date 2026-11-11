@@ -1,0 +1,1856 @@
+{
+ "name": "Rossum",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜状態なし",
+ "researched_at": "2026-11-11T11:06:17.221729+00:00",
+ "official_url": "https://rossum.ai",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$104.6M",
+    "url": "https://getlatka.com/companies/rossum",
+    "pass": 3
+   },
+   {
+    "label": "Investors",
+    "value": "General Catalyst, LocalGlobe, Seedcamp, Elad Gil, Verissimo Ventures, MITON",
+    "url": "https://dexteragent.ai/companies/rossum-1771822686",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "label": "Email id",
+    "value": "rossum@rossum.ai",
+    "url": "https://dexteragent.ai/companies/rossum-1771822686",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded year",
+    "value": "Founded year：2017",
+    "url": "https://dexteragent.ai/companies/rossum-1771822686",
+    "pass": 3
+   }
+  ],
+  "料金": [
+   {
+    "label": "Pricing Strategy",
+    "value": "Custom Pricing",
+    "url": "https://dexteragent.ai/companies/rossum-1771822686",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "AI Document Processing For Transactional Workflows",
+    "url": "https://rossum.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our AI agents read documents, capture, validate, and transform data, send emails, ask for approval, write data to your ERP, and much more – all in line with your SOPs.",
+    "url": "https://rossum.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by enterprises running on",
+    "url": "https://rossum.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Rossum Recognized as a Leader in the Everest Group Intelligent Document Processing PEAK Matrix® Assessment 2026",
+    "url": "https://rossum.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "AI document processing",
+    "url": "https://rossum.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "to the next level, from data capture to email communication and document approvals",
+    "url": "https://rossum.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Capitalizing on the latest technological advancements in LLMs and Gen AI to raise the performance bar of processing transactional documents within",
+    "url": "https://rossum.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "intelligent document processing.",
+    "url": "https://rossum.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Process documents using proprietary transactional LLM supporting 276 languages and handwriting",
+    "url": "https://rossum.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Ensure precision for complex documents with fast",
+    "url": "https://rossum.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate the approval workflow with rules for auto-approve/reject based on your criteria",
+    "url": "https://rossum.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve automation rates with an AI engine that learns from user feedback",
+    "url": "https://rossum.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Track key metrics - errors, exceptions, document turnaround time, straight-through processing rate, to improve performance",
+    "url": "https://rossum.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Proprietary LLM that learns quickly from user feedback to get smarter over time.",
+    "url": "https://rossum.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Workflows transformed end to end, from reading and answering emails to document approvals.",
+    "url": "https://rossum.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“With Rossum, we are able to process invoices efficiently and hope to unlock more efficiency cost savings as we scale-up.”",
+    "url": "https://rossum.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Wolt Product Lead - Supply Chain & Finance",
+    "url": "https://rossum.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Straight-through processing automation",
+    "url": "https://rossum.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Business Processes Improvements Manager",
+    "url": "https://rossum.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Fugro cut invoice processing time by 70% and launched a global AP automation program",
+    "url": "https://rossum.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "35 seconds invoice processing time reduced from 2 minutes",
+    "url": "https://rossum.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“Our main problem was a lack of control within the OCR solution, which prevented us from making changes in the system without external assistance. With Rossum, we now have the flexibility to make changes with a much more streamlined process.”",
+    "url": "https://rossum.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate invoice processing while supporting compliance, validation, and approval routing.",
+    "url": "https://rossum.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Support demand spikes and scaling without added headcount or data entry pressure.",
+    "url": "https://rossum.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Ensure timely delivery and compliance by automating checks on product & shipment docs.",
+    "url": "https://rossum.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Touchless document processing across every team, region, and system",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Rossum helps global manufacturers automate document processing across AP, order management, and quality assurance. Use AI-first, template-free automation to free up your teams, accelerate digital transformation, and improve process resilience.",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturers are modernizing. Manual document processing is a competitive disadvantage.",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing is in the middle of a digitalization wave: SAP migrations, Coupa rollouts, shared service center consolidations, and digital sales channels. But legacy OCR tools and external forces make document processing a strategic bottleneck to all your initiatives.",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Intelligent Document Processing (IDP) Survey 2025",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Extract quantities, pricing, discounts, and references accurately across complex multi-line orders",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Route, prioritize, and track orders across regions with full pipeline visibility",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock key data from certificates of analysis and speed up production",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "touchless order processing",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "End-to-end intelligent document processing, not just OCR",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "“With this central approach, we have deployed a state-of-the-art, AI-based solution designed to process orders quickly and efficiently, even when received in completely unknown formats.”",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Invoices, purchase orders, certificates of analysis, order confirmations, goods receipts -— from any supplier, in any format, in any language. Rossum is trained on billions of transactions, learns any new document from the first example, and improves continuously from every correction your team makes.",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Matchless customization capabilities for your manufacturing processes",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "From PO matching logic and UOM conversion rules to multi-plant routing and complex ERP field mapping, Rossum adapts to your business. Train Rossum, configure business rules, and approval workflows through a self-service interface. No IT dependency required for ongoing maintenance.",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Designed for fast exception handling across high-volume document queues. AP specialists, QA teams, and procurement staff can review, correct, and approve documents in seconds - with full visibility into pipeline status and team performance.",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Legacy tools like Readsoft, Kofax, Ephesoft, and Accelium rely on rigid templates and generally provide low automation and poor data extraction accuracy. Rossum provides end-to-end document automation for the manufacturing industry: AI-first, no templates, high baseline accuracy, quick path to automation, and a wide range of supported supply chain documents. Learn more about the",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "and pre-built connectors for manufacturing systems, such as Oracle JD Edwards, Microsoft Dynamics 365, and others. Validated, clean data flows directly into your ERP or Coupa instance – master data syncs back automatically, and your business rules determine exactly how data is mapped and exported.",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": ", validates extracted values against your internal specification benchmarks, handles batch splits and multi-order certificates, and flags missing required characteristics – before materials enter production. It replaces a highly manual, error-prone QA check with an automated workflow that feeds structured data directly into SAP.",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Rossum supports 276+ languages, including non-Latin scripts, handles documents with multiple currencies, and processes regional",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "How does Rossum protect sensitive data?",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": ", supports SSO via SAML 2.0 and OAuth, and provides full audit trails and logic transparency. Your data is never used to train models for other customers. For organizations with elevated data governance requirements, Rossum offers data opt-out configurations and flexible data retention policies.",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Rossum Across Industries - Intelligent Document Processing",
+    "url": "https://rossum.ai/solutions/across-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Be it healthcare, insurance, finance, or business, AI document processing will eliminate manual tasks, improve efficiency, and ensure compliance.",
+    "url": "https://rossum.ai/solutions/across-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Process new document formats seamlessly",
+    "url": "https://rossum.ai/solutions/across-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "– Rossum Aurora – has been trained on millions of transactional documents and can tackle all formats. Invoices, purchase orders, bills of lading, certificates of analysis, insurance claims, etc., without the need to create new templates. Process large volumes of semi-structured and unstructured documents, capture data from custom fields, and learn from user feedback.",
+    "url": "https://rossum.ai/solutions/across-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate your document processes end to end. From document understanding to workflows and communication, extensions and integrations to reporting and insights. Our ergonomic user interface provides an efficient, reliable and fast human-AI collaboration, even on complex data extraction. Minimizing the need for manual intervention and reducing error rates.",
+    "url": "https://rossum.ai/solutions/across-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Document-based risk protection",
+    "url": "https://rossum.ai/solutions/across-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect against document-based risk with AI-powered fraud detection trained to identify anomalies, irregularities, and patterns. Continuously learning and adapting to new frauds. With compliance with industry regulations and data security, a given.",
+    "url": "https://rossum.ai/solutions/across-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "“Experiences with other automation providers had left us very disappointed, we felt that",
+    "url": "https://rossum.ai/solutions/across-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "more space for professional growth",
+    "url": "https://rossum.ai/solutions/across-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Product Lead Supply Chain & Inventory at Wolt",
+    "url": "https://rossum.ai/solutions/across-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Automating document processing across industries",
+    "url": "https://rossum.ai/solutions/across-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "AI document processing",
+    "url": "https://rossum.ai/solutions/across-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Rossum Partner Program - Join our Network",
+    "url": "https://rossum.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Partner & Source-to-Pay Practice Lead, Clearsulting",
+    "url": "https://rossum.ai/partners/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by enterprises running on",
+    "url": "https://rossum.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "“We are enthusiastic about Rossum’s performance and its capability to quickly learn and adapt to the wide range of Tonnage Certificates used by shipping agencies!”",
+    "url": "https://rossum.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Document Automation for Manufacturing | Rossum AI",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Document automation for manufacturing",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Rossum helps global manufacturers automate document processing across AP, order management, and quality assurance. Use AI-first, template-free automation to free up your teams, accelerate digital transformation, and improve process resilience.",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturers are modernizing. Manual document processing is a competitive disadvantage.",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing is in the middle of a digitalization wave: SAP migrations, Coupa rollouts, shared service center consolidations, and digital sales channels. But legacy OCR tools and external forces make document processing a strategic bottleneck to all your initiatives.",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Document automation in manufacturing is a must,",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Investment into document automation by manufacturers (highest among all industries)",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Average future state desired by manufacturers (highest among all industries)",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Here is how your teams can benefit from document automation in manufacturing",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Real business value delivered to manufacturing companies",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "The end-to-end document automation layer for your manufacturing tech stack",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Why leading manufacturers",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Matchless customization capabilities for your manufacturing processes",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "From PO matching logic and UOM conversion rules to multi-plant routing and complex ERP field mapping, Rossum adapts to your business. Train Rossum, configure business rules, and approval workflows through a self-service interface. No IT dependency required for ongoing maintenance.",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Document automation in manufacturing FAQs",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Legacy tools like Readsoft, Kofax, Ephesoft, and Accelium rely on rigid templates and generally provide low automation and poor data extraction accuracy. Rossum provides end-to-end document automation for the manufacturing industry: AI-first, no templates, high baseline accuracy, quick path to automation, and a wide range of supported supply chain documents. Learn more about the",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "and pre-built connectors for manufacturing systems, such as Oracle JD Edwards, Microsoft Dynamics 365, and others. Validated, clean data flows directly into your ERP or Coupa instance – master data syncs back automatically, and your business rules determine exactly how data is mapped and exported.",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Very little. Template-based tools require ongoing IT involvement every time a supplier changes format or a new business rule is needed. For effective document automation in manufacturing, you need a self-service interface to configure validations, matching logic, and routing workflows independently. That’s what Rossum gives you.",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "How does Rossum handle certificates of analysis in manufacturing?",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Read The Case Study >",
+    "url": "https://rossum.ai/solutions/across-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Read The Case Study >",
+    "url": "https://rossum.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing meets AI: LAPP’s journey to order automation",
+    "url": "https://rossum.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 450+ global brands to automate their document workflows",
+    "url": "https://rossum.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "capability to quickly learn and adapt to the wide range of Tonnage Certificates used by shipping agencies",
+    "url": "https://rossum.ai/solutions/customs-clearance/",
+    "pass": 1
+   },
+   {
+    "quote": "Read The Case Study >",
+    "url": "https://rossum.ai/solutions/customs-clearance/",
+    "pass": 1
+   },
+   {
+    "quote": "Read The Case Study >",
+    "url": "https://rossum.ai/solutions/quality-assurance/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the most innovative wholesale distributors around the world",
+    "url": "https://rossum.ai/solutions/wholesale-distribution-software/",
+    "pass": 1
+   },
+   {
+    "quote": "Read The Case Study >",
+    "url": "https://rossum.ai/solutions/wholesale-distribution-software/",
+    "pass": 1
+   },
+   {
+    "quote": "Read The Case Study >",
+    "url": "https://rossum.ai/solutions/construction/",
+    "pass": 1
+   },
+   {
+    "quote": "to the wide range of Tonnage Certificates used by shipping agencies! This has been instrumental in building the team’s trust and confidence in this AI automation initiative.”",
+    "url": "https://rossum.ai/solutions/logistics-transportation/",
+    "pass": 1
+   },
+   {
+    "quote": "Read The Case Study >",
+    "url": "https://rossum.ai/solutions/logistics-transportation/",
+    "pass": 1
+   },
+   {
+    "quote": "solution easily tackles diverse document formats. Reducing the time, resources, and errors caused by",
+    "url": "https://rossum.ai/solutions/retail/",
+    "pass": 1
+   },
+   {
+    "quote": "Read The Case Study >",
+    "url": "https://rossum.ai/solutions/retail/",
+    "pass": 1
+   },
+   {
+    "quote": "Read The Case Study >",
+    "url": "https://rossum.ai/solutions/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "Founded in 1935, Imperial Dade is North America’s premier distributor of foodservice packaging, janitorial equipment, and industrial supplies. The company has grown rapidly through acquisitions and now supports 120,000+ customers across 100+ locations, with a portfolio of 100,000+ SKUs.",
+    "url": "https://rossum.ai/customer-stories/imperial-dade/",
+    "pass": 1
+   },
+   {
+    "quote": "Read The Case Study >",
+    "url": "https://rossum.ai/customer-stories/imperial-dade/",
+    "pass": 1
+   },
+   {
+    "quote": "Read The Case Study >",
+    "url": "https://rossum.ai/customer-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "Manufacturing meets AI: LAPP’s journey to order automation",
+    "url": "https://rossum.ai/customer-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "How Bus Industrial Tools saves 68% of the time per sales order with Rossum",
+    "url": "https://rossum.ai/customer-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "Rossum Drives Adoption of Intelligent Document Processing with Manufacturing and Industrial Clients",
+    "url": "https://rossum.ai/company/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Appliances, Electrical, and Electronics Manufacturing",
+    "url": "https://www.casestudies.com/company/rossum",
+    "pass": 3
+   },
+   {
+    "quote": "Beverage Manufacturing",
+    "url": "https://www.casestudies.com/company/rossum",
+    "pass": 3
+   },
+   {
+    "quote": "Chemical Manufacturing",
+    "url": "https://www.casestudies.com/company/rossum",
+    "pass": 3
+   },
+   {
+    "quote": "Food and Beverage Manufacturing",
+    "url": "https://www.casestudies.com/company/rossum",
+    "pass": 3
+   },
+   {
+    "quote": "Bosch - Customer Case Study",
+    "url": "https://www.casestudies.com/company/rossum",
+    "pass": 3
+   },
+   {
+    "quote": "Bus Industrial Tools achieves 68% faster sales order processing with Rossum",
+    "url": "https://www.casestudies.com/company/rossum",
+    "pass": 3
+   },
+   {
+    "quote": "Rossum Case Study: Bosch – Bosch - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/rossum/case-study/bosch-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Bosch - Customer Case Study",
+    "url": "https://www.casestudies.com/company/rossum/case-study/bosch-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Bosch used Rossum",
+    "url": "https://www.casestudies.com/company/rossum/case-study/bosch-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/rossum/case-study/bosch-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/rossum/case-study/bosch-customer-case-study",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "“We are enthusiastic about Rossum’s performance and its capability to quickly learn and adapt to the wide range of Tonnage Certificates used by shipping agencies!”",
+    "url": "https://rossum.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Rossum Partner Program - Join our Network",
+    "url": "https://rossum.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Discover our dedicated offering for OEM clients",
+    "url": "https://rossum.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Does Rossum also work with OEMs and BPOs?",
+    "url": "https://rossum.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, Rossum works with several OEMs and BPOs. We already partner with several and offer features specifically for them, including additional developer tools, the ability to embed Rossum into your own interface, and more. Request a demo to get Rossum pricing for OEMs.",
+    "url": "https://rossum.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "capability to quickly learn and adapt to the wide range of Tonnage Certificates used by shipping agencies",
+    "url": "https://rossum.ai/solutions/customs-clearance/",
+    "pass": 1
+   },
+   {
+    "quote": "to the wide range of Tonnage Certificates used by shipping agencies! This has been instrumental in building the team’s trust and confidence in this AI automation initiative.”",
+    "url": "https://rossum.ai/solutions/logistics-transportation/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Our AI agents read documents, capture, validate, and transform data, send emails, ask for approval, write data to your ERP, and much more – all in line with your SOPs.",
+    "url": "https://rossum.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "to the next level, from data capture to email communication and document approvals",
+    "url": "https://rossum.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Ingest documents via email, scanners, PEPPOL, shared drives, and more",
+    "url": "https://rossum.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate exception handling with automated vendor notifications and AI-generated emails",
+    "url": "https://rossum.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Workflows transformed end to end, from reading and answering emails to document approvals.",
+    "url": "https://rossum.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Ingest from email attachments, supplier portals, scanned paper, shared drives, EDI, and e-invoicing",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate order capture from PDF, email, scans, EDI, and customer portals",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "Email, PDF, scans, EDI, e-invoices, and more",
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "through email, API, or manual upload",
+    "url": "https://rossum.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Custom domain for email ingestion",
+    "url": "https://rossum.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, Rossum integrates with third-party apps. We offer API & SFTP access for upstream (e.g. email system) and downstream integration (e.g. ERP, P2P), including certified integrations with technology giants like SAP and Coupa. Check out our",
+    "url": "https://rossum.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "is your chance to get your hands on the platform. Just take a few seconds to create an account, and you’ll be ready to process your first documents (invoices, sales orders, certificates of analysis, packing lists…). Watch Rossum Aurora sort your documents into the right queues, suggest email text for exception handling, and learn from your inputs in real-time.",
+    "url": "https://rossum.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "When it comes to emails, we use a combination of DMARC checks and configurable filtering to stop spoofing attempts and filter out potentially risky messages before they reach your inbox.",
+    "url": "https://rossum.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Handles documents end to end – from email ingestion to exporting data to your ERP",
+    "url": "https://rossum.ai/solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Our AI-first, cloud-native transactional document automation platform can be customized to your specific requirements – country, taxes, currency, and more. From seamless data extraction to email drafting and document splitting, you’re in control.",
+    "url": "https://rossum.ai/solutions/customs-clearance/",
+    "pass": 1
+   },
+   {
+    "quote": ". Receive and process orders from email, EDI, web portals, and mobile apps with consistent accuracy across all formats.",
+    "url": "https://rossum.ai/solutions/order-management/",
+    "pass": 1
+   },
+   {
+    "quote": "Rossum captures order details across multiple channels, e.g., emails, EDI, shared drives, scanners, and more. From transactional documents – invoices, purchase orders or shipping docs – and feeds them into your ERP system. This speeds processing and reduces entry errors.",
+    "url": "https://rossum.ai/solutions/order-management/",
+    "pass": 1
+   },
+   {
+    "quote": "Our scalable platform automates document processing end to end. From capturing complex line items to automatic document splitting & sorting to discrepancy email communication. With our AI engine – powered by our proprietary LLM – bringing enterprise-grade safety.",
+    "url": "https://rossum.ai/solutions/quality-assurance/",
+    "pass": 1
+   },
+   {
+    "quote": "Looking to specifically automate your AP processes? With automated approval workflows, enhance collaboration, compliance, and transparency within your organization, while keeping your suppliers updated on invoice statuses through automated emails across the document journey.",
+    "url": "https://rossum.ai/solutions/logistics-transportation/",
+    "pass": 1
+   },
+   {
+    "quote": "brings a human-AI collaboration that can be tailored to your specific business needs. From data extraction to email drafting and document splitting.",
+    "url": "https://rossum.ai/solutions/retail/",
+    "pass": 1
+   },
+   {
+    "quote": "Imperial Dade use Rossum’s email autoreply functionality to reject invoices as well as approval workflows.",
+    "url": "https://rossum.ai/customer-stories/imperial-dade/",
+    "pass": 1
+   },
+   {
+    "quote": "Rossum Adds Email Automation to Accelerate Document Processing",
+    "url": "https://rossum.ai/company/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/179815-51",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Manager at Master Trust Bank of Japan",
+    "url": "https://rossum.ai/solutions/across-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Explore real-world success stories from industry leaders such as Master Trust Bank of Japan, Adyen, and Kiwi. Discover how Rossum is unlocking efficiency and growth.",
+    "url": "https://rossum.ai/solutions/across-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "How The Master Trust Bank of Japan reduced manual workload by 75%",
+    "url": "https://rossum.ai/solutions/across-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Manager at Master Trust Bank of Japan",
+    "url": "https://rossum.ai/solutions/quality-assurance/",
+    "pass": 1
+   },
+   {
+    "quote": "Master Trust Bank of Japan",
+    "url": "https://rossum.ai/solutions/retail/",
+    "pass": 1
+   },
+   {
+    "quote": "How The Master Trust Bank of Japan reduced manual workload by 75%",
+    "url": "https://rossum.ai/customer-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "Rossumとは？機能・料金・日本語対応 | AI実装研究所",
+    "url": "https://ai-jisso.jp/products/rossum/",
+    "pass": 3
+   },
+   {
+    "quote": "はい、日本語の帳票にも対応しています",
+    "url": "https://www.mtec-institute.co.jp/business/data_science_solutions/rossum/",
+    "pass": 3
+   },
+   {
+    "quote": "Before Aurora, Rossum could recognize the following languages: Czech, Danish, Dutch, English, Finnish, French, German, Hungarian, Italian, Lithuanian, Norwegian, Polish, Portuguese, Brazilian Portuguese, Romanian, Slovak, Slovenian, Spanish, Catalan, and Swedish. We also provided support for Japanese and Chinese.",
+    "url": "https://docs.coupa.com/en/product-documentation/rossum/welcome-to-rossum-knowledge-base/first-steps-with-rossum/languages-supported-by-rossum",
+    "pass": 3
+   },
+   {
+    "quote": "Rossum Japanese - NEW TRENEX WEBSITE",
+    "url": "https://trenexconsulting.com/rossum-japanese.html",
+    "pass": 3
+   },
+   {
+    "quote": "Master Trust Bank of Japan reduces manual workload by 75% with Rossum",
+    "url": "https://www.casestudies.com/company/rossum",
+    "pass": 3
+   },
+   {
+    "quote": "The Master Trust Bank of Japan",
+    "url": "https://www.casestudies.com/company/rossum",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Become a Rossum partner to grow revenue and expand client value",
+    "url": "https://rossum.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Join the Rossum partner ecosystem to accelerate client value, scale intelligent automation and generate new services revenue opportunities.",
+    "url": "https://rossum.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Grow your revenue through mutual referrals and co-selling",
+    "url": "https://rossum.ai/partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Document automation for teams that generate revenue",
+    "url": "https://rossum.ai/solutions/order-management/",
+    "pass": 1
+   },
+   {
+    "quote": "Secure effective quality management that reduces costs, increases revenue, and maintains compliance",
+    "url": "https://rossum.ai/solutions/quality-assurance/",
+    "pass": 1
+   },
+   {
+    "quote": "Providing a scalable model plus data & insights that allow you to onboard new acquisitions (M&As) instantly without adding headcount to your",
+    "url": "https://rossum.ai/solutions/wholesale-distribution-software/",
+    "pass": 1
+   },
+   {
+    "quote": "automatically route, validate, and match documents the moment they arrive. By cutting the processing cycle by up to 90% and automatically calculating the available discount for each invoice, you have the visibility and time to choose which invoices to pay early for maximum financial gain.",
+    "url": "https://rossum.ai/solutions/wholesale-distribution-software/",
+    "pass": 1
+   },
+   {
+    "quote": "Founded in 1935, Imperial Dade is North America’s premier distributor of foodservice packaging, janitorial equipment, and industrial supplies. The company has grown rapidly through acquisitions and now supports 120,000+ customers across 100+ locations, with a portfolio of 100,000+ SKUs.",
+    "url": "https://rossum.ai/customer-stories/imperial-dade/",
+    "pass": 1
+   },
+   {
+    "quote": "Imperial Dade set out to streamline its Accounts Payable operations, aiming to support its rapid expansion and acquisition-driven growth with scalable automation.",
+    "url": "https://rossum.ai/customer-stories/imperial-dade/",
+    "pass": 1
+   },
+   {
+    "quote": "“AP is always first to integrate acquisitions – we needed a solution that could handle any ERP system from day one.”",
+    "url": "https://rossum.ai/customer-stories/imperial-dade/",
+    "pass": 1
+   },
+   {
+    "quote": "For the subsidiaries, Rossum was first deployed to handle invoice processing for all acquired companies still operating on their original ERPs. This approach allowed Imperial Dade to rapidly integrate new acquisitions, regardless of their existing technology stack, and provide immediate automation benefits.",
+    "url": "https://rossum.ai/customer-stories/imperial-dade/",
+    "pass": 1
+   },
+   {
+    "quote": "200+ employees",
+    "url": "https://rossum.ai/company/",
+    "pass": 1
+   },
+   {
+    "quote": "Coupa, the leading platform for autonomous spend management, today announced it has acquired Rossum, the AI-first market leader in intelligent document processing (IDP).",
+    "url": "https://rossum.ai/company/newsroom/",
+    "pass": 1
+   },
+   {
+    "quote": "For all the languages listed below,",
+    "url": "https://docs.coupa.com/en/product-documentation/rossum/welcome-to-rossum-knowledge-base/first-steps-with-rossum/languages-supported-by-rossum",
+    "pass": 3
+   },
+   {
+    "quote": "For the languages listed below, we support",
+    "url": "https://docs.coupa.com/en/product-documentation/rossum/welcome-to-rossum-knowledge-base/first-steps-with-rossum/languages-supported-by-rossum",
+    "pass": 3
+   },
+   {
+    "quote": "Rossum Revenue 2024: $44.9M Est., $104.6M Raised",
+    "url": "https://getlatka.com/companies/rossum",
+    "pass": 3
+   },
+   {
+    "quote": "revenue, valuation & funding",
+    "url": "https://getlatka.com/companies/rossum",
+    "pass": 3
+   },
+   {
+    "quote": "Rossum has not published its revenue. GetLatka estimates it at about $44.9M a year (October 2024).",
+    "url": "https://getlatka.com/companies/rossum",
+    "pass": 3
+   },
+   {
+    "quote": "All 3 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/rossum",
+    "pass": 3
+   },
+   {
+    "quote": "Rossum CEO, founders & employees",
+    "url": "https://getlatka.com/companies/rossum",
+    "pass": 3
+   },
+   {
+    "quote": "Tomas Gogar founded Rossum in 2017 and runs it as CEO. Rossum had 167 employees (December 2024, LinkedIn), down from 215 a year earlier.",
+    "url": "https://getlatka.com/companies/rossum",
+    "pass": 3
+   },
+   {
+    "quote": "What is Rossum's revenue?",
+    "url": "https://getlatka.com/companies/rossum",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Rossum's revenue at about",
+    "url": "https://getlatka.com/companies/rossum",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Rossum have?",
+    "url": "https://getlatka.com/companies/rossum",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/rossum",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/rossum",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/rossum",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/rossum",
+    "pass": 3
+   },
+   {
+    "quote": "Rossum 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/179815-51",
+    "pass": 3
+   },
+   {
+    "quote": "Corporate Backed or Acquired",
+    "url": "https://pitchbook.com/profiles/company/179815-51",
+    "pass": 3
+   },
+   {
+    "quote": "Rossum has 200 total employees.",
+    "url": "https://pitchbook.com/profiles/company/179815-51",
+    "pass": 3
+   },
+   {
+    "quote": "What is Rossum’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/179815-51",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Rossum is",
+    "url": "https://pitchbook.com/profiles/company/179815-51",
+    "pass": 3
+   },
+   {
+    "quote": "When was Rossum acquired?",
+    "url": "https://pitchbook.com/profiles/company/179815-51",
+    "pass": 3
+   },
+   {
+    "quote": "Rossum was acquired on 12-May-2026.",
+    "url": "https://pitchbook.com/profiles/company/179815-51",
+    "pass": 3
+   },
+   {
+    "quote": "Rossum was acquired by",
+    "url": "https://pitchbook.com/profiles/company/179815-51",
+    "pass": 3
+   },
+   {
+    "quote": "Rossum Profile 2026: Revenue, Competitors & Strategy",
+    "url": "https://dexteragent.ai/companies/rossum-1771822686",
+    "pass": 3
+   },
+   {
+    "quote": "What is Rossum's annual revenue history?",
+    "url": "https://dexteragent.ai/companies/rossum-1771822686",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Rossumとは？機能・料金・日本語対応 | AI実装研究所 — Rossumの機能、料金、日本語対応、セキュリティを公式情報に基づき整理。 請求書、注文書、物流書類などを取り込み、AIで分類・項目抽出し、人による確認、ルール検証、承認、ERP連携まで自動化するインテリジェント文書処理基盤です。",
+    "url": "https://ai-jisso.jp/products/rossum/",
+    "pass": 3
+   },
+   {
+    "quote": "Rossum | ビジネス | 三菱UFJトラスト投資工学研究所（MTEC） — 帳票を取り扱う業務は、帳票の収集から帳票の処理、後続のシステム連携まで一連の業務フローで構成されています。 Rossumならば、APIやRPA連携で帳票をRossumに取り込み、処理した結果をERP等の既存システムと連携できます。",
+    "url": "https://www.mtec-institute.co.jp/business/data_science_solutions/rossum/",
+    "pass": 3
+   },
+   {
+    "quote": "Rossum:AIによる高精度かつエンタープライズレベルのコンプライアンス... — Rossumは既存の業務システムとシームレスに統合でき、迅速な導入、ITコスト削減、ISO 27001、SOC2、HIPAA、GDPRなどの業界標準への準拠を強化します。",
+    "url": "https://moge.ai/ja/product/rossum",
+    "pass": 3
+   },
+   {
+    "quote": "Rossumとは？ | 機能や料金、導入事例をご紹介【キャプテラ】 — Rossumを実際に使用したユーザーのレビューから、製品の機能や価格、メリットデメリットをご覧いただけます。 類似製品との比較も簡単、ぴったりのSaaSが見つかるはず！",
+    "url": "https://www.capterra.jp/software/193772/rossum",
+    "pass": 3
+   },
+   {
+    "quote": "Coupa、Rossum社の買収によりエンドツーエンドの自律的支出管理を加速... — May 15, 2026 · 圧倒的な生産性と正確性の向上に焦点を当てたRossumの「AIファースト」かつ「クラウドネイティブ」なアプローチは、ビジネスワークフローをエンドツーエンドで変革し、リスクへの対処、ビジネス関係の強化、そして取引データからのリアルタイムな戦略 ...",
+    "url": "https://coupa.co.jp/news/2026051502",
+    "pass": 3
+   },
+   {
+    "quote": "AI Document Processing For Transactional Workflows — Automate complex transactional workflows with Rossum’s AI document processing solution. Reduce manual tasks, increase accuracy, drive efficiency.",
+    "url": "https://rossum.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Rossum for Financial Services — The Master Trust Bank of Japan (MTBJ), a subsidiary of the Mitsubishi UFJ Financial Group, is one of the largest banking institutions in Japan. MTBJ partnered with Rossum to streamline its fund accounting operations and reduce the overall risk exposure.",
+    "url": "https://rossum.ai/solutions/financial-services/",
+    "pass": 3
+   },
+   {
+    "quote": "Languages Supported by Rossum — Feb 24, 2025 · We also provided support for Japanese and Chinese. With the release of Aurora 1.5, the list of supported languages expanded significantly. We now offer full or partial support for 276 languages. This article provides all the details.",
+    "url": "https://knowledge-base.rossum.ai/docs/languages-supported-by-rossum",
+    "pass": 3
+   },
+   {
+    "quote": "Rossum | ビジネス | 三菱UFJトラスト投資工学研究所（MTEC） — Rossumでは一枚の帳票の処理時間の推移などを簡単に確認できるため、BPM（ビジネスプロセスマネジメント）ツールとしても活用可能で、AI学習による作業量の軽減効果が簡単に測れます。",
+    "url": "https://www.mtec-institute.co.jp/business/data_science_solutions/rossum/",
+    "pass": 3
+   },
+   {
+    "quote": "Rossum Japanese - NEW TRENEX WEBSITE — Rossum（ロッサム）は、既存のERP、CRM、会計システムとスムーズに連携します。 お客様の現在のワークフローに自然に適合するよう、プラットフォームをカスタマイズし、データ転送や文書処理が業務を中断することなく行える環境を実現します。",
+    "url": "https://trenexconsulting.com/rossum-japanese.html",
+    "pass": 3
+   },
+   {
+    "quote": "What Is Rossum? Pricing, Features, Japanese Support, and ... — Rossum is an AI OCR and document processing service useful for accounting and invoices. Check pricing, API, commercial use, Japanese language support, key features, use cases, and alternative services.",
+    "url": "https://ai.codigital.co.jp/en/tools/rossum/",
+    "pass": 3
+   },
+   {
+    "quote": "Customer stories - Rossum.ai — Learn how Rossum’s customers are using advanced AI to achieve data quality accuracy and accelerate end-to-end automation of transactional document processing.",
+    "url": "https://rossum.ai/customer-stories/",
+    "pass": 3
+   },
+   {
+    "quote": "Rossum B2B Case Studies & Customer Successes — See how Rossum solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/rossum",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Story - Morton Salt - Rossum.aiRossum Case Study: Bosch – Bosch - Customer Case Study ...Rossum Helps Enterprise Customers Drive Efficiency and ...Rossum Case Studies & Customer Success | CusperaRossum Customer Stories - YouTube — As a major industrial supplier, the company’s data entry team had seven specialists focusing on the steady stream of purchase orders from a variety of trading a",
+    "url": "https://rossum.ai/customer-stories/morton-salt/",
+    "pass": 3
+   },
+   {
+    "quote": "Rossum Case Study: Bosch – Bosch - Customer Case Study ... — Bosch (Information Technology and Services) partnered with Rossum (Internet) to solve key challenges. \"Bosch - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/rossum/case-study/bosch-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Rossum Helps Enterprise Customers Drive Efficiency and ... — The benefits of working in the AWS Cloud, says software architect Stanislav Opichal, were obvious to Rossum, which has been using AWS from day one: flexibility, security, and “ubiquitous availability.”",
+    "url": "https://aws.amazon.com/solutions/case-studies/rossum-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Rossum Revenue 2024: $44.9M Est., $104.6M Raised - LATKA — Oct 30, 2026 · Rossum.ai is a UK-based company that offers an artificial intelligence (AI) platform for data extraction and document processing. The company was founded in 2017 and is headquartered in London.",
+    "url": "https://getlatka.com/companies/rossum",
+    "pass": 3
+   },
+   {
+    "quote": "Rossum - 2026 Company Profile, Team, Funding, Competitors ...Rossum 2026 Company Profile: Valuation, Investors ... - PitchBookRossum Profile 2026: Financials, AI Strategy & ComparisonRossum – Industry Ranking & Company Valuation – 2026Rossum - $42 M Revenue, Employees & Growth | Kona EquityRossum — Company Profile | The Company Check — May 19, 2026 · Rossum is an acquired company based in London (",
+    "url": "https://tracxn.com/d/companies/rossum/__LR4tK61DiWYYDrPnMYR7TlPkYzCabI8GoQ4OTGWgXPs",
+    "pass": 3
+   },
+   {
+    "quote": "Rossum 2026 Company Profile: Valuation, Investors ... - PitchBookRossum Profile 2026: Financials, AI Strategy & ComparisonRossum – Industry Ranking & Company Valuation – 2026Rossum - $42 M Revenue, Employees & Growth | Kona EquityRossum — Company Profile | The Company Check — Information on acquisition, funding, investors, and executives for Rossum. Use the PitchBook Platform to explore the full p",
+    "url": "https://pitchbook.com/profiles/company/179815-51",
+    "pass": 3
+   },
+   {
+    "quote": "Rossum Profile 2026: Financials, AI Strategy & Comparison — Rossum has raised a total of $109.5 million in funding, with its latest Series A round of $100 million led by General Catalyst in October 2021. The company has 200 employees and has been recognized as a 'Momentum Leader' for OCR Software by G2 for two consecutive years.",
+    "url": "https://dexteragent.ai/companies/rossum-1771822686",
+    "pass": 3
+   },
+   {
+    "quote": "Rossum – Industry Ranking & Company Valuation – 2026 — Discover Rossum's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/rossum",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "[On Legendary Gear] Rossum SP-1200 One-Year Review — What I ... Aug 30, 2026 · The Rossum SP-1200 is a reissue created by Dave Rossum himself at his own company, redesigning the original. It is not a product modernized by adding convenient features, but a machine that focuses on preserving that sound exactly as it was.",
+    "url": "https://note.com/mixloom/n/n3e3d540fe3b7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【名機の話】Rossum SP-1200 1年使用レビュー — 音ひとつのために飲み... Aug 31, 2026 · Rossum SP-1200は、そのオリジナルを設計したDave Rossum本人が自分の会社で作り直した復刻版です。 便利機能を足して現代化した製品ではなく、あの音をそのまま残すほうに重心を置いた機械ですね。 私が欲しかったのは機能ではなく 音ひとつ でした。",
+    "url": "https://note.com/mixloom/n/n3e3d540fe3b7",
+    "pass": 3
+   },
+   {
+    "quote": "なぜPythonはAIの標準になったのか ― Guido van Rossumが語るPythonの... Feb 22, 2026 · GitHubの公式インタビュー動画で、Pythonの生みの親である Guido van Rossum 氏が、Pythonの誕生秘話から現在、そしてAI時代における未来までを語っています。",
+    "url": "https://note.com/shibats/n/nf640d8a6f931",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【名機の話】Rossum SP-1200 1年使用レビュー — 音ひとつのために飲み込んだもの｜Mixloom Studio",
+    "url": "https://note.com/mixloom/n/n3e3d540fe3b7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【名機の話】Rossum SP-1200 1年使用レビュー — 音ひとつのために飲み込んだもの",
+    "url": "https://note.com/mixloom/n/n3e3d540fe3b7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "去年、Rossum SP-1200を少し無理して買いました。",
+    "url": "https://note.com/mixloom/n/n3e3d540fe3b7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "無理して、とわざわざ書いたのには理由があります。これはスペックで説明のつく機械ではないからです。12ビットで合計20秒、ひとつの音は長くても2.5秒。今の基準で見れば、どんな無料プラグインにも及びません。それを分かった上で買って、1年使いました。",
+    "url": "https://note.com/mixloom/n/n3e3d540fe3b7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "その1年で分かったことと、諦めた部分をまとめてみます。",
+    "url": "https://note.com/mixloom/n/n3e3d540fe3b7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "オリジナルのSP-1200は1998年に製造終了していて、今の中古相場は最新のフラッグシップ機が何台か買える水準。Rossum SP-1200は、そのオリジナルを設計したDave Rossum本人が自分の会社で作り直した復刻版です。便利機能を足して現代化した製品ではなく、あの音をそのまま残すほうに重心を置いた機械ですね。",
+    "url": "https://note.com/mixloom/n/n3e3d540fe3b7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "でした。90年代のブーンバップのアルバムで聴こえていた、あの質感です。プラグインで近くまでは行けたのに、最後のひと押しがずっと掴めませんでした。",
+    "url": "https://note.com/mixloom/n/n3e3d540fe3b7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1年使っていちばんはっきり確かめられたのがこれです。",
+    "url": "https://note.com/mixloom/n/n3e3d540fe3b7?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "【名機の話】Rossum SP-1200 1年使用レビュー — 音ひとつのために飲み込んだもの｜Mixloom Studio",
+    "url": "https://note.com/mixloom/n/n3e3d540fe3b7",
+    "pass": 3
+   },
+   {
+    "quote": "【名機の話】Rossum SP-1200 1年使用レビュー — 音ひとつのために飲み込んだもの",
+    "url": "https://note.com/mixloom/n/n3e3d540fe3b7",
+    "pass": 3
+   },
+   {
+    "quote": "去年、Rossum SP-1200を少し無理して買いました。",
+    "url": "https://note.com/mixloom/n/n3e3d540fe3b7",
+    "pass": 3
+   },
+   {
+    "quote": "無理して、とわざわざ書いたのには理由があります。これはスペックで説明のつく機械ではないからです。12ビットで合計20秒、ひとつの音は長くても2.5秒。今の基準で見れば、どんな無料プラグインにも及びません。それを分かった上で買って、1年使いました。",
+    "url": "https://note.com/mixloom/n/n3e3d540fe3b7",
+    "pass": 3
+   },
+   {
+    "quote": "その1年で分かったことと、諦めた部分をまとめてみます。",
+    "url": "https://note.com/mixloom/n/n3e3d540fe3b7",
+    "pass": 3
+   },
+   {
+    "quote": "オリジナルのSP-1200は1998年に製造終了していて、今の中古相場は最新のフラッグシップ機が何台か買える水準。Rossum SP-1200は、そのオリジナルを設計したDave Rossum本人が自分の会社で作り直した復刻版です。便利機能を足して現代化した製品ではなく、あの音をそのまま残すほうに重心を置いた機械ですね。",
+    "url": "https://note.com/mixloom/n/n3e3d540fe3b7",
+    "pass": 3
+   },
+   {
+    "quote": "でした。90年代のブーンバップのアルバムで聴こえていた、あの質感です。プラグインで近くまでは行けたのに、最後のひと押しがずっと掴めませんでした。",
+    "url": "https://note.com/mixloom/n/n3e3d540fe3b7",
+    "pass": 3
+   },
+   {
+    "quote": "1年使っていちばんはっきり確かめられたのがこれです。",
+    "url": "https://note.com/mixloom/n/n3e3d540fe3b7",
+    "pass": 3
+   },
+   {
+    "quote": "なぜPythonはAIの標準になったのか ― Guido van Rossumが語るPythonのこれまでとこれから #こまPy｜柴田淳 - みんなのPythonの著者・機械学習講師",
+    "url": "https://note.com/shibats/n/nf640d8a6f931",
+    "pass": 3
+   },
+   {
+    "quote": "なぜPythonはAIの標準になったのか ― Guido van Rossumが語るPythonのこれまでとこれから #こまPy",
+    "url": "https://note.com/shibats/n/nf640d8a6f931",
+    "pass": 3
+   },
+   {
+    "quote": "柴田淳 - みんなのPythonの著者・機械学習講師",
+    "url": "https://note.com/shibats/n/nf640d8a6f931",
+    "pass": 3
+   },
+   {
+    "quote": "氏が、Pythonの誕生秘話から現在、そしてAI時代における未来までを語っています。Pythonはなぜ生まれ、どのように広まり、そしてなぜAI分野で中心的な存在になったのかについて、穏やかな語り口の中に、言語設計の思想とコミュニティの力、そして時代の流れが凝縮されているすばらしいインタビューです。",
+    "url": "https://note.com/shibats/n/nf640d8a6f931",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、そのインタビューの中でも特に「なぜPythonがAIで標準的な存在になったのか」、そして「AIが当たり前になる時代にPythonはどのような役割を担うのか」という点に焦点を当てて整理します。流行や偶然ではなく、設計思想とエコシステムの積み重ねが生んだ現在地を読み解いていきます。",
+    "url": "https://note.com/shibats/n/nf640d8a6f931",
+    "pass": 3
+   },
+   {
+    "quote": "「PythonがAIでこんなに重要になるとは予想していなかった",
+    "url": "https://note.com/shibats/n/nf640d8a6f931",
+    "pass": 3
+   },
+   {
+    "quote": "(I had not anticipated Python to become so important for AI.)」",
+    "url": "https://note.com/shibats/n/nf640d8a6f931",
+    "pass": 3
+   },
+   {
+    "quote": "そもそもPythonは、AI研究のために作られた言語ではありません。彼が作ろうと思ったのは、C言語より安全で、しかも簡潔に書ける実用的なプログラミング言語でした。",
+    "url": "https://note.com/shibats/n/nf640d8a6f931",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Rossum (@RossumAi) / X 72% of risk leaders say acting on data signals is critical. Only 15% feel confident knowing what to look at. Rossum's Conversational Insights closes that gap, ask in plain English, and get a report in seconds. No BI ticket needed 👇",
+    "url": "https://x.com/RossumAi",
+    "pass": 3
+   },
+   {
+    "quote": "Emmy Rossum (@emmyrossum) / X she/her/hers @emmyrossum hasn’t posted When they do, their posts will show up here.",
+    "url": "https://x.com/emmyrossum",
+    "pass": 3
+   },
+   {
+    "quote": "Guido van Rossum (@gvanrossum) / X 59 405 20K Guido van Rossum @gvanrossum Sep 17 Panel at CppCon with C++ and C# designers (and me):",
+    "url": "https://x.com/gvanrossum",
+    "pass": 3
+   },
+   {
+    "quote": "Fernando Von Rossum (@fvonrossum) / X Los Mariscales Temporada #6 Episodio #59 con Fernando Von Rossum @fvonrossum @pacomariano @rolando_deregil @EVasquez_Texans @NFL @dallascowboys @HoustonTexans @steelers @axissportstv @RamsNFL @broncos @49ers @patriots @packers @seahawks @mariscalesnfl",
+    "url": "https://x.com/fvonrossum",
+    "pass": 3
+   },
+   {
+    "quote": "Ian Rossum (@IanRossum) / X 1 6 1K Ian Rossum @IanRossum Apr 15, 2025 #Bara #yaoi #gay #nsfw Measuring for my fitness instructor🍆🍑🍒",
+    "url": "https://x.com/IanRossum",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Rossum - LinkedIn Rossum is a trailblazer in intelligent document processing. Delivering a unique transactional document automation platform to enterprise businesses across the globe looking to tame document chaos...",
+    "url": "https://www.linkedin.com/company/rossum",
+    "pass": 3
+   },
+   {
+    "quote": "Rossum - LinkedIn Rossum | Unlike other IDP platforms, Rossum automates your entire transactional document process end to end, from reading and answering emails to document approvals.",
+    "url": "https://www.linkedin.com/products/rossum",
+    "pass": 3
+   },
+   {
+    "quote": "Rossum - LinkedIn Rossum is a trailblazer in intelligent document processing. Delivering a unique transactional document automation platform to enterprise businesses across the globe looking to tame document chaos...",
+    "url": "https://cz.linkedin.com/company/rossum",
+    "pass": 3
+   },
+   {
+    "quote": "Rossum Robot - LinkedIn About us Rossum Robot———the intelligent orthopedic surgical robot for pelvic fracture reduction and long bone fracture reduction developed by Beijing Rossum Robot.",
+    "url": "https://www.linkedin.com/company/rossumrobot-medical",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Emmy Rossum - FacebookRossum | London - FacebookRossum Electro-Music - FacebookRossumLive - FacebookRossum Realty Unlimited - Beth Rossum | Las Vegas NV - FacebookTpp Rossum | Rossum - FacebookPlezier In Muziek Rossum - Facebook May 27, 2022 · On Fridays, we wear PINK! Things are looking bright with Emmy Rossum and Joyelle Johnson on the next Kelly 💗 Jul 20, 2026 · Rossum is now part of Coupa, and",
+    "url": "https://www.facebook.com/emmyrossum/",
+    "pass": 3
+   },
+   {
+    "quote": "Rossum | London - FacebookRossum Electro-Music - FacebookRossumLive - FacebookRossum Realty Unlimited - Beth Rossum | Las Vegas NV - FacebookTpp Rossum | Rossum - FacebookPlezier In Muziek Rossum - Facebook Jul 20, 2026 · Rossum is now part of Coupa, and this changes everything for spend management. Join us live on June 9 to see what happens when the world's most advanced document intelligence mee",
+    "url": "https://www.facebook.com/RossumAi/",
+    "pass": 3
+   },
+   {
+    "quote": "Rossum Electro-Music - FacebookRossumLive - FacebookRossum Realty Unlimited - Beth Rossum | Las Vegas NV - FacebookTpp Rossum | Rossum - FacebookPlezier In Muziek Rossum - Facebook Oct 1, 2026 · Our inaugural guest is Dave Rossum, co-founder of E- mu Systems and Rossum Electro-Music, an influential figure in more than five decades of synthesizer, sampling, and music technology history. Oct 21, 202",
+    "url": "https://www.facebook.com/rossumelectro/",
+    "pass": 3
+   },
+   {
+    "quote": "RossumLive - Facebook Oct 21, 2026 · Rossum Live! 🎤 Met The Originals, Xander de Buisonjé, Roxeanne Hazes, Mart Hoogkamer, Outsiders en Samuel Welten staat er een line-up klaar voor een avond vol muziek, feest en meezingen. 🥳 Heb jij je tickets nog niet? 👀 Wacht dan niet te lang, want OP = OP! 🎟️ Haal je tickets via: https://mijnetickets.shop/stoer/6a02f6767f3b3 Met ...",
+    "url": "https://www.facebook.com/RossumLive/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://rossum.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rossum.ai/solutions/manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rossum.ai/solutions/across-industries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rossum.ai/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rossum.ai/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rossum.ai/solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rossum.ai/solutions/accounts-payable/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rossum.ai/solutions/customs-clearance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rossum.ai/solutions/order-management/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rossum.ai/solutions/quality-assurance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rossum.ai/solutions/wholesale-distribution-software/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rossum.ai/solutions/construction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rossum.ai/solutions/logistics-transportation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rossum.ai/solutions/retail/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rossum.ai/solutions/technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rossum.ai/customer-stories/imperial-dade/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rossum.ai/customer-stories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rossum.ai/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rossum.ai/company/newsroom/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rossum.ai/careers/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn-ilelian.nitrocdn.com/SGzNOJMyogtxiGxCzxtxlPeBAAVSYFZp/assets/images/optimized/rev-4ac5f59/rossum.ai/wp-content/uploads/2026/03/customer-stories-logos_morton-salt-550x302-1.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn-ilelian.nitrocdn.com/SGzNOJMyogtxiGxCzxtxlPeBAAVSYFZp/assets/images/optimized/rev-4ac5f59/rossum.ai/wp-content/uploads/fly-images/24612/bpo-partners-e1708292946794-330x175-c.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn-ilelian.nitrocdn.com/SGzNOJMyogtxiGxCzxtxlPeBAAVSYFZp/assets/images/optimized/rev-4ac5f59/rossum.ai/wp-content/uploads/2024/03/LLBPartners-Logo.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn-ilelian.nitrocdn.com/SGzNOJMyogtxiGxCzxtxlPeBAAVSYFZp/assets/images/optimized/rev-4ac5f59/rossum.ai/wp-content/uploads/fly-images/27416/manufacturing-1-330x175-c.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ai-jisso.jp/products/rossum/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mtec-institute.co.jp/business/data_science_solutions/rossum/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://moge.ai/ja/product/rossum",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.capterra.jp/software/193772/rossum",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/search-distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.coupa.com/en/product-documentation/rossum/welcome-to-rossum-knowledge-base/first-steps-with-rossum/languages-supported-by-rossum",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mtec-institute.co.jp/business/data_science_solutions/rossum/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trenexconsulting.com/rossum-japanese.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/rossum",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/rossum/case-study/bosch-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.spectrum.com/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/rossum",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/rossum/__LR4tK61DiWYYDrPnMYR7TlPkYzCabI8GoQ4OTGWgXPs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/179815-51",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dexteragent.ai/companies/rossum-1771822686",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mixloom/n/n3e3d540fe3b7?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mixloom/n/n3e3d540fe3b7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/shibats/n/nf640d8a6f931",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/RossumAi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/emmyrossum",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/gvanrossum",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/fvonrossum",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/rossum",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/rossum",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://cz.linkedin.com/company/rossum",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/rossumrobot-medical",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/emmyrossum/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/RossumAi/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/rossumelectro/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/RossumLive/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/RossumAi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/IanRossum",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Rossum 日本 導入",
+   "results": [
+    "https://ai-jisso.jp/products/rossum/",
+    "https://www.mtec-institute.co.jp/business/data_science_solutions/rossum/",
+    "https://moge.ai/ja/product/rossum",
+    "https://www.capterra.jp/software/193772/rossum",
+    "https://coupa.co.jp/news/2026051502",
+    "https://prtimes.jp/main/html/rd/p/000000059.000077848.html",
+    "https://rossum.ai/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rossum 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://rossum.ai/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://biz.toyokeizai.net/data/service/detail/id=418",
+    "https://www.aon.com/japan/company-overview",
+    "https://www.galderma.com/jp-jp/japan"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rossum Japan",
+   "results": [
+    "https://rossum.ai/solutions/financial-services/",
+    "https://knowledge-base.rossum.ai/docs/languages-supported-by-rossum",
+    "https://www.mtec-institute.co.jp/business/data_science_solutions/rossum/",
+    "https://trenexconsulting.com/rossum-japanese.html",
+    "https://ai.codigital.co.jp/en/tools/rossum/",
+    "https://www.rossum.app/",
+    "https://rossum.ai/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rossum manufacturing customer case study",
+   "results": [
+    "https://rossum.ai/customer-stories/",
+    "https://www.casestudies.com/company/rossum",
+    "https://rossum.ai/customer-stories/morton-salt/",
+    "https://www.casestudies.com/company/rossum/case-study/bosch-customer-case-study",
+    "https://aws.amazon.com/solutions/case-studies/rossum-case-study/",
+    "https://www.cuspera.com/products/rossum-x-15104/customer-story",
+    "https://www.youtube.com/playlist?list=PLv2RpdQ3nq0IRbCkI8kndMl1-a_UMN43b"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rossum white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://upcloud.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://aws.amazon.com/partners/programs/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rossum founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/rossum",
+    "https://tracxn.com/d/companies/rossum/__LR4tK61DiWYYDrPnMYR7TlPkYzCabI8GoQ4OTGWgXPs",
+    "https://pitchbook.com/profiles/company/179815-51",
+    "https://dexteragent.ai/companies/rossum-1771822686",
+    "https://compworth.com/company/rossum",
+    "https://www.konaequity.com/company/rossum-10402426954/",
+    "https://www.thecompanycheck.com/company/b/rossum/s0y8qjryvzinn3jkq"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Rossum",
+   "results": [
+    "https://note.com/mixloom/n/n3e3d540fe3b7?hl=en",
+    "https://note.com/mixloom/n/n3e3d540fe3b7",
+    "https://note.com/shibats/n/nf640d8a6f931",
+    "https://note.com/wise_turtle184",
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/quruli/n/n35d2b6cdc37a"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Rossum",
+   "results": [
+    "https://x.com/RossumAi",
+    "https://x.com/emmyrossum",
+    "https://x.com/gvanrossum",
+    "https://x.com/fvonrossum",
+    "https://x.com/RossumElectro",
+    "https://x.com/aiwfcidevin/status/2105790374060920850",
+    "https://x.com/rossumpress"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Rossum",
+   "results": [
+    "https://www.linkedin.com/company/rossum",
+    "https://www.linkedin.com/products/rossum",
+    "https://cz.linkedin.com/company/rossum",
+    "https://www.linkedin.com/company/rossumrobot-medical",
+    "https://www.linkedin.com/in/allenrossum",
+    "https://www.linkedin.com/in/dave-rossum-9b3bb413",
+    "https://www.linkedin.com/in/steven-rossum-13439a12"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Rossum",
+   "results": [
+    "https://www.facebook.com/emmyrossum/",
+    "https://www.facebook.com/RossumAi/",
+    "https://www.facebook.com/rossumelectro/",
+    "https://www.facebook.com/RossumLive/",
+    "https://www.facebook.com/RossumRealtyUnl/",
+    "https://www.facebook.com/p/Tpp-Rossum-100054527107585/",
+    "https://www.facebook.com/pimrossum/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rossum note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://note.com/sadaaki",
+    "https://rossum.ai/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rossum X 投稿",
+   "results": [
+    "https://x.com/RossumAi",
+    "https://x.com/IanRossum",
+    "https://www.instagram.com/rossumedia/",
+    "https://www.shared-jp.app.rossum.ai/",
+    "https://rossum.ai/company/",
+    "https://medium.com/rossum",
+    "https://rossum.ai/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部37頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部37頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部37頁・検索12回）"
+ }
+}

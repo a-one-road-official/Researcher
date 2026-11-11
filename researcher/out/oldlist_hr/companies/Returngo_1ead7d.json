@@ -1,0 +1,1643 @@
+{
+ "name": "Returngo",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜AI送信済み",
+ "researched_at": "2026-11-11T11:15:03.027276+00:00",
+ "official_url": "https://returngo.ai",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$52,000",
+    "url": "https://prospeo.io/c/returngo-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$5,000,000",
+    "url": "https://prospeo.io/c/returngo-revenue",
+    "pass": 3
+   },
+   {
+    "label": "2. Seed Round",
+    "value": "09-Jun-2022 $6.5M $6.5M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/465338-17",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Delaware, United States",
+    "url": "https://prospeo.io/c/returngo-revenue",
+    "pass": 3
+   },
+   {
+    "label": "HQ",
+    "value": "Ramat Gan, Tel Aviv, Israel",
+    "url": "https://startupintros.com/orgs/returngo",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2020",
+    "url": "https://prospeo.io/c/returngo-revenue",
+    "pass": 3
+   },
+   {
+    "label": "Founded",
+    "value": "Founded：2020",
+    "url": "https://startupintros.com/orgs/returngo",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "ReturnGO is the world’s leading returns management platform, helping companies turn a profit while tackling waste.",
+    "url": "https://returngo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Proudly Enabling Future-Looking eCommerce",
+    "url": "https://returngo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Once a purchase is made, ReturnGO’s end-to-end platform provides everything you need to maximize your revenue and profit while minimizing waste.",
+    "url": "https://returngo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Ship with the best prices on both forward and return shipping labels from all the top carriers, including multi-carrier options.",
+    "url": "https://returngo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Exchange products directly in store, offering Shop Now incentives and boosting upsells with an experience that’s just like shopping.",
+    "url": "https://returngo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve the financial and environmental impact returns have on your business.",
+    "url": "https://returngo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduced Carbon Footprint",
+    "url": "https://returngo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We saw an increase of 30% in exchanges when we switched to ReturnGO from a previous solution. It's a win-win situation both for our customers and for us.",
+    "url": "https://returngo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "ReturnGO is an innovative startup offering unique capabilities not available in other solutions on the market. It’s not a question of price – ReturnGO is simply better, more robust, and gives more value.",
+    "url": "https://returngo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Director of eCommerce Operations, Travelpro",
+    "url": "https://returngo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Implementing ReturnGO has been a game-changer for us. By automating the returns process, we’ve been able to save a lot of time and money.",
+    "url": "https://returngo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our platform integrates with any eCommerce stack, including 3PL, ERP, helpdesks, loyalty programs and more.",
+    "url": "https://returngo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect to innovative platforms, apps, and services with our API or prebuilt integrations.",
+    "url": "https://returngo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Empower global enterprises to manage returns at scale.",
+    "url": "https://returngo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-Grade Security",
+    "url": "https://returngo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Don’t skimp on post-purchase security. With ReturnGO’s secure SOC 2 certified platform, you can streamline returns while protecting customer data.",
+    "url": "https://returngo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "See how brands like yours streamlined their post-purchase process with ReturnGO.",
+    "url": "https://returngo.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduced Processing Time",
+    "url": "https://returngo.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "“As CurrentBody continues to grow its global footprint and expand its product range, ReturnGO enables it to continue to have operational excellence and provide exceptional customer service.”",
+    "url": "https://returngo.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "“ReturnGO is an innovative startup offering unique capabilities not available in other solutions on the market. It’s not a question of price – ReturnGO is simply better, more robust, and gives more value.”",
+    "url": "https://returngo.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "“ReturnGO has exceeded our expectations and given us a solution that truly simplifies our returns process.”",
+    "url": "https://returngo.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Travelpro Optimizes Order Tracking with ReturnGO",
+    "url": "https://returngo.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "“ReturnGO is amazing, and the features you get for the price are unmatched by other solutions. If you’ve got a clear vision for your returns process, ReturnGO lets you build it exactly how you want it.”",
+    "url": "https://returngo.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Trend Marketing Reduces Support Workload With ReturnGO & Gorgias",
+    "url": "https://returngo.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "“ReturnGO is easy to use, self-explanatory, and looks great. The dashboard is super clear and it’s easy to track RMAs at every stage of the process.”",
+    "url": "https://returngo.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "“ReturnGO is a 10 out of 10 product. It’s so well-done, there’s really no alternative. It’s simply the best out there.”",
+    "url": "https://returngo.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "CurrentBody Improves the Returns Process With ReturnGO",
+    "url": "https://returngo.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "“Implementing ReturnGO has been a game-changer for us. By automating the returns process, we’ve been able to save a lot of time and money.”",
+    "url": "https://returngo.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Flux Footwear Transforms the Post-Purchase Process With ReturnGO",
+    "url": "https://returngo.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "“Consolidating everything into one platform has made a huge difference for us. ReturnGO has everything from robust rules to integrated tracking, making the process easy for all sides.”",
+    "url": "https://returngo.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "“ReturnGO makes it easy to automate returns and exchanges, connecting all the dots and providing valuable data and reporting. It’s hard to imagine managing returns without this level of automation and visibility.”",
+    "url": "https://returngo.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "“ReturnGO helps us sync together our fulfillment center and website to make returns as seamless as possible, and it automates that process so we can think less about the mundane task of returns and think more about scaling and building our company.”",
+    "url": "https://returngo.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "One Project Retains Revenue With ReturnGO",
+    "url": "https://returngo.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "“I think ReturnGO is a masterpiece in the refund eCommerce process because there are a lot of apps that do some of the things but not all. This is the whole package, and when I say package I mean the app and also the team. “",
+    "url": "https://returngo.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Travelpro® Return Process: A Premium Customer Experience",
+    "url": "https://returngo.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Brava Fabrics Levels Up the Return Process with ReturnGO",
+    "url": "https://returngo.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock the power of integration with ReturnGO’s comprehensive solution. Effortlessly connect your current eCommerce stack through robust API and webhooks. Explore this page to discover a range of pre-built integrations that can be easily implemented with just a few clicks.",
+    "url": "https://returngo.ai/integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "A marketing platform that simplifies email and SMS notification automation and personalization.",
+    "url": "https://returngo.ai/integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "Streamline the return process for your SAP Commerce Cloud store by using ReturnGO to automate returns.",
+    "url": "https://returngo.ai/integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "Manage returns at scale using ReturnGO for PrestaShop.",
+    "url": "https://returngo.ai/integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "A platform designed to provide cost-saving shipping solutions for eCommerce businesses.",
+    "url": "https://returngo.ai/integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "The UK’s designated postal provider, committed to the highest level of reliability and efficiency for its delivery services.",
+    "url": "https://returngo.ai/integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "ShippyPro brings together everything you need to ship, track, return your orders and scale your fulfillment globally.",
+    "url": "https://returngo.ai/integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "A New Zealand-based shipping carrier that prioritizes sustainability and efficiency.",
+    "url": "https://returngo.ai/integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "An independent agency of the US federal government responsible for providing postal services across the country.",
+    "url": "https://returngo.ai/integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "DHL Express specializes in transporting urgent documents and goods reliably and on time from door to door.",
+    "url": "https://returngo.ai/integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "A leading national courier service in Israel, providing quick, professional, and high-quality delivery services.",
+    "url": "https://returngo.ai/integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "A United Arab Emirates (UAE)-based 3PL and shipping provider.",
+    "url": "https://returngo.ai/integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "Parcelninja enables you to compare courier prices, view all delivery statuses, report on SLAs and obtain real-time billing, all in one place.",
+    "url": "https://returngo.ai/integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "A shipping aggregator that helps you automate your shipping process for more efficient delivery.",
+    "url": "https://returngo.ai/integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "A web-based software designed to help eCommerce retailers process, fulfill, and ship orders from popular marketplaces and shopping carts.",
+    "url": "https://returngo.ai/integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "A shipping aggregator that helps you automate your return shipping process for increased efficiency.",
+    "url": "https://returngo.ai/integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "A leading automated parcel machine (APM) service provider for offering locker returns.",
+    "url": "https://returngo.ai/integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "A world-leading shipping company providing efficient and reliable shipping services.",
+    "url": "https://returngo.ai/integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "A shipping carrier that provides logistics and fulfillment solutions tailored for eCommerce businesses.",
+    "url": "https://returngo.ai/integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "A global fulfillment solution that helps you ship out orders and receive returned products.",
+    "url": "https://returngo.ai/integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "A leading global order fulfillment provider, primarily focused on the fashion and lifestyle sectors.",
+    "url": "https://returngo.ai/integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "An eCommerce fulfillment provider that makes it easy for you to manage your reverse logistics workflow.",
+    "url": "https://returngo.ai/integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "A warehouse management system that helps you efficiently process and handle returned products.",
+    "url": "https://returngo.ai/integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "A warehouse management system that enables you to easily monitor returned item processing.",
+    "url": "https://returngo.ai/integrations/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by 2700+ brands",
+    "url": "https://returngo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Take advantage of our growing network of warehouses and drop-off points.",
+    "url": "https://returngo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect carriers, logistics and warehouse services via our API.",
+    "url": "https://returngo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Access Mintsoft is a cloud-based warehouse, inventory, courier and eCommerce order management solution, created for 3PLs, warehouses, wholesalers, fulfillment houses and online retailers.",
+    "url": "https://returngo.ai/integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "A warehouse management system designed for high-growth online stores and direct-to-consumer brands.",
+    "url": "https://returngo.ai/integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "ShipHero Fulfillment owns and operates warehouses around the US that fulfill eCommerce orders for high growth D2C brands and Fortune 500 companies.",
+    "url": "https://returngo.ai/integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "A warehouse management system that helps you efficiently process and handle returned products.",
+    "url": "https://returngo.ai/integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "A warehouse management system that enables you to easily monitor returned item processing.",
+    "url": "https://returngo.ai/integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-Warehouse & Dropshipping",
+    "url": "https://returngo.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "CurrentBody has seamlessly integrated ReturnGO with its existing tech stack, including Sendcloud for shipping management and Peoplevox for warehouse operations.",
+    "url": "https://returngo.ai/case-study/currentbody-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "This seamless data flow has hugely improved inter-team communication, minimizing errors and delays, and enabling efficient processing of returns. For example, the warehouse team receives immediate notifications about incoming returns and can preemptively prepare for their arrival, and return shipping labels are generated automatically upon approval of the return request.",
+    "url": "https://returngo.ai/case-study/currentbody-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "“Communication between the warehouse and the returns team is much better now. Having it all in one system is so much more efficient..”",
+    "url": "https://returngo.ai/case-study/currentbody-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Underoutfit is an innovative Activewear & Underwear brand, with products designed in New York City, and shipped from its warehouses in New York State and California. With eco-friendly, ethical factories around the world, the brand sources only the highest quality materials.",
+    "url": "https://returngo.ai/case-study/underoutfit-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Before using ReturnGO, Harry Hall’s returns process was entirely manual. Customers had to contact customer service to initiate a return, the team would create return labels manually, returns would build up in the warehouse and customers would need to chase the company to follow up on their return.",
+    "url": "https://returngo.ai/case-study/harry-hall-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Once a returned shipment is received and scanned at the warehouse, the refund is automatically triggered. Automating the returns process has reduced the average processing time from 14-21 days to a remarkable 24 hours, a remarkable decrease of up to 95%.",
+    "url": "https://returngo.ai/case-study/harry-hall-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Pooky Lighting, a UK-based decorative lighting brand, has revolutionized its eCommerce returns process by implementing ReturnGO. Within weeks of going live with ReturnGO, Pooky saw a big reduction in customer service workload, better visibility into returns data, and smoother coordination between their warehouse operations and customer service team.",
+    "url": "https://returngo.ai/case-study/pooky-lighting-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "The company relied only on Shopify’s basic returns functionality. Every return was either processed blindly upon arrival at the warehouse, with the team manually matching returns to original orders, or initiated manually by customer service following phone calls from shoppers. This led to a growing pile of unidentified returns, considerable confusion, and very slow processing times.",
+    "url": "https://returngo.ai/case-study/pooky-lighting-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Second, since Pooky already used Brightpearl for warehouse management, the fact that ReturnGO seamlessly connected with Brightpearl was a huge plus, promising a smooth and integrated workflow.",
+    "url": "https://returngo.ai/case-study/pooky-lighting-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "ReturnGO has revolutionized Pooky’s internal workflow. When a return is received at the warehouse, the team uses ReturnGO together with Peoplevox and Brightpearl to validate items, ensuring that the items were correctly returned before processing the refund.",
+    "url": "https://returngo.ai/case-study/pooky-lighting-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "ReturnGO also streamlines how Pooky manages refunds and exchanges. When a customer opts for a refund, the automated system ensures it is processed once the item is validated in the warehouse.",
+    "url": "https://returngo.ai/case-study/pooky-lighting-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Streamlined warehouse operations by automating return validation and reducing manual data entry.",
+    "url": "https://returngo.ai/case-study/pink-boutique-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Manually managing returns through Shopify’s basic returns functionality, the company relied on a fully manual process that required warehouse staff to physically match returned packages with original orders. This led to a growing pile of unidentified returns and created significant inefficiencies in processing times.",
+    "url": "https://returngo.ai/case-study/pink-boutique-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "The platform’s ability to integrate with Pink Boutique’s existing systems, including Peoplevox for warehouse management and Freshdesk for customer service, made it an ideal choice for streamlining its operations.",
+    "url": "https://returngo.ai/case-study/pink-boutique-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "When a return is received, Pink Boutique’s warehouse team uses ReturnGO in combination with",
+    "url": "https://returngo.ai/case-study/pink-boutique-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "The biggest advantage of using ReturnGO is the time saved. The warehouse team can now focus on validating returns without needing to issue refunds themselves.",
+    "url": "https://returngo.ai/case-study/pink-boutique-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "“The biggest advantage is the time saved — our warehouse team can now focus on validating returned items without having to process refunds as well.”",
+    "url": "https://returngo.ai/case-study/pink-boutique-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "enable customers to get their new items sent out straight away, without having to wait for the original item to first get back to the warehouse. This is made possible by the customer providing credit card information for an authorization hold and committing to return the original item within a specified timeframe; if the original item isn’t returned, the customer is charged for it.",
+    "url": "https://returngo.ai/case-study/senita-athletics-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "When a return is receipted back to the warehouse, Indigo8 restocks the inventory back online and sends a validation back to ReturnGO for each line item. Web teams can then use ReturnGO’s automatic processing events to close the return, or check validated items to close off returns within the ReturnGO dashboard themselves.",
+    "url": "https://returngo.ai/integration/indigo8-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Warehouse teams can process the physical returns when they arrive back to the warehouse via their usual dashboard.",
+    "url": "https://returngo.ai/integration/indigo8-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Travelpro® is a leading manufacturer of luggage and suitcases, founded in 1987 by former Northwest Airlines pilot Bob Plath, who invented the rollaboard luggage. Over the years, Travelpro® has become one of the most popular luggage brands in the industry due to its focus on innovation.",
+    "url": "https://returngo.ai/case-study/travelpro-returns-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Apparel Manufacturing",
+    "url": "https://www.casestudies.com/company/returngo",
+    "pass": 3
+   },
+   {
+    "quote": "Footwear Manufacturing",
+    "url": "https://www.casestudies.com/company/returngo",
+    "pass": 3
+   },
+   {
+    "quote": "ReverseLogix is the only end-to-end, fully integrated returns management system (RMS) built specifically for retail, e-commerce, manufacturing, and 3PL organizations. Whether B2B, B2C or hybrid, the ReverseLogix platform facilitates, manages …",
+    "url": "https://www.featuredcustomers.com/vendor/returngo/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/returngo/case-studies",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": ", Customized to Fit Your Brand",
+    "url": "https://returngo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Your Brand. Your Workflow. Your Rules.",
+    "url": "https://returngo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "ReturnGO partners with leading eCommerce agencies and solutions to create the best post-purchase experience for both merchants and customers.",
+    "url": "https://returngo.ai/returngo-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Top 1% of Shopify agencies, turning visions into high-performing online stores that drive real results.",
+    "url": "https://returngo.ai/returngo-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "ReturnGO Partner Program - ReturnGO",
+    "url": "https://returngo.ai/partner-program/",
+    "pass": 1
+   },
+   {
+    "quote": "ReturnGO provides an innovative post‑purchase solution for eCommerce stores. Join our partner program to help your clients optimize their returns experience with dedicated onboarding support and a powerful, future‑ready platform.",
+    "url": "https://returngo.ai/partner-program/",
+    "pass": 1
+   },
+   {
+    "quote": "Join Our Partner Program",
+    "url": "https://returngo.ai/partner-program/",
+    "pass": 1
+   },
+   {
+    "quote": "Why do you want to join our partner program?",
+    "url": "https://returngo.ai/partner-program/",
+    "pass": 1
+   },
+   {
+    "quote": "Why Become a Partner?",
+    "url": "https://returngo.ai/partner-program/",
+    "pass": 1
+   },
+   {
+    "quote": "White-Label Return & Exchange Solution - ReturnGO",
+    "url": "https://returngo.ai/white-label-return-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "White-Label Return & Exchange Solution",
+    "url": "https://returngo.ai/white-label-return-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "Seamlessly offer ReturnGO’s industry-leading returns management functionality as part of your existing offerings through ReturnGO’s white-label OEM solution.",
+    "url": "https://returngo.ai/white-label-return-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "What is ReturnGO’s White Label Solution?",
+    "url": "https://returngo.ai/white-label-return-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "ReturnGO’s offers a white-label arrangement for third-party logistics providers, carriers, eCommerce platforms, shipping platforms, and others to provide ReturnGO’s industry-leading services directly, under your own brand.",
+    "url": "https://returngo.ai/white-label-return-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "Full White-Label Integration",
+    "url": "https://returngo.ai/white-label-return-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "Generate additional revenue streams by selling ReturnGO’s OEM solution to your clients alongside your offerings.",
+    "url": "https://returngo.ai/white-label-return-solution/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Once a purchase is made, ReturnGO’s end-to-end platform provides everything you need to maximize your revenue and profit while minimizing waste.",
+    "url": "https://returngo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Offer return coverage to shift the cost of returns to shoppers and generate new revenue streams for your business.",
+    "url": "https://returngo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Ship with the best prices on both forward and return shipping labels from all the top carriers, including multi-carrier options.",
+    "url": "https://returngo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Delight your customers with an intuitive return and exchange experience, featuring an upgraded UX/UI design that seamlessly handles complex scenarios as part of the new ReturnGO 2.0.",
+    "url": "https://returngo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase In Revenue Per Return",
+    "url": "https://returngo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect to your existing shipping carriers or aggregators.",
+    "url": "https://returngo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect carriers, logistics and warehouse services via our API.",
+    "url": "https://returngo.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "New Revenue from Redeemed Store Credit",
+    "url": "https://returngo.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Harry Hall Speeds Up Magento Returns With ReturnGO",
+    "url": "https://returngo.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "One Project Retains Revenue With ReturnGO",
+    "url": "https://returngo.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Silk & Salt Retains Revenue on 24.1% of Their Returns With ReturnGO",
+    "url": "https://returngo.ai/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Carriers / Aggregators",
+    "url": "https://returngo.ai/integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "A UK-based carrier that puts customers in control of their parcel deliveries and returns by offering drop-off returns.",
+    "url": "https://returngo.ai/integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "A New Zealand-based shipping carrier that prioritizes sustainability and efficiency.",
+    "url": "https://returngo.ai/integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "An Australia-based shipping carrier that makes order fulfillment quick, easy, and affordable.",
+    "url": "https://returngo.ai/integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "A fast, reliable and flexible multi-carrier shipping API that connects 100+ global carriers.",
+    "url": "https://returngo.ai/integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "A complete shipping solution that enables you to ship worldwide across carriers from one platform.",
+    "url": "https://returngo.ai/integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "A Canada-based shipping carrier that is based on innovation, integrity, and safety.",
+    "url": "https://returngo.ai/integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "A multi-carrier shipping API and app that enables you to easily connect to multiple shipping carriers.",
+    "url": "https://returngo.ai/integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "A shipping carrier that provides logistics and fulfillment solutions tailored for eCommerce businesses.",
+    "url": "https://returngo.ai/integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "ShipHero Fulfillment owns and operates warehouses around the US that fulfill eCommerce orders for high growth D2C brands and Fortune 500 companies.",
+    "url": "https://returngo.ai/integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "E-commerce agency that boosts revenue and optimizes user experience in e-commerce and digital products.",
+    "url": "https://returngo.ai/returngo-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Company specializing in supply chain management for startups, bringing Fortune 500-level expertise to startups to boost equity and cashflow.",
+    "url": "https://returngo.ai/returngo-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Implementation on Shopify takes 1-3 days, as long as all third-party integrations are already in place (shipping carrier, 3PL, helpdesk, ERP, etc).",
+    "url": "https://returngo.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Seamlessly offer ReturnGO’s industry-leading returns management functionality as part of your existing offerings through ReturnGO’s white-label OEM solution.",
+    "url": "https://returngo.ai/white-label-return-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "ReturnGO’s offers a white-label arrangement for third-party logistics providers, carriers, eCommerce platforms, shipping platforms, and others to provide ReturnGO’s industry-leading services directly, under your own brand.",
+    "url": "https://returngo.ai/white-label-return-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "Your clients experience ReturnGO’s features as part of your solution.",
+    "url": "https://returngo.ai/white-label-return-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "Differentiate yourself in the market by offering other businesses return and exchange services as part of your solution.",
+    "url": "https://returngo.ai/white-label-return-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "Generate additional revenue streams by selling ReturnGO’s OEM solution to your clients alongside your offerings.",
+    "url": "https://returngo.ai/white-label-return-solution/",
+    "pass": 1
+   },
+   {
+    "quote": "This seamless data flow has hugely improved inter-team communication, minimizing errors and delays, and enabling efficient processing of returns. For example, the warehouse team receives immediate notifications about incoming returns and can preemptively prepare for their arrival, and return shipping labels are generated automatically upon approval of the return request.",
+    "url": "https://returngo.ai/case-study/currentbody-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "New Revenue from Redeemed Store Credit",
+    "url": "https://returngo.ai/case-study/underoutfit-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "“Regardless of the return outcome, making returns easy for customers is an important part of the customer journey and customer retention.”",
+    "url": "https://returngo.ai/case-study/underoutfit-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "For items that can be shipped back and restocked, Underoutfit was able to take advantage of the wide range of shipping carrier and aggregator integrations offered by ReturnGO, eventually choosing to integrate with Shippo, an aggregator that specializes in the US, as it best suited Underoutfit’s needs.",
+    "url": "https://returngo.ai/case-study/underoutfit-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "16.4% New Revenue from Redeemed Store Credit",
+    "url": "https://returngo.ai/case-study/underoutfit-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "When Underoutfit customers redeem their store credit, over 51% spend more money, generating an average of 16.4% additional revenue. This shows that store credit can be a valuable option to offer customers.",
+    "url": "https://returngo.ai/case-study/underoutfit-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "By using ReturnGO’s returns management system, Underoutfit has benefitted from reduced costs, increased efficiency, and higher retained revenue. Underoutfit continues to use ReturnGO to constantly optimize its returns process, improve the customer experience, and track return analytics.",
+    "url": "https://returngo.ai/case-study/underoutfit-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Harry Hall Speeds Up Magento Returns With ReturnGO - ReturnGO",
+    "url": "https://returngo.ai/case-study/harry-hall-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Harry Hall Speeds Up Magento Returns With ReturnGO",
+    "url": "https://returngo.ai/case-study/harry-hall-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Harry Hall, a leading equestrian apparel and services provider, has revolutionized its returns process with ReturnGO, cutting down processing time and greatly improving the customer experience.",
+    "url": "https://returngo.ai/case-study/harry-hall-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Since using ReturnGO, Harry Hall has experienced significant benefits:",
+    "url": "https://returngo.ai/case-study/harry-hall-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Automating returns with ReturnGO has enabled Harry Hall to reduce the time it takes to process returns by up to 95%, from an average of 14-21 days down to as little as 24 hours.",
+    "url": "https://returngo.ai/case-study/harry-hall-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "With a self-service return process, Harry Hall has seen a decrease in customer service inquiries and a surge in positive feedback regarding returns.",
+    "url": "https://returngo.ai/case-study/harry-hall-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "With the automated returns process, Harry Hall’s customer service team has seen a 23.6% reduction in customer service tickets, freeing up the team to focus on edge cases and other tasks.",
+    "url": "https://returngo.ai/case-study/harry-hall-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "ReturnGO’s advanced analytics provide Harry Hall with valuable data on return reasons, product performance, and customer behavior, enabling them to make informed decisions about inventory, design, and customer communication.",
+    "url": "https://returngo.ai/case-study/harry-hall-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Before using ReturnGO, Harry Hall’s returns process was entirely manual. Customers had to contact customer service to initiate a return, the team would create return labels manually, returns would build up in the warehouse and customers would need to chase the company to follow up on their return.",
+    "url": "https://returngo.ai/case-study/harry-hall-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Harry Hall wanted to find a solution to help handle returns more easily on Magento, increase communication, and implement levels of automation the company lacked.",
+    "url": "https://returngo.ai/case-study/harry-hall-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "– David Brawn, IT & Logistics Director, Harry Hall",
+    "url": "https://returngo.ai/case-study/harry-hall-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Why Harry Hall Chose ReturnGO",
+    "url": "https://returngo.ai/case-study/harry-hall-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Harry Hall sought a solution to automate its Magento returns process and improve the customer experience. After exploring several off-the-shelf Magento extensions but finding them lacking in functionality, Harry Hall found ReturnGO, which met all the company’s needs.",
+    "url": "https://returngo.ai/case-study/harry-hall-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "The deciding factors for Harry Hall were ReturnGO’s seamless Magento integration, powerful returns automation, and customer-friendly return portal.",
+    "url": "https://returngo.ai/case-study/harry-hall-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "In addition, ReturnGO’s flexibility which enables it to support Harry Hall’s specific return policies, along with its in-depth analytics, also contributed to Harry Hall’s decision to start using ReturnGO.",
+    "url": "https://returngo.ai/case-study/harry-hall-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "How Harry Hall Uses ReturnGO",
+    "url": "https://returngo.ai/case-study/harry-hall-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Harry Hall uses ReturnGO to simplify the returns process and to reduce processing time and friction in several ways.",
+    "url": "https://returngo.ai/case-study/harry-hall-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Using ReturnGO, Harry Hall enables customers to initiate returns seamlessly through a self-service return portal, eliminating the need for lengthy email or phone interactions.",
+    "url": "https://returngo.ai/case-study/harry-hall-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Harry Hall’s shift to an automated returns process has led to a 23.6% reduction in inbound calls, emails, and chat inquiries. The customer service team has been able to save a significant amount of time, enabling them to focus on more complex customer issues and provide higher-level support.",
+    "url": "https://returngo.ai/case-study/harry-hall-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "To further streamline the returns process, Harry Hall has implemented chatbots and created comprehensive online resources that guide customers through the returns process. When customers inquire about returns, the chatbot can instantly provide links to relevant articles and step-by-step instructions on using the ReturnGO portal, further reducing the need for direct customer service interaction.",
+    "url": "https://returngo.ai/case-study/harry-hall-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Since using ReturnGO, Harry Hall has received a flood of positive feedback on its returns process, with customers often mentioning the ease of returning items in their reviews.",
+    "url": "https://returngo.ai/case-study/harry-hall-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Harry Hall has leveraged ReturnGO to automate its refund process for a smoother, faster customer experience.",
+    "url": "https://returngo.ai/case-study/harry-hall-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "When initiating a return through the portal, customers provide details about the return reason and can upload images of the items. Harry Hall’s customer service team reviews this information and approves returns for unworn items that meet their return policy criteria.",
+    "url": "https://returngo.ai/case-study/harry-hall-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "enables Harry Hall to automatically generate pre-paid return shipping labels, simplifying the process for customers as well as for the Harry Hall team.",
+    "url": "https://returngo.ai/case-study/harry-hall-case-study/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "A marketing platform that simplifies email and SMS notification automation and personalization.",
+    "url": "https://returngo.ai/integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "A helpdesk app to manage all your customer service channels including live chat, email, and social media.",
+    "url": "https://returngo.ai/integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "An advanced solution for email and SMS marketing, loyalty and referrals, subscriptions, reviews, and visual UGC.",
+    "url": "https://returngo.ai/integrations/",
+    "pass": 1
+   },
+   {
+    "quote": "Customized Email Notifications",
+    "url": "https://returngo.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Email Support Ticket System",
+    "url": "https://returngo.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "We’re happy to answer any questions you may have. Feel free to contact us at",
+    "url": "https://returngo.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "It should be noted that the self-service application does not include all of the features available on our enterprise plan. Please contact us for more information about the enterprise plan.",
+    "url": "https://returngo.ai/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Using ReturnGO, Harry Hall enables customers to initiate returns seamlessly through a self-service return portal, eliminating the need for lengthy email or phone interactions.",
+    "url": "https://returngo.ai/case-study/harry-hall-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Harry Hall’s shift to an automated returns process has led to a 23.6% reduction in inbound calls, emails, and chat inquiries. The customer service team has been able to save a significant amount of time, enabling them to focus on more complex customer issues and provide higher-level support.",
+    "url": "https://returngo.ai/case-study/harry-hall-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Before implementing ReturnGO, Travelpro had been using Shopify’s email notification tool, which provided only minimal communication to customers, typically only sending 3-4 emails throughout the entire delivery process.",
+    "url": "https://returngo.ai/case-study/travelpro-order-tracking-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Therefore, customers were unable to track their orders proactively and relied solely on sporadic email notifications, which led to frustration and many “Where Is My Order” (WISMO) questions flooding their customer service team.",
+    "url": "https://returngo.ai/case-study/travelpro-order-tracking-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Using ReturnGO, Travelpro has automated the entire order tracking process, directing customers straight to a branded order tracking portal through automated email notifications.",
+    "url": "https://returngo.ai/case-study/travelpro-order-tracking-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Travelpro now sends customers 4-6 updates throughout the order fulfillment process, keeping them informed every step of the way. This increased communication has led to 93.2% of tracking cases coming from emails, demonstrating that updating customers frequently can increase their trust and reduce support calls.",
+    "url": "https://returngo.ai/case-study/travelpro-order-tracking-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Travelpro prioritizes accessibility and transparency in its order tracking process, making the portal easily accessible through confirmation emails and website navigation. This increased transparency and convenient order tracking portal provides a better customer experience.",
+    "url": "https://returngo.ai/case-study/travelpro-order-tracking-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "Before Travelpro® implemented ReturnGO’s returns solution, customers would need to request a return on the website, and a customer service team member would manually generate a return label using FedEx Ship Manager and send it to the customer by email.",
+    "url": "https://returngo.ai/case-study/travelpro-returns-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "By eliminating the need to log into FedEx Ship manager, type up a label, and email it to the customer, ReturnGO’s shipping integration abilities helped to greatly reduce the amount of time it takes to process a return.",
+    "url": "https://returngo.ai/case-study/travelpro-returns-case-study/",
+    "pass": 1
+   },
+   {
+    "quote": "through chat or email. This is one of the key advantages of having your shipping solution built into the platform.",
+    "url": "https://support.returngo.ai/ship-by-returngo",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/returngo/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/returngo/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/returngo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/465338-17",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "この開発者は日本語での直接的なサポートを提供していません",
+    "url": "https://apps.shopify.com/returngo/?locale=ja",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ReturnGOレビュー2026：Shopify返品アプリ — Sep 25, 2026 · ReturnGO は、返品ルールや交換、物流連携を細かく管理したいShopifyストア向けのアプリです。 柔軟な設定が強みですが、月額料金が高いため、ある程度の返品件数があるストアに向いています。",
+    "url": "https://www.digismoothie.com/ja/app/returngo",
+    "pass": 3
+   },
+   {
+    "quote": "Sustainable Returns & Exchanges Management - ReturnGO — Delight your customers with an intuitive return and exchange experience, featuring an upgraded UX/UI design that seamlessly handles complex scenarios as part of the new ReturnGO 2.0.",
+    "url": "https://returngo.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "返金と交換を自動化して、より良い返品体験を提供 | Shopify App Stor...ReturnGO - LinkedIn 日本ReturnGO 返品管理（ReturnGO Returns & Exchanges） | Shopify Apps ...導入流れ | Return Helper JP【驚愕！Amazonフルフィルメント業界に衝撃を与える！】ReturnGoが5億... — ReturnGO の交換を優先する返品プラットフォームを活用し、返品と交換を一元管理できます。 自動化されたオリジナルデザインのポータルによりシームレスな返品プロセスを実現し、スムーズな「Shop Now」での交換体験を提供します。 The true cost of returns extends beyond financial losses, as they also produce CO2 em",
+    "url": "https://apps.shopify.com/returngo/?locale=ja",
+    "pass": 3
+   },
+   {
+    "quote": "ReturnGO - LinkedIn 日本 — The true cost of returns extends beyond financial losses, as they also produce CO2 emissions, damaging the environment and contributing to climate change. ReturnGO is on a mission to make...",
+    "url": "https://jp.linkedin.com/company/returngo",
+    "pass": 3
+   },
+   {
+    "quote": "【驚愕！Amazonフルフィルメント業界に衝撃を与える！】ReturnGoが5億... — Nov 8, 2023 · ReturnGOはベータ版のトラッキングソリューションをリリースし、ショッパーが各ステップで通知を受け取れるようにしたばかりです。 それが完成したら、同社は返品とトラッキングのバンドルソリューションを販売する予定です。",
+    "url": "https://eletsu.jp/6489/",
+    "pass": 3
+   },
+   {
+    "quote": "Sustainable Returns & Exchanges Management - ReturnGO — Easy-to-use self-service return management portal that allows customers to return and exchange products increases revenue and customer retention.",
+    "url": "https://returngo.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "ReturnGO Pricing - ReturnGO — Find the perfect ReturnGO Return Portal pricing plan for your business needs. Compare and choose the best plan that fits your budget with ease.",
+    "url": "https://returngo.ai/pricing/",
+    "pass": 3
+   },
+   {
+    "quote": "Ship by ReturnGO Overview — Jul 8, 2026 · The Ship by ReturnGO page provides options to set up Ship by ReturnGO or schedule a demo for guided assistance from the ReturnGO support team. Learn more about how to configure Ship by ReturnGO return methods and policy rules here.",
+    "url": "https://support.returngo.ai/ship-by-returngo",
+    "pass": 3
+   },
+   {
+    "quote": "ReturnGO - LinkedIn — ReturnGO’s innovative technology is at the forefront of the evolving returns management market as the first open post-purchase platform for sustainable eCommerce, helping businesses increase...",
+    "url": "https://www.linkedin.com/company/returngo",
+    "pass": 3
+   },
+   {
+    "quote": "ReturnGO - FacebookReturns OverviewReturnGO 返品管理（ReturnGO Returns & Exchanges） | Shopify Apps ... — Aug 5, 2025 · We're thrilled to finally introduce Edge - ReturnGO's ultimate return portal, as promised in ReturnGO 2.0. Edge is designed to take your customer experience to the next level. Enjoy a completely reimagined return journey, making it intuitive, visually stunning, and effortlessly simple ",
+    "url": "https://www.facebook.com/returngoai/",
+    "pass": 3
+   },
+   {
+    "quote": "Sustainable Returns & Exchanges Management - ReturnGO — Offer return coverage to shift the cost of returns to shoppers and generate new revenue streams for your business. Ship with the best prices on both forward and return shipping labels from all the top carriers, including multi-carrier options.",
+    "url": "https://returngo.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies - ReturnGO — “ReturnGO is more than just a tool for managing returns; it’s become a real strategic advantage for us. We have access to better data, our customers are happier, and our entire operation runs more smoothly.”",
+    "url": "https://returngo.ai/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "ReturnGO B2B Case Studies & Customer Successes — See how ReturnGO solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/returngo",
+    "pass": 3
+   },
+   {
+    "quote": "Aesthetic Nation Boosts Customer Satisfaction with ReturnGO — ReturnGO has transformed Aesthetic Nation’s returns process, creating a customer-centric experience and improving operational efficiency. Aesthetic Nation is dedicated to providing exceptional customer experiences, and ReturnGO has become a key factor in achieving this goal.",
+    "url": "https://returngo.ai/case-study/aesthetic-nation-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "19 ReturnGO Case Studies, Success Stories, & Customer Stories — Narrow down 19 case studies by company size & industry to find out how ReturnGO works for a business like yours.",
+    "url": "https://www.featuredcustomers.com/vendor/returngo/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Underoutfit reduces refunds by 25.6% with ReturnGO — As a result, Underoutfit achieved a 25.6% decrease in refunds and a 19.8% increase in variant exchanges. ReturnGO’s system also generated 16.4% new revenue from redeemed store credit while drastically cutting reverse logistics and customer support costs. View this case study…",
+    "url": "https://www.casestudies.com/company/returngo/case-study/underoutfit-reduced-refunds-by-256-with-returngo",
+    "pass": 3
+   },
+   {
+    "quote": "ReturnGO Revenue, Funding & Valuation - prospeo.io — ReturnGO has revenue of $1,800,000, estimated valuation of $5,800,000, $5,000,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/returngo-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "ReturnGO 2026 Company Profile: Valuation, Investors ...ReturnGO Stock Price, Funding, Valuation, Revenue & Financial ...ReturnGO: Funding, Team & Investors | Startup IntrosReturngo Technologies - 2025 Company Profile, Team, Funding ...ReturnGO — investors & funding | gritt.ioReturnGO Revenue 2025: $4.4M Est. - getlatka.com — Information on acquisition, funding, cap tables, investors, and executive",
+    "url": "https://pitchbook.com/profiles/company/465338-17",
+    "pass": 3
+   },
+   {
+    "quote": "ReturnGO Stock Price, Funding, Valuation, Revenue & Financial ... — See ReturnGO funding rounds, investors, investments, exits and more. Evaluate their financials based on ReturnGO's post-money valuation and revenue.",
+    "url": "https://www.cbinsights.com/company/returngo/financials",
+    "pass": 3
+   },
+   {
+    "quote": "ReturnGO: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · ReturnGO was founded to allow businesses to offer flexible return policies without compromising profitability or sustainability. This understanding guided its development, redefining how retailers approach post-purchase interactions.",
+    "url": "https://startupintros.com/orgs/returngo",
+    "pass": 3
+   },
+   {
+    "quote": "Returngo Technologies - 2025 Company Profile, Team, Funding ... — Aug 28, 2025 · Returngo Technologies is an acquired company based in Israel, founded in 2020 by Eyal Rosenthal and Assi Abramovitz. It operates as a Platform offering data-driven return management platform for online businesses. Returngo Technologies has raised $11.5M in funding from TPY Capital and Trestle Partner.",
+    "url": "https://tracxn.com/d/companies/returngo-technologies/__MpM-_XgzNO0W5fOWOb4C0Nppzicf0JyJ4CKgsDvP52Q",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "ReturnGO - LinkedIn ReturnGO’s innovative technology is at the forefront of the evolving returns management market as the first open post-purchase platform for sustainable eCommerce, helping businesses increase ...",
+    "url": "https://www.linkedin.com/company/returngo",
+    "pass": 3
+   },
+   {
+    "quote": "David Miles - COO at ReturnGO | LinkedInNeta-Hadar Itzhak - Software Engineer at ReturnGO ...We’re excited to announce that ReturnGO has been ... - LinkedInAviad Raz - Co-Founder & CEO at ReturnGO (Acquired by ...Returngo Jobs in Worldwide (23,000+ Open Roles) | LinkedInReturnPro - LinkedIn ReturnGO is a leading returns and exchanges management platform that helps online retailers increase custome",
+    "url": "https://il.linkedin.com/in/david-miles",
+    "pass": 3
+   },
+   {
+    "quote": "Neta-Hadar Itzhak - Software Engineer at ReturnGO ...We’re excited to announce that ReturnGO has been ... - LinkedInAviad Raz - Co-Founder & CEO at ReturnGO (Acquired by ...Returngo Jobs in Worldwide (23,000+ Open Roles) | LinkedInReturnPro - LinkedIn At ReturnGO (acquired by Global-e), I develop and maintain full-stack features using React, TypeScript and PHP microservices, while leading escalati",
+    "url": "https://il.linkedin.com/in/neta-hadar-itzhak",
+    "pass": 3
+   },
+   {
+    "quote": "We’re excited to announce that ReturnGO has been ... - LinkedIn We’re excited to announce that ReturnGO has been acquired by Global-e (Nasdaq: GLBE), the world’s leading global eCommerce platform!",
+    "url": "https://www.linkedin.com/posts/returngo_were-excited-to-announce-that-returngo-has-activity-7356662707531538432-gpef",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "ReturnGO - FacebookReturnGO - We're excited to bring you another insightful ...ReturnGO - Level up your post-purchase experience with ...ReturnGO - How to make your returns policy do the work | FacebookReturnGO - A return policy isn’t just fine print. It’s a ...ReturnGO - We’re excited to announce that ReturnGO is now ...ReturnGO - We had WAY too much fun making this video… Take ... Aug 5, 2025 · ",
+    "url": "https://www.facebook.com/returngoai/",
+    "pass": 3
+   },
+   {
+    "quote": "ReturnGO - We're excited to bring you another insightful ... Mar 20, 2025 · ReturnGO 1y · Public We’re excited to announce that ReturnGO is now live in the Wix App Market, making it easier than ever for Wix merchants to streamline and automate their return process. Streamline and automate your return process with a branded self-service portal, automated approvals and exchanges, and real-time insig",
+    "url": "https://www.facebook.com/returngoai/posts/were-excited-to-bring-you-another-insightful-episode-of-the-beyond-the-buy-podca/1450319942766849/",
+    "pass": 3
+   },
+   {
+    "quote": "ReturnGO - Level up your post-purchase experience with ... Mar 26, 2025 · Simplify returns, reduce waste, and maximize the value of every order with the seamless integration between ReturnGO and The Return. #ecommerce #returns #postpurchase #automation #reverselogistics #ecommercereturns #returnsmanagement | Facebook",
+    "url": "https://www.facebook.com/returngoai/photos/level-up-your-post-purchase-experience-with-returngo-the-returnsimplify-and-auto/1455558398909670/",
+    "pass": 3
+   },
+   {
+    "quote": "ReturnGO - How to make your returns policy do the work | Facebook Apr 3, 2020 · We’re excited to announce that ReturnGO is now live in the Wix App Market, making it easier than ever for Wix merchants to streamline and automate their return process. Streamline and automate your return process with a branded self-service portal, automated approvals and exchanges, and real-time insights to elevate cu",
+    "url": "https://www.facebook.com/returngoai/posts/how-to-make-your-returns-policy-do-the-work/121498862811025/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "@ReturnGO | X The latest posts from @ReturnGO",
+    "url": "https://x.com/ReturnGO",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://returngo.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://returngo.ai/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://returngo.ai/integrations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://returngo.ai/returngo-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://returngo.ai/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://returngo.ai/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://returngo.ai/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://returngo.ai/white-label-return-solution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://returngo.ai/case-study/currentbody-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://returngo.ai/case-study/underoutfit-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://returngo.ai/case-study/harry-hall-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://returngo.ai/case-study/pooky-lighting-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://returngo.ai/case-study/travelpro-order-tracking-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://returngo.ai/case-study/pink-boutique-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://returngo.ai/case-study/senita-athletics-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://returngo.ai/integration/indigo8-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://returngo.ai/partner/webbycrown-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://returngo.ai/case-study/travelpro-returns-case-study/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://returngo.ai/wp-content/uploads/2025/06/Customers-1.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://returngo.ai/wp-content/uploads/2023/10/Partners_Program.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://returngo.ai/wp-content/uploads/2024/01/alo-yoga-logos-idy1jzTUI8-1.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.digismoothie.com/ja/app/returngo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apps.shopify.com/returngo/?locale=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/company/returngo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rengo.co.jp/english/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tourego.com/ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.returngo.ai/ship-by-returngo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/returngo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/returngoai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.casestudies.com/company/returngo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/returngo/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upcloud.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/returngo-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/465338-17",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/returngo/financials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/returngo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/returngo",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://il.linkedin.com/in/david-miles",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://il.linkedin.com/in/neta-hadar-itzhak",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/returngo_were-excited-to-announce-that-returngo-has-activity-7356662707531538432-gpef",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/returngoai/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/returngoai/posts/were-excited-to-bring-you-another-insightful-episode-of-the-beyond-the-buy-podca/1450319942766849/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/returngoai/photos/level-up-your-post-purchase-experience-with-returngo-the-returnsimplify-and-auto/1455558398909670/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/returngoai/posts/how-to-make-your-returns-policy-do-the-work/121498862811025/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ReturnGO",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Returngo 日本 導入",
+   "results": [
+    "https://www.digismoothie.com/ja/app/returngo",
+    "https://returngo.ai/",
+    "https://apps.shopify.com/returngo/?locale=ja",
+    "https://jp.linkedin.com/company/returngo",
+    "https://eletsu.jp/6489/",
+    "https://molto-c.com/shopify/apps/returngo/",
+    "https://www.returnhelper.co.jp/導入流れ"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Returngo 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://returngo.ai/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.rengo.co.jp/english/",
+    "https://www.tourego.com/",
+    "https://www.aon.com/japan/company-overview",
+    "https://www.jll.com/ja-jp/about-jll/japan-information",
+    "https://www.apollo.com/jp/ja/homepage"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Returngo Japan",
+   "results": [
+    "https://returngo.ai/pricing/",
+    "https://support.returngo.ai/ship-by-returngo",
+    "https://www.linkedin.com/company/returngo",
+    "https://www.facebook.com/returngoai/",
+    "https://returngo.ai/",
+    "https://molto-c.com/shopify/apps/returngo/",
+    "https://support.returngo.ai/home-page"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Returngo manufacturing customer case study",
+   "results": [
+    "https://returngo.ai/case-studies/",
+    "https://www.casestudies.com/company/returngo",
+    "https://returngo.ai/case-study/aesthetic-nation-case-study/",
+    "https://www.featuredcustomers.com/vendor/returngo/case-studies",
+    "https://www.casestudies.com/company/returngo/case-study/underoutfit-reduced-refunds-by-256-with-returngo",
+    "https://www.returnpro.com/resources/content-types/case-study",
+    "https://www.appsruntheworld.com/customers-database/products/view/returngo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Returngo white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/",
+    "https://www.canva.com/partners/reseller/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Returngo founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/returngo-revenue",
+    "https://pitchbook.com/profiles/company/465338-17",
+    "https://www.cbinsights.com/company/returngo/financials",
+    "https://startupintros.com/orgs/returngo",
+    "https://tracxn.com/d/companies/returngo-technologies/__MpM-_XgzNO0W5fOWOb4C0Nppzicf0JyJ4CKgsDvP52Q",
+    "https://www.gritt.io/company/returngo/",
+    "https://getlatka.com/companies/returngo.ai"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Returngo",
+   "results": [
+    "https://note.com/peter_amau/n/ndef36a9c0be1?hl=en",
+    "https://note.com/gokitamasamichi/n/nb051bc95d4a3?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/brisk_allium86/n/n788ab3e7f28d?hl=en",
+    "https://note.com/quruli/n/n35d2b6cdc37a",
+    "https://note.com/clever_worm4902/n/n0fa6d6239cbd",
+    "https://note.com/akih/n/n6cc428c21d80"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Returngo",
+   "results": [
+    "https://x.com/",
+    "https://about.x.com/en",
+    "https://help.x.com/en",
+    "https://help.x.com/en/using-x/download-the-x-app",
+    "https://x.com/fukufoto/status/2120029444236857375",
+    "https://business.x.com/en",
+    "https://business.x.com/en/help/overview/twitter-ads-glossary"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Returngo",
+   "results": [
+    "https://www.linkedin.com/company/returngo",
+    "https://il.linkedin.com/in/david-miles",
+    "https://il.linkedin.com/in/neta-hadar-itzhak",
+    "https://www.linkedin.com/posts/returngo_were-excited-to-announce-that-returngo-has-activity-7356662707531538432-gpef",
+    "https://il.linkedin.com/in/aviad-raz-126a3a39",
+    "https://www.linkedin.com/jobs/returngo-jobs-worldwide",
+    "https://www.linkedin.com/company/returnpro1"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Returngo",
+   "results": [
+    "https://www.facebook.com/returngoai/",
+    "https://www.facebook.com/returngoai/posts/were-excited-to-bring-you-another-insightful-episode-of-the-beyond-the-buy-podca/1450319942766849/",
+    "https://www.facebook.com/returngoai/photos/level-up-your-post-purchase-experience-with-returngo-the-returnsimplify-and-auto/1455558398909670/",
+    "https://www.facebook.com/returngoai/posts/how-to-make-your-returns-policy-do-the-work/121498862811025/",
+    "https://www.facebook.com/returngoai/posts/a-return-policy-isnt-just-fine-print-its-a-powerful-way-to-build-trust-and-custo/1556020268863482/",
+    "https://www.facebook.com/returngoai/posts/were-excited-to-announce-that-returngo-is-now-live-in-the-wix-app-market-making-/1557731712025671/",
+    "https://www.facebook.com/returngoai/posts/1231754251290087/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Returngo note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://returngo.ai/release-notes/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://returngo.ai/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/n51b6ea4b0bd6"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Returngo X 投稿",
+   "results": [
+    "https://returngo.ai/",
+    "https://x.com/ReturnGO",
+    "https://returngo.ai/returns/",
+    "https://returngo.ai/how-it-works/",
+    "https://returngo.ai/homepage-new/",
+    "http://rms.returngo.ai/",
+    "https://portal.returngo.ai/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式18頁／PDF・画像3件／外部28頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式18頁／PDF・画像3件／外部28頁・検索12回）"
+ }
+}

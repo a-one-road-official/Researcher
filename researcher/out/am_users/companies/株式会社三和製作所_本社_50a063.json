@@ -1,0 +1,743 @@
+{
+ "name": "株式会社三和製作所 本社",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T10:56:22.500894+00:00",
+ "official_url": "http://www.sanwa-q.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "兵庫県淡路市志筑2570-2 総務部 電話（0799）62-0205 (代) FAX（0799）62-3575 製造部 電話（0799）62-1201 FAX（0799）62-1303 会社役員 代表取締役 石井 康文 取締役 岡田 将武、石井真郁子 監査役 家谷 昭史",
+    "url": "https://www.sanwa-q.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "label": "旧本社工場",
+    "value": "兵庫県淡路市志筑1488 工場建物 4棟 合計 延 6,553㎡",
+    "url": "https://www.sanwa-q.co.jp/company/about.html",
+    "pass": 1
+   }
+  ],
+  "拠点": [
+   {
+    "label": "柳原工場",
+    "value": "兵庫県淡路市志筑1497-1 工場敷地 26,567㎡",
+    "url": "https://www.sanwa-q.co.jp/company/about.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "81人",
+    "url": "https://www.sanwa-q.co.jp/company/about.html",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "年商 9億8900万円（2022年度 税別）",
+    "url": "https://www.sanwa-q.co.jp/company/about.html",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "住友電工焼結合金株式会社 住友電気工業株式会社　アドバンストマテリアル研究所 住友電気工業株式会社　大阪製作所 日本製鉄株式会社 三菱電機株式会社　伊丹製作所 三菱電機株式会社　先端技術総合研究所 三菱電機株式会社　系統変電システム製作所 三菱電機株式会社　電子通信システム製作所 三菱電機株式会社　産業メカトロニクス製作所 三菱電機トレーディング株式会社　伊丹事業所 日本精工株式会社 多田電機株式会社 川崎重工業株式会社 三ツ星ベルト株式会社 シンフォニアテクノロジー株式会社",
+    "url": "https://www.sanwa-q.co.jp/company/about.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "職種/業務内容",
+    "value": "1.工作機械オペレーター（経験者、未経験者どちらもOK） ◆工作機械を使用して金属部品製作を行っていただきます",
+    "url": "https://www.sanwa-q.co.jp/recruit/index.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "一点物・少量多品種": [
+   {
+    "quote": "精密部品加工・精密金属加工の三和製作所｜試作・小ロットに対応",
+    "url": "https://www.sanwa-q.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "日々新しい内容の小ロットの加工品を作って行くのは設備以上に人の存在が鍵となります",
+    "url": "https://www.sanwa-q.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "短納期高品質の試作品の提供を通じて、日本の製造業の研究開発に貢献します",
+    "url": "https://www.sanwa-q.co.jp/company/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "新幹線や在来線の電動機や駆動装置、制御器等の試作開発部品～量産品の供給をしております",
+    "url": "https://www.sanwa-q.co.jp/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "鋳物素材で複雑形状の加工の経験、実績が多くあり、試作～繰り返し品（量産前）の段階で先の量産を見据えた加工分析～コスト改善提案もさせて頂きます",
+    "url": "https://www.sanwa-q.co.jp/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "3 : 自動車向け試作開発部品",
+    "url": "https://www.sanwa-q.co.jp/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "これまで20年以上に渡って自動車試作開発段階における金属部品加工の実績を積み重ねてきました",
+    "url": "https://www.sanwa-q.co.jp/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "独自のノウハウを活かし、試作から量産までお客様のご要望にお答えしてきた豊富な加工実績がございます",
+    "url": "https://www.sanwa-q.co.jp/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "三和製作所では、角モノから丸モノ、ギア形状、その他三次元複雑形状等様々な形状製品を製作し、試作等の小ロット短納期や計画量産等、お客様の案件の背景も踏まえて生産工程を設計いたします",
+    "url": "https://www.sanwa-q.co.jp/facilities/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "量産化へ：医療機器、航空・宇宙、自動車部品等、多岐にわたる分野で試作から量産、両面のニーズに応える精度と自動化機能を兼ね備えています",
+    "url": "https://www.sanwa-q.co.jp/facilities/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "少量で高いレベルの実力を必要とされる仕事において、良い品物を、競争力のある価格で、お客様が要求する納期に応えながら作っていくのが我々の仕事です",
+    "url": "https://www.sanwa-q.co.jp/recruit/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "高度な技術を要する製品、小ロットをご希望の場合などまずはお気軽にご相談ください",
+    "url": "https://www.sanwa-q.co.jp/works/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "高度な技術を要する製品、小ロットをご希望の場合などまずはお気軽にご相談ください",
+    "url": "https://www.sanwa-q.co.jp/works/",
+    "pass": 1
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "製品製造、工程検討",
+    "url": "https://www.sanwa-q.co.jp/company/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "鉄道、最先端ロボット製品、自動車、航空など幅広い業種に対応 | 三和製作所の業種別事業紹介",
+    "url": "https://www.sanwa-q.co.jp/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "1 : 鉄道向け研究開発製品その他",
+    "url": "https://www.sanwa-q.co.jp/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2: 最先端ロボット製品",
+    "url": "https://www.sanwa-q.co.jp/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "4: 航空・宇宙・通信機器製品 その他研究開発品",
+    "url": "https://www.sanwa-q.co.jp/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の開発している製品を、要求される品質でスピーディに供給する事が可能です",
+    "url": "https://www.sanwa-q.co.jp/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2016年11月には新工場も稼動を開始し、より高品質な製品をご提供するため、日々環境整備に力を入れています",
+    "url": "https://www.sanwa-q.co.jp/company/factory.html",
+    "pass": 1
+   },
+   {
+    "quote": "ナノ単位の精度を測定する為の三次元測定機等が配置され、加工が終了した製品はここで検査し、品質を保証してお客様へ出荷されます",
+    "url": "https://www.sanwa-q.co.jp/company/factory.html",
+    "pass": 1
+   },
+   {
+    "quote": "三和製作所では、角モノから丸モノ、ギア形状、その他三次元複雑形状等様々な形状製品を製作し、試作等の小ロット短納期や計画量産等、お客様の案件の背景も踏まえて生産工程を設計いたします",
+    "url": "https://www.sanwa-q.co.jp/facilities/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "製造技能職（工作機械オペレーター）：工作機械を使用した製品の加工",
+    "url": "https://www.sanwa-q.co.jp/recruit/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "高度な技術を要する製品、小ロットをご希望の場合などまずはお気軽にご相談ください",
+    "url": "https://www.sanwa-q.co.jp/works/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様が望む様々な形状の製品に対応できるよう多彩な工作機械・CADCAMソフトはもちろん、出来上がった製品の品質を保証するための各測定機器を数多く揃えています",
+    "url": "https://www.sanwa-q.co.jp/works/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "受注から出荷までを一連管理できるシステムを使用しおり、全ての製品の納期管理を徹底しております",
+    "url": "https://www.sanwa-q.co.jp/works/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "複数面の加工が必要な製品については、割り出し5軸加工機で加工を行います",
+    "url": "https://www.sanwa-q.co.jp/works/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "作成されたプログラムはシミュレーションソフトで検証し、製品形状や機械干渉に問題が無いか確認を行います",
+    "url": "https://www.sanwa-q.co.jp/works/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、社内にて治具の設計から製作までを行うため、短期間の製品立ち上げが可能となります",
+    "url": "https://www.sanwa-q.co.jp/works/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "高度な技術を要する製品、小ロットをご希望の場合などまずはお気軽にご相談ください",
+    "url": "https://www.sanwa-q.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様が望む様々な形状の製品に対応できるよう多彩な工作機械・CADCAMソフトはもちろん、出来上がった製品の品質を保証するための各測定機器を数多く揃えています",
+    "url": "https://www.sanwa-q.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "受注から出荷までを一連管理できるシステムを使用しおり、全ての製品の納期管理を徹底しております",
+    "url": "https://www.sanwa-q.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "複数面の加工が必要な製品については、割り出し5軸加工機で加工を行います",
+    "url": "https://www.sanwa-q.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "作成されたプログラムはシミュレーションソフトで検証し、製品形状や機械干渉に問題が無いか確認を行います",
+    "url": "https://www.sanwa-q.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "また、社内にて治具の設計から製作までを行うため、短期間の製品立ち上げが可能となります",
+    "url": "https://www.sanwa-q.co.jp/works/",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "鉄道、最先端ロボット製品、自動車、航空など幅広い業種に対応 | 三和製作所の業種別事業紹介",
+    "url": "https://www.sanwa-q.co.jp/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "2: 最先端ロボット製品",
+    "url": "https://www.sanwa-q.co.jp/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "産業用ロボット（腕、手首回転・旋回部分品）",
+    "url": "https://www.sanwa-q.co.jp/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療用ロボット（操縦部、アーム部関節部品）",
+    "url": "https://www.sanwa-q.co.jp/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "3 : 自動車向け試作開発部品",
+    "url": "https://www.sanwa-q.co.jp/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "これまで20年以上に渡って自動車試作開発段階における金属部品加工の実績を積み重ねてきました",
+    "url": "https://www.sanwa-q.co.jp/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "現在はEV車等、次世代の新しい自動車に搭載されるﾓﾃﾞﾙ部品を製作しています",
+    "url": "https://www.sanwa-q.co.jp/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "トランスミッション部品（ヘリカルギア、ハブ、スリーブ、スプロケット部品等）",
+    "url": "https://www.sanwa-q.co.jp/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "4: 航空・宇宙・通信機器製品 その他研究開発品",
+    "url": "https://www.sanwa-q.co.jp/business/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "以後、精密機器・自動車・船・鉄道関係の仕事を比重を増やす",
+    "url": "https://www.sanwa-q.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "第一工場では鉄道部品や電子部品、ロボット部品等の加工を行います",
+    "url": "https://www.sanwa-q.co.jp/company/factory.html",
+    "pass": 1
+   },
+   {
+    "quote": "量産化へ：医療機器、航空・宇宙、自動車部品等、多岐にわたる分野で試作から量産、両面のニーズに応える精度と自動化機能を兼ね備えています",
+    "url": "https://www.sanwa-q.co.jp/facilities/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "鉄道や自動車、エネルギー産業等日本の基盤となる産業で使用される機械部品を製造するのが三和製作所です",
+    "url": "https://www.sanwa-q.co.jp/recruit/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "現在においては自動車や鉄道関連の様々な部品の豊富な加工実績があり、他にも医療関連部品やロボット部品、エネルギー産業部品等、幅広い事業分野の設備部品の加工も手掛けています",
+    "url": "https://www.sanwa-q.co.jp/works/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、社内にて治具の設計から製作までを行うため、短期間の製品立ち上げが可能となります",
+    "url": "https://www.sanwa-q.co.jp/works/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "現在においては自動車や鉄道関連の様々な部品の豊富な加工実績があり、他にも医療関連部品やロボット部品、エネルギー産業部品等、幅広い事業分野の設備部品の加工も手掛けています",
+    "url": "https://www.sanwa-q.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "また、社内にて治具の設計から製作までを行うため、短期間の製品立ち上げが可能となります",
+    "url": "https://www.sanwa-q.co.jp/works/",
+    "pass": 1
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "インペラ、ブリスク、タービンブレード、チューブ、ブローモールドなど、複雑形状に特化した5軸CAM",
+    "url": "https://www.sanwa-q.co.jp/facilities/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "生産技術職(CADCAMオペレーター)、製造技能職(工作機械オペレーター)",
+    "url": "https://www.sanwa-q.co.jp/recruit/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "生産技術職（CADCAMオペレーター）：CADCAMソフトを使用した加工プログラム作成等",
+    "url": "https://www.sanwa-q.co.jp/recruit/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様が望む様々な形状の製品に対応できるよう多彩な工作機械・CADCAMソフトはもちろん、出来上がった製品の品質を保証するための各測定機器を数多く揃えています",
+    "url": "https://www.sanwa-q.co.jp/works/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "ギアの加工には本来専用工具（専用カッター）を使いますが、専用工具は高価で製作にも時間が掛かるため、弊社では専用工具を使わずに機械とCADCAM機能を駆使し、エンドミルによる削り出しで製作します",
+    "url": "https://www.sanwa-q.co.jp/works/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "三和製作所では同時５軸加工において高く評価されているCAD・CAMソフト「hyperMILL」を導入し、万全の体制で同時５軸加工に取り組んでおります",
+    "url": "https://www.sanwa-q.co.jp/works/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "加工に適したCADCAMソフトを駆使し、",
+    "url": "https://www.sanwa-q.co.jp/works/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様が望む様々な形状の製品に対応できるよう多彩な工作機械・CADCAMソフトはもちろん、出来上がった製品の品質を保証するための各測定機器を数多く揃えています",
+    "url": "https://www.sanwa-q.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "ギアの加工には本来専用工具（専用カッター）を使いますが、専用工具は高価で製作にも時間が掛かるため、弊社では専用工具を使わずに機械とCADCAM機能を駆使し、エンドミルによる削り出しで製作します",
+    "url": "https://www.sanwa-q.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "三和製作所では同時５軸加工において高く評価されているCAD・CAMソフト「hyperMILL」を導入し、万全の体制で同時５軸加工に取り組んでおります",
+    "url": "https://www.sanwa-q.co.jp/works/",
+    "pass": 1
+   },
+   {
+    "quote": "加工に適したCADCAMソフトを駆使し、",
+    "url": "https://www.sanwa-q.co.jp/works/",
+    "pass": 1
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "SS、炭素鋼、ステンレス、アルミ、銅、チタン、鋳物、ロストワックス、ダイキャスト等",
+    "url": "https://www.sanwa-q.co.jp/works/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "SS、炭素鋼、ステンレス、アルミ、銅、チタン、鋳物、ロストワックス、ダイキャスト等",
+    "url": "https://www.sanwa-q.co.jp/works/",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sanwa-q.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwa-q.co.jp/company/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwa-q.co.jp/company/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwa-q.co.jp/business/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwa-q.co.jp/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwa-q.co.jp/company/factory.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwa-q.co.jp/facilities/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwa-q.co.jp/recruit/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwa-q.co.jp/works/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwa-q.co.jp/news/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwa-q.co.jp/works/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.sanwa-q.co.jp/images/contents/about_page_title01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sanwa-q.co.jp/images/contents/production_gear_title01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sanwa-q.co.jp/images/contents/production_gear_title02.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sanwa-q.co.jp/images/contents/production_gear_title03.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sanwa-q.co.jp/images/contents/production_gear_title04.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sanwa-q.co.jp/images/contents/production_gear_title05.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sanwa-q.co.jp/images/contents/production_gear_title06.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sanwa-q.co.jp/images/contents/production_gear_title07.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sanwa-q.co.jp/images/contents/production_gear_title08.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sanwa-q.co.jp/images/contents/production_modal_image02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sanwa-q.co.jp/images/contents/production_modal_image03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sanwa-q.co.jp/images/contents/production_modal_image04.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "http://www.sanwa-sss.com/company02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sanwa-seisakusho.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwa303.co.jp/company/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sanwa-s.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kk-sanwass.co.jp/contact/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwa-hldgs.co.jp/contact/form/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sanwa-ss.co.jp/info/001363.html",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "三和製作所 本社 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.sanwa-q.co.jp/",
+    "http://www.sanwa-sss.com/company02.html",
+    "https://sanwa-seisakusho.co.jp/",
+    "https://www.sanwa303.co.jp/",
+    "https://sanwaseisakusho.com/business/",
+    "https://smepprd-kansai-meti-gov.note.jp/n/na46e8e98918f",
+    "https://www.tnksanwa.co.jp/media/detail.html?id=3348",
+    "https://kuki-vip.jp/shop/sanwa-s-appeal/",
+    "https://www.kk-sanwass.co.jp/corporate/outline.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "三和製作所 本社 会社概要 事業内容",
+   "results": [
+    "https://www.sanwa303.co.jp/company/overview/",
+    "https://www.sanwa-q.co.jp/company/about.html",
+    "https://sanwa-s.jp/company/",
+    "https://tenshoku.mynavi.jp/company/428717/",
+    "https://www.sanwa-ss.co.jp/company/outline/",
+    "https://job.career-tasu.jp/corp/00122733/detail-uc/",
+    "https://www.kk-sanwass.co.jp/corporate/outline.html",
+    "https://metoree.com/companies/46525/",
+    "https://www.sanwa303.co.jp/",
+    "https://www.sanwa303.co.jp/company/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "三和製作所 本社 お問い合わせ メール",
+   "results": [
+    "https://www.kk-sanwass.co.jp/contact/index.html",
+    "https://www.sanwa-hldgs.co.jp/contact/form/",
+    "https://www.sanwa-ss.co.jp/info/001363.html",
+    "https://www.sanwa-material.co.jp/contact.html",
+    "https://www.sanwa303.co.jp/contact/",
+    "https://www.sanwa-q.co.jp/contact/",
+    "https://www.sanwa-trp.com/contactus/",
+    "https://www.sanwa-denshi.co.jp/contact.html",
+    "https://www.shop.sanwa-inc.jp/contact",
+    "http://sanwa-s.jp/contact/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com 三和製作所 本社",
+   "results": [
+    "https://note.com/bostoncareer/n/na676cec8873e",
+    "https://note.com/sorabito_2014/n/n8d1e43046e6a",
+    "https://note.com/cajs_official/n/n2ef62f0d09e6",
+    "https://note.com/sanwa_bussan/n/nab1ace247f86",
+    "https://note.com/harmo_inc/n/nf41e47e5bd27",
+    "https://note.com/kyushu_vinegar/n/n04920f59f7b4",
+    "https://note.com/diggle/n/n407269e20b11",
+    "https://note.com/sanwa_bussan",
+    "https://note.com/kyushu_vinegar/n/na2d094b4e9e2",
+    "https://note.com/sanwa_seimitsu/n/nef9081da77a9"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com 三和製作所 本社",
+   "results": [
+    "https://x.com/sanwa_meter",
+    "https://x.com/com_hq_jp/status/1251131667122499584",
+    "https://x.com/sanwainfo",
+    "https://x.com/sanwa_sanki",
+    "https://x.com/sanwabyora/status/2042414694745747739",
+    "https://x.com/sanwainfo/status/2105855756348334139",
+    "https://x.com/Torisanwa_1900/status/2092056235218727104",
+    "https://x.com/sanwa_neji",
+    "https://x.com/km_machida/status/1791776887691501785",
+    "https://x.com/km_machida/status/1971166047551254805"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com 三和製作所 本社",
+   "results": [
+    "https://jp.linkedin.com/company/sanwa-technologies-inc",
+    "https://jp.linkedin.com/company/sanwa-kagaku-kenkyusho-co-ltd",
+    "https://jp.linkedin.com/company/%E4%B8%89%E5%92%8C%E3%83%95%E3%82%A1%E3%82%B5%E3%83%BC%E3%83%89%E3%83%BB%E3%83%A9%E3%83%9C%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE",
+    "https://jp.linkedin.com/company/sanwakeiki",
+    "https://jp.linkedin.com/company/tnksanwa",
+    "https://jp.linkedin.com/company/sanwakenma",
+    "https://jp.linkedin.com/company/sanwa-screen-m-sdn-bhd",
+    "https://jp.linkedin.com/company/sanwajapan",
+    "https://jp.linkedin.com/company/%E4%B8%89%E5%92%8C%E3%83%8F%E3%82%A4%E3%83%89%E3%83%AD%E3%83%86%E3%83%83%E3%82%AF%EF%BC%88%E6%A0%AA%EF%BC%89",
+    "https://jp.linkedin.com/company/（株）三和製作所"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com 三和製作所 本社",
+   "results": [
+    "https://www.facebook.com/100057539706281?locale=ar_AR",
+    "https://www.facebook.com/100057539706281?locale=az_AZ",
+    "https://www.facebook.com/sapisanwa/?locale=ja_JP",
+    "https://www.facebook.com/sanwa.comp/posts/%E9%96%A2%E8%A5%BF%E6%94%AF%E5%BA%97%E7%B4%B9%E4%BB%8B%E9%96%A2%E8%A5%BF%E6%94%AF%E5%BA%97%E9%95%B7-%E3%81%AA%E3%81%8B%E3%81%AF%E3%81%9F%E3%81%A7%E3%81%99%E9%96%A2%E8%A5%BF%E6%94%AF%E5%BA%97%E3%81%AF%EF%BC%92%E5%B9%B4%E5%89%8D%E3%81%AB%E7%A7%BB%E8%BB%A2%E3%81%97%E3%81%9F%E6%96%B0%E3%81%97%E3%81%84%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B9%E3%81%A7%E3%81%99%E5%A0%B4%E6%89%80%E3%81%AF%E5%A4%A7%E9%98%AA%E3%81%AE%E7%B9%81%E8%8F%AF%E8%A1%97%E5%BF%83%E6%96%8E%E6%A9%8B%E9%A7%85%E3%81%AE%E5%95%86%E5%BA%97%E8%A1%97%E3%81%99%E3%81%90%E6%A8%AA%E3%81%AA%E3%81%AE%E3%81%A7%E7%A7%BB%E5%8B%95%E3%82%84%E9%A3%9F%E4%BA%8B%E5%87%A6%E3%81%AB%E3%81%AF%E5%9B%B0%E3%82%8A%E3%81%BE%E3%81%9B%E3%82%93%CF%89%E9%96%A2%E8%A5%BF%E6%94%AF/631071890646860/",
+    "https://www.facebook.com/p/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E4%B8%89%E5%92%8C%E6%AD%AF%E8%BB%8A-100032983106175/",
+    "https://www.facebook.com/sanwa.comp/posts/2024%E5%B9%B4%E5%BA%A6-%E5%85%A5%E7%A4%BE%E5%BC%8F%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97%E3%81%AE%E3%81%84%E3%81%84%E3%81%AE%E3%81%A7%E3%81%99%E5%BC%8A%E7%A4%BE%E3%81%A7%E3%81%AF41%E3%81%AB2024%E5%B9%B4%E5%BA%A6%E5%85%A5%E7%A4%BE%E5%BC%8F%E3%81%8C%E8%A1%8C%E3%82%8F%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E4%BB%8A%E5%B9%B4%E5%BA%A6%E3%81%AF%E6%9C%AC%E7%A4%BE%E3%82%92%E9%A3%9B%E3%81%B3%E5%87%BA%E3%81%97%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E5%93%81%E5%B7%9D/918283943635980/",
+    "https://www.facebook.com/100057539706281?locale=et_EE",
+    "https://www.facebook.com/100057539706281?locale=fa_IR",
+    "https://www.facebook.com/100057539706281?locale=pt_BR",
+    "https://www.facebook.com/株式会社-三和製作所-810929338933124/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "三和製作所 本社 note 社長",
+   "results": [
+    "https://note.com/sorabito_2014/n/n8d1e43046e6a",
+    "https://www.sanwa303.co.jp/recruit/vision.html",
+    "https://smepprd-kansai-meti-gov.note.jp/n/na46e8e98918f",
+    "https://note.com/sanwa_seimitsu/n/nef9081da77a9",
+    "https://www.sanwa-bussan.co.jp/recruit/company/",
+    "https://www.sanwa-q.co.jp/company/about.html",
+    "https://note.com/bostoncareer/n/na676cec8873e",
+    "https://www.sanwa-shurui.co.jp/kojinote/by-sanwa-shurui/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.kk-sanwass.co.jp/corporate/outline.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "三和製作所 本社 X 投稿",
+   "results": [
+    "https://x.com/sanwainfo",
+    "https://www.sanwa303.co.jp/",
+    "https://www.3wa-corp.jp/",
+    "https://www.sanwa-3355.co.jp/",
+    "https://sanwa-s.jp/company/",
+    "https://sanwaseisakusho.com/",
+    "https://www.sanwa-q.co.jp/company/about.html",
+    "https://www.sanwa.co.jp/",
+    "https://www.sanwa-bits.com/",
+    "https://x.com/hashtag/三和製作所"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "代表者": "記載なし（3回確認済み：公式11頁／PDF・画像12件／外部7頁・検索9回）",
+  "連絡先": "記載なし（3回確認済み：公式11頁／PDF・画像12件／外部7頁・検索9回）"
+ }
+}

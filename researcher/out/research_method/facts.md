@@ -10562,6 +10562,12 @@
   - 「[PDF] TRIANGULATION IN SOCIAL WORK RESEARCH: THE THEORY ...」（https://grokipedia.com/page/Triangulation_(social_science)）
   - 「[PDF] ACADEMIA Letters Triangulation in Research - ComplexDiscovery」（https://grokipedia.com/page/Triangulation_(social_science)）
 - 失敗・落とし穴：
+  - 「この記事では、トライアンギュレーションの意味、デンジンによる4つの種類、目的、具体例、混合研究法との関係、注意点までを、研究法の標準的な文献にもとづいて整理します」（https://scholarcompass.net/columns/184）
+  - 「ただし注意点として、「トライアンギュレーション」という言葉は、デンジンが提唱した」（https://scholarcompass.net/columns/184）
+  - 「トライアンギュレーションのメリットと注意点」（https://scholarcompass.net/columns/184）
+  - 「それぞれの方法が同じ弱点（バイアス）を共有していれば、いくつ重ねても偏りは補正されません」（https://scholarcompass.net/columns/184）
+  - 「：方法を増やすこと自体が目的化しないよう注意が必要です」（https://scholarcompass.net/columns/184）
+  - 「食い違いは失敗ではなく、重要な手がかりです」（https://scholarcompass.net/columns/184）
   - 「research, triangulation is a methodological strategy that involves the deliberate combination of multiple data sources, methods, investigators, or theoretical perspectives to examine the same phenomenon, thereby enhancing the validity, reliability, and comprehensiveness of findings by cross-verifying information and mitigating potential biases.」（https://grokipedia.com/page/Triangulation_(social_science)）
   - 「Unlike single-method studies, which may be constrained by inherent biases, limitations in scope, or contextual insensitivity, triangulation emphasizes the convergence or complementarity of」（https://grokipedia.com/page/Triangulation_(social_science)）
   - 「began developing multiple validation techniques to mitigate biases in observational data, laying preliminary groundwork that was formalized in 1959 when Campbell and Donald W. Fiske introduced the」（https://grokipedia.com/page/Triangulation_(social_science)）
@@ -10571,29 +10577,24 @@
   - 「Investigator triangulation refers to the strategy of employing two or more researchers with diverse backgrounds to engage in the collection, analysis, or interpretation of data within a single study, aiming to mitigate the influence of individual researcher biases and enrich the overall understanding of the」（https://grokipedia.com/page/Triangulation_(social_science)）
   - 「By applying these contrasting theories, researchers can uncover diverse interpretations of the same empirical observations, reducing the risk of theoretical bias and enriching the analytical depth.」（https://grokipedia.com/page/Triangulation_(social_science)）
   - 「biases and illuminate essential phenomena.」（https://grokipedia.com/page/Triangulation_(social_science)）
-  - 「In social contexts marked by power dynamics or interpretive variability, treating disparate tools as interchangeable can propagate biases from the dominant method, eroding the presumed balance.」（https://grokipedia.com/page/Triangulation_(social_science)）
-  - 「This pitfall challenges the foundational logic of」（https://grokipedia.com/page/Triangulation_(social_science)）
-  - 「This convergent bias risks entrenching dominant theoretical frameworks, where non-conforming data is sidelined rather than interrogated for deeper understanding.」（https://grokipedia.com/page/Triangulation_(social_science)）
-  - 「数字を鵜呑みにするのではなく、複数手法によって導き出された「評価レンジ」をベースに、以下の要素を統合的な視点で評価する必要があります」（https://note.com/whence278663/n/nd0398e441b32）
-  - 「異なる視点を明示し、結果の解釈に注意を払うことです」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
-  - 「データの質や研究者のバイアスが結果に影響を与える可能性があります」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
 - 実例：
+  - 「アンラーニング（学習棄却）の全体像 ～きっかけ・阻害要因・結果としての影響～」（https://www.courage-sapuri.jp/backnumber/10411/）
+  - 「ただし「複数使えば必ず正しくなる」わけではなく、結果が食い違ったときの解釈こそが重要とされます」（https://scholarcompass.net/columns/184）
+  - 「例えば看護研究で褥瘡（じょくそう）ケアの効果を調べる場合、異なる患者グループ（高齢者・術後患者・長期臥床患者）、異なる時間帯（朝・昼・夜のケア後）、異なる病棟（内科・外科・集中治療室）からデータを集める、といった形が挙げられます」（https://scholarcompass.net/columns/184）
+  - 「例えば、構造化された質問紙で得た知見の妥当性を、非構造化面接で確かめる、といった使い方です」（https://scholarcompass.net/columns/184）
+  - 「重要なのは、トライアンギュレーションは必ずしも「結果を一致させて裏づける」ためだけの手法ではない、という点です」（https://scholarcompass.net/columns/184）
+  - 「結果が食い違ったときに、その矛盾を手がかりに理解を深めることも、トライアンギュレーションの大切な役割とされます」（https://scholarcompass.net/columns/184）
+  - 「また、質的データと量的データのように性質の異なる結果をどう統合するかは、それ自体が難しい課題です」（https://scholarcompass.net/columns/184）
+  - 「結果が一致しなかったときに、どちらかを切り捨てるのではなく、なぜ食い違ったのかを考察することが、トライアンギュレーションの本質だとされます」（https://scholarcompass.net/columns/184）
+  - 「：結果が食い違ったときの矛盾こそ、理解を深める手がかりになります」（https://scholarcompass.net/columns/184）
+  - 「Q4. 結果が食い違ったらどうすればいいですか？」（https://scholarcompass.net/columns/184）
   - 「評価結果を一通りまとめたものの、そこから何を考察すればよいのか迷うことが多い人」（https://note.com/hito_lab_pt/n/n4ecd82858019）
   - 「類似する上場企業や過去の取引事例を基準とする評価です」（https://note.com/whence278663/n/nd0398e441b32）
   - 「例えば、コストアプローチの評価額よりもインカムアプローチの評価額が圧倒的に高い場合、その企業は「目に見える資産以上の強力なブランド力や無形資産（将来の稼ぐ力）を持っている」と読み取れます」（https://note.com/whence278663/n/nd0398e441b32）
   - 「評価結果の差額は、その企業が持つ独自の強み（超過収益力など）や、潜在的なリスク（事業計画の非現実性など）を如実に表しています」（https://note.com/whence278663/n/nd0398e441b32）
   - 「財務・事業デューデリジェンス（実態調査）の結果」（https://note.com/whence278663/n/nd0398e441b32）
-  - 「これらすべての要素をバリュエーションの結果と統合して初めて、実行可能で、かつステークホルダーに対して納得性のあるM&A価格（投資価格）を形成することができるのですね」（https://note.com/whence278663/n/nd0398e441b32）
-  - 「異なる視点を明示し、結果の解釈に注意を払うことです」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
-  - 「データの質や研究者のバイアスが結果に影響を与える可能性があります」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
-  - 「三角測量法の研究結果を発表する際のポイントは？」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
-  - 「信頼性は、研究結果が一貫して再現可能であることを指します」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
-  - 「利点は、研究結果の信頼性を高め、偏りを減少させることです」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
-  - 「三角測量法の結果をどのように活用しますか？」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
-  - 「理論は、研究の枠組みを提供し、結果の解釈を助けます」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
-  - 「三角測量法の結果をどのように解釈しますか？」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
-  - 「問題設定、データ収集、分析、結果の統合のステップを踏みます」（https://flashcards.world/flashcards/sets/cff5798b-2ea2-42db-9b3d-17d210fa0982/）
 - 検索結果の抜粋：
+  - 「決算“着地×来期計画”の三角測量——コンセンサス/ガイダンス/KPIを数式... — Sep 7, 2025 · 本稿では、企業の四半期決算を単なる「点」ではなく、過去から未来へと続く「線」として捉え、その傾きと勢いを正確に読み解くための実践的なフレームワークを提示します。」（https://note.com/tatsuya_sabato/n/n59e0b3bad3e6）
   - 「大規模言語モデル（LLM）時代のデザインリサーチにおけるトライアンギ...【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUD...企業価値評価（バリュエーション）を読み解く：投資・M&Aにおける「三...戦争の三角測量――クラウゼヴィッツ、ジョミニ、そして兵站｜堀口 英利...必須 No.1 法規・公共測量 ｜測量士 午後 記述式 解き方の型と過去5年...10-51. 原点/基準/アンカー/単位：18.伊能忠敬の測量手順 Copilotによ... — 1970年代の社会科学において、デンジンが「トライアンギュレーション」を提唱した背景には、定性調査において単一の手法だけでなく複数の手法を併用することで、研究の信頼性と妥当性を高める必要性があったからです。 人々の行動や思考などを測定することは困難であり、主観的な評価や質的な調査分析に頼る必要がありましたが、そ」（https://note.com/kasano/n/n5300393c2f30）
   - 「【モーションキャプチャ】計測原理と三角測量の話｜LOGIC＆MAGIC STUD... — Aug 28, 2023 · ★この記事で分かること★ モーションキャプチャの計測原理 三角測量の理論、算出方法 ★こんな人に読んでほしい★ 数学や物理がどのようなことにに役立っているのか知りたい方 ある程度の数学を習熟している学生の方 ★読み終わるまでの目安時間★ 10 ...」（https://note.com/logic_magic/n/nf5651ba8baea）
   - 「戦争の三角測量――クラウゼヴィッツ、ジョミニ、そして兵站｜堀口 英利... — このシリーズは、は、二人の同時代人を突き合わせて読む全12回の連載です。 クラウゼヴィッツは、戦争を計画どおりに進ませない要素、すなわち摩擦、偶然、敵の反応を扱いました。」（https://note.com/hidetoshi_h_/m/m40eef6dece29）
@@ -10608,7 +10609,6 @@
   - 「3-2. 4つの道具を役割分担する｜三角測量の実践 | CMO1号 — Aug 1, 2026 · アトリビューション分析の数字をなんとなく信頼しきれていない——その感覚は正しいです。 MMM・アトリビューション・実験・調査、4つの道具を強みと弱みで使い分ける「三角測量」の考え方と、短期P/L・長期B/Sの時間軸を整理します。」（https://1st-cmo.one/essays/measurement-triangulation）
   - 「研究における三角測量とは？信頼できる調査結果への道 — Oct 8, 2023 · これと同様に、研究における三角測量は、対象を様々な視点から検証することで、収束的かつ徹底的な理解を生み出すことを目的としている。 研究者は、三角測量を用いることで、単一の方法やデータソースに存在する欠点や偏りを減らそうとする。」（https://mindthegraph.com/blog/ja/研究における三角測量とは何か？/）
   - 「トライアンギュレーション（データの三角測量） - Engineering Skills — Feb 19, 2020 · 社会科学の分野において、トライアンギュレーション (triangulation)という言葉があります。 日本語訳は、「三角測量」です。 測量方法を表す言葉ですが、データソースや検証方法を複数化（複眼化）し、研究の妥当性を高める方法として考案されました。」（https://oceanone.hatenablog.com/entry/2020/02/19/234241）
-  - 「4． 三角測量（基線測量・角測量） - 広島大学 — 1. 目的 基準点の位置を正確に知るための三角測量を体験する.工学部東側において,図 1 のような三角網を設置する.各班で 1 つの辺の基線長(Pn~Qn)と,2 つの頂点(Pn,Qn)に関わる全ての内角を計測する.」（https://home.hiroshima-u.ac.jp/sakuno/Jugyo/sokuryo/sankaku6-7.pdf）
 
 ## 市場規模推計の実務でトップダウンとボトムアップを照合し仮置きを分ける note の書き手（ヘンザップ梅山など）（market sizing top-down bottom-up reconcile assumptions table）
 - 文脈：推定
@@ -14346,19 +14346,23 @@
 
 ## データの誤りの型の一覧（Quartz Bad Data Guide の日本語の解説・知りえない量・手で編集されたデータ・作り方の見えないデータ）（Quartz bad data guide problems in real-world data journalism）
 - 文脈：手法・報道
+- 手順・やり方：
+  - 「An exhaustive reference to problems seen in real-world data, along with suggestions on how to resolve them and who should be responsible.」（https://www.merlot.org/merlot/viewCompositeReview.htm?id=1377813）
 - 失敗・落とし穴：
   - 「Teaching and learning about common data pitfalls」（https://www.neura.market/ai-tools-directory/all/the-quartz-guide-to-bad-data）
+- 実例：
+  - 「Examples and discussion points in statistics or spreadsheet based programming classes – or more widely any discipline that uses data to reach conslusions. (eg: science, politics or journalism).」（https://www.merlot.org/merlot/viewCompositeReview.htm?id=1377813）
+  - 「The material could be used directly by researchers. As a teaching tool it could be used to provide examples or initiate discussion in statistics, programming or more broadly science or journalism classes. It can also be used by students to write up a critique of any literature that uses statistics to back pu their point.」（https://www.merlot.org/merlot/viewCompositeReview.htm?id=1377813）
 - 検索結果の抜粋：
   - 「GitHub - Quartz/bad-data-guide: An exhaustive reference to ...The Quartz Guide to Bad Data – Global Investigative ...The Quartz guide to bad dataNewsroom Guides | Data Journalism ResourcesQuartz/bad-data-guide | GitHubAtlasRecognize Bad Data | Hands-On Data Visualization — An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them. As a reporter your 」（https://github.com/Quartz/bad-data-guide）
   - 「The Quartz guide to bad dataNewsroom Guides | Data Journalism ResourcesQuartz/bad-data-guide | GitHubAtlasRecognize Bad Data | Hands-On Data Visualization — Jul 21, 2022 · The Quartz guide to bad data This guide was written to help Quartz staff identify problems with data they report on. After publishing it on GitHub, we heard from folks in many other industries who ... The Quartz Guide to Bad Dat」（https://qz.com/572338/the-quartz-guide-to-bad-data）
-- 手順・やり方：記載なし（読んだ18頁・検索12回）
-- 突き合わせ・推定：記載なし（読んだ18頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ18頁・検索12回）
-- 実例：記載なし（読んだ18頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ17頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ17頁・検索12回）
 
 ## 取引先の与信管理で決算書を実態修正して読む手順（公認会計士の解説・純資産の実態修正・格付け・上限の複数の式）（credit risk assessment adjusting book net assets private company financial statements）
 - 文脈：手法・企業調査
 - 手順・やり方：
+  - 「地番から土地などの場所を探す方法-相続税コラム-」（https://dma-office.jp/2019/09/04/yuushi-jittai/）
   - 「相続税の申告に必要な財産の把握方法｜土地・家屋と預金について」（https://dma-office.jp/2019/09/04/yuushi-jittai/）
   - 「ミルシートとは？用途・発行方法・記載内容を徹底解説」（https://www.daiwast.co.jp/blog/how-to-read-financial-statements）
   - 「不要な単管パイプの処理方法とは？４つの選択肢のご紹介」（https://www.daiwast.co.jp/blog/how-to-read-financial-statements）
@@ -14373,7 +14377,6 @@
   - 「ステップ1：新規取引前の信用調査」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
   - 「調査方法は自社調査・信用調査会社への依頼・インターネット公開情報の収集の3通りです」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
   - 「ステップ2：評価と格付け」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
-  - 「ステップ3：与信限度額の設定」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
 - 突き合わせ・推定：
   - 「白サビの効果的な落とし方！サビ取り消しゴムとクリーナーの検証」（https://www.daiwast.co.jp/blog/how-to-read-financial-statements）
   - 「知らないと損をする"サイクル試験"の実力とは？！その目的と鋼管の信頼性を検証する具体的な方法を詳しく解説」（https://www.daiwast.co.jp/blog/how-to-read-financial-statements）
@@ -14423,6 +14426,7 @@
   - 「それぞれ具体的な手順と注意点について解説します」（https://biz.moneyforward.com/accounting/basic/78596/）
   - 「それぞれ具体的な手法や取得できる情報、注意点などを解説します」（https://biz.moneyforward.com/accounting/basic/78596/）
 - 実例：
+  - 「内部不正による情報漏えいとは？手口・事例と企業が取るべき対策を解説」（https://catalog.monex.co.jp/article/?p=49812）
   - 「AWSペネトレーションテストは申請不要？事前承認なしで実施できる範囲と禁止行為・申請が必要なケースを解説」（https://catalog.monex.co.jp/article/?p=49812）
   - 「実務では、年間100社以上の中小企業支援を担当してきた経験上、売上規模5億円以下の企業は与信管理規程すら存在しないケースが過半数を占めます」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
   - 「調査結果を基に、取引先を5〜7段階で格付けします」（https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu）
@@ -14437,7 +14441,6 @@
   - 「契約書に個別の限度額を書き込まないケースが多いため、社内側で「与信管理台帳」に取引先ごとの限度額・格付け・見直し予定日・担当者を登録し、営業と経理が共通の台帳を参照できる状態にします」（https://catalog.monex.co.jp/article/?p=49812）
   - 「想定は「新規取引先A社（卸売業・自社純資産8,000万円）」で、月商法・純資産基準・売掛債権基準を組み合わせるケースです」（https://catalog.monex.co.jp/article/?p=49812）
   - 「取引先の業績が右肩上がりで、取引額の増加が事業拡大の反映であるケースです」（https://catalog.monex.co.jp/article/?p=49812）
-  - 「数年前に設定した限度額を放置しており、現状と乖離していたケースです」（https://catalog.monex.co.jp/article/?p=49812）
 
 ## 競合仮説分析の実証研究と改善（Dhami・Belton・Mandel の分析官の実験・基準率を捨てる問題・一貫した規則・Arg-ACH・ベイズ）（analysis of competing hypotheses empirical study base rates Dhami Mandel intelligence analysts）
 - 文脈：手法・情報分析
@@ -15520,6 +15523,11 @@
 ## 記者・アナリストの数字の点検の手引き（ポイントと%・基準の効果・小さい母数の増減率・1人あたり・平均と中央値・実質と名目・合計が合わない表・Poynter Math for Journalists・Journalist's Resource・4-118）（journalism numeracy guide percent change base effect per capita inflation adjustment errors）
 - 文脈：推定
 - 手順・やり方：
+  - 「WEBINAR: How to Edit Data Stories in the Age of AI?」（https://gijn.org/stories/4-tips-for-avoiding-math-errors-when-reporting/）
+  - 「step-by-step instructions」（https://gijn.org/stories/4-tips-for-avoiding-math-errors-when-reporting/）
+  - 「of Reuters led the session, “How to Approach Stats In Your Story.”」（https://gijn.org/stories/4-tips-for-avoiding-math-errors-when-reporting/）
+  - 「Interpreting Data: Tips to Make Sure You Know How to Read the Numbers」（https://gijn.org/stories/4-tips-for-avoiding-math-errors-when-reporting/）
+  - 「<li>Investigative Reporters and Editors (IRE) typically hosts workshops focusing on statistical literacy during its annual conferences. At IRE&rsquo;s annual data journalism conference in 2021, LaFleur and colleague <a href="https://twitter.com/JaimiDowdell">Jaimi Dowdell</a>&nbsp;of Reuters led the session, &ldquo;How to Approach Stats In Your Story.&rdquo;</li>」（https://gijn.org/stories/4-tips-for-avoiding-math-errors-when-reporting/）
   - 「<p>While you can do the math yourself with these <a href="https://www.mathsisfun.com/numbers/percentage-change.html">step-by-step instructions</a>, it’s easy to find a percentage change calculator online.</p>」（https://journalistsresource.org/home/percent-change-math-for-journalists/）
   - 「<li>Investigate Reporters and Editors typically hosts workshops focusing on statistical literacy during its annual conferences. At IRE's annual data journalism conference in 2021, LaFleur and colleague <a href="https://twitter.com/JaimiDowdell">Jaimi Dowdell</a> of Reuters led the session, “How to Approach Stats In Your Story.”</li>」（https://journalistsresource.org/home/percent-change-math-for-journalists/）
   - 「step-by-step instructions」（https://journalistsresource.org/home/percent-change-math-for-journalists/）
@@ -15528,15 +15536,18 @@
   - 「How to interrogate AI regulations」（https://journalistsresource.org/home/percent-change-math-for-journalists/）
   - 「How to make a donation to The Journalist’s Resource」（https://journalistsresource.org/home/percent-change-math-for-journalists/）
 - 失敗・落とし穴：
+  - 「2. Be extra cautious when comparing percentages, because this is where many people make mistakes.」（https://gijn.org/stories/4-tips-for-avoiding-math-errors-when-reporting/）
   - 「<h3><strong>2. Be extra cautious when comparing percentages because this is where many people make mistakes.</strong></h3>」（https://journalistsresource.org/home/percent-change-math-for-journalists/）
   - 「2. Be extra cautious when comparing percentages because this is where many people make mistakes.」（https://journalistsresource.org/home/percent-change-math-for-journalists/）
 - 実例：
+  - 「As an example, let’s say state legislators set aside $30 million to fund a new traffic safety program in 2021. This year, they budgeted $38 million.」（https://gijn.org/stories/4-tips-for-avoiding-math-errors-when-reporting/）
+  - 「When you add or subtract percentages — for example, when you subtract the percentage of children diagnosed with autism in 1981 from the percentage diagnosed in 2021 — describe the result using percentage points.」（https://gijn.org/stories/4-tips-for-avoiding-math-errors-when-reporting/）
   - 「<p>As an example, let’s say state legislators set aside $30 million to fund a new traffic safety program in 2021. This year, they budgeted $38 million.</p>」（https://journalistsresource.org/home/percent-change-math-for-journalists/）
   - 「<p>When you add or subtract percentages -- for example, when you subtract the percentage of children diagnosed with autism in 1981 from the percentage diagnosed in 2021 -- describe the result using percentage points.</p>」（https://journalistsresource.org/home/percent-change-math-for-journalists/）
   - 「As an example, let’s say state legislators set aside $30 million to fund a new traffic safety program in 2021. This year, they budgeted $38 million.」（https://journalistsresource.org/home/percent-change-math-for-journalists/）
   - 「When you add or subtract percentages — for example, when you subtract the percentage of children diagnosed with autism in 1981 from the percentage diagnosed in 2021 — describe the result using percentage points.」（https://journalistsresource.org/home/percent-change-math-for-journalists/）
-- 突き合わせ・推定：記載なし（読んだ30頁・検索12回）
-- 一次情報の探し方：記載なし（読んだ30頁・検索12回）
+- 突き合わせ・推定：記載なし（読んだ28頁・検索12回）
+- 一次情報の探し方：記載なし（読んだ28頁・検索12回）
 
 ## 数字の誤りの元の分類と訂正の調査（聞き違い・出どころの誤り・意図的な誇張・計算の誤り・他媒体の写し・Craig Silverman・Regret the Error・新聞の訂正の研究・4-118）（Craig Silverman Regret the Error numerical errors causes newspaper corrections study）
 - 文脈：推定

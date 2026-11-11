@@ -1,0 +1,1420 @@
+{
+ "name": "有限会社小林製作所",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T11:08:27.366251+00:00",
+ "official_url": "https://www.ksx.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "本社：〒322ｰ0006　栃木県鹿沼市富岡1016-9 東京営業所：〒153-0064　東京都目黒区下目黒2丁目8-12",
+    "url": "https://www.ksx.jp/company-2/",
+    "pass": 1
+   },
+   {
+    "label": "本社",
+    "value": "〒322ｰ0006 栃木県鹿沼市富岡1016-9",
+    "url": "https://www.ksx.jp/company-2/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "本社：〒322ｰ0006　栃木県鹿沼市富岡1016-9 東京営業所：〒153-0064　東京都目黒区下目黒2丁目8-12",
+    "url": "https://www.ksx.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "本社",
+    "value": "〒322ｰ0006 栃木県鹿沼市富岡1016-9",
+    "url": "https://www.ksx.jp/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "24名",
+    "url": "https://www.ksx.jp/company-2/",
+    "pass": 1
+   },
+   {
+    "label": "社員数",
+    "value": "24名",
+    "url": "https://www.ksx.jp/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "プレス金型と治工具の設計製作",
+    "url": "https://www.ksx.jp/company-2/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "プレス金型と治工具の設計製作",
+    "url": "https://www.ksx.jp/company/",
+    "pass": 1
+   }
+  ],
+  "拠点": [
+   {
+    "label": "東京営業所",
+    "value": "〒153-0064 東京都目黒区下目黒2丁目8-12",
+    "url": "https://www.ksx.jp/company-2/",
+    "pass": 1
+   },
+   {
+    "label": "東京営業所",
+    "value": "〒153-0064 東京都目黒区下目黒2丁目8-12",
+    "url": "https://www.ksx.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "製作加工、プロデュース製品例",
+    "url": "https://www.ksx.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "高品質と経済性を両立した製品でお客様のご要望にお応えいたします",
+    "url": "https://www.ksx.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "加工から組立までを一貫して行うことで、工程間の手間やコストを削減し、スムーズな製品提供を実現します",
+    "url": "https://www.ksx.jp/business_details-2/",
+    "pass": 1
+   },
+   {
+    "quote": "わたしたちはより良い製品づくりのために、工程管理はもちろんのこと、法令遵守に基づく環境整備、CS（顧客満足度）を高めるQCD（品質・価格・納期）改善活動を行っております",
+    "url": "https://www.ksx.jp/company-2/",
+    "pass": 1
+   },
+   {
+    "quote": "そして、丁寧で正確な製品づくりと熟練した測定技術者による安定した検査業務など、これらを日々、確実に続けていくことで初めて最良の製品づくりが可能になります",
+    "url": "https://www.ksx.jp/company-2/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のために、そしてお客様と共に、これからもより良い製品づくりに全力で取り組んでまいります",
+    "url": "https://www.ksx.jp/company-2/",
+    "pass": 1
+   },
+   {
+    "quote": "わたしたちはより良い製品づくりのために、工程管理はもちろんのこと、法令遵守に基づく環境整備、CS（顧客満足度）を高めるQCD（品質・価格・納期）改善活動を行っております",
+    "url": "https://www.ksx.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "そして、丁寧で正確な製品づくりと熟練した測定技術者による安定した検査業務など、これらを日々、確実に続けていくことで初めて最良の製品づくりが可能になります",
+    "url": "https://www.ksx.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のために、そしてお客様と共に、これからもより良い製品づくりに全力で取り組んでまいります",
+    "url": "https://www.ksx.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "製作した製品は、三次元測定機、非接触三次元測定機、マイクロスコープ、その他各種測定器を駆使し、より正確な検査を行い、高い水準の品質管理を行っております",
+    "url": "https://www.ksx.jp/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、単純な穴開け加工はもちろん、複雑な形状をした製品の切削加工を、3次元CAD/CAMを駆使してモデリングからNCプログラムの作成・3次元加工までを行っています",
+    "url": "https://www.ksx.jp/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "それによってできた製品がプレス加工製品となります",
+    "url": "https://www.ksx.jp/press/",
+    "pass": 1
+   },
+   {
+    "quote": "例を挙げると、パソコンの内部部品、自動車のボディ、お鍋などのキッチン用品、テレビやエアコンなどの電化製品の内部部品など、平らな板などが形になった部品がプレス製品で、日常生活の中でもよくみられます",
+    "url": "https://www.ksx.jp/press/",
+    "pass": 1
+   },
+   {
+    "quote": "サーボプレス機「AIDA ダイレクトサーボフォーマ NS1-2000D」を導入し、より高精度で複雑な形状の製品のご提供を実現しています",
+    "url": "https://www.ksx.jp/press/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社では、プレス金型を製作する技術を応用してベンダー（プレスブレーキ）用の金型を製作し、加工を行うことができるため、複雑な形状の製品であっても短納期で製作することが可能です",
+    "url": "https://www.ksx.jp/press/",
+    "pass": 1
+   },
+   {
+    "quote": "食器類や刃物などステンレス製品は私たちに身近なものですが、加工が非常に難しい素材でもあります",
+    "url": "https://www.ksx.jp/sus/",
+    "pass": 1
+   },
+   {
+    "quote": "製造技術のイノベーションが起こった結果、ステンレス製品が急速に普及しているというわけです",
+    "url": "https://www.ksx.jp/sus/",
+    "pass": 1
+   },
+   {
+    "quote": "強度が高いステンレス鋼は製品の耐久性を向上させます",
+    "url": "https://www.ksx.jp/sus/",
+    "pass": 1
+   },
+   {
+    "quote": "高い耐食性を持つステンレスを素材に使えば製品寿命が長くなります",
+    "url": "https://www.ksx.jp/sus/",
+    "pass": 1
+   },
+   {
+    "quote": "この性質は魔法瓶などの製品利用に役立つ一方で、切削加工ではマイナスに働きます",
+    "url": "https://www.ksx.jp/sus/",
+    "pass": 1
+   },
+   {
+    "quote": "ステンレスは加工しにくい金属ですが、それでも製品素材として選択するメリットがあります",
+    "url": "https://www.ksx.jp/sus/",
+    "pass": 1
+   },
+   {
+    "quote": "衝撃や圧力に負けず、傷にも強くてサビないので、ステンレス製品が簡単に壊れるようなことはありません",
+    "url": "https://www.ksx.jp/sus/",
+    "pass": 1
+   },
+   {
+    "quote": "洗濯機や食器洗浄機のような水を使う電化製品にステンレス部品が使われています",
+    "url": "https://www.ksx.jp/sus/",
+    "pass": 1
+   },
+   {
+    "quote": "そのほか低温または高温で使用する製品にも用いられます",
+    "url": "https://www.ksx.jp/sus/",
+    "pass": 1
+   },
+   {
+    "quote": "耐久性やメンテナンス性の良さから、ステンレス製品は各分野で幅広く利用されています",
+    "url": "https://www.ksx.jp/sus/",
+    "pass": 1
+   },
+   {
+    "quote": "鉄（7.9）や銅（8.9）の3分の1程度であるため、アルミを用いれば製品の軽量化に役立ちます",
+    "url": "https://www.ksx.jp/arumi/",
+    "pass": 1
+   },
+   {
+    "quote": "純度の高いアルミは製品強度を保てない場合が多いため、切削加工の主な材料はアルミ合金です",
+    "url": "https://www.ksx.jp/arumi/",
+    "pass": 1
+   },
+   {
+    "quote": "反射率の高いアルミ材質は表面の光沢が美しく、製品の見た目が映えます",
+    "url": "https://www.ksx.jp/arumi/",
+    "pass": 1
+   },
+   {
+    "quote": "軽くて丈夫な製品を作るならアルミ材質が最適です",
+    "url": "https://www.ksx.jp/arumi/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミは素材特性に優れるため、あらゆる製品や部品に使われています",
+    "url": "https://www.ksx.jp/arumi/",
+    "pass": 1
+   },
+   {
+    "quote": "薄い製品形状の切削加工をおこなうと、歪みや反りといった変形が起こりえます",
+    "url": "https://www.ksx.jp/arumi/",
+    "pass": 1
+   },
+   {
+    "quote": "作りたい製品に合わせて、適切な加工方法を選ぶことが大切です",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "ただし、製品形状が単純で速度差がほとんど出ない場合や順送プレスに向かない加工の場合には、単発プレス加工を選択します",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "単発プレス加工より順送プレス加工のほうが製品精度の安定性にも優れています",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "加工時に単発プレスと順送プレスのどちらを採用するかは、生産コストや製品形状、求められる精度によります",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "一つひとつの製品を手作業で加工していく単発プレスは、大きめの製品にも対応できます",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "一方、材料に製品がつながったまま複数の工程をおこなう順送プレスは、大きいサイズの製品加工には不向きです",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "単発プレスは設備や金型の費用を抑えられますが、製品を量産しようとすると作業者コストがかかってしまいます",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "製品サイズが小さい場合、手作業をともなう単発プレス加工では精度を保つのが困難です",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "製品形状が複雑になるほど工程数も増えるため、単発プレスには向きません",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "単発プレスは何万個もの製品を加工するには不向きです",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "クッキーの型抜きのように、製品となる部分を抜き取る加工です",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "打ち抜きとは逆に、製品に不要な部分を切り抜きます",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "製品形状が複雑な場合には、曲げ加工を繰り返したり、曲げ形状を調節したりして対応します",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "端部に触れてケガをしないようにするとともに、製品の強度を高める効果があります",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "単発プレスは金型コストが抑えられ、単純形状の製品を作るのに有効な加工方法です",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "順送プレスでは加工が難しい大きいサイズの製品や試作品、小ロット生産などに向いています",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "単発プレスと順送プレスの違いをよく理解して、作りたい製品に適した加工方法を選択しましょう",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "絞りは円柱や円すいといった単純な形状から、鍋やフライパン、お椀のような絶妙な曲げ具合の加工、さらに複雑な形の製品加工まで対応できます",
+    "url": "https://www.ksx.jp/press_sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "絞りは金属板を延ばさないため成形の前後で板厚が変わらず、張り出し加工よりも深い容積を持った製品を作成できます",
+    "url": "https://www.ksx.jp/press_sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の直径よりも深さ距離が短いのが浅絞り加工、長いのが深絞り加工です",
+    "url": "https://www.ksx.jp/press_sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "素材特性や製品形状によっては、これらの特殊な絞り加工を採用します",
+    "url": "https://www.ksx.jp/press_sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "扱う素材にもよりますが、ヘラ絞りは数mm単位の小さい製品から、数m規模の大きい製品まで幅広く加工できます",
+    "url": "https://www.ksx.jp/press_sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "プレス絞りは金型の製作に時間を要しますが、いったんプレス工程に入れば高速に製品を作っていけます",
+    "url": "https://www.ksx.jp/press_sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "人の手が必要なヘラ絞りよりも大量生産向きで、特に単一製品を量産したい場合に最適です",
+    "url": "https://www.ksx.jp/press_sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "金型の設計から含めると最低でも10日程度、製品の複雑さによっては1カ月以上の製作期間を要します",
+    "url": "https://www.ksx.jp/press_sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、設計の自由度が高く、複雑な立体形状の製品を量産するのに欠かせない技術ともいえます",
+    "url": "https://www.ksx.jp/press_sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "金属加工の方法は多種多様で、製品や部品ごとに適した加工法を選ぶことが重要です",
+    "url": "https://www.ksx.jp/press_sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "試作切削、試作板金｜製品開発のベストパートナー小林製作所",
+    "url": "https://www.ksx.jp/shisaku/",
+    "pass": 1
+   },
+   {
+    "quote": "試作切削・板金・溶接まで製品としての提供が可能",
+    "url": "https://www.ksx.jp/shisaku/",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "試作金型から精密プレス金型まで、ご予算や目的に応じ、様々な設計・製作に対応できるよう設備を整えております",
+    "url": "https://www.ksx.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "単発プレスによる加工で小・中量多品種に対応します",
+    "url": "https://www.ksx.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "単発プレスによる加工で小・中量多品種に対応します",
+    "url": "https://www.ksx.jp/business_details-2/",
+    "pass": 1
+   },
+   {
+    "quote": "試作金型から精密プレス金型まで、ご予算や目的に応じ、様々な設計・製作に対応できるよう設備を整えております",
+    "url": "https://www.ksx.jp/business_details-2/",
+    "pass": 1
+   },
+   {
+    "quote": "小ロットからのご依頼にも柔軟に対応可能です",
+    "url": "https://www.ksx.jp/business_details-2/",
+    "pass": 1
+   },
+   {
+    "quote": "少量試作から量産まで一貫対応し、複雑形状・高精度品を効率的に製造",
+    "url": "https://www.ksx.jp/business_details-2/",
+    "pass": 1
+   },
+   {
+    "quote": "プレス加工なら小林製作所｜試作板金から量産まで一貫対応",
+    "url": "https://www.ksx.jp/press/",
+    "pass": 1
+   },
+   {
+    "quote": "逆に小ロットの生産や単工程の加工においては、型費も安いことからコストメリットが得られやすい加工方法です",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "単発プレス加工は、試作品を作りたい、あるいは低コストで少量生産をしたいといった場合に採用されるのが一般的です",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "1万個以下の少量生産ならコストメリットが得られやすいでしょう",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "単発プレス加工は大きいサイズや少量生産に適した技術",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "順送プレスでは加工が難しい大きいサイズの製品や試作品、小ロット生産などに向いています",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "試作品や小ロットの生産にヘラ絞りを採用しましょう",
+    "url": "https://www.ksx.jp/press_sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "試作切削、試作板金｜製品開発のベストパートナー小林製作所",
+    "url": "https://www.ksx.jp/shisaku/",
+    "pass": 1
+   },
+   {
+    "quote": "試作切削・板金・溶接まで製品としての提供が可能",
+    "url": "https://www.ksx.jp/shisaku/",
+    "pass": 1
+   },
+   {
+    "quote": "稼働状況、材料調達にもよりますが、少量多種、短納期品の加工にも対応しています",
+    "url": "https://www.ksx.jp/shisaku/",
+    "pass": 1
+   },
+   {
+    "quote": "試作切削加工だけでなく、板金溶接設備も保有していることから、切削だけでなく、複合品での試作品の製品提供が可能です",
+    "url": "https://www.ksx.jp/shisaku/",
+    "pass": 1
+   },
+   {
+    "quote": "切削加工から各工程及び表面処理（塗装）まで製品を一元加工生産し、高精度加工品を多品種・小ロットでご提供致しております",
+    "url": "https://kobayashi-up.co.jp/pages/6/",
+    "pass": 3
+   },
+   {
+    "quote": "開発試作品から本生産部品まで、お客様との共同開発・技術開発に自信と経験と技術の蓄積があります",
+    "url": "https://kobayashi-up.co.jp/pages/6/",
+    "pass": 3
+   },
+   {
+    "quote": "試作品・オリジナル品・小ロット品・本生産部品まで、どんなことでも誠意を持って対応させていただきますので、ぜひご相談ください",
+    "url": "https://kobayashi-up.co.jp/pages/6/",
+    "pass": 3
+   },
+   {
+    "quote": "成形前の試作品、成形品の加工",
+    "url": "https://kobayashi-up.co.jp/pages/6/",
+    "pass": 3
+   },
+   {
+    "quote": "TIG溶接・精密溶接 試作、小ロットなら(有)小林製作所",
+    "url": "https://www.kobayashi-weld.com/",
+    "pass": 3
+   },
+   {
+    "quote": "製品全般に関するお問い合わせ、試作品の依頼、サンプルのご提供についてはこちらのフォーム、またはお電話にて承っております",
+    "url": "https://tweezerskobayashi.jp/contact/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "試作金型から精密プレス金型まで、ご予算や目的に応じ、様々な設計・製作に対応できるよう設備を整えております",
+    "url": "https://www.ksx.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、自社内でも検査治具を製作し、様々な検査・測定器具を設備しております",
+    "url": "https://www.ksx.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "試作金型から精密プレス金型まで、ご予算や目的に応じ、様々な設計・製作に対応できるよう設備を整えております",
+    "url": "https://www.ksx.jp/business_details-2/",
+    "pass": 1
+   },
+   {
+    "quote": "プレス金型製作のノウハウと、切削・放電・研削技術を融合",
+    "url": "https://www.ksx.jp/business_details-2/",
+    "pass": 1
+   },
+   {
+    "quote": "材料調達から金型製作、加工、付帯処理、簡易組立までを社内完結",
+    "url": "https://www.ksx.jp/business_details-2/",
+    "pass": 1
+   },
+   {
+    "quote": "防衛・航空宇宙・官公庁・大学研究機関・半導体・通信機器・その他",
+    "url": "https://www.ksx.jp/business_details-2/",
+    "pass": 1
+   },
+   {
+    "quote": "プレス板金加工とは、プレスマシンと呼ばれ強圧をかける機械にプレス金型を取り付け、金属などの材料を強圧し、せん断・曲げ・成形・絞り・鍛造などの成形を施す加工法です",
+    "url": "https://www.ksx.jp/press/",
+    "pass": 1
+   },
+   {
+    "quote": "例を挙げると、パソコンの内部部品、自動車のボディ、お鍋などのキッチン用品、テレビやエアコンなどの電化製品の内部部品など、平らな板などが形になった部品がプレス製品で、日常生活の中でもよくみられます",
+    "url": "https://www.ksx.jp/press/",
+    "pass": 1
+   },
+   {
+    "quote": "薄い板材に金型を押し当て、材料を周りから中央に寄せて立体の形状に変形させます",
+    "url": "https://www.ksx.jp/press/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社では、プレス金型を製作する技術を応用してベンダー（プレスブレーキ）用の金型を製作し、加工を行うことができるため、複雑な形状の製品であっても短納期で製作することが可能です",
+    "url": "https://www.ksx.jp/press/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車や自転車、オートバイ、鉄道車両などの部品にもステンレス鋼が使用されています",
+    "url": "https://www.ksx.jp/sus/",
+    "pass": 1
+   },
+   {
+    "quote": "航空機の部品の多くはアルミ合金で製作されますが、排気系はステンレス製です",
+    "url": "https://www.ksx.jp/sus/",
+    "pass": 1
+   },
+   {
+    "quote": "1円硬貨や窓のサッシ、飲料缶、自動車部品など幅広く使われています",
+    "url": "https://www.ksx.jp/arumi/",
+    "pass": 1
+   },
+   {
+    "quote": "風雨にさらされる自動車や船舶、あるいは建築物などにも役立つ特性です",
+    "url": "https://www.ksx.jp/arumi/",
+    "pass": 1
+   },
+   {
+    "quote": "メカトロニクス分野や先端医療分野などでアルミが活用されています",
+    "url": "https://www.ksx.jp/arumi/",
+    "pass": 1
+   },
+   {
+    "quote": "加工のしやすさと強度が両立できるアルミ材質は、自動車部品の多くに採用されています",
+    "url": "https://www.ksx.jp/arumi/",
+    "pass": 1
+   },
+   {
+    "quote": "特にジュラルミン/超ジュラルミン/超々ジュラルミンは航空機用材に適しています",
+    "url": "https://www.ksx.jp/arumi/",
+    "pass": 1
+   },
+   {
+    "quote": "ロケットは軽量であるとともに、発射の際に機体にかかる空気抵抗や摩擦熱にも耐えなければなりません",
+    "url": "https://www.ksx.jp/arumi/",
+    "pass": 1
+   },
+   {
+    "quote": "例えばジュラルミンは航空機素材として有名です",
+    "url": "https://www.ksx.jp/arumi/",
+    "pass": 1
+   },
+   {
+    "quote": "使用する金型によって区別され、それぞれ異なる特徴を持っています",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "単発プレス加工とは「単発金型」を使用するプレス加工のことです",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "単発金型は1つの工程に対応した金型を意味します",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "例えば、せん断ならせん断用の金型を、穴あけなら穴あけ用の金型を使って単発の加工をおこないます",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "複雑な形状に加工する際は、工程ごとに金型を交換する手間も発生します",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "「順送金型」を自動機に取り付け、複数の工程を一度におこなえる加工方法です",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "単発金型はせん断や打ち抜き、穴あけ、曲げといった加工ごとに1つの金型を使いますが、順送金型は1つの金型で「穴あけ+曲げ」「打ち抜き+曲げ+せん断」のように2つ以上の工程をまかなえます",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "順送プレス加工は工程ごとに交換する手間がない分、金型の形状は複雑になります",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、順送金型の製作コストは単発金型より高価です",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "単発プレス加工は、工程が多くなるほど金型を交換する時間もかさみます",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "順送プレス加工は金型交換なしに複数の工程を自動でおこなえるため、単発プレス加工よりも高速です",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "単発プレス加工は金型交換や材料をセットする作業者が必要です",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "単純形状の加工は工程が少ないため、金型コストがかからない単発プレスが有利です",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "単発プレスは設備や金型の費用を抑えられますが、製品を量産しようとすると作業者コストがかかってしまいます",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "単発プレスは1つの金型でできる加工は1つだけですが、金型を交換すれば多様な加工方法に対応できます",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "素材の破壊限以上の外力を加え、金型に沿って切ることができます",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "単発プレスは金型コストが抑えられ、単純形状の製品を作るのに有効な加工方法です",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "プレスとは、金型を取り付けたプレス機械を使用して、金属素材にせん断、打ち抜き、穴あけなどをおこなう加工技術です",
+    "url": "https://www.ksx.jp/press_sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "プレスによる絞り加工は上下の金型で挟んで加圧して成形するのが一般的です",
+    "url": "https://www.ksx.jp/press_sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "プレスによる絞り加工では、パンチ（上から押し込む金型）が、ダイ（目的の形状になっている下側の金型）に沈み込んで成形するのが基本の流れです",
+    "url": "https://www.ksx.jp/press_sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "３）金型を設計する",
+    "url": "https://www.ksx.jp/press_sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "プレスによる絞り加工の金型として、パンチとダイ、ブランクホルダーの設計が必要です",
+    "url": "https://www.ksx.jp/press_sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "金型を取り付けるのに十分な寸法があることや、絞り加工力とシワ抑え力を同時に出力できる加圧性能を持つこと、逆方向の加圧力で成形品をパンチから取り外せることも選定条件として重要です",
+    "url": "https://www.ksx.jp/press_sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "潤滑油が金型とブランクに起こる摩擦を減らし、破断や焼付き、かじりなどの発生を抑えられます",
+    "url": "https://www.ksx.jp/press_sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "ヘラ絞りは金型が1つで済むため、プレス絞りに比べて設備にかかる費用を抑えられます",
+    "url": "https://www.ksx.jp/press_sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "金型より低コストの木型も使用できますし、高価なプレス機も不要です",
+    "url": "https://www.ksx.jp/press_sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "ヘラ絞りは金型の作成時間を省けるため、熟練の技術者の手にかかれば簡単な製作物なら1時間で完成します",
+    "url": "https://www.ksx.jp/press_sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "プレス絞りは金型の製作に時間を要しますが、いったんプレス工程に入れば高速に製品を作っていけます",
+    "url": "https://www.ksx.jp/press_sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "プレス絞りではプレス機と金型2つ（パンチとダイ）を用意するための初期費用が必要です",
+    "url": "https://www.ksx.jp/press_sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "金型の設計から含めると最低でも10日程度、製品の複雑さによっては1カ月以上の製作期間を要します",
+    "url": "https://www.ksx.jp/press_sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "ブランクが金型に引き込まれるときに「しわ」が発生することがあります",
+    "url": "https://www.ksx.jp/press_sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "軽量で耐食性に優れているため、操作性や安全性を重視する光学機器・医療機器に重用されています",
+    "url": "https://kobayashi-up.co.jp/pages/6/",
+    "pass": 3
+   },
+   {
+    "quote": "溶接工場増設およびファイバーレーザー溶接ロボットを導入により溶接部門拡充",
+    "url": "https://team-kobayashi.com/company.php",
+    "pass": 3
+   },
+   {
+    "quote": "北側工場増設、ハイブリッド溶接機、曲げロボットの導入など生産設備を拡充",
+    "url": "https://team-kobayashi.com/company.php",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "また、重さ、質、強度など、お客様のご要望に合った材質を選ぶだけでなく、付帯処理（仕上げ加工）においても、最適の加工を施し、ご希望通りの品質に仕上げます",
+    "url": "https://www.ksx.jp/business_details-2/",
+    "pass": 1
+   },
+   {
+    "quote": "また、重さ、質、強度など、お客様のご要望に合った材質を選ぶだけでなく、付帯処理（仕上げ加工）においても、最適の加工を施し、ご希望通りの品質に仕上げます",
+    "url": "https://www.ksx.jp/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "また、チタン材やパーマロイ材・樹脂・その他特殊鋼にも対応しております",
+    "url": "https://www.ksx.jp/press/",
+    "pass": 1
+   },
+   {
+    "quote": "材質 ： SUS304 ミガキ材",
+    "url": "https://www.ksx.jp/press/",
+    "pass": 1
+   },
+   {
+    "quote": "材質 ： SUS304 2B",
+    "url": "https://www.ksx.jp/press/",
+    "pass": 1
+   },
+   {
+    "quote": "材質 ： A５０５２P",
+    "url": "https://www.ksx.jp/press/",
+    "pass": 1
+   },
+   {
+    "quote": "材質 ： ＳＵＳ３０４ ２Ｂ",
+    "url": "https://www.ksx.jp/press/",
+    "pass": 1
+   },
+   {
+    "quote": "材質 ： ＳＵＳ３０４ ミガキ材",
+    "url": "https://www.ksx.jp/press/",
+    "pass": 1
+   },
+   {
+    "quote": "材質 ： C1020",
+    "url": "https://www.ksx.jp/press/",
+    "pass": 1
+   },
+   {
+    "quote": "ステンレス切削加工｜ステンレス材質の特徴・種類・用途と加工の注意点",
+    "url": "https://www.ksx.jp/sus/",
+    "pass": 1
+   },
+   {
+    "quote": "今回はステンレスの基礎知識を踏まえて、ステンレスの材質特徴からステンレス鋼の種類、ステンレスを選ぶ理由や用途、切削加工の注意点までを解説します",
+    "url": "https://www.ksx.jp/sus/",
+    "pass": 1
+   },
+   {
+    "quote": "ここでは、ステンレスの材質特徴を詳しく説明します",
+    "url": "https://www.ksx.jp/sus/",
+    "pass": 1
+   },
+   {
+    "quote": "ここでは、ステンレス材質を選ぶ理由について説明します",
+    "url": "https://www.ksx.jp/sus/",
+    "pass": 1
+   },
+   {
+    "quote": "SDGsの機運が高まる昨今では、リサイクル性が高いステンレス材質に注目が集まっています",
+    "url": "https://www.ksx.jp/sus/",
+    "pass": 1
+   },
+   {
+    "quote": "ステンレスの材質特性は非常に優秀で、広範囲の応用が可能です",
+    "url": "https://www.ksx.jp/sus/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ切削加工の基礎知識｜材質特徴や合金の種類・切削の注意点を解説",
+    "url": "https://www.ksx.jp/arumi/",
+    "pass": 1
+   },
+   {
+    "quote": "今回はアルミ切削加工の基礎知識として、アルミとはどんな金属か、アルミの材質特徴、アルミ合金の種類や用途、切削加工時の注意点について詳しく解説します",
+    "url": "https://www.ksx.jp/arumi/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミの比重は2.7で、一般的な金属素材の中ではマグネシウム（1.7）に次いで2番目に軽い金属です",
+    "url": "https://www.ksx.jp/arumi/",
+    "pass": 1
+   },
+   {
+    "quote": "マグネシウムとケイ素を添加し、A5000番台より強度と耐食性を強化しています",
+    "url": "https://www.ksx.jp/arumi/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミに亜鉛とマグネシウムを化合させ、熱処理を加えた合金です",
+    "url": "https://www.ksx.jp/arumi/",
+    "pass": 1
+   },
+   {
+    "quote": "以下、アルミ材質を選ぶ理由となるメリットについて説明します",
+    "url": "https://www.ksx.jp/arumi/",
+    "pass": 1
+   },
+   {
+    "quote": "反射率の高いアルミ材質は表面の光沢が美しく、製品の見た目が映えます",
+    "url": "https://www.ksx.jp/arumi/",
+    "pass": 1
+   },
+   {
+    "quote": "軽くて丈夫な製品を作るならアルミ材質が最適です",
+    "url": "https://www.ksx.jp/arumi/",
+    "pass": 1
+   },
+   {
+    "quote": "加工のしやすさと強度が両立できるアルミ材質は、自動車部品の多くに採用されています",
+    "url": "https://www.ksx.jp/arumi/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ材質の反射率の高さは、夏場に太陽光の熱で建物が温まるのを防ぎます",
+    "url": "https://www.ksx.jp/arumi/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミの材質特徴や合金種類を知って切削加工に役立てよう",
+    "url": "https://www.ksx.jp/arumi/",
+    "pass": 1
+   },
+   {
+    "quote": "切削加工では、マグネシウムを化合させたA5000番台のアルミ合金がよく用いられます",
+    "url": "https://www.ksx.jp/arumi/",
+    "pass": 1
+   },
+   {
+    "quote": "材質 ： SUS304 ミガキ材",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "材質 ： SUS304 2B",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "材質 ： A５０５２P",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "材質 ： ＳＵＳ３０４ ２Ｂ",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "材質 ： ＳＵＳ３０４ ミガキ材",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "材質 ： C1020",
+    "url": "https://www.ksx.jp/press_working/",
+    "pass": 1
+   },
+   {
+    "quote": "材質 ： SUS304 2B",
+    "url": "https://www.ksx.jp/press_sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "材質 ： A５０５２P",
+    "url": "https://www.ksx.jp/press_sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "材質 ： ＳＵＳ３０４ ２Ｂ",
+    "url": "https://www.ksx.jp/press_sibori/",
+    "pass": 1
+   },
+   {
+    "quote": "また、重さ、質、強度など、お客様のご要望に合った材質を選ぶだけでなく、付帯処理（仕上げ加工）においても、最適の加工を施し、ご希望通りの品質に仕上げます",
+    "url": "https://www.ksx.jp/shisaku/",
+    "pass": 1
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "三次元CAD/CAMにより加工プログラムを作成し、マシニングセンタ・NC旋盤・ワイヤカット放電加工機・研削盤にて加工を行います",
+    "url": "https://www.ksx.jp/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、単純な穴開け加工はもちろん、複雑な形状をした製品の切削加工を、3次元CAD/CAMを駆使してモデリングからNCプログラムの作成・3次元加工までを行っています",
+    "url": "https://www.ksx.jp/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "森精機、オークマ、HAMAI、ワドー",
+    "url": "https://kobayashi-up.co.jp/pages/6/",
+    "pass": 3
+   },
+   {
+    "quote": "HDS8025NT、BEND/CAM導入",
+    "url": "https://team-kobayashi.com/company.php",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "製品情報｜株式会社小林製作所（公式ホームページ） — 試作品・オリジナル品・小ロット品・本生産部品まで、どんなことでも誠意を持って対応させていただきますので、ぜひご相談ください。 概要 SUS316L材（SUS316よりNiが多く含まれ加工がネバイ）を使用しバリを出さない高精度加工 利用分野 環境・省エネ・医療",
+    "url": "https://kobayashi-up.co.jp/pages/6/",
+    "pass": 3
+   },
+   {
+    "quote": "試作切削、試作板金｜製品開発のベストパートナー小林製作所 — 難削材 インコネル モリブデン スーパーインバー ダイス鋼 ハステロイ スタバックス鋼 パーマロイ プリハードン鋼 会社紹介 会社概要 採用情報 品質管理 設備情報 オンライン商談 お問い合わせ 有限会社 小林製作所 〒322ｰ0006 栃木県鹿沼市富岡1016-9 TEL,0289 ...",
+    "url": "https://www.ksx.jp/shisaku/",
+    "pass": 3
+   },
+   {
+    "quote": "TIG溶接・精密溶接 試作、小ロットなら (有)小林製作所 — Mar 2, 2020 · 金属加工の試作や小ロットの溶接 (レーザー・TIG・YAG)・精密溶接など、他の会社に断られた難しい加工を得意としています。低歪み・高品質の薄板溶接・精密溶接・精密板金・切削加工を金属加工のトータルコーディネーターとしてまるごと対応いたします。",
+    "url": "https://www.kobayashi-weld.com/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 小林製作所 — information お知らせ 求人募集のお知らせ ・ものつくりの好きな人材を募集しております。 高精度・短納期・小ロット試作 高精度・短納期・小ロット試作、お問い合わせください。 板金、溶接、絞り、切削、プレスほか各種加工 生産管理体制に万全を期しております。リバース作成も可能です ...",
+    "url": "https://www.kss-s.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "事業案内 | 株式会社小林製作所 — 小ロットや試作から量産まで パンチ・レーザー複合機とプレスブレーキで小ロットや試作にご対応いたします。 パンチ・レーザー複合機は鉄・ステンレス（ともに3mm厚まで）のレーザーカットが可能です。",
+    "url": "https://www.hanabishi7.co.jp/business",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜小林製作所 — 会社設立 昭和22年4月23日 代表取締役 小林 靖典 資本金 1000万円 従業員数 168名 (2024/04/01) 事業内容 精密板金・組立・塗装・提案型設計 システム開発・販売 製造品目 産業機械カバー、フレーム、筐体 半導体製造装置 OA・FAコンピュータ部品、筐体 システム ...",
+    "url": "https://team-kobayashi.com/company.php",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜会社案内｜株式会社小林製作所会社案内｜株式会社小林製作所事業内容 - 小林製作所小林製作所 | 会社概要会社案内｜株式会社小林製作所会社案内 - 小林製作所 — 会社概要 Company Guide プロフィール ... 経営理念 創業の精神である「和」を基に、「ユーザーのニーズに応え、利益をもたらす機械づくり」を モットーに常に 邁進・飛躍していく企業を目指しています。 アクセスマップ 会社概要 本社所在地、事業内容などの情報を掲載しています 会社沿革 小林製作所のこれまでの歩みを掲載しています ISO9001認証 1999年11月19日に認証を取得したISO9001の品質方針、適用範囲を掲載しています 関連会社 国内・海外の関連企業を掲載しています 弊社は、創業以来60年にわたってチタン・ステンレス・アルミといった材料を中心とした精密部品加工を行っております。 中小ロットの精",
+    "url": "https://www.kobayashieng.co.jp/company/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内｜株式会社小林製作所 — 会社概要 本社所在地、事業内容などの情報を掲載しています 会社沿革 小林製作所のこれまでの歩みを掲載しています ISO9001認証 1999年11月19日に認証を取得したISO9001の品質方針、適用範囲を掲載しています 関連会社 国内・海外の関連企業を掲載しています",
+    "url": "https://www.kobayashieng.co.jp/company/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "小林製作所 | 会社概要会社案内｜株式会社小林製作所会社案内 - 小林製作所 — 小林製作所の会社概要を紹介します 2,事業区分 電熱器具製造事業 登録番号 東 第5000号 登録の年月日 昭和60年4月30日 3 事業区分 温度ヒューズ製造事業 登録番号 東 第5318号 登録の年月日 昭和62年6月1日 昭和32年 小林實個人企業小林製作所創立 昭和43年 姫路市飾磨区中島602へ工場新築移転 昭和44年 法人化 株式会社小林製作所と組織変更 昭和51年 増資・資本金1900万円となる 昭和62年 富士通株式会社よりVE表賞受賞 平成元年 富士通株式会社より品質優良賞受賞 平成2年 富士通株式会社より2回目の ...",
+    "url": "https://www.kobayashicorp.co.jp/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 - 小林製作所 — 昭和32年 小林實個人企業小林製作所創立 昭和43年 姫路市飾磨区中島602へ工場新築移転 昭和44年 法人化 株式会社小林製作所と組織変更 昭和51年 増資・資本金1900万円となる 昭和62年 富士通株式会社よりVE表賞受賞 平成元年 富士通株式会社より品質優良賞受賞 平成2年 富士通株式会社より2回目の ...",
+    "url": "https://www.kseisaku.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせフォーム｜株式会社小林製作所 — お問い合わせフォーム Inquiry 以下の各項目をご記入し、入力内容を確認後「送信」ボタンをクリックしてください。 回答までに時間をいただく場合がございますので、あらかじめご了承ください。",
+    "url": "https://www.kobayashieng.co.jp/contact/contact.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | 株式会社小林製作所 — お問い合わせ TOP 会社案内 事業案内 金属プレス加工 精密板金加工 溶接･組立 設備紹介 お知らせ プライバシーポリシー 本社・加茂工場 〒959-1381 新潟県加茂市新栄町8-37 TEL： 0256-52-0435 （代） FAX：0256-52-1184 田上工場 〒959-1502 新潟県南蒲原郡田上町田上125-7 ...",
+    "url": "https://www.hanabishi7.co.jp/contact",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ 小林製作所 — お名前* 会社 部署・役職 メールアドレス* サイトURL 郵便番号* 都道府県* 市町村・番地* 建物名・部屋番号等* 電話番号* FAX番号 件名* お問い合わせ内容*",
+    "url": "https://tweezerskobayashi.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | 株式会社 小林製作所 — 電話でのお問い合わせ お電話でのお問い合わせは、原則として平日 (月～金)の午前 8時から、午後 5時の間承っております。 下記電話番号まで、お問い合わせください。 Tel:027-346-5252 メールでのお問い合わせ メールでのお問い合わせは、必要事項をご記入の上、下記メールアドレス宛にお送り ...",
+    "url": "https://kobayashiss.jp/contact/index.html",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "小林製作所へのお問い合わせは、下記フォームへ必要事項をご記入いただき送信してください",
+    "url": "https://www.hanabishi7.co.jp/contact",
+    "pass": 3
+   },
+   {
+    "quote": "※営業を目的としたお問い合わせはご遠慮ください",
+    "url": "https://www.hanabishi7.co.jp/contact",
+    "pass": 3
+   },
+   {
+    "quote": "製品全般に関するお問い合わせ、試作品の依頼、サンプルのご提供についてはこちらのフォーム、またはお電話にて承っております",
+    "url": "https://tweezerskobayashi.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "For inquiries from outside Japan , please contact us from this page.",
+    "url": "https://tweezerskobayashi.jp/contact/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "「楽しむことで生まれる、子どもたちの笑顔」：有限会社小林製作所／... Mar 31, 2025 · こんにちは🌼 NPO法人栃木県こども応援なないろのひびきです🌈 なないろインタビュープロジェクト第19回目は、小林信作(こばやししんさく)様にお話を伺いました！ 小林様は当会の正会員として、未来会議(当会が月に1回ほど実施する会議)にご参加してくださっています。 【小林信作様 ...",
+    "url": "https://note.com/ouennnanairo/n/n9a3801d9a6b0",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "小林製作所 on X: \"ホンダ トゥデイ JA4 グローブボックス ゲージポッ... Conversation 小林製作所 @kbmodjp65023 Show translation ホンダ トゥデイ JA4 グローブボックス ゲージポッド 52mm 3連 追加メーターホルダー パネル カバー JA5 Vv kbmod.jp/2983529?utm_ca… ¥5,420 (税込) 10:46 PM · Nov 9, 2026 · 1 Views",
+    "url": "https://x.com/kbmodjp65023/status/2119924506923827431",
+    "pass": 3
+   },
+   {
+    "quote": "小林製作所 on X: \"ホンダ アクティバン ストリート HH1 HH2 HH3 HH4 ... Post 小林製作所 @kbmodjp65023 Show translation ホンダ アクティバン ストリート HH1 HH2 HH3 HH4 ゲージポッド 52mm 追加メーターホルダー VY kbmod.jp/2982938?utm_ca… ¥2,980 (税込)",
+    "url": "https://x.com/kbmodjp65023/status/2116345421110841635",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社小林製作所 (@kobass_1984) / X 4 followers · 8 following. 茨城県龍ケ崎市. Joined Feb 2024. See the latest conversations with @kobass_1984",
+    "url": "https://x.com/kobass_1984",
+    "pass": 3
+   },
+   {
+    "quote": "小林製作所 on X: \"ホンダ トゥデイ JA2 フロントピラー ゲージポッド... ホンダ トゥデイ JA2 フロントピラー ゲージポッド 52mm 1連 追加メーターホルダー パネル カバー JA3 JW2 JW3 JW4 MN https://t.co ...",
+    "url": "https://x.com/kbmodjp65023/status/2119979361763725602",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "（有）小林製作所 | Kanuma-shi Tochigi - Facebook Apr 3, 2026 · 5 （有）小林製作所 30w · Public こんにちは☘️ 鹿沼市富岡にあります小林製作所です😊 すっかり春めいてきましたね！ 鹿沼の名所、桜並木にある明友商工様にて桜まつりが 開催されます。 弊社も何名か参加し協力しておりますので 是非遊びにして ...",
+    "url": "https://www.facebook.com/ksx1016/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 小林製作所 | Midori-shi Gunma - Facebook株式会社 小林工具製作所 本社 | Sanjo-shi Niigata株式会社小林製作所株式会社小林工具製作所 May 15, 2013 · 株式会社 小林製作所, Midori. 36 followers · 7 were here. 豊かな暮らしと住みよい環境のために Oct 20, 2026 · Posts 株式会社 小林工具製作所 本社 Jul 22 「店舗販売開始のお知らせと販売店の募集」燕三条発 のMuthos Homura製品が店舗で買えます 業界初となる板厚わずか0.3mmのチタン製ダブル構造 タンブラー「Premium Double Tumbler 250 Dec 5, 2025 · 株式会社小林製作所 Oct 26, 2025 株式会社小林製作所 Sep 4, 2025 9月3日〜9月4日、",
+    "url": "https://www.facebook.com/kobacom/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社小林製作所 Dec 5, 2025 · 株式会社小林製作所 Oct 26, 2025 株式会社小林製作所 Sep 4, 2025 9月3日〜9月4日、 #吉原工業高校の生徒さんが職業体験に来てくださいました📚☡ 🏻 お越しいただきありがとうございました😊#静岡#富士#新卒採用#中途採用#説明会開催 ...",
+    "url": "https://www.facebook.com/61561478354489/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Hiroshi Kobayashi - CEO at Kobayashi Seisakujo | 株式会社 小林製...会社概要｜小林製作所代表メッセージ｜会社を知る｜採用サイト｜株式会社 小林製作所Hiroshi Kobayashi - Kobayashi Seisakujo Inc. CEO | (株) 小林製作...社長挨拶｜株式会社小林製作所（公式ホームページ）会社概要・アクセス｜株式会社小林製作所 CEO at Kobayashi Seisakujo | 株式会社 小林製作所 社長 · Dynamic entrepreneur and owner of a precision parts manufacturing company, specializing in delivering high-quality, custom-engineered components for ",
+    "url": "https://jp.linkedin.com/in/kobayashi-hiroshi",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ksx.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ksx.jp/business_details-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ksx.jp/company-2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ksx.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ksx.jp/cutting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ksx.jp/press/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ksx.jp/sus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ksx.jp/arumi/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ksx.jp/press_working/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ksx.jp/press_sibori/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ksx.jp/facility/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ksx.jp/shisaku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ksx.jp/measurement/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://kobayashi-up.co.jp/pages/6/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kobayashi-weld.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://team-kobayashi.com/company.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kobayashieng.co.jp/company/profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kobayashieng.co.jp/company/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kobayashieng.co.jp/contact/contact.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hanabishi7.co.jp/contact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tweezerskobayashi.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ouennnanairo/n/n9a3801d9a6b0",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/kbmodjp65023/status/2119924506923827431",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/kbmodjp65023/status/2116345421110841635",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/kobass_1984",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/kbmodjp65023/status/2119979361763725602",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ksx1016/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/kobacom/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61561478354489/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/kobayashi-hiroshi",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "小林製作所 取扱製品 試作 小ロット",
+   "results": [
+    "https://kobayashi-up.co.jp/pages/6/",
+    "https://www.ksx.jp/shisaku/",
+    "https://www.kobayashi-weld.com/",
+    "https://www.kss-s.jp/",
+    "https://www.hanabishi7.co.jp/business",
+    "https://kb-ss.jp/",
+    "http://www.kobasei.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "小林製作所 会社概要 事業内容",
+   "results": [
+    "https://team-kobayashi.com/company.php",
+    "https://www.kobayashieng.co.jp/company/profile.html",
+    "https://www.kobayashieng.co.jp/company/index.html",
+    "https://www.kobayashicorp.co.jp/profile.html",
+    "https://www.kseisaku.com/company/",
+    "https://www.kseisaku.com/business/",
+    "https://kobacom.jp/companyprofile.php"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "小林製作所 お問い合わせ メール",
+   "results": [
+    "https://www.kobayashieng.co.jp/contact/contact.html",
+    "https://www.hanabishi7.co.jp/contact",
+    "https://tweezerskobayashi.jp/contact/",
+    "https://kobayashiss.jp/contact/index.html",
+    "https://kobayashi-seisakusho.co.jp/contact/",
+    "https://www.kobayashi-factory.co.jp/contents/contact/",
+    "https://kobayashi-up.co.jp/pages/3/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 小林製作所",
+   "results": [
+    "https://note.com/ouennnanairo/n/n9a3801d9a6b0",
+    "https://note.com/kobayashitool",
+    "https://note.com/kobayashitool/n/n5349a328607b",
+    "https://note.com/kobayashitool/n/n64b1b93b4e70",
+    "https://note.com/kobayashitool/n/n4b93574937ce",
+    "https://note.com/kobayashitool/n/nbf7a61db7415",
+    "https://note.com/kobayashitool/n/nbbe0e3ba2972"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 小林製作所",
+   "results": [
+    "https://x.com/kbmodjp65023/status/2119924506923827431",
+    "https://x.com/kbmodjp65023/status/2116345421110841635",
+    "https://x.com/kobass_1984",
+    "https://x.com/kbmodjp65023/status/2119979361763725602",
+    "https://x.com/kbmodjp65023/status/2117762006916723054",
+    "https://x.com/kobayashitools",
+    "https://x.com/KobayashiTools/status/2041830950079025300"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 小林製作所",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com 小林製作所",
+   "results": [
+    "https://www.facebook.com/ksx1016/",
+    "https://www.facebook.com/kobacom/",
+    "https://www.facebook.com/61561478354489/",
+    "https://www.facebook.com/p/株式会社-小林工具製作所-100054291410753/",
+    "https://www.facebook.com/p/株式会社小林工具製作所-100063488475010/",
+    "https://www.facebook.com/100054253251407/",
+    "https://www.facebook.com/people/株式会社小林工具製作所/100063488475010/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "小林製作所 note 社長",
+   "results": [
+    "https://jp.linkedin.com/in/kobayashi-hiroshi",
+    "https://saiyo.kobayashieng.co.jp/company/topmessage/",
+    "https://kobayashi-up.co.jp/pages/5/",
+    "https://www.kobayashicorp.co.jp/aisatsu.html",
+    "https://team-kobayashi.com/company.php",
+    "https://www.kobayashi-factory.co.jp/contents/company/profile/",
+    "https://jp.linkedin.com/in/hiroshi-kobayashi-ab88ab344"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "小林製作所 X 投稿",
+   "results": [
+    "https://www.kobayashieng.co.jp/",
+    "https://team-kobayashi.com/?fb",
+    "https://team-kobayashi.com/company.php",
+    "https://kobayashi-seisakusyo.co.jp/公式instagram・x旧twitterを開設しました/",
+    "https://www.wink-jp.com/",
+    "https://x.com/L_yukineko/status/2119999246799933733",
+    "https://x.com/hashtag/小林工具製作所"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "代表者": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部17頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部17頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部17頁・検索9回）"
+ }
+}

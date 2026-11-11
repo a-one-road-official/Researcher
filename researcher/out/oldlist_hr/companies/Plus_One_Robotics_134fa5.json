@@ -1,0 +1,1310 @@
+{
+ "name": "Plus One Robotics",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜返信あり",
+ "researched_at": "2026-11-11T11:13:29.175462+00:00",
+ "official_url": "https://www.plusonerobotics.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "1. Seed Round",
+    "value": "22-May-2018 $2.35M $2.35M  Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/183032-02",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "1,826,942 $0.000010  $1.29 $1.29 1x $1.29 5.12%",
+    "url": "https://pitchbook.com/profiles/company/183032-02",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Achieve predictable productivity, safer operations, and a smarter way to scale your fulfillment with Plus One Robotics.",
+    "url": "https://www.plusonerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "- Proven methodologies for implementing automation",
+    "url": "https://www.plusonerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "- Key factors to consider for successful projects",
+    "url": "https://www.plusonerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Elevate your automation playbook and improve your automation outcomes. Download your copy here.",
+    "url": "https://www.plusonerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Experience our award-winning approach to collaboration. Talk to us about your project.",
+    "url": "https://www.plusonerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "April 8, 2026",
+    "url": "https://www.plusonerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "April 30, 2026",
+    "url": "https://www.plusonerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Grow your business with new capabilities, improved performance and an automation partner that you can count on.",
+    "url": "https://www.plusonerobotics.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Partner-First Approach",
+    "url": "https://www.plusonerobotics.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We provide hands-on support during the startup phase, offer financial incentives and co-marketing. Partners have access to training, resources, and a team to help achieve business outcomes.",
+    "url": "https://www.plusonerobotics.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "We offer hands-on training (and risk mitigation as a by-product) by taking the lead on the first project and supporting our partner through the deployment and commissioning phase.",
+    "url": "https://www.plusonerobotics.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Experience a Future Where Efficiency and Productivity Thrive",
+    "url": "https://www.plusonerobotics.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Plus One Robotics’ solutions employ AI vision perception software that provides robots with the hand-eye coordination needed for fulfillment in parcel induction and depalletizing operations. With our innovative approach to",
+    "url": "https://www.plusonerobotics.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "How is Warehouse Automation a Workforce Multiplier?",
+    "url": "https://www.plusonerobotics.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Upskilling Employees with Robotics",
+    "url": "https://www.plusonerobotics.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "We help customers automate the parcel sortation process, providing reliable high-quality throughput at the fastest rate on the market. With the volume surge and labor shortages showing no abating, businesses seek automated induction and sortation processes to keep up with demand. Our robotic solutions tackle the variability of items in the warehouse - new SKUs are no problem.",
+    "url": "https://www.plusonerobotics.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "For businesses that adopt a follow-the-sun model or offer 24/7 customer service, our solutions provide you with flexibility and scalability for existing and new distribution centers. Ecommerce and direct-to-consumer brands see new SKUs enter the warehouse daily. Our 3D and AI-powered imaging tackles the variability of new packaging, new shapes and new items. Ecommerce and direct-to-consumer brands",
+    "url": "https://www.plusonerobotics.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial suppliers in metalworking and maintenance, repair, and operations (MRO) sectors are facing unprecedented challenges in the supply chain. Disruptions have impacted product availability and created hurdles in distribution and delivery. Our solutions help you gain efficiency advantages while reducing errors to help companies stay in compliance with Service Level Agreements (SLAs).",
+    "url": "https://www.plusonerobotics.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "What is your automation challenge? Put our expertise to the test. Our applications are designed to meet the demands of variability in materials in today’s warehouse environment while providing 24/7 robot supervision and customer service.",
+    "url": "https://www.plusonerobotics.com/industries-overview",
+    "pass": 1
+   },
+   {
+    "quote": "Scaling Parcel Induction for Carrier Express Delivery with InductOne",
+    "url": "https://www.plusonerobotics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Plus One Robotics provides the fastest and most reliable parcel handling robotics platform in the world. Founded in 2016 by computer vision and robotics industry experts, Plus One's intelligent solutions combine computer vision, AI, and supervised autonomy to pick parcels for leading logistics and ecommerce organizations in the Global 100.",
+    "url": "https://www.plusonerobotics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Vice President of Operations",
+    "url": "https://www.plusonerobotics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Shaun Edwards, Visiting Researcher at Willow Garage, develops software for the first industrial robot controlled with the simple_message protocol, later to become ROS-Industrial (ROS-I).",
+    "url": "https://www.plusonerobotics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "ROS-I emerges at the Automate Conference in Chicago with a 3D vision-driven robotic picking demonstration. Erik is a presenter at the inaugural meeting of the ROS-I Consortium and becomes the member representative to the Consortium for Yaskawa Motoman Robotics.",
+    "url": "https://www.plusonerobotics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Shaun leads a parcel singulation research project; an e-commerce company is interested. The ROS-I Consortium Europe launches. Erik participates with NASA on RROXITT to use remote human-in-the-loop control for satellite servicing.",
+    "url": "https://www.plusonerobotics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Plus One begins to tell the world about the power of supervised autonomy. Shaun participates in the winning DMDII proposal resulting in the ARM Institute, where Shaun continues involvement as Director of Open Source Software. Paul joins Plus One as co-founder.",
+    "url": "https://www.plusonerobotics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "The Information 50 Most Promising Startups (2020)",
+    "url": "https://www.plusonerobotics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Plus One is a Diverse Group with a Passion for Robotics and Entrepreneurship.",
+    "url": "https://www.plusonerobotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We are people, just like you...we’re soccer players and cyclists, ranchers and city folk. We speak almost as many languages as we code. We have our heads in point clouds and love discussing sci-fi, quaternions, user stories, MVPs, and valuations.",
+    "url": "https://www.plusonerobotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Professional development opportunities",
+    "url": "https://www.plusonerobotics.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Proven Approach to Mixed Case Depalletization",
+    "url": "https://www.plusonerobotics.com/depalletizing",
+    "pass": 1
+   },
+   {
+    "quote": "Watch these videos to see Robotic Depalletization in action",
+    "url": "https://www.plusonerobotics.com/depalletizing",
+    "pass": 1
+   },
+   {
+    "quote": "Fully depopulates the top layer of the pallet before going to the next layer to prevent toppling.",
+    "url": "https://www.plusonerobotics.com/depalletizing",
+    "pass": 1
+   },
+   {
+    "quote": "Images the place zone to confirm that only a single case was placed to prevent double induction.",
+    "url": "https://www.plusonerobotics.com/depalletizing",
+    "pass": 1
+   },
+   {
+    "quote": "If the item to be picked is smaller than the robot end effector, an offset is automatically calculated for the pick to prevent damage to adjacent items on the pallet.",
+    "url": "https://www.plusonerobotics.com/depalletizing",
+    "pass": 1
+   },
+   {
+    "quote": "Pick Command Processing Speed",
+    "url": "https://www.plusonerobotics.com/depalletizing",
+    "pass": 1
+   },
+   {
+    "quote": "Rainbow depalletization refers to the process of handling different rows of homogenous layers of any single product type. Each layer can vary widely in shape, size, weight, etc.",
+    "url": "https://www.plusonerobotics.com/depalletizing",
+    "pass": 1
+   },
+   {
+    "quote": "Mixed case pallets add complexity to the depalletization process, as each layer on the pallet may contain a combination of products, sizes and shapes with absolutely no uniformity.",
+    "url": "https://www.plusonerobotics.com/depalletizing",
+    "pass": 1
+   },
+   {
+    "quote": "These systems can be configured to handle almost any pallet, packaging or product mix in warehouses across diverse sectors.",
+    "url": "https://www.plusonerobotics.com/depalletizing",
+    "pass": 1
+   },
+   {
+    "quote": "In fully automated environments, the pallet is scanned, and product information sent to the warehouse management system to keep track of inventory.",
+    "url": "https://www.plusonerobotics.com/depalletizing",
+    "pass": 1
+   },
+   {
+    "quote": "like a descrambler that separates and positions them for subsequent processes like storage, further processing, or fulfilling outbound orders.",
+    "url": "https://www.plusonerobotics.com/depalletizing",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce repetitive and non-rewarding tasks, upskilling labor to positions that lead to higher work satisfaction and retention",
+    "url": "https://www.plusonerobotics.com/depalletizing",
+    "pass": 1
+   },
+   {
+    "quote": "Available footprint and utilities",
+    "url": "https://www.plusonerobotics.com/depalletizing",
+    "pass": 1
+   },
+   {
+    "quote": "PickOne’s automated parcel induction solution provides optimized picking and placing of mixed parcels, bags, and products for high-volume ecommerce fulfillment and distribution centers. The award-winning AI vision software easily sorts and classifies new package shapes and types, boosting throughput rates while experiencing less downtime.",
+    "url": "https://www.plusonerobotics.com/solutions/parcel-induction",
+    "pass": 1
+   },
+   {
+    "quote": "Reduces turnover by improving job satisfaction",
+    "url": "https://www.plusonerobotics.com/solutions/parcel-induction",
+    "pass": 1
+   },
+   {
+    "quote": "Plus One Robotics supports MSC’s growth by acting as a force multiplier for labor. Previously, the company struggled to find enough people to pack all the orders and meet cutoff times. Plus One Robotics MSC solves this issue effectively.",
+    "url": "https://www.plusonerobotics.com/case-studies/msc-industrial-multiplies-package-sorting-capacity",
+    "pass": 1
+   },
+   {
+    "quote": "Doug Jones, executive vice president and chief supply chain officer for MSC, says: “We are excited to be working with Plus One as a strategic partner to introduce AI-powered automation supporting our growth and optimizing the efficiency of our customer fulfillment centers.",
+    "url": "https://www.plusonerobotics.com/case-studies/msc-industrial-multiplies-package-sorting-capacity",
+    "pass": 1
+   },
+   {
+    "quote": "“After experiencing the productivity of Plus One’s solutions and seeing that we can redirect our associates to more value-added activities, we saw the benefit of expanding this technology across our network.”",
+    "url": "https://www.plusonerobotics.com/case-studies/msc-industrial-multiplies-package-sorting-capacity",
+    "pass": 1
+   },
+   {
+    "quote": "A major e-commerce retailer, known for its focus on pet products, faced significant challenges as it scaled its warehouse operations—particularly the physical strain on employees handling heavy items. To address these concerns, the company implemented an advanced robotic depalletizing system powered by Plus One Robotics’ AI vision technology and human-in-the-loop supervision.",
+    "url": "https://www.plusonerobotics.com/case-studies/a-leading-pet-e-commerce-companys-ergonomic-revolution-in-warehouse-ops",
+    "pass": 1
+   },
+   {
+    "quote": "By deploying robots to manage high-risk, repetitive tasks, the retailer reduced ergonomic strain while achieving measurable gains in throughput and process efficiency. The result: improved productivity, fewer workplace injuries, and greater employee satisfaction across its fulfillment network.",
+    "url": "https://www.plusonerobotics.com/case-studies/a-leading-pet-e-commerce-companys-ergonomic-revolution-in-warehouse-ops",
+    "pass": 1
+   },
+   {
+    "quote": "Damaged product on the warehouse floor",
+    "url": "https://www.plusonerobotics.com/case-studies/a-leading-pet-e-commerce-companys-ergonomic-revolution-in-warehouse-ops",
+    "pass": 1
+   },
+   {
+    "quote": "“Partnering with Plus One Robotics allowed us to leverage advanced AI vision to improve efficiency, accuracy, and safety.”",
+    "url": "https://www.plusonerobotics.com/case-studies/a-leading-pet-e-commerce-companys-ergonomic-revolution-in-warehouse-ops",
+    "pass": 1
+   },
+   {
+    "quote": "— Director of Automation Engineering, Project Partner",
+    "url": "https://www.plusonerobotics.com/case-studies/a-leading-pet-e-commerce-companys-ergonomic-revolution-in-warehouse-ops",
+    "pass": 1
+   },
+   {
+    "quote": "As a leading e-commerce player in the pet supplies market, this retailer’s rapid growth led to increasing complexity in warehouse operations. Handling heavy items—often bags exceeding 40 pounds—created ongoing challenges for worker safety, efficiency, and retention.",
+    "url": "https://www.plusonerobotics.com/case-studies/a-leading-pet-e-commerce-companys-ergonomic-revolution-in-warehouse-ops",
+    "pass": 1
+   },
+   {
+    "quote": "The company sought a scalable automation solution that could alleviate physical strain without disrupting throughput targets or compromising operational flexibility.",
+    "url": "https://www.plusonerobotics.com/case-studies/a-leading-pet-e-commerce-companys-ergonomic-revolution-in-warehouse-ops",
+    "pass": 1
+   },
+   {
+    "quote": "The retailer implemented a turnkey robotic depalletizing system engineered to handle high-weight SKUs in the pack-out process. Plus One Robotics’ PickOne™ vision software and Yonder™ human-in-the-loop support were deployed to enable real-time exception handling and adaptive performance across variable loads.",
+    "url": "https://www.plusonerobotics.com/case-studies/a-leading-pet-e-commerce-companys-ergonomic-revolution-in-warehouse-ops",
+    "pass": 1
+   },
+   {
+    "quote": "Automated pack-out process reaching up to 98% efficiency, with minimal human intervention",
+    "url": "https://www.plusonerobotics.com/case-studies/a-leading-pet-e-commerce-companys-ergonomic-revolution-in-warehouse-ops",
+    "pass": 1
+   },
+   {
+    "quote": "Continuous learning and adaptation, improving edge-case handling over time",
+    "url": "https://www.plusonerobotics.com/case-studies/a-leading-pet-e-commerce-companys-ergonomic-revolution-in-warehouse-ops",
+    "pass": 1
+   },
+   {
+    "quote": "The successful deployment underscored the customer’s commitment to innovation and operational excellence in addressing workforce health and safety.",
+    "url": "https://www.plusonerobotics.com/case-studies/a-leading-pet-e-commerce-companys-ergonomic-revolution-in-warehouse-ops",
+    "pass": 1
+   },
+   {
+    "quote": "Plus One Robotics, a global solutions provider of a vision-enhanced andAI-based parcel handling platform for intralogistics applications announced today that its",
+    "url": "https://www.plusonerobotics.com/blog/plus-one-robotics-parcel-handling-solutions-recognized-by-dhls-logistics-trend-radar",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Your front-row seat to the future of warehouse automation.",
+    "url": "https://www.plusonerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Industry-leading AI-powered vision solutions for warehouse automation.",
+    "url": "https://www.plusonerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Parcel Induction Case Study for 3PL",
+    "url": "https://www.plusonerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Why fully autonomous warehouses are still out of reach for most",
+    "url": "https://www.plusonerobotics.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Facing the Future: Navigating Labor Shortages with Warehouse Robotics and Logistics Automation",
+    "url": "https://www.plusonerobotics.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "How is Warehouse Automation a Workforce Multiplier?",
+    "url": "https://www.plusonerobotics.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "New Solutions for Supply Chain and Warehouse Automation",
+    "url": "https://www.plusonerobotics.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "MSC Industrial Supply Co. Partners with Plus One Robotics to Support Customer",
+    "url": "https://www.plusonerobotics.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Reach out to our team of experts today and discover how our solutions can meet the specific challenges of automating your warehouse.",
+    "url": "https://www.plusonerobotics.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Robotic Warehouse Automation - Robotic Logistics Solutions | Plus One Robotics",
+    "url": "https://www.plusonerobotics.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "We help customers automate the parcel sortation process, providing reliable high-quality throughput at the fastest rate on the market. With the volume surge and labor shortages showing no abating, businesses seek automated induction and sortation processes to keep up with demand. Our robotic solutions tackle the variability of items in the warehouse - new SKUs are no problem.",
+    "url": "https://www.plusonerobotics.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "For businesses that adopt a follow-the-sun model or offer 24/7 customer service, our solutions provide you with flexibility and scalability for existing and new distribution centers. Ecommerce and direct-to-consumer brands see new SKUs enter the warehouse daily. Our 3D and AI-powered imaging tackles the variability of new packaging, new shapes and new items. Ecommerce and direct-to-consumer brands",
+    "url": "https://www.plusonerobotics.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial suppliers in metalworking and maintenance, repair, and operations (MRO) sectors are facing unprecedented challenges in the supply chain. Disruptions have impacted product availability and created hurdles in distribution and delivery. Our solutions help you gain efficiency advantages while reducing errors to help companies stay in compliance with Service Level Agreements (SLAs).",
+    "url": "https://www.plusonerobotics.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Whatever industry you are in, the expectation for faster delivery continues to rise while labor shortages challenge the ability to meet demand consistently and accurately. The answer can be found by increasing capacity with robotic warehouse automation.",
+    "url": "https://www.plusonerobotics.com/industries-overview",
+    "pass": 1
+   },
+   {
+    "quote": "What is your automation challenge? Put our expertise to the test. Our applications are designed to meet the demands of variability in materials in today’s warehouse environment while providing 24/7 robot supervision and customer service.",
+    "url": "https://www.plusonerobotics.com/industries-overview",
+    "pass": 1
+   },
+   {
+    "quote": "A Leading Pet E-commerce Company’s Ergonomic Revolution in Warehouse Ops",
+    "url": "https://www.plusonerobotics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "MSC Industrial Multiplies Package Sorting Capacity",
+    "url": "https://www.plusonerobotics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Erik Nieves, as Technology Director for Yaskawa Motoman Robotics (2nd largest industrial robot OEM), maps robotics development horsepower in the Americas. He notes that ROS is emerging everywhere.",
+    "url": "https://www.plusonerobotics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Shaun Edwards, Visiting Researcher at Willow Garage, develops software for the first industrial robot controlled with the simple_message protocol, later to become ROS-Industrial (ROS-I).",
+    "url": "https://www.plusonerobotics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "These systems can be configured to handle almost any pallet, packaging or product mix in warehouses across diverse sectors.",
+    "url": "https://www.plusonerobotics.com/depalletizing",
+    "pass": 1
+   },
+   {
+    "quote": "In fully automated environments, the pallet is scanned, and product information sent to the warehouse management system to keep track of inventory.",
+    "url": "https://www.plusonerobotics.com/depalletizing",
+    "pass": 1
+   },
+   {
+    "quote": "Incoming warehouse volumes",
+    "url": "https://www.plusonerobotics.com/depalletizing",
+    "pass": 1
+   },
+   {
+    "quote": "MSC Industrial Multiplies Package Sorting Capacity | Case Studies| Plus One Robotics",
+    "url": "https://www.plusonerobotics.com/case-studies/msc-industrial-multiplies-package-sorting-capacity",
+    "pass": 1
+   },
+   {
+    "quote": "MSC Industrial Multiplies Package Sorting Capacity",
+    "url": "https://www.plusonerobotics.com/case-studies/msc-industrial-multiplies-package-sorting-capacity",
+    "pass": 1
+   },
+   {
+    "quote": "A Leading Pet E-commerce Company’s Ergonomic Revolution in Warehouse Ops | Case Studies| Plus One Robotics",
+    "url": "https://www.plusonerobotics.com/case-studies/a-leading-pet-e-commerce-companys-ergonomic-revolution-in-warehouse-ops",
+    "pass": 1
+   },
+   {
+    "quote": "A Leading Pet E-commerce Company’s Ergonomic Revolution in Warehouse Ops",
+    "url": "https://www.plusonerobotics.com/case-studies/a-leading-pet-e-commerce-companys-ergonomic-revolution-in-warehouse-ops",
+    "pass": 1
+   },
+   {
+    "quote": "A major e-commerce retailer, known for its focus on pet products, faced significant challenges as it scaled its warehouse operations—particularly the physical strain on employees handling heavy items. To address these concerns, the company implemented an advanced robotic depalletizing system powered by Plus One Robotics’ AI vision technology and human-in-the-loop supervision.",
+    "url": "https://www.plusonerobotics.com/case-studies/a-leading-pet-e-commerce-companys-ergonomic-revolution-in-warehouse-ops",
+    "pass": 1
+   },
+   {
+    "quote": "Damaged product on the warehouse floor",
+    "url": "https://www.plusonerobotics.com/case-studies/a-leading-pet-e-commerce-companys-ergonomic-revolution-in-warehouse-ops",
+    "pass": 1
+   },
+   {
+    "quote": "Implemented Yonder to decrease human intervention on the warehouse floor",
+    "url": "https://www.plusonerobotics.com/case-studies/a-leading-pet-e-commerce-companys-ergonomic-revolution-in-warehouse-ops",
+    "pass": 1
+   },
+   {
+    "quote": "As a leading e-commerce player in the pet supplies market, this retailer’s rapid growth led to increasing complexity in warehouse operations. Handling heavy items—often bags exceeding 40 pounds—created ongoing challenges for worker safety, efficiency, and retention.",
+    "url": "https://www.plusonerobotics.com/case-studies/a-leading-pet-e-commerce-companys-ergonomic-revolution-in-warehouse-ops",
+    "pass": 1
+   },
+   {
+    "quote": "According to the Trend Radar, this AI-human collaboration indicates the potential to create new jobs through widespread implementation of robotic solutions in warehouses and manufacturing environments by upskilling existing labor.",
+    "url": "https://www.plusonerobotics.com/blog/plus-one-robotics-parcel-handling-solutions-recognized-by-dhls-logistics-trend-radar",
+    "pass": 1
+   },
+   {
+    "quote": "#IndustrialAutomation",
+    "url": "https://www.youtube.com/watch?v=MYTv2Fq0g58",
+    "pass": 3
+   },
+   {
+    "quote": "417回視聴 • 2026/06/08 • #IndustrialAutomation #AI #SupplyChain",
+    "url": "https://www.youtube.com/watch?v=MYTv2Fq0g58",
+    "pass": 3
+   },
+   {
+    "quote": "Plus One Robotics is a leader in warehouse automation, AI-powered robotics, and parcel handling solutions for logistics, e-commerce, and distribution operations worldwide.",
+    "url": "https://www.youtube.com/watch?v=MYTv2Fq0g58",
+    "pass": 3
+   },
+   {
+    "quote": "In this company overview, learn how Plus One Robotics helps warehouses increase throughput, improve efficiency, reduce labor challenges, and scale operations using advanced robotic picking, induction, depalletizing, and automated parcel sorting technologies.",
+    "url": "https://www.youtube.com/watch?v=MYTv2Fq0g58",
+    "pass": 3
+   },
+   {
+    "quote": "Our intelligent warehouse robotics platform combines computer vision, artificial intelligence, and human-in-the-loop automation to deliver reliable, high-performance solutions trusted by leading global logistics providers, parcel carriers, and Fortune 100 companies.",
+    "url": "https://www.youtube.com/watch?v=MYTv2Fq0g58",
+    "pass": 3
+   },
+   {
+    "quote": "✅ Proven AI-Powered Warehouse Automation",
+    "url": "https://www.youtube.com/watch?v=MYTv2Fq0g58",
+    "pass": 3
+   },
+   {
+    "quote": "Whether you're exploring robotic parcel handling, warehouse automation solutions, fulfillment center robotics, AI-powered logistics technology, or the future of supply chain automation, this video provides an inside look at the team and technology driving innovation at Plus One Robotics.",
+    "url": "https://www.youtube.com/watch?v=MYTv2Fq0g58",
+    "pass": 3
+   },
+   {
+    "quote": "Learn more about our warehouse automation solutions:",
+    "url": "https://www.youtube.com/watch?v=MYTv2Fq0g58",
+    "pass": 3
+   },
+   {
+    "quote": "How BAS Solutions Are Made | Inside Our Factory",
+    "url": "https://www.youtube.com/watch?v=MYTv2Fq0g58",
+    "pass": 3
+   },
+   {
+    "quote": "Get A Grip S02 E09 A Special Preview of an Internal Project and How It Will Optimize the Warehouse",
+    "url": "https://www.youtube.com/watch?v=MYTv2Fq0g58",
+    "pass": 3
+   },
+   {
+    "quote": "Plus One’s customers include logistics and e-commerce leaders in the Fortune 100. The company is headquartered in San Antonio, Texas, and has offices in Boulder, Colo., and the Netherlands.",
+    "url": "https://www.robotics247.com/company/plus_one_robotics",
+    "pass": 3
+   },
+   {
+    "quote": "The Great Exploding Warehouse - How True Human-robot Collaboration Is the Only Solution",
+    "url": "https://www.robotics247.com/company/plus_one_robotics",
+    "pass": 3
+   },
+   {
+    "quote": "New research shows that the received wisdom that automation destroys manual jobs in warehouses is wrong. In fact, automation represents a virtuous circle of warehouse job creation. Download this paper to learn more.",
+    "url": "https://www.robotics247.com/company/plus_one_robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Live demo with Torfresma highlights how intelligent vision and robotics enable reliable, flexible warehouse automation",
+    "url": "https://www.robotics247.com/company/plus_one_robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Company celebrates 10 years of AI-powered warehouse innovation",
+    "url": "https://www.robotics247.com/company/plus_one_robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Experts predict higher autonomous mobile robot usage, warehouse robotics adoption",
+    "url": "https://www.robotics247.com/company/plus_one_robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Automation",
+    "url": "https://www.robotics247.com/company/plus_one_robotics",
+    "pass": 3
+   },
+   {
+    "quote": "makes vision software for robots in warehouses and distribution centers. They give robots the eye-hand coordination to pick and place objects using 3D and AI-powered perception. One of their innovations was created to solve the problems of a mixed pallet - they call it the",
+    "url": "https://www.onlogic.com/customer-stories/plus-one-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "In a warehouse and in shipping, goods are commonly placed on wooden pallets to aid in their stable transportation. A pallet filled with items of a similar size and shape, and with a regular or known pallet pattern is fairly easy for a robotic arm to handle. But as the landscape of shipped goods continues to expand, these types of relatively simple pallets are becoming less common.",
+    "url": "https://www.onlogic.com/customer-stories/plus-one-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "robotic solution for depalletizing mixed pallets called the PickOne Depalletizing Solution. Using artificial intelligence (AI) data, PickOne software commands a robot on how to pick each item and then verifies correct placement. PickOne is the brains for the robot’s “hand-eye coordination” to perform a range of picking and placing tasks in e-commerce fulfillment and warehouse distribution centers.",
+    "url": "https://www.onlogic.com/customer-stories/plus-one-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Advanced Manufacturing",
+    "url": "https://pitchbook.com/profiles/company/183032-02",
+    "pass": 3
+   },
+   {
+    "quote": "Industrial Automation",
+    "url": "https://www.robotics247.com/article/plus_one_robotics_raises_50_million_in_funding_led_by_scale_venture_partner",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Upskilling Employees with Robotics",
+    "url": "https://www.plusonerobotics.com/solutions",
+    "pass": 1
+   },
+   {
+    "quote": "Pennsylvania Facility Turns its Sorter into a 24/7 Revenue Engine",
+    "url": "https://www.plusonerobotics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Scaling Parcel Induction for Carrier Express Delivery with InductOne",
+    "url": "https://www.plusonerobotics.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "First robots deployed in the EU. Erik Nieves named to the board of the RIA. Crystal Parrott joins as VP of Engineering. Raised Series B funding. First office in the Netherlands opened. Peter Pixton joins as CFO.",
+    "url": "https://www.plusonerobotics.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Mixed Case Palletizing is quickly growing to be a normal part of palletizing operations as it allows a company to ship a variety of SKUs for individual orders that may not warrant a full pallet load. The variety of packaging in these pallets typically poses a unique challenge to automation.",
+    "url": "https://www.plusonerobotics.com/depalletizing",
+    "pass": 1
+   },
+   {
+    "quote": "PickOne sends the robot controller an array of pick locations",
+    "url": "https://www.plusonerobotics.com/depalletizing",
+    "pass": 1
+   },
+   {
+    "quote": "When parcels arrive in a chute or on a conveyor, the PickOne Perception Kit images the items.",
+    "url": "https://www.plusonerobotics.com/solutions/parcel-induction",
+    "pass": 1
+   },
+   {
+    "quote": "PickOne sends the robot controller an array of locations and data for each pickable item via the PickOne API. If no items in the scene have a high enough confidence level, there are two options.",
+    "url": "https://www.plusonerobotics.com/solutions/parcel-induction",
+    "pass": 1
+   },
+   {
+    "quote": "In 2019, MSC deployed Plus One Robotics’ 3D-vision and AI-enabled robotic packaging system at its customer fulfillment center in Harrisburg, Pennsylvania to enhance efficiencies.",
+    "url": "https://www.plusonerobotics.com/case-studies/msc-industrial-multiplies-package-sorting-capacity",
+    "pass": 1
+   },
+   {
+    "quote": "A major e-commerce retailer, known for its focus on pet products, faced significant challenges as it scaled its warehouse operations—particularly the physical strain on employees handling heavy items. To address these concerns, the company implemented an advanced robotic depalletizing system powered by Plus One Robotics’ AI vision technology and human-in-the-loop supervision.",
+    "url": "https://www.plusonerobotics.com/case-studies/a-leading-pet-e-commerce-companys-ergonomic-revolution-in-warehouse-ops",
+    "pass": 1
+   },
+   {
+    "quote": "“DHL is a trailblazer for innovative automation solutions in the logistics industry,” said Robert Nilsson, Chief Revenue Officer at Plus OneRobotics. “To have our parcel handling solutions be recognized in theirLogistics Trend Radar as highly impactful to the future of logistics is an honor. We’re committed to improving our solutions every day and value this recognition.”",
+    "url": "https://www.plusonerobotics.com/blog/plus-one-robotics-parcel-handling-solutions-recognized-by-dhls-logistics-trend-radar",
+    "pass": 1
+   },
+   {
+    "quote": "Our intelligent warehouse robotics platform combines computer vision, artificial intelligence, and human-in-the-loop automation to deliver reliable, high-performance solutions trusted by leading global logistics providers, parcel carriers, and Fortune 100 companies.",
+    "url": "https://www.youtube.com/watch?v=MYTv2Fq0g58",
+    "pass": 3
+   },
+   {
+    "quote": "重要な業務の一つが、中南米での子会社設立です",
+    "url": "https://techblitz.com/startup-interview/plus-one-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "北米向け産業用ロボットおよびロボット・オートメーション・ソリューションを展開する安川電機の米国法人で24年以上勤務するなかで、メキシコ子会社の立ち上げや技術ロードマップの責任者を務めた後、2016年に",
+    "url": "https://techblitz.com/startup-interview/plus-one-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "いきなり子会社を作るよりは、ある程度の市場を確立してから、直接投資を行えばいいと思っています",
+    "url": "https://techblitz.com/startup-interview/plus-one-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Upskilling Employees with Robotics",
+    "url": "https://www.robotics247.com/company/plus_one_robotics",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/183032-02",
+    "pass": 3
+   },
+   {
+    "quote": "Corporate Backed or Acquired",
+    "url": "https://pitchbook.com/profiles/company/183032-02",
+    "pass": 3
+   },
+   {
+    "quote": "Plus One Robotics has 66 total employees.",
+    "url": "https://pitchbook.com/profiles/company/183032-02",
+    "pass": 3
+   },
+   {
+    "quote": "What is Plus One Robotics’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/183032-02",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Plus One Robotics is",
+    "url": "https://pitchbook.com/profiles/company/183032-02",
+    "pass": 3
+   },
+   {
+    "quote": "SoftBank’s proposed $5.4B acquisition of ABB Robotics blocked by China",
+    "url": "https://www.robotics247.com/article/plus_one_robotics_raises_50_million_in_funding_led_by_scale_venture_partner",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Erik Nieves, as Technology Director for Yaskawa Motoman Robotics (2nd largest industrial robot OEM), maps robotics development horsepower in the Americas. He notes that ROS is emerging everywhere.",
+    "url": "https://www.plusonerobotics.com/about",
+    "pass": 1
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "電子機器の組み立てロボットは、米国ではあまり展開されておらず、マレーシアや日本などアジアで需要があるものです",
+    "url": "https://techblitz.com/startup-interview/plus-one-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "米国ではDexterityやCovariant、欧州ではFizyr、日本にはMujinという競合がいます",
+    "url": "https://techblitz.com/startup-interview/plus-one-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "日本はまだ成長する余地がある市場なので、Mujinが1社で勝者になることはないと考えています",
+    "url": "https://techblitz.com/startup-interview/plus-one-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "―日本市場に展開する際、日本企業とどのようなパートナーシップが必要と考えていますか",
+    "url": "https://techblitz.com/startup-interview/plus-one-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "おそらく、私たちの顧客が日本で事業を展開する際に、米国で利用しているものと同じシステムを使いたいというでしょう",
+    "url": "https://techblitz.com/startup-interview/plus-one-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "そうすれば、日本市場に参入することとなるでしょう",
+    "url": "https://techblitz.com/startup-interview/plus-one-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "また私は安川電機時代から日本の商社とも関係を持っていました",
+    "url": "https://techblitz.com/startup-interview/plus-one-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "「電力の変化」をどう読むか 東京ガスも出資する米AmperonのAI予測の仕組み",
+    "url": "https://techblitz.com/startup-interview/plus-one-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "「電力の変化」をどう読むか 東京ガスも出資する米AmperonのAI予測の仕組みの詳細を見る",
+    "url": "https://techblitz.com/startup-interview/plus-one-robotics/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Plus One Robotics : Robotic & Automated Material Handling ... — Plus One Robotics : Robotic & Automated Material Handling ... Plus One Robotics https://www.plusonerobotics.com",
+    "url": "https://www.plusonerobotics.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Plus One Robotics | LinkedIn — Plus One Robotics | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/plusone-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "2026 - Plus One Robotics_Company Overview_Who We Are — 2026 - Plus One Robotics_Company Overview_Who We Are YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=MYTv2Fq0g58",
+    "pass": 3
+   },
+   {
+    "quote": "人が統治する 物流倉庫向けソリューションの Plus One Robotics — 人が統治する 物流倉庫向けソリューションの Plus One Robotics TECHBLITZ https://techblitz.com > startup-interview > plus-one-robotics",
+    "url": "https://techblitz.com/startup-interview/plus-one-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Press - Plus One Robotics — Press - Plus One Robotics Plus One Robotics https://www.plusonerobotics.com > pr...",
+    "url": "https://www.plusonerobotics.com/press",
+    "pass": 3
+   },
+   {
+    "quote": "Plus One Robotics (@plusonerobotics) - Instagram — Plus One Robotics (@plusonerobotics) - Instagram Instagram https://www.instagram.com > plusone...",
+    "url": "https://www.instagram.com/plusonerobotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Plus One Robotics - YouTube — Plus One Robotics - YouTube YouTube https://www.youtube.com > plusoner...",
+    "url": "https://www.youtube.com/c/plusonerobotics",
+    "pass": 3
+   },
+   {
+    "quote": "Plus One Robotics Inc. - Robotics 24/7 — Plus One Robotics Inc. - Robotics 24/7 Robotics 24/7 https://www.robotics247.com > plus_...",
+    "url": "https://www.robotics247.com/company/plus_one_robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Plus One Robotics : Goods to Person | Videos — Plus One Robotics : Goods to Person | Videos Plus One Robotics https://www.plusonerobotics.com > videos > plus-one-rob...",
+    "url": "https://www.plusonerobotics.com/videos/plus-one-robotics-goods-to-person",
+    "pass": 3
+   },
+   {
+    "quote": "Plus One Robotics : Expanding and Accelerating Parcel ... — Plus One Robotics : Expanding and Accelerating Parcel ... SolidWorks https://www.solidworks.com > plus-o...",
+    "url": "https://www.solidworks.com/customer-story/plus-one-robotics-expanding-and-accelerating-parcel-handling-robotics-development/",
+    "pass": 3
+   },
+   {
+    "quote": "Plus One Robotics 2026 Company Profile - PitchBook — Plus One Robotics 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/183032-02",
+    "pass": 3
+   },
+   {
+    "quote": "Plus One Robotics - Overview, News & Similar companies — Plus One Robotics - Overview, News & Similar companies ZoomInfo https://www.zoominfo.com > plus-on...",
+    "url": "https://www.zoominfo.com/c/plus-one-robotics-inc/443514032",
+    "pass": 3
+   },
+   {
+    "quote": "Plus One Robotics - Crunchbase Company Profile & Funding — Plus One Robotics - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > plus-o...",
+    "url": "https://www.crunchbase.com/organization/plus-one-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Plus One Robotics raises $50 million in funding , led by Scale ... — Plus One Robotics raises $50 million in funding , led by Scale ... Robotics 24/7 https://www.robotics247.com > article",
+    "url": "https://www.robotics247.com/article/plus_one_robotics_raises_50_million_in_funding_led_by_scale_venture_partner",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us during office hours | Mon - Fri, 8:30am to 5:30pm (ET)",
+    "url": "https://www.onlogic.com/customer-stories/plus-one-robotics/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/183032-02",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Plus One Robotics | LinkedIn Plus One Robotics | LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/plusone-robotics",
+    "pass": 3
+   },
+   {
+    "quote": "Erik Nieves - Founder and CEO at Plus One Robotics | LinkedIn Erik Nieves - Founder and CEO at Plus One Robotics | LinkedIn LinkedIn https://www.linkedin.com > eriknieves",
+    "url": "https://www.linkedin.com/in/eriknieves",
+    "pass": 3
+   },
+   {
+    "quote": "Shaun Edwards - Plus One Robotics | LinkedIn Shaun Edwards - Plus One Robotics | LinkedIn LinkedIn https://www.linkedin.com > ...",
+    "url": "https://www.linkedin.com/in/shaun-edwards-5764a92",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Plus One Robotics | San Antonio TX - Facebook Plus One Robotics | San Antonio TX - Facebook Facebook https://www.facebook.com > ... > Robotics Company",
+    "url": "https://www.facebook.com/plusonerobotics/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.plusonerobotics.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plusonerobotics.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plusonerobotics.com/solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plusonerobotics.com/industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plusonerobotics.com/industries-overview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plusonerobotics.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plusonerobotics.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plusonerobotics.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plusonerobotics.com/depalletizing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plusonerobotics.com/solutions/parcel-induction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plusonerobotics.com/case-studies/msc-industrial-multiplies-package-sorting-capacity",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plusonerobotics.com/case-studies/a-leading-pet-e-commerce-companys-ergonomic-revolution-in-warehouse-ops",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plusonerobotics.com/blog/plus-one-robotics-parcel-handling-solutions-recognized-by-dhls-logistics-trend-radar",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.linkedin.com/company/plusone-robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=MYTv2Fq0g58",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://techblitz.com/startup-interview/plus-one-robotics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/plusone-robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=MYTv2Fq0g58",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://techblitz.com/startup-interview/plus-one-robotics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/plusone-robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.youtube.com/c/plusonerobotics",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.robotics247.com/company/plus_one_robotics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.solidworks.com/customer-story/plus-one-robotics-expanding-and-accelerating-parcel-handling-robotics-development/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.onlogic.com/customer-stories/plus-one-robotics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/plusone-robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.solidworks.com/customer-story/plus-one-robotics-expanding-and-accelerating-parcel-handling-robotics-development/",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/plusone-robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/183032-02",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/plus-one-robotics-inc/443514032",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/plus-one-robotics",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robotics247.com/article/plus_one_robotics_raises_50_million_in_funding_led_by_scale_venture_partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/plusone-robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/eriknieves",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/shaun-edwards-5764a92",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/plusonerobotics/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/plusone-robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/plusone-robotics",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Plus One Robotics 日本 導入",
+   "results": [
+    "https://www.plusonerobotics.com/",
+    "https://www.linkedin.com/company/plusone-robotics",
+    "https://www.youtube.com/watch?v=MYTv2Fq0g58",
+    "https://techblitz.com/startup-interview/plus-one-robotics/",
+    "https://www.plusonerobotics.com/press",
+    "https://www.youtube.com/watch?v=PMiRaSO35AM",
+    "https://coe.northeastern.edu/academic-programs/plusone-robo/",
+    "https://www.solidworks.com/ja/customer-story/plus-one-robotics-expanding-and-accelerating-parcel-handling-robotics-development/",
+    "https://www.logi-today.com/533917",
+    "https://www.plusonerobotics.com/inductone"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Plus One Robotics 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.plusonerobotics.com/",
+    "https://www.linkedin.com/company/plusone-robotics",
+    "https://www.youtube.com/watch?v=MYTv2Fq0g58",
+    "https://techblitz.com/startup-interview/plus-one-robotics/",
+    "https://www.instagram.com/plusonerobotics/",
+    "https://tracxn.com/d/companies/plusone-robotics/__8FTGOq6EOr9mIaBrhZTcPek5JUCKg5QMrZqbkbHDf3Q",
+    "https://www.supplychain247.com/company/plus_one_robotics",
+    "https://www.solidworks.com/ja/customer-story/plus-one-robotics-expanding-and-accelerating-parcel-handling-robotics-development/",
+    "https://www.plusonerobotics.com/contact",
+    "https://www.roboticsplus.co.nz/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Plus One Robotics Japan",
+   "results": [
+    "https://www.linkedin.com/company/plusone-robotics",
+    "https://www.plusonerobotics.com/",
+    "https://www.youtube.com/c/plusonerobotics",
+    "https://www.robotics247.com/company/plus_one_robotics",
+    "https://www.plusonerobotics.com/videos/plus-one-robotics-goods-to-person",
+    "https://www.solidworks.com/customer-story/plus-one-robotics-expanding-and-accelerating-parcel-handling-robotics-development/",
+    "https://www.automate.org/companies/plus-one-robotics",
+    "https://www.crunchbase.com/organization/plus-one-robotics",
+    "https://www.plusonerobotics.com/about",
+    "https://jp.linkedin.com/company/plusone-robotics"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Plus One Robotics manufacturing customer case study",
+   "results": [
+    "https://www.plusonerobotics.com/",
+    "https://www.solidworks.com/customer-story/plus-one-robotics-expanding-and-accelerating-parcel-handling-robotics-development/",
+    "https://www.onlogic.com/customer-stories/plus-one-robotics/",
+    "https://www.linkedin.com/company/plusone-robotics",
+    "https://www.youtube.com/c/plusonerobotics",
+    "https://www.roboticstomorrow.com/company_directory/plus-one-robotics/14285",
+    "https://www.robotics247.com/company/plus_one_robotics",
+    "https://www.automate.org/robotics/videos/plus-one-robotics-hq-tour",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/plus-one-case-study.pdf",
+    "https://www.plusonerobotics.com/videos/customer-case-study-pitney-bowes-bwi"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Plus One Robotics white label OR reseller OR partner program",
+   "results": [
+    "https://www.plusonerobotics.com/",
+    "https://www.solidworks.com/customer-story/plus-one-robotics-expanding-and-accelerating-parcel-handling-robotics-development/",
+    "https://www.linkedin.com/company/plusone-robotics",
+    "https://pitchbook.com/profiles/company/183032-02",
+    "https://www.plusonerobotics.com/videos/plus-one-robotics-goods-to-person",
+    "https://www.motoman.com/en-us/integration/partners/plus-one-robotics",
+    "https://www.roboticstomorrow.com/company_directory/plus-one-robotics/14285",
+    "https://www.youtube.com/watch?v=MYTv2Fq0g58",
+    "https://www.therobotreport.com/plus-one-tompkins-partner-on-autonomous-picking-robot/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Plus One Robotics founded funding employees revenue",
+   "results": [
+    "https://www.zoominfo.com/c/plus-one-robotics-inc/443514032",
+    "https://www.crunchbase.com/organization/plus-one-robotics",
+    "https://www.robotics247.com/article/plus_one_robotics_raises_50_million_in_funding_led_by_scale_venture_partner",
+    "https://www.plusonerobotics.com/press",
+    "https://pitchbook.com/profiles/company/183032-02",
+    "https://growjo.com/company/Plus_One_Robotics",
+    "https://www.linkedin.com/company/plusone-robotics",
+    "https://equityzen.com/company/plusonerobotics/",
+    "https://tracxn.com/d/companies/plusone-robotics/__8FTGOq6EOr9mIaBrhZTcPek5JUCKg5QMrZqbkbHDf3Q",
+    "https://tracxn.com/d/companies/plusonerobotics/__8FTGOq6EOr9mIaBrhZTcPek5JUCKg5QMrZqbkbHDf3Q"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Plus One Robotics",
+   "results": [
+    "https://note.com/gen_ai/n/n6e9bf5c154b2?hl=en",
+    "https://note.com/zhenren63/n/n45ed4fcd876d?hl=en",
+    "https://note.com/takizo540/n/n6388d9868b5f",
+    "https://note.com/kmoriyama/n/n8d4aa5aee0f6?hl=en",
+    "https://note.com/yusuke_webmarke/n/ne31c3374d407?hl=en",
+    "https://note.com/kmoriyama/n/n8feca94558a1?hl=en",
+    "https://note.com/betaitohuman/n/n2140defc4ced?hl=en",
+    "https://note.com/kenconai/n/n5b78fbd82680?hl=en",
+    "https://note.com/tasty_allium5093/n/nfde0881e0784?hl=en",
+    "https://note.com/light_garlic6863/n/n661e3db26596?hl=en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com Plus One Robotics",
+   "results": [
+    "https://x.com/i/article/2113602548502561166",
+    "https://x.com/TheHumanoidHub/status/2091386008793411642",
+    "https://x.com/RoboStrategy/article/2098419340701732974",
+    "https://x.com/ropedia_ai/status/2112194450915262525",
+    "https://x.com/KyleReidhead/status/2095512357963432036",
+    "https://x.com/ecovacsrobotics",
+    "https://x.com/heyshrutimishra/status/2119822586393575547",
+    "https://x.com/lukas_m_ziegler/status/2116398516952269206",
+    "https://x.com/bearrobotics",
+    "https://x.com/RoboStrategy/article/2081739713430409519"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com Plus One Robotics",
+   "results": [
+    "https://www.linkedin.com/company/plusone-robotics",
+    "https://www.linkedin.com/in/eriknieves",
+    "https://www.linkedin.com/in/shaun-edwards-5764a92",
+    "https://www.linkedin.com/in/christina-gomez-terry-8641665",
+    "https://www.linkedin.com/in/joe-brandt-ba51b5a3",
+    "https://www.linkedin.com/in/john-crimmins-22a47237",
+    "https://www.linkedin.com/posts/plusone-robotics_2026-plus-one-roboticscompany-overviewwho-activity-7496563011118174208-YvGt",
+    "https://www.linkedin.com/in/ian-deliz-a641a5180",
+    "https://www.linkedin.com/in/wayne-kirk-8b7782113",
+    "https://www.linkedin.com/in/jimhaws"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:facebook.com Plus One Robotics",
+   "results": [
+    "https://www.facebook.com/plusonerobotics/",
+    "https://www.facebook.com/WeatherfordCollege/posts/wc-students-will-gain-additional-hands-on-experience-in-robotics-via-a-sprout-hu/1586876233480284/",
+    "https://www.facebook.com/MachineDesignMagazine/posts/a-conversation-with-robcos-arjan-van-staveren-on-why-the-future-of-factory-autom/1573215948176293/",
+    "https://www.facebook.com/dbr77robotics/posts/ten-minutesthats-how-long-the-team-had-after-another-robot-smashed-their-intake-/1743025687563625/",
+    "https://www.facebook.com/PortSanAntonioTX/posts/congratulations-to-one-of-our-own-stephanie-garcia-has-for-several-years-been-ha/869752671846782/",
+    "https://www.facebook.com/twtexplore/posts/fedex-is-expanding-its-use-of-robots-to-help-tackle-one-of-the-toughest-jobs-in-/1713526904113087/",
+    "https://www.facebook.com/UnitedRobotics.Group/posts/one-robot-multiple-solutions-from-laboratory-automation-and-internal-logistics-t/1528848376059621/",
+    "https://www.facebook.com/scootaround/posts/so-much-to-see-at-the-pack-expo-internationalwith-robotics-automation-packaging-/1543210717823691/",
+    "https://www.facebook.com/DigitalTrends/posts/fedex-wants-to-start-delivering-your-packages-via-robots/10158017469906133/",
+    "https://www.facebook.com/pages/Plus_One-Robotics/259739604754778/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Plus One Robotics note 社長",
+   "results": [
+    "https://www.plusonerobotics.com/about",
+    "https://www.linkedin.com/company/plusone-robotics",
+    "https://www.youtube.com/watch?v=MYTv2Fq0g58",
+    "https://www.scalevp.com/blog/announcing-our-investment-in-plus-one-robotics",
+    "https://www.therobotreport.com/plus-one-robotics-raises-50-m-series-c-funding-round/",
+    "https://www.robotics247.com/article/plus_one_robotics_ceo_explains_how_company_survived_silicon_valley_bank_failure_promat_2023/motion_control",
+    "https://www.businesswire.com/news/home/20230306005881/en/Plus-One-Robotics-Raises-%2450-Million-in-Funding-Led-by-Scale-Venture-Partners-to-Capitalize-on-%24128-Billion-Market-Opportunity",
+    "https://pitchbook.com/profiles/company/183032-02",
+    "https://www.linkedin.com/in/eriknieves",
+    "https://www.plusonerobotics.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Plus One Robotics X 投稿",
+   "results": [
+    "https://www.plusonerobotics.com/",
+    "https://www.youtube.com/c/plusonerobotics",
+    "https://www.linkedin.com/company/plusone-robotics",
+    "https://www.plusonerobotics.com/videos/plus-one-robotics-goods-to-person",
+    "https://www.solidworks.com/customer-story/plus-one-robotics-expanding-and-accelerating-parcel-handling-robotics-development/",
+    "https://www.automate.org/companies/plus-one-robotics",
+    "https://www.youtube.com/watch?v=MYTv2Fq0g58",
+    "https://www.plusonerobotics.com/videos/introducing-inductone-by-plus-one-robotics",
+    "https://equityzen.com/company/plusonerobotics/",
+    "https://x.com/PlusOneRobotics"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部24頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部24頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部24頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部24頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式13頁／PDF・画像0件／外部24頁・検索12回）"
+ }
+}

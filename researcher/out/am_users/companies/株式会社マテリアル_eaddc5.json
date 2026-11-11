@@ -1,0 +1,1610 @@
+{
+ "name": "株式会社マテリアル",
+ "aliases": [],
+ "context": "ipros_all:単品",
+ "researched_at": "2026-11-11T10:50:18.988299+00:00",
+ "official_url": "https://www.material-web.net",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役　細貝　龍之介",
+    "url": "https://www.material-web.net/company.html",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "本社 〒144-0045    東京都大田区南六郷3-22-11 ﾃｸﾆｶﾙｾﾝﾀ- 〒144-0045　東京都大田区南六郷3-16-17 ﾌﾟﾚｰﾄﾌｧｸﾄﾘｰ 〒144-0045    東京都大田区南六郷2-34-21 第三工場 〒144-0045　東京都大田区南六郷3-14-1",
+    "url": "https://www.material-web.net/company.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "30名",
+    "url": "https://www.material-web.net/company.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "AM関連": [
+   {
+    "quote": "{\"articleType\":\"1\",\"limit_article_num\":\"4\",\"article_disp_offset\":\"0\",\"article_disp_offset_num\":\"\",\"article_new_offset\":\"0\",\"article_new_offset_num\":\"\",\"blogs\":[{\"sid\":\"6HZjxxfmO\",\"categories\":\"\",\"tags\":\"\",\"order\":\"newer\",\"name\":\"blog_blog\"},{\"sid\":\"js_7nqamU8h2\",\"categories\":\"\",\"tags\":\"\",\"order\":\"newer\",\"name\":\"マテリアル お知らせ\",\"pathToFolder\":\"./news/\",\"topfile\":\"top.html\",\"rss\":\"0\"}]}",
+    "url": "https://www.material-web.net/",
+    "pass": 1
+   },
+   {
+    "quote": ",http://gdata.youtube.com/feeds/api/videos/gS8xDt6EYA0,,{\"playerWidth\":\"1000\",\"useCustom\":true,\"autoPlay\":false,\"autoLoop\":false,\"autoNext\":false,\"quality\":\"default\",\"qualityName\":\"自動\",\"coverImage\":\"\"}",
+    "url": "https://www.material-web.net/",
+    "pass": 1
+   },
+   {
+    "quote": "同時５軸CADCAM",
+    "url": "https://www.material-web.net/machineries/facility.html",
+    "pass": 1
+   },
+   {
+    "quote": "試作・小ロット切削加工｜1個から金属・樹脂部品を製作 - 【3Dプリンター】アリエル｜製作依頼は出力／印刷サービス会社｜3D造形品・商品試作・見本品・特注品作り）、 3Dデータ作成～試作・製作・後加工、安く早くOne Stop対応！シリコンゴム,ABS,PC,PP,PLAプラスチック合成樹脂やアルミ,チタン,ステンレスSUS、豊富な材料素材で3Dプリンター／光造形、試作品・本生産品の制作",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "クラウド造形®（登録商標）今直ぐ自席から見積り相談",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "「一括依頼」3Dデータ／3D造形／磨き塗装",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "３Ｄ造形センター®（登録商標）｜造る／創れる？3Dプリンター",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "「3D造形センター®」とは",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "「3Dプリンター」だから作れる！",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "「3Dプリンタ―」作れる？金額・工期？",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "大型3Dプリンター",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "フード3Dプリンター",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "３Ｄ造形センター®",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "【概要】3Dプリンター・3D造形・光造形のj辞典／FAQ",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "3D造形センター®に関するFAQ",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "【お困りごと】解決センター Q&A ～クラウド造形®くん～",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "「金属3Dプリンターで作りたい」",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター｜試作品",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "【クラウド造形®】どのような現場で活用される？製作の事例",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "選べる納期・コストプラン活用事例｜早く・安く3D造形",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "大型3Dプリンター｜大型造形・分割造形・一体成形の事例",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "海外・日本国外｜グローバル対応の3D造形・加工事例",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "FRP（繊維強化プラスチック｜丈夫で軽い大きな造形事例",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "【お困りごと解決】3Dプリンター／3Dデータ",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "3Dスキャナー・ソフト、3Dプリンター設備品",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "【市場状況】3Dプリンター／光造形機",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "【工法辞典】製造／加工！3Dプリント／3D造形",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "中空構造｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "Campaign Asia Pacific「ジャパンPRエージェンシー・オブ・ザ・イヤー」受賞",
+    "url": "http://materialpr.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "Campaign Agency of the year GLOBAL PR Agency部門 ブロンズ受賞",
+    "url": "http://materialpr.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "アンビエントオクルージョン（Ambient Occlusion）",
+    "url": "https://note.com/yuta_3dcg/n/n7ac9a4657df9",
+    "pass": 3
+   },
+   {
+    "quote": "ambient CG \"Diamond Plate 006 C\"",
+    "url": "https://note.com/yuta_3dcg/n/n7ac9a4657df9",
+    "pass": 3
+   },
+   {
+    "quote": "AMD MaterialX Library",
+    "url": "https://note.com/dftalk/n/na6c1c6fcd3b7",
+    "pass": 3
+   },
+   {
+    "quote": "以下は、AMDが公開しているMaterialX Libraryで特徴的なものを幾つかレンダリングしてみたものです",
+    "url": "https://note.com/dftalk/n/na6c1c6fcd3b7",
+    "pass": 3
+   },
+   {
+    "quote": "AMD MaterialX Library",
+    "url": "https://note.com/dftalk/n/n55483de2bf3e",
+    "pass": 3
+   },
+   {
+    "quote": "以下は、AMDが公開しているMaterialX Libraryで特徴的なものを幾つかに対して、レンダラ固有係数を適用した数値を設定したものをレンダリングしました",
+    "url": "https://note.com/dftalk/n/n55483de2bf3e",
+    "pass": 3
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "合った製品をご提供できるように高精度、高品質を意識し、信頼度の高い",
+    "url": "https://www.material-web.net/service/top.html",
+    "pass": 1
+   },
+   {
+    "quote": "検査・組立エリアと加工エリアを分けることによって、製品への",
+    "url": "https://www.material-web.net/service/design_assembly/pg96.html",
+    "pass": 1
+   },
+   {
+    "quote": "試作・小ロット切削加工とは、製品開発時の試作品や、数個～数百個程度の少量部品を、金属や樹脂などの材料から切削して製作する加工方法です",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "新しい製品を開発するとき、いきなり大量生産を開始するのではなく、まず実物を作って、",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "製品開発において、試作品を実際に製作することには大きな意味があります",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "というサイクルを回すことが、製品開発では重要になります",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "というように、製品開発の進行に合わせて数量を増やすことがあります",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "製品発売前に、実物を製作して設計を確認します",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "既存製品の形状変更や仕様変更を行う際の試作品を製作します",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "標準品では対応できない仕様の製品を製作します",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "金属部品の試作では、実際に製品で使用する材料に近い材料から加工することが重要になる場合があります",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "製品開発では、",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "、製品の数量や用途に応じたものづくりを検討できます",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "「新製品の部品をまず1個作って確認したい」",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "製品や業界によって「小ロット」の定義は異なりますが、100個程度の部品でも、切削加工による少量生産を検討するケースがあります",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "超硬製品、高機能製品の製造・販売",
+    "url": "https://www.mmc.co.jp/corporate/ja/company/aboutus/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "多様な精密部品の試作開発から量産までをご提供いたします",
+    "url": "https://www.material-web.net/service/top.html",
+    "pass": 1
+   },
+   {
+    "quote": "組立図面、製作図面の製図、試作、製造等を行います",
+    "url": "https://www.material-web.net/service/top.html",
+    "pass": 1
+   },
+   {
+    "quote": "試作開発のご相談からCADデータからの製図化まで幅広くご対応いたします",
+    "url": "https://www.material-web.net/service/design_assembly/pg96.html",
+    "pass": 1
+   },
+   {
+    "quote": "試作から量産まで 全国どこでも対応いたします 全国対応",
+    "url": "https://www.material-web.net/_src/98263668/material_flyer0260701.pdf?v=1792461793229",
+    "pass": 2
+   },
+   {
+    "quote": "1個の試作から量産まで、",
+    "url": "https://www.material-web.net/_src/98263668/material_flyer0260701.pdf?v=1792461793229",
+    "pass": 2
+   },
+   {
+    "quote": "試作・小ロット切削加工｜1個から金属・樹脂部品を製作 - 【3Dプリンター】アリエル｜製作依頼は出力／印刷サービス会社｜3D造形品・商品試作・見本品・特注品作り）、 3Dデータ作成～試作・製作・後加工、安く早くOne Stop対応！シリコンゴム,ABS,PC,PP,PLAプラスチック合成樹脂やアルミ,チタン,ステンレスSUS、豊富な材料素材で3Dプリンター／光造形、試作品・本生産品の制作",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "【少量・中量・大量】１個～多量ロット生産",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "お得なプラン、納期プラン／試作+量産プラン",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "金属3Dプリンター｜試作品",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "【特注品】ワンオフ、オリジナルを１個",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "ノベルティグッズ｜１個の試作～本生産",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "【応急品】緊急対応、小ロット／必要数の製作",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "オンデマンド生産｜金型不要・1個からの少量多品種",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "金属・樹脂の切削加工｜マシニング・5軸加工・高精度試作",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "ロット生産／大量生産｜試作〜本生産・金型レス対応",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "医療現場の事例｜適合素材の医療器具、１個の試作",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "少量ロット生産｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "【試作・モノづくり辞典】造る／創れる｜お客様のニーズに応える",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "特注品｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "オーダーメイド｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "小ロット生産｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "少量多品種生産｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "試作・小ロット切削加工｜1個から金属・樹脂部品を製作",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "試作・小ロット切削加工とは、製品開発時の試作品や、数個～数百個程度の少量部品を、金属や樹脂などの材料から切削して製作する加工方法です",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "また、量産するほど数量は必要ないものの、3Dプリントではなく実際に使用する金属や樹脂材料から部品を作りたい場合にも、小ロット切削加工が適しています",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "1個からでも特注形状を製作できる",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "製品開発において、試作品を実際に製作することには大きな意味があります",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "設計 → 試作 → 評価 → 設計変更 → 再試作",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "切削加工による試作では、量産品と同じ、または近い材料から部品を製作できるため、",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "1個から試作切削加工",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "そのひとつひとつのオーダーメイドなストーリーこそが、",
+    "url": "http://materialpr.jp/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "下町ボブスレーやスケートボード、産学連携でのロケットの開発",
+    "url": "https://www.material-web.net/service/top.html",
+    "pass": 1
+   },
+   {
+    "quote": "OA機器 カメラ機器 測定機器 自動車機器 通信機器 医療機器",
+    "url": "https://www.material-web.net/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "スティックの共同開発：金型製作 材質アルミ（A2017）切削加工",
+    "url": "https://www.material-web.net/service/development_cooperation/top.html",
+    "pass": 1
+   },
+   {
+    "quote": "ハイブリッドロケット製作協力：分離機構設計協力および部品製作 材質アルミ（A7075）切削加工",
+    "url": "https://www.material-web.net/service/development_cooperation/top.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙防衛産業をはじめ各産業から安全性と信頼性を実現する為に、",
+    "url": "https://www.material-web.net/service/process/pg105.html",
+    "pass": 1
+   },
+   {
+    "quote": "マテリアルはISO 9001品質マネジメントに加えJIS Q 9100航空宇宙防衛",
+    "url": "https://www.material-web.net/service/process/pg105.html",
+    "pass": 1
+   },
+   {
+    "quote": "【対応エリア】3Dスキャン、ドローン撮影",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "【遠隔モノづくり】日本全国、海外・宇宙でも",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "金型／樹脂型、成型／生産、見積り",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "機器・器具｜医療機関／医薬品医療機器等法（薬機法）",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "オンデマンド生産｜金型不要・1個からの少量多品種",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "ロット生産／大量生産｜試作〜本生産・金型レス対応",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "医療現場の事例｜適合素材の医療器具、１個の試作",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "中空構造｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "肉厚／シェル｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "薄肉／最小肉厚｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "抜き穴／排出口｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "プラスチック樹脂素材｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "汎用プラスチックプラスチック樹脂素材｜3Dプリンター・光造形・切削・金型）製作依頼は加工サービス会社",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "合成樹脂樹脂素材｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "シリコン・ゴム樹脂素材｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "透明樹脂樹脂素材｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "アクリル樹脂素材｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "メタル素材｜3Dプリンター・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "金属材料｜3Dプリンター・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "ABS樹脂素材｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "PP樹脂素材｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "PA樹脂素材｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "PE樹脂素材｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "PC樹脂素材｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "POM樹脂素材｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "スケートボードの共同設計開発：部品制作 材質アルミ（A2017）切削加工",
+    "url": "https://www.material-web.net/service/development_cooperation/top.html",
+    "pass": 1
+   },
+   {
+    "quote": "スティックの共同開発：金型製作 材質アルミ（A2017）切削加工",
+    "url": "https://www.material-web.net/service/development_cooperation/top.html",
+    "pass": 1
+   },
+   {
+    "quote": "ハイブリッドロケット製作協力：分離機構設計協力および部品製作 材質アルミ（A7075）切削加工",
+    "url": "https://www.material-web.net/service/development_cooperation/top.html",
+    "pass": 1
+   },
+   {
+    "quote": "・材質、寸法、個数、納期",
+    "url": "https://www.material-web.net/service/selling/pg99.html",
+    "pass": 1
+   },
+   {
+    "quote": "材質・寸法・数量・キズ・ダコンの検査を行います",
+    "url": "https://www.material-web.net/service/selling/pg99.html",
+    "pass": 1
+   },
+   {
+    "quote": "掲載されていない材質・寸法等はお気軽にお問合せ下さい",
+    "url": "https://www.material-web.net/service/selling/pg102.html",
+    "pass": 1
+   },
+   {
+    "quote": "鉄・樹脂10％",
+    "url": "https://www.material-web.net/_src/98263668/material_flyer0260701.pdf?v=1792461793229",
+    "pass": 2
+   },
+   {
+    "quote": "試作・小ロット切削加工｜1個から金属・樹脂部品を製作 - 【3Dプリンター】アリエル｜製作依頼は出力／印刷サービス会社｜3D造形品・商品試作・見本品・特注品作り）、 3Dデータ作成～試作・製作・後加工、安く早くOne Stop対応！シリコンゴム,ABS,PC,PP,PLAプラスチック合成樹脂やアルミ,チタン,ステンレスSUS、豊富な材料素材で3Dプリンター／光造形、試作品・本生産品の制作",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "金型／樹脂型、成型／生産、見積り",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "【チタン】Titanium 64チタン（Ti-6Al-4V）",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "【プラスチック素材】合成樹脂（ABS,PP）",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "【エンジニアリング樹脂】PA,PC,POM",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "金属・樹脂の切削加工｜マシニング・5軸加工・高精度試作",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "【材料辞典】金毒・樹脂｜3Dプリンター／光造形",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "プラスチック樹脂素材｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "汎用プラスチックプラスチック樹脂素材｜3Dプリンター・光造形・切削・金型）製作依頼は加工サービス会社",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "合成樹脂樹脂素材｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "シリコン・ゴム樹脂素材｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "透明樹脂樹脂素材｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "アクリル樹脂素材｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "ABS樹脂素材｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "PP樹脂素材｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "PA樹脂素材｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "PE樹脂素材｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "PC樹脂素材｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "POM樹脂素材｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "PLA樹脂素材｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "FRP樹脂素材｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "耐薬品性樹脂素材｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "耐油性樹脂素材｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "耐候性樹脂素材｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   },
+   {
+    "quote": "耐久性樹脂素材｜3Dプリンター・光造形・切削・金型）製作加工",
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "・図面に関するお問い合わせ、相談",
+    "url": "https://www.material-web.net/service/process/pg105.html",
+    "pass": 1
+   },
+   {
+    "quote": "・その他 ご相談、お問い合わせ",
+    "url": "https://www.material-web.net/service/process/pg105.html",
+    "pass": 1
+   },
+   {
+    "quote": "メール、FAX、電話にてお受けいたします",
+    "url": "https://www.material-web.net/service/process/pg105.html",
+    "pass": 1
+   },
+   {
+    "quote": "メール、FAX、電話にてお受けいたします",
+    "url": "https://www.material-web.net/service/selling/pg99.html",
+    "pass": 1
+   },
+   {
+    "quote": "2～3営業日以内に、担当よりメールにて返信させていただきます",
+    "url": "http://www.materialgroup.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | 株式会社マテリアル | ブランドビルディングカンパニー",
+    "url": "https://materialpr.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "採用に関するお問い合わせは、",
+    "url": "https://materialpr.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | ジャパンマテリアル株式会社",
+    "url": "https://j-materials.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "各種お問い合わせは以下の窓口までお願いいたします",
+    "url": "https://j-materials.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "※営業を目的としたお問い合わせはご遠慮ください",
+    "url": "https://j-materials.jp/contact/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 | 株式会社マテリアル | ブランドビルディングカンパニー会社概要 | 会社情報 | 三菱マテリアル株式会社マテリアル | ブランドビルディングカンパニー会社概要 | マテリアル株式会社株式会社マテリアル｜アルミ切削加工・非鉄金属材料会社概要 | 会社情報 | ジャパンマテリアル株式会社会社概要 | Niterra Materials — 私たちは、 あらゆるビジネスのマーケティングコミュニケーションを 総合的に支援する専門事業集団です。 事業課題をともに解決し、クライアントと社会の関係性を 強化するパートナーとして成功に寄与します。 私たちは、チャレンジャーであり創造者です。 どんな時でも挑戦的な精神を ... 会社情報 トップメッセージ 会社概要 私たちの目指す姿 中期経営戦略 組織 役員 沿革 コーポレート・ガバナンス 事業 事業所 グループ会社 ニュースルーム ニュースリ",
+    "url": "http://materialpr.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 会社情報 | 三菱マテリアル株式会社マテリアル | ブランドビルディングカンパニー会社概要 | マテリアル株式会社株式会社マテリアル｜アルミ切削加工・非鉄金属材料会社概要 | 会社情報 | ジャパンマテリアル株式会社会社概要 | Niterra Materials — 会社情報 トップメッセージ 会社概要 私たちの目指す姿 中期経営戦略 組織 役員 沿革 コーポレート・ガバナンス 事業 事業所 グループ会社 ニュースルーム ニュースリリース トピックス グループニュース・イベント IRニュース サステナビリティ ... Oct 15, 2026 · トレプロ参画で加速する、マテリアルグループ「マーケティング業界の第4極」構想。 ｜トレプロ参画記念 OWNED MEDIA 全てのビジネスパーソンの”PRパートナー”として、 様々な場面で取り入れられるPR発想を ご紹介します。 ",
+    "url": "https://www.mmc.co.jp/corporate/ja/company/aboutus/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社マテリアル | ブランドビルディングカンパニー — Oct 15, 2026 · トレプロ参画で加速する、マテリアルグループ「マーケティング業界の第4極」構想。 ｜トレプロ参画記念 OWNED MEDIA 全てのビジネスパーソンの”PRパートナー”として、 様々な場面で取り入れられるPR発想を ご紹介します。",
+    "url": "http://materialpr.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | マテリアル株式会社株式会社マテリアル｜アルミ切削加工・非鉄金属材料会社概要 | 会社情報 | ジャパンマテリアル株式会社会社概要 | Niterra Materials — Oct 2, 2017 · 代表挨拶 Top Message 昨今、あらゆる業界においてコンプライアンスが重視されていますが、事業として「当たり前」をしっかりとやることが重要であると考えております。 わたしたちが扱う空調設備や電気設備は、施工時の安全が最優先事項であり、徹底した安全管理が求められます。例えば ... 事業案内 企業情報 設備紹介 宇宙・航空部品製造 人材育成 認証資格 リクルート お知らせ LINK お問い合わせ 会社名 ジャパンマテリアル株式会社（JAPAN MATERIAL Co., Ltd.） 設 立 1997年（平成9年）4月28日 株式上場 東京証券取引所 プライム市場（証券コー",
+    "url": "https://mtrl.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 会社情報 | ジャパンマテリアル株式会社 — 会社名 ジャパンマテリアル株式会社（JAPAN MATERIAL Co., Ltd.） 設 立 1997年（平成9年）4月28日 株式上場 東京証券取引所 プライム市場（証券コード：6055） 名古屋証券取引所 プレミア市場（証券コード：6055） 資本金 13億1,781万5,250円 決算期 3月31日 所在地",
+    "url": "https://www.j-materials.jp/company/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 株式会社マテリアル — お問い合わせ TOPお問い合わせ CONTACT USお問い合わせ お問い合わせは、以下の必要事項を入力の上、お問い合わせください。2～3営業日以内に、担当よりメールにて返信させていただきます。",
+    "url": "http://www.materialgroup.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | 株式会社マテリアル | ブランドビルディングカンパニ... — CONTACT お問い合わせ BY MAIL メールでのお問い合わせ お仕事のご依頼やご相談は、下記フォームよりお気軽にお問い合わせください。 IRに関するお問い合せは こちら までご連絡ください。",
+    "url": "https://materialpr.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | ジャパンマテリアル株式会社 — ジャパンマテリアル株式会社 四日市事業所 〒512-0906 三重県四日市市山之一色町字奥名戸谷206-18 （ アクセスマップ ） TEL：059-333-7706（直通)／ FAX：059-333-1556 真空ポンプ メンテナンス → ポンプオーバーホール／その他修理 ジャパンマテリアル株式会社 本社",
+    "url": "https://j-materials.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | 三菱マテリアル - mmc.co.jp — 0120-3214-39 営業日、時間は下記のお問い合わせをご覧ください お問い合わせ ※三菱マテリアル (株) ゴールドパークのサイトに移動します 純金カードについて 0120-171-556 平日9時～17時半 メールフォーム ※三菱マテリアルトレーディング (株) のサイトに移動し ...",
+    "url": "https://www.mmc.co.jp/corporate/ja/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 化研マテリアル株式会社 — 件名 任意 お問い合わせ内容 必須 ご質問事項などはこちらに入力ください メールアドレス 必須 メールアドレスをご入力ください 確認用メールアドレス 必須 確認用メールアドレスをご入力ください 氏名 必須 姓 名 お名前をフルネームでご入力ください 貴 ...",
+    "url": "https://www.kaken-material.co.jp/contact.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "いまさら聞けない’’マテリアルデザインの基本 Sep 16, 2025 · マテリアルデザインとは？ マテリアルデザインは、2014年に Googleが発表したデザインシステム です。 「紙とインク」をヒントに、画面の中のUIをまるで現実の物のように扱う考え方です。u2028 「ん、画面上のボタンが紙みたい？」と思うかもしれませんが、実際にカードUIを思い浮かべてみて ...",
+    "url": "https://note.com/tmmy_k/n/n252c17c41af8",
+    "pass": 3
+   },
+   {
+    "quote": "上手いCGのコツはマテリアルにあり 知ってると初心者卒業できるマテリ... Jan 26, 2025 · マテリアルの仕組み 3DCGにおけるマテリアルとは、 3Dオブジェクトに色や質感を付けるもの のことです。 3DCG制作においてはマテリアルの設定方法が非常に重要で、フォトリアルな表現を目指す場合にはこのマテリアル設定は避けては通れません。",
+    "url": "https://note.com/yuta_3dcg/n/n7ac9a4657df9",
+    "pass": 3
+   },
+   {
+    "quote": "テクスチャとマテリアルって？ゼロから学ぶ3DCGの世界 Aug 6, 2025 · “色と質感”で命を吹き込む こんにちわ！Skymill広報のN.Hです！ 前回の記事で3D制作のスタート地点である「モデリング」についてのお話をしました。 今回は、その次のステップである「テクスチャ」と「マテリアル」についてご紹介します！ 🧱モデルに“見た目”を与える工程 モデリングで ...",
+    "url": "https://note.com/skymill_techblog/n/nfc3bb1201d4a",
+    "pass": 3
+   },
+   {
+    "quote": "【AI×Photoshop】「マテリアル」って何？画像が立体的になる新感覚エ... Apr 5, 2025 · 📌「マテリアル」って何？画像が立体的になる新感覚エフェクト！ 「このテキスト、もっとリアルな質感にできないかな…？」 「画像に“金属っぽさ”や“布の手触り”を足したい！」 「3Dみたいな表現をしたいけど、難しそう…」 そんなあなたにおすすめなのが、Photoshopの**「マテリアル ...",
+    "url": "https://note.com/suama_loplop/n/nf5c8c68917a2",
+    "pass": 3
+   },
+   {
+    "quote": "MaterialXのすゝめ ツールに依存しない共有マテリアル｜DF TALK Jul 16, 2025 · DFでは、ツールに依存しないマテリアルの共有に向けて MaterialX の使用を検討しており、現在はレンダリング結果の比較を行い問題点の洗い出しと各ツールの開発元への報告を行っています。",
+    "url": "https://note.com/dftalk/n/na6c1c6fcd3b7",
+    "pass": 3
+   },
+   {
+    "quote": "MaterialXのすゝめ ツールに依存しない共有マテリアル 2026年1月最新... Mar 4, 2026 · ご無沙汰しております。 MaterialXを社内に布教したい委員会、会員のTD髙橋です。 前回に引き続き、各DCCツールにおけるMaterialXのレンダリング結果について記事を書かせていただきます。 今回は、比較対象となるツールにKarmaとOmniverseを追加し、かつ、なるべく見た目が一致するような対応を ...",
+    "url": "https://note.com/dftalk/n/n55483de2bf3e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "‘‘いまさら聞けない’’マテリアルデザインの基本｜yk",
+    "url": "https://note.com/tmmy_k/n/n252c17c41af8",
+    "pass": 3
+   },
+   {
+    "quote": "‘‘いまさら聞けない’’マテリアルデザインの基本",
+    "url": "https://note.com/tmmy_k/n/n252c17c41af8",
+    "pass": 3
+   },
+   {
+    "quote": "名前は聞いたことあるけど、実際のところ何なの？と思ったことはありませんか？",
+    "url": "https://note.com/tmmy_k/n/n252c17c41af8",
+    "pass": 3
+   },
+   {
+    "quote": "これを読めば、「マテリアルデザインの」基本のキが理解できます！",
+    "url": "https://note.com/tmmy_k/n/n252c17c41af8",
+    "pass": 3
+   },
+   {
+    "quote": "「紙とインク」をヒントに、画面の中のUIをまるで現実の物のように扱う考え方です。",
+    "url": "https://note.com/tmmy_k/n/n252c17c41af8",
+    "pass": 3
+   },
+   {
+    "quote": "「ん、画面上のボタンが紙みたい？」と思うかもしれませんが、実際にカードUIを思い浮かべてみてください。",
+    "url": "https://note.com/tmmy_k/n/n252c17c41af8",
+    "pass": 3
+   },
+   {
+    "quote": "影があって、他の要素より前に出ている…まさに紙が重なっている感じです。",
+    "url": "https://note.com/tmmy_k/n/n252c17c41af8",
+    "pass": 3
+   },
+   {
+    "quote": "ユーザーに「どれが触れる要素か」を自然に伝えている",
+    "url": "https://note.com/tmmy_k/n/n252c17c41af8",
+    "pass": 3
+   },
+   {
+    "quote": "上手いCGのコツはマテリアルにあり 知ってると初心者卒業できるマテリアルのアレコレ｜堀江優太｜Yuta Horie",
+    "url": "https://note.com/yuta_3dcg/n/n7ac9a4657df9",
+    "pass": 3
+   },
+   {
+    "quote": "上手いCGのコツはマテリアルにあり 知ってると初心者卒業できるマテリアルのアレコレ",
+    "url": "https://note.com/yuta_3dcg/n/n7ac9a4657df9",
+    "pass": 3
+   },
+   {
+    "quote": "フォトリアルなCGをつくる上で欠かせないのがマテリアルの設定です。",
+    "url": "https://note.com/yuta_3dcg/n/n7ac9a4657df9",
+    "pass": 3
+   },
+   {
+    "quote": "CGにとってマテリアルがどれくらい重要かというと、料理でいうところの調味料くらい重要です。",
+    "url": "https://note.com/yuta_3dcg/n/n7ac9a4657df9",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアルがうまくいっていないCGは、調味料を入れ忘れたり入れ間違えた料理のように味気ないものになってしまいます。",
+    "url": "https://note.com/yuta_3dcg/n/n7ac9a4657df9",
+    "pass": 3
+   },
+   {
+    "quote": "と、知っていれば料理は大きな間違いを犯さないはずです。",
+    "url": "https://note.com/yuta_3dcg/n/n7ac9a4657df9",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアルもそれと同じくらいシンプルな話です。",
+    "url": "https://note.com/yuta_3dcg/n/n7ac9a4657df9",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、CGに慣れていないと、何をどのように設定したらよいか、チンプンカンプンだと思います。",
+    "url": "https://note.com/yuta_3dcg/n/n7ac9a4657df9",
+    "pass": 3
+   },
+   {
+    "quote": "テクスチャとマテリアルって？ゼロから学ぶ3DCGの世界｜株式会社Skymill",
+    "url": "https://note.com/skymill_techblog/n/nfc3bb1201d4a",
+    "pass": 3
+   },
+   {
+    "quote": "テクスチャとマテリアルって？ゼロから学ぶ3DCGの世界",
+    "url": "https://note.com/skymill_techblog/n/nfc3bb1201d4a",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちわ！Skymill広報のN.Hです！",
+    "url": "https://note.com/skymill_techblog/n/nfc3bb1201d4a",
+    "pass": 3
+   },
+   {
+    "quote": "で3D制作のスタート地点である「モデリング」についてのお話をしました。",
+    "url": "https://note.com/skymill_techblog/n/nfc3bb1201d4a",
+    "pass": 3
+   },
+   {
+    "quote": "モデリングで形が完成しても、それだけではまだ無表情な“グレーの粘土”のような状態です。",
+    "url": "https://note.com/skymill_techblog/n/nfc3bb1201d4a",
+    "pass": 3
+   },
+   {
+    "quote": "モデリングされた形の表面に、画像や模様を貼っていきます。",
+    "url": "https://note.com/skymill_techblog/n/nfc3bb1201d4a",
+    "pass": 3
+   },
+   {
+    "quote": "は、その表面の性質そのものを設定する機能です。",
+    "url": "https://note.com/skymill_techblog/n/nfc3bb1201d4a",
+    "pass": 3
+   },
+   {
+    "quote": "同じ木目のテクスチャでも、マテリアル設定が違えば「濡れた木」や「古びた木」など、まったく印象が変わります！",
+    "url": "https://note.com/skymill_techblog/n/nfc3bb1201d4a",
+    "pass": 3
+   },
+   {
+    "quote": "🔰【AI×Photoshop】「マテリアル」って何？画像が立体的になる新感覚エフェクト！｜クルミノスアマ",
+    "url": "https://note.com/suama_loplop/n/nf5c8c68917a2",
+    "pass": 3
+   },
+   {
+    "quote": "🔰【AI×Photoshop】「マテリアル」って何？画像が立体的になる新感覚エフェクト！",
+    "url": "https://note.com/suama_loplop/n/nf5c8c68917a2",
+    "pass": 3
+   },
+   {
+    "quote": "📌「マテリアル」って何？画像が立体的になる新感覚エフェクト！",
+    "url": "https://note.com/suama_loplop/n/nf5c8c68917a2",
+    "pass": 3
+   },
+   {
+    "quote": "Photoshopの**「マテリアル」機能**！",
+    "url": "https://note.com/suama_loplop/n/nf5c8c68917a2",
+    "pass": 3
+   },
+   {
+    "quote": "基本〜AIとの連携テクニックまでやさしく解説",
+    "url": "https://note.com/suama_loplop/n/nf5c8c68917a2",
+    "pass": 3
+   },
+   {
+    "quote": "**見た目（色・光沢・凹凸）**をリアルに",
+    "url": "https://note.com/suama_loplop/n/nf5c8c68917a2",
+    "pass": 3
+   },
+   {
+    "quote": "画像の一部に「レザー」や「布」の質感を追加！",
+    "url": "https://note.com/suama_loplop/n/nf5c8c68917a2",
+    "pass": 3
+   },
+   {
+    "quote": "“ペタッとした2D”から、“思わず触りたくなる3D質感”に",
+    "url": "https://note.com/suama_loplop/n/nf5c8c68917a2",
+    "pass": 3
+   },
+   {
+    "quote": "MaterialXのすゝめ ツールに依存しない共有マテリアル｜DF TALK",
+    "url": "https://note.com/dftalk/n/na6c1c6fcd3b7",
+    "pass": 3
+   },
+   {
+    "quote": "MaterialXのすゝめ ツールに依存しない共有マテリアル",
+    "url": "https://note.com/dftalk/n/na6c1c6fcd3b7",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、各DCCツールにおけるMaterialXのレンダリング結果について記事を書かせていただきます。",
+    "url": "https://note.com/dftalk/n/na6c1c6fcd3b7",
+    "pass": 3
+   },
+   {
+    "quote": "映像制作の現場において、DCCツールは用途によって様々なものがあり、１つのプロジェクトの中でも作業工程ごとに複数のツールが共存しています。",
+    "url": "https://note.com/dftalk/n/na6c1c6fcd3b7",
+    "pass": 3
+   },
+   {
+    "quote": "近年では、Unreal Engineに代表されるようなゲームエンジンがレンダリングにも使用されるようになり、効率化の観点からも",
+    "url": "https://note.com/dftalk/n/na6c1c6fcd3b7",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアルデータの共有は更に重要となってきています",
+    "url": "https://note.com/dftalk/n/na6c1c6fcd3b7",
+    "pass": 3
+   },
+   {
+    "quote": "DFでは、ツールに依存しないマテリアルの共有に向けて",
+    "url": "https://note.com/dftalk/n/na6c1c6fcd3b7",
+    "pass": 3
+   },
+   {
+    "quote": "の使用を検討しており、現在はレンダリング結果の比較を行い問題点の洗い出しと各ツールの開発元への報告を行っています。",
+    "url": "https://note.com/dftalk/n/na6c1c6fcd3b7",
+    "pass": 3
+   },
+   {
+    "quote": "MaterialXのすゝめ ツールに依存しない共有マテリアル 2026年1月最新版｜DF TALK",
+    "url": "https://note.com/dftalk/n/n55483de2bf3e",
+    "pass": 3
+   },
+   {
+    "quote": "MaterialXのすゝめ ツールに依存しない共有マテリアル 2026年1月最新版",
+    "url": "https://note.com/dftalk/n/n55483de2bf3e",
+    "pass": 3
+   },
+   {
+    "quote": "MaterialXを社内に布教したい委員会、会員のTD髙橋です。",
+    "url": "https://note.com/dftalk/n/n55483de2bf3e",
+    "pass": 3
+   },
+   {
+    "quote": "前回に引き続き、各DCCツールにおけるMaterialXのレンダリング結果について記事を書かせていただきます。",
+    "url": "https://note.com/dftalk/n/n55483de2bf3e",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、比較対象となるツールにKarmaとOmniverseを追加し、かつ、なるべく見た目が一致するような対応を行ってみましたので、そちらを共有できればと思います。",
+    "url": "https://note.com/dftalk/n/n55483de2bf3e",
+    "pass": 3
+   },
+   {
+    "quote": "(あくまで2026年1月時点での対応であるため、今後変更がある可能性があります。ご了承ください)",
+    "url": "https://note.com/dftalk/n/n55483de2bf3e",
+    "pass": 3
+   },
+   {
+    "quote": "MaterialXは「対応しているツール間で見た目を合わせられる」という大きなメリットを持ちますが、レンダラの仕様によって見た目がズレてしまうこともあります。特に透過やSSS（Subsurface Scattering）の表現はレンダラの特性が現れやすく、見た目に差が生じやすい部分です。",
+    "url": "https://note.com/dftalk/n/n55483de2bf3e",
+    "pass": 3
+   },
+   {
+    "quote": "「背景作業で作ったマテリアルが同一数値でもショット作業で見た目が変わってしまう…」というのはなるべく避けたいため、今回、各セクションのワークフローをなるべく煩雑にせず、見た目を近づけるための設定を検討しました。",
+    "url": "https://note.com/dftalk/n/n55483de2bf3e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Material Bank | マテリアルバンク (@materialbank_jp) / X 世界最大の建材サンプルマーケットプレイス【 Material Bank 】の日本版公式アカウントです。インスピレーションのもとになる施工事例や、掲載ブランド、マテリアルなどをご紹介します。 #1サイトで探す #1箱ですぐ届く #18時までのオーダーで翌日届く",
+    "url": "https://x.com/materialbank_jp",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアル (@material_icing7) / X 68 followers · 256 following. Joined Sep 2022. See the latest conversations with @material_icing7",
+    "url": "https://x.com/material_icing7",
+    "pass": 3
+   },
+   {
+    "quote": "三菱マテリアル株式会社 プロダクト領域 超硬製品事業部 (@mmccarbide... Oct 7, 2024 · 三菱マテリアル株式会社 プロダクト領域 超硬製品事業部 372 posts 三菱マテリアル株式会社 プロダクト領域 超硬製品事業部 @mmccarbide Show translation",
+    "url": "https://x.com/mmccarbide",
+    "pass": 3
+   },
+   {
+    "quote": "灰色マテリアル on X: \"【お知らせ】 最近あまりにも忙しいので、先日... Oct 26, 2026 · 【お知らせ】 最近あまりにも忙しいので、先日投稿した動画を最後にしばらく個人作は作れないと思います。 具体的にどれぐらい続くかは分かりませんが現在の状況を考えると来年の6月頃までは手を付けられないかも… なるべく早く戻れるよう頑張ります。",
+    "url": "https://x.com/HaiiroMaterial/status/2114697691817279627",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "（株）マテリアル | LinkedIn （株）マテリアル 卸売業 大田区、東京都 7人のフォロワー",
+    "url": "https://jp.linkedin.com/company/（株）マテリアル",
+    "pass": 3
+   },
+   {
+    "quote": "三菱マテリアル株式会社 プロダクト領域 超硬製品事業部 | LinkedIn 三菱マテリアル株式会社 プロダクト領域 超硬製品事業部 | 354 followers on LinkedIn. あなたの、世界の、総合工具工房 | あなたの、世界の、総合工具 ...",
+    "url": "https://www.linkedin.com/company/mmccarbide",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社マテリアル | Minato-ku Tokyo - Facebookマテリアル - material - Facebookビルトマテリアル株式会社 - Facebook日本マテリアル株式会社 - Facebook株式会社マテリアル - \\マテリアルグループ、ソーシャルコマースや E....Wataru Seki - Facebookジャパンマテリアル - Facebook 株式会社マテリアル, Minato. 1,017 followers · 8 talking about this · 10 were here. マテリアルは、ストーリーテリングを基軸に、企業やプロダクト価値の向上を目的としたマーケティングコミュニケーションを提供するブランドビルディングカンパニーです。 Oct 1, 2026 · マテリアル - material. 196 followers. 名古屋の移動型",
+    "url": "https://www.facebook.com/materialpr/",
+    "pass": 3
+   },
+   {
+    "quote": "マテリアル - material - Facebookビルトマテリアル株式会社 - Facebook日本マテリアル株式会社 - Facebook株式会社マテリアル - \\マテリアルグループ、ソーシャルコマースや E....Wataru Seki - Facebookジャパンマテリアル - Facebook Oct 1, 2026 · マテリアル - material. 196 followers. 名古屋の移動型レコードショップです。 Oct 12, 2026 · ビルトマテリアル株式会社. 489 followers · 10 talking about this. ビルトマテリアル株式会社は、1923年（大正12年）の設立以来、一世紀以上にわたり建築資材の供給を通じて社会に貢献してまいりました。 私たちの強みは、数万点に及ぶ在庫を持つ「商社機能」と、現場のニーズに合わせて金属成型 ..",
+    "url": "https://www.facebook.com/materialofficial/",
+    "pass": 3
+   },
+   {
+    "quote": "ビルトマテリアル株式会社 - Facebook Oct 12, 2026 · ビルトマテリアル株式会社. 489 followers · 10 talking about this. ビルトマテリアル株式会社は、1923年（大正12年）の設立以来、一世紀以上にわたり建築資材の供給を通じて社会に貢献してまいりました。 私たちの強みは、数万点に及ぶ在庫を持つ「商社機能」と、現場のニーズに合わせて金属成型 ...",
+    "url": "https://www.facebook.com/builtmaterial/",
+    "pass": 3
+   },
+   {
+    "quote": "日本マテリアル株式会社 - Facebook株式会社マテリアル - \\マテリアルグループ、ソーシャルコマースや E....Wataru Seki - Facebookジャパンマテリアル - Facebook Apr 14, 2022 · 日本マテリアル株式会社. 275 followers · 34 were here. 日本マテリアル株式会社 www.material.co.jp ツイッター twitter.com/NihonMaterial Jun 2, 2025 · \\マテリアルグループ、ソーシャルコマースや E コマース支援の株式会社マテリアルリンクスを設立！ 「TikTok Shop」活用のトータル支援サービスを提供開始📱 ️ ／ このたび、マテリアルグループは、2025年5月15⽇に 、ソーシャルコマースおよびEコマースのマーケティ ング支援を行う「株式会社 ... Apr 1",
+    "url": "https://www.facebook.com/nihonmaterial/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.material-web.net/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.material-web.net/service/top.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.material-web.net/service/process/pg95.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.material-web.net/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.material-web.net/service/selling/top.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.material-web.net/service/design_assembly/pg96.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.material-web.net/service/development_cooperation/top.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.material-web.net/machineries/facility.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.material-web.net/machineries/pg81.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.material-web.net/service/process/pg105.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.material-web.net/service/process/pg106.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.material-web.net/service/selling/pg99.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.material-web.net/service/selling/pg102.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.material-web.net/machineries/pg82.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.material-web.net/machineries/pg83.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.material-web.net/_src/98263668/material_flyer0260701.pdf?v=1792461793229",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.material-web.net/_src/83479909/list_21sindo_ita.pdf?v=1773899994297",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.material-web.net/_src/83479914/list_22sindo_ita.pdf?v=1773899994297",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.material-web.net/_src/83479917/list_23sindo_bou.pdf?v=1773899994297",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.material-web.net/_src/83479922/list_24sindo_bou.pdf?v=1773899994297",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.material-web.net/_src/83479949/list_25sindo_bou.pdf?v=1773899994297",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.material-web.net/_src/83479925/list_26do_fb.pdf?v=1773899994297",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.material-web.net/_src/83479932/list_27sin_fb.pdf?v=1773899994297",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://asiaplanning.com/machining/column/column-4733/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.zen.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://materialpr.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mmc.co.jp/corporate/ja/company/aboutus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://materialpr.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.materialgroup.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://materialpr.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://j-materials.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tmmy_k/n/n252c17c41af8",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yuta_3dcg/n/n7ac9a4657df9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/skymill_techblog/n/nfc3bb1201d4a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/suama_loplop/n/nf5c8c68917a2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/materialbank_jp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/material_icing7",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/（株）マテリアル",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/mmccarbide",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/materialpr/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/materialofficial/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/builtmaterial/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/nihonmaterial/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mmccarbide",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/dftalk/n/na6c1c6fcd3b7",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/HaiiroMaterial/status/2114697691817279627",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/dftalk/n/n55483de2bf3e",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "マテリアル 取扱製品 試作 小ロット",
+   "results": [
+    "https://asiaplanning.com/machining/column/column-4733/",
+    "https://www.ariel-inc.jp/manufacturing/cutting/prototype-small-lot/",
+    "http://www.zen.co.jp/",
+    "http://kinzoku-kakou-odec.com/processing/shisaku-slot.html",
+    "https://san-kk.co.jp/technical/item/test/",
+    "https://toyolabel.co.jp/product/shisaku.html",
+    "https://mono.ipros.com/cg1/試作/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "マテリアル 会社概要 事業内容",
+   "results": [
+    "http://materialpr.jp/company/",
+    "https://www.mmc.co.jp/corporate/ja/company/aboutus/",
+    "http://materialpr.jp/",
+    "https://mtrl.co.jp/company/",
+    "https://www.j-materials.jp/company/profile/",
+    "https://www.niterramaterials.co.jp/corp/outline.htm",
+    "https://www.material-web.net/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "マテリアル お問い合わせ メール",
+   "results": [
+    "http://www.materialgroup.co.jp/contact/",
+    "https://materialpr.jp/contact/",
+    "https://j-materials.jp/contact/",
+    "https://www.mmc.co.jp/corporate/ja/contact/",
+    "https://www.kaken-material.co.jp/contact.html",
+    "https://group.mmc.co.jp/form/mer/inq_sslform.html",
+    "https://group.mmc.co.jp/mbs/contact.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com マテリアル",
+   "results": [
+    "https://note.com/tmmy_k/n/n252c17c41af8",
+    "https://note.com/yuta_3dcg/n/n7ac9a4657df9",
+    "https://note.com/skymill_techblog/n/nfc3bb1201d4a",
+    "https://note.com/suama_loplop/n/nf5c8c68917a2",
+    "https://note.com/_ash_design/n/n338732fc677b",
+    "https://note.com/materialbank_jp",
+    "https://tales.note.com/nekomaaru/wdetstblgjfaa/episodes/e97eujxwqafjx"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com マテリアル",
+   "results": [
+    "https://x.com/materialbank_jp",
+    "https://x.com/material_icing7",
+    "https://business.x.com/en/advertising/campaign-types/reach",
+    "https://blog.x.com/en/company/twitter-2-0-our-continued-commitment-to-the-public-conversation",
+    "https://help.x.com/en/rules-and-policies/adult-content",
+    "https://help.x.com/en/forms/safety-and-sensitive-content",
+    "https://business.x.com/en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com マテリアル",
+   "results": [
+    "https://jp.linkedin.com/company/（株）マテリアル",
+    "https://jp.linkedin.com/company/dainenmaterials",
+    "https://www.linkedin.com/company/mmccarbide",
+    "https://in.linkedin.com/company/materialgrowth",
+    "https://uk.linkedin.com/company/materialevolution",
+    "https://www.linkedin.com/company/materialsecurity",
+    "https://uk.linkedin.com/company/materialindex"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com マテリアル",
+   "results": [
+    "https://www.facebook.com/materialpr/",
+    "https://www.facebook.com/materialofficial/",
+    "https://www.facebook.com/builtmaterial/",
+    "https://www.facebook.com/nihonmaterial/",
+    "https://www.facebook.com/materialpr/posts/マテリアルグループソーシャルコマースや-e-コマース支援の株式会社マテリアルリンクスを設立tiktok-shop活用のトータル支援サービスを提供開始️-このたび/1321991563265248/",
+    "https://www.facebook.com/japanmaterialofficial/",
+    "https://www.facebook.com/sekinii/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "マテリアル note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://materialgroup.jp/about/",
+    "https://the-shashi.com/tse/5711/executives/ceo/ono-naoki/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://materialpr.jp/company/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "マテリアル X 投稿",
+   "results": [
+    "https://x.com/mmccarbide",
+    "https://note.com/dftalk/n/na6c1c6fcd3b7",
+    "https://x.com/HaiiroMaterial/status/2114697691817279627",
+    "https://note.com/dftalk/n/n55483de2bf3e",
+    "https://materialx.org/",
+    "https://www.sciencedirect.com/journal/materials-letters-x",
+    "https://materialx.io/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式15頁／PDF・画像8件／外部25頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式15頁／PDF・画像8件／外部25頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式15頁／PDF・画像8件／外部25頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式15頁／PDF・画像8件／外部25頁・検索9回）"
+ }
+}

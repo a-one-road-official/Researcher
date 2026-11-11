@@ -1,0 +1,1385 @@
+{
+ "name": "株式会社第五電子工業",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T11:25:40.309786+00:00",
+ "official_url": "https://www.netdaigo.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社工場",
+    "value": "〒252-0132　神奈川県相模原市緑区橋本台2丁目7番23号",
+    "url": "https://www.netdaigo.com/",
+    "pass": 1
+   },
+   {
+    "label": "本社工場",
+    "value": "〒252-0132　神奈川県相模原市緑区橋本台2丁目7番23号",
+    "url": "https://www.netdaigo.com/products/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "本社工場 〒252-0132 神奈川県相模原市緑区橋本台2-7-23 Google map TEL：042-774-2345（代） FAX：042-772-1575 E-mail： eigyo8@netdaigo.com 第二工場 〒252-0132 神奈川県相模原市緑区橋本台2-6-15 Google map 第三工場 〒252-0132 神奈川県相模原市緑区橋本台2-5-15 Google map 第四工場 〒252-0132 神奈川県相模原市緑区橋本台2-6-25 Google map",
+    "url": "https://www.netdaigo.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "本社工場",
+    "value": "〒252-0132　神奈川県相模原市緑区橋本台2丁目7番23号",
+    "url": "https://www.netdaigo.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "本社工場",
+    "value": "〒252-0132　神奈川県相模原市緑区橋本台2丁目7番23号",
+    "url": "https://www.netdaigo.com/factory/",
+    "pass": 1
+   },
+   {
+    "label": "本社工場",
+    "value": "〒252-0132　神奈川県相模原市緑区橋本台2丁目7番23号",
+    "url": "https://www.netdaigo.com/news/information/%E9%AB%98%E7%B2%BE%E5%BA%A6%E3%83%BB%E9%9B%A3%E5%8A%A0%E5%B7%A5%E6%8A%80%E8%A1%93%E5%B1%952025-%E5%87%BA%E5%B1%95%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "pass": 1
+   },
+   {
+    "label": "本社工場",
+    "value": "〒252-0132　神奈川県相模原市緑区橋本台2丁目7番23号",
+    "url": "https://www.netdaigo.com/news/product/",
+    "pass": 1
+   },
+   {
+    "label": "本社工場",
+    "value": "〒252-0132　神奈川県相模原市緑区橋本台2丁目7番23号",
+    "url": "https://www.netdaigo.com/news/product/water-cooling-plate/",
+    "pass": 1
+   },
+   {
+    "label": "本社工場",
+    "value": "〒252-0132　神奈川県相模原市緑区橋本台2丁目7番23号",
+    "url": "https://www.netdaigo.com/news/facility/",
+    "pass": 1
+   },
+   {
+    "label": "本社工場",
+    "value": "〒252-0132　神奈川県相模原市緑区橋本台2丁目7番23号",
+    "url": "https://www.netdaigo.com/news/information/%E8%A3%BD%E5%93%81%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/",
+    "pass": 1
+   },
+   {
+    "label": "本社工場",
+    "value": "〒252-0132　神奈川県相模原市緑区橋本台2丁目7番23号",
+    "url": "https://www.netdaigo.com/news/event/semicon-japan2023%E5%87%BA%E5%B1%95%E8%A3%BD%E5%93%81%E7%B4%B9%E4%BB%8B%E2%91%A3%E3%80%90%E7%9C%9F%E7%A9%BA%E3%83%81%E3%83%A3%E3%83%B3%E3%83%90%E3%83%BC%E3%80%91/",
+    "pass": 1
+   },
+   {
+    "label": "本社工場",
+    "value": "〒252-0132　神奈川県相模原市緑区橋本台2丁目7番23号",
+    "url": "https://www.netdaigo.com/news/event/semicon-japan2023%E5%87%BA%E5%B1%95%E8%A3%BD%E5%93%81%E7%B4%B9%E4%BB%8B%E2%91%A2%E3%80%90%E3%83%A9%E3%82%B8%E3%82%A8%E3%83%BC%E3%82%BF%E3%83%BC%E3%80%91/",
+    "pass": 1
+   },
+   {
+    "label": "本社工場",
+    "value": "〒252-0132　神奈川県相模原市緑区橋本台2丁目7番23号",
+    "url": "https://www.netdaigo.com/news/%E3%80%90%E7%92%B0%E5%A2%83%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E3%80%91%E5%A4%AA%E9%99%BD%E5%85%89%E7%99%BA%E9%9B%BB%E8%A8%AD%E5%82%99%E3%81%AE%E5%B0%8E%E5%85%A5%E3%81%A8%E7%99%BA/",
+    "pass": 1
+   },
+   {
+    "label": "本社工場",
+    "value": "〒252-0132　神奈川県相模原市緑区橋本台2丁目7番23号",
+    "url": "https://www.netdaigo.com/news/facility/%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%BC%E3%82%AB%E3%83%83%E3%83%88%E6%94%BE%E9%9B%BB%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%82%92%E6%9B%B4%E6%96%B0%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/",
+    "pass": 1
+   },
+   {
+    "label": "本社工場",
+    "value": "〒252-0132　神奈川県相模原市緑区橋本台2丁目7番23号",
+    "url": "https://www.netdaigo.com/news/facility/%E7%AC%AC%E5%9B%9B%E5%B7%A5%E5%A0%B4%E3%80%90%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5%E3%83%BB%E6%BA%B6%E6%8E%A5%E5%8A%A0%E5%B7%A5%E3%83%BB%E6%A4%9C%E6%9F%BB%E5%87%BA%E8%8D%B7%E5%B7%A5%E5%A0%B4%E3%80%91/",
+    "pass": 1
+   },
+   {
+    "label": "本社工場",
+    "value": "〒252-0132　神奈川県相模原市緑区橋本台2丁目7番23号",
+    "url": "https://www.netdaigo.com/news/%E6%8A%80%E8%A1%93%E3%81%AE%E7%8F%BE%E5%A0%B4%E7%B4%B9%E4%BB%8B%E3%80%90%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5%E3%80%91/",
+    "pass": 1
+   },
+   {
+    "label": "本社工場",
+    "value": "〒252-0132　神奈川県相模原市緑区橋本台2丁目7番23号",
+    "url": "https://www.netdaigo.com/products2/",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "日本 神奈川県 相模原市緑区 [地図を見る] 担当者 南",
+    "url": "https://ja.nc-net.or.jp/company/75771/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業分野について",
+    "value": "半導体業界を中心とする最先端分野において高品質な製品を提供し、この分野の発展に貢献する。",
+    "url": "https://www.netdaigo.com/company/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表",
+    "value": "水田　光臣",
+    "url": "https://www.netdaigo.com/company/",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "年商",
+    "value": "19.6億円　(2026年4月期)",
+    "url": "https://www.netdaigo.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "年間売上高",
+    "value": "170,000 万円 エミダス会員番号 75771",
+    "url": "https://ja.nc-net.or.jp/company/75771/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "115名",
+    "url": "https://www.netdaigo.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "113名",
+    "url": "https://mono.ipros.com/company/detail/66521/",
+    "pass": 3
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "東京エレクトロンテクノロジーソリューションズ株式会社 /島津プレシジョンテクノロジー株式会社 /島津産機システムズ株式会社 /株式会社島津製作所 /株式会社KOKUSAI ELECTRIC /株式会社SCREENセミコンダクターソリューションズ /武蔵エンジニアリング株式会社 /横河ソリューションサービス株式会社 /株式会社荏原製作所 /旭国際テクネイオン株式会社",
+    "url": "https://www.netdaigo.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "主要取引先",
+    "value": "東京エレクトロンテクノロジーソリューションズ株式会社 島津プレシジョンテクノロジー株式会社 株式会社KOKUSAI　ELECTRIC 株式会社SCREENセミコンダクターソリューションズ 株式会社荏原製作所",
+    "url": "https://ja.nc-net.or.jp/company/75771/",
+    "pass": 3
+   },
+   {
+    "label": "主要取引先",
+    "value": "東京エレクトロンテクノロジーソリューションズ(株)\n島津プレシジョンテクノロジー(株)\n島津産機システムズ(株)\n(株)島津製作所\n(株)KOKUSAI ELECTRIC\n(株)SCREENセミコンダクターソリューションズ\n(株)荏原製作所\n旭国際テクネイオン(株)\n武蔵エンジニアリング(株)\n横河ソリューションサービス\n(株)プロテリアル\n日本高周波(株)\n(株)キッツエスシーティ (順不同・敬称略)",
+    "url": "https://mono.ipros.com/company/detail/66521/",
+    "pass": 3
+   }
+  ],
+  "拠点": [
+   {
+    "label": "関連会社",
+    "value": "株式会社第五ラジエーター",
+    "url": "https://www.netdaigo.com/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "溶接後の二次加工では、溝を均一に（公差0.05㎜）掘るために個体差がある製品を一品一品計測しながら掘っていきます",
+    "url": "https://www.netdaigo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の独自技術とすれば、溶接後の平らでない製品を1点1点計測しながら削り均等に削っていく事です",
+    "url": "https://www.netdaigo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "その後鏡面仕上げやヘアライン仕上げ等を行う製品もあります",
+    "url": "https://www.netdaigo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報 | 半導体製造装置部品加工・水密溶接・気密溶接｜株式会社第五電子工業",
+    "url": "https://www.netdaigo.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "ラジエーターは当社の主要製品で、売り上げの３割以上を占めています",
+    "url": "https://www.netdaigo.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "板金製品のカバー類については、主にステンレスを中心に対応しています",
+    "url": "https://www.netdaigo.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "その他にも、化粧ミガキの板金パネル溶接や、溶接後の二次加工を含む製品を得意としております",
+    "url": "https://www.netdaigo.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体業界を中心とする最先端分野において高品質な製品を提供し、この分野の発展に貢献する",
+    "url": "https://www.netdaigo.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客の期待に応えられる品質の製品を提供し、何事もスピード感を持って対応する",
+    "url": "https://www.netdaigo.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "五軸メインにマシニング加工、CAD・CAMで何もない状態から製品モデル作製、段取りから加工まで幅が増えている",
+    "url": "https://www.netdaigo.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "ものづくりが好きな方は、製品の種類が多い、先輩方も心強い方が多いなど工場見学に来ていただければ会社の良さが分かりますよ！",
+    "url": "https://www.netdaigo.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "TIG溶接がメインでいろいろな製品加工を一生懸命やっている",
+    "url": "https://www.netdaigo.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "同じ製品の作業の回数を重ねるごとに早く、きれいに終わらせることで上達できた",
+    "url": "https://www.netdaigo.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "ステンレスやアルミの薄板から厚板までの接合事例、水路溶接品など、実際の製品イメージにつながる多彩な展示を予定しています",
+    "url": "https://www.netdaigo.com/news/information/%E9%AB%98%E7%B2%BE%E5%BA%A6%E3%83%BB%E9%9B%A3%E5%8A%A0%E5%B7%A5%E6%8A%80%E8%A1%93%E5%B1%952025-%E5%87%BA%E5%B1%95%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "pass": 1
+   },
+   {
+    "quote": "金属を切断・曲げ・加工し、製品づくりを体験します",
+    "url": "https://www.netdaigo.com/recruit/internship/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の品質を守るための検査工程を見学・体験します",
+    "url": "https://www.netdaigo.com/recruit/internship/",
+    "pass": 1
+   },
+   {
+    "quote": "品質や寸法を確認し、高品質な製品づくりを支える大切な仕事です",
+    "url": "https://www.netdaigo.com/recruit/career/",
+    "pass": 1
+   },
+   {
+    "quote": "五軸メインにマシニング加工、CAD・CAMで何もない状態から製品モデル作製、段取りから加工まで幅が増えている",
+    "url": "https://www.netdaigo.com/recruit/career/",
+    "pass": 1
+   },
+   {
+    "quote": "TIG溶接がメインでいろいろな製品加工を一生懸命やっている",
+    "url": "https://www.netdaigo.com/recruit/career/",
+    "pass": 1
+   },
+   {
+    "quote": "ものづくりが好きな方は、製品の種類が多い、先輩方も心強い方が多いなど工場見学に来ていただければ会社の良さが分かりますよ！",
+    "url": "https://www.netdaigo.com/recruit/career/",
+    "pass": 1
+   },
+   {
+    "quote": "同じ製品の作業の回数を重ねるごとに早く、きれいに終わらせることで上達できた",
+    "url": "https://www.netdaigo.com/recruit/career/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報 | 半導体製造装置部品加工・水密溶接・気密溶接｜株式会社第五電子工業",
+    "url": "https://www.netdaigo.com/news/product/",
+    "pass": 1
+   },
+   {
+    "quote": "SEMICON Japan2023出展製品紹介④【真空チャンバー】",
+    "url": "https://www.netdaigo.com/news/product/",
+    "pass": 1
+   },
+   {
+    "quote": "SEMICON Japan2023出展製品紹介③【ラジエーター】",
+    "url": "https://www.netdaigo.com/news/product/",
+    "pass": 1
+   },
+   {
+    "quote": "SEMICON Japan2023出展製品紹介②【BOX溶接品】",
+    "url": "https://www.netdaigo.com/news/product/",
+    "pass": 1
+   },
+   {
+    "quote": "SEMICON Japan2023出展製品紹介①【水路溶接品】",
+    "url": "https://www.netdaigo.com/news/product/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ページをリニューアルしました | 半導体製造装置部品加工・水密溶接・気密溶接｜株式会社第五電子工業",
+    "url": "https://www.netdaigo.com/news/information/%E8%A3%BD%E5%93%81%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/",
+    "pass": 1
+   },
+   {
+    "quote": "製品を加工品ごとに分類し、専用の個別ページを作成しました",
+    "url": "https://www.netdaigo.com/news/information/%E8%A3%BD%E5%93%81%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/",
+    "pass": 1
+   },
+   {
+    "quote": "真空チャンバー、水冷プレート、ラジエータ、ジャケットなど、多くの製品を取り上げています",
+    "url": "https://www.netdaigo.com/news/information/%E8%A3%BD%E5%93%81%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/",
+    "pass": 1
+   },
+   {
+    "quote": "各製品の特長、機能、材質、使用設備、用途などを分かりやすく記載しています",
+    "url": "https://www.netdaigo.com/news/information/%E8%A3%BD%E5%93%81%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の写真を多数掲載し、実際の使用感を視覚的に伝えることに努めています",
+    "url": "https://www.netdaigo.com/news/information/%E8%A3%BD%E5%93%81%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/",
+    "pass": 1
+   },
+   {
+    "quote": "ぜひ、新しい製品ページをご覧いただき、皆様のニーズに合った製品を見つけていただければと思います",
+    "url": "https://www.netdaigo.com/news/information/%E8%A3%BD%E5%93%81%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/",
+    "pass": 1
+   },
+   {
+    "quote": "以下のリンクから製品ページにアクセスできます",
+    "url": "https://www.netdaigo.com/news/information/%E8%A3%BD%E5%93%81%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/",
+    "pass": 1
+   },
+   {
+    "quote": "SEMICON Japan2023出展製品紹介④【真空チャンバー】 | 半導体製造装置部品加工・水密溶接・気密溶接｜株式会社第五電子工業",
+    "url": "https://www.netdaigo.com/news/event/semicon-japan2023%E5%87%BA%E5%B1%95%E8%A3%BD%E5%93%81%E7%B4%B9%E4%BB%8B%E2%91%A3%E3%80%90%E7%9C%9F%E7%A9%BA%E3%83%81%E3%83%A3%E3%83%B3%E3%83%90%E3%83%BC%E3%80%91/",
+    "pass": 1
+   },
+   {
+    "quote": "SEMICON Japan2023出展製品紹介④【真空チャンバー】",
+    "url": "https://www.netdaigo.com/news/event/semicon-japan2023%E5%87%BA%E5%B1%95%E8%A3%BD%E5%93%81%E7%B4%B9%E4%BB%8B%E2%91%A3%E3%80%90%E7%9C%9F%E7%A9%BA%E3%83%81%E3%83%A3%E3%83%B3%E3%83%90%E3%83%BC%E3%80%91/",
+    "pass": 1
+   },
+   {
+    "quote": "SEMICON Japan2023出展製品紹介③【ラジエーター】 | 半導体製造装置部品加工・水密溶接・気密溶接｜株式会社第五電子工業",
+    "url": "https://www.netdaigo.com/news/event/semicon-japan2023%E5%87%BA%E5%B1%95%E8%A3%BD%E5%93%81%E7%B4%B9%E4%BB%8B%E2%91%A2%E3%80%90%E3%83%A9%E3%82%B8%E3%82%A8%E3%83%BC%E3%82%BF%E3%83%BC%E3%80%91/",
+    "pass": 1
+   },
+   {
+    "quote": "SEMICON Japan2023出展製品紹介③【ラジエーター】",
+    "url": "https://www.netdaigo.com/news/event/semicon-japan2023%E5%87%BA%E5%B1%95%E8%A3%BD%E5%93%81%E7%B4%B9%E4%BB%8B%E2%91%A2%E3%80%90%E3%83%A9%E3%82%B8%E3%82%A8%E3%83%BC%E3%82%BF%E3%83%BC%E3%80%91/",
+    "pass": 1
+   },
+   {
+    "quote": "今回展示する製品は、パイプは全てステンレスでフィンがアルミかステンレスで出来ています",
+    "url": "https://www.netdaigo.com/news/event/semicon-japan2023%E5%87%BA%E5%B1%95%E8%A3%BD%E5%93%81%E7%B4%B9%E4%BB%8B%E2%91%A2%E3%80%90%E3%83%A9%E3%82%B8%E3%82%A8%E3%83%BC%E3%82%BF%E3%83%BC%E3%80%91/",
+    "pass": 1
+   },
+   {
+    "quote": "幅広い加工用途に対応し、お客様のニーズに応じた製品を提供しています",
+    "url": "https://www.netdaigo.com/news/%E6%8A%80%E8%A1%93%E3%81%AE%E7%8F%BE%E5%A0%B4%E7%B4%B9%E4%BB%8B%E3%80%90%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5%E3%80%91/",
+    "pass": 1
+   },
+   {
+    "quote": "これらの技術を駆使し、当社は常にお客様の課題解決に向けた最高品質の製品を提供してまいります",
+    "url": "https://www.netdaigo.com/news/%E6%8A%80%E8%A1%93%E3%81%AE%E7%8F%BE%E5%A0%B4%E7%B4%B9%E4%BB%8B%E3%80%90%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5%E3%80%91/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報 | 半導体製造装置部品加工・水密溶接・気密溶接｜株式会社第五電子工業",
+    "url": "https://www.netdaigo.com/products2/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の80％以上は接合された品物です",
+    "url": "https://www.netdaigo.com/products2/",
+    "pass": 1
+   },
+   {
+    "quote": "常にお客様に満足して頂ける製品をお届けすることを第一に活動を進めています",
+    "url": "https://www.netdaigo.com/2021/wp-content/uploads/2024/11/2026.11%E6%94%B9%E8%A8%82.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "主な加工品目は、熱交換器(ラジエーター)、水路溶接品、真空チャンバー(アリ溝・丸型・角型)、薬液タンク、水冷配管、二重配管、ジャケット構造品、ミガキパネル、電子機器筐体、各種ブロック、ブラケットです",
+    "url": "https://ja.nc-net.or.jp/company/75771/",
+    "pass": 3
+   },
+   {
+    "quote": "第五電子工業の製品・サービス一覧｜イプロスものづくり",
+    "url": "https://mono.ipros.com/company/detail/66521/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(52)",
+    "url": "https://mono.ipros.com/company/detail/66521/category/",
+    "pass": 3
+   },
+   {
+    "quote": "本製品はロボットで溶接し、仕上げもロボットで行っています",
+    "url": "https://mono.ipros.com/company/detail/66521/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(52)",
+    "url": "https://mono.ipros.com/company/detail/66521/",
+    "pass": 3
+   },
+   {
+    "quote": "その他にも、化粧ミガキの板金パネル溶接や、溶接後の二次加工を含む製品を得意としております",
+    "url": "https://mono.ipros.com/company/detail/66521/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (52)",
+    "url": "https://mono.ipros.com/company/detail/66521/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・研究開発（建築・土木・プラント・設備）",
+    "url": "https://ja.nc-net.or.jp/company/75771/inquiry/input/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "付ける材質はステンレス・アルミがメインです",
+    "url": "https://www.netdaigo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "また、材質はアルミとステンレスに分けられます",
+    "url": "https://www.netdaigo.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "また、チタンやインコネルといった特殊材質への溶接実績もご覧いただけます",
+    "url": "https://www.netdaigo.com/news/information/%E9%AB%98%E7%B2%BE%E5%BA%A6%E3%83%BB%E9%9B%A3%E5%8A%A0%E5%B7%A5%E6%8A%80%E8%A1%93%E5%B1%952025-%E5%87%BA%E5%B1%95%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "pass": 1
+   },
+   {
+    "quote": "各製品の特長、機能、材質、使用設備、用途などを分かりやすく記載しています",
+    "url": "https://www.netdaigo.com/news/information/%E8%A3%BD%E5%93%81%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/",
+    "pass": 1
+   },
+   {
+    "quote": "ステンレス、アルミを中心としてチタンやインコネル等の難削材も対応しております",
+    "url": "https://www.netdaigo.com/products2/",
+    "pass": 1
+   },
+   {
+    "quote": "主な材質は、ステンレスとアルミです",
+    "url": "https://ja.nc-net.or.jp/company/75771/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "多品種少量に対応するためにスリーポイントベンダー方式を採用しています",
+    "url": "https://www.netdaigo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、特注のICFフランジも加工可能です",
+    "url": "https://www.netdaigo.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "試作とその後の量産対応や、単品製作も喜んでご検討させて頂きますので、どうぞ安心してお問合せください",
+    "url": "https://www.netdaigo.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "丸形真空ﾁｬﾝﾊﾞｰ、ﾌﾗﾝｼﾞの特注製作【半導体製造装置 機械加工】",
+    "url": "https://ja.nc-net.or.jp/company/75771/",
+    "pass": 3
+   },
+   {
+    "quote": "【特注ステンレス丸形タンク】内面鏡面仕上げ対応",
+    "url": "https://ja.nc-net.or.jp/company/75771/",
+    "pass": 3
+   },
+   {
+    "quote": "（ 試作開発・少量生産 / 溶接・接着 ）",
+    "url": "https://ja.nc-net.or.jp/company/75771/",
+    "pass": 3
+   },
+   {
+    "quote": "（ 試作開発・少量生産 / ＮＣ機械加工 ）",
+    "url": "https://ja.nc-net.or.jp/company/75771/",
+    "pass": 3
+   },
+   {
+    "quote": "（ 試作開発・少量生産 / カッティング・ブランク ）",
+    "url": "https://ja.nc-net.or.jp/company/75771/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、多品種少量の加工を得意としています",
+    "url": "https://ja.nc-net.or.jp/company/75771/",
+    "pass": 3
+   },
+   {
+    "quote": "試作品や研究開発品も数多くの実績がございます",
+    "url": "https://ja.nc-net.or.jp/company/75771/",
+    "pass": 3
+   },
+   {
+    "quote": "また、試作後の量産対応も、設備投資を含めてご検討させて頂きます",
+    "url": "https://ja.nc-net.or.jp/company/75771/",
+    "pass": 3
+   },
+   {
+    "quote": "機械加工／小ロット（1個から）対応",
+    "url": "https://ja.nc-net.or.jp/company/75771/",
+    "pass": 3
+   },
+   {
+    "quote": "当社では、少量であってもロボットを活用している事例が多数あります",
+    "url": "https://mono.ipros.com/company/detail/66521/category/",
+    "pass": 3
+   },
+   {
+    "quote": "試作とその後の量産対応や、単品製作も喜んでご検討させて頂きますので、どうぞ安心してお問合せください",
+    "url": "https://mono.ipros.com/company/detail/66521/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "半導体製造装置部品加工・水密溶接・気密溶接｜株式会社第五電子工業",
+    "url": "https://www.netdaigo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "職人の技と言うべき手によるTIG溶接、TIGのロボット溶接、パイプを溶接する専用のTIGの円周自動溶接、ファイバーレザー溶接は手動とロボットで行えます",
+    "url": "https://www.netdaigo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置や真空機器装置のユニットを組立てています",
+    "url": "https://www.netdaigo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "大手半導体メーカー等から依頼され、クリーンな環境で組立作業を行っています",
+    "url": "https://www.netdaigo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報 | 半導体製造装置部品加工・水密溶接・気密溶接｜株式会社第五電子工業",
+    "url": "https://www.netdaigo.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "第3回九州半導体産業展 ご来場の御礼",
+    "url": "https://www.netdaigo.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "出展のお知らせ_第3回【九州】半導体産業展",
+    "url": "https://www.netdaigo.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "【第1回】半導体産業展 来場御礼",
+    "url": "https://www.netdaigo.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "出展のお知らせ【第1回】半導体産業展",
+    "url": "https://www.netdaigo.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "第五電子工業について | 半導体製造装置部品加工・水密溶接・気密溶接｜株式会社第五電子工業",
+    "url": "https://www.netdaigo.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "特に溶接に重点を置いており、一般的なTIG溶接を始め、ロボット溶接、ファイバーレーザー溶接、自動溶接等、多彩な設備を導入しております",
+    "url": "https://www.netdaigo.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "主な得意先は、半導体製造装置、真空装置メーカーです",
+    "url": "https://www.netdaigo.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "また近年では、半導体製造装置の業界の動向に関わらず、持続的な事業を進められるよう、これまでに培った知識を生かし、食品機械、医療機器、航空宇宙等、あらゆる業界の加工品にチャレンジしております",
+    "url": "https://www.netdaigo.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体業界を中心とする最先端分野において高品質な製品を提供し、この分野の発展に貢献する",
+    "url": "https://www.netdaigo.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "生産用機械機器 半導体・フラットパネルディスプレイ製造装置製造業",
+    "url": "https://www.netdaigo.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体、真空分野に進出",
+    "url": "https://www.netdaigo.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "工場と設備 | 半導体製造装置部品加工・水密溶接・気密溶接｜株式会社第五電子工業",
+    "url": "https://www.netdaigo.com/factory/",
+    "pass": 1
+   },
+   {
+    "quote": "ファイバーレーザー溶接ロボット(1.3KW)",
+    "url": "https://www.netdaigo.com/factory/",
+    "pass": 1
+   },
+   {
+    "quote": "ファイバーレーザー溶接ロボット(8KW)",
+    "url": "https://www.netdaigo.com/factory/",
+    "pass": 1
+   },
+   {
+    "quote": "TIG溶接ロボット FD-V6LS+DA-300P",
+    "url": "https://www.netdaigo.com/factory/",
+    "pass": 1
+   },
+   {
+    "quote": "TIG溶接ロボット FD-V6+DA-300P",
+    "url": "https://www.netdaigo.com/factory/",
+    "pass": 1
+   },
+   {
+    "quote": "サンダー掛けロボット CRX-10iA/R-30iB Mini plus",
+    "url": "https://www.netdaigo.com/factory/",
+    "pass": 1
+   },
+   {
+    "quote": "採用情報 | 半導体製造装置部品加工・水密溶接・気密溶接｜株式会社第五電子工業",
+    "url": "https://www.netdaigo.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "高精度・難加工技術展2025 出展のお知らせ | 半導体製造装置部品加工・水密溶接・気密溶接｜株式会社第五電子工業",
+    "url": "https://www.netdaigo.com/news/information/%E9%AB%98%E7%B2%BE%E5%BA%A6%E3%83%BB%E9%9B%A3%E5%8A%A0%E5%B7%A5%E6%8A%80%E8%A1%93%E5%B1%952025-%E5%87%BA%E5%B1%95%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "pass": 1
+   },
+   {
+    "quote": "インターンシップ | 半導体製造装置部品加工・水密溶接・気密溶接｜株式会社第五電子工業",
+    "url": "https://www.netdaigo.com/recruit/internship/",
+    "pass": 1
+   },
+   {
+    "quote": "新卒採用 | 半導体製造装置部品加工・水密溶接・気密溶接｜株式会社第五電子工業",
+    "url": "https://www.netdaigo.com/recruit/career/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体を支える部品づくりを、基礎から丁寧に学べます",
+    "url": "https://www.netdaigo.com/recruit/career/",
+    "pass": 1
+   },
+   {
+    "quote": "電気溶接機がメインで、ロボット溶接やレーザー溶接等で金属を接合します",
+    "url": "https://www.netdaigo.com/recruit/career/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報 | 半導体製造装置部品加工・水密溶接・気密溶接｜株式会社第五電子工業",
+    "url": "https://www.netdaigo.com/news/product/",
+    "pass": 1
+   },
+   {
+    "quote": "第3回九州半導体産業展 ご来場の御礼",
+    "url": "https://www.netdaigo.com/news/product/",
+    "pass": 1
+   },
+   {
+    "quote": "出展のお知らせ_第3回【九州】半導体産業展",
+    "url": "https://www.netdaigo.com/news/product/",
+    "pass": 1
+   },
+   {
+    "quote": "【第1回】半導体産業展 来場御礼",
+    "url": "https://www.netdaigo.com/news/product/",
+    "pass": 1
+   },
+   {
+    "quote": "出展のお知らせ【第1回】半導体産業展",
+    "url": "https://www.netdaigo.com/news/product/",
+    "pass": 1
+   },
+   {
+    "quote": "水冷プレート | 半導体製造装置部品加工・水密溶接・気密溶接｜株式会社第五電子工業",
+    "url": "https://www.netdaigo.com/news/product/water-cooling-plate/",
+    "pass": 1
+   },
+   {
+    "quote": "第3回九州半導体産業展 ご来場の御礼",
+    "url": "https://www.netdaigo.com/news/product/water-cooling-plate/",
+    "pass": 1
+   },
+   {
+    "quote": "出展のお知らせ_第3回【九州】半導体産業展",
+    "url": "https://www.netdaigo.com/news/product/water-cooling-plate/",
+    "pass": 1
+   },
+   {
+    "quote": "【第1回】半導体産業展 来場御礼",
+    "url": "https://www.netdaigo.com/news/product/water-cooling-plate/",
+    "pass": 1
+   },
+   {
+    "quote": "出展のお知らせ【第1回】半導体産業展",
+    "url": "https://www.netdaigo.com/news/product/water-cooling-plate/",
+    "pass": 1
+   },
+   {
+    "quote": "設備情報 | 半導体製造装置部品加工・水密溶接・気密溶接｜株式会社第五電子工業",
+    "url": "https://www.netdaigo.com/news/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "製品ページをリニューアルしました | 半導体製造装置部品加工・水密溶接・気密溶接｜株式会社第五電子工業",
+    "url": "https://www.netdaigo.com/news/information/%E8%A3%BD%E5%93%81%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/",
+    "pass": 1
+   },
+   {
+    "quote": "SEMICON Japan2023出展製品紹介④【真空チャンバー】 | 半導体製造装置部品加工・水密溶接・気密溶接｜株式会社第五電子工業",
+    "url": "https://www.netdaigo.com/news/event/semicon-japan2023%E5%87%BA%E5%B1%95%E8%A3%BD%E5%93%81%E7%B4%B9%E4%BB%8B%E2%91%A3%E3%80%90%E7%9C%9F%E7%A9%BA%E3%83%81%E3%83%A3%E3%83%B3%E3%83%90%E3%83%BC%E3%80%91/",
+    "pass": 1
+   },
+   {
+    "quote": "SEMICON Japan2023出展製品紹介③【ラジエーター】 | 半導体製造装置部品加工・水密溶接・気密溶接｜株式会社第五電子工業",
+    "url": "https://www.netdaigo.com/news/event/semicon-japan2023%E5%87%BA%E5%B1%95%E8%A3%BD%E5%93%81%E7%B4%B9%E4%BB%8B%E2%91%A2%E3%80%90%E3%83%A9%E3%82%B8%E3%82%A8%E3%83%BC%E3%82%BF%E3%83%BC%E3%80%91/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は半導体製造装置用の各種ラジエーターを製造しております",
+    "url": "https://www.netdaigo.com/news/event/semicon-japan2023%E5%87%BA%E5%B1%95%E8%A3%BD%E5%93%81%E7%B4%B9%E4%BB%8B%E2%91%A2%E3%80%90%E3%83%A9%E3%82%B8%E3%82%A8%E3%83%BC%E3%82%BF%E3%83%BC%E3%80%91/",
+    "pass": 1
+   },
+   {
+    "quote": "【環境マネジメント】太陽光発電設備の導入と発電状況の見える化 | 半導体製造装置部品加工・水密溶接・気密溶接｜株式会社第五電子工業",
+    "url": "https://www.netdaigo.com/news/%E3%80%90%E7%92%B0%E5%A2%83%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E3%80%91%E5%A4%AA%E9%99%BD%E5%85%89%E7%99%BA%E9%9B%BB%E8%A8%AD%E5%82%99%E3%81%AE%E5%B0%8E%E5%85%A5%E3%81%A8%E7%99%BA/",
+    "pass": 1
+   },
+   {
+    "quote": "ワイヤーカット放電加工機を更新しました | 半導体製造装置部品加工・水密溶接・気密溶接｜株式会社第五電子工業",
+    "url": "https://www.netdaigo.com/news/facility/%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%BC%E3%82%AB%E3%83%83%E3%83%88%E6%94%BE%E9%9B%BB%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%82%92%E6%9B%B4%E6%96%B0%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/",
+    "pass": 1
+   },
+   {
+    "quote": "第四工場【機械加工・溶接加工・検査出荷工場】が本格稼働を開始 | 半導体製造装置部品加工・水密溶接・気密溶接｜株式会社第五電子工業",
+    "url": "https://www.netdaigo.com/news/facility/%E7%AC%AC%E5%9B%9B%E5%B7%A5%E5%A0%B4%E3%80%90%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5%E3%83%BB%E6%BA%B6%E6%8E%A5%E5%8A%A0%E5%B7%A5%E3%83%BB%E6%A4%9C%E6%9F%BB%E5%87%BA%E8%8D%B7%E5%B7%A5%E5%A0%B4%E3%80%91/",
+    "pass": 1
+   },
+   {
+    "quote": "技術の現場紹介【機械加工】 | 半導体製造装置部品加工・水密溶接・気密溶接｜株式会社第五電子工業",
+    "url": "https://www.netdaigo.com/news/%E6%8A%80%E8%A1%93%E3%81%AE%E7%8F%BE%E5%A0%B4%E7%B4%B9%E4%BB%8B%E3%80%90%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5%E3%80%91/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報 | 半導体製造装置部品加工・水密溶接・気密溶接｜株式会社第五電子工業",
+    "url": "https://www.netdaigo.com/products2/",
+    "pass": 1
+   },
+   {
+    "quote": "ステンレス、アルミのTIG溶接からレーザー溶接、ロボット溶接、プラズマ溶接、電子ビーム溶接、マイクロプラズマ溶接、自動溶接、ロウ付、半田付けとあらゆる接合方法に対応します",
+    "url": "https://www.netdaigo.com/products2/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置、真空装置向けの、水路溶接が含まれるような気密溶接品や、規格外のフランジや、パイプを加工して溶接するような丸型チャンバーの製作実績が多数ございます",
+    "url": "https://www.netdaigo.com/products2/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置、真空装置関係で使用される、真空チャンバーの製作実績が多数ございます",
+    "url": "https://www.netdaigo.com/products2/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置、真空装置、真空機器関係は多くの実績があります",
+    "url": "https://www.netdaigo.com/products2/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・フラットパネルディスプレイ製造装置製造業",
+    "url": "https://www.netdaigo.com/2021/wp-content/uploads/2024/11/2026.11%E6%94%B9%E8%A8%82.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "半導体製造装置、電子機器、真空機器、精審機器、洗浄機器、医療、環境ビジネス、食品機械",
+    "url": "https://www.netdaigo.com/2021/wp-content/uploads/2024/11/2026.11%E6%94%B9%E8%A8%82.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "TIG溶接ロボット FD-V20A+WELbeeA350P ダイヘン 1台",
+    "url": "https://www.netdaigo.com/2021/wp-content/uploads/2024/12/%E4%B8%BB%E8%A6%81%E8%A8%AD%E5%82%99%E4%B8%80%E8%A6%A7_202509.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "Use e177, ママ溶接ロボット FD-V6S+DA-300P/F300P ダイヘン 1台",
+    "url": "https://www.netdaigo.com/2021/wp-content/uploads/2024/12/%E4%B8%BB%E8%A6%81%E8%A8%AD%E5%82%99%E4%B8%80%E8%A6%A7_202509.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "サンダーロボット CRX-10iA/R-30iB Mini plus アイワエンジニアリング/ ファナック NG",
+    "url": "https://www.netdaigo.com/2021/wp-content/uploads/2024/12/%E4%B8%BB%E8%A6%81%E8%A8%AD%E5%82%99%E4%B8%80%E8%A6%A7_202509.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "半導体製造装置・真空装置 部品加工 株式会社第五電子工業",
+    "url": "https://ja.nc-net.or.jp/company/75771/",
+    "pass": 3
+   },
+   {
+    "quote": "丸形真空ﾁｬﾝﾊﾞｰ、ﾌﾗﾝｼﾞの特注製作【半導体製造装置 機械加工】",
+    "url": "https://ja.nc-net.or.jp/company/75771/",
+    "pass": 3
+   },
+   {
+    "quote": "【水冷ラジエーター 熱交換器の製作】半導体製造装置用",
+    "url": "https://ja.nc-net.or.jp/company/75771/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "hyperMILL CAM(3D仕様)",
+    "url": "https://www.netdaigo.com/factory/",
+    "pass": 1
+   },
+   {
+    "quote": "板金用CAD・CAM 3Ｄ",
+    "url": "https://www.netdaigo.com/factory/",
+    "pass": 1
+   },
+   {
+    "quote": "また、展示会への出展やInstagramの投稿など、会社のPR活動にも携わっています",
+    "url": "https://www.netdaigo.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "Instagramの投稿に「いいね」や閲覧数が増えると、多くの方に会社の魅力が伝わっていることを実感でき、やりがいを感じます",
+    "url": "https://www.netdaigo.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "五軸メインにマシニング加工、CAD・CAMで何もない状態から製品モデル作製、段取りから加工まで幅が増えている",
+    "url": "https://www.netdaigo.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "PROGRAM 01",
+    "url": "https://www.netdaigo.com/recruit/internship/",
+    "pass": 1
+   },
+   {
+    "quote": "PROGRAM 02",
+    "url": "https://www.netdaigo.com/recruit/internship/",
+    "pass": 1
+   },
+   {
+    "quote": "また、展示会への出展やInstagramの投稿など、会社のPR活動にも携わっています",
+    "url": "https://www.netdaigo.com/recruit/career/",
+    "pass": 1
+   },
+   {
+    "quote": "五軸メインにマシニング加工、CAD・CAMで何もない状態から製品モデル作製、段取りから加工まで幅が増えている",
+    "url": "https://www.netdaigo.com/recruit/career/",
+    "pass": 1
+   },
+   {
+    "quote": "Instagramの投稿に「いいね」や閲覧数が増えると、多くの方に会社の魅力が伝わっていることを実感でき、やりがいを感じます",
+    "url": "https://www.netdaigo.com/recruit/career/",
+    "pass": 1
+   },
+   {
+    "quote": "板金用CAD・CAM CADMAC 2000 CADMAC 146",
+    "url": "https://www.netdaigo.com/2021/wp-content/uploads/2024/12/%E4%B8%BB%E8%A6%81%E8%A8%AD%E5%82%99%E4%B8%80%E8%A6%A7_202509.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "板金用CAD・CAM(3D仕様) MAC SEET EASY/MAC SEET IST CADMAC 16",
+    "url": "https://www.netdaigo.com/2021/wp-content/uploads/2024/12/%E4%B8%BB%E8%A6%81%E8%A8%AD%E5%82%99%E4%B8%80%E8%A6%A7_202509.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ee 械加工用 CAD・CAW MYPACK-CADCAM BK 16",
+    "url": "https://www.netdaigo.com/2021/wp-content/uploads/2024/12/%E4%B8%BB%E8%A6%81%E8%A8%AD%E5%82%99%E4%B8%80%E8%A6%A7_202509.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "光学データ処理システム QAM-Data200・画像ユニット ミツトヨ 1台",
+    "url": "https://www.netdaigo.com/2021/wp-content/uploads/2024/12/%E4%B8%BB%E8%A6%81%E8%A8%AD%E5%82%99%E4%B8%80%E8%A6%A7_202509.pdf",
+    "pass": 2
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "また、展示会に出展した後、見込み顧客からお問い合わせやご依頼をいただけたときも、大きな達成感があります",
+    "url": "https://www.netdaigo.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "また、展示会に出展した後、見込み顧客からお問い合わせやご依頼をいただけたときも、大きな達成感があります",
+    "url": "https://www.netdaigo.com/recruit/career/",
+    "pass": 1
+   },
+   {
+    "quote": "お電話、メール、マイナビよりご応募ください",
+    "url": "https://www.netdaigo.com/recruit/career/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ - 半導体製造装置・真空装置 部品加工 株式会社第五電子工業",
+    "url": "https://ja.nc-net.or.jp/company/75771/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "当社からの連絡に必要な電子メールアドレスを用意してそのアドレスを当社に対して登録すること",
+    "url": "https://ja.nc-net.or.jp/company/75771/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、会員に対し、会員が登録情報として提供した電子メールアドレス宛に電子メールにより随時必要な事項の通知または連絡を行うものとします",
+    "url": "https://ja.nc-net.or.jp/company/75771/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "かかる連絡は、通常電子メールが到達する期間が経過した時に会員に到達したものとします",
+    "url": "https://ja.nc-net.or.jp/company/75771/inquiry/input/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "半導体製造装置・真空装置 部品加工 株式会社第五電子工業 — 第五電子工業は、半導体製造装置・真空装置の部品製造からユニット品の製造まで、幅広く対応可能です。 組立は当社所有のクリーンルームで行います。 加工分野は、機械加工、板金加工、溶接加工です。",
+    "url": "https://ja.nc-net.or.jp/company/75771/",
+    "pass": 3
+   },
+   {
+    "quote": "第五電子工業の製品・サービス一覧｜イプロスものづくり — 第五電子工業 の製品・サービス一覧です。 7つの技術でモノづくり Making with seven techniques. 主な得意先は半導体製造装置、真空装置のメーカーで、部品加工だけでなく、クリーンルーム内のユニット組立まで幅広く対応します。",
+    "url": "https://mono.ipros.com/company/detail/66521/category/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造装置部品加工・水密溶接・気密溶接｜株式会社第五電子工業 — 丸い物を削るのは旋盤を用います。 自動で削るNC旋盤も複数台保有しています。 当社の独自技術とすれば、溶接後の平らでない製品を1点1点計測しながら削り均等に削っていく事です。 熟練が必要になります。",
+    "url": "https://www.netdaigo.com/",
+    "pass": 3
+   },
+   {
+    "quote": "第五電子工業のカタログ一覧 | イプロスものづくり — 見積一日対応も実践しています。 試作とその後の量産対応や、単品製作も喜んでご検討させて頂きますので、どうぞ安心してお問合せください。 イプロスものづくりでは、電子部品・半導体など製造業向けの情報を多数掲載。",
+    "url": "https://mono.ipros.com/company/detail/66521/catalog/",
+    "pass": 3
+   },
+   {
+    "quote": "技術・製品 - 半導体製造装置・真空装置 部品加工 株式会社第五電子工... — 第五電子工業は、半導体製造装置・真空装置の部品製造からユニット品の製造まで、幅広く対応可能です。 組立は当社所有のクリーンルームで行います。 加工分野は、機械加工、板金加工、溶接加工です。",
+    "url": "https://ja.nc-net.or.jp/company/75771/product/",
+    "pass": 3
+   },
+   {
+    "quote": "第五電子工業 | 企業情報 | イプロスものづくり — 第五電子工業の会社概要 7つの技術でモノづくり Making with seven techniques. 主な得意先は半導体製造装置、真空装置のメーカーで、部品加工だけでなく、クリーンルーム内のユニット組立まで幅広く対応します。",
+    "url": "https://mono.ipros.com/company/detail/66521/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社第五電子工業の会社概要・製品情報 | Metoree — 株式会社第五電子工業は1960年に設立された神奈川県相模原市緑区橋本台2-7-23に本社が所在する会社です。 パイプ曲げ加工、真空装置、電子ビーム溶接、溶接加工、板金加工、機械加工等を取り扱っています。",
+    "url": "https://metoree.com/companies/9285/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社第五電子工業（神奈川県）の会社概要・役員 | Compalyze — 事業概要 株式会社第五電子工業は、1960年の創業以来、ステンレスを中心に金属部品加工を専門とする企業です。 同社は溶接、機械加工、板金加工の設備を同一敷地内に保有し、一貫生産体制を強みとしています。",
+    "url": "https://compalyze.co.jp/company/3021001012913",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社第五電子工業 — 会社概要 半導体製造装置における高熱ウェハーを冷却するラジエーター等の製造を中心に、真空装置の部品加工や装置の組立、完成品(OEM) 生産まで、ステンレスを主とした金属加工について、幅広く対応することができる。",
+    "url": "https://www.chusho.meti.go.jp/keiei/sapoin/monozukuri300sha/2018/seisan043_daigodenshikogyo.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造装置部品加工・水密溶接・気密溶接｜株式会社第五電子工業 — レーザー溶接では5㎜の板厚を開先も取らずに裏波溶接 (完全溶け込み溶接)が可能です。 TIG溶接の場合でも完全裏波溶接をすることによって10年以上漏れない仕様に出来ます。 金属を掘る場合も切削で行います。 削るより掘る方が技術を有します。",
+    "url": "https://www.netdaigo.com/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | 半導体製造装置部品加工・水密溶接・気密溶接｜株式会... — 株式会社第五電子工業へのお問い合わせページです。 フォームより必要事項を記入いただき送信ボタンを押してください。 通常2〜3営業日以内に担当よりご連絡を差し上げますが、お問い合わせ内容によってはご連絡できかねることもございます。",
+    "url": "https://www.netdaigo.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 半導体製造装置・真空装置 部品加工 株式会社第五電子... — 第五電子工業は、半導体製造装置・真空装置の部品製造からユニット品の製造まで、幅広く対応可能です。 組立は当社所有のクリーンルームで行います。 加工分野は、機械加工、板金加工、溶接加工です。",
+    "url": "https://ja.nc-net.or.jp/company/75771/inquiry/input/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.netdaigo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.netdaigo.com/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.netdaigo.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.netdaigo.com/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.netdaigo.com/factory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.netdaigo.com/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.netdaigo.com/news/information/%E9%AB%98%E7%B2%BE%E5%BA%A6%E3%83%BB%E9%9B%A3%E5%8A%A0%E5%B7%A5%E6%8A%80%E8%A1%93%E5%B1%952025-%E5%87%BA%E5%B1%95%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.netdaigo.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.netdaigo.com/factory/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.netdaigo.com/2021/wp-content/uploads/2022/01/fac_img09.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.netdaigo.com/2021/wp-content/uploads/2022/01/MV2400S-D-CUBES-.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.netdaigo.com/2021/wp-content/uploads/2022/01/fac_img11.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.netdaigo.com/2021/wp-content/uploads/2022/01/fac_img12.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.netdaigo.com/2021/wp-content/uploads/2022/01/fac_img50.jpeg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.netdaigo.com/recruit/internship/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.netdaigo.com/recruit/career/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.netdaigo.com/news/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.netdaigo.com/news/product/water-cooling-plate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.netdaigo.com/news/facility/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.netdaigo.com/news/information/%E8%A3%BD%E5%93%81%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E3%83%AA%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A2%E3%83%AB%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.netdaigo.com/news/event/semicon-japan2023%E5%87%BA%E5%B1%95%E8%A3%BD%E5%93%81%E7%B4%B9%E4%BB%8B%E2%91%A3%E3%80%90%E7%9C%9F%E7%A9%BA%E3%83%81%E3%83%A3%E3%83%B3%E3%83%90%E3%83%BC%E3%80%91/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.netdaigo.com/news/event/semicon-japan2023%E5%87%BA%E5%B1%95%E8%A3%BD%E5%93%81%E7%B4%B9%E4%BB%8B%E2%91%A2%E3%80%90%E3%83%A9%E3%82%B8%E3%82%A8%E3%83%BC%E3%82%BF%E3%83%BC%E3%80%91/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.netdaigo.com/news/%E3%80%90%E7%92%B0%E5%A2%83%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88%E3%80%91%E5%A4%AA%E9%99%BD%E5%85%89%E7%99%BA%E9%9B%BB%E8%A8%AD%E5%82%99%E3%81%AE%E5%B0%8E%E5%85%A5%E3%81%A8%E7%99%BA/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.netdaigo.com/news/facility/%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%BC%E3%82%AB%E3%83%83%E3%83%88%E6%94%BE%E9%9B%BB%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%82%92%E6%9B%B4%E6%96%B0%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.netdaigo.com/news/facility/%E7%AC%AC%E5%9B%9B%E5%B7%A5%E5%A0%B4%E3%80%90%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5%E3%83%BB%E6%BA%B6%E6%8E%A5%E5%8A%A0%E5%B7%A5%E3%83%BB%E6%A4%9C%E6%9F%BB%E5%87%BA%E8%8D%B7%E5%B7%A5%E5%A0%B4%E3%80%91/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.netdaigo.com/news/%E6%8A%80%E8%A1%93%E3%81%AE%E7%8F%BE%E5%A0%B4%E7%B4%B9%E4%BB%8B%E3%80%90%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5%E3%80%91/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.netdaigo.com/products2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.netdaigo.com/products2/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.netdaigo.com/2021/wp-content/uploads/2024/12/%E9%A7%90%E8%BB%8A%E5%A0%B4-%E6%A1%88%E5%86%85%E5%9B%B3202607.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.netdaigo.com/2021/wp-content/uploads/2024/11/2026.11%E6%94%B9%E8%A8%82.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.netdaigo.com/2021/wp-content/uploads/2024/12/%E4%B8%BB%E8%A6%81%E8%A8%AD%E5%82%99%E4%B8%80%E8%A6%A7_202509.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.netdaigo.com/2021/wp-content/themes/daigo/assets/img/lower/products_main.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.netdaigo.com/2021/wp-content/themes/daigo/assets/img/recruit/lower/career_work_04.jpg?1",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.netdaigo.com/2021/wp-content/themes/daigo/assets/img/lower/news_main.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.netdaigo.com/2021/wp-content/themes/daigo/assets/img/lower/products2_main.jpg?1",
+    "status": "http_404",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.nc-net.or.jp/company/75771/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/66521/category/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/66521/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/9285/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compalyze.co.jp/company/3021001012913",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.nc-net.or.jp/company/75771/inquiry/input/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ytk-e.com/contactform/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "第五電子工業 取扱製品 試作 小ロット",
+   "results": [
+    "https://ja.nc-net.or.jp/company/75771/",
+    "https://mono.ipros.com/company/detail/66521/category/",
+    "https://www.netdaigo.com/",
+    "https://mono.ipros.com/company/detail/66521/catalog/",
+    "https://ja.nc-net.or.jp/company/75771/product/",
+    "https://www.netdaigo.com/products/",
+    "http://www.katayamadenshi.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "第五電子工業 会社概要 事業内容",
+   "results": [
+    "https://mono.ipros.com/company/detail/66521/",
+    "https://metoree.com/companies/9285/",
+    "https://compalyze.co.jp/company/3021001012913",
+    "https://www.chusho.meti.go.jp/keiei/sapoin/monozukuri300sha/2018/seisan043_daigodenshikogyo.pdf",
+    "https://www.netdaigo.com/",
+    "https://www.netdaigo.com/company/",
+    "https://job.mynavi.jp/27/pc/search/corp267879/outline.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "第五電子工業 お問い合わせ メール",
+   "results": [
+    "https://www.netdaigo.com/contact/",
+    "https://ja.nc-net.or.jp/company/75771/inquiry/input/",
+    "https://www.ytk-e.com/contactform/",
+    "https://www.ddk.ne.jp/contact/",
+    "https://www.fuji-ele.co.jp/contact/",
+    "https://www.netdaigo.com/",
+    "https://www.futaba.co.jp/inquiry",
+    "https://www.emic-jp.com/contact/",
+    "https://mono.ipros.com/company/detail/66521/",
+    "https://www.fujidenshi.com/fdk/contact/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:note.com 第五電子工業",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com 第五電子工業",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com 第五電子工業",
+   "results": [
+    "https://note.com/jf3mxu/n/n56077c5addce",
+    "https://note.com/semicon_news/n/na6e0b99edb02",
+    "https://tales.note.com/nekomaaru/wdetstblgjfaa/episodes/ejhhvwsc3ov5i",
+    "https://tales.note.com/nekomaaru/wdetstblgjfaa/episodes/evukpn6bsx1pe",
+    "https://note.com/",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/glad_auklet4142/n/nfe62229dd87b",
+    "https://note.com/dbai/n/n45536052b1b8",
+    "https://note.com/studiomasakaki/n/n9bd76032db89",
+    "https://note.com/login"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:facebook.com 第五電子工業",
+   "results": [
+    "https://note.com/jf3mxu/n/n56077c5addce",
+    "https://note.com/semicon_news/n/na6e0b99edb02",
+    "https://tales.note.com/nekomaaru/wdetstblgjfaa/episodes/ejhhvwsc3ov5i",
+    "https://tales.note.com/nekomaaru/wdetstblgjfaa/episodes/evukpn6bsx1pe",
+    "https://note.com/",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/glad_auklet4142/n/nfe62229dd87b",
+    "https://note.com/dbai/n/n45536052b1b8",
+    "https://note.com/studiomasakaki/n/n9bd76032db89",
+    "https://note.com/login"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "第五電子工業 note 社長",
+   "results": [
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://shachomeikan.jp/corporations/22330",
+    "https://compalyze.co.jp/company/3021001012913",
+    "https://www.netdaigo.com/company/",
+    "https://shachomeikan.jp/industry_article/2132",
+    "https://www.netdaigo.com/sustainability/philosophy/",
+    "https://humanstory.jp/mizuta_mitsuomi/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "第五電子工業 X 投稿",
+   "results": [
+    "https://www.instagram.com/netdaigo/",
+    "https://www.youtube.com/channel/UCuEwE_v0vv9M3zDRJebAqFg",
+    "https://www.youtube.com/shorts/EOw-27WB-eo",
+    "https://www.netdaigo.com/",
+    "https://portal2026.semiconjapan.org/?page_id=2424&boothId=boothId=697293",
+    "https://www.netdaigo.com/products/",
+    "https://www.instagram.com/p/CuYPE1jpNRE/",
+    "https://x.com/chi_osakanasuki/status/2108457749147459813",
+    "https://www.kem.kyoto/",
+    "https://industry.city.sagamihara.kanagawa.jp/cat_info/interview_robot-4/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  }
+ ],
+ "missing": {}
+}

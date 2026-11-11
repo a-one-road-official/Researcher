@@ -1,0 +1,780 @@
+{
+ "name": "株式会社日新化成 本社",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T11:17:18.416156+00:00",
+ "official_url": "http://nissinkasei.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "本社・工場 〒331-0046 埼玉県さいたま市西区宮前町821番地 TEL.048-624-8450(代) FAX.048-624-8404 宮城第一工場 〒989-4305 宮城県大崎市田尻小塩字坂下5番地 TEL.0229-38-2411(代) FAX.0229-38-2412 宮城第二工場 〒989-4308 宮城県大崎市田尻沼部字新富岡39-1番地 秋田工場 〒014-0113 秋田県大仙市堀見内字下田茂木114番地 TEL.0187-73-5650(代) FAX.0187-73-6066",
+    "url": "https://www.nissinkasei.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "本社・工場　　　　35名 宮城第一工場　　　35名 秋田工場　　　　　10名 合計　　　　　　　80名",
+    "url": "https://www.nissinkasei.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "拠点": [
+   {
+    "label": "工場敷地",
+    "value": "本社・工場　　　　3,000㎡ 宮城第一工場　　　5,000㎡ 宮城第二工場　　　3,000㎡ 秋田工場　　　　　2,000㎡",
+    "url": "https://www.nissinkasei.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業",
+    "value": "(A) 各種熱硬化性合成樹脂部品 (電気部品、電子部品、自動車部品などの成形加工) (B) 各種熱可塑性合成樹脂部品 (電気部品、電子部品、自動車部品などの成形加工) (C) 精密金型の設計製作 (D) 電気機器、電子部品、光通信部品組立 (E) 光通信関連部品",
+    "url": "https://www.nissinkasei.co.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱材料": [
+   {
+    "quote": "日新化成の樹脂成形部品、光通信部品は世界各国、",
+    "url": "https://www.nissinkasei.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金型切削部品を樹脂化しようと可塑性LCPで試作した結果、写真形状のような反りが発生してしまい、製品性能が出ない樹脂でフラットな製品を制作したい",
+    "url": "https://www.nissinkasei.co.jp/can/example/",
+    "pass": 1
+   },
+   {
+    "quote": "当社提案の熱硬化性樹脂エポキシを使用し反り軽減を実現",
+    "url": "https://www.nissinkasei.co.jp/can/example/",
+    "pass": 1
+   },
+   {
+    "quote": "熱可塑性樹脂成形では、射出速度、圧力によりボビンの巻き線ワイヤーが切断されてしまうため、ワイヤーを切断せずに全体を樹脂で封止したい",
+    "url": "https://www.nissinkasei.co.jp/can/example/",
+    "pass": 1
+   },
+   {
+    "quote": "熱硬化性樹脂不飽和ポリエステル(BMC)を材料提案し、成形は熱硬化性樹脂特有のトランスファー成形で製作した結果、低圧（射出速度、圧力を抑えて）での成形が可能となり、結果としてワイヤーを切断することなく封止成形を実現できた",
+    "url": "https://www.nissinkasei.co.jp/can/example/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂材料：熱硬化性樹脂 不飽和ポリエステル",
+    "url": "https://www.nissinkasei.co.jp/can/example/",
+    "pass": 1
+   },
+   {
+    "quote": "製品特性に応じた樹脂（可塑性、硬化性）による精密インサート成形を提案",
+    "url": "https://www.nissinkasei.co.jp/can/example/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂材料：熱硬化性樹脂全般：可塑性樹脂PPS、LCPなど",
+    "url": "https://www.nissinkasei.co.jp/can/example/",
+    "pass": 1
+   },
+   {
+    "quote": "インサート：リードフレーム、セラミックなど幅広く対応可能",
+    "url": "https://www.nissinkasei.co.jp/can/example/",
+    "pass": 1
+   },
+   {
+    "quote": "精密樹脂成形で培ったノウハウを生かし、光通信部品の製造を行っております",
+    "url": "https://www.nissinkasei.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "熱硬化性樹脂・熱可塑性樹脂の幅広い材料の取扱いに加え、これまで蓄積してきたさまざまなプラスチック成形のノウハウは、我々の得意とするインサート成形や超精密部品の製造に活かされています",
+    "url": "https://www.nissinkasei.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "うかがい、我々の保有する幅広い成形方法や取扱材料のなかから最適な提案をし、お客様の開発パートナーとして、製品実現のお役に立ちます",
+    "url": "https://www.nissinkasei.co.jp/about/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は熱硬化性・熱可塑性樹脂を材料とする幅広い成形技術を保有しており、お客様のニーズに合わせた成形方法をご提案いたします",
+    "url": "https://www.nissinkasei.co.jp/about/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "当社がこれまで樹脂成形で培った60年のノウハウを生かし、異素材インサート成形も得意としております",
+    "url": "https://www.nissinkasei.co.jp/about/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "金属やセラミック部品など様々な素材とのインサート成形の実績がございます",
+    "url": "https://www.nissinkasei.co.jp/about/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂成形部品・環境対応プラスチック部品に関するお問い合わせ",
+    "url": "https://www.nissinkasei.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、熱硬化性/熱可塑性/バイオプラスチックなどの幅広い樹脂を扱い、特に高精度・微細成形の分野では製造実績が多数ございます",
+    "url": "https://www.nissinkasei.co.jp/can/",
+    "pass": 1
+   },
+   {
+    "quote": "特に、金属部品や異種素材をあらかじめ金型にセットし、樹脂で一体化するインサート成形に最適な機械として知られています",
+    "url": "https://www.nissinkasei.co.jp/can/",
+    "pass": 1
+   },
+   {
+    "quote": "金属やセラミックス、電子部品などを金型に配置しやすく、異材質の複合成形やリードフレーム部品の製造に多用されます",
+    "url": "https://www.nissinkasei.co.jp/can/",
+    "pass": 1
+   },
+   {
+    "quote": "・センサー・工業用部品（異材質複合部品、機構部品）",
+    "url": "https://www.nissinkasei.co.jp/can/",
+    "pass": 1
+   },
+   {
+    "quote": "トランスファー成形機は、熱硬化性樹脂を加熱・圧縮し、圧力によって金型へ樹脂を流し込む方式の射出成形機です",
+    "url": "https://www.nissinkasei.co.jp/can/",
+    "pass": 1
+   },
+   {
+    "quote": "熱可塑性樹脂に比べて加工が難しい熱硬化性樹脂（フェノール、エポキシ、不飽和ポリエステルなど）を精密に成形できる点が特徴で、半導体封止や高耐熱構造部材の製造に多用されています",
+    "url": "https://www.nissinkasei.co.jp/can/",
+    "pass": 1
+   },
+   {
+    "quote": "フェノール樹脂、エポキシ樹脂、不飽和ポリエステルなど、高耐熱・高絶縁性を求められる熱硬化性材料の成形に適しています",
+    "url": "https://www.nissinkasei.co.jp/can/",
+    "pass": 1
+   },
+   {
+    "quote": "インサート品(金属など)と樹脂が一体となった成形品を製造します",
+    "url": "https://www.nissinkasei.co.jp/can/",
+    "pass": 1
+   },
+   {
+    "quote": "熱硬化性樹脂を低圧で成形する成形方法の一つです",
+    "url": "https://www.nissinkasei.co.jp/can/",
+    "pass": 1
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "金型切削部品を樹脂化しようと可塑性LCPで試作した結果、写真形状のような反りが発生してしまい、製品性能が出ない樹脂でフラットな製品を制作したい",
+    "url": "https://www.nissinkasei.co.jp/can/example/",
+    "pass": 1
+   },
+   {
+    "quote": "製品特性に応じた樹脂（可塑性、硬化性）による精密インサート成形を提案",
+    "url": "https://www.nissinkasei.co.jp/can/example/",
+    "pass": 1
+   },
+   {
+    "quote": "我々のつくった部品はお客様の製品の一部となり世界各国の",
+    "url": "https://www.nissinkasei.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "日新化成では主に二つの分野で特徴的な製品を製造しています",
+    "url": "https://www.nissinkasei.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "我々の技術が、お客様の製品実現に貢献し、豊かな社会づくりのために役立つよう、今後も努力を続けてまいります",
+    "url": "https://www.nissinkasei.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "既存製品を金型構造に工夫を施し、封止試作",
+    "url": "https://www.nissinkasei.co.jp/process/",
+    "pass": 1
+   },
+   {
+    "quote": "当社ラインナップ製品のみならず、当社プラスチック成形のノウハウを生かし、お客様のオーダーメイド製品の開発にも貢献いたします",
+    "url": "https://www.nissinkasei.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "MTフェルールでは、SM/LLタイプ（寸法精度0.7μm以下）のコネクタをラインナップしています",
+    "url": "https://www.nissinkasei.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "うかがい、我々の保有する幅広い成形方法や取扱材料のなかから最適な提案をし、お客様の開発パートナーとして、製品実現のお役に立ちます",
+    "url": "https://www.nissinkasei.co.jp/about/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "これまで数々のお客様の開発製品の立上げで技術を揉まれ、勉強し、ノウハウを蓄積していまいりました",
+    "url": "https://www.nissinkasei.co.jp/about/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "いかに小さく、機能的で、高精度な製品を製造するか？という課題は我々が長年向き続け、得意としているところです",
+    "url": "https://www.nissinkasei.co.jp/about/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "また、小型製品の品質管理に必要とされる測定設備も幅広く保有しております",
+    "url": "https://www.nissinkasei.co.jp/about/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチック成形は、製品の品質や生産効率を大きく左右する重要な工程です",
+    "url": "https://www.nissinkasei.co.jp/can/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、製品の特性や用途に応じて最適な成形方式を選択しています",
+    "url": "https://www.nissinkasei.co.jp/can/",
+    "pass": 1
+   },
+   {
+    "quote": "・家電製品（筐体、スイッチ部品、機構部品）",
+    "url": "https://www.nissinkasei.co.jp/can/",
+    "pass": 1
+   },
+   {
+    "quote": "横型成形機は、大量生産が求められる製品分野の標準機として最も広く活用されています",
+    "url": "https://www.nissinkasei.co.jp/can/",
+    "pass": 1
+   },
+   {
+    "quote": "当社ではマイクロ単位の精密成形技術と組み合わせ、複雑形状の機構部品やリードフレーム成形などの高付加価値製品の製造実績が多数ございます",
+    "url": "https://www.nissinkasei.co.jp/can/",
+    "pass": 1
+   },
+   {
+    "quote": "ソリや変形が少なく、肉厚な製品に適します",
+    "url": "https://www.nissinkasei.co.jp/can/",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "金型切削部品を樹脂化しようと可塑性LCPで試作した結果、写真形状のような反りが発生してしまい、製品性能が出ない樹脂でフラットな製品を制作したい",
+    "url": "https://www.nissinkasei.co.jp/can/example/",
+    "pass": 1
+   },
+   {
+    "quote": "既存製品を金型構造に工夫を施し、封止試作",
+    "url": "https://www.nissinkasei.co.jp/process/",
+    "pass": 1
+   },
+   {
+    "quote": "オーダーメイド品（多心系コネクタ・光ファイバー組立品｜光通信部品｜株式会社日新化成",
+    "url": "https://www.nissinkasei.co.jp/product/oem/",
+    "pass": 1
+   },
+   {
+    "quote": "オーダーメイド品（多心系コネクタ・光ファイバー組立品）",
+    "url": "https://www.nissinkasei.co.jp/product/oem/",
+    "pass": 1
+   },
+   {
+    "quote": "ご要望にオーダーメイドでお応えいたしますので、お気軽にご相談ください",
+    "url": "https://www.nissinkasei.co.jp/product/oem/",
+    "pass": 1
+   },
+   {
+    "quote": "当社ラインナップ製品のみならず、当社プラスチック成形のノウハウを生かし、お客様のオーダーメイド製品の開発にも貢献いたします",
+    "url": "https://www.nissinkasei.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "OEM（受注生産）、共同開発などお客様の課題解決に様々な角度から貢献いたします",
+    "url": "https://www.nissinkasei.co.jp/about/strength/",
+    "pass": 1
+   },
+   {
+    "quote": "横型に比べて生産性はやや劣るものの、多品種少量生産や精密部品の成形に強みを発揮します",
+    "url": "https://www.nissinkasei.co.jp/can/",
+    "pass": 1
+   },
+   {
+    "quote": "金型が開いた状態で上面から部品をセットできるため、手作業でのインサートや試作対応が容易",
+    "url": "https://www.nissinkasei.co.jp/can/",
+    "pass": 1
+   },
+   {
+    "quote": "サイクルタイムは横型に劣りますが、試作・小ロット生産・特注品対応など、柔軟な生産に対応できます",
+    "url": "https://www.nissinkasei.co.jp/can/",
+    "pass": 1
+   },
+   {
+    "quote": "・試作・研究開発用成形（少量ロットや開発段階）",
+    "url": "https://www.nissinkasei.co.jp/can/",
+    "pass": 1
+   },
+   {
+    "quote": "インサート部品、小ロット品",
+    "url": "https://www.nissinkasei.co.jp/can/",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "金型切削部品を樹脂化しようと可塑性LCPで試作した結果、写真形状のような反りが発生してしまい、製品性能が出ない樹脂でフラットな製品を制作したい",
+    "url": "https://www.nissinkasei.co.jp/can/example/",
+    "pass": 1
+   },
+   {
+    "quote": "(電気部品、電子部品、自動車部品などの成形加工)",
+    "url": "https://www.nissinkasei.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "既存製品を金型構造に工夫を施し、封止試作",
+    "url": "https://www.nissinkasei.co.jp/process/",
+    "pass": 1
+   },
+   {
+    "quote": "その他、各種治具",
+    "url": "https://www.nissinkasei.co.jp/can/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "成形品を横方向に取り出せるため、自動搬出装置やロボット搬送との相性が良く、自動化ラインに組み込みやすい設計になっています",
+    "url": "https://www.nissinkasei.co.jp/can/",
+    "pass": 1
+   },
+   {
+    "quote": "横型は金型の多キャビティ化（多数個取り）に対応しやすく、高速成形サイクルによる大量生産に向いています",
+    "url": "https://www.nissinkasei.co.jp/can/",
+    "pass": 1
+   },
+   {
+    "quote": "縦型成形機に比べて設置面積が大きいため、工場レイアウトの確保が必要になりますが、その分多様な金型サイズや部品形状に対応可能です",
+    "url": "https://www.nissinkasei.co.jp/can/",
+    "pass": 1
+   },
+   {
+    "quote": "・自動車部品（内装・外装部品、精密コネクタ類）",
+    "url": "https://www.nissinkasei.co.jp/can/",
+    "pass": 1
+   },
+   {
+    "quote": "特に、金属部品や異種素材をあらかじめ金型にセットし、樹脂で一体化するインサート成形に最適な機械として知られています",
+    "url": "https://www.nissinkasei.co.jp/can/",
+    "pass": 1
+   },
+   {
+    "quote": "金属やセラミックス、電子部品などを金型に配置しやすく、異材質の複合成形やリードフレーム部品の製造に多用されます",
+    "url": "https://www.nissinkasei.co.jp/can/",
+    "pass": 1
+   },
+   {
+    "quote": "金型が開いた状態で上面から部品をセットできるため、手作業でのインサートや試作対応が容易",
+    "url": "https://www.nissinkasei.co.jp/can/",
+    "pass": 1
+   },
+   {
+    "quote": "・医療機器部品（小型精密部品、精密インサートの複合成形）",
+    "url": "https://www.nissinkasei.co.jp/can/",
+    "pass": 1
+   },
+   {
+    "quote": "トランスファー成形機は、熱硬化性樹脂を加熱・圧縮し、圧力によって金型へ樹脂を流し込む方式の射出成形機です",
+    "url": "https://www.nissinkasei.co.jp/can/",
+    "pass": 1
+   },
+   {
+    "quote": "材料をあらかじめ余熱加工し、ピストンの圧力で金型キャビティに送り込む（＝トランスファー）という仕組みを持ちます",
+    "url": "https://www.nissinkasei.co.jp/can/",
+    "pass": 1
+   },
+   {
+    "quote": "熱可塑性樹脂に比べて加工が難しい熱硬化性樹脂（フェノール、エポキシ、不飽和ポリエステルなど）を精密に成形できる点が特徴で、半導体封止や高耐熱構造部材の製造に多用されています",
+    "url": "https://www.nissinkasei.co.jp/can/",
+    "pass": 1
+   },
+   {
+    "quote": "材料をあらかじめ余熱・軟化させ、高圧で金型に送り込むため、ガス発生の少ない成形が可能となり高品質な成形品を得られます",
+    "url": "https://www.nissinkasei.co.jp/can/",
+    "pass": 1
+   },
+   {
+    "quote": "・半導体封止材（ICパッケージ、トランジスタ）",
+    "url": "https://www.nissinkasei.co.jp/can/",
+    "pass": 1
+   },
+   {
+    "quote": "・自動車・航空分野の耐熱部品（高温下で安定動作する部材）",
+    "url": "https://www.nissinkasei.co.jp/can/",
+    "pass": 1
+   },
+   {
+    "quote": "特に半導体業界では、トランスファー成形＝封止プロセスの標準方式として確立されています",
+    "url": "https://www.nissinkasei.co.jp/can/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、半導体部品の基板封止やモーターのコイル封止などの数多くの製造実績がございます",
+    "url": "https://www.nissinkasei.co.jp/can/",
+    "pass": 1
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "Guide Pin Hole Diameter",
+    "url": "https://www.nissinkasei.co.jp/product/mt/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "樹脂成形部品・環境対応プラスチック部品に関するお問い合わせ",
+    "url": "https://www.nissinkasei.co.jp/recruit/",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.nissinkasei.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissinkasei.co.jp/can/example/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissinkasei.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissinkasei.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissinkasei.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissinkasei.co.jp/company/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissinkasei.co.jp/process/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissinkasei.co.jp/product/mt/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissinkasei.co.jp/product/mpo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissinkasei.co.jp/product/oem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissinkasei.co.jp/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissinkasei.co.jp/about/strength/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissinkasei.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissinkasei.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissinkasei.co.jp/about/strength/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissinkasei.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissinkasei.co.jp/can/example/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissinkasei.co.jp/can/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissinkasei.co.jp/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissinkasei.co.jp/product/mt/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissinkasei.co.jp/product/mpo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissinkasei.co.jp/product/oem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissinkasei.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissinkasei.co.jp/can/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.nissinkasei.co.jp/about/img/oversea.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nissinkasei.co.jp/about/img/icon_02.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nissinkasei.co.jp/product/mt/img/img_01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nissinkasei.co.jp/product/mt/img/img_02.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nissinkasei.co.jp/product/mt/img/img_03.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nissinkasei.co.jp/product/mt/img/img_04.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nissinkasei.co.jp/product/mt/img/img_05.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nissinkasei.co.jp/product/mt/img/img_06.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nissinkasei.co.jp/product/mt/img/img_07.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nissinkasei.co.jp/product/mt/img/img_08.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nissinkasei.co.jp/product/mt/img/img_09.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.nissinkasei.co.jp/product/mpo/img/img_01.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.nissinkasei.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nisshinkasei.co.jp/kaisyajyoho.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissinkasei.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nisshinkasei.com/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissin-kasei.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nissin-kk.co.jp/form/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日新化成 本社 取扱製品 試作 小ロット",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "日新化成 本社 会社概要 事業内容",
+   "results": [
+    "https://www.nissinkasei.co.jp/company/",
+    "https://www.nisshinkasei.co.jp/kaisyajyoho.html",
+    "https://www.nissinkasei.co.jp/about/",
+    "https://nisshinkasei.co.jp/",
+    "http://nisshin-kasei.jp/会社概要/",
+    "https://www.nisshinkasei.com/service/",
+    "https://www.nissin-kasei.co.jp/company/overview/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "日新化成 本社 お問い合わせ メール",
+   "results": [
+    "https://www.nisshinkasei.com/contact/",
+    "https://www.nissin-kasei.co.jp/contact/",
+    "https://nissin-kk.co.jp/form/",
+    "https://nisshinkako.co.jp/pages/contactus",
+    "https://www.nisshin.gr.jp/contact/contact-2/",
+    "http://nisshin-kasei.jp/お問合せ/",
+    "https://www.nissinkasei.co.jp/contact_resin/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 日新化成 本社",
+   "results": [
+    "https://note.com/nissinkagaku/n/n3e139e0a7bb6",
+    "https://note.com/nissinkagaku",
+    "https://note.com/",
+    "https://note.com/nissinkagaku/n/n78547cdddcde",
+    "https://note.com/fond_ferret685/n/n724d88dd72fd",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/46kyouko/n/n429c31a15ead"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 日新化成 本社",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com 日新化成 本社",
+   "results": [
+    "https://jp.linkedin.com/in/tsukasa-takahashi-95768574",
+    "https://za.linkedin.com/in/kacha-stepanovic-37a275149",
+    "https://www.linkedin.com/in/hassan-kariem",
+    "https://www.linkedin.com/pub/dir/satoshi/yokoyama",
+    "https://uk.linkedin.com/jobs/view/arts-and-culture-correspondent-at-the-guardian-4482854726",
+    "https://jp.linkedin.com/company/（株）日新",
+    "https://pk.linkedin.com/in/abu-bakr-aman-46818b38a"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 日新化成 本社",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "日新化成 本社 note 社長",
+   "results": [
+    "https://www.nissinkasei.co.jp/company/",
+    "https://nissinkk-net.co.jp/company",
+    "https://www.nisshinkasei.co.jp/kaisyajyoho.html",
+    "https://compalyze.co.jp/company/9120001086704",
+    "https://www.nj-c.co.jp/company/",
+    "https://www.nissin-tw.com/company/officers.html",
+    "https://toshin-kasei.co.jp/company-info/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "日新化成 本社 X 投稿",
+   "results": [
+    "https://nisshinkasei.co.jp/",
+    "https://www.nissinkasei.co.jp/company/",
+    "http://nisshin-kasei.jp/",
+    "https://www.nissinkasei.co.jp/",
+    "https://x.com/nk_make",
+    "http://www.nissin-kasei.co.jp/",
+    "https://nissinkakou.co.jp/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "代表者": "記載なし（3回確認済み：公式24頁／PDF・画像12件／外部6頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式24頁／PDF・画像12件／外部6頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式24頁／PDF・画像12件／外部6頁・検索9回）"
+ }
+}

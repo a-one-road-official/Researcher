@@ -1,0 +1,1758 @@
+{
+ "name": "株式会社今橋製作所",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T11:17:21.690091+00:00",
+ "official_url": "https://www.imahashi-ss.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "茨城県日立市十王町伊師２０－４２(伊師工業団地内)",
+    "url": "https://www.imahashi-ss.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "茨城県日立市十王町伊師20-42",
+    "url": "https://eigyo-mfg.com/service/navi/company/7pgLUeaLl3p0",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役　今橋正守",
+    "url": "https://www.imahashi-ss.jp/company.html",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "㈱日立製作所　電力システム社及び日立グループ各社様含む　計50社",
+    "url": "https://www.imahashi-ss.jp/company.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "主な事業内容",
+    "value": "多品種小ロットの切削加工 「難形状加工、難削材加工、アルミ精密加工、溶接、鋳物加工、プレート加工」 業種： 発電機、タービン、原子力、風力、半導体製造装置、医療機器、自動車レース（開発）、防衛、 建設機械、大学、研究機関など",
+    "url": "https://www.imahashi-ss.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "業務内容",
+    "value": "マシニングセンタ、旋盤などを用いて機械加工を実施します",
+    "url": "https://www.imahashi-ss.jp/rec.html",
+    "pass": 1
+   },
+   {
+    "label": "業務内容",
+    "value": "3DCAD/CAMや5軸マシニングセンタなどを活用し、難易度の高い製品の設計・機械加工を行います",
+    "url": "https://www.imahashi-ss.jp/rec.html",
+    "pass": 1
+   },
+   {
+    "label": "業務内容",
+    "value": "お客様のニーズを探り、自社の技術・社員を活かすことができる提案営業を行います",
+    "url": "https://www.imahashi-ss.jp/rec.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "23名",
+    "url": "https://eigyo-mfg.com/service/navi/company/7pgLUeaLl3p0",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "『第15回 DESIGN TOKYO 国際デザイン製品展』が無事終了しました",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "『第15回 DESIGN TOKYO 国際デザイン製品展』に出展致します",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【遮蔽体】 ヘビーアロイ 原子力エネルギー関連製品",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "製品事例カテゴリ 加工 - 今橋製作所株式会社",
+    "url": "https://www.imahashi-ss.jp/productcase/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "製品事例カテゴリ 汎用旋盤加工 - 今橋製作所株式会社",
+    "url": "https://www.imahashi-ss.jp/productcase/hanyousenban/",
+    "pass": 1
+   },
+   {
+    "quote": "製品事例カテゴリ 難形状加工・3D加工【5軸マシニング】 - 今橋製作所株式会社",
+    "url": "https://www.imahashi-ss.jp/productcase/5-axis/",
+    "pass": 1
+   },
+   {
+    "quote": "製品事例カテゴリ 難形状加工・3D加工【5軸旋盤】 - 今橋製作所株式会社",
+    "url": "https://www.imahashi-ss.jp/productcase/lathe/",
+    "pass": 1
+   },
+   {
+    "quote": "製品事例カテゴリ 超精密加工 - 今橋製作所株式会社",
+    "url": "https://www.imahashi-ss.jp/productcase/small-seimitsu/",
+    "pass": 1
+   },
+   {
+    "quote": "製品事例カテゴリ 丸物切削加工 - 今橋製作所株式会社",
+    "url": "https://www.imahashi-ss.jp/productcase/maru/",
+    "pass": 1
+   },
+   {
+    "quote": "製品事例カテゴリ 角物切削加工 - 今橋製作所株式会社",
+    "url": "https://www.imahashi-ss.jp/productcase/kakumono/",
+    "pass": 1
+   },
+   {
+    "quote": "製品事例カテゴリ 大物製缶加工 - 今橋製作所株式会社",
+    "url": "https://www.imahashi-ss.jp/productcase/seikan/",
+    "pass": 1
+   },
+   {
+    "quote": "CAD/CAMのプログラミング、加工方法の選定、ツール選定、特殊治具の採用など様々な加工条件を材質と形状に合わせて最適化する事で、品質、コスト、納期のバランスの取れた製品を提供する事が可能です",
+    "url": "https://www.imahashi-ss.jp/nan.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動計測可能なCNC3次元測定機を導入したことで、複雑形状の製品においてもより早く、正確に計測することが可能です",
+    "url": "https://www.imahashi-ss.jp/nan.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社では特定の産業分野にこだわる事なく、多岐にわたる産業、分野、製品、材質を数多く手掛けてきました",
+    "url": "https://www.imahashi-ss.jp/fuku.html",
+    "pass": 1
+   },
+   {
+    "quote": "特に設備や市販工具だけではカバーできない課題や不具合も数多く経験しており、長年の加工経験を活かした専用治具の設計製造、段取り、加工条件など様々な加工技術を応用し、難易度の高い製品、形状、材料にも積極的に取り組んでいます",
+    "url": "https://www.imahashi-ss.jp/fuku.html",
+    "pass": 1
+   },
+   {
+    "quote": "3DCAD/CAMや5軸マシニングセンタなどを活用し、難易度の高い製品の設計・機械加工を行います",
+    "url": "https://www.imahashi-ss.jp/rec.html",
+    "pass": 1
+   },
+   {
+    "quote": "弊社では鋳物やダイカスト製品の二次加工の実績が多くございます",
+    "url": "https://www.imahashi-ss.jp/case/%E3%82%A2%E3%83%AB%E3%83%9F%E9%8B%B3%E7%89%A9%E3%81%AE2%E6%AC%A1%E5%8A%A0%E5%B7%A5%E5%85%88%E3%81%8C%E8%A6%8B%E3%81%A4%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84/",
+    "pass": 1
+   },
+   {
+    "quote": "製品がすぐに欲しい - 今橋製作所株式会社",
+    "url": "https://www.imahashi-ss.jp/case/%E8%A3%BD%E5%93%81%E3%81%8C%E3%81%99%E3%81%90%E3%81%AB%E6%AC%B2%E3%81%97%E3%81%84/",
+    "pass": 1
+   },
+   {
+    "quote": "急遽、製品が必要になった",
+    "url": "https://www.imahashi-ss.jp/case/%E8%A3%BD%E5%93%81%E3%81%8C%E3%81%99%E3%81%90%E3%81%AB%E6%AC%B2%E3%81%97%E3%81%84/",
+    "pass": 1
+   },
+   {
+    "quote": "本製品(全3種)はお問合せ頂いてから材料手配、加工、検査、出荷までを3日で行いました",
+    "url": "https://www.imahashi-ss.jp/case/%E8%A3%BD%E5%93%81%E3%81%8C%E3%81%99%E3%81%90%E3%81%AB%E6%AC%B2%E3%81%97%E3%81%84/",
+    "pass": 1
+   },
+   {
+    "quote": "また、物の大きさにもよりますが、多いときには一つの製品につき２～３回折損を起こすので、作業の妨げになったり、コスト面に於いても割高になる傾向がありました",
+    "url": "https://www.imahashi-ss.jp/case/%E3%82%B3%E3%82%B9%E3%83%88%E3%83%BB%E5%8A%A0%E5%B7%A5%E6%99%82%E9%96%93%E3%82%92%E4%BD%8E%E6%B8%9B%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95%EF%BC%88%E3%82%B5%E3%82%A4%E3%83%89%E3%82%AB%E3%83%83%E3%82%BF/",
+    "pass": 1
+   },
+   {
+    "quote": "特殊工具を開発する前は、サイドカッターの刃先の折損のたびにサイドカッターを交換し製品を作っていました",
+    "url": "https://www.imahashi-ss.jp/case/%E3%82%B3%E3%82%B9%E3%83%88%E3%83%BB%E5%8A%A0%E5%B7%A5%E6%99%82%E9%96%93%E3%82%92%E4%BD%8E%E6%B8%9B%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95%EF%BC%88%E3%82%B5%E3%82%A4%E3%83%89%E3%82%AB%E3%83%83%E3%82%BF/",
+    "pass": 1
+   },
+   {
+    "quote": "形状的な特徴は無い場合が殆んどですが、難削材への小径タップ加工は加工屋泣かせの代表例であるため、加工難易度は高い製品となります",
+    "url": "https://www.imahashi-ss.jp/case/%E9%9B%A3%E5%89%8A%E6%9D%90%E3%81%AB%E5%B0%8F%E5%BE%84%E3%82%BF%E3%83%83%E3%83%97%E5%8A%A0%E5%B7%A5%E3%81%97%E3%81%9F%E3%81%84-%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A/",
+    "pass": 1
+   },
+   {
+    "quote": "製品事例：マウント(治具加工) インコネル718",
+    "url": "https://www.imahashi-ss.jp/product_case/%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88%E6%B2%BB%E5%85%B7%E5%8A%A0%E5%B7%A5%E3%80%80%E3%82%A4%E3%83%B3%E3%82%B3%E3%83%8D%E3%83%AB718/",
+    "pass": 1
+   },
+   {
+    "quote": "本製品は水力発電用モックアップの試作品になります",
+    "url": "https://www.imahashi-ss.jp/product_case/%E6%B0%B4%E5%8A%9B%E7%99%BA%E9%9B%BB%E3%83%A2%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97/",
+    "pass": 1
+   },
+   {
+    "quote": "本製品は機密保持の為、図面詳細を記載することは出来ませんが、3D形状を含む為非常に加工困難な形状となっております",
+    "url": "https://www.imahashi-ss.jp/product_case/%E6%B0%B4%E5%8A%9B%E7%99%BA%E9%9B%BB%E3%83%A2%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97/",
+    "pass": 1
+   },
+   {
+    "quote": "製品事例：医療機器シリンジ（SUS304、肉厚1mm、ビビリ抑制）",
+    "url": "https://www.imahashi-ss.jp/product_case/%E5%8C%BB%E7%99%82%E6%A9%9F%E5%99%A8%E3%82%B7%E3%83%AA%E3%83%B3%E3%82%B8%EF%BC%88sus304%E3%80%81%E8%82%89%E5%8E%9A1mm%E3%80%81%E3%83%93%E3%83%93%E3%83%AA%E6%8A%91%E5%88%B6%EF%BC%89/",
+    "pass": 1
+   },
+   {
+    "quote": "製品事例カテゴリ 難削材・特殊材 - 今橋製作所株式会社",
+    "url": "https://www.imahashi-ss.jp/productcase/material/special/",
+    "pass": 1
+   },
+   {
+    "quote": "の製品一覧｜今橋製作所｜イプロスものづくり",
+    "url": "https://mono.ipros.com/company/detail/2004981/category/55908/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(140)",
+    "url": "https://mono.ipros.com/company/detail/2004981/category/55908/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "インコネル、ハステロイ、チタンなどの難削材、耐熱合金剤の切削加工",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "”紳士”のための純チタンプロダクト、第一弾はチタン製の酒器",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "贅沢に純チタンの塊を削り出し、鉱物のような発色までを表現",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "64チタン加工",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "PEEK（ポリエーテルエーテルケトン）加工 樹脂加工 5軸ﾏｼﾆﾝｸﾞ",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "【開発品】 真鍮 チタン 複雑形状加工 総削",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "納期確保のために、スペック(材質、形状)",
+    "url": "https://www.imahashi-ss.jp/ask.php",
+    "pass": 1
+   },
+   {
+    "quote": "材質、形状などのスペックご提案",
+    "url": "https://www.imahashi-ss.jp/ask.php",
+    "pass": 1
+   },
+   {
+    "quote": "CAD/CAMのプログラミング、加工方法の選定、ツール選定、特殊治具の採用など様々な加工条件を材質と形状に合わせて最適化する事で、品質、コスト、納期のバランスの取れた製品を提供する事が可能です",
+    "url": "https://www.imahashi-ss.jp/nan.html",
+    "pass": 1
+   },
+   {
+    "quote": "チタンは、他の金属に比べ軽量・高強度・優れた耐食性などの特性があり宇宙・航空機器に用いられたり、表面の酸化皮膜の安定性から人体に無害で金属アレルギーの心配がないため、医療機器やアクセサリーなど様々な分野に用いられています",
+    "url": "https://www.imahashi-ss.jp/nan.html",
+    "pass": 1
+   },
+   {
+    "quote": "チタンの機械的性質を向上させたチタン合金には様々な種類があり、その中でも64チタン(Ti-6Al-4V)はチタン合金の7割を占めています",
+    "url": "https://www.imahashi-ss.jp/nan.html",
+    "pass": 1
+   },
+   {
+    "quote": "チタンは加工性が悪く、難削材に分類されます",
+    "url": "https://www.imahashi-ss.jp/nan.html",
+    "pass": 1
+   },
+   {
+    "quote": "インコネル、ハステロイ、コバール等のレアメタル、チタン合金、その他特殊金属",
+    "url": "https://www.imahashi-ss.jp/nan.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社では特定の産業分野にこだわる事なく、多岐にわたる産業、分野、製品、材質を数多く手掛けてきました",
+    "url": "https://www.imahashi-ss.jp/fuku.html",
+    "pass": 1
+   },
+   {
+    "quote": "材質：アルミ鋳物AC4C",
+    "url": "https://www.imahashi-ss.jp/case/%E3%82%A2%E3%83%AB%E3%83%9F%E9%8B%B3%E7%89%A9%E3%81%AE2%E6%AC%A1%E5%8A%A0%E5%B7%A5%E5%85%88%E3%81%8C%E8%A6%8B%E3%81%A4%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84/",
+    "pass": 1
+   },
+   {
+    "quote": "材質：インコネル600",
+    "url": "https://www.imahashi-ss.jp/case/%E9%9B%A3%E5%89%8A%E6%9D%90%E3%81%AB%E5%B0%8F%E5%BE%84%E3%82%BF%E3%83%83%E3%83%97%E5%8A%A0%E5%B7%A5%E3%81%97%E3%81%9F%E3%81%84-%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A/",
+    "pass": 1
+   },
+   {
+    "quote": "材質：インコネル718",
+    "url": "https://www.imahashi-ss.jp/product_case/%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88%E6%B2%BB%E5%85%B7%E5%8A%A0%E5%B7%A5%E3%80%80%E3%82%A4%E3%83%B3%E3%82%B3%E3%83%8D%E3%83%AB718/",
+    "pass": 1
+   },
+   {
+    "quote": "材質はチタン合金(64チタン)となります",
+    "url": "https://www.imahashi-ss.jp/product_case/%E3%83%96%E3%83%83%E3%82%B7%E3%83%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "材質：チタン合金(64チタン)",
+    "url": "https://www.imahashi-ss.jp/product_case/%E3%83%96%E3%83%83%E3%82%B7%E3%83%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "材質はアルミ・真鍮、サイズはφ300×350Lです",
+    "url": "https://www.imahashi-ss.jp/product_case/%E6%B0%B4%E5%8A%9B%E7%99%BA%E9%9B%BB%E3%83%A2%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97/",
+    "pass": 1
+   },
+   {
+    "quote": "材質：アルミ、真鍮",
+    "url": "https://www.imahashi-ss.jp/product_case/%E6%B0%B4%E5%8A%9B%E7%99%BA%E9%9B%BB%E3%83%A2%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97/",
+    "pass": 1
+   },
+   {
+    "quote": "材質：SUS304",
+    "url": "https://www.imahashi-ss.jp/product_case/%E5%8C%BB%E7%99%82%E6%A9%9F%E5%99%A8%E3%82%B7%E3%83%AA%E3%83%B3%E3%82%B8%EF%BC%88sus304%E3%80%81%E8%82%89%E5%8E%9A1mm%E3%80%81%E3%83%93%E3%83%93%E3%83%AA%E6%8A%91%E5%88%B6%EF%BC%89/",
+    "pass": 1
+   },
+   {
+    "quote": "同社は、難削材や耐熱合金材を含む多岐にわたる材質の切削加工を主力としています",
+    "url": "https://eigyo-mfg.com/service/navi/company/7pgLUeaLl3p0",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "試作、切削加工、短納期対応の今橋製作所",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "開発を含む試作から小・中ロット、量産まで適正品質かつ短納期での対応",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "自由曲面のある３D形状や複雑形状の加工、インコネルなどの耐熱合金材の加工など豊富経験と実績で試作支援を行っています",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "電子機器部品 A5052 小ロット 短納期",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車部品 試作 SUS304 薄肉",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "試作 無酸素銅 3D形状",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "水力 試作 SUS304 3D加工",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車開発 アルミ加工 3D形状 試作",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "カバー 薄肉加工 試作 SUS304",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "フランジ SM400A 小ロット 短納期",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "3D切削 ロボットアーム FA機器 試作",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "テーパワッシャ SS400 薄肉 小ロット",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "A5052 白アルマイト ノズル 小ロット",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "A5052 3D加工 試験装置 小ロット",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "難形状 3D形状加工 試作 自動車",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "カバー 薄肉加工 SUS304 プレス試作",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "フランジ SUS304 内燃機関 試作",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "電子機器部品 A5052 小ロット 短納期",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車部品 試作 SUS304 薄肉",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "試作 無酸素銅 3D形状",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "水力 試作 SUS304 3D加工",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車開発 アルミ加工 3D形状 試作",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "カバー 薄肉加工 試作 SUS304",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "フランジ SM400A 小ロット 短納期",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "3D切削 ロボットアーム FA機器 試作",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "テーパワッシャ SS400 薄肉 小ロット",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "A5052 白アルマイト ノズル 小ロット",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "A5052 3D加工 試験装置 小ロット",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "難形状 3D形状加工 試作 自動車",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "カバー 薄肉加工 SUS304 プレス試作",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "フランジ SUS304 内燃機関 試作",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "ノズル SUS304 燃焼機関 試作",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "ダイヤフラム 試作 SUS304",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "鉄(SS400)切削加工 ※プレス品試作加工",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ(A7075)自動車部品試作(ドアパネルモックアップ) 薄肉湾曲加工",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "試作開発向け 補強部品ブラケット ３Ｄ加工",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "電子機器部品 A5052 小ロット 短納期",
+    "url": "https://www.imahashi-ss.jp/productcase/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車部品 試作 SUS304 薄肉",
+    "url": "https://www.imahashi-ss.jp/productcase/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "試作 無酸素銅 3D形状",
+    "url": "https://www.imahashi-ss.jp/productcase/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "カバー 薄肉加工 試作 SUS304",
+    "url": "https://www.imahashi-ss.jp/productcase/hanyousenban/",
+    "pass": 1
+   },
+   {
+    "quote": "テーパワッシャ SS400 薄肉 小ロット",
+    "url": "https://www.imahashi-ss.jp/productcase/hanyousenban/",
+    "pass": 1
+   },
+   {
+    "quote": "カバー 薄肉加工 SUS304 プレス試作",
+    "url": "https://www.imahashi-ss.jp/productcase/hanyousenban/",
+    "pass": 1
+   },
+   {
+    "quote": "試作 無酸素銅 3D形状",
+    "url": "https://www.imahashi-ss.jp/productcase/5-axis/",
+    "pass": 1
+   },
+   {
+    "quote": "フランジ SUS304 内燃機関 試作",
+    "url": "https://www.imahashi-ss.jp/productcase/lathe/",
+    "pass": 1
+   },
+   {
+    "quote": "ノズル SUS304 燃焼機関 試作",
+    "url": "https://www.imahashi-ss.jp/productcase/lathe/",
+    "pass": 1
+   },
+   {
+    "quote": "鉄(SS400)切削加工 ※プレス品試作加工",
+    "url": "https://www.imahashi-ss.jp/productcase/lathe/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ(A7075)自動車部品試作(ドアパネルモックアップ) 薄肉湾曲加工",
+    "url": "https://www.imahashi-ss.jp/productcase/lathe/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車部品 試作 SUS304 薄肉",
+    "url": "https://www.imahashi-ss.jp/productcase/maru/",
+    "pass": 1
+   },
+   {
+    "quote": "フランジ SM400A 小ロット 短納期",
+    "url": "https://www.imahashi-ss.jp/productcase/maru/",
+    "pass": 1
+   },
+   {
+    "quote": "電子機器部品 A5052 小ロット 短納期",
+    "url": "https://www.imahashi-ss.jp/productcase/kakumono/",
+    "pass": 1
+   },
+   {
+    "quote": "A5052 白アルマイト ノズル 小ロット",
+    "url": "https://www.imahashi-ss.jp/productcase/kakumono/",
+    "pass": 1
+   },
+   {
+    "quote": "※試作、開発向け案件が特に該当",
+    "url": "https://www.imahashi-ss.jp/ask.php",
+    "pass": 1
+   },
+   {
+    "quote": "そこで、開先形状に合わせた超硬サイドカッターを製作（メーカー特注）しました",
+    "url": "https://www.imahashi-ss.jp/case/%E3%82%B3%E3%82%B9%E3%83%88%E3%83%BB%E5%8A%A0%E5%B7%A5%E6%99%82%E9%96%93%E3%82%92%E4%BD%8E%E6%B8%9B%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95%EF%BC%88%E3%82%B5%E3%82%A4%E3%83%89%E3%82%AB%E3%83%83%E3%82%BF/",
+    "pass": 1
+   },
+   {
+    "quote": "電子機器部品 A5052 小ロット 短納期",
+    "url": "https://www.imahashi-ss.jp/product_case/%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88%E6%B2%BB%E5%85%B7%E5%8A%A0%E5%B7%A5%E3%80%80%E3%82%A4%E3%83%B3%E3%82%B3%E3%83%8D%E3%83%AB718/",
+    "pass": 1
+   },
+   {
+    "quote": "試作要請により、1週間で製作しました",
+    "url": "https://www.imahashi-ss.jp/product_case/%E3%83%96%E3%83%83%E3%82%B7%E3%83%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車部品 試作 SUS304 薄肉",
+    "url": "https://www.imahashi-ss.jp/product_case/%E3%83%96%E3%83%83%E3%82%B7%E3%83%A5/",
+    "pass": 1
+   },
+   {
+    "quote": "本製品は水力発電用モックアップの試作品になります",
+    "url": "https://www.imahashi-ss.jp/product_case/%E6%B0%B4%E5%8A%9B%E7%99%BA%E9%9B%BB%E3%83%A2%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97/",
+    "pass": 1
+   },
+   {
+    "quote": "電子機器部品 A5052 小ロット 短納期",
+    "url": "https://www.imahashi-ss.jp/product_case/%E6%B0%B4%E5%8A%9B%E7%99%BA%E9%9B%BB%E3%83%A2%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車部品 試作 SUS304 薄肉",
+    "url": "https://www.imahashi-ss.jp/product_case/%E5%8C%BB%E7%99%82%E6%A9%9F%E5%99%A8%E3%82%B7%E3%83%AA%E3%83%B3%E3%82%B8%EF%BC%88sus304%E3%80%81%E8%82%89%E5%8E%9A1mm%E3%80%81%E3%83%93%E3%83%93%E3%83%AA%E6%8A%91%E5%88%B6%EF%BC%89/",
+    "pass": 1
+   },
+   {
+    "quote": "試作・小ロット加工、短納期加工もぜひご相談ください",
+    "url": "https://digital-parts-factory.com/trial/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "自動車、2輪車のブラケットなどの切削加工から",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "流体形状のブレード品、医療分野の",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車部品 試作 SUS304 薄肉",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金型部品 SCM435 3D形状",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "治具 SUS304 短納期 ワイヤー加工",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車開発 アルミ加工 3D形状 試作",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器 SUS316L ローレット加工 中ロット",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "溶接品加工 SS400 重量物 ブラケット",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "3D切削 ロボットアーム FA機器 試作",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "『Medtec Japan 医療機器の設計・製造に関する展示会・セミナー』が無事終了致しました",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "『Medtec Japan 医療機器の設計・製造に関する展示会・セミナー』に出展致します",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "AMS材 SUH660 宇宙 難削材",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "フランジ ANSI 半導体 SUS316",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "中子 アルミ 3D加工 金型",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "難形状 3D形状加工 試作 自動車",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "SUS316L 半導体 真空装置 プレート",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車部品 試作 SUS304 薄肉",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "金型部品 SCM435 3D形状",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "治具 SUS304 短納期 ワイヤー加工",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車開発 アルミ加工 3D形状 試作",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器 SUS316L ローレット加工 中ロット",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "溶接品加工 SS400 重量物 ブラケット",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "3D切削 ロボットアーム FA機器 試作",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "AMS材 SUH660 宇宙 難削材",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "フランジ ANSI 半導体 SUS316",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "中子 アルミ 3D加工 金型",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "難形状 3D形状加工 試作 自動車",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "SUS316L 半導体 真空装置 プレート",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "SUS630-H900 治具",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "プレート(治具加工) インコネル718",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "マウント(治具加工) インコネル718",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ(A7075)自動車部品試作(ドアパネルモックアップ) 薄肉湾曲加工",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器シリンジ（SUS304、肉厚1mm、ビビリ抑制）",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "試作開発向け 補強部品ブラケット ３Ｄ加工",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "組立治具 炭素工具鋼（SKD） マシニング加工 ワイヤーカット加工",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "【宇宙機器開発”試験体”】Ni201 精密加工 純ニッケル",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "【半導体製造装置】 アルミ加工 A5052 削出し",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "【医療機器開発】SUS420J2",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "発電機、タービン、原子力、風力、半導体製造装置、医療機器、自動車レース（開発）、防衛、",
+    "url": "https://www.imahashi-ss.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動車部品 試作 SUS304 薄肉",
+    "url": "https://www.imahashi-ss.jp/productcase/manufacturing/",
+    "pass": 1
+   },
+   {
+    "quote": "金型部品 SCM435 3D形状",
+    "url": "https://www.imahashi-ss.jp/productcase/5-axis/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ(A7075)自動車部品試作(ドアパネルモックアップ) 薄肉湾曲加工",
+    "url": "https://www.imahashi-ss.jp/productcase/lathe/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器シリンジ（SUS304、肉厚1mm、ビビリ抑制）",
+    "url": "https://www.imahashi-ss.jp/productcase/lathe/",
+    "pass": 1
+   },
+   {
+    "quote": "組立治具 炭素工具鋼（SKD） マシニング加工 ワイヤーカット加工",
+    "url": "https://www.imahashi-ss.jp/productcase/small-seimitsu/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車部品 試作 SUS304 薄肉",
+    "url": "https://www.imahashi-ss.jp/productcase/maru/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器 SUS316L ローレット加工 中ロット",
+    "url": "https://www.imahashi-ss.jp/productcase/maru/",
+    "pass": 1
+   },
+   {
+    "quote": "AMS材 SUH660 宇宙 難削材",
+    "url": "https://www.imahashi-ss.jp/productcase/maru/",
+    "pass": 1
+   },
+   {
+    "quote": "フランジ ANSI 半導体 SUS316",
+    "url": "https://www.imahashi-ss.jp/productcase/maru/",
+    "pass": 1
+   },
+   {
+    "quote": "SUS316L 半導体 真空装置 プレート",
+    "url": "https://www.imahashi-ss.jp/productcase/kakumono/",
+    "pass": 1
+   },
+   {
+    "quote": "溶接品加工 SS400 重量物 ブラケット",
+    "url": "https://www.imahashi-ss.jp/productcase/seikan/",
+    "pass": 1
+   },
+   {
+    "quote": "また、難削材特有の加工条件に加え、特殊な加工治具、段取り等も独自の難削材加工ノウハウを蓄積し、短納期かつ信頼性の高い難削材加工を実現しています",
+    "url": "https://www.imahashi-ss.jp/nan.html",
+    "pass": 1
+   },
+   {
+    "quote": "CAD/CAMのプログラミング、加工方法の選定、ツール選定、特殊治具の採用など様々な加工条件を材質と形状に合わせて最適化する事で、品質、コスト、納期のバランスの取れた製品を提供する事が可能です",
+    "url": "https://www.imahashi-ss.jp/nan.html",
+    "pass": 1
+   },
+   {
+    "quote": "高温や腐食環境など過酷な環境下でも優れた特性を示すことから、宇宙・航空分野、原子力産業、自動車部品など様々な分野で用いられています",
+    "url": "https://www.imahashi-ss.jp/nan.html",
+    "pass": 1
+   },
+   {
+    "quote": "チタンは、他の金属に比べ軽量・高強度・優れた耐食性などの特性があり宇宙・航空機器に用いられたり、表面の酸化皮膜の安定性から人体に無害で金属アレルギーの心配がないため、医療機器やアクセサリーなど様々な分野に用いられています",
+    "url": "https://www.imahashi-ss.jp/nan.html",
+    "pass": 1
+   },
+   {
+    "quote": "加工方法や加工条件、使用する治具によって、仕上がりのコストや納期、品質に違いがでます",
+    "url": "https://www.imahashi-ss.jp/fuku.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社ではエネルギー、自動車、医療など様々な分野、各種研究機関の最先端分野、加工難易度の高い複雑形状品などを数多く手掛けた経験を活かし、QCDのバランスの取れた加工に努めています",
+    "url": "https://www.imahashi-ss.jp/fuku.html",
+    "pass": 1
+   },
+   {
+    "quote": "特に設備や市販工具だけではカバーできない課題や不具合も数多く経験しており、長年の加工経験を活かした専用治具の設計製造、段取り、加工条件など様々な加工技術を応用し、難易度の高い製品、形状、材料にも積極的に取り組んでいます",
+    "url": "https://www.imahashi-ss.jp/fuku.html",
+    "pass": 1
+   },
+   {
+    "quote": "常磐自動車道「日立北IC」を降り、分岐を右方向へ進み「いわき・日立」方面へ直進",
+    "url": "https://www.imahashi-ss.jp/acc.html",
+    "pass": 1
+   },
+   {
+    "quote": "マウント(治具加工) インコネル718 - 今橋製作所株式会社",
+    "url": "https://www.imahashi-ss.jp/product_case/%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88%E6%B2%BB%E5%85%B7%E5%8A%A0%E5%B7%A5%E3%80%80%E3%82%A4%E3%83%B3%E3%82%B3%E3%83%8D%E3%83%AB718/",
+    "pass": 1
+   },
+   {
+    "quote": "マウント(治具加工) インコネル718",
+    "url": "https://www.imahashi-ss.jp/product_case/%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88%E6%B2%BB%E5%85%B7%E5%8A%A0%E5%B7%A5%E3%80%80%E3%82%A4%E3%83%B3%E3%82%B3%E3%83%8D%E3%83%AB718/",
+    "pass": 1
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "CAD/CAMを独自活用した5軸マシニング加工による薄肉、複雑形状加工",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "AMS材 SUH660 宇宙 難削材",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "AMS材 SUH660 宇宙 難削材",
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "pass": 1
+   },
+   {
+    "quote": "同時5軸マシニングセンター、3次元CAD/CAM導入",
+    "url": "https://www.imahashi-ss.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "AMS材 SUH660 宇宙 難削材",
+    "url": "https://www.imahashi-ss.jp/productcase/maru/",
+    "pass": 1
+   },
+   {
+    "quote": "CAD/CAMのプログラミング、加工方法の選定、ツール選定、特殊治具の採用など様々な加工条件を材質と形状に合わせて最適化する事で、品質、コスト、納期のバランスの取れた製品を提供する事が可能です",
+    "url": "https://www.imahashi-ss.jp/nan.html",
+    "pass": 1
+   },
+   {
+    "quote": "３DCAD/CAMの事前シミュレーション技術",
+    "url": "https://www.imahashi-ss.jp/fuku.html",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、これらの加工経験をベースにしてCAD/CAM上で事前に検証、シミュレーションを行う事で高次元での加工条件の最適化を図る事が可能です",
+    "url": "https://www.imahashi-ss.jp/fuku.html",
+    "pass": 1
+   },
+   {
+    "quote": "3D CAD/CAM",
+    "url": "https://www.imahashi-ss.jp/setsubi.html",
+    "pass": 1
+   },
+   {
+    "quote": "3D CAM",
+    "url": "https://www.imahashi-ss.jp/setsubi.html",
+    "pass": 1
+   },
+   {
+    "quote": "3DCAD/CAMや5軸マシニングセンタなどを活用し、難易度の高い製品の設計・機械加工を行います",
+    "url": "https://www.imahashi-ss.jp/rec.html",
+    "pass": 1
+   },
+   {
+    "quote": "AMS材 SUH660 宇宙 難削材",
+    "url": "https://www.imahashi-ss.jp/productcase/material/special/",
+    "pass": 1
+   },
+   {
+    "quote": "電話応対時間 AM9:00～PM5:00",
+    "url": "https://digital-parts-factory.com/trial/",
+    "pass": 3
+   },
+   {
+    "quote": "同時5軸マシニングセンター、3次元CAD/CAM導入",
+    "url": "https://eigyo-mfg.com/service/navi/company/7pgLUeaLl3p0",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "技術相談窓口 / 各種お問い合わせ|株式会社今橋製作所",
+    "url": "https://www.imahashi-ss.jp/ask.php",
+    "pass": 1
+   },
+   {
+    "quote": "メールお問い合わせフォームより、",
+    "url": "https://www.imahashi-ss.jp/ask.php",
+    "pass": 1
+   },
+   {
+    "quote": "【メール：info@imahashi-ss.jp】",
+    "url": "https://www.imahashi-ss.jp/ask.php",
+    "pass": 1
+   },
+   {
+    "quote": "下記の必要事項をご記入の上、問い合わせメール宛に送信してください",
+    "url": "http://park23.wakwak.com/~imahashi-ss/asc.html",
+    "pass": 3
+   },
+   {
+    "quote": "「加工内容などのお問い合わせ」については図面をお送りいただくか、ポンチ絵などでの加工依頼でも喜んで対応させていただきます",
+    "url": "http://park23.wakwak.com/~imahashi-ss/asc.html",
+    "pass": 3
+   },
+   {
+    "quote": "mail : imahashi@ak.wakwak.com",
+    "url": "http://park23.wakwak.com/~imahashi-ss/asc.html",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "試作・小ロット加工｜加工の相談窓口 — 試作・小ロット加工の領域では、オンライン見積やデータからの即時加工といったサービスが増えてきましたが、今橋製作所は単純に言われたものを作るのではなく、加工技術のアドバイザー、信頼できるサプライヤーとしてのサービスを強化して参ります。",
+    "url": "https://digital-parts-factory.com/trial/",
+    "pass": 3
+   },
+   {
+    "quote": "試作、切削加工、短納期対応の今橋製作所 — インコネル・ハステロイ・チタン等の難削材・耐熱合金の切削加工を今橋製作所は得意としております。 CAD/CAMを独自活用した5軸マシニング加工による薄肉、複雑形状加工に関しても豊富な経験と実績があります。",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "産業：一般産業機器 の製品一覧｜今橋製作所｜イプロスものづくり — Jul 13, 2022 · （自動車開発、医療機器、航空宇宙関連、エネルギー関連、大学等その他多数） 参考として、弊社の7割が『1個～5個』程度の小ロット品、残り3割が『100個から200個』程度のロット品を生産しております。 ロットに関してはご相談ください。",
+    "url": "https://mono.ipros.com/company/detail/2004981/category/55908/",
+    "pass": 3
+   },
+   {
+    "quote": "製品事例カテゴリ 加工 - 今橋製作所株式会社 — CAD/CAMを独自活用した5軸マシニング加工による薄肉、複雑形状加工に関しても豊富な経験と実績があります。 また、開発を含む試作から小・中ロット、量産まで適正品質・短納期での対応も承っております。",
+    "url": "https://www.imahashi-ss.jp/productcase/manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "今橋製作所の製品・サービス一覧｜イプロスものづくり — Jul 13, 2022 · 材質はハステロイC-22で、サイズは12×60×100です。 今回加工した製品は難削材であるハステロイを切削加工しました。 本製品はOリング溝加工を施しております。 弊社ではニッケル系の難削材の加工事例が多数あり、難削材加工のノウハウを保有しております。",
+    "url": "https://mono.ipros.com/company/detail/2004981/category/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要・沿革 - 株式会社今橋製作所試作、切削加工、短納期対応の今橋製作所株式会社今橋製作所 | 加工会社ナビ今橋製作所 | 企業情報 | イプロスものづくり今製作所｜月産5個以上の量産品のコストダウン株式会社今橋製作所の会社概要・製品情報 | Metoree株式会社 今橋製作所 - 日立市公式ウェブサイト — インコネル・ハステロイ・チタン等の難削材・耐熱合金の切削加工を今橋製作所は得意としております。 CAD/CAMを独自活用した5軸マシニング加工による薄肉、複雑形状加工に関しても豊富な経験と実績があります。 インコネル・ハステロイ・チタン等の難削材・耐熱合金の切削加工を今橋製作所は得意としております。 CAD/CAMを独自活用した5軸マシニング加工による薄肉、複雑形状加工に関しても豊富な経験と実績があります。 株式会社今橋製作所の 概要 同社は、難削材や耐熱合金材を含む多岐にわたる",
+    "url": "https://www.imahashi-ss.jp/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社今橋製作所 | 加工会社ナビ — 株式会社今橋製作所の 概要 同社は、難削材や耐熱合金材を含む多岐にわたる材質の切削加工を主力としています。 3D形状や複雑形状の加工を得意とし、短納期での対応も強みです。",
+    "url": "https://eigyo-mfg.com/service/navi/company/7pgLUeaLl3p0",
+    "pass": 3
+   },
+   {
+    "quote": "今橋製作所 | 企業情報 | イプロスものづくり今製作所｜月産5個以上の量産品のコストダウン株式会社今橋製作所の会社概要・製品情報 | Metoree株式会社 今橋製作所 - 日立市公式ウェブサイト — Jul 13, 2022 · 今橋製作所の企業情報や製品・サービス、関連カタログをご紹介。 ｢ものづくり魂で未来をつくる」加工でお困りの方は当社にご相談ください イプロスものづくりでは、製造・加工受託など製造業向けの情報を多数掲載。 トップページ | 選ばれる理由 | 複合加工 | 5軸加工 | 5軸加工機による多面加工 | 加工事例 | 得意業界 | SDGsへの取り組み | 保有設備 | 会社概要 | ご相談・お問い合わせ 株式会社今橋製作所は1964年に設立された茨城県日立市十王町伊師20‐42伊師工業団地内に本社が所在する会社です。 ABS樹脂加工、アルミ切削加工、溶接加工、旋盤加",
+    "url": "https://mono.ipros.com/company/detail/2004981/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社今橋製作所の会社概要・製品情報 | Metoree — 株式会社今橋製作所は1964年に設立された茨城県日立市十王町伊師20‐42伊師工業団地内に本社が所在する会社です。 ABS樹脂加工、アルミ切削加工、溶接加工、旋盤加工、切削加工、ステンレス加工等を取り扱っています。",
+    "url": "https://metoree.com/companies/15281/",
+    "pass": 3
+   },
+   {
+    "quote": "試作、切削加工、短納期対応の今橋製作所 — 0294-39-1162 メールでのお問合せ HOME 選ばれる3つの理由 難削材加工 複雑形状加工 短納期対応 課題解決事例 短納期 試作支援 製品事例 設備情報 会社案内 代表挨拶・企業理念 会社概要・沿革 採用情報 新着情報 アクセスマップ 技術相談窓口 各種お問い合わせ ...",
+    "url": "https://www.imahashi-ss.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "技術相談窓口 / 各種お問い合わせ|株式会社今橋製作所 — インコネル・ハステロイ・チタン等の難削材・耐熱合金の切削加工を今橋製作所は得意としております。 CAD/CAMを独自活用した5軸マシニング加工による薄肉、複雑形状加工に関しても豊富な経験と実績があります。",
+    "url": "https://www.imahashi-ss.jp/ask.php",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ｜今橋製作所-茨城県日立市 — お問い合わせ メールでのお問い合わせ 下記の必要事項をご記入の上、問い合わせメール宛に送信してください。 添付資料がございましたら imahashi@ak.wakwak.com からご送信下さい。",
+    "url": "http://park23.wakwak.com/~imahashi-ss/asc.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "今橋製作所｜note 今橋製作所の現場で行われている技術継承を、広報の視点から記録する連載です。 熟練技術者から若手へ、どのように技術が受け継がれていくのか。 日々の加工現場の中で起きている出来事や考え方を、一年間にわたりお届けします。",
+    "url": "https://note.com/imahashi_ss",
+    "pass": 3
+   },
+   {
+    "quote": "今橋製作所の記事一覧｜note（ノート） 今橋製作所の現場で行われている技術継承を、広報の視点から記録する連載です。 熟練技術者から若手へ、どのように技術が受け継がれていくのか。 日々の加工現場の中で起きている出来事や考え方を、一年間にわたりお届けします。",
+    "url": "https://note.com/imahashi_ss/all",
+    "pass": 3
+   },
+   {
+    "quote": "第1回｜現場の技術は、どのように受け継がれているのか｜今橋製作所 Apr 15, 2026 · 株式会社今橋製作所 創業60年。 特殊・高付加価値な切削加工に挑戦し続けている町工場です。 このnoteでは、町工場の現場で受け継がれる技術や、ものづくりのリアルを発信していきます。 よろしければフォローしていただけると嬉しいです。",
+    "url": "https://note.com/imahashi_ss/n/nb272bcc8db83",
+    "pass": 3
+   },
+   {
+    "quote": "第4回｜『感覚で分かる』と言われる技術の正体｜今橋製作所 Jul 14, 2026 · 株式会社今橋製作所 創業60年。 特殊・高付加価値な切削加工に挑戦し続けている町工場です。 このnoteでは、町工場の現場で受け継がれる技術や、ものづくりのリアルを発信していきます。 よろしければフォローしていただけると嬉しいです。",
+    "url": "https://note.com/imahashi_ss/n/nc7a990d2265e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "第1回｜現場の技術は、どのように受け継がれているのか",
+    "url": "https://note.com/imahashi_ss",
+    "pass": 3
+   },
+   {
+    "quote": "第7回｜熟練者と若手の間にある“共有されているもの”",
+    "url": "https://note.com/imahashi_ss",
+    "pass": 3
+   },
+   {
+    "quote": "第6回｜一子相伝的な技術継承が生まれる理由",
+    "url": "https://note.com/imahashi_ss",
+    "pass": 3
+   },
+   {
+    "quote": "第4回｜『感覚で分かる』と言われる技術の正体",
+    "url": "https://note.com/imahashi_ss",
+    "pass": 3
+   },
+   {
+    "quote": "第3回｜図面だけでは再現できない技術がある",
+    "url": "https://note.com/imahashi_ss",
+    "pass": 3
+   },
+   {
+    "quote": "第2回｜なぜ熟練者はすぐに答えを教えないのか",
+    "url": "https://note.com/imahashi_ss",
+    "pass": 3
+   },
+   {
+    "quote": "第1回｜現場の技術は、どのように受け継がれているのか",
+    "url": "https://note.com/imahashi_ss/all",
+    "pass": 3
+   },
+   {
+    "quote": "第7回｜熟練者と若手の間にある“共有されているもの”",
+    "url": "https://note.com/imahashi_ss/all",
+    "pass": 3
+   },
+   {
+    "quote": "第6回｜一子相伝的な技術継承が生まれる理由",
+    "url": "https://note.com/imahashi_ss/all",
+    "pass": 3
+   },
+   {
+    "quote": "第4回｜『感覚で分かる』と言われる技術の正体",
+    "url": "https://note.com/imahashi_ss/all",
+    "pass": 3
+   },
+   {
+    "quote": "第3回｜図面だけでは再現できない技術がある",
+    "url": "https://note.com/imahashi_ss/all",
+    "pass": 3
+   },
+   {
+    "quote": "第2回｜なぜ熟練者はすぐに答えを教えないのか",
+    "url": "https://note.com/imahashi_ss/all",
+    "pass": 3
+   },
+   {
+    "quote": "現場で受け継がれる技術 ―熟練から若手へ― 全12回",
+    "url": "https://note.com/imahashi_ss/all",
+    "pass": 3
+   },
+   {
+    "quote": "今橋製作所の現場で行われている技術継承を、広報の視点から記録する連載です。",
+    "url": "https://note.com/imahashi_ss/all",
+    "pass": 3
+   },
+   {
+    "quote": "第1回｜現場の技術は、どのように受け継がれているのか｜今橋製作所",
+    "url": "https://note.com/imahashi_ss/n/nb272bcc8db83",
+    "pass": 3
+   },
+   {
+    "quote": "第1回｜現場の技術は、どのように受け継がれているのか",
+    "url": "https://note.com/imahashi_ss/n/nb272bcc8db83",
+    "pass": 3
+   },
+   {
+    "quote": "今橋製作所で広報・Web・SNSを担当しております。",
+    "url": "https://note.com/imahashi_ss/n/nb272bcc8db83",
+    "pass": 3
+   },
+   {
+    "quote": "noteでの発信は今回が初めてとなります。",
+    "url": "https://note.com/imahashi_ss/n/nb272bcc8db83",
+    "pass": 3
+   },
+   {
+    "quote": "今橋製作所は、金属切削加工を主とする町工場です。",
+    "url": "https://note.com/imahashi_ss/n/nb272bcc8db83",
+    "pass": 3
+   },
+   {
+    "quote": "難削材や複雑形状の加工、短納期対応などを強みとし、さまざまな分野の部品加工に携わってきました。",
+    "url": "https://note.com/imahashi_ss/n/nb272bcc8db83",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、私がこの会社で日々感じている強みは、設備や加工実績だけではありません。",
+    "url": "https://note.com/imahashi_ss/n/nb272bcc8db83",
+    "pass": 3
+   },
+   {
+    "quote": "私は入社して4年目になりますが、技術者ではありません。",
+    "url": "https://note.com/imahashi_ss/n/nb272bcc8db83",
+    "pass": 3
+   },
+   {
+    "quote": "第4回｜『感覚で分かる』と言われる技術の正体｜今橋製作所",
+    "url": "https://note.com/imahashi_ss/n/nc7a990d2265e",
+    "pass": 3
+   },
+   {
+    "quote": "第4回｜『感覚で分かる』と言われる技術の正体",
+    "url": "https://note.com/imahashi_ss/n/nc7a990d2265e",
+    "pass": 3
+   },
+   {
+    "quote": "第3回では、図面だけでは再現できない技術があることを書きました。",
+    "url": "https://note.com/imahashi_ss/n/nc7a990d2265e",
+    "pass": 3
+   },
+   {
+    "quote": "その記事を書いてから、現場で「感覚だからね」という言葉を耳にするたびに、この\"感覚\"とは何なのだろうと考えるようになりました。",
+    "url": "https://note.com/imahashi_ss/n/nc7a990d2265e",
+    "pass": 3
+   },
+   {
+    "quote": "製造現場の経験がない私にとって、「感覚」という言葉は少し不思議でした。",
+    "url": "https://note.com/imahashi_ss/n/nc7a990d2265e",
+    "pass": 3
+   },
+   {
+    "quote": "でも、現場を見ていると、その印象は少しずつ変わっていきました。",
+    "url": "https://note.com/imahashi_ss/n/nc7a990d2265e",
+    "pass": 3
+   },
+   {
+    "quote": "ある日、若手社員が加工している様子を見ていると、熟練技術者が少し離れた場所から静かに見守っていました。",
+    "url": "https://note.com/imahashi_ss/n/nc7a990d2265e",
+    "pass": 3
+   },
+   {
+    "quote": "加工が終わったあと、「今の音、少し違ったね」と話している姿を見て、「音だけでそんなことまで分かるのか」と驚いたのを覚えています。",
+    "url": "https://note.com/imahashi_ss/n/nc7a990d2265e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "今橋製作所 (@imahashiss) / X 株式会社今橋製作所 創業以来60年、特殊・高付加価値な切削加工に挑戦。 顧客の期待に技術とチャレンジ精神で応え、量産ではなく一品ものを提供。 経産省選定「はばたく中小企業2017」「地域未来牽引企業」 https://t.co/dgJCiyj2ZV",
+    "url": "https://x.com/imahashiss",
+    "pass": 3
+   },
+   {
+    "quote": "今橋製作所 on X: \"ただいま #東京ビッグサイト にて開催中の #産業交... 今橋製作所 on X: \"ただいま #東京ビッグサイト にて開催中の #産業交流展 2026 に出展しております！ まもなく開場 【医-06-6】でお待ちしております🤗\" / X",
+    "url": "https://x.com/imahashiss/status/2120313154995626438",
+    "pass": 3
+   },
+   {
+    "quote": "今橋製作所 on X: \"今橋製作所note始めました！ ご興味ある方はぜひご... 今橋製作所note始めました！ ご興味ある方はぜひご覧ください👀 https://t.co/2XkNwYo2lw",
+    "url": "https://x.com/imahashiss/status/2044948761970180526",
+    "pass": 3
+   },
+   {
+    "quote": "今橋製作所 on X: \"おはようございます。 本日は晴れ 過ごしやすいお... 株式会社今橋製作所 創業以来60年、特殊・高付加価値な切削加工に挑戦。顧客の期待に技術とチャレンジ精神で応え、量産ではなく一品ものを提供。経産省選定「はばたく中小企業2017」「地域未来牽引企業」 https ...",
+    "url": "https://x.com/imahashiss/status/2058703704405205264",
+    "pass": 3
+   },
+   {
+    "quote": "今橋製作所 (@imahashiss) / X 株式会社今橋製作所 創業以来60年、特殊・高付加価値な切削加工に挑戦。 顧客の期待に技術とチャレンジ精神で応え、量産ではなく一品ものを提供。 経産省選定「はばたく中小企業2017」「地域未来牽引企業」 youtube.com/channel/UCowft…",
+    "url": "https://x.com/imahashiss",
+    "pass": 3
+   },
+   {
+    "quote": "今橋製作所 on X: \"note投稿しました！ ぜひご覧ください https://t.c... Jun 14, 2026 · 今橋製作所さん おはキコラボです♪ Note興味深く拝見しました。 図面にも個性でますが、読み取れる情報量や仕上げ方も、その方の個性がでますね☺️ 本日も宜しくお願いします🤲",
+    "url": "https://x.com/imahashiss/status/2066341509591601200",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "試作、難削材、複雑形状、短納期対応の切削加工メーカー【今橋製作所...おはようございます 今橋製作所です。... - 試作、難削材、複雑形状、...(株)今橋製作所今橋製作所おはようございます☔今橋製作所です。... - 試作、難削材、複雑形状、...こんにちは☺️今橋製作所です。... - 試作、難削材、複雑形状、短納期...おはようございます☔... - 試作、難削材、複雑形状、短納期対応の切削... Oct 22, 2026 · 試作、難削材、複雑形状、短納期対応の切削加工メーカー【今橋製作所】, Hitachi-shi. 641 followers · 8 talking about this · 13 were here. (株)今橋製作所の活動を紹介するページです。 Apr 22, 2024 · より良い製品を発信できるよう、頑張ります💪 ㈱今橋製作所 (茨城県日立市) TEL",
+    "url": "https://www.facebook.com/imahashiss/",
+    "pass": 3
+   },
+   {
+    "quote": "おはようございます 今橋製作所です。... - 試作、難削材、複雑形状、...(株)今橋製作所今橋製作所おはようございます☔今橋製作所です。... - 試作、難削材、複雑形状、...こんにちは☺️今橋製作所です。... - 試作、難削材、複雑形状、短納期...おはようございます☔... - 試作、難削材、複雑形状、短納期対応の切削... Apr 22, 2024 · より良い製品を発信できるよう、頑張ります💪 ㈱今橋製作所 (茨城県日立市) TEL：0294-39-1161 ㈱今橋製作所HP https://www.imahashi-ss.jp/ 加工の相談窓口 https://digital-parts-factory.com/ コンパスリーチHP https://www.compass-reach.jp/ Youtubeチャンネル https://www.youtube. com/wa",
+    "url": "https://www.facebook.com/imahashiss/posts/878284964101333/",
+    "pass": 3
+   },
+   {
+    "quote": "(株)今橋製作所 (株)今橋製作所",
+    "url": "https://www.facebook.com/株今橋製作所-416972625073370/",
+    "pass": 3
+   },
+   {
+    "quote": "今橋製作所 今橋製作所 ... 今橋製作所",
+    "url": "https://www.facebook.com/今橋製作所-297059773637647/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "今橋 正守 - (株)今橋製作所 代表取締役【中小製造業、茨城・日立市を...代表挨拶・企業理念 - 株式会社今橋製作所会社概要・沿革 - 株式会社今橋製作所 (株)今橋製作所 代表取締役【中小製造業、茨城・日立市を盛り上げる！ 】/中小企業におけるBtoCの新機軸『hikiZAN』 / President of HIKIZAN TITAN | Ultra-Precision Machining Expert & Luxury Titanium Barware Creator from Japan 今後とも、今橋製作所をどうぞ宜しくお願い致します。 株式会社今橋製作所 代表取締役 今橋正守 『前向きチャレンジ』 『心のこもったサービス』をもって 『若者から憧れの存在となる企業を目指す』 インコネル・ハステロイ・チタン等の難削材・耐熱合金の切削加工を今橋製作所は得意としております。 CAD/",
+    "url": "https://jp.linkedin.com/in/正守-今橋-b772722ba",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.imahashi-ss.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imahashi-ss.jp/product_case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imahashi-ss.jp/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imahashi-ss.jp/productcase/manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imahashi-ss.jp/productcase/hanyousenban/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imahashi-ss.jp/productcase/5-axis/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imahashi-ss.jp/productcase/lathe/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imahashi-ss.jp/productcase/small-seimitsu/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imahashi-ss.jp/productcase/maru/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imahashi-ss.jp/productcase/kakumono/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imahashi-ss.jp/productcase/seikan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imahashi-ss.jp/ask.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imahashi-ss.jp/nan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imahashi-ss.jp/fuku.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imahashi-ss.jp/case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imahashi-ss.jp/setsubi.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imahashi-ss.jp/acc.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imahashi-ss.jp/rec.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imahashi-ss.jp/case/%E3%82%A2%E3%83%AB%E3%83%9F%E9%8B%B3%E7%89%A9%E3%81%AE2%E6%AC%A1%E5%8A%A0%E5%B7%A5%E5%85%88%E3%81%8C%E8%A6%8B%E3%81%A4%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imahashi-ss.jp/case/%E8%A3%BD%E5%93%81%E3%81%8C%E3%81%99%E3%81%90%E3%81%AB%E6%AC%B2%E3%81%97%E3%81%84/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imahashi-ss.jp/case/%E3%82%B3%E3%82%B9%E3%83%88%E3%83%BB%E5%8A%A0%E5%B7%A5%E6%99%82%E9%96%93%E3%82%92%E4%BD%8E%E6%B8%9B%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95%EF%BC%88%E3%82%B5%E3%82%A4%E3%83%89%E3%82%AB%E3%83%83%E3%82%BF/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imahashi-ss.jp/case/%E9%9B%A3%E5%89%8A%E6%9D%90%E3%81%AB%E5%B0%8F%E5%BE%84%E3%82%BF%E3%83%83%E3%83%97%E5%8A%A0%E5%B7%A5%E3%81%97%E3%81%9F%E3%81%84-%E3%81%AD%E3%81%98%E5%88%87%E3%82%8A/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imahashi-ss.jp/product_case/%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%88%E6%B2%BB%E5%85%B7%E5%8A%A0%E5%B7%A5%E3%80%80%E3%82%A4%E3%83%B3%E3%82%B3%E3%83%8D%E3%83%AB718/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imahashi-ss.jp/product_case/%E3%83%96%E3%83%83%E3%82%B7%E3%83%A5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imahashi-ss.jp/product_case/%E6%B0%B4%E5%8A%9B%E7%99%BA%E9%9B%BB%E3%83%A2%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imahashi-ss.jp/product_case/%E5%8C%BB%E7%99%82%E6%A9%9F%E5%99%A8%E3%82%B7%E3%83%AA%E3%83%B3%E3%82%B8%EF%BC%88sus304%E3%80%81%E8%82%89%E5%8E%9A1mm%E3%80%81%E3%83%93%E3%83%93%E3%83%AA%E6%8A%91%E5%88%B6%EF%BC%89/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imahashi-ss.jp/productcase/material/special/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imahashi-ss.jp/productcase/manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imahashi-ss.jp/case/%E3%82%A2%E3%83%AB%E3%83%9F%E9%8B%B3%E7%89%A9%E3%81%AE2%E6%AC%A1%E5%8A%A0%E5%B7%A5%E5%85%88%E3%81%8C%E8%A6%8B%E3%81%A4%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.imahashi-ss.jp/case/%E8%A3%BD%E5%93%81%E3%81%8C%E3%81%99%E3%81%90%E3%81%AB%E6%AC%B2%E3%81%97%E3%81%84/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.imahashi-ss.jp/img/recnew/ani.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://digital-parts-factory.com/trial/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2004981/category/55908/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eigyo-mfg.com/service/navi/company/7pgLUeaLl3p0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://park23.wakwak.com/~imahashi-ss/asc.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/imahashi_ss",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/imahashi_ss/all",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/imahashi_ss/n/nb272bcc8db83",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/imahashi_ss/n/nc7a990d2265e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/imahashiss",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/imahashiss/status/2120313154995626438",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/imahashiss/status/2044948761970180526",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/imahashiss/status/2058703704405205264",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/imahashiss/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/imahashiss/posts/878284964101333/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/株今橋製作所-416972625073370/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/今橋製作所-297059773637647/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/imahashi_ss",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/in/正守-今橋-b772722ba",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/imahashiss",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/imahashiss/status/2120313154995626438",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/imahashiss/status/2066341509591601200",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "今橋製作所 取扱製品 試作 小ロット",
+   "results": [
+    "https://digital-parts-factory.com/trial/",
+    "https://www.imahashi-ss.jp/",
+    "https://mono.ipros.com/company/detail/2004981/category/55908/",
+    "https://www.imahashi-ss.jp/productcase/manufacturing/",
+    "https://mono.ipros.com/company/detail/2004981/category/",
+    "https://ja.nc-net.or.jp/company/79711/product/",
+    "https://ja.nc-net.or.jp/company/79711/product/1/class/0/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "今橋製作所 会社概要 事業内容",
+   "results": [
+    "https://www.imahashi-ss.jp/company.html",
+    "https://www.imahashi-ss.jp/",
+    "https://eigyo-mfg.com/service/navi/company/7pgLUeaLl3p0",
+    "https://mono.ipros.com/company/detail/2004981/",
+    "https://metoree.com/companies/15281/",
+    "https://www.city.hitachi.lg.jp/koyotaga/kigyojoho/1005597/1005602.html",
+    "https://kon-factory.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "今橋製作所 お問い合わせ メール",
+   "results": [
+    "https://www.imahashi-ss.jp/",
+    "https://www.imahashi-ss.jp/ask.php",
+    "http://park23.wakwak.com/~imahashi-ss/asc.html",
+    "https://ja.nc-net.or.jp/company/79711/inquiry/input/",
+    "https://www.imanishi.co.jp/web/contact/contact.php",
+    "https://kon-factory.co.jp/",
+    "https://www.hikizan-titan.jp/contact/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 今橋製作所",
+   "results": [
+    "https://note.com/imahashi_ss",
+    "https://note.com/imahashi_ss/all",
+    "https://note.com/imahashi_ss/n/nb272bcc8db83",
+    "https://note.com/imahashi_ss/n/nc7a990d2265e",
+    "https://note.com/imahashi_ss/n/n3bf4478bcdd0",
+    "https://note.com/trunk_inc/n/n52dda2e17f04",
+    "https://note.com/imahashi_ss/n/nb272bcc8db83?hl=en"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 今橋製作所",
+   "results": [
+    "https://x.com/imahashiss",
+    "https://x.com/imahashiss/status/2120313154995626438",
+    "https://x.com/imahashiss/status/2044948761970180526",
+    "https://x.com/imahashiss/status/2058703704405205264",
+    "https://x.com/imahashiss/status/2102918868465516713",
+    "https://x.com/imahashiss/status/2068855123145842924",
+    "https://x.com/Eteniho"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 今橋製作所",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com 今橋製作所",
+   "results": [
+    "https://www.facebook.com/imahashiss/",
+    "https://www.facebook.com/imahashiss/posts/878284964101333/",
+    "https://www.facebook.com/株今橋製作所-416972625073370/",
+    "https://www.facebook.com/今橋製作所-297059773637647/",
+    "https://www.facebook.com/imahashiss/posts/1150170123579481/",
+    "https://www.facebook.com/imahashiss/posts/1270287828234376/",
+    "https://www.facebook.com/imahashiss/posts/926077415988754/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "今橋製作所 note 社長",
+   "results": [
+    "https://note.com/imahashi_ss",
+    "https://trunk-inc.jp/news/p3801/",
+    "https://www.fiweek.jp/nagoya/ja-jp/conference/interview/02.html",
+    "https://jp.linkedin.com/in/正守-今橋-b772722ba",
+    "https://imahashi-ss.jp/mono.html",
+    "https://www.imahashi-ss.jp/company.html",
+    "https://note.com/trunk_inc/n/n52dda2e17f04"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "今橋製作所 X 投稿",
+   "results": [
+    "https://x.com/imahashiss",
+    "https://x.com/imahashiss/status/2120313154995626438",
+    "https://www.instagram.com/imahashi.ss/reels/",
+    "https://x.com/imahashiss/status/2066341509591601200",
+    "https://x.com/imahashiss/status/2044948761970180526",
+    "https://x.com/imahashiss/status/2102918868465516713",
+    "https://x.com/imahashiss/status/2097126278583448036"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式30頁／PDF・画像1件／外部21頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式30頁／PDF・画像1件／外部21頁・検索9回）"
+ }
+}

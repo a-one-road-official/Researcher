@@ -1,0 +1,1137 @@
+{
+ "name": "Inkbit3D",
+ "aliases": [],
+ "context": "旧営業リスト｜1fZU9lQ1wZKN1yb9fU4ly3LJ5SjN-iMe8｜返信あり",
+ "researched_at": "2026-11-11T11:16:29.485942+00:00",
+ "official_url": "https://inkbit3d.com",
+ "identified_by": "given",
+ "profile": {
+  "連絡先": [
+   {
+    "label": "Email",
+    "value": "info@inkbit3d.com",
+    "url": "https://www.inkbit3d.com/cookies-policy",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Inkbit | 3D-Printed RF Metamaterial Components",
+    "url": "https://www.inkbit3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Inkbit is an advanced technology company pioneering how RF and mmWave systems are engineered. MIT-born software and closed-loop hardware converge with low-loss material science to turn complex dielectric simulations into monolithic, production-ready components.",
+    "url": "https://www.inkbit3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Inkbit unites material science, MIT-born software, and vision-controlled hardware inside one production architecture. Electromagnetic intent becomes spatial dielectric behavior, then validated monolithic hardware for mission-critical signal systems.",
+    "url": "https://www.inkbit3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "At the heart of the platform is the Vista™ system, engineered for production-scale throughput and exceptional precision.",
+    "url": "https://www.inkbit3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Build Preparation Software",
+    "url": "https://www.inkbit3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our digital workflow tools streamline every step from design to production. Construct automates build preparation and ensures accuracy.",
+    "url": "https://www.inkbit3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Press & Industry Coverage",
+    "url": "https://www.inkbit3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Published in Optical Engineering (an SPIE journal), the study titled “Fabrication and analysis of electrically large Luneburg lenses using vision-controlled material jetting” documents the successful design, production, and characterization of wideband gradient-index (GRIN) antennas with apertures exceeding 30 wavelengths and realized gains surpassing 34 dBi.",
+    "url": "https://www.inkbit3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "COT delivers a long-missing combination of low dielectric loss, thermal stability, and mechanical strength in additive manufacturing. These qualities were previously only possible through high cost, high labor processes. Now, engineers can iterate freely, without compromising material performance or waiting for custom tooling.",
+    "url": "https://www.inkbit3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Inkbit is the only 3D printing platform combining real-time machine vision, multi-material capability, and production-ready polymers that continue to evolve.",
+    "url": "https://www.inkbit3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From prototyping to full-scaled manufacturing, our Vision-Controlled Jetting™ (VCJ) platform is unlocking new possibilities in product development without compromise.",
+    "url": "https://www.inkbit3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Robotics Intern at Inkbit Designed and Printed a Robot Arm That Feels What It Touches",
+    "url": "https://www.inkbit3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "There are no electronics embedded in the sleeving or the finger. Tubing runs from each printed port to a barometer sensor, and a Raspberry Pi Pico 2W microcontroller reads the sensors and drives the arm's servos, with control handled from a web browser over a local network. The sensing element is the geometry itself.",
+    "url": "https://www.inkbit3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "That distinction matters on a factory floor. When the part is the sensor, a worn contact pad is not a rework order. It is the next print job.",
+    "url": "https://www.inkbit3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Five Parts. Five Manufacturing Problems. One Platform.",
+    "url": "https://www.inkbit3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We evaluated twelve standard lattice configurations across four structural families: Gyroid, Diamond, Fluorite, Octet, and BCC. Each was printed in TEPU 30A and TEPU 50A using Inkbit’s Vision-Controlled Jetting platform.",
+    "url": "https://www.inkbit3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Multi-material (soft+rigid) and multi-functional VCJ 3D printed part design challenge.",
+    "url": "https://www.inkbit3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlocking Geometry with Inkbit Vista™ Industrial 3D Printer",
+    "url": "https://www.inkbit3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Inkbit Vista™ prints water-tight parts natively. No post-processing of any kind (save for wax removal) was needed to achieve this final",
+    "url": "https://www.inkbit3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Precision multi-material structures for optical and electromagnetic sensor housings.",
+    "url": "https://www.inkbit3d.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "A Platform Designed for Engineering Teams Scaling The Products of Tomorrow",
+    "url": "https://www.inkbit3d.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Inkbit supports advanced product teams across wearables, medical, electronics, robotics, automotive, aerospace, and beyond. Delivering parts that accelerate prototyping phases and help qualify production with greater confidence.",
+    "url": "https://www.inkbit3d.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Prototyping to End-Use",
+    "url": "https://www.inkbit3d.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Beta part sprints to production",
+    "url": "https://www.inkbit3d.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Production-Grade Materials",
+    "url": "https://www.inkbit3d.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "RF Parts with Predictable Dielectric Behavior",
+    "url": "https://www.inkbit3d.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Print functional housings and test assets with controlled geometry.",
+    "url": "https://www.inkbit3d.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Soft-rigid interface prototypes",
+    "url": "https://www.inkbit3d.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Prototype and iterate under the hood, interior foams, complex parts - quickly.",
+    "url": "https://www.inkbit3d.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Soft-rigid integrated prototypes",
+    "url": "https://www.inkbit3d.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Support advanced programs with controlled builds and application fit.",
+    "url": "https://www.inkbit3d.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Prototype foams, softs, padding",
+    "url": "https://www.inkbit3d.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Prefer a faster path? Skip straight to a part review.",
+    "url": "https://www.inkbit3d.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Optical verification and correction to reduce variability and improve repeatability across builds.",
+    "url": "https://www.inkbit3d.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "In-process correction",
+    "url": "https://www.inkbit3d.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Print compliant interfaces and structural bodies as one system—reduce assemblies and validate real behavior.",
+    "url": "https://www.inkbit3d.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Elastomers, structural epoxies, and RF-grade dielectrics - selected to match real product requirements, not just printability.",
+    "url": "https://www.inkbit3d.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Match material + process",
+    "url": "https://www.inkbit3d.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Prototype to production",
+    "url": "https://www.inkbit3d.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Prototype through low-volume production ready to scale.",
+    "url": "https://www.inkbit3d.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "⦁ Prototyping and low-rate production",
+    "url": "https://www.inkbit3d.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Parts with Predictable Dielectric Behavior",
+    "url": "https://www.inkbit3d.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Print Functional Housings and test assets with controlled geometry",
+    "url": "https://www.inkbit3d.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Privacy Policy & Terms",
+    "url": "https://www.inkbit3d.com/request-a-quote",
+    "pass": 1
+   },
+   {
+    "quote": "We use machine vision, material science, and MIT backed software to provide a state-of-the-art manufacturing platform for the world's most iconic brands.",
+    "url": "https://www.inkbit3d.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Inspiring Next-Gen Product Teams that Shape Tomorrow",
+    "url": "https://www.inkbit3d.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Inkbit is a leading additive manufacturing platform enabling next-generation digital production with unmatched precision and material versatility.",
+    "url": "https://www.inkbit3d.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "From aerospace and medical devices to wearables and robotics, Inkbit helps engineers and product teams bring complex designs to life faster, with no tooling, no post-processing, and no compromise.",
+    "url": "https://www.inkbit3d.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you're scaling a new product or validating a design, Inkbit's digital manufacturing services offer the speed, reliability, and performance modern industries demand.",
+    "url": "https://www.inkbit3d.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Production-Scale Additive Manufacturing",
+    "url": "https://www.inkbit3d.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Bridge the gap between prototype and full production. Inkbit delivers consistent and repeatable output with industrial throughput, allowing you to produce end-use parts without tooling delays or high setup costs.",
+    "url": "https://www.inkbit3d.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate product development with functional prototypes that match final production quality. Our Vision-Controlled Jetting technology enables precise, multi-material parts in days, not weeks. Ideal for design validation, form-fit testing, and customer demos.",
+    "url": "https://www.inkbit3d.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "What we do at Inkbit 3D Printing",
+    "url": "https://www.inkbit3d.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Inkbit’s Vision-Controlled Jetting (VCJ) uses real‑time 3D scanning (machine vision) to ensure every layer matches the CAD design with extraordinary fidelity, producing parts that are consistently precise and true-to-spec.",
+    "url": "https://www.inkbit3d.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We offer expert, personalized assistance to help our clients translate complex designs into manufacturable parts - covering everything from material selection to print workflows.",
+    "url": "https://www.inkbit3d.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "With VCJ technology, Inkbit delivers both prototyping and production runs in a matter of days, not weeks, making them ideal for agile development cycle.",
+    "url": "https://www.inkbit3d.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Multi‑Material Printing",
+    "url": "https://www.inkbit3d.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Inkbit can print objects composed of different materials including rigid, flexible, and elastomeric in a single print, eliminating the need for manual over-molding or assembly.",
+    "url": "https://www.inkbit3d.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Javier is cofounder and Chief Technology Officer at Inkbit. He heads systems and technology development activities. Previously, Javier worked at Rethink Robotics and Leaf. Javier obtained his BS and MS in Mechanical Engineering from MIT.",
+    "url": "https://www.inkbit3d.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "A Professor of Electrical Engineering and Computer Science at MIT. The technological foundation of our company was developed in his laboratory. Prior to joining the MIT faculty, Wojciech worked in computer graphics and additive manufacturing research at Mitsubishi, Adobe, and Disney Imagineering.",
+    "url": "https://www.inkbit3d.com/about",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by Industry Leading Brands",
+    "url": "https://www.inkbit3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Inkbit’s Scott Twiddy, PhD, will speak at European Microwave Week 2026 about manufacturing complex RF components using Cyclic Olefin Thermoset (COT) materials and Vision-Controlled Jetting™ (VCJ) technology.",
+    "url": "https://www.inkbit3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "COT delivers a long-missing combination of low dielectric loss, thermal stability, and mechanical strength in additive manufacturing. These qualities were previously only possible through high cost, high labor processes. Now, engineers can iterate freely, without compromising material performance or waiting for custom tooling.",
+    "url": "https://www.inkbit3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From prototyping to full-scaled manufacturing, our Vision-Controlled Jetting™ (VCJ) platform is unlocking new possibilities in product development without compromise.",
+    "url": "https://www.inkbit3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "That distinction matters on a factory floor. When the part is the sensor, a worn contact pad is not a rework order. It is the next print job.",
+    "url": "https://www.inkbit3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Five Parts. Five Manufacturing Problems. One Platform.",
+    "url": "https://www.inkbit3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Inkbit Digital Factory",
+    "url": "https://www.inkbit3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlocking Geometry with Inkbit Vista™ Industrial 3D Printer",
+    "url": "https://www.inkbit3d.com/",
+    "pass": 1
+   },
+   {
+    "quote": "High-throughput ADAS radar components utilizing scalable automotive-grade thermosets.",
+    "url": "https://www.inkbit3d.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Inkbit supports advanced product teams across wearables, medical, electronics, robotics, automotive, aerospace, and beyond. Delivering parts that accelerate prototyping phases and help qualify production with greater confidence.",
+    "url": "https://www.inkbit3d.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive & Mobility",
+    "url": "https://www.inkbit3d.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "The same closed-loop manufacturing discipline and materials performance apply across every vertical, so your results scale.",
+    "url": "https://www.inkbit3d.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "Closed-loop manufacturing",
+    "url": "https://www.inkbit3d.com/industries",
+    "pass": 1
+   },
+   {
+    "quote": "About Inkbit | Advanced Manufacturing Company",
+    "url": "https://www.inkbit3d.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We use machine vision, material science, and MIT backed software to provide a state-of-the-art manufacturing platform for the world's most iconic brands.",
+    "url": "https://www.inkbit3d.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Inkbit is a leading additive manufacturing platform enabling next-generation digital production with unmatched precision and material versatility.",
+    "url": "https://www.inkbit3d.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "From aerospace and medical devices to wearables and robotics, Inkbit helps engineers and product teams bring complex designs to life faster, with no tooling, no post-processing, and no compromise.",
+    "url": "https://www.inkbit3d.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you're scaling a new product or validating a design, Inkbit's digital manufacturing services offer the speed, reliability, and performance modern industries demand.",
+    "url": "https://www.inkbit3d.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Production-Scale Additive Manufacturing",
+    "url": "https://www.inkbit3d.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Bridge the gap between prototype and full production. Inkbit delivers consistent and repeatable output with industrial throughput, allowing you to produce end-use parts without tooling delays or high setup costs.",
+    "url": "https://www.inkbit3d.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "A Professor of Electrical Engineering and Computer Science at MIT. The technological foundation of our company was developed in his laboratory. Prior to joining the MIT faculty, Wojciech worked in computer graphics and additive manufacturing research at Mitsubishi, Adobe, and Disney Imagineering.",
+    "url": "https://www.inkbit3d.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Case Studies | Production-Ready Manufacturing Applications | Inkbit",
+    "url": "https://www.inkbit3d.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Cable Clip Case Study: Print-in-Place Multi-Material, Zero Assembly",
+    "url": "https://www.inkbit3d.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial / Appliances",
+    "url": "https://www.inkbit3d.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Traditional manufacturing would require five assembled parts plus tooling and operations for multi-material features.",
+    "url": "https://www.inkbit3d.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Gas Diaphragm Pump Head Case Study: Additive Production Without Tooling Delays",
+    "url": "https://www.inkbit3d.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial / Medical OEM",
+    "url": "https://www.inkbit3d.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Vascular Phantom Case Study: TEPU 30A for Ultrasound-Compatible Soft Models",
+    "url": "https://www.inkbit3d.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Rapid Prototyping Case Study: High-Resolution Parts + Flexible Lead Times",
+    "url": "https://www.inkbit3d.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Complex internal channels make support removal difficult for many additive manufacturing technologies.",
+    "url": "https://www.inkbit3d.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Additive Manufacturing Platform",
+    "url": "https://www.inkbit3d.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Split Sprocket Case Study: Accurate Mating Features + Durable Epoxy",
+    "url": "https://www.inkbit3d.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial Automation",
+    "url": "https://www.inkbit3d.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "now offered through Inkbit's Digital Factory.",
+    "url": "https://www.inkbit3d.com/rf-microwave",
+    "pass": 1
+   },
+   {
+    "quote": "Inkbit delivers additive manufacturing solutions for defense and aerospace teams developing RF and microwave components. Using our low-loss COT material and Vision-Controlled Jetting™, engineers can rapidly design and produce high-performance dielectric parts for mission-critical systems.",
+    "url": "https://www.inkbit3d.com/rf-microwave",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive OEMs and Tier 1 suppliers can develop compact tunable dielectric parts & components for radar/ADAS systems. Reduce part count, post-build assembly, while enhancing signal performance, confidently accelerating validation phases while prototyping next-gen mmWave applications.",
+    "url": "https://www.inkbit3d.com/rf-microwave",
+    "pass": 1
+   },
+   {
+    "quote": "Inkbit’s Industrial 3D Printer",
+    "url": "https://www.inkbit3d.com/rf-microwave",
+    "pass": 1
+   },
+   {
+    "quote": "Inkbit Digital Factory",
+    "url": "https://www.inkbit3d.com/rf-microwave",
+    "pass": 1
+   },
+   {
+    "quote": "Inkbit’s additive manufacturing platform gives engineers the power to create antenna components with unmatched control over dielectric performance, geometry, and production scalability.",
+    "url": "https://www.inkbit3d.com/rf-microwave",
+    "pass": 1
+   },
+   {
+    "quote": "Five Parts. Five Manufacturing Problems. One Platform.",
+    "url": "https://www.inkbit3d.com/post/five-parts-five-manufacturing-problems-one-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Seals and gaskets sample kit by Inkbit, is shipped with five physical parts. Each one addresses a specific failure mode in conventional sealing component manufacturing.",
+    "url": "https://www.inkbit3d.com/post/five-parts-five-manufacturing-problems-one-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Request a Inkbit Digital Factory Seals & Gaskets",
+    "url": "https://www.inkbit3d.com/post/five-parts-five-manufacturing-problems-one-platform",
+    "pass": 1
+   },
+   {
+    "quote": "A component with a rigid mounting structure and a compliant sealing face has two material requirements. Conventional manufacturing resolves this by producing two components and joining them. The joining step introduces its own tolerance, its own bond strength variability, and its own failure mode.",
+    "url": "https://www.inkbit3d.com/post/five-parts-five-manufacturing-problems-one-platform",
+    "pass": 1
+   },
+   {
+    "quote": "The geometry in this kit includes an automotive charge port application. The principle applies to any cover or cap where the mounting interface requires rigidity and the sealing face requires compliance.",
+    "url": "https://www.inkbit3d.com/post/five-parts-five-manufacturing-problems-one-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Inkbit's vision-controlled jetting technology produces multi-material fluidic assemblies, precision seals, and complex gaskets, with integrated geometry that conventional manufacturing can't achieve.",
+    "url": "https://www.inkbit3d.com/industries/fluidics",
+    "pass": 1
+   },
+   {
+    "quote": "Digital Manufacturing Services",
+    "url": "https://www.inkbit3d.com/industries/fluidics",
+    "pass": 1
+   },
+   {
+    "quote": "When the design is validated, Inkbit's Digital Manufacturing Services delivers qualified, production-grade fluidic components directly from your CAD file — no tooling investment, no minimum order quantity.",
+    "url": "https://www.inkbit3d.com/industries/fluidics",
+    "pass": 1
+   },
+   {
+    "quote": "Ingersoll Rand Leads $19M Financing Round for Inkbit to Advance Multi-Functional Additive Manufacturing | Inkbit",
+    "url": "https://www.inkbit3d.com/news/ingersoll-rand-leads-19-million-financing-round",
+    "pass": 3
+   },
+   {
+    "quote": "Ingersoll Rand Leads $19M Financing Round for Inkbit to Advance Multi-Functional Additive Manufacturing",
+    "url": "https://www.inkbit3d.com/news/ingersoll-rand-leads-19-million-financing-round",
+    "pass": 3
+   },
+   {
+    "quote": "Medford, Mass. – May 6, 2024 – Inkbit™, a pioneer in advanced additive manufacturing solutions, announced today the closing of a $19M financing round led by Ingersoll Rand (NYSE: IR), with participation from Future Labs Capital, GC Ventures America, iGlobe Partners, Ocado, Phoenix Venture Partners, Stratasys, Zeon Ventures, and other private investors.",
+    "url": "https://www.inkbit3d.com/news/ingersoll-rand-leads-19-million-financing-round",
+    "pass": 3
+   },
+   {
+    "quote": "that scales seamlessly from prototyping to production on the same platform. The technology converges advances in computation, chemistry and process control, to enable rapid manufacturing of innovative products such as complex industrial fluidics and bio-inspired robots.",
+    "url": "https://www.inkbit3d.com/news/ingersoll-rand-leads-19-million-financing-round",
+    "pass": 3
+   },
+   {
+    "quote": "“A century ago, my great great-grandfather developed the moving assembly line – a production method that revolutionized the automotive industry and manufacturing in general. I am delighted to join Inkbit and contribute to reinventing the assembly line for the factories of the future” said Henry Ford III, who joins Inkbit as Independent Director.",
+    "url": "https://www.inkbit3d.com/news/ingersoll-rand-leads-19-million-financing-round",
+    "pass": 3
+   },
+   {
+    "quote": "Inkbit’s Scott Twiddy, PhD, will speak at European Microwave Week 2026 about manufacturing complex RF components using Cyclic Olefin Thermoset (COT) materials and Vision-Controlled Jetting™ (VCJ) technology.",
+    "url": "https://www.inkbit3d.com/news/ingersoll-rand-leads-19-million-financing-round",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "info@inkbit3d.com",
+    "url": "https://www.inkbit3d.com/request-a-quote",
+    "pass": 1
+   },
+   {
+    "quote": "8. Contact Us",
+    "url": "https://www.inkbit3d.com/cookies-policy",
+    "pass": 3
+   },
+   {
+    "quote": "Email: info@inkbit3d.com",
+    "url": "https://www.inkbit3d.com/cookies-policy",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Industrial / Medical OEM",
+    "url": "https://www.inkbit3d.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Automotive OEMs and Tier 1 suppliers can develop compact tunable dielectric parts & components for radar/ADAS systems. Reduce part count, post-build assembly, while enhancing signal performance, confidently accelerating validation phases while prototyping next-gen mmWave applications.",
+    "url": "https://www.inkbit3d.com/rf-microwave",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Beam-steering dielectric arrays",
+    "url": "https://www.inkbit3d.com/rf-microwave",
+    "pass": 1
+   },
+   {
+    "quote": "Available in Diamond and Gyroid lattice configurations for W-band radar, satellite backhaul, UAV communications, and phased-array augmentation.",
+    "url": "https://www.inkbit3d.com/rf-microwave",
+    "pass": 1
+   },
+   {
+    "quote": "Beam-shaping and switch-beam lens arrays",
+    "url": "https://www.inkbit3d.com/rf-microwave",
+    "pass": 1
+   },
+   {
+    "quote": "as part of the geometry. There is no secondary component. There is no bonding step. There is no interface to misalign.",
+    "url": "https://www.inkbit3d.com/post/five-parts-five-manufacturing-problems-one-platform",
+    "pass": 1
+   },
+   {
+    "quote": "The Gasket in the kit is printed as a single-pour multi-material part. Titan Tough 85 provides the structural carrier. TEPU 50A provides the elastomeric sealing surface. There is no bond. The material interface is defined by the print. Sealing geometry, including channels, variable section profiles, and integrated retention features, is not constrained by a tool.",
+    "url": "https://www.inkbit3d.com/post/five-parts-five-manufacturing-problems-one-platform",
+    "pass": 1
+   },
+   {
+    "quote": "Medford, Mass. – May 6, 2024 – Inkbit™, a pioneer in advanced additive manufacturing solutions, announced today the closing of a $19M financing round led by Ingersoll Rand (NYSE: IR), with participation from Future Labs Capital, GC Ventures America, iGlobe Partners, Ocado, Phoenix Venture Partners, Stratasys, Zeon Ventures, and other private investors.",
+    "url": "https://www.inkbit3d.com/news/ingersoll-rand-leads-19-million-financing-round",
+    "pass": 3
+   },
+   {
+    "quote": "As part of the transaction, Jason Weber, Vice President of Engineering, Compressor Systems and Services, North America, Ingersoll Rand, and Henry Ford III, Director at the Ford Motor Company and Trustee at the Ford Foundation, will join the Inkbit Board of Directors.",
+    "url": "https://www.inkbit3d.com/news/ingersoll-rand-leads-19-million-financing-round",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "〒100-8246 東京都千代田区丸の内１丁目６-2",
+    "url": "https://www.zeon.co.jp/news/assets/pdf/240620.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本ゼオン、3D インクジェット・プリント・システムを開発する米国スタートアップ Inkbit 社に投資",
+    "url": "https://www.zeon.co.jp/news/assets/pdf/240620.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本ゼオン株式会社（本社：東京都千代田区、代表取締役社長：豊嶋 哲也 以下、ゼオン）は、この度、CVC を運営する子",
+    "url": "https://www.zeon.co.jp/news/assets/pdf/240620.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "日本ゼオン株式会社 コーポレートサステナビリティ統括部門 広報室 電話：03-3216-2747",
+    "url": "https://www.zeon.co.jp/news/assets/pdf/240620.pdf",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Inkbit | 3D-Printed RF Metamaterial Components — Inkbit | 3D-Printed RF Metamaterial Components Inkbit https://www.inkbit3d.com",
+    "url": "https://www.inkbit3d.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Cookies Policy - Inkbit — Cookies Policy - Inkbit Inkbit https://www.inkbit3d.com > cookies-...",
+    "url": "https://www.inkbit3d.com/cookies-policy",
+    "pass": 3
+   },
+   {
+    "quote": "Industries The Inkbit Platform Serves | Inkbit3D — Industries The Inkbit Platform Serves | Inkbit3D Inkbit https://www.inkbit3d.com > industries",
+    "url": "https://www.inkbit3d.com/industries",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies | Production-Ready Manufacturing Applications — Case Studies | Production-Ready Manufacturing Applications Inkbit https://www.inkbit3d.com > case-stud...",
+    "url": "https://www.inkbit3d.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Ingersoll Rand Leads $19M Financing Round for Inkbit to ... — Ingersoll Rand Leads $19M Financing Round for Inkbit to ... Inkbit https://www.inkbit3d.com > news > in...",
+    "url": "https://www.inkbit3d.com/news/ingersoll-rand-leads-19-million-financing-round",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "3DPrint.com - Inkbit 3DPrint.com · rtdoSesnpoug,5t6s7t10u70h1u2ut7c7mt25hu12g49ff7Ahm95m2lg1a · Shared with Public Inkbit 3dprint.com AI-Driven 3D Printing Firm Inkbit Moves into 38,000 ...",
+    "url": "https://www.facebook.com/3dprintcom/posts/inkbit/1809250312579831/",
+    "pass": 3
+   },
+   {
+    "quote": "3DPrint.com - Inkbit | Facebook Mar 25, 2021 · Inkbit 3DPRINT.COM Inkbit Secures US Air Force Contract for Three Vista",
+    "url": "https://www.facebook.com/3dprintcom/posts/1697105580460972/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.inkbit3d.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inkbit3d.com/industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inkbit3d.com/request-a-quote",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inkbit3d.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inkbit3d.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inkbit3d.com/rf-microwave",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inkbit3d.com/post/five-parts-five-manufacturing-problems-one-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inkbit3d.com/industries/fluidics",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.inkbit3d.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zeon.co.jp/news/assets/pdf/240620.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://3dprinter.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.icotek.com/ja/detail/3792",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inkbit3d.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inkbit3d.com/cookies-policy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://formlabs.com/jp/company/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inkbit3d.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/p/Inkbit-100076161330633/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/inkbit-llc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.inkbit3d.com/industries",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inkbit3d.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJSk7_qNTEB67w-aWMWItI6ornZHGUKoZCLfvHk0tM4fzsKBPwJ",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://markforged.com/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tth.com/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inkbit3d.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://omc.cloud/partners-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fatbit.com/partner-program-engagement-models.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.xbytesolutions.com/white-label-partnership-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.inkbit3d.com/news/ingersoll-rand-leads-19-million-financing-round",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/inkbit",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://fundraiseinsider.com/blog/3d-printing-startups/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/inkbit/__fd6GbZlFf2N-8bbl83li1hrnL-tmz0m4ZkzKGLNLPY0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/3dprintcom/posts/inkbit/1809250312579831/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/3dprintcom/posts/1697105580460972/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Inkbit3D 日本 導入",
+   "results": [
+    "https://www.inkbit3d.com/",
+    "https://www.zeon.co.jp/news/assets/pdf/240620.pdf",
+    "https://3dprinter.co.jp/",
+    "https://www.icotek.com/ja/detail/3792",
+    "https://www.youtube.com/watch?v=ULo_dNEHg4w&vl=ja",
+    "https://prtimes.jp/main/html/rd/p/000000043.000103820.html",
+    "http://www.3ds.com/jp/company/news-media/press-releases-detail/release//single/4762/?cHash=82357412fbaecefe69f65ba813b94af8",
+    "https://www.systembit.co.jp/news/info/2023news_11_press.html",
+    "https://cmjsite.citizen.co.jp/open/techgroup/tech/detail/21/2222/",
+    "https://www.zeon.co.jp/en/news/assets/pdf/240620.pdf"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "Inkbit3D 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.inkbit3d.com/",
+    "https://www.inkbit3d.com/cookies-policy",
+    "https://formlabs.com/jp/company/partners/",
+    "https://news.sharelab.jp/3dp-news/others/additive-manufacturing-technologies/",
+    "https://arma.inc/20241112-2/",
+    "https://www.sakura-inv.co.jp/wp/2023/05/08/bigrep%E4%BB%A3%E7%90%86%E5%BA%97%E5%A5%91%E7%B4%84%E7%B7%A0%E7%B5%90%EF%BC%81/",
+    "https://metoree.com/companies/3363/distributors/",
+    "https://fusiontechnology.co.jp/access/",
+    "https://www.elysium-global.com/ja/about/resellers/",
+    "https://www.dell.com/ja-jp/blog/837894/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Inkbit3D Japan",
+   "results": [
+    "https://www.inkbit3d.com/",
+    "https://www.facebook.com/p/Inkbit-100076161330633/",
+    "https://www.linkedin.com/company/inkbit-llc",
+    "https://www.inkbit3d.com/industries",
+    "https://www.crunchbase.com/organization/inkbit",
+    "https://news.mit.edu/2019/inkbit-3d-printer-0604",
+    "https://www.levels.fyi/companies/inkbit",
+    "https://www.businesswire.com/news/home/20231114468127/en/Inkbit-Demonstrates-Single-Print-Fabrication-of-Complex-Multi-Functional-Systems-and-Robots",
+    "https://www.zoominfo.com/c/inkbit/443141800",
+    "https://www.inkbit3d.com/about"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Inkbit3D manufacturing customer case study",
+   "results": [
+    "https://www.inkbit3d.com/case-studies",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJSk7_qNTEB67w-aWMWItI6ornZHGUKoZCLfvHk0tM4fzsKBPwJ",
+    "https://markforged.com/resources/case-studies",
+    "https://www.tth.com/resources/case-studies",
+    "https://www.3deo.co/metal-3d-printing-applications-customer-case-studies/",
+    "https://www.eos.info/industries/customer-success-stories",
+    "https://thevirtualfoundry.com/manufacturing-using-3d-printing/",
+    "https://proto3000.com/resources/case_studies/",
+    "https://www.sculpteo.com/en/resources/customer-stories/",
+    "https://www.casestudies.com/company/inkbit"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Inkbit3D white label OR reseller OR partner program",
+   "results": [
+    "https://www.inkbit3d.com/",
+    "https://omc.cloud/partners-program",
+    "https://www.fatbit.com/partner-program-engagement-models.html",
+    "https://www.xbytesolutions.com/white-label-partnership-program/",
+    "https://www.bluestarinc.com/en-ca/manufacturers/partner-programs",
+    "https://www.materialise.com/en/industrial/software/partnerships/reseller",
+    "https://www.vizrt.com/partner-program/",
+    "https://bigrep.com/become-a-reseller/",
+    "https://ultimate3dprintingstore.com/pages/reseller-program?srsltid=AYCX9vKE23MSPl5cK6gBWhmJzANI9kqn1AaVBPxcVMlR6VMQuGWZIL3q",
+    "https://en.wikipedia.org/wiki/Reseller"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Inkbit3D founded funding employees revenue",
+   "results": [
+    "https://www.inkbit3d.com/news/ingersoll-rand-leads-19-million-financing-round",
+    "https://www.crunchbase.com/organization/inkbit",
+    "https://fundraiseinsider.com/blog/3d-printing-startups/",
+    "https://tracxn.com/d/companies/inkbit/__fd6GbZlFf2N-8bbl83li1hrnL-tmz0m4ZkzKGLNLPY0",
+    "https://www.av.vc/blog/one-startup-to-know-inkbit",
+    "https://www.voxelmatters.com/category/money/",
+    "https://pitchbook.com/profiles/company/166132-18",
+    "https://getlatka.com/companies/iconbuild.com",
+    "https://www.zoominfo.com/c/inkbit/443141800",
+    "https://startupintros.com/orgs/inkbit"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com Inkbit3D",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/aki_aoba/n/n9479f4d663fb",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/cute_willet990/n/n9529041a97d7",
+    "https://note.com/spaceygoblin/n/n0f0677188638",
+    "https://note.com/quruli/n/n35d2b6cdc37a",
+    "https://note.com/kazu_feelin/n/n2b2376f4be8d"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Inkbit3D",
+   "results": [
+    "https://x.com/bio_liberty",
+    "https://x.com/EinblickAI",
+    "https://x.com/BuiltInBOS",
+    "https://x.com/LaserFocusWorld",
+    "https://x.com/hashtag/inkbit3d",
+    "https://x.com/InkBit",
+    "https://help.x.com/en/using-x/download-the-x-app",
+    "https://x.com/MIT_CSAIL/status/1364280866000621569",
+    "https://x.com/AMPeterZelinski/status/1653735518876606465",
+    "https://x.com/InkbitApes"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:linkedin.com Inkbit3D",
+   "results": [
+    "https://www.linkedin.com/company/inkbit-llc",
+    "https://www.linkedin.com/in/javier-ramos-b508b1b",
+    "https://www.linkedin.com/in/dmarini",
+    "https://www.linkedin.com/in/jakob-rene",
+    "https://www.linkedin.com/in/scotttwiddy",
+    "https://www.linkedin.com/in/enslow",
+    "https://www.linkedin.com/posts/amiworld_chameleon-terahertz-ndt-activity-7465643060706557952-a7dZ",
+    "https://www.linkedin.com/in/matthewmunderville",
+    "https://www.linkedin.com/in/diego-correas-serrano",
+    "https://uk.linkedin.com/posts/inkbit-llc_welcome-to-imts-our-team-is-excited-to-meet-activity-6975095312243724288-0efL"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:facebook.com Inkbit3D",
+   "results": [
+    "https://www.facebook.com/p/Inkbit-100076161330633/",
+    "https://www.facebook.com/PhoenixVenturePartners/",
+    "https://www.facebook.com/3dprintcom/posts/inkbit/1809250312579831/",
+    "https://www.facebook.com/3dprintcom/posts/1697105580460972/",
+    "https://www.facebook.com/inkbitgraphics/",
+    "https://www.facebook.com/106372131810569/posts/introducing-our-new-blog-resource-check-out-the-first-post-from-one-of-our-appli/201681272279654/",
+    "https://www.facebook.com/reel/1495945764807656/",
+    "https://www.facebook.com/Inkbit-106372131810569/videos/additive-manufacturing-powered-by-vision-controlled-jetting-watch-the-video-to-s/1544447239281020/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Inkbit3D note 社長",
+   "results": [
+    "https://x.com/sadaaki",
+    "https://note.com/sadaaki",
+    "https://www.inkbit3d.com/",
+    "https://note.com/kbit_yoko27/n/n40917f1ef803",
+    "https://ja.wikipedia.org/wiki/%E5%8A%A0%E8%97%A4%E8%B2%9E%E9%A1%95",
+    "https://citizendatasciencelab.com/n/na595c83fa3fa",
+    "https://dot.asahi.com/articles/-/292259?page=1",
+    "https://note.com/kbit_yoko27/n/n66d9d31a46cb",
+    "https://www.inkbit3d.com/about",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Inkbit3D X 投稿",
+   "results": [
+    "https://www.inkbit3d.com/",
+    "https://www.inkbit3d.com/terms-and-conditions",
+    "https://x.com/ink3dStudio",
+    "https://www.inkbit3d.com/case-studies",
+    "https://www.inkpainter3d.org/",
+    "https://ink3d.app/",
+    "https://x.com/inusbij00",
+    "https://www.sotwe.com/maskedhorned",
+    "https://twstalker.com/ink3dl4d",
+    "https://www.inkbit3d.com/request-a-quote"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部26頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部26頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部26頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部26頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部26頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式8頁／PDF・画像0件／外部26頁・検索12回）"
+ }
+}

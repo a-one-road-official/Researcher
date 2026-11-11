@@ -8,8 +8,16 @@
  ],
  "context": "",
  "kind": "market",
- "researched_at": "2026-11-09T12:14:46.306766+00:00",
+ "researched_at": "2026-11-11T11:00:11.121876+00:00",
  "evidence": {
+  "一次情報の探し方": [
+   {
+    "quote": "PDF and Document Extraction",
+    "url": "https://simpleprog.com/topics/web-scraping/article-text-extraction",
+    "pass": 3,
+    "first_seen": "2026-11-05"
+   }
+  ],
   "突き合わせ・推定": [
    {
     "quote": "Estimate source acquisition, rendering, storage, labeling, evaluation, and downstream indexing together.",
@@ -82,14 +90,6 @@
    {
     "quote": "Annotation Methodology",
     "url": "https://github.com/Murrough-Foley/web-content-extraction-benchmark",
-    "pass": 3,
-    "first_seen": "2026-11-05"
-   }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "PDF and Document Extraction",
-    "url": "https://simpleprog.com/topics/web-scraping/article-text-extraction",
     "pass": 3,
     "first_seen": "2026-11-05"
    }
@@ -231,12 +231,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/nikki_r2d2/n/n7c0547c05be3",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://docodoor.co.jp/staffblog/web-scraping/",
+    "url": "https://note.com/tag/Web%E3%82%B9%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0",
     "status": "ok",
     "method": "http"
    },
@@ -246,7 +241,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/yasu3512/n/nec42bf28e746",
+    "url": "https://note.com/nikki_r2d2/n/n7c0547c05be3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.octoparse.jp/blog/web-scraping-challenges",
     "status": "ok",
     "method": "http"
    },
@@ -261,11 +261,6 @@
     "method": "http"
    },
    {
-    "url": "https://techplay.jp/column/601",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://www.idnet.co.jp/column/page_240.html",
     "status": "ok",
     "method": "http"
@@ -276,22 +271,22 @@
     "method": "http"
    },
    {
-    "url": "https://datamix.co.jp/media/datascience/python-scraping/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://aiacademy.jp/media/?p=341",
     "status": "ok",
     "method": "browser"
    },
    {
-    "url": "https://www.ricoh.co.jp/magazines/smb/column/007136/",
+    "url": "https://qiita.com/Octoparse_Japan/items/902f336d1b328eb38dbf",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://note.com/chantatsu_shisan/n/n8bac61a7edfd",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ricoh.co.jp/magazines/smb/column/007136/",
     "status": "ok",
     "method": "http"
    },
@@ -306,7 +301,12 @@
     "method": "http"
    },
    {
-    "url": "https://www.internetacademy.jp/it/programming/programming-basic/web_scraping.html",
+    "url": "https://www.silk.co.jp/column/what-is-scraping/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://easegis.jp/blog/readability/",
     "status": "ok",
     "method": "http"
    },
@@ -316,9 +316,9 @@
     "method": "http"
    },
    {
-    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3882476",
-    "status": "ok",
-    "method": "browser"
+    "url": "https://www.sciencedirect.com/science/article/pii/S2352711023002650",
+    "status": "http_403",
+    "method": "http"
    },
    {
     "url": "https://www.reddit.com/r/webscraping/comments/1ikkr8f/best_way_to_extract_clean_news_articles_around_100/",
@@ -326,19 +326,19 @@
     "method": ""
    },
    {
-    "url": "https://adrien.barbaresi.eu/blog/evaluating-text-extraction-python.html",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://groupbwt.com/blog/extract-data-from-news-article/",
     "status": "robots_disallowed",
     "method": ""
    },
    {
-    "url": "https://github.com/AndyTheFactory/article-extraction-dataset",
+    "url": "https://github.com/Murrough-Foley/web-content-extraction-benchmark",
     "status": "ok",
     "method": "http"
+   },
+   {
+    "url": "https://stackoverflow.com/questions/5745904/body-text-extraction-from-websites-e-g-extract-only-article-heading-and-text-no",
+    "status": "ok",
+    "method": "browser"
    }
   ]
  },
@@ -352,8 +352,8 @@
     "https://note.com/darkside_of_nhk/n/n7b80763fb607",
     "https://note.com/dw_dev_com/n/n2263d72dfaae",
     "https://note.com/kubinashi_ai/n/nd1fa65007d52",
-    "https://note.com/takaponpon/n/n5a81967da34d",
     "https://note.com/syou1024/n/ncf1c4a6d55bd",
+    "https://note.com/takaponpon/n/n5a81967da34d",
     "https://note.com/famous_ram5407/n/n420ae3f44896",
     "https://note.com/stein_brucke/n/n98534a14fb7c"
    ],
@@ -368,13 +368,13 @@
    "results": [
     "https://note.com/stamp_/n/nd9ab3d346f58",
     "https://qiita.com/y-araki-qiita/items/c9db8c18998e6cb10de7",
+    "https://note.com/tag/Web%E3%82%B9%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0",
     "https://www.youtube.com/watch?v=fQ9zNyJ4KH8",
-    "https://note.com/nikki_r2d2/n/n7c0547c05be3",
-    "https://docodoor.co.jp/staffblog/web-scraping/",
     "https://ai-inter1.com/webscraping_newspaper_2/",
-    "https://note.com/yasu3512/n/nec42bf28e746",
+    "https://note.com/nikki_r2d2/n/n7c0547c05be3",
     "https://www.octoparse.jp/blog/web-scraping-challenges",
     "https://blog.tottokug.com/entry/2017/12/09/233000",
+    "https://zenn.dev/tab_ki/articles/web_scraping",
     "https://note.com/55clotho/n/n816d179b53ec"
    ],
    "engines": [
@@ -389,13 +389,13 @@
     "https://www.shtockdata.com/blog/detail01.php",
     "https://thunderbit.com/ja/blog/best-article-scraper",
     "https://www.youtube.com/watch?v=-omSRE_WZrc",
-    "https://techplay.jp/column/601",
     "https://www.idnet.co.jp/column/page_240.html",
     "https://data.wingarc.com/scraping-27053",
-    "https://datamix.co.jp/media/datascience/python-scraping/",
     "https://aiacademy.jp/media/?p=341",
     "https://qiita.com/Octoparse_Japan/items/902f336d1b328eb38dbf",
-    "https://easegis.jp/blog/readability/"
+    "https://www.internetacademy.jp/it/programming/programming-basic/web_scraping.html",
+    "https://ai-inter1.com/webscraping_newspaper_2/",
+    "https://www.octoparse.jp/blog/web-scraping"
    ],
    "engines": [
     "ddgs:google",
@@ -409,59 +409,59 @@
     "https://www.shtockdata.com/blog/detail01.php",
     "https://www.idnet.co.jp/column/page_240.html",
     "https://aiacademy.jp/media/?p=341",
+    "https://note.com/chantatsu_shisan/n/n8bac61a7edfd",
     "https://data.wingarc.com/scraping-27053",
     "https://www.ricoh.co.jp/magazines/smb/column/007136/",
-    "https://note.com/chantatsu_shisan/n/n8bac61a7edfd",
     "https://www.canvas-works.jp/journal/python_scraping/",
     "https://hnavi.co.jp/knowledge/blog/scraping-development/",
-    "https://www.internetacademy.jp/it/programming/programming-basic/web_scraping.html",
-    "https://easegis.jp/blog/readability/"
+    "https://www.silk.co.jp/column/what-is-scraping/",
+    "https://note.com/55clotho/n/n816d179b53ec"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 15
   },
   {
    "query": "main content extraction boilerplate removal related articles scraping",
    "results": [
     "https://trafilatura.readthedocs.io/en/latest/evaluation.html",
-    "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3882476",
+    "https://www.sciencedirect.com/science/article/pii/S2352711023002650",
     "https://www.reddit.com/r/webscraping/comments/1ikkr8f/best_way_to_extract_clean_news_articles_around_100/",
-    "https://adrien.barbaresi.eu/blog/evaluating-text-extraction-python.html",
     "https://groupbwt.com/blog/extract-data-from-news-article/",
-    "https://github.com/AndyTheFactory/article-extraction-dataset",
-    "https://brightdata.fr/glossary/boilerplate-removal",
-    "https://ws-dl.blogspot.com/2017/03/2017-03-20-survey-of-5-boilerplate.html",
-    "https://arxiv.org/pdf/2001.04338",
-    "https://www.scrapeless.com/en/wiki/what-is-boilerplate-removal"
+    "https://github.com/Murrough-Foley/web-content-extraction-benchmark",
+    "https://stackoverflow.com/questions/5745904/body-text-extraction-from-websites-e-g-extract-only-article-heading-and-text-no",
+    "https://scrapfly.io/blog/posts/how-to-scrape-news-articles",
+    "https://www.firecrawl.dev/glossary/web-extraction-apis/how-to-extract-only-main-content-from-web-page",
+    "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3882476",
+    "https://simpleprog.com/topics/web-scraping/article-text-extraction"
    ],
    "engines": [
     "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 17
   },
   {
    "query": "site:note.com Webページの本文から関連記事・メニュー・広告を除いて取り出す方法（スクレイピングの本文抽出・失敗例）",
    "results": [
     "https://note.com/daikawai/n/n9e203dd4063a",
     "https://note.com/tata_15/n/n24119fdba6fa",
-    "https://note.com/mg185/n/n15a539b621d2",
+    "https://note.com/karupoimou/n/n4c97d4a2d74f",
     "https://note.com/55clotho/n/n816d179b53ec",
+    "https://note.com/ai_hexwrench/n/n9bb6e7c6d135",
     "https://note.com/53___/n/n0e4a04e4ce5b",
     "https://note.com/niti_technology/n/nf614a498b089",
-    "https://note.com/ai_hexwrench/n/n9bb6e7c6d135",
     "https://note.com/stamp_/n/nd9ab3d346f58",
-    "https://note.com/lilith_li_japan/n/n46deac7eede0",
-    "https://note.com/mirecat/n/nd6cb28af7b87"
+    "https://note.com/hiro924164/n/n183f3e700578"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
-   "n_hits": 10
+   "n_hits": 9
   },
   {
    "query": "site:x.com Webページの本文から関連記事・メニュー・広告を除いて取り出す方法（スクレイピングの本文抽出・失敗例）",
@@ -472,13 +472,13 @@
     "https://x.com/kasetsu_radio",
     "https://x.com/rilakksugi",
     "https://x.com/kabuakan",
-    "https://jf.x.com/images/media-preview/2112070581218939359",
     "https://jf.x.com/images/media-preview/2117203212642222105",
+    "https://jf.x.com/images/media-preview/2104686979715907881",
     "https://x.com/beku_AI/article/2036353582694596632",
-    "https://x.com/_ryu15_/status/2096526866865950879"
+    "https://help.x.com/ja/using-x/embed-x-feed"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 13
@@ -498,7 +498,7 @@
     "https://jp.linkedin.com/in/louis-kenta-kikuchi-17131b2b2"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -506,34 +506,33 @@
   {
    "query": "site:facebook.com Webページの本文から関連記事・メニュー・広告を除いて取り出す方法（スクレイピングの本文抽出・失敗例）",
    "results": [
-    "https://ja-jp.facebook.com/help/instagram/581066165581870",
-    "https://www.facebook.com/OfficeACT/posts/121341331301279/",
-    "https://www.facebook.com/KashiwazakiTakeout/photos/repost-syoutei2580-おはようございます️-将軍寿司の本日のおすすめメニュー書き上げました今日はメニューが多く入りきらないかと思いました-将軍寿/133410261676269/",
-    "https://www.facebook.com/Microsoft365Japan/videos/-word表からテキストを抽出表を解除してテキストのみの状態にしたいでも表を選択し削除するとテキストも消えてしまうと悩んだことはありませんか実は表の罫線を瞬時に/509216454871278/",
-    "https://www.facebook.com/sachiko.iwano/videos/種をとるならいちばん大きく完熟した実からなんですがわたし流は採り遅れちゃったりほかの生き物に食べられちゃった実を活用する方法ザルの上で種の部分を水洗いして取り出/4456908421121023/"
+    "https://www.facebook.com/help/instagram/581066165581870?locale=ja_JP",
+    "https://www.facebook.com/OfficeACT/posts/いつもなるほどと思わせてくれる連載記事今回もお勉強させていただきました/121341331301279/",
+    "https://www.facebook.com/sachiko.iwano/videos/種をとるならいちばん大きく完熟した実からなんですがわたし流は採り遅れちゃったりほかの生き物に食べられちゃった実を活用する方法ザルの上で種の部分を水洗いして取り出/4456908421121023/",
+    "https://www.facebook.com/Microsoft365Japan/videos/-word表からテキストを抽出表を解除してテキストのみの状態にしたいでも表を選択し削除するとテキストも消えてしまうと悩んだことはありませんか実は表の罫線を瞬時に/509216454871278/"
    ],
    "engines": [
     "ddgs:google",
     "yahoo_jp"
    ],
-   "n_hits": 5
+   "n_hits": 4
   },
   {
    "query": "Webページの本文から関連記事・メニュー・広告を除いて取り出す方法（スクレイピングの本文抽出・失敗例） note 社長",
    "results": [
+    "https://note.com/stamp_/n/nd9ab3d346f58",
+    "https://www.youtube.com/watch?v=fQ9zNyJ4KH8",
     "https://note.com/yasu3512/n/nec42bf28e746",
+    "https://data.wingarc.com/scraping-27053",
     "https://ai-inter1.com/webscraping_newspaper_2/",
-    "https://note.com/noble_crane1635/n/n016e54282a0f",
+    "https://qiita.com/ohtsuka-shota/items/b3bc7436e2246981f312",
     "https://docodoor.co.jp/staffblog/web-scraping/",
     "https://blog.tottokug.com/entry/2017/12/09/233000",
-    "https://note.com/dialogs_develop/n/n7dd148351285",
-    "https://brightdata.jp/blog/%E3%82%A6%E3%82%A7%E3%83%96%E3%83%87%E3%83%BC%E3%82%BF/web-scraping-without-getting-blocked",
     "https://note.com/furokun/n/n8dd33b6e5ff8",
-    "https://qiita.com/Azunyan1111/items/a1964c18e409fe6718fd",
     "https://note.com/55clotho/n/n816d179b53ec"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -546,11 +545,11 @@
     "https://qiita.com/y-araki-qiita/items/c9db8c18998e6cb10de7",
     "https://data.wingarc.com/scraping-27053",
     "https://note.com/stamp_/n/nd9ab3d346f58",
-    "https://www.internetacademy.jp/it/programming/programming-basic/web_scraping.html",
     "https://aiacademy.jp/media/?p=341",
     "https://ai-inter1.com/webscraping_newspaper_2/",
-    "https://blog.tottokug.com/entry/2017/12/09/233000",
-    "https://easegis.jp/blog/readability/"
+    "https://www.internetacademy.jp/it/programming/programming-basic/web_scraping.html",
+    "https://www.canvas-works.jp/journal/python_scraping/",
+    "https://note.com/55clotho/n/n816d179b53ec"
    ],
    "engines": [
     "ddgs:google",
@@ -561,28 +560,29 @@
   {
    "query": "main content extraction boilerplate removal related articles scraping site:linkedin.com",
    "results": [
-    "https://www.linkedin.com/pulse/how-llm-tools-actually-read-your-website-joe-robson-v4gge",
     "https://www.linkedin.com/posts/jafarnajafov_this-python-framework-scrapes-any-website-activity-7489964587979608064-OW2r",
-    "https://www.linkedin.com/pulse/document-parsing-rag-comprehensive-guide-understand-skugan-venkatesan-nt0bc",
+    "https://www.linkedin.com/pulse/how-llm-tools-actually-read-your-website-joe-robson-v4gge",
     "https://www.linkedin.com/posts/jafarnajafov_github-is-basically-giving-away-web-scraping-activity-7508100329234763776-v5q4",
-    "https://www.linkedin.com/pulse/how-chatgpt-consumed-internet-web-scale-crawling-data-farid-el-aouadi-obnvf",
+    "https://www.linkedin.com/pulse/document-parsing-rag-comprehensive-guide-understand-skugan-venkatesan-nt0bc",
     "https://www.linkedin.com/posts/avi-chawla_every-company-i-talk-to-is-literally-trying-activity-7417485558425284608-927H",
+    "https://www.linkedin.com/pulse/how-chatgpt-consumed-internet-web-scale-crawling-data-farid-el-aouadi-obnvf",
     "https://in.linkedin.com/in/yogesh-mehra-1b4041423",
     "https://www.linkedin.com/posts/charlywargnier_found-an-open-source-platform-that-turns-activity-7501271023204470784-956-",
     "https://www.linkedin.com/posts/hasantoxr_i-just-found-a-100-open-source-python-activity-7436728689498865664-QjYZ",
-    "https://www.linkedin.com/pulse/4-tips-writing-solid-boilerplate-your-companys-press-release-lindley"
+    "https://www.linkedin.com/posts/qingyu-chen-7a1b89181_250908604-activity-7422740958859100161-yUOt"
    ],
    "engines": [
     "ddgs:google",
+    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 16
+   "n_hits": 17
   }
  ],
  "missing": {
   "失敗・落とし穴": "記載なし（読んだ30頁・検索12回）"
  },
  "new_this_run": {},
- "runs": 19,
+ "runs": 20,
  "first_researched_at": "2026-11-05T15:19:46.211417+00:00"
 }

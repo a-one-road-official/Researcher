@@ -1,0 +1,1017 @@
+{
+ "name": "Plurall",
+ "aliases": [],
+ "context": "旧営業リスト｜Cybersecurity｜状態なし",
+ "researched_at": "2026-11-11T11:10:25.937718+00:00",
+ "official_url": "https://www.plurall.ai",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "provenance · metadata · benign-edit state",
+    "url": "https://www.plurall.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Image, video, audio, metadata, spectral, temporal, and web-intelligence signals fused into a clear verdict, with the evidence behind it.",
+    "url": "https://www.plurall.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "We are a small team building forensic tooling that has to hold up under adversarial pressure every day. We are looking for engineers and researchers across computer vision, audio, ML infrastructure, and fraud who want to work where synthetic media meets real consequences.",
+    "url": "https://www.plurall.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you want to run a pilot on your own media, integrate detection into a product, or explore a deeper partnership, tell us what you are working on and someone from the team will reply directly.",
+    "url": "https://www.plurall.ai/partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Plurall AI, spelled with two l's, is a New York company founded in 2024 that builds deepfake detection, fraud defense and proof-of-humanhood verification for trust, safety, security and compliance teams. Our models read forensic signals across image, video, audio and identity and return a verdict with the evidence behind it, so a reviewer can act on it rather than guess.",
+    "url": "https://www.plurall.ai/mission/",
+    "pass": 1
+   },
+   {
+    "quote": "Plurall AI operates as a mathematics-first, post-AI cybersecurity threat detection company: evidence functions are chosen because a theorem forces the gap they measure, verdicts come from a decision rule whose optimality is proved, and every probability is calibrated and measured by slice.",
+    "url": "https://www.plurall.ai/mission/",
+    "pass": 1
+   },
+   {
+    "quote": "Image, video, audio, metadata, spectral, temporal, and web-intelligence signals fused into a clear verdict, with the evidence behind it.",
+    "url": "https://www.plurall.ai/mission/",
+    "pass": 1
+   },
+   {
+    "quote": "Until recently, synthetic media sat in a gap between fraud law, privacy law and platform policy. That gap is closing. The rules below are the ones most likely to touch a trust, safety or compliance team in the next year. Dates are as enacted; this is a summary of public law, not legal advice.",
+    "url": "https://www.plurall.ai/notes/what-the-law-now-says-about-synthetic-media/",
+    "pass": 1
+   },
+   {
+    "quote": "What it asks of a platform: the 48-hour clock starts on notice, not on detection, so the practical burden is a reliable intake path and a way to find copies of the same media once one has been reported.",
+    "url": "https://www.plurall.ai/notes/what-the-law-now-says-about-synthetic-media/",
+    "pass": 1
+   },
+   {
+    "quote": "The AI Act's transparency obligations in Article 50 apply from 2 August 2026. Content that is a deepfake must be disclosed as artificially generated or manipulated, and providers of generative systems must mark their output in a machine-readable way. Generative systems already on the market have until 2 December 2026 to meet the marking requirement; the deepfake disclosure duty was not extended.",
+    "url": "https://www.plurall.ai/notes/what-the-law-now-says-about-synthetic-media/",
+    "pass": 1
+   },
+   {
+    "quote": "What it asks of a tool: labelling falls on the system that generates the content, which means detection systems should treat a missing label as unknown rather than as evidence of authenticity. Content made with tools outside the EU, or stripped of its marking, will carry no label at all.",
+    "url": "https://www.plurall.ai/notes/what-the-law-now-says-about-synthetic-media/",
+    "pass": 1
+   },
+   {
+    "quote": "What this means in practice",
+    "url": "https://www.plurall.ai/notes/what-the-law-now-says-about-synthetic-media/",
+    "pass": 1
+   },
+   {
+    "quote": "Labelling duties land on the tools that generate content; removal duties land on the platforms that host it. Neither lands on the person being impersonated.",
+    "url": "https://www.plurall.ai/notes/what-the-law-now-says-about-synthetic-media/",
+    "pass": 1
+   },
+   {
+    "quote": "A label is a useful signal and an unreliable one. The absence of a label proves nothing.",
+    "url": "https://www.plurall.ai/notes/what-the-law-now-says-about-synthetic-media/",
+    "pass": 1
+   },
+   {
+    "quote": "Dates and provisions are taken from the enacted texts and official guidance listed below. Laws change; check the current version before relying on any of this. No proprietary model internals or customer-specific details are included.",
+    "url": "https://www.plurall.ai/notes/what-the-law-now-says-about-synthetic-media/",
+    "pass": 1
+   },
+   {
+    "quote": "UK Government, Better protection for victims thanks to new law on sexually explicit deepfakes (22 January 2025)",
+    "url": "https://www.plurall.ai/notes/what-the-law-now-says-about-synthetic-media/",
+    "pass": 1
+   },
+   {
+    "quote": "おすすめのパートナー関係管理（PRM）ソフトウェア5選",
+    "url": "https://webcatalog.io/ja/apps/plurall",
+    "pass": 3
+   },
+   {
+    "quote": "パートナーのオンボーディング、トレーニング、案件登録、パフォーマンスを一元管理できる、おすすめのPRMソフトウェア5選",
+    "url": "https://webcatalog.io/ja/apps/plurall",
+    "pass": 3
+   },
+   {
+    "quote": "Leve sua escola digital sempre com você! O Plurall é a plataforma educacional da SOMOS Educação com recursos de alta tecnologia para toda a comunidade escolar.",
+    "url": "https://apps.apple.com/jp/app/plurall-somos-educa%C3%A7%C3%A3o/id900660848",
+    "pass": 3
+   },
+   {
+    "quote": "A plataforma combina conteúdo de excelência e soluções digitais para tornar a gestão pedagógica mais eficiente, apoiar os professores, ampliar a aprendizagem dos alunos e aproximar as famílias da escola.",
+    "url": "https://apps.apple.com/jp/app/plurall-somos-educa%C3%A7%C3%A3o/id900660848",
+    "pass": 3
+   },
+   {
+    "quote": "- Acompanhar o desempenho escolar de forma prática;",
+    "url": "https://apps.apple.com/jp/app/plurall-somos-educa%C3%A7%C3%A3o/id900660848",
+    "pass": 3
+   },
+   {
+    "quote": "O Plurall é uma das principais plataformas educacionais do Brasil e evolui continuamente para oferecer uma experiência digital cada vez mais completa a alunos, famílias e escolas.",
+    "url": "https://apps.apple.com/jp/app/plurall-somos-educa%C3%A7%C3%A3o/id900660848",
+    "pass": 3
+   },
+   {
+    "quote": "Melhor Aplicativo de Aprendizado",
+    "url": "https://apps.apple.com/jp/app/plurall-somos-educa%C3%A7%C3%A3o/id900660848",
+    "pass": 3
+   },
+   {
+    "quote": "Novo módulo aprimorado de Atividades.",
+    "url": "https://apps.apple.com/jp/app/plurall-somos-educa%C3%A7%C3%A3o/id900660848",
+    "pass": 3
+   },
+   {
+    "quote": "Nesta versão corrigimos pequenos problemas na abertura de alguns materiais e fizemos algumas outras melhorias",
+    "url": "https://apps.apple.com/jp/app/plurall-somos-educa%C3%A7%C3%A3o/id900660848",
+    "pass": 3
+   },
+   {
+    "quote": "Estamos sempre melhorando nosso App, resolvemos alguns pequenos problemas e melhoramos o visual da nossa página principal.",
+    "url": "https://apps.apple.com/jp/app/plurall-somos-educa%C3%A7%C3%A3o/id900660848",
+    "pass": 3
+   },
+   {
+    "quote": "Plurall Entrepreneur Card",
+    "url": "https://plurall.com/en/home/",
+    "pass": 3
+   },
+   {
+    "quote": "At Plurall, we offer business loans from $400,000 to $10,000,000. A hassle-free process from your smartphone, without physical documents, without business visits, and in just 30 minutes. Our purpose is that you find the capital to boost your business into the next level.",
+    "url": "https://plurall.com/en/home/",
+    "pass": 3
+   },
+   {
+    "quote": "This calculator is a tool to help you visualize an approximate estimate of your Plurall loan. The results you see here do not constitute a commitment or a final offer. The final offer will depend on the complete and accurate information you provide.",
+    "url": "https://plurall.com/en/home/",
+    "pass": 3
+   },
+   {
+    "quote": "Download the Plurall app to apply for your loan, create your account, and log in to start the process.",
+    "url": "https://plurall.com/en/home/",
+    "pass": 3
+   },
+   {
+    "quote": "How long does the process take?",
+    "url": "https://plurall.com/en/home/",
+    "pass": 3
+   },
+   {
+    "quote": "Apply and get approval in approximately",
+    "url": "https://plurall.com/en/home/",
+    "pass": 3
+   },
+   {
+    "quote": "Productive Capital Loan",
+    "url": "https://plurall.com/en/home/",
+    "pass": 3
+   },
+   {
+    "quote": "Why Do We Focus on Entrepreneurs?",
+    "url": "https://plurall.com/en/home/",
+    "pass": 3
+   },
+   {
+    "quote": "Businesses in Colombia are microenterprises.",
+    "url": "https://plurall.com/en/home/",
+    "pass": 3
+   },
+   {
+    "quote": "\"It's an excellent opportunity they provide us, as the loan makes the disbursements easy and manageable. I liked it a lot, and it has been a great help for my business.\"",
+    "url": "https://plurall.com/en/home/",
+    "pass": 3
+   },
+   {
+    "quote": "Tips from entrepreneurs for entrepreneurs",
+    "url": "https://plurall.com/en/home/",
+    "pass": 3
+   },
+   {
+    "quote": "We tell you everything you need to know about the world of entrepreneurship and how to leverage your finances to grow.",
+    "url": "https://plurall.com/en/home/",
+    "pass": 3
+   },
+   {
+    "quote": "El producto que te está robando plata (y no lo sabes) 💸",
+    "url": "https://plurall.com/en/home/",
+    "pass": 3
+   },
+   {
+    "quote": "Caja vs ganancia: el error que tiene endeudado al 80% de los micro-empresarios",
+    "url": "https://plurall.com/en/home/",
+    "pass": 3
+   },
+   {
+    "quote": "Aviso Privacidad Plurall",
+    "url": "https://plurall.com/en/home/",
+    "pass": 3
+   },
+   {
+    "quote": "Políticas de protección de datos Plurall",
+    "url": "https://plurall.com/en/home/",
+    "pass": 3
+   },
+   {
+    "quote": "Microcrédito que impulsa tu microempresa",
+    "url": "https://plurall.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Plurall es la fintech colombiana de microcrédito. Ya sea que necesites Capital Productivo de trabajo o quieras impulsar el crecimiento de tu negocio, te ayudamos a mantenerte un paso adelante.",
+    "url": "https://plurall.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Únete a la plataforma de microcrédito digital líder para microempresarios en Colombia.",
+    "url": "https://plurall.com/",
+    "pass": 3
+   },
+   {
+    "quote": "microempresarios atendidos",
+    "url": "https://plurall.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Todo lo que tu microempresa necesita para crecer.",
+    "url": "https://plurall.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Todo en una plataforma 100 % digital, diseñada para microempresarios colombianos.",
+    "url": "https://plurall.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Préstamos desde $400.000 hasta $25 millones, con cuotas que se ajustan a tu flujo de caja.",
+    "url": "https://plurall.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Sin codeudor ni papeleo físico. Aprobación 100 % digital en minutos.",
+    "url": "https://plurall.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Solicita entre $400.000 y $25 millones con plazos de 12 a 30 meses. Te aprobamos con base en tus ventas reales.",
+    "url": "https://plurall.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Tasa de interés entre 44,3% y 86,6% E.A. (promedio 60% E.A.), según el perfil del cliente. Estudio de crédito: $7.500. Seguro de vida deudor: $3.200 + IVA por cada millón desembolsado. Garantía: entre 1% y 12,7% del monto aprobado.",
+    "url": "https://plurall.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Historias reales de microempresarios colombianos",
+    "url": "https://plurall.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Negocios que crecieron con un microcrédito de Plurall. Estos testimonios son reales y se publican con autorización de sus protagonistas.",
+    "url": "https://plurall.com/",
+    "pass": 3
+   },
+   {
+    "quote": "\"Necesitaba surtir más para diciembre y el banco me rechazó por mi historial. Plurall me aprobó $3 millones en 48 horas. Ese diciembre vendí el doble.\"",
+    "url": "https://plurall.com/",
+    "pass": 3
+   },
+   {
+    "quote": "\"Pedí $5 millones para una nueva nevera industrial. Me aprobaron en un día. Las cuotas se ajustaron a mis ventas semanales; nunca me sentí ahogado.\"",
+    "url": "https://plurall.com/",
+    "pass": 3
+   },
+   {
+    "quote": "¿Cuánto puedo pedir prestado en Plurall?",
+    "url": "https://plurall.com/",
+    "pass": 3
+   },
+   {
+    "quote": "¿Necesito codeudor para que me presten?",
+    "url": "https://plurall.com/",
+    "pass": 3
+   },
+   {
+    "quote": "No. En Plurall no pedimos codeudor, ni papelería física, ni que visites una oficina. Solo necesitas ser colombiano mayor de 18 años, tener un negocio de cualquier tamaño, tu cédula física a la mano y una foto de tu negocio (te recomendamos hacer el proceso desde el local).",
+    "url": "https://plurall.com/",
+    "pass": 3
+   },
+   {
+    "quote": "¿Me prestan si estoy reportado en centrales de riesgo?",
+    "url": "https://plurall.com/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Four rules in force or arriving in the United States, the European Union and the United Kingdom, and what each one asks of platforms and tools.",
+    "url": "https://www.plurall.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Questions, or a role we haven't listed? Reach us on",
+    "url": "https://www.plurall.ai/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Four rules in force or arriving in the United States, the European Union and the United Kingdom, and what each one asks of platforms and tools.",
+    "url": "https://www.plurall.ai/notes/what-the-law-now-says-about-synthetic-media/",
+    "pass": 1
+   },
+   {
+    "quote": "What it asks of a tool: labelling falls on the system that generates the content, which means detection systems should treat a missing label as unknown rather than as evidence of authenticity. Content made with tools outside the EU, or stripped of its marking, will carry no label at all.",
+    "url": "https://www.plurall.ai/notes/what-the-law-now-says-about-synthetic-media/",
+    "pass": 1
+   },
+   {
+    "quote": "Dates and provisions are taken from the enacted texts and official guidance listed below. Laws change; check the current version before relying on any of this. No proprietary model internals or customer-specific details are included.",
+    "url": "https://www.plurall.ai/notes/what-the-law-now-says-about-synthetic-media/",
+    "pass": 1
+   },
+   {
+    "quote": "Tienda de barrio · Bogotá",
+    "url": "https://plurall.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Our methodology embeds public involvement within clear policy frameworks, transforming diverse perspectives into actionable insights. This approach streamlines decision-making, reduces implementation barriers, and ensures policies are both relevant and effective.",
+    "url": "https://plurall.cc/plurall/",
+    "pass": 3
+   },
+   {
+    "quote": ", the challenge wasn't just working remotely, it was making people from different countries and areas feel like part of the same company.",
+    "url": "https://pluria.co/case-studies/plurall-en",
+    "pass": 3
+   },
+   {
+    "quote": "of eligible employees registered on the platform",
+    "url": "https://pluria.co/case-studies/plurall-en",
+    "pass": 3
+   },
+   {
+    "quote": "100% of eligible employees registered on Pluria",
+    "url": "https://pluria.co/case-studies/plurall-en",
+    "pass": 3
+   },
+   {
+    "quote": "Plurall Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/plurall-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Plurall",
+    "url": "https://prospeo.io/c/plurall-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/plurall-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/plurall-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/plurall-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Embark Trucks (acquired by Applied Intuition)",
+    "url": "https://prospeo.io/c/plurall-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Plurall?",
+    "url": "https://prospeo.io/c/plurall-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Plurall generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/plurall-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/plurall-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/plurall-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Plurall have?",
+    "url": "https://prospeo.io/c/plurall-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/plurall-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Convexo3 Capital is an investment firm specializing in the acquisition and operation of mid-sized companies.",
+    "url": "https://fundediq.co/plurall-plurall-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Federico Gomez Pardo is listed as CEO at Plurall.",
+    "url": "https://fundediq.co/plurall-plurall-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Plurall have?",
+    "url": "https://fundediq.co/plurall-plurall-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "the disclosed figures only — a round announced without a number is listed and excluded from",
+    "url": "https://fundediq.co/plurall-plurall-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Employee counts are reported bands, not exact headcounts. Founder and executive names carry",
+    "url": "https://fundediq.co/plurall-plurall-com-funding/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Plurall - デスクトップ・モバイルアプリ - WebCatalog — PlurallをMac、Windows、Android、iOS向けにダウンロード。 Plurallは、生徒・教師・学校・家族をつなぐ教育アプリです。 デジタル教材、課題、評価、学習状況の確認、学校からの連絡、学習支援を利用できます。",
+    "url": "https://webcatalog.io/ja/apps/plurall",
+    "pass": 3
+   },
+   {
+    "quote": "「Plurall - SOMOS Educação」をApp Storeで — 「Plurall - SOMOS Educação」のレビューをチェック、カスタマー評価を比較、スクリーンショットと詳細情報を確認することができます。 「Plurall - SOMOS Educação」をダウンロードしてiPhone、iPad、iPod touchでお楽しみください。",
+    "url": "https://apps.apple.com/jp/app/plurall-somos-educação/id900660848",
+    "pass": 3
+   },
+   {
+    "quote": "Home - Plurall — At Plurall, we offer business loans from $400,000 to $10,000,000. A hassle-free process from your smartphone, without physical documents, without business visits, and in just 30 minutes. Our purpose is that you find the capital to boost your business into the next level.",
+    "url": "https://plurall.com/en/home/",
+    "pass": 3
+   },
+   {
+    "quote": "Soluciones financieras para tu negocio | Plurall — Encuentra soluciones financieras para impulsar tu negocio con Plurall. Accede a opciones de crédito simples, rápidas y pensadas para pequeños empresarios.",
+    "url": "https://plurall.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Plurall AI: Deepfake Detection and Synthetic Media Forensics — Plurall AI builds forensic detection for synthetic media: image, video, audio and identity signals fused into a verdict your trust team can act on.",
+    "url": "https://www.plurall.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "PLURALL – plurall.cc — Plurall specializes in providing clients with proven open-source solutions for public policies, tested and refined in various government administrations. Our team brings 30 combined years of high-level governmental and international institutions experience, as well as grounded field work.",
+    "url": "https://plurall.cc/plurall/",
+    "pass": 3
+   },
+   {
+    "quote": "Plurall AI — Dec 29, 2025 · Empower your organization to detect and prevent deepfakes with industry-leading AI technology. 93% accuracy rate, <2s detection time, and 24/7 protection. Protect your brand, secure your content, and build trust.",
+    "url": "https://www.plurall.info/",
+    "pass": 3
+   },
+   {
+    "quote": "Plurall Study - pluria.co — Plurall integrated Pluria to give their team access to flexible workspaces across Colombia and Mexico, covering cities such as Bogotá, Medellín, Bucaramanga, Manizales, and Mexico City, Guadalajara, and Toluca.",
+    "url": "https://pluria.co/case-studies/plurall-en",
+    "pass": 3
+   },
+   {
+    "quote": "Plurall 2026 Company Profile: Valuation, Funding & Investors ...Plurall Revenue, Funding & Valuation - prospeo.ioPlural Revenue, Funding & Valuation - prospeo.ioPlurall: Funding, Investors & Team (Oct 2026) | FundedIQPlural AI 2026 Company Profile: Valuation, Funding ...Plural - 2026 Company Profile, Team, Funding & Competitors ...Plurall - Crunchbase Company Profile & Funding — Information on val",
+    "url": "https://pitchbook.com/profiles/company/492703-03",
+    "pass": 3
+   },
+   {
+    "quote": "Plurall Revenue, Funding & Valuation - prospeo.io — Plurall has revenue of $3,764,420, estimated valuation of $12,100,000, $7,600,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/plurall-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Plurall: Funding, Investors & Team (Oct 2026) | FundedIQ — Plurall is building the first AI-driven Fin-App for the 8mm+ entrepreneurs in Colombia that have been left out of traditional banking and the FinTech revolution. Colombia is the most entrepreneurial country in the world with the largest percentage of the workforce “self-employed”.",
+    "url": "https://fundediq.co/plurall-plurall-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "Plural AI 2026 Company Profile: Valuation, Funding ...Plural - 2026 Company Profile, Team, Funding & Competitors ...Plurall - Crunchbase Company Profile & Funding — Information on valuation, funding, cap tables, investors, and executives for Plural AI. Use the PitchBook Platform to explore the full profile. May 24, 2026 · Plural - About the company Plural is an acquired company based in New York C",
+    "url": "https://pitchbook.com/profiles/company/227011-78",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "\"Pedí $5 millones para una nueva nevera industrial. Me aprobaron en un día. Las cuotas se ajustaron a mis ventas semanales; nunca me sentí ahogado.\"",
+    "url": "https://plurall.com/",
+    "pass": 3
+   },
+   {
+    "quote": "44 different spaces used by the team",
+    "url": "https://pluria.co/case-studies/plurall-en",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Microcrédito que impulsa tu microempresa",
+    "url": "https://plurall.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Únete a la plataforma de microcrédito digital líder para microempresarios en Colombia.",
+    "url": "https://plurall.com/",
+    "pass": 3
+   },
+   {
+    "quote": "microempresarios atendidos",
+    "url": "https://plurall.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Todo lo que tu microempresa necesita para crecer.",
+    "url": "https://plurall.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Todo en una plataforma 100 % digital, diseñada para microempresarios colombianos.",
+    "url": "https://plurall.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Historias reales de microempresarios colombianos",
+    "url": "https://plurall.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Sí. Somos una empresa colombiana legalmente constituida, con más de cuatro años de operación y más de 6.000 microempresarios atendidos. Cumplimos el límite legal de tasa de usura, te mostramos todos los costos antes de que firmes y nunca te pedimos pagos anticipados para desembolsar un crédito. Nuestros únicos canales oficiales son plurall.com y la app Plurall en App Store y Play Store.",
+    "url": "https://plurall.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Plurall está redefiniendo el crédito para microempresas con IA avanzada y modelos de riesgo en tiempo real. Sin sucursales, sin papeleo, sin esperas: financiamiento aprobado en minutos donde otros ven riesgo.",
+    "url": "https://prospeo.io/c/plurall-revenue",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/plurall-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Contact details for the Plurall team: 5 of 5 have an email address on file.",
+    "url": "https://fundediq.co/plurall-plurall-com-funding/",
+    "pass": 3
+   },
+   {
+    "quote": "day 15, and we email you 3 days before that. Need something specific?",
+    "url": "https://fundediq.co/plurall-plurall-com-funding/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Plurall - LinkedIn About us Plurall es una fábrica de activos alternativos construida sobre el crédito productivo de Colombia.",
+    "url": "https://www.linkedin.com/company/plurallsme/",
+    "pass": 3
+   },
+   {
+    "quote": "Plurall - LinkedIn Plurall specializes in providing clients with proven open-source solutions for public policies, tested and refined in various government administrations.",
+    "url": "https://www.linkedin.com/company/plurallcc",
+    "pass": 3
+   },
+   {
+    "quote": "Plurall Coworking | LinkedIn A Plurall tem o intuito de fornecer tudo o que você precisa, uma estrutura completa e um networking com profissionais de diversas áreas, podendo ser a chave para alavancar o sucesso da sua...",
+    "url": "https://br.linkedin.com/company/plurall-coworking",
+    "pass": 3
+   },
+   {
+    "quote": "Plurall Soluções E Estrategias Em Saúde Suplementar Fundada em 2002 – na transição do mercado brasileiro para uma atividade regulamentada, o que lhe permitiu participar ativamente do desenvolvimento do setor e sua regulação – a Plurall Consultoria...",
+    "url": "https://br.linkedin.com/company/plurall-solucoes-e-estrategias-em-saude-suplementar",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Plurall.Co - FacebookThe Plural Association - FacebookPLURAL | Bratislava - FacebookPlurall - FacebookPlurall Coworking | Criciúma SC - FacebookPlurall - FacebookPlural Works - Facebook 4 days ago · Así como Martha, todos los clientes de Plurall tienen acceso 100% gratuito a esta herramienta práctica con cursos cortos pensados para que aprendas a tomar mejores decisiones financieras y administrati",
+    "url": "https://www.facebook.com/PlurallCo/",
+    "pass": 3
+   },
+   {
+    "quote": "The Plural Association - FacebookPLURAL | Bratislava - FacebookPlurall - FacebookPlurall Coworking | Criciúma SC - FacebookPlurall - FacebookPlural Works - Facebook Sep 14, 2026 · The Plural Association. 3,422 followers · 19 talking about this. We are the first grassroots & peer-led nonprofit empowering Plurals & DID/OSDD Systems worldwide. Sep 22, 2026 · PLURAL, Bratislava. 2,124 followers · 1 ta",
+    "url": "https://www.facebook.com/thepluralassociation/",
+    "pass": 3
+   },
+   {
+    "quote": "PLURAL | Bratislava - FacebookPlurall - FacebookPlurall Coworking | Criciúma SC - FacebookPlurall - FacebookPlural Works - Facebook Sep 22, 2026 · PLURAL, Bratislava. 2,124 followers · 1 talking about this · 4 were here. PLURAL produces architecture, exhibition design, as well as speculations on the city. May 26, 2026 · Plurall is in Bogotá, Colombia. Estamos a solo 1 día de recibir en nuestra cas",
+    "url": "https://www.facebook.com/plural.sk/",
+    "pass": 3
+   },
+   {
+    "quote": "Plurall - Facebook May 26, 2026 · Plurall is in Bogotá, Colombia. Estamos a solo 1 día de recibir en nuestra casa a los artistas que nos van a llevar directo a ese punto donde la nostalgia, la euforia y los ritmos rápidos se encuentran en la pista.",
+    "url": "https://www.facebook.com/onevibe1/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.plurall.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plurall.ai/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plurall.ai/partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plurall.ai/mission/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plurall.ai/notes/what-the-law-now-says-about-synthetic-media/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://webcatalog.io/ja/apps/plurall",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apps.apple.com/jp/app/plurall-somos-educa%C3%A7%C3%A3o/id900660848",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://carview.yahoo.co.jp/news/detail/957140a018b42878c4fb65335c94897a6480fe36/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://response.jp/article/2026/09/11/416440.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sidebizz.net/blog/agent/general-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kkhashi.com/blogs/detail/145/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plurall.com/en/home/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plurall.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plurall.cc/plurall/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/plural",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pluraltechnology.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pluria.co/case-studies/plurall-en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/plural/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/492703-03",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/plurall-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/plural-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fundediq.co/plurall-plurall-com-funding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/plurallsme/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/plurallcc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://br.linkedin.com/company/plurall-coworking",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://br.linkedin.com/company/plurall-solucoes-e-estrategias-em-saude-suplementar",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/PlurallCo/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/thepluralassociation/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/plural.sk/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/onevibe1/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Plurall 日本 導入",
+   "results": [
+    "https://webcatalog.io/ja/apps/plurall",
+    "https://apps.apple.com/jp/app/plurall-somos-educação/id900660848",
+    "https://carview.yahoo.co.jp/news/detail/957140a018b42878c4fb65335c94897a6480fe36/",
+    "https://response.jp/article/2026/09/11/416440.html",
+    "https://car.watch.impress.co.jp/docs/news/2153268.html",
+    "https://codenote.net/ja/posts/japanese-local-llm-development-case-studies/",
+    "https://www.plural-reality.com/casestudies"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Plurall 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.sidebizz.net/blog/agent/general-agency/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.kkhashi.com/blogs/detail/145/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://www.multipalstore.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Plurall Japan",
+   "results": [
+    "https://plurall.com/en/home/",
+    "https://plurall.com/",
+    "https://www.plurall.ai/",
+    "https://plurall.cc/plurall/",
+    "https://www.plurall.info/",
+    "https://plurall.com/en/",
+    "https://www.plural.ai/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Plurall manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/plural",
+    "https://www.pluraltechnology.com/case-studies/",
+    "https://pluria.co/case-studies/plurall-en",
+    "https://www.featuredcustomers.com/vendor/plural/case-studies",
+    "https://www.pluraltechnology.com/casestudy/",
+    "https://www.pluralstrategy.com/work/",
+    "https://aimmgrowthfronts.com/wp-content/uploads/2025/02/Plural-Case-Studies-Q1-2025.pdf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Plurall white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/",
+    "https://www.thenationalcouncil.org/get-involved/partner-with-us/partnership-program/",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Plurall founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/492703-03",
+    "https://prospeo.io/c/plurall-revenue",
+    "https://prospeo.io/c/plural-revenue",
+    "https://fundediq.co/plurall-plurall-com-funding/",
+    "https://pitchbook.com/profiles/company/227011-78",
+    "https://tracxn.com/d/companies/plural/__N2N97qTgyaU5-iKk-SMTYOe6kqAV1Ia0TW8lhf85x2c",
+    "https://www.crunchbase.com/organization/plurall-c7a9"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Plurall",
+   "results": [
+    "https://note.com/pluralaxis",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/brighture/n/nc1b5cc3d45e8?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/joyous_echium558/n/n1b32fd158b3a?hl=en",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Plurall",
+   "results": [
+    "https://help.x.com/en",
+    "https://x.com/plural_co",
+    "https://x.com/pluralplatform",
+    "https://x.com/pluralis",
+    "https://x.com/PluralSpaceApp",
+    "https://x.com/pluralbalcony",
+    "https://x.com/CorrectPlural"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Plurall",
+   "results": [
+    "https://www.linkedin.com/company/plurallsme/",
+    "https://www.linkedin.com/company/plurallcc",
+    "https://br.linkedin.com/company/plurall-coworking",
+    "https://br.linkedin.com/company/plurall-solucoes-e-estrategias-em-saude-suplementar",
+    "https://in.linkedin.com/company/plural-technology-pvt-ltd",
+    "https://uk.linkedin.com/in/camillerougie",
+    "https://co.linkedin.com/in/federicogomezpardo"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Plurall",
+   "results": [
+    "https://www.facebook.com/PlurallCo/",
+    "https://www.facebook.com/thepluralassociation/",
+    "https://www.facebook.com/plural.sk/",
+    "https://www.facebook.com/onevibe1/",
+    "https://www.facebook.com/plurallcoworking/",
+    "https://www.facebook.com/somosplurall/",
+    "https://www.facebook.com/pluralworks/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Plurall note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.com/sadaaki",
+    "https://note.com/onlystory_pr/n/nbf918882e44a",
+    "https://mystorymark-gov.note.jp/n/n0b5571e25b8c"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Plurall X 投稿",
+   "results": [
+    "https://www.plurall.net/",
+    "https://x.com/Plural_mono/status/2102400738437775836",
+    "https://x.com/Plural_mono/status/2116892028063867045",
+    "https://techgym.jp/column/x-twitter/",
+    "https://note.com/pocketstudio/n/n7afabea20243",
+    "https://lifrell-tech.com/950/",
+    "https://uravation.com/media/claude-code-x-auto-post-2026/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部31頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部31頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部31頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部31頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部31頁・検索12回）"
+ }
+}

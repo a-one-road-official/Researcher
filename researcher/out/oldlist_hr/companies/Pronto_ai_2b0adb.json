@@ -1,0 +1,1048 @@
+{
+ "name": "Pronto.ai",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-11T11:02:10.117225+00:00",
+ "official_url": "https://www.pronto.ai/",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Pronto.ai – Autonomous Haulage Systems – Autonomy Simplified",
+    "url": "https://pronto.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Pronto delivers off-road autonomous haulage systems (AHS) specifically engineered for a variety of rugged environments. Complex industrial sites like mines and quarries rely on Pronto’s AHS to improve productivity and safety and lower costs.",
+    "url": "https://pronto.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our AHS is as simple as driving from A to B. Pronto’s software learns a haul route from a mining operator driving a vehicle manually on the desired route, just one time. Operators then dispatch trucks to saved routes from their smartphones via Pronto’s easy-to-operate mobile app.",
+    "url": "https://pronto.ai/solution/",
+    "pass": 1
+   },
+   {
+    "quote": "To meet the rigid safety requirements of mine operators, Pronto’s turnkey software+hardware system enables protection that includes:",
+    "url": "https://pronto.ai/solution/",
+    "pass": 1
+   },
+   {
+    "quote": "Precise situational awareness",
+    "url": "https://pronto.ai/solution/",
+    "pass": 1
+   },
+   {
+    "quote": "to actuate any vehicle with precision",
+    "url": "https://pronto.ai/solution/",
+    "pass": 1
+   },
+   {
+    "quote": "Easily programmable software",
+    "url": "https://pronto.ai/solution/",
+    "pass": 1
+   },
+   {
+    "quote": "provided in all manually operated equipment that interact with our AHS",
+    "url": "https://pronto.ai/solution/",
+    "pass": 1
+   },
+   {
+    "quote": "Our rugged, proven system is fully cognizant of its surroundings day or night, regardless of weather or season, with a layered, redundant safety system platform. Reduce accidents, fender benders, and scrapes to lower insurance and minimize body corrosion.",
+    "url": "https://pronto.ai/solution/",
+    "pass": 1
+   },
+   {
+    "quote": "Pronto is OEM, vehicle, and application agnostic. It can be used in various off-road applications and power trains as well as on class 8 haulers and support vehicles.",
+    "url": "https://pronto.ai/solution/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve Operational Efficiency",
+    "url": "https://pronto.ai/solution/",
+    "pass": 1
+   },
+   {
+    "quote": "Our over-the-air software updates and system upgradability allows constant improvement without physical maintenance. Your operations will get smarter and more efficient automatically.",
+    "url": "https://pronto.ai/solution/",
+    "pass": 1
+   },
+   {
+    "quote": "Maximizes fuel mileage with a smooth application of throttle and a strict adherence to speed limits. We provide consistent vehicle speeds which can ease congestion in the queuing process and reduce idling and truck waiting time.",
+    "url": "https://pronto.ai/solution/",
+    "pass": 1
+   },
+   {
+    "quote": "Pronto’s convenient smartphone app does away with the need for a complex, expensive AHS control room while still providing:",
+    "url": "https://pronto.ai/solution/",
+    "pass": 1
+   },
+   {
+    "quote": "Designed to respond to unpredictable events in high-traffic environments",
+    "url": "https://pronto.ai/solution/",
+    "pass": 1
+   },
+   {
+    "quote": "We deliver safe, proven autonomous haulage",
+    "url": "https://pronto.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Pronto was founded in 2018 and in that same year became the first and only system to drive coast-to-coast – from San Francisco to New York City – without a single driver input.",
+    "url": "https://pronto.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Combined with seamless integration, ease of use, and a practical, iterative approach, we work with you every step of the way. This new model for advanced technology deployment is cost-effective and pragmatic, making Pronto the safest and best value autonomous haulage system, period.",
+    "url": "https://pronto.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "An industry prodigy, excels in all areas of AI development and deployment; Lucid, Ford, MS University of Michigan – Electrical Engineering and Control Systems, specializing in autonomous vehicle control",
+    "url": "https://pronto.ai/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Pronto.ai、SafeAIを買収──オフロード自動運転の覇権を握る戦略的統合｜SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e",
+    "pass": 3
+   },
+   {
+    "quote": "Pronto.ai、SafeAIを買収──オフロード自動運転の覇権を握る戦略的統合",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e",
+    "pass": 3
+   },
+   {
+    "quote": "オフロードにおける自律走行（AHS: Autonomous Haulage Systems）の分野には、主にPronto.aiとSafeAIの二強が存在しており、買収によりProntoが明確に主導権を握る構図が形成されました",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e",
+    "pass": 3
+   },
+   {
+    "quote": "2-1. カメラ中心のPronto.ai方式",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e",
+    "pass": 3
+   },
+   {
+    "quote": "Pronto.aiがより広範な地域での案件受注を可能にします",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e",
+    "pass": 3
+   },
+   {
+    "quote": "Pronto.aiによるSafeAIの買収は、オフロード自律走行市場において、",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e",
+    "pass": 3
+   },
+   {
+    "quote": "本買収によりPronto.aiは、世界各地での導入を加速し、オフロード産業の自動化を強力に推進する存在となるでしょう",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e",
+    "pass": 3
+   },
+   {
+    "quote": "Pronto and Hitachi Construction Machinery Enter Strategic Partnership to Advance Open Mine Automation Solutions",
+    "url": "https://pronto.ai/learn/",
+    "pass": 3
+   },
+   {
+    "quote": "A New Chapter for Pronto: We Have Officially Been Acquired by Atoms",
+    "url": "https://pronto.ai/learn/",
+    "pass": 3
+   },
+   {
+    "quote": "April 6, 2026",
+    "url": "https://pronto.ai/learn/",
+    "pass": 3
+   },
+   {
+    "quote": "Bloomberg Businessweek Features Pronto’s Self-Driving Success",
+    "url": "https://pronto.ai/learn/",
+    "pass": 3
+   },
+   {
+    "quote": "Bloomberg Businessweek Story Features Pronto’s Self-Driving Success While self-driving cars…",
+    "url": "https://pronto.ai/learn/",
+    "pass": 3
+   },
+   {
+    "quote": "Pronto Announces Expansion of Autonomous Haulage Operations Across Two New Heidelberg Materials Sites in 2026",
+    "url": "https://pronto.ai/learn/",
+    "pass": 3
+   },
+   {
+    "quote": "SAN FRANCISCO, CA – April 30, 2026 – Business Wire…",
+    "url": "https://pronto.ai/learn/",
+    "pass": 3
+   },
+   {
+    "quote": "April 30, 2026",
+    "url": "https://pronto.ai/learn/",
+    "pass": 3
+   },
+   {
+    "quote": "Pronto Unveils AHS Editions: The First Tiered Autonomous Haulage Portfolio for the Global Mining Industry",
+    "url": "https://pronto.ai/learn/",
+    "pass": 3
+   },
+   {
+    "quote": "Pronto Announces Industry Milestone: North America’s First Fully Autonomous Mixed-Fleet Quarry Surpasses Two Million Tons Hauled",
+    "url": "https://pronto.ai/learn/",
+    "pass": 3
+   },
+   {
+    "quote": "January 15, 2026 – Business Wire – Pronto.ai, Inc. (Pronto)…",
+    "url": "https://pronto.ai/learn/",
+    "pass": 3
+   },
+   {
+    "quote": "Komatsu North America and Pronto launch autonomy solution for quarry-size trucks",
+    "url": "https://pronto.ai/learn/",
+    "pass": 3
+   },
+   {
+    "quote": "Komatsu Smart Quarry Autonomous, powered by Pronto, aims to transform…",
+    "url": "https://pronto.ai/learn/",
+    "pass": 3
+   },
+   {
+    "quote": "Pronto Acquires SafeAI, Expanding Leadership in Off-Road Autonomy",
+    "url": "https://pronto.ai/learn/",
+    "pass": 3
+   },
+   {
+    "quote": "SAN FRANCISCO, July 15, 2025 / Business Wire / — Pronto.ai, Inc.…",
+    "url": "https://pronto.ai/learn/",
+    "pass": 3
+   },
+   {
+    "quote": "Pronto Announces Global Agreement to Deploy 100+ Autonmous Haul Trucks",
+    "url": "https://pronto.ai/learn/",
+    "pass": 3
+   },
+   {
+    "quote": "SAN FRANCISCO, Feb. 24, 2025 / PRNewswire/ — Pronto, the Silicon Valley-based…",
+    "url": "https://pronto.ai/learn/",
+    "pass": 3
+   },
+   {
+    "quote": "Pronto and Heidelberg Materials Deploy AHS at Lake Bridgeport",
+    "url": "https://pronto.ai/learn/",
+    "pass": 3
+   },
+   {
+    "quote": "Pronto AI Revenue 2025: $14.5M Est.",
+    "url": "https://getlatka.com/companies/pronto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Pronto AI is a Mining Software company based in San Francisco.",
+    "url": "https://getlatka.com/companies/pronto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Pronto AI has not published its revenue. GetLatka estimates it at about $14.5M a year (September 2025).",
+    "url": "https://getlatka.com/companies/pronto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Pronto AI has 132 employees (September 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/pronto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "What is Pronto AI's revenue?",
+    "url": "https://getlatka.com/companies/pronto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Pronto AI's revenue at about",
+    "url": "https://getlatka.com/companies/pronto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Pronto AI have?",
+    "url": "https://getlatka.com/companies/pronto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/pronto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/pronto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Pronto.ai Acquires SafeAI: A Strategic Consolidation to Dominate Off-Road Autonomous Driving｜SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Pronto.ai Acquires SafeAI: A Strategic Consolidation to Dominate Off-Road Autonomous Driving",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", a competitor in the same field. This article provides a professional yet accessible explanation of the background and purpose of this acquisition, technical differences, industry impact, and future prospects.",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", absorbing approximately 12 engineers and the company's intellectual property. According to TechCrunch, the acquisition price is in the \"multi-million dollar\" range.",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The primary objective of the terms was the \"acquisition of technology and talent,\" which is part of strengthening resources essential for a startup.",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the field of off-road Autonomous Haulage Systems (AHS), there were primarily two major players: Pronto.ai and SafeAI. This acquisition has created a structure where Pronto clearly holds the lead.",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "2. Differences in Technical Approaches and Integration Strategy",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Pronto delivers off-road autonomous haulage systems (AHS) specifically engineered for a variety of rugged environments. Complex industrial sites like mines and quarries rely on Pronto’s AHS to improve productivity and safety and lower costs.",
+    "url": "https://pronto.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Our AHS is as simple as driving from A to B. Pronto’s software learns a haul route from a mining operator driving a vehicle manually on the desired route, just one time. Operators then dispatch trucks to saved routes from their smartphones via Pronto’s easy-to-operate mobile app.",
+    "url": "https://pronto.ai/solution/",
+    "pass": 1
+   },
+   {
+    "quote": "To meet the rigid safety requirements of mine operators, Pronto’s turnkey software+hardware system enables protection that includes:",
+    "url": "https://pronto.ai/solution/",
+    "pass": 1
+   },
+   {
+    "quote": "Other Automotive Software",
+    "url": "https://getlatka.com/companies/pronto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Notably, its safety framework has achieved ISO standard ASIL D (the highest level of Automotive Safety Integrity Level).",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "4. Industrial Significance and Impact",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In quarries and mines where securing heavy machinery operators is difficult, autonomous driving directly contributes to alleviating labor shortages and reducing operator fatigue.",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Pronto delivers off-road autonomous haulage systems (AHS) specifically engineered for a variety of rugged environments. Complex industrial sites like mines and quarries rely on Pronto’s AHS to improve productivity and safety and lower costs.",
+    "url": "https://pronto.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "A New Chapter for Pronto: We Have Officially Been Acquired by Atoms",
+    "url": "https://pronto.ai/learn/",
+    "pass": 3
+   },
+   {
+    "quote": "Pronto Announces Industry Milestone: North America’s First Fully Autonomous Mixed-Fleet Quarry Surpasses Two Million Tons Hauled",
+    "url": "https://pronto.ai/learn/",
+    "pass": 3
+   },
+   {
+    "quote": "Komatsu North America and Pronto launch autonomy solution for quarry-size trucks",
+    "url": "https://pronto.ai/learn/",
+    "pass": 3
+   },
+   {
+    "quote": "Komatsu Smart Quarry Autonomous, powered by Pronto, aims to transform…",
+    "url": "https://pronto.ai/learn/",
+    "pass": 3
+   },
+   {
+    "quote": "Pronto AI Revenue 2025: $14.5M Est.",
+    "url": "https://getlatka.com/companies/pronto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Pronto AI has not published its revenue. GetLatka estimates it at about $14.5M a year (September 2025).",
+    "url": "https://getlatka.com/companies/pronto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Pronto AI has 132 employees (September 2025, LinkedIn).",
+    "url": "https://getlatka.com/companies/pronto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "What is Pronto AI's revenue?",
+    "url": "https://getlatka.com/companies/pronto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Pronto AI's revenue at about",
+    "url": "https://getlatka.com/companies/pronto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Pronto AI have?",
+    "url": "https://getlatka.com/companies/pronto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "employees as of September 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/pronto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/pronto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/pronto.ai",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/pronto.ai",
+    "pass": 3
+   },
+   {
+    "quote": ", a startup developing autonomous driving systems specialized for off-road environments such as quarries and mines, announced on July 15, 2025, that it has acquired",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", a competitor in the same field. This article provides a professional yet accessible explanation of the background and purpose of this acquisition, technical differences, industry impact, and future prospects.",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1. Overview and Background of the Acquisition",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1-1. Acquisition Details and Terms",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", absorbing approximately 12 engineers and the company's intellectual property. According to TechCrunch, the acquisition price is in the \"multi-million dollar\" range.",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The primary objective of the terms was the \"acquisition of technology and talent,\" which is part of strengthening resources essential for a startup.",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the field of off-road Autonomous Haulage Systems (AHS), there were primarily two major players: Pronto.ai and SafeAI. This acquisition has created a structure where Pronto clearly holds the lead.",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "After the acquisition,",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "will offer a two-tiered structure: an economy tier using only cameras and a premium tier using the SafeAI method. This allows for flexible deployment tailored to customer needs, from small quarries to large-scale mines.",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "3. Market Expansion and International Strategy Through Acquisition",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "has implemented autonomous driving technology on Komatsu dump trucks at the Bridgeport quarry in Texas and continues its partnership with Heidelberg Materials North America (a construction materials company).",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In quarries and mines where securing heavy machinery operators is difficult, autonomous driving directly contributes to alleviating labor shortages and reducing operator fatigue.",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Pronto.ai's acquisition of SafeAI is a",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Pronto is OEM, vehicle, and application agnostic. It can be used in various off-road applications and power trains as well as on class 8 haulers and support vehicles.",
+    "url": "https://pronto.ai/solution/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Pronto . ai 、SafeAIを買収    オフロード自動運転の覇権を握る ... — Pronto . ai 、SafeAIを買収    オフロード自動運転の覇権を握る ... note https://note.com > コンピュータ・IT > AI",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e",
+    "pass": 3
+   },
+   {
+    "quote": "Pronto . ai （米国の自動運転技術企業） - 百度百科 — Pronto . ai （米国の自動運転技術企業） - 百度百科 百度百科 https://baike.baidu.com > item > Pronto.ai",
+    "url": "https://baike.baidu.com/ja/item/Pronto.ai/6487924",
+    "pass": 3
+   },
+   {
+    "quote": "Pronto . ai – Autonomous Haulage Systems – Autonomy ... — Pronto . ai – Autonomous Haulage Systems – Autonomy ... Pronto.ai https://pronto.ai",
+    "url": "https://pronto.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "About - Pronto.ai — About - Pronto.ai Pronto.ai https://pronto.ai > about",
+    "url": "https://pronto.ai/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Newsroom - Pronto.ai — Newsroom - Pronto.ai Pronto.ai https://pronto.ai > learn",
+    "url": "https://pronto.ai/learn/",
+    "pass": 3
+   },
+   {
+    "quote": "Pronto ( pronto . ai ) - Built In San Francisco — Pronto ( pronto . ai ) - Built In San Francisco Built In San Francisco https://www.builtinsf.com > company",
+    "url": "https://www.builtinsf.com/company/pronto-prontoai",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "SAN FRANCISCO and TOKYO, July 15, 2026 – Business Wire…",
+    "url": "https://pronto.ai/learn/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Pronto . ai Acquires SafeAI: A Strategic Consolidation to ... - note Pronto . ai Acquires SafeAI: A Strategic Consolidation to ... - note note https://note.com > コンピュータ・IT > AI",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Pronto . ai 、SafeAIを買収    オフロード自動運転の覇権を握る ... Pronto . ai 、SafeAIを買収    オフロード自動運転の覇権を握る ... note https://note.com > コンピュータ・IT > AI",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Pronto.ai Acquires SafeAI: A Strategic Consolidation to Dominate Off-Road Autonomous Driving｜SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Pronto.ai Acquires SafeAI: A Strategic Consolidation to Dominate Off-Road Autonomous Driving",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", a startup developing autonomous driving systems specialized for off-road environments such as quarries and mines, announced on July 15, 2025, that it has acquired",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", a competitor in the same field. This article provides a professional yet accessible explanation of the background and purpose of this acquisition, technical differences, industry impact, and future prospects.",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1. Overview and Background of the Acquisition",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "1-1. Acquisition Details and Terms",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Pronto.ai、SafeAIを買収──オフロード自動運転の覇権を握る戦略的統合｜SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e",
+    "pass": 3
+   },
+   {
+    "quote": "Pronto.ai、SafeAIを買収──オフロード自動運転の覇権を握る戦略的統合",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e",
+    "pass": 3
+   },
+   {
+    "quote": "SecondWave｜米国株・テックトレンド",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e",
+    "pass": 3
+   },
+   {
+    "quote": "は、採石場や鉱山などオフロード環境に特化した自律走行システムを開発するスタートアップで、2025年7月15日、同分野の競合企業である",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e",
+    "pass": 3
+   },
+   {
+    "quote": "を買収したと発表しました。本記事では、本買収の背景・目的、技術的な違い、産業へのインパクト、今後の展望などを専門的かつ読みやすく解説します。",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e",
+    "pass": 3
+   },
+   {
+    "quote": "を買収し、約12名のエンジニアや同社が保有する知財を取り込みました。買収金額はTechCrunchによれば“数百万ドル”規模とされています 。",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e",
+    "pass": 3
+   },
+   {
+    "quote": "条件としては“技術と人材の獲得”が主要目的であり、スタートアップとして重要なリソース強化の一環です 。",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e",
+    "pass": 3
+   },
+   {
+    "quote": "オフロードにおける自律走行（AHS: Autonomous Haulage Systems）の分野には、主にPronto.aiとSafeAIの二強が存在しており、買収によりProntoが明確に主導権を握る構図が形成されました。",
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Thomas Mulroy - Mechanical Engineer at Pronto . ai | LinkedIn Thomas Mulroy - Mechanical Engineer at Pronto . ai | LinkedIn LinkedIn https://www.linkedin.com > thomas-...",
+    "url": "https://www.linkedin.com/in/thomas-mulroy-a75893167",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://pronto.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pronto.ai/solution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pronto.ai/about/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://play.google.com/store/apps/details?id=com.pronto.ai&hl=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baike.baidu.com/ja/item/Pronto.ai/6487924",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ibm.com/jp-ja/case-studies/pronto-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://play.google.com/store/apps/details?id=com.pronto.ai&hl=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://baike.baidu.com/ja/item/Pronto.ai/6487924",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prtimes.jp/main/html/rd/p/000000634.000012138.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pronto.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pronto.ai/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/pronto-dot-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pronto.ai/learn/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pronto.net/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pronto.ai/learn/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.appsruntheworld.com/customers-database/products/view/pronto-xi-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.proton.ai/pronto",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.prontomarketing.com/white-label-digital-marketing-agency/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://botpenguin.com/blogs/white-label-reseller-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://newo.ai/insights/building-a-profitable-reseller-business-with-white-label-services-and-custom-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://customgpt.ai/white-label-software-to-resell/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/pronto-ai",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pronto.ai/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/pronto.ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.owler.com/company/pronto",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/in/thomas-mulroy-a75893167",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/startup_now0708/n/ne5ba5e796a5e",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Pronto.ai 日本 導入",
+   "results": [
+    "https://play.google.com/store/apps/details?id=com.pronto.ai&hl=ja",
+    "https://note.com/startup_now0708/n/ne5ba5e796a5e",
+    "https://baike.baidu.com/ja/item/Pronto.ai/6487924",
+    "https://www.ibm.com/jp-ja/case-studies/pronto-software",
+    "https://x.com/tmiyatake1/status/1945274178539598083",
+    "https://jidounten-lab.com/u_34280",
+    "https://help.anthology.com/blackboard/instructor/ja/interact-with-students/pronto.html",
+    "https://xtech.nikkei.com/atcl/nxt/mag/rob/18/00004/00075/",
+    "https://kikai-news.net/2025/08/07/%E3%82%B3%E3%83%9E%E3%83%84%E3%81%A8pronto%E3%80%81%E6%8E%A1%E7%9F%B3%E5%A0%B4%E7%94%A8%E3%83%80%E3%83%B3%E3%83%97%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E5%90%91%E3%81%91%E8%87%AA%E5%8B%95%E9%81%8B/",
+    "https://pronto.ai/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Pronto.ai 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://play.google.com/store/apps/details?id=com.pronto.ai&hl=ja",
+    "https://baike.baidu.com/ja/item/Pronto.ai/6487924",
+    "https://note.com/startup_now0708/n/ne5ba5e796a5e",
+    "https://prtimes.jp/main/html/rd/p/000000634.000012138.html",
+    "https://kikai-news.net/2025/08/07/%E3%82%B3%E3%83%9E%E3%83%84%E3%81%A8pronto%E3%80%81%E6%8E%A1%E7%9F%B3%E5%A0%B4%E7%94%A8%E3%83%80%E3%83%B3%E3%83%97%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E5%90%91%E3%81%91%E8%87%AA%E5%8B%95%E9%81%8B/",
+    "https://fc-kamei.net/brand/1409/",
+    "https://shop.pronto.co.jp/all/",
+    "https://b-seeds.com/business/product/aiit",
+    "https://www.fc-mado.com/detail/3398",
+    "https://ja.wikipedia.org/wiki/ブロードコム"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 22
+  },
+  {
+   "query": "Pronto.ai Japan",
+   "results": [
+    "https://pronto.ai/",
+    "https://pronto.ai/about/",
+    "https://www.linkedin.com/company/pronto-dot-ai",
+    "https://pronto.ai/learn/",
+    "https://www.builtinsf.com/company/pronto-prontoai",
+    "https://pronto.ai/hitachi-mou/",
+    "https://www.forbes.com/sites/sabbirrangwala/2025/08/18/pronto-komatsu--caterpillar-advance-construction-autonomy/",
+    "https://www.proton.ai/pronto",
+    "https://pronto.ai/faqs/",
+    "https://ai-pronto.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Pronto.ai manufacturing customer case study",
+   "results": [
+    "https://www.pronto.net/case-studies/",
+    "https://pronto.ai/learn/",
+    "https://www.appsruntheworld.com/customers-database/products/view/pronto-xi-manufacturing",
+    "https://www.proton.ai/pronto",
+    "https://digitaldefynd.com/IQ/ai-use-in-manufacturing-case-studies/",
+    "https://www.prontomarketing.com/case-studies/",
+    "https://www.sotatek.com/blogs/ai-and-machine-learning/ai-in-manufacturing-case-study/",
+    "https://www.facebook.com/firstpostin/posts/a-bengaluru-based-startup-pronto-is-facing-massive-backlash-after-reports-claime/1505120824982233/",
+    "https://pronto.ai/category/blog/",
+    "https://www.casestudies.com/company/pronto-software/case-study/increasing-business-efficiency-with-one-integrated-solution"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Pronto.ai white label OR reseller OR partner program",
+   "results": [
+    "https://www.prontomarketing.com/white-label-digital-marketing-agency/",
+    "https://botpenguin.com/blogs/white-label-reseller-program",
+    "https://newo.ai/insights/building-a-profitable-reseller-business-with-white-label-services-and-custom-software",
+    "https://customgpt.ai/white-label-software-to-resell/",
+    "https://www.reddit.com/r/SaaS/comments/1s7f86v/does_any_ai_saas_service_have_a_whitelabel/",
+    "https://www.youtube.com/watch?v=K2Ma0sgNu2c",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://insighto.ai/blog/white-label-reseller-programs/",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://www.pronto.net/about-pronto-software/reseller-partners/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Pronto.ai founded funding employees revenue",
+   "results": [
+    "https://www.crunchbase.com/organization/pronto-ai",
+    "https://pronto.ai/about/",
+    "https://getlatka.com/companies/pronto.ai",
+    "https://www.owler.com/company/pronto",
+    "https://www.linkedin.com/posts/sinha_interesting-that-pronto-has-raised-funding-activity-7458113755105673216-F9E0",
+    "https://techfundingnews.com/pronto-25m-series-b/",
+    "https://tracxn.com/d/companies/pronto-technologies/__XLKnp6gEzVfkyrTST_wksNsn0PWn-N-con4Sq38bP5c",
+    "https://pitchbook.com/profiles/company/489101-59",
+    "https://www.bwdisrupt.com/article/pronto-raises-11-mn-to-scale-10-minute-home-services-model-567060",
+    "https://pitchbook.com/profiles/company/770478-76"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Pronto.ai",
+   "results": [
+    "https://note.com/startup_now0708/n/ne5ba5e796a5e?hl=en",
+    "https://note.com/kyonoryosan/n/n149fc5425d11?hl=en",
+    "https://note.com/sanococonala/n/nca0488e2b82a?hl=en",
+    "https://note.com/saitohtm/n/nd5d103bff26d",
+    "https://note.com/hacosco/m/mcd3f38d8494f",
+    "https://note.com/hacosco/n/n0b005951e80a",
+    "https://note.com/suzuken0331/n/nce4c53e224e9",
+    "https://note.com/yasuhitoo/n/n4c6165396f67",
+    "https://note.com/sankituushin/n/ndc8932accb57?hl=en",
+    "https://note.com/startup_now0708/n/ne5ba5e796a5e"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:x.com Pronto.ai",
+   "results": [
+    "https://x.com/ProntoAI",
+    "https://x.com/ProntoAI/status/2041203019854098924",
+    "https://x.com/YourStoryCo/status/2080931635772727356",
+    "https://x.com/pranavmukul/status/2114622075835158777",
+    "https://x.com/YourStoryCo/status/2059202072588026259",
+    "https://x.com/Inc42/status/2117294879348851030",
+    "https://x.com/YourStoryCo/status/2114987642840625393",
+    "https://x.com/travisk/reposts",
+    "https://x.com/chandrarsrikant/status/2058795101728670135",
+    "https://x.com/Inc42/status/2120155748277662174"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com Pronto.ai",
+   "results": [
+    "https://www.linkedin.com/company/pronto-dot-ai",
+    "https://www.linkedin.com/in/anthony-levandowski",
+    "https://www.linkedin.com/posts/pronto-dot-ai_autonomoushaulage-atomsmining-physicalai-activity-7446968607789678592-h2ss",
+    "https://www.linkedin.com/in/thomas-mulroy-a75893167",
+    "https://www.linkedin.com/in/robbie-miller-422b9463",
+    "https://www.linkedin.com/products/prontotechnologyinc-pronto/",
+    "https://www.linkedin.com/in/catherineculkin",
+    "https://www.linkedin.com/in/rkatoch",
+    "https://www.linkedin.com/company/onexis_ai",
+    "https://www.linkedin.com/company/prontoapp-ai"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Pronto.ai",
+   "results": [
+    "https://www.facebook.com/prontosoftware/",
+    "https://www.facebook.com/startupcityindia/posts/the-new-venture-comes-as-pronto-expands-an-opt-in-wearable-camera-programme-thro/1515755650575360/",
+    "https://www.facebook.com/firstpostin/posts/a-bengaluru-based-startup-pronto-is-facing-massive-backlash-after-reports-claime/1505119944982321/",
+    "https://www.facebook.com/yourstorycom/posts/anjali-sardana-founder-and-ceo-of-household-services-startup-pronto-has-launched/1622784379883530/",
+    "https://www.facebook.com/NDTVProfit/videos/ai-inside-your-homeprontos-camera-pilot-sparks-privacy-debate/971835282123163/",
+    "https://www.facebook.com/Inc42/posts/is-pronto-turning-its-workforce-into-a-physical-ai-data-sourcepronto-founder-anj/1700827978307984/",
+    "https://www.facebook.com/61582674500018/videos/indian-home-services-startup-pronto-has-tested-recording-household-chores-to-col/29501908459426499/",
+    "https://www.facebook.com/theceo.in/posts/anjali-sardana-founder-of-household-services-startup-pronto-has-established-prov/1589613209860897/",
+    "https://www.facebook.com/firstpostin/videos/startup-pronto-under-fire-for-recording-cleaners-inside-customers-homes/1296737788733688/",
+    "https://www.facebook.com/people/Pronto-AI/61584123338739/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Pronto.ai note 社長",
+   "results": [
+    "https://pronto.ai/about/",
+    "https://note.com/startup_now0708/n/ne5ba5e796a5e",
+    "https://pronto.ai/bloomberg-businessweek-features-prontos-self-driving-success/",
+    "https://www.proton.ai/pronto",
+    "https://pronto.ai/pronto-in-the-news-wired/",
+    "https://www.ccjdigital.com/trucks/article/15051516/anthony-levandowski-talks-about-pronto-ai-challenges-successes-of-autonomous-tech",
+    "https://www.reddit.com/r/SelfDrivingCars/comments/a7bmsb/anthony_levandowski_prontoai_time_lapse_video_of/",
+    "https://www.foxbusiness.com/video/6376802759112",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Pronto.ai X 投稿",
+   "results": [
+    "https://x.com/ProntoAI",
+    "https://pronto.ai/learn/",
+    "https://www.reddit.com/r/SelfDrivingCars/comments/a7bmsb/anthony_levandowski_prontoai_time_lapse_video_of/",
+    "https://pronto.ai/solution/",
+    "https://pronto.ai/category/pronto-in-the-news/",
+    "https://pronto.ai/category/blog/",
+    "https://www.proton.ai/pronto",
+    "https://pronto.ai/category/press-releases/",
+    "https://www.youtube.com/watch?v=eag8L-6_s3o",
+    "https://x.com/PRONTO_pr"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部27頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部27頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部27頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部27頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部27頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部27頁・検索12回）"
+ }
+}

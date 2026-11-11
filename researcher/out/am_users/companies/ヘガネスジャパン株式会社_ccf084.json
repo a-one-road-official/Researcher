@@ -1,0 +1,628 @@
+{
+ "name": "ヘガネスジャパン株式会社",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T11:23:04.712886+00:00",
+ "official_url": "http://www.hoganas.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "AM関連": [
+   {
+    "quote": "Advanced ceramic powders",
+    "url": "https://www.hoganas.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ヘガネス社は220年以上前の1797年にスウェーデン南部のヘガネス村で創業した、世界有数の金属粉末専門メーカーです",
+    "url": "https://pr.mono.ipros.com/hoganas/information/",
+    "pass": 3
+   },
+   {
+    "quote": "長きにわたり材料技術を進化させ、現在は年間約50万トンの生産能力を有し、世界15拠点から3,500種類以上の金属粉末をグローバルに供給しています",
+    "url": "https://pr.mono.ipros.com/hoganas/information/",
+    "pass": 3
+   },
+   {
+    "quote": "当社のビジョンは、”原材料のイノベーションにより市場の変革を起こすこと”とし、サスティナブル金属粉末のグローバルリーダーとなり、最優良パートナーとして選ばれる企業を目指し、2037年までに全業務で気候中立（カーボンニュートラル）を達成する目標に向けてSBTi認証を受け、全世界のグループ全体で活動しています",
+    "url": "https://pr.mono.ipros.com/hoganas/information/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末冶金および粉末技術は、材料・エネルギー消費の削減と高い資源効率を両立する優れた製造技術であり、持続可能な成長に大きく貢献いたします",
+    "url": "https://pr.mono.ipros.com/hoganas/information/",
+    "pass": 3
+   },
+   {
+    "quote": "また私たちは、部品用途から非部品用途まで幅広い分野に対し、化学組成、粒子径、形状を最適化した高性能金属粉末を提供し、設計・プロセスの最適化を通じてお客様とともに価値創造を行う技術パートナーです",
+    "url": "https://pr.mono.ipros.com/hoganas/information/",
+    "pass": 3
+   },
+   {
+    "quote": "ヘガネス社は220年以上前の1797年にスウェーデン南部のヘガネス村で創業した、世界有数の金属粉末専門メーカーです",
+    "url": "https://mono.ipros.com/company/detail/310999/",
+    "pass": 3
+   },
+   {
+    "quote": "長きにわたり材料技術を進化させ、現在は年間約50万トンの生産能力を有し、世界15拠点から3,500種類以上の金属粉末をグローバルに供給しています",
+    "url": "https://mono.ipros.com/company/detail/310999/",
+    "pass": 3
+   },
+   {
+    "quote": "当社のビジョンは、”原材料のイノベーションにより市場の変革を起こすこと”とし、サスティナブル金属粉末のグローバルリーダーとなり、最優良パートナーとして選ばれる企業を目指し、2037年までに全業務で気候中立（カーボンニュートラル）を達成する目標に向けてSBTi認証を受け、全世界のグループ全体で活動しています",
+    "url": "https://mono.ipros.com/company/detail/310999/",
+    "pass": 3
+   },
+   {
+    "quote": "粉末冶金および粉末技術は、材料・エネルギー消費の削減と高い資源効率を両立する優れた製造技術であり、持続可能な成長に大きく貢献いたします",
+    "url": "https://mono.ipros.com/company/detail/310999/",
+    "pass": 3
+   },
+   {
+    "quote": "また私たちは、部品用途から非部品用途まで幅広い分野に対し、化学組成、粒子径、形状を最適化した高性能金属粉末を提供し、設計・プロセスの最適化を通じてお客様とともに価値創造を行う技術パートナーです",
+    "url": "https://mono.ipros.com/company/detail/310999/",
+    "pass": 3
+   },
+   {
+    "quote": "ヘガネスジャパンは “人とくるまのテクノロジー展2026 YOKOHAMA”に出展します",
+    "url": "https://mono.ipros.com/company/detail/310999/",
+    "pass": 3
+   },
+   {
+    "quote": "ヘガネスジャパンは5/27(水)～5/29(金)に開催される人とくるまのテクノロジー展2026 YOKOHAMAに出展をいたします",
+    "url": "https://mono.ipros.com/company/detail/310999/",
+    "pass": 3
+   },
+   {
+    "quote": "ブースでは粉末冶金による減速機ギア・EMBギアやLFPバッテリー用鉄粉、SMC材による圧粉磁心およびモータ等への活用事例を紹介いたします",
+    "url": "https://mono.ipros.com/company/detail/310999/",
+    "pass": 3
+   },
+   {
+    "quote": "環境に優しい技術として注目されている粉末冶金製法が流用できる軟磁性複合材（SMC）『Somaloy(R)』",
+    "url": "https://mono.ipros.com/company/detail/310999/",
+    "pass": 3
+   },
+   {
+    "quote": "【2024年10月14日(月)～16日(水)】『WORLD PM 2024(粉末冶金国際会議)』出展のお知らせ",
+    "url": "https://mono.ipros.com/company/detail/310999/",
+    "pass": 3
+   },
+   {
+    "quote": "『WORLD PM 2024(粉末冶金国際会議)』に出展します",
+    "url": "https://mono.ipros.com/company/detail/310999/",
+    "pass": 3
+   },
+   {
+    "quote": "軟磁性複合材料「Somaloy」、3Dプリンタ用金属粉末(ニッケル、",
+    "url": "https://mono.ipros.com/company/detail/310999/",
+    "pass": 3
+   },
+   {
+    "quote": "新社長に聞く／ヘガネスジャパン／片野唱栄氏／金属粉末技術に磨き｜日刊産業新聞",
+    "url": "https://note.com/sangyo_web/n/nae28d9c05bb5",
+    "pass": 3
+   },
+   {
+    "quote": "新社長に聞く／ヘガネスジャパン／片野唱栄氏／金属粉末技術に磨き",
+    "url": "https://note.com/sangyo_web/n/nae28d9c05bb5",
+    "pass": 3
+   },
+   {
+    "quote": "「ヘガネスは1797年の創業で225年の歴史があり、鉄粉をはじめとする金属粉末を扱い始めて約60年になり、鉄粉をはじめ製品レパートリーを増やしており、真の意味で世界トップの金属粉末メーカーを目指している",
+    "url": "https://note.com/sangyo_web/n/nae28d9c05bb5",
+    "pass": 3
+   },
+   {
+    "quote": "製品分野は大きく『成形・焼結用鉄粉』、モーターコアなどで採用される『軟磁性複合材（ＳＭＣ＝ソフト・マグネティック・コンポジット）』、表面コーティングで長寿命化や高耐久性を実現する『表面処理加工』、積層プリンターで使う金属粉末『ＡＭ（アディティブ・マニュファクチャリング）』の4つに分類される",
+    "url": "https://note.com/sangyo_web/n/nae28d9c05bb5",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター",
+    "url": "https://note.com/kossansato/n/n18c77ff58bd1",
+    "pass": 3
+   },
+   {
+    "quote": "展示は、FDM式3Dプリンター",
+    "url": "https://note.com/kossansato/n/n18c77ff58bd1",
+    "pass": 3
+   },
+   {
+    "quote": "「あれ、ここって光造形もやってるんだっけ？？」",
+    "url": "https://note.com/kossansato/n/n18c77ff58bd1",
+    "pass": 3
+   },
+   {
+    "quote": "よく見る3Dプリンターのもどかしい点が洗いざらい解決されている感じで、説明を受けるたびに心のツボを押されているような気分になりました",
+    "url": "https://note.com/kossansato/n/n18c77ff58bd1",
+    "pass": 3
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "◆一般産業（機械製品、鉄鋼・金属、ガラス、樹脂、紙パルプ等）",
+    "url": "https://pr.mono.ipros.com/hoganas/information/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは金属粉材料の選定・供給に留まらず、応用製品や用途に関する設計から利用工程までの助言、試作・試験支援など実用実現化までの一貫したサービスをグローバルに提供します",
+    "url": "https://pr.mono.ipros.com/hoganas/information/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(63)",
+    "url": "https://mono.ipros.com/company/detail/310999/",
+    "pass": 3
+   },
+   {
+    "quote": "◆一般産業（機械製品、鉄鋼・金属、ガラス、樹脂、紙パルプ等）",
+    "url": "https://mono.ipros.com/company/detail/310999/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは金属粉材料の選定・供給に留まらず、応用製品や用途に関する設計から利用工程までの助言、試作・試験支援など実用実現化までの一貫したサービスをグローバルに提供します",
+    "url": "https://mono.ipros.com/company/detail/310999/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (63)",
+    "url": "https://mono.ipros.com/company/detail/310999/",
+    "pass": 3
+   },
+   {
+    "quote": "【技術資料】 Glidcop 銅合金のユニコーン製品",
+    "url": "https://mono.ipros.com/company/detail/310999/",
+    "pass": 3
+   },
+   {
+    "quote": "１）国内外で採用された製品事例",
+    "url": "https://mono.ipros.com/company/detail/310999/",
+    "pass": 3
+   },
+   {
+    "quote": "「ヘガネスは1797年の創業で225年の歴史があり、鉄粉をはじめとする金属粉末を扱い始めて約60年になり、鉄粉をはじめ製品レパートリーを増やしており、真の意味で世界トップの金属粉末メーカーを目指している",
+    "url": "https://note.com/sangyo_web/n/nae28d9c05bb5",
+    "pass": 3
+   },
+   {
+    "quote": "製品分野は大きく『成形・焼結用鉄粉』、モーターコアなどで採用される『軟磁性複合材（ＳＭＣ＝ソフト・マグネティック・コンポジット）』、表面コーティングで長寿命化や高耐久性を実現する『表面処理加工』、積層プリンターで使う金属粉末『ＡＭ（アディティブ・マニュファクチャリング）』の4つに分類される",
+    "url": "https://note.com/sangyo_web/n/nae28d9c05bb5",
+    "pass": 3
+   },
+   {
+    "quote": "FormLabsさんといえばテッパンのForm2、新製品のForm3とForm3Lの印象がとても強いです",
+    "url": "https://note.com/kossansato/n/n18c77ff58bd1",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "◆一般産業（機械製品、鉄鋼・金属、ガラス、樹脂、紙パルプ等）",
+    "url": "https://pr.mono.ipros.com/hoganas/information/",
+    "pass": 3
+   },
+   {
+    "quote": "◆一般産業（機械製品、鉄鋼・金属、ガラス、樹脂、紙パルプ等）",
+    "url": "https://mono.ipros.com/company/detail/310999/",
+    "pass": 3
+   },
+   {
+    "quote": "軟磁性複合材（SMC）『Somaloy(R)』7Pグレードカタログ",
+    "url": "https://mono.ipros.com/company/detail/310999/",
+    "pass": 3
+   },
+   {
+    "quote": "環境に優しい技術として注目されている粉末冶金製法が流用できる軟磁性複合材（SMC）『Somaloy(R)』",
+    "url": "https://mono.ipros.com/company/detail/310999/",
+    "pass": 3
+   },
+   {
+    "quote": "軟磁性複合材料「Somaloy」、3Dプリンタ用金属粉末(ニッケル、",
+    "url": "https://mono.ipros.com/company/detail/310999/",
+    "pass": 3
+   },
+   {
+    "quote": "コバルト、鋼材、アルミニウム、銅、チタンなど)をご紹介",
+    "url": "https://mono.ipros.com/company/detail/310999/",
+    "pass": 3
+   },
+   {
+    "quote": "製品分野は大きく『成形・焼結用鉄粉』、モーターコアなどで採用される『軟磁性複合材（ＳＭＣ＝ソフト・マグネティック・コンポジット）』、表面コーティングで長寿命化や高耐久性を実現する『表面処理加工』、積層プリンターで使う金属粉末『ＡＭ（アディティブ・マニュファクチャリング）』の4つに分類される",
+    "url": "https://note.com/sangyo_web/n/nae28d9c05bb5",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "私たちは金属粉材料の選定・供給に留まらず、応用製品や用途に関する設計から利用工程までの助言、試作・試験支援など実用実現化までの一貫したサービスをグローバルに提供します",
+    "url": "https://pr.mono.ipros.com/hoganas/information/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは金属粉材料の選定・供給に留まらず、応用製品や用途に関する設計から利用工程までの助言、試作・試験支援など実用実現化までの一貫したサービスをグローバルに提供します",
+    "url": "https://mono.ipros.com/company/detail/310999/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "企業情報 | ヘガネスジャパン - Powered by イプロスものづくり — ヘガネスジャパン の企業情報や製品・サービス、関連カタログをご紹介。 金属粉の可能性は無限です。 ヘガネスは金属粉の世界的リーダーとして新しいブレークスルーで世界に驚きと感動を与え続けます。",
+    "url": "https://pr.mono.ipros.com/hoganas/information/",
+    "pass": 3
+   },
+   {
+    "quote": "ヘガネスジャパン株式会社のカタログ・会社概要・製品情報 | Metoree — ヘガネスジャパン株式会社は1985年に設立された東京都千代田区大手町2-6-4 TOKYO TORCH 常盤橋タワー915区に本社が所在する会社です。 セラミックパウダー等を取り扱っています。",
+    "url": "https://metoree.com/companies/32274/",
+    "pass": 3
+   },
+   {
+    "quote": "ヘガネスジャパン | 企業情報 | イプロスものづくり — ヘガネスジャパンの企業情報や製品・サービス、関連カタログをご紹介。 金属粉の可能性は無限です。 ヘガネスは金属粉の世界的リーダーとして新しいブレークスルーで世界に驚きと感動を与え続けます。",
+    "url": "https://mono.ipros.com/company/detail/310999/",
+    "pass": 3
+   },
+   {
+    "quote": "ヘガネスジャパン株式会社 - Powered by イプロスものづくり — ヘガネスジャパンは5/27 (水)～5/29 (金)に開催される人とくるまのテクノロジー展2026 YOKOHAMAに出展をいたします。 ブースでは粉末冶金による減速機ギア・EMBギアやLFPバッテリー用鉄粉、SMC材による圧粉磁心およびモータ等への活用事例を紹介いたします。",
+    "url": "https://pr.mono.ipros.com/hoganas/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "新社長に聞く／ヘガネスジャパン／片野唱栄氏／金属粉末技術に磨き Feb 8, 2022 · 世界最大手の鉄粉メーカー、ヘガネス（本社＝スウェーデン・ヘガネス市）の日本法人、ヘガネスジャパン（本社＝東京都港区）の新社長に2022年1月11日付で片野唱栄氏が就任した。 就任の抱負、方針などを聞いた。 ――まずはヘガネスグループの現状から。",
+    "url": "https://note.com/sangyo_web/n/nae28d9c05bb5",
+    "pass": 3
+   },
+   {
+    "quote": "TCT Japanに40分だけ行ってきた｜kossan｜note Feb 2, 2020 · 独自の製法が気になる Digital Metal / ヘガネスジャパン さん お次は金属などの粉末を扱っている ヘガネス (Höganäs) グループの Digital Metal さん。 こちらも金属プリンターの展示でしたが、レーザー焼結を使わない特殊な製法ということで見に行きました。",
+    "url": "https://note.com/kossansato/n/n18c77ff58bd1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "新社長に聞く／ヘガネスジャパン／片野唱栄氏／金属粉末技術に磨き｜日刊産業新聞",
+    "url": "https://note.com/sangyo_web/n/nae28d9c05bb5",
+    "pass": 3
+   },
+   {
+    "quote": "新社長に聞く／ヘガネスジャパン／片野唱栄氏／金属粉末技術に磨き",
+    "url": "https://note.com/sangyo_web/n/nae28d9c05bb5",
+    "pass": 3
+   },
+   {
+    "quote": "世界最大手の鉄粉メーカー、ヘガネス（本社＝スウェーデン・ヘガネス市）の日本法人、ヘガネスジャパン（本社＝東京都港区）の新社長に2022年1月11日付で片野唱栄氏が就任した。就任の抱負、方針などを聞いた。",
+    "url": "https://note.com/sangyo_web/n/nae28d9c05bb5",
+    "pass": 3
+   },
+   {
+    "quote": "「ヘガネスは1797年の創業で225年の歴史があり、鉄粉をはじめとする金属粉末を扱い始めて約60年になり、鉄粉をはじめ製品レパートリーを増やしており、真の意味で世界トップの金属粉末メーカーを目指している。世界11カ国に18製造拠点を有し、年間生産能力は世界合計で50万トン規模。製品分野は大きく『成形・焼結用鉄粉』、モーターコアなどで採用される『軟磁性複合材（ＳＭＣ＝ソフト・マグネティック・コンポジット）』、表面コーティングで長寿命化や高耐久性を実現する『表面処理加工』、積層プリンターで使う金属粉末『ＡＭ（アディティブ・マニュファクチャリング）』の4つに分類される。全世界の従業員は約2300人で、20年12月期の年間売上高は86億スウェーデンクローネ（約1040億円）。日本法人は東京本社と埼玉工場（埼玉県深谷市）の2拠点で、従業員は約40人となっている」",
+    "url": "https://note.com/sangyo_web/n/nae28d9c05bb5",
+    "pass": 3
+   },
+   {
+    "quote": "TCT Japanに40分だけ行ってきた｜kossan",
+    "url": "https://note.com/kossansato/n/n18c77ff58bd1",
+    "pass": 3
+   },
+   {
+    "quote": "という展示会があり、初日の最後40分だけ見てまわりました。今回は見てきた感想をグダグダと書いておきます。",
+    "url": "https://note.com/kossansato/n/n18c77ff58bd1",
+    "pass": 3
+   },
+   {
+    "quote": "40分という時間に突っ込みたくなるかもしれませんが、先にTCT Japanについてちょっとした説明を置いておきます。",
+    "url": "https://note.com/kossansato/n/n18c77ff58bd1",
+    "pass": 3
+   },
+   {
+    "quote": "additive manufacturing",
+    "url": "https://note.com/kossansato/n/n18c77ff58bd1",
+    "pass": 3
+   },
+   {
+    "quote": ")技術・サービスの展示会です。事前に出展情報を調べてみたところ、",
+    "url": "https://note.com/kossansato/n/n18c77ff58bd1",
+    "pass": 3
+   },
+   {
+    "quote": "の展示でした。個人向けは数社だけだったと思います。",
+    "url": "https://note.com/kossansato/n/n18c77ff58bd1",
+    "pass": 3
+   },
+   {
+    "quote": "ことがわかったので、出展情報を確認して1時間をどう使うか計画を立てました。",
+    "url": "https://note.com/kossansato/n/n18c77ff58bd1",
+    "pass": 3
+   },
+   {
+    "quote": "ところが当日。最後の授業が終わってからのホームルームが30分も長引いてしまいました。",
+    "url": "https://note.com/kossansato/n/n18c77ff58bd1",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.hoganas.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.ebay.com/b/Beige-Patio-Garden-Furniture-Sets-Polyrattan-Tabletop/139849/bn_109356982",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.otto.de/moebel/stuehle/?farbe=beige&material=polyrattan&raum=garten",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.walmart.com/blocked?url=L2lwL0xBQ09PLTUtUGllY2VzLVBhdGlvLVNlY3Rpb25hbC1TZXQtUEUtUmF0dGFuLU91dGRvb3ItQWxsLVdlYXRoZXItV2lja2VyLUNvbnZlcnNhdGlvbi1TZXQtd2l0aC1UYWJsZS1CZWlnZS8yMTQxNDY4OTI=&uuid=5314d323-ddc2-11f1-82c7-cacff2cba377&vid=&g=b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/hoganas/information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/32274/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/310999/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hanesbrandsinc.jp/contact/contact.aspx",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hisense.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.haagen-dazs.co.jp/contact/other/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sangyo_web/n/nae28d9c05bb5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kossansato/n/n18c77ff58bd1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sangyo_web/n/nae28d9c05bb5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kossansato/n/n18c77ff58bd1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sangyo_web/n/nae28d9c05bb5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kossansato/n/n18c77ff58bd1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sangyo_web/n/nae28d9c05bb5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/kossansato/n/n18c77ff58bd1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/sangyo_web/n/nae28d9c05bb5",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ヘガネスジャパン 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.ebay.com/b/Beige-Patio-Garden-Furniture-Sets-Polyrattan-Tabletop/139849/bn_109356982",
+    "https://www.otto.de/moebel/stuehle/?farbe=beige&material=polyrattan&raum=garten",
+    "https://www.walmart.com/ip/LACOO-5-Pieces-Patio-Sectional-Set-PE-Rattan-Outdoor-All-Weather-Wicker-Conversation-Set-with-Table-Beige/214146892",
+    "https://www.ebay.com/b/Polyrattan-Tabletop-Patio-Garden-Furniture-Sets/139849/bn_77189778",
+    "https://www.otto.de/moebel/stuehle/?farbe=beige&material=_rattan",
+    "https://www.walmart.com/ip/Devoko-Patio-Conversation-Set-Outdoor-Furniture-Set-PE-Rattan-Set-of-3-Brown-Beige/228252142",
+    "https://www.target.com/c/conversation-sets-outdoor-furniture-patio-lawn-garden/polyrattan/-/N-5xtomZk9grzvm7dkc",
+    "https://www.amazon.com/patio-furniture-wicker-rattan/s?k=patio+furniture+wicker+rattan",
+    "https://www.wayfair.com/outdoor/sb2/beige-wicker-rattan-outdoor-chaise-lounge-chairs-c215137-a946~291759-a74825~273213.html",
+    "https://www.obi.de/search/polyrattan/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "ヘガネスジャパン 会社概要 事業内容",
+   "results": [
+    "https://pr.mono.ipros.com/hoganas/information/",
+    "https://metoree.com/companies/32274/",
+    "https://mono.ipros.com/company/detail/310999/",
+    "https://pr.mono.ipros.com/hoganas/",
+    "https://www.hoganas.com/ja/",
+    "https://www.hoganas.com/ja/about-hoganas/our-history/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 6
+  },
+  {
+   "query": "ヘガネスジャパン お問い合わせ メール",
+   "results": [
+    "https://www.hanesbrandsinc.jp/contact/contact.aspx",
+    "https://www.hisense.co.jp/contact/",
+    "https://www.haagen-dazs.co.jp/contact/other/",
+    "https://www.owndays.com/jp/ja/contact",
+    "https://metoree.com/companies/32274/",
+    "https://www.kenkomayo.co.jp/inquiry/",
+    "https://www.hoganas.com/ja/contact/",
+    "https://pr.mono.ipros.com/hoganas/information/",
+    "https://pr.mono.ipros.com/hoganas/product/detail/310999003/",
+    "https://www.hoganas.com/ja/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:note.com ヘガネスジャパン",
+   "results": [
+    "https://note.com/sangyo_web/n/nae28d9c05bb5",
+    "https://note.com/kossansato/n/n18c77ff58bd1",
+    "https://note.com/double_k/n/n58b063ff6b28",
+    "https://note.com/heavenese0804/n/n5a42bc66d102",
+    "https://note.com/sportsinsightjp/n/n2976a57ab1b4",
+    "https://note.com/human_gibbon5948/n/nc2b11e7419cc",
+    "https://note.com/shuubai_daiyo/n/n8168ac8910c5",
+    "https://note.com/yuyu2718/n/ne25cc277837d",
+    "https://note.com/sogyolab_mfbiz/n/nf5ad71e30c86",
+    "https://note.com/kankoku_mania/n/n19c5f0d1d962"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:x.com ヘガネスジャパン",
+   "results": [
+    "https://note.com/sangyo_web/n/nae28d9c05bb5",
+    "https://note.com/kossansato/n/n18c77ff58bd1",
+    "https://note.com/heavenese0804/n/n5a42bc66d102",
+    "https://note.com/sportsinsightjp/n/n2976a57ab1b4",
+    "https://note.com/human_gibbon5948/n/nc2b11e7419cc",
+    "https://note.com/shuubai_daiyo/n/n8168ac8910c5",
+    "https://note.com/yuyu2718/n/ne25cc277837d",
+    "https://note.com/sogyolab_mfbiz/n/nf5ad71e30c86",
+    "https://note.com/double_k/n/n58b063ff6b28",
+    "https://note.com/kankoku_mania/n/n19c5f0d1d962"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:linkedin.com ヘガネスジャパン",
+   "results": [
+    "https://note.com/sangyo_web/n/nae28d9c05bb5",
+    "https://note.com/kossansato/n/n18c77ff58bd1",
+    "https://note.com/heavenese0804/n/n5a42bc66d102",
+    "https://note.com/sportsinsightjp/n/n2976a57ab1b4",
+    "https://note.com/human_gibbon5948/n/nc2b11e7419cc",
+    "https://note.com/shuubai_daiyo/n/n8168ac8910c5",
+    "https://note.com/yuyu2718/n/ne25cc277837d",
+    "https://note.com/sogyolab_mfbiz/n/nf5ad71e30c86",
+    "https://note.com/double_k/n/n58b063ff6b28",
+    "https://note.com/kankoku_mania/n/n19c5f0d1d962"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "site:facebook.com ヘガネスジャパン",
+   "results": [
+    "https://note.com/sangyo_web/n/nae28d9c05bb5",
+    "https://note.com/kossansato/n/n18c77ff58bd1",
+    "https://note.com/heavenese0804/n/n5a42bc66d102",
+    "https://note.com/sportsinsightjp/n/n2976a57ab1b4",
+    "https://note.com/human_gibbon5948/n/nc2b11e7419cc",
+    "https://note.com/shuubai_daiyo/n/n8168ac8910c5",
+    "https://note.com/yuyu2718/n/ne25cc277837d",
+    "https://note.com/sogyolab_mfbiz/n/nf5ad71e30c86",
+    "https://note.com/double_k/n/n58b063ff6b28",
+    "https://note.com/kankoku_mania/n/n19c5f0d1d962"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "ヘガネスジャパン note 社長",
+   "results": [
+    "https://note.com/sangyo_web/n/nae28d9c05bb5",
+    "https://www.japanmetal.com/90th/strategy_detail.php?id=114862",
+    "https://www.japanmetal.com/news-to20220208114862.html",
+    "https://www.japanmetaldaily.com/articles/-/98651",
+    "https://compalyze.co.jp/company/7010401027031",
+    "https://pr.mono.ipros.com/hoganas/information/",
+    "https://www.japanmetaldaily.com/articles/-/99219",
+    "https://www.jpma.gr.jp/news/detail.php?id=3yAe3U",
+    "https://www.hoganas.com/ja/about-hoganas/management-team-and-board-of-directors/",
+    "https://www.hoganas.com/ja/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "ヘガネスジャパン X 投稿",
+   "results": [
+    "https://pr.mono.ipros.com/hoganas/information/",
+    "https://en-hyouban.com/company/10013605371/",
+    "https://www.japanmetal.com/news-to20220208114862.html",
+    "https://pr.mono.ipros.com/hoganas/product/category/",
+    "https://jobtalk.jp/companies/4403674",
+    "https://www.hoganas.com/ja/",
+    "https://x.com/WSJJapan/status/2119887802871537873",
+    "https://www.hoganas.com/ja/about-hoganas/management-team-and-board-of-directors/",
+    "https://www.japanmetal.com/90th/strategy_detail.php?id=114862",
+    "https://www.cnn.co.jp/usa/35254498.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  }
+ ],
+ "missing": {
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索9回）",
+  "事業内容": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索9回）",
+  "代表者": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索9回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索9回）",
+  "製品分野": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索9回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部18頁・検索9回）"
+ }
+}

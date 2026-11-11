@@ -1,0 +1,753 @@
+{
+ "name": "株式会社大実製作所 本社、羽田工場、テクノCORE、筑西工場",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T11:20:55.686001+00:00",
+ "official_url": "https://www.omi.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "東京都品川区旗の台5-16-18 TEL:03-3787-1088（代表） FAX:03-3787-1606",
+    "url": "https://www.omi.co.jp/corporate/profile_history/index.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業所",
+    "value": "[羽田工場] 東京都大田区羽田1-6-10 TEL:03-5735-1551 FAX:03-5735-1552 [テクノCORE] 東京都大田区東糀谷6-4-17 TEL:03-5735-2808 FAX:03-5735-2809 [筑西工場] 茨城県筑西市小川183-3 TEL:0296-48-9088 FAX:0296-48-9089",
+    "url": "https://www.omi.co.jp/corporate/profile_history/index.html",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役 大屋充徳",
+    "url": "https://www.omi.co.jp/corporate/profile_history/index.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "92名",
+    "url": "https://www.omi.co.jp/corporate/profile_history/index.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "92名",
+    "url": "https://www.ipros.com/company/detail/2092318/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取扱材料": [
+   {
+    "quote": "樹脂の切削・組立が得意です！総合プラスチック加工カンパニー 株式会社大実製作所",
+    "url": "https://www.omi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "私たち、大実製作所は、樹脂の「切削・機械加工」を中心に、「接着・溶着」「組立て」「折り曲げ」といった周辺加工分野も得意とする総合プラスチック加工カンパニーです",
+    "url": "https://www.omi.co.jp/corporate/philosophy/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "大実製作所は「樹脂に特化した切削加工が得意な会社」とお伝えすれば分かりやすいでしょうか",
+    "url": "https://www.omi.co.jp/about_us",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂はその時の温度や加工時のストレスに敏感に反応してしまう、言わば「生き物」のようなもの",
+    "url": "https://www.omi.co.jp/about_us",
+    "pass": 1
+   },
+   {
+    "quote": "だからこそ、加工後の変形なども見越し、各々の樹脂特性に合わせた加工プロセスを選定しなくてはなりません",
+    "url": "https://www.omi.co.jp/about_us",
+    "pass": 1
+   },
+   {
+    "quote": "特に機能性を併せ持つ精密部品を加工する場合は、樹脂の特性を熟知し、細やかな神経を持った加工のプロが、これまでの作業経験などから得られたノウハウをもとにした加工方法の見極めが必要となり、状況に即した柔軟な対応力が求められる訳です",
+    "url": "https://www.omi.co.jp/about_us",
+    "pass": 1
+   },
+   {
+    "quote": "また、樹脂の切削加工だけにとどまらず、接着・溶接などの組立ての他、追加工など、樹脂の切削関連の業務も対応いたします",
+    "url": "https://www.omi.co.jp/about_us",
+    "pass": 1
+   },
+   {
+    "quote": "大実製作所は、都内城南地区に3ヵ所、茨城に1ヵ所の工場で約80名のスタッフが樹脂の切削加工を中心に事業展開しています",
+    "url": "https://www.omi.co.jp/about_us",
+    "pass": 1
+   },
+   {
+    "quote": "大実製作所は樹脂の切削加工の総合カンパニーです",
+    "url": "https://www.omi.co.jp/production_system",
+    "pass": 1
+   },
+   {
+    "quote": "2019年に稼働開始した筑西工場には、静電対策室を設置するなど、「接着・溶接」「仕上げ」「彫刻」なども含め、樹脂の切削加工に関する全てをお任せください",
+    "url": "https://www.omi.co.jp/production_system",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂の切削加工が得意です | どんな会社?! | 大実製作所",
+    "url": "https://www.omi.co.jp/about_us/1",
+    "pass": 1
+   },
+   {
+    "quote": "大実製作所は「樹脂に特化した切削加工が得意な会社」とお伝えすれば分かりやすいでしょうか",
+    "url": "https://www.omi.co.jp/about_us/1",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂はその時の温度や加工時のストレスに敏感に反応してしまう、言わば「生き物」のようなもの",
+    "url": "https://www.omi.co.jp/about_us/1",
+    "pass": 1
+   },
+   {
+    "quote": "だからこそ、加工後の変形なども見越し、各々の樹脂特性に合わせた加工プロセスを選定しなくてはなりません",
+    "url": "https://www.omi.co.jp/about_us/1",
+    "pass": 1
+   },
+   {
+    "quote": "特に機能性を併せ持つ精密部品を加工する場合は、樹脂の特性を熟知し、細やかな神経を持った加工のプロが、これまでの作業経験などから得られたノウハウをもとにした加工方法の見極めが必要となり、状況に即した柔軟な対応力が求められる訳です",
+    "url": "https://www.omi.co.jp/about_us/1",
+    "pass": 1
+   },
+   {
+    "quote": "また、樹脂の切削加工だけにとどまらず、接着・溶接などの組立ての他、追加工など、樹脂の切削関連の業務も対応いたします",
+    "url": "https://www.omi.co.jp/about_us/1",
+    "pass": 1
+   },
+   {
+    "quote": "大実製作所は、都内城南地区に3ヵ所、茨城に1ヵ所の工場で約80名のスタッフが樹脂の切削加工を中心に事業展開しています",
+    "url": "https://www.omi.co.jp/about_us/3",
+    "pass": 1
+   },
+   {
+    "quote": "だから、樹脂の切削の現場を見学してもらって、実際に箱や雑貨を作ろう！なんて体験って、子供たちにとって良い経験になると思うんです",
+    "url": "https://www.omi.co.jp/about_us/5",
+    "pass": 1
+   },
+   {
+    "quote": "大実製作所は樹脂の切削加工の総合カンパニーです",
+    "url": "https://www.omi.co.jp/production_system/5",
+    "pass": 1
+   },
+   {
+    "quote": "2019年に稼働開始した筑西工場には、静電対策室を設置するなど、「接着・溶接」「仕上げ」「彫刻」なども含め、樹脂の切削加工に関する全てをお任せください",
+    "url": "https://www.omi.co.jp/production_system/5",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂切削加工サービス（試作、小ロットから量産まで）",
+    "url": "https://www.ipros.com/company/detail/2092318/category/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂の特性を熟知したプロが対応！試作～量産・組立まで様々なニーズにお応えします",
+    "url": "https://www.ipros.com/company/detail/2092318/category/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂の特性を熟知し、細やかな神経を持った加工のプロが、これまでの",
+    "url": "https://www.ipros.com/company/detail/2092318/category/",
+    "pass": 3
+   },
+   {
+    "quote": "また、樹脂の切削加工だけにとどまらず、接着・溶接などの組立ての他、",
+    "url": "https://www.ipros.com/company/detail/2092318/category/",
+    "pass": 3
+   },
+   {
+    "quote": "追加工など、樹脂の切削関連の業務も対応可能です",
+    "url": "https://www.ipros.com/company/detail/2092318/category/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂の切削加工は当社に！小ロットから量産、精密加工、試作品など相談ください",
+    "url": "https://www.ipros.com/company/detail/2092318/",
+    "pass": 3
+   },
+   {
+    "quote": "温度変化や加工時のストレスに対して敏感に反応してしまう生き物の様な樹脂に対して、加工後の変形などを見越し樹脂加工のプロフェッショナルが丁寧に業務を行います",
+    "url": "https://www.ipros.com/company/detail/2092318/",
+    "pass": 3
+   },
+   {
+    "quote": "2019年に稼働開始した筑西工場には、静電対策室を設置するなど、「接着・溶接」「仕上げ」「彫刻」なども含め、樹脂の切削加工に関する全てをお任せください",
+    "url": "https://www.ipros.com/company/detail/2092318/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂切削加工サービス（試作、小ロットから量産まで）",
+    "url": "https://www.ipros.com/company/detail/2092318/",
+    "pass": 3
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "当サイトに掲載している会社名、サービス名、製品名などはいずれも当社あるいは各企業、団体の商標または登録商標です",
+    "url": "https://www.omi.co.jp/corporate/about_this_site/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "大実製作所では、多様化するニーズにお応えするため、NC旋盤と汎用旋盤といったハードを多数揃え、さらに経験豊富な職人の知見・技術といったソフトをプラスすることによって「価値のある製品」をご提供いたします",
+    "url": "https://www.omi.co.jp/about_us",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は1962年の創業以来半世紀にわたり培ってきた技術力を生かし、様々なプラスチック素材を、多様な加工設備により、徹底した品質管理のもと、お客様のニーズに合った製品を提供するよう日々努力を続けて参りました",
+    "url": "https://www.omi.co.jp/corporate/message/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、この弊社ホームページをご覧いただくことにより、新たに一つでも多くの製品に携る機会をいただけると幸いです",
+    "url": "https://www.omi.co.jp/corporate/message/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "有害化学物質の管理はもとより、顧客の側に立った安心で安全な製品作りを全員が心掛けることにより、その方法を含めた改善が品質向上となり、その結果として会社の永続的社会貢献に繋げていきます",
+    "url": "https://www.omi.co.jp/corporate/quality_management/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "大実製作所では、多様化するニーズにお応えするため、NC旋盤と汎用旋盤といったハードを多数揃え、さらに経験豊富な職人の知見・技術といったソフトをプラスすることによって「価値のある製品」をご提供いたします",
+    "url": "https://www.omi.co.jp/about_us/1",
+    "pass": 1
+   },
+   {
+    "quote": "お客様の満足する製品を提供するために必要なこと",
+    "url": "https://www.omi.co.jp/about_us/1",
+    "pass": 1
+   },
+   {
+    "quote": "「価値ある製品とは何か？」を追求し続けること",
+    "url": "https://www.omi.co.jp/about_us/1",
+    "pass": 1
+   },
+   {
+    "quote": "それが、「価値ある製品とは何か？」を追求し続けること、であり、自らをさらに成長させることで、より高い次元での顧客満足が実現できると考えています",
+    "url": "https://www.omi.co.jp/about_us/1",
+    "pass": 1
+   },
+   {
+    "quote": "幸いなことに、お客様から様々なご要望とご期待をいただいておりますので、価値ある製品をご提供させていただけるよう、それを毎日・毎時間、１つ１つ努力を積み重ねて参ります",
+    "url": "https://www.omi.co.jp/about_us/1",
+    "pass": 1
+   },
+   {
+    "quote": "万が一少しでも気を緩めてしまうと、製品に反映されてしまい、結果として不正解となれば、そこで道は途絶えてしまいます",
+    "url": "https://www.omi.co.jp/about_us/1",
+    "pass": 1
+   },
+   {
+    "quote": "大実製作所は、これからも「価値ある製品とは何か？」を永続的に追求して参ります",
+    "url": "https://www.omi.co.jp/about_us/1",
+    "pass": 1
+   },
+   {
+    "quote": "製品自体には有機溶剤は使わないよう管理しても、最後の梱包段階でアルコールで拭いてしまってRoHSに引っかかってしまった…なんて笑い話も今はもう昔です",
+    "url": "https://www.omi.co.jp/about_us/4",
+    "pass": 1
+   },
+   {
+    "quote": "それだけ材料を使わなくて済みますから良い製品を作ることが大切になります",
+    "url": "https://www.omi.co.jp/about_us/4",
+    "pass": 1
+   },
+   {
+    "quote": "前回の加工情報履歴が残っているリピート製品についても、必ず検証し見直すのが大実製作所の習慣",
+    "url": "https://www.omi.co.jp/production_system/1",
+    "pass": 1
+   },
+   {
+    "quote": "特に極小な製品の長穴やザグリ・皿モミなどの切削加工で威力を発揮します",
+    "url": "https://www.omi.co.jp/production_system/4",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス(1)",
+    "url": "https://www.ipros.com/company/detail/2092318/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(1)",
+    "url": "https://www.ipros.com/company/detail/2092318/",
+    "pass": 3
+   },
+   {
+    "quote": "毎年最新鋭の設備を導入しながら時代の変化に応じた生産体制を確立し、常に高品質な製品を提供し続けてきました",
+    "url": "https://www.ipros.com/company/detail/2092318/",
+    "pass": 3
+   },
+   {
+    "quote": "これからも、お客様に満足していだける高品質な製品をお届けいたします",
+    "url": "https://www.ipros.com/company/detail/2092318/",
+    "pass": 3
+   },
+   {
+    "quote": "バリ、面精度、寸法精度など高いレベルが要求される製品も加工可能です",
+    "url": "https://www.ipros.com/company/detail/2092318/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (1)",
+    "url": "https://www.ipros.com/company/detail/2092318/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "当サイトへのご質問などがありましたら、お問い合わせフォームからお問い合わせいただくか、下記までご連絡ください",
+    "url": "https://www.omi.co.jp/corporate/about_this_site/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "E-Mail もしくは郵送にてお送りください",
+    "url": "https://www.omi.co.jp/recruit/recruitment/info_career/index.html",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "こうした材料はスグに廃棄するのではなく、大実製作所では他の小ロットの仕事に流用できるようにしっかりと管理しています",
+    "url": "https://www.omi.co.jp/about_us/4",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂切削加工サービス（試作、小ロットから量産まで）",
+    "url": "https://www.ipros.com/company/detail/2092318/category/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂の特性を熟知したプロが対応！試作～量産・組立まで様々なニーズにお応えします",
+    "url": "https://www.ipros.com/company/detail/2092318/category/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂の切削加工は当社に！小ロットから量産、精密加工、試作品など相談ください",
+    "url": "https://www.ipros.com/company/detail/2092318/",
+    "pass": 3
+   },
+   {
+    "quote": "品川旗の台本社工場をはじめ、羽田工場、太田テクノコア工場、筑西工場の４拠点で、試作品といった少量生産から量産品まで、お客様の様々なニーズに応え続けてきました",
+    "url": "https://www.ipros.com/company/detail/2092318/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂切削加工サービス（試作、小ロットから量産まで）",
+    "url": "https://www.ipros.com/company/detail/2092318/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "生産効率をあげるロボット、筑西工場に導入！",
+    "url": "https://www.omi.co.jp/production_system/2",
+    "pass": 1
+   },
+   {
+    "quote": "大実製作所 筑西工場に導入し、試験運用を開始したロボットはマシニングセンタなどの工作機械に自動的に材料を供給してくれる機械です",
+    "url": "https://www.omi.co.jp/production_system/2",
+    "pass": 1
+   },
+   {
+    "quote": "ところが、このロボットには専用のパレットが48枚あり、そのパレット上に加工する材料を予めセットしておくことで、全てロボットが自動的に工作機械内の加工ステージに、材料を搬送・チャック（取付）してくれます",
+    "url": "https://www.omi.co.jp/production_system/2",
+    "pass": 1
+   },
+   {
+    "quote": "営業の実務経験、普通自動車運転免許",
+    "url": "https://www.omi.co.jp/recruit/recruitment/info_career/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "装置機器、ロボット、半導体宇宙、航空、医療",
+    "url": "https://www.ipros.com/company/detail/2092318/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "Interview from Kazuhiro Akiyama",
+    "url": "https://www.omi.co.jp/production_system/4",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社大実製作所 本社、羽田工場、テクノCORE、筑西工場 — 樹脂なら様々な材料に対応します。 大実製作所は、創業60年を超えました。 品川旗の台本社工場をはじめ、羽田工場、太田テクノコア工場、筑西工場の4拠点で、試作品といった少量生産から量産品まで、お客様の様々なニーズに応え続けてきました。",
+    "url": "https://www.ipros.com/company/detail/2092318/category/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.omi.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omi.co.jp/corporate/profile_history/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omi.co.jp/corporate/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omi.co.jp/corporate/philosophy/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omi.co.jp/corporate/accessmap/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omi.co.jp/corporate/about_this_site/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omi.co.jp/recruit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omi.co.jp/about_us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omi.co.jp/corporate/message/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omi.co.jp/corporate/logomark/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omi.co.jp/corporate/quality_management/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omi.co.jp/production_system",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omi.co.jp/about_us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omi.co.jp/about_us/2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omi.co.jp/about_us/1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omi.co.jp/about_us/3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omi.co.jp/about_us/4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omi.co.jp/about_us/5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omi.co.jp/about_us/6",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omi.co.jp/production_system/1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omi.co.jp/production_system/2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omi.co.jp/production_system/3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omi.co.jp/production_system/4",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omi.co.jp/production_system/5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omi.co.jp/news/recruit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omi.co.jp/recruit/interview",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omi.co.jp/recruit/recruitment/info_fresh/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.omi.co.jp/recruit/recruitment/info_career/index.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.omi.co.jp/corporate/images/quality.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.omi.co.jp/system/App/ProductionSystem/main_images/000/000/001/medium/main-image_cnc-senban.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.omi.co.jp/system/App/ProductionSystem/main_images/000/000/002/medium/main-image_machining_01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.omi.co.jp/system/App/ProductionSystem/main_images/000/000/003/medium/CNC-complex.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.omi.co.jp/system/App/ProductionSystem/main_images/000/000/004/medium/machine_hanyou.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.omi.co.jp/system/App/ProductionSystem/main_images/000/000/005/medium/main-image_kumitate.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.omi.co.jp/system/App/ProductionSystem/image1s/000/000/001/medium/oogiku.mr.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.omi.co.jp/system/App/ProductionSystem/image2s/000/000/001/medium/terasaki.mr.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.omi.co.jp/system/App/ProductionSystem/image3s/000/000/001/medium/yokota.mr.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.omi.co.jp/system/App/ProductionSystem/image1s/000/000/002/medium/main-image_robot.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.omi.co.jp/system/App/ProductionSystem/image2s/000/000/002/medium/kondoh.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.omi.co.jp/system/App/ProductionSystem/image3s/000/000/002/medium/sekine.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.ipros.com/company/detail/2092318/category/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipros.com/company/detail/2092318/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "大実製作所 本社、羽田工場、テクノCORE、筑西工場 取扱製品 試作 小ロット",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "大実製作所 本社、羽田工場、テクノCORE、筑西工場 会社概要 事業内容",
+   "results": [
+    "https://www.omi.co.jp/corporate/profile_history/index.html",
+    "https://www.omi.co.jp/corporate/index.html",
+    "https://www.ipros.com/company/detail/2092318/category/",
+    "https://www.ipros.com/company/detail/2092318/",
+    "https://mono.ipros.com/company/detail/2092318/",
+    "https://compalyze.co.jp/company/7010701019736",
+    "https://o-mi.co.jp/about/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "大実製作所 本社、羽田工場、テクノCORE、筑西工場 お問い合わせ メール",
+   "results": [
+    "https://www.omi.co.jp/corporate/accessmap/index.html",
+    "https://www.omi.co.jp/corporate/profile_history/index.html",
+    "https://www.ipros.com/company/detail/2092318/",
+    "http://o-mi.co.jp/",
+    "https://mono.ipros.com/company/detail/2092318/",
+    "https://www.jab.or.jp/compatible_organizations/149819",
+    "https://o-mi.co.jp/about/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 大実製作所 本社、羽田工場、テクノCORE、筑西工場",
+   "results": [
+    "https://note.com/holy_pony5936/n/n15bdaf41e320",
+    "https://note.com/geographybu7/n/n0b48c807cbd5",
+    "https://note.com/urakikougp03/n/nf014e1869506",
+    "https://note.com/seihatsu_spring/n/n7e226d772d65",
+    "https://note.com/harada_mfg/n/n4ea3f16978a4",
+    "https://note.com/dbcat/n/n92de20d6b81e",
+    "https://note.com/beep21/n/nd1c33e1371e4"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 大実製作所 本社、羽田工場、テクノCORE、筑西工場",
+   "results": [
+    "https://jf.x.com/images/media-preview/2114268390525399082",
+    "https://jf.x.com/images/media-preview/2014117340489580604",
+    "https://x.com/RAINBOW_HIMR/status/2102532642399002714",
+    "https://x.com/susa_333/status/2088960897238884734",
+    "https://x.com/houseiya_moto/status/2080071175183700050",
+    "https://x.com/yoshirin0150739/status/2111019464867156298",
+    "https://x.com/shiba_8ro/status/2095868163217043509"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 大実製作所 本社、羽田工場、テクノCORE、筑西工場",
+   "results": [
+    "https://jp.linkedin.com/company/（株）荏原製作所",
+    "https://jp.linkedin.com/in/hidenori-s-2a6765131/en",
+    "https://www.linkedin.com/company/technocore360-llc",
+    "https://www.linkedin.com/company/第一生命情報システム（株）",
+    "https://in.linkedin.com/company/techno-core-logic",
+    "https://nl.linkedin.com/company/technocorebv",
+    "https://in.linkedin.com/company/technosupport-core-innovations"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 大実製作所 本社、羽田工場、テクノCORE、筑西工場",
+   "results": [
+    "https://www.facebook.com/大実製作所-766408753394346/",
+    "https://www.facebook.com/oomikensetu/",
+    "https://www.facebook.com/public/工藤-大実/",
+    "https://www.facebook.com/pages/有限会社-大実商事グループ/402455183143587/",
+    "https://www.facebook.com/NISHITO.SPRING.MFG/videos/もう1年今年も全力で挑みます前回のテクノメッセからもう1年ホンマあっという間ですね今年もニシト気合い入れて挑みます11月4日水5日木はテクノメッセ2026ぜひマ/1651933516303709/",
+    "https://www.facebook.com/DianaOfficial/posts/ダイアナ本社-the-core-of-d7fがリニューアルして3カ月が経ちましたオープンスペースになったことで社員同士のコミュケーションが増えたのはもちろん社外/5392003634146406/",
+    "https://www.facebook.com/DianaOfficial/posts/本社7f-the-core-of-d7f-the-core-of-dはレンタルスペースとしてお貸出ししております千代田線-代々木公園駅小田急線-代々木八幡駅から/6087366407943455/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "大実製作所 本社、羽田工場、テクノCORE、筑西工場 note 社長",
+   "results": [
+    "https://www.omi.co.jp/corporate/accessmap/index.html",
+    "https://www.omi.co.jp/corporate/profile_history/index.html",
+    "https://www.ipros.com/company/detail/2092318/category/",
+    "https://www.ipros.com/company/detail/2092318/",
+    "https://mono.ipros.com/company/detail/2092318/",
+    "https://o-mi.co.jp/about/",
+    "http://o-mi.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "大実製作所 本社、羽田工場、テクノCORE、筑西工場 X 投稿",
+   "results": [
+    "https://www.omi.co.jp/corporate/accessmap/index.html",
+    "https://www.omi.co.jp/corporate/profile_history/index.html",
+    "https://www.ipros.com/company/detail/2092318/",
+    "https://mono.ipros.com/company/detail/2092318/",
+    "https://baseconnect.in/branch_offices/348a23d6-40bd-4d09-9c5a-7570501e0956",
+    "http://o-mi.co.jp/",
+    "https://o-mi.co.jp/about/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式28頁／PDF・画像12件／外部2頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式28頁／PDF・画像12件／外部2頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式28頁／PDF・画像12件／外部2頁・検索9回）"
+ }
+}

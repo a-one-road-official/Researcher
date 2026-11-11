@@ -1,0 +1,1031 @@
+{
+ "name": "Radiantsecurity",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜状態なし",
+ "researched_at": "2026-11-11T10:56:11.042722+00:00",
+ "official_url": "https://radiantsecurity.ai",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "1. Seed Round",
+    "value": "01-Nov-2021    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/470854-09",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "8,347,010 $0.000010  $0.91 $0.91 1x $0.91 18.65%",
+    "url": "https://pitchbook.com/profiles/company/470854-09",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2021",
+    "url": "https://leadiq.com/c/radiant-security/60b7b2533b112d2d98eeb237",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Redefining The Future of the SOC with End-to-End Automation and Log Management, Backed by Predictable Pricing.",
+    "url": "https://www.cybersecuritytribe.com/cyber-security-announcements/radiant-security-unveils-the-first-adaptive-ai-soc-platform",
+    "pass": 3
+   },
+   {
+    "quote": "San Francisco, CA, April 10, 2025 —",
+    "url": "https://www.cybersecuritytribe.com/cyber-security-announcements/radiant-security-unveils-the-first-adaptive-ai-soc-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Radiant eliminates false-positive noise, escalating only suspicious alerts to human analysts for further review. This approach ensures that real threats are never missed, enabling analysts to focus on proactive defense strategies and significantly reducing the mean time to respond (MTTR) from days to minutes.",
+    "url": "https://www.cybersecuritytribe.com/cyber-security-announcements/radiant-security-unveils-the-first-adaptive-ai-soc-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Unlike other “Agentic AI SOC” solutions limited to a narrow set of pre-trained use cases, Radiant is fully agnostic and requires no training. Built on continuous security research, its AI engine dynamically adapts to any alert type from any security source, delivering full-spectrum coverage across the entire threat landscape.",
+    "url": "https://www.cybersecuritytribe.com/cyber-security-announcements/radiant-security-unveils-the-first-adaptive-ai-soc-platform",
+    "pass": 3
+   },
+   {
+    "quote": "When a real threat is escalated, Radiant provides dynamic, transparent remediation recommendations that analysts can review, customize, and execute with a single click. This eliminates the constraints of static automation and rule-based SOARs, empowering human analysts with speed, precision, and complete control.",
+    "url": "https://www.cybersecuritytribe.com/cyber-security-announcements/radiant-security-unveils-the-first-adaptive-ai-soc-platform",
+    "pass": 3
+   },
+   {
+    "quote": "“The one thing we kept hearing from our customers was the need for complete alert coverage. So, rather than pre-training our AI engine to support more use cases, we designed it to train itself. It dynamically researches every alert it receives, triages, and investigates as a top analyst would, adapting to the environment to achieve the most accurate results.”",
+    "url": "https://www.cybersecuritytribe.com/cyber-security-announcements/radiant-security-unveils-the-first-adaptive-ai-soc-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Affordable log management and predictable pricing",
+    "url": "https://www.cybersecuritytribe.com/cyber-security-announcements/radiant-security-unveils-the-first-adaptive-ai-soc-platform",
+    "pass": 3
+   },
+   {
+    "quote": "In contrast to other solutions on the market that charge based on unpredictable alert volumes, Radiant",
+    "url": "https://www.cybersecuritytribe.com/cyber-security-announcements/radiant-security-unveils-the-first-adaptive-ai-soc-platform",
+    "pass": 3
+   },
+   {
+    "quote": "pricing is determined solely by the number of use cases and end users. This pricing model ensures 100% predictability for both alerts and log volumes.",
+    "url": "https://www.cybersecuritytribe.com/cyber-security-announcements/radiant-security-unveils-the-first-adaptive-ai-soc-platform",
+    "pass": 3
+   },
+   {
+    "quote": "“Security teams shouldn’t have to choose between visibility and affordability. With Radiant’s integrated data lake, we’ve eliminated the traditional log management cost, giving customers unlimited retention, lightning-fast search, and full flexibility at a fraction of the cost,”",
+    "url": "https://www.cybersecuritytribe.com/cyber-security-announcements/radiant-security-unveils-the-first-adaptive-ai-soc-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Katie Mulligan, Head of Product of Radiant Security, explained",
+    "url": "https://www.cybersecuritytribe.com/cyber-security-announcements/radiant-security-unveils-the-first-adaptive-ai-soc-platform",
+    "pass": 3
+   },
+   {
+    "quote": ". She added, “The way Radiant ingests and stores security data not only dramatically improves the organization’s security posture, but also allows them to scale without breaking their budget”.",
+    "url": "https://www.cybersecuritytribe.com/cyber-security-announcements/radiant-security-unveils-the-first-adaptive-ai-soc-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Radiant Security will demonstrate its Adaptive AI SOC platform at RSA 2025 (Apr 28 - May 1), Booth #258. To schedule a meeting or a demo, please contact:",
+    "url": "https://www.cybersecuritytribe.com/cyber-security-announcements/radiant-security-unveils-the-first-adaptive-ai-soc-platform",
+    "pass": 3
+   },
+   {
+    "quote": "marketing@radiantsecurity.ai",
+    "url": "https://www.cybersecuritytribe.com/cyber-security-announcements/radiant-security-unveils-the-first-adaptive-ai-soc-platform",
+    "pass": 3
+   },
+   {
+    "quote": "For Triage and Response, Radiant stands out by removing the alert-type coverage ceiling that limits other solutions. It handles both the common alert categories and the rare, complex, or emerging alert types that other platforms and providers leave behind - WAF, DLP, Dark Web, OT/ IOT, Supply Chain, and more.",
+    "url": "https://awards.thehackernews.com/winners/2026/radiant-secutiy-ai-soc-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "- Teams can influence and adjust Radiant's triage logic via three mechanisms — context memory, triage tuning, and verdict feedback — and the AI retains that context over time, continuously aligning with the organization's specific environment, risk tolerance, and priorities",
+    "url": "https://awards.thehackernews.com/winners/2026/radiant-secutiy-ai-soc-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Security operations today face a structural coverage gap. MSSPs, SOAR platforms, and emerging AI SOC solutions are effective at handling common, high-volume alert categories — typically SIEM, cloud, network, identity, phishing, and endpoint alerts. These represent the alert types for which pre-built playbooks, triage logic, and response workflows exist.",
+    "url": "https://awards.thehackernews.com/winners/2026/radiant-secutiy-ai-soc-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Current solutions rely on static, pre-defined triage logic and fixed investigation workflows. They can only cover what has been explicitly built into their platforms. When an alert falls outside those pre-built categories, it is either deprioritized, escalated to an already-stretched human analyst for manual investigation, or left unresolved — creating exploitable blind spots.",
+    "url": "https://awards.thehackernews.com/winners/2026/radiant-secutiy-ai-soc-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Radiant is an AI SOC platform that differentiates itself by eliminating the alert-type coverage ceiling that constrains other solutions. It handles both the common alert categories and the rare, complex, or emerging alert types that other platforms and providers leave behind.",
+    "url": "https://awards.thehackernews.com/winners/2026/radiant-secutiy-ai-soc-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "2. Comprehensive integration layer (120+ integrations)",
+    "url": "https://awards.thehackernews.com/winners/2026/radiant-secutiy-ai-soc-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Static — executes pre-built playbooks",
+    "url": "https://awards.thehackernews.com/winners/2026/radiant-secutiy-ai-soc-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Limited to pre-defined categories",
+    "url": "https://awards.thehackernews.com/winners/2026/radiant-secutiy-ai-soc-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Nominations for the 2027 Cybersecurity Stars Awards open later this year. Leave your email and we’ll send you one heads-up the day they go live.",
+    "url": "https://awards.thehackernews.com/winners/2026/radiant-secutiy-ai-soc-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "All Cribl and Radiant Security claims on this page are sourced to Cribl’s August 19, 2026 announcement and same-day coverage. Nothing here asserts what happens to Radiant’s customers, contracts, or standalone platform beyond what has been publicly stated. Characterizations of third-party products reflect their vendors’ public positioning as of August 19, 2026.",
+    "url": "https://d3security.com/blog/cribl-acquires-radiant-security-ai-soc/",
+    "pass": 3
+   },
+   {
+    "quote": "Cribl, the telemetry pipeline company, announced this morning that it acquired technology assets from Radiant Security. Per the press release, the deal covers the IP behind Radiant’s AI-native SOC product: software that autonomously triages, investigates, and resolves security alerts. Terms were not disclosed.",
+    "url": "https://d3security.com/blog/cribl-acquires-radiant-security-ai-soc/",
+    "pass": 3
+   },
+   {
+    "quote": "Radiant Security raised a $15 million Series A led by Next47 in 2023 and built a real product with real customers. Their team earned a place in nearly every AI SOC analyst report of the last two years. What changed today is who owns that technology and where it lives next.",
+    "url": "https://d3security.com/blog/cribl-acquires-radiant-security-ai-soc/",
+    "pass": 3
+   },
+   {
+    "quote": "Will the standalone platform keep receiving detection logic updates, integration fixes, and model improvements while the technology is adapted for Cribl’s platform?",
+    "url": "https://d3security.com/blog/cribl-acquires-radiant-security-ai-soc/",
+    "pass": 3
+   },
+   {
+    "quote": "Some teams will want that. Cribl is a strong company with a large installed base, and if you were already planning to route your telemetry through Cribl, this consolidation may work in your favor. But if you evaluated Radiant precisely because it connected to the tools you already own, the calculus changed this morning.",
+    "url": "https://d3security.com/blog/cribl-acquires-radiant-security-ai-soc/",
+    "pass": 3
+   },
+   {
+    "quote": "Whether you are a Radiant customer reassessing or an evaluator restarting a shortlist, these are the criteria that protect you from repeating this situation:",
+    "url": "https://d3security.com/blog/cribl-acquires-radiant-security-ai-soc/",
+    "pass": 3
+   },
+   {
+    "quote": "Cloud, on-premises, hybrid, and multi-tenant for MSSPs. Regulated environments and OT-adjacent SOCs need all four options on the table.",
+    "url": "https://d3security.com/blog/cribl-acquires-radiant-security-ai-soc/",
+    "pass": 3
+   },
+   {
+    "quote": "Moving off an AI triage layer is lighter than moving off a SIEM. Integrations reconnect through APIs. Morpheus generates deterministic playbooks from your existing SOPs, so codified response logic carries forward. A proof of concept runs on your own alerts, in your own environment, and you judge investigation output on your real traffic.",
+    "url": "https://d3security.com/blog/cribl-acquires-radiant-security-ai-soc/",
+    "pass": 3
+   },
+   {
+    "quote": "Cribl announced on August 19, 2026 that it acquired technology assets from Radiant Security’s AI SOC product, including the IP for autonomous alert triage, investigation, and resolution. The announcement describes an acquisition of technology assets, not a full company acquisition. Terms were not disclosed.",
+    "url": "https://d3security.com/blog/cribl-acquires-radiant-security-ai-soc/",
+    "pass": 3
+   },
+   {
+    "quote": "It depends on your stack and your appetite for adopting a telemetry pipeline. If you want an AI SOC platform that runs on the tools you already own, with SOAR and case management built in, not sold separately, D3 Morpheus is built for that requirement: 800+ self-healing integrations, Attack Path Discovery on every alert, four autonomy modes, and cloud, on-premises, hybrid, and MSSP deployment.",
+    "url": "https://d3security.com/blog/cribl-acquires-radiant-security-ai-soc/",
+    "pass": 3
+   },
+   {
+    "quote": "A proof of concept connects to your environment through APIs and runs on your own alerts. Most teams see full L2-depth investigation output on their real alert stream within days, which makes side-by-side comparison against any incumbent straightforward.",
+    "url": "https://d3security.com/blog/cribl-acquires-radiant-security-ai-soc/",
+    "pass": 3
+   },
+   {
+    "quote": "The fastest way to pressure-test any of this is to watch Morpheus investigate your alerts, in your environment, against your stack. Book a demo and bring your hardest alert source.",
+    "url": "https://d3security.com/blog/cribl-acquires-radiant-security-ai-soc/",
+    "pass": 3
+   },
+   {
+    "quote": "Shriram Sharma is a Web Content Developer at D3. A former journalist, he chronicled high-profile data breaches, cyber-attacks, and conducted interviews with white and grey hat hackers. He likes to share his fascination for the field of cyber security by creating accessible and engaging content.",
+    "url": "https://d3security.com/blog/cribl-acquires-radiant-security-ai-soc/",
+    "pass": 3
+   },
+   {
+    "quote": "Stop investigating alerts in isolation. A technical guide to Attack Path Discovery, separating vertical privilege escalation from horizontal lateral movement using specialized LLMs.",
+    "url": "https://d3security.com/blog/cribl-acquires-radiant-security-ai-soc/",
+    "pass": 3
+   },
+   {
+    "quote": "Blending Deterministic Workflows with AI: Architecting the Enterprise and MSSP SOC of the Future",
+    "url": "https://d3security.com/blog/cribl-acquires-radiant-security-ai-soc/",
+    "pass": 3
+   },
+   {
+    "quote": "A blueprint for autonomy you can control. Learn how to blend deterministic precision with cognitive scale to autonomously triage up to 95% of alerts.",
+    "url": "https://d3security.com/blog/cribl-acquires-radiant-security-ai-soc/",
+    "pass": 3
+   },
+   {
+    "quote": "Inside the Autonomous SOC: A Conversation with D3 Security President Gordon Benoit",
+    "url": "https://d3security.com/blog/cribl-acquires-radiant-security-ai-soc/",
+    "pass": 3
+   },
+   {
+    "quote": "D3 Security’s President explains why Morpheus AI is about productivity, and what makes it different from what came before.",
+    "url": "https://d3security.com/blog/cribl-acquires-radiant-security-ai-soc/",
+    "pass": 3
+   },
+   {
+    "quote": "Radiant Security 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/470854-09",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/470854-09",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/470854-09",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/470854-09",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/470854-09",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/470854-09",
+    "pass": 3
+   },
+   {
+    "quote": ", a Private Equity-Backed company based in Plano, TX.",
+    "url": "https://pitchbook.com/profiles/company/470854-09",
+    "pass": 3
+   },
+   {
+    "quote": "Private Equity-Backed",
+    "url": "https://pitchbook.com/profiles/company/470854-09",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/470854-09",
+    "pass": 3
+   },
+   {
+    "quote": "Radiant Security’s primary industry is Business/Productivity Software.",
+    "url": "https://pitchbook.com/profiles/company/470854-09",
+    "pass": 3
+   },
+   {
+    "quote": "Is Radiant Security a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/470854-09",
+    "pass": 3
+   },
+   {
+    "quote": "Radiant Security is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/470854-09",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/470854-09",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/470854-09",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/470854-09",
+    "pass": 3
+   },
+   {
+    "quote": "Radiant Security, Inc. Company Profile: Financials, Valuation, and Growth | PrivCo",
+    "url": "https://www.privco.com/company/radiant-security",
+    "pass": 3
+   },
+   {
+    "quote": "No AI Training or Automated Data Extraction.",
+    "url": "https://www.privco.com/company/radiant-security",
+    "pass": 3
+   },
+   {
+    "quote": "Use of this page or any content or data made available by PrivCo for scraping, crawling, indexing, caching, extracting, copying, reproducing, storing, or for training or developing any artificial intelligence or machine learning system is strictly prohibited without prior written consent. All access to and use of this page and PrivCo's services are subject to the PrivCo Terms of Use:",
+    "url": "https://www.privco.com/company/radiant-security",
+    "pass": 3
+   },
+   {
+    "quote": "https://www.privco.com/terms-of-use",
+    "url": "https://www.privco.com/company/radiant-security",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Unlike other “Agentic AI SOC” solutions limited to a narrow set of pre-trained use cases, Radiant is fully agnostic and requires no training. Built on continuous security research, its AI engine dynamically adapts to any alert type from any security source, delivering full-spectrum coverage across the entire threat landscape.",
+    "url": "https://www.cybersecuritytribe.com/cyber-security-announcements/radiant-security-unveils-the-first-adaptive-ai-soc-platform",
+    "pass": 3
+   },
+   {
+    "quote": "50 - 99 employees",
+    "url": "https://awards.thehackernews.com/winners/2026/radiant-secutiy-ai-soc-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Cribl Just Acquired Radiant Security's AI SOC Technology. Here's What It Means for Your SOC. | D3 Morpheus",
+    "url": "https://d3security.com/blog/cribl-acquires-radiant-security-ai-soc/",
+    "pass": 3
+   },
+   {
+    "quote": "Cribl Just Acquired Radiant Security’s AI SOC Technology. Here’s What It Means for Your SOC.",
+    "url": "https://d3security.com/blog/cribl-acquires-radiant-security-ai-soc/",
+    "pass": 3
+   },
+   {
+    "quote": "An Asset Acquisition Is Not a Company Acquisition",
+    "url": "https://d3security.com/blog/cribl-acquires-radiant-security-ai-soc/",
+    "pass": 3
+   },
+   {
+    "quote": "Asset vs. Company Acquisition",
+    "url": "https://d3security.com/blog/cribl-acquires-radiant-security-ai-soc/",
+    "pass": 3
+   },
+   {
+    "quote": "Cribl, the telemetry pipeline company, announced this morning that it acquired technology assets from Radiant Security. Per the press release, the deal covers the IP behind Radiant’s AI-native SOC product: software that autonomously triages, investigates, and resolves security alerts. Terms were not disclosed.",
+    "url": "https://d3security.com/blog/cribl-acquires-radiant-security-ai-soc/",
+    "pass": 3
+   },
+   {
+    "quote": "This is Cribl’s second security acquisition of 2026, following CardinalOps in July. Cribl says it will adapt the AI SOC technology to run as an application on its telemetry platform, with more platform additions to be shared at CriblCon on September 28, 2026.",
+    "url": "https://d3security.com/blog/cribl-acquires-radiant-security-ai-soc/",
+    "pass": 3
+   },
+   {
+    "quote": "Those answers will come from account teams and from CriblCon. Until they arrive, every Radiant customer is operating on assumptions.",
+    "url": "https://d3security.com/blog/cribl-acquires-radiant-security-ai-soc/",
+    "pass": 3
+   },
+   {
+    "quote": "Get these answers in writing. Renewal conversations after an asset acquisition are the one moment you have maximum leverage and minimum information. Fix the information half first.",
+    "url": "https://d3security.com/blog/cribl-acquires-radiant-security-ai-soc/",
+    "pass": 3
+   },
+   {
+    "quote": "is D3 Security’s AI SOC platform with SOAR and case management built in. It was built for exactly the buyer this acquisition leaves exposed: a SOC that wants autonomous investigation on top of the stack it already owns.",
+    "url": "https://d3security.com/blog/cribl-acquires-radiant-security-ai-soc/",
+    "pass": 3
+   },
+   {
+    "quote": "Moving off an AI triage layer is lighter than moving off a SIEM. Integrations reconnect through APIs. Morpheus generates deterministic playbooks from your existing SOPs, so codified response logic carries forward. A proof of concept runs on your own alerts, in your own environment, and you judge investigation output on your real traffic.",
+    "url": "https://d3security.com/blog/cribl-acquires-radiant-security-ai-soc/",
+    "pass": 3
+   },
+   {
+    "quote": "Cribl announced on August 19, 2026 that it acquired technology assets from Radiant Security’s AI SOC product, including the IP for autonomous alert triage, investigation, and resolution. The announcement describes an acquisition of technology assets, not a full company acquisition. Terms were not disclosed.",
+    "url": "https://d3security.com/blog/cribl-acquires-radiant-security-ai-soc/",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/470854-09",
+    "pass": 3
+   },
+   {
+    "quote": "Radiant Security has 68 total employees.",
+    "url": "https://pitchbook.com/profiles/company/470854-09",
+    "pass": 3
+   },
+   {
+    "quote": "What is Radiant Security’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/470854-09",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Radiant Security is",
+    "url": "https://pitchbook.com/profiles/company/470854-09",
+    "pass": 3
+   },
+   {
+    "quote": "SAN FRANCISCO, Aug. 19, 2026 (GLOBE NEWSWIRE) - Cribl, the AI Platform for Telemetry, today announced it has acquired technology assets from Radiant Security's AI-native security operations center product including intellectual property to autonomously triage, investigate, and resolve security alerts.",
+    "url": "https://leadiq.com/c/radiant-security/60b7b2533b112d2d98eeb237",
+    "pass": 3
+   },
+   {
+    "quote": "How much revenue does",
+    "url": "https://leadiq.com/c/radiant-security/60b7b2533b112d2d98eeb237",
+    "pass": 3
+   },
+   {
+    "quote": "'s annual revenue is estimated to be",
+    "url": "https://leadiq.com/c/radiant-security/60b7b2533b112d2d98eeb237",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does",
+    "url": "https://leadiq.com/c/radiant-security/60b7b2533b112d2d98eeb237",
+    "pass": 3
+   },
+   {
+    "quote": "'s revenue is estimated to be in the range of",
+    "url": "https://leadiq.com/c/radiant-security/60b7b2533b112d2d98eeb237",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Nominations for the 2027 Cybersecurity Stars Awards open later this year. Leave your email and we’ll send you one heads-up the day they go live.",
+    "url": "https://awards.thehackernews.com/winners/2026/radiant-secutiy-ai-soc-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "We’ll email you the moment 2027 nominations open.",
+    "url": "https://awards.thehackernews.com/winners/2026/radiant-secutiy-ai-soc-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "The platform should pull evidence from your SIEM, EDR, identity, email, cloud, and network tools wherever that data already lives, straight over API.",
+    "url": "https://d3security.com/blog/cribl-acquires-radiant-security-ai-soc/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/470854-09",
+    "pass": 3
+   },
+   {
+    "quote": "'s Email Address Formats",
+    "url": "https://leadiq.com/c/radiant-security/60b7b2533b112d2d98eeb237",
+    "pass": 3
+   },
+   {
+    "quote": "uses at least 3 email formats:",
+    "url": "https://leadiq.com/c/radiant-security/60b7b2533b112d2d98eeb237",
+    "pass": 3
+   },
+   {
+    "quote": "'s email format typically follows the pattern of First@radiantsecurity.ai.",
+    "url": "https://leadiq.com/c/radiant-security/60b7b2533b112d2d98eeb237",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Radiant Security - LinkedIn — Radiant Security - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/radiantsecurity-ai",
+    "pass": 3
+   },
+   {
+    "quote": "radiantsecurity .ai is registered at Namecheap — radiantsecurity .ai is registered at Namecheap radiantsecurity.ai http://www.radiantsecurity.ai",
+    "url": "http://www.radiantsecurity.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Radiant Security Unveils the First Adaptive AI SOC Platform — Radiant Security Unveils the First Adaptive AI SOC Platform Cyber Security Tribe https://www.cybersecuritytribe.com > ...",
+    "url": "https://www.cybersecuritytribe.com/cyber-security-announcements/radiant-security-unveils-the-first-adaptive-ai-soc-platform",
+    "pass": 3
+   },
+   {
+    "quote": "Radiant Security | Best SOC Automation Solution — Radiant Security | Best SOC Automation Solution Cybersecurity Stars Awards https://awards.thehackernews.com > r...",
+    "url": "https://awards.thehackernews.com/winners/2026/radiant-secutiy-ai-soc-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "PRODUCT REVIEW: Radiant Security Gen AI SOC Co-Pilot — PRODUCT REVIEW: Radiant Security Gen AI SOC Co-Pilot Cybersecurity Insiders https://www.cybersecurity-insiders.com > ...",
+    "url": "https://www.cybersecurity-insiders.com/radiant-security-gen-ai-soc-co-pilot/",
+    "pass": 3
+   },
+   {
+    "quote": "Radiant Security - Exhibitor Details - Infosecurity Europe — Radiant Security - Exhibitor Details - Infosecurity Europe Infosecurity Europe https://www.infosecurityeurope.com > ...",
+    "url": "https://www.infosecurityeurope.com/en-gb/exhibitor-directory/exhibitor-details.radiant%20security.org-e4b55428-983d-4508-992a-5e41d38035d1.html",
+    "pass": 3
+   },
+   {
+    "quote": "Radiant Security - Overview, News & Similar companies — Radiant Security - Overview, News & Similar companies ZoomInfo https://www.zoominfo.com > radiant-...",
+    "url": "https://www.zoominfo.com/c/radiant-security-inc/1326638490",
+    "pass": 3
+   },
+   {
+    "quote": "RadiantSecurity - Remote — RadiantSecurity - Remote remote.com https://remote.com > jobs > radiantsec...",
+    "url": "https://remote.com/jobs/radiantsecurity-c1xvgqx2",
+    "pass": 3
+   },
+   {
+    "quote": "Cribl Just Acquired Radiant Security's AI SOC Technology ... — Cribl Just Acquired Radiant Security's AI SOC Technology ... D3 Security https://d3security.com > Blog",
+    "url": "https://d3security.com/blog/cribl-acquires-radiant-security-ai-soc/",
+    "pass": 3
+   },
+   {
+    "quote": "Radiant Security 2026 Company Profile - PitchBook — Radiant Security 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/470854-09",
+    "pass": 3
+   },
+   {
+    "quote": "Radiant Security - Crunchbase Company Profile & Funding — Radiant Security - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > radian...",
+    "url": "https://www.crunchbase.com/organization/radiantsecurity",
+    "pass": 3
+   },
+   {
+    "quote": "Radiant Security , Inc. Company Profile - PrivCo — Radiant Security , Inc. Company Profile - PrivCo PrivCo https://www.privco.com > company",
+    "url": "https://www.privco.com/company/radiant-security",
+    "pass": 3
+   },
+   {
+    "quote": "Radiant Security - LeadIQ — Radiant Security - LeadIQ LeadIQ https://leadiq.com > radiant-security",
+    "url": "https://leadiq.com/c/radiant-security/60b7b2533b112d2d98eeb237",
+    "pass": 3
+   },
+   {
+    "quote": "Radiant Security Stock Price, Funding , Valuation ... - CB Insights — Radiant Security Stock Price, Funding , Valuation ... - CB Insights CB Insights https://www.cbinsights.com > financials",
+    "url": "https://www.cbinsights.com/company/radiant-security/financials",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Radiant Security (@Radiant_Sec) / X Radiant Security (@Radiant_Sec) / X X https://x.com > Radiant_Sec",
+    "url": "https://x.com/Radiant_Sec",
+    "pass": 3
+   },
+   {
+    "quote": "Prime Radiant Security (@primeradsec) / X Prime Radiant Security (@primeradsec) / X X https://x.com > primeradsec",
+    "url": "https://x.com/primeradsec",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Radiant Security - LinkedIn Radiant Security - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/radiantsecurity-ai",
+    "pass": 3
+   },
+   {
+    "quote": "Shahar Ben-Hador - CEO & Co-founder at Radiant Security Shahar Ben-Hador - CEO & Co-founder at Radiant Security LinkedIn https://www.linkedin.com > shahar-be...",
+    "url": "https://www.linkedin.com/in/shahar-ben-hador",
+    "pass": 3
+   },
+   {
+    "quote": "Radiant Security | LinkedIn Radiant Security | LinkedIn LinkedIn Australia https://au.linkedin.com > radsecau",
+    "url": "https://au.linkedin.com/company/radsecau",
+    "pass": 3
+   },
+   {
+    "quote": "Cribl Acquires Radiant Security's AI SOC Technology - LinkedIn Cribl Acquires Radiant Security's AI SOC Technology - LinkedIn LinkedIn https://www.linkedin.com > posts > k...",
+    "url": "https://www.linkedin.com/posts/kdshah_cribl-moves-beyond-the-data-layer-and-acquires-activity-7495852024945606657-YnOm",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Radiant Security (@radiantsec) - Facebook Radiant Security (@radiantsec) - Facebook Facebook https://www.facebook.com > ... > In-Home Service",
+    "url": "https://www.facebook.com/radiantsec/",
+    "pass": 3
+   },
+   {
+    "quote": "Radiant security VX3 + CX4 cameras in central Mississippi Radiant security VX3 + CX4 cameras in central Mississippi Facebook https://www.facebook.com > radiantsec > posts > the-trick...",
+    "url": "https://www.facebook.com/radiantsec/posts/the-trick-or-treaters-may-be-done-but-peace-of-mind-isnt-seasonal-%EF%B8%8Fsecurity-isnt/1831723615625214/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://radiantsecurity.ai",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.linkedin.com/company/radiantsecurity-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "http://www.radiantsecurity.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cybersecuritytribe.com/cyber-security-announcements/radiant-security-unveils-the-first-adaptive-ai-soc-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://awards.thehackernews.com/winners/2026/radiant-secutiy-ai-soc-platform/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/radiantsecurity-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "http://www.radiantsecurity.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.infosecurityeurope.com/en-gb/exhibitor-directory/exhibitor-details.radiant%20security.org-e4b55428-983d-4508-992a-5e41d38035d1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/radiant-security-inc/1326638490",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/radiantsecurity-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.cybersecuritytribe.com/cyber-security-announcements/radiant-security-unveils-the-first-adaptive-ai-soc-platform",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.radiantsecurity.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://remote.com/jobs/radiantsecurity-c1xvgqx2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.akamai.com/resources/customer-story/segmentation-case-study-manufacturing-company",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://d3security.com/blog/cribl-acquires-radiant-security-ai-soc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.livingsecurity.com/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/radiantsecurity-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.globaltechpartners.com.au/white-label-program",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://logix.in/white-label-partnership-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://shieldapps.com/white-label-software-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/radiantsecurity-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/470854-09",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/radiantsecurity",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.privco.com/company/radiant-security",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://leadiq.com/c/radiant-security/60b7b2533b112d2d98eeb237",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/Radiant_Sec",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/primeradsec",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/radiantsecurity-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/shahar-ben-hador",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://au.linkedin.com/company/radsecau",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/kdshah_cribl-moves-beyond-the-data-layer-and-acquires-activity-7495852024945606657-YnOm",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/radiantsec/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/radiantsec/posts/the-trick-or-treaters-may-be-done-but-peace-of-mind-isnt-seasonal-%EF%B8%8Fsecurity-isnt/1831723615625214/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/radiantsecurity-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/radiantsecurity-ai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Radiant_Sec",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Radiantsecurity 日本 導入",
+   "results": [
+    "https://www.linkedin.com/company/radiantsecurity-ai",
+    "http://www.radiantsecurity.ai/",
+    "https://www.cybersecuritytribe.com/cyber-security-announcements/radiant-security-unveils-the-first-adaptive-ai-soc-platform",
+    "https://awards.thehackernews.com/winners/2026/radiant-secutiy-ai-soc-platform/",
+    "https://www.cybersecurity-insiders.com/radiant-security-gen-ai-soc-co-pilot/",
+    "https://www.infosecurityeurope.com/en-gb/exhibitor-directory/exhibitor-details.radiant%20security.org-e4b55428-983d-4508-992a-5e41d38035d1.html",
+    "https://accuknox.com/ja/blog/best-radiant-security-ai-alert-triage",
+    "https://www.youtube.com/watch?v=TxNTc9s-8r0",
+    "https://www.businesswire.com/news/home/20230809398996/en/Radiant-Security-Announces-Revolutionary-AI-Powered-SOC-Co-Pilot",
+    "https://creati.ai/ja/ai-tools/radiant-security/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Radiantsecurity 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.linkedin.com/company/radiantsecurity-ai",
+    "http://www.radiantsecurity.ai/",
+    "https://www.infosecurityeurope.com/en-gb/exhibitor-directory/exhibitor-details.radiant%20security.org-e4b55428-983d-4508-992a-5e41d38035d1.html",
+    "https://www.zoominfo.com/c/radiant-security-inc/1326638490",
+    "https://www.deepinstinct.com/ja/partner-list",
+    "https://blitzportal.com/startups/Radiant-Security-Lj4ODWQK",
+    "https://www.rikei.co.jp/news/2020-22/",
+    "https://www.udc-synchro.co.jp/partner/",
+    "https://www.engeniustech.com/jp/where-to-buy/",
+    "https://metoree.com/companies/distributors-relationships/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Radiantsecurity Japan",
+   "results": [
+    "https://www.linkedin.com/company/radiantsecurity-ai",
+    "https://www.cybersecuritytribe.com/cyber-security-announcements/radiant-security-unveils-the-first-adaptive-ai-soc-platform",
+    "http://www.radiantsecurity.ai/",
+    "https://remote.com/jobs/radiantsecurity-c1xvgqx2",
+    "https://awards.thehackernews.com/winners/2026/radiant-secutiy-ai-soc-platform/",
+    "https://www.crunchbase.com/organization/radiantsecurity",
+    "https://www.infosecurityeurope.com/en-gb/exhibitor-directory/exhibitor-details.radiant%20security.org-e4b55428-983d-4508-992a-5e41d38035d1.html",
+    "https://www.radiantlogic.com/",
+    "https://agenticindex.io/vendors/radiant-security",
+    "https://www.dnb.com/business-directory/company-profiles.radiant_japan_co_ltd.aa2a1019be3e9a8aac0f728e0546a8bd.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Radiantsecurity manufacturing customer case study",
+   "results": [
+    "https://www.akamai.com/resources/customer-story/segmentation-case-study-manufacturing-company",
+    "https://d3security.com/blog/cribl-acquires-radiant-security-ai-soc/",
+    "https://www.livingsecurity.com/resources/case-studies",
+    "https://www.linkedin.com/company/radiantsecurity-ai",
+    "https://compassmsp.com/resources/case-studies/confidential-manufacturing-cybersecurity-manufacturing",
+    "https://www.factory-twin.com/casestudies",
+    "https://www.trackforce.com/resources/case-studies/",
+    "https://vmblog.com/bylines/radiant-security-announces-successful-first-year-after-hitting-the-secops-market/",
+    "https://mindgard.ai/learn/customers",
+    "https://www.casestudies.com/company/radiant-security"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Radiantsecurity white label OR reseller OR partner program",
+   "results": [
+    "https://www.globaltechpartners.com.au/white-label-program",
+    "https://logix.in/white-label-partnership-program/",
+    "https://shieldapps.com/white-label-software-program/",
+    "https://www.linkedin.com/company/radiantsecurity-ai",
+    "https://elioplus.com/white-label/vendors/compliance",
+    "https://grid32.com/partners/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://trilightsecurity.com/index.php/white-label-msp-partner-program/",
+    "https://d3security.com/blog/cribl-acquires-radiant-security-ai-soc/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Radiantsecurity founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/470854-09",
+    "https://www.crunchbase.com/organization/radiantsecurity",
+    "https://www.privco.com/company/radiant-security",
+    "https://leadiq.com/c/radiant-security/60b7b2533b112d2d98eeb237",
+    "https://www.cbinsights.com/company/radiant-security/financials",
+    "https://www.dbta.com/Editorial/News-Flashes/Radiant-Security-Secures-15M-in-Funding-to-Further-Develop-Cutting-Edge-Technologies-161477.aspx",
+    "https://dealroom.co/companies/radiant-security/",
+    "https://tracxn.com/d/companies/radiant-security/__46YJpROGCAbDhJexr710-HCG0la1I_CDgz-o8UPfUrk",
+    "https://www.linkedin.com/company/radiantsecurity-ai",
+    "https://tracxn.com/d/companies/radiantsecurity/__46YJpROGCAbDhJexr710-HCG0la1I_CDgz-o8UPfUrk"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Radiantsecurity",
+   "results": [
+    "https://note.com/joshuajosh/n/n4c159e6f352a?hl=ko"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 1
+  },
+  {
+   "query": "site:x.com Radiantsecurity",
+   "results": [
+    "https://x.com/Radiant_Sec",
+    "https://x.com/primeradsec",
+    "https://x.com/BSidesAustin",
+    "https://x.com/OmanNewsAgency/status/1442010242099908613",
+    "https://x.com/SM08918291",
+    "https://x.com/RadiantSecurity",
+    "https://x.com/RadiantSecurity/with_replies",
+    "https://x.com/radiantsnap",
+    "https://x.com/RadiantOpti",
+    "https://x.com/RadiantNuclear"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:linkedin.com Radiantsecurity",
+   "results": [
+    "https://www.linkedin.com/company/radiantsecurity-ai",
+    "https://www.linkedin.com/in/shahar-ben-hador",
+    "https://au.linkedin.com/company/radsecau",
+    "https://www.linkedin.com/posts/kdshah_cribl-moves-beyond-the-data-layer-and-acquires-activity-7495852024945606657-YnOm",
+    "https://www.linkedin.com/in/barryshteiman",
+    "https://www.linkedin.com/posts/radiantsecurity-ai_say-hello-to-radiant-security-today-we-activity-7038568000697880576-KMZJ",
+    "https://www.linkedin.com/posts/radiantsecurity-ai_radiant-security-secures-15-million-to-meet-activity-7130219138483978240-Pd6o",
+    "https://www.linkedin.com/posts/amandaferrazt_radiant-ai-soc-platform-scale-and-optimize-activity-7131311882472181762-SqtW",
+    "https://www.linkedin.com/in/kathleenmulligan1",
+    "https://www.linkedin.com/company/radiantsecurity"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Radiantsecurity",
+   "results": [
+    "https://www.facebook.com/radiantsec/",
+    "https://www.facebook.com/radiantsec/posts/the-trick-or-treaters-may-be-done-but-peace-of-mind-isnt-seasonal-%EF%B8%8Fsecurity-isnt/1831723615625214/",
+    "https://www.facebook.com/radiantsec/posts/your-business-deserves-protection-that-works-after-hours-and-supports-your-team-/1804007881730121/",
+    "https://www.facebook.com/radiantguards/",
+    "https://www.facebook.com/radiantsec/posts/at-214-am-footage-alone-can-leave-you-piecing-together-what-happened-the-next-mo/1809677157829860/",
+    "https://www.facebook.com/radiantsec/posts/for-central-mississippi-businesses-a-clearer-security-experience-starts-with-the/1802141698583406/",
+    "https://www.facebook.com/radiantsec/posts/the-scariest-thing-on-a-dark-property-isnt-what-you-can-see-its-what-you-cant-fo/1818913263572916/",
+    "https://www.facebook.com/rsispvtltd/",
+    "https://www.facebook.com/trainingradiant/",
+    "https://www.facebook.com/radiantsec/posts/the-longer-nights-are-here-a-few-minutes-of-checking-pays-off-all-season-walk-th/1842814051182837/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Radiantsecurity note 社長",
+   "results": [
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://x.com/sadaaki",
+    "https://www.linkedin.com/company/radiantsecurity-ai",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "http://www.radiantsecurity.ai/",
+    "https://note.com/sadaaki",
+    "https://awards.thehackernews.com/winners/2026/radiant-secutiy-ai-soc-platform/",
+    "https://www.cybersecuritytribe.com/cyber-security-announcements/radiant-security-unveils-the-first-adaptive-ai-soc-platform",
+    "https://d3security.com/blog/cribl-acquires-radiant-security-ai-soc/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Radiantsecurity X 投稿",
+   "results": [
+    "https://www.linkedin.com/company/radiantsecurity-ai",
+    "http://www.radiantsecurity.ai/",
+    "https://x.com/Radiant_Sec",
+    "https://www.cybersecuritytribe.com/cyber-security-announcements/radiant-security-unveils-the-first-adaptive-ai-soc-platform",
+    "https://awards.thehackernews.com/winners/2026/radiant-secutiy-ai-soc-platform/",
+    "https://remote.com/jobs/radiantsecurity-c1xvgqx2",
+    "https://www.cybersecurity-insiders.com/radiant-security-gen-ai-soc-co-pilot/",
+    "https://www.cyberdefensemagazine.com/publishers-spotlight-radiant-security-your-ai-powered-soc-co-pilot/",
+    "https://x.com/RadiantSecurity",
+    "https://x.com/RadiantSecurity/with_replies"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）",
+  "製造業の実績": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部35頁・検索12回）"
+ }
+}

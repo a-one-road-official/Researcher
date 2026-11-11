@@ -1,0 +1,812 @@
+{
+ "name": "有限会社ミッド",
+ "aliases": [],
+ "context": "ipros_all:小ロット",
+ "researched_at": "2026-11-11T11:33:47.695987+00:00",
+ "official_url": "https://mid-sanjo.com",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表者名",
+    "value": "代表取締役社長 荻根澤　優之",
+    "url": "https://mid-sanjo.com/company/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒955-0036 新潟県三条市篭場5-10",
+    "url": "https://mid-sanjo.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒955-0036 新潟県三条市篭場5-10 TEL: 0256-38-2688 FAX: 0256-38-2689",
+    "url": "https://mid-sanjo.com/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "35名",
+    "url": "https://mid-sanjo.com/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "プラスチック射出成形加工・組立 / ウォータージェット切断加工 / 各種組み立て加工・梱包",
+    "url": "https://mid-sanjo.com/company/",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "取引先銀行",
+    "value": "三条信用金庫大崎支店 第四北越銀行三条中央支店",
+    "url": "https://mid-sanjo.com/company/",
+    "pass": 1
+   }
+  ],
+  "拠点": [
+   {
+    "label": "組み立て課工場直通",
+    "value": "TEL: 0256-47-4677 FAX: 0256-47-4678",
+    "url": "https://mid-sanjo.com/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "連絡先": [
+   {
+    "quote": "サンプルカット依頼・見積り依頼・求人のお問い合わせなどはこちら",
+    "url": "https://mid-sanjo.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ご 応 募 後 は、 TEL ／ メールいずれかの 方 法 で 折 り 返 しのご 連 絡 をいたします",
+    "url": "https://mid-sanjo.com/wp-content/uploads/2024/06/Recruit-%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%83%E3%83%89.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "CONTACT - お問い合わせ | MID JAPAN-株式会社ミッドジャパン",
+    "url": "https://midjapan.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "本フォームからお客様が記入・登録された個人情報は、電子メール送信・電話連絡などの目的で利用・保管します",
+    "url": "https://midjapan.co.jp/contact/",
+    "pass": 3
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "頭の中にあるぼやっとしたイメージを、設計、製造、組​み立て、製品へとカタチにしてご提供します",
+    "url": "https://mid-sanjo.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "MADE IN ​NIIGATAの製品として品質・制度にこだわり且つ多品種小ロッ​トにも対応いたします",
+    "url": "https://mid-sanjo.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "また、この間に市場やお客様の生産技術は大きく進歩し必要とされる製品も品質も変わってきておりますが、",
+    "url": "https://mid-sanjo.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "そして、お客様にご満足いただけるような製品づくりに一生懸命取り組んでまいります",
+    "url": "https://mid-sanjo.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "現在、生産されている製品に反映されています｡",
+    "url": "https://mid-sanjo.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "そして､製品設計から仕上､組立て、発送までの一貫体制を基本とし、",
+    "url": "https://mid-sanjo.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は主にプラスチック製品の射出成形加工を行っています",
+    "url": "https://mid-sanjo.com/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "またスタイリッシュなデザインと職人技が融合したインテリア製品のオリジナルブランド『ノフュレ』にも力を注ぎ国内外より注目​を集めています",
+    "url": "https://mid-sanjo.com/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "こんな製品をつくりたいけど、材質はどうすればいい？",
+    "url": "https://mid-sanjo.com/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "出荷される全製品に対し、検査項目に基づいて確認、チェック、測定を行っております",
+    "url": "https://mid-sanjo.com/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "出荷待ちの製品、仕掛品、梱包資材、お客様からの支給部材などを保管する為、24時間空調での温度管理を行っております",
+    "url": "https://mid-sanjo.com/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "製品完成時に元デザインに近い状態にするため、",
+    "url": "https://mid-sanjo.com/wabi-akari/",
+    "pass": 1
+   },
+   {
+    "quote": "その後、製品の形状に割り付けします",
+    "url": "https://mid-sanjo.com/wabi-akari/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に傷がつかないように丁寧にマスキングシートをはがし、",
+    "url": "https://mid-sanjo.com/wabi-akari/",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "MADE IN ​NIIGATAの製品として品質・制度にこだわり且つ多品種小ロッ​トにも対応いたします",
+    "url": "https://mid-sanjo.com/company/",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "光通信接続機器部品や半導体製造設備部品、近年では医療用部品の生産が行われており、",
+    "url": "https://mid-sanjo.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "近年は半導体製造装置部品や医療用品部品また光通信設備関連部品の生産も行っており、要求される高度な生産技術と徹底した生産​管理のもと品質維持に努めています",
+    "url": "https://mid-sanjo.com/technology/",
+    "pass": 1
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "こんな製品をつくりたいけど、材質はどうすればいい？",
+    "url": "https://mid-sanjo.com/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "※一つ一つ手作業のため、サイズ・材質などが異なる場合があります",
+    "url": "https://mid-sanjo.com/wabi-akari/",
+    "pass": 1
+   },
+   {
+    "quote": "陶器・セラミックの曲線的なフラワーベースやオブジェを1点置くだけで空間のトーンが変わります",
+    "url": "https://note.com/interior_note_jp/n/nacfc7fded248",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "3Dプリンタ",
+    "url": "https://mid-sanjo.com/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター",
+    "url": "https://mid-sanjo.com/technology/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 - 株式会社ミッドアルファ — 社名 株式会社ミッドアルファ 代表者 岡田 俊勝 本社所在地 〒530-0001 大阪市北区梅田1-11-4-900 大阪駅前第4ビル9階6号 →アクセス TEL 06-6348-3777 FAX 06-6348-5333 設立 1996年4月16日 資本金 1,000万円 従業員数 251名（平成29年3月31日現在） 事業内容 人材アウトソーシング",
+    "url": "https://www.mid-a.co.jp/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 株式会社ミッドアルファABOUT US | ミッドホールディングス株式会社会社情報 - 株式会社エムアイディ会社概要 | MID JAPAN (エム・アイ・ディジャパン)コーポレートサイト — 会社概要 ... 沿革 ... 人材を お探しの 企業様へ To companies looking for talent 様々な作業ニーズに対応 弊社では人材をお探しの企業さまに対し、独自のノウハウによるスタッフ教育，訓練の実施を行い、現場主義に徹した管理・運営システムを実現。 岩手大学人文社会科学部卒業後、株式会社岩手銀行入行。 2007年情報開発室長に就任。 その後複数の部門長を務めた後、2012年株式会社岩手銀行執行役員に就任。 2015年4月いわぎん事業創造キャピタル株式会社代表取締役に就任。 2024年退任後、同社顧問。 代表 中塚輝夫 売上高 売上高：303億円（令和7年",
+    "url": "https://www.mid-a.co.jp/2company/",
+    "pass": 3
+   },
+   {
+    "quote": "ABOUT US | ミッドホールディングス株式会社会社情報 - 株式会社エムアイディ会社概要 | MID JAPAN (エム・アイ・ディジャパン)コーポレートサイト — 岩手大学人文社会科学部卒業後、株式会社岩手銀行入行。 2007年情報開発室長に就任。 その後複数の部門長を務めた後、2012年株式会社岩手銀行執行役員に就任。 2015年4月いわぎん事業創造キャピタル株式会社代表取締役に就任。 2024年退任後、同社顧問。 代表 中塚輝夫 売上高 売上高：303億円（令和7年12月決算） 社員数 167名（令和8年2月） 事業所 福岡、関東、臨海、東京、名古屋、京都、大阪、神戸、阪神、姫路、和歌山、岡山、沖縄、福山 事業内容 医療機器、医療用消耗品、コンピュータシステム販売 ... MID JAPAN (エム・アイ・ディジャパン)はパチンコ店を中心に、飲食店、ゲームセンター、 コンビニエ",
+    "url": "https://mid-holdings.co.jp/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "CONTACT - お問い合わせ | MID JAPAN-株式会社ミッドジャパン — Webサイト制作やシステム構築、その他ご依頼・ご相談は、下記フォームより必須項目をご入力の上お問い合わせください。 送付いただいた内容を確認の上、後日担当者から改めてご連絡させていただきます。",
+    "url": "https://midjapan.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | ミッドマップ東京 — お問い合わせ 問合せ窓口（コールセンター）及び申請書の受付 E-mail： midmap@midmap-t.co.jp 〒153-0064 東京都目黒区下目黒1-7-1 TEL：03-5435-3698 FAX：03-5435-3699 受付時間 午前9時～正午、午後1時～午後5時（土・日・祝日・年末年始期間を除く）",
+    "url": "https://www.midmap-t.co.jp/contact/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "Contact | 有限会社ミッド — Contact メールでのお問合せをご希望の方は下記のフォームに必要事項をご入力の上、送信してください。 お送りいただきました内容を確認させて頂き、ご返答させて頂きます。",
+    "url": "https://mid-sanjo.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問合せ - 株式会社MID（ミッド） — 生命保険や損害保険、資産運用、企業リスクマネジメントについてお悩みでしたらお気軽にご相談ください。 個人様から法人様までご納得いくまでしっかりサポートいたします。",
+    "url": "https://ag-mid.jp/contact/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【LOL】初心者向けMIDガイド｜ElleairMidレーンのすゝめ｜GRAVE - note（ノート）第四章：プロット構成テンプレート - 異世界ファンタジーのテンプレー...【LoL歴15年】 ミッドの役割、レーンで負けない重要性2026年、ミッドセンチュリーモダンが再び熱い理由と・はじめ方完全ガ...2025年シーズン14パッチノート 25.S1.2オススメチャンプ MID編【LoL初心者向けステップアップ講座】STEP41 TOP･MIDレーナーの中盤... Mar 15, 2024 · はじめに MIDに行くことになったが目標がわかりづらい、対面をキルできない時の動きがわからない。 そういった人のために簡単にですがMIDとしての行動目標を簡単にまとめておきます。 この記事を足掛けにMIDとしての理解を少しずつ深めていきましょう。 MIDでソロキル出来ない時の勝ちへの ... Ja",
+    "url": "https://note.com/elleair104/n/n547b99e07268",
+    "pass": 3
+   },
+   {
+    "quote": "【LoL歴15年】 ミッドの役割、レーンで負けない重要性 Jun 9, 2025 · ミッドプレイでは、勝ってる試合、負けてる試合ともに少数戦に関わることが多いため、試合を有利に運ぶためには 敵をキャッチできるスキルを1つもっているミッドチャンプを選ぶのが、ゲームに勝つ方法の近道 と言えるでしょう。",
+    "url": "https://note.com/microcat_ganbaru/n/nfd72a615db0b",
+    "pass": 3
+   },
+   {
+    "quote": "2026年、ミッドセンチュリーモダンが再び熱い理由と・はじめ方完全ガ... Aug 8, 2026 · ミッドセンチュリーモダン 一度はブームが落ち着いたように見えたこのスタイルが、2026年にまた存在感を増しています。 なぜ今また流行っているのか、どうやって取り入れればいいのかを徹底解説します。",
+    "url": "https://note.com/interior_note_jp/n/nacfc7fded248",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【LoL歴15年】 ミッドの役割、レーンで負けない重要性 ｜しあん",
+    "url": "https://note.com/microcat_ganbaru/n/nfd72a615db0b",
+    "pass": 3
+   },
+   {
+    "quote": "【LoL歴15年】 ミッドの役割、レーンで負けない重要性",
+    "url": "https://note.com/microcat_ganbaru/n/nfd72a615db0b",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは、LoL歴15年老人プレイヤーしあんです。",
+    "url": "https://note.com/microcat_ganbaru/n/nfd72a615db0b",
+    "pass": 3
+   },
+   {
+    "quote": "前回に引き続き、今シーズンに向けた目標設定と環境の整理、そして自分自身のプレイ課題についです。その一環で",
+    "url": "https://note.com/microcat_ganbaru/n/nfd72a615db0b",
+    "pass": 3
+   },
+   {
+    "quote": "すでに色々とまとめられてる記事がありますが、私のおさらい用として再度ミッドプレイヤーからみたゲーム全体を独断と偏見で分析していきます。",
+    "url": "https://note.com/microcat_ganbaru/n/nfd72a615db0b",
+    "pass": 3
+   },
+   {
+    "quote": "書いていて場合分けのパターンが多すぎて書き切れないと思いましたのでなるべくシンプルにまとめていきます。",
+    "url": "https://note.com/microcat_ganbaru/n/nfd72a615db0b",
+    "pass": 3
+   },
+   {
+    "quote": "ゴールドからエメラルドまでの勝ち方は一貫して、主に",
+    "url": "https://note.com/microcat_ganbaru/n/nfd72a615db0b",
+    "pass": 3
+   },
+   {
+    "quote": "ミッドレーンをしていくうえでメリットデメリットをおさらいします。",
+    "url": "https://note.com/microcat_ganbaru/n/nfd72a615db0b",
+    "pass": 3
+   },
+   {
+    "quote": "2026年、ミッドセンチュリーモダンが再び熱い理由と・はじめ方完全ガイド｜インテリアノート",
+    "url": "https://note.com/interior_note_jp/n/nacfc7fded248",
+    "pass": 3
+   },
+   {
+    "quote": "2026年、ミッドセンチュリーモダンが再び熱い理由と・はじめ方完全ガイド",
+    "url": "https://note.com/interior_note_jp/n/nacfc7fded248",
+    "pass": 3
+   },
+   {
+    "quote": "一度はブームが落ち着いたように見えたこのスタイルが、2026年にまた存在感を増しています。なぜ今また流行っているのか、どうやって取り入れればいいのかを徹底解説します。",
+    "url": "https://note.com/interior_note_jp/n/nacfc7fded248",
+    "pass": 3
+   },
+   {
+    "quote": "ミッドセンチュリーとは「20世紀の中頃」を意味します。具体的には1940〜60年代のアメリカを中心に生まれたデザインムーブメントです。",
+    "url": "https://note.com/interior_note_jp/n/nacfc7fded248",
+    "pass": 3
+   },
+   {
+    "quote": "第二次世界大戦後の高度成長期に、プラスチック・合板・アルミなどの新素材と工業技術が急速に発展しました。この時代のデザイナーたちは「美しくて機能的な家具を大量生産で一般家庭に届けたい」という理念のもと、革新的なプロダクトを次々と生み出しました。",
+    "url": "https://note.com/interior_note_jp/n/nacfc7fded248",
+    "pass": 3
+   },
+   {
+    "quote": "これまで直線的な家具が多かった時代に登場したミッドセンチュリーは、人々にたくさんの驚きと感動を与えました。",
+    "url": "https://note.com/interior_note_jp/n/nacfc7fded248",
+    "pass": 3
+   },
+   {
+    "quote": "その結果生まれたのが、有機的な曲線・ポップなカラー・機能美を兼ね備えた唯一無二のスタイルです。",
+    "url": "https://note.com/interior_note_jp/n/nacfc7fded248",
+    "pass": 3
+   },
+   {
+    "quote": "2026年のインテリアはミニマリズムの枠を超え、より豊かで温かみがあり、個性が感じられる住まいづくりへと進化しています。シンプルすぎる部屋への飽きが、個性的なミッドセンチュリーへの関心を高めています。",
+    "url": "https://note.com/interior_note_jp/n/nacfc7fded248",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ミッド・インターナショナル【公式】｜MIDinternational 岐阜 since 1... ミッドをご利用いただきましてありがとうございます！ ！ そして、おめでとうございます😍 喜んでいただけて良かったです🩶 ぜひ、今後もミッドのサイトに遊びにきてくださいね～😆",
+    "url": "https://x.com/mid_bigsize",
+    "pass": 3
+   },
+   {
+    "quote": "なおき@ミッドガーデン堀之内店 (@midgirls_naoki) / X 明日ミッドガーデン堀之内店に 【覚醒てぇんださん】来店なのに 喉風邪引いてしまった😟 アルコール消毒が裏目に出てしまった😟 久々のてぇんださんに会えるの楽しみだなー🥹 ️ てぇんださんに会いにきてにぇ☺️👍🏻！",
+    "url": "https://x.com/midgirls_naoki",
+    "pass": 3
+   },
+   {
+    "quote": "ミッドダイニング (@cafe_mid) / X 今週の平日ランチメニューです！ 都合により、サラダランチはお休みとなります🙇 LUNCH 11:30〜15:00 ご来店お待ちしております😊 #ミッドダイニング #カフェ #ランチ #代々木八幡",
+    "url": "https://x.com/cafe_mid",
+    "pass": 3
+   },
+   {
+    "quote": "ミッドリバー (@MIDRiverDRKW) / X ミッドリバー @MIDRiverDRKW 48m 3年前のVALORANTイベントでもバナーお揃いにしたいろはス #laplus_great #かざま修行中 x.com/kazamairohach",
+    "url": "https://x.com/MIDRiverDRKW",
+    "pass": 3
+   },
+   {
+    "quote": "なおき@ミッドガーデン堀之内店 (@midgirls_naoki) / X Mar 2, 2021 · 明日ミッドガーデン堀之内店に 【覚醒てぇんださん】来店なのに 喉風邪引いてしまった😟 アルコール消毒が裏目に出てしまった😟 久々のてぇんださんに会えるの楽しみだなー🥹 ️ てぇんださんに会いにきてにぇ☺️👍🏻！",
+    "url": "https://x.com/midgirls_naoki",
+    "pass": 3
+   },
+   {
+    "quote": "深海ミッドㅣLive2D&Illust on X: \"˗ˏˋ 動画投稿報告 ˊˎ˗ 先日お披露目... Sep 11, 2026 · 深海ミッドㅣLive2D&Illust on X: \"˗ˏˋ 🌟動画投稿報告🌟 ˊˎ˗ 先日お披露目したぬいモデルのメイキング動画をYouTuberにて公開しました！ 🪸👶 イラストからモデリングまで制作時間 約18時間！",
+    "url": "https://x.com/Shinkai_Mid/status/2098421638073356718",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "俵 剛 - Box - ミッドマーケット営業マネージャー | LinkedIn Box - ミッドマーケット営業マネージャー · Worked for Microsoft Japan over 11 years, experienced Account Executive of the corporate customer from mid/small to large size. Good at build a great relationship with...",
+    "url": "https://jp.linkedin.com/in/剛-俵-06223232",
+    "pass": 3
+   },
+   {
+    "quote": "Morgan Thomas - Narvar | LinkedInJP: 新規プロジェクト 大手クラウド企業 ミッドマーケットB2Bクラウド...Datadogジャパンのミッドマーケットチーム、万全の体制でこれから躍進...Michael Cole - -- | LinkedInシニアアカウントエグゼクティブ｜AIプロダクト群を束ねるマルチセリ...Magadi Moeletsi - Dariel | LinkedIn Experience: Narvar · Education: University of California, Los Angeles · Location: Brooklyn · 500+ connections on LinkedIn. View Morgan Thomas’ profile on LinkedIn, a professional community",
+    "url": "https://www.linkedin.com/in/morganthomasnarvar",
+    "pass": 3
+   },
+   {
+    "quote": "JP: 新規プロジェクト 大手クラウド企業 ミッドマーケットB2Bクラウド... シニアセールスと連携しながら役割分担し、主にミッドマーケット顧客を対象に、データドリブンかつパートナーファーストな営業活動をお任せいたします。 【具体的には】 商談におけるプロジェクトマネージャーとしての全体統括",
+    "url": "https://jp.linkedin.com/jobs/view/jp-新規プロジェクト-大手クラウド企業-ミッドマーケットb2bクラウドセールス職　-cloud-sales-japanese-speaking-japan-at-concentrix-4361199590",
+    "pass": 3
+   },
+   {
+    "quote": "Datadogジャパンのミッドマーケットチーム、万全の体制でこれから躍進... Below is a rendering of the page up to the first error. Datadogジャパンのミッドマーケットチーム、万全の体制でこれから躍進していきます！",
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7255467481857720320/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "MID international - Facebookミッド・インターナショナル株式会社 | Tokushima-shi TokushimaFacebook - log in or sign up\\MID 30th ANNIVERSARY / 1996年から、30年 ... - FacebookMedium The Brand - Facebookミッドメディア有限会社 [Midmedia, Inc.] - Facebookミッドフォーグループ/Midfour Group | Yamaguchi-shi Yamaguchi MID international. 2,324 followers · 38 talking about this. 大きいサイズのメンズ服専門通販ショップミッド・インターナショナル。 2L以上のビッグサイズしかありません。 大きいサイズのインポート商品も充実！ S",
+    "url": "https://www.facebook.com/midinternational/",
+    "pass": 3
+   },
+   {
+    "quote": "ミッド・インターナショナル株式会社 | Tokushima-shi TokushimaFacebook - log in or sign up\\MID 30th ANNIVERSARY / 1996年から、30年 ... - FacebookMedium The Brand - Facebookミッドメディア有限会社 [Midmedia, Inc.] - Facebookミッドフォーグループ/Midfour Group | Yamaguchi-shi Yamaguchi Oct 3, 2023 · ミッド・インターナショナル株式会社, Tokushima-shi. 171 likes · 376 were here. スマホ堂運営及びFC展開、りんご堂運営、海外輸入業及び卸売を主な業務 Connect with friends and the world around you on Fac",
+    "url": "https://www.facebook.com/mid.international.inc/",
+    "pass": 3
+   },
+   {
+    "quote": "\\MID 30th ANNIVERSARY / 1996年から、30年 ... - Facebook 🚢 ミッドと出会い、支えてくださったすべての皆さま、本 当にありがとうございます！ これまでいただいた「ありがとう」をこれからの「ワク ワク」に。 🎊 30周年の感謝を込めた特設ページを公開中！",
+    "url": "https://www.facebook.com/midinternational/videos/mid-30th-anniversary-1996年から30年全国どこでも大きいサイズの洋服を必要としている方へ商品を届けたいそんな想いを胸に帆を上げ世界中の大/1425864742447961/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://mid-sanjo.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mid-sanjo.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mid-sanjo.com/technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mid-sanjo.com/nfile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mid-sanjo.com/wabi-akari/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://mid-sanjo.com/wp-content/uploads/2024/06/Company-%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%83%E3%83%89.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://mid-sanjo.com/wp-content/uploads/2024/06/Own-Brand-Products-%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%83%E3%83%89.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://mid-sanjo.com/wp-content/uploads/2024/06/%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%83%E3%83%89.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://mid-sanjo.com/wp-content/uploads/2024/06/Technology-%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%83%E3%83%89.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://mid-sanjo.com/wp-content/uploads/2024/06/WABI-AKARI-%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%83%E3%83%89.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://mid-sanjo.com/wp-content/uploads/2024/06/Recruit-%E6%9C%89%E9%99%90%E4%BC%9A%E7%A4%BE%E3%83%9F%E3%83%83%E3%83%89.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://mid-sanjo.com/wp-content/themes/sajikiya/img/nfile-product.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://mid-sanjo.com/wp-content/themes/sajikiya/img/product-ku-urushi.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://mid-sanjo.com/wp-content/themes/sajikiya/img/product-ku-w.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://mid-sanjo.com/wp-content/themes/sajikiya/img/product-morpho-cobalt.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://mid-sanjo.com/wp-content/themes/sajikiya/img/product-morpho-g-orange.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://mid-sanjo.com/wp-content/themes/sajikiya/img/product-g-tellus-ruri.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://mid-sanjo.com/wp-content/themes/sajikiya/img/product-g-tellus-akane.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://mid-sanjo.com/wp-content/themes/sajikiya/img/product-g-tellus-carbon.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://mid-sanjo.com/wp-content/themes/sajikiya/img/product-noir-g-carbon.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://mid-sanjo.com/wp-content/themes/sajikiya/img/product-morpho-clouds-g-orange.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://mid-sanjo.com/wp-content/themes/sajikiya/img/product-tumbler.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://mid-sanjo.com/wp-content/themes/sajikiya/img/product-stool.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://newji.ai/procurement-purchasing/manufacturing-methods-and-considerations-for-small-batch-prototyping/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rapiddirect.com/ja/blog/small-batch-manufacturing-overcoming-moq-and-sourcing-challenges/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://san-kk.co.jp/technical/item/test/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mid-alfa-holdings.co.jp/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mid-a.co.jp/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mid-a.co.jp/2company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bigsize.co.jp/support.php",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://midjapan.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.midmap-t.co.jp/contact/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/elleair104/n/n547b99e07268",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/microcat_ganbaru/n/nfd72a615db0b",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/interior_note_jp/n/nacfc7fded248",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/mid_bigsize",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/midgirls_naoki",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/cafe_mid",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/MIDRiverDRKW",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/剛-俵-06223232",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/morganthomasnarvar",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/jobs/view/jp-新規プロジェクト-大手クラウド企業-ミッドマーケットb2bクラウドセールス職　-cloud-sales-japanese-speaking-japan-at-concentrix-4361199590",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7255467481857720320/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/midinternational/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/mid.international.inc/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/midinternational/videos/mid-30th-anniversary-1996年から30年全国どこでも大きいサイズの洋服を必要としている方へ商品を届けたいそんな想いを胸に帆を上げ世界中の大/1425864742447961/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/midgirls_naoki",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Shinkai_Mid/status/2098421638073356718",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ミッド 取扱製品 試作 小ロット",
+   "results": [
+    "https://newji.ai/procurement-purchasing/manufacturing-methods-and-considerations-for-small-batch-prototyping/",
+    "https://www.rapiddirect.com/ja/blog/small-batch-manufacturing-overcoming-moq-and-sourcing-challenges/",
+    "https://san-kk.co.jp/technical/item/test/",
+    "https://www.anazawa.co.jp/2026/07/20/small-lot/",
+    "https://www.u-topia.co.jp/products/low-volume-series.html",
+    "https://www.n-bareru.co.jp/2026/09/16/prototype-small-lot-plating-guide/",
+    "https://asiaplanning.com/machining/column/column-4733/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ミッド 会社概要 事業内容",
+   "results": [
+    "https://mid-alfa-holdings.co.jp/company/outline/",
+    "https://www.mid-a.co.jp/company.html",
+    "https://www.mid-a.co.jp/2company/",
+    "https://mid-holdings.co.jp/about-us/",
+    "https://www.mid-japan.co.jp/company/",
+    "https://www.midinfo.co.jp/company/",
+    "https://mid-group.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ミッド お問い合わせ メール",
+   "results": [
+    "https://www.bigsize.co.jp/support.php",
+    "https://midjapan.co.jp/contact/",
+    "https://www.midmap-t.co.jp/contact/index.html",
+    "https://mid-sanjo.com/contact/",
+    "https://ag-mid.jp/contact/",
+    "https://midkurume.com/contact/",
+    "https://www.mid-ad.jp/inquiry/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com ミッド",
+   "results": [
+    "https://note.com/elleair104/n/n547b99e07268",
+    "https://note.com/microcat_ganbaru/n/nfd72a615db0b",
+    "https://note.com/interior_note_jp/n/nacfc7fded248",
+    "https://note.com/graveyrd_/n/nd01542721ba5",
+    "https://note.com/kyoju12/n/n08145531ec34",
+    "https://note.com/futugu/n/n8aace4146ca4",
+    "https://tales.note.com/platypus2000jp/w7e3ldx4gxeoh/episodes/e2o0p1kror63z"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com ミッド",
+   "results": [
+    "https://x.com/mid_bigsize",
+    "https://x.com/midgirls_naoki",
+    "https://x.com/cafe_mid",
+    "https://x.com/MIDRiverDRKW",
+    "https://x.com/midgirls_mai",
+    "https://x.com/midnightbet",
+    "https://x.com/lvcupq"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com ミッド",
+   "results": [
+    "https://jp.linkedin.com/in/剛-俵-06223232",
+    "https://www.linkedin.com/in/morganthomasnarvar",
+    "https://jp.linkedin.com/jobs/view/jp-新規プロジェクト-大手クラウド企業-ミッドマーケットb2bクラウドセールス職　-cloud-sales-japanese-speaking-japan-at-concentrix-4361199590",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7255467481857720320/",
+    "https://uk.linkedin.com/in/michael-cole-6b6965369",
+    "https://za.linkedin.com/in/magadi-moeletsi-1463a8232",
+    "https://aq.linkedin.com/jobs/view/シニアアカウントエグゼクティブ｜aiプロダクト群を束ねるマルチセリング-at-株式会社マツリカ-mazrica-inc-4439094644"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com ミッド",
+   "results": [
+    "https://www.facebook.com/midinternational/",
+    "https://www.facebook.com/mid.international.inc/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/midinternational/videos/mid-30th-anniversary-1996年から30年全国どこでも大きいサイズの洋服を必要としている方へ商品を届けたいそんな想いを胸に帆を上げ世界中の大/1425864742447961/",
+    "https://www.facebook.com/mediumthebrand/",
+    "https://www.facebook.com/midmedia.inc/",
+    "https://www.facebook.com/MidfourGroup/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ミッド note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://www.ch-files.net/note/",
+    "https://medicalnote.co.jp/posts/407A52Wp"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ミッド X 投稿",
+   "results": [
+    "https://x.com/midgirls_naoki",
+    "https://x.com/Shinkai_Mid/status/2098421638073356718",
+    "https://help.x.com/ja/using-x/edit-post",
+    "https://help.x.com/ja/using-x/media-studio",
+    "https://addness.co.jp/media/twitter-video-posting/",
+    "https://tweetan.net/x-4k-high-quality-upload/",
+    "https://note.com/aoashi_xlab/n/n4eba2bcad559"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像18件／外部25頁・検索9回）"
+ }
+}

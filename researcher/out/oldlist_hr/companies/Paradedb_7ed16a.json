@@ -1,0 +1,1239 @@
+{
+ "name": "Paradedb",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-11T11:02:44.634312+00:00",
+ "official_url": "https://paradedb.com",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "2. Seed Round",
+    "value": "01-Aug-2023 $2.05M $2.55M  Completed Startup",
+    "url": "https://pitchbook.com/profiles/company/534519-73",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "ParadeDB Cloud is now available in private preview",
+    "url": "https://www.paradedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "typo tolerance, highlighting, phrase, fuzzy, proximity, and regex queries.",
+    "url": "https://www.paradedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "open-source database, proven in production at every scale.",
+    "url": "https://www.paradedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "No sidecar process, no external cluster — just a native index on your tables.",
+    "url": "https://www.paradedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by enterprises.",
+    "url": "https://www.paradedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Built on the solid foundation of Postgres, ParadeDB provides the good parts of Elasticsearch we actually need, without the infrastructure and hassle of data synchronization.”",
+    "url": "https://www.paradedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Using ParadeDB has unlocked the ability to rapidly launch new search capabilities across our products — something that previously would have taken weeks of effort.”",
+    "url": "https://www.paradedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Product Manager, Alibaba",
+    "url": "https://www.paradedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ParadeDB is one of the fastest-growing database projects.",
+    "url": "https://www.paradedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Perfect for testing and small projects that don't require multiple nodes.",
+    "url": "https://www.paradedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Everything in Enterprise",
+    "url": "https://www.paradedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How SuperScan migrated from Neon to ParadeDB Cloud after Neon announced the deprecation of pg_search, preserving its Postgres schema and existing queries.",
+    "url": "https://www.paradedb.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Apr 21, 2026",
+    "url": "https://www.paradedb.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Cofactr replaced MongoDB Atlas Search with ParadeDB to unify its search and primary data stores on Postgres in AWS GovCloud.",
+    "url": "https://www.paradedb.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Bilt improved their Postgres performance with ParadeDB, reducing query timeouts by 95%.",
+    "url": "https://www.paradedb.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Built on the solid foundation of Postgres, ParadeDB provides the good",
+    "url": "https://www.paradedb.com/customers/moderntreasury",
+    "pass": 1
+   },
+   {
+    "quote": "generalize well to workloads that combine many filters with flexible sorting.",
+    "url": "https://www.paradedb.com/customers/moderntreasury",
+    "pass": 1
+   },
+   {
+    "quote": "The result was a long tail of edge-case query timeouts. Approximately 5% of queries failed entirely due to unoptimized query plans, and the engineering team was stuck in a reactive cycle of adding indexes to patch individual failures.",
+    "url": "https://www.paradedb.com/customers/moderntreasury",
+    "pass": 1
+   },
+   {
+    "quote": "Modern Treasury deployed ParadeDB as a logical replica of their primary Postgres across 7 clusters. This meant the team could leverage its existing Postgres knowledge and infrastructure. No new data pipelines, no sync jobs, and no new query language. Implementation required only minor adjustments to existing SQL queries.",
+    "url": "https://www.paradedb.com/customers/moderntreasury",
+    "pass": 1
+   },
+   {
+    "quote": "improved our write throughput and simplified our operational overhead.",
+    "url": "https://www.paradedb.com/customers/moderntreasury",
+    "pass": 1
+   },
+   {
+    "quote": "ParadeDB resolved an entire class of edge-case query timeouts for Modern Treasury. The team no longer needs to think about the many permutations of query plans that previously caused failures. The 5% of queries that previously timed out are now subsecond.",
+    "url": "https://www.paradedb.com/customers/moderntreasury",
+    "pass": 1
+   },
+   {
+    "quote": "ParadeDB's performance on counting and summing operations enabled Modern Treasury to add real-time counts and aggregations to user interfaces that previously could not support them. The platform now powers grouped aggregations and transaction-to-payment reconciliation workflows that were previously too expensive to run inline.",
+    "url": "https://www.paradedb.com/customers/moderntreasury",
+    "pass": 1
+   },
+   {
+    "quote": "Modern Treasury now uses ParadeDB across its payments, transactions, and ledger products, servicing both customer-facing search APIs and internal analytic processes.",
+    "url": "https://www.paradedb.com/customers/moderntreasury",
+    "pass": 1
+   },
+   {
+    "quote": "Bilt Rewards deployed ParadeDB as a logical replica of their primary Postgres,",
+    "url": "https://www.paradedb.com/customers/bilt",
+    "pass": 1
+   },
+   {
+    "quote": "queries, improving accuracy and reducing query timeouts by 95%.",
+    "url": "https://www.paradedb.com/customers/bilt",
+    "pass": 1
+   },
+   {
+    "quote": "Bilt is the housing and neighborhood commerce network that turns everyday housing and neighborhood spend into valuable rewards and benefits. It’s the first program that lets members earn rewards on rent and HOA payments while helping them build a path to homeownership. As of December 2024, Bilt was processing over $36 billion in annual rent and HOA payments.",
+    "url": "https://www.paradedb.com/customers/bilt",
+    "pass": 1
+   },
+   {
+    "quote": "This all-in-one platform enables property managers to monitor resident and payment information across all lease units,",
+    "url": "https://www.paradedb.com/customers/bilt",
+    "pass": 1
+   },
+   {
+    "quote": "manage loyalty incentive programs, and streamline rent payments.",
+    "url": "https://www.paradedb.com/customers/bilt",
+    "pass": 1
+   },
+   {
+    "quote": "The platform’s original search functionality — built on Postgres — was lackluster and prevented Bilt from delivering a premium user experience.",
+    "url": "https://www.paradedb.com/customers/bilt",
+    "pass": 1
+   },
+   {
+    "quote": "The first problem was accuracy of search results. Postgres' limited tokenizers and query types meant that users often couldn’t find what they were looking for. Bilt's system relied on exact token matching that compared the hashed values of the query with the hashed, underlying text data. Bilt also tried Postgres' built-in trigram index, which improved results but remained unsatisfactory.",
+    "url": "https://www.paradedb.com/customers/bilt",
+    "pass": 1
+   },
+   {
+    "quote": "s were especially time-intensive. As a stopgap solution, Bilt prohibited engineers from joining across schemas in a single query. Instead, the system orchestrated multiple separate API calls and combined their results on the client side — a workaround which created a tangled mess of spaghetti code.",
+    "url": "https://www.paradedb.com/customers/bilt",
+    "pass": 1
+   },
+   {
+    "quote": ", and other clauses. ParadeDB outperformed Bilt's vanilla Postgres setup, which handles these clauses as separate post-processing steps.",
+    "url": "https://www.paradedb.com/customers/bilt",
+    "pass": 1
+   },
+   {
+    "quote": "Search accuracy also improved, thanks to ParadeDB’s built-in support for fuzzy matching. The results were especially noticeable in Bilt's \"property reviews\" page,",
+    "url": "https://www.paradedb.com/customers/bilt",
+    "pass": 1
+   },
+   {
+    "quote": "which implements fuzzy search over property and property manager information.",
+    "url": "https://www.paradedb.com/customers/bilt",
+    "pass": 1
+   },
+   {
+    "quote": "capabilities across our products—something that previously would have",
+    "url": "https://www.paradedb.com/customers/bilt",
+    "pass": 1
+   },
+   {
+    "quote": "Bilt chose ParadeDB because it required the least amount of infrastructure changes and engineering effort to unlock these search functionalities. Unlike any other search database, syncing a primary Postgres with ParadeDB requires almost zero operational effort. This is because ParadeDB can use Postgres’ built-in",
+    "url": "https://www.paradedb.com/customers/bilt",
+    "pass": 1
+   },
+   {
+    "quote": "to ingest data from the primary Postgres.",
+    "url": "https://www.paradedb.com/customers/bilt",
+    "pass": 1
+   },
+   {
+    "quote": "ParadeDB also enabled Bilt to leverage its existing Postgres knowledge and deploy within its cloud provider, GCP. Implementation required only minor adjustments to existing Postgres search queries, which saved weeks of engineering effort compared to migrating the query logic to an alternate solution.",
+    "url": "https://www.paradedb.com/customers/bilt",
+    "pass": 1
+   },
+   {
+    "quote": "In Bilt’s Resident Loyalty Portal — where property managers can search for resident, payment, and unit identifiers — query timeouts dropped by 95% and P95 query latency fell by 50%. At the same time, Bilt was able to move the most expensive queries out of their primary Postgres and into ParadeDB.",
+    "url": "https://www.paradedb.com/customers/bilt",
+    "pass": 1
+   },
+   {
+    "quote": "Ultimately, ParadeDB's robust, performant architecture has enabled Bilt to rapidly launch new search capabilities across its suite of products. Bilt’s success story demonstrates why platforms built on Postgres demand a Postgres-native search solution.",
+    "url": "https://www.paradedb.com/customers/bilt",
+    "pass": 1
+   },
+   {
+    "quote": "Alibaba Cloud is the cloud computing arm of Chinese tech giant Alibaba Group and is the largest Asia Pacific cloud provider.",
+    "url": "https://www.paradedb.com/customers/alibaba",
+    "pass": 1
+   },
+   {
+    "quote": "One of Alibaba Cloud’s products, AnalyticDB for PostgreSQL, is a data warehouse built on Postgres. AnalyticDB for PostgreSQL uses a distributed architecture known as MPP (massively parallel processing) to process petabytes of data with high concurrency and low latency.",
+    "url": "https://www.paradedb.com/customers/alibaba",
+    "pass": 1
+   },
+   {
+    "quote": "Prior to integrating with ParadeDB, AnalyticDB for PostgreSQL’s full text search (FTS) capabilities were limited to Postgres native full text search, which uses the",
+    "url": "https://www.paradedb.com/customers/alibaba",
+    "pass": 1
+   },
+   {
+    "quote": "As large enterprise customers onboarded with AnalyticDB for PostgreSQL, many of them had sophisticated full text search needs that were not met by",
+    "url": "https://www.paradedb.com/customers/alibaba",
+    "pass": 1
+   },
+   {
+    "quote": "Pang Bo, Product Manager",
+    "url": "https://www.paradedb.com/customers/alibaba",
+    "pass": 1
+   },
+   {
+    "quote": "Alibaba ran an extensive 60-day evaluation process, during which they benchmarked ParadeDB against Lucene (Elasticsearch's underlying search engine) over a corpus of 100 million Wikipedia documents.",
+    "url": "https://www.paradedb.com/customers/alibaba",
+    "pass": 1
+   },
+   {
+    "quote": "With 40 concurrent readers, ParadeDB was able to process 5X queries per second compared to Lucene. This difference was magnified as the number of concurrent readers grew.",
+    "url": "https://www.paradedb.com/customers/alibaba",
+    "pass": 1
+   },
+   {
+    "quote": "This means that, with ParadeDB, Alibaba is able to meet the business-critical workloads of its most demanding customers.",
+    "url": "https://www.paradedb.com/customers/alibaba",
+    "pass": 1
+   },
+   {
+    "quote": "improvement over their previous vanilla Postgres setup.",
+    "url": "https://www.paradedb.com/customers/terrapin-finance",
+    "pass": 1
+   },
+   {
+    "quote": "is a fixed-income data provider specializing in reference and pricing data APIs for US municipal, government, and corporate bonds. The company serves institutional clients who depend on accurate, real-time bond data for trading and analysis. Terrapin is also building a municipal credit intelligence platform that combines document search, credit risk analytics, and AI-driven research tools.",
+    "url": "https://www.paradedb.com/customers/terrapin-finance",
+    "pass": 1
+   },
+   {
+    "quote": "The impact was immediate. Search queries that previously took 3 to 5 seconds dropped to 100–200ms, a 25x improvement in query execution time. The type-ahead search bar in Terrapin's credit risk UI went from sluggish to instantaneous, and API consumers saw the same gains across their programmatic queries.",
+    "url": "https://www.paradedb.com/customers/terrapin-finance",
+    "pass": 1
+   },
+   {
+    "quote": "ParadeDB lets us unify our search and primary data stores around Postgres",
+    "url": "https://www.paradedb.com/customers/cofactr",
+    "pass": 1
+   },
+   {
+    "quote": "is a full-service electronics purchasing platform for hardware teams. Customers upload a bill of materials, and Cofactr handles the rest: its AI agents source components, negotiate pricing, and place orders, while Cofactr's warehouses store the parts and assemble custom kits.",
+    "url": "https://www.paradedb.com/customers/cofactr",
+    "pass": 1
+   },
+   {
+    "quote": "Cofactr came to realize that its workload and query patterns were a natural fit for Postgres, and that consolidating around a Postgres-native search engine would simplify the stack without compromising on capabilities.",
+    "url": "https://www.paradedb.com/customers/cofactr",
+    "pass": 1
+   },
+   {
+    "quote": "Cofactr's technical requirements were clear: tight control over replication from the primary database to the search database, low replication latency, and the ability to absorb bursts of traffic without degrading. The team evaluated MongoDB Atlas, OpenSearch, and native Postgres full-text search (",
+    "url": "https://www.paradedb.com/customers/cofactr",
+    "pass": 1
+   },
+   {
+    "quote": "to pull data from the primary database into ParadeDB, the time from ingesting new data into the primary database to having it searchable in ParadeDB was small.",
+    "url": "https://www.paradedb.com/customers/cofactr",
+    "pass": 1
+   },
+   {
+    "quote": ", and many others use ParadeDB to power search, analytics, and AI workloads without maintaining separate search infrastructure. Learn more through our",
+    "url": "https://www.paradedb.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We're a small, focused team building database infrastructure used in production by organizations worldwide. Our team is composed of:",
+    "url": "https://www.paradedb.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "(Head of Engineering — prev. Twitter, Toolchain)",
+    "url": "https://www.paradedb.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "(Database Engineer — prev. MongoDB, RelationalAI)",
+    "url": "https://www.paradedb.com/careers",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "the same lexical ranking used by dedicated search engines.",
+    "url": "https://www.paradedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by enterprises.",
+    "url": "https://www.paradedb.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Alibaba Picks ParadeDB to Bring Full Text Search to its Postgres-Based Data Warehouse",
+    "url": "https://www.paradedb.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Alibaba Cloud integrated ParadeDB for full text search in their Postgres-based data warehouse.",
+    "url": "https://www.paradedb.com/customers",
+    "pass": 1
+   },
+   {
+    "quote": "The Bilt Alliance — developed in partnership with some of the nation’s largest residential owners and operators — is a network of more than 4.5 million homes across the country.",
+    "url": "https://www.paradedb.com/customers/bilt",
+    "pass": 1
+   },
+   {
+    "quote": "The first problem was accuracy of search results. Postgres' limited tokenizers and query types meant that users often couldn’t find what they were looking for. Bilt's system relied on exact token matching that compared the hashed values of the query with the hashed, underlying text data. Bilt also tried Postgres' built-in trigram index, which improved results but remained unsatisfactory.",
+    "url": "https://www.paradedb.com/customers/bilt",
+    "pass": 1
+   },
+   {
+    "quote": "Alibaba Picks ParadeDB to Bring Full Text Search to its Postgres-Based Data Warehouse | ParadeDB",
+    "url": "https://www.paradedb.com/customers/alibaba",
+    "pass": 1
+   },
+   {
+    "quote": "Alibaba Picks ParadeDB to Bring Full Text Search to its Postgres-Based Data Warehouse",
+    "url": "https://www.paradedb.com/customers/alibaba",
+    "pass": 1
+   },
+   {
+    "quote": "One of Alibaba Cloud’s products, AnalyticDB for PostgreSQL, is a data warehouse built on Postgres. AnalyticDB for PostgreSQL uses a distributed architecture known as MPP (massively parallel processing) to process petabytes of data with high concurrency and low latency.",
+    "url": "https://www.paradedb.com/customers/alibaba",
+    "pass": 1
+   },
+   {
+    "quote": "is a full-service electronics purchasing platform for hardware teams. Customers upload a bill of materials, and Cofactr handles the rest: its AI agents source components, negotiate pricing, and place orders, while Cofactr's warehouses store the parts and assemble custom kits.",
+    "url": "https://www.paradedb.com/customers/cofactr",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "For a financial data platform, search responsiveness is non-negotiable: analysts expect instant feedback as they narrow down results across millions of securities.",
+    "url": "https://www.paradedb.com/customers/terrapin-finance",
+    "pass": 1
+   },
+   {
+    "quote": "trusted part of our stack.",
+    "url": "https://www.paradedb.com/customers/cofactr",
+    "pass": 1
+   },
+   {
+    "quote": "MongoDB Atlas for Government also carried a steep markup and ran outside Cofactr's AWS account, which added another cloud environment to the compliance surface area.",
+    "url": "https://www.paradedb.com/customers/cofactr",
+    "pass": 1
+   },
+   {
+    "quote": "Travel stipend to visit San Francisco for remote employees",
+    "url": "https://www.paradedb.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "If other libraries are already listed, keep them and append",
+    "url": "https://www.paradedb.com/docs/start/install",
+    "pass": 3
+   },
+   {
+    "quote": "ParadeDB powers core search and analytics workloads at organizations ranging from Fortune 500 companies to fast-growing startups.",
+    "url": "https://www.paradedb.com/docs/start/introduction",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/534519-73",
+    "pass": 3
+   },
+   {
+    "quote": "ParadeDB has 8 total employees.",
+    "url": "https://pitchbook.com/profiles/company/534519-73",
+    "pass": 3
+   },
+   {
+    "quote": "What is ParadeDB’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/534519-73",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for ParadeDB is",
+    "url": "https://pitchbook.com/profiles/company/534519-73",
+    "pass": 3
+   },
+   {
+    "quote": "ParadeDB Revenue 2025: $440K Est.",
+    "url": "https://getlatka.com/companies/paradedb.com",
+    "pass": 3
+   },
+   {
+    "quote": "ParadeDB has not published its revenue. GetLatka estimates it at about $440K a year (September 2025).",
+    "url": "https://getlatka.com/companies/paradedb.com",
+    "pass": 3
+   },
+   {
+    "quote": "ParadeDB CEO, founders & employees",
+    "url": "https://getlatka.com/companies/paradedb.com",
+    "pass": 3
+   },
+   {
+    "quote": "Philippe NoГ«l founded ParadeDB in 2023 and runs it as CEO. ParadeDB had 4 employees (June 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/paradedb.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is ParadeDB's revenue?",
+    "url": "https://getlatka.com/companies/paradedb.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates ParadeDB's revenue at about",
+    "url": "https://getlatka.com/companies/paradedb.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does ParadeDB have?",
+    "url": "https://getlatka.com/companies/paradedb.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in June 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/paradedb.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/paradedb.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/paradedb.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/paradedb.com",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "PostgreSQLだけで日本語全文検索を実現する - ParadeDBのBM25検索を実測で検証した",
+    "url": "https://zenn.dev/okamyuji/articles/paradedb-japanese-fulltext-search",
+    "pass": 3
+   },
+   {
+    "quote": "Webアプリケーションを開発していると、日本語テキストの全文検索が必要になる場面は少なくありません",
+    "url": "https://zenn.dev/okamyuji/articles/paradedb-japanese-fulltext-search",
+    "pass": 3
+   },
+   {
+    "quote": "ECサイトの商品検索、社内文書の横断検索、ブログやCMSの記事検索など、ユーザーが自然な日本語のキーワードを入力して目的の情報にたどり着ける仕組みは、多くのサービスで求められています",
+    "url": "https://zenn.dev/okamyuji/articles/paradedb-japanese-fulltext-search",
+    "pass": 3
+   },
+   {
+    "quote": "PostgreSQL標準のテキスト検索機能（tsvector/tsquery）も候補になりますが、これには日本語の辞書が組み込まれていないという根本的な問題があります",
+    "url": "https://zenn.dev/okamyuji/articles/paradedb-japanese-fulltext-search",
+    "pass": 3
+   },
+   {
+    "quote": "英語であればスペースで単語が区切られるため正しく動作しますが、日本語はスペースなしで単語が連続するため、そのままでは単語の境界を認識できません",
+    "url": "https://zenn.dev/okamyuji/articles/paradedb-japanese-fulltext-search",
+    "pass": 3
+   },
+   {
+    "quote": "このような背景から、日本語の全文検索を本格的に行うにはElasticsearchの導入が定番とされてきました",
+    "url": "https://zenn.dev/okamyuji/articles/paradedb-japanese-fulltext-search",
+    "pass": 3
+   },
+   {
+    "quote": "PGroongaはGroongaベースの高速な全文検索エンジンで、日本語対応も優秀です",
+    "url": "https://zenn.dev/okamyuji/articles/paradedb-japanese-fulltext-search",
+    "pass": 3
+   },
+   {
+    "quote": "pg_bigmは2-gramインデックスで手軽に日本語の部分一致検索を高速化できます",
+    "url": "https://zenn.dev/okamyuji/articles/paradedb-japanese-fulltext-search",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、ParadeDBのpg_search拡張を使って、日本語テキストに対する全文検索の精度とパフォーマンスを実測で検証した結果をまとめます",
+    "url": "https://zenn.dev/okamyuji/articles/paradedb-japanese-fulltext-search",
+    "pass": 3
+   },
+   {
+    "quote": "約9,100件の日本語記事データを用意し、BM25検索、LIKE検索、tsvector検索の3手法を比較しました",
+    "url": "https://zenn.dev/okamyuji/articles/paradedb-japanese-fulltext-search",
+    "pass": 3
+   },
+   {
+    "quote": "日本語の処理にはLinderaというトークナイザーが使われます",
+    "url": "https://zenn.dev/okamyuji/articles/paradedb-japanese-fulltext-search",
+    "pass": 3
+   },
+   {
+    "quote": "LinderaはIPADIC辞書を内蔵した形態素解析器で、日本語テキストを意味のある単語単位に分割できます",
+    "url": "https://zenn.dev/okamyuji/articles/paradedb-japanese-fulltext-search",
+    "pass": 3
+   },
+   {
+    "quote": "日本語記事 約9,100件",
+    "url": "https://zenn.dev/okamyuji/articles/paradedb-japanese-fulltext-search",
+    "pass": 3
+   },
+   {
+    "quote": "検証用のテーブルを作成し、約9,100件の日本語記事データを投入します",
+    "url": "https://zenn.dev/okamyuji/articles/paradedb-japanese-fulltext-search",
+    "pass": 3
+   },
+   {
+    "quote": "-- ParadeDB BM25インデックス（lindera日本語トークナイザーを使用）",
+    "url": "https://zenn.dev/okamyuji/articles/paradedb-japanese-fulltext-search",
+    "pass": 3
+   },
+   {
+    "quote": "(japanese)),",
+    "url": "https://zenn.dev/okamyuji/articles/paradedb-japanese-fulltext-search",
+    "pass": 3
+   },
+   {
+    "quote": "::pdb.lindera(japanese)",
+    "url": "https://zenn.dev/okamyuji/articles/paradedb-japanese-fulltext-search",
+    "pass": 3
+   },
+   {
+    "quote": "をキャストすると、IPADIC辞書を使った日本語の形態素解析が有効になります",
+    "url": "https://zenn.dev/okamyuji/articles/paradedb-japanese-fulltext-search",
+    "pass": 3
+   },
+   {
+    "quote": "まず、ParadeDBのLinderaトークナイザーが日本語テキストを正しく分割できているかを確認します",
+    "url": "https://zenn.dev/okamyuji/articles/paradedb-japanese-fulltext-search",
+    "pass": 3
+   },
+   {
+    "quote": "-- {東京,都,の,再,開発,プロジェクト}",
+    "url": "https://zenn.dev/okamyuji/articles/paradedb-japanese-fulltext-search",
+    "pass": 3
+   },
+   {
+    "quote": "lindera(japanese) で対応",
+    "url": "https://zenn.dev/okamyuji/articles/paradedb-japanese-fulltext-search",
+    "pass": 3
+   },
+   {
+    "quote": "まず確認しておくべき重要な事実として、PostgreSQL標準のtsvectorは日本語テキストの検索にはほぼ使えません",
+    "url": "https://zenn.dev/okamyuji/articles/paradedb-japanese-fulltext-search",
+    "pass": 3
+   },
+   {
+    "quote": "辞書はスペースと記号でテキストを分割するため、日本語のように単語がスペースなしで連続する言語では正しく単語を認識できません",
+    "url": "https://zenn.dev/okamyuji/articles/paradedb-japanese-fulltext-search",
+    "pass": 3
+   },
+   {
+    "quote": "日本語の全文検索においてtsvector(simple)は選択肢になりません",
+    "url": "https://zenn.dev/okamyuji/articles/paradedb-japanese-fulltext-search",
+    "pass": 3
+   },
+   {
+    "quote": "BM25とLIKEはどちらも日本語テキストの検索に使えますが、その仕組みは本質的に異なります",
+    "url": "https://zenn.dev/okamyuji/articles/paradedb-japanese-fulltext-search",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ParadeDB — Just use Postgres — Just use Postgres When Postgres queries get too slow, developers usually reach for systems like Elasticsearch. ParadeDB makes text and vector search, filters, facets, and joins fast in Postgres, so you can keep scaling with it.",
+    "url": "https://www.paradedb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "ParadeDBのBM25検索を実測で検証した - Zenn — Feb 7, 2026 · PostgreSQL標準のtsvectorは日本語辞書がないため、実質的に日本語の全文検索には使えません。 ParadeDBのLinderaトークナイザーはIPADIC辞書による形態素解析を行い、日本語テキストを適切に処理します。 BM25スコアリングにより関連度順の検索結果が得られます。",
+    "url": "https://zenn.dev/okamyuji/articles/paradedb-japanese-fulltext-search",
+    "pass": 3
+   },
+   {
+    "quote": "Install ParadeDB - ParadeDB — The Curlbash installer starts ParadeDB in Docker with persistent storage, prints your connection credentials, and opens a psql session. Save the generated password to connect from your application.To reconnect later, run:",
+    "url": "https://www.paradedb.com/docs/start/install",
+    "pass": 3
+   },
+   {
+    "quote": "GitHub - paradedb/paradedb: One Postgres for your application ... — ParadeDB upgrades Postgres with a custom index for fast full-text and vector search, BM25 scoring, filters, facets, aggregations, and joins. Built as a Postgres extension, it keeps your application data and search engine in one database with standard SQL and ACID transactions.",
+    "url": "https://github.com/paradedb/paradedb",
+    "pass": 3
+   },
+   {
+    "quote": "ParadeDBを試してみるよ！（PostgreSQLでWikipediaの本文を全文検索）... — Jul 15, 2025 · 概要 ParadeDBというソフトウェアがあります。 参考: https://www.paradedb.com/ Elasticsearchなどの外部サーバーを利用せず、PostgreSQLだけで全文検索や分析機能を実現するためのものです。 （詳細は公式ページをご覧ください。 ）",
+    "url": "https://qiita.com/abetomo/items/3b15aba39783a9435be0",
+    "pass": 3
+   },
+   {
+    "quote": "ParadeDB — Just use Postgres — ParadeDB pairs Postgres' transactional storage with a unified index combining inverted, vector, and columnar data structures. OLTP databases are built for reliable transactions, but not for search. The ParadeDB index brings search-optimized data structures and query execution paths to Postgres.",
+    "url": "https://www.paradedb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Welcome to ParadeDB - ParadeDB — Learn how ParadeDB is built. Indexing, query types, tokenizers, vectors, and aggregates. Deploy ParadeDB in our cloud or on your own infrastructure.",
+    "url": "https://www.paradedb.com/docs/start/introduction",
+    "pass": 3
+   },
+   {
+    "quote": "GitHub - paradedb/paradedb: One Postgres for your application ...GitHub - paradedb/website: Official ParadeDB websiteParadeDBのBM25検索を実測で検証した - ZennJapan Parade NYC株式会社日本パレード — Postgres for Search and Analytics Website • Docs • Community • Blog • Changelog See full list on github.com Roadmap •Search •Full-text search with BM25 with pg_bm25 •Sparse vector search with pg_sparse •Dense vector search w",
+    "url": "https://github.com/paradedb/paradedb",
+    "pass": 3
+   },
+   {
+    "quote": "GitHub - paradedb/website: Official ParadeDB website — Official ParadeDB website. Contribute to paradedb/website development by creating an account on GitHub.",
+    "url": "https://github.com/paradedb/website",
+    "pass": 3
+   },
+   {
+    "quote": "ParadeDBのBM25検索を実測で検証した - Zenn — Feb 7, 2026 · そこで注目したのがParadeDBです。 ParadeDBはPostgreSQLの拡張機能として動作し、Elasticsearchと同等のBM25スコアリングによる全文検索をSQL文の中だけで完結させることができます。",
+    "url": "https://zenn.dev/okamyuji/articles/paradedb-japanese-fulltext-search",
+    "pass": 3
+   },
+   {
+    "quote": "Customers | ParadeDB — Mar 16, 2026 · See how companies use ParadeDB to power search in Postgres. Read case studies from teams that replaced Elasticsearch with a single Postgres extension.",
+    "url": "https://www.paradedb.com/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Customer Case Studies | paradedb/website | DeepWiki — Jun 12, 2026 · The /customers section of the ParadeDB website serves as a repository for technical case studies detailing how various organizations leverage ParadeDB (and its underlying extensions like pg_search) to solve search and analytics challenges within PostgreSQL.",
+    "url": "https://deepwiki.com/paradedb/website/4.3-customer-case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "ParadeDB — Just use Postgres — When Postgres queries get too slow, developers usually reach for systems like Elasticsearch. ParadeDB makes text and vector search, filters, facets, and joins fast in Postgres, so you can keep scaling with it. Trusted by truly ambitious companies. Ordinary SQL at extraordinary speeds.",
+    "url": "https://www.paradedb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Content Sections | paradedb/website | DeepWiki — Jun 12, 2026 · The ParadeDB website is organized into three primary content areas: Blog, Learn, and Customers. Each section serves a distinct purpose—from company news and engineering deep dives to educational resources and social proof.",
+    "url": "https://deepwiki.com/paradedb/website/4-content-sections",
+    "pass": 3
+   },
+   {
+    "quote": "ParadeDB 2026 Company Profile: Valuation, Funding & Investors ...ParadeDB Revenue 2025: $440K Est. - getlatka.comParadeDB — Funding, Investors & Team | SeedtableParadeDB - 2025 Company Profile, Team, Funding & Competitors ...ParadeDB: Funding, Team & Investors | Startup IntrosParadeDB Funding: $12.0M | $600K Revenue | Complete AnalysisParadeDB Funding History, Valuation and Investors - aVenture — ",
+    "url": "https://pitchbook.com/profiles/company/534519-73",
+    "pass": 3
+   },
+   {
+    "quote": "ParadeDB Revenue 2025: $440K Est. - getlatka.com — Sep 2, 2026 · ParadeDB revenue ParadeDB has not published its revenue. GetLatka estimates it at about $440K a year (September 2025).",
+    "url": "https://getlatka.com/companies/paradedb.com",
+    "pass": 3
+   },
+   {
+    "quote": "ParadeDB — Funding, Investors & Team | Seedtable — Sep 4, 2026 · ParadeDB is a New York company founded in 2023 by Philippe Noël and Ming Ying that builds a Postgres-native search and analytics engine, positioned as a transactional alternative to Elasticsearch.",
+    "url": "https://seedtable.com/companies/paradedb",
+    "pass": 3
+   },
+   {
+    "quote": "ParadeDB - 2025 Company Profile, Team, Funding & Competitors ...ParadeDB: Funding, Team & Investors | Startup IntrosParadeDB Funding: $12.0M | $600K Revenue | Complete AnalysisParadeDB Funding History, Valuation and Investors - aVenture — Jul 17, 2025 · ParadeDB - Cloud based data analytics platform. Raised a total funding of $12M over 1 round from 1 investor. Founded by Ming Ying and Philippe Noe",
+    "url": "https://tracxn.com/d/companies/paradedb/__Mjh3SmaZcHi8-jRuXOp4rhiqqyTx9saiCDjSVcI4YjM",
+    "pass": 3
+   },
+   {
+    "quote": "ParadeDB: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Frequently Asked Questions Who founded ParadeDB? ParadeDB was founded in 2023 by Philippe Noël (Founder) and Ming Ying (Founder). How much funding has ParadeDB raised? ParadeDB has raised $14.0M in total across 2 funding rounds.",
+    "url": "https://startupintros.com/orgs/paradedb",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/534519-73",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ParadeDB (@paradedb) / Posts / X Today we open sourced @paradedb Benchmarker, a workload agnostic benchmarking runner built on top of @grafana #k6. Supports PostgreSQL, Elasticsearch, OpenSearch, ClickHouse, MongoDB, and ParadeDB.",
+    "url": "https://x.com/paradedb",
+    "pass": 3
+   },
+   {
+    "quote": "ParadeDB on X: \"Two weeks ago, we made Top K faster. This ... Making COUNTs and the Rest of Search Really Fast (Part II) From paradedb.com 5:19 PM · Oct 13, 2026 · 8,886 Views",
+    "url": "https://x.com/paradedb/status/2110057834444636267",
+    "pass": 3
+   },
+   {
+    "quote": "ParadeDB on X: \"Two weeks ago, @PlanetScale launched TIN ... Two weeks ago, @PlanetScale launched TIN. They benchmarked it against us, and it was very fast. So we spent those two weeks making ParadeDB faster without their tradeoffs. Today, we are faster than TIN.",
+    "url": "https://x.com/paradedb/status/2105700139595862067",
+    "pass": 3
+   },
+   {
+    "quote": "Today we open sourced @paradedb Benchmarker, a workload ... Today we open sourced @paradedb Benchmarker, a workload agnostic benchmarking runner built on top of @grafana #k6. Supports PostgreSQL, Elasticsearch, OpenSearch, ClickHouse, MongoDB, and ParadeDB.",
+    "url": "https://x.com/paradedb/status/2054246927202677032",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "ParadeDB - LinkedIn ParadeDB | 4,534 followers on LinkedIn. One Postgres for your app data, full-text search, vector retrieval, and aggregations. | ParadeDB puts Elastic-quality search inside Postgres.",
+    "url": "https://www.linkedin.com/company/paradedb",
+    "pass": 3
+   },
+   {
+    "quote": "Philippe Noël - CEO @ ParadeDB | Just use Postgres | LinkedInRuchir Raj - Database Internals Engineer @ParadeDB • Ex ...GitHub - paradedb/paradedb: One Postgres for your application ...Nihal Pandey - Senior Founding Engineer & Technical Lead ...Ming Ying - CTO @ ParadeDB | LinkedInIsaac Van Doren - Software Engineer @ ParadeDB | Software ... ParadeDB is an open source, ACID-compliant search and an",
+    "url": "https://www.linkedin.com/in/philippemnoel",
+    "pass": 3
+   },
+   {
+    "quote": "Ruchir Raj - Database Internals Engineer @ParadeDB • Ex ... Database Internals Engineer @ParadeDB • Ex-e6data • BITS Pilani · Database engineer at e6data working on query optimization and Apache Calcite. Recently graduated from BITS Pilani with dual...",
+    "url": "https://in.linkedin.com/in/ruchir-raj",
+    "pass": 3
+   },
+   {
+    "quote": "GitHub - paradedb/paradedb: One Postgres for your application ... I'm beyond excited to share that Eric Ridge, the founder of ZomboDB and original author of pgrx, is the latest addition to the ParadeDB team. Eric brings a wealth of experience at the...",
+    "url": "https://pe.linkedin.com/posts/philippemnoel_github-paradedbparadedb-paradedb-is-a-activity-7234228040820563968-t3_i",
+    "pass": 3
+   },
+   {
+    "quote": "Philippe Noël - CEO @ ParadeDB | Just use Postgres | LinkedInCareers | ParadeDBParadeDB: You should just use Postgres. | Y CombinatorPhilippe Noël - Co-founder & CEO @ ParadeDB - CrunchbasePhilippe Noel, ParadeDB Inc: Profile and Biography ...Philippe Noël - The Founder Putting Search Back Inside PostgresI got a chance to sit down with Philippe Noël, CEO of ... ParadeDB is an open source, ACID-com",
+    "url": "https://www.linkedin.com/in/philippemnoel",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "The Parade Company | Detroit MI - FacebookDiamond el Fonsbrook & The Dead Baby Parade - FacebookLog Into FacebookMeta for Business (formerly Facebook for Business)She Paraded Her Husband-to-Be Past the Mechanic ... - FacebookPARADE Magazine️ In last week's episode of #ThinkEngageThrive, we had the ... 4 days ago · The Parade Company, Detroit. 21,339 followers · 1,111 talking about this · 9,585 wer",
+    "url": "https://www.facebook.com/TheParadeCo/",
+    "pass": 3
+   },
+   {
+    "quote": "Diamond el Fonsbrook & The Dead Baby Parade - FacebookLog Into FacebookMeta for Business (formerly Facebook for Business)She Paraded Her Husband-to-Be Past the Mechanic ... - FacebookPARADE Magazine️ In last week's episode of #ThinkEngageThrive, we had the ... Jun 12, 2020 · Diamond el Fonsbrook & The Dead Baby Parade. 139 likes. Folk / Psychedelic / Grunge http://soundcloud.com/dbparade Log into ",
+    "url": "https://www.facebook.com/dbparade/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.paradedb.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.paradedb.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.paradedb.com/customers/moderntreasury",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.paradedb.com/customers/bilt",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.paradedb.com/customers/alibaba",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.paradedb.com/customers/terrapin-finance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.paradedb.com/customers/cofactr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.paradedb.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.paradedb.com/customers?industry=manufacturing",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.paradedb.com/brand/customers/modern-treasury.svg?dpl=dpl_Cq1mxc7CP6SzcpuHbVgAU1Q4tLio",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.paradedb.com/brand/customers/bilt-rewards.svg?dpl=dpl_Cq1mxc7CP6SzcpuHbVgAU1Q4tLio",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.paradedb.com/brand/customers/alibaba.svg?dpl=dpl_Cq1mxc7CP6SzcpuHbVgAU1Q4tLio",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.paradedb.com/brand/customers/mitti.svg?dpl=dpl_Cq1mxc7CP6SzcpuHbVgAU1Q4tLio",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.paradedb.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zenn.dev/okamyuji/articles/paradedb-japanese-fulltext-search",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.paradedb.com/docs/start/install",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/paradedb/paradedb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kathalo.com/kathalog/import-business/1027/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://chigai-hikaku.com/?p=36920",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.paradedb.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.paradedb.com/docs/start/introduction",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/paradedb/paradedb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/paradedb/website",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.paradedb.com/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deepwiki.com/paradedb/website/4.3-customer-case-studies",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.paradedb.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://deepwiki.com/paradedb/website/4-content-sections",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/534519-73",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getlatka.com/companies/paradedb.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seedtable.com/companies/paradedb",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/paradedb/__Mjh3SmaZcHi8-jRuXOp4rhiqqyTx9saiCDjSVcI4YjM",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/paradedb",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/paradedb/status/2110057834444636267",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/paradedb/status/2105700139595862067",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/paradedb/status/2054246927202677032",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/paradedb",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/philippemnoel",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/ruchir-raj",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pe.linkedin.com/posts/philippemnoel_github-paradedbparadedb-paradedb-is-a-activity-7234228040820563968-t3_i",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TheParadeCo/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/dbparade/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/philippemnoel",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/paradedb",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/paradedb/status/2110057834444636267",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Paradedb 日本 導入",
+   "results": [
+    "https://www.paradedb.com/",
+    "https://zenn.dev/okamyuji/articles/paradedb-japanese-fulltext-search",
+    "https://www.paradedb.com/docs/start/install",
+    "https://github.com/paradedb/paradedb",
+    "https://qiita.com/abetomo/items/3b15aba39783a9435be0",
+    "https://github.com/okamyuji/paradedb",
+    "https://aboutus.media/article/world_43_paradedb"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Paradedb 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://chigai-hikaku.com/?p=36920",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://regbase.jp/en/japanese-company-registry",
+    "https://www.smith-nephew.com/contact-us/companyinfo",
+    "https://www.gaishikei.net/",
+    "https://www.nippare.com/",
+    "https://books.parade.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Paradedb Japan",
+   "results": [
+    "https://www.paradedb.com/",
+    "https://www.paradedb.com/docs/start/introduction",
+    "https://github.com/paradedb/paradedb",
+    "https://github.com/paradedb/website",
+    "https://zenn.dev/okamyuji/articles/paradedb-japanese-fulltext-search",
+    "https://www.japanparadenyc.org/",
+    "https://www.nippare.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Paradedb manufacturing customer case study",
+   "results": [
+    "https://www.paradedb.com/customers",
+    "https://deepwiki.com/paradedb/website/4.3-customer-case-studies",
+    "https://www.paradedb.com/",
+    "https://deepwiki.com/paradedb/website/4-content-sections",
+    "https://github.com/paradedb/paradedb",
+    "https://parsable.com/marketing-category/customer-case-studies/",
+    "https://techcrunch.com/2025/07/15/paradedb-takes-on-elasticsearch-as-interest-in-postgres-explodes-amid-ai-boom/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Paradedb white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.sap.com/partners/partner-program",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.thenationalcouncil.org/get-involved/partner-with-us/partnership-program/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Paradedb founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/534519-73",
+    "https://getlatka.com/companies/paradedb.com",
+    "https://seedtable.com/companies/paradedb",
+    "https://tracxn.com/d/companies/paradedb/__Mjh3SmaZcHi8-jRuXOp4rhiqqyTx9saiCDjSVcI4YjM",
+    "https://startupintros.com/orgs/paradedb",
+    "https://www.extruct.ai/hub/paradedb-com-funding/",
+    "https://aventure.vc/companies/paradedb-new-york-city-ny-us/fundraising"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Paradedb",
+   "results": [
+    "https://note.com/re24/n/n5db8b70c733b?hl=en",
+    "https://note.com/seigo77",
+    "https://note.com/thelittleparade/n/n0dab6db10104?hl=en",
+    "https://note.com/momonavi_note/n/n9be7c9a6db13?hl=en",
+    "https://note.com/osirius3150/n/nb6c4118c1bb2",
+    "https://note.com/yoshiken_446/n/nba3db20d038b?hl=en",
+    "https://note.com/furaipanclub/n/n637db0ee387e?hl=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Paradedb",
+   "results": [
+    "https://x.com/paradedb",
+    "https://x.com/paradedb/status/2110057834444636267",
+    "https://x.com/paradedb/status/2105700139595862067",
+    "https://x.com/paradedb/status/2054246927202677032",
+    "https://x.com/i/trending/2105739061294219424",
+    "https://x.com/paradedb/status/2117640947056173114",
+    "https://x.com/paradedb/status/1998564680374300922"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Paradedb",
+   "results": [
+    "https://www.linkedin.com/company/paradedb",
+    "https://www.linkedin.com/in/philippemnoel",
+    "https://in.linkedin.com/in/ruchir-raj",
+    "https://pe.linkedin.com/posts/philippemnoel_github-paradedbparadedb-paradedb-is-a-activity-7234228040820563968-t3_i",
+    "https://in.linkedin.com/in/nihal-pandey-8529b6257",
+    "https://www.linkedin.com/in/ming-ying",
+    "https://www.linkedin.com/in/isaacvando"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Paradedb",
+   "results": [
+    "https://www.facebook.com/TheParadeCo/",
+    "https://www.facebook.com/dbparade/",
+    "https://secure.facebook.com/login/",
+    "https://business.facebook.com/",
+    "https://www.facebook.com/UnheardMysteries2/videos/she-paraded-her-husband-to-be-past-the-mechanic-she-dumped-hed-bought-the-dealer/2173493513244327/",
+    "https://www.facebook.com/DigitalPhilM/videos/️-in-last-weeks-episode-of-thinkengagethrive-we-had-the-incredible-philippe-noël/856252389662450/",
+    "https://www.facebook.com/parademag/",
+    "https://www.facebook.com/DBParadeoflights/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Paradedb note 社長",
+   "results": [
+    "https://www.linkedin.com/in/philippemnoel",
+    "https://www.paradedb.com/careers",
+    "https://www.ycombinator.com/founders/philippe-noel",
+    "https://www.crunchbase.com/person/philippe-noël",
+    "https://www.bloomberg.com/profile/person/24915473",
+    "https://yespress.io/philippe-noel",
+    "https://www.linkedin.com/posts/albert-mao-8b263aa2_i-got-a-chance-to-sit-down-with-philippe-activity-7155650755129917440-DdNi"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Paradedb X 投稿",
+   "results": [
+    "https://x.com/paradedb",
+    "https://x.com/paradedb/status/2110057834444636267",
+    "https://www.paradedb.com/",
+    "https://github.com/paradedb/paradedb",
+    "https://www.paradedb.com/docs/start/introduction",
+    "https://feeder.co/ja/discover/c126d1bb47/paradedb-com",
+    "https://zhuanlan.zhihu.com/p/695947135"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式9頁／PDF・画像4件／外部37頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式9頁／PDF・画像4件／外部37頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式9頁／PDF・画像4件／外部37頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式9頁／PDF・画像4件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式9頁／PDF・画像4件／外部37頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式9頁／PDF・画像4件／外部37頁・検索12回）"
+ }
+}

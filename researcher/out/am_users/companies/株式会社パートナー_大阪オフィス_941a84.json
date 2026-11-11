@@ -1,0 +1,241 @@
+{
+ "name": "株式会社パートナー 大阪オフィス",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T10:59:52.601696+00:00",
+ "official_url": "http://www.8107.co.jp",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "一点物・少量多品種": [
+   {
+    "quote": "幅広い分野で設計開発、試作支援、テスト業務の",
+    "url": "https://www.8107.co.jp/",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "航空宇宙・鉄道、半導体、産業機械といった",
+    "url": "https://www.8107.co.jp/",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.8107.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.zen.co.jp/area/osaka/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kknaigai.co.jp/column/osaka-shisakuhinseisaku-kanagata/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go-melos.jp/contact/partner/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://go-partner.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-corp.com/company/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.kensetumap.com/company/620521/profile.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.co/ja-jp/page/contact-jp",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://go-partner.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.b-partner.co.jp/contact_inquiry/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "パートナー 大阪オフィス 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.zen.co.jp/area/osaka/",
+    "https://www.kknaigai.co.jp/column/osaka-shisakuhinseisaku-kanagata/",
+    "https://go-melos.jp/contact/partner/",
+    "https://www.zen.co.jp/area/kansai/",
+    "https://www.kknaigai.co.jp/column/osaka-shoulothinseisaku-plastic/",
+    "https://fi-real.net/metal-parts-small-lot-order/",
+    "https://www.nc-craft.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "パートナー 大阪オフィス 会社概要 事業内容",
+   "results": [
+    "http://go-partner.jp/",
+    "https://partner-corp.com/company/",
+    "https://www.kensetumap.com/company/620521/profile.php",
+    "https://compalyze.co.jp/company/8120901018641",
+    "https://rising-gr.jp/about-us/",
+    "https://go-partner.jp/company/",
+    "https://partner24.jp/company.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "パートナー 大阪オフィス お問い合わせ メール",
+   "results": [
+    "https://partner.co/ja-jp/page/contact-jp",
+    "https://go-partner.jp/contact/",
+    "https://www.b-partner.co.jp/contact_inquiry/",
+    "https://partners-re.co.jp/contact/",
+    "https://www.fpp.jp/contact/",
+    "https://www.fpp.jp/contact/customer/",
+    "http://www.bp-office.co.jp/contact.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com パートナー 大阪オフィス",
+   "results": [
+    "https://note.com/digital_vorn/n/ne984a5571330",
+    "https://note.com/s_innovations/n/n3f5de43f160a",
+    "https://note.com/izumi_consulting/n/nc07dd21bdf06",
+    "https://note.com/hr_dojo/n/n4a95d1663d3e",
+    "https://tales.note.com/ready_lotus9892",
+    "https://tales.note.com/gay_panda2698/w2t50zfy3lrem/episodes/elepj98mlhfdh",
+    "https://note.com/meetinosaka_2025/n/na1005d90a130"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com パートナー 大阪オフィス",
+   "results": [
+    "https://x.com/Vaultosaka2nd/status/2120197221044060429",
+    "https://x.com/i/trending/2072142710249812145",
+    "https://x.com/FCosakaOfficial/status/2088883597600272817",
+    "https://x.com/osaka_udo/status/2090635004611309739",
+    "https://x.com/osaka_udo/status/2093175577884967337",
+    "https://x.com/osaka_udo/status/2103424508694765873",
+    "https://x.com/anote_hina/status/2120355953455567117"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com パートナー 大阪オフィス",
+   "results": [
+    "https://jp.linkedin.com/jobs/view/jpn-partner-at-boston-consulting-group-bcg-4330861960",
+    "https://jp.linkedin.com/jobs/view/consultant-partner-sales-at-ciena-4373321007",
+    "https://www.linkedin.com/company/osaka-innovation",
+    "https://be.linkedin.com/in/rocio-lorenzo-1936841b1",
+    "https://kr.linkedin.com/jobs/view/パートナーセールス（代理店営業／飲食店向けsaas）｜大阪-at-dinii-inc-4473885634",
+    "https://www.linkedin.com/posts/regrit-partners-inc_東京本社オフィスを移転しました社員のこだわりが詰まった新オフィスを徹底解説-activity-7101906993874948096-PI0c",
+    "https://ca.linkedin.com/in/grantjmcdonald"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com パートナー 大阪オフィス",
+   "results": [
+    "https://www.facebook.com/p/有限会社ビジネスパートナーオフィス-100053669779866/",
+    "https://www.facebook.com/office.partner.jp/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/bestoffice.co.jp/",
+    "https://www.facebook.com/housepartnerosaka/",
+    "https://www.facebook.com/office.kits/",
+    "https://www.facebook.com/onetoppartner/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "パートナー 大阪オフィス note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://jp.linkedin.com/in/yoshihito-kita-625852100",
+    "https://note.com/nmanage_partner/n/nb3a08a0e3dfd",
+    "https://x.com/partnerdoc_nabe/status/2119942766360977640",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/aoba_cocoro/n/na65fa89955b6"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "パートナー 大阪オフィス X 投稿",
+   "results": [
+    "https://x.com/partner_house",
+    "https://tatap.jp/knowledge/x-sponsored-content-partnership-label/",
+    "https://akiguard.com/post-685/",
+    "http://partners-office.jp/",
+    "https://go-partner.jp/",
+    "https://rising-gr.jp/",
+    "https://x.com/chisako_partner/status/2118344344059171071"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）",
+  "事業内容": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）",
+  "代表者": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）",
+  "取扱製品": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）",
+  "取扱材料": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）",
+  "AM関連": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部9頁・検索9回）"
+ }
+}

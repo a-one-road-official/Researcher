@@ -1,0 +1,1312 @@
+{
+ "name": "Secoda",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-11T10:53:48.338587+00:00",
+ "official_url": "https://secoda.co",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Powered by enterprise data governance and context across your entire data stack, Secoda delivers trusted answers fast and at scale.",
+    "url": "https://www.secoda.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Your browser does not support the video tag.",
+    "url": "https://www.secoda.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Enforces data policies while enabling team productivity",
+    "url": "https://www.secoda.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Organizes and enrich metadata to ensure your AI outputs are precise, useful, and actionable. Secoda consolidates metadata into one actionable, always-updated control panel.",
+    "url": "https://www.secoda.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Detect issues across your data to safeguard analytics and ML outputs. Create comprehensive monitors for proactive visibility into anomalies, costs, job performance, and more.",
+    "url": "https://www.secoda.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Easily scale your governance program. Perform bulk updates, tag PII data, manage tech debt, build custom integrations, identify the least used resources, and more.",
+    "url": "https://www.secoda.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Data analysis just got faster. Our customers are proof.",
+    "url": "https://www.secoda.co/",
+    "pass": 1
+   },
+   {
+    "quote": "“We’re training the company to rely on dashboards for basic things. But for anything more sophisticated, use Secoda AI”",
+    "url": "https://www.secoda.co/",
+    "pass": 1
+   },
+   {
+    "quote": "This month: the launch of AI prompt-generated dashboards, analytics on your workspace AI usage, a customer spotlight, and more.",
+    "url": "https://www.secoda.co/customers/dialpad-uses-secoda-core-layer-ai-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "As Dialpad’s external AI products advanced, so too did the vision for its internal data organization. Jesu Joseph, Head of Data, chose Secoda to help support smarter, AI driven data workflows across 12 departments. He saw the opportunity to apply the same level of rigor to Dialpad’s internal data stack, treating metadata and",
+    "url": "https://www.secoda.co/customers/dialpad-uses-secoda-core-layer-ai-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "\"AI is foundational to Dialpad’s product, and I wanted the same AI-first approach internally. But to do that, you need a lineage layer, a documentation layer, and strong governance. Secoda gives us all the building blocks to do that in one tool.”",
+    "url": "https://www.secoda.co/customers/dialpad-uses-secoda-core-layer-ai-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "Surfaced predictive sales insights",
+    "url": "https://www.secoda.co/customers/dialpad-uses-secoda-core-layer-ai-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "using natural language prompts to analyze pipeline breakdowns by competitor and revenue, without writing SQL",
+    "url": "https://www.secoda.co/customers/dialpad-uses-secoda-core-layer-ai-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "by replacing repetitive manual pulls with AI-driven exploration, allowing questions that previously took hours to be answered in seconds",
+    "url": "https://www.secoda.co/customers/dialpad-uses-secoda-core-layer-ai-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "Enable every team to explore predictive insights and complex analyses through natural language AI, without writing SQL or relying on the data team",
+    "url": "https://www.secoda.co/customers/dialpad-uses-secoda-core-layer-ai-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "Drive a culture shift toward AI-first analytics by training business users to ask more sophisticated questions through Secoda AI",
+    "url": "https://www.secoda.co/customers/dialpad-uses-secoda-core-layer-ai-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "To bring this AI-first vision to life, Jesu’s team followed a phased approach: first building a trusted foundation of data and governance, then layering AI-driven workflows on top to empower business users across the organization.",
+    "url": "https://www.secoda.co/customers/dialpad-uses-secoda-core-layer-ai-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "They connected end-to-end lineage across Fivetran, dbt, BigQuery, and Tableau, providing field-level visibility for the first time. In the past, Dialpad’s lineage was limited to dbt models alone. Now, users could trace a Tableau dashboard all the way back to the raw source, with full transparency.",
+    "url": "https://www.secoda.co/customers/dialpad-uses-secoda-core-layer-ai-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "Step 2: Delivering predictive sales insights through AI-powered exploration",
+    "url": "https://www.secoda.co/customers/dialpad-uses-secoda-core-layer-ai-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "One of the team’s most advanced AI use cases involves surfacing predictive sales insights through Secoda AI to help sales managers coach their teams more effectively.",
+    "url": "https://www.secoda.co/customers/dialpad-uses-secoda-core-layer-ai-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "Dialpad’s data science team built an internal model to predict whether each sales rep was likely to meet or exceed quota in a given month. The model used features such as pipeline value, MQL volume, and company size targeting, and output a predicted attainment score for each rep. The challenge was making this data usable and actionable for frontline managers.",
+    "url": "https://www.secoda.co/customers/dialpad-uses-secoda-core-layer-ai-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "Published the model outputs into a clean table, with each feature clearly documented in Secoda so business users could understand the drivers of the predictions.",
+    "url": "https://www.secoda.co/customers/dialpad-uses-secoda-core-layer-ai-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "In one proof of concept, Jesu demonstrated how Secoda AI could help answer highly targeted questions about specific deals:",
+    "url": "https://www.secoda.co/customers/dialpad-uses-secoda-core-layer-ai-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "“What is the probability of this particular opportunity closing?”",
+    "url": "https://www.secoda.co/customers/dialpad-uses-secoda-core-layer-ai-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "Although the team had intentionally provided only a small subset of fields (10 out of 900+ available), Secoda AI was able to analyze the data and generate an insightful prediction. The output included factors such as rep performance history, opportunity attributes, and relevant trends, allowing Jesu to quickly assess deal risk.",
+    "url": "https://www.secoda.co/customers/dialpad-uses-secoda-core-layer-ai-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "This example demonstrated the potential for using Secoda AI as an exploratory Q&A layer on top of predictive models, allowing business users to go beyond static reports and interact directly with model-driven insights in real time.",
+    "url": "https://www.secoda.co/customers/dialpad-uses-secoda-core-layer-ai-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "Previously, analyzing why deals were lost and which competitors were involved required time-consuming manual work. Opportunity cancel reasons were logged in various formats and scattered across systems. Compiling this into a usable view required SQL expertise and hours of analyst time.",
+    "url": "https://www.secoda.co/customers/dialpad-uses-secoda-core-layer-ai-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "Jesu’s team streamlined the process:",
+    "url": "https://www.secoda.co/customers/dialpad-uses-secoda-core-layer-ai-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "They fed all opportunity cancel reasons into a well-documented opportunity table in Secoda, providing rich context on reasons, competitor names, and associated pipeline and revenue impact.",
+    "url": "https://www.secoda.co/customers/dialpad-uses-secoda-core-layer-ai-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "“Who are the primary competitors we lost opportunities to last month?” and",
+    "url": "https://www.secoda.co/customers/dialpad-uses-secoda-core-layer-ai-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "This workflow helped Dialpad’s sales, product, and strategy teams gain faster insight into why deals were lost and where to focus competitive efforts, without waiting days for an analyst-generated report.",
+    "url": "https://www.secoda.co/customers/dialpad-uses-secoda-core-layer-ai-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "To spark interest, Jesu partnered with Dialpad’s executive team. During an all-hands meeting attended by 800 employees, the CEO directly promoted Secoda AI as a tool for self-serve analytics. The response was immediate.",
+    "url": "https://www.secoda.co/customers/dialpad-uses-secoda-core-layer-ai-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "Within days, 200 employees engaged with Secoda AI to start asking their own questions. Jesu actively encouraged a culture shift: basic questions still belonged in dashboards, but more sophisticated questions, such as model-based predictions or deep analyses, should flow through Secoda AI.",
+    "url": "https://www.secoda.co/customers/dialpad-uses-secoda-core-layer-ai-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "Secoda's partner network empowers enterprise data teams to unlock actionable business insights, ensure AI readiness, and govern data at scale.",
+    "url": "https://www.secoda.co/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Partnering with Secoda means transforming how organizations action on their data. The Secoda partnership program provides the tools, support, and collaboration needed to empower customers on their AI journey.",
+    "url": "https://www.secoda.co/partners",
+    "pass": 1
+   },
+   {
+    "quote": "“With over 15 thousand tables in BigQuery, Secoda is the only way we can sustain a precise level of data management\"",
+    "url": "https://www.secoda.co/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise data teams worldwide use Secoda to manage, monitor, and govern their company data.",
+    "url": "https://www.secoda.co/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Pathfinder improved data governance for a Fortune 50 healthcare enterprise",
+    "url": "https://www.secoda.co/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Secoda consolidates multiple tools into a single data management platform to simplify your data catalog, lineage, governance, monitoring, and observability processes.",
+    "url": "https://www.secoda.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "Manual processes automated",
+    "url": "https://www.secoda.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "View and download resources for presenting the Secoda brand consistently and professionally.",
+    "url": "https://www.secoda.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "This month: the launch of AI prompt-generated dashboards, analytics on your workspace AI usage, a customer spotlight, and more.",
+    "url": "https://www.secoda.co/blog/implementing-scalable-ai-workshop",
+    "pass": 1
+   },
+   {
+    "quote": "Manual documentation is one of the most time-consuming tasks for data teams. With Secoda AI, we showed how this process becomes significantly more efficient and scalable.",
+    "url": "https://www.secoda.co/blog/implementing-scalable-ai-workshop",
+    "pass": 1
+   },
+   {
+    "quote": "and usage. It suggests high-priority terms, like customer lifetime value or data lineage, and pre-populates definitions to speed up knowledge standardization across teams.",
+    "url": "https://www.secoda.co/blog/implementing-scalable-ai-workshop",
+    "pass": 1
+   },
+   {
+    "quote": "Secoda AI automatically interpreted the request, wrote the SQL, queried the data, and returned a clean chart showing year-over-year comparisons. It also provides a narrative summary that highlights trends and outliers.",
+    "url": "https://www.secoda.co/blog/implementing-scalable-ai-workshop",
+    "pass": 1
+   },
+   {
+    "quote": "What makes Secoda AI stand out is its ability to remember the previous question and build on it. For example, you can follow up with:",
+    "url": "https://www.secoda.co/blog/implementing-scalable-ai-workshop",
+    "pass": 1
+   },
+   {
+    "quote": "Instead of relying on pre-built dashboards or waiting for analysts to create new views, business users can explore trends, test hypotheses, and validate assumptions directly from the workspace. And since everything runs within the guardrails of Secoda (respecting",
+    "url": "https://www.secoda.co/blog/implementing-scalable-ai-workshop",
+    "pass": 1
+   },
+   {
+    "quote": "Another major advantage is the way AI communicates results. Not only does Secoda AI show a visual, it also provides a written explanation of the findings, highlighting key takeaways and often suggesting what to do next. This empowers non-technical users to make sense of the data without digging through dashboards or raw query results.",
+    "url": "https://www.secoda.co/blog/implementing-scalable-ai-workshop",
+    "pass": 1
+   },
+   {
+    "quote": "This approach allows teams to shift from reactive reporting to proactive, conversational analysis. Whether you’re in product, marketing, finance, or sales, Secoda AI gives you the power to get answers on your own terms, and fast.",
+    "url": "https://www.secoda.co/blog/implementing-scalable-ai-workshop",
+    "pass": 1
+   },
+   {
+    "quote": "Admins can restrict what Secoda AI has access to by limiting its scope to specific schemas, tags, or domains. For example, you might choose to exclude HR or finance tables from AI responses, or configure AI to only reference production data.",
+    "url": "https://www.secoda.co/blog/implementing-scalable-ai-workshop",
+    "pass": 1
+   },
+   {
+    "quote": ": Control whether AI can pull in responses from Secoda’s product documentation.",
+    "url": "https://www.secoda.co/blog/implementing-scalable-ai-workshop",
+    "pass": 1
+   },
+   {
+    "quote": "Admins can write their own prompts that tell AI how to behave. That could mean using a specific tone (e.g., concise, technical, beginner-friendly), referencing preferred documentation sources, and much more (feel free to get creative!). This ensures",
+    "url": "https://www.secoda.co/blog/implementing-scalable-ai-workshop",
+    "pass": 1
+   },
+   {
+    "quote": "Data engineers may prefer a technical AI that uses SQL and metadata",
+    "url": "https://www.secoda.co/blog/implementing-scalable-ai-workshop",
+    "pass": 1
+   },
+   {
+    "quote": "Business users might be better served by an AI that prioritizes plain-language summaries and documentation",
+    "url": "https://www.secoda.co/blog/implementing-scalable-ai-workshop",
+    "pass": 1
+   },
+   {
+    "quote": "By leveraging these settings, teams can strike the right balance between enabling self-serve access to data and protecting sensitive information. These controls help foster trust in AI while allowing teams to experiment and scale their usage confidently.",
+    "url": "https://www.secoda.co/blog/implementing-scalable-ai-workshop",
+    "pass": 1
+   },
+   {
+    "quote": "We recommend embedding Secoda AI into the tools your team already uses, especially Slack. The Slack integration makes it easy for business users to ask questions, get summaries, and share answers with minimal friction. This approach helps drive repeat usage without requiring a behavior change.",
+    "url": "https://www.secoda.co/blog/implementing-scalable-ai-workshop",
+    "pass": 1
+   },
+   {
+    "quote": "Use the AI usage analytics dashboards in Secoda to monitor adoption, identify gaps, and tailor enablement. Teams that proactively iterate based on feedback and usage patterns tend to see faster and broader adoption.",
+    "url": "https://www.secoda.co/blog/implementing-scalable-ai-workshop",
+    "pass": 1
+   },
+   {
+    "quote": "Yes, Secoda AI can check for active monitors or incidents tied to specific tables and surface quality concerns. This allows users to ask, “How is this table doing?” and get a contextual, trustworthy response. Secoda AI also proactively suggests new monitors for assets that appear to be untracked or at risk, helping teams stay ahead of potential issues before they escalate.",
+    "url": "https://www.secoda.co/blog/implementing-scalable-ai-workshop",
+    "pass": 1
+   },
+   {
+    "quote": "Q: How does Secoda prevent AI from hallucinating or returning incorrect results?",
+    "url": "https://www.secoda.co/blog/implementing-scalable-ai-workshop",
+    "pass": 1
+   },
+   {
+    "quote": "Secoda also offers built-in evaluations of AI accuracy, visibility into usage analytics, and the ability to QA AI-generated questions. Human-in-the-loop workflows and narrower scopes, such as limiting AI access to specific resources, further improve the quality, trustworthiness, and control of AI outputs.",
+    "url": "https://www.secoda.co/blog/implementing-scalable-ai-workshop",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by data teams worldwide",
+    "url": "https://www.secoda.co/",
+    "pass": 1
+   },
+   {
+    "quote": "Powered by AI, Secoda creates a single source of truth for an organization’s data by connecting to all data sources, models, pipelines, databases, warehouses, and visualization tools. Regardless of technical ability, it is the easiest way for any data or business stakeholder to turn their insights into action.",
+    "url": "https://www.secoda.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "Which data warehouse tools can I integrate with Secoda?",
+    "url": "https://www.secoda.co/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "This case study was prepared in proud partnership with",
+    "url": "https://www.secoda.co/customers/fullscript-scaled-data-reporting-enabled-company-wide-self-serve-analytics",
+    "pass": 1
+   },
+   {
+    "quote": "With the progression of time, the initial team members who had an in-depth understanding of the legacy data engineering systems underwent role transitions, leaving the data warehouse team devoid of crucial historical knowledge.",
+    "url": "https://www.secoda.co/customers/fullscript-scaled-data-reporting-enabled-company-wide-self-serve-analytics",
+    "pass": 1
+   },
+   {
+    "quote": "Fortunately, the Fullscript team had already started making full use of Secoda, which was able to help them integrate the metadata from Natural Partners’ data warehouse.",
+    "url": "https://www.secoda.co/customers/fullscript-scaled-data-reporting-enabled-company-wide-self-serve-analytics",
+    "pass": 1
+   },
+   {
+    "quote": "How to do a cloud warehouse migration",
+    "url": "https://www.secoda.co/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Cloud data warehouse migrations can unlock scalability, performance, and cost savings, but they’re rarely simple. In this guide, we break down the key steps to a successful migration and show how Secoda helps teams like Vanta and Fullscript manage dependencies, monitor data quality, and streamline documentation.",
+    "url": "https://www.secoda.co/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Which data warehouse tools can I integrate with Secoda?",
+    "url": "https://www.secoda.co/data-onboarding",
+    "pass": 1
+   },
+   {
+    "quote": "“If governance only exists in the warehouse, it’s going to break down fast. It has to live in the pipelines, in the code, in the decisions.”",
+    "url": "https://www.secoda.co/blog/finance-identity-verification-and-data-governance",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "using natural language prompts to analyze pipeline breakdowns by competitor and revenue, without writing SQL",
+    "url": "https://www.secoda.co/customers/dialpad-uses-secoda-core-layer-ai-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "; more than 200 employees engaged with Secoda AI after an all-hands mention from the CEO",
+    "url": "https://www.secoda.co/customers/dialpad-uses-secoda-core-layer-ai-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "“What was our revenue last month?”",
+    "url": "https://www.secoda.co/customers/dialpad-uses-secoda-core-layer-ai-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "They fed all opportunity cancel reasons into a well-documented opportunity table in Secoda, providing rich context on reasons, competitor names, and associated pipeline and revenue impact.",
+    "url": "https://www.secoda.co/customers/dialpad-uses-secoda-core-layer-ai-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "“What is the revenue impact by X competitor?”",
+    "url": "https://www.secoda.co/customers/dialpad-uses-secoda-core-layer-ai-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "Users could also follow up by pivoting the view from number of lost opportunities to revenue impact, or ask additional clarifying questions - all within Secoda AI.",
+    "url": "https://www.secoda.co/customers/dialpad-uses-secoda-core-layer-ai-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "To spark interest, Jesu partnered with Dialpad’s executive team. During an all-hands meeting attended by 800 employees, the CEO directly promoted Secoda AI as a tool for self-serve analytics. The response was immediate.",
+    "url": "https://www.secoda.co/customers/dialpad-uses-secoda-core-layer-ai-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "Within days, 200 employees engaged with Secoda AI to start asking their own questions. Jesu actively encouraged a culture shift: basic questions still belonged in dashboards, but more sophisticated questions, such as model-based predictions or deep analyses, should flow through Secoda AI.",
+    "url": "https://www.secoda.co/customers/dialpad-uses-secoda-core-layer-ai-infrastructure",
+    "pass": 1
+   },
+   {
+    "quote": "Companies like Chipotle, Cardinal Health, Kaufland, and Remitly use Secoda to get visibility into the health of their entire stack, reduce costs, and help their data teams run more efficiently.",
+    "url": "https://www.secoda.co/about",
+    "pass": 1
+   },
+   {
+    "quote": "Secoda AI helps users write and troubleshoot SQL, recommend join strategies, and even suggest business use cases for those queries. This lowers the barrier for less technical users and saves time for analysts by eliminating repetitive SQL tasks.",
+    "url": "https://www.secoda.co/blog/implementing-scalable-ai-workshop",
+    "pass": 1
+   },
+   {
+    "quote": "Secoda AI automatically interpreted the request, wrote the SQL, queried the data, and returned a clean chart showing year-over-year comparisons. It also provides a narrative summary that highlights trends and outliers.",
+    "url": "https://www.secoda.co/blog/implementing-scalable-ai-workshop",
+    "pass": 1
+   },
+   {
+    "quote": "That’s where Secoda’s customizable AI settings come into play. In this part of the webinar, we walked through how workspace admins can fine-tune Secoda AI to match team structure, data access policies, and use case requirements.",
+    "url": "https://www.secoda.co/blog/implementing-scalable-ai-workshop",
+    "pass": 1
+   },
+   {
+    "quote": "Secoda also offers built-in evaluations of AI accuracy, visibility into usage analytics, and the ability to QA AI-generated questions. Human-in-the-loop workflows and narrower scopes, such as limiting AI access to specific resources, further improve the quality, trustworthiness, and control of AI outputs.",
+    "url": "https://www.secoda.co/blog/implementing-scalable-ai-workshop",
+    "pass": 1
+   },
+   {
+    "quote": "As part of a heavily regulated industry, and under Mitsubishi’s ownership, LichtBlick also adheres to strict compliance standards under JSOX. Their data spans everything from customer account info and energy usage to billing and operational metrics. With such breadth and complexity,",
+    "url": "https://www.secoda.co/customers/lichtblick-established-scalable-data-governance-secoda",
+    "pass": 1
+   },
+   {
+    "quote": "As part of building a stronger data culture, LichtBlick has started highlighting",
+    "url": "https://www.secoda.co/customers/lichtblick-established-scalable-data-governance-secoda",
+    "pass": 1
+   },
+   {
+    "quote": "Making compliance a natural part of day-to-day operations",
+    "url": "https://www.secoda.co/customers/lichtblick-established-scalable-data-governance-secoda",
+    "pass": 1
+   },
+   {
+    "quote": ", helped uncover how measures connected to broader outcomes like sales or revenue. Every measure is now documented in Secoda and linked directly to relevant dashboards and datasets in Power BI and BigQuery.",
+    "url": "https://www.secoda.co/customers/miinto-embedded-ai-data-workflows-secoda",
+    "pass": 1
+   },
+   {
+    "quote": "PartnerStack helps partnership teams easily scale their program revenue by automating a variety of partner referral and sales motions in a single dashboard.",
+    "url": "https://www.secoda.co/customers/partnerstack-doubled-data-team-output-2-5x",
+    "pass": 1
+   },
+   {
+    "quote": "Typical data requests that Brendan and his team would be all over the board– it was typical for finance teams to ask for metrics, context, and data surrounding revenue and earnings, for the product team to make requests around usage and in-app behavior, the customer experience team to ask for customer churn metrics, the list of diverse requests is endless.",
+    "url": "https://www.secoda.co/customers/partnerstack-doubled-data-team-output-2-5x",
+    "pass": 1
+   },
+   {
+    "quote": "onboarding new employees",
+    "url": "https://www.secoda.co/customers/alegeus-drove-company-wide-engagement-data",
+    "pass": 1
+   },
+   {
+    "quote": "Finally, there was the issue of low engagement. The team struggled to motivate employees to contribute to a centralized knowledge base, leading to gaps in data documentation and inconsistent usage across the company. Without proper documentation, teams continued to work in silos, and the lack of active participation created inefficiencies that were hard to overcome.",
+    "url": "https://www.secoda.co/customers/alegeus-drove-company-wide-engagement-data",
+    "pass": 1
+   },
+   {
+    "quote": "Modernize a legacy data stack, and integrate new data sources following a major acquisition.",
+    "url": "https://www.secoda.co/customers/fullscript-scaled-data-reporting-enabled-company-wide-self-serve-analytics",
+    "pass": 1
+   },
+   {
+    "quote": "“A Kubernetes-based solution required a lot of engineer support and a wide array of specialized engineers,”",
+    "url": "https://www.secoda.co/customers/fullscript-scaled-data-reporting-enabled-company-wide-self-serve-analytics",
+    "pass": 1
+   },
+   {
+    "quote": "Tackling an acquisition mid-platform-migration",
+    "url": "https://www.secoda.co/customers/fullscript-scaled-data-reporting-enabled-company-wide-self-serve-analytics",
+    "pass": 1
+   },
+   {
+    "quote": "“The acquisition plans had been under wraps, so teams weren't even aware it was coming.”",
+    "url": "https://www.secoda.co/customers/fullscript-scaled-data-reporting-enabled-company-wide-self-serve-analytics",
+    "pass": 1
+   },
+   {
+    "quote": "While the acquisition represented a significant challenge for the data team, it also provided an opportunity to showcase the power of their modern data stack. Leveraging dbt Cloud, the team could quickly extend its existing data model and effectively map the data.",
+    "url": "https://www.secoda.co/customers/fullscript-scaled-data-reporting-enabled-company-wide-self-serve-analytics",
+    "pass": 1
+   },
+   {
+    "quote": "was becoming too time-consuming for the data team at Ankorstore. When we met their team, they were eclipsing 150 employees. 8 months later, they have over 400 employees across multiple countries. The data team knew that preparing for this growth and reducing the complexity of accessing data was going to save their team a lot of time down the line.",
+    "url": "https://www.secoda.co/customers/ankorstore-scaled-data-access-saved-5-hours-per-analyst",
+    "pass": 1
+   },
+   {
+    "quote": ". Ankorestore is a user of BigQuery, dbt and Cluvio, which is a less common dashboarding tool. By centralizing these sources and exposing them through Secoda, the Ankorstore team was able to reduce the new onboarding time from months to days for new employees.",
+    "url": "https://www.secoda.co/customers/ankorstore-scaled-data-access-saved-5-hours-per-analyst",
+    "pass": 1
+   },
+   {
+    "quote": ", coupled with its core features -- dictionaries, search, cataloguing, lineage, version history and shareable queries -- made it easy for all users to get started with data at Ankorstore and make smarter decisions faster. Secoda now serves Ankorstore as their one stop shop data portal and all new employees join Secoda as part of their",
+    "url": "https://www.secoda.co/customers/ankorstore-scaled-data-access-saved-5-hours-per-analyst",
+    "pass": 1
+   },
+   {
+    "quote": "Ankorsore initially piloted a paid plan for their core data team. After a successful pilot, the team expanded Secoda to over 200 people on their team and adds new users to Secoda as part of their onboarding to Ankorsore. Secoda proved to be the most suitable platform for finalizing the",
+    "url": "https://www.secoda.co/customers/ankorstore-scaled-data-access-saved-5-hours-per-analyst",
+    "pass": 1
+   },
+   {
+    "quote": "Those data teams that have to deal with unprecedented growth from their company will find Secoda an excellent solution. You should assess whether your data team is handling an increasing number of requests because it’s tough to find metrics that employees can refer to when onboarding. If that’s the case, it’s probably time to give Secoda a try.",
+    "url": "https://www.secoda.co/customers/ankorstore-scaled-data-access-saved-5-hours-per-analyst",
+    "pass": 1
+   },
+   {
+    "quote": "In this workshop, we explored how Secoda AI moves beyond experimentation and becomes part of everyday work. From Chats for real-time analysis, to Agents that automate recurring workflows, to Automation Blocks that keep metadata updated, we showed how these layers connect into a complete system for AI adoption.",
+    "url": "https://www.secoda.co/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Despite major advances in AI, a universal LLM for data still hasn’t arrived. In this MDS Fest 3.0 recap, Secoda CEO Etai Mizrahi breaks down the unique challenges—and what it’ll take to finally get there.",
+    "url": "https://www.secoda.co/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Today, with the introduction of AI-generated visualizations and deeper integrations across the modern data stack, Secoda AI makes spontaneous data exploration and faster, more accurate answers a reality. Read Etai Mizrahi’s thoughts on how Secoda continues to eliminate barriers between curiosity and trusted insights.",
+    "url": "https://www.secoda.co/blog",
+    "pass": 1
+   },
+   {
+    "quote": "Kaufland is a German hypermarket chain, part of the Schwarz Gruppe which also owns Lidl. It operates over 1,500 stores across Europe.",
+    "url": "https://www.secoda.co/customers/kaufland-e-commerce-automates-data-governance",
+    "pass": 1
+   },
+   {
+    "quote": "is one of the fastest-growing online marketplaces in Germany with over 500 employees in Cologne, Darmstadt and Düsseldorf. The ecommerce marketplace offers a comprehensive range of more than 37 million products from over 5,000 different categories. Each month, the platform services over 8 thousand sellers.",
+    "url": "https://www.secoda.co/customers/kaufland-e-commerce-automates-data-governance",
+    "pass": 1
+   },
+   {
+    "quote": "Thais isn’t just learning faster, she’s learning how to make a system for rapid skill acquisition for any new technology that comes her way.",
+    "url": "https://www.secoda.co/blog/how-data-teams-use-ai-in-2025-4-practical-case-studies-from-data-professionals",
+    "pass": 1
+   },
+   {
+    "quote": "For data teams that feel stuck playing catch-up, this mindset is a reminder that early involvement matters. It also points to a future where governance isn’t seen as a necessary evil, but as part of building a strong, scalable product from the ground up.",
+    "url": "https://www.secoda.co/blog/finance-identity-verification-and-data-governance",
+    "pass": 1
+   },
+   {
+    "quote": "“Most organizations have people doing governance, even if they don’t call it that… a big part of my job is just naming those things and building light processes around them.”",
+    "url": "https://www.secoda.co/blog/finance-identity-verification-and-data-governance",
+    "pass": 1
+   },
+   {
+    "quote": "Shifting the narrative around data governance",
+    "url": "https://www.secoda.co/blog/finance-identity-verification-and-data-governance",
+    "pass": 1
+   },
+   {
+    "quote": "One of the most valuable pieces of advice came from Beatrice, who reminded the audience that perfect conditions rarely arrive. You don’t need a 10-person team or a pristine data model to start building governance that matters.",
+    "url": "https://www.secoda.co/blog/finance-identity-verification-and-data-governance",
+    "pass": 1
+   },
+   {
+    "quote": "Secoda helps teams manage governance as a living, integrated part of their day-to-day. With features like",
+    "url": "https://www.secoda.co/blog/finance-identity-verification-and-data-governance",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver more meaningful data insights with a robust array of tools and partners who will help make the most of your Snowflake investment.",
+    "url": "https://www.snowflake.com/en/why-snowflake/partners/all-partners/secoda-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "Secoda (YC S21) Revenue 2023: $1.9M Est.",
+    "url": "https://getlatka.com/companies/secoda.co",
+    "pass": 3
+   },
+   {
+    "quote": "revenue & acquisition",
+    "url": "https://getlatka.com/companies/secoda.co",
+    "pass": 3
+   },
+   {
+    "quote": "Secoda (YC S21) was acquired.",
+    "url": "https://getlatka.com/companies/secoda.co",
+    "pass": 3
+   },
+   {
+    "quote": "Secoda (YC S21) revenue",
+    "url": "https://getlatka.com/companies/secoda.co",
+    "pass": 3
+   },
+   {
+    "quote": "Secoda (YC S21) has not published its revenue. Growjo puts it at about $1.9M a year (December 2023).",
+    "url": "https://getlatka.com/companies/secoda.co",
+    "pass": 3
+   },
+   {
+    "quote": "Secoda (YC S21) CEO, founders & employees",
+    "url": "https://getlatka.com/companies/secoda.co",
+    "pass": 3
+   },
+   {
+    "quote": "Etai Mizrahi founded Secoda (YC S21) in 2021 and led it as CEO. Secoda (YC S21) had 27 employees (December 2023, Growjo estimate).",
+    "url": "https://getlatka.com/companies/secoda.co",
+    "pass": 3
+   },
+   {
+    "quote": "What was Secoda (YC S21)'s revenue?",
+    "url": "https://getlatka.com/companies/secoda.co",
+    "pass": 3
+   },
+   {
+    "quote": "Growjo estimates Secoda (YC S21)'s revenue at about",
+    "url": "https://getlatka.com/companies/secoda.co",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Secoda (YC S21) have?",
+    "url": "https://getlatka.com/companies/secoda.co",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/secoda.co",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/secoda.co",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/secoda.co",
+    "pass": 3
+   },
+   {
+    "quote": "Mizrahi co-founded Secoda, which is based in Ontario, with Andrew McEwen in 2021. It’s the pair’s second venture together after Correly, a product demo platform, which Ottawa-based GenM acquired in 2019.",
+    "url": "https://techcrunch.com/2023/09/21/secoda-secures-16m-to-expand-its-data-cataloging-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Mizrahi and McEwen — both of whom joined GenM following Correly’s acquisition — say that they were spurred to launch Secoda after experiencing the challenge of using and analyzing data while at GenM. “A lack of documentation and process around managing data knowledge made it even more difficult,” Mizrahi added. “Frustrated with the inability to find and understand data, we started Secoda.”",
+    "url": "https://techcrunch.com/2023/09/21/secoda-secures-16m-to-expand-its-data-cataloging-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Secoda, which has 20 employees, claims to have grown revenue more than 250% year-over-year last year. That’s thanks to new customers, including Remitly, Too Good to Go, Babylist and Y Combinator, who’s also an investor.",
+    "url": "https://techcrunch.com/2023/09/21/secoda-secures-16m-to-expand-its-data-cataloging-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Secoda Stock Price, Funding, Valuation, Revenue & Financial Statements",
+    "url": "https://www.cbinsights.com/company/secoda-risk-management/financials",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "in Secoda to flag potential PII fields based on patterns like \"first name\" or \"email.\" Once flagged, fields are automatically surfaced to the right data owners for quick review. They also created a feedback loop to refine tagging rules based on real examples, improving accuracy over time. All classifications and changes are logged in Secoda to support JSOX compliance.",
+    "url": "https://www.secoda.co/customers/lichtblick-established-scalable-data-governance-secoda",
+    "pass": 1
+   },
+   {
+    "quote": "“Secoda’s mission is to make the experience of finding, understanding and using data as easy as a Google search,” Mizrahi told TechCrunch in an email interview. “Our vision is for any team member to ask anything about company data, and Secoda answers that question.”",
+    "url": "https://techcrunch.com/2023/09/21/secoda-secures-16m-to-expand-its-data-cataloging-platform/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Secoda - The AI platform for data and analytics — Secoda - The AI platform for data and analytics Secoda AI https://www.secoda.co",
+    "url": "https://www.secoda.co/",
+    "pass": 3
+   },
+   {
+    "quote": "Secoda Reviews & Ratings 2026 | Gartner Peer Insights — Secoda Reviews & Ratings 2026 | Gartner Peer Insights Gartner https://www.gartner.com > secoda",
+    "url": "https://www.gartner.com/reviews/product/secoda",
+    "pass": 3
+   },
+   {
+    "quote": "Secoda - LinkedIn — Secoda - LinkedIn LinkedIn https://ca.linkedin.com > secodahq",
+    "url": "https://ca.linkedin.com/company/secodahq",
+    "pass": 3
+   },
+   {
+    "quote": "Secoda Inc. | Snowflake Partners — Secoda Inc. | Snowflake Partners Snowflake https://www.snowflake.com > partners",
+    "url": "https://www.snowflake.com/en/why-snowflake/partners/all-partners/secoda-inc/",
+    "pass": 3
+   },
+   {
+    "quote": "Secoda is the AI layer for your Analytics | Y Combinator — Secoda is the AI layer for your Analytics | Y Combinator Y Combinator https://www.ycombinator.com > secoda",
+    "url": "https://www.ycombinator.com/companies/secoda",
+    "pass": 3
+   },
+   {
+    "quote": "Secoda (YC S21) Revenue 2023: $1.9M Est. - GetLatka — Secoda (YC S21) Revenue 2023: $1.9M Est. - GetLatka GetLatka https://getlatka.com > secoda",
+    "url": "https://getlatka.com/companies/secoda.co",
+    "pass": 3
+   },
+   {
+    "quote": "Secoda - 2026 Company Profile, Team, Funding & Competitors — Secoda - 2026 Company Profile, Team, Funding & Competitors Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/secoda/__csFEG6MLvTv9LSM3szIICnAWpehkfI7Bv0gImghtZDs",
+    "pass": 3
+   },
+   {
+    "quote": "Secoda secures $14M to expand its data cataloging platform — Secoda secures $14M to expand its data cataloging platform TechCrunch https://techcrunch.com > 2023/09/21",
+    "url": "https://techcrunch.com/2023/09/21/secoda-secures-16m-to-expand-its-data-cataloging-platform/",
+    "pass": 3
+   },
+   {
+    "quote": "Secoda Stock Price, Funding , Valuation, Revenue & Financial ... — Secoda Stock Price, Funding , Valuation, Revenue & Financial ... CB Insights https://www.cbinsights.com > financials",
+    "url": "https://www.cbinsights.com/company/secoda-risk-management/financials",
+    "pass": 3
+   },
+   {
+    "quote": "Secoda (Business/Productivity Software) 2026 Company Profile — Secoda (Business/Productivity Software) 2026 Company Profile PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/483928-48",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Joe Secoda (@JoeSecoda) / X Joe Secoda (@JoeSecoda) / X X https://x.com > JoeSecoda",
+    "url": "https://x.com/JoeSecoda",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Secoda - LinkedIn Secoda - LinkedIn LinkedIn https://ca.linkedin.com > secodahq",
+    "url": "https://ca.linkedin.com/company/secodahq",
+    "pass": 3
+   },
+   {
+    "quote": "Etai Mizrahi - Atlassian acquires Secoda - LinkedIn Etai Mizrahi - Atlassian acquires Secoda - LinkedIn LinkedIn https://www.linkedin.com > posts > et...",
+    "url": "https://www.linkedin.com/posts/etai-mizrahi-07656aa1_atlassian-acquires-secoda-secoda-activity-7402392809263034369-Avdy",
+    "pass": 3
+   },
+   {
+    "quote": "Atlassian Acquires Secoda for AI-Powered Data Management Atlassian Acquires Secoda for AI-Powered Data Management LinkedIn https://www.linkedin.com > posts > tif...",
+    "url": "https://www.linkedin.com/posts/tiffto_atlassian-acquires-secoda-secoda-activity-7402397202268250112-l3h0",
+    "pass": 3
+   },
+   {
+    "quote": "Ashley Secoda - SitusAMC - LinkedIn Ashley Secoda - SitusAMC - LinkedIn LinkedIn https://www.linkedin.com > ashley-se...",
+    "url": "https://www.linkedin.com/in/ashley-secoda-2608b2b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "SECODA (Southeast Coda) | Facebook SECODA (Southeast Coda) | Facebook Facebook https://www.facebook.com > Facebook Groups",
+    "url": "https://www.facebook.com/groups/secoda/",
+    "pass": 3
+   },
+   {
+    "quote": "Peter Secoda - Facebook Peter Secoda - Facebook Facebook https://www.facebook.com > peter.secoda",
+    "url": "https://www.facebook.com/peter.secoda/",
+    "pass": 3
+   },
+   {
+    "quote": "Jason Secoda - Facebook Jason Secoda - Facebook Facebook https://www.facebook.com > jason.secoda.1",
+    "url": "https://www.facebook.com/jason.secoda.1/",
+    "pass": 3
+   },
+   {
+    "quote": "Congratulations to Chloe Secoda '27 for winning the 2026 ... Congratulations to Chloe Secoda '27 for winning the 2026 ... Facebook https://www.facebook.com > conwellegan > posts > congr...",
+    "url": "https://www.facebook.com/conwellegan/posts/congratulations-to-chloe-secoda-27-for-winning-the-2026-knights-of-columbus-cath/1561040959358398/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.secoda.co/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secoda.co/customers/dialpad-uses-secoda-core-layer-ai-infrastructure",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secoda.co/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secoda.co/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secoda.co/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secoda.co/blog/implementing-scalable-ai-workshop",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secoda.co/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secoda.co/customers/lichtblick-established-scalable-data-governance-secoda",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secoda.co/customers/miinto-embedded-ai-data-workflows-secoda",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secoda.co/customers/partnerstack-doubled-data-team-output-2-5x",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secoda.co/customers/alegeus-drove-company-wide-engagement-data",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secoda.co/customers/fullscript-scaled-data-reporting-enabled-company-wide-self-serve-analytics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secoda.co/customers/ankorstore-scaled-data-access-saved-5-hours-per-analyst",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secoda.co/blog",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secoda.co/customers/kaufland-e-commerce-automates-data-governance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secoda.co/data-onboarding",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secoda.co/blog/best-git-for-data-tools-2025",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secoda.co/blog/how-data-teams-use-ai-in-2025-4-practical-case-studies-from-data-professionals",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secoda.co/blog/finance-identity-verification-and-data-governance",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/61ddd0b42c51f86c96e1e90e/6840906a5d7ef0da695ff451_partner-tile-logos.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/61ddd0b42c51f89b7de1e910/66f6e5e300614a9ee7de7016_customer%3Dpartnerstack.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trafficnews.jp/post/725198",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bestcarweb.jp/news/entame/1669612",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rakus.co.jp/rakurakucloud/hanbai/column/2021/0202.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=m9qq9nQP9KI",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://dairitenboshu.com/column/detail/soudairiten",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.secoda.co/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gartner.com/reviews/product/secoda",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ca.linkedin.com/company/secodahq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.snowflake.com/en/why-snowflake/partners/all-partners/secoda-inc/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://c3.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://goamplifi.com/knowledge-base/case-study-6-case-studies-of-data-management-success-in-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://manufacturingleadershipcouncil.com/case-study-transforming-through-manufacturing-4-0/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.agencyplatform.com/seo-reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/secoda.co",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/secoda/__csFEG6MLvTv9LSM3szIICnAWpehkfI7Bv0gImghtZDs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://techcrunch.com/2023/09/21/secoda-secures-16m-to-expand-its-data-cataloging-platform/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/secoda-risk-management/financials",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/JoeSecoda",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/company/secodahq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/etai-mizrahi-07656aa1_atlassian-acquires-secoda-secoda-activity-7402392809263034369-Avdy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/tiffto_atlassian-acquires-secoda-secoda-activity-7402397202268250112-l3h0",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/ashley-secoda-2608b2b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/secoda/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/peter.secoda/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/jason.secoda.1/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/conwellegan/posts/congratulations-to-chloe-secoda-27-for-winning-the-2026-knights-of-columbus-cath/1561040959358398/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Secoda 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.stellantis.jp/",
+    "https://trafficnews.jp/post/725198",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://www.webcg.net/articles/-/54501",
+    "https://toolin.ai/ja/tools/secoda",
+    "https://www.aba-j.or.jp/info/industry/20087/",
+    "https://www.jato.com/news-and-insights-japan/%E6%97%A5%E6%9C%AC%E3%81%AEota%E6%90%AD%E8%BC%89%E7%8E%87%E3%81%AF%E3%81%AA%E3%81%9C%E4%BD%8E%E3%81%84%E3%81%AE%E3%81%8B-%E4%B8%96%E7%95%8C4%E3%82%AB%E5%9B%BD%E3%81%A8%E3%81%AE%E6%AF%94%E8%BC%83%E3%81%A7%E8%A6%8B%E3%81%88%E3%82%8B%E8%AA%B2%E9%A1%8C%E3%81%A8%E5%B1%95%E6%9C%9B",
+    "https://www.secoda.co/",
+    "https://moge.ai/ja/product/secoda"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Secoda 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://www.rakus.co.jp/rakurakucloud/hanbai/column/2021/0202.php",
+    "https://www.youtube.com/watch?v=m9qq9nQP9KI",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://www.deex.co.jp/media/8uGKOPAJ",
+    "https://ecnomikata.com/blog/51120/",
+    "https://seed24.jp/agency/",
+    "https://j-dma.org/company",
+    "https://www.wadax.ne.jp/company/agent/",
+    "https://ja.wikipedia.org/wiki/セカンドストリート"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Secoda Japan",
+   "results": [
+    "https://www.secoda.co/",
+    "https://www.gartner.com/reviews/product/secoda",
+    "https://ca.linkedin.com/company/secodahq",
+    "https://www.snowflake.com/en/why-snowflake/partners/all-partners/secoda-inc/",
+    "https://www.ycombinator.com/companies/secoda",
+    "https://diginomica.com/atlassian-acquires-secoda-democratize-enterprise-data-analysis-business-teams",
+    "https://github.com/secoda",
+    "https://www.g2.com/products/secoda/reviews",
+    "https://tracxn.com/d/companies/secoda/__csFEG6MLvTv9LSM3szIICnAWpehkfI7Bv0gImghtZDs",
+    "https://lls.secoda.co/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Secoda manufacturing customer case study",
+   "results": [
+    "https://c3.ai/customers",
+    "https://f7i.ai/blog/beyond-the-hype-successful-case-studies-of-data-science-in-manufacturing-how-to-replicate-them",
+    "https://goamplifi.com/knowledge-base/case-study-6-case-studies-of-data-management-success-in-manufacturing",
+    "https://manufacturingleadershipcouncil.com/case-study-transforming-through-manufacturing-4-0/",
+    "https://www.factbird.com/resources/case-studies",
+    "https://www.rittal.com/us-en_US/Solutions/Case-studies",
+    "https://www.featuredcustomers.com/vendor/secoda",
+    "https://www.cdata.com/case-study/",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.secoda.co/customers"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Secoda white label OR reseller OR partner program",
+   "results": [
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.agencyplatform.com/seo-reseller-program/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "https://v2cloud.com/blog/white-label-saas-software-to-resell",
+    "https://www.setproduct.com/blog/white-label-seo-reseller-programs",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://content.platfio.com/blog/software-reseller-programs-worth-joining-2026",
+    "https://www.seoreseller.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Secoda founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/secoda.co",
+    "https://tracxn.com/d/companies/secoda/__csFEG6MLvTv9LSM3szIICnAWpehkfI7Bv0gImghtZDs",
+    "https://techcrunch.com/2023/09/21/secoda-secures-16m-to-expand-its-data-cataloging-platform/",
+    "https://www.cbinsights.com/company/secoda-risk-management/financials",
+    "https://pitchbook.com/profiles/company/483928-48",
+    "https://www.secoda.co/blog/secoda-series-a-monitoring",
+    "https://www.privco.com/company/secoda",
+    "https://www.crunchbase.com/organization/secoda",
+    "https://www.venturecapitaljournal.com/secoda-grabs-14m-series-a/",
+    "https://compworth.com/company/secoda-yc-s21"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com Secoda",
+   "results": [
+    "https://note.com/mtakanobu/n/n526898509fe3",
+    "https://note.com/rytmq/n/n72abdc1a742a",
+    "https://note.com/pttrner_tech/n/nde6ac8c6ac51",
+    "https://note.com/hiracky16/n/n228eb48a6758",
+    "https://note.com/staple_jp/n/n7d9ba8509648",
+    "https://note.com/kazaneya/n/ne3e16e5badb6",
+    "https://note.com/startup_anatomy/n/ne362bedaea21",
+    "https://note.com/pttrner_tech/n/nde6ac8c6ac51?hl=ko",
+    "https://note.com/datamanagement/n/n387676e21543",
+    "https://note.com/seigo77"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Secoda",
+   "results": [
+    "https://x.com/MizrahiEtai",
+    "https://x.com/jthandy",
+    "https://x.com/JoeSecoda",
+    "https://x.com/Soma_Capital",
+    "https://x.com/astorikhq",
+    "https://x.com/jefffluhr",
+    "https://x.com/omni",
+    "https://x.com/VincentJXue",
+    "https://x.com/fannicanelles",
+    "https://x.com/TKresleyy"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com Secoda",
+   "results": [
+    "https://ca.linkedin.com/company/secodahq",
+    "https://www.linkedin.com/posts/etai-mizrahi-07656aa1_atlassian-acquires-secoda-secoda-activity-7402392809263034369-Avdy",
+    "https://www.linkedin.com/posts/tiffto_atlassian-acquires-secoda-secoda-activity-7402397202268250112-l3h0",
+    "https://www.linkedin.com/in/ashley-secoda-2608b2b",
+    "https://ca.linkedin.com/in/etai-mizrahi-07656aa1",
+    "https://ca.linkedin.com/in/kpourdeilami",
+    "https://www.linkedin.com/posts/etai-mizrahi-07656aa1_secoda-aiadoption-aiagents-activity-7373797972662243329-AZbR",
+    "https://www.linkedin.com/posts/etai-mizrahi-07656aa1_big-milestone-to-share-today-since-our-activity-7513843904685748224-utAW",
+    "https://www.linkedin.com/in/joe-secoda-b7b58523",
+    "https://www.linkedin.com/posts/felixpu_atlassian-acquires-secoda-secoda-activity-7402399442126970880-CH8X"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:facebook.com Secoda",
+   "results": [
+    "https://www.facebook.com/groups/secoda/",
+    "https://www.facebook.com/peter.secoda/",
+    "https://www.facebook.com/jason.secoda.1/",
+    "https://www.facebook.com/conwellegan/posts/congratulations-to-chloe-secoda-27-for-winning-the-2026-knights-of-columbus-cath/1561040959358398/",
+    "https://www.facebook.com/p/Masleys-Auto-Wreckers-Secoda-Towing-100041181626039/",
+    "https://www.facebook.com/groups/1563879430578761/posts/3744117625888253/",
+    "https://www.facebook.com/groups/32794110546/posts/10159915244335547/",
+    "https://www.facebook.com/media/set/?set=a.10157329969734311&type=3",
+    "https://www.facebook.com/groups/thealdinerd/posts/2606850439533422/",
+    "https://www.facebook.com/secoda.autoparts/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Secoda note 社長",
+   "results": [
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://note.com/note_ir/n/n722b1675e9e7",
+    "https://x.com/sadaaki",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://diamond.jp/articles/-/388572",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/",
+    "https://www.secoda.co/authors/etai-mizrahi",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Secoda X 投稿",
+   "results": [
+    "https://www.secoda.co/blog/secoda-wrap-09",
+    "https://www.gartner.com/reviews/product/secoda",
+    "https://motherduck.com/webinar/data-discoverability-secoda-motherduck/",
+    "https://www.snowflake.com/en/why-snowflake/partners/all-partners/secoda-inc/",
+    "https://ca.linkedin.com/company/secodahq",
+    "https://chromewebstore.google.com/detail/secoda/akcolkhleaionhppniljgglpeeohkljk",
+    "https://www.ycombinator.com/companies/secoda",
+    "https://github.com/secoda",
+    "https://x.com/SecodaHQ",
+    "https://www.secoda.co/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式19頁／PDF・画像2件／外部33頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式19頁／PDF・画像2件／外部33頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式19頁／PDF・画像2件／外部33頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式19頁／PDF・画像2件／外部33頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式19頁／PDF・画像2件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式19頁／PDF・画像2件／外部33頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式19頁／PDF・画像2件／外部33頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式19頁／PDF・画像2件／外部33頁・検索12回）"
+ }
+}

@@ -1,0 +1,1965 @@
+{
+ "name": "Oasis",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜状態なし",
+ "researched_at": "2026-11-11T11:08:53.627691+00:00",
+ "official_url": "https://www.oasis.security",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "across IaaS, SaaS, PaaS, and on-prem environments, from AWS, Azure, and BigQuery to GitHub, ChatGPT, Salesforce, Office 365, and Copilot. No matter where agents live or who creates them, Oasis ensures governed, scalable agentic access so enterprises can adopt AI fast, and with confidence.",
+    "url": "https://www.oasis.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Eliminate the risk of over-privileged agentic access.",
+    "url": "https://www.oasis.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent outages for mission-critical services.",
+    "url": "https://www.oasis.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Fortune-50 healthcare provider eliminated a critical exposure, avoiding a $3–5 M HIPAA breach fine",
+    "url": "https://www.oasis.security/",
+    "pass": 1
+   },
+   {
+    "quote": "F500 Insurance capped outage affecting 50% of prod workloads",
+    "url": "https://www.oasis.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate Agent Identity Provisioning",
+    "url": "https://www.oasis.security/",
+    "pass": 1
+   },
+   {
+    "quote": "April 29, 2026",
+    "url": "https://www.oasis.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Service Principal vs. Managed Identity in Azure",
+    "url": "https://www.oasis.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Oasis is an award-winning leader in non-human identity security, recognized for innovation, impact, and excellence in protecting the modern identity fabric.",
+    "url": "https://www.oasis.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Continuously discover unauthorized tools, NHIs, and unmonitored agent activity across the enterprise.",
+    "url": "https://www.oasis.security/solutions/ai",
+    "pass": 1
+   },
+   {
+    "quote": "Enforce least privilege, isolate AI access, and ensure every action is tied to a governed identity.",
+    "url": "https://www.oasis.security/solutions/ai",
+    "pass": 1
+   },
+   {
+    "quote": "Automate provisioning, rotation, and enforcement to maintain policy alignment and reduce audit exposure at scale.",
+    "url": "https://www.oasis.security/solutions/ai",
+    "pass": 1
+   },
+   {
+    "quote": "From creation to deprovisioning, manage AI identities consistently with automated, policy-driven workflows.",
+    "url": "https://www.oasis.security/solutions/ai",
+    "pass": 1
+   },
+   {
+    "quote": "Sensitive Data Protection",
+    "url": "https://www.oasis.security/solutions/ai",
+    "pass": 1
+   },
+   {
+    "quote": "PromptFiction: a one-click flaw that made Claude Desktop act without consent",
+    "url": "https://www.oasis.security/solutions/ai",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically create an inventory of all your secrets, providing a clear map of where each secret resides.",
+    "url": "https://www.oasis.security/solutions/secret-rotation",
+    "pass": 1
+   },
+   {
+    "quote": "Auto-discovers all NHIs (Non-Human Identities). Oasis seamlessly connect with your environment and in minutes automatically creates a comprehensive inventory of all Non-Human Identities, providing a consolidated single pane of glass.",
+    "url": "https://www.oasis.security/solutions/secret-rotation",
+    "pass": 1
+   },
+   {
+    "quote": "Maintains a centralized view of all your secrets, regardless of where they are stored. Oasis consolidates information from multiple secret managers to offer a comprehensive overview of your secret landscape.",
+    "url": "https://www.oasis.security/solutions/secret-rotation",
+    "pass": 1
+   },
+   {
+    "quote": "Provides detailed insights into the usage of each secret. Understand who or what is accessing your secrets and for what purpose, enhancing your ability to manage and secure them effectively.",
+    "url": "https://www.oasis.security/solutions/secret-rotation",
+    "pass": 1
+   },
+   {
+    "quote": "Ensures all secrets comply with regulatory requirements and your organization’s policies by allowing you to customize and enforce specific security protocols.",
+    "url": "https://www.oasis.security/solutions/secret-rotation",
+    "pass": 1
+   },
+   {
+    "quote": "Rotates secrets automatically based on predefined policies. Oasis reduces the risk of exposure by ensuring secrets are updated regularly without manual intervention.",
+    "url": "https://www.oasis.security/solutions/secret-rotation",
+    "pass": 1
+   },
+   {
+    "quote": "Safely retires secrets that are no longer in use. Oasis automates the decommissioning process, ensuring that obsolete secrets do not pose a security risk.",
+    "url": "https://www.oasis.security/solutions/secret-rotation",
+    "pass": 1
+   },
+   {
+    "quote": "Managing secrets reduces the risk of credential compromise by minimizing the window of opportunity for attackers and mitigating insider threats​​​​.",
+    "url": "https://www.oasis.security/solutions/secret-rotation",
+    "pass": 1
+   },
+   {
+    "quote": "Orchestrating secret lifecycle prevents downtime due to expired secrets and reduces the manual workload on IT and security teams.",
+    "url": "https://www.oasis.security/solutions/secret-rotation",
+    "pass": 1
+   },
+   {
+    "quote": "Secret lifecycle practices helps organizations meet regulatory standards and simplifies the auditing process, ensuring adherence to legal frameworks.",
+    "url": "https://www.oasis.security/solutions/secret-rotation",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate business systems rapidly with Oasis using our BYOI (Bring Your Own Infrastructure) architecture. IaaS/PaaS/SaaS and On-Prem – Oasis begins to retrieve their NHI data instantly.",
+    "url": "https://www.oasis.security/solutions/asset-management",
+    "pass": 1
+   },
+   {
+    "quote": "Oasis’s Context Reconstruction Engine provides deep insights and visualizations on identity consumers, secrets and privileges, enabling ILM, remediation, and operational continuity.",
+    "url": "https://www.oasis.security/solutions/asset-management",
+    "pass": 1
+   },
+   {
+    "quote": "Discover third-party identities with access to your most trusted resources. Oasis provides visibility into third-party vendor reputation and risk, enabling you to avoid unauthorized access to sensitive data and potential supply chain attacks.",
+    "url": "https://www.oasis.security/solutions/asset-management",
+    "pass": 1
+   },
+   {
+    "quote": "Operationalize, prioritize, collaborate",
+    "url": "https://www.oasis.security/solutions/asset-management",
+    "pass": 1
+   },
+   {
+    "quote": "Oasis enables you to orchestrate identity management initiatives. Group issues into projects and assign tasks to team members. Use workflows to trigger support tickets in your ITSM and notifications in collaboration channels.",
+    "url": "https://www.oasis.security/solutions/asset-management",
+    "pass": 1
+   },
+   {
+    "quote": "“We’ve been trying to get ownership mapped to the right people without making them log into every tool. Oasis just gets it. The way they handle provisioning, context, and identity is what we’ve been asking for all along.”",
+    "url": "https://www.oasis.security/solutions/asset-management",
+    "pass": 1
+   },
+   {
+    "quote": "April 29, 2026",
+    "url": "https://www.oasis.security/solutions/asset-management",
+    "pass": 1
+   },
+   {
+    "quote": "Service Principal vs. Managed Identity in Azure",
+    "url": "https://www.oasis.security/solutions/asset-management",
+    "pass": 1
+   },
+   {
+    "quote": "Taming the Machine Mayhem: 5 Steps to Kickstart Your ISPM Program",
+    "url": "https://www.oasis.security/solutions/asset-management",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive Guide to Non-Human Identity Management",
+    "url": "https://www.oasis.security/solutions/asset-management",
+    "pass": 1
+   },
+   {
+    "quote": "April 10, 2025",
+    "url": "https://www.oasis.security/solutions/asset-management",
+    "pass": 1
+   },
+   {
+    "quote": "Gain visibility into your NHI security posture and prioritize critical issues first.",
+    "url": "https://www.oasis.security/solutions/posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "Oasis provides tools and guidance to resolve NHI risks and improve your overall security.",
+    "url": "https://www.oasis.security/solutions/posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "Oasis alerts you about NHI-related risks, using AI-based analytics to identify compromise attempts, policy violations, misconfigurations, toxic combinations, and anomalies.",
+    "url": "https://www.oasis.security/solutions/posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "Oasis helps you prioritize NHI alerts by assigning severity levels based on risk factors. Address critical alerts first, reducing your organization’s risk and improving security posture.",
+    "url": "https://www.oasis.security/solutions/posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "Non-human identities present unique security and compliance challenges. Oasis provides a comprehensive view of hygiene issues, such as stale, unrotated and overprivileged identities, enabling you to reduce risks and manage NHIs according to best practices.",
+    "url": "https://www.oasis.security/solutions/posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "Oasis provides powerful remediation tools, enabling you to resolve issues quickly in your identity provider and vaults. Assisted remediation includes click-and-fix actions, automations and workflows. Reduce MTTR (Mean Time to Resolution) and solve issues permanently.",
+    "url": "https://www.oasis.security/solutions/posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "Discover third-party identities with access to your most trusted resources. Oasis provides visibility into third-party vendor reputation and risk, enabling you to avoid unauthorized access to sensitive data and potential supply chain attacks.",
+    "url": "https://www.oasis.security/solutions/posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "Compliance frameworks now include non-human identities. Oasis presents compliance dashboards for frameworks like PCI, SOX, NIST CSF and more, enabling you to address NHI controls and track your progress.",
+    "url": "https://www.oasis.security/solutions/posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "Establish action plans to address NHI posture issues using Oasis projects and workflows. Track progress and report achievements on your security plan to your management.",
+    "url": "https://www.oasis.security/solutions/posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "April 29, 2026",
+    "url": "https://www.oasis.security/solutions/posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "April 6, 2026",
+    "url": "https://www.oasis.security/solutions/posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "When Supply Chain Attacks Meet NHI Sprawl",
+    "url": "https://www.oasis.security/solutions/posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "The Salesloft OAuth compromise: what it changed, and what to do next",
+    "url": "https://www.oasis.security/solutions/posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive Guide to Non-Human Identity Management",
+    "url": "https://www.oasis.security/solutions/posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "OneDrive File Picker Flaw Provides ChatGPT and Other Web Apps Full Read Access to Users’ Entire OneDrive",
+    "url": "https://www.oasis.security/solutions/posture-management",
+    "pass": 1
+   },
+   {
+    "quote": "Privileged Access Management | Oasis Security",
+    "url": "https://www.oasis.security/solutions/privileged-access-management",
+    "pass": 1
+   },
+   {
+    "quote": "Long-lived secrets persist because rotation risks an outage no one can predict.",
+    "url": "https://www.oasis.security/solutions/privileged-access-management",
+    "pass": 1
+   },
+   {
+    "quote": "Privileged accounts has no active owner",
+    "url": "https://www.oasis.security/solutions/privileged-access-management",
+    "pass": 1
+   },
+   {
+    "quote": "The average enterprise runs 5–10 secret stores in parallel — enterprise PAM, cloud-native vaults, developer secret managers, and homegrown stores. No single vault was designed to govern the others, and the gaps between them are where non-human identity risk lives.",
+    "url": "https://www.oasis.security/solutions/privileged-access-management",
+    "pass": 1
+   },
+   {
+    "quote": "Universal Discovery and Vault Onboarding",
+    "url": "https://www.oasis.security/solutions/privileged-access-management",
+    "pass": 1
+   },
+   {
+    "quote": "Define rotation cadence, ownership, least-privilege rules, and expiration once - enforced uniformly across CyberArk, BeyondTrust, Delinea, and more.",
+    "url": "https://www.oasis.security/solutions/privileged-access-management",
+    "pass": 1
+   },
+   {
+    "quote": "Assign and enforce ownership for every non-human identity - tied to policy, alerting, and review workflows. Accountability becomes a control, not a spreadsheet.",
+    "url": "https://www.oasis.security/solutions/privileged-access-management",
+    "pass": 1
+   },
+   {
+    "quote": "Oasis works with your PAM, not around it. Your CyberArk, BeyondTrust, Delinea, and vault investments are preserved and amplified - never duplicated or displaced.",
+    "url": "https://www.oasis.security/solutions/privileged-access-management",
+    "pass": 1
+   },
+   {
+    "quote": "Audit-ready evidence for every privileged credential",
+    "url": "https://www.oasis.security/solutions/privileged-access-management",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "F200 Manufacturing enforced M&A compliance on new acquired envs",
+    "url": "https://www.oasis.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Ensure secure access to mission-critical cloud applications and industrial systems, reducing the risk of data theft and system failures.",
+    "url": "https://www.oasis.security/solutions/energy",
+    "pass": 1
+   },
+   {
+    "quote": "Automate secret management and monitor NHI activity to prevent disruptions caused by expired credentials or unauthorized access.",
+    "url": "https://www.oasis.security/solutions/energy",
+    "pass": 1
+   },
+   {
+    "quote": "Hijacked machine identities interfere with industrial control systems",
+    "url": "https://www.oasis.security/solutions/energy",
+    "pass": 1
+   },
+   {
+    "quote": "Many energy companies use automated machinery and industrial control systems (ICS) for operations. If attackers compromise NHIs tied to SCADA or DERMS, they could manipulate grid operations, cause cascading outages, or disrupt renewable energy distribution.",
+    "url": "https://www.oasis.security/solutions/energy",
+    "pass": 1
+   },
+   {
+    "quote": "Protect industrial control systems (ICS) and machine identities",
+    "url": "https://www.oasis.security/solutions/energy",
+    "pass": 1
+   },
+   {
+    "quote": "Energy companies rely on industrial control systems (ICS) and automations for efficient operations. Oasis ensures that machine identities such as service accounts used to control these systems are secure, reducing the risk of unauthorized access.",
+    "url": "https://www.oasis.security/solutions/energy",
+    "pass": 1
+   },
+   {
+    "quote": "TRUSTED BY LEADING ORGANIZATIONS",
+    "url": "https://www.oasis.security/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "IAQGは9100QMS認証データを登録し一元的に把握する世界統一のデータベースシステム（Online Aerospace Supplier Information System；",
+    "url": "https://jaqg.sjac.or.jp/data/oasis.html",
+    "pass": 3
+   },
+   {
+    "quote": "Grossman Interactive Case Study: Oasis – Oasis - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/grossman-interactive/case-study/oasis-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Oasis - Customer Case Study",
+    "url": "https://www.casestudies.com/company/grossman-interactive/case-study/oasis-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how Oasis used Grossman Interactive",
+    "url": "https://www.casestudies.com/company/grossman-interactive/case-study/oasis-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/grossman-interactive/case-study/oasis-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/grossman-interactive/case-study/oasis-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study Guidelines - OASIS Open",
+    "url": "https://www.oasis-open.org/policies-guidelines/casestudies/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study Guidelines",
+    "url": "https://www.oasis-open.org/policies-guidelines/casestudies/",
+    "pass": 3
+   },
+   {
+    "quote": "OASIS case study template",
+    "url": "https://www.oasis-open.org/policies-guidelines/casestudies/",
+    "pass": 3
+   },
+   {
+    "quote": "Content must be approved by OASIS Communications staff. If the case study is a deliverable of one or more OASIS Committees, the members of that Committee must also review and formally approve the content.",
+    "url": "https://www.oasis-open.org/policies-guidelines/casestudies/",
+    "pass": 3
+   },
+   {
+    "quote": "Those who contribute technically and/or financially to an OASIS case study will be appropriately acknowledged for their support, as defined in the",
+    "url": "https://www.oasis-open.org/policies-guidelines/casestudies/",
+    "pass": 3
+   },
+   {
+    "quote": "to recommend implementations of OASIS Standards or specifications that would serve as useful case study subject material.",
+    "url": "https://www.oasis-open.org/policies-guidelines/casestudies/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Oasis has been acquired by Cyera. Discover how we’re building the next-generation AI security platform",
+    "url": "https://www.oasis.security/",
+    "pass": 1
+   },
+   {
+    "quote": "F200 Manufacturing enforced M&A compliance on new acquired envs",
+    "url": "https://www.oasis.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent unauthorized access and data breaches that threaten your brand, customer loyalty, and revenue with proactive NHI management.",
+    "url": "https://www.oasis.security/solutions/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Bots managing pricing, inventory, or customer service are vulnerable to hijacking. Attackers can exploit weak NHIs to manipulate prices, fake orders, or disrupt stock, hitting revenue and trust.",
+    "url": "https://www.oasis.security/solutions/retail",
+    "pass": 1
+   },
+   {
+    "quote": "As we grow, we are on the lookout for passionate individuals to join our dynamic team. Here, you’ll work alongside industry experts, push the boundaries of security innovation, and make a direct impact in protecting the digital world. If you’re passionate about solving real security problems and want to be part of a team that’s shaping the future of cybersecurity, we’d love to meet you.",
+    "url": "https://www.oasis.security/careers",
+    "pass": 1
+   },
+   {
+    "quote": "in most enterprises, and it breaks down further for AI agents and MCP servers that now appear on managed endpoints carrying hardcoded secrets and broad standing access, often without the security team's knowledge.",
+    "url": "https://www.oasis.security/blog/oasis-zscaler-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "The shift to agentic AI raises the stakes on identity, because an agent's reach is only as safe as the identity it carries. As enterprises route agentic communication through inline control points, including emerging agent and MCP brokers such as the newly announced",
+    "url": "https://www.oasis.security/blog/oasis-zscaler-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Identity security is no longer just about authentication. It must understand intent. NHIs now outnumber human ones and often carry greater risk. And as AI systems become more autonomous,",
+    "url": "https://www.oasis.security/blog/identity-security-2025-ai-agents",
+    "pass": 1
+   },
+   {
+    "quote": "was a silo, a checkbox managed by legacy vaults and static perimeters. But as the recent strategic moves by CrowdStrike (including the acquisitions of SGNL and Seraphic Security) make clear, the industry is no longer satisfied with just",
+    "url": "https://www.oasis.security/blog/oasis-crowdstrike-marketplace-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Acquisitions are a journey. Oasis acts as the connective tissue that allows customers to realize the benefits of a unified identity vision today. We help bridge the path as CrowdStrike continues to innovate, ensuring customers stay ahead of the curve.",
+    "url": "https://www.oasis.security/blog/oasis-crowdstrike-marketplace-partnership",
+    "pass": 1
+   },
+   {
+    "quote": "Harry Potter Studio Tour Tokyo",
+    "url": "https://www.japanconcerttickets.com/artist/oasis/",
+    "pass": 3
+   },
+   {
+    "quote": "The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.",
+    "url": "https://www.japanconcerttickets.com/artist/oasis/",
+    "pass": 3
+   },
+   {
+    "quote": "Oasis, the legendary British rock band led by Liam and Noel Gallagher, is performing at Tokyo Dome in Bunkyo, Tokyo, on October 25 and 26, 2025, as part of their",
+    "url": "https://jasumo.com/listing/oasis-live-japan-tour-tokyo-dome-ticket-information/",
+    "pass": 3
+   },
+   {
+    "quote": "Let us make your trip effortless. From tickets and hotels to transport and local guides, we arrange everything for you or your group. Whether it’s a music festival in Tokyo or a business conference in Osaka, our custom travel service ensures you enjoy the event stress-free.",
+    "url": "https://jasumo.com/listing/oasis-live-japan-tour-tokyo-dome-ticket-information/",
+    "pass": 3
+   },
+   {
+    "quote": "); caution advised due to inflated prices (e.g., ¥84,046 for A Seat) and risk of invalid tickets. Live Nation warns against unofficial channels like Viagogo or StubHub, as tickets may not arrive or may be voided.",
+    "url": "https://jasumo.com/listing/oasis-live-japan-tour-tokyo-dome-ticket-information/",
+    "pass": 3
+   },
+   {
+    "quote": "Sell off costly storage units, reclaim space for new revenue streams and services, or downsize to a more eco-friendly footprint.",
+    "url": "https://www.oasisgroup.com/what-we-do/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "OASIS Advisors Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/oasis-advisors-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "OASIS Advisors Revenue",
+    "url": "https://prospeo.io/c/oasis-advisors-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At OASIS Advisors",
+    "url": "https://prospeo.io/c/oasis-advisors-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/oasis-advisors-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/oasis-advisors-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/oasis-advisors-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of OASIS Advisors?",
+    "url": "https://prospeo.io/c/oasis-advisors-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "OASIS Advisors generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/oasis-advisors-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/oasis-advisors-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/oasis-advisors-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does OASIS Advisors have?",
+    "url": "https://prospeo.io/c/oasis-advisors-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/oasis-advisors-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Oasis Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/oasis-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Oasis",
+    "url": "https://prospeo.io/c/oasis-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/oasis-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/oasis-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/oasis-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Oasis?",
+    "url": "https://prospeo.io/c/oasis-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Oasis generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/oasis-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/oasis-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/oasis-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Oasis have?",
+    "url": "https://prospeo.io/c/oasis-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/oasis-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "トニー・マッキャロル（Tony McCarroll）",
+    "url": "https://note.com/zz100000zz/n/n7141fa359484",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Prevent unauthorized access and data breaches that threaten your brand, customer loyalty, and revenue with proactive NHI management.",
+    "url": "https://www.oasis.security/solutions/retail",
+    "pass": 1
+   },
+   {
+    "quote": "Reseller Pricing (Per Ticket, Subject to Change, per Viagogo/TicketJam)",
+    "url": "https://jasumo.com/listing/oasis-live-japan-tour-tokyo-dome-ticket-information/",
+    "pass": 3
+   },
+   {
+    "quote": "Columbia (White Label Demo) - YouTube",
+    "url": "https://www.youtube.com/watch?v=t-rSelwQirQ",
+    "pass": 3
+   },
+   {
+    "quote": "Columbia (White Label Demo)",
+    "url": "https://www.youtube.com/watch?v=t-rSelwQirQ",
+    "pass": 3
+   },
+   {
+    "quote": "Oasis - Columbia (Guitar Cover) White Label Demo Version",
+    "url": "https://www.youtube.com/watch?v=t-rSelwQirQ",
+    "pass": 3
+   },
+   {
+    "quote": "Columbia (White Label Demo) · Oasis · Noel Gallagher",
+    "url": "https://www.youtube.com/watch?v=t-rSelwQirQ",
+    "pass": 3
+   },
+   {
+    "quote": "Columbia (White Label Demo) - YouTube",
+    "url": "https://www.youtube.com/watch?v=Zm0aw5Xzfjc",
+    "pass": 3
+   },
+   {
+    "quote": "Columbia (White Label Demo)",
+    "url": "https://www.youtube.com/watch?v=Zm0aw5Xzfjc",
+    "pass": 3
+   },
+   {
+    "quote": "Oasis - Columbia (Guitar Cover) White Label Demo Version",
+    "url": "https://www.youtube.com/watch?v=Zm0aw5Xzfjc",
+    "pass": 3
+   },
+   {
+    "quote": "Columbia (White Label Demo) · Oasis · Noel Gallagher",
+    "url": "https://www.youtube.com/watch?v=Zm0aw5Xzfjc",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "主に日本のJIS Q 9100認証取得組織様／認証機関様の便宜のため、特に説明が必要なものについて、日本語の操作マニュアルなどを公開しますのでご活用ください",
+    "url": "https://jaqg.sjac.or.jp/data/oasis.html",
+    "pass": 3
+   },
+   {
+    "quote": "小野薬品工業株式会社（本社：大阪市中央区、代表取締役社長：相良 暁、以下「小野薬品」）と日鉄ソリューションズ株式会社（本社：東京都港区、代表取締役社長：森田 宏之、以下「NSSOL」）は、共同でデータドリブンな統合データ利活用基盤「OASIS（Ono Advanced Scientific Insight Service）」を構築し、小野薬品が社内で保有するデータを一元管理して、全社的に利活用できるOASISの利用を開始しましたことをお知らせします",
+    "url": "https://www.ono-pharma.com/ja/news/20221111.html",
+    "pass": 3
+   },
+   {
+    "quote": "NSSOLは2016年にDataRobot社の日本国内最初の代理店となり、2020年には同社と戦略的業務提携契約を締結",
+    "url": "https://www.ono-pharma.com/ja/news/20221111.html",
+    "pass": 3
+   },
+   {
+    "quote": "Oasisは最高峰のロックバンドとして帰ってきた――名曲の凄みを惜しみなく届けた東京ドーム公演 - Real Sound｜リアルサウンド",
+    "url": "https://realsound.jp/2025/10/post-2204695.html",
+    "pass": 3
+   },
+   {
+    "quote": "Oasisの再結成が発表されたのが2024年8月27日で、日本公演がアナウンスされたのが11月22日",
+    "url": "https://realsound.jp/2025/10/post-2204695.html",
+    "pass": 3
+   },
+   {
+    "quote": "筆者は音楽ライターなので日々いろんなミュージシャンに取材しているのだが、彼ら・彼女らの多くも我々と同じで、「やっぱり観たいですよね」「行くんですか？」「チケット取れたんですか！？」「演奏すごいらしいですね」「というか、その日は自分のライブだから行けない」みたいな会話が、「それにしても暑いですよね」と同じくらいの頻度で交わされた2025年の日々を経て、10月25日・26日の2日間、ついに東京ドームのステージにOasisが現れたのだった",
+    "url": "https://realsound.jp/2025/10/post-2204695.html",
+    "pass": 3
+   },
+   {
+    "quote": "両日ともあいにくの天気だったのだが、開演の1時間半ほど前に東京ドームに到着すると、すでにビールを片手にしたオーディエンスたちが盛り上がっている",
+    "url": "https://realsound.jp/2025/10/post-2204695.html",
+    "pass": 3
+   },
+   {
+    "quote": "10月25日と26日、オアシスの再結成ツアー〈live ’25〉の日本公演が東京ドームで開催された",
+    "url": "https://mikiki.tokyo.jp/articles/-/43116",
+    "pass": 3
+   },
+   {
+    "quote": "〈これぞオアシス!〉というライブを東京ドームで体験",
+    "url": "https://mikiki.tokyo.jp/articles/-/43116",
+    "pass": 3
+   },
+   {
+    "quote": "正直どこから話せばいいのか……むしろ東京ドームに向かう道中から会場を出るまでの一部始終を語りたいぐらいで",
+    "url": "https://mikiki.tokyo.jp/articles/-/43116",
+    "pass": 3
+   },
+   {
+    "quote": "現地で見た人の多くが〈東京ドームなのに音が良い!〉とSNSで呟いていましたが、スピーカー自体の進化や出音の良さはもちろん、ここまでスタジアム規模の会場で彼らのライブの音を作ってきたPAクルーの経験もあってこその成果だと思ってます",
+    "url": "https://mikiki.tokyo.jp/articles/-/43116",
+    "pass": 3
+   },
+   {
+    "quote": "あと、自分は2009年のフジロックでのライブも見ているんですが、ノエルとリアム、そして日本のファンにとってこの16年は決して無駄ではなかった、むしろこの感動を得るために必要な時間だったんだなと、改めてライブを見て思いました",
+    "url": "https://mikiki.tokyo.jp/articles/-/43116",
+    "pass": 3
+   },
+   {
+    "quote": "そういった語り草になるトピックって意外と日本で多い気がします",
+    "url": "https://mikiki.tokyo.jp/articles/-/43116",
+    "pass": 3
+   },
+   {
+    "quote": "それだけオアシスと日本とが深い関係を築いているという証拠でもありますが」",
+    "url": "https://mikiki.tokyo.jp/articles/-/43116",
+    "pass": 3
+   },
+   {
+    "quote": "それは今回の東京ドーム公演でも感じました」",
+    "url": "https://mikiki.tokyo.jp/articles/-/43116",
+    "pass": 3
+   },
+   {
+    "quote": "「あれは鳥肌が立ちましたね! SNSでも日本でのポズナンの映像が世界のオアシスファンの間で話題になってました",
+    "url": "https://mikiki.tokyo.jp/articles/-/43116",
+    "pass": 3
+   },
+   {
+    "quote": "日本はアリーナ席にも椅子があったし、そもそも世界的に〈日本のオーディエンスは静かで行儀が良い〉なんていう共通認識が昔からずっとありますから",
+    "url": "https://mikiki.tokyo.jp/articles/-/43116",
+    "pass": 3
+   },
+   {
+    "quote": "東京ドームに向かう道中、新宿駅ぐらいからアディダスとコラボしたコーチジャケットを着ている人がたくさんいました",
+    "url": "https://mikiki.tokyo.jp/articles/-/43116",
+    "pass": 3
+   },
+   {
+    "quote": "ライブが行われた2日間が興奮の頂点だったと思いますが、日本全土を巻き込んでのオアシスフィーバーは後にも先にももう体験できないかもしれませんね",
+    "url": "https://mikiki.tokyo.jp/articles/-/43116",
+    "pass": 3
+   },
+   {
+    "quote": "「2026年も再結成ツアーは続くのではないかと噂されてますが、とにかくオアシスとしてまた早く日本に戻ってきてほしいですよね",
+    "url": "https://mikiki.tokyo.jp/articles/-/43116",
+    "pass": 3
+   },
+   {
+    "quote": "2016年より、日本各地の音楽フェスティバルに関する経済波及効果を計算してきた実績は100案件を超えます",
+    "url": "https://oasis-jp.org/",
+    "pass": 3
+   },
+   {
+    "quote": "日本各地の、祭り・イベント・美術展の経済波及効果を試算しています",
+    "url": "https://oasis-jp.org/",
+    "pass": 3
+   },
+   {
+    "quote": "社員選手と外部から参加するクラブ選手によって構成される「非企業型・グラブチーム」として活動しており、日本の社会人アメリカ",
+    "url": "https://oasis-jp.org/",
+    "pass": 3
+   },
+   {
+    "quote": "フジロックフェスティバルにおける私たちの取り組み：持続可能な音楽フェスの実現に向けて日本最大級の野外音楽イベント「フジロックフェスティバル」",
+    "url": "https://oasis-jp.org/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Strategic Fund、Japan Strategic Offshore FeederおよびJapan Strategic US Feederは、CIMAに登録投資信託として登録されています（それぞれNo. 736405、No. 736406およびNo. 736408）",
+    "url": "https://ja.oasiscm.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Strategic Fund Y Ltd.、Japan Strategic Y Offshore FeederおよびJapan Strategic Y US Feederは、CIMAに登録投資信託として登録されています（それぞれNo. 2112666、No. 2112611、およびNo. 2112633）",
+    "url": "https://ja.oasiscm.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Oasis Management (Japan) Ltd.（「オアシス日本」）は、東京で事業を運営するオアシスの完全所有関連会社であり、金融商品取引法に基づき、オアシスとその関連会社にリサーチおよび投資顧問サービスを提供しています",
+    "url": "https://ja.oasiscm.com/",
+    "pass": 3
+   },
+   {
+    "quote": "オアシス日本は、2021年より関東財務局に金融商品取引業者（投資助言代理業）（関東財務局長（金商）第3270号）として登録されています",
+    "url": "https://ja.oasiscm.com/",
+    "pass": 3
+   },
+   {
+    "quote": "オアシスマネジメント、オアシス香港、オアシス日本およびOCALは、それぞれOCPIのフォームADVに「リライングアドバイザー」（関係会社の登録に基づく投資顧問業者）として記載されており、そのためSECに「リライングアドバイザー」として登録されています",
+    "url": "https://ja.oasiscm.com/",
+    "pass": 3
+   },
+   {
+    "quote": "共同で議決権を行使する旨の合意がある株主は、日本の大量保有報告制度において「共同保有者」とみなされ、その保有株式数の合計について、日本の所管当局に届出を行い、公開する必要があります",
+    "url": "https://ja.oasiscm.com/",
+    "pass": 3
+   },
+   {
+    "quote": "オアシスは、本書、公式声明、またはオアシスが作成および/もしくは公表したその他の情報もしくは資料（書面によるものか口頭によるものかを問わず、また媒体を問わない）における、またはこれらを通じた、見解や意見の表明、および/または株主その他の第三者との関与を理由として、日本の金融商品取引法（「FIEA」）に基づき、その他の株主との共同保有者および/または特別関係者として扱われることを意図するものではありません",
+    "url": "https://ja.oasiscm.com/",
+    "pass": 3
+   },
+   {
+    "quote": "現在、オアシスファンドに日本在住の投資家が投資することはできません",
+    "url": "https://ja.oasiscm.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Oasis in Japan - Tickets & Event Information",
+    "url": "https://www.japanconcerttickets.com/artist/oasis/",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo Concerts by Month",
+    "url": "https://www.japanconcerttickets.com/artist/oasis/",
+    "pass": 3
+   },
+   {
+    "quote": "Osaka Concerts by Month",
+    "url": "https://www.japanconcerttickets.com/artist/oasis/",
+    "pass": 3
+   },
+   {
+    "quote": "Music Bank Global Festival Japan",
+    "url": "https://www.japanconcerttickets.com/artist/oasis/",
+    "pass": 3
+   },
+   {
+    "quote": "Harry Potter Studio Tour Tokyo",
+    "url": "https://www.japanconcerttickets.com/artist/oasis/",
+    "pass": 3
+   },
+   {
+    "quote": "Tokyo Disneyland & Disney Sea",
+    "url": "https://www.japanconcerttickets.com/artist/oasis/",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese Ticketing Basics",
+    "url": "https://www.japanconcerttickets.com/artist/oasis/",
+    "pass": 3
+   },
+   {
+    "quote": "Buying Tickets in Japan",
+    "url": "https://www.japanconcerttickets.com/artist/oasis/",
+    "pass": 3
+   },
+   {
+    "quote": "SIM Cards (Japanese Phone Number)",
+    "url": "https://www.japanconcerttickets.com/artist/oasis/",
+    "pass": 3
+   },
+   {
+    "quote": "Oasis: Japan Tour Dates & Ticket Details 2026 & 2027",
+    "url": "https://www.japanconcerttickets.com/artist/oasis/",
+    "pass": 3
+   },
+   {
+    "quote": "Don't miss the next Japan tour",
+    "url": "https://www.japanconcerttickets.com/artist/oasis/",
+    "pass": 3
+   },
+   {
+    "quote": "Joining 4,800+ Japan concert fans.",
+    "url": "https://www.japanconcerttickets.com/artist/oasis/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Concert Tickets",
+    "url": "https://www.japanconcerttickets.com/artist/oasis/",
+    "pass": 3
+   },
+   {
+    "quote": "info@japanconcerttickets.com",
+    "url": "https://www.japanconcerttickets.com/artist/oasis/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Ticketing Basics",
+    "url": "https://www.japanconcerttickets.com/artist/oasis/",
+    "pass": 3
+   },
+   {
+    "quote": "teamLab Planets Tokyo",
+    "url": "https://www.japanconcerttickets.com/artist/oasis/",
+    "pass": 3
+   },
+   {
+    "quote": "Concerts & Music Festivals in Japan",
+    "url": "https://www.japanconcerttickets.com/artist/oasis/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Concerts in November 2026",
+    "url": "https://www.japanconcerttickets.com/artist/oasis/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Concerts in December 2026",
+    "url": "https://www.japanconcerttickets.com/artist/oasis/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Concerts in January 2027",
+    "url": "https://www.japanconcerttickets.com/artist/oasis/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Concerts in February 2027",
+    "url": "https://www.japanconcerttickets.com/artist/oasis/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Concerts in March 2027",
+    "url": "https://www.japanconcerttickets.com/artist/oasis/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Concerts in April 2027",
+    "url": "https://www.japanconcerttickets.com/artist/oasis/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Concerts in May 2027",
+    "url": "https://www.japanconcerttickets.com/artist/oasis/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Concerts in June 2027",
+    "url": "https://www.japanconcerttickets.com/artist/oasis/",
+    "pass": 3
+   },
+   {
+    "quote": "Oasis: Live '25 Japan Tour - Tokyo Dome Ticket Information - Jasumo",
+    "url": "https://jasumo.com/listing/oasis-live-japan-tour-tokyo-dome-ticket-information/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Ticket Pickup Service",
+    "url": "https://jasumo.com/listing/oasis-live-japan-tour-tokyo-dome-ticket-information/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan E-Ticket App Setup Service",
+    "url": "https://jasumo.com/listing/oasis-live-japan-tour-tokyo-dome-ticket-information/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "OASIS関連資料（操作マニュアル等） | JAQG 航空宇宙品質センタ－ — OASIS関連資料（操作マニュアル等） IAQGは9100QMS認証データを登録し一元的に把握する世界統一のデータベースシステム（Online Aerospace Supplier Information System； OASIS - IAQG）を運用しています。 JIS Q 9100などの9100QMSの認証を取得した組織は、IAQG-OASISに登録されます。",
+    "url": "https://jaqg.sjac.or.jp/data/oasis.html",
+    "pass": 3
+   },
+   {
+    "quote": "小野薬品と日鉄ソリューションズ、共同で統合データ利活用基盤「OASIS... — Nov 11, 2022 · 小野薬品は、「病気と苦痛に対する人間の闘いのために」という企業理念の基に、OASISの導入をはじめ、デジタル・ITによる企業変革の実現を目指すとともに、イノベーションを推進し、革新的な新薬の創製に取り組んでいきます。",
+    "url": "https://www.ono-pharma.com/ja/news/20221111.html",
+    "pass": 3
+   },
+   {
+    "quote": "Oasisは最高峰のロックバンドとして帰ってきた――名曲の凄みを惜しみな... — Oct 30, 2025 · 1990年代〜現在において、これほど幅広い層に愛されているロックバンドはOasisだけであり、2009年の解散時と比べてもむしろ現在のほうが強烈に ...",
+    "url": "https://realsound.jp/2025/10/post-2204695.html",
+    "pass": 3
+   },
+   {
+    "quote": "オアシス（Oasis）の再結成ライブで何が起きていた? 16年ぶりの来日公... — Nov 10, 2025 · 10月25日と26日、オアシスの再結成ツアー〈live ’25〉の日本公演が東京ドームで開催された。 惜しくもチケットを手に入れられなかった人たちは会場の外で音漏れという形でライブを楽しむほど、オアシスフ...",
+    "url": "https://mikiki.tokyo.jp/articles/-/43116",
+    "pass": 3
+   },
+   {
+    "quote": "オアシス2027ツアー発表、日本公演なし 聖地帰還と転売対策に注目 — Sep 15, 2026 · 英ロックバンド「オアシス」は日本時間9月15日未明、2027年5月から欧米を巡る新たなワールドツアー「Oasis Live ’27」を開催すると発表した。20…",
+    "url": "https://www.zakzak.co.jp/article/20260915-YZILJPL2OFERLA2QRBFVY7HQLQ/",
+    "pass": 3
+   },
+   {
+    "quote": "OASIS JAPAN — 清水エスパルス 国立競技場マッチ OASISジャパンは、清水エスパルスが国立競技場をホームとして開催した大型試合において、各座席エリアで展開されたホスピタリティ政策やマーケティング手法に関する現地調査を実施しました。",
+    "url": "https://oasis-jp.org/",
+    "pass": 3
+   },
+   {
+    "quote": "Oasis Management — Oasis Management (Japan) Ltd. (“Oasis Japan”) is a wholly-owned affiliate of Oasis operating in Tokyo that provides research and investment advisory services to Oasis and its affiliates under the Financial Instruments and Exchange Act.",
+    "url": "https://ja.oasiscm.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Oasis in Japan - Tickets & Event Information — Find Oasis tickets & details for the upcoming shows in Japan. We bring you concert dates, venue details, and how to book tickets for Oasis from abroad and.",
+    "url": "https://www.japanconcerttickets.com/artist/oasis/",
+    "pass": 3
+   },
+   {
+    "quote": "Oasis: Live ’25 Japan Tour – Tokyo Dome Ticket Information — Oct 25, 2025 · Oasis, the legendary British rock band led by Liam and Noel Gallagher, is performing at Tokyo Dome in Bunkyo, Tokyo, on October 25 and 26, 2025, as part of their Oasis Live ’25 reunion tour.",
+    "url": "https://jasumo.com/listing/oasis-live-japan-tour-tokyo-dome-ticket-information/",
+    "pass": 3
+   },
+   {
+    "quote": "Oasis - entrance.pia.jp — PIA Corporation will provide the personal information (name, address, and e-mail address) of customers who apply for tickets to “Oasis” to Ignition Management for the purpose of sending information about future performances and activities from Ignition Management.",
+    "url": "https://entrance.pia.jp/oasis2025eng/",
+    "pass": 3
+   },
+   {
+    "quote": "Grossman Interactive Case Study: Oasis – Oasis - Customer ... — Oasis partnered with Grossman Interactive (Internet) to solve key challenges. \"Oasis - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/grossman-interactive/case-study/oasis-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies Archive - OASIS Group — How a UK financial services firm saved £350,000 over 5 years with FileSmart Read Case Study",
+    "url": "https://www.oasisgroup.com/what-we-do/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "3M Company Case Study - salsify.com — Oasis International was dealing with a challenge many manufacturers face: product data scattered across systems and manual syndication processes. This slowed speed-to-market and made it harder to consistently support distributor partners at scale.",
+    "url": "https://www.salsify.com/hubfs/2026/Oasis+International+Case+Study+Draft.pdf?hsLang=en-us",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study Guidelines - OASIS Open — OASIS case studies should be formated using the OASIS case study template. Case studies will be published on the OASIS web site and made publicly available for viewing, downloading, and distribution.",
+    "url": "https://www.oasis-open.org/policies-guidelines/casestudies/",
+    "pass": 3
+   },
+   {
+    "quote": "Infinity Technologies Case Study: Oasis – Oasis - Customer ... — Oasis (Real Estate) partnered with Infinity Technologies to solve key challenges. \"Oasis - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/infinity-technologies/case-study/oasis-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Columbia (White Label Demo) - YouTubeColumbia (White Label Demo) - YouTubePartner ProgramSAP Partner Program | Become an SAP PartnerMaximize Growth with the Spectrum Channel Partner ProgramAdobe Partner Directory — Nov 11, 2022 · Provided to YouTube by The Orchard EnterprisesColumbia (White Label Demo) · Oasis · Noel GallagherDefinitely Maybe (Deluxe Edition Remastered)℗ 2014 Big Brot... Jun 10, 2",
+    "url": "https://www.youtube.com/watch?v=t-rSelwQirQ",
+    "pass": 3
+   },
+   {
+    "quote": "Columbia (White Label Demo) - YouTubePartner ProgramSAP Partner Program | Become an SAP PartnerMaximize Growth with the Spectrum Channel Partner ProgramAdobe Partner Directory — Jun 10, 2020 · Provided to YouTube by The Orchard EnterprisesColumbia (White Label Demo) · Oasis · Noel GallagherSupersonic℗ 1994 Big Brother Recordings LtdReleased on: 199... The VW Partner Program is designed to give you",
+    "url": "https://www.youtube.com/watch?v=Zm0aw5Xzfjc",
+    "pass": 3
+   },
+   {
+    "quote": "Oasis – Performance Metrics & Competitor Intelligence – 2026 — Oasis’s team and funding include estimated revenue of $810.4M, team of around 2200+ employees, based in Miami, helping drive core operations.",
+    "url": "https://compworth.com/company/oasiscollectionscom",
+    "pass": 3
+   },
+   {
+    "quote": "OASIS – Strategic Position & Company Metrics – 2026 — Discover OASIS's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/oasis",
+    "pass": 3
+   },
+   {
+    "quote": "OASIS Advisors Revenue, Funding & Valuation - prospeo.io — At OASIS Advisors, we’ve spent 40+ years helping high-earners, entrepreneurs, and complex wealth holders cut through the noise, take control, and move with purpose.",
+    "url": "https://prospeo.io/c/oasis-advisors-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Oasis Revenue, Funding & ValuationOasis founders set for $200 million-plus payday in $1 billion ...OASIS: Revenue, Competitors, Alternatives - GrowjoOasis Security 2026 Company Profile: Valuation, Investors ... — Oasis, A Paychex Company, is a leading Professional Employer Organization (PEO). We provide Human Resources Administration, Employee Benefits, Healthcare Reform Support, Payroll Administr",
+    "url": "https://prospeo.io/c/oasis-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Oasis founders set for $200 million-plus payday in $1 billion ... — Jul 29, 2026 · In Oasis's latest funding round, completed earlier this year, the company was valued at approximately $700 million. Cyera, which recently raised $600 million at a $12 billion valuation, generates an estimated $200 million in annual recurring revenue (ARR) and has been growing at a rate of several hundred percent ann",
+    "url": "https://www.calcalistech.com/ctechnews/article/s1ymqfpbzx",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "We catch every announcement so you don't have to. K-Pop, J-Pop, international: pick yours. Each gets its own email every 1-2 weeks.",
+    "url": "https://www.japanconcerttickets.com/artist/oasis/",
+    "pass": 3
+   },
+   {
+    "quote": "I agree to receive emails for the genres I selected.",
+    "url": "https://www.japanconcerttickets.com/artist/oasis/",
+    "pass": 3
+   },
+   {
+    "quote": "We just sent you a confirmation email.",
+    "url": "https://www.japanconcerttickets.com/artist/oasis/",
+    "pass": 3
+   },
+   {
+    "quote": "If you don't see it within a minute or two, check your spam folder. Gmail users, try the Promotions tab. The email comes from",
+    "url": "https://www.japanconcerttickets.com/artist/oasis/",
+    "pass": 3
+   },
+   {
+    "quote": "info@japanconcerttickets.com",
+    "url": "https://www.japanconcerttickets.com/artist/oasis/",
+    "pass": 3
+   },
+   {
+    "quote": "Your email address will not be published.",
+    "url": "https://jasumo.com/listing/oasis-live-japan-tour-tokyo-dome-ticket-information/",
+    "pass": 3
+   },
+   {
+    "quote": "Save my name, email, and website in this browser for the next time I comment.",
+    "url": "https://jasumo.com/listing/oasis-live-japan-tour-tokyo-dome-ticket-information/",
+    "pass": 3
+   },
+   {
+    "quote": "Since the Amber Alert Emergency response system was established in 1996, 1,127 children abducted around the world have been successfully recovered. Amber Alerts are broadcast simultaneiously over television and radio stations, text messages, e-mail, electronic traffic-condition signs, commercial bill-boards, and more.",
+    "url": "https://www.oasis-open.org/policies-guidelines/casestudies/",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/oasis-advisors-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/oasis-revenue",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "オアシス（Oasis） バンド完全ガイド｜来歴・ヒット曲・最新リリース... Jan 17, 2026 · 90年代UKロックを代表する存在であり、今なお世界中で影響力を持ち続ける オアシス（Oasis）。 本記事では、 バンドの来歴・代表的なヒット曲・アルバム・最新動向 までを網羅的に解説します。 「オアシスとはどんなバンド？ 」「まず何を聴けばいい？",
+    "url": "https://note.com/clean_hawk272/n/n4e196c7f22f2",
+    "pass": 3
+   },
+   {
+    "quote": "OASISの人気・新着記事まとめ｜note 【OASIS】伝説的ロックバンドの再結成ツアーや、その軌跡を追ったドキュメンタリー映画が大きな注目を集めています。 映画の鑑賞体験や楽曲への思い、チケット争奪戦の記録など、世代を超えたファンの熱い声が集まっています。",
+    "url": "https://note.com/tag/OASIS",
+    "pass": 3
+   },
+   {
+    "quote": "アーティストを知る10のエピソード｜Oasis編｜バンドの歴史と名曲の裏... Sep 17, 2026 · 前回の記事では、Oasisの「2027年に向けて聴きたい5曲」を紹介しました。 今回は、そんなOasisをもう少し掘り下げます。 Oasisといえば「Wonderwall」や「Don't Look Back in Anger」を思い浮かべる人も多いはず。 でも、Oasisの面白さは名曲だけではありません。",
+    "url": "https://note.com/music_cat_jp/n/nc56a4f1d633d",
+    "pass": 3
+   },
+   {
+    "quote": "ロックの伝説 Oasis徹底解剖！生い立ちから再結成まで完全ストーリー Sep 24, 2025 · 今日は私の大好きな Oasis（オアシス） を紹介します。 Oasisは1990年代のイギリス音楽シーンを象徴する存在であり、ブリットポップを語る上で欠かせないバンドです。",
+    "url": "https://note.com/zz100000zz/n/n7141fa359484",
+    "pass": 3
+   },
+   {
+    "quote": "【女風オアシス社長しょうき ... - note（ノート） Oct 31, 2026 · 女風業界には、いろいろな社長がいます。 元ホスト。 元営業マン。 元会社員。 そして今回紹介するのが、OASIS GROUP代表のしょうき。 この男、経歴がなかなかすごい。 20歳で大きな借金を背負う。 24歳で東京秘密基地に入店。 トップセラピストとして活躍。",
+    "url": "https://note.com/izumi11151001/n/n4cfa0beec3e0",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "オアシス（Oasis） バンド完全ガイド｜来歴・ヒット曲・最新リリースまとめ｜K",
+    "url": "https://note.com/clean_hawk272/n/n4e196c7f22f2",
+    "pass": 3
+   },
+   {
+    "quote": "オアシス（Oasis） バンド完全ガイド｜来歴・ヒット曲・最新リリースまとめ",
+    "url": "https://note.com/clean_hawk272/n/n4e196c7f22f2",
+    "pass": 3
+   },
+   {
+    "quote": "90年代UKロックを代表する存在であり、今なお世界中で影響力を持ち続ける",
+    "url": "https://note.com/clean_hawk272/n/n4e196c7f22f2",
+    "pass": 3
+   },
+   {
+    "quote": "バンドの来歴・代表的なヒット曲・アルバム・最新動向",
+    "url": "https://note.com/clean_hawk272/n/n4e196c7f22f2",
+    "pass": 3
+   },
+   {
+    "quote": "「オアシスとはどんなバンド？」「まず何を聴けばいい？」という方にも最適な完全ガイドです。",
+    "url": "https://note.com/clean_hawk272/n/n4e196c7f22f2",
+    "pass": 3
+   },
+   {
+    "quote": "オアシス（Oasis）とは？｜バンドの基本情報",
+    "url": "https://note.com/clean_hawk272/n/n4e196c7f22f2",
+    "pass": 3
+   },
+   {
+    "quote": "オアシス（Oasis）は、1991年にイギリス・マンチェスターで結成されたロックバンド。",
+    "url": "https://note.com/clean_hawk272/n/n4e196c7f22f2",
+    "pass": 3
+   },
+   {
+    "quote": "代表メンバー：リアム・ギャラガー、ノエル・ギャラガー",
+    "url": "https://note.com/clean_hawk272/n/n4e196c7f22f2",
+    "pass": 3
+   },
+   {
+    "quote": "OASISの人気・新着記事まとめ｜note",
+    "url": "https://note.com/tag/OASIS",
+    "pass": 3
+   },
+   {
+    "quote": "伝説的ロックバンドの再結成ツアーや、その軌跡を追ったドキュメンタリー映画が大きな注目を集めています。",
+    "url": "https://note.com/tag/OASIS",
+    "pass": 3
+   },
+   {
+    "quote": "映画の鑑賞体験や楽曲への思い、チケット争奪戦の記録など、世代を超えたファンの熱い声が集まっています。",
+    "url": "https://note.com/tag/OASIS",
+    "pass": 3
+   },
+   {
+    "quote": "伝説的ロックバンドの再結成ツアーや、その軌跡を追ったドキュメンタリー映画が大…",
+    "url": "https://note.com/tag/OASIS",
+    "pass": 3
+   },
+   {
+    "quote": "2027年はイナバウアーが流行る、賭けてもいい - 3行日記 Vol.129",
+    "url": "https://note.com/tag/OASIS",
+    "pass": 3
+   },
+   {
+    "quote": "【OASIS】を語りたい！映画『ドント・ルック・バック・イン・アンガー』の感動と、『LIVE'25』の興奮レビュー！",
+    "url": "https://note.com/tag/OASIS",
+    "pass": 3
+   },
+   {
+    "quote": "閉じた“We”、開かれた“We”／OASISが示した可能性",
+    "url": "https://note.com/tag/OASIS",
+    "pass": 3
+   },
+   {
+    "quote": "自分の葬式で流してほしい曲を考えていたら、参列者に申し訳なくなった。",
+    "url": "https://note.com/tag/OASIS",
+    "pass": 3
+   },
+   {
+    "quote": "アーティストを知る10のエピソード｜Oasis編｜バンドの歴史と名曲の裏側｜music_cat_jp",
+    "url": "https://note.com/music_cat_jp/n/nc56a4f1d633d",
+    "pass": 3
+   },
+   {
+    "quote": "アーティストを知る10のエピソード｜Oasis編｜バンドの歴史と名曲の裏側",
+    "url": "https://note.com/music_cat_jp/n/nc56a4f1d633d",
+    "pass": 3
+   },
+   {
+    "quote": "前回の記事では、Oasisの「2027年に向けて聴きたい5曲」を紹介しました。",
+    "url": "https://note.com/music_cat_jp/n/nc56a4f1d633d",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、そんなOasisをもう少し掘り下げます。",
+    "url": "https://note.com/music_cat_jp/n/nc56a4f1d633d",
+    "pass": 3
+   },
+   {
+    "quote": "Oasisといえば「Wonderwall」や「Don't Look Back in Anger」を思い浮かべる人も多いはず。でも、Oasisの面白さは名曲だけではありません。",
+    "url": "https://note.com/music_cat_jp/n/nc56a4f1d633d",
+    "pass": 3
+   },
+   {
+    "quote": "バンド名の由来、ノエル・ギャラガーが加入した経緯、デビューアルバムの裏側、ネブワース公演、そして2009年の解散と2024年の再結成。",
+    "url": "https://note.com/music_cat_jp/n/nc56a4f1d633d",
+    "pass": 3
+   },
+   {
+    "quote": "今回は Oasisをもっと知るための10のエピソードを紹介します。",
+    "url": "https://note.com/music_cat_jp/n/nc56a4f1d633d",
+    "pass": 3
+   },
+   {
+    "quote": "曲の背景を少し知ってから聴くと、いつものOasisが違って聴こえてくるかもしれません。",
+    "url": "https://note.com/music_cat_jp/n/nc56a4f1d633d",
+    "pass": 3
+   },
+   {
+    "quote": "ロックの伝説🔥 Oasis徹底解剖！生い立ちから再結成まで完全ストーリー🎸｜ぼーきち",
+    "url": "https://note.com/zz100000zz/n/n7141fa359484",
+    "pass": 3
+   },
+   {
+    "quote": "ロックの伝説🔥 Oasis徹底解剖！生い立ちから再結成まで完全ストーリー🎸",
+    "url": "https://note.com/zz100000zz/n/n7141fa359484",
+    "pass": 3
+   },
+   {
+    "quote": "Oasisは1990年代のイギリス音楽シーンを象徴する存在であり、ブリットポップを語る上で欠かせないバンドです。彼らの楽曲は今なお多くの人に愛され、英語学習のモチベーションとしても活用できるフレーズが数多く含まれています。今回はそんなOasisの魅力を、生い立ちから結成、成功、解散、そして再結成の可能性まで徹底的に紹介していきます。",
+    "url": "https://note.com/zz100000zz/n/n7141fa359484",
+    "pass": 3
+   },
+   {
+    "quote": "Oasisの物語を理解するためには、メンバーそれぞれの生い立ちを知ることが欠かせません。彼らが生まれ育った環境そのものが、音楽性や反骨精神の源になっているからです。",
+    "url": "https://note.com/zz100000zz/n/n7141fa359484",
+    "pass": 3
+   },
+   {
+    "quote": "リアム・ギャラガー（Liam Gallagher）",
+    "url": "https://note.com/zz100000zz/n/n7141fa359484",
+    "pass": 3
+   },
+   {
+    "quote": "リアムは1972年9月21日、イングランドのマンチェスターに生まれました。3兄弟の末っ子で、家庭はアイリッシュ移民の労働者階級。父親は家庭内で暴力的な一面があり、母親が子どもたちを守っていました。少年時代のリアムはサッカーに熱中し、音楽にはそれほど関心を持っていませんでした。しかし10代後半に音楽に目覚め、「歌こそが自分の武器だ」と気づきます。彼の唯一無二のボーカルスタイルは、この時期に培われていきました。",
+    "url": "https://note.com/zz100000zz/n/n7141fa359484",
+    "pass": 3
+   },
+   {
+    "quote": "ノエル・ギャラガー（Noel Gallagher）",
+    "url": "https://note.com/zz100000zz/n/n7141fa359484",
+    "pass": 3
+   },
+   {
+    "quote": "兄のノエルは1967年5月29日生まれ。リアムより5歳年上です。家庭環境は同じく複雑でしたが、ノエルは引っ込み思案で、自分の部屋にこもってギターを弾くことに没頭しました。10代の頃にはソングライティングを始め、ビートルズやローリング・ストーンズから強く影響を受けます。建設現場で働きながらも音楽への情熱を絶やさず、後にバンドの全楽曲を手がける中心人物となります。",
+    "url": "https://note.com/zz100000zz/n/n7141fa359484",
+    "pass": 3
+   },
+   {
+    "quote": "【女風オアシス社長しょうき、人生の情報量が多すぎる】20歳で借金、24歳でトップセラピスト、2020年には謎のシュプリームおじさん、そして現在1000インプに命を懸ける男｜東京M性感♦️イズミ",
+    "url": "https://note.com/izumi11151001/n/n4cfa0beec3e0",
+    "pass": 3
+   },
+   {
+    "quote": "【女風オアシス社長しょうき、人生の情報量が多すぎる】20歳で借金、24歳でトップセラピスト、2020年には謎のシュプリームおじさん、そして現在1000インプに命を懸ける男",
+    "url": "https://note.com/izumi11151001/n/n4cfa0beec3e0",
+    "pass": 3
+   },
+   {
+    "quote": "そして今回紹介するのが、OASIS GROUP代表のしょうき。",
+    "url": "https://note.com/izumi11151001/n/n4cfa0beec3e0",
+    "pass": 3
+   },
+   {
+    "quote": "2024年にはOASISグループへリブランディング。",
+    "url": "https://note.com/izumi11151001/n/n4cfa0beec3e0",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、この男の人生には、経営者としての成功とは別に、あまりにも濃すぎる登場人物がいる。",
+    "url": "https://note.com/izumi11151001/n/n4cfa0beec3e0",
+    "pass": 3
+   },
+   {
+    "quote": "数々の困難を乗り越えたしょうきが、新たに挑戦したこと。",
+    "url": "https://note.com/izumi11151001/n/n4cfa0beec3e0",
+    "pass": 3
+   },
+   {
+    "quote": "「24時間以内に1000インプレッションいかなかったらアカウント削除します」",
+    "url": "https://note.com/izumi11151001/n/n4cfa0beec3e0",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、女風業界でも屈指の情報量を誇る男、しょうきの人生をエンタメ全開で振り返っていきたいと思います。",
+    "url": "https://note.com/izumi11151001/n/n4cfa0beec3e0",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Oasis (@oasis) / X Registration for Oasis Live ‘27 tickets has now closed. If you have been selected, you will receive an email addressed to the name and email you registered with, with full information on how to access the onsale.",
+    "url": "https://x.com/oasis",
+    "pass": 3
+   },
+   {
+    "quote": "Oasis on X: \"With code emails due to be sent out over the ... With code emails due to be sent out over the next few days, please read this post carefully and be aware of potential Oasis Live ’27 ticket scams.",
+    "url": "https://x.com/oasis/status/2102819876721307840",
+    "pass": 3
+   },
+   {
+    "quote": "Oasis (@OasisHQ) / X Today we're shipping Oasis Desktop, a Mac app that lets you share local coding agents with your teammates. Oasis Desktop can spin up and share Claude Code, Codex, Pi, OpenCode, Kilo Code, Hermes Agent, and Devin CLI sessions as long as they're installed.",
+    "url": "https://x.com/OasisHQ",
+    "pass": 3
+   },
+   {
+    "quote": "Oasis on X / X Oasis (@oasis) on X i almost dont want the tour to come cos these teasers r everythingggg whoevers idea it was is brilliant",
+    "url": "https://x.com/oasis/status/2098426342173724678",
+    "pass": 3
+   },
+   {
+    "quote": "Oasis (@oasis) / X ‘You know, if I did that, you just look like an utter c***, right? But somehow he does it, and it’s like, it's the greatest thing I’ve ever seen.’ Oasis: Don’t Look Back In Anger is available to stream on Disney+ and Hulu now!",
+    "url": "https://x.com/oasis",
+    "pass": 3
+   },
+   {
+    "quote": "Oasis Japan / オアシス日本公式 (@Oasis19931997) / X Sep 16, 2014 · ソニー・ミュージックが運営するOasisの日本公式アカウントです。 すべてのご質問にお答えすることはできませんが、頂いたコメントは貴重なご意見として承ります。 Official Japanese Account of Oasis by Sony Music Japan. #オアシス来日2025 #オアシス再結成",
+    "url": "https://x.com/Oasis19931997",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "OASIS - LinkedIn OASIS has a broad technical agenda encompassing artificial intelligence, cybersecurity, privacy, supply chain, blockchain, cryptography, cloud computing, IoT, emergency management, and much more.",
+    "url": "https://www.linkedin.com/company/oasis/",
+    "pass": 3
+   },
+   {
+    "quote": "Oasis - LinkedIn Oasis, A Paychex Company, is a leading Professional Employer Organization (PEO). We provide Human Resources Administration, Employee Benefits, Healthcare Reform Support, Payroll Administration ...",
+    "url": "https://www.linkedin.com/company/oasis-outsourcing",
+    "pass": 3
+   },
+   {
+    "quote": "We Are Oasis - LinkedIn We Are Oasis | 19,797 followers on LinkedIn. So say goodbye to those pesky hurdles and hello to seamless growth. | We’re here to take your business to the next stage, whether hiring new...",
+    "url": "https://ke.linkedin.com/company/weareoasis",
+    "pass": 3
+   },
+   {
+    "quote": "Oasis Group | LinkedIn OASIS GROUP is a multidisciplinary EPCC company that delivers engineering, procurement, construction, maintenance (EPCM), and project management services to governments and clients in diverse...",
+    "url": "https://in.linkedin.com/company/oasis-epc-solutions",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Oasis - FacebookOasis Deli | San Jose CA - FacebookOasis Scottsdale | Scottsdale AZ - FacebookSF Oasis | San Francisco CA - FacebookSan Diego Oasis | La Mesa CA - FacebookThe Oasis Golf & Aqua Resort | Lahore - FacebookOasis Wellness Collective | San Jose CA - Facebook 6 days ago · Registration for Oasis Live ‘27 tickets has now closed. If you have been selected, you will receive an email addresse",
+    "url": "https://www.facebook.com/OasisOfficial/",
+    "pass": 3
+   },
+   {
+    "quote": "Oasis Deli | San Jose CA - FacebookOasis Scottsdale | Scottsdale AZ - FacebookSF Oasis | San Francisco CA - FacebookSan Diego Oasis | La Mesa CA - FacebookThe Oasis Golf & Aqua Resort | Lahore - FacebookOasis Wellness Collective | San Jose CA - Facebook Oasis Deli, San Jose. 78 followers · 52 were here. It's more than a delicious menu of specialty sandwiches and soups, but the personalized service",
+    "url": "https://www.facebook.com/oasismetrodeli/",
+    "pass": 3
+   },
+   {
+    "quote": "Oasis Scottsdale | Scottsdale AZ - FacebookSF Oasis | San Francisco CA - FacebookSan Diego Oasis | La Mesa CA - FacebookThe Oasis Golf & Aqua Resort | Lahore - FacebookOasis Wellness Collective | San Jose CA - Facebook Jun 11, 2026 · Oasis Scottsdale, Scottsdale. 337 followers · 1 talking about this · 1,695 were here. Relax and unwind with chilling evenings and good night vibes at Oasis! Located i",
+    "url": "https://www.facebook.com/oasisoldtownscottsdale/",
+    "pass": 3
+   },
+   {
+    "quote": "SF Oasis | San Francisco CA - FacebookSan Diego Oasis | La Mesa CA - FacebookThe Oasis Golf & Aqua Resort | Lahore - FacebookOasis Wellness Collective | San Jose CA - Facebook Oct 28, 2026 · Crowds are raving about SQREAM – Oasis Cabaret & Nightclub ‘s 90s Halloween horror musical. It’s got drag queens, jump scares, dance numbers... and a few props that we can’t talk about on IG 😉 If you don’t bel",
+    "url": "https://www.facebook.com/sfoasis/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.oasis.security/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oasis.security/solutions/ai",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oasis.security/solutions/secret-rotation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oasis.security/solutions/asset-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oasis.security/solutions/posture-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oasis.security/solutions/privileged-access-management",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oasis.security/solutions/itdr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oasis.security/solutions/governance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oasis.security/solutions/operational-resiliency",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oasis.security/solutions/energy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oasis.security/solutions/finance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oasis.security/solutions/healthcare",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oasis.security/solutions/insurance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oasis.security/solutions/retail",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oasis.security/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oasis.security/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oasis.security/blog/oasis-zscaler-partnership",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oasis.security/blog/identity-security-2025-ai-agents",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oasis.security/blog/oasis-crowdstrike-marketplace-partnership",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/679b2b742e3af6fc4669f600/69d578faca5be73899ca99fb_crowdstrike.avif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://jaqg.sjac.or.jp/data/oasis.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ono-pharma.com/ja/news/20221111.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://realsound.jp/2025/10/post-2204695.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mikiki.tokyo.jp/articles/-/43116",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/contract/basic/8378/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://eikaiwa.dmm.com/uknow/questions/65573/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/distributors-relationships/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.koaglobal.com/corporate/offices/distributors1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oasis-jp.org/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.oasiscm.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.japanconcerttickets.com/artist/oasis/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jasumo.com/listing/oasis-live-japan-tour-tokyo-dome-ticket-information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/grossman-interactive/case-study/oasis-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oasisgroup.com/what-we-do/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salsify.com/hubfs/2026/Oasis+International+Case+Study+Draft.pdf?hsLang=en-us",
+    "status": "http_404",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.oasis-open.org/policies-guidelines/casestudies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=t-rSelwQirQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Zm0aw5Xzfjc",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/oasiscollectionscom",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/oasis",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/oasis-advisors-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/oasis-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/clean_hawk272/n/n4e196c7f22f2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/OASIS",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/music_cat_jp/n/nc56a4f1d633d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/zz100000zz/n/n7141fa359484",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/oasis",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/oasis/status/2102819876721307840",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OasisHQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/oasis/status/2098426342173724678",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/oasis/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/oasis-outsourcing",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ke.linkedin.com/company/weareoasis",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/oasis-epc-solutions",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/OasisOfficial/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/oasismetrodeli/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/oasisoldtownscottsdale/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/sfoasis/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/izumi11151001/n/n4cfa0beec3e0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/oasis",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Oasis19931997",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Oasis 日本 導入",
+   "results": [
+    "https://jaqg.sjac.or.jp/data/oasis.html",
+    "https://www.ono-pharma.com/ja/news/20221111.html",
+    "https://realsound.jp/2025/10/post-2204695.html",
+    "https://mikiki.tokyo.jp/articles/-/43116",
+    "https://www.zakzak.co.jp/article/20260915-YZILJPL2OFERLA2QRBFVY7HQLQ/",
+    "https://jp.trip.com/guide/events/oasis-world-tour.html",
+    "https://rollingstonejapan.com/articles/detail/43671"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Oasis 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://eikaiwa.dmm.com/uknow/questions/65573/",
+    "https://metoree.com/companies/distributors-relationships/",
+    "https://www.koaglobal.com/corporate/offices/distributors1",
+    "https://oasis-inc.jp/",
+    "https://biz.toyokeizai.net/data/service/detail/id=418",
+    "https://ja.oasiscm.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Oasis Japan",
+   "results": [
+    "https://oasis-jp.org/",
+    "https://ja.oasiscm.com/",
+    "https://www.japanconcerttickets.com/artist/oasis/",
+    "https://jasumo.com/listing/oasis-live-japan-tour-tokyo-dome-ticket-information/",
+    "https://entrance.pia.jp/oasis2025eng/",
+    "https://oasiscm.com/",
+    "https://oasislive25.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Oasis manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/grossman-interactive/case-study/oasis-customer-case-study",
+    "https://www.oasisgroup.com/what-we-do/case-studies/",
+    "https://www.salsify.com/hubfs/2026/Oasis+International+Case+Study+Draft.pdf?hsLang=en-us",
+    "https://www.oasis-open.org/policies-guidelines/casestudies/",
+    "https://www.casestudies.com/company/infinity-technologies/case-study/oasis-customer-case-study",
+    "http://oasis-saas.org/case-studies/predictive-maintenance-for-manufacturing/",
+    "https://www.oasismfg.com/client-testimonials/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Oasis white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://www.youtube.com/watch?v=t-rSelwQirQ",
+    "https://www.youtube.com/watch?v=Zm0aw5Xzfjc",
+    "https://partner.vw.com/partner",
+    "https://www.sap.com/partners/partner-program.html",
+    "https://partners.spectrum.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Oasis founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/oasiscollectionscom",
+    "https://compworth.com/company/oasis",
+    "https://prospeo.io/c/oasis-advisors-revenue",
+    "https://prospeo.io/c/oasis-revenue",
+    "https://www.calcalistech.com/ctechnews/article/s1ymqfpbzx",
+    "https://growjo.com/company/OASIS",
+    "https://pitchbook.com/profiles/company/571425-31"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Oasis",
+   "results": [
+    "https://note.com/clean_hawk272/n/n4e196c7f22f2",
+    "https://note.com/tag/OASIS",
+    "https://note.com/music_cat_jp/n/nc56a4f1d633d",
+    "https://note.com/zz100000zz/n/n7141fa359484",
+    "https://note.com/kyotomiyamoto_m/n/nb8273a3ead2f",
+    "https://note.com/yossy530/m/m7226efe576e9",
+    "https://note.com/smjintermusic/n/nc784a8d483b0"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Oasis",
+   "results": [
+    "https://x.com/oasis",
+    "https://x.com/oasis/status/2102819876721307840",
+    "https://x.com/OasisHQ",
+    "https://x.com/oasis/status/2098426342173724678",
+    "https://x.com/oasis/status/2099529031670542821",
+    "https://x.com/oasis/status/2098788733529031075",
+    "https://x.com/oasis/status/1827830594882986207"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Oasis",
+   "results": [
+    "https://www.linkedin.com/company/oasis/",
+    "https://www.linkedin.com/company/oasis-outsourcing",
+    "https://ke.linkedin.com/company/weareoasis",
+    "https://in.linkedin.com/company/oasis-epc-solutions",
+    "https://hk.linkedin.com/company/oasis-management-company-ltd-",
+    "https://in.linkedin.com/company/oasis-wfs-private-limited",
+    "https://ca.linkedin.com/in/alpha-oasis-inc-team-4476aa319"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Oasis",
+   "results": [
+    "https://www.facebook.com/OasisOfficial/",
+    "https://www.facebook.com/oasismetrodeli/",
+    "https://www.facebook.com/oasisoldtownscottsdale/",
+    "https://www.facebook.com/sfoasis/",
+    "https://www.facebook.com/sandiegoasis/",
+    "https://www.facebook.com/TheOasisLahore/",
+    "https://www.facebook.com/OasisWellnessCollectiveConnect/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Oasis note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://oasis-innovation.co.jp/company/company1/",
+    "https://note.com/izumi11151001/n/n4cfa0beec3e0",
+    "https://jp.linkedin.com/in/jiahao-wang-93a4282ab",
+    "https://www.oasis-1.co.jp/company/staff/",
+    "https://note.com/jofu_aoyama/n/n9b2831ba0799"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Oasis X 投稿",
+   "results": [
+    "https://x.com/oasis",
+    "https://x.com/Oasis19931997",
+    "https://fantia.jp/fanclubs/48693/posts",
+    "https://fantia.jp/fanclubs/48693/posts?locale=zh-tw",
+    "https://www.oricon.co.jp/news/2341903/full/",
+    "https://search.yahoo.co.jp/realtime/search/＃オアシス/",
+    "https://www.daily.co.jp/gossip/foreign_topics/2026/10/24/0020961715.shtml"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式19頁／PDF・画像1件／外部43頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式19頁／PDF・画像1件／外部43頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式19頁／PDF・画像1件／外部43頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式19頁／PDF・画像1件／外部43頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式19頁／PDF・画像1件／外部43頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式19頁／PDF・画像1件／外部43頁・検索12回）"
+ }
+}

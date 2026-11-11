@@ -1,0 +1,1221 @@
+{
+ "name": "Questdb",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜未接触",
+ "researched_at": "2026-11-11T10:59:42.064718+00:00",
+ "official_url": "https://sklar.rocks/",
+ "identified_by": "search:yahoo_jp:Questdb K.K.",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "K8s Operator Prometheus Metrics Viewer",
+    "url": "https://sklar.rocks/",
+    "pass": 1
+   },
+   {
+    "quote": "Using Prometheus, Loki, and Grafana to monitor QuestDB in Kubernetes",
+    "url": "https://sklar.rocks/",
+    "pass": 1
+   },
+   {
+    "quote": ": Data Engineering at Predata",
+    "url": "https://sklar.rocks/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise 4.1",
+    "url": "https://questdb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "QuestDB ingests millions of events per second, computes on live data in milliseconds, and keeps years of history queryable. One SQL engine spanning messaging, stream processing, and tiered storage.",
+    "url": "https://questdb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Free Enterprise Trial",
+    "url": "https://questdb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "critical data workloads",
+    "url": "https://questdb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Capture large volumes of market data and trades, act on them in real time, and query the same complete history for pre-trade signals, research, TCA, risk, P&L, surveillance, and compliance. Standard SQL and open formats keep every team connected to the record.",
+    "url": "https://questdb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "QuestDB has been an excellent fit for our production trading analytics",
+    "url": "https://questdb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Ingest millions of ordered and out-of-order events without pre-aggregation.",
+    "url": "https://questdb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Run temporal SQL across live and historical data with predictable low latency.",
+    "url": "https://questdb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Special SQL primitives for time-series, built for the most demanding workloads in capital markets, aerospace, and energy. Easy for engineers to write, native for AI agents.",
+    "url": "https://questdb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Precomputed candles and intraday aggregates with sub-millisecond reads at any granularity.",
+    "url": "https://questdb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Look forward by fixed offsets to measure price impact after each trade.",
+    "url": "https://questdb.com/",
+    "pass": 3
+   },
+   {
+    "quote": ", processing every trade on the world's tenth-largest exchange.",
+    "url": "https://questdb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Airbus processes billions of data points a day on QuestDB, powering real-time monitoring and predictive maintenance for",
+    "url": "https://questdb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "BTG Pactual replays order books and tunes pricing algos on QuestDB",
+    "url": "https://questdb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "BTG Pactual replays order books and analyzes pricing algorithm performance on",
+    "url": "https://questdb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "This query takes the best bid price and multiplies it by 1.01. Then it finds the level at which that price would be met inside the prices array. We slide the volume array from the first level until the level we found, and sum all the volumes. Note the use of DECLARE to make the query more readable.",
+    "url": "https://questdb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "@prices := asks[1],",
+    "url": "https://questdb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "@best_price := @prices[1],",
+    "url": "https://questdb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "@target_price := @multiplier * @best_price,",
+    "url": "https://questdb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "1:insertion_point(@prices, @target_price)",
+    "url": "https://questdb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "SELECT spread_bps(bids[1][1], asks[1][1])",
+    "url": "https://questdb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Incoming data is appended to the write-ahead log (WAL) with ultra-low latency. Writes are made durable before any processing, preserving order and surviving failures without data loss. The WAL is asynchronously shipped to object storage, so new replicas can bootstrap quickly and read the same history.",
+    "url": "https://questdb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Older data is automatically tiered to object storage in Apache Parquet. Query it in-place through QuestDB or use any tool that reads Parquet. This delivers predictable costs, interoperability with AI/ML tooling, and zero lock-in.",
+    "url": "https://questdb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Compare Enterprise & OSS",
+    "url": "https://questdb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "QuestDB Enterprise on AWS, Azure, and GCP. Provisioned in minutes, scaled and upgraded without downtime.",
+    "url": "https://questdb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/QuestDB",
+    "pass": 3
+   },
+   {
+    "quote": "QuestDB originated as an open-source Java database named NFSdb, created by software developer Vlad Ilyushchenko, who began the project while working at an energy trading company and spent several years developing it on his own before other contributors joined.",
+    "url": "https://en.wikipedia.org/wiki/QuestDB",
+    "pass": 3
+   },
+   {
+    "quote": "Version 4.0.0, released in November 2019, renamed the software's package namespace to match the product name and added a",
+    "url": "https://en.wikipedia.org/wiki/QuestDB",
+    "pass": 3
+   },
+   {
+    "quote": "wire-protocol server and an HTTP server.",
+    "url": "https://en.wikipedia.org/wiki/QuestDB",
+    "pass": 3
+   },
+   {
+    "quote": "The project's contribution guidelines were added the same month.",
+    "url": "https://en.wikipedia.org/wiki/QuestDB",
+    "pass": 3
+   },
+   {
+    "quote": "included QuestDB in its annual Bossie Awards for open-source software, noting that parts of the system were still a work in progress.",
+    "url": "https://en.wikipedia.org/wiki/QuestDB",
+    "pass": 3
+   },
+   {
+    "quote": "data type and query-performance improvements.",
+    "url": "https://en.wikipedia.org/wiki/QuestDB",
+    "pass": 3
+   },
+   {
+    "quote": "Data can be ingested through several interfaces, including the InfluxDB Line Protocol, the",
+    "url": "https://en.wikipedia.org/wiki/QuestDB",
+    "pass": 3
+   },
+   {
+    "quote": "wire protocol, and an HTTP",
+    "url": "https://en.wikipedia.org/wiki/QuestDB",
+    "pass": 3
+   },
+   {
+    "quote": "The dialect also provides time-series",
+    "url": "https://en.wikipedia.org/wiki/QuestDB",
+    "pass": 3
+   },
+   {
+    "quote": "Proceedings of the VLDB Endowment",
+    "url": "https://en.wikipedia.org/wiki/QuestDB",
+    "pass": 3
+   },
+   {
+    "quote": "A 2023 comparison of database management systems for on-premise",
+    "url": "https://en.wikipedia.org/wiki/QuestDB",
+    "pass": 3
+   },
+   {
+    "quote": "employed it as a test subject for detecting runtime errors and logic bugs, reporting dozens of defects that were subsequently confirmed or fixed by the project's developers.",
+    "url": "https://en.wikipedia.org/wiki/QuestDB",
+    "pass": 3
+   },
+   {
+    "quote": "\"Time Series Database QuestDB 8.0 Improves SQL Performance and Adds ZFS Compression\"",
+    "url": "https://en.wikipedia.org/wiki/QuestDB",
+    "pass": 3
+   },
+   {
+    "quote": "An Industrial Sensor Data Processing and Query System",
+    "url": "https://en.wikipedia.org/wiki/QuestDB",
+    "pass": 3
+   },
+   {
+    "quote": "Proceedings of the ACM on Software Engineering",
+    "url": "https://en.wikipedia.org/wiki/QuestDB",
+    "pass": 3
+   },
+   {
+    "quote": "On-Premise Internet of Things (IoT) Data Storage: Comparison of Database Management Systems",
+    "url": "https://en.wikipedia.org/wiki/QuestDB",
+    "pass": 3
+   },
+   {
+    "quote": ". 8th International Conference on Internet of Things, Big Data and Security (IoTBDS 2023). SCITEPRESS. pp.",
+    "url": "https://en.wikipedia.org/wiki/QuestDB",
+    "pass": 3
+   },
+   {
+    "quote": ", a non-profit organization.",
+    "url": "https://en.wikipedia.org/wiki/QuestDB",
+    "pass": 3
+   },
+   {
+    "quote": "video-tutorial-by-TaniyaKatigar.md",
+    "url": "https://github.com/questdb/questdb",
+    "pass": 3
+   },
+   {
+    "quote": "ingestion, stream processing, and tiered storage.",
+    "url": "https://github.com/questdb/questdb",
+    "pass": 3
+   },
+   {
+    "quote": ", or create a table in Parquet directly. QuestDB Enterprise",
+    "url": "https://github.com/questdb/questdb",
+    "pass": 3
+   },
+   {
+    "quote": "the QuestDB Wire Protocol (QWP), one binary",
+    "url": "https://github.com/questdb/questdb",
+    "pass": 3
+   },
+   {
+    "quote": "columnar protocol for writes and for Arrow reads, plus native arrays and",
+    "url": "https://github.com/questdb/questdb",
+    "pass": 3
+   },
+   {
+    "quote": "QWP is a binary columnar protocol over WebSocket. The same connection writes",
+    "url": "https://github.com/questdb/questdb",
+    "pass": 3
+   },
+   {
+    "quote": "covers the protocol design.",
+    "url": "https://github.com/questdb/questdb",
+    "pass": 3
+   },
+   {
+    "quote": "without pre-aggregation. Deduplication and out-of-order correction are built",
+    "url": "https://github.com/questdb/questdb",
+    "pass": 3
+   },
+   {
+    "quote": "predictable low latency.",
+    "url": "https://github.com/questdb/questdb",
+    "pass": 3
+   },
+   {
+    "quote": "queried through the same SQL. Enterprise tiers cold partitions to object",
+    "url": "https://github.com/questdb/questdb",
+    "pass": 3
+   },
+   {
+    "quote": "capital markets: tick data, order books, trades, pre-trade analysis and",
+    "url": "https://github.com/questdb/questdb",
+    "pass": 3
+   },
+   {
+    "quote": "Prototype in the Web Console.",
+    "url": "https://github.com/questdb/questdb",
+    "pass": 3
+   },
+   {
+    "quote": "For notebooks and SQL prototyping driven by",
+    "url": "https://github.com/questdb/questdb",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "How do Kubernetes Operators Handle Concurrency?",
+    "url": "https://sklar.rocks/",
+    "pass": 1
+   },
+   {
+    "quote": "An Introduction to Custom Resource Definitions and Custom Resources (Operators 101: Part 2)",
+    "url": "https://sklar.rocks/",
+    "pass": 1
+   },
+   {
+    "quote": "#Operators 101",
+    "url": "https://sklar.rocks/",
+    "pass": 1
+   },
+   {
+    "quote": "What Are Kubernetes Operators? (Operators 101: Part 1)",
+    "url": "https://sklar.rocks/",
+    "pass": 1
+   },
+   {
+    "quote": "Special SQL primitives for time-series, built for the most demanding workloads in capital markets, aerospace, and energy. Easy for engineers to write, native for AI agents.",
+    "url": "https://questdb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Running in banks, exchanges, rockets, and power plants.",
+    "url": "https://questdb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Explore QuestDB for aerospace",
+    "url": "https://questdb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "An Industrial Sensor Data Processing and Query System",
+    "url": "https://en.wikipedia.org/wiki/QuestDB",
+    "pass": 3
+   },
+   {
+    "quote": "aerospace and robotics: flight-test telemetry, fleet data, mission replay",
+    "url": "https://github.com/questdb/questdb",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by leading companies to power critical production workflows",
+    "url": "https://questdb.com/enterprise/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Run TCA, markouts, post-trade analysis, compliance, and historical research in SQL, then open the same data through Apache Parquet, Iceberg and Arrow.",
+    "url": "https://questdb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Transform, enrich, and aggregate events as they arrive, then publish results in real time.",
+    "url": "https://questdb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Compact 2D arrays for order-book snapshots: vectorized ops for depth/imbalance analytics.",
+    "url": "https://questdb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "QuestDB is an essential part of our trading platform — a high-speed, scalable store for billions of trades we can query in real time.",
+    "url": "https://questdb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "This query takes the best bid price and multiplies it by 1.01. Then it finds the level at which that price would be met inside the prices array. We slide the volume array from the first level until the level we found, and sum all the volumes. Note the use of DECLARE to make the query more readable.",
+    "url": "https://questdb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "This query slices the bid and ask volumes from positions 1:4 and sums the arrays. Then it divides bid volume by ask volume to get the imbalance ratio.",
+    "url": "https://questdb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "SELECT timestamp, array_sum(@rel_vol) total_volume",
+    "url": "https://questdb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "added support for ingesting records that arrive out of chronological order, removing the requirement that rows be inserted in strict timestamp order.",
+    "url": "https://en.wikipedia.org/wiki/QuestDB",
+    "pass": 3
+   },
+   {
+    "quote": "QuestDB 9.0 followed in July 2025, introducing support for multi-dimensional arrays.",
+    "url": "https://en.wikipedia.org/wiki/QuestDB",
+    "pass": 3
+   },
+   {
+    "quote": "queries are refreshed incrementally as new data arrives.",
+    "url": "https://en.wikipedia.org/wiki/QuestDB",
+    "pass": 3
+   },
+   {
+    "quote": "Parquet, Apache Iceberg, and Apache Arrow keep the data open to any tool.",
+    "url": "https://github.com/questdb/questdb",
+    "pass": 3
+   },
+   {
+    "quote": "Query results streamed to Arrow",
+    "url": "https://github.com/questdb/questdb",
+    "pass": 3
+   },
+   {
+    "quote": "Streaming 500 million rows into Arrow",
+    "url": "https://github.com/questdb/questdb",
+    "pass": 3
+   },
+   {
+    "quote": "columnar protocol for writes and for Arrow reads, plus native arrays and",
+    "url": "https://github.com/questdb/questdb",
+    "pass": 3
+   },
+   {
+    "quote": "returns those columns as Apache Arrow by default, and Rust and C/C++ can",
+    "url": "https://github.com/questdb/questdb",
+    "pass": 3
+   },
+   {
+    "quote": "Transform, enrich, and aggregate events as they arrive.",
+    "url": "https://github.com/questdb/questdb",
+    "pass": 3
+   },
+   {
+    "quote": "live views, and n-dimensional arrays.",
+    "url": "https://github.com/questdb/questdb",
+    "pass": 3
+   },
+   {
+    "quote": "connect string. The first-party clients listed above speak it.",
+    "url": "https://github.com/questdb/questdb",
+    "pass": 3
+   },
+   {
+    "quote": "QuestDB is an essential part of our trading platform — a high-speed, scalable store for billions of trades we can query in real time.",
+    "url": "https://questdb.com/enterprise/",
+    "pass": 3
+   },
+   {
+    "quote": "The next generation has arrived",
+    "url": "https://questdb.com/enterprise/",
+    "pass": 3
+   },
+   {
+    "quote": "Actually the embedded mode chapter looks to be the smallest part of documentation. It would be nice to add some best practice advices and code examples.",
+    "url": "https://aws.amazon.com/marketplace/pp/prodview-6zl4v3a4dq27g",
+    "pass": 3
+   },
+   {
+    "quote": "This website, the documentation, the public demo instance at demo.questdb.io, the community forum and the QuestDB Slack are provided free of charge, “as is” and without warranty, and may be changed or withdrawn at any time. Content on this website is owned by QuestDB or its licensors unless stated otherwise. The documentation is licensed under the",
+    "url": "https://questdb.com/terms/",
+    "pass": 3
+   },
+   {
+    "quote": "for an open-source product that wasn't generating revenue at the time.",
+    "url": "https://questdb.com/blog/2022/01/03/two-year-journey-raising-15m-venture-capital/",
+    "pass": 3
+   },
+   {
+    "quote": "a technological standpoint but wanted to see revenue even though we incorporated",
+    "url": "https://questdb.com/blog/2022/01/03/two-year-journey-raising-15m-venture-capital/",
+    "pass": 3
+   },
+   {
+    "quote": "on the cloud, which would be our primary path to revenue that can scale over",
+    "url": "https://questdb.com/blog/2022/01/03/two-year-journey-raising-15m-venture-capital/",
+    "pass": 3
+   },
+   {
+    "quote": "on revenue growth but more on open source traction, developer adoption and",
+    "url": "https://questdb.com/blog/2022/01/03/two-year-journey-raising-15m-venture-capital/",
+    "pass": 3
+   },
+   {
+    "quote": "continue our journey as a true remote-first company, with our employees working",
+    "url": "https://questdb.com/blog/2022/01/03/two-year-journey-raising-15m-venture-capital/",
+    "pass": 3
+   },
+   {
+    "quote": "QuestDB: Revenue, Competitors, Alternatives",
+    "url": "https://growjo.com/company/QuestDB",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and Competitors",
+    "url": "https://growjo.com/company/QuestDB",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/QuestDB",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/QuestDB",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated revenue per employee is $",
+    "url": "https://growjo.com/company/QuestDB",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/432794-53",
+    "pass": 3
+   },
+   {
+    "quote": "QuestDB has 30 total employees.",
+    "url": "https://pitchbook.com/profiles/company/432794-53",
+    "pass": 3
+   },
+   {
+    "quote": "What is QuestDB’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/432794-53",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for QuestDB is",
+    "url": "https://pitchbook.com/profiles/company/432794-53",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us for a demo",
+    "url": "https://questdb.com/enterprise/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B email lists",
+    "url": "https://growjo.com/company/QuestDB",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Email Finder",
+    "url": "https://growjo.com/company/QuestDB",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/432794-53",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "QuestDB | Low-latency time-series database on open formats — QuestDB | Low-latency time-series database on open formats QuestDB https://questdb.com",
+    "url": "https://questdb.com/",
+    "pass": 3
+   },
+   {
+    "quote": "QuestDB - Wikipedia — QuestDB - Wikipedia Wikipedia https://en.wikipedia.org > QuestDB",
+    "url": "https://en.wikipedia.org/wiki/QuestDB",
+    "pass": 3
+   },
+   {
+    "quote": "QuestDB is a high performance, open-source, time ... - GitHub — QuestDB is a high performance, open-source, time ... - GitHub GitHub https://github.com > questdb > questdb",
+    "url": "https://github.com/questdb/questdb",
+    "pass": 3
+   },
+   {
+    "quote": "QuestDB Enterprise: Time-Series Database and Lakehouse — QuestDB Enterprise: Time-Series Database and Lakehouse QuestDB https://questdb.com > enterprise",
+    "url": "https://questdb.com/enterprise/",
+    "pass": 3
+   },
+   {
+    "quote": "時系列データベースベンチマークの比較： GridDB、 QuestDB — 時系列データベースベンチマークの比較： GridDB、 QuestDB griddb.net https://www.griddb.net > 未分類 > time-series-database-be...",
+    "url": "https://www.griddb.net/ja/%E6%9C%AA%E5%88%86%E9%A1%9E/time-series-database-benchmark-comparison-griddb-questdb-timescaledb/",
+    "pass": 3
+   },
+   {
+    "quote": "QuestDB - LinkedIn — QuestDB - LinkedIn LinkedIn https://www.linkedin.com > questdb",
+    "url": "https://www.linkedin.com/company/questdb",
+    "pass": 3
+   },
+   {
+    "quote": "QuestDB Enterprise - Time Series Database | AWS Marketplace — QuestDB Enterprise - Time Series Database | AWS Marketplace Amazon Web Services (AWS) https://aws.amazon.com > marketplace",
+    "url": "https://aws.amazon.com/marketplace/pp/prodview-6zl4v3a4dq27g",
+    "pass": 3
+   },
+   {
+    "quote": "Terms - QuestDB — Terms - QuestDB QuestDB https://questdb.com > terms",
+    "url": "https://questdb.com/terms/",
+    "pass": 3
+   },
+   {
+    "quote": "Our two-year journey to raise $15m in venture capital | QuestDB — Our two-year journey to raise $15m in venture capital | QuestDB QuestDB https://questdb.com > 2022/01/03",
+    "url": "https://questdb.com/blog/2022/01/03/two-year-journey-raising-15m-venture-capital/",
+    "pass": 3
+   },
+   {
+    "quote": "QuestDB - Crunchbase Company Profile & Funding — QuestDB - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > quest-db",
+    "url": "https://www.crunchbase.com/organization/quest-db",
+    "pass": 3
+   },
+   {
+    "quote": "QuestDB : Revenue , Competitors, Alternatives - Growjo — QuestDB : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > QuestDB",
+    "url": "https://growjo.com/company/QuestDB",
+    "pass": 3
+   },
+   {
+    "quote": "QuestDB 2026 Company Profile: Valuation, Funding & Investors — QuestDB 2026 Company Profile: Valuation, Funding & Investors PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/432794-53",
+    "pass": 3
+   },
+   {
+    "quote": "Questdb Limited Asset Profile | Preqin | BlackRock — Questdb Limited Asset Profile | Preqin | BlackRock Preqin https://www.preqin.com > data > asset",
+    "url": "https://www.preqin.com/data/profile/asset/questdb-technology/381870",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "増井 on X: \"調べ物してると QuestDB の記事が偶に引っかかる ... 増井 on X: \"調べ物してると QuestDB の記事が偶に引っかかる ... X https://x.com > @miraclemasui",
+    "url": "https://x.com/miraclemasui/status/2111718562280952093",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "QuestDB - LinkedIn QuestDB - LinkedIn LinkedIn https://www.linkedin.com > questdb",
+    "url": "https://www.linkedin.com/company/questdb",
+    "pass": 3
+   },
+   {
+    "quote": "QuestDB - LinkedIn QuestDB - LinkedIn LinkedIn https://www.linkedin.com > questdb",
+    "url": "https://www.linkedin.com/products/questdb/",
+    "pass": 3
+   },
+   {
+    "quote": "Nicolas Hourcard, CFA - Co-founder at QuestDB - LinkedIn Nicolas Hourcard, CFA - Co-founder at QuestDB - LinkedIn LinkedIn https://uk.linkedin.com > ...",
+    "url": "https://uk.linkedin.com/in/nicolas-hourcard-cfa-b7349b37",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "QuestDB - Facebook QuestDB - Facebook Facebook https://www.facebook.com > QuestDB",
+    "url": "https://www.facebook.com/QuestDB/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://sklar.rocks/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sklar.rocks/about/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://questdb.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/QuestDB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/questdb/questdb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://questdb.com/enterprise/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.quest.com/community/jp-ja/w/platform-management-wiki/2293/microsoft-platform-management",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://questvision.co.jp/case7/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://products.sint.co.jp/siob/price/distributor",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wadax.ne.jp/company/agent/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://questdb.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/questdb/questdb",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/questdb",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://aws.amazon.com/marketplace/pp/prodview-6zl4v3a4dq27g",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://questdb.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.factbird.com/resources/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://goamplifi.com/knowledge-base/case-study-6-case-studies-of-data-management-success-in-manufacturing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://questdb.com/terms/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://questdb.com/blog/2022/01/03/two-year-journey-raising-15m-venture-capital/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/quest-db",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/QuestDB",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/432794-53",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/miraclemasui/status/2111718562280952093",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/questdb",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/questdb/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/nicolas-hourcard-cfa-b7349b37",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/QuestDB/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Questdb",
+   "results": [
+    "https://questdb.com/",
+    "https://github.com/questdb/questdb",
+    "https://www.linkedin.com/company/questdb",
+    "https://aws.amazon.com/marketplace/pp/prodview-6zl4v3a4dq27g",
+    "https://demo.questdb.io/index.html",
+    "https://medium.com/@vinodbokare0588/questdb-peak-time-series-performance-309b4a01e607",
+    "https://ja.wikipedia.org/wiki/Question?",
+    "https://en.wikipedia.org/wiki/QuestDB",
+    "https://grokipedia.com/page/ASOF_JOIN_QuestDB",
+    "https://questdb.com/download/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "株式会社Questdb",
+   "results": [
+    "https://questdb.com/",
+    "https://www.linkedin.com/company/questdb",
+    "https://en.wikipedia.org/wiki/QuestDB",
+    "https://github.com/questdb/questdb",
+    "https://www.ycombinator.com/companies/questdb",
+    "https://questdb.com/about-us/",
+    "https://dbdb.io/db/questdb",
+    "https://zenn.dev/firstloop_tech/articles/d7ab7d5944d2e9",
+    "https://www.preqin.com/data/profile/asset/questdb-technology/381870",
+    "https://pitchbook.com/profiles/company/432794-53"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "Questdb 株式会社",
+   "results": [
+    "https://questdb.com/",
+    "https://www.linkedin.com/company/questdb",
+    "https://en.wikipedia.org/wiki/QuestDB",
+    "https://github.com/questdb",
+    "https://www.ycombinator.com/companies/questdb",
+    "https://questdb.com/about-us/",
+    "https://zenn.dev/firstloop_tech/articles/d7ab7d5944d2e9",
+    "https://www.crunchbase.com/organization/quest-db",
+    "https://pitchbook.com/profiles/company/432794-53",
+    "https://www.quest.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Ｑｕｅｓｔｄｂ",
+   "results": [
+    "https://questdb.com/",
+    "https://github.com/questdb/questdb",
+    "https://www.linkedin.com/company/questdb",
+    "https://aws.amazon.com/marketplace/seller-profile?id=bd216ee3-6b02-4b31-bbf1-fb55631ad4db",
+    "https://demo.questdb.io/index.html",
+    "https://medium.com/@vinodbokare0588/questdb-peak-time-series-performance-309b4a01e607",
+    "https://ja.wikipedia.org/wiki/Question?",
+    "https://en.wikipedia.org/wiki/QuestDB",
+    "https://questdb.com/docs/",
+    "https://github.com/questdb/questdb/releases"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "Questdb Japan",
+   "results": [
+    "https://questdb.com/",
+    "https://github.com/questdb/questdb",
+    "https://www.linkedin.com/company/questdb",
+    "https://aws.amazon.com/marketplace/pp/prodview-6zl4v3a4dq27g",
+    "https://en.wikipedia.org/wiki/QuestDB",
+    "https://questdb.com/docs/",
+    "https://medium.com/@vinodbokare0588/questdb-peak-time-series-performance-309b4a01e607",
+    "https://marketplace.digitalocean.com/apps/questdb",
+    "https://www.questdblab.org/en/",
+    "https://questdb.com/capital-markets/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Questdb 日本",
+   "results": [
+    "https://questdb.com/",
+    "https://www.linkedin.com/company/questdb",
+    "https://github.com/questdb/questdb",
+    "https://aws.amazon.com/marketplace/pp/prodview-6zl4v3a4dq27g",
+    "https://demo.questdb.io/index.html",
+    "https://marketplace.digitalocean.com/apps/questdb",
+    "https://news.ycombinator.com/item?id=23975807",
+    "https://questdb.com/blog/questdb-10-release/",
+    "https://docs.rs/questdb-rs",
+    "https://en.wikipedia.org/wiki/QuestDB"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Questdb K.K.",
+   "results": [
+    "https://questdb.com/",
+    "https://www.linkedin.com/company/questdb",
+    "https://news.ycombinator.com/item?id=23975807",
+    "https://dataintellect.com/blog/an-introduction-to-questdb/",
+    "https://sklar.rocks/my-first-questdb-pr/",
+    "https://github.com/questdb/questdb",
+    "https://www.timestored.com/data/questdb-finance-database",
+    "https://www.reddit.com/r/questdb/comments/1iwieko/questdb_recommendations/",
+    "https://en.wikipedia.org/wiki/QuestDB",
+    "https://www.questdblab.org/en/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Questdb 日本 導入",
+   "results": [
+    "https://questdb.com/",
+    "https://en.wikipedia.org/wiki/QuestDB",
+    "https://github.com/questdb/questdb",
+    "https://questdb.com/enterprise/",
+    "https://www.griddb.net/ja/%E6%9C%AA%E5%88%86%E9%A1%9E/time-series-database-benchmark-comparison-griddb-questdb-timescaledb/",
+    "https://www.infoq.com/jp/news/2024/07/questdb-database/",
+    "https://zenn.dev/firstloop_tech/articles/d7ab7d5944d2e9",
+    "https://www.versio.io/ja/product-release-end-of-life-eol-questdb-questdb.html",
+    "https://findy-tools.io/products/questdb/594",
+    "https://findy-tools.io/products/questdb/594/reviews"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Questdb 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.quest.com/community/jp-ja/w/platform-management-wiki/2293/microsoft-platform-management",
+    "https://questvision.co.jp/case7/",
+    "https://products.sint.co.jp/siob/price/distributor",
+    "https://www.wadax.ne.jp/company/agent/",
+    "https://www.engeniustech.com/jp/where-to-buy/",
+    "https://www.similarweb.com/ja/company/questdb.com/",
+    "https://partner.infinicloud.com/agencypartner.html",
+    "https://www.bgent.net/",
+    "https://www.netskope.com/jp/partners/partner-list",
+    "https://questdb.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Questdb Japan",
+   "results": [
+    "https://questdb.com/",
+    "https://github.com/questdb/questdb",
+    "https://www.linkedin.com/company/questdb",
+    "https://aws.amazon.com/marketplace/pp/prodview-6zl4v3a4dq27g",
+    "https://en.wikipedia.org/wiki/QuestDB",
+    "https://questdb.com/docs/",
+    "https://medium.com/@vinodbokare0588/questdb-peak-time-series-performance-309b4a01e607",
+    "https://marketplace.digitalocean.com/apps/questdb",
+    "https://www.questdblab.org/en/",
+    "https://questdb.com/capital-markets/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "Questdb manufacturing customer case study",
+   "results": [
+    "https://questdb.com/",
+    "https://www.factbird.com/resources/case-studies",
+    "https://goamplifi.com/knowledge-base/case-study-6-case-studies-of-data-management-success-in-manufacturing",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.cdata.com/case-study/",
+    "https://www.42-q.com/resources/case-studies/",
+    "https://motherduck.com/case-studies/",
+    "https://www.stratasys.com/en/resources/case-studies/",
+    "https://www.phoenixdata.ai/glossary/questdb",
+    "https://questdb.com/customers/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Questdb white label OR reseller OR partner program",
+   "results": [
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://questdb.com/terms/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://www.nuwebgroup.com/blog/entrepreneur/everything-you-need-to-know-about-white-label-reseller-programs",
+    "https://www.mastercard.com/europe/en/business/payments/merchant-cloud/insights/white-label-reseller-partnerships.html",
+    "https://seedlycrm.com/blog/white-label-crm-playbook",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Questdb founded funding employees revenue",
+   "results": [
+    "https://questdb.com/blog/2022/01/03/two-year-journey-raising-15m-venture-capital/",
+    "https://www.crunchbase.com/organization/quest-db",
+    "https://growjo.com/company/QuestDB",
+    "https://pitchbook.com/profiles/company/432794-53",
+    "https://www.preqin.com/data/profile/asset/questdb-technology/381870",
+    "https://siliconangle.com/2021/11/03/questdb-gets-12m-series-funding-amid-growing-interest-time-series-databases/",
+    "https://www.frontlines.io/the-story-of-questdb-building-the-future-of-time-series-data/",
+    "https://leadiq.com/c/questdb/5ee086502fd07506cba24aea",
+    "https://getlatka.com/companies/questdb.io",
+    "https://compworth.com/company/questdb"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:note.com Questdb",
+   "results": [
+    "https://note.com/c_c_a/n/n33b39359ddad",
+    "https://note.com/kagawatomo/n/na67776e22edb",
+    "https://note.com/c_c_a/n/n1bc21fd099c0",
+    "https://note.com/c_c_a/n/n33b39359ddad?hl=ko",
+    "https://note.com/insight_mktg/n/n88325408da29",
+    "https://note.com/libredb/n/n8a8d94e60817",
+    "https://note.com/noted_jacana411/n/nc3b7123d0d8f?hl=en",
+    "https://note.com/tech_athletes/n/na77ff50f4a9b?hl=en",
+    "https://note.com/mizutory/n/nd2f6d050e539",
+    "https://note.com/fujikawa/n/n7e233fe48cb5"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com Questdb",
+   "results": [
+    "https://x.com/jerrinot",
+    "https://x.com/JeremyCMorgan/status/2117769313541108162",
+    "https://x.com/miraclemasui/status/2111718562280952093",
+    "https://x.com/hashtag/GitHubRelease",
+    "https://x.com/miraclemasui/status/2111718562280952093?lang=ar-x-fm",
+    "https://x.com/salil",
+    "https://x.com/Fushihara/status/1974680292268060745",
+    "https://x.com/miraclemasui/status/2111721840339198408",
+    "https://x.com/jerrinot/status/1204372209638236160",
+    "https://x.com/questdb"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Questdb",
+   "results": [
+    "https://www.linkedin.com/company/questdb",
+    "https://www.linkedin.com/products/questdb/",
+    "https://uk.linkedin.com/in/nicolas-hourcard-cfa-b7349b37",
+    "https://www.linkedin.com/in/rajisalive",
+    "https://uk.linkedin.com/in/ilyushchenko",
+    "https://es.linkedin.com/in/ramirez",
+    "https://uk.linkedin.com/in/nicholas-woolmer-140004a1",
+    "https://uk.linkedin.com/in/alexander-pelagenko-7b18923",
+    "https://www.linkedin.com/posts/ferencbodon_benchmarking-kdb-x-vs-questdb-clickhouse-activity-7396148539053084672-ls3G",
+    "https://uk.linkedin.com/company/questdb"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:facebook.com Questdb",
+   "results": [
+    "https://www.facebook.com/QuestDB/",
+    "https://www.facebook.com/61568751478861/videos/-all-types-of-databases-here-/2180548429346157/",
+    "https://www.facebook.com/Premicoding/videos/type-of-database-database-information-2025-2026-coding-webdevelopment-htmlcssjav/2287954995053572/",
+    "https://www.facebook.com/7pcventures/",
+    "https://www.facebook.com/selibengls/posts/new-software-development-engineer-quartz-document-collabaration-and-publishing/5446415252057030/",
+    "https://www.facebook.com/xmodulo/videos/databases-can-be-classified-by-how-they-organize-store-retrieve-and-distribute-d/1571775021057956/",
+    "https://www.facebook.com/dbvis/",
+    "https://www.facebook.com/fb-answers/20-dollar-meta-quest-gift-card/?locale=zh_CN",
+    "https://www.facebook.com/codewebkhongkho/posts/%EF%B8%8F-9-lo%E1%BA%A1i-database-ph%E1%BB%95-bi%E1%BA%BFn-nh%E1%BA%A5t-bi%E1%BA%BFt-h%E1%BA%BFt-th%C3%AC-thi%E1%BA%BFt-k%E1%BA%BF-h%E1%BB%87-th%E1%BB%91ng-nh%C6%B0-l%C3%A1i-b%E1%BA%A1n-ngh%C4%A9-/768039726376434/",
+    "https://www.facebook.com/scylladb/videos/questdb-is-a-high-performance-open-source-time-series-database-at-our-free-and-v/1003948281188496/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Questdb note 社長",
+   "results": [
+    "https://questdb.com/release-notes/",
+    "https://github.com/questdb/questdb/releases",
+    "https://en.wikipedia.org/wiki/QuestDB",
+    "https://redmonk.com/kfitzpatrick/2020/08/31/new-client-profile-questdb/",
+    "https://questdb.com/",
+    "https://www.techtarget.com/news/QuestDB-grows-time-series-database-with-12M-funding-round/843993/",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://www.businessinsider.com/quest-db-y-combinator-startup-series-a-pitch-deck-2021-11",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Questdb X 投稿",
+   "results": [
+    "https://questdb.com/blog/questdb-10-release/",
+    "https://github.com/questdb/questdb/releases",
+    "https://py-questdb-client.readthedocs.io/en/latest/examples.html",
+    "https://en.wikipedia.org/wiki/QuestDB",
+    "https://questdb.com/blog/questdb-9-3-release/",
+    "https://grafana.com/grafana/plugins/questdb-questdb-datasource/",
+    "https://www.youtube.com/watch?v=xneSPWsAuyI",
+    "https://marketplace.digitalocean.com/apps/questdb",
+    "https://x.com/questdb",
+    "https://x.com/hashtag/QuestDB"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部29頁・検索19回）",
+  "株主": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部29頁・検索19回）",
+  "従業員数": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部29頁・検索19回）",
+  "売上高": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部29頁・検索19回）",
+  "所在地": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部29頁・検索19回）",
+  "料金": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部29頁・検索19回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部29頁・検索19回）",
+  "日本の担い手": "記載なし（3回確認済み：公式2頁／PDF・画像0件／外部29頁・検索19回）"
+ }
+}

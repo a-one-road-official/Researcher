@@ -1,0 +1,1159 @@
+{
+ "name": "株式会社メイホー",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T11:00:01.428782+00:00",
+ "official_url": "http://www.meiho-j.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　永松克彦",
+    "url": "https://www.meiho-j.co.jp/c_company.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "178名",
+    "url": "https://www.meiho-j.co.jp/c_company.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "約3,000人",
+    "url": "https://www.meiho-j.co.jp/problem-solving.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "約18,000人",
+    "url": "https://www.meiho-j.co.jp/problem-solving.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "約1,600人",
+    "url": "https://www.meiho-j.co.jp/problem-solving.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "約28,000人",
+    "url": "https://www.meiho-j.co.jp/problem-solving.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "約300人",
+    "url": "https://www.meiho-j.co.jp/problem-solving.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "約800人",
+    "url": "https://www.meiho-j.co.jp/problem-solving.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "約15,000人",
+    "url": "https://www.meiho-j.co.jp/problem-solving.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "約5,000人",
+    "url": "https://www.meiho-j.co.jp/problem-solving.html",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社",
+    "value": "経営管理部 〒822-0001 福岡県直方市感田811-1 TEL 0949-26-0006㈹　FAX 0949-26-3800",
+    "url": "https://www.meiho-j.co.jp/c_company.html",
+    "pass": 1
+   },
+   {
+    "label": "本社・第2工場",
+    "value": "金型製造部",
+    "url": "https://www.meiho-j.co.jp/c_company.html",
+    "pass": 1
+   }
+  ],
+  "拠点": [
+   {
+    "label": "工場",
+    "value": "直方第2工場（金型工場）金型製造部 〒822-0001 福岡県直方市感田811-1 TEL 0949-26-0006㈹　FAX 0949-26-3800 直方第3工場（成形工場）成形品製造部／R&Dセンター 〒822-0002 福岡県直方市頓野287 TEL 0949-26-5020㈹　FAX 0949-26-6933",
+    "url": "https://www.meiho-j.co.jp/c_company.html",
+    "pass": 1
+   },
+   {
+    "label": "第3工場",
+    "value": "成形品製造部 / R&Dセンター",
+    "url": "https://www.meiho-j.co.jp/c_company.html",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "半導体メーカー、電子部品メーカー、自動車部品メーカー、 成形機メーカー、医療機器メーカー、化学メーカー、 容器メーカー、ロボットメーカー 他",
+    "url": "https://www.meiho-j.co.jp/c_company.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "業務内容",
+    "value": "技能職（機械オペレーター） 図面に指示された加工寸法に従い、工作機械（マシニング操作、ガンドリル操作、フライス盤・ラジアル操作、研削機操作）\n\t\tを使用して金型部品の加工を行う業務 ※工作機械の操作経験者の募集",
+    "url": "https://www.meiho-j.co.jp/recruit.html?1",
+    "pass": 1
+   },
+   {
+    "label": "業務内容",
+    "value": "技能職（成形オペレーター） プラスチック製品の成形業務（金型段取り、成形機・自動機操作、製品箱替え、材料補充） ※１週間毎の交替制勤務となります",
+    "url": "https://www.meiho-j.co.jp/recruit.html?1",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "一点物・少量多品種": [
+   {
+    "quote": "精密小物部品の試作開発、",
+    "url": "https://www.meiho-j.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "省エネ、省スペース、少量対応をコンセプトに単体成形から量産ラインへの組込みなど変種変量に適した柔軟性の高い小型成形機です",
+    "url": "https://www.meiho-j.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "試作で製品を具現化、性能確認を経た後、量産金型を立上げ量産化に至った",
+    "url": "https://www.meiho-j.co.jp/problem-solving.html",
+    "pass": 1
+   },
+   {
+    "quote": "ごく少量の開発樹脂で複数グレードの性能を相対比較したい",
+    "url": "https://www.meiho-j.co.jp/problem-solving.html",
+    "pass": 1
+   },
+   {
+    "quote": "1000個/月など少量の量産でも、比較的安価にご提供出来ます",
+    "url": "https://www.meiho-j.co.jp/problem-solving.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品設計支援、試作、小ロット生産サービスを開始",
+    "url": "https://www.meiho-j.co.jp/c_history.html",
+    "pass": 1
+   },
+   {
+    "quote": "自社開発の超小型射出成形機による医療バイオ容器の試作量産開始",
+    "url": "https://www.meiho-j.co.jp/c_history.html",
+    "pass": 1
+   },
+   {
+    "quote": "無料DL 配布用サンプル【PP(ポリプロピレン) 薄肉 試作 小ロット 評価材料】 - 株式会社 メイホー",
+    "url": "https://ja.nc-net.or.jp/company/47142/product/detail/96259/",
+    "pass": 3
+   },
+   {
+    "quote": "配布用サンプル【PP(ポリプロピレン) 薄肉 試作 小ロット 評価材料】",
+    "url": "https://ja.nc-net.or.jp/company/47142/product/detail/96259/",
+    "pass": 3
+   },
+   {
+    "quote": "対応力:試作、小ロット",
+    "url": "https://ja.nc-net.or.jp/company/47142/product/detail/96259/",
+    "pass": 3
+   },
+   {
+    "quote": "少量の評価材料を御支給いただければテスト成形可能です",
+    "url": "https://ja.nc-net.or.jp/company/47142/product/detail/96259/",
+    "pass": 3
+   },
+   {
+    "quote": "無料DL 白化傾向試験片【PET フィルムゲート 試作 小ロット】 - 株式会社 メイホー",
+    "url": "https://ja.nc-net.or.jp/company/47142/product/detail/101140/",
+    "pass": 3
+   },
+   {
+    "quote": "白化傾向試験片【PET フィルムゲート 試作 小ロット】",
+    "url": "https://ja.nc-net.or.jp/company/47142/product/detail/101140/",
+    "pass": 3
+   },
+   {
+    "quote": "業界・部品名:試作・白化傾向可視化サンプル",
+    "url": "https://ja.nc-net.or.jp/company/47142/product/detail/101140/",
+    "pass": 3
+   },
+   {
+    "quote": "改善内容:評価材料の少量化、白化傾向の可視化",
+    "url": "https://ja.nc-net.or.jp/company/47142/product/detail/101140/",
+    "pass": 3
+   },
+   {
+    "quote": "対応力:試作、小ロット",
+    "url": "https://ja.nc-net.or.jp/company/47142/product/detail/101140/",
+    "pass": 3
+   },
+   {
+    "quote": "備 考:フィルムゲートを採用することで極少量の材料で白化現象の程度を",
+    "url": "https://ja.nc-net.or.jp/company/47142/product/detail/101140/",
+    "pass": 3
+   },
+   {
+    "quote": "少量の評価材料を御支給いただければテスト成形可能です",
+    "url": "https://ja.nc-net.or.jp/company/47142/product/detail/101140/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "医療機器品質マネジメントシステムISO13485:2016認証取得",
+    "url": "https://www.meiho-j.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "第3工場にて、医療機器品質マネジメントシステム ISO13485:2016の認証を取得しました",
+    "url": "https://www.meiho-j.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "40年以上培ってきた精密金型の設計・製作をコア技術とし、成形難易度の高い複雑形状、精密形状を得意としています",
+    "url": "https://www.meiho-j.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "クリーン環境を整え、医療機器、化粧品容器等のアッセンブリーを行っています",
+    "url": "https://www.meiho-j.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "これまでの金型製作・成形技術を集結し、自社オリジナルの小型射出成形機の設計・製造・販売を行っています",
+    "url": "https://www.meiho-j.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "直方第2工場（金型工場）金型製造部",
+    "url": "https://www.meiho-j.co.jp/c_company.html",
+    "pass": 1
+   },
+   {
+    "quote": "半導体メーカー、電子部品メーカー、自動車部品メーカー、",
+    "url": "https://www.meiho-j.co.jp/c_company.html",
+    "pass": 1
+   },
+   {
+    "quote": "成形機メーカー、医療機器メーカー、化学メーカー、",
+    "url": "https://www.meiho-j.co.jp/c_company.html",
+    "pass": 1
+   },
+   {
+    "quote": "容器メーカー、ロボットメーカー 他",
+    "url": "https://www.meiho-j.co.jp/c_company.html",
+    "pass": 1
+   },
+   {
+    "quote": "本社・第2工場：金型製造部",
+    "url": "https://www.meiho-j.co.jp/c_company.html",
+    "pass": 1
+   },
+   {
+    "quote": "半導体用精密金型、ブロー成形金型、射出成形用精密金型、",
+    "url": "https://www.meiho-j.co.jp/c_company.html",
+    "pass": 1
+   },
+   {
+    "quote": "液状シリコーンゴム成形用金型（LIM金型）、精密機械部品の設計・製作",
+    "url": "https://www.meiho-j.co.jp/c_company.html",
+    "pass": 1
+   },
+   {
+    "quote": "・九州縦貫自動車道八幡ICから約5分",
+    "url": "https://www.meiho-j.co.jp/c_company.html",
+    "pass": 1
+   },
+   {
+    "quote": "・福岡空港から九州縦貫自動車道経由で約50分",
+    "url": "https://www.meiho-j.co.jp/c_company.html",
+    "pass": 1
+   },
+   {
+    "quote": "・北九州空港から九州縦貫自動車道経由で約35分",
+    "url": "https://www.meiho-j.co.jp/c_company.html",
+    "pass": 1
+   },
+   {
+    "quote": "・JR博多駅から九州縦貫自動車道経由で約50分",
+    "url": "https://www.meiho-j.co.jp/c_company.html",
+    "pass": 1
+   },
+   {
+    "quote": "・九州縦貫自動車道八幡ICから約10分",
+    "url": "https://www.meiho-j.co.jp/c_company.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品を量産したいが、金型や成形をどうしたらよいか分からない",
+    "url": "https://www.meiho-j.co.jp/problem-solving.html",
+    "pass": 1
+   },
+   {
+    "quote": "構想図を頂き、金型や樹脂成形の技術的に対応出来る部分、出来ない部分を判断",
+    "url": "https://www.meiho-j.co.jp/problem-solving.html",
+    "pass": 1
+   },
+   {
+    "quote": "試作で製品を具現化、性能確認を経た後、量産金型を立上げ量産化に至った",
+    "url": "https://www.meiho-j.co.jp/problem-solving.html",
+    "pass": 1
+   },
+   {
+    "quote": "弊社には金型の設計から製造、成形までを社内で完結対応できる人材と設備が整っていますので、ご検討段階から量産化まで１社で対応が可能です",
+    "url": "https://www.meiho-j.co.jp/problem-solving.html",
+    "pass": 1
+   },
+   {
+    "quote": "弊社製の超小型射出成形機「µMIV-2」でJIS試験片の縮尺Ver.金型を用いて試験片成形",
+    "url": "https://www.meiho-j.co.jp/problem-solving.html",
+    "pass": 1
+   },
+   {
+    "quote": "超小型成形機が製作可能、加えて金型も一緒にオーダー可能",
+    "url": "https://www.meiho-j.co.jp/problem-solving.html",
+    "pass": 1
+   },
+   {
+    "quote": "金型構造の改良や開発、成形条件改善、品証による寸法の傾向管理等を実施",
+    "url": "https://www.meiho-j.co.jp/problem-solving.html",
+    "pass": 1
+   },
+   {
+    "quote": "受託成形かつ精密金型自社製作で、トラブル時も１社対応可能",
+    "url": "https://www.meiho-j.co.jp/problem-solving.html",
+    "pass": 1
+   },
+   {
+    "quote": "大手自動車部品・電子部品メーカー様へ納入実績がございます",
+    "url": "https://www.meiho-j.co.jp/problem-solving.html",
+    "pass": 1
+   },
+   {
+    "quote": "第3工場にて医療機器品質マネジメントシステム ISO13485:2016認証取得",
+    "url": "https://www.meiho-j.co.jp/c_history.html",
+    "pass": 1
+   },
+   {
+    "quote": "生産効率向上のため金型工場、成形工場統合ならびに組織再編",
+    "url": "https://www.meiho-j.co.jp/c_history.html",
+    "pass": 1
+   },
+   {
+    "quote": "自社開発の超小型射出成形機による医療バイオ容器の試作量産開始",
+    "url": "https://www.meiho-j.co.jp/c_history.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動車産業参入アドバイザーの支援を受けTPSの理論習得と改善実施",
+    "url": "https://www.meiho-j.co.jp/c_history.html",
+    "pass": 1
+   },
+   {
+    "quote": "半導体メーカーの海外移管に伴い、現地に日系既存半導体メーカーのあったタイに駐在員事務所を設立し、社員が常駐",
+    "url": "https://www.meiho-j.co.jp/c_history.html",
+    "pass": 1
+   },
+   {
+    "quote": "小型射出成形機、小型半導体モールド装置を開発",
+    "url": "https://www.meiho-j.co.jp/c_history.html",
+    "pass": 1
+   },
+   {
+    "quote": "当時から金型だけでなく、機械の製造も手掛けたいと考えていた社長が新しい半導体モールド装置の開発について半導体メーカーに協力を打診したのがきっかけで、半導体モールド装置からコンパクトな竪型射出成形機の設計開発に展開",
+    "url": "https://www.meiho-j.co.jp/c_history.html",
+    "pass": 1
+   },
+   {
+    "quote": "文具、自動車部品のプラスチック成形品の受託加工を行う",
+    "url": "https://www.meiho-j.co.jp/c_history.html",
+    "pass": 1
+   },
+   {
+    "quote": "精密金型＋成形品の技術を武器に顧客からの紹介で九州の電子部品メーカーとの取引を拡大",
+    "url": "https://www.meiho-j.co.jp/c_history.html",
+    "pass": 1
+   },
+   {
+    "quote": "福岡県直方市に本社および二軸延伸ブロー成形金型工場新築移転",
+    "url": "https://www.meiho-j.co.jp/c_history.html",
+    "pass": 1
+   },
+   {
+    "quote": "金型の事業は設備投資の動向によって売上が大きく増減するため、業績を安定させるため、成形機を導入して量産事業を手掛けるようにした",
+    "url": "https://www.meiho-j.co.jp/c_history.html",
+    "pass": 1
+   },
+   {
+    "quote": "金型で取引のあった電子部品メーカーから成形品の受託加工を受けるようになった",
+    "url": "https://www.meiho-j.co.jp/c_history.html",
+    "pass": 1
+   },
+   {
+    "quote": "社長が半導体メーカーの購買部門の方を紹介してもらい、トップセールスしたのがきっかけ",
+    "url": "https://www.meiho-j.co.jp/c_history.html",
+    "pass": 1
+   },
+   {
+    "quote": "社長が趣味の魚釣りを通じて二軸延伸ブロー成形機メーカーのトップ（故・青木固氏）と出会い、人柄が気に入られて二軸延伸ブロー成形金型（ペットボトル成形金型）を手掛けることに",
+    "url": "https://www.meiho-j.co.jp/c_history.html",
+    "pass": 1
+   },
+   {
+    "quote": "特殊な金型設計製作や設計人材の派遣など、顧客の要望に応えることでパートナー関係を構築",
+    "url": "https://www.meiho-j.co.jp/c_history.html",
+    "pass": 1
+   },
+   {
+    "quote": "福岡県北九州市に全館空調の精密金型工場を新築移転",
+    "url": "https://www.meiho-j.co.jp/c_history.html",
+    "pass": 1
+   },
+   {
+    "quote": "射出成形用精密金型の部品加工で故・永松明が個人創業",
+    "url": "https://www.meiho-j.co.jp/c_history.html",
+    "pass": 1
+   },
+   {
+    "quote": "〒822-0001 福岡県直方市感田811-1（直方第二工場 金型製造部）",
+    "url": "https://www.meiho-j.co.jp/recruit.html?1",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチック製品の成形業務（金型段取り、成形機・自動機操作、製品箱替え、材料補充）",
+    "url": "https://www.meiho-j.co.jp/recruit.html?1",
+    "pass": 1
+   },
+   {
+    "quote": "離職率は改善し、 医療費の負担を減らすこともできます",
+    "url": "https://www.meiho-j.co.jp/images/shihou_nogata5_1.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "メイホーでは金型、成形機の設計製作、そして受託成形まで、",
+    "url": "https://ja.nc-net.or.jp/company/47142/product/detail/96259/",
+    "pass": 3
+   },
+   {
+    "quote": "メイホーでは金型、成形機の設計製作、そして受託成形まで、",
+    "url": "https://ja.nc-net.or.jp/company/47142/product/detail/101140/",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、ある建設コンサルタント会社が持つ最新のドローン測量技術をグループ全体で活用したり、人材派遣会社が持つ採用チャネルを介護事業の人材確保に活かすなど、有機的な連携を促進",
+    "url": "https://note.com/tatsuya_sabato/n/n2e5e99c69faf",
+    "pass": 3
+   },
+   {
+    "quote": "では、ドローンや3Dレーザースキャナを用いた最新の測量・調査技術、長年の経験に裏打ちされた橋梁点検・診断技術、複雑な用地買収などを円滑に進める補償コンサルタントとしてのノウハウなどが挙げられる",
+    "url": "https://note.com/tatsuya_sabato/n/n2e5e99c69faf",
+    "pass": 3
+   },
+   {
+    "quote": "例えば、ドローンで取得した3次元点群データを活用して設計の精度を向上させたり、現場の施工管理にITツールを導入して生産性を高めるなど、グループ全体のDXを推進している",
+    "url": "https://note.com/tatsuya_sabato/n/n2e5e99c69faf",
+    "pass": 3
+   },
+   {
+    "quote": "【中長期戦略・成長ストーリー】「三段ロケット方式」で売上高300億円へ",
+    "url": "https://note.com/tatsuya_sabato/n/n2e5e99c69faf",
+    "pass": 3
+   },
+   {
+    "quote": "第一ロケット：既存事業のオーガニックな成長",
+    "url": "https://note.com/tatsuya_sabato/n/n2e5e99c69faf",
+    "pass": 3
+   },
+   {
+    "quote": "第二ロケット：既存セグメント内での新たなM&A",
+    "url": "https://note.com/tatsuya_sabato/n/n2e5e99c69faf",
+    "pass": 3
+   },
+   {
+    "quote": "第三ロケット：既存セグメント以外の新たなM&A",
+    "url": "https://note.com/tatsuya_sabato/n/n2e5e99c69faf",
+    "pass": 3
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "新製品および独自技術、省力化機器の研究・開発",
+    "url": "https://www.meiho-j.co.jp/c_company.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品を量産したいが、金型や成形をどうしたらよいか分からない",
+    "url": "https://www.meiho-j.co.jp/problem-solving.html",
+    "pass": 1
+   },
+   {
+    "quote": "諸条件を基にお客様とお打合せを行い、製品を設計、製品図を作成",
+    "url": "https://www.meiho-j.co.jp/problem-solving.html",
+    "pass": 1
+   },
+   {
+    "quote": "試作で製品を具現化、性能確認を経た後、量産金型を立上げ量産化に至った",
+    "url": "https://www.meiho-j.co.jp/problem-solving.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品設計支援、試作、小ロット生産サービスを開始",
+    "url": "https://www.meiho-j.co.jp/c_history.html",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチック製品の成形業務（金型段取り、成形機・自動機操作、製品箱替え、材料補充）",
+    "url": "https://www.meiho-j.co.jp/recruit.html?1",
+    "pass": 1
+   },
+   {
+    "quote": "技術・製品情報(315)",
+    "url": "https://ja.nc-net.or.jp/company/47142/product/detail/96259/",
+    "pass": 3
+   },
+   {
+    "quote": "技術・製品情報(315)",
+    "url": "https://ja.nc-net.or.jp/company/47142/product/detail/101140/",
+    "pass": 3
+   },
+   {
+    "quote": "【技術・製品・サービスの深堀り】現場力とDXの融合",
+    "url": "https://note.com/tatsuya_sabato/n/n2e5e99c69faf",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "（エミダスフォーム）よりお問い合わせ願います",
+    "url": "https://www.meiho-j.co.jp/ask.html",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせフォームより「採用」の項目を選択し必要事項を",
+    "url": "https://www.meiho-j.co.jp/recruit.html?1",
+    "pass": 1
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "構想図を頂き、金型や樹脂成形の技術的に対応出来る部分、出来ない部分を判断",
+    "url": "https://www.meiho-j.co.jp/problem-solving.html",
+    "pass": 1
+   },
+   {
+    "quote": "ごく少量の開発樹脂で複数グレードの性能を相対比較したい",
+    "url": "https://www.meiho-j.co.jp/problem-solving.html",
+    "pass": 1
+   },
+   {
+    "quote": "製作に高額な費用がかかる開発樹脂を各100ccだけご準備頂き、評価試験が可能な",
+    "url": "https://www.meiho-j.co.jp/problem-solving.html",
+    "pass": 1
+   },
+   {
+    "quote": "研究室内で手軽に開発樹脂の試験片が採取可能",
+    "url": "https://www.meiho-j.co.jp/problem-solving.html",
+    "pass": 1
+   },
+   {
+    "quote": "他社で解決できなかったマークの崩れやリードフレームの歪み、樹脂バリ改善など、",
+    "url": "https://www.meiho-j.co.jp/problem-solving.html",
+    "pass": 1
+   },
+   {
+    "quote": "スーパーエンプラの極小部品を安定して連続成形できる",
+    "url": "https://www.meiho-j.co.jp/problem-solving.html",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂加工に関する幅広いお仕事を一社で対応しています",
+    "url": "https://ja.nc-net.or.jp/company/47142/product/detail/96259/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂加工に関する幅広いお仕事を一社で対応しています",
+    "url": "https://ja.nc-net.or.jp/company/47142/product/detail/101140/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "当時はまだ出始めたばかりのCAD/CAMシステムも他社に先行して導入",
+    "url": "https://www.meiho-j.co.jp/c_history.html",
+    "pass": 1
+   },
+   {
+    "quote": "NeoSolid3D-CAM",
+    "url": "https://www.meiho-j.co.jp/c_equipment.html",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社メイホー | イプロスものづくり — 【金型設計～試作・量産まで一貫対応】精密小物の金型・樹脂成形でお悩みはありませんか？ 型締め力2t～210tまで！ 小ロットにも対応 その他金型 製造受託 ブックマークに追加いたしました ブックマーク一覧 ブックマークを削除いたしました ...",
+    "url": "https://mono.ipros.com/search/product/?keyword=株式会社メイホー",
+    "pass": 3
+   },
+   {
+    "quote": "成形・樹脂製品の『設計～開発～試作～量産』支援サービス | メイホー... — お客様のアイデアを形にしてスピーディーに市場へ！医療機器・自動車部品・電子部品・化粧品・樹脂業界にて実績多数！ 株式会社メイホーの製品化・試作・量産サービスをご紹介致します。 製品設計支援 ・量産性を考慮した製品設計支援 ・解析 試作/小ロット生産 ・3Dプリンタ ・切削加工 ...",
+    "url": "https://pr.mono.ipros.com/meiho-j/product/detail/2000317680/",
+    "pass": 3
+   },
+   {
+    "quote": "メイホーホールディングス - Wikipedia — 株式会社メイホーホールディングス （メイホーホールディングス、英: Meiho Holdings, Inc.）は、岐阜県 岐阜市 に本社を置く 持株会社。建設関連サービス、建設、人材関連サービス、介護の4事業を営む企業グループを統括する。 東京証券取引所 グロース市場および 名古屋証券取引所 ネクスト ...",
+    "url": "https://ja.wikipedia.org/wiki/メイホーホールディングス",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容｜株式会社メイホーホールディングス — 人材関連サービス事業 (株)メイホーアティーボ (株)スタッフアドバンス (株)メイホーガーディア メイホーアピワット Co.,ltd. (株)レゾナゲート (株)メイホーアークス (株)エモリスリンク 建設事業 (株)愛木 (株)東組 (株)有坂建設 (株)三川土建 今田建設 (株 ...",
+    "url": "https://meihoholdings.co.jp/service/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要/メイホーグループ — 有限会社メイホーエンジニアリング設立 資本金1,000千円 資本金を10,000千円に増資し、株式会社メイホーエンジニアリングに改組 株式移転により株式会社メイホーホールディングスを設立し、 持株会社制へ移行資本金10,000千円 株式会社メイホーエンジニアリングが株式会社メイホーアティーボ ...",
+    "url": "https://www.meihogroup.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社メイホー — OUR STRENGTHS メイホーの強み OUR STRENGTHS 「つねに技術革新を」 それこそがメイホーが創業以来一貫して守り続けている姿勢です。 新素材、新工法、自動化、省人化など新しい取組み、進歩する最新技術に挑戦しています。",
+    "url": "https://www.meiho-j.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "メイホーグループ — Aug 1, 2024 · ・メイホーホールディングス IR情報 ・IRニュース 建設関連サービス事業 ・メイホーエンジニアリング ・オースギ ・エイコー技術コンサルタント ・地域コンサルタント ・エスジー技術コンサルタント ・ノース技研 ・安芸建設コンサルタント ・フジ土木設計",
+    "url": "https://www.meihogroup.com/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ｜株式会社メイホー — お問い合わせ HOME 当社の強み 事業案内 研究開発 精密金型設計・製作 精密射出成形 アッセンブリー 超小型成形機の販売 課題解決事例 品質管理体制 会社案内 代表あいさつ 会社概要、アクセスマップ SDGs 会社沿革 設備情報 採用情報 ビジョン、求める人物 ...",
+    "url": "https://www.meiho-j.co.jp/ask.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ/メイホーグループ — 貴社名 ※必須 氏名 ※必須 フリガナ ※必須 メールアドレス ※必須 メールアドレス確認 ※必須 電話番号 ※必須（携帯電話可） 郵便番号 ※必須（“–”ハイフンは不要） 住所1 都道府県市区町村名 ※必須 住所2 番地や建物名 ※必須 お問い合わせ内容 ※必須",
+    "url": "https://www.meihogroup.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ｜株式会社メイホーホールディングス — (株)メイホーアティーボ (株)スタッフアドバンス (株)メイホーガーディア メイホーアピワット Co.,ltd. (株)レゾナゲート (株)メイホーアークス (株)エモリスリンク 建設事業 (株)愛木 (株)東組 (株)有坂建設 (株)三川土建 今田建設 (株) ハーミット (株) (株)天野 ...",
+    "url": "https://meihoholdings.co.jp/contact/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【企業調査レポート】メイホーHD：26年6月期最高益、M&Aと事業プラッ... Sep 18, 2026 · レポート本編はこちら meihoholdings20260917.pdf 要約 2026年6月期は売上高、営業・経常利益、EBITDAが過去最高を更新 メイホーホールディングスは、企業支援プラットフォームを核として実業を営む中小企業集合体を形成している。M&Aによって成長意欲の高い中小企業と資本提携し、同社独自の ...",
+    "url": "https://note.com/fisco_jp/n/nae9a5526466d",
+    "pass": 3
+   },
+   {
+    "quote": "岐阜の巨人、M&Aで全国区へ。メイホーホールディングス (7369)の「地... Aug 17, 2025 · はじめに：単なるM&A巧者ではない、メイホーHDの真の姿 メイホーホールディングス (7369) : 株価/予想・目標株価 [Meiho Holdings] - みんかぶ メイホーホールディングス (7369) 今日の株価、予想（AI株価診断など）、チャート推移、ニュース、その他にも今後の見通 minkabu.jp 東京証券取引所グロース ...",
+    "url": "https://note.com/tatsuya_sabato/n/n2e5e99c69faf",
+    "pass": 3
+   },
+   {
+    "quote": "メイホーホールディングス（7369）最新株価・配当情報と今後の見通し ... メイホーホールディングス（7369）の最新株価、配当情報、業績動向を徹底解説！今後の見通しや投資のポイントを専門家視点でわかりやすく紹介。初心者から上級者まで役立つnoteの記事が満載！",
+    "url": "https://note.com/tag/vm/investment_money/company-7369",
+    "pass": 3
+   },
+   {
+    "quote": "メイホーグループX部｜note May 7, 2025 · メイホーグループX部 メイホーホールディングス（証券コード：7369）の広報noteです。 増収増益企業を共創するネットワークの拡大を通じて 一人ひとりがしあわせを実感できる社会を創造することを目指して、グループの事業や地域のことを発信します。",
+    "url": "https://note.com/meihogroup_note",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【企業調査レポート】メイホーHD：26年6月期最高益、M&Aと事業プラットフォームで拡大加速｜FISCO",
+    "url": "https://note.com/fisco_jp/n/nae9a5526466d",
+    "pass": 3
+   },
+   {
+    "quote": "【企業調査レポート】メイホーHD：26年6月期最高益、M&Aと事業プラットフォームで拡大加速",
+    "url": "https://note.com/fisco_jp/n/nae9a5526466d",
+    "pass": 3
+   },
+   {
+    "quote": "meihoholdings20260917.pdf",
+    "url": "https://note.com/fisco_jp/n/nae9a5526466d",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月期は売上高、営業・経常利益、EBITDAが過去最高を更新",
+    "url": "https://note.com/fisco_jp/n/nae9a5526466d",
+    "pass": 3
+   },
+   {
+    "quote": ">は、企業支援プラットフォームを核として実業を営む中小企業集合体を形成している。M&Aによって成長意欲の高い中小企業と資本提携し、同社独自の「企業支援プラットフォーム」を通じてグループ企業の成長を支援している。グループインした企業に対して経営効率化、人材支援、業務連携などをサポートし、グループ企業の「稼ぐ力」を高める。2026年6月期末時点で同社グループは、純粋持株会社の同社及び事業会社24社の合計25社で構成されている。セグメント区分は、建設コンサルタント業務を中心とする建設関連サービス事業、公共工事を中心とする建設事業、建設技術者派遣や一般事務派遣を中心とする人材関連サービス事業、通所介護（デイサービス）や住宅型有料老人ホームの運営を中心とする介護事業としている。収益に安定性のある公共事業関連を中心にM&Aを積極活用していることが特徴だ。",
+    "url": "https://note.com/fisco_jp/n/nae9a5526466d",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月期連結業績は売上高が前期比4.3%増の13,564百万円、営業利益が同5.3%増の496百万円、経常利益が同14.2%増の507百万円、親会社株主に帰属する当期純損失が特別損失計上により27百万円（前期は168百万円の利益）となった。売上高が増収で過去最高となり、営業利益と経常利益は増益で過去最高となった。人件費やM&A関連費用が増加したが、増収効果や建設関連サービス事業における売上ミックス改善、建設事業における増額変更契約などが寄与した。またEBITDA（営業利益＋減価償却費＋のれん償却額）は同3.6%増の1,051百万円、のれん償却前営業利益（営業利益＋のれん償却額）は同3.2%増の859百万円で、いずれも過去最高となった。また受注高（建設関連サービス事業と建設事業の合計）は大型案件獲得も寄与して同30.0%増の9,774百万円と大幅に伸長し、期末時点の受注残高（同）は同",
+    "url": "https://note.com/fisco_jp/n/nae9a5526466d",
+    "pass": 3
+   },
+   {
+    "quote": "2027年6月期の連結業績予想は売上高が前期比10.6%増の15,000百万円、営業利益が同10.7%増の550百万円、経常利益が同4.5%増の530百万円、親会社株主に帰属する当期純利益が160百万円（前期は27百万円の損失）としている。増収増益で、売上高及び営業・経常利益は連続過去最高更新予想である。売上面は前期の新規M&Aや事業譲受の通期寄与などにより全事業で増収を見込む。コスト面では人件費の増加のほか、ブランド認知度向上に向けた東海エリアでの広告宣伝の実施、IR活動の強化、経営管理基盤への投資などにより費用が増加するが、建設事業と人材関連サービス事業の大幅増益がけん引する見込みだ。親会社株主に帰属する当期純利益は前期計上の減損損失一巡も寄与して黒字回復する。なお期初時点では新規M&Aの影響を織り込んでいない。",
+    "url": "https://note.com/fisco_jp/n/nae9a5526466d",
+    "pass": 3
+   },
+   {
+    "quote": "同社は「従業員承継型M&A」と「企業支援プラットフォーム」による成長を目指している。2025年8月に策定した「中期経営計画2026-2028 メイホーサーティービリオンドライブ」（2026年6月期～2028年6月期）では、将来ビジョンである「企業数100社、連結売上高1,000億円、社員数1万人」の達成に向けた第1ステップとして、最終年度2028年6月期の目標値に連結売上高300億円、EBITDA30億円、EBITDAマージン10%を掲げている。基本戦略としては、中小企業の解決すべき課題（経営者の高齢化と事業承継問題、人材・経営資源の不足、デジタル化遅れと低生産性、資金調達の制約など）に対して、非連続な成長を実現するための「従業員承継型M&A」及び各企業のオーガニック成長を後押しする「企業支援プラットフォーム」提供を推進する。計画初年度である2026年6月期の進捗状況としては、M&Aを5件",
+    "url": "https://note.com/fisco_jp/n/nae9a5526466d",
+    "pass": 3
+   },
+   {
+    "quote": "岐阜の巨人、M&Aで全国区へ。メイホーホールディングス(7369)の「地方創生プラットフォーム」戦略を徹底解剖｜日本個別株デューデリジェンスセンター",
+    "url": "https://note.com/tatsuya_sabato/n/n2e5e99c69faf",
+    "pass": 3
+   },
+   {
+    "quote": "岐阜の巨人、M&Aで全国区へ。メイホーホールディングス(7369)の「地方創生プラットフォーム」戦略を徹底解剖",
+    "url": "https://note.com/tatsuya_sabato/n/n2e5e99c69faf",
+    "pass": 3
+   },
+   {
+    "quote": "はじめに：単なるM&A巧者ではない、メイホーHDの真の姿",
+    "url": "https://note.com/tatsuya_sabato/n/n2e5e99c69faf",
+    "pass": 3
+   },
+   {
+    "quote": "東京証券取引所グロース市場に上場するメイホーホールディングス（証券コード：7369）。同社を単なる「M&Aを繰り返す企業」と見るのは、その本質を見誤るだろう。彼らが目指すのは、M&Aという手法を通じて地方の優良企業を束ね、経営ノウハウを注入し、共に成長を遂げる「地方創生プラットフォーム」の構築である。岐阜県を起点としながら、そのネットワークは全国へと広がり、建設、人材、介護という、地域社会に不可欠なセクターで確固たる地位を築きつつある。",
+    "url": "https://note.com/tatsuya_sabato/n/n2e5e99c69faf",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、メイホーホールディングスがどのような哲学を持ち、いかにして企業価値を増大させ、そしてどこへ向かおうとしているのか、その全貌を解き明かす。事業の細部に宿る強みから、経営陣の思想、そして未来への成長ストーリーまで、あらゆる角度から徹底的にデュー・デリジェンス（DD）を行い、投資家が真に知りたいと願う「メイホーホールディングスの投資価値」を深く、そして多角的に分析していく。",
+    "url": "https://note.com/tatsuya_sabato/n/n2e5e99c69faf",
+    "pass": 3
+   },
+   {
+    "quote": "【企業概要】地域社会のインフラを支える複合企業体",
+    "url": "https://note.com/tatsuya_sabato/n/n2e5e99c69faf",
+    "pass": 3
+   },
+   {
+    "quote": "設立と沿革：測量会社から始まったM&Aによる成長の軌跡",
+    "url": "https://note.com/tatsuya_sabato/n/n2e5e99c69faf",
+    "pass": 3
+   },
+   {
+    "quote": "メイホーホールディングスの源流は、1981年に岐阜県で創業された測量会社、株式会社メイホーエンジニアリングにある。公共事業を支える建設コンサルタントとして着実に事業基盤を固めた後、転機が訪れる。それは、現代表取締役社長である尾松豪紀氏が主導した、M&Aによる成長戦略への大胆な舵切りであった。",
+    "url": "https://note.com/tatsuya_sabato/n/n2e5e99c69faf",
+    "pass": 3
+   },
+   {
+    "quote": "メイホーホールディングス（7369）株価・今後の見通し・予想｜noteマネー",
+    "url": "https://note.com/tag/vm/investment_money/company-7369",
+    "pass": 3
+   },
+   {
+    "quote": "メイホーホールディングス（証券コード：7369）の広報noteです。増収増益企業を共創するネットワークの拡大を通じて 一人ひとりがしあわせを実感できる社会を創造することを目指して、グループの事業や地域のことを発信します。",
+    "url": "https://note.com/meihogroup_note",
+    "pass": 3
+   },
+   {
+    "quote": "メイホーホールディングス（証券コード：7369）の広報noteです。増収増益企業を共創するネット…",
+    "url": "https://note.com/meihogroup_note",
+    "pass": 3
+   },
+   {
+    "quote": "メイホーグループ各社取材企画vol.1 株式会社アルト（介護事業）",
+    "url": "https://note.com/meihogroup_note",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "メイホーグループX部 (@meihogroup_X) / X メイホーホールディングス（証券コード：7369）の広報アカウントです。増収増益企業を共創するネットワークの拡大を通じて 一人ひとりがしあわせを実感できる社会を創造することを目指して、グループの事業や地域のことを発信します。 ※DMは対応しておりませんのでご了承ください ...",
+    "url": "https://x.com/meihogroup_X",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社メイホー (@meiho_cloth) / Posts / X おはようございます！春日和🌸☀お問い合わせ、ご注文お待ちしております！ 💬0 🔄0 🤍3 0 📎 株式会社メイホーmeiho_cloth 0 Mar 5 3月6日、もう春はすぐそこ🎵🌈元気に営業中 💬0 🔄0 🤍2 0 📎 株式会社メイホーmeiho_cloth 0 Feb 20",
+    "url": "https://x.com/meiho_cloth",
+    "pass": 3
+   },
+   {
+    "quote": "メイホーホールディングス(7369) 立会外分売！ 実施予定日：6/26 分売... メイホーホールディングス (7369) 立会外分売！ 実施予定日：6/26 分売株数：11.7万株 (総株数の約2.5%) ・建設関連サービス、建設事業などの子会社多数 ・のれんの減損で利益面を下方修正し上場来安値更新😿 詳細はこちら💖 ↓↓ 【立会外分売は買いか？",
+    "url": "https://x.com/kenjitsu_toushi/status/2067869674482905297",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "kazuhiro ariyoshi - 株式会社 メイホー - 会社 | LinkedIn 株式会社 メイホー - 会社 · 職歴: 株式会社 メイホー · 場所: 1000001。10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInでkazuhiro ariyoshiさんのプロフィールを閲覧しましょう。",
+    "url": "https://jp.linkedin.com/in/kazuhiro-ariyoshi-312b03355",
+    "pass": 3
+   },
+   {
+    "quote": "伏屋亜希子 - ジェイ エイ シー リクルートメント - 人材コンサルタン...2 \"伏屋亜希子\" profiles | LinkedIn伏屋 亜希子 - 株式会社メイホーホールディングス - 人事部 | LinkedI...LinkedIn: Log In or Sign UpAmir Khan - Senior Delivery Leader | Project & Service ...Andreas Schneck – President of Diagnostic Imaging at Siemens ... ジェイ エイ シー リクルートメント - 人材コンサルタント · JAC Recruitment 東海圏 大手中堅を中心とした管理部門系人材コンサルタント · Experience ... View the profiles of professionals named \"",
+    "url": "https://www.linkedin.com/in/亜希子-伏屋-1a6912296",
+    "pass": 3
+   },
+   {
+    "quote": "伏屋 亜希子 - 株式会社メイホーホールディングス - 人事部 | LinkedI...LinkedIn: Log In or Sign UpAmir Khan - Senior Delivery Leader | Project & Service ...Andreas Schneck – President of Diagnostic Imaging at Siemens ... 株式会社メイホーホールディングス - 人事部 · 職歴: 株式会社メイホーホールディングス · 場所: 岐阜。10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで伏屋 亜希子さんのプロフィールを閲覧しましょう。 1 billion members | Manage your professional identity. Build and engage with your prof",
+    "url": "https://jp.linkedin.com/in/亜希子-伏屋-b8a388203",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社メイホー | Nogata-shi Fukuoka - Facebook株式会社メイホー - Facebook明邦化学工業株式会社 - Facebookメイホウネット - FacebookMEIHO BOWL | Kashiwara-shi Osaka - Facebook株式会社メイホー - こんにちは！株式会社メイホーです ... | Faceboo...株式会社メイホー - こんにちは！株式会社メイホーです 明けましてお... 株式会社メイホー, Nogata-shi. 92 followers. 株式会社メイホーは、成形品・精密金型・小型成形機の設計・製造・販売をおこなっている会社です。 Aug 18, 2020 · 株式会社メイホー. 64 followers. 理美容室専用クロスを製造販売しております。 歴史も実績も業界No.1！！ Sep 6, 2026 · 🎣 #釣",
+    "url": "https://www.facebook.com/meiho1973/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社メイホー - Facebook明邦化学工業株式会社 - Facebookメイホウネット - FacebookMEIHO BOWL | Kashiwara-shi Osaka - Facebook株式会社メイホー - こんにちは！株式会社メイホーです ... | Faceboo...株式会社メイホー - こんにちは！株式会社メイホーです 明けましてお... Aug 18, 2020 · 株式会社メイホー. 64 followers. 理美容室専用クロスを製造販売しております。 歴史も実績も業界No.1！！ Sep 6, 2026 · 🎣 #釣りフェス2026 #versus #メイホウ #タックルボックス #meiho 1月16・17・18日の3日間、 横浜での【釣りフェス2026】に出展してきました🎣 たくさんの方にブースへお越しいただき、 本当にありがとうございました。 Apr ",
+    "url": "https://www.facebook.com/MEIHOCloth/",
+    "pass": 3
+   },
+   {
+    "quote": "明邦化学工業株式会社 - Facebookメイホウネット - FacebookMEIHO BOWL | Kashiwara-shi Osaka - Facebook株式会社メイホー - こんにちは！株式会社メイホーです ... | Faceboo...株式会社メイホー - こんにちは！株式会社メイホーです 明けましてお... Sep 6, 2026 · 🎣 #釣りフェス2026 #versus #メイホウ #タックルボックス #meiho 1月16・17・18日の3日間、 横浜での【釣りフェス2026】に出展してきました🎣 たくさんの方にブースへお越しいただき、 本当にありがとうございました。 Apr 24, 2026 · メイホウネット. 24 likes. ブランドバッグ、財布、ブーツ、バックパック等を、プロの職人が修理・クリーニング！ ルイヴィトン、TUMI、UGG、グッチ、ダンヒル",
+    "url": "https://www.facebook.com/meihokagaku/",
+    "pass": 3
+   },
+   {
+    "quote": "メイホウネット - FacebookMEIHO BOWL | Kashiwara-shi Osaka - Facebook株式会社メイホー - こんにちは！株式会社メイホーです ... | Faceboo...株式会社メイホー - こんにちは！株式会社メイホーです 明けましてお... Apr 24, 2026 · メイホウネット. 24 likes. ブランドバッグ、財布、ブーツ、バックパック等を、プロの職人が修理・クリーニング！ ルイヴィトン、TUMI、UGG、グッチ、ダンヒルなど、様々なブランドを綺麗かつ丈夫にお直しいたします。無料見積り！24時間受付ております。 Sep 2, 2023 · MEIHO BOWL, Kashiwara-shi. 305 likes · 29 were here. MEIHO BOWLは2020年4月にリニューアルしました。 いつでも楽しく遊べるボウリン",
+    "url": "https://www.facebook.com/meihounet.jp/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.meiho-j.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meiho-j.co.jp/c_company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meiho-j.co.jp/ask.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meiho-j.co.jp/problem-solving.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meiho-j.co.jp/c_history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meiho-j.co.jp/c_equipment.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meiho-j.co.jp/recruit.html?1",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.meiho-j.co.jp/images/shihou_nogata5_1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.nc-net.or.jp/company/47142/product/detail/96259/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://systemcreate-inc.co.jp/products/moiron_top",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.nc-net.or.jp/company/47142/product/detail/101140/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%9B%E3%83%BC%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://meihoholdings.co.jp/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meihogroup.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kk-meiho.com/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.meihogroup.com/contact/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/fisco_jp/n/nae9a5526466d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tatsuya_sabato/n/n2e5e99c69faf",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/vm/investment_money/company-7369",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/meihogroup_note",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/meihogroup_X",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/meiho_cloth",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/kenjitsu_toushi/status/2067869674482905297",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/kazuhiro-ariyoshi-312b03355",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/亜希子-伏屋-1a6912296",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/亜希子-伏屋-b8a388203",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/meiho1973/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/MEIHOCloth/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/meihokagaku/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/meihounet.jp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/meihogroup_X",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/meihogroup_note",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "メイホー 取扱製品 試作 小ロット",
+   "results": [
+    "https://ja.nc-net.or.jp/company/47142/product/detail/96259/",
+    "https://systemcreate-inc.co.jp/products/moiron_top",
+    "https://ja.nc-net.or.jp/company/47142/product/detail/101140/",
+    "https://mono.ipros.com/search/product/?keyword=株式会社メイホー",
+    "https://pr.mono.ipros.com/meiho-j/product/detail/2000317680/",
+    "https://www.meiho-j.co.jp/",
+    "http://www.mayho.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "メイホー 会社概要 事業内容",
+   "results": [
+    "https://ja.wikipedia.org/wiki/メイホーホールディングス",
+    "https://meihoholdings.co.jp/service/",
+    "https://www.meihogroup.com/company/",
+    "https://www.meiho-j.co.jp/",
+    "https://www.meihogroup.com/",
+    "http://www.mayho.co.jp/organization.html",
+    "https://www.meiho-j.co.jp/c_company.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "メイホー お問い合わせ メール",
+   "results": [
+    "https://www.meiho-j.co.jp/ask.html",
+    "https://kk-meiho.com/contact/",
+    "https://www.meihogroup.com/contact/",
+    "https://meihoholdings.co.jp/contact/",
+    "https://www.meihoumetal.co.jp/contact/",
+    "http://www.meiho.com/contpage/",
+    "https://www.meihoeng.co.jp/contact/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com メイホー",
+   "results": [
+    "https://note.com/fisco_jp/n/nae9a5526466d",
+    "https://note.com/tatsuya_sabato/n/n2e5e99c69faf",
+    "https://note.com/tag/vm/investment_money/company-7369",
+    "https://note.com/meihogroup_note",
+    "https://note.com/yuho_check/n/n6714e107dac8",
+    "https://note.com/meihogroup_note/n/ndea8a2714c3c",
+    "https://tales.note.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com メイホー",
+   "results": [
+    "https://x.com/meihogroup_X",
+    "https://x.com/meiho_cloth",
+    "https://x.com/kenjitsu_toushi/status/2067869674482905297",
+    "https://x.com/meihounet",
+    "https://x.com/meihounet/status/2115927603311980946",
+    "https://x.com/meihou1719",
+    "https://x.com/big1meiho/status/2118621910565376478",
+    "https://x.com/Hibiki_Oto90204/status/2119550690964144589"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:linkedin.com メイホー",
+   "results": [
+    "https://jp.linkedin.com/in/kazuhiro-ariyoshi-312b03355",
+    "https://www.linkedin.com/in/亜希子-伏屋-1a6912296",
+    "https://www.linkedin.com/pub/dir/亜希子/伏屋",
+    "https://jp.linkedin.com/in/亜希子-伏屋-b8a388203",
+    "https://ca.linkedin.com/",
+    "https://au.linkedin.com/in/amir-khan-72839620",
+    "https://de.linkedin.com/in/andreas-schneck-0250093"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com メイホー",
+   "results": [
+    "https://www.facebook.com/meiho1973/",
+    "https://www.facebook.com/MEIHOCloth/",
+    "https://www.facebook.com/meihokagaku/",
+    "https://www.facebook.com/meihounet.jp/",
+    "https://www.facebook.com/meiho1973/posts/こんにちは株式会社メイホーです直方市の市報直方市が進める健康経営に記載いただきました️これからも企業は人なりの理念を基に健康経営活動に取り組んでまいります/616549537186531/",
+    "https://www.facebook.com/meiho1973/posts/こんにちは株式会社メイホーです明けましておめでとうございます旧年中は格別なご高配を賜り厚く御礼申し上げます本年も皆様のご期待に応えられますよう技術の向上に努めて/292102502957799/",
+    "https://www.facebook.com/p/MEIHO-BOWL-100064210207650/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "メイホー note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/尾松豪紀",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://shachojp.com/p/meiho-holdings",
+    "https://kitaishihon.com/company/7369/board-of-director",
+    "https://note.com/meihogroup_note/n/ndea8a2714c3c",
+    "https://the-shashi.com/tse/7369/ceo/",
+    "https://the-shashi.com/tse/5243/ceo/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "メイホー X 投稿",
+   "results": [
+    "https://x.com/meihogroup_X",
+    "https://note.com/meihogroup_note",
+    "https://www.meiho-j.co.jp/",
+    "https://wolf-fun.secret.jp/?cmd=stock_detail&code=7369",
+    "https://x.com/CaptainMiho/status/2120157108616433991",
+    "https://myfans.jp/",
+    "https://www.pixiv.net/tags/メイ・ホー"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像1件／外部24頁・検索9回）"
+ }
+}

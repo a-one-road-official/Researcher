@@ -1,0 +1,823 @@
+{
+ "name": "株式会社タイガ",
+ "aliases": [],
+ "context": "ipros_all:受注生産",
+ "researched_at": "2026-11-11T10:49:54.287674+00:00",
+ "official_url": "http://www.kk-taiga.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "拠点": [
+   {
+    "label": "■東京工場",
+    "value": "TEL.",
+    "url": "https://www.kk-taiga.co.jp/pages/24/",
+    "pass": 1
+   },
+   {
+    "label": "■東京工場",
+    "value": "TEL.",
+    "url": "https://www.kk-taiga.co.jp/pages/5/b_id=9/r_id=1/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "〒145-0071 東京都大田区田園調布3丁目19番4号",
+    "url": "https://www.kk-taiga.co.jp/pages/3/",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒",
+    "url": "https://www.kk-taiga.co.jp/pages/5/",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "〒",
+    "url": "https://www.kk-taiga.co.jp/pages/5/b_id=9/r_id=1/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役",
+    "value": "谷   昇",
+    "url": "https://www.kk-taiga.co.jp/pages/3/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "社員数",
+    "value": "40名  （2021年3月現在）",
+    "url": "https://www.kk-taiga.co.jp/pages/3/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "ダイヤモンド・CBN電着工具製造・販売 ダイヤモンド・CBNを使用した工具の製造技術のコンサルタント ダイヤモンド・CBN砥粒の販売 セラミックス・超硬の精密加工",
+    "url": "https://www.kk-taiga.co.jp/pages/3/",
+    "pass": 1
+   },
+   {
+    "label": "事業所",
+    "value": "東京工場 〒144-0033 東京都大田区東糀谷2丁目8番15号 TEL：03-3745-6581 FAX：03-3745-6582 美咲工場 〒997-0857 山形県鶴岡市美咲町24番18号 友江工場 〒997-1122 山形県鶴岡市友江川向85番1号 白河工場 〒961-8044 福島県西白河郡西郷村石塚北97",
+    "url": "https://www.kk-taiga.co.jp/pages/3/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "◎製品1個からの受注を承ります",
+    "url": "https://www.kk-taiga.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品紹介｜株式会社タイガ|ダイヤモンド・CBN電着工具製造・販売.",
+    "url": "https://www.kk-taiga.co.jp/pages/18/",
+    "pass": 1
+   },
+   {
+    "quote": "台金の形状が崩れている場合でも、製品によっては台金を修正して再度電着することができます",
+    "url": "https://www.kk-taiga.co.jp/pages/18/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の開発・研究、真空断熱技術の応用方法などに関するお問い合わせは、こちらよりご相談ください",
+    "url": "https://www.tiger-corporation.com/ja/jpn/support/inquiry/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "４０年の研究開発により培われた技術と妥協を許さない技術者が、最高の品質・適正な価格・迅速な対応をモットーに、完全受注生産で1個からお客様のオリジナルオーダーメード工具を、丹精を込めて生産いたしております",
+    "url": "https://www.kk-taiga.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "完全受注生産で1個からお客様のオリジナルオーダーメード工具を、丹精を込めて生産いたしております",
+    "url": "https://www.kk-taiga.co.jp/",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "株式会社タイガは、地球上でもっとも硬いダイヤモンドの特性を活かして、鉄鋼・機械・金属産業はもちろんのこと、宇宙・航空・半導体・医療・建築にとあらゆる産業分野のニーズにお応えしております",
+    "url": "https://www.kk-taiga.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ダイヤモンドヤスリは、超硬合金・焼入れ鋼・セラミックス・ガラスなどの硬質材料加工やバリ取り・擦り合わせ・金型の修正に最適で、弊社は使用用途に合わせて形状や粒度を選定して製作しております",
+    "url": "https://www.kk-taiga.co.jp/pages/18/",
+    "pass": 1
+   },
+   {
+    "quote": "腹を空かせただけの怪獣に、地球人と宇宙人が手を組んで挑む共同作戦",
+    "url": "https://note.com/zenmai/n/nede68f768a55",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙人排斥運動は止まらないまでも、宇宙人全てが悪なのではないと分かってくれた人もいるし、地球人を嫌わない宇宙人もいる",
+    "url": "https://note.com/zenmai/n/nede68f768a55",
+    "pass": 3
+   },
+   {
+    "quote": "最後には宇宙人と地球人の融和のモデルケースとして、イージスにマグマ星人とマーキンド星人が入社する",
+    "url": "https://note.com/zenmai/n/nede68f768a55",
+    "pass": 3
+   },
+   {
+    "quote": "ピリカは実はアンドロイドで、ウーラーを消滅させるために宇宙中にバラまかれた個体の一体でした",
+    "url": "https://note.com/zenmai/n/nede68f768a55",
+    "pass": 3
+   },
+   {
+    "quote": "ピリカはアンドロイドだった！という部分を消化できない内に、話がウーラーと宇宙人排斥運動の方面に移っちゃうんですよね",
+    "url": "https://note.com/zenmai/n/nede68f768a55",
+    "pass": 3
+   },
+   {
+    "quote": "「この地球に密かに宇宙人が暮らしている事は、あまり知られていない」",
+    "url": "https://note.com/zenmai/n/nede68f768a55",
+    "pass": 3
+   },
+   {
+    "quote": "アバンで言われているように、地球人にとって宇宙人って身近な存在じゃなかったんですよね",
+    "url": "https://note.com/zenmai/n/nede68f768a55",
+    "pass": 3
+   },
+   {
+    "quote": "最終回時点での排斥運動がどうなったという情報は無くて、けれど中には宇宙人も悪い奴ばかりじゃないと知ってくれた地球人もいる",
+    "url": "https://note.com/zenmai/n/nede68f768a55",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙人排斥運動自体は、後半から押し出された要素だと思います",
+    "url": "https://note.com/zenmai/n/nede68f768a55",
+    "pass": 3
+   },
+   {
+    "quote": "１７話『ガーディアンエンジェル』では、善人とも悪人ともつかないセモン星人ミードの登場によって、宇宙人には複数の面があると提示",
+    "url": "https://note.com/zenmai/n/nede68f768a55",
+    "pass": 3
+   },
+   {
+    "quote": "１８話『新しき世界のために』では悪化していく地球人と宇宙人関係に、それを乗り越えうるヒロユキとホマレの関係",
+    "url": "https://note.com/zenmai/n/nede68f768a55",
+    "pass": 3
+   },
+   {
+    "quote": "２０話では外事X課に協力する宇宙人が登場し、２１話では宇宙人に家族を傷つけられた青年・田崎修が、己の偏見を塗り替えていく",
+    "url": "https://note.com/zenmai/n/nede68f768a55",
+    "pass": 3
+   },
+   {
+    "quote": "ただ１８話では、宇宙人である事を明かしているが良好な関係を築けているホマレとヒロユキという描写の中に、",
+    "url": "https://note.com/zenmai/n/nede68f768a55",
+    "pass": 3
+   },
+   {
+    "quote": "ウルトラマンである事がバレてはいけないと考えるヒロユキと、正体を隠して生き続ける宇宙人との間に、どれだけの違いがあるだろう",
+    "url": "https://note.com/zenmai/n/nede68f768a55",
+    "pass": 3
+   },
+   {
+    "quote": "で、最終回における地球人と宇宙人の関係性",
+    "url": "https://note.com/zenmai/n/nede68f768a55",
+    "pass": 3
+   },
+   {
+    "quote": "メンギフ10投された時には兄貴も宇宙猫状態になっていましたね",
+    "url": "https://note.com/imas_p_kaiga/n/nb1c63ad0212c",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "ダイヤモンドヤスリは、超硬合金・焼入れ鋼・セラミックス・ガラスなどの硬質材料加工やバリ取り・擦り合わせ・金型の修正に最適で、弊社は使用用途に合わせて形状や粒度を選定して製作しております",
+    "url": "https://www.kk-taiga.co.jp/pages/18/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "ダイヤモンド・CBN電着工具製造についてのお見積り・お問い合わせ",
+    "url": "https://www.kk-taiga.co.jp/pages/24/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ｜株式会社タイガ|ダイヤモンド・CBN電着工具製造・販売.",
+    "url": "https://www.kk-taiga.co.jp/pages/5/",
+    "pass": 1
+   },
+   {
+    "quote": "■返信メールをお受け取りいただけるよう、受信設定（迷惑メール設定）等をお確かめください",
+    "url": "https://www.kk-taiga.co.jp/pages/5/",
+    "pass": 1
+   },
+   {
+    "quote": "ダイヤモンド・CBN電着工具製造についてのお見積り・お問い合わせ",
+    "url": "https://www.kk-taiga.co.jp/pages/5/b_id=9/r_id=1/",
+    "pass": 1
+   },
+   {
+    "quote": "TIGER Online Store に関するお問い合わせ（個人のお客様）",
+    "url": "https://www.tiger-corporation.com/ja/jpn/support/inquiry/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせから 5営業日を過ぎても連絡がない場合、何らかのエラーにより、送受信できていない可能性がございます",
+    "url": "https://www.tiger-corporation.com/ja/jpn/support/inquiry/",
+    "pass": 3
+   },
+   {
+    "quote": "再度ご連絡いただくか、お電話でお問い合わせをお願い申し上げます",
+    "url": "https://www.tiger-corporation.com/ja/jpn/support/inquiry/",
+    "pass": 3
+   },
+   {
+    "quote": "TIGER Online Store に関するお問い合わせ",
+    "url": "https://www.tiger-corporation.com/ja/jpn/support/inquiry/",
+    "pass": 3
+   },
+   {
+    "quote": "製品の開発・研究、真空断熱技術の応用方法などに関するお問い合わせは、こちらよりご相談ください",
+    "url": "https://www.tiger-corporation.com/ja/jpn/support/inquiry/",
+    "pass": 3
+   },
+   {
+    "quote": "１．お問い合わせの内容について選択してください",
+    "url": "https://www.tiger-mfg.co.jp/contact02.html",
+    "pass": 3
+   },
+   {
+    "quote": "いちプロ公式のファンミーティング「FIRST CONTACT」",
+    "url": "https://note.com/imas_p_kaiga/n/nb1c63ad0212c",
+    "pass": 3
+   },
+   {
+    "quote": "ファンミーティング「FIRST CONTACT」",
+    "url": "https://note.com/imas_p_kaiga/n/nb1c63ad0212c",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 - タイガー魔法瓶 - Tiger Corporation会社概要｜タイガグループ株式会社タイガグループ株式会社｜企業の変革と成長を実現するコンサルティン...会社案内 | 株式会社タイガ会社概要 - タイガー総業株式会社 | タイガー総業株式会社会社案内｜株式会社タイガ|ダイヤモンド・CBN電着工具製造・販売.Company Overview - Tiger-Corporation — Apr 20, 2026 · 会社情報 グローバルネットワーク Webマガジン 知る・楽しむ ニュースルーム 採用情報 法人のお客さま 産業機器のお知らせ まとめ注文・名入れサービス 業務用製品 お問い合わせ タイガーパーツショップ プライバシーポリシー クッキーポリシー ... COMPANY 会社概要 タイガグループは、 企業の変革と成長を実現する コンサルティング会社です。 会社名 タイガ",
+    "url": "https://www.tiger-corporation.com/ja/jpn/about-us/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜タイガグループ株式会社 — COMPANY 会社概要 タイガグループは、 企業の変革と成長を実現する コンサルティング会社です。 会社名 タイガグループ株式会社 住所 本社：東京都文京区大塚4-39-11仲町YTビル2階 沖縄営業所：沖縄県石垣市真栄里286-1スマイル真栄里第2 102 電話番号 本社： 03 ...",
+    "url": "https://taiga-g.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 | 株式会社タイガ会社概要 - タイガー総業株式会社 | タイガー総業株式会社会社案内｜株式会社タイガ|ダイヤモンド・CBN電着工具製造・販売.Company Overview - Tiger-Corporation — 会社概要 会社名 株式会社タイガ 英文社名 Taiga Co. Ltd. 代表取締役 河合 学 従業員数 20名 所在地 岐阜県岐阜市茜部本郷1-24 TEL 058-271-0683 FAX 058-273-1966 事業内容 ・印刷機材及び資材・デジタル機器の販売とメンテナンスデザイン DTP、文字組版、情報処理 ... 企業情報トップ 会社概要 社長あいさつ 企業ビジョン 沿革 品質・環境・安全方針 組織体制図 > 企業情報 > 会社概要 タイガー総業株式会社 本社 〒467-0842 愛知県名古屋市瑞穂区妙音通4丁目40番地 TS新瑞ビル TEL 052",
+    "url": "https://taiga-do.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - タイガー総業株式会社 | タイガー総業株式会社会社案内｜株式会社タイガ|ダイヤモンド・CBN電着工具製造・販売.Company Overview - Tiger-Corporation — 企業情報トップ 会社概要 社長あいさつ 企業ビジョン 沿革 品質・環境・安全方針 組織体制図 > 企業情報 > 会社概要 タイガー総業株式会社 本社 〒467-0842 愛知県名古屋市瑞穂区妙音通4丁目40番地 TS新瑞ビル TEL 052-875-6300 / FAX 052-846-8510 CONTACT 株式会社 タイガの会社案内です 東京工場 〒144-0033 東京都大田区東糀谷2丁目8番15号 TEL：03-3745-6581 FAX：03-3745-6582 交通アクセス：京浜急行電鉄 大鳥居駅 徒歩5分 Company Name Tiger Corporation Hea",
+    "url": "https://www.tiger-s.co.jp/company/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内｜株式会社タイガ|ダイヤモンド・CBN電着工具製造・販売. — 株式会社 タイガの会社案内です 東京工場 〒144-0033 東京都大田区東糀谷2丁目8番15号 TEL：03-3745-6581 FAX：03-3745-6582 交通アクセス：京浜急行電鉄 大鳥居駅 徒歩5分",
+    "url": "https://www.kk-taiga.co.jp/pages/3/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - タイガー魔法瓶 - Tiger Corporation — TIGER Online Store に関するお問い合わせ（個人のお客様） 製品ご購入前／ご購入後のお問い合わせはこちらからお問い合わせください。 お問い合わせから 5営業日を過ぎても連絡がない場合、何らかのエラーにより、送受信できていない可能性がございます。再度ご連絡いただくか、お電話でお ...",
+    "url": "https://www.tiger-corporation.com/ja/jpn/support/inquiry/",
+    "pass": 3
+   },
+   {
+    "quote": "タイガーお問い合わせ — 1．お問い合わせの内容について選択してください *",
+    "url": "https://www.tiger-mfg.co.jp/contact02.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ｜タイガグループ株式会社 — タイガグループ株式会社ウェブサイト、お問い合わせページです。",
+    "url": "https://taiga-g.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様サポート - タイガー魔法瓶 - Tiger Corporation — FAXでのお問い合わせ 06-6906-2177 有料でご案内させていただいております。 FAXでご送付いただく際には、 会社名、お名前、ご住所、 お電話番号、メールアドレス、 お問い合わせ内容をご明記ください。",
+    "url": "https://www.tiger-corporation.com/ja/jpn/support/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "『ウルトラマンタイガ』全体感想・タイガ結局どうだった？ Dec 24, 2019 · ウルトラマンタイガをみた！！ TV最終回、良かったです。 序盤は歯が立たなかったトレギアに一矢報いるトライスクワッドの面々。 腹を空かせただけの怪獣に、地球人と宇宙人が手を組んで挑む共同作戦。 宇宙人排斥運動は止まらないまでも、宇宙人全てが悪なのではないと分かってくれた人 ...",
+    "url": "https://note.com/zenmai/n/nede68f768a55",
+    "pass": 3
+   },
+   {
+    "quote": "ライブ告知｜TYEGA (タイガ) - note（ノート） Sep 28, 2025 · お世話になってます、TYEGAです。 SNSデトックスという事でInstagramを削除しました🆑今後はNOTEでライブや新曲の告知をしていこうと思っております〆 それでは早速… 2025/10/12(SUN) 神戸岡本はHalftimeにてILLEST LOUNGE VOL.32 が開催されます ゲストにはO.D.S & K-Slideさん👊🏻 いつもカッコいいLIVEを ...",
+    "url": "https://note.com/tye96ga/n/na5717bb74485",
+    "pass": 3
+   },
+   {
+    "quote": "タイガキングダム｜note タイガキングダムの公式noteページ。最新情報や記事をチェックしよう！",
+    "url": "https://note.com/taigakingdom",
+    "pass": 3
+   },
+   {
+    "quote": "黒崎タイガ、卒業までの軌跡｜カイガ Jun 29, 2026 · 仰々しいタイトルですが、要は自分視点で黒崎タイガとの思い出を振り返る内容なんですけどね。 こんにちは。カイガです。 2026年5月31日。 FIRST STAGE PRODUCTION所属の「黒崎タイガ」さんが事務所を卒業されました。 黒崎タイガ さん 黒崎タイガさんは自分が追ってきたVtuberの中でも、特に思い出 ...",
+    "url": "https://note.com/imas_p_kaiga/n/nb1c63ad0212c",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "『ウルトラマンタイガ』全体感想・タイガ結局どうだった？｜螺子巻ぐるり",
+    "url": "https://note.com/zenmai/n/nede68f768a55",
+    "pass": 3
+   },
+   {
+    "quote": "『ウルトラマンタイガ』全体感想・タイガ結局どうだった？",
+    "url": "https://note.com/zenmai/n/nede68f768a55",
+    "pass": 3
+   },
+   {
+    "quote": "序盤は歯が立たなかったトレギアに一矢報いるトライスクワッドの面々。",
+    "url": "https://note.com/zenmai/n/nede68f768a55",
+    "pass": 3
+   },
+   {
+    "quote": "腹を空かせただけの怪獣に、地球人と宇宙人が手を組んで挑む共同作戦。",
+    "url": "https://note.com/zenmai/n/nede68f768a55",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙人排斥運動は止まらないまでも、宇宙人全てが悪なのではないと分かってくれた人もいるし、地球人を嫌わない宇宙人もいる。",
+    "url": "https://note.com/zenmai/n/nede68f768a55",
+    "pass": 3
+   },
+   {
+    "quote": "成長したタイガの姿にタロウを見出したトレギアは、自身もまたウルトラマンである事を突き付けられながら敗北。",
+    "url": "https://note.com/zenmai/n/nede68f768a55",
+    "pass": 3
+   },
+   {
+    "quote": "最後には宇宙人と地球人の融和のモデルケースとして、イージスにマグマ星人とマーキンド星人が入社する。",
+    "url": "https://note.com/zenmai/n/nede68f768a55",
+    "pass": 3
+   },
+   {
+    "quote": "『ウルトラマンタイガ』という物語の締め括りとして、良い着地が出来たんじゃないかな、と思います。",
+    "url": "https://note.com/zenmai/n/nede68f768a55",
+    "pass": 3
+   },
+   {
+    "quote": "仰々しいタイトルですが、要は自分視点で黒崎タイガとの思い出を振り返る内容なんですけどね。",
+    "url": "https://note.com/imas_p_kaiga/n/nb1c63ad0212c",
+    "pass": 3
+   },
+   {
+    "quote": "FIRST STAGE PRODUCTION所属の「",
+    "url": "https://note.com/imas_p_kaiga/n/nb1c63ad0212c",
+    "pass": 3
+   },
+   {
+    "quote": "黒崎タイガさんは自分が追ってきたVtuberの中でも、特に思い出深い方でした。",
+    "url": "https://note.com/imas_p_kaiga/n/nb1c63ad0212c",
+    "pass": 3
+   },
+   {
+    "quote": "彼がきっかけで初めてやってみたことも多く、自分の人生においても強い影響を与えてくださった1人です。",
+    "url": "https://note.com/imas_p_kaiga/n/nb1c63ad0212c",
+    "pass": 3
+   },
+   {
+    "quote": "いずれやって来るものとは理解していましたが、いざ直面すると「まだ早い……！」という気持ちがやっぱり強くなってしまいます。",
+    "url": "https://note.com/imas_p_kaiga/n/nb1c63ad0212c",
+    "pass": 3
+   },
+   {
+    "quote": "ここまで積み重ねてきた思い出。それらを決して色褪せさせないように、今回こちらの記事で卒業までの思い出を記していこうと思います。",
+    "url": "https://note.com/imas_p_kaiga/n/nb1c63ad0212c",
+    "pass": 3
+   },
+   {
+    "quote": "出会いから推し始めまでの思い出はこちらの記事↓に記していますので、ここでは3Dお披露目以降の内容を主に振り返っていこうと思います。",
+    "url": "https://note.com/imas_p_kaiga/n/nb1c63ad0212c",
+    "pass": 3
+   },
+   {
+    "quote": "3Dお披露目以降、黒崎タイガさん（以降は兄貴）をより精力的に推し始めるようになります。",
+    "url": "https://note.com/imas_p_kaiga/n/nb1c63ad0212c",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "https://t.co/baMmtnSmIr",
+    "url": "https://note.com/imas_p_kaiga/n/nb1c63ad0212c",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "タイガ (@itadakitaiga) / X ここは 18 2.4K タイガ @itadakitaiga Nov 9 東の果ての魔の都市点検中 未だ連戦中 未だ伝染中 切り開いた未来の先経験中 こちら札付き未だ厳選中 言葉の幾何学模様連結中",
+    "url": "https://x.com/itadakitaiga",
+    "pass": 3
+   },
+   {
+    "quote": "神永タイガ にじさんじ (@Taiga_Kaminaga) / X 神永タイガ🐅🎻にじさんじ 448 posts 神永タイガ🐅🎻にじさんじ @Taiga_Kaminaga Show translation にじさんじ所属🌈🕒 |『@ Rhyzygy （リジジー）』の🎻 ｜スタイリスト様 @ iwamoto_05 ｜お問い合わせ ︎ nijisanji.jp/contact",
+    "url": "https://x.com/Taiga_Kaminaga",
+    "pass": 3
+   },
+   {
+    "quote": "講談社タイガ (@kodansha_taiga) / X 講談社ノベルスの兄弟レーベル「講談社タイガ」です。 小説と物語を愛する人のための小説レーベル「講談社タイガ」。 文庫判型で毎月15日ごろ発売！",
+    "url": "https://x.com/kodansha_taiga",
+    "pass": 3
+   },
+   {
+    "quote": "峨王タイガ（Taiga） (@toratigataiga) / X Pinned 峨王タイガ（Taiga） @toratigataiga Aug 29 🔶オリジナル曲「セピアの海」を公開しました🔶 2026年、オリジナル曲を3部作で公開予定 2曲目は青春の影が残る夏の終わりの歌です あの夏にはもどれないって、大人になるまで気づかなかったね #Vtuber #オリジナル曲",
+    "url": "https://x.com/toratigataiga",
+    "pass": 3
+   },
+   {
+    "quote": "大河タイガ on X: \"11月11日はチン比べの日、ってことで間に合えば今... 10 hours ago · 大河タイガ on X: \"11月11日はチン比べの日、ってことで間に合えば今夜中、遅くとも今週中には修学旅行の風呂で水滴チェックされる男子の話を投稿しますのでよろしくお願いします。みなさんのチン比べエピソードもお待ちしています🫶🏻\"",
+    "url": "https://x.com/taiga_er17567/status/2120362897155203392",
+    "pass": 3
+   },
+   {
+    "quote": "タイガ on X: \"@HoneyBadger_Min 型作ってしまえば、PDCA爆速で回せる... Sep 28, 2026 · コミュ障エンジニアな上に人の気持ちわからないと言われたマンなのでショート動画低再生叩き出してしまう。 わかんないからどんどん投稿してみるしかないな。とりあえずAIで量産できる体制は整えた。これで変数変えながら投稿して当たる型を探す 3 4 64 タイガ @taiga_aii Show translation 型作っ ...",
+    "url": "https://x.com/taiga_aii/status/2104416340157288712",
+    "pass": 3
+   },
+   {
+    "quote": "タイガ on X: \"1投稿前の差分 やな事忘れて海行きたいね \" Aug 31, 2026 · タイガ @OKKE3U3 Show translation 1投稿前の差分 やな事忘れて海行きたいね🤣 1:15 AM · Aug 31, 2026 · 6,187 Views",
+    "url": "https://x.com/OKKE3U3/status/2094338266061472212",
+    "pass": 3
+   },
+   {
+    "quote": "神永タイガ にじさんじ on X: \"配信来てくれてありがとー！！！ みん... Sep 21, 2026 · 配信来てくれてありがとー！！！🐅🎻 みんなあっての俺。いつもほんまにありがとな！ これからも楽しい時間をいっぱい過ごせたらなーとおもってるし、色々準備もしてる！から引き続きよろしくなー！！！ で！！🌸 このあと30分だけみんなの投稿にいいね押しにいきたいなーと ...",
+    "url": "https://x.com/Taiga_Kaminaga/status/2102046609064566850",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Taiga Kitao - Forward Deployed Engineer (FDE) @ OpenAI | AI ...株式会社タイガライズ | LinkedInTaiga.io - LinkedInMurashima Taiga - EY Strategy and Consulting Co., Ltd ...Taiga H. - Storage Centre Manager | LinkedInTaiga Clarke - Imperial College London // Co-founder ...Taiga Apparel (Private) Ltd. - LinkedIn Forward Deployed Engineer (FDE) @ OpenAI | AI & LLM | Bilingual EN/JP | Tokyo · 🚀 I enjoy building e",
+    "url": "https://www.linkedin.com/in/taiga-kitao",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社タイガライズ | LinkedIn 株式会社タイガライズ ビジネスコンサルティング・サービス 千代田区、東京都 23人のフォロワー 中国最大のCRO企業のタイガメッド社と内資系CRO企業アクセライズとの合弁企業です。オンコロジー領域のグローバル試験を中心に試験を受託しています。",
+    "url": "https://jp.linkedin.com/company/tigerise",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Tyga - Facebook焼肉 虎（たいが） | Soka-shi Saitama - FacebookLog Into FacebookTaiga - Facebook照屋 タイガ - Facebook講談社タイガ - FacebookTaiga - Facebook Oct 10, 2026 · Tyga. 21,604,264 followers · 2,163 talking about this. Tygavegas.com 1win vip Dec 12, 2024 · ！ #焼肉虎 #焼肉タイガ #ミノ刺し #草加グルメ #草加焼肉 こんにちは 焼肉虎 です。 4連休が始まりましたが、草加はあいにくのお天気… こんな日は近場でランチなんていかがでしょうか。 【和牛3種御膳】 朝入荷の厳選和牛の3種盛合せです。 Log into Facebook to start shar",
+    "url": "https://www.facebook.com/tyga/",
+    "pass": 3
+   },
+   {
+    "quote": "焼肉 虎（たいが） | Soka-shi Saitama - FacebookLog Into FacebookTaiga - Facebook照屋 タイガ - Facebook講談社タイガ - FacebookTaiga - Facebook Dec 12, 2024 · ！ #焼肉虎 #焼肉タイガ #ミノ刺し #草加グルメ #草加焼肉 こんにちは 焼肉虎 です。 4連休が始まりましたが、草加はあいにくのお天気… こんな日は近場でランチなんていかがでしょうか。 【和牛3種御膳】 朝入荷の厳選和牛の3種盛合せです。 Log into Facebook to start sharing and connecting with your friends, family, and people you know. Mar 17, 2021 · Taiga. 1,538 likes. Depres",
+    "url": "https://www.facebook.com/taiga1007/",
+    "pass": 3
+   },
+   {
+    "quote": "Taiga - Facebook照屋 タイガ - Facebook講談社タイガ - FacebookTaiga - Facebook Mar 17, 2021 · Taiga. 1,538 likes. Depressive Black Metal From Siberia. Oct 17, 2026 · \\ 照屋タイガの重要政策 ／ 物価対策・賃金アップ ・賃上げに取り組む中小事業者を県独自の施策で支援 経済・地域振興 ・県内企業への優先受発注システムの構築 ・中城湾港振興地区の機能強化で物流促進 ・勝連城跡の保全、周辺整備事業を推進 ・IT津梁 ... Apr 19, 2019 · 講談社タイガ. 363 likes. 講談社の新レーベル「講談社タイガ」の公式Facebookページです。 公式HPは Oct 30, 2026 · Taiga develops clothing syst",
+    "url": "https://www.facebook.com/TaigaOfficialPage/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.kk-taiga.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kk-taiga.co.jp/pages/18/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kk-taiga.co.jp/pages/24/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kk-taiga.co.jp/pages/3/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kk-taiga.co.jp/pages/5/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kk-taiga.co.jp/pages/5/b_id=9/r_id=1/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.kk-taiga.co.jp/files/libs/385/202107021426471442.png?1626052430",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.u-topia.co.jp/products/low-volume-series.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://takiguchi-seisakusyo.co.jp/prototype-small-lot/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takigen.co.jp/corporate/ordermade",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tiger-corporation.com/ja/jpn/about-us/company/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taiga-g.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taiga-do.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tiger-corporation.com/ja/jpn/support/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tiger-mfg.co.jp/contact02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://taiga-g.com/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/zenmai/n/nede68f768a55",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tye96ga/n/na5717bb74485",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/taigakingdom",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/imas_p_kaiga/n/nb1c63ad0212c",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/itadakitaiga",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Taiga_Kaminaga",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/kodansha_taiga",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/toratigataiga",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/taiga-kitao",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/tigerise",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tyga/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/taiga1007/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TaigaOfficialPage/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/taiga_er17567/status/2120362897155203392",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/taiga_aii/status/2104416340157288712",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OKKE3U3/status/2094338266061472212",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Taiga_Kaminaga/status/2102046609064566850",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "タイガ 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.u-topia.co.jp/products/low-volume-series.html",
+    "https://takiguchi-seisakusyo.co.jp/prototype-small-lot/",
+    "https://www.takigen.co.jp/corporate/ordermade",
+    "https://systemcreate-inc.co.jp/products/moiron_top",
+    "https://www.bane-shisaku.com/products/",
+    "https://fujieda-pack.com/custom/",
+    "https://mono.ipros.com/cg1/試作/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "タイガ 会社概要 事業内容",
+   "results": [
+    "https://www.tiger-corporation.com/ja/jpn/about-us/company/outline/",
+    "https://taiga-g.com/company/",
+    "https://taiga-do.co.jp/company/",
+    "https://www.tiger-s.co.jp/company/outline/",
+    "https://www.kk-taiga.co.jp/pages/3/",
+    "https://taiga-g.com/",
+    "https://www.tiger-corporation.com/en/jpn/about-us/company/outline/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "タイガ お問い合わせ メール",
+   "results": [
+    "https://www.tiger-corporation.com/ja/jpn/support/inquiry/",
+    "https://www.tiger-mfg.co.jp/contact02.html",
+    "https://taiga-g.com/contact/",
+    "https://www.tiger-corporation.com/ja/jpn/support/",
+    "https://taiga88.com/contactus/",
+    "https://support.tiger-corporation.com/hc/ja/requests/new",
+    "https://www.tigerairtw.com/jp/support/contact-us"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com タイガ",
+   "results": [
+    "https://note.com/zenmai/n/nede68f768a55",
+    "https://note.com/tye96ga/n/na5717bb74485",
+    "https://note.com/taigakingdom",
+    "https://note.com/imas_p_kaiga/n/nb1c63ad0212c",
+    "https://note.com/taiga3577/n/n3fe8d23ad6e1",
+    "https://note.com/nakybusiness/n/n5126e0685322",
+    "https://tales.note.com/stardust_letter/wm7lxz0543j6l"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com タイガ",
+   "results": [
+    "https://x.com/itadakitaiga",
+    "https://x.com/Taiga_Kaminaga",
+    "https://x.com/kodansha_taiga",
+    "https://x.com/toratigataiga",
+    "https://x.com/tiga0105",
+    "https://x.com/TaigerArts",
+    "https://x.com/tigerintokyo"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com タイガ",
+   "results": [
+    "https://www.linkedin.com/in/taiga-kitao",
+    "https://jp.linkedin.com/company/tigerise",
+    "https://jp.linkedin.com/in/murashima-taiga-55142a2a",
+    "https://ca.linkedin.com/in/taiga-h-201447341",
+    "https://pk.linkedin.com/company/taigaapparel",
+    "https://www.linkedin.com/company/taigaio",
+    "https://uk.linkedin.com/in/taiga-clarke-29a046223"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com タイガ",
+   "results": [
+    "https://www.facebook.com/tyga/",
+    "https://www.facebook.com/taiga1007/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/TaigaOfficialPage/",
+    "https://www.facebook.com/p/照屋-タイガ-100061370949101/",
+    "https://www.facebook.com/kodanshataiga/",
+    "https://www.facebook.com/taigaab/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "タイガ note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/taiga1989",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://note.com/taiga_business_",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "タイガ X 投稿",
+   "results": [
+    "https://x.com/taiga_er17567/status/2120362897155203392",
+    "https://x.com/taiga_aii/status/2104416340157288712",
+    "https://x.com/OKKE3U3/status/2094338266061472212",
+    "https://x.com/Taiga_Kaminaga/status/2102046609064566850",
+    "https://x.com/taiga_aii/status/2089185501383405969",
+    "https://x.com/taiga_aii/status/2090197159371313617",
+    "https://search.yahoo.co.jp/realtime/search/#TAIGA/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部26頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式6頁／PDF・画像1件／外部26頁・検索9回）"
+ }
+}

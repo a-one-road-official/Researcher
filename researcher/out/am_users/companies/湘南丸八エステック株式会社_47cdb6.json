@@ -1,0 +1,993 @@
+{
+ "name": "湘南丸八エステック株式会社",
+ "aliases": [],
+ "context": "ipros_all:特注",
+ "researched_at": "2026-11-11T10:54:57.174604+00:00",
+ "official_url": "https://smst.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "小島 悟",
+    "url": "https://smst.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒251-0056 神奈川県藤沢市羽鳥4-11-12",
+    "url": "https://smst.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "5名",
+    "url": "https://mono.ipros.com/company/detail/2046919/",
+    "pass": 3
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "•味の素株式会社\n•ADEKA総合設備株式会社\n•大塚製薬株式会社\n•大阪サニタリー株式会社\n•株式会社キッツエスシーティー\n•国立研究開発法人　産業技術総合研究所\n•国立研究開発法人　宇宙航空研究開発機構\n•国立研究開発法人　農業・食品産業技術総合研究機構\n•株式会社三和化学研究所\n•全国農業協同組合連合会　営農・技術センター\n•第一三共株式会社\n•第一三共RDノバーレ株式会社\n•第一三共ケミカルファーマ株式会社\n•第一三共プロファーマ株式会社\n•トーステ株式会社\n•タイヘイテクノス株式会社\n•高砂香料工業株式会社\n•防衛大学校\n•東邦大学\n•東京大学\n•東京理科大学\n•東京工業大学\n•明治大学\n•早稲田大学\n•日本歯科大学\n•静岡県立大学\n•名古屋大学\n•大阪大学\n•京都府立大学\n•東海大学\n•東北大学\n•都城工業高等専門学校\n•東光食品株式会社\n•筑波乳業株式会社\n•日揮ユニバーサル株式会社\n•久光製薬株式会社\n•株式会社富士薬品\n•古河電気工業株式会社\n•平田機工株式会社\n•北興化学工業株式会社\n•ポーラ化成工業株式会社\n•株式会社ミスミ\n•三井化学株式会社\n•株式会社明治\n•",
+    "url": "https://mono.ipros.com/company/detail/2046919/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "「どこでもドラフト®」は作業者・研究者のガス暴露のリスクを低減させる製品です",
+    "url": "https://smst.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "AirNovaは、研究現場や作業環境の空気質改善を目的とした新しい空気清浄・ガス対策製品です",
+    "url": "https://smst.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の性能や使い勝手を確認した上で納得して購入いただきたいと考えており、デモ機の貸し出しを行っております",
+    "url": "https://smst.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "これまで現場の様々な「困ったこと」に向き合い、お客様に寄り添って製品づくりをしてきたことで、湘南丸八エステックだからこそできる柔軟で自由な発想力と技術力があります",
+    "url": "https://smst.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "使う側の環境や視点を考えて製品のカスタマイズも対応しております",
+    "url": "https://smst.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発・生産・品質管理の現場を支える当社の事業や製品を、より分かりやすくお伝えできるよう、構成とデザインを一新しました",
+    "url": "https://smst.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "デモ機のお申し込み／ご注文／製品に関するお問い合わせはこちら",
+    "url": "https://smst.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "上記以外の製品に関する質問・相談／その他のお問い合わせはこちら",
+    "url": "https://smst.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "研究・開発・製造現場に対応する製品・装置・加工対応を一覧でご紹介します",
+    "url": "https://smst.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "デモ機のお申し込み／ご注文／製品に関するお問い合わせはこちら",
+    "url": "https://smst.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "上記以外の製品に関する質問・相談／その他のお問い合わせはこちら",
+    "url": "https://smst.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "研究・開発の現場において、流体・配管・真空領域に関する製品選定および技術提案を行っています",
+    "url": "https://smst.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "チューブ・配管・真空部品などを中心に、使用条件に適した製品の選定と、再現性を重視した対応を行っています",
+    "url": "https://smst.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "使用条件に応じた製品選定および技術的なご相談対応",
+    "url": "https://smst.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "デモ機のお申し込み／ご注文／製品に関するお問い合わせはこちら",
+    "url": "https://smst.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "上記以外の製品に関する質問・相談／その他のお問い合わせはこちら",
+    "url": "https://smst.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "標準品では対応が難しい部品加工やオーダーメイド製品にも対応しています",
+    "url": "https://smst.co.jp/custom-processing/",
+    "pass": 1
+   },
+   {
+    "quote": "デモ機のお申し込み／ご注文／製品に関するお問い合わせはこちら",
+    "url": "https://smst.co.jp/custom-processing/",
+    "pass": 1
+   },
+   {
+    "quote": "上記以外の製品に関する質問・相談／その他のお問い合わせはこちら",
+    "url": "https://smst.co.jp/custom-processing/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の性能だけでなく、その条件下でどのように機能するかを丁寧に伝えること",
+    "url": "https://smst.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "個別製品の選定にとどまらず、使用環境全体を踏まえた構成の検討が可能です",
+    "url": "https://smst.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "既製品の選定に加え、使用条件に応じた仕様調整やオーダー対応も含めて、最適な形をご提案します",
+    "url": "https://smst.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "デモ機のお申し込み／ご注文／製品に関するお問い合わせはこちら",
+    "url": "https://smst.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "上記以外の製品に関する質問・相談／その他のお問い合わせはこちら",
+    "url": "https://smst.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "湘南丸八エステックの製品・サービス一覧｜イプロスものづくり",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(49)",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "2020年12月3日 製品サンプルもあります！",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "ご希望の方には製品サンプルのご提供をしておりますので、弊社までご連絡下さい",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "よって通常の成型製品と同様の性能を有しております",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "品質・機能・コストを総合的に判断した最善のご提案と製品は、知識と技術の橋渡しの可能性を最大にし、お客様の発展に貢献致します",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "『ICF変換フランジ』は、材質がSUS304Lの製品です",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "『ICF両面穴あきフランジ/ICF両面ブランクフランジ』は、材質がSUS304Lの製品です",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "『ICFブランクフランジ（固定）』は、材質がSUS304Lの製品です",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "インナー側がSUS316Lの製品や、OリングがNBRやシリコン等の製品も承ります",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "『クランプチェーン』は、材質がステンレス+アルミの製品です",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "『バルクヘッド クランプ／ウォールクランプ』は、材質がALの製品です",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "『クランプリング』は、二点式に比べ、安価な製品です",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "『NWフランジ 特別寸法』は、3タイプの製品をラインアップしております",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "「NWロングフランジ」は、「長さ 50L」と「長さ 70L」、2タイプの製品をラインアップしております",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "GAS PIPES「ニップル」や「エルボ」など多数ラインナップ！",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "用途にあわせた、幅広い製品を取り揃えております",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "「VF(溝ナシ)フランジ」など多数ラインナップ！",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "「VF(溝ナシ)フランジ」と「VG(溝あり)フランジ」、2タイプの製品を",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "それぞれ用途にあわせた、幅広い規格でラインナップしております",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "「Single Claw Clamps」など多数ラインナップ",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "湘南丸八エステックでは、国際規格(ISO)に準じたフランジ、継手製品を取り扱っております",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "「Small-bore tube type」など多数ラインナップ",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "用途に合わせた、幅広い製品をラインナップしております",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "Gageport、Gage port Plugなど多数ラインナップ！",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(49)",
+    "url": "https://mono.ipros.com/company/detail/2046919/",
+    "pass": 3
+   },
+   {
+    "quote": "真空装置の仕様に適した真空フランジを選定し、ご要望に応じて追加工や設計といった応用を加えて、お客様のニーズに合った製品をご提供致します",
+    "url": "https://mono.ipros.com/company/detail/2046919/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (49)",
+    "url": "https://mono.ipros.com/company/detail/2046919/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(49)",
+    "url": "https://mono.ipros.com/company/detail/2046919/catalog/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "ご希望の方はお問い合わせフォームよりご連絡下さい",
+    "url": "https://smst.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "デモ機のお申し込み／ご注文／製品に関するお問い合わせはこちら",
+    "url": "https://smst.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "上記以外の製品に関する質問・相談／その他のお問い合わせはこちら",
+    "url": "https://smst.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "デモ機のお申し込み／ご注文／製品に関するお問い合わせはこちら",
+    "url": "https://smst.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "上記以外の製品に関する質問・相談／その他のお問い合わせはこちら",
+    "url": "https://smst.co.jp/products/",
+    "pass": 1
+   },
+   {
+    "quote": "デモ機のお申し込み／ご注文／製品に関するお問い合わせはこちら",
+    "url": "https://smst.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "上記以外の製品に関する質問・相談／その他のお問い合わせはこちら",
+    "url": "https://smst.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "図面をお持ちの場合は、メールにてお送りいただくことも可能です",
+    "url": "https://smst.co.jp/custom-processing/",
+    "pass": 1
+   },
+   {
+    "quote": "デモ機のお申し込み／ご注文／製品に関するお問い合わせはこちら",
+    "url": "https://smst.co.jp/custom-processing/",
+    "pass": 1
+   },
+   {
+    "quote": "上記以外の製品に関する質問・相談／その他のお問い合わせはこちら",
+    "url": "https://smst.co.jp/custom-processing/",
+    "pass": 1
+   },
+   {
+    "quote": "デモ機のお申し込み／ご注文／製品に関するお問い合わせはこちら",
+    "url": "https://smst.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "上記以外の製品に関する質問・相談／その他のお問い合わせはこちら",
+    "url": "https://smst.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "詳しくはお問い合わせ、またはカタログをダウンロードしてください",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "金属・樹脂チューブ、各種配管部材",
+    "url": "https://smst.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "材質選定から加工方法のご提案まで、お客様の用途に合わせた最適な加工をご提供します",
+    "url": "https://smst.co.jp/custom-processing/",
+    "pass": 1
+   },
+   {
+    "quote": "図面支給による製作に対応し、精度要求に応じた材質選定・加工方法をご提案しました",
+    "url": "https://smst.co.jp/custom-processing/",
+    "pass": 1
+   },
+   {
+    "quote": "耐薬品性・耐久性を考慮し、使用環境に適した材質・加工方法をご提案しました",
+    "url": "https://smst.co.jp/custom-processing/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂から金属・ガラス・セラミックスまで、用途に応じた加工に対応しています",
+    "url": "https://smst.co.jp/custom-processing/",
+    "pass": 1
+   },
+   {
+    "quote": "フッ素樹脂をはじめとする高機能樹脂まで、用途に応じた材料選定が可能です",
+    "url": "https://smst.co.jp/custom-processing/",
+    "pass": 1
+   },
+   {
+    "quote": "フッ素樹脂 4F テフロン ナフロン ヨドフロン バルフロン",
+    "url": "https://smst.co.jp/custom-processing/",
+    "pass": 1
+   },
+   {
+    "quote": "標準品では対応が難しい形状・材質でも、用途や使用条件に合わせた加工をご提案いたします",
+    "url": "https://smst.co.jp/custom-processing/",
+    "pass": 1
+   },
+   {
+    "quote": "材質選定から加工方法、表面処理までワンストップでサポートします",
+    "url": "https://smst.co.jp/custom-processing/",
+    "pass": 1
+   },
+   {
+    "quote": "送り焼き成型専用の各種設備にて成型を行っている為、仕上がり・外観・寸法精度も安定し、且つ材質面においても規格品と同じ材料を使用する為、トラブルの発生がありません",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■各種樹脂・金属・ガラス部品の加工及び販売",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "ポリウレタン材質の保護キャップと、フッ素ゴムのNW用Oリング",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "『保護キャップ』は、ポリウレタン材質です",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "『NW用Oリング』は、JISB2401 4種Ｄ(フッ素ゴム)材質です",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■本体材質：SUS304",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■ベローズ材質：AM350",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■チューブ材質：SUS304/316L（チューブタイプ・ブレード付）",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "特殊寸法の製作も可能！フランジ部の材質 SUS304のアダプター",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■材質：フランジ部 SUS304L、継手部 SUS316L",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■材質：SUS304L",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■材質：フランジ部 SUS304L",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "『ICF変換フランジ』は、材質がSUS304Lの製品です",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "『ICF両面穴あきフランジ/ICF両面ブランクフランジ』は、材質がSUS304Lの製品です",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "『ICF穴あきフランジ（回転）』の材質はSUS304Lです",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "『ICFブランクフランジ（回転）』の材質はSUS304Lです",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "『ICF穴あきフランジ（固定）』の材質はSUS304Lです",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "『ICFブランクフランジ（固定）』は、材質がSUS304Lの製品です",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "『ICFミニフランジ』の材質はSUS304Lです",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "『NWフレキシブルチューブ』のチューブ部分と金具部分の材質はSUS304です",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■チューブ材質：SUS304",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■金具材質：SUS304",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "『NWエルボ』の標準材質はSUS304です",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■標準材質：SUS304",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "『NWクロス／NWニップル』の標準材質はSUS304です",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■ 各種樹脂・金属・ガラス部品の加工及び販売",
+    "url": "https://mono.ipros.com/company/detail/2046919/",
+    "pass": 3
+   },
+   {
+    "quote": "配管部品 フッ素樹脂継手 30シリーズ3",
+    "url": "https://mono.ipros.com/company/detail/2046919/catalog/",
+    "pass": 3
+   },
+   {
+    "quote": "配管部品 フッ素樹脂継手 30シリーズ2",
+    "url": "https://mono.ipros.com/company/detail/2046919/catalog/",
+    "pass": 3
+   },
+   {
+    "quote": "配管部品 フッ素樹脂継手 30シリーズ1",
+    "url": "https://mono.ipros.com/company/detail/2046919/catalog/",
+    "pass": 3
+   },
+   {
+    "quote": "配管部品 フッ素樹脂バルブ WCSシリーズ",
+    "url": "https://mono.ipros.com/company/detail/2046919/catalog/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "半導体・液体処理装置向け配管部品の設計・製造・販売",
+    "url": "https://smst.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "国立研究開発法人 国立精神・神経医療研究センター",
+    "url": "https://smst.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "地方独立行政法人 東京都健康長寿医療センター研究所",
+    "url": "https://smst.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "公益財団法人 川崎市産業振興財団 ナノ医療イノベーションセンター",
+    "url": "https://smst.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体・有機ＥＬ製造装置・真空チャンバー・大型タンクのふっ素ゴム製のJIS規格外Oリングを短納期にて提供致します",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "従来金型のないOリング等は押出しゴム紐などを接着剤などでつなぎ使用されていました",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "送り焼き成型は、JIS規格、AS規格にない特別寸法を成型する技術であり、単品・小ロットの場合に金型を必要としない為、大口径Oリングも低コスト及び短納期で商品製造が可能となります",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "湘南丸八エステック株式会社(SMST)は、半導体・液晶製造装置用の真空機器部品の設計・製造・販売などを行っている会社です",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■半導体・液晶製造装置用の真空機器部品の設計・製造・販売",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "当社では、半導体製造装置・液晶製造装置・有機EL製造装置において欠くことのできない真空配管を、素材(SUS304～SUS316L)から切削加工、TIG溶接組付け一貫製作いたします",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体製造装置・液晶製造装置・有機EL製造装置において",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "PCR, リアルタイムPCR, 超純水装置, 自動化ロボット, など",
+    "url": "https://mono.ipros.com/company/detail/2046919/",
+    "pass": 3
+   },
+   {
+    "quote": "■ 半導体・液晶製造装置用の真空機器部品の設計・製造・販売",
+    "url": "https://mono.ipros.com/company/detail/2046919/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "各種加工対応（特注品） – 湘南丸八エステック",
+    "url": "https://smst.co.jp/custom-processing/",
+    "pass": 1
+   },
+   {
+    "quote": "図面支給・特注品・小ロットにも柔軟に対応します",
+    "url": "https://smst.co.jp/custom-processing/",
+    "pass": 1
+   },
+   {
+    "quote": "標準品では対応が難しい部品加工やオーダーメイド製品にも対応しています",
+    "url": "https://smst.co.jp/custom-processing/",
+    "pass": 1
+   },
+   {
+    "quote": "図面支給による製作はもちろん、特注品・小ロット案件についてもお気軽にご相談ください",
+    "url": "https://smst.co.jp/custom-processing/",
+    "pass": 1
+   },
+   {
+    "quote": "送り焼き成型は、JIS規格、AS規格にない特別寸法を成型する技術であり、単品・小ロットの場合に金型を必要としない為、大口径Oリングも低コスト及び短納期で商品製造が可能となります",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■研究理化学機器の特注カスタマイズ設計・製造・販売",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "受注生産品ですので、特殊寸法の製作も対応いたします",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■ 特注での研究理化学機器のカスタマイズの設計・製造・販売",
+    "url": "https://mono.ipros.com/company/detail/2046919/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "本体SUS304、ベローズAM350",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■ベローズ材質：AM350",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "ステンレス+アルミ材質のClamp Chain（クランプチェーン）",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "「Single Claw Clamps」など多数ラインナップ",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "各種加工対応（特注品） - 湘南丸八エステック — 各種加工対応（特注品） - 湘南丸八エステック 湘南丸八エステック https://smst.co.jp > custom-processing",
+    "url": "https://smst.co.jp/custom-processing/",
+    "pass": 3
+   },
+   {
+    "quote": "湘南丸八エステック の 製品 ・サービス一覧｜イプロスものづくり — 湘南丸八エステック の 製品 ・サービス一覧｜イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > ... > 湘南丸八エステック株式会社",
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "pass": 3
+   },
+   {
+    "quote": "湘南丸八エステック 株式会社の 会社概要 ・製品情報 - Metoree — 湘南丸八エステック 株式会社の 会社概要 ・製品情報 - Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/14998/",
+    "pass": 3
+   },
+   {
+    "quote": "会社 案内 - 湘南丸八エステック — 会社 案内 - 湘南丸八エステック 湘南丸八エステック https://smst.co.jp > company",
+    "url": "https://smst.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "湘南丸八エステック | 企業情報 | イプロスものづくり — 湘南丸八エステック | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 商社・卸売り",
+    "url": "https://mono.ipros.com/company/detail/2046919/",
+    "pass": 3
+   },
+   {
+    "quote": "湘南丸八エステック 株式会社（神奈川県）の 会社概要 ・役員 — 湘南丸八エステック 株式会社（神奈川県）の 会社概要 ・役員 Compalyze https://compalyze.co.jp > 企業検索 > 電気・電子機器",
+    "url": "https://compalyze.co.jp/company/4021001054343",
+    "pass": 3
+   },
+   {
+    "quote": "湘南丸八エステック 製品の選定・通販 | MISUMI(ミスミ) — 湘南丸八エステック 製品の選定・通販 | MISUMI(ミスミ) MISUMI https://jp.misumi-ec.com > メーカー一覧",
+    "url": "https://jp.misumi-ec.com/vona2/maker/shonanmaruhachiestech/?srsltid=AYCX9vIzeXlq85ak3L_55kiEZjT7HDGAqajsqBCVu0otD7V5tyrteAKK",
+    "pass": 3
+   },
+   {
+    "quote": "製品に関する お問い合わせ - 湘南丸八エステック — 製品に関する お問い合わせ - 湘南丸八エステック 湘南丸八エステック https://smst.co.jp > contact_other",
+    "url": "https://smst.co.jp/contact_other/",
+    "pass": 3
+   },
+   {
+    "quote": "湘南丸八エステック のカタログ一覧 | イプロスものづくり — 湘南丸八エステック のカタログ一覧 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > ... > 湘南丸八エステック株式会社",
+    "url": "https://mono.ipros.com/company/detail/2046919/catalog/",
+    "pass": 3
+   },
+   {
+    "quote": "湘南丸八エステック 製品の選定・通販 | MISUMI(ミスミ) — 湘南丸八エステック 製品の選定・通販 | MISUMI(ミスミ) MISUMI https://jp.misumi-ec.com > メーカー一覧",
+    "url": "https://jp.misumi-ec.com/vona2/maker/shonanmaruhachiestech/?srsltid=AYCX9vKJK-wayYsAmB1b_MgLvdxyhjA2zn4eAzIPeB7rrhlF8P_6WoJH",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ – 湘南丸八エステック 株式会社 — お問い合わせ – 湘南丸八エステック 株式会社 湘南丸八エステック https://smst.co.jp > toiawase",
+    "url": "https://smst.co.jp/toiawase/",
+    "pass": 3
+   },
+   {
+    "quote": "湘南丸八エステック 株式会社の会社概要・製品情報 - Metoree — 湘南丸八エステック 株式会社の会社概要・製品情報 - Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/14998/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://smst.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smst.co.jp/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smst.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smst.co.jp/custom-processing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://smst.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/company/detail/2046919/category/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/14998/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2046919/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2046919/catalog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.misumi-ec.com/vona2/maker/shonanmaruhachiestech/?srsltid=AYCX9vKJK-wayYsAmB1b_MgLvdxyhjA2zn4eAzIPeB7rrhlF8P_6WoJH",
+    "status": "ok",
+    "method": "browser"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "湘南丸八エステック 取扱製品 試作 小ロット",
+   "results": [
+    "https://smst.co.jp/custom-processing/",
+    "https://mono.ipros.com/company/detail/2046919/category/",
+    "https://injection-lab.com/technology/64-2.html",
+    "https://mfg-hack.com/plastic/10134/",
+    "https://www.youtube.com/watch?v=hUn4tT9VgWU",
+    "https://www.zen.co.jp/",
+    "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "https://www.techno-labo.com/",
+    "https://www.daytech.co.jp/reason/prototype-mold",
+    "https://smst.co.jp/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "湘南丸八エステック 会社概要 事業内容",
+   "results": [
+    "https://metoree.com/companies/14998/",
+    "https://smst.co.jp/company/",
+    "https://mono.ipros.com/company/detail/2046919/",
+    "https://compalyze.co.jp/company/4021001054343",
+    "https://jp.misumi-ec.com/vona2/maker/shonanmaruhachiestech/?srsltid=AYCX9vIzeXlq85ak3L_55kiEZjT7HDGAqajsqBCVu0otD7V5tyrteAKK",
+    "https://smst.co.jp/",
+    "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=4021001054343",
+    "https://www.rolan-u.co.jp/products/5786/",
+    "https://www.buffett-code.com/company/1ouyh1k6z9/",
+    "https://smst.co.jp/会社案内-2/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "湘南丸八エステック お問い合わせ メール",
+   "results": [
+    "https://smst.co.jp/contact_other/",
+    "https://mono.ipros.com/company/detail/2046919/catalog/",
+    "https://jp.misumi-ec.com/vona2/maker/shonanmaruhachiestech/?srsltid=AYCX9vKJK-wayYsAmB1b_MgLvdxyhjA2zn4eAzIPeB7rrhlF8P_6WoJH",
+    "https://smst.co.jp/toiawase/",
+    "https://metoree.com/companies/14998/",
+    "https://www.snecon.co.jp/contact.html",
+    "https://www.estech.co.jp/inquiry/",
+    "https://form.stec.ne.jp/co/contact/",
+    "https://www.kk-st.net/contact",
+    "https://estec-inc.jp/contacthd/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com 湘南丸八エステック",
+   "results": [
+    "https://note.com/clipcorporation/n/nb1330d400f49",
+    "https://note.com/clipcorporation/n/n878435cdfdd7",
+    "https://note.com/clipcorporation/n/n91559a14cf25"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 3
+  },
+  {
+   "query": "site:x.com 湘南丸八エステック",
+   "results": [
+    "https://x.com/TFSC2016",
+    "https://x.com/maruhachi_r/status/2116431228006183250",
+    "https://x.com/marueight08",
+    "https://x.com/StechWood/status/2113393710516043810",
+    "https://x.com/Taka_Yamamaka/status/2116524036381720936",
+    "https://x.com/stechcars",
+    "https://x.com/maru8kuni",
+    "https://x.com/stechtokyo"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:linkedin.com 湘南丸八エステック",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com 湘南丸八エステック",
+   "results": [
+    "https://www.facebook.com/waranchu.fes/posts/%E3%82%8F%E3%82%89%E3%83%95%E3%82%A7%E3%82%B92026-%E5%87%BA%E5%BA%97%E8%80%85%E7%B4%B9%E4%BB%8B-%E9%A3%B2%E9%A3%9F%E3%82%A8%E3%83%AA%E3%82%A2-%E3%82%A8%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BCno25-%E5%92%8C%E5%95%86%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-%E9%A3%9F%E3%81%B9%E5%BF%9C%E3%81%88%E6%8A%9C%E7%BE%A4%E3%81%AE%E9%A4%83%E5%AD%90%E3%81%8C%E3%82%8F%E3%82%89%E3%83%95%E3%82%A7%E3%82%B9%E3%81%AB%E7%99%BB%E5%A0%B4%E4%BB%8A%E5%9B%9E%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%99%E3%82%8B%E3%81%AE%E3%81%AF%E5%92%8C%E5%95%86%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3/1637627588062695/",
+    "https://www.facebook.com/waranchu.fes/posts/%E3%82%8F%E3%82%89%E3%83%95%E3%82%A7%E3%82%B92026-%E5%87%BA%E5%BA%97%E8%80%85%E7%B4%B9%E4%BB%8B%EF%B8%8F-%E7%89%A9%E8%B2%A9%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E3%82%A8%E3%83%AA%E3%82%A2-%EF%B8%8F-%E7%93%B6%E8%A9%B0%E7%BE%8E%E9%A3%9F%E5%B7%A5%E6%88%BF-bocal%E3%83%9C%E3%83%83%E3%82%AB%E3%83%AB-11%E6%9C%8822%E6%97%A5%E6%97%A5%E3%81%AE%E3%81%BF%E5%87%BA%E5%BA%97%E4%BB%8A%E5%9B%9E%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%99%E3%82%8B%E3%81%AE%E3%81%AF%E6%97%A5%E6%9C%AC%E4%B8%80%E5%B0%8F%E3%81%95%E3%81%AA%E5%B8%82%E3%81%AE%E5%B0%8F%E3%81%95%E3%81%AA/1639381491220638/",
+    "https://www.facebook.com/waranchu.fes/posts/-%E3%82%8F%E3%82%89%E3%83%95%E3%82%A7%E3%82%B92026-%E9%A3%B2%E9%A3%9F%E5%87%BA%E5%BA%97%E8%80%85%E7%B4%B9%E4%BB%8B-%E3%81%AF%E3%81%99%E3%81%A0%E3%81%93-%E4%BB%8A%E5%9B%9E%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%99%E3%82%8B%E3%81%AE%E3%81%AF%E3%81%9F%E3%81%93%E7%84%BC%E3%81%8D%E5%B0%82%E9%96%80%E5%BA%97%E3%81%AF%E3%81%99%E3%81%A0%E3%81%93%E3%81%95%E3%82%93%E3%81%A7%E3%81%99%E3%81%B5%E3%82%8B%E3%81%95%E3%81%A8%E7%B4%8D%E7%A8%8E%E3%81%AE%E8%BF%94%E7%A4%BC%E5%93%81%E3%82%84%E5%BD%A9%E3%81%AE%E5%9B%BD%E5%84%AA%E8%89%AF%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E5%93%81%E3%81%AB%E3%82%82%E8%AA%8D%E5%AE%9A%E3%81%95%E3%82%8C%E3%81%9F%E3%81%93%E3%81%A8%E3%81%AE%E3%81%82/1636362028189251/",
+    "https://www.facebook.com/waranchu.fes/",
+    "https://www.facebook.com/waranchu.fes/photos/%E8%95%A8%E3%83%95%E3%82%A7%E3%82%B9-%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E7%B4%B9%E4%BB%8B12301310dll-dance-schooldll%E3%81%A8%E6%9B%B8%E3%81%84%E3%81%A6%E3%83%87%E3%82%A3%E3%83%AB%E3%83%80%E3%83%B3%E3%82%B9%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E3%81%A7%E3%81%99%E4%BB%8A%E5%9B%9E%E3%81%AE%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E4%BC%9A%E5%A0%B4%E3%81%A8%E3%81%AA%E3%82%8B%E3%82%AF%E3%82%A2%E3%83%83%E3%82%AB%E3%82%92%E6%8B%A0%E7%82%B9%E3%81%A8%E3%81%97%E3%81%A635%E4%BB%A5%E4%B8%8A/2166466243492249/",
+    "https://www.facebook.com/湘南丸八エステック株式会社-693183920795155/",
+    "https://www.facebook.com/JIMASATO/",
+    "https://www.facebook.com/syounan.maruhachimaru/",
+    "https://www.facebook.com/atupi.triton/",
+    "https://www.facebook.com/s.tech.japan/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "湘南丸八エステック note 社長",
+   "results": [
+    "https://smst.co.jp/",
+    "https://note.com/willtec_ir/n/n373c534b4443",
+    "https://note.com/s_tec_/n/n84fe257317c1",
+    "https://smst.co.jp/2026/11/",
+    "https://note.com/yosuke77",
+    "https://note.com/okb46/m/mcd04bb32e198",
+    "https://x.com/i/broadcasts/1LyxBWPeMQnKN",
+    "https://note.com/kenmo_kenmo",
+    "https://www.youtube.com/watch?v=ubBic48eXEQ",
+    "https://compalyze.co.jp/company/4021001054343"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "湘南丸八エステック X 投稿",
+   "results": [
+    "https://x.com/finalliar/status/2113055742001549341",
+    "https://x.com/finalliar/status/2117110320770478487",
+    "https://www.kanaloco.jp/news/culture/bunka/article-1314046.html",
+    "https://x.com/finalliar/status/2118131150388670662",
+    "https://x.com/finalliar/status/2116345851828428965",
+    "https://x.com/Moa0_666_/status/2114922054260810133",
+    "https://x.com/Weds_Co_Ltd/status/2118297390159483148/video/1",
+    "https://smst.co.jp/2026/11/01/webサイトリニューアルのお知らせ/",
+    "https://smst.co.jp/",
+    "https://www.facebook.com/湘南丸八エステック株式会社-693183920795155/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部6頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部6頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部6頁・検索9回）"
+ }
+}

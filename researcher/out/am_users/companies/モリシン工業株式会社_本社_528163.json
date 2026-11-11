@@ -1,0 +1,488 @@
+{
+ "name": "モリシン工業株式会社 本社",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T10:56:49.794394+00:00",
+ "official_url": "http://www.morishin.com",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役　石田　達矢",
+    "url": "https://www.morishin.com/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "アルミハニカムパネルの設計・製造・販売",
+    "url": "https://www.morishin.com/company/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "岐阜県下呂市みまやの1275-1",
+    "url": "https://www.morishin.com/company/",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "国内外の人工衛星、家具、設備、装置などのメーカー等",
+    "url": "https://www.morishin.com/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "一点物・少量多品種": [
+   {
+    "quote": "「アルミハニカムパネルを使用してみたいが初めて検討するのでまずは試作品を作って評価してみたい」というご要望は大歓迎です",
+    "url": "https://www.morishin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "「まずは試作品を作って評価してみたい」というご要望は大歓迎です",
+    "url": "https://www.morishin.com/",
+    "pass": 1
+   },
+   {
+    "quote": "「まずは試作品を作って評価してみたい」というご要望は大歓迎です",
+    "url": "https://www.morishin.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "「まずは試作品を作って評価してみたい」というご要望は大歓迎です",
+    "url": "https://www.morishin.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "モリシン工業はこれまで人工衛星やロケットなどの航空宇宙分野、生産装置や冶具などの設備分野、オーダーメイド家具・インテリア分野など、様々な分野における軽量化やコストダウンに貢献してまいりました",
+    "url": "https://www.morishin.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "「まずは試作品を作って評価してみたい」というご要望は大歓迎です",
+    "url": "https://www.morishin.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "オーダーメイドで１品から",
+    "url": "https://www.morishin.com/case/",
+    "pass": 1
+   },
+   {
+    "quote": "「まずは試作品を作って評価してみたい」というご要望は大歓迎です",
+    "url": "https://www.morishin.com/case/",
+    "pass": 1
+   },
+   {
+    "quote": "「まずは試作品を作って評価してみたい」というご要望は大歓迎です",
+    "url": "https://www.morishin.com/introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "これまで弊社は新規採用をご検討中のお客様に試作品を提供し、評価して頂くなかで採用実績を積み重ねてきました",
+    "url": "https://www.morishin.com/introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "「まずは試作品を作って評価してみたい」というご要望は大歓迎です",
+    "url": "https://www.morishin.com/about/entrance.html",
+    "pass": 1
+   },
+   {
+    "quote": "ご要望の仕様で1品から低コストのオーダーメイド真空チャック",
+    "url": "https://www.morishin.com/about/merit.html",
+    "pass": 1
+   },
+   {
+    "quote": "モリシン工業では積極的に試作をお請けしております",
+    "url": "https://www.morishin.com/about/merit.html",
+    "pass": 1
+   },
+   {
+    "quote": "一品物のオーダーメイド品から量産品まで対応可能",
+    "url": "https://www.morishin.com/about/merit.html",
+    "pass": 1
+   },
+   {
+    "quote": "「まずは試作品を評価したい」というお客様には、",
+    "url": "https://www.morishin.com/about/merit.html",
+    "pass": 1
+   },
+   {
+    "quote": "を提示させて頂く場合があります（試作後に量産の可能性がある場合や、弊社の技術力アップに貢献できる可能性がある場合など）",
+    "url": "https://www.morishin.com/about/merit.html",
+    "pass": 1
+   },
+   {
+    "quote": "「まずは試作品を作って評価してみたい」というご要望は大歓迎です",
+    "url": "https://www.morishin.com/about/merit.html",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のご要望に沿ったオーダーメイドのアルミハニカムパネルを１品から製作することが可能",
+    "url": "https://www.morishin.com/about/structure.html",
+    "pass": 1
+   },
+   {
+    "quote": "A3003(A5052は特注)",
+    "url": "https://www.morishin.com/about/structure.html",
+    "pass": 1
+   },
+   {
+    "quote": "「まずは試作品を作って評価してみたい」というご要望は大歓迎です",
+    "url": "https://www.morishin.com/about/structure.html",
+    "pass": 1
+   },
+   {
+    "quote": "「まずは試作品を作って評価してみたい」というご要望は大歓迎です",
+    "url": "https://www.morishin.com/about/data.html",
+    "pass": 1
+   },
+   {
+    "quote": "1品からオーダーメイド製作が可能です",
+    "url": "https://www.morishin.com/case/case011.html",
+    "pass": 1
+   },
+   {
+    "quote": "特注で1/8inchや3/16inchなども対応可能です",
+    "url": "https://www.morishin.com/case/case011.html",
+    "pass": 1
+   },
+   {
+    "quote": "「まずは試作品を作って評価してみたい」というご要望は大歓迎です",
+    "url": "https://www.morishin.com/case/case011.html",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "中央自動車道 中津川ＩＣから約50分",
+    "url": "https://www.morishin.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "モリシン工業はこれまで人工衛星やロケットなどの航空宇宙分野、生産装置や冶具などの設備分野、オーダーメイド家具・インテリア分野など、様々な分野における軽量化やコストダウンに貢献してまいりました",
+    "url": "https://www.morishin.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、航空・宇宙、自動車・車両、印刷機、液晶、半導体、太陽電池、医療機器、生産設備、建材、家具・インテリアなど様々な分野で採用されています",
+    "url": "https://www.morishin.com/about/entrance.html",
+    "pass": 1
+   },
+   {
+    "quote": "アルミハニカムパネルは、およそ70年前にイギリスで航空機の軽量化を目的に開発されました",
+    "url": "https://www.morishin.com/about/entrance.html",
+    "pass": 1
+   },
+   {
+    "quote": "例えば、面板をSUS430にすることで磁石がが付く仕様にしたり、CFRP板にして航空宇宙素材にしたり、面材に吸着穴を加工することで真空チャックの仕様にしたり、面材を光輝板にすることで反射鏡の仕様にできたりします",
+    "url": "https://www.morishin.com/about/structure.html",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "■ 御見積のご依頼、無料サンプルのご依頼、その他のお問い合わせは「",
+    "url": "https://www.morishin.com/about/",
+    "pass": 1
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "プラスチック（樹脂）製ハニカムパネル＜商品名：テクセル＞",
+    "url": "https://www.morishin.com/case/",
+    "pass": 1
+   },
+   {
+    "quote": "これらの部材は、「材質」、「寸法」、「加工」、「表面処理」など豊富なオプションの中から自由に選択し組合せることができますので、",
+    "url": "https://www.morishin.com/about/structure.html",
+    "pass": 1
+   },
+   {
+    "quote": "例えば、面板をSUS430にすることで磁石がが付く仕様にしたり、CFRP板にして航空宇宙素材にしたり、面材に吸着穴を加工することで真空チャックの仕様にしたり、面材を光輝板にすることで反射鏡の仕様にできたりします",
+    "url": "https://www.morishin.com/about/structure.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRP板を使用したハニカムパネルの製作実績もあります",
+    "url": "https://www.morishin.com/about/structure.html",
+    "pass": 1
+   },
+   {
+    "quote": "複合材料であるアルミハニカムパネルを理論的にモデル化し、CAEを活用することで、様々なパターンの寸法、支持方法、荷重の範囲・大きさの下で解析ができるようになりました",
+    "url": "https://www.morishin.com/about/data.html",
+    "pass": 1
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "モリシン工業は40年以上にわたり培ってきた専門メーカーとしての設計・製造に関する独自のノウハウを有しており、アルミハニカムパネルの特性を最大限に発揮した製品を製造することが可能です",
+    "url": "https://www.morishin.com/about/merit.html",
+    "pass": 1
+   },
+   {
+    "quote": "など、これまで様々な形の製品を製作してきた実績があります",
+    "url": "https://www.morishin.com/about/merit.html",
+    "pass": 1
+   },
+   {
+    "quote": "アルミハニカムコアはセルサイズの大きさ（いわゆる目の粗さ）によって基本的に4種類のラインナップがあります",
+    "url": "https://www.morishin.com/about/data.html",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.morishin.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morishin.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morishin.com/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morishin.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morishin.com/case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morishin.com/introduction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morishin.com/about/entrance.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morishin.com/about/merit.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morishin.com/about/structure.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morishin.com/about/data.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morishin.com/case/case011.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morishin.com/case/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://systemcreate-inc.co.jp/products/moiron_top",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://morishin.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morishin-industries.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://marushin-kk.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.morishin-uekiya.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "モリシン工業 本社 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.morishin.com/",
+    "https://systemcreate-inc.co.jp/products/moiron_top",
+    "https://www.morishin.com/ms-tizu.htm",
+    "https://3d-moroto.com/prototype/",
+    "https://mono.ipros.com/company/detail/389122/catalog/",
+    "http://www.moriyoshi-k.com/index.html",
+    "http://www.morishin.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "モリシン工業 本社 会社概要 事業内容",
+   "results": [
+    "http://morishin.jp/business/",
+    "https://www.morishin-industries.com/about",
+    "https://www.morishin.com/company/",
+    "https://www.mory.co.jp/content/company/outline/",
+    "https://www.morishin.com/",
+    "http://www.morishin.jp/",
+    "https://www.mory.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "モリシン工業 本社 お問い合わせ メール",
+   "results": [
+    "https://www.morishin.com/contact/",
+    "https://marushin-kk.co.jp/contact/",
+    "https://www.morishin-uekiya.co.jp/contact/",
+    "https://www.mory.co.jp/contact/",
+    "https://www.mory.co.jp/content/contact/",
+    "https://www.moririn.co.jp/contact",
+    "https://www.atengineer.com/pr/morishin/inquiry/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com モリシン工業 本社",
+   "results": [
+    "https://note.com/morito_official/n/n92eee4136c75",
+    "https://note.com/sangyo_web/n/na8e78c1581b7",
+    "https://note.com/hirotsuchida/n/n5816fd1f68b9",
+    "https://note.com/pocoa_420/n/ne8e862cc5b91",
+    "https://note.com/taishinkogyo/n/n636498889b1e",
+    "https://note.com/taishinkogyo/n/n333cc84d5c83",
+    "https://note.com/taishinkogyo/n/n3ee958450183"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com モリシン工業 本社",
+   "results": [
+    "https://x.com/morishin1975/status/2064664720620311039",
+    "https://x.com/morishintakaoka",
+    "https://x.com/morishin1975",
+    "https://x.com/39morishin",
+    "https://x.com/morishin1975/status/2099149498660606293",
+    "https://x.com/morishin1975/status/2096169958397108697",
+    "https://x.com/morishin1975/status/2102576578500940225"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com モリシン工業 本社",
+   "results": [
+    "https://jp.linkedin.com/in/真一郎-森-930469137",
+    "https://www.linkedin.com/pub/dir/真一郎/森",
+    "https://www.linkedin.com/company/kashing-industrial-co-ltd/",
+    "https://ch.linkedin.com/in/alexander-pieper-4526a33b",
+    "https://uk.linkedin.com/jobs/view/arts-and-culture-correspondent-at-the-guardian-4482854726",
+    "https://co.linkedin.com/in/catalina-lobo-guerrero-correa-10821666",
+    "https://jp.linkedin.com/company/モリリン（株）"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com モリシン工業 本社",
+   "results": [
+    "https://secure.facebook.com/login/",
+    "https://lite.facebook.com/",
+    "https://secure.facebook.com/",
+    "https://www.facebook.com/shinji.morita.morishin/",
+    "https://www.facebook.com/モリ工業株-806842249357757/",
+    "https://www.facebook.com/p/モトワールドモリシン-100032786757311/",
+    "https://www.facebook.com/morimachinery/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "モリシン工業 本社 note 社長",
+   "results": [
+    "https://www.morishin.com/company/",
+    "https://www.mory.co.jp/content/company/outline/",
+    "https://compalyze.co.jp/company/3200001025923",
+    "https://compalyze.co.jp/company/5080001027402",
+    "http://www.morishin.jp/company/",
+    "https://www.mory.co.jp/content/company/message/",
+    "https://www.moririn.co.jp/company/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "モリシン工業 本社 X 投稿",
+   "results": [
+    "https://www.morishin.com/company/",
+    "https://www.ipros.com/en/company/detail/389122/",
+    "https://mono.ipros.com/en/company/detail/389122/",
+    "https://x.com/morishintakaoka",
+    "https://x.com/moric0314/status/2119643606369833030",
+    "https://www.mory.co.jp/",
+    "http://www.morishin.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部5頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部5頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部5頁・検索9回）",
+  "AM関連": "記載なし（3回確認済み：公式12頁／PDF・画像0件／外部5頁・検索9回）"
+ }
+}

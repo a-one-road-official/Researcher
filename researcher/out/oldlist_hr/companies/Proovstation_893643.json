@@ -1,0 +1,1164 @@
+{
+ "name": "Proovstation",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜返信あり",
+ "researched_at": "2026-11-11T11:08:43.789250+00:00",
+ "official_url": "https://www.proovstation.com",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：1989",
+    "url": "https://proovstation.com/about",
+    "pass": 1
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue",
+    "value": "50M€",
+    "url": "https://proovstation.com/about",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Paris region",
+    "url": "https://proovstation.com/about",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "ProovStation | Automated AI-Powered Vehicle Inspection",
+    "url": "https://proovstation.com",
+    "pass": 1
+   },
+   {
+    "quote": "A proper walkaround takes minutes per vehicle. Multiplied by your volumes, that is hours taken from everything else, and quality that depends on who is on shift.",
+    "url": "https://proovstation.com",
+    "pass": 1
+   },
+   {
+    "quote": "One more layer of precision.",
+    "url": "https://proovstation.com",
+    "pass": 1
+   },
+   {
+    "quote": "The raw scan is not always enough. Findings get verified, repair costs estimated, faces blurred for GDPR compliance, and commercial opportunities surfaced.",
+    "url": "https://proovstation.com",
+    "pass": 1
+   },
+   {
+    "quote": "Each scan becomes a complete, time-stamped record of the vehicle's condition. Pull up any report from the ProovStation Platform, or have it land straight inside the tools your team already uses.",
+    "url": "https://proovstation.com",
+    "pass": 1
+   },
+   {
+    "quote": "ProovStation Platform",
+    "url": "https://proovstation.com",
+    "pass": 1
+   },
+   {
+    "quote": "200+ 4K images captured in a single pass. Every damage detected, localized, measured and labelized. Comparison against the previous scan isolates what appeared since the last pass.",
+    "url": "https://proovstation.com",
+    "pass": 1
+   },
+   {
+    "quote": "The ProovStation Platform",
+    "url": "https://proovstation.com",
+    "pass": 1
+   },
+   {
+    "quote": "13 Apr 2026 → 17 Apr 2026",
+    "url": "https://proovstation.com",
+    "pass": 1
+   },
+   {
+    "quote": "You are missing sales opportunities because your inspection process is manual and inconsistent.",
+    "url": "https://proovstation.com",
+    "pass": 1
+   },
+   {
+    "quote": "ProovStation for dealers",
+    "url": "https://proovstation.com",
+    "pass": 1
+   },
+   {
+    "quote": "ProovStation for rental companies",
+    "url": "https://proovstation.com",
+    "pass": 1
+   },
+   {
+    "quote": "ProovStation for fleets",
+    "url": "https://proovstation.com",
+    "pass": 1
+   },
+   {
+    "quote": "TireStation plus training, commercial and financial animations = +47% in tire sales.",
+    "url": "https://proovstation.com",
+    "pass": 1
+   },
+   {
+    "quote": "Fifteen countries, one process.",
+    "url": "https://proovstation.com",
+    "pass": 1
+   },
+   {
+    "quote": "A 30-minute call to understand your workflow and see how ProovStation fits into your environment.",
+    "url": "https://proovstation.com",
+    "pass": 1
+   },
+   {
+    "quote": "Customers | ProovStation",
+    "url": "https://proovstation.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "For each case: the problem it started from, what we installed, and what it returned.",
+    "url": "https://proovstation.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Integrated through the ProovStation API. Once the aftersales transaction is registered in the ERP, the service adviser is notified.",
+    "url": "https://proovstation.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "The adviser confirms the tread depth with the customer and presents the tire offer straight away.",
+    "url": "https://proovstation.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Printed and digital, time-stamped, handed to the customer at reception.",
+    "url": "https://proovstation.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Printed and digital, time-stamped. The proof is in the customer's hand before the conversation starts.",
+    "url": "https://proovstation.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "From manual tire checks to data-driven profit in less than six months.",
+    "url": "https://proovstation.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Printed and digital, time-stamped, attached to the customer record in real time.",
+    "url": "https://proovstation.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Printed and digital, time-stamped. Alignment evidence in the customer's hand at reception.",
+    "url": "https://proovstation.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Site visits, customer interviews and walk-throughs from across the network. The full ProovStation video catalogue on our YouTube channel.",
+    "url": "https://proovstation.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Open @proovstation on YouTube",
+    "url": "https://proovstation.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "A 30-minute call to understand your workflow and see how ProovStation fits into your environment.",
+    "url": "https://proovstation.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "ProovStation for dealers | Every customer leaves with the full picture",
+    "url": "https://proovstation.com/industries/dealers",
+    "pass": 1
+   },
+   {
+    "quote": "Service advisors receive the car at drop-off, but between paperwork and the next customer waiting, there's no time for a proper walk-around. Damages go unflagged, and no repair quote is offered.",
+    "url": "https://proovstation.com/industries/dealers",
+    "pass": 1
+   },
+   {
+    "quote": "ProovStation logs every finding on every drive-in. Compared to what was sold, the conversion rate and missed opportunities become visible by category.",
+    "url": "https://proovstation.com/industries/dealers",
+    "pass": 1
+   },
+   {
+    "quote": "The machine provides factual results; our tire sales jumped 25%.",
+    "url": "https://proovstation.com/industries/dealers",
+    "pass": 1
+   },
+   {
+    "quote": "A 30-minute call to understand your workflow and see how ProovStation fits into your environment.",
+    "url": "https://proovstation.com/industries/dealers",
+    "pass": 1
+   },
+   {
+    "quote": "Vehicle inspection for car rental | ProovStation",
+    "url": "https://proovstation.com/industries/rental",
+    "pass": 1
+   },
+   {
+    "quote": "Nobody records anything. The customer protects themselves.",
+    "url": "https://proovstation.com/industries/rental",
+    "pass": 1
+   },
+   {
+    "quote": "The customer drives off with a paper slip, or with a \"come back if there is a problem\". So they walk around the car with their phone and take their own photos, just in case. At return, every scratch turns into one word against another.",
+    "url": "https://proovstation.com/industries/rental",
+    "pass": 1
+   },
+   {
+    "quote": "Manual walk-arounds, phone photos, paperwork, liability discussions, for every single rotation. Each site does it slightly differently. HQ reporting is a Friday-afternoon spreadsheet exercise.",
+    "url": "https://proovstation.com/industries/rental",
+    "pass": 1
+   },
+   {
+    "quote": "Spent inspecting, and a different process on every site",
+    "url": "https://proovstation.com/industries/rental",
+    "pass": 1
+   },
+   {
+    "quote": "Hundreds of hours back. One process across every site.",
+    "url": "https://proovstation.com/industries/rental",
+    "pass": 1
+   },
+   {
+    "quote": "countries, the same automated process everywhere",
+    "url": "https://proovstation.com/industries/rental",
+    "pass": 1
+   },
+   {
+    "quote": "Damages absorbed. Invoices unpaid. Insurance underpriced.",
+    "url": "https://proovstation.com/industries/rental",
+    "pass": 1
+   },
+   {
+    "quote": "Body damages slip through manual checks. Of those caught, fewer get billed, and fewer still get paid because evidence packs get rejected. Insurance upsell relies on a pitch instead of proof.",
+    "url": "https://proovstation.com/industries/rental",
+    "pass": 1
+   },
+   {
+    "quote": "A 30-minute call to understand your workflow and see how ProovStation fits into your environment.",
+    "url": "https://proovstation.com/industries/rental",
+    "pass": 1
+   },
+   {
+    "quote": "ProovStation for fleet operators | Own your fleet condition data",
+    "url": "https://proovstation.com/industries/fleet",
+    "pass": 1
+   },
+   {
+    "quote": "Asset value protected",
+    "url": "https://proovstation.com/industries/fleet",
+    "pass": 1
+   },
+   {
+    "quote": "Drivers report issues late, mechanics catch wear at the next service, and worn treads hit the road in between. A vehicle that should be off the road keeps rolling. The liability sits with the fleet.",
+    "url": "https://proovstation.com/industries/fleet",
+    "pass": 1
+   },
+   {
+    "quote": "On every pass, TireStation reads tread depth and CarStation flags critical body damage. Either signal grounds the vehicle: pulled from rotation until repaired. Drivers stay safe, the fleet stays compliant, the audit trail proves it.",
+    "url": "https://proovstation.com/industries/fleet",
+    "pass": 1
+   },
+   {
+    "quote": "Fleet condition lives in spreadsheets.",
+    "url": "https://proovstation.com/industries/fleet",
+    "pass": 1
+   },
+   {
+    "quote": "A 30-minute call to understand your workflow and see how ProovStation fits into your environment.",
+    "url": "https://proovstation.com/industries/fleet",
+    "pass": 1
+   },
+   {
+    "quote": "ProovStation reads a vehicle the way an industrial process inspects a part: exhaustively, objectively, every time the same way. A drive-through captures the full state of the body, the tires, the geometry. An AI trained on millions of real vehicles classifies, locates and grades every finding. A timestamped record lands in the operator's stack within seconds.",
+    "url": "https://proovstation.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Founded on the conviction that vehicle inspection deserves the same rigor as the most demanding industrial processes. From day one, the same team has designed the scanners, trained the AI, and operated the network behind every vehicle we read.",
+    "url": "https://proovstation.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "From the steel of the scanner to the AI in the cloud, everything is designed, produced and operated by the same group. For you, that means one point of contact when something goes wrong, and one team accountable for the result.",
+    "url": "https://proovstation.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "The result is built-in reliability, technological sovereignty, and stations engineered for industrial lifespan rather than product cycles.",
+    "url": "https://proovstation.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Every ProovStation station ever deployed has been produced on Atermes' industrial site in central France. Same line, same standards, same lifespan.",
+    "url": "https://proovstation.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "PROOVSTATION × ATERMES",
+    "url": "https://proovstation.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Atermes has manufactured every ProovStation station produced to date. In 2026, after eight years of industrial partnership, ProovStation became a full part of the Atermes group.",
+    "url": "https://proovstation.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Atermes is a French high-technology industrial group active in defense, industry and advanced technologies. The same engineering culture that delivers mission-critical hardware to worldwide industrial programs is what builds, ships and supports the ProovStation network.",
+    "url": "https://proovstation.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "The ProovStation inspection AI is trained exclusively on vehicles scanned in operational conditions: dealer service lanes, rental branches and parking facilities, logistics yards, fleet workshops. Not on lab footage, not on synthetic data.",
+    "url": "https://proovstation.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial production",
+    "url": "https://proovstation.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Dealerships, rental, fleets, logistics, remarketing.",
+    "url": "https://proovstation.com/about",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Every car that passes through your site is inspected in real time, with no action required from your team. Body condition, tire wear, geometry: a complete assessment is generated on the spot. We can also read the undercarriage.",
+    "url": "https://proovstation.com",
+    "pass": 1
+   },
+   {
+    "quote": "Body + tires + geometry + undercarriage",
+    "url": "https://proovstation.com",
+    "pass": 1
+   },
+   {
+    "quote": "Full-term warranty plus 7/7 support and maintenance. The lane stays live, always.",
+    "url": "https://proovstation.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "From guess-work to 360° data: +40% revenue and zero disputes in six months.",
+    "url": "https://proovstation.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Full-term warranty plus 7/7 support and maintenance. Zero burden on the workshop.",
+    "url": "https://proovstation.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "×4 wheel-alignment revenue in six months with 3-second tire scans.",
+    "url": "https://proovstation.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Full-term warranty plus 7/7 support and maintenance.",
+    "url": "https://proovstation.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Additional revenue from tires & alignment",
+    "url": "https://proovstation.com/industries/dealers",
+    "pass": 1
+   },
+   {
+    "quote": "Estimate in two minutes the damage revenue you recover with documented returns.",
+    "url": "https://proovstation.com/industries/rental",
+    "pass": 1
+   },
+   {
+    "quote": "Every station is watched around the clock, 24/7. We see failures before you do and step in without you having to call. Updates arrive remotely, with nothing asked of you.",
+    "url": "https://proovstation.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Part of the Atermes group.",
+    "url": "https://proovstation.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Atermes has manufactured every ProovStation station produced to date. In 2026, after eight years of industrial partnership, ProovStation became a full part of the Atermes group.",
+    "url": "https://proovstation.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "French startup unveils three AI-driven inspection stations with retailer Carrefour.",
+    "url": "https://blogs.nvidia.com/blog/proovstation-gpu-ai-appraisals/",
+    "pass": 3
+   },
+   {
+    "quote": "It recently launched three of its state-of-the-art vehicle inspection scanners at French retail giant Carrefour’s Montesson, Vénissieux and Aix-en-Provence locations. The ProovStation drive-thru vehicle scanners are deployed at Carrefour parking lots for drivers to pull in to experience the free service.",
+    "url": "https://blogs.nvidia.com/blog/proovstation-gpu-ai-appraisals/",
+    "pass": 3
+   },
+   {
+    "quote": "Quarry & Crushing Plant",
+    "url": "https://highways.today/2023/01/16/proovstation-tirestation/",
+    "pass": 3
+   },
+   {
+    "quote": "John Deere Doubles Parts Warranty as Repair Choice Expands",
+    "url": "https://highways.today/2023/01/16/proovstation-tirestation/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan’s Nittetsu Mining Targets Autonomous Quarry Haulage by 2033",
+    "url": "https://highways.today/2023/01/16/proovstation-tirestation/",
+    "pass": 3
+   },
+   {
+    "quote": "Bentley Expands Seismic Interpretation Capabilities with Eliis Acquisition",
+    "url": "https://highways.today/2023/01/16/proovstation-tirestation/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by leading rental operators and airport hubs.",
+    "url": "https://proovstation.com/industries/rental",
+    "pass": 1
+   },
+   {
+    "quote": "ProovStation for fleet operators | Own your fleet condition data",
+    "url": "https://proovstation.com/industries/fleet",
+    "pass": 1
+   },
+   {
+    "quote": "ProovStation reads a vehicle the way an industrial process inspects a part: exhaustively, objectively, every time the same way. A drive-through captures the full state of the body, the tires, the geometry. An AI trained on millions of real vehicles classifies, locates and grades every finding. A timestamped record lands in the operator's stack within seconds.",
+    "url": "https://proovstation.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Founded on the conviction that vehicle inspection deserves the same rigor as the most demanding industrial processes. From day one, the same team has designed the scanners, trained the AI, and operated the network behind every vehicle we read.",
+    "url": "https://proovstation.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Design, manufacturing, deployment, operations. All in-house.",
+    "url": "https://proovstation.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "The result is built-in reliability, technological sovereignty, and stations engineered for industrial lifespan rather than product cycles.",
+    "url": "https://proovstation.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Every ProovStation station ever deployed has been produced on Atermes' industrial site in central France. Same line, same standards, same lifespan.",
+    "url": "https://proovstation.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Atermes has manufactured every ProovStation station produced to date. In 2026, after eight years of industrial partnership, ProovStation became a full part of the Atermes group.",
+    "url": "https://proovstation.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Atermes is a French high-technology industrial group active in defense, industry and advanced technologies. The same engineering culture that delivers mission-critical hardware to worldwide industrial programs is what builds, ships and supports the ProovStation network.",
+    "url": "https://proovstation.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Industrial production",
+    "url": "https://proovstation.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Wherever a car, a van or a truck passes a control point, ProovStation records its condition. Dealer networks, short and long-term rental, fleet managers, logistics operators, remarketing, insurance.",
+    "url": "https://proovstation.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "ProovStation, European leader in AI-assisted vehicle inspection, and Michelin, a major tire manufacturer, have unveiled TireStation, a fully automated tire inspection solution.",
+    "url": "https://proovstation.com/blog/ces-2023-michelin-tirestation",
+    "pass": 3
+   },
+   {
+    "quote": "French industrial group Atermes acquires ProovStation to build the global leader in AI-powered vehicle inspection",
+    "url": "https://proovstation.com/blog/ces-2023-michelin-tirestation",
+    "pass": 3
+   },
+   {
+    "quote": "ProovStation's original industrial partner for over 8 years becomes its shareholder, bringing the full value chain of automated vehicle inspection under one roof.",
+    "url": "https://proovstation.com/blog/ces-2023-michelin-tirestation",
+    "pass": 3
+   },
+   {
+    "quote": "The setup enables ProovStation to run inference for the quick vehicle analysis turnarounds on this groundbreaking industrial",
+    "url": "https://blogs.nvidia.com/blog/proovstation-gpu-ai-appraisals/",
+    "pass": 3
+   },
+   {
+    "quote": "Creating an ‘AI Super Factory’ for Damage Datasets",
+    "url": "https://blogs.nvidia.com/blog/proovstation-gpu-ai-appraisals/",
+    "pass": 3
+   },
+   {
+    "quote": "ProovStation has a team of 10 experts in its AI Super Factory dedicated to labeling data with its own specialized software. They have processed more than 2 million images with labels so far, defining a taxonomy of more than 100 types of damages and more than 100 types of parts.",
+    "url": "https://blogs.nvidia.com/blog/proovstation-gpu-ai-appraisals/",
+    "pass": 3
+   },
+   {
+    "quote": "Delivering Data Collection With NVIDIA Industrial Edge AI",
+    "url": "https://blogs.nvidia.com/blog/proovstation-gpu-ai-appraisals/",
+    "pass": 3
+   },
+   {
+    "quote": "“All of the automotive industry is inspecting cars to provide services — to sell you new tires, to repair your car or windshield, it always starts with an inspection,” said Tissandier.",
+    "url": "https://blogs.nvidia.com/blog/proovstation-gpu-ai-appraisals/",
+    "pass": 3
+   },
+   {
+    "quote": "Asphalt Plant & Paving",
+    "url": "https://highways.today/2023/01/16/proovstation-tirestation/",
+    "pass": 3
+   },
+   {
+    "quote": "Quarry & Crushing Plant",
+    "url": "https://highways.today/2023/01/16/proovstation-tirestation/",
+    "pass": 3
+   },
+   {
+    "quote": "Smart Manufacturing News",
+    "url": "https://highways.today/2023/01/16/proovstation-tirestation/",
+    "pass": 3
+   },
+   {
+    "quote": "Mips and Koroyd Expand Impact Protection from Motorcycle Helmets to Industrial Safety",
+    "url": "https://highways.today/2023/01/16/proovstation-tirestation/",
+    "pass": 3
+   },
+   {
+    "quote": ", Europe’s leading provider of AI-powered car inspection, and MICHELIN, a leading tire manufacturer in sustainable mobility, unveiled TireStation, the fast and reliable solution for automated tire inspection.",
+    "url": "https://highways.today/2023/01/16/proovstation-tirestation/",
+    "pass": 3
+   },
+   {
+    "quote": "Today, more than 130 stations equipped with the MICHELIN QuickScan solution are being installed for automotive factories (for end-of-line quality control), logistics companies, short- and long-term rental companies and reconditioning plants.",
+    "url": "https://highways.today/2023/01/16/proovstation-tirestation/",
+    "pass": 3
+   },
+   {
+    "quote": "“In the future, tire inspection will be mostly digital and automated. For the first time, MICHELIN QuickScan technology is available in an integrated solution for the automotive after-sales. TireStation is proof of a fruitful and complementary mix of expertise between MICHELIN and ProovStation”.",
+    "url": "https://highways.today/2023/01/16/proovstation-tirestation/",
+    "pass": 3
+   },
+   {
+    "quote": "UK Plant Expo 2027",
+    "url": "https://highways.today/2023/01/16/proovstation-tirestation/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "ミシュラン、自動車専用360度スキャナーを提供する仏ProovStationと提携 - 日本経済新聞",
+    "url": "https://www.nikkei.com/article/DGXLRSP610014_R10C21A5000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ミシュラン（日本法人:日本ミシュランタイヤ株式会社、本社:東京都新宿区、代表取締役社長:須藤 元、以下「ミシュラン」）は自動車専用360度スキャナーを提供するProovStation（本社:フランス、「プルーブステーション」）と提携し、自動車両点検ソリューションを強化します",
+    "url": "https://www.nikkei.com/article/DGXLRSP610014_R10C21A5000000/",
+    "pass": 3
+   },
+   {
+    "quote": "COP31、日本展示館で資源循環を訴求 JFEエンジ・LIXIL",
+    "url": "https://www.nikkei.com/article/DGXLRSP610014_R10C21A5000000/",
+    "pass": 3
+   },
+   {
+    "quote": "日本経済新聞の編集者が選んだ押さえておきたい「ニュース５本」をお届けします",
+    "url": "https://www.nikkei.com/article/DGXLRSP610014_R10C21A5000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ミシュラン（日本法人：日本ミシュランタイヤ株式会社、本社：東京都新宿区、代表取締役社⻑：須藤 元、以下「ミシュラン」）は自動車専用360度スキャナーを提供するProovStation（本社：フランス、「プルーブステーション」）と提携し、自動車両点検ソリューションを強化します",
+    "url": "https://news.michelin.co.jp/articles/michelin-partners-with-france-proov-station-which-provides-360-degree-scanners-for-automobiles",
+    "pass": 3
+   },
+   {
+    "quote": "ミシュラン、⾃動⾞専用360度スキャナーを提供する 仏ProovStation（プルーブステーション）と提携 - AUTO BILD JAPAN Web（アウトビルトジャパンウェブ） 世界最大級のクルマ情報サイト",
+    "url": "https://autobild.jp/7824/",
+    "pass": 3
+   },
+   {
+    "quote": "Text/Movie/Photo：日本ミシュランタイヤ株式会社",
+    "url": "https://autobild.jp/7824/",
+    "pass": 3
+   },
+   {
+    "quote": "ミシュラン、車両点検全体を30分から1分未満に短縮――自動車両点検ソリューションを強化 | BSRweb | 株式会社プロトリオス - PROTO-RIOS INC.",
+    "url": "https://bsrweb.jp/article/000314?srsltid=AYCX9vJHOAU-R3NIUZe5oJeiuGZi74WsIdhAolPknJIu0X62eaNEPGYq",
+    "pass": 3
+   },
+   {
+    "quote": "Japan’s Nittetsu Mining Targets Autonomous Quarry Haulage by 2033",
+    "url": "https://highways.today/2023/01/16/proovstation-tirestation/",
+    "pass": 3
+   },
+   {
+    "quote": "📅 2 - 4 Dec 2026 • Japan",
+    "url": "https://highways.today/2023/01/16/proovstation-tirestation/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "自動車専用360度スキャナーを提供する仏 ProovStation と提携 — 自動車専用360度スキャナーを提供する仏 ProovStation と提携 日本経済新聞 https://www.nikkei.com > article",
+    "url": "https://www.nikkei.com/article/DGXLRSP610014_R10C21A5000000/",
+    "pass": 3
+   },
+   {
+    "quote": "ProovStation and Michelin unveil TireStation at CES 2023 — ProovStation and Michelin unveil TireStation at CES 2023 ProovStation https://proovstation.com > blog > ces-...",
+    "url": "https://proovstation.com/blog/ces-2023-michelin-tirestation",
+    "pass": 3
+   },
+   {
+    "quote": "ProovStation Delivers GPU-Driven AI Appraisals - NVIDIA Blog — ProovStation Delivers GPU-Driven AI Appraisals - NVIDIA Blog NVIDIA Blog https://blogs.nvidia.com > blog > pro...",
+    "url": "https://blogs.nvidia.com/blog/proovstation-gpu-ai-appraisals/",
+    "pass": 3
+   },
+   {
+    "quote": "ProovStation - LinkedIn — ProovStation - LinkedIn LinkedIn https://fr.linkedin.com > proovstation",
+    "url": "https://fr.linkedin.com/company/proovstation",
+    "pass": 3
+   },
+   {
+    "quote": "ProovStation and MICHELIN unveil TireStation Magnetic Tire ... — ProovStation and MICHELIN unveil TireStation Magnetic Tire ... Highways Today https://highways.today > 2023/01/16",
+    "url": "https://highways.today/2023/01/16/proovstation-tirestation/",
+    "pass": 3
+   },
+   {
+    "quote": "Customers - ProovStation — Customers - ProovStation ProovStation https://proovstation.com > case-studies",
+    "url": "https://proovstation.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "proovstation_atermes_press_rel... — proovstation_atermes_press_rel... LinkedIn https://www.linkedin.com > posts > pr...",
+    "url": "https://www.linkedin.com/posts/proovstation_proovstationatermespressrelease-activity-7450813207033860096-4-7H",
+    "pass": 3
+   },
+   {
+    "quote": "ProovStation - Crunchbase Company Profile & Funding — ProovStation - Crunchbase Company Profile & Funding Crunchbase https://www.crunchbase.com > proov...",
+    "url": "https://www.crunchbase.com/organization/proov-station",
+    "pass": 3
+   },
+   {
+    "quote": "ProovStation - LinkedIn — ProovStation - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/proovstation",
+    "pass": 3
+   },
+   {
+    "quote": "ProovStation - 2026 Company Profile & Team - Tracxn — ProovStation - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/proovstation/__df-vuiuxcVtzJ3BILxA31cqJU8gdSHiIAqMi3BQNeG4",
+    "pass": 3
+   },
+   {
+    "quote": "About - ProovStation — About - ProovStation ProovStation https://proovstation.com > about",
+    "url": "https://proovstation.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "ProovStation 2026 Company Profile - PitchBook — ProovStation 2026 Company Profile - PitchBook PitchBook https://pitchbook.com > company",
+    "url": "https://pitchbook.com/profiles/company/267793-30",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Contact us to list your events on Highways.Today",
+    "url": "https://highways.today/2023/01/16/proovstation-tirestation/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "ProovStation - LinkedIn ProovStation - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/proovstation",
+    "pass": 3
+   },
+   {
+    "quote": "proovstation_atermes_press_rel... proovstation_atermes_press_rel... LinkedIn https://www.linkedin.com > posts > pr...",
+    "url": "https://www.linkedin.com/posts/proovstation_proovstationatermespressrelease-activity-7450813207033860096-4-7H",
+    "pass": 3
+   },
+   {
+    "quote": "#automotive #ai #carinspection #innovation # proovstation #automotive #ai #carinspection #innovation # proovstation LinkedIn https://www.linkedin.com > posts > pr...",
+    "url": "https://www.linkedin.com/posts/proovstation_automotive-ai-carinspection-activity-7416875985171730432--PB9",
+    "pass": 3
+   },
+   {
+    "quote": "Gabriel Tissandier - CEO @ ProovStation - LinkedIn Gabriel Tissandier - CEO @ ProovStation - LinkedIn LinkedIn https://fr.linkedin.com > gabrieltissan...",
+    "url": "https://fr.linkedin.com/in/gabrieltissandier",
+    "pass": 3
+   },
+   {
+    "quote": "ProovStation - LinkedIn ProovStation - LinkedIn LinkedIn https://fr.linkedin.com > proovstation",
+    "url": "https://fr.linkedin.com/company/proovstation",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "ProovStation - Facebook ProovStation - Facebook Facebook https://www.facebook.com > ... > Automotive Service",
+    "url": "https://www.facebook.com/ProovStation/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://proovstation.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://proovstation.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://proovstation.com/industries/dealers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://proovstation.com/industries/rental",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://proovstation.com/industries/fleet",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://proovstation.com/about",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://proovstation.com/_next/image?url=%2Fcustomers%20page%2FBMW%20Avignon%20sept%202019%20(08).jpg&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://proovstation.com/_next/image?url=%2Fcustomers%20page%2Fdrouin_automobiles.jpg&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://proovstation.com/_next/image?url=%2Fcustomers%20page%2FEspace-H_Strasbourg-4638-min.jpg&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://proovstation.com/_next/image?url=%2Flogos%20clients%2FSixt-Logo.jpg&w=828&q=75",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.nikkei.com/article/DGXLRSP610014_R10C21A5000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.michelin.co.jp/articles/michelin-partners-with-france-proov-station-which-provides-360-degree-scanners-for-automobiles",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dcross.impress.co.jp/docs/usecase/002413.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://autobild.jp/7824/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://news.michelin.co.jp/articles/michelin-partners-with-france-proov-station-which-provides-360-degree-scanners-for-automobiles",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nikkei.com/article/DGXLRSP610014_R10C21A5000000/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bsrweb.jp/article/000314?srsltid=AYCX9vJHOAU-R3NIUZe5oJeiuGZi74WsIdhAolPknJIu0X62eaNEPGYq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.manageengine.jp/pace/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://proovstation.com/blog/ces-2023-michelin-tirestation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blogs.nvidia.com/blog/proovstation-gpu-ai-appraisals/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://fr.linkedin.com/company/proovstation",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://highways.today/2023/01/16/proovstation-tirestation/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJjR_4e2had7-y-7K3omV0gDJMAFnaDz_54XwHigfowj7w2ArQO",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://proovstation.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/proovstation_proovstationatermespressrelease-activity-7450813207033860096-4-7H",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.fergusonindustrial.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/proov-station",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/proovstation",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://tracxn.com/d/companies/proovstation/__df-vuiuxcVtzJ3BILxA31cqJU8gdSHiIAqMi3BQNeG4",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://proovstation.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/proovstation",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/proovstation_proovstationatermespressrelease-activity-7450813207033860096-4-7H",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/proovstation_automotive-ai-carinspection-activity-7416875985171730432--PB9",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fr.linkedin.com/in/gabrieltissandier",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ProovStation/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fr.linkedin.com/in/gabrieltissandier",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://fr.linkedin.com/company/proovstation",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Proovstation 日本 導入",
+   "results": [
+    "https://www.nikkei.com/article/DGXLRSP610014_R10C21A5000000/",
+    "https://news.michelin.co.jp/articles/michelin-partners-with-france-proov-station-which-provides-360-degree-scanners-for-automobiles",
+    "https://dcross.impress.co.jp/docs/usecase/002413.html",
+    "https://autobild.jp/7824/",
+    "https://bsrweb.jp/article/000314?srsltid=AYCX9vIziH3zM5_AWq6P6bZO0kKB3TF64IjYRWolgeDoGPpNAv2sHxGU",
+    "https://www.stellantis.jp/",
+    "https://www.webcg.net/articles/-/54501",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://proovstation.com/",
+    "https://autobild.jp/tag/proovstation/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "Proovstation 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://news.michelin.co.jp/articles/michelin-partners-with-france-proov-station-which-provides-360-degree-scanners-for-automobiles",
+    "https://www.nikkei.com/article/DGXLRSP610014_R10C21A5000000/",
+    "https://bsrweb.jp/article/000314?srsltid=AYCX9vJHOAU-R3NIUZe5oJeiuGZi74WsIdhAolPknJIu0X62eaNEPGYq",
+    "https://www.manageengine.jp/pace/",
+    "https://www.proface.com/ja/support/distributor",
+    "https://www.marubeni-automotive.co.jp/business/import/",
+    "https://www.famictech.com/ja/%E4%BC%9A%E7%A4%BE/%E4%BB%A3%E7%90%86%E5%BA%97%E3%81%BE%E3%81%9F%E3%81%AF%E5%86%8D%E8%B2%A9%E6%A5%AD%E8%80%85",
+    "https://www.seiho.or.jp/quality_result/list/",
+    "https://prtimes.jp/topics/keywords/%E6%97%A5%E6%9C%AC%E7%B7%8F%E4%BB%A3%E7%90%86%E5%BA%97",
+    "https://partner-prop.com/lab/partner-business/agency/256/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "Proovstation Japan",
+   "results": [
+    "https://proovstation.com/blog/ces-2023-michelin-tirestation",
+    "https://blogs.nvidia.com/blog/proovstation-gpu-ai-appraisals/",
+    "https://fr.linkedin.com/company/proovstation",
+    "https://highways.today/2023/01/16/proovstation-tirestation/",
+    "https://automated-vehicle-inspection.michelin.com/solutions/vehicle-inspection/",
+    "https://www.nikkei.com/article/DGXLRSP610014_R10C21A5000000/",
+    "https://www.tyrepress.com/2021/04/car-compatible-michelin-quickscan-enhancing-proovstation-solution/",
+    "https://www.designboom.com/technology/proovstation-scanner-car-inspection-02-17-2020/",
+    "https://autobild.jp/7824/",
+    "https://proovstation.com/about"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Proovstation manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vJjR_4e2had7-y-7K3omV0gDJMAFnaDz_54XwHigfowj7w2ArQO",
+    "https://proovstation.com/case-studies",
+    "https://www.linkedin.com/posts/proovstation_proovstationatermespressrelease-activity-7450813207033860096-4-7H",
+    "https://www.fergusonindustrial.com/case-studies/",
+    "https://fulminoussoftware.com/case-studies-of-successful-manufacturing-businesses-lessons-learned",
+    "https://www.focusedonmachining.com/customer-case-studies",
+    "https://www.manufacturingsuccess.org/case-studies",
+    "https://blogs.sw.siemens.com/tecnomatix/category/customer-success-story/",
+    "https://fourjaw.com/tell-your-manufacturing-story",
+    "https://www.youtube.com/watch?v=gGA2xesewP4"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Proovstation white label OR reseller OR partner program",
+   "results": [
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://synthflow.ai/blog/white-label-reseller",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://content.platfio.com/blog/software-reseller-programs-worth-joining-2026",
+    "https://www.nuwebgroup.com/blog/entrepreneur/everything-you-need-to-know-about-white-label-reseller-programs",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Proovstation founded funding employees revenue",
+   "results": [
+    "https://www.crunchbase.com/organization/proov-station",
+    "https://www.linkedin.com/company/proovstation",
+    "https://tracxn.com/d/companies/proovstation/__df-vuiuxcVtzJ3BILxA31cqJU8gdSHiIAqMi3BQNeG4",
+    "https://proovstation.com/about",
+    "https://pitchbook.com/profiles/company/267793-30",
+    "https://www.businesswire.com/news/home/20230126005107/en/ProovStation-Raises-10.4-Million-Euros-to-Deploy-the-First-Network-of-AI-assisted-Testing-Stations-for-the-Sale-of-Used-Vehicles",
+    "https://www.futureofworknews.com/topics/futureofwork/articles/454792-frances-proovstation-receives-funding-instant-ai-based-vehicle.htm",
+    "https://tech.eu/2023/01/25/proovstation-raises-eur104-million-continues-to-scan-for-damage/",
+    "https://www.fleeteurope.com/en/remarketing/europe/news/proovstation-instant-vehicle-scan-technology-receives-eu104-m-funding"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:note.com Proovstation",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Proovstation",
+   "results": [
+    "https://x.com/ProovOnSolana",
+    "https://help.x.com/en/using-x/download-the-x-app",
+    "https://help.x.com/en/using-x",
+    "https://x.com/SamsProStation/status/2110058512369717672",
+    "https://x.com/SamsProStation/status/2118508036734190014",
+    "https://x.com/SamsProStation/status/2108758934831964306",
+    "https://x.com/SamsProStation/status/2115482522792435804"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Proovstation",
+   "results": [
+    "https://www.linkedin.com/company/proovstation",
+    "https://www.linkedin.com/posts/proovstation_proovstationatermespressrelease-activity-7450813207033860096-4-7H",
+    "https://www.linkedin.com/posts/proovstation_automotive-ai-carinspection-activity-7416875985171730432--PB9",
+    "https://fr.linkedin.com/in/gabrieltissandier",
+    "https://www.linkedin.com/posts/proovstation_automotive-ai-carinspection-activity-7503739045261451265-3PJm",
+    "https://www.linkedin.com/posts/proovstation_automotive-ai-carinspection-activity-7506276428859187200-Rfb1",
+    "https://www.linkedin.com/posts/proovstation_proovstation-atermes-ai-activity-7450813207033860096-sg3g",
+    "https://fr.linkedin.com/in/williambalas/en",
+    "https://www.linkedin.com/posts/proovstation_automotive-ai-tireinspection-activity-7508808733569982464-7QSq",
+    "https://uk.linkedin.com/company/proovstation"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com Proovstation",
+   "results": [
+    "https://www.facebook.com/ProovStation/",
+    "https://www.facebook.com/GrandVitrolles/posts/-%C3%A9venenement-carrefour-grand-vitrolles-vous-donne-rendez-vous-avec-proovstation-/6689451494445423/",
+    "https://www.facebook.com/lesarcadessaintjean/posts/vendez-votre-v%C3%A9hicule-au-centre-commercial-les-arcades-proovstation-vous-facilit/815113400627452/",
+    "https://www.facebook.com/ElscopeVision/posts/to-be-the-global-leader-in-ai-inspection-vehiclein-latest-conversation-our-ceo-j/880627908305106/",
+    "https://www.facebook.com/RepRogerWilliams/posts/yesterday-i-visited-uveye-technology-in-fort-worth-texasuveye-is-an-ai-powered-v/1577996607023808/",
+    "https://www.facebook.com/GrandVitrolles/photos/vendez-votre-voiture-en-quelques-minutes-votre-centre-commercial-vous-facilite/6715202851870287/",
+    "https://www.facebook.com/autobodynews/posts/mahas-maia-inspection-robot-moves-around-a-stationary-vehicle-to-perform-ai-assi/1594120839394962/",
+    "https://www.facebook.com/CFORadio.Tv/posts/interview%EF%B8%8Fanton-komyza-cfa-cfo-et-cofondateur-de-proovstation-nous-livre-son-exp/550035645826140/",
+    "https://www.facebook.com/groups/522226848875471/posts/1402194824211998/",
+    "https://www.facebook.com/ProovStation-659819867782100/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Proovstation note 社長",
+   "results": [
+    "https://note.com/currentmotor/n/n55269bab9f05",
+    "https://fr.linkedin.com/in/gabrieltissandier",
+    "https://www.nikkei.com/article/DGXLRSP610014_R10C21A5000000/",
+    "https://news.michelin.co.jp/articles/michelin-partners-with-france-proov-station-which-provides-360-degree-scanners-for-automobiles",
+    "https://note.com/efalcon_ceo",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://note.com/noriokuriyama",
+    "https://global.nissannews.com/ja-JP/videos/video-259837253002",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Proovstation X 投稿",
+   "results": [
+    "https://proovstation.com/",
+    "https://blogs.nvidia.com/blog/proovstation-gpu-ai-appraisals/",
+    "https://fr.linkedin.com/company/proovstation",
+    "https://www.repairerdrivennews.com/2020/01/28/proovstation-ai-vehicle-inspection-stations-coming-to-europe-uveye-works-with-oems/",
+    "https://www.youtube.com/watch?v=DbyK3YMLHvQ",
+    "https://studio3615.com/en/projets/proovstation/",
+    "https://www.designboom.com/technology/proovstation-scanner-car-inspection-02-17-2020/",
+    "https://proovstation.com/industries/dealers",
+    "https://mobilityintelligence.michelin.com/en/products/automated-tire-inspection/",
+    "https://x.com/ProovStation"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "株主": "記載なし（3回確認済み：公式6頁／PDF・画像4件／外部31頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式6頁／PDF・画像4件／外部31頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式6頁／PDF・画像4件／外部31頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式6頁／PDF・画像4件／外部31頁・検索12回）"
+ }
+}

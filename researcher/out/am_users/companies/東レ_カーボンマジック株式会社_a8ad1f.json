@@ -1,0 +1,1799 @@
+{
+ "name": "東レ・カーボンマジック株式会社",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T10:40:03.639815+00:00",
+ "official_url": "https://www.carbonmagic.com",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表取締役社長",
+    "value": "奥 明栄",
+    "url": "https://www.carbonmagic.com/aboutus/abo_01.html",
+    "pass": 1
+   },
+   {
+    "label": "代表取締役社長",
+    "value": "竹本 秀博",
+    "url": "https://www.carbonmagic.com/aboutus/abo_01.html",
+    "pass": 1
+   },
+   {
+    "label": "代表取締役社長",
+    "value": "奥 明栄",
+    "url": "https://www.carbonmagic.com/fresh/about.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "220名",
+    "url": "https://www.carbonmagic.com/aboutus/abo_01.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "300名",
+    "url": "https://www.carbonmagic.com/aboutus/abo_01.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "約200名",
+    "url": "https://www.carbonmagic.com/fresh/about.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "約110名",
+    "url": "https://www.carbonmagic.com/fresh/about.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "約40名",
+    "url": "https://www.carbonmagic.com/fresh/about.html",
+    "pass": 1
+   },
+   {
+    "label": "(6)従業員数",
+    "value": "65名",
+    "url": "https://www.toray.co.jp/news/article.html?contentId=71zpkvmx",
+    "pass": 3
+   },
+   {
+    "label": "(6)従業員数",
+    "value": "70名",
+    "url": "https://www.toray.co.jp/news/article.html?contentId=71zpkvmx",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒521-0023 滋賀県米原市三吉215-1 Tel : 0749-54-2828 （代表）　Fax : 0749-54-0600 アクセス",
+    "url": "https://www.carbonmagic.com/aboutus/abo_01.html",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒222-0033 神奈川県横浜市港北区新横浜2丁目4-19 相鉄新横浜ビル8F 802号室 アクセス",
+    "url": "https://www.carbonmagic.com/aboutus/abo_01.html",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒412-0048　静岡県御殿場市板妻11番地の5 Tel : 0550-89-7010 Fax : 0550-89-8081 アクセス",
+    "url": "https://www.carbonmagic.com/aboutus/abo_01.html",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "100 Moo 1 Tambol Boung, Amphur Sriracha, Chonburi 20230 Thailand アクセス",
+    "url": "https://www.carbonmagic.com/aboutus/abo_01.html",
+    "pass": 1
+   },
+   {
+    "label": "東レ株式会社（本社",
+    "value": "東京都中央区、社長：日覺昭廣、以下「東レ」）はこのたび、自動車用途をはじめとする炭素繊維複合材料事業の拡大を図るため、レーシングカーの設計・製作を通じて自動車業界から高い評価を得ている童夢グループから、2013年4月に株式会社童夢カーボンマジック（本社：滋賀県米原市、社長：奥明栄、以下「DCM」）の全株式を取得し、100%子会社化することに合意しました",
+    "url": "https://www.toray.co.jp/news/article.html?contentId=71zpkvmx",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "炭素繊維複合材料を使ったカーボンコンポジット製品の設計・解析を含む試作と製造",
+    "url": "https://www.carbonmagic.com/aboutus/abo_01.html",
+    "pass": 1
+   },
+   {
+    "label": "事業所名",
+    "value": "東レ・カーボンマジック株式会社 新横浜ベース",
+    "url": "https://www.carbonmagic.com/aboutus/abo_01.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "モビリティー開発・空力開発・高機能工業製品開発",
+    "url": "https://www.carbonmagic.com/aboutus/abo_01.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "カーボンコンポジット製品の量産、及び関連する生産技術の開発",
+    "url": "https://www.carbonmagic.com/aboutus/abo_01.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "炭素繊維複合材料を使ったカーボンコンポジット製品の設計・解析を含む試作と製造",
+    "url": "https://www.carbonmagic.com/fresh/about.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "カーボンコンポジット製品の生産、及び関連する生産技術の開発",
+    "url": "https://www.carbonmagic.com/fresh/about.html",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "カーボンコンポジット製品の企画・設計・開発",
+    "url": "https://www.carbonmagic.com/fresh/about.html",
+    "pass": 1
+   },
+   {
+    "label": "(1)事業内容",
+    "value": "炭素繊維複合材料製部品および付属品の設計・製造",
+    "url": "https://www.toray.co.jp/news/article.html?contentId=71zpkvmx",
+    "pass": 3
+   },
+   {
+    "label": "(1)事業内容",
+    "value": "炭素繊維複合材料製部品および付属品の製造",
+    "url": "https://www.toray.co.jp/news/article.html?contentId=71zpkvmx",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "CFRPを含む複合材（コンポジット）製品の設計･解析から試作･量産のことまで、お気軽にご相談ください",
+    "url": "https://www.carbonmagic.com/",
+    "pass": 1
+   },
+   {
+    "quote": "私たち東レ・カーボンマジックが生み出している製品の一部をご紹介します",
+    "url": "https://www.carbonmagic.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "長年の開発で培ったコンポジット製品の製造、設計技術をベースに、東レの持つ素材開発技術と融合し、世の中にない、新しい製品を開発、製造しています",
+    "url": "https://www.carbonmagic.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPを含む複合材（コンポジット）製品の設計･解析から試作･量産のことまで、お気軽にご相談ください",
+    "url": "https://www.carbonmagic.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "炭素繊維複合材料を使ったカーボンコンポジット製品の設計・解析を含む試作と製造",
+    "url": "https://www.carbonmagic.com/aboutus/abo_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "モビリティー開発・空力開発・高機能工業製品開発",
+    "url": "https://www.carbonmagic.com/aboutus/abo_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "設計・解析から試作・量産まで、最適な一気通貫体制でお客様と共に複合材料の製品化を実現します",
+    "url": "https://www.carbonmagic.com/aboutus/abo_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "カーボンコンポジット製品ができるまでの製造工程と最新鋭の設備機器をご紹介します",
+    "url": "https://www.carbonmagic.com/aboutus/abo_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "カーボンコンポジット製品の量産、及び関連する生産技術の開発",
+    "url": "https://www.carbonmagic.com/aboutus/abo_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPを含む複合材（コンポジット）製品の設計･解析から試作･量産のことまで、お気軽にご相談ください",
+    "url": "https://www.carbonmagic.com/aboutus/abo_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙産業における特殊工程や製品に対する国際的認証『Nadcap』を取得",
+    "url": "https://www.carbonmagic.com/aboutus/abo_05.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPを含む複合材（コンポジット）製品の設計･解析から試作･量産のことまで、お気軽にご相談ください",
+    "url": "https://www.carbonmagic.com/aboutus/abo_05.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPを含む複合材（コンポジット）製品の設計･解析から試作･量産のことまで、お気軽にご相談ください",
+    "url": "https://www.carbonmagic.com/aboutus/abo_06.html",
+    "pass": 1
+   },
+   {
+    "quote": "東レ・カーボンマジックでは日々の材料やコンポジット技術の調査・研究から、お客様のニーズに応えた企画・計画に始まり、設計や解析を経て、試作そして評価に至り試行錯誤や幾度かの改良を加えたのち、製品化を実現",
+    "url": "https://www.carbonmagic.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、これら一連の工程を一気通貫的に推進し、創造的で高性能な製品開発を迅速に完結することを目指しています",
+    "url": "https://www.carbonmagic.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動車関連に限らず、あらゆる分野の製品や構造物についてカーボンファイバーコンポジット(CFRP)の適用による効果を検証",
+    "url": "https://www.carbonmagic.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "全工程を社内で一貫して製作できる設備に加え、短期開発が常のレーシングカー開発で鍛えられ、独自に構築されたフレキシブルな試作体制で、より早く\"製品\"に到達できます",
+    "url": "https://www.carbonmagic.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPを含む複合材（コンポジット）製品の設計･解析から試作･量産のことまで、お気軽にご相談ください",
+    "url": "https://www.carbonmagic.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPを含む複合材（コンポジット）製品の設計･解析から試作･量産のことまで、お気軽にご相談ください",
+    "url": "https://www.carbonmagic.com/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "精密・複雑な部品から大きな構造物まで、製品化を実現させる設計・解析から試作・量産にわたる、東レ・カーボンマジックの特長をご紹介します",
+    "url": "https://www.carbonmagic.com/aboutus/abo_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "広範な開発に即応する研究・開発・製造設備とスタッフを有し、カーボンコンポジット製品の企画・設計から試作・評価・完成までのプロセスを社内で展開可能です",
+    "url": "https://www.carbonmagic.com/aboutus/abo_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "あらゆる開発対象製品の技術的要件・背景を理解した上で、カーボンコンポジット適用の妥当性を評価",
+    "url": "https://www.carbonmagic.com/aboutus/abo_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品実現に最も現実的なオートクレーブ成形法",
+    "url": "https://www.carbonmagic.com/aboutus/abo_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社が専門とするオートクレーブ成形法は、カーボンコンポジットの性能と信頼性を最も引き出せる製法であるものの、設備や手間がかかる高コスト製法と位置付けされてきましたが、独自の設計ノウハウと加工法の改善、タイ量産工場の活用により、製品実現に最も現実的な製法に引き下げています",
+    "url": "https://www.carbonmagic.com/aboutus/abo_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "材料置換・軽量化だけでは、コストアップとバランスしない製品も、カーボンコンポジットが持つ独特な特性を複合的に活用するノウハウと開発力で、製品化の実現を追求します",
+    "url": "https://www.carbonmagic.com/aboutus/abo_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "カーボンコンポジット（炭素繊維複合材料）だけで成り立つ製品は非常に限られます",
+    "url": "https://www.carbonmagic.com/aboutus/abo_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、金属や樹脂などさまざまな材料を適材適所に採用することにより、その製品の機能と性能、そしてコスト要件を効率よくクリアする",
+    "url": "https://www.carbonmagic.com/aboutus/abo_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "あらゆる製品に厳格な品質管理・保証体制システムを適用",
+    "url": "https://www.carbonmagic.com/aboutus/abo_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPを含む複合材（コンポジット）製品の設計･解析から試作･量産のことまで、お気軽にご相談ください",
+    "url": "https://www.carbonmagic.com/aboutus/abo_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "東レ・カーボンマジックの強みは、そのルーツであるレーシングカーや十数年に及ぶ用途開発、製品化実現から得た技術ノウハウとデータ、そして構想・設計から試作・量産まで、すべてのプロセスを短期一貫で推進する体制、加えて、東レが持つ材料や製法、解析や評価技術、そして品質保証に渡る広範な支援体制を活用した繊細かつ創造的な開発が展開できるところにあります",
+    "url": "https://www.carbonmagic.com/aboutus/abo_03.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPを含む複合材（コンポジット）製品の設計･解析から試作･量産のことまで、お気軽にご相談ください",
+    "url": "https://www.carbonmagic.com/aboutus/abo_03.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、長年のレーシングカー開発を通じて培った設計・開発技術と、東レが育んできた炭素繊維やコンポジット技術を巧みに融合させ、既成の概念に捉われない新しい価値を持つ、高性能・高機能な製品を創造しています",
+    "url": "https://www.carbonmagic.com/aboutus/abo_04.html",
+    "pass": 1
+   },
+   {
+    "quote": "これまで、自動車・航空機・ロボット・医療機器・スポーツ器具等さまざまな分野や用途の開発ニーズに対応し、新技術・新機軸を編み出し、独創的・革新的な製品を数多く実現してまいりました",
+    "url": "https://www.carbonmagic.com/aboutus/abo_04.html",
+    "pass": 1
+   },
+   {
+    "quote": "「炭素繊維」の性能や特長を最大限に引き出す革新的な「ものづくり」を実践し、高い品質の製品・サービスを提供します",
+    "url": "https://www.carbonmagic.com/aboutus/abo_04.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPを含む複合材（コンポジット）製品の設計･解析から試作･量産のことまで、お気軽にご相談ください",
+    "url": "https://www.carbonmagic.com/aboutus/abo_04.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRP製品開発では初期構想→設計・解析→製品化のフローが最重要",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPの特徴は〝軽くて強い″ことと説明しましたが、実際の製品開発においては、ただ軽さと強さだけが理由で、CFRPが採用されるのではありません",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "この特性を生かすことで、自動車やモーターサイクルなどの振動減衰性が必要な用途においては、金属よりも優れた特性をもつ製品となります",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "その他にも、樹脂や金属材にはない、多くの特徴を生かすことで、軽くて強いだけではないCFRP製品が開発されています",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "“軽量化に加え、CFRPならではの特長を併せた製品が多数”",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品設計を推し進めるには、製法についても同時並行的に検討し、設計に織り込むことになります",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRP製品の開発は以下の様な流れで行われます",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "特に開発から量産に移行するには、製品設計・製法の完成度を極めて高く維持しないといけませんが、性能や品質・コスト要求を高い次元で満たす「最適な設計バランス」を探る設計・解析・試作・試験・評価のプロセスをいかに効率的に進めるかが重要です",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPの特長を最大限に引き出した高性能なコンポジット製品を生み出すには、開発に着手する以前の「構想」がその鍵を握っています",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPの3大設計要素である材料・製法・設計には、下図に示すように、それぞれ設計面で考慮すべき多くの課題が有りますが、開発や生産段階でのポイントも踏まえた、複合材ならではの特長を持たせた製品コンセプトを明確にすることで、最終的な製品の性能と品位の向上を図ります",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "高い強度を持たせるため、補強材である炭素繊維を使用するCFRP製品の場合、考慮しておかなければならないソリ変形の発生要因の1つ",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "“炭素繊維を用いたCFRP製品は、基材・製法が密接に関連する”",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、フェノール樹脂のような高耐熱樹脂を使用することで300℃以上でも使用できるCFRPもあり、当社では必要な耐熱性に応じた材料をラインナップしています",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "材料メーカー直下のCFRP成形メーカーの為、材料特性を極限まで引き出した製品・部品を開発することが可能です",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "弊社ではカタログ品はなく、お打ち合わせの上、型治具製作～製品製作まで実施いたします",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "01 秘匿性を保ちながら製品開発が可能",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "各工程ではコンポジット特有のノウハウが必要となり、お客様のニーズに最大限に応えた、高品質・高性能な製品を秘匿性を保ちながら、 開発・提供することを可能にしています",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "広範な開発に即応する研究・開発・製造設備とスタッフを有し、カーボンコンポジット製品の企画・設計から試作・評価・完成までのプロセスを社内で完結させています",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、お客様のニーズに応えた開発・製品化を支援します",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "カーボンコンポジット（炭素繊維複合材料）だけでは成り立たない製品も、機能・性能、コスト要件を効率よくクリアします",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "開発対象製品の技術的要件・背景を理解した上で、カーボンコンポジット適用の妥当性を評価します",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPは繊維と樹脂の組み合わせで構成され、多種多様なラインナップがあるため、これまでに蓄積された知見から最適なものを迅速に選定します",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "最新鋭のオートクレーブやカッティングマシン、ロボット加工機など、最新設備機器を装備し、同じ製品を安定して量産する環境を構築しています",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPを含む複合材（コンポジット）製品の設計･解析から試作･量産のことまで、お気軽にご相談ください",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "その炭素繊維と樹脂から構成されるのが炭素繊維複合材料（CFRP）製品です",
+    "url": "https://www.carbonmagic.com/process_facility.html",
+    "pass": 1
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "設計・解析、CFRP化ご検討など、",
+    "url": "https://www.carbonmagic.com/",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPを含む複合材（コンポジット）製品の設計･解析から試作･量産のことまで、お気軽にご相談ください",
+    "url": "https://www.carbonmagic.com/",
+    "pass": 1
+   },
+   {
+    "quote": "社内でのご検討用に実績などをまとめた会社案内やCFRP関連のダウンロード資料（PDF）です",
+    "url": "https://www.carbonmagic.com/",
+    "pass": 1
+   },
+   {
+    "quote": "ラッフルズ・ホテル・シンガポール「BODEGA」大型設備照明CFRP構造体",
+    "url": "https://www.carbonmagic.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "コンセプトEV「ItoP」CFRP製モノコック",
+    "url": "https://www.carbonmagic.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "コンセプトEV「ItoP」CFRP製ホイール",
+    "url": "https://www.carbonmagic.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "コンセプトEV「ItoP」CFRP製サスペンション",
+    "url": "https://www.carbonmagic.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "コンセプトEV「ItoP」CFRP製バッテリーパック",
+    "url": "https://www.carbonmagic.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "ウインチ型パワーアシストスーツ「WIN-1」CFRP製メインフレーム",
+    "url": "https://www.carbonmagic.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRP製西陣織チェア「HANAYAKA」",
+    "url": "https://www.carbonmagic.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "油圧ショベル CFRP製軽量アーム、ブーム",
+    "url": "https://www.carbonmagic.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "眼鏡・サングラスフレーム「CFRP-01」「F-01CFRP」",
+    "url": "https://www.carbonmagic.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "GT500クラス CFRP製共通モノコック",
+    "url": "https://www.carbonmagic.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "GT500クラス CFRP製共通スキッドブロック",
+    "url": "https://www.carbonmagic.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "液晶ガラス基板搬送用 CFRP製ロボットフォーク",
+    "url": "https://www.carbonmagic.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "X線診断装置 CFRP製 天板、ヘッドレスト",
+    "url": "https://www.carbonmagic.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRP製 パイプ、フォーク",
+    "url": "https://www.carbonmagic.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPを含む複合材（コンポジット）製品の設計･解析から試作･量産のことまで、お気軽にご相談ください",
+    "url": "https://www.carbonmagic.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "社内でのご検討用に実績などをまとめた会社案内やCFRP関連のダウンロード資料（PDF）です",
+    "url": "https://www.carbonmagic.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "東レ・カーボンマジックは長年のレーシングカー開発で培った軽量化設計技術とCFRP成形加工技術を駆使して、あらゆる部品や構造物のパフォーマンスを飛躍的に向上させます",
+    "url": "https://www.carbonmagic.com/aboutus/abo_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "炭素繊維複合材料を使ったカーボンコンポジット製品の設計・解析を含む試作と製造",
+    "url": "https://www.carbonmagic.com/aboutus/abo_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "「複合材成形工程認定（BAC5578）」",
+    "url": "https://www.carbonmagic.com/aboutus/abo_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "設計・解析から試作・量産まで、最適な一気通貫体制でお客様と共に複合材料の製品化を実現します",
+    "url": "https://www.carbonmagic.com/aboutus/abo_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPを含む複合材（コンポジット）製品の設計･解析から試作･量産のことまで、お気軽にご相談ください",
+    "url": "https://www.carbonmagic.com/aboutus/abo_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "社内でのご検討用に実績などをまとめた会社案内やCFRP関連のダウンロード資料（PDF）です",
+    "url": "https://www.carbonmagic.com/aboutus/abo_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPを含む複合材（コンポジット）製品の設計･解析から試作･量産のことまで、お気軽にご相談ください",
+    "url": "https://www.carbonmagic.com/aboutus/abo_05.html",
+    "pass": 1
+   },
+   {
+    "quote": "社内でのご検討用に実績などをまとめた会社案内やCFRP関連のダウンロード資料（PDF）です",
+    "url": "https://www.carbonmagic.com/aboutus/abo_05.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPを含む複合材（コンポジット）製品の設計･解析から試作･量産のことまで、お気軽にご相談ください",
+    "url": "https://www.carbonmagic.com/aboutus/abo_06.html",
+    "pass": 1
+   },
+   {
+    "quote": "社内でのご検討用に実績などをまとめた会社案内やCFRP関連のダウンロード資料（PDF）です",
+    "url": "https://www.carbonmagic.com/aboutus/abo_06.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動車関連に限らず、あらゆる分野の製品や構造物についてカーボンファイバーコンポジット(CFRP)の適用による効果を検証",
+    "url": "https://www.carbonmagic.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "カーボンファイバーコンポジット(CFRP)材料技術と構造解析技術を駆使した最適化設計で生み出される機能美に、スタイリングデザインのエッセンスを加え、調和のとれた完成度の高い\"ものづくり\"を実現します",
+    "url": "https://www.carbonmagic.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPを含む複合材（コンポジット）製品の設計･解析から試作･量産のことまで、お気軽にご相談ください",
+    "url": "https://www.carbonmagic.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "社内でのご検討用に実績などをまとめた会社案内やCFRP関連のダウンロード資料（PDF）です",
+    "url": "https://www.carbonmagic.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPを含む複合材（コンポジット）製品の設計･解析から試作･量産のことまで、お気軽にご相談ください",
+    "url": "https://www.carbonmagic.com/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "社内でのご検討用に実績などをまとめた会社案内やCFRP関連のダウンロード資料（PDF）です",
+    "url": "https://www.carbonmagic.com/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "F1やルマンカーを始めとした現代のレーシングマシンは、CFRPを始めとしたコンポジット（複合材）技術の集合体であります",
+    "url": "https://www.carbonmagic.com/aboutus/abo_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "東レ・カーボンマジックでは、これまでのレーシングカー開発で培った軽量化設計技術とCFRP成形加工技術を駆使して、あらゆる部品や構造物のパフォーマンスを飛躍的に向上させます",
+    "url": "https://www.carbonmagic.com/aboutus/abo_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属や樹脂などさまざまな材料を適材適所に採用",
+    "url": "https://www.carbonmagic.com/aboutus/abo_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "カーボンコンポジット（炭素繊維複合材料）だけで成り立つ製品は非常に限られます",
+    "url": "https://www.carbonmagic.com/aboutus/abo_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、金属や樹脂などさまざまな材料を適材適所に採用することにより、その製品の機能と性能、そしてコスト要件を効率よくクリアする",
+    "url": "https://www.carbonmagic.com/aboutus/abo_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "さらに特殊工程である「複合材料」において国際航空宇宙産業における特殊工程認証制度であるNadcapや、ボーイング社の「複合材成形工程認定」と「サプライヤー認定」を取得",
+    "url": "https://www.carbonmagic.com/aboutus/abo_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPを含む複合材（コンポジット）製品の設計･解析から試作･量産のことまで、お気軽にご相談ください",
+    "url": "https://www.carbonmagic.com/aboutus/abo_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "社内でのご検討用に実績などをまとめた会社案内やCFRP関連のダウンロード資料（PDF）です",
+    "url": "https://www.carbonmagic.com/aboutus/abo_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPを含む複合材（コンポジット）製品の設計･解析から試作･量産のことまで、お気軽にご相談ください",
+    "url": "https://www.carbonmagic.com/aboutus/abo_03.html",
+    "pass": 1
+   },
+   {
+    "quote": "社内でのご検討用に実績などをまとめた会社案内やCFRP関連のダウンロード資料（PDF）です",
+    "url": "https://www.carbonmagic.com/aboutus/abo_03.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、長年のレーシングカー開発を通じて培った設計・開発技術と、東レが育んできた炭素繊維やコンポジット技術を巧みに融合させ、既成の概念に捉われない新しい価値を持つ、高性能・高機能な製品を創造しています",
+    "url": "https://www.carbonmagic.com/aboutus/abo_04.html",
+    "pass": 1
+   },
+   {
+    "quote": "「炭素繊維」の性能や特長を最大限に引き出す革新的な「ものづくり」を実践し、高い品質の製品・サービスを提供します",
+    "url": "https://www.carbonmagic.com/aboutus/abo_04.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPを含む複合材（コンポジット）製品の設計･解析から試作･量産のことまで、お気軽にご相談ください",
+    "url": "https://www.carbonmagic.com/aboutus/abo_04.html",
+    "pass": 1
+   },
+   {
+    "quote": "社内でのご検討用に実績などをまとめた会社案内やCFRP関連のダウンロード資料（PDF）です",
+    "url": "https://www.carbonmagic.com/aboutus/abo_04.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPとは? 特徴や用途から成形方法の選び方まで詳しく解説",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPとは？ 特徴や用途から成形方法の選び方まで詳しく解説",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPとは、2つ以上の素材を組み合わせた複合材（コンポジット）の一種で、炭素繊維（カーボンファイバー）を強化材として加えたものをCFRP（Carbon Fiber Reinforced Plastics＝「炭素繊維で補強・強化されたプラスチック」の頭文字をとった略語）と呼びます",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "炭素繊維には、高剛性、高強度といった特徴以外に「導電性・耐熱性・低熱膨張率・自己潤滑性・X線透過性」といった特徴も兼ね備えており、それらの特徴を生かすことで軽量化・大型化・小型化・省エネ化などが期待でき、航空宇宙、自動車・バイク、スポーツ、医療、建築など、様々な用途で幅広く使われています",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRP製品開発では初期構想→設計・解析→製品化のフローが最重要",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPの成形時に使用される中間基材について",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPの特徴は何と言っても「軽くて・強くて・腐食しない」ことです",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPの大きな特徴の一つに、CFRPが異方性材料である点が挙げられます",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属やプラスチックは等方性材料ですが、CFRPは繊維と樹脂という性質の異なる材料の組み合わせであり、繊維の配向方向や材料種類を変えることで剛性や強度を変えることが出来ます",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属では製作不可能な部品形状を実現したり、複数の金属部品を統合した形状にできる等、CFRPならではの設計が可能です",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "“CFRPの特徴は「軽くて・強くて・腐食しない」こと”",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "CFRPを含む複合材（コンポジット）製品の設計･解析から試作･量産のことまで、お気軽にご相談ください",
+    "url": "https://www.carbonmagic.com/",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPを含む複合材（コンポジット）製品の設計･解析から試作･量産のことまで、お気軽にご相談ください",
+    "url": "https://www.carbonmagic.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動車・バイクをはじめ、航空・宇宙・ドローン、鉄道、産業機器、医療、スポーツ等、様々な分野の精密・複雑な部品や大きな構造物の設計・解析から試作・量産まで、何なりとご相談ください",
+    "url": "https://www.carbonmagic.com/aboutus/abo_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "炭素繊維複合材料を使ったカーボンコンポジット製品の設計・解析を含む試作と製造",
+    "url": "https://www.carbonmagic.com/aboutus/abo_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "設計・解析から試作・量産まで、最適な一気通貫体制でお客様と共に複合材料の製品化を実現します",
+    "url": "https://www.carbonmagic.com/aboutus/abo_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "量産工場のカーボンマジック・タイランドでは、少量から大量生産まで、多様なアイテムの生産に対応するフレキシブルな設備と体制を有しており、品質の安定とコストダウン、タイムリーな納入を実現します",
+    "url": "https://www.carbonmagic.com/aboutus/abo_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPを含む複合材（コンポジット）製品の設計･解析から試作･量産のことまで、お気軽にご相談ください",
+    "url": "https://www.carbonmagic.com/aboutus/abo_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPを含む複合材（コンポジット）製品の設計･解析から試作･量産のことまで、お気軽にご相談ください",
+    "url": "https://www.carbonmagic.com/aboutus/abo_05.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPを含む複合材（コンポジット）製品の設計･解析から試作･量産のことまで、お気軽にご相談ください",
+    "url": "https://www.carbonmagic.com/aboutus/abo_06.html",
+    "pass": 1
+   },
+   {
+    "quote": "東レ・カーボンマジックでは日々の材料やコンポジット技術の調査・研究から、お客様のニーズに応えた企画・計画に始まり、設計や解析を経て、試作そして評価に至り試行錯誤や幾度かの改良を加えたのち、製品化を実現",
+    "url": "https://www.carbonmagic.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "全工程を社内で一貫して製作できる設備に加え、短期開発が常のレーシングカー開発で鍛えられ、独自に構築されたフレキシブルな試作体制で、より早く\"製品\"に到達できます",
+    "url": "https://www.carbonmagic.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "試作品の検査・評価も社内外の設備を活用し、様々な観点から適切な手法を用いて実施",
+    "url": "https://www.carbonmagic.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPを含む複合材（コンポジット）製品の設計･解析から試作･量産のことまで、お気軽にご相談ください",
+    "url": "https://www.carbonmagic.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPを含む複合材（コンポジット）製品の設計･解析から試作･量産のことまで、お気軽にご相談ください",
+    "url": "https://www.carbonmagic.com/aboutus.html",
+    "pass": 1
+   },
+   {
+    "quote": "精密・複雑な部品から大きな構造物まで、製品化を実現させる設計・解析から試作・量産にわたる、東レ・カーボンマジックの特長をご紹介します",
+    "url": "https://www.carbonmagic.com/aboutus/abo_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "広範な開発に即応する研究・開発・製造設備とスタッフを有し、カーボンコンポジット製品の企画・設計から試作・評価・完成までのプロセスを社内で展開可能です",
+    "url": "https://www.carbonmagic.com/aboutus/abo_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "短期開発はレーシングカー開発で鍛錬された設計・試作プロセスと小回りの良さを活かす得意技です",
+    "url": "https://www.carbonmagic.com/aboutus/abo_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "量産には試作と違った志向の体制と感覚が必要",
+    "url": "https://www.carbonmagic.com/aboutus/abo_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "試作が完了した開発品は、タイ量産工場（カーボンマジック・タイランド）へとバトンタッチされ、当社と同じ工法・手順を維持したうえで安定的・低コストの量産が可能です",
+    "url": "https://www.carbonmagic.com/aboutus/abo_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPを含む複合材（コンポジット）製品の設計･解析から試作･量産のことまで、お気軽にご相談ください",
+    "url": "https://www.carbonmagic.com/aboutus/abo_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "東レ・カーボンマジックの強みは、そのルーツであるレーシングカーや十数年に及ぶ用途開発、製品化実現から得た技術ノウハウとデータ、そして構想・設計から試作・量産まで、すべてのプロセスを短期一貫で推進する体制、加えて、東レが持つ材料や製法、解析や評価技術、そして品質保証に渡る広範な支援体制を活用した繊細かつ創造的な開発が展開できるところにあります",
+    "url": "https://www.carbonmagic.com/aboutus/abo_03.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPを含む複合材（コンポジット）製品の設計･解析から試作･量産のことまで、お気軽にご相談ください",
+    "url": "https://www.carbonmagic.com/aboutus/abo_03.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPを含む複合材（コンポジット）製品の設計･解析から試作･量産のことまで、お気軽にご相談ください",
+    "url": "https://www.carbonmagic.com/aboutus/abo_04.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPは金属材と同様に形状や使用材料の他、成形方法や積層設計といった複合材料特有の設計項目を追求するため、解析を行うことはもちろん、試作や試験評価のトライ＆エラーを行い、設計の最適バランスを追求します",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "特に開発から量産に移行するには、製品設計・製法の完成度を極めて高く維持しないといけませんが、性能や品質・コスト要求を高い次元で満たす「最適な設計バランス」を探る設計・解析・試作・試験・評価のプロセスをいかに効率的に進めるかが重要です",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "での成形品は部品単位で比較するとコストが高いイメージですが、多品種小ロット生産では逆にコスト的なメリットが出る事もあります",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "仕様等もオーダーメイドに近い形となり受注生産となります",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "仕様、生産条件をお聞きし、最低ロットは設定することになりますが、開発・試作段階での1個から対応可能です",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は検討段階でのご提案から設計、試作、製造、量産に至るまで、すべての工程を自社で完結させます",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "広範な開発に即応する研究・開発・製造設備とスタッフを有し、カーボンコンポジット製品の企画・設計から試作・評価・完成までのプロセスを社内で完結させています",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "試作が完了した開発品は量産工場（カーボンマジック・タイランド）へと引き継がれ、日本と同じ工法・手順を維持したうえで、継続的なコスト改善を推進しています",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPを含む複合材（コンポジット）製品の設計･解析から試作･量産のことまで、お気軽にご相談ください",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、企画・開発から設計、試作、製造、量産に至るまで、すべての工程を自社で完結させます",
+    "url": "https://www.carbonmagic.com/process_facility.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPを含む複合材（コンポジット）製品の設計･解析から試作･量産のことまで、お気軽にご相談ください",
+    "url": "https://www.carbonmagic.com/process_facility.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPを含む複合材（コンポジット）製品の設計･解析から試作･量産のことまで、お気軽にご相談ください",
+    "url": "https://www.carbonmagic.com/brochure.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPを含む複合材（コンポジット）製品の設計･解析から試作･量産のことまで、お気軽にご相談ください",
+    "url": "https://www.carbonmagic.com/brochure/bro_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPを含む複合材（コンポジット）製品の設計･解析から試作･量産のことまで、お気軽にご相談ください",
+    "url": "https://www.carbonmagic.com/brochure/bro_03.html",
+    "pass": 1
+   },
+   {
+    "quote": "炭素繊維複合材料を使ったカーボンコンポジット製品の設計・解析を含む試作と製造",
+    "url": "https://www.carbonmagic.com/fresh/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、設計の初期段階で問題点を洗い出して設計精度を向上させたり、試作回数を低減するため、開発の早期からCADやCAEを活用したコンカレントエンジニアリングをお客様と推進し、短期間での製品開発を行える開発体制を整えています",
+    "url": "https://www.carbonmagic.com/fresh/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "日本で試作・設計までを行い、タイで量産する体制を構築することで、お客様が求める複雑形状にも対応した設計体制と、低コストで量産できる製造体制を整えています",
+    "url": "https://www.carbonmagic.com/fresh/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "オートクレーブ製法は、形状自由度の高さだけではなく、型代が他製法に比べて安くすることができるなど、少量多品種で高性能な成形品に向いた成形法です",
+    "url": "https://www.carbonmagic.com/fresh/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "試作・量産まで、何なりとご相談ください",
+    "url": "https://mono.ipros.com/company/detail/2106962/",
+    "pass": 3
+   },
+   {
+    "quote": "■炭素繊維複合材料を使ったカーボンコンポジット製品の設計・解析を含む試作と製造",
+    "url": "https://mono.ipros.com/company/detail/2106962/",
+    "pass": 3
+   },
+   {
+    "quote": "カーボンコンポジット製品 試作・製造サービス",
+    "url": "https://mono.ipros.com/company/detail/2106962/",
+    "pass": 3
+   },
+   {
+    "quote": "東レグループの傘下に入って以降、TCMの優れた設計技術力とCMTHの量産コスト競争力に、当社の高品位材料競争力が加わったことで市場からの評価・期待が高まり、プレミアムカーや二輪バイクなどTCMが従来から得意とする分野だけでなく、航空機や列車、更には車椅子や義足といったライフイノベーション関連などの新規分野でも設計・試作・量産依頼が急増しています",
+    "url": "https://www.toray.co.jp/news/article.html?contentId=inb55hy7",
+    "pass": 3
+   },
+   {
+    "quote": "こうした市場からの要請に対応するため、TCMでは米原本社工場敷地に建屋を増築して試作・少量生産拠点としての機能を拡充します",
+    "url": "https://www.toray.co.jp/news/article.html?contentId=inb55hy7",
+    "pass": 3
+   },
+   {
+    "quote": "炭素繊維複合材料を使ったカーボンコンポジット製品の設計・解析を含む試作と製造、設計、試作から量産まで、すべてに対応する工程を保有しています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp221380/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "様々な分野の製品を設計開発、試作、製造、販売しています",
+    "url": "https://job.mynavi.jp/28/pc/search/corp221380/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "レーシング カー部品の設計・製作を通じて培った同社の設計技術力、試作提案力および高精度オートクレーブ生産技術は市場から高く評価されており、現在では自動車用途に留まらず、幅広い分野でＣＦＲＰ部品を数多く生みだしています",
+    "url": "https://www.toray.co.jp/news/article.html?contentId=71zpkvmx",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "自動車、航空・宇宙・ドローン、",
+    "url": "https://www.carbonmagic.com/",
+    "pass": 1
+   },
+   {
+    "quote": "鉄道、産業機械、医療機器、スポーツなど",
+    "url": "https://www.carbonmagic.com/",
+    "pass": 1
+   },
+   {
+    "quote": "適用範囲は飛行機や自動車だけにとどまりません",
+    "url": "https://www.carbonmagic.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "多目的消防ポンプ自動車「MVF」ハイルーフキャブ",
+    "url": "https://www.carbonmagic.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "災害救援物資輸送 ダクテッド・ファンUAV（無人航空機）",
+    "url": "https://www.carbonmagic.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "「TWR-300」ロボットワイヤーソーカバー",
+    "url": "https://www.carbonmagic.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "液晶ガラス基板搬送用 CFRP製ロボットフォーク",
+    "url": "https://www.carbonmagic.com/products.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動車・バイクをはじめ、航空・宇宙・ドローン、鉄道、産業機器、医療、スポーツ等、様々な分野の精密・複雑な部品や大きな構造物の設計・解析から試作・量産まで、何なりとご相談ください",
+    "url": "https://www.carbonmagic.com/aboutus/abo_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動車、航空宇宙、鉄道、産業、医療等、数多く実現したプロジェクトの一部をご紹介します",
+    "url": "https://www.carbonmagic.com/aboutus/abo_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙産業向けの品質マネジメントシステム規格『JIS Q 9100』の認証を取得",
+    "url": "https://www.carbonmagic.com/aboutus/abo_05.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙産業における特殊工程や製品に対する国際的認証『Nadcap』を取得",
+    "url": "https://www.carbonmagic.com/aboutus/abo_05.html",
+    "pass": 1
+   },
+   {
+    "quote": "名神高速道路から北陸自動車道に入ってすぐの米原I.C.を出て3分",
+    "url": "https://www.carbonmagic.com/aboutus/abo_06.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動車関連に限らず、あらゆる分野の製品や構造物についてカーボンファイバーコンポジット(CFRP)の適用による効果を検証",
+    "url": "https://www.carbonmagic.com/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "ISO 9001に加え、航空機部品製造に不可欠なJIS Q9100認証を取得",
+    "url": "https://www.carbonmagic.com/aboutus/abo_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "さらに特殊工程である「複合材料」において国際航空宇宙産業における特殊工程認証制度であるNadcapや、ボーイング社の「複合材成形工程認定」と「サプライヤー認定」を取得",
+    "url": "https://www.carbonmagic.com/aboutus/abo_02.html",
+    "pass": 1
+   },
+   {
+    "quote": "これまで、自動車・航空機・ロボット・医療機器・スポーツ器具等さまざまな分野や用途の開発ニーズに対応し、新技術・新機軸を編み出し、独創的・革新的な製品を数多く実現してまいりました",
+    "url": "https://www.carbonmagic.com/aboutus/abo_04.html",
+    "pass": 1
+   },
+   {
+    "quote": "炭素繊維には、高剛性、高強度といった特徴以外に「導電性・耐熱性・低熱膨張率・自己潤滑性・X線透過性」といった特徴も兼ね備えており、それらの特徴を生かすことで軽量化・大型化・小型化・省エネ化などが期待でき、航空宇宙、自動車・バイク、スポーツ、医療、建築など、様々な用途で幅広く使われています",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空・宇宙・UAV（無人航空機、ドローン）・エアモビリティ",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "その上、疲労強度に強い、耐薬品性に優れる、通常の熱的環境では安定といった様々な特性があり、スポーツ・レジャー用途や自動車・バイク、土木建築、産業機器などに採用されています",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙分野やレーシングカーといった厳しい条件下においても長年使用されている、信頼性の高い材料です",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "もともとはゴルフシャフトやテニスラケット、釣竿といったスポーツ・レジャー用品から採用が進んだCFRPですが、材料として優れた特徴を数多く保有していることから、現在では航空宇宙、自動車・バイク、産業機器、医療・介護・福祉、建築土木・インテリア、アトラクションなど、幅広い分野で活用されています",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、最近では軽量化が必要な大型・小型のUAV（無人航空機、ドローン）やエアモビリティ（空飛ぶクルマ、ホバーバイク）の実現など、先端技術分野にも積極的に採用が進んでいます",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "搬送用ロボット、板バネ、ロボットアーム、アシストスーツ",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "この特性を生かすことで、自動車やモーターサイクルなどの振動減衰性が必要な用途においては、金属よりも優れた特性をもつ製品となります",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "この特性は医療用途や計測機器の用途で生かされており、例えばレントゲン撮像装置では、CFRPの高いＸ線透過性を生かすことにより、撮影時の放射線量を減らすことで、被曝量を下げることを可能にしています",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社では宇宙分野での機体や建築分野でのCFRP構造体等の大型成形品を開発・製造した実績も多数ありますので、何なりとご相談ください",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "弊社ではカタログ品はなく、お打ち合わせの上、型治具製作～製品製作まで実施いたします",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "（航空宇宙、自動車、産業機器、他）",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "最新鋭のオートクレーブやカッティングマシン、ロボット加工機など、最新設備機器を装備し、同じ製品を安定して量産する環境を構築しています",
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "トリミング（ロボット、ハンド）",
+    "url": "https://www.carbonmagic.com/process_facility.html",
+    "pass": 1
+   },
+   {
+    "quote": "穴あけ（ロボット、ウォータージェット）",
+    "url": "https://www.carbonmagic.com/process_facility.html",
+    "pass": 1
+   },
+   {
+    "quote": "東レ・カーボンマジックでは、自動車用途や航空機用途をはじめ、カーボンコンポジットに合わせた塗装や表面処理を選択の上実施し、お客様にお届けしています",
+    "url": "https://www.carbonmagic.com/process_facility.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、ISO 9001のみならず、航空業界の品質管理要求であるJIS Q9100やNadcapを取得し、Boeing認証も受けており、様々な品質管理システムに対応、品質確保に努めています",
+    "url": "https://www.carbonmagic.com/process_facility.html",
+    "pass": 1
+   },
+   {
+    "quote": "（航空宇宙、自動車、産業機器、他）",
+    "url": "https://www.carbonmagic.com/brochure.html",
+    "pass": 1
+   },
+   {
+    "quote": "軽量化が求められる航空機、自動車用途はもちろん、",
+    "url": "https://www.carbonmagic.com/recruit/career.html",
+    "pass": 1
+   },
+   {
+    "quote": "開発支援事例集（航空宇宙、自動車、産業機器、ドローン、スポーツ、他）",
+    "url": "https://www.carbonmagic.com/brochure/bro_03.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙産業向けの品質マネジメントシステム規格『JIS Q 9100』の認証を取得",
+    "url": "https://www.carbonmagic.com/fresh/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙産業における特殊工程や製品に対する国際的認証『Nadcap』を取得",
+    "url": "https://www.carbonmagic.com/fresh/about.html",
+    "pass": 1
+   },
+   {
+    "quote": "適用範囲は飛行機や自動車だけにとどまりません",
+    "url": "https://www.carbonmagic.com/fresh/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "従来より取得しているJIS Q 9100(航空宇宙産業品質マネジメントシステム)も含めて、航空機向け部材の製造が可能な高度な品質管理体制を構築することで、他用途のカーボン製品においても、品質向上に寄与すると考えています",
+    "url": "https://www.carbonmagic.com/fresh/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "Nadcapは、米国のNPOであるPRI (Performance Review Institute)が審査機関として運営している、国際航空宇宙産業における特殊工程や製品に対する国際的な認証制度です",
+    "url": "https://www.carbonmagic.com/fresh/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "近年、農薬散布や無人配送等の産業分野で注目される無人ヘリコプターやドローン",
+    "url": "https://www.carbonmagic.com/fresh/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動車分野は飛行機と同様に、燃費規制の強化とともに構造部材の軽量化が求められている分野です",
+    "url": "https://www.carbonmagic.com/fresh/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "軽量、かつ高剛性であるカーボンコンポジットの特性を活かして、バンパー、リアスポイラー、自動車シートといった意匠性が要求される部品以外に、ルーフやボンネットなどの機能が要求される構造系部品にも適用の拡大が進んでいます",
+    "url": "https://www.carbonmagic.com/fresh/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "大きなバッテリーが必要な電気自動車が今後普及していくにつれ、車体の軽量化ニーズはますます高まっていくことが予想され、これらのニーズに的確に応え、高性能なコンポジット製品を今後も開発していきます",
+    "url": "https://www.carbonmagic.com/fresh/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "工場設備には自動車・バイクメーカーと同じ塗装設備を保有し、高品質なコンポジット成形品をお客様にご提供しています",
+    "url": "https://www.carbonmagic.com/fresh/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動車や飛行機と同様に、鉄道も例外ではなく、部材の軽量化が進められている分野であり、東レ・カーボンマジックでも開発を行っています",
+    "url": "https://www.carbonmagic.com/fresh/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療用途においてはこの特徴を生かし、レントゲンの撮像装置等にコンポジット成形品が多く適用されています",
+    "url": "https://www.carbonmagic.com/fresh/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "SUPER GTは自動車メーカーが威信をかけて競う日本最高峰のモータースポーツカテゴリーです",
+    "url": "https://www.carbonmagic.com/fresh/business.html",
+    "pass": 1
+   },
+   {
+    "quote": "その適用範囲は自動車や航空機用途だけではなく、鉄道や医療、福祉や土木など多岐に渡り、私たちの想像を超えて広がり続けています",
+    "url": "https://www.carbonmagic.com/fresh/career/info_003.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動車や飛行機の量産製品だけではなく、創造的なプロジェクトにも取り組み、積み上げてきた技術に、新たな知見を取り入れ、その本質をとらえて進化していく― これが当社のアイデンティティだと考えています",
+    "url": "https://www.carbonmagic.com/fresh/career/info_003.html",
+    "pass": 1
+   },
+   {
+    "quote": "自動車・バイクをはじめ、航空・宇宙・ドローン、鉄道、産業機器、医療、",
+    "url": "https://mono.ipros.com/company/detail/2106962/",
+    "pass": 3
+   },
+   {
+    "quote": "東レグループの傘下に入って以降、TCMの優れた設計技術力とCMTHの量産コスト競争力に、当社の高品位材料競争力が加わったことで市場からの評価・期待が高まり、プレミアムカーや二輪バイクなどTCMが従来から得意とする分野だけでなく、航空機や列車、更には車椅子や義足といったライフイノベーション関連などの新規分野でも設計・試作・量産依頼が急増しています",
+    "url": "https://www.toray.co.jp/news/article.html?contentId=inb55hy7",
+    "pass": 3
+   },
+   {
+    "quote": "東レグループでは、TCMをコンポジット事業の中核拠点として位置づけ、独Euro Advanced Carbon Fiber Composites GmbH(EACC)や米国Plasan Carbon Composites, Inc.(PCC)の海外拠点と連携して、自動車分野に留まらずCFRP部品の市場開拓・適用拡大を目指します",
+    "url": "https://www.toray.co.jp/news/article.html?contentId=inb55hy7",
+    "pass": 3
+   },
+   {
+    "quote": "レーシングカー、自動車関連、エアーモビリティ、宇宙関連、医療・福祉関連等様々な分野に事業を展開",
+    "url": "https://job.mynavi.jp/28/pc/search/corp221380/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙産業向けの品質マネジメントシステム規格",
+    "url": "https://job.mynavi.jp/28/pc/search/corp221380/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "航空宇宙産業における特殊工程や製品に対する国際的認証",
+    "url": "https://job.mynavi.jp/28/pc/search/corp221380/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東レ株式会社（本社：東京都中央区、社長：日覺昭廣、以下「東レ」）はこのたび、自動車用途をはじめとする炭素繊維複合材料事業の拡大を図るため、レーシングカーの設計・製作を通じて自動車業界から高い評価を得ている童夢グループから、2013年4月に株式会社童夢カーボンマジック（本社：滋賀県米原市、社長：奥明栄、以下「DCM」）の全株式を取得し、100%子会社化することに合意しました",
+    "url": "https://www.toray.co.jp/news/article.html?contentId=71zpkvmx",
+    "pass": 3
+   },
+   {
+    "quote": "レーシング カー部品の設計・製作を通じて培った同社の設計技術力、試作提案力および高精度オートクレーブ生産技術は市場から高く評価されており、現在では自動車用途に留まらず、幅広い分野でＣＦＲＰ部品を数多く生みだしています",
+    "url": "https://www.toray.co.jp/news/article.html?contentId=71zpkvmx",
+    "pass": 3
+   },
+   {
+    "quote": "東レは現在、名古屋事業場にある自動車・航空機分野向け総合技術開発拠点「A＆Aセンター(Automotive & Aircraft Center)」の中核施設である「アドバンスドコンポジットセンター」と「オート モーティブセンター」を中心に炭素繊維複合材料製品の設計・製造技術および製品開発を行っています",
+    "url": "https://www.toray.co.jp/news/article.html?contentId=71zpkvmx",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "100 Moo 1 Tambol Boung, Amphur Sriracha, Chonburi 20230 Thailand",
+    "url": "https://www.carbonmagic.com/aboutus/abo_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "100 Moo 1 Tambol Boung, Amphur Sriracha, Chonburi 20230 Thailand",
+    "url": "https://www.carbonmagic.com/aboutus/abo_06.html",
+    "pass": 1
+   },
+   {
+    "quote": "Toray Composites Materials America, Inc.",
+    "url": "https://www.toray.co.jp/news/article.html?contentId=inb55hy7",
+    "pass": 3
+   },
+   {
+    "quote": "Toray Plastics (America), Inc.",
+    "url": "https://www.toray.co.jp/news/article.html?contentId=inb55hy7",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "※送信後、ご入力頂いたメールアドレス宛にダウンロードURLを記載したメールをお送りしますので、リンク先より会社案内（PDF版）をダウンロード頂けます",
+    "url": "https://www.carbonmagic.com/brochure/bro_01.html",
+    "pass": 1
+   },
+   {
+    "quote": "※送信後、ご入力頂いたメールアドレス宛にダウンロードURLを記載したメールをお送りしますので、リンク先より事例集（PDF版）をダウンロード頂けます",
+    "url": "https://www.carbonmagic.com/brochure/bro_03.html",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "東レ ・ カーボンマジック 株式会社 — 東レ ・ カーボンマジック 株式会社 東レ･カーボンマジック株式会社 https://www.carbonmagic.com",
+    "url": "https://www.carbonmagic.com/",
+    "pass": 3
+   },
+   {
+    "quote": "東レ ・ カーボンマジック | 企業情報 | イプロスものづくり — 東レ ・ カーボンマジック | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > その他製造",
+    "url": "https://mono.ipros.com/company/detail/2106962/",
+    "pass": 3
+   },
+   {
+    "quote": "東レ ・ カーボンマジック に迫る - YouTube — 東レ ・ カーボンマジック に迫る - YouTube YouTube https://www.youtube.com > watch",
+    "url": "https://www.youtube.com/watch?v=jhuc1Cz_8YQ",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 企業情報 - 東レ･カーボンマジック株式会社 — 会社概要 | 企業情報 - 東レ･カーボンマジック株式会社 東レ･カーボンマジック株式会社 https://www.carbonmagic.com > 企業情報",
+    "url": "https://www.carbonmagic.com/aboutus/abo_01.html",
+    "pass": 3
+   },
+   {
+    "quote": "東レ ・ カーボンマジック (株) 【東レグループ】 - マイナビ2028 — 東レ ・ カーボンマジック (株) 【東レグループ】 - マイナビ2028 マイナビ https://job.mynavi.jp > search > corp221380 > outline",
+    "url": "https://job.mynavi.jp/28/pc/search/corp221380/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "東レ ・ カーボンマジック 株式 会社 — 東レ ・ カーボンマジック 株式 会社 東レ･カーボンマジック株式会社 https://www.carbonmagic.com",
+    "url": "https://www.carbonmagic.com/",
+    "pass": 3
+   },
+   {
+    "quote": "東レ ・ カーボンマジック 株式会社（滋賀県）の 会社概要 ・役員 — 東レ ・ カーボンマジック 株式会社（滋賀県）の 会社概要 ・役員 Compalyze https://compalyze.co.jp > 企業検索 > その他製造",
+    "url": "https://compalyze.co.jp/company/6160001007477",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせフォーム - 東レ･カーボンマジック株式会社 — お問い合わせフォーム - 東レ･カーボンマジック株式会社 東レ･カーボンマジック株式会社 https://www.carbonmagic.com > contact",
+    "url": "https://www.carbonmagic.com/contact.html",
+    "pass": 3
+   },
+   {
+    "quote": "採用に関する お問い合わせ - 東レ・カーボンマジック — 採用に関する お問い合わせ - 東レ・カーボンマジック 東レ･カーボンマジック株式会社 https://www.carbonmagic.com > 採用情報",
+    "url": "https://www.carbonmagic.com/recruit/contact.html",
+    "pass": 3
+   },
+   {
+    "quote": "東レ ・ カーボンマジック 株式会社様と資本提携致しました — 東レ ・ カーボンマジック 株式会社様と資本提携致しました 株式会社SCT https://sct-ltd.jp > archives",
+    "url": "https://sct-ltd.jp/archives/212",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ムーンクラフト、50年史に幕 東レ ・ カーボンマジック に吸収 ... ムーンクラフト、50年史に幕 東レ ・ カーボンマジック に吸収 ... X https://x.com > Trending",
+    "url": "https://x.com/i/trending/2036281030265508041",
+    "pass": 3
+   },
+   {
+    "quote": "世良 耕太 on X: \" 東レ ・ カーボンマジック の「仕事」を紹介 ... 世良 耕太 on X: \" 東レ ・ カーボンマジック の「仕事」を紹介 ... X https://x.com > @serakota",
+    "url": "https://x.com/serakota/status/2073683551732781303",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Hiroshi Kiyomoto - 東レ ・ カーボンマジック 株式会社 | LinkedIn Hiroshi Kiyomoto - 東レ ・ カーボンマジック 株式会社 | LinkedIn LinkedIn https://jp.linkedin.com > ...",
+    "url": "https://jp.linkedin.com/in/hiroshi-kiyomoto-92221a15b",
+    "pass": 3
+   },
+   {
+    "quote": "片岡 篤史 - 東レ ・ カーボンマジック 株式会社 - 研究開発責任者 片岡 篤史 - 東レ ・ カーボンマジック 株式会社 - 研究開発責任者 LinkedIn https://jp.linkedin.com > 篤史-片岡-27a1a0382",
+    "url": "https://jp.linkedin.com/in/%E7%AF%A4%E5%8F%B2-%E7%89%87%E5%B2%A1-27a1a0382",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "東レ ・ カーボンマジック 見学会で試乗させていただいた際の ... 東レ ・ カーボンマジック 見学会で試乗させていただいた際の ... Facebook https://www.facebook.com > ... > סרטונים",
+    "url": "https://www.facebook.com/HamamatsuCFRP/videos/%E6%9D%B1%E3%83%AC%E3%82%AB%E3%83%BC%E3%83%9C%E3%83%B3%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E8%A6%8B%E5%AD%A6%E4%BC%9A%E3%81%A7%E8%A9%A6%E4%B9%97%E3%81%95%E3%81%9B%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%84%E3%81%9F%E9%9A%9B%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%BB%E3%83%97%E3%83%88ev-itop%E3%81%AE%E8%BB%8A%E5%86%85%E3%81%8B%E3%82%89%E3%81%AE%E5%8B%95%E7%94%BB%E3%81%A7%E3%81%99/451324052653540/?locale=he_IL",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.carbonmagic.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carbonmagic.com/products.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carbonmagic.com/aboutus/abo_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carbonmagic.com/aboutus/abo_05.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carbonmagic.com/aboutus/abo_06.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carbonmagic.com/business.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carbonmagic.com/aboutus.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carbonmagic.com/aboutus/abo_02.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carbonmagic.com/aboutus/abo_03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carbonmagic.com/aboutus/abo_04.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carbonmagic.com/cfrp/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carbonmagic.com/process_facility.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carbonmagic.com/brochure.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carbonmagic.com/fresh.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carbonmagic.com/recruit/career.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carbonmagic.com/brochure/bro_01.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carbonmagic.com/brochure/bro_03.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carbonmagic.com/fresh/about.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carbonmagic.com/fresh/business.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carbonmagic.com/fresh/career.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.carbonmagic.com/fresh/career/info_003.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.carbonmagic.com/dcms_media/image/index_aboutus_thumb_01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.carbonmagic.com/dcms_media/image/abo_02_01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.carbonmagic.com/dcms_media/image/index_thumb_05.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/company/detail/2106962/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toray.co.jp/news/article.html?contentId=inb55hy7",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://job.mynavi.jp/28/pc/search/corp221380/outline.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.toray.co.jp/news/article.html?contentId=71zpkvmx",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.toray.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/i/trending/2036281030265508041",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/serakota/status/2073683551732781303",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/hiroshi-kiyomoto-92221a15b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/%E7%AF%A4%E5%8F%B2-%E7%89%87%E5%B2%A1-27a1a0382",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/HamamatsuCFRP/videos/%E6%9D%B1%E3%83%AC%E3%82%AB%E3%83%BC%E3%83%9C%E3%83%B3%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E8%A6%8B%E5%AD%A6%E4%BC%9A%E3%81%A7%E8%A9%A6%E4%B9%97%E3%81%95%E3%81%9B%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%84%E3%81%9F%E9%9A%9B%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%BB%E3%83%97%E3%83%88ev-itop%E3%81%AE%E8%BB%8A%E5%86%85%E3%81%8B%E3%82%89%E3%81%AE%E5%8B%95%E7%94%BB%E3%81%A7%E3%81%99/451324052653540/?locale=he_IL",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "東レ・カーボンマジック 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.carbonmagic.com/",
+    "https://mono.ipros.com/company/detail/2106962/",
+    "https://www.toray.co.jp/news/article.html?contentId=inb55hy7",
+    "https://www.youtube.com/watch?v=jhuc1Cz_8YQ",
+    "https://www.andrew.ac.jp/soken/assets/wr/DP_22.pdf",
+    "https://www.spexa.jp/tokyo/en-gb/search/2026/directory/directory-details.%E6%9D%B1%E3%83%AC%E3%82%AB%E3%83%BC%E3%83%9C%E3%83%B3%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%20%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE.org-f350ca99-a7be-451f-ae94-155ce664b23b.html",
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E3%83%AC%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9C%E3%83%B3%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF",
+    "https://www.cf-composites.toray/ja/products/technical/molding.html",
+    "https://www.toray.co.jp/news/article.html?contentId=ehawo1rx",
+    "https://ja.wikipedia.org/wiki/東レ・カーボンマジック"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "東レ・カーボンマジック 会社概要 事業内容",
+   "results": [
+    "https://www.carbonmagic.com/aboutus/abo_01.html",
+    "https://job.mynavi.jp/28/pc/search/corp221380/outline.html",
+    "https://www.toray.co.jp/news/article.html?contentId=71zpkvmx",
+    "https://www.carbonmagic.com/",
+    "https://compalyze.co.jp/company/6160001007477",
+    "https://mid-tenshoku.com/agency/a-8730/",
+    "https://ja.wikipedia.org/wiki/%E6%9D%B1%E3%83%AC%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9C%E3%83%B3%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF",
+    "https://hataraku-maibara.com/recruit/toray-carbon-magic/",
+    "https://www.toray.co.jp/news/article.html?contentId=ehawo1rx",
+    "https://ja.wikipedia.org/wiki/東レ・カーボンマジック"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "東レ・カーボンマジック お問い合わせ メール",
+   "results": [
+    "https://www.carbonmagic.com/contact.html",
+    "https://www.toray.co.jp/contact/",
+    "https://www.carbonmagic.com/recruit/contact.html",
+    "https://sct-ltd.jp/archives/212",
+    "https://www.toray-research.co.jp/contact/",
+    "https://mono.ipros.com/company/detail/2106962/",
+    "https://www.toray.co.jp/news/article.html?contentId=71zpkvmx",
+    "https://www.taf.toray/contact/",
+    "https://mid-tenshoku.com/agency/a-8730/",
+    "https://ja.nc-net.or.jp/company/73872/inquiry/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 東レ・カーボンマジック",
+   "results": [
+    "https://note.com/kenendo/n/n204c5aed97dd",
+    "https://note.com/chem_jop/n/n2a127a2510e4",
+    "https://note.com/xiborg/n/n9b71146f4d23",
+    "https://note.com/ikoudesign/n/n044c2194c8ad",
+    "https://note.com/spacewalker_jp/n/n699b41e2b33f",
+    "https://note.com/smartenergy_week/n/n624d94ab8438",
+    "https://note.com/mr_ranshi/n/n56d6103fea41",
+    "https://note.com/zenschool/n/na59cecfaed8c",
+    "https://note.com/kawamura_akihiro/n/nd98316539b40",
+    "https://note.com/biogastech/n/n097f333e6fba"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com 東レ・カーボンマジック",
+   "results": [
+    "https://x.com/hashtag/%E6%9D%B1%E3%83%AC%E3%82%AB%E3%83%BC%E3%83%9C%E3%83%B3%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF",
+    "https://x.com/kogakuinrace/status/2085599012128969040",
+    "https://x.com/i/trending/2036281030265508041",
+    "https://x.com/serakota/status/2073683551732781303",
+    "https://x.com/inokaeru/status/2102942486268440620",
+    "https://x.com/papa_anniekey/status/1989532680090767839",
+    "https://x.com/sudapyon/status/2073712551482007621",
+    "https://x.com/AUTOSPORT_web/status/2036305066651689072",
+    "https://x.com/serakota/status/1804766413468692519",
+    "https://x.com/inokaeru/status/1861685133071523914"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com 東レ・カーボンマジック",
+   "results": [
+    "https://jp.linkedin.com/in/hiroshi-kiyomoto-92221a15b",
+    "https://jp.linkedin.com/posts/toray-industries-inc-_%E5%AE%87%E5%AE%99%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E7%82%AD%E7%B4%A0%E7%B9%8A%E7%B6%AD%E8%A4%87%E5%90%88%E6%9D%90%E6%96%99%E6%9D%B1%E3%83%AC%E3%81%AE%E5%85%88%E7%AB%AF%E7%B4%A0%E6%9D%90%E3%81%A7%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B%E8%BB%BD%E9%87%8F%E5%8C%96-activity-7112374476129910784-RftH",
+    "https://www.linkedin.com/posts/yukiyoshi-harada-939898142_%E3%83%91%E3%83%AA%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E4%BB%95%E6%A7%98%E3%81%AE%E6%96%B0%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E3%83%90%E3%82%A4%E3%82%AF%E3%81%8C%E3%81%8A%E6%8A%AB%E9%9C%B2%E7%9B%AE-%E6%9D%B1%E3%83%AC%E3%82%AB%E3%83%BC%E3%83%9C%E3%83%B3%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF-activity-7195399369343344640-arLm",
+    "https://jp.linkedin.com/in/%E7%AF%A4%E5%8F%B2-%E7%89%87%E5%B2%A1-27a1a0382",
+    "https://jp.linkedin.com/in/aki-matsuyama-7450481b0",
+    "https://jp.linkedin.com/in/%E5%81%A5-%E9%96%93%E5%AE%AE-363152369",
+    "https://www.linkedin.com/pub/dir/Aki/Matsuyama",
+    "https://jp.linkedin.com/pub/dir/%E7%AF%A4%E5%8F%B2/%E7%89%87%E5%B2%A1/jp-0-%E6%97%A5%E6%9C%AC",
+    "https://www.linkedin.com/pub/dir/+/Kiyomoto",
+    "https://www.linkedin.com/company/東レ・カーボンマジック（株）"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com 東レ・カーボンマジック",
+   "results": [
+    "https://www.facebook.com/Shirahama.Eco.Car.Challenge/posts/%E4%BB%8A%E5%B9%B4%E3%82%82%E6%9D%B1%E3%83%AC%E3%82%AB%E3%83%BC%E3%83%9C%E3%83%B3%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E6%A7%98%E3%81%8B%E3%82%89%E3%81%94%E5%8D%94%E8%B3%9B%E3%82%92%E9%A0%82%E3%81%91%E3%82%8B%E4%BA%8B%E3%81%AB%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E6%9C%89%E9%9B%A3%E3%81%86%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99%EF%B8%8F%EF%B8%8F%EF%B8%8F%E6%9D%B1%E3%83%AC%E3%82%AB%E3%83%BC%E3%83%9C%E3%83%B3%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AFtoraycarbonmagic-%E4%BB%8A%E5%B9%B4%E3%82%82%E5%AE%9C%E3%81%97%E3%81%8F%E3%81%8A%E9%A1%98%E3%81%84%E3%81%97%E3%81%BE%E3%81%99/1361489426135932/",
+    "https://www.facebook.com/groups/150570006184161/posts/1424508552123627/",
+    "https://www.facebook.com/yuratakuya/posts/%E3%81%94%E5%A0%B1%E5%91%8A%E3%83%A0%E3%83%BC%E3%83%B3%E3%82%AF%E3%83%A9%E3%83%95%E3%83%8850%E5%B9%B4%E8%AA%8C%E3%82%92%E3%82%88%E3%81%86%E3%82%84%E3%81%8F%E5%AE%8C%E6%88%90%E3%81%97%E3%81%9F%E3%82%BF%E3%82%A4%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%A7%E3%81%AF%E3%81%94%E3%81%96%E3%81%84%E3%81%BE%E3%81%99%E3%81%8C%E7%9A%86%E6%A7%98%E3%81%AB%E3%81%94%E5%A0%B1%E5%91%8A%E3%81%95%E3%81%9B%E3%81%A6%E9%A0%82%E3%81%8D%E3%81%BE%E3%81%99%E3%83%A0%E3%83%BC%E3%83%B3%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%AF%E6%9D%A5%E3%82%8B4%E6%9C%881%E6%97%A5%E3%81%AB%E5%90%B8%E5%8F%8E%E5%90%88%E4%BD%B5%E3%81%AB%E3%82%88%E3%82%8A%E6%9D%B1%E3%83%AC%E3%82%AB%E3%83%BC%E3%83%9C/1583258357029563/",
+    "https://www.facebook.com/HamamatsuCFRP/videos/%E6%9D%B1%E3%83%AC%E3%82%AB%E3%83%BC%E3%83%9C%E3%83%B3%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E8%A6%8B%E5%AD%A6%E4%BC%9A%E3%81%A7%E8%A9%A6%E4%B9%97%E3%81%95%E3%81%9B%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%84%E3%81%9F%E9%9A%9B%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%BB%E3%83%97%E3%83%88ev-itop%E3%81%AE%E8%BB%8A%E5%86%85%E3%81%8B%E3%82%89%E3%81%AE%E5%8B%95%E7%94%BB%E3%81%A7%E3%81%99/451324052653540/?locale=he_IL",
+    "https://www.facebook.com/morecadence/posts/%E3%83%AB%E3%83%BC%E3%83%AB%E3%81%8C%E5%A4%89%E3%82%8F%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%AF%E5%85%89%E6%A0%84%E3%81%AA%E3%81%93%E3%81%A8-uci%E8%A6%8F%E5%AE%9A%E3%81%AE%E6%94%B9%E8%A8%82%E3%81%AB%E6%9D%B1%E3%83%AC%E3%82%AB%E3%83%BC%E3%83%9C%E3%83%B3%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E3%81%AF%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E6%8C%91%E3%82%80%E3%81%AE%E3%81%8Bhttpsmorecadencejptrack214922/1473930690873533/",
+    "https://www.facebook.com/balbaishikawa/posts/%E5%A4%A2%E3%82%92%E8%BF%BD%E3%81%84%E3%81%8B%E3%81%91%E3%82%8B%E3%81%94%E7%B8%81%E3%81%82%E3%81%A3%E3%81%A6%E3%83%91%E3%83%AA%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E3%81%AE%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E7%AB%B6%E6%8A%80%E3%81%A7%E6%97%A5%E6%9C%AC%E4%BB%A3%E8%A1%A8%E9%81%B8%E6%89%8B%E3%81%8C%E3%83%A1%E3%83%80%E3%83%AB%E3%81%AB%E6%8C%91%E3%82%93%E3%81%A0%E3%83%90%E3%82%A4%E3%82%AFv-izu-tcm%E3%82%92%E3%83%8F%E3%82%AF%E3%82%B5%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2%E3%81%AB%E5%B1%95%E7%A4%BA%E8%87%B4%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%82%AA%E3%83%AA%E3%83%B3%E3%83%94%E3%83%83%E3%82%AF%E3%81%AE%E3%83%A1%E3%83%80%E3%83%AB/993288792765142/",
+    "https://www.facebook.com/yoshio.fujiwara1/posts/%E4%BB%8A%E6%97%A54%E6%9C%881%E6%97%A5%E3%82%92%E3%82%82%E3%81%A3%E3%81%A6%E3%83%A0%E3%83%BC%E3%83%B3%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%8C%E6%9D%B1%E3%83%AC%E3%82%AB%E3%83%BC%E3%83%9C%E3%83%B3%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%A8%E5%90%88%E4%BD%B5%E3%81%97%E8%A7%A3%E6%95%A3%E3%81%99%E3%82%8B%E3%81%A8%E3%81%84%E3%81%86%E7%99%BA%E8%A1%A8%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E3%81%8C%E3%81%9D%E3%82%93%E3%81%AA%E3%82%BF%E3%82%A4%E3%83%9F%E3%83%B3%E3%82%B0%E3%81%A7%E3%83%A0%E3%83%BC%E3%83%B3%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88%E5%89%B5%E7%AB%8B50%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5/26230989263223341/",
+    "https://www.facebook.com/yuratakuya/?locale=ja_JP",
+    "https://www.facebook.com/groups/543460952148824/posts/803847919443458/",
+    "https://www.facebook.com/SuperGTSquare/posts/super-gt-rd3rd8-%E3%82%82%E3%81%A6%E3%81%8Esuper-gt-techno-lab%E3%81%A7super-gt%E3%81%AE%E5%AE%89%E5%85%A8%E6%8A%80%E8%A1%93%E3%82%92%E4%BD%93%E6%84%9F%E3%81%97%E3%82%88%E3%81%86117%E5%9C%9F8%E6%97%A5%E4%B8%A1%E6%97%A5%E6%9D%B1%E3%83%AC%E3%82%AB%E3%83%BC%E3%83%9C%E3%83%B3%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/1860771006048111/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "東レ・カーボンマジック note 社長",
+   "results": [
+    "https://www.carbonmagic.com/",
+    "https://www.toray.co.jp/news/article.html?contentId=71zpkvmx",
+    "https://www.toray.co.jp/news/article.html?contentId=ehawo1rx",
+    "https://www.youtube.com/watch?v=jhuc1Cz_8YQ",
+    "https://www.businesswire.com/news/home/20210926005001/ja",
+    "https://www.toray.co.jp/news/article.html?contentId=inb55hy7",
+    "https://sct-ltd.jp/wp-content/uploads/2022/01/20220114_press.pdf",
+    "https://www.toray.co.jp/saiyou/fresh/work/youngemployeesinterview13.html",
+    "https://www.nikkei.com/article/DGXZRSP636610_Z10C22A7000000/",
+    "https://ja.wikipedia.org/wiki/奥明栄"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "東レ・カーボンマジック X 投稿",
+   "results": [
+    "https://www.carbonmagic.com/",
+    "https://www.youtube.com/watch?v=jhuc1Cz_8YQ",
+    "https://www.toray.co.jp/news/article.html?contentId=ehawo1rx",
+    "https://www.spexa.jp/tokyo/ja-jp/search/2026/directory/directory-details.%E6%9D%B1%E3%83%AC%E3%82%AB%E3%83%BC%E3%83%9C%E3%83%B3%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%20%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE.org-f350ca99-a7be-451f-ae94-155ce664b23b.html",
+    "https://www.instagram.com/toraycarbonmagic_jp/",
+    "https://x.com/i/trending/2036281030265508041",
+    "https://syukatsu-kaigi.jp/companies/133414/jobhunt_prompt_reports",
+    "https://www.youtube.com/shorts/3BnvgbNhs8k",
+    "https://mono.ipros.com/company/detail/2106962/",
+    "https://ja.wikipedia.org/wiki/東レ・カーボンマジック"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式21頁／PDF・画像3件／外部10頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式21頁／PDF・画像3件／外部10頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式21頁／PDF・画像3件／外部10頁・検索9回）"
+ }
+}

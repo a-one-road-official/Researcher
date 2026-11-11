@@ -1,0 +1,1169 @@
+{
+ "name": "Nango",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜状態なし",
+ "researched_at": "2026-11-11T11:28:46.246899+00:00",
+ "official_url": "https://www.nango.dev",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Read issues and projects",
+    "url": "https://nango.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Session memory & self-improvement",
+    "url": "https://nango.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "SOC 2 · GDPR · HIPAA",
+    "url": "https://nango.dev/",
+    "pass": 1
+   },
+   {
+    "quote": "Fair and transparent pricing",
+    "url": "https://nango.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Each connection represents one authorized user account (for example, one user’s Salesforce account). Billed per connection per month, prorated for the time the connection exists.",
+    "url": "https://nango.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Execution time of your integrations on Nango. Used for tool calls, syncs, and webhook processing.",
+    "url": "https://nango.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Data processed by Nango for your integrations. See FAQ for a detailed breakdown.",
+    "url": "https://nango.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-built authentication, secure credentials storage, and token refreshing.",
+    "url": "https://nango.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "10k+ pre-built tools, triggers & syncs",
+    "url": "https://nango.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Thousands of pre-built integrations available immediately.",
+    "url": "https://nango.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Extend our pre-built templates, or build entirely custom integrations.",
+    "url": "https://nango.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Receive and process incoming webhooks from external APIs for syncing or triggers.",
+    "url": "https://nango.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Use pre-approved OAuth apps or bring your own for a fully white-label experience.",
+    "url": "https://nango.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Certified SOC 2 Type 2 for security and data protection. Request a report in our trust center.",
+    "url": "https://nango.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Direct access to our engineers via private Slack channel.",
+    "url": "https://nango.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Run integrations in isolated environments (dev, staging, prod, etc.) to test and deploy safely.",
+    "url": "https://nango.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Use any SAML or OIDC identity provider to log in to Nango.",
+    "url": "https://nango.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Automatically provision users and manage permissions.",
+    "url": "https://nango.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "If you have a test account for the API, we can also add pre-built tool calls & syncs for it.",
+    "url": "https://nango.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Turnaround times depend on your plan and can be as low as 2 days for Enterprise customers.",
+    "url": "https://nango.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Connections are pro-rated for the time they are stored in your account.",
+    "url": "https://nango.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "measures the amount of data Nango processes for your integrations.",
+    "url": "https://nango.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Data processed by Nango’s syncs",
+    "url": "https://nango.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We offer significant volume discounts, with commitments, across all pricing metrics on the Enterprise plan.",
+    "url": "https://nango.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "On the commercial side, we offer volume discounts on the Enterprise plan.",
+    "url": "https://nango.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "instances in any AWS, GCP or Azure region on the Enterprise plan.",
+    "url": "https://nango.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Private Slack Connect channel for the Growth add-on and Enterprise plan.",
+    "url": "https://nango.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "All support is provided by Nango engineers with detailed knowledge of the platform.",
+    "url": "https://nango.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "of product integrations",
+    "url": "https://nango.dev/careers",
+    "pass": 1
+   },
+   {
+    "quote": "From DevExp to high scale to API fragmentation, we work on hard problems.",
+    "url": "https://nango.dev/careers",
+    "pass": 1
+   },
+   {
+    "quote": "As that product expanded, integrations became a core part of the experience. Replit needed a scalable way to detect changes in third-party systems and turn them into reliable triggers inside the product, without building and maintaining that infrastructure for every API themselves.",
+    "url": "https://nango.dev/case-studies/replit",
+    "pass": 1
+   },
+   {
+    "quote": "Before Nango, building a customer-facing integration that reacted to changes in a third-party system meant writing custom code for each provider.",
+    "url": "https://nango.dev/case-studies/replit",
+    "pass": 1
+   },
+   {
+    "quote": "Replit was specifically looking for a reliable primitive for connector triggers and change detection across many third-party systems.",
+    "url": "https://nango.dev/case-studies/replit",
+    "pass": 1
+   },
+   {
+    "quote": "Nango gave Replit a scalable webhook and sync layer that could watch for updates across many APIs and surface those changes through webhooks, without forcing the team to build and run their own polling infrastructure for each provider.",
+    "url": "https://nango.dev/case-studies/replit",
+    "pass": 1
+   },
+   {
+    "quote": "Open source, TypeScript-based, and deployable on-prem",
+    "url": "https://nango.dev/case-studies/replit",
+    "pass": 1
+   },
+   {
+    "quote": "Because integrations are long-tail by nature, having an open source standard was important. The team valued the ability to fix issues or contribute them back through the repo. It also mattered that syncs were configurable in TypeScript, since that matched Replit’s stack, and that Nango could be hosted on-prem.",
+    "url": "https://nango.dev/case-studies/replit",
+    "pass": 1
+   },
+   {
+    "quote": "Today, Nango powers connector triggers inside Replit’s automation projects.",
+    "url": "https://nango.dev/case-studies/replit",
+    "pass": 1
+   },
+   {
+    "quote": "The team started from Nango’s pre-built syncs, then adapted them to fit Replit’s setup, including a more incremental syncing model focused on new data rather than full historical syncs.",
+    "url": "https://nango.dev/case-studies/replit",
+    "pass": 1
+   },
+   {
+    "quote": "Faster path to an automation product",
+    "url": "https://nango.dev/case-studies/replit",
+    "pass": 1
+   },
+   {
+    "quote": "Nango helped Replit ship the trigger primitives needed for its automation layer much faster than would have been possible with a fully custom internal approach.",
+    "url": "https://nango.dev/case-studies/replit",
+    "pass": 1
+   },
+   {
+    "quote": "Today, Nango powers Replit’s automation stack. Longer term, the team sees this as foundational infrastructure for a broader product direction in which apps and agents can subscribe to events from integrations across the platform.",
+    "url": "https://nango.dev/case-studies/replit",
+    "pass": 1
+   },
+   {
+    "quote": "Nango gave Replit a scalable way to power connector triggers across 30+ integrations without building custom polling and sync infrastructure for every provider.",
+    "url": "https://nango.dev/case-studies/replit",
+    "pass": 1
+   },
+   {
+    "quote": "By providing reliable change detection, webhook delivery, roadmap-aligned integration coverage, and a flexible TypeScript-based platform, Nango helped Replit accelerate its automation product while keeping engineering effort focused on the product itself.",
+    "url": "https://nango.dev/case-studies/replit",
+    "pass": 1
+   },
+   {
+    "quote": "Motion is building an AI work platform with AI employees, workflows, and productized integrations that let users automate work across the tools they already use.",
+    "url": "https://nango.dev/case-studies/motion",
+    "pass": 1
+   },
+   {
+    "quote": "As Motion expanded its AI workflows product, integrations became critical infrastructure for making those workflows useful in real customer environments.",
+    "url": "https://nango.dev/case-studies/motion",
+    "pass": 1
+   },
+   {
+    "quote": "For core product surfaces like calendar providers and Slack, the team had to handle OAuth, token storage, infrastructure, webhook setup, and user experience themselves. That worked for a small number of integrations, but it did not scale to the number of tools Motion wanted to support for its AI employees and workflow builder.",
+    "url": "https://nango.dev/case-studies/motion",
+    "pass": 1
+   },
+   {
+    "quote": "Some integrations also became long-running engineering efforts. Calendar integrations, for example, evolved over years as Motion iterated on the product and handled the long tail of edge cases that appeared with growing usage. Even a single Slack integration could take four to eight weeks to launch because it required both deep technical work and careful UX design.",
+    "url": "https://nango.dev/case-studies/motion",
+    "pass": 1
+   },
+   {
+    "quote": "As Omid Rooholfada, Co-founder at Motion, put it: “We had to approach integrations in a very bespoke way.”",
+    "url": "https://nango.dev/case-studies/motion",
+    "pass": 1
+   },
+   {
+    "quote": "First, coverage. Motion assumed most vendors would support roughly the same set of APIs, but that was not the case. Some lacked important integrations like email or Slack, which were essential for Motion’s product.",
+    "url": "https://nango.dev/case-studies/motion",
+    "pass": 1
+   },
+   {
+    "quote": "Second, flexibility. Motion did not want a rigid abstraction that forced them into a predefined product model. Their team was still iterating on how users should interact with integrations, which endpoints mattered, and how those interactions should appear inside their product. They needed infrastructure that would accelerate development without limiting UX or technical design.",
+    "url": "https://nango.dev/case-studies/motion",
+    "pass": 1
+   },
+   {
+    "quote": "The biggest factor was Nango’s architecture. Motion liked that OAuth was separated from syncing and API access, and that Nango’s proxy let them call the underlying APIs directly when needed. That meant they could move quickly without being boxed into a unified schema or fixed workflow.",
+    "url": "https://nango.dev/case-studies/motion",
+    "pass": 1
+   },
+   {
+    "quote": "Beyond flexibility, Nango already supported several integrations that were important to Motion, including Gmail and Slack. That gave the team a practical starting point instead of forcing them to fill major gaps themselves.",
+    "url": "https://nango.dev/case-studies/motion",
+    "pass": 1
+   },
+   {
+    "quote": "A white-labeled product experience",
+    "url": "https://nango.dev/case-studies/motion",
+    "pass": 1
+   },
+   {
+    "quote": "Motion wanted integrations to feel native within their own products. Nango allowed them to keep full control over the user experience, rather than exposing users to a third-party interface or a forced authorization flow.",
+    "url": "https://nango.dev/case-studies/motion",
+    "pass": 1
+   },
+   {
+    "quote": "That was critical for a company building AI employees and workflow automation directly into the product.",
+    "url": "https://nango.dev/case-studies/motion",
+    "pass": 1
+   },
+   {
+    "quote": "Motion primarily uses Nango for OAuth and API access across its integrations.",
+    "url": "https://nango.dev/case-studies/motion",
+    "pass": 1
+   },
+   {
+    "quote": "Instead of implementing authentication and token storage for each provider internally, Motion uses Nango as the integration layer behind its workflow builder. Each integration is represented inside Motion as a block with predefined tool calls. Users describe what they want to do, and Motion maps that into the relevant API actions, which are then executed through the Nango proxy.",
+    "url": "https://nango.dev/case-studies/motion",
+    "pass": 1
+   },
+   {
+    "quote": "This model gives Motion the freedom to shape integrations around real product workflows, not around the structure of a third-party platform.",
+    "url": "https://nango.dev/case-studies/motion",
+    "pass": 1
+   },
+   {
+    "quote": "Nango also helped on the trigger side. Rather than managing many separate webhook endpoints across providers, Motion benefited from a simpler integration model for triggers and event-driven workflows.",
+    "url": "https://nango.dev/case-studies/motion",
+    "pass": 1
+   },
+   {
+    "quote": "That let the team support a broad set of customer tools out of the box, including major systems like Gmail, Outlook, and HubSpot, while keeping engineering effort focused on the product itself.",
+    "url": "https://nango.dev/case-studies/motion",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Use pre-approved OAuth apps or bring your own for a fully white-label experience.",
+    "url": "https://nango.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Match Nango’s UI components to your brand and remove “Secured by Nango.”",
+    "url": "https://nango.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "A white-labeled product experience",
+    "url": "https://nango.dev/case-studies/motion",
+    "pass": 1
+   },
+   {
+    "quote": "White-label authorization",
+    "url": "https://nango.dev/case-studies/plain",
+    "pass": 1
+   },
+   {
+    "quote": "Managed OAuth, API keys, and token refresh for 1,000+ APIs. Embed a white-label auth flow in your app. Nango handles credentials, token storage, and multi-tenant connection management.",
+    "url": "https://github.com/NangoHQ/nango",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Yes, definitely. We serve B2C and Fortune 500 companies. Our platform is built for high throughput, and all",
+    "url": "https://nango.dev/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "With fast-growing revenues & usage, it’s a perfect time to join.",
+    "url": "https://nango.dev/careers",
+    "pass": 1
+   },
+   {
+    "quote": "As that product expanded, integrations became a core part of the experience. Replit needed a scalable way to detect changes in third-party systems and turn them into reliable triggers inside the product, without building and maintaining that infrastructure for every API themselves.",
+    "url": "https://nango.dev/case-studies/replit",
+    "pass": 1
+   },
+   {
+    "quote": "Motion is building an AI work platform with AI employees, workflows, and productized integrations that let users automate work across the tools they already use.",
+    "url": "https://nango.dev/case-studies/motion",
+    "pass": 1
+   },
+   {
+    "quote": "For core product surfaces like calendar providers and Slack, the team had to handle OAuth, token storage, infrastructure, webhook setup, and user experience themselves. That worked for a small number of integrations, but it did not scale to the number of tools Motion wanted to support for its AI employees and workflow builder.",
+    "url": "https://nango.dev/case-studies/motion",
+    "pass": 1
+   },
+   {
+    "quote": "That was critical for a company building AI employees and workflow automation directly into the product.",
+    "url": "https://nango.dev/case-studies/motion",
+    "pass": 1
+   },
+   {
+    "quote": "With Nango, Motion was able to launch about 189 integrations for its AI employees and workflows.",
+    "url": "https://nango.dev/case-studies/motion",
+    "pass": 1
+   },
+   {
+    "quote": "Boosting revenue potential",
+    "url": "https://nango.dev/case-studies/lago",
+    "pass": 1
+   },
+   {
+    "quote": "Come on snow tyres or carry chains, and fit chains only in the car park or at a designated spot. The resort warns that 4WD cars skid here too.",
+    "url": "https://japowproject.com/en/resorts/nango",
+    "pass": 3
+   },
+   {
+    "quote": "These limitations narrowed the scope of integrations Index could support, leading to lost customer opportunities. The pricing model, which scaled rapidly, further compounded the challenges, making Merge an unsustainable choice.",
+    "url": "https://nango.dev/case-studies/index",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "First, coverage. Motion assumed most vendors would support roughly the same set of APIs, but that was not the case. Some lacked important integrations like email or Slack, which were essential for Motion’s product.",
+    "url": "https://nango.dev/case-studies/motion",
+    "pass": 1
+   },
+   {
+    "quote": "5 best tools to trigger AI agents from incoming emails in 2026",
+    "url": "https://nango.dev/case-studies/index",
+    "pass": 3
+   },
+   {
+    "quote": "Compare five tools that trigger AI agents from email and let them act across APIs, using webhooks, IMAP, or polling.",
+    "url": "https://nango.dev/case-studies/index",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Nango:開発者ファーストのインテグレーションプラットフォーム。400以... — 単一かつ統一されたインターフェースを通じて、サードパーティAPIとの統合の構築・管理・スケーリングを実現します。 従来の一元化APIや組み込み型iPaaSとは異なり、Nangoは社内開発に近い柔軟性とコントロールを維持しつつ、保守負担を軽減します。",
+    "url": "https://moge.ai/ja/product/nango",
+    "pass": 3
+   },
+   {
+    "quote": "Nango | Build integrations with AI — \"Nango solved one of the hardest parts of integrations cleanly.\" Amadeo Pellicce Tech lead, Replit",
+    "url": "https://nango.dev/",
+    "pass": 3
+   },
+   {
+    "quote": "GitHub - NangoHQ/nango: Connect your agents & product to ... — Nango is an open-source platform for building agent integrations. It provides 10,000+ prebuilt tools across 1,000+ APIs, with managed authentication and execution for tool calls, triggers, syncs, webhooks, and API proxy requests.",
+    "url": "https://github.com/NangoHQ/nango",
+    "pass": 3
+   },
+   {
+    "quote": "Nango | Build integrations with AI — Connect your product & AI agents with 1,200+ APIs. Build, run, and maintain integrations with AI in code, on infrastructure built for scale.",
+    "url": "https://nango.dev/",
+    "pass": 3
+   },
+   {
+    "quote": "Nango — Japan Ski Resorts — The Japow Project — Oct 7, 2026 · Nango works best for riders who put freestyle terrain above all else. The park progression runs from gentle beginner features to advanced kickers and the main halfpipe, and the weekly changes keep repeat visitors interested.",
+    "url": "https://japowproject.com/en/resorts/nango",
+    "pass": 3
+   },
+   {
+    "quote": "Customers | Nango — Hundreds of fast-growing AI companies use Nango to power their core integrations.",
+    "url": "https://nango.dev/customers",
+    "pass": 3
+   },
+   {
+    "quote": "How Index gained full control over integrations with Nango — With Nango, Index can confidently promise integration support to prospective customers, knowing they can deliver quickly and without risk. This has made Index more competitive in sales discussions, particularly with larger accounts requiring tailored integrations.",
+    "url": "https://nango.dev/case-studies/index",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Nango — Japan Ski Resorts — The Japow Project",
+    "url": "https://japowproject.com/en/resorts/nango",
+    "pass": 3
+   },
+   {
+    "quote": "Built from Japan GSI survey elevation data and aerial photos. Runs are coloured by the resort’s official difficulty. Height is exaggerated 1.3× so the slopes read clearly.",
+    "url": "https://japowproject.com/en/resorts/nango",
+    "pass": 3
+   },
+   {
+    "quote": "By train: from Asakusa Station in Tokyo, ride the Aizu-Kinugawa line to Aizu-Tajima Station.",
+    "url": "https://japowproject.com/en/resorts/nango",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "NANGO｜note NANGO 飲食店特化｜社会保険労務士・行政書士オフィス ナンゴー 社労士／行政書士×ソムリエ ／チーズプロフェッショナル 現場と制度のあいだを設計する人。 【相棒：なんなんー】 思考補助型バナナ。 発話は全部「なんなんー」。",
+    "url": "https://note.com/nango_sr",
+    "pass": 3
+   },
+   {
+    "quote": "Tomato Sauce Pasta Made with Nango Tomatoes｜mayu ** \"Nango tomatoes refer to a brand of tomatoes produced in the mountainous, high-altitude regions of Minamiaizu District, Fukushima Prefecture (Minamiaizu Town, Tadami Town, Shimogo Town) from summer through autumn.\" Within the prefecture, you can sometimes enjoy fresh tomatoes at Mos Burger for",
+    "url": "https://note.com/yadorigi2026/n/n7ff26b6266db?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Crying for a senior's 10th place, surprised by her own 7th—An ... The Nango-san seen on screen is a picture-perfect honor student. She went from Fukui University's affiliated junior high school to Fujishima High School, the most competitive in the prefecture, then to Waseda University's Faculty of Law, before joining TBS in 2023.",
+    "url": "https://note.com/ver_ono/n/n2dfaec0749ff?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Exploring the Secrets Behind the Overwhelming Deliciousness ... Mar 12, 2026 · I would like to delve into the secrets behind the deliciousness and brand power of \"Nango Tomatoes,\" a top brand that can truly be called a \"miracle ruby,\" which the Minamiaizu region of Fukushima Prefecture is proud of.",
+    "url": "https://note.com/marin_kinun/n/n39d12c544306?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "11,610人が資格喪失した「国保逃れ」の実態 社労士・行政書士｜オフィスナンゴーニュース週報",
+    "url": "https://note.com/nango_sr",
+    "pass": 3
+   },
+   {
+    "quote": "公益通報した社員は解雇できないのか？ 社労士・行政書士｜オフィスナンゴーニュース週報5",
+    "url": "https://note.com/nango_sr",
+    "pass": 3
+   },
+   {
+    "quote": "「昼間しか入れない」スタッフのシフトは減らせるのか 社労士・行政書士｜オフィスナンゴーニュース週報",
+    "url": "https://note.com/nango_sr",
+    "pass": 3
+   },
+   {
+    "quote": "仕事が消えた日、賃金も消えるのか 社労士・行政書士｜オフィスナンゴーニュース週報",
+    "url": "https://note.com/nango_sr",
+    "pass": 3
+   },
+   {
+    "quote": "精神障害の労災請求はなぜ増え続けるのか？ 社労士・行政書士｜オフィスナンゴーニュース週報",
+    "url": "https://note.com/nango_sr",
+    "pass": 3
+   },
+   {
+    "quote": "育児中の残業・深夜勤務を制限する3つの制度 就業規則と運用で確認すべきこと｜Q&A保存版②",
+    "url": "https://note.com/nango_sr",
+    "pass": 3
+   },
+   {
+    "quote": "「働けません」と診断書を出した社員が、休日は元気に遊び回っていた｜労務のあれこれ③",
+    "url": "https://note.com/nango_sr",
+    "pass": 3
+   },
+   {
+    "quote": "Tomato Sauce Pasta Made with Nango Tomatoes｜mayu **",
+    "url": "https://note.com/yadorigi2026/n/n7ff26b6266db?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/yadorigi2026/n/n7ff26b6266db?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Tomato Sauce Pasta Made with Nango Tomatoes",
+    "url": "https://note.com/yadorigi2026/n/n7ff26b6266db?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"Nango tomatoes refer to",
+    "url": "https://note.com/yadorigi2026/n/n7ff26b6266db?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "a brand of tomatoes produced in the mountainous, high-altitude regions of Minamiaizu District, Fukushima Prefecture (Minamiaizu Town, Tadami Town, Shimogo Town) from summer through autumn.\"",
+    "url": "https://note.com/yadorigi2026/n/n7ff26b6266db?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Within the prefecture, you can sometimes enjoy fresh tomatoes at Mos Burger for a limited time, but my impression is that they are rarely seen on the market.",
+    "url": "https://note.com/yadorigi2026/n/n7ff26b6266db?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I was able to purchase those Nango tomatoes",
+    "url": "https://note.com/yadorigi2026/n/n7ff26b6266db?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "in Minamiaizu at the end of October for the first time in several years.",
+    "url": "https://note.com/yadorigi2026/n/n7ff26b6266db?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Crying for a senior's 10th place, surprised by her own 7th—An appraisal of Kyoko Nango｜ウェール小野│ハート♡とアート✒を読み解く",
+    "url": "https://note.com/ver_ono/n/n2dfaec0749ff?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/ver_ono/n/n2dfaec0749ff?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Crying for a senior's 10th place, surprised by her own 7th—An appraisal of Kyoko Nango",
+    "url": "https://note.com/ver_ono/n/n2dfaec0749ff?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "ウェール小野│ハート♡とアート✒を読み解く",
+    "url": "https://note.com/ver_ono/n/n2dfaec0749ff?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "On December 5, 2025, the morning live broadcast of \"Love it!\" announced the ranking of favorite female announcers. The host was Kyoko Nango, in her third year at the company. When her senior Megumi Ugajin's name was announced for 10th place, Nango's eyes welled up first, and she said, \"I'm about to cry too!\"",
+    "url": "https://note.com/ver_ono/n/n2dfaec0749ff?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Then came 7th place. On the board she turned over herself was her own name. Just before that, the show had played a retrospective video. It showed her crying after receiving harsh words from viewers when she first debuted as an announcer, and her stint as a substitute MC for just one week on \"Love it!,\" which became a turning point for her. After the video ended, she opened her eyes wide and said,",
+    "url": "https://note.com/ver_ono/n/n2dfaec0749ff?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"I want to steal their skills\"",
+    "url": "https://note.com/ver_ono/n/n2dfaec0749ff?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The Nango-san seen on screen is a picture-perfect honor student. She went from Fukui University's affiliated junior high school to Fujishima High School, the most competitive in the prefecture, then to Waseda University's Faculty of Law, before joining TBS in 2023. She is currently in charge of \"THE TIME,\" from Monday to Wednesday, as well as \"King's Brunch\" and other programs.",
+    "url": "https://note.com/ver_ono/n/n2dfaec0749ff?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Exploring the Secrets Behind the Overwhelming Deliciousness of \"Nango Tomatoes\" from Minamiaizu, Fukushima Prefecture｜南会津町の農業生産法人 アグリファーム拓 note",
+    "url": "https://note.com/marin_kinun/n/n39d12c544306?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/marin_kinun/n/n39d12c544306?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Exploring the Secrets Behind the Overwhelming Deliciousness of \"Nango Tomatoes\" from Minamiaizu, Fukushima Prefecture",
+    "url": "https://note.com/marin_kinun/n/n39d12c544306?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "南会津町の農業生産法人 アグリファーム拓 note",
+    "url": "https://note.com/marin_kinun/n/n39d12c544306?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This is Agri Farm Taku!",
+    "url": "https://note.com/marin_kinun/n/n39d12c544306?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Have you ever had an experience where you took one bite and were surprised, saying",
+    "url": "https://note.com/marin_kinun/n/n39d12c544306?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"Wow, are tomatoes really this delicious!?\"",
+    "url": "https://note.com/marin_kinun/n/n39d12c544306?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I would like to delve into the secrets behind the deliciousness and brand power of \"Nango Tomatoes,\" a top brand that can truly be called a \"miracle ruby,\" which the Minamiaizu region of Fukushima Prefecture is proud of.",
+    "url": "https://note.com/marin_kinun/n/n39d12c544306?hl=en",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Plants perform photosynthesis during the day while bathed in sunlight, storing plenty of nutrients (sugars). However, if the nighttime temperature is high, they consume those nutrients for respiration. Because the nights in Minamiaizu are cool, the tomatoes' respiration is suppressed, and",
+    "url": "https://note.com/marin_kinun/n/n39d12c544306?hl=en",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Nango (@NangoHQ) / X In this video, I demonstrate how to use Nango to build an AI agent that connects to external APIs, specifically for support software. The agent can automatically answer support requests by accessing...",
+    "url": "https://x.com/NangoHQ",
+    "pass": 3
+   },
+   {
+    "quote": "Nango (@Nango_HQ) / Posts / X Mar 16 We asked OpenCode to build 200 integrations on Nango. Here is what we learned:",
+    "url": "https://x.com/Nango_HQ",
+    "pass": 3
+   },
+   {
+    "quote": "NANGO CHEE (@nang0chee) / X NANGO offers top-notch marijuana seeds and clones and buds for home growers seeking high yields. 📈 ⬇️⬇️ Telegram. ⚠️@nangochee",
+    "url": "https://x.com/nang0chee",
+    "pass": 3
+   },
+   {
+    "quote": "喃語 NANGO (@naaango) / X 喃語 NANGO 札幌在住 ポエタナティブ・ロックバンド (Poeternative rock) info@naaango.com 武田@yueni9 照井@inmni 岩崎@drug0ndrums ご予約https://t.co/5vadHOriSC",
+    "url": "https://x.com/naaango",
+    "pass": 3
+   },
+   {
+    "quote": "Nango (@NangoHQ) / X When we started Nango, the goal was simple: Make building product integrations way easier for developers. Seeing 5000 stars on our open source repo is a huge milestone—one that's only possible because of our amazing community.",
+    "url": "https://x.com/NangoHQ",
+    "pass": 3
+   },
+   {
+    "quote": "喃語 NANGO on X: \"【お知らせ】 Instagramのハイライトに先日の融合... Post 喃語 NANGO @naaango Show translation 【お知らせ】 Instagramのハイライトに先日の融合の様子をまとめました 大した作業ではないんですがやった感が欲しいのでぜひご覧ください instagram.com/naaango",
+    "url": "https://x.com/naaango/status/2105274521829900442",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Nango - LinkedIn Nango is a platform for building product integrations with AI for 700+ APIs. It provides the infrastructure developers and AI agents need to connect to external APIs, handle authentication,...",
+    "url": "https://www.linkedin.com/company/nangohq",
+    "pass": 3
+   },
+   {
+    "quote": "200+ \"Nango\" profiles | LinkedIn View the profiles of professionals named \"Nango\" on LinkedIn. There are 200+ professionals named \"Nango\", who use LinkedIn to exchange information, ideas, and...",
+    "url": "https://www.linkedin.com/pub/dir/Nango/",
+    "pass": 3
+   },
+   {
+    "quote": "NANGO Zimbabwe - LinkedIn As a member-based organisation, NANGO brings together NGOs, donors, and stakeholders to create a strong and vibrant civil society in Zimbabwe. We provide support, resources, and a platform for...",
+    "url": "https://zw.linkedin.com/company/nangozimbabwe",
+    "pass": 3
+   },
+   {
+    "quote": "NANGO Zimbabwe | LinkedIn As a member-based organisation, NANGO brings together NGOs, donors, and stakeholders to create a strong and vibrant civil society in Zimbabwe. We provide support, resources, and a platform for...",
+    "url": "https://ug.linkedin.com/company/nango-zim",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "NANGO Zimbabwe | Harare - FacebookNANGO | Harare - FacebookNango Manchay - FacebookNANGO - FacebookJosé Luis Nango C. - FacebookThe \"Nango\" Dog Shows at Bainbridge - FacebookJavier Nango y La Gran Fiesta - Facebook They're all shared first on the NANGO WhatsApp Channel. If you're not subscribed, you're relying on someone else to forward it to you — and by then, deadlines may already be close, or o",
+    "url": "https://www.facebook.com/NANGOZim/",
+    "pass": 3
+   },
+   {
+    "quote": "NANGO | Harare - Facebook Aug 28, 2015 · NANGO, Harare, Zimbabwe. 2,316 likes · 1 talking about this · 406 were here. NANGO is the official voluntary co-ordinating body of all properly...",
+    "url": "https://www.facebook.com/p/NANGO-100076293604620/",
+    "pass": 3
+   },
+   {
+    "quote": "Nango Manchay - FacebookNANGO - FacebookJosé Luis Nango C. - FacebookThe \"Nango\" Dog Shows at Bainbridge - FacebookJavier Nango y La Gran Fiesta - Facebook Feb 25, 2026 · Nango Manchay. 1,014 followers. Nango Manchay - World influenced midtempo breaks and more intricate downtempo and bass-centric musings with live Sitar,... Oct 20, 2026 · NANGO. 63 followers · 205 talking about this. Saludos mi ge",
+    "url": "https://www.facebook.com/nangomanchay/",
+    "pass": 3
+   },
+   {
+    "quote": "NANGO - Facebook Oct 20, 2026 · NANGO. 63 followers · 205 talking about this. Saludos mi gente hermosa 😻 Esta página está creada para compartir ideas, bromas y chistes inspirados en la...",
+    "url": "https://www.facebook.com/nango2026/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://nango.dev/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nango.dev/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nango.dev/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nango.dev/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nango.dev/case-studies/replit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nango.dev/case-studies/motion",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nango.dev/case-studies/xy-ai-labs",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nango.dev/case-studies/plain",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nango.dev/case-studies/lago",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nango.dev/case-studies/unthread",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nango.dev/blog/how-to-find-the-best-integrations-partner",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://moge.ai/ja/product/nango",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nango.dev/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/NangoHQ/nango",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trafficnews.jp/post/721548",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nango.dev/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nanga.jp/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mangos.jp/ja/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://sango.jp/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Nagano_(city)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.japan-guide.com/e/e6000.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://naganonippon.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://japowproject.com/en/resorts/nango",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nango.dev/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nango.dev/case-studies/index",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nuquo.com/wp-content/uploads/2018/02/Amalgamated-Sugar-Case-Study.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upcloud.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nango_sr",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yadorigi2026/n/n7ff26b6266db?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ver_ono/n/n2dfaec0749ff?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/marin_kinun/n/n39d12c544306?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/NangoHQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Nango_HQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/nang0chee",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/naaango",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/nangohq",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pub/dir/Nango/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://zw.linkedin.com/company/nangozimbabwe",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ug.linkedin.com/company/nango-zim",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/NANGOZim/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/NANGO-100076293604620/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/nangomanchay/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/nango2026/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/NangoHQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/naaango/status/2105274521829900442",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Nango 日本 導入",
+   "results": [
+    "https://moge.ai/ja/product/nango",
+    "https://nango.dev/",
+    "https://github.com/NangoHQ/nango",
+    "https://trafficnews.jp/post/721548",
+    "https://nanga.jp/en/",
+    "https://note.com/fingo/n/n6a2055b7f784",
+    "https://www.webcartop.jp/2026/11/1892407/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nango 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://nango.dev/",
+    "https://nanga.jp/en/",
+    "https://mangos.jp/ja/",
+    "https://sango.jp/en/",
+    "https://www.houjin-bangou.nta.go.jp/",
+    "https://zozo.jp/brand/nanga/",
+    "https://www.inagora.com/company/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nango Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Nagano_(city)",
+    "https://www.japan-guide.com/e/e6000.html",
+    "https://naganonippon.com/",
+    "https://japowproject.com/en/resorts/nango",
+    "https://en.japantravel.com/nagano",
+    "https://www.go-nagano.net/en/",
+    "https://nanga.jp/en/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nango manufacturing customer case study",
+   "results": [
+    "https://nango.dev/customers",
+    "https://nango.dev/case-studies/index",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.nuquo.com/wp-content/uploads/2018/02/Amalgamated-Sugar-Case-Study.pdf",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.nango-kyoto.co.jp/eng/products/",
+    "https://link.springer.com/article/10.1007/s00170-013-4960-7"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nango white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/",
+    "https://www.ninjaone.com/partner-program/",
+    "https://www.canva.com/partners/reseller/",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nango founded funding employees revenue",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com Nango",
+   "results": [
+    "https://note.com/nango_sr",
+    "https://note.com/yadorigi2026/n/n7ff26b6266db?hl=en",
+    "https://note.com/ver_ono/n/n2dfaec0749ff?hl=en",
+    "https://note.com/marin_kinun/n/n39d12c544306?hl=en",
+    "https://note.com/nango_sr/n/n091d571fac0b?hl=en",
+    "https://note.com/kerakabuki/n/nc86e4a6acb46?hl=en",
+    "https://note.com/nango_sr/n/nbcf91ad8c98b?hl=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Nango",
+   "results": [
+    "https://x.com/NangoHQ",
+    "https://x.com/Nango_HQ",
+    "https://x.com/nang0chee",
+    "https://x.com/naaango",
+    "https://x.com/nangozimbabwe",
+    "https://x.com/nangomangoo",
+    "https://x.com/y_nango"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Nango",
+   "results": [
+    "https://www.linkedin.com/company/nangohq",
+    "https://www.linkedin.com/pub/dir/Nango/",
+    "https://zw.linkedin.com/company/nangozimbabwe",
+    "https://ug.linkedin.com/company/nango-zim",
+    "https://uk.linkedin.com/jobs/view/forward-deployed-engineer-founding-at-nango-4479246617",
+    "https://zw.linkedin.com/in/nango-zimbabwe-23bba7215",
+    "https://www.linkedin.com/in/emikonango"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Nango",
+   "results": [
+    "https://www.facebook.com/NANGOZim/",
+    "https://www.facebook.com/p/NANGO-100076293604620/",
+    "https://www.facebook.com/nangomanchay/",
+    "https://www.facebook.com/nango2026/",
+    "https://www.facebook.com/p/José-Luis-Nango-C-61576900183160/",
+    "https://www.facebook.com/nangodogshows/",
+    "https://www.facebook.com/fjnm10/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nango note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://lp.startup-db.com/media/articles/piece-of-cake"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Nango X 投稿",
+   "results": [
+    "https://x.com/NangoHQ",
+    "https://x.com/naaango/status/2105274521829900442",
+    "https://nango.dev/",
+    "https://www.youtube.com/watch?v=FVpA5x9C9z0",
+    "https://www.instagram.com/p/DPTrytvDwCx/",
+    "https://www.instagram.com/p/DMpNT5iTY3L/",
+    "https://www.j-cast.com/2025/10/23508614.html?p=all"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部38頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部38頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部38頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部38頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部38頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式11頁／PDF・画像0件／外部38頁・検索12回）"
+ }
+}

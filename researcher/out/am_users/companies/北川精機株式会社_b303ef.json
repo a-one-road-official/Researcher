@@ -1,0 +1,1537 @@
+{
+ "name": "北川精機株式会社",
+ "aliases": [],
+ "context": "ipros_all:オーダーメイド",
+ "researched_at": "2026-11-11T11:18:43.611886+00:00",
+ "official_url": "http://www.kitagawaseiki.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "業務内容",
+    "value": "油圧機器の製造・販売",
+    "url": "https://kitagawaseiki.co.jp/about-locations/",
+    "pass": 1
+   },
+   {
+    "label": "業務内容",
+    "value": "中国現地における販売",
+    "url": "https://kitagawaseiki.co.jp/about-locations/",
+    "pass": 1
+   },
+   {
+    "label": "業務内容",
+    "value": "プリント基板プレス装置、新素材プレス装置、 ラミネータ装置、FA・搬送機械の製造および販売",
+    "url": "https://kitagawaseiki.co.jp/about/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社所在地",
+    "value": "〒726-0002　広島県府中市鵜飼町800-8",
+    "url": "https://kitagawaseiki.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "label": "本社・本社工場",
+    "value": "広島県府中市",
+    "url": "https://kitagawaseiki.co.jp/files/libs/5736/202609010832285488.pdf",
+    "pass": 2
+   },
+   {
+    "label": "本社 所在地",
+    "value": "日本 〒 726-0002 広島県 府中市 鵜飼町800-8",
+    "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E5%B7%9D%E7%B2%BE%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "〒",
+    "url": "https://kitagawaseiki.co.jp/contact-general/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　内田雅敏（うちだ まさとし）",
+    "url": "https://kitagawaseiki.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役社長 内田雅敏",
+    "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E5%B7%9D%E7%B2%BE%E6%A9%9F",
+    "pass": 3
+   }
+  ],
+  "拠点": [
+   {
+    "label": "グループ会社",
+    "value": "ホクセイ工業株式会社 北川精机貿易（上海）有限公司",
+    "url": "https://kitagawaseiki.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "label": "東京支店",
+    "value": "東京都豊島区、大阪出張所：大阪市西区",
+    "url": "https://kitagawaseiki.co.jp/files/libs/5736/202609010832285488.pdf",
+    "pass": 2
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "連結 151名(2025年06月末現在) 単体 141名(2025年06月末現在)",
+    "url": "https://kitagawaseiki.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "単体141人、連結151人 （2025年06月）",
+    "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E5%B7%9D%E7%B2%BE%E6%A9%9F",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "売上高",
+    "value": "単体60億36百万円 連結62億27百万円 （2025年6月期）",
+    "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E5%B7%9D%E7%B2%BE%E6%A9%9F",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "生産設備に求められる性能は、製品や使用素材、メーカーによって千差万別",
+    "url": "https://kitagawaseiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新製品開発のための試作成形にご活用ください",
+    "url": "https://kitagawaseiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新製品開発のための試作成形にご活用ください",
+    "url": "https://kitagawaseiki.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "私達は1957年の創業以来、経営理念である「英知と創造」の下、「熱・圧力・真空制御技術」をベースに先端技術との融合を図りながら、独創的で高性能な製品の開発を通じて幅広い業界のものづくりを支えてきました",
+    "url": "https://kitagawaseiki.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "私達は「英知と創造」の経営理念の下、これからも独創的製品でお客様の信頼に応え、社会に貢献していきます",
+    "url": "https://kitagawaseiki.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "スマホ、パソコン、テレビなどの電子機器、自動車、航空機などの制御に欠かせないプリント基板の製造に使用される「プレス装置」をはじめ、様々な製品の生産に使用される機械装置を開発・製造している産業機械メーカーです",
+    "url": "https://kitagawaseiki.co.jp/about-introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の製造に直接関わる生産設備だけでなく、産業における自動化・省力化に貢献する設備機械「FAシステム」の開発・製造も行っています",
+    "url": "https://kitagawaseiki.co.jp/about-introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "北川精機の主力製品である真空多段プレス装置は、温度・圧力・真空・動作の制御と独自設計のプレスフレームや熱板構造によって、シート状素材の加熱・加圧成形において高い品質と生産性を両立",
+    "url": "https://kitagawaseiki.co.jp/about-introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の製品は、製造現場からの高い要求に応え、世界中の工場で活躍しています",
+    "url": "https://kitagawaseiki.co.jp/about-introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "対応力の高さで用途や素材に合わせた製品を開発・製造",
+    "url": "https://kitagawaseiki.co.jp/about-introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "生産設備などの産業機械に求められる性能は、その用途や製造製品・素材、またメーカーによっても異なり千差万別です",
+    "url": "https://kitagawaseiki.co.jp/about-introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "持続可能な社会を創造するため、環境配慮型製品の開発・製造を行い、脱炭素・循環型社会の実現、自然との共存に配慮します",
+    "url": "https://kitagawaseiki.co.jp/about-sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の製品・サービスを通じて、ICTによる社会インフラの高度化や生産現場における省資源・生産性向上といった課題解決に資することにより社会・産業の持続的発展に寄与します",
+    "url": "https://kitagawaseiki.co.jp/about-sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "企業活動、製品及びサービスのあらゆる面で環境の負荷を最小限に抑える企業を目指すため、環境マネジメントシステムを構築し、環境負荷の一層の低減に努めます",
+    "url": "https://kitagawaseiki.co.jp/about-sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "独創的製品でお客様の信頼に応え、情報化社会の発展に貢献していきます",
+    "url": "https://kitagawaseiki.co.jp/about-sustainability/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の環境管理活動は、美しい自然環境を次世代に継承するため、企業理念である｢英知と創造｣を基本とし、活動、製品及びサービスのあらゆる面で環境の負荷を最小限に抑える企業を目指し、環境マネジメントシステムを構築し継続的に改善します",
+    "url": "https://kitagawaseiki.co.jp/about-environment/",
+    "pass": 1
+   },
+   {
+    "quote": "事業活動、製品、サービスにおいて環境側面に関係する、法規制、条例及びその他の要求事項を順守し、地球環境の保全に努めます",
+    "url": "https://kitagawaseiki.co.jp/about-environment/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の製品が環境に影響を与えている事を認識し、生産工程を含め環境に配慮した製品の開発、改善に取り組み、環境負荷の一層の低減に努めます",
+    "url": "https://kitagawaseiki.co.jp/about-environment/",
+    "pass": 1
+   },
+   {
+    "quote": "製品、サービス、衛生、施設、情報など、営業活動に関わるすべてにおいて、お客様の安全を最優先する",
+    "url": "https://kitagawaseiki.co.jp/about-ethics/",
+    "pass": 1
+   },
+   {
+    "quote": "製品企画や広告ツール、ホームページの作成にあっては、サービスマークや著作権をはじめとする他者の知的財産権を点検し、侵害防止に努める",
+    "url": "https://kitagawaseiki.co.jp/about-ethics/",
+    "pass": 1
+   },
+   {
+    "quote": "機械性能の経年劣化が少なく、長期にわたり安定した品質の製品成形が可能です",
+    "url": "https://kitagawaseiki.co.jp/product-pcbcclpress/",
+    "pass": 1
+   },
+   {
+    "quote": "新製品開発のための試作成形にご活用ください",
+    "url": "https://kitagawaseiki.co.jp/product-pcbcclpress/",
+    "pass": 1
+   },
+   {
+    "quote": "断熱性に配慮し、熱伝導及び熱歪み対策を行うことにより、長期にわたり安定した品質の製品成形が可能です",
+    "url": "https://kitagawaseiki.co.jp/product-vacuumpress/",
+    "pass": 1
+   },
+   {
+    "quote": "新製品開発のための試作成形にご活用ください",
+    "url": "https://kitagawaseiki.co.jp/product-vacuumpress/",
+    "pass": 1
+   },
+   {
+    "quote": "新製品開発のための試作成形にご活用ください",
+    "url": "https://kitagawaseiki.co.jp/product-testpress/",
+    "pass": 1
+   },
+   {
+    "quote": "独自技術により、熱硬化性樹脂を断続的に成形し、製品の連続生産が可能です",
+    "url": "https://kitagawaseiki.co.jp/product-press-others/",
+    "pass": 1
+   },
+   {
+    "quote": "また、お客様のご要望に合わせ、個別に仕様の変更や製品開発にもお応えできます",
+    "url": "https://kitagawaseiki.co.jp/product-fasystem/",
+    "pass": 1
+   },
+   {
+    "quote": "北川精機では標準的な製品以外に関しても、産業機械・ＦＡシステムの分野において今まで培ってきた技術を活かし、ユーザーの生産効率向上、省力化に貢献しています",
+    "url": "https://kitagawaseiki.co.jp/product-special/",
+    "pass": 1
+   },
+   {
+    "quote": "新製品開発のための試作成形にご活用ください",
+    "url": "https://kitagawaseiki.co.jp/product-laminator/",
+    "pass": 1
+   },
+   {
+    "quote": "独自技術により、熱硬化性樹脂を断続的に成形し、製品の連続生産が可能です",
+    "url": "https://kitagawaseiki.co.jp/product-solarpanel/",
+    "pass": 1
+   },
+   {
+    "quote": "新製品開発のための試作成形にご活用ください",
+    "url": "https://kitagawaseiki.co.jp/product-solarpanel/",
+    "pass": 1
+   },
+   {
+    "quote": "ダイヤフラムを使用し、均一な加圧と製品の凸凹に対応可能",
+    "url": "https://kitagawaseiki.co.jp/product-laminator-others/",
+    "pass": 1
+   },
+   {
+    "quote": "トレイスライド方式を採用し、製品の出し入れが簡単で安全",
+    "url": "https://kitagawaseiki.co.jp/product-laminator-others/",
+    "pass": 1
+   },
+   {
+    "quote": "新製品開発のための試作成形にご活用ください",
+    "url": "https://kitagawaseiki.co.jp/product-laminator-others/",
+    "pass": 1
+   },
+   {
+    "quote": "全てを自分達で行うことでお客様の新製品開発・生産効率向上・省力化に",
+    "url": "https://kitagawaseiki.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "全てを自分達で行うことでお客様の新製品開発・生産効率向上・省力化に",
+    "url": "https://kitagawaseiki.co.jp/recruit-link/",
+    "pass": 1
+   },
+   {
+    "quote": "顧客先との仕様打合せ（主力製品は主に個別仕様）・見積・受注業務、保守修理の見積・手配業務、",
+    "url": "https://kitagawaseiki.co.jp/newgraduate/",
+    "pass": 1
+   },
+   {
+    "quote": "当社のプレス技術を基に、新分野・新市場への拡大を図るための、新製品及び新技術の開発",
+    "url": "https://kitagawaseiki.co.jp/newgraduate/",
+    "pass": 1
+   },
+   {
+    "quote": "工場内で鋼材や部品等を加工・組立して製品を製造する業務、国内外の顧客先へ搬入据付を行う業務",
+    "url": "https://kitagawaseiki.co.jp/newgraduate/",
+    "pass": 1
+   },
+   {
+    "quote": "加工品等の外注業務、製品の社内検査等の品質管理を行う業務",
+    "url": "https://kitagawaseiki.co.jp/newgraduate/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するお問い合わせ（お取引・サポートなど）",
+    "url": "https://kitagawaseiki.co.jp/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "会期中は多くのお客様に当社ブースへお立ち寄りいただき、 製品 ・ 技術に高い関心をお寄せい",
+    "url": "https://kitagawaseiki.co.jp/files/libs/5776/202610060830228078.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "性向上の両立」「既存技術の深化と製品・サービスの品質向上」「技術力を支える人的資本経営の推進」への取り",
+    "url": "https://kitagawaseiki.co.jp/files/libs/5782/20261106152203390.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "なお、当社グループの主要製品は、案件毎に個別の仕様に基づいて設計・製造を行うため、納期・受注金額に",
+    "url": "https://kitagawaseiki.co.jp/files/libs/5782/20261106152203390.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "商品及び製品 ー 979",
+    "url": "https://kitagawaseiki.co.jp/files/libs/5782/20261106152203390.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品保証引当金 54, 654 68, 733",
+    "url": "https://kitagawaseiki.co.jp/files/libs/5782/20261106152203390.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・成長市場における新製品の早期投入と収益化",
+    "url": "https://kitagawaseiki.co.jp/files/libs/5736/202609010832285488.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・既存技術･製品の周辺分野への積極展開（FRP･GX関連･他社協業など）",
+    "url": "https://kitagawaseiki.co.jp/files/libs/5736/202609010832285488.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・製品の種類･サイズに合わせた外注先の確保･拡充",
+    "url": "https://kitagawaseiki.co.jp/files/libs/5736/202609010832285488.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "（３）既存技術の深化と製品・サービスの品質向上",
+    "url": "https://kitagawaseiki.co.jp/files/libs/5736/202609010832285488.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・設計･製造の標準化による製品品質の安定化",
+    "url": "https://kitagawaseiki.co.jp/files/libs/5736/202609010832285488.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "端技術との融合 を図りながら、独創的で高性能、高品質な製品の開発に努",
+    "url": "https://kitagawaseiki.co.jp/files/libs/5736/202609010832285488.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "い製品・サービスをお客様に提供し、人々の生活を豊かにするとともに、社",
+    "url": "https://kitagawaseiki.co.jp/files/libs/5736/202609010832285488.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "③ 製品保証引当金…………製品納入後の無償修理費用の支出に備えて、発生額を個別に見",
+    "url": "https://kitagawaseiki.co.jp/files/libs/5736/202609010832285488.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "(3) 製品保証引当金……………製品納入後の無償修理費用の支出に備えて、発生額を個別に見",
+    "url": "https://kitagawaseiki.co.jp/files/libs/5736/202609010832285488.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品保証引当金 17,161千円",
+    "url": "https://kitagawaseiki.co.jp/files/libs/5736/202609010832285488.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "北川精機の主要製品は、案件ごとに個別の仕様に基づいて設計・製造されています",
+    "url": "https://note.com/taisuke_invest/n/ne4e01adaa598",
+    "pass": 3
+   },
+   {
+    "quote": "主要製品は案件ごとの個別設計で、大型案件では売上計上まで長期間を要します",
+    "url": "https://note.com/taisuke_invest/n/ne4e01adaa598",
+    "pass": 3
+   },
+   {
+    "quote": "アイダはサーボ駆動式プレス機で世界トップクラスのシェアを誇り、独自開発したサーボモーターと制御技術を活用した「ダイレクトサーボプレス」、業界最高精度を謳う「ULプレス」、ハイブリッド車のモーターコア製造に欠かせない「高速自動プレス」など、付加価値の高い製品群を展開しています",
+    "url": "https://note.com/tatsuya_sabato/n/n63202bb236e5",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "真空下での加熱・加圧工程による試作・評価試験を実施できます",
+    "url": "https://kitagawaseiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新製品開発のための試作成形にご活用ください",
+    "url": "https://kitagawaseiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "真空下での加熱・加圧工程による試作・評価試験を実施できます",
+    "url": "https://kitagawaseiki.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "新製品開発のための試作成形にご活用ください",
+    "url": "https://kitagawaseiki.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "電子部品やその材料の積層試作、その他様々な素材の加熱・加圧成形や試験など、研究開発に最適な小型の装置も製造しています",
+    "url": "https://kitagawaseiki.co.jp/about-introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "真空下での加熱・加圧工程による試作・評価試験を実施できます",
+    "url": "https://kitagawaseiki.co.jp/product-pcbcclpress/",
+    "pass": 1
+   },
+   {
+    "quote": "新製品開発のための試作成形にご活用ください",
+    "url": "https://kitagawaseiki.co.jp/product-pcbcclpress/",
+    "pass": 1
+   },
+   {
+    "quote": "真空下での加熱・加圧工程による試作・評価試験を実施できます",
+    "url": "https://kitagawaseiki.co.jp/product-vacuumpress/",
+    "pass": 1
+   },
+   {
+    "quote": "新製品開発のための試作成形にご活用ください",
+    "url": "https://kitagawaseiki.co.jp/product-vacuumpress/",
+    "pass": 1
+   },
+   {
+    "quote": "真空下での加熱・加圧工程による試作・評価試験を実施できます",
+    "url": "https://kitagawaseiki.co.jp/product-testpress/",
+    "pass": 1
+   },
+   {
+    "quote": "新製品開発のための試作成形にご活用ください",
+    "url": "https://kitagawaseiki.co.jp/product-testpress/",
+    "pass": 1
+   },
+   {
+    "quote": "軽量多品種用35段ストッカー（鋼板4'x8'用）",
+    "url": "https://kitagawaseiki.co.jp/product-solidstocker/",
+    "pass": 1
+   },
+   {
+    "quote": "KSP2-5114＆軽量多品種用27段ストッカー（鋼板4’×8’用）",
+    "url": "https://kitagawaseiki.co.jp/product-solidstocker/",
+    "pass": 1
+   },
+   {
+    "quote": "真空下での加熱・加圧工程による試作・評価試験を実施できます",
+    "url": "https://kitagawaseiki.co.jp/product-laminator/",
+    "pass": 1
+   },
+   {
+    "quote": "新製品開発のための試作成形にご活用ください",
+    "url": "https://kitagawaseiki.co.jp/product-laminator/",
+    "pass": 1
+   },
+   {
+    "quote": "真空下での加熱・加圧工程による試作・評価試験を実施できます",
+    "url": "https://kitagawaseiki.co.jp/product-solarpanel/",
+    "pass": 1
+   },
+   {
+    "quote": "新製品開発のための試作成形にご活用ください",
+    "url": "https://kitagawaseiki.co.jp/product-solarpanel/",
+    "pass": 1
+   },
+   {
+    "quote": "真空下での加熱・加圧工程による試作・評価試験を実施できます",
+    "url": "https://kitagawaseiki.co.jp/product-laminator-others/",
+    "pass": 1
+   },
+   {
+    "quote": "新製品開発のための試作成形にご活用ください",
+    "url": "https://kitagawaseiki.co.jp/product-laminator-others/",
+    "pass": 1
+   },
+   {
+    "quote": "ータ装置を活用した試作評価スペース 「KITAGAWA TRIAL LAB（キタガワ トライアルラボ） 」",
+    "url": "https://kitagawaseiki.co.jp/files/libs/5776/202610060830228078.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "術について詳しい説明をご希望のお客様、また、「KITAGAWA TRIAL LAB」での試作・評価",
+    "url": "https://kitagawaseiki.co.jp/files/libs/5776/202610060830228078.pdf",
+    "pass": 2
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "展示会出展報告とご来場のお礼 「第3回[九州]半導体産業展」",
+    "url": "https://kitagawaseiki.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "[交通機関] JR福塩線 府中駅下車 自動車で約10分",
+    "url": "https://kitagawaseiki.co.jp/about-locations/",
+    "pass": 1
+   },
+   {
+    "quote": "[交通機関] JR福山駅下車 自動車 約17分",
+    "url": "https://kitagawaseiki.co.jp/about-locations/",
+    "pass": 1
+   },
+   {
+    "quote": "今では、半導体や航空・宇宙産業など先端技術産業に関わるものづくりに欠かせない装置を提供するまでになっています",
+    "url": "https://kitagawaseiki.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "航空・自動車産業で使用されるCFRTP積層板の製造に活用いただけます",
+    "url": "https://kitagawaseiki.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "私達のコアテクノロジーは、世界中の主要なプリント基板メーカー、半導体メーカー、EMS企業、電子部品メーカーあるいは電気・電子機器メーカーから高い評価をいただいております",
+    "url": "https://kitagawaseiki.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "また、省力設備機械の分野では、特殊リフト、ストッカー、自動倉庫、自動車用内装部品の生産ライン、自走式航空機整備用リフトなどユニークな機械を開発・提供しています",
+    "url": "https://kitagawaseiki.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "ソーラーパネル用多段ラミネータ、金型の要らない曲面ラミネータ、自動車パワーモジュール用プレス成形装置、炭素繊維強化プラスチック（CFRP）積層板成形用プレス装置など、自動車の軽量化・電動化分野、あるいは環境エネルギー分野など先端技術産業にも貢献を続けています",
+    "url": "https://kitagawaseiki.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "スマホ、パソコン、テレビなどの電子機器、自動車、航空機などの制御に欠かせないプリント基板の製造に使用される「プレス装置」をはじめ、様々な製品の生産に使用される機械装置を開発・製造している産業機械メーカーです",
+    "url": "https://kitagawaseiki.co.jp/about-introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車部品の製造でも北川精機の装置が活躍しています",
+    "url": "https://kitagawaseiki.co.jp/about-introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPとは炭素繊維強化プラスチックのことで、軽量にもかかわらず強度が高いため、航空産業で注目されている新素材です",
+    "url": "https://kitagawaseiki.co.jp/about-introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "カーボンニュートラルのニーズから、省エネが求められる航空産業",
+    "url": "https://kitagawaseiki.co.jp/about-introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "鋼材・鋼板・パイプ類・重量物の他、金型・治具・塗料缶などの小物も収納可能です",
+    "url": "https://kitagawaseiki.co.jp/product-solidstocker/",
+    "pass": 1
+   },
+   {
+    "quote": "5-2. 工場内スペースの有効活用(部品・金型イメージ)",
+    "url": "https://kitagawaseiki.co.jp/product-solidstocker/",
+    "pass": 1
+   },
+   {
+    "quote": "【実績】航空機のメンテナンス部位ごとに最適なリフト設計",
+    "url": "https://kitagawaseiki.co.jp/product-special/",
+    "pass": 1
+   },
+   {
+    "quote": "航空機の部位に合わせたリフトの開発・製造を行っています",
+    "url": "https://kitagawaseiki.co.jp/product-special/",
+    "pass": 1
+   },
+   {
+    "quote": "自走式航空機整備用リフト（NOSE STAND）",
+    "url": "https://kitagawaseiki.co.jp/product-special/",
+    "pass": 1
+   },
+   {
+    "quote": "自走式航空機整備用リフト（CREW ENTRY STAND）",
+    "url": "https://kitagawaseiki.co.jp/product-special/",
+    "pass": 1
+   },
+   {
+    "quote": "自走式航空機整備用リフト（WING L/E INB'D STAND）",
+    "url": "https://kitagawaseiki.co.jp/product-special/",
+    "pass": 1
+   },
+   {
+    "quote": "自走式航空機整備用リフト（ENG OUTB'D STAND）",
+    "url": "https://kitagawaseiki.co.jp/product-special/",
+    "pass": 1
+   },
+   {
+    "quote": "自走式航空機整備用リフト（CROSS RUNNING STAGE）",
+    "url": "https://kitagawaseiki.co.jp/product-special/",
+    "pass": 1
+   },
+   {
+    "quote": "鋼材・鋼板・パイプ類・重量物の他、金型・治具・塗料缶などの小物も収納可能です",
+    "url": "https://kitagawaseiki.co.jp/product-automaticwarehouse/",
+    "pass": 1
+   },
+   {
+    "quote": "CFRP（炭素繊維強化プラスチック）とは、航空・宇宙・自動車産業における新素材として注目されている複合素材のことです",
+    "url": "https://kitagawaseiki.co.jp/product-cfrp/",
+    "pass": 1
+   },
+   {
+    "quote": "ルーフガラス形状に合わせた金型が不要であり、生産物形状に柔軟に対応できます",
+    "url": "https://kitagawaseiki.co.jp/product-solarpanel/",
+    "pass": 1
+   },
+   {
+    "quote": "ガラス皿形状に合わせた金型が不要であり、生産物形状に柔軟に対応できます",
+    "url": "https://kitagawaseiki.co.jp/product-laminator-others/",
+    "pass": 1
+   },
+   {
+    "quote": "特に、銅張積層板や多層基板向けの成型プレス装置に強みを持ち、電子機器・半導体・DX関連分野を支える設備を提供しています",
+    "url": "https://note.com/maron04/n/n5fdf1e12d5c0",
+    "pass": 3
+   },
+   {
+    "quote": "半導体・電子基板関連は市況変動もありますが、",
+    "url": "https://note.com/maron04/n/n5fdf1e12d5c0",
+    "pass": 3
+   },
+   {
+    "quote": "AI半導体の高性能化、データセンターの大規模投資、車載エレクトロニクスのCASE化、そして「脱中国」を志向する日本企業のサプライチェーン再構築",
+    "url": "https://note.com/tatsuya_sabato/n/n63202bb236e5",
+    "pass": 3
+   },
+   {
+    "quote": "子会社ビアメカニクスは、半導体パッケージ基板やHDI（高密度配線）基板に微細なビアホールを加工する装置で世界トップシェアを握り、最大毎分35万回転という業界最速のスピンドル技術や直径0.05mmの極小穴加工を実現する技術力を有しています",
+    "url": "https://note.com/tatsuya_sabato/n/n63202bb236e5",
+    "pass": 3
+   },
+   {
+    "quote": "生成AIによってGPU向けパッケージ基板の高密度化・大型化が加速するなか、ビアメカニクスの装置はまさに最先端半導体パッケージの製造に不可欠な存在です",
+    "url": "https://note.com/tatsuya_sabato/n/n63202bb236e5",
+    "pass": 3
+   },
+   {
+    "quote": "さらに2025年には半導体レーザー加工機メーカーを約510億円で買収するなど、半導体・パッケージ基板関連の装置事業を意欲的に強化する姿勢を鮮明にしています",
+    "url": "https://note.com/tatsuya_sabato/n/n63202bb236e5",
+    "pass": 3
+   },
+   {
+    "quote": "板金事業のキャッシュフローを使って成長分野へ投資する好循環が期待でき、伝統的な工作機械企業から半導体製造装置企業へと変貌していく過程に注目が集まります",
+    "url": "https://note.com/tatsuya_sabato/n/n63202bb236e5",
+    "pass": 3
+   },
+   {
+    "quote": "2013年にロングリーチグループから日立ビアメカニクスを買収し、2025年には半導体レーザー加工機メーカーの買収を発表",
+    "url": "https://note.com/tatsuya_sabato/n/n63202bb236e5",
+    "pass": 3
+   },
+   {
+    "quote": "AI半導体・先端パッケージ基板向け加工装置の事業ポートフォリオ拡充を推進しています",
+    "url": "https://note.com/tatsuya_sabato/n/n63202bb236e5",
+    "pass": 3
+   },
+   {
+    "quote": "汎用サーボプレス、中・大型サーボプレス、精密成形プレス、高速自動プレス、冷間鍛造プレスなど多彩なラインアップを誇り、自動車部品成形・モーターコア・電池ケース・電子部品成形まで幅広い用途をカバーしています",
+    "url": "https://note.com/tatsuya_sabato/n/n63202bb236e5",
+    "pass": 3
+   },
+   {
+    "quote": "また、北川精機がPCB成形プレスの専門メーカーであるのに対し、アイダはより広範な金属プレス領域をカバーしながらも、半導体リードフレームの成形や電子部品向け精密プレスでも高いシェアを持っており、エレクトロニクス産業の設備投資サイクルにも連動します",
+    "url": "https://note.com/tatsuya_sabato/n/n63202bb236e5",
+    "pass": 3
+   },
+   {
+    "quote": "自動車向け売上比率が高いため、世界の自動車生産動向や設備投資サイクルに業績が左右されやすい点が最大のリスクです",
+    "url": "https://note.com/tatsuya_sabato/n/n63202bb236e5",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "熱可塑性樹脂シート成形用真空プレス装置を開発、製造・販売開始",
+    "url": "https://kitagawaseiki.co.jp/about-history/",
+    "pass": 1
+   },
+   {
+    "quote": "温度・圧力・真空制御に関する技術を基に、移動体通信・家電・車載・人工衛星向けのプリント基板成形、各種樹脂成形向けなどの多分野にわたるプレス関連装置を開発・製造しています",
+    "url": "https://kitagawaseiki.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "炭素繊維強化熱可塑性樹脂（CFRTP）一方向連続繊維（UDテープ）素材の自動積層装置です",
+    "url": "https://kitagawaseiki.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "真空下で熱と圧力を均一にかけながら樹脂を成形する当社の独自技術は、さまざまな分野へも応用され始めています",
+    "url": "https://kitagawaseiki.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "ソーラーパネル用多段ラミネータ、金型の要らない曲面ラミネータ、自動車パワーモジュール用プレス成形装置、炭素繊維強化プラスチック（CFRP）積層板成形用プレス装置など、自動車の軽量化・電動化分野、あるいは環境エネルギー分野など先端技術産業にも貢献を続けています",
+    "url": "https://kitagawaseiki.co.jp/about/",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPとは炭素繊維強化プラスチックのことで、軽量にもかかわらず強度が高いため、航空産業で注目されている新素材です",
+    "url": "https://kitagawaseiki.co.jp/about-introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "ICカード、タッチパネル、砥石／スレート／断熱材／絶縁体、センサー、ヒーター（樹脂ラミネート）、アルミサッシドア、ソーラーパネル、樹脂、ゴム、セラミック素材",
+    "url": "https://kitagawaseiki.co.jp/about-introduction/",
+    "pass": 1
+   },
+   {
+    "quote": "独自の加圧技術を応用して、プリプレグ（硬化していない熱硬化性樹脂を含浸させた炭素繊維）の切断やICカード成形、プリント基板素材を連続して成形するための装置を開発・製造しています",
+    "url": "https://kitagawaseiki.co.jp/product-press-others/",
+    "pass": 1
+   },
+   {
+    "quote": "独自の技術により、樹脂飛散量の低減、樹脂欠落の防止が可能となりました",
+    "url": "https://kitagawaseiki.co.jp/product-press-others/",
+    "pass": 1
+   },
+   {
+    "quote": "独自技術により、熱硬化性樹脂を断続的に成形し、製品の連続生産が可能です",
+    "url": "https://kitagawaseiki.co.jp/product-press-others/",
+    "pass": 1
+   },
+   {
+    "quote": "CFRP（炭素繊維強化プラスチック）とは、航空・宇宙・自動車産業における新素材として注目されている複合素材のことです",
+    "url": "https://kitagawaseiki.co.jp/product-cfrp/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂を炭素繊維で強化することで、軽いのはもちろんのこと、樹脂単体よりも高い強度や剛性が得られます",
+    "url": "https://kitagawaseiki.co.jp/product-cfrp/",
+    "pass": 1
+   },
+   {
+    "quote": "プリプレグと呼ばれる炭素繊維に樹脂を含浸させたシートを積層させてCFRP積層板を製造します",
+    "url": "https://kitagawaseiki.co.jp/product-cfrp/",
+    "pass": 1
+   },
+   {
+    "quote": "炭素繊維強化熱可塑性樹脂（CFRTP）一方向連続繊維（UDテープ）素材の自動積層装置です",
+    "url": "https://kitagawaseiki.co.jp/product-cfrp/",
+    "pass": 1
+   },
+   {
+    "quote": "クロスや不織布樹脂シート等、",
+    "url": "https://kitagawaseiki.co.jp/product-cfrp/",
+    "pass": 1
+   },
+   {
+    "quote": "独自技術により、熱硬化性樹脂を断続的に成形し、製品の連続生産が可能です",
+    "url": "https://kitagawaseiki.co.jp/product-solarpanel/",
+    "pass": 1
+   },
+   {
+    "quote": "炭素繊維強化熱可塑性樹脂（CFRTP）一方向連続繊維（UDテープ）素材の自動積層装置に関するご依頼・お問い合わせに関して",
+    "url": "https://kitagawaseiki.co.jp/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "12月 - 複合材成形用高温プレス装置（最高温度600℃）を開発、製造・販売開始",
+    "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E5%B7%9D%E7%B2%BE%E6%A9%9F",
+    "pass": 3
+   },
+   {
+    "quote": "2月 - 熱可塑性樹脂シート成形用真空プレス装置を開発、製造・販売開始",
+    "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E5%B7%9D%E7%B2%BE%E6%A9%9F",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "製品に関するお問い合わせ（お取引・サポートなど）",
+    "url": "https://kitagawaseiki.co.jp/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "炭素繊維強化熱可塑性樹脂（CFRTP）一方向連続繊維（UDテープ）素材の自動積層装置に関するご依頼・お問い合わせに関して",
+    "url": "https://kitagawaseiki.co.jp/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "プレス評価試験のご依頼・お問い合わせに関して",
+    "url": "https://kitagawaseiki.co.jp/contact/",
+    "pass": 1
+   },
+   {
+    "quote": "E-mail : katayama-d@kitagawaseiki.co.jp",
+    "url": "https://kitagawaseiki.co.jp/files/libs/5781/202611021330597680.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "E-mail : matsuoka-r@kitagawaseiki.co.jp",
+    "url": "https://kitagawaseiki.co.jp/files/libs/5777/202610061633378784.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "E-mail：info@kitagawaseiki.co.jp",
+    "url": "https://kitagawaseiki.co.jp/files/libs/5776/202610060830228078.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "お問い合わせフォーム｜北川精機株式会社（公式ホームページ）",
+    "url": "https://kitagawaseiki.co.jp/contact-general/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "E-mail : katayama-d@kitagawaseiki.co.jp",
+    "url": "https://kitagawaseiki.co.jp/files/libs/5781/202611021330597680.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "sem | mana | mane [A ouuene | aMens",
+    "url": "https://kitagawaseiki.co.jp/files/libs/5782/20261106152203390.pdf",
+    "pass": 2
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "試作・評価試験 - 北川精機株式会社 — 北川精機のテストプレス装置を使用し、真空環境下で加熱・加圧工程による製品開発をサポートします。 基板成形、各種樹脂成形など、実際の製品などをお持ち込みいただき試作・評価試験を行っていただけます。",
+    "url": "https://kitagawaseiki.co.jp/evaluationtest/",
+    "pass": 3
+   },
+   {
+    "quote": "テストプレス装置『KVHC-PRESS』 北川精機 | イプロス — 北川精機のテストプレス装置『KVHC-PRESS』の技術や価格情報などをご紹介。 キャスター付きで移動もラクラク！ 最高400°Cまでの加熱、そして冷却も可能な小型プレスイプロスでは その他などBtoB向けの情報を多数掲載。 応相談応相談`",
+    "url": "https://www.ipros.com/product/detail/2000514126/",
+    "pass": 3
+   },
+   {
+    "quote": "北川精機 - Wikipedia — 1999年 7月 - 建材機械事業部門を分社、「キタガワエンジニアリング株式会社」設立。 2004年 12月 - 日本証券業協会への店頭登録を取消し、ジャスダック証券取引所に株式を上場。 2006年 12月 - ISO14001認証取得。",
+    "url": "https://ja.wikipedia.org/wiki/北川精機",
+    "pass": 3
+   },
+   {
+    "quote": "北川精機について - 北川精機株式会社 — 北川精機はプレス機械を模した「プレスくん」を、イメージキャラクターとして採用しました。 プレスくんは、JR福山駅構内やJR福塩線の車内に登場します。 ぜひ見つけてください。",
+    "url": "https://kitagawaseiki.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "北川精機株式会社（公式ホームページ） — Aug 1, 2025 · 北川精機の強み 基板材料の積層プレス 世界シェアトップクラス 電子機器には必ず入っているプリント基板。 その材料を積層するプレス装置のシェアは世界トップクラス。 多くの企業より支持されています。 高い柔軟性でお客様の 個別仕様に細かく対応",
+    "url": "https://kitagawaseiki.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "北川精機はどんな会社？事業内容・企業データ｜機械 | 企業分析.jp — 北川精機は、スマートフォンやPCに使われるプリント基板を作るためのプレス装置や、新しい素材を加工する機械、工場での自動化・運搬機械などを開発・製造・販売しているメーカーです。 中国市場にも展開し、産業の基盤を支えています。",
+    "url": "https://kigyobunseki.jp/companies/hinwvh/",
+    "pass": 3
+   },
+   {
+    "quote": "北川精機 (株)【東証スタンダード市場上場】の会社概要 | マイナビ202... — Oct 19, 2026 · サーバーの中で電子部品をつなぐ土台が「プリント基板」。 私たち北川精機は、その基板や基板材料を製造するための「プレス装置」を開発・製造する会社です。 目に触れにくい装置ですが、世界の電子機器を支えるものづくりに関わっています。",
+    "url": "https://job.mynavi.jp/28/pc/search/corp295068/outline.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせフォーム｜北川精機株式会社（公式ホームページ） — お問い合わせフォーム お問い合わせフォーム お問い合わせの際は「個人情報保護方針」をお読みになり、同意のうえお問い合わせください。 回答に時間がかかる場合があります。 お急ぎの方はお電話にてお問い合わせください。",
+    "url": "https://kitagawaseiki.co.jp/contact-general/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 北川精機株式会社 — 本社 担当：川上（かわかみ） TEL 0847-40-1203 FAX 0847-40-1208 info@kitagawaseiki.co.jp 東京支店 担当：金藤（かねとう） TEL 03-3917-6275 FAX 03-3917-6413 tokyo@kitagawaseiki.co.jp >> お問い合わせフォーム",
+    "url": "https://kitagawaseiki.co.jp/contact/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "北川精機の決算を読み解く｜産業機械が牽引して営業利益52.2％増、最... Aug 19, 2026 · まとめ 北川精機の2026年6月期は、 売上高66.07億円、営業利益9.49億円となり、売上高6.1％増に対して営業利益は52.2％増 となりました。 主力の産業機械事業が好調だったことに加え、売上原価がほぼ横ばいにとどまったことで収益性が大きく改善しました。",
+    "url": "https://note.com/taisuke_invest/n/ne4e01adaa598",
+    "pass": 3
+   },
+   {
+    "quote": "北川精機（6327）2026年6月期 第3四半期決算分析 5月8日発表 まとめ May 10, 2026 · ここ北川精機は、プリント基板・電子部品向けのプレス装置や搬送機械などを手がける産業機械メーカーです。 特に、銅張積層板や多層基板向けの成型プレス装置に強みを持ち、電子機器・半導体・DX関連分野を支える設備を提供しています。",
+    "url": "https://note.com/maron04/n/n5fdf1e12d5c0",
+    "pass": 3
+   },
+   {
+    "quote": "北川精機（6327）株価・今後の見通し・予想｜noteマネー 北川精機（6327）は買い？売り？投資家がnoteで書いた評価、値動きの分析、今後の動向などが集まっています。業績や関連ニュースもあわせて確認できます。",
+    "url": "https://note.com/tag/vm/investment_money/company-6327",
+    "pass": 3
+   },
+   {
+    "quote": "北川精機（6327）に乗り遅れた人へ。次の上場来高値候補となる「PCB・... Apr 29, 2026 · 本記事では、北川精機の動きを「点」で捉えるのではなく、PCB・プレス装置エコシステムを「面」で捉え直し、東京証券取引所に現在上場している20の関連銘柄を厳選してご紹介します。",
+    "url": "https://note.com/tatsuya_sabato/n/n63202bb236e5",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "北川精機の決算を読み解く｜産業機械が牽引して営業利益52.2％増、最終利益90.1％増。次の焦点は売上100億円計画と利益率の維持｜タイスケ｜決算から学ぶ日本株",
+    "url": "https://note.com/taisuke_invest/n/ne4e01adaa598",
+    "pass": 3
+   },
+   {
+    "quote": "北川精機の決算を読み解く｜産業機械が牽引して営業利益52.2％増、最終利益90.1％増。次の焦点は売上100億円計画と利益率の維持",
+    "url": "https://note.com/taisuke_invest/n/ne4e01adaa598",
+    "pass": 3
+   },
+   {
+    "quote": "北川精機が、2026年6月期の通期決算を発表しました。",
+    "url": "https://note.com/taisuke_invest/n/ne4e01adaa598",
+    "pass": 3
+   },
+   {
+    "quote": "北川精機は、プリント基板などの製造工程で使われるプレス装置や搬送機械を主力とする産業機械メーカーです。",
+    "url": "https://note.com/taisuke_invest/n/ne4e01adaa598",
+    "pass": 3
+   },
+   {
+    "quote": "売上高が前期比6.1％増だった一方、営業利益は52.2％増、経常利益は72.0％増、最終利益は90.1％増",
+    "url": "https://note.com/taisuke_invest/n/ne4e01adaa598",
+    "pass": 3
+   },
+   {
+    "quote": "営業利益率も10.0％から14.4％まで改善",
+    "url": "https://note.com/taisuke_invest/n/ne4e01adaa598",
+    "pass": 3
+   },
+   {
+    "quote": "2027年6月期は売上高100億円を計画しており、前期比51.3％増という大幅な成長を見込んでいます",
+    "url": "https://note.com/taisuke_invest/n/ne4e01adaa598",
+    "pass": 3
+   },
+   {
+    "quote": "「主力の産業機械事業が好調に推移し、売上高6.1％増に対して営業利益は52.2％増。収益性が大幅に改善する一方、次期は売上100億円への急拡大と利益率の維持が焦点となる決算です。」",
+    "url": "https://note.com/taisuke_invest/n/ne4e01adaa598",
+    "pass": 3
+   },
+   {
+    "quote": "北川精機（6327）2026年6月期 第3四半期決算分析 5月8日発表 まとめ｜マロン04",
+    "url": "https://note.com/maron04/n/n5fdf1e12d5c0",
+    "pass": 3
+   },
+   {
+    "quote": "北川精機（6327）2026年6月期 第3四半期決算分析 5月8日発表 まとめ",
+    "url": "https://note.com/maron04/n/n5fdf1e12d5c0",
+    "pass": 3
+   },
+   {
+    "quote": "ここ北川精機は、プリント基板・電子部品向けのプレス装置や搬送機械などを手がける産業機械メーカーです。",
+    "url": "https://note.com/maron04/n/n5fdf1e12d5c0",
+    "pass": 3
+   },
+   {
+    "quote": "特に、銅張積層板や多層基板向けの成型プレス装置に強みを持ち、電子機器・半導体・DX関連分野を支える設備を提供しています。",
+    "url": "https://note.com/maron04/n/n5fdf1e12d5c0",
+    "pass": 3
+   },
+   {
+    "quote": "公式HPでは、「世界のDXを支える唯一無二の企業」を掲げ、中期経営計画「KITAGAWA2030」を推進しています。",
+    "url": "https://note.com/maron04/n/n5fdf1e12d5c0",
+    "pass": 3
+   },
+   {
+    "quote": "2026年6月期第3四半期は、売上・利益ともに大幅増益となる好決算でした。",
+    "url": "https://note.com/maron04/n/n5fdf1e12d5c0",
+    "pass": 3
+   },
+   {
+    "quote": "特に産業機械事業の高水準な工場稼働と大型案件の進捗が利益を押し上げています。",
+    "url": "https://note.com/maron04/n/n5fdf1e12d5c0",
+    "pass": 3
+   },
+   {
+    "quote": "指標 実績（2026年6月期3Q累計） 前年同期比",
+    "url": "https://note.com/maron04/n/n5fdf1e12d5c0",
+    "pass": 3
+   },
+   {
+    "quote": "北川精機（6327）株価・今後の見通し・予想｜noteマネー",
+    "url": "https://note.com/tag/vm/investment_money/company-6327",
+    "pass": 3
+   },
+   {
+    "quote": "北川精機（6327）に乗り遅れた人へ。次の上場来高値候補となる「PCB・プレス装置」関連20社を全公開｜日本個別株デューデリジェンスセンター",
+    "url": "https://note.com/tatsuya_sabato/n/n63202bb236e5",
+    "pass": 3
+   },
+   {
+    "quote": "北川精機（6327）に乗り遅れた人へ。次の上場来高値候補となる「PCB・プレス装置」関連20社を全公開",
+    "url": "https://note.com/tatsuya_sabato/n/n63202bb236e5",
+    "pass": 3
+   },
+   {
+    "quote": "広島県府中市の老舗産業機械メーカー、北川精機（6327）の株価が市場の注目を一身に集めています。プリント基板（PCB）の素材である銅張積層板（CCL）を成形する真空多段プレス装置で世界トップクラスのシェアを持つ同社は、生成AIの爆発的な普及によって急増したAIサーバー向け高多層・高速伝送基板の旺盛な需要を背景に、業績・株価ともに新たなステージに突入しました。直近では出来高変化率ランキングの上位に名を連ねる場面も増え、PCB関連の隠れた本命株として個人投資家の物色の的となっています。",
+    "url": "https://note.com/tatsuya_sabato/n/n63202bb236e5",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、ここで「もう乗り遅れた」と諦めるのは早計です。北川精機の急騰は、PCB業界全体に流れる構造的な変化の氷山の一角に過ぎません。AI半導体の高性能化、データセンターの大規模投資、車載エレクトロニクスのCASE化、そして「脱中国」を志向する日本企業のサプライチェーン再構築。この巨大な潮流は、PCB製造装置・プレス機械・PCB薬品・銅張積層板・ICパッケージ基板・基板実装機・ICソケット・プローブカードといった、川上から川下まで幅広い関連銘柄に追い風となって吹き続けています。",
+    "url": "https://note.com/tatsuya_sabato/n/n63202bb236e5",
+    "pass": 3
+   },
+   {
+    "quote": "本記事では、北川精機の動きを「点」で捉えるのではなく、PCB・プレス装置エコシステムを「面」で捉え直し、東京証券取引所に現在上場している20の関連銘柄を厳選してご紹介します。世界トップシェアを握りながらも、まだ十分に市場に評価されていない中堅ニッチ企業から、AI需要の本格化で業績の踊り場を抜けつつある大型銘柄まで、テーマと深く関わる20社をバランスよく選定しました。一つひとつの銘柄について、事業内容・注目理由・企業沿革・リスク要因を丁寧に掘り下げ、皆さまの銘柄研究の一助となるよう構成しています。",
+    "url": "https://note.com/tatsuya_sabato/n/n63202bb236e5",
+    "pass": 3
+   },
+   {
+    "quote": "本記事は情報提供を目的としたものであり、特定銘柄の売買を推奨するものではありません。投資判断はすべてご自身の責任で行っていただくよう、お願いいたします。記事内の数値・業績・事業内容については、執筆時点で公開されている情報をもとに作成しており、正確性については万全を期しておりますが、その内容を保証するものではありません。実際の投資にあたっては、必ず各企業のIR資料・決算短信・有価証券報告書等の最新の一次情報をご確認のうえ、ご判断ください。市況や業績の変化により、本記事の内容と実態が乖離する可能性がある点もご承知おきください。",
+    "url": "https://note.com/tatsuya_sabato/n/n63202bb236e5",
+    "pass": 3
+   },
+   {
+    "quote": "【金属加工機械の名門】アマダ (6113)",
+    "url": "https://note.com/tatsuya_sabato/n/n63202bb236e5",
+    "pass": 3
+   },
+   {
+    "quote": "板金加工機械で国内シェア70％超を誇る金属加工機械の最大手。ファイバーレーザー加工機、プレスブレーキ、パンチング加工機、自動化システムなど幅広いラインアップを展開し、海外売上比率は約60％に達するグローバル企業です。2013年に旧日立ビアメカニクスを買収し、PCBドリル穴明け機・CO2レーザー加工機の世界トップメーカーであるビアメカニクスを子会社に持つ点も、本テーマでは見逃せないポイントです。",
+    "url": "https://note.com/tatsuya_sabato/n/n63202bb236e5",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "けむ。 on X: \"北川精機つっよ・・\" / X Jul 2, 2026 · 北川精機つっよ・・ Continue with phone Continue with Apple Continue with Google",
+    "url": "https://x.com/kemu77_77/status/2072498095213167070",
+    "pass": 3
+   },
+   {
+    "quote": "nepe@kabu on X: \"北川精機 寄り前から言ってたの自分だけ？ \" Jul 29, 2026 · 北川精機 寄り前から言ってたの自分だけ？😂",
+    "url": "https://x.com/nepekabu/status/2082644520962036103",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://kitagawaseiki.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitagawaseiki.co.jp/about-history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitagawaseiki.co.jp/about-locations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitagawaseiki.co.jp/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitagawaseiki.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitagawaseiki.co.jp/about-introduction/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitagawaseiki.co.jp/about-sustainability/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitagawaseiki.co.jp/about-environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitagawaseiki.co.jp/about-ethics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitagawaseiki.co.jp/about-governance/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitagawaseiki.co.jp/product-pcbcclpress/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitagawaseiki.co.jp/product-vacuumpress/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitagawaseiki.co.jp/product-testpress/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitagawaseiki.co.jp/product-press-others/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitagawaseiki.co.jp/product-fasystem/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitagawaseiki.co.jp/product-solidstocker/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitagawaseiki.co.jp/product-special/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitagawaseiki.co.jp/product-floorlift/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitagawaseiki.co.jp/product-automaticwarehouse/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitagawaseiki.co.jp/product-cfrp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitagawaseiki.co.jp/product-laminator/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitagawaseiki.co.jp/product-solarpanel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitagawaseiki.co.jp/product-laminator-others/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitagawaseiki.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitagawaseiki.co.jp/recruit-link/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitagawaseiki.co.jp/newgraduate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitagawaseiki.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://kitagawaseiki.co.jp/files/libs/5781/202611021330597680.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kitagawaseiki.co.jp/files/libs/5777/202610061633378784.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kitagawaseiki.co.jp/files/libs/5776/202610060830228078.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kitagawaseiki.co.jp/files/libs/5783/202611061522097813.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kitagawaseiki.co.jp/files/libs/5782/20261106152203390.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kitagawaseiki.co.jp/files/libs/5779/202610281517428042.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kitagawaseiki.co.jp/files/libs/5769/202609291332087657.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kitagawaseiki.co.jp/files/libs/5736/202609010832285488.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://kitagawaseiki.co.jp/files/libs/3396/t/202202241522395544.jpeg?1645683768",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://kitagawaseiki.co.jp/files/libs/1942/t/202112131303187777.JPG?1639368198",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.kiw.co.jp/prod/material/small-lot-products/small-lot",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kiw.co.jp/prod/material/small-lot-products",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitagawaseiki.co.jp/evaluationtest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E5%8C%97%E5%B7%9D%E7%B2%BE%E6%A9%9F",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitagawaseiki.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitagawaseiki.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitagawaseiki.co.jp/contact-general/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kitagawaseiki.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kitagawagt.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/taisuke_invest/n/ne4e01adaa598",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/maron04/n/n5fdf1e12d5c0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/vm/investment_money/company-6327",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tatsuya_sabato/n/n63202bb236e5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/taisuke_invest/n/ne4e01adaa598",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/maron04/n/n5fdf1e12d5c0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/vm/investment_money/company-6327",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tatsuya_sabato/n/n63202bb236e5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/taisuke_invest/n/ne4e01adaa598",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/maron04/n/n5fdf1e12d5c0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/vm/investment_money/company-6327",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tatsuya_sabato/n/n63202bb236e5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/taisuke_invest/n/ne4e01adaa598",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/maron04/n/n5fdf1e12d5c0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tag/vm/investment_money/company-6327",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/tatsuya_sabato/n/n63202bb236e5",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/kemu77_77/status/2072498095213167070",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/nepekabu/status/2082644520962036103",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "北川精機 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.kiw.co.jp/prod/material/small-lot-products/small-lot",
+    "https://www.kiw.co.jp/prod/material/small-lot-products",
+    "https://kitagawaseiki.co.jp/evaluationtest/",
+    "https://systemcreate-inc.co.jp/products/moiron_top",
+    "https://www.ipros.com/product/detail/2000514126/",
+    "https://kitagawaseiki.co.jp/",
+    "https://kyusyu.innovent-expo.jp/semi/exhibitors/detail/?cid=308"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "北川精機 会社概要 事業内容",
+   "results": [
+    "https://ja.wikipedia.org/wiki/北川精機",
+    "https://kitagawaseiki.co.jp/about/",
+    "https://kitagawaseiki.co.jp/",
+    "https://kigyobunseki.jp/companies/hinwvh/",
+    "https://job.mynavi.jp/28/pc/search/corp295068/outline.html",
+    "https://www.atengineer.com/pr/kitagawaseiki/company",
+    "https://zukaikeizai.com/kaisha/6327/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "北川精機 お問い合わせ メール",
+   "results": [
+    "https://kitagawaseiki.co.jp/contact-general/",
+    "https://kitagawaseiki.co.jp/contact/",
+    "https://www.kitagawagt.co.jp/contact/",
+    "https://www.os-engines.co.jp/form/support/index.html",
+    "https://www.ezo-brg.co.jp/contact/",
+    "https://www.techno-kitagawa.com/inquiry",
+    "http://kitagawa-grp.co.jp/contact.php"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 北川精機",
+   "results": [
+    "https://note.com/taisuke_invest/n/ne4e01adaa598",
+    "https://note.com/maron04/n/n5fdf1e12d5c0",
+    "https://note.com/tag/vm/investment_money/company-6327",
+    "https://note.com/tatsuya_sabato/n/n63202bb236e5",
+    "https://note.com/pocoa_420/n/ned79c5536275",
+    "https://note.com/supfine/n/n4a86d73a0a87",
+    "https://note.com/holy_viper7334/n/n16ed01ea8957"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 北川精機",
+   "results": [
+    "https://note.com/taisuke_invest/n/ne4e01adaa598",
+    "https://note.com/maron04/n/n5fdf1e12d5c0",
+    "https://note.com/tag/vm/investment_money/company-6327",
+    "https://note.com/tatsuya_sabato/n/n63202bb236e5",
+    "https://note.com/pocoa_420/n/ned79c5536275",
+    "https://note.com/supfine/n/n4a86d73a0a87",
+    "https://note.com/holy_viper7334/n/n16ed01ea8957"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 北川精機",
+   "results": [
+    "https://note.com/taisuke_invest/n/ne4e01adaa598",
+    "https://note.com/maron04/n/n5fdf1e12d5c0",
+    "https://note.com/tag/vm/investment_money/company-6327",
+    "https://note.com/tatsuya_sabato/n/n63202bb236e5",
+    "https://note.com/pocoa_420/n/ned79c5536275",
+    "https://note.com/supfine/n/n4a86d73a0a87",
+    "https://note.com/holy_viper7334/n/n16ed01ea8957"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 北川精機",
+   "results": [
+    "https://note.com/taisuke_invest/n/ne4e01adaa598",
+    "https://note.com/maron04/n/n5fdf1e12d5c0",
+    "https://note.com/tag/vm/investment_money/company-6327",
+    "https://note.com/tatsuya_sabato/n/n63202bb236e5",
+    "https://note.com/pocoa_420/n/ned79c5536275",
+    "https://note.com/supfine/n/n4a86d73a0a87",
+    "https://note.com/holy_viper7334/n/n16ed01ea8957"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "北川精機 note 社長",
+   "results": [
+    "https://ja.m.wikipedia.org/wiki/北川精機",
+    "https://kitagawaseiki.co.jp/about/",
+    "https://the-shashi.com/tse/6327/ceo/",
+    "https://the-shashi.com/tse/6327/executives/",
+    "https://donburi.accountant/history/?ds=117788&do=0",
+    "https://compalyze.co.jp/company/7240001034181",
+    "https://note.com/open_azalea2045/n/nd3761ec5364a",
+    "https://www.nikkan.co.jp/articles/view/395221",
+    "https://keizai.info/cover-bingo/34913",
+    "https://kitaishihon.com/company/6327/board-of-director"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "北川精機 X 投稿",
+   "results": [
+    "https://x.com/kemu77_77/status/2072498095213167070",
+    "https://x.com/nepekabu/status/2082644520962036103",
+    "https://wolf-fun.secret.jp/?cmd=stock_detail&code=6327",
+    "https://wolf-fun.secret.jp/?cmd=trader_stock&twid=1043754233231634434&code=6327",
+    "https://kitagawaseiki.co.jp/",
+    "https://finance.yahoo.co.jp/quote/6327.T/post",
+    "https://r.nikkei.com/nkd/disclosure/tdnr/20261104564396/",
+    "https://r.nikkei.com/nkd/company/ednr/?scode=6327",
+    "https://finance.yahoo.co.jp/cm/message/1006327/klc0nc0ba5a1/",
+    "https://kitagawaseiki.co.jp/ir/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  }
+ ],
+ "missing": {
+  "取引先": "記載なし（3回確認済み：公式27頁／PDF・画像10件／外部27頁・検索9回）"
+ }
+}

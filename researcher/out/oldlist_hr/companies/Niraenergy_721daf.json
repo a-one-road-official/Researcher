@@ -1,0 +1,948 @@
+{
+ "name": "Niraenergy",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-11T11:19:48.710162+00:00",
+ "official_url": "https://www.niraenergy.com/",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$86,000",
+    "url": "https://prospeo.io/c/nira-energy-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$500,000",
+    "url": "https://prospeo.io/c/nira-energy-revenue",
+    "pass": 3
+   },
+   {
+    "label": "2. Seed Round",
+    "value": "29-May-2025 $65.5M   Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/512447-32",
+    "pass": 3
+   },
+   {
+    "label": "Seed",
+    "value": "",
+    "url": "https://pitchbook.com/profiles/company/512447-32",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Denver, Colorado 80202, United States",
+    "url": "https://prospeo.io/c/nira-energy-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "We replicate ERIS and NRIS studies, not FCITC approximations.",
+    "url": "https://www.niraenergy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "that scale clean energy projects",
+    "url": "https://www.niraenergy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Nira Energy supports generation and load developers, transmission planning engineers, utility teams, and ISOs by streamlining study processes and enabling transparent, aligned decision-making across stakeholders.",
+    "url": "https://www.niraenergy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Directly accelerates projects reaching operation",
+    "url": "https://www.niraenergy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enable large loads to enter the queue more efficiently and transparently",
+    "url": "https://www.niraenergy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Evaluate impacts of competitor projects and de-risk future buildout",
+    "url": "https://www.niraenergy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "“Interconnection studies are time-intensive and transmission teams are often resource-constrained. Nira enabled our transmission team to do 10x the work we can manage in-house, increasing how fast we move and helping improve the precision of our work product.”",
+    "url": "https://www.niraenergy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Nira has changed the game for prospecting. Before Nira, I would waste weeks vetting sites that had no transmission capacity. With Nira, all of that time is saved because I know which sites have capacity from the start.\"",
+    "url": "https://www.niraenergy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Previously, there was no way to look at transmission capacity across the number of POI’s we were interested in. Nira allows us to prospect for a much larger volume of sites at a faster rate than any alternative I’ve seen.\"",
+    "url": "https://www.niraenergy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Nira has changed the game for prospecting. Before Nira, I would waste weeks vetting sites that had no transmission capacity. With Nira, all of that time is saved because I know which sites have capacity from the start.",
+    "url": "https://www.niraenergy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"Previously, there was no way to look at transmission capacity across the number of POI’s we were interested in. Nira allows us to prospect for a much larger volume of sites at a faster rate than any alternative I’ve seen.",
+    "url": "https://www.niraenergy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Predict upgrade exposure and phase outcomes",
+    "url": "https://www.niraenergy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Deep dive into results at a shortlist of priority sites",
+    "url": "https://www.niraenergy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Compare scenarios based on knowledge of competing projects in the queue",
+    "url": "https://www.niraenergy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We respect your Privacy",
+    "url": "https://www.niraenergy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "At Nira, we build software that helps grid stakeholders move faster, and more reliably, through the process of interconnection.",
+    "url": "https://www.niraenergy.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Nira has been profitable since day one.",
+    "url": "https://www.niraenergy.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "\"Nira unites talented problem-solvers dedicated to exceptional work. I grow as a thinker tackling critical energy transition challenges while maintaining work-life balance with leadership's support. It's a place of genuine opportunity, and I'm proud to be here.\"",
+    "url": "https://www.niraenergy.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "\"It's rewarding to work closely with incredible transmission planning engineers to understand the technical details of our power grid. And, I love that our work has direct mission impact by helping renewable energy developers get successful projects off the ground more quickly.\"",
+    "url": "https://www.niraenergy.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Company provided 401k plan so you can invest in retirement.",
+    "url": "https://www.niraenergy.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Professional Development",
+    "url": "https://www.niraenergy.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We respect your Privacy",
+    "url": "https://www.niraenergy.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "As clean energy and large load reshape the grid, transmission and interconnection determine what actually gets built. Nira provides transparent, ISO-aligned insights that help developers, utilities, ISOs, and large energy users bring projects online faster — without sacrificing reliability.",
+    "url": "https://www.niraenergy.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Nira's injection studies replicate the exact study processes the ISOs use",
+    "url": "https://www.niraenergy.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "precise,",
+    "url": "https://www.niraenergy.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Nira was built by transmission and interconnection experts who saw firsthand how approximate screening tools fail to reflect real ISO study outcomes. Our team combines deep transmission planning expertise with enterprise-grade software engineering to bring rigor and accuracy to interconnection decisions.",
+    "url": "https://www.niraenergy.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Nira Energy was founded by transmission experts to align early-stage interconnection screening with real ISO study outcomes by replicating ISO injection study processes.",
+    "url": "https://www.niraenergy.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Prior work supported $1B+ in ISO upgrade savings",
+    "url": "https://www.niraenergy.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Proven Impact at Scale",
+    "url": "https://www.niraenergy.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Nira has modeled 500+ GW of interconnection studies for 100+ leading developers, uncovering over $3 billion in cost discrepancies to help customers optimize their projects.",
+    "url": "https://www.niraenergy.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "that scale clean energy projects",
+    "url": "https://www.niraenergy.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Directly accelerates projects reaching operation",
+    "url": "https://www.niraenergy.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Enable large loads to enter the queue more efficiently and transparently",
+    "url": "https://www.niraenergy.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "Evaluate impacts of competitor projects and de-risk future buildout",
+    "url": "https://www.niraenergy.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "We respect your Privacy",
+    "url": "https://www.niraenergy.com/company",
+    "pass": 1
+   },
+   {
+    "quote": "変電所ごとの利用可能容量や改修コストを地図上で即座に算出・可視化する「Prospecting」と、申請キュー内の競合影響や事業リスクを...",
+    "url": "https://www.firstcvc.jp/global/niraenergy.com",
+    "pass": 3
+   },
+   {
+    "quote": "VertPro by Vert Energy Group",
+    "url": "https://getlatka.com/companies/niraenergy.com",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/niraenergy.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/niraenergy.com",
+    "pass": 3
+   },
+   {
+    "quote": "Nira is a map tool, built for renewable energy developers, that shows available capacity at every interconnection point on the electrical grid. Customers like AES and Cypress Creek use Nira to find the most profitable points on the grid to site new projects.",
+    "url": "https://prospeo.io/c/nira-energy-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View contact profiles from",
+    "url": "https://prospeo.io/c/nira-energy-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Nira Energy has approximately",
+    "url": "https://prospeo.io/c/nira-energy-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/nira-energy-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/nira-energy-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Get Targeted Leads for free",
+    "url": "https://prospeo.io/c/nira-energy-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Nira Energy 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/512447-32",
+    "pass": 3
+   },
+   {
+    "quote": "Business/Productivity Software",
+    "url": "https://pitchbook.com/profiles/company/512447-32",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of a digital map platform designed to help developers identify viable locations for energy projects.",
+    "url": "https://pitchbook.com/profiles/company/512447-32",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/512447-32",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/512447-32",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/512447-32",
+    "pass": 3
+   },
+   {
+    "quote": "Nira Energy’s primary industry is Business/Productivity Software.",
+    "url": "https://pitchbook.com/profiles/company/512447-32",
+    "pass": 3
+   },
+   {
+    "quote": "Is Nira Energy a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/512447-32",
+    "pass": 3
+   },
+   {
+    "quote": "Nira Energy is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/512447-32",
+    "pass": 3
+   },
+   {
+    "quote": "Privacy Preference Center",
+    "url": "https://pitchbook.com/profiles/company/512447-32",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/512447-32",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/512447-32",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by 100+",
+    "url": "https://www.niraenergy.com/",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "All full time employees receive company equity with a 4 year vesting schedule.",
+    "url": "https://www.niraenergy.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Nira supports employees through courses, certifications and attending conferences.",
+    "url": "https://www.niraenergy.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We recommend employees take a minimum of 3 weeks off per year.",
+    "url": "https://www.niraenergy.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Huscarlは、企業の自家保険（セルフインシュアランス）および自家保険子会社（キャプティブ）の運用を支援するAIアクチュアリー（保険数理）プラットフォー...",
+    "url": "https://www.firstcvc.jp/global/niraenergy.com",
+    "pass": 3
+   },
+   {
+    "quote": "Metriportは、米国の医療データを統合・標準化し、医療従事者や臨床AIエージェントにリアルタイムで提供するオープンソースの医療データインフラ企業であ...",
+    "url": "https://www.firstcvc.jp/global/niraenergy.com",
+    "pass": 3
+   },
+   {
+    "quote": "Nira Energy Revenue 2024: $3.6M Est.",
+    "url": "https://getlatka.com/companies/niraenergy.com",
+    "pass": 3
+   },
+   {
+    "quote": "Nira Energy has not published its revenue. GetLatka estimates it at about $3.6M a year (December 2024).",
+    "url": "https://getlatka.com/companies/niraenergy.com",
+    "pass": 3
+   },
+   {
+    "quote": "All 2 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/niraenergy.com",
+    "pass": 3
+   },
+   {
+    "quote": "Nira Energy CEO, founders & employees",
+    "url": "https://getlatka.com/companies/niraenergy.com",
+    "pass": 3
+   },
+   {
+    "quote": "Chris Ariante founded Nira Energy in 2021 and runs it as CEO. Nira Energy had 24 employees (December 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/niraenergy.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Nira Energy's revenue?",
+    "url": "https://getlatka.com/companies/niraenergy.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Nira Energy's revenue at about",
+    "url": "https://getlatka.com/companies/niraenergy.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Nira Energy have?",
+    "url": "https://getlatka.com/companies/niraenergy.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in December 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/niraenergy.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/niraenergy.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/niraenergy.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/niraenergy.com",
+    "pass": 3
+   },
+   {
+    "quote": "Nira Energy Revenue, Funding & Valuation",
+    "url": "https://prospeo.io/c/nira-energy-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "View Financials And Employees At Nira Energy",
+    "url": "https://prospeo.io/c/nira-energy-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "industry and current estimated revenues",
+    "url": "https://prospeo.io/c/nira-energy-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Management Level",
+    "url": "https://prospeo.io/c/nira-energy-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Employees by Department",
+    "url": "https://prospeo.io/c/nira-energy-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "What are the revenues of Nira Energy?",
+    "url": "https://prospeo.io/c/nira-energy-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Nira Energy generates an estimated annual revenue of",
+    "url": "https://prospeo.io/c/nira-energy-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This revenue figure reflects the company's market position and business performance in its industry.",
+    "url": "https://prospeo.io/c/nira-energy-revenue",
+    "pass": 3
+   },
+   {
+    "quote": ". This valuation is calculated based on industry-standard revenue multiples and reflects the company's growth potential and market positioning.",
+    "url": "https://prospeo.io/c/nira-energy-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Nira Energy have?",
+    "url": "https://prospeo.io/c/nira-energy-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "employees. The company continues to grow its workforce to support its business operations and expansion.",
+    "url": "https://prospeo.io/c/nira-energy-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Nira Energy has 32 total employees.",
+    "url": "https://pitchbook.com/profiles/company/512447-32",
+    "pass": 3
+   },
+   {
+    "quote": "What is Nira Energy’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/512447-32",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Nira Energy is",
+    "url": "https://pitchbook.com/profiles/company/512447-32",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Nira — Nira Energy delivers transparent, ISO-accurate capacity and cost data that helps developers and transmission planners avoid false positives, reduce upgrade risks, and get to interconnection faster.",
+    "url": "https://www.niraenergy.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Nira Energyの資金調達・投資家情報 | 海外スタートアップ | FIRST CV... — Nira Energy（法人名: Nira, Inc.）は、電力網への系統連系（インターコネクション）および送電計画プロセスの自動化・迅速化プラットフォームを提供する米国のクリーンテック企業である。 同社...",
+    "url": "https://www.firstcvc.jp/global/niraenergy.com",
+    "pass": 3
+   },
+   {
+    "quote": "Nira — Nira Energy was founded by transmission experts to align early-stage interconnection screening with real ISO study outcomes by replicating ISO injection study processes.",
+    "url": "https://www.niraenergy.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "Nira Energy Overview & Revenue | ContactOutNira Energy - LinkedInCasey Heier - Senior Director of Interconnection at Nira ...JERA - Wikipediaデル・テクノロジーズ株式会社 企業情報 | Dell 日本 — Nira Energy is an Utilities company, headquartered in New York City, United States. See $198.0K revenue and verified contacts. Nira is grid-planning software built for the clean energy transition. Our platform helps developers,",
+    "url": "https://contactout.com/company/Nira-Energy-23168",
+    "pass": 3
+   },
+   {
+    "quote": "Casey Heier - Senior Director of Interconnection at Nira ...JERA - Wikipediaデル・テクノロジーズ株式会社 企業情報 | Dell 日本 — Senior Director of Interconnection at Nira Energy · Helping renewable developers navigate interconnection queues · Experience: Nira Energy · Education: Stanford University · Location: Oakland ... JERAは、 東京電力ホールディングス 傘下の東京電力フュエル&パワー（東電FP）と、中部電力とが50%ずつ出資し、燃料の上流開発・調達・トレーディング・輸送から、火力発電所の建設・運営までを",
+    "url": "https://www.linkedin.com/in/casey-heier-b3545949",
+    "pass": 3
+   },
+   {
+    "quote": "Modernizing interconnection for a - niraenergy.com — As clean energy and large load reshape the grid, transmission and interconnection determine what actually gets built. Nira provides transparent, ISO-aligned insights that help developers, utilities, ISOs, and large energy users bring projects online faster — without sacrificing reliability.",
+    "url": "https://www.niraenergy.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "Nira Energy (@niraenergy) • Instagram photos and videos — 🗺️ We help clean energy developers navigate interconnection risk.",
+    "url": "https://www.instagram.com/niraenergy/",
+    "pass": 3
+   },
+   {
+    "quote": "Nira Corporation's Vision for Sustainable Energy Solutions — Jun 12, 2017 · As a pioneering leader in the renewable energy sector, Nira Energy is dedicated to harnessing the power of the sun to create a brighter, cleaner future for all. At Nira Energy, we specialize in delivering cutting-edge solar solutions tailored to meet the diverse needs of our clients.",
+    "url": "https://niraenergy.in/",
+    "pass": 3
+   },
+   {
+    "quote": "Nira Energy Partners with Energize Capital to Scale ... — This case study highlights how one utility-scale developer used Nira Prospecting and In-Queue tools to identify a high-risk site before submitting an interconnection request (IR) – ultimately avoiding $87 million in site washout without upgrades.",
+    "url": "https://www.niraenergy.com/insight/how-nira-helped-a-developer-avoid-67m-in-upgrade-costs",
+    "pass": 3
+   },
+   {
+    "quote": "Nira Energy Revenue 2024: $3.6M Est. - getlatka.com — Sep 2, 2026 · Nira Energy is an Energy Management Software company based in the United States, founded in 2021.",
+    "url": "https://getlatka.com/companies/niraenergy.com",
+    "pass": 3
+   },
+   {
+    "quote": "Nira Energy Revenue, Funding & Valuation - prospeo.io — Nira Energy has revenue of $3,165,535, estimated valuation of $10,200,000, $500,000 in total funding. Find contacts and company information on Prospeo.",
+    "url": "https://prospeo.io/c/nira-energy-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Nira Energy 2026 Company Profile: Valuation, Funding ...NIRA Revenue, Funding & ValuationNira Energy Funding History: $65.5M | Indexed.vcNira – Funding, Acquisitions & Key Rivals – 2026NIRA 2026 Company Profile: Valuation, Investors, Acquisition ... — Information on valuation, funding, cap tables, investors, and executives for Nira Energy. Use the PitchBook Platform to explore the full profile. Wh",
+    "url": "https://pitchbook.com/profiles/company/512447-32",
+    "pass": 3
+   },
+   {
+    "quote": "Nira Energy Funding History: $65.5M | Indexed.vc — Sep 7, 2026 · Summary It lists 11–50 employees. It has raised $65.5M in total across 1 round, most recently a $65.5M Seed round in May 2025.",
+    "url": "https://indexed.vc/companies/nira-energy",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/nira-energy-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/512447-32",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Nira Energy - LinkedIn Nira Energy | 17,212 followers on LinkedIn. Nira is grid-planning software built for the clean energy transition.",
+    "url": "https://www.linkedin.com/company/nira-energy",
+    "pass": 3
+   },
+   {
+    "quote": "Chris Ariante - Nira Energy | LinkedInAndy Chen - New York, New York, United States - LinkedInAndrew Martin - Co-Founder at Nira Energy | LinkedIn4 Years of Nira. What’s Next? - LinkedInCasey Heier - Senior Director of Interconnection at Nira ...NIRA - LinkedIn · Experience: Nira Energy · Education: Stevens Institute of Technology · Location: San Diego · 500+ connections on LinkedIn. Experience: N",
+    "url": "https://www.linkedin.com/in/chris-ariante-9302804a",
+    "pass": 3
+   },
+   {
+    "quote": "Andy Chen - New York, New York, United States - LinkedInAndrew Martin - Co-Founder at Nira Energy | LinkedIn4 Years of Nira. What’s Next? - LinkedInCasey Heier - Senior Director of Interconnection at Nira ...NIRA - LinkedIn Experience: Nira Energy · Education: Brown University · Location: New York · 500+ connections on LinkedIn. View Andy Chen’s profile on LinkedIn, a professional community of 1 b",
+    "url": "https://www.linkedin.com/in/andy-chen-38596889",
+    "pass": 3
+   },
+   {
+    "quote": "Andrew Martin - Co-Founder at Nira Energy | LinkedIn4 Years of Nira. What’s Next? - LinkedInCasey Heier - Senior Director of Interconnection at Nira ...NIRA - LinkedIn Co-Founder at Nira Energy · My background is in studying high voltage power grids (e.g. \"Transmission Planning\") to ensure they will remain reliable for decades to come, and I lead the ... Jul 1, 2025 · Breaking grid bottlenecks — a",
+    "url": "https://www.linkedin.com/in/andrew-martin-539a5288",
+    "pass": 3
+   },
+   {
+    "quote": "Chris Ariante - Nira Energy | LinkedInNira Energy Management Team | Org Chart - RocketReachNira Energy - LinkedInNira Energy CEO, Founder, Key Executive Team, Board of ...Nira Energy Overview & Revenue | ContactOut · Experience: Nira Energy · Education: Stevens Institute of Technology · Location: San Diego · 500+ connections on LinkedIn. View Chris Ariante’s profile on LinkedIn, a professional ...",
+    "url": "https://www.linkedin.com/in/chris-ariante-9302804a",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.niraenergy.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niraenergy.com/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niraenergy.com/company",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.firstcvc.jp/global/niraenergy.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.niradynamics.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/JERA",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://contactout.com/company/Nira-Energy-23168",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/in/casey-heier-b3545949",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.instagram.com/niraenergy/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://app.niraenergy.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.niradynamics.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nirasystems.com/case-studies/hub",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nira.com/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.ninjaone.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/niraenergy.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://prospeo.io/c/nira-energy-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/512447-32",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prospeo.io/c/nira-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/nira-energy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/chris-ariante-9302804a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/andy-chen-38596889",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/andrew-martin-539a5288",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/chris-ariante-9302804a",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Niraenergy 日本 導入",
+   "results": [
+    "https://www.niraenergy.com/",
+    "https://www.firstcvc.jp/global/niraenergy.com",
+    "https://www.niraenergy.com/company",
+    "https://www.niradynamics.jp/",
+    "https://app.niraenergy.com/",
+    "https://niraenergy.in/",
+    "https://www.jaif.or.jp/information/iaea-global-nuclear-power-development-outlook-2026"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Niraenergy 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/JERA",
+    "https://contactout.com/company/Nira-Energy-23168",
+    "https://www.linkedin.com/in/casey-heier-b3545949",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.niraenergy.com/",
+    "https://akiraenergy.com/",
+    "https://www.linkedin.com/company/nira-energy"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Niraenergy Japan",
+   "results": [
+    "https://www.niraenergy.com/company",
+    "https://www.instagram.com/niraenergy/",
+    "https://www.niraenergy.com/",
+    "https://app.niraenergy.com/",
+    "https://niraenergy.in/",
+    "https://niraenergy.in/about-us/",
+    "https://www.linkedin.com/company/nira-energy"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Niraenergy manufacturing customer case study",
+   "results": [
+    "https://www.niradynamics.com/case-studies",
+    "https://nirasystems.com/case-studies/hub",
+    "https://nira.com/case-studies/",
+    "https://www.niraenergy.com/insight/how-nira-helped-a-developer-avoid-67m-in-upgrade-costs",
+    "https://www.niraenergy.com/",
+    "https://tryangletech.vercel.app/portfolio/nira-energy",
+    "https://niraenergy.in/portfolio/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Niraenergy white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.ninjaone.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.niraenergy.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Niraenergy founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/niraenergy.com",
+    "https://prospeo.io/c/nira-energy-revenue",
+    "https://pitchbook.com/profiles/company/512447-32",
+    "https://prospeo.io/c/nira-revenue",
+    "https://indexed.vc/companies/nira-energy",
+    "https://compworth.com/company/nira",
+    "https://pitchbook.com/profiles/company/234177-76"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Niraenergy",
+   "results": [
+    "https://note.com/nira_japan",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/nira_japan/n/n29da8aca4bd5?hl=en",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/startup_now0708/n/na84a5eb8078a?hl=en",
+    "https://note.com/spaceygoblin/n/n0f0677188638",
+    "https://note.com/kon_yu/n/neeae80887ef4"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Niraenergy",
+   "results": [
+    "https://about.x.com/en",
+    "https://help.x.com/en",
+    "https://x.com/niraholdings",
+    "https://x.com/nira10x",
+    "https://help.x.com/en/using-x/create-x-account",
+    "https://x.com/NIRA_Ug",
+    "https://x.com/RyanAFournier/status/2117296789443240367"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Niraenergy",
+   "results": [
+    "https://www.linkedin.com/company/nira-energy",
+    "https://www.linkedin.com/in/chris-ariante-9302804a",
+    "https://www.linkedin.com/in/andy-chen-38596889",
+    "https://www.linkedin.com/in/andrew-martin-539a5288",
+    "https://www.linkedin.com/company/nira-water",
+    "https://www.linkedin.com/pulse/4-years-nira-whats-next-nira-energy-g4ydc/",
+    "https://www.linkedin.com/in/casey-heier-b3545949"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Niraenergy",
+   "results": [
+    "https://www.facebook.com/niraholding/",
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/@niraskincare/",
+    "https://www.facebook.com/p/Nira-Corporation-61556819334464/",
+    "https://www.facebook.com/NiraApp/",
+    "https://www.facebook.com/niraholdings.co.bw/",
+    "https://www.facebook.com/NIRAglobal/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Niraenergy note 社長",
+   "results": [
+    "https://www.linkedin.com/in/chris-ariante-9302804a",
+    "https://contactout.com/company/Nira-Energy-23168",
+    "https://www.niraenergy.com/team",
+    "https://www.niraenergy.com/",
+    "https://rocketreach.co/nira-energy-management_b79d41bcc5a8a05f",
+    "https://www.linkedin.com/company/nira-energy",
+    "https://www.cbinsights.com/company/nira-energy/people"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Niraenergy X 投稿",
+   "results": [
+    "https://www.instagram.com/niraenergy/",
+    "https://www.niraenergy.com/",
+    "https://app.niraenergy.com/",
+    "https://x.com/Haruyuki_duel/status/2118917104795832707",
+    "https://x.com/nira_1115/status/2096996176688263514",
+    "https://x.com/ti_nira_n/status/2076779287617868022",
+    "https://x.com/nira_aoi/status/2087147106641621165"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部24頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部24頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部24頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部24頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式3頁／PDF・画像0件／外部24頁・検索12回）"
+ }
+}

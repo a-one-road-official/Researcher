@@ -1,0 +1,846 @@
+{
+ "name": "株式会社フジタイト",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T11:33:29.142186+00:00",
+ "official_url": "http://www.fmtec.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "従業員数": [
+   {
+    "label": "募集人員",
+    "value": "関東・中部北陸・中国九州のエリア各1名",
+    "url": "http://www.fmtec.co.jp/recruit.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "製品分野": [
+   {
+    "quote": "2023.11.2 10月26日（木）～10月27日（金）防衛産業参入促進展 大阪府 ハービスホール 出展します",
+    "url": "http://www.fmtec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は､京都におきまして創業以来、アルミダイキャスト用金型製作から加工までをトータルにカバーし、精密試作品製作、冶具製作、",
+    "url": "http://www.fmtec.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "光学機器、医療機器、半導体関連、精密機械加工、自動車関連部品の加工、その他、試作品などの小ロット多品種化対応",
+    "url": "http://www.fmtec.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "製造コストの「鍵」を握る「金型製作」に焦点を絞り、製作個数、形状等の条件を熟考の上、求められる低コスト・高水準に対応しながら、かつ、お客様のソリューションをサポートするために立ち上げられた、社内プロジェクトです",
+    "url": "http://www.fmtec.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "それらを活用して自動車等の機械部品、各種装置部品、医療機器等の部品（注1）まで、",
+    "url": "http://www.fmtec.co.jp/works.html",
+    "pass": 1
+   },
+   {
+    "quote": "(注1) 医療機器製造業 登録済",
+    "url": "http://www.fmtec.co.jp/works.html",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターを活用して試作品を作る利点は、金型を作成しないためコストと納期の大幅な短縮が見込めるという点です",
+    "url": "http://www.fmtec.co.jp/works.html",
+    "pass": 1
+   },
+   {
+    "quote": "※対応可能寸法は使用する工具、治具により変化します",
+    "url": "http://www.fmtec.co.jp/setsubi.html",
+    "pass": 1
+   },
+   {
+    "quote": "●自動車の場合…京滋バイパス「宇治西ＩＣ」より2分",
+    "url": "http://www.fmtec.co.jp/recruit.html",
+    "pass": 1
+   },
+   {
+    "quote": "2023.11.2 10月26日（木）～10月27日（金）防衛産業参入促進展 大阪府 ハービスホール 出展します",
+    "url": "https://fmtec.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車部品、各種センサー部品、工作機械部品、航空部品、医療機器部品、家電部品など",
+    "url": "https://www.fujitaito.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちフジタイトが手掛ける製品は、皆様が日々手にする家庭用品から、医療・航空用部品にまで幅広く使用されております",
+    "url": "https://www.fujitaito.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車部品、工作機械部品、半導体装置部品、",
+    "url": "https://www.fujitaito.co.jp/corporate/",
+    "pass": 3
+   },
+   {
+    "quote": "家電部品、医療機器部品、航空機関連部品など",
+    "url": "https://www.fujitaito.co.jp/corporate/",
+    "pass": 3
+   },
+   {
+    "quote": "こういう宇宙と愛に関するロマンティシズムがあるから生きていけるって感じがします",
+    "url": "https://note.com/toku123/n/n516f3c9d6563",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "2025.12.12 リアルタイムの情報はInstagramでも発信中です",
+    "url": "http://www.fmtec.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "社内プロジェクト「Dream-Project-Ｘ」始動",
+    "url": "http://www.fmtec.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "試作・量産の両方に対応しており、3Dプリンターも活用して顧客のニーズに合った最適な試作方法をご提案し、",
+    "url": "http://www.fmtec.co.jp/works.html",
+    "pass": 1
+   },
+   {
+    "quote": "・砂型（木型、3Dプリンター）",
+    "url": "http://www.fmtec.co.jp/works.html",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター",
+    "url": "http://www.fmtec.co.jp/works.html",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターを活用して試作品を作る利点は、金型を作成しないためコストと納期の大幅な短縮が見込めるという点です",
+    "url": "http://www.fmtec.co.jp/works.html",
+    "pass": 1
+   },
+   {
+    "quote": "支給された3Dデータを使用し、3Dプリンターで直接製品を造形する事が出来る最新技術です",
+    "url": "http://www.fmtec.co.jp/works.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属製造の代わりに3Dプリンターで作成した樹脂マスターモデルで鋳型を作成します",
+    "url": "http://www.fmtec.co.jp/works.html",
+    "pass": 1
+   },
+   {
+    "quote": "◆CAM及び対話プログラミングによる部品加工業務を担当していただきます",
+    "url": "http://www.fmtec.co.jp/recruit.html",
+    "pass": 1
+   },
+   {
+    "quote": "※使用CAMソフト：Mastercam 割り出し五軸加工対応",
+    "url": "http://www.fmtec.co.jp/recruit.html",
+    "pass": 1
+   },
+   {
+    "quote": "※CAD/CAM・マシニングセンタの実務経験ある方は優遇いたします",
+    "url": "http://www.fmtec.co.jp/recruit.html",
+    "pass": 1
+   },
+   {
+    "quote": "2025.12.12 リアルタイムの情報はInstagramでも発信中です",
+    "url": "https://fmtec.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "(feat. Hannah Diamond)」が好きになりました",
+    "url": "https://note.com/toku123/n/n516f3c9d6563",
+    "pass": 3
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "部品や製品の一つひとつに責任を持ち、新たな技術の想像と開発に努め、万人の期待に応える品質とサービスの提供に励む",
+    "url": "http://www.fmtec.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "支給された3Dデータを使用し、3Dプリンターで直接製品を造形する事が出来る最新技術です",
+    "url": "http://www.fmtec.co.jp/works.html",
+    "pass": 1
+   },
+   {
+    "quote": "私たちフジタイトが手掛ける製品は、皆様が日々手にする家庭用品から、医療・航空用部品にまで幅広く使用されております",
+    "url": "https://www.fujitaito.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "高品質で不具合のない製品づくりを通じて、安心・安全な社会の発展に貢献します",
+    "url": "https://www.fujitaito.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちフジタイト全従業員はこれらを念頭に、製品のその先にある笑顔のために、これまで以上に厳しい品質管理を行なっていきます",
+    "url": "https://www.fujitaito.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "徳島県の主要な金属製品製造業関連企業一覧｜企業クリップ",
+    "url": "https://note.com/clipcorporation/n/nb5fd9e8303f2",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "弊社は､京都におきまして創業以来、アルミダイキャスト用金型製作から加工までをトータルにカバーし、精密試作品製作、冶具製作、",
+    "url": "http://www.fmtec.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "3次元CADによる精密設計はもとより、小ロットから量試までを短納期、低価格、高品質にてお届けしてまいりました",
+    "url": "http://www.fmtec.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "光学機器、医療機器、半導体関連、精密機械加工、自動車関連部品の加工、その他、試作品などの小ロット多品種化対応",
+    "url": "http://www.fmtec.co.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "試作・量産の両方に対応しており、3Dプリンターも活用して顧客のニーズに合った最適な試作方法をご提案し、",
+    "url": "http://www.fmtec.co.jp/works.html",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンターを活用して試作品を作る利点は、金型を作成しないためコストと納期の大幅な短縮が見込めるという点です",
+    "url": "http://www.fmtec.co.jp/works.html",
+    "pass": 1
+   },
+   {
+    "quote": "修正する場合もデータを差し替えるだけで済むため、小ロット試作に非常に適しています",
+    "url": "http://www.fmtec.co.jp/works.html",
+    "pass": 1
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "アルミ合金、ステンレス合金(SUS)、鉄などを中心に、チタン、真鍮などの加工にも対応可能",
+    "url": "http://www.fmtec.co.jp/works.html",
+    "pass": 1
+   },
+   {
+    "quote": "NC工具研削盤を保有しており、各材質に合わせた特殊刃物を内製する事が出来ます",
+    "url": "http://www.fmtec.co.jp/works.html",
+    "pass": 1
+   },
+   {
+    "quote": "様々な加工機を組み合わせた複合加工により、あらゆる材質や形状に対応いたします",
+    "url": "http://www.fmtec.co.jp/works.html",
+    "pass": 1
+   },
+   {
+    "quote": "・ロスト（石膏、セラミックス）",
+    "url": "http://www.fmtec.co.jp/works.html",
+    "pass": 1
+   },
+   {
+    "quote": "金属製造の代わりに3Dプリンターで作成した樹脂マスターモデルで鋳型を作成します",
+    "url": "http://www.fmtec.co.jp/works.html",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "MAIL:t.watanabe@fmtec.co.jp",
+    "url": "http://www.fmtec.co.jp/access.html",
+    "pass": 1
+   },
+   {
+    "quote": "・応募はこちらのフォームか下記メールよりご応募ください",
+    "url": "http://www.fmtec.co.jp/recruit.html",
+    "pass": 1
+   },
+   {
+    "quote": "◎ご連絡のとれる電話番号、メールアドレス",
+    "url": "http://www.fmtec.co.jp/recruit.html",
+    "pass": 1
+   },
+   {
+    "quote": "◎E-mail t.watanabe@fmtec.co.jp",
+    "url": "http://www.fmtec.co.jp/recruit.html",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社フジタイト｜5軸加工・鋳物加工の一貫対応 — フジタイトは、3Dプリンターや切削によるマスターモデル作成から、石膏鋳造による金型レス試作まで対応しています。 ADC12などダイカスト量産と同材質での試作が可能なため、量産時の材質差によるトラブルを未然に防げます。",
+    "url": "http://fmtec.co.jp/lp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社フジタイト — 株式会社フジタイトは金属部品製造を生業とする企業です 蓄積されたノウハウを持つ人材が充実した設備を活用し、難度の高い加工にも対応致します。 ・幅広い試作方法の御提案 ・試作から量産まで一貫してサポート ・難削材などあらゆる素材に広く対応",
+    "url": "https://fmtec.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社フジタイト - NC自動複合旋盤による切削加工。自動車部品、各... — 高品質で不具合のない製品づくりを通じて、安心・安全な社会の発展に貢献します。 私たちフジタイト全従業員はこれらを念頭に、製品のその先にある笑顔のために、これまで以上に厳しい品質管理を行なっていきます。",
+    "url": "https://www.fujitaito.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 株式会社フジタイト — 平素より多大なるご支援をいただき、誠にありがとうございます。 フジタイトは、旋盤に特化した精密部品加工の専門企業として、お客様からの信頼を支えに、40年以上にわたり技術を磨いてまいりました。 細やかな対応と確かな品質が、私たちの誇りです。",
+    "url": "https://www.fujitaito.co.jp/corporate/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社フジタイト — 株式会社フジタイトは金属部品製造を生業とする企業です 蓄積されたノウハウを持つ人材が充実した設備を活用し、難度の高い加工にも対応致します。 ・幅広い試作方法の御提案 ・試作から量産まで一貫してサポート ・難削材などあらゆる素材に広く対応",
+    "url": "http://www.fmtec.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社フジタイト｜お問い合わせ — 各種お問い合わせは こちら から もしくはページ下部メールボタンよりお願いいたします。 会社見学ご希望の方は こちら から 件名に「会社見学希望」と明記の上、希望日時等を連絡ください、 なるべくご希望に添えるよう調整いたします。",
+    "url": "http://www.fmtec.co.jp/contact.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 株式会社フジタイト — 弊社に興味を持っていただきありがとうございます。 商談やサービスのご利用について下記のフォームよりお問い合わせください。 お電話からのご相談（0883-26-1511）も承っておりますのでお気軽にご連絡ください。",
+    "url": "https://www.fujitaito.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社フジタイト - NC自動複合旋盤による切削加工。自動車部品、各... — contact お問い合わせ 0883-26-1511 [受付時間] 9:00-17:00 (平日) メールでのお問い合わせ 〒776-0001 徳島県吉野川市鴨島町⽜島2322-20",
+    "url": "https://www.fujitaito.co.jp/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "【歌詞解説】Fuji Taito (フジタイト)& ZOT on the WAVE-Crayon (クレ... Mar 9, 2022 · 過去に”TopFreestyle”という曲を出すなど、普段からボースティングの激しいフジタイトらしいリリックである。 言ったろ止まんないって お前の彼女に聞いてみな “止まんねえ”とあるが、他の曲でも、多くこの言葉を使っている。",
+    "url": "https://note.com/atk__12ppsmk/n/ndb3abf70a9d3",
+    "pass": 3
+   },
+   {
+    "quote": "1月15日 NewSlang｜コーーーータ - note（ノート） Jan 18, 2026 · フジタイトがTOP FREESTYLEで現れる粋な演出だったり、 Sawakiもっと名を馳せるべきでしょ・・・など思ったり。 ラス曲の「YAPPARI」が凄く印象残ったな。 ShowStopperだった。 オールナイトはもうキチィけど、デイイベ潜入したいなと思うのであった。",
+    "url": "https://note.com/idolmason/n/nedf6f3242ce1",
+    "pass": 3
+   },
+   {
+    "quote": "【音楽日記】最近よく聴く10曲～主にMall Boyz～ Jun 22, 2026 · 「一等」は『Mall Tape3』収録曲のひとつで、TohjiとFuji Taito (フジタイト)が歌っています。 いい歌です。 Tohjiのリリックの一部を引用します。 この世代じゃオレが一等 街の景色を変えたビジョン っぽくてすごいとかは興味がねえ オレらのための音をヒット",
+    "url": "https://note.com/toku123/n/n516f3c9d6563",
+    "pass": 3
+   },
+   {
+    "quote": "徳島県の主要な金属製品製造業関連企業一覧｜企業クリップ Jul 29, 2025 · 株式会社フジタイト ｜ 徳島県吉野川市鴨島町牛島2322番地20 株式会社田村製作所 ｜ 徳島県小松島市中田町字千代ケ原17番地9 株式会社橋本塗装 ｜ 徳島県徳島市佐古一番町13番2号 林精工株式会社 ｜ 徳島県小松島市金磯町8番79号",
+    "url": "https://note.com/clipcorporation/n/nb5fd9e8303f2",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "【歌詞解説】Fuji Taito(フジタイト)& ZOT on the WAVE-Crayon(クレヨン)[prod by ZOT on the WAVE]”ラップスタア2021“｜∀tusk!",
+    "url": "https://note.com/atk__12ppsmk/n/ndb3abf70a9d3",
+    "pass": 3
+   },
+   {
+    "quote": "【歌詞解説】Fuji Taito(フジタイト)& ZOT on the WAVE-Crayon(クレヨン)[prod by ZOT on the WAVE]”ラップスタア2021“",
+    "url": "https://note.com/atk__12ppsmk/n/ndb3abf70a9d3",
+    "pass": 3
+   },
+   {
+    "quote": "“が放送された。惜しくも優勝を逃したものの、その情熱的な人間性と中毒性の高い曲で大きな爪痕を残した”",
+    "url": "https://note.com/atk__12ppsmk/n/ndb3abf70a9d3",
+    "pass": 3
+   },
+   {
+    "quote": "当初リリースされるつもりの無かった曲だったようだが、ファン達の熱い声を受け、先日各種サービスでリリースを開始した。",
+    "url": "https://note.com/atk__12ppsmk/n/ndb3abf70a9d3",
+    "pass": 3
+   },
+   {
+    "quote": "そして、今回のビートを担当したのは、今日本で1番人気のあるビートメイカーと言っても過言ではない",
+    "url": "https://note.com/atk__12ppsmk/n/ndb3abf70a9d3",
+    "pass": 3
+   },
+   {
+    "quote": "彼はどんなビートも器用に作ることのできるビートメイカーであるが、今回のビートは今流行りの",
+    "url": "https://note.com/atk__12ppsmk/n/ndb3abf70a9d3",
+    "pass": 3
+   },
+   {
+    "quote": "浮遊感のあるキャッチーなビートであるが、それだけに乗り方を選ぶビートだが、それを上手くキャッチーに乗りこなした曲だと言える。",
+    "url": "https://note.com/atk__12ppsmk/n/ndb3abf70a9d3",
+    "pass": 3
+   },
+   {
+    "quote": "ラップスタア誕生2021の”4th stageで、このビートを使い、SkaaiとFuji taitoが対戦した。",
+    "url": "https://note.com/atk__12ppsmk/n/ndb3abf70a9d3",
+    "pass": 3
+   },
+   {
+    "quote": "1月15日 NewSlang｜コーーーータ",
+    "url": "https://note.com/idolmason/n/nedf6f3242ce1",
+    "pass": 3
+   },
+   {
+    "quote": "2026は積極的にHIPHOPも見にくべきだと俺は思っていてぇ。",
+    "url": "https://note.com/idolmason/n/nedf6f3242ce1",
+    "pass": 3
+   },
+   {
+    "quote": "馴染みの無い面子も曲を聴くと「あー！あの！」となった。",
+    "url": "https://note.com/idolmason/n/nedf6f3242ce1",
+    "pass": 3
+   },
+   {
+    "quote": "山梨のSENA、Aroma-T、Awik Sonic",
+    "url": "https://note.com/idolmason/n/nedf6f3242ce1",
+    "pass": 3
+   },
+   {
+    "quote": "高崎のFuji Taito & Briza Yavaisz Daze",
+    "url": "https://note.com/idolmason/n/nedf6f3242ce1",
+    "pass": 3
+   },
+   {
+    "quote": "10年前と比べても若い内から各エリアで名前を挙げるMCが出てきたって感じすよね。",
+    "url": "https://note.com/idolmason/n/nedf6f3242ce1",
+    "pass": 3
+   },
+   {
+    "quote": "DJ TIMEはMIKADOが人気だなとここでも感じた。",
+    "url": "https://note.com/idolmason/n/nedf6f3242ce1",
+    "pass": 3
+   },
+   {
+    "quote": "パフォーマンスでjellyyにメチャ好印象持ったり、",
+    "url": "https://note.com/idolmason/n/nedf6f3242ce1",
+    "pass": 3
+   },
+   {
+    "quote": "【音楽日記】最近よく聴く10曲～主にMall Boyz～｜とく",
+    "url": "https://note.com/toku123/n/n516f3c9d6563",
+    "pass": 3
+   },
+   {
+    "quote": "【音楽日記】最近よく聴く10曲～主にMall Boyz～",
+    "url": "https://note.com/toku123/n/n516f3c9d6563",
+    "pass": 3
+   },
+   {
+    "quote": "最近蒸し暑くなってきましたね。今年の夏はとても暑くなるという噂を耳にしました。震えますね！",
+    "url": "https://note.com/toku123/n/n516f3c9d6563",
+    "pass": 3
+   },
+   {
+    "quote": "さんが交際していた女性と別れたという情報が回ってきました。",
+    "url": "https://note.com/toku123/n/n516f3c9d6563",
+    "pass": 3
+   },
+   {
+    "quote": "ぐんぴぃさんはYoutube「バキ童チャンネル」の人です。街頭インタビューで「童貞ですか？」と聞かれて、「バキバキ童貞ですね」と答えて有名になった人です。",
+    "url": "https://note.com/toku123/n/n516f3c9d6563",
+    "pass": 3
+   },
+   {
+    "quote": "彼が破局したということに私はなんか結構食らいました。",
+    "url": "https://note.com/toku123/n/n516f3c9d6563",
+    "pass": 3
+   },
+   {
+    "quote": "ここからは私が最近よく聴いている好きな曲について語っていきます！",
+    "url": "https://note.com/toku123/n/n516f3c9d6563",
+    "pass": 3
+   },
+   {
+    "quote": "1. Mall Boyz 「U my energy」(Tohji, gummyboy, Elle Teresa)",
+    "url": "https://note.com/toku123/n/n516f3c9d6563",
+    "pass": 3
+   },
+   {
+    "quote": "徳島県の主要な金属製品製造業関連企業一覧｜企業クリップ",
+    "url": "https://note.com/clipcorporation/n/nb5fd9e8303f2",
+    "pass": 3
+   },
+   {
+    "quote": "睦技研株式会社 ｜ 徳島県徳島市東沖洲１丁目１番地１",
+    "url": "https://note.com/clipcorporation/n/nb5fd9e8303f2",
+    "pass": 3
+   },
+   {
+    "quote": "有限会社野口鉄工所 ｜ 徳島県徳島市南昭和町５丁目６６番地の４",
+    "url": "https://note.com/clipcorporation/n/nb5fd9e8303f2",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社山本鉄工所 ｜ 徳島県小松島市金磯町８番９０号",
+    "url": "https://note.com/clipcorporation/n/nb5fd9e8303f2",
+    "pass": 3
+   },
+   {
+    "quote": "合同会社ＹＫテック ｜ 徳島県美馬市穴吹町三島字舞中島１５６５番地",
+    "url": "https://note.com/clipcorporation/n/nb5fd9e8303f2",
+    "pass": 3
+   },
+   {
+    "quote": "西村空缶工業有限会社 ｜ 徳島県名西郡石井町浦庄字上浦６７４番地の１",
+    "url": "https://note.com/clipcorporation/n/nb5fd9e8303f2",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社シンテック ｜ 徳島県名西郡石井町高川原字高川原８７３番地１",
+    "url": "https://note.com/clipcorporation/n/nb5fd9e8303f2",
+    "pass": 3
+   },
+   {
+    "quote": "西精工株式会社 ｜ 徳島県徳島市南矢三町１丁目１１番４号",
+    "url": "https://note.com/clipcorporation/n/nb5fd9e8303f2",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "藤田 稔明 - 株式会社フジタイト - 代表取締役社長 | LinkedIn 株式会社フジタイト - 代表取締役社長 · 職歴: 株式会社フジタイト · 場所: 京都 · LinkedInのつながり1人。 10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで藤田 稔明さんのプロフィールを閲覧しましょう。",
+    "url": "https://jp.linkedin.com/in/稔明-藤田-04a124171",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "フジタイト on X Jul 3, 2026 · フジタイト (@fujitaito) on X 濃いめ硬め多めが出てきましたね😊",
+    "url": "https://x.com/fujitaito/status/2072898466821595402",
+    "pass": 3
+   },
+   {
+    "quote": "フジタイト (@fujitaito) / X 《X/来週開催》1/15 (木) WWW presents NEW SLANG Kee Rooz出演決定🔥 Fuji Taito & Briza Yavaisz Daze、Masato Hayashi、Jellyyabashi、Siero、jellyyを中心に、Gam Ball、SENA, Aroma-T & Awki Sonicらと共に豪華面々がWWW Xに一挙登場。",
+    "url": "https://x.com/fujitaito",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://www.fmtec.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.fmtec.co.jp/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.fmtec.co.jp/works.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.fmtec.co.jp/setsubi.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.fmtec.co.jp/access.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.fmtec.co.jp/recruit.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "http://fmtec.co.jp/lp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://fmtec.co.jp/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.fujitaito.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujitaito.co.jp/corporate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujita.co.jp/company/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujitaito.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.fujita.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/atk__12ppsmk/n/ndb3abf70a9d3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/idolmason/n/nedf6f3242ce1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/toku123/n/n516f3c9d6563",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/clipcorporation/n/nb5fd9e8303f2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/atk__12ppsmk/n/ndb3abf70a9d3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/toku123/n/n516f3c9d6563",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/idolmason/n/nedf6f3242ce1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/clipcorporation/n/nb5fd9e8303f2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/atk__12ppsmk/n/ndb3abf70a9d3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/toku123/n/n516f3c9d6563",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/idolmason/n/nedf6f3242ce1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/clipcorporation/n/nb5fd9e8303f2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/atk__12ppsmk/n/ndb3abf70a9d3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/toku123/n/n516f3c9d6563",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/idolmason/n/nedf6f3242ce1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/clipcorporation/n/nb5fd9e8303f2",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/in/稔明-藤田-04a124171",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/fujitaito/status/2072898466821595402",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/fujitaito",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "フジタイト 取扱製品 試作 小ロット",
+   "results": [
+    "http://fmtec.co.jp/lp/",
+    "https://fmtec.co.jp/",
+    "https://www.fujitaito.co.jp/",
+    "https://www.ftcj.co.jp/products/film-prototype/",
+    "https://www.few.co.jp/small-lot/",
+    "https://ja.nc-net.or.jp/company/71142/product/detail/245202/",
+    "https://www.fujitaito.co.jp/business/",
+    "https://ja.nc-net.or.jp/company/71142/product/detail/245204/",
+    "http://www.fujita-inc.jp/",
+    "https://www.fujita-k.co.jp/technology/size-material-lot/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "フジタイト 会社概要 事業内容",
+   "results": [
+    "https://www.fujitaito.co.jp/corporate/",
+    "http://www.fmtec.co.jp/",
+    "https://www.fujita.co.jp/company/about/",
+    "https://www.fujitaito.co.jp/",
+    "https://www.fujitec.co.jp/corporate/outline",
+    "http://www.fmtec.co.jp/company.html",
+    "https://www.fujita.co.jp/company/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "フジタイト お問い合わせ メール",
+   "results": [
+    "http://www.fmtec.co.jp/contact.html",
+    "https://www.fujitaito.co.jp/contact/",
+    "https://www.fujita.co.jp/contact/",
+    "https://www.fujitaito.co.jp/",
+    "http://kk-fujita33.com/contact",
+    "https://www.fujita-k.co.jp/contact/",
+    "https://fuzita.co.jp/lmh/contact/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com フジタイト",
+   "results": [
+    "https://note.com/atk__12ppsmk/n/ndb3abf70a9d3",
+    "https://note.com/idolmason/n/nedf6f3242ce1",
+    "https://note.com/toku123/n/n516f3c9d6563",
+    "https://note.com/clipcorporation/n/nb5fd9e8303f2",
+    "https://note.com/yuu_noteid/n/nec3f17f82ab4",
+    "https://note.com/f_white/n/nd2bfcd032983",
+    "https://note.com/aitosaan/n/n948db786ff89"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com フジタイト",
+   "results": [
+    "https://note.com/atk__12ppsmk/n/ndb3abf70a9d3",
+    "https://note.com/toku123/n/n516f3c9d6563",
+    "https://note.com/idolmason/n/nedf6f3242ce1",
+    "https://note.com/clipcorporation/n/nb5fd9e8303f2",
+    "https://note.com/yuu_noteid/n/nec3f17f82ab4",
+    "https://note.com/f_white/n/nd2bfcd032983",
+    "https://note.com/aitosaan/n/n948db786ff89"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com フジタイト",
+   "results": [
+    "https://note.com/atk__12ppsmk/n/ndb3abf70a9d3",
+    "https://note.com/toku123/n/n516f3c9d6563",
+    "https://note.com/idolmason/n/nedf6f3242ce1",
+    "https://note.com/clipcorporation/n/nb5fd9e8303f2",
+    "https://note.com/yuu_noteid/n/nec3f17f82ab4",
+    "https://note.com/f_white/n/nd2bfcd032983",
+    "https://note.com/aitosaan/n/n948db786ff89"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com フジタイト",
+   "results": [
+    "https://note.com/atk__12ppsmk/n/ndb3abf70a9d3",
+    "https://note.com/toku123/n/n516f3c9d6563",
+    "https://note.com/idolmason/n/nedf6f3242ce1",
+    "https://note.com/clipcorporation/n/nb5fd9e8303f2",
+    "https://note.com/yuu_noteid/n/nec3f17f82ab4",
+    "https://note.com/f_white/n/nd2bfcd032983",
+    "https://note.com/aitosaan/n/n948db786ff89"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "フジタイト note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://jp.linkedin.com/in/稔明-藤田-04a124171",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://www.fujitaito.co.jp/corporate/",
+    "http://www.fmtec.co.jp/company.html",
+    "https://www.fujita.co.jp/company/officer/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "フジタイト X 投稿",
+   "results": [
+    "https://ja.wikipedia.org/wiki/Fuji_Taito",
+    "https://x.com/fujitaito/status/2072898466821595402",
+    "http://www.fmtec.co.jp/",
+    "https://x.com/fujitaito",
+    "https://twstalker.com/fujitaito",
+    "https://search.yahoo.co.jp/realtime/search/フジタ/",
+    "https://www.instagram.com/fujitaito/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "所在地": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部26頁・検索9回）",
+  "事業内容": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部26頁・検索9回）",
+  "代表者": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部26頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部26頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部26頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部26頁・検索9回）"
+ }
+}

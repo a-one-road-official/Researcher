@@ -1,0 +1,993 @@
+{
+ "name": "株式会社アイジェクト",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T10:47:11.794226+00:00",
+ "official_url": "http://www.i-ject.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒350-1202 埼玉県日高市駒寺野新田251-14 TEL：042-989-8941（代表） FAX：042-989-8952",
+    "url": "https://www.i-ject.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "住所 電話/FAX番号",
+    "value": "〒350-1202 埼玉県日高市駒寺野新田251-14 TEL：042-989-8941（代表） FAX：042-989-8952",
+    "url": "https://www.i-ject.com/access/",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "日本 埼玉県 日高市 [地図を見る] 担当者 戸口儀隆",
+    "url": "https://ja.nc-net.or.jp/company/87505/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "16名",
+    "url": "https://www.i-ject.com/company/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役　戸口　儀隆",
+    "url": "https://www.i-ject.com/company/",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "取引先銀行",
+    "value": "三井住友銀行 埼玉りそな銀行 武蔵野銀行 飯能信用金庫",
+    "url": "https://www.i-ject.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "主要取引先",
+    "value": "医療機器メーカー 独立行政法人 理化学研究所 東京大学 日本情報通信機構 JAXA宇宙航空研究機構",
+    "url": "https://ja.nc-net.or.jp/company/87505/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "業務内容",
+    "value": "バッキングプレート、電子顕微鏡部品 真空装置部品、半導体装置部品 医療機器部品、実験装置 機械加工一般、３Ｄモデル試作、治具（設計、製作）",
+    "url": "https://www.i-ject.com/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "精度1/1000mm単位の製品が欲しい",
+    "url": "http://www.i-ject.com/",
+    "pass": 1
+   },
+   {
+    "quote": "加工製品一覧 | 銅加工の株式会社アイジェクト | 埼玉県",
+    "url": "https://www.i-ject.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "熱伝導率が良いので、反り・ひずみが出やすい製品です",
+    "url": "https://www.i-ject.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "カッターパス、加工公差を考慮した製品です",
+    "url": "https://www.i-ject.com/copper/",
+    "pass": 1
+   },
+   {
+    "quote": "熱伝導率が良いので、反り・ひずみが出やすい製品です",
+    "url": "https://www.i-ject.com/copper/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちアイジェクトは、どんな製品も必ず試作を行います",
+    "url": "https://www.i-ject.com/backingplate/",
+    "pass": 1
+   },
+   {
+    "quote": "熱伝導率が良いので、反り・ひずみが出やすい製品です",
+    "url": "https://www.i-ject.com/backingplate/",
+    "pass": 1
+   },
+   {
+    "quote": "ボケット加工があり残りの板厚が薄くなり、そり・歪みが出やすい製品だが平坦度、平面度共に0.1mm以内に加工",
+    "url": "https://www.i-ject.com/backingplate/",
+    "pass": 1
+   },
+   {
+    "quote": "特にアルミ部品へのメッキ処理に関しては、メッキ専門業者よりも詳しく、製品の精度を考慮した上で切削加工やメッキ処理を行うことができます",
+    "url": "https://www.i-ject.com/aluminum/",
+    "pass": 1
+   },
+   {
+    "quote": "この製品は、検査装置のサンプル回転ドラムです",
+    "url": "https://www.i-ject.com/aluminum/",
+    "pass": 1
+   },
+   {
+    "quote": "こちらの電子顕微鏡用部品は、高い内面嵌合精度が求められ、さらに導通が必要な製品でした",
+    "url": "https://www.i-ject.com/aluminum/",
+    "pass": 1
+   },
+   {
+    "quote": "特にアルミ部品へのメッキ処理に関しては、メッキ専門業者よりも詳しく、最終的な製品精度を考慮した上での切削加工やメッキ処理の指示出しを行うことができるのが、当社の強みです",
+    "url": "https://www.i-ject.com/aluminum/",
+    "pass": 1
+   },
+   {
+    "quote": "本製品のように複雑形状をもつ製品は、通常の3軸のマシニングセンターではなく5軸加工機で加工する必要があります",
+    "url": "https://www.i-ject.com/aluminum/",
+    "pass": 1
+   },
+   {
+    "quote": "精度1/1000mm単位の製品が欲しい",
+    "url": "https://www.i-ject.com/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "精度1/1000mm単位の製品が欲しい",
+    "url": "https://www.i-ject.com/medical/",
+    "pass": 1
+   },
+   {
+    "quote": "常に人の命の重さを感じながら、製品ひとつひとつを扱っております",
+    "url": "https://www.i-ject.com/medical/",
+    "pass": 1
+   },
+   {
+    "quote": "具体的な製品例としては、人工透析器、麻酔機器、人工呼吸器などが挙げられます",
+    "url": "https://www.i-ject.com/medical/",
+    "pass": 1
+   },
+   {
+    "quote": "本質的な部分、「この製品にとっての価値はなんなのか」という部分まで共有しながら、図面に対する理解を深めていきます",
+    "url": "https://www.i-ject.com/suchtroubles/",
+    "pass": 1
+   },
+   {
+    "quote": "そのような打ち合わせをすることで、試作段階における製品の手戻り、加工後の設計変更が極めて少なくなります",
+    "url": "https://www.i-ject.com/suchtroubles/",
+    "pass": 1
+   },
+   {
+    "quote": "図面にはうたっていない、その製品の持つ本当の価値とは何でしょうか",
+    "url": "https://www.i-ject.com/suchtroubles/",
+    "pass": 1
+   },
+   {
+    "quote": "特に、「品質」の場合、その加工品以上に製品全体としての「性能」を左右しかねません",
+    "url": "https://www.i-ject.com/suchtroubles/",
+    "pass": 1
+   },
+   {
+    "quote": "そのような製品全体の性能を最大限発揮するための最高の品質を提供し続けていきます",
+    "url": "https://www.i-ject.com/suchtroubles/",
+    "pass": 1
+   },
+   {
+    "quote": "大型の場合は納得することもあると思いますが、小物の機械加工製品が長納期では困ってしまいます",
+    "url": "https://www.i-ject.com/suchtroubles/",
+    "pass": 1
+   },
+   {
+    "quote": "精度1/1000mm単位の製品が欲しい",
+    "url": "https://www.i-ject.com/suchtroubles/",
+    "pass": 1
+   },
+   {
+    "quote": "私たち（株）アイジェクトは技術者の持つ高度な”技”を受け継ぎ、CAD/CAMなどの最先端の技術とノウハウを駆使して高付加価値製品を生み出しています",
+    "url": "https://www.i-ject.com/suchtroubles/",
+    "pass": 1
+   },
+   {
+    "quote": "精度1/1000mm単位の製品が欲しい",
+    "url": "https://www.i-ject.com/access/",
+    "pass": 1
+   },
+   {
+    "quote": "精度1/1000mm単位の製品が欲しい",
+    "url": "https://www.i-ject.com/%E5%B1%95%E7%A4%BA%E4%BC%9A%E3%80%80%E5%87%BA%E5%B1%95%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "pass": 1
+   },
+   {
+    "quote": "精度1/1000mm単位の製品が欲しい",
+    "url": "https://www.i-ject.com/mm_vol20/",
+    "pass": 1
+   },
+   {
+    "quote": "この導入を通じて、皆様により良い製品・サービスをご提供して参ります",
+    "url": "https://www.i-ject.com/mm_vol20/",
+    "pass": 1
+   },
+   {
+    "quote": "精度1/1000mm単位の製品が欲しい",
+    "url": "https://www.i-ject.com/%E5%9C%B0%E5%9F%9F%E7%B5%8C%E6%B8%88%E7%89%BD%E5%BC%95%E4%BA%8B%E6%A5%AD%E8%A8%88%E7%94%BB/",
+    "pass": 1
+   },
+   {
+    "quote": "【異種金属（SUS304 × C1020）の高精度バッキングプレート】 異材接合 × ジャケット構造 × 5軸加工｜熱管理部品の製作はアイジェクトへ ◆製品の特長",
+    "url": "https://ja.nc-net.or.jp/company/87505/",
+    "pass": 3
+   },
+   {
+    "quote": "ステンレス製品の設計業務（手摺り・プールなど）",
+    "url": "https://www.i-ject.co.jp/company/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "メールマガジンVol.22【1.高精度・難加工技術展に出展いたします！ 2.研磨処理についてご紹介！】",
+    "url": "http://www.i-ject.com/",
+    "pass": 1
+   },
+   {
+    "quote": "メールマガジンVol.21【1.内覧会を開催いたしました！ 2.アルマイト処理について】",
+    "url": "http://www.i-ject.com/",
+    "pass": 1
+   },
+   {
+    "quote": "メールマガジンVol.20【1.新機械導入！ 2.ブラスト加工について】",
+    "url": "http://www.i-ject.com/",
+    "pass": 1
+   },
+   {
+    "quote": "お電話でのお問い合わせは、",
+    "url": "https://www.i-ject.com/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "お電話でのお問い合わせは、",
+    "url": "https://www.i-ject.com/medical/",
+    "pass": 1
+   },
+   {
+    "quote": "お電話でのお問い合わせは、",
+    "url": "https://www.i-ject.com/access/",
+    "pass": 1
+   },
+   {
+    "quote": "お電話でのお問い合わせは、",
+    "url": "https://www.i-ject.com/%E5%B1%95%E7%A4%BA%E4%BC%9A%E3%80%80%E5%87%BA%E5%B1%95%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "pass": 1
+   },
+   {
+    "quote": "メールマガジンVol.22【1.高精度・難加工技術展に出展いたします！ 2.研磨処理についてご紹介！】 | 銅加工の株式会社アイジェクト | 埼玉県",
+    "url": "https://www.i-ject.com/mm_vol22/",
+    "pass": 1
+   },
+   {
+    "quote": "メールマガジンVol.22【1.高精度・難加工技術展に出展いたします！ 2.研磨処理についてご紹介！】",
+    "url": "https://www.i-ject.com/mm_vol22/",
+    "pass": 1
+   },
+   {
+    "quote": "メールマガジンVol.20【1.新機械導入！ 2.ブラスト加工について】 | 銅加工の株式会社アイジェクト | 埼玉県",
+    "url": "https://www.i-ject.com/mm_vol20/",
+    "pass": 1
+   },
+   {
+    "quote": "メールマガジンVol.20【1.新機械導入！ 2.ブラスト加工について】",
+    "url": "https://www.i-ject.com/mm_vol20/",
+    "pass": 1
+   },
+   {
+    "quote": "お電話でのお問い合わせは、",
+    "url": "https://www.i-ject.com/mm_vol20/",
+    "pass": 1
+   },
+   {
+    "quote": "お電話でのお問い合わせは、",
+    "url": "https://www.i-ject.com/%E5%9C%B0%E5%9F%9F%E7%B5%8C%E6%B8%88%E7%89%BD%E5%BC%95%E4%BA%8B%E6%A5%AD%E8%A8%88%E7%94%BB/",
+    "pass": 1
+   },
+   {
+    "quote": "https://copper-plate-manufacturing.com/contact/",
+    "url": "https://ja.nc-net.or.jp/company/87505/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ：プレス金型の株式会社アイジェクト",
+    "url": "https://www.iject.co.jp/info/index.htm",
+    "pass": 3
+   },
+   {
+    "quote": "以下のお問い合わせフォームより、株式会社アイジェクトへお問い合わせをすることができます",
+    "url": "https://www.iject.co.jp/info/index.htm",
+    "pass": 3
+   },
+   {
+    "quote": "）やFAX（0568-88-8089）でのお問い合わせもお待ちしております",
+    "url": "https://www.iject.co.jp/info/index.htm",
+    "pass": 3
+   },
+   {
+    "quote": "電子メールでの返信が不達の場合、他の連絡手段をとらせていただく場合がございますので下記の各欄にご記入をお願いいたします",
+    "url": "https://www.i-ject.co.jp/contact/input.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせいただく際は、下記項目を正確にご記入ください",
+    "url": "https://www.i-ject.co.jp/contact/input.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ内容確認：プレス金型の株式会社アイジェクト",
+    "url": "https://www.iject.co.jp/info/mail.php",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "汎用性・機動性に強く、多品種少量生産に適している",
+    "url": "https://www.i-ject.com/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "機械加工一般、３Ｄモデル試作、治具（設計、製作）",
+    "url": "https://www.i-ject.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "ものづくり中小企業・小規模事業者 試作開発等支援補助金申請案件採択",
+    "url": "https://www.i-ject.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "からの試作、",
+    "url": "https://www.i-ject.com/copper/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちアイジェクトは、どんな製品も必ず試作を行います",
+    "url": "https://www.i-ject.com/backingplate/",
+    "pass": 1
+   },
+   {
+    "quote": "ですが、入念な打ち合わせによって無駄な試作を極力減らします",
+    "url": "https://www.i-ject.com/backingplate/",
+    "pass": 1
+   },
+   {
+    "quote": "設計段階では分からない加工困難な図面などで試作の作製に入らないよう、事前の検討でムダを回避しています",
+    "url": "https://www.i-ject.com/backingplate/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちアイジェクトは試作コストの削減をお手伝いします",
+    "url": "https://www.i-ject.com/suchtroubles/",
+    "pass": 1
+   },
+   {
+    "quote": "そのような打ち合わせをすることで、試作段階における製品の手戻り、加工後の設計変更が極めて少なくなります",
+    "url": "https://www.i-ject.com/suchtroubles/",
+    "pass": 1
+   },
+   {
+    "quote": "小ロットと短納期を繰り返す発注方法は、いまや当然のこと",
+    "url": "https://www.i-ject.com/suchtroubles/",
+    "pass": 1
+   },
+   {
+    "quote": "多品種・小ロット対応はもちろんのこと、ロット単位が注文の度に変わっても大丈夫",
+    "url": "https://www.i-ject.com/suchtroubles/",
+    "pass": 1
+   },
+   {
+    "quote": "機械加工／小ロット（1個から）対応",
+    "url": "https://ja.nc-net.or.jp/company/87505/",
+    "pass": 3
+   },
+   {
+    "quote": "（ 試作開発・少量生産 / ＮＣ機械加工 ）",
+    "url": "https://ja.nc-net.or.jp/company/87505/",
+    "pass": 3
+   },
+   {
+    "quote": "「無酸素銅（C1011／C1020）・小ロット・図面なし対応」",
+    "url": "https://ja.nc-net.or.jp/company/87505/",
+    "pass": 3
+   },
+   {
+    "quote": "・小ロット・1点モノを短納期で対応できる加工先が見つからない",
+    "url": "https://ja.nc-net.or.jp/company/87505/",
+    "pass": 3
+   },
+   {
+    "quote": "③ 小ロット・短納期・高精度を最適バランスで提案",
+    "url": "https://ja.nc-net.or.jp/company/87505/",
+    "pass": 3
+   },
+   {
+    "quote": "試作1個から量産前提の小ロットまで対応",
+    "url": "https://ja.nc-net.or.jp/company/87505/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "真空装置部品、半導体装置部品",
+    "url": "https://www.i-ject.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器部品、実験装置",
+    "url": "https://www.i-ject.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "機械加工一般、３Ｄモデル試作、治具（設計、製作）",
+    "url": "https://www.i-ject.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体装置、バッキングプレート生産開始",
+    "url": "https://www.i-ject.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "当社には、極低温、真空、航空宇宙業界で使用される高精度アルミ部品の加工実績もあり、社内で使用する治具は基本的に自社で設計・製作を行っております",
+    "url": "https://www.i-ject.com/aluminum/",
+    "pass": 1
+   },
+   {
+    "quote": "医療関係装置の加工 | 銅加工の株式会社アイジェクト | 埼玉県",
+    "url": "https://www.i-ject.com/medical/",
+    "pass": 1
+   },
+   {
+    "quote": "私たち（株）アイジェクトでは医療機器部品の精密加工も数多く手がけております",
+    "url": "https://www.i-ject.com/medical/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置、特にバッキングプレートの精密加工で納期がかかりすぎると感じたことはありませんか？",
+    "url": "https://www.i-ject.com/suchtroubles/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器、半導体、電子部品等…",
+    "url": "https://www.i-ject.com/mm_vol22/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせ：プレス金型の株式会社アイジェクト",
+    "url": "https://www.iject.co.jp/info/index.htm",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ内容確認：プレス金型の株式会社アイジェクト",
+    "url": "https://www.iject.co.jp/info/mail.php",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "無酸素銅（C1020）とステンレス（SUS304）の異材質で熱伝導 率が異なり結合が困難な加工品です",
+    "url": "https://www.i-ject.com/backingplate/",
+    "pass": 1
+   },
+   {
+    "quote": "材質はA2017で、全体をNC旋盤で加工し、マシニングセンターで細かい部分を加工した後に、表面処理を行いました",
+    "url": "https://www.i-ject.com/aluminum/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ製通信業界向け精密筐体 - A5052材質・高精度マシニング加工",
+    "url": "https://ja.nc-net.or.jp/company/87505/",
+    "pass": 3
+   },
+   {
+    "quote": "ポンチ絵・現物支給・材質未定の状態からでも対応可能です",
+    "url": "https://ja.nc-net.or.jp/company/87505/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "最新のＣＡＤ/CAMと最新の設備で最先端の加工が可能です",
+    "url": "https://www.i-ject.com/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "私たち（株）アイジェクトは技術者の持つ高度な”技”を受け継ぎ、CAD/CAMなどの最先端の技術とノウハウを駆使して高付加価値製品を生み出しています",
+    "url": "https://www.i-ject.com/suchtroubles/",
+    "pass": 1
+   },
+   {
+    "quote": "高精度の３ＤCAD/CAMやマシニングセンターの設備を活用し、設計から製作まで一貫した品質管理体制で製作を行っていますので、高度な加工品も品質を保証いたします",
+    "url": "https://www.i-ject.com/suchtroubles/",
+    "pass": 1
+   },
+   {
+    "quote": "YouTube＆Instagram公開中！",
+    "url": "https://www.i-ject.com/mm_vol22/",
+    "pass": 1
+   },
+   {
+    "quote": "https://www.instagram.com/iject1999/",
+    "url": "https://www.i-ject.com/mm_vol22/",
+    "pass": 1
+   },
+   {
+    "quote": "YouTube＆Instagram公開中！",
+    "url": "https://www.i-ject.com/mm_vol20/",
+    "pass": 1
+   },
+   {
+    "quote": "https://www.instagram.com/iject1999/",
+    "url": "https://www.i-ject.com/mm_vol20/",
+    "pass": 1
+   },
+   {
+    "quote": "造形物、プール付属設備の企画・設計・販売",
+    "url": "https://www.i-ject.co.jp/company/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "アルミ部品加工から表面処理まで一貫対応｜アイジェクト（埼玉県） — 銅加工・無酸素銅加工でお困りではありませんか？ 「無酸素銅（C1011／C1020）・小ロット・図面なし対応」 ― 小ロット・試作・図面なし対応まで。銅加工の課題解決ならア...",
+    "url": "https://ja.nc-net.or.jp/company/87505/",
+    "pass": 3
+   },
+   {
+    "quote": "銅加工の株式会社アイジェクト | 埼玉県 — 銅加工について約30年の経験と歴史を持つアイジェクトは、銅加工のプロフェッショナルとして、細心の注意を払って加工を行っております。 バッキングプレート 詳しく見る このような精密加工が可能です。 詳しく見る 納入実績や掲載誌をご紹介します。",
+    "url": "https://www.i-ject.com/",
+    "pass": 3
+   },
+   {
+    "quote": "EMIDASBLOG - アルミ部品加工から表面処理まで一貫対応｜アイジェクト... — NC複合旋盤導入の動画を公開！ 【アイジェクト】 みなさんこんにちは。 埼玉県日高市で金属の精密加工を行っているアイジェクトです。 弊社では4月にNC複合旋盤を導入致しましたがその搬入の際に 撮影した動画をYouTubeにアップしました！",
+    "url": "https://ja.nc-net.or.jp/company/87505/pr/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 銅加工の株式会社アイジェクト | 埼玉県 — 会社概要 経営理念 基本方針及び行動方針 1. あたりまえのことをバカにしないで、きちんとやる 2. 人間尊重し、信頼と思いやりを持った行動 3. 「簡単に、スッキリ、解りやすく」を実践する 4. 目的を明確にし、決めた目標に全員で行動する 5.",
+    "url": "https://www.i-ject.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報：株式会社アイジェクト株式会社アイジェクトの採用・求人情報｜エラメク株式会社アイジェクト｜プール・スーパー銭湯・温浴施設を中心としたF...株式会社アイジェクトの会社概要【2026年最新】| SalesNow DB — アイジェクトはFRP製品を中心としたプール周りの手洗、目洗い、シャワーユニットなど、公園等で使用する滑り台やモニュメントや看板、幼稚園、保育園、個人邸向けの安価なプールなどの企画、設計、製造、販売をしています。その他特注製品にも対応致します。 株式会社アイジェクト 信頼とよろこびのモノづくり 私たちは、価値をつくります。 信頼 お客様に信頼と信用される会社 信頼と思いやりを持った人づくり よろこび モノづくりを通して医療・先端技術産業に貢献できる喜び 技術者として「つくる」よろこび「はたらく」よろこび 価値 お客様 ... アイジェクトは大手FRPメーカーの生産設計",
+    "url": "https://www.i-ject.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アイジェクトの採用・求人情報｜エラメク — 株式会社アイジェクト 信頼とよろこびのモノづくり 私たちは、価値をつくります。 信頼 お客様に信頼と信用される会社 信頼と思いやりを持った人づくり よろこび モノづくりを通して医療・先端技術産業に貢献できる喜び 技術者として「つくる」よろこび「はたらく」よろこび 価値 お客様 ...",
+    "url": "https://eramake.jp/iject",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アイジェクト｜プール・スーパー銭湯・温浴施設を中心としたF... — アイジェクトは大手FRPメーカーの生産設計に携わった15年の経験と優れた技術を武器に、 プール・温浴施設の付属設備を中心としたFRP造形物の企画・設計・販売を展開しています。",
+    "url": "https://www.i-ject.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ：プレス金型の株式会社アイジェクト — 以下のお問い合わせフォームより、株式会社アイジェクトへお問い合わせをすることができます。何でもお気軽にお問い合わせください。お電話（0568-88-8068）やFAX（0568-88-8089）でのお問い合わせもお待ちしております。",
+    "url": "https://www.iject.co.jp/info/index.htm",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合せ：株式会社アイジェクト — アイジェクトはFRP製品を中心としたプール周りの手洗、目洗い、シャワーユニットなど、公園等で使用する滑り台やモニュメントや看板、幼稚園、保育園、個人邸向けの安価なプールなどの企画、設計、製造、販売をしています。その他特注製品にも対応致します。",
+    "url": "https://www.i-ject.co.jp/contact/input.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ内容確認：プレス金型の株式会社アイジェクト — 株式会社アイジェクトへのお問い合わせ内容の確認です。株式会社アイジェクトは、プレス金型の設計・製作を行っている職人集団です。どんな複雑な形状にも対応できるよう、すべてを機械だけに頼らず1人1人が技術を高めるようにしています。",
+    "url": "https://www.iject.co.jp/info/mail.php",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 株式会社 アイジェクト - グーペ — トップページ お知らせ 求人ページ 製品写真 定休日カレンダー 基本情報 アイジェクトNEWS 関連サイト一覧 お問い合わせ",
+    "url": "https://r.goope.jp/sr-11-1132912004/contact",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "株式会社アイジェクト様と2026シーズンのサポートパートナー契約を締... coedo_kawagoe (COEDO KAWAGOE F.C / 川越からJリーグへ【公式】). 10 likes 0 replies. ／ 株式会社アイジェクト様と2026シーズンのサポートパートナー契約を締結⚽️ \\ 日高市を拠点に、銅、アルミの精密切削加工をおこなう、株式会社アイジェクト様と2026シーズンのサポートパートナー契約を締結🤝 🔽詳細 ...",
+    "url": "https://x.com/coedo_kawagoe/status/2048688608458994087",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "2（株）アイジェクト Jobs in Worldwide - LinkedIn Today’s top 2 （株）アイジェクト jobs. Leverage your professional network, and get hired. New （株）アイジェクト jobs added daily.",
+    "url": "https://www.linkedin.com/jobs/（株）アイジェクト-jobs-worldwide?f_C=64477301",
+    "pass": 3
+   },
+   {
+    "quote": "ayano d - -- | LinkedIn -- · 職歴: ディーアイジェクト · 場所: 2310801。10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInでayano dさんのプロフィールを閲覧しましょう。",
+    "url": "https://jp.linkedin.com/in/ayano-d-600130362",
+    "pass": 3
+   },
+   {
+    "quote": "【日高市】「株式会社アイジェクト」は銅とアルミの精密加工メーカー... 金属加工にご興味をお持ちの方、アイジェクト様をよろしくお願いいたします！ 【日高市】「株式会社アイジェクト」は銅とアルミの精密加工メーカー！現場のプロに聞く、現場の困りごとに応えるものづくりの力｜川越観光やグルメ情報満載！ https://lnkd.in/gFbVKCcS",
+    "url": "https://jp.linkedin.com/posts/宗則-砂子坂-sagosaka-b9788a19b_日高市株式会社アイジェクトは銅とアルミの精密加工メーカー現場のプロに聞く-activity-7450603806331125762-1tIi",
+    "pass": 3
+   },
+   {
+    "quote": "土井義夫 - 株式会社 ディーアイジェクト - 専務取締役 | LinkedIn 株式会社 ディーアイジェクト - 専務取締役 · ประสบการณ์: 株式会社 ディーアイジェクト · สถานที่ตั้ง: ประเทศไทย · คนรู้จักบน LinkedIn 1 คน ดูโพรไฟล์ของ 土井義夫 บน LinkedIn ชุมชนมืออาชีพที่มีสมาชิก 1 ...",
+    "url": "https://th.linkedin.com/in/義夫-土井-440b92176",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 アイジェクト | Hidaka-shi Saitama - Facebook 株式会社 アイジェクト, 埼玉県 日高市. 1 like · 3 talking about this · 1 was here. 埼玉県日高市で金属の精密加工を行っているアイジェクトです! 医療や半導体・航空関係の部品に加えて、治具などの製作も賜っております。 お客様により良い部品をお届けするために、設計段階から支援を行っている ...",
+    "url": "https://www.facebook.com/61561304037198/",
+    "pass": 3
+   },
+   {
+    "quote": "《アイジェクト新発売のお知らせ ... - Facebook Jan 14, 2025 · 《アイジェクト新発売のお知らせ 》 @okabe118 歯科麻酔用電動注射筒『アイジェクト』を販売開始いたします！ 発売日:2025年2月3日（月） 独自の疼痛緩和アルゴリズムを搭載 バッテリー、カートリッジを含めても138gと計量で持ちやすく安定した操作が可能なため、臨床経験に左右されることなく ...",
+    "url": "https://www.facebook.com/reel/399292326558759/",
+    "pass": 3
+   },
+   {
+    "quote": "歯科麻酔用電動注射筒アイジェクトがいよいよ来週2月3日から発売開始...株式会社アイジェクト - Facebook株式会社アイジェクト - Facebook《2月3日発売の歯科麻酔用電動注射筒アイジェクトをご紹介 》 Aモード...アイジェクト発売開始のお知らせ ... - Facebook 歯科麻酔用電動注射筒アイジェクトがいよいよ来週2月3日から発売開始です😌 1.8mlカートリッジホルダー (ストレート・ネジ式) 1.8mlカートリッジホルダー (アングル・ネジ式) 専用バッテリー 専用カバーは追加購入も可能です 商品のご注文は歯科ディーラー様までお願いいたします！ #株式会社 ... Facebook is showing information to help you better understand the purpose of a Page. See actions tak",
+    "url": "https://www.facebook.com/17841402996315208/videos/631987009372739/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社アイジェクト - Facebook Facebook is showing information to help you better understand the purpose of a Page. See actions taken by the people who manage and post content.",
+    "url": "https://www.facebook.com/pages/株式会社アイジェクト/1536486839927687/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://www.i-ject.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-ject.com/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-ject.com/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-ject.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-ject.com/copper/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-ject.com/backingplate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-ject.com/aluminum/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-ject.com/technologies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-ject.com/machining/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-ject.com/medical/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-ject.com/suchtroubles/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-ject.com/access/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-ject.com/%E5%B1%95%E7%A4%BA%E4%BC%9A%E3%80%80%E5%87%BA%E5%B1%95%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-ject.com/mm_vol22/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-ject.com/mm_vol20/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-ject.com/%E5%9C%B0%E5%9F%9F%E7%B5%8C%E6%B8%88%E7%89%BD%E5%BC%95%E4%BA%8B%E6%A5%AD%E8%A8%88%E7%94%BB/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.i-ject.com/renewal/wp-content/uploads/2019/10/products01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.i-ject.com/renewal/wp-content/uploads/2019/10/products02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.i-ject.com/renewal/wp-content/uploads/2019/10/products03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.i-ject.com/renewal/wp-content/uploads/2019/10/products04.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.i-ject.com/renewal/wp-content/uploads/2019/10/products05.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.i-ject.com/renewal/wp-content/uploads/2019/10/products06.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.i-ject.com/renewal/wp-content/themes/iject-theme/img/img_bnr04.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.i-ject.com/renewal/wp-content/themes/iject-theme/img/troubles06.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.nc-net.or.jp/company/87505/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asiaplanning.com/machining/column/column-4733/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-ject.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iject.co.jp/info/index.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.i-ject.co.jp/contact/input.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.iject.co.jp/info/mail.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/coedo_kawagoe/status/2048688608458994087",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/（株）アイジェクト-jobs-worldwide?f_C=64477301",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/ayano-d-600130362",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/posts/宗則-砂子坂-sagosaka-b9788a19b_日高市株式会社アイジェクトは銅とアルミの精密加工メーカー現場のプロに聞く-activity-7450603806331125762-1tIi",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://th.linkedin.com/in/義夫-土井-440b92176",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61561304037198/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/reel/399292326558759/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/17841402996315208/videos/631987009372739/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/pages/株式会社アイジェクト/1536486839927687/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "アイジェクト 取扱製品 試作 小ロット",
+   "results": [
+    "https://ja.nc-net.or.jp/company/87505/",
+    "https://www.i-ject.com/",
+    "https://asiaplanning.com/machining/column/column-4733/",
+    "https://newji.ai/procurement-purchasing/case-studies-of-prototype-processing-for-small-lot-production/",
+    "https://ja.nc-net.or.jp/company/87505/pr/",
+    "https://www.iject.co.jp/product/index.htm",
+    "https://www.i-ject.com/products/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "アイジェクト 会社概要 事業内容",
+   "results": [
+    "https://www.i-ject.com/company/",
+    "https://www.i-ject.com/",
+    "https://www.i-ject.co.jp/company/",
+    "https://eramake.jp/iject",
+    "https://www.i-ject.co.jp/",
+    "https://salesnow.jp/db/companies/jcb03fmassu23tn92",
+    "https://www.ijec.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "アイジェクト お問い合わせ メール",
+   "results": [
+    "https://www.iject.co.jp/info/index.htm",
+    "https://www.i-ject.co.jp/contact/input.html",
+    "https://www.iject.co.jp/info/mail.php",
+    "https://r.goope.jp/sr-11-1132912004/contact",
+    "https://www.i-ject.com/",
+    "https://i-ject-kyujin.com/contact/",
+    "https://www.i-ject.com/contact/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com アイジェクト",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com アイジェクト",
+   "results": [
+    "https://about.x.com/",
+    "https://x.com/coedo_kawagoe/status/2048688608458994087",
+    "https://x.com/jecto_chintai",
+    "https://x.com/Airina_Zephalio/status/2114425440828055816",
+    "https://x.com/Quffeee/status/2113844977088499820",
+    "https://x.com/CiVmf3f/status/2103146332093632968",
+    "https://x.com/Bs_CR2018_/status/2117961308259917877"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com アイジェクト",
+   "results": [
+    "https://www.linkedin.com/jobs/（株）アイジェクト-jobs-worldwide?f_C=64477301",
+    "https://jp.linkedin.com/in/ayano-d-600130362",
+    "https://jp.linkedin.com/posts/宗則-砂子坂-sagosaka-b9788a19b_日高市株式会社アイジェクトは銅とアルミの精密加工メーカー現場のプロに聞く-activity-7450603806331125762-1tIi",
+    "https://th.linkedin.com/in/義夫-土井-440b92176",
+    "https://au.linkedin.com/in/jason-riley-17b44b59",
+    "https://www.linkedin.com/",
+    "https://gb.linkedin.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com アイジェクト",
+   "results": [
+    "https://www.facebook.com/61561304037198/",
+    "https://www.facebook.com/reel/399292326558759/",
+    "https://www.facebook.com/17841402996315208/videos/631987009372739/",
+    "https://www.facebook.com/pages/株式会社アイジェクト/1536486839927687/",
+    "https://www.facebook.com/株式会社アイジェクト-546976028655900/",
+    "https://www.facebook.com/reel/1132105431785380/",
+    "https://www.facebook.com/reel/488811017320210/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "アイジェクト note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.i-ject.com/company/",
+    "https://diject.co.jp/",
+    "https://cir.nii.ac.jp/crid/1523388080145295744?lang=en",
+    "https://www.i-ject.com/greetings/",
+    "https://www.ijec.co.jp/philosophy.php",
+    "https://www.ijec.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "アイジェクト X 投稿",
+   "results": [
+    "https://www.i-ject.com/",
+    "https://www.instagram.com/iject1999/",
+    "https://www.instagram.com/p/DYjGr7NGMPt/",
+    "https://okabe118.co.jp/products/iject.htm",
+    "https://x.com/reach_ina/status/2119046378588614727",
+    "https://note.com/texture_lora_lab/n/ndb6699fb9c5c",
+    "https://coki.jp/article/column/82199/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式16頁／PDF・画像8件／外部15頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式16頁／PDF・画像8件／外部15頁・検索9回）"
+ }
+}

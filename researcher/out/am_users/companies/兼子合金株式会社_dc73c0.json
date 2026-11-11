@@ -1,0 +1,870 @@
+{
+ "name": "兼子合金株式会社",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T10:44:07.611843+00:00",
+ "official_url": "http://www.kaneko-g.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社",
+    "value": "愛知県西尾市吉良町吉田西中浜71番地",
+    "url": "http://www.kaneko-g.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "本社",
+    "value": "愛知県安城市和泉町北大木1-7",
+    "url": "http://www.kaneko-g.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "本社",
+    "value": "愛知県安城市和泉町北大木1-8",
+    "url": "http://www.kaneko-g.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "愛知県西尾市吉良町吉田西中浜71番地",
+    "url": "http://www.kaneko-g.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "label": "本社",
+    "value": "愛知県西尾市吉良町岡山背撫山4番6",
+    "url": "http://www.kaneko-g.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "愛知県西尾市一色町一色西塩浜173番地",
+    "url": "http://www.kaneko-g.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "愛知県安城市和泉町北大木1−7",
+    "url": "http://www.kaneko-g.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "label": "本社住所",
+    "value": "愛知県西尾市吉良町吉田西中浜71番地",
+    "url": "https://metoree.com/companies/54931/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "33名",
+    "url": "http://www.kaneko-g.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "18名",
+    "url": "http://www.kaneko-g.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "2名",
+    "url": "http://www.kaneko-g.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "33人",
+    "url": "https://metoree.com/companies/54931/",
+    "pass": 3
+   },
+   {
+    "label": "従業員",
+    "value": "33名",
+    "url": "https://nishio-imono.jp/about/member/kanekogoukin.html",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "兼子 浩",
+    "url": "http://www.kaneko-g.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "渡辺 和貴",
+    "url": "http://www.kaneko-g.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "小野 茂昭",
+    "url": "http://www.kaneko-g.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "兼子 浩",
+    "url": "https://nishio-imono.jp/about/member/kanekogoukin.html",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "その他、薄い製品でしたら、4000mm × 4000mm 、6000mm × 3000mmも可能で、重量は3.5tまで可能です",
+    "url": "http://www.kaneko-g.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "兼子精工株式会社にMM-2500TON成形機を導入し、金型から製品確認までの一環体制を設立",
+    "url": "http://www.kaneko-g.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報(ブロー・リム・真空成型金型、プレス金型等) | 兼子グループ",
+    "url": "http://www.kaneko-g.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "量産金型の製作、または少ロット製品の製作まで社内、グループで一貫製作し、",
+    "url": "http://www.kaneko-g.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "炭素繊維強化プラスチック、ガラス繊維強化プラスチックの製品を作るための金型や治具の製造をしています",
+    "url": "http://www.kaneko-g.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "製品データに、鋳造方案を付加した3Dデータを作成し、注湯シュミレーションを行うことで、溶湯の流れ、凝固傾向を確認し、欠陥の出ない方案を策定できます",
+    "url": "http://www.kaneko-g.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス(19)",
+    "url": "https://mono.ipros.com/company/detail/2093952/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (19)",
+    "url": "https://mono.ipros.com/company/detail/2093952/",
+    "pass": 3
+   },
+   {
+    "quote": "兼子合金株式会社の会社概要・製品情報 | Metoree",
+    "url": "https://metoree.com/companies/54931/",
+    "pass": 3
+   },
+   {
+    "quote": "製品情報は、兼子合金株式会社によって登録されています",
+    "url": "https://metoree.com/companies/54931/",
+    "pass": 3
+   },
+   {
+    "quote": "兼子合金株式会社の製品が4件登録されています",
+    "url": "https://metoree.com/companies/54931/",
+    "pass": 3
+   },
+   {
+    "quote": "また、製品はMetoreeに登録されているもののみが表示されています",
+    "url": "https://metoree.com/companies/54931/",
+    "pass": 3
+   },
+   {
+    "quote": "メトリーは産業用製品の選定・取引をよりスムーズにするためのサービスです",
+    "url": "https://metoree.com/companies/54931/",
+    "pass": 3
+   },
+   {
+    "quote": "多くの企業にご賛同いただき、10,000社以上のメーカー・代理店がメトリーに製品登録しています",
+    "url": "https://metoree.com/companies/54931/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "CFRP、GFRP金型",
+    "url": "http://www.kaneko-g.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車産業の発展に伴い、施策開発部品に必要な簡易金型のZAS素材の鋳物を初め、また、部品の軽量化による材質の変更により、施策開発部品用ZAS素材の精密鋳物の確立により受注を伸ばし、アルミ合金鋳造においても、金型の大型化に伴い、大物アルミ合金鋳物を提供出来るように技術及び設備の充実を計り、お客様に提供しています",
+    "url": "http://www.kaneko-g.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂を振動により溶かして接着する振動溶着治具には、重量が軽くて強度のあるアルミが用いられます",
+    "url": "http://www.kaneko-g.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "CFRP、GFRP金型",
+    "url": "http://www.kaneko-g.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "炭素繊維強化プラスチック、ガラス繊維強化プラスチックの製品を作るための金型や治具の製造をしています",
+    "url": "http://www.kaneko-g.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "砂とアルカリフェノール樹脂とを20t/hのスピードで混錬します",
+    "url": "http://www.kaneko-g.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "ZAS素材の鋳物を初め、また、部品の軽量化による材質の変更により、",
+    "url": "https://mono.ipros.com/company/detail/2093952/",
+    "pass": 3
+   },
+   {
+    "quote": "■GFRP、CFRP 金型素材",
+    "url": "https://mono.ipros.com/company/detail/2093952/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "多種・多用途に渡る試作金型製作のノウハウにより、迅速かつ高品質な金型を製作します",
+    "url": "http://www.kaneko-g.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "試作による試行錯誤を繰り返して育ってきた会社です",
+    "url": "http://www.kaneko-g.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "例えば、インジェクションバンパー試作型では2ヶ月半~3ヶ月、ブロー成形金型は1ヶ月半、スポイラーなどの真空成型型は1ヶ月ほどです",
+    "url": "http://www.kaneko-g.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "一品物の砂型手込み鋳造においてのノウハウは、創業以来、培った技術と経験の量に加え、",
+    "url": "http://www.kaneko-g.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "一品物のアルミ、亜鉛合金の鋳造品はもとより、",
+    "url": "http://www.kaneko-g.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "切削性・鋳造性が良く加工が早く済むため、試作に適し短納期で鋳造が可能",
+    "url": "http://www.kaneko-g.co.jp/product/",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "大型門型NCマシンによる、高速かつ高精度に、金型及び多種部品加工に対応",
+    "url": "http://www.kaneko-g.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様のニーズに対応し、コスト・製作時間において、ロスを最小限に抑えた金型設計、製作を提案します",
+    "url": "http://www.kaneko-g.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "多種・多用途に渡る試作金型製作のノウハウにより、迅速かつ高品質な金型を製作します",
+    "url": "http://www.kaneko-g.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "CFRP、GFRP金型",
+    "url": "http://www.kaneko-g.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "トリム治具、搬送治具部品",
+    "url": "http://www.kaneko-g.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "鋳造のメリットを最大限に引き出し、無駄を無くした最良の金型造りを提案",
+    "url": "http://www.kaneko-g.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "母体となる材料を市販のブロック材か又は鋳造品か、形状に合わせた無駄のない金型素材選びから金型造りを提案することによってコスト・日程の削減が可能になります",
+    "url": "http://www.kaneko-g.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "兼子グループは1964に創業、1983年頃から自動車関係の大物アルミ鋳物の製造を行ってきました",
+    "url": "http://www.kaneko-g.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金型の納期は発注してからどれくらいですか？",
+    "url": "http://www.kaneko-g.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "例えば、インジェクションバンパー試作型では2ヶ月半~3ヶ月、ブロー成形金型は1ヶ月半、スポイラーなどの真空成型型は1ヶ月ほどです",
+    "url": "http://www.kaneko-g.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "順調に受注していた造船部品もオイルショック等造船不況により、受注が激減しましたが、新しく自動車産業の国内生産の拡大により、部品生産に必要な金型の素材として、アルミ合金鋳物の提供を始めると同時に昭和52年3月に兼子合金株式会社として社名を変更しました",
+    "url": "http://www.kaneko-g.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車産業の発展に伴い、施策開発部品に必要な簡易金型のZAS素材の鋳物を初め、また、部品の軽量化による材質の変更により、施策開発部品用ZAS素材の精密鋳物の確立により受注を伸ばし、アルミ合金鋳造においても、金型の大型化に伴い、大物アルミ合金鋳物を提供出来るように技術及び設備の充実を計り、お客様に提供しています",
+    "url": "http://www.kaneko-g.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "溶着治具、巻き込み治具及び、各種機械の設計、製作に携わり、",
+    "url": "http://www.kaneko-g.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "亜鉛合金、アルミ合金鋳造を利用した各種金型の製作開始",
+    "url": "http://www.kaneko-g.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "亜鉛合金、アルミ合金鋳造を利用した各種金型の作成開始",
+    "url": "http://www.kaneko-g.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "亜鉛合金、アルミ合金鋳造を利用した各種金型の設計開始(CAD/CAM導入)",
+    "url": "http://www.kaneko-g.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "兼子精工株式会社にMM-2500TON成形機を導入し、金型から製品確認までの一環体制を設立",
+    "url": "http://www.kaneko-g.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "加工工場に医療機器部品加工用としてNC円テーブルRNC-1001L型(津田駒工業製を導入)",
+    "url": "http://www.kaneko-g.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "西尾市吉良町岡山に自動車内装部品生産用金型素材",
+    "url": "http://www.kaneko-g.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "製品情報(ブロー・リム・真空成型金型、プレス金型等) | 兼子グループ",
+    "url": "http://www.kaneko-g.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "量産金型の製作、または少ロット製品の製作まで社内、グループで一貫製作し、",
+    "url": "http://www.kaneko-g.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "ワンボックスタイプのドアの金型5000mm×2500mmなど大物を作製することが出来ます",
+    "url": "http://www.kaneko-g.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車の成型天井の金型2500mm×2000mmなどを作製することが出来ます",
+    "url": "http://www.kaneko-g.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "ガソリンタンクの金型素材などを作っています",
+    "url": "http://www.kaneko-g.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車シートのクッションやリム成型用の金型を製作しています",
+    "url": "http://www.kaneko-g.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "スポイラーやグリルなど生産数が少ない部品は射出成型ではなく真空成型金型を用います",
+    "url": "http://www.kaneko-g.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "真空成型金型はキャビコアやランナーなどの構造が必要ですが、真空成型の場合は1型で済むため格段に安く済ませることが出来ます",
+    "url": "http://www.kaneko-g.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂を振動により溶かして接着する振動溶着治具には、重量が軽くて強度のあるアルミが用いられます",
+    "url": "http://www.kaneko-g.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "エアバッグとインパネの接着に用いる振動溶着治具を製造しています",
+    "url": "http://www.kaneko-g.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "大型トレーラーのフードや衝撃吸収材などに用いられる2800mm×2600mm×900mmサイズのRIM（Reaction Injection Molding：反応射出成形）の超大物金型を製造",
+    "url": "http://www.kaneko-g.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "国内でこのサイズのリム成型金型を製造できる企業はほとんどありません",
+    "url": "http://www.kaneko-g.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "CFRP、GFRP金型",
+    "url": "http://www.kaneko-g.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "炭素繊維強化プラスチック、ガラス繊維強化プラスチックの製品を作るための金型や治具の製造をしています",
+    "url": "http://www.kaneko-g.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "500リッターサイズの農機具タンクの金型を製造しています",
+    "url": "http://www.kaneko-g.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "トリム治具、搬送治具部品",
+    "url": "http://www.kaneko-g.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "航空機部品を加工するための治具を製造しています",
+    "url": "http://www.kaneko-g.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "また、直径4500mmの円盤型のロケット運搬用の治具を製造しています",
+    "url": "http://www.kaneko-g.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "テーブルサイズ5000×2000のマシンを筆頭に、計5台のマシニングにより金型本体から小物入子まで全てに対応します",
+    "url": "http://www.kaneko-g.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "CATIAをメインに金型の３D設計から加工プログラミングまでを行います",
+    "url": "http://www.kaneko-g.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "金型製作の大詰め作業である上下型のPL合わせ、肉厚調整などのセッティングをMAX300tの加圧力を有するダイスポッティングプレスにて、調整し、熟成させます",
+    "url": "http://www.kaneko-g.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "2500Tのプレス能力により、比較的大型な射出成形品、自動車用バンパー、インパネなどの成型に対応できます",
+    "url": "http://www.kaneko-g.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、自動車産業の発展に伴い、施策開発部品に必要な簡易金型の",
+    "url": "https://mono.ipros.com/company/detail/2093952/",
+    "pass": 3
+   },
+   {
+    "quote": "アルミ合金鋳造においても、金型の大型化に伴い、大物アルミ合金鋳物を",
+    "url": "https://mono.ipros.com/company/detail/2093952/",
+    "pass": 3
+   },
+   {
+    "quote": "■GFRP、CFRP 金型素材",
+    "url": "https://mono.ipros.com/company/detail/2093952/",
+    "pass": 3
+   },
+   {
+    "quote": "アルミ、亜鉛合金を使用し、自動車部品、航空機向けの金型、治具用の大型鋳物を製作しています",
+    "url": "https://nishio-imono.jp/about/member/kanekogoukin.html",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "新日本工機 RB5VM【1台】、テクノコトブキ KMC-20F【1台】、Work NC【1台】、Space-E【1台】、CAMTUS【1台】、デジタルX線センサーPORTA100HF【1台】",
+    "url": "http://www.kaneko-g.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "天井クレーン20t/10t【2基】、天井クレーン10t/3t【1基】、天井クレーン20t【1基】、MPH-3130B 2500×3000【1台】、RB-2N 2400×1200【1台】、RB-4M Ⅱ 5000×2000【1台】、RB-4M 4000×2000【1台】、レーザー溶接機 TL-200【1台】、1600ラジアルボール盤【1台】、ダイスポットマシン 2500×1500×300t【1台】、アルゴン溶接機300【2台】、三菱成型器 NM2500T【1台】、レイアウトマシン 3000×3000【1台】、CATIA V5(CAD)【1台】、Space-E(CAD)【3台】、Space-E(CAM)【1台】、Work NC(CAD/CAM)【3台】",
+    "url": "http://www.kaneko-g.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "亜鉛合金、アルミ合金鋳造を利用した各種金型の設計開始(CAD/CAM導入)",
+    "url": "http://www.kaneko-g.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "砂を使って造形していき、自分が作ったものが形になるのはとてもやりがいがあります",
+    "url": "http://www.kaneko-g.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "技術職及び CAD/CAM設計職、営業職など",
+    "url": "http://www.kaneko-g.co.jp/recruit/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "メーカーの対応が遅い場合、メトリーがお客様に代わって催促のメール・電話を実施します",
+    "url": "https://metoree.com/companies/54931/",
+    "pass": 3
+   },
+   {
+    "quote": "お客様にメーカーからメールにて回答が届き、お客様とメーカーで直接やり取りを行います",
+    "url": "https://metoree.com/companies/54931/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "兼子合金 | 企業 情報 | イプロスものづくり — 兼子合金 | 企業 情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 機械要素・部品",
+    "url": "https://mono.ipros.com/company/detail/2093952/",
+    "pass": 3
+   },
+   {
+    "quote": "兼子合金 株式会社の 会社概要 ・製品情報 - Metoree — 兼子合金 株式会社の 会社概要 ・製品情報 - Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/54931/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | KANEKO GROUP | 西尾市の 兼子合金 、安城市 ... — お問い合わせ | KANEKO GROUP | 西尾市の 兼子合金 、安城市 ... kaneko-g.co.jp http://www.kaneko-g.co.jp > contact",
+    "url": "http://www.kaneko-g.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "兼子合金 | 企業情報 | イプロスものづくり — 兼子合金 | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 機械要素・部品",
+    "url": "https://mono.ipros.com/company/detail/2093952/",
+    "pass": 3
+   },
+   {
+    "quote": "兼子合金 株式会社 | 会員企業一覧 | 西尾の鋳物 — 兼子合金 株式会社 | 会員企業一覧 | 西尾の鋳物 西尾市鋳物工業協同組合 https://nishio-imono.jp > 組合について > 会員企業一覧",
+    "url": "https://nishio-imono.jp/about/member/kanekogoukin.html",
+    "pass": 3
+   },
+   {
+    "quote": "兼子合金 株式会社の会社概要・製品情報 - Metoree — 兼子合金 株式会社の会社概要・製品情報 - Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/54931/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://www.kaneko-g.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.kaneko-g.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.kaneko-g.co.jp/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.kaneko-g.co.jp/facility/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.kaneko-g.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "http://www.kaneko-g.co.jp/img/ttl_seihin.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.kaneko-g.co.jp/img/btn_seihin_sp.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.kaneko-g.co.jp/img/product/ttl_automobile.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.kaneko-g.co.jp/img/product/img_product1.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.kaneko-g.co.jp/img/product/img_product2.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.kaneko-g.co.jp/img/product/img_product3.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.kaneko-g.co.jp/img/product/img_product4.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.kaneko-g.co.jp/img/product/img_product5.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.kaneko-g.co.jp/img/product/img_product6.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.kaneko-g.co.jp/img/product/img_product7.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.kaneko-g.co.jp/img/product/ttl_industry.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.kaneko-g.co.jp/img/product/img_industry1.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mfg-hack.com/plastic/10134/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2093952/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/54931/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2093952/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nishio-imono.jp/about/member/kanekogoukin.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "兼子合金 取扱製品 試作 小ロット",
+   "results": [
+    "http://www.kaneko-g.co.jp/product/",
+    "https://injection-lab.com/technology/64-2.html",
+    "https://mfg-hack.com/plastic/10134/",
+    "https://www.youtube.com/watch?v=hUn4tT9VgWU",
+    "https://injection-fuchu.com/column/1203/",
+    "https://mono.ipros.com/cg2/%E3%82%A2%E3%83%AB%E3%83%9F%E9%8B%B3%E7%89%A9%E8%A9%A6%E4%BD%9C/",
+    "https://www.protech-japan.jp/products/casting/casting.html",
+    "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "https://www.zen.co.jp/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "兼子合金 会社概要 事業内容",
+   "results": [
+    "http://www.kaneko-g.co.jp/product/",
+    "https://mono.ipros.com/company/detail/2093952/",
+    "https://metoree.com/companies/54931/",
+    "https://compalyze.co.jp/company/4180301012796",
+    "https://www.kanekosangyo.co.jp/company",
+    "http://www.kaneko-g.co.jp/company/",
+    "https://www.buffett-code.com/company/834p2rteda/",
+    "https://job.mynavi.jp/28/pc/search/corp109352/outline.html",
+    "https://www.k-kaneko.com/company/profile/",
+    "http://www.kaneko-g.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "兼子合金 お問い合わせ メール",
+   "results": [
+    "http://www.kaneko-g.co.jp/contact/",
+    "https://mono.ipros.com/company/detail/2093952/",
+    "https://nishio-imono.jp/about/member/kanekogoukin.html",
+    "https://www.k-kaneko.com/contact/",
+    "https://metoree.com/companies/54931/",
+    "https://kaneko-hd.co.jp/contact/",
+    "http://www.kaneko-g.co.jp/",
+    "https://kaneko-kogyo.com/contact",
+    "https://www.kaneko-hoken.com/contact/index.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:note.com 兼子合金",
+   "results": [
+    "https://note.com/nobuchika0919/n/n745c605f10aa",
+    "https://note.com/matsudawi0525/n/n3e7a3f82c7e2",
+    "https://note.com/kunren/n/ne81882741d3e",
+    "https://note.com/gentle_lupine925/n/n5c24c4e9cdae",
+    "https://note.com/yanotomoaki/n/n40a7f635cc45",
+    "https://note.com/tag/%E9%87%91%E5%AD%90%E4%B8%80%E9%A6%AC",
+    "https://note.com/omosiromeigen/n/nc625c7b98a98",
+    "https://note.com/mens_present/n/nf2b7aecd4fd1",
+    "https://note.com/mens_present/n/n8426cad8dd5d",
+    "https://note.com/taipan0506_shodo/n/n6b55a167c7a8?hl=en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 兼子合金",
+   "results": [
+    "https://x.com/taikikaneko1989/status/935706542808039430",
+    "https://x.com/_the__taro_/status/2117048849906999597",
+    "https://x.com/FURUSAWA1989/status/391569414589386753",
+    "https://x.com/yhkondo/status/2054735479342559397",
+    "https://x.com/dragonknight__/status/2096957166653784491",
+    "https://x.com/kanekoshun1121",
+    "https://x.com/yhkondo/status/2054735479342559397?lang=gu",
+    "https://x.com/G1_BARI/status/872146169538805760",
+    "https://x.com/kazlasersub",
+    "https://x.com/hirokaneko226"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:linkedin.com 兼子合金",
+   "results": [
+    "https://jp.linkedin.com/in/akanek0",
+    "https://uk.linkedin.com/in/natchanon-jivakanunt",
+    "https://sg.linkedin.com/in/hiroshige-muraoka-7137884a/en",
+    "https://jp.linkedin.com/in/ota-masuwo-67378016b",
+    "https://jp.linkedin.com/in/peterrolufs/ja",
+    "https://jp.linkedin.com/in/takahiro-sawano-a2a85162",
+    "https://jp.linkedin.com/in/yukihiro-yoshida-298209251",
+    "https://jp.linkedin.com/pulse/%E9%9B%BB%E6%B0%97%E6%A9%9F%E6%A2%B0%E5%BC%8F%E3%82%BD%E3%83%AC%E3%83%8E%E3%82%A4%E3%83%89%E3%83%90%E3%83%AB%E3%83%96%E5%B8%82%E5%A0%B4%E6%8B%A1%E5%A4%A7%E3%81%AE%E6%8E%A8%E9%80%B2%E8%A6%81%E5%9B%A087%E3%81%AEcagr2026-2033-strategicshift-insights-oiwwe",
+    "https://jp.linkedin.com/in/rina-yamamuro-a78125269/ja",
+    "https://jp.linkedin.com/in/%E6%86%B2%E4%B8%80-gohara-san-%E5%90%88%E5%8E%9F-9451461ab"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:facebook.com 兼子合金",
+   "results": [
+    "https://www.facebook.com/groups/462835277217243/posts/3040914599409285/",
+    "https://www.facebook.com/ORDER.MISTAKES/posts/%E3%83%A1%E3%82%A4%E3%83%97%E3%83%AB%E8%B6%85%E5%90%88%E9%87%91%E5%AE%89%E8%97%A4%E3%81%AA%E3%81%A4%E3%81%95%E3%82%93%E3%81%94%E6%9D%A5%E5%A0%B4%E5%90%8C%E3%81%98%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E3%81%AE%E7%9A%86%E3%81%95%E3%82%93%E3%81%AB%E3%81%AF%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%82%BA/808788414832654/",
+    "https://www.facebook.com/OtaruClass/posts/%E5%85%89%E5%90%88%E9%87%91%E8%A3%BD%E4%BD%9C%E6%89%80%E3%81%AF%E6%96%B0%E5%85%895%E4%B8%81%E7%9B%AE%E6%9C%A8%E5%B7%A5%E5%9B%A3%E5%9C%B0%E3%81%AB%E9%9A%A3%E6%8E%A5%E3%81%97%E3%81%A6%E3%81%82%E3%82%8B%E4%B8%8D%E5%87%8D%E7%B5%A6%E6%B0%B4%E6%A0%93%E3%81%A8%E9%96%A2%E9%80%A3%E6%A9%9F%E5%99%A8%E3%81%AE%E9%96%8B%E7%99%BA%E8%A3%BD%E9%80%A0%E8%B2%A9%E5%A3%B2%E3%82%92%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E5%B0%8F%E6%A8%BD%E3%82%92%E4%BB%A3%E8%A1%A8%E3%81%99%E3%82%8B%E4%BC%81%E6%A5%AD%E3%81%A7%E3%81%82%E3%82%8B%E4%B8%89%E4%BB%A3%E7%9B%AE%E7%A4%BE%E9%95%B7%E3%81%AE%E4%BA%95%E4%B8%8A%E6%99%83%E3%81%95%E3%82%93%E3%81%AF%E6%A1%9C%E9%99%BD%E9%AB%98%E6%A0%A1%E7%A1%AC%E5%BC%8F%E9%87%8E%E7%90%83%E9%83%A8%E5%87%BA/3514101091982153/",
+    "https://www.facebook.com/chiparu125/posts/%E3%83%8B%E3%83%B3%E3%82%B8%E3%83%A3%E3%81%AE%E3%82%A2%E3%83%83%E3%83%91%E3%83%BC%E3%82%AB%E3%82%A6%E3%83%AB%E3%82%92%E4%BF%AE%E7%90%86%E3%81%97%E3%81%A6%E3%82%8B%E3%81%82%E3%81%84%E3%81%A0%E3%81%AB%E3%83%98%E3%83%83%E3%83%89%E3%83%A9%E3%82%A4%E3%83%88%E3%82%92%E5%9B%BA%E5%AE%9A%E3%81%99%E3%82%8B%E3%83%8D%E3%82%B8%E3%82%84%E3%82%89%E5%85%89%E8%BB%B8%E8%AA%BF%E6%95%B4%E3%81%AE%E3%83%8D%E3%82%B8%E3%82%84%E3%82%89%E8%A6%8B%E3%81%88%E3%81%AA%E3%81%84%E9%83%A8%E5%88%86%E3%82%92%E3%82%B3%E3%82%BD%E3%82%B3%E3%82%BD%E3%81%A8%E3%83%81%E3%82%BF%E3%83%B3%E5%90%88%E9%87%91%E5%8C%96%E3%81%97%E3%81%A6%E5%B9%B8%E3%81%9B%E3%82%92%E6%84%9F%E3%81%98%E3%82%8B%E5%A5%B3%E3%81%8C%E3%81%93%E3%81%AE%E3%82%8F%E3%81%9F%E3%81%8F%E3%81%97/24670791165906557/",
+    "https://www.facebook.com/vcasaspectacles/posts/%E9%87%91%E5%AD%90%E7%9C%BC%E9%8F%A1-kaneko-optical-kj-41kj-41%E5%88%A5%E6%96%BC%E5%82%B3%E7%B5%B1%E7%9C%89%E6%A1%86%E5%9C%A8%E8%A8%AD%E8%A8%88%E4%B8%8A%E6%9B%B4%E9%A1%AF%E7%B4%B0%E8%96%84%E4%BF%90%E8%90%BD%E5%8A%A0%E4%B8%8A%E7%8D%A8%E7%89%B9%E7%9A%84%E9%88%A6%E5%90%88%E9%87%91%E9%89%B8%E7%B7%B4%E9%8A%9C%E6%8E%A5%E7%BA%96%E7%B4%B0%E7%9A%84%E9%8F%A1%E8%85%B3%E7%B4%B0%E7%AF%80%E4%B8%8A%E7%B5%B2%E7%B5%B2%E5%85%A5%E6%89%A3%E8%AE%93%E8%A8%AD%E8%A8%88%E6%9B%B4%E8%B3%A6%E7%8F%BE%E4%BB%A3%E6%84%9F%E9%87%91%E5%AD%90/3426019184126505/",
+    "https://www.facebook.com/groups/944677069559392/posts/2017415628952192/",
+    "https://www.facebook.com/NorthSailsWorldwide/posts/the-debrief-was-a-first-for-north-sails-cowes-week-shining-a-spotlight-on-a-diff/1495852469249324/",
+    "https://www.facebook.com/groups/358586826319960/posts/1073651564813479/",
+    "https://www.facebook.com/兼子合金-1391921097747637/",
+    "https://www.facebook.com/mak0t0kanek0/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "兼子合金 note 社長",
+   "results": [
+    "http://www.kaneko-g.co.jp/company/",
+    "https://mono.ipros.com/company/detail/2093952/",
+    "https://note.com/mobio_osaka/n/ndf27d8663533",
+    "https://nishio-imono.jp/about/member/kanekogoukin.html",
+    "https://note.com/masatoshi_kaneko/n/naeb86c6bf0dd",
+    "https://note.com/19970102/n/n81c9a04d6d49",
+    "http://www.kaneko-g.co.jp/",
+    "https://compalyze.co.jp/company/4180301022977",
+    "https://cnavi.g-search.or.jp/detail/4180301022977.html",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "兼子合金 X 投稿",
+   "results": [
+    "http://www.kaneko-g.co.jp/",
+    "https://nishio-imono.jp/about/member/kanekogoukin.html",
+    "https://mono.ipros.com/company/detail/2093952/",
+    "https://jglobal.jst.go.jp/detail?JGLOBAL_ID=201105029432879525",
+    "https://metoree.com/companies/54931/",
+    "http://www.kaneko-g.co.jp/company/",
+    "https://cnavi.g-search.or.jp/detail/4180301022977.html",
+    "https://www.mapion.co.jp/phonebook/M26035/23213/22330439730/",
+    "https://x.com/otimusya_24/status/2038607308406808584",
+    "https://x.com/in44_JunkDoppel/status/2118649307830329760"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式5頁／PDF・画像12件／外部6頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像12件／外部6頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式5頁／PDF・画像12件／外部6頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式5頁／PDF・画像12件／外部6頁・検索9回）"
+ }
+}

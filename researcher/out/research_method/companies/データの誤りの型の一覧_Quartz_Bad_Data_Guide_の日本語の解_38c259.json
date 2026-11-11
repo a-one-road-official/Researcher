@@ -8,8 +8,16 @@
  ],
  "context": "手法・報道",
  "kind": "market",
- "researched_at": "2026-11-09T12:23:25.051708+00:00",
+ "researched_at": "2026-11-11T11:07:43.146331+00:00",
  "evidence": {
+  "失敗・落とし穴": [
+   {
+    "quote": "Teaching and learning about common data pitfalls",
+    "url": "https://www.neura.market/ai-tools-directory/all/the-quartz-guide-to-bad-data",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
   "検索結果の抜粋": [
    {
     "quote": "GitHub - Quartz/bad-data-guide: An exhaustive reference to ...The Quartz Guide to Bad Data – Global Investigative ...The Quartz guide to bad dataNewsroom Guides | Data Journalism ResourcesQuartz/bad-data-guide | GitHubAtlasRecognize Bad Data | Hands-On Data Visualization — An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them. As a reporter your ",
@@ -24,12 +32,26 @@
     "first_seen": "2026-11-09"
    }
   ],
-  "失敗・落とし穴": [
+  "手順・やり方": [
    {
-    "quote": "Teaching and learning about common data pitfalls",
-    "url": "https://www.neura.market/ai-tools-directory/all/the-quartz-guide-to-bad-data",
+    "quote": "An exhaustive reference to problems seen in real-world data, along with suggestions on how to resolve them and who should be responsible.",
+    "url": "https://www.merlot.org/merlot/viewCompositeReview.htm?id=1377813",
     "pass": 3,
-    "first_seen": "2026-11-08"
+    "first_seen": "2026-11-11"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "Examples and discussion points in statistics or spreadsheet based programming classes – or more widely any discipline that uses data to reach conslusions. (eg: science, politics or journalism).",
+    "url": "https://www.merlot.org/merlot/viewCompositeReview.htm?id=1377813",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "The material could be used directly by researchers. As a teaching tool it could be used to provide examples or initiate discussion in statistics, programming or more broadly science or journalism classes. It can also be used by students to write up a critique of any literature that uses statistics to back pu their point.",
+    "url": "https://www.merlot.org/merlot/viewCompositeReview.htm?id=1377813",
+    "pass": 3,
+    "first_seen": "2026-11-11"
    }
   ]
  },
@@ -47,7 +69,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/zono_data/n/n78b18fd55a27",
+    "url": "https://note.com/zono_data/n/n832fe2a670ec",
     "status": "ok",
     "method": "http"
    },
@@ -57,12 +79,12 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/zono_data/n/n832fe2a670ec",
+    "url": "https://note.com/suiso_tetsu0/n/n8090b4312565",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/moonlightmanager/n/n75776da7df60",
+    "url": "https://note.com/large_iris4216/n/n72a8cc3f7e6a",
     "status": "ok",
     "method": "http"
    },
@@ -72,32 +94,22 @@
     "method": "http"
    },
    {
-    "url": "https://blog.csdn.net/chenshu4757/article/details/100714665",
-    "status": "http_521",
-    "method": "http"
-   },
-   {
-    "url": "https://ja.statisticseasily.com/%E7%94%A8%E8%AA%9E%E9%9B%86/%E4%B8%8D%E8%89%AF%E3%83%87%E3%83%BC%E3%82%BF%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%E3%80%81%E3%83%87%E3%83%BC%E3%82%BF%E5%93%81%E8%B3%AA%E3%81%AE%E5%95%8F%E9%A1%8C%E3%82%92%E7%90%86%E8%A7%A3%E3%81%99%E3%82%8B/",
+    "url": "https://ci.nii.ac.jp/ncid/BB13658045",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://chikuwablog.cocolog-nifty.com/blog/2019/06/post-159f9d.html",
     "status": "ok",
-    "method": "http"
+    "method": "browser"
    },
    {
-    "url": "https://ci.nii.ac.jp/ncid/BB13658045",
+    "url": "https://www.ibm.com/jp-ja/think/topics/bad-data",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.kaimei.org/read/external/bad_data",
+    "url": "https://www.oreilly.co.jp/books/9784873116402/",
     "status": "ok",
     "method": "http"
    },
@@ -112,19 +124,24 @@
     "method": "http"
    },
    {
-    "url": "https://data.journalism.columbia.edu/content/newsroom-guides",
+    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
     "status": "ok",
-    "method": "browser"
+    "method": "http"
+   },
+   {
+    "url": "https://www.neura.market/ai-tools-directory/all/the-quartz-guide-to-bad-data",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.merlot.org/merlot/viewCompositeReview.htm?id=1377813",
+    "status": "ok",
+    "method": "http"
    },
    {
     "url": "https://www.githubatlas.com/repo/Quartz/bad-data-guide",
     "status": "ok",
     "method": "browser"
-   },
-   {
-    "url": "https://handsondataviz.org/bad-data.html",
-    "status": "ok",
-    "method": "http"
    }
   ]
  },
@@ -134,14 +151,14 @@
    "results": [
     "https://note.com/igaguri_megane/n/n6992066c888e",
     "https://note.com/hit_pharmacist/n/n8b1159d07d5e",
-    "https://note.com/zono_data/n/n78b18fd55a27",
-    "https://note.com/akatsuka_loveu/n/n157598f4a384",
     "https://note.com/zono_data/n/n832fe2a670ec",
-    "https://note.com/moonlightmanager/n/n75776da7df60",
-    "https://note.com/suiso_tetsu0/n/n8090b4312565"
+    "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "https://note.com/suiso_tetsu0/n/n8090b4312565",
+    "https://note.com/large_iris4216/n/n72a8cc3f7e6a",
+    "https://note.com/nao_ai1022/n/n853c6ff3314b"
    ],
    "engines": [
-    "ddgs:yahoo"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -149,12 +166,12 @@
    "query": "データの誤りの型の一覧（Quartz Bad Data Guide の日本語の解説・知りえない量・手で編集されたデータ・作り方の見えないデータ） note",
    "results": [
     "https://github.com/Quartz/bad-data-guide",
-    "https://www.amazon.co.jp/バッドデータハンドブック-―データにまつわる問題への19の処方箋-Q-Ethan-McCallum/dp/4873116406",
-    "https://blog.csdn.net/chenshu4757/article/details/100714665",
-    "https://ja.statisticseasily.com/用語集/不良データとは何か、データ品質の問題を理解する/",
+    "https://ci.nii.ac.jp/ncid/BB13658045",
     "https://note.com/akatsuka_loveu/n/n157598f4a384",
     "https://chikuwablog.cocolog-nifty.com/blog/2019/06/post-159f9d.html",
-    "https://ci.nii.ac.jp/ncid/BB13658045"
+    "https://note.com/zono_data/n/n832fe2a670ec",
+    "https://www.amazon.co.jp/バッドデータハンドブック-―データにまつわる問題への19の処方箋-Q-Ethan-McCallum/dp/4873116406",
+    "https://www.ibm.com/jp-ja/think/topics/bad-data"
    ],
    "engines": [
     "ddgs:yahoo"
@@ -165,28 +182,28 @@
    "query": "データの誤りの型の一覧（Quartz Bad Data Guide の日本語の解説・知りえない量・手で編集されたデータ・作り方の見えないデータ） やり方",
    "results": [
     "https://github.com/Quartz/bad-data-guide",
-    "https://www.amazon.co.jp/バッドデータハンドブック-―データにまつわる問題への19の処方箋-Q-Ethan-McCallum/dp/4873116406",
-    "https://qz.com/572338/the-quartz-guide-to-bad-data",
-    "https://blog.csdn.net/chenshu4757/article/details/100714665",
-    "https://chikuwablog.cocolog-nifty.com/blog/2019/06/post-159f9d.html",
     "https://ci.nii.ac.jp/ncid/BB13658045",
-    "https://www.kaimei.org/read/external/bad_data"
+    "https://chikuwablog.cocolog-nifty.com/blog/2019/06/post-159f9d.html",
+    "https://www.amazon.co.jp/バッドデータハンドブック-―データにまつわる問題への19の処方箋-Q-Ethan-McCallum/dp/4873116406",
+    "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "https://www.ibm.com/jp-ja/think/topics/bad-data",
+    "https://www.oreilly.co.jp/books/9784873116402/"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
   {
    "query": "データの誤りの型の一覧（Quartz Bad Data Guide の日本語の解説・知りえない量・手で編集されたデータ・作り方の見えないデータ） 事例",
    "results": [
-    "https://www.amazon.co.jp/バッドデータハンドブック-―データにまつわる問題への19の処方箋-Q-Ethan-McCallum/dp/4873116406",
     "https://github.com/Quartz/bad-data-guide",
-    "https://blog.csdn.net/chenshu4757/article/details/100714665",
-    "https://ja.statisticseasily.com/用語集/不良データとは何か、データ品質の問題を理解する/",
-    "https://chikuwablog.cocolog-nifty.com/blog/2019/06/post-159f9d.html",
     "https://ci.nii.ac.jp/ncid/BB13658045",
-    "https://www.kaimei.org/read/external/bad_data"
+    "https://chikuwablog.cocolog-nifty.com/blog/2019/06/post-159f9d.html",
+    "https://www.amazon.co.jp/バッドデータハンドブック-―データにまつわる問題への19の処方箋-Q-Ethan-McCallum/dp/4873116406",
+    "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "https://www.ibm.com/jp-ja/think/topics/bad-data",
+    "https://www.oreilly.co.jp/books/9784873116402/"
    ],
    "engines": [
     "ddgs:google"
@@ -197,15 +214,15 @@
    "query": "Quartz bad data guide problems in real-world data journalism",
    "results": [
     "https://data.journalism.columbia.edu/content/quartz-guide-bad-data",
-    "https://github.com/Quartz/bad-data-guide",
     "https://gijn.org/stories/the-quartz-guide-to-bad-data/",
     "https://qz.com/572338/the-quartz-guide-to-bad-data",
-    "https://data.journalism.columbia.edu/content/newsroom-guides",
-    "https://www.githubatlas.com/repo/Quartz/bad-data-guide",
-    "https://handsondataviz.org/bad-data.html"
+    "https://github.com/Quartz/bad-data-guide",
+    "https://www.neura.market/ai-tools-directory/all/the-quartz-guide-to-bad-data",
+    "https://awsprod.merlot.org/merlot/viewCompositeReview.htm?id=1377813",
+    "https://www.githubatlas.com/repo/Quartz/bad-data-guide"
    ],
    "engines": [
-    "ddgs:bing"
+    "ddgs:google"
    ],
    "n_hits": 7
   },
@@ -214,11 +231,11 @@
    "results": [
     "https://note.com/igaguri_megane/n/n6992066c888e",
     "https://note.com/hit_pharmacist/n/n8b1159d07d5e",
-    "https://note.com/akatsuka_loveu/n/n157598f4a384",
     "https://note.com/zono_data/n/n832fe2a670ec",
+    "https://note.com/akatsuka_loveu/n/n157598f4a384",
     "https://note.com/suiso_tetsu0/n/n8090b4312565",
     "https://note.com/moonlightmanager/n/n75776da7df60",
-    "https://note.com/nao_ai1022/n/n853c6ff3314b"
+    "https://note.com/large_iris4216/n/n72a8cc3f7e6a"
    ],
    "engines": [
     "ddgs:bing"
@@ -228,13 +245,13 @@
   {
    "query": "site:x.com データの誤りの型の一覧（Quartz Bad Data Guide の日本語の解説・知りえない量・手で編集されたデータ・作り方の見えないデータ）",
    "results": [
-    "https://jf.x.com/images/media-preview/2095699102587834794",
-    "https://jf.x.com/images/media-preview/2099471075599876239",
+    "https://jf.x.com/images/media-preview/2098221165110300736",
     "https://x.com/Yanajxon/status/2087503885938381189",
-    "https://x.com/HALmonia3/status/2110704834500518133",
+    "https://x.com/jpx_JQuants/status/2113219850671727045",
+    "https://help.x.com/ja/personalization-data-settings",
     "https://x.com/cocuchi_link/status/2113559959023825021",
-    "https://x.com/jdash2000/status/1703787727496556864",
-    "https://x.com/tsuj/status/1586223697559375874"
+    "https://x.com/HALmonia3/status/2110704834500518133",
+    "https://x.com/seiseiai_pass/status/2118855962484494766"
    ],
    "engines": [
     "ddgs:google"
@@ -245,28 +262,12 @@
    "query": "site:linkedin.com データの誤りの型の一覧（Quartz Bad Data Guide の日本語の解説・知りえない量・手で編集されたデータ・作り方の見えないデータ）",
    "results": [
     "https://www.linkedin.com/posts/mark-farrington_github-quartzbad-data-guide-an-exhaustive-activity-6430474539934765056-yEiY",
-    "https://www.linkedin.com/advice/0/whats-your-strategy-handling-bad-data-skills-data-analytics",
     "https://www.linkedin.com/posts/samer-hayel-36ba68a7_github-quartzbad-data-guide-an-exhaustive-activity-7315609297445359616-fdfX",
+    "https://pk.linkedin.com/company/dataquartz",
+    "https://uk.linkedin.com/company/quartz-data-services-ltd",
+    "https://jp.linkedin.com/pulse/beginners-guide-data-cleaning-zafar-iqbal?tl=ja",
     "https://jp.linkedin.com/pulse/ultimate-guide-spotting-data-errors-fixing-them-fast-cassamo-jwnpf?tl=ja",
-    "https://jp.linkedin.com/pulse/understanding-root-causes-bad-data-quality-deep-dive-part-abdulhak-11plf?tl=ja",
-    "https://jp.linkedin.com/pulse/data-quality-testing-best-practices-from-basics-advanced-qasource-arzqc?tl=ja",
-    "https://jp.linkedin.com/pulse/what-consequences-bad-data-quality-dextai-ei6xf?tl=ja"
-   ],
-   "engines": [
-    "ddgs:google"
-   ],
-   "n_hits": 7
-  },
-  {
-   "query": "site:facebook.com データの誤りの型の一覧（Quartz Bad Data Guide の日本語の解説・知りえない量・手で編集されたデータ・作り方の見えないデータ）",
-   "results": [
-    "https://www.facebook.com/GlobalDevelopmentUCPH/posts/on-github-quartz-guide-to-bad-data-and-what-to-do-about-many-of-the-kinds-of-pro/2327377167273249/",
-    "https://www.facebook.com/CMCCanada1/posts/a-guide-to-dealing-with-bad-data-httpsgithubcomquartzbad-data-guide-bigdata/721635164634451/",
-    "https://www.facebook.com/opensourceagenda/posts/bad-data-guide-open-source-project/405193144670654/",
-    "https://www.facebook.com/SchoolofData/posts/scodareads-ddj-real-world-problems-with-data-and-their-most-probable-solutions-t/926833070730110/",
-    "https://www.facebook.com/MagentoBI/posts/data-science-roundup-12-bad-data-guide-machine-intelligence-20-and-which-databas/10153850018324189/",
-    "https://www.facebook.com/datastars.co/posts/a-comprehensive-list-of-problems-and-techniques-for-data-cleaning-by-quartz-http/1854607891437956/",
-    "https://www.facebook.com/openingsource/posts/開源日報-今日推薦開源項目解決數據問題-bad-data-guide今日推薦英文原文the-3-capacities-of-a-good-manager原文鏈接/1082299382160686/"
+    "https://jp.linkedin.com/pulse/understanding-root-causes-bad-data-quality-deep-dive-part-abdulhak-11plf?tl=ja"
    ],
    "engines": [
     "ddgs:yahoo"
@@ -274,15 +275,31 @@
    "n_hits": 7
   },
   {
+   "query": "site:facebook.com データの誤りの型の一覧（Quartz Bad Data Guide の日本語の解説・知りえない量・手で編集されたデータ・作り方の見えないデータ）",
+   "results": [
+    "https://www.facebook.com/GlobalDevelopmentUCPH/posts/on-github-quartz-guide-to-bad-data-and-what-to-do-about-many-of-the-kinds-of-pro/2327377167273249/",
+    "https://www.facebook.com/datastars.co/posts/a-comprehensive-list-of-problems-and-techniques-for-data-cleaning-by-quartz-http/1854607891437956/",
+    "https://www.facebook.com/CMCCanada1/posts/a-guide-to-dealing-with-bad-data-httpsgithubcomquartzbad-data-guide-bigdata/721635164634451/",
+    "https://www.facebook.com/opensourceagenda/posts/bad-data-guide-open-source-project/405193144670654/",
+    "https://www.facebook.com/groups/datajournalism.jp/",
+    "https://www.facebook.com/medicalimagediagnosis/posts/脳梗塞のbadタイプのmri画像診断のポイントについてまとめました詳しくはこちら/1598669935599546/",
+    "https://www.facebook.com/watch/?v=729431319881804"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
    "query": "データの誤りの型の一覧（Quartz Bad Data Guide の日本語の解説・知りえない量・手で編集されたデータ・作り方の見えないデータ） note 社長",
    "results": [
     "https://github.com/Quartz/bad-data-guide",
-    "https://www.amazon.co.jp/バッドデータハンドブック-―データにまつわる問題への19の処方箋-Q-Ethan-McCallum/dp/4873116406",
-    "https://qz.com/572338/the-quartz-guide-to-bad-data",
-    "https://blog.csdn.net/chenshu4757/article/details/100714665",
-    "https://chikuwablog.cocolog-nifty.com/blog/2019/06/post-159f9d.html",
+    "https://ci.nii.ac.jp/ncid/BB13658045",
     "https://note.com/akatsuka_loveu/n/n157598f4a384",
-    "https://ci.nii.ac.jp/ncid/BB13658045"
+    "https://chikuwablog.cocolog-nifty.com/blog/2019/06/post-159f9d.html",
+    "https://note.com/zono_data/n/n832fe2a670ec",
+    "https://www.amazon.co.jp/バッドデータハンドブック-―データにまつわる問題への19の処方箋-Q-Ethan-McCallum/dp/4873116406",
+    "https://www.oreilly.co.jp/books/9784873116402/"
    ],
    "engines": [
     "ddgs:google"
@@ -292,16 +309,16 @@
   {
    "query": "データの誤りの型の一覧（Quartz Bad Data Guide の日本語の解説・知りえない量・手で編集されたデータ・作り方の見えないデータ） X 投稿",
    "results": [
-    "https://www.amazon.co.jp/バッドデータハンドブック-―データにまつわる問題への19の処方箋-Q-Ethan-McCallum/dp/4873116406",
     "https://github.com/Quartz/bad-data-guide",
-    "https://blog.csdn.net/chenshu4757/article/details/100714665",
-    "https://ja.statisticseasily.com/用語集/不良データとは何か、データ品質の問題を理解する/",
-    "https://chikuwablog.cocolog-nifty.com/blog/2019/06/post-159f9d.html",
+    "https://www.amazon.co.jp/バッドデータハンドブック-―データにまつわる問題への19の処方箋-Q-Ethan-McCallum/dp/4873116406",
     "https://ci.nii.ac.jp/ncid/BB13658045",
-    "https://www.kaimei.org/read/external/bad_data"
+    "https://chikuwablog.cocolog-nifty.com/blog/2019/06/post-159f9d.html",
+    "https://note.com/akatsuka_loveu/n/n157598f4a384",
+    "https://www.ibm.com/jp-ja/think/topics/bad-data",
+    "https://www.oreilly.co.jp/books/9784873116402/"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
@@ -311,39 +328,45 @@
     "https://www.linkedin.com/posts/mark-farrington_github-quartzbad-data-guide-an-exhaustive-activity-6430474539934765056-yEiY",
     "https://www.linkedin.com/posts/samer-hayel-36ba68a7_github-quartzbad-data-guide-an-exhaustive-activity-7315609297445359616-fdfX",
     "https://www.linkedin.com/posts/jhon-gomez-higuera-96711a102_github-quartzbad-data-guide-an-exhaustive-activity-7065800612679970816-2hYF",
+    "https://www.linkedin.com/pulse/understanding-root-causes-bad-data-quality-deep-dive-part-abdulhak-t4e1f",
     "https://www.linkedin.com/pulse/understanding-root-causes-bad-data-quality-deep-dive-part-abdulhak-11plf",
-    "https://www.linkedin.com/advice/3/what-most-common-data-journalism-pitfalls-avoid-skills-journalism-vmswc",
-    "https://www.linkedin.com/advice/0/whats-your-strategy-handling-bad-data-skills-data-analytics",
-    "https://pe.linkedin.com/advice/0/heres-how-you-can-skillfully-analyze-evaluate-problems-cxmye"
+    "https://www.linkedin.com/pulse/when-data-goes-wrong-5-famous-failures-what-we-can-learn-o-donnell-l9ioe",
+    "https://www.linkedin.com/pulse/real-world-challenges-case-studies-data-science-mohamed-chizari-jjxfe"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:yahoo"
    ],
    "n_hits": 7
   }
  ],
  "missing": {
-  "手順・やり方": "記載なし（読んだ18頁・検索12回）",
-  "突き合わせ・推定": "記載なし（読んだ18頁・検索12回）",
-  "一次情報の探し方": "記載なし（読んだ18頁・検索12回）",
-  "実例": "記載なし（読んだ18頁・検索12回）"
+  "突き合わせ・推定": "記載なし（読んだ17頁・検索12回）",
+  "一次情報の探し方": "記載なし（読んだ17頁・検索12回）"
  },
  "new_this_run": {
-  "検索結果の抜粋": [
+  "手順・やり方": [
    {
-    "quote": "GitHub - Quartz/bad-data-guide: An exhaustive reference to ...The Quartz Guide to Bad Data – Global Investigative ...The Quartz guide to bad dataNewsroom Guides | Data Journalism ResourcesQuartz/bad-data-guide | GitHubAtlasRecognize Bad Data | Hands-On Data Visualization — An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them. As a reporter your ",
-    "url": "https://github.com/Quartz/bad-data-guide",
+    "quote": "An exhaustive reference to problems seen in real-world data, along with suggestions on how to resolve them and who should be responsible.",
+    "url": "https://www.merlot.org/merlot/viewCompositeReview.htm?id=1377813",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-11"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "Examples and discussion points in statistics or spreadsheet based programming classes – or more widely any discipline that uses data to reach conslusions. (eg: science, politics or journalism).",
+    "url": "https://www.merlot.org/merlot/viewCompositeReview.htm?id=1377813",
+    "pass": 3,
+    "first_seen": "2026-11-11"
    },
    {
-    "quote": "The Quartz guide to bad dataNewsroom Guides | Data Journalism ResourcesQuartz/bad-data-guide | GitHubAtlasRecognize Bad Data | Hands-On Data Visualization — Jul 21, 2022 · The Quartz guide to bad data This guide was written to help Quartz staff identify problems with data they report on. After publishing it on GitHub, we heard from folks in many other industries who ... The Quartz Guide to Bad Dat",
-    "url": "https://qz.com/572338/the-quartz-guide-to-bad-data",
+    "quote": "The material could be used directly by researchers. As a teaching tool it could be used to provide examples or initiate discussion in statistics, programming or more broadly science or journalism classes. It can also be used by students to write up a critique of any literature that uses statistics to back pu their point.",
+    "url": "https://www.merlot.org/merlot/viewCompositeReview.htm?id=1377813",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-11"
    }
   ]
  },
- "runs": 4,
+ "runs": 5,
  "first_researched_at": "2026-11-08T10:06:06.737485+00:00"
 }

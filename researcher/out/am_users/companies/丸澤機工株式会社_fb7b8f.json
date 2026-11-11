@@ -1,0 +1,664 @@
+{
+ "name": "丸澤機工株式会社",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T11:02:23.251421+00:00",
+ "official_url": "http://www.marusawa.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社",
+    "value": "〒146-0091東京都大田区鵜の木2-40-5",
+    "url": "https://www.marusawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "【本社】 〒146-0091　東京都大田区 鵜の木 2丁目40番5号 TEL:03-3750-8171 地図 【宮城工場】 〒987-0003　宮城県 遠田郡 美里町南 小牛田 字 埣下 33番地 地図",
+    "url": "https://www.marusawa.co.jp/corporate_information.html",
+    "pass": 1
+   },
+   {
+    "label": "本社",
+    "value": "11名 75名 (2024年11月末現在 )",
+    "url": "https://www.marusawa.co.jp/corporate_information.html",
+    "pass": 1
+   },
+   {
+    "label": "天竜丸澤株式会社 （本社・工場）",
+    "value": "〒395-0242　長野県飯田市竹佐435番地 googlemap TEL 0265-25-7333 FAX 0265-25-7434",
+    "url": "https://www.marusawa.co.jp/corporate_information.html",
+    "pass": 1
+   },
+   {
+    "label": "(2)所　在　地：",
+    "value": "宮城県遠田郡美里町南小牛田字埣下３３",
+    "url": "https://www.marusawa.co.jp/eco.html",
+    "pass": 1
+   },
+   {
+    "label": "HOME>会社情報>アクセス>本社案内図",
+    "value": "https://www.marusawa.co.jp",
+    "url": "https://www.marusawa.co.jp/map.html",
+    "pass": 1
+   },
+   {
+    "label": "発行者の住所",
+    "value": "宮城県遠田郡美里町南小生田末下 33",
+    "url": "https://www.marusawa.co.jp/Self-conformity_manifesto_3rd.pdf",
+    "pass": 2
+   },
+   {
+    "label": "住所",
+    "value": "東京都大田区鵜の木二丁目40-5",
+    "url": "https://eigyo-mfg.com/service/navi/company/biOkzE26L5Ya",
+    "pass": 3
+   }
+  ],
+  "拠点": [
+   {
+    "label": "宮城工場",
+    "value": "〒987-0003宮城県遠田郡美里町南小牛田埣下33",
+    "url": "https://www.marusawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "label": "宮城工場",
+    "value": "63名",
+    "url": "https://www.marusawa.co.jp/corporate_information.html",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "切削部品加工及び機工品組立 通信機器関連部品・医療機器関連部品・半導体製造装置関連部品・自動生産ライン関連部品・油圧・空圧機器関連部品・航空宇宙関連部品・ＯＡ機器関連部品・ロボット関連部品・他",
+    "url": "https://www.marusawa.co.jp/corporate_information.html",
+    "pass": 1
+   },
+   {
+    "label": "適格請求書発行 事業者登録番号",
+    "value": "国税庁適格請求書発行事業者公表サイト（国税庁）",
+    "url": "https://www.marusawa.co.jp/corporate_information.html",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数 （嘱託、パート含む）",
+    "value": "本社 11名 75名 (2024年11月末現在 ) 宮城工場 63名 出向者（中国） 1名 本社 11名 75名 (2024年11月末現在 ) 宮城工場 63名 出向者（中国） 1名",
+    "url": "https://www.marusawa.co.jp/corporate_information.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "71名",
+    "url": "https://eigyo-mfg.com/service/navi/company/biOkzE26L5Ya",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "製品含有化学物質管理ガイドラインに基づく自己宣言書",
+    "url": "https://www.marusawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "部分的にメッキが不要なものであっても、微細な製品はマスキングが大変ですし、後加工をしても精度を維持するのが大変だと思います",
+    "url": "https://www.marusawa.co.jp/signature_move_sheet.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品の全長が０．７ｍｍしかなく、機械に取り付ける部分にいたっては０．３ｍｍしかありません",
+    "url": "https://www.marusawa.co.jp/signature_move_sheet.html",
+    "pass": 1
+   },
+   {
+    "quote": "活動当初は、省エネ・省資源（化学物質含む）・リサイクル促進を中心に行ってまいりましたが、これからは、製造メーカーとして、物作りの製造過程で環境負荷を最小限に抑えるべく、「生産効率の向上」「無駄な在庫は作らない」「不良品は作らない」「製品に含有する有害物質の管理」「環境負荷の少ないものを購入する」を念頭に置き、環境に配慮した製品作りに取り組んでいきたいと考えております",
+    "url": "https://www.marusawa.co.jp/eco.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品含有化学物質管理ガイドラインに基づく自己適合宣言",
+    "url": "https://www.marusawa.co.jp/eco.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品含有化学物質管理ガイドラインに基づく自己適合宣言書",
+    "url": "https://www.marusawa.co.jp/eco.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品含有化学物質管理ガイドラインに基づく自己適合",
+    "url": "https://www.marusawa.co.jp/Self-conformity_manifesto_3rd.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "文書名 : 製品含有化学物質管理サオイドライン",
+    "url": "https://www.marusawa.co.jp/Self-conformity_manifesto_3rd.pdf",
+    "pass": 2
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "精密,、微細な切削加工品の試作や量産に対応できるサプライヤをお探しの方",
+    "url": "https://www.marusawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "”まるさわ”には、通信機器部品・医療機器部品・ロボット関連部品・環境関連部品・半導体製造装置関連部品・航空宇宙関連部品など、多種多様の部品を試作から量産まで手がけてきた実績とノウハウがあります",
+    "url": "https://www.marusawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "NC旋盤やマシニングセンターによる、多品種少ロット及び量産の金属部品切削加工及び機能品組立と材料購入、委託部品購入、メッキ処理委託、産業廃棄物処理委託",
+    "url": "https://www.marusawa.co.jp/eco.html",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "”まるさわ”には、通信機器部品・医療機器部品・ロボット関連部品・環境関連部品・半導体製造装置関連部品・航空宇宙関連部品など、多種多様の部品を試作から量産まで手がけてきた実績とノウハウがあります",
+    "url": "https://www.marusawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ロボット一体型特別仕様CNC旋盤（エグロ製）導入",
+    "url": "https://www.marusawa.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ワーク形状に合った治具の製作も社内で対応しています",
+    "url": "https://www.marusawa.co.jp/part.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、昭和２４年創業以来、切削加工を主体に通信機器・医療機器・航空宇宙機器・半導体機器・食品製造機器・測定機器・自働化に関連する機器など、多種多様の精密部品を生産しており、サブミクロンの世界と公差の2分の1でモノづくりをすることに挑戦し続けております",
+    "url": "https://www.marusawa.co.jp/corporate_information.html",
+    "pass": 1
+   },
+   {
+    "quote": "通信機器関連部品・医療機器関連部品・半導体製造装置関連部品・自動生産ライン関連部品・油圧・空圧機器関連部品・航空宇宙関連部品・ＯＡ機器関連部品・ロボット関連部品・他",
+    "url": "https://www.marusawa.co.jp/corporate_information.html",
+    "pass": 1
+   },
+   {
+    "quote": "通信機器関連、医療機器関連、航空宇宙関連、ロボット関連等の切削加工部品",
+    "url": "https://www.marusawa.co.jp/corporate_information.html",
+    "pass": 1
+   },
+   {
+    "quote": "また、曲げの角度がバラつかないように、オリジナルの曲げ治具を使って手作業で曲げ、更に別の治具で角度を確認しています",
+    "url": "https://www.marusawa.co.jp/signature_move_BlueRadical.html",
+    "pass": 1
+   },
+   {
+    "quote": "同社は、通信機器、医療機器、航空宇宙機器、半導体機器など幅広い業界向けに精密部品の切削加工を手がけています",
+    "url": "https://eigyo-mfg.com/service/navi/company/biOkzE26L5Ya",
+    "pass": 3
+   },
+   {
+    "quote": "宮城工場において、監査を受審した結果、2015年3月31日「医療機器製造業者」として登録されました",
+    "url": "https://eigyo-mfg.com/service/navi/company/biOkzE26L5Ya",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "CNC自動旋盤においては、一部の材質による「ナノ」(100nm)精度での部品加工を実現しております",
+    "url": "https://www.marusawa.co.jp/part.html",
+    "pass": 1
+   },
+   {
+    "quote": "純チタン、チタン合金、ＳＵＳ３０３、ＳＵＳ３０４Ｌ、ＳＵＳ３１６Ｌ、コバール、パーマロイ、スーパーインバーなどの鉄＋ニッケル+コバルトの合金、銅合金、アルミ合金、樹脂など",
+    "url": "https://www.marusawa.co.jp/part.html",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ、ステンレス、鉄、メッキ施行品、その他の材質もお問い合わせをお待ちしております",
+    "url": "https://www.marusawa.co.jp/part.html",
+    "pass": 1
+   },
+   {
+    "quote": "サンプルの材質は、ステンレスやコバールなど様々です",
+    "url": "https://www.marusawa.co.jp/part.html",
+    "pass": 1
+   },
+   {
+    "quote": "内径はφ０．１５から可能ですが、材質や形状及び精度などによって異なります",
+    "url": "https://www.marusawa.co.jp/part.html",
+    "pass": 1
+   },
+   {
+    "quote": "材質は、アルミ合金が大半を占めますが、鉄・ＳＵＳ・銅合金・チタン合金・樹脂なども削ります",
+    "url": "https://www.marusawa.co.jp/part.html",
+    "pass": 1
+   },
+   {
+    "quote": "ちなみに材質は、コバール全般、パーマロイ、ＳＵＳ３０３、ＳＵＳ３０４などの実績があります",
+    "url": "https://www.marusawa.co.jp/signature_move_sheet.html",
+    "pass": 1
+   },
+   {
+    "quote": "材質やサイズについては、お問い合わせ願います",
+    "url": "https://www.marusawa.co.jp/signature_move_highprecision.html",
+    "pass": 1
+   },
+   {
+    "quote": "条件：切削加工、材質：SUS303",
+    "url": "https://www.marusawa.co.jp/signature_move_highprecision.html",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "尚、実績がなくても挑戦しますので、お問い合わせをお待ちしております",
+    "url": "https://www.marusawa.co.jp/part.html",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ、ステンレス、鉄、メッキ施行品、その他の材質もお問い合わせをお待ちしております",
+    "url": "https://www.marusawa.co.jp/part.html",
+    "pass": 1
+   },
+   {
+    "quote": "材質やサイズについては、お問い合わせ願います",
+    "url": "https://www.marusawa.co.jp/signature_move_highprecision.html",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "精密切削加工の丸澤機工－切削加工一筋75年の信頼と実績 — 多品種少量・量産いずれも対応できますが、数量が多い（概ね5,000個以上）リピート品は、製品形状や保有設備によって生産キャパが異なります。 材質の実績も豊富なので、お困りの加工品があればお問い合わせください。",
+    "url": "https://www.marusawa.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "加工品情報|丸澤機工株式会社 — CNC自動旋盤とマシニングセンタ及びCNC自動旋盤（二次加工専用機）などを使用した加工品サンプルです。 CNC自動旋盤とマシニングセンタを利用すれば、ほとんどの形状に対応できますが、工程の決め方によってコストが変わってきます。",
+    "url": "https://www.marusawa.co.jp/part.html",
+    "pass": 3
+   },
+   {
+    "quote": "丸澤機工の製品・サービス一覧｜イプロスものづくり — Sep 24, 2019 · 当社は、光通信機器関連の精密加工や組立で培ってきた経験と実績を活かし、 CNC自動旋盤、マシニングセンタ、平面ラッピングマシンなどによる 精密部品加工や接着、接合、圧入などを含む機工品組立を行っております。",
+    "url": "https://mono.ipros.com/company/detail/2082259/category/",
+    "pass": 3
+   },
+   {
+    "quote": "丸澤機工株式会社 | 加工会社ナビ — 丸澤機工株式会社の 概要 同社は、通信機器、医療機器、航空宇宙機器、半導体機器など幅広い業界向けに精密部品の切削加工を手がけています。 CNC自動旋盤やマシニングセンタを駆使し、高精度な部品製造を実現しています。",
+    "url": "https://eigyo-mfg.com/service/navi/company/biOkzE26L5Ya",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | 丸栄機工株式会社丸大機工株式会社54_M_丸澤機工z_02 - 宮城県公式ホームページ — チャレンジを続ける企業 新しい物を創り出す。 これは丸栄機工株式会社が創設以来、 一貫して引き継いできた当社の原点です。 この間、私たちは良質の製品を創りあげるため、50余年の実績を重ねてまいりました。 丸栄機工株式会社は50余年の技術を ... 私たちのサステナビリティへの取り組み 私たち、丸大機工株式会社は、誠実かつ公正な事業活動を通じてサステナビリティ（持続可能な社会の発展）に貢献し、企業価値向上の実現をめざします。 〈 企業概要 〉 【 事業内容】切削部品加工及び機工品組立通信機器関連部品・医療機器関連部品・半導体製造装置関連部品・自動生産ライン関連部品・油圧 ・空圧機器関連部品・航空宇宙関連部品・OA機器関連部品・ロボット関連部品など",
+    "url": "https://www.marueikikou.com/company",
+    "pass": 3
+   },
+   {
+    "quote": "54_M_丸澤機工z_02 - 宮城県公式ホームページ — 〈 企業概要 〉 【 事業内容】切削部品加工及び機工品組立通信機器関連部品・医療機器関連部品・半導体製造装置関連部品・自動生産ライン関連部品・油圧 ・空圧機器関連部品・航空宇宙関連部品・OA機器関連部品・ロボット関連部品など",
+    "url": "https://www.pref.miyagi.jp/documents/49489/54_m_marusawakikou.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報|丸澤機工株式会社 - marusawa.co.jp — 精密部品の切削加工 ”まるさわ” ホームページ ... HOME>会社情報>概要 https://www.marusawa.co.jp ... 丸澤グループ ... HOME 加工品情報 設備情報 得意技 品 質 環 境 会社情報 お問い合わせ",
+    "url": "https://www.marusawa.co.jp/corporate_information.html",
+    "pass": 3
+   },
+   {
+    "quote": "精密切削加工の丸澤機工－切削加工一筋75年の信頼と実績 — 昭和24年創業以来、CNC自動旋盤やマシニングセンタ、5軸加工機、ワイヤーカットなどでの金属加工を主体に通信機器・医療機器・航空宇宙機器・半導体機器・食品製造機器・測定機器・自働化に関連する機器など、多種多様の精密部品を生産してまいりました。",
+    "url": "https://www.marusawa.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "問合せフォーム|丸澤機工株式会社 — お問い合わせフォーム 下記のフォームに必要事項をご入力後、確認ボタンを押してください。 お手数ですが、 ※ 印は、入力必須となっております。 各種勧誘、商品やサービス案内など、広告宣伝目的のメールはご遠慮ください。",
+    "url": "https://www.marusawa.co.jp/contactform.html",
+    "pass": 3
+   },
+   {
+    "quote": "丸澤機工 株式会社 お問い合わせ｜大田区研究開発型企業ガイド — HOME 登録企業一覧 丸澤機工 株式会社 お問い合わせ 丸澤機工 株式会社 へのお問い合わせ 以下のフォームにご入力の上、「入力内容を確認する」ボタンをクリックしてください。 ※ は入力必須項目です。",
+    "url": "https://www.mirai-ota.net/inquiry/?id=161",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "丸澤グループ内のEDP・CAD/CAMの一層の充実とシステム開発を目指す",
+    "url": "https://eigyo-mfg.com/service/navi/company/biOkzE26L5Ya",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "【公式】丸澤機工株式会社 精密切削加工の丸澤 (@marusawakikou) / X 精密切削加工会社の丸澤機工が運営する公式アカウント🔗 【本社】東京都大田区鵜の木2-40-5 【工場】宮城県遠田郡美里町南小牛田埣下33 【営業時間 (両社)】毎週月～金曜 8：00～17：00 👀 ご相談やお問い合わせはDM、リプライ、HPより受け付けております👌 ...",
+    "url": "https://x.com/marusawakikou",
+    "pass": 3
+   },
+   {
+    "quote": "丸澤機工(株)の𝕝𝕟𝕤𝕥𝕒𝕘𝕣𝕒𝕞が開設しました 新入社員様向けの情... 丸澤機工 (株)の𝕝𝕟𝕤𝕥𝕒𝕘𝕣𝕒𝕞が開設しました🌟新入社員様向けの情報や、会社の雰囲気、製品の加工風景など弊社の色んな素顔を投稿していく予定です ️是非フォロー、拡散の程よろしくお願い致します🙇 instagram.com/marusawakikou?…",
+    "url": "https://x.com/marusawakikou/status/1688730043281993729",
+    "pass": 3
+   },
+   {
+    "quote": "こんにちは 昨日salesforce world tourに参加しました。 昨今のIT情勢... 【公式】丸澤機工株式会社 精密切削加工の丸澤 (@marusawakikou). 27 likes 397 views. こんにちは🗼 昨日salesforce world tourに参加しました。",
+    "url": "https://x.com/marusawakikou/status/1729722716679209136",
+    "pass": 3
+   },
+   {
+    "quote": "おはようございます 本日の #東京都 と #宮城県 は☀️ 本日は宮城工場... 丸澤機工㈱は𝕝𝕟𝕤𝕥𝕒𝕘𝕣𝕒𝕞も運営しています🌟新入社員様向けの情報や、会社の雰囲気、製品の加工風景など弊社の色んな素顔を投稿していく予定です ️是非フォロー、拡散の程よろしくお願い致します🙇 instagram.com/marusawakikou?…",
+    "url": "https://x.com/marusawakikou/status/1716987125542134074",
+    "pass": 3
+   },
+   {
+    "quote": "【公式】丸澤機工株式会社 精密切削加工の丸澤 (@marusawakikou) / X Aug 1, 2023 · 精密切削加工会社の丸澤機工が運営する公式アカウント🔗 【本社】東京都大田区鵜の木2-40-5 【工場】宮城県遠田郡美里町南小牛田埣下33 【営業時間 (両社)】毎週月～金曜 8：00～17：00 👀 ご相談やお問い合わせはDM、リプライ、HPより受け付けております👌 ...",
+    "url": "https://x.com/marusawakikou",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.marusawa.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marusawa.co.jp/part.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marusawa.co.jp/facilities.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marusawa.co.jp/corporate_information.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marusawa.co.jp/signature_move_sheet.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marusawa.co.jp/signature_move_mirror.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marusawa.co.jp/signature_move_BlueRadical.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marusawa.co.jp/eco.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marusawa.co.jp/facilities2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marusawa.co.jp/facilities4.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marusawa.co.jp/Measurement.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marusawa.co.jp/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marusawa.co.jp/map.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marusawa.co.jp/signature_move_highprecision.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.marusawa.co.jp/Self-conformity_manifesto_3rd.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.marusawa.co.jp/headquartersmap_Vol3.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://morpha.co.jp/work/precision/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://3d-moroto.com/prototype/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eigyo-mfg.com/service/navi/company/biOkzE26L5Ya",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.marueikikou.com/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.pref.miyagi.jp/documents/49489/54_m_marusawakikou.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.maruzen-kitchen.co.jp/smail/mform.htm",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.maruzenkikoh.com/contact/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/marusawakikou",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/marusawakikou/status/1688730043281993729",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/marusawakikou/status/1729722716679209136",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/marusawakikou/status/1716987125542134074",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/marusawakikou",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/marusawakikou/status/1688730043281993729",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "丸澤機工 取扱製品 試作 小ロット",
+   "results": [
+    "https://morpha.co.jp/work/precision/",
+    "https://3d-moroto.com/prototype/",
+    "https://www.marusawa.co.jp/",
+    "https://www.marusawa.co.jp/part.html",
+    "https://mono.ipros.com/company/detail/2082259/category/",
+    "https://yazawa-ss.co.jp/production/index.html",
+    "https://www.champ-j.com/custom/cutting/trial_production.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "丸澤機工 会社概要 事業内容",
+   "results": [
+    "https://eigyo-mfg.com/service/navi/company/biOkzE26L5Ya",
+    "https://www.marueikikou.com/company",
+    "https://www.pref.miyagi.jp/documents/49489/54_m_marusawakikou.pdf",
+    "https://www.marusawa.co.jp/corporate_information.html",
+    "https://www.marusawa.co.jp/",
+    "https://mono.ipros.com/company/detail/2082259/",
+    "https://www.marudaikiko.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "丸澤機工 お問い合わせ メール",
+   "results": [
+    "https://www.marusawa.co.jp/contactform.html",
+    "https://www.maruzen-kitchen.co.jp/smail/mform.htm",
+    "https://www.maruzenkikoh.com/contact/index.html",
+    "https://www.tenmaru.com/contact/con_product/",
+    "https://www.mirai-ota.net/inquiry/?id=161",
+    "https://murauchi.com/inquiry",
+    "https://marusawa-japan.co.jp/contact/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 丸澤機工",
+   "results": [
+    "https://money.note.com/rankings/産業用機械/market_cap_desc",
+    "https://note.com/tsuzucle",
+    "https://note.com/nagoyashi_maru",
+    "https://note.com/nagoyashi_maru/all",
+    "https://note.com/nagoyashi_maru/n/ndeb9baa3c643",
+    "https://tales.note.com/good_gnu448/works",
+    "https://tales.note.com/umezaki/w031tgyu3w9c9"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 丸澤機工",
+   "results": [
+    "https://x.com/marusawakikou",
+    "https://x.com/marusawakikou/status/1688730043281993729",
+    "https://x.com/marusawakikou/status/1729722716679209136",
+    "https://x.com/marusawakikou/status/1716987125542134074",
+    "https://x.com/marusawakikou/status/1762287812932727237",
+    "https://x.com/marusawakikou/status/1698880758423900646",
+    "https://x.com/marusawakikou/status/1708666786500288867"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 丸澤機工",
+   "results": [
+    "https://jp.linkedin.com/in/hidemasa-maruzawa",
+    "https://jp.linkedin.com/in/貴子-丸澤-8197b7246",
+    "https://ch.linkedin.com/in/vasee-moorthy-md-phd-21791599",
+    "https://uk.linkedin.com/jobs/view/arts-and-culture-correspondent-at-the-guardian-4482854726",
+    "https://fr.linkedin.com/in/nathanaël-combary-b0862b325",
+    "https://www.linkedin.com/in/kento-marusawa-0893452ba/ja",
+    "https://www.linkedin.com/posts/abeam-consulting_アビームコンサルティング-abeamconsulting-hrleaders-activity-7423900510933467137-HaYX"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 丸澤機工",
+   "results": [
+    "https://www.facebook.com/public/丸澤-卓志/",
+    "https://www.facebook.com/public/丸澤-隆/",
+    "https://www.facebook.com/public/丸澤-匠/",
+    "https://www.facebook.com/public/丸澤-剛志/",
+    "https://www.facebook.com/p/丸澤-明弘-100006605580968/",
+    "https://www.facebook.com/p/丸澤武-61554256197738/",
+    "https://www.facebook.com/marusawatilesjapan/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "丸澤機工 note 社長",
+   "results": [
+    "https://compalyze.co.jp/company/1010801011318",
+    "https://www.mirai-ota.net/company/detail/161",
+    "https://catr.jp/companies/76ddc/274881/settlements/131b8/414421",
+    "https://www.marusawa.co.jp/corporate_information.html",
+    "https://www.marusawa.co.jp/",
+    "https://kaijiwire.jp/gappei/01a0746d-6c6e-7467-b427-a6182cc113d9",
+    "https://pub-mediabox-storage.rxweb-prd.com/exhibitor/document/exh-55916f8d-8400-4072-9213-f890c1d032ad/c869aad1-b390-4f99-acd8-adacc27282a3.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "丸澤機工 X 投稿",
+   "results": [
+    "https://x.com/marusawakikou",
+    "https://x.com/marusawakikou/status/1688730043281993729",
+    "https://twstalker.com/marusawakikou",
+    "https://www.instagram.com/p/Cvdh-Euys_x/",
+    "https://www.marusawa.co.jp/",
+    "https://www.marusawa.co.jp/corporate_information.html",
+    "https://www.marudaikiko.co.jp/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "代表者": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部13頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部13頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式14頁／PDF・画像2件／外部13頁・検索9回）"
+ }
+}

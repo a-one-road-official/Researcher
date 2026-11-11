@@ -1,0 +1,781 @@
+{
+ "name": "株式会社光機械製作所 HIKARI LASER LAB.",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T11:15:02.795136+00:00",
+ "official_url": "https://www.hikarikikai.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "ご住所 ※必須",
+    "value": "〒",
+    "url": "https://www.hikarikikai.co.jp/pages/4/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "本社 〒514-0112　三重県津市一身田中野8番の1 Tel．059-227-5511（代）／Fax．059-227-5514 HIKARI LASER LAB. 〒300-2635　茨城県つくば市東光台5-9-1　つくばイノベーションベース118号室 Tel＆Fax.029-893-6256",
+    "url": "https://www.hikarikikai.co.jp/pages/132/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　西岡 慶子",
+    "url": "https://www.hikarikikai.co.jp/pages/132/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "ビジョン (目指すべき事業像、事業目的)",
+    "value": "「なるほど！」と言われるアイデアと技術と感性を磨き、それぞれがプロフェッショナルとしてイメージできる最高の仕事をすることで、光機械製作所で働くすべての従業員の物心両面のしあわせと地域・日本・世界の発展を目指す。",
+    "url": "https://www.hikarikikai.co.jp/pages/132/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "専用工作機械（研削盤）の設計・製造、工作機械のレトロフィット 切削工具（超硬インサート・ドリル・ツーリング）のOEM生産 微細レーザー加工受託加工 専用レーザー加工機の設計・製造",
+    "url": "https://www.hikarikikai.co.jp/pages/132/",
+    "pass": 1
+   },
+   {
+    "label": "業務内容",
+    "value": "産業用設備（主に研削盤やレーザー加工機）の営業活動、マーケティング活動を担当する仕事です。 法人顧客や商社訪問による営業活動が主です。 既存顧客へのフォロー 新規引き合いに対してのヒアリング業務 要件定義、見積資料作成、検収業務　等",
+    "url": "https://www.hikarikikai.co.jp/pages/148/",
+    "pass": 1
+   },
+   {
+    "label": "業務内容",
+    "value": "工作機械（研削盤）の電気制御をご担当いただきます。 顧客との仕様打合せ ハード設計（制御回路図、配置図、端子台配列図、板金図、銘板図、配線指示書) ソフト設計（PMC回路図、NCプログラム、NCパラメーター、PMCパラメーター、マクロ変数、ロボットプログラム、PLC回路図） 機械の配線工事 I/Oチェック、セットアップ、加工テスト 取扱説明書の作成 電気的トラブルのサポート",
+    "url": "https://www.hikarikikai.co.jp/pages/148/",
+    "pass": 1
+   },
+   {
+    "label": "業務内容",
+    "value": "専用工作機の構想設計から詳細設計までをご担当いただきます。 顧客との機械仕様打合せ 構想設計、組立図・部品図設計 部品手配書の作成 加工・組み付けの不具合対応 客先提出書類の作成（取扱い説明書等） 検証・改良業務",
+    "url": "https://www.hikarikikai.co.jp/pages/148/",
+    "pass": 1
+   },
+   {
+    "label": "業務内容",
+    "value": "切削工具のOEM部門にて、下記業務をご担当いただきます。 加工に使用する工具・機械の選定 手順・加工方法の策定 作業場のレイアウト作成 作業用治具の設計 生産設備の企画、選定、更新、立ち上げ業務",
+    "url": "https://www.hikarikikai.co.jp/pages/148/",
+    "pass": 1
+   },
+   {
+    "label": "業務内容",
+    "value": "5軸加工機・マシニングセンター・NC旋盤などの工作機械を使用しての機械加工をご担当いただきます。 未経験の方は機械への製品脱着や検査などの作業からスタートし、少しずつ仕事を覚えて頂きます。 技能や知識の習得と共に台数を増やし、将来的には加工のエキスパートになって頂ける人材を希望します。 ▼自動車、航空機、建機部品などの製造に欠かせない切削工具で世界シェアトップクラスの製品を供給しています。 最新の設備も導入しており、高品質の製品を提供しています。 ▼求めているのはこんな方：モノづくりが好き・プラモデルや機械いじりが好き・技術を身に付けて成長したい。",
+    "url": "https://www.hikarikikai.co.jp/pages/148/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "100名（2024年5月 現在）（パートを含む）",
+    "url": "https://www.hikarikikai.co.jp/pages/132/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "製品分野": [
+   {
+    "quote": "三重県発行の半導体PR冊子に当社が掲載されました",
+    "url": "https://www.hikarikikai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "高精度加工・多品種少量・短納期対応｜一貫生産の切削工具や治具部品【三重県】",
+    "url": "https://www.hikarikikai.co.jp/pages/45/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置や食品製造機械など耐食性が必要な高精度部品を製作いたします",
+    "url": "https://www.hikarikikai.co.jp/pages/45/",
+    "pass": 1
+   },
+   {
+    "quote": "搬送ロボットとパレット段積み装置により、ワークの全自動加工で無人運転を実現します",
+    "url": "https://www.hikarikikai.co.jp/pages/31/",
+    "pass": 1
+   },
+   {
+    "quote": "基本的には、三爪チャックにて製品を支持して加工しますが、多種の治具を使用し、センター穴のない製品でも対応が可能です",
+    "url": "https://www.hikarikikai.co.jp/pages/44/",
+    "pass": 1
+   },
+   {
+    "quote": "基本的には、三爪チャックにて製品を支持して加工しますが、多種の治具を使用し、センターレスや偏芯製品でも加工対応が可能です",
+    "url": "https://www.hikarikikai.co.jp/pages/44/",
+    "pass": 1
+   },
+   {
+    "quote": "基本的には、両センターにて製品を支持して加工しますが、マグネットやチャック、多種の治具を使用し、センター穴のない製品でも対応が可能です",
+    "url": "https://www.hikarikikai.co.jp/pages/44/",
+    "pass": 1
+   },
+   {
+    "quote": "基本的には、両センターにて製品を支持して加工しますが、マグネットやチャック、多種の治具を使用しセンター穴のない製品でも対応が可能です",
+    "url": "https://www.hikarikikai.co.jp/pages/44/",
+    "pass": 1
+   },
+   {
+    "quote": "ガルバノとステージの協調制御や、各種センサ・ビジョンシステム、ロボットなど搬送システムとの連携に対応しています",
+    "url": "https://www.hikarikikai.co.jp/laserprocessingmachine/",
+    "pass": 1
+   },
+   {
+    "quote": "「アジアNo.1航空宇宙産業クラスター形成特区」の",
+    "url": "https://www.hikarikikai.co.jp/pages/129/",
+    "pass": 1
+   },
+   {
+    "quote": "愛知工業大学・愛知淑徳大学・大阪大学・関西大学・関西学院大学・京都産業大学・鈴鹿大学・名古屋外国語大学・名古屋工業大学・日本大学・中京大学・筑波大学・東京農工大学・同志社大学・三重大学・名城大学・近畿大学工業高等専門学校・鈴鹿工業高等専門学校・鳥羽商船高等専門学校・三重短期大学・中日本航空専門学校・津高等技術学校 など",
+    "url": "https://www.hikarikikai.co.jp/pages/147/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフト設計（PMC回路図、NCプログラム、NCパラメーター、PMCパラメーター、マクロ変数、ロボットプログラム、PLC回路図）",
+    "url": "https://www.hikarikikai.co.jp/pages/148/",
+    "pass": 1
+   },
+   {
+    "quote": "機械に付随するロボット、画像処理、マテリアルハンドリングに関するスキル",
+    "url": "https://www.hikarikikai.co.jp/pages/148/",
+    "pass": 1
+   },
+   {
+    "quote": "▼自動車、航空機、建機部品などの製造に欠かせない切削工具で世界シェアトップクラスの製品を供給しています",
+    "url": "https://www.hikarikikai.co.jp/pages/148/",
+    "pass": 1
+   },
+   {
+    "quote": "自動化（搬送ロボット・画像処理・コンベア・ワークストッカー追加）",
+    "url": "https://www.hikarikikai.co.jp/files/libs/3489/202503241546157220.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "各種工具研削盤 / 専用機 / 搬送装置 (画像処理) / 各種ロボット(水平/多軸/多関節)",
+    "url": "https://www.hikarikikai.co.jp/files/libs/3490/202503241546255240.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "ピコ秒レーザーやフェムト秒レーザーを用いた微細加工や表面改質・内部マーキングは、医療業界、自動車業界、半導体業界等のあらゆる産業用機器に使用されます",
+    "url": "https://mono.ipros.com/company/detail/2081308/",
+    "pass": 3
+   },
+   {
+    "quote": "また、ガラス内部へのマーキングも医療業界から需要があります",
+    "url": "https://mono.ipros.com/company/detail/2081308/",
+    "pass": 3
+   },
+   {
+    "quote": "表面改質に関しては、金型の離型性向上に対して、ニーズを頂いております",
+    "url": "https://mono.ipros.com/company/detail/2081308/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "遊星キャリア方式により、ワークの材質や形を問わず加工が可能です",
+    "url": "https://www.hikarikikai.co.jp/pages/45/",
+    "pass": 1
+   },
+   {
+    "quote": "ワークの材質や形を問わず、単品から小ロットの加工が可能です",
+    "url": "https://www.hikarikikai.co.jp/pages/45/",
+    "pass": 1
+   },
+   {
+    "quote": "面粗さが上がりにくい材質については、材質ごとの加工条件データをベースに対応します",
+    "url": "https://www.hikarikikai.co.jp/pages/45/",
+    "pass": 1
+   },
+   {
+    "quote": "S45CやSCM材の加工は、他の材質に比べ短納期が可能です",
+    "url": "https://www.hikarikikai.co.jp/pages/45/",
+    "pass": 1
+   },
+   {
+    "quote": "// ±0.001㎜、□±0.001㎜で研削、SKD11 SKD61 SKH51 HPM38 STAVAX ELMAX PD613 CENA1 HAP材 NAK材など様々な材質に対応可能です",
+    "url": "https://www.hikarikikai.co.jp/pages/45/",
+    "pass": 1
+   },
+   {
+    "quote": "堅いダイヤ、脆いガラス、軟い樹脂、複合材のCFRP、薄膜剥離材などの難削材などあらゆる素材に加工が可能です",
+    "url": "https://www.hikarikikai.co.jp/pages/47/",
+    "pass": 1
+   },
+   {
+    "quote": "加工範囲はΦ200mm×300mmまで、多種多様な材質・形状に対応可能",
+    "url": "https://www.hikarikikai.co.jp/pages/44/",
+    "pass": 1
+   },
+   {
+    "quote": "加工範囲はΦ200mm×300mmまで、多種多様な材質・形状に対応出来ます",
+    "url": "https://www.hikarikikai.co.jp/pages/44/",
+    "pass": 1
+   },
+   {
+    "quote": "加工範囲はΦ40mm×90mmまで、多種多様な材質・形状に対応出来ます",
+    "url": "https://www.hikarikikai.co.jp/pages/44/",
+    "pass": 1
+   },
+   {
+    "quote": "加工範囲はΦ3mm～Φ300mm、長さ300mmまでとなり、多種多様な材質に対応するために様々な刃具をご用意しています",
+    "url": "https://www.hikarikikai.co.jp/pages/44/",
+    "pass": 1
+   },
+   {
+    "quote": "加工範囲はΦ3mm～Φ400mm、長さ600mmまでとなり、多種多様な材質に対応するために様々な刃具を用意しています",
+    "url": "https://www.hikarikikai.co.jp/pages/44/",
+    "pass": 1
+   },
+   {
+    "quote": "加工範囲はΦ0mm～Φ300mm、長さ300mmまでとなり、多種多様な材質に対応するために様々な砥石を用意しています",
+    "url": "https://www.hikarikikai.co.jp/pages/44/",
+    "pass": 1
+   },
+   {
+    "quote": "加工範囲はΦ0mm～Φ150mm、長さ300mmまでとなり、多種多様な材質に対応するために様々な砥石を用意しています",
+    "url": "https://www.hikarikikai.co.jp/pages/44/",
+    "pass": 1
+   },
+   {
+    "quote": "加工範囲はΦ10mm～Φ200mm、長さ200mm迄となり多種多様な材質に対応するために様々な砥石を用意しています",
+    "url": "https://www.hikarikikai.co.jp/pages/44/",
+    "pass": 1
+   },
+   {
+    "quote": "（ガラス、フィルム、樹脂、鉄系材、非鉄系材、セラミクス、シリコンなど）",
+    "url": "https://www.hikarikikai.co.jp/pages/144/",
+    "pass": 1
+   },
+   {
+    "quote": "内部改質：ガラス、樹脂などの透明素材",
+    "url": "https://www.hikarikikai.co.jp/pages/144/",
+    "pass": 1
+   },
+   {
+    "quote": "ガラス・ダイヤなどの透明材料、チタンなどの難削材、樹脂・CFRP・セラミック・ポリイミドなどあらゆる素材へのレーザー加工が可能です",
+    "url": "https://mono.ipros.com/company/detail/2081308/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "高精度加工・多品種少量・短納期対応｜一貫生産の切削工具や治具部品【三重県】",
+    "url": "https://www.hikarikikai.co.jp/pages/45/",
+    "pass": 1
+   },
+   {
+    "quote": "試作、単加工にでもご遠慮なくお申し付けください",
+    "url": "https://www.hikarikikai.co.jp/pages/45/",
+    "pass": 1
+   },
+   {
+    "quote": "ワークの材質や形を問わず、単品から小ロットの加工が可能です",
+    "url": "https://www.hikarikikai.co.jp/pages/45/",
+    "pass": 1
+   },
+   {
+    "quote": "試作対応もいたしますので、ご相談ください",
+    "url": "https://www.hikarikikai.co.jp/pages/45/",
+    "pass": 1
+   },
+   {
+    "quote": "試作、単品、特殊品の製作をいたします",
+    "url": "https://www.hikarikikai.co.jp/pages/45/",
+    "pass": 1
+   },
+   {
+    "quote": "切削工具（オーダーメイド刃物・工具の製作）",
+    "url": "https://www.hikarikikai.co.jp/pages/45/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では溝の特殊な形状やサイズに合わせた、特注溝入れ加工インサートを製作します",
+    "url": "https://www.hikarikikai.co.jp/pages/45/",
+    "pass": 1
+   },
+   {
+    "quote": "生産効率改善のためのオーダーメイド工具の開発製造は光機械製作所の得意とするところです",
+    "url": "https://www.hikarikikai.co.jp/pages/45/",
+    "pass": 1
+   },
+   {
+    "quote": "光機械製作所では、さまざまな業界を対象としたオーダーメイドの専用研削盤を製造・販売しております",
+    "url": "https://www.hikarikikai.co.jp/pages/137/",
+    "pass": 1
+   },
+   {
+    "quote": "光学・機械・制御の一貫設計で、加工課題を解決するオーダーメイド装置を提供します",
+    "url": "https://www.hikarikikai.co.jp/laserprocessingmachine/",
+    "pass": 1
+   },
+   {
+    "quote": "「IR/SHG/THG x ピコ/フェムト秒」のデモ環境を持ち、試作検証から装置化までを一気通貫で対応します",
+    "url": "https://www.hikarikikai.co.jp/laserprocessingmachine/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "お問い合わせ｜株式会社光機械製作所｜専用工作機械の設計製造・切削工具OEM/ODM・レーザー加工（三重県津市）",
+    "url": "https://www.hikarikikai.co.jp/pages/4/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせいただいた際の個人情報は、弊社からの回答（または今後の採用プロセス）のためだけに使用させていただきます",
+    "url": "https://www.hikarikikai.co.jp/pages/4/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせいただく方の個人情報について、開示、訂正、削除をご請求いただけます",
+    "url": "https://www.hikarikikai.co.jp/pages/4/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせの内容によっては、電子メール以外の方法で回答させていただく場合がございます",
+    "url": "https://www.hikarikikai.co.jp/pages/4/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせの内容や弊社休業日の状況などにより、回答にお時間がかかる場合がございます",
+    "url": "https://www.hikarikikai.co.jp/pages/4/",
+    "pass": 1
+   },
+   {
+    "quote": "お電話かお問い合わせフォームよりご連絡ください",
+    "url": "https://www.hikarikikai.co.jp/pages/148/",
+    "pass": 1
+   },
+   {
+    "quote": "＜お問合せやご相談はお電話、メールでお気軽にお寄せください",
+    "url": "https://www.hikarikikai.co.jp/files/libs/3489/202503241546157220.pdf",
+    "pass": 2
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "切削工具向け専用研削盤（工具研削盤）製品一覧｜光機械製作所",
+    "url": "https://www.hikarikikai.co.jp/pages/137/",
+    "pass": 1
+   },
+   {
+    "quote": "長い歴史をかけて培ってきた技術力により、開発した当社の高精度な製品の導入をぜひご検討ください",
+    "url": "https://www.hikarikikai.co.jp/pages/137/",
+    "pass": 1
+   },
+   {
+    "quote": "光機械製作所は、深藍精機の製品に日本価値と日本品質を付加してお届けします",
+    "url": "https://www.hikarikikai.co.jp/pages/137/",
+    "pass": 1
+   },
+   {
+    "quote": "基本的には、三爪チャックにて製品を支持して加工しますが、多種の治具を使用し、センター穴のない製品でも対応が可能です",
+    "url": "https://www.hikarikikai.co.jp/pages/44/",
+    "pass": 1
+   },
+   {
+    "quote": "基本的には、三爪チャックにて製品を支持して加工しますが、多種の治具を使用し、センターレスや偏芯製品でも加工対応が可能です",
+    "url": "https://www.hikarikikai.co.jp/pages/44/",
+    "pass": 1
+   },
+   {
+    "quote": "基本的には、両センターにて製品を支持して加工しますが、マグネットやチャック、多種の治具を使用し、センター穴のない製品でも対応が可能です",
+    "url": "https://www.hikarikikai.co.jp/pages/44/",
+    "pass": 1
+   },
+   {
+    "quote": "基本的には、両センターにて製品を支持して加工しますが、マグネットやチャック、多種の治具を使用しセンター穴のない製品でも対応が可能です",
+    "url": "https://www.hikarikikai.co.jp/pages/44/",
+    "pass": 1
+   },
+   {
+    "quote": "基本的には、チャックにて製品を支持して加工します",
+    "url": "https://www.hikarikikai.co.jp/pages/44/",
+    "pass": 1
+   },
+   {
+    "quote": "光機械製作所では、匠の技の伝承とたゆまぬ技術革新の融合により、常に業界トップクラスの製品を生み出してきました",
+    "url": "https://www.hikarikikai.co.jp/pages/147/",
+    "pass": 1
+   },
+   {
+    "quote": "なかには業界の記録を塗り替えた製品もたくさんあります",
+    "url": "https://www.hikarikikai.co.jp/pages/147/",
+    "pass": 1
+   },
+   {
+    "quote": "創業から80年余、私たちは変わることなく、お客様から「なるほど！」と言っていただける、価値ある製品やサービスを提供できる企業であることを大切にしています",
+    "url": "https://www.hikarikikai.co.jp/pages/147/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、そんな思いに共感して、三重から世界へ誇れる製品をともに生み出していける仲間を待っています",
+    "url": "https://www.hikarikikai.co.jp/pages/147/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の製品である工作機械、切削工具の営業を担当いただきます",
+    "url": "https://www.hikarikikai.co.jp/pages/147/",
+    "pass": 1
+   },
+   {
+    "quote": "あなたの使っているその製品の製造現場の裏側に関われてしまうかも！？",
+    "url": "https://www.hikarikikai.co.jp/pages/147/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の製品である工作機械の設計業務を担当いただきます",
+    "url": "https://www.hikarikikai.co.jp/pages/147/",
+    "pass": 1
+   },
+   {
+    "quote": "未経験の方は機械への製品脱着や検査などの作業からスタートし、少しずつ仕事を覚えて頂きます",
+    "url": "https://www.hikarikikai.co.jp/pages/148/",
+    "pass": 1
+   },
+   {
+    "quote": "▼自動車、航空機、建機部品などの製造に欠かせない切削工具で世界シェアトップクラスの製品を供給しています",
+    "url": "https://www.hikarikikai.co.jp/pages/148/",
+    "pass": 1
+   },
+   {
+    "quote": "最新の設備も導入しており、高品質の製品を提供しています",
+    "url": "https://www.hikarikikai.co.jp/pages/148/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス(46)",
+    "url": "https://mono.ipros.com/company/detail/2081308/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (46)",
+    "url": "https://mono.ipros.com/company/detail/2081308/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "汎用旋盤・5軸加工機・CNC旋盤｜3DCAD/CAM対応の高精度加工【三重県】",
+    "url": "https://www.hikarikikai.co.jp/pages/44/",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.hikarikikai.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hikarikikai.co.jp/pages/45/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hikarikikai.co.jp/pages/47/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hikarikikai.co.jp/pages/4/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hikarikikai.co.jp/pages/137/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hikarikikai.co.jp/pages/31/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hikarikikai.co.jp/pages/139/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hikarikikai.co.jp/pages/44/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hikarikikai.co.jp/pages/144/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hikarikikai.co.jp/laserprocessingmachine/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hikarikikai.co.jp/pages/132/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hikarikikai.co.jp/pages/129/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hikarikikai.co.jp/pages/146/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hikarikikai.co.jp/pages/147/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hikarikikai.co.jp/pages/148/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.hikarikikai.co.jp/files/libs/3489/202503241546157220.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hikarikikai.co.jp/files/libs/3490/202503241546255240.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hikarikikai.co.jp/files/libs/3492/202503241546521689.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.hikarikikai.co.jp/files/libs/3491/202503241546386358.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/company/detail/2081308/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tyotannpulselaser.com/strength/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2081308/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tyotannpulselaser.com/strength/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2081308/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tyotannpulselaser.com/strength/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "光機械製作所 HIKARI LASER LAB. 取扱製品 試作 小ロット",
+   "results": [
+    "https://mono.ipros.com/company/detail/2081308/",
+    "https://www.hikarikikai.co.jp/pages/180?detail=1&b_id=2289&r_id=108",
+    "https://tyotannpulselaser.com/strength/",
+    "https://metoree.com/companies/20005/",
+    "https://www.hikarikikai.co.jp/pages/132/",
+    "https://ja.nc-net.or.jp/company/22539/",
+    "https://tyotannpulselaser.com/",
+    "https://mono.ipros.com/product/detail/2000587610/",
+    "https://eigyo-mfg.com/service/navi/company/CMLLsobOQlWO",
+    "https://www.hikarikikai.co.jp/pages/68/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "光機械製作所 HIKARI LASER LAB. 会社概要 事業内容",
+   "results": [
+    "https://www.hikarikikai.co.jp/pages/50/",
+    "https://mono.ipros.com/company/detail/2081308/",
+    "https://tyotannpulselaser.com/strength/",
+    "https://growth-100-oku.smrj.go.jp/companies/pdf/00097-00.pdf",
+    "https://metoree.com/companies/20005/",
+    "https://www.hikarikikai.co.jp/pages/173?detail=1&b_id=2281&r_id=108",
+    "https://eigyo-mfg.com/service/navi/company/CMLLsobOQlWO",
+    "https://www.instagram.com/p/DBfugaFTRcn/",
+    "https://www.xn--dck4cnc6d8gi.com/company.html"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "光機械製作所 HIKARI LASER LAB. お問い合わせ メール",
+   "results": [
+    "https://mono.ipros.com/company/detail/2081308/",
+    "https://tyotannpulselaser.com/strength/",
+    "https://www.hikarikikai.co.jp/pages/50/",
+    "https://metoree.com/companies/20005/",
+    "https://growth-100-oku.smrj.go.jp/companies/pdf/00097-00.pdf",
+    "https://tyotannpulselaser.com/contact/",
+    "https://www.hikarikikai.co.jp/pages/4/",
+    "https://www.hikarigroup.asia/inquiry",
+    "https://ja.nc-net.or.jp/company/22539/product/detail/106694/",
+    "https://www.kk-hikari.co.jp/Inquiry/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com 光機械製作所 HIKARI LASER LAB.",
+   "results": [
+    "https://note.com/human_macaw1926/n/n1783ff5fa355",
+    "https://note.com/tag/%E5%85%89%E3%82%B1%E3%83%BC%E3%83%96%E3%83%AB",
+    "https://note.com/mobio_osaka/n/nb4438bf97718",
+    "https://note.com/good_dill292/n/n653bf82721d0",
+    "https://note.com/good_dill292/n/na4eda64f8e94",
+    "https://note.com/bunguo/n/n73061d03d74a",
+    "https://note.com/good_dill292/n/nd610d5e853ba",
+    "https://note.com/apollon_talk/n/n3850b38f72c9",
+    "https://note.com/clipcorporation/n/nee52a3a16393",
+    "https://note.com/clipcorporation/n/n9033279030f7"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:x.com 光機械製作所 HIKARI LASER LAB.",
+   "results": [
+    "https://note.com/hikarilab/all",
+    "https://note.com/hikarilab",
+    "https://note.com/mask_ai/n/ndedc25973ad2",
+    "https://note.com/hikari_0825/all",
+    "https://note.com/hikarilab/n/n027fc717d2c3",
+    "https://note.com/hikarilab/n/n1f72fba75038",
+    "https://note.com/nkconsulting/n/n3a2fa838808d"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 光機械製作所 HIKARI LASER LAB.",
+   "results": [
+    "https://jp.linkedin.com/directory/companies/z-3",
+    "https://note.com/hikarilab/all",
+    "https://note.com/hikarilab",
+    "https://note.com/mask_ai/n/ndedc25973ad2",
+    "https://note.com/hikari_0825/all",
+    "https://note.com/hikarilab/n/n027fc717d2c3",
+    "https://note.com/hikarilab/n/n1f72fba75038",
+    "https://note.com/nkconsulting/n/n3a2fa838808d"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:facebook.com 光機械製作所 HIKARI LASER LAB.",
+   "results": [
+    "https://note.com/hikarilab/all",
+    "https://note.com/hikarilab",
+    "https://note.com/mask_ai/n/ndedc25973ad2",
+    "https://note.com/hikari_0825/all",
+    "https://note.com/hikarilab/n/n027fc717d2c3",
+    "https://note.com/hikarilab/n/n1f72fba75038",
+    "https://note.com/nkconsulting/n/n3a2fa838808d"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "光機械製作所 HIKARI LASER LAB. note 社長",
+   "results": [
+    "https://www.hikarikikai.co.jp/pages/50/",
+    "https://mono.ipros.com/company/detail/2081308/",
+    "https://tyotannpulselaser.com/strength/",
+    "https://metoree.com/companies/20005/",
+    "https://growth-100-oku.smrj.go.jp/companies/pdf/00097-00.pdf",
+    "https://www.hikarikikai.co.jp/pages/68/",
+    "https://monoto.co.jp/manufacturer-hikarikikai/",
+    "https://www.instagram.com/p/DBfugaFTRcn/",
+    "https://www.nikkei.com/article/DGXLZO96299950Z10C16A1L91000/",
+    "https://www.hikarikikai.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "光機械製作所 HIKARI LASER LAB. X 投稿",
+   "results": [
+    "https://www.hikarikikai.co.jp/pages/68/",
+    "https://mono.ipros.com/company/detail/2081308/",
+    "https://tyotannpulselaser.com/",
+    "https://growth-100-oku.smrj.go.jp/companies/pdf/00097-00.pdf",
+    "https://metoree.com/companies/20005/",
+    "https://www.hikarikikai.co.jp/pages/132/",
+    "https://tyotannpulselaser.com/strength/",
+    "https://www.instagram.com/p/DBfugaFTRcn/",
+    "https://www.nikkei.com/article/DGXLZO96299950Z10C16A1L91000/",
+    "https://www.hikarikikai.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 18
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式15頁／PDF・画像4件／外部6頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式15頁／PDF・画像4件／外部6頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式15頁／PDF・画像4件／外部6頁・検索9回）"
+ }
+}

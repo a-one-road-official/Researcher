@@ -1,0 +1,1538 @@
+{
+ "name": "Rebuyengine",
+ "aliases": [],
+ "context": "旧営業リスト｜E-commerce Personalization / AI Recommendations｜商談中",
+ "researched_at": "2026-11-11T11:24:18.777083+00:00",
+ "official_url": "https://rebuyengine.com",
+ "identified_by": "given",
+ "profile": {
+  "売上高": [
+   {
+    "label": "Revenue per employee",
+    "value": "$36,000",
+    "url": "https://prospeo.io/c/rebuy-engine-revenue",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "$17,000,000",
+    "url": "https://prospeo.io/c/rebuy-engine-revenue",
+    "pass": 3
+   },
+   {
+    "label": "Seed Round",
+    "value": "$4.40M 3 Peterson Ventures, Apple Core Holdings +1 15 Dec 2021",
+    "url": "https://bouncewatch.com/company/rebuy-engine",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Haines City, Florida, United States",
+    "url": "https://prospeo.io/c/rebuy-engine-revenue",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2017",
+    "url": "https://prospeo.io/c/rebuy-engine-revenue",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Rebuy’s Bundle Builder lets shoppers mix and match products to create personalized bundles, boosting engagement and average order value by encouraging flexible purchases often paired with volume discounts.",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "50 proven strategies to skyrocket your sales",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-driven product recommendations that boost sales, cut costs, and save time",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve customer experience",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rebuy’s best-in-class personalization products boost brand loyalty and reduce the risk of abandoned carts.",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enter to win free prizes",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enter to win our giveaway of exclusive prizes",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Score big beyond the leaderboard! We’re giving away not one, but three premium $1,000 USD design & development credits to top Shopify agencies, Nintendo Switch 2 consoles, exclusive Rebuy swag, and more!",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The most advanced shopping cart on Shopify, Smart Cart is a fully customizable, slide-out cart with over 35+ pre-built tech integrations. Trusted by top Shopify brands, Smart Cart comes with out-of-the-box AOV boosting features like Tiered Progress Bar, Announcement Banner, Buy More, Save More, Gift with Purchase, AI-Powered Upsells, Switch-to-Subscription, and more.",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "A truly flexible Shopify personalization platform that allows you to merchandise your storefront any way you want. Install in minutes and let Rebuy's prediction engine get to work immediately. Intelligent product recommendations can live on any page. Put the right products, in the right place, at the right time.",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Give your customers more of what they want with dynamic bundles. Curate a buying experience that reduces navigation fatigue, enhances product discovery and maximizes value for both one-time shoppers and subscription customers.",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Related-product offers & discounts",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Improve your customer journey with a smarter experience beyond the cart",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Fully customize your Shopify Plus checkout, from content blocks to personalized upsell offers that boost AOV. With a drag-and-drop editor, widgets can be easily placed across the checkout, increasing profitability and conversions with offers, reviews, trust badges, and more.",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Post-Purchase Offers appear between the checkout and thank you pages, keeping the buying experience uninterrupted while giving your brand the perfect moment to present personalized recommendations at peak purchasing intent.",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Help your customers find what they need with AI-powered product discovery",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-powered search and collection merchandising that adapts to your customers based on their behaviors. Enhance search results with personalized product recommendations and actionable insights anchored in advanced analytics.",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Take control of your collections and make updates on your terms. With Smart Collections, you can set filters and sorting rules, feature products, adjust layouts, run campaigns, and gain insights without relying on developers.",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Create ecommerce revenue growth that scales through consistent experimentation and reliable data. Test and optimize any shopping experience on your site to improve customer experience and increase conversions.",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your customers love your products. Empower them to reorder their favorites, discover new products, upgrade subscriptions, and complete their purchases in seconds.",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Transform your post-purchase pages into a profit machine with personalized offers",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Leverage a proprietary identity graph powered by 200M+ first-party data profiles to deliver hyper-personalized offers. Most ads are junk—ours are rewards the customers want to see.",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rebuy Monetize is pure incremental profit that does not impact conversion rates or harm brand perception. Monetize high-intent real-estate while delivering even more value to customers.",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We harness the power of artificial intelligence and machine learning to deliver personalized shopping experiences that resonate with each customer. By analyzing extensive data on user behavior and preferences, our AI-driven products provide tailored recommendations and customizations that enhance customer experiences and drive higher engagement and conversion rates.",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We worked with Rebuy on a custom widget we could easily add to our cart recs to highlight a specific product or promote a new launch. During the first week of our new product category launch, this widget drove almost 20% of our new product bundle sales.",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rebuy Partner Program - Partner with the Leader in Ecommerce Personalization for Shopify",
+    "url": "https://www.rebuyengine.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Rebuy’s Bundle Builder lets shoppers mix and match products to create personalized bundles, boosting engagement and average order value by encouraging flexible purchases often paired with volume discounts.",
+    "url": "https://www.rebuyengine.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "50 proven strategies to skyrocket your sales",
+    "url": "https://www.rebuyengine.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Join the growing number of top marketing agencies and consultants helping ecommerce businesses grow using Rebuy.",
+    "url": "https://www.rebuyengine.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Expand your suite of services to win new clients, improve retention, and maintain growth.",
+    "url": "https://www.rebuyengine.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Co-Marketing Opportunities",
+    "url": "https://www.rebuyengine.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Collaborate on marketing opportunities to drive brand awareness and leads",
+    "url": "https://www.rebuyengine.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Gain early access to beta features and information about new product releases.",
+    "url": "https://www.rebuyengine.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Receive hands-on training and a dedicated Slack channel for step-by-step support.",
+    "url": "https://www.rebuyengine.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Register leads, track referrals, and view referral payouts in one easy-to-manage portal.",
+    "url": "https://www.rebuyengine.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Every client of ours that adds Rebuy sees an instant boost in Average Order Value. Rebuy is the Gold Standard solution and we're extremely thankful for the support and collaboration their team has provided.",
+    "url": "https://www.rebuyengine.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Rebuy Partner Academy offers a comprehensive collection of trainings, spanning from fundamental Rebuy concepts to deploying cutting-edge solutions. These resources empower eCommerce agencies to effectively implement, refine, and maximize value for both prospective and existing clients.",
+    "url": "https://www.rebuyengine.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Co-marketing opportunities and campaigns",
+    "url": "https://www.rebuyengine.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "All products & features",
+    "url": "https://www.rebuyengine.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Partner Program Agreement",
+    "url": "https://rebuyengine.com/partners/create",
+    "pass": 1
+   },
+   {
+    "quote": "Rebuy Pricing - Ecommerce Personalization Platform for Shopify",
+    "url": "https://www.rebuyengine.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Rebuy’s Bundle Builder lets shoppers mix and match products to create personalized bundles, boosting engagement and average order value by encouraging flexible purchases often paired with volume discounts.",
+    "url": "https://www.rebuyengine.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "50 proven strategies to skyrocket your sales",
+    "url": "https://www.rebuyengine.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pricing that works for you",
+    "url": "https://www.rebuyengine.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Turn post purchase pages into profit with curated offers from top brands like Disney+ and more.",
+    "url": "https://www.rebuyengine.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Combine Rebuy products à la carte for a fully custom personalization engine.",
+    "url": "https://www.rebuyengine.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Price is based on orders per month",
+    "url": "https://www.rebuyengine.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Combine Rebuy products a la carte for a fully customized personalization engine.",
+    "url": "https://www.rebuyengine.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Customizable slideout cart with AI-powered product recommendations",
+    "url": "https://www.rebuyengine.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Customized checkout with content blocks and AOV-boosting offers (Shopify Plus exclusive)",
+    "url": "https://www.rebuyengine.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "AI-powered product discovery",
+    "url": "https://www.rebuyengine.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Rebuy guarantees a positive ROI (return on investment) for all customers using our products. A positive ROI is calculated by taking the amount spent on the Rebuy platform compared to the additional revenue driven by Rebuy.",
+    "url": "https://www.rebuyengine.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Monthly price by order volume",
+    "url": "https://www.rebuyengine.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Each package is priced by your store’s average monthly Shopify orders. Prices are per package, billed monthly, before discounts.",
+    "url": "https://www.rebuyengine.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Rebuy monthly price per package by average monthly Shopify orders",
+    "url": "https://www.rebuyengine.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Best-in-class support with guided onboarding, live online assistance and a comprehensive help center.",
+    "url": "https://www.rebuyengine.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Conversion Rate Improvement",
+    "url": "https://www.rebuyengine.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Rebuy bills on a prorated 30-day cycle (not monthly). Each bill is determined by the previous 30-day metrics and covers the upcoming 30 days.",
+    "url": "https://www.rebuyengine.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "All plans include access to the 24/7 help center, robust education materials, and live online support each weekday, excluding US federal holidays. Enterprise customers get access to a private slack channel for questions or escalations.",
+    "url": "https://www.rebuyengine.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "At Rebuy, delivering exceptional support to our valued customers is our top priority. Our",
+    "url": "https://www.rebuyengine.com/pricing",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "The most advanced shopping cart on Shopify, Smart Cart is a fully customizable, slide-out cart with over 35+ pre-built tech integrations. Trusted by top Shopify brands, Smart Cart comes with out-of-the-box AOV boosting features like Tiered Progress Bar, Announcement Banner, Buy More, Save More, Gift with Purchase, AI-Powered Upsells, Switch-to-Subscription, and more.",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "DIME Beauty Case Study",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "DIME Beauty Case Study",
+    "url": "https://www.rebuyengine.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "DIME Beauty Case Study",
+    "url": "https://www.rebuyengine.com/industries/beauty-cosmetics",
+    "pass": 1
+   },
+   {
+    "quote": "Revant Optics Case Study",
+    "url": "https://www.rebuyengine.com/industries/fashion-apparel",
+    "pass": 1
+   },
+   {
+    "quote": "MaryRuth Organics Case Study",
+    "url": "https://www.rebuyengine.com/industries/health-wellness",
+    "pass": 1
+   },
+   {
+    "quote": "Cabau Lifestyle Case Study",
+    "url": "https://www.rebuyengine.com/industries/health-wellness",
+    "pass": 1
+   },
+   {
+    "quote": "Magic Spoon Case Study",
+    "url": "https://www.rebuyengine.com/industries/food-and-beverage",
+    "pass": 1
+   },
+   {
+    "quote": "This case study is adapted from a live interview filmed on stage at Rebuy’s Momentum 2025 conference, where MaryRuth Organics’ Chief Revenue Officer, Jay Hunter, shared the brand’s growth story.",
+    "url": "https://www.rebuyengine.com/case-studies/maryruths",
+    "pass": 1
+   },
+   {
+    "quote": "In this case study, we delve into OLLY's journey and explore how their strategic use of Rebuy has helped increase their average order value (AOV) and rapidly accelerate their subscription business.",
+    "url": "https://www.rebuyengine.com/case-studies/olly",
+    "pass": 1
+   },
+   {
+    "quote": "MaryRuth Organics Case Study",
+    "url": "https://www.rebuyengine.com/product/smart-cart",
+    "pass": 1
+   },
+   {
+    "quote": "Cabau Lifestyle isn’t slowing down. With a factory secured in Los Angeles, the brand is actively expanding into the U.S. and seeking retail partners to accelerate distribution. “We’re building awareness with U.S.-based influencers,” said Fredriks, “but we’re still looking for the right retail partners.”",
+    "url": "https://www.rebuyengine.com/case-studies/cabau-lifestyle",
+    "pass": 1
+   },
+   {
+    "quote": "Rebuy is used by the platform's biggest merchants to increase AOV",
+    "url": "https://www.rebuyengine.com/shopify",
+    "pass": 3
+   },
+   {
+    "quote": "Apparel Manufacturing",
+    "url": "https://www.casestudies.com/company/rebuy-engine",
+    "pass": 3
+   },
+   {
+    "quote": "Beverage Manufacturing",
+    "url": "https://www.casestudies.com/company/rebuy-engine",
+    "pass": 3
+   },
+   {
+    "quote": "Food and Beverage Manufacturing",
+    "url": "https://www.casestudies.com/company/rebuy-engine",
+    "pass": 3
+   },
+   {
+    "quote": "Furniture and Home Furnishings Manufacturing",
+    "url": "https://www.casestudies.com/company/rebuy-engine",
+    "pass": 3
+   },
+   {
+    "quote": "Personal Care Product Manufacturing",
+    "url": "https://www.casestudies.com/company/rebuy-engine",
+    "pass": 3
+   },
+   {
+    "quote": "Don’t stop be-leafin': feey plants a seed, grows AOV 20%",
+    "url": "https://www.rebuyengine.com/case-studies/all",
+    "pass": 3
+   },
+   {
+    "quote": "When a change in tax rates soiled the status quo, plant shop feey used the power of Rebuy to carve a new path and generate lush returns.",
+    "url": "https://www.rebuyengine.com/case-studies/all",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Rebuy Engine",
+    "url": "https://www.casestudies.com/customer/rebuy-engine",
+    "pass": 3
+   },
+   {
+    "quote": "Rate This Customer Case Study",
+    "url": "https://www.featuredcustomers.com/vendor/rebuy-engine/case-studies",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Score big beyond the leaderboard! We’re giving away not one, but three premium $1,000 USD design & development credits to top Shopify agencies, Nintendo Switch 2 consoles, exclusive Rebuy swag, and more!",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Post-Purchase Offers appear between the checkout and thank you pages, keeping the buying experience uninterrupted while giving your brand the perfect moment to present personalized recommendations at peak purchasing intent.",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Get the FREE Merchandising Audit Checklist, your step-by-step checklist to audit your Shopify store, optimize for revenue, and break your sales records. Includes over 70 resources from ecommerce experts like Andy Crestodina and Brandon Amoroso; Shopify development agencies like Sticky Digital and Ambaum Agency; and ecommerce platforms like Gorgias and Okendo.",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rebuy Partner Program - Partner with the Leader in Ecommerce Personalization for Shopify",
+    "url": "https://www.rebuyengine.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Join the growing number of top marketing agencies and consultants helping ecommerce businesses grow using Rebuy.",
+    "url": "https://www.rebuyengine.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Want to take your partnership even further? Explore how to become a Certified Rebuy Agency Partner below.",
+    "url": "https://www.rebuyengine.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Certified Rebuy Agency Partner.",
+    "url": "https://www.rebuyengine.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Rebuy Partner Academy offers a comprehensive collection of trainings, spanning from fundamental Rebuy concepts to deploying cutting-edge solutions. These resources empower eCommerce agencies to effectively implement, refine, and maximize value for both prospective and existing clients.",
+    "url": "https://www.rebuyengine.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Partner Program Agreement",
+    "url": "https://rebuyengine.com/partners/create",
+    "pass": 1
+   },
+   {
+    "quote": "Beautiful solutions for growing your brand",
+    "url": "https://www.rebuyengine.com/industries/beauty-cosmetics",
+    "pass": 1
+   },
+   {
+    "quote": "Fashionable solutions for growing your brand",
+    "url": "https://www.rebuyengine.com/industries/fashion-apparel",
+    "pass": 1
+   },
+   {
+    "quote": "Polyvinyl migrated from a custom-built platform to Shopify with agency partner Softlimit — and made Rebuy part of the foundation from day one.",
+    "url": "https://www.rebuyengine.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "We’re teaming up three top-tier Shopify development agencies,",
+    "url": "https://www.rebuyengine.com/blog/bfcm-2025-ka-ching-giveaway",
+    "pass": 1
+   },
+   {
+    "quote": "💻 Three $1,000 credits toward Shopify design & development services from top Rebuy agency partners (see below)",
+    "url": "https://www.rebuyengine.com/blog/bfcm-2025-ka-ching-giveaway",
+    "pass": 1
+   },
+   {
+    "quote": "Yes! Smart Cart is designed to integrate seamlessly with any Shopify theme and adapts to your brand’s look and feel.",
+    "url": "https://www.rebuyengine.com/product/smart-cart",
+    "pass": 1
+   },
+   {
+    "quote": "Polyvinyl migrated from a custom-built platform to Shopify with agency partner Softlimit — and made Rebuy part of the foundation from day one.",
+    "url": "https://www.rebuyengine.com/case-studies/all",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Increase revenue with the 2026 BFCM guide",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Free, actionable strategies to maximize revenue this BFCM",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Earn extra revenue on your Shopify Thank You and Order Status Pages with Rebuy Monetize. Deliver personalized, targeted offers to customers post-purchase and boost your store’s revenue effortlessly.",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "in new revenue for merchants",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rebuy’s AI helps brands accelerate revenue growth by delivering data-driven shopping experiences that resonate with customers.",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Create ecommerce revenue growth that scales through consistent experimentation and reliable data. Test and optimize any shopping experience on your site to improve customer experience and increase conversions.",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Capitalize on post-purchase excitement with high-quality offers from the biggest brands in the world right on your Thank You and Order Status pages. Unlock new incremental revenue at zero additional cost to you.",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "increased subscription revenue & 25% boost in using Rebuy Smart Cart",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "After one week we looked at the dashboard and saw the lifetime Rebuy-generated revenue and we were like, 'OMG, that’s so much money.'",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Get the FREE Merchandising Audit Checklist, your step-by-step checklist to audit your Shopify store, optimize for revenue, and break your sales records. Includes over 70 resources from ecommerce experts like Andy Crestodina and Brandon Amoroso; Shopify development agencies like Sticky Digital and Ambaum Agency; and ecommerce platforms like Gorgias and Okendo.",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "See how much your revenue can increase in your first 14 days — try it for free.",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect with an ecommerce expert to discover your store's biggest revenue opportunities.",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Increase revenue with the 2026 BFCM guide",
+    "url": "https://www.rebuyengine.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Free, actionable strategies to maximize revenue this BFCM",
+    "url": "https://www.rebuyengine.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Earn extra revenue on your Shopify Thank You and Order Status Pages with Rebuy Monetize. Deliver personalized, targeted offers to customers post-purchase and boost your store’s revenue effortlessly.",
+    "url": "https://www.rebuyengine.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Earn up to 20% of the revenue from each customer you refer and activate.",
+    "url": "https://www.rebuyengine.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Create a Rebuy Partner Account and help your merchants unlock massive growth, plus earn revenue share along the way.",
+    "url": "https://www.rebuyengine.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "See how much your revenue can increase in your first 14 days — try it for free.",
+    "url": "https://www.rebuyengine.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Connect with an ecommerce expert to discover your store's biggest revenue opportunities.",
+    "url": "https://www.rebuyengine.com/partners",
+    "pass": 1
+   },
+   {
+    "quote": "Increase revenue with the 2026 BFCM guide",
+    "url": "https://www.rebuyengine.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Free, actionable strategies to maximize revenue this BFCM",
+    "url": "https://www.rebuyengine.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Earn extra revenue on your Shopify Thank You and Order Status Pages with Rebuy Monetize. Deliver personalized, targeted offers to customers post-purchase and boost your store’s revenue effortlessly.",
+    "url": "https://www.rebuyengine.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "in new revenue for merchants",
+    "url": "https://www.rebuyengine.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Rebuy guarantees a positive ROI (return on investment) for all customers using our products. A positive ROI is calculated by taking the amount spent on the Rebuy platform compared to the additional revenue driven by Rebuy.",
+    "url": "https://www.rebuyengine.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Ecommerce Revenue Calculator",
+    "url": "https://www.rebuyengine.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Rebuy Monetize revenue",
+    "url": "https://www.rebuyengine.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How is Rebuy Generated Revenue (RGR) calculated?",
+    "url": "https://www.rebuyengine.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "RGR is all revenue driven by Rebuy within a given period. RGR is only applied to sales driven directly by a Rebuy widget, link, search, or recommendation workflow.",
+    "url": "https://www.rebuyengine.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "A goodwill effort must be made to use the product to drive additional onsite revenue. A refund will not be issued for simply not using the product. Refund requests must be made within 60 days of billing on your Shopify invoice. Refunds will be calculated and issued on a per-month basis.",
+    "url": "https://www.rebuyengine.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "See how much your revenue can increase in your first 14 days — try it for free.",
+    "url": "https://www.rebuyengine.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Connect with an ecommerce expert to discover your store's biggest revenue opportunities.",
+    "url": "https://www.rebuyengine.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Rebuy helps Beauty & Personal Care brands create revenue-boosting shopping experiences, from recommending skincare essentials to highlighting a best-selling body wash. With seamless subscription upsells, AI-powered recommendations, and post-purchase deals, you’ll transform single purchases into loyalty-driven relationships.",
+    "url": "https://www.rebuyengine.com/industries/beauty-cosmetics",
+    "pass": 1
+   },
+   {
+    "quote": "increased subscription revenue & 25% boost in using Rebuy Smart Cart",
+    "url": "https://www.rebuyengine.com/industries/beauty-cosmetics",
+    "pass": 1
+   },
+   {
+    "quote": "After one week we looked at the dashboard and saw the lifetime Rebuy-generated revenue and we were like, 'OMG, that’s so much money.'",
+    "url": "https://www.rebuyengine.com/industries/beauty-cosmetics",
+    "pass": 1
+   },
+   {
+    "quote": "Free, actionable strategies to maximize revenue this BFCM",
+    "url": "https://www.rebuyengine.com/industries/beauty-cosmetics",
+    "pass": 1
+   },
+   {
+    "quote": "From suggesting the perfect accessory to completing the look, Rebuy helps Fashion & Apparel Shopify brands create AOV-boosting shopping experiences. With smart recommendations, in-cart upsells, and post-purchase offers, you’ll turn one-off transactions into loyal revenue-generating relationships.",
+    "url": "https://www.rebuyengine.com/industries/fashion-apparel",
+    "pass": 1
+   },
+   {
+    "quote": "From a revenue standpoint, it was the single easiest, fastest revenue boost I've ever seen.",
+    "url": "https://www.rebuyengine.com/industries/fashion-apparel",
+    "pass": 1
+   },
+   {
+    "quote": "Rebuy powers automated merchandising across PDPs, cart, and checkout that actually moves the needle. It’s become a reliable revenue driver with strong ROI.",
+    "url": "https://www.rebuyengine.com/industries/fashion-apparel",
+    "pass": 1
+   },
+   {
+    "quote": "Free, actionable strategies to maximize revenue this BFCM",
+    "url": "https://www.rebuyengine.com/industries/fashion-apparel",
+    "pass": 1
+   },
+   {
+    "quote": "Rebuy helps Health & Wellness Shopify brands create revenue-boosting shopping experiences, from recommending supplements to rewarding customers with a free shaker cup when they hit a qualifying cart total. With seamless subscription upsells and AOV-boosting personalized offers, you’ll build loyalty, boost lifetime value, and drive growth.",
+    "url": "https://www.rebuyengine.com/industries/health-wellness",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Revenue Officer",
+    "url": "https://www.rebuyengine.com/industries/health-wellness",
+    "pass": 1
+   },
+   {
+    "quote": "increased subscription revenue & 25% boost in using Rebuy Smart Cart",
+    "url": "https://www.rebuyengine.com/industries/health-wellness",
+    "pass": 1
+   },
+   {
+    "quote": "After one week we looked at the dashboard and saw the lifetime Rebuy-generated revenue and we were like, 'OMG, that’s so much money.'",
+    "url": "https://www.rebuyengine.com/industries/health-wellness",
+    "pass": 1
+   },
+   {
+    "quote": "Smart Flows allows us to personalize the entire customer journey at scale, from first touch to repeat purchase. Instead of relying on generic discounts, we tailor incentives based on behavior, which helps us build a stronger relationship with our community while driving retention and repeat revenue without over discounting.",
+    "url": "https://www.rebuyengine.com/industries/health-wellness",
+    "pass": 1
+   },
+   {
+    "quote": "increase in revenue per visitor for Post-Purchase Offers over six months",
+    "url": "https://www.rebuyengine.com/industries/health-wellness",
+    "pass": 1
+   },
+   {
+    "quote": "Free, actionable strategies to maximize revenue this BFCM",
+    "url": "https://www.rebuyengine.com/industries/health-wellness",
+    "pass": 1
+   },
+   {
+    "quote": "From recommending a new flavor to offering a coffee subscription, Rebuy helps Food & Beverage Shopify brands create experiences as irresistible as their products. With smart product recommendations, subscription upsells, and post-purchase offers, you’ll turn single orders into loyal customers and boost revenue at every step.",
+    "url": "https://www.rebuyengine.com/industries/food-and-beverage",
+    "pass": 1
+   },
+   {
+    "quote": "With Rebuy Monetize, we’re unlocking a new stream of revenue without adding any friction to the customer experience. It’s effortless upside, and it adds up fast.",
+    "url": "https://www.rebuyengine.com/industries/food-and-beverage",
+    "pass": 1
+   },
+   {
+    "quote": "Free, actionable strategies to maximize revenue this BFCM",
+    "url": "https://www.rebuyengine.com/industries/food-and-beverage",
+    "pass": 1
+   },
+   {
+    "quote": "Increase revenue with the 2026 BFCM guide",
+    "url": "https://www.rebuyengine.com/case-studies/maryruths",
+    "pass": 1
+   },
+   {
+    "quote": "Free, actionable strategies to maximize revenue this BFCM",
+    "url": "https://www.rebuyengine.com/case-studies/maryruths",
+    "pass": 1
+   },
+   {
+    "quote": "Earn extra revenue on your Shopify Thank You and Order Status Pages with Rebuy Monetize. Deliver personalized, targeted offers to customers post-purchase and boost your store’s revenue effortlessly.",
+    "url": "https://www.rebuyengine.com/case-studies/maryruths",
+    "pass": 1
+   },
+   {
+    "quote": "This case study is adapted from a live interview filmed on stage at Rebuy’s Momentum 2025 conference, where MaryRuth Organics’ Chief Revenue Officer, Jay Hunter, shared the brand’s growth story.",
+    "url": "https://www.rebuyengine.com/case-studies/maryruths",
+    "pass": 1
+   },
+   {
+    "quote": "that broke the internet and the barriers around what a supplement brand could be.",
+    "url": "https://www.rebuyengine.com/case-studies/maryruths",
+    "pass": 1
+   },
+   {
+    "quote": "MaryRuth Organics uses Rebuy Smart Cart (equipped with a two-tier progress bar) to enrich the shopping cart experience with AI-powered cross-sells and super convenient subscription upsells. Rebuy Smart Cart accounted for 30.39% of additional revenue.",
+    "url": "https://www.rebuyengine.com/case-studies/maryruths",
+    "pass": 1
+   },
+   {
+    "quote": "To increase AOV, Hunter and team positioned a dynamic bundle widget on the PDP, and customers are drinking it down. This widget accounted for 19.38% of additional revenue.",
+    "url": "https://www.rebuyengine.com/case-studies/maryruths",
+    "pass": 1
+   },
+   {
+    "quote": "\"We found this to be hugely impactful\" says Hunter about the add-to-cart subscription upsell popups. It's true, this popup accounted for over 19% of Rebuy-assisted revenue.",
+    "url": "https://www.rebuyengine.com/case-studies/maryruths",
+    "pass": 1
+   },
+   {
+    "quote": "Rounding out the top performing widgets, post-purchase offers chipped in 8.7% of additional revenue.",
+    "url": "https://www.rebuyengine.com/case-studies/maryruths",
+    "pass": 1
+   },
+   {
+    "quote": "Hunter's tips for other Chief Revenue Officers",
+    "url": "https://www.rebuyengine.com/case-studies/maryruths",
+    "pass": 1
+   },
+   {
+    "quote": "of Rebuy-assisted revenue.",
+    "url": "https://www.rebuyengine.com/case-studies/maryruths",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "sales@rebuyengine.com",
+    "url": "https://www.rebuyengine.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "She would check analytics every day and email her Merchant Success Manager to double check. “After one week, we looked at the dashboard and saw the lifetime RGR and were like, ‘OMG, that’s so much money.’”",
+    "url": "https://www.rebuyengine.com/case-studies/olly",
+    "pass": 1
+   },
+   {
+    "quote": ", submit your score, and drop your work email address when prompted.",
+    "url": "https://www.rebuyengine.com/blog/bfcm-2025-ka-ching-giveaway",
+    "pass": 1
+   },
+   {
+    "quote": "350,000 email subscribers",
+    "url": "https://www.rebuyengine.com/case-studies/cabau-lifestyle",
+    "pass": 1
+   },
+   {
+    "quote": ". The brand also relies heavily on email to drive sales, with Klaviyo set up as a core channel.",
+    "url": "https://www.rebuyengine.com/case-studies/cabau-lifestyle",
+    "pass": 1
+   },
+   {
+    "quote": "“Our email list is by far the most effective part of our sales funnel,” said Fredriks.",
+    "url": "https://www.rebuyengine.com/case-studies/cabau-lifestyle",
+    "pass": 1
+   },
+   {
+    "quote": "With Rebuy, the team has been able to layer personalized merchandising and product flows into those campaigns, turning every email into a guided path back to the store. Instead of a one-off message, customers experience a consistent journey across touchpoints - from inbox, to product page, to checkout.",
+    "url": "https://www.rebuyengine.com/case-studies/cabau-lifestyle",
+    "pass": 1
+   },
+   {
+    "quote": "Fully customizable email templates",
+    "url": "https://www.rebuyengine.com/shopify",
+    "pass": 3
+   },
+   {
+    "quote": "Dynamic Yield is an AI-powered Personalization Anywhere™ platform that delivers individualized experiences at every customer touchpoint: web, apps, email, kiosks, IoT, and call centers. The platform’s data management capabilities provide …",
+    "url": "https://www.featuredcustomers.com/vendor/rebuy-engine/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today to take control of your profile for",
+    "url": "https://www.featuredcustomers.com/vendor/rebuy-engine/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us today for pricing options to add your customer",
+    "url": "https://www.featuredcustomers.com/vendor/rebuy-engine/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Build leads list with verified emails & mobiles",
+    "url": "https://prospeo.io/c/rebuy-engine-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Confirm with your work e-mail, get the Verified badge and keep this profile correct yourself. Search engines and AI assistants read it every day.",
+    "url": "https://bouncewatch.com/company/rebuy-engine",
+    "pass": 3
+   },
+   {
+    "quote": "The list's first rows in Excel, with every column the full file has and how full each one is. One e-mail, then at most two short notes.",
+    "url": "https://bouncewatch.com/company/rebuy-engine",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Rebuy - Ecommerce Personalization Platform for Shopify — Rebuy Monetize Data Sources Integrations What is Rebuy Engine? All products & features Resources Blog Events Community Newsletter Ecommerce glossary Explore more Pricing Case Studies Inspiration What's new Coming soon Support Help Center API Docs Getting started Customer Success Partners Partner directory Become a partner Partner login Creat",
+    "url": "https://www.rebuyengine.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Rebuy Engineで始めるShopify向けAIパーソナライズ活用法 | findAI — Mar 10, 2026 · Rebuy Engineで始めるShopify向けAIパーソナライズ活用法をまとめました 顧客データをAIで分析し、リアルタイムパーソナライズを実現するRebuy Engine。 AOV・LTV向上、コンバージョン増加を約束し、Shopify Plus認定の信頼性で安心導入。",
+    "url": "https://ai.appmatch.jp/query-2333/",
+    "pass": 3
+   },
+   {
+    "quote": "Rebuy Engine - LinkedIn 日本 — Rebuy Engine | LinkedInのフォロワー数6,725人。 Create shopping experiences that drive more revenue | Rebuy is a personalization and monetization platform for the world’s fastest-growing Shopify...",
+    "url": "https://jp.linkedin.com/company/rebuyengine",
+    "pass": 3
+   },
+   {
+    "quote": "Rebuy Engine - 2026 Company Profile, Team, Funding ... - Tracxn — Feb 12, 2026 · Rebuy Engine - Platform offering data-driven personalization and merchandising solutions for Shopify sellers. Raised a total funding of $21.4M over 2 rounds from 7 investors.",
+    "url": "https://tracxn.com/d/companies/rebuyengine/__6-XKXPXnU_dOfdjrMS9a2dmH2LWECexc3rqZQxzd9Mg",
+    "pass": 3
+   },
+   {
+    "quote": "Rebuy Engine (@rebuyengine) • Instagram photos and videos — 303 Followers, 2 Following, 24 Posts - Rebuy Engine (@rebuyengine) on Instagram: \"Smart ecommerce personalization for growing Shopify brands. Boost sales, cut costs, and save time with AI-driven product recommendations.\"",
+    "url": "https://www.instagram.com/rebuyengine/",
+    "pass": 3
+   },
+   {
+    "quote": "Getting Started | Rebuy Help Center - help.rebuyengine.com — Post-Purchase Widgets: Features, Capabilities, and Limitations to Consider Explore the powerful features of post-purchase widgets and understand the limitations you need to consider. Post-Purchase Best Practices Get more from Post Purchase using these tips!",
+    "url": "https://help.rebuyengine.com/en/collections/8140614-getting-started",
+    "pass": 3
+   },
+   {
+    "quote": "Apparel – Rebuy Engine — Japan (JPY ¥) Jersey (USD $) Jordan (USD $) Kazakhstan (KZT ₸) Kenya (KES KSh) Kiribati (USD $) Kosovo (EUR €) Kuwait (USD",
+    "url": "https://store.rebuyengine.com/collections/apparel",
+    "pass": 3
+   },
+   {
+    "quote": "Rebuy Engine - LinkedIn — Rebuy is a personalization and monetization platform for the world’s fastest-growing Shopify brands, helping merchants increase AOV, boost conversion, and deliver tailored shopping experiences...",
+    "url": "https://jp.linkedin.com/company/rebuyengine",
+    "pass": 3
+   },
+   {
+    "quote": "Rebuy Engine B2B Case Studies & Customer Successes — See how Rebuy Engine solves business challenges—real case studies from satisfied customers across industries.",
+    "url": "https://www.casestudies.com/company/rebuy-engine",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies Featuring Rebuy Engine as the Customer — Explore case studies featuring Rebuy Engine as the customer — learn how vendors and partners helped Rebuy Engine solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/rebuy-engine",
+    "pass": 3
+   },
+   {
+    "quote": "39 Rebuy Engine Case Studies, Success Stories, & Customer ... — Rebuy Engine has a 4.8/5 star rating. Learn what their customers think, get 39 free case studies and more.",
+    "url": "https://www.featuredcustomers.com/vendor/rebuy-engine/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "Rebuy Engine Revenue, Funding & Valuation - prospeo.io — When was Rebuy Engine founded? Rebuy Engine was founded in 2017, making it 9 years old. The company has established itself as a significant player in its industry over this time.",
+    "url": "https://prospeo.io/c/rebuy-engine-revenue",
+    "pass": 3
+   },
+   {
+    "quote": "Rebuy Engine Revenue 2025: $12.3M Est. - getlatka.com — Oct 30, 2026 · How many employees does Rebuy Engine have? Rebuy Engine has 112 employees as of December 2025, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/rebuyengine.com",
+    "pass": 3
+   },
+   {
+    "quote": "Rebuy Engine - 2026 Company Profile, Team, Funding ... - Tracxn — Feb 12, 2026 · Rebuy Engine is a series A company based in Minneapolis (United States), founded in 2019 by James Van Erck and John Erck. It operates as a Platform offering data-driven personalization and merchandising solutions for Shopify sellers.",
+    "url": "https://tracxn.com/d/companies/rebuyengine/__6-XKXPXnU_dOfdjrMS9a2dmH2LWECexc3rqZQxzd9Mg",
+    "pass": 3
+   },
+   {
+    "quote": "Rebuy Engine (E-Commerce, CRM and Sales) — Funding, Investors ... — Rebuy Engine, founded in 2017, is a promising player in the E-Commerce and CRM and Sales industries. Based in the United States, the company offers a breakthrough solution focused on enhancing online shopping experiences with its world-class personalization engine.",
+    "url": "https://bouncewatch.com/company/rebuy-engine",
+    "pass": 3
+   },
+   {
+    "quote": "Rebuy Engine: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · As the personalization engine fueling data-driven Shopify growth, Rebuy positions merchants to thrive in an AI-accelerated retail future, turning frustrated store owners into revenue machines.",
+    "url": "https://startupintros.com/orgs/rebuy-engine",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Rebuy Engine (@RebuyEngine) / Posts / X Jul 6, 2020 · What if customers could build exactly what they want? 🧩 Julia from @RebuyEngine breaks down how bundle builder lets shoppers choose quantities and variants based on real usage habits, then drives that experience through email and SMS.",
+    "url": "https://x.com/rebuyengine",
+    "pass": 3
+   },
+   {
+    "quote": "Around the Sound is back for its 6th year! Come join us ... RebuyEngine (Rebuy Engine). 1 likes 0 replies. Around the Sound is back for its 6th year! Come join us alongside our friends at SeaMonster Studios for an afternoon of learning and networking with other ecommerce experts from Seattle and around the world. No fluff, no sales pitches, just ecommerce professionals sharing https://t.co/RNhR7De",
+    "url": "https://x.com/RebuyEngine/status/2095546397147693406",
+    "pass": 3
+   },
+   {
+    "quote": "Calling all Shopify agencies the Rebuy Agency Partner ... Jun 3, 2026 · Rebuy Engine (@RebuyEngine). 51 views. Calling all Shopify agencies the Rebuy Agency Partner Roundtable is back! Join Rich Matukaitis for an open, interactive session covering what's new in the partner program, launch best practices, and the difference between Referral and Managed Partnerships. Bring your questions. Share what",
+    "url": "https://x.com/RebuyEngine/status/2061970630170276091",
+    "pass": 3
+   },
+   {
+    "quote": "Tabs are here! ️ Tabs for Merchandising Widgets lets your ... RebuyEngine (Rebuy Engine). 1 likes 0 replies. Tabs are here! 🗂️ Tabs for Merchandising Widgets lets your shoppers flip between curated product sets (up to ten) without scrolling past a wall of carousels.",
+    "url": "https://x.com/RebuyEngine/status/2105352735268720697",
+    "pass": 3
+   },
+   {
+    "quote": "Last call to submit your brand's site for a chance to win a ... RebuyEngine (Rebuy Engine). 1 likes 1 replies. Last call to submit your brand's site for a chance to win a Nintendo Switch 2 🎮 We've teamed up with @barrelny for something a little different ahead of this BFCM: Barrel's Live Site Audit, a live, unscripted audit of a brand's website led by Barrel's Director of Strategy Val https://t.co",
+    "url": "https://x.com/RebuyEngine/status/2101029844796461527",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "John Erck - Rebuy Engine | LinkedInRebuy Upgrades Post-Purchase Flow with New Features - LinkedInLihuen Z. - Rebuy Engine | LinkedInAt Rebuy, we’re dedicated to driving growth for our merchants ...rebuy - LinkedInWant to learn how brands are seeing $10,000s in revenue ... Rebuy is an omni-channel… · Experience: Rebuy Engine · Location: Minneapolis · 500+ connections on LinkedIn. View John Erck’s p",
+    "url": "https://www.linkedin.com/in/johnerck",
+    "pass": 3
+   },
+   {
+    "quote": "Lihuen Z. - Rebuy Engine | LinkedInAt Rebuy, we’re dedicated to driving growth for our merchants ...rebuy - LinkedInWant to learn how brands are seeing $10,000s in revenue ... Experience: Rebuy Engine · Education: University of Utah · Location: Salt Lake City · 500+ connections on LinkedIn. View Lihuen Z.’s profile on LinkedIn, a professional community of 1 billion ... At Rebuy, we’re dedicated to",
+    "url": "https://www.linkedin.com/in/lihuen",
+    "pass": 3
+   },
+   {
+    "quote": "Rebuy Engine - LinkedIn Rebuy Engine Software Development Create shopping experiences that drive more revenue About us",
+    "url": "https://www.linkedin.com/company/rebuyengine",
+    "pass": 3
+   },
+   {
+    "quote": "John Erck - Rebuy Engine | LinkedInRebuy Engine: Funding, Team & Investors | Startup IntrosRebuy Engine - LinkedInJohn Erck - Co-Founder and CEO @ Rebuy Engine - CrunchbaseRebuy: Founder, Leadership & Team Rebuy is an omni-channel… · Experience: Rebuy Engine · Location: Minneapolis · 500+ connections on LinkedIn. View John Erck’s profile on LinkedIn, a professional community of 1 billion... Jul 13",
+    "url": "https://www.linkedin.com/in/johnerck",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.rebuyengine.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rebuyengine.com/partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rebuyengine.com/partners/create",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rebuyengine.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rebuyengine.com/industries/beauty-cosmetics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rebuyengine.com/industries/fashion-apparel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rebuyengine.com/industries/health-wellness",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rebuyengine.com/industries/food-and-beverage",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rebuyengine.com/case-studies/maryruths",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rebuyengine.com/case-studies/magic-spoon",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rebuyengine.com/case-studies/dime",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rebuyengine.com/case-studies/olly",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rebuyengine.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rebuyengine.com/case-studies/momofuku",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rebuyengine.com/blog/bfcm-2025-ka-ching-giveaway",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rebuyengine.com/product/smart-cart",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rebuyengine.com/case-studies/lashify",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rebuyengine.com/case-studies/manssion",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rebuyengine.com/case-studies/cabau-lifestyle",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rebuyengine.com/aboutus",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.rebuyengine.com/hubfs/www/logos_others/Agency-eHouseStudio-Grey.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.rebuyengine.com/hs-fs/hubfs/Certified%20Agency%20Partner%20Logos/Blend.png?width=100&height=25&name=Blend.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.rebuyengine.com/hubfs/Certified%20Agency%20Partner%20Logos/Quickfire.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.rebuyengine.com/partners",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.rebuyengine.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kikushiru.net/2026/04/30/rebuy-personalization-engine%E5%B0%8E%E5%85%A5%E5%89%8D%E3%81%AB%E5%BF%85%E8%AA%AD%EF%BC%81ai%E3%82%A2%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88%E3%81%A7%E5%AE%9F%E7%8F%BE%E3%81%99%E3%82%8B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ai.appmatch.jp/query-2333/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rebuyengine.com/shopify",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E7%A7%A6%E8%8B%B1%E4%B9%8B",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.redhat.com/ja/explore/information/corporate-profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/rebuyengine/__6-XKXPXnU_dOfdjrMS9a2dmH2LWECexc3rqZQxzd9Mg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.instagram.com/rebuyengine/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://help.rebuyengine.com/en/collections/8140614-getting-started",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://store.rebuyengine.com/collections/apparel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rebuyengine.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/rebuy-engine",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.rebuyengine.com/case-studies/all",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/rebuy-engine",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.featuredcustomers.com/vendor/rebuy-engine/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://upcloud.com/partner-program/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://prospeo.io/c/rebuy-engine-revenue",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/rebuyengine.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/rebuyengine/__6-XKXPXnU_dOfdjrMS9a2dmH2LWECexc3rqZQxzd9Mg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://bouncewatch.com/company/rebuy-engine",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/rebuyengine",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/RebuyEngine/status/2095546397147693406",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/RebuyEngine/status/2061970630170276091",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/RebuyEngine/status/2105352735268720697",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/johnerck",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/lihuen",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/rebuyengine",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/johnerck",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/rebuyengine",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/RebuyEngine/status/2101029844796461527",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Rebuyengine 日本 導入",
+   "results": [
+    "https://www.rebuyengine.com/",
+    "https://kikushiru.net/2026/04/30/rebuy-personalization-engine導入前に必読！aiアシスタントで実現する/",
+    "https://ai.appmatch.jp/query-2333/",
+    "https://www.rebuyengine.com/shopify",
+    "https://jp.linkedin.com/company/rebuyengine",
+    "https://help.rebuyengine.com/",
+    "https://thebridge.jp/2026/09/aiona-raises-140m-yen-for-ai-driven-design"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rebuyengine 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/秦英之",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.redhat.com/ja/explore/information/corporate-profile",
+    "https://tracxn.com/d/companies/rebuyengine/__6-XKXPXnU_dOfdjrMS9a2dmH2LWECexc3rqZQxzd9Mg",
+    "https://arbyjapan.com/",
+    "https://www.jll.com/ja-jp/about-jll/japan-information",
+    "https://www.analog.com/jp/who-we-are/corporate-information.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rebuyengine Japan",
+   "results": [
+    "https://www.instagram.com/rebuyengine/",
+    "https://help.rebuyengine.com/en/collections/8140614-getting-started",
+    "https://store.rebuyengine.com/collections/apparel",
+    "https://www.rebuyengine.com/",
+    "https://jp.linkedin.com/company/rebuyengine",
+    "https://www.rebuyengine.com/shopify",
+    "https://help.rebuyengine.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rebuyengine manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/rebuy-engine",
+    "https://www.rebuyengine.com/case-studies/all",
+    "https://www.casestudies.com/customer/rebuy-engine",
+    "https://www.featuredcustomers.com/vendor/rebuy-engine/case-studies",
+    "https://www.vincestinson.com/case-studies/rebuy.html",
+    "https://www.linkedin.com/posts/orla-kiely_this-case-study-sums-it-up-weve-been-really-activity-7453083543208947712-b_9s",
+    "https://www.rebuyengine.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rebuyengine white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://upcloud.com/partner-program/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.ninjaone.com/partner-program/",
+    "https://www.seoreseller.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rebuyengine founded funding employees revenue",
+   "results": [
+    "https://prospeo.io/c/rebuy-engine-revenue",
+    "https://getlatka.com/companies/rebuyengine.com",
+    "https://tracxn.com/d/companies/rebuyengine/__6-XKXPXnU_dOfdjrMS9a2dmH2LWECexc3rqZQxzd9Mg",
+    "https://bouncewatch.com/company/rebuy-engine",
+    "https://startupintros.com/orgs/rebuy-engine",
+    "https://pitchbook.com/profiles/company/463063-24",
+    "https://compworth.com/company/rebuy-engine"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Rebuyengine",
+   "results": [
+    "https://note.com/sirokumaaa/n/nff9f5220ce0c?hl=en",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/",
+    "https://note.com/dashboard",
+    "https://note.com/hiroki_kurimoto/n/n2d4008683d13",
+    "https://note.com/sala_mimura/n/n47e99785e631",
+    "https://note.com/tuneber/n/n8fe56da908d5"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Rebuyengine",
+   "results": [
+    "https://x.com/rebuyengine",
+    "https://x.com/RebuyEngine/status/2095546397147693406",
+    "https://x.com/RebuyEngine/status/2061970630170276091",
+    "https://x.com/RebuyEngine/status/2105352735268720697",
+    "https://x.com/RebuyEngine/status/2067619387255763413",
+    "https://x.com/RebuyEngine/status/2110762826239267219",
+    "https://x.com/RebuyEngine/status/2074494188050165900"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Rebuyengine",
+   "results": [
+    "https://www.linkedin.com/in/johnerck",
+    "https://www.linkedin.com/in/lihuen",
+    "https://www.linkedin.com/company/rebuy-recommerce-gmbh",
+    "https://www.linkedin.com/company/rebuyengine",
+    "https://www.linkedin.com/posts/rebuyengine_your-post-purchase-flow-just-got-a-serious-activity-7361144076559126528-nkVI",
+    "https://www.linkedin.com/posts/rebuyengine_at-rebuy-were-dedicated-to-driving-growth-activity-7226232989616128000-rAtU",
+    "https://www.linkedin.com/posts/rebuyengine_want-to-learn-how-brands-are-seeing-10000s-activity-7377047052930887680-RvpI"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Rebuyengine",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Rebuyengine note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.linkedin.com/in/johnerck",
+    "https://wellfound.com/company/rebuyengine/people",
+    "https://www.rebuyengine.com/",
+    "https://startupintros.com/orgs/rebuy-engine",
+    "https://jp.linkedin.com/company/rebuyengine",
+    "https://www.crunchbase.com/person/john-erck"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rebuyengine X 投稿",
+   "results": [
+    "https://x.com/rebuyengine",
+    "https://www.instagram.com/rebuyengine/",
+    "https://x.com/RebuyEngine/status/2101029844796461527",
+    "https://www.rebuyengine.com/",
+    "https://help.rebuyengine.com/",
+    "https://x.com/binance/status/2117626126214504729",
+    "https://rebuyengine.com/admin/login/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部34頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部34頁・検索12回）"
+ }
+}

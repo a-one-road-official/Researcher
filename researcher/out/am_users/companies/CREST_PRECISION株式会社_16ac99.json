@@ -1,0 +1,862 @@
+{
+ "name": "CREST PRECISION株式会社",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T10:54:29.054836+00:00",
+ "official_url": "https://www.crest-grp.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社 所在地",
+    "value": "〒394-0004　長野県岡谷市神明町2丁目3-21",
+    "url": "https://www.crest-grp.com/",
+    "pass": 1
+   },
+   {
+    "label": "岡谷工場 所在地",
+    "value": "〒394 -0000　長野県岡谷市西山1723-41",
+    "url": "https://www.crest-grp.com/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "精密板金・各種関連部品加工組立",
+    "url": "https://www.crest-grp.com/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役社長（CEO）",
+    "value": "西山　泰登",
+    "url": "https://www.crest-grp.com/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "50名",
+    "url": "https://mono.ipros.com/company/detail/2008745/",
+    "pass": 3
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "■コンチネンタル・オートモーティブ株式会社\n■パナソニック株式会社\n■NECグループ\n■京セラグループ\n■日本電産グループ\n■日立グループ\n■シチズングループ\n■新光電気工業株式会社 (順不同・敬称略) ※医療機器、半導体、OA機器、自動車、光学機器などの業界を中心に、東証一部上場の大手企業様を含む、多くの企業様に製品を納品させて頂いています。",
+    "url": "https://mono.ipros.com/company/detail/2008745/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "精密板金加工製品は、鉄やステンレス、アルミなどの金属・非鉄金属の板から製品を立体的に作り上げます",
+    "url": "https://www.crest-grp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、金型を起こすには金型の製作期間に加え高額なイニシャルコストがかかるため、小ロットの製品や試作品などにプレス加工を導入することは現実的ではありませんでした",
+    "url": "https://www.crest-grp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "設計意図を満たす高精度な加工を行うためには、それぞれの工程において最終製品をイメージした、効率的で正確な加工が求められます",
+    "url": "https://www.crest-grp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "このように基本となる精密板金加工の技術に自信があるから、厳しい要求事項や精度に対しても、高品質な製品を短納期でご提供できるのです",
+    "url": "https://www.crest-grp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "CREST PRECISIONは、今までさまざまな業種、分野、加工種類の精密板金製品に対応してきました",
+    "url": "https://www.crest-grp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "精密板金加工は、ダイレスフォーミングを応用した加工製品を筆頭に、溶接加工、ブランク（抜き）加工、ベンディング（曲げ）加工、タップ・リーマー加工、各種表面処理や組み立て（超微細マイクロパーツ・アッセンブリにも対応）など、多様なご要望、複雑な形状や加工の難しい材質の加工にも対応可能です",
+    "url": "https://www.crest-grp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "環境理念に従い、当社が提供する製品及びその事業活動において、環境保全に適合した生産に努め、環境負荷の低減活動に全員で取り組みます",
+    "url": "https://www.crest-grp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "CREST PRECISIONは製品を通じて、環境保全活動を行っています",
+    "url": "https://www.crest-grp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "アーティクルマネジメント推進協議会（通称 JAMP : Joint Article Management Promotion-consortium）への参加により、人と地球にやさしい製品の供給を行っております",
+    "url": "https://www.crest-grp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "CREST PRECISIONは諏訪湖を眼下に、遠く富士山を望む絶景のロケーションに位置し、東洋のスイスと呼ばれる自然豊かな長野県岡谷市から、グローバル品質の精密板金製品を世界へお届けします",
+    "url": "https://www.crest-grp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "製品加工事例 | CREST PRECISION株式会社",
+    "url": "https://www.crest-grp.com/products/",
+    "pass": 1
+   },
+   {
+    "quote": "モーター ブラケット | 製品加工事例 | CREST PRECISION株式会社",
+    "url": "https://www.crest-grp.com/products/290/",
+    "pass": 1
+   },
+   {
+    "quote": "またその際、バーリング高さを、本製品の板圧と同等の高さまでに抑えております",
+    "url": "https://www.crest-grp.com/products/290/",
+    "pass": 1
+   },
+   {
+    "quote": "本製品の場合、通常３枚の板材を溶接でつなぎ合わせて製作するところを、１枚の板の曲げによって製作することで、コストダウンを実現しました",
+    "url": "https://www.crest-grp.com/products/290/",
+    "pass": 1
+   },
+   {
+    "quote": "ホッパー（□＋〇型） | 製品加工事例 | CREST PRECISION株式会社",
+    "url": "https://www.crest-grp.com/products/574/",
+    "pass": 1
+   },
+   {
+    "quote": "複数の部品から構成されており、複雑な形状で、内部にも部品がついている上、内面磨きが要求されている製品です",
+    "url": "https://www.crest-grp.com/products/574/",
+    "pass": 1
+   },
+   {
+    "quote": "シュート | 製品加工事例 | CREST PRECISION株式会社",
+    "url": "https://www.crest-grp.com/products/572/",
+    "pass": 1
+   },
+   {
+    "quote": "このシュートと呼ばれる円錐状の精密板金製品は、板厚1.5mmのSUS304を用いて、TIG溶接で製作したものです",
+    "url": "https://www.crest-grp.com/products/572/",
+    "pass": 1
+   },
+   {
+    "quote": "基板受け | 製品加工事例 | CREST PRECISION株式会社",
+    "url": "https://www.crest-grp.com/products/281/",
+    "pass": 1
+   },
+   {
+    "quote": "本製品は金型を必要としないダイレスフォーミングで加工しております",
+    "url": "https://www.crest-grp.com/products/281/",
+    "pass": 1
+   },
+   {
+    "quote": "内視鏡光源交換部分 部品 | 製品加工事例 | CREST PRECISION株式会社",
+    "url": "https://www.crest-grp.com/products/286/",
+    "pass": 1
+   },
+   {
+    "quote": "こちらの精密板金製品は、医療機器分野における内視鏡交換部分の部品として用いられております",
+    "url": "https://www.crest-grp.com/products/286/",
+    "pass": 1
+   },
+   {
+    "quote": "本製品の基板上の取り付けられた部品は、基板上を自重によって可動できるよう、加工いたしました",
+    "url": "https://www.crest-grp.com/products/286/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器ケース | 製品加工事例 | CREST PRECISION株式会社",
+    "url": "https://www.crest-grp.com/products/294/",
+    "pass": 1
+   },
+   {
+    "quote": "本製品のナットは圧入によって接着されております",
+    "url": "https://www.crest-grp.com/products/294/",
+    "pass": 1
+   },
+   {
+    "quote": "また、仕上げ塗装の部分で、本製品は塗装１級（吹き付け塗装）の指定を、塗装屋と協力することによって、完成度が２級レベルの電着塗装を１級並の完成度で加工いたします",
+    "url": "https://www.crest-grp.com/products/294/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器カバー | 製品加工事例 | CREST PRECISION株式会社",
+    "url": "https://www.crest-grp.com/products/68/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、医療機器業界へ向けた金属加工・製品も製造しております",
+    "url": "https://www.crest-grp.com/products/68/",
+    "pass": 1
+   },
+   {
+    "quote": "搬送紙ガイド | 製品加工事例 | CREST PRECISION株式会社",
+    "url": "https://www.crest-grp.com/products/298/",
+    "pass": 1
+   },
+   {
+    "quote": "ステンレスカバー | 製品加工事例 | CREST PRECISION株式会社",
+    "url": "https://www.crest-grp.com/products/302/",
+    "pass": 1
+   },
+   {
+    "quote": "人工衛星配電用BOX | 製品加工事例 | CREST PRECISION株式会社",
+    "url": "https://www.crest-grp.com/products/306/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス(7)",
+    "url": "https://mono.ipros.com/company/detail/2008745/",
+    "pass": 3
+   },
+   {
+    "quote": "◇新規試作製作：月3,800件！高い精密板金加工技術で試作・量産・長尺物など様々な精密板金製品に対応◇",
+    "url": "https://mono.ipros.com/company/detail/2008745/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社では、今までさまざまな種類の精密板金加工の製品に対応してきた実績があります",
+    "url": "https://mono.ipros.com/company/detail/2008745/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (7)",
+    "url": "https://mono.ipros.com/company/detail/2008745/",
+    "pass": 3
+   },
+   {
+    "quote": "※医療機器、半導体、OA機器、自動車、光学機器などの業界を中心に、東証一部上場の大手企業様を含む、多くの企業様に製品を納品させて頂いています",
+    "url": "https://mono.ipros.com/company/detail/2008745/",
+    "pass": 3
+   },
+   {
+    "quote": "1963年の創業以来、医療機器や光学機器、半導体製造装置など、高い品質と精度が求められる分野向けに製品を提供してきた",
+    "url": "https://space-job.jp/company_detail/crest-precision",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、試作品や小ロット製品において、初期コストの削減と短納期化を可能としている",
+    "url": "https://space-job.jp/company_detail/crest-precision",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "精密板金加工は、ダイレスフォーミングを応用した加工製品を筆頭に、溶接加工、ブランク（抜き）加工、ベンディング（曲げ）加工、タップ・リーマー加工、各種表面処理や組み立て（超微細マイクロパーツ・アッセンブリにも対応）など、多様なご要望、複雑な形状や加工の難しい材質の加工にも対応可能です",
+    "url": "https://www.crest-grp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "複雑な形状、加工の難しい材質などにも対応可能です",
+    "url": "https://mono.ipros.com/company/detail/2008745/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "しかし、金型を起こすには金型の製作期間に加え高額なイニシャルコストがかかるため、小ロットの製品や試作品などにプレス加工を導入することは現実的ではありませんでした",
+    "url": "https://www.crest-grp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "◇新規試作製作：月3,800件！高い精密板金加工技術で試作・量産・長尺物など様々な精密板金製品に対応◇",
+    "url": "https://mono.ipros.com/company/detail/2008745/",
+    "pass": 3
+   },
+   {
+    "quote": "CREST PRECISIONは、新規・試作件数：3,800件/月の実績を誇る、試作のエキスパート集団です！！",
+    "url": "https://mono.ipros.com/company/detail/2008745/",
+    "pass": 3
+   },
+   {
+    "quote": "あるお客様で、CREST PRECISIONに試作を依頼する前に、10万で見積を出された試作案件がありました",
+    "url": "https://mono.ipros.com/company/detail/2008745/",
+    "pass": 3
+   },
+   {
+    "quote": "そのため、試作品や小ロット製品において、初期コストの削減と短納期化を可能としている",
+    "url": "https://space-job.jp/company_detail/crest-precision",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "CREST PRECISIONは、金型を使用しない最先端のダイレスフォーミングによる、高品質かつ短納期の精密板金加工を特徴としています",
+    "url": "https://www.crest-grp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "一枚の板を目的とする形状に仕上げるために様々な精密板金加工が行われますが、この加工のうち、丸・四角・長丸など容器状の凹凸を作る「しぼり」（プレス加工）を行う場合には、通常は金型を起こす必要があります",
+    "url": "https://www.crest-grp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、金型を起こすには金型の製作期間に加え高額なイニシャルコストがかかるため、小ロットの製品や試作品などにプレス加工を導入することは現実的ではありませんでした",
+    "url": "https://www.crest-grp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、近年ではプレス加工に頼らず、金型を使用しない新たな成形技術「ダイレスフォーミング」が注目されています",
+    "url": "https://www.crest-grp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "また、より高い精度や安全性の求められる医療分野や人工衛星の部品、半導体製造装置や光学機器、LED検査装置やOA機器など、多岐に渡る業種・分野のご要望にお応えしてきました",
+    "url": "https://www.crest-grp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社は2012年に「医療機器製造業許可」、2018年には「医療機器の品質マネジメントシステムISO13485」を取得し、医療機器の製造が許可されておりますので、医療分野の製造も安心してご相談ください",
+    "url": "https://www.crest-grp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "モーター ブラケット | 製品加工事例 | CREST PRECISION株式会社",
+    "url": "https://www.crest-grp.com/products/290/",
+    "pass": 1
+   },
+   {
+    "quote": "こちらの精密板金部品は、OA機器のモーターやブラケットに用いられます",
+    "url": "https://www.crest-grp.com/products/290/",
+    "pass": 1
+   },
+   {
+    "quote": "こちらの精密板金部品は、OA機器や医療機器で用いられる基盤受けになります",
+    "url": "https://www.crest-grp.com/products/281/",
+    "pass": 1
+   },
+   {
+    "quote": "本製品は金型を必要としないダイレスフォーミングで加工しております",
+    "url": "https://www.crest-grp.com/products/281/",
+    "pass": 1
+   },
+   {
+    "quote": "こちらの精密板金製品は、医療機器分野における内視鏡交換部分の部品として用いられております",
+    "url": "https://www.crest-grp.com/products/286/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器ケース | 製品加工事例 | CREST PRECISION株式会社",
+    "url": "https://www.crest-grp.com/products/294/",
+    "pass": 1
+   },
+   {
+    "quote": "こちらの精密板金部品は、胃カメラ光源部等に用いられる医療機器ケースです",
+    "url": "https://www.crest-grp.com/products/294/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器カバー | 製品加工事例 | CREST PRECISION株式会社",
+    "url": "https://www.crest-grp.com/products/68/",
+    "pass": 1
+   },
+   {
+    "quote": "こちらの精密板金部品は、医療機器の外側に用いられる装置カバーです",
+    "url": "https://www.crest-grp.com/products/68/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、医療機器業界へ向けた金属加工・製品も製造しております",
+    "url": "https://www.crest-grp.com/products/68/",
+    "pass": 1
+   },
+   {
+    "quote": "溶接後の仕上げによって、どこを溶接したかわからないほど美しくビードを取り除くことができ、医療機器や半導体など、高い溶接品質を求められる業界で幅広く採用されています",
+    "url": "https://www.crest-grp.com/products/302/",
+    "pass": 1
+   },
+   {
+    "quote": "そのため、宇宙空間で使用されるという人工衛星では予想外の振動によって曲げ部に負荷がかかる可能性があるため、加工方法においても様々な対策を施しています",
+    "url": "https://www.crest-grp.com/products/306/",
+    "pass": 1
+   },
+   {
+    "quote": "・光学機器、医療機器関連部品を主に扱っております",
+    "url": "https://mono.ipros.com/company/detail/2008745/",
+    "pass": 3
+   },
+   {
+    "quote": "（医療機器製造業許可番号 20BZ200057）",
+    "url": "https://mono.ipros.com/company/detail/2008745/",
+    "pass": 3
+   },
+   {
+    "quote": "■ISO13485：医療機器の品質マネジメントシステム",
+    "url": "https://mono.ipros.com/company/detail/2008745/",
+    "pass": 3
+   },
+   {
+    "quote": "当社のISO13485の登録範囲は「植込み型人工心臓ポンプの付属品の製造」であり、医療機器の国際分類で最も高度な『クラス4』に該当します",
+    "url": "https://mono.ipros.com/company/detail/2008745/",
+    "pass": 3
+   },
+   {
+    "quote": "【金型不要の絞り加工】ダイレスフォーミングでコストダウンを実現！",
+    "url": "https://mono.ipros.com/company/detail/2008745/",
+    "pass": 3
+   },
+   {
+    "quote": "【ISO13485取得】高品質な医療業界向けの精密板金をご紹介！",
+    "url": "https://mono.ipros.com/company/detail/2008745/",
+    "pass": 3
+   },
+   {
+    "quote": "【医療機器部品の精密板金製作事例集】『ISO13485』取得で品質に自信があります！",
+    "url": "https://mono.ipros.com/company/detail/2008745/",
+    "pass": 3
+   },
+   {
+    "quote": "※医療機器、半導体、OA機器、自動車、光学機器などの業界を中心に、東証一部上場の大手企業様を含む、多くの企業様に製品を納品させて頂いています",
+    "url": "https://mono.ipros.com/company/detail/2008745/",
+    "pass": 3
+   },
+   {
+    "quote": "1963年の創業以来、医療機器や光学機器、半導体製造装置など、高い品質と精度が求められる分野向けに製品を提供してきた",
+    "url": "https://space-job.jp/company_detail/crest-precision",
+    "pass": 3
+   },
+   {
+    "quote": "主に精密板金加工事業と宇宙関連事業を展開している",
+    "url": "https://space-job.jp/company_detail/crest-precision",
+    "pass": 3
+   },
+   {
+    "quote": "宇宙関連事業では、",
+    "url": "https://space-job.jp/company_detail/crest-precision",
+    "pass": 3
+   },
+   {
+    "quote": "一般的なしぼり加工では専用金型が必要となるが、同社のダイレスフォーミングは金型を使用せずに立体成形を実現できる",
+    "url": "https://space-job.jp/company_detail/crest-precision",
+    "pass": 3
+   },
+   {
+    "quote": "特に医療機器や人工衛星部品など、高い品質と信頼性が求められる分野で実績を有しており、ISO13485取得など品質管理体制の整備も進めている",
+    "url": "https://space-job.jp/company_detail/crest-precision",
+    "pass": 3
+   },
+   {
+    "quote": "Crest Precisionは、宇宙産業を支える",
+    "url": "https://space-job.jp/company_detail/crest-precision",
+    "pass": 3
+   },
+   {
+    "quote": "人工衛星は打上げ時の振動や衝撃、宇宙空間での極端な温度変化に耐える必要があり、高い加工精度と品質管理能力が求められる",
+    "url": "https://space-job.jp/company_detail/crest-precision",
+    "pass": 3
+   },
+   {
+    "quote": "また近年は自社人工衛星開発にも取り組んでおり、部品サプライヤーから宇宙事業者へと事業領域を拡大しようとしている点が特徴である",
+    "url": "https://space-job.jp/company_detail/crest-precision",
+    "pass": 3
+   },
+   {
+    "quote": "日本のニュースペース市場において、製造技術を起点に宇宙分野へ挑戦する数少ない中小製造業の一社といえる",
+    "url": "https://space-job.jp/company_detail/crest-precision",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "アーティクルマネジメント推進協議会（通称 JAMP : Joint Article Management Promotion-consortium）への参加により、人と地球にやさしい製品の供給を行っております",
+    "url": "https://www.crest-grp.com/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "CREST PRECISION 株式会社 | 精密板金のコストダウンや納期 ... — CREST PRECISION 株式会社 | 精密板金のコストダウンや納期 ... CREST PRECISION https://www.crest-grp.com",
+    "url": "https://www.crest-grp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "CREST PRECISION | 企業情報 | イプロスものづくり — CREST PRECISION | 企業情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/2008745/",
+    "pass": 3
+   },
+   {
+    "quote": "REASON | CREST PRECISION 株式会社 — REASON | CREST PRECISION 株式会社 CREST PRECISION https://www.crest-grp.com > reason",
+    "url": "https://www.crest-grp.com/reason/",
+    "pass": 3
+   },
+   {
+    "quote": "CREST PRECISION 株式 会社 | 精密板金のコストダウンや納期 ... — CREST PRECISION 株式 会社 | 精密板金のコストダウンや納期 ... CREST PRECISION https://www.crest-grp.com",
+    "url": "https://www.crest-grp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "CREST PRECISION 株式会社の 会社概要 ・製品情報 - Metoree — CREST PRECISION 株式会社の 会社概要 ・製品情報 - Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/21067/",
+    "pass": 3
+   },
+   {
+    "quote": "Crest Precision 株式 会社 ｜企業詳細 — Crest Precision 株式 会社 ｜企業詳細 スペジョブ https://space-job.jp > company_detail > crest-precision",
+    "url": "https://space-job.jp/company_detail/crest-precision",
+    "pass": 3
+   },
+   {
+    "quote": "CREST PRECISION | 企業 情報 | イプロスものづくり — CREST PRECISION | 企業 情報 | イプロスものづくり 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/2008745/",
+    "pass": 3
+   },
+   {
+    "quote": "CONTACT | CREST PRECISION 株式会社 — CONTACT | CREST PRECISION 株式会社 CREST PRECISION https://www.crest-grp.com > contact",
+    "url": "https://www.crest-grp.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "CREST PRECISION 株式会社の会社概要・製品情報 - Metoree — CREST PRECISION 株式会社の会社概要・製品情報 - Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/21067/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "メールお問い合せ後、弊社担当より2営業日以内にご連絡させていただきます",
+    "url": "https://www.alumi-welding.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "メールフォーム送信後、ご記入頂いたメールアドレス宛に弊社より内容確認メールが自動送信されます",
+    "url": "https://www.alumi-welding.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "写真や資料などがある場合はメールフォームに添付することが可能ですのでご利用ください",
+    "url": "https://www.alumi-welding.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お客さまからお預かりした個人情報は、当社からのご連絡や業務のご案内やご質問に対する回答として、電子メールや資料のご送付に利用いたします",
+    "url": "https://www.alumi-welding.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "ただし、記録される情報には、ユーザー名やメールアドレスなど、個人を特定するものは一切含まれません",
+    "url": "https://www.alumi-welding.com/contact/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "KISHOR PATIL - DIRECTOR AT CREST PRECISION ... KISHOR PATIL - DIRECTOR AT CREST PRECISION ... LinkedIn India https://in.linkedin.com > kishor-patil-...",
+    "url": "https://in.linkedin.com/in/kishor-patil-954205103",
+    "pass": 3
+   },
+   {
+    "quote": "Steelcrest Precision - LinkedIn Steelcrest Precision - LinkedIn LinkedIn https://www.linkedin.com > company",
+    "url": "https://www.linkedin.com/company/steelcrest-precision",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.crest-grp.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crest-grp.com/%3Cbr%20/%3E%3Cb%3EWarning%3C/b%3E:%20%20Undefined%20variable%20$top_ancher%20in%20%3Cb%3E/home/cresthld/crest-grp.com/public_html/cms/wp-content/themes/crest-grp/assets/include/header.php%3C/b%3E%20on%20line%20%3Cb%3E83%3C/b%3E%3Cbr%20/%3E",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crest-grp.com/products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crest-grp.com/%3Cbr%20/%3E%3Cb%3EWarning%3C/b%3E:%20%20Undefined%20variable%20$top_ancher%20in%20%3Cb%3E/home/cresthld/crest-grp.com/public_html/cms/wp-content/themes/crest-grp/assets/include/footer.php%3C/b%3E%20on%20line%20%3Cb%3E60%3C/b%3E%3Cbr%20/%3E",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crest-grp.com/products/290/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crest-grp.com/products/574/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crest-grp.com/products/572/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crest-grp.com/products/281/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crest-grp.com/products/286/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crest-grp.com/products/294/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crest-grp.com/products/68/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crest-grp.com/products/298/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crest-grp.com/products/302/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crest-grp.com/products/306/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/company/detail/2008745/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.seimitsubankin-costdown.com/propose/4562/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/21067/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://space-job.jp/company_detail/crest-precision",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.alumi-welding.com/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2008745/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://in.linkedin.com/in/kishor-patil-954205103",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/steelcrest-precision",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "CREST PRECISION 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.crest-grp.com/",
+    "https://mono.ipros.com/company/detail/2008745/",
+    "https://www.seimitsubankin-costdown.com/propose/4562/",
+    "https://www.crest-grp.com/reason/",
+    "https://injection-lab.com/technology/64-2.html",
+    "https://mfg-hack.com/plastic/10134/",
+    "https://www.rd-stuff.com/service/precision.html",
+    "https://www.shukatsu-nagano.jp/company_info/31424.html",
+    "https://jp.arrk.com/service/lvp/",
+    "https://www.seimitsubankin-costdown.com/shisaku/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "CREST PRECISION 会社概要 事業内容",
+   "results": [
+    "https://www.crest-grp.com/",
+    "https://metoree.com/companies/21067/",
+    "https://space-job.jp/company_detail/crest-precision",
+    "https://www.seimitsubankin-costdown.com/company/",
+    "https://mono.ipros.com/company/detail/2008745/",
+    "https://www.shukatsu-nagano.jp/company_info/31424.html",
+    "https://www.jobs-go.jp/jobs/detail/12879",
+    "https://www.tsukurumirai.com/list/crest_precision.html",
+    "https://compalyze.co.jp/company/6100001020543",
+    "https://mekulo-factory.jp/c/crest-precision/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "CREST PRECISION お問い合わせ メール",
+   "results": [
+    "https://www.crest-grp.com/contact/",
+    "https://www.alumi-welding.com/contact/",
+    "https://mono.ipros.com/company/detail/2008745/",
+    "https://metoree.com/companies/21067/",
+    "https://www.seimitsubankin-costdown.com/company/",
+    "https://space-job.jp/company_detail/crest-precision",
+    "https://www.shukatsu-nagano.jp/company_info/31424.html",
+    "https://www.jobs-go.jp/jobs/detail/12879",
+    "https://suwa.monozukuri.or.jp/detail/01072/",
+    "https://crest.bz/inquiry/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com CREST PRECISION",
+   "results": [
+    "https://note.com/you_runeterra/n/nd09321264326?hl=en",
+    "https://note.com/masashiyagami/n/n6eb7dfac6545?hl=en",
+    "https://note.com/yukke_note_ss/n/n17fa5bde7d16?hl=en",
+    "https://note.com/you_runeterra/n/n166a097a62ef?hl=en",
+    "https://note.com/kotsugilab/n/n4a8fb2a322aa?hl=en",
+    "https://note.com/aruko55/n/nd0e7891c25b6",
+    "https://note.com/cspfund_blog/n/nedd50d9474a0",
+    "https://note.com/crontis_studio/n/n2a7d36019ab3",
+    "https://note.com/jaka/n/n971e7ca12da9?hl=en",
+    "https://note.com/morkns/n/nfea703ed2029?hl=en"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com CREST PRECISION",
+   "results": [
+    "https://x.com/indiannavy/status/1943275556528914923",
+    "https://x.com/CrestOilAndGas/status/1252953999000690689",
+    "https://x.com/agingdoc1/status/2115759801259237595",
+    "https://x.com/aboutDent/status/2103718163934261675?lang=da",
+    "https://x.com/thesportsontap/status/2119291210766639586",
+    "https://x.com/RTGparts/status/2119838836171616714",
+    "https://x.com/aboutDent/status/2003197580008620441",
+    "https://x.com/SAHeraldNews/status/2118742403507277872",
+    "https://x.com/TararAttaullah/status/2033694140605861960",
+    "https://x.com/c2crest"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com CREST PRECISION",
+   "results": [
+    "https://in.linkedin.com/in/kishor-patil-954205103",
+    "https://www.linkedin.com/company/steelcrest-precision",
+    "https://www.linkedin.com/company/the-crest-groupllc",
+    "https://www.linkedin.com/company/crestgroupofficial",
+    "https://www.linkedin.com/posts/tcg-crest-deemed-to-be-university_talk-by-prof-suman-chakraborty-director-activity-7507117746011131904-wfAm",
+    "https://www.linkedin.com/in/tim-smullen-a6684810",
+    "https://www.linkedin.com/posts/high-crest-architectural-products-inc_acoustic-performance-meets-architectural-activity-7524618770133393408-ql9e",
+    "https://www.linkedin.com/company/crest-steel-corporation",
+    "https://www.linkedin.com/in/lou-dibacco-cpa-77973360",
+    "https://www.linkedin.com/jobs/view/toolmaker-at-steelcrest-precision-4437450244"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:facebook.com CREST PRECISION",
+   "results": [
+    "https://www.facebook.com/CrestInstruments1/videos/-precision-quality-reliabilitydiscover-crest-instruments-your-potential-manufact/1093877350282512/",
+    "https://www.facebook.com/teamcayote/videos/-introducing-the-cayote-crest-x-take-your-driving-performance-to-new-heights-wit/1521391625214422/",
+    "https://www.facebook.com/CPCPOWDERCOATING/videos/at-cpc-its-not-just-powder-coating-its-precision-durability-and-perfection-in-ev/2634524893556574/",
+    "https://www.facebook.com/100057191630232/videos/crest-cnc-custom-casting-subaru-getting-a-just-heads-performance-cnc-seat-job-/1555389268323568/",
+    "https://www.facebook.com/61559271675609/posts/-the-meaning-behind-the-cordova-bolt-crest-for-more-than-50-years-the-cordova-bo/122264761496309055/",
+    "https://www.facebook.com/100063767392311/videos/precision-in-every-thread-handcrafted-with-gold-and-silver-bullion-wire-these-lu/1429842188580076/",
+    "https://www.facebook.com/steelcrestprecision/",
+    "https://www.facebook.com/crestdutchmachinery/",
+    "https://www.facebook.com/teamcayote/posts/-crest-x-evo-user-info-guide-now-availablemore-than-just-speed-its-precision-evo/122221838924170883/",
+    "https://www.facebook.com/Crest-Precision株式会社-107352331790112/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "CREST PRECISION note 社長",
+   "results": [
+    "https://www.crest-grp.com/",
+    "https://www.shukatsu-nagano.jp/company_info/31424.html",
+    "https://mono.ipros.com/company/detail/2008745/",
+    "https://www.instagram.com/reel/DDHCU58Ttl8/",
+    "https://www.openwork.jp/company.php?m_id=a0C10000010Zm7u",
+    "https://career.nagano.jp/interview/sp/00195_000206.html",
+    "https://syukatsu-kaigi.jp/companies/52006/word_mouths",
+    "https://www.seimitsubankin-costdown.com/company/",
+    "https://metoree.com/companies/21067/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "CREST PRECISION X 投稿",
+   "results": [
+    "https://syukatsu-kaigi.jp/companies/52006/word_mouths",
+    "https://www.instagram.com/reel/DDyuWMpTC7X/",
+    "https://www.instagram.com/crestprecision_official/",
+    "https://www.crest-grp.com/technology/",
+    "https://www.youtube.com/watch?v=B70MwTR5aw4",
+    "https://www.instagram.com/reel/C1bUZJeLdSY/",
+    "https://www.crestprecision.com/infrastructure.html",
+    "https://x.com/Crest",
+    "https://steelcrestprecision.com/about",
+    "https://www.crest-grp.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部8頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式14頁／PDF・画像0件／外部8頁・検索9回）"
+ }
+}

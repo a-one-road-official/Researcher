@@ -1,0 +1,1443 @@
+{
+ "name": "Optery",
+ "aliases": [],
+ "context": "旧営業リスト｜Cybersecurity｜未接触",
+ "researched_at": "2026-11-11T11:02:26.554044+00:00",
+ "official_url": "https://www.optery.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "home address, phone and other private info",
+    "url": "https://www.optery.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ultimate plan provides",
+    "url": "https://www.optery.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Protect Your Business",
+    "url": "https://www.optery.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Data brokers can provide stalkers and troublemakers with your home address and the addresses of your family members.",
+    "url": "https://www.optery.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prevent Identity Theft and Fraud",
+    "url": "https://www.optery.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Data brokers provide your personal information to Identity thieves. That information is used to forge documents, guess passwords, answer secret questions, and to gain access to your accounts.",
+    "url": "https://www.optery.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Strengthen Your Digital Privacy Protections",
+    "url": "https://www.optery.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce your digital footprint. Limit the surface area for attack by limiting the amount of information that's available on you. Don't let it fall into the wrong hands.",
+    "url": "https://www.optery.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Best Opt Out Software Product",
+    "url": "https://www.optery.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Optery is the most comprehensive, effective, and transparent personal information removal product on the market. This is why PCMag named Optery \"Editors' Choice\" as the most outstanding product in its category in 2022, 2023, 2024, and 2025, and why Optery was ranked the #1 most effective product in a recent study by Consumer Reports.",
+    "url": "https://www.optery.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Patented and Proprietary Technology",
+    "url": "https://www.optery.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Live Screenshots Prove Our Work",
+    "url": "https://www.optery.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Optery's Exposure Reports and Removals Reports provide live screenshots proving to you where we found and removed your profiles. No other product provides this level of transparency and visibility.",
+    "url": "https://www.optery.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your peace of mind is our top priority. If you're not happy with your purchase, let us know within 30 days, and we'll refund 100% of your money, no questions asked.",
+    "url": "https://www.optery.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We're Laser Focused on Privacy Rights",
+    "url": "https://www.optery.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We're 100% focused on helping people execute their opt out preferences at the widest range of data broker companies possible.",
+    "url": "https://www.optery.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Optery completed its AICPA SOC 2, Type II security certification by Prescient Assurance. The certification demonstrates Optery's commitment to managing user data in accordance with the highest standards of security and compliance.",
+    "url": "https://www.optery.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We need your first name, last name, city, state, and birth year to locate your profile among the millions of others out there.",
+    "url": "https://www.optery.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your personalized Exposure Report will arrive by email within a few hours. Click the profile links in your Dashboard while you wait to see which data brokers are posting your information.",
+    "url": "https://www.optery.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Opt out profiles by yourself or automatically",
+    "url": "https://www.optery.com/",
+    "pass": 1
+   },
+   {
+    "quote": "If you'd like to remove the profiles yourself, navigate to the self-service opt out pages. Don't have the time? Upgrade to a paid plan and we'll submit your removals for you.",
+    "url": "https://www.optery.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Within a few days, you'll start seeing progress updates in your account dashboard. Some data brokers remove profiles immediately. Others take multiple weeks.",
+    "url": "https://www.optery.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The more info you provide, the better our patented search technology will be able to find your profiles and, for paid plan users, continue removing your profiles on an ongoing basis.",
+    "url": "https://www.optery.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Optery is a great service for managing one's personal data exposure. I was concerned that my email, phone #, and home address were easily accessible on hundreds of sites, and Optery made it easy to remove that information from every major database. I feel much more comfortable knowing my privacy is protected on an ongoing basis.",
+    "url": "https://www.optery.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Optery provides complete control over your subscription and billing from the",
+    "url": "https://www.optery.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Scans hundreds of data broker web sites for your customers and processes automated removals enabling you to offer an award-winning privacy solution and protect your customers from phishing and social engineering, identity theft and fraud, online stalking and harassment, doxxing, and personal information showing up in Google search results.",
+    "url": "https://www.optery.com/api/",
+    "pass": 1
+   },
+   {
+    "quote": "Optery holds a United States patent for “Dynamically Creating Custom Hyperlinks for Predefined Search Queries for Multiple Websites.” This patented technology finds 40–50 more exposed profiles per person on average than competing services, enabling API partners to deliver more comprehensive personal data removal to their customers.",
+    "url": "https://www.optery.com/api/",
+    "pass": 1
+   },
+   {
+    "quote": "Data brokers are inconsistent in how long they honor opt outs and some privacy laws permit data brokers to disregard your opt out request after 1 year, so ongoing monitoring and re-submitting removal requests are necessary on an ongoing basis.",
+    "url": "https://www.optery.com/api/",
+    "pass": 1
+   },
+   {
+    "quote": "Retrieve a list of screenshots programmatically for each customer showcasing instances where your customer’s data has been found exposed online by data brokers. The image highlights specific locations in the screenshot where the member’s data was identified.",
+    "url": "https://www.optery.com/api/",
+    "pass": 1
+   },
+   {
+    "quote": "As a personal data removal and privacy technology company, Optery is fully committed to the security of the data processed through our platform and API. Customers and partners entrust us with sensitive personal information, and we take that responsibility very seriously.",
+    "url": "https://www.optery.com/api/",
+    "pass": 1
+   },
+   {
+    "quote": "How is the Optery API Priced?",
+    "url": "https://www.optery.com/api/",
+    "pass": 1
+   },
+   {
+    "quote": "Optery for Business and the Optery for Business API offer extremely flexible pricing options. You can purchase plans on “yearly pre-paid” or “month to month, pay as you go” billing model with no minimum commitments at this time. You can also mix and match plan tiers (e.g. Core, Extended, Ultimate) for basic coverage at a low price point, or maximum coverage at a higher cost.",
+    "url": "https://www.optery.com/api/",
+    "pass": 1
+   },
+   {
+    "quote": "Phone & Email Scan Preferences Tool",
+    "url": "https://www.optery.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Profile Visibility at Hundreds of Sites w/ Patented View Links",
+    "url": "https://www.optery.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Fully automated approach. No human Privacy Agent assigned for QA or handling special circumstances",
+    "url": "https://www.optery.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Opt Out Progress and Exposure Risk Reporting",
+    "url": "https://www.optery.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "“Humans + Machines” approach. Automated removals + assigned human Privacy Agent for handling special circumstances",
+    "url": "https://www.optery.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "The Ultimate plan provides",
+    "url": "https://www.optery.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "maximum visibility and privacy",
+    "url": "https://www.optery.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "protection across our full database of",
+    "url": "https://www.optery.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "). Includes Outdated Content Removal tool submissions for Google, Bing, DuckDuckGo, and Yahoo, plus",
+    "url": "https://www.optery.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "The Ultimate plan offers a “Humans + Machines” approach with",
+    "url": "https://www.optery.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "automated removals + assigned human Privacy Agent",
+    "url": "https://www.optery.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "and receive Priority Email Support.",
+    "url": "https://www.optery.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "people who place a high premium on their privacy.",
+    "url": "https://www.optery.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Ultimate plan customers include Fortune 500 C-level executives, high-ranking government officials, A-list celebrities, journalists, judges, politicians, doctors, attorneys, venture capitalists, entrepreneurs, business owners, actors, professional athletes, and victims of stalking, violence and harassment.",
+    "url": "https://www.optery.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Adstra (American List Counsel)",
+    "url": "https://www.optery.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "PrivateNumberChecker.com",
+    "url": "https://www.optery.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "New Hampshire Arrests",
+    "url": "https://www.optery.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "NewHampshireCourtRecords.us",
+    "url": "https://www.optery.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "AGR Marketing Solutions",
+    "url": "https://www.optery.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Data Direct Marketing",
+    "url": "https://www.optery.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Distribution Processing Center",
+    "url": "https://www.optery.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Homeowner Marketing Services",
+    "url": "https://www.optery.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Key Marketing Advantage",
+    "url": "https://www.optery.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Milestone Marketing Solutions",
+    "url": "https://www.optery.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Paramount Direct Marketing",
+    "url": "https://www.optery.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Business Pricing - Optery",
+    "url": "https://www.optery.com/business-pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Comprehensive Employee PII Removal For Businesses",
+    "url": "https://www.optery.com/business-pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Screenshot-based proof of removal",
+    "url": "https://www.optery.com/business-pricing/",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Does Optery offer an Affiliate Program or Referral Program?",
+    "url": "https://www.optery.com/",
+    "pass": 1
+   },
+   {
+    "quote": "You can expand your service offering without building new technology, and retain clients by delivering recurring, visible value. Align your brand with an award-winning security solution, and accelerate your go-to-market timeline through fast, flexible integration options.",
+    "url": "https://www.optery.com/partnership-program/",
+    "pass": 1
+   },
+   {
+    "quote": "Leverage Optery’s dashboard to deliver personal data removal under your brand through your own team, service operation, or network of VARs. Ideal for high-touch service providers such as MSPs, MSSPs, executive protection teams, and resellers looking to expand their privacy offerings.",
+    "url": "https://www.optery.com/partnership-program/",
+    "pass": 1
+   },
+   {
+    "quote": "Value-Added Resellers (VARs) and channel partners seeking to expand privacy offerings",
+    "url": "https://www.optery.com/partnership-program/",
+    "pass": 1
+   },
+   {
+    "quote": "Become a Channel Partner",
+    "url": "https://www.optery.com/partnership-program/",
+    "pass": 1
+   },
+   {
+    "quote": "Optery Now Offered Through GuidePoint Security in Reseller Partnership Expansion - Optery",
+    "url": "https://www.optery.com/optery-guidepoint-security-reseller-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Optery Now Offered Through GuidePoint Security in Reseller Partnership Expansion",
+    "url": "https://www.optery.com/optery-guidepoint-security-reseller-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "New reseller partnership gives GuidePoint Security customers access to Optery for Business to remove the personal data threat actors use to target employees and executives",
+    "url": "https://www.optery.com/optery-guidepoint-security-reseller-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Optery, the leading provider of enterprise-grade personal data removal software, today announced a new reseller partnership with",
+    "url": "https://www.optery.com/optery-guidepoint-security-reseller-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "Does Optery have an API I can use to whitelabel or embed in my application? | Optery | Help Desk & FAQ",
+    "url": "https://help.optery.com/en/article/does-optery-have-an-api-i-can-use-to-whitelabel-or-embed-in-my-application-fnkngk/",
+    "pass": 3
+   },
+   {
+    "quote": "Does Optery have an API I can use to whitelabel or embed in my application?",
+    "url": "https://help.optery.com/en/article/does-optery-have-an-api-i-can-use-to-whitelabel-or-embed-in-my-application-fnkngk/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Your personalized Exposure Report will arrive by email within a few hours. Click the profile links in your Dashboard while you wait to see which data brokers are posting your information.",
+    "url": "https://www.optery.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Optery only removes from data brokers and people search sites, most of which are listed inside your",
+    "url": "https://www.optery.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ultimate plan customers include Fortune 500 C-level executives, high-ranking government officials, A-list celebrities, journalists, judges, politicians, doctors, attorneys, venture capitalists, entrepreneurs, business owners, actors, professional athletes, and victims of stalking, violence and harassment.",
+    "url": "https://www.optery.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Massachusetts Arrests",
+    "url": "https://www.optery.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "New Hampshire Arrests",
+    "url": "https://www.optery.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "North Carolina Arrests",
+    "url": "https://www.optery.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "South Carolina Arrests",
+    "url": "https://www.optery.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Texas Arrest Warrants Search",
+    "url": "https://www.optery.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "TexasWarrantRoundup.org",
+    "url": "https://www.optery.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Washington DC Arrests",
+    "url": "https://www.optery.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "West Virginia Arrests",
+    "url": "https://www.optery.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "LA County Arrest Records",
+    "url": "https://www.optery.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "your employees’ data?",
+    "url": "https://www.optery.com/business-pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "list following 1,906% three-year revenue growth, ranking No. 2 in the Security category.",
+    "url": "https://www.optery.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Partnering with Optery allows you to drive new revenue by offering a differentiated privacy feature that meets growing client demand for personal data protection.",
+    "url": "https://www.optery.com/partnership-program/",
+    "pass": 1
+   },
+   {
+    "quote": "Deliver exposed PII detection and removal as part of attack surface reduction",
+    "url": "https://www.optery.com/partnership-program/",
+    "pass": 1
+   },
+   {
+    "quote": "Proactively protect executives, long-term employees, and at-risk individuals from cyber and physical threats",
+    "url": "https://www.optery.com/partnership-program/",
+    "pass": 1
+   },
+   {
+    "quote": "your employees’ data?",
+    "url": "https://www.optery.com/partnership-program/",
+    "pass": 1
+   },
+   {
+    "quote": "Healthcare: Analytics CEO Shields His Employees from Spear Phishing Attacks with Optery",
+    "url": "https://www.optery.com/client-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "your employees’ data?",
+    "url": "https://www.optery.com/client-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "Rigorous evaluations and discussions lead to selecting the winners. “With Next Big Things in Tech, our aim is to honor projects based not only on what they’ve already achieved but where they’re poised to go,” says Fast Company global technology editor Harry McCracken.",
+    "url": "https://www.optery.com/optery-wins-fast-company-next-big-things-in-tech/",
+    "pass": 1
+   },
+   {
+    "quote": "The company selected Optery for Business to reduce that exposure across a much broader group of employees.",
+    "url": "https://www.optery.com/client-story-technology-company-expands-employee-personal-data-removal/",
+    "pass": 1
+   },
+   {
+    "quote": "Protecting employees based on risk",
+    "url": "https://www.optery.com/client-story-technology-company-expands-employee-personal-data-removal/",
+    "pass": 1
+   },
+   {
+    "quote": "The company had previously covered approximately 20 executives and spouses through another provider. With Optery, it expanded protection to hundreds of employees across senior leadership, Trust & Safety, Customer Care, Legal, IT, Networking, Cybersecurity, and other functions.",
+    "url": "https://www.optery.com/client-story-technology-company-expands-employee-personal-data-removal/",
+    "pass": 1
+   },
+   {
+    "quote": "“I’ve always considered PII management to be the backbone of a really good protective intelligence team. You remove that information online and it’s harder for a bad actor to target your employees and executives.”",
+    "url": "https://www.optery.com/client-story-technology-company-expands-employee-personal-data-removal/",
+    "pass": 1
+   },
+   {
+    "quote": "In one case, members of the cybersecurity team were being contacted through both their work accounts and personal channels. The security team received more than 100 requests for Optery access. A separate incident led another part of the company to seek protection for a larger group of employees.",
+    "url": "https://www.optery.com/client-story-technology-company-expands-employee-personal-data-removal/",
+    "pass": 1
+   },
+   {
+    "quote": "As more employees requested coverage, the list of protected roles became increasingly broad. The company initially made Optery available within one brand and later expanded access across its other brands.",
+    "url": "https://www.optery.com/client-story-technology-company-expands-employee-personal-data-removal/",
+    "pass": 1
+   },
+   {
+    "quote": "As of October 2026, Optery had removed 53,326 exposed profiles and conducted 2.24 million scans for participating employees. Optery’s reporting estimates that automation of the removal work has saved the equivalent of approximately four years of manual effort.",
+    "url": "https://www.optery.com/client-story-technology-company-expands-employee-personal-data-removal/",
+    "pass": 1
+   },
+   {
+    "quote": "Optery for Business has become part of the company’s protective security response, helping the team reduce personal data exposure for employees before that information can be used to target them.",
+    "url": "https://www.optery.com/client-story-technology-company-expands-employee-personal-data-removal/",
+    "pass": 1
+   },
+   {
+    "quote": "your employees’ data?",
+    "url": "https://www.optery.com/client-story-technology-company-expands-employee-personal-data-removal/",
+    "pass": 1
+   },
+   {
+    "quote": "New reseller partnership gives GuidePoint Security customers access to Optery for Business to remove the personal data threat actors use to target employees and executives",
+    "url": "https://www.optery.com/optery-guidepoint-security-reseller-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "to find and remove personal information about employees and executives from data broker and people-search sites.",
+    "url": "https://www.optery.com/optery-guidepoint-security-reseller-partnership/",
+    "pass": 1
+   },
+   {
+    "quote": "The following data may be used to track you across apps and websites owned by other companies:",
+    "url": "https://apps.apple.com/us/app/optery/id6503983126",
+    "pass": 3
+   },
+   {
+    "quote": "Optery: Revenue, Competitors, Alternatives",
+    "url": "https://growjo.com/company/Optery",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and Competitors",
+    "url": "https://growjo.com/company/Optery",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/Optery",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/Optery",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated revenue per employee is $",
+    "url": "https://growjo.com/company/Optery",
+    "pass": 3
+   },
+   {
+    "quote": "Optery for Business serves enterprises removing personal information from the internet for their employees and executives, and offers an API enabling application developers to embed data broker scanning and removal technology into their applications.",
+    "url": "https://www.ycombinator.com/companies/optery",
+    "pass": 3
+   },
+   {
+    "quote": "As CEO and Founder, Lawrence grew Optery to $20M+ ARR, 1M+ users, and profitability prior to its acquisition by Surfshark. Lawrence also co-founded the remote collaboration company Screenleap and launched the first online facebook at Stanford in 1999. Lawrence is an alumnus of Stanford (BA), Duke (MBA), and Y Combinator (Optery (W22) and Screenleap (W12)).",
+    "url": "https://www.ycombinator.com/companies/optery",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Reduce Phishing, Spam Calls and Email",
+    "url": "https://www.optery.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Data brokers sell your email address and phone number without your knowledge or permission. This results in phishing attempts, unwanted spam calls and email.",
+    "url": "https://www.optery.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your personalized Exposure Report will arrive by email within a few hours. Click the profile links in your Dashboard while you wait to see which data brokers are posting your information.",
+    "url": "https://www.optery.com/",
+    "pass": 1
+   },
+   {
+    "quote": "I've been using Optery for about 2 years now. I have searched for my name everywhere and I can't find it. I'm also getting less spam calls, less spam emails and less physical mail. I know it is working! It takes time but this works!",
+    "url": "https://www.optery.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Optery is a great service for managing one's personal data exposure. I was concerned that my email, phone #, and home address were easily accessible on hundreds of sites, and Optery made it easy to remove that information from every major database. I feel much more comfortable knowing my privacy is protected on an ongoing basis.",
+    "url": "https://www.optery.com/",
+    "pass": 1
+   },
+   {
+    "quote": "page after logging into your account. If you have any trouble updating your billing or subscription on your own, just email us at",
+    "url": "https://www.optery.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Billing errors are rare as we have an advanced system via our payment processor Stripe configured to automatically handle upgrades, downgrades, paused subscriptions, and cancellations. That said, we take the accuracy of your payments and billing very seriously, so if you feel you’ve found an error or have any questions about your billing or payments, please send us an email at",
+    "url": "https://www.optery.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Will Optery completely stop all of my robo calls and email spam?",
+    "url": "https://www.optery.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Absolutely. Just send us an email to support@optery.com from your work email address and include your company name and some info on your use case and company and we’ll schedule a meeting with you right away.",
+    "url": "https://www.optery.com/api/",
+    "pass": 1
+   },
+   {
+    "quote": "Phone & Email Scan Preferences Tool",
+    "url": "https://www.optery.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Standard Email Support",
+    "url": "https://www.optery.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "and receive Priority Email Support.",
+    "url": "https://www.optery.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "I've been using Optery for about 2 years now. I have searched for my name everywhere and I can't find it. I'm also getting less spam calls, less spam emails and less physical mail. I know it is working! It takes time but this works!",
+    "url": "https://www.optery.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Phone & email scan preferences tool",
+    "url": "https://www.optery.com/business-pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "What is the contact email for Optery?",
+    "url": "https://www.optery.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "The contact email for Optery is support@optery.com.",
+    "url": "https://www.optery.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Optery is used to automatically find and remove personal information from the internet. It scans data broker and people-search websites, identifies exposed personal data (like home address, phone number, or email), and submits opt-out requests on the user’s behalf. This helps protect against identity theft, phishing, doxxing, and online harassment.",
+    "url": "https://www.optery.com/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce scam texts and calls, spam emails, and phishing attempts",
+    "url": "https://www.optery.com/partnership-program/",
+    "pass": 1
+   },
+   {
+    "quote": "Privacy Opt Out Support Email",
+    "url": "https://www.optery.com/data-brokers/giant-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Privacy Opt Out Support Email",
+    "url": "https://www.optery.com/data-brokers/media-source-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Privacy Opt Out Support Email",
+    "url": "https://www.optery.com/data-brokers/njpropertyrecords/",
+    "pass": 1
+   },
+   {
+    "quote": "Privacy Opt Out Support Email",
+    "url": "https://www.optery.com/data-brokers/affinity-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Privacy Opt Out Support Email",
+    "url": "https://www.optery.com/data-brokers/agr-marketing-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "info@agrmarketingsolutions.com",
+    "url": "https://www.optery.com/data-brokers/agr-marketing-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Privacy Opt Out Support Email",
+    "url": "https://www.optery.com/data-brokers/digital-media-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "Remove Yourself from Email Industries – Free Opt-Out Guide | Optery",
+    "url": "https://www.optery.com/data-brokers/email-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "https://www.emailindustries.com/",
+    "url": "https://www.optery.com/data-brokers/email-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Privacy Opt Out Support Email",
+    "url": "https://www.optery.com/data-brokers/email-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "privacy@emailindustries.com",
+    "url": "https://www.optery.com/data-brokers/email-industries/",
+    "pass": 1
+   },
+   {
+    "quote": "Privacy Opt Out Support Email",
+    "url": "https://www.optery.com/data-brokers/lists-direct-mail-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "automatically remove customers from these sites, clearing your home address, phone number, email and other personal information from the Internet at scale. The service is used to prevent threats like phishing, social engineering, identity theft, harassment and physical violence.",
+    "url": "https://www.optery.com/optery-wins-fast-company-next-big-things-in-tech/",
+    "pass": 1
+   },
+   {
+    "quote": "Yes - you can learn more about the Optery API at the links below. Contact us and we'd be happy to talk you through pricing and how to use it.",
+    "url": "https://help.optery.com/en/article/does-optery-have-an-api-i-can-use-to-whitelabel-or-embed-in-my-application-fnkngk/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B email lists",
+    "url": "https://growjo.com/company/Optery",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Email Finder",
+    "url": "https://growjo.com/company/Optery",
+    "pass": 3
+   },
+   {
+    "quote": "Optery is automated opt out software, and we serve individuals, families and businesses. With Optery, you can remove yourself from hundreds of data brokers that are posting and selling your home address, phone number, email and other private information on the internet.",
+    "url": "https://www.ycombinator.com/companies/optery",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Ultimate plan customers include Fortune 500 C-level executives, high-ranking government officials, A-list celebrities, journalists, judges, politicians, doctors, attorneys, venture capitalists, entrepreneurs, business owners, actors, professional athletes, and victims of stalking, violence and harassment.",
+    "url": "https://www.optery.com/pricing/",
+    "pass": 1
+   },
+   {
+    "quote": "Energy, Resources & Industrial Services",
+    "url": "https://www.optery.com/client-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "Energy, Resources, & Industrial Services",
+    "url": "https://www.optery.com/client-stories/",
+    "pass": 1
+   },
+   {
+    "quote": "How your personal data is being sold legally online - and used by hackers to steal millions, report warns | Daily Mail Online",
+    "url": "https://www.ycombinator.com/companies/optery",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Optery - Google Play のアプリ — Optery - Google Play のアプリ Google Play https://play.google.com > store > apps > details > id=com....",
+    "url": "https://play.google.com/store/apps/details?id=com.optery.mobile&hl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "Optery : Remove Your Personal Information from Google — Optery : Remove Your Personal Information from Google Optery https://www.optery.com",
+    "url": "https://www.optery.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Optery - App Store — Optery - App Store Apple https://apps.apple.com > app > optery",
+    "url": "https://apps.apple.com/us/app/optery/id6503983126",
+    "pass": 3
+   },
+   {
+    "quote": "Optery - LinkedIn — Optery - LinkedIn LinkedIn https://www.linkedin.com > optery",
+    "url": "https://www.linkedin.com/company/optery",
+    "pass": 3
+   },
+   {
+    "quote": "Optery — Optery Optery https://app.optery.com",
+    "url": "https://app.optery.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Optery : Opt out software that removes your private info from ... — Optery : Opt out software that removes your private info from ... Y Combinator https://www.ycombinator.com > optery",
+    "url": "https://www.ycombinator.com/companies/optery",
+    "pass": 3
+   },
+   {
+    "quote": "Does Optery have an API I can use to whitelabel or embed in ... — Does Optery have an API I can use to whitelabel or embed in ... Optery https://help.optery.com > article > doe...",
+    "url": "https://help.optery.com/en/article/does-optery-have-an-api-i-can-use-to-whitelabel-or-embed-in-my-application-fnkngk/",
+    "pass": 3
+   },
+   {
+    "quote": "Optery Partnership Program — Optery Partnership Program Optery https://www.optery.com > partnership...",
+    "url": "https://www.optery.com/partnership-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Optery Ranked No. 12 Fastest-Growing Private Company in ... — Optery Ranked No. 12 Fastest-Growing Private Company in ... Optery https://www.optery.com > fastest-gro...",
+    "url": "https://www.optery.com/fastest-growing-private-company-in-2026-inc-regionals-pacific/",
+    "pass": 3
+   },
+   {
+    "quote": "Optery : Revenue , Competitors, Alternatives - Growjo — Optery : Revenue , Competitors, Alternatives - Growjo Growjo https://growjo.com > Optery",
+    "url": "https://growjo.com/company/Optery",
+    "pass": 3
+   },
+   {
+    "quote": "Optery - Overview, News & Similar companies | ZoomInfo.com — Optery - Overview, News & Similar companies | ZoomInfo.com ZoomInfo https://www.zoominfo.com > optery",
+    "url": "https://www.zoominfo.com/c/optery/555997758",
+    "pass": 3
+   },
+   {
+    "quote": "Optery Company Overview, Contact Details & Competitors — Optery Company Overview, Contact Details & Competitors LeadIQ https://leadiq.com > optery",
+    "url": "https://leadiq.com/c/optery/60be73493b112d2d989982b4",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Optery - X Optery - X X https://x.com > optery",
+    "url": "https://x.com/optery",
+    "pass": 3
+   },
+   {
+    "quote": "Optery on X Optery on X X https://x.com > @optery",
+    "url": "https://x.com/optery/status/2118770648524747074",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Optery - LinkedIn Optery - LinkedIn LinkedIn https://www.linkedin.com > optery",
+    "url": "https://www.linkedin.com/company/optery",
+    "pass": 3
+   },
+   {
+    "quote": "Optery for Business - LinkedIn Optery for Business - LinkedIn LinkedIn https://www.linkedin.com > products",
+    "url": "https://www.linkedin.com/products/optery-for-business/",
+    "pass": 3
+   },
+   {
+    "quote": "Lawrence Gentilello - CEO & Founder at Optery (YC W22) Lawrence Gentilello - CEO & Founder at Optery (YC W22) LinkedIn https://www.linkedin.com > gentilello",
+    "url": "https://www.linkedin.com/in/gentilello",
+    "pass": 3
+   },
+   {
+    "quote": "Optery for Individuals and Families - LinkedIn Optery for Individuals and Families - LinkedIn LinkedIn https://www.linkedin.com > products",
+    "url": "https://www.linkedin.com/products/optery-for-individuals-and-families/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Optery - Facebook Optery - Facebook Facebook https://www.facebook.com > ... > Other > Brand > Software",
+    "url": "https://www.facebook.com/Optery/",
+    "pass": 3
+   },
+   {
+    "quote": "Optery data removal service with two US patents - Facebook Optery data removal service with two US patents - Facebook Facebook https://www.facebook.com > Optery > posts > the-technol...",
+    "url": "https://www.facebook.com/Optery/posts/the-technology-behind-a-data-removal-service-matters-optery-has-two-us-patents-f/1512613127581925/",
+    "pass": 3
+   },
+   {
+    "quote": "Optery customer review: no longer exposed online - Facebook Optery customer review: no longer exposed online - Facebook Facebook https://www.facebook.com > Optery > posts > your-perso...",
+    "url": "https://www.facebook.com/Optery/posts/your-personal-information-doesnt-have-to-remain-exposed-online-heres-what-kee-sh/1491003846409520/",
+    "pass": 3
+   },
+   {
+    "quote": "Optery Vs Privacy Bee: Which Data Removal Service Is Better? Optery Vs Privacy Bee: Which Data Removal Service Is Better? Facebook https://www.facebook.com > optery-vs-privacy-bee",
+    "url": "https://www.facebook.com/fb-answers/optery-vs-privacy-bee/",
+    "pass": 3
+   },
+   {
+    "quote": "Surfshark Group has just acquired Optery , a leading US ... Surfshark Group has just acquired Optery , a leading US ... Facebook https://www.facebook.com > TesonetHQ > posts > surfsha...",
+    "url": "https://www.facebook.com/TesonetHQ/posts/surfshark-group-has-just-acquired-optery-a-leading-us-based-data-removal-provide/1682366290556164/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.optery.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optery.com/api/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optery.com/pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optery.com/business-pricing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optery.com/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optery.com/reviews/optery-review-by-jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optery.com/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optery.com/partnership-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optery.com/client-stories/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optery.com/data-brokers/giant-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optery.com/data-brokers/media-source-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optery.com/data-brokers/njpropertyrecords/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optery.com/data-brokers/affinity-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optery.com/data-brokers/agr-marketing-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optery.com/data-brokers/digital-media-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optery.com/data-brokers/email-industries/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optery.com/data-brokers/lists-direct-mail-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optery.com/optery-wins-fast-company-next-big-things-in-tech/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optery.com/client-story-technology-company-expands-employee-personal-data-removal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.optery.com/optery-guidepoint-security-reseller-partnership/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.optery.com/wp-content/uploads/2025/09/technology_partners.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.optery.com/wp-content/uploads/2025/09/channel-partners.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.optery.com/wp-content/uploads/2025/09/referral-partners_c.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://media.optery.com/assets/uploads/databroker/813a4ea461b44459ac7d107eb0e4729a.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://play.google.com/store/apps/details?id=com.optery.mobile&hl=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.appier.com/ja/press-media/all",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://beare.tokyo/cybersecurity/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://docs.cyberark.com/sca/latest/ja/default.htm",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.manageengine.jp/pace/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://csrpartners.co.jp/information/trust-delete-zero/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tigereye.ai/partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.netskope.com/jp/partners/partner-list",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://apps.apple.com/us/app/optery/id6503983126",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/optery",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://app.optery.com/login?redirectTo=%2F",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.hpe.com/us/en/customer-case-studies.html",
+    "status": "network_error:ReadTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLZUX3tKhDy_P17JzDc9bIx1zdkjewfLWMCmG426abGxAsXxoqF",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://c3.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratasys.com/en/resources/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://help.optery.com/en/article/does-optery-have-an-api-i-can-use-to-whitelabel-or-embed-in-my-application-fnkngk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intermedia.com/resellers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://growjo.com/company/Optery",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/optery/555997758",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/optery",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/optery",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/optery/status/2118770648524747074",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/optery",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/optery-for-business/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/gentilello",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/products/optery-for-individuals-and-families/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Optery/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Optery/posts/the-technology-behind-a-data-removal-service-matters-optery-has-two-us-patents-f/1512613127581925/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Optery/posts/your-personal-information-doesnt-have-to-remain-exposed-online-heres-what-kee-sh/1491003846409520/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/fb-answers/optery-vs-privacy-bee/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/gentilello",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TesonetHQ/posts/surfshark-group-has-just-acquired-optery-a-leading-us-based-data-removal-provide/1682366290556164/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/optery",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Optery 日本 導入",
+   "results": [
+    "https://play.google.com/store/apps/details?id=com.optery.mobile&hl=ja",
+    "https://www.appier.com/ja/press-media/all",
+    "https://beare.tokyo/cybersecurity/",
+    "https://docs.cyberark.com/sca/latest/ja/default.htm",
+    "https://jp.security.ntt/insights_resources/tech_blog/102hojk/",
+    "https://www.worldoftest.com/ja/node/7036",
+    "https://www.akamai.com/ja/blog",
+    "https://optage.co.jp/business/",
+    "https://www.imorker.com/jp/index.html",
+    "https://www.optery.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Optery 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.manageengine.jp/pace/",
+    "https://csrpartners.co.jp/information/trust-delete-zero/",
+    "https://tigereye.ai/partners/",
+    "https://www.netskope.com/jp/partners/partner-list",
+    "https://onyxcentersource.com/ja/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/",
+    "https://ftsafe.co.jp/contactpartners/",
+    "https://www.variosecure.net/partner",
+    "https://openstandia.jp/partner/",
+    "https://gmo-cybersecurity.com/partner/",
+    "https://www.optery.com/pricing/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Optery Japan",
+   "results": [
+    "https://www.optery.com/",
+    "https://apps.apple.com/us/app/optery/id6503983126",
+    "https://www.linkedin.com/company/optery",
+    "https://app.optery.com/",
+    "https://www.ycombinator.com/companies/optery",
+    "https://www.security.org/data-removal/optery/",
+    "https://www.securityhero.io/optery-review/",
+    "https://www.reddit.com/r/surfshark/comments/1w9orb7/surfshark_welcomes_optery_a_usbased_data_removal/",
+    "https://www.pcworld.com/the-optery-guide-to-personal-data-removal",
+    "https://www.optery.com/about-us/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Optery manufacturing customer case study",
+   "results": [
+    "https://www.hpe.com/us/en/customer-case-studies.html",
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLZUX3tKhDy_P17JzDc9bIx1zdkjewfLWMCmG426abGxAsXxoqF",
+    "https://c3.ai/customers",
+    "https://www.stratasys.com/en/resources/case-studies/",
+    "https://www.eos.info/industries/customer-success-stories",
+    "https://help.optery.com/en/article/how-optery-secures-your-data-a1uw2d/",
+    "https://www.sciencedirect.com/science/article/pii/S2213846325002251",
+    "https://go.perceptyx.com/customer-stories",
+    "https://mactores.com/stories",
+    "https://www.optery.com/client-stories/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Optery white label OR reseller OR partner program",
+   "results": [
+    "https://help.optery.com/en/article/does-optery-have-an-api-i-can-use-to-whitelabel-or-embed-in-my-application-fnkngk/",
+    "https://www.intermedia.com/resellers",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://www.optery.com/partnership-program/",
+    "https://www.linkedin.com/company/optery",
+    "https://www.ycombinator.com/companies/optery",
+    "https://www.security.org/data-removal/optery/",
+    "https://finance.yahoo.com/technology/articles/optery-now-offered-guidepoint-security-130000742.html",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Optery founded funding employees revenue",
+   "results": [
+    "https://www.optery.com/fastest-growing-private-company-in-2026-inc-regionals-pacific/",
+    "https://growjo.com/company/Optery",
+    "https://www.zoominfo.com/c/optery/555997758",
+    "https://www.ycombinator.com/companies/optery",
+    "https://leadiq.com/c/optery/60be73493b112d2d989982b4",
+    "https://pitchbook.com/profiles/company/484090-48",
+    "https://finance.yahoo.com/markets/stocks/articles/optery-ranked-no-12-fastest-141400035.html",
+    "https://www.cbinsights.com/company/optery/financials",
+    "https://www.securityweek.com/data-protection-startup-optery-raises-2-7-million-in-seed-funding/",
+    "https://compworth.com/company/optery"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:note.com Optery",
+   "results": [
+    "https://note.com/humble_bobcat51/n/ndbf7d6419f69",
+    "https://note.com/emoriryo_artist/n/ne56ba544015c",
+    "https://note.com/umibenoheya/n/n5a57ab286714",
+    "https://note.com/covrert1277/n/n96ef8c781196",
+    "https://note.com/odar_con/n/n13ed6cbc1f73",
+    "https://note.com/taka_busia1",
+    "https://note.com/miyu_insta_ai/all",
+    "https://note.com/dashboard",
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/uri_future/n/n2d9be92f68c8"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:x.com Optery",
+   "results": [
+    "https://x.com/optery",
+    "https://x.com/optery/status/2118770648524747074",
+    "https://x.com/surfshark/status/2096900751515693204",
+    "https://x.com/hashtag/OnlinePrivacy",
+    "https://x.com/officer_secret/status/2118860726647276007",
+    "https://x.com/copernicvs/status/2116688345250373718",
+    "https://x.com/CryptoCX1",
+    "https://x.com/surfshark",
+    "https://x.com/lolkat",
+    "https://x.com/hashtag/%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E4%BF%9D%E8%AD%B7"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com Optery",
+   "results": [
+    "https://www.linkedin.com/company/optery",
+    "https://www.linkedin.com/products/optery-for-business/",
+    "https://www.linkedin.com/in/gentilello",
+    "https://www.linkedin.com/products/optery-for-individuals-and-families/",
+    "https://www.linkedin.com/in/paulmander",
+    "https://www.linkedin.com/in/gilesmcvay",
+    "https://www.linkedin.com/in/atlaschen",
+    "https://il.linkedin.com/in/dekelev",
+    "https://www.linkedin.com/in/sara-trammell",
+    "https://www.linkedin.com/posts/techintelpro_surfshark-optery-dataremoval-activity-7503825447349248000-22iV"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:facebook.com Optery",
+   "results": [
+    "https://www.facebook.com/Optery/",
+    "https://www.facebook.com/Optery/posts/the-technology-behind-a-data-removal-service-matters-optery-has-two-us-patents-f/1512613127581925/",
+    "https://www.facebook.com/Optery/posts/your-personal-information-doesnt-have-to-remain-exposed-online-heres-what-kee-sh/1491003846409520/",
+    "https://www.facebook.com/fb-answers/optery-vs-privacy-bee/",
+    "https://www.facebook.com/Optery/posts/optery-partners-with-guidepoint-security-to-offer-enterprise-personal-data-remov/1489066936603211/",
+    "https://www.facebook.com/fb-answers/how-does-optery-work/",
+    "https://www.facebook.com/Optery/posts/you-shouldnt-have-to-wonder-whether-your-data-was-actually-removed-optery-gives/1501357058707532/",
+    "https://www.facebook.com/TesonetHQ/posts/surfshark-group-has-just-acquired-optery-a-leading-us-based-data-removal-provide/1682366290556164/",
+    "https://www.facebook.com/Optery/posts/see-your-exposed-profile-before-removal-see-that-it-is-gone-afterward-only-opter/1468464318663473/",
+    "https://www.facebook.com/Optery/posts/follow-the-step-by-step-instructions-on-how-to-opt-out-and-remove-yourself-from/939217888254788/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Optery note 社長",
+   "results": [
+    "https://www.optery.com/author/optery-4/",
+    "https://www.linkedin.com/in/gentilello",
+    "https://www.facebook.com/TesonetHQ/posts/surfshark-group-has-just-acquired-optery-a-leading-us-based-data-removal-provide/1682366290556164/",
+    "https://finance.yahoo.com/technology/articles/optery-now-offered-guidepoint-security-130000742.html",
+    "https://news.ycombinator.com/item?id=37558193",
+    "https://note.com/romy_o",
+    "https://www.optery.com/interview-optery-ceo-lawrence-gentilello-security-ledger-podcast/",
+    "https://note.com/note_ir/n/n722b1675e9e7",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Optery X 投稿",
+   "results": [
+    "https://x.com/optery",
+    "https://www.optery.com/",
+    "https://www.youtube.com/watch?v=i9iQHwsNQyk&vl=ja",
+    "https://www.pcworld.com/the-optery-guide-to-personal-data-removal",
+    "https://www.404media.co/privacy-service-optery-faces-backlash-after-plan-to-send-openai-user-data/",
+    "https://help.optery.com/en/article/what-type-of-sites-does-optery-not-cover-xkjmdb/",
+    "https://discuss.privacyguides.net/t/question-regarding-information-removal-optery/34120",
+    "https://www.youtube.com/watch?v=WNFpw8rfM3U",
+    "https://www.reddit.com/r/Optery/comments/1ct1yhx/how_does_optery_find_personal_information_from/",
+    "https://app.optery.com/login"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部34頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部34頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部34頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部34頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部34頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部34頁・検索12回）"
+ }
+}

@@ -1,0 +1,1967 @@
+{
+ "name": "Orca",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Cybersecurity｜未接触",
+ "researched_at": "2026-11-11T11:28:11.620672+00:00",
+ "official_url": "https://orca.security",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Know your true cloud exposure and prove to the board your risk is under control",
+    "url": "https://orca.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Catch risky code before it reaches production",
+    "url": "https://orca.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Runtime observability & protection",
+    "url": "https://orca.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Agentless vulnerability management that prioritizes your most critical risks",
+    "url": "https://orca.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Secure cloud-native applications across the SDLC and trace dev risks to production.",
+    "url": "https://orca.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce the risk of data breaches and protect sensitive PII",
+    "url": "https://orca.security/",
+    "pass": 1
+   },
+   {
+    "quote": "In-depth, technical articles on cloud security and recommended best practices.",
+    "url": "https://orca.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Managed Service Provider",
+    "url": "https://orca.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Cloud Service Provider",
+    "url": "https://orca.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the world’s most innovative and security-driven enterprises",
+    "url": "https://orca.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Unify cloud posture, identity permissions, workload security, sensitive data at risk, and runtime threats into one connected view. Know what to fix first, prove your security posture to the board, and act at the scale your business moves.",
+    "url": "https://orca.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Skip the form and connect instantly with an Orca cloud security expert in Slack. Get practical and actionable guidance tailored to your specific environment.",
+    "url": "https://orca.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Orca goes beyond common graph visuals to evaluate and prioritize the riskiest paths to your crown jewels, combining misconfigurations, identity risks, lateral movement and more.",
+    "url": "https://orca.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect your accounts and get complete, prioritized risk in hours—no agents, no friction.",
+    "url": "https://orca.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Three-step account onboarding process",
+    "url": "https://orca.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Cloud & AI risks scored and prioritized",
+    "url": "https://orca.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Achieve a full return on your platform investment by consolidating tools and reducing operational overhead. A representative enterprise realized substantial value through lower license and response costs.",
+    "url": "https://orca.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce budget set-asides for emergency incident response and contractor support. Organizations materially lower their exposure costs by improving their overall risk posture.",
+    "url": "https://orca.security/",
+    "pass": 1
+   },
+   {
+    "quote": "From Fortune 500 enterprises to cloud-native disruptors, leading organizations rely on Orca to secure their digital footprint without slowing down innovation.",
+    "url": "https://orca.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Stay ahead of the curve with the latest market guides, proprietary research, and expert analysis on the evolving state of cloud security.",
+    "url": "https://orca.security/",
+    "pass": 1
+   },
+   {
+    "quote": "In-Depth Research 2026 State of AI Security Report AI Security Findings from 1,200+ Production Organizations Get the Report AI Adoption...",
+    "url": "https://orca.security/",
+    "pass": 1
+   },
+   {
+    "quote": "2026 TAG Enterprise AI Security Handbook",
+    "url": "https://orca.security/",
+    "pass": 1
+   },
+   {
+    "quote": "2025 Gartner® Market Guide for Cloud-Native Application Protection Platforms (CNAPP) Read the report to learn why Gartner is recommending that...",
+    "url": "https://orca.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Gain visibility, achieve compliance, and prioritize risks with the Orca Cloud Security Platform.",
+    "url": "https://orca.security/",
+    "pass": 1
+   },
+   {
+    "quote": "ISO/EC 27701 Privacy",
+    "url": "https://orca.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Distributor Partner Program | Orca Security | Orca Security",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "Know your true cloud exposure and prove to the board your risk is under control",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "Catch risky code before it reaches production",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "Runtime observability & protection",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "Agentless vulnerability management that prioritizes your most critical risks",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "Secure cloud-native applications across the SDLC and trace dev risks to production.",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce the risk of data breaches and protect sensitive PII",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "In-depth, technical articles on cloud security and recommended best practices.",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "Managed Service Provider",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "Cloud Service Provider",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "Recruitment and enablement for your reseller network",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "Training and certification materials your team can deploy across your reseller network.",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "Procurement and terms",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "Stocking and procurement terms built for distributor economics.",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "Support for expanding Orca’s presence in the regions and segments you serve.",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "Carahsoft is “The Trusted Government IT Solutions Provider,” holding contract vehicles like GSA, SEWP, and OneGov that streamline procurement for federal, state, local, and education customers. With roughly 4,000 employees, it’s a dominant channel into the U.S. public sector across Civilian, Defense, and Intelligence Community markets.",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "QBS Software, founded in 1987 and headquartered in London, is a specialist software distributor supporting over 4,000 resellers, MSPs, and system integrators across 40 European countries. Recognized by CRN UK as a Top 25 UK Distributor, QBS also operates the Prianto brand for DACH-region distribution.",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "CipherTech (亚利安科技), founded in 2007 and based in Taipei, is a Taiwan-focused security hardware and software distributor with nearly 20 years in the industry, representing leading global cybersecurity brands including Thales (as Taiwan’s sole authorized HSM service provider), Imperva, Qualys, and Orca Security.",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "projected cloud security market by 2030, a 17.56% CAGR.",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "Training and certification materials to deploy across your network.",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "Secure what your teams build, before it ever reaches production.",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "AI footprint discovery",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "Vulnerability management, multi-cloud posture (CSPM), 200+ compliance frameworks, shift-left IaC scanning, attack path analysis, and full AI-footprint visibility.",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "Correlated, exploitability-based prioritization that separates the risk that matters from the noise that doesn’t.",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "Cloud workload protection, container security, and data security posture management (DSPM).",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "Managed Service Provider (MSP) Partner Program | Orca Security | Orca Security",
+    "url": "https://orca.security/partners/managed-service-provider/",
+    "pass": 1
+   },
+   {
+    "quote": "Know your true cloud exposure and prove to the board your risk is under control",
+    "url": "https://orca.security/partners/managed-service-provider/",
+    "pass": 1
+   },
+   {
+    "quote": "Catch risky code before it reaches production",
+    "url": "https://orca.security/partners/managed-service-provider/",
+    "pass": 1
+   },
+   {
+    "quote": "Runtime observability & protection",
+    "url": "https://orca.security/partners/managed-service-provider/",
+    "pass": 1
+   },
+   {
+    "quote": "Agentless vulnerability management that prioritizes your most critical risks",
+    "url": "https://orca.security/partners/managed-service-provider/",
+    "pass": 1
+   },
+   {
+    "quote": "Secure cloud-native applications across the SDLC and trace dev risks to production.",
+    "url": "https://orca.security/partners/managed-service-provider/",
+    "pass": 1
+   },
+   {
+    "quote": "Reduce the risk of data breaches and protect sensitive PII",
+    "url": "https://orca.security/partners/managed-service-provider/",
+    "pass": 1
+   },
+   {
+    "quote": "In-depth, technical articles on cloud security and recommended best practices.",
+    "url": "https://orca.security/partners/managed-service-provider/",
+    "pass": 1
+   },
+   {
+    "quote": "Managed Service Provider",
+    "url": "https://orca.security/partners/managed-service-provider/",
+    "pass": 1
+   },
+   {
+    "quote": "Cloud Service Provider",
+    "url": "https://orca.security/partners/managed-service-provider/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by the world’s most innovative and security-driven enterprises",
+    "url": "https://orca.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Autodesk & AWS GenAI Security Case Study | Orca Security",
+    "url": "https://orca.security/resources/case-studies/autodesk/",
+    "pass": 1
+   },
+   {
+    "quote": "Each pod among the respective areas has specific characteristics in terms of composition of members, size of pods, and behavioral patterns. In this essay, I would like to introduce the biology of these mysterious orcas in Japan, which is only just beginning to reveal itself through regularly conducted research, and observations from whale watching operators around Hokkaido.",
+    "url": "https://orcazine.com/orcas-of-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "ORCA Case Study: CUPP – CUPP - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/orca/case-study/cupp-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "CUPP - Customer Case Study",
+    "url": "https://www.casestudies.com/company/orca/case-study/cupp-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how CUPP used ORCA",
+    "url": "https://www.casestudies.com/company/orca/case-study/cupp-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/orca/case-study/cupp-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/orca/case-study/cupp-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Orca Security cuts security questionnaire time by 70% with Vendict | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/vendict/case-study/orca-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Orca Security cuts security questionnaire time by 70% with Vendict",
+    "url": "https://www.casestudies.com/company/vendict/case-study/orca-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Orca - Customer Case Study",
+    "url": "https://www.casestudies.com/company/vendict/case-study/orca-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/vendict/case-study/orca-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/vendict/case-study/orca-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Manufacturing – Orca",
+    "url": "https://orcahygiene.com/white-label-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Manufacturing",
+    "url": "https://orcahygiene.com/white-label-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Many of the UK’s leading distributors have chosen to partner with Orca as their white label manufacturer of professional cleaning chemicals.",
+    "url": "https://orcahygiene.com/white-label-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "We are continually investing in factory and process development, and our UK manufacturing facility has capacity to blend and package high volumes of chemicals for a wide range of industry sectors. Whether your focus is the catering trade, health and care, leisure, or education and public services, you can have confidence in our ability to provide an own-label solution that supports your brand.",
+    "url": "https://orcahygiene.com/white-label-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Orca’s product range has been developed for maximum performance, environmental sustainability and consistent high quality. With Orca as your white label manufacturing partner, your brand is in safe hands!",
+    "url": "https://orcahygiene.com/white-label-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Fast delivery lead time from our UK factory",
+    "url": "https://orcahygiene.com/white-label-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Next day delivery from our UK factory! We hold large stocks of our entire core product range, enabling our UK mainland clients to receive goods the next working day after ordering.",
+    "url": "https://orcahygiene.com/white-label-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Orca, Blackhouse Circle, Blackhouse Industrial Estate, Peterhead, AB42 1BN",
+    "url": "https://orcahygiene.com/white-label-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by over 60,000 clients since 2001 with a 100% Satisfaction Guarantee.",
+    "url": "https://www.mycompanyworks.com/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Manufacturing",
+    "url": "https://orcahygiene.com/",
+    "pass": 3
+   },
+   {
+    "quote": "For large volume requirements, we supply our cleaning solutions in all types of bulk formats from 205L drums to full road tanker loads. Our development technicians can work with you to develop bespoke chemical solutions, formulated to tackle your specific cleaning needs.",
+    "url": "https://orcahygiene.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Fast delivery lead time from our UK factory",
+    "url": "https://orcahygiene.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Next day delivery from our UK factory! We hold large stocks of our entire core product range, enabling our UK mainland clients to receive goods the next working day after ordering.",
+    "url": "https://orcahygiene.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Blackhouse Industrial Estate,",
+    "url": "https://orcahygiene.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Reach out to us today for product information, onsite demonstrations, and expert tips and advice for your industrial cleaning challenges!",
+    "url": "https://orcahygiene.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Orca, Blackhouse Circle, Blackhouse Industrial Estate, Peterhead, AB42 1BN",
+    "url": "https://orcahygiene.com/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Bring Orca to the reseller networks and regions you serve.",
+    "url": "https://orca.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Distributor Partner Program | Orca Security | Orca Security",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring Orca to the reseller networks and regions you serve.",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "Extend your reseller network’s reach.",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "Recruitment and enablement for your reseller network",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "Demand for cloud and AI security keeps growing, and Orca gives your resellers one platform with one clear story to sell into it.",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "Training and certification materials your team can deploy across your reseller network.",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "Co-op funds and campaign materials your resellers can put to work.",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "Orca’s global distributor network spans the Americas, EMEA, and APAC — giving resellers local access to the enablement, logistics, and expertise they need to sell cloud security at scale.",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "The Canadian arm of TD Synnex extends the company’s global distribution scale into the local market, giving resellers and MSPs access to the same broad vendor portfolio, logistics infrastructure, and solutions-aggregation model used across TD Synnex’s North American operations.",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "TD Synnex’s Latin America operation brings the company’s global distribution scale to the region’s reseller and MSP community, with local logistics, credit, and enablement support. In 2025 TD Synnex signed a multi-year agreement with AWS covering AI, cloud, and marketplace services across North America, Latin America, and the Caribbean.",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "Connect (Connect LATAM) is a next-generation, cloud-native value-added distributor focused on cybersecurity, SASE, and observability solutions across Latin America. With over 15 years of experience, it supports a network of MSPs and resellers with certified technical teams and localized go-to-market support.",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "QBS Software, founded in 1987 and headquartered in London, is a specialist software distributor supporting over 4,000 resellers, MSPs, and system integrators across 40 European countries. Recognized by CRN UK as a Top 25 UK Distributor, QBS also operates the Prianto brand for DACH-region distribution.",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "Campaign materials and funds your resellers can put to work.",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "One platform your resellers can scale",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring Orca to your reseller network",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "Managed Service Provider (MSP) Partner Program | Orca Security | Orca Security",
+    "url": "https://orca.security/partners/managed-service-provider/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring Orca to the reseller networks and regions you serve.",
+    "url": "https://orca.security/partners/managed-service-provider/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring Orca to the reseller networks and regions you serve.",
+    "url": "https://orca.security/solutions/industries/financial-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring Orca to the reseller networks and regions you serve.",
+    "url": "https://orca.security/solutions/industries/media-entertainment/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring Orca to the reseller networks and regions you serve.",
+    "url": "https://orca.security/solutions/industries/industry-retail/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring Orca to the reseller networks and regions you serve.",
+    "url": "https://orca.security/solutions/industries/multi-cloud-security-and-compliance-for-government/",
+    "pass": 1
+   },
+   {
+    "quote": "“Through collaborating with Orca Security and our reseller partners, we empower agencies with visibility and compliance across complex multi-cloud environments and support the Government’s efforts to procure and deploy the most advanced cybersecurity solutions available.”",
+    "url": "https://orca.security/solutions/industries/multi-cloud-security-and-compliance-for-government/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring Orca to the reseller networks and regions you serve.",
+    "url": "https://orca.security/solutions/industries/industry-healthcare/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring Orca to the reseller networks and regions you serve.",
+    "url": "https://orca.security/solutions/industries/technology-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Cloud Security Technology & Channel Partners | Orca Security",
+    "url": "https://orca.security/partners/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring Orca to the reseller networks and regions you serve.",
+    "url": "https://orca.security/partners/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "Orca’s ecosystem spans global integrators, managed service providers, resellers, and technology alliances. One agentless platform to build a cloud security practice on — and one program behind it.",
+    "url": "https://orca.security/partners/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "Channel & reseller tracks",
+    "url": "https://orca.security/partners/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "Global Systems Integrator (GSI) Partner Program | Orca Security | Orca Security",
+    "url": "https://orca.security/partners/global-systems-integrator/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring Orca to the reseller networks and regions you serve.",
+    "url": "https://orca.security/partners/global-systems-integrator/",
+    "pass": 1
+   },
+   {
+    "quote": "Solution Provider Partner Program | Orca Security",
+    "url": "https://orca.security/partners/solution-provider/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring Orca to the reseller networks and regions you serve.",
+    "url": "https://orca.security/partners/solution-provider/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring Orca to the reseller networks and regions you serve.",
+    "url": "https://orca.security/partners/cloud-service-provider/",
+    "pass": 1
+   },
+   {
+    "quote": "Become a Partner - Orca Security",
+    "url": "https://orca.security/partners/overview/join/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring Orca to the reseller networks and regions you serve.",
+    "url": "https://orca.security/partners/overview/join/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring Orca to the reseller networks and regions you serve.",
+    "url": "https://orca.security/partners/technical-alliance-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "AI AppGen Security Partner Program | Orca Security",
+    "url": "https://orca.security/partners/ai-app-gen-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring Orca to the reseller networks and regions you serve.",
+    "url": "https://orca.security/partners/ai-app-gen-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring Orca to the reseller networks and regions you serve.",
+    "url": "https://orca.security/about/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring Orca to the reseller networks and regions you serve.",
+    "url": "https://orca.security/resources/case-studies/",
+    "pass": 1
+   },
+   {
+    "quote": "Bring Orca to the reseller networks and regions you serve.",
+    "url": "https://orca.security/resources/case-studies/autodesk/",
+    "pass": 1
+   },
+   {
+    "quote": "White Label Manufacturing – Orca",
+    "url": "https://orcahygiene.com/white-label-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Manufacturing",
+    "url": "https://orcahygiene.com/white-label-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Many of the UK’s leading distributors have chosen to partner with Orca as their white label manufacturer of professional cleaning chemicals.",
+    "url": "https://orcahygiene.com/white-label-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "We are continually investing in factory and process development, and our UK manufacturing facility has capacity to blend and package high volumes of chemicals for a wide range of industry sectors. Whether your focus is the catering trade, health and care, leisure, or education and public services, you can have confidence in our ability to provide an own-label solution that supports your brand.",
+    "url": "https://orcahygiene.com/white-label-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Orca’s product range has been developed for maximum performance, environmental sustainability and consistent high quality. With Orca as your white label manufacturing partner, your brand is in safe hands!",
+    "url": "https://orcahygiene.com/white-label-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller Program | MyCompanyWorks",
+    "url": "https://www.mycompanyworks.com/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Become a reseller to earn commissions from sales referrals.",
+    "url": "https://www.mycompanyworks.com/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "If you have clients that start or own businesses, we can make your job both easier and more profitable. The Reseller Program is simple and free to join: you place orders on our website using our secure order form and manage everything with one account in the",
+    "url": "https://www.mycompanyworks.com/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "You don’t need a website or anything special to become a Reseller, you just submit orders for whatever your client needs directly to us and we do all the work – you charge your client whatever you like and they never need to know we exist.",
+    "url": "https://www.mycompanyworks.com/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "We process your orders, “white label” them (remove our logo/name) and send the completed order directly to you (electronically or via mail – your choice). We communicate with you any questions or concerns.",
+    "url": "https://www.mycompanyworks.com/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "What is the Reseller Price?",
+    "url": "https://www.mycompanyworks.com/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "White-labeled: we remove our name/logo on all packages we send to you – just hand to your client!",
+    "url": "https://www.mycompanyworks.com/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "What are the Benefits of Becoming a Reseller?",
+    "url": "https://www.mycompanyworks.com/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Receive “White-labeled” packages from us – our logo and company name is not shown on completed orders.",
+    "url": "https://www.mycompanyworks.com/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Have us deal with the hassle of interacting with the various agencies, departments and government employees.",
+    "url": "https://www.mycompanyworks.com/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "There’s no cost or fees to become a Reseller and signing up is simple:",
+    "url": "https://www.mycompanyworks.com/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "for an account or you can simply place an order when you’re ready. To sign up when placing an order, simply click the “Reseller Option” at checkout and check the box to become a Reseller – that’s it! You now have a Reseller account and we’ll “white label” your orders.",
+    "url": "https://www.mycompanyworks.com/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Still have questions? Need a more advanced solution like an API or a white-label website? Check out our other",
+    "url": "https://www.mycompanyworks.com/reseller",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "From Fortune 500 enterprises to cloud-native disruptors, leading organizations rely on Orca to secure their digital footprint without slowing down innovation.",
+    "url": "https://orca.security/",
+    "pass": 1
+   },
+   {
+    "quote": "Carahsoft is “The Trusted Government IT Solutions Provider,” holding contract vehicles like GSA, SEWP, and OneGov that streamline procurement for federal, state, local, and education customers. With roughly 4,000 employees, it’s a dominant channel into the U.S. public sector across Civilian, Defense, and Intelligence Community markets.",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "Recurring revenue that scales",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "Recurring revenue, no infrastructure to run",
+    "url": "https://orca.security/partners/managed-service-provider/",
+    "pass": 1
+   },
+   {
+    "quote": "SaaS and multi-tenant by design, so there’s no fleet of agents to deploy and no capital expense to carry.",
+    "url": "https://orca.security/partners/managed-service-provider/",
+    "pass": 1
+   },
+   {
+    "quote": "Most cloud security solutions leave blind spots, are narrowly focused, and have no insight into data security.",
+    "url": "https://orca.security/solutions/industries/multi-cloud-security-and-compliance-for-government/",
+    "pass": 1
+   },
+   {
+    "quote": "Meet a vast array of compliance and data privacy mandates such as",
+    "url": "https://orca.security/solutions/industries/technology-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Orca drops into the environments you already run, so security becomes part of delivery instead of a follow-on project.",
+    "url": "https://orca.security/partners/global-systems-integrator/",
+    "pass": 1
+   },
+   {
+    "quote": "Add security revenue to every engagement",
+    "url": "https://orca.security/partners/global-systems-integrator/",
+    "pass": 1
+   },
+   {
+    "quote": "Grow high-margin, recurring revenue selling Orca standalone or as part of a broader security solution, implementation included.",
+    "url": "https://orca.security/partners/solution-provider/",
+    "pass": 1
+   },
+   {
+    "quote": "Competitive deal margins and flexible licensing that grow your recurring revenue base.",
+    "url": "https://orca.security/partners/solution-provider/",
+    "pass": 1
+   },
+   {
+    "quote": "Orca is listed and transactable across the major cloud marketplaces.",
+    "url": "https://orca.security/partners/cloud-service-provider/",
+    "pass": 1
+   },
+   {
+    "quote": "Orca is listed and transactable on every major hyperscaler marketplace.",
+    "url": "https://orca.security/partners/cloud-service-provider/",
+    "pass": 1
+   },
+   {
+    "quote": "“I feel incredibly fortunate to be part of Orca, where innovation thrives in an atmosphere of collaboration and creativity. Every day, I work alongside amazing colleagues who inspire me to push boundaries and think outside the box. It's an exciting environment that encourages growth, and I'm proud to be part of a team that is shaping the future of cloud security.”",
+    "url": "https://orca.security/about/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Have us deal with the hassle of interacting with the various agencies, departments and government employees.",
+    "url": "https://www.mycompanyworks.com/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Order for all your clients and manage their companies and orders all from one account – allows for simple and fast ordering of additional filings like amendments, annual reports, dissolutions, DBA’s, etc. — more revenue opportunities for you!",
+    "url": "https://www.mycompanyworks.com/reseller",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Hitachi Solutions is a core IT company within the Hitachi Group, founded in 1970 and headquartered in Tokyo. It delivers IT services spanning application development, cloud, and digital transformation, backed by the scale and credibility of the wider Hitachi organization across Asia, the U.S., and Europe.",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "Network Value Components (NVC), founded in 1990 and based in Tokyo, positions itself as Japan’s sole distributor for a curated set of foreign network and cybersecurity brands including Orca Security, SecurityScorecard, Silverfort, and Cato Networks. NVC pairs distribution with managed SOC and cloud WAF services.",
+    "url": "https://orca.security/partners/distributor/",
+    "pass": 1
+   },
+   {
+    "quote": "そこで本記事では、日医IT認定サポート事業所であるJRCE（JRCエンジニアリング）が、レセコンのうち日本医師会が開発・提供するレセコンソフト「ORCA（オルカ）」の特長について、わかりやすく解説します",
+    "url": "https://www.jrce.co.jp/medical/column/orca-about/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ORCA（オルカ）とは「日本医師会提供の日医標準レセプトソフト」",
+    "url": "https://www.jrce.co.jp/medical/column/orca-about/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ORCAとは、民間企業ではなく日本医師会が開発・提供する「日医標準レセプトソフト」です",
+    "url": "https://www.jrce.co.jp/medical/column/orca-about/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本医師会が日本の医療のIT化と医療情報の標準化を進めることを目的に立ち上げた「ORCAプロジェクト」の一環で、日本の医療現場のための医事会計ソフトとして開発・発表されました",
+    "url": "https://www.jrce.co.jp/medical/column/orca-about/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本医師会提供の標準レセコン（レセプトコンピュータ）である",
+    "url": "https://www.jrce.co.jp/medical/column/orca-about/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本の医療現場の要望を取り込み、継続的にアップデートされている",
+    "url": "https://www.jrce.co.jp/medical/column/orca-about/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "【日本医師会が提供するレセコン「ORCA」の特長3選】",
+    "url": "https://www.jrce.co.jp/medical/column/orca-about/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "JRCEは、日本医師会ORCA管理機構の認定を受けたサポート事業所であり、医事会計に関する知識と高度なORCA操作スキルを併せ持つ「日医IT認定インストラクター」が複数在籍しています",
+    "url": "https://www.jrce.co.jp/medical/column/orca-about/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本医師会の医療現場IT化の理念に賛同したい",
+    "url": "https://www.jrce.co.jp/medical/column/orca-about/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "JRCEは、日本医師会ORCA管理機構の認定サポート事業所として、ORCAを導入・運用される医療機関様を一貫してサポートいたします",
+    "url": "https://www.jrce.co.jp/medical/column/orca-about/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ORCA（オルカ）とは？特徴・ORCA連携・導入方法・注意点・オンライン資格確認への対応状況 / エムスリーデジカル株式会社",
+    "url": "https://digikar.m3.com/articles/rece-com/article29",
+    "pass": 3
+   },
+   {
+    "quote": "ORCA（オルカ）は、日本医師会が提供している「日医標準レセプトソフト（日レセ）」です",
+    "url": "https://digikar.m3.com/articles/rece-com/article29",
+    "pass": 3
+   },
+   {
+    "quote": "ORCA（オルカ）とは、日本医師会が、会員のために提供している日医標準レセプトソフト（日レセ）です",
+    "url": "https://digikar.m3.com/articles/rece-com/article29",
+    "pass": 3
+   },
+   {
+    "quote": "日本医師会は、医療IT化や医療情報の標準化を進める目的で「ORCA」プロジェクトを立ち上げました",
+    "url": "https://digikar.m3.com/articles/rece-com/article29",
+    "pass": 3
+   },
+   {
+    "quote": "ORCAは、医療現場のIT化を推進する日本医師会が提供しているソフトウェアであるため、高い信頼性があります",
+    "url": "https://digikar.m3.com/articles/rece-com/article29",
+    "pass": 3
+   },
+   {
+    "quote": "詳しい設定方法は、以下、日本医師会ORCA管理機構のサイトを参照ください",
+    "url": "https://digikar.m3.com/articles/rece-com/article29",
+    "pass": 3
+   },
+   {
+    "quote": "日本医師会では、全国の「日医総研日医IT認定サポート事業所」からの購入を推奨しています",
+    "url": "https://digikar.m3.com/articles/rece-com/article29",
+    "pass": 3
+   },
+   {
+    "quote": "日本医師会ORCA管理機構の公表によると、日レセ（ORCA）は約17,000以上の医療機関で利用されており、国内レセコン市場において高いシェアを持つソフトウェアです",
+    "url": "https://digikar.m3.com/articles/rece-com/article29",
+    "pass": 3
+   },
+   {
+    "quote": "日本医師会が開発・提供している信頼性と、オープンソースによるコスト面の優位性が普及を支えています",
+    "url": "https://digikar.m3.com/articles/rece-com/article29",
+    "pass": 3
+   },
+   {
+    "quote": "既存のレセコンの入れ替えや、オンライン資格確認の義務化・電子カルテ情報共有の構築などに伴い、レセコン導入を検討されている方は、弊社エムスリーデジカル株式会社の製品を活用するのも選択肢の1つです",
+    "url": "https://digikar.m3.com/articles/rece-com/article29",
+    "pass": 3
+   },
+   {
+    "quote": "日本医師会が提供する日レセソフト「ORCA」は、常に最新の状態が維持でき、信頼性の高いソフトウェアです",
+    "url": "https://digikar.m3.com/articles/rece-com/article29",
+    "pass": 3
+   },
+   {
+    "quote": "※ご連絡は、エムスリーデジカルの販売代理店であるエムスリーソリューションズ株式会社の担当者より差し上げます",
+    "url": "https://digikar.m3.com/articles/rece-com/article29",
+    "pass": 3
+   },
+   {
+    "quote": "日本医師会ORCA管理機構 | ORCA Project",
+    "url": "https://www.orca.med.or.jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "在宅医療や往診など、診療スタイルの変化、モバイルデバイスの充実など、取り巻く環境の変化に一早く対応するために、日本医師会ORCA管理機構では、クラウドサービスの提供をおこなっています",
+    "url": "https://www.orca.med.or.jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "日医標準レセプト ORCA導入支援｜レセプトコンピュータ｜株式会社アルファシステム",
+    "url": "https://www.alpha-sy.jp/orca/",
+    "pass": 3
+   },
+   {
+    "quote": "ソフトは日本医師会が提供していますので、導入・更新コストの節約が見込めます",
+    "url": "https://www.alpha-sy.jp/orca/",
+    "pass": 3
+   },
+   {
+    "quote": "Mysterious orcas of Japan - ORCAZINE",
+    "url": "https://orcazine.com/orcas-of-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Mysterious orcas of Japan",
+    "url": "https://orcazine.com/orcas-of-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "In May 1997, a pod of orcas (Orcinus orca) was spotted by a whale watching operator in Volcano Bay, southern Hokkaido. This sighting soon became a sensation and was widely reported in news media. In this article I want to introduce you to the orcas in Japanese waters,",
+    "url": "https://orcazine.com/orcas-of-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "By the 2000’s the town of Rausu on the Shiretoko Peninsula had begun its transformation into a notable whale watching spot with very high encounter rates, with a focus on orcas throughout May to June. People began seeing the species in both pelagic and coastal waters more frequently than before. This success continues today. Could this be a sign of the gradual recovery of orcas in Japanese waters?",
+    "url": "https://orcazine.com/orcas-of-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Situations of studies and observations of orcas in Japan",
+    "url": "https://orcazine.com/orcas-of-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "The areas discussed have a rich biodiversity which is supported by the highly productive Kurile Current (Oyashio Current) and nearby upwelling and fertilization of fundamental productivity by drift ices from Russia’s Amur river in winter. Consequently, these areas are ideal habitats for marine megafaunas, and a hotspot for orcas in Japan.",
+    "url": "https://orcazine.com/orcas-of-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Each pod among the respective areas has specific characteristics in terms of composition of members, size of pods, and behavioral patterns. In this essay, I would like to introduce the biology of these mysterious orcas in Japan, which is only just beginning to reveal itself through regularly conducted research, and observations from whale watching operators around Hokkaido.",
+    "url": "https://orcazine.com/orcas-of-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "area of territorial disputes between Japan and Russia)",
+    "url": "https://orcazine.com/orcas-of-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Future of orcas of Japan",
+    "url": "https://orcazine.com/orcas-of-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "It would be my honor as a cetologist with over 20 years’ experience studying the orcas of Japan if this essay could shed light on your understanding of the orcas that the world doesn’t know about.",
+    "url": "https://orcazine.com/orcas-of-japan/",
+    "pass": 3
+   },
+   {
+    "quote": ", Sightings of western gray whales around Japan, cetacean diversities in Gulf of Tonkin waters, Bryde’s/ Eden’s whale researches in Gulf of Tonkin, and so on.",
+    "url": "https://orcazine.com/orcas-of-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Born in December 1989. Born and raised in Wigan, England. Have a BA (hons) in English Literature from Cardiff University. Moved to Osaka, Japan in 2016. Studied wild bottlenose dolphins in the U.K as a research intern with Sea Watch Foundation. Currently, teaching English in Osaka and assisting with a dolphin research project at Kindai University.",
+    "url": "https://orcazine.com/orcas-of-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "東京都渋谷区代々木２-7-5 エキサイド南新宿ビル7F",
+    "url": "https://orca-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "What is Orca? A Comprehensive Guide to the Parallel AI Agent Control Center [2026 Latest Edition]｜AI自動化のアイボウ【株式会社AIBOTEC】",
+    "url": "https://note.com/aibotec/n/n4f0f9ff62360?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AI自動化のアイボウ【株式会社AIBOTEC】",
+    "url": "https://note.com/aibotec/n/n4f0f9ff62360?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "・**Not suitable for complex workflows**: If conditional branching or loops are required, other tools are recommended・**Limited Japanese documentation**: You may need to conduct research in English",
+    "url": "https://note.com/aibotec/n/n4f0f9ff62360?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "前回に引き続き、今回も株式会社ORCa代表の山中にインタビューを行いました",
+    "url": "https://note.com/orcainc_hicaru/n/n0e81f285e310",
+    "pass": 3
+   },
+   {
+    "quote": "2021年11月 株式会社ORCaを設立",
+    "url": "https://note.com/orcainc_hicaru/n/n0e81f285e310",
+    "pass": 3
+   },
+   {
+    "quote": "山中：株式会社ORCa代表の山中 英偉人（えいと）です",
+    "url": "https://note.com/orcainc_hicaru/n/n0e81f285e310",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Forward alerts to email,",
+    "url": "https://orca.security/solutions/industries/financial-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Forward alerts to email,",
+    "url": "https://orca.security/solutions/industries/technology-services/",
+    "pass": 1
+   },
+   {
+    "quote": "Co-branded campaigns, email, and landing pages generated in minutes.",
+    "url": "https://orca.security/partners/solution-provider/",
+    "pass": 1
+   },
+   {
+    "quote": "CONTACT US WITH YOUR ENQUIRY",
+    "url": "https://orcahygiene.com/white-label-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Enter your email address for tips, offers & new product releases!",
+    "url": "https://orcahygiene.com/white-label-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": ", email",
+    "url": "https://www.mycompanyworks.com/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Enter your email address for tips, offers & new product releases!",
+    "url": "https://orcahygiene.com/",
+    "pass": 3
+   },
+   {
+    "quote": "CONTACT US WITH YOUR ENQUIRIES",
+    "url": "https://orcahygiene.com/",
+    "pass": 3
+   },
+   {
+    "quote": "CONTACT US WITH YOUR BULK ENQUIRIES",
+    "url": "https://orcahygiene.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us – we’re here to help!",
+    "url": "https://orcahygiene.com/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ORCA（オルカ）とは｜日医IT認定サポート事業所JRCEが解説 ｜JRCE 医... — May 18, 2026 · ORCA（オルカ）とは、どのようなレセコンなのでしょうか。本記事では、日医IT認定サポート事業所であるJRCEが、ORCAとは何かについて解説。導入を検討する上で生じやすい疑問への回答や、JRCEにおけるORCAの導入・運用の支援体制などと併せて紹介します。",
+    "url": "https://www.jrce.co.jp/medical/column/orca-about/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "ORCA（オルカ）とは？特徴・ORCA連携・導入方法・注意点・オンライン... — Dec 27, 2023 · ORCA（オルカ）とは？特徴や導入方法・注意点・オンライン資格確認への対応状況 2023年12月27日 更新日: 2026年10月15日 ORCA（オルカ）は、日本医師会が提供している「日医標準レセプトソフト（日レセ）」です。レセコンの中でもシェア率が高く、約17,000以上の医療機関で利用されています。 信頼 ...",
+    "url": "https://digikar.m3.com/articles/rece-com/article29",
+    "pass": 3
+   },
+   {
+    "quote": "日本医師会ORCA管理機構 | ORCA Project — ORCA プロジェクトとは 在宅医療や往診など、診療スタイルの変化、モバイルデバイスの充実など、取り巻く環境の変化に一早く対応するために、日本医師会ORCA管理機構では、クラウドサービスの提供をおこなっています。",
+    "url": "https://www.orca.med.or.jp/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "日医標準レセプト ORCA導入支援｜レセプトコンピュータ｜株式会社アル... — 日医標準レセプト ORCAは、日本医師会標準のレセプトコンピュータです。株式会社アルファシステムでは、医療機関様向けにORCAの導入支援・運用サポートを行っています。",
+    "url": "https://www.alpha-sy.jp/orca/",
+    "pass": 3
+   },
+   {
+    "quote": "日医標準レセプトソフト[WebORCA クラウド版]：日本医師会ORCA管理機... — 日医標準レセプトソフト商用版パッケージ利用サービス解約申込書 お申込みはサポート事業所経由になります。 お手続きはご依頼のサポート事業所にご相談ください。 ご不明点は日本医師会ORCA管理機構にお問合せください。",
+    "url": "https://www.orcamo.co.jp/products/orca/weborca.html",
+    "pass": 3
+   },
+   {
+    "quote": "Mysterious orcas of Japan - ORCAZINECan you see orcas in Japan? - The Institute for Environmental ...Killer Whale｜鴨川シーワールド-東京・千葉の水族館テーマパークStunning footage capture incredibly rare albino killer whaleORCA｜日常に、特別を。Does Japan have orcas in captivity? - The Institute for ... — Kotoe Sasamori (Facebook) Marine biologist and researcher, and nature photographer since 1996. Born in April, 1963. Born and li",
+    "url": "https://orcazine.com/orcas-of-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "Can you see orcas in Japan? - The Institute for Environmental ... — Feb 22, 2026 · Can You See Orcas in Japan?: Tracking the Killer Whale in Japanese Waters Yes, you can see orcas in Japan, although sightings are relatively infrequent and concentrated in specific regions. These majestic marine predators grace Japanese waters, offering a glimpse into the rich biodiversity of the Northwest Pacific.",
+    "url": "https://iere.org/can-you-see-orcas-in-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "ORCA｜日常に、特別を。 — THE ORCA（オルカ）は、新宿にある“大人のためのアップグレードサロン”。 あなたらしい髪型と生き方をデザインし、洗練された毎日へ導きます。",
+    "url": "https://orca-jp.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Does Japan have orcas in captivity? - The Institute for ... — Nov 23, 2025 · A History of Orcas in Japanese Aquariums Japan’s history with orcas in captivity, though relatively short-lived compared to North America and Europe, is filled with controversy and ethical debate. The Taiji Whale Museum, located in Taiji, Wakayama Prefecture, gained notoriety for its annual dolphin drives and captures, wh",
+    "url": "https://iere.org/does-japan-have-orcas-in-captivity/",
+    "pass": 3
+   },
+   {
+    "quote": "ORCA CO.,LTD. — Technology Your requirement will be real with our unique technology.",
+    "url": "https://www.orcajpn.co.jp/en/",
+    "pass": 3
+   },
+   {
+    "quote": "ORCA Case Study: CUPP – CUPP - Customer Case Study ... — CUPP partnered with ORCA (Graphic Design) to solve key challenges. \"CUPP - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/orca/case-study/cupp-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Orca - Customer Case Study — ORCA (Sporting Goods) partnered with Vendict (Computer Software) to solve key challenges. \"Orca - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/vendict/case-study/orca-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies | Page 1 | Orca Security — Find out how Orca Security helps customers with multi-cloud security across numerous industries by checking out our dedicated case studies page.",
+    "url": "https://orca.security/resources/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Orca AI: Autonomous Technology in Action - Case Studies — Jan 4, 2026 · Explore Orca AI's case studies to learn about real-world applications and the success stories of our customers.",
+    "url": "https://www.orca-ai.io/resource-center/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing ERP Software: Orca | BeyondScale — Orca ERP adds orders, inventory, production and dispatch to the Dovient platform, for manufacturers that need an ERP without a multi-month implementation.",
+    "url": "https://beyondscale.tech/case-studies/orca-erp-lightweight-manufacturing",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Manufacturing – Orca — White Label Manufacturing Many of the UK’s leading distributors have chosen to partner with Orca as their white label manufacturer of professional cleaning chemicals.",
+    "url": "https://orcahygiene.com/white-label-manufacturing/",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller Program - MyCompanyWorksOrcaPartner ProgramAdobe Partner DirectoryMaximize Growth with the Spectrum Channel Partner Program — If you have clients that start or own businesses, we can make your job both easier and more profitable. The Reseller Program is simple and free to join: you place orders on our website using our secure order form and manage everything with one account in the My Acc",
+    "url": "https://www.mycompanyworks.com/reseller",
+    "pass": 3
+   },
+   {
+    "quote": "Orca — Here at Orca, our goal is to be the industry’s most agile, responsive and innovative manufacturer of professional cleaning chemicals. We are continually investing in factory and process development, and our UK manufacturing facility has capacity to blend and package high volumes of chemicals for a wide range of industry sectors. Whether your focus is the catering trade, health and care ...",
+    "url": "https://orcahygiene.com/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "新世代AI IDE『Orca』が最高だったので解説！ Claude CodeやCodexを協... Jun 25, 2026 · Claude Code、Codex、VS Code、ターミナルを行き来していると、作業そのもの以上に「どの画面で何を動かしていたか」を思い出す時間が増えがち。Orca は、複数の AI コーディングエージェントをひとつの作業台に集め、隔離された作業環境で並列に走らせる ADE。ADE は Agent Development Environment の略で ...",
+    "url": "https://note.com/masa_wunder/n/na404a9955291",
+    "pass": 3
+   },
+   {
+    "quote": "AI時代の「管制塔」へ。複数AIを束ねて爆速開発する「Orca」完全ガイ... Jun 8, 2026 · 新しいAIが登場してもOrcaという「管制塔」はそのままに、CLIコマンド1行を追加するだけで最新モデルを即座にチームへ組み込めます。 ツールへのロックインがない のがOrcaの大きな哲学です。 8 【実務連携】GitHub & Linearとのネイティブ同期",
+    "url": "https://note.com/dql/n/n36038e864760",
+    "pass": 3
+   },
+   {
+    "quote": "[Orca] It is an ADE. It is not an IDE. - note（ノート） Orca is a free multi-AI agent development environment that can directly operate Codex and Claude Code. It supports everything from smartphone interaction, parallel execution of multiple agents, work separation via Git, remote development, scheduled execution, and orchestration.",
+    "url": "https://note.com/jun8888888/n/n6799e43f27a9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What is Orca? A Comprehensive Guide to the Parallel AI Agent ... Orca is a free, open-source parallel AI agent management platform developed by StablyAI. As of 2026, it is available for macOS, Windows, and Linux, and has become a proven tool with over 433 releases to date.",
+    "url": "https://note.com/aibotec/n/n4f0f9ff62360?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "過去やキャリアから、見つけた ORCa代表 山中の生き方｜ORCa Sep 27, 2024 · 皆様、こんにちは。広報担当の村山です。 前回に引き続き、今回も株式会社ORCa代表の山中にインタビューを行いました。前回は会社についてのお話でしたが、今回は自身の過去やキャリアについて、さらに深く迫ります。 一体どんな経験から、現在の考え方や価値観が生まれたのでしょうか ...",
+    "url": "https://note.com/orcainc_hicaru/n/n0e81f285e310",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "新世代AI IDE『Orca』が最高だったので解説！ Claude CodeやCodexを協調させるガチ最高なエージェントIDE｜まさお@未経験からプロまでAI活用",
+    "url": "https://note.com/masa_wunder/n/na404a9955291",
+    "pass": 3
+   },
+   {
+    "quote": "新世代AI IDE『Orca』が最高だったので解説！ Claude CodeやCodexを協調させるガチ最高なエージェントIDE",
+    "url": "https://note.com/masa_wunder/n/na404a9955291",
+    "pass": 3
+   },
+   {
+    "quote": "Claude Code、Codex、VS Code、ターミナルを行き来していると、作業そのもの以上に「どの画面で何を動かしていたか」を思い出す時間が増えがち。Orca は、複数の AI コーディングエージェントをひとつの作業台に集め、隔離された作業環境で並列に走らせる ADE。ADE は Agent Development Environment の略で、AI エージェントを前提にした開発環境を指す言葉です。",
+    "url": "https://note.com/masa_wunder/n/na404a9955291",
+    "pass": 3
+   },
+   {
+    "quote": "いつも通り動画でも解説しているので、こちらもご覧ください",
+    "url": "https://note.com/masa_wunder/n/na404a9955291",
+    "pass": 3
+   },
+   {
+    "quote": "7.1k スターという数字は、GitHub 上で確認できる Orca の公式リポジトリの値です。公式カテゴリ名は ADE、最新リリースは v1.4.97 で 2026 年 6 月 24 日時点の更新。ライセンスは MIT、対応環境は macOS、Windows、Linux に加えて iOS と Android のモバイル連携まで含まれます。数値は",
+    "url": "https://note.com/masa_wunder/n/na404a9955291",
+    "pass": 3
+   },
+   {
+    "quote": "GitHub の stablyai/orca",
+    "url": "https://note.com/masa_wunder/n/na404a9955291",
+    "pass": 3
+   },
+   {
+    "quote": "公式が前面に出している価値は、Claude Code、Codex、OpenCode、Pi などを横並びで動かし、それぞれを独立した git worktree に閉じ込め、進捗を一か所で追える点です。対応エージェントは公式に 25+ とされ、Claude Code / Codex / OpenCode / Grok / Gemini / Cursor CLI / GitHub Copilot / Pi / Hermes Agent / Devin / Kimi / Cline / Goose / Continue / Droid / Kiro / Qwen Code などが並びます。",
+    "url": "https://note.com/masa_wunder/n/na404a9955291",
+    "pass": 3
+   },
+   {
+    "quote": "Orca を見たときに僕が最初に感じたのは、Ghostty、VS Code、Codex デスクトップアプリを別々に開く疲れを減らす道具だということでした。Codex デスクトップに寄せると快適な反面、他のエージェントを同じ作法で扱いにくくなります。Orca が担うのは、エージェントを乗せる土台の整理です。",
+    "url": "https://note.com/masa_wunder/n/na404a9955291",
+    "pass": 3
+   },
+   {
+    "quote": "AI時代の「管制塔」へ。複数AIを束ねて爆速開発する「Orca」完全ガイド｜Design Quest AI",
+    "url": "https://note.com/dql/n/n36038e864760",
+    "pass": 3
+   },
+   {
+    "quote": "AI時代の「管制塔」へ。複数AIを束ねて爆速開発する「Orca」完全ガイド",
+    "url": "https://note.com/dql/n/n36038e864760",
+    "pass": 3
+   },
+   {
+    "quote": "「AIがコードを書いてくれるのはわかった。でも 同時に複数タスクを頼むと壊れる 。どのAIがベストなコードを書くかわからない。費用が見えない……」 そんな悩みをまるごと解決するオープンソースツールが 「Orca（オルカ）」 です。OrcaはIDEの次世代形態── ADE（エージェント開発環境） の先駆者。複数のAIプログラマーを同時に指揮し、競わせ、選び取る「AI管制塔」としてゼロから設計されています。 本記事では約12,000文字で全機能を徹底解説。中でも 「Parallel Worktrees」「マルチエージェント・ターミナル」「Annotate AI Diffs」「GitHub & Linear連携」 の4機能は特に深掘りします。",
+    "url": "https://note.com/dql/n/n36038e864760",
+    "pass": 3
+   },
+   {
+    "quote": "1 なぜ今「IDE」から「ADE」なのか？",
+    "url": "https://note.com/dql/n/n36038e864760",
+    "pass": 3
+   },
+   {
+    "quote": "これまでプログラミングといえば、VS CodeやCursorなどの IDE（統合開発環境） が主役でした。人間がキーボードを叩き、AIはあくまで補完アシスタント。しかし2025〜2026年、開発の世界は劇的に変わりました。",
+    "url": "https://note.com/dql/n/n36038e864760",
+    "pass": 3
+   },
+   {
+    "quote": "AIはもはや「1行ずつ補完するアシスタント」ではなく、「指示を受け取ってファイルを作り、テストを走らせ、エラーを自己修復して完成させる 自律型エージェント 」です。人間の主な仕事はキーボードを叩くことから プロンプティング・進捗監視・コードレビュー へシフトしています。",
+    "url": "https://note.com/dql/n/n36038e864760",
+    "pass": 3
+   },
+   {
+    "quote": "人間がコードを書く場所ではなく、 「何人ものAIプログラマーたちに指示を出し、彼らの働きを指揮・監督するための管制室」 としてゼロから設計された次世代の開発環境。OrcaはそのADEの先駆者です。",
+    "url": "https://note.com/dql/n/n36038e864760",
+    "pass": 3
+   },
+   {
+    "quote": "2 【コア機能1】完全に独立した作業部屋「Parallel Worktrees」",
+    "url": "https://note.com/dql/n/n36038e864760",
+    "pass": 3
+   },
+   {
+    "quote": "[Orca] It is an ADE. It is not an IDE.｜jun",
+    "url": "https://note.com/jun8888888/n/n6799e43f27a9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/jun8888888/n/n6799e43f27a9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "[Orca] It is an ADE. It is not an IDE.",
+    "url": "https://note.com/jun8888888/n/n6799e43f27a9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It is also easier to understand Orca if you watch the video first.",
+    "url": "https://note.com/jun8888888/n/n6799e43f27a9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It seems that more and more engineers are switching from IDEs like VSCode or eclipse to ADEs (Agent Development Environments) like Orca.",
+    "url": "https://note.com/jun8888888/n/n6799e43f27a9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "I also had an AI create an overview for this.",
+    "url": "https://note.com/jun8888888/n/n6799e43f27a9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "As of October 15, 2026",
+    "url": "https://note.com/jun8888888/n/n6799e43f27a9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Orca is a free, open-source development environment that integrates and manages multiple AI coding agents.",
+    "url": "https://note.com/jun8888888/n/n6799e43f27a9?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What is Orca? A Comprehensive Guide to the Parallel AI Agent Control Center [2026 Latest Edition]｜AI自動化のアイボウ【株式会社AIBOTEC】",
+    "url": "https://note.com/aibotec/n/n4f0f9ff62360?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/aibotec/n/n4f0f9ff62360?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "What is Orca? A Comprehensive Guide to the Parallel AI Agent Control Center [2026 Latest Edition]",
+    "url": "https://note.com/aibotec/n/n4f0f9ff62360?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "AI自動化のアイボウ【株式会社AIBOTEC】",
+    "url": "https://note.com/aibotec/n/n4f0f9ff62360?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "**Sources**: [Official Website](https://www.onorca.dev/) / [GitHub - stablyai/orca](https://github.com/stablyai/orca) / [Product Hunt](https://www.producthunt.com/products/orca-5) / Reference: [Vibecodinghub](https://vibecodinghub.org/tools/orca)",
+    "url": "https://note.com/aibotec/n/n4f0f9ff62360?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "* This article is an explanatory piece based on publicly available information. It reflects information as of the time of writing (May 2026); please check the latest official information before actual use.",
+    "url": "https://note.com/aibotec/n/n4f0f9ff62360?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In 2026, as AI is becoming a partner in our work, various AI agent tools such as Claude Code, Codex, and Grok have emerged. However, business professionals and engineers who can simultaneously operate multiple agents are still in the minority.",
+    "url": "https://note.com/aibotec/n/n4f0f9ff62360?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "\"What if you could run multiple AI agents in parallel on a single screen?\" \"What if you could instantly compare the results of different agents?\"",
+    "url": "https://note.com/aibotec/n/n4f0f9ff62360?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "過去やキャリアから、見つけた ORCa代表 山中の生き方｜ORCa",
+    "url": "https://note.com/orcainc_hicaru/n/n0e81f285e310",
+    "pass": 3
+   },
+   {
+    "quote": "過去やキャリアから、見つけた ORCa代表 山中の生き方",
+    "url": "https://note.com/orcainc_hicaru/n/n0e81f285e310",
+    "pass": 3
+   },
+   {
+    "quote": "前回に引き続き、今回も株式会社ORCa代表の山中にインタビューを行いました。前回は会社についてのお話でしたが、今回は自身の過去やキャリアについて、さらに深く迫ります。",
+    "url": "https://note.com/orcainc_hicaru/n/n0e81f285e310",
+    "pass": 3
+   },
+   {
+    "quote": "一体どんな経験から、現在の考え方や価値観が生まれたのでしょうか？",
+    "url": "https://note.com/orcainc_hicaru/n/n0e81f285e310",
+    "pass": 3
+   },
+   {
+    "quote": "そして、それはどのように今の事業に活かされているのでしょうか？",
+    "url": "https://note.com/orcainc_hicaru/n/n0e81f285e310",
+    "pass": 3
+   },
+   {
+    "quote": "ぜひ最後までお読みいただき、山中の熱い想いに触れてみてください。",
+    "url": "https://note.com/orcainc_hicaru/n/n0e81f285e310",
+    "pass": 3
+   },
+   {
+    "quote": "1998年生まれ。2021年11月 株式会社ORCaを設立",
+    "url": "https://note.com/orcainc_hicaru/n/n0e81f285e310",
+    "pass": 3
+   },
+   {
+    "quote": "弟の光（ひかる）がダウン症とその合併症を持って生まれ、わずか一歳という若さでこの世を去っている。その経験から、命輝くようにという意味をこめて名付けられた「ひかる」への想いをこめて、2022年5月にHICARU COFFEE ROASTER ブランドを設立。現在もダウン症の方々が一般就労として参画するカフェを経営する。",
+    "url": "https://note.com/orcainc_hicaru/n/n0e81f285e310",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Orca - LinkedIn Orca | 2,850 followers on LinkedIn. Orca is the Solana ecosystem’s most trusted DEX. | Orca was one of the first protocols deployed on Solana Mainnet back in February 2021. Since then, Orca has ...",
+    "url": "https://www.linkedin.com/company/orca-so",
+    "pass": 3
+   },
+   {
+    "quote": "ORCA® - LinkedIn ORCA® | 1,439 followers on LinkedIn. We innovate, you progress | Pennel & Flipo SA, through its brand ORCA®, designs, produces and distributes Engineered Fabrics to protect Man, Equipments and ...",
+    "url": "https://www.linkedin.com/company/orcafabrics",
+    "pass": 3
+   },
+   {
+    "quote": "Orca - At the top of your food chain - LinkedIn Orca - At the top of your food chain | 712 followers on LinkedIn. Premium Meat & Seafood Distributor | Delivering Quality, Consistency & Supply Chain Certainty | Since 2009, Orca Marketing has been Singapore’s premier partner for premium meat and seafood solutions. Born from deep roots in the seafood trade and nurtured through a passion for uncomprom",
+    "url": "https://sg.linkedin.com/company/orca-marketing-pty-ltd",
+    "pass": 3
+   },
+   {
+    "quote": "Matt Currie - CEO at Orca | Connecting Business Owners with ...Orca Intelligence - LinkedInORCA | LinkedInORCA - LinkedIn CEO at Orca | Connecting Business Owners with Buyers to Make Great Deals · I’m the Founder of ORCA, an M&amp;A deal sourcing firm that helps advisors, acquirers, and investors originate the right opportunities through a disciplined origination process. We build targeted pipelin",
+    "url": "https://ca.linkedin.com/in/matt-currie-",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "ORCA | Portsmouth - FacebookOrca Conservancy - FacebookOrca Network - FacebookOcean Research & Conservation Association | Vero Beach FLORCA Coolers | Nashville TN - FacebookORCA CONGO - FacebookOrca Behavior Institute | Friday Harbor WA - Facebook Oct 16, 2026 · ORCA, Portsmouth. 24,195 followers · 456 talking about this · 30 were here. ORCA is dedicated to the protection of whales, dolphins and p",
+    "url": "https://www.facebook.com/ORCAweb/",
+    "pass": 3
+   },
+   {
+    "quote": "Orca Conservancy - FacebookOrca Network - FacebookOcean Research & Conservation Association | Vero Beach FLORCA Coolers | Nashville TN - FacebookORCA CONGO - FacebookOrca Behavior Institute | Friday Harbor WA - Facebook Orca Conservancy. 44,617 followers · 744 talking about this. Working on behalf of Orcinus orca, the killer whale and protecting the wild places on which it depends 1 day ago · Orca",
+    "url": "https://www.facebook.com/OrcaConservancy/",
+    "pass": 3
+   },
+   {
+    "quote": "Orca Network - FacebookOcean Research & Conservation Association | Vero Beach FLORCA Coolers | Nashville TN - FacebookORCA CONGO - FacebookOrca Behavior Institute | Friday Harbor WA - Facebook 1 day ago · Orca Network. 238,160 followers · 3,416 talking about this. Connecting people with whales of the Pacific Northwest~ Oct 21, 2026 · This collaborative restoration effort brings together the Ocean ",
+    "url": "https://www.facebook.com/OrcaNetwork/",
+    "pass": 3
+   },
+   {
+    "quote": "Ocean Research & Conservation Association | Vero Beach FLORCA Coolers | Nashville TN - FacebookORCA CONGO - FacebookOrca Behavior Institute | Friday Harbor WA - Facebook Oct 21, 2026 · This collaborative restoration effort brings together the Ocean Research & Conservation Association (ORCA), Sebastian Inlet District, Florida State Parks, Reef Arches LLC, and MANG Consulting, with funding support f",
+    "url": "https://www.facebook.com/TeamORCA/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "ORCA on X: \"初めて投稿したcpが結構伸びたし同類の方がたくさんいて... 初めて投稿したcpが結構伸びたし同類の方がたくさんいて嬉しかったのですが晒されてしまったため消しました〜🥲🙌 もっと検索避けとかしっかりしますし晒されても自分の絵にしっかり自信を持ちます‼️😁👍",
+    "url": "https://x.com/c8z_a/status/2110630977831858307",
+    "pass": 3
+   },
+   {
+    "quote": "MRG Orca on X: \"おります。関係者の皆様、チームの皆様、そして投稿... Aug 29, 2026 · この度、Overwatchの韓国サーバーでランクマッチをプレイしたいという趣旨の投稿と、軽率な行動による不適切な画像を投稿した件について、チームの方からお叱りを受けました。チームに所属する立場として、周囲への影響や自身の立場を十分に考えず、このような投稿をしてしまったことを ...",
+    "url": "https://x.com/orca_ow2/status/2093751665086349312",
+    "pass": 3
+   },
+   {
+    "quote": "しゃち/Orca on X: \"SNS怖い 気軽に投稿するとどんどん広まってっちゃ... SNS怖い 気軽に投稿するとどんどん広まってっちゃう まあ そこが面白くて好きなところなんだけどね 02 Nov 2026 02:46:26",
+    "url": "https://x.com/orca_earth_md/status/2117085899045711970",
+    "pass": 3
+   },
+   {
+    "quote": "KW.Orca on X: \"@New_Daien418 もしも失礼ならこのコメントは削除しま... @New_Daien418 もしも失礼ならこのコメントは削除します、ただ新しいアカウントとpixivアカウントがこれを投稿していないのが気になりました",
+    "url": "https://x.com/OcraWX/status/2092095617120215469",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://orca.security/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orca.security/partners/distributor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orca.security/partners/managed-service-provider/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orca.security/solutions/industries/financial-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orca.security/solutions/industries/media-entertainment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orca.security/solutions/industries/industry-retail/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orca.security/solutions/industries/multi-cloud-security-and-compliance-for-government/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orca.security/solutions/industries/industry-healthcare/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orca.security/solutions/industries/technology-services/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orca.security/partners/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orca.security/partners/global-systems-integrator/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orca.security/partners/solution-provider/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orca.security/partners/cloud-service-provider/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orca.security/partners/overview/join/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orca.security/partners/technical-alliance-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orca.security/partners/ai-app-gen-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orca.security/about/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orca.security/builder-exchange/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orca.security/resources/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orca.security/resources/case-studies/autodesk/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://orca.security/wp-content/uploads/2026/09/partner-main-hero.png?w=1200",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.jrce.co.jp/medical/column/orca-about/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digikar.m3.com/articles/rece-com/article29",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.orca.med.or.jp/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.alpha-sy.jp/orca/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orcazine.com/orcas-of-japan/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iere.org/can-you-see-orcas-in-japan/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://orca-jp.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://iere.org/does-japan-have-orcas-in-captivity/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/orca/case-study/cupp-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/vendict/case-study/orca-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.orca-ai.io/resource-center/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orcahygiene.com/white-label-manufacturing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mycompanyworks.com/reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://orcahygiene.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/masa_wunder/n/na404a9955291",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/dql/n/n36038e864760",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/jun8888888/n/n6799e43f27a9?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/aibotec/n/n4f0f9ff62360?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/orca-so",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/orcafabrics",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sg.linkedin.com/company/orca-marketing-pty-ltd",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/matt-currie-",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ORCAweb/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/OrcaConservancy/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/OrcaNetwork/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TeamORCA/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/orcainc_hicaru/n/n0e81f285e310",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/c8z_a/status/2110630977831858307",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/orca_ow2/status/2093751665086349312",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/orca_earth_md/status/2117085899045711970",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/OcraWX/status/2092095617120215469",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Orca 日本 導入",
+   "results": [
+    "https://www.jrce.co.jp/medical/column/orca-about/index.html",
+    "https://digikar.m3.com/articles/rece-com/article29",
+    "https://www.orca.med.or.jp/index.html",
+    "https://www.alpha-sy.jp/orca/",
+    "https://www.orcamo.co.jp/products/orca/weborca.html",
+    "https://www.orca.med.or.jp/receipt/considering/operation/index.html",
+    "https://www.enecom.co.jp/enecombiz/service/orca/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Orca 代理店 OR 総代理店 OR 日本法人",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "Orca Japan",
+   "results": [
+    "https://orcazine.com/orcas-of-japan/",
+    "https://iere.org/can-you-see-orcas-in-japan/",
+    "https://orca-jp.com/",
+    "https://iere.org/does-japan-have-orcas-in-captivity/",
+    "https://www.orcajpn.co.jp/en/",
+    "https://www.kamogawa-seaworld.jp/english/guide/program/orca/",
+    "https://www.dailymail.com/news/article-14655341/Stunning-photos-rare-albino-killer-whale.html",
+    "https://ja.wikipedia.org/wiki/OC_Japan_Fair"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Orca manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/company/orca/case-study/cupp-customer-case-study",
+    "https://www.casestudies.com/company/vendict/case-study/orca-customer-case-study",
+    "https://orca.security/resources/case-studies/",
+    "https://www.orca-ai.io/resource-center/case-studies/",
+    "https://beyondscale.tech/case-studies/orca-erp-lightweight-manufacturing",
+    "https://www.featuredcustomers.com/vendor/orca/case-studies",
+    "https://orcaaudit.ai/customers"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Orca white label OR reseller OR partner program",
+   "results": [
+    "https://orcahygiene.com/white-label-manufacturing/",
+    "https://partner.vw.com/",
+    "https://www.mycompanyworks.com/reseller",
+    "https://orcahygiene.com/",
+    "https://partner.vw.com/partner",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Orca founded funding employees revenue",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:note.com Orca",
+   "results": [
+    "https://note.com/masa_wunder/n/na404a9955291",
+    "https://note.com/dql/n/n36038e864760",
+    "https://note.com/jun8888888/n/n6799e43f27a9?hl=en",
+    "https://note.com/aibotec/n/n4f0f9ff62360?hl=en",
+    "https://note.com/nmtta3265/n/nb409f9409342?hl=en",
+    "https://tales.note.com/cute_orca7162?sort=PUBLISHED_AT_DESC",
+    "https://tales.note.com/alert_orca1489/board/threads/thwacie4sbc9n?from=community-board"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Orca",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com Orca",
+   "results": [
+    "https://www.linkedin.com/company/orca-so",
+    "https://www.linkedin.com/company/orcafabrics",
+    "https://sg.linkedin.com/company/orca-marketing-pty-ltd",
+    "https://ca.linkedin.com/in/matt-currie-",
+    "https://ca.linkedin.com/company/orca-intelligence",
+    "https://kg.linkedin.com/products/faccts-orca/",
+    "https://uk.linkedin.com/company/orcastudio"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Orca",
+   "results": [
+    "https://www.facebook.com/ORCAweb/",
+    "https://www.facebook.com/OrcaConservancy/",
+    "https://www.facebook.com/OrcaNetwork/",
+    "https://www.facebook.com/TeamORCA/",
+    "https://www.facebook.com/orcacoolers/",
+    "https://www.facebook.com/orcacongo/",
+    "https://www.facebook.com/orcabehavior/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Orca note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/orcainc_hicaru/n/n0e81f285e310",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://jp.linkedin.com/in/英偉人-山中-8b3b7b276",
+    "https://www.orcajpn.co.jp/company/history.html",
+    "https://www.orca-inc.co.jp/wp/news_blog/interview_1/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Orca X 投稿",
+   "results": [
+    "https://x.com/c8z_a/status/2110630977831858307",
+    "https://x.com/orca_ow2/status/2093751665086349312",
+    "https://x.com/orca_earth_md/status/2117085899045711970",
+    "https://x.com/OcraWX/status/2092095617120215469",
+    "https://x.com/Orcinus_29/status/2092407926657036502",
+    "https://x.com/orca_109/status/2103238158125326811",
+    "https://x.com/orca5558/status/2107026072068051011"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部32頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部32頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部32頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部32頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部32頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像1件／外部32頁・検索12回）"
+ }
+}

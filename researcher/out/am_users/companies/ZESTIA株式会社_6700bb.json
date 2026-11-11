@@ -1,0 +1,786 @@
+{
+ "name": "ZESTIA株式会社",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T11:17:28.836608+00:00",
+ "official_url": "https://zestia.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒399-2221 長野県飯田市龍江 5540-1 [ MAP ]",
+    "url": "https://zestia.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒399-2221 長野県飯田市龍江6720-3 [ MAP ]",
+    "url": "https://zestia.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒399-2221 長野県飯田市龍江 5540-1（本社） 〒399-2221 長野県飯田市龍江6720-3 (第二工場)",
+    "url": "https://zestia.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "業務内容",
+    "value": "装置設計・製造・組立",
+    "url": "https://zestia.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "label": "業務内容",
+    "value": "装置組立・倉庫",
+    "url": "https://zestia.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "label": "業務内容",
+    "value": "医療機器、薬事医療機器、半導体製造装置、食品装置組立、光学画像検査機、製造ライン、設計-加工-組立-電装-調整 自社製品YURUSOR製造販売（販売先YURUSOR(株)）\nONIプレシジョン事業(調達代行サービス) 加工工場面積：約1000㎡、組立工場面積：約1000㎡、クリーンルーム面積：約100㎡",
+    "url": "https://zestia.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表",
+    "value": "熊谷　雄一",
+    "url": "https://zestia.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "拠点": [
+   {
+    "label": "関連会社",
+    "value": "YURUSOR株式会社 玉の台クラフト 有限会社協和合金",
+    "url": "https://zestia.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "加工工場面積",
+    "value": "約1000㎡、組立工場面積：約1000㎡、クリーンルーム面積：約100㎡",
+    "url": "https://zestia.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "50名",
+    "url": "https://zestia.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "医療機器メーカー様、薬事医療機器メーカー様、半導体関連メーカー様、電気メーカー様、ブレーキ製造メーカー様、食品装置メーカー様、ベアリングメーカー様、端子製造メーカー様、ネジ製造メーカー様、刃物メーカー様など",
+    "url": "https://zestia.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "label": "取引先銀行",
+    "value": "飯田信用金庫 駒場支店 八十二銀行 伊賀良支店 長野銀行 飯田支店 日本政策金融公庫 長野県信用組合",
+    "url": "https://zestia.co.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "人の生活に求められる機械、機器、製品を培った技術としなやかな対応力で",
+    "url": "https://zestia.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "A5052 アルミニウム 電気製品製造装置部品",
+    "url": "https://zestia.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "自社製品も販売しており、あらゆる案件・技術へのたゆまぬ挑戦心を糧に「日進月歩」しています",
+    "url": "https://zestia.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "自社製品YURUSOR製造販売（販売先YURUSOR(株)）",
+    "url": "https://zestia.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "熟練した技術で信用の製品をお客様にお届けします",
+    "url": "https://mono.ipros.com/product/detail/319866001/",
+    "pass": 3
+   },
+   {
+    "quote": "製品～治工具、刃物",
+    "url": "https://mono.ipros.com/product/detail/319866001/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス一覧 (10)",
+    "url": "https://mono.ipros.com/product/detail/319866001/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "樹脂加工：樹脂の切削から成形、板金までお任せください",
+    "url": "https://zestia.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "社内加工に加え230社を超える協力企業ネットワークを活かし、板金・樹脂・ばねや研削など、あらゆる加工品の製作を実現いたします",
+    "url": "https://zestia.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "材質はステンレス、アルミ、工具鋼、超硬と幅広く対応しております",
+    "url": "https://mono.ipros.com/product/detail/319866001/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "ZESTIA株式会社 | 食品機械･医療機器の部品加工･組立･電装･設計",
+    "url": "https://zestia.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "設計部門では多種多様な業界・メーカー様よりご依頼をいただき、既存・新規問わず装置やSubAssy、治具など幅広く対応させていただきます",
+    "url": "https://zestia.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "A2017 アルミニウム 半導体製造装置部品",
+    "url": "https://zestia.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "組立部門では食品・医療・半導体を始め、クリーンな環境で使われる多種多様な装置を製作しております",
+    "url": "https://zestia.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器、薬事医療機器、半導体製造装置、食品装置組立、光学画像検査機、製造ライン、設計-加工-組立-電装-調整",
+    "url": "https://zestia.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器製造業 登録番号 ：20BZ200152",
+    "url": "https://zestia.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器メーカー様、薬事医療機器メーカー様、半導体関連メーカー様、電気メーカー様、ブレーキ製造メーカー様、食品装置メーカー様、ベアリングメーカー様、端子製造メーカー様、ネジ製造メーカー様、刃物メーカー様など",
+    "url": "https://zestia.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "食品、医療機器、省力化機械組立",
+    "url": "https://zestia.co.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "医療、半導体、レーザー機器",
+    "url": "https://zestia.co.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "また、金型の製作にも対応しており、3CDプロセスを活用することで最短2週間での金型製作が可能です",
+    "url": "https://zestia.co.jp/news/2333/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、金型完成後のダイカスト試作も追加1週間程度で対応できるため、短納期でのご要望にも迅速にお応えできる体制が整いました",
+    "url": "https://zestia.co.jp/news/2333/",
+    "pass": 1
+   },
+   {
+    "quote": "各種機械部品、及びロボット部品の加工を得意としております",
+    "url": "https://mono.ipros.com/product/detail/319866001/",
+    "pass": 3
+   },
+   {
+    "quote": "部分組立や電気も対応しており、食品・医療・半導体など様々な業界のメーカー様から装置製造をご依頼いただいております",
+    "url": "https://mono.ipros.com/product/detail/319866001/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "製造部門では単品～300個程度をボリュームゾーンに、日々様々な部品を製作しております",
+    "url": "https://zestia.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "新規・試作・特注装置も事前の綿密な打ち合わせを経てご希望通りの完成品を期日までに納品させていただきます",
+    "url": "https://zestia.co.jp/aboutus/",
+    "pass": 1
+   },
+   {
+    "quote": "今回の提携により、当社は少量のダイカスト加工にも対応できる体制を整えました",
+    "url": "https://zestia.co.jp/news/2333/",
+    "pass": 1
+   },
+   {
+    "quote": "一般的にダイカストは1万個単位など大量生産が主流ですが、協和合金様では10個からの少量生産が可能です",
+    "url": "https://zestia.co.jp/news/2333/",
+    "pass": 1
+   },
+   {
+    "quote": "これにより、試作や小ロットのご要望にも柔軟にお応えすることが可能となります",
+    "url": "https://zestia.co.jp/news/2333/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、金型完成後のダイカスト試作も追加1週間程度で対応できるため、短納期でのご要望にも迅速にお応えできる体制が整いました",
+    "url": "https://zestia.co.jp/news/2333/",
+    "pass": 1
+   },
+   {
+    "quote": "〜試作部品、テスト部品、装置物（加工〜組立）〜総合カタログ ZESTIA | イプロスものづくり",
+    "url": "https://mono.ipros.com/product/detail/319866001/",
+    "pass": 3
+   },
+   {
+    "quote": "〜試作部品、テスト部品、装置物（加工〜組立）〜総合カタログ",
+    "url": "https://mono.ipros.com/product/detail/319866001/",
+    "pass": 3
+   },
+   {
+    "quote": "試作部品、テスト部品、装置物（加工〜組立）の阿智精機 〜総合カタログ〜",
+    "url": "https://mono.ipros.com/product/detail/319866001/",
+    "pass": 3
+   },
+   {
+    "quote": "ZESTIA株式会社は、創業から試作部品～中量産（500個位までの品物）を得意とし多品種少量生産で加工を行っております",
+    "url": "https://mono.ipros.com/product/detail/319866001/",
+    "pass": 3
+   },
+   {
+    "quote": "試作部品＜72時間で納品＞",
+    "url": "https://mono.ipros.com/product/detail/319866001/",
+    "pass": 3
+   },
+   {
+    "quote": "工法転換｜溶接・組立品をアルミ鋳物で一体化 1個から試作",
+    "url": "https://mono.ipros.com/product/detail/319866001/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "ZESTIA株式会社 | 食品機械･医療機器の部品加工･組立･電装･設計 — ZESTIA株式会社は、人の命を助ける機械、血管の中で活躍する器具の製造機械、食品分野であれば食品梱包や食品製造に係わる機械をOEM、ODMという形で受注して製造を行っております。 常に情熱をもって皆様にベネフィットを提供し続けます。",
+    "url": "https://zestia.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容 | ZESTIA株式会社〜試作部品、テスト部品、装置物（加工〜組立）〜総合カタログ ZESTIA...部品加工・保有設備 の製品一覧｜ZESTIA｜イプロスものづくり製品紹介 | 小ロット量産 | 株式会社トピア「試作」のリーディングカ...業界の装置設計・開発実績 | ZESTIA株式会社試作・小ロット生産総合メーカーのゼン｜樹脂加工・金属加工・射出成... — ZESTIA株式会社の事業内容を紹介いたします。 設計、部品加工、組み立てと一貫で受注することによって、50年を超えて蓄積してきたZESTIAの様々な技術を発揮することができます。 ZESTIA株式会社は、創業から試作部品～中量産（500個位までの品物）を得意とし多品種少量生産で加工を行っております。 製品～治工具、刃物。 材質はステンレス、アルミ、工具鋼、超硬と幅広く対応しております。 Dec 4, 2023 · Z",
+    "url": "https://zestia.co.jp/aboutus/",
+    "pass": 3
+   },
+   {
+    "quote": "〜試作部品、テスト部品、装置物（加工〜組立）〜総合カタログ ZESTIA... — ZESTIA株式会社は、創業から試作部品～中量産（500個位までの品物）を得意とし多品種少量生産で加工を行っております。 製品～治工具、刃物。 材質はステンレス、アルミ、工具鋼、超硬と幅広く対応しております。",
+    "url": "https://mono.ipros.com/product/detail/319866001/",
+    "pass": 3
+   },
+   {
+    "quote": "部品加工・保有設備 の製品一覧｜ZESTIA｜イプロスものづくり — Dec 4, 2023 · ZESTIA の 部品加工・保有設備 の一覧情報。 設計から部品加工・板金・樹脂・組立・電気まで、装置に関わる業務を一貫して執り行います。 ZESTIA株式会社は、創業から試作部品～中量産（500個位までの品物）を得意とし多品種少量生産で加工を行っております。",
+    "url": "https://mono.ipros.com/company/detail/319866/category/45970/",
+    "pass": 3
+   },
+   {
+    "quote": "事業内容 | ZESTIA株式会社会社概要 | ZESTIA株式会社ZESTIA株式会社 | 食品機械･医療機器の部品加工･組立･電装･設計ZESTIA株式会社 | 加工会社ナビZESTIA株式会社（長野県）の会社概要・役員 | CompalyzeZESTIA株式会社 - 南信州新聞電子版ZESTIA 株式会社 — ZESTIA株式会社の事業内容を紹介いたします。 設計、部品加工、組み立てと一貫で受注することによって、50年を超えて蓄積してきたZESTIAの様々な技術を発揮することができます。 ZESTIAはこれからの高度情報化社会の中で様々な情報を取得・精査し、世の中に求められているものが何かを考え、設計から始まる「ものづくり力」を様々なサービスを通してご提供したいと考えております。 ZESTIA株式会社は、人の命を助ける機械、血管の中で活躍する器具の製造機械、食品分野であれば食品梱包や",
+    "url": "https://zestia.co.jp/aboutus/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 | ZESTIA株式会社ZESTIA株式会社 | 食品機械･医療機器の部品加工･組立･電装･設計ZESTIA株式会社 | 加工会社ナビZESTIA株式会社（長野県）の会社概要・役員 | CompalyzeZESTIA株式会社 - 南信州新聞電子版ZESTIA 株式会社 — ZESTIAはこれからの高度情報化社会の中で様々な情報を取得・精査し、世の中に求められているものが何かを考え、設計から始まる「ものづくり力」を様々なサービスを通してご提供したいと考えております。 ZESTIA株式会社は、人の命を助ける機械、血管の中で活躍する器具の製造機械、食品分野であれば食品梱包や食品製造に係わる機械をOEM、ODMという形で受注して製造を行っております。 常に情熱をもって皆様にベネフィットを提供し続けます。 ZESTIA株式会社の 概要 各種解析ツールを活用し、最適な装置の開発を手がけていま",
+    "url": "https://zestia.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "ZESTIA株式会社 | 加工会社ナビ — ZESTIA株式会社の 概要 各種解析ツールを活用し、最適な装置の開発を手がけています。 医療機器、食品機械、半導体製造装置、産業機械など、幅広い業界向けに装置の設計から製造、組立までを一貫して提供。",
+    "url": "https://eigyo-mfg.com/service/navi/company/JCdvXCPfIygw",
+    "pass": 3
+   },
+   {
+    "quote": "ZESTIA株式会社（長野県）の会社概要・役員 | Compalyze — 〒399-2221 長野県飯田市に本社を置くZESTIA株式会社の企業情報。 ZESTIA株式会社は、創業50年近い歴史を持つ、OEM/ODM装置の設計・製造・組立を専門とする企業です。 MFG (MFG-06)、1970年設立、社会保険被保険者数40名。 代表者 熊谷雄一。 役員1名・登記3件。",
+    "url": "https://compalyze.co.jp/company/9100001023238",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | ZESTIA株式会社 — 弊社サービスのご利用をご検討されるお客様（お見積依頼・技術相談など）・弊社採用情報にご興味のある方はお問い合わせフォームより必要事項をご記入の上、お問い合わせください。",
+    "url": "https://zestia.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "装置設計・開発のお問い合わせ | ZESTIA株式会社 — 装置設計・開発に関するお問い合わせは下記フォームにご入力の上、送信願います。 お問い合わせは24時間お受けしておりますが、回答は当社営業時間内での返信とさせていただきます。",
+    "url": "https://kikaibuhin-kumitate.com/design/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "装置設計・開発のお問い合わせを受け付けました | ZESTIA株式会社 — CONTACT お問い合わせ を受け付けました この度は弊社にお問い合わせいただきありがとうございます。 ご記入いただいたメールアドレス宛に確認メールをお送りしていますのでご確認ください。 後日担当者から回答させていただきます。",
+    "url": "https://kikaibuhin-kumitate.com/design/contact/thanks/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "装置設計・開発のお問い合わせ | ZESTIA株式会社",
+    "url": "https://kikaibuhin-kumitate.com/design/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "装置設計・開発に関するお問い合わせは下記フォームにご入力の上、送信願います",
+    "url": "https://kikaibuhin-kumitate.com/design/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせは24時間お受けしておりますが、回答は当社営業時間内での返信とさせていただきます",
+    "url": "https://kikaibuhin-kumitate.com/design/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせの内容により、回答までにお時間をいただく場合がございますので、予めご了承下さい",
+    "url": "https://kikaibuhin-kumitate.com/design/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "装置設計・開発のお問い合わせを受け付けました | ZESTIA株式会社",
+    "url": "https://kikaibuhin-kumitate.com/design/contact/thanks/",
+    "pass": 3
+   },
+   {
+    "quote": "この度は弊社にお問い合わせいただきありがとうございます",
+    "url": "https://kikaibuhin-kumitate.com/design/contact/thanks/",
+    "pass": 3
+   },
+   {
+    "quote": "ご記入いただいたメールアドレス宛に確認メールをお送りしていますのでご確認ください",
+    "url": "https://kikaibuhin-kumitate.com/design/contact/thanks/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "コント小説 アイドルグループ「Zestia（ゼスティア）」の物語。 Feb 27, 2026 · アイドルグループ「Zestia（ゼスティア）」の物語。 アイドル楽屋の心理戦と不条理を描いたミステリアス・コメディ お題：無関心領域 アイドルグループ「Zestia（ゼスティア）」 001 五人目 コメディー・お笑い #monogatary #アイドル #コント #コメディ #小説",
+    "url": "https://note.com/princekyo/n/n64e69bd575be",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "コント小説 アイドルグループ「Zestia（ゼスティア）」の物語。｜北大路京介",
+    "url": "https://note.com/princekyo/n/n64e69bd575be",
+    "pass": 3
+   },
+   {
+    "quote": "コント小説 アイドルグループ「Zestia（ゼスティア）」の物語。",
+    "url": "https://note.com/princekyo/n/n64e69bd575be",
+    "pass": 3
+   },
+   {
+    "quote": "https://monogatary.com/story/538990?share=eadf98d9-b73f-42ca-a18c-c66bcd31482a",
+    "url": "https://note.com/princekyo/n/n64e69bd575be",
+    "pass": 3
+   },
+   {
+    "quote": "アイドルグループ「Zestia（ゼスティア）」の物語。",
+    "url": "https://note.com/princekyo/n/n64e69bd575be",
+    "pass": 3
+   },
+   {
+    "quote": "アイドル楽屋の心理戦と不条理を描いたミステリアス・コメディ",
+    "url": "https://note.com/princekyo/n/n64e69bd575be",
+    "pass": 3
+   },
+   {
+    "quote": "アイドルグループ「Zestia（ゼスティア）」 001 五人目",
+    "url": "https://note.com/princekyo/n/n64e69bd575be",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Zestia Studio | Live2D Art (@zestiastudio) / X Zestia Furry Vtuber Model service is officially LIVE on VGen! The rigging video is coming soon~ 🔥 50% OFF | October 13–17 🎟️ ONLY 3 SLOTS AVAILABLE! WHAT'S THE DEAL?: -FURRY -2 Rendering style (Xal or Latte) -7-14 days Turnaround -Rigging/Vbridger available -Limited price -1",
+    "url": "https://x.com/zestiastudio",
+    "pass": 3
+   },
+   {
+    "quote": "Zestia Extender (@ZestiaTheApp) / Posts / X Zestia Extender (@ZestiaTheApp) - Posts - Go to @cynostial for everything Zestia! | X (formerly Twitter)",
+    "url": "https://x.com/ZestiaTheApp",
+    "pass": 3
+   },
+   {
+    "quote": "zestia (@zestia_FR) / Posts / X zestia_FR Website: http://twitch.tv/zestia_vt Joined: Aug 4, 2026 5Posts 116Following 7Followers",
+    "url": "https://x.com/zestia_FR",
+    "pass": 3
+   },
+   {
+    "quote": "Zestia Studio | Live2D Art on X: \"FINALLYYYY!! Our first ... FINALLYYYY!! Our first commission of September! Wishing all artists lots of commissions this month! 🙏 #VGencomm #smallartist",
+    "url": "https://x.com/zestiastudio/status/2097355831163695238",
+    "pass": 3
+   },
+   {
+    "quote": "あいりす (@Zestia_est) / X 96 あいりす @Zestia_est Nov 6 斉藤が罪鍵2本もってる理由とか与一の姉がいなかったならグレンが隠してたアレはなんだったのとか色々わからんすぎて死ぬ 読み直すか 74",
+    "url": "https://x.com/Zestia_est",
+    "pass": 3
+   },
+   {
+    "quote": "Zestia Studio | Live2D Art on X: \"Xal made some fanart of his ... Zestia Studio | Live2D Art on X: \"Xal made some fanart of his jester idol! #reibubblesart\"",
+    "url": "https://x.com/zestiastudio/status/2109679703971991727",
+    "pass": 3
+   },
+   {
+    "quote": "Zestia Studio | Live2D Art on X: \" ZESTIA STUDIO HALLOWEEN ... Zestia Studio | Live2D Art on X: \"🎃 ZESTIA STUDIO HALLOWEEN UPDATE 🎃 Psst… something spooky is cooking at Zestia Studio! We're launching a BRAND NEW service on VGen this October 10th!",
+    "url": "https://x.com/zestiastudio/status/2108562562237493434",
+    "pass": 3
+   },
+   {
+    "quote": "Zestia Studio | Live2D Art (@zestiastudio) / X Calling all furry Vtubers on X! Meet Lumeris, our fluffy little moonlight child! 🌙 #furry #vtuber",
+    "url": "https://x.com/zestiastudio",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Zestia Camacho - Manager at Center for Nursing and ... - LinkedInZestia Spices | LinkedInZESTIA - CHASSEUR DE SERENITE | LinkedInZestia Ghazeno - BrightPath Community Solutions | LinkedInZestia Ramadani - Bachelor of Computer Science Degree ...ZestOpX - the new chapter of ZestIoT | LinkedInZestia Celestial - Kuala Lumpur, Wilayah Persekutuan Kuala ... View Zestia Camacho’s profile on LinkedIn, a p",
+    "url": "https://www.linkedin.com/in/zestia-camacho-b604a47",
+    "pass": 3
+   },
+   {
+    "quote": "Zestia Spices | LinkedIn Welcome to Zestia Spices is a leading manufacturing and exporter of authentic Indian spices and agriculture products, We bridge the gap between India’s rich agricultural heritage and the global...",
+    "url": "https://in.linkedin.com/company/zestia-spices",
+    "pass": 3
+   },
+   {
+    "quote": "ZESTIA - CHASSEUR DE SERENITE | LinkedIn Zestia vous soulage - de la recherche du bien idéal - des négociations bancaires pour obtenir les meilleurs conditions tarifaires - de la totalité administrative du projet Pour un achat en tout...",
+    "url": "https://www.linkedin.com/company/zestia-chasseur-immobilier/",
+    "pass": 3
+   },
+   {
+    "quote": "Zestia Ghazeno - BrightPath Community Solutions | LinkedIn Experience: BrightPath Community Solutions · Location: Greater London. View Zestia Ghazeno’s profile on LinkedIn, a professional community of 1 billion members.",
+    "url": "https://uk.linkedin.com/in/zestia-ghazeno-78486841b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Zestia Greek Street Food - FacebookZestia - FacebookZestia on Reels - FacebookZestia Jewellery - FacebookZestia Greek Street Food: 20871 Mack Ave | FacebookZestia Dining Experience - FacebookWe’re thrilled to share some exciting news Estia is ... Oct 15, 2026 · Zestia Greek Street Food. 7,592 followers · 162 talking about this · 220 were here. Delicious, easy-to-eat, and full of good-for-you ingre",
+    "url": "https://www.facebook.com/zestiagreekstreetfood/",
+    "pass": 3
+   },
+   {
+    "quote": "Zestia - Facebook Zestia. 4 likes · 34 talking about this. Simple recipes, smart cooking tips, and delicious food anyone can make.",
+    "url": "https://www.facebook.com/CookWithZestia/",
+    "pass": 3
+   },
+   {
+    "quote": "Zestia on Reels - Facebook Video by Zestia 3 MellowMation 8h May Alfante @highlight 4d Last viewed on: Oct 28, 2026",
+    "url": "https://www.facebook.com/61595724875068/videos/1469683298382628/",
+    "pass": 3
+   },
+   {
+    "quote": "Zestia Jewellery - Facebook My own handmade designs will be coming soon (slowly but surely!) 🤍🥰 I’ve been slowly collecting the right materials for long- lasting, non-tarnish pieces, I want everything to feel beautiful and durable, just like all the other pieces on Zestia 🥰🤍 Having lots of fun with it too 🎄🤶🏻😆 #jewellery #bracelets #jewelery # ...",
+    "url": "https://www.facebook.com/Zestiajewellery/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://zestia.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zestia.co.jp/aboutus/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zestia.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zestia.co.jp/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zestia.co.jp/news/2333/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://zestia.co.jp/cms/wp-content/uploads/2024/08/manufacturing_case01.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/product/detail/319866001/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kikaibuhin-kumitate.com/design/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kikaibuhin-kumitate.com/design/contact/thanks/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/princekyo/n/n64e69bd575be",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/zestiastudio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ZestiaTheApp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/zestia_FR",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/zestiastudio/status/2097355831163695238",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/zestia-camacho-b604a47",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/zestia-spices",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/zestia-chasseur-immobilier/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/zestia-ghazeno-78486841b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/zestiagreekstreetfood/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/CookWithZestia/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61595724875068/videos/1469683298382628/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Zestiajewellery/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Zestia_est",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/zestiastudio/status/2109679703971991727",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/zestiastudio/status/2108562562237493434",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/zestiastudio",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ZESTIA 取扱製品 試作 小ロット",
+   "results": [
+    "https://zestia.co.jp/",
+    "https://zestia.co.jp/aboutus/",
+    "https://mono.ipros.com/product/detail/319866001/",
+    "https://mono.ipros.com/company/detail/319866/category/45970/",
+    "http://www.zen.co.jp/",
+    "https://www.u-topia.co.jp/products/low-volume-series.html",
+    "https://kikaibuhin-kumitate.com/design/case/category/industry/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ZESTIA 会社概要 事業内容",
+   "results": [
+    "https://zestia.co.jp/aboutus/",
+    "https://zestia.co.jp/company/",
+    "https://zestia.co.jp/",
+    "https://eigyo-mfg.com/service/navi/company/JCdvXCPfIygw",
+    "https://compalyze.co.jp/company/9100001023238",
+    "https://minamishinshu.jp/enterprise_navi/008/",
+    "https://nesuciida.com/company_details/?cm=90"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ZESTIA お問い合わせ メール",
+   "results": [
+    "https://zestia.co.jp/contact/",
+    "https://kikaibuhin-kumitate.com/design/contact/",
+    "https://kikaibuhin-kumitate.com/design/contact/thanks/",
+    "https://zestia.co.jp/",
+    "https://contact.zetteria.jp/inquiry/",
+    "https://zett.jp/inquiry/",
+    "https://www.eisai.co.jp/inquiry/index.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com ZESTIA",
+   "results": [
+    "https://note.com/princekyo/n/n64e69bd575be",
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/assolato25253/n/n8c42ab9df9a9",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/hanekura_poco/n/ncbc3f3927b54"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com ZESTIA",
+   "results": [
+    "https://x.com/zestiastudio",
+    "https://x.com/ZestiaTheApp",
+    "https://x.com/zestia_FR",
+    "https://x.com/zestiastudio/status/2097355831163695238",
+    "https://x.com/zestiastudio/status/2105566734161973546",
+    "https://x.com/zestiastudio/status/2053503447107027198",
+    "https://x.com/zestiastudio/status/2118891502562943300"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com ZESTIA",
+   "results": [
+    "https://www.linkedin.com/in/zestia-camacho-b604a47",
+    "https://in.linkedin.com/company/zestia-spices",
+    "https://www.linkedin.com/company/zestia-chasseur-immobilier/",
+    "https://uk.linkedin.com/in/zestia-ghazeno-78486841b",
+    "https://id.linkedin.com/in/zestia-ramadani-9598253b2",
+    "https://in.linkedin.com/company/zestopx",
+    "https://my.linkedin.com/in/zestia-celestial-96b0b9300"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com ZESTIA",
+   "results": [
+    "https://www.facebook.com/zestiagreekstreetfood/",
+    "https://www.facebook.com/CookWithZestia/",
+    "https://www.facebook.com/61595724875068/videos/1469683298382628/",
+    "https://www.facebook.com/Zestiajewellery/",
+    "https://www.facebook.com/groups/169726724873144/posts/1391577532688051/",
+    "https://www.facebook.com/fb-answers/zestia-dining-experience/",
+    "https://www.facebook.com/17841400748949713/videos/194004713806093/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ZESTIA note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://zestia.co.jp/company/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://compalyze.co.jp/company/9100001023238",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ZESTIA X 投稿",
+   "results": [
+    "https://x.com/Zestia_est",
+    "https://x.com/zestiastudio/status/2109679703971991727",
+    "https://x.com/zestiastudio/status/2108562562237493434",
+    "https://x.com/zestiastudio",
+    "https://x.com/zestiastudio/status/2118891502562943300",
+    "https://x.com/Zestia_est/reposts",
+    "https://x.com/Hestia11071817"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部20頁・検索9回）",
+  "AM関連": "記載なし（3回確認済み：公式5頁／PDF・画像1件／外部20頁・検索9回）"
+ }
+}

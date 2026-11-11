@@ -1,0 +1,1107 @@
+{
+ "name": "Opkit",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜未接触",
+ "researched_at": "2026-11-11T11:35:39.280823+00:00",
+ "official_url": "https://opkit.co/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "1. Seed Round",
+    "value": "01-Aug-2021    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/472445-56",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "No spam. One email when the private beta opens.",
+    "url": "https://opkit.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Music video concepts, artwork direction, photo direction. The art director on the team.",
+    "url": "https://opkit.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "GitHub - ZJUSCT/opkit: Anything with a protocol can be connected and operated. · GitHub",
+    "url": "https://github.com/ZJUSCT/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "Anything with a protocol can be connected and operated.",
+    "url": "https://github.com/ZJUSCT/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "Protocol wrapping and adaptation",
+    "url": "https://github.com/ZJUSCT/opkit",
+    "pass": 3
+   },
+   {
+    "quote": ": basic wrappers for each protocol — network-device WebUIs, SSH terminals, and so on — passing protocol content through (terminal characters, HTTP messages) without parsing or interpreting it.",
+    "url": "https://github.com/ZJUSCT/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "lists devices and their protocols;",
+    "url": "https://github.com/ZJUSCT/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "opens (or reuses) a session and doubles as a connectivity/credential probe;",
+    "url": "https://github.com/ZJUSCT/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "writes and reads an SSH terminal's byte stream (omit",
+    "url": "https://github.com/ZJUSCT/opkit",
+    "pass": 3
+   },
+   {
+    "quote": ": one credential set, used by any protocol.",
+    "url": "https://github.com/ZJUSCT/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "-----BEGIN OPENSSH PRIVATE KEY-----",
+    "url": "https://github.com/ZJUSCT/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "Devices and protocols",
+    "url": "https://github.com/ZJUSCT/opkit",
+    "pass": 3
+   },
+   {
+    "quote": ": a device may expose several protocols; a protocol is one way in, and each protocol has its own config keys.",
+    "url": "https://github.com/ZJUSCT/opkit",
+    "pass": 3
+   },
+   {
+    "quote": ": a protocol entry may set",
+    "url": "https://github.com/ZJUSCT/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "protocol, different devices authenticate differently:",
+    "url": "https://github.com/ZJUSCT/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "Transport behavior in this table was verified end to end on production hardware (session open, operations, close):",
+    "url": "https://github.com/ZJUSCT/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "ZTE 问天 BE7200 Pro+ (ZXSLC SR7410)",
+    "url": "https://github.com/ZJUSCT/opkit",
+    "pass": 3
+   },
+   {
+    "quote": ": the protocol dataclass +",
+    "url": "https://github.com/ZJUSCT/opkit",
+    "pass": 3
+   },
+   {
+    "quote": ", a session class owning its wire state, and a manager providing",
+    "url": "https://github.com/ZJUSCT/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "Some vendors' WebUIs are agent-hostile: sniffing requests up front rarely finds the right endpoints. The working approach is to drive the WebUI in a real browser once while capturing traffic, then distill that into a device skill.",
+    "url": "https://github.com/ZJUSCT/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "TLS/SSL: certificate verification is globally disabled; older protocol versions (TLS 1.2 and such) are enabled. SSH: host keys are not verified; deprecated RSA suites are enabled.",
+    "url": "https://github.com/ZJUSCT/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "Protocol content is passed through without sanitization, so sensitive material in responses may still reach the agent — use agents you trust.",
+    "url": "https://github.com/ZJUSCT/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "OAuth 2.0 server library for the Go programming language.",
+    "url": "https://github.com/opkit/",
+    "pass": 3
+   },
+   {
+    "quote": "Opkit's demise can be attributed to a combination of strategic missteps and external pressures. The company underestimated the inertia within healthcare organizations regarding technology...",
+    "url": "https://www.loot-drop.io/startup/1285-opkit",
+    "pass": 3
+   },
+   {
+    "quote": "Insight 1: The importance of strategic partnerships in healthcare IT to overcome integration challenges. Insight 2: Prioritize compliance and regulatory expertise from the outset...",
+    "url": "https://www.loot-drop.io/startup/1285-opkit",
+    "pass": 3
+   },
+   {
+    "quote": "The description indicates ongoing efforts to improve healthcare IT, suggesting the company is still operational.",
+    "url": "https://www.loot-drop.io/startup/1285-opkit",
+    "pass": 3
+   },
+   {
+    "quote": "A modern, AI-first platform that focuses on predictive analytics for healthcare providers, leveraging machine learning to optimize insurance verification processes and patient eligibility checks. By providing real-time insights and predictive modeling, HealthSync AI aims to reduce administrative burdens and improve patient outcomes.",
+    "url": "https://www.loot-drop.io/startup/1285-opkit",
+    "pass": 3
+   },
+   {
+    "quote": "Step 1: AI-first prototype blueprint utilizing OpenAI for predictive analytics.",
+    "url": "https://www.loot-drop.io/startup/1285-opkit",
+    "pass": 3
+   },
+   {
+    "quote": "Step 2: Distribution/Validation strategy focusing on partnerships with mid-sized healthcare providers.",
+    "url": "https://www.loot-drop.io/startup/1285-opkit",
+    "pass": 3
+   },
+   {
+    "quote": "Step 4: Moat strategy leveraging proprietary data models and strategic alliances with insurance companies.",
+    "url": "https://www.loot-drop.io/startup/1285-opkit",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue streams would include subscription-based pricing for healthcare providers and a commission model tied to cost savings achieved through the platform's efficiencies. In the current economy, offering a tiered pricing model with clear ROI metrics would be crucial to gaining traction.",
+    "url": "https://www.loot-drop.io/startup/1285-opkit",
+    "pass": 3
+   },
+   {
+    "quote": "Customers evaluate the quality of Opkit’s products using the following success metrics.",
+    "url": "https://www.cbinsights.com/company/opkit/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Speed of insurance verification process",
+    "url": "https://www.cbinsights.com/company/opkit/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Tennr operates as a company automating paperwork for healthcare practices within the healthcare industry. The company provides services that automate tasks such as scheduling and qualifying patient visits, allowing practices to manage their workflow. Tennr's solutions aim to reduce billing errors. It was founded in 2021 and is based in New York, New York.",
+    "url": "https://www.cbinsights.com/company/opkit/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Penguin Ai operates in healthcare administration. It provides a platform for managing administrative workflows and automating tasks. It primarily serves health insurance payers, healthcare providers, and hospital systems. It was founded in 2024 and is based in Palo Alto, California.",
+    "url": "https://www.cbinsights.com/company/opkit/customers",
+    "pass": 3
+   },
+   {
+    "quote": "permits us to improve and customize your experience. You can read more about your",
+    "url": "https://www.cbinsights.com/company/opkit/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Y Combinator — Opkit Company Profile",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "Accesswire — Opkit Launch Press Release, March 7, 2023",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "AccessNewsWire — Opkit AI Call Center Press Release, August 7, 2024",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "AlleyWatch — Opkit Founder Interview, March 19, 2023",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "Crunchbase — Opkit Company Profile",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "CB Insights — Opkit Company Profile",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "Opkit was a New York-based healthcare technology startup, founded in 2021 and backed by Y Combinator's Summer 2021 batch, that built AI-powered phone call automation for the US healthcare industry.The company began as an insurance verification platform for telehealth companies, then pivoted in August 2024 to a broader generative AI call center for medical practices.",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "Despite strong technical execution, credible investor backing, and at least one beta customer who called the product existentially necessary, Opkit never raised a Series A.It was acqui-hired by AI digital workers startup 11x in late 2024 for its voice AI technology and engineering talent, with the Opkit platform subsequently wound down.",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "The core failure was structural: the initial insurance verification product was too narrow to build a venture-scale business independently, and the pivot to a broader AI call center—while technically validated—arrived too late and with too little runway to attract growth-stage capital on its own terms.",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "Opkit's branding at the time of its March 2023 public launch and $1M+ seed round — the high-water mark of the company's independent life before the pivot and eventual acqui-hire by 11x.",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "Together they built \"Cash,\" a business bank account product—an experience that gave them direct, hands-on exposure to the engineering challenges of integrating with regulated financial counterparties and building API-driven infrastructure at scale.",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "Ko brought prior entrepreneurial experience—he had previously co-founded SpeakGenius, an English learning tool—and had studied entrepreneurship at the University of Southern California.",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "In other words, the founders believed that the same developer-first, API-driven approach that had modernized payment rails in fintech could be applied to the administrative plumbing of healthcare.",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "Ko framed the market opportunity at launch: \"Telehealth is an entirely new business model that stands to make healthcare more inclusive, accessible and affordable. But providers need updated tools that are built for a virtual care environment. That's why we built Opkit, to reduce administrative burden for this next generation of healthcare providers.\"",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "Callaway later acknowledged that YC was essential for navigating the fundraising process as a first-time founder: \"I'm a first-time founder and a former engineer, so the fundraising process was daunting. Y Combinator provided a lot of support and guidance. They helped connect us with investors and learn the norms of the venture capital world.\"",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "— Sherwood Callaway and Justin Ko meet as early employees at Brex, co-building \"Cash,\" a business bank account product.",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "— AlleyWatch publishes an extensive founder interview; Callaway discusses healthcare investor skepticism and advises founders to keep burn low.",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "— Opkit announces a pivot to a generative AI call center for medical practices, with beta clients Fella and Flourish named publicly.",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "Product v1: Insurance Verification for Telehealth (2021–2024)",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "Header image from InsurTech Digital's coverage of Opkit's March 2023 stealth launch, showing the company's branding and product positioning.",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "The first was a web dashboard for clinic staff who wanted to run verifications manually through a browser interface. The second was a JSON REST API that allowed engineering teams to embed insurance verification directly into their own scheduling or practice management software—no manual steps required.",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "This addressed a real pain point: insurance status changes—patients losing coverage, switching plans, or hitting benefit limits—are common, and a stale verification can result in denied claims weeks after a visit. The platform was HIPAA-compliant and SOC 2 Type 2 certified, clearing the baseline trust requirements for healthcare enterprise sales.",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "At launch, Opkit ranked #5 product of the day and #3 SaaS product of the week on Product Hunt.",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "Product v2: Generative AI Call Center (2024)",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "No spam. One email when the private beta opens.",
+    "url": "https://opkit.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/472445-56",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": ": one credential set, used by any protocol.",
+    "url": "https://github.com/ZJUSCT/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "Opkit | Failed Startup Case Study",
+    "url": "https://www.loot-drop.io/startup/1285-opkit",
+    "pass": 3
+   },
+   {
+    "quote": "@realshcallaway will join us for a virtual fireside chat! Sherwood was an early employee at @brexHQ (founder factory!) before founding and exiting Opkit, his own YC-backed startup.",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "This organization has no public members. You must be a member to see who’s a part of this organization.",
+    "url": "https://github.com/opkit/",
+    "pass": 3
+   },
+   {
+    "quote": "The unit economics of healthcare IT platforms are challenging due to the high cost of customer acquisition and integration. Opkit struggled with scaling because...",
+    "url": "https://www.loot-drop.io/startup/1285-opkit",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue streams would include subscription-based pricing for healthcare providers and a commission model tied to cost savings achieved through the platform's efficiencies. In the current economy, offering a tiered pricing model with clear ROI metrics would be crucial to gaining traction.",
+    "url": "https://www.loot-drop.io/startup/1285-opkit",
+    "pass": 3
+   },
+   {
+    "quote": "Today in AI — 11x and Opkit Acquisition",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "The core failure was structural: the initial insurance verification product was too narrow to build a venture-scale business independently, and the pivot to a broader AI call center—while technically validated—arrived too late and with too little runway to attract growth-stage capital on its own terms.",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "Opkit CEO Sherwood Callaway, photographed around the time of the company's August 2024 pivot to a generative AI call center — a bold last bet that arrived too late to secure a Series A.",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "Sherwood Callaway and Justin Ko met in early 2019 as early employees at Brex, the $12 billion fintech startup.",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "The founding thesis was built on an explicit analogy between fintech and healthcare. Callaway articulated it directly: \"Both are regulated industries. At Opkit, what we're doing is integrating with insurance carriers to facilitate transactions related to determining the patient's eligibility and coverage, which is very similar to the kind of thing that we were [doing at Brex].\"",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "— Sherwood Callaway and Justin Ko meet as early employees at Brex, co-building \"Cash,\" a business bank account product.",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "— CB Insights includes Opkit in its Revenue Cycle Management market map.",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "— PitchBook records the Opkit acquisition by 11x (deal date).",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "— 11x announces its $50M Series B led by Andreessen Horowitz and simultaneously discloses the Opkit acquisition.",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "The system could navigate Interactive Voice Response (IVR) phone trees, wait on hold, and conduct conversations with insurance carrier representatives. Calls were recorded, transcribed, and made available for staff review after completion.",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing was usage-based—charged per call initiated and per minute of call duration—positioned as cheaper than offshore call center workers or full-time employees.",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "The revenue cycle management (RCM) market—the broader category encompassing insurance verification, billing, and claims processing—is large. CB Insights included Opkit in its RCM market map in September 2023, validating the category positioning.",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "The company positioned this pricing as cheaper than the alternatives: offshore call center workers or full-time administrative employees. This framing made the value proposition straightforward—Opkit was a cost-reduction tool with a direct labor substitution comparison.",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "No revenue figures, customer counts, or growth metrics were disclosed at any point in Opkit's public life. The absence of a Series A, combined with the acqui-hire outcome, is the strongest available proxy for commercial scale: the company did not reach the revenue or growth trajectory required to attract growth-stage capital independently.",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "1. The Initial Product Was Too Narrow to Build a Standalone Venture-Scale Business",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "2. Constrained Capital Created a Narrow Window for Each Bet",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "The consequence of limited capital was a narrow window for each product bet. When the insurance verification product did not generate the metrics needed for a Series A, the team pivoted—but the pivot was announced in August 2024, and the acquisition deal date was recorded as September 1, 2024.",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "The gap between the pivot announcement and the acquisition was approximately one month, suggesting the two processes overlapped. The company had insufficient runway to prove the new product thesis before needing to find an exit.",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "Callaway's own advice to founders—\"Keep your burn low. Avoid hiring employees until you have complete conviction in your idea—then scale up!\"",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "The acqui-hire by 11x resolved this problem by providing an exit path that valued what Opkit had demonstrably built: a capable AI voice technology stack and a team with deep healthcare domain expertise. 11x acquired Opkit specifically to accelerate its AI voice capabilities for its \"Jordan\" AI phone representative product.",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "The acquirer valued the technology and team, not the customer base or revenue—the definitional structure of an acqui-hire.",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "Opkit's insurance verification product was a legitimate solution to a real problem, but the telehealth-specific niche was too narrow to generate venture-scale revenue on its own. The founders had a broader vision—\"real-time patient payments for covered services\"",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "—but the path from the wedge to that vision required either faster expansion or a larger initial market. Founders entering regulated verticals should validate the expansion path before committing to a narrow initial product.",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "The gap between Opkit's pivot announcement (August 2024) and its acquisition deal date (September 1, 2024) was approximately one month.",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "This is a legitimate and common dynamic at pre-revenue stages. But growth-stage investors evaluate metrics, not pedigree. The team's credibility bought time and capital to find product-market fit—it could not substitute for the revenue growth data that a Series A requires.",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "Opkit 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/472445-56",
+    "pass": 3
+   },
+   {
+    "quote": "4. Merger/Acquisition",
+    "url": "https://pitchbook.com/profiles/company/472445-56",
+    "pass": 3
+   },
+   {
+    "quote": "Opkit has 2 total employees.",
+    "url": "https://pitchbook.com/profiles/company/472445-56",
+    "pass": 3
+   },
+   {
+    "quote": "What is Opkit’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/472445-56",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Opkit is",
+    "url": "https://pitchbook.com/profiles/company/472445-56",
+    "pass": 3
+   },
+   {
+    "quote": "When was Opkit acquired?",
+    "url": "https://pitchbook.com/profiles/company/472445-56",
+    "pass": 3
+   },
+   {
+    "quote": "Opkit was acquired on 01-Sep-2024.",
+    "url": "https://pitchbook.com/profiles/company/472445-56",
+    "pass": 3
+   },
+   {
+    "quote": "Opkit was acquired by",
+    "url": "https://pitchbook.com/profiles/company/472445-56",
+    "pass": 3
+   },
+   {
+    "quote": "Opkit Funding | $64K - $5M Revenue | Complete Analysis | Extruct AI",
+    "url": "https://www.extruct.ai/hub/opkit-co/",
+    "pass": 3
+   },
+   {
+    "quote": "Opkit built AI software that handled routine phone calls for U.S. healthcare organizations. YC described the product as automating verification of benefits, patient intake, and appointment scheduling for medical practices and telehealth companies. LinkedIn and Crunchbase later identified the company as acquired by 11x, with New York as its headquarters.",
+    "url": "https://www.extruct.ai/hub/opkit-co/",
+    "pass": 3
+   },
+   {
+    "quote": ": Specializes in revenue cycle management automation, focusing on optimizing healthcare billing processes. This gives them an edge in efficiency and accuracy in billing, which is crucial for healthcare providers.",
+    "url": "https://www.extruct.ai/hub/opkit-co/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Opkit — the AI management tool for artists running their own show — opkit v0 · private beta soon The AI management tool for artists running their own show. Opkit is a crew of AI agents that handle advances, settlements, fans, and the boring spine of the industry — so you can focus your energy where you want to: on the music. Built to empower independent artists.",
+    "url": "https://opkit.ai/",
+    "pass": 3
+   },
+   {
+    "quote": "GitHub - ZJUSCT/opkit: Anything with a protocol can be ... — opkit Anything with a protocol can be connected and operated. opkit 是面向 AI Agent 运维场景的设备连接中间件，Agent 通过它连接、操作各类设备。 它负责： opkit is a device-connectivity middleware for AI-agent-driven operations: agents connect to and operate all kinds of devices through it. It is responsible for:",
+    "url": "https://github.com/ZJUSCT/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "Opkit: 医療機関向け AI 電話通話自動化 — Opkitは、医療機関のルーチン電話通話をAIで自動化する、HIPAA準拠のソリューションです。福利確認、患者受付、予約スケジューリングなど、非臨床的なタスクを自動化し、スタッフの時間を解放します。",
+    "url": "https://huntscreens.com/ja/products/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "opkit - GitHub — opkit Popular repositories opensea-bot Public opensea automated operation robot, automatic placing orders and automatic purchases Go 1",
+    "url": "https://github.com/opkit/",
+    "pass": 3
+   },
+   {
+    "quote": "OpKit | Infrastructure for Token Operators — Infrastructure and tooling for token operators. Build, operate, and scale.",
+    "url": "https://opkit.app/",
+    "pass": 3
+   },
+   {
+    "quote": "Opkit — управление командой, проектами и KPI со встроенным ИИ — Opkit — операционная система агентства: проекты, задачи, чаты, документы и KPI в одном контуре. Подходит агентствам, студиям и сервисным компаниям, которые ведут работу для внешних заказчиков.",
+    "url": "https://opkit.kz/",
+    "pass": 3
+   },
+   {
+    "quote": "Opkit - LinkedIn — Opkit is a Y Combinator-backed startup building AI phone calls for the healthcare industry. Our HIPAA-compliant software platform automates routine, essential phone calls for healthcare provider ...",
+    "url": "https://www.linkedin.com/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "Opkit - jasonlzhu.com — Opkit offers a developer-centric platform for health insurance verification, gaining traction among top-tier organizations in the healthcare industry. As a YC-backed venture, their objective was to create a pitch deck that clearly conveys their innovative approach — an achievement highlighted by a Business Insider article feature.",
+    "url": "https://www.jasonlzhu.com/project/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "Opkit | Failed Startup Case Study — Opkit aimed to revolutionize Healthcare IT by providing a seamless platform for managing health insurance verification and processing. The core problem was the overwhelming complexity and inefficiency in handling insurance claims and eligibility verification, which often resulted in delayed reimbursements and increased administrative costs.",
+    "url": "https://www.loot-drop.io/startup/1285-opkit",
+    "pass": 3
+   },
+   {
+    "quote": "Opkit Customers - CB Insights — How Opkit benefits their customers Customers evaluate the quality of Opkit’s products using the following success metrics.",
+    "url": "https://www.cbinsights.com/company/opkit/customers",
+    "pass": 3
+   },
+   {
+    "quote": "Opkit (S21) - Startups.RIP — This is a high-quality qualitative signal—a customer describing the product as operationally essential is meaningful—but two named beta clients at the time of a pivot announcement suggests the commercial base was still early. No revenue figures, customer counts, or growth metrics were disclosed at any point in Opkit's public life.",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "Opkit Pitch Deck: All 8 Slides + Teardown — Opkit’s seed deck is a study in brevity and narrative clarity. Across just eight slides, the founders identify a specific, painful bottleneck in the telehealth workflow: insurance verification. The deck succeeds by using direct customer quotes to validate the problem and positioning the solution as a developer-friendly API, drawing a clear parallel to su",
+    "url": "https://startupfundraising.com/library/articles/opkit-pitch-deck-teardown",
+    "pass": 3
+   },
+   {
+    "quote": "Opkit: Revenue, Worth, Valuation & Competitors 2026 — Opkit’s size and scale show in estimated revenue of $64K, team of around 1-10 employees (New York City), helping shape its business journey.",
+    "url": "https://compworth.com/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "Opkit 2026 Company Profile: Valuation, Investors, Acquisition ...Opkit - 2026 Company Profile, Team, Funding & Competitors ...Opkit Funding | $64K - $5M Revenue | Complete AnalysisOpkit - Overview, News & Similar companies | ZoomInfo.comOpkey Revenue 2025: $32.7M Est. - getlatka.comKit (formerly ConvertKit): founders, history and what ... — What is Opkit’s current revenue? The current revenue for ",
+    "url": "https://pitchbook.com/profiles/company/472445-56",
+    "pass": 3
+   },
+   {
+    "quote": "Opkit - 2026 Company Profile, Team, Funding & Competitors ...Opkit Funding | $64K - $5M Revenue | Complete AnalysisOpkit - Overview, News & Similar companies | ZoomInfo.comOpkey Revenue 2025: $32.7M Est. - getlatka.comKit (formerly ConvertKit): founders, history and what ... — Aug 15, 2026 · Opkit is a seed company based in New York City (United States), founded in 2021 by Sherwood Callaway and Ju",
+    "url": "https://tracxn.com/d/companies/opkit/__FgdgAM64Q8RsyeOHNGu2xRLqTYJJo0qra3gLotFNcJg",
+    "pass": 3
+   },
+   {
+    "quote": "Opkit Funding | $64K - $5M Revenue | Complete Analysis — Explore Opkit complete analysis: product features, pricing model, market positioning, and business strategy.",
+    "url": "https://www.extruct.ai/hub/opkit-co/",
+    "pass": 3
+   },
+   {
+    "quote": "Opkit - Overview, News & Similar companies | ZoomInfo.com — View Opkit (opkit.co) location in New York, United States , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+    "url": "https://www.zoominfo.com/c/opkit-inc/566143339",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Modernizing home health care agencies with software, hardware, and…",
+    "url": "https://startups.rip/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": ": Provides comprehensive telehealth support services, including white-label clinical support. Their emphasis on telehealth solutions may attract organizations looking to enhance their remote healthcare offerings.",
+    "url": "https://www.extruct.ai/hub/opkit-co/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Opkit (@realopkit) / Posts / X Opkit. realopkit. Joined: Jun 13, 2021. 0 Posts. 3 Following. 9 Followers. Posts. Explore Trending Stories Go to Home Search X News",
+    "url": "https://x.com/realopkit",
+    "pass": 3
+   },
+   {
+    "quote": "Congrats @shcallaway and Justin on the launch of Opkit! Opkit ... Y Combinator (@ycombinator). 10 likes. Congrats @shcallaway and Justin on the launch of Opkit! Opkit (YC S21) is a modern, developer-friendly health insurance verification platform for telehealth companies that makes it easy to collect, verify and track patients' health insurance:",
+    "url": "https://x.com/ycombinator/status/1633181693082484736",
+    "pass": 3
+   },
+   {
+    "quote": "2b2eのshop始めました！ オープン記念でわたくし自作のopkitが27個と... 2b2eのshop始めました！ オープン記念でわたくし自作のopkitが27個と激レアツールkitが当たるキャンペーン開催中です！ 品揃えも充実レアkit多数揃えておりますので是非参加くださいませ！ #2b2e",
+    "url": "https://x.com/Sora_ztmy1191/status/1655861163161444352",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Opkit - LinkedIn Opkit is a Y Combinator-backed startup building AI phone calls for the healthcare industry. Our HIPAA-compliant software platform automates routine, essential phone calls for healthcare provider ...",
+    "url": "https://www.linkedin.com/company/opkit",
+    "pass": 3
+   },
+   {
+    "quote": "Jamie Robinson - CEO at OPKIT Kitty Sponsorship Program Inc ...Opkit on LinkedIn: Opkit Product Demo - November 2023Opkit launches AI call center solution | Opkit posted on the ...How Opkit's human-in-the-loop model works - LinkedInSherwood Callaway - Founder @ Sazabi Creator @ cve.now o11y ... CEO at OPKIT Kitty Sponsorship Program Inc · Experience: OPKIT Kitty Sponsorship Program Inc · Location:",
+    "url": "https://www.linkedin.com/in/jamie-robinson-349945bb",
+    "pass": 3
+   },
+   {
+    "quote": "Opkit on LinkedIn: Opkit Product Demo - November 2023 Opkit can help these orgs execute mission-critical phone calls faster, less expensively, and more accurately than ever before.",
+    "url": "https://www.linkedin.com/posts/opkit_opkit-product-demo-november-2023-activity-7135675949492113408-9wko",
+    "pass": 3
+   },
+   {
+    "quote": "Opkit launches AI call center solution | Opkit posted on the ... Opkit uses a human-in-the-loop to handle edge-cases and ensure phone calls are completed successfully, providing peace of mind for our customers. 😌 Our modern SaaS platform is priced ...",
+    "url": "https://www.linkedin.com/posts/opkit_healthcare-healthtech-digitalhealth-activity-7226965666841440258-9zwz",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "OPKIT - Facebook Mar 29, 2022 · OPKIT Feb 6, 2022 PUBLIC GROUP · 712.9K MEMBERS Love Meow Meow JOIN OPKIT Feb 6, 2022 The Catty Shack Cat Rescue Feb 5, 2022 OPKIT Feb 6, 2022 Buddies Place Cat Rescue Feb 5, 2022 OPKIT Feb 3, 2022 Trap Neuter Return - TNR - North Platte ...",
+    "url": "https://www.facebook.com/p/OPKIT-100064592683890/",
+    "pass": 3
+   },
+   {
+    "quote": "OPKIT Fundraising - Public Auctions | Facebook OPKIT Kitty Sponsorship Program Inc began in June of 2013, with the intent of helping cats get saved from high kill shelters by donating money to the professional rescue groups who save them. \"Pledges\" are commonly made on Facebook animal shelter pages as a way to help rescue groups afford to save cats, but many times these pledges go unpaid or take d",
+    "url": "https://www.facebook.com/groups/1084050741611616/",
+    "pass": 3
+   },
+   {
+    "quote": "OPKIT Success Stories - FacebookGolden Oldies Retirement Home for Cats, Dogs, and Horses, by ...OPKIT - FacebookOPKIT Inc. Fundraising Auctions - FacebookOpkit | New York NY - Facebook Apr 3, 2023 · OPKIT Success Stories Jan 19, 2017 We try to help the kitties that have the least chance of all, whenever possible. Ambrose is an extremely feral boy who was stuck in the Whiteville, NC shelter. He was",
+    "url": "https://www.facebook.com/opkitsuccessstories/",
+    "pass": 3
+   },
+   {
+    "quote": "Golden Oldies Retirement Home for Cats, Dogs, and Horses, by ...OPKIT - FacebookOPKIT Inc. Fundraising Auctions - FacebookOpkit | New York NY - Facebook Good Morning everyone! It's a beautiful day, no smoke here this morning! I don't have the latest fire report yet, I'll find out later and update you all. 🙂 Golden Oldies Retirement Home for Cats, Dogs, and Horses, by Opkit is with Debra Mitchell. ",
+    "url": "https://www.facebook.com/TailsUpHappyCatSanctuary/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://opkit.co/",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://opkit.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/ZJUSCT/opkit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://huntscreens.com/ja/products/opkit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/opkit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.redhat.com/ja/explore/information/corporate-profile",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oki.com/global/profile/info/group/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oki-osk.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://opkit.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://opkit.kz/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://github.com/ZJUSCT/opkit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/opkit",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.loot-drop.io/startup/1285-opkit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cbinsights.com/company/opkit/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://blogs.sw.siemens.com/opcenter/category/customer-success-story/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://startups.rip/company/opkit",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://upcloud.com/global/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/opkit",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/472445-56",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/opkit/__FgdgAM64Q8RsyeOHNGu2xRLqTYJJo0qra3gLotFNcJg",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.extruct.ai/hub/opkit-co/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/realopkit",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ycombinator/status/1633181693082484736",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Sora_ztmy1191/status/1655861163161444352",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/opkit",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jamie-robinson-349945bb",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/opkit_opkit-product-demo-november-2023-activity-7135675949492113408-9wko",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/opkit_healthcare-healthtech-digitalhealth-activity-7226965666841440258-9zwz",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/OPKIT-100064592683890/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/1084050741611616/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/opkitsuccessstories/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TailsUpHappyCatSanctuary/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/realopkit",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/Sora_ztmy1191/status/1655861163161444352",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Opkit 日本 導入",
+   "results": [
+    "https://opkit.ai/",
+    "https://github.com/ZJUSCT/opkit",
+    "https://huntscreens.com/ja/products/opkit",
+    "https://github.com/opkit/",
+    "https://opkit.app/",
+    "https://www.botinkit.co.jp/post/20250117-01",
+    "https://www.oec.okaya.co.jp/product/softwarecloud/microsoft-embedded/license/opk-req/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Opkit 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.redhat.com/ja/explore/information/corporate-profile",
+    "https://www.oki.com/global/profile/info/group/index.html",
+    "https://www.oki-osk.jp/",
+    "https://ja.nozominetworks.com/company",
+    "https://www.u-blox.com/en/about-us/sales-network-offices/japan-2",
+    "https://www.ipsen.com/japan/会社/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Opkit Japan",
+   "results": [
+    "https://opkit.ai/",
+    "https://opkit.kz/",
+    "https://github.com/ZJUSCT/opkit",
+    "https://www.linkedin.com/company/opkit",
+    "https://www.jasonlzhu.com/project/opkit",
+    "https://opkit.app/",
+    "https://github.com/opkit/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Opkit manufacturing customer case study",
+   "results": [
+    "https://www.loot-drop.io/startup/1285-opkit",
+    "https://www.cbinsights.com/company/opkit/customers",
+    "https://blogs.sw.siemens.com/opcenter/category/customer-success-story/",
+    "https://startups.rip/company/opkit",
+    "https://startupfundraising.com/library/articles/opkit-pitch-deck-teardown",
+    "https://www.jasonlzhu.com/project/opkit",
+    "https://reforgers.com/startups/opkit"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Opkit white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://upcloud.com/partner-program/",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://www.thenationalcouncil.org/get-involved/partner-with-us/partnership-program/",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Opkit founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/opkit",
+    "https://pitchbook.com/profiles/company/472445-56",
+    "https://tracxn.com/d/companies/opkit/__FgdgAM64Q8RsyeOHNGu2xRLqTYJJo0qra3gLotFNcJg",
+    "https://www.extruct.ai/hub/opkit-co/",
+    "https://www.zoominfo.com/c/opkit-inc/566143339",
+    "https://getlatka.com/companies/opkey.com",
+    "https://www.founded.org/companies/kit/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Opkit",
+   "results": [
+    "https://note.com/",
+    "https://note.com/xpink_pantherx/n/n64b327254446?hl=en",
+    "https://note.com/xpink_pantherx/n/ne0c583847d89?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/chikama_teppei/n/nd5b65fb5e514"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Opkit",
+   "results": [
+    "https://x.com/realopkit",
+    "https://x.com/ycombinator/status/1633181693082484736",
+    "https://x.com/Sora_ztmy1191/status/1655861163161444352",
+    "https://x.com/Opanarchyai",
+    "https://x.com/akatoshouse/status/1986864547680882787",
+    "https://x.com/OPCraft",
+    "https://x.com/Full_O_Freedom"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Opkit",
+   "results": [
+    "https://www.linkedin.com/company/opkit",
+    "https://www.linkedin.com/in/jamie-robinson-349945bb",
+    "https://www.linkedin.com/posts/opkit_opkit-product-demo-november-2023-activity-7135675949492113408-9wko",
+    "https://www.linkedin.com/posts/opkit_healthcare-healthtech-digitalhealth-activity-7226965666841440258-9zwz",
+    "https://www.linkedin.com/pulse/how-opkits-human-in-the-loop-model-works-sherwood-callaway-7xvtc",
+    "https://www.linkedin.com/posts/opkit_healthcare-digitalhealth-ai-activity-7229889361658474497-wbYs",
+    "https://www.linkedin.com/in/sherwoodcallaway"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Opkit",
+   "results": [
+    "https://www.facebook.com/p/OPKIT-100064592683890/",
+    "https://www.facebook.com/groups/1084050741611616/",
+    "https://www.facebook.com/opkitsuccessstories/",
+    "https://www.facebook.com/TailsUpHappyCatSanctuary/",
+    "https://www.facebook.com/100064592683890/",
+    "https://www.facebook.com/groups/717946244885020/",
+    "https://www.facebook.com/61563872993791/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Opkit note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://opkit.ai/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://fundup.ai/recently-funded-startups/company/014239dc40a9b7cd7a311af66ebbd0b6ee34eb2f1fa306efbb5020665c8b462c/opkit",
+    "https://note.com/sadaaki"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Opkit X 投稿",
+   "results": [
+    "https://x.com/realopkit",
+    "https://opkit.ai/",
+    "https://x.com/Sora_ztmy1191/status/1655861163161444352",
+    "https://github.com/opkit/",
+    "https://opkit.app/",
+    "https://evolvingvillage.com/personal-brand-submit/",
+    "https://x.com/twitcasting_jp/status/2100831269575868441"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部37頁・検索12回）"
+ }
+}

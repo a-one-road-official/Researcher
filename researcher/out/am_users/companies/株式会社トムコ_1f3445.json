@@ -1,0 +1,707 @@
+{
+ "name": "株式会社トムコ",
+ "aliases": [],
+ "context": "ipros_all:多品種",
+ "researched_at": "2026-11-11T11:12:29.242871+00:00",
+ "official_url": "http://www.tomco-web.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "群馬県前橋市天川大島町1351番地（前橋東工業団地） TEL:027-263-1031(代) FAX:027-261-0065",
+    "url": "http://www.tomco-web.co.jp/company/data.html",
+    "pass": 1
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　松井 治樹",
+    "url": "http://www.tomco-web.co.jp/company/data.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱材料": [
+   {
+    "quote": "同時5軸マシニングセンタによる切削機械加工、超音波加工機によるセラミックなどの難削材加工",
+    "url": "http://www.tomco-web.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "同時5軸マシニングセンタによる切削機械加工、超音波加工機によるセラミックなどの難削材加工",
+    "url": "http://www.tomco-web.co.jp/products/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "同時5軸マシニングセンタによる切削機械加工、超音波加工機によるセラミックなどの難削材加工",
+    "url": "http://www.tomco-web.co.jp/company/data.html",
+    "pass": 1
+   },
+   {
+    "quote": "（超硬、セラミック、シリコン、ガラス、宝石等）",
+    "url": "http://www.tomco-web.co.jp/company/data.html",
+    "pass": 1
+   },
+   {
+    "quote": "同時5軸マシニングセンタによる切削機械加工、超音波加工機によるセラミックなどの難削材加工",
+    "url": "http://www.tomco-web.co.jp/company/recruit.html",
+    "pass": 1
+   },
+   {
+    "quote": "同時5軸マシニングセンタによる切削機械加工、超音波加工機によるセラミックなどの難削材加工",
+    "url": "http://www.tomco-web.co.jp/information/access.html",
+    "pass": 1
+   },
+   {
+    "quote": "同時5軸マシニングセンタによる切削機械加工、超音波加工機によるセラミックなどの難削材加工",
+    "url": "http://www.tomco-web.co.jp/technology/nansaku.html",
+    "pass": 1
+   },
+   {
+    "quote": "超硬、セラミックス、シリコン、ガラス、マグネット等",
+    "url": "http://www.tomco-web.co.jp/technology/nansaku.html",
+    "pass": 1
+   },
+   {
+    "quote": "トムコでは、超音波加工機による難削材機械加工を採用することで、超硬、セラミックス、シリコン、マグネット等の加工を可能にし、ネジ、穴あけ、溝、面取り、形状出し、荒、仕上げ加工にも対応できる体勢を整えました",
+    "url": "http://www.tomco-web.co.jp/technology/nansaku.html",
+    "pass": 1
+   },
+   {
+    "quote": "超硬、セラミックス、シリコン、ガラス、マグネット等が加工可能",
+    "url": "http://www.tomco-web.co.jp/technology/nansaku.html",
+    "pass": 1
+   },
+   {
+    "quote": "同時5軸マシニングセンタによる切削機械加工、超音波加工機によるセラミックなどの難削材加工",
+    "url": "http://www.tomco-web.co.jp/facilities/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "同時5軸マシニングセンタによる切削機械加工、超音波加工機によるセラミックなどの難削材加工",
+    "url": "http://www.tomco-web.co.jp/company/greeting.html",
+    "pass": 1
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "製品 | 5軸マシニング加工・旋盤加工・難削材加工・ラピッド砂型製作【株式会社トムコ】-TOMCO-",
+    "url": "http://www.tomco-web.co.jp/products/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "こうしたお客さまの要求に応える製品づくりに挑んでいるのが私たちトムコです",
+    "url": "http://www.tomco-web.co.jp/products/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "従来の工法による難削材加工では、「製品の欠け、クラック、チッピングが発生する」、「高精度加工が困難」、「ネジ加工や溝加工が不可能に近い」などの問題をどうしても解決することができませんでした",
+    "url": "http://www.tomco-web.co.jp/technology/nansaku.html",
+    "pass": 1
+   },
+   {
+    "quote": "しかも、製品サイクルの短縮化やニーズの多様化により、",
+    "url": "http://www.tomco-web.co.jp/company/greeting.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス(1)",
+    "url": "https://www.ipros.com/company/detail/2116550/",
+    "pass": 3
+   },
+   {
+    "quote": "ケミカル製品の運搬や強力吸引車(パワープロベスター)を使用した工場内清掃作業、",
+    "url": "https://www.ipros.com/company/detail/2116550/",
+    "pass": 3
+   },
+   {
+    "quote": "他にもケミカル製品の製品手配や、特殊車両の販売など企業の頼れるパートナーとして",
+    "url": "https://www.ipros.com/company/detail/2116550/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (1)",
+    "url": "https://www.ipros.com/company/detail/2116550/",
+    "pass": 3
+   },
+   {
+    "quote": "トムコが取り扱う特殊車両・中古車のラインナップです",
+    "url": "https://tomuco.co.jp/svstock/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "航空・宇宙産業から自動車、エレクトロニクスまで",
+    "url": "http://www.tomco-web.co.jp/products/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "・宇宙産業や、安全で快適な走行性と環境へのやさしさを追求する",
+    "url": "http://www.tomco-web.co.jp/products/index.html",
+    "pass": 1
+   },
+   {
+    "quote": "■宇宙航空部品 ■自動車部品 ■産業機械用部品",
+    "url": "http://www.tomco-web.co.jp/company/data.html",
+    "pass": 1
+   },
+   {
+    "quote": "ホース治具やネジの変換などの製作物にも対応、液種や仕様の要望から最適な物を選定し、一日でも早く納品します",
+    "url": "https://tomuco.co.jp/svstock/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "NCオペレーター、MCオペレーター、CAD・CAMオペレーター",
+    "url": "http://www.tomco-web.co.jp/company/recruit.html",
+    "pass": 1
+   },
+   {
+    "quote": "HYDEが本人監修の同人誌「HYDEism」を発表し物議を醸す！？ネガティブな意見に物申す｜Vampire's Talk",
+    "url": "https://note.com/v_kei_daisuki/n/n84bf0805a587",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式 会社トムコ ｜運輸・物流・環境 事業 で地域・岡山を支える ... — 株式 会社トムコ ｜運輸・物流・環境 事業 で地域・岡山を支える ... tomuco.co.jp https://tomuco.co.jp",
+    "url": "https://tomuco.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "会社 案内 - 株式会社トムコ — 会社 案内 - 株式会社トムコ 株式会社トムコ https://www.tomuko.co.jp > company",
+    "url": "https://www.tomuko.co.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "トムコ | 企業 情報 - イプロス — トムコ | 企業 情報 - イプロス 製造業向け情報検索サイト イプロスものづくり https://www.ipros.com > 運輸業",
+    "url": "https://www.ipros.com/company/detail/2116550/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社トムコ の企業 情報 - 転職はアンドプロ — 株式 会社トムコ の企業 情報 - 転職はアンドプロ アンドプロ https://and-pro.jp > company-info-39467",
+    "url": "https://and-pro.jp/company-info-39467/",
+    "pass": 3
+   },
+   {
+    "quote": "株式 会社トムコ - Metoree — 株式 会社トムコ - Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/18306/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | 株式会社 トムコ — お問い合わせ | 株式会社 トムコ tomcomfg.co.jp http://www.tomcomfg.co.jp > contact",
+    "url": "http://www.tomcomfg.co.jp/contact/index.html",
+    "pass": 3
+   },
+   {
+    "quote": "お問合せ - 株式会社トムコ — お問合せ - 株式会社トムコ 株式会社トムコ https://www.tomuko.co.jp > contact",
+    "url": "https://www.tomuko.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 トムコ - 問い合わせ — 株式会社 トムコ - 問い合わせ tomuco-tokusha.com https://tomuco-tokusha.com > contact",
+    "url": "https://tomuco-tokusha.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "（株） トムコ 須磨・長田店 - リフォーム - TOTO — （株） トムコ 須磨・長田店 - リフォーム - TOTO TOTO株式会社 https://jp.toto.com > reform > remodelclub > RCC76403",
+    "url": "https://jp.toto.com/reform/remodelclub/RCC76403/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "新着車両の入庫情報をメールでお知らせします",
+    "url": "https://tomuco.co.jp/svstock/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "株式会社 トムコ (@tomuko_soumu) / X 株式会社 トムコ (@tomuko_soumu) / X X https://x.com > tomuko_soumu",
+    "url": "https://x.com/tomuko_soumu",
+    "pass": 3
+   },
+   {
+    "quote": "Hyde on X: \"[STAFF] イラストレーター・ トムコ さんによる ... Hyde on X: \"[STAFF] イラストレーター・ トムコ さんによる ... X https://x.com > @HydeOfficial_",
+    "url": "https://x.com/HydeOfficial_/status/1877188915389768139",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "satoshi kuge - 株式会社 トムコ - 総務部 - LinkedIn satoshi kuge - 株式会社 トムコ - 総務部 - LinkedIn LinkedIn https://jp.linkedin.com > ...",
+    "url": "https://jp.linkedin.com/in/satoshi-kuge-72a245352",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "ポケカ詐欺に遭いnoteで発信！？ポケカ投資2年で資産300万トムコロの... Dec 10, 2023 · 本格的にポケカ投資家としてのトムコロスタート！ そこから本格的にポケカ投資をスタートします。 今でも覚えている，スターバースを様々な店舗で12箱購入したところから私のポケカ投資は始まりました！ （この当時はまだ手に入りました） そこからは",
+    "url": "https://note.com/kitaitigasubete/n/n55c15b670664",
+    "pass": 3
+   },
+   {
+    "quote": "HYDEが本人監修の同人誌「HYDEism」を発表し物議を醸す！？ネガティブ... Jan 9, 2025 · [STAFF] イラストレーター・トムコさんによる描き下ろし同人誌『HYDEism』がHYDE全面監修により完成！ 実話をもとにトムコさんが描きおろした様々なHYDEがてんこ盛り！ 是非チェックしてください！ 受注期間：2025/1/29～2/16 ※受注の詳細は追って発表いたします。",
+    "url": "https://note.com/v_kei_daisuki/n/n84bf0805a587",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "ポケカ詐欺に遭いnoteで発信！？ポケカ投資２年で資産300万トムコロの自己紹介｜トムコロ",
+    "url": "https://note.com/kitaitigasubete/n/n55c15b670664",
+    "pass": 3
+   },
+   {
+    "quote": "ポケカ詐欺に遭いnoteで発信！？ポケカ投資２年で資産300万トムコロの自己紹介",
+    "url": "https://note.com/kitaitigasubete/n/n55c15b670664",
+    "pass": 3
+   },
+   {
+    "quote": "ポケカ投資をはじめ2年で300万の資産を形成できたトムコロ。元々はポケカ投資は情報が命！と思っていることもあり，ノウハウなど細かくは発信してきませんでした。",
+    "url": "https://note.com/kitaitigasubete/n/n55c15b670664",
+    "pass": 3
+   },
+   {
+    "quote": "そんな私がなぜnoteで発信を始めたのか？",
+    "url": "https://note.com/kitaitigasubete/n/n55c15b670664",
+    "pass": 3
+   },
+   {
+    "quote": "自己紹介を含め，note発信に至った経緯や想いなどをお伝えできたらと思います。大きな「きっかけ」は人の考えを一瞬で変えるものですね。",
+    "url": "https://note.com/kitaitigasubete/n/n55c15b670664",
+    "pass": 3
+   },
+   {
+    "quote": "ポケカ投資歴2年・300万円の資産を築いた現役教師トムコロの自己紹介",
+    "url": "https://note.com/kitaitigasubete/n/n55c15b670664",
+    "pass": 3
+   },
+   {
+    "quote": "20代の現役の教師（教員採用試験は3回目で合格）",
+    "url": "https://note.com/kitaitigasubete/n/n55c15b670664",
+    "pass": 3
+   },
+   {
+    "quote": "現在は男性での育休を10ヶ月取得中の愛妻家",
+    "url": "https://note.com/kitaitigasubete/n/n55c15b670664",
+    "pass": 3
+   },
+   {
+    "quote": "HYDEが本人監修の同人誌「HYDEism」を発表し物議を醸す！？ネガティブな意見に物申す｜Vampire's Talk",
+    "url": "https://note.com/v_kei_daisuki/n/n84bf0805a587",
+    "pass": 3
+   },
+   {
+    "quote": "HYDEが本人監修の同人誌「HYDEism」を発表し物議を醸す！？ネガティブな意見に物申す",
+    "url": "https://note.com/v_kei_daisuki/n/n84bf0805a587",
+    "pass": 3
+   },
+   {
+    "quote": "※この動画は下のYouTubeラジオの台本のようなものです。ぜひ動画で臨場感込みでお楽しみください！",
+    "url": "https://note.com/v_kei_daisuki/n/n84bf0805a587",
+    "pass": 3
+   },
+   {
+    "quote": "イラストレーター・トムコさんによる描き下ろし同人誌『HYDEism』がHYDE全面監修により完成！",
+    "url": "https://note.com/v_kei_daisuki/n/n84bf0805a587",
+    "pass": 3
+   },
+   {
+    "quote": "実話をもとにトムコさんが描きおろした様々なHYDEがてんこ盛り！",
+    "url": "https://note.com/v_kei_daisuki/n/n84bf0805a587",
+    "pass": 3
+   },
+   {
+    "quote": "pic.twitter.com/XfIv5HAkAx",
+    "url": "https://note.com/v_kei_daisuki/n/n84bf0805a587",
+    "pass": 3
+   },
+   {
+    "quote": "— Hyde (@HydeOfficial_)",
+    "url": "https://note.com/v_kei_daisuki/n/n84bf0805a587",
+    "pass": 3
+   },
+   {
+    "quote": "気持ちは分かる、手の届かない存在でいて欲しかった",
+    "url": "https://note.com/v_kei_daisuki/n/n84bf0805a587",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "トムコ 様の社員の方が撮影された写真をきっかけに、今回の ... トムコ 様の社員の方が撮影された写真をきっかけに、今回の ... Facebook https://www.facebook.com > アイデアル株式会社 > Videos",
+    "url": "https://www.facebook.com/idealxcojp/videos/%E5%88%B6%E4%BD%9C%E5%AE%9F%E7%B8%BE%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%88%E3%83%A0%E3%82%B3%E6%A7%98%E3%81%AEweb%E3%82%B5%E3%82%A4%E3%83%88%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%83%93%E3%83%A5%E3%83%BC%E5%8B%95%E7%94%BB%E3%81%AE%E3%83%A1%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0%E6%98%A0%E5%83%8F%E3%82%92%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99%E6%92%AE%E5%BD%B1%E5%BD%93%E6%97%A5%E3%83%88%E3%83%A0%E3%82%B3%E6%A7%98%E3%81%AE%E7%A4%BE%E5%93%A1%E3%81%AE%E6%96%B9%E3%81%8C%E6%92%AE%E5%BD%B1%E3%81%95%E3%82%8C%E3%81%9F%E5%86%99%E7%9C%9F%E3%82%92%E3%81%8D%E3%81%A3%E3%81%8B%E3%81%91%E3%81%AB%E4%BB%8A%E5%9B%9E%E3%81%AE%E3%83%A1%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0%E6%98%A0/932912392803224/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 トムコ | Kobe-shi Hyogo - Facebook 株式会社 トムコ | Kobe-shi Hyogo - Facebook Facebook https://www.facebook.com > ... > 小売・販売",
+    "url": "https://www.facebook.com/tomuko1950/?locale=ja_JP",
+    "pass": 3
+   },
+   {
+    "quote": "WORKS - 制作実績 - 株式会社 トムコ 様の「Web ... - Facebook WORKS - 制作実績 - 株式会社 トムコ 様の「Web ... - Facebook Facebook https://www.facebook.com > daiichi.video > posts > work...",
+    "url": "https://www.facebook.com/daiichi.video/posts/works-%E5%88%B6%E4%BD%9C%E5%AE%9F%E7%B8%BE-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%88%E3%83%A0%E3%82%B3%E6%A7%98%E3%81%AEweb%E3%82%B5%E3%82%A4%E3%83%88%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%83%93%E3%83%A5%E3%83%BC%E5%8B%95%E7%94%BB%E3%81%AE%E3%83%A1%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0%E6%98%A0%E5%83%8F%E3%82%92%E5%88%B6%E4%BD%9C%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E6%92%AE%E5%BD%B1%E5%BD%93%E6%97%A5%E3%83%88%E3%83%A0%E3%82%B3%E6%A7%98%E3%81%AE%E7%A4%BE%E5%93%A1%E3%81%AE%E6%96%B9%E3%81%8C%E6%92%AE%E5%BD%B1%E3%81%95%E3%82%8C%E3%81%9F%E5%86%99%E7%9C%9F%E3%82%92%E3%81%8D%E3%81%A3%E3%81%8B%E3%81%91%E3%81%AB%E4%BB%8A%E5%9B%9E/1371778501789035/",
+    "pass": 3
+   },
+   {
+    "quote": "制作実績／ 株式会社 トムコ 様の「Webサイト ... - Facebook 制作実績／ 株式会社 トムコ 様の「Webサイト ... - Facebook Facebook https://www.facebook.com > idealxcojp > posts > 制作実...",
+    "url": "https://www.facebook.com/idealxcojp/posts/%E5%88%B6%E4%BD%9C%E5%AE%9F%E7%B8%BE%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%88%E3%83%A0%E3%82%B3%E6%A7%98%E3%81%AEweb%E3%82%B5%E3%82%A4%E3%83%88%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%83%93%E3%83%A5%E3%83%BC%E5%8B%95%E7%94%BB%E3%81%AE%E3%83%A1%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0%E6%98%A0%E5%83%8F%E3%82%92%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99%E6%92%AE%E5%BD%B1%E5%BD%93%E6%97%A5%E3%83%88%E3%83%A0%E3%82%B3%E6%A7%98%E3%81%AE%E7%A4%BE%E5%93%A1%E3%81%AE%E6%96%B9%E3%81%8C%E6%92%AE%E5%BD%B1%E3%81%95%E3%82%8C%E3%81%9F%E5%86%99%E7%9C%9F%E3%82%92%E3%81%8D%E3%81%A3%E3%81%8B%E3%81%91%E3%81%AB%E4%BB%8A%E5%9B%9E%E3%81%AE%E3%83%A1%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0%E6%98%A0/2051635829110838/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://www.tomco-web.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.tomco-web.co.jp/products/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.tomco-web.co.jp/company/data.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.tomco-web.co.jp/company/recruit.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.tomco-web.co.jp/information/access.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.tomco-web.co.jp/technology/nansaku.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.tomco-web.co.jp/facilities/index.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.tomco-web.co.jp/company/greeting.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "http://www.tomco-web.co.jp/products/img/img-products-01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.tomco-web.co.jp/products/img/img-products-02.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.tomco-web.co.jp/products/img/img-products-03.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "http://www.tomco-web.co.jp/products/img/img-products-04.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=rL1D8Ah3h3g",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mfg-hack.com/plastic/10134/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tomuco.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tomuko.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ipros.com/company/detail/2116550/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.tomcomfg.co.jp/contact/index.html",
+    "status": "network_error:ConnectTimeout",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tomuko.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tomuco.co.jp/svstock/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/tomuko_soumu",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HydeOfficial_/status/1877188915389768139",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/satoshi-kuge-72a245352",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/kitaitigasubete/n/n55c15b670664",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/v_kei_daisuki/n/n84bf0805a587",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/idealxcojp/videos/%E5%88%B6%E4%BD%9C%E5%AE%9F%E7%B8%BE%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%88%E3%83%A0%E3%82%B3%E6%A7%98%E3%81%AEweb%E3%82%B5%E3%82%A4%E3%83%88%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%83%93%E3%83%A5%E3%83%BC%E5%8B%95%E7%94%BB%E3%81%AE%E3%83%A1%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0%E6%98%A0%E5%83%8F%E3%82%92%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99%E6%92%AE%E5%BD%B1%E5%BD%93%E6%97%A5%E3%83%88%E3%83%A0%E3%82%B3%E6%A7%98%E3%81%AE%E7%A4%BE%E5%93%A1%E3%81%AE%E6%96%B9%E3%81%8C%E6%92%AE%E5%BD%B1%E3%81%95%E3%82%8C%E3%81%9F%E5%86%99%E7%9C%9F%E3%82%92%E3%81%8D%E3%81%A3%E3%81%8B%E3%81%91%E3%81%AB%E4%BB%8A%E5%9B%9E%E3%81%AE%E3%83%A1%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0%E6%98%A0/932912392803224/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tomuko1950/?locale=ja_JP",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/daiichi.video/posts/works-%E5%88%B6%E4%BD%9C%E5%AE%9F%E7%B8%BE-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%88%E3%83%A0%E3%82%B3%E6%A7%98%E3%81%AEweb%E3%82%B5%E3%82%A4%E3%83%88%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%83%93%E3%83%A5%E3%83%BC%E5%8B%95%E7%94%BB%E3%81%AE%E3%83%A1%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0%E6%98%A0%E5%83%8F%E3%82%92%E5%88%B6%E4%BD%9C%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E6%92%AE%E5%BD%B1%E5%BD%93%E6%97%A5%E3%83%88%E3%83%A0%E3%82%B3%E6%A7%98%E3%81%AE%E7%A4%BE%E5%93%A1%E3%81%AE%E6%96%B9%E3%81%8C%E6%92%AE%E5%BD%B1%E3%81%95%E3%82%8C%E3%81%9F%E5%86%99%E7%9C%9F%E3%82%92%E3%81%8D%E3%81%A3%E3%81%8B%E3%81%91%E3%81%AB%E4%BB%8A%E5%9B%9E/1371778501789035/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/idealxcojp/posts/%E5%88%B6%E4%BD%9C%E5%AE%9F%E7%B8%BE%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%88%E3%83%A0%E3%82%B3%E6%A7%98%E3%81%AEweb%E3%82%B5%E3%82%A4%E3%83%88%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%83%93%E3%83%A5%E3%83%BC%E5%8B%95%E7%94%BB%E3%81%AE%E3%83%A1%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0%E6%98%A0%E5%83%8F%E3%82%92%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99%E6%92%AE%E5%BD%B1%E5%BD%93%E6%97%A5%E3%83%88%E3%83%A0%E3%82%B3%E6%A7%98%E3%81%AE%E7%A4%BE%E5%93%A1%E3%81%AE%E6%96%B9%E3%81%8C%E6%92%AE%E5%BD%B1%E3%81%95%E3%82%8C%E3%81%9F%E5%86%99%E7%9C%9F%E3%82%92%E3%81%8D%E3%81%A3%E3%81%8B%E3%81%91%E3%81%AB%E4%BB%8A%E5%9B%9E%E3%81%AE%E3%83%A1%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0%E6%98%A0/2051635829110838/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "トムコ 取扱製品 試作 小ロット",
+   "results": [
+    "https://injection-lab.com/technology/64-2.html",
+    "https://www.youtube.com/watch?v=rL1D8Ah3h3g",
+    "https://mfg-hack.com/plastic/10134/",
+    "https://shinko56.com/plastic.html",
+    "https://www.zen.co.jp/",
+    "https://www.rd-stuff.com/injectionmolding-lp/",
+    "https://go-melos.jp/products/resin-technique/",
+    "https://www.xeffect.com/small/",
+    "https://www.hotty.co.jp/product/shasyutsuseikei/",
+    "http://www.tomcomfg.co.jp/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 19
+  },
+  {
+   "query": "トムコ 会社概要 事業内容",
+   "results": [
+    "https://tomuco.co.jp/",
+    "https://www.tomuko.co.jp/company/",
+    "https://www.ipros.com/company/detail/2116550/",
+    "https://and-pro.jp/company-info-39467/",
+    "https://metoree.com/companies/18306/",
+    "https://tenshoku.mynavi.jp/company/107892/",
+    "https://growth-100-oku.smrj.go.jp/companies/pdf/02479-00.pdf",
+    "http://www.tomcomfg.co.jp/aboutus.html",
+    "https://fukabori-takahashigawa.com/companies/tomco/",
+    "https://tomuco.co.jp/company/about/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "トムコ お問い合わせ メール",
+   "results": [
+    "http://www.tomcomfg.co.jp/contact/index.html",
+    "https://www.tomuko.co.jp/contact/",
+    "https://tomuco-tokusha.com/contact",
+    "https://jp.toto.com/reform/remodelclub/RCC76403/",
+    "https://www.tms-e.co.jp/contact/",
+    "https://tomuco.co.jp/svstock/",
+    "https://www.city.kobe.lg.jp/life/livelihood/kobejobport/kigyo/co_tomuko.html",
+    "https://www.mars.com/ja-jp/contact-us",
+    "https://www.nitoms.com/contact/",
+    "https://tomuco.co.jp/contact/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:note.com トムコ",
+   "results": [
+    "https://note.com/v_kei_daisuki/n/n84bf0805a587",
+    "https://note.com/sakekan/n/nfc52f3400523",
+    "https://note.com/real_yucca2111/n/n7dc6a51a1250",
+    "https://note.com/mizoko/n/n4f1c1b5002ca",
+    "https://note.com/mizoko/n/nca1a506ce0a9",
+    "https://note.com/mizoko/n/n5de96d89e8d8",
+    "https://note.com/tankeus/n/n6c807b749955",
+    "https://note.com/mizoko/n/nbd8bc759711a",
+    "https://note.com/yarinometakashi/n/nfdee3346c49c",
+    "https://note.com/manholedaisuki/n/n41f381cb5e8b"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com トムコ",
+   "results": [
+    "https://x.com/tomuko_soumu",
+    "https://x.com/vv__official/status/2111019731490939208",
+    "https://x.com/HydeOfficial_/status/2115368159079457112",
+    "https://x.com/HydeOfficial_/status/1877188915389768139",
+    "https://note.com/kitaitigasubete/n/n55c15b670664",
+    "https://note.com/v_kei_daisuki/n/n84bf0805a587",
+    "https://note.com/real_yucca2111/n/n7dc6a51a1250",
+    "https://note.com/kingorfe/n/nad657a511555",
+    "https://note.com/beep21/n/n62f40d40d173",
+    "https://tales.note.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:linkedin.com トムコ",
+   "results": [
+    "https://jp.linkedin.com/in/satoshi-kuge-72a245352",
+    "https://jp.linkedin.com/pulse/utilizing-game-theory-strategic-compass-startups-complex-thompson?tl=ja",
+    "https://note.com/kitaitigasubete/n/n55c15b670664",
+    "https://note.com/v_kei_daisuki/n/n84bf0805a587",
+    "https://note.com/real_yucca2111/n/n7dc6a51a1250",
+    "https://note.com/kingorfe/n/nad657a511555",
+    "https://note.com/beep21/n/n62f40d40d173",
+    "https://tales.note.com/",
+    "https://note.com/tsuchiyacircuit/n/n8982823e85cd"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:facebook.com トムコ",
+   "results": [
+    "https://www.facebook.com/idealxcojp/videos/%E5%88%B6%E4%BD%9C%E5%AE%9F%E7%B8%BE%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%88%E3%83%A0%E3%82%B3%E6%A7%98%E3%81%AEweb%E3%82%B5%E3%82%A4%E3%83%88%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%83%93%E3%83%A5%E3%83%BC%E5%8B%95%E7%94%BB%E3%81%AE%E3%83%A1%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0%E6%98%A0%E5%83%8F%E3%82%92%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99%E6%92%AE%E5%BD%B1%E5%BD%93%E6%97%A5%E3%83%88%E3%83%A0%E3%82%B3%E6%A7%98%E3%81%AE%E7%A4%BE%E5%93%A1%E3%81%AE%E6%96%B9%E3%81%8C%E6%92%AE%E5%BD%B1%E3%81%95%E3%82%8C%E3%81%9F%E5%86%99%E7%9C%9F%E3%82%92%E3%81%8D%E3%81%A3%E3%81%8B%E3%81%91%E3%81%AB%E4%BB%8A%E5%9B%9E%E3%81%AE%E3%83%A1%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0%E6%98%A0/932912392803224/",
+    "https://www.facebook.com/tomuko1950/?locale=ja_JP",
+    "https://www.facebook.com/daiichi.video/posts/works-%E5%88%B6%E4%BD%9C%E5%AE%9F%E7%B8%BE-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%88%E3%83%A0%E3%82%B3%E6%A7%98%E3%81%AEweb%E3%82%B5%E3%82%A4%E3%83%88%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%83%93%E3%83%A5%E3%83%BC%E5%8B%95%E7%94%BB%E3%81%AE%E3%83%A1%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0%E6%98%A0%E5%83%8F%E3%82%92%E5%88%B6%E4%BD%9C%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E6%92%AE%E5%BD%B1%E5%BD%93%E6%97%A5%E3%83%88%E3%83%A0%E3%82%B3%E6%A7%98%E3%81%AE%E7%A4%BE%E5%93%A1%E3%81%AE%E6%96%B9%E3%81%8C%E6%92%AE%E5%BD%B1%E3%81%95%E3%82%8C%E3%81%9F%E5%86%99%E7%9C%9F%E3%82%92%E3%81%8D%E3%81%A3%E3%81%8B%E3%81%91%E3%81%AB%E4%BB%8A%E5%9B%9E/1371778501789035/",
+    "https://www.facebook.com/idealxcojp/posts/%E5%88%B6%E4%BD%9C%E5%AE%9F%E7%B8%BE%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%83%88%E3%83%A0%E3%82%B3%E6%A7%98%E3%81%AEweb%E3%82%B5%E3%82%A4%E3%83%88%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%83%93%E3%83%A5%E3%83%BC%E5%8B%95%E7%94%BB%E3%81%AE%E3%83%A1%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0%E6%98%A0%E5%83%8F%E3%82%92%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99%E6%92%AE%E5%BD%B1%E5%BD%93%E6%97%A5%E3%83%88%E3%83%A0%E3%82%B3%E6%A7%98%E3%81%AE%E7%A4%BE%E5%93%A1%E3%81%AE%E6%96%B9%E3%81%8C%E6%92%AE%E5%BD%B1%E3%81%95%E3%82%8C%E3%81%9F%E5%86%99%E7%9C%9F%E3%82%92%E3%81%8D%E3%81%A3%E3%81%8B%E3%81%91%E3%81%AB%E4%BB%8A%E5%9B%9E%E3%81%AE%E3%83%A1%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0%E6%98%A0/2051635829110838/",
+    "https://www.facebook.com/tomko.cn/",
+    "https://www.facebook.com/HYDEitaly/posts/hyde%E3%83%B4%E3%82%A3%E3%83%AC%E3%83%83%E3%82%B8%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%89-%E6%96%B0%E4%BD%9C%E3%83%88%E3%83%A0%E3%82%B3%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%82%B0%E3%83%83%E3%82%BA%E3%83%B4%E3%82%A3%E3%83%AC%E3%83%83%E3%82%B8%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%89%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%82%A2%E3%81%A7%E3%81%AE%E5%8F%97%E6%B3%A8%E8%B2%A9%E5%A3%B2%E3%81%8C%E6%B1%BA%E5%AE%9A%E3%82%B9%E3%83%88%E3%82%A2%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AF%E3%81%93%E3%81%A1%E3%82%89-hp%E3%81%AF%E3%81%93%E3%81%A1%E3%82%89-villag/1400707552059803/",
+    "https://www.facebook.com/tomuko1950/posts/%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E5%AE%9D%E7%89%A9%E3%81%AF%E3%81%AA%E3%82%93%E3%81%A7%E3%81%99%E3%81%8B%E8%BA%AB%E8%BF%91%E3%81%AB%E3%81%82%E3%82%8B%E5%A4%A7%E5%88%87%E3%81%AA%E3%82%82%E3%81%AE%E3%82%92%E8%A6%8B%E3%81%A4%E3%81%91%E3%81%A6%E3%81%BF%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B/4254128521315971/",
+    "https://www.facebook.com/tomuko1950/posts/%E5%85%88%E6%97%A5f1s1%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%97%E3%83%AA%E3%81%AE%E6%8E%88%E8%B3%9E%E5%BC%8F%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9Ff1s1%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%97%E3%83%AA%E3%81%A8%E3%81%84%E3%81%86%E3%81%AE%E3%81%AF%E5%A4%A7%E9%98%AA%E3%82%AC%E3%82%B9%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E3%81%AE%E3%81%AA%E3%81%8B%E3%81%A7%E5%84%AA%E3%82%8C%E3%81%9F%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%83%9E%E3%83%B3%E3%82%92%E6%B1%BA%E3%82%81%E3%82%8B%E4%BB%8A%E5%B9%B4%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%82%8B%E5%A4%A7%E4%BC%9A%E3%81%A7%E3%81%99%E5%A4%A7/1014672031928319/",
+    "https://www.facebook.com/constnews/posts/%E5%85%B5%E5%BA%AB%E5%8C%BA%E3%81%A7%E4%BA%8B%E5%8B%99%E6%89%80%E3%83%93%E3%83%AB%E3%81%AA%E3%81%A9%E3%82%92%E8%A7%A3%E4%BD%93%EF%BC%92%EF%BC%97%E5%B9%B4%EF%BC%94%E6%9C%88%E4%B8%AD%E6%97%AC%E3%81%AB%E5%AE%8C%E4%BA%86%E3%83%88%E3%83%A0%E3%82%B3/1774172811375807/",
+    "https://www.facebook.com/PetitLispuchirisu/posts/-petitlis-cake-%E9%A4%A1%E5%AD%90%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E3%81%8A%E8%8A%B1%E3%81%AE%E3%82%B1%E3%83%BC%E3%82%AD-%E4%BB%8A%E5%9B%9E%E3%81%AE%E3%81%94%E8%A6%81%E6%9C%9B%EF%B8%8E5%E7%AD%89%E5%88%86%E3%81%97%E3%82%84%E3%81%99%E3%81%84%E3%82%B1%E3%83%BC%E3%82%AD%E3%82%B5%E3%82%A4%E3%83%89%E3%81%AB%E3%82%81%E3%82%84%E3%81%99%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%A4%E3%81%91%E3%81%95%E3%81%9B%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E4%BB%B2%E8%89%AF%E3%81%8F%E3%82%8F%E3%81%91%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%91%E3%81%9F%E3%82%88%E3%81%86/1556916409778225/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "トムコ note 社長",
+   "results": [
+    "https://note.com/tom_ai_/membership",
+    "https://note.com/tom_ai_",
+    "https://note.com/wooway",
+    "https://note.com/shacho_homon/m/m1bd972cc202e",
+    "https://diamond.jp/articles/-/388572",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://tomuco.co.jp/company/",
+    "https://x.com/sadaaki",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "トムコ X 投稿",
+   "results": [
+    "https://syukatsu-kaigi.jp/companies/7802/word_mouths",
+    "https://x.com/tomo",
+    "http://twitter.com/doitomsbox",
+    "https://x-work.jp/driver/media_7054526",
+    "https://www.pixiv.net/tags/tomco",
+    "https://natalie.mu/music/news/612595",
+    "https://www.ekiten.jp/shop_1105435/",
+    "https://www.instagram.com/p/DNwXifm5oXx/",
+    "https://www.instagram.com/p/DMLy3seTyay/",
+    "https://help.x.com/ja/using-x/posting-gifs-and-pictures"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部18頁・検索9回）",
+  "従業員数": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部18頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部18頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部18頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部18頁・検索9回）",
+  "一点物・少量多品種": "記載なし（3回確認済み：公式8頁／PDF・画像4件／外部18頁・検索9回）"
+ }
+}

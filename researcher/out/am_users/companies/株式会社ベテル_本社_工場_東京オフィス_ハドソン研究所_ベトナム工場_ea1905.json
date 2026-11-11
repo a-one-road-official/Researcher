@@ -1,0 +1,1341 @@
+{
+ "name": "株式会社ベテル 本社・工場、東京オフィス、ハドソン研究所、ベトナム工場",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T11:15:05.526382+00:00",
+ "official_url": "https://www.bethel.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役　鈴木　潤一",
+    "url": "https://www.bethel.co.jp/company/profile/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社",
+    "value": "〒315-0021 茨城県石岡市荒金3番11号 TEL:0299-23-7411 FAX:0299-24-4710",
+    "url": "https://www.bethel.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒300-0037 茨城県土浦市桜町4丁目3-18 土浦ブリックビル1階",
+    "url": "https://hrd-thermal.jp/",
+    "pass": 1
+   },
+   {
+    "label": "ご住所",
+    "value": "- 検索 都道府県 選択してください 北海道 青森県 岩手県 宮城県 秋田県 山形県 福島県 茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県 新潟県 富山県 石川県 福井県 山梨県 長野県 岐阜県 静岡県 愛知県 三重県 滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県 鳥取県 島根県 岡山県 広島県 山口県 徳島県 香川県 愛媛県 高知県 福岡県 佐賀県 長崎県 熊本県 大分県 宮崎県 鹿児島県 沖縄県 市区町村 市区町村以下 建物名",
+    "url": "https://www.bethel.co.jp/form/kk-seisaku/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "医療機器の開発、製造、販売 電気部品及び機械部品の組立、製造 プラスチック精密金型設計、製造、販売、成形 熱物性測定に関する装置の開発、製造、販売 ギヤードモータ事業 取扱い分野：医療・歯科機器、自動車関連部品、電気電子機器、産業機器、精密機構部品",
+    "url": "https://www.bethel.co.jp/company/profile/",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "オカモト株式会社、サンメディカル株式会社、 トーソー株式会社、日本歯科薬品株式会社、 パナソニックSPT株式会社、 株式会社松尾製作所、 株式会社湯山製作所 （50音順）",
+    "url": "https://www.bethel.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "label": "主要取引先",
+    "value": "オカモト株式会社、株式会社サン精密化工研究所、サンメディカル株式会社、トーソー株式会社、株式会社東京精密、日本歯科薬品株式会社、パナソニックSPT株式会社、株式会社湯山製作所 (順不同・敬称略) ※50音順",
+    "url": "https://mono.ipros.com/company/detail/2090770/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "158名",
+    "url": "https://mono.ipros.com/company/detail/2090770/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "精密プラスチック製品・熱物性測定の株式会社ベテル",
+    "url": "https://www.bethel.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "長年培った組立技術を生かし、精密部品組立、熱物性測定装置の開発と受託測定、クリーンルームを備えてた医療・歯科系プラスチック製品開発と、事業分野を拡大して参りました",
+    "url": "https://www.bethel.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ベテル製品を使っていただくお客様が、ベテルの製品、製造、サービスに満足し、この会社に任せて良かったと感じていただくこと",
+    "url": "https://www.bethel.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「経営の原点は開発にあり」を理念に掲げ、医療・歯科用プラスチック製品の開発・熱物性値を測定する測定装置など、日本をはじめ世界が必要としている技術開発に力を入れています",
+    "url": "https://www.bethel.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新製品発売のお知らせ：光る口腔ケアブラシ「ピカスポ」が吸引機能を搭載した3 in 1モデルに進化（PDFチラシ公開中）",
+    "url": "https://www.bethel.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "新製品「φ6サイズの70モータ 【70MOTA‣70MOTAT】」をリリース！ 今なら特別価格でご提供中！【GM事業部】",
+    "url": "https://www.bethel.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ベテル製品を使っていただくお客様が、ベテルの製品、製造、サービスに満足し、",
+    "url": "https://www.bethel.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要｜精密プラスチック製品・熱物性測定の株式会社ベテル",
+    "url": "https://www.bethel.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "加工技術／設備のご案内｜精密プラスチック製品・熱物性測定の株式会社ベテル",
+    "url": "https://www.bethel.co.jp/products/kk/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "会社沿革｜精密プラスチック製品・熱物性測定の株式会社ベテル",
+    "url": "https://www.bethel.co.jp/company/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "フェムテック – メディカルコンポーネンツ│歯科・医療機器を柱とした精密プラスチック製品のベテル",
+    "url": "https://bethel-plastics.jp/femtech/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は約20 年以上前からフェムテック製品の開発及び製造を進めてまいりました",
+    "url": "https://bethel-plastics.jp/femtech/",
+    "pass": 1
+   },
+   {
+    "quote": "フェムテック製品には身体のデリケートな部分に直接触れるものが多く存在します",
+    "url": "https://bethel-plastics.jp/femtech/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は下記を心得として、フェムテック分野の推進活動、及び製品開発を行っています",
+    "url": "https://bethel-plastics.jp/femtech/",
+    "pass": 1
+   },
+   {
+    "quote": "他にも、フェムテック製品に多いシリンジ形状など、類似製品形状の開発実績も多数ございます",
+    "url": "https://bethel-plastics.jp/femtech/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の強みである「細長い、小さい製品づくり」の経験を生かし、",
+    "url": "https://bethel-plastics.jp/femtech/",
+    "pass": 1
+   },
+   {
+    "quote": "デザイン性を追求した製品開発をサポートいたします",
+    "url": "https://bethel-plastics.jp/femtech/",
+    "pass": 1
+   },
+   {
+    "quote": "膣洗浄ノズルや根管治療用ノズル等、皮膚や粘膜に接触するプラスチック製品の製造実績が多数ございます",
+    "url": "https://bethel-plastics.jp/femtech/",
+    "pass": 1
+   },
+   {
+    "quote": "チームには営業・設計・デザイン担当の社員が在籍しており、フェムテック製品開発においては「相談がしやすい」「共感を持てる」という強みがあると自負しております",
+    "url": "https://bethel-plastics.jp/femtech/",
+    "pass": 1
+   },
+   {
+    "quote": "こんな製品を作りたい、というご希望に対してデザインのご相談から量産対応まで可能です",
+    "url": "https://bethel-plastics.jp/femtech/",
+    "pass": 1
+   },
+   {
+    "quote": "事業所案内｜精密プラスチック製品・熱物性測定の株式会社ベテル",
+    "url": "https://www.bethel.co.jp/company/access/",
+    "pass": 1
+   },
+   {
+    "quote": "当社が利用するメール配信サービスにおける不正アクセス事案について（調査結果のご報告）｜精密プラスチック製品・熱物性測定の株式会社ベテル",
+    "url": "https://www.bethel.co.jp/news/detail/00187/",
+    "pass": 1
+   },
+   {
+    "quote": "当社が利用するメール配信サービスにおける不正アクセス事案について｜精密プラスチック製品・熱物性測定の株式会社ベテル",
+    "url": "https://www.bethel.co.jp/news/detail/00185/",
+    "pass": 1
+   },
+   {
+    "quote": "新製品「φ6サイズの70モータ 【70MOTA‣70MOTAT】」をリリース！ 今なら特別価格でご提供中！【GM事業部】｜精密プラスチック製品・熱物性測定の株式会社ベテル",
+    "url": "https://www.bethel.co.jp/news/detail/00162/",
+    "pass": 1
+   },
+   {
+    "quote": "新製品「φ6サイズの70モータ 【70MOTA‣70MOTAT】」をリリース！ 今なら特別価格でご提供中！【GM事業部】",
+    "url": "https://www.bethel.co.jp/news/detail/00162/",
+    "pass": 1
+   },
+   {
+    "quote": "本製品は、コンパクトな設計でありながら高い性能を実現した超小型モータです",
+    "url": "https://www.bethel.co.jp/news/detail/00162/",
+    "pass": 1
+   },
+   {
+    "quote": "設置スペースが限られる機器にも最適で、多様な用途に応用可能な製品となっています",
+    "url": "https://www.bethel.co.jp/news/detail/00162/",
+    "pass": 1
+   },
+   {
+    "quote": "ミッション｜精密プラスチック製品・熱物性測定の株式会社ベテル",
+    "url": "https://www.bethel.co.jp/company/profile/mission/",
+    "pass": 1
+   },
+   {
+    "quote": "ビジョン（未来図）｜精密プラスチック製品・熱物性測定の株式会社ベテル",
+    "url": "https://www.bethel.co.jp/company/profile/vision/",
+    "pass": 1
+   },
+   {
+    "quote": "2.「自社製品」（ODM事業・オリジナル商品）事業：",
+    "url": "https://www.bethel.co.jp/company/profile/vision/",
+    "pass": 1
+   },
+   {
+    "quote": "経営のマインドセット｜精密プラスチック製品・熱物性測定の株式会社ベテル",
+    "url": "https://www.bethel.co.jp/company/profile/mindset/",
+    "pass": 1
+   },
+   {
+    "quote": "創業の志｜精密プラスチック製品・熱物性測定の株式会社ベテル",
+    "url": "https://www.bethel.co.jp/company/profile/founding/",
+    "pass": 1
+   },
+   {
+    "quote": "「ベテル」社名の由来｜精密プラスチック製品・熱物性測定の株式会社ベテル",
+    "url": "https://www.bethel.co.jp/company/profile/origin/",
+    "pass": 1
+   },
+   {
+    "quote": "社長プロフィール｜精密プラスチック製品・熱物性測定の株式会社ベテル",
+    "url": "https://www.bethel.co.jp/company/ceo/ceo_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "熱物性計測事業｜精密プラスチック製品・熱物性測定の株式会社ベテル",
+    "url": "https://www.bethel.co.jp/technology/thermal/",
+    "pass": 1
+   },
+   {
+    "quote": "ギヤードモータ事業｜精密プラスチック製品・熱物性測定の株式会社ベテル",
+    "url": "https://www.bethel.co.jp/technology/motor/",
+    "pass": 1
+   },
+   {
+    "quote": "メディカルコンポーネンツ｜精密プラスチック製品・熱物性測定の株式会社ベテル",
+    "url": "https://www.bethel.co.jp/products/medical-components/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の構想から金型設計、試作、量産化、滅菌処理まで、クリーン環境において製品開発から量産までワンストップで実現！",
+    "url": "https://www.bethel.co.jp/products/medical-components/",
+    "pass": 1
+   },
+   {
+    "quote": "ピカスポ 吸引スポンジブラシ 粗め がラインナップに加わりました",
+    "url": "https://pikaspo.bethel-plastics.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "いつも弊社製品をご愛顧いただき誠にありがとうございます",
+    "url": "https://pikaspo.bethel-plastics.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品仕様（1本あたり）",
+    "url": "https://pikaspo.bethel-plastics.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "口腔内で使用される製品の為、使用されるプラスチ",
+    "url": "https://pikaspo.bethel-plastics.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するお問い合わせ、ご要望はこちら",
+    "url": "https://pikaspo.bethel-plastics.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチック金型｜精密プラスチック製品・熱物性測定の株式会社ベテル",
+    "url": "https://www.bethel.co.jp/products/kk/",
+    "pass": 1
+   },
+   {
+    "quote": "各工程での高い技術力と精密な品質管理が、安定した製品の提供と納期遵守を実現します",
+    "url": "https://www.bethel.co.jp/products/kk/",
+    "pass": 1
+   },
+   {
+    "quote": "製品仕様や工場の稼働状況にもよりますが、通常は受注後約45 日程度見ていただければ製作可能です",
+    "url": "https://www.bethel.co.jp/products/kk/",
+    "pass": 1
+   },
+   {
+    "quote": "モーター関連｜精密プラスチック製品・熱物性測定の株式会社ベテル",
+    "url": "https://www.bethel.co.jp/products/motor1/",
+    "pass": 1
+   },
+   {
+    "quote": "品質・環境 -ISO-｜精密プラスチック製品・熱物性測定の株式会社ベテル",
+    "url": "https://www.bethel.co.jp/company/iso/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は「独創的技術でオンリーワンに」をスローガンに掲げ、独自の技術で地球に優しく、安全第一で高品質な製品を開発・製造し、社会の発展に貢献して参ります",
+    "url": "https://www.bethel.co.jp/company/iso/",
+    "pass": 1
+   },
+   {
+    "quote": "社長挨拶｜精密プラスチック製品・熱物性測定の株式会社ベテル",
+    "url": "https://www.bethel.co.jp/company/ceo/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは製品やサービスの品質にこだわり、お客様のニーズに応えるために常に努力し、社員一人ひとりが自己実現を果たせる環境を整えてきました",
+    "url": "https://www.bethel.co.jp/company/ceo/",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、今後も変わらずにお客様のニーズに応え、よりよい製品やサービスを提供するためには、常に努力を重ねていかなければなりません",
+    "url": "https://www.bethel.co.jp/company/ceo/",
+    "pass": 1
+   },
+   {
+    "quote": "SDGsへの取り組み｜精密プラスチック製品・熱物性測定の株式会社ベテル",
+    "url": "https://www.bethel.co.jp/company/sdgs/",
+    "pass": 1
+   },
+   {
+    "quote": "リニアアクチュエータ｜精密プラスチック製品・熱物性測定の株式会社ベテル",
+    "url": "https://www.bethel.co.jp/products/motor1/ract/",
+    "pass": 1
+   },
+   {
+    "quote": "電子錠等のIoT製品だけでなく、医療用計測器や産業機器にも搭載されています",
+    "url": "https://www.bethel.co.jp/products/motor1/ract/",
+    "pass": 1
+   },
+   {
+    "quote": "精密金型についてのお問い合わせ｜精密プラスチック製品・熱物性測定の株式会社ベテル",
+    "url": "https://www.bethel.co.jp/form/kk-seisaku/",
+    "pass": 1
+   },
+   {
+    "quote": "試作品を いくつかの成型材料で | 製品化の最終工程まで",
+    "url": "https://www.bethel.co.jp/files/page/plastics/odm2_900-252.jpg",
+    "pass": 2
+   },
+   {
+    "quote": "製品・サービス(77)",
+    "url": "https://mono.ipros.com/company/detail/2090770/",
+    "pass": 3
+   },
+   {
+    "quote": "長年培った組立技術を生かし、精密部品組立、熱物性測定装置の開発と受託測定、クリーンルームを備えてた医療・歯科系プラスチック製品開発と、事業分野を拡大して参りました",
+    "url": "https://mono.ipros.com/company/detail/2090770/",
+    "pass": 3
+   },
+   {
+    "quote": "ベテル製品を使っていただくお客様が、ベテルの製品、製造、サービスに満足し、この会社に任せて良かったと感じていただくこと",
+    "url": "https://mono.ipros.com/company/detail/2090770/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "3Dプリンタによる試作",
+    "url": "https://www.bethel.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の構想から金型設計、試作、量産化、滅菌処理まで、クリーン環境において製品開発から量産までワンストップで実現！",
+    "url": "https://www.bethel.co.jp/products/medical-components/",
+    "pass": 1
+   },
+   {
+    "quote": "＼ 試作成形まで一貫対応だから、ラクで手間ナシ！ ／",
+    "url": "https://www.bethel.co.jp/products/kk/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では最新の成形機を導入しており、試作成形も可能です！",
+    "url": "https://www.bethel.co.jp/products/kk/",
+    "pass": 1
+   },
+   {
+    "quote": "一貫対応なので、金型製作から試作成形までの流れが大変スムーズです",
+    "url": "https://www.bethel.co.jp/products/kk/",
+    "pass": 1
+   },
+   {
+    "quote": "試作品を いくつかの成型材料で | 製品化の最終工程まで",
+    "url": "https://www.bethel.co.jp/files/page/plastics/odm2_900-252.jpg",
+    "pass": 2
+   },
+   {
+    "quote": "・新規金型 ・量産金型 ・試作金型 ・精密金型 ・ロングライフ金型 ・改良 ・設計 ・販売",
+    "url": "https://mono.ipros.com/company/detail/2090770/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "長年培った組立技術を生かし、精密部品組立、熱物性測定装置の開発と受託測定、クリーンルームを備えてた医療・歯科系プラスチック製品開発と、事業分野を拡大して参りました",
+    "url": "https://www.bethel.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「経営の原点は開発にあり」を理念に掲げ、医療・歯科用プラスチック製品の開発・熱物性値を測定する測定装置など、日本をはじめ世界が必要としている技術開発に力を入れています",
+    "url": "https://www.bethel.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "『INTERMOLD/金型展2026【インテックス大阪】』（4/15～17、インテックス大阪）へ出展します",
+    "url": "https://www.bethel.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "金型製作のWEBページをリニューアルしました！ 一貫対応のワンストップサービスを詳しくご紹介",
+    "url": "https://www.bethel.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "『第37回 日本ものづくりワールド［東京］ ヘルスケア・医療機器 開発展』（7/9～11、幕張メッセ）へ出展します",
+    "url": "https://www.bethel.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "『INTERMOLD 2025(第36回金型加工技術展)／金型展2025』（4/16～18、東京ビッグサイト）に出展！ 精密金型製造の技術力を披露",
+    "url": "https://www.bethel.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器の開発、製造、販売",
+    "url": "https://www.bethel.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチック精密金型設計、製造、販売、成形",
+    "url": "https://www.bethel.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "取扱い分野：医療・歯科機器、自動車関連部品、電気電子機器、産業機器、精密機構部品",
+    "url": "https://www.bethel.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "トーソー株式会社、日本歯科薬品株式会社、",
+    "url": "https://www.bethel.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "最新のCAD／CAMシステムによる精密金型設計と開発力",
+    "url": "https://www.bethel.co.jp/products/kk/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "最新のＣＡＤ/ＣＡＭシステムによる精密金型設計・開発力は、これまでの実績に裏付けされており、どんなに難しいニーズにも柔軟な発想を活かした確かな技術力で応えます",
+    "url": "https://www.bethel.co.jp/products/kk/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "フェムテック – メディカルコンポーネンツ│歯科・医療機器を柱とした精密プラスチック製品のベテル",
+    "url": "https://bethel-plastics.jp/femtech/",
+    "pass": 1
+   },
+   {
+    "quote": "皮膚・粘膜に接触するプラスチック実績がある（医療クラス1、2）",
+    "url": "https://bethel-plastics.jp/femtech/",
+    "pass": 1
+   },
+   {
+    "quote": "・・・医療機器、精密機械、ロボットなど、幅広い分野で採用されています",
+    "url": "https://www.bethel.co.jp/news/detail/00162/",
+    "pass": 1
+   },
+   {
+    "quote": "アイデアを具現化する技術力とスピードを強みに、医療・介護、熱ソリューション分野におけるイノベーターになります",
+    "url": "https://www.bethel.co.jp/company/profile/vision/",
+    "pass": 1
+   },
+   {
+    "quote": "医療・介護（オーラルヘルスケア）： 樹脂成形部、商品企画部、ODM事業、オリジナル商品",
+    "url": "https://www.bethel.co.jp/company/profile/vision/",
+    "pass": 1
+   },
+   {
+    "quote": "精密金型・機械部品： 金型製作部、GM製造部",
+    "url": "https://www.bethel.co.jp/company/profile/vision/",
+    "pass": 1
+   },
+   {
+    "quote": "医療技術・・・日本や欧米は成熟社会の中で少子高齢化が益々進むので、先取り技術で商品化をさらに進める",
+    "url": "https://www.bethel.co.jp/company/profile/founding/",
+    "pass": 1
+   },
+   {
+    "quote": "そしてそれらを生かした医療介護（オーラル・ヘルスケア）、熱計測・熱分析ソリューション事業を事業の大きな柱に育てることが、今後のベテルの戦略となります",
+    "url": "https://www.bethel.co.jp/company/profile/founding/",
+    "pass": 1
+   },
+   {
+    "quote": "この地で売上30億円、経常利益3億円、を目指し、自社商品（技術）比率60％以上を、計測器・医療・電子機器で達成するのを目指したいと考えております",
+    "url": "https://www.bethel.co.jp/company/profile/founding/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の構想から金型設計、試作、量産化、滅菌処理まで、クリーン環境において製品開発から量産までワンストップで実現！",
+    "url": "https://www.bethel.co.jp/products/medical-components/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、\"医療機器製造業許可",
+    "url": "https://www.bethel.co.jp/products/medical-components/",
+    "pass": 1
+   },
+   {
+    "quote": "を取得していますので、医療機器の製造が可能です",
+    "url": "https://www.bethel.co.jp/products/medical-components/",
+    "pass": 1
+   },
+   {
+    "quote": "プラスチック金型｜精密プラスチック製品・熱物性測定の株式会社ベテル",
+    "url": "https://www.bethel.co.jp/products/kk/",
+    "pass": 1
+   },
+   {
+    "quote": "＼ 設計から検査測定まで、一貫体制で高精度の金型を実現！ ／",
+    "url": "https://www.bethel.co.jp/products/kk/",
+    "pass": 1
+   },
+   {
+    "quote": "＼ 高精度を支える、一貫対応の金型製作 ／",
+    "url": "https://www.bethel.co.jp/products/kk/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ベテルは、設計から開発、製作、検査、測定まで、金型製作の全工程を一貫して対応しています",
+    "url": "https://www.bethel.co.jp/products/kk/",
+    "pass": 1
+   },
+   {
+    "quote": "金型設計は、製作プロセスの最も重要な部分です",
+    "url": "https://www.bethel.co.jp/products/kk/",
+    "pass": 1
+   },
+   {
+    "quote": "経験豊富な設計技術者が、最先端のCAD/CAMシステムを駆使して、最適な設計を行い、お客様のニーズに応じた精密な金型を提供します",
+    "url": "https://www.bethel.co.jp/products/kk/",
+    "pass": 1
+   },
+   {
+    "quote": "最新の機械設備と熟練した技術者が、高精度な金型を製作します",
+    "url": "https://www.bethel.co.jp/products/kk/",
+    "pass": 1
+   },
+   {
+    "quote": "各工程での厳格な品質管理により、精密かつ耐久性の高い金型を実現",
+    "url": "https://www.bethel.co.jp/products/kk/",
+    "pass": 1
+   },
+   {
+    "quote": "＼ 金型製作の、よくある質問はこっちだっぺ！ ／",
+    "url": "https://www.bethel.co.jp/products/kk/",
+    "pass": 1
+   },
+   {
+    "quote": "どれぐらいの大きさの金型まで製作できますか？",
+    "url": "https://www.bethel.co.jp/products/kk/",
+    "pass": 1
+   },
+   {
+    "quote": "弊社では設計～金型～成形～組立までの一貫体制を強みとしておりますが、製作している金型の大半は型売です",
+    "url": "https://www.bethel.co.jp/products/kk/",
+    "pass": 1
+   },
+   {
+    "quote": "※一部特殊なコア技術を含む金型については成形品までの対応となります",
+    "url": "https://www.bethel.co.jp/products/kk/",
+    "pass": 1
+   },
+   {
+    "quote": "ベテルでは、厳格な検査・測定プロセスを通じて、製作した金型の品質を確認",
+    "url": "https://www.bethel.co.jp/products/kk/",
+    "pass": 1
+   },
+   {
+    "quote": "測定結果を元に必要な調整を行い、最適な金型を納品",
+    "url": "https://www.bethel.co.jp/products/kk/",
+    "pass": 1
+   },
+   {
+    "quote": "一貫対応なので、金型製作から試作成形までの流れが大変スムーズです",
+    "url": "https://www.bethel.co.jp/products/kk/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器の品質マネジメントシステム（ＩＳＯ１３４８５）認証取得しております",
+    "url": "https://www.bethel.co.jp/company/iso/",
+    "pass": 1
+   },
+   {
+    "quote": "２）プラスチック部品及びプラスチックス部品の射出成形用金型の設計、製造",
+    "url": "https://www.bethel.co.jp/company/iso/",
+    "pass": 1
+   },
+   {
+    "quote": "電子錠等のIoT製品だけでなく、医療用計測器や産業機器にも搭載されています",
+    "url": "https://www.bethel.co.jp/products/motor1/ract/",
+    "pass": 1
+   },
+   {
+    "quote": "精密金型についてのお問い合わせ｜精密プラスチック製品・熱物性測定の株式会社ベテル",
+    "url": "https://www.bethel.co.jp/form/kk-seisaku/",
+    "pass": 1
+   },
+   {
+    "quote": "医療現場の声から生まれた、信頼のビカスポ",
+    "url": "https://www.bethel.co.jp/files/news/pika_3in1_2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・プ aa ック nail ック部品の射出成型用金型の設計、製造",
+    "url": "https://www.bethel.co.jp/files/page/company/ISO-jp_2025.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製作したい 金型を製作したい お任せしたい",
+    "url": "https://www.bethel.co.jp/files/page/plastics/odm2_900-252.jpg",
+    "pass": 2
+   },
+   {
+    "quote": "長年培った組立技術を生かし、精密部品組立、熱物性測定装置の開発と受託測定、クリーンルームを備えてた医療・歯科系プラスチック製品開発と、事業分野を拡大して参りました",
+    "url": "https://mono.ipros.com/company/detail/2090770/",
+    "pass": 3
+   },
+   {
+    "quote": "■医療機器の開発、製造、販売",
+    "url": "https://mono.ipros.com/company/detail/2090770/",
+    "pass": 3
+   },
+   {
+    "quote": "・シリンジ ・チップ ・口腔ケア ・理化学機器 ・医療機器 ・歯科器機",
+    "url": "https://mono.ipros.com/company/detail/2090770/",
+    "pass": 3
+   },
+   {
+    "quote": "・新規金型 ・量産金型 ・試作金型 ・精密金型 ・ロングライフ金型 ・改良 ・設計 ・販売",
+    "url": "https://mono.ipros.com/company/detail/2090770/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体デバイスの接触面／界面熱抵抗評価お任せください",
+    "url": "https://mono.ipros.com/company/detail/2090770/",
+    "pass": 3
+   },
+   {
+    "quote": "小型医療機器や電子錠に搭載可能な『超小型マイクロギアドモータ』",
+    "url": "https://mono.ipros.com/company/detail/2090770/",
+    "pass": 3
+   },
+   {
+    "quote": "【精密金型】一貫対応のできる「金型製作カタログ」の最新版を公開しました！（Ver1.05）【設備一覧あり】",
+    "url": "https://mono.ipros.com/company/detail/2090770/",
+    "pass": 3
+   },
+   {
+    "quote": "金型加工にお悩みの方、信頼できるパートナーをお探しではありませんか？",
+    "url": "https://mono.ipros.com/company/detail/2090770/",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器や家電製品、自動車部品など、幅広い分野での実績を誇る私たちだからこそできる提案があります",
+    "url": "https://mono.ipros.com/company/detail/2090770/",
+    "pass": 3
+   },
+   {
+    "quote": "また、最新鋭の加工設備と熟練の職人技を融合させることで、難易度の高い金型にも対応可能です",
+    "url": "https://mono.ipros.com/company/detail/2090770/",
+    "pass": 3
+   },
+   {
+    "quote": "新発売「φ6サイズの超小型モータ【70MOTA・70MOTAT】」 医療機器・精密機械・ロボットなど、幅広い分野に応用可能！",
+    "url": "https://mono.ipros.com/company/detail/2090770/",
+    "pass": 3
+   },
+   {
+    "quote": "オカモト株式会社、株式会社サン精密化工研究所、サンメディカル株式会社、トーソー株式会社、株式会社東京精密、日本歯科薬品株式会社、パナソニックSPT株式会社、株式会社湯山製作所",
+    "url": "https://mono.ipros.com/company/detail/2090770/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "3Dプリンタによる試作",
+    "url": "https://www.bethel.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Bethel Vietnam Co., Ltd.",
+    "url": "https://www.bethel.co.jp/company/profile/",
+    "pass": 1
+   },
+   {
+    "quote": "最新のCAD／CAMシステムによる精密金型設計と開発力",
+    "url": "https://www.bethel.co.jp/products/kk/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "3DCAD／CAM",
+    "url": "https://www.bethel.co.jp/products/kk/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "2DCAD／CAM",
+    "url": "https://www.bethel.co.jp/products/kk/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "ベトナム法人（BETHEL VIETNAM Co., Ltd.）を開設",
+    "url": "https://www.bethel.co.jp/company/profile/history/",
+    "pass": 1
+   },
+   {
+    "quote": "Bethel Vietnam Co., Ltd.",
+    "url": "https://www.bethel.co.jp/company/access/",
+    "pass": 1
+   },
+   {
+    "quote": "Unit 12B, 3-3 street, BW Supply Chain City IP, Binh Duong Ward, Ho Chi Minh City, Vietnam",
+    "url": "https://www.bethel.co.jp/company/access/",
+    "pass": 1
+   },
+   {
+    "quote": "BETHEL VIETNAM General Director",
+    "url": "https://www.bethel.co.jp/company/ceo/ceo_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "ベトナムにてBETHEL VIETNAMを立ち上げる",
+    "url": "https://www.bethel.co.jp/company/ceo/ceo_profile/",
+    "pass": 1
+   },
+   {
+    "quote": "経験豊富な設計技術者が、最先端のCAD/CAMシステムを駆使して、最適な設計を行い、お客様のニーズに応じた精密な金型を提供します",
+    "url": "https://www.bethel.co.jp/products/kk/",
+    "pass": 1
+   },
+   {
+    "quote": "3DCAD／CAM",
+    "url": "https://www.bethel.co.jp/products/kk/",
+    "pass": 1
+   },
+   {
+    "quote": "2DCAD／CAM",
+    "url": "https://www.bethel.co.jp/products/kk/",
+    "pass": 1
+   },
+   {
+    "quote": "7315-0021 RM RAM hits 3-11",
+    "url": "https://www.bethel.co.jp/files/news/pika_3in1_2025.pdf",
+    "pass": 2
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "当社が利用するメール配信サービスにおける不正アクセス事案について（調査結果のご報告）",
+    "url": "https://www.bethel.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社が利用するメール配信サービスにおける不正アクセス事案について",
+    "url": "https://www.bethel.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社が利用するメール配信サービスにおける不正アクセス事案について（調査結果のご報告）｜精密プラスチック製品・熱物性測定の株式会社ベテル",
+    "url": "https://www.bethel.co.jp/news/detail/00187/",
+    "pass": 1
+   },
+   {
+    "quote": "当社が利用するメール配信サービスにおける不正アクセス事案について（調査結果のご報告）",
+    "url": "https://www.bethel.co.jp/news/detail/00187/",
+    "pass": 1
+   },
+   {
+    "quote": "2026年10月23日にお知らせいたしました、当社が利用するメール配信サービス「ブラストメール」（提供元：株式会社ラクスライトクラウド）における不正アクセス事案につきまして、提供元による調査が完了いたしましたので、ご報告いたします",
+    "url": "https://www.bethel.co.jp/news/detail/00187/",
+    "pass": 1
+   },
+   {
+    "quote": "当社が利用するメール配信サービスにおける不正アクセス事案について（2026年10月23日）",
+    "url": "https://www.bethel.co.jp/news/detail/00187/",
+    "pass": 1
+   },
+   {
+    "quote": "提供元より、外部専門機関による調査の結果、当社がメール配信のために登録していたお客様・お取引先様の情報（会社名、氏名、メールアドレス等）および配信履歴について、漏えいは確認されなかったとの報告を受けました",
+    "url": "https://www.bethel.co.jp/news/detail/00187/",
+    "pass": 1
+   },
+   {
+    "quote": "本件に便乗し、当社や関係各社を装った不審なメールが送られる可能性があります",
+    "url": "https://www.bethel.co.jp/news/detail/00187/",
+    "pass": 1
+   },
+   {
+    "quote": "引き続き、心当たりのないメールに記載されたリンクや添付ファイルは開かず、削除いただきますようお願いいたします",
+    "url": "https://www.bethel.co.jp/news/detail/00187/",
+    "pass": 1
+   },
+   {
+    "quote": "E-mail：bethel＠bethel.co.jp（＠を半角に変えてお送りください）",
+    "url": "https://www.bethel.co.jp/news/detail/00187/",
+    "pass": 1
+   },
+   {
+    "quote": "当社が利用するメール配信サービスにおける不正アクセス事案について｜精密プラスチック製品・熱物性測定の株式会社ベテル",
+    "url": "https://www.bethel.co.jp/news/detail/00185/",
+    "pass": 1
+   },
+   {
+    "quote": "当社が利用するメール配信サービスにおける不正アクセス事案について",
+    "url": "https://www.bethel.co.jp/news/detail/00185/",
+    "pass": 1
+   },
+   {
+    "quote": "当社がメールマガジン等の配信に利用しているメール配信サービス「ブラストメール」（提供元：株式会社ラクスライトクラウド）において、外部からの不正アクセスにより情報が漏えいした可能性があることが、同社より公表されました",
+    "url": "https://www.bethel.co.jp/news/detail/00185/",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社ラクス「【第2報】当社子会社が提供する「ブラストメール」における不正アクセスによる情報漏えいおよびサービス停止について」",
+    "url": "https://www.bethel.co.jp/news/detail/00185/",
+    "pass": 1
+   },
+   {
+    "quote": "本件に便乗し、当社や関係各社を装った不審なメールが送られる可能性があります",
+    "url": "https://www.bethel.co.jp/news/detail/00185/",
+    "pass": 1
+   },
+   {
+    "quote": "心当たりのないメールに記載されたリンクや添付ファイルは開かず、削除いただきますようお願いいたします",
+    "url": "https://www.bethel.co.jp/news/detail/00185/",
+    "pass": 1
+   },
+   {
+    "quote": "E-mail：bethel＠bethel.co.jp（＠を半角に変えてお送りください）",
+    "url": "https://www.bethel.co.jp/news/detail/00185/",
+    "pass": 1
+   },
+   {
+    "quote": "製品に関するお問い合わせ、ご要望はこちら",
+    "url": "https://pikaspo.bethel-plastics.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "精密金型についてのお問い合わせ｜精密プラスチック製品・熱物性測定の株式会社ベテル",
+    "url": "https://www.bethel.co.jp/form/kk-seisaku/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせには営業時間内に対応させていただきます",
+    "url": "https://www.bethel.co.jp/form/kk-seisaku/",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせもお気軽にどうぞ！ お見積りだけでも大歓迎です",
+    "url": "https://mono.ipros.com/company/detail/2090770/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "医療・介護（オーラルヘルスケア）： 樹脂成形部、商品企画部、ODM事業、オリジナル商品",
+    "url": "https://www.bethel.co.jp/company/profile/vision/",
+    "pass": 1
+   },
+   {
+    "quote": "スポンジブラシ部はポリカーボネート樹脂を使用した丈夫なプラスチック軸ですので、口腔ケアの時に噛んで割れる心配もありません",
+    "url": "https://pikaspo.bethel-plastics.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ポリカーボネート樹脂を使用した丈夫なプラスチック軸ですので、口腔ケアの時に噛んで割れる心配もありません",
+    "url": "https://pikaspo.bethel-plastics.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ピカスポ本体には丈夫な樹脂をしていますので23ｇと軽量（電池除く）です",
+    "url": "https://pikaspo.bethel-plastics.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "スポンジブラシは、ポリカーボネート樹脂を使用した丈夫なプラスチック軸ですので、口腔ケアの時に噛んで割れる心配もありません",
+    "url": "https://pikaspo.bethel-plastics.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ック材料は食品容器等に使われる樹脂を採用し、安",
+    "url": "https://pikaspo.bethel-plastics.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "プリント基板に用いられるセラミックス材料の比較：アルミナ・窒化ケイ素・窒化アルミニウムの特性と選定指針",
+    "url": "https://hrd-thermal.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "熱伝導率が高い材料ランキングTOP10！金属からセラミックス、新素材まで徹底比較（2025年版）",
+    "url": "https://hrd-thermal.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "熱伝導率一覧表【金属・樹脂・セラミックス】主要材料の比較データ（2025年版）",
+    "url": "https://hrd-thermal.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "炭素繊維強化プラスチック（CFRP）の熱伝導率測定",
+    "url": "https://hrd-thermal.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "・機体販売 ・受託測定 ・CFRP ・合成樹脂 ・薄膜 ・塗料 ・カーボン ・レゴリス",
+    "url": "https://mono.ipros.com/company/detail/2090770/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.bethel.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bethel.co.jp/company/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bethel.co.jp/products/kk/processing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bethel.co.jp/company/profile/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://bethel-plastics.jp/femtech/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bethel.co.jp/company/access/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bethel.co.jp/news/detail/00187/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bethel.co.jp/news/detail/00185/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bethel.co.jp/news/detail/00162/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bethel.co.jp/company/profile/mission/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bethel.co.jp/company/profile/vision/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bethel.co.jp/company/profile/mindset/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bethel.co.jp/company/profile/founding/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bethel.co.jp/company/profile/origin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bethel.co.jp/company/ceo/ceo_profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bethel.co.jp/technology/thermal/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bethel.co.jp/technology/motor/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bethel.co.jp/products/medical-components/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pikaspo.bethel-plastics.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bethel.co.jp/products/kk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hrd-thermal.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bethel.co.jp/products/motor1/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bethel.co.jp/company/iso/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bethel.co.jp/company/ceo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bethel.co.jp/company/sdgs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bethel.co.jp/products/motor1/ract/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bethel.co.jp/form/kk-seisaku/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bethel.co.jp/products/kk/processing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bethel.co.jp/company/profile/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bethel.co.jp/company/profile/history/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.bethel.co.jp/files/news/pika_3in1_2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.bethel.co.jp/files/page/access/map_2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.bethel.co.jp/files/page/company/ISO-jp_2025.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.bethel.co.jp/files/page/dental/m-com_900-252.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.bethel.co.jp/files/page/plastics/odm2_900-252.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.bethel.co.jp/files/banner/TOP%20image/TOP-med.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.bethel.co.jp/files/banner/product-hrd.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.bethel.co.jp/files/banner/product-gm_390%2A162.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.bethel.co.jp/files/banner/product_gm2.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.bethel.co.jp/files/banner/web6_300%2A84.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/company/detail/2090770/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/2493/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2090770/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://space.pref.ibaraki.jp/participating-companies-2/betel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2090770/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://hrd-thermal.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ベテル 本社・工場、東京オフィス、ハドソン研究所、ベトナム工場 取扱製品 試作 小ロット",
+   "results": [
+    "https://mono.ipros.com/company/detail/2090770/",
+    "https://www.bethel.co.jp/company/access/",
+    "https://metoree.com/companies/2493/",
+    "https://hrd-thermal.jp/",
+    "https://space.pref.ibaraki.jp/participating-companies-2/betel/",
+    "https://mono.ipros.com/product/detail/2001231925/",
+    "https://www.iis-net.or.jp/page?kind=newpage_bethel03",
+    "https://bethel-will-celebrate-its-50th-anniversary-in-20230.webnode.jp/chronology/",
+    "https://eigyo-mfg.com/service/navi/company/rNo88SvYp6s7"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "ベテル 本社・工場、東京オフィス、ハドソン研究所、ベトナム工場 会社概要 事業内容",
+   "results": [
+    "https://mono.ipros.com/company/detail/2090770/",
+    "https://www.bethel.co.jp/company/access/",
+    "https://space.pref.ibaraki.jp/participating-companies-2/betel/",
+    "https://metoree.com/companies/2493/",
+    "https://mono.ipros.com/product/detail/2001381874/",
+    "https://eigyo-mfg.com/service/navi/company/rNo88SvYp6s7",
+    "https://ibaraki-rs.jp/rolemodel/rolemodel8/",
+    "https://bethel-will-celebrate-its-50th-anniversary-in-20230.webnode.jp/chronology/",
+    "https://hrd-thermal.jp/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "ベテル 本社・工場、東京オフィス、ハドソン研究所、ベトナム工場 お問い合わせ メール",
+   "results": [
+    "https://mono.ipros.com/company/detail/2090770/",
+    "https://www.bethel.co.jp/company/access/",
+    "https://hrd-thermal.jp/contact/",
+    "https://metoree.com/companies/2493/",
+    "https://eigyo-mfg.com/service/navi/company/rNo88SvYp6s7",
+    "https://www.iis-net.or.jp/page?kind=newpage_bethel03",
+    "https://www.bethel.co.jp/company/access/japan/",
+    "https://www.fact-link.com.vn/home/bethel-vn/",
+    "https://www.facebook.com/bethel.plastics/?locale=ja_JP",
+    "http://www.bethel.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com ベテル 本社・工場、東京オフィス、ハドソン研究所、ベトナム工場",
+   "results": [
+    "https://note.com/strings_travel/n/n5b790d9cdfe5",
+    "https://note.com/castem/n/ncc2946d8e270",
+    "https://note.com/infobank/n/n182da6e59c42",
+    "https://note.com/kiichi_tools/n/nc24f6d8f185a",
+    "https://note.com/gonviet/n/ndce6c388b8cf",
+    "https://note.com/nkawam/n/n7e57260295ad",
+    "https://note.com/bethelnoie/n/n04e69b1347eb"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com ベテル 本社・工場、東京オフィス、ハドソン研究所、ベトナム工場",
+   "results": [
+    "https://jf.x.com/images/media-preview/2104167938605613303",
+    "https://jf.x.com/images/media-preview/2091254510991614162",
+    "https://x.com/bethel3249",
+    "https://x.com/TwitCongJW/status/517920091870994432",
+    "https://x.com/Bethelnoie",
+    "https://x.com/i/trending/2099136106352570538",
+    "https://x.com/inotanita/status/2061427968942174574"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com ベテル 本社・工場、東京オフィス、ハドソン研究所、ベトナム工場",
+   "results": [
+    "https://jp.linkedin.com/in/kimihito-hatori",
+    "https://www.linkedin.com/company/bechtel-corporation",
+    "https://vn.linkedin.com/in/satoshi-wakatsuki-b5b1611b0",
+    "https://jp.linkedin.com/company/bethel-co.-ltd",
+    "https://vn.linkedin.com/company/viphaco",
+    "https://www.linkedin.com/posts/kimihito-hatori_we-measured-the-thermal-conductivity-of-a-activity-7194588063036030976-jmNa",
+    "https://jp.linkedin.com/posts/kimihito-hatori_529開催無料セミナー熱伝導率測定の実演イベント開催in-ハドソン研究所-activity-7455061369542025216-aHhJ"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com ベテル 本社・工場、東京オフィス、ハドソン研究所、ベトナム工場",
+   "results": [
+    "https://www.facebook.com/bethel.plastics/",
+    "https://www.facebook.com/bethel.thermal/",
+    "https://www.facebook.com/bethel.plastics/photos/1583029563833239/",
+    "https://www.facebook.com/bethel.thermal/posts/ハドソン研究所をご紹介します/201315773236796/",
+    "https://www.facebook.com/bethel.thermal/photos/a.766689733389159/766689623389170/",
+    "https://www.facebook.com/bethel.plastics/videos/空から見るとちょっと新鮮ベテルのベトナム工場をドローンで撮影️広々とした敷地や建物の様子がよく分かるちょっと特別なアングルです現地でもものづくりへのこだわりはそ/2167678403656193/",
+    "https://www.facebook.com/bethel.thermal/posts/ハドソン研究所-ｗｅｂサイトリニューアル当社の熱物性測定装置および関連サービスもおかげさまで好評をいただいておりますこのたびより見やすくよりわかりやすく熱物性情/189310837782294/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ベテル 本社・工場、東京オフィス、ハドソン研究所、ベトナム工場 note 社長",
+   "results": [
+    "https://mono.ipros.com/company/detail/2090770/",
+    "https://www.bethel.co.jp/company/access/",
+    "https://note.com/tag/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E5%B7%A5%E5%A0%B4",
+    "https://note.com/tender_lion437/n/n2eccdf5879c5",
+    "https://www.nikkei.com/article/DGXNZO58184000W3A800C1L60000/",
+    "https://note.com/notion_dx/n/n0d03b6afef43",
+    "https://www.youtube.com/watch?v=0JLmk2hBgU0",
+    "https://www.bethel.co.jp/company/profile/history/",
+    "https://www.itmedia.co.jp/news/article/2610/30/2000002699/",
+    "http://www.bethel.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "ベテル 本社・工場、東京オフィス、ハドソン研究所、ベトナム工場 X 投稿",
+   "results": [
+    "https://mono.ipros.com/company/detail/2090770/",
+    "https://www.bethel.co.jp/company/access/",
+    "https://hrd-thermal.jp/about/access/",
+    "https://bethel-will-celebrate-its-50th-anniversary-in-20230.webnode.jp/chronology/",
+    "https://www.youtube.com/watch?v=IAEcFUHrbjI",
+    "https://www.facebook.com/bethel.plastics/posts/%E3%83%99%E3%83%86%E3%83%AB-%E3%83%8F%E3%83%89%E3%82%BD%E3%83%B3%E7%A0%94%E7%A9%B6%E6%89%80%E3%81%AF%E7%B1%B3%E5%9B%BD%E3%81%A7%E9%96%8B%E5%82%AC%E4%B8%AD%E3%81%AEcamx2023%E3%81%AB%E5%87%BA%E5%B1%95%E4%B8%AD%E3%81%A7%E3%81%99%E7%86%B1%E7%89%A9%E6%88%A6%E5%A3%AB%E3%82%B5%E3%83%BC%E3%83%A2%E3%83%9E%E3%83%B3%E7%B1%B3%E5%9B%BD%E3%81%A7%E3%82%82%E9%A0%91%E5%BC%B5%E3%81%A3%E3%81%A6%E3%81%BE%E3%81%99/814979343971602/",
+    "https://eigyo-mfg.com/service/navi/company/rNo88SvYp6s7",
+    "https://www.youtube.com/playlist?list=PLtNygTyWVAudUasdS5_YXu2fBpIE-Cg2J",
+    "http://www.bethel.co.jp/",
+    "https://mono.ipros.com/company/detail/2090770/category/68289/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式30頁／PDF・画像10件／外部6頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式30頁／PDF・画像10件／外部6頁・検索9回）"
+ }
+}

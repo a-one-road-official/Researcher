@@ -1,0 +1,1391 @@
+{
+ "name": "セキダイ工業株式会社",
+ "aliases": [],
+ "context": "ipros_all:少量",
+ "researched_at": "2026-11-11T10:51:23.993118+00:00",
+ "official_url": "https://www.sekidai.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "事業内容": [
+   {
+    "label": "事業所名",
+    "value": "福島工場",
+    "url": "https://www.sekidai.co.jp/company/iso/",
+    "pass": 1
+   },
+   {
+    "label": "業務内容",
+    "value": "マシニングセンター・複合5軸加工機を主体とした多品種少量の金属切削加工 CAD・CAMにより複雑な三次元加工をはじめ、高精度・高品質の加工 アルミ・ステンレスを始めとした、 マグネシウム合金・チタン・インコネルなどの各種金属材料の機械加工 その他、ユーザーニーズにお応えすべく、 大型旋盤加工 ・ 長尺マシニング加工 に関しても対応しております。",
+    "url": "https://www.sekidai.co.jp/company/about/",
+    "pass": 1
+   }
+  ],
+  "拠点": [
+   {
+    "label": "加工工場",
+    "value": "福島工場",
+    "url": "https://www.sekidai.co.jp/case/005/",
+    "pass": 1
+   },
+   {
+    "label": "稼働工場",
+    "value": "福島工場",
+    "url": "https://www.sekidai.co.jp/technology/trial-production/",
+    "pass": 1
+   },
+   {
+    "label": "設置工場",
+    "value": "福島工場",
+    "url": "https://www.sekidai.co.jp/technology/difficult-shape/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "【本　　社】〒146-0082 東京都大田区池上8-14-13 【福島工場】〒963-7873 福島県石川郡石川町字飛ヶ作261",
+    "url": "https://www.sekidai.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒963-7873　福島県石川郡石川町字飛ヶ作261",
+    "url": "https://www.sekidai.co.jp/company/fukushima/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒146-0082　東京都大田区池上8-14-13",
+    "url": "https://www.sekidai.co.jp/company/tokyo/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "〒146-0082 東京都大田区池上8-14-13",
+    "url": "https://www.mirai-ota.net/company/detail/213",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　　岸波 忠夫",
+    "url": "https://www.sekidai.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役　岸波　忠夫",
+    "url": "https://www.mirai-ota.net/company/detail/213",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "66名（パート社員含む）",
+    "url": "https://www.sekidai.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "label": "従業員",
+    "value": "63名",
+    "url": "https://www.mirai-ota.net/company/detail/213",
+    "pass": 3
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "［ 主要取引先 ］ 本田技研工業株式会社 株式会社本田技術研究所 株式会社ホンダ・レーシング 株式会社M-TEC 株式会社IHI（及びグループ各社） 武蔵精密工業株式会社 株式会社ミクニ 住友重機械工業株式会社 日本精工株式会社 日本電気株式会社 Astemo株式会社 東芝エネルギーシステムズ株式会社 ブリヂストンプラントエンジニアリング株式会社 株式会社トヨタガズーレーシングディベロップメント 国立研究開発法人宇宙航空研究開発機構（JAXA） （順不同、敬称略）",
+    "url": "https://www.sekidai.co.jp/company/about/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "「SDK」新製品SDKノットブラケット発売開始のお知らせ",
+    "url": "https://www.sekidai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "を保有しており、製品の性質によって東京、福島にて臨機応変にご対応致します",
+    "url": "https://www.sekidai.co.jp/company/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "「SDK」新製品► SDKノットブラケット｜ノット締め込みをサポートするタックルボックス用DIYカスタムパーツ",
+    "url": "https://www.sekidai.co.jp/blog/sdk/sdk2/",
+    "pass": 1
+   },
+   {
+    "quote": "「SDK」新製品SDKノットブラケット発売開始のお知らせ",
+    "url": "https://www.sekidai.co.jp/blog/sdk/sdk2/",
+    "pass": 1
+   },
+   {
+    "quote": "セキダイ工業株式会社より、新しい自社製品「SDKノットブラケット」のご紹介です",
+    "url": "https://www.sekidai.co.jp/blog/sdk/sdk2/",
+    "pass": 1
+   },
+   {
+    "quote": "自社ブランド「SDK / Racing Angler」として、釣り人の実用性と所有感を満たす製品づくりに取り組んでいます",
+    "url": "https://www.sekidai.co.jp/blog/sdk/sdk2/",
+    "pass": 1
+   },
+   {
+    "quote": "SDK / Racing Angler 製品紹介",
+    "url": "https://www.sekidai.co.jp/blog/sdk/sdk2/",
+    "pass": 1
+   },
+   {
+    "quote": "SDKノットブラケットは、タックルボックスなどに取り付けて使用するDIY製品です",
+    "url": "https://www.sekidai.co.jp/blog/sdk/sdk2/",
+    "pass": 1
+   },
+   {
+    "quote": "本製品にはM4タッピングビスが付属しています",
+    "url": "https://www.sekidai.co.jp/blog/sdk/sdk2/",
+    "pass": 1
+   },
+   {
+    "quote": "釣り人の実用性と所有感を満たす製品づくりを目指しています",
+    "url": "https://www.sekidai.co.jp/blog/sdk/sdk2/",
+    "pass": 1
+   },
+   {
+    "quote": "完全日本製のものづくりにこだわり、実釣で使いやすい製品を通じて、",
+    "url": "https://www.sekidai.co.jp/blog/sdk/sdk2/",
+    "pass": 1
+   },
+   {
+    "quote": "「SDK」新製品SDKノットブラケット発売開始のお知らせ",
+    "url": "https://www.sekidai.co.jp/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "実際の製品は規格に合わせて加工するため、このサンプルより加工時間は短くなります",
+    "url": "https://www.sekidai.co.jp/case/005/",
+    "pass": 1
+   },
+   {
+    "quote": "マシニングセンター42台、NC旋盤8台を保有しており、製品の性質によって東京、福島にて臨機応変にご対応致します",
+    "url": "https://www.sekidai.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "手先が器用な女性も多数活躍している職場で、お客様にお届けする製品を扱うため責任感も求められますが、慎重かつ誠実に作業していただければ問題ありません",
+    "url": "https://www.sekidai.co.jp/recruit/about/",
+    "pass": 1
+   },
+   {
+    "quote": "…製品のサイズや精度を考慮して3軸加工機から5軸加工機まで、適した機械での加工を行います",
+    "url": "https://www.sekidai.co.jp/blog/processing/231010/",
+    "pass": 1
+   },
+   {
+    "quote": "合金（比重2.7）の2/3という圧倒的な軽さで、業界問わず様々な製品の軽量化に貢献",
+    "url": "https://www.sekidai.co.jp/materials/magnesium/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトのラインナップは「TOOLS」5台、「CATIA V5」1台、「MASTER CAM」1台となります",
+    "url": "https://www.sekidai.co.jp/company/tokyo/",
+    "pass": 1
+   },
+   {
+    "quote": "仕上げ室では手作業を中心とした製品の最終仕上げ工程を行っております",
+    "url": "https://www.sekidai.co.jp/company/tokyo/",
+    "pass": 1
+   },
+   {
+    "quote": "マシニングセンター42台、NC旋盤8台を保有しており、製品の性質によって東京、福島にて臨機応変にご対応致します",
+    "url": "https://www.sekidai.co.jp/company/tokyo/",
+    "pass": 1
+   },
+   {
+    "quote": "主要事業、および得意技術や自社製品のご紹介",
+    "url": "https://www.mirai-ota.net/company/detail/213",
+    "pass": 3
+   },
+   {
+    "quote": "■年間4,000点以上の製品を加工",
+    "url": "https://www.mirai-ota.net/company/detail/213",
+    "pass": 3
+   },
+   {
+    "quote": "また製品には必ず検査図面を添付しております",
+    "url": "https://www.mirai-ota.net/company/detail/213",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "マシニング加工・精密切削加工なら【セキダイ工業】｜マグネシウム・チタン・インコネル対応（東京・福島）",
+    "url": "https://www.sekidai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "マグネシウム・チタン・インコネルなどの難削材から、",
+    "url": "https://www.sekidai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "マグネシウムなどの難削材を加工できる会社が見つからない",
+    "url": "https://www.sekidai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "マグネシウム、チタン、インコネル、モリブデン、インバーをはじめ、",
+    "url": "https://www.sekidai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "材質特性を踏まえ、加工方法を検討します",
+    "url": "https://www.sekidai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂材料の中で最高レベルの物性を持ったスーパーエンプラの代表種",
+    "url": "https://www.sekidai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "マグネシウム（合金）の化成処理,陽極酸化処理総覧",
+    "url": "https://www.sekidai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "第16回おおた研究・開発フェアに出展｜マグネシウム精密加工技術を紹介",
+    "url": "https://www.sekidai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ・チタン・マグネシウム・インコネルなど、難削材や複雑形状の精密切削加工事例を掲載しています",
+    "url": "https://www.sekidai.co.jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "「インコネル」や「チタン」に代表される難削材の切削加工はお任せください",
+    "url": "https://www.sekidai.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "取り付け時にビスを締め込み過ぎると、取り付け側の樹脂を傷めたり、",
+    "url": "https://www.sekidai.co.jp/blog/sdk/sdk2/",
+    "pass": 1
+   },
+   {
+    "quote": "締め込み過ぎると、取り付け側の樹脂を傷めたり、固定力が低下したりする場合があります",
+    "url": "https://www.sekidai.co.jp/blog/sdk/sdk2/",
+    "pass": 1
+   },
+   {
+    "quote": "マグネシウム（合金）の化成処理,陽極酸化処理総覧",
+    "url": "https://www.sekidai.co.jp/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "第16回おおた研究・開発フェアに出展｜マグネシウム精密加工技術を紹介 ► セキダイ工業株式会社",
+    "url": "https://www.sekidai.co.jp/4860/",
+    "pass": 1
+   },
+   {
+    "quote": "第16回おおた研究・開発フェアに出展｜マグネシウム精密加工技術を紹介",
+    "url": "https://www.sekidai.co.jp/4860/",
+    "pass": 1
+   },
+   {
+    "quote": "衛星・宇宙機器の軽量化を支えるマグネシウム加工",
+    "url": "https://www.sekidai.co.jp/4860/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は「航空・宇宙」分野に出展し、マグネシウム加工品や展示パネルを通じて、精密加工の技術をご紹介しました",
+    "url": "https://www.sekidai.co.jp/4860/",
+    "pass": 1
+   },
+   {
+    "quote": "衛星・宇宙機器の軽量化をテーマに、マグネシウム精密加工技術をご紹介した展示パネル",
+    "url": "https://www.sekidai.co.jp/4860/",
+    "pass": 1
+   },
+   {
+    "quote": "マグネシウム精密加工について、来場者の方にご説明する当社社員",
+    "url": "https://www.sekidai.co.jp/4860/",
+    "pass": 1
+   },
+   {
+    "quote": "「部品を軽くしたい」「マグネシウムでこの形状を加工できるか知りたい」",
+    "url": "https://www.sekidai.co.jp/4860/",
+    "pass": 1
+   },
+   {
+    "quote": "小型UAV向け軽量構造部品へのマグネシウム合金の適用提案",
+    "url": "https://www.sekidai.co.jp/4833/",
+    "pass": 1
+   },
+   {
+    "quote": "をテーマに、マグネシウム加工品や各種パネルを展示し、軽量化の可能性や加工時の安全管理、腐食対策・表面処理についてご紹介しました",
+    "url": "https://www.sekidai.co.jp/4833/",
+    "pass": 1
+   },
+   {
+    "quote": "小型UAV向けにマグネシウム合金の適用をご提案",
+    "url": "https://www.sekidai.co.jp/4833/",
+    "pass": 1
+   },
+   {
+    "quote": "今回の展示では、小型UAVのモーターマウントやメインプレートなどの構造部品を想定し、マグネシウム合金による軽量化をご提案しました",
+    "url": "https://www.sekidai.co.jp/4833/",
+    "pass": 1
+   },
+   {
+    "quote": "ブースでは、アルミとの比重比較や、樹脂・カーボンとの比較を通じて、マグネシウム合金の特長をご紹介しました",
+    "url": "https://www.sekidai.co.jp/4833/",
+    "pass": 1
+   },
+   {
+    "quote": "軽量化が求められる部品に対して、材料選定の一つの選択肢としてマグネシウムを知っていただくことを目的とした展示です",
+    "url": "https://www.sekidai.co.jp/4833/",
+    "pass": 1
+   },
+   {
+    "quote": "小型UAV向けの適用例と、アルミ・樹脂・カーボンとの比較",
+    "url": "https://www.sekidai.co.jp/4833/",
+    "pass": 1
+   },
+   {
+    "quote": "マグネシウム加工品と、発火・腐食に対する当社の取り組み",
+    "url": "https://www.sekidai.co.jp/4833/",
+    "pass": 1
+   },
+   {
+    "quote": "また、マグネシウム加工で重要となる発火リスクへの安全管理や、腐食への対策についてもご紹介しました",
+    "url": "https://www.sekidai.co.jp/4833/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では油溶性切削油の使用、マグネシウム専用の消火用乾燥砂の常設など、安全面に配慮しながら継続的にマグネシウム加工へ取り組んでいます",
+    "url": "https://www.sekidai.co.jp/4833/",
+    "pass": 1
+   },
+   {
+    "quote": "当日は多くの方に当社ブースへお立ち寄りいただき、展示品やパネルをご覧いただきながら、マグネシウム加工や軽量化についてお話しする機会をいただきました",
+    "url": "https://www.sekidai.co.jp/4833/",
+    "pass": 1
+   },
+   {
+    "quote": "セキダイ工業では、マグネシウム合金をはじめとした難削材・複雑形状の切削加工について、試作1個からご相談を承っております",
+    "url": "https://www.sekidai.co.jp/4833/",
+    "pass": 1
+   },
+   {
+    "quote": "類似部品の加工をご検討の場合は、図面に加え、材質・数量・ご希望納期をお知らせください",
+    "url": "https://www.sekidai.co.jp/case/005/",
+    "pass": 1
+   },
+   {
+    "quote": "マグネシウム合金・チタン・インコネルなどの各種金属材料の機械加工",
+    "url": "https://www.sekidai.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "マグネシウムやチタンなど各種難削材の切削加工はセキダイ工業お任せください",
+    "url": "https://www.sekidai.co.jp/technology/difficult/",
+    "pass": 1
+   },
+   {
+    "quote": "また難削材の特徴として「素材の硬度が高く、切削時に刃物が折れてしまう金属（インコネル、チタン等）」や「切削時に発火しやすく加工管理が大変な金属（マグネシウム）」や「削っている際にボロボロに壊れてしまう素材（純鉄や特殊樹脂）」など一般的な切削素材であるアルミやステンレスなどと比較して一癖や二癖ある素材の切削加工です",
+    "url": "https://www.sekidai.co.jp/technology/difficult/",
+    "pass": 1
+   },
+   {
+    "quote": "「純鉄」や「PPS-GF40」また「アルミ1000系」などの切削加工中に母材がポロポロと崩れてしまう材質も、形状や公差の基準をクリアする事が難しい為、難削材と呼ばれています",
+    "url": "https://www.sekidai.co.jp/technology/difficult/",
+    "pass": 1
+   },
+   {
+    "quote": "お見積もりの際は、図面に加え、材質・数量・ご希望納期をお知らせください",
+    "url": "https://www.sekidai.co.jp/technology/biglathe/",
+    "pass": 1
+   },
+   {
+    "quote": "MC-4VAEマグネシウム加工中",
+    "url": "https://www.sekidai.co.jp/company/fukushima/",
+    "pass": 1
+   },
+   {
+    "quote": "難削材「チタン」の加工について ► セキダイ工業株式会社 (東京・福島）切削加工・金属加工は当社までご相談ください",
+    "url": "https://www.sekidai.co.jp/blog/processing/231010/",
+    "pass": 1
+   },
+   {
+    "quote": "チタンは優れた特性を持つ金属で、軽量でありながら高強度と耐食性に優れています",
+    "url": "https://www.sekidai.co.jp/blog/processing/231010/",
+    "pass": 1
+   },
+   {
+    "quote": "チタンに他の添加金属によって強化されたチタン合金は、機械的強度が求められる場面で使用されます",
+    "url": "https://www.sekidai.co.jp/blog/processing/231010/",
+    "pass": 1
+   },
+   {
+    "quote": "チタンの加工方法を選ぶ際の「形状」や「使用用途」に合った注意点や考慮した具体的な加工方法と注意点について解説していきます",
+    "url": "https://www.sekidai.co.jp/blog/processing/231010/",
+    "pass": 1
+   },
+   {
+    "quote": "チタンの持つ優れた特性から、広範囲にわたる産業分野でニーズが高まっている金属です",
+    "url": "https://www.sekidai.co.jp/blog/processing/231010/",
+    "pass": 1
+   },
+   {
+    "quote": "その難しさもチタンの種類、形状や用途に応じて適切な工程や注意点を把握し、適切な加工を行う事でご希望の使用用途に適した部品を調達する事ができます",
+    "url": "https://www.sekidai.co.jp/blog/processing/231010/",
+    "pass": 1
+   },
+   {
+    "quote": "それでは様々なチタン加工をご紹介していきます",
+    "url": "https://www.sekidai.co.jp/blog/processing/231010/",
+    "pass": 1
+   },
+   {
+    "quote": "…チタン材に対して電極であるワイヤー線を通電させて切断する加工です",
+    "url": "https://www.sekidai.co.jp/blog/processing/231010/",
+    "pass": 1
+   },
+   {
+    "quote": "チタンの曲げ加工は、強い弾性とスプリングバック現象に注意が必要です",
+    "url": "https://www.sekidai.co.jp/blog/processing/231010/",
+    "pass": 1
+   },
+   {
+    "quote": "チタンの種類は大きく分けて「純チタン」と「６４チタン」に分かれます",
+    "url": "https://www.sekidai.co.jp/blog/processing/231010/",
+    "pass": 1
+   },
+   {
+    "quote": "純チタンは「1種」「2種」「3種」「4種」の4種類があり、チタン2種が流通性などを考慮して、最も一般的な材質となります",
+    "url": "https://www.sekidai.co.jp/blog/processing/231010/",
+    "pass": 1
+   },
+   {
+    "quote": "当社で取り扱う純チタンも大半がチタン2種です",
+    "url": "https://www.sekidai.co.jp/blog/processing/231010/",
+    "pass": 1
+   },
+   {
+    "quote": "チタン1種は「柔らかく、純度が高い」のに対して4種に近づくにつれて「硬く、純度が低く」なります",
+    "url": "https://www.sekidai.co.jp/blog/processing/231010/",
+    "pass": 1
+   },
+   {
+    "quote": "64チタン（Ti-6Al-4v）",
+    "url": "https://www.sekidai.co.jp/blog/processing/231010/",
+    "pass": 1
+   },
+   {
+    "quote": "64チタンは上記の通り、純チタンと比較して強度を始めとした機械的性質が高く、航空・宇宙関連の部品に使用されることが多い",
+    "url": "https://www.sekidai.co.jp/blog/processing/231010/",
+    "pass": 1
+   },
+   {
+    "quote": "また純チタンと比較して材料費も高額になる為、特段の目的が無い場合は純チタン2種を採用される事が多いです",
+    "url": "https://www.sekidai.co.jp/blog/processing/231010/",
+    "pass": 1
+   },
+   {
+    "quote": "（軽量金属であるマグネシウムやアルミと比較すると勿論重い）",
+    "url": "https://www.sekidai.co.jp/blog/processing/231010/",
+    "pass": 1
+   },
+   {
+    "quote": "チタンは約５００℃の高温まで機械的性質を保つことが出来る",
+    "url": "https://www.sekidai.co.jp/blog/processing/231010/",
+    "pass": 1
+   },
+   {
+    "quote": "チタンは、特に海水との接触において非常に耐食性が高い金属です",
+    "url": "https://www.sekidai.co.jp/blog/processing/231010/",
+    "pass": 1
+   },
+   {
+    "quote": "この耐食性は、チタンの表面に形成される酸化チタンの強固な皮膜によるもので、特に塩素イオンに対して優れた防御を提供しステンレス鋼と比較しても、海水中の耐食性はチタンの方が優れています",
+    "url": "https://www.sekidai.co.jp/blog/processing/231010/",
+    "pass": 1
+   },
+   {
+    "quote": "チタン合金は毒性がなく、金属アレルギーを起こしにくい金属である為、インプラントなど人体の内部に直接使用されている事が多い",
+    "url": "https://www.sekidai.co.jp/blog/processing/231010/",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "複雑形状・高精度部品まで、試作1個から小ロット量産まで対応します",
+    "url": "https://www.sekidai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "試作1個だけ製作したい",
+    "url": "https://www.sekidai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "年間5,000点以上の多品種・少量加工",
+    "url": "https://www.sekidai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "試作1個から、多品種少量・開発部品まで幅広く対応しています",
+    "url": "https://www.sekidai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "図面1枚・試作1個から対応いたします",
+    "url": "https://www.sekidai.co.jp/case/",
+    "pass": 1
+   },
+   {
+    "quote": "図面1枚・試作1個から対応いたします",
+    "url": "https://www.sekidai.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "セキダイ工業株式会社では、1個の試作から小ロット量産まで",
+    "url": "https://www.sekidai.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "短納期1個の試作から承ります",
+    "url": "https://www.sekidai.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "小ロット～月200個まで対応",
+    "url": "https://www.sekidai.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "図面1枚・試作1個から対応いたします",
+    "url": "https://www.sekidai.co.jp/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "図面1枚・試作1個から対応いたします",
+    "url": "https://www.sekidai.co.jp/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "セキダイ工業では、マグネシウム合金をはじめとした難削材・複雑形状の切削加工について、試作1個からご相談を承っております",
+    "url": "https://www.sekidai.co.jp/4833/",
+    "pass": 1
+   },
+   {
+    "quote": "各種エンジン用試作部品及びその他の試作品の精密機械加工",
+    "url": "https://www.sekidai.co.jp/company/iso/",
+    "pass": 1
+   },
+   {
+    "quote": "マシニングセンター・複合5軸加工機を主体とした多品種少量の金属切削加工",
+    "url": "https://www.sekidai.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では8割以上の加工物は試作品です",
+    "url": "https://www.sekidai.co.jp/technology/trial-production/",
+    "pass": 1
+   },
+   {
+    "quote": "切削加工の試作案件は当社へお任せください ► セキダイ工業株式会社",
+    "url": "https://www.sekidai.co.jp/technology/trial-production/",
+    "pass": 1
+   },
+   {
+    "quote": "セキダイ工業では、開発初期の試作部品の製作を得意としております",
+    "url": "https://www.sekidai.co.jp/technology/trial-production/",
+    "pass": 1
+   },
+   {
+    "quote": "1個からの単品もお気軽にお申し付けください",
+    "url": "https://www.sekidai.co.jp/technology/trial-production/",
+    "pass": 1
+   },
+   {
+    "quote": "当社の切削加工の約8割が試作案件",
+    "url": "https://www.sekidai.co.jp/technology/trial-production/",
+    "pass": 1
+   },
+   {
+    "quote": "「ブロックからの削り出し」や「鋳物での量産前試作」に対応",
+    "url": "https://www.sekidai.co.jp/technology/trial-production/",
+    "pass": 1
+   },
+   {
+    "quote": "高精度 ・精密部品の試作、量産加工は実績と信頼のセキダイ工業にお任せください► セキダイ工業株式会社",
+    "url": "https://www.sekidai.co.jp/technology/highprecision/",
+    "pass": 1
+   },
+   {
+    "quote": "試作1個から月産10個程度まで",
+    "url": "https://www.sekidai.co.jp/technology/biglathe/",
+    "pass": 1
+   },
+   {
+    "quote": "金属全般の精密切削加工をメインに、最新の設備で高品質な試作部品を中心に製造しています",
+    "url": "https://www.sekidai.co.jp/recruit/about/",
+    "pass": 1
+   },
+   {
+    "quote": "四輪・二輪を問わず自動車部品を中心に様々な試作部品を日々製作しております",
+    "url": "https://www.sekidai.co.jp/recruit/about/",
+    "pass": 1
+   },
+   {
+    "quote": "半量産部品や大型試作部品を中心とした製造拠点",
+    "url": "https://www.sekidai.co.jp/company/fukushima/",
+    "pass": 1
+   },
+   {
+    "quote": "工場長挨拶加工可能範囲工場紹介加工実績アクセス大田区の中心から製造業を盛り上げる！本社兼東京工場マシニングセンター11台、NC旋盤3台、複合加工機1台設置レーザーマーカーとワイヤーカットも保有612.35㎡の小規模な工場ながら各種検査機器も充実東京工場での対応可能な切削および加工範囲てのひらサイズの部品～最大200角のマシニング加工をメインに、小振りの試作部品を中心に加工",
+    "url": "https://www.sekidai.co.jp/company/fukushima/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要商号セキダイ工業株式会社SEKIDAI KOGYO CO.,LTD.創業1964年（昭和39年）2月所在地【本 社】〒146-0082 東京都大田区池上8-14-13【福島工場】〒963-7873 福島県石川郡石川町字飛ヶ作261代表者代表取締役社長 岸波 忠夫役員代表取締役会長 山本 紫取締役製造本部長 岡部 賢基取締役本社工場長 吉田 哲雄電話番号東京本社 03-6410-6446福島工場 0247-26-4132資本金4,000万円従業員数66名（パート社員含む）業務内容マシニングセンター・複合5軸加工機を主体とした多品種少量の金属切削加工CAD・CAMにより複雑な三...",
+    "url": "https://www.sekidai.co.jp/company/fukushima/",
+    "pass": 1
+   },
+   {
+    "quote": "図面1枚・試作1個から対応いたします",
+    "url": "https://www.sekidai.co.jp/blog/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "てのひらサイズの部品～最大200角のマシニング加工をメインに、小振りの試作部品を中心に加工",
+    "url": "https://www.sekidai.co.jp/company/tokyo/",
+    "pass": 1
+   },
+   {
+    "quote": "工場内には高精度な加工設備と検査機器を配置し、小型精密部品を中心とした試作・小ロット加工に対応しています",
+    "url": "https://www.sekidai.co.jp/company/tokyo/",
+    "pass": 1
+   },
+   {
+    "quote": "工場長挨拶加工可能範囲工場紹介加工実績アクセス半量産部品や大型試作部品を中心とした製造拠点マシニングセンター33台、NC旋盤5台、複合加工機4台東京同様、レーザーマーカーとワイヤーカットに加えて、汎用フライス・汎用旋盤も稼働福島の広大な土地（2,714㎡）を活用した大規模工場工場長挨拶福島工場では昭和62年に竣工以来、地元に根付いた取り組みと地域活性化をモットーにものづくりに取り組んできました",
+    "url": "https://www.sekidai.co.jp/company/tokyo/",
+    "pass": 1
+   },
+   {
+    "quote": "厳しい精度が要求される医療機器の製作実績もあり、試作部品の製作から月産1,000個程度の半量産部品の製作まで対応可能です",
+    "url": "https://tokyo-monodukuri-seeds.jp/corporate/1268/",
+    "pass": 3
+   },
+   {
+    "quote": "・2019年 人体向け純チタンプレートの試作部品の製作",
+    "url": "https://tokyo-monodukuri-seeds.jp/corporate/1268/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "「SDK」新製品SDKノットブラケット発売開始のお知らせ",
+    "url": "https://www.sekidai.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "「SDK」新製品► SDKノットブラケット｜ノット締め込みをサポートするタックルボックス用DIYカスタムパーツ",
+    "url": "https://www.sekidai.co.jp/blog/sdk/sdk2/",
+    "pass": 1
+   },
+   {
+    "quote": "「SDK」新製品SDKノットブラケット発売開始のお知らせ",
+    "url": "https://www.sekidai.co.jp/blog/sdk/sdk2/",
+    "pass": 1
+   },
+   {
+    "quote": "セキダイ工業株式会社より、新しい自社製品「SDKノットブラケット」のご紹介です",
+    "url": "https://www.sekidai.co.jp/blog/sdk/sdk2/",
+    "pass": 1
+   },
+   {
+    "quote": "今回ご紹介する「SDK KNOT BRACKET / SDKノットブラケット」は、",
+    "url": "https://www.sekidai.co.jp/blog/sdk/sdk2/",
+    "pass": 1
+   },
+   {
+    "quote": "SDKノットブラケット｜ノット締め込み用タックルボックスカスタムパーツ",
+    "url": "https://www.sekidai.co.jp/blog/sdk/sdk2/",
+    "pass": 1
+   },
+   {
+    "quote": "SDKノットブラケットは、オフショアジギングやスロージギングで重要となる",
+    "url": "https://www.sekidai.co.jp/blog/sdk/sdk2/",
+    "pass": 1
+   },
+   {
+    "quote": "ノット締め込み用ブラケット、タックルボックスカスタム、ドカットカスタム、",
+    "url": "https://www.sekidai.co.jp/blog/sdk/sdk2/",
+    "pass": 1
+   },
+   {
+    "quote": "タックルボックスに取り付けたSDKノットブラケット",
+    "url": "https://www.sekidai.co.jp/blog/sdk/sdk2/",
+    "pass": 1
+   },
+   {
+    "quote": "SDKノットブラケットは、タックルボックスなどに取り付けて使用するDIY製品です",
+    "url": "https://www.sekidai.co.jp/blog/sdk/sdk2/",
+    "pass": 1
+   },
+   {
+    "quote": "SDK KNOT BRACKET / SDK ノットブラケット",
+    "url": "https://www.sekidai.co.jp/blog/sdk/sdk2/",
+    "pass": 1
+   },
+   {
+    "quote": "SDKノットブラケットの商品ページ・購入はこちら",
+    "url": "https://www.sekidai.co.jp/blog/sdk/sdk2/",
+    "pass": 1
+   },
+   {
+    "quote": "Q. SDKノットブラケットはどこに取り付けできますか？",
+    "url": "https://www.sekidai.co.jp/blog/sdk/sdk2/",
+    "pass": 1
+   },
+   {
+    "quote": "関連キーワード：SDKノットブラケット、SDK KNOT BRACKET、ノット締め込み、ノット締め込みブラケット、タックルボックスカスタム、ドカットカスタム、バケットマウスカスタム、VERSUS VSシリーズ、オフショアジギング、スロージギング",
+    "url": "https://www.sekidai.co.jp/blog/sdk/sdk2/",
+    "pass": 1
+   },
+   {
+    "quote": "「SDK」新製品SDKノットブラケット発売開始のお知らせ",
+    "url": "https://www.sekidai.co.jp/blog/",
+    "pass": 1
+   },
+   {
+    "quote": "当社ブースでは、衛星・宇宙機器の軽量化に向けた「",
+    "url": "https://www.sekidai.co.jp/4860/",
+    "pass": 1
+   },
+   {
+    "quote": "衛星・宇宙機器の軽量化を支えるマグネシウム加工",
+    "url": "https://www.sekidai.co.jp/4860/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は「航空・宇宙」分野に出展し、マグネシウム加工品や展示パネルを通じて、精密加工の技術をご紹介しました",
+    "url": "https://www.sekidai.co.jp/4860/",
+    "pass": 1
+   },
+   {
+    "quote": "衛星・宇宙機器の軽量化をテーマに、マグネシウム精密加工技術をご紹介した展示パネル",
+    "url": "https://www.sekidai.co.jp/4860/",
+    "pass": 1
+   },
+   {
+    "quote": "国立研究開発法人宇宙航空研究開発機構（JAXA）",
+    "url": "https://www.sekidai.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "当初は弱電関連の部品加工から事業をスタートさせ、現在では主に自動車、二輪車及び各種部品の精密機械加工でお客様の開発支援に貢献しております",
+    "url": "https://www.sekidai.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "四輪・二輪を問わず自動車部品を中心に様々な試作部品を日々製作しております",
+    "url": "https://www.sekidai.co.jp/recruit/about/",
+    "pass": 1
+   },
+   {
+    "quote": "ここ数年では、自動車関連の部品を製作する事が大半を占めていましたが、近年のお客様からの要求ニーズの多様化にお応えできるように、様々な業界のお仕事を積極的にお手伝いしています",
+    "url": "https://www.sekidai.co.jp/company/fukushima/",
+    "pass": 1
+   },
+   {
+    "quote": "東北自動車道 矢吹ICから車で15分",
+    "url": "https://www.sekidai.co.jp/company/fukushima/",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙から一般産業まで多様な分野で利用されており、その性能から他金属と比較して加工が比較的難しいです",
+    "url": "https://www.sekidai.co.jp/blog/processing/231010/",
+    "pass": 1
+   },
+   {
+    "quote": "64チタンは上記の通り、純チタンと比較して強度を始めとした機械的性質が高く、航空・宇宙関連の部品に使用されることが多い",
+    "url": "https://www.sekidai.co.jp/blog/processing/231010/",
+    "pass": 1
+   },
+   {
+    "quote": "チタン合金は毒性がなく、金属アレルギーを起こしにくい金属である為、インプラントなど人体の内部に直接使用されている事が多い",
+    "url": "https://www.sekidai.co.jp/blog/processing/231010/",
+    "pass": 1
+   },
+   {
+    "quote": "医療関係部品から航空宇宙関係部品など幅広い業界で使用される「",
+    "url": "https://www.sekidai.co.jp/blog/processing/231010/",
+    "pass": 1
+   },
+   {
+    "quote": "近年の軽量化のニーズからも自動車や宇宙部品などの様々な産業に使用されている、ポテンシャルの高い材質となっています",
+    "url": "https://www.sekidai.co.jp/materials/magnesium/",
+    "pass": 1
+   },
+   {
+    "quote": "その他に、スマホやパソコンなどの電子デバイス、精密検査機械、自動車部品など軽量化を求められる部品で積極的に使用されています",
+    "url": "https://www.sekidai.co.jp/materials/magnesium/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では「マグネシウム製の自動車用部品」から始まり、継続して加工を続けた強みを自負しております",
+    "url": "https://www.sekidai.co.jp/materials/magnesium/",
+    "pass": 1
+   },
+   {
+    "quote": "大型の治具部品やタイヤ生産設備向けなど、長尺・大型の板物加工をご相談いただけます",
+    "url": "https://www.sekidai.co.jp/technology/long/",
+    "pass": 1
+   },
+   {
+    "quote": "ここ数年では、自動車関連の部品を製作する事が大半を占めていましたが、近年のお客様からの要求ニーズの多様化にお応え...",
+    "url": "https://www.sekidai.co.jp/company/tokyo/",
+    "pass": 1
+   },
+   {
+    "quote": "セキダイ工業株式会社 | 医療機器開発のパートナーが探せるサイト「ものづくり中小企業技術シーズ」",
+    "url": "https://tokyo-monodukuri-seeds.jp/corporate/1268/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車業界で培った精密部品加工の技術を駆使し、「チタン」や「PEEK」部品の高精度な加工を行います",
+    "url": "https://tokyo-monodukuri-seeds.jp/corporate/1268/",
+    "pass": 3
+   },
+   {
+    "quote": "厳しい精度が要求される医療機器の製作実績もあり、試作部品の製作から月産1,000個程度の半量産部品の製作まで対応可能です",
+    "url": "https://tokyo-monodukuri-seeds.jp/corporate/1268/",
+    "pass": 3
+   },
+   {
+    "quote": "・2021年 歯科インプラント用純チタン製小径部品の300個を製作",
+    "url": "https://tokyo-monodukuri-seeds.jp/corporate/1268/",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器製造業、ISO9001",
+    "url": "https://tokyo-monodukuri-seeds.jp/corporate/1268/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車（市販車からレース車両）、ロボット、医療機器業界、防衛業界、航空宇宙業界など幅広い業界の高精度部品から難削材までの対応を可能とする実績とノウハウを積み重ねています",
+    "url": "https://www.mirai-ota.net/company/detail/213",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "CAD・CAMにより複雑な三次元加工をはじめ、高精度・高品質の加工",
+    "url": "https://www.sekidai.co.jp/company/about/",
+    "pass": 1
+   },
+   {
+    "quote": "CAD/CAMが普及する前からインデックスを活用して３D形状加工をしていたノウハウ",
+    "url": "https://www.sekidai.co.jp/technology/difficult-shape/",
+    "pass": 1
+   },
+   {
+    "quote": "会社概要商号セキダイ工業株式会社SEKIDAI KOGYO CO.,LTD.創業1964年（昭和39年）2月所在地【本 社】〒146-0082 東京都大田区池上8-14-13【福島工場】〒963-7873 福島県石川郡石川町字飛ヶ作261代表者代表取締役社長 岸波 忠夫役員代表取締役会長 山本 紫取締役製造本部長 岡部 賢基取締役本社工場長 吉田 哲雄電話番号東京本社 03-6410-6446福島工場 0247-26-4132資本金4,000万円従業員数66名（パート社員含む）業務内容マシニングセンター・複合5軸加工機を主体とした多品種少量の金属切削加工CAD・CAMにより複雑な三...",
+    "url": "https://www.sekidai.co.jp/company/fukushima/",
+    "pass": 1
+   },
+   {
+    "quote": "AM50A*",
+    "url": "https://www.sekidai.co.jp/materials/magnesium/",
+    "pass": 1
+   },
+   {
+    "quote": "ソフトのラインナップは「TOOLS」5台、「CATIA V5」1台、「MASTER CAM」1台となります",
+    "url": "https://www.sekidai.co.jp/company/tokyo/",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "現在、非常に多くのマグネシウム加工のお問い合わせを頂いており、ご要望に応じて、DRFマグネシウム合金や",
+    "url": "https://www.sekidai.co.jp/materials/magnesium/",
+    "pass": 1
+   },
+   {
+    "quote": "「セキダイ工業株式会社」へのお問い合わせはこちら",
+    "url": "https://www.mirai-ota.net/company/detail/213",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "マシニング加工・精密切削加工なら【 セキダイ工業 ... — マシニング加工・精密切削加工なら【 セキダイ工業 ... セキダイ工業株式会社 https://www.sekidai.co.jp",
+    "url": "https://www.sekidai.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 / 沿革 セキダイ工業 株式会社 （マシニング加工 ... — 会社概要 / 沿革 セキダイ工業 株式会社 （マシニング加工 ... セキダイ工業株式会社 https://www.sekidai.co.jp > 会社案内",
+    "url": "https://www.sekidai.co.jp/company/about/",
+    "pass": 3
+   },
+   {
+    "quote": "セキダイ工業 株式会社の 会社概要 ・製品情報 - Metoree — セキダイ工業 株式会社の 会社概要 ・製品情報 - Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/5561/",
+    "pass": 3
+   },
+   {
+    "quote": "セキダイ工業 株式 会社 | 医療機器開発のパートナーが探せる ... — セキダイ工業 株式 会社 | 医療機器開発のパートナーが探せる ... tokyo-monodukuri-seeds.jp https://tokyo-monodukuri-seeds.jp > corporate",
+    "url": "https://tokyo-monodukuri-seeds.jp/corporate/1268",
+    "pass": 3
+   },
+   {
+    "quote": "セキダイ工業 株式 会社 - 大田区研究開発型企業ガイド — セキダイ工業 株式 会社 - 大田区研究開発型企業ガイド 大田区研究開発型企業ガイド https://www.mirai-ota.net > company > detail",
+    "url": "https://www.mirai-ota.net/company/detail/213",
+    "pass": 3
+   },
+   {
+    "quote": "セキダイ工業 株式 会社 — セキダイ工業 株式 会社 ぐんま Tech EXPO 2026 PDF https://www.gunma-monodukurifaire.jp > pdf",
+    "url": "https://www.gunma-monodukurifaire.jp/pdf/a-06.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ ・相談 セキダイ工業 株式会社 — お問い合わせ ・相談 セキダイ工業 株式会社 セキダイ工業株式会社 https://www.sekidai.co.jp > contact",
+    "url": "https://www.sekidai.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "セキダイ工業 株式会社の会社概要・製品情報 - Metoree — セキダイ工業 株式会社の会社概要・製品情報 - Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/5561/",
+    "pass": 3
+   },
+   {
+    "quote": "セキダイ工業 株式会社 - 大田区研究開発型企業ガイド — セキダイ工業 株式会社 - 大田区研究開発型企業ガイド 大田区研究開発型企業ガイド https://www.mirai-ota.net > company > detail",
+    "url": "https://www.mirai-ota.net/company/detail/213",
+    "pass": 3
+   },
+   {
+    "quote": "セキダイ工業 株式会社 様 | 技術・ソリューション 導入事例 — セキダイ工業 株式会社 様 | 技術・ソリューション 導入事例 オークマ株式会社 https://www.okuma.co.jp > case > sekidai",
+    "url": "https://www.okuma.co.jp/case/sekidai.php",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Sekidai co Ltd セキダイ工業株式会社 福島工場 One of the specialit... Sekidai co Ltd セキダイ工業株式会社 福島工場 One of the specialities. Racing. This is a replica of Repsol Honda 2017 located in our Fukushima Factory. https://www.sekidai.co.jp",
+    "url": "https://www.linkedin.com/posts/yukari-o-257ab0_sekidai-co-ltd-セキダイ工業株式会社福島工場-one-of-the-activity-7347885086379323398-W4R6",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "セキダイ工業 株式会社 - Facebook セキダイ工業 株式会社 - Facebook Facebook https://www.facebook.com > posts > 燃料パイプsus304の...",
+    "url": "https://www.facebook.com/100063737752236/posts/%E7%87%83%E6%96%99%E3%83%91%E3%82%A4%E3%83%97sus304%E3%81%AE%E8%BB%8A%E4%B8%A1%E7%94%A8%E7%87%83%E6%96%99%E3%83%91%E3%82%A4%E3%83%97%E6%9D%90%E8%B3%AA-sus304%E5%8A%A0%E5%B7%A5-%E6%A8%AA%E5%BD%A2%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E7%AB%8B%E5%BD%A2%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E6%A8%AA%E5%9E%8B%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E3%81%A7%E5%81%B4%E9%9D%A2%E3%81%8B%E3%82%89%E3%81%AE%E8%B2%AB%E9%80%9A%E7%A9%B4%E3%82%92%E5%8A%A0%E5%B7%A5%E3%81%97%E3%81%9F%E8%87%AA%E5%8B%95%E8%BB%8A%E7%94%A8%E7%87%83%E6%96%99%E3%83%91%E3%82%A4%E3%83%97%E7%87%83%E6%96%99%E3%81%AF%E3%83%AC/140600387812985/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.sekidai.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sekidai.co.jp/case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sekidai.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sekidai.co.jp/company/facility/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sekidai.co.jp/technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sekidai.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sekidai.co.jp/technology/second/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sekidai.co.jp/blog/sdk/sdk2/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sekidai.co.jp/blog/surface/ex800/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sekidai.co.jp/blog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sekidai.co.jp/4860/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sekidai.co.jp/4833/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sekidai.co.jp/company/iso/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sekidai.co.jp/case/005/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sekidai.co.jp/company/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sekidai.co.jp/technology/trial-production/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sekidai.co.jp/technology/highprecision/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sekidai.co.jp/technology/difficult-shape/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sekidai.co.jp/technology/difficult/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sekidai.co.jp/technology/biglathe/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sekidai.co.jp/recruit/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sekidai.co.jp/company/fukushima/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sekidai.co.jp/blog/processing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sekidai.co.jp/blog/processing/231010/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sekidai.co.jp/materials/magnesium/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sekidai.co.jp/technology/long/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sekidai.co.jp/company/facility/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sekidai.co.jp/company/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sekidai.co.jp/company/tokyo/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sekidai.co.jp/technology/wirecut/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.sekidai.co.jp/cms/wp-content/uploads/2024/05/4955439e99ff716028ee84d09666c10c-300x300.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sekidai.co.jp/cms/wp-content/uploads/2022/07/Trialproduction-512.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sekidai.co.jp/cms/wp-content/uploads/2022/07/massproduction-e1661917964502.webp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.sekidai.co.jp/cms/wp-content/uploads/2022/08/brazing_512.webp",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mfg-hack.com/plastic/10134/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/5561/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://tokyo-monodukuri-seeds.jp/corporate/1268/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/5561/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mirai-ota.net/company/detail/213",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/yukari-o-257ab0_sekidai-co-ltd-セキダイ工業株式会社福島工場-one-of-the-activity-7347885086379323398-W4R6",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/100063737752236/posts/%E7%87%83%E6%96%99%E3%83%91%E3%82%A4%E3%83%97sus304%E3%81%AE%E8%BB%8A%E4%B8%A1%E7%94%A8%E7%87%83%E6%96%99%E3%83%91%E3%82%A4%E3%83%97%E6%9D%90%E8%B3%AA-sus304%E5%8A%A0%E5%B7%A5-%E6%A8%AA%E5%BD%A2%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E7%AB%8B%E5%BD%A2%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E6%A8%AA%E5%9E%8B%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E3%81%A7%E5%81%B4%E9%9D%A2%E3%81%8B%E3%82%89%E3%81%AE%E8%B2%AB%E9%80%9A%E7%A9%B4%E3%82%92%E5%8A%A0%E5%B7%A5%E3%81%97%E3%81%9F%E8%87%AA%E5%8B%95%E8%BB%8A%E7%94%A8%E7%87%83%E6%96%99%E3%83%91%E3%82%A4%E3%83%97%E7%87%83%E6%96%99%E3%81%AF%E3%83%AC/140600387812985/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "セキダイ工業 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.sekidai.co.jp/",
+    "https://injection-lab.com/technology/64-2.html",
+    "https://mfg-hack.com/plastic/10134/",
+    "https://www.youtube.com/watch?v=rL1D8Ah3h3g",
+    "https://kishimotokogyo.co.jp/archives/prototype/",
+    "https://www.zen.co.jp/",
+    "https://shinko56.com/trial.html",
+    "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "https://injection-fuchu.com/column/1203/",
+    "https://www.sekidai.co.jp/technology/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "セキダイ工業 会社概要 事業内容",
+   "results": [
+    "https://www.sekidai.co.jp/company/about/",
+    "https://metoree.com/companies/5561/",
+    "https://tokyo-monodukuri-seeds.jp/corporate/1268",
+    "https://www.mirai-ota.net/company/detail/213",
+    "https://www.gunma-monodukurifaire.jp/pdf/a-06.pdf",
+    "https://www.jidp.or.jp/ja/2021/09/29/tbda2021sekidai",
+    "https://www.buffett-code.com/company/33u14m9xwe/",
+    "https://precisionmachining-hikaku.com/list/sekidai/",
+    "https://kjcbiz.net/company/20200625ns-sekidai-co-jp/",
+    "https://sekiei-ii.jp/company"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "セキダイ工業 お問い合わせ メール",
+   "results": [
+    "https://www.sekidai.co.jp/contact/",
+    "https://metoree.com/companies/5561/",
+    "https://www.mirai-ota.net/company/detail/213",
+    "https://www.okuma.co.jp/case/sekidai.php",
+    "https://www.sekidai.co.jp/",
+    "https://energy-agency-fukushima.com/member/339/",
+    "https://kjcbiz.net/company/20200625ns-sekidai-co-jp/",
+    "https://www.jidp.or.jp/ja/2021/09/29/tbda2021sekidai",
+    "https://www.gunma-monodukurifaire.jp/pdf/a-06.pdf",
+    "https://www.sekikougyou.com/contact"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com セキダイ工業",
+   "results": [
+    "https://note.com/toshizo2024ip/n/n85e6218587eb",
+    "https://note.com/kens_reading1/n/na7fec038d67b?hl=en",
+    "https://note.com/nazotoki_isumi/n/n08fbcd26450d",
+    "https://note.com/eigoshasyou815/",
+    "https://note.com/kens_reading1/n/na7fec038d67b",
+    "https://note.com/clipcorporation/n/n243705de49b1",
+    "https://tales.note.com/eager_rail9432/wtw9zlpvii706/episodes/e9djr8t4b42ij",
+    "https://tales.note.com/eager_rail9432/wtw9zlpvii706",
+    "https://note.com/sankituushin/n/n10a5beaebb1b"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:x.com セキダイ工業",
+   "results": [
+    "https://x.com/tusfr",
+    "https://x.com/SDK1895428",
+    "https://x.com/yamamoto1980",
+    "https://x.com/bunsyokustaff",
+    "https://x.com/sekidai_kogyo",
+    "https://x.com/tusfr/status/1950056540049748126",
+    "https://x.com/B1wZMsuvFW9wPsB",
+    "https://x.com/hashtag/セキダイ",
+    "https://x.com/haroharow",
+    "https://x.com/Seki_DESITA/status/2119834675896262739"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 11
+  },
+  {
+   "query": "site:linkedin.com セキダイ工業",
+   "results": [
+    "https://www.linkedin.com/posts/yukari-o-257ab0_sekidai-co-ltd-セキダイ工業株式会社福島工場-one-of-the-activity-7347885086379323398-W4R6",
+    "https://jp.linkedin.com/in/sachie-yamaguchi-b94723291",
+    "https://jp.linkedin.com/in/nagato-komiya-85a939136",
+    "https://www.linkedin.com/",
+    "https://de.linkedin.com/in/jochen-denninger-90063113",
+    "https://ch.linkedin.com/in/widyane-acheli-a4a1a2195",
+    "https://de.linkedin.com/in/andreas-schneck-0250093"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com セキダイ工業",
+   "results": [
+    "https://www.facebook.com/100063737752236/posts/%E3%82%82%E3%81%AE%E3%81%A5%E3%81%8F%E3%82%8A%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E5%86%85%E6%A9%9F%E6%A2%B0%E8%A6%81%E7%B4%A0%E6%8A%80%E8%A1%93%E5%B1%95%E3%81%AB%E5%87%BA%E5%B1%95%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99624%E8%BF%84%E3%81%AA%E3%81%AE%E3%81%A7%E6%98%AF%E9%9D%9E%E3%81%8A%E7%AB%8B%E3%81%A1%E5%AF%84%E3%82%8A%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E5%B1%95%E7%A4%BA%E4%BC%9A-%E3%82%BB%E3%82%AD%E3%83%80%E3%82%A4%E5%B7%A5%E6%A5%AD-%E6%A9%9F%E6%A2%B0%E8%A6%81%E7%B4%A0%E6%8A%80%E8%A1%93%E5%B1%95/517148893491464/",
+    "https://www.facebook.com/100063737752236/posts/%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB%E6%9D%90%E8%B3%AAa5052%E5%8A%A0%E5%B7%A5%E6%96%B9%E6%B3%95%E8%A4%87%E5%90%88%E5%8A%A0%E5%B7%A5-%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E5%8A%A0%E5%B7%A5%E6%A9%9F%E6%A2%B0multus-u3000wmb-46vae%E9%BB%92%E3%82%A2%E3%83%AB%E3%83%9E%E3%82%A4%E3%83%88%E5%87%A6%E7%90%86%E9%9D%92%E3%82%A2%E3%83%AB%E3%83%9E%E3%82%A4%E3%83%88%E3%82%92%E3%81%A4%E3%81%91%E3%82%8B%E7%AE%87%E6%89%80%E3%81%AE%E3%81%BF%E5%86%8D%E5%88%87%E5%89%8A%E9%9D%92%E3%82%A2%E3%83%AB%E3%83%9E%E3%82%A4/155620699644287/",
+    "https://www.facebook.com/100063737752236/posts/%E7%87%83%E6%96%99%E3%83%91%E3%82%A4%E3%83%97sus304%E3%81%AE%E8%BB%8A%E4%B8%A1%E7%94%A8%E7%87%83%E6%96%99%E3%83%91%E3%82%A4%E3%83%97%E6%9D%90%E8%B3%AA-sus304%E5%8A%A0%E5%B7%A5-%E6%A8%AA%E5%BD%A2%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E7%AB%8B%E5%BD%A2%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E6%A8%AA%E5%9E%8B%E3%83%9E%E3%82%B7%E3%83%8B%E3%83%B3%E3%82%B0%E3%81%A7%E5%81%B4%E9%9D%A2%E3%81%8B%E3%82%89%E3%81%AE%E8%B2%AB%E9%80%9A%E7%A9%B4%E3%82%92%E5%8A%A0%E5%B7%A5%E3%81%97%E3%81%9F%E8%87%AA%E5%8B%95%E8%BB%8A%E7%94%A8%E7%87%83%E6%96%99%E3%83%91%E3%82%A4%E3%83%97%E7%87%83%E6%96%99%E3%81%AF%E3%83%AC/140600387812985/",
+    "https://www.facebook.com/NewsPeterYe/posts/%E8%BC%9D%E9%81%94%E6%9F%8F%E6%9E%97-gtc-%E5%A4%A7%E6%9C%83%E7%99%BB%E5%A0%B4%E5%9F%B7%E8%A1%8C%E9%95%B7%E9%BB%83%E4%BB%81%E5%8B%B3%E5%A4%A7%E7%A7%80%E5%AF%A6%E9%AB%94-ai-%E8%88%87%E6%A9%9F%E5%99%A8%E5%B0%8F%E9%B4%A8%E7%86%B1%E7%83%88%E4%BA%92%E5%8B%95%E4%B8%A6%E7%99%BC%E8%A1%A8%E6%AD%90%E6%B4%B2%E7%89%88%E4%BE%9B%E6%87%89%E9%8F%88%E8%83%8C%E6%9D%BF%E7%B7%AF%E5%89%B5%E6%8A%80%E5%98%89%E5%92%8C%E7%A2%A9%E5%8F%B0%E9%81%94%E9%9B%BB%E7%AD%89%E5%8F%B0%E5%BB%A0%E5%85%A8%E6%95%B8%E5%85%A5%E5%88%97%E4%BD%A0%E6%9C%80%E7%9C%8B%E5%A5%BD%E5%93%AA%E4%B8%80%E5%AE%B6%E5%8F%B0%E5%BB%A0%E6%9C%AA%E4%BE%86%E7%9A%84-ai-%E7%88%86/1120793443652914/",
+    "https://www.facebook.com/chestnutdadinvest/posts/-16%E6%AA%94%E5%A4%9A%E9%A0%AD%E5%B0%8F%E9%8B%BC%E7%82%AE%E8%AA%B0%E5%9C%A8%E6%90%B6%E8%B7%91%E5%8F%B0%E8%82%A1%E5%89%B5%E9%AB%98%E9%80%99%E4%B8%80%E6%B3%A2%E7%9B%A4%E9%9D%A2%E9%96%8B%E5%A7%8B%E5%87%BA%E7%8F%BE%E4%B8%80%E5%80%8B%E6%9C%89%E8%B6%A3%E7%9A%84%E8%AE%8A%E5%8C%96%E5%A4%A7%E5%9E%8B%E6%AC%8A%E5%80%BC%E8%82%A1%E7%A9%A9%E4%BD%8F%E6%8C%87%E6%95%B8%E4%B8%AD%E5%B0%8F%E5%9E%8B%E8%82%A1%E5%89%87%E9%96%8B%E5%A7%8B%E6%8E%A5%E6%A3%92%E8%A1%A8%E7%8F%BE%E5%BE%9E%E9%99%84%E5%9C%96%E4%BE%86%E7%9C%8B%E5%8D%97%E8%8C%82%E8%87%BB%E9%BC%8E-ky%E6%99%AF%E7%A2%A9%E5%8F%B0%E4%BA%9E%E7%AD%8916%E6%AA%94%E5%80%8B%E8%82%A1%E8%BF%91%E6%9C%9F%E9%83%BD%E6%9C%89%E5%A4%96/1714244147376010/",
+    "https://www.facebook.com/tatarafudousan/posts/%E7%86%8A%E6%9C%AC%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%9D%B1%E5%AD%90%E9%A3%BC%E7%94%BA%E5%A3%B2%E5%9C%B0%E6%83%85%E5%A0%B1-%E7%B4%84174%E5%9D%AA%E3%81%AE%E5%BA%83%E3%80%85%E3%81%A8%E3%81%97%E3%81%9F%E6%95%B7%E5%9C%B0%EF%B8%8F-%E5%8D%97%E9%9D%A2%E9%81%93%E8%B7%AF%E5%BB%BA%E7%AF%89%E6%9D%A1%E4%BB%B6%E3%81%AA%E3%81%97-%E4%BD%8F%E5%AE%85%E7%94%A8%E5%9C%B0%E3%81%8B%E3%82%89%E3%82%A2%E3%83%91%E3%83%BC%E3%83%88%E7%94%A8%E5%9C%B0%E3%81%BE%E3%81%A7%E3%81%95%E3%81%BE%E3%81%96%E3%81%BE%E3%81%AA%E5%9C%9F%E5%9C%B0%E6%B4%BB%E7%94%A8%E3%82%92%E6%A4%9C%E8%A8%8E%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99-%E7%86%8A%E6%9C%AC%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%9D%B1%E5%AD%90/1763002002011750/",
+    "https://www.facebook.com/NewsPeterYe/videos/%E8%BC%9D%E9%81%94%E6%9F%8F%E6%9E%97-gtc-%E5%A4%A7%E6%9C%83%E7%99%BB%E5%A0%B4%E5%9F%B7%E8%A1%8C%E9%95%B7%E9%BB%83%E4%BB%81%E5%8B%B3%E5%A4%A7%E7%A7%80%E5%AF%A6%E9%AB%94-ai-%E8%88%87%E6%A9%9F%E5%99%A8%E5%B0%8F%E9%B4%A8%E7%86%B1%E7%83%88%E4%BA%92%E5%8B%95%E4%B8%A6%E7%99%BC%E8%A1%A8%E6%AD%90%E6%B4%B2%E7%89%88%E4%BE%9B%E6%87%89%E9%8F%88%E8%83%8C%E6%9D%BF%E7%B7%AF%E5%89%B5%E6%8A%80%E5%98%89%E5%92%8C%E7%A2%A9%E5%8F%B0%E9%81%94%E9%9B%BB%E7%AD%89%E5%8F%B0%E5%BB%A0%E5%85%A8%E6%95%B8%E5%85%A5%E5%88%97%E4%BD%A0%E6%9C%80%E7%9C%8B%E5%A5%BD%E5%93%AA%E4%B8%80%E5%AE%B6%E5%8F%B0%E5%BB%A0%E6%9C%AA%E4%BE%86%E7%9A%84-ai-%E7%88%86/2093929464826151/",
+    "https://www.facebook.com/tamagawapipe/?locale=ja_JP",
+    "https://www.facebook.com/groups/1848803625219516/posts/25975077202165488/",
+    "https://www.facebook.com/tamagawapipe/posts/%E5%B1%95%E7%A4%BA%E4%BC%9A2%E6%97%A5%E7%9B%AE%E6%9C%AC%E6%97%A5%E3%82%82%E7%9B%9B%E6%B3%81%E3%81%A7%E3%81%99%E3%83%86%E3%82%AF%E3%83%8E%E3%83%95%E3%83%AD%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A22024%E6%9D%B1%E4%BA%AC%E3%83%93%E3%83%83%E3%82%B0%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AB%E3%81%A6%E6%98%8E%E6%97%A5%E3%81%BE%E3%81%A7%E3%81%A7%E3%81%99%E6%9D%B1%E4%BA%AC%E3%83%93%E3%83%83%E3%82%B0%E3%82%B5%E3%82%A4%E3%83%88-%E3%83%86%E3%82%AF%E3%83%8E%E3%83%95%E3%83%AD%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A22024-%E5%A4%A7%E7%94%B0%E5%8C%BA-%E5%BC%95%E6%8A%9C%E9%8B%BC%E7%AE%A1-%E3%82%AF%E3%83%A9%E3%83%83%E3%83%89%E3%83%91%E3%82%A4/985099460077157/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "セキダイ工業 note 社長",
+   "results": [
+    "https://www.sekidai.co.jp/company/about/",
+    "https://www.jidp.or.jp/ja/2021/09/29/tbda2021sekidai",
+    "https://www.okuma.co.jp/case/sekidai.php",
+    "https://metoree.com/companies/5561/",
+    "https://www.youtube.com/watch?v=YKZGy5MvlCk",
+    "https://www.mirai-ota.net/company/detail/213",
+    "https://www.instagram.com/sekidai_kogyo/",
+    "https://precisionmachining-hikaku.com/list/sekidai/",
+    "https://note.com/sugimoto_seiki/n/n0b5213ee0120",
+    "http://www.seki-kk.co.jp/company/index.htm"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "セキダイ工業 X 投稿",
+   "results": [
+    "https://www.sekidai.co.jp/",
+    "https://www.instagram.com/sekidai_kogyo/",
+    "https://www.jidp.or.jp/ja/2021/09/29/tbda2021sekidai",
+    "https://www.okuma.co.jp/case/sekidai.php",
+    "https://metoree.com/companies/5561/",
+    "https://www.mirai-ota.net/company/detail/213",
+    "https://www.gunma-monodukurifaire.jp/pdf/a-06.pdf",
+    "https://www.sekidai.co.jp/company/calendar/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 8
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式30頁／PDF・画像4件／外部8頁・検索9回）"
+ }
+}

@@ -1,0 +1,866 @@
+{
+ "name": "ニデックインスツルメンツ株式会社",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T11:02:57.606684+00:00",
+ "official_url": "http://www.nidec-sankyo.co.jp",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "製品・技術情報 | ニデックインスツルメンツ株式会社",
+    "url": "https://pre.nidec.com/jp/nidec-instruments/products/contents/",
+    "pass": 3
+   },
+   {
+    "quote": "当社製品を検索、用途や仕様・性能を確認できます",
+    "url": "https://pre.nidec.com/jp/nidec-instruments/products/contents/",
+    "pass": 3
+   },
+   {
+    "quote": "製品に関するお問い合わせや御見積依頼など、お気軽にご連絡ください",
+    "url": "https://pre.nidec.com/jp/nidec-instruments/products/contents/",
+    "pass": 3
+   },
+   {
+    "quote": "当社の各製品のカタログをダウンロードすることができます",
+    "url": "https://pre.nidec.com/jp/nidec-instruments/products/contents/",
+    "pass": 3
+   },
+   {
+    "quote": "ニデックインスツルメンツモータ関連主要製品",
+    "url": "https://www.nidec.com/jp/nidec-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "私たちは、それら皆様にとってたいへん身近な製品に、モータやモータ関連部品などで製品化をお手伝いしています",
+    "url": "https://www.nidec.com/jp/nidec-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "ニデックインスツルメンツの製品ラインナップは、数mmのモータから数mの大型特殊ロボットまであります",
+    "url": "https://www.nidec.com/jp/nidec-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "水冷小型ポンプ・開閉バルブ・製氷機など、モータと駆動機構を組み合わせたモジュールをカスタム開発・製造し、それらモジュール部品を世界中の家庭電化製品・自動車・スマートフォンなどにご提供しております",
+    "url": "https://www.nidec.com/jp/nidec-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "事務機・家庭電化製品で使用されている樹脂歯車、車載レンズなどの自動車精密成形部品を世界各地の工場で設計製造しております",
+    "url": "https://www.nidec.com/jp/nidec-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "FAシステム製品として、FPD製造後工程の分野ではM-CONTactシリーズにて様々な形状に対応したFPDモジュール自動点灯検査装置や、液晶基板搬送ロボットや半導体用ウェハー搬送ロボットを組み込んだ搬送システムなど、自動化をテーマとしたFAシステムをご提供しております",
+    "url": "https://www.nidec.com/jp/nidec-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "当社の製品・資材調達・採用など、各種お問い合わせ窓口について掲載しています",
+    "url": "https://www.nidec.com/jp/nidec-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・技術情報 | ニデックインスツルメンツ株式会社",
+    "url": "https://www.nidec.com/jp/nidec-instruments/products/contents/",
+    "pass": 3
+   },
+   {
+    "quote": "当社製品を検索、用途や仕様・性能を確認できます",
+    "url": "https://www.nidec.com/jp/nidec-instruments/products/contents/",
+    "pass": 3
+   },
+   {
+    "quote": "製品に関するお問い合わせや御見積依頼など、お気軽にご連絡ください",
+    "url": "https://www.nidec.com/jp/nidec-instruments/products/contents/",
+    "pass": 3
+   },
+   {
+    "quote": "当社の各製品のカタログをダウンロードすることができます",
+    "url": "https://www.nidec.com/jp/nidec-instruments/products/contents/",
+    "pass": 3
+   },
+   {
+    "quote": "製品として、",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%87%E3%83%83%E3%82%AF%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%84%E3%83%AB%E3%83%A1%E3%83%B3%E3%83%84",
+    "pass": 3
+   },
+   {
+    "quote": "、アミューズメント製品、センサ等の開発",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%87%E3%83%83%E3%82%AF%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%84%E3%83%AB%E3%83%A1%E3%83%B3%E3%83%84",
+    "pass": 3
+   },
+   {
+    "quote": "ニデックインスツルメンツは、インテリジェントメカとアクチュエータのスパイラルアップによって生み出される''カラクリ・トロニクス''をテーマに、ステッピングモータ等の各種モータからカードリーダ、産業用ロボット、プラスチック成形品や精密加工部品まで、多彩な製品展開を行っています",
+    "url": "https://www.nidec.com/jp/nidec-instruments/corporate/about/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "小型・精密モータ、モータ駆動 モジュール製品",
+    "url": "https://www.nidec.com/jp/nidec-instruments/inquiry/request/corporate/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は､製品・サービスのご紹介・ご提供を行う際に、必要となる個人情報を取得させていただく場合がございます",
+    "url": "https://www.nidec.com/jp/nidec-instruments/inquiry/request/corporate/",
+    "pass": 3
+   },
+   {
+    "quote": "「変更後の材料又は工程が技術的に同等であることや、製品の機能又は安全性に直ちに問題がないことなどの社内評価が、顧客への通知・承認申請、検査又は正確な報告を省略する理由として用いられた」",
+    "url": "https://note.com/governance/n/n1bca2dac805a",
+    "pass": 3
+   },
+   {
+    "quote": "品質保証の独立：「品質保証責任者には、量産の保留、製造・出荷の停止措置、製品の隔離及び上位品質組織への直接報告を行うための独立性及び権限を付与する」（第3層）",
+    "url": "https://note.com/governance/n/n1bca2dac805a",
+    "pass": 3
+   },
+   {
+    "quote": "ステッピングモータなどの各種モータ、モータ駆動ユニット、ATM等で使われるカードリーダ、産業用ロボット、プラスチック成形品、そして創業事業であるオルゴールまで、幅広い製品の開発・製造・販売を手がけています",
+    "url": "https://note.com/nomushun22/n/n539ed7277bbe",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "スマートフォン・ゲーム機・パソコン・洗濯機・冷蔵庫・エアコン・給湯器・事務機・自動車などで私たちが開発製造した小型モータがたくさん使われています",
+    "url": "https://pre.nidec.com/jp/nidec-instruments/products/contents/",
+    "pass": 3
+   },
+   {
+    "quote": "● 液晶ガラス・半導体ウエハ搬送特殊ロボット",
+    "url": "https://pre.nidec.com/jp/nidec-instruments/products/contents/",
+    "pass": 3
+   },
+   {
+    "quote": "スマートフォンやテレビの表示画面を作る液晶工場のガラス搬送ロボットのトップメーカです",
+    "url": "https://pre.nidec.com/jp/nidec-instruments/products/contents/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車の中にもニデックインスツルメンツの技術が使われています",
+    "url": "https://www.nidec.com/jp/nidec-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "皆様が日頃ご使用になっているスマートフォン、テレビ、冷蔵庫、洗濯機、自動車などは、ニデックインスツルメンツのモータ技術を使っているものがたくさんあります",
+    "url": "https://www.nidec.com/jp/nidec-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "ニデックインスツルメンツの製品ラインナップは、数mmのモータから数mの大型特殊ロボットまであります",
+    "url": "https://www.nidec.com/jp/nidec-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "スマートフォン・ゲーム機・パソコン・洗濯機・冷蔵庫・エアコン・給湯器・事務機・自動車などに、私たちが開発製造した小型モータをご提供しております",
+    "url": "https://www.nidec.com/jp/nidec-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "水冷小型ポンプ・開閉バルブ・製氷機など、モータと駆動機構を組み合わせたモジュールをカスタム開発・製造し、それらモジュール部品を世界中の家庭電化製品・自動車・スマートフォンなどにご提供しております",
+    "url": "https://www.nidec.com/jp/nidec-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "事務機・家庭電化製品で使用されている樹脂歯車、車載レンズなどの自動車精密成形部品を世界各地の工場で設計製造しております",
+    "url": "https://www.nidec.com/jp/nidec-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "スマートフォンやテレビの表示画面を作る液晶工場のガラス搬送ロボットでは世界市場シェア80%超のトップメーカです",
+    "url": "https://www.nidec.com/jp/nidec-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "ガラス搬送ロボットの他、半導体ウエハ搬送ロボットも展開しています",
+    "url": "https://www.nidec.com/jp/nidec-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "● 液晶ガラス・半導体ウエハ搬送特殊ロボット",
+    "url": "https://www.nidec.com/jp/nidec-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "● 点灯検査装置・液晶OLED、半導体の搬送システム",
+    "url": "https://www.nidec.com/jp/nidec-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "FAシステム製品として、FPD製造後工程の分野ではM-CONTactシリーズにて様々な形状に対応したFPDモジュール自動点灯検査装置や、液晶基板搬送ロボットや半導体用ウェハー搬送ロボットを組み込んだ搬送システムなど、自動化をテーマとしたFAシステムをご提供しております",
+    "url": "https://www.nidec.com/jp/nidec-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "半導体ウエハ搬送ガラス搬送ロボットページを見る",
+    "url": "https://www.nidec.com/jp/nidec-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "スマートフォン・ゲーム機・パソコン・洗濯機・冷蔵庫・エアコン・給湯器・事務機・自動車などで私たちが開発製造した小型モータがたくさん使われています",
+    "url": "https://www.nidec.com/jp/nidec-instruments/products/contents/",
+    "pass": 3
+   },
+   {
+    "quote": "● 液晶ガラス・半導体ウエハ搬送特殊ロボット",
+    "url": "https://www.nidec.com/jp/nidec-instruments/products/contents/",
+    "pass": 3
+   },
+   {
+    "quote": "スマートフォンやテレビの表示画面を作る液晶工場のガラス搬送ロボットのトップメーカです",
+    "url": "https://www.nidec.com/jp/nidec-instruments/products/contents/",
+    "pass": 3
+   },
+   {
+    "quote": "産業用機器（ロボット、",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%87%E3%83%83%E3%82%AF%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%84%E3%83%AB%E3%83%A1%E3%83%B3%E3%83%84",
+    "pass": 3
+   },
+   {
+    "quote": "） - モータ、モータ駆動ユニット、カードリーダ、産業用ロボット、プラスチック成形品、オルゴール等の開発・製造・販売",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%87%E3%83%83%E3%82%AF%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%84%E3%83%AB%E3%83%A1%E3%83%B3%E3%83%84",
+    "pass": 3
+   },
+   {
+    "quote": "ガラス基板搬送用ロボット、大気用・真空用",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%87%E3%83%83%E3%82%AF%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%84%E3%83%AB%E3%83%A1%E3%83%B3%E3%83%84",
+    "pass": 3
+   },
+   {
+    "quote": "搬送用ロボットの開発・製造、",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%87%E3%83%83%E3%82%AF%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%84%E3%83%AB%E3%83%A1%E3%83%B3%E3%83%84",
+    "pass": 3
+   },
+   {
+    "quote": "ニデックインスツルメンツサービスエンジニアリング - 工作機械、周辺装置、産業用ロボットのメンテナンスサービス",
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%87%E3%83%83%E3%82%AF%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%84%E3%83%AB%E3%83%A1%E3%83%B3%E3%83%84",
+    "pass": 3
+   },
+   {
+    "quote": "ニデックインスツルメンツは、インテリジェントメカとアクチュエータのスパイラルアップによって生み出される''カラクリ・トロニクス''をテーマに、ステッピングモータ等の各種モータからカードリーダ、産業用ロボット、プラスチック成形品や精密加工部品まで、多彩な製品展開を行っています",
+    "url": "https://www.nidec.com/jp/nidec-instruments/corporate/about/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "モータ、モータ駆動ユニット、カードリーダ、産業用ロボット、プラスチック成形品、オルゴール等の開発・製造・販売",
+    "url": "https://www.nidec.com/jp/nidec-instruments/corporate/about/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "ステッピングモータなどの各種モータ、モータ駆動ユニット、ATM等で使われるカードリーダ、産業用ロボット、プラスチック成形品、そして創業事業であるオルゴールまで、幅広い製品の開発・製造・販売を手がけています",
+    "url": "https://note.com/nomushun22/n/n539ed7277bbe",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "製品に関するお問い合わせや御見積依頼など、お気軽にご連絡ください",
+    "url": "https://pre.nidec.com/jp/nidec-instruments/products/contents/",
+    "pass": 3
+   },
+   {
+    "quote": "FAシステム製品として、FPD製造後工程の分野ではM-CONTactシリーズにて様々な形状に対応したFPDモジュール自動点灯検査装置や、液晶基板搬送ロボットや半導体用ウェハー搬送ロボットを組み込んだ搬送システムなど、自動化をテーマとしたFAシステムをご提供しております",
+    "url": "https://www.nidec.com/jp/nidec-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "当社の製品・資材調達・採用など、各種お問い合わせ窓口について掲載しています",
+    "url": "https://www.nidec.com/jp/nidec-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "製品に関するお問い合わせや御見積依頼など、お気軽にご連絡ください",
+    "url": "https://www.nidec.com/jp/nidec-instruments/products/contents/",
+    "pass": 3
+   },
+   {
+    "quote": "サポート・お問い合わせ | ニデックインスツルメンツ株式会社",
+    "url": "https://www.nidec.com/jp/nidec-instruments/inquiry/",
+    "pass": 3
+   },
+   {
+    "quote": "ご案内状・電子メール等による商品・サービス・キャンペーン・展示会イベント等の広告・情報提供（※１・※２）",
+    "url": "https://www.nidec.com/jp/nidec-instruments/inquiry/request/corporate/",
+    "pass": 3
+   },
+   {
+    "quote": "住所・氏名・郵便番号・電話番号・FAX番号・メールアドレス・勤務先・取引内容・ご提供およびお問合せ頂いた内容など",
+    "url": "https://www.nidec.com/jp/nidec-instruments/inquiry/request/corporate/",
+    "pass": 3
+   },
+   {
+    "quote": "１０ お問い合わせ窓口",
+    "url": "https://www.nidec.com/jp/nidec-instruments/inquiry/request/corporate/",
+    "pass": 3
+   },
+   {
+    "quote": "フォレンジック調査の結果、「役員等が具体的な指示・黙認したことを明確に示す電子メール等は確認されなかった」",
+    "url": "https://note.com/governance/n/n1bca2dac805a",
+    "pass": 3
+   },
+   {
+    "quote": "フォレンジック調査で指示のメールが見つからなかったのは、隠されていたからではなく、指示が要らない構造だったからだと読むのが自然だろう",
+    "url": "https://note.com/governance/n/n1bca2dac805a",
+    "pass": 3
+   },
+   {
+    "quote": "取引先様他関係者：318,151件（氏名、性別、住所、生年月日、電話番号、メールアドレス）※6",
+    "url": "https://note.com/nomushun22/n/n539ed7277bbe",
+    "pass": 3
+   },
+   {
+    "quote": "顧客・イベント参加者：71,089件（氏名、性別、住所、電話番号、メールアドレス）※6",
+    "url": "https://note.com/nomushun22/n/n539ed7277bbe",
+    "pass": 3
+   },
+   {
+    "quote": "従業員関連：13,290件（氏名、性別、住所、生年月日、電話番号、メールアドレス、マイナンバー、口座情報、給与情報、賞与情報、退職金情報、雇用保険被保険者番号、健康保険証番号、基礎年金番号、旅券番号）※6",
+    "url": "https://note.com/nomushun22/n/n539ed7277bbe",
+    "pass": 3
+   },
+   {
+    "quote": "氏名、性別、住所、生年月日、電話番号、メールアドレス",
+    "url": "https://note.com/ytakahashi1228/n/n0cd3e71b36ba",
+    "pass": 3
+   },
+   {
+    "quote": "氏名、性別、住所、電話番号、メールアドレス 個人データの件数 71,089 件（個人データの延べ件数であり、ご本人様の人数は71,089よりも少なくなるとのこと）",
+    "url": "https://note.com/ytakahashi1228/n/n0cd3e71b36ba",
+    "pass": 3
+   },
+   {
+    "quote": "氏名、性別、住所、生年月日、電話番号、メールアドレス、マイナンバー、口座情報、給与情報、賞与情報、退職金情報、雇用保険被保険者番号、健康保険証番号、基礎年金番号、旅券番号",
+    "url": "https://note.com/ytakahashi1228/n/n0cd3e71b36ba",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "事務機・家庭電化製品で使用されている樹脂歯車、車載レンズなどの自動車精密成形部品を世界各地の工場で設計製造しております",
+    "url": "https://www.nidec.com/jp/nidec-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "重要品質事案には、出荷検査データを実測値と異なる数値に書き換えた例、必要な強度検査を実施せずに架空の数値を記載した検査成績表を顧客に提出した例、顧客の承認なく車載部品に再生樹脂を使った例が含まれる",
+    "url": "https://note.com/governance/n/n1bca2dac805a",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "製品・技術情報 | ニデックインスツルメンツ株式会社 — ニデックインスツルメンツ株式会社の公式サイトです。企業情報、製品・ソリューション、採用情報などをご覧いただけ ...",
+    "url": "https://pre.nidec.com/jp/nidec-instruments/products/contents/",
+    "pass": 3
+   },
+   {
+    "quote": "ニデックインスツルメンツ株式会社 — ニデックインスツルメンツをわかりやすくご紹介します。 皆様が日頃ご使用になっているスマートフォン、テレビ、冷蔵庫、洗濯機、自動車などは、ニデックインスツルメンツのモータ技術を使っているものがたくさんあります。私たちは、それら皆様にとってたいへん身近な製品に、モータ ...",
+    "url": "https://www.nidec.com/jp/nidec-instruments/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・技術情報 | ニデックインスツルメンツ株式会社 — ニデックインスツルメンツの得意技をご紹介します。 お客様の個別なご要望にモータ・モータをコアとした駆動機構に関する技術をベースに以下のような商品をご提供しています。 精密な小型モータ スマートフォン・ゲーム機・パソコン・洗濯機・冷蔵庫・エアコン・給湯器・事務機・自動車 ...",
+    "url": "https://www.nidec.com/jp/nidec-instruments/product/",
+    "pass": 3
+   },
+   {
+    "quote": "ニデックインスツルメンツの製品情報一覧 - indexPro — ニデックインスツルメンツの製品情報や代理店・取扱店に関するページです。電子部品、産業部品、アプリケーション製品を探すなら国内約4600社の情報を収録している日本最大の電子・産業部品ポータルサイトindexProにお任せください。",
+    "url": "https://www.indexpro.co.jp/SearchProduct/101",
+    "pass": 3
+   },
+   {
+    "quote": "ニデックインスツルメンツの製品・サービス一覧｜イプロスものづくり — May 14, 2025 · ニデックインスツルメンツ の製品・サービス一覧です。 精密にこだわり続けたモノ作りに徹する。 精密機構部品向け金型に信頼を頂いております。用途としては光コネクター用フェルール、通信、光学、医療器、カメラ部品などを得意としています。樹脂だけではなくCIM，MIMのノウハウも多く ...",
+    "url": "https://mono.ipros.com/company/detail/295417/category/",
+    "pass": 3
+   },
+   {
+    "quote": "ニデックインスツルメンツ - Wikipedia — ニデックインスツルメンツ株式会社 （英: NIDEC INSTRUMENTS CORPORATION）は、 ニデック 株式会社（旧・日本電産株式会社）の 子会社 で、モーター、モーター駆動ユニット、カードリーダー、 産業用ロボット 、 プラスチック 成型品、 オルゴール 等の開発・製造・販売を行う 日本 の 企業。",
+    "url": "https://ja.wikipedia.org/wiki/ニデックインスツルメンツ",
+    "pass": 3
+   },
+   {
+    "quote": "企業概要 | ニデックインスツルメンツ株式会社 — 会社名 ニデックインスツルメンツ株式会社 会社名（英語） NIDEC INSTRUMENTS CORPORATION 設立年月日 1946（昭和21）年 6月18日 本店所在地 〒393-8511 長野県諏訪郡下諏訪町5329番地 こちら 事業内容 モータ、モータ駆動ユニット、カードリーダ、産業用ロボット、プラスチック成形品、オルゴール等の開発 ...",
+    "url": "https://www.nidec.com/jp/nidec-instruments/corporate/about/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報 | ニデックインスツルメンツ株式会社 — FAシステム製品 製品カタログ・ダウンロード一覧 製品ニュース ニデックインスツルメンツの技術力 製品検索 企業情報 ニデックインスツルメンツについて CSR情報 主要拠点情報 ニュースリリース 採用情報 新卒採用情報 中途採用情報 サポート・お問い合わせ",
+    "url": "https://www.nidec.com/jp/nidec-instruments/nmtl/corporate/",
+    "pass": 3
+   },
+   {
+    "quote": "会社紹介 | 採用情報 | ニデックインスツルメンツ株式会社 — ABOUT 会社紹介 カラクリ・トロニクス ニデックインスツルメンツの強みは、オルゴールに遡るメカのカラクリ技術、 事業多角化の中で構築されたモータ技術、サーボ技術に代表されます。",
+    "url": "https://www.nidec-instruments.com/saiyou/about/",
+    "pass": 3
+   },
+   {
+    "quote": "サポート・お問い合わせ | ニデックインスツルメンツ株式会社 — 製品に関するお問い合わせ メールでのお問い合わせ お問い合わせフォーム お電話でのお問い合わせ 03-5740-3000 8:30～17:30（土日・祝日・当社休業日を除く）",
+    "url": "https://www.nidec.com/jp/nidec-instruments/inquiry/",
+    "pass": 3
+   },
+   {
+    "quote": "当社全般に関する問い合せ | ニデックインスツルメンツ株式会社 — ・ 共同利用の項目 住所・氏名・郵便番号・電話番号・FAX番号・メールアドレス・勤務先・取引内容・ご提供およびお問合せ頂いた内容など ・ 共同利用者の範囲 当社のグループ会社 ・ 利用目的 上記4の利用目的の範囲内で共同利用いたします。",
+    "url": "https://www.nidec.com/jp/nidec-instruments/inquiry/request/corporate/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | ニデックインスツルメンツサービスエンジニアリング — ニデックインスツルメンツサービスエンジニアリング株式会社 本社 〒396-8511 長野県伊那市上の原6100 TEL:0265-76-5622 / FAX:0265-78-9783",
+    "url": "https://www.nidec-instruments.com/nise/contact_us.html",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "United States of America",
+    "url": "https://www.nidec.com/jp/nidec-instruments/inquiry/request/corporate/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "ニデックの品質不正844件――誰も指示していないのに、なぜ誰も止められ... Sep 23, 2026 · 注目すべきは分布だ。 不適切行為の90.9％にあたる767件は、3つの事業部門（ニデックインスツルメンツ、ニデックモビリティ、ニデックテクノモータ）に集中していた。",
+    "url": "https://note.com/governance/n/n1bca2dac805a",
+    "pass": 3
+   },
+   {
+    "quote": "事例に学ぶサイバーセキュリティ #10 「オルゴールの当選通知にも及ん... Sep 8, 2026 · 2024年5月26日、長野県諏訪郡下諏訪町に本社を置くニデックインスツルメンツ株式会社の社内システムがサイバー攻撃を受け、複数のサーバー内のファイルが暗号化されました。その後の調査では、システムの管理者アカウントのID・パスワードが何らかの形で不正に取得され、攻撃者が業務 ...",
+    "url": "https://note.com/nomushun22/n/n539ed7277bbe",
+    "pass": 3
+   },
+   {
+    "quote": "ニデック社関連会社でのランサムウェア被害、第三報が公開、管理者ア... Jul 27, 2024 · こんにちは。高橋です。 先月6月に公表があったニデック社の関連会社でのランサムウェア感染被害ですが、第三報が先日公開されました。 出典：ニデックインスツルメンツ社 今回の第三報では、ランサムウェア感染についてかなり詳細に記載されていました。 漏洩した可能性のある情報は ...",
+    "url": "https://note.com/ytakahashi1228/n/n0cd3e71b36ba",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "ニデックの品質不正844件――誰も指示していないのに、なぜ誰も止められなかったのか｜トランスフォーム合同会社｜企業変革コンサルティングファーム",
+    "url": "https://note.com/governance/n/n1bca2dac805a",
+    "pass": 3
+   },
+   {
+    "quote": "ニデックの品質不正844件――誰も指示していないのに、なぜ誰も止められなかったのか",
+    "url": "https://note.com/governance/n/n1bca2dac805a",
+    "pass": 3
+   },
+   {
+    "quote": "トランスフォーム合同会社｜企業変革コンサルティングファーム",
+    "url": "https://note.com/governance/n/n1bca2dac805a",
+    "pass": 3
+   },
+   {
+    "quote": "2026年9月4日、ニデックは外部専門家による調査委員会の報告書を公表した。グループ305拠点、役職員97,663人を対象にした調査で認定された品質不適切行為は844件。うち60件は法令違反やリコールにつながりうる「重要品質事案」だった。",
+    "url": "https://note.com/governance/n/n1bca2dac805a",
+    "pass": 3
+   },
+   {
+    "quote": "数字の大きさに目が行くが、この報告書で本当に重いのは別の一文だ。フォレンジック調査の結果、「役員等が具体的な指示・黙認したことを明確に示す電子メール等は確認されなかった」。つまり、誰かが命じたから起きたのではない。誰も命じていないのに、10年近く、複数の拠点で、反復・継続されていた。",
+    "url": "https://note.com/governance/n/n1bca2dac805a",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では、出来事の経緯をなぞるのではなく、「なぜ止められなかったのか」を会社の仕組みと風土まで降りて考える。ニデックを断罪するためではない。同じ構造は、成長している会社ほど抱えやすいからだ。",
+    "url": "https://note.com/governance/n/n1bca2dac805a",
+    "pass": 3
+   },
+   {
+    "quote": "何が起きていたのか――派手な不正ではなく、日常業務に組み込まれた違反",
+    "url": "https://note.com/governance/n/n1bca2dac805a",
+    "pass": 3
+   },
+   {
+    "quote": "844件の内訳を見ると、95.4％にあたる805件は「4M変更違反」だった。4Mとは Man（人）・Machine（設備）・Material（材料）・Method（方法）のことで、量産品の製造条件をこの4つのどれかで変える場合、顧客に申請して承認を得るのが製造業の基本ルールである。ニデックでは、この申請・承認を経ずに材料や工程を変えることが常態化していた。",
+    "url": "https://note.com/governance/n/n1bca2dac805a",
+    "pass": 3
+   },
+   {
+    "quote": "事例に学ぶサイバーセキュリティ #10 「オルゴールの当選通知にも及んだ調査」——管理者アカウント認証情報不正取得から60日後に公表された個人情報漏えいの範囲｜野村俊輔 | アキレスセキュリティ",
+    "url": "https://note.com/nomushun22/n/n539ed7277bbe",
+    "pass": 3
+   },
+   {
+    "quote": "事例に学ぶサイバーセキュリティ #10 「オルゴールの当選通知にも及んだ調査」——管理者アカウント認証情報不正取得から60日後に公表された個人情報漏えいの範囲",
+    "url": "https://note.com/nomushun22/n/n539ed7277bbe",
+    "pass": 3
+   },
+   {
+    "quote": "2024年5月26日、長野県諏訪郡下諏訪町に本社を置くニデックインスツルメンツ株式会社の社内システムがサイバー攻撃を受け、複数のサーバー内のファイルが暗号化されました。その後の調査では、システムの管理者アカウントのID・パスワードが何らかの形で不正に取得され、攻撃者が業務システム内にアクセスしたことが原因と考えられています。",
+    "url": "https://note.com/nomushun22/n/n539ed7277bbe",
+    "pass": 3
+   },
+   {
+    "quote": "その後の調査で、被害はニデックインスツルメンツ社単体にとどまらず、",
+    "url": "https://note.com/nomushun22/n/n539ed7277bbe",
+    "pass": 3
+   },
+   {
+    "quote": "国内グループ会社6社と海外現地法人の一部にまで広がっていた",
+    "url": "https://note.com/nomushun22/n/n539ed7277bbe",
+    "pass": 3
+   },
+   {
+    "quote": "ことが判明します。発覚から60日後に公表された調査結果では、取引先関係者等で318,151件、顧客・イベント参加者で71,089件、従業員関連で13,290件——3つの区分に分けて、個人データの漏えいの可能性が明らかにされました（いずれも延べ件数）。攻撃者からは親会社のニデック株式会社に対しても身代金の支払いが要求されましたが、同社はこれを拒否しています。",
+    "url": "https://note.com/nomushun22/n/n539ed7277bbe",
+    "pass": 3
+   },
+   {
+    "quote": "この記事では「ニデックインスツルメンツ株式会社へのランサムウェア攻撃」について、",
+    "url": "https://note.com/nomushun22/n/n539ed7277bbe",
+    "pass": 3
+   },
+   {
+    "quote": "を時系列でわかりやすく解説します。ITに詳しくない方でも読める内容です。",
+    "url": "https://note.com/nomushun22/n/n539ed7277bbe",
+    "pass": 3
+   },
+   {
+    "quote": "ニデック社関連会社でのランサムウェア被害、第三報が公開、管理者アカウント情報を不正に入手されたことが原因｜Y.Takahashi",
+    "url": "https://note.com/ytakahashi1228/n/n0cd3e71b36ba",
+    "pass": 3
+   },
+   {
+    "quote": "ニデック社関連会社でのランサムウェア被害、第三報が公開、管理者アカウント情報を不正に入手されたことが原因",
+    "url": "https://note.com/ytakahashi1228/n/n0cd3e71b36ba",
+    "pass": 3
+   },
+   {
+    "quote": "先月6月に公表があったニデック社の関連会社でのランサムウェア感染被害ですが、第三報が先日公開されました。",
+    "url": "https://note.com/ytakahashi1228/n/n0cd3e71b36ba",
+    "pass": 3
+   },
+   {
+    "quote": "今回の第三報では、ランサムウェア感染についてかなり詳細に記載されていました。",
+    "url": "https://note.com/ytakahashi1228/n/n0cd3e71b36ba",
+    "pass": 3
+   },
+   {
+    "quote": "漏洩した可能性のある情報は以下となります。",
+    "url": "https://note.com/ytakahashi1228/n/n0cd3e71b36ba",
+    "pass": 3
+   },
+   {
+    "quote": "氏名、性別、住所、生年月日、電話番号、メールアドレス",
+    "url": "https://note.com/ytakahashi1228/n/n0cd3e71b36ba",
+    "pass": 3
+   },
+   {
+    "quote": "318,151 件（個人データの延べ件数であり、ご本人様の人数は318,151よりも少なくなるとのこと）",
+    "url": "https://note.com/ytakahashi1228/n/n0cd3e71b36ba",
+    "pass": 3
+   },
+   {
+    "quote": "■オルゴールをご購入いただいたお客様及び主催のイベント等にご参加いただいた皆様に関する情報",
+    "url": "https://note.com/ytakahashi1228/n/n0cd3e71b36ba",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "【会社紹介シリーズ】ニデックインスツルメンツ編 NIDECグループには... Feb 7 【会社紹介シリーズ】ニデックインスツルメンツ編 NIDECグループにはどんな会社があり、どのような事業を手掛けているのか？ みなさんに私たちNIDECグループのことをもっと知ってもらうため、ショートムービーでご紹介します😊 是非ご覧ください ...",
+    "url": "https://x.com/NidecJP/status/1755408628763545791",
+    "pass": 3
+   },
+   {
+    "quote": "\"#ニデックインスツルメンツ\" - Results on X | Live Posts & Updates Results for \"#ニデックインスツルメンツ\" on X (Twitter). Find the latest posts, discussions, and updates about #ニデックインスツルメンツ. 3 results found.",
+    "url": "https://x.com/hashtag/ニデックインスツルメンツ",
+    "pass": 3
+   },
+   {
+    "quote": "オルゴールギャラリー (@orgelgallery) / X ︎GOODTOY2025受賞 ︎ 創業80年、国内最大のオルゴールメーカー、ニデックインスツルメンツ株式会社が直営するオルゴールのネットショップです。オルゴールの音色で、癒しのひとときを。商品情報やオルゴールの魅力を発信中！",
+    "url": "https://x.com/orgelgallery",
+    "pass": 3
+   },
+   {
+    "quote": "本日11月10日は #いい音・オルゴールの日 ♪ ニデック本社のショールー... 本日11月10日は #いい音・オルゴールの日 ♪ ニデック本社のショールームにある、ニデックインスツルメンツ製のディスク型オルゴール「オルフェウス」が奏でる「赤とんぼ」をお聴きください♪ 心地よい音色に眠くなってきてもーた…。",
+    "url": "https://x.com/NidecJP/status/1722887996742217816",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "ニデック インスツルメンツ | LinkedIn ニデック インスツルメンツ | LinkedInのフォロワー数2,195人。ニデックインスツルメンツは、インテリジェントメカとアクチュエータのスパイラルアップによって生み出される''カラクリ・トロニクス''をテーマに、ステッピングモータ等の各種モータからカードリーダ、産業用ロボット ...",
+    "url": "https://jp.linkedin.com/company/nidec-instruments",
+    "pass": 3
+   },
+   {
+    "quote": "Mutsuki Tomono - ニデック インスツルメンツのPresident and C.E.O. ...NIDEC INSTRUMENTS CORPORATION - LinkedInRobert Kang - General Manager of Nidec Instruments ... - LinkedInArvin Edgar VERGARA - Sales and Business Development Manager ... ニデック インスツルメンツのPresident and C.E.O. · • Board Director and Corporate Vice President at FUJIFILM Business Innovation (formerly Fuji Xerox), with six years of executive leadershi",
+    "url": "https://jp.linkedin.com/in/mutsuki-tomono-b4ba82a9",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "【会社紹介シリーズ】ニデックインスツルメンツ編 NIDECグループは、...ニデック株式会社 / Nidec Corporation - FacebookNidec Instruments Profiles - Facebook【リリース情報】... - ニデック株式会社 / Nidec Corporation | Face...Nidec Instruments MX Slp - Facebook【ニデックインスツルメンツ... - ニデック株式会社 / Nidec Corporat... Feb 7, 2024 · 【会社紹介シリーズ】ニデックインスツルメンツ編 NIDECグループは、「世界No.1のソリューション企業集団」を目指して、モータを軸とした様々なビジネスを展開しており、グループ会社の事業や、扱っている製品、そこで働く人たちは多種多様です。 一体、どんな会社があり、どのような",
+    "url": "https://www.facebook.com/Nidec.JP/videos/会社紹介シリーズニデックインスツルメンツ編nidecグループは世界no1のソリューション企業集団を目指してモータを軸とした様々なビジネスを展開しておりグループ会/1520568128766045/",
+    "pass": 3
+   },
+   {
+    "quote": "ニデック株式会社 / Nidec Corporation - FacebookNidec Instruments Profiles - Facebook【リリース情報】... - ニデック株式会社 / Nidec Corporation | Face...Nidec Instruments MX Slp - Facebook【ニデックインスツルメンツ... - ニデック株式会社 / Nidec Corporat... Aug 27, 2026 · ニデック株式会社 / Nidec Corporation. 29,515 followers · 8 talking about this. 世界を動かす。未来を変える。 Nidecグループは、精密小型から超大型まで幅広いラインナップを誇るモータを中心とした製品やソリューションを提供しています。 View the profiles of peop",
+    "url": "https://www.facebook.com/Nidec.JP/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "http://www.nidec-sankyo.co.jp",
+    "status": "network_error:ConnectionError",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://pre.nidec.com/jp/nidec-instruments/products/contents/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nidec.com/jp/nidec-instruments/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nidec.com/jp/nidec-instruments/products/contents/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%87%E3%83%83%E3%82%AF%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%84%E3%83%AB%E3%83%A1%E3%83%B3%E3%83%84",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nidec.com/jp/nidec-instruments/corporate/about/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nidec.com/jp/nidec-instruments/nmtl/corporate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nidec.com/jp/nidec-instruments/inquiry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nidek.co.jp/contact/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.nidec.com/jp/nidec-instruments/inquiry/request/corporate/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/governance/n/n1bca2dac805a",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/nomushun22/n/n539ed7277bbe",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ytakahashi1228/n/n0cd3e71b36ba",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/NidecJP/status/1755408628763545791",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/hashtag/ニデックインスツルメンツ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/orgelgallery",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/NidecJP/status/1722887996742217816",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/company/nidec-instruments",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/mutsuki-tomono-b4ba82a9",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Nidec.JP/videos/会社紹介シリーズニデックインスツルメンツ編nidecグループは世界no1のソリューション企業集団を目指してモータを軸とした様々なビジネスを展開しておりグループ会/1520568128766045/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Nidec.JP/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ニデックインスツルメンツ 取扱製品 試作 小ロット",
+   "results": [
+    "https://pre.nidec.com/jp/nidec-instruments/products/contents/",
+    "https://www.nidec.com/jp/nidec-instruments/",
+    "https://www.nidec.com/jp/nidec-instruments/product/",
+    "https://www.indexpro.co.jp/SearchProduct/101",
+    "https://mono.ipros.com/company/detail/295417/category/",
+    "https://pre.nidec.com/jp/nidec-instruments/products/search/",
+    "https://nikkei-instruments.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ニデックインスツルメンツ 会社概要 事業内容",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ニデックインスツルメンツ",
+    "https://www.nidec.com/jp/nidec-instruments/corporate/about/outline/",
+    "https://www.nidec.com/jp/nidec-instruments/nmtl/corporate/",
+    "https://www.nidek.co.jp/about-us/",
+    "https://www.nidec-instruments.com/saiyou/about/",
+    "https://www.nidek.co.jp/about/",
+    "https://nidec.g.kuroco-img.app/v=1742347730/files/topics/18380_ext_2_0.pdf"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ニデックインスツルメンツ お問い合わせ メール",
+   "results": [
+    "https://www.nidec.com/jp/nidec-instruments/inquiry/",
+    "https://www.nidek.co.jp/contact/",
+    "https://www.nidec.com/jp/nidec-instruments/inquiry/request/corporate/",
+    "https://www.nidec-components.com/j/inquiry/index03.php",
+    "https://www.nidec-instruments.com/nise/contact_us.html",
+    "https://pre.nidec.com/jp/nidec-powertrainsystems/inquiry/",
+    "https://ja.nc-net.or.jp/company/87992/inquiry/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com ニデックインスツルメンツ",
+   "results": [
+    "https://note.com/governance/n/n1bca2dac805a",
+    "https://note.com/nomushun22/n/n539ed7277bbe",
+    "https://note.com/ytakahashi1228/n/n0cd3e71b36ba",
+    "https://note.com/hirotsuchida/n/n2ac1749bdc69",
+    "https://note.com/satoshi_umeki/n/nbeca2e6c6acf",
+    "https://note.com/mm_all_genre/n/nb8783f3488ad",
+    "https://note.com/hirotsuchida/n/n74b8cd5fbb3f"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com ニデックインスツルメンツ",
+   "results": [
+    "https://x.com/NidecJP/status/1755408628763545791",
+    "https://x.com/hashtag/ニデックインスツルメンツ",
+    "https://x.com/orgelgallery",
+    "https://x.com/NidecJP/status/1722887996742217816",
+    "https://x.com/reononichijou/status/2120079016820392045",
+    "https://x.com/NidecJP",
+    "https://x.com/NidecIndustrial"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com ニデックインスツルメンツ",
+   "results": [
+    "https://jp.linkedin.com/company/nidec-instruments",
+    "https://www.linkedin.com/company/nidec-instruments",
+    "https://jp.linkedin.com/in/mutsuki-tomono-b4ba82a9",
+    "https://tw.linkedin.com/in/robert-kang-a250213a",
+    "https://www.linkedin.com/company/nidec-instruments-america-corporation",
+    "https://sg.linkedin.com/company/nidec-instruments",
+    "https://ph.linkedin.com/in/arvin-edgar-vergara-95a752170"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com ニデックインスツルメンツ",
+   "results": [
+    "https://www.facebook.com/nsflhr.1/",
+    "https://www.facebook.com/Nidec.JP/videos/会社紹介シリーズニデックインスツルメンツ編nidecグループは世界no1のソリューション企業集団を目指してモータを軸とした様々なビジネスを展開しておりグループ会/1520568128766045/",
+    "https://www.facebook.com/Nidec.JP/",
+    "https://www.facebook.com/public/Nidec-Instruments/",
+    "https://www.facebook.com/people/Nidec-Instruments-MX-Slp/100089715480033/",
+    "https://www.facebook.com/Nidec.JP/posts/ニデックインスツルメンツ-ブカシで孤児支援活動を行いましたnidecグループは47の国と地域に300社を超えるグループ会社を有し約10万人の従業員と共にビジネス/1059157869347373/",
+    "https://www.facebook.com/Nidec.JP/posts/リリース情報ニデックインスツルメンツはクレジットカード電子マネー双方の決済に対応するコンパクトな非接触icカードリーダを開発しました同社が手掛けるatm向けの接/816715356924960/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ニデックインスツルメンツ note 社長",
+   "results": [
+    "https://www.nidec.com/jp/nidec-instruments/corporate/about/board/",
+    "https://www.nikkei.com/article/DGXZQODZ00011_U6A920C2000000/",
+    "https://www.yomiuri.co.jp/local/kansai/news/20260925-GYO1T00027/",
+    "https://www.asahi.com/articles/ASV9S2TKCV9SPLFA004M.html",
+    "https://www.nidec.com/v=1792053592/files/topics/79564_ext_3_0.pdf",
+    "https://finance.yahoo.co.jp/news/detail/c9c2f2092c75112e109f9af0a7c44813b1467a6d",
+    "https://news.yahoo.co.jp/articles/f37190266fbc426a359dcfd6d29b2edb81468710"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ニデックインスツルメンツ X 投稿",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  }
+ ],
+ "missing": {
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索9回）",
+  "事業内容": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索9回）",
+  "代表者": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索9回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索9回）",
+  "一点物・少量多品種": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部20頁・検索9回）"
+ }
+}

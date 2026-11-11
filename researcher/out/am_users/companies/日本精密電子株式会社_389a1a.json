@@ -1,0 +1,752 @@
+{
+ "name": "日本精密電子株式会社",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T11:11:32.806681+00:00",
+ "official_url": "http://www.nsd-japan.com",
+ "identified_by": "given",
+ "profile": {
+  "拠点": [
+   {
+    "label": "神奈川拠点",
+    "value": "月給 244,000円 〜 394,000円（一律手当含む）",
+    "url": "https://www.nsd-japan.com/recruit/",
+    "pass": 1
+   },
+   {
+    "label": "熊本拠点",
+    "value": "月給 200,000円 〜 350,000円（一律手当含む）",
+    "url": "https://www.nsd-japan.com/recruit/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社・工場 所在地",
+    "value": "〒245-0012　神奈川県横浜市泉区中田北1-29-1 TEL045-805-3371(代）　FAX045-805-3375 > Google Mapで見る",
+    "url": "https://www.nsd-japan.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "本社所在地",
+    "value": "神奈川県横浜市泉区中田北1-29-1",
+    "url": "https://tenshoku.mynavi.jp/company/450825/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役社長 一住連　努",
+    "url": "https://www.nsd-japan.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役社長 一住連　努",
+    "url": "https://tenshoku.mynavi.jp/company/450825/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "112 名（2026年3月31日現在）",
+    "url": "https://www.nsd-japan.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "112名（2026年１月現在）",
+    "url": "https://tenshoku.mynavi.jp/company/450825/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "1） 樹脂、金属の精密部品切削加工 半導体・液晶・太陽電池製造装置部品 宇宙・防衛・航空機部品 食品・飲料製造機械部品 医療機器部品 通信機器部品 自動車部品試作 レーシング部品試作（自動車・オートバイ・自転車） 金型及び金型部品の製作 各種治工具の設計・製作／他 ２） 搬送スクリュー加工 樹脂製・アルミ製・鉄製スクリュー ３） 各種専用装置の設計・製作 洗浄機器・搬送機器・バリ取り機器／他 ４） 検査測定・クリーンルーム内洗浄請負業務 三次元測定機による測定・データ作成（クリーンルーム クラス1000） 超音波洗浄・乾燥梱包（クリーンルーム クラス1000）",
+    "url": "https://www.nsd-japan.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業所",
+    "value": "横浜サプライセンター 〒245-0009 神奈川県横浜市泉区新橋町660 TEL 045-810-3055（代） FAX 045-410-6036 > Google Mapで見る 大和ビジョンセンター 〒242-0025 神奈川県大和市代官3-1-5 TEL 046-269-9555（代） FAX 046-269-9556 > Google Mapで見る 藤沢テクノロジーセンター 〒252-0805 神奈川県藤沢市円行1-21-3 TEL. 0466-41-9157（代） FAX. 0466-41-9158 > Google Mapで見る 熊本サプライセンター 〒864-0023 熊本県荒尾市水野1010-13 TEL. 0968-65-6661（代） FAX. 0968-65-6665 > Google Mapで見る 北関東支店 〒323-0022 栃木県小山市駅東通り1-26-16 SKビル4F TEL. 0285-39-7961 FAX .0285-39-7962 > Google Mapで見る 熊本ビジョンセンター 〒864-0015 熊本県荒尾市平山聖人原2200-97 TE",
+    "url": "https://www.nsd-japan.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "（１）樹脂、金属の精密部品切削加工 半導体・液晶・太陽電池製造装置部品 食品・飲料製造機械部品 医療機器部品 通信機器部品 金型及び金型部品の製作 各種治工具の設計・製作／他 （２）各種専用装置の設計・製作 洗浄機器・搬送機器・バリ取り機器／他 （３）検査測定・クリーンルーム内洗浄請負業務 三次元測定機による測定・データ作成（クリーンルーム クラス1000） 超音波洗浄・乾燥梱包（クリーンルーム クラス1000）",
+    "url": "https://tenshoku.mynavi.jp/company/450825/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "ナノレベルの超精密切削と鏡面加工技術で、精度と美しさを極めた製品を提供します",
+    "url": "https://www.nsd-japan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "部品表面の光沢や平滑性が求められる製品にも対応可能です",
+    "url": "https://www.nsd-japan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "寸法精度±0.01mmの精度で加工が可能で、量産部品や小ロット多品種の製品に対応",
+    "url": "https://www.nsd-japan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂・金属：寸法精度 ±0.01mmの精度で加工が可能で、量産部品や小ロット多品種の製品に対応します",
+    "url": "https://www.nsd-japan.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "金属切削鏡面加工（磨きレス）で凹凸面の製品に対応します",
+    "url": "https://www.nsd-japan.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "お客さまから要求される高精度品に対しては、先ず工場内および検査室内（クリーンルーム・クラス1000）を同一温度で管理することで、精密加工品がどの加工工程であろうと“製品の温度ならし”によるロスタイムをなくして、スピーディな評価測定を可能にしています",
+    "url": "https://www.nsd-japan.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、加工や測定のみならず、製品の洗浄・乾燥梱包までを一貫して対応することが可能です",
+    "url": "https://www.nsd-japan.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂や金属の精密切削加工では、高精度・高品質な部品や製品を製造できます",
+    "url": "https://www.nsd-japan.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "金属（ステンレス）と樹脂（スーパーエンプラ、PVC）の接着は、異種材料の特性を活かした製品設計に役立ちます",
+    "url": "https://www.nsd-japan.com/service/weld/",
+    "pass": 1
+   },
+   {
+    "quote": "接着加工＋仕上げ加工まで一貫対応することで、精度の高い製品が作れます",
+    "url": "https://www.nsd-japan.com/service/weld/",
+    "pass": 1
+   },
+   {
+    "quote": "お客さまから要求される高精度品に対しては、先ず工場内および検査室内（クリーンルーム・クラス1000）を同一温度で管理することで、精密加工品がどの加工工程であろうと“製品の温度ならし”によるロスタイムをなくして、スピーディな評価測定を可能にしています",
+    "url": "https://www.nsd-japan.com/service/check/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では、加工や測定のみならず、製品の洗浄・乾燥梱包までを一貫して対応することが可能です",
+    "url": "https://www.nsd-japan.com/service/check/",
+    "pass": 1
+   },
+   {
+    "quote": "また、お客さまから要求される高精度品に対しては、先ず工場内および検査室内（クリーンルーム・クラス1000）を同一温度で管理することで、精密加工品がどの加工工程であろうと“製品の温度ならし”によるロスタイムをなくして、スピーディな評価測定を可能にしています",
+    "url": "https://www.nsd-japan.com/technology/",
+    "pass": 1
+   },
+   {
+    "quote": "今後も皆様の課題解決に貢献できるよう、製品・サービスの拡充に努めてまいります",
+    "url": "https://www.nsd-japan.com/news/%E7%AC%AC16%E5%9B%9E%E5%BE%AE%E7%B4%B0%E5%8A%A0%E5%B7%A5expo%E3%81%AB%E5%87%BA%E5%B1%95%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82/",
+    "pass": 1
+   },
+   {
+    "quote": "・製品の品質・安全性を確保し、顧客満足の向上",
+    "url": "https://www.nsd-japan.com/wp-content/uploads/sdgssengen.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "“製品の温度ならし”によるロスタイムをなくして、スピーディな",
+    "url": "https://mono.ipros.com/product/detail/2000457362/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス一覧 (23)",
+    "url": "https://mono.ipros.com/product/detail/2000457362/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "スーパーエンプラ（PEEK、PPS等）格安にて",
+    "url": "https://www.nsd-japan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂、非鉄金属のNC旋盤・マシニングセンターによる複合部品加工を得意としています",
+    "url": "https://www.nsd-japan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂・金属：寸法精度 ±0.01mmの精度で加工が可能で、量産部品や小ロット多品種の製品に対応します",
+    "url": "https://www.nsd-japan.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂・金属の精密切削加工 | 日本精密電子株式会社",
+    "url": "https://www.nsd-japan.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂や金属の精密切削加工では、高精度・高品質な部品や製品を製造できます",
+    "url": "https://www.nsd-japan.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "また、各種スーパーエンジニアリングプラスチック（PEEK・PPS・PSU・PAI・ベスペル）等及び、各種金属（チタン・アルミ・ステンレス等）大物部品から小物部品まで、精度の厳しい超精密切削加工部品（三次元5軸加工等）を得意とします",
+    "url": "https://www.nsd-japan.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂加工（POM、PEEK、PTFEなど）",
+    "url": "https://www.nsd-japan.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "金属加工（アルミ、ステンレス、チタン、銅、真鍮など）",
+    "url": "https://www.nsd-japan.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "スーパエンジニアプラスチック、その他樹脂",
+    "url": "https://www.nsd-japan.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂微細加工 穴径φ0.03mmまで加工実績有",
+    "url": "https://www.nsd-japan.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "溶接技術にはさまざまな種類があり、それぞれの技術が異なる用途や材質に適しています",
+    "url": "https://www.nsd-japan.com/service/weld/",
+    "pass": 1
+   },
+   {
+    "quote": "どの溶接技術が最適かは、材質・強度・用途によって決まります",
+    "url": "https://www.nsd-japan.com/service/weld/",
+    "pass": 1
+   },
+   {
+    "quote": "金属（ステンレス）と樹脂（スーパーエンプラ、PVC）の接着は、異種材料の特性を活かした製品設計に役立ちます",
+    "url": "https://www.nsd-japan.com/service/weld/",
+    "pass": 1
+   },
+   {
+    "quote": "■透明度を求める → 樹脂鏡面加工、ポリッシング加工",
+    "url": "https://www.nsd-japan.com/service/weld/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは、スーパーエンプラをはじめとする精密部品加工を行う企業です",
+    "url": "https://www.nsd-japan.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "1） 樹脂、金属の精密部品切削加工",
+    "url": "https://www.nsd-japan.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "■樹脂、金属の精密部品切削加工、超精密硬鏡面加工",
+    "url": "https://mono.ipros.com/product/detail/2000457362/",
+    "pass": 3
+   },
+   {
+    "quote": "（１）樹脂、金属の精密部品切削加工",
+    "url": "https://tenshoku.mynavi.jp/company/450825/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "豊富な経験と先進技術で、試作から量産まで一貫対応",
+    "url": "https://www.nsd-japan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "寸法精度±0.01mmの精度で加工が可能で、量産部品や小ロット多品種の製品に対応",
+    "url": "https://www.nsd-japan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂・金属：寸法精度 ±0.01mmの精度で加工が可能で、量産部品や小ロット多品種の製品に対応します",
+    "url": "https://www.nsd-japan.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "レーシング部品試作（自動車・オートバイ・自転車）",
+    "url": "https://www.nsd-japan.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "工法転換｜溶接・組立品をアルミ鋳物で一体化 1個から試作",
+    "url": "https://mono.ipros.com/product/detail/2000457362/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "クリーンルーム・純水超音波洗浄にも対応し、半導体・航空宇宙・医療機器分野で多くの実績を誇ります",
+    "url": "https://www.nsd-japan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "三次元画像測定機現在、『三次元測定機』24台が稼働中で、オペレーターの位置決め測定や精度の追い込み測定、加工用治具の精度チェック等の煩わしい確認作業を全面的に余裕を持って支援しています",
+    "url": "https://www.nsd-japan.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "・絶縁性や耐薬品性を活かした電子部品や医療部品",
+    "url": "https://www.nsd-japan.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "三次元画像測定機現在、『三次元測定機』24台が稼働中で、オペレーターの位置決め測定や精度の追い込み測定、加工用治具の精度チェック等の煩わしい確認作業を全面的に余裕を持って支援しています",
+    "url": "https://www.nsd-japan.com/service/check/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和61年10月の創業より、電子部品量産用の冶工具類の製作を手始めに、通信機器部品、光学関連部品、宇宙航空機部品、防衛省向け機密部品、産業用ロボット部品、そして半導体製造装置部品、医療機器部品、飲料・食品製造装置部品へと事業を拡大して参りました",
+    "url": "https://www.nsd-japan.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "レーシング部品試作（自動車・オートバイ・自転車）",
+    "url": "https://www.nsd-japan.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "※半導体・液晶製造装置の精密部品加工及び組立て",
+    "url": "https://www.nsd-japan.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "・無人稼働ロボットによる24時間生産体制の整備",
+    "url": "https://www.nsd-japan.com/wp-content/uploads/sdgssengen.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "昭和６２年１０月の創業より、電子部品量産用の冶工具の製作を手始めに、通信機器部品、光学関連部品、 宇宙航空機部品、防衛庁向け機密部品、産業用ロボット部品、そして半導体製造装置部品へと事業内容を",
+    "url": "https://mono.ipros.com/product/detail/2000457362/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "お電話またはお問い合わせフォームでご連絡ください",
+    "url": "https://www.nsd-japan.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "FAX・メール等で、見積・制作検討依頼用の資料・図面など送付いただき、お客様と弊社間で製作内容のご確認・納期調整などを行い、お見積もりをご提示いたします",
+    "url": "https://www.nsd-japan.com/service/",
+    "pass": 1
+   },
+   {
+    "quote": "お電話またはお問い合わせフォームでご連絡ください",
+    "url": "https://www.nsd-japan.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "FAX・メール等で、見積・制作検討依頼用の資料・図面など送付いただき、お客様と弊社間で製作内容のご確認・納期調整などを行い、お見積もりをご提示いたします",
+    "url": "https://www.nsd-japan.com/service/cutting/",
+    "pass": 1
+   },
+   {
+    "quote": "お電話またはお問い合わせフォームでご連絡ください",
+    "url": "https://www.nsd-japan.com/service/weld/",
+    "pass": 1
+   },
+   {
+    "quote": "FAX・メール等で、見積・制作検討依頼用の資料・図面など送付いただき、お客様と弊社間で製作内容のご確認・納期調整などを行い、お見積もりをご提示いたします",
+    "url": "https://www.nsd-japan.com/service/weld/",
+    "pass": 1
+   },
+   {
+    "quote": "お電話またはお問い合わせフォームでご連絡ください",
+    "url": "https://www.nsd-japan.com/service/check/",
+    "pass": 1
+   },
+   {
+    "quote": "FAX・メール等で、見積・制作検討依頼用の資料・図面など送付いただき、お客様と弊社間で製作内容のご確認・納期調整などを行い、お見積もりをご提示いたします",
+    "url": "https://www.nsd-japan.com/service/check/",
+    "pass": 1
+   },
+   {
+    "quote": "「掲載お知らせ」に登録しておくと、この企業が求人を再開した際にメールでお知らせします",
+    "url": "https://tenshoku.mynavi.jp/company/450825/",
+    "pass": 3
+   },
+   {
+    "quote": "この企業の「掲載お知らせ」メールを受けとる",
+    "url": "https://tenshoku.mynavi.jp/company/450825/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "日本精密電子 株式会社 | 超精密切削×鏡面加工 — 日本精密電子 株式会社 | 超精密切削×鏡面加工 日本精密電子株式会社 https://www.nsd-japan.com",
+    "url": "https://www.nsd-japan.com/",
+    "pass": 3
+   },
+   {
+    "quote": "日本精密電子 株式会社 事業紹介 - イプロス — 日本精密電子 株式会社 事業紹介 - イプロス 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > ... > 受託サービス > 加工受託",
+    "url": "https://mono.ipros.com/product/detail/2000457362/",
+    "pass": 3
+   },
+   {
+    "quote": "日本精密電子 株式会社｜公式採用ホームページ — 日本精密電子 株式会社｜公式採用ホームページ アットカンパニー https://atcompany.jp > nsd-japan",
+    "url": "https://atcompany.jp/nsd-japan/",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 - 日本精密電子株式会社 — 会社情報 - 日本精密電子株式会社 日本精密電子株式会社 https://www.nsd-japan.com > company",
+    "url": "https://www.nsd-japan.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "日本精密電子 株式会社の 会社概要 - マイナビ転職 — 日本精密電子 株式会社の 会社概要 - マイナビ転職 マイナビ転職 https://tenshoku.mynavi.jp > company",
+    "url": "https://tenshoku.mynavi.jp/company/450825/",
+    "pass": 3
+   },
+   {
+    "quote": "日本精密電子 株式 会社 - 出展社詳細 - ネプコン ジャパン — 日本精密電子 株式 会社 - 出展社詳細 - ネプコン ジャパン ネプコン ジャパン https://www.nepconjapan.jp > ja-jp > search > directory",
+    "url": "https://www.nepconjapan.jp/tokyo/ja-jp/search/2026/directory/directory-details.%E6%97%A5%E6%9C%AC%E7%B2%BE%E5%AF%86%E9%9B%BB%E5%AD%90%20%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE.org-8162f8d7-19a0-4989-bdba-bb6147fcfa63.html",
+    "pass": 3
+   },
+   {
+    "quote": "日本精密電子 株式 会社 - イプロス — 日本精密電子 株式 会社 - イプロス 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/355124/",
+    "pass": 3
+   },
+   {
+    "quote": "日本精密電子 「社員クチコミ」 就職・転職の採用 ... - OpenWork — 日本精密電子 「社員クチコミ」 就職・転職の採用 ... - OpenWork OpenWork https://www.openwork.jp > 鉄鋼、非鉄金属",
+    "url": "https://www.openwork.jp/company.php?m_id=a0C1000000tfhOJ",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | 日本精密電子 株式会社 — お問い合わせ | 日本精密電子 株式会社 日本精密電子株式会社 https://www.nsd-japan.com > contact",
+    "url": "https://www.nsd-japan.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | 日本精密電子 株式会社｜公式採用ホームページ — お問い合わせ | 日本精密電子 株式会社｜公式採用ホームページ アットカンパニー https://atcompany.jp > nsd-japan > contact",
+    "url": "https://atcompany.jp/nsd-japan/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "日本精密電子 株式会社 - イプロス — 日本精密電子 株式会社 - イプロス 製造業向け情報検索サイト イプロスものづくり https://mono.ipros.com > 製造・加工受託",
+    "url": "https://mono.ipros.com/company/detail/355124/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "官報決算データベース on X: \" 日本精密電子 株式会社 第39期 ... 官報決算データベース on X: \" 日本精密電子 株式会社 第39期 ... X https://x.com > @kessan_db",
+    "url": "https://x.com/kessan_db/status/1940626970813124860",
+    "pass": 3
+   },
+   {
+    "quote": "官報決算データベース on X: \" 日本精密電子 株式会社 第40期 ... 官報決算データベース on X: \" 日本精密電子 株式会社 第40期 ... X https://x.com > @kessan_db",
+    "url": "https://x.com/kessan_db/status/2082657023704105251",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.nsd-japan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsd-japan.com/service/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsd-japan.com/service/cutting/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsd-japan.com/service/weld/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsd-japan.com/service/check/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsd-japan.com/technology/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsd-japan.com/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsd-japan.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nsd-japan.com/news/%E7%AC%AC16%E5%9B%9E%E5%BE%AE%E7%B4%B0%E5%8A%A0%E5%B7%A5expo%E3%81%AB%E5%87%BA%E5%B1%95%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.nsd-japan.com/wp-content/uploads/sdgssengen.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.nsd-japan.com/wp-content/uploads/top_strength06_mainpic.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/product/detail/2000457362/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tenshoku.mynavi.jp/company/450825/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nepconjapan.jp/tokyo/ja-jp/search/2026/directory/directory-details.%E6%97%A5%E6%9C%AC%E7%B2%BE%E5%AF%86%E9%9B%BB%E5%AD%90%20%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE.org-8162f8d7-19a0-4989-bdba-bb6147fcfa63.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://atcompany.jp/nsd-japan/contact/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nissei-kk.co.jp/support/contact_1.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/kessan_db/status/1940626970813124860",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/kessan_db/status/2082657023704105251",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "日本精密電子 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.nsd-japan.com/",
+    "https://mono.ipros.com/product/detail/2000457362/",
+    "https://injection-lab.com/technology/64-2.html",
+    "https://atcompany.jp/nsd-japan/",
+    "https://mfg-hack.com/plastic/10134/",
+    "https://www.zen.co.jp/",
+    "https://kishimotokogyo.co.jp/archives/prototype/",
+    "https://www.tnksanwa.co.jp/media/detail.html?id=3348",
+    "https://www.youtube.com/watch?v=rL1D8Ah3h3g",
+    "https://www.furutaka-netsel.co.jp/utility/elec_26_small-lot"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "日本精密電子 会社概要 事業内容",
+   "results": [
+    "https://www.nsd-japan.com/company/",
+    "https://tenshoku.mynavi.jp/company/450825/",
+    "https://www.nepconjapan.jp/tokyo/ja-jp/search/2026/directory/directory-details.%E6%97%A5%E6%9C%AC%E7%B2%BE%E5%AF%86%E9%9B%BB%E5%AD%90%20%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE.org-8162f8d7-19a0-4989-bdba-bb6147fcfa63.html",
+    "https://mono.ipros.com/company/detail/355124/",
+    "https://www.openwork.jp/company.php?m_id=a0C1000000tfhOJ",
+    "https://doda.jp/DodaFront/View/Company/j_id__10006434057/",
+    "https://atcompany.jp/nsd-japan/",
+    "https://www.nsd-japan.com/service/",
+    "https://www.kumamoto-investment.jp/kiji003289/index.html",
+    "https://www.nihon-s.co.jp/company-guide/company-overview/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "日本精密電子 お問い合わせ メール",
+   "results": [
+    "https://www.nsd-japan.com/contact/",
+    "https://atcompany.jp/nsd-japan/contact/",
+    "https://www.nissei-kk.co.jp/support/contact_1.html",
+    "https://mono.ipros.com/company/detail/355124/",
+    "https://www.nihon-s.co.jp/ir-information/ir-contact-us/",
+    "https://www.nepconjapan.jp/tokyo/ja-jp/search/2026/directory/directory-details.%E6%97%A5%E6%9C%AC%E7%B2%BE%E5%AF%86%E9%9B%BB%E5%AD%90%20%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE.org-8162f8d7-19a0-4989-bdba-bb6147fcfa63.html",
+    "https://www.sndk.co.jp/contact/",
+    "https://ndk.nsk-cp.co.jp/contact",
+    "https://www.jem-net.co.jp/contact/cmenu",
+    "https://www.jeol.co.jp/contacts/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com 日本精密電子",
+   "results": [
+    "https://note.com/tokinoshinichi/n/nf4a7bb28cdcf",
+    "https://note.com/izuku_idea/n/n46386372e0dd",
+    "https://note.com/kabutabi2000/n/n4f8143a75358",
+    "https://note.com/bunseki2531/n/n90635efe33ab",
+    "https://note.com/oh_no/n/n92f8b0176fbe",
+    "https://note.com/izuku_idea/n/n4f63bf827997",
+    "https://note.com/fumi_shingai/n/n2e9ffadf399b",
+    "https://note.com/ceo_offrecord/n/ne596f65c2ace",
+    "https://note.com/nicks701/n/n81afd9c3f596",
+    "https://note.com/shin_tigerjet/n/n217b203bc1ed"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com 日本精密電子",
+   "results": [
+    "https://x.com/kessan_db/status/1940626970813124860",
+    "https://x.com/kessan_db/status/2082657023704105251",
+    "https://x.com/i/trending/1950407527918948507",
+    "https://x.com/JEOL_Japan",
+    "https://x.com/takaichi_sanae/status/2118850008485441916",
+    "https://x.com/i/trending/1950465551446204630",
+    "https://x.com/JAE_JAPAN",
+    "https://x.com/nikkei/status/2073339624416522632",
+    "https://x.com/ezmejia/status/2045101764072886342",
+    "https://x.com/921_kunii/status/2092744225251315744"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:linkedin.com 日本精密電子",
+   "results": [
+    "https://jp.linkedin.com/in/%E7%9B%B4%E4%BF%8A-%E8%8A%B1%E7%94%B0-471029332",
+    "https://jp.linkedin.com/jobs/%E9%9B%BB%E5%AD%90%E9%83%A8%E5%93%81%E3%83%90%E3%82%A4%E3%83%A4%E3%83%BC-jobs",
+    "https://www.linkedin.com/pulse/%E7%B2%BE%E5%AF%86%E5%8C%BB%E7%99%82%E3%81%AE%E6%9E%B6%E3%81%91%E6%A9%8B-%E6%AC%A7%E5%B7%9E%E3%81%A8%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%90%E3%82%A4%E3%82%AAai%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%82%B9%E3%81%AB%E5%90%91%E3%81%91%E3%81%A6-jean-philippe-vert-iedne",
+    "https://jp.linkedin.com/pulse/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%82%B8%E3%82%AF%E3%83%AD%E3%83%AD%E3%83%A1%E3%82%BF%E3%83%B3%E5%B8%82%E5%A0%B4%E8%A6%8F%E6%A8%A1%E3%81%A8%E5%8B%95%E5%90%91-falvorax-tlffe",
+    "https://jp.linkedin.com/pulse/%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%9D%E3%83%AA%E3%83%A1%E3%83%81%E3%83%AB%E3%83%9A%E3%83%B3%E3%83%86%E3%83%B3-pmp%E9%9C%80%E8%A6%81%E3%81%A8%E4%B8%BB%E3%81%AA%E7%94%A8%E9%80%94-textile-tier-4unje",
+    "https://jp.linkedin.com/jobs/view/%E2%97%8E2%E4%BA%A4%E6%9B%BF%C3%97%E5%9C%9F%E6%97%A5%E4%BC%91%E3%81%BF%E3%80%90%E9%9B%BB%E5%AD%90%E9%83%A8%E5%93%81%E3%81%AE%E6%9D%90%E6%96%99%E3%81%A5%E3%81%8F%E3%82%8A%E3%80%91%E6%9C%88%E5%8F%8E27-7%E4%B8%87%E5%86%86%E4%BB%A5%E4%B8%8A%E5%8F%AF-at-%EF%BC%88%E6%A0%AA%EF%BC%89%E6%97%A5%E6%9C%AC%E3%82%B1%E3%82%A4%E3%83%86%E3%83%A0-4486853009",
+    "https://www.linkedin.com/company/imscsna",
+    "https://jp.linkedin.com/jobs/view/%E4%BD%9C%E6%A5%AD%E3%81%AF%E7%B2%BE%E5%AF%86%E6%A9%9F%E5%99%A8%E9%83%A8%E5%93%81%E3%81%AE%E8%A3%BD%E9%80%A0%E3%81%AB%E4%BC%B4%E3%81%86%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E2%98%85%E3%83%9F%E3%83%89%E3%83%AB%E6%B4%BB%E8%BA%8D%E4%B8%AD%EF%BC%81%E3%80%90%E7%B2%BE%E5%AF%86%E6%A9%9F%E5%99%A8%E9%83%A8%E5%93%81%E3%81%AE%E8%A3%BD%E9%80%A0%E3%80%91%E6%9C%88%E5%8F%8E%E4%BE%8B31%E4%B8%87%E5%86%86-at-%E6%97%A5%E7%B7%8F%E5%B7%A5%E7%94%A3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-4488139380",
+    "https://jp.linkedin.com/pulse/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%9D%99%E7%9A%84%E4%B8%AD%E5%92%8C%E8%A3%85%E7%BD%AE%E3%82%A4%E3%82%AA%E3%83%8A%E3%82%A4%E3%82%B6%E3%83%BC%E5%B8%82%E5%A0%B4%E3%81%AE%E6%9C%80%E6%96%B0%E5%8B%95%E5%90%91-nextwave-demand-lab-ppyqe",
+    "https://jp.linkedin.com/jobs/view/%E3%80%90%E4%BA%BA%E4%BA%8B%E5%8A%B4%E5%8B%99%E6%8B%85%E5%BD%93%EF%BD%9E%E5%8D%8A%E5%B0%8E%E4%BD%93%E8%A3%BD%E9%80%A0%E8%A3%85%E7%BD%AE%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E3%80%91%E8%A3%85%E7%BD%AE%E3%81%AE%E4%B8%96%E7%95%8C%E3%82%B7%E3%82%A7%E3%82%A22%E4%BD%8D%E2%80%BB%E5%9C%A8%E5%AE%85%E3%81%82%E3%82%8A%E3%83%BB%E4%BD%8F%E5%AE%85%E6%89%8B%E5%BD%93%E3%81%82%E3%82%8A%EF%BC%8Fs6039-at-doda-%E3%83%87%E3%83%A5%E3%83%BC%E3%83%80-4488009718"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "site:facebook.com 日本精密電子",
+   "results": [
+    "https://www.facebook.com/nihonseimitsu/?locale=ja_JP",
+    "https://www.facebook.com/p/%E6%97%A5%E6%9C%AC%E7%B2%BE%E5%AF%86%E6%A8%A1%E5%9E%8B-100067763044557/",
+    "https://www.facebook.com/micronmachinery/videos/-%E4%BC%9A%E5%A0%B4%E3%81%AE%E6%BA%96%E5%82%99%E3%81%8C%E6%95%B4%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E6%97%A5%E6%9C%AC%E5%A4%A7%E5%AD%A6%E5%B7%A5%E5%AD%A6%E9%83%A8%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%82%8B%E9%9B%BB%E6%B0%97%E9%9B%BB%E5%AD%90%E5%B7%A5%E5%AD%A6%E3%82%92%E5%AD%A6%E3%81%B6%E5%AD%A6%E7%94%9F%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E6%A5%AD%E7%95%8C%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%81%AB%E3%83%9F%E3%82%AF%E3%83%AD%E3%83%B3%E7%B2%BE%E5%AF%86%E3%82%82%E5%87%BA%E5%B1%95%E3%81%97%E3%81%BE%E3%81%99%E3%83%96%E3%83%BC%E3%82%B9%E3%81%AE%E8%A8%AD%E5%96%B6%E3%82%82%E7%B5%82%E3%82%8F%E3%82%8A13%E6%99%8230%E5%88%86%E3%81%AE%E9%96%8B%E5%A7%8B%E3%82%92%E5%BE%85%E3%81%A4/1446341766821929/",
+    "https://www.facebook.com/takaichisanae/posts/%E6%97%A5%E6%9C%AC%E5%88%97%E5%B3%B6%E3%82%92%E5%BC%B7%E3%81%8F%E8%B1%8A%E3%81%8B%E3%81%AB%E5%B1%B1%E5%BD%A2%E7%B7%A8%E6%9C%AC%E6%97%A5%E3%81%AF%E5%9C%B0%E5%9F%9F%E6%9C%AA%E6%9D%A5%E6%88%A6%E7%95%A5%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8D%E5%B1%B1%E5%BD%A2%E7%9C%8C%E3%81%8C%E7%AD%96%E5%AE%9A%E3%81%97%E3%81%9F%E5%8D%8A%E5%B0%8E%E4%BD%93%E5%88%86%E9%87%8E%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%9C%B0%E5%9F%9F%E7%94%A3%E6%A5%AD%E3%82%AF%E3%83%A9%E3%82%B9%E3%82%BF%E3%83%BC%E8%A8%88%E7%94%BB%E3%82%92%E3%81%94%E7%B4%B9%E4%BB%8B%E3%81%97%E3%81%BE%E3%81%99%E5%B1%B1%E5%BD%A2%E7%9C%8C%E3%81%AF%E4%BB%A4%E5%92%8C5%E5%B9%B4%E3%81%AE%E9%9B%BB%E5%AD%90%E9%83%A8%E5%93%81%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E9%9B%BB%E5%AD%90/1495133099379005/",
+    "https://www.facebook.com/taiwanjinzainet/posts/%E5%BE%9E%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%88%B0%E6%B1%BD%E8%BB%8A%E9%9B%BB%E5%AD%90%E3%83%95%E3%82%A1%E3%82%A4%E3%83%B3%E3%83%8D%E3%82%AF%E3%82%B9%E7%9A%84%E4%B8%8B%E4%B8%80%E9%9A%8E%E6%AE%B5%E7%99%BC%E5%B1%95%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%AD%90%E9%9B%B6%E7%B5%84%E4%BB%B6%E8%A3%BD%E9%80%A0%E5%95%86%E3%83%95%E3%82%A1%E3%82%A4%E3%83%B3%E3%83%8D%E3%82%AF%E3%82%B9finecs%E6%9C%AC%E6%AC%A1%E6%8B%9B%E5%8B%9F%E5%8D%8A%E5%B0%8E%E9%AB%94%E9%9B%B6%E7%B5%84%E4%BB%B6%E4%BC%81%E5%8A%83%E9%96%8B%E7%99%BC%E5%8F%8A%E8%A1%8C%E9%8A%B7%E7%9B%B8%E9%97%9C%E4%BA%BA%E6%89%8D-%E5%8D%8A%E5%B0%8E%E9%AB%94%E9%9B%B6%E7%B5%84%E4%BB%B6%E4%BC%81%E5%8A%83%E9%96%8B%E7%99%BC%E5%B0%88%E6%A1%88/1565128578963172/",
+    "https://www.facebook.com/NISSEI.TW/",
+    "https://www.facebook.com/EBARACORPORATION1912/photos/%E8%8D%8F%E5%8E%9F%E3%81%AF%E7%AB%B6%E6%B3%B3%E6%97%A5%E6%9C%AC%E4%BB%A3%E8%A1%A8%E3%82%92%E5%BF%9C%E6%8F%B4%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%B9%E3%83%9D%E3%83%B3%E3%82%B5%E3%83%BC3%E5%B9%B4%E7%9B%AE%E3%81%A8%E3%81%AA%E3%82%8B%E4%BB%8A%E5%B9%B4%E3%82%82%E3%81%93%E3%82%8C%E3%81%BE%E3%81%A7%E4%BB%A5%E4%B8%8A%E3%81%AB%E5%85%A8%E5%8A%9B%E3%81%A7%E9%81%B8%E6%89%8B%E3%81%AE%E7%9A%86%E3%81%95%E3%82%93%E3%82%92%E5%BF%9C%E6%8F%B4%E3%81%97%E3%81%BE%E3%81%99-%E3%81%A8%E3%81%93%E3%82%8D%E3%81%A7%E5%BD%93%E7%A4%BE%E3%81%AE%E4%B8%BB%E5%8A%9B%E8%A3%BD%E5%93%81%E3%81%A7%E3%81%82%E3%82%8B%E3%83%9D%E3%83%B3%E3%83%97%E3%81%8C%E6%B0%B4%E6%B3%B3/360132441519266/",
+    "https://www.facebook.com/ChinaExposures.CN/posts/-%E6%97%A5%E6%9C%AC%E8%B5%B0%E5%90%91%E8%BB%8D%E5%B7%A5%E5%87%BA%E5%8F%A3%E5%9C%8B%E6%97%A5%E6%9C%AC%E6%97%A5%E5%89%8D%E6%8E%A8%E5%8B%95%E6%94%BE%E5%AF%AC%E6%AD%A6%E5%99%A8%E5%87%BA%E5%8F%A3%E8%A6%8F%E5%89%87%E9%80%99%E9%9B%96%E7%84%B6%E7%9C%8B%E4%BC%BC%E4%B8%80%E5%B0%8F%E6%AD%A5%E5%AF%A6%E5%89%87%E6%98%AF%E6%88%B0%E5%BE%8C%E6%95%B8%E5%8D%81%E5%B9%B4%E4%BE%86%E6%97%A5%E6%9C%AC%E9%98%B2%E8%A1%9B%E6%94%BF%E7%AD%96%E7%9A%84%E9%87%8D%E8%A6%81%E8%BD%89%E8%AE%8A%E5%B0%88%E5%AE%B6%E8%A9%95%E8%AB%96%E4%B8%AD%E5%85%B1%E5%A4%9A%E5%B9%B4%E4%BE%86%E7%9A%84%E5%8F%8D%E6%97%A5%E5%AE%A3%E5%82%B3%E8%88%87%E5%8D%80%E5%9F%9F%E6%8C%91%E9%87%81%E7%A2%BA%E5%AF%A6%E5%8A%A0%E9%80%9F%E4%BA%86%E6%97%A5%E6%9C%AC%E6%93%BA%E8%84%AB/122129904333039231/",
+    "https://www.facebook.com/micronmachinery/posts/-%E4%BC%9A%E5%A0%B4%E3%81%AE%E6%BA%96%E5%82%99%E3%81%8C%E6%95%B4%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E6%97%A5%E6%9C%AC%E5%A4%A7%E5%AD%A6%E5%B7%A5%E5%AD%A6%E9%83%A8%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%82%8B%E9%9B%BB%E6%B0%97%E9%9B%BB%E5%AD%90%E5%B7%A5%E5%AD%A6%E3%82%92%E5%AD%A6%E3%81%B6%E5%AD%A6%E7%94%9F%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E6%A5%AD%E7%95%8C%E7%A0%94%E7%A9%B6%E4%BC%9A%E3%81%AB%E3%83%9F%E3%82%AF%E3%83%AD%E3%83%B3%E7%B2%BE%E5%AF%86%E3%82%82%E5%87%BA%E5%B1%95%E3%81%97%E3%81%BE%E3%81%99%E3%83%96%E3%83%BC%E3%82%B9%E3%81%AE%E8%A8%AD%E5%96%B6%E3%82%82%E7%B5%82%E3%82%8F%E3%82%8A13%E6%99%8230%E5%88%86%E3%81%AE%E9%96%8B%E5%A7%8B%E3%82%92%E5%BE%85%E3%81%A4/2038443030902293/",
+    "https://www.facebook.com/HertayPharmacy/posts/%E6%97%A5%E6%9C%ACnissei%E7%B2%BE%E5%AF%86%E8%A1%80%E5%A3%93%E8%A8%88%E6%97%A5%E6%9C%AC%E5%8E%9F%E8%A3%9D%E9%80%B2%E5%8F%A3%E6%89%8B%E8%85%95%E5%8F%8A%E6%89%8B%E8%87%82%E5%BC%8F%E8%A1%80%E5%A3%93%E8%A8%88dsk-1031j-%E6%89%8B%E8%87%82%E5%BC%8F%E8%A1%80%E5%A3%93%E8%A8%88%E7%A1%AC%E5%BC%8F%E5%A3%93%E8%84%88%E5%B8%B6%E7%9F%A5%E5%90%8D%E8%A8%AD%E8%A8%88%E5%B8%ABkazuo-kawasaki-%E5%B7%9D%E5%B4%8E%E5%92%8C%E7%94%B7%E7%9B%A3%E7%9D%A3%E8%A8%AD%E8%A8%88%E8%B2%BC%E5%BF%83%E7%9A%84/2595397357146067/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "日本精密電子 note 社長",
+   "results": [
+    "https://www.nsd-japan.com/company/",
+    "https://www.sangyo-times.jp/article.aspx?ID=13497",
+    "https://atcompany.jp/nsd-japan/",
+    "https://www.openwork.jp/company.php?m_id=a0C1000000tfhOJ",
+    "https://mono.ipros.com/product/detail/2000457362/",
+    "https://www.kumamoto-investment.jp/kiji003289/index.html",
+    "https://tenshoku.mynavi.jp/company/450825/",
+    "https://jp.indeed.com/q-%E6%97%A5%E6%9C%AC%E7%B2%BE%E5%AF%86%E9%9B%BB%E5%AD%90%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE-l-%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C-%E5%A4%A7%E5%92%8C%E5%B8%82-%E6%B1%82%E4%BA%BA.html",
+    "https://compalyze.co.jp/company/3020001000853",
+    "https://the-shashi.com/tse/5243/ceo/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "日本精密電子 X 投稿",
+   "results": [
+    "https://www.nsd-japan.com/",
+    "https://atcompany.jp/nsd-japan/",
+    "https://mono.ipros.com/product/detail/2000457362/",
+    "https://www.nepconjapan.jp/tokyo/ja-jp/search/2026/directory/directory-details.org-8162f8d7-19a0-4989-bdba-bb6147fcfa63.html",
+    "https://www.openwork.jp/company_answer.php?m_id=a0C1000000tfhOJ&q_no=8",
+    "https://www.kumamoto-investment.jp/kiji003289/index.html",
+    "https://x.com/kessan_db/status/1940626970813124860",
+    "https://ja.nc-net.or.jp/company/72889/",
+    "https://www.nsd-japan.com/company/",
+    "https://x.com/jeol_japan"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式9頁／PDF・画像2件／外部8頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式9頁／PDF・画像2件／外部8頁・検索9回）",
+  "AM関連": "記載なし（3回確認済み：公式9頁／PDF・画像2件／外部8頁・検索9回）"
+ }
+}

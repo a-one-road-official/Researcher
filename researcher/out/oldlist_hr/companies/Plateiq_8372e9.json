@@ -1,0 +1,1398 @@
+{
+ "name": "Plateiq",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜未接触",
+ "researched_at": "2026-11-11T10:48:12.716193+00:00",
+ "official_url": "https://www.ottimate.com/",
+ "identified_by": "given",
+ "profile": {
+  "株主": [
+   {
+    "label": "Total raised",
+    "value": "$164.5M",
+    "url": "https://getlatka.com/companies/plate-iq",
+    "pass": 3
+   }
+  ],
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2015",
+    "url": "https://startupintros.com/orgs/plate-iq",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "New York City, NY, USA",
+    "url": "https://startupintros.com/orgs/plate-iq",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Ottimate | AI-Powered AP Automation for Profitable Finance Teams",
+    "url": "https://ottimate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Ottimate AI works across the entire AP process – from invoice coding, routing, & approval, all the way through payment.",
+    "url": "https://ottimate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Gain more visibility and control over the entire employee expense process.",
+    "url": "https://ottimate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Make decisions with insights you couldn't see before with automatic approval workflows.",
+    "url": "https://ottimate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Dental Practice Networks",
+    "url": "https://ottimate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Physician Practice Networks",
+    "url": "https://ottimate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "View Full Content Gallery",
+    "url": "https://ottimate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rigid approval workflows",
+    "url": "https://ottimate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Approvals by location and department",
+    "url": "https://ottimate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Proactive support with dedicated CSMs",
+    "url": "https://ottimate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ottimate scans invoices in multiple formats — even handwritten details. AI predicts GL codes for each line item to reduce manual entry.",
+    "url": "https://ottimate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Schedule vendor payments around due dates and your cash position. Keep approvals in place and pay vendors through one central platform.",
+    "url": "https://ottimate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Check invoice prices and quantities against POs, receipts, or cost files so your team can resolve overcharges.",
+    "url": "https://ottimate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Get invoices approved faster",
+    "url": "https://ottimate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Most customers reduced their invoice lifecycle time from upload to approved from 3 days to less than 1.",
+    "url": "https://ottimate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "From hotel invoices to multi-property payments, Ottimate helps hospitality teams",
+    "url": "https://ottimate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "control costs, streamline approvals, and automate accounts payable so they can focus on guests, not paperwork.",
+    "url": "https://ottimate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Ottimate helps retailers & grocers catch invoice discrepancies, automate approvals,",
+    "url": "https://ottimate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "and control vendor spending to protect margins and boost profitability.",
+    "url": "https://ottimate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Keep healthcare finances healthy. Ottimate automates invoice processing, vendor payments, and approvals to reduce administrative costs, improve financial visibility, and free up staff to focus on patient care.",
+    "url": "https://ottimate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Less data entry, more client value. Ottimate helps accounting firms automate invoice processing, approvals, and payments across client accounts, reducing manual work and freeing up time for higher-value advisory services.",
+    "url": "https://ottimate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "How GPS Dental Scaled AP Across 113 Practices Without Adding Headcount",
+    "url": "https://ottimate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "One workflow for invoices and payments across 113 practices. More than 9,000 hours and an estimated $120K saved, with no added AP staff.",
+    "url": "https://ottimate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Gain more visibility and control over the entire employee expense process with spend management software, powered by Ottimate.",
+    "url": "https://ottimate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Automate your AP process with our QuickBooks API integration.",
+    "url": "https://ottimate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The Ottimate AI works across the entire AP process – from invoice coding, routing, & approval, all the way through payment.",
+    "url": "https://ottimate.com/current-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Gain more visibility and control over the entire employee expense process.",
+    "url": "https://ottimate.com/current-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Make decisions with insights you couldn't see before with automatic approval workflows.",
+    "url": "https://ottimate.com/current-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Dental Practice Networks",
+    "url": "https://ottimate.com/current-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Physician Practice Networks",
+    "url": "https://ottimate.com/current-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "View Full Content Gallery",
+    "url": "https://ottimate.com/current-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "with industry-leading services and solutions providers in order to fulfill business automation needs. Working together, we can ensure that your clients’ needs for invoice automation and payment automation are met!",
+    "url": "https://ottimate.com/current-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Forte is a cloud-based restaurant management platform built for multi-location operators. It combines AI-powered analytics, operational intelligence, labor and scheduling tools, and workflow automation in one platform, helping restaurant groups drive profitability, maintain compliance, and scale efficiently across every location.",
+    "url": "https://ottimate.com/current-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "MedProcure provides purpose-built supply management solutions for healthcare organizations. Developed through close collaboration with users and stakeholders, our platform aligns with real-world workflows to improve efficiency, visibility, and control. Backed by deep technology expertise, we pair intuitive tools with comprehensive training and ongoing support to drive lasting operational value.",
+    "url": "https://ottimate.com/current-partners/",
+    "pass": 1
+   },
+   {
+    "quote": ", to help cut costs, improve efficiency, and bring better insight to their clients’ businesses. Increase visibility at a fraction of the cost of traditional ERP software.",
+    "url": "https://ottimate.com/current-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Specialized Accounting Services LLC’s efforts help franchisors continue to maintain a healthy group of profitable stores that reflect the value of the brand and demonstrate to future franchisees the reason to invest in your organization. SAS is a top AP automation partner.",
+    "url": "https://ottimate.com/current-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Our team is always recruiting new partners on a right-fit basis. ERP Resellers, Bookkeepers & Accountants, Affiliates and Referrers welcome! We love mutually motivated, collaborative and smart partners who are building a better ecosystem.",
+    "url": "https://ottimate.com/current-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "FLORES provides a full suite of accounting services. From Accounts Payable to CFO consulting, FFS has the ability to become your full-resource accounting department. The team at FLORES Services offers a quality back office ensuring that all of your accounting and payroll needs are not only met but also exceeded.",
+    "url": "https://ottimate.com/current-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "partner providing sales, implementation, integration, and support. They also deliver a Data Portal solution that includes a data warehouse; integration; custom application and automation; and business reporting and data analytics that bridge all organization data into one place.",
+    "url": "https://ottimate.com/current-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Strategies Group partners with companies that build, manufacture, distribute, and provide field services to assist them in identifying and implementing software solutions to propel their future success.",
+    "url": "https://ottimate.com/current-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Anchor Group is a top Oracle NetSuite partner, and BigCommerce partner that provides implementation and customization services to B2B and B2C businesses across various industries! Ottimate seamlessly integrates with NetSuite, allowing Anchor Group to offer holistic solutions to their clients in distribution, manufacturing, hospitality and more.",
+    "url": "https://ottimate.com/current-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "KROST offers tax, accounting, and consulting services with an industry-focused approach. Get quality service, honest work, and accurate information to help make sound decisions and obtain maximum benefit while staying in compliance with the law.",
+    "url": "https://ottimate.com/current-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Presidents Club Partner, Gold Partner and VAR that consistently helps businesses get up and running successfully with Acumatica’s Cloud ERP. With a direct integration to Ottimate’s AP AI, we work together to create seamless business solutions.",
+    "url": "https://ottimate.com/current-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "BrainSell helps companies grow and scale through a combination of deep technology expertise, advanced data capabilities, and process optimization. BrainSell has been helping companies select, implement, and integrate end-to-end business technology for 30 years.",
+    "url": "https://ottimate.com/current-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Whether you operate 1 or 50+ units, R&R FMG has extensive restaurant accounting expertise to support your financial needs. Their team consists of highly trained professionals, most of whom are CPAs, offering decades of collective experience. R&R FMG provides specialized accounting services, helping drive the success of your business with a focus on efficiency, accuracy, and compliance.",
+    "url": "https://ottimate.com/current-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Alta Vista Technology is a nationally recognized ERP consulting firm with over 600 sales and implementations as well as countless fans. Alta Vista Technology specializes in providing ERP, CRM, Business Intelligence, and cloud financial business solutions from",
+    "url": "https://ottimate.com/current-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "BT Partners helps its clients understand, select and deploy technology to enable them to compete and prosper in a fast-changing world. BT Partner consultants are deeply invested in offering practical expertise and seamless support that address their client’s business needs.",
+    "url": "https://ottimate.com/current-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "RedRock Software provides supply chain management SCM solutions to the hospitality industry. Businesses are empowered with integrated supply chain management that includes strategic sourcing, e-procurement, materials management, food cost analysis, and capital project accounting – all in one single integrated solution.",
+    "url": "https://ottimate.com/current-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "NewGen Business Solutions was founded over 30 years ago on the idea that in the future every business, small and large, will need to leverage business technology to stay competitive. Their comprehensive à la carte menu of services makes it a simple and low-risk process to get what you need when you need it.",
+    "url": "https://ottimate.com/current-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Argano is a digital consultancy focused on transforming high-performance business operations by integrating design and delivery. They provide services in strategy, performance consulting, data and intelligence, and enterprise technology.",
+    "url": "https://ottimate.com/current-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "The Ottimate AI works across the entire AP process – from invoice coding, routing, & approval, all the way through payment.",
+    "url": "https://ottimate.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Gain more visibility and control over the entire employee expense process.",
+    "url": "https://ottimate.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Make decisions with insights you couldn't see before with automatic approval workflows.",
+    "url": "https://ottimate.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Dental Practice Networks",
+    "url": "https://ottimate.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Physician Practice Networks",
+    "url": "https://ottimate.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "View Full Content Gallery",
+    "url": "https://ottimate.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Ottimate is AI-powered accounts payable (AP) software for finance teams. It automates invoice capture and coding, approvals, and vendor payments across all of your locations.",
+    "url": "https://ottimate.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "We provide a smarter way for AP managers, approvers, controllers, and CFOs to work through the entire invoice lifecycle.",
+    "url": "https://ottimate.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Too often, AP teams still have to re-enter invoice data and chase approvals after adopting automation software.",
+    "url": "https://ottimate.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "With Ottimate, you can set approval rules by role or invoice amount. Integrations with systems such as NetSuite and Sage Intacct sync invoice data with your accounting software, so your team spends less time entering it twice.",
+    "url": "https://ottimate.com/about/",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by the best in",
+    "url": "https://ottimate.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Forte is a cloud-based restaurant management platform built for multi-location operators. It combines AI-powered analytics, operational intelligence, labor and scheduling tools, and workflow automation in one platform, helping restaurant groups drive profitability, maintain compliance, and scale efficiently across every location.",
+    "url": "https://ottimate.com/current-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "partner providing sales, implementation, integration, and support. They also deliver a Data Portal solution that includes a data warehouse; integration; custom application and automation; and business reporting and data analytics that bridge all organization data into one place.",
+    "url": "https://ottimate.com/current-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Anchor Group is a top Oracle NetSuite partner, and BigCommerce partner that provides implementation and customization services to B2B and B2C businesses across various industries! Ottimate seamlessly integrates with NetSuite, allowing Anchor Group to offer holistic solutions to their clients in distribution, manufacturing, hospitality and more.",
+    "url": "https://ottimate.com/current-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "industries, including operators managing AP across multiple locations. Teams can route invoices to the right approvers and catch cost discrepancies before payment.",
+    "url": "https://ottimate.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by Over 30,000 Customers",
+    "url": "https://ottimate.com/feature/strategic-partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "AP Automation for Manufacturing & Automotive Industries",
+    "url": "https://ottimate.com/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "AP Automation that adapts to your business and manufacturing needs — working overtime so you don’t have to.",
+    "url": "https://ottimate.com/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Check out this case study to find out how The Club at Ravenna streamlined invoices and payments with AP Automation.",
+    "url": "https://ottimate.com/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "At Ottimate, we’re solving those problems. We help bookkeepers and accountants keep their client’s account payables current. We help operators boost their margins with cashback on invoice spend. We help vendors keep track of their invoices and payment status.",
+    "url": "https://ottimate.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "Each virtual card is single-use and expires after the transaction, so there’s no risk of the number being stored or reused by a vendor.",
+    "url": "https://ottimate.com/feature/vendorpay/",
+    "pass": 1
+   },
+   {
+    "quote": "Built specifically for restaurant operators — not generic accounting software.",
+    "url": "https://getplateiq.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Join restaurant operators who know their real per-dish profitability — and price accordingly. Your margins depend on it.",
+    "url": "https://getplateiq.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Success Stories about Software and Services used by Plate IQ",
+    "url": "https://www.casestudies.com/customer/plate-iq",
+    "pass": 3
+   },
+   {
+    "quote": ": Identifying gaps in their sales process and understanding which objections are being used by prospects and how often, has allowed Plate IQ to improve their SDRs call to outcome ratio.",
+    "url": "https://abstrakt.ai/why-abstrakt/customer-stories/plate-iq-customer-story/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Plate IQ achieves streamlined AP, cost savings, and rapid card program growth with Marqeta | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/marqeta/case-study/ap-automation-software-helps-restaurants-and-hospitality-companies-grow-with-innovative-card-issuing",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Plate IQ achieves streamlined AP, cost savings, and rapid card program growth with Marqeta",
+    "url": "https://www.casestudies.com/company/marqeta/case-study/ap-automation-software-helps-restaurants-and-hospitality-companies-grow-with-innovative-card-issuing",
+    "pass": 3
+   },
+   {
+    "quote": "Open case study document...",
+    "url": "https://www.casestudies.com/company/marqeta/case-study/ap-automation-software-helps-restaurants-and-hospitality-companies-grow-with-innovative-card-issuing",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/marqeta/case-study/ap-automation-software-helps-restaurants-and-hospitality-companies-grow-with-innovative-card-issuing",
+    "pass": 3
+   },
+   {
+    "quote": "marqeta.com 2Plate IQ case study",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/marqeta_plate-iq_906886.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "marqeta.com 3Plate IQ case study",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/marqeta_plate-iq_906886.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "marqeta.com 4Plate IQ case study",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/marqeta_plate-iq_906886.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "marqeta.com 5Plate IQ case study",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/marqeta_plate-iq_906886.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ftvcapital.com/2021/plate-iq-raises-160-million-from-ftv-capital-to-close-the-supply-chain-payments-gap-between-vendors-and-operators",
+    "url": "https://startupintros.com/orgs/plate-iq",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Our team is always recruiting new partners on a right-fit basis. ERP Resellers, Bookkeepers & Accountants, Affiliates and Referrers welcome! We love mutually motivated, collaborative and smart partners who are building a better ecosystem.",
+    "url": "https://ottimate.com/current-partners/",
+    "pass": 1
+   },
+   {
+    "quote": "Help clients automate AP through our reseller, referral, or bookkeeping and strategic partner programs.",
+    "url": "https://ottimate.com/about/",
+    "pass": 1
+   },
+   {
+    "quote": "Become A Partner - Ottimate",
+    "url": "https://ottimate.com/become-a-partner/",
+    "pass": 1
+   },
+   {
+    "quote": "Ottimate has rebranded.",
+    "url": "https://getlatka.com/companies/plate-iq",
+    "pass": 3
+   },
+   {
+    "quote": "Plate IQ (now rebranded as Ottimate) is a technology company specializing in",
+    "url": "https://startupintros.com/orgs/plate-iq",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Already reselling or recommending tech and ERP solutions? Build an additional revenue stream by adding Ottimate to your offerings. We’ll work to effortlessly educate, enable and activate your team.",
+    "url": "https://ottimate.com/feature/strategic-partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Simplify AP and open the door to new revenue via cashback",
+    "url": "https://ottimate.com/feature/strategic-partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "AP solution generates revenue",
+    "url": "https://ottimate.com/feature/strategic-partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Ottimate starts with automating and digitizing accounts payable (AP) but doesn’t stop there. Automation and AI are increasingly part of our lives, and when implemented in a thoughtful manner can make people’s lives easier. Our goal is to address your unique AP pain points and make it possible for you to focus on projects that are of a higher value to you and your business.",
+    "url": "https://ottimate.com/roles/controller/",
+    "pass": 1
+   },
+   {
+    "quote": "Generate revenue with cashback",
+    "url": "https://ottimate.com/roles/controller/",
+    "pass": 1
+   },
+   {
+    "quote": "Unlock a full array of AP services for hospitality multi-unit and franchise businesses.",
+    "url": "https://ottimate.com/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Learn how Lazy Bear, a Michelin-starred restaurant maintains",
+    "url": "https://ottimate.com/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "What if my industry isn’t listed?",
+    "url": "https://ottimate.com/industry/",
+    "pass": 1
+   },
+   {
+    "quote": "Ottimate quickly became a key part of our accounting lifecycle. It’s giving [our managers] better control of their expenses… This information was never accessible to them before.",
+    "url": "https://ottimate.com/customers/",
+    "pass": 1
+   },
+   {
+    "quote": "Please be aware of employment scams attempting to misrepresent Ottimate or its employees to potential applicants. To help protect yourself from potential employment scams, please note that valid interview requests will come",
+    "url": "https://ottimate.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "AI-generated or duplicate invoices can slip through and drain company revenue",
+    "url": "https://ottimate.com/feature/instant-capture/",
+    "pass": 1
+   },
+   {
+    "quote": "Identify suspicious invoices early and prevent revenue loss.",
+    "url": "https://ottimate.com/feature/instant-capture/",
+    "pass": 1
+   },
+   {
+    "quote": "Use virtual cards to earn cash back and turn AP into revenue.",
+    "url": "https://ottimate.com/feature/vendorpay/",
+    "pass": 1
+   },
+   {
+    "quote": "Ottimate can process invoices in any format, including PDFs, scanned paper invoices, and electronic files. Ottimate’s AI-powered platform automatically captures and codes line-item details, regardless of how the invoice arrives.",
+    "url": "https://ottimate.com/industry/hospitality/",
+    "pass": 1
+   },
+   {
+    "quote": "Orders are arriving faster than forecast",
+    "url": "https://plateiq-kohl.vercel.app/",
+    "pass": 3
+   },
+   {
+    "quote": "corporate cards to business employees.",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/marqeta_plate-iq_906886.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "issue cards to their employees and create corporate",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/marqeta_plate-iq_906886.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "can instantly issue cards to employees without",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/marqeta_plate-iq_906886.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Plate IQ offers a wide array of solutions for restaurants and hospitality businesses to “bring sanity” to",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/marqeta_plate-iq_906886.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "cards to their employees. These cards are most",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/marqeta_plate-iq_906886.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "so employees don’t need to pay out of pocket.",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/marqeta_plate-iq_906886.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Employees of Plate IQ’s customers can be issued",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/marqeta_plate-iq_906886.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Ottimate Revenue 2023: $17.6M Est., $164.5M Raised",
+    "url": "https://getlatka.com/companies/plate-iq",
+    "pass": 3
+   },
+   {
+    "quote": "Ottimate has not published its revenue. GetLatka estimates it at about $17.6M a year (October 2023).",
+    "url": "https://getlatka.com/companies/plate-iq",
+    "pass": 3
+   },
+   {
+    "quote": "All 2 revenue readings, with sources",
+    "url": "https://getlatka.com/companies/plate-iq",
+    "pass": 3
+   },
+   {
+    "quote": "Ottimate CEO & employees",
+    "url": "https://getlatka.com/companies/plate-iq",
+    "pass": 3
+   },
+   {
+    "quote": "Barrett Boston is CEO of Ottimate. Ottimate had 196 employees (October 2023, LinkedIn), up from 165 a year earlier.",
+    "url": "https://getlatka.com/companies/plate-iq",
+    "pass": 3
+   },
+   {
+    "quote": "What is Ottimate's revenue?",
+    "url": "https://getlatka.com/companies/plate-iq",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Ottimate's revenue at about",
+    "url": "https://getlatka.com/companies/plate-iq",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Ottimate have?",
+    "url": "https://getlatka.com/companies/plate-iq",
+    "pass": 3
+   },
+   {
+    "quote": "employees in October 2023, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/plate-iq",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/plate-iq",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/plate-iq",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/plate-iq",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/121781-71",
+    "pass": 3
+   },
+   {
+    "quote": "Ottimate has 300 total employees.",
+    "url": "https://pitchbook.com/profiles/company/121781-71",
+    "pass": 3
+   },
+   {
+    "quote": "What is Ottimate’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/121781-71",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Ottimate is",
+    "url": "https://pitchbook.com/profiles/company/121781-71",
+    "pass": 3
+   },
+   {
+    "quote": "nasdaq.com/press-release/plate-iq-raises-$160-million-from-ftv-capital-to-close-the-supply-chain-payments-gap",
+    "url": "https://startupintros.com/orgs/plate-iq",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Upload invoices via scanner, phone, email, or vendor EDI",
+    "url": "https://ottimate.com/feature/strategic-partnerships/",
+    "pass": 1
+   },
+   {
+    "quote": "Resolve a discrepancy with a supplier in one thread, not a chain of emails.",
+    "url": "https://ottimate.com/feature/ap-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "“We currently utilize Ottimate for AP and has made this process much smoother from getting vendors paid on time to getting approvals faster. Less emails from the group about whether or not this is approved to pay as we have a simple rhythm for who is responsible for approving different areas and it gets to the right people each time.”",
+    "url": "https://ottimate.com/feature/ap-solutions/",
+    "pass": 1
+   },
+   {
+    "quote": "3-step interview process, and will include interviews conducted via Zoom, over the phone, and/or in person. If you believe you have received fraudulent communication regarding a position at Ottimate, please contact us at",
+    "url": "https://ottimate.com/careers/",
+    "pass": 1
+   },
+   {
+    "quote": "We are here to help with whatever you need! Please contact us with any questions you may have.",
+    "url": "https://ottimate.com/support/",
+    "pass": 1
+   },
+   {
+    "quote": "Ottimate assigns trust scores to invoices using history, email source, and pattern checks. Finance teams can auto-approve trusted invoices and flag anomalies, saving time while reducing financial exposure.",
+    "url": "https://ottimate.com/feature/instant-capture/",
+    "pass": 1
+   },
+   {
+    "quote": "“Having the ability to email in PO’s and Invoices for review. Makes managing high volume systems way easier to deal with in a busy company.”",
+    "url": "https://ottimate.com/industry/hospitality/",
+    "pass": 1
+   },
+   {
+    "quote": "Hand entry and email-based approvals stall close and bury teams in low-value tasks.",
+    "url": "https://ottimate.com/industry/retail/",
+    "pass": 1
+   },
+   {
+    "quote": "or continue with email",
+    "url": "https://www.plateiq.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "Contact us to request a demo",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/marqeta_plate-iq_906886.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/121781-71",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "京浜急行電鉄、東京建物、富士通、DNP、参天製薬、等",
+    "url": "https://earthkey.blog/global/plate-iq/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "PlateIQ — Kitchen intelligence, in real time — Orders are arriving faster than forecast 1,248meals projected+14.2% HOW PLATEIQ WORKS",
+    "url": "https://plateiq-kohl.vercel.app/",
+    "pass": 3
+   },
+   {
+    "quote": "PlateIQ - Smart AI-Powered Nutrition Tracking — PlateIQ Smart Nutrition Track calories, analyze nutrition, discover healthier alternatives, and make sustainable food choices with AI-powered insights.",
+    "url": "https://plateiq.online/",
+    "pass": 3
+   },
+   {
+    "quote": "PlateIQ | Autonomous Operations — Autonomous F&B Operations Platform",
+    "url": "https://www.plateiq.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "請求書から支払いまでを自動化する次世代AP（買掛金）プラットフォー... — Oct 7, 2025 · Plate IQ（Ottimate）の導入により、企業は支払いの正確性とスピードを両立させながら、人的コストの削減と不正支出の抑止を実現。 AIを活用した請求書処理の自動化は、バックオフィス業務における新たなスタンダードを築きつつあります。",
+    "url": "https://earthkey.blog/global/plate-iq/",
+    "pass": 3
+   },
+   {
+    "quote": "PlateIQ | Autonomous Operations — Protected by PlateIQ Security. Privacy & Terms.",
+    "url": "https://www.plateiq.tech/",
+    "pass": 3
+   },
+   {
+    "quote": "PlateIQ — Plan your meals. Hit your goals. — PlateIQ — Simple meal planning with real recipes, calorie awareness, and smart grocery lists. Built for real life.",
+    "url": "https://useplateiq.com/",
+    "pass": 3
+   },
+   {
+    "quote": "PlateIQ - Smart AI-Powered Nutrition Tracking — Our AI analyzes every aspect of your food to provide comprehensive health, environmental, and economic insights. Join thousands of users making smarter, healthier, and more sustainable food choices.",
+    "url": "https://plateiq.online/",
+    "pass": 3
+   },
+   {
+    "quote": "PlateIQ — Know Your Real Food Cost — Upload supplier invoices, map your recipes, and see exactly what every dish costs to make — down to the cent. Know your real per-plate margin before you price. No complicated setup. No training required. Start seeing real food cost data today. Drop in photos or PDFs of your supplier invoices.",
+    "url": "https://getplateiq.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Sign in to Ottimate — Plate IQ is a complete accounts payable solution, with real-time analytics.",
+    "url": "https://auth.plateiq.com/login/",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Case Studies: How Plate IQ Uses Software & Services — Explore case studies featuring Plate IQ as the customer — learn how vendors and partners helped Plate IQ solve real business challenges.",
+    "url": "https://www.casestudies.com/customer/plate-iq",
+    "pass": 3
+   },
+   {
+    "quote": "Plate IQ Customer Story | Abstrakt — Read more about Plate IQ's customer story and how they are using Abstrakt to set more meetings booked by new hires than ever before...",
+    "url": "https://abstrakt.ai/why-abstrakt/customer-stories/plate-iq-customer-story/",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: Plate IQ achieves streamlined AP, cost savings ... — Marqeta’s flexible, scalable platform directly supported Plate IQ’s ability to scale the Plate IQ Card and improve customer efficiency. Open case study document...",
+    "url": "https://www.casestudies.com/company/marqeta/case-study/ap-automation-software-helps-restaurants-and-hospitality-companies-grow-with-innovative-card-issuing",
+    "pass": 3
+   },
+   {
+    "quote": "Plate IQ - cdn.featuredcustomers.com — “Plate IQ has cut our bookkeeping costs in half — and allowed us to move forward with an AP team of just one employee,“ said Sean Skuro, VP of Finance and Accounting at Tender Greens, a Plate IQ customer. Plate IQ partners with Marqeta to power the Plate IQ Card.",
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/marqeta_plate-iq_906886.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Plate IQ Case Study - Marqeta — Build a corporate card that enables your businesses to issue cards to their employees and create corporate expense programs.",
+    "url": "https://www.marqeta.com/resources/plate-iq-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "PlateIQ — Funding, Investors & Team | Seedtable — What changed at PlateIQ recently — detected automatically from funding, hiring and leadership data.",
+    "url": "https://seedtable.com/companies/plateiq",
+    "pass": 3
+   },
+   {
+    "quote": "Ottimate Revenue 2023: $17.6M Est., $164.5M Raised - LATKA — Oct 30, 2026 · Ottimate (formerly Plate IQ) is the leading AP automation AI. Ottimate is AP automation AI that provides a smarter way for AP managers, approvers, controllers, and CFOs to work through the entire invoice lifecycle. Ottimate has not published its revenue. GetLatka estimates it at about $17.6M a year (October 2023).",
+    "url": "https://getlatka.com/companies/plate-iq",
+    "pass": 3
+   },
+   {
+    "quote": "Ottimate 2026 Company Profile: Valuation, Funding & Investors ...Plate IQ: Funding, Team & Investors | Startup IntrosPlate IQ Information - RocketReachPlate IQ Analysis & Market Share Overview | Similarweb — Information on valuation, funding, cap tables, investors, and executives for Ottimate. Use the PitchBook Platform to explore the full profile. Mar 20, 2017 · Founded in 2014 by Bhavuk Kaul (CE",
+    "url": "https://pitchbook.com/profiles/company/121781-71",
+    "pass": 3
+   },
+   {
+    "quote": "Plate IQ: Funding, Team & Investors | Startup Intros — Mar 20, 2017 · Founded in 2014 by Bhavuk Kaul (CEO) and Ram Jayaraman (CTO), Plate IQ emerged from the founders’ recognition of the complex and inefficient AP processes in the restaurant industry.",
+    "url": "https://startupintros.com/orgs/plate-iq",
+    "pass": 3
+   },
+   {
+    "quote": "Plate IQ – Estimated Net Worth, Growth & Competitor Overview –… — Discover Plate IQ's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/plate-iq",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Garry Tan on X: \"@alex Much love to those cos but there is ... Much love to those cos but there is one under the radar doing more than $500M in annual transactions and is profitable (real earnings) that nobody talks about and that is fellow YC backed co @ plateiq @ bhavuk",
+    "url": "https://x.com/i/status/1339809530067079168",
+    "pass": 3
+   },
+   {
+    "quote": "Hari Viswanath (@HV021) / Posts / X Hari Viswanath 🇺🇲🇲🇾 (@HV021) - Posts - Product Marketer @augurysys by 🌄/ YC operator x3 / Built @plateiq @Iris_Automation @Semant... | X (formerly Twitter)",
+    "url": "https://x.com/HV021",
+    "pass": 3
+   },
+   {
+    "quote": "@plateiq | X The latest posts from @plateiq",
+    "url": "https://x.com/plateiq",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "MicroDynamics Launches PlateIQ for Precision Plate Surface ... Oct 27, 2026 · Through an automatic, system-wide update, PlateIQ is available now for all Veritas/MicroScan3 systems. Existing users can activate the new features by simply downloading the update in MicroScan3.",
+    "url": "https://www.linkedin.com/pulse/microdynamics-launches-plateiq-precision-plate-surface-measurement-kllnc",
+    "pass": 3
+   },
+   {
+    "quote": "Vivek Rajwar - Engineering Manager @ Ottimate (formerly ...Aditya Sista - Ex Amazon, PlateIQ, AMAT, JustDial || BITS ...Chandrashekar Viswanathan - Staff Machine Learning Engineer ...MicroDynamics Launches PlateIQ for Precision Plate Surface ...MicroDynamics Launches PlateIQ Inspection Features with ... Engineering Manager @ Ottimate (formerly Plateiq) · • Proficient in understanding and analyzing",
+    "url": "https://in.linkedin.com/in/rajwarvivek",
+    "pass": 3
+   },
+   {
+    "quote": "Aditya Sista - Ex Amazon, PlateIQ, AMAT, JustDial || BITS ...Chandrashekar Viswanathan - Staff Machine Learning Engineer ...MicroDynamics Launches PlateIQ for Precision Plate Surface ...MicroDynamics Launches PlateIQ Inspection Features with ... Ex Amazon, PlateIQ, AMAT, JustDial || BITS-Pilani · I am an experienced Software Engineer with a focus on Artificial Intelligence, Deep Learning, Image Pr",
+    "url": "https://in.linkedin.com/in/aditya-sista-2479b62b",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Plateiq - AI Calorie Counter - Facebook Plateiq - AI Calorie Counter. 10 likes. PlateIQ: AI Calorie Counter 🥗 Stop typing. Start snapping. 📸 Instant macros & calories via AI photo scan. Built...",
+    "url": "https://www.facebook.com/people/Plateiq-AI-Calorie-Counter/61585304259001/",
+    "pass": 3
+   },
+   {
+    "quote": "PlateIQ - Facebook PlateIQ - Facebook ... PlateIQ",
+    "url": "https://www.facebook.com/PlateIQ-101289915730633/",
+    "pass": 3
+   },
+   {
+    "quote": "Simar Plateiq - Facebook Simar Plateiq. 358 likes · 18 talking about this. living life one vibe at a time",
+    "url": "https://www.facebook.com/platsimar78/",
+    "pass": 3
+   },
+   {
+    "quote": "Plate IQ | Netsuite integration! #netsuite#plateiq#oracle# ... Sep 6, 2022 · Plate IQ | Netsuite integration! #netsuite #plateiq #oracle #apautomation. Ottimate · Original audio",
+    "url": "https://www.facebook.com/plateiq/videos/plate-iq-netsuite-integrationnetsuite-plateiq-oracle-apautomation/822795438713628/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://ottimate.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ottimate.com/current-partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ottimate.com/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ottimate.com/feature/strategic-partnerships/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ottimate.com/feature/strategic-partnerships/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ottimate.com/feature/ap-solutions/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ottimate.com/roles/controller/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ottimate.com/industry/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ottimate.com/customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ottimate.com/careers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ottimate.com/support/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ottimate.com/feature/instant-capture/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ottimate.com/feature/vendorpay/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ottimate.com/feature/invoice-risk/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ottimate.com/industry/hospitality/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ottimate.com/industry/retail/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ottimate.com/features/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ottimate.com/integrations/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ottimate.com/feature/strategic-partnerships/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ottimate.com/become-a-partner/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://ottimate.com/wp-content/uploads/2023/06/bt-partners-logo.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://ottimate.com/wp-content/uploads/2023/05/Spend-management.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://ottimate.com/wp-content/uploads/2023/05/Approval-routing.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://ottimate.com/wp-content/uploads/2023/05/ERP-integration.svg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://plateiq-kohl.vercel.app/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://plateiq.online/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.plateiq.tech/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://earthkey.blog/global/plate-iq/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/contract/basic/8378/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ejje.weblio.jp/content/%E7%B7%8F%E4%BB%A3%E7%90%86%E5%BA%97",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner-prop.com/lab/partner-business/agency/256/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.plateiq.tech/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://useplateiq.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://plateiq.online/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://getplateiq.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/customer/plate-iq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://abstrakt.ai/why-abstrakt/customer-stories/plate-iq-customer-story/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/marqeta/case-study/ap-automation-software-helps-restaurants-and-hospitality-companies-grow-with-innovative-card-issuing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/marqeta_plate-iq_906886.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upcloud.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://seedtable.com/companies/plateiq",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/plate-iq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/121781-71",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://startupintros.com/orgs/plate-iq",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/i/status/1339809530067079168",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/HV021",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/microdynamics-launches-plateiq-precision-plate-surface-measurement-kllnc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/rajwarvivek",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/aditya-sista-2479b62b",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/people/Plateiq-AI-Calorie-Counter/61585304259001/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/PlateIQ-101289915730633/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/platsimar78/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/plateiq/videos/plate-iq-netsuite-integrationnetsuite-plateiq-oracle-apautomation/822795438713628/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/plateiq",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Plateiq 日本 導入",
+   "results": [
+    "https://plateiq-kohl.vercel.app/",
+    "https://plateiq.online/",
+    "https://www.plateiq.tech/",
+    "https://earthkey.blog/global/plate-iq/",
+    "https://ottimate.com/",
+    "https://www.mlit.go.jp/plateau/",
+    "https://ottimate.com/support/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Plateiq 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://ejje.weblio.jp/content/総代理店",
+    "https://partner-prop.com/lab/partner-business/agency/256/",
+    "https://dairitenboshu.com/column/detail/soudairiten",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://prtimes.jp/main/html/rd/p/000000687.000032317.html"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Plateiq Japan",
+   "results": [
+    "https://www.plateiq.tech/",
+    "https://useplateiq.com/",
+    "https://plateiq.online/",
+    "https://getplateiq.com/",
+    "https://auth.plateiq.com/login/",
+    "https://m.plateiq.com/",
+    "https://ottimate.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Plateiq manufacturing customer case study",
+   "results": [
+    "https://www.casestudies.com/customer/plate-iq",
+    "https://abstrakt.ai/why-abstrakt/customer-stories/plate-iq-customer-story/",
+    "https://www.casestudies.com/company/marqeta/case-study/ap-automation-software-helps-restaurants-and-hospitality-companies-grow-with-innovative-card-issuing",
+    "https://cdn.featuredcustomers.com/CustomerCaseStudy.document/marqeta_plate-iq_906886.pdf",
+    "https://www.marqeta.com/resources/plate-iq-case-study",
+    "https://medium.com/plateiq/case-study-80-reduction-in-time-spent-processing-invoices-efa165ff768",
+    "https://www.gong.io/customers/case-studies/plate-iq-shrinks-ramp-up-time-from-a-year-to-a-few-weeks"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Plateiq white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/",
+    "https://www.seoreseller.com/",
+    "https://nebius.com/nebius-partner-program",
+    "https://www.shopify.com/partners/blog/shopify-partner-program-tiers"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Plateiq founded funding employees revenue",
+   "results": [
+    "https://seedtable.com/companies/plateiq",
+    "https://getlatka.com/companies/plate-iq",
+    "https://pitchbook.com/profiles/company/121781-71",
+    "https://startupintros.com/orgs/plate-iq",
+    "https://compworth.com/company/plate-iq",
+    "https://rocketreach.co/plate-iq-profile_b5a2a1b2f6dd8b6f",
+    "https://www.similarweb.com/company/plateiq.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Plateiq",
+   "results": [
+    "https://note.com/seigo77",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/tag/工藤公康",
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/osirius3150/n/n164c9a6f7cf8",
+    "https://note.com/tori_1980/n/n21037c205ade"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Plateiq",
+   "results": [
+    "https://about.x.com/en",
+    "https://x.com/i/status/1339809530067079168",
+    "https://x.com/HV021",
+    "https://help.x.com/en",
+    "https://x.com/bhumilharia",
+    "https://help.x.com/en/using-x/create-x-account",
+    "https://x.com/PlayGrifball"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Plateiq",
+   "results": [
+    "https://www.linkedin.com/company/ottimate",
+    "https://www.linkedin.com/pulse/microdynamics-launches-plateiq-precision-plate-surface-measurement-kllnc",
+    "https://in.linkedin.com/in/rajwarvivek",
+    "https://in.linkedin.com/in/aditya-sista-2479b62b",
+    "https://ca.linkedin.com/in/chandrashekar-viswanathan-a493021a3",
+    "https://www.linkedin.com/posts/microdynamics_microdynamics-launches-plateiq-for-precision-activity-7520843211662131200-DbWC",
+    "https://www.linkedin.com/posts/activity-7520825294686064641-TUwd"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Plateiq",
+   "results": [
+    "https://www.facebook.com/people/Plateiq-AI-Calorie-Counter/61585304259001/",
+    "https://www.facebook.com/PlateIQ-101289915730633/",
+    "https://www.facebook.com/platsimar78/",
+    "https://www.facebook.com/plateiq/videos/plate-iq-netsuite-integrationnetsuite-plateiq-oracle-apautomation/822795438713628/",
+    "https://www.facebook.com/plateiq/",
+    "https://www.facebook.com/plateiq/videos/what-plate-iq-does/2050338495191058/",
+    "https://www.facebook.com/plateiq/videos/what-is-plate-iq-ap-automation-that-integrates-with-your-accounting-software-86-/884293615863087/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Plateiq note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://business.nikkei.com/atcl/gen/19/00298/063000015/",
+    "https://note.com/lithe_cobra3581/n/nb9722a5c806f",
+    "https://www.cfo.com/news/ottimates-dan-kim-says-entrepreneurship-made-him-a-better-cfo/873784/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Plateiq X 投稿",
+   "results": [
+    "https://x.com/plateiq",
+    "https://www.plateiq.tech/",
+    "https://m.plateiq.com/",
+    "https://ottimate.com/support/",
+    "https://ottimate.com/",
+    "https://x.com/felixrieseberg/status/2119925633564463609",
+    "https://dashboard.plateiq.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部34頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部34頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部34頁・検索12回）"
+ }
+}

@@ -1,0 +1,982 @@
+{
+ "name": "岳石電気株式会社",
+ "aliases": [],
+ "context": "ipros_all:オーダーメイド",
+ "researched_at": "2026-11-11T10:53:34.652262+00:00",
+ "official_url": "http://www.takeishi.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "本社工場 〒259-1306　神奈川県秦野市戸川32-1 TEL:0463-75-1682　FAX：0463-75-4188 第二工場 〒259-1306　神奈川県秦野市戸川125-1",
+    "url": "https://www.takeishi.co.jp/outline/",
+    "pass": 1
+   }
+  ],
+  "拠点": [
+   {
+    "label": "工場面積",
+    "value": "2817.52㎡<",
+    "url": "https://www.takeishi.co.jp/outline/",
+    "pass": 1
+   },
+   {
+    "label": "関連会社",
+    "value": "株式会社　岳石デライト",
+    "url": "https://www.takeishi.co.jp/outline/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "65名　（2023年5月現在）",
+    "url": "https://www.takeishi.co.jp/outline/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "コイル・機械加工品・熱処理製品など、様々な製法別に製品事例をご紹介します",
+    "url": "https://www.takeishi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン・モリブデン・タンタルなどの難削材・難加工材と呼ばれるレアメタルを中心に、SUSやセラミックスを使用した製品をご紹介します",
+    "url": "https://www.takeishi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン・モリブデン部品 製品事例｜製法・素材・分野別｜岳石電気",
+    "url": "https://www.takeishi.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "タングステンやモリブデンなどの高融点金属の精密加工を中心に作られた製品は数十万点に上りますがほぼすべて、メイドインジャパンのオーダーメイド",
+    "url": "https://www.takeishi.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "これら当社の製品は皆様のあらゆる生活シーンに欠かせないものとなっています",
+    "url": "https://www.takeishi.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "コイル・精密機械加工品・高温熱処理・焼結製品など、様々な製法別に製品事例をご紹介します",
+    "url": "https://www.takeishi.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン・モリブデン・タンタルなどの難削材・難加工材と呼ばれるレアメタルを中心に、SUSやセラミックスを使用した製品をご紹介します",
+    "url": "https://www.takeishi.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "レアメタル・SUS・セラミックス精密機械加工｜製品事例｜岳石電気",
+    "url": "https://www.takeishi.co.jp/product/precision-machinery/",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン・高融点金属・レアメタルなどの難加工・難削材の精密加工製品です",
+    "url": "https://www.takeishi.co.jp/product/precision-machinery/",
+    "pass": 1
+   },
+   {
+    "quote": "表面改質（エッチング）｜製品事例｜岳石電気",
+    "url": "https://www.takeishi.co.jp/product/surface-treatment/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の表面凸凹を軽減させたり、鏡面加工やワイヤーの先端を尖らせることも可能です",
+    "url": "https://www.takeishi.co.jp/product/surface-treatment/",
+    "pass": 1
+   },
+   {
+    "quote": "岳石電気は大きく成長し、今では私たちの製品が世界中で愛されています",
+    "url": "https://www.takeishi.co.jp/outline/",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン・レアメタル・SUS コイルフィラメント｜製品事例｜岳石電気",
+    "url": "https://www.takeishi.co.jp/product/coil-filament/",
+    "pass": 1
+   },
+   {
+    "quote": "ハロゲンランプ、白熱灯、クリプトンランプ、紫外線ランプ、蛍光灯、航空機用ランプ、空港施設用ランプなど、あらゆる照明の他、カテーテル、ガイドワイヤーなどの医療製品、Ｘ線検査装置・分析・センサ・真空管・電子銃など、幅広い分野に利用されているコイルです",
+    "url": "https://www.takeishi.co.jp/product/coil-filament/",
+    "pass": 1
+   },
+   {
+    "quote": "溶接・溶融・ろう付け・アセンブリ｜製品事例｜岳石電気",
+    "url": "https://www.takeishi.co.jp/product/joining/",
+    "pass": 1
+   },
+   {
+    "quote": "モネルを使用した製品の一例をご紹介いたします",
+    "url": "https://www.takeishi.co.jp/product-material/monel/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミニウム合金を使用した製品の一例をご紹介いたします",
+    "url": "https://www.takeishi.co.jp/product-material/aluminumalloy/",
+    "pass": 1
+   },
+   {
+    "quote": "純タングステンに比べ加工性に優れ、高い比重（一般的に17～18.5g/cm3）を持つため、釣り具としてのルアーやダーツバレルなどのアミューズメント製品や、高い遮蔽性を活かした医療や原子力関連の部品など、さまざまな用途で使用されています",
+    "url": "https://www.takeishi.co.jp/product-material/heavy-alloy/",
+    "pass": 1
+   },
+   {
+    "quote": "複合焼結製品 | 岳石電気株式会社 | タングステン精密部品、研究開発の岳石電気",
+    "url": "https://www.takeishi.co.jp/product-item/product-item-3918/",
+    "pass": 1
+   },
+   {
+    "quote": "ニッケル（上側）～タングステン合金（下側）の複合金属傾斜材料による製品",
+    "url": "https://www.takeishi.co.jp/product-item/product-item-3918/",
+    "pass": 1
+   },
+   {
+    "quote": "公差がミクロン単位やミリ単位の小型製品の精密加工を得意としています",
+    "url": "https://www.takeishi.co.jp/technology/precision-machining/",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン・モリブデン・タンタルなどの精密加工ピン（針）は半導体製造装置やイオナイザーなどの製品で使用されています",
+    "url": "https://www.takeishi.co.jp/technology/precision-machining/",
+    "pass": 1
+   },
+   {
+    "quote": "製品・サービス(80)",
+    "url": "https://mono.ipros.com/company/detail/2056641/category/63671/",
+    "pass": 3
+   },
+   {
+    "quote": "、製品・技術・サービス",
+    "url": "https://www.atengineer.com/pr/takeishi/company",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "タングステン・モリブデン・タンタルなどの難削材・難加工材と呼ばれるレアメタルを中心に、SUSやセラミックスを使用した製品をご紹介します",
+    "url": "https://www.takeishi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Case. 3 導電性を有するセラミックと金属の焼結体の開発",
+    "url": "https://www.takeishi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "タングステンをはじめ、モリブデン、ニオブ、タンタル、レニウム、白金、チタン、白金イリジウム、ニッケルなど、各種レアメタルや、超硬やアルミナ、窒化ケイ素（珪素）等を加工しています",
+    "url": "https://www.takeishi.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン・モリブデン・タンタルなどの難削材・難加工材と呼ばれるレアメタルを中心に、SUSやセラミックスを使用した製品をご紹介します",
+    "url": "https://www.takeishi.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "このカソードは2000℃付近に耐える必要があることから、材質についてお客様はタングステンやモリブデンをご希望でしたが、",
+    "url": "https://www.takeishi.co.jp/blog/7039/",
+    "pass": 1
+   },
+   {
+    "quote": "ファインセラミックス加工品 | 岳石電気株式会社 | タングステン精密部品、研究開発の岳石電気",
+    "url": "https://www.takeishi.co.jp/product/ceramic-processed-products/",
+    "pass": 1
+   },
+   {
+    "quote": "ファインセラミックスは、優れた耐摩耗性・耐熱性・絶縁性を持ち、電子部品や、半導体製造装置・自動車・航空宇宙など高温環境下で利用されています",
+    "url": "https://www.takeishi.co.jp/product/ceramic-processed-products/",
+    "pass": 1
+   },
+   {
+    "quote": "また、セラミックス製の部品は軽量でありながら強度があり、耐薬品性にも優れているため、医療機器などでも利用されています",
+    "url": "https://www.takeishi.co.jp/product/ceramic-processed-products/",
+    "pass": 1
+   },
+   {
+    "quote": "レアメタル・SUS・セラミックス精密機械加工｜製品事例｜岳石電気",
+    "url": "https://www.takeishi.co.jp/product/precision-machinery/",
+    "pass": 1
+   },
+   {
+    "quote": "これまでに、タングステンをはじめ、モリブデン、ニオブ、タンタル、レニウム、白金、チタン、白金イリジウム、ニッケルなど、各種レアメタルを加工してきました",
+    "url": "https://www.takeishi.co.jp/product/precision-machinery/",
+    "pass": 1
+   },
+   {
+    "quote": "チタン t0.8薄肉加工",
+    "url": "https://www.takeishi.co.jp/product/precision-machinery/",
+    "pass": 1
+   },
+   {
+    "quote": "「性質を変えたいが、材質や形状の変更が許されない」「コストを抑えつつ、新たに高度な機能を持たせたい」そのようなご相談を多く頂きます",
+    "url": "https://www.takeishi.co.jp/product/coating/",
+    "pass": 1
+   },
+   {
+    "quote": "またセラミックと金属のロウ付け接合や焼き嵌め、メタライズなども可能です",
+    "url": "https://www.takeishi.co.jp/product/joining/",
+    "pass": 1
+   },
+   {
+    "quote": "他にもコイル自身にセラミックを溶射したりコーティングしたりするなど、あらゆる要望に細かく対応いたします",
+    "url": "https://www.takeishi.co.jp/product/joining/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂タングステンは、高比重金属であるタングステンの粉末と樹脂を複合化した材料です",
+    "url": "https://www.takeishi.co.jp/product-material/polymer-tungsten/",
+    "pass": 1
+   },
+   {
+    "quote": "タングステンの持つ高い比重や遮蔽性能と、樹脂の成型性・加工性を兼ね備えています",
+    "url": "https://www.takeishi.co.jp/product-material/polymer-tungsten/",
+    "pass": 1
+   },
+   {
+    "quote": "一方モリブデンはタングステンよりもやや柔らかい材質ですが、脆いため加工中のワレ・カケが発生したり、他の金属と比べるとやはり加工が難しい素材です",
+    "url": "https://www.takeishi.co.jp/technology/precision-machining/",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "数十万件に及ぶ、試作・開発経験と蓄積したデータ・ノウハウ",
+    "url": "https://www.takeishi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "タングステンやモリブデンなどの高融点金属の精密加工を中心に作られた製品は数十万点に上りますがほぼすべて、メイドインジャパンのオーダーメイド",
+    "url": "https://www.takeishi.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "しかし、さらに特殊な用途に向けて、少量で特殊機能をもった材料を開発したいというお客様のご要望はまだ多く、それに対応する為、少量生産に適した材料製造設備を用意し、原材料の調達から、条件出し、そして量産対応まで、新材料の開発をお手伝いしています",
+    "url": "https://www.takeishi.co.jp/product/sintered-product/",
+    "pass": 1
+   },
+   {
+    "quote": "1個の試作から量産対応まで短納期での対応を心がけ、実験・条件出しから、量産製造装置の設計まで、お客様のご要望に親身に対応いたします",
+    "url": "https://www.takeishi.co.jp/product/precision-machinery/",
+    "pass": 1
+   },
+   {
+    "quote": "量産には給材機を用いて自動化し、１個から数個の試作には手動にてスピーディーに対応",
+    "url": "https://www.takeishi.co.jp/technology/precision-machining/",
+    "pass": 1
+   },
+   {
+    "quote": "１個から数個の試作には手動にて対応しています",
+    "url": "https://www.takeishi.co.jp/technology/precision-machining/",
+    "pass": 1
+   },
+   {
+    "quote": "１個からの試作承っております",
+    "url": "https://www.takeishi.co.jp/technology/precision-machining/",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "分析機器、産業用ヒーター、医療機器",
+    "url": "https://www.takeishi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "Taチューブ進化版 <宇宙科学技術連合講演会11/10(火)～11/13(金)>",
+    "url": "https://www.takeishi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "第70回 宇宙科学技術連合講演会に展示出展します<11/10~11/13>",
+    "url": "https://www.takeishi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置部品、イオン注入機の電子銃・カソード、カテーテルガイドワイヤーなど、タングステン・モリブデンが活躍している分野毎にご紹介します",
+    "url": "https://www.takeishi.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置部品、イオン注入機の電子銃・カソード、カテーテルガイドワイヤーなど、タングステン・モリブデンが活躍している分野毎にご紹介します",
+    "url": "https://www.takeishi.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "こちらの研究は、第68回宇宙科学技術連合講演会にて「学生賞」を受賞されました",
+    "url": "https://www.takeishi.co.jp/blog/7039/",
+    "pass": 1
+   },
+   {
+    "quote": "MPDスラスタとは、電気と磁力を使って推進剤を噴射する宇宙エンジンです",
+    "url": "https://www.takeishi.co.jp/blog/7039/",
+    "pass": 1
+   },
+   {
+    "quote": "宇宙推進機の中でも大きな推力を生み出せる可能性があり、次世代技術として注目されています",
+    "url": "https://www.takeishi.co.jp/blog/7039/",
+    "pass": 1
+   },
+   {
+    "quote": "令和6年度宇宙輸送シンポジウム, 日本, 相模原, 2025年1月",
+    "url": "https://www.takeishi.co.jp/blog/7039/",
+    "pass": 1
+   },
+   {
+    "quote": "ファインセラミックスは、優れた耐摩耗性・耐熱性・絶縁性を持ち、電子部品や、半導体製造装置・自動車・航空宇宙など高温環境下で利用されています",
+    "url": "https://www.takeishi.co.jp/product/ceramic-processed-products/",
+    "pass": 1
+   },
+   {
+    "quote": "また、セラミックス製の部品は軽量でありながら強度があり、耐薬品性にも優れているため、医療機器などでも利用されています",
+    "url": "https://www.takeishi.co.jp/product/ceramic-processed-products/",
+    "pass": 1
+   },
+   {
+    "quote": "ヘッドランプC-6用自動車球用コイリングマシン開発終了",
+    "url": "https://www.takeishi.co.jp/outline/history/",
+    "pass": 1
+   },
+   {
+    "quote": "名古屋ものづくりワールド航空・宇宙開発展出展",
+    "url": "https://www.takeishi.co.jp/outline/history/",
+    "pass": 1
+   },
+   {
+    "quote": "現在では医療分野や半導体関連、宇宙ビジネスと活躍の幅を広げています",
+    "url": "https://www.takeishi.co.jp/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "ハロゲンランプ、白熱灯、クリプトンランプ、紫外線ランプ、蛍光灯、航空機用ランプ、空港施設用ランプなど、あらゆる照明の他、カテーテル、ガイドワイヤーなどの医療製品、Ｘ線検査装置・分析・センサ・真空管・電子銃など、幅広い分野に利用されているコイルです",
+    "url": "https://www.takeishi.co.jp/product/coil-filament/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミニウム合金は軽量で耐食性に優れた素材であり、自動車や航空機材料などに使用されています",
+    "url": "https://www.takeishi.co.jp/product-material/aluminumalloy/",
+    "pass": 1
+   },
+   {
+    "quote": "純タングステンに比べ加工性に優れ、高い比重（一般的に17～18.5g/cm3）を持つため、釣り具としてのルアーやダーツバレルなどのアミューズメント製品や、高い遮蔽性を活かした医療や原子力関連の部品など、さまざまな用途で使用されています",
+    "url": "https://www.takeishi.co.jp/product-material/heavy-alloy/",
+    "pass": 1
+   },
+   {
+    "quote": "タングステンやモリブデンは、高強度・高融点・耐食性が高いといった特徴を持つ金属で、高温環境での使用に適しており、耐熱性や強度が求められる航空宇宙や産業分野などで広く利用されています",
+    "url": "https://www.takeishi.co.jp/technology/precision-machining/",
+    "pass": 1
+   },
+   {
+    "quote": "タングステンやモリブデンなどの大型部品は、半導体製造装置やイオン注入装置などに使用されています",
+    "url": "https://www.takeishi.co.jp/technology/precision-machining/",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン・モリブデンの大型複合加工品は、衛星・航空・半導体・軍事・分析機器・イオン注入装置・高温熱処理炉の部品などの幅広い分野で活躍しています",
+    "url": "https://www.takeishi.co.jp/technology/precision-machining/",
+    "pass": 1
+   },
+   {
+    "quote": "タングステン・モリブデン・タンタルなどの精密加工ピン（針）は半導体製造装置やイオナイザーなどの製品で使用されています",
+    "url": "https://www.takeishi.co.jp/technology/precision-machining/",
+    "pass": 1
+   },
+   {
+    "quote": "展示用に製作した宇宙へ行ったライカ犬がモデルです",
+    "url": "https://www.takeishi.co.jp/product-item/product-item-6102/",
+    "pass": 1
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "“High-Entropy Ceramic Cathode for Strong Applied-Field MPD Thruster,” at the International Electric Propulsion Conference, London, UK, Sep, 2025",
+    "url": "https://www.takeishi.co.jp/blog/7039/",
+    "pass": 1
+   },
+   {
+    "quote": "ceramic-processed-products",
+    "url": "https://www.takeishi.co.jp/product/ceramic-processed-products/",
+    "pass": 1
+   },
+   {
+    "quote": "粉末成型用油圧プレス10t 導入",
+    "url": "https://www.takeishi.co.jp/outline/history/",
+    "pass": 1
+   },
+   {
+    "quote": "3DCAM（SolidCAM）導入",
+    "url": "https://www.takeishi.co.jp/outline/history/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂タングステンは、高比重金属であるタングステンの粉末と樹脂を複合化した材料です",
+    "url": "https://www.takeishi.co.jp/product-material/polymer-tungsten/",
+    "pass": 1
+   },
+   {
+    "quote": "３DCADCAMで設計からマシニング３D加工",
+    "url": "https://www.takeishi.co.jp/product-item/product-item-6102/",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "岳石電気株式会社 | タングステン精密部品、研究開発の岳石電気 — タングステン、モリブデン、白金、ニオブ、チタンなどの高融点金属やレアメタルを材料開発から大量生産まで行う岳石電気。フィラメントコイル、各種溶接、微細加工、精密加工、水素・真空高温熱処理、焼結などを1個から試作、量産対応いたします。",
+    "url": "https://www.takeishi.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "1個から試作加工、熱処理・開発受託｜岳石電気 — タングステン、モリブデン、白金、ニオブ、チタンなどの高融点金属やレアメタルを材料開発から大量生産まで行う岳石電気。フィラメントコイル、各種溶接、微細加工、精密加工、水素・真空高温熱処理、焼結などを1個から試作、量産対応いたします。",
+    "url": "https://www.takeishi.co.jp/labo/",
+    "pass": 3
+   },
+   {
+    "quote": "焼結製品 の製品一覧｜岳石電気｜イプロスものづくり — 岳石電気 の 焼結製品 の一覧情報。 タングステン・モリブデンなどのレアメタル難削材・高融点金属を、素材開発から組み立てまで 研究開発 少量試作 受託生産 岳石電気株式会社は、レアメタル、タングステンの専門集団です。「スピーディー＆フレキシブル」が当社の強みであり、親身に ...",
+    "url": "https://mono.ipros.com/company/detail/2056641/category/63671/",
+    "pass": 3
+   },
+   {
+    "quote": "”高機能部品”を 素材開発から組立まで「ワンストップ」提供 岳石電気 ... — Dec 24, 2024 · 岳石電気の”高機能部品”を 素材開発から組立まで「ワンストップ」提供の技術や価格情報などをご紹介。 「開発・加工・接合・熱処理」受託！ 1個から試作・量産も対応しますイプロスものづくりでは その他機械要素など製造業向けの情報を多数掲載。",
+    "url": "https://mono.ipros.com/product/detail/2001504693/",
+    "pass": 3
+   },
+   {
+    "quote": "技術・製品 - 岳石電気株式会社 神奈川県 秦野市 — 岳石電気 株式会社 電話番号： 0463-75-1682 FAX： 0463-75-4188 ホームページ 基本情報 設 備 技術・製品 動画 沿革・理念・品質規格 EMIDASBLOG 地図・拠点 技術・製品情報 (50) 新開発技術 (8)",
+    "url": "https://ja.nc-net.or.jp/company/79196/product/1/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要｜タングステン・レアメタル微細加工｜岳石電気 — タングステン、モリブデン、白金、ニオブ、チタンなどの高融点金属やレアメタルを材料開発から大量生産まで行う岳石電気。フィラメントコイル、各種溶接、微細加工、精密加工、水素・真空高温熱処理、焼結などを1個から試作、量産対応いたします。",
+    "url": "https://www.takeishi.co.jp/outline/",
+    "pass": 3
+   },
+   {
+    "quote": "岳石電気株式会社 - 会社概要 — 岳石電気株式会社の製品・技術・サービス タングステン・モリブデンなどの難加工材の加工全般を行っています。 自社設備によるコイル製造技術、熱処理では1700℃までの水素還元炉のほかに、ワーク温度で2500℃で処理可能な自社真空炉もあります。",
+    "url": "https://www.atengineer.com/pr/takeishi/company",
+    "pass": 3
+   },
+   {
+    "quote": "岳石電気株式会社 — 岳石電気株式会社 会社プロフィール 代 表 者 : 代表取締役社長 嶽石 康昭 所 在 地 : 本社工場 〒259-1306 神奈川県秦野市戸川32-1 第二工場 〒259-1306 神奈川県秦野市戸川125-1 T E L : 0463-75-1682 F A X : 0463-75-4188 設 立 : 1978年11月 資 本 金 : 2,000万円 従業員数 : 105名 事業内容 : タングステン・高融点レア ...",
+    "url": "https://sia-tokyo.gr.jp/common/wp-content/uploads/2018/06/a76cff24102c52fb17c9c075c0b0bc44.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "岳石電気株式会社の会社概要・製品情報 | Metoree岳石電気 | 企業情報 | イプロスものづくり岳石デライト－会社概要－ — 岳石電気株式会社は1978年に設立された神奈川県秦野市戸川32-1に本社が所在する会社です。レアメタル加工、コイリング加工、ハロゲンヒーター等を取り扱っています。岳石電気株式会社の基本情報や取り扱い製品などの情報を掲載中です 岳石電気の会社概要 タングステン・モリブデンなどのレアメタル難削材・高融点金属を、素材開発から組み立てまで 研究開発 少量試作 受託生産 岳石電気株式会社は、レアメタル、タングステンの専門集団です。 Dec 1, 2004 · レアメタル、タングステン、モリブデン、ルアー、電子部品の商社 岳石デライトのページです。",
+    "url": "https://metoree.com/companies/46648/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ｜岳石電気 — タングステン、モリブデン、白金、ニオブ、チタンなどの高融点金属やレアメタルを材料開発から大量生産まで行う岳石電気。フィラメントコイル、各種溶接、微細加工、精密加工、水素・真空高温熱処理、焼結などを1個から試作、量産対応いたします。",
+    "url": "https://www.takeishi.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "岳石電気株式会社 - お問い合わせ — 岳石電気株式会社 ＠engineerへのメンバー登録はお済みですか？ ＠engineerは、\"ものづくり\"に特化したポータル＆メンバー交流サイトです。 メンバー同士の意見交換や情報共有を可能にし、未来を担うソリューションサービスを提供しております。 ＠engineerにログインしておくと、あなた様のご ...",
+    "url": "https://www.atengineer.com/pr/takeishi/inquiry",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 岳石電気株式会社 神奈川県 秦野市 — 市区町村 (必須) その他住所 (必須) ログイン情報 メールアドレス (必須) パスワード (必須) パスワード (確認) (必須) パスワードは8文字以上32文字以内で入力し、英大文字・英小文字・数字をそれぞれ1つ以上含むものを入力してください。 _-#*も使用可能です。",
+    "url": "https://ja.nc-net.or.jp/company/79196/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "岳石電気株式会社 - 昨日の「内職さん募集」について、メールのお問い... — Feb 5, 2018 · 【先端t0.1mmSUSテーパーワイヤーの精密表面仕上げ 】 こんにちは 岳石電気です。 ㅤ 先日、浅草に用事があったので、周辺の神社へ商売繁 盛の祈願にお参りしてきましたが、月曜日と思えない ほどの人出で、浅草寺のにぎわいには驚かされました 。 ㅤ ㅤ 当社では常日頃から、 「お客様が ...",
+    "url": "https://www.facebook.com/takeishidenki/posts/昨日の内職さん募集についてメールのお問い合わせ先期間限定を追加しましたnaisyokutakeishicojpですお問い合わせの際はお名前とご連絡先携帯電話など/1460345887407108/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "お問い合わせは以下のフォームよりお願いいたします",
+    "url": "https://www.atengineer.com/pr/takeishi/inquiry",
+    "pass": 3
+   },
+   {
+    "quote": "※お問い合わせ以外の目的（営業、勧誘、斡旋等）の利用は固くお断りいたします",
+    "url": "https://www.atengineer.com/pr/takeishi/inquiry",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせの企業より各種ご案内のメールをお送りしてもよろしいですか？",
+    "url": "https://www.atengineer.com/pr/takeishi/inquiry",
+    "pass": 3
+   },
+   {
+    "quote": "＠engineerにログインしておくと、あなた様のご連絡先は自動的に表示され、お問い合わせ時に便利です",
+    "url": "https://www.atengineer.com/pr/takeishi/inquiry",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "鉄鋼新聞 / Japan Metal Daily on X: \"高融点金属加工の岳石電気／マ... タングステンやモリブデンなど高融点金属の加工事業を展開する岳石電気（本社・神奈川県秦野市、社長・嶽石康昭氏）は、4月中をめどにマシニングセンターを1基増設する。本社工場に加工の精度や速度に優れる...",
+    "url": "https://x.com/TEKKOSHIMBUN/status/2043449280724435336",
+    "pass": 3
+   },
+   {
+    "quote": "鉄鋼新聞 / Japan Metal Daily on X: \"高融点金属加工の岳石電気／マ... Apr 12, 2026 · タングステンやモリブデンなど高融点金属の加工事業を展開する岳石電気（本社・神奈川県秦野市、社長・嶽石康昭氏）は、4月中をめどにマシニングセンターを1基増設する。本社工場に加工の精度や速度に優れる...",
+    "url": "https://x.com/TEKKOSHIMBUN/status/2043449280724435336",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "合津 隼人 - 岳石電気（株） - 課長 | LinkedIn10+ \"岳石\" profiles | LinkedIn唐 小红 - 岳電気 - 社員 | LinkedIn石岳 - 总经理 | 领英 - 领英 (中国)蔡育瑾 - 日本岳石电器 - 海外销售 | 领英LinkedIn: Log In or Sign Up江勝岳 - 亞力電機Field Application Engineer | LinkedIn 岳石電気（株） - 課長 · 職歴: 岳石電気（株） · 場所: 堺。10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで合津 隼人さんのプロフィールを閲覧しましょう。 View the profiles of professionals named \"岳石\" on LinkedIn. There are 10+ professionals named \"",
+    "url": "https://jp.linkedin.com/in/隼人-合津-02028b201",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "岳石電気株式会社 | Hadano-shi Kanagawa - Facebook岳石電気株式会社 | Hadano-shi Kanagawa - Facebook岳石電気株式会社 - 【ブログ更新】 こんにちは 岳石電気です！... | ...岳石電気株式会社 - Facebook岳石電気株式会社 - 岳石電気ブログを更新しました。... | Facebook岳石電気営業 - Facebook岳石電気株式会社 - 【超精密研削！全長1㎜超硬プランジャ】 こんにち... Sep 3, 2026 · 岳石電気株式会社, Hadano-shi. 130 followers · 12 were here. タングステン・モリブデン・タンタルなどのレアメタル製品の研究開発・精密加工。岳石電気株式会社 岳石電気株式会社, Hadano-shi. 130 likes · 5 talking about",
+    "url": "https://www.facebook.com/takeishidenki/",
+    "pass": 3
+   },
+   {
+    "quote": "岳石電気株式会社 | Hadano-shi Kanagawa - Facebook 岳石電気株式会社, Hadano-shi. 130 likes · 5 talking about this · 12 were here. タングステン・モリブデン・タンタルなどのレアメタル製品の研究開発・精密加工。岳石電気株式会社",
+    "url": "https://www.facebook.com/takeishidenki/reels/",
+    "pass": 3
+   },
+   {
+    "quote": "岳石電気株式会社 - 【ブログ更新】 こんにちは 岳石電気です！... | ... Jul 21, 2023 · 【ブログ更新】 こんにちは 岳石電気です！ 今回のブログは、弊社の「設計」山下さんのお仕事紹介です。 1週間密着取材しました！ 「生産技術はどんな仕事？」 「社内の雰囲気は？」 ぶっちゃけインタビューなど、 赤裸々にご紹介しています。 【求人募集】 現在DODAにて一緒に働く人材を ...",
+    "url": "https://www.facebook.com/takeishidenki/posts/984136199682479/",
+    "pass": 3
+   },
+   {
+    "quote": "岳石電気株式会社 - Facebook 岳石電気株式会社, Hadano, Kanagawa. 115 likes · 12 were here. タングステン・モリブデン・タンタルなどのレアメタル製品の研究開発・精密加工。岳石電気株式会社",
+    "url": "https://www.facebook.com/takeishidenki/posts/1299708266804205/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.takeishi.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takeishi.co.jp/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takeishi.co.jp/blog/7039/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takeishi.co.jp/product/sintered-product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takeishi.co.jp/product/ceramic-processed-products/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takeishi.co.jp/product/precision-machinery/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takeishi.co.jp/product/surface-treatment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takeishi.co.jp/outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takeishi.co.jp/outline/history/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takeishi.co.jp/outline/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takeishi.co.jp/solution-case/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takeishi.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takeishi.co.jp/product/coating/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takeishi.co.jp/product/optical-element-parts/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takeishi.co.jp/product/coil-filament/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takeishi.co.jp/product/joining/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takeishi.co.jp/product/mesh/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takeishi.co.jp/product-material/%E6%B0%B4%E6%99%B6quartz/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takeishi.co.jp/product-material/%E7%9F%B3%E8%8B%B1%E3%82%AC%E3%83%A9%E3%82%B9/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takeishi.co.jp/product-material/polymer-tungsten/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takeishi.co.jp/product-material/thoriated-tungsten/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takeishi.co.jp/product-material/porous-tungsten/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takeishi.co.jp/product-material/rhenium-tungsten/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takeishi.co.jp/product-material/monel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takeishi.co.jp/product-material/aluminumalloy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takeishi.co.jp/product-material/heavy-alloy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takeishi.co.jp/product-item/product-item-3918/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takeishi.co.jp/technology/precision-machining/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takeishi.co.jp/product-item/product-item-5949/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.takeishi.co.jp/product-item/product-item-6102/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.takeishi.co.jp/sys_tdwcm/wp-content/uploads/2023/11/product_mv.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.takeishi.co.jp/sys_tdwcm/wp-content/uploads/2025/03/%E8%A3%BD%E5%93%81%E4%BA%8B%E4%BE%8B_%E5%8C%BB%E7%99%82%E5%88%86%E6%9E%90%E5%8D%8A%E5%B0%8E%E4%BD%93%E3%82%B3%E3%82%A4%E3%83%AB-1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.takeishi.co.jp/sys_tdwcm/wp-content/uploads/2025/03/%E8%A3%BD%E5%93%81%E4%BA%8B%E4%BE%8B_%E3%83%AC%E3%82%A2%E3%83%A1%E3%82%BF%E3%83%AB%E6%A9%9F%E6%A2%B0%E5%8A%A0%E5%B7%A5%E5%93%81-1.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.takeishi.co.jp/lib/product/material-list/01.gif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.takeishi.co.jp/lib/product/material-list/02.gif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.takeishi.co.jp/lib/product/material-list/03.gif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.takeishi.co.jp/lib/product/material-list/04.gif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.takeishi.co.jp/lib/product/material-list/05.gif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.takeishi.co.jp/lib/product/material-list/06.gif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.takeishi.co.jp/lib/product/material-list/07.gif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.takeishi.co.jp/lib/product/material-list/08.gif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.takeishi.co.jp/lib/product/material-list/09.gif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/company/detail/2056641/category/63671/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atengineer.com/pr/takeishi/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.atengineer.com/pr/takeishi/inquiry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/TEKKOSHIMBUN/status/2043449280724435336",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/隼人-合津-02028b201",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/takeishidenki/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/takeishidenki/reels/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/takeishidenki/posts/984136199682479/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/takeishidenki/posts/1299708266804205/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/TEKKOSHIMBUN/status/2043449280724435336",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "岳石電気 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.takeishi.co.jp/",
+    "https://www.takeishi.co.jp/labo/",
+    "https://mono.ipros.com/company/detail/2056641/category/63671/",
+    "https://mono.ipros.com/product/detail/2001504693/",
+    "https://ja.nc-net.or.jp/company/79196/product/1/",
+    "https://denken-ec.com/trial/",
+    "https://ja.nc-net.or.jp/company/79196/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "岳石電気 会社概要 事業内容",
+   "results": [
+    "https://www.takeishi.co.jp/outline/",
+    "https://www.takeishi.co.jp/",
+    "https://www.atengineer.com/pr/takeishi/company",
+    "https://sia-tokyo.gr.jp/common/wp-content/uploads/2018/06/a76cff24102c52fb17c9c075c0b0bc44.pdf",
+    "https://metoree.com/companies/46648/",
+    "https://mono.ipros.com/company/detail/2056641/",
+    "http://www.t-delight.co.jp/organization.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "岳石電気 お問い合わせ メール",
+   "results": [
+    "https://www.takeishi.co.jp/contact/",
+    "https://www.takeishi.co.jp/",
+    "https://www.atengineer.com/pr/takeishi/inquiry",
+    "https://ja.nc-net.or.jp/company/79196/inquiry/input/",
+    "https://www.facebook.com/takeishidenki/posts/昨日の内職さん募集についてメールのお問い合わせ先期間限定を追加しましたnaisyokutakeishicojpですお問い合わせの際はお名前とご連絡先携帯電話など/1460345887407108/",
+    "https://www.ya-man.co.jp/form/",
+    "https://www.yazaki-group.com/densen/inquiry/index.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 岳石電気",
+   "results": [
+    "https://note.com/ie_nekozou/n/ncf94d61f9cee",
+    "https://note.com/hydezero/n/n638ef0cf74ab",
+    "https://tales.note.com/note_ng",
+    "https://tales.note.com/apt_poppy7246/wks7m1s1vdmyv/episodes/e3scvx2xfzxfe",
+    "https://note.com/raindrop_/n/n2e54ffdf62cb",
+    "https://note.com/atom_/n/n3832751031de",
+    "https://note.com/prime_lupine5859/n/n976b9133ac65"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 岳石電気",
+   "results": [
+    "https://x.com/TEKKOSHIMBUN/status/2043449280724435336",
+    "https://x.com/Takeshi319",
+    "https://x.com/Denki_ishi",
+    "https://x.com/north_wind_rb/status/2120153878650114189",
+    "https://x.com/tourmaline_24_",
+    "https://x.com/Takeshi319/status/1108369123883380736",
+    "https://x.com/AwatakeTakahiro/status/2110257999524900974"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 岳石電気",
+   "results": [
+    "https://jp.linkedin.com/in/隼人-合津-02028b201",
+    "https://www.linkedin.com/pub/dir/石/岳",
+    "https://jp.linkedin.com/in/小红-唐-43ab9a11a",
+    "https://cn.linkedin.com/in/岳-石-697229154",
+    "https://cn.linkedin.com/in/育瑾-蔡-378974158",
+    "https://tw.linkedin.com/in/勝岳-江-94498b268",
+    "https://gb.linkedin.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 岳石電気",
+   "results": [
+    "https://www.facebook.com/takeishidenki/",
+    "https://www.facebook.com/takeishidenki/reels/",
+    "https://www.facebook.com/takeishidenki/posts/984136199682479/",
+    "https://www.facebook.com/takeishidenki/posts/1299708266804205/",
+    "https://www.facebook.com/takeishidenki/posts/1970979289677096/",
+    "https://www.facebook.com/profile.php/?id=100029063783945",
+    "https://www.facebook.com/takeishidenki/posts/超精密研削全長1超硬プランジャこんにちは-岳石電気ですㅤ今年も残すところあと約70日本当に１年があっという間ですねㅤ当社は今年は11月末から展示会へ2回出展予定/1539007120862048/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "岳石電気 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://www.takeishi.co.jp/recruit/president/",
+    "https://www.takeishi.co.jp/blog/presidentcolum/",
+    "https://compalyze.co.jp/company/9021001022659",
+    "https://sia-tokyo.gr.jp/common/wp-content/uploads/2018/06/a76cff24102c52fb17c9c075c0b0bc44.pdf",
+    "https://www.nikkan.co.jp/articles/view/166273",
+    "http://www.t-delight.co.jp/organization.html"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "岳石電気 X 投稿",
+   "results": [
+    "https://www.takeishi.co.jp/",
+    "https://www.takeishi.co.jp/blog/",
+    "https://x.com/TEKKOSHIMBUN/status/2043449280724435336",
+    "https://www.tenjikai.biz/96871",
+    "https://www.facebook.com/takeishidenki/posts/皆様こんにちは岳石電気営業の朴です今回皆様にぜひ紹介したい面白い技術がありまして会社のブログに投稿しましたご興味ある方は是非ご覧くださいhttpswwwtake/3851064118335261/",
+    "https://www.facebook.com/takeishidenki/",
+    "https://x.com/yakeishimizuppa/status/2120186937688600867"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式30頁／PDF・画像12件／外部10頁・検索9回）",
+  "代表者": "記載なし（3回確認済み：公式30頁／PDF・画像12件／外部10頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式30頁／PDF・画像12件／外部10頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式30頁／PDF・画像12件／外部10頁・検索9回）"
+ }
+}

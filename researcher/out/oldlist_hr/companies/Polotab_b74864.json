@@ -1,0 +1,798 @@
+{
+ "name": "Polotab",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-11T11:11:49.216566+00:00",
+ "official_url": "https://polotab.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Instala en 15 minutos. Aprende a usarlo en menos.",
+    "url": "https://www.polotab.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PoloTab nos salvó la vida desde el día uno. No solo nos permite manejar un alto volumen de clientes con facilidad sino también nos provee con las analíticas necesarias para seguir creciendo nuestro proyecto.",
+    "url": "https://www.polotab.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Nos encanta lo fácil y flexible que es el sistema, pero lo que más valoramos es el acompañamiento constante. Siempre están ahí cuando los necesitamos.",
+    "url": "https://www.polotab.com/",
+    "pass": 1
+   },
+   {
+    "quote": "El equipo de PoloTab siempre te resuelve con calidad humana y tecnología de vanguardia.",
+    "url": "https://www.polotab.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PoloTab transformó exitosamente lo que representaba un desafío logístico en un elemento fundamental para nuestro desarrollo empresarial, brindándonos un acompañamiento constante y un servicio impecable.",
+    "url": "https://www.polotab.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Además de ser fácil de operar, la curva de aprendizaje es muy rápida. Nos encanta que de manera muy frecuente hay actualizaciones para hacer más fácil nuestro trabajo.",
+    "url": "https://www.polotab.com/",
+    "pass": 1
+   },
+   {
+    "quote": "¿De dónde es la empresa?",
+    "url": "https://www.polotab.com/",
+    "pass": 1
+   },
+   {
+    "quote": "¿Con qué impresoras funciona el hardware de PoloTab?",
+    "url": "https://www.polotab.com/",
+    "pass": 1
+   },
+   {
+    "quote": "hasta que nos prueban",
+    "url": "https://www.polotab.com/",
+    "pass": 1
+   },
+   {
+    "quote": "to test your app and request a production pilot or public release.",
+    "url": "https://developer.polotab.com/docs",
+    "pass": 3
+   },
+   {
+    "quote": "\"Content-Type: application/json\"",
+    "url": "https://developer.polotab.com/docs",
+    "pass": 3
+   },
+   {
+    "quote": "For AI assistants and generated clients, prefer the documented",
+    "url": "https://developer.polotab.com/docs",
+    "pass": 3
+   },
+   {
+    "quote": "This endpoint provides a way to generate a new restaurant's bearer token using the app's API key. In order to generate a restaurant's bearer token, the restaurant must first install your app. Once installed, you will be notified via webhook so you can obtain the bearer token using the endpoint below.",
+    "url": "https://developer.polotab.com/docs",
+    "pass": 3
+   },
+   {
+    "quote": "||||||||||||||!?TFPRBBBBBBBBBBBBBBB8m=,",
+    "url": "https://developer.polotab.com/docs",
+    "pass": 3
+   },
+   {
+    "quote": "|||| '\"\"^^!!||||||||||TFPRBBBVT!:...!",
+    "url": "https://developer.polotab.com/docs",
+    "pass": 3
+   },
+   {
+    "quote": "::!?TFPRBBBBBB86foi!||||||||!!bBBBBBBBBBBBBBBY..!",
+    "url": "https://developer.polotab.com/docs",
+    "pass": 3
+   },
+   {
+    "quote": ":::::::::!?TFPRBBBBBB86ftiaabBBBBBBBBBBBBBBY....!",
+    "url": "https://developer.polotab.com/docs",
+    "pass": 3
+   },
+   {
+    "quote": ":::;`\"^!:;::::::!?TFPRBBBBBBBBBBBBBBBBBBBY......!",
+    "url": "https://developer.polotab.com/docs",
+    "pass": 3
+   },
+   {
+    "quote": ";::::::...''^::::::::::!?TFPRBBBBBBBBBBY........!",
+    "url": "https://developer.polotab.com/docs",
+    "pass": 3
+   },
+   {
+    "quote": ".ob86foi;::::::::::::::::::::::::!?TFPRBY..........`",
+    "url": "https://developer.polotab.com/docs",
+    "pass": 3
+   },
+   {
+    "quote": "\"Content-Type\": \"application/json\"",
+    "url": "https://developer.polotab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "PoloTab sells point-of-sale software for cafés and restaurants in Mexico. The product includes offline operation, multi-branch management, delivery app integration, and invoicing features. The company reports 700 plus cafés and restaurants, 22.8 million annual orders, and coverage across 70 plus Mexican cities.",
+    "url": "https://www.extruct.ai/hub/polotab-com/",
+    "pass": 3
+   },
+   {
+    "quote": "Product Features & Capabilities",
+    "url": "https://www.extruct.ai/hub/polotab-com/",
+    "pass": 3
+   },
+   {
+    "quote": "Pricing starts at $990 per month + IVA.",
+    "url": "https://www.extruct.ai/hub/polotab-com/",
+    "pass": 3
+   },
+   {
+    "quote": "The cost is approximately $38 per day.",
+    "url": "https://www.extruct.ai/hub/polotab-com/",
+    "pass": 3
+   },
+   {
+    "quote": "PoloTab primarily focuses on the restaurant and cafe industry, providing point-of-sale systems and management software tailored to optimize operations and enhance customer service.",
+    "url": "https://www.extruct.ai/hub/polotab-com/",
+    "pass": 3
+   },
+   {
+    "quote": ": Known for its comprehensive features tailored for restaurants, Toast offers robust management tools, including online ordering and delivery integration. Its cloud-based system is particularly advantageous for multi-location operations.",
+    "url": "https://www.extruct.ai/hub/polotab-com/",
+    "pass": 3
+   },
+   {
+    "quote": ": This system is favored for its user-friendly interface and affordability, making it ideal for small to medium-sized establishments. Square provides integrated payment processing and inventory management, which can be a significant advantage for budget-conscious businesses.",
+    "url": "https://www.extruct.ai/hub/polotab-com/",
+    "pass": 3
+   },
+   {
+    "quote": "These competitors differ from PoloTab in terms of specific features, pricing structures, and target market segments, providing various advantages that may appeal to different types of restaurant and cafe operators.",
+    "url": "https://www.extruct.ai/hub/polotab-com/",
+    "pass": 3
+   },
+   {
+    "quote": "Suggest edits to this profile",
+    "url": "https://www.extruct.ai/hub/polotab-com/",
+    "pass": 3
+   },
+   {
+    "quote": "Marketing and social media tools",
+    "url": "https://getlatka.com/companies/polotab.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/polotab.com",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "El equipo de PoloTab siempre te resuelve con calidad humana y tecnología de vanguardia.",
+    "url": "https://www.polotab.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PoloTab transformó exitosamente lo que representaba un desafío logístico en un elemento fundamental para nuestro desarrollo empresarial, brindándonos un acompañamiento constante y un servicio impecable.",
+    "url": "https://www.polotab.com/",
+    "pass": 1
+   },
+   {
+    "quote": "¿Cuánto tiempo toma en que me llegue el equipo a la dirección solicitada?",
+    "url": "https://www.polotab.com/",
+    "pass": 1
+   },
+   {
+    "quote": "¿Cuánto tiempo toma capacitar a mi equipo para usar PoloTab?",
+    "url": "https://www.polotab.com/",
+    "pass": 1
+   },
+   {
+    "quote": "¿Qué tipo de soporte técnico ofrece PoloTab y en qué horarios está disponible?",
+    "url": "https://www.polotab.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Employees, attendance and cash registers",
+    "url": "https://developer.polotab.com/console",
+    "pass": 3
+   },
+   {
+    "quote": "Employees, attendance and cash registers",
+    "url": "https://developer.polotab.com/docs",
+    "pass": 3
+   },
+   {
+    "quote": ": Manage employees and clock-in/out events",
+    "url": "https://developer.polotab.com/docs",
+    "pass": 3
+   },
+   {
+    "quote": "PoloTab Funding | $0 Revenue | Complete Analysis | Extruct AI",
+    "url": "https://www.extruct.ai/hub/polotab-com/",
+    "pass": 3
+   },
+   {
+    "quote": "Polo Revenue 2024: $1M Est.",
+    "url": "https://getlatka.com/companies/polotab.com",
+    "pass": 3
+   },
+   {
+    "quote": "Polo has not published its revenue. GetLatka estimates it at about $1M a year (June 2024).",
+    "url": "https://getlatka.com/companies/polotab.com",
+    "pass": 3
+   },
+   {
+    "quote": "Polo CEO, founders & employees",
+    "url": "https://getlatka.com/companies/polotab.com",
+    "pass": 3
+   },
+   {
+    "quote": "Andres Richardson founded Polo in 2022 and runs it as CEO. Polo had 5 employees (June 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/polotab.com",
+    "pass": 3
+   },
+   {
+    "quote": "What is Polo's revenue?",
+    "url": "https://getlatka.com/companies/polotab.com",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates Polo's revenue at about",
+    "url": "https://getlatka.com/companies/polotab.com",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does Polo have?",
+    "url": "https://getlatka.com/companies/polotab.com",
+    "pass": 3
+   },
+   {
+    "quote": "employees in June 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/polotab.com",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/polotab.com",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/polotab.com",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/polotab.com",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "PoloTab Developers — Build integrations with PoloTab. Explore the API documentation and manage your apps, API keys, and webhooks.",
+    "url": "https://developer.polotab.com/console",
+    "pass": 3
+   },
+   {
+    "quote": "【2026年版】ペンタブのおすすめ18選。初心者からプロまで使いやすい...グローバルでも存在感を高める｢Ploom｣は､加熱式たばこ市場をどう変...PoloTab | API DocumentationP-CAB国内5社競争激化 テウォン参入とタケダ保険適用ゲーム日本語化ツール「PCOT」次のアプデで開発終了へ。AIの進化で“セ... — ワコム(Wacom) Wacom Intuos Medium ベーシック CTL-6100/K0 楽天レビューを見る 初心者・中級者向けのペンタブです。サイズは264×200×8.8mm、重さは390gとコンパクトかつ軽量なので、携帯性を重視する方におすすめ。読み取り可能範囲は216×135mmです。薄型ながら、耐久性にも優れています。 筆圧感知レベルは4096レベルと標準的。付属のスタイラスペンは、電磁誘導方式(EMR)を採用することで電源を必要と",
+    "url": "https://sakidori.co/article/88005",
+    "pass": 3
+   },
+   {
+    "quote": "PoloTab | API Documentation — PoloTab is a powerful restaurant management platform designed for all kinds of food and beverage establishments ranging from single location coffee shops to multi-location and multi-brand chains. Our API enables management of restaurant operations, from table sessions to menu management.",
+    "url": "https://developer.polotab.com/docs",
+    "pass": 3
+   },
+   {
+    "quote": "PoloTab | Punto de Venta para Cafeterías y Restaurantes — Software y punto de venta para cafeterías y restaurantes en México. Comandas rápidas, inventarios precisos y operación incluso sin internet.",
+    "url": "https://www.polotab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "PoloTab — Portal administrativo de PoloTab. Gestiona tu restaurante desde donde quiera que estés.",
+    "url": "https://admin.polotab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "PoloTab Developers — Build integrations with PoloTab. Explore the API documentation and manage your apps, API keys, and webhooks.",
+    "url": "https://developer.polotab.com/",
+    "pass": 3
+   },
+   {
+    "quote": "PoloTab (YC W23) - LinkedIn — PoloTab is a tech and data company building the Point-of-Sale and Management Software for the most demanding, fast-growing Coffee Shops and Restaurants in Mexico.",
+    "url": "https://www.linkedin.com/company/polotab",
+    "pass": 3
+   },
+   {
+    "quote": "PoloTab: Restaurant software that actually works | Y Combinator — Restaurant software that actually works. Founded in 2022 by Juan Chomali, Aldo Piaggio, and Andres Richardson, PoloTab has 18 employees based in Mexico City, CDMX, Mexico. PoloTab is hiring for 2 roles in design and sales.",
+    "url": "https://www.ycombinator.com/companies/polotab",
+    "pass": 3
+   },
+   {
+    "quote": "PoloTab Software Pricing, Alternatives & More 2026 | Capterra — Oct 19, 2026 · PoloTab operates on proprietary hardware that functions even without internet connection, ensuring uninterrupted service during outages. The software includes specialized modules for kitchen operations, customer management, and financial tracking to streamline restaurant operations.",
+    "url": "https://www.capterra.com/p/10031901/PoloTab/",
+    "pass": 3
+   },
+   {
+    "quote": "PoloTab Funding | $0 Revenue | Complete Analysis | Extruct AI — Explore PoloTab complete analysis: product features, pricing model, market positioning, and business strategy.",
+    "url": "https://www.extruct.ai/hub/polotab-com/",
+    "pass": 3
+   },
+   {
+    "quote": "PoloTab - Crunchbase Company Profile & FundingPolo Revenue 2024: $1M Est. - getlatka.comPoloTab (YC W23) — investors & funding | gritt.ioPoloTab company information, funding & investors | Dealroom.coPoloTab — Funding, Investors & Team | Seedtable — PoloTab is a software company that develops POS and management solutions for LatAm restaurants and Coffee Shops. Oct 30, 2026 · Polo 2024 estimated rev",
+    "url": "https://www.crunchbase.com/organization/polopay",
+    "pass": 3
+   },
+   {
+    "quote": "PoloTab (YC W23) — investors & funding | gritt.io — PoloTab (YC W23) has 1 investors on Gritt. PoloTab is a tech and data compa… Find investors for similar startups and automate your fundraising with Gritt.",
+    "url": "https://www.gritt.io/company/polotab/",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "These competitors differ from PoloTab in terms of specific features, pricing structures, and target market segments, providing various advantages that may appeal to different types of restaurant and cafe operators.",
+    "url": "https://www.extruct.ai/hub/polotab-com/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "PoloTab (YC W23) - LinkedIn PoloTab (YC W23) | 2,909 followers on LinkedIn. Software built for the best Coffee Shops and Restaurants in Mexico. | PoloTab is a tech and data company building the Point-of-Sale and Management ...",
+    "url": "https://www.linkedin.com/company/polotab",
+    "pass": 3
+   },
+   {
+    "quote": "Aldo Piaggio - PoloTab (YC W23) | LinkedInAbigail C. - PoloTab (YC W23) | LinkedInPoloTab (YC W23) hiring Onboarding Specialist in Mexico City ...#polotab #restaurantes #cafeterías #hechoenméxico | Aldo PiaggioDesde que fundamos PoloTab (YC W23), he sido quien ha ...Andres Richardson - Polo (YC W23) | LinkedIn Experiencia: PoloTab (YC W23) · Educación: Y Combinator · Ubicación: Ciudad de México · ",
+    "url": "https://mx.linkedin.com/in/aldopiaggio",
+    "pass": 3
+   },
+   {
+    "quote": "Abigail C. - PoloTab (YC W23) | LinkedIn Experiencia: PoloTab (YC W23) · Educación: Tecnológico de Monterrey · Ubicación: Cuajimalpa de Morelos · Más de 500 contactos en LinkedIn. Ver el perfil de Abigail C. en LinkedIn, una red profesional de más de 1.000 millones de miembros.",
+    "url": "https://mx.linkedin.com/in/abigail-contreras-sanchez",
+    "pass": 3
+   },
+   {
+    "quote": "PoloTab (YC W23) hiring Onboarding Specialist in Mexico City ... 🚀 ¡Estamos contratando! | Onboarding Specialist — PoloTab En PoloTab diseñamos y desarrollamos software para simplificar la operación, administración y pagos de las mejores cafeterías y ...",
+    "url": "https://www.linkedin.com/jobs/view/4377448395/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "PoloTab | Mexico City - Facebook Oct 19, 2026 · PoloTab, Mexico City. 1,130 followers · 129 talking about this. Software para cafés y restaurantes en todo México.",
+    "url": "https://www.facebook.com/p/PoloTab-61550478084269/",
+    "pass": 3
+   },
+   {
+    "quote": "PoloTab - ¿Tu Cafetería es la más Pro de México? Impulsa ... Mar 14, 2025 · ¿Tu Cafetería es la más Pro de México? Impulsa tu negocio con PoloTab, el POS Premium que te ofrece servicio ultra veloz sin sacrificar calidad. Si tu antiguo sistema te ha costado más de lo que...",
+    "url": "https://www.facebook.com/permalink.php/?story_fbid=122234642024015936&id=61550478084269",
+    "pass": 3
+   },
+   {
+    "quote": "PoloTab te permite: ☕️ Comandar e ingresar inventario con ... Nov 5, 2025 · PoloTab te permite: ☕️ Comandar e ingresar inventario con nuestro POS ☕️ Cobrar y registrar comandas con el comandero ☕️ Envíar ordenes a cocina con nuestro KDS ☕️ Conectar tus apps de delivery...",
+    "url": "https://www.facebook.com/61550478084269/videos/1346173296959940/",
+    "pass": 3
+   },
+   {
+    "quote": "Listo para abrir tu cafetería? PoloTab te permite: ☕️ ... Oct 8, 2025 · Listo para abrir tu cafetería? PoloTab te permite: ☕️ Automatizar tu manejo de inventarios ☕️ Conectar tus apps de delivery ☕️ Facturar en segundos Agenda tu demo hoy!",
+    "url": "https://www.facebook.com/61550478084269/videos/1294149071986233/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "@polotab_ | X The latest posts from @polotab_",
+    "url": "https://x.com/polotab_",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.polotab.com/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.polotab.com/poloLogos/poloLogoBlue.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.polotab.com/marqueeImgLogos/@exploradoresdecafe.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.polotab.com/marqueeImgLogos/@tormenta.cafe.avif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.polotab.com/marqueeImgLogos/@myka_greek.mx.avif",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://developer.polotab.com/console",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://sakidori.co/article/88005",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://developer.polotab.com/docs",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.polotab.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://admin.polotab.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://eikaiwa.dmm.com/uknow/questions/65573/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.unival.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.dell.com/ja-jp/blog/837894/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://developer.polotab.com/docs",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://admin.polotab.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://developer.polotab.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.linkedin.com/company/polotab",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.planview.com/our-customers/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.palantir.com/docs/foundry/use-case-examples/optimizing-production-with-erp-data-across-the-supply-chain",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partners.adobe.com/s/directory/channel?lang=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://indexed.vc/companies/polotab",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.extruct.ai/hub/polotab-com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.crunchbase.com/organization/polopay",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/polotab.com",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/polotab",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mx.linkedin.com/in/aldopiaggio",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://mx.linkedin.com/in/abigail-contreras-sanchez",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/jobs/view/4377448395/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/PoloTab-61550478084269/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/permalink.php/?story_fbid=122234642024015936&id=61550478084269",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61550478084269/videos/1346173296959940/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/61550478084269/videos/1294149071986233/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/polotab_",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Polotab 日本 導入",
+   "results": [
+    "https://developer.polotab.com/console",
+    "https://sakidori.co/article/88005",
+    "https://developer.polotab.com/docs",
+    "https://www.polotab.com/",
+    "https://president.jp/articles/-/99452",
+    "https://biz.chosun.com/jp/jp-science/2026/11/05/CIOQFTXBFFFF7OTUKMYEBEO6GU/",
+    "https://automaton-media.com/articles/newsjp/20261110-478520/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Polotab 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://admin.polotab.com/",
+    "https://eikaiwa.dmm.com/uknow/questions/65573/",
+    "https://www.unival.jp/",
+    "https://www.dell.com/ja-jp/blog/837894/",
+    "https://www.jetro.go.jp/invest/setting_up/section1/page1.html",
+    "https://shop.pall.com/jp/ja/",
+    "https://ja.nozominetworks.com/company"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Polotab Japan",
+   "results": [
+    "https://developer.polotab.com/docs",
+    "https://admin.polotab.com/",
+    "https://developer.polotab.com/",
+    "https://www.linkedin.com/company/polotab",
+    "https://www.ycombinator.com/companies/polotab",
+    "https://getaiform.com/ja/scores/polotab.com",
+    "https://www.polotab.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Polotab manufacturing customer case study",
+   "results": [
+    "https://www.planview.com/our-customers/",
+    "https://www.casestudies.com/",
+    "https://digitaldefynd.com/IQ/manufacturing-case-studies/",
+    "https://www.palantir.com/docs/foundry/use-case-examples/optimizing-production-with-erp-data-across-the-supply-chain",
+    "https://www.capterra.com/p/10031901/PoloTab/",
+    "https://www.roundfunded.com/en/yc-startup/polotab",
+    "https://www.polotab.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Polotab white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://upcloud.com/partner-program/",
+    "https://www.thenationalcouncil.org/get-involved/partner-with-us/partnership-program/",
+    "https://partners.spectrum.com/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Polotab founded funding employees revenue",
+   "results": [
+    "https://indexed.vc/companies/polotab",
+    "https://www.extruct.ai/hub/polotab-com/",
+    "https://www.crunchbase.com/organization/polopay",
+    "https://getlatka.com/companies/polotab.com",
+    "https://www.gritt.io/company/polotab/",
+    "https://app.dealroom.co/companies/polotab",
+    "https://seedtable.com/companies/polotab"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Polotab",
+   "results": [
+    "https://note.com/tag/未来人の忘れ物",
+    "https://note.com/tag/生徒会",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/hatanohiroshi/n/n3b0d7facfe34",
+    "https://note.com/tomo4006685/n/na7a9d7c20219",
+    "https://note.com/46kyouko/n/n429c31a15ead",
+    "https://note.com/hana_mementomori/n/ndb4fb4a91a32?hl=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Polotab",
+   "results": [
+    "https://x.com/",
+    "https://about.x.com/en",
+    "https://blog.x.com/en/product/introducing-a-new-twitter-dot-com",
+    "https://help.x.com/en/using-x/download-the-x-app",
+    "https://x.com/pocopin9/status/2111653496592474257",
+    "https://x.com/MarioBojic/status/2116230491439342066",
+    "https://x.com/Shindoaresp2"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Polotab",
+   "results": [
+    "https://www.linkedin.com/company/polotab",
+    "https://mx.linkedin.com/in/aldopiaggio",
+    "https://mx.linkedin.com/in/abigail-contreras-sanchez",
+    "https://www.linkedin.com/jobs/view/4377448395/",
+    "https://es.linkedin.com/posts/aldopiaggio_polotab-restaurantes-cafeterías-activity-7521598475239731200-9axn",
+    "https://es.linkedin.com/posts/aldopiaggio_desde-que-fundamos-polotab-yc-w23-he-sido-activity-7462968095926571008-I_01",
+    "https://mx.linkedin.com/in/andres-richardsonm"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Polotab",
+   "results": [
+    "https://www.facebook.com/p/PoloTab-61550478084269/",
+    "https://www.facebook.com/permalink.php/?story_fbid=122234642024015936&id=61550478084269",
+    "https://www.facebook.com/61550478084269/videos/1346173296959940/",
+    "https://www.facebook.com/61550478084269/videos/1294149071986233/",
+    "https://www.facebook.com/61550478084269/posts/imposible-comerse-este-taco-sin-hacer-escándalo-ellos-ponen-el-sabor-polotab-la-/122334378656015936/",
+    "https://www.facebook.com/61550478084269/posts/crecer-también-es-tener-el-control-de-cada-detalle-️antonio-de-exploradores-de-c/122332092266015936/",
+    "https://www.facebook.com/story.php/?story_fbid=122248974920015936&id=61550478084269"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Polotab note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://ja.wikipedia.org/wiki/藤原岳史",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.com/sadaaki",
+    "https://kitaishihon.com/company/5243/board-of-director"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Polotab X 投稿",
+   "results": [
+    "https://x.com/polotab_",
+    "https://developer.polotab.com/console",
+    "https://admin.polotab.com/",
+    "https://developer.polotab.com/docs",
+    "https://www.instagram.com/polotab_/",
+    "https://www.polotab.com/",
+    "https://x.com/tabunArobaretto/status/2119397752606224390"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部33頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部33頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部33頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部33頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部33頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部33頁・検索12回）",
+  "連絡先": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部33頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部33頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像4件／外部33頁・検索12回）"
+ }
+}

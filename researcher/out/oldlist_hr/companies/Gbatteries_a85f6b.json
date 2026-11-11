@@ -1,0 +1,775 @@
+{
+ "name": "Gbatteries",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Technology / B2B Infrastructure｜AI送信済み",
+ "researched_at": "2026-11-11T11:27:06.473217+00:00",
+ "official_url": "https://www.gbatteries.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Peak performance with uncompromising safety is achieved by integrating smart adaptive battery management with each Li-metal battery cell.",
+    "url": "https://www.gbatteries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Preventing Dendrite Formation",
+    "url": "https://www.gbatteries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Our intelligent battery management system ensures reliable performance and predictable battery health for Li-metal batteries by actively reducing irreversible internal damage.",
+    "url": "https://www.gbatteries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Conventional charging leads to formation of dendrites, which can grow from one electrode to another, causing rapid degradation or catastrophic failure.",
+    "url": "https://www.gbatteries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Accelerate the world's progress toward the mass adoption of e-mobility.",
+    "url": "https://www.gbatteries.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Founded in 2014, GBatteries is creating safe next-generation energy storage products.",
+    "url": "https://www.gbatteries.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Operating at the intersection of artificial intelligence, electrochemistry, and signal processing, GBatteries is building the future of intelligent,",
+    "url": "https://www.gbatteries.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Developing best in class intelligent battery management system, drastically improving Li-ion battery performance",
+    "url": "https://www.gbatteries.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "GBatteries developed and demonstrated intelligent battery management technology enabling off-the-shelf Li-ion batteries to up to 10x faster without compromising cycle life.",
+    "url": "https://www.gbatteries.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Same batteries, same product, GBatteries charge protocol.",
+    "url": "https://www.gbatteries.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Watch full video (<2min )",
+    "url": "https://www.gbatteries.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Watch full video (<3min )",
+    "url": "https://www.gbatteries.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "2022-Present",
+    "url": "https://www.gbatteries.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "The optimal mix of performance: high energy density, long life, low production cost, and ultimate safety.",
+    "url": "https://www.gbatteries.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time and predictive safety analysis within battery",
+    "url": "https://www.gbatteries.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Utilizing conventional Li-ion materials and processes",
+    "url": "https://www.gbatteries.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Our intelligent Li-metal batteries provide superior performance and value, enabling many improvements over conventional Li-ion battery technology.",
+    "url": "https://www.gbatteries.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "faster charge capability than Li-ion, providing the ability to charge in 15 min rather than 1+ hours.",
+    "url": "https://www.gbatteries.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "cycles, providing long enough battery life to last ~200,000 miles, enabling sustainable transporation for a lifetime.",
+    "url": "https://www.gbatteries.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Our goal is to improve battery performance to build a sustainable future.",
+    "url": "https://www.gbatteries.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "“As a Full Stack Developer at GBatteries, not only did I get to work on a real project, but I was responsible for multiple different projects, which allowed me to gain exposure into different technical stacks. I loved that one week I might be working with Flask and the next week I might be working with UART integration.”",
+    "url": "https://www.gbatteries.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We provide a minimum of two weeks of paid time off. We strongly encourage our team to at least take two weeks off each year, the rest is up to you.",
+    "url": "https://www.gbatteries.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "A happy and health team is our priority. We encourage taking time off when you’re not feeling your best.",
+    "url": "https://www.gbatteries.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Every year we get together to celebrate our achievements and get some down time as a team in a relaxing setting. Pre COVID-19 our last outing was at a retreat at Mont Tremblant.",
+    "url": "https://www.gbatteries.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We invest into today's problems by building tomorrow's leaders",
+    "url": "https://www.gbatteries.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We provide year round internships to give today's students an opportunity to work autonomously and own a main project, while receiving mentorship and support from experts.",
+    "url": "https://www.gbatteries.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Some internships can give you unfulfilling tasks to fill your time. We give all of our interns an independent project that will be deployed and used by real customers.",
+    "url": "https://www.gbatteries.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We care a lot about who we hire",
+    "url": "https://www.gbatteries.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "As a reflection of this, we have a multi-step recruitment process that keeps the process streamlined and effective for both sides. It’s an important decision for everyone, so we want to make sure that as we get to know you, you also have plenty of opportunity to get to know us and the role.",
+    "url": "https://www.gbatteries.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "If you see a way how your unique skills could add to our team, we'd love to hear from you. We're always looking for motivated candidates, so if you see GBatteries as a great fit for you, please submit your resume to",
+    "url": "https://www.gbatteries.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing & Communications",
+    "url": "https://www.gbatteries.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "GBatteries 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/62074-54",
+    "pass": 3
+   },
+   {
+    "quote": "2ndary - Private",
+    "url": "https://pitchbook.com/profiles/company/62074-54",
+    "pass": 3
+   },
+   {
+    "quote": "Developer of an advanced battery technology designed to charge electric vehicles. The company's technology offers quick charging of lithium-ion batteries without compromising battery life and changing the battery's chemistry or manufacturing process, enabling customers to replace internal combustion engines with electric vehicles.",
+    "url": "https://pitchbook.com/profiles/company/62074-54",
+    "pass": 3
+   },
+   {
+    "quote": "Privately Held (backing)",
+    "url": "https://pitchbook.com/profiles/company/62074-54",
+    "pass": 3
+   },
+   {
+    "quote": "Want to dig into this profile?",
+    "url": "https://pitchbook.com/profiles/company/62074-54",
+    "pass": 3
+   },
+   {
+    "quote": "22. Secondary Transaction - Private",
+    "url": "https://pitchbook.com/profiles/company/62074-54",
+    "pass": 3
+   },
+   {
+    "quote": "01-Apr-2026",
+    "url": "https://pitchbook.com/profiles/company/62074-54",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/62074-54",
+    "pass": 3
+   },
+   {
+    "quote": "Calculated using Exit Type probabilities, the company’s stage, and PitchBook’s historical returns data.",
+    "url": "https://pitchbook.com/profiles/company/62074-54",
+    "pass": 3
+   },
+   {
+    "quote": "Private Equity-Backed",
+    "url": "https://pitchbook.com/profiles/company/62074-54",
+    "pass": 3
+   },
+   {
+    "quote": "PitchBook’s non-financial metrics help you gauge a company’s traction and growth using web presence and social reach.",
+    "url": "https://pitchbook.com/profiles/company/62074-54",
+    "pass": 3
+   },
+   {
+    "quote": "GBatteries’s primary industry is Energy Storage.",
+    "url": "https://pitchbook.com/profiles/company/62074-54",
+    "pass": 3
+   },
+   {
+    "quote": "Is GBatteries a private or public company?",
+    "url": "https://pitchbook.com/profiles/company/62074-54",
+    "pass": 3
+   },
+   {
+    "quote": "GBatteries is a Private company.",
+    "url": "https://pitchbook.com/profiles/company/62074-54",
+    "pass": 3
+   },
+   {
+    "quote": "Opt out of sale of personal data and targeted advertising",
+    "url": "https://pitchbook.com/profiles/company/62074-54",
+    "pass": 3
+   },
+   {
+    "quote": "Manage Consent Preferences",
+    "url": "https://pitchbook.com/profiles/company/62074-54",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/62074-54",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "acquired to date, utilized to develop our Intelligent Battery Management System",
+    "url": "https://www.gbatteries.com/",
+    "pass": 1
+   },
+   {
+    "quote": "We're a tight-knit team of innovators who are overcoming the barriers to electrification and transforming the battery industry.",
+    "url": "https://www.gbatteries.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "“GBatteries was the best place I’ve worked. You're working with leading-edge technologies with big-name companies. Every day you're excited to go to work and are empowered by things that you can actually see making a difference. All while in a culture where work/life balance is a big part of company values.”",
+    "url": "https://www.gbatteries.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "We continuously grow our benefits roster to help our team enriching lives as part of the GBattizan team.",
+    "url": "https://www.gbatteries.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/62074-54",
+    "pass": 3
+   },
+   {
+    "quote": "GBatteries has 17 total employees.",
+    "url": "https://pitchbook.com/profiles/company/62074-54",
+    "pass": 3
+   },
+   {
+    "quote": "What is GBatteries’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/62074-54",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for GBatteries is",
+    "url": "https://pitchbook.com/profiles/company/62074-54",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Backed by world class investors and funding agencies.",
+    "url": "https://www.gbatteries.com/about",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Some internships can give you unfulfilling tasks to fill your time. We give all of our interns an independent project that will be deployed and used by real customers.",
+    "url": "https://www.gbatteries.com/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Developer of an advanced battery technology designed to charge electric vehicles. The company's technology offers quick charging of lithium-ion batteries without compromising battery life and changing the battery's chemistry or manufacturing process, enabling customers to replace internal combustion engines with electric vehicles.",
+    "url": "https://pitchbook.com/profiles/company/62074-54",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "About us - GBatteries — Operating at the intersection of artificial intelligence, electrochemistry, and signal processing, GBatteries is building the future of intelligent, high-energy-density batteries.",
+    "url": "https://www.gbatteries.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "GBatteries - Li-metal batteries for the future of mobility — Low-cost, safe, fast charging batteries for all of electric mobility — from land to air.",
+    "url": "https://www.gbatteries.com/",
+    "pass": 3
+   },
+   {
+    "quote": "GBatteries - Li-metal batteries for the future of mobility — Low-cost, safe, fast charging batteries for all of electric mobility — from land to air. Li-ion battery technology is at its limit. To achieve cost parity with gasoline-powered vehicles, current batteries need to be lighter, hold more energy, and surpass their fundamental limitations.",
+    "url": "https://www.gbatteries.com/",
+    "pass": 3
+   },
+   {
+    "quote": "GBatteries 2026 Company Profile: Valuation, Funding ...GBatteries – Performance Metrics & Competitor Intelligence – 2026Gbatteries — Company Profile | The Company CheckGBatteries - Overview, News & Similar companies | ZoomInfo.comHow GBatteries hit $7M revenue with a 13 person team in 2024.GBatteries — Funding, Investors & Team | SeedtableGBatteries Revenue 2024: $7M Est. - getlatka.com — Informat",
+    "url": "https://pitchbook.com/profiles/company/62074-54",
+    "pass": 3
+   },
+   {
+    "quote": "GBatteries – Performance Metrics & Competitor Intelligence – 2026 — Discover GBatteries's estimated revenue, valuation, funding history, employee data, and top competitors. GBatteries is revolutionizing the electric vehicle landscape with its groundbreaking active battery management technology.",
+    "url": "https://compworth.com/company/gbatteries",
+    "pass": 3
+   },
+   {
+    "quote": "Gbatteries — Company Profile | The Company Check — Gbatteries is a company based in Ottawa (Canada) founded in 2012 by Kostyantyn Khomutov, Alex Tkachenko, and Tim Sherstyuk. Gbatteries has raised $3 million across 4 funding rounds from investors including BDC, Natural Resources Canada and Breakthrough Energy.",
+    "url": "https://www.thecompanycheck.com/company/b/gbatteries/xayq015wzd53jj8zc",
+    "pass": 3
+   },
+   {
+    "quote": "GBatteries - Overview, News & Similar companies | ZoomInfo.com — View GBatteries (www.gbatteries.com) location in Ontario, Canada , revenue, industry and description. Find related and similar companies as well as employees by title and much more.",
+    "url": "https://www.zoominfo.com/c/gbatteries/359278963",
+    "pass": 3
+   },
+   {
+    "quote": "How GBatteries hit $7M revenue with a 13 person team in 2024. — GBatteries CEO Tim Sherstyuk shares how GBatteries grew to $7M over the past 11 years. GBatteries has bootstrapped. See GBatteries growth here.",
+    "url": "https://getlatka.com/companies/gbatteries.com/team",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/62074-54",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "GBatteries - LinkedIn GBatteries is an Ottawa-based battery technology company developing intelligent battery charging and management technology that dramatically improves charge time, cycle life, safety, and...",
+    "url": "https://ca.linkedin.com/company/gbatteries",
+    "pass": 3
+   },
+   {
+    "quote": "John Tytus, P.Eng - GBatteries | LinkedInCareers - GBatteries | GBatteries - LinkedInGBatteries on LinkedIn: #gbatteries #welcometogbatteries # ...GBatteries achieves battery safety milestone | Kostyantyn ...GBatteries on LinkedIn: #gbatteries #welcometogbatteries # ...GBatteries on LinkedIn: #welcometogbatteries #team # ... (In Progress) Capstone Fourth-Year Design Project focused on the implemen",
+    "url": "https://ca.linkedin.com/in/john-tytus13",
+    "pass": 3
+   },
+   {
+    "quote": "Careers - GBatteries | GBatteries - LinkedIn GBatteries is #hiring! As we expand our team, we're looking for a Battery Management System Developer to lead design and architecture of custom battery…",
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:6984164982045220864/",
+    "pass": 3
+   },
+   {
+    "quote": "GBatteries on LinkedIn: #gbatteries #welcometogbatteries # ... We’re excited to welcome Arunprabaharan Subramanian to the GBatteries | Advanced Charging team.",
+    "url": "https://www.linkedin.com/posts/gbatteries_gbatteries-welcometogbatteries-evcharging-activity-6895425182861807617-QbvM",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "GBatteries | Ottawa ON - FacebookGV Batteries Shepparton & Echuca | Shepparton VIC - FacebookNew and used Household Batteries for sale - FacebookDIY lithium battery builders 18650 | Facebook4G Batteries - FacebookBatteries Plus Bulbs | Phoenix AZ - FacebookGCBattery - Facebook Apr 30, 2021 · At GBatteries, we’ve developed a technology that allows for ultra-fast charging of lithium-ion batteries wi",
+    "url": "https://www.facebook.com/GBatteries/",
+    "pass": 3
+   },
+   {
+    "quote": "GV Batteries Shepparton & Echuca | Shepparton VIC - FacebookNew and used Household Batteries for sale - FacebookDIY lithium battery builders 18650 | Facebook4G Batteries - FacebookBatteries Plus Bulbs | Phoenix AZ - FacebookGCBattery - Facebook Sep 30, 2026 · Drop into GV Batteries Shepparton or Echuca for free battery testing before you hit the road. If it needs replacing, we can supply and fit t",
+    "url": "https://www.facebook.com/GVBatteries/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "@GBatteries | X The latest posts from @GBatteries",
+    "url": "https://x.com/GBatteries",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.gbatteries.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gbatteries.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gbatteries.com/careers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://cdn.prod.website-files.com/648e62826195cd6c5c823020/6585ddd5e7d46c6083dfcd30_investor%20Logos.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://cdn.prod.website-files.com/648e62826195cd6c5c823020/6585ddff4e111a123b737c61_press%20logos.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%82%A8%E3%82%B9%E3%83%BB%E3%83%A6%E3%82%A2%E3%82%B5%E3%82%B3%E3%83%BC%E3%83%9D%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tycorunenergy.com/ja/top-10-battery-manufacturers-in-japan/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A3%E3%83%BC_(%E4%BC%81%E6%A5%AD)",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.indexpro.co.jp/distributor/list-distributor?mcid=3989",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nanshin.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.battery.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.wsew.jp/hub/en-gb/about/bj.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.tycorunenergy.com/top-10-battery-manufacturers-in-japan/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.sartorius.com/en/applications/applied-industries/battery-manufacturing/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://xiaoweibattery.com/kb/lithium-battery-manufacturing-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.sciencedirect.com/science/article/pii/S2772671123001894",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eastpennmanufacturing.com/case-study-deka-batteries-outperform-competition-by-18-in-grueling-five-year-head-to-head-comparison/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://battery.partners/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://no.co/become-a-reseller",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/62074-54",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/gbatteries",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.thecompanycheck.com/company/b/gbatteries/xayq015wzd53jj8zc",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.zoominfo.com/c/gbatteries/359278963",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://ca.linkedin.com/company/gbatteries",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/john-tytus13",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:6984164982045220864/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/gbatteries_gbatteries-welcometogbatteries-evcharging-activity-6895425182861807617-QbvM",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/GBatteries/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/GVBatteries/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/GBatteries",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Gbatteries 日本 導入",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ジーエス・ユアサコーポレーション",
+    "https://www.gbatteries.com/about",
+    "https://www.gbatteries.com/",
+    "https://www.tycorunenergy.com/ja/top-10-battery-manufacturers-in-japan/",
+    "https://www.gbatteryjp.com/battery/",
+    "https://battery-navi.jp/content-chikudenchi-casestudy/",
+    "https://newsroom.gs-yuasa.com/news-release/427"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gbatteries 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://ja.wikipedia.org/wiki/ジョージフィッシャー_(企業)",
+    "https://www.indexpro.co.jp/distributor/list-distributor?mcid=3989",
+    "https://www.nanshin.co.jp/",
+    "https://www.battery.co.jp/",
+    "https://www.u-blox.com/en/about-us/sales-network-offices/japan-2",
+    "https://www.gpbatteries.com/",
+    "https://gp.industries/brands/gp-batteries/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gbatteries Japan",
+   "results": [
+    "https://www.gbatteries.com/about",
+    "https://www.wsew.jp/hub/en-gb/about/bj.html",
+    "https://www.tycorunenergy.com/top-10-battery-manufacturers-in-japan/",
+    "https://www.gbatteries.com/",
+    "https://www.gbatteryjp.com/",
+    "https://www.gs-yuasa.com/en/company/establishment.php",
+    "https://www.gs-yuasa.com/en/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gbatteries manufacturing customer case study",
+   "results": [
+    "https://www.sartorius.com/en/applications/applied-industries/battery-manufacturing/case-studies",
+    "https://xiaoweibattery.com/kb/lithium-battery-manufacturing-case-study/",
+    "https://www.sciencedirect.com/science/article/pii/S2772671123001894",
+    "https://www.eastpennmanufacturing.com/case-study-deka-batteries-outperform-competition-by-18-in-grueling-five-year-head-to-head-comparison/",
+    "https://batteryinnovation.org/wp-content/uploads/2019/11/CBI.M5BAT-Case-Study.pdf",
+    "https://blog.bisresearch.com/lead-acid-battery-manufacturing-process-a-case-study-for-the-battery-manufacturing-equipment",
+    "https://www.gbatteries.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gbatteries white label OR reseller OR partner program",
+   "results": [
+    "https://en.wikipedia.org/wiki/Reseller",
+    "https://battery.partners/",
+    "https://no.co/become-a-reseller",
+    "https://partner.vw.com/",
+    "https://www.vizrt.com/partner-program/",
+    "https://www.facebook.com/groups/1390590848697838/",
+    "https://partner.vw.com/partner"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gbatteries founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/62074-54",
+    "https://compworth.com/company/gbatteries",
+    "https://www.thecompanycheck.com/company/b/gbatteries/xayq015wzd53jj8zc",
+    "https://www.zoominfo.com/c/gbatteries/359278963",
+    "https://getlatka.com/companies/gbatteries.com/team",
+    "https://seedtable.com/companies/gbatteries",
+    "https://getlatka.com/companies/gbatteries.com"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Gbatteries",
+   "results": [
+    "https://note.com/tnnmyc1556/n/n630d10503d8c",
+    "https://note.com/ready_guppy3801",
+    "https://note.com/seigo77",
+    "https://note.com/seisaku_energy/n/nb4375e736916?hl=en",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/zaira/n/n1075b81203ed?hl=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Gbatteries",
+   "results": [
+    "https://about.x.com/",
+    "https://x.com/Gjeebs",
+    "https://help.x.com/en/using-x/download-the-x-app",
+    "https://x.com/batteries9484/status/2120270342346395884",
+    "https://x.com/CLCA69/status/2119808627452031481",
+    "https://x.com/UBL_Batteries",
+    "https://help.x.com/zh-cn/using-x"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Gbatteries",
+   "results": [
+    "https://ca.linkedin.com/company/gbatteries",
+    "https://ca.linkedin.com/in/john-tytus13",
+    "https://www.linkedin.com/feed/update/urn:li:activity:6984164982045220864/",
+    "https://www.linkedin.com/posts/gbatteries_gbatteries-welcometogbatteries-evcharging-activity-6895425182861807617-QbvM",
+    "https://pe.linkedin.com/posts/kostyantynkhomutov_battery-safety-is-our-top-priority-and-i-activity-7216514829858025473-FLBU",
+    "https://www.linkedin.com/posts/gbatteries_gbatteries-welcometogbatteries-evcharging-activity-6928004210479259649-7NL-",
+    "https://www.linkedin.com/posts/gbatteries_welcometogbatteries-team-cleantechnology-activity-6823250296433627136-3FVH"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Gbatteries",
+   "results": [
+    "https://www.facebook.com/GBatteries/",
+    "https://www.facebook.com/GVBatteries/",
+    "https://l.facebook.com/marketplace/category/batteries/",
+    "https://business.facebook.com/groups/batterybuilders/",
+    "https://www.facebook.com/4GBatteries/",
+    "https://www.facebook.com/BatteriesPlusBulbs331/",
+    "https://www.facebook.com/GCBattery/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gbatteries note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.gbatteries.com/about",
+    "https://wisentrepreneur.com/project/nick-shertyuk-gbatteries/",
+    "https://founders.io/company/gbatteries",
+    "https://ca.linkedin.com/in/nicksherstyuk",
+    "https://www.gbatteries.com/",
+    "https://nocap.blog/founder/nick-sherstyuk/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Gbatteries X 投稿",
+   "results": [
+    "https://x.com/GBatteries",
+    "https://www.gbatteries.com/about",
+    "https://www.gbatteries.com/",
+    "https://x.com/koharu9420/status/2120041401828376742",
+    "https://www.mdpi.com/journal/batteries",
+    "https://www.mdpi.com/journal/batteries/instructions",
+    "https://www.xueshu.com/sci/54010/03.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式3頁／PDF・画像2件／外部27頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式3頁／PDF・画像2件／外部27頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式3頁／PDF・画像2件／外部27頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式3頁／PDF・画像2件／外部27頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式3頁／PDF・画像2件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式3頁／PDF・画像2件／外部27頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式3頁／PDF・画像2件／外部27頁・検索12回）"
+ }
+}

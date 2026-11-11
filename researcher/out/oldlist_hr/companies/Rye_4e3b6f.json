@@ -1,0 +1,1389 @@
+{
+ "name": "Rye",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜未接触",
+ "researched_at": "2026-11-11T11:01:46.358561+00:00",
+ "official_url": "https://rye.com",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2025",
+    "url": "https://startupintros.com/orgs/rye",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "HQ",
+    "value": "London, United Kingdom",
+    "url": "https://startupintros.com/orgs/rye",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "1. Seed Round",
+    "value": "01-Jan-2021    Completed Generating Revenue",
+    "url": "https://pitchbook.com/profiles/company/533597-77",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Instantly retrieve price, tax & shipping for any product, and let users buy without ever leaving your AI experience.",
+    "url": "https://rye.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The agentic commerce infrastructure for native in-app purchases. Instantly retrieve price, tax & shipping for any product, and let users buy without ever leaving your AI experience.",
+    "url": "https://rye.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rye fetches the price, tax & shipping",
+    "url": "https://rye.com/",
+    "pass": 1
+   },
+   {
+    "quote": "AI agents can browse and recommend products but consistently fail at checkout due to merchant fraud detection systems that block automated transactions. This \"checkout wall\" has prevented true agentic commerce for decades, forcing demos to stop at the cart.",
+    "url": "https://rye.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rye's Universal Checkout API solves this with a simple contract: provide a product URL and payment token, get back true landed costs and completed orders. The system uses AI browser automation with fraud-mitigation techniques and caches successful flows as deterministic workflows for speed.",
+    "url": "https://rye.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Rye Pricing — Agentic Commerce API for Product Data & Checkout",
+    "url": "https://rye.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Rye's complete API for agentic commerce — from product discovery to checkout",
+    "url": "https://rye.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "$0.02 per product fetch",
+    "url": "https://rye.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Custom integrations & onboarding",
+    "url": "https://rye.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "When should I consider Enterprise pricing?",
+    "url": "https://rye.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Enable your users to discover and buy any product with Rye",
+    "url": "https://rye.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "any product with one API",
+    "url": "https://rye.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Up until now, innovators have been showcasing agentic demos that could recommend products or fill a cart — but none that could actually complete a purchase. Here’s the dirty secret: most “agentic commerce” demos typically stopped at checkout. That’s because until now, agents have had a hard time getting past merchant and acquirer tools optimized to block bots and fraudsters.",
+    "url": "https://rye.com/case-studies/lithic-rye-agentic-checkout",
+    "pass": 1
+   },
+   {
+    "quote": "To prove out an agentic checkout flow, Lithic partnered with Arcade, a company founded by ex-Okta engineers that builds secure connectors for agentic workflows. Both teams knew the reality: most agentic commerce demos broke down at checkout. Agents could browse, compare, even fill a cart. But when it came time to pay, fraud defenses kicked in and the transaction failed.",
+    "url": "https://rye.com/case-studies/lithic-rye-agentic-checkout",
+    "pass": 1
+   },
+   {
+    "quote": "Gandhi said. Rye’s Universal Checkout API made automated purchases work end-to-end: surfacing the true landed cost (price, tax, and shipping) instantly, being compatible with merchant fraud systems, and completing checkout reliably.",
+    "url": "https://rye.com/case-studies/lithic-rye-agentic-checkout",
+    "pass": 1
+   },
+   {
+    "quote": "By combining Lithic’s programmable cards with Arcade’s workflow engine and Rye’s Universal Checkout API, the team closed the loop on agentic commerce. An AI agent generates a Lithic card, passes it through Arcade’s secure workflow, and completes a purchase via Rye.",
+    "url": "https://rye.com/case-studies/lithic-rye-agentic-checkout",
+    "pass": 1
+   },
+   {
+    "quote": "“I’ve been in enterprise software long enough to know the difference between a cool demo and production-ready agentic commerce infrastructure. This is the latter.”",
+    "url": "https://rye.com/case-studies/lithic-rye-agentic-checkout",
+    "pass": 1
+   },
+   {
+    "quote": "With this foundation in place, the possibilities multiply. AI agents can now transact in the background on behalf of users and businesses. Logistics companies can auto-purchase shipping supplies when inventory runs low. Marketing teams can top up ad credits across platforms based on performance triggers. Facilities managers can let agents handle recurring orders under a set threshold.",
+    "url": "https://rye.com/case-studies/lithic-rye-agentic-checkout",
+    "pass": 1
+   },
+   {
+    "quote": "As Lithic and Arcade proved by using Rye, agentic commerce is no longer theoretical. The infrastructure exists, and it works.",
+    "url": "https://rye.com/case-studies/lithic-rye-agentic-checkout",
+    "pass": 1
+   },
+   {
+    "quote": "Rye Is an Approved Agent in Stripe's Agentic Commerce Suite",
+    "url": "https://rye.com/case-studies/lithic-rye-agentic-checkout",
+    "pass": 1
+   },
+   {
+    "quote": "Introducing Rye for Rewards: Native Catalog Redemption for Rewards Programs",
+    "url": "https://rye.com/case-studies/lithic-rye-agentic-checkout",
+    "pass": 1
+   },
+   {
+    "quote": "Two API calls. Any product on the internet. From discovery to confirmed order.",
+    "url": "https://rye.com/solutions/for-developers",
+    "pass": 1
+   },
+   {
+    "quote": "Instant normalization of disparate marketplace data into a single schema. Fetch real-time price, availability, images, and variant details from any source.",
+    "url": "https://rye.com/solutions/for-developers",
+    "pass": 1
+   },
+   {
+    "quote": "Rye orchestrates the heavy lifting. We handle payment processing, local shipping calculation, sales tax, and order confirmation with the merchant.",
+    "url": "https://rye.com/solutions/for-developers",
+    "pass": 1
+   },
+   {
+    "quote": "Real-time inventory & price sync",
+    "url": "https://rye.com/solutions/for-developers",
+    "pass": 1
+   },
+   {
+    "quote": "Our most powerful interface. Convert any merchant URL on the internet into a transactable cart using our headless proxy engine.",
+    "url": "https://rye.com/solutions/for-developers",
+    "pass": 1
+   },
+   {
+    "quote": "Native support for Stripe and Prava tokenization. Use your own publishable keys with single or two-step authorization flows.",
+    "url": "https://rye.com/solutions/for-developers",
+    "pass": 1
+   },
+   {
+    "quote": "Ready-to-use system prompts for quick scaffolding.",
+    "url": "https://rye.com/solutions/for-developers",
+    "pass": 1
+   },
+   {
+    "quote": "Stay in sync with every lifecycle event. Our high-frequency webhook engine provides millisecond notifications for order status changes, commission payouts, and Shopify merchant connections.",
+    "url": "https://rye.com/solutions/for-developers",
+    "pass": 1
+   },
+   {
+    "quote": "Triggered when an order is successfully processed with the merchant.",
+    "url": "https://rye.com/solutions/for-developers",
+    "pass": 1
+   },
+   {
+    "quote": "Join thousands developers building the future of programmatic commerce.",
+    "url": "https://rye.com/solutions/for-developers",
+    "pass": 1
+   },
+   {
+    "quote": "success: Initialized project in /path/to/my-python-app",
+    "url": "https://code.aetheria.jp/311/",
+    "pass": 3
+   },
+   {
+    "quote": "print(\"--- Pandas DataFrame ---\")",
+    "url": "https://code.aetheria.jp/311/",
+    "pass": 3
+   },
+   {
+    "quote": "Pythonでrequirements.txtを自動生成する方法｜pip freezeとpipreqsの使い分け",
+    "url": "https://code.aetheria.jp/311/",
+    "pass": 3
+   },
+   {
+    "quote": "echo 'source \"$HOME/.rye/env\"' >> ~/.profile",
+    "url": "https://zenn.dev/ncdc/articles/1979def94dedea",
+    "pass": 3
+   },
+   {
+    "quote": "Ryeを使用するためにはpyproject.tomlというファイルをPythonプロジェクト内に作成する必要があります",
+    "url": "https://zenn.dev/ncdc/articles/1979def94dedea",
+    "pass": 3
+   },
+   {
+    "quote": "rye init your-project",
+    "url": "https://zenn.dev/ncdc/articles/1979def94dedea",
+    "pass": 3
+   },
+   {
+    "quote": "コマンドを実行したディレクトリ内にyour-projectというディレクトリが新たに作られ、Ryeを使用するためのファイルが以下の構成で作成されます",
+    "url": "https://zenn.dev/ncdc/articles/1979def94dedea",
+    "pass": 3
+   },
+   {
+    "quote": "\"python.formatting.provider\": \"black\",",
+    "url": "https://zenn.dev/ncdc/articles/1979def94dedea",
+    "pass": 3
+   },
+   {
+    "quote": "ncdcdev.github.io/recruitment/",
+    "url": "https://zenn.dev/ncdc/articles/1979def94dedea",
+    "pass": 3
+   },
+   {
+    "quote": "Production of hybrids",
+    "url": "https://en.wikipedia.org/wiki/Rye",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Rye",
+    "pass": 3
+   },
+   {
+    "quote": "crop. It is grown principally in an area from Eastern and Northern Europe into Russia. It is much more tolerant of cold weather and poor soil than other cereals, making it useful in those regions; its vigorous growth suppresses weeds and provides abundant forage for animals early in the year. It is a member of the wheat tribe (",
+    "url": "https://en.wikipedia.org/wiki/Rye",
+    "pass": 3
+   },
+   {
+    "quote": "remains a popular food in the region. Europe produces around half of the world's rye; relatively little is traded between countries. A wheat-rye hybrid,",
+    "url": "https://en.wikipedia.org/wiki/Rye",
+    "pass": 3
+   },
+   {
+    "quote": ", combines the qualities of the two parent crops and is produced in large quantities worldwide. In European folklore, the",
+    "url": "https://en.wikipedia.org/wiki/Rye",
+    "pass": 3
+   },
+   {
+    "quote": "The current best candidate for the ancestral species for domesticated rye is",
+    "url": "https://en.wikipedia.org/wiki/Rye",
+    "pass": 3
+   },
+   {
+    "quote": "Pre-Pottery Neolithic B",
+    "url": "https://en.wikipedia.org/wiki/Rye",
+    "pass": 3
+   },
+   {
+    "quote": ". Rye plants withstand cold better than other small grains, surviving snow cover that would kill winter wheat. Winter rye is the most popular: it is planted and begins to grow in autumn. In spring, the plants develop rapidly.",
+    "url": "https://en.wikipedia.org/wiki/Rye",
+    "pass": 3
+   },
+   {
+    "quote": "This allows it to provide spring grazing, at a time when spring-planted wheat has only just germinated.",
+    "url": "https://en.wikipedia.org/wiki/Rye",
+    "pass": 3
+   },
+   {
+    "quote": "The physical properties of rye affect attributes of the final food product such as seed size, surface area, and porosity. The surface area of the seed directly correlates to the drying and heat transfer time.",
+    "url": "https://en.wikipedia.org/wiki/Rye",
+    "pass": 3
+   },
+   {
+    "quote": "Smaller seeds have increased heat transfer, which leads to lower drying time. Seeds with lower porosity lose water more slowly during the process of drying.",
+    "url": "https://en.wikipedia.org/wiki/Rye",
+    "pass": 3
+   },
+   {
+    "quote": "to the field where it is later pressed into bales or left as soil amendment. The resultant grain is stored in local",
+    "url": "https://en.wikipedia.org/wiki/Rye",
+    "pass": 3
+   },
+   {
+    "quote": "Winter rye is any breed of rye planted in the autumn to provide ground cover for the winter. It grows during warmer days of the winter when sunlight temporarily warms the plant above freezing, even while there is general snow cover. It can be used as a cover crop to prevent the growth of",
+    "url": "https://en.wikipedia.org/wiki/Rye",
+    "pass": 3
+   },
+   {
+    "quote": "As for temperature, the crop can thrive in subzero environments, assisted by the production of",
+    "url": "https://en.wikipedia.org/wiki/Rye",
+    "pass": 3
+   },
+   {
+    "quote": "(different from those produced by some fish and insects) by the leaves of winter rye.",
+    "url": "https://en.wikipedia.org/wiki/Rye",
+    "pass": 3
+   },
+   {
+    "quote": "fields. If allowed to grow and mature, it may cause substantially reduced prices (docking) for harvested wheat.",
+    "url": "https://en.wikipedia.org/wiki/Rye",
+    "pass": 3
+   },
+   {
+    "quote": "Modern grain-cleaning and milling methods have practically eliminated ergotism, but it remains a risk if food safety vigilance breaks down.",
+    "url": "https://en.wikipedia.org/wiki/Rye",
+    "pass": 3
+   },
+   {
+    "quote": "In 2023, world production of rye was 12.7 million",
+    "url": "https://en.wikipedia.org/wiki/Rye",
+    "pass": 3
+   },
+   {
+    "quote": ", led by Germany with 25% of the total, and Poland and Russia as major secondary producers.",
+    "url": "https://en.wikipedia.org/wiki/Rye",
+    "pass": 3
+   },
+   {
+    "quote": "Per capita production of rye",
+    "url": "https://en.wikipedia.org/wiki/Rye",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Includes 24/7 email and chat support",
+    "url": "https://rye.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/625392-91",
+    "pass": 3
+   },
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/533597-77",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Deeper integration for existing Shopify merchants. Fetch live inventory data and direct commissions with white-label control.",
+    "url": "https://rye.com/solutions/for-developers",
+    "pass": 1
+   },
+   {
+    "quote": "Partner Program - UpCloud",
+    "url": "https://upcloud.com/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "UpCloud Partner Program",
+    "url": "https://upcloud.com/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "The UpCloud Partner Program, is crafted specifically for hosting companies and managed service providers (MSPs).",
+    "url": "https://upcloud.com/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Your Brand. Our Infrastructure.",
+    "url": "https://upcloud.com/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "White Label Cloud Services",
+    "url": "https://upcloud.com/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "UpCloud White Label Cloud Services is a plug-and-play white label cloud control panel that removes technical barriers to entry.",
+    "url": "https://upcloud.com/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "UpCloud was founded by web hosting entrepreneurs to empower companies and resellers with a robust, high-performance cloud infrastructure, freeing them to focus on their strengths: delivering exceptional managed services and outstanding customer experiences.",
+    "url": "https://upcloud.com/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Our white labeling capabilities enable you to brand our modern managed services as your own, fostering brand credibility and recognition while maintaining complete control over client relationships and service delivery",
+    "url": "https://upcloud.com/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Reseller discount (lifetime)",
+    "url": "https://upcloud.com/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Join UpCloud Partner Program",
+    "url": "https://upcloud.com/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "UpCloud Partner Program has something to offer for everyone – resellers, service providers, and innovators.",
+    "url": "https://upcloud.com/partner-program/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Ryeとは？開発終了後も使えるか2026年10月に検証、Windowsでの導入・... — Oct 8, 2024 · Python管理ツールRyeは2025年に開発終了し最終版は0.44.0。 2026年10月にmacOSで導入し直し、取得できるPythonが3.13.2止まりであること、uv syncが失敗する条件、dev-dependenciesが無視される点を確かめました。 Windowsでの導入とPath設定、削除の手順も解説します。",
+    "url": "https://www.issoh.co.jp/tech/details/3771/",
+    "pass": 3
+   },
+   {
+    "quote": "Pythonの新世代管理ツールRyeの使い方を解説！導入メリットからuvとの... — Feb 6, 2026 · Python管理ツール「Rye」とは何か Ryeは、Rust言語で記述された Pythonのオールインワン管理ツール です。 その設計思想は「One-Stop Shop」であり、開発者がPythonプロジェクトを開始する際に必要なすべての工程をRyeだけでカバーすることを目標としています。",
+    "url": "https://code.aetheria.jp/311/",
+    "pass": 3
+   },
+   {
+    "quote": "Rye で Python 開発環境を構築するためのコマンドや説明などのメモ - ... — Oct 26, 2024 · 概要 パッケージ管理にpoetryを使用していましたが、 Python の パッケージ管理 と バージョン管理 ができる Rye を使い始めたので、導入から環境構築までの手順をまとめました。 参考： Ryeの公式ドキュメント パッケージ管理などの使い方はこちら",
+    "url": "https://qiita.com/p-marry/items/ff78c21425fe5635cbbe",
+    "pass": 3
+   },
+   {
+    "quote": "Pythonライブラリ管理ツール決定版！Ryeを導入してみた — Apr 23, 2024 · その証拠にRyeをインストールすると自動でPythonまでもインストールされるので、基本的にRyeをインストールすることだけでPythonの開発環境が整うと言っても過言ではないようです。",
+    "url": "https://zenn.dev/ncdc/articles/1979def94dedea",
+    "pass": 3
+   },
+   {
+    "quote": "Pythonのパッケージ管理は「rye」が使いやすい！ - Qiita — 動作環境 ・ OS : Windows10 pro（記事更新時Windows11 pro） ・ rye : 0.9.0（記事更新時0.33.0） 1. ryeとは？ かの有名なPythonのWebアプリケーションフレームワークFlaskを作成したArmin Ronacher氏が作成したPythonパッケージ管理ツールで、 Rust製なので動作がとにかく速い",
+    "url": "https://qiita.com/kuk_a_i_ai/items/2cbcc576f44ff759b588",
+    "pass": 3
+   },
+   {
+    "quote": "Rye - WikipediaRye Price in Japan - November 2026 Market Prices (Updated ...Rye Grain Prices & Trade in Japan — Market Overview 2026Rye Japan suppliers, export data, and price trends | Market ...Japan: Rye Market Report — Rye (Secale cereale) is a grass grown extensively as a grain, a cover crop and a forage crop. It is grown principally in an area from Eastern and Northern Europe into Russia. Wha",
+    "url": "https://en.wikipedia.org/wiki/Rye",
+    "pass": 3
+   },
+   {
+    "quote": "Rye in Japan - The Observatory of Economic Complexity — At the same year, Rye was the 1202nd most exported product in Japan. The main destination of Rye exports from Japan are: Canada ($670), Czechia ($50), and Ireland ($32).",
+    "url": "https://oec.world/en/profile/bilateral-product/rye/reporter/jpn",
+    "pass": 3
+   },
+   {
+    "quote": "Rye in Japan - The Observatory of Economic Complexity — Imports In 2022, Japan imported $4.88M in Rye, becoming the 16th largest importer of Rye in the world. At the same year, Rye was the 3172nd most imported product in Japan. Japan imports Rye primarily from: Germany ($3.54M), Canada ($910k), United States ($354k), Finland ($81.6k), and Turkey ($2).",
+    "url": "https://oec.world/en/profile/bilateral-product/rye-2100200/reporter/jpn",
+    "pass": 3
+   },
+   {
+    "quote": "Rye Price in Japan - November 2026 Market Prices (Updated ... — What is the price of rye per kilogram/pound in Japan today? The retail price range for Japan rye is between US$ 64.63 and US$ 122.91 per kilogram or between US$ 29.31 and US$ 55.74 per pound (lb). Click here to see today's exact prices of rye in Japan.",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/rye/",
+    "pass": 3
+   },
+   {
+    "quote": "Rye Grain Prices & Trade in Japan — Market Overview 2026 — Oct 6, 2026 · Compare Rye Grain supplier coverage, trade flows, and price benchmarks across countries related to Japan. Rye Grain in Japan — are you buying, or selling? Either way it's a few questions. We'll come back with where you could buy it, or who you could sell it to. Free diagnosis, no account required.",
+    "url": "https://www.tridge.com/market-overview/rye-grain/JP",
+    "pass": 3
+   },
+   {
+    "quote": "Rye Case Studies: Agentic Commerce in Action — See how businesses use Rye’s APIs and universal checkout to power AI shopping agents, improve conversions, and create frictionless ecommerce experiences.",
+    "url": "https://rye.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "On Rye - Customer Case Study — On Rye (Restaurants) partnered with Pentagram (Design) to solve key challenges. \"On Rye - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/pentagram/case-study/on-rye-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: RYE Consulting achieves growth and client success ... — RYE Consulting (Education Management) partnered with FreshBooks (Computer Software) to solve key challenges. \"RYE Consulting - Customer Case Study\" is their real-world success story.",
+    "url": "https://www.casestudies.com/company/freshbooks/case-study/rye-consulting-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Client Case Studies | RyeStrategy — Explore RyeStrategy decarbonization success stories with Salesforce, Karbon, Wazoku, and more.",
+    "url": "https://www.ryestrategy.com/clients",
+    "pass": 3
+   },
+   {
+    "quote": "Case studies intro — RYE Consulting — RYE engages through a hands-on approach by becoming familiar with your values, focusing on the solution as a do-er, and showing you results in real time. Our goal is to deliver a solution while developing our client's skill set for future growth.",
+    "url": "https://www.ryeconsult.com/case-studies-intro",
+    "pass": 3
+   },
+   {
+    "quote": "rye – Revenue, Valuation & Top Competitors – 2026 — Discover rye's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/rye",
+    "pass": 3
+   },
+   {
+    "quote": "RYE: Funding, Team & Investors | Startup Intros — Jul 13, 2026 · Frequently Asked Questions Who founded RYE? RYE was founded in 2025 by Jamie Quint (Co-Founder). How much funding has RYE raised? RYE has raised $15.0M in total across 2 funding rounds.",
+    "url": "https://startupintros.com/orgs/rye",
+    "pass": 3
+   },
+   {
+    "quote": "Rye Robotics 2026 Company Profile: Valuation, Funding ... — Information on valuation, funding, cap tables, investors, and executives for Rye Robotics. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/625392-91",
+    "pass": 3
+   },
+   {
+    "quote": "Rye 2026 Company Profile: Valuation, Investors, Acquisition ... — Information on acquisition, funding, cap tables, investors, and executives for Rye. Use the PitchBook Platform to explore the full profile.",
+    "url": "https://pitchbook.com/profiles/company/533597-77",
+    "pass": 3
+   },
+   {
+    "quote": "Rye Electric – Financial Footprint & Growth Factors – 2026 — Revenue, valuation, and funding figures for Rye Electric are estimates based on publicly available information, industry analysis, regulatory filings, company-provided profile updates, and proprietary data aggregation methods.",
+    "url": "https://compworth.com/company/rye-electric",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": ". Rye plants withstand cold better than other small grains, surviving snow cover that would kill winter wheat. Winter rye is the most popular: it is planted and begins to grow in autumn. In spring, the plants develop rapidly.",
+    "url": "https://en.wikipedia.org/wiki/Rye",
+    "pass": 3
+   },
+   {
+    "quote": "This allows it to provide spring grazing, at a time when spring-planted wheat has only just germinated.",
+    "url": "https://en.wikipedia.org/wiki/Rye",
+    "pass": 3
+   },
+   {
+    "quote": ", which cuts the plants,",
+    "url": "https://en.wikipedia.org/wiki/Rye",
+    "pass": 3
+   },
+   {
+    "quote": "Winter rye is any breed of rye planted in the autumn to provide ground cover for the winter. It grows during warmer days of the winter when sunlight temporarily warms the plant above freezing, even while there is general snow cover. It can be used as a cover crop to prevent the growth of",
+    "url": "https://en.wikipedia.org/wiki/Rye",
+    "pass": 3
+   },
+   {
+    "quote": "and a variety of herbivorous insects can seriously affect plant health.",
+    "url": "https://en.wikipedia.org/wiki/Rye",
+    "pass": 3
+   },
+   {
+    "quote": "Plant breeders, starting in the 19th century in Germany and Scotland,",
+    "url": "https://en.wikipedia.org/wiki/Rye",
+    "pass": 3
+   },
+   {
+    "quote": "Domestication of Plants in the Old World: The Origin and Spread of Domesticated Plants in Southwest Asia, Europe, and the Mediterranean Basin",
+    "url": "https://en.wikipedia.org/wiki/Rye",
+    "pass": 3
+   },
+   {
+    "quote": "Soils, Plant Growth and Crop Production Volume II",
+    "url": "https://en.wikipedia.org/wiki/Rye",
+    "pass": 3
+   },
+   {
+    "quote": "Toxicology and Industrial Health",
+    "url": "https://en.wikipedia.org/wiki/Rye",
+    "pass": 3
+   },
+   {
+    "quote": ". Digital Herbarium of Crop Plants Establishment of Digital Herbarium and Herbal museum for Crop plant by Department of Crop Botany, BSMRAU",
+    "url": "https://en.wikipedia.org/wiki/Rye",
+    "pass": 3
+   },
+   {
+    "quote": "Frontiers in Plant Science",
+    "url": "https://en.wikipedia.org/wiki/Rye",
+    "pass": 3
+   },
+   {
+    "quote": ": Department of Plant Sciences",
+    "url": "https://en.wikipedia.org/wiki/Rye",
+    "pass": 3
+   },
+   {
+    "quote": "Plants described in 1753",
+    "url": "https://en.wikipedia.org/wiki/Rye",
+    "pass": 3
+   },
+   {
+    "quote": "Pentagram Case Study: On Rye – On Rye - Customer Case Study | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/pentagram/case-study/on-rye-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "On Rye - Customer Case Study",
+    "url": "https://www.casestudies.com/company/pentagram/case-study/on-rye-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case study describing how On Rye used Pentagram",
+    "url": "https://www.casestudies.com/company/pentagram/case-study/on-rye-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/pentagram/case-study/on-rye-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/pentagram/case-study/on-rye-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: RYE Consulting achieves growth and client success with FreshBooks | CaseStudies.com",
+    "url": "https://www.casestudies.com/company/freshbooks/case-study/rye-consulting-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Case Study: RYE Consulting achieves growth and client success with FreshBooks",
+    "url": "https://www.casestudies.com/company/freshbooks/case-study/rye-consulting-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "RYE Consulting - Customer Case Study",
+    "url": "https://www.casestudies.com/company/freshbooks/case-study/rye-consulting-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "View this case study…",
+    "url": "https://www.casestudies.com/company/freshbooks/case-study/rye-consulting-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "Was it helpful? Rate this case study:",
+    "url": "https://www.casestudies.com/company/freshbooks/case-study/rye-consulting-customer-case-study",
+    "pass": 3
+   },
+   {
+    "quote": "VCNY Home, a manufacturer of top-rated home decor products for top-rated brands globally partnered with RyeStrategy to manage their carbon emissions and accurately fulfill supplier climate disclosure requirements from Walmart and Target.",
+    "url": "https://www.ryestrategy.com/clients",
+    "pass": 3
+   },
+   {
+    "quote": "Trusted by 10,000+ organizations globally – GDPR compliant – ISO 27001 certified",
+    "url": "https://upcloud.com/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Website visibility and case study",
+    "url": "https://upcloud.com/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturer of autonomous turf maintenance robots designed to automate fairway mowing operations for golf course management.",
+    "url": "https://pitchbook.com/profiles/company/625392-91",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": ". It is likely that rye arrived in Europe as a",
+    "url": "https://en.wikipedia.org/wiki/Rye",
+    "pass": 3
+   },
+   {
+    "quote": "in height. Its leaves are blue-green, long, and pointed. The seeds are carried in a curved head or spike some",
+    "url": "https://en.wikipedia.org/wiki/Rye",
+    "pass": 3
+   },
+   {
+    "quote": ", which causes convulsions, miscarriage, necrosis of digits, hallucinations and death. Historically, damp northern countries that depended on rye as a staple crop were subject to periodic epidemics.",
+    "url": "https://en.wikipedia.org/wiki/Rye",
+    "pass": 3
+   },
+   {
+    "quote": "Stallings VA, Harrison M, Oria M, eds. (2019). \"Potassium: Dietary Reference Intakes for Adequacy\".",
+    "url": "https://en.wikipedia.org/wiki/Rye",
+    "pass": 3
+   },
+   {
+    "quote": "Harris KA, Kris-Etherton PM (2010). \"Effects of Whole Grains on Coronary Heart Disease Risk\".",
+    "url": "https://en.wikipedia.org/wiki/Rye",
+    "pass": 3
+   },
+   {
+    "quote": "Sipos T, Halász E (April 25, 2007). \"The role of perennial rye (",
+    "url": "https://en.wikipedia.org/wiki/Rye",
+    "pass": 3
+   },
+   {
+    "quote": "This content is part of OEC PRO",
+    "url": "https://oec.world/en/profile/bilateral-product/rye-2100200/reporter/jpn",
+    "pass": 3
+   },
+   {
+    "quote": "RedCloud Consulting chose RyeStrategy to support them in timely and accurate completion of Microsoft’s supplier sustainability climate data disclosure request. Beyond this request, RyeStrategy continues to provide ongoing carbon accounting, mitigation support, and climate education for employees.",
+    "url": "https://www.ryestrategy.com/clients",
+    "pass": 3
+   },
+   {
+    "quote": "Karbon made a strategic business decision to prioritize sustainability and decarbonization initiatives. Learn about the “invisible emissions” they uncovered as part of their first GHG inventory as well as mitigation strategies that produced results in a hybrid-remote workforce.",
+    "url": "https://www.ryestrategy.com/clients",
+    "pass": 3
+   },
+   {
+    "quote": "UpCloud White Label Cloud Services is a plug-and-play white label cloud control panel that removes technical barriers to entry.",
+    "url": "https://upcloud.com/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "We understand your business and by partnering with us, you get competitive pricing structures maximising revenue potential and business growth",
+    "url": "https://upcloud.com/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "As an alternative cloud provider, UpCloud helps you unlock new revenue streams and opportunities.",
+    "url": "https://upcloud.com/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Our competitive pricing on high-performance cloud solutions boosts your profitability. Maximize your revenue streams by offering added value to your customers while standing out from competitors. Don’t follow the crowd—embrace innovation, challenge the standards, and differentiate your business with smarter solutions.",
+    "url": "https://upcloud.com/partner-program/",
+    "pass": 3
+   },
+   {
+    "quote": "Multiple Revenue Streams:",
+    "url": "https://startupintros.com/orgs/rye",
+    "pass": 3
+   },
+   {
+    "quote": "Rye Robotics has 3 total employees.",
+    "url": "https://pitchbook.com/profiles/company/625392-91",
+    "pass": 3
+   },
+   {
+    "quote": "What is Rye Robotics’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/625392-91",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Rye Robotics is",
+    "url": "https://pitchbook.com/profiles/company/625392-91",
+    "pass": 3
+   },
+   {
+    "quote": "Rye 2026 Company Profile: Valuation, Investors, Acquisition | PitchBook",
+    "url": "https://pitchbook.com/profiles/company/533597-77",
+    "pass": 3
+   },
+   {
+    "quote": "4. Merger/Acquisition",
+    "url": "https://pitchbook.com/profiles/company/533597-77",
+    "pass": 3
+   },
+   {
+    "quote": "What is Rye’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/533597-77",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Rye is",
+    "url": "https://pitchbook.com/profiles/company/533597-77",
+    "pass": 3
+   },
+   {
+    "quote": "When was Rye acquired?",
+    "url": "https://pitchbook.com/profiles/company/533597-77",
+    "pass": 3
+   },
+   {
+    "quote": "Rye was acquired on 20-Aug-2026.",
+    "url": "https://pitchbook.com/profiles/company/533597-77",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Rye in Japan Trade | The Observatory of Economic Complexity",
+    "url": "https://oec.world/en/profile/bilateral-product/rye/reporter/jpn",
+    "pass": 3
+   },
+   {
+    "quote": "Rye in Japan Trade | The Observatory of Economic Complexity",
+    "url": "https://oec.world/en/profile/bilateral-product/rye-2100200/reporter/jpn",
+    "pass": 3
+   },
+   {
+    "quote": ". In 2024, the main destinations of Japan's",
+    "url": "https://oec.world/en/profile/bilateral-product/rye-2100200/reporter/jpn",
+    "pass": 3
+   },
+   {
+    "quote": "Keep exploring data about Japan:",
+    "url": "https://oec.world/en/profile/bilateral-product/rye-2100200/reporter/jpn",
+    "pass": 3
+   },
+   {
+    "quote": "Rye Price in Japan - November 2026 Market Prices (Updated Monthly)",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/rye/",
+    "pass": 3
+   },
+   {
+    "quote": "Rye Price in Japan, November 2026",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/rye/",
+    "pass": 3
+   },
+   {
+    "quote": "Today's Japan Rye Price Per Kg/lb",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/rye/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Rye Wholesale Prices",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/rye/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Rye Market Insights",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/rye/",
+    "pass": 3
+   },
+   {
+    "quote": "What is the price of rye per kilogram/pound in Japan today?",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/rye/",
+    "pass": 3
+   },
+   {
+    "quote": "The retail price range for Japan rye is between US$ 66.22 and US$ 125.94 per kilogram or between US$ 30.03 and US$ 57.12 per pound(lb).",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/rye/",
+    "pass": 3
+   },
+   {
+    "quote": "Click here to see today's exact prices of rye in Japan",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/rye/",
+    "pass": 3
+   },
+   {
+    "quote": "The retail price range in Yen for rye is between JPY 9,146.90 and JPY 17,395.54 per kilogram or between JPY 4,148.26 and JPY 7,889.13 per pound(lb) in Tokyo and Yokohama.",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/rye/",
+    "pass": 3
+   },
+   {
+    "quote": "In 2026, the approximate wholesale price range for Japan rye is between US$ 46.36 and US$ 88.16 per kilogram or between US$ 21.02 and US$ 39.98 per pound(lb).",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/rye/",
+    "pass": 3
+   },
+   {
+    "quote": "Are you searching for Japan rye to purchase? Request our sourcing service for premium bulk Japan rye.",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/rye/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Rye Export Prices - Historical, Trends and Prediction",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/rye/",
+    "pass": 3
+   },
+   {
+    "quote": "The export price of Rye from Japan has seen a steady increase over the past five years. In 2018, the export price per kilogram was $2.45, which increased to $2.60 in 2019. In 2020, the price rose to $2.75, and in 2021 it further increased to $2.90. The most recent data shows that the export price per kilogram of Rye from Japan in 2022 was $3.05.",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/rye/",
+    "pass": 3
+   },
+   {
+    "quote": "Looking at the trend, it is likely that the export price of Rye from Japan will continue to increase in the coming years. We can predict that the export price per kilogram of Rye from Japan in 2023 will be around $3.20 and in 2024 it will be around $3.35.",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/rye/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Rye Import Prices - Historical, Trends and Prediction",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/rye/",
+    "pass": 3
+   },
+   {
+    "quote": "The import price of Rye into Japan has seen a steady increase over the past five years. In 2018, the import price per kilogram was $2.20, which increased to $2.50 in 2019. In 2020, the price rose to $2.90, and in 2021 it further increased to $3.20. The most recent data shows that the import price per kilogram of Rye into Japan in 2022 was $3.50.",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/rye/",
+    "pass": 3
+   },
+   {
+    "quote": "Overall, the import price of Rye into Japan has seen a steady increase over the past five years, with the price increasing by $1.30 from 2018 to 2022. This trend is likely to continue in the coming years, with the import price per kilogram of Rye into Japan predicted to reach $3.80 in 2023 and $4.10 in 2024.",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/rye/",
+    "pass": 3
+   },
+   {
+    "quote": "values and quantities for Japan rye",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/rye/",
+    "pass": 3
+   },
+   {
+    "quote": "Prices of other produce in the Cereals/Grains category in Japan:",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/rye/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan rye export values",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/rye/",
+    "pass": 3
+   },
+   {
+    "quote": "Export markets for Japan rye ( in '000$ )",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/rye/",
+    "pass": 3
+   },
+   {
+    "quote": "Other Cereals/Grains Prices in Japan",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/rye/",
+    "pass": 3
+   },
+   {
+    "quote": "Latest prices for other cereals/grains in Japan:",
+    "url": "https://www.selinawamucii.com/insights/prices/japan/rye/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Rye (@rye) / X Today we're shipping Rye for Rewards — a source-available React component library that keeps the entire redemption flow inside the rewards app. Catalog, PDP, payment, points slider, order tracking.",
+    "url": "https://x.com/rye",
+    "pass": 3
+   },
+   {
+    "quote": "Rye Rye (@RyeRye) / X Love ain’t never 50/50…it’s whatever I got in me 🥰 1 781 Rye Rye @RyeRye Aug 12 Stop putting up with shit you ain’t gotta put up with… your life will be less stressful",
+    "url": "https://x.com/ryerye",
+    "pass": 3
+   },
+   {
+    "quote": "a. rye (@angela_rye) / X I wasn’t going to bring up marriage and family, but @angela_rye opened the door so I had to be honest about both why—and where—I do my work. This interaction is why it is so important to have conversations that cross political and ideological lines.",
+    "url": "https://x.com/angela_rye",
+    "pass": 3
+   },
+   {
+    "quote": "rye ˎˊ .ᐟ (@suoyre) / X 8 44 504 rye 🌾ˎˊ .ᐟ @suoyre 18h ive been thinking about them giving eachother rings, not really necessarily as an engagment to marriage type of plot line, but a promise to be together through thick and thin ya know... gets ba",
+    "url": "https://x.com/suoyre",
+    "pass": 3
+   },
+   {
+    "quote": "Rye (@RyeWriting) / X Got to enjoy a week at the beach with the boyfriend recently, which inspired me to commission a piece from him of Rye enjoying the water (and matching my IRL body for once).",
+    "url": "https://x.com/RyeWriting",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Rye - LinkedIn Rye’s API powers native shopping within any AI experience by instantly retrieving the price, tax, & shipping of any product on the internet – with low latency and high order reliability.",
+    "url": "https://www.linkedin.com/company/rye",
+    "pass": 3
+   },
+   {
+    "quote": "Rye Barcott - With Honor | LinkedInRye Dutton - Union lawyer | LinkedInCameron Rye - Director of Natural Catastrophe Analytics ...Rye Simonett - 2026 Ivey HBA Graduate | LinkedInKate Rye - Head of Remuneration & Benefits I GAICD | LinkedInRye Cruz - thrivewithrye | LinkedIn View Rye Barcott’s profile on LinkedIn, a professional community of 1 billion members. Union lawyer · Experience: BC General ",
+    "url": "https://www.linkedin.com/in/ryebarcott",
+    "pass": 3
+   },
+   {
+    "quote": "Rye Dutton - Union lawyer | LinkedInCameron Rye - Director of Natural Catastrophe Analytics ...Rye Simonett - 2026 Ivey HBA Graduate | LinkedInKate Rye - Head of Remuneration & Benefits I GAICD | LinkedInRye Cruz - thrivewithrye | LinkedIn Union lawyer · Experience: BC General Employees' Union (BCGEU) · Education: University of Victoria · Location: Vancouver · 500+ connections on LinkedIn. View Ry",
+    "url": "https://ca.linkedin.com/in/rye-dutton-9a2759115",
+    "pass": 3
+   },
+   {
+    "quote": "Cameron Rye - Director of Natural Catastrophe Analytics ...Rye Simonett - 2026 Ivey HBA Graduate | LinkedInKate Rye - Head of Remuneration & Benefits I GAICD | LinkedInRye Cruz - thrivewithrye | LinkedIn Director of Natural Catastrophe Analytics, Willis Re · Experience: Willis Re · Location: Greater London · 500+ connections on LinkedIn. View Cameron Rye’s profile on LinkedIn, a professional... 20",
+    "url": "https://uk.linkedin.com/in/cameron-rye",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Rye, East Sussex | Rye - FacebookRye Bar and Restaurant - FacebookCity of Rye, New York | Rye NY - FacebookTown of Rye, NY | Port Chester NY - FacebookRye's Bar and Restaurant | Brownsville PA - FacebookRye Town Park | Rye NY - FacebookMyRye.com - Facebook Oct 13, 2026 · 🎶 There's a *lot* of live music this bank holiday weekend in Rye and not just Rye International Jazz & Blues 🥳 For a full list o",
+    "url": "https://www.facebook.com/ryesussex/",
+    "pass": 3
+   },
+   {
+    "quote": "Rye Bar and Restaurant - FacebookCity of Rye, New York | Rye NY - FacebookTown of Rye, NY | Port Chester NY - FacebookRye's Bar and Restaurant | Brownsville PA - FacebookRye Town Park | Rye NY - FacebookMyRye.com - Facebook 4 days ago · Come in for golden, crispy beer- battered fish, fries, homemade coleslaw and tartar sauce, and grab a cold drink while you're here. 🍷 SAVE THE DATE: Thursday, Nove",
+    "url": "https://www.facebook.com/ryebarandrestaurant/",
+    "pass": 3
+   },
+   {
+    "quote": "City of Rye, New York | Rye NY - FacebookTown of Rye, NY | Port Chester NY - FacebookRye's Bar and Restaurant | Brownsville PA - FacebookRye Town Park | Rye NY - FacebookMyRye.com - Facebook Oct 21, 2026 · Another reason to download the City of Rye App: 311 is built right in. Use the app to report City issues, follow storm updates, sign up for Rye Recreation camps, and more — all in one convenient",
+    "url": "https://www.facebook.com/cityofryeny/",
+    "pass": 3
+   },
+   {
+    "quote": "Town of Rye, NY | Port Chester NY - FacebookRye's Bar and Restaurant | Brownsville PA - FacebookRye Town Park | Rye NY - FacebookMyRye.com - Facebook Oct 27, 2026 · Join us on October 23rd as the Town of Rye at Crawford Park celebrates the spooky season with a family-friendly Halloween Festival! Visit the Crawford Mansion during Trunk-or-Treat to experience Red, White & Boo, a fun interactive walk",
+    "url": "https://www.facebook.com/TownofRyeNY/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://rye.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rye.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rye.com/case-studies/lithic-rye-agentic-checkout",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rye.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rye.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://rye.com/solutions/for-developers",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.issoh.co.jp/tech/details/3771/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://code.aetheria.jp/311/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://qiita.com/p-marry/items/ff78c21425fe5635cbbe",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://zenn.dev/ncdc/articles/1979def94dedea",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yamamoto_ec/n/ncc92bffa3f69",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yamamoto_ec/n/nd3b3890ee728",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://eikaiwa.dmm.com/uknow/questions/65573/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Rye",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oec.world/en/profile/bilateral-product/rye/reporter/jpn",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oec.world/en/profile/bilateral-product/rye-2100200/reporter/jpn",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.selinawamucii.com/insights/prices/japan/rye/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/pentagram/case-study/on-rye-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.casestudies.com/company/freshbooks/case-study/rye-consulting-customer-case-study",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ryestrategy.com/clients",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upcloud.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://compworth.com/company/rye",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://startupintros.com/orgs/rye",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/625392-91",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/533597-77",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://x.com/rye",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/ryerye",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/angela_rye",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/suoyre",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/rye",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/ryebarcott",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ca.linkedin.com/in/rye-dutton-9a2759115",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://uk.linkedin.com/in/cameron-rye",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ryesussex/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/ryebarandrestaurant/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/cityofryeny/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/TownofRyeNY/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/RyeWriting",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Rye 日本 導入",
+   "results": [
+    "https://www.issoh.co.jp/tech/details/3771/",
+    "https://code.aetheria.jp/311/",
+    "https://qiita.com/p-marry/items/ff78c21425fe5635cbbe",
+    "https://zenn.dev/ncdc/articles/1979def94dedea",
+    "https://qiita.com/kuk_a_i_ai/items/2cbcc576f44ff759b588",
+    "https://mtakagishi.com/ja/blog/posts/2025-06-01-dotfiles-rye-setup",
+    "https://www.autocar.jp/post/1292024"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rye 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://note.com/yamamoto_ec/n/ncc92bffa3f69",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://note.com/yamamoto_ec/n/nd3b3890ee728",
+    "https://eikaiwa.dmm.com/uknow/questions/65573/",
+    "https://kathalo.com/kathalog/import-business/1027/",
+    "https://www.indexpro.co.jp/distributor/search-maker",
+    "https://biz.toyokeizai.net/data/service/detail/id=418"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rye Japan",
+   "results": [
+    "https://en.wikipedia.org/wiki/Rye",
+    "https://oec.world/en/profile/bilateral-product/rye/reporter/jpn",
+    "https://oec.world/en/profile/bilateral-product/rye-2100200/reporter/jpn",
+    "https://www.selinawamucii.com/insights/prices/japan/rye/",
+    "https://www.tridge.com/market-overview/rye-grain/JP",
+    "https://www.tridge.com/market-overview/rye/JP",
+    "https://www.wm-strategy.com/japan-rye-market",
+    "https://ja.wikipedia.org/wiki/Re:Japan"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Rye manufacturing customer case study",
+   "results": [
+    "https://rye.com/case-studies",
+    "https://www.casestudies.com/company/pentagram/case-study/on-rye-customer-case-study",
+    "https://www.casestudies.com/company/freshbooks/case-study/rye-consulting-customer-case-study",
+    "https://www.ryestrategy.com/clients",
+    "https://www.ryeconsult.com/case-studies-intro",
+    "https://ryeconsulting.weebly.com/case-studies.html",
+    "https://www.ryeconsult.com/case-study"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rye white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://aws.amazon.com/partners/programs/",
+    "https://www.seoreseller.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rye founded funding employees revenue",
+   "results": [
+    "https://compworth.com/company/rye",
+    "https://startupintros.com/orgs/rye",
+    "https://pitchbook.com/profiles/company/625392-91",
+    "https://pitchbook.com/profiles/company/533597-77",
+    "https://compworth.com/company/rye-electric",
+    "https://www.startuphub.ai/startups/rye",
+    "https://aventure.vc/companies/rye-san-francisco-ca-us/fundraising"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Rye",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:x.com Rye",
+   "results": [
+    "https://x.com/rye",
+    "https://x.com/ryerye",
+    "https://x.com/angela_rye",
+    "https://x.com/suoyre",
+    "https://x.com/RyeDesu",
+    "https://x.com/osamuss",
+    "https://x.com/blackcat_rye"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Rye",
+   "results": [
+    "https://www.linkedin.com/company/rye",
+    "https://www.linkedin.com/in/ryebarcott",
+    "https://ca.linkedin.com/in/rye-dutton-9a2759115",
+    "https://uk.linkedin.com/in/cameron-rye",
+    "https://ca.linkedin.com/in/rye-simonett",
+    "https://au.linkedin.com/in/kate-rye-03681440",
+    "https://ph.linkedin.com/in/coachryecruz"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Rye",
+   "results": [
+    "https://www.facebook.com/ryesussex/",
+    "https://www.facebook.com/ryebarandrestaurant/",
+    "https://www.facebook.com/cityofryeny/",
+    "https://www.facebook.com/TownofRyeNY/",
+    "https://www.facebook.com/ryesbarandrestaurant/",
+    "https://www.facebook.com/RyeTownPark/",
+    "https://www.facebook.com/p/MyRyecom-100063672908173/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rye note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://note.com/sadaaki",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://net.keizaikai.co.jp/archives/2379"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Rye X 投稿",
+   "results": [
+    "https://x.com/RyeWriting",
+    "https://space.bilibili.com/390348823",
+    "http://cn.todayrss.com/column/P2ynJKTNps?page=2",
+    "https://www.instagram.com/ryah.x/",
+    "https://note.com/rye7513/n/n7d7b061dc2c8",
+    "https://x.com/ztXeZCnmV7g5C3k",
+    "https://www.instagram.com/ryx/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部36頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部36頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式6頁／PDF・画像0件／外部36頁・検索12回）"
+ }
+}

@@ -1,0 +1,931 @@
+{
+ "name": "クレバー産業株式会社",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T10:56:50.793226+00:00",
+ "official_url": "https://www.clever-jp.com",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "大阪府東大阪市宝町15-10",
+    "url": "https://www.clever-jp.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "大阪府東大阪市宝町15-10",
+    "url": "https://clever-jp.com/company/",
+    "pass": 3
+   },
+   {
+    "label": "住所",
+    "value": "東大阪市宝町15-10",
+    "url": "https://osaka-takumi-monodzukuri.com/company/110048/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表取締役",
+    "value": "辰巳　文吾(タツミブンゴ)",
+    "url": "https://www.clever-jp.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "代表取締役",
+    "value": "辰巳　文吾(タツミブンゴ)",
+    "url": "https://clever-jp.com/company/",
+    "pass": 3
+   },
+   {
+    "label": "代表者",
+    "value": "辰巳 文吾",
+    "url": "https://osaka-takumi-monodzukuri.com/company/110048/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "8名",
+    "url": "https://www.clever-jp.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "8名",
+    "url": "https://clever-jp.com/company/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "プリント配線板及び樹脂板、金属板製造・加工業",
+    "url": "https://www.clever-jp.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "プリント配線板及び樹脂板、金属板製造・加工業",
+    "url": "https://clever-jp.com/company/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取扱材料": [
+   {
+    "quote": "クレバー産業株式会社│CFRP・GFRP・樹脂板・薄板加工の技術パートナー",
+    "url": "https://www.clever-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "切削の対象は主にプリント配線板、各種樹脂板（ガラスエポキシ、フェノール、CFRP、アクリル、ポリカーボネート、POM、その他各種）及び金属板（アルミ、銅）です",
+    "url": "https://www.clever-jp.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "取引先はプリント基板メーカー、各種材料メーカーをはじめ、樹脂製品メーカー・取扱店、同業樹脂加工会社他、最近ではホームページ等より個人様からも問い合わせを頂いています",
+    "url": "https://www.clever-jp.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "各種樹脂薄板（一部金属）が加工可能ですが当社は特に熱硬化樹脂であるフェノール、ガラスエポキシ、CFRPや複合材を得意としております",
+    "url": "https://www.clever-jp.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "またフェノール材、ガラスエポキシ材、CFRP、POM等は一部規格を在庫しており、極少量対応が可能です",
+    "url": "https://www.clever-jp.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "各種樹脂、金属材においても積極的に挑戦してきました",
+    "url": "https://www.clever-jp.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "フェノール（ベークライト）、エポキシ、炭素繊維強化プラスチック（CFRP）、フッ素樹脂（PTFE)、不飽和ポリエステル、ポリアセタール（POM、ジュラコン）、アクリル（PMMA)、ポリカーボネート（PC)、塩化ビニール（PVC）、硬質ポリウレタン 他",
+    "url": "https://www.clever-jp.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "NEW：グリーン体（セラミックス焼結前成形体）にも対応しました",
+    "url": "https://www.clever-jp.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "熱硬化性樹脂、主に紙基材",
+    "url": "https://www.clever-jp.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "熱可塑性樹脂、略称はＰＯＭ（ポム）",
+    "url": "https://www.clever-jp.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": ")の略称､炭素繊維を基材に用いた樹脂との複合材",
+    "url": "https://www.clever-jp.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "省略してカーボン樹脂とも呼ばれるが､電極の材料としてよく使われるカーボンやグラファイトとは種類が異なる",
+    "url": "https://www.clever-jp.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "使用する炭素繊維はPAN系(Polyacrylonitrile)､ピッチを使った炭素繊維はピッチ系(PITCH)と区分される",
+    "url": "https://www.clever-jp.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPは強度と軽さ､優れた耐久性が特徴で航空宇宙､スポーツ､産業分野等で活躍している",
+    "url": "https://www.clever-jp.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "プリプレグシートを積層したドライカーボン以外にも､他材質を貼り合わせた複合板の加工事例もある",
+    "url": "https://www.clever-jp.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "フッ素樹脂とはフッ素原子を含む合成樹脂の総称",
+    "url": "https://www.clever-jp.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "フッ素樹脂は耐熱性、耐薬品性、耐摩耗性、絶縁性に優れる",
+    "url": "https://www.clever-jp.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "またプリント配線板では銅箔と樹脂積層板が接着された銅張積層板から回路形成される方法が一般的",
+    "url": "https://www.clever-jp.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "なかでも熱可塑樹脂をマトリクスとするFRP材ベース、銅やアルミとはじめとした金属材ベース",
+    "url": "https://www.clever-jp.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "なお、当社で取り扱っているフェノール、ガラスエポキシ積層板はマトリクスと強化材で構成されており単品でも複合材と呼ばれる 場合もありますが、ここで紹介している複合材とはこれら積層板を単品ととらえた「異種複合材」です",
+    "url": "https://www.clever-jp.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "ガラス繊維を強化材に使用したプラスチック複合材の総称",
+    "url": "https://www.clever-jp.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "母材（マトリックス）はポリエステル樹脂やエポキシ樹脂等熱硬化性のものが多く、当社が加工を得意としているガラエポ材もこのGFRPの一種",
+    "url": "https://www.clever-jp.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "紙を基材にフェノール樹脂を含浸させて成形する",
+    "url": "https://www.clever-jp.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "ガラス布基材にエポキシ樹脂を含浸させて成形する",
+    "url": "https://www.clever-jp.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "ガラス不織布を基材としガラス布でサンドしエポキシ樹脂を含浸させて成形する",
+    "url": "https://www.clever-jp.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "優れた電気絶縁性・耐熱性を持つGFRP（ガラエポ）やCFRPをはじめ、各種プラスチックの加工に対応",
+    "url": "https://www.clever-jp.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "材料：ガラスエポキシ樹脂、合成皮革",
+    "url": "https://www.clever-jp.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "加工内容：樹脂板切削、皮革貼り合わせ",
+    "url": "https://www.clever-jp.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "プリント配線板及び樹脂板、金属板製造・加工業",
+    "url": "https://www.clever-jp.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂板、金属板事業拡大のため生産設備を増強",
+    "url": "https://www.clever-jp.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "複合材などニッチ仕様の薄板加工は、ぜひ当社にお任せください",
+    "url": "https://www.clever-jp.com/news/detail/?myPost=772",
+    "pass": 1
+   },
+   {
+    "quote": "プリント配線板及び樹脂板、金属板製造・加工業",
+    "url": "https://clever-jp.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂板、金属板事業拡大のため生産設備を増強",
+    "url": "https://clever-jp.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "FRP材をはじめ各種樹脂、1mm以下の金属板や異種複合材までの幅広い実績、小規模ならではの細かな対応も特徴です",
+    "url": "https://osaka-takumi-monodzukuri.com/company/110048/",
+    "pass": 3
+   },
+   {
+    "quote": "レポート①薄板CFRP加工ができるのはプリント基板加工技術を活かすから！クレバー産業(株)さんの「ウソをつかないスゴ技」｜MOBIO（ものづくりビジネスセンター大阪）公式note",
+    "url": "https://note.com/mobio_osaka/n/n04ba9be26bdc",
+    "pass": 3
+   },
+   {
+    "quote": "レポート①薄板CFRP加工ができるのはプリント基板加工技術を活かすから！クレバー産業(株)さんの「ウソをつかないスゴ技」",
+    "url": "https://note.com/mobio_osaka/n/n04ba9be26bdc",
+    "pass": 3
+   },
+   {
+    "quote": "NCルーター機による長年のプリント基板加工の技を展開し、繊維強化プラスチック板（CFRPなど）の加工に参入",
+    "url": "https://note.com/mobio_osaka/n/n04ba9be26bdc",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "【大学・研究機関の皆様へ】実験・研究開発向けFRP薄板加工・試作部品の製作について",
+    "url": "https://www.clever-jp.com/",
+    "pass": 1
+   },
+   {
+    "quote": "試作や小ロット、短納期では強い競争力を発揮します",
+    "url": "https://www.clever-jp.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "生産設備、作業環境に始まり加工プログラムの管理方法まで徹底した小ロット、多品種に対応出来るシステムを追求してきました",
+    "url": "https://www.clever-jp.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "またフェノール材、ガラスエポキシ材、CFRP、POM等は一部規格を在庫しており、極少量対応が可能です",
+    "url": "https://www.clever-jp.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "なお、当社で取り扱っているフェノール、ガラスエポキシ積層板はマトリクスと強化材で構成されており単品でも複合材と呼ばれる 場合もありますが、ここで紹介している複合材とはこれら積層板を単品ととらえた「異種複合材」です",
+    "url": "https://www.clever-jp.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "その工程を切削加工で施す事により､短納期で試作基板を作成致します｡",
+    "url": "https://www.clever-jp.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "単品・1回限り・頻繁な仕様変更のご相談など、研究特有のニーズに「試作・小ロット・短納期」でお応えします",
+    "url": "https://www.clever-jp.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "【大学・研究機関の皆様へ】実験・研究開発向けFRP薄板加工・試作部品の製作について│クレバー産業株式会社",
+    "url": "https://www.clever-jp.com/news/detail/?myPost=768",
+    "pass": 1
+   },
+   {
+    "quote": "【大学・研究機関の皆様へ】実験・研究開発向けFRP薄板加工・試作部品の製作について",
+    "url": "https://www.clever-jp.com/news/detail/?myPost=768",
+    "pass": 1
+   },
+   {
+    "quote": "大学や研究機関様の基礎研究・先端技術開発に向けた「実験用材料・試作部品」の加工を承っております",
+    "url": "https://www.clever-jp.com/news/detail/?myPost=768",
+    "pass": 1
+   },
+   {
+    "quote": "・「単品1個から」「短納期」「仕様変更」も大歓迎",
+    "url": "https://www.clever-jp.com/news/detail/?myPost=768",
+    "pass": 1
+   },
+   {
+    "quote": "ＰＯＭ加工品極小ロット対応│クレバー産業株式会社",
+    "url": "https://www.clever-jp.com/news/detail/?myPost=760",
+    "pass": 1
+   },
+   {
+    "quote": "この度POM材（ポリアセタール、ジュラコン）加工品について、在庫材規格については1個からの極小、試作ロット対応が可能になりました",
+    "url": "https://www.clever-jp.com/news/detail/?myPost=760",
+    "pass": 1
+   },
+   {
+    "quote": "試作メーカーからの転換後、この２０年は外形加工に特化した事業展開を歩んできました",
+    "url": "https://www.clever-jp.com/recruit/",
+    "pass": 1
+   },
+   {
+    "quote": "特注品も、材料手配から加工まで一貫対応",
+    "url": "https://note.com/mobio_osaka/n/n04ba9be26bdc",
+    "pass": 3
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "取引先はプリント基板メーカー、各種材料メーカーをはじめ、樹脂製品メーカー・取扱店、同業樹脂加工会社他、最近ではホームページ等より個人様からも問い合わせを頂いています",
+    "url": "https://www.clever-jp.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当社では紙図面、フィルム、製品サンプルから加工データを作成する事も可能です",
+    "url": "https://www.clever-jp.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "材料による特性や、収縮・膨張・反り等、前工程で熱や力が加わった製品では尚更です",
+    "url": "https://www.clever-jp.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "取り扱う製品構成も先端技術分野のものが中心です",
+    "url": "https://www.clever-jp.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "切削工具、治具、オフセットを熟知したオペレーターがルーター機を操作し、外形・スリット・丸穴・角穴等、製品の形を削り出します",
+    "url": "https://www.clever-jp.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "高価な高機能プリント配線板を数多く取り扱う当社のオペレーターは機械操作だけでなく、製品取扱いもプロフェッショナルです",
+    "url": "https://www.clever-jp.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "プリント配線板では部品の実装工程後、Ｖカット部の切断を行い、製品に組み込む形となります",
+    "url": "https://www.clever-jp.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "・製品形状に合わせた治具により、対部品の負荷を最小限にします",
+    "url": "https://www.clever-jp.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "加工時の材料クランプや仕上げ処理が困難な小さいサイズの製品でも､当社のルーター加工技術なら実現可能かも知れません",
+    "url": "https://www.clever-jp.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "主力となるガラエポ材は0.2mmの極薄規格からラインナップ",
+    "url": "https://www.clever-jp.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "製品紹介／インシュレーター│クレバー産業株式会社",
+    "url": "https://www.clever-jp.com/news/detail/?myPost=753",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "切削工具、治具、オフセットを熟知したオペレーターがルーター機を操作し、外形・スリット・丸穴・角穴等、製品の形を削り出します",
+    "url": "https://www.clever-jp.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当社実績はプリント配線板、各種部品、治具板等",
+    "url": "https://www.clever-jp.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "当社実績はプリント配線板材料、検査機器部品、映像機器部品、各種機器電源、回路部品、研磨機部品、各種治具、シムプレート等",
+    "url": "https://www.clever-jp.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "上下水道や電線、建材などから日用品、医療器材まで幅広く利用されている",
+    "url": "https://www.clever-jp.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPは強度と軽さ､優れた耐久性が特徴で航空宇宙､スポーツ､産業分野等で活躍している",
+    "url": "https://www.clever-jp.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "当社実績では車両､ドローン､ロボット､楽器等の各部品､スポーツ用具､各種治具等",
+    "url": "https://www.clever-jp.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "・製品形状に合わせた治具により、対部品の負荷を最小限にします",
+    "url": "https://www.clever-jp.com/product/",
+    "pass": 1
+   },
+   {
+    "quote": "治具、キャリア、歯車用途等、是非ご活用下さい！",
+    "url": "https://www.clever-jp.com/news/detail/?myPost=760",
+    "pass": 1
+   },
+   {
+    "quote": "電気、自動車、音響をはじめ宇宙や医療まで幅広い分野で重宝されています",
+    "url": "https://www.clever-jp.com/news/detail/?myPost=753",
+    "pass": 1
+   },
+   {
+    "quote": "ドローン、ロボットなど軽量化・耐久性が求められ、市場拡大している業界",
+    "url": "https://note.com/mobio_osaka/n/n04ba9be26bdc",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "CAM、正しくはcomputer aided manufacturing",
+    "url": "https://www.clever-jp.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "CAMで作成した加工プログラムをNCルーター加工機に読み込ませ加工します",
+    "url": "https://www.clever-jp.com/business/",
+    "pass": 1
+   },
+   {
+    "quote": "検査設備（画像処理測長機）、加工データ作成機（CAM）を増強",
+    "url": "https://www.clever-jp.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "検査設備（画像処理測長機）、加工データ作成機（CAM）を増強",
+    "url": "https://clever-jp.com/company/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社案内｜クレバー産業株式会社事業案内｜クレバー産業株式会社 - clever-jp.comクレバー産業株式会社 - OSAKA匠企業ポータル会社概要 - 株式会社クレバー会社概要 | 株式会社クレバー会社案内｜クレバー物産株式会社｜食を通じて、心と体の健康をサポー...クレバー産業株式会社 大阪府 東大阪市 - NCNetwork — 「事業継続力強化計画」とは、中小企業が行う防災・減災の事前対策に関する計画を経済産業大臣が認定するものです。 健康経営優良法人2024 健康経営優良法人認定制度とは、経済産業省が健康経営を実践している法人を顕彰する制度です。 クレバー産業株式会社はNCルーター加工機を使った外形加工を主業としております。切削対象は主にプリント配線板、各種樹脂板（主に熱硬化樹脂）です。 事業内容 当社は各種薄板加工及びプリント基板外形加工が主業です。主にNCルーター機で製造し",
+    "url": "https://clever-jp.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "事業案内｜クレバー産業株式会社 - clever-jp.com — クレバー産業株式会社はNCルーター加工機を使った外形加工を主業としております。切削対象は主にプリント配線板、各種樹脂板（主に熱硬化樹脂）です。",
+    "url": "https://www.clever-jp.com/business/",
+    "pass": 3
+   },
+   {
+    "quote": "クレバー産業株式会社 - OSAKA匠企業ポータル — 事業内容 当社は各種薄板加工及びプリント基板外形加工が主業です。主にNCルーター機で製造しており高精度で仕上がり面粗度が優れています。FRP材をはじめ各種樹脂、1mm以下の金属板や異種複合材までの幅広い実績、小規模ならではの細かな対応も特徴です。",
+    "url": "https://osaka-takumi-monodzukuri.com/company/110048/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 株式会社クレバー会社概要 | 株式会社クレバー会社案内｜クレバー物産株式会社｜食を通じて、心と体の健康をサポー...クレバー産業株式会社 大阪府 東大阪市 - NCNetwork — 会社名株式会社クレバー代表者名嶋田僚平設立日平成26年10月30日資本金3,000,000円事業内容ノベルティ販売／防災備蓄品販売／動画制作／ウェブ制作／グ... 株式会社クレバー 会社概要 名称 株式会社クレバー 代表者 山本 潤三 業務内容 内装仕上工事業 創業 1994年 設 立 2001年 従業員数 18名 Eメール info@clever-interior.com 電話番号 075-861-7434 FAX番号 075-861-7435 所在地 〒616-8167 京都府京都市右京区太秦多藪町14-76 営業時間 9：00～17：00 定休日 土日祝定休 交通 ... 2021.101",
+    "url": "https://clever-rb.net/company/profile/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ｜クレバー産業株式会社お問い合わせ｜CLEVER｜クレバー株式会社お問い合わせ | 株式会社クレバーお問い合わせ - 株式会社クレバーお問い合わせ - 株式会社クレバーお問い合わせ - クレバー産業株式会社 大阪府 東大阪市お問い合わせ | 株式会社クレバー — クレバー産業株式会社はNCルーター加工機を使った外形加工を主業としております。切削対象は主にプリント配線板、各種樹脂板（主に熱硬化樹脂）です。 お問い合わせ RECRUIT 採用情報 東京都新宿区西新宿6-26-11 成子坂ハイツ 1105号室 MAIL: contact@clever-inc.com ABOUT クレバーの特徴 私たちについて お問い合わせ CONTACT 採用のエントリー・その他ご質問等についてはこちらよりお願いいたします。 フォームには必要事項をご記入の上、確認を押してください。 回答にはお問い合",
+    "url": "https://www.clever-jp.com/contact/index.cgi",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "レポート①薄板CFRP加工ができるのはプリント基板加工技術を活かすから... Jul 15, 2025 · 7月4日 (金)開催の技術紹介＆交流会＜MOBIO-Cafe-Meeting＞で、自社技術を紹介されたクレバー産業株式会社さん。 NCルーター機による長年のプリント基板加工の技を展開し、繊維強化プラスチック板（CFRPなど）の加工に参入。",
+    "url": "https://note.com/mobio_osaka/n/n04ba9be26bdc",
+    "pass": 3
+   },
+   {
+    "quote": "同友エコで経営革新を｜”KDP会長のblog” Jul 9, 2023 · 中小企業家同友会全国協議会の環境経営委員会主催の「同友エコ2023」において、多くの企業が環境経営に取り組み、受賞しました。 大阪からは、西岡化建株式会社、株式会社KDP、クレバー産業株式会社、株式会社新和プラスチック、弁護士法人赤津法律事務所、株式会社ダイプラの6社が受賞し ...",
+    "url": "https://note.com/pandamomo/n/n6778eeda2854",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "レポート①薄板CFRP加工ができるのはプリント基板加工技術を活かすから！クレバー産業(株)さんの「ウソをつかないスゴ技」｜MOBIO（ものづくりビジネスセンター大阪）公式note",
+    "url": "https://note.com/mobio_osaka/n/n04ba9be26bdc",
+    "pass": 3
+   },
+   {
+    "quote": "レポート①薄板CFRP加工ができるのはプリント基板加工技術を活かすから！クレバー産業(株)さんの「ウソをつかないスゴ技」",
+    "url": "https://note.com/mobio_osaka/n/n04ba9be26bdc",
+    "pass": 3
+   },
+   {
+    "quote": "MOBIO（ものづくりビジネスセンター大阪）公式note",
+    "url": "https://note.com/mobio_osaka/n/n04ba9be26bdc",
+    "pass": 3
+   },
+   {
+    "quote": "MOBIO常設展示場では、ビックリするスゴ技を発見できます。",
+    "url": "https://note.com/mobio_osaka/n/n04ba9be26bdc",
+    "pass": 3
+   },
+   {
+    "quote": "7月4日(金)開催の技術紹介＆交流会＜MOBIO-Cafe-Meeting＞で、自社技術を紹介された",
+    "url": "https://note.com/mobio_osaka/n/n04ba9be26bdc",
+    "pass": 3
+   },
+   {
+    "quote": "NCルーター機による長年のプリント基板加工の技を展開し、繊維強化プラスチック板（CFRPなど）の加工に参入。",
+    "url": "https://note.com/mobio_osaka/n/n04ba9be26bdc",
+    "pass": 3
+   },
+   {
+    "quote": "ドローン、ロボットなど軽量化・耐久性が求められ、市場拡大している業界。特注品も、材料手配から加工まで一貫対応。",
+    "url": "https://note.com/mobio_osaka/n/n04ba9be26bdc",
+    "pass": 3
+   },
+   {
+    "quote": "プリント基板加工により蓄積した技術で、集塵効率・生産効率など、顧客要望に適格に対処。",
+    "url": "https://note.com/mobio_osaka/n/n04ba9be26bdc",
+    "pass": 3
+   },
+   {
+    "quote": "同友エコで経営革新を｜”KDP会長のblog”",
+    "url": "https://note.com/pandamomo/n/n6778eeda2854",
+    "pass": 3
+   },
+   {
+    "quote": "中小企業家同友会全国協議会の環境経営委員会主催の「同友エコ2023」において、多くの企業が環境経営に取り組み、受賞しました。",
+    "url": "https://note.com/pandamomo/n/n6778eeda2854",
+    "pass": 3
+   },
+   {
+    "quote": "大阪からは、西岡化建株式会社、株式会社KDP、クレバー産業株式会社、株式会社新和プラスチック、弁護士法人赤津法律事務所、株式会社ダイプラの6社が受賞しました。",
+    "url": "https://note.com/pandamomo/n/n6778eeda2854",
+    "pass": 3
+   },
+   {
+    "quote": "審査に際して、5月30日に、中同協環境経営委員会と同友エコ2023最終審査がオンラインで行われました。合計1512社の応募があり、初回審査では153社が選出され、その後、専門家の協力を得て二次審査が行われ、その中から上位59社が最終審査に進みました。",
+    "url": "https://note.com/pandamomo/n/n6778eeda2854",
+    "pass": 3
+   },
+   {
+    "quote": "環境経営委員会は、中小企業の環境経営を広めることを目的としています。情報提供や研究会・セミナーの開催、環境関連の認証制度の運営などを通じて、企業が環境経営に取り組むことの重要性を伝えています。",
+    "url": "https://note.com/pandamomo/n/n6778eeda2854",
+    "pass": 3
+   },
+   {
+    "quote": "環境経営への取り組みは、企業の競争力向上や社会的責任の達成につながるとされています。今回の受賞は、当社が環境経営に積極的に取り組んできた成果の証となり、さらなる飛躍を目指す励みになります。今後も環境に配慮した経営を続け、社会への貢献を重視していきます。ありがとうございました！ 😊",
+    "url": "https://note.com/pandamomo/n/n6778eeda2854",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "クレバー産業株式会社 - Facebookいつもご覧いただきありがとうございます クレバー産業株式会社です ...クレバー産業株式会社 | Facebookクレバー産業株式会社 - 【ご報告】2026年「同友エコ奨励賞」を受賞い...クレバー産業株式会社 - Facebookクレバー産業株式会社 - 持続可能なモノづくりへの挑戦：クレバー産業...クレバー産業株式会社 added a new photo. - Facebook クレバー産業株式会社. 180 followers · 3 talking about this. 当社はプリント配線板、各種樹脂板、金属板の切削加工を専門としております。 いつもご覧いただきありがとうございます クレバー産業株式会社です🏢 実は、クレバー産業の公式YouTubeチャンネルでは、私 たちが力を入れている「環境経営活動」をご紹介する動 画を公開していま",
+    "url": "https://www.facebook.com/clever.yo/",
+    "pass": 3
+   },
+   {
+    "quote": "いつもご覧いただきありがとうございます クレバー産業株式会社です ... いつもご覧いただきありがとうございます クレバー産業株式会社です🏢 実は、クレバー産業の公式YouTubeチャンネルでは、私 たちが力を入れている「環境経営活動」をご紹介する動 画を公開しています🌍♻️ 動画のリンクはこちら → https://youtu.be ...",
+    "url": "https://www.facebook.com/clever.yo/videos/いつもご覧いただきありがとうございますクレバー産業株式会社です実はクレバー産業の公式youtubeチャンネルでは私たちが力を入れている環境経営活動をご紹介する動/2381381052392344/",
+    "pass": 3
+   },
+   {
+    "quote": "クレバー産業株式会社 | Facebook Aug 25, 2026 · クレバー産業株式会社. 180 followers · 3 talking about this. 当社はプリント配線板、各種樹脂板、金属板の切削加工を専門としております。",
+    "url": "https://www.facebook.com/clever.yo/posts/1609976160918367/",
+    "pass": 3
+   },
+   {
+    "quote": "クレバー産業株式会社 - 【ご報告】2026年「同友エコ奨励賞」を受賞い... Jun 18, 2026 · 【ご報告】2026年「同友エコ奨励賞」を受賞いたしました！ いつもクレバー産業を応援いただき、誠にありがとうございます。 この度、中小企業家同友会全国協議会が主催する、環境経営に取り組む中小企業を表彰する制度「同友エコ」において、全国78社のうちの1社として『同友エコ奨励賞 ...",
+    "url": "https://www.facebook.com/clever.yo/posts/ご報告2026年同友エコ奨励賞を受賞いたしましたいつもクレバー産業を応援いただき誠にありがとうございますこの度中小企業家同友会全国協議会が主催する環境経営に取り/1550782386837745/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.clever-jp.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clever-jp.com/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clever-jp.com/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clever-jp.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clever-jp.com/news/detail/?myPost=772",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clever-jp.com/news/detail/?myPost=768",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clever-jp.com/news/detail/?myPost=760",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clever-jp.com/news/detail/?myPost=753",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clever-jp.com/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clever-jp.com/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clever-jp.com/access/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.clever-jp.com/catalog.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.clever-jp.com/img/common/gnavi-out-03.gif",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.clever-jp.com/img/product/mainimg.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.clever-jp.com/img/product/img01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.clever-jp.com/img/product/thumb01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.clever-jp.com/img/product/thumb02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.clever-jp.com/img/product/thumb03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.clever-jp.com/img/product/thumb04.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.clever-jp.com/img/product/img05.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.clever-jp.com/img/product/thumb05.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.clever-jp.com/img/product/thumb06.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.clever-jp.com/img/product/thumb07.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.clever-jp.com/img/product/img09.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://clever-jp.com/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://osaka-takumi-monodzukuri.com/company/110048/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.clever-inc.com/contact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://clever0214.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/mobio_osaka/n/n04ba9be26bdc",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/pandamomo/n/n6778eeda2854",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/clever.yo/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/clever.yo/videos/いつもご覧いただきありがとうございますクレバー産業株式会社です実はクレバー産業の公式youtubeチャンネルでは私たちが力を入れている環境経営活動をご紹介する動/2381381052392344/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/clever.yo/posts/1609976160918367/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/clever.yo/posts/ご報告2026年同友エコ奨励賞を受賞いたしましたいつもクレバー産業を応援いただき誠にありがとうございますこの度中小企業家同友会全国協議会が主催する環境経営に取り/1550782386837745/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "クレバー産業 取扱製品 試作 小ロット",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "クレバー産業 会社概要 事業内容",
+   "results": [
+    "https://clever-jp.com/company/",
+    "https://www.clever-jp.com/business/",
+    "https://osaka-takumi-monodzukuri.com/company/110048/",
+    "https://clever-rb.net/company/profile/",
+    "https://clever-interior.com/company/",
+    "https://ja.nc-net.or.jp/company/88666/",
+    "https://www.908clever.com/info/company.html"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "クレバー産業 お問い合わせ メール",
+   "results": [
+    "https://www.clever-jp.com/contact/index.cgi",
+    "https://www.clever-inc.com/contact",
+    "https://clever0214.co.jp/contact/",
+    "https://clever-rb.net/contact/",
+    "https://y-clever.co.jp/contact/",
+    "https://ja.nc-net.or.jp/company/88666/inquiry/",
+    "https://clever-interior.com/contact/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com クレバー産業",
+   "results": [
+    "https://note.com/mobio_osaka/n/n04ba9be26bdc",
+    "https://note.com/yuyu21/n/n675f0e2a861d",
+    "https://note.com/dou_cos/n/n8e460b2d8b7c",
+    "https://note.com/pandamomo/n/n6778eeda2854",
+    "https://note.com/_kadoc0608/n/n48cfb162d86b",
+    "https://note.com/handle_handle6/n/ndfe4c1a96a5c",
+    "https://note.com/yusukesugawara/n/nb174e760fd1e",
+    "https://note.com/tender_godwit292/n/n52bd4b6bb434",
+    "https://note.com/cafekiitos/n/n68ae21fecae1"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:x.com クレバー産業",
+   "results": [
+    "https://x.com/clever_protein/status/2103319631444541727",
+    "https://x.com/44clever",
+    "https://x.com/clever_protein",
+    "https://x.com/clever_protein/reposts",
+    "https://x.com/CLUBCLEVER1",
+    "https://x.com/clever_protein/status/1532166435229016064",
+    "https://x.com/clever_protein/status/1524244280700960768"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com クレバー産業",
+   "results": [
+    "https://jp.linkedin.com/in/景-田中-4ab551382",
+    "https://www.linkedin.com/company/clever-inc-/jobs",
+    "https://www.linkedin.com/company/clever-inc-/",
+    "https://jp.linkedin.com/in/kei-takamatsu-42399a23b",
+    "https://co.linkedin.com/company/clever-leaves",
+    "https://mx.linkedin.com/in/gybran-sánchez-wegpq8",
+    "https://il.linkedin.com/in/yoelzanger"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com クレバー産業",
+   "results": [
+    "https://www.facebook.com/clever.yo/",
+    "https://www.facebook.com/clever.yo/videos/いつもご覧いただきありがとうございますクレバー産業株式会社です実はクレバー産業の公式youtubeチャンネルでは私たちが力を入れている環境経営活動をご紹介する動/2381381052392344/",
+    "https://www.facebook.com/clever.yo/posts/1609976160918367/",
+    "https://www.facebook.com/clever.yo/posts/ご報告2026年同友エコ奨励賞を受賞いたしましたいつもクレバー産業を応援いただき誠にありがとうございますこの度中小企業家同友会全国協議会が主催する環境経営に取り/1550782386837745/",
+    "https://www.facebook.com/pages/クレバー産業株式会社/191570157597630/",
+    "https://www.facebook.com/clever.yo/posts/-持続可能なモノづくりへの挑戦クレバー産業の3r2r一見何気ないプラスチックのカゴ-ここには現場スタッフのもったいないという想いと地球環境への敬意が詰まっていま/1544704880778829/",
+    "https://www.facebook.com/100057179961544/photos/978793947369928/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "クレバー産業 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://www.youtube.com/watch?v=jp-diVduWcA",
+    "https://clever-jp.com/",
+    "https://www.clever-jp.com/company/index.html",
+    "https://note.com/cleverjapan",
+    "https://clever-ltd.co.jp/kenichi-nakajima.html",
+    "https://www.908clever.com/info/company.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "クレバー産業 X 投稿",
+   "results": [
+    "https://clever-jp.com/",
+    "https://www.instagram.com/p/Deya_xIgWhE/",
+    "https://x.com/clever_protein/status/2100902665689747770",
+    "https://x.com/iClever_jp/status/2119944914628993069",
+    "https://x.com/clever_protein",
+    "https://x.com/44clever",
+    "https://x.com/KaomojiJapan/status/1623863949497339906"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式11頁／PDF・画像13件／外部10頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式11頁／PDF・画像13件／外部10頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式11頁／PDF・画像13件／外部10頁・検索9回）",
+  "連絡先": "記載なし（3回確認済み：公式11頁／PDF・画像13件／外部10頁・検索9回）"
+ }
+}

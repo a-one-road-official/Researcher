@@ -1,0 +1,1590 @@
+{
+ "name": "株式会社米山製作所 本社／工場",
+ "aliases": [],
+ "context": "ipros_all:小ロット",
+ "researched_at": "2026-11-11T11:08:48.346352+00:00",
+ "official_url": "https://www.yoneyama.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "代表取締役 米山俊臣 (Toshiomi Yoneyama)",
+    "url": "https://www.yoneyama.co.jp/company/overview/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "【本社（事務所・本社工場）】 〒190-1222 東京都西多摩郡瑞穂町箱根ヶ崎東松原24-10 TEL　:　042-556-2358 　FAX　:　042-556-2131 【荒井工場（第2工場）】 東京都西多摩郡瑞穂町箱根ヶ崎東松原21-6 URL　:　https://www.yoneyama.co.jp/ E-mail　:　wj@yoneyama.co.jp",
+    "url": "https://www.yoneyama.co.jp/company/overview/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員",
+    "value": "8名",
+    "url": "https://www.yoneyama.co.jp/company/overview/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "ウォータージェット受託加工",
+    "url": "https://www.yoneyama.co.jp/company/overview/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "元板サイズ900×900mm×20mm厚製品サイズ 約L1750×H700mm...",
+    "url": "https://www.yoneyama.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "【第１回】オープンイノベーションフィールド多摩 国分寺館 製品技術展示会に出展します",
+    "url": "https://www.yoneyama.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "工業製品製造分野の一般的なウォータージェットシステムは、水道水をミクロンフィルターでろ過し、専用高圧ポンプで320MPa程度に加圧し、φ0.1～0.3mm前後の穴（ウォーターノズル）から速度マッハ2～3程度の細い高速水流を発生させます",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "0.1mm厚の薄いフィルムから300mm厚の厚い金属や製品まで加工が可能",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "ウォータージェット加工は多種にわたります が、従来の加工法に置き換わるものではなく、それらとの組み合わせにより新たな製品、部品を生み出すための新しいツールの一つであり、それぞれ不得意である分野を 相互補完する工法です",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の内部評価のためのカット（定期確認、不具合確認、展示、開発、ティアダウン、非破壊検査確認など）",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "結果として、高効率な生産と高い製品クオリティの両立が実現し、自動車部品メーカーの工程改善や軽量化ニーズにも応えられる技術として注目されています",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "また、複雑な曲面形状や厚手の複合材も一貫して加工できるため、製品開発や小ロット試作にも柔軟に対応できます",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "エレクトロニクス製品では、プリント基板や各種センサー、シリコンウェハーなど、熱や振動に敏感な部品が多く存在します",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "また、切断による熱変形や微小クラックのリスクが少ないことから、製品歩留まりの向上や信頼性確保にも寄与します",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "特に高機能金属（チタンなど）や極薄の樹脂フィルムの切断では、ウォータージェットなら熱を与えず加工変質も最小限で済むため、製品の性能を損なわない仕上がりが実現します",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "元板サイズ900×900mm×20mm厚製品サイズ 約L1750×H700mm…",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "水を使用しているため、加工製品が濡れます",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "自社製品の検査だけではなく、受託計測業者さまで素材にダメージを与えず加工すること でお困りの際は米山製作所にご相談ください",
+    "url": "https://www.yoneyama.co.jp/solution/",
+    "pass": 1
+   },
+   {
+    "quote": "「製品の内部構造を確認したい」「故障の原因を特定したい」「競合製品を分析したい」開発や品質管理の現場では、製品を「切って、見る」ことで解決の糸口を発見できる課題があります",
+    "url": "https://www.yoneyama.co.jp/solution/",
+    "pass": 1
+   },
+   {
+    "quote": "米山製作所のウォータージェット加工は、素材へのダメージが極めて少なく、製品やモジュールの内部観察を実現します",
+    "url": "https://www.yoneyama.co.jp/solution/",
+    "pass": 1
+   },
+   {
+    "quote": "第13回中小企業優秀新技術･新商品賞 技術･製品部門「優秀賞」受賞",
+    "url": "https://www.yoneyama.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "関東製作所グループは、プラスチック製品の試作・小ロット生産まで、幅広いご要望にお応えできる体制を整えております",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の製品仕様や用途、数量などに応じて、最適な試作・小ロット工法をご提案いたします",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂製品の形状検討、試作トライから量産、製品保証まで一貫対応",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "弊社最大の強みは、『製品検討』『金型設計・製作』『試作トライ』『量産への移管』『製品保証』まで、すべて",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "も保有しており、トライで成形した製品が『良品』となるまでを、すべて社内で完結できる体制を整えています",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品用途やご要望に応じて、最適な工法のご提案から対応可能です",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "> プラスチック製品の小ロット工法の解説資料を無料ダウンロード",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "機能部品・外観製品として十分検討可能な工法",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品の用途やプロジェクトの概要次第で推奨する工法は大きく異なります",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "工法を選定する際には、まず製品に求められる条件を明確にすることが、コスト・品質・納期の最適化につながります",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "を使用し、最大製品サイズW200×D150×H70mmに対応します",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "汎用樹脂、エンプラ、繊維入り樹脂材への幅広い対応力を持ち、生産数約100～1,000個のプラスチック製品成形において最大のコストメリットを提供します",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "ため、十分機能部品・外観製品として検討できます",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "機械の刃物による削り出しのため、大型製品や複雑形状の製品を作る際には、別々のパーツで加工を進め、後で貼り合わせるという場合もあります",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "製品の用途や必要な数量、重視する条件によって、適した工法は異なります",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "自社の製品や生産計画に合う工法を、",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、同じ製品のリピート発注が継続的に見込まれるような場合には、初期段階から簡易金型で対応した方が、トータルでのコスト削減につながる可能性もあります",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "> プラスチック製品開発のベストパートナー『株式会社関東製作所』 製造業界に高い技術力とソリューション提案を！",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "米山製作所の製品・サービス一覧｜イプロスものづくり",
+    "url": "https://mono.ipros.com/company/detail/2069242/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(14)",
+    "url": "https://mono.ipros.com/company/detail/2069242/category/",
+    "pass": 3
+   },
+   {
+    "quote": "自社開発設計によるプラスチックを素材とした安価で高品質な製品をオーダーメイドで製作いたします",
+    "url": "https://mono.ipros.com/company/detail/2069242/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■プラスチック製品の成形加工、設計",
+    "url": "https://mono.ipros.com/company/detail/2069242/category/",
+    "pass": 3
+   },
+   {
+    "quote": "御殿場市神山の金型および製品保管倉庫のほか、",
+    "url": "https://mono.ipros.com/company/detail/2069242/category/",
+    "pass": 3
+   },
+   {
+    "quote": "主にプラモデル製品を製造している米山製作所本社工場の",
+    "url": "https://mono.ipros.com/company/detail/2069242/category/",
+    "pass": 3
+   },
+   {
+    "quote": "また、硬質素材の製品となっております",
+    "url": "https://mono.ipros.com/company/detail/2069242/category/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車のブレーキパイプを留めて車両床下で固定する製品をご紹介！",
+    "url": "https://mono.ipros.com/company/detail/2069242/category/",
+    "pass": 3
+   },
+   {
+    "quote": "軟質素材で、耐薬品性がある製品となっております",
+    "url": "https://mono.ipros.com/company/detail/2069242/category/",
+    "pass": 3
+   },
+   {
+    "quote": "段ボールのフタを簡単に固定でき、頑丈で使い易い製品",
+    "url": "https://mono.ipros.com/company/detail/2069242/category/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス(1)",
+    "url": "https://mono.ipros.com/company/detail/2009064/",
+    "pass": 3
+   },
+   {
+    "quote": "♦ウォータージェット加工専門企業として30年以上の実績♦金属・樹脂（CFRP等）・ガラス・セラミックス・複合材・ゴム・木材・石材など多様な素材に対応♦熱影響が少なく、素材の変質・歪みを抑える加工技術♦難削材・特殊素材（CFRP・チタン等）の精密加工が得意♦最大加工厚300mm・長さ4mの大型加工にも対応、小物から大物まで幅広く対応♦高価な厚板素材の粗加工によるコストダウンの提案♦製品内部観察用の断面カットで品質管理・不具合解析に貢献♦CFRPなどのJIS規格・準拠試験片の製作に対応♦表面剥離、溝加工、バリ取りなどの特殊加工も可能♦デザインカットによる商業施設等の装飾加工にも対応♦加工に有害物質を使わず、環境に優しい方式を採用（ISO14001取得）♦独自開発の社内DB「ヨビダス」で品質・工程管理を徹底♦全国700社以上と取引実績あり、高品質・短納期でサービスを提供♦",
+    "url": "https://mono.ipros.com/company/detail/2009064/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス (1)",
+    "url": "https://mono.ipros.com/company/detail/2009064/",
+    "pass": 3
+   },
+   {
+    "quote": "(1) プラスチック製品の成形加工、設計",
+    "url": "https://www.yoneyama-ss.com/company.html",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "軟質材･硬質材､単質材･複合材､金属･非金属､通電材･非通電材といった違いに関わらず加工が可能です",
+    "url": "https://www.yoneyama.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPとアルミ合せ板の複合素材の加工事例です",
+    "url": "https://www.yoneyama.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "ウォータージェット加工事例 材質や厚板・薄板問わず加工します",
+    "url": "https://www.yoneyama.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPのような難加工素材からシリコンスポンジゴムなど様々な素材を、厚板・薄板関わらず加工いたします",
+    "url": "https://www.yoneyama.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "積層体試験片カット(アルミ＋ガラエポ＋CFRP)",
+    "url": "https://www.yoneyama.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "CFRP加工事例 （強化プラ･アブレイシブ切断）φ290mm×3t",
+    "url": "https://www.yoneyama.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "積層体試験片カット(アルミ＋ガラエポ＋CFRP)",
+    "url": "https://www.yoneyama.co.jp/category/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "CFRP加工事例 （強化プラ･アブレイシブ切断）φ290mm×3t",
+    "url": "https://www.yoneyama.co.jp/category/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "ウォータージェット加工の特徴を生かし違う材質で積層",
+    "url": "https://www.yoneyama.co.jp/category/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "ウォータージェット加工は、ガラスエポキシ樹脂や特殊樹脂などの穴あけ、形状カットに適しています",
+    "url": "https://www.yoneyama.co.jp/category/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "ウォータージェット加工は、加工材の材質を問わず多くの素材に適合します",
+    "url": "https://www.yoneyama.co.jp/category/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "加工すると水がかかるので、材質によっ",
+    "url": "https://www.yoneyama.co.jp/category/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "一昔前は珍しい素材であったCFRPですが、最近はより高性能なモノを作るうえで欠かせない素材となっています",
+    "url": "https://www.yoneyama.co.jp/category/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "加工の難しい素材と言われていますがウォータージェット加工はその特徴によりCFRPを自在に、高品質に加工することがで",
+    "url": "https://www.yoneyama.co.jp/category/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "発泡ウレタン1,000×1,000×80t[ｍｍ] 樹脂系の発泡体や繊維、紙などは水のみで加工が可能です",
+    "url": "https://www.yoneyama.co.jp/category/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "積層体試験片カット(アルミ＋ガラエポ＋CFRP)",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "CFRP加工事例 （強化プラ･アブレイシブ切断）φ290mm×3t",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "：プラスチック、金属、セラミックス、石、ガラス、木材など、さまざまな材料に対応できる汎用性の高さがあります",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "金属でもプラスチックでもガラスでもセラミックスでも加工が可能",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "複合材や積層材のような複数の素材でも加工が可能",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "チタン・ニッケル・アルミ・銅・真鍮・SUSなど金属板の内外形状カット",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "ガラス類・ミラー・石材・フェライト・セラミックス・焼結体・ポーラス材の内外形カット",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "CFRP・GFRP・超高強力ポリエチレン繊維・アラミド繊維素材のカット",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "各種ゴム・発泡樹脂・布材・MDF・デラニウム・ライオンボード・ハニカム材などのカット",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "金属パネルやシャーシ部分については、研磨剤混入ジェットを用いることで高強度や高機能な複合材および積層材の加工が容易となります",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "航空機や宇宙関連の部品では、軽量かつ高強度な素材（チタン合金や複合材など）の精密加工が欠かせません",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "また、複雑な曲面形状や厚手の複合材も一貫して加工できるため、製品開発や小ロット試作にも柔軟に対応できます",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに研磨剤を使う場合は硬質ガラスやセラミックスなどにも対応できるため、幅広い素材を一括で処理可能です",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "特に高機能金属（チタンなど）や極薄の樹脂フィルムの切断では、ウォータージェットなら熱を与えず加工変質も最小限で済むため、製品の性能を損なわない仕上がりが実現します",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPとアルミ合せ板の複合素材の加工事例です",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "加工材の材質を問わず多くの素材に適合します",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "軟質材･硬質材､単質材･複合材､金属･非金属､通電材･非通電材といっ た違いに関わらず加工が可能です",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "ウォータージェット加工とSIC・アルミナ・セラミックス",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "ウォータージェット加工とカーボン・CFRP",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "加工時にダメージを与えたくない素材、CFRP・チタン合金などの難加工素材も対応",
+    "url": "https://www.yoneyama.co.jp/solution/",
+    "pass": 1
+   },
+   {
+    "quote": "CFRP・複合材・積層材のような難加工素材も切断の形状を自由に切り出すことが可能です",
+    "url": "https://www.yoneyama.co.jp/solution/",
+    "pass": 1
+   },
+   {
+    "quote": "ガラスエポシキ樹脂(鍋敷き試作)|米山製作所",
+    "url": "https://www.yoneyama.co.jp/product/gala_epoxy_resin/",
+    "pass": 1
+   },
+   {
+    "quote": "積層体試験片カット(アルミ＋ガラエポ＋CFRP)|米山製作所",
+    "url": "https://www.yoneyama.co.jp/product/laminate_aluminium_gala-epoxy_cfrp/",
+    "pass": 1
+   },
+   {
+    "quote": "積層体試験片カット(アルミ＋ガラエポ＋CFRP)",
+    "url": "https://www.yoneyama.co.jp/product/laminate_aluminium_gala-epoxy_cfrp/",
+    "pass": 1
+   },
+   {
+    "quote": "CFRP加工ならウォータージェット受託加工の米山製作所",
+    "url": "https://www.yoneyama.co.jp/product/cfrp_reinforced_plastic/",
+    "pass": 1
+   },
+   {
+    "quote": "CFRP加工事例 （強化プラ･アブレイシブ切断）φ290mm×3t",
+    "url": "https://www.yoneyama.co.jp/product/cfrp_reinforced_plastic/",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPの素材をウォータージェットで加工 受託加工専門の米山製作所",
+    "url": "https://www.yoneyama.co.jp/product/cfrp_aluminum/",
+    "pass": 1
+   },
+   {
+    "quote": "積層体試験片カット(アルミ＋ガラエポ＋CFRP)",
+    "url": "https://www.yoneyama.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "CFRP加工事例 （強化プラ･アブレイシブ切断）φ290mm×3t",
+    "url": "https://www.yoneyama.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂製品の形状検討、試作トライから量産、製品保証まで一貫対応",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "汎用樹脂、エンプラ、繊維入り樹脂材への幅広い対応力を持ち、生産数約100～1,000個のプラスチック製品成形において最大のコストメリットを提供します",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "で型を作り、そこに真空下で液状の樹脂材料を流し込んで成形する工法です",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂の板やブロックを削って形を成形する工法です",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "量産品に最も近い樹脂素材が使え、特に試作工法として最適です",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "現在は4台の加工機を活用し、金属・樹脂・ガラス・セラミックス・複合材など多様な素材に対応しています",
+    "url": "https://mono.ipros.com/company/detail/2009064/",
+    "pass": 3
+   },
+   {
+    "quote": "特にCFRPなどの難削材や、熱影響を避けたい素材の加工に強みを持ち、最大300mm厚・4m長の大型加工も可能",
+    "url": "https://mono.ipros.com/company/detail/2009064/",
+    "pass": 3
+   },
+   {
+    "quote": "♦ウォータージェット加工専門企業として30年以上の実績♦金属・樹脂（CFRP等）・ガラス・セラミックス・複合材・ゴム・木材・石材など多様な素材に対応♦熱影響が少なく、素材の変質・歪みを抑える加工技術♦難削材・特殊素材（CFRP・チタン等）の精密加工が得意♦最大加工厚300mm・長さ4mの大型加工にも対応、小物から大物まで幅広く対応♦高価な厚板素材の粗加工によるコストダウンの提案♦製品内部観察用の断面カットで品質管理・不具合解析に貢献♦CFRPなどのJIS規格・準拠試験片の製作に対応♦表面剥離、溝加工、バリ取りなどの特殊加工も可能♦デザインカットによる商業施設等の装飾加工にも対応♦加工に有害物質を使わず、環境に優しい方式を採用（ISO14001取得）♦独自開発の社内DB「ヨビダス」で品質・工程管理を徹底♦全国700社以上と取引実績あり、高品質・短納期でサービスを提供♦",
+    "url": "https://mono.ipros.com/company/detail/2009064/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "切断ノウハウでR＆D小ロットから量産まで対応します",
+    "url": "https://www.yoneyama.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "豊富なカット実績と切断ノウハウでR＆D小ロットから量産まで対応します",
+    "url": "https://www.yoneyama.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "生産・小ロット・破壊検査など様々な案件に対応しております",
+    "url": "https://www.yoneyama.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "切断ノウハウでR＆D小ロットから量産まで対応します",
+    "url": "https://www.yoneyama.co.jp/product/",
+    "pass": 1
+   },
+   {
+    "quote": "切断ノウハウでR＆D小ロットから量産まで対応します",
+    "url": "https://www.yoneyama.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "切断ノウハウでR＆D小ロットから量産まで対応します",
+    "url": "https://www.yoneyama.co.jp/category/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "切断ノウハウでR＆D小ロットから量産まで対応します",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "また、複雑な曲面形状や厚手の複合材も一貫して加工できるため、製品開発や小ロット試作にも柔軟に対応できます",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "産業に多様化により、特殊機能かつ小ロット部品の生産にはウォータージェット加工は有効です",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "切断ノウハウでR＆D小ロットから量産まで対応します",
+    "url": "https://www.yoneyama.co.jp/solution/",
+    "pass": 1
+   },
+   {
+    "quote": "切断ノウハウでR＆D小ロットから量産まで対応します",
+    "url": "https://www.yoneyama.co.jp/product/quartz_glass/",
+    "pass": 1
+   },
+   {
+    "quote": "切断ノウハウでR＆D小ロットから量産まで対応します",
+    "url": "https://www.yoneyama.co.jp/product/porcelaintile10mm/",
+    "pass": 1
+   },
+   {
+    "quote": "切断ノウハウでR＆D小ロットから量産まで対応します",
+    "url": "https://www.yoneyama.co.jp/product/csoexh/",
+    "pass": 1
+   },
+   {
+    "quote": "ガラスエポシキ樹脂(鍋敷き試作)|米山製作所",
+    "url": "https://www.yoneyama.co.jp/product/gala_epoxy_resin/",
+    "pass": 1
+   },
+   {
+    "quote": "切断ノウハウでR＆D小ロットから量産まで対応します",
+    "url": "https://www.yoneyama.co.jp/product/gala_epoxy_resin/",
+    "pass": 1
+   },
+   {
+    "quote": "切断ノウハウでR＆D小ロットから量産まで対応します",
+    "url": "https://www.yoneyama.co.jp/product/laminate_aluminium_gala-epoxy_cfrp/",
+    "pass": 1
+   },
+   {
+    "quote": "切断ノウハウでR＆D小ロットから量産まで対応します",
+    "url": "https://www.yoneyama.co.jp/product/plywood12mm/",
+    "pass": 1
+   },
+   {
+    "quote": "切断ノウハウでR＆D小ロットから量産まで対応します",
+    "url": "https://www.yoneyama.co.jp/product/designcutexh/",
+    "pass": 1
+   },
+   {
+    "quote": "切断ノウハウでR＆D小ロットから量産まで対応します",
+    "url": "https://www.yoneyama.co.jp/product/metalexh/",
+    "pass": 1
+   },
+   {
+    "quote": "切断ノウハウでR＆D小ロットから量産まで対応します",
+    "url": "https://www.yoneyama.co.jp/product/cfrpexh/",
+    "pass": 1
+   },
+   {
+    "quote": "切断ノウハウでR＆D小ロットから量産まで対応します",
+    "url": "https://www.yoneyama.co.jp/product/aluminum/",
+    "pass": 1
+   },
+   {
+    "quote": "切断ノウハウでR＆D小ロットから量産まで対応します",
+    "url": "https://www.yoneyama.co.jp/product/urethane/",
+    "pass": 1
+   },
+   {
+    "quote": "切断ノウハウでR＆D小ロットから量産まで対応します",
+    "url": "https://www.yoneyama.co.jp/product/cfrp_reinforced_plastic/",
+    "pass": 1
+   },
+   {
+    "quote": "切断ノウハウでR＆D小ロットから量産まで対応します",
+    "url": "https://www.yoneyama.co.jp/product/diamond_wheel/",
+    "pass": 1
+   },
+   {
+    "quote": "切断ノウハウでR＆D小ロットから量産まで対応します",
+    "url": "https://www.yoneyama.co.jp/product/aluminum_a5052/",
+    "pass": 1
+   },
+   {
+    "quote": "切断ノウハウでR＆D小ロットから量産まで対応します",
+    "url": "https://www.yoneyama.co.jp/product/silicone_sponge_rubber/",
+    "pass": 1
+   },
+   {
+    "quote": "切断ノウハウでR＆D小ロットから量産まで対応します",
+    "url": "https://www.yoneyama.co.jp/product/crystallized_glass/",
+    "pass": 1
+   },
+   {
+    "quote": "切断ノウハウでR＆D小ロットから量産まで対応します",
+    "url": "https://www.yoneyama.co.jp/product/cfrp_aluminum/",
+    "pass": 1
+   },
+   {
+    "quote": "切断ノウハウでR＆D小ロットから量産まで対応します",
+    "url": "https://www.yoneyama.co.jp/company/messege/",
+    "pass": 1
+   },
+   {
+    "quote": "切断ノウハウでR＆D小ロットから量産まで対応します",
+    "url": "https://www.yoneyama.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "切断ノウハウでR＆D小ロットから量産まで対応します",
+    "url": "https://www.yoneyama.co.jp/company/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "関東製作所グループは、プラスチック製品の試作・小ロット生産まで、幅広いご要望にお応えできる体制を整えております",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、試作・小ロット生産に最適な『簡易金型』の内製対応により、初期コストを抑えつつ短納期での対応も可能です",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、長年小ロット生産に従事することで『金型の改修を低減させる』メソッドを独自に展開しています",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、1個～数十個程度の小ロットには、『金型を使用しない工法』として、切削加工・3Dプリンター・真空注型などを取り扱っています",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様の製品仕様や用途、数量などに応じて、最適な試作・小ロット工法をご提案いたします",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "樹脂製品の形状検討、試作トライから量産、製品保証まで一貫対応",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "弊社最大の強みは、『製品検討』『金型設計・製作』『試作トライ』『量産への移管』『製品保証』まで、すべて",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "弊社が射出成形での小ロット生産が得意な理由",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "小ロット成形が対応可能な理由は、金型製作の過程でトライ（試し打ち）を頻繁に実施しているため、",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "> プラスチック製品の小ロット工法の解説資料を無料ダウンロード",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "また現物しかない試作・小ロット依頼にも、高性能な三次元測定機でスキャンを行い、『",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "金型の使用・不使用問わず多様な試作・小ロット生産に対応",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "』などの試作・小ロット工法を取り扱っており、お客様のご要望に応じて最適な工法をご提案いたします",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "形状確認など、試作用としての用途を推奨",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "金型を使用しない小ロット工法②：3Dプリンター",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "> 試作工法の代表格『3Dプリンター』",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "で試作品を作りたい場合や、",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "> 金型を使わない小ロット工法『切削加工』",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "量産品に最も近い樹脂素材が使え、特に試作工法として最適です",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "個程度の小ロット生産だった場合、真空注型による製作が適しているかもしれません",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "特に小ロット生産においては、100～",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "お客様それぞれにとって最も最適な小ロット工法はどれなのかを、丁寧に慎重に導き出します",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "自社開発設計によるプラスチックを素材とした安価で高品質な製品をオーダーメイドで製作いたします",
+    "url": "https://mono.ipros.com/company/detail/2069242/category/",
+    "pass": 3
+   },
+   {
+    "quote": "企画・設計から試作までご希望に沿った作製を実現、金型を保管するための",
+    "url": "https://mono.ipros.com/company/detail/2069242/category/",
+    "pass": 3
+   },
+   {
+    "quote": "独自の社内データベースにより高品質・小ロット・短納期を実現し、ISO14001認証も取得",
+    "url": "https://mono.ipros.com/company/detail/2009064/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "工業、医療、建設、研究機関など顧客数は約700社",
+    "url": "https://www.yoneyama.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車内装材のトリミングや紙おむつの切断にも高圧ハイドロタイプが使用されております",
+    "url": "https://www.yoneyama.co.jp/category/processing/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車、航空宇宙、電子機器などの製造において、精密な部品の製造や形状加工に広く利用されています",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車産業では、ウォータージェット加工が内装材から金属パネルまで幅広い部品に活用されています",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "結果として、高効率な生産と高い製品クオリティの両立が実現し、自動車部品メーカーの工程改善や軽量化ニーズにも応えられる技術として注目されています",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "航空機や宇宙関連の部品では、軽量かつ高強度な素材（チタン合金や複合材など）の精密加工が欠かせません",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "特にジェットエンジンやロケット関連部品は厳密な精度管理が求められます",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "こうした特長が、航空・宇宙・防衛分野での採用を後押ししています",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "医療分野でのウォータージェット加工は、インプラントや人工関節、医療用フィルムなどの製造に活用されています",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "インプラントなど体内に埋め込む部品は高い安全性が求められるため、材料特性を変えないウォータージェットのメリットは大きいです",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "こうした理由から、医療機器の高品質化に欠かせない加工技術の一つとして注目されています",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "米山製作所の6号機は、噴射口の高さが300mmあり、治具や下敷きを考慮すると約290mmまでの厚さのカットが可能です",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "業種：航空 / 宇宙 / 自動車 / 重工業 / プラント / 交通インフラ / 社会インフラ / 各種装置 / 半導体 / 発電関連 / エネルギーインフラ / 液晶 / 防衛・警備 / 医療 / 音響 / 建築 / デザイン / 運搬 / 建築素材 / 建設など",
+    "url": "https://www.yoneyama.co.jp/solution/",
+    "pass": 1
+   },
+   {
+    "quote": "業種：航空 / 宇宙 / 自動車 / 重工業 / プラント / 交通インフラ / 社会インフラ / 各種装置 / エネルギーインフラ / 液晶 / 防衛・警備 / 建築 / デザイン / 建築素材 / 建設など",
+    "url": "https://www.yoneyama.co.jp/solution/",
+    "pass": 1
+   },
+   {
+    "quote": "昭和５０年に先代が自宅の軒先を改築しプリント基板用金型の設計、製作を開始し「米山製作所」が創業しました",
+    "url": "https://www.yoneyama.co.jp/company/messege/",
+    "pass": 1
+   },
+   {
+    "quote": "米山堅持が個人事業としてプリント基板用金型加工を開始",
+    "url": "https://www.yoneyama.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "金型を使用しない低コスト工法にも精通しています",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "射出成形においては、成形工場内に金型設備も設けており、『金型調整～成形トライ』を迅速に対応できます",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "さらに、試作・小ロット生産に最適な『簡易金型』の内製対応により、初期コストを抑えつつ短納期での対応も可能です",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、長年小ロット生産に従事することで『金型の改修を低減させる』メソッドを独自に展開しています",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、1個～数十個程度の小ロットには、『金型を使用しない工法』として、切削加工・3Dプリンター・真空注型などを取り扱っています",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "弊社最大の強みは、『製品検討』『金型設計・製作』『試作トライ』『量産への移管』『製品保証』まで、すべて",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "工場内で成形機械の隣に金型製造現場を配置しているため『",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "弊社は金型製作と成形の両方を行っているメーカーです",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "小ロット成形が対応可能な理由は、金型製作の過程でトライ（試し打ち）を頻繁に実施しているため、",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "を超えるお問い合わせがあり、様々なプラスチック加工に対応するため、射出成形をはじめとする金型を使用した工法はもちろん、切削加工・3Dプリンターなどの金型を使わない工法にも精通しています",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "金型の使用・不使用問わず多様な試作・小ロット生産に対応",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "㈱関東製作所では金型を使用した工法・使用しない工法の両方に対応いたします",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "簡易ながらも射出成形用金型であり、量産型に比べてコスト削減と納期短縮が可能",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "金型製作を『最短2週間』、『最安60万円』で対応",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "は、金型のモールドベースを共通化したカセット式金型を採用しています",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "また、弊社は自動車関連の内外装部品において、金型製作・成形の豊富な実績を有しており、高品質な成形にも対応可能です",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "【射出成形ラボの簡易金型サービスはこちらより】",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "> 最短納期を2週間で！180ton射出成形機用の簡易金型を、60万からご提供いたします",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "同じ型でも金属を使わず削る必要もないため、金型よりも圧倒的にイニシャルコストは安いです",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "> 金型を作らずシリコンの型を使い成形する『真空注型』",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "金型を使用しない小ロット工法②：3Dプリンター",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "> 金型を使わない小ロット工法『切削加工』",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "しかし、同じ製品のリピート発注が継続的に見込まれるような場合には、初期段階から簡易金型で対応した方が、トータルでのコスト削減につながる可能性もあります",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "射出成形機は大型1,800tから180tまで！金型の設計・製作から成形後加工まで一貫対応可能な環境を取り揃えています",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "【自動車部品から医療機器部品など幅広く対応！】プラスチック成形",
+    "url": "https://mono.ipros.com/company/detail/2069242/category/",
+    "pass": 3
+   },
+   {
+    "quote": "当社では、自動車部品分野に関して、自社開発設計によるプラスチックを",
+    "url": "https://mono.ipros.com/company/detail/2069242/category/",
+    "pass": 3
+   },
+   {
+    "quote": "企画・設計から試作までご希望に沿った作製を実現、金型を保管するための",
+    "url": "https://mono.ipros.com/company/detail/2069242/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■金型製作、設計",
+    "url": "https://mono.ipros.com/company/detail/2069242/category/",
+    "pass": 3
+   },
+   {
+    "quote": "スムーズな生産体制を実現！当社が保有する金型保管倉庫をご紹介",
+    "url": "https://mono.ipros.com/company/detail/2069242/category/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社米山製作所の金型保管倉庫をご紹介いたします",
+    "url": "https://mono.ipros.com/company/detail/2069242/category/",
+    "pass": 3
+   },
+   {
+    "quote": "御殿場市神山の金型および製品保管倉庫のほか、",
+    "url": "https://mono.ipros.com/company/detail/2069242/category/",
+    "pass": 3
+   },
+   {
+    "quote": "長泉町納米里にある金型および原料保管倉庫がございます",
+    "url": "https://mono.ipros.com/company/detail/2069242/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■長泉町納米里にある金型および原料保管倉庫",
+    "url": "https://mono.ipros.com/company/detail/2069242/category/",
+    "pass": 3
+   },
+   {
+    "quote": "クリーンルーム内で自動車部品を製造しています",
+    "url": "https://mono.ipros.com/company/detail/2069242/category/",
+    "pass": 3
+   },
+   {
+    "quote": "また、金型温度調節機、温風乾燥機、低速粉砕機、配合装置（混合器）、",
+    "url": "https://mono.ipros.com/company/detail/2069242/category/",
+    "pass": 3
+   },
+   {
+    "quote": "5台クリーンルームを設置！取出ロボット、取出機など様々な設備を保有",
+    "url": "https://mono.ipros.com/company/detail/2069242/category/",
+    "pass": 3
+   },
+   {
+    "quote": "8台の射出成形機のほか、金型温度調節機をはじめ、温風乾燥機、",
+    "url": "https://mono.ipros.com/company/detail/2069242/category/",
+    "pass": 3
+   },
+   {
+    "quote": "主に医療機器部品の製造と検査を実施しています",
+    "url": "https://mono.ipros.com/company/detail/2069242/category/",
+    "pass": 3
+   },
+   {
+    "quote": "6軸ロボット・金型倉庫リフトなど！米山製作所本社工場の保有設備をご紹介！",
+    "url": "https://mono.ipros.com/company/detail/2069242/category/",
+    "pass": 3
+   },
+   {
+    "quote": "また、取出ロボット、取出機、金型温度調節機など",
+    "url": "https://mono.ipros.com/company/detail/2069242/category/",
+    "pass": 3
+   },
+   {
+    "quote": "耐薬品性あり！当社で取り扱う、硬質素材の自動車部品をご紹介",
+    "url": "https://mono.ipros.com/company/detail/2069242/category/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車の燃料パイプに付けるクランプで、耐薬品性があります",
+    "url": "https://mono.ipros.com/company/detail/2069242/category/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車のブレーキパイプを留めて車両床下で固定する製品をご紹介！",
+    "url": "https://mono.ipros.com/company/detail/2069242/category/",
+    "pass": 3
+   },
+   {
+    "quote": "■自動車のブレーキパイプを留めて車両床下で固定",
+    "url": "https://mono.ipros.com/company/detail/2069242/category/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "道路、橋、ビルの建設でのコンクリートやアスファルトの切断、精密な造形、または古い構造物の解体にも利用されます",
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "pass": 1
+   },
+   {
+    "quote": "□TAMA地域の製造業の連携力を最大限に引き出す",
+    "url": "https://www.yoneyama.co.jp/company/messege/",
+    "pass": 1
+   },
+   {
+    "quote": "代表取締役 米山俊臣 (Toshiomi Yoneyama)",
+    "url": "https://www.yoneyama.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "URL : https://www.yoneyama.co.jp/",
+    "url": "https://www.yoneyama.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "E-mail : wj@yoneyama.co.jp",
+    "url": "https://www.yoneyama.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "また、1個～数十個程度の小ロットには、『金型を使用しない工法』として、切削加工・3Dプリンター・真空注型などを取り扱っています",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "を超えるお問い合わせがあり、様々なプラスチック加工に対応するため、射出成形をはじめとする金型を使用した工法はもちろん、切削加工・3Dプリンターなどの金型を使わない工法にも精通しています",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "3Dプリンター",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "金型を使用しない小ロット工法②：3Dプリンター",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "複雑形状も一体造形できる、スピード重視の工法",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "で提供でき、他の工法では作れないような形状も造形できることがあります",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "[3Dプリンター]に関して詳しい紹介は以下よりご覧ください",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "> 試作工法の代表格『3Dプリンター』",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   },
+   {
+    "quote": "主な造形方法の特徴と『3Dプリンターが最も有効なケース』をご提案",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "E-mail : wj@yoneyama.co.jp",
+    "url": "https://www.yoneyama.co.jp/company/overview/",
+    "pass": 1
+   },
+   {
+    "quote": "を超えるお問い合わせがあり、様々なプラスチック加工に対応するため、射出成形をはじめとする金型を使用した工法はもちろん、切削加工・3Dプリンターなどの金型を使わない工法にも精通しています",
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.yoneyama.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoneyama.co.jp/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoneyama.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoneyama.co.jp/category/processing/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoneyama.co.jp/feature/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoneyama.co.jp/solution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoneyama.co.jp/product/quartz_glass/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoneyama.co.jp/product/porcelaintile10mm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoneyama.co.jp/product/csoexh/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoneyama.co.jp/product/gala_epoxy_resin/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoneyama.co.jp/product/laminate_aluminium_gala-epoxy_cfrp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoneyama.co.jp/product/plywood12mm/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoneyama.co.jp/product/designcutexh/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoneyama.co.jp/product/metalexh/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoneyama.co.jp/product/cfrpexh/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoneyama.co.jp/product/aluminum/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoneyama.co.jp/product/urethane/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoneyama.co.jp/product/cfrp_reinforced_plastic/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoneyama.co.jp/product/diamond_wheel/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoneyama.co.jp/product/aluminum_a5052/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoneyama.co.jp/product/silicone_sponge_rubber/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoneyama.co.jp/product/crystallized_glass/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoneyama.co.jp/product/cfrp_aluminum/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoneyama.co.jp/company/messege/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoneyama.co.jp/company/overview/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoneyama.co.jp/company/equipment/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.yoneyama.co.jp/wp191015/wp-content/uploads/2019/11/s-hisashi-03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.yoneyama.co.jp/wp191015/wp-content/uploads/2024/03/grr0hzdi.bmp",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.yoneyama.co.jp/wp191015/wp-content/themes/pc/images/main_right.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2069242/category/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2009064/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoneyama-ss.com/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yoneyama-ss.com/contact.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2009064/",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "米山製作所 本社/工場 取扱製品 試作 小ロット",
+   "results": [
+    "https://injection-lab.com/technology/64-2.html",
+    "https://www.yoneyama.co.jp/",
+    "https://mono.ipros.com/company/detail/2069242/category/",
+    "https://growth-100-oku.smrj.go.jp/companies/pdf/02157-00.pdf",
+    "https://www.yoneyama-ss.com/setsubi.html",
+    "https://www.mizuho-phantom.com/member/yoneyama/",
+    "https://mfg-hack.com/plastic/1924/",
+    "https://eigyo-mfg.com/service/navi/company/OOz58TPvIT0a",
+    "https://www.youtube.com/watch?v=hUn4tT9VgWU",
+    "https://www.yoneyama.co.jp/company/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "米山製作所 本社/工場 会社概要 事業内容",
+   "results": [
+    "https://www.yoneyama.co.jp/company/overview/",
+    "https://mono.ipros.com/company/detail/2009064/",
+    "https://www.yoneyama-ss.com/company.html",
+    "https://tenshoku.mynavi.jp/company/407534/",
+    "https://growth-100-oku.smrj.go.jp/companies/pdf/02157-00.pdf",
+    "https://arwrk.net/recruit/i9q1g28gmv2b3mu/",
+    "https://eigyo-mfg.com/service/navi/company/OOz58TPvIT0a",
+    "https://www.bizreach.jp/companies/29054/",
+    "https://www.kaisyahakken.metro.tokyo.lg.jp/old/kigyou/yoneyama/",
+    "http://www.yoneyama-ss.com/company.html"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "米山製作所 本社/工場 お問い合わせ メール",
+   "results": [
+    "https://www.yoneyama.co.jp/inquiry/",
+    "https://www.yoneyama-ss.com/contact.html",
+    "https://mono.ipros.com/company/detail/2009064/",
+    "https://www.yoneyama-waterjet.com/",
+    "https://oshigotonote-book-shizuoka.co.jp/content/wp-content/uploads/2026/09/P42-43-1.pdf",
+    "https://eigyo-mfg.com/service/navi/company/OOz58TPvIT0a",
+    "https://www.yoneyama.co.jp/company/overview/",
+    "https://ja.nc-net.or.jp/company/79478/inquiry/input/",
+    "https://www.yoneyama-ss.com/company.html",
+    "https://www.yoneyama.co.jp/thanks/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com 米山製作所 本社/工場",
+   "results": [
+    "https://note.com/wakulabo_/n/n30df0d103bdb",
+    "https://note.com/wakulabo_/n/n085b650231e9",
+    "https://note.com/3n7no_tech_pr/n/n44bb8aab49c6",
+    "https://note.com/cotaeru/n/n6a76d9adce82",
+    "https://note.com/boozerjp/n/ne361ef54d33d",
+    "https://note.com/yamaguchi_numazu/n/n1298a2268902",
+    "https://note.com/keimaruir/n/n2d8e423b5174",
+    "https://note.com/tag/%E7%94%A3%E5%AD%A6%E9%80%A3%E6%90%BA",
+    "https://note.com/780210/n/n11befc7695ed",
+    "https://note.com/sanjo_u/n/n38684ca6dce4"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com 米山製作所 本社/工場",
+   "results": [
+    "https://x.com/yone_kanagata",
+    "https://x.com/kekke_man",
+    "https://x.com/sportsShinpou",
+    "https://x.com/lunefh",
+    "https://x.com/keimako_ouen",
+    "https://x.com/toytown333",
+    "https://x.com/rin_earth/status/2113348293334069409?utm_source=yjrealtime&utm_medium=search",
+    "https://x.com/JzZ5cF",
+    "https://x.com/nyyanya",
+    "https://x.com/kaori_yoneyama"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com 米山製作所 本社/工場",
+   "results": [
+    "https://jp.linkedin.com/in/takamitsuyoneyama",
+    "https://jp.linkedin.com/in/kaoruko-h-b54687160",
+    "https://www.linkedin.com/pub/dir/%E8%8B%B1%E5%BD%A6/+",
+    "https://jp.linkedin.com/in/takayuki-fujiwara-xr",
+    "https://jp.linkedin.com/in/sumire-yoshihara-565013381",
+    "https://jp.linkedin.com/in/%E9%9D%99%E9%A6%99-%E5%B0%8F%E9%87%8E-095819193",
+    "https://jp.linkedin.com/in/yusuke-kohinata-98811b269",
+    "https://jp.linkedin.com/in/yamamura-naoki-7b48b8287",
+    "https://jp.linkedin.com/in/kunxian-cao-932a06146/ja",
+    "https://jp.linkedin.com/in/yugo-konishi-a875459a"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com 米山製作所 本社/工場",
+   "results": [
+    "https://www.facebook.com/woodbell.industry/posts/%E5%85%A8%E6%97%A5%E6%9C%AC%E6%A8%A1%E5%9E%8B%E3%83%9B%E3%83%93%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%BC%E3%81%8C%E5%A7%8B%E3%81%BE%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E6%9C%AC%E6%97%A5%E3%81%AF%E6%A5%AD%E8%80%85%E6%8B%9B%E5%BE%85%E6%97%A5%E3%81%A7%E3%81%99%E3%83%99%E3%83%AB%E3%83%95%E3%82%A1%E3%82%A4%E3%83%B3%E3%83%96%E3%83%BC%E3%82%B9%E5%86%85%E3%81%A7%E3%81%AF3%E5%88%86%E3%81%A7%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6%E3%83%97%E3%83%A9%E3%83%A2%E3%83%87%E3%83%AB%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%BE%E3%81%A7%E3%82%92%E5%B1%95%E7%A4%BA%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E6%99%AE%E6%AE%B5%E3%81%AA%E3%81%8B%E3%81%AA%E3%81%8B%E8%A6%8B%E3%82%8B%E6%A9%9F%E4%BC%9A%E3%81%AE%E3%81%AA%E3%81%84%E9%87%91/1587794073366891/",
+    "https://www.facebook.com/woodbell.industry/posts/%E6%A1%9C%E3%81%95%E3%81%8F%E3%82%89%E3%82%B5%E3%82%AF%E3%83%A9%E6%9E%9D%E5%9E%82%E6%A1%9C%E3%81%81%E3%81%8C%E6%BA%80%E9%96%8B%E3%81%A7%E3%81%99/3893234247431111/",
+    "https://www.facebook.com/people/%E7%B1%B3%E5%B1%B1%E9%87%91%E5%9E%8B%E8%A3%BD%E4%BD%9C%E6%89%80y-mold/100054287450603/?locale=ja_JP",
+    "https://www.facebook.com/61591618808703/videos/%E4%BB%8A%E5%9B%9E%E3%81%AF%E5%BD%93%E7%A4%BE%E3%81%AE%E7%94%9F%E7%94%A3%E3%83%81%E3%83%BC%E3%83%A0fe%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E4%B8%80%E6%97%A5%E3%81%AB%E5%AF%86%E7%9D%80%E5%AE%9F%E9%9A%9B%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B%E3%81%AF%E5%90%84%E5%9C%B0%E3%81%AE%E7%8F%BE%E5%A0%B4%E3%81%A7%E6%8D%AE%E4%BB%98%E3%81%8C%E3%83%A1%E3%82%A4%E3%83%B3%E3%81%A7%E3%81%99%E3%81%8C%E4%BB%8A%E5%9B%9E%E3%81%AF%E6%9C%AC%E7%A4%BE%E5%B7%A5%E5%A0%B4%E3%81%A7%E3%81%AE%E4%BD%9C%E6%A5%AD%E9%A2%A8%E6%99%AF%E3%82%92%E6%92%AE%E5%BD%B1fe%E3%81%AE%E4%BB%95%E4%BA%8B%E3%81%A7%E4%BD%95%E3%82%88%E3%82%8A%E5%84%AA%E5%85%88%E3%81%95%E3%82%8C/2188459262019976/",
+    "https://www.facebook.com/100057203658976/posts/%E5%BF%B5%E9%A1%98%E3%81%AEglasstec2026-%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E3%83%8F%E3%83%B3%E3%83%89%E3%83%AF%E3%83%BC%E3%82%AF%E3%81%AF%E3%81%82%E3%81%BE%E3%82%8A%E3%81%AA%E3%81%8F%E3%81%A6%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8%E6%AE%8B%E5%BF%B5%E3%81%A7%E3%81%97%E3%81%9F%E3%81%8C%E3%81%95%E3%81%99%E3%81%8C%E6%9C%80%E5%A4%A7%E3%81%AE%E3%82%AC%E3%83%A9%E3%82%B9%E5%B1%95%E7%A4%BA%E4%BC%9A%E3%81%A8%E3%81%AB%E3%81%8B%E3%81%8F%E5%BA%83%E3%81%8F%E3%81%A6%E8%A6%8B%E5%BF%9C%E3%81%88%E3%81%82%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E6%AC%A1%E3%81%AF2%E5%B9%B4%E5%BE%8C%E3%81%A7%E3%81%99/1663505945566178/",
+    "https://www.facebook.com/100057203658976/posts/3%E6%9C%8867%E6%97%A5%E6%9D%B1%E4%BA%AC%E9%AB%98%E5%B0%82%E3%81%A7%E9%96%8B%E5%82%AC%E3%81%95%E3%82%8C%E3%81%9F%E7%A4%BE%E4%BC%9A%E5%AE%9F%E8%A3%85%E6%95%99%E8%82%B2%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F/1456435132939928/",
+    "https://www.facebook.com/mizuhofactory/",
+    "https://www.facebook.com/100057203658976/posts/%E8%8B%A5%E6%89%8B%E3%81%AE%E3%82%AC%E3%83%A9%E3%82%B9%E5%8A%A0%E5%B7%A5%E5%8B%89%E5%BC%B7%E4%BC%9A%E7%AC%AC%E5%BC%BE%E5%BD%93%E5%88%9D%E3%82%88%E3%82%8A%E8%8B%A5%E6%89%8B%E3%81%A8%E3%82%AC%E3%83%A9%E3%82%B9%E3%81%AE%E8%B7%9D%E9%9B%A2%E3%81%8C%E7%B8%AE%E3%81%BE%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E6%80%9D%E3%81%88%E3%81%BE%E3%81%99%E5%B9%B3%E5%B0%81%E3%81%98%E3%82%92%E8%A1%8C%E3%81%86%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E3%81%8C%E5%A2%97%E3%81%88%E6%A5%BD%E3%81%97%E3%81%9D%E3%81%86%E3%81%AB%E3%81%8A%E3%81%93%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%82%8F%E3%81%9F%E3%81%97%E3%81%AF%E7%9B%B8%E5%A4%89%E3%82%8F%E3%82%89%E3%81%9A%E5%9F%BA%E7%A4%8E%E3%82%92%E5%BC%95%E3%81%8D/991867016063411/?locale=pt_PT",
+    "https://www.facebook.com/nirasakiopenfactory/videos/%E5%A4%8F%E4%BC%91%E3%81%BF%E3%81%AF%E3%83%8B%E3%83%A9%E3%82%B5%E3%82%AD%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC2025%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%82%88%E3%81%86%EF%B8%8E%E6%98%A8%E5%B9%B4%E3%82%82%E5%A4%A7%E5%A5%BD%E8%A9%95%E3%81%A0%E3%81%A3%E3%81%9F%E5%B7%A5%E5%A0%B4%E8%A6%8B%E5%AD%A6%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%82%92%E4%BB%8A%E5%B9%B4%E3%82%82%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%99%E3%83%8B%E3%83%A9%E3%82%B5%E3%82%AD%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%81%AF%E6%99%AE%E6%AE%B5%E3%81%AA%E3%81%8B%E3%81%AA%E3%81%8B%E5%85%A5%E3%82%8B%E3%81%93%E3%81%A8/749446764421742/",
+    "https://www.facebook.com/hair.chezmoi/posts/%E8%A5%9F%E8%B6%B3%E3%82%92%E3%82%B9%E3%83%83%E3%82%AD%E3%83%AA%E3%81%95%E3%81%9B%E3%81%9F%E5%89%8D%E4%B8%8B%E3%81%8C%E3%82%8A%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%83%9C%E3%83%96_%E6%9A%91%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F%E3%81%93%E3%81%AE%E9%A0%83%E3%81%A1%E3%82%87%E3%81%86%E3%81%A9%E3%82%88%E3%81%95%E3%81%9D%E3%81%86%E3%81%A7%E3%81%99%E6%A2%85%E9%9B%A8%E6%99%82%E5%89%8D%E3%81%AB%E3%82%B5%E3%83%83%E3%83%91%E3%83%AA%E3%81%95%E3%82%8C%E3%81%9F%E3%81%84%E6%96%B9%E3%81%B8%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%81%A7%E3%81%99%E5%89%8D%E4%B8%8B%E3%81%8C%E3%82%8A%E3%83%9C%E3%83%96-%E7%BE%8E%E5%AE%B9%E5%AE%A4%E7%91%9E%E7%A9%82%E7%94%BA%E6%AD%A6%E8%94%B5%E6%9D%91%E5%B1%B1%E7%BE%8E/4785309941574066/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 17
+  },
+  {
+   "query": "米山製作所 本社/工場 note 社長",
+   "results": [
+    "https://www.yoneyama-ss.com/new.html",
+    "https://oshigotonote-book-shizuoka.co.jp/content/wp-content/uploads/2026/09/P42-43-1.pdf",
+    "https://www.yoneyama.co.jp/company/overview/",
+    "https://www.muratec.jp/fs/cases/gmics_yoneyama/",
+    "https://www.nikkan.co.jp/articles/view/766342",
+    "https://mono.ipros.com/company/detail/2009064/",
+    "https://www.yoneyama-ss.com/topic?id=1&_anch_=8",
+    "https://x.com/Nikkan_BizLine/status/1948014308765372898",
+    "https://note.com/cotaeru/n/n6a76d9adce82"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "米山製作所 本社/工場 X 投稿",
+   "results": [
+    "https://www.yoneyama.co.jp/company/overview/",
+    "https://www.yoneyama-ss.com/topic?id=1&_anch_=8",
+    "https://growth-100-oku.smrj.go.jp/companies/pdf/02157-00.pdf",
+    "https://mono.ipros.com/company/detail/2009064/",
+    "https://oshigotonote-book-shizuoka.co.jp/content/wp-content/uploads/2026/09/P42-43-1.pdf",
+    "https://x.com/Hitachi_Japan",
+    "https://www.muratec.jp/fs/news/20251110/",
+    "https://www.yoneyama-ss.com/new.html",
+    "https://www.yoneyama.co.jp/company/",
+    "https://www.yoneyama.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式26頁／PDF・画像3件／外部6頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式26頁／PDF・画像3件／外部6頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式26頁／PDF・画像3件／外部6頁・検索9回）"
+ }
+}

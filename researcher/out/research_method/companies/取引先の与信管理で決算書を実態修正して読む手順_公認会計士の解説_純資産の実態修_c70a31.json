@@ -8,8 +8,406 @@
  ],
  "context": "手法・企業調査",
  "kind": "market",
- "researched_at": "2026-11-09T12:22:59.258263+00:00",
+ "researched_at": "2026-11-11T10:50:14.074268+00:00",
  "evidence": {
+  "一次情報の探し方": [
+   {
+    "quote": "”与信限度額”はどうやって見直す？！”決算書の読み方”についての基礎知識",
+    "url": "https://www.daiwast.co.jp/blog/how-to-read-financial-statements",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "3月は多くの企業の年次決算の時期です",
+    "url": "https://www.daiwast.co.jp/blog/how-to-read-financial-statements",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "取引先の”決算書”を確認して”与信限度額”を見直しを実施する方もいら",
+    "url": "https://www.daiwast.co.jp/blog/how-to-read-financial-statements",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "しかし、決算書に含まれる\"損益計算書\"や\"貸借対照表\"などには、数字が並んでいるので「",
+    "url": "https://www.daiwast.co.jp/blog/how-to-read-financial-statements",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "仮設資材販売店や鋼材販売店で営業を担当している方々に向けて、われわれなりの”決算",
+    "url": "https://www.daiwast.co.jp/blog/how-to-read-financial-statements",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "先ずは、”決算書”を読む”目的”を明確にする",
+    "url": "https://www.daiwast.co.jp/blog/how-to-read-financial-statements",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "”決算書”を読む場合には、まず”目的”を明確にする事が重要です",
+    "url": "https://www.daiwast.co.jp/blog/how-to-read-financial-statements",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "今回は、「与信限度額を見直しを実施する」という”目的”を設定していますので、過去の”決算書”との比較を行う事で、”与信限度額”を検討する事ができます",
+    "url": "https://www.daiwast.co.jp/blog/how-to-read-financial-statements",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "しかし、「新しく取引を始める為に、与信限度額を新たに設定する」という”目的”で”決算書”を読む場合には、該当する会社の”決算書”ではなく、業種や会社規模の近い会社の”決算書”や”与信限度額”と比較しながら考える事が必要になります",
+    "url": "https://www.daiwast.co.jp/blog/how-to-read-financial-statements",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "つまり”決算書”を読む目的によって、準備する資料の”質”や”量”が異なる事に、注意が必要になる訳です",
+    "url": "https://www.daiwast.co.jp/blog/how-to-read-financial-statements",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "”決算書”を読む時に重要な3つの分析",
+    "url": "https://www.daiwast.co.jp/blog/how-to-read-financial-statements",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "「与信限度額を見直しを実施する」際に重要となる、”決算書”を読む上で3つの分析をご紹介します",
+    "url": "https://www.daiwast.co.jp/blog/how-to-read-financial-statements",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "”与信限度額”を見直す場合には、”決算書”で得られる定量的な情報も重要ですが、お客さまの特徴や日々の営業活動で得られる定性的な情報や自身の営業活動の方針も重要です",
+    "url": "https://www.daiwast.co.jp/blog/how-to-read-financial-statements",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "特に、”決算書”に記載されている数値の背景などは、お客さまへヒアリングしてその理由や一過性のものなのか正しく判断しておく必要があります",
+    "url": "https://www.daiwast.co.jp/blog/how-to-read-financial-statements",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "仮設資材販売店や鋼材販売店で営業を担当している皆さんに向けて、決算",
+    "url": "https://www.daiwast.co.jp/blog/how-to-read-financial-statements",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "年間100社以上の法人決算・会社設立・税務調査対応を支援",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "営業担当者の訪問確認、決算書の入手（取引先に依頼）、業界内のヒアリングなど、自社で実施する調査です",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "法人番号公表サイト（国税庁）・官報決算公告・登記情報・自社HP・口コミなどの無料公開情報を活用します",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "決算書の評価では、簿価だけでなく実態修正が重要です",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "3基準の最小値採用",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "→ 最小値の400万円を採用（最も保守的）",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "2期連続の赤字または直近決算で大幅赤字",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "公認会計士・税理士の代表が、記帳代行から決算・税務申告まで一括で直接対応します",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "取引先の倒産情報は、信用調査会社（TDB・TSR）・官報・業界ネットワークから入手できます",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "決算書の入手（年1回）が基本です",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "上場企業なら決算短信、非上場でも主要取引先として決算書提出を依頼できる関係なら依頼します",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "入手が難しい場合は官報決算公告・信用調査会社のデータベース・現地訪問観察で代替します",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "決算時には法人税の貸倒損失と消費税の税額調整をセットで確認してください",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "与信限度額は3つの算出式（純資産基準・売上基準・回収サイト基準）の最小値採用が保守的",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "記帳代行から決算・税務申告まで、売上規模だけで決まる年間総額のみの明朗会計で一括してお任せいただけます",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "取引先の月商は決算書・帝国データバンクや東京商工リサーチのレポート・過去の取引実績から積算します",
+    "url": "https://catalog.monex.co.jp/article/?p=49812",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "② 取引先の情報収集（財務諸表・商業登記簿・信用調査会社レポート）",
+    "url": "https://catalog.monex.co.jp/article/?p=49812",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "上場企業なら有価証券報告書、未上場企業なら決算書の開示依頼・商業登記簿・帝国データバンクや東京商工リサーチのレポートが主な情報源です",
+    "url": "https://catalog.monex.co.jp/article/?p=49812",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "決算書は原則として直近2〜3期分を取得し、単年度の特殊要因（大型受注・災害等）に振り回されない判断ができる材料を揃えます",
+    "url": "https://catalog.monex.co.jp/article/?p=49812",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "定量評価は決算書から流動比率・自己資本比率・売上高経常利益率・売上高成長率などを取得して総合スコアを算出し、定性評価は経営者の経歴・業界動向・過去の取引実績で補正します",
+    "url": "https://catalog.monex.co.jp/article/?p=49812",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "：A社の直近2期分の決算書を開示依頼で取得、あわせて東京商工リサーチのTSR REPORTを取り寄せ、支払遅延・訴訟の記録が無いことを確認",
+    "url": "https://catalog.monex.co.jp/article/?p=49812",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "単年度決算だけで判断せず3期比較を推奨",
+    "url": "https://catalog.monex.co.jp/article/?p=49812",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "業種横断の慣行として、いずれの業種でも「決算書2〜3期分＋商業登記簿＋信用調査レポート」の3点セットを情報収集の基本に置いておくと、稟議書の説明で「情報収集が甘い」という指摘を受けにくくなります",
+    "url": "https://catalog.monex.co.jp/article/?p=49812",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "① 年1回の定期見直し（決算期を基準にする）",
+    "url": "https://catalog.monex.co.jp/article/?p=49812",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "取引先の決算期を基準にすると、決算書の入手→格付け見直し→限度額再計算の流れが自然に組み立てられます",
+    "url": "https://catalog.monex.co.jp/article/?p=49812",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "取引先が3月決算なら、決算書の開示・確定を待って6〜7月に情報収集し、8〜9月に見直しを完了するのが実務では一般的です",
+    "url": "https://catalog.monex.co.jp/article/?p=49812",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "取引先の与信リスクが高めのランク（DランクやEランク）に付けている相手は、年1回では変化を捉えきれないため、3〜6ヶ月に一度の頻度で見直す運用も採用されます",
+    "url": "https://catalog.monex.co.jp/article/?p=49812",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "この場合はまず取引先の最新決算書（あるいは月次試算表）を追加取得し、本記事§5-③の社内格付け手順に従って再判定します",
+    "url": "https://catalog.monex.co.jp/article/?p=49812",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "こうした公的な仕組みの利用も含めて、貸倒れ時の影響を最小化する多層構造を組んでおくことが重要です",
+    "url": "https://catalog.monex.co.jp/article/?p=49812",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "新規取引先の情報収集（決算書開示依頼・信用調査レポート取得・格付け判定）",
+    "url": "https://catalog.monex.co.jp/article/?p=49812",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "決算書の実態修正とは？ | 高崎freee専門税理士｜設立・相続まで会計士丸山がナビゲート",
+    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "残念ながら、金融機関はあなたの会社の決算書を信用していないかもしれません",
+    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "その中で、金融機関が融資先の決算書を独自に修正しているケースを何度も目の当たりにしてきたからです",
+    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "なぜ、金融機関は決算書を修正するのでしょうか？",
+    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "それは、融資先の決算書を修正しないと、「実態」が見えないからです",
+    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "これら3つを正確に判断するために、決算書を修正せざろうえないのです",
+    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "というのも、資産性のないものが資産として平気で計上されている決算書があったりするからです",
+    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "特に、修正される決算書は、大企業にくらべて中小企業等の方が多いです",
+    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "(会計監査は、決算書が適正に作成されていることを公認会計士が証明するものですので、決算書が間違っている可能性は低くなります",
+    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "決算書のどういうところが修正されてしまうのか知る事は、金融機関と付き合っていく上で有用なことだと思っています",
+    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "今回は、そんな金融機関が実施している決算書の実態修正についてお話します",
+    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "あなたの会社の決算書も実は修正されているかもしれません",
+    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "金融機関は、融資先の決算書などの情報にもとづき、優良な債務者であるか、問題のある債務者であるかを評価しています",
+    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "金融機関は決算書のココを見る！融資に強い決算書はこれだ！",
+    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "しかし、融資先から入手した決算書を見て、そのまま優劣を評価するわけではありません",
+    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "理想的な与信管理のコツ:統計的なデータ解析による与信限度額の設定",
+    "url": "https://biz.moneyforward.com/accounting/basic/78596/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "法務局で登記簿を閲覧・取得する官公庁調査、取引先の提携銀行や仕入先からリサーチをかける側面調査、コーポレートサイトや情報データベースを活用する検索調査",
+    "url": "https://biz.moneyforward.com/accounting/basic/78596/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "不動産登記簿や法人登記簿の取得では、記載の情報が最新かどうかを精査する必要があります",
+    "url": "https://biz.moneyforward.com/accounting/basic/78596/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "過去数年分の全取引データなどから統計的モデルを導き出して点数化",
+    "url": "https://biz.moneyforward.com/accounting/basic/78596/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "格付ごとの与信限度額を決める際、統計的なデータを活用します",
+    "url": "https://biz.moneyforward.com/accounting/basic/78596/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "取引入力と仕訳の作業時間を削減、中小企業・法人の帳簿作成や決算書を自動化できる会計ソフトならマネーフォワード クラウド会計",
+    "url": "https://biz.moneyforward.com/accounting/basic/78596/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
   "失敗・落とし穴": [
    {
     "quote": "つまり”決算書”を読む目的によって、準備する資料の”質”や”量”が異なる事に、注意が必要になる訳です",
@@ -126,7 +524,431 @@
     "first_seen": "2026-11-08"
    }
   ],
+  "突き合わせ・推定": [
+   {
+    "quote": "白サビの効果的な落とし方！サビ取り消しゴムとクリーナーの検証",
+    "url": "https://www.daiwast.co.jp/blog/how-to-read-financial-statements",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "知らないと損をする\"サイクル試験\"の実力とは？！その目的と鋼管の信頼性を検証する具体的な方法を詳しく解説",
+    "url": "https://www.daiwast.co.jp/blog/how-to-read-financial-statements",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "保守経営や上場基準を意識する中堅〜大手では、自社の許容損失から逆算する",
+    "url": "https://catalog.monex.co.jp/article/?p=49812",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "1つの手法で出した金額を、別の手法の結果と突き合わせて大きくずれていないか確認するのが実務では安全です（例：月商法の結果と月商一割法の結果を比較して、桁がずれていれば根拠を再確認する）",
+    "url": "https://catalog.monex.co.jp/article/?p=49812",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "「入金データと請求データの突き合わせが手作業で追いつかない」「督促や残高管理が特定の担当者に依存している」「請求書の発行・会計・販売管理がばらばらで二重入力が発…",
+    "url": "https://catalog.monex.co.jp/article/?p=49812",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "月商法（月商 × 回収サイト）や売掛債権基準など、資金繰りリスクや自社の許容損失から逆算する手法と結果を突き合わせ、桁がずれていないかを相互チェックする補助的な用途に留めるのが安全です",
+    "url": "https://catalog.monex.co.jp/article/?p=49812",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ante expected creditor losses in the event of default, typically in the form of a point estimate. Our",
+    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "accounting information to estimate the returns they expect from lending (Barth et al. 1998; Kothari",
+    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "conceptually and empirically related to and distinct from estimates of the loss given a default event,",
+    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "likelihood) and (2) if so, what is the “best estimate” of the amount of loss. As discussed later, the former, a binary or",
+    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "yes/no assessment is likely to be less difficult than the latter, a point estimate.",
+    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "an obligation-specific estimate of the amount of creditor loss after a default (loss given default or",
+    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "relative to the least risky issuers. LGD is an obligation-specific point estimate that can be compared",
+    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Spearman (Pearson) correlation between decile-ranked Moody’s PD and LGD estimates for our",
+    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "relative credit risk with AAA the lowest relative credit risk. LGD is an estimate of the loss a creditor could expect on",
+    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "analyzing and estimating LGD which is a point estimate associated with, among other things, debt-",
+    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "balance sheet (asset and liability) information. If accounting information provid es estimates of",
+    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "a specific amount estimated at the instrument level).17",
+    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "on default Moody’s estimates creditors can expect to recover 40% (1-60%) of the amount owed.",
+    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "information for variation in PD and, separately, LGD, we estimate the following equations:",
+    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "and the coefficient estimates are significant at the 0.01 level. The adjusted R2 is 30.6%, statistically",
+    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "複数システムからの請求データをアナログ照合、入金のタイミングがバラバラ、債権管理帳票への記入が手間...など消込関連の業務に手間はかかっていないでしょうか",
+    "url": "https://biz.moneyforward.com/accounting/basic/78596/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
+  "実例": [
+   {
+    "quote": "内部不正による情報漏えいとは？手口・事例と企業が取るべき対策を解説",
+    "url": "https://catalog.monex.co.jp/article/?p=49812",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
+   {
+    "quote": "AWSペネトレーションテストは申請不要？事前承認なしで実施できる範囲と禁止行為・申請が必要なケースを解説",
+    "url": "https://catalog.monex.co.jp/article/?p=49812",
+    "pass": 3,
+    "first_seen": "2026-11-09"
+   },
+   {
+    "quote": "実務では、年間100社以上の中小企業支援を担当してきた経験上、売上規模5億円以下の企業は与信管理規程すら存在しないケースが過半数を占めます",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "調査結果を基に、取引先を5〜7段階で格付けします",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "信用調査の結果を踏まえ、取引先を5〜7段階で格付けします",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "地方消費税も連動して減るため、例えば税込1,100万円の売掛金が全額貸倒れになると、国税・地方消費税を合わせて約100万円の納税負担が減る計算です",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "法人税の貸倒損失だけ計上して消費税側の調整を失念するケースが少なくありません",
+    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "今日Excelを開いて自社ケースの試算を始められる状態にすることが本記事の到達点です",
+    "url": "https://catalog.monex.co.jp/article/?p=49812",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "は、根拠が「1割」の慣行値のみのため単独で稟議に載せると説得力が弱く、他の手法との相互チェック（例：月商法の結果と比較して大きくずれていないか確認する）として使うのが実務では安全です",
+    "url": "https://catalog.monex.co.jp/article/?p=49812",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "数字を自社ケースに書き換えれば、そのままExcelで試算できます",
+    "url": "https://catalog.monex.co.jp/article/?p=49812",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "例えば売掛債権基準で使う格付けウェイトは、Aランク=2.0倍・Bランク=1.5倍・Cランク=1.0倍・Dランク=0.6倍・Fランク=0.2倍のように、Cランクを基準（1.0倍）にした相対値で設計する方式も広く使われています",
+    "url": "https://catalog.monex.co.jp/article/?p=49812",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "1つの手法で出した金額を、別の手法の結果と突き合わせて大きくずれていないか確認するのが実務では安全です（例：月商法の結果と月商一割法の結果を比較して、桁がずれていれば根拠を再確認する）",
+    "url": "https://catalog.monex.co.jp/article/?p=49812",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "契約書に個別の限度額を書き込まないケースが多いため、社内側で「与信管理台帳」に取引先ごとの限度額・格付け・見直し予定日・担当者を登録し、営業と経理が共通の台帳を参照できる状態にします",
+    "url": "https://catalog.monex.co.jp/article/?p=49812",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "想定は「新規取引先A社（卸売業・自社純資産8,000万円）」で、月商法・純資産基準・売掛債権基準を組み合わせるケースです",
+    "url": "https://catalog.monex.co.jp/article/?p=49812",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "取引先の業績が右肩上がりで、取引額の増加が事業拡大の反映であるケースです",
+    "url": "https://catalog.monex.co.jp/article/?p=49812",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "数年前に設定した限度額を放置しており、現状と乖離していたケースです",
+    "url": "https://catalog.monex.co.jp/article/?p=49812",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "月商法（月商 × 回収サイト）や売掛債権基準など、資金繰りリスクや自社の許容損失から逆算する手法と結果を突き合わせ、桁がずれていないかを相互チェックする補助的な用途に留めるのが安全です",
+    "url": "https://catalog.monex.co.jp/article/?p=49812",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "明記する必要はなく、実務でも契約書に個別の限度額を書き込まないケースが大半です",
+    "url": "https://catalog.monex.co.jp/article/?p=49812",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "掲載後は管理画面から料金表や導入事例を随時更新でき、常に最新の情報を訴求可能",
+    "url": "https://catalog.monex.co.jp/article/?p=49812",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "その中で、金融機関が融資先の決算書を独自に修正しているケースを何度も目の当たりにしてきたからです",
+    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "例えば、相手先別の残高内訳書を前期と比較して、同額で計上されているものは、長期回収がなされていないと判断したりします",
+    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "その結果、評価損が生じるようなものは資産から減額します",
+    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "ゴルフ会員権などは、含み損が出ているケースが多いです",
+    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "減価償却費については、法人税法上任意で計上するものであるため、意図的に減価償却費を計上しないで利益をかさ上げするようなケースがあります",
+    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "中小・零細企業においては、税効果会計の適用は強制されていないため、繰延税金資産を計上していないケースは多いと思います",
+    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "applying the purchase method of accounting for business combinations. In section 6.5, we analyze the special case of",
+    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "in the case of the income statement —adjustments for non -cash items inc rease the association",
+    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "not all prior research in the case of the balance sheet —adjustments to remove intangible assets",
+    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "during 2000-2021 intangible assets are reduced in value in fewer than 10% of cases, and in 42%",
+    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "of cases these assets are remeasured upward by 100% or more. As a benchmark, PPE revaluations",
+    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "reduced values in 55% of cases, and upward remeasurements exceeded 100% in 4% of cases. As",
+    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "research, for example, Barth et al. ’s (1998) focus on the balance sheet as a key source of asset -",
+    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "and coordination problems (Healy and Palepu 2001).12 For example, accounting information c an",
+    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "an input to contract design. Instead, we view contract design, for example, subordination status as",
+    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "Obligation-level LGD ranges from 0% to 100%. For example, LGD = 60% means that conditional",
+    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "contracts contain provisions, for example, seniority provisions explicitly intended to affect those",
+    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "prior research suggests adjusted earnings numbers , for example operating income plus",
+    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "assets reduces explanatory power for PD. In the case of LGD, we find adjustments to income",
+    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "of our sample) the borrower continues to operate as a n independent entity. In another 47 cases,",
+    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "(at t he 0.10 level or better) linked to Intangible % in all cases , including notably Chapter 7",
+    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "であり、例えば、製造業であれば、",
+    "url": "https://biz.moneyforward.com/accounting/basic/78596/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "例えば、100万円の売掛債権を回収できなかった場合、他案件の売上を100万円増やせば良いというものではありません",
+    "url": "https://biz.moneyforward.com/accounting/basic/78596/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "経理・人事・経営企画といった企業の基幹業務における具体的なユースケースをご紹介",
+    "url": "https://biz.moneyforward.com/accounting/basic/78596/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "その結果、貸倒れなどのリスク減、コストダウン、目標設定のレベルアップなどが可能になり、利益の最大化が見込めるようになります",
+    "url": "https://biz.moneyforward.com/accounting/basic/78596/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "例えば、与信業務の担当者には情報収集能力や分析能力が求められますが、",
+    "url": "https://biz.moneyforward.com/accounting/basic/78596/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "データの分析結果を基に限度額の上限設定や改善を行うことで、よりリスクの低い与信限度額の設定が可能になります",
+    "url": "https://biz.moneyforward.com/accounting/basic/78596/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   },
+   {
+    "quote": "分析結果により、取引先の全体像が把握でき、効果的な人員配置や経営資源の分配ができるようになります",
+    "url": "https://biz.moneyforward.com/accounting/basic/78596/",
+    "pass": 3,
+    "first_seen": "2026-11-08"
+   }
+  ],
   "手順・やり方": [
+   {
+    "quote": "地番から土地などの場所を探す方法-相続税コラム-",
+    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
+   },
    {
     "quote": "相続税の申告に必要な財産の把握方法｜土地・家屋と預金について",
     "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
@@ -547,823 +1369,13 @@
     "pass": 3,
     "first_seen": "2026-11-08"
    }
-  ],
-  "一次情報の探し方": [
-   {
-    "quote": "”与信限度額”はどうやって見直す？！”決算書の読み方”についての基礎知識",
-    "url": "https://www.daiwast.co.jp/blog/how-to-read-financial-statements",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "3月は多くの企業の年次決算の時期です",
-    "url": "https://www.daiwast.co.jp/blog/how-to-read-financial-statements",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "取引先の”決算書”を確認して”与信限度額”を見直しを実施する方もいら",
-    "url": "https://www.daiwast.co.jp/blog/how-to-read-financial-statements",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "しかし、決算書に含まれる\"損益計算書\"や\"貸借対照表\"などには、数字が並んでいるので「",
-    "url": "https://www.daiwast.co.jp/blog/how-to-read-financial-statements",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "仮設資材販売店や鋼材販売店で営業を担当している方々に向けて、われわれなりの”決算",
-    "url": "https://www.daiwast.co.jp/blog/how-to-read-financial-statements",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "先ずは、”決算書”を読む”目的”を明確にする",
-    "url": "https://www.daiwast.co.jp/blog/how-to-read-financial-statements",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "”決算書”を読む場合には、まず”目的”を明確にする事が重要です",
-    "url": "https://www.daiwast.co.jp/blog/how-to-read-financial-statements",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "今回は、「与信限度額を見直しを実施する」という”目的”を設定していますので、過去の”決算書”との比較を行う事で、”与信限度額”を検討する事ができます",
-    "url": "https://www.daiwast.co.jp/blog/how-to-read-financial-statements",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "しかし、「新しく取引を始める為に、与信限度額を新たに設定する」という”目的”で”決算書”を読む場合には、該当する会社の”決算書”ではなく、業種や会社規模の近い会社の”決算書”や”与信限度額”と比較しながら考える事が必要になります",
-    "url": "https://www.daiwast.co.jp/blog/how-to-read-financial-statements",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "つまり”決算書”を読む目的によって、準備する資料の”質”や”量”が異なる事に、注意が必要になる訳です",
-    "url": "https://www.daiwast.co.jp/blog/how-to-read-financial-statements",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "”決算書”を読む時に重要な3つの分析",
-    "url": "https://www.daiwast.co.jp/blog/how-to-read-financial-statements",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "「与信限度額を見直しを実施する」際に重要となる、”決算書”を読む上で3つの分析をご紹介します",
-    "url": "https://www.daiwast.co.jp/blog/how-to-read-financial-statements",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "”与信限度額”を見直す場合には、”決算書”で得られる定量的な情報も重要ですが、お客さまの特徴や日々の営業活動で得られる定性的な情報や自身の営業活動の方針も重要です",
-    "url": "https://www.daiwast.co.jp/blog/how-to-read-financial-statements",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "特に、”決算書”に記載されている数値の背景などは、お客さまへヒアリングしてその理由や一過性のものなのか正しく判断しておく必要があります",
-    "url": "https://www.daiwast.co.jp/blog/how-to-read-financial-statements",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "仮設資材販売店や鋼材販売店で営業を担当している皆さんに向けて、決算",
-    "url": "https://www.daiwast.co.jp/blog/how-to-read-financial-statements",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "年間100社以上の法人決算・会社設立・税務調査対応を支援",
-    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "営業担当者の訪問確認、決算書の入手（取引先に依頼）、業界内のヒアリングなど、自社で実施する調査です",
-    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "法人番号公表サイト（国税庁）・官報決算公告・登記情報・自社HP・口コミなどの無料公開情報を活用します",
-    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "決算書の評価では、簿価だけでなく実態修正が重要です",
-    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "3基準の最小値採用",
-    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "→ 最小値の400万円を採用（最も保守的）",
-    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "2期連続の赤字または直近決算で大幅赤字",
-    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "公認会計士・税理士の代表が、記帳代行から決算・税務申告まで一括で直接対応します",
-    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "取引先の倒産情報は、信用調査会社（TDB・TSR）・官報・業界ネットワークから入手できます",
-    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "決算書の入手（年1回）が基本です",
-    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "上場企業なら決算短信、非上場でも主要取引先として決算書提出を依頼できる関係なら依頼します",
-    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "入手が難しい場合は官報決算公告・信用調査会社のデータベース・現地訪問観察で代替します",
-    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "決算時には法人税の貸倒損失と消費税の税額調整をセットで確認してください",
-    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "与信限度額は3つの算出式（純資産基準・売上基準・回収サイト基準）の最小値採用が保守的",
-    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "記帳代行から決算・税務申告まで、売上規模だけで決まる年間総額のみの明朗会計で一括してお任せいただけます",
-    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "取引先の月商は決算書・帝国データバンクや東京商工リサーチのレポート・過去の取引実績から積算します",
-    "url": "https://catalog.monex.co.jp/article/?p=49812",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "② 取引先の情報収集（財務諸表・商業登記簿・信用調査会社レポート）",
-    "url": "https://catalog.monex.co.jp/article/?p=49812",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "上場企業なら有価証券報告書、未上場企業なら決算書の開示依頼・商業登記簿・帝国データバンクや東京商工リサーチのレポートが主な情報源です",
-    "url": "https://catalog.monex.co.jp/article/?p=49812",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "決算書は原則として直近2〜3期分を取得し、単年度の特殊要因（大型受注・災害等）に振り回されない判断ができる材料を揃えます",
-    "url": "https://catalog.monex.co.jp/article/?p=49812",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "定量評価は決算書から流動比率・自己資本比率・売上高経常利益率・売上高成長率などを取得して総合スコアを算出し、定性評価は経営者の経歴・業界動向・過去の取引実績で補正します",
-    "url": "https://catalog.monex.co.jp/article/?p=49812",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "：A社の直近2期分の決算書を開示依頼で取得、あわせて東京商工リサーチのTSR REPORTを取り寄せ、支払遅延・訴訟の記録が無いことを確認",
-    "url": "https://catalog.monex.co.jp/article/?p=49812",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "単年度決算だけで判断せず3期比較を推奨",
-    "url": "https://catalog.monex.co.jp/article/?p=49812",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "業種横断の慣行として、いずれの業種でも「決算書2〜3期分＋商業登記簿＋信用調査レポート」の3点セットを情報収集の基本に置いておくと、稟議書の説明で「情報収集が甘い」という指摘を受けにくくなります",
-    "url": "https://catalog.monex.co.jp/article/?p=49812",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "① 年1回の定期見直し（決算期を基準にする）",
-    "url": "https://catalog.monex.co.jp/article/?p=49812",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "取引先の決算期を基準にすると、決算書の入手→格付け見直し→限度額再計算の流れが自然に組み立てられます",
-    "url": "https://catalog.monex.co.jp/article/?p=49812",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "取引先が3月決算なら、決算書の開示・確定を待って6〜7月に情報収集し、8〜9月に見直しを完了するのが実務では一般的です",
-    "url": "https://catalog.monex.co.jp/article/?p=49812",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "取引先の与信リスクが高めのランク（DランクやEランク）に付けている相手は、年1回では変化を捉えきれないため、3〜6ヶ月に一度の頻度で見直す運用も採用されます",
-    "url": "https://catalog.monex.co.jp/article/?p=49812",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "この場合はまず取引先の最新決算書（あるいは月次試算表）を追加取得し、本記事§5-③の社内格付け手順に従って再判定します",
-    "url": "https://catalog.monex.co.jp/article/?p=49812",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "こうした公的な仕組みの利用も含めて、貸倒れ時の影響を最小化する多層構造を組んでおくことが重要です",
-    "url": "https://catalog.monex.co.jp/article/?p=49812",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "新規取引先の情報収集（決算書開示依頼・信用調査レポート取得・格付け判定）",
-    "url": "https://catalog.monex.co.jp/article/?p=49812",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "決算書の実態修正とは？ | 高崎freee専門税理士｜設立・相続まで会計士丸山がナビゲート",
-    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "残念ながら、金融機関はあなたの会社の決算書を信用していないかもしれません",
-    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "その中で、金融機関が融資先の決算書を独自に修正しているケースを何度も目の当たりにしてきたからです",
-    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "なぜ、金融機関は決算書を修正するのでしょうか？",
-    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "それは、融資先の決算書を修正しないと、「実態」が見えないからです",
-    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "これら3つを正確に判断するために、決算書を修正せざろうえないのです",
-    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "というのも、資産性のないものが資産として平気で計上されている決算書があったりするからです",
-    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "特に、修正される決算書は、大企業にくらべて中小企業等の方が多いです",
-    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "(会計監査は、決算書が適正に作成されていることを公認会計士が証明するものですので、決算書が間違っている可能性は低くなります",
-    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "決算書のどういうところが修正されてしまうのか知る事は、金融機関と付き合っていく上で有用なことだと思っています",
-    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "今回は、そんな金融機関が実施している決算書の実態修正についてお話します",
-    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "あなたの会社の決算書も実は修正されているかもしれません",
-    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "金融機関は、融資先の決算書などの情報にもとづき、優良な債務者であるか、問題のある債務者であるかを評価しています",
-    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "金融機関は決算書のココを見る！融資に強い決算書はこれだ！",
-    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "しかし、融資先から入手した決算書を見て、そのまま優劣を評価するわけではありません",
-    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "理想的な与信管理のコツ:統計的なデータ解析による与信限度額の設定",
-    "url": "https://biz.moneyforward.com/accounting/basic/78596/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "法務局で登記簿を閲覧・取得する官公庁調査、取引先の提携銀行や仕入先からリサーチをかける側面調査、コーポレートサイトや情報データベースを活用する検索調査",
-    "url": "https://biz.moneyforward.com/accounting/basic/78596/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "不動産登記簿や法人登記簿の取得では、記載の情報が最新かどうかを精査する必要があります",
-    "url": "https://biz.moneyforward.com/accounting/basic/78596/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "過去数年分の全取引データなどから統計的モデルを導き出して点数化",
-    "url": "https://biz.moneyforward.com/accounting/basic/78596/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "格付ごとの与信限度額を決める際、統計的なデータを活用します",
-    "url": "https://biz.moneyforward.com/accounting/basic/78596/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "取引入力と仕訳の作業時間を削減、中小企業・法人の帳簿作成や決算書を自動化できる会計ソフトならマネーフォワード クラウド会計",
-    "url": "https://biz.moneyforward.com/accounting/basic/78596/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "実例": [
-   {
-    "quote": "AWSペネトレーションテストは申請不要？事前承認なしで実施できる範囲と禁止行為・申請が必要なケースを解説",
-    "url": "https://catalog.monex.co.jp/article/?p=49812",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   },
-   {
-    "quote": "実務では、年間100社以上の中小企業支援を担当してきた経験上、売上規模5億円以下の企業は与信管理規程すら存在しないケースが過半数を占めます",
-    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "調査結果を基に、取引先を5〜7段階で格付けします",
-    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "信用調査の結果を踏まえ、取引先を5〜7段階で格付けします",
-    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "地方消費税も連動して減るため、例えば税込1,100万円の売掛金が全額貸倒れになると、国税・地方消費税を合わせて約100万円の納税負担が減る計算です",
-    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "法人税の貸倒損失だけ計上して消費税側の調整を失念するケースが少なくありません",
-    "url": "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "今日Excelを開いて自社ケースの試算を始められる状態にすることが本記事の到達点です",
-    "url": "https://catalog.monex.co.jp/article/?p=49812",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "は、根拠が「1割」の慣行値のみのため単独で稟議に載せると説得力が弱く、他の手法との相互チェック（例：月商法の結果と比較して大きくずれていないか確認する）として使うのが実務では安全です",
-    "url": "https://catalog.monex.co.jp/article/?p=49812",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "数字を自社ケースに書き換えれば、そのままExcelで試算できます",
-    "url": "https://catalog.monex.co.jp/article/?p=49812",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "例えば売掛債権基準で使う格付けウェイトは、Aランク=2.0倍・Bランク=1.5倍・Cランク=1.0倍・Dランク=0.6倍・Fランク=0.2倍のように、Cランクを基準（1.0倍）にした相対値で設計する方式も広く使われています",
-    "url": "https://catalog.monex.co.jp/article/?p=49812",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "1つの手法で出した金額を、別の手法の結果と突き合わせて大きくずれていないか確認するのが実務では安全です（例：月商法の結果と月商一割法の結果を比較して、桁がずれていれば根拠を再確認する）",
-    "url": "https://catalog.monex.co.jp/article/?p=49812",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "契約書に個別の限度額を書き込まないケースが多いため、社内側で「与信管理台帳」に取引先ごとの限度額・格付け・見直し予定日・担当者を登録し、営業と経理が共通の台帳を参照できる状態にします",
-    "url": "https://catalog.monex.co.jp/article/?p=49812",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "想定は「新規取引先A社（卸売業・自社純資産8,000万円）」で、月商法・純資産基準・売掛債権基準を組み合わせるケースです",
-    "url": "https://catalog.monex.co.jp/article/?p=49812",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "取引先の業績が右肩上がりで、取引額の増加が事業拡大の反映であるケースです",
-    "url": "https://catalog.monex.co.jp/article/?p=49812",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "数年前に設定した限度額を放置しており、現状と乖離していたケースです",
-    "url": "https://catalog.monex.co.jp/article/?p=49812",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "月商法（月商 × 回収サイト）や売掛債権基準など、資金繰りリスクや自社の許容損失から逆算する手法と結果を突き合わせ、桁がずれていないかを相互チェックする補助的な用途に留めるのが安全です",
-    "url": "https://catalog.monex.co.jp/article/?p=49812",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "明記する必要はなく、実務でも契約書に個別の限度額を書き込まないケースが大半です",
-    "url": "https://catalog.monex.co.jp/article/?p=49812",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "掲載後は管理画面から料金表や導入事例を随時更新でき、常に最新の情報を訴求可能",
-    "url": "https://catalog.monex.co.jp/article/?p=49812",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "その中で、金融機関が融資先の決算書を独自に修正しているケースを何度も目の当たりにしてきたからです",
-    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "例えば、相手先別の残高内訳書を前期と比較して、同額で計上されているものは、長期回収がなされていないと判断したりします",
-    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "その結果、評価損が生じるようなものは資産から減額します",
-    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ゴルフ会員権などは、含み損が出ているケースが多いです",
-    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "減価償却費については、法人税法上任意で計上するものであるため、意図的に減価償却費を計上しないで利益をかさ上げするようなケースがあります",
-    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "中小・零細企業においては、税効果会計の適用は強制されていないため、繰延税金資産を計上していないケースは多いと思います",
-    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "applying the purchase method of accounting for business combinations. In section 6.5, we analyze the special case of",
-    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "in the case of the income statement —adjustments for non -cash items inc rease the association",
-    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "not all prior research in the case of the balance sheet —adjustments to remove intangible assets",
-    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "during 2000-2021 intangible assets are reduced in value in fewer than 10% of cases, and in 42%",
-    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "of cases these assets are remeasured upward by 100% or more. As a benchmark, PPE revaluations",
-    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "reduced values in 55% of cases, and upward remeasurements exceeded 100% in 4% of cases. As",
-    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "research, for example, Barth et al. ’s (1998) focus on the balance sheet as a key source of asset -",
-    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "and coordination problems (Healy and Palepu 2001).12 For example, accounting information c an",
-    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "an input to contract design. Instead, we view contract design, for example, subordination status as",
-    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Obligation-level LGD ranges from 0% to 100%. For example, LGD = 60% means that conditional",
-    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "contracts contain provisions, for example, seniority provisions explicitly intended to affect those",
-    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "prior research suggests adjusted earnings numbers , for example operating income plus",
-    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "assets reduces explanatory power for PD. In the case of LGD, we find adjustments to income",
-    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "of our sample) the borrower continues to operate as a n independent entity. In another 47 cases,",
-    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "(at t he 0.10 level or better) linked to Intangible % in all cases , including notably Chapter 7",
-    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "であり、例えば、製造業であれば、",
-    "url": "https://biz.moneyforward.com/accounting/basic/78596/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "例えば、100万円の売掛債権を回収できなかった場合、他案件の売上を100万円増やせば良いというものではありません",
-    "url": "https://biz.moneyforward.com/accounting/basic/78596/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "経理・人事・経営企画といった企業の基幹業務における具体的なユースケースをご紹介",
-    "url": "https://biz.moneyforward.com/accounting/basic/78596/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "その結果、貸倒れなどのリスク減、コストダウン、目標設定のレベルアップなどが可能になり、利益の最大化が見込めるようになります",
-    "url": "https://biz.moneyforward.com/accounting/basic/78596/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "例えば、与信業務の担当者には情報収集能力や分析能力が求められますが、",
-    "url": "https://biz.moneyforward.com/accounting/basic/78596/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "データの分析結果を基に限度額の上限設定や改善を行うことで、よりリスクの低い与信限度額の設定が可能になります",
-    "url": "https://biz.moneyforward.com/accounting/basic/78596/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "分析結果により、取引先の全体像が把握でき、効果的な人員配置や経営資源の分配ができるようになります",
-    "url": "https://biz.moneyforward.com/accounting/basic/78596/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
-  ],
-  "突き合わせ・推定": [
-   {
-    "quote": "白サビの効果的な落とし方！サビ取り消しゴムとクリーナーの検証",
-    "url": "https://www.daiwast.co.jp/blog/how-to-read-financial-statements",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "知らないと損をする\"サイクル試験\"の実力とは？！その目的と鋼管の信頼性を検証する具体的な方法を詳しく解説",
-    "url": "https://www.daiwast.co.jp/blog/how-to-read-financial-statements",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "保守経営や上場基準を意識する中堅〜大手では、自社の許容損失から逆算する",
-    "url": "https://catalog.monex.co.jp/article/?p=49812",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "1つの手法で出した金額を、別の手法の結果と突き合わせて大きくずれていないか確認するのが実務では安全です（例：月商法の結果と月商一割法の結果を比較して、桁がずれていれば根拠を再確認する）",
-    "url": "https://catalog.monex.co.jp/article/?p=49812",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "「入金データと請求データの突き合わせが手作業で追いつかない」「督促や残高管理が特定の担当者に依存している」「請求書の発行・会計・販売管理がばらばらで二重入力が発…",
-    "url": "https://catalog.monex.co.jp/article/?p=49812",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "月商法（月商 × 回収サイト）や売掛債権基準など、資金繰りリスクや自社の許容損失から逆算する手法と結果を突き合わせ、桁がずれていないかを相互チェックする補助的な用途に留めるのが安全です",
-    "url": "https://catalog.monex.co.jp/article/?p=49812",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "ante expected creditor losses in the event of default, typically in the form of a point estimate. Our",
-    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "accounting information to estimate the returns they expect from lending (Barth et al. 1998; Kothari",
-    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "conceptually and empirically related to and distinct from estimates of the loss given a default event,",
-    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "likelihood) and (2) if so, what is the “best estimate” of the amount of loss. As discussed later, the former, a binary or",
-    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "yes/no assessment is likely to be less difficult than the latter, a point estimate.",
-    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "an obligation-specific estimate of the amount of creditor loss after a default (loss given default or",
-    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "relative to the least risky issuers. LGD is an obligation-specific point estimate that can be compared",
-    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "Spearman (Pearson) correlation between decile-ranked Moody’s PD and LGD estimates for our",
-    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "relative credit risk with AAA the lowest relative credit risk. LGD is an estimate of the loss a creditor could expect on",
-    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "analyzing and estimating LGD which is a point estimate associated with, among other things, debt-",
-    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "balance sheet (asset and liability) information. If accounting information provid es estimates of",
-    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "a specific amount estimated at the instrument level).17",
-    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "on default Moody’s estimates creditors can expect to recover 40% (1-60%) of the amount owed.",
-    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "information for variation in PD and, separately, LGD, we estimate the following equations:",
-    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "and the coefficient estimates are significant at the 0.01 level. The adjusted R2 is 30.6%, statistically",
-    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   },
-   {
-    "quote": "複数システムからの請求データをアナログ照合、入金のタイミングがバラバラ、債権管理帳票への記入が手間...など消込関連の業務に手間はかかっていないでしょうか",
-    "url": "https://biz.moneyforward.com/accounting/basic/78596/",
-    "pass": 3,
-    "first_seen": "2026-11-08"
-   }
   ]
  },
  "figures": {},
  "checked": {
   "pass3": [
    {
-    "url": "https://note.com/alarmbox/n/n327b8c1f958d",
+    "url": "https://note.com/rm_sasaki/n/n6b7995860871",
     "status": "ok",
     "method": "http"
    },
@@ -1373,17 +1385,7 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/rm_sasaki/n/n6b7995860871",
-    "status": "ok",
-    "method": "http"
-   },
-   {
     "url": "https://note.com/royal_yak5583/n/n7893614e8d7d",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://note.com/alarmbox/n/n522c05e32db3",
     "status": "ok",
     "method": "http"
    },
@@ -1393,12 +1395,22 @@
     "method": "http"
    },
    {
-    "url": "https://note.com/cpa_mado/n/n2b8524feccfb",
+    "url": "https://note.com/alarmbox/n/n327b8c1f958d",
     "status": "ok",
     "method": "http"
    },
    {
-    "url": "https://note.com/pure_accountant/n/n95e262fcd368",
+    "url": "https://note.com/alarmbox/n/n522c05e32db3",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/cpa_mado/n/n2b8524feccfb",
     "status": "ok",
     "method": "http"
    },
@@ -1408,17 +1420,17 @@
     "method": "http"
    },
    {
-    "url": "https://www.fin01.com/d-kaitosokuho/2020-02/kanri2020-02.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
     "url": "https://www.tosho-links.com/yoshin/%E3%80%90%E4%B8%8E%E4%BF%A1%E7%AE%A1%E7%90%86%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%AE%9A%E9%87%8F%E5%88%86%E6%9E%90%E3%81%AE%E5%9F%BA%E6%9C%AC%E3%80%91%E3%80%80%E7%AC%AC22%E5%9B%9E%EF%BC%9A%E9%80%A3/",
     "status": "ok",
     "method": "http"
    },
    {
     "url": "https://jicpa.or.jp/about/activity/activities/document_20240401.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://cpa-net.jp/wordpress/wp-content/uploads/2023/02/old-campaign_09.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -1453,9 +1465,9 @@
     "method": "http"
    },
    {
-    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
+    "url": "https://www.fsa.go.jp/cpaaob/kouninkaikeishi-shiken/tantou_mondai_r06b/04.pdf",
     "status": "ok",
-    "method": "http"
+    "method": "pdf"
    },
    {
     "url": "https://www.asb-j.jp/jp/wp-content/uploads/sites/4/ikan_20240701_20.pdf",
@@ -1463,22 +1475,7 @@
     "method": "pdf"
    },
    {
-    "url": "https://www.sapporotax.com/saisei/zaimu-dd/",
-    "status": "ok",
-    "method": "http"
-   },
-   {
-    "url": "https://www.fin01.com/d-kaitosokuho/2020-02/zaimu2020-02.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.fsa.go.jp/cpaaob/kouninkaikeishi-shiken/tantou_mondai_r04b/04.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
-    "url": "https://www.tosho-links.com/yoshin/%E3%80%90%E4%B8%8E%E4%BF%A1%E7%AE%A1%E7%90%86%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%AE%9A%E9%87%8F%E5%88%86%E6%9E%90%E3%81%AE%E5%9F%BA%E6%9C%AC%E3%80%91%E3%80%80%E7%AC%AC1%E5%9B%9E%EF%BC%9A%E6%B1%BA/",
+    "url": "https://wheat-biz.com/acc/keiri-daiko-kohatsu-jisho-kessanbi-go/",
     "status": "ok",
     "method": "http"
    },
@@ -1493,17 +1490,17 @@
     "method": "http"
    },
    {
-    "url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
-    "status": "ok",
-    "method": "pdf"
-   },
-   {
     "url": "https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/files/rating-credit-risk/pub-ch-rating-credit-risk.pdf",
     "status": "ok",
     "method": "pdf"
    },
    {
-    "url": "https://content.naic.org/sites/default/files/publications-financial-analysis-hb.pdf",
+    "url": "https://nacm.org/nacm-blog/3112-starters-guide-to-financial-statement-analysis.html?&el_mcal_month=7&el_mcal_year=2024",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://oirds.rutgers.edu/PDFs/FinancialStatements09.pdf",
     "status": "ok",
     "method": "pdf"
    },
@@ -1518,35 +1515,35 @@
   {
    "query": "取引先の与信管理で決算書を実態修正して読む手順（公認会計士の解説・純資産の実態修正・格付け・上限の複数の式） site:note.com",
    "results": [
-    "https://note.com/alarmbox/n/n327b8c1f958d",
-    "https://note.com/parun325/n/n7aa884fc6919",
     "https://note.com/rm_sasaki/n/n6b7995860871",
+    "https://note.com/parun325/n/n7aa884fc6919",
     "https://note.com/royal_yak5583/n/n7893614e8d7d",
-    "https://note.com/alarmbox/n/n522c05e32db3",
     "https://note.com/hiroyukidac14/n/n551b94add925",
-    "https://note.com/note_202603/n/n4d5330cc7921"
+    "https://note.com/alarmbox/n/n327b8c1f958d",
+    "https://note.com/alarmbox/n/n522c05e32db3",
+    "https://note.com/bcm_intelligence/n/na7b9c2accdd2"
    ],
    "engines": [
-    "ddgs:google"
+    "ddgs:bing"
    ],
    "n_hits": 7
   },
   {
    "query": "取引先の与信管理で決算書を実態修正して読む手順（公認会計士の解説・純資産の実態修正・格付け・上限の複数の式） note",
    "results": [
+    "https://dma-office.jp/2019/09/04/yuushi-jittai/",
     "https://note.com/cpa_mado/n/n2b8524feccfb",
-    "https://note.com/pure_accountant/n/n95e262fcd368",
     "https://www.daiwast.co.jp/blog/how-to-read-financial-statements",
-    "https://www.fin01.com/d-kaitosokuho/2020-02/kanri2020-02.pdf",
     "https://www.tosho-links.com/yoshin/%E3%80%90%E4%B8%8E%E4%BF%A1%E7%AE%A1%E7%90%86%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%AE%9A%E9%87%8F%E5%88%86%E6%9E%90%E3%81%AE%E5%9F%BA%E6%9C%AC%E3%80%91%E3%80%80%E7%AC%AC22%E5%9B%9E%EF%BC%9A%E9%80%A3/",
     "https://jicpa.or.jp/about/activity/activities/document_20240401.pdf",
+    "https://cpa-net.jp/wordpress/wp-content/uploads/2023/02/old-campaign_09.pdf",
+    "https://kaikei-umi.com/archives/1878/%E3%83%96%E3%83%AD%E3%82%B0%E3%83%88%E3%83%83%E3%83%97/%E4%BB%A4%E5%92%8C4%E5%B9%B4%E5%85%AC%E8%AA%8D%E4%BC%9A%E8%A8%88%E5%A3%AB%E8%AB%96%E6%96%87%E5%BC%8F%E8%AC%9B%E8%A9%95%EF%BD%9E%E4%BC%9A%E8%A8%88%E5%AD%A6%EF%BC%88%E5%8D%88%E5%BE%8C/",
     "https://www.bunkyo.ac.jp/faculty/business/feature/journal/pdf/vol4/business_journal_vol4_full.pdf",
-    "https://kaikei-umi.com/archives/1799/%E3%83%96%E3%83%AD%E3%82%B0%E3%83%88%E3%83%83%E3%83%97/%E4%BB%A4%E5%92%8C4%E5%B9%B4%E5%BA%A6%E5%85%AC%E8%AA%8D%E4%BC%9A%E8%A8%88%E5%A3%AB%E7%9F%AD%E7%AD%94%E5%BC%8F%E8%A9%A6%E9%A8%93%E8%AC%9B%E8%A9%95%EF%BD%9E%E8%B2%A1%E5%8B%99%E4%BC%9A%E8%A8%88%E8%AB%96/",
-    "https://note.com/rikei_kaikeishi/n/nf489d21ec506",
+    "https://kpmg.com/jp/ja/insights.html",
     "https://www.riskmonster.co.jp/study/lecture/chap02-03.html"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -1560,13 +1557,13 @@
     "https://www.riskmonster.co.jp/study/lecture/chap02-03.html",
     "https://np-kakebarai.com/blog/b3846/",
     "https://www.tosho-links.com/yoshin/%E3%80%90%E4%B8%8E%E4%BF%A1%E7%AE%A1%E7%90%86%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%AE%9A%E9%87%8F%E5%88%86%E6%9E%90%E3%81%AE%E5%9F%BA%E6%9C%AC%E3%80%91%E3%80%80%E7%AC%AC1%E5%9B%9E%EF%BC%9A%E6%B1%BA/",
-    "https://www.robotpayment.co.jp/blog/accounting/9207/",
     "https://dma-office.jp/2019/09/04/yuushi-jittai/",
     "https://www.asb-j.jp/jp/wp-content/uploads/sites/4/ikan_20240701_20.pdf",
+    "https://www.daiwast.co.jp/blog/how-to-read-financial-statements",
     "https://www.tosho-links.com/yoshin/【与信管理における定量分析の基本】　第1回：決/"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 14
@@ -1576,37 +1573,35 @@
    "results": [
     "https://www.riskmonster.co.jp/study/lecture/chap02-03.html",
     "https://dma-office.jp/2019/09/04/yuushi-jittai/",
-    "https://www.tosho-links.com/yoshin/%E3%80%90%E4%B8%8E%E4%BF%A1%E7%AE%A1%E7%90%86%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%AE%9A%E9%87%8F%E5%88%86%E6%9E%90%E3%81%AE%E5%9F%BA%E6%9C%AC%E3%80%91%E3%80%80%E7%AC%AC22%E5%9B%9E%EF%BC%9A%E9%80%A3/",
+    "https://biz.moneyforward.com/accounting/basic/78596/",
+    "https://np-kakebarai.com/blog/b3846/",
+    "https://www.tosho-links.com/yoshin/%E3%80%90%E4%B8%8E%E4%BF%A1%E7%AE%A1%E7%90%86%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%AE%9A%E9%87%8F%E5%88%86%E6%9E%90%E3%81%AE%E5%9F%BA%E6%9C%AC%E3%80%91%E3%80%80%E7%AC%AC1%E5%9B%9E%EF%BC%9A%E6%B1%BA/",
+    "https://www.fsa.go.jp/cpaaob/kouninkaikeishi-shiken/tantou_mondai_r06b/04.pdf",
     "https://www.asb-j.jp/jp/wp-content/uploads/sites/4/ikan_20240701_20.pdf",
     "https://www.daiwast.co.jp/blog/how-to-read-financial-statements",
-    "https://www.sapporotax.com/saisei/zaimu-dd/",
-    "https://www.fin01.com/d-kaitosokuho/2020-02/zaimu2020-02.pdf",
-    "https://jicpa.or.jp/about/activity/activities/document_20240401.pdf",
-    "https://www.fsa.go.jp/cpaaob/kouninkaikeishi-shiken/tantou_mondai_r04b/04.pdf",
-    "https://ayusawa-partners.jp/column/yoshin-kanri-saiken-kaishu"
+    "https://wheat-biz.com/acc/keiri-daiko-kohatsu-jisho-kessanbi-go/"
    ],
    "engines": [
-    "ddgs:yahoo",
     "yahoo_jp"
    ],
-   "n_hits": 15
+   "n_hits": 9
   },
   {
    "query": "credit risk assessment adjusting book net assets private company financial statements",
    "results": [
     "https://viewpoint.pwc.com/dt/us/en/pwc/accounting_guides/fair_value_measureme/fair_value_measureme__9_US/chapter_8_considerat_US/82_introduction_to_a_US.html",
     "https://publications.aaahq.org/accounting-horizons/article/38/3/135/11784/Parent-Only-Balance-Sheet-Information-and-Credit",
-    "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/2023-2024/Robert_Hills_ADP_Nov13.pdf",
     "https://www.occ.gov/publications-and-resources/publications/comptrollers-handbook/files/rating-credit-risk/pub-ch-rating-credit-risk.pdf",
-    "https://content.naic.org/sites/default/files/publications-financial-analysis-hb.pdf",
-    "https://www.creditpulse.com/blog/financial-statement-analysis-for-credit-managers",
     "https://nacm.org/nacm-blog/3112-starters-guide-to-financial-statement-analysis.html?&el_mcal_month=7&el_mcal_year=2024",
+    "https://oirds.rutgers.edu/PDFs/FinancialStatements09.pdf",
+    "https://www.creditpulse.com/blog/financial-statement-analysis-for-credit-managers",
+    "https://www.stern.nyu.edu/sites/default/files/assets/documents/con_036180.pdf",
+    "https://www.sec.gov/corpfin/cf-manual/topic-2",
     "https://riskhub.org/blogs/financial-statement-analysis-for-credit-risk",
-    "https://publishedguides.ncua.gov/examiner/Content/ExaminersGuide/Commercial&MBL/CommLoanPolicy/FinancialAnalysis.htm",
-    "https://www.stern.nyu.edu/sites/default/files/assets/documents/con_036180.pdf"
+    "https://www.bdo.com/insights/assurance/financial-reporting-guide-for-accounting-changes-and-error-corrections"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -1614,13 +1609,13 @@
   {
    "query": "site:note.com 取引先の与信管理で決算書を実態修正して読む手順（公認会計士の解説・純資産の実態修正・格付け・上限の複数の式）",
    "results": [
-    "https://note.com/parun325/n/n7aa884fc6919",
     "https://note.com/hiroyukidac14/n/n551b94add925",
-    "https://note.com/royal_yak5583/n/n7893614e8d7d",
-    "https://note.com/note_202603/n/n4d5330cc7921",
+    "https://note.com/parun325/n/n7aa884fc6919",
     "https://note.com/rm_sasaki/n/n6b7995860871",
-    "https://note.com/nrating_kk/n/n72b812d64939",
-    "https://note.com/alarmbox/n/n522c05e32db3"
+    "https://note.com/royal_yak5583/n/n7893614e8d7d",
+    "https://note.com/alarmbox/n/n522c05e32db3",
+    "https://note.com/note_202603/n/n4d5330cc7921",
+    "https://note.com/alarmbox/n/n327b8c1f958d"
    ],
    "engines": [
     "ddgs:google"
@@ -1630,13 +1625,13 @@
   {
    "query": "site:x.com 取引先の与信管理で決算書を実態修正して読む手順（公認会計士の解説・純資産の実態修正・格付け・上限の複数の式）",
    "results": [
-    "https://x.com/yoshinkanritoha/status/2084972699915620649",
     "https://x.com/kazumono_com/status/2100416450272059492",
+    "https://x.com/tosho_links",
+    "https://x.com/yoshinkanritoha/status/2084972699915620649",
     "https://x.com/yoshinkanritoha",
     "https://x.com/hvapor2026/status/2093150122008064318",
     "https://x.com/fm_suisinkyo/status/2092748931985702964",
-    "https://x.com/jun_consult/status/2088740262940234099",
-    "https://x.com/tosho_links"
+    "https://x.com/boki_accounting/status/2115370753822781748"
    ],
    "engines": [
     "ddgs:google"
@@ -1647,10 +1642,10 @@
    "query": "site:linkedin.com 取引先の与信管理で決算書を実態修正して読む手順（公認会計士の解説・純資産の実態修正・格付け・上限の複数の式）",
    "results": [
     "https://jp.linkedin.com/pulse/決算書重視の信用調査-hiroyuki-nakamura",
-    "https://jp.linkedin.com/pub/dir/Kazuhiko/Makino",
     "https://jp.linkedin.com/posts/基樹-永田-9808b5278_今回は金融機関様における与信モデルの構築事例をご紹介します-私たちpluszero-activity-7468684925001580546-EHsE",
-    "https://www.linkedin.com/posts/広行-高見-843204179_リスク管理コンサル-与信管理-経営コンサル-activity-6953372646549966849-TQTv",
     "https://www.linkedin.com/feed/update/urn:li:activity:7484574757053489152/",
+    "https://www.linkedin.com/posts/広行-高見-843204179_リスク管理コンサル-与信管理-経営コンサル-activity-6953372646549966849-TQTv",
+    "https://cn.linkedin.com/posts/shang-hsiu-yen-68b57b158_銀行業新規上路供應鏈風險管理五大強化重點-銀行公會於114年10月14公告其修正後之-activity-7384437447713202176-ZtZa",
     "https://jp.linkedin.com/posts/initiatesato_与信管理-売掛金管理-取引先管理-activity-7518823745533169664-oNUX",
     "https://jp.linkedin.com/pulse/決算の裏側に潜む緻密な美学ミスをゼロにするプロの工程表その驚愕の実態-yotaro-yasutake-k6wyc"
    ],
@@ -1663,12 +1658,12 @@
    "query": "site:facebook.com 取引先の与信管理で決算書を実態修正して読む手順（公認会計士の解説・純資産の実態修正・格付け・上限の複数の式）",
    "results": [
     "https://www.facebook.com/tosho.digest/",
-    "https://www.facebook.com/tosho.digest/posts/与信管理実務新たな取引先との取引開始時に与信管理担当者はどういった点に気を付けて対応するべきでしょうか本記事では新規取引先に対して取引開始時の注意すべき点やチェ/845602061086227/",
     "https://www.facebook.com/tosho.digest/posts/与信管理実務本記事では与信管理の社内体制を構築することがなぜ必要なのかまた実際に与信管理を行うにあたっての体制作りの考え方やポイント与信限度申請や与信限度額設定/906746841638415/",
+    "https://www.facebook.com/tosho.digest/posts/与信管理実務新たな取引先との取引開始時に与信管理担当者はどういった点に気を付けて対応するべきでしょうか本記事では新規取引先に対して取引開始時の注意すべき点やチェ/845602061086227/",
     "https://www.facebook.com/nikkeib2b/videos/905609355101868/",
-    "https://www.facebook.com/tosho.digest/posts/youtubeチャンネル更新第87回粉飾決算の発見-その７厄介な粉飾①関係会社を利用した粉飾ご視聴よろしくお願いいたします与信管理-取引先管理-財務分析-トーシ/892663619713404/",
     "https://www.facebook.com/nikkeib2b/posts/与信管理における取引先の評価基準を見直し正しい判断を経営者与信管理ご担当者必見企業分析ハンドブックこんなお悩みをお持ちの方におすすめです️与信管理の仕方やルール/1107451401175279/",
-    "https://www.facebook.com/tafm2020/videos/銀行員は決算書を最初のページから順番に読むわけではありません多くの場合損益計算書ではなく貸借対照表から見ています連載中小企業のための銀行取引の教科書第7回は融資/1102669898924863/"
+    "https://www.facebook.com/tafm2020/videos/銀行員は決算書を最初のページから順番に読むわけではありません多くの場合損益計算書ではなく貸借対照表から見ています連載中小企業のための銀行取引の教科書第7回は融資/1102669898924863/",
+    "https://www.facebook.com/tosho.digest/posts/323820726560121/"
    ],
    "engines": [
     "ddgs:google"
@@ -1678,19 +1673,19 @@
   {
    "query": "取引先の与信管理で決算書を実態修正して読む手順（公認会計士の解説・純資産の実態修正・格付け・上限の複数の式） note 社長",
    "results": [
-    "https://note.com/rikei_kaikeishi/n/nf489d21ec506",
-    "https://cpa-net.jp/wordpress/wp-content/uploads/2023/02/old-campaign_09.pdf",
-    "https://www.fin01.com/d-kaitosokuho/2020-02/kanri2020-02.pdf",
+    "https://note.com/yamayama_yama/n/n13a04c553938",
+    "https://note.com/alarmbox/n/n99c21c3df2b1",
     "https://www.daiwast.co.jp/blog/how-to-read-financial-statements",
+    "https://wheat-biz.com/acc/keiri-daiko-kohatsu-jisho-kessanbi-go/",
     "https://jicpa.or.jp/about/activity/activities/document_20240401.pdf",
-    "https://www.youtube.com/watch?v=gvw_Vnl2CZE",
-    "https://kaikei-umi.com/archives/1799/%E3%83%96%E3%83%AD%E3%82%B0%E3%83%88%E3%83%83%E3%83%97/%E4%BB%A4%E5%92%8C4%E5%B9%B4%E5%BA%A6%E5%85%AC%E8%AA%8D%E4%BC%9A%E8%A8%88%E5%A3%AB%E7%9F%AD%E7%AD%94%E5%BC%8F%E8%A9%A6%E9%A8%93%E8%AC%9B%E8%A9%95%EF%BD%9E%E8%B2%A1%E5%8B%99%E4%BC%9A%E8%A8%88%E8%AB%96/",
-    "https://www2.aasa.ac.jp/org/sml/shinsei/shisetsu/sml_shisetsu_rinji.pdf",
-    "https://www.bunkyo.ac.jp/faculty/business/feature/journal/pdf/vol4/business_journal_vol4_full.pdf",
+    "https://kpmg.com/jp/ja/insights.html",
+    "https://ipo-method.com/governance/3281/",
+    "https://cpa-net.jp/wordpress/wp-content/uploads/2023/02/old-campaign_09.pdf",
+    "https://www.tac-school.co.jp/tacmap/pdf/68622d1318c96.pdf",
     "https://www.riskmonster.co.jp/study/lecture/chap02-03.html"
    ],
    "engines": [
-    "ddgs:google",
+    "ddgs:bing",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -1703,14 +1698,14 @@
     "https://cpa-net.jp/wordpress/wp-content/uploads/2023/02/old-campaign_09.pdf",
     "https://jicpa.or.jp/about/activity/activities/document_20240401.pdf",
     "https://kaikei-umi.com/archives/1264/%E3%83%96%E3%83%AD%E3%82%B0%E3%83%88%E3%83%83%E3%83%97/%E4%BB%A4%E5%92%8C2%E5%B9%B4%E5%BA%A6%E5%85%AC%E8%AA%8D%E4%BC%9A%E8%A8%88%E5%A3%AB%E7%AC%AC%E2%85%A1%E5%9B%9E%E7%9F%AD%E7%AD%94%E5%BC%8F%E8%A9%A6%E9%A8%93%EF%BD%9E%E8%AC%9B%E8%A9%95%EF%BD%9E%E8%B2%A1/",
-    "https://www.mitomi-gakuen.com/la/answer/h20kaikei_Ronbun/h20kaikei_Ronbun_Kigyou.html",
     "https://www.asb-j.jp/jp/accounting_standards_system/details.html?topics_id=39",
     "https://www.daiwast.co.jp/blog/how-to-read-financial-statements",
-    "https://www.jpx.co.jp/equities/listed-co/format/summary/tvdivq0000004wuh-att/mklp770000003457.pdf",
+    "https://www.bunkyo.ac.jp/faculty/business/feature/journal/pdf/vol4/business_journal_vol4_full.pdf",
+    "https://mitomi-gakuen.com/la/answer/r02kaikei_Ronbun/Sozei.html",
     "https://www.riskmonster.co.jp/study/lecture/chap02-03.html"
    ],
    "engines": [
-    "ddgs:bing",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 16
@@ -1721,16 +1716,16 @@
     "https://www.linkedin.com/posts/prath_statement-on-fair-value-measurement-and-disclosure-activity-7511460854421405696-PIH1",
     "https://www.linkedin.com/top-content/finance/analyzing-financial-statements/financial-statement-analysis-for-investment-strategies/",
     "https://www.linkedin.com/pulse/phantom-ledger-private-credit-ethan-rouen-rsypc",
-    "https://www.linkedin.com/pulse/what-bdc-redemptions-nav-pressures-mean-investors-pimco-kl0tc",
-    "https://www.linkedin.com/posts/ajay-makhija-9039666b_assets-liabilities-networth-activity-7371150499196252160-1wv7",
-    "https://www.linkedin.com/in/tyler-s-604372126",
-    "https://www.linkedin.com/posts/ritvik-devnani-9a9792197_dissertation-activity-7519383784769781763-l3jw",
+    "https://www.linkedin.com/posts/parveen-kumar-207794119_privateequity-fundaccounting-financialmodeling-activity-7384542036986691584-TlB7",
     "https://www.linkedin.com/pulse/importance-financial-statements-primafinance-zjulc",
     "https://www.linkedin.com/posts/saikirankola_fundaccounting-navpack-privateequity-activity-7401333017270816768-3VFT",
-    "https://www.linkedin.com/posts/parveen-kumar-207794119_privateequity-fundaccounting-financialmodeling-activity-7384542036986691584-TlB7"
+    "https://www.linkedin.com/posts/private-equity-bro_%F0%9D%97%A3%F0%9D%97%A2%F0%9D%97%A6%F0%9D%97%A7-%F0%9D%97%96%F0%9D%97%9F%F0%9D%97%A2%F0%9D%97%A6%F0%9D%97%98%F0%9D%97%97-get-the-materials-activity-7436078221562953728-zXNh",
+    "https://www.linkedin.com/in/paul-wakefield-115bb612",
+    "https://www.linkedin.com/top-content/finance/analyzing-financial-statements/analyzing-financial-statements-during-due-diligence/",
+    "https://www.linkedin.com/pulse/5-quantitative-metrics-anchor-private-credit-rahul-bhandari-ffkgc"
    ],
    "engines": [
-    "ddgs:yahoo",
+    "ddgs:google",
     "yahoo_jp"
    ],
    "n_hits": 17
@@ -1738,23 +1733,23 @@
  ],
  "missing": {},
  "new_this_run": {
-  "手順・やり方": [
-   {
-    "quote": "相続税の申告に必要な財産の把握方法｜土地・家屋と預金について",
-    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
-    "pass": 3,
-    "first_seen": "2026-11-09"
-   }
-  ],
   "実例": [
    {
-    "quote": "AWSペネトレーションテストは申請不要？事前承認なしで実施できる範囲と禁止行為・申請が必要なケースを解説",
+    "quote": "内部不正による情報漏えいとは？手口・事例と企業が取るべき対策を解説",
     "url": "https://catalog.monex.co.jp/article/?p=49812",
     "pass": 3,
-    "first_seen": "2026-11-09"
+    "first_seen": "2026-11-11"
+   }
+  ],
+  "手順・やり方": [
+   {
+    "quote": "地番から土地などの場所を探す方法-相続税コラム-",
+    "url": "https://dma-office.jp/2019/09/04/yuushi-jittai/",
+    "pass": 3,
+    "first_seen": "2026-11-11"
    }
   ]
  },
- "runs": 4,
+ "runs": 5,
  "first_researched_at": "2026-11-08T09:06:55.631025+00:00"
 }

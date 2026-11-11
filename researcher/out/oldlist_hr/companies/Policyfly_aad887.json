@@ -1,0 +1,845 @@
+{
+ "name": "Policyfly",
+ "aliases": [],
+ "context": "旧営業リスト｜Industrial Logistics / SCM｜未接触",
+ "researched_at": "2026-11-11T11:05:21.682030+00:00",
+ "official_url": "https://www.policyfly.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Increase submissions, improve underwriting results and automate your back office with PolicyFly",
+    "url": "https://www.policyfly.com/",
+    "pass": 1
+   },
+   {
+    "quote": "No more portals. Automatically ingest and process any submission from any source, in any format with PolicyFly Capture.",
+    "url": "https://www.policyfly.com/",
+    "pass": 1
+   },
+   {
+    "quote": "\"PolicyFly Capture has revolutionised how we handle submissions. What used to take 20+ minutes per submission is now automated in seconds, giving our underwriters the time to focus on evaluating risks instead of rekeying data. It’s a game-changer for improving bind ratios and staying ahead of the competition\"",
+    "url": "https://www.policyfly.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Enrich submissions with third-party data, collaborate with your team or partners and provide robust quote optionality in seconds.",
+    "url": "https://www.policyfly.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PolicyFly’s reporting suite gives insurers real-time insights into submission flow, bind rates, and risk performance—helping you refine pricing, optimize underwriting, and track claims impact. See which risks convert, where you’re losing business, and how your portfolio is performing, all in one powerful analytics platform.",
+    "url": "https://www.policyfly.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PolicyFly is SOC 2 Type II compliant, ensuring industry-leading security, rigorous access controls, and continuous monitoring to protect sensitive data.",
+    "url": "https://www.policyfly.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Additionally, all users are protected with two factor authentication.",
+    "url": "https://www.policyfly.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Your Startup MGA Doesn’t Have a Technology Problem",
+    "url": "https://www.policyfly.com/",
+    "pass": 1
+   },
+   {
+    "quote": "MGA, MGUs and Program Administrators",
+    "url": "https://www.policyfly.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Specialty insurance is built on risk—but for too long, the real risk has been inefficiency. Emails, spreadsheets, and disconnected systems have slowed down business, buried underwriters in manual work, and left valuable data untapped.",
+    "url": "https://www.policyfly.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "In 2018 we set out to change that. After years working with insurers, we saw the same problems repeated: underwriters drowning in submissions, agents stuck in outdated workflows, and lost opportunities due to fragmented systems.",
+    "url": "https://www.policyfly.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Each Program is Unique",
+    "url": "https://www.policyfly.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Insurance Innovation Process",
+    "url": "https://www.policyfly.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We start by understanding your program. How can we streamline the process? What data providers can we use to cut down on questions?",
+    "url": "https://www.policyfly.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "From application to bind, we design the fastest way for agents or customers to interface with your program.",
+    "url": "https://www.policyfly.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "We then rapidly launch your program in weeks -- not months, with the initial platform running in days.",
+    "url": "https://www.policyfly.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Allow your program to continuously scale and evolve by taking advantage of ongoing PolicyFly innovations.",
+    "url": "https://www.policyfly.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Today, PolicyFly has processed over $1B in specialty premium, and with the backing of Bain Capital Ventures, Y Combinator, Viewpoint, and Susa Ventures, we’re continuing to push the industry forward.",
+    "url": "https://www.policyfly.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "The challenges brought us to this space, but it’s the people, relationships, and customers who motivate us to do better every day. We’re inspired by the MGAs, carriers, and underwriters who work tirelessly to insure the hard-to-insure, solve complex risks, and bring specialty programs to life.",
+    "url": "https://www.policyfly.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "Your Startup MGA Doesn’t Have a Technology Problem",
+    "url": "https://www.policyfly.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "MGA, MGUs and Program Administrators",
+    "url": "https://www.policyfly.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "PolicyFly eliminates manual submission intake, extracts key risk details, and enriches data in real time—turning scattered emails, PDFs, and spreadsheets into structured, actionable insights.",
+    "url": "https://www.policyfly.com/product/capture",
+    "pass": 1
+   },
+   {
+    "quote": "Eliminate manual processing by automatically extracting key risk details from emails, PDFs, spreadsheets, and portals—no more copy-pasting or chasing missing information.",
+    "url": "https://www.policyfly.com/product/capture",
+    "pass": 1
+   },
+   {
+    "quote": "Smart Triage & Risk Prioritization",
+    "url": "https://www.policyfly.com/product/capture",
+    "pass": 1
+   },
+   {
+    "quote": "Instantly flag high-priority risks, identify incomplete submissions, and route opportunities based on underwriting appetite, allowing teams to focus on the best business first.",
+    "url": "https://www.policyfly.com/product/capture",
+    "pass": 1
+   },
+   {
+    "quote": "Avg. time to process a submission",
+    "url": "https://www.policyfly.com/product/capture",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-Fill & Enrich Risk Data in Real Time",
+    "url": "https://www.policyfly.com/product/capture",
+    "pass": 1
+   },
+   {
+    "quote": "Integrate with trucking, flood and property data sources to validate and enrich submissions in real time. Instantly verify fleet safety records, property hazard scores, flood zone data, and business financials—giving underwriters a complete risk profile before they even start pricing.",
+    "url": "https://www.policyfly.com/product/capture",
+    "pass": 1
+   },
+   {
+    "quote": "Effortlessly process large, complex schedules for property locations, vehicles, drivers, equipment, and more. PolicyFly automatically extracts, organizes, and validates dense schedule data, eliminating manual rekeying and ensuring underwriters have clean, structured information to act on.",
+    "url": "https://www.policyfly.com/product/capture",
+    "pass": 1
+   },
+   {
+    "quote": "PolicyFly is the leading digital placement and underwriting solution for improving the growth, response time and profitability of marine lines.",
+    "url": "https://www.policyfly.com/product/capture",
+    "pass": 1
+   },
+   {
+    "quote": "MGA, MGUs and Program Administrators",
+    "url": "https://www.policyfly.com/product/capture",
+    "pass": 1
+   },
+   {
+    "quote": "With rules-based decisioning, automated workflows, and deep market insights, insurers can price more accurately, optimize risk selection, and present agents with the best options—faster than ever.",
+    "url": "https://www.policyfly.com/product/underwrite",
+    "pass": 1
+   },
+   {
+    "quote": "Generate multiple coverage options, limits, and deductibles in real time with automated rating and underwriting rules—giving agents flexibility while ensuring risk-appropriate pricing.",
+    "url": "https://www.policyfly.com/product/underwrite",
+    "pass": 1
+   },
+   {
+    "quote": "Configure custom underwriting rules to auto-approve, refer, or decline submissions based on risk attributes, ensuring consistent, accurate decisions while reducing manual workload.",
+    "url": "https://www.policyfly.com/product/underwrite",
+    "pass": 1
+   },
+   {
+    "quote": "Easily handle package policies, minimum premiums, peril-specific deductibles, and layered structures—allowing for granular risk pricing and underwriting flexibility.",
+    "url": "https://www.policyfly.com/product/underwrite",
+    "pass": 1
+   },
+   {
+    "quote": "For Umbrella lines, effortlessly structure layered placements and coverage tiers. For Commercial Property, apply schedule rating across multiple locations. For Trucking, rate dynamically based on drivers, receipts, vehicles, and fleet data.",
+    "url": "https://www.policyfly.com/product/underwrite",
+    "pass": 1
+   },
+   {
+    "quote": "PolicyFly streamlines complex underwriting, ensuring precise pricing, automated adjustments, and frictionless risk structuring across all policy types.",
+    "url": "https://www.policyfly.com/product/underwrite",
+    "pass": 1
+   },
+   {
+    "quote": "Underwrite seamlessly across multiple facilities and carrier binding authorities, PolicyFly dynamically presents multiple quote options to agents, allowing them to select the best terms based on coverage appetite, target premium, and capacity availability. Optimize risk placement while maintaining full control over underwriting rules, capacity allocations, and carrier requirements.",
+    "url": "https://www.policyfly.com/product/underwrite",
+    "pass": 1
+   },
+   {
+    "quote": "PolicyFly is the leading digital placement and underwriting solution for improving the growth, response time and profitability of marine lines.",
+    "url": "https://www.policyfly.com/product/underwrite",
+    "pass": 1
+   },
+   {
+    "quote": "MGA, MGUs and Program Administrators",
+    "url": "https://www.policyfly.com/product/underwrite",
+    "pass": 1
+   },
+   {
+    "quote": "Track submission flow, bind rates, and claims impact to refine pricing, improve risk selection, and optimize profitability. With deep analytics and custom dashboards, insurers can make faster, smarter, and data-driven decisions.",
+    "url": "https://www.policyfly.com/product/measure",
+    "pass": 1
+   },
+   {
+    "quote": "Monitor won, lost, and declined submissions to understand agent performance, quote-to-bind ratios, and underwriting efficiency—helping insurers refine pricing strategies and improve conversion rates.",
+    "url": "https://www.policyfly.com/product/measure",
+    "pass": 1
+   },
+   {
+    "quote": "Predictive Risk Insights & Aggregate Tracking",
+    "url": "https://www.policyfly.com/product/measure",
+    "pass": 1
+   },
+   {
+    "quote": "modeling to predict bind probability based on agent performance and risk trends—helping underwriters price smarter and win more business.",
+    "url": "https://www.policyfly.com/product/measure",
+    "pass": 1
+   },
+   {
+    "quote": "PolicyFly gives insurers real-time visibility into agency activity, helping track submissions, bind rates, and premium production. Identify top-performing brokers, refine quoting strategies, and strengthen relationships—all with powerful, data-driven insights.",
+    "url": "https://www.policyfly.com/product/measure",
+    "pass": 1
+   },
+   {
+    "quote": "Tie claims data directly to underwriting decisions, providing visibility into loss ratios, high-exposure risks, and profitability trends—closing the loop between underwriting and claims.",
+    "url": "https://www.policyfly.com/product/measure",
+    "pass": 1
+   },
+   {
+    "quote": "Track rates vs. binds over time to gauge market shifts, identify underpriced or overpriced segments, and ensure pricing aligns with profitability goals.",
+    "url": "https://www.policyfly.com/product/measure",
+    "pass": 1
+   },
+   {
+    "quote": "PolicyFly is the leading digital placement and underwriting solution for improving the growth, response time and profitability of marine lines.",
+    "url": "https://www.policyfly.com/product/measure",
+    "pass": 1
+   },
+   {
+    "quote": "MGA, MGUs and Program Administrators",
+    "url": "https://www.policyfly.com/product/measure",
+    "pass": 1
+   },
+   {
+    "quote": "“Specialty insurers often face challenges balancing complex policy workflows with financial operations like reconciliation, payment processing, and reporting,” said Cory Crosland, CEO of PolicyFly. “By combining our expertise in policy workflows with Functional Finance’s automation capabilities, we’re eliminating inefficiencies and empowering insurers to focus on growth and customer satisfaction.”",
+    "url": "https://www.functionalfi.com/resource-post/functional-finance-partners-with-policy",
+    "pass": 3
+   },
+   {
+    "quote": "PolicyFly’s platform has earned a reputation as a reliable solution for policy administration, enabling insurers to manage everything from submission intake and underwriting to endorsements, cancellations, reinstatements, and reporting. By streamlining these processes, PolicyFly helps insurers reduce time-to-quote and better manage submission volumes, key challenges in the specialty market.",
+    "url": "https://www.functionalfi.com/resource-post/functional-finance-partners-with-policy",
+    "pass": 3
+   },
+   {
+    "quote": "Functional Finance complements PolicyFly’s capabilities by automating financial workflows that often fall between policy administration systems and accounting. Tasks like reconciliation, payment categorization, and cash transfers are traditionally labor-intensive and prone to errors. Functional Finance eliminates these challenges, providing real-time reconciliation and financial clarity.",
+    "url": "https://www.functionalfi.com/resource-post/functional-finance-partners-with-policy",
+    "pass": 3
+   },
+   {
+    "quote": "“Finance operations in the insurance industry are often still handled through spreadsheets and manual work,” said Rashmi Melgiri, CEO of Functional Finance. “You know what the premium is, but then comes the question: how do you collect it? How do you reconcile it? That’s where Functional Finance steps in, automating these processes so insurers don’t have to worry about it.”",
+    "url": "https://www.functionalfi.com/resource-post/functional-finance-partners-with-policy",
+    "pass": 3
+   },
+   {
+    "quote": "As insurers grow, their needs evolve, and many legacy systems can’t keep up. The partnership ensures insurers can adapt to new challenges without introducing inefficiencies. PolicyFly and Functional Finance are designed to evolve alongside their customers, providing scalability and addressing new complexities as they arise.",
+    "url": "https://www.functionalfi.com/resource-post/functional-finance-partners-with-policy",
+    "pass": 3
+   },
+   {
+    "quote": "This partnership is already transforming operations for specialty insurers, helping them reduce delays, improve accuracy, and operate more efficiently. By automating submission intake, underwriting, billing, and reconciliation, PolicyFly and Functional Finance are setting a new standard for what insurers can expect from their technology partners.",
+    "url": "https://www.functionalfi.com/resource-post/functional-finance-partners-with-policy",
+    "pass": 3
+   },
+   {
+    "quote": "“At the heart of this collaboration is a shared commitment to solving real problems for our customers,” Crosland said. “We’re not just making processes easier—we’re helping insurers focus on what matters most: serving their customers and growing their business.”",
+    "url": "https://www.functionalfi.com/resource-post/functional-finance-partners-with-policy",
+    "pass": 3
+   },
+   {
+    "quote": "Mid-Century Marketing Co. // Functional Finance",
+    "url": "https://www.functionalfi.com/resource-post/functional-finance-partners-with-policy",
+    "pass": 3
+   },
+   {
+    "quote": "steven.patrick@mid-century-marketing.com",
+    "url": "https://www.functionalfi.com/resource-post/functional-finance-partners-with-policy",
+    "pass": 3
+   },
+   {
+    "quote": "The Functional Finance platform enables insurance operators to manage their financial back office ranging from billing, premium finance, payables, and other money movement functionality.",
+    "url": "https://www.functionalfi.com/resource-post/functional-finance-partners-with-policy",
+    "pass": 3
+   },
+   {
+    "quote": "Every year, $200B of specialty insurance like Cyber, Flood or Trucking is processed over email between agents and insurers – PolicyFly connects both parties to automate these workflows and to consolidate all data.",
+    "url": "https://www.ycombinator.com/companies/policyfly",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "PolicyFly powers specialty insurers with modern technology, automation, and real-time insights. From submissions to policy management, we help MGAs, Coverholders, Carriers, and Syndicates scale faster, operate smarter, and grow sustainably.",
+    "url": "https://www.policyfly.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The challenges brought us to this space, but it’s the people, relationships, and customers who motivate us to do better every day. We’re inspired by the MGAs, carriers, and underwriters who work tirelessly to insure the hard-to-insure, solve complex risks, and bring specialty programs to life.",
+    "url": "https://www.policyfly.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "PolicyFly powers specialty insurers with modern technology, automation, and real-time insights. From submissions to policy management, we help MGAs, Coverholders, Carriers, and Syndicates scale faster, operate smarter, and grow sustainably.",
+    "url": "https://www.policyfly.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "PolicyFly powers specialty insurers with modern technology, automation, and real-time insights. From submissions to policy management, we help MGAs, Coverholders, Carriers, and Syndicates scale faster, operate smarter, and grow sustainably.",
+    "url": "https://www.policyfly.com/product/capture",
+    "pass": 1
+   },
+   {
+    "quote": "Underwrite seamlessly across multiple facilities and carrier binding authorities, PolicyFly dynamically presents multiple quote options to agents, allowing them to select the best terms based on coverage appetite, target premium, and capacity availability. Optimize risk placement while maintaining full control over underwriting rules, capacity allocations, and carrier requirements.",
+    "url": "https://www.policyfly.com/product/underwrite",
+    "pass": 1
+   },
+   {
+    "quote": "PolicyFly powers specialty insurers with modern technology, automation, and real-time insights. From submissions to policy management, we help MGAs, Coverholders, Carriers, and Syndicates scale faster, operate smarter, and grow sustainably.",
+    "url": "https://www.policyfly.com/product/underwrite",
+    "pass": 1
+   },
+   {
+    "quote": "PolicyFly powers specialty insurers with modern technology, automation, and real-time insights. From submissions to policy management, we help MGAs, Coverholders, Carriers, and Syndicates scale faster, operate smarter, and grow sustainably.",
+    "url": "https://www.policyfly.com/product/measure",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "“PolicyFly transforms how we work—streamlining emailed submissions all the way through to bind, while automating endorsements and post-bind servicing. Our agents get faster terms, seamless multi-market access, and we stay ahead of the industry.”",
+    "url": "https://www.policyfly.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Specialty insurance is built on risk—but for too long, the real risk has been inefficiency. Emails, spreadsheets, and disconnected systems have slowed down business, buried underwriters in manual work, and left valuable data untapped.",
+    "url": "https://www.policyfly.com/about",
+    "pass": 1
+   },
+   {
+    "quote": "PolicyFly eliminates manual submission intake, extracts key risk details, and enriches data in real time—turning scattered emails, PDFs, and spreadsheets into structured, actionable insights.",
+    "url": "https://www.policyfly.com/product/capture",
+    "pass": 1
+   },
+   {
+    "quote": "Eliminate manual processing by automatically extracting key risk details from emails, PDFs, spreadsheets, and portals—no more copy-pasting or chasing missing information.",
+    "url": "https://www.policyfly.com/product/capture",
+    "pass": 1
+   },
+   {
+    "quote": "Every year, $200B of specialty insurance like Cyber, Flood or Trucking is processed over email between agents and insurers – PolicyFly connects both parties to automate these workflows and to consolidate all data.",
+    "url": "https://www.ycombinator.com/companies/policyfly",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Cory Crosland - CEO at PolicyFly - LinkedIn — Cory Crosland - CEO at PolicyFly - LinkedIn LinkedIn https://www.linkedin.com > corycrosl...",
+    "url": "https://www.linkedin.com/in/corycrosland",
+    "pass": 3
+   },
+   {
+    "quote": "PolicyFly Featured in The New York Times on AI and the ... — PolicyFly Featured in The New York Times on AI and the ... PolicyFly https://www.policyfly.com > news > p...",
+    "url": "https://www.policyfly.com/news/policyfly-featured-in-the-new-york-times-on-ai-and-the-future-of-work",
+    "pass": 3
+   },
+   {
+    "quote": "PolicyFly — Growth Platform for Specialty Insurers — PolicyFly — Growth Platform for Specialty Insurers PolicyFly https://www.policyfly.com",
+    "url": "https://www.policyfly.com/",
+    "pass": 3
+   },
+   {
+    "quote": "About - PolicyFly — Growth Platform for Specialty Insurers — About - PolicyFly — Growth Platform for Specialty Insurers PolicyFly https://www.policyfly.com > about",
+    "url": "https://www.policyfly.com/about",
+    "pass": 3
+   },
+   {
+    "quote": "Functional Finance Partners with PolicyFly to Transform ... — Functional Finance Partners with PolicyFly to Transform ... Functional Finance https://www.functionalfi.com > functi...",
+    "url": "https://www.functionalfi.com/resource-post/functional-finance-partners-with-policy",
+    "pass": 3
+   },
+   {
+    "quote": "PolicyFly : Modernizing Specialty Insurance | Y Combinator — PolicyFly : Modernizing Specialty Insurance | Y Combinator Y Combinator https://www.ycombinator.com > polic...",
+    "url": "https://www.ycombinator.com/companies/policyfly",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "The Functional Finance platform enables insurance operators to manage their financial back office ranging from billing, premium finance, payables, and other money movement functionality.",
+    "url": "https://www.functionalfi.com/resource-post/functional-finance-partners-with-policy",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "PolicyFly - LinkedIn PolicyFly - LinkedIn LinkedIn https://www.linkedin.com > policyfly",
+    "url": "https://www.linkedin.com/company/policyfly",
+    "pass": 3
+   },
+   {
+    "quote": "Cory Crosland - CEO at PolicyFly - LinkedIn Cory Crosland - CEO at PolicyFly - LinkedIn LinkedIn https://www.linkedin.com > corycrosl...",
+    "url": "https://www.linkedin.com/in/corycrosland",
+    "pass": 3
+   },
+   {
+    "quote": "PolicyFly - LinkedIn PolicyFly - LinkedIn LinkedIn https://pr.linkedin.com > policyfly",
+    "url": "https://pr.linkedin.com/company/policyfly",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "PolicyFly - ホーム | Facebook PolicyFly - ホーム | Facebook Facebook https://ja-jp.facebook.com > pages > PolicyFly",
+    "url": "https://ja-jp.facebook.com/pages/PolicyFly/108790564332320",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.policyfly.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.policyfly.com/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.policyfly.com/product/capture",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.policyfly.com/product/underwrite",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.policyfly.com/product/measure",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/impress.carwatch/posts/stellantis%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%83%95%E3%83%AB%E3%82%B5%E3%82%A4%E3%82%BA%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88%E3%83%A9%E3%83%83%E3%82%AFram-1500-limited%E6%97%A5%E6%9C%AC%E5%B0%8E%E5%85%A5-2027%E5%B9%B4%E3%81%AB%E3%81%BE%E3%81%9A%E3%81%AF100%E5%8F%B0%E3%82%92%E7%99%BA%E5%A3%B2%E4%BA%88%E5%AE%9A-ram-%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88/1595981509000273/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://response.jp/article/2026/11/07/418712.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/car_watch/status/2117506082629370157",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.bgent.net/plus/article/7044",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.robertleelawoffices.com/ja/services/corporate-commercial/distribution-agency-agreements",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://support.appsflyer.com/hc/ja/articles/207034106-%E4%BB%A3%E7%90%86%E5%BA%97%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.japanpolicyforum.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/in/corycrosland",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pacforum.org/fellowships/japan-us-technlogy-just-fellowship/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ny.us.emb-japan.go.jp/itpr_en/japan-policies.html",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vKj7ZqLU5zLX1ro6-eC-l_Ex8lW1ABTbZBSnYZhk2mQxxAxm3M0",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://c3.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tulip.co/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://boostinsurance.com/platform/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/pulse/technical-requirements-true-white-label-insurance-platform-why-cwlwf",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.functionalfi.com/resource-post/functional-finance-partners-with-policy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/in/corycrosland",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.ycombinator.com/companies/policyfly",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/company/policyfly",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/corycrosland",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://pr.linkedin.com/company/policyfly",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://ja-jp.facebook.com/pages/PolicyFly/108790564332320",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Policyfly 日本 導入",
+   "results": [
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://www.facebook.com/impress.carwatch/posts/stellantis%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%83%95%E3%83%AB%E3%82%B5%E3%82%A4%E3%82%BA%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88%E3%83%A9%E3%83%83%E3%82%AFram-1500-limited%E6%97%A5%E6%9C%AC%E5%B0%8E%E5%85%A5-2027%E5%B9%B4%E3%81%AB%E3%81%BE%E3%81%9A%E3%81%AF100%E5%8F%B0%E3%82%92%E7%99%BA%E5%A3%B2%E4%BA%88%E5%AE%9A-ram-%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%88/1595981509000273/",
+    "https://response.jp/article/2026/11/07/418712.html",
+    "https://x.com/car_watch/status/2117506082629370157",
+    "https://trafficnews.jp/post/725198",
+    "https://www.instagram.com/reel/DfTb76WgVjx/",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://kuruma-news.jp/post/1135272",
+    "https://www.policyfly.com/",
+    "https://moge.ai/ja/product/policyfly"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Policyfly 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.bgent.net/plus/article/7044",
+    "https://www.robertleelawoffices.com/ja/services/corporate-commercial/distribution-agency-agreements",
+    "https://support.appsflyer.com/hc/ja/articles/207034106-%E4%BB%A3%E7%90%86%E5%BA%97%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+    "https://first-tandemsprint.com/news/%E3%80%8C%E6%B5%B7%E5%A4%96%E3%81%A7%E3%81%AE%E8%B2%A9%E8%B7%AF%E6%8B%A1%E5%A4%A7%E3%81%AB%E6%9C%89%E5%8A%B9%E3%81%AA%E8%B2%A9%E5%A3%B2%E5%BA%97%E5%A5%91%E7%B4%84%E3%81%A8%E4%BB%A3%E7%90%86%E5%BA%97/",
+    "https://www.digima-japan.com/knowhow/world/19787.php",
+    "https://ecnomikata.com/blog/51120/",
+    "https://www.youtube.com/watch?v=Gcr01pLRick",
+    "https://dprofessions.co.jp/%E4%BC%81%E6%A5%AD%E6%B3%95%E5%8B%99/%E6%B5%B7%E5%A4%96%E9%80%B2%E5%87%BA%E7%8F%BE%E5%9C%B0%E6%B3%95%E4%BA%BA%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%9C%E3%83%BC%E3%83%80%E3%83%BC/%E6%B5%B7%E5%A4%96%E8%B2%A9%E5%A3%B2%E4%BB%A3%E7%90%86%E5%BA%97/%E4%BB%A3%E7%90%86%E5%BA%97%E4%BF%9D%E8%AD%B7%E6%B3%95%E3%81%8C%E3%81%82%E3%82%8B%E5%9B%BD%E3%81%B8%E3%81%AE%E6%B3%A8%E6%84%8F/",
+    "https://app.policyfly.com/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Policyfly Japan",
+   "results": [
+    "https://www.japanpolicyforum.jp/",
+    "https://www.linkedin.com/in/corycrosland",
+    "https://pacforum.org/fellowships/japan-us-technlogy-just-fellowship/",
+    "https://www.ny.us.emb-japan.go.jp/itpr_en/japan-policies.html",
+    "https://www.policyuncertainty.com/japan_monthly.html",
+    "https://jsis.washington.edu/news/japan-policy-commitment-free-data-flow-informal-restrictions/",
+    "https://openloop.org/programs/policy-prototyping-program-japan/",
+    "https://www.youtube.com/watch?v=opiUfj5-k74&vl=ja",
+    "https://japan.kantei.go.jp/105/decisions/2026/_00001.html",
+    "https://www.policyfly.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Policyfly manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vKj7ZqLU5zLX1ro6-eC-l_Ex8lW1ABTbZBSnYZhk2mQxxAxm3M0",
+    "https://www.policyfly.com/news/policyfly-featured-in-the-new-york-times-on-ai-and-the-future-of-work",
+    "https://c3.ai/customers",
+    "https://tulip.co/case-studies/",
+    "https://www.inflectra.com/Products/Case-Studies.aspx",
+    "https://www.insured.io/resources/case-studies",
+    "https://www.rit.edu/advancedmanufacturing/industry40/course/industry-40-case-studies-curated",
+    "https://www.precisely.com/resources/customer-stories/",
+    "https://poly.ai/resources/case-studies",
+    "https://www.policyfly.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Policyfly white label OR reseller OR partner program",
+   "results": [
+    "https://www.policyfly.com/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://boostinsurance.com/platform/",
+    "https://www.linkedin.com/pulse/technical-requirements-true-white-label-insurance-platform-why-cwlwf",
+    "https://aaisviews.aaisonline.com/aais-views/white-labeling-insurance",
+    "https://www.cookieyes.com/partners/blog/top-saas-reseller-programs-for-agencies/",
+    "https://beopen.com/solutions/white-label",
+    "https://seedlycrm.com/blog/white-label-crm-playbook",
+    "https://sandis.io/platform/white-label-platform",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Policyfly founded funding employees revenue",
+   "results": [
+    "https://www.policyfly.com/about",
+    "https://www.functionalfi.com/resource-post/functional-finance-partners-with-policy",
+    "https://www.linkedin.com/in/corycrosland",
+    "https://www.ycombinator.com/companies/policyfly",
+    "https://growjo.com/company/Policygenius",
+    "https://startupdb.com/organizations/policyfly",
+    "https://www.policyfly.com/news/policyfly-featured-in-the-new-york-times-on-ai-and-the-future-of-work",
+    "https://www.pymnts.com/news/investment-tracker/2020/policygenius-100m-funding-insurtech/",
+    "https://www.bloomberg.com/news/articles/2020-01-30/kkr-led-funding-round-gives-100-million-to-startup-policygenius",
+    "https://pitchbook.com/profiles/company/498656-98"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:note.com Policyfly",
+   "results": [
+    "https://note.com/ready_guppy3801",
+    "https://note.com/dashboard",
+    "https://note.com/yuna_orbit/n/n33fa5bbede2c?hl=en",
+    "https://note.com/realtn/n/n8bfa23f7e78f",
+    "https://note.com/para7mii/n/n036af9e505b2",
+    "https://note.com/uchita_success/n/nfc53d1ef5f81",
+    "https://note.com/carbon4322/n/n1dba13e80743?hl=en"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Policyfly",
+   "results": [
+    "https://x.com/FIUdc",
+    "https://x.com/CarolloTweets",
+    "https://x.com/WEForg",
+    "https://x.com/WaterResearch",
+    "https://x.com/NACWA",
+    "https://x.com/DavidGadis",
+    "https://about.x.com/en",
+    "https://x.com/croscon",
+    "https://x.com/NoahBreslow",
+    "https://about.x.com/content/dam/about-twitter/en/brand-toolkit/downloads/twitter-external-brand-guidelines-01272021.pdf"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "site:linkedin.com Policyfly",
+   "results": [
+    "https://www.linkedin.com/company/policyfly",
+    "https://www.linkedin.com/in/corycrosland",
+    "https://www.linkedin.com/in/michaelfiedel",
+    "https://pr.linkedin.com/company/policyfly",
+    "https://ca.linkedin.com/in/nathan-robichaud-a0baa6150",
+    "https://www.linkedin.com/in/daniel-shapiro-cpa-5207726a",
+    "https://www.linkedin.com/in/molly-cramer-a4203637",
+    "https://www.linkedin.com/in/nealsmithson23",
+    "https://ca.linkedin.com/in/mikhail-ravkine-9016054",
+    "https://www.linkedin.com/products/policyfly/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:facebook.com Policyfly",
+   "results": [
+    "https://www.facebook.com/VolarisUSA/videos/weve-updated-our-baggage-policy-because-we-want-you-to-flyyourway-and-only-pay-f/2814141345577050/",
+    "https://ja-jp.facebook.com/pages/PolicyFly/108790564332320",
+    "https://www.facebook.com/AmericanWaterWorksAssociation/posts/dont-miss-your-chance-to-attend-the-2027-awwa-water-matters-fly-in-water-equatio/1557491833080185/",
+    "https://www.facebook.com/onepurposeseniorliving/",
+    "https://www.facebook.com/gregorywathelet/posts/direction-pekin-pour-sauter-dans-le-nid-doiseau-ce-week-end-heading-to-beijing-t/1890703331012769/",
+    "https://www.facebook.com/MyAquaWater/posts/aqua-president-colleen-arnold-joined-utility-leaders-policymakers-and-advocates-/1405084331644494/",
+    "https://www.facebook.com/fiuhonorscollege/posts/interested-in-global-leadership-economics-policy-and-innovation-join-fiu-in-dc-f/1668912068577335/",
+    "https://www.facebook.com/airflypolicy/",
+    "https://www.facebook.com/weworkremotely/posts/3165683397082464/",
+    "https://secure.facebook.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Policyfly note 社長",
+   "results": [
+    "https://x.com/sadaaki",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://online.nikkei-cnbc.co.jp/vod/58940",
+    "https://note.com/taka_ceo",
+    "https://note.com/sadaaki",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://www.nikkei.com/prime/veritas/article/DGXZQOKC111C10R10C26A5000000",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://diamond.jp/articles/-/388572",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Policyfly X 投稿",
+   "results": [
+    "https://help.x.com/ja/rules-and-policies",
+    "https://www.youtube.com/watch?v=FQGN30entRI",
+    "https://ledge.ai/articles/x_revises_privacy_policy",
+    "https://privacy.x.com/",
+    "https://japan.cnet.com/article/35242798/",
+    "https://www.dhs.gov/x-privacy-policy-and-notice",
+    "https://tofu.misosil.com/articles/x-under-the-hood-government-restrictions/",
+    "https://note.com/socialselling/n/n80449faef8e2",
+    "https://www.npa.go.jp/twitter/policy.html",
+    "https://www.policyfly.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部25頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部25頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部25頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部25頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部25頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部25頁・検索12回）",
+  "再販・ホワイトラベル": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部25頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式5頁／PDF・画像0件／外部25頁・検索12回）"
+ }
+}

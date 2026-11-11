@@ -1,0 +1,1060 @@
+{
+ "name": "Novig",
+ "aliases": [],
+ "context": "旧営業リスト｜Sports Prediction / Gaming｜未接触",
+ "researched_at": "2026-11-11T11:14:45.612586+00:00",
+ "official_url": "https://www.novig.com",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Novig | The Prediction Market Built for Sports Fans",
+    "url": "https://novig.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Novigは従来のスポーツベッティングとは異なり、「予測市場（Prediction Market）」と呼ばれる仕組みを取り入れたサービスです",
+    "url": "https://note.com/relax66/n/n02a6555e0aa1",
+    "pass": 3
+   },
+   {
+    "quote": "You don't have permission to access \"http://www.gate.com/ja/news/detail/novig-launches-federally-regulated-sports-prediction-market-following-23252797\" on this server.",
+    "url": "https://www.gate.com/ja/news/detail/novig-launches-federally-regulated-sports-prediction-market-following-23252797",
+    "pass": 3
+   },
+   {
+    "quote": "Lustich.de does not operate for profit. Surpluses go into charitable projects, for example building schools and wells in Benin (West Africa).",
+    "url": "https://lustich.com/ja/news/novig-unveils-responsible-trading-framework",
+    "pass": 3
+   },
+   {
+    "quote": "Toggle the table of contents",
+    "url": "https://en.wikipedia.org/wiki/Novig",
+    "pass": 3
+   },
+   {
+    "quote": "Prediction market and financial exchange",
+    "url": "https://en.wikipedia.org/wiki/Novig",
+    "pass": 3
+   },
+   {
+    "quote": "(CFTC) registration as a prediction market exchange operator in January 2026, doing business as Ludlow Exchange, LLC.",
+    "url": "https://en.wikipedia.org/wiki/Novig",
+    "pass": 3
+   },
+   {
+    "quote": "The registration received CFTC approval as a designated contract market in June.",
+    "url": "https://en.wikipedia.org/wiki/Novig",
+    "pass": 3
+   },
+   {
+    "quote": "in federal court to prevent the state from enforcing its sports betting laws.",
+    "url": "https://en.wikipedia.org/wiki/Novig",
+    "pass": 3
+   },
+   {
+    "quote": "appeared nude in an advertisement for Novig, using sports equipment as props to cover up while repeating the tagline \"Just sports\". The company also described her as a \"strategic partner and equity holder.\" The advertisement attracted criticism from several female athletes, including gymnast",
+    "url": "https://en.wikipedia.org/wiki/Novig",
+    "pass": 3
+   },
+   {
+    "quote": ", sprinter",
+    "url": "https://en.wikipedia.org/wiki/Novig",
+    "pass": 3
+   },
+   {
+    "quote": "Novig released a second iteration of ads featuring Sweeney in October, with co-founder and CEO Jacob Fortinsky defending the strategy.",
+    "url": "https://en.wikipedia.org/wiki/Novig",
+    "pass": 3
+   },
+   {
+    "quote": ", the campaign represented two trends: \"how routinely women’s bodies are sexualized in digital media and how gambling companies use sexual appeal [...] to target young men.\"",
+    "url": "https://en.wikipedia.org/wiki/Novig",
+    "pass": 3
+   },
+   {
+    "quote": "\"Novig Applies for Federal Prediction Market Approval\"",
+    "url": "https://en.wikipedia.org/wiki/Novig",
+    "pass": 3
+   },
+   {
+    "quote": "\"Novig wins CFTC approval as competition intensifies in sports prediction markets\"",
+    "url": "https://en.wikipedia.org/wiki/Novig",
+    "pass": 3
+   },
+   {
+    "quote": "\"Novig Launches Prediction Markets, Then Promptly Sues New York\"",
+    "url": "https://en.wikipedia.org/wiki/Novig",
+    "pass": 3
+   },
+   {
+    "quote": "\"Novig Sues Four States In First Week Offering Prediction Markets\"",
+    "url": "https://en.wikipedia.org/wiki/Novig",
+    "pass": 3
+   },
+   {
+    "quote": "\"Sydney Sweeney under fire for 'sexualising women's sport' in sports prediction ad\"",
+    "url": "https://en.wikipedia.org/wiki/Novig",
+    "pass": 3
+   },
+   {
+    "quote": "\"Advertising like Sydney Sweeney's Novig campaign teach women to see themselves as objects\"",
+    "url": "https://en.wikipedia.org/wiki/Novig",
+    "pass": 3
+   },
+   {
+    "quote": ", a non-profit organization.",
+    "url": "https://en.wikipedia.org/wiki/Novig",
+    "pass": 3
+   },
+   {
+    "quote": "Novig | The Prediction Market Built for Sports Fans",
+    "url": "https://novig.com/sign-in",
+    "pass": 3
+   },
+   {
+    "quote": "Participation Protection",
+    "url": "https://docs.novig.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Monetary representations",
+    "url": "https://docs.novig.com/",
+    "pass": 3
+   },
+   {
+    "quote": "You create your management key in your Novig profile. It opens and funds subaccounts but can’t place orders.",
+    "url": "https://docs.novig.com/",
+    "pass": 3
+   },
+   {
+    "quote": "April 2026",
+    "url": "https://www.petralabs.com/customers/novig-aeo-case-study-ai-traffic-growth",
+    "pass": 3
+   },
+   {
+    "quote": "Novig is a trader-first sports prediction market that eliminates the traditional house margin (the \"vig\") entirely. Instead of betting against a sportsbook, users trade directly with each other at true market odds.",
+    "url": "https://www.petralabs.com/customers/novig-aeo-case-study-ai-traffic-growth",
+    "pass": 3
+   },
+   {
+    "quote": "(SVP, Product) lead Novig's growth and brand strategy. Their challenge was that AI search engines such as ChatGPT, Gemini, and Claude had become a real discovery channel for users looking for the best odds, but Novig was invisible.",
+    "url": "https://www.petralabs.com/customers/novig-aeo-case-study-ai-traffic-growth",
+    "pass": 3
+   },
+   {
+    "quote": "Petra Labs provides software, services, and custom-built attribution models to help brands win in AI search.",
+    "url": "https://www.petralabs.com/customers/novig-aeo-case-study-ai-traffic-growth",
+    "pass": 3
+   },
+   {
+    "quote": "Over six months, Petra Labs built Novig's AI search presence from zero into the most-cited sportsbook operator across ChatGPT, Claude, and Gemini.",
+    "url": "https://www.petralabs.com/customers/novig-aeo-case-study-ai-traffic-growth",
+    "pass": 3
+   },
+   {
+    "quote": "The Playbook: 1,500+ prompts.",
+    "url": "https://www.petralabs.com/customers/novig-aeo-case-study-ai-traffic-growth",
+    "pass": 3
+   },
+   {
+    "quote": "We tracked 1,500+ prompts across ChatGPT, Claude, and Gemini. These are the actual questions users ask AI models about sports betting.",
+    "url": "https://www.petralabs.com/customers/novig-aeo-case-study-ai-traffic-growth",
+    "pass": 3
+   },
+   {
+    "quote": "How we built Novig's prompt dataset",
+    "url": "https://www.petralabs.com/customers/novig-aeo-case-study-ai-traffic-growth",
+    "pass": 3
+   },
+   {
+    "quote": "Novig faced a unique challenge relative to most companies who optimize for AI search: user search behavior resets every ~4 weeks as sports seasons change. NFL, NBA, March Madness, and international events all create entirely new waves of demand, meaning a static prompt strategy would decay almost immediately.",
+    "url": "https://www.petralabs.com/customers/novig-aeo-case-study-ai-traffic-growth",
+    "pass": 3
+   },
+   {
+    "quote": "To solve this, we built an agentic system that continuously updates the prompts we track based on sport, seasonality, and emerging user demand. As new betting cycles begin, the system surfaces and prioritizes the highest-value queries in real time—ensuring Novig is always present where intent is shifting.",
+    "url": "https://www.petralabs.com/customers/novig-aeo-case-study-ai-traffic-growth",
+    "pass": 3
+   },
+   {
+    "quote": "Interviews, campaign data, and performance insights from Novig",
+    "url": "https://www.petralabs.com/customers/novig-aeo-case-study-ai-traffic-growth",
+    "pass": 3
+   },
+   {
+    "quote": "The result was a dynamic prompt map designed to correlate with real world user sentiment and search volume.",
+    "url": "https://www.petralabs.com/customers/novig-aeo-case-study-ai-traffic-growth",
+    "pass": 3
+   },
+   {
+    "quote": "The Problem: Zero presence across 1,500+ unbranded prompts",
+    "url": "https://www.petralabs.com/customers/novig-aeo-case-study-ai-traffic-growth",
+    "pass": 3
+   },
+   {
+    "quote": "Regardless of the query type or intent, Novig was essentially absent across every single prompt on Day 1.",
+    "url": "https://www.petralabs.com/customers/novig-aeo-case-study-ai-traffic-growth",
+    "pass": 3
+   },
+   {
+    "quote": "On informational prompts about how to bet in a given state, Novig was absent in markets where it's one of the only legal options, with users instead pointed to illegal workarounds or out-of-state alternatives.",
+    "url": "https://www.petralabs.com/customers/novig-aeo-case-study-ai-traffic-growth",
+    "pass": 3
+   },
+   {
+    "quote": "To close these gaps, we deployed a multi-platform content strategy: owned media on Novig's blog and site, a trustworthy branded presence across social platforms and industry forums, and strong earned media coverage on high-authority press. Here’s how we did it:",
+    "url": "https://www.petralabs.com/customers/novig-aeo-case-study-ai-traffic-growth",
+    "pass": 3
+   },
+   {
+    "quote": "This gives us a precise view of:",
+    "url": "https://www.petralabs.com/customers/novig-aeo-case-study-ai-traffic-growth",
+    "pass": 3
+   },
+   {
+    "quote": "Which domains and content types drive citations",
+    "url": "https://www.petralabs.com/customers/novig-aeo-case-study-ai-traffic-growth",
+    "pass": 3
+   },
+   {
+    "quote": "We prioritize depth over volume. All content is human-written and deeply researched, built to meet the level of specificity AI systems reward. For example, our team conducted extensive legal research to produce state-by-state betting content - material that surfaced consistently across informational queries and long-tail “fan-out” prompts.",
+    "url": "https://www.petralabs.com/customers/novig-aeo-case-study-ai-traffic-growth",
+    "pass": 3
+   },
+   {
+    "quote": "Fixing hallucinations and misinformation in branded prompts is not about updating a homepage, it’s about changing how models learn what a company is.",
+    "url": "https://www.petralabs.com/customers/novig-aeo-case-study-ai-traffic-growth",
+    "pass": 3
+   },
+   {
+    "quote": "We treated this as a system-level problem: identifying where the models were pulling their understanding of Novig, then systemically replacing and reinforcing those signals across the ecosystem.",
+    "url": "https://www.petralabs.com/customers/novig-aeo-case-study-ai-traffic-growth",
+    "pass": 3
+   },
+   {
+    "quote": "Establishing consistent language around Novig’s model (prediction market, peer-to-peer, no vig) across owned and earned content",
+    "url": "https://www.petralabs.com/customers/novig-aeo-case-study-ai-traffic-growth",
+    "pass": 3
+   },
+   {
+    "quote": "Reinforcing key facts (product mechanics, legality, positioning) across multiple surfaces models rely on",
+    "url": "https://www.petralabs.com/customers/novig-aeo-case-study-ai-traffic-growth",
+    "pass": 3
+   },
+   {
+    "quote": "Week 2 — Prompt audit complete; content strategy defined.",
+    "url": "https://www.petralabs.com/customers/novig-aeo-case-study-ai-traffic-growth",
+    "pass": 3
+   },
+   {
+    "quote": "Week 24 — 21% visibility, 35× organic (April '26, still climbing).",
+    "url": "https://www.petralabs.com/customers/novig-aeo-case-study-ai-traffic-growth",
+    "pass": 3
+   },
+   {
+    "quote": "Novig partnered with Social Alchemy at the start of 2026 with a simple goal: build brand awareness among passionate sports fans. As one of the fastest growing peer to peer sports prediction markets, they needed a way to break through a crowded sports media landscape and get in front of the right audience at scale.",
+    "url": "https://www.socialalchemy.co/case-studies/novig",
+    "pass": 3
+   },
+   {
+    "quote": "Rather than creating content that explained the product, the Social Alchemy team focused on creating content sports fans would genuinely want to watch. Together, we launched I Am Coach Now, a sports show built around a fictional coach who throws a dart at a team and gives his unfiltered take on everything that organization is doing wrong and how he would fix it.",
+    "url": "https://www.socialalchemy.co/case-studies/novig",
+    "pass": 3
+   },
+   {
+    "quote": "The strategy was simple. Earn attention first from the right audience then introduce Novig naturally. We created content that sparked debate, generated comments, and mentioned Novig enough for people to ask, \"What is Novig?\"",
+    "url": "https://www.socialalchemy.co/case-studies/novig",
+    "pass": 3
+   },
+   {
+    "quote": "Tell us about your brand and we'll show you exactly how we'd grow your channels: strategy, production, and the lot. You'll leave the call with a plan.",
+    "url": "https://www.socialalchemy.co/case-studies/novig",
+    "pass": 3
+   },
+   {
+    "quote": "Credit card pay-ins, crypto rails, stablecoin instant settlement, high acceptance routing, chargeback protection, and white-glove partnership",
+    "url": "https://coinflow.cash/blog/novig-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "improved conversion, reduced failed transactions, and scaled operations",
+    "url": "https://coinflow.cash/blog/novig-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Acceptance rates improved from 86% → ~95%",
+    "url": "https://coinflow.cash/blog/novig-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "98% chargeback protection with reduced fraud overhead",
+    "url": "https://coinflow.cash/blog/novig-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "is building a more efficient and transparent sports trading experience, one that feels modern, intuitive, and aligned with how users expect financial products to work today. That vision extends far beyond the front-end product. It depends heavily on the underlying infrastructure—especially payments.",
+    "url": "https://coinflow.cash/blog/novig-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "At Novig, payments touch everything. Dan Rosen, COO, oversees operations, including payments, finance, market making, fraud, and support, while Sammy Stone, VP of Product Marketing, leads analytics, lifecycle marketing, and product positioning. Together, they saw firsthand how critical payments were to both growth and user experience.",
+    "url": "https://coinflow.cash/blog/novig-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Novig launched with guaranteed ACH, which served as a solid foundation. It was reliable, straightforward, widely adopted, and helped the team get to market quickly. But as the company grew, users wanted flexibility. Some preferred cards. Others were more comfortable with crypto.",
+    "url": "https://coinflow.cash/blog/novig-case-study/",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Winning AsiaがDigicannとの逆さ合併を通じてカナダ市場への上場を目指す",
+    "url": "https://lustich.com/ja/news/novig-unveils-responsible-trading-framework",
+    "pass": 3
+   },
+   {
+    "quote": "Our intervention strategy (across owned, earned and social) is reverse engineered from AI outputs. We don’t guess what might work—we analyze exactly which sources, narratives, and structures models use when generating recommendations, then build directly against those patterns.",
+    "url": "https://www.petralabs.com/customers/novig-aeo-case-study-ai-traffic-growth",
+    "pass": 3
+   },
+   {
+    "quote": "This payment/product gap was becoming a growth constraint. Without additional rails, Novig was leaving conversion and new user acquisition on the table.",
+    "url": "https://coinflow.cash/blog/novig-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "That next phase also comes with increasing complexity: more volume, more regulatory scrutiny, and more sophisticated user expectations. Payments, in that context, become even more critical infrastructure—not just a checkout layer—but a core part of how the platform scales.",
+    "url": "https://coinflow.cash/blog/novig-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "Chargebacks in gaming cost studios revenue, fees, and processor trust. Here are the six most common causes and a prevention playbook built for studios in 2027.",
+    "url": "https://coinflow.cash/blog/novig-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "See how our proprietary methodology utilizes historical data sets to synthesize the likelihood of an acquisition, IPO, or no exit event. Get a detailed look at the calculations behind our predictions.",
+    "url": "https://pitchbook.com/profiles/company/484497-10",
+    "pass": 3
+   },
+   {
+    "quote": "Novig has 50 total employees.",
+    "url": "https://pitchbook.com/profiles/company/484497-10",
+    "pass": 3
+   },
+   {
+    "quote": "What is Novig’s current revenue?",
+    "url": "https://pitchbook.com/profiles/company/484497-10",
+    "pass": 3
+   },
+   {
+    "quote": "The current revenue for Novig is",
+    "url": "https://pitchbook.com/profiles/company/484497-10",
+    "pass": 3
+   },
+   {
+    "quote": "Novig: Revenue, Competitors, Alternatives",
+    "url": "https://growjo.com/company/Novig",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue and Competitors",
+    "url": "https://growjo.com/company/Novig",
+    "pass": 3
+   },
+   {
+    "quote": "Estimated Revenue & Valuation",
+    "url": "https://growjo.com/company/Novig",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated annual revenue is currently",
+    "url": "https://growjo.com/company/Novig",
+    "pass": 3
+   },
+   {
+    "quote": "'s estimated revenue per employee is $",
+    "url": "https://growjo.com/company/Novig",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Novigと、KalshiやPolymarketの違いを調べてみました｜Hiro — Sep 18, 2026 · このため、NovigではGPSやIPアドレスを用いた位置情報制御（ジオフェンシング）を導入しています。 利用者が規制対象の州内に物理的に滞在している間は、アカウントを持っていても取引や入金が自動的に制限される仕組みになっています。",
+    "url": "https://note.com/relax66/n/n02a6555e0aa1",
+    "pass": 3
+   },
+   {
+    "quote": "Novig、CFTCから記録的な速さで承認を受け、連邦規制下のスポーツ予測... — Aug 6, 2026 · Tölt Strategiesの発表によると、Novigは今週、米商品先物取引委員会（CFTC）から指定契約市場（Designated Contract Market）としての承認を取得し、全国規模でスポーツ予測市場の取引を開始した。",
+    "url": "https://www.gate.com/ja/news/detail/novig-launches-federally-regulated-sports-prediction-market-following-23252797",
+    "pass": 3
+   },
+   {
+    "quote": "Novig、予測市場における厳格な責任ある取引基準を導入 — Lustich.de — Aug 14, 2026 · 2026年8月14日、Novigは広範な責任ある取引フレームワークの採用を発表しました。 この措置は、保護対策が単に顧客向けのオプションツールとして存在するだけでなく、Ludlow Exchangeの公式規則集に直接統合されているため、特に注目に値します。",
+    "url": "https://lustich.com/ja/news/novig-unveils-responsible-trading-framework",
+    "pass": 3
+   },
+   {
+    "quote": "Novig社、連邦政府の規制を受けたスポーツ予想市場を全国展開 — Aug 6, 2026 · 2021年に設立されたNovigは、当初は懸賞型スポーツブックとして運営され 、より多くのピアツーピア取引を可能にするために社内トレーディングチームを構築した後、予測市場へと事業を転換した。",
+    "url": "https://www.yogonet.com/ja/米国外の世界各国/ニュース-a/2026/08/06/125766-ノビグが連邦政府の規制を受けたスポーツ予測市場を全国展開",
+    "pass": 3
+   },
+   {
+    "quote": "シドニー・スウィーニー、ほぼ全裸の炎上CM第2弾が公開 「嬉しいけど... — Oct 11, 2026 · 謝罪して鎮火を図るどころか、再炎上させている。 シドニーもNovigも、前回の炎上騒ぎをまったく気にしていないのは明らか。今回のCMにも批判 ...",
+    "url": "https://www.elle.com/jp/culture/celebgossip/a74103008/sydney-sweeney-new-novig-ad-261012/",
+    "pass": 3
+   },
+   {
+    "quote": "Novig - Wikipedia — In September 2026, actress Sydney Sweeney appeared nude in an advertisement for Novig, using sports equipment as props to cover up while repeating the tagline \"Just sports\". The company also described her as a \"strategic partner and equity holder.\"",
+    "url": "https://en.wikipedia.org/wiki/Novig",
+    "pass": 3
+   },
+   {
+    "quote": "Novig | The Prediction Market Built for Sports Fans — Novig is a sports trading app for true fans: trade outcomes peer-to-peer, no house edge, better prices than sportsbook odds. CFTC-regulated. Live nationwide.",
+    "url": "https://novig.com/sign-in",
+    "pass": 3
+   },
+   {
+    "quote": "Overview - Novig API — Trade sports contracts on the Novig exchange through our API. Place orders with signed REST requests. Watch the order book and your fills on one websocket. Each subaccount has its own balance and its own trading key. You create your management key in your Novig profile. It opens and funds subaccounts but can’t place orders.",
+    "url": "https://docs.novig.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Home | Novig Help Center — Everything related to your Novig account. Covers identity verification, login and password help, updating your profile, viewing transaction history, and closing or reactivating your account.",
+    "url": "https://support.novig.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "AEO Case Study: 27× AI-referred site traffic in 6 months — Novig is now the default non-incumbent recommendation in AI search, leading to a 27× increase in AI-referred site traffic and a 35× lift in organic search over the same time period.",
+    "url": "https://www.petralabs.com/customers/novig-aeo-case-study-ai-traffic-growth",
+    "pass": 3
+   },
+   {
+    "quote": "Novig Case Study | Social Alchemy — See how Social Alchemy helped Novig reach 10.5M views and 10K followers in four months with sports-first creative.",
+    "url": "https://www.socialalchemy.co/case-studies/novig",
+    "pass": 3
+   },
+   {
+    "quote": "How Novig Unlocked Growth with Coinflow: From ACH-Only to ... — Apr 21, 2026 · Novig partnered with Coinflow to move beyond ACH-only payments, giving users more flexibility in how they fund their accounts. By introducing card and crypto rails, the team improved conversion, reduced failed transactions, and scaled operations without adding unnecessary overhead.",
+    "url": "https://coinflow.cash/blog/novig-case-study/",
+    "pass": 3
+   },
+   {
+    "quote": "This case study hits home for us. Novig was one of our first ... — We built an exchange that basically eradicates the old sportsbook model with the house. In our particular case, Novig had pretty much no organic visibility and our SEO was very, very poor.",
+    "url": "https://www.linkedin.com/posts/ramie-khoury-5b041a154_this-case-study-hits-home-for-us-novig-activity-7490090371897667584-4UxY",
+    "pass": 3
+   },
+   {
+    "quote": "The Sydney Sweeney Novig Case Study: Sex, Sports, and the ... — Sep 18, 2026 · This case study looks at what happened, why Novig and Sweeney chose this approach, what the early data says about whether it worked, and what it means for the two industries colliding in this single advertisement, sports prediction markets and women’s sports marketing.",
+    "url": "https://blogs.digifluence.in/the-sydney-sweeney-novig-case-study-sex-sports-and-the-prediction-market-gamble/",
+    "pass": 3
+   },
+   {
+    "quote": "Novig 2026 Company Profile: Valuation, Funding & Investors ...Novig – Revenue Estimate & Market Landscape – 2026Novig - 2026 Company Profile, Funding & Competitors - TracxnNovig: Revenue, Competitors, Alternatives - growjo.comNovig - 2026 Company Profile, Team, Funding & Competitors ...Novig: Funding, Investors & Team (Nov 2026) - FundedIQBetting App Novig Raises $75 Million As It Joins Prediction",
+    "url": "https://pitchbook.com/profiles/company/484497-10",
+    "pass": 3
+   },
+   {
+    "quote": "Novig – Revenue Estimate & Market Landscape – 2026 — Discover Novig's estimated revenue, valuation, funding history, employee data, and top competitors.",
+    "url": "https://compworth.com/company/novig",
+    "pass": 3
+   },
+   {
+    "quote": "Novig - 2026 Company Profile, Funding & Competitors - Tracxn — Oct 17, 2026 · Explore Novig's in-depth company profile, including funding details, key investors, leadership, and competitors.",
+    "url": "https://tracxn.com/d/companies/novig/__tqG8JXxT-N6GEGWPjM6GlNa3uT4gdQbZ9ZEf1AT3pzQ",
+    "pass": 3
+   },
+   {
+    "quote": "Novig: Revenue, Competitors, Alternatives - growjo.com — Novig grew their employee count by 29% last year. What Is Novig? Novig is a commission-free sports betting exchange that guarantees bettors the best odds and eliminates the need for traditional sportsbooks.",
+    "url": "https://growjo.com/company/Novig",
+    "pass": 3
+   },
+   {
+    "quote": "Novig - 2026 Company Profile, Team, Funding & Competitors ... — Jul 16, 2026 · Novig is a series B company based in San Francisco (United States), founded in 2022 by Jacob Fortinsky and Kelechi Ukah. It operates as a Platform for peer-to-peer sports prediction and trading, allowing users to make predictions against real people. Novig has raised $75M in funding from Pantera Capital, with a current ",
+    "url": "https://tracxn.com/d/companies/novig/__aLnqsfysk7GgEftHBwh4DSSObEjvKDrPAi4B8EDwJG0",
+    "pass": 3
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "AEO Case Study: 27× AI-referred site traffic in 6 months - Petra Labs: Your AI Search Team",
+    "url": "https://www.petralabs.com/customers/novig-aeo-case-study-ai-traffic-growth",
+    "pass": 3
+   },
+   {
+    "quote": "AEO Case Study: 27× AI-referred site traffic in 6 months",
+    "url": "https://www.petralabs.com/customers/novig-aeo-case-study-ai-traffic-growth",
+    "pass": 3
+   },
+   {
+    "quote": "From unranked to #1 among sportsbook operators",
+    "url": "https://www.petralabs.com/customers/novig-aeo-case-study-ai-traffic-growth",
+    "pass": 3
+   },
+   {
+    "quote": "Novig Case Study | Social Alchemy",
+    "url": "https://www.socialalchemy.co/case-studies/novig",
+    "pass": 3
+   },
+   {
+    "quote": "Sportsbook deposits fail when processors can't handle high-risk volume. Compare 5 payment processors for sports betting and online gambling operators in 2027.",
+    "url": "https://coinflow.cash/blog/novig-case-study/",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Tell us about your brand and we'll show you exactly how we'd grow your channels: strategy, production, and the lot. You'll leave the call with a plan.",
+    "url": "https://www.socialalchemy.co/case-studies/novig",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Supports A/B testing and experimentation on pitchbook.com. Used to assign a visitor to a test variation and keep that experience consistent across pages. Does not collect name, email, or account identifiers and is not used for advertising.",
+    "url": "https://pitchbook.com/profiles/company/484497-10",
+    "pass": 3
+   },
+   {
+    "quote": "B2B email lists",
+    "url": "https://growjo.com/company/Novig",
+    "pass": 3
+   },
+   {
+    "quote": "B2B Email Finder",
+    "url": "https://growjo.com/company/Novig",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Novigと、KalshiやPolymarketの違いを調べてみました｜Hiro Sep 18, 2026 · Novigとは？ 名前の由来と特徴 Novigは、2021年にジェイコブ・フォーティンスキーCEOらによって設立された、アメリカのスポーツ取引・予測市場プラットフォームです。 社名の「Novig」は、業界用語である「No Vig（ノー・ヴィグ）」に由来しています。",
+    "url": "https://note.com/relax66/n/n02a6555e0aa1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Novigと、KalshiやPolymarketの違いを調べてみました｜Hiro",
+    "url": "https://note.com/relax66/n/n02a6555e0aa1",
+    "pass": 3
+   },
+   {
+    "quote": "Novigと、KalshiやPolymarketの違いを調べてみました",
+    "url": "https://note.com/relax66/n/n02a6555e0aa1",
+    "pass": 3
+   },
+   {
+    "quote": "Novigは従来のスポーツベッティングとは異なり、「予測市場（Prediction Market）」と呼ばれる仕組みを取り入れたサービスです。同じような予測市場のサービスとしては「Kalshi（カルシ）」や「Polymarket（ポリマーケット）」も有名ですが、それぞれどのような違いがあるのでしょうか。",
+    "url": "https://note.com/relax66/n/n02a6555e0aa1",
+    "pass": 3
+   },
+   {
+    "quote": "今回は、Novigの基本的な仕組みやビジネスモデルなど、KalshiやPolymarketとの違いについて調べてみました。",
+    "url": "https://note.com/relax66/n/n02a6555e0aa1",
+    "pass": 3
+   },
+   {
+    "quote": "Novigは、2021年にジェイコブ・フォーティンスキーCEOらによって設立された、アメリカのスポーツ取引・予測市場プラットフォームです。",
+    "url": "https://note.com/relax66/n/n02a6555e0aa1",
+    "pass": 3
+   },
+   {
+    "quote": "社名の「Novig」は、業界用語である「No Vig（ノー・ヴィグ）」に由来しています。「Vig（ヴィグ）」とは、従来のブックメーカー（胴元）がオッズに上乗せしている手数料のことを指します。Novigは「胴元の手数料を排除する」というコンセプトからスタートしました。",
+    "url": "https://note.com/relax66/n/n02a6555e0aa1",
+    "pass": 3
+   },
+   {
+    "quote": "通常、スポーツベッティングでは利用者は「胴元」を相手にして賭けを行います。この場合、胴元があらかじめ手数料を組み込んだオッズを提示するため、利用者にとっては不利な条件になりやすいという側面がありました。",
+    "url": "https://note.com/relax66/n/n02a6555e0aa1",
+    "pass": 3
+   },
+   {
+    "quote": "これに対し、Novigは証券取引所のように利用者同士が直接オッズを提示し合って取引する「P2P（ピア・ツー・ピア）形式」を採用しています。これにより、中間手数料を極力抑え、参加者にとって公平な取引環境を提供することを目指しています。",
+    "url": "https://note.com/relax66/n/n02a6555e0aa1",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Novig (@Novig) / X We’re hiring the biggest sports fan in America. Yes, seriously. 🫵 Become Novig’s Chief Fan Officer and get paid up to $300K to go to games, create content, and rep your city. Think you know ball? Apply at the link below 👇",
+    "url": "https://x.com/novig",
+    "pass": 3
+   },
+   {
+    "quote": "Novig Developers (@NovigDevs) / X New Leagues: Liga MX and ATP Challenger are now available on Novig. What leagues or markets would you like to see added next?",
+    "url": "https://x.com/NovigDevs",
+    "pass": 3
+   },
+   {
+    "quote": "Novig on X: \"No dictators. No market manipulation. No insider ... Novig @Novig Oct 11 Novig - America's #1 Sports Trading App From share.novig.us 11 10K",
+    "url": "https://x.com/novig/status/2109298471521927441",
+    "pass": 3
+   },
+   {
+    "quote": "Working @ Novig (@NovigCareers) / Posts / X I'm hiring a chief of staff to work with me on the most important issues facing Novig. I want someone who's relentless, high agency, AI-fluent, knows PMs cold, takes/gives feedback well, and has a killer instinct.",
+    "url": "https://x.com/NovigCareers",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Novig - LinkedIn Novig | 10,933 followers on LinkedIn. Building America's Sports Prediction Market | Building America's Sports Prediction Market",
+    "url": "https://www.linkedin.com/company/novig",
+    "pass": 3
+   },
+   {
+    "quote": "Jacob Fortinsky - Co-Founder & CEO at Novig | LinkedInNovig: Jobs | LinkedInAdam Warrington - Novig | LinkedInGrowth Operations Coordinator at Novig — New York, United ...Ari Hirsch - Chief Product Officer at Novig | LinkedInKarl Gambin, MA, ACAMS - Novig | LinkedIn Co-Founder & CEO at Novig · Building Novig, the prediction market for sports · Experience: Novig · Education: Harvard University · Lo",
+    "url": "https://www.linkedin.com/in/jfortinsky",
+    "pass": 3
+   },
+   {
+    "quote": "Novig: Jobs | LinkedIn Senior Backend Engineer, Core Trading Systems Novig New York, United States $200,000.00 - $260,000.00 1 day ago",
+    "url": "https://www.linkedin.com/company/novig/jobs",
+    "pass": 3
+   },
+   {
+    "quote": "Adam Warrington - Novig | LinkedInGrowth Operations Coordinator at Novig — New York, United ...Ari Hirsch - Chief Product Officer at Novig | LinkedInKarl Gambin, MA, ACAMS - Novig | LinkedIn · Experience: Novig · Education: Michigan State University · Location: New York City Metropolitan Area · 500+ connections on LinkedIn. Apply for Growth Operations Coordinator at Novig in New York, United State",
+    "url": "https://www.linkedin.com/in/adamwarrington",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Novig - FacebookNovig App | New York NY - FacebookNovig released a second “Just Sports” ad starring Sydney ...Novig is breaking a second iteration of its provocative ...Sydney Sweeney bares it all in a new advertisement for Novig ...WISH-TV - Female athletes have criticized a Novig... | FacebookSydney Sweeney's New Topless Novig Ad Sparks Backlash Online ... Novig. 115 followers · 13 talking about",
+    "url": "https://www.facebook.com/novigapp/",
+    "pass": 3
+   },
+   {
+    "quote": "Novig App | New York NY - Facebook Novig App, New York. 1,898 followers · 18,350 talking about this. Win Bigger on Novig 📈 Play against other real users instead of the house 🤝",
+    "url": "https://www.facebook.com/p/Novig-App-61570643702103/",
+    "pass": 3
+   },
+   {
+    "quote": "Novig released a second “Just Sports” ad starring Sydney ... Oct 13, 2026 · Following the launch, Novig reportedly reached a $2 billion valuation. The company also reported a rise of more than 218% in first-time depositors around the ad’s debut.",
+    "url": "https://www.facebook.com/Adweek/videos/novig-released-a-second-just-sports-ad-starring-sydney-sweeney-on-october-11-the/1404459745192284/",
+    "pass": 3
+   },
+   {
+    "quote": "Novig is breaking a second iteration of its provocative ... Novig is breaking a second iteration of its provocative Sydney Sweeney campaign that drew criticism from female athletes and drove national attention, with its CEO citing rising trading activity and millions of organic views as evidence that its first major brand campaign is working.",
+    "url": "https://www.facebook.com/AdAge/videos/novig-is-breaking-a-second-iteration-of-its-provocative-sydney-sweeney-campaign-/1639019844622194/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://novig.com/",
+    "status": "ok",
+    "method": "browser"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://note.com/relax66/n/n02a6555e0aa1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.gate.com/ja/news/detail/novig-launches-federally-regulated-sports-prediction-market-following-23252797",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://lustich.com/ja/news/novig-unveils-responsible-trading-framework",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yogonet.com/ja/%E7%B1%B3%E5%9B%BD%E5%A4%96%E3%81%AE%E4%B8%96%E7%95%8C%E5%90%84%E5%9B%BD/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9-a/2026/08/06/125766-%E3%83%8E%E3%83%93%E3%82%B0%E3%81%8C%E9%80%A3%E9%82%A6%E6%94%BF%E5%BA%9C%E3%81%AE%E8%A6%8F%E5%88%B6%E3%82%92%E5%8F%97%E3%81%91%E3%81%9F%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E4%BA%88%E6%B8%AC%E5%B8%82%E5%A0%B4%E3%82%92%E5%85%A8%E5%9B%BD%E5%B1%95%E9%96%8B",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://biz.moneyforward.com/contract/basic/8378/",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://b-seeds.com/column/sole-agency-agreement",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/yamamoto_ec/n/ncc92bffa3f69",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.wikipedia.org/wiki/Novel_JAPAN",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Novig",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://novig.com/sign-in",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://docs.novig.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.petralabs.com/customers/novig-aeo-case-study-ai-traffic-growth",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.socialalchemy.co/case-studies/novig",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://coinflow.cash/blog/novig-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/posts/ramie-khoury-5b041a154_this-case-study-hits-home-for-us-novig-activity-7490090371897667584-4UxY",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://partner.vw.com/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://partner.vw.com/partner",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.vizrt.com/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://upcloud.com/global/partner-program/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pitchbook.com/profiles/company/484497-10",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://compworth.com/company/novig",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/novig/__tqG8JXxT-N6GEGWPjM6GlNa3uT4gdQbZ9ZEf1AT3pzQ",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://growjo.com/company/Novig",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/relax66/n/n02a6555e0aa1",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/novig",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/NovigDevs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/novig/status/2109298471521927441",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/NovigCareers",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/novig",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/jfortinsky",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/novig/jobs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/adamwarrington",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/novigapp/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/Novig-App-61570643702103/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/Adweek/videos/novig-released-a-second-just-sports-ad-starring-sydney-sweeney-on-october-11-the/1404459745192284/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/AdAge/videos/novig-is-breaking-a-second-iteration-of-its-provocative-sydney-sweeney-campaign-/1639019844622194/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/novig",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/novig/status/2109298471521927441",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Novig 日本 導入",
+   "results": [
+    "https://note.com/relax66/n/n02a6555e0aa1",
+    "https://www.gate.com/ja/news/detail/novig-launches-federally-regulated-sports-prediction-market-following-23252797",
+    "https://lustich.com/ja/news/novig-unveils-responsible-trading-framework",
+    "https://www.yogonet.com/ja/米国外の世界各国/ニュース-a/2026/08/06/125766-ノビグが連邦政府の規制を受けたスポーツ予測市場を全国展開",
+    "https://www.elle.com/jp/culture/celebgossip/a74103008/sydney-sweeney-new-novig-ad-261012/",
+    "https://levolant.jp/2026/11/11/463224/",
+    "https://car.watch.impress.co.jp/docs/news/2153268.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Novig 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://biz.moneyforward.com/contract/basic/8378/",
+    "https://b-seeds.com/column/sole-agency-agreement",
+    "https://note.com/yamamoto_ec/n/nfa7d11908a21",
+    "https://note.com/yamamoto_ec/n/ncc92bffa3f69",
+    "https://eikaiwa.dmm.com/uknow/questions/65573/",
+    "https://www.indexpro.co.jp/distributor/search-distributor",
+    "https://www.jetro.go.jp/invest/setting_up/section1/page1.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Novig Japan",
+   "results": [
+    "https://ja.wikipedia.org/wiki/Novel_JAPAN",
+    "https://en.wikipedia.org/wiki/Novig",
+    "https://novig.com/sign-in",
+    "https://docs.novig.com/",
+    "https://support.novig.com/en/",
+    "https://support.novig.com/en/articles/10336081-what-is-novig",
+    "https://data.novig.com/",
+    "https://novig.com/landing"
+   ],
+   "engines": [
+    "ddgs:google",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "Novig manufacturing customer case study",
+   "results": [
+    "https://www.petralabs.com/customers/novig-aeo-case-study-ai-traffic-growth",
+    "https://www.socialalchemy.co/case-studies/novig",
+    "https://coinflow.cash/blog/novig-case-study/",
+    "https://www.linkedin.com/posts/ramie-khoury-5b041a154_this-case-study-hits-home-for-us-novig-activity-7490090371897667584-4UxY",
+    "https://blogs.digifluence.in/the-sydney-sweeney-novig-case-study-sex-sports-and-the-prediction-market-gamble/",
+    "https://www.youtube.com/watch?v=9AJeoXeTPNo",
+    "https://www.linkedin.com/pulse/novigs-just-sports-campaign-case-study-shockvertising-pulse-haus--7pgdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Novig white label OR reseller OR partner program",
+   "results": [
+    "https://partner.vw.com/",
+    "https://partner.vw.com/partner",
+    "https://www.vizrt.com/partner-program/",
+    "https://upcloud.com/partner-program/",
+    "https://partners.spectrum.com/",
+    "https://partners.adobe.com/s/directory/channel?lang=en",
+    "https://partnerportal.fortinet.com/English/NAReseller/home.aspx"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Novig founded funding employees revenue",
+   "results": [
+    "https://pitchbook.com/profiles/company/484497-10",
+    "https://compworth.com/company/novig",
+    "https://tracxn.com/d/companies/novig/__tqG8JXxT-N6GEGWPjM6GlNa3uT4gdQbZ9ZEf1AT3pzQ",
+    "https://growjo.com/company/Novig",
+    "https://tracxn.com/d/companies/novig/__aLnqsfysk7GgEftHBwh4DSSObEjvKDrPAi4B8EDwJG0",
+    "https://fundediq.co/novig-novig-co-funding/",
+    "https://www.forbes.com/sites/hanktucker/2026/02/18/betting-app-novig-raises-75-million-as-it-looks-to-join-prediction-market-wave/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com Novig",
+   "results": [
+    "https://note.com/relax66/n/n02a6555e0aa1",
+    "https://note.com/tag/スト6",
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/dashboard",
+    "https://note.com/kon_yu/n/neeae80887ef4",
+    "https://note.com/arrows_column/n/nc266340c0609",
+    "https://note.com/hiroki_kurimoto/n/n2d4008683d13"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com Novig",
+   "results": [
+    "https://x.com/novig",
+    "https://x.com/NovigDevs",
+    "https://x.com/novig/status/2109298471521927441",
+    "https://x.com/NovigCareers",
+    "https://x.com/Novig/status/2098460185488658658",
+    "https://x.com/Novig/status/2097672302976459025",
+    "https://x.com/NovigDevs/status/2108299432345440275"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com Novig",
+   "results": [
+    "https://www.linkedin.com/company/novig",
+    "https://www.linkedin.com/in/jfortinsky",
+    "https://www.linkedin.com/company/novig/jobs",
+    "https://www.linkedin.com/in/adamwarrington",
+    "https://www.linkedin.com/jobs/view/growth-operations-coordinator-at-novig-4472403790",
+    "https://www.linkedin.com/in/ari-hirsch-77551418a",
+    "https://www.linkedin.com/in/karljgambin"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com Novig",
+   "results": [
+    "https://www.facebook.com/novigapp/",
+    "https://www.facebook.com/p/Novig-App-61570643702103/",
+    "https://www.facebook.com/Adweek/videos/novig-released-a-second-just-sports-ad-starring-sydney-sweeney-on-october-11-the/1404459745192284/",
+    "https://www.facebook.com/AdAge/videos/novig-is-breaking-a-second-iteration-of-its-provocative-sydney-sweeney-campaign-/1639019844622194/",
+    "https://www.facebook.com/Vox/videos/sydney-sweeney-and-that-controversial-novig-ad/1056438207010181/",
+    "https://www.facebook.com/WISHNews8/posts/female-athletes-have-criticized-a-novig-advertising-campaign-featuring-actress-s/1511091387731379/",
+    "https://www.facebook.com/firstpostin/videos/sydney-sweeneys-new-topless-novig-ad-sparks-backlash-online-after-just-sports-sy/1856792435683800/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Novig note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://the-shashi.com/tse/5243/executives/ceo/kato-sadaaki/",
+    "https://the-shashi.com/tse/5243/executives/",
+    "https://kitaishihon.com/company/5243/board-of-director",
+    "https://note.com/sadaaki",
+    "https://x.com/note_corp/status/2074734197949034502"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "Novig X 投稿",
+   "results": [
+    "https://x.com/novig",
+    "https://x.com/novig/status/2109298471521927441",
+    "https://novig.com/justsports",
+    "https://sydneysweeneysportsad.com/",
+    "https://www.tiktok.com/@novig",
+    "https://www.elle.com/jp/culture/celebgossip/a73731681/sydney-sweeney-nude-sports-betting-ad-ignites-backlash-among-female-olympians-260915/",
+    "https://www.toy-people.com/jp/?p=114429"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索12回）",
+  "日本の担い手": "記載なし（3回確認済み：公式1頁／PDF・画像0件／外部39頁・検索12回）"
+ }
+}

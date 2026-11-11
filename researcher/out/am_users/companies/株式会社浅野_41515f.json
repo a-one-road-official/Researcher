@@ -1,0 +1,1502 @@
+{
+ "name": "株式会社浅野",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T11:09:21.915661+00:00",
+ "official_url": "http://www.asano-japan.com",
+ "identified_by": "given",
+ "profile": {
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "252名（2023年4月1日現在）",
+    "url": "https://www.asano-japan.com/company/index.php",
+    "pass": 1
+   },
+   {
+    "label": "従業員数",
+    "value": "252名（2023年4月1日現在）",
+    "url": "https://www.asano-japan.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "社員数",
+    "value": "287人 担当者 萩原　英幸",
+    "url": "https://ja.nc-net.or.jp/company/77273/product/detail/58100/",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "製品開発支援事業・生産準備支援事業 試作板金部品製造（試作プレス金型～試作板金部品製造～組立まで）、試作パイプ加工、機械加工、治具設計・製作、量産板金部品製造、量産プレス金型製作、樹脂射出成形精密金型製作、金型設計、CAD設計、CAEによる解析、シミュレーション、形状測定、リバースエンジニアリングその他　製品開発・生産準備についての支援業務",
+    "url": "https://www.asano-japan.com/company/index.php",
+    "pass": 1
+   },
+   {
+    "label": "事業所",
+    "value": "本社・群馬工場（金属第一事業部） 試作板金部品製造（金型～製品・組立まで）、機械加工、治具設計・製作、3DCAD設計、シミュレーション、形状測定、リバースエンジニアリング、溶接、組立、パイプ加工、ハンドワーク、量産用プレス金型、治具の設計・製作 静岡工場（金属第二事業部） 試作板金部品製造（金型～製品・組立まで）、量産部品製造、量産金型製作、形状測定 京都工場（樹脂事業部SERA） 樹脂成形用金型の設計・製作、樹脂製品の小ロット生産",
+    "url": "https://www.asano-japan.com/company/index.php",
+    "pass": 1
+   },
+   {
+    "label": "静岡工場（金属第二事業部",
+    "value": "静岡県菊川市）",
+    "url": "https://www.asano-japan.com/company/division.php",
+    "pass": 1
+   },
+   {
+    "label": "業務内容",
+    "value": "・主に自動車メーカー様からの試作板金部品、量産部品、金型の受注業務\n・モノづくり支援業務のトータルコーディネート",
+    "url": "https://www.asano-japan.com/saiyo/careerjob.php",
+    "pass": 1
+   },
+   {
+    "label": "業務内容",
+    "value": "・MIG、TIG、スポット、ロボット溶接による板金加工業務\n・試作板金部品の油圧プレスによる小ロット加工業務 \n・3次元レーザー加工機による試作板金部品の加工業務 \n・3次元CADデータの作成業務",
+    "url": "https://www.asano-japan.com/saiyo/careerjob.php",
+    "pass": 1
+   },
+   {
+    "label": "業務内容",
+    "value": "・主に自動車部品測定業務\n・金型/試作部品などの測定業務",
+    "url": "https://www.asano-japan.com/saiyo/careerjob.php",
+    "pass": 1
+   },
+   {
+    "label": "業務内容",
+    "value": "・株式会社浅野のバックラウンドを支え、経営計画などに役立つデータ管理業務など",
+    "url": "https://www.asano-japan.com/saiyo/careerjob.php",
+    "pass": 1
+   },
+   {
+    "label": "事業内容",
+    "value": "製品開発支援事業・生産準備支援事業 試作板金部品製造（試作プレス金型～試作板金部品製造～組立まで）、試作パイプ加工、機械加工、治具設計・製作、量産板金部品製造、量産プレス金型製作、樹脂射出成形精密金型製作、金型設計、CAD設計、CAEによる解析、シミュレーション、形状測定、リバースエンジニアリングその他　製品開発・生産準備についての支援業務",
+    "url": "https://www.asano-japan.com/company/",
+    "pass": 1
+   },
+   {
+    "label": "事業所",
+    "value": "本社・群馬工場（金属第一事業部） 試作板金部品製造（金型～製品・組立まで）、機械加工、治具設計・製作、3DCAD設計、シミュレーション、形状測定、リバースエンジニアリング、溶接、組立、パイプ加工、ハンドワーク、量産用プレス金型、治具の設計・製作 静岡工場（金属第二事業部） 試作板金部品製造（金型～製品・組立まで）、量産部品製造、量産金型製作、形状測定 京都工場（樹脂事業部SERA） 樹脂成形用金型の設計・製作、樹脂製品の小ロット生産",
+    "url": "https://www.asano-japan.com/company/",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "自動車板金部品試作 自動車量産金型 自動車部品　樹脂射出成形金型 自動車部品　切削機械加工 CFRTP",
+    "url": "https://ja.nc-net.or.jp/company/77273/product/detail/58100/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本社・群馬工場",
+    "value": "群馬県伊勢崎市三和町2718-1",
+    "url": "https://ja.nc-net.or.jp/company/77273/product/detail/58100/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取扱材料": [
+   {
+    "quote": "株式会社 浅野｜モノづくり開発支援・金属加工・プレス板金・樹脂射出成型用金型 群馬県",
+    "url": "https://www.asano-japan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "試作板金加工・金型製造・樹脂金型製造・切削加工など、",
+    "url": "https://www.asano-japan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂成形用精密金型等、様々な製造に対応します",
+    "url": "https://www.asano-japan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "試作板金部品製造（試作プレス金型～試作板金部品製造～組立まで）、試作パイプ加工、機械加工、治具設計・製作、量産板金部品製造、量産プレス金型製作、樹脂射出成形精密金型製作、金型設計、CAD設計、CAEによる解析、シミュレーション、形状測定、リバースエンジニアリングその他 製品開発・生産準備についての支援業務",
+    "url": "https://www.asano-japan.com/company/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂成形用金型の設計・製作、樹脂製品の小ロット生産",
+    "url": "https://www.asano-japan.com/company/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂事業部SERA設立（京都府京都市南区）",
+    "url": "https://www.asano-japan.com/company/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂事業部SERAにてISO9001:2000認証取得",
+    "url": "https://www.asano-japan.com/company/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "計画名「熱可塑性CFRPによる車載用大型複雑形状製品の成形技術の開発」",
+    "url": "https://www.asano-japan.com/company/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂事業部SERAにてISO14001:2004認証取得",
+    "url": "https://www.asano-japan.com/company/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "JIS Q 9100:2016 品質マネジメントシステム－航空,宇宙及び防衛分野の組織に対する要求事項 認証取得 登録組織：本社・群馬工場 登録範囲：航空・宇宙及び防衛機器用の金属加工部品及びプレス板金加工部品の製造 炭素繊維を用いた自動車用成形加工部品の製造（適用外条項：8.3 製品及びサービスの設計・開発）",
+    "url": "https://www.asano-japan.com/company/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "鉄・アルミ・ステンレス等の板金加工から、インコネルやハステロイ、チタンといった特殊材の加工、切削加工から樹脂の射出成形や切削加工、製品・金型のデータ作成からシミュレーション、形状測定、表面処理等、様々なご要望にお応えします",
+    "url": "https://www.asano-japan.com/company/division.php",
+    "pass": 1
+   },
+   {
+    "quote": "京都工場（樹脂事業部SERA：京都府京都市）",
+    "url": "https://www.asano-japan.com/company/division.php",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂事業部SERAは、樹脂成形金型を製造する事業部です",
+    "url": "https://www.asano-japan.com/company/division.php",
+    "pass": 1
+   },
+   {
+    "quote": "設立以降光学機器の外装金型を得意とし、現在は自動車部品、事務機器関連、医療関連や給湯関係配管部品など幅広い樹脂金型を製作しています",
+    "url": "https://www.asano-japan.com/company/division.php",
+    "pass": 1
+   },
+   {
+    "quote": "テクノロジー・イノベーション：金属・樹脂試作機械加工 | 株式会社 浅野",
+    "url": "https://www.asano-japan.com/technology/trial-machining.php",
+    "pass": 1
+   },
+   {
+    "quote": "テクノロジー・イノベーション：金属・樹脂試作機械加工",
+    "url": "https://www.asano-japan.com/technology/trial-machining.php",
+    "pass": 1
+   },
+   {
+    "quote": "5軸マシニングセンタ、ワイヤーカット放電加工機、NC旋盤、NCフライス盤などの最新鋭の設備を駆使しての様々な形状に対応した金属･樹脂試作切削加工の技術があります",
+    "url": "https://www.asano-japan.com/technology/trial-machining.php",
+    "pass": 1
+   },
+   {
+    "quote": "また、SS材・アルミ材・SUS材・銅・真鍮・チタン・マグネシウム・ナイロン・ジュラコンなどの加工実績があります",
+    "url": "https://www.asano-japan.com/technology/trial-machining.php",
+    "pass": 1
+   },
+   {
+    "quote": "鉄・アルミ・ステンレス材はもちろん、チタン材やインコネル材、マグネシウム等の加工も行っています",
+    "url": "https://www.asano-japan.com/technology/trial-machining.php",
+    "pass": 1
+   },
+   {
+    "quote": "アルミ・鉄・ステンレス・銅・チタンなどのパイプ加工はもちろん、曲げ加工、端末加工、末端潰し加工、1D曲げ加工、板金部品との溶接や切削仕上げ加工も行っており、浅野は一貫して加工を行います",
+    "url": "https://www.asano-japan.com/technology/trial-pipe.php",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂分野では量産型製作から成形まで対応領域を広げモノづくりの可能性を追求しています",
+    "url": "https://www.asano-japan.com/company/greeting.php",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社 浅野の製造技術者は 試作部品製造、プレス金型製造、樹脂金型製造において 日本一を目指します",
+    "url": "https://www.asano-japan.com/saiyo/careerjob.php",
+    "pass": 1
+   },
+   {
+    "quote": "浅野の品質管理担当者は試作部品製造、プレス金型製造、樹脂金型 製造において”品質”でも日本一を目指します",
+    "url": "https://www.asano-japan.com/saiyo/careerjob.php",
+    "pass": 1
+   },
+   {
+    "quote": "試作板金部品製造（試作プレス金型～試作板金部品製造～組立まで）、試作パイプ加工、機械加工、治具設計・製作、量産板金部品製造、量産プレス金型製作、樹脂射出成形精密金型製作、金型設計、CAD設計、CAEによる解析、シミュレーション、形状測定、リバースエンジニアリングその他 製品開発・生産準備についての支援業務",
+    "url": "https://www.asano-japan.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂成形用金型の設計・製作、樹脂製品の小ロット生産",
+    "url": "https://www.asano-japan.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂事業部SERA設立（京都府京都市南区）",
+    "url": "https://www.asano-japan.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂事業部SERAにてISO9001:2000認証取得",
+    "url": "https://www.asano-japan.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "計画名「熱可塑性CFRPによる車載用大型複雑形状製品の成形技術の開発」",
+    "url": "https://www.asano-japan.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂事業部SERAにてISO14001:2004認証取得",
+    "url": "https://www.asano-japan.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "JIS Q 9100:2016 品質マネジメントシステム－航空,宇宙及び防衛分野の組織に対する要求事項 認証取得 登録組織：本社・群馬工場 登録範囲：航空・宇宙及び防衛機器用の金属加工部品及びプレス板金加工部品の製造 炭素繊維を用いた自動車用成形加工部品の製造（適用外条項：8.3 製品及びサービスの設計・開発）",
+    "url": "https://www.asano-japan.com/company/",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "試作板金加工・金型製造・樹脂金型製造・切削加工など、",
+    "url": "https://www.asano-japan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "試作部品、量産プレス金型製作、試作・量産プレス板金部品、",
+    "url": "https://www.asano-japan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車部品の試作支援・製造を通して培った技術で、",
+    "url": "https://www.asano-japan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "試作板金部品製造（試作プレス金型～試作板金部品製造～組立まで）、試作パイプ加工、機械加工、治具設計・製作、量産板金部品製造、量産プレス金型製作、樹脂射出成形精密金型製作、金型設計、CAD設計、CAEによる解析、シミュレーション、形状測定、リバースエンジニアリングその他 製品開発・生産準備についての支援業務",
+    "url": "https://www.asano-japan.com/company/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "試作板金部品製造（金型～製品・組立まで）、機械加工、治具設計・製作、3DCAD設計、シミュレーション、形状測定、リバースエンジニアリング、溶接、組立、パイプ加工、ハンドワーク、量産用プレス金型、治具の設計・製作",
+    "url": "https://www.asano-japan.com/company/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "試作板金部品製造（金型～製品・組立まで）、量産部品製造、量産金型製作、形状測定",
+    "url": "https://www.asano-japan.com/company/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂成形用金型の設計・製作、樹脂製品の小ロット生産",
+    "url": "https://www.asano-japan.com/company/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "「試作・少量製品の一貫生産技術」が独自技術として",
+    "url": "https://www.asano-japan.com/company/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "CATIAを中心に各種3Dデータに対応し、金型、冶具の製作から単品加工からアッセンブリまで、試作、量産に拘らず1個からお客様のご要望にお応えした生産が可能です",
+    "url": "https://www.asano-japan.com/company/division.php",
+    "pass": 1
+   },
+   {
+    "quote": "試作段階から恒久型の加工法案を採り入れ、試作から量産金型までのリードタイムを考えた提案が可能です",
+    "url": "https://www.asano-japan.com/company/division.php",
+    "pass": 1
+   },
+   {
+    "quote": "様々な試作板金部品、量産金型、量産板金部品の製作をいたします",
+    "url": "https://www.asano-japan.com/company/division.php",
+    "pass": 1
+   },
+   {
+    "quote": "また量産金型を製作し、300tリンクモーション順送プレス機等により、小ロット量産から大口量産までの量産部品製造に対応いたします",
+    "url": "https://www.asano-japan.com/company/division.php",
+    "pass": 1
+   },
+   {
+    "quote": "外観製品はもとより、機構部品精度物、PPS材等の難物製品、インサート、二色成形、フープ金型など、量産金型から試作金型、成形品まで一貫して対応いたします",
+    "url": "https://www.asano-japan.com/company/division.php",
+    "pass": 1
+   },
+   {
+    "quote": "試作（板金、プレス金型）",
+    "url": "https://www.asano-japan.com/news/3485/",
+    "pass": 1
+   },
+   {
+    "quote": "テクノロジー・イノベーション：金属・樹脂試作機械加工 | 株式会社 浅野",
+    "url": "https://www.asano-japan.com/technology/trial-machining.php",
+    "pass": 1
+   },
+   {
+    "quote": "テクノロジー・イノベーション：金属・樹脂試作機械加工",
+    "url": "https://www.asano-japan.com/technology/trial-machining.php",
+    "pass": 1
+   },
+   {
+    "quote": "5軸マシニングセンタ、ワイヤーカット放電加工機、NC旋盤、NCフライス盤などの最新鋭の設備を駆使しての様々な形状に対応した金属･樹脂試作切削加工の技術があります",
+    "url": "https://www.asano-japan.com/technology/trial-machining.php",
+    "pass": 1
+   },
+   {
+    "quote": "製作台数が少ないため、オール切削品にてパネル試作が出来ますか？ など",
+    "url": "https://www.asano-japan.com/technology/trial-machining.php",
+    "pass": 1
+   },
+   {
+    "quote": "また、溶接が絡むプレス板金・パイプ加工品との連携もできますので、単品加工から溶接後の精度出しまで幅広く対応できます",
+    "url": "https://www.asano-japan.com/technology/trial-machining.php",
+    "pass": 1
+   },
+   {
+    "quote": "テクノロジー・イノベーション：試作パイプ加工 | 株式会社 浅野",
+    "url": "https://www.asano-japan.com/technology/trial-pipe.php",
+    "pass": 1
+   },
+   {
+    "quote": "テクノロジー・イノベーション：試作パイプ加工",
+    "url": "https://www.asano-japan.com/technology/trial-pipe.php",
+    "pass": 1
+   },
+   {
+    "quote": "高張力パイプの単品～アセンブリーが出来ますか？ など",
+    "url": "https://www.asano-japan.com/technology/trial-pipe.php",
+    "pass": 1
+   },
+   {
+    "quote": "現在 私たちは板金による試作開発支援を中心に",
+    "url": "https://www.asano-japan.com/company/greeting.php",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは「世界トップクラスを目指す試作開発支援企業」として進化を重ね",
+    "url": "https://www.asano-japan.com/company/greeting.php",
+    "pass": 1
+   },
+   {
+    "quote": "試作（板金、プレス金型）",
+    "url": "https://www.asano-japan.com/saiyo/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "・主に自動車メーカー様からの試作板金部品、量産部品、金型の受注業務",
+    "url": "https://www.asano-japan.com/saiyo/careerjob.php",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社 浅野の製造技術者は 試作部品製造、プレス金型製造、樹脂金型製造において 日本一を目指します",
+    "url": "https://www.asano-japan.com/saiyo/careerjob.php",
+    "pass": 1
+   },
+   {
+    "quote": "・試作板金部品の油圧プレスによる小ロット加工業務",
+    "url": "https://www.asano-japan.com/saiyo/careerjob.php",
+    "pass": 1
+   },
+   {
+    "quote": "・3次元レーザー加工機による試作板金部品の加工業務",
+    "url": "https://www.asano-japan.com/saiyo/careerjob.php",
+    "pass": 1
+   },
+   {
+    "quote": "浅野の品質管理担当者は試作部品製造、プレス金型製造、樹脂金型 製造において”品質”でも日本一を目指します",
+    "url": "https://www.asano-japan.com/saiyo/careerjob.php",
+    "pass": 1
+   },
+   {
+    "quote": "試作板金部品製造（試作プレス金型～試作板金部品製造～組立まで）、試作パイプ加工、機械加工、治具設計・製作、量産板金部品製造、量産プレス金型製作、樹脂射出成形精密金型製作、金型設計、CAD設計、CAEによる解析、シミュレーション、形状測定、リバースエンジニアリングその他 製品開発・生産準備についての支援業務",
+    "url": "https://www.asano-japan.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "試作板金部品製造（金型～製品・組立まで）、機械加工、治具設計・製作、3DCAD設計、シミュレーション、形状測定、リバースエンジニアリング、溶接、組立、パイプ加工、ハンドワーク、量産用プレス金型、治具の設計・製作",
+    "url": "https://www.asano-japan.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "試作板金部品製造（金型～製品・組立まで）、量産部品製造、量産金型製作、形状測定",
+    "url": "https://www.asano-japan.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂成形用金型の設計・製作、樹脂製品の小ロット生産",
+    "url": "https://www.asano-japan.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "「試作・少量製品の一貫生産技術」が独自技術として",
+    "url": "https://www.asano-japan.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "小ロット多品種対応小型連続真空成形機 FLB：製品案内 - 株式会社浅野研究所",
+    "url": "https://www.asano-lab.co.jp/products/tf_roll/flb.html",
+    "pass": 3
+   },
+   {
+    "quote": "ブリスター容器、電子部品などのトレーから食品容器まで多品種小ロットに対応した成形機です",
+    "url": "https://www.asano-lab.co.jp/products/tf_roll/flb.html",
+    "pass": 3
+   },
+   {
+    "quote": "無料DL 5軸マシニングセンタ 試作、小ロット切削部品製作 - 株式会社 浅野",
+    "url": "https://ja.nc-net.or.jp/company/77273/product/detail/58100/",
+    "pass": 3
+   },
+   {
+    "quote": "5軸マシニングセンタ 試作、小ロット切削部品製作",
+    "url": "https://ja.nc-net.or.jp/company/77273/product/detail/58100/",
+    "pass": 3
+   },
+   {
+    "quote": "5軸マシニングセンタで試作、小ロットの切削部品製作を行います",
+    "url": "https://ja.nc-net.or.jp/company/77273/product/detail/58100/",
+    "pass": 3
+   },
+   {
+    "quote": "ふるさと菓子本舗 株式会社浅野商店 - オリジナルお菓子 小ロットOEM",
+    "url": "https://www.furusatokashi.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "懐かしお菓子を小ロットオリジナルで！ ふるさと菓子本舗 株式会社浅野商店",
+    "url": "https://www.furusatokashi.jp/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "株式会社 浅野｜モノづくり開発支援・金属加工・プレス板金・樹脂射出成型用金型 群馬県",
+    "url": "https://www.asano-japan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "試作板金加工・金型製造・樹脂金型製造・切削加工など、",
+    "url": "https://www.asano-japan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "試作部品、量産プレス金型製作、試作・量産プレス板金部品、",
+    "url": "https://www.asano-japan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂成形用精密金型等、様々な製造に対応します",
+    "url": "https://www.asano-japan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車部品の試作支援・製造を通して培った技術で、",
+    "url": "https://www.asano-japan.com/",
+    "pass": 1
+   },
+   {
+    "quote": "試作板金部品製造（試作プレス金型～試作板金部品製造～組立まで）、試作パイプ加工、機械加工、治具設計・製作、量産板金部品製造、量産プレス金型製作、樹脂射出成形精密金型製作、金型設計、CAD設計、CAEによる解析、シミュレーション、形状測定、リバースエンジニアリングその他 製品開発・生産準備についての支援業務",
+    "url": "https://www.asano-japan.com/company/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "試作板金部品製造（金型～製品・組立まで）、機械加工、治具設計・製作、3DCAD設計、シミュレーション、形状測定、リバースエンジニアリング、溶接、組立、パイプ加工、ハンドワーク、量産用プレス金型、治具の設計・製作",
+    "url": "https://www.asano-japan.com/company/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "試作板金部品製造（金型～製品・組立まで）、量産部品製造、量産金型製作、形状測定",
+    "url": "https://www.asano-japan.com/company/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂成形用金型の設計・製作、樹脂製品の小ロット生産",
+    "url": "https://www.asano-japan.com/company/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "量産プレス部品・量産プレス金型の取扱い開始",
+    "url": "https://www.asano-japan.com/company/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "金型事業部（群馬太田工場）を金属第一事業部に統合",
+    "url": "https://www.asano-japan.com/company/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "群馬太田工場（量産金型）を本社・群馬工場に移転集約",
+    "url": "https://www.asano-japan.com/company/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "JIS Q 9100:2016 品質マネジメントシステム－航空,宇宙及び防衛分野の組織に対する要求事項 認証取得 登録組織：本社・群馬工場 登録範囲：航空・宇宙及び防衛機器用の金属加工部品及びプレス板金加工部品の製造 炭素繊維を用いた自動車用成形加工部品の製造（適用外条項：8.3 製品及びサービスの設計・開発）",
+    "url": "https://www.asano-japan.com/company/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "CATIAを中心に各種3Dデータに対応し、金型、冶具の製作から単品加工からアッセンブリまで、試作、量産に拘らず1個からお客様のご要望にお応えした生産が可能です",
+    "url": "https://www.asano-japan.com/company/division.php",
+    "pass": 1
+   },
+   {
+    "quote": "鉄・アルミ・ステンレス等の板金加工から、インコネルやハステロイ、チタンといった特殊材の加工、切削加工から樹脂の射出成形や切削加工、製品・金型のデータ作成からシミュレーション、形状測定、表面処理等、様々なご要望にお応えします",
+    "url": "https://www.asano-japan.com/company/division.php",
+    "pass": 1
+   },
+   {
+    "quote": "量産用プレス金型の設計・製作で生産準備支援をいたします",
+    "url": "https://www.asano-japan.com/company/division.php",
+    "pass": 1
+   },
+   {
+    "quote": "単発型・トランスファー型・順送型など、様々な金型を製作しています",
+    "url": "https://www.asano-japan.com/company/division.php",
+    "pass": 1
+   },
+   {
+    "quote": "Design inからあらゆる状態を事前に想定して金型設計を行い、CAEを駆使した解析、1000tメカ式プレスによる金型トライまで社内で対応しています",
+    "url": "https://www.asano-japan.com/company/division.php",
+    "pass": 1
+   },
+   {
+    "quote": "試作段階から恒久型の加工法案を採り入れ、試作から量産金型までのリードタイムを考えた提案が可能です",
+    "url": "https://www.asano-japan.com/company/division.php",
+    "pass": 1
+   },
+   {
+    "quote": "設計変更、他社様にて製作された金型改修、修理なども対応いたします",
+    "url": "https://www.asano-japan.com/company/division.php",
+    "pass": 1
+   },
+   {
+    "quote": "金属第二事業部は、自動車・二輪車を中心に開発支援から量産までを行う事業部です",
+    "url": "https://www.asano-japan.com/company/division.php",
+    "pass": 1
+   },
+   {
+    "quote": "様々な試作板金部品、量産金型、量産板金部品の製作をいたします",
+    "url": "https://www.asano-japan.com/company/division.php",
+    "pass": 1
+   },
+   {
+    "quote": "CADによる図面データからの3Dモデリング、マシンニングセンタによる型切削加工・仕上げ、油圧プレス機によるプレス加工、レーザー加工機によるトリミング加工、溶接、ハンドワーク作業、アセンブリ、治具製作、3次元測定器による検査、品質保証まで、板金部品製作まで製造工程を一貫で行っています",
+    "url": "https://www.asano-japan.com/company/division.php",
+    "pass": 1
+   },
+   {
+    "quote": "また量産金型を製作し、300tリンクモーション順送プレス機等により、小ロット量産から大口量産までの量産部品製造に対応いたします",
+    "url": "https://www.asano-japan.com/company/division.php",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂事業部SERAは、樹脂成形金型を製造する事業部です",
+    "url": "https://www.asano-japan.com/company/division.php",
+    "pass": 1
+   },
+   {
+    "quote": "設立以降光学機器の外装金型を得意とし、現在は自動車部品、事務機器関連、医療関連や給湯関係配管部品など幅広い樹脂金型を製作しています",
+    "url": "https://www.asano-japan.com/company/division.php",
+    "pass": 1
+   },
+   {
+    "quote": "射出成形機を3台保有し、製作した金型を社内で試打し、充実した測定機器による徹底した寸法測定の管理を行ない、クオリティの高い金型をお届けしています",
+    "url": "https://www.asano-japan.com/company/division.php",
+    "pass": 1
+   },
+   {
+    "quote": "サブミクロン単位の精度が要求される精密金型を効率よく加工するために、設計段階でCAD/CAM システムとNC加工データ等とのオンライン化により、精度向上と自動化による高能率化を図っています",
+    "url": "https://www.asano-japan.com/company/division.php",
+    "pass": 1
+   },
+   {
+    "quote": "外観製品はもとより、機構部品精度物、PPS材等の難物製品、インサート、二色成形、フープ金型など、量産金型から試作金型、成形品まで一貫して対応いたします",
+    "url": "https://www.asano-japan.com/company/division.php",
+    "pass": 1
+   },
+   {
+    "quote": "試作（板金、プレス金型）",
+    "url": "https://www.asano-japan.com/news/3485/",
+    "pass": 1
+   },
+   {
+    "quote": "主な切削事例ではハウジングタービンの仕上げ加工や航空宇宙産業部品、自動車、二輪、F1等のレーシングマシンの部品を加工しております",
+    "url": "https://www.asano-japan.com/technology/trial-machining.php",
+    "pass": 1
+   },
+   {
+    "quote": "自動車・バイク関係の部品が主ではありますが、航空宇宙部品やレース関係部品の製品もあります",
+    "url": "https://www.asano-japan.com/technology/trial-machining.php",
+    "pass": 1
+   },
+   {
+    "quote": "NCパイプベンダー・手曲げ、金型によるパイプ加工の技術があります",
+    "url": "https://www.asano-japan.com/technology/trial-pipe.php",
+    "pass": 1
+   },
+   {
+    "quote": "バルジ・スプール等各種端末加工においても金型作成から加工まで対応検討可能です",
+    "url": "https://www.asano-japan.com/technology/trial-pipe.php",
+    "pass": 1
+   },
+   {
+    "quote": "試作（板金、プレス金型）",
+    "url": "https://www.asano-japan.com/saiyo/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "当社のモットーは高度な技術力・高機能な機械設備を活かした高品質短納期生産とし、 大手自動車メーカー様やバイクメーカー様を始め受注先メーカー様から高い評価を受けております",
+    "url": "https://www.asano-japan.com/saiyo/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "・主に自動車メーカー様からの試作板金部品、量産部品、金型の受注業務",
+    "url": "https://www.asano-japan.com/saiyo/careerjob.php",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社 浅野の製造技術者は 試作部品製造、プレス金型製造、樹脂金型製造において 日本一を目指します",
+    "url": "https://www.asano-japan.com/saiyo/careerjob.php",
+    "pass": 1
+   },
+   {
+    "quote": "・MIG、TIG、スポット、ロボット溶接による板金加工業務",
+    "url": "https://www.asano-japan.com/saiyo/careerjob.php",
+    "pass": 1
+   },
+   {
+    "quote": "浅野の品質管理担当者は試作部品製造、プレス金型製造、樹脂金型 製造において”品質”でも日本一を目指します",
+    "url": "https://www.asano-japan.com/saiyo/careerjob.php",
+    "pass": 1
+   },
+   {
+    "quote": "試作板金部品製造（試作プレス金型～試作板金部品製造～組立まで）、試作パイプ加工、機械加工、治具設計・製作、量産板金部品製造、量産プレス金型製作、樹脂射出成形精密金型製作、金型設計、CAD設計、CAEによる解析、シミュレーション、形状測定、リバースエンジニアリングその他 製品開発・生産準備についての支援業務",
+    "url": "https://www.asano-japan.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "試作板金部品製造（金型～製品・組立まで）、機械加工、治具設計・製作、3DCAD設計、シミュレーション、形状測定、リバースエンジニアリング、溶接、組立、パイプ加工、ハンドワーク、量産用プレス金型、治具の設計・製作",
+    "url": "https://www.asano-japan.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "試作板金部品製造（金型～製品・組立まで）、量産部品製造、量産金型製作、形状測定",
+    "url": "https://www.asano-japan.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂成形用金型の設計・製作、樹脂製品の小ロット生産",
+    "url": "https://www.asano-japan.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "量産プレス部品・量産プレス金型の取扱い開始",
+    "url": "https://www.asano-japan.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "金型事業部（群馬太田工場）を金属第一事業部に統合",
+    "url": "https://www.asano-japan.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "群馬太田工場（量産金型）を本社・群馬工場に移転集約",
+    "url": "https://www.asano-japan.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "JIS Q 9100:2016 品質マネジメントシステム－航空,宇宙及び防衛分野の組織に対する要求事項 認証取得 登録組織：本社・群馬工場 登録範囲：航空・宇宙及び防衛機器用の金属加工部品及びプレス板金加工部品の製造 炭素繊維を用いた自動車用成形加工部品の製造（適用外条項：8.3 製品及びサービスの設計・開発）",
+    "url": "https://www.asano-japan.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置部品、",
+    "url": "https://www.asano-kk.com/profile.html",
+    "pass": 3
+   },
+   {
+    "quote": "自動車・鉄道車輛等の輸送機器開発部品、電力・エネルギー関連部品、ＯＡ関連部品",
+    "url": "https://www.asano-kk.com/profile.html",
+    "pass": 3
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "株式会社 浅野は、お客様第一主義を徹底し、さらに技術を磨き、常に期待を上回る製品・サービスを提供することで、事業の目的である経営理念「豊かさを追求し、求められる企業へ｣を実現していきます",
+    "url": "https://www.asano-japan.com/company/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "試作板金部品製造（試作プレス金型～試作板金部品製造～組立まで）、試作パイプ加工、機械加工、治具設計・製作、量産板金部品製造、量産プレス金型製作、樹脂射出成形精密金型製作、金型設計、CAD設計、CAEによる解析、シミュレーション、形状測定、リバースエンジニアリングその他 製品開発・生産準備についての支援業務",
+    "url": "https://www.asano-japan.com/company/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "試作板金部品製造（金型～製品・組立まで）、機械加工、治具設計・製作、3DCAD設計、シミュレーション、形状測定、リバースエンジニアリング、溶接、組立、パイプ加工、ハンドワーク、量産用プレス金型、治具の設計・製作",
+    "url": "https://www.asano-japan.com/company/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "試作板金部品製造（金型～製品・組立まで）、量産部品製造、量産金型製作、形状測定",
+    "url": "https://www.asano-japan.com/company/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂成形用金型の設計・製作、樹脂製品の小ロット生産",
+    "url": "https://www.asano-japan.com/company/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "「試作・少量製品の一貫生産技術」が独自技術として",
+    "url": "https://www.asano-japan.com/company/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "計画名「熱可塑性CFRPによる車載用大型複雑形状製品の成形技術の開発」",
+    "url": "https://www.asano-japan.com/company/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "JIS Q 9100:2016 品質マネジメントシステム－航空,宇宙及び防衛分野の組織に対する要求事項 認証取得 登録組織：本社・群馬工場 登録範囲：航空・宇宙及び防衛機器用の金属加工部品及びプレス板金加工部品の製造 炭素繊維を用いた自動車用成形加工部品の製造（適用外条項：8.3 製品及びサービスの設計・開発）",
+    "url": "https://www.asano-japan.com/company/index.php",
+    "pass": 1
+   },
+   {
+    "quote": "鉄・アルミ・ステンレス等の板金加工から、インコネルやハステロイ、チタンといった特殊材の加工、切削加工から樹脂の射出成形や切削加工、製品・金型のデータ作成からシミュレーション、形状測定、表面処理等、様々なご要望にお応えします",
+    "url": "https://www.asano-japan.com/company/division.php",
+    "pass": 1
+   },
+   {
+    "quote": "外観製品はもとより、機構部品精度物、PPS材等の難物製品、インサート、二色成形、フープ金型など、量産金型から試作金型、成形品まで一貫して対応いたします",
+    "url": "https://www.asano-japan.com/company/division.php",
+    "pass": 1
+   },
+   {
+    "quote": "自動車・バイク関係の部品が主ではありますが、航空宇宙部品やレース関係部品の製品もあります",
+    "url": "https://www.asano-japan.com/technology/trial-machining.php",
+    "pass": 1
+   },
+   {
+    "quote": "グループリーダーは部門の採算責任があり、常に担当する製品の市場について関心を向け、製品の情報を収集し、市場の動きに即座に対応できる体勢をとっています",
+    "url": "https://www.asano-japan.com/company/manage.php",
+    "pass": 1
+   },
+   {
+    "quote": "株式会社 浅野は、お客様第一主義を徹底し、さらに技術を磨き、常に期待を上回る製品・サービスを提供することで、事業の目的である経営理念「豊かさを追求し、求められる企業へ｣を実現していきます",
+    "url": "https://www.asano-japan.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "試作板金部品製造（試作プレス金型～試作板金部品製造～組立まで）、試作パイプ加工、機械加工、治具設計・製作、量産板金部品製造、量産プレス金型製作、樹脂射出成形精密金型製作、金型設計、CAD設計、CAEによる解析、シミュレーション、形状測定、リバースエンジニアリングその他 製品開発・生産準備についての支援業務",
+    "url": "https://www.asano-japan.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "試作板金部品製造（金型～製品・組立まで）、機械加工、治具設計・製作、3DCAD設計、シミュレーション、形状測定、リバースエンジニアリング、溶接、組立、パイプ加工、ハンドワーク、量産用プレス金型、治具の設計・製作",
+    "url": "https://www.asano-japan.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "試作板金部品製造（金型～製品・組立まで）、量産部品製造、量産金型製作、形状測定",
+    "url": "https://www.asano-japan.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "樹脂成形用金型の設計・製作、樹脂製品の小ロット生産",
+    "url": "https://www.asano-japan.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "「試作・少量製品の一貫生産技術」が独自技術として",
+    "url": "https://www.asano-japan.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "計画名「熱可塑性CFRPによる車載用大型複雑形状製品の成形技術の開発」",
+    "url": "https://www.asano-japan.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "JIS Q 9100:2016 品質マネジメントシステム－航空,宇宙及び防衛分野の組織に対する要求事項 認証取得 登録組織：本社・群馬工場 登録範囲：航空・宇宙及び防衛機器用の金属加工部品及びプレス板金加工部品の製造 炭素繊維を用いた自動車用成形加工部品の製造（適用外条項：8.3 製品及びサービスの設計・開発）",
+    "url": "https://www.asano-japan.com/company/",
+    "pass": 1
+   },
+   {
+    "quote": "小ロット多品種対応小型連続真空成形機 FLB：製品案内 - 株式会社浅野研究所",
+    "url": "https://www.asano-lab.co.jp/products/tf_roll/flb.html",
+    "pass": 3
+   },
+   {
+    "quote": "技術・製品情報(218)",
+    "url": "https://ja.nc-net.or.jp/company/77273/product/detail/58100/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "サブミクロン単位の精度が要求される精密金型を効率よく加工するために、設計段階でCAD/CAM システムとNC加工データ等とのオンライン化により、精度向上と自動化による高能率化を図っています",
+    "url": "https://www.asano-japan.com/company/division.php",
+    "pass": 1
+   },
+   {
+    "quote": "製造、生産管理、CAD/CAM設計",
+    "url": "https://www.asano-japan.com/saiyo/careerjob.php",
+    "pass": 1
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "小ロット多品種対応小型連続真空成形機 FLB：製品案内 - 株式会社浅野... — 製品案内 機種選択フロー ASANOの技術力 薄物用成形機 厚物用成形機 後処理設備 小ロット生産・テスト機 クイックレスポンスヒーター 自動車パーツ成形品例 熱成形とは 成形テストのご案内 新着情報 採用情報 360°工場見学ツアー お問合わせ 企画開発部 ...",
+    "url": "https://www.asano-lab.co.jp/products/tf_roll/flb.html",
+    "pass": 3
+   },
+   {
+    "quote": "5軸マシニングセンタ 試作、小ロット切削部品製作 - 株式会社 浅野 — 5軸マシニングセンタで試作、小ロットの切削部品製作を行います。5軸マ...",
+    "url": "https://ja.nc-net.or.jp/company/77273/product/detail/58100/",
+    "pass": 3
+   },
+   {
+    "quote": "ふるさと菓子本舗 株式会社浅野商店 - オリジナルお菓子 小ロットOEM — ふるさと菓子本舗 株式会社浅野商店 〒451-0044 愛知県名古屋市西区菊井二丁目7番1号 TEL：052-551-5121 FAX：052-581-0508 Mail： info@asano-nagoya.co.jp こだわりお菓子の小ロットOEM",
+    "url": "https://www.furusatokashi.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "テクノロジー・イノベーション：量産板金 | 株式会社 浅野 — MASS-PRODUCED SHEET METAL PROCESSING 量産板金 小ロット量産から 大口量産までお任せ下さい 小物量産部品加工の溶接からアッセンブリーまで対応が可能です。 小ロット量産では、月単位で試作工法の10個から対応しております。",
+    "url": "https://www.asano-japan.com/technology/masspro-sheetmetal.php",
+    "pass": 3
+   },
+   {
+    "quote": "企業情報：会社概要・沿革 | 株式会社 浅野会社概要 | 株式会社アサノ株式会社 浅野｜モノづくり開発支援・金属加工・プレス板金・樹脂射出...会社概要 - 株式会社アサノ株式会社アサノ 会社概要会社概要 – 株式会社浅野歯車工作所 - ASANO GEAR株式会社浅野 - 会社概要 — COMPANY PROFILE / HISTORY 会社概要・沿革 ｢豊かさを追求し､求められる企業へ｣ を実現することが､浅野の事業の目的です｡ 株式会社 浅野の経営理念は、「豊かさを追求し、求められる企業へ」です。 事業内容 半導体製造装置部品、 自動車・鉄道車輛等の輸送機器開発部品、電力・エネルギー関連部品、OA関連部品 浅野の加工技術を紹介 試作（板金、プレス金型） 量産板金 量産プレス金型 金属・樹脂試作機械加工 試作パイプ加工 樹脂射出成形用精密金型 シミュレーション CFRTP・複合材 溶接",
+    "url": "https://www.asano-japan.com/company/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 株式会社アサノ — 会社概要 COMPANY 社名 株式会社アサノ 代表者 代表取締役 浅野 義仁 建設業の許可 国土交通大臣 許可（特‐3） 第 24193号 管工事業 国土交通大臣 許可（般‐3） 第 24193号 消防施設工事業 本社所在地 本社 〒336-0931",
+    "url": "http://asano-group.co.jp/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 – 株式会社浅野歯車工作所 - ASANO GEAR — 会社概要 社名 株式会社 浅野歯車工作所 [ ASANO GEAR CO.,LTD. ] 所在地 〒589-0004 大阪府大阪狭山市東池尻4丁目1402番地の1 設立 1935年（昭和10年）4月 （創業 ：1924年（大正13年）） 資",
+    "url": "https://www.asanogear.co.jp/business/company-profile/",
+    "pass": 3
+   },
+   {
+    "quote": "店舗不明のお問い合わせ – 浅野屋オンラインショップ — 店舗不明のお問い合わせ こちらのフォームの下記項目を入力後、「送信」を押してください。 確認後info_ec@b-asanoya.comよりメールにてご連絡いたします。 確認後のお返事になりますので、3～5日ほどお時間を頂戴する場合がございます。",
+    "url": "https://b-asanoya.com/pages/shop-inquiry",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ・資料請求・見積依頼 | 株式会社 浅野 — CONTACT お問い合わせ・資料請求・見積依頼 お問い合わせ・資料請求・見積依頼にあたって 株式会社浅野の製品や加工技術、採用、ものづくり支援に関するご質問・ご要望などがありましたら、お気軽にお問い合わせくださいませ。",
+    "url": "https://www.asano-japan.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ｜株式会社浅野 - asanomatsuzo.com — 受付時間：9:00～17:00（土・日・祝日・年末年始・夏季休暇を除く） お問い合わせ内容によっては、お返事を差し上げるまでにお時間をいただく場合や、メールではなく、お電話などでご連絡させていただく場合もございます。",
+    "url": "https://asanomatsuzo.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ | 浅野自動車工場 — お気軽にお問い合わせください お見積り相談、来店のご予約など、お電話・FAX及び下記メールフォームより受け付けております。 些細な事でも構いません。 お気軽にお問い合わせください。 TEL：0478-72-3156 FAX：0478-72-3610",
+    "url": "https://www.asano-shop.com/contact",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ : Contact - 浅野商店 — 当社は「個人情報の取扱いについて」を改定することがあります。 その場合、全ての改定内容を当社インターネットホームページにて公開します。 個人情報に関するお問い合わせやご相談は、下記の窓口にて承ります。 2024年8月 株式会社 浅野商店 TEL：03 ...",
+    "url": "https://asano-gold.com/contact/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "確認後info_ec@b-asanoya.comよりメールにてご連絡いたします",
+    "url": "https://b-asanoya.com/pages/shop-inquiry",
+    "pass": 3
+   },
+   {
+    "quote": "また、土日祝日・年末年始のお問い合わせは翌営業日以降の対応となります",
+    "url": "https://b-asanoya.com/pages/shop-inquiry",
+    "pass": 3
+   },
+   {
+    "quote": "＊お客さまのメール受信設定（ドメイン指定／フリーメール利用）によりメールがブロックされる、もしくは迷惑メールに振り分けられる場合がございます",
+    "url": "https://b-asanoya.com/pages/shop-inquiry",
+    "pass": 3
+   },
+   {
+    "quote": "お使いのメール設定もあわせてご確認いただきますようお願いいたします",
+    "url": "https://b-asanoya.com/pages/shop-inquiry",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせには、受付時間内に対応させていただきます",
+    "url": "https://asanomatsuzo.com/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ内容によっては、お返事を差し上げるまでにお時間をいただく場合や、メールではなく、お電話などでご連絡させていただく場合もございます",
+    "url": "https://asanomatsuzo.com/contact/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "はじめに｜浅野 亮介 - note（ノート） Jan 2, 2025 · 当サイトをご覧いただき、ありがとうございます！ こちらは指揮者、音楽プロデューサーとして活動している浅野亮介のnoteです。 【プロフィール】 まずは自己紹介として、演奏会で配布するパンフレットなどで公式に使用しておりますプロフィール文章を記載いたします。 神戸大学国際文化 ...",
+    "url": "https://note.com/ryosukeasano/n/n751f160489ba",
+    "pass": 3
+   },
+   {
+    "quote": "浅野こころとわたし｜浅野こころのnote Nov 26, 2024 · 仕事で人の前に立つ時。 AVの撮影でカメラの前に立つ前。 私はいつもふーっと深呼吸をして、指パッチンをする。 それが「浅野こころ」になるスイッチ。 デビュー前の私は、初めてのAV撮影のインタビューでガタガタに震えながら、俯きつつ引き攣った笑顔をカメラに向けていた。 地元での外 ...",
+    "url": "https://note.com/korokorococoroo/n/n5a14da94408f",
+    "pass": 3
+   },
+   {
+    "quote": "浅野こころのnote 嫌いなんですと言うために私に会いに来た人",
+    "url": "https://note.com/korokorococoroo",
+    "pass": 3
+   },
+   {
+    "quote": "心理カウンセラー浅野寿和｜note 誠実に生きてきたのに、なぜか空回る。 まあ、そういうことってありますよね。 大人の\"こじらせ\"を読み解き、見え方が変わる文章を書いてます。 恋愛・人間関係をよく扱う心理カウンセラー｜臨床10000件以上・キャリア17年 Web： https://www.asanohisao.jp",
+    "url": "https://note.com/asanohisao",
+    "pass": 3
+   },
+   {
+    "quote": "浅野達也／株式会社箔一 代表取締役社長｜note 浅野達也／株式会社箔一 代表取締役社長 伝統産業の経営者です。 石川県金沢の地で450年もの歴史がある金沢箔を手掛けています。 かつて金箔は工芸品の材料の一つでしかありませんでしたが、これを「金沢箔工芸品」としてブランド化しました。",
+    "url": "https://note.com/hakuichi",
+    "pass": 3
+   },
+   {
+    "quote": "浅野達也／株式会社箔一 代表取締役社長の記事一覧｜note（ノート） 伝統産業の経営者です。石川県金沢の地で450年もの歴史がある金沢箔を手掛けています。かつて金箔は工芸品の材料の一つでしかありませんでしたが、これを「金沢箔工芸品」としてブランド化しました。それ以来、食器、インテリア、建築資材、食材、化粧品などに金沢箔の用途を拡大してき ...",
+    "url": "https://note.com/hakuichi/all",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "当サイトをご覧いただき、ありがとうございます！",
+    "url": "https://note.com/ryosukeasano/n/n751f160489ba",
+    "pass": 3
+   },
+   {
+    "quote": "こちらは指揮者、音楽プロデューサーとして活動している浅野亮介のnoteです。",
+    "url": "https://note.com/ryosukeasano/n/n751f160489ba",
+    "pass": 3
+   },
+   {
+    "quote": "まずは自己紹介として、演奏会で配布するパンフレットなどで公式に使用しておりますプロフィール文章を記載いたします。",
+    "url": "https://note.com/ryosukeasano/n/n751f160489ba",
+    "pass": 3
+   },
+   {
+    "quote": "神戸大学国際文化学部を経て同大学院博士課程前期課程修了。大学院では美学理論を学び、シェーンベルクを中心とした20世紀初頭のドイツ音楽を軸に、古典派からロマン派まで広く研究対象とする。2000年に関西で自らのオーケストラ「アンサンブル・フリー」を設立し、国内の優秀なソリストとの共演や100名を超える大規模な楽曲に積極的に取り組んでいる。2013年には、より新しい音楽を開拓するため東京にて「アンサンブル・フリーEAST」を設立。毎回の演奏会で新作の委嘱および初演を行い、多くの音楽家や作曲家の支持を受けている。2019年、アンサンブル・フリー第30回演奏会を機に関西のオーケストラを「アンサンブル・フリーWEST」と改称。2022年に有望な若手プロ奏者および音楽を専門に学ぶ学生から構成される「アンサンブル・フリーJAPAN」を設立し、従来のクラシック音楽から最新の現代音楽まで、国内外に幅広く発信す",
+    "url": "https://note.com/ryosukeasano/n/n751f160489ba",
+    "pass": 3
+   },
+   {
+    "quote": "アンサンブル・フリーWEST, EAST（アマチュア）",
+    "url": "https://note.com/ryosukeasano/n/n751f160489ba",
+    "pass": 3
+   },
+   {
+    "quote": "もしご興味を持っていただけましたら、以下にもう少し詳しく私の活動をご紹介いたしますので、是非ご覧ください。",
+    "url": "https://note.com/ryosukeasano/n/n751f160489ba",
+    "pass": 3
+   },
+   {
+    "quote": "古典から近現代まで、幅広くレパートリーとしております。",
+    "url": "https://note.com/ryosukeasano/n/n751f160489ba",
+    "pass": 3
+   },
+   {
+    "quote": "ラフマニノフ：ピアノ協奏曲第3番（ピアノ独奏：黒岩航紀）",
+    "url": "https://note.com/ryosukeasano/n/n751f160489ba",
+    "pass": 3
+   },
+   {
+    "quote": "私はいつもふーっと深呼吸をして、指パッチンをする。",
+    "url": "https://note.com/korokorococoroo/n/n5a14da94408f",
+    "pass": 3
+   },
+   {
+    "quote": "デビュー前の私は、初めてのAV撮影のインタビューでガタガタに震えながら、俯きつつ引き攣った笑顔をカメラに向けていた。",
+    "url": "https://note.com/korokorococoroo/n/n5a14da94408f",
+    "pass": 3
+   },
+   {
+    "quote": "地元での外撮りを終え、初絡みの相手役であるレジェンド貞松さんにお会いしたとき、",
+    "url": "https://note.com/korokorococoroo/n/n5a14da94408f",
+    "pass": 3
+   },
+   {
+    "quote": "「もう私は本当に後戻り出来ない所まで来てしまった」と思った。",
+    "url": "https://note.com/korokorococoroo/n/n5a14da94408f",
+    "pass": 3
+   },
+   {
+    "quote": "自分の人生をかけた大きな変化に不安とプレッシャーで押しつぶされそうだった。",
+    "url": "https://note.com/korokorococoroo/n/n5a14da94408f",
+    "pass": 3
+   },
+   {
+    "quote": "転機があって、覚悟を決めて自分の意思でAV女優になろうと決意し、何枚もの契約書に自らサインをしたはずなのに、全く心の準備が追いついていなかった。",
+    "url": "https://note.com/korokorococoroo/n/n5a14da94408f",
+    "pass": 3
+   },
+   {
+    "quote": "ここで「やっぱり辞めます」と今言えば止められることはないし、デビューすることもない。",
+    "url": "https://note.com/korokorococoroo/n/n5a14da94408f",
+    "pass": 3
+   },
+   {
+    "quote": "でも、逃げる自分になるのだけはどうしても嫌だった。",
+    "url": "https://note.com/korokorococoroo/n/n5a14da94408f",
+    "pass": 3
+   },
+   {
+    "quote": "バコバスで素人くんと身体で会話した....！",
+    "url": "https://note.com/korokorococoroo",
+    "pass": 3
+   },
+   {
+    "quote": "人付き合いが得意じゃないのに、なぜか接客や営業ばかり選んでしまう話",
+    "url": "https://note.com/asanohisao",
+    "pass": 3
+   },
+   {
+    "quote": "彼が結婚を渋る理由、きっとあなたも知っているはず",
+    "url": "https://note.com/asanohisao",
+    "pass": 3
+   },
+   {
+    "quote": "彼の小言がいちいち刺さる。正論を聞くと、一回、自分を裁っちゃう話",
+    "url": "https://note.com/asanohisao",
+    "pass": 3
+   },
+   {
+    "quote": "選ばれたいんじゃなくて、存在を確かめたかっただけかもしれない",
+    "url": "https://note.com/asanohisao",
+    "pass": 3
+   },
+   {
+    "quote": "職場では頼れる私が、好きな人の前では別人になる理由",
+    "url": "https://note.com/asanohisao",
+    "pass": 3
+   },
+   {
+    "quote": "「大丈夫」という口ぐせが、大切な人を遠ざけた",
+    "url": "https://note.com/asanohisao",
+    "pass": 3
+   },
+   {
+    "quote": "浅野達也／株式会社箔一 代表取締役社長｜note",
+    "url": "https://note.com/hakuichi",
+    "pass": 3
+   },
+   {
+    "quote": "浅野達也／株式会社箔一 代表取締役社長の記事一覧｜note",
+    "url": "https://note.com/hakuichi/all",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "浅野 あずさ - 2026年11月25日から 浅野あずさ税理士事務所開業予定 2...Satoshi Asano - Microsoft Japan - global partner Solutions 兼 ...MIHO ASANO - Kudan Ogata Real Estate Appraisal Co., Ltd ...浅野友彦 アステラス Jobs in United States (10,000+ Open Roles) | ...デジタル社会を共創し、豊かな日本へ （上） | IBM ソリューション ブ...浅野 栄利 Jobs in United States (5,000+ Open Roles) | LinkedIn浅野 範子 - Triangle Fire Protection Ltd | LinkedIn 2026年11月25日から 浅野あずさ税理士事務所開業予定",
+    "url": "https://jp.linkedin.com/in/あずさ-浅野-501671150",
+    "pass": 3
+   },
+   {
+    "quote": "Satoshi Asano - Microsoft Japan - global partner Solutions 兼 ...MIHO ASANO - Kudan Ogata Real Estate Appraisal Co., Ltd ...浅野友彦 アステラス Jobs in United States (10,000+ Open Roles) | ...デジタル社会を共創し、豊かな日本へ （上） | IBM ソリューション ブ...浅野 栄利 Jobs in United States (5,000+ Open Roles) | LinkedIn浅野 範子 - Triangle Fire Protection Ltd | LinkedIn Microsoft Japan - global partner Solutions 兼Enterprise sales · Collabora",
+    "url": "https://jp.linkedin.com/in/satoshi-asano-11393431",
+    "pass": 3
+   },
+   {
+    "quote": "MIHO ASANO - Kudan Ogata Real Estate Appraisal Co., Ltd ...浅野友彦 アステラス Jobs in United States (10,000+ Open Roles) | ...デジタル社会を共創し、豊かな日本へ （上） | IBM ソリューション ブ...浅野 栄利 Jobs in United States (5,000+ Open Roles) | LinkedIn浅野 範子 - Triangle Fire Protection Ltd | LinkedIn Asano Miho, Real Estate Consultant, Licensed Real Estate Appraiser (Japan) /MRICS and Licensed Real Estate Agent (Japan), worked for a m",
+    "url": "https://sg.linkedin.com/in/miho-asano-0a610821a",
+    "pass": 3
+   },
+   {
+    "quote": "浅野 範子 - Triangle Fire Protection Ltd | LinkedIn 職歴: Triangle Fire Protection Ltd · 学歴: The University of Auckland · 場所: オークランド · LinkedInのつながり183人。10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで浅野 範子さんのプロフィールを閲覧しましょう。",
+    "url": "https://nz.linkedin.com/in/noriko-asano/ja",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "浅野中学校・高等学校 - FacebookSho Asano／浅野祥 (Official) - FacebookTADANOBU ASANO / 浅野忠信浅野健一 - Facebook株式会社 浅野 | Ofunato-shi Iwate - FacebookAsano Takahiro - FacebookShuji Asano - Facebook 浅野中学校・高等学校. 3,461 followers · 198 talking about this · 107 were here. 浅野中学校・高等学校は、横浜にある中高一貫の私立男子校です。 アンコールの八木節をチラリとどうぞ🤲 2026.10.3 (土) 浅野祥 －響－ 三味線×JAZZ×CLASSIC 📍 [大阪] あいおいニッセイ同和損保 ザ・フェニックスホール 昨日のコンサート、本当に楽しかった！ 高揚しました!! Apr",
+    "url": "https://www.facebook.com/asanogakuen/",
+    "pass": 3
+   },
+   {
+    "quote": "Sho Asano／浅野祥 (Official) - FacebookTADANOBU ASANO / 浅野忠信浅野健一 - Facebook株式会社 浅野 | Ofunato-shi Iwate - FacebookAsano Takahiro - FacebookShuji Asano - Facebook アンコールの八木節をチラリとどうぞ🤲 2026.10.3 (土) 浅野祥 －響－ 三味線×JAZZ×CLASSIC 📍 [大阪] あいおいニッセイ同和損保 ザ・フェニックスホール 昨日のコンサート、本当に楽しかった！ 高揚しました!! Apr 21, 2020 · Instagram: http://instagram.com/tadanobu_asano Twitter: https://twitter.com/asano_tadanobu 1 day ago · 浅野健一. 1",
+    "url": "https://www.facebook.com/shoasano32/",
+    "pass": 3
+   },
+   {
+    "quote": "TADANOBU ASANO / 浅野忠信浅野健一 - Facebook株式会社 浅野 | Ofunato-shi Iwate - FacebookAsano Takahiro - FacebookShuji Asano - Facebook Apr 21, 2020 · Instagram: http://instagram.com/tadanobu_asano Twitter: https://twitter.com/asano_tadanobu 1 day ago · 浅野健一. 10,450 followers · 4,672 talking about this. Digital creator 株式会社 浅野, Ofunato-shi. 27 followers. 米穀類・青果類・各種食料品の卸売・販売 日米連 お米の衛生管理適合確認事業者 JRRA-SE-207 6 days",
+    "url": "https://www.facebook.com/tadanobu.asano.official/",
+    "pass": 3
+   },
+   {
+    "quote": "浅野健一 - Facebook 1 day ago · 浅野健一. 10,450 followers · 4,672 talking about this. Digital creator",
+    "url": "https://www.facebook.com/p/浅野健一-100022241222173/",
+    "pass": 3
+   },
+   {
+    "quote": "箔一 - 箔一 代表取締役社長 浅野達也のnoteを更新しました。 今回の... Aug 28, 2026 · 箔一 代表取締役社長 浅野達也のnoteを更新しまし た。 今回のテーマは「実行力が、これからの価値になる」 。 AIによって、調査やアイデア出しが効率化される時代 。 どれだけ良いアイデアがあっても、実際に動かなけれ ば形にはなりません。",
+    "url": "https://www.facebook.com/hakuichi.jp/posts/箔一-代表取締役社長-浅野達也のnoteを更新しました今回のテーマは意見より行動を誰かが困っていれば助ける何かに気づいたら自分にできることから動く創業時から受け/1665319542266797/",
+    "pass": 3
+   },
+   {
+    "quote": "箔一 - 箔一 代表取締役社長 浅野達也のnoteを更新しました。... | Fa... 箔一 代表取締役社長 浅野達也のnoteを更新しました。 AIを使わない日はないほど、身近な存在になった今。 効率化が進む一方で、手仕事ならではの美しさや、人の温かみの価値は、むしろ高まっていくのかもしれません。 AIを活用しながら、人にしか生み出せない価値をどう磨いていくのか。...",
+    "url": "https://www.facebook.com/hakuichi.jp/posts/箔一-代表取締役社長-浅野達也のnoteを更新しましたaiを使わない日はないほど身近な存在になった今効率化が進む一方で手仕事ならではの美しさや人の温かみの価値は/1678733354258749/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "浅野（投稿用） (@w529asano) / Posts / X Jun 9, 2022 · 🤍 1 📊 180 📎 浅野（投稿用） w529asano May 21 2026/5/21 21:46の方へ 有難う御座います！ ！ どうも有難う御座いますー！ ！ 私も切ないシチュが好きで、何も考えずに書くと… #wave_w529asano",
+    "url": "https://x.com/w529asano",
+    "pass": 3
+   },
+   {
+    "quote": "浅野 on X: \"動画系のFAはいまだによく見てもらえることが多く、少し... Jul 15, 2026 · 浅野 @asano_sh 動画系のFAはいまだによく見てもらえることが多く、少し前のものでもよくいいねやRPしてくださっています 最近は日常が忙しく投稿頻度も減っていますがモチ〜ベに繋がるのでほま〜にうれしいです ありがとうチュッ 9:41 PM · Jul 15, 2026 407Views 5",
+    "url": "https://x.com/asano_sh/status/2077508817966059907",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.asano-japan.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asano-japan.com/company/index.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asano-japan.com/company/division.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asano-japan.com/news/3485/",
+    "status": "http_404",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asano-japan.com/technology/trial-machining.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asano-japan.com/technology/trial-pipe.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asano-japan.com/company/greeting.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asano-japan.com/company/manage.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asano-japan.com/saiyo/index.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asano-japan.com/saiyo/career.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asano-japan.com/saiyo/careerjob.php",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asano-japan.com/company/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.asano-japan.com/factory/map1.pdf",
+    "status": "ok",
+    "method": "pdf"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.asano-lab.co.jp/products/tf_roll/flb.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.nc-net.or.jp/company/77273/product/detail/58100/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.furusatokashi.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.asano-kk.com/profile.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://asano-group.co.jp/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://b-asanoya.com/pages/shop-inquiry",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://asanomatsuzo.com/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/ryosukeasano/n/n751f160489ba",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/korokorococoroo/n/n5a14da94408f",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/korokorococoroo",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/asanohisao",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://jp.linkedin.com/in/あずさ-浅野-501671150",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/satoshi-asano-11393431",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://sg.linkedin.com/in/miho-asano-0a610821a",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://nz.linkedin.com/in/noriko-asano/ja",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/asanogakuen/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/shoasano32/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/tadanobu.asano.official/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/p/浅野健一-100022241222173/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hakuichi.jp/posts/箔一-代表取締役社長-浅野達也のnoteを更新しました今回のテーマは意見より行動を誰かが困っていれば助ける何かに気づいたら自分にできることから動く創業時から受け/1665319542266797/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/hakuichi.jp/posts/箔一-代表取締役社長-浅野達也のnoteを更新しましたaiを使わない日はないほど身近な存在になった今効率化が進む一方で手仕事ならではの美しさや人の温かみの価値は/1678733354258749/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/hakuichi",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hakuichi/all",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/w529asano",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/asano_sh/status/2077508817966059907",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "浅野 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.asano-lab.co.jp/products/tf_roll/flb.html",
+    "https://ja.nc-net.or.jp/company/77273/product/detail/58100/",
+    "https://www.furusatokashi.jp/",
+    "https://www.furusatokashi.jp/oem/",
+    "https://www.asano-japan.com/technology/masspro-sheetmetal.php",
+    "https://www.asano-lab.co.jp/products/",
+    "https://www.asano-japan.com/technology/index.php"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "浅野 会社概要 事業内容",
+   "results": [
+    "https://www.asano-japan.com/company/",
+    "https://www.asano-kk.com/profile.html",
+    "http://asano-group.co.jp/company.html",
+    "https://www.asanogear.co.jp/business/company-profile/",
+    "http://www.asano-group.co.jp/gaiyou_new.html",
+    "https://www.atengineer.com/pr/asano-japan/company",
+    "https://www.asano-japan.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "浅野 お問い合わせ メール",
+   "results": [
+    "https://b-asanoya.com/pages/shop-inquiry",
+    "https://www.asano-japan.com/contact/",
+    "https://asanomatsuzo.com/contact/",
+    "https://www.asano-shop.com/contact",
+    "https://asano-gold.com/contact/",
+    "https://ec.asano-metal.co.jp/EcInquiries1.php",
+    "https://b-asanoya.com/pages/contact"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 浅野",
+   "results": [
+    "https://note.com/ryosukeasano/n/n751f160489ba",
+    "https://note.com/korokorococoroo/n/n5a14da94408f",
+    "https://note.com/korokorococoroo",
+    "https://note.com/asanohisao",
+    "https://note.com/asajuku_yobi/n/nc5a343174dfe",
+    "https://note.com/chuju_no_oya/n/ne6215b54d37e",
+    "https://note.com/asano_volley19/n/nbc88a074d62e"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 浅野",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:linkedin.com 浅野",
+   "results": [
+    "https://jp.linkedin.com/in/あずさ-浅野-501671150",
+    "https://jp.linkedin.com/in/satoshi-asano-11393431",
+    "https://sg.linkedin.com/in/miho-asano-0a610821a",
+    "https://nz.linkedin.com/in/noriko-asano/ja",
+    "https://www.linkedin.com/jobs/浅野-栄利-jobs",
+    "https://www.linkedin.com/jobs/浅野友彦-アステラス-jobs",
+    "https://bz.linkedin.com/posts/saorikoide_デジタル社会を共創し豊かな日本へ-上-ibm-ソリューション-ブログ-activity-7024256721472671744-2k52"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 浅野",
+   "results": [
+    "https://www.facebook.com/asanogakuen/",
+    "https://www.facebook.com/shoasano32/",
+    "https://www.facebook.com/tadanobu.asano.official/",
+    "https://www.facebook.com/p/浅野健一-100022241222173/",
+    "https://www.facebook.com/asanokomeya/",
+    "https://www.facebook.com/takahiro.asano.90/",
+    "https://www.facebook.com/shuji.asano.75/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "浅野 note 社長",
+   "results": [
+    "https://www.facebook.com/hakuichi.jp/posts/箔一-代表取締役社長-浅野達也のnoteを更新しました今回のテーマは意見より行動を誰かが困っていれば助ける何かに気づいたら自分にできることから動く創業時から受け/1665319542266797/",
+    "https://www.facebook.com/hakuichi.jp/posts/箔一-代表取締役社長-浅野達也のnoteを更新しましたaiを使わない日はないほど身近な存在になった今効率化が進む一方で手仕事ならではの美しさや人の温かみの価値は/1678733354258749/",
+    "https://note.com/hakuichi",
+    "https://note.com/hakuichi/all",
+    "https://www.hakuichi-recruit.jp/top-message",
+    "https://x.com/hakuichi_koho/status/2118922398439239699",
+    "https://higaeri55.com/2918.html"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "浅野 X 投稿",
+   "results": [
+    "https://x.com/w529asano",
+    "https://x.com/asano_sh/status/2077508817966059907",
+    "https://asanoudon.fanbox.cc/posts",
+    "https://asanoudon.fanbox.cc/posts/11964675",
+    "https://search.yahoo.co.jp/realtime/search/浅野健一/",
+    "https://asanosiu.fanbox.cc/posts",
+    "https://fantia.jp/posts/4171076"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "代表者": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部25頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部25頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式12頁／PDF・画像1件／外部25頁・検索9回）"
+ }
+}

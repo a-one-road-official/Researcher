@@ -1,0 +1,1669 @@
+{
+ "name": "Poly",
+ "aliases": [],
+ "context": "旧営業リスト｜Robotics / Automation｜状態なし",
+ "researched_at": "2026-11-11T10:44:55.487365+00:00",
+ "official_url": "https://poly.ai",
+ "identified_by": "given",
+ "profile": {},
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "PolyAI | Enterprise Voice AI: The Agentic Dialog Platform",
+    "url": "https://poly.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "PolyAI builds dialog agents that handle your most critical enterprise conversations, resolving them without escalation.",
+    "url": "https://poly.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "See prompt suggestions",
+    "url": "https://poly.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-built integrations, a self-serve Connect Portal, and open APIs enable your AI agents to work seamlessly with all of your existing systems.",
+    "url": "https://poly.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Webchat and multilingual. Text-based dialog, supported for production, the fastest of the cascades, carrying the same agent across chat, SMS and messaging.",
+    "url": "https://poly.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "less seasonal hiring.",
+    "url": "https://poly.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Resolution at enterprise scale",
+    "url": "https://poly.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Enterprise-grade resilience, around every interaction",
+    "url": "https://poly.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "SOC 2+ Type 2, ISO 27001, PCI DSS, GDPR.",
+    "url": "https://poly.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Join the PolyAI strategic partner program",
+    "url": "https://poly.ai/our-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Pacific Gas & Electric (PG&E) customers were being forced to engage with an outdated IVR system that was unable to meet their needs, leading to call wait times of over an hour due to unpredictable weather & natural events.",
+    "url": "https://poly.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "How Carter's reduced seasonal hiring by 60% with PolyAI",
+    "url": "https://poly.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Improving NPS by 14 points with UniCredit",
+    "url": "https://poly.ai/customers",
+    "pass": 1
+   },
+   {
+    "quote": "Wren reviews and improves your agent for you. Also includes custom AI scores and nearly unlimited Wren usage.",
+    "url": "https://poly.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Pre-built connectors with the tools you already run, or connect any API or MCP server.",
+    "url": "https://poly.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Extra minutes are billed at 30c / minute on Essentials, 25c / minute on Plus and 20c / minute on Scale. Enterprise rates are set in your contract.",
+    "url": "https://poly.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "How does Scale pricing work for several locations?",
+    "url": "https://poly.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Every plan connects to Google Calendar, Calendly, Cal.com and Zapier. Plus adds HubSpot, Zoho CRM, Dynamics 365 and Microsoft 365. Scale adds Salesforce, Zendesk, Freshdesk and Slack. Enterprise adds NICE CXone, Five9, Genesys, EHRs and bespoke integrations.",
+    "url": "https://poly.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "On Essentials, Plus and Scale you build it yourself, with Wren to help you design, build and test. On Enterprise, PolyAI or a partner builds it for you.",
+    "url": "https://poly.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Every plan runs on SOC 2 and ISO 27001 certified infrastructure. Enterprise adds HIPAA with a BAA, SSO, PCI card capture, data storage in your region and an uptime SLA.",
+    "url": "https://poly.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Chief Product Officer and Co-Founder, SafeRide Health",
+    "url": "https://poly.ai/customers/saferide",
+    "pass": 1
+   },
+   {
+    "quote": "Sustaining 40% annual growth meant continuously hiring and training CSRs, while January demand spikes pushed call center capacity to its limits.",
+    "url": "https://poly.ai/customers/saferide",
+    "pass": 1
+   },
+   {
+    "quote": "SafeRide Health was built on the core belief that technology could do better than outdated manual processes at supporting at-risk health plan members with reliable transportation to dialysis, oncology appointments, and other life-sustaining care.",
+    "url": "https://poly.ai/customers/saferide",
+    "pass": 1
+   },
+   {
+    "quote": "“It's very challenging to scale humans in a call center with a 40% a year growth rate. That's a lot of new CSRs to hire, with associated training costs and quality requirements. That's why we had to look for a new way.”",
+    "url": "https://poly.ai/customers/saferide",
+    "pass": 1
+   },
+   {
+    "quote": "Ben Salter | Chief Product Officer and Co-Founder, SafeRide Health",
+    "url": "https://poly.ai/customers/saferide",
+    "pass": 1
+   },
+   {
+    "quote": ", the platform's analytics tool, gives the team the same speed on insights, surfaces trends, and finds specific calls through natural language prompts.",
+    "url": "https://poly.ai/customers/saferide",
+    "pass": 1
+   },
+   {
+    "quote": "A member called in and said, 'Sorry to bother you. I usually talk to Steven, but he didn't have my phone number, so I wanted to give it to you so I can talk to Steven next time.’ That's a member who prefers the dialog agent, that tells you everything.",
+    "url": "https://poly.ai/customers/saferide",
+    "pass": 1
+   },
+   {
+    "quote": "Ben Salter | Chief Product Officer and Co-Founder.",
+    "url": "https://poly.ai/customers/saferide",
+    "pass": 1
+   },
+   {
+    "quote": "Continuing to improve the PolyAI experience",
+    "url": "https://poly.ai/customers/saferide",
+    "pass": 1
+   },
+   {
+    "quote": "Members who prefer other languages, such as Spanish",
+    "url": "https://poly.ai/customers/saferide",
+    "pass": 1
+   },
+   {
+    "quote": "How Carter's reduced seasonal hiring by 60% with PolyAI",
+    "url": "https://poly.ai/customers/saferide",
+    "pass": 1
+   },
+   {
+    "quote": "Improving NPS by 14 points with UniCredit",
+    "url": "https://poly.ai/customers/saferide",
+    "pass": 1
+   },
+   {
+    "quote": "Call prioritization and routing.",
+    "url": "https://poly.ai/industries/consumer-services",
+    "pass": 1
+   },
+   {
+    "quote": "Understand customer intent and recognize priority situations to efficiently route calls to the right CSR at the right time.",
+    "url": "https://poly.ai/industries/consumer-services",
+    "pass": 1
+   },
+   {
+    "quote": "Schedule and reschedule callouts effortlessly, processing payments over the phone to capture every revenue opportunity.",
+    "url": "https://poly.ai/industries/consumer-services",
+    "pass": 1
+   },
+   {
+    "quote": "Keep your service consistent and professional, regardless of call volume.",
+    "url": "https://poly.ai/industries/consumer-services",
+    "pass": 1
+   },
+   {
+    "quote": "24/7 support with compliance certification to meet your needs including ISO 27001, SOC 2, PCI DSS, GDPR and more.",
+    "url": "https://poly.ai/industries/consumer-services",
+    "pass": 1
+   },
+   {
+    "quote": "Conversational AI can handle routine inquiries, process payments, schedule appointments, collect customer feedback, and provide 24/7 support making it ideal for managing high call volumes, automating FAQs, and freeing up staff for more complex tasks.",
+    "url": "https://poly.ai/industries/consumer-services",
+    "pass": 1
+   },
+   {
+    "quote": "How the Citizens Advice Network in Scotland is providing better, faster support with PolyAI",
+    "url": "https://poly.ai/industries/consumer-services",
+    "pass": 1
+   },
+   {
+    "quote": "Navigating unpredictable call volume in consumer services",
+    "url": "https://poly.ai/industries/consumer-services",
+    "pass": 1
+   },
+   {
+    "quote": "Remember every customer and offer repeat services, send outbound reminders, and offer priority service to those who need it most.",
+    "url": "https://poly.ai/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Access structured conversational data and operational insights to drive improvements to customer experience.",
+    "url": "https://poly.ai/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "24/7 support with compliance certification to meet your needs including ISO 27001, SOC 2, PCI DSS, GDPR and more.",
+    "url": "https://poly.ai/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": ": Handling inquiries, troubleshooting issues, and providing account information.",
+    "url": "https://poly.ai/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Offering tailored investment, budgeting, or savings tips based on user preferences.",
+    "url": "https://poly.ai/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Transaction processing:",
+    "url": "https://poly.ai/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Answering questions about banking products, services, and account details.",
+    "url": "https://poly.ai/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Guiding customers through the process of applying for personal or business loans.",
+    "url": "https://poly.ai/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Providing help with everyday tasks like transferring funds or setting up alerts for transactions.",
+    "url": "https://poly.ai/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Improving NPS by 14 points with UniCredit",
+    "url": "https://poly.ai/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "These are conversations PolyAI runs in production today, tuned to each caller's intent and your systems of record.",
+    "url": "https://poly.ai/industries/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Book, reschedule, and cancel across providers and locations, synced to your scheduling system.",
+    "url": "https://poly.ai/industries/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Product & appointment inquiries",
+    "url": "https://poly.ai/industries/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Answer product questions and availability checks in the moment. Pass qualified leads to your team with full context.",
+    "url": "https://poly.ai/industries/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Absorb seasonal spikes without hiring",
+    "url": "https://poly.ai/industries/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Patient support programs",
+    "url": "https://poly.ai/industries/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Collect enrollment details, check program eligibility, and hand a complete record to your hub team.",
+    "url": "https://poly.ai/industries/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Answer from approved content only",
+    "url": "https://poly.ai/industries/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Respond to common product questions from your approved medical information, and escalate everything else.",
+    "url": "https://poly.ai/industries/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Explain copay assistance, prior authorization status, and next steps, so therapy starts on time.",
+    "url": "https://poly.ai/industries/healthcare",
+    "pass": 1
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "Webchat and multilingual. Text-based dialog, supported for production, the fastest of the cascades, carrying the same agent across chat, SMS and messaging.",
+    "url": "https://poly.ai/",
+    "pass": 1
+   },
+   {
+    "quote": "Keep your number and connect your own carrier over SIP at no charge, or choose a new number from us.",
+    "url": "https://poly.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Yes. Customers can keep calling the number they already know, and you can connect your own carrier over SIP at no charge. You can also choose a new number from us.",
+    "url": "https://poly.ai/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Rather than replacing CSRs, PolyAI has freed them to focus on the calls that genuinely need a human. The complex, high-touch cases, like a mother arranging airfare, hotel accommodation, and meals so her daughter can get cancer treatment, now get the time and attention they deserve.",
+    "url": "https://poly.ai/customers/saferide",
+    "pass": 1
+   },
+   {
+    "quote": "Schedule and reschedule callouts effortlessly, processing payments over the phone to capture every revenue opportunity.",
+    "url": "https://poly.ai/industries/consumer-services",
+    "pass": 1
+   },
+   {
+    "quote": "Capture every revenue opportunity by ensuring 100% of calls are answered.",
+    "url": "https://poly.ai/industries/hotels",
+    "pass": 1
+   },
+   {
+    "quote": "PolyAI Host answers every call, common guest questions, books directly into your restaurant systems, and converts phone conversations into revenue. Trusted by 3,000+ restaurants.",
+    "url": "https://poly.ai/industries/restaurants",
+    "pass": 1
+   },
+   {
+    "quote": "“PolyAI is on track to add just over $7M in incremental revenue to our business.”",
+    "url": "https://poly.ai/industries/restaurants",
+    "pass": 1
+   },
+   {
+    "quote": "Recover missed revenue. Run a smoother service.",
+    "url": "https://poly.ai/industries/restaurants",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by global operators — capturing between $7,000 and $7M in missed phone revenue.",
+    "url": "https://poly.ai/industries/restaurants",
+    "pass": 1
+   },
+   {
+    "quote": "Warranty intake end to end: identity verified, address confirmed, troubleshooting resolved, service request created. For your team: whole call types disappear from the queue.",
+    "url": "https://poly.ai/wren",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue leaking quietly",
+    "url": "https://poly.ai/wren",
+    "pass": 1
+   },
+   {
+    "quote": "Is Wren part of Dialog Studio?",
+    "url": "https://poly.ai/wren",
+    "pass": 1
+   },
+   {
+    "quote": "“There is nothing more rewarding than having real people actually talk to the thing you’ve helped build. Working at PolyAI means having a huge impact every day, and experiencing the change you’re part of.”",
+    "url": "https://poly.ai/careers",
+    "pass": 1
+   },
+   {
+    "quote": "Citizens Advice Scotland members wanted to make it easier and quicker for people to access local advice from local advisors. As a part of the CivTech challenge, they appealed to organisations who could help them to solve this problem.",
+    "url": "https://poly.ai/customers/citizens-advice-scotland",
+    "pass": 1
+   },
+   {
+    "quote": "is owned by pan-European bank UniCredit, with over 1.3 million retail customers and 60,000 corporate clients.",
+    "url": "https://poly.ai/customers/unicredit-zagrebacka-banka",
+    "pass": 1
+   },
+   {
+    "quote": ". “This new Japanese elective exposes students to a new part of the world and a new way of character reading and writing. How excited we are to have Mr. Leeklymenko teaching our students about the many wonders of Japan!”",
+    "url": "https://www.polyprep.org/news/new-course-introduction-to-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "Expand and diversify how we generate revenue.",
+    "url": "https://calpolypartners.org/mission-vision-values/strategic-plan",
+    "pass": 3
+   },
+   {
+    "quote": "Maintain or increase net revenue during the transition to year-round operations.",
+    "url": "https://calpolypartners.org/mission-vision-values/strategic-plan",
+    "pass": 3
+   },
+   {
+    "quote": "Increase revenue generated from campus assets.",
+    "url": "https://calpolypartners.org/mission-vision-values/strategic-plan",
+    "pass": 3
+   },
+   {
+    "quote": "Reduce reliance on any single revenue source.",
+    "url": "https://calpolypartners.org/mission-vision-values/strategic-plan",
+    "pass": 3
+   },
+   {
+    "quote": "Hold a town hall for all Cal Poly Partners employees.",
+    "url": "https://calpolypartners.org/mission-vision-values/strategic-plan",
+    "pass": 3
+   },
+   {
+    "quote": "Create career paths that recognize and reward student employees for their contributions and growth in Research.",
+    "url": "https://calpolypartners.org/mission-vision-values/strategic-plan",
+    "pass": 3
+   },
+   {
+    "quote": "One-time compensation, promotion and compensation adjustment requests are used effectively to reward and recognize employees for accomplishments and changes in scope of work.",
+    "url": "https://calpolypartners.org/mission-vision-values/strategic-plan",
+    "pass": 3
+   },
+   {
+    "quote": "This is the difficult part of low-poly",
+    "url": "https://note.com/romannesuko/n/n089c19402e63?hl=en",
+    "pass": 3
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "Join the PolyAI strategic partner program",
+    "url": "https://poly.ai/our-partners",
+    "pass": 1
+   },
+   {
+    "quote": "Harness the flexibility and conversational nature of generative AI to handle a broader range of customer queries, while keeping interactions safe and aligning responses with your brand values.",
+    "url": "https://poly.ai/industries/financial-services",
+    "pass": 1
+   },
+   {
+    "quote": "Harness the flexibility and conversational nature of generative AI to handle a broader range of customer queries while keeping interactions safe and aligning responses with your brand values.",
+    "url": "https://poly.ai/industries/insurance",
+    "pass": 1
+   },
+   {
+    "quote": "Conversational AI is ideal for airlines, hotels, travel agencies, and car rental companies. By adopting this technology, any business that handles large volumes of customer inquiries or bookings can significantly improve efficiency and customer satisfaction.",
+    "url": "https://poly.ai/industries/travel",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by the brands patients call for care",
+    "url": "https://poly.ai/industries/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "PolyAI Host answers every call, common guest questions, books directly into your restaurant systems, and converts phone conversations into revenue. Trusted by 3,000+ restaurants.",
+    "url": "https://poly.ai/industries/restaurants",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by global operators — capturing between $7,000 and $7M in missed phone revenue.",
+    "url": "https://poly.ai/industries/restaurants",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 3,000 restaurants already and handling over 1M reservation calls every month.",
+    "url": "https://poly.ai/industries/restaurants",
+    "pass": 1
+   },
+   {
+    "quote": "The same technology trusted by banks, utilities, and retailers to handle hundreds of millions of calls is now working for your restaurant.",
+    "url": "https://poly.ai/industries/restaurants",
+    "pass": 1
+   },
+   {
+    "quote": "Explore open roles and help shape AI that’s trusted by the world’s leading brands.",
+    "url": "https://poly.ai/about",
+    "pass": 1
+   },
+   {
+    "quote": "HP Poly ビデオ & ボイス ソリューション (旧 Polycom および Plantronics) | 日本HP",
+    "url": "https://www.hp.com/jp-ja/poly.html",
+    "pass": 3
+   },
+   {
+    "quote": "Poly は、米国ヘッドセットメーカーPlantronics と米国ビデオ会議ソリューションメーカーのポリコムが2018年に統合して生まれたブランドです",
+    "url": "https://www.idaten.ne.jp/portal/page/out/mss/hpi/poly.html",
+    "pass": 3
+   },
+   {
+    "quote": "）は、このたび Plantronics, Inc.",
+    "url": "https://www.minato.co.jp/cms/wp-content/uploads/2021/08/210804.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Poly は、Plantronics とポ リ コ ム か ら 生 ま れ、高品 質な ヘ ッ ド セ ッ トを はじ め 、ビデ",
+    "url": "https://www.minato.co.jp/cms/wp-content/uploads/2021/08/210804.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Polyethylene as a Material for Additive Manufacturing (AM): A Material with Material Recycling Suitability",
+    "url": "https://www.j-polyethylene.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Manufacturing Tooling",
+    "url": "https://www.stratasys.com/en/resources/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Preparing Future Manufacturing",
+    "url": "https://www.stratasys.com/en/resources/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Keeping Rail Fleets Moving with Additive Manufacturing",
+    "url": "https://www.stratasys.com/en/resources/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "With production-like polypropylene performance, living hinges, and full-color graphics, PolyJet ToughONE™ transformed how J.L. Clark designs, tests, and validates packaging concepts before manufacturing",
+    "url": "https://www.stratasys.com/en/resources/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "See how Medical IP pairs AI segmentation with the Stratasys J750 to 3D print full-color organ models for surgical simulation and training. Read the case study.",
+    "url": "https://www.stratasys.com/en/resources/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "Galilee Medical Center uses 3D printed dental anatomical models to standardize surgical simulation training for 60+ residents. Read the case study.",
+    "url": "https://www.stratasys.com/en/resources/case-studies/",
+    "pass": 3
+   },
+   {
+    "quote": "The MR2 debuted in 1984 as the first mid-ship car from a Japanese manufacturer. The name MR2 comes from Mid-ship Runabout 2-seater. It implies a sports car that is easy to drive.",
+    "url": "https://note.com/romannesuko/n/n089c19402e63?hl=en",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "24/7 coverage with no hold music and no after-hours voicemail, so a patient's first contact is never a wait",
+    "url": "https://poly.ai/industries/healthcare",
+    "pass": 1
+   },
+   {
+    "quote": "Provides a unified context across voice, web chat, messaging, email, and in-app experiences so customers never have to repeat themselves.",
+    "url": "https://poly.ai/wren",
+    "pass": 1
+   },
+   {
+    "quote": "Please feel free to contact us for any work requests or consultations.",
+    "url": "https://www.j-polyethylene.com/en/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "HP Poly ビデオ & ボイス ソリューション (旧 Polycom および Plantronics) | 日本HP",
+    "url": "https://www.hp.com/jp-ja/poly.html",
+    "pass": 3
+   },
+   {
+    "quote": "プリンストンの強み｜Poly社 ビデオ会議・音声会議システム｜株式会社プリンストン",
+    "url": "https://www.princeton.co.jp/poly/about/",
+    "pass": 3
+   },
+   {
+    "quote": "日本国内において統一したビデオ会議環境を構築したい場合はぜひプリンストンにお任せください",
+    "url": "https://www.princeton.co.jp/poly/about/",
+    "pass": 3
+   },
+   {
+    "quote": "Poly 日本法人による「FY21 Distributor of The Year - JAPAN」受賞のお知らせ",
+    "url": "https://www.minato.co.jp/cms/wp-content/uploads/2021/08/210804.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ミナトホールディングス株式会社（本社：東京都中央区、代表取締役会長兼社長：若山健彦、",
+    "url": "https://www.minato.co.jp/cms/wp-content/uploads/2021/08/210804.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "証券コード：6862） のグループ会社である株式会社プリンストン（本社：東京都千代田区、 代表",
+    "url": "https://www.minato.co.jp/cms/wp-content/uploads/2021/08/210804.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ベント「Poly Virtual Partner Forum – JAPAN」において、国内の最も優れた認定ディストリビ",
+    "url": "https://www.minato.co.jp/cms/wp-content/uploads/2021/08/210804.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ューターパートナーに贈られる「FY21 Distributor of The Year - JAPAN」を受賞いたしました",
+    "url": "https://www.minato.co.jp/cms/wp-content/uploads/2021/08/210804.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "■Poly Virtual Partner Forum – JAPAN について",
+    "url": "https://www.minato.co.jp/cms/wp-content/uploads/2021/08/210804.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "開催された「Virtual Global Partner Conference」の内容を受けて、Poly 日本法人が国内の認",
+    "url": "https://www.minato.co.jp/cms/wp-content/uploads/2021/08/210804.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "所在 地 東京都千代田区岩本町 ３-９-５ K.A.I.ビル ３F",
+    "url": "https://www.minato.co.jp/cms/wp-content/uploads/2021/08/210804.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "キングストンテクノロジー社の正規輸入販売代理店業務",
+    "url": "https://www.minato.co.jp/cms/wp-content/uploads/2021/08/210804.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Poly 社、ATEN 社の正規輸入販売代理店業務",
+    "url": "https://www.minato.co.jp/cms/wp-content/uploads/2021/08/210804.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株 主 ミナトホールディングス株式会社 100％",
+    "url": "https://www.minato.co.jp/cms/wp-content/uploads/2021/08/210804.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社プリンストン広報部 小林 亜由美 TEL：03-3863-7370",
+    "url": "https://www.minato.co.jp/cms/wp-content/uploads/2021/08/210804.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "ミナトホールディングス株式会社 広報マーケティンググループ 徳往 有香",
+    "url": "https://www.minato.co.jp/cms/wp-content/uploads/2021/08/210804.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Polyethylene Corporation",
+    "url": "https://www.j-polyethylene.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "New Japanese Course | Poly Prep Country Day School Brooklyn",
+    "url": "https://www.polyprep.org/news/new-course-introduction-to-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "New Course Alert: Introduction to Japanese",
+    "url": "https://www.polyprep.org/news/new-course-introduction-to-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "and his class welcomed a visitor to their Introduction to Japanese class saying, “Konnichiwa,” (Hello!) and bowing heads as a sign of respect. This fall is the first time that Japanese is being taught at Poly.",
+    "url": "https://www.polyprep.org/news/new-course-introduction-to-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "In this beginner’s introduction to the Japanese language, which is open to Grade 12, students learn the rudiments of Japanese reading, writing, listening, and speaking, while also exploring many aspects of Japanese history, culture, linguistics, and popular culture.",
+    "url": "https://www.polyprep.org/news/new-course-introduction-to-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": ". “This new Japanese elective exposes students to a new part of the world and a new way of character reading and writing. How excited we are to have Mr. Leeklymenko teaching our students about the many wonders of Japan!”",
+    "url": "https://www.polyprep.org/news/new-course-introduction-to-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "Leeklymenko spent two weeks traveling in Japan",
+    "url": "https://www.polyprep.org/news/new-course-introduction-to-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": ", which included Kyoto, Nara, Osaka, Hida Mountains, Kamakura, and Tokyo, to improve his Japanese language skills and learn more about Japanese culture and history.",
+    "url": "https://www.polyprep.org/news/new-course-introduction-to-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "Leeklymenko has been interested in the Japanese language and culture since he was about 13 years old.",
+    "url": "https://www.polyprep.org/news/new-course-introduction-to-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "Leeklymenko also pointed out that Japanese characters​​—kanji, hiragana, and katakana—are derived from Chinese characters.",
+    "url": "https://www.polyprep.org/news/new-course-introduction-to-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "About the relationship between Japanese and the Chinese language,",
+    "url": "https://www.polyprep.org/news/new-course-introduction-to-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "He explained that “good night” in Japanese​​—oyasumi—literally means a wish for “an honorable rest.” He added that “dame” means useless or no good and can be used as one way to express obligation or necessity when used as “if I don’t do this… dame desu (it’s no good)” to mean “I must do this.”",
+    "url": "https://www.polyprep.org/news/new-course-introduction-to-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "says, “I was curious to learn Japanese because I wanted to try a new language for my senior year. I have had no prior experience with the language.”",
+    "url": "https://www.polyprep.org/news/new-course-introduction-to-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "“What has surprised me the most is how much influence from different cultures can be seen within Japanese,” Herzog continued. “There are many loan words borrowed and adapted for Japanese.”",
+    "url": "https://www.polyprep.org/news/new-course-introduction-to-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "has been interested in Japanese culture and the language since she was a child. “I was supposed to go to Japan to attend a language school back in 2020,” she said, “but then COVID hit, so once I saw that this Japanese class was being offered, I was so excited.”",
+    "url": "https://www.polyprep.org/news/new-course-introduction-to-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "“As Mr. Leeklymenko told us on the first day of class,” Donald continued, “Japanese is the hardest language to learn as a native English speaker because of how different it is from English. It was surprising to see just how different it is from English, all the way down to sentence structure.”",
+    "url": "https://www.polyprep.org/news/new-course-introduction-to-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "“grew up immersed in Japanese culture and media.” He says he was surrounded by Japanese music, art, video games,",
+    "url": "https://www.polyprep.org/news/new-course-introduction-to-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "“Mr. Leeklymenko has made learning Japanese fun and interesting,” Herzog added. “My classmates and I look forward to his class every day. He mixes in the learning of new vocab with funny and interesting anecdotes.”",
+    "url": "https://www.polyprep.org/news/new-course-introduction-to-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "Xiao said, “Mr. Leeklymenko is a very engaging teacher who provides relatable examples and etymologies for the material we learn. We aren’t just learning how to write Japanese characters; we’re learning about their roots in Chinese written and spoken language, as well as practicing how they’re frequently used in daily activities.”",
+    "url": "https://www.polyprep.org/news/new-course-introduction-to-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "“I was uncertain if there would be enough student demand for a class,” Leeklymenko said, “so I was very happy to discover that so many students were interested! My students are very enthusiastic about Japanese language and culture. I will work hard to deepen our collective understanding.”",
+    "url": "https://www.polyprep.org/news/new-course-introduction-to-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "The MR2 debuted in 1984 as the first mid-ship car from a Japanese manufacturer. The name MR2 comes from Mid-ship Runabout 2-seater. It implies a sports car that is easy to drive.",
+    "url": "https://note.com/romannesuko/n/n089c19402e63?hl=en",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "HP Poly ビデオ & ボイス ソリューション (旧 Polycom および ... — HP Poly ビデオ & ボイス ソリューション (旧 Polycom および ... HP https://www.hp.com > jp-ja > poly",
+    "url": "https://www.hp.com/jp-ja/poly.html",
+    "pass": 3
+   },
+   {
+    "quote": "【HP Poly 】 Poly 製品でハイブリッド型会議を実現するメリット — 【HP Poly 】 Poly 製品でハイブリッド型会議を実現するメリット ECNex https://www.ecnex.jp > connect > articles",
+    "url": "https://www.ecnex.jp/connect/articles/4812",
+    "pass": 3
+   },
+   {
+    "quote": "Poly | HP ｜ MEDIAPLUS - メディアプラス — Poly | HP ｜ MEDIAPLUS - メディアプラス 株式会社メディアプラス https://www.mediaplus.co.jp > manufacturers > poly_hp",
+    "url": "https://www.mediaplus.co.jp/manufacturers/poly_hp/",
+    "pass": 3
+   },
+   {
+    "quote": "Poly 製品 - iDATEN（韋駄天） — Poly 製品 - iDATEN（韋駄天） iDATEN（韋駄天） https://www.idaten.ne.jp > page > out > mss > hpi > poly",
+    "url": "https://www.idaten.ne.jp/portal/page/out/mss/hpi/poly.html",
+    "pass": 3
+   },
+   {
+    "quote": "Poly （ポリー）製品一覧・メーカー紹介 - VTVジャパン — Poly （ポリー）製品一覧・メーカー紹介 - VTVジャパン VTVジャパン株式会社 https://www.vtv.co.jp > 製品",
+    "url": "https://www.vtv.co.jp/product/poly/",
+    "pass": 3
+   },
+   {
+    "quote": "プリンストンの強み｜ Poly 社 ビデオ会議・音声会議システム — プリンストンの強み｜ Poly 社 ビデオ会議・音声会議システム プリンストン https://www.princeton.co.jp > poly > about",
+    "url": "https://www.princeton.co.jp/poly/about/",
+    "pass": 3
+   },
+   {
+    "quote": "ミナトグループのプリンストン、 Poly 日本法人 による「FY21 ... — ミナトグループのプリンストン、 Poly 日本法人 による「FY21 ... ミナトホールディングス株式会社 PDF https://mhd.minatoat.co.jp > cms > uploads > 2021/08",
+    "url": "https://mhd.minatoat.co.jp/cms/wp-content/uploads/2021/08/210804.pdf",
+    "pass": 3
+   },
+   {
+    "quote": "Japan Polyethylene Corporation — Japan Polyethylene Corporation 日本ポリエチレン株式会社 https://www.j-polyethylene.com > ...",
+    "url": "https://www.j-polyethylene.com/en/",
+    "pass": 3
+   },
+   {
+    "quote": "Japan page - Cal Poly Pomona — Japan page - Cal Poly Pomona Cal Poly Pomona https://www.cpp.edu > japan",
+    "url": "https://www.cpp.edu/international/study-abroad/faculty-program-directors/countries-programs/japan.shtml",
+    "pass": 3
+   },
+   {
+    "quote": "Japanese - Download free 3D models - Poly Pizza — Japanese - Download free 3D models - Poly Pizza Poly Pizza https://poly.pizza > search > Japanese",
+    "url": "https://poly.pizza/search/Japanese",
+    "pass": 3
+   },
+   {
+    "quote": "New Course Alert: Introduction to Japanese - Poly Prep — New Course Alert: Introduction to Japanese - Poly Prep Poly Prep Country Day School https://www.polyprep.org > News",
+    "url": "https://www.polyprep.org/news/new-course-introduction-to-japanese/",
+    "pass": 3
+   },
+   {
+    "quote": "Poly's Competitors, Revenue , Number of Employees ... - Owler — Poly's Competitors, Revenue , Number of Employees ... - Owler Owler https://www.owler.com > plantronicsinc",
+    "url": "https://www.owler.com/company/plantronicsinc",
+    "pass": 3
+   },
+   {
+    "quote": "Poly - 2026 Company Profile & Team - Tracxn — Poly - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/poly/__My025LkcanktGaFpFyFVB5xplSF10iUeWDs0ae6eRAs",
+    "pass": 3
+   },
+   {
+    "quote": "Strategic Plan | Cal Poly Partners — Strategic Plan | Cal Poly Partners Cal Poly Partners https://calpolypartners.org > strategic-...",
+    "url": "https://calpolypartners.org/mission-vision-values/strategic-plan",
+    "pass": 3
+   },
+   {
+    "quote": "PolyAI Passes $200M in Total Funding with Series D — PolyAI Passes $200M in Total Funding with Series D PolyAI https://poly.ai > Blog",
+    "url": "https://poly.ai/blog/polyai-raises-86-million-series-d",
+    "pass": 3
+   },
+   {
+    "quote": "Objective Statement - Cal Poly College Based Fee Student Aid — Objective Statement - Cal Poly College Based Fee Student Aid Cal Poly https://afd.calpoly.edu > cbf > objecti...",
+    "url": "https://afd.calpoly.edu/cbf/objective-statement",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "Blender Notes: Creating a Low- Poly Character - Pomni (1) Blender Notes: Creating a Low- Poly Character - Pomni (1) note https://note.com > ... > 3DCG",
+    "url": "https://note.com/j_fujikawa/n/n95deda413f23?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "31. The Belbury Poly / Sorcery (2026)｜YuHirayamaポータル 31. The Belbury Poly / Sorcery (2026)｜YuHirayamaポータル note https://note.com > hirayamakun",
+    "url": "https://note.com/hirayamakun/n/n53ca785f6acb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Creating a Low- Poly Car in Blender Part 4｜浪漫ねすこ - note Creating a Low- Poly Car in Blender Part 4｜浪漫ねすこ - note note https://note.com > DIY > 電子工作",
+    "url": "https://note.com/romannesuko/n/n089c19402e63?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "poly ~の使い方 max8 max/msp｜fendoap - note poly ~の使い方 max8 max/msp｜fendoap - note note https://note.com > 音楽 > DTM・DAW・ボカロ",
+    "url": "https://note.com/ysuie_o/n/n2896c1bed87d",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "Blender Notes: Creating a Low-Poly Character - Pomni (1)｜FUJIKAWA",
+    "url": "https://note.com/j_fujikawa/n/n95deda413f23?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/j_fujikawa/n/n95deda413f23?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Blender Notes: Creating a Low-Poly Character - Pomni (1)",
+    "url": "https://note.com/j_fujikawa/n/n95deda413f23?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This article documents the process of creating a low-poly model of Pomni, a character from the 3D animation \"The Amazing Digital Circus.\"",
+    "url": "https://note.com/j_fujikawa/n/n95deda413f23?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "○ Procedure for attaching objects to curved surfaces using a plane lattice.",
+    "url": "https://note.com/j_fujikawa/n/n95deda413f23?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "○ Procedure for applying decals to curved surfaces using shrinkwrap.",
+    "url": "https://note.com/j_fujikawa/n/n95deda413f23?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "After subdividing a cube with a level 2 subdivision modifier, apply it to create the base shape.",
+    "url": "https://note.com/j_fujikawa/n/n95deda413f23?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Use the AutoMirror modifier to make it symmetrical and shape the hat.",
+    "url": "https://note.com/j_fujikawa/n/n95deda413f23?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "31. The Belbury Poly / Sorcery (2026)｜YuHirayamaポータル",
+    "url": "https://note.com/hirayamakun/n/n53ca785f6acb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/hirayamakun/n/n53ca785f6acb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "31. The Belbury Poly / Sorcery (2026)",
+    "url": "https://note.com/hirayamakun/n/n53ca785f6acb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In the recently released",
+    "url": "https://note.com/hirayamakun/n/n53ca785f6acb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": ", I contributed a guide to hauntology, which included descriptions of nearly 20 albums and an essay explaining the context. The new album 'Sorcery' by Belbury Poly, a project by Jim Jupp of Ghost Box Records—whom I also covered in the article—will be released on September 25th via 'Belbury Music,' a sub-label run by Jupp himself. I received the file as a press release from him personally and he al",
+    "url": "https://note.com/hirayamakun/n/n53ca785f6acb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "'Sorcery' is a word that means magic or witchcraft, but it has a stronger academic connotation and is likely less familiar than the word 'magic.' However, anyone who knows (analog or digital) role-playing games modeled after Western-style fantasy should easily be able to imagine what 'Sorcery' aims to represent (strictly speaking, the term 'sorcerer,' meaning a wielder of magic, is used more often",
+    "url": "https://note.com/hirayamakun/n/n53ca785f6acb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Even with clear references, the music of Belbury Poly (and peers like Broadcast) does not end up as mere antiquarianism because they do not try to stare directly at memories of the past, but rather view them from an angle and recreate them in a semi-objective way. By lowering the density of information and avoiding thorough reproduction, the music and visuals function as a kind of portal (loophole",
+    "url": "https://note.com/hirayamakun/n/n53ca785f6acb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "As mentioned in the press release, the core of this album's sound consists of products from the 80s, a period of digital equipment development, such as the DX7, Prophet-5, and LinnDrum; compared to previous Belbury Poly releases, it leans heavily toward older gear. For example, the percussion does not sound like drums or taiko, but rather like a pickaxe striking rock. These artificial sounds were ",
+    "url": "https://note.com/hirayamakun/n/n53ca785f6acb?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Creating a Low-Poly Car in Blender Part 4｜浪漫ねすこ",
+    "url": "https://note.com/romannesuko/n/n089c19402e63?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Auto translation by AI. Be sure, accuracy, nuances and authorial intent may not be fully reflected.",
+    "url": "https://note.com/romannesuko/n/n089c19402e63?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Creating a Low-Poly Car in Blender Part 4",
+    "url": "https://note.com/romannesuko/n/n089c19402e63?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "This time, I will be making the first-generation MR2.",
+    "url": "https://note.com/romannesuko/n/n089c19402e63?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "The MR2 debuted in 1984 as the first mid-ship car from a Japanese manufacturer. The name MR2 comes from Mid-ship Runabout 2-seater. It implies a sports car that is easy to drive.",
+    "url": "https://note.com/romannesuko/n/n089c19402e63?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "It is based on the Corolla, which had been converted to front-wheel drive. The idea was that by using the engine from the front-wheel-drive model and placing it behind the seats, they could build a mid-engine car at a low cost because the drivetrain components other than the engine could also be repurposed. Rather than a full-fledged sports car, it was, as the name suggests, a car for city driving",
+    "url": "https://note.com/romannesuko/n/n089c19402e63?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "Later, because the market demanded a car with more of a sports focus from a mid-ship layout, a high-performance model equipped with a supercharger was added.",
+    "url": "https://note.com/romannesuko/n/n089c19402e63?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "In 1989, the second generation, based on the Celica, was released. It became an incredibly cool sports car.",
+    "url": "https://note.com/romannesuko/n/n089c19402e63?hl=en",
+    "pass": 3
+   },
+   {
+    "quote": "poly~の使い方 max8 max/msp｜fendoap",
+    "url": "https://note.com/ysuie_o/n/n2896c1bed87d",
+    "pass": 3
+   },
+   {
+    "quote": "poly~の使い方 max8 max/msp",
+    "url": "https://note.com/ysuie_o/n/n2896c1bed87d",
+    "pass": 3
+   },
+   {
+    "quote": "poly~はポリフォニック用のオブジェクトでサブパッチを複製できる。",
+    "url": "https://note.com/ysuie_o/n/n2896c1bed87d",
+    "pass": 3
+   },
+   {
+    "quote": "別途サブパッチを作成し同じディレクトリに保存する。",
+    "url": "https://note.com/ysuie_o/n/n2896c1bed87d",
+    "pass": 3
+   },
+   {
+    "quote": "poly~ サブパッチの名前 ボイス数 を入力するとサブパッチを読み込んで作成できる。",
+    "url": "https://note.com/ysuie_o/n/n2896c1bed87d",
+    "pass": 3
+   },
+   {
+    "quote": "インレットとアウトレットにはpoly~用の入出力オブジェクトを使う必要がある。",
+    "url": "https://note.com/ysuie_o/n/n2896c1bed87d",
+    "pass": 3
+   },
+   {
+    "quote": "target 0で全てのボイスにメッセージを送ることができる。",
+    "url": "https://note.com/ysuie_o/n/n2896c1bed87d",
+    "pass": 3
+   },
+   {
+    "quote": "noteメッセージを受け取ると使用されていないサブパッチを探して送る。",
+    "url": "https://note.com/ysuie_o/n/n2896c1bed87d",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "poly (@polyZz_) / X poly (@polyZz_) / X X https://x.com > polyZz_",
+    "url": "https://x.com/polyZz_",
+    "pass": 3
+   },
+   {
+    "quote": "Cal Poly (@CalPoly) / X Cal Poly (@CalPoly) / X X https://x.com > CalPoly",
+    "url": "https://x.com/CalPoly",
+    "pass": 3
+   },
+   {
+    "quote": "HP Poly (@PolyCompany) / X HP Poly (@PolyCompany) / X X https://x.com > PolyCompany",
+    "url": "https://x.com/PolyCompany",
+    "pass": 3
+   },
+   {
+    "quote": "Low Poly Depression (@PolyDepression) / X Low Poly Depression (@PolyDepression) / X X https://x.com > PolyDepression",
+    "url": "https://x.com/PolyDepression",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Poly | LinkedIn Poly | LinkedIn LinkedIn https://www.linkedin.com > polydotapp",
+    "url": "https://www.linkedin.com/company/polydotapp",
+    "pass": 3
+   },
+   {
+    "quote": "Poly | LinkedIn Poly | LinkedIn LinkedIn https://www.linkedin.com > hppoly",
+    "url": "https://www.linkedin.com/company/hppoly",
+    "pass": 3
+   },
+   {
+    "quote": "Poly , Inc. - LinkedIn Poly , Inc. - LinkedIn LinkedIn https://www.linkedin.com > poly-inc",
+    "url": "https://www.linkedin.com/company/poly-inc",
+    "pass": 3
+   },
+   {
+    "quote": "PolyAPI | LinkedIn PolyAPI | LinkedIn LinkedIn https://www.linkedin.com > poly-api",
+    "url": "https://www.linkedin.com/company/poly-api",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Poly Philia (@polyphiliablog) - Facebook Poly Philia (@polyphiliablog) - Facebook Facebook https://www.facebook.com > ... > Education website",
+    "url": "https://www.facebook.com/polyphiliablog/",
+    "pass": 3
+   },
+   {
+    "quote": "Poly + Mono Relationships | Facebook Poly + Mono Relationships | Facebook Facebook https://www.facebook.com > Facebook Groups",
+    "url": "https://www.facebook.com/groups/PolyMono/",
+    "pass": 3
+   },
+   {
+    "quote": "Poly People | Facebook Poly People | Facebook Facebook https://www.facebook.com > Facebook Groups",
+    "url": "https://www.facebook.com/groups/polypeoplefb/",
+    "pass": 3
+   },
+   {
+    "quote": "HP Poly | Palo Alto CA - Facebook HP Poly | Palo Alto CA - Facebook Facebook https://www.facebook.com > PolyCompany",
+    "url": "https://www.facebook.com/PolyCompany/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://poly.ai/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://poly.ai/our-partners",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://poly.ai/customers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://poly.ai/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://poly.ai/customers/saferide",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://poly.ai/industries/consumer-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://poly.ai/industries/financial-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://poly.ai/industries/healthcare",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://poly.ai/industries/hotels",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://poly.ai/industries/insurance",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://poly.ai/industries/restaurants",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://poly.ai/industries/retail",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://poly.ai/industries/telecom",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://poly.ai/industries/travel",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://poly.ai/industries/utilities",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://poly.ai/wren",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://poly.ai/about",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://poly.ai/careers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://poly.ai/customers/citizens-advice-scotland",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://poly.ai/customers/unicredit-zagrebacka-banka",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://poly.ai/healthcare/logos/adapthealth.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://poly.ai/healthcare/logos/howard-brown.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://poly.ai/healthcare/logos/saferide-health.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://poly.ai/healthcare/logos/simplyhealth.png",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.hp.com/jp-ja/poly.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ecnex.jp/connect/articles/4812",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://www.mediaplus.co.jp/manufacturers/poly_hp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idaten.ne.jp/portal/page/out/mss/hpi/poly.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.hp.com/jp-ja/poly.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.princeton.co.jp/poly/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.idaten.ne.jp/portal/page/out/mss/hpi/poly.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.minato.co.jp/cms/wp-content/uploads/2021/08/210804.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.j-polyethylene.com/en/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.cpp.edu/international/study-abroad/faculty-program-directors/countries-programs/japan.shtml",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://poly.pizza/search/Japanese",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.polyprep.org/news/new-course-introduction-to-japanese/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLtW1DbbzVlK2pwbgQrwVnxS4Ru5C5_n-kIP6RL9aJJ_Oi1HB5D",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stratasys.com/en/resources/case-studies/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.eos.info/ja/industries/customer-success-stories",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.intermedia.com/resellers",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.owler.com/company/plantronicsinc",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/poly/__My025LkcanktGaFpFyFVB5xplSF10iUeWDs0ae6eRAs",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://calpolypartners.org/mission-vision-values/strategic-plan",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/j_fujikawa/n/n95deda413f23?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/hirayamakun/n/n53ca785f6acb?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://note.com/romannesuko/n/n089c19402e63?hl=en",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/polyZz_",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/CalPoly",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/PolyCompany",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/PolyDepression",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/polydotapp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/hppoly",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/poly-inc",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/company/poly-api",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/polyphiliablog/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/PolyMono/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/groups/polypeoplefb/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/PolyCompany/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://note.com/ysuie_o/n/n2896c1bed87d",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/PolyCompany",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Poly 日本 導入",
+   "results": [
+    "https://www.hp.com/jp-ja/poly.html",
+    "https://www.ecnex.jp/connect/articles/4812",
+    "https://www.mediaplus.co.jp/manufacturers/poly_hp/",
+    "https://www.idaten.ne.jp/portal/page/out/mss/hpi/poly.html",
+    "https://www.vtv.co.jp/product/poly/",
+    "https://www.mki.co.jp/solution/product/poly/",
+    "https://www.princeton.co.jp/poly/",
+    "https://prtimes.jp/main/html/searchrlp/company_id/59880",
+    "https://www.otsuka-shokai.co.jp/products/tvm/poly/",
+    "https://jp.ext.hp.com/techdevice/tag/poly/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Poly 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.hp.com/jp-ja/poly.html",
+    "https://www.princeton.co.jp/poly/about/",
+    "https://www.idaten.ne.jp/portal/page/out/mss/hpi/poly.html",
+    "https://mhd.minatoat.co.jp/cms/wp-content/uploads/2021/08/210804.pdf",
+    "https://www.itmedia.co.jp/pcuser/articles/2302/07/news110.html",
+    "https://www.otsuka-shokai.co.jp/products/tvm/poly/",
+    "https://poly.jade-corp.jp/jade/",
+    "https://www.ecnex.jp/connect/articles/4940",
+    "https://baike.baidu.com/ja/item/Poly/5968988",
+    "https://www.poly-maker.jp/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Poly Japan",
+   "results": [
+    "https://www.j-polyethylene.com/en/",
+    "https://www.cpp.edu/international/study-abroad/faculty-program-directors/countries-programs/japan.shtml",
+    "https://poly.pizza/search/Japanese",
+    "https://www.polyprep.org/news/new-course-introduction-to-japanese/",
+    "https://www.hp.com/jp-ja/poly.html",
+    "https://context.reverso.net/translation/english-japanese/poly",
+    "https://polymarket.com/predictions/japan",
+    "https://www.behance.net/gallery/85254031/A-house-in-japan-Low-Poly-3D/modules/493607845",
+    "https://en.wikipedia.org/wiki/Poly-World",
+    "https://ja.wikipedia.org/wiki/PLA-japan"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Poly manufacturing customer case study",
+   "results": [
+    "https://www.renishaw.com/en/additive-manufacturing-customer-case-study-videos--44548?srsltid=AYCX9vLtW1DbbzVlK2pwbgQrwVnxS4Ru5C5_n-kIP6RL9aJJ_Oi1HB5D",
+    "https://www.oracle.com/industrial-manufacturing/industrial-manufacturing-case-studies/",
+    "https://www.stratasys.com/en/resources/case-studies/",
+    "https://www.eos.info/industries/customer-success-stories",
+    "https://proto3000.com/resources/case_studies/",
+    "https://polyelectronics.us/case-studies/",
+    "https://www.sciencedirect.com/science/article/pii/S2666790822000933",
+    "https://highqa.com/case-studies/",
+    "https://www.rickwhittington.com/work/case-studies/poly-processing",
+    "https://www.qualified.com/customers/poly"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Poly white label OR reseller OR partner program",
+   "results": [
+    "https://viirtue.com/why-viirtues-white-label-reseller-program-stands-above-the-rest/",
+    "https://www.intermedia.com/resellers",
+    "https://suitedash.com/best-white-label-saas-reseller-programs/",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://help.salesplay.com/help/introducing-the-salesplay-partner-white-label-program/",
+    "https://www.youtube.com/watch?v=x1u4hsp2EVQ",
+    "https://wotnot.io/blog/white-label-reseller-programs",
+    "https://whitelabelapps.ca/blog/top-white-label-reseller-programs/",
+    "https://www.siptrunk.com/blog/white-label-saas-reseller/",
+    "https://partner.vw.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "Poly founded funding employees revenue",
+   "results": [
+    "https://www.owler.com/company/plantronicsinc",
+    "https://tracxn.com/d/companies/poly/__My025LkcanktGaFpFyFVB5xplSF10iUeWDs0ae6eRAs",
+    "https://calpolypartners.org/mission-vision-values/strategic-plan",
+    "https://poly.ai/blog/polyai-raises-86-million-series-d",
+    "https://afd.calpoly.edu/cbf/objective-statement",
+    "https://nces.ed.gov/programs/coe/indicator/cud/postsecondary-institution-revenue",
+    "https://floridapoly.edu/news/062926-florida-poly-earns-record-performance-gain-11m-in-state-funding/",
+    "https://www.privco.com/company/poly-4",
+    "https://cppenterprises.org/",
+    "https://pitchbook.com/profiles/company/227011-60"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:note.com Poly",
+   "results": [
+    "https://note.com/j_fujikawa/n/n95deda413f23?hl=en",
+    "https://note.com/hirayamakun/n/n53ca785f6acb?hl=en",
+    "https://note.com/fine_tapir372/n/na4065788bb72?hl=en",
+    "https://note.com/romannesuko/n/n089c19402e63?hl=en",
+    "https://note.com/windsynth/n/na6cfaafb79f6?hl=en",
+    "https://note.com/polylifestudio",
+    "https://note.com/j_fujikawa/n/n668e26923dd8?hl=en",
+    "https://note.com/tsysk/n/n35051125c85f?hl=en",
+    "https://note.com/darumatokyo/n/na8ff98b7c0a9?hl=en",
+    "https://note.com/polyproject/n/n54db64940c00"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:x.com Poly",
+   "results": [
+    "https://x.com/polyZz_",
+    "https://x.com/CalPoly",
+    "https://x.com/PolyCompany",
+    "https://x.com/PolyDepression",
+    "https://x.com/CPMensSoccer",
+    "https://x.com/polyprep",
+    "https://x.com/snowcakebear",
+    "https://x.com/PolyNetwork2",
+    "https://x.com/search?q=%24POLY",
+    "https://x.com/polydotapp"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:linkedin.com Poly",
+   "results": [
+    "https://www.linkedin.com/company/polydotapp",
+    "https://www.linkedin.com/company/hppoly",
+    "https://www.linkedin.com/company/poly-inc",
+    "https://www.linkedin.com/company/poly-api",
+    "https://www.linkedin.com/company/all-american-poly",
+    "https://www.linkedin.com/company/poly-electronics",
+    "https://www.linkedin.com/pulse/staying-positive-amid-poly-crisis-marcella-bremer-dsfre",
+    "https://www.linkedin.com/company/polyai",
+    "https://www.linkedin.com/company/poly-compounding",
+    "https://www.linkedin.com/company/polycom"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:facebook.com Poly",
+   "results": [
+    "https://www.facebook.com/polyphiliablog/",
+    "https://www.facebook.com/groups/PolyMono/",
+    "https://www.facebook.com/groups/polypeoplefb/",
+    "https://www.facebook.com/PolyCompany/",
+    "https://www.facebook.com/groups/polygeek/",
+    "https://www.facebook.com/groups/polyeffects/",
+    "https://www.facebook.com/wearepolypoly/",
+    "https://www.facebook.com/groups/mathematics.hars/posts/688835933464036/",
+    "https://www.facebook.com/poly/",
+    "https://business.facebook.com/groups/plantronics/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Poly note 社長",
+   "results": [
+    "https://note.com/ysuie_o/n/n2896c1bed87d",
+    "https://www.youtube.com/watch?v=ukDOPFuGGAU",
+    "https://www.instagram.com/p/Ddyan3TCc1c/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/polylifestudio",
+    "https://x.com/sadaaki",
+    "https://note.com/sadaaki",
+    "https://www.wantedly.com/companies/company_1284824/members",
+    "https://www.youtube.com/watch?v=WBvzhoP2f6Y",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Poly X 投稿",
+   "results": [
+    "https://www.polycom.com/hd-video-conferencing/room-video-systems/poly-studio-x-series.html?utm_campaign=poly_lens_launch&leadsrc=Other&utm_medium=media&utm_source=press-release-us",
+    "https://www.youtube.com/watch?v=Fyz6gjxtKD0",
+    "https://www.323.tv/studio-x/?srsltid=AYCX9vIlYLyCB4QzkWHX1Ka4mgBJr_cFCmuvwYRbOqpLf-8uKbpeAEcA",
+    "https://x.com/PolyCompany",
+    "https://www.kevinurena.com/2023/01/how-to-set-up-poly-studio-x-series.html",
+    "https://www.reddit.com/r/CommercialAV/comments/1qopa1m/poly_hardware_becoming_unreliable_after/?tl=ja",
+    "https://info.lens.poly.com/blog",
+    "https://www.hp.com/us-en/poly/video-conferencing/all-in-one.html",
+    "https://cdn-docs.av-iq.com/dataSheet/POLY-X-32.pdf",
+    "https://x.com/_is_poly"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  }
+ ],
+ "missing": {
+  "創業年度": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部40頁・検索12回）",
+  "株主": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部40頁・検索12回）",
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部40頁・検索12回）",
+  "売上高": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部40頁・検索12回）",
+  "所在地": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部40頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部40頁・検索12回）"
+ }
+}

@@ -1,0 +1,1003 @@
+{
+ "name": "ナラサキ産業株式会社 メカトロソリューション部　機能材料課",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T11:10:23.275017+00:00",
+ "official_url": "http://www.narasaki.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "本社 本店",
+    "value": "東京都中央区日本橋箱崎町19番21号（MSH日本橋箱崎ビル） 北海道札幌市中央区大通西7丁目3番地1（エムズ大通ビル）",
+    "url": "https://www.narasaki.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "label": "本社",
+    "value": "〒103-8505 東京都中央区日本橋箱崎町19番21号 （MSH日本橋箱崎ビル15F） 03-6732-7350 03-3206-0611 MAP",
+    "url": "https://www.narasaki.co.jp/company/branch.html",
+    "pass": 1
+   },
+   {
+    "label": "本社",
+    "value": "〒103-8505 東京都中央区日本橋箱崎町19番21号 （MSH日本橋箱崎ビル15F） 03-6732-7350 03-3206-0611 MAP",
+    "url": "http://www.narasaki.co.jp/company/branch.html",
+    "pass": 1
+   },
+   {
+    "label": "本社 本店",
+    "value": "東京都中央区日本橋箱崎町19番21号（MSH日本橋箱崎ビル） 北海道札幌市中央区大通西7丁目3番地1（エムズ大通ビル）",
+    "url": "http://www.narasaki.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "label": "（登記上の本店所在地",
+    "value": "札幌市中央区大通西7丁目3番地1）",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/01.pdf",
+    "pass": 2
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業目的",
+    "value": "産業機械、電気機械、建設機械およびその他機械の販売 前号に掲げる機械の賃貸業 セメント、建設資材、石油類およびその他物品の販売 食品類、清涼飲料、日用品雑貨の販売 建設工事の請負並びに設計管理 広告の企画、製作および広告物の配布 情報処理サービス業および情報提供サービス業 コンピューターに関するソフトウェアの制作および販売 海運業 通関業 港湾運送事業 倉庫業 貨物自動車運送事業 貨物運送取扱事業 不動産の売買、賃貸借、仲介、その他の利用 一般代理業および損害保険代理業並びに自動車損害賠償保障法に基づく保険代理業 前各号に付帯関連する一切の事業",
+    "url": "https://www.narasaki.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "label": "事業目的",
+    "value": "産業機械、電気機械、建設機械およびその他機械の販売 前号に掲げる機械の賃貸業 セメント、建設資材、石油類およびその他物品の販売 食品類、清涼飲料、日用品雑貨の販売 建設工事の請負並びに設計管理 広告の企画、製作および広告物の配布 情報処理サービス業および情報提供サービス業 コンピューターに関するソフトウェアの制作および販売 海運業 通関業 港湾運送事業 倉庫業 貨物自動車運送事業 貨物運送取扱事業 不動産の売買、賃貸借、仲介、その他の利用 一般代理業および損害保険代理業並びに自動車損害賠償保障法に基づく保険代理業 前各号に付帯関連する一切の事業",
+    "url": "http://www.narasaki.co.jp/company/company.html",
+    "pass": 1
+   }
+  ],
+  "拠点": [
+   {
+    "label": "旭川支店",
+    "value": "〒070-0034 北海道旭川市4条通9丁目1703番地 （旭川北洋ビル 4F） 0166-23-8191 0166-24-3969 MAP",
+    "url": "https://www.narasaki.co.jp/company/branch.html",
+    "pass": 1
+   },
+   {
+    "label": "道東支店",
+    "value": "〒080-0010 北海道帯広市大通南10丁目8番地 （帯広富国生命ビル 5F） 0155-24-4660 0155-25-4124 MAP",
+    "url": "https://www.narasaki.co.jp/company/branch.html",
+    "pass": 1
+   },
+   {
+    "label": "東北支店",
+    "value": "〒980-0802 宮城県仙台市青葉区二日町14番15号 （アミ・グランデ二日町 4F） 022-221-2501 022-267-6901 MAP",
+    "url": "https://www.narasaki.co.jp/company/branch.html",
+    "pass": 1
+   },
+   {
+    "label": "北関東支店",
+    "value": "〒330-0854 埼玉県さいたま市大宮区桜木町1丁目9番地4 （エクセレント大宮ビル3F） 048-871-5616 048-871-5618 MAP",
+    "url": "https://www.narasaki.co.jp/company/branch.html",
+    "pass": 1
+   },
+   {
+    "label": "神奈川支店",
+    "value": "〒221-0056 神奈川県横浜市神奈川区金港町6番地6 （横浜みなと第一生命ビル 2F） 045-577-9266 045-577-9265 MAP",
+    "url": "https://www.narasaki.co.jp/company/branch.html",
+    "pass": 1
+   },
+   {
+    "label": "名古屋支店",
+    "value": "〒462-0825 愛知県名古屋市北区大曽根3丁目15番58号 （大曽根フロントビル 5F） 052-911-1601 052-911-1605 MAP",
+    "url": "https://www.narasaki.co.jp/company/branch.html",
+    "pass": 1
+   },
+   {
+    "label": "大阪支店",
+    "value": "〒541-0056 大阪府大阪市中央区久太郎町1丁目4番8号 （NTPR堺筋本町ビル 5F） 06-6263-0100 06-6265-3045 MAP",
+    "url": "https://www.narasaki.co.jp/company/branch.html",
+    "pass": 1
+   },
+   {
+    "label": "九州支店",
+    "value": "〒812-0029 福岡県福岡市博多区古門戸町１番１号 （日刊工業新聞社西部支社ビル 6F） 092-261-5111 092-261-5088 MAP",
+    "url": "https://www.narasaki.co.jp/company/branch.html",
+    "pass": 1
+   },
+   {
+    "label": "苫小牧営業所",
+    "value": "〒053-0002 北海道苫小牧市晴海町43番地1 0144-34-4117 0144-34-4110 MAP",
+    "url": "https://www.narasaki.co.jp/company/branch.html",
+    "pass": 1
+   },
+   {
+    "label": "室蘭営業所",
+    "value": "〒051-0012 北海道室蘭市山手町3丁目7番1号 （室蘭ナラサキビル１F） 0143-22-6121 0143-22-1174 MAP",
+    "url": "https://www.narasaki.co.jp/company/branch.html",
+    "pass": 1
+   },
+   {
+    "label": "函館営業所",
+    "value": "〒040-0063 北海道函館市若松町2番5号 （明治安田生命函館ビル 7F） 0138-26-2591 0138-26-2588 MAP",
+    "url": "https://www.narasaki.co.jp/company/branch.html",
+    "pass": 1
+   },
+   {
+    "label": "盛岡営業所",
+    "value": "〒020-0022 岩手県盛岡市大通3丁目3番10号 （七十七日生盛岡ビル 4F） 019-651-3892 019-651-3739 MAP",
+    "url": "https://www.narasaki.co.jp/company/branch.html",
+    "pass": 1
+   },
+   {
+    "label": "東関東営業所",
+    "value": "〒310-0021 茨城県水戸市南町2丁目6番13号 （損保ジャパン水戸ビル 3F） 029-246-5350 029-246-5351 MAP",
+    "url": "https://www.narasaki.co.jp/company/branch.html",
+    "pass": 1
+   },
+   {
+    "label": "山梨営業所",
+    "value": "〒400-0858 山梨県甲府市相生2丁目3番16号 （三井住友海上甲府ビル 4F） 055-236-2321 055-227-7098 MAP",
+    "url": "https://www.narasaki.co.jp/company/branch.html",
+    "pass": 1
+   },
+   {
+    "label": "静岡営業所",
+    "value": "〒410-0801 静岡県沼津市大手町4丁目3番45号 （アゴラ沼津ビル 7F） 055-953-0001 055-953-0010 MAP",
+    "url": "https://www.narasaki.co.jp/company/branch.html",
+    "pass": 1
+   },
+   {
+    "label": "旭川支店",
+    "value": "〒070-0034 北海道旭川市4条通9丁目1703番地 （旭川北洋ビル 4F） 0166-23-8191 0166-24-3969 MAP",
+    "url": "http://www.narasaki.co.jp/company/branch.html",
+    "pass": 1
+   },
+   {
+    "label": "道東支店",
+    "value": "〒080-0010 北海道帯広市大通南10丁目8番地 （帯広富国生命ビル 5F） 0155-24-4660 0155-25-4124 MAP",
+    "url": "http://www.narasaki.co.jp/company/branch.html",
+    "pass": 1
+   },
+   {
+    "label": "東北支店",
+    "value": "〒980-0802 宮城県仙台市青葉区二日町14番15号 （アミ・グランデ二日町 4F） 022-221-2501 022-267-6901 MAP",
+    "url": "http://www.narasaki.co.jp/company/branch.html",
+    "pass": 1
+   },
+   {
+    "label": "北関東支店",
+    "value": "〒330-0854 埼玉県さいたま市大宮区桜木町1丁目9番地4 （エクセレント大宮ビル3F） 048-871-5616 048-871-5618 MAP",
+    "url": "http://www.narasaki.co.jp/company/branch.html",
+    "pass": 1
+   },
+   {
+    "label": "神奈川支店",
+    "value": "〒221-0056 神奈川県横浜市神奈川区金港町6番地6 （横浜みなと第一生命ビル 2F） 045-577-9266 045-577-9265 MAP",
+    "url": "http://www.narasaki.co.jp/company/branch.html",
+    "pass": 1
+   },
+   {
+    "label": "名古屋支店",
+    "value": "〒462-0825 愛知県名古屋市北区大曽根3丁目15番58号 （大曽根フロントビル 5F） 052-911-1601 052-911-1605 MAP",
+    "url": "http://www.narasaki.co.jp/company/branch.html",
+    "pass": 1
+   },
+   {
+    "label": "大阪支店",
+    "value": "〒541-0056 大阪府大阪市中央区久太郎町1丁目4番8号 （NTPR堺筋本町ビル 5F） 06-6263-0100 06-6265-3045 MAP",
+    "url": "http://www.narasaki.co.jp/company/branch.html",
+    "pass": 1
+   },
+   {
+    "label": "九州支店",
+    "value": "〒812-0029 福岡県福岡市博多区古門戸町１番１号 （日刊工業新聞社西部支社ビル 6F） 092-261-5111 092-261-5088 MAP",
+    "url": "http://www.narasaki.co.jp/company/branch.html",
+    "pass": 1
+   },
+   {
+    "label": "苫小牧営業所",
+    "value": "〒053-0002 北海道苫小牧市晴海町43番地1 0144-34-4117 0144-34-4110 MAP",
+    "url": "http://www.narasaki.co.jp/company/branch.html",
+    "pass": 1
+   },
+   {
+    "label": "室蘭営業所",
+    "value": "〒051-0012 北海道室蘭市山手町3丁目7番1号 （室蘭ナラサキビル１F） 0143-22-6121 0143-22-1174 MAP",
+    "url": "http://www.narasaki.co.jp/company/branch.html",
+    "pass": 1
+   },
+   {
+    "label": "函館営業所",
+    "value": "〒040-0063 北海道函館市若松町2番5号 （明治安田生命函館ビル 7F） 0138-26-2591 0138-26-2588 MAP",
+    "url": "http://www.narasaki.co.jp/company/branch.html",
+    "pass": 1
+   },
+   {
+    "label": "盛岡営業所",
+    "value": "〒020-0022 岩手県盛岡市大通3丁目3番10号 （七十七日生盛岡ビル 4F） 019-651-3892 019-651-3739 MAP",
+    "url": "http://www.narasaki.co.jp/company/branch.html",
+    "pass": 1
+   },
+   {
+    "label": "東関東営業所",
+    "value": "〒310-0021 茨城県水戸市南町2丁目6番13号 （損保ジャパン水戸ビル 3F） 029-246-5350 029-246-5351 MAP",
+    "url": "http://www.narasaki.co.jp/company/branch.html",
+    "pass": 1
+   },
+   {
+    "label": "山梨営業所",
+    "value": "〒400-0858 山梨県甲府市相生2丁目3番16号 （三井住友海上甲府ビル 4F） 055-236-2321 055-227-7098 MAP",
+    "url": "http://www.narasaki.co.jp/company/branch.html",
+    "pass": 1
+   },
+   {
+    "label": "静岡営業所",
+    "value": "〒410-0801 静岡県沼津市大手町4丁目3番45号 （アゴラ沼津ビル 7F） 055-953-0001 055-953-0010 MAP",
+    "url": "http://www.narasaki.co.jp/company/branch.html",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "AM関連": [
+   {
+    "quote": "ベトナム現地法人『NARASAKI VIETNAM CO.,LTD.』を設立",
+    "url": "https://www.narasaki.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ベトナム現地法人『NARASAKI VIETNAM CO.,LTD.』ホーチミン支店を開設",
+    "url": "https://www.narasaki.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "Cong ty TNHH Narasaki Viet Nam",
+    "url": "https://www.narasaki.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "NARASAKI VIETNAM CO.,LTD.",
+    "url": "https://www.narasaki.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "NARASAKI VIETNAMコーポレートサイト",
+    "url": "https://www.narasaki.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "ベトナム現地法人『NARASAKI VIETNAM CO.,LTD.』を設立",
+    "url": "http://www.narasaki.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ベトナム現地法人『NARASAKI VIETNAM CO.,LTD.』ホーチミン支店を開設",
+    "url": "http://www.narasaki.co.jp/company/history.html",
+    "pass": 1
+   },
+   {
+    "quote": "ベトナム（全域）308 HITC Building, 239 Xuan Thuy, Dich Vong Hau Ward, Cau Giay District, Hanoi, Vietnam.",
+    "url": "https://pr.mono.ipros.com/narasaki/information/",
+    "pass": 3
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "工場の生産設備を支えるＦＡコンポーネントや情報ネットワーク、インテリジェントビルや省エネルギー建築を支える配電制御機器やエネルギー監視システムなど、お客様のニーズを実現可能な製品や最適なソリューションを提供いたします",
+    "url": "https://www.narasaki.co.jp/company/section.html",
+    "pass": 1
+   },
+   {
+    "quote": "高度情報化社会における生産性向上や地球に優しい環境づくりを、三菱電機(株)製品をはじめとする多彩な製品とシステムのご提案でサポートします",
+    "url": "https://www.narasaki.co.jp/company/section.html",
+    "pass": 1
+   },
+   {
+    "quote": "食品・工業製品の生産プロセス設備、ユーティリティー設備、充填包装設備などにおいてお客様の問題解決のためのソリューションを提供します",
+    "url": "https://www.narasaki.co.jp/company/section.html",
+    "pass": 1
+   },
+   {
+    "quote": "社会インフラに欠かすことのできない石油製品をタイムリーに、かつキメ細かく対応できるネットワークを確立しております",
+    "url": "https://www.narasaki.co.jp/company/section.html",
+    "pass": 1
+   },
+   {
+    "quote": "三菱電機製品、FAソリューション並びにファンドリービジネス",
+    "url": "https://www.narasaki.co.jp/company/group/",
+    "pass": 1
+   },
+   {
+    "quote": "⾼度情報化社会における⽣産性向上や地球に優しい環境づくりを、多彩な製品と総合⼒でサポートします",
+    "url": "https://www.narasaki.co.jp/product/fa_solution/",
+    "pass": 1
+   },
+   {
+    "quote": "三菱電機㈱産業メカトロニクス製品（レーザ加工機、放電加工機、電子ビーム加工機、３Ｄプリンター）に加え、お客様の仕様にカスタマイズした各種レーザ加工機、マシニングセンター等の加工設備単体から生産効率を追求した省人化、自動化システムを提案致します",
+    "url": "https://www.narasaki.co.jp/product/mechatronics/",
+    "pass": 1
+   },
+   {
+    "quote": "食品・工業製品の生産プロセス設備、ユーティリティー設備、充填包装設備などについて、お客様の問題解決のためのソリューションを提供します",
+    "url": "https://www.narasaki.co.jp/product/food/",
+    "pass": 1
+   },
+   {
+    "quote": "建築資材関連においては、都市再開発事業・物流倉庫建設・データセンター建設など社会のニーズにマッチした製品の安定供給を担っております",
+    "url": "https://www.narasaki.co.jp/product/construction_material/",
+    "pass": 1
+   },
+   {
+    "quote": "エネルギー部では、社会インフラに欠かすことのできない石油製品をタイムリーに、かつキメ細かく対応できるネットワークを確立しております",
+    "url": "https://www.narasaki.co.jp/product/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "さらに、北海道内のご販売店様へ各種石油製品の卸販売とSS運営のお手伝いをしています",
+    "url": "https://www.narasaki.co.jp/product/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "『石油製品の安定供給を通じて国内産業を支え、社会の発展に貢献します』",
+    "url": "https://www.narasaki.co.jp/product/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "『船舶への石油製品の供給を通じて、日本の産業を担う重要な輸送インフラに貢献します』",
+    "url": "https://www.narasaki.co.jp/product/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "工作用機械や食品用機械、それらの製品を運ぶ船舶やトラック等あらゆる場面で使用されるのが潤滑油です",
+    "url": "https://www.narasaki.co.jp/product/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "また、環境問題に対する世界的取り組みが進められる中、潤滑油メーカー各社の環境対策製品を取り揃え、最適なご提案をいたします",
+    "url": "https://www.narasaki.co.jp/product/energy/",
+    "pass": 1
+   },
+   {
+    "quote": "どのような製品が欲しいのか、今後どんな事業計画があるのかをお客様にヒアリングします",
+    "url": "https://www.narasaki.co.jp/recruit/business/",
+    "pass": 1
+   },
+   {
+    "quote": "他にも新製品の案内や打ち合わせなども行います",
+    "url": "https://www.narasaki.co.jp/recruit/business/",
+    "pass": 1
+   },
+   {
+    "quote": "基本的には自分で考えた上で、上司や先輩のアドバイスも参考にしながら、最適な製品をいくつか選択してお客様に提案をします",
+    "url": "https://www.narasaki.co.jp/recruit/business/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様に製品を提案する際には見積書も一緒に提示します",
+    "url": "https://www.narasaki.co.jp/recruit/business/",
+    "pass": 1
+   },
+   {
+    "quote": "当社が扱う商材は、既製品ばかりではなくお客様のニーズに合わせて作る受注生産のものが大半を占めます",
+    "url": "https://www.narasaki.co.jp/recruit/business/",
+    "pass": 1
+   },
+   {
+    "quote": "重要なのがお客様に製品の希望納期を確認することです",
+    "url": "https://www.narasaki.co.jp/recruit/business/",
+    "pass": 1
+   },
+   {
+    "quote": "お客様は事業計画に合わせて製品を導入するため、納期が遅れると計画に大きな影響を与えてしまいます",
+    "url": "https://www.narasaki.co.jp/recruit/business/",
+    "pass": 1
+   },
+   {
+    "quote": "工場の生産設備を支えるＦＡコンポーネントや情報ネットワーク、インテリジェントビルや省エネルギー建築を支える配電制御機器やエネルギー監視システムなど、お客様のニーズを実現可能な製品や最適なソリューションを提供いたします",
+    "url": "http://www.narasaki.co.jp/company/section.html",
+    "pass": 1
+   },
+   {
+    "quote": "高度情報化社会における生産性向上や地球に優しい環境づくりを、三菱電機(株)製品をはじめとする多彩な製品とシステムのご提案でサポートします",
+    "url": "http://www.narasaki.co.jp/company/section.html",
+    "pass": 1
+   },
+   {
+    "quote": "食品・工業製品の生産プロセス設備、ユーティリティー設備、充填包装設備などにおいてお客様の問題解決のためのソリューションを提供します",
+    "url": "http://www.narasaki.co.jp/company/section.html",
+    "pass": 1
+   },
+   {
+    "quote": "社会インフラに欠かすことのできない石油製品をタイムリーに、かつキメ細かく対応できるネットワークを確立しております",
+    "url": "http://www.narasaki.co.jp/company/section.html",
+    "pass": 1
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "・セラミックスを主体とした最先端高機能材料の受託加工完成品",
+    "url": "https://www.narasaki.co.jp/company/section.html",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックスを主体とした最先端高機能材料の受託加工完成品",
+    "url": "https://www.narasaki.co.jp/product/mechatronics/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックス３Dプリンター",
+    "url": "https://www.narasaki.co.jp/product/mechatronics/",
+    "pass": 1
+   },
+   {
+    "quote": "セラミックス、エンジニアリングプラスチックス、金属、ガラス、カーボンの5つのカテゴリーにコーティングや精密洗浄といった表面処理を加えた6つのカテゴリーをワンストップで提供致します",
+    "url": "https://www.narasaki.co.jp/product/mechatronics/",
+    "pass": 1
+   },
+   {
+    "quote": "アルミナセラミックス(Al2O3)",
+    "url": "https://www.narasaki.co.jp/product/mechatronics/",
+    "pass": 1
+   },
+   {
+    "quote": "マシナブル／ファインセラミックス物性データはこちら",
+    "url": "https://www.narasaki.co.jp/product/mechatronics/",
+    "pass": 1
+   },
+   {
+    "quote": "・セラミックスを主体とした最先端高機能材料の受託加工完成品",
+    "url": "http://www.narasaki.co.jp/company/section.html",
+    "pass": 1
+   },
+   {
+    "quote": "各種セラミックスのオール機械加工による高精度・短納期対応と様々な高機能材料の受託加工から表面処理までワンストップを実現",
+    "url": "https://pr.mono.ipros.com/narasaki/information/",
+    "pass": 3
+   },
+   {
+    "quote": "１．セラミックス／ガラス",
+    "url": "https://pr.mono.ipros.com/narasaki/information/",
+    "pass": 3
+   },
+   {
+    "quote": "特に強みを発揮するのはセラミックスの高精度且つ短納期加工です",
+    "url": "https://pr.mono.ipros.com/narasaki/information/",
+    "pass": 3
+   },
+   {
+    "quote": "従来数ヶ月要する納期を焼成済みの材料より機械加工する事でセラミックス短納期対応を実現",
+    "url": "https://pr.mono.ipros.com/narasaki/information/",
+    "pass": 3
+   },
+   {
+    "quote": "ホトベールといったマシナブルセラミックス、またファインセラミックスであるアルミナ・ジルコニアだけでなく炭化珪素・窒化珪素・窒化アルミといった非酸化物セラミックスも含めたセラミックス全般に対応致します",
+    "url": "https://pr.mono.ipros.com/narasaki/information/",
+    "pass": 3
+   },
+   {
+    "quote": "海外製セラミックスでのコストダウン提案等、海外商材にも積極的に取り組んでおります",
+    "url": "https://pr.mono.ipros.com/narasaki/information/",
+    "pass": 3
+   },
+   {
+    "quote": "1．セラミックス／ガラス",
+    "url": "https://pr.mono.ipros.com/narasaki/information/",
+    "pass": 3
+   },
+   {
+    "quote": "モリブデン、タンタル、ニオブ、チタン、超硬各種、インコネル",
+    "url": "https://pr.mono.ipros.com/narasaki/information/",
+    "pass": 3
+   },
+   {
+    "quote": "ポリイミド各種、PBI、PEEK他、CFRP",
+    "url": "https://pr.mono.ipros.com/narasaki/information/",
+    "pass": 3
+   },
+   {
+    "quote": "イオンプレーティング、CVD、フッ素コーティング、セラミックス溶射、ブラスト処理、精密洗浄、エッチング、",
+    "url": "https://pr.mono.ipros.com/narasaki/information/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "一般代理業および損害保険代理業並びに自動車損害賠償保障法に基づく保険代理業",
+    "url": "https://www.narasaki.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "総合職は要普通自動車免許(取得予定の方も可)",
+    "url": "https://www.narasaki.co.jp/recruit/gudeline/",
+    "pass": 1
+   },
+   {
+    "quote": "一般代理業および損害保険代理業並びに自動車損害賠償保障法に基づく保険代理業",
+    "url": "http://www.narasaki.co.jp/company/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "●総じて案件獲得順調も、半導体市場の復調遅れや一部に受渡しズレ込みの影響あり",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "●半導体関連貨物やバイオマス燃料の取扱い好調、八戸新倉庫の稼働状況良好",
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/01.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "・医療関連 等数百社のお客様にご利用頂いております",
+    "url": "https://pr.mono.ipros.com/narasaki/information/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "当社が扱う商材は、既製品ばかりではなくお客様のニーズに合わせて作る受注生産のものが大半を占めます",
+    "url": "https://www.narasaki.co.jp/recruit/business/",
+    "pass": 1
+   },
+   {
+    "quote": "数量1個からの試作開発案件から量産まで様々な受託加工に対応可能です",
+    "url": "https://pr.mono.ipros.com/narasaki/information/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "企業情報 | ナラサキ産業 メカトロソリューション部 機能材料課 — 企業情報 | ナラサキ産業 メカトロソリューション部 機能材料課 製造業向け情報検索サイト イプロスものづくり https://pr.mono.ipros.com > narasaki > information",
+    "url": "https://pr.mono.ipros.com/narasaki/information/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.narasaki.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/company/section.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/product/construction_equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/company/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/company/greeting.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/company/plan.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/company/branch.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/company/organization.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/company/group/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/product/fa_solution/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/product/mechatronics/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/product/agriculture/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/product/food/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/product/environment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/product/construction_material/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/product/energy/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/product/construction_machinery/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/company/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/company/individual.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/company/disclaimer.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/recruit/gudeline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/recruit/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/recruit/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.narasaki.co.jp/company/branch.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/product/construction_equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.narasaki.co.jp/company/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.narasaki.co.jp/company/history.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "http://www.narasaki.co.jp/company/section.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.narasaki.co.jp/antique.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/00.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/assets/pdf/ir/management/plan/01.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/antique.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/assets/imgs/common/thmb_menu_product_01.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/assets/imgs/common/thmb_menu_product_02.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/assets/imgs/common/thmb_menu_product_03.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/assets/imgs/common/thmb_menu_product_05.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/assets/imgs/common/thmb_menu_product_04.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/assets/imgs/common/thmb_menu_product_06.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/assets/imgs/common/thmb_menu_product_07.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/assets/imgs/common/thmb_menu_product_08.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/assets/imgs/common/thmb_menu_product_09.png",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/assets/imgs/product/construction_equipment/img0.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/assets/imgs/product/construction_equipment/img01.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.narasaki.co.jp/assets/imgs/product/construction_equipment/img02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://pr.mono.ipros.com/narasaki/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://evort.jp/presenters/narasaki/ceramics",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/narasaki/information/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/narasaki/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://pr.mono.ipros.com/narasaki/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://evort.jp/presenters/narasaki/ceramics",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ナラサキ産業 メカトロソリューション部 機能材料課 取扱製品 試作 小ロット",
+   "results": [
+    "https://pr.mono.ipros.com/narasaki/",
+    "https://www.narasaki.co.jp/product/mechatronics/",
+    "https://evort.jp/presenters/narasaki/ceramics",
+    "https://narasakivietnam.com/product/high-performance-material/",
+    "https://pr.mono.ipros.com/narasaki/product/category/33603/",
+    "https://expo.semi.org/japan2025/public/eBooth.aspx?BoothID=630965&Task=Products",
+    "https://www.narasaki.co.jp/product/mechatronics/mec05_03/",
+    "https://www.youtube.com/watch?v=hUn4tT9VgWU",
+    "https://mfg-hack.com/plastic/10134/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "ナラサキ産業 メカトロソリューション部 機能材料課 会社概要 事業内容",
+   "results": [
+    "https://pr.mono.ipros.com/narasaki/information/",
+    "https://www.narasaki.co.jp/product/mechatronics/",
+    "https://pr.mono.ipros.com/narasaki/",
+    "https://narasakivietnam.com/product/high-performance-material/",
+    "https://www.nagase.co.jp/enterprise/advanced-functional-materials-dept/",
+    "https://www.narasaki.co.jp/company/section.html",
+    "https://job.mynavi.jp/27/pc/search/corp75883/recruiting_course27029298/recruiting_course.html",
+    "https://fact-board.co.jp/company/d-narasaki/",
+    "https://evort.jp/presenters/narasaki/ceramics",
+    "https://www.narasaki.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "ナラサキ産業 メカトロソリューション部 機能材料課 お問い合わせ メール",
+   "results": [
+    "https://pr.mono.ipros.com/narasaki/",
+    "https://www.narasaki.co.jp/product/mechatronics/mec09_03/",
+    "https://evort.jp/presenters/narasaki/ceramics",
+    "https://mono.ipros.com/company/detail/6626/",
+    "https://narasakivietnam.com/product/high-performance-material/",
+    "https://reg31.smp.ne.jp/regist/is?SMPFORM=ndli-ldnjph-82c4d173fd191233f7ec361da0221592",
+    "https://www.narasaki.co.jp/product/mechatronics/mec05_03/",
+    "https://pr.mono.ipros.com/narasaki/product/detail/2000313342/",
+    "https://www.narasaki.co.jp/product/mechatronics/"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:note.com ナラサキ産業 メカトロソリューション部 機能材料課",
+   "results": [
+    "https://note.com/tatsuya_sabato/n/nbe7e586e248a",
+    "https://note.com/right_wolf1654/n/nb6508b76aea7",
+    "https://note.com/open_azalea2045/n/na10bf4d069db",
+    "https://note.com/pocoa_420/n/n6d895547e64d",
+    "https://note.com/right_wolf1654/n/n277637510647",
+    "https://note.com/pocoa_420/n/nf720386dd176",
+    "https://note.com/hsp_kazu/n/n8f9093835589",
+    "https://note.com/clipcorporation/n/nc4f0deaf0df8",
+    "https://note.com/absorlabo/n/ne0b55dce32ca",
+    "https://note.com/mystar_group/n/n1084dc477f0e"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:x.com ナラサキ産業 メカトロソリューション部 機能材料課",
+   "results": [
+    "https://note.com/tatsuya_sabato/n/nbe7e586e248a",
+    "https://note.com/right_wolf1654/n/nb6508b76aea7",
+    "https://note.com/open_azalea2045/n/na10bf4d069db",
+    "https://note.com/pocoa_420/n/n6d895547e64d",
+    "https://note.com/right_wolf1654/n/n277637510647",
+    "https://note.com/pocoa_420/n/nf720386dd176",
+    "https://note.com/hsp_kazu/n/n8f9093835589",
+    "https://note.com/clipcorporation/n/nc4f0deaf0df8",
+    "https://note.com/absorlabo/n/ne0b55dce32ca",
+    "https://note.com/mystar_group/n/n1084dc477f0e"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:linkedin.com ナラサキ産業 メカトロソリューション部 機能材料課",
+   "results": [
+    "https://note.com/tatsuya_sabato/n/nbe7e586e248a",
+    "https://note.com/right_wolf1654/n/nb6508b76aea7",
+    "https://note.com/open_azalea2045/n/na10bf4d069db",
+    "https://note.com/pocoa_420/n/n6d895547e64d",
+    "https://note.com/right_wolf1654/n/n277637510647",
+    "https://note.com/pocoa_420/n/nf720386dd176",
+    "https://note.com/hsp_kazu/n/n8f9093835589",
+    "https://note.com/clipcorporation/n/nc4f0deaf0df8",
+    "https://note.com/absorlabo/n/ne0b55dce32ca",
+    "https://note.com/mystar_group/n/n1084dc477f0e"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:facebook.com ナラサキ産業 メカトロソリューション部 機能材料課",
+   "results": [
+    "https://en.wikipedia.org/wiki/Query",
+    "https://www.merriam-webster.com/thesaurus/query",
+    "https://www.wordreference.com/definition/query",
+    "https://support.microsoft.com/en-us/access/introduction-to-queries",
+    "https://www.merriam-webster.com/dictionary/{query}",
+    "https://www.thefreedictionary.com/query",
+    "https://dictionary.cambridge.org/us/dictionary/english/query",
+    "https://www.query.ai/",
+    "https://www.hostinger.com/tutorials/what-is-a-query/",
+    "https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.query.html"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 20
+  },
+  {
+   "query": "ナラサキ産業 メカトロソリューション部 機能材料課 note 社長",
+   "results": [
+    "https://pr.mono.ipros.com/narasaki/",
+    "https://www.narasaki.co.jp/product/mechatronics/",
+    "https://evort.jp/presenters/narasaki/ceramics",
+    "https://note.com/tatsuya_sabato/n/nbe7e586e248a",
+    "https://www.narasaki.co.jp/product/mechatronics/mec05_03/",
+    "https://www.youtube.com/watch?v=exWMpdWN3Zo&vl=ja",
+    "https://www.mt.com/jp/ja/home/events/live-webinars/automated-reactors/jp-ac-26401.html",
+    "https://kitanomori-green.com/shimokawa_power_generation.pdf",
+    "https://pr.mono.ipros.com/narasaki/information/",
+    "https://mono.ipros.com/company/detail/6626/category/33603/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "ナラサキ産業 メカトロソリューション部 機能材料課 X 投稿",
+   "results": [
+    "https://pr.mono.ipros.com/narasaki/",
+    "https://www.narasaki.co.jp/product/mechatronics/",
+    "https://www.narasaki.co.jp/product/mechatronics/mec05_03/",
+    "https://pr.mono.ipros.com/narasaki/catalog/",
+    "https://www.hitachi.co.jp/products/it/lumada/hmax/physical_ai/events/260520/report3/index.html",
+    "https://experience.arcgis.com/experience/4e38619fc06d4c169e76c46bf18e937b/page/%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%B0%8E%E5%85%A5%E4%BA%8B%E4%BE%8B%E5%8B%95%E7%94%BB",
+    "https://x.com/hashtag/%E3%83%8A%E3%83%A9%E3%82%B5%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF%E3%82%B9",
+    "https://www.youtube.com/watch?v=Ec7AF67kk1s",
+    "https://crossmining.smm.co.jp/column/",
+    "https://en.wikipedia.org/wiki/Puppy"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 24
+  }
+ ],
+ "missing": {
+  "代表者": "記載なし（3回確認済み：公式30頁／PDF・画像16件／外部6頁・検索9回）",
+  "従業員数": "記載なし（3回確認済み：公式30頁／PDF・画像16件／外部6頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式30頁／PDF・画像16件／外部6頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式30頁／PDF・画像16件／外部6頁・検索9回）",
+  "連絡先": "記載なし（3回確認済み：公式30頁／PDF・画像16件／外部6頁・検索9回）"
+ }
+}

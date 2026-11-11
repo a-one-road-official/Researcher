@@ -1,0 +1,682 @@
+{
+ "name": "株式会社なかみつ",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T11:03:21.388973+00:00",
+ "official_url": "http://nakamitsu.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "〒399-0214 長野県諏訪郡富士見町落合9433-1",
+    "url": "https://suwa.monozukuri.or.jp/detail/00729/",
+    "pass": 3
+   }
+  ],
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "中村　光守 Mitsumori NAKAMURA",
+    "url": "https://suwa.monozukuri.or.jp/detail/00729/",
+    "pass": 3
+   },
+   {
+    "label": "代表メールアドレス",
+    "value": "info@nakamitsu.co.jp",
+    "url": "https://suwa.monozukuri.or.jp/detail/00729/",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "10名",
+    "url": "https://suwa.monozukuri.or.jp/detail/00729/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取扱製品": [
+   {
+    "quote": "なかみつでは５軸加工の技術をもって航空宇宙、医療機器、輸送機、光学部品など各分野の製品の試作及び量産を承っております",
+    "url": "https://nakamitsu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙（人工衛星搭載用装置ハウジング）、医療器具（各種整形外科用インプラント製品試作及び量産対応/整形外科用手術器具）、輸送機器（特急電車用制御装置ハウジング/自動車部品試作）、光学部品（光学ユニット試作部品）などの各分野において、試作から量産まで幅広く対応いたしております",
+    "url": "https://nakamitsu.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "各種整形外科用インプラント製品の試作および量産対応",
+    "url": "https://nakamitsu.co.jp/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "各分野の製品の試作及び量産を承っております",
+    "url": "https://nakamitsu.co.jp/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "縦型マシニングセンター、横型マシニングセンター、５軸加工マシニングセンター等をの設備を取り揃え、お客様のニーズに合った製品をスピーディーにお届け致します",
+    "url": "https://mono.ipros.com/product/detail/2000082139/",
+    "pass": 3
+   },
+   {
+    "quote": "マシニングセンター加工、試作の製品カタログ",
+    "url": "https://mono.ipros.com/product/detail/2000082139/",
+    "pass": 3
+   },
+   {
+    "quote": "他社では加工が困難な製品にも日々チャレンジしています",
+    "url": "https://mono.ipros.com/product/detail/2000082139/",
+    "pass": 3
+   },
+   {
+    "quote": "製品・サービス一覧 (4)",
+    "url": "https://mono.ipros.com/product/detail/2000082139/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "なかみつでは５軸加工の技術をもって航空宇宙、医療機器、輸送機、光学部品など各分野の製品の試作及び量産を承っております",
+    "url": "https://nakamitsu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙（人工衛星搭載用装置ハウジング）、医療器具（各種整形外科用インプラント製品試作及び量産対応/整形外科用手術器具）、輸送機器（特急電車用制御装置ハウジング/自動車部品試作）、光学部品（光学ユニット試作部品）などの各分野において、試作から量産まで幅広く対応いたしております",
+    "url": "https://nakamitsu.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "各種整形外科用インプラント製品の試作および量産対応",
+    "url": "https://nakamitsu.co.jp/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "各分野の製品の試作及び量産を承っております",
+    "url": "https://nakamitsu.co.jp/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "マシニングセンター加工、試作 なかみつ | イプロスものづくり",
+    "url": "https://mono.ipros.com/product/detail/2000082139/",
+    "pass": 3
+   },
+   {
+    "quote": "マシニングセンター加工、試作",
+    "url": "https://mono.ipros.com/product/detail/2000082139/",
+    "pass": 3
+   },
+   {
+    "quote": "マシニングセンター加工、試作はお任せください",
+    "url": "https://mono.ipros.com/product/detail/2000082139/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社なかみつは、マシニングセンター加工を中心として試作、多品種少量生産をしております",
+    "url": "https://mono.ipros.com/product/detail/2000082139/",
+    "pass": 3
+   },
+   {
+    "quote": "マシニングセンター加工、試作の製品カタログ",
+    "url": "https://mono.ipros.com/product/detail/2000082139/",
+    "pass": 3
+   },
+   {
+    "quote": "工法転換｜溶接・組立品をアルミ鋳物で一体化 1個から試作",
+    "url": "https://mono.ipros.com/product/detail/2000082139/",
+    "pass": 3
+   },
+   {
+    "quote": "弊社では、マシニングセンター加工を中心として試作、多品種少量生産をしております",
+    "url": "https://suwa.monozukuri.or.jp/detail/00729/",
+    "pass": 3
+   },
+   {
+    "quote": "５軸加工の技術をもって航空宇宙、医療機器、輸送機、光学部品などの試作及び量産",
+    "url": "https://suwa.monozukuri.or.jp/detail/00729/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "なかみつでは５軸加工の技術をもって航空宇宙、医療機器、輸送機、光学部品など各分野の製品の試作及び量産を承っております",
+    "url": "https://nakamitsu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "アジアNo.1航空宇宙クラスター形成特区認定",
+    "url": "https://nakamitsu.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙（人工衛星搭載用装置ハウジング）、医療器具（各種整形外科用インプラント製品試作及び量産対応/整形外科用手術器具）、輸送機器（特急電車用制御装置ハウジング/自動車部品試作）、光学部品（光学ユニット試作部品）などの各分野において、試作から量産まで幅広く対応いたしております",
+    "url": "https://nakamitsu.co.jp/about-us/",
+    "pass": 1
+   },
+   {
+    "quote": "各種整形外科用インプラント製品の試作および量産対応",
+    "url": "https://nakamitsu.co.jp/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙、医療機器、輸送機、光学部品など",
+    "url": "https://nakamitsu.co.jp/machining/",
+    "pass": 1
+   },
+   {
+    "quote": "塗装治具、洗浄治具、鍍金治具、熱処理治具、その他各種治具",
+    "url": "https://mono.ipros.com/product/detail/2000082139/",
+    "pass": 3
+   },
+   {
+    "quote": "５軸加工の技術をもって航空宇宙、医療機器、輸送機、光学部品などの試作及び量産",
+    "url": "https://suwa.monozukuri.or.jp/detail/00729/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "CAD/CAM,測定器",
+    "url": "https://nakamitsu.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "CAD/CAM & measuring instruments",
+    "url": "https://nakamitsu.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "3DCAD/CAM",
+    "url": "https://nakamitsu.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "2DCAD/CAM",
+    "url": "https://nakamitsu.co.jp/facility/",
+    "pass": 1
+   },
+   {
+    "quote": "関連リンク - http://www.nakamitsu.co.jp/",
+    "url": "https://mono.ipros.com/product/detail/2000082139/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社なかみつは、５軸マシニングセンターと３ⅮCADCAMを使用し",
+    "url": "https://mono.ipros.com/product/detail/2000082139/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社なかみつ NAKAMITSU CO., LTD.",
+    "url": "https://suwa.monozukuri.or.jp/detail/00729/",
+    "pass": 3
+   },
+   {
+    "quote": "中村 光守 Mitsumori NAKAMURA",
+    "url": "https://suwa.monozukuri.or.jp/detail/00729/",
+    "pass": 3
+   },
+   {
+    "quote": "http://nakamitsu.co.jp/",
+    "url": "https://suwa.monozukuri.or.jp/detail/00729/",
+    "pass": 3
+   },
+   {
+    "quote": "Tweets by NakamitsuUN",
+    "url": "https://note.com/megumilang/n/n515009e62135",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "アルミからチタンまで多くの材料の加工経験を生かし、",
+    "url": "https://mono.ipros.com/product/detail/2000082139/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "●詳しくはお問い合わせ、もしくはカタログをダウンロードしてください",
+    "url": "https://mono.ipros.com/product/detail/2000082139/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "株式会社なかみつ – 5軸加工のことなら — 5軸加工で つくる未来 なかみつでは5軸加工の技術をもって航空宇宙、医療機器、輸送機、光学部品など各分野の製品の試作及び量産を承っております。",
+    "url": "https://nakamitsu.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "なかみつの加工技術 - 株式会社なかみつ — なかみつでは5軸加工の技術をもって 航空宇宙、医療機器、輸送機、光学部品など 各分野の製品の試作及び量産を承っております。 また、油圧機器、ガス装置などの マシニング加工もおこなっております。 お気軽にお問い合わせください お問い合わせ",
+    "url": "https://nakamitsu.co.jp/machining/",
+    "pass": 3
+   },
+   {
+    "quote": "マシニングセンター加工、試作 なかみつ | イプロスものづくり — 株式会社なかみつは、5軸マシニングセンターと3ⅮCADCAMを使用し 多面/同時5軸加工を行っております。 アルミからチタンまで多くの材料の加工経験を生かし、 他社では加工が困難な製品にも日々チャレンジしています。 製品・サービス一覧 (4)",
+    "url": "https://mono.ipros.com/product/detail/2000082139/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社ナカモト｜試作・小ロット生産のご相談承りますシルク製品のOEM生産・別注生産・オリジナル生産のことならお任せくだ...なかみつの製品・サービス一覧｜イプロスものづくり卓上小型射出成形機 Moiron - | 試作・小ロット成形 — 株式会社ナカモトが今まで製造してきた製品の一部を紹介しております。高い技術と豊富な設備で難しい加工もお任せください！小ロット・試作のご相談も承りますので、お気軽にご相談くださいませ。皆様からのご連絡お待ちしております。 シルクの肌着、靴下、手袋、腹巻、スパッツ、レギンスなどのOEM生産、別注、オリジナル生産、小ロット生産を承ります。 Oct 24, 2022 · なかみつ の製品・サービス一覧です。 5軸マシニングセンターによる3Ⅾ加工 株式会社なかみつは、5軸マシニングセンターと3ⅮCADCAMを使用し 多面/同時5軸加工を行っております。 アルミから",
+    "url": "https://www.nakamoto88.co.jp/products",
+    "pass": 3
+   },
+   {
+    "quote": "なかみつの製品・サービス一覧｜イプロスものづくり — Oct 24, 2022 · なかみつ の製品・サービス一覧です。 5軸マシニングセンターによる3Ⅾ加工 株式会社なかみつは、5軸マシニングセンターと3ⅮCADCAMを使用し 多面/同時5軸加工を行っております。 アルミからチタンまで多くの材料の加工経験を生かし、 他社では加工が困難な製品にも日々チャレンジしています ...",
+    "url": "https://mono.ipros.com/company/detail/2027274/category/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社なかみつ – 5軸加工のことなら — 八ヶ岳山麓の 5軸加工会社 なかみつは、八ヶ岳を臨む広陵で自然あふれる長野県富士見町で5軸加工を中心をしたマシニング ...",
+    "url": "https://nakamitsu.co.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 株式会社なかみつ — なかみつは、八ヶ岳を臨む広陵で自然あふれる長野県富士見町で、5軸加工を中心をしたマシニング加工を行っています",
+    "url": "https://nakamitsu.co.jp/about-us/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社なかみつ | NAGANOものづくり 諏訪圏企業ガイド株式会社カネミツ会社概要 | 企業情報 | 株式会社中松商会会社概要 - 株式会社中光工業所事業内容 - 株式会社中光工業所 — ホーム 株式会社なかみつ 株式会社なかみつ 企業情報 ... 企業紹介 5軸加工の技術をもって航空宇宙、医療機器、輸送機、光学部品などの試作及び量産 所有設備 ... 一技PR 「ひとわざ」担当連絡先は、「ひとわざシート」毎に掲載されています。 Oct 14, 2026 · カネミツの「ものづくり」 Products / Technology 創業以来、開発・設計から生産までの一貫体制で高精度・高品質なものづくりに従事してきました。常に「頼れる技術のパートナー」として、お客様企業と共に夢を描き、その夢を実現してきたカネミツです。 カネミツの技術 開発・品質保証体制 ... 会社概要 会社沿革 経営理念",
+    "url": "https://suwa.monozukuri.or.jp/detail/00729/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・検索結果の抜粋）": [
+   {
+    "quote": "なかみつの記事一覧｜note（ノート） なかみつさんの記事一覧です。 制作日記、始めてみました。 初めましての方も、お久しぶりの方も、どうもです。 なかみつと申します。 主に丸ペンとインク、透明水彩を使って、イラストを描いています。 続くかどうかは置いといて、… なかみつ 5年前 3",
+    "url": "https://note.com/humming_fish/all",
+    "pass": 3
+   },
+   {
+    "quote": "なかみつ｜note 私の気まぐれにお付き合いくださる、器の超でっかい方は、どうぞよろしくお願いいたします。 突然ですが、3月16日から、愛知県にあるギャラリー (Gallery龍屋様)で、個展をします。 その為に、ただ今絶賛制作中です。 プライベートがなかなか愉快に ...",
+    "url": "https://note.com/humming_fish/",
+    "pass": 3
+   },
+   {
+    "quote": "第26週 世界で活躍する女性 中満泉｜めぐめぐ@日本の女性の人生を記事... Feb 12, 2021 · 第26週目の世界で活躍される女性は国際連合事務次長で軍縮担当（UNODA）上級代表を務める中満泉さんです。 国連に入られるまで 中満 泉（なかみつ いずみ）さんは1963年東京都のご出身です。 フェリス女学院高等学校在学 ...",
+    "url": "https://note.com/megumilang/n/n515009e62135",
+    "pass": 3
+   }
+  ],
+  "SNS・note（note・本文）": [
+   {
+    "quote": "第26週 世界で活躍する女性 中満泉｜めぐめぐ@日本の女性の人生を記事にして書いています。",
+    "url": "https://note.com/megumilang/n/n515009e62135",
+    "pass": 3
+   },
+   {
+    "quote": "めぐめぐ@日本の女性の人生を記事にして書いています。",
+    "url": "https://note.com/megumilang/n/n515009e62135",
+    "pass": 3
+   },
+   {
+    "quote": "第26週目の世界で活躍される女性は国際連合事務次長で軍縮担当（UNODA）上級代表を務める中満泉さんです。",
+    "url": "https://note.com/megumilang/n/n515009e62135",
+    "pass": 3
+   },
+   {
+    "quote": "中満 泉（なかみつ いずみ）さんは1963年東京都のご出身です。",
+    "url": "https://note.com/megumilang/n/n515009e62135",
+    "pass": 3
+   },
+   {
+    "quote": "フェリス女学院高等学校在学中より国連職員を志されます。",
+    "url": "https://note.com/megumilang/n/n515009e62135",
+    "pass": 3
+   },
+   {
+    "quote": "1987年に早稲田大学法学部卒業されます。",
+    "url": "https://note.com/megumilang/n/n515009e62135",
+    "pass": 3
+   },
+   {
+    "quote": "1989年にアメリカ合衆国ジョージタウン大学外交大学院修士課程を修了され、修士（国際関係論）の学位を取得されます。",
+    "url": "https://note.com/megumilang/n/n515009e62135",
+    "pass": 3
+   },
+   {
+    "quote": "同年、国連難民高等弁務官事務所（UNHCR)に入所されます。",
+    "url": "https://note.com/megumilang/n/n515009e62135",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "なかみつ (@mitsushinakada) / X 最上静香ちゃんの不思議4コマ 2 169 なかみつ @mitsushinakada Oct 12 【悲報】行く気満々だったのに、この三連休でのシステム切替が失敗したので、11月三連休でリベンジするために11月20日夜から準備作業となってしまい、行けなくなりました…（涙）",
+    "url": "https://x.com/mitsushinakada",
+    "pass": 3
+   },
+   {
+    "quote": "なかみつ (@mitsu_in_meets) / X Mention Follow PostsPosts RepliesReplies RepostsReposts MediaMedia なかみつ @mitsu_in_meets 22h 主治医から「ASDの端っこかじってますね〜」って言われてからずっと端っこをどの程度かじってるのかがめっちゃ気になっている",
+    "url": "https://x.com/mitsu_in_meets",
+    "pass": 3
+   },
+   {
+    "quote": "なかみつ (@nakanomituaki19) / X なかみつ @nakanomituaki19 Nov 19, 2014 ツアープランナーは、パック旅行の企画はもちろん、個人の旅行コースの相談にのり、個性的な旅を演出する",
+    "url": "https://x.com/nakanomituaki19",
+    "pass": 3
+   },
+   {
+    "quote": "なかみつ on X なかみつ (@nakamitsudasaku) on X See what’s happening and join the conversation",
+    "url": "https://x.com/nakamitsudasaku/status/2118899602032349431",
+    "pass": 3
+   },
+   {
+    "quote": "なかみつ on X / X - x.com 4 days ago · なかみつ (@nakamitsudasaku) on X See what’s happening and join the conversation",
+    "url": "https://x.com/nakamitsudasaku/status/2118899602032349431",
+    "pass": 3
+   },
+   {
+    "quote": "なかみつ。 (@nakamitsu_18) / X 🔞の二次創作多めで描いてます！ ふたなり、ロリが好きですが時期によって性癖が変わるので描きたいと思った物を描い ...",
+    "url": "https://x.com/nakamitsu_18",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "80+ \"なかみつ\" profiles | LinkedIn View the profiles of professionals named \"なかみつ\" on LinkedIn. There are 80+ professionals named \"なかみつ\", who use LinkedIn to exchange information, ideas, and ...",
+    "url": "https://www.linkedin.com/pub/dir/みつ/なか",
+    "pass": 3
+   },
+   {
+    "quote": "なかみつ せいじ - 芸能界 - 俳優 | LinkedInみつなかまほ まほ - 倉敷市立西中学校卒業 | LinkedIn#highschool #asi #alakahwaynschool #graduated #university ...Michael Cole - -- | LinkedInRima Husseini - Nederland | Professioneel profiel | LinkedInGeorgios Kazanidis - Senior Environmental Consultant at Xodus ... 私にその機会を与えてくれる人を待っています。 · 職歴: 芸能界 · 場所: 日本 · LinkedInのつながり1人。 10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInでなかみつ せいじさんのプロフィールを閲覧し",
+    "url": "https://jp.linkedin.com/in/せいじ-なかみつ-740707105",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "なか みつ - Facebook なか みつ is on Facebook. Join Facebook to connect with なか みつ and others you may know. Facebook gives people the power to share and makes the world more open and connected.",
+    "url": "https://www.facebook.com/profile.php/?id=61591395548653",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://nakamitsu.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nakamitsu.co.jp/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nakamitsu.co.jp/about-us/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nakamitsu.co.jp/machining/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nakamitsu.co.jp/facility/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nakamitsu.co.jp/machining/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://nakamitsu.co.jp/facility/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/product/detail/2000082139/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://suwa.monozukuri.or.jp/detail/00729/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://kanemitsu.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.nakajima-group.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.soramitu.jp/contact/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/humming_fish/all",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/humming_fish",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://note.com/megumilang/n/n515009e62135",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/mitsushinakada",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/mitsu_in_meets",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/nakanomituaki19",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/nakamitsudasaku/status/2118899602032349431",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/pub/dir/みつ/なか",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/せいじ-なかみつ-740707105",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/profile.php/?id=61591395548653",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/nakamitsudasaku/status/2118899602032349431",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/nakamitsu_18",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "なかみつ 取扱製品 試作 小ロット",
+   "results": [
+    "https://nakamitsu.co.jp/",
+    "https://nakamitsu.co.jp/machining/",
+    "https://mono.ipros.com/product/detail/2000082139/",
+    "https://www.nakamoto88.co.jp/products",
+    "https://mono.ipros.com/company/detail/2027274/category/",
+    "https://systemcreate-inc.co.jp/products/moiron_top",
+    "https://nakachuu.co.jp/oemodmdetail.html"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "なかみつ 会社概要 事業内容",
+   "results": [
+    "https://nakamitsu.co.jp/",
+    "https://nakamitsu.co.jp/about-us/",
+    "https://suwa.monozukuri.or.jp/detail/00729/",
+    "https://www.nakamatsu.co.jp/company/profile.html",
+    "https://nakamitu.co.jp/business/",
+    "https://nakamitu.co.jp/company/",
+    "https://kanemitsu.co.jp/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "なかみつ お問い合わせ メール",
+   "results": [
+    "https://kanemitsu.co.jp/contact/",
+    "https://www.nakajima-group.co.jp/contact/",
+    "https://www.soramitu.jp/contact/",
+    "https://www.kanachu.co.jp/contact/",
+    "https://www.kinoyume.co.jp/contact/",
+    "https://www.kanematsu.co.jp/inquiry",
+    "https://nakamitsu.co.jp/contact/",
+    "https://blog.form-mailer.jp/useful/howto_write_inquirymail/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:google"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "site:note.com なかみつ",
+   "results": [
+    "https://note.com/humming_fish/all",
+    "https://note.com/humming_fish/",
+    "https://note.com/mitsu536",
+    "https://note.com/megumilang/n/n515009e62135",
+    "https://tales.note.com/hikawa_2023/wp0tx1cxu0bls/episodes/e6hr00o6jbbx2",
+    "https://tales.note.com/horonui/wl9n28vivn4uy",
+    "https://note.com/hiroshimanishi/n/n6d3c3d31d584?hl=en"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com なかみつ",
+   "results": [
+    "https://x.com/mitsushinakada",
+    "https://x.com/mitsu_in_meets",
+    "https://x.com/nakanomituaki19",
+    "https://x.com/nakamitsudasaku/status/2118899602032349431",
+    "https://x.com/mitsu_in_meets/status/2112988263262937201",
+    "https://x.com/SunriseLead",
+    "https://x.com/NakamitsuUN"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com なかみつ",
+   "results": [
+    "https://www.linkedin.com/pub/dir/みつ/なか",
+    "https://jp.linkedin.com/in/せいじ-なかみつ-740707105",
+    "https://jp.linkedin.com/in/まほ-みつなかまほ-53b6a5322",
+    "https://uk.linkedin.com/in/michael-cole-6b6965369",
+    "https://nl.linkedin.com/in/rima-husseini-8873a6364",
+    "https://uk.linkedin.com/in/georgios-kazanidis-18236a11a",
+    "https://www.linkedin.com/posts/sofia-moustaghfir_highschool-asi-alakahwaynschool-activity-7342952443300704257-BHPh"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com なかみつ",
+   "results": [
+    "https://www.facebook.com/profile.php/?id=61591395548653",
+    "https://www.facebook.com/people/ナカミツ-ナカミツ/100006664203358/",
+    "https://www.facebook.com/nakamitsugolf/",
+    "https://www.facebook.com/mitsunaka.bunka/",
+    "https://www.facebook.com/sumickeylove/",
+    "https://www.facebook.com/tnakamitsu1/",
+    "https://www.facebook.com/profile.php/?id=100002585047482"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "なかみつ note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://note.jp/n/n51b6ea4b0bd6",
+    "https://nakamitsu.co.jp/",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/naga_0123",
+    "https://note.com/aomitsu_official"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "なかみつ X 投稿",
+   "results": [
+    "https://x.com/nakamitsudasaku/status/2118899602032349431",
+    "https://x.com/nakamitsu_18",
+    "https://bsky.app/profile/nakamitsu.bsky.social",
+    "https://fantia.jp/posts/3873394",
+    "https://www.xvideos.com/?k=みづなれい　無修正",
+    "https://www.xvideos.com/?k=素人投稿+中出し",
+    "https://adult.contents.fc2.com/users/tiraw/articles?sort=date&order=desc"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部17頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部17頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部17頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部17頁・検索9回）"
+ }
+}

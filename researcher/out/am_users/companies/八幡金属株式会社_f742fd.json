@@ -1,0 +1,422 @@
+{
+ "name": "八幡金属株式会社",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T10:43:32.691238+00:00",
+ "official_url": "https://www.yawata-metal.jp",
+ "identified_by": "given",
+ "profile": {
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "本社・京都工場 〒614-8103 京都府八幡市川口堀ノ内88番地 TEL.075-981-3651 FAX.075-983-1533 国分工場 〒899-4317 鹿児島県霧島市国分上野原テクノパーク7番1号 TEL.0995-46-7887 FAX.0995-46-8699 長崎工場 〒859-3922 長崎県東彼杵郡東彼杵町八反田郷57-25 TEL.0957-47-0005 FAX.0957-47-0073 北九州若松工場 〒808-0027 福岡県北九州市若松区北湊町7-34 TEL.093-752-3004 FAX.093-752-3008",
+    "url": "https://www.yawata-metal.jp/company_outline/",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "本社・京都工場 〒614-8103 京都府八幡市川口堀ノ内88番地 TEL.075-981-3651 FAX.075-983-1533 国分工場 〒899-4317 鹿児島県霧島市国分上野原テクノパーク7番1号 TEL.0995-46-7887 FAX.0995-46-8699 長崎工場 〒859-3922 長崎県東彼杵郡東彼杵町八反田郷57-25 TEL.0957-47-0005 FAX.0957-47-0073 北九州若松工場 〒808-0027 福岡県北九州市若松区北湊町7-34 TEL.093-752-3004 FAX.093-752-3008",
+    "url": "https://ymetal-kokubu.jp/company/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "製品分野": [
+   {
+    "quote": "八幡金属株式会社 - 金属プレス加工・金型設計製作",
+    "url": "https://www.yawata-metal.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車部品の金属プレス加工（シートベルト、エアバッグ、シート、ドア部品関係）、半導体部品製造、精密板金、精密機械加工、2次元・3次元レーザー加工、プレス金型設計製作、メッキ加工など、様々な分野での仕事をお請けしております",
+    "url": "https://www.yawata-metal.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車部品のプレス加工、半導体部品製造、精密板金製作、精密機械加工、精密部品のマシニング加工、2次元・3次元レーザー加工、プレス金型設計・製作、金属プレス加工など、様々な分野でのお仕事をお請けしております",
+    "url": "https://www.yawata-metal.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車部品・樹脂及びプレス金型の製作を開始しました",
+    "url": "https://ymetal-kokubu.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "自動車部品金型をはじめ、自動車部品・IC部品、2000年には半導体部品の製作も開始",
+    "url": "https://ymetal-kokubu.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "鹿児島県霧島市上野原テクノパークに国分工場完成、自動車部品金型製作を開始する",
+    "url": "https://ymetal-kokubu.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "国分プレス工場完成自動車部品・IC部品製作を開始する",
+    "url": "https://ymetal-kokubu.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "ISO9001:1994年版国分工場にて取得国分工場内に半導体部品工場完成",
+    "url": "https://ymetal-kokubu.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "国分工場にプレス金型・組立トライ工場完成、600Tプレス導入",
+    "url": "https://ymetal-kokubu.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "金型部・製造1課",
+    "url": "https://ymetal-kokubu.jp/contact/",
+    "pass": 3
+   }
+  ],
+  "取扱材料": [
+   {
+    "quote": "鉄（高張力鋼板）、アルミニウム、ステンレス、真鍮、チタン、モリブデン、インコネル、ポーラスアルミ、純ニッケル、金、銀、超硬、コバール、タングステン、ハステロイ、ベリリウム銅、樹脂（ポリエチレン、ナイロン、デルリン、ベイク、ガラスエポキシ、テフロン、アクリル）、カーボン、その他",
+    "url": "https://www.yawata-metal.jp/business/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車部品・樹脂及びプレス金型の製作を開始しました",
+    "url": "https://ymetal-kokubu.jp/company/",
+    "pass": 3
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "1980年には、電子部品の試作加工を開始し、1992年に鹿児島県霧島市の上野原テクノパークに現在の主力工場である、国分工場が完成しました",
+    "url": "https://ymetal-kokubu.jp/company/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "会社概要 - 八幡金属株式会社 — 会社概要 - 八幡金属株式会社 八幡金属株式会社 https://www.yawata-metal.jp > company_outline",
+    "url": "https://www.yawata-metal.jp/company_outline/",
+    "pass": 3
+   },
+   {
+    "quote": "会社概要 - 八幡金属株式会社国分工場 — 会社概要 - 八幡金属株式会社国分工場 八幡金属株式会社国分工場 https://ymetal-kokubu.jp > company",
+    "url": "https://ymetal-kokubu.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "八幡金属 株式会社の 会社概要 ・製品情報 - Metoree — 八幡金属 株式会社の 会社概要 ・製品情報 - Metoree Metoree https://metoree.com > 会社一覧",
+    "url": "https://metoree.com/companies/46575/",
+    "pass": 3
+   },
+   {
+    "quote": "八幡金属 株式 会社 北九州若松工場 — 八幡金属 株式 会社 北九州若松工場 北九州しごとまるごと情報局 https://www.shigotomarugoto.info > JobOffers > view-c",
+    "url": "https://www.shigotomarugoto.info/JobOffers/view-c?company_id=DMV883873",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 八幡金属株式会社国分工場 — お問い合わせ - 八幡金属株式会社国分工場 八幡金属株式会社国分工場 https://ymetal-kokubu.jp > contact",
+    "url": "https://ymetal-kokubu.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 八幡金属株式会社 — お問い合わせ - 八幡金属株式会社 八幡金属株式会社 https://www.yawata-metal.jp > contact",
+    "url": "https://www.yawata-metal.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "公式ホームページ | 霧島市上野原テクノパーク 八幡金属 株式 ... — 公式ホームページ | 霧島市上野原テクノパーク 八幡金属 株式 ... big-advance.site https://www.big-advance.site > service",
+    "url": "https://www.big-advance.site/c/189/1594/service",
+    "pass": 3
+   },
+   {
+    "quote": "八幡金属 株式会社 - 出展社詳細 - ものづくり ワールド — 八幡金属 株式会社 - 出展社詳細 - ものづくり ワールド ものづくり ワールド https://www.manufacturing-world.jp > search > directory",
+    "url": "https://www.manufacturing-world.jp/tokyo/ja-jp/search/2026mto0701/directory/directory-details.%E5%85%AB%E5%B9%A1%E9%87%91%E5%B1%9E%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE.org-43352f87-2cf2-458a-a139-a6c8aee1c8ed.html",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "お問い合わせ – 八幡金属株式会社国分工場",
+    "url": "https://ymetal-kokubu.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お名前、メールアドレス等入力をお願いいたします",
+    "url": "https://ymetal-kokubu.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "※ お電話またはメールフォームからご相談ください",
+    "url": "https://www.big-advance.site/c/189/1594/service",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "陈永梅- 海阳 八幡金属 制品有限公司 - 领英 陈永梅- 海阳 八幡金属 制品有限公司 - 领英 LinkedIn https://cn.linkedin.com > 永梅-陈-89...",
+    "url": "https://cn.linkedin.com/in/%E6%B0%B8%E6%A2%85-%E9%99%88-8966a0208",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.yawata-metal.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yawata-metal.jp/company_outline/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yawata-metal.jp/business/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.yawata-metal.jp/company/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://www.zen.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://san-kk.co.jp/technical/item/test/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://injection-lab.com/technology/64-2.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ymetal-kokubu.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://metoree.com/companies/46575/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ymetal-kokubu.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.big-advance.site/c/189/1594/service",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://cn.linkedin.com/in/%E6%B0%B8%E6%A2%85-%E9%99%88-8966a0208",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "八幡金属 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.zen.co.jp/",
+    "https://san-kk.co.jp/technical/item/test/",
+    "https://injection-lab.com/technology/64-2.html",
+    "https://mfg-hack.com/injection-molding/10692/",
+    "https://www.yasuhisa.co.jp/metal_processing_prototype/",
+    "https://asiaplanning.com/machining/column/column-4733/",
+    "https://www.h-k-k.co.jp/prototype/",
+    "http://www.plus-atlas.co.jp/trial.php",
+    "https://www.youtube.com/watch?v=rL1D8Ah3h3g",
+    "https://www.yawata-metal.jp/company_outline/"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "八幡金属 会社概要 事業内容",
+   "results": [
+    "https://www.yawata-metal.jp/company_outline/",
+    "https://ymetal-kokubu.jp/company/",
+    "https://metoree.com/companies/46575/",
+    "https://www.joho-fukuoka.or.jp/k-car-supplierpark/pdf/yawata-metal.pdf",
+    "https://www.shigotomarugoto.info/JobOffers/view-c?company_id=DMV883873",
+    "https://kiriwork.jp/companies/yawatametal_kokubu",
+    "https://parts-net-kitakyushu.jp/accession/?_type=entry&_id=68",
+    "https://www.youtube.com/watch?v=Ombp5Z2QHDo",
+    "https://www.atengineer.com/pr/yawata-metal/company",
+    "https://edinetdb.jp/corp/2130001045913"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 13
+  },
+  {
+   "query": "八幡金属 お問い合わせ メール",
+   "results": [
+    "https://ymetal-kokubu.jp/contact/",
+    "https://www.yawata-metal.jp/contact/",
+    "https://www.big-advance.site/c/189/1594/service",
+    "https://www.joho-fukuoka.or.jp/k-car-supplierpark/pdf/yawata-metal.pdf",
+    "https://www.manufacturing-world.jp/tokyo/ja-jp/search/2026mto0701/directory/directory-details.%E5%85%AB%E5%B9%A1%E9%87%91%E5%B1%9E%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE.org-43352f87-2cf2-458a-a139-a6c8aee1c8ed.html",
+    "https://metoree.com/companies/46575/",
+    "https://yahata-group.com/contact/form.cgi",
+    "https://www.kago-match.com/yawata-metal/",
+    "https://baseconnect.in/branch_offices/6f40650c-d11a-4cdd-a232-b99951ab630f",
+    "https://www.big-advance.site/c/189/1594/contact"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "site:note.com 八幡金属",
+   "results": [
+    "https://note.com/leftyjune/n/ncb53f96c9d0b",
+    "https://note.com/110yoshiyasu/n/n8daa765cccff",
+    "https://note.com/3n7no_tech_pr/n/n0a7336f235ac",
+    "https://note.com/hisutojio/n/n018a5875dafd",
+    "https://note.com/xborder/n/nbd791d950b65",
+    "https://note.com/officialjmir/n/nbbd5041d175c",
+    "https://note.com/leftyjune/n/n66ba2cff0155",
+    "https://note.com/_takumi_inoue_/n/nb4446051d402",
+    "https://note.com/nikken/n/n4d82e278925b",
+    "https://note.com/hu_phlox6230/n/n45f9fd21246e"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:x.com 八幡金属",
+   "results": [
+    "https://x.com/2k540Takumi",
+    "https://x.com/TIF_kezuru",
+    "https://x.com/murata_kyonkyon/status/2108733723105776041",
+    "https://x.com/pearl_flute_jp/status/2106972758110286042",
+    "https://x.com/yurumazu/status/1281563223884361730",
+    "https://x.com/kitazawamatsuri/status/2004708366715920485",
+    "https://x.com/Custom_kun/status/2105613697679024355",
+    "https://x.com/ichikawa_news/status/2112832925821772153",
+    "https://x.com/trademark_bot/status/2067073528407449989/photo/1",
+    "https://x.com/nagatorowo2/status/2087745759198519485"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com 八幡金属",
+   "results": [
+    "https://cn.linkedin.com/in/%E6%B0%B8%E6%A2%85-%E9%99%88-8966a0208",
+    "https://jp.linkedin.com/jobs/view/%EF%BC%9C%E5%85%AB%E5%B9%A1%E5%B8%82%EF%BC%9E%E3%82%AD%E3%83%A3%E3%83%93%E3%83%8D%E3%83%83%E3%83%88%E9%83%A8%E5%93%81%E3%81%AE%E5%90%8A%E6%8E%9B%E3%81%91%E3%83%BB%E7%B5%84%E7%AB%8B-%E6%97%A5%E6%89%95%E3%81%84ok%E3%80%90%E7%B5%8C%E9%A8%93%E8%80%85%C3%97%E3%83%96%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5up%EF%BC%81%EF%BC%81%E3%80%91%E6%AE%8B%E6%A5%AD%E3%81%BB%E3%81%BC%E3%83%8A%E3%82%B7%EF%BC%81-at-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E7%B6%9C%E5%90%88%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3-4456407674",
+    "https://jp.linkedin.com/jobs/view/%E5%AF%AE%E8%B2%BB%E7%84%A1%E6%96%99%E2%97%8E%E6%97%A5%E5%8B%A4%C3%97%E5%9C%9F%E6%97%A5%E7%A5%9D%E4%BC%91%E3%81%BF%E3%80%90%E9%87%91%E5%B1%9E%E3%81%AE%E5%8A%A0%E5%B7%A5%E3%83%BB%E4%BB%95%E4%B8%8A%E3%81%92%E3%80%91%E6%9C%88%E5%8F%8E%E4%BE%8B23-5%E4%B8%87%E5%86%86-at-%EF%BC%88%E6%A0%AA%EF%BC%89%E6%97%A5%E6%9C%AC%E3%82%B1%E3%82%A4%E3%83%86%E3%83%A0-4483322180",
+    "https://jp.linkedin.com/jobs/view/%EF%BC%9C%E5%85%AB%E5%B9%A1%E5%B8%82%EF%BC%9E%E3%82%AD%E3%83%A3%E3%83%93%E3%83%8D%E3%83%83%E3%83%88%E9%83%A8%E5%93%81%E3%81%AE%E5%90%8A%E6%8E%9B%E3%81%91%E3%83%BB%E7%B5%84%E7%AB%8B-%E6%97%A5%E6%89%95%E3%81%84ok%E3%80%90%E7%B5%8C%E9%A8%93%E8%80%85%E5%90%91%E3%81%91%E3%83%9E%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%AF%E3%83%BC%E3%82%AF%EF%BC%81%E3%80%91%E6%AE%8B%E6%A5%AD%E3%81%BB%E3%81%BC%E3%83%8A%E3%82%B7%E3%81%A7%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%84%E2%98%86-at-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E7%B6%9C%E5%90%88%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3-4478300181",
+    "https://jp.linkedin.com/jobs/view/%EF%BC%9C%E8%BF%91%E6%B1%9F%E5%85%AB%E5%B9%A1%E5%B8%82%EF%BC%9E%E8%B6%B3%E5%9B%9E%E3%82%8A%E9%83%A8%E5%93%81%E3%81%AE%E6%BA%B6%E6%8E%A5%E6%A9%9F%E6%93%8D%E4%BD%9C%E3%83%BB%E4%BB%95%E4%B8%8A%E3%81%92-%E6%97%A5%E6%89%95%E3%81%84ok%E3%80%90%E6%9C%AA%E7%B5%8C%E9%A8%93%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E5%A4%A7%E6%AD%93%E8%BF%8E%E2%99%AA%E3%80%91%E6%AE%8B%E6%A5%AD%E3%81%A7%E3%81%9F%E3%81%A3%E3%81%B7%E3%82%8A%E7%A8%BC%E3%81%90%EF%BC%81%E7%A4%BE%E4%BC%9A%E4%BA%BA%E7%B5%8C%E9%A8%93%E3%82%92%E3%81%A4%E3%82%82%E3%81%86%EF%BC%81-at-%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E7%B6%9C%E5%90%88%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3-4455377845",
+    "https://www.linkedin.com/pulse/%E6%96%B0%E5%9E%8Bmazda-cx-5%E3%81%A7%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%9F%E5%85%B1%E5%89%B5%E3%81%AE%E8%BC%AA%E6%97%A5%E6%9C%AC%E8%A3%BD%E9%89%84%E3%81%A8%E3%83%9E%E3%83%84%E3%83%80%E3%81%8C%E6%8C%91%E3%82%93%E3%81%A0%E6%96%B0%E3%81%97%E3%81%84%E3%82%AF%E3%83%AB%E3%83%9E%E3%81%A5%E3%81%8F%E3%82%8A-mazda-motor-corporation-jpu9c",
+    "https://jp.linkedin.com/jobs/view/%E2%97%8E2%E4%BA%A4%E6%9B%BF%E3%83%BB3%E4%BA%A4%E6%9B%BF%C3%97%E5%9C%9F%E6%97%A5%E4%BC%91%E3%81%BF%E3%80%90%E8%BB%8A%E7%94%A8%E3%81%AE%E9%87%91%E5%B1%9E%E9%83%A8%E5%93%81%E5%8A%A0%E5%B7%A5%E3%80%91%E6%9C%88%E5%8F%8E%E4%BE%8B30-4%E4%B8%87%E5%86%86-at-%EF%BC%88%E6%A0%AA%EF%BC%89%E6%97%A5%E6%9C%AC%E3%82%B1%E3%82%A4%E3%83%86%E3%83%A0-4485696576",
+    "https://jp.linkedin.com/jobs/view/%E2%97%8E%E6%97%A5%E5%8B%A4%E3%83%BB%E5%A4%9C%E5%8B%A4%C3%97%E5%9C%9F%E6%97%A5%E3%81%BE%E3%81%9F%E3%81%AF%E6%97%A5%E6%9C%88%E4%BC%91%E3%81%BF%E3%80%90%E9%87%91%E5%B1%9E%E3%81%AE%E5%8A%A0%E5%B7%A5%E3%83%BB%E6%A4%9C%E6%9F%BB%E3%80%91%E6%9C%88%E5%8F%8E27-4%E4%B8%87%E5%86%86%E4%BB%A5%E4%B8%8A%E5%8F%AF-at-%EF%BC%88%E6%A0%AA%EF%BC%89%E6%97%A5%E6%9C%AC%E3%82%B1%E3%82%A4%E3%83%86%E3%83%A0-4486848167",
+    "https://www.linkedin.com/jobs/gr0-jobs-worldwide",
+    "https://cn.linkedin.com/in/永梅-陈-8966a0208"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "site:facebook.com 八幡金属",
+   "results": [
+    "https://www.facebook.com/takuminohako/videos/%E3%83%AB%E3%83%BC%E3%83%9E%E3%83%8B%E3%82%A2%E3%83%B3%E3%83%AC%E3%83%BC%E3%82%B9%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA%E3%83%BC%E5%B1%95%E3%82%B7%E3%83%A3%E3%83%9D%E3%83%BC%E6%9C%AC%E5%85%AB%E5%B9%A1%E3%81%AB%E3%81%A6%E5%A5%BD%E8%A9%95%E9%96%8B%E5%82%AC%E4%B8%AD%E4%BC%9A%E6%9C%9F-11%E6%9C%88814%E6%97%A5%E6%99%82%E9%96%93-1021%E6%99%82%E6%97%A5%E7%A5%9D20%E6%99%8230%E5%88%86%E5%A0%B4%E6%89%80-%E3%82%B7%E3%83%A3%E3%83%9D%E3%83%BC%E6%9C%AC%E5%85%AB%E5%B9%A1%E9%87%91%E5%B1%9E%E3%82%A2%E3%83%AC%E3%83%AB%E3%82%AE%E3%83%BC%E3%81%AE%E6%96%B9%E3%82%82%E5%AE%89%E5%BF%83%E8%BB%BD%E3%81%8F/2609028566283861/",
+    "https://www.facebook.com/takuminohako/videos/%E3%83%AB%E3%83%BC%E3%83%9E%E3%83%8B%E3%82%A2%E3%83%B3%E3%83%AC%E3%83%BC%E3%82%B9%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA%E3%83%BC%E5%B1%95%E3%82%B7%E3%83%A3%E3%83%9D%E3%83%BC%E6%9C%AC%E5%85%AB%E5%B9%A1%E3%81%AB%E3%81%A6%E5%A5%BD%E8%A9%95%E9%96%8B%E5%82%AC%E4%B8%AD%E4%BC%9A%E6%9C%9F-10%E6%9C%88410%E6%97%A5%E6%99%82%E9%96%93-1021%E6%99%82%E6%97%A5%E7%A5%9D20%E6%99%8230%E5%88%86%E5%A0%B4%E6%89%80-%E3%82%B7%E3%83%A3%E3%83%9D%E3%83%BC%E6%9C%AC%E5%85%AB%E5%B9%A1%E9%87%91%E5%B1%9E%E3%82%A2%E3%83%AC%E3%83%AB%E3%82%AE%E3%83%BC%E3%81%AE%E6%96%B9%E3%82%82%E5%AE%89%E5%BF%83%E8%BB%BD%E3%81%8F/1136593102057315/",
+    "https://www.facebook.com/takuminohako/?locale=ja_JP",
+    "https://www.facebook.com/takuminohako/photos/919959881353315/",
+    "https://www.facebook.com/takuminohako/posts/%E7%B8%81%E8%B5%B7%E7%89%A9%E3%81%AE%E9%99%B6%E8%8A%B8%E5%B1%95%E3%82%B7%E3%83%A3%E3%83%9D%E3%83%BC%E6%9C%AC%E5%85%AB%E5%B9%A1%E3%81%AB%E3%81%A6%E5%A5%BD%E8%A9%95%E9%96%8B%E5%82%AC%E4%B8%AD%E4%BC%9A%E6%9C%9F-11%E6%9C%8817%E6%97%A5%E6%99%82%E9%96%93-1021%E6%99%82%E6%97%A5%E7%A5%9D20%E6%99%8230%E5%88%86%E5%A0%B4%E6%89%80-%E3%82%B7%E3%83%A3%E3%83%9D%E3%83%BC%E6%9C%AC%E5%85%AB%E5%B9%A1%E6%80%9D%E3%82%8F%E3%81%9A%E7%AC%91%E9%A1%94%E3%81%AB%E3%81%AA%E3%82%8B%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%88%E3%81%AA%E7%B8%81%E8%B5%B7%E7%89%A9%E3%81%AE%E5%8B%95%E7%89%A9%E9%81%94%E3%82%84%E5%94%90%E6%B4%A5%E3%81%AE/1403597308425789/",
+    "https://www.facebook.com/takuminohako/posts/%E3%83%8B%E3%83%83%E3%83%88%E3%81%A8%E5%B8%83%E5%B0%8F%E7%89%A9%E6%B0%B4%E5%BC%95%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA%E3%83%BC%E5%B1%95%E3%82%B7%E3%83%A3%E3%83%9D%E3%83%BC%E6%9C%AC%E5%85%AB%E5%B9%A1%E3%81%AB%E3%81%A6%E5%A5%BD%E8%A9%95%E9%96%8B%E5%82%AC%E4%B8%AD%E4%BC%9A%E6%9C%9F-9%E6%9C%8827%E6%97%A510%E6%9C%883%E6%97%A5%E6%99%82%E9%96%93-1021%E6%99%82%E6%97%A5%E7%A5%9D20%E6%99%8230%E5%88%86%E5%A0%B4%E6%89%80-%E3%82%B7%E3%83%A3%E3%83%9D%E3%83%BC%E6%9C%AC%E5%85%AB%E5%B9%A1%E5%A4%9A%E5%BD%A9%E3%81%AA%E5%B8%83%E5%B0%8F%E7%89%A9%E3%82%84%E3%83%8B%E3%83%83%E3%83%88%E6%B0%B4/1372344844884369/",
+    "https://www.facebook.com/100045386497829/posts/%E4%B9%85%E3%81%97%E3%81%B6%E3%82%8A%E3%81%AB%E5%90%89%E5%8E%9F%E3%81%AE%E5%BC%81%E8%B2%A1%E5%A4%A9%E6%A7%98%E3%81%AB%E4%BC%9A%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F/1683021116554089/",
+    "https://www.facebook.com/100084182564075/posts/%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E7%B3%B8%E3%81%AE%E5%AE%9D%E7%9F%B3dantele%E3%81%A7%E3%81%99%E3%83%AB%E3%83%BC%E3%83%9E%E3%83%8B%E3%82%A2%E3%83%B3%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B9%E3%81%AE%E6%8A%80%E6%B3%95%E3%81%A7%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%81%AE%E9%87%91%E5%B1%9E%E3%82%A2%E3%83%AC%E3%83%AB%E3%82%AE%E3%83%BC%E5%AF%BE%E5%BF%9C%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA%E3%83%BC%E3%82%92%E5%88%B6%E4%BD%9C%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%991114%E3%81%BE%E3%81%A7%E6%9C%AC%E5%85%AB%E5%B9%A1%E3%82%B7%E3%83%A3%E3%83%9D%E3%83%BC1%E9%9A%8E%E5%8C%A0/1101705535978855/",
+    "https://www.facebook.com/cafe.jalona/posts/u35%E5%B1%95%E5%A7%8B%E3%81%BE%E3%82%8A%E3%81%BE%E3%81%99%E4%BB%8A%E5%B9%B4%E3%82%82%E5%85%83%E6%B0%97%E3%81%AB35%E6%AD%B3%E4%BB%A5%E4%B8%8B%E3%81%AE6%E5%90%8D%E3%81%AE%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E3%81%AB%E9%9B%86%E3%81%BE%E3%81%A3%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E3%81%97%E3%81%AA%E3%82%84%E3%81%8B%E3%81%AA%E6%89%8D%E8%83%BD%E3%82%92%E6%84%9F%E3%81%98%E3%81%A6%E3%81%84%E3%81%9F%E3%81%A0%E3%81%8D%E3%81%9F%E3%81%84%E3%81%A8%E6%80%9D%E3%81%84%E3%81%BE%E3%81%99%E5%B0%8F%E6%9E%97%E6%BA%90%E5%BC%A5-%E9%87%91%E5%B1%9E%E9%80%A0%E5%BD%A2-sige_h/1516361930529713/",
+    "https://www.facebook.com/八幡金属-201194179969250/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 16
+  },
+  {
+   "query": "八幡金属 note 社長",
+   "results": [
+    "https://www.yawata-metal.jp/company_outline/",
+    "https://ymetal-kokubu.jp/company/",
+    "https://syukatsu-kaigi.jp/companies/45651/word_mouths",
+    "https://parts-net-kitakyushu.jp/accession/?_type=entry&_id=68",
+    "https://note.com/jxadvancedmetals/n/nedc478072d8f",
+    "https://www.kago-match.com/yawatakinzoku/",
+    "https://www.joho-fukuoka.or.jp/k-car-supplierpark/pdf/yawata-metal.pdf",
+    "https://www.manufacturing-world.jp/tokyo/ja-jp/search/2026mto0701/directory/directory-details.%E5%85%AB%E5%B9%A1%E9%87%91%E5%B1%9E%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE.org-43352f87-2cf2-458a-a139-a6c8aee1c8ed.html",
+    "https://ja.wikipedia.org/wiki/加藤貞顕",
+    "https://compalyze.co.jp/company/2130001045913"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "八幡金属 X 投稿",
+   "results": [
+    "https://www.yawata-metal.jp/",
+    "https://syukatsu-kaigi.jp/companies/45651/word_mouths",
+    "https://ymetal-kokubu.jp/interview3/",
+    "https://en-hyouban.com/company/10105827146/",
+    "https://parts-net-kitakyushu.jp/accession/?_type=entry&_id=68",
+    "https://www.big-advance.site/c/189/1594/service",
+    "https://kiriwork.jp/companies/yawatametal_kokubu",
+    "https://jp.indeed.com/cmp/%E5%85%AB%E5%B9%A1%E9%87%91%E5%B1%9E%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE/reviews",
+    "https://www.yawata-metal.jp/company_outline/",
+    "https://x.com/A2318001/status/2119756061574144360"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  }
+ ],
+ "missing": {
+  "事業内容": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部8頁・検索9回）",
+  "代表者": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部8頁・検索9回）",
+  "従業員数": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部8頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部8頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部8頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部8頁・検索9回）",
+  "取扱製品": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部8頁・検索9回）",
+  "AM関連": "記載なし（3回確認済み：公式4頁／PDF・画像0件／外部8頁・検索9回）"
+ }
+}

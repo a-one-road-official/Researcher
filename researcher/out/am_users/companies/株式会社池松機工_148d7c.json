@@ -1,0 +1,568 @@
+{
+ "name": "株式会社池松機工",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T11:11:47.710777+00:00",
+ "official_url": "http://www.ikematsukikou.jp",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表",
+    "value": "代表取締役会長　池松 康博 代表取締役社長　長井 敏哉",
+    "url": "https://www.ikematsukikou.jp/company/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "本社工場 〒869-1233 熊本県菊池郡大津町大津2502-3 Google Map 美咲野工場 〒869-1233 熊本県菊池郡大津町大津1835-1 Google Map",
+    "url": "https://www.ikematsukikou.jp/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "・半導体及びFPD製造装置用精密部品加工 ・一般生産設備用部品及び治具加工 ・真空装置関連部品加工 ・医療及び福祉関連部品加工 ・ロボット関連部品加工",
+    "url": "https://www.ikematsukikou.jp/company/",
+    "pass": 1
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従業員数",
+    "value": "85名",
+    "url": "https://www.ikematsukikou.jp/company/",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "東京エレクトロン九州株式会社　他 約30社",
+    "url": "https://www.ikematsukikou.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "製品分野": [
+   {
+    "quote": "株式会社 池松機工｜半導体やFPD製造装置向けの精密部品加工",
+    "url": "https://www.ikematsukikou.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "部品加工の中でも 半導体製造装置や液晶製造装置、産業ロボット、各種産業機械などのアルミやステンレス部品を手掛けております",
+    "url": "https://www.ikematsukikou.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "半導体製造装置向けの精密部品加工を中心として、FPD製造装置、真空装置や、",
+    "url": "https://www.ikematsukikou.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "エネルギー産業関連、医療、福祉関連まで、幅広い分野で活躍しております",
+    "url": "https://www.ikematsukikou.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "精密部品加工を通して半導体業界の発展にあなたの経験を活かしてみませんか",
+    "url": "https://www.ikematsukikou.jp/news/%E6%8E%A1%E7%94%A8%E6%83%85%E5%A0%B1-%E6%AD%A3%E7%A4%BE%E5%93%A1%E5%8B%9F%E9%9B%86%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "pass": 1
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "３D-CAD/CAMを利用した高精度５軸加工を行っております",
+    "url": "https://www.ikematsukikou.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "MAM72-63V",
+    "url": "https://www.ikematsukikou.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "MAM72-70V",
+    "url": "https://www.ikematsukikou.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "2.5D CAD/CAM",
+    "url": "https://www.ikematsukikou.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "3D CAD/CAM",
+    "url": "https://www.ikematsukikou.jp/equipment/",
+    "pass": 1
+   },
+   {
+    "quote": "{{ item.company_name }}",
+    "url": "https://ja.nc-net.or.jp/company/80254/dl/catalog/190616",
+    "pass": 3
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "優れた製品を提供することにより、企業の社会的責任を果たします",
+    "url": "https://www.ikematsukikou.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "持続可能な社会を実現する為、生物多様性の保全、温室効果ガスの削減、廃棄物の削減、土壌・大気・水質の汚染の防止（環境負荷低減と環境保全）、水資源の削減、資源の節約（資源の有効活用）に取り組むと共に、環境に配慮した製品を社会に提供します",
+    "url": "https://www.ikematsukikou.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "また、製品含有化学物質管理を行い、法令（基準・規格）に適合した部材の調達を行います",
+    "url": "https://www.ikematsukikou.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "3. 製品安全性の確保",
+    "url": "https://www.ikematsukikou.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "研究開発から出荷工程全てを通し、良質で安全な製品・サービスを提供します",
+    "url": "https://www.ikematsukikou.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "製品の安定した供給を重要な社会的責任と捉え、大規模災害や、影響が大きいとされる感染症などに対してBCP（事業継続）体制の構築に努めます",
+    "url": "https://www.ikematsukikou.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "時代の変化に対応(チェンジ)する製品をご提供し続けます",
+    "url": "https://www.ikematsukikou.jp/wp/wp-content/themes/ikematsu_2021/assets/media/company/sdgs_v4.pdf",
+    "pass": 2
+   },
+   {
+    "quote": "製品・研究開発（建築・土木・プラント・設備）",
+    "url": "https://ja.nc-net.or.jp/company/80254/dl/catalog/190616",
+    "pass": 3
+   },
+   {
+    "quote": "製品・研究開発（建築・土木・プラント・設備）",
+    "url": "https://ja.nc-net.or.jp/company/80254/inquiry/input/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Mail info@ikematsukikou.co.jp",
+    "url": "https://www.ikematsukikou.jp/news/%E6%8E%A1%E7%94%A8%E6%83%85%E5%A0%B1-%E6%AD%A3%E7%A4%BE%E5%93%A1%E5%8B%9F%E9%9B%86%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "pass": 1
+   },
+   {
+    "quote": "当社からの連絡に必要な電子メールアドレスを用意してそのアドレスを当社に対して登録すること",
+    "url": "https://ja.nc-net.or.jp/company/80254/dl/catalog/190616",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、会員に対し、会員が登録情報として提供した電子メールアドレス宛に電子メールにより随時必要な事項の通知または連絡を行うものとします",
+    "url": "https://ja.nc-net.or.jp/company/80254/dl/catalog/190616",
+    "pass": 3
+   },
+   {
+    "quote": "かかる連絡は、通常電子メールが到達する期間が経過した時に会員に到達したものとします",
+    "url": "https://ja.nc-net.or.jp/company/80254/dl/catalog/190616",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 株式会社 池松機工 熊本県 菊池郡大津町",
+    "url": "https://ja.nc-net.or.jp/company/80254/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "当社からの連絡に必要な電子メールアドレスを用意してそのアドレスを当社に対して登録すること",
+    "url": "https://ja.nc-net.or.jp/company/80254/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "当社は、会員に対し、会員が登録情報として提供した電子メールアドレス宛に電子メールにより随時必要な事項の通知または連絡を行うものとします",
+    "url": "https://ja.nc-net.or.jp/company/80254/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "かかる連絡は、通常電子メールが到達する期間が経過した時に会員に到達したものとします",
+    "url": "https://ja.nc-net.or.jp/company/80254/inquiry/input/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "高精度アルミ加工で多分野のニーズに応える - 株式会社 池松機工 — 池松機工の強みは半導体製造装置用部品だけでなく、真空装置、医療機器、ロボット関連部品といった多分野の製品にも対応できることです。 形状やサイズにかかわらず、小ロット試作から大規模量産まで、あらゆるニーズに対応可能です。",
+    "url": "https://ja.nc-net.or.jp/company/80254/product/detail/240866/",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内パンフレット、設備一覧｜株式会社池松機工 資料ダウンロード... — 株式会社 池松機工の会社案内パンフレット、設備一覧｜株式会社池松機工のPDFカタログ・資料を無料で今すぐダウンロード。 詳細な技術データや製品仕様の概要を確認することが可能です。",
+    "url": "https://ja.nc-net.or.jp/company/80254/dl/catalog/190616",
+    "pass": 3
+   },
+   {
+    "quote": "池松機工の製品・サービス一覧｜イプロスものづくり — 池松機工 の製品・サービス一覧です。 精密部品加工、アルミ部品加工、5軸加工、5面加工 株式会社池松機工は、機械加工（切削加工）の分野において、半導体やFPD関連の装置部品を手掛けております。",
+    "url": "https://mono.ipros.com/company/detail/2074007/category/",
+    "pass": 3
+   },
+   {
+    "quote": "加工実績 - 池松機工 — Quality Policy 品質方針 我社の全技術を結集し、 お客様から高い評価を得られる モノづくりに徹し安心と信頼を 約束できる製品を提供する",
+    "url": "https://www.ikematsukikou.jp/product/",
+    "pass": 3
+   },
+   {
+    "quote": "会社案内 - 池松機工株式会社 池松機工｜半導体やFPD製造装置向けの精密部品加工池松機工株式会社（三重県四日市市） 概要 - 企業情報株式会社池松機工の会社概要とプレスリリース株式会社池松機工 | 加工会社ナビ池松機工株式会社の会社概要とプレスリリース池松機工株式会社 (三重県四日市市/未上場)の評判・口コミ・インボイ... — Message 代表挨拶 私たち池松機工は、昭和59年に創業後、平成7年に菊池郡大津町に本社を移し、 現在は本社工場、美咲野工場の2拠点において、 精密部品の加工メーカーとしてモノづくりに携わっております。 池松機工は、半導体やFPD製造装置向けの精密部品加工を中心としたモノづくりに携わっております。 他にも、真空装置や太陽光発電関連、エネルギー産業関連、医療、福祉関連まで、幅広い分野で活躍しております。 Aug 19, 2026 · 概要 池松機工株式会社 （",
+    "url": "https://www.ikematsukikou.jp/company/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 池松機工｜半導体やFPD製造装置向けの精密部品加工 — 池松機工は、半導体やFPD製造装置向けの精密部品加工を中心としたモノづくりに携わっております。 他にも、真空装置や太陽光発電関連、エネルギー産業関連、医療、福祉関連まで、幅広い分野で活躍しております。",
+    "url": "https://www.ikematsukikou.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "池松機工株式会社（三重県四日市市） 概要 - 企業情報 — Aug 19, 2026 · 概要 池松機工株式会社 （イケマツキコウ）は三重県四日市市にある企業です。 法人番号は7190001033354、住所は三重県四日市市三重3丁目30番地です。 この法人は2026年（令和8年）8月19日に法人番号が指定されました。",
+    "url": "https://data-link-plus.com/jp/corporation/7190001033354",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社池松機工の会社概要とプレスリリース — 菊池郡大津町の法人統計からみる株式会社池松機工 株式会社池松機工 は、熊本県菊池郡大津町 に本店を置く株式会社です (法人番号: 7330001009298)。 法人番号制度の開始時 (2015年10月)に番号指定を受けており、それ以前から活動している法人です。",
+    "url": "https://companydata.tsujigawa.com/company2/7330001009298/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社池松機工 | 加工会社ナビ — 株式会社池松機工の 概要 同社は、半導体製造装置向けの精密部品加工を主力としています。 FPD製造装置、真空装置、エネルギー産業、医療、福祉関連など幅広い分野に対応しています。",
+    "url": "https://eigyo-mfg.com/service/navi/company/rNLbDy4JmsA4",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 池松機工 — お問い合わせいただいたお客様には、自動で受付確認メールを送信しております。 受付確認メールを受信されていないお客様は、弊社からのメールを受信拒否されている恐れがございますので、ご確認お願いいたします。",
+    "url": "https://www.ikematsukikou.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ - 株式会社 池松機工 熊本県 菊池郡大津町 — 当社は、会員に対し、会員が登録情報として提供した電子メールアドレス宛に電子メールにより随時必要な事項の通知または連絡を行うものとします。 かかる連絡は、通常電子メールが到達する期間が経過した時に会員に到達したものとします。",
+    "url": "https://ja.nc-net.or.jp/company/80254/inquiry/input/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社 池松機工｜半導体やFPD製造装置向けの精密部品加工 — 池松機工は、半導体やFPD製造装置向けの精密部品加工を中心としたモノづくりに携わっております。 他にも、真空装置や太陽光発電関連、エネルギー産業関連、医療、福祉関連まで、幅広い分野で活躍しております。",
+    "url": "http://www.ikematsukikou.jp/",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "本年度も株式会社池松機工様に、デフマウントの加工を行っていただき... 本年度も株式会社池松機工様に、デフマウントの加工を行っていただきました。 短い納期をお願いしてしまいましたが、ご対応くださりありがとうございます。 部員一同大変感謝しております。 #崇城大学 #学生フォーミュラ #fsae",
+    "url": "https://x.com/SPF_SOJO/status/2072533143899562311",
+    "pass": 3
+   },
+   {
+    "quote": "buntyou (@buntyou674538) / Posts / X 高精度アルミ加工、技術に磨き 半導体製造装置の部品供給で存在感 池松機工（大津町） 【地元発推しカンパニー】｜熊本日日新聞 kumanichi.com/articles/19914… #熊本のニュース #熊本日日新聞 #熊日 #熊本",
+    "url": "https://x.com/buntyou674538",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "中村 博文 - 池松機工 - 課長代理 | LinkedIn 池松機工 - 課長代理 · 職歴: 池松機工 · 場所: 日本。 10億人のメンバーを擁するプロフェッショナルコミュニティであるLinkedInで中村 博文さんのプロフィールを閲覧しましょう。",
+    "url": "https://jp.linkedin.com/in/博文-中村-443114135",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "株)池松機工 - Facebook 株)池松機工",
+    "url": "https://www.facebook.com/株池松機工-402185326609307/",
+    "pass": 3
+   },
+   {
+    "quote": "池松機工 - Facebook 池松機工",
+    "url": "https://www.facebook.com/池松機工-343331515745869/",
+    "pass": 3
+   },
+   {
+    "quote": ". 池松機工さま、オリジナルTシャツ♪ ＝＝＝＝＝＝＝＝＝＝＝＝＝＝..... 胸元の「39」と背中の「サンキュー」の語呂合わせのデザインが可愛いですね 株式会社池松機工さま、ありがとうございました イベントや会社のオリジナルTシャツなら、アミッグセカンドへ☆彡 アミッグセカンド Address 熊本市中央区大江3丁目7-5 Tel 096 ...",
+    "url": "https://www.facebook.com/amig2nd/posts/池松機工さまオリジナルｔシャツ大津町にて半導体やfpd製造装置向けの精密部品加工をされている株式会社池松機工さま今回39周年記念の社員レクレーション大会用にオリ/855789633209672/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.ikematsukikou.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ikematsukikou.jp/product/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ikematsukikou.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ikematsukikou.jp/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ikematsukikou.jp/news/%E6%8E%A1%E7%94%A8%E6%83%85%E5%A0%B1-%E6%AD%A3%E7%A4%BE%E5%93%A1%E5%8B%9F%E9%9B%86%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ikematsukikou.jp/news/category/recruit/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.ikematsukikou.jp/news/category/company-newsletter/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.ikematsukikou.jp/wp/wp-content/themes/ikematsu_2021/assets/media/company/sdgs_v4.pdf",
+    "status": "ok",
+    "method": "pdf"
+   },
+   {
+    "url": "https://www.ikematsukikou.jp/wp/wp-content/themes/ikematsu_2021/assets/images/front/img-product.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.lead-ems.com/pcba-list/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.nc-net.or.jp/company/80254/product/detail/240866/",
+    "status": "ok",
+    "method": "browser"
+   },
+   {
+    "url": "https://ja.nc-net.or.jp/company/80254/dl/catalog/190616",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://data-link-plus.com/jp/corporation/7190001033354",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.nc-net.or.jp/company/80254/inquiry/input/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://ja.nc-net.or.jp/company/80254/inquiry/input/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/SPF_SOJO/status/2072533143899562311",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/buntyou674538",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://jp.linkedin.com/in/博文-中村-443114135",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/株池松機工-402185326609307/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/池松機工-343331515745869/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/amig2nd/posts/池松機工さまオリジナルｔシャツ大津町にて半導体やfpd製造装置向けの精密部品加工をされている株式会社池松機工さま今回39周年記念の社員レクレーション大会用にオリ/855789633209672/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/SPF_SOJO/status/2072533143899562311",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "池松機工 取扱製品 試作 小ロット",
+   "results": [
+    "https://www.lead-ems.com/pcba-list/",
+    "https://ja.nc-net.or.jp/company/80254/product/detail/240866/",
+    "https://ja.nc-net.or.jp/company/80254/dl/catalog/190616",
+    "https://mono.ipros.com/company/detail/2074007/category/",
+    "https://www.ikematsukikou.jp/product/",
+    "http://www.ikematsukikou.jp/",
+    "https://mono.ipros.com/company/detail/2074007/catalog/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "池松機工 会社概要 事業内容",
+   "results": [
+    "https://www.ikematsukikou.jp/company/",
+    "https://www.ikematsukikou.jp/",
+    "https://data-link-plus.com/jp/corporation/7190001033354",
+    "https://companydata.tsujigawa.com/company2/7330001009298/",
+    "https://eigyo-mfg.com/service/navi/company/rNLbDy4JmsA4",
+    "https://companydata.tsujigawa.com/company2/7190001033354/",
+    "https://houjin.goo.to/corporations/7190001033354"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "池松機工 お問い合わせ メール",
+   "results": [
+    "https://www.ikematsukikou.jp/contact/",
+    "https://ja.nc-net.or.jp/company/80254/inquiry/input/",
+    "https://ja.nc-net.or.jp/company/80254/inquiry/",
+    "http://www.ikematsukikou.jp/",
+    "http://www.ikematsu-kucho.co.jp/publics/index/5/",
+    "https://mitsutoyo.co.jp/contact",
+    "http://www.ikeda-kikou.co.jp/?page_id=21"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 池松機工",
+   "results": [
+    "https://note.com/ikematsu51/n/nee1b24e08699?hl=en",
+    "https://money.note.com/rankings/産業用機械/market_cap_desc",
+    "https://note.com/ikematsu51/n/n25e825de3fb5?hl=en",
+    "https://note.com/ikematsu51/n/nd18184f0cb28?hl=en",
+    "https://tales.note.com/umezaki/w031tgyu3w9c9",
+    "https://tales.note.com/",
+    "https://note.com/ikematsu/n/n4568fc8d3484"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 池松機工",
+   "results": [
+    "https://x.com/SPF_SOJO/status/2072533143899562311",
+    "https://x.com/ikematsu35/status/2112767452321046864",
+    "https://x.com/buntyou674538",
+    "https://x.com/ikematsu35/status/2112767229439946770",
+    "https://x.com/ikematsu137",
+    "https://x.com/ikematsu35/status/2112767432221982809",
+    "https://x.com/ikematsu35"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 池松機工",
+   "results": [
+    "https://jp.linkedin.com/in/博文-中村-443114135",
+    "https://jp.linkedin.com/pub/dir/博文/中村/jp-0-日本",
+    "https://uk.linkedin.com/jobs/view/arts-and-culture-correspondent-at-the-guardian-4482854726",
+    "https://www.linkedin.com/jobs/豊臣機工（株）-jobs-worldwide",
+    "https://www.linkedin.com/pub/dir/+/Ikematsu",
+    "https://uk.linkedin.com/in/nicmorrishr",
+    "https://ro.linkedin.com/in/ana-cristina-varga-0376257b"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com 池松機工",
+   "results": [
+    "https://www.facebook.com/株池松機工-402185326609307/",
+    "https://www.facebook.com/池松機工-343331515745869/",
+    "https://www.facebook.com/people/沖拓也/100034740976751/",
+    "https://www.facebook.com/amig2nd/posts/池松機工さまオリジナルｔシャツ大津町にて半導体やfpd製造装置向けの精密部品加工をされている株式会社池松機工さま今回39周年記念の社員レクレーション大会用にオリ/855789633209672/",
+    "https://www.facebook.com/ryusuke.ikematsu/",
+    "https://www.facebook.com/kaishin.highschool/posts/3月5日木機械科2年生を対象に工場見学を実施しました本行事はものづくりの現場を直接見学することで専門分野への理解を深め自身の将来を考える貴重な機会として毎年実施/1567080505425570/",
+    "https://www.facebook.com/kaishin.highschool/posts/5月9日金と7月11日金に機械科3年生が知財力開発校支援事業の一環として株式会社池松機工様よりマシニングセンタに関する技術指導をいただきました1回目はマシニング/1331041325696157/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "池松機工 note 社長",
+   "results": [
+    "https://www.ikematsukikou.jp/news/社長交代のお知らせ/",
+    "https://www.ikematsukikou.jp/company/",
+    "http://www.kumamoto-keizai.co.jp/content/asp/week/week.asp?PageID=3&Kkiji=25041&Knum=27&tpg=1",
+    "https://compalyze.co.jp/company/7330001009298",
+    "https://note.com/ikematsu/n/nf50b146dc3b1",
+    "https://nihonsanki-shimbun.com/ikematsukiko_semicon/",
+    "https://www.reri.or.jp/wp/wp-content/uploads/2024/10/2f6618ab0005d03fade44b00d1815de8.pdf"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "池松機工 X 投稿",
+   "results": [
+    "https://x.com/SPF_SOJO/status/2072533143899562311",
+    "http://www.ikematsukikou.jp/",
+    "http://www.kumamoto-keizai.co.jp/content/asp/week/week.asp?PageID=3&Kkiji=25041&Knum=27&tpg=1",
+    "https://www.ikematsukikou.jp/news/",
+    "https://www.instagram.com/p/DSquPfdgWbo/",
+    "https://www.reri.or.jp/wp/wp-content/uploads/2024/10/2f6618ab0005d03fade44b00d1815de8.pdf",
+    "https://x.com/ikematsu35/with_replies"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像2件／外部13頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式7頁／PDF・画像2件／外部13頁・検索9回）",
+  "取扱材料": "記載なし（3回確認済み：公式7頁／PDF・画像2件／外部13頁・検索9回）",
+  "一点物・少量多品種": "記載なし（3回確認済み：公式7頁／PDF・画像2件／外部13頁・検索9回）"
+ }
+}

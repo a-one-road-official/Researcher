@@ -1,0 +1,1969 @@
+{
+ "name": "Saleshandy",
+ "aliases": [],
+ "context": "旧営業リスト｜分類なし｜未接触",
+ "researched_at": "2026-11-11T10:59:06.425177+00:00",
+ "official_url": "https://www.saleshandy.com",
+ "identified_by": "given",
+ "profile": {
+  "創業年度": [
+   {
+    "label": "Founded",
+    "value": "Founded：2015",
+    "url": "https://www.indianstartuptimes.com/startup-deep-dive/saleshandy-deep-dive/",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "Headquarters",
+    "value": "Ahmedabad",
+    "url": "https://www.indianstartuptimes.com/startup-deep-dive/saleshandy-deep-dive/",
+    "pass": 3
+   }
+  ],
+  "株主": [
+   {
+    "label": "Total funding",
+    "value": "None disclosed (described as bootstrapped)",
+    "url": "https://www.indianstartuptimes.com/startup-deep-dive/saleshandy-deep-dive/",
+    "pass": 3
+   }
+  ],
+  "売上高": [
+   {
+    "label": "Revenue",
+    "value": "about $1M for 2023, a third-party estimate; no audited FY24 or FY25 figures found",
+    "url": "https://www.indianstartuptimes.com/startup-deep-dive/saleshandy-deep-dive/",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "採用・広告の製品": [
+   {
+    "quote": "Stop Overpaying for Email & Phone Data: Get Real-time Verified Data at Half the Price",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every reply from every account in one place. Built-in CRM to email, call, log notes, and close deals, all from the prospect's card.",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Prospects contacted / month",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The future of cold email tools has arrived. The simplicity and straightforwardness of the product are great.",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "One of the simplest cold email automation platforms with good pricing. Customer support is highly helpful.",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Saleshandy is pretty easy to use with a minimum learning curve. Unlike other sales outreach apps, I don't need to explore for hours or days to learn how to use them. The interface is so intuitive and easy to understand. For sale people who are new to cold outreach, they can get started with Saleshandy straightaway without much hassle.",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Unified Inbox simplified by workflow and saved a lot of time for me. Saleshandy helped me in reaching out to new clients without any additional costs and add as many email accounts as possible for better deliverability. Also, the Unified inbox simplified my day-to-day process as I can access all my inboxes in my place rather than going to different accounts separately.",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "PR Agency Small-Business",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Saleshandy has been the perfect tool to help our sales teams up their game. We've used a few others tools before, but so far, Saleshandy has been the most reliable and professional tool for our new cold outreach systems. It's more than just a warm-up and email tool; there are lots of useful features. We have seen our responses and conversions increase since we implemented Saleshandy.",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "There are two things I like best about Saleshandy. All the necessary tools to execute and optimize cold email outreach are there. Setting up is straightforward and pretty easy. Starting with email warm-up, upload your list, create templates and sequences, run them, and analyze the reports. Furthermore, go in the settings and tweak them to best match your prospects' behaviors for the best results.",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Marketing and Advertising Small-Business",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pretty Handy for Sales. I like there three things the best: Unlimited email sending, the feature to see the data sent, and the open rate, I can reuse the sequence which performed well and modify the sequence which is not working so well.",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Senior Marketing Manager",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Saleshandy, all in one platform! Saleshandy provides us ease of use with the creation of emails that help us to complete our prospecting tasks in minimum time. It provides us with friendly features which help us to collaborate with our team anytime and anywhere.",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Saleshandy is a comprehensive sales tool that has helped our team improve our communication with prospects and customers. One of the standout features of Saleshandy is the ability to track email activity, including when emails are opened and clicked on. This has helped us identify which messages are resonating with our audience and adjust our approach accordingly.",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Founders & Solopreneurs",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Find leads, reach them across email, calls, and LinkedIn, and close deals from one platform. No team of 10 required.",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Source candidates at scale. Reach them across email, calls, and LinkedIn, with personalized sequences. Fill roles faster.",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Saleshandy combines lead discovery, automated outreach, and deliverability in one platform. Find prospects from a 852M+ contact database, create personalized email sequences with AI, and let automated follow-ups do the chasing, so you focus on closing, not sending.",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Find leads, automate email sequences, and manage deals, all from one platform. Free for 7 days.",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Best Lead Generation Agencies 2026 | Saleshandy",
+    "url": "https://www.saleshandy.com/agencies/lead-generation",
+    "pass": 1
+   },
+   {
+    "quote": "Top Lead Generation Companies Worldwide in 2026",
+    "url": "https://www.saleshandy.com/agencies/lead-generation",
+    "pass": 1
+   },
+   {
+    "quote": "Groww Leads is a B2B lead generation agency based out of India. They also offer clients services like linkedin prospecting, management, and targeted list building. Building a list where targets are highly interested and finding the right decision makers who complete as well as enhance the prospecting process is their complete set of services.",
+    "url": "https://www.saleshandy.com/agencies/lead-generation",
+    "pass": 1
+   },
+   {
+    "quote": "Appointment Setting, Sales Prospecting",
+    "url": "https://www.saleshandy.com/agencies/lead-generation",
+    "pass": 1
+   },
+   {
+    "quote": "ClickSuggest is a lead generation service prodigy agency based in India. It currently offers its services in more than 15 countries. They offer complete outbound services, B2B automation, and complete demand generation.",
+    "url": "https://www.saleshandy.com/agencies/lead-generation",
+    "pass": 1
+   },
+   {
+    "quote": "Lead Generation, Appointment Setting",
+    "url": "https://www.saleshandy.com/agencies/lead-generation",
+    "pass": 1
+   },
+   {
+    "quote": "Revity Marketing Agency is a dynamic digital marketing firm specializing in email marketing, SEO, and social media advertising. Boasting over 90% positive feedback, clients commend their impactful email strategies and efficient project management. Nearly 75% of reviews emphasize their commitment to aligning marketing with brand goals, driving enhanced online visibility and sales.",
+    "url": "https://www.saleshandy.com/agencies/lead-generation",
+    "pass": 1
+   },
+   {
+    "quote": "Exotto is an Indian lead generation service provider. Its team consists of experts and creatives who leverage their skills to accelerate their clients' lives. In addition to basic lead generation, Exotto offers B2B digital marketing, appointment booking, data management, and CRM integration and management services.",
+    "url": "https://www.saleshandy.com/agencies/lead-generation",
+    "pass": 1
+   },
+   {
+    "quote": "Upsales Agency is a lead generation agency that uses a multichannel approach for its prospecting efforts. Its in-house copywriting experts and strategies help its clients build the right growth strategies. The agency also has an AI-generated icebreaker that speeds up the replying and follow-up process.",
+    "url": "https://www.saleshandy.com/agencies/lead-generation",
+    "pass": 1
+   },
+   {
+    "quote": "Visible Factors is a dynamic agency specializing in email marketing and digital advertising. With a perfect 100% positive feedback rating, clients consistently highlight their expertise in developing and executing email marketing programs. Notably, 80% of reviewers commend their proactive communication and innovative strategies that boost customer engagement and retention.",
+    "url": "https://www.saleshandy.com/agencies/lead-generation",
+    "pass": 1
+   },
+   {
+    "quote": "Hourly Payment, Project Based",
+    "url": "https://www.saleshandy.com/agencies/lead-generation",
+    "pass": 1
+   },
+   {
+    "quote": "Right Media is a digital marketing agency from the UAE. They are one of the most innovative and creative frontiers that help shape the future of global brands. They are passionate about marketing, technology, and strategy, and they work with like-minded colleagues to drive measurable results and push the boundaries.",
+    "url": "https://www.saleshandy.com/agencies/lead-generation",
+    "pass": 1
+   },
+   {
+    "quote": "X Agency is a leading digital marketing firm, celebrated for its proficiency in SEM, paid social, and SEO services. Client reviews are overwhelmingly positive, with 100% reporting outstanding results and responsive project management. Many clients commend X Agency's unparalleled expertise, establishing them as a vital partner for enhancing financial growth and market share.",
+    "url": "https://www.saleshandy.com/agencies/lead-generation",
+    "pass": 1
+   },
+   {
+    "quote": "NU Media Edge provides a comprehensive suite of digital marketing services, including email marketing, paid advertising, and social media strategies. Clients praise the company for its swift communication, transparency, and expertise in fostering business growth, leading to notable sales increases. They are known for timely project delivery and outstanding results.",
+    "url": "https://www.saleshandy.com/agencies/lead-generation",
+    "pass": 1
+   },
+   {
+    "quote": "First Page Australia is a dedicated growth partner focused on delivering strategies that achieve real results. With strong expertise in digital marketing, they help brands rise above the competition and make a lasting impact. Their goal is simple: to keep every client’s business on the first page, where success begins.",
+    "url": "https://www.saleshandy.com/agencies/lead-generation",
+    "pass": 1
+   },
+   {
+    "quote": "Project Based, Custom Quote",
+    "url": "https://www.saleshandy.com/agencies/lead-generation",
+    "pass": 1
+   },
+   {
+    "quote": "Solitude Marketing, a boutique email marketing firm, was founded in 2023. We specialize in targeted Email Marketing and SEO services, delivering personalized strategies for small businesses to drive digital growth and engagement.",
+    "url": "https://www.saleshandy.com/agencies/lead-generation",
+    "pass": 1
+   },
+   {
+    "quote": "Melleka Marketing is a digital marketing agency that helps businesses grow through SEO, Google Ads, email marketing and website design. Their goal is to boost online visibility and attract more customers. Clients appreciate the strong results, including higher returns and more organic leads. They also value the team’s quick communication, friendly approach, and teamwork-driven culture.",
+    "url": "https://www.saleshandy.com/agencies/lead-generation",
+    "pass": 1
+   },
+   {
+    "quote": "MAIUS is a dynamic marketing agency focused on email marketing and brand development. Client feedback reveals 100% satisfaction, praising their exceptional project management and impressive results, such as a 3x revenue increase. Clients value MAIUS's professional communication and streamlined strategies, highlighting their email engagement tactics and marketing expertise as standout strengths.",
+    "url": "https://www.saleshandy.com/agencies/lead-generation",
+    "pass": 1
+   },
+   {
+    "quote": "WE2 Digital Agency stands out in digital marketing, specializing in CRM communication and multi-channel campaigns. Their clients consistently share positive feedback, praising the team’s creativity, smart use of data, and efficient project management. They utilize tools like Bloomreach and Figma to achieve outstanding results.",
+    "url": "https://www.saleshandy.com/agencies/lead-generation",
+    "pass": 1
+   },
+   {
+    "quote": "Put Your Recruitment Outreach on Autopilot with Saleshandy",
+    "url": "https://www.saleshandy.com/industries/recruitment-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Stop Overpaying for Email & Phone Data: Get Real-time Verified Data at Half the Price",
+    "url": "https://www.saleshandy.com/industries/recruitment-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Put your recruitment outreach on",
+    "url": "https://www.saleshandy.com/industries/recruitment-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Saleshandy's personalized outreach and follow-ups help you recruit candidates at scale",
+    "url": "https://www.saleshandy.com/industries/recruitment-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "12 interviews booked this week",
+    "url": "https://www.saleshandy.com/industries/recruitment-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Still chasing candidates with one-off emails?",
+    "url": "https://www.saleshandy.com/industries/recruitment-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Missing follow-ups with passive candidates",
+    "url": "https://www.saleshandy.com/industries/recruitment-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Source, outreach, hire & exceed your recruitment goals",
+    "url": "https://www.saleshandy.com/industries/recruitment-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Source more candidates on time",
+    "url": "https://www.saleshandy.com/industries/recruitment-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Keep your client's pipeline filled with potential candidates and build your list full of high-quality candidates.",
+    "url": "https://www.saleshandy.com/industries/recruitment-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "2,340 verified leads found",
+    "url": "https://www.saleshandy.com/industries/recruitment-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Reach out and gain candidate's interest",
+    "url": "https://www.saleshandy.com/industries/recruitment-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Reach out to a large number of candidates at once and pique their interest by sending them personalized emails.",
+    "url": "https://www.saleshandy.com/industries/recruitment-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Most of the top talents are passive and wait longer to respond. Saleshandy lets you send 1-to-1 personalized sequences of follow-ups to convince your top cream candidates of a good job offer and make them think about switching their jobs.",
+    "url": "https://www.saleshandy.com/industries/recruitment-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Reach different prospects in different industries and develop your network with personalized email sequences. Automated follow-up steps help your prospects know the industry needs and new possible candidates, reaching out to you.",
+    "url": "https://www.saleshandy.com/industries/recruitment-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "No more siloed hiring without visibility.",
+    "url": "https://www.saleshandy.com/industries/recruitment-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Do collaborative hiring and reporting",
+    "url": "https://www.saleshandy.com/industries/recruitment-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Involve your team at every interview stage while sharing real-time reports with your managers to find better candidates.",
+    "url": "https://www.saleshandy.com/industries/recruitment-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Saleshandy is pretty easy to use with a",
+    "url": "https://www.saleshandy.com/industries/recruitment-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "faster prospecting with team collab",
+    "url": "https://www.saleshandy.com/industries/recruitment-agencies",
+    "pass": 1
+   }
+  ],
+  "再販・ホワイトラベル": [
+   {
+    "quote": "businesses, agencies, and sales teams worldwide.",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Manage unlimited clients from one dashboard. White-label everything. Dedicated sending infrastructure per client, no extra fees.",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Best Lead Generation Agencies 2026 | Saleshandy",
+    "url": "https://www.saleshandy.com/agencies/lead-generation",
+    "pass": 1
+   },
+   {
+    "quote": "List of best 346 Agencies in the World. Find the perfect match for your business needs with our curated list of agencies.",
+    "url": "https://www.saleshandy.com/agencies/lead-generation",
+    "pass": 1
+   },
+   {
+    "quote": "Whitelabel for agencies",
+    "url": "https://www.saleshandy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Run the platform under your own brand and domain, so clients see your agency branding.",
+    "url": "https://www.saleshandy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Run outreach for unlimited clients from one account, built for agencies.",
+    "url": "https://www.saleshandy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "White-label Solution | Saleshandy",
+    "url": "https://www.saleshandy.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "your brand, our engine",
+    "url": "https://www.saleshandy.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Strengthen your agency branding with Whitelabel Solution",
+    "url": "https://www.saleshandy.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Your agency, your branding, our cold email platform",
+    "url": "https://www.saleshandy.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Offer a customized outreach experience with your branding",
+    "url": "https://www.saleshandy.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Tailor Saleshandy to match your brand identity, customized URL and logo to show clients your agency's branding whenever they log in.",
+    "url": "https://www.saleshandy.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Upload your brand mark",
+    "url": "https://www.saleshandy.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Send Analytics Reports to clients with your branding",
+    "url": "https://www.saleshandy.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Send customized analytics reports directly to your clients' inboxes, complete with your branding for a polished and professional look.",
+    "url": "https://www.saleshandy.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Automated report delivered with your branding",
+    "url": "https://www.saleshandy.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "White Label Experience",
+    "url": "https://www.saleshandy.com/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Make Saleshandy truly yours. Add your brand, logo, colors, and domain for a personalized client experience.",
+    "url": "https://www.saleshandy.com/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Upload your brand mark",
+    "url": "https://www.saleshandy.com/agency",
+    "pass": 1
+   },
+   {
+    "quote": "White-label everything, your brand, your way",
+    "url": "https://www.saleshandy.com/agency",
+    "pass": 1
+   },
+   {
+    "quote": "What does White-label mean?",
+    "url": "https://www.saleshandy.com/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Explore how growing sales teams, agencies, and businesses use Saleshandy to scale their lead generation and increase revenue.",
+    "url": "https://www.saleshandy.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Become An Agency Partner - Saleshandy",
+    "url": "https://www.saleshandy.com/become-an-agency-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Join Saleshandy's Agency Partner Program to get quality inbound leads and scale outreach.",
+    "url": "https://www.saleshandy.com/become-an-agency-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Subscribe to our Pro plan or above, starting at $99/month billed monthly. Get access to the Agency Partner Program.",
+    "url": "https://www.saleshandy.com/become-an-agency-partner",
+    "pass": 1
+   },
+   {
+    "quote": "Whitelabel for agencies",
+    "url": "https://www.saleshandy.com/lead-finder",
+    "pass": 1
+   },
+   {
+    "quote": "Saleshandy gives lead gen agencies everything they need to run outbound at scale: deep personalization, email ramp-up, Spintax, and an intuitive dashboard to manage every client campaign in one place.",
+    "url": "https://www.saleshandy.com/case-studies/leadroad",
+    "pass": 1
+   },
+   {
+    "quote": "Saleshandy gives lead gen agencies everything they need to run outbound at scale: automated email sequences, sender rotation, and an email ramp-up function to manage hundreds of clients while protecting deliverability, all in one place.",
+    "url": "https://www.saleshandy.com/case-studies/hotlead",
+    "pass": 1
+   },
+   {
+    "quote": "Like many agencies, Omni Online ran into a string of sudden changes from email providers that threatened their client campaigns.",
+    "url": "https://www.saleshandy.com/case-studies/omnionline",
+    "pass": 1
+   },
+   {
+    "quote": "Saleshandy gives cold email agencies everything they need to run outbound at scale: a deliverability suite, cold email automation, a unified inbox, and the flexibility to adapt as ESP policies change, all in one place.",
+    "url": "https://www.saleshandy.com/case-studies/omnionline",
+    "pass": 1
+   },
+   {
+    "quote": "Scaling large, complex campaigns is challenging as Saleshandy lacks advanced integrations and reporting necessary for high-volume outreach. For agencies managing outreach for multiple clients, these limitations make it difficult to handle several clients simultaneously or customize workflows for each client.",
+    "url": "https://www.mailforge.ai/blog/saleshandy-reviews",
+    "pass": 3
+   },
+   {
+    "quote": "Agencies and larger teams",
+    "url": "https://www.mailforge.ai/blog/saleshandy-reviews",
+    "pass": 3
+   },
+   {
+    "quote": "Agencies, scaling teams, high-volume senders",
+    "url": "https://www.mailforge.ai/blog/saleshandy-reviews",
+    "pass": 3
+   },
+   {
+    "quote": "Agency partner portal",
+    "url": "https://www.lemlist.com/blog/saleshandy-review",
+    "pass": 3
+   },
+   {
+    "quote": "Best for solo senders, small teams, and agencies that run email-only outbound.",
+    "url": "https://www.lemlist.com/blog/saleshandy-review",
+    "pass": 3
+   },
+   {
+    "quote": "Outreach Scale costs $139/mo billed annually ($199 monthly). You get 60,000 active prospects, 240,000 emails per month, whitelabel for agencies, and single sign-on. It suits high-volume senders who need agency and team controls.",
+    "url": "https://www.lemlist.com/blog/saleshandy-review",
+    "pass": 3
+   },
+   {
+    "quote": "Is Saleshandy a good fit for agencies?",
+    "url": "https://www.lemlist.com/blog/saleshandy-review",
+    "pass": 3
+   },
+   {
+    "quote": "Yes. Unlimited email accounts, whitelabel on the Scale plan, and client-level organization make it workable for agencies running many mailboxes. You’ll still manage LinkedIn and calls in separate tools.",
+    "url": "https://www.lemlist.com/blog/saleshandy-review",
+    "pass": 3
+   },
+   {
+    "quote": "Enhance Your Brand Identity with Saleshandy's White Label Feature | Saleshandy Help Center",
+    "url": "https://docs.saleshandy.com/en/articles/9439052-enhance-your-brand-identity-with-saleshandy-s-white-label-feature",
+    "pass": 3
+   },
+   {
+    "quote": "Enhance Your Brand Identity with Saleshandy's White Label Feature",
+    "url": "https://docs.saleshandy.com/en/articles/9439052-enhance-your-brand-identity-with-saleshandy-s-white-label-feature",
+    "pass": 3
+   },
+   {
+    "quote": "We are excited to announce the recent introduction of our new White Label feature in Saleshandy!",
+    "url": "https://docs.saleshandy.com/en/articles/9439052-enhance-your-brand-identity-with-saleshandy-s-white-label-feature",
+    "pass": 3
+   },
+   {
+    "quote": "What is White Label in Saleshandy?",
+    "url": "https://docs.saleshandy.com/en/articles/9439052-enhance-your-brand-identity-with-saleshandy-s-white-label-feature",
+    "pass": 3
+   },
+   {
+    "quote": "The White Label feature in Saleshandy allows agencies to customise their platform, giving it a unique and professional brand identity. The White Label feature enables agencies to upload their logos, set up custom domains, and ensure a cohesive branding experience across the platform.",
+    "url": "https://docs.saleshandy.com/en/articles/9439052-enhance-your-brand-identity-with-saleshandy-s-white-label-feature",
+    "pass": 3
+   },
+   {
+    "quote": "Why Use White Label in Saleshandy?",
+    "url": "https://docs.saleshandy.com/en/articles/9439052-enhance-your-brand-identity-with-saleshandy-s-white-label-feature",
+    "pass": 3
+   },
+   {
+    "quote": ": Ensure that every interaction your clients have with the platform reflects your brand identity.",
+    "url": "https://docs.saleshandy.com/en/articles/9439052-enhance-your-brand-identity-with-saleshandy-s-white-label-feature",
+    "pass": 3
+   },
+   {
+    "quote": ": Enhance your credibility and professionalism by customising the platform to match your brand.",
+    "url": "https://docs.saleshandy.com/en/articles/9439052-enhance-your-brand-identity-with-saleshandy-s-white-label-feature",
+    "pass": 3
+   },
+   {
+    "quote": "How to Utilise White Label Settings in Saleshandy",
+    "url": "https://docs.saleshandy.com/en/articles/9439052-enhance-your-brand-identity-with-saleshandy-s-white-label-feature",
+    "pass": 3
+   },
+   {
+    "quote": "Navigate to the white label settings",
+    "url": "https://docs.saleshandy.com/en/articles/9439052-enhance-your-brand-identity-with-saleshandy-s-white-label-feature",
+    "pass": 3
+   },
+   {
+    "quote": ": Settings → Company settings → White label.",
+    "url": "https://docs.saleshandy.com/en/articles/9439052-enhance-your-brand-identity-with-saleshandy-s-white-label-feature",
+    "pass": 3
+   },
+   {
+    "quote": "Setting Up Your Brand Domain",
+    "url": "https://docs.saleshandy.com/en/articles/9439052-enhance-your-brand-identity-with-saleshandy-s-white-label-feature",
+    "pass": 3
+   },
+   {
+    "quote": "' in the White Label settings.",
+    "url": "https://docs.saleshandy.com/en/articles/9439052-enhance-your-brand-identity-with-saleshandy-s-white-label-feature",
+    "pass": 3
+   },
+   {
+    "quote": "Keeping both agencies and clients informed is essential for a smooth and transparent experience. Here’s how notifications are handled for different actions:",
+    "url": "https://docs.saleshandy.com/en/articles/9439052-enhance-your-brand-identity-with-saleshandy-s-white-label-feature",
+    "pass": 3
+   },
+   {
+    "quote": "Email Notifications to Agencies",
+    "url": "https://docs.saleshandy.com/en/articles/9439052-enhance-your-brand-identity-with-saleshandy-s-white-label-feature",
+    "pass": 3
+   },
+   {
+    "quote": "Customized Notifications for White Label Clients",
+    "url": "https://docs.saleshandy.com/en/articles/9439052-enhance-your-brand-identity-with-saleshandy-s-white-label-feature",
+    "pass": 3
+   },
+   {
+    "quote": ": All notifications and emails sent to white label clients will feature the agency’s branding, ensuring a consistent and professional appearance.",
+    "url": "https://docs.saleshandy.com/en/articles/9439052-enhance-your-brand-identity-with-saleshandy-s-white-label-feature",
+    "pass": 3
+   },
+   {
+    "quote": ": To maintain the white-label experience, Saleshandy is not mentioned in notifications and emails. Clients will only see the agency’s branding and communication.",
+    "url": "https://docs.saleshandy.com/en/articles/9439052-enhance-your-brand-identity-with-saleshandy-s-white-label-feature",
+    "pass": 3
+   },
+   {
+    "quote": ": White-label clients will not see any links redirecting to Saleshandy’s main site. All necessary links will be customized to maintain the white-label experience.",
+    "url": "https://docs.saleshandy.com/en/articles/9439052-enhance-your-brand-identity-with-saleshandy-s-white-label-feature",
+    "pass": 3
+   },
+   {
+    "quote": "Trial plan users can view the White Label option in Settings, but they must upgrade to the Enterprise plan or a legacy Outreach Scale plan or higher to use the White Label feature.",
+    "url": "https://docs.saleshandy.com/en/articles/9439052-enhance-your-brand-identity-with-saleshandy-s-white-label-feature",
+    "pass": 3
+   },
+   {
+    "quote": "Outreach Starter plan & Pro Plan users cannot use Whitelabel",
+    "url": "https://docs.saleshandy.com/en/articles/9439052-enhance-your-brand-identity-with-saleshandy-s-white-label-feature",
+    "pass": 3
+   }
+  ],
+  "規模・親会社": [
+   {
+    "quote": "852M+ contacts across 42M+ companies with 50+ buying signals.Filter by industry, revenue, lookalikes, and tech stack. Every email is verified before sending.",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Revenue generated / month",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The future of cold email tools has arrived. The simplicity and straightforwardness of the product are great.",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "MAIUS is a dynamic marketing agency focused on email marketing and brand development. Client feedback reveals 100% satisfaction, praising their exceptional project management and impressive results, such as a 3x revenue increase. Clients value MAIUS's professional communication and streamlined strategies, highlighting their email engagement tactics and marketing expertise as standout strengths.",
+    "url": "https://www.saleshandy.com/agencies/lead-generation",
+    "pass": 1
+   },
+   {
+    "quote": "Search 852M+ verified contacts and 42M+ company profiles. Narrow by job title, seniority, department, industry, company size, revenue, location, tech stack and hiring signals.",
+    "url": "https://www.saleshandy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Narrow your prospect search across people and company data: title, seniority, department, industry, company size, revenue, location, tech stack and hiring signals.",
+    "url": "https://www.saleshandy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Filter companies by industry, size, revenue, tech stack, and more.",
+    "url": "https://www.saleshandy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "View revenue and funding data to qualify accounts.",
+    "url": "https://www.saleshandy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Used by 10,000 businesses to generate $150M+ in revenue",
+    "url": "https://www.saleshandy.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "No more leaving revenue on the table.",
+    "url": "https://www.saleshandy.com/industries/saas",
+    "pass": 1
+   },
+   {
+    "quote": "The future of cold email tools has arrived. The",
+    "url": "https://www.saleshandy.com/industries/saas",
+    "pass": 1
+   },
+   {
+    "quote": "Don't Wait for Revenue,",
+    "url": "https://www.saleshandy.com/company-email-finder",
+    "pass": 1
+   },
+   {
+    "quote": "Explore how growing sales teams, agencies, and businesses use Saleshandy to scale their lead generation and increase revenue.",
+    "url": "https://www.saleshandy.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "More Revenue Than Before",
+    "url": "https://www.saleshandy.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Doubled Their Revenue in a Year",
+    "url": "https://www.saleshandy.com/case-studies",
+    "pass": 1
+   },
+   {
+    "quote": "Don't Wait for Revenue,",
+    "url": "https://www.saleshandy.com/about-us",
+    "pass": 1
+   },
+   {
+    "quote": "Fill out a simple form to showcase your agency's expertise and get listed in our directory.",
+    "url": "https://www.saleshandy.com/become-an-agency-partner",
+    "pass": 1
+   },
+   {
+    "quote": "I've set up a search for CEOs based in California at companies with fewer than 50 employees. Want to narrow by industry — just let me know!",
+    "url": "https://www.saleshandy.com/lead-finder",
+    "pass": 1
+   },
+   {
+    "quote": "“CTOs at Series A FinTech startups in the US, 10-50 employees”",
+    "url": "https://www.saleshandy.com/lead-finder",
+    "pass": 1
+   },
+   {
+    "quote": "10-50 employees",
+    "url": "https://www.saleshandy.com/lead-finder",
+    "pass": 1
+   },
+   {
+    "quote": "CTOs at Series A startups in FinTech with 10-50 employees",
+    "url": "https://www.saleshandy.com/lead-finder",
+    "pass": 1
+   },
+   {
+    "quote": "Heads of Marketing at Healthcare companies, $10M+ revenue, US & UK",
+    "url": "https://www.saleshandy.com/lead-finder",
+    "pass": 1
+   },
+   {
+    "quote": "Sales Directors at companies hiring SDRs, Series B+, 200-500 employees",
+    "url": "https://www.saleshandy.com/lead-finder",
+    "pass": 1
+   },
+   {
+    "quote": "Companies similar to Stripe, FinTech, 500+ employees, Series C+, US",
+    "url": "https://www.saleshandy.com/lead-finder",
+    "pass": 1
+   },
+   {
+    "quote": "Founders & CEOs at bootstrapped B2B SaaS companies, $1M-10M revenue",
+    "url": "https://www.saleshandy.com/lead-finder",
+    "pass": 1
+   },
+   {
+    "quote": "VPs of Procurement at Fortune 1000 companies, $500M+ revenue, US",
+    "url": "https://www.saleshandy.com/lead-finder",
+    "pass": 1
+   },
+   {
+    "quote": "RevOps managers at companies using HubSpot + Salesforce, 200-1000 employees",
+    "url": "https://www.saleshandy.com/lead-finder",
+    "pass": 1
+   },
+   {
+    "quote": "hotLead Case Study: 2x Revenue in a Year | Saleshandy",
+    "url": "https://www.saleshandy.com/case-studies/hotlead",
+    "pass": 1
+   },
+   {
+    "quote": "Doubled Their Revenue",
+    "url": "https://www.saleshandy.com/case-studies/hotlead",
+    "pass": 1
+   },
+   {
+    "quote": "2x more revenue than before",
+    "url": "https://www.saleshandy.com/case-studies/hotlead",
+    "pass": 1
+   },
+   {
+    "quote": "Sedin had relied on SEO, paid marketing, Upwork, and similar channels to acquire customers. Over time, their market share narrowed and these channels stopped delivering.",
+    "url": "https://www.saleshandy.com/case-studies/sedin-technologies",
+    "pass": 1
+   },
+   {
+    "quote": "New competitors entered with niche solutions for the same audience. Sedin paid more and got less from every channel, which hurt their revenue, ROI, and growth.",
+    "url": "https://www.saleshandy.com/case-studies/sedin-technologies",
+    "pass": 1
+   },
+   {
+    "quote": "It was hard scaling revenue using repetitive outbound methods.",
+    "url": "https://www.saleshandy.com/case-studies/sedin-technologies",
+    "pass": 1
+   },
+   {
+    "quote": "60+ new clients acquired, worth $9M+ in overall deals",
+    "url": "https://www.saleshandy.com/case-studies/sedin-technologies",
+    "pass": 1
+   },
+   {
+    "quote": "It’s a strong option for teams that want to focus on cold email campaigns rather than other acquisition channels like LinkedIn, cold calls, or SMS.",
+    "url": "https://www.lemlist.com/blog/saleshandy-review",
+    "pass": 3
+   },
+   {
+    "quote": "integrations. Agencies can use them to scale operations, generate recurring revenue, and simplify lead management. Here's a quick rundown of the top 5 platforms:",
+    "url": "https://sales-mind.ai/en/blog/post/white-label-lead-gen-platforms-saas-launch",
+    "pass": 3
+   },
+   {
+    "quote": "Saleshandy is an AI-powered cold email platform tailored for agencies and SaaS companies managing large-scale outbound campaigns. Delivered through a custom-branded interface, it combines an extensive contact database with tools for automated sequencing and email deliverability. Over 10,000 businesses have leveraged Saleshandy to generate more than $150 million in revenue",
+    "url": "https://sales-mind.ai/en/blog/post/white-label-lead-gen-platforms-saas-launch",
+    "pass": 3
+   },
+   {
+    "quote": ", by contrast, focuses on excelling in affiliate and referral tracking. It offers real-time conversion monitoring and seamless e-commerce integrations, making it a go-to solution for affiliate programs. However, its narrow focus on affiliate marketing means it lacks the",
+    "url": "https://sales-mind.ai/en/blog/post/white-label-lead-gen-platforms-saas-launch",
+    "pass": 3
+   },
+   {
+    "quote": ". These platforms demonstrate how the right choice can significantly impact results, with some agencies seeing their monthly recurring revenue increase by up to 320% within just 90 days",
+    "url": "https://sales-mind.ai/en/blog/post/white-label-lead-gen-platforms-saas-launch",
+    "pass": 3
+   },
+   {
+    "quote": "Drawing on years of experience in tech entrepreneurship and sales strategy, Julien specializes in AI-driven prospecting, revenue acceleration, and the future of B2B growth. His insights are grounded in real-world application, helping sales teams and business leaders harness the full potential of modern technology to close more deals, faster.",
+    "url": "https://sales-mind.ai/en/blog/post/white-label-lead-gen-platforms-saas-launch",
+    "pass": 3
+   },
+   {
+    "quote": "SalesHandy Revenue 2023: $1M Est.",
+    "url": "https://getlatka.com/companies/saleshandy",
+    "pass": 3
+   },
+   {
+    "quote": "SalesHandy has not published its revenue. GetLatka estimates it at about $1M a year (June 2023).",
+    "url": "https://getlatka.com/companies/saleshandy",
+    "pass": 3
+   },
+   {
+    "quote": "SalesHandy CEO, founders & employees",
+    "url": "https://getlatka.com/companies/saleshandy",
+    "pass": 3
+   },
+   {
+    "quote": "Dhruv Patel founded SalesHandy in 2015 and runs it as CEO. SalesHandy had 34 employees (October 2024, LinkedIn).",
+    "url": "https://getlatka.com/companies/saleshandy",
+    "pass": 3
+   },
+   {
+    "quote": "What is SalesHandy's revenue?",
+    "url": "https://getlatka.com/companies/saleshandy",
+    "pass": 3
+   },
+   {
+    "quote": "GetLatka estimates SalesHandy's revenue at about",
+    "url": "https://getlatka.com/companies/saleshandy",
+    "pass": 3
+   },
+   {
+    "quote": "How many employees does SalesHandy have?",
+    "url": "https://getlatka.com/companies/saleshandy",
+    "pass": 3
+   },
+   {
+    "quote": "employees in October 2024, according to LinkedIn.",
+    "url": "https://getlatka.com/companies/saleshandy",
+    "pass": 3
+   },
+   {
+    "quote": "Companies with revenue over 50M",
+    "url": "https://getlatka.com/companies/saleshandy",
+    "pass": 3
+   },
+   {
+    "quote": "Large teams with 100+ employees",
+    "url": "https://getlatka.com/companies/saleshandy",
+    "pass": 3
+   },
+   {
+    "quote": "Each Tuesday, we reverse-engineer a real SaaS company's revenue, profit, CAC, funnels, and its top growth tactic.",
+    "url": "https://getlatka.com/companies/saleshandy",
+    "pass": 3
+   },
+   {
+    "quote": "Startup Deep Dive : SalesHandy — Bootstrapped to an estimated $1M in revenue (June 2023, third-party estimate) with no outside funding",
+    "url": "https://www.indianstartuptimes.com/startup-deep-dive/saleshandy-deep-dive/",
+    "pass": 3
+   },
+   {
+    "quote": "June 2023: Reached about $1M in revenue per a third-party estimate, while bootstrapped",
+    "url": "https://www.indianstartuptimes.com/startup-deep-dive/saleshandy-deep-dive/",
+    "pass": 3
+   },
+   {
+    "quote": "October 2024: About 34 employees per a LinkedIn-based figure; other sources estimate 61 to 100 and up to 97, so headcount reports differ",
+    "url": "https://www.indianstartuptimes.com/startup-deep-dive/saleshandy-deep-dive/",
+    "pass": 3
+   },
+   {
+    "quote": "Revenue: about $1M for 2023, a third-party estimate; no audited FY24 or FY25 figures found",
+    "url": "https://www.indianstartuptimes.com/startup-deep-dive/saleshandy-deep-dive/",
+    "pass": 3
+   },
+   {
+    "quote": "No audited financials available; revenue figures are third-party estimates",
+    "url": "https://www.indianstartuptimes.com/startup-deep-dive/saleshandy-deep-dive/",
+    "pass": 3
+   },
+   {
+    "quote": "Competition: low barriers to entry and well-funded rivals can compress pricing and slow growth.",
+    "url": "https://www.indianstartuptimes.com/startup-deep-dive/saleshandy-deep-dive/",
+    "pass": 3
+   },
+   {
+    "quote": "recurring revenue, customer retention, gross margin, customer acquisition cost and runway.",
+    "url": "https://www.indianstartuptimes.com/startup-deep-dive/saleshandy-deep-dive/",
+    "pass": 3
+   },
+   {
+    "quote": "Recurring revenue and strong retention can compound growth.",
+    "url": "https://www.indianstartuptimes.com/startup-deep-dive/saleshandy-deep-dive/",
+    "pass": 3
+   },
+   {
+    "quote": "Building trust through data protection and reliability is part of the product.",
+    "url": "https://www.indianstartuptimes.com/startup-deep-dive/saleshandy-deep-dive/",
+    "pass": 3
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "Stop Overpaying for Email & Phone Data: Get Real-time Verified Data at Half the Price",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Already spent $200+ on domains. Haven’t sent a single email yet.",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "your emails landed in spam.",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Inbuilt Email Infra Setup",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Domains. Email Accounts. Ready to send.",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "852M+ contacts across 42M+ companies with 50+ buying signals.Filter by industry, revenue, lookalikes, and tech stack. Every email is verified before sending.",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Build multi-step sequences across email, calls, LinkedIn, WhatsApp, and custom tasks. AI writes your copy, sends the right follow-ups. If they don't reply, it automatically tries another channel.",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Follow-up email #1",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Warmup runs automatically in the background. Domain health, DKIM/DMARC checks, inbox placement testing. So you always know where your emails land.",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Every reply from every account in one place. Built-in CRM to email, call, log notes, and close deals, all from the prospect's card.",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The future of cold email tools has arrived. The simplicity and straightforwardness of the product are great.",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "One of the simplest cold email automation platforms with good pricing. Customer support is highly helpful.",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "The perfect outreach platform for our business. You can add unlimited email accounts to increase volume at any scale.",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Unified Inbox simplified by workflow and saved a lot of time for me. Saleshandy helped me in reaching out to new clients without any additional costs and add as many email accounts as possible for better deliverability. Also, the Unified inbox simplified my day-to-day process as I can access all my inboxes in my place rather than going to different accounts separately.",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Saleshandy has been the perfect tool to help our sales teams up their game. We've used a few others tools before, but so far, Saleshandy has been the most reliable and professional tool for our new cold outreach systems. It's more than just a warm-up and email tool; there are lots of useful features. We have seen our responses and conversions increase since we implemented Saleshandy.",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "There are two things I like best about Saleshandy. All the necessary tools to execute and optimize cold email outreach are there. Setting up is straightforward and pretty easy. Starting with email warm-up, upload your list, create templates and sequences, run them, and analyze the reports. Furthermore, go in the settings and tweak them to best match your prospects' behaviors for the best results.",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Pretty Handy for Sales. I like there three things the best: Unlimited email sending, the feature to see the data sent, and the open rate, I can reuse the sequence which performed well and modify the sequence which is not working so well.",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Saleshandy, all in one platform! Saleshandy provides us ease of use with the creation of emails that help us to complete our prospecting tasks in minimum time. It provides us with friendly features which help us to collaborate with our team anytime and anywhere.",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Saleshandy is a comprehensive sales tool that has helped our team improve our communication with prospects and customers. One of the standout features of Saleshandy is the ability to track email activity, including when emails are opened and clicked on. This has helped us identify which messages are resonating with our audience and adjust our approach accordingly.",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Run high-volume multichannel sequences across email and calls. AI writes your copy. Unified inbox manages every reply.",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Find leads, reach them across email, calls, and LinkedIn, and close deals from one platform. No team of 10 required.",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Source candidates at scale. Reach them across email, calls, and LinkedIn, with personalized sequences. Fill roles faster.",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Saleshandy combines lead discovery, automated outreach, and deliverability in one platform. Find prospects from a 852M+ contact database, create personalized email sequences with AI, and let automated follow-ups do the chasing, so you focus on closing, not sending.",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Find leads, automate email sequences, and manage deals, all from one platform. Free for 7 days.",
+    "url": "https://www.saleshandy.com/",
+    "pass": 1
+   },
+   {
+    "quote": "Revity Marketing Agency is a dynamic digital marketing firm specializing in email marketing, SEO, and social media advertising. Boasting over 90% positive feedback, clients commend their impactful email strategies and efficient project management. Nearly 75% of reviews emphasize their commitment to aligning marketing with brand goals, driving enhanced online visibility and sales.",
+    "url": "https://www.saleshandy.com/agencies/lead-generation",
+    "pass": 1
+   },
+   {
+    "quote": "Visible Factors is a dynamic agency specializing in email marketing and digital advertising. With a perfect 100% positive feedback rating, clients consistently highlight their expertise in developing and executing email marketing programs. Notably, 80% of reviewers commend their proactive communication and innovative strategies that boost customer engagement and retention.",
+    "url": "https://www.saleshandy.com/agencies/lead-generation",
+    "pass": 1
+   },
+   {
+    "quote": "NU Media Edge provides a comprehensive suite of digital marketing services, including email marketing, paid advertising, and social media strategies. Clients praise the company for its swift communication, transparency, and expertise in fostering business growth, leading to notable sales increases. They are known for timely project delivery and outstanding results.",
+    "url": "https://www.saleshandy.com/agencies/lead-generation",
+    "pass": 1
+   },
+   {
+    "quote": "Solitude Marketing, a boutique email marketing firm, was founded in 2023. We specialize in targeted Email Marketing and SEO services, delivering personalized strategies for small businesses to drive digital growth and engagement.",
+    "url": "https://www.saleshandy.com/agencies/lead-generation",
+    "pass": 1
+   },
+   {
+    "quote": "Melleka Marketing is a digital marketing agency that helps businesses grow through SEO, Google Ads, email marketing and website design. Their goal is to boost online visibility and attract more customers. Clients appreciate the strong results, including higher returns and more organic leads. They also value the team’s quick communication, friendly approach, and teamwork-driven culture.",
+    "url": "https://www.saleshandy.com/agencies/lead-generation",
+    "pass": 1
+   },
+   {
+    "quote": "MAIUS is a dynamic marketing agency focused on email marketing and brand development. Client feedback reveals 100% satisfaction, praising their exceptional project management and impressive results, such as a 3x revenue increase. Clients value MAIUS's professional communication and streamlined strategies, highlighting their email engagement tactics and marketing expertise as standout strengths.",
+    "url": "https://www.saleshandy.com/agencies/lead-generation",
+    "pass": 1
+   },
+   {
+    "quote": "Stop Overpaying for Email & Phone Data: Get Real-time Verified Data at Half the Price",
+    "url": "https://www.saleshandy.com/industries/recruitment-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Still chasing candidates with one-off emails?",
+    "url": "https://www.saleshandy.com/industries/recruitment-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Reach out to a large number of candidates at once and pique their interest by sending them personalized emails.",
+    "url": "https://www.saleshandy.com/industries/recruitment-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Reach different prospects in different industries and develop your network with personalized email sequences. Automated follow-up steps help your prospects know the industry needs and new possible candidates, reaching out to you.",
+    "url": "https://www.saleshandy.com/industries/recruitment-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Saleshandy provides us ease of use with email creation that helps us",
+    "url": "https://www.saleshandy.com/industries/recruitment-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "One of the simplest cold email automation platforms.",
+    "url": "https://www.saleshandy.com/industries/recruitment-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Personalized emails got 40% reply rates",
+    "url": "https://www.saleshandy.com/industries/recruitment-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Saleshandy is a leading B2B lead generation platform offering: Access to over 700 million verified B2B contacts Personalized campaigns at scale Tools for improved email Deliverability. Founded in 2015, Saleshandy serves over 10,000 customers and has been ranked among the top 5 Outreach & Sales Engagement Software by G2.",
+    "url": "https://www.saleshandy.com/industries/recruitment-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Stop Overpaying for Email & Phone Data: Get Real-time Verified Data at Half the Price",
+    "url": "https://www.saleshandy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Find verified leads, send personalized cold emails, and warm up inboxes with no metered credits.",
+    "url": "https://www.saleshandy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Total emails you can send each month across all your connected mailboxes.",
+    "url": "https://www.saleshandy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Reach prospects across email, calls, LinkedIn, and WhatsApp, plus manual tasks you can assign to SDRs, all in one sequence.",
+    "url": "https://www.saleshandy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "A fresh batch of credits each month. On annual billing your full year is deposited upfront instead. 1 credit reveals a verified email; 6 reveal a phone number.",
+    "url": "https://www.saleshandy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "We reveal the prospect's verified work email, querying Saleshandy, Prospeo, RocketReach, Findymail, Enrich.so and Scalelist in sequence until one returns a match, then verifying it through ZeroBounce and BounceBan. Catchall verification is included at no extra credit cost.",
+    "url": "https://www.saleshandy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "1 credit / verified email",
+    "url": "https://www.saleshandy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "All 8 providers checked, email verified, then delivered, all for a single credit. No separate enrichment or verification credits.",
+    "url": "https://www.saleshandy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "One credit covers the whole job. $0 for unverified emails.",
+    "url": "https://www.saleshandy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Revealing a phone number reveals the verified work email as well. The two together cost 7 credits: 6 for the phone and 1 for the email.",
+    "url": "https://www.saleshandy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Every plan gets email support and the in-app AI assistant. Pro adds live chat, and Scale moves to the front of the queue with video calls when you need one.",
+    "url": "https://www.saleshandy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "AI assistant in the app, plus email support from our team.",
+    "url": "https://www.saleshandy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Look-alike secondary domains and mailboxes that mirror your primary domain, so you scale cold email without risking your main domain's reputation. Every mailbox ships pre-configured with SPF, DKIM, and DMARC, so there's nothing for your team to set up.",
+    "url": "https://www.saleshandy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Your domain renews once a year, while your mailboxes renew every quarter. Your mailbox price stays the same with each quarterly renewal. When your domain renews each year, the domain and mailbox prices may be updated based on the email provider's rates at that time.",
+    "url": "https://www.saleshandy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Email Infrastructure is an add-on subscription that you purchase separately. It gives you ready-to-use domains and mailboxes for sending cold emails, helping you send at scale without putting your main company domain at risk.",
+    "url": "https://www.saleshandy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Total emails you can send each month across all mailboxes.",
+    "url": "https://www.saleshandy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "10 Email Accounts",
+    "url": "https://www.saleshandy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "100 Email Accounts",
+    "url": "https://www.saleshandy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "1000 Email Accounts",
+    "url": "https://www.saleshandy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Unlimited 1:1 Email Tracking",
+    "url": "https://www.saleshandy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Track opens, clicks, and replies on every one-to-one email.",
+    "url": "https://www.saleshandy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Let AI write multiple versions of each email to test what converts.",
+    "url": "https://www.saleshandy.com/pricing",
+    "pass": 1
+   }
+  ],
+  "製造業の実績": [
+   {
+    "quote": "Trusted by the top companies in the world",
+    "url": "https://www.saleshandy.com/industries/recruitment-agencies",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 25,000+ growing businesses",
+    "url": "https://www.saleshandy.com/pricing",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the top companies in the world",
+    "url": "https://www.saleshandy.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Used by 10,000 businesses to generate $150M+ in revenue",
+    "url": "https://www.saleshandy.com/white-label",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the top companies in the world",
+    "url": "https://www.saleshandy.com/agency",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the top companies in the world",
+    "url": "https://www.saleshandy.com/industries/saas",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by the top companies in the world",
+    "url": "https://www.saleshandy.com/industries/it-services",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 25,000+ businesses",
+    "url": "https://www.saleshandy.com/company-email-finder",
+    "pass": 1
+   },
+   {
+    "quote": "Trusted by 25,000+ businesses worldwide",
+    "url": "https://www.saleshandy.com/lead-finder",
+    "pass": 1
+   },
+   {
+    "quote": "LeadRoad Case Study: 25-35 Meetings a Month | Saleshandy",
+    "url": "https://www.saleshandy.com/case-studies/leadroad",
+    "pass": 1
+   },
+   {
+    "quote": "BraevenSolutions Case Study: 2x Sales Quota | Saleshandy",
+    "url": "https://www.saleshandy.com/case-studies/braeven-solutions",
+    "pass": 1
+   },
+   {
+    "quote": "hotLead Case Study: 2x Revenue in a Year | Saleshandy",
+    "url": "https://www.saleshandy.com/case-studies/hotlead",
+    "pass": 1
+   },
+   {
+    "quote": "Omni Online Case Study: Scaling Cold Email | Saleshandy",
+    "url": "https://www.saleshandy.com/case-studies/omnionline",
+    "pass": 1
+   },
+   {
+    "quote": "Sedin Case Study: 60+ Clients & $9M With Saleshandy",
+    "url": "https://www.saleshandy.com/case-studies/sedin-technologies",
+    "pass": 1
+   },
+   {
+    "quote": "Opslyft Case Study: 15 High-Ticket Meetings | Saleshandy",
+    "url": "https://www.saleshandy.com/case-studies/opslyft",
+    "pass": 1
+   },
+   {
+    "quote": ". One case study highlighted a",
+    "url": "https://sales-mind.ai/en/blog/post/white-label-lead-gen-platforms-saas-launch",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "Saleshandy とは？ | 機能や料金 - キャプテラ — Saleshandy とは？ | 機能や料金 - キャプテラ capterra.jp https://www.capterra.jp > ... > Saleshandy",
+    "url": "https://www.capterra.jp/software/177200/saleshandy",
+    "pass": 3
+   },
+   {
+    "quote": "Saleshandy とは？機能・特徴・提供形態 — Saleshandy とは？機能・特徴・提供形態 grip space https://n.marketing-labo.jp > product > saleshandy",
+    "url": "https://n.marketing-labo.jp/product/saleshandy/",
+    "pass": 3
+   },
+   {
+    "quote": "Saleshandy : All-in-one Cold Outreach Platform — Saleshandy : All-in-one Cold Outreach Platform Saleshandy https://www.saleshandy.com",
+    "url": "https://www.saleshandy.com/",
+    "pass": 3
+   },
+   {
+    "quote": "Saleshandy - Google Play のアプリ — Saleshandy - Google Play のアプリ Google Play https://play.google.com > store > apps > details > id=com.i...",
+    "url": "https://play.google.com/store/apps/details?id=com.ikigai.saleshandy&hl=ja",
+    "pass": 3
+   },
+   {
+    "quote": "About Us - Saleshandy — About Us - Saleshandy Saleshandy https://www.saleshandy.com > about-us",
+    "url": "https://www.saleshandy.com/about-us",
+    "pass": 3
+   },
+   {
+    "quote": "We Analyzed 200+ Saleshandy Reviews: Here's Our Findings — We Analyzed 200+ Saleshandy Reviews: Here's Our Findings Mailforge https://www.mailforge.ai > blog > sale...",
+    "url": "https://www.mailforge.ai/blog/saleshandy-reviews",
+    "pass": 3
+   },
+   {
+    "quote": "Saleshandy review (2026): 26-step sequences and the 2 limits ... — Saleshandy review (2026): 26-step sequences and the 2 limits ... Lemlist https://www.lemlist.com > Blog",
+    "url": "https://www.lemlist.com/blog/saleshandy-review",
+    "pass": 3
+   },
+   {
+    "quote": "Saleshandy - LinkedIn — Saleshandy - LinkedIn LinkedIn India https://in.linkedin.com > saleshandy",
+    "url": "https://in.linkedin.com/company/saleshandy",
+    "pass": 3
+   },
+   {
+    "quote": "SalesHandy Review 2026: Pricing, Features, Pros & Cons — SalesHandy Review 2026: Pricing, Features, Pros & Cons SalesHive https://saleshive.com > saleshandy",
+    "url": "https://saleshive.com/vendors/saleshandy",
+    "pass": 3
+   },
+   {
+    "quote": "Case Studies from Saleshandy — Case Studies from Saleshandy Saleshandy https://www.saleshandy.com > case-st...",
+    "url": "https://www.saleshandy.com/case-studies",
+    "pass": 3
+   },
+   {
+    "quote": "White - label Solution - Saleshandy — White - label Solution - Saleshandy Saleshandy https://www.saleshandy.com > white-l...",
+    "url": "https://www.saleshandy.com/white-label",
+    "pass": 3
+   },
+   {
+    "quote": "Enhance Your Brand Identity with Saleshandy's White Label ... — Enhance Your Brand Identity with Saleshandy's White Label ... Saleshandy https://docs.saleshandy.com > articles",
+    "url": "https://docs.saleshandy.com/en/articles/9439052-enhance-your-brand-identity-with-saleshandy-s-white-label-feature",
+    "pass": 3
+   },
+   {
+    "quote": "SalesHandy Revenue 2023: $1M Est. - GetLatka — SalesHandy Revenue 2023: $1M Est. - GetLatka GetLatka https://getlatka.com > saleshandy",
+    "url": "https://getlatka.com/companies/saleshandy",
+    "pass": 3
+   },
+   {
+    "quote": "SalesHandy's Competitors, Revenue , Number of Employees ... — SalesHandy's Competitors, Revenue , Number of Employees ... Owler https://www.owler.com > saleshandy",
+    "url": "https://www.owler.com/company/saleshandy",
+    "pass": 3
+   },
+   {
+    "quote": "Saleshandy - 2026 Company Profile & Team - Tracxn — Saleshandy - 2026 Company Profile & Team - Tracxn Tracxn https://tracxn.com > ... > Companies",
+    "url": "https://tracxn.com/d/companies/saleshandy/__B-N058VQJZV__ufPVrKYWNuDFn-PFu1ZmVOibEk5M0M",
+    "pass": 3
+   },
+   {
+    "quote": "SalesHandy Startup Deep Dive: Business Model, Funding , Risks — SalesHandy Startup Deep Dive: Business Model, Funding , Risks Indian Startup Times https://www.indianstartuptimes.com > ...",
+    "url": "https://www.indianstartuptimes.com/startup-deep-dive/saleshandy-deep-dive/",
+    "pass": 3
+   },
+   {
+    "quote": "6 Best Lead Finder Software for Financial Services Firms [2026] — 6 Best Lead Finder Software for Financial Services Firms [2026] Saleshandy https://www.saleshandy.com > blog",
+    "url": "https://www.saleshandy.com/blog/lead-finder-software/",
+    "pass": 3
+   }
+  ],
+  "日本の担い手": [
+   {
+    "quote": "Saleshandy は、企業や代理店が非常にパーソナライズされた電子メールで潜在顧客を獲得し育成できるようにする Cold Email Outreach プラットフォームです",
+    "url": "https://play.google.com/store/apps/details?id=com.ikigai.saleshandy&hl=ja",
+    "pass": 3
+   }
+  ],
+  "SNS・note（X・検索結果の抜粋）": [
+   {
+    "quote": "Saleshandy - X Saleshandy - X X https://x.com > saleshandy",
+    "url": "https://x.com/saleshandy",
+    "pass": 3
+   }
+  ],
+  "SNS・note（LinkedIn・検索結果の抜粋）": [
+   {
+    "quote": "Saleshandy - LinkedIn Saleshandy - LinkedIn LinkedIn India https://in.linkedin.com > saleshandy",
+    "url": "https://in.linkedin.com/company/saleshandy",
+    "pass": 3
+   },
+   {
+    "quote": "Dhruv Patel - Co-founder @ Saleshandy - LinkedIn Dhruv Patel - Co-founder @ Saleshandy - LinkedIn LinkedIn https://www.linkedin.com > dhruvikigai",
+    "url": "https://www.linkedin.com/in/dhruvikigai",
+    "pass": 3
+   },
+   {
+    "quote": "Why I chose Saleshandy over other email outreach tools Why I chose Saleshandy over other email outreach tools LinkedIn https://www.linkedin.com > posts > le...",
+    "url": "https://www.linkedin.com/posts/leadgenmanthan_why-i-chose-saleshandy-over-15-other-email-activity-7383817924311969792-uaGl",
+    "pass": 3
+   },
+   {
+    "quote": "Piyush Patel - Co-founder at Saleshandy . - LinkedIn Piyush Patel - Co-founder at Saleshandy . - LinkedIn LinkedIn India https://in.linkedin.com > piyushnp",
+    "url": "https://in.linkedin.com/in/piyushnp",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "Saleshandy - Facebook Saleshandy - Facebook Facebook https://www.facebook.com > ... > Brand > Product/service",
+    "url": "https://www.facebook.com/saleshandy/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.saleshandy.com/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saleshandy.com/agencies/lead-generation",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saleshandy.com/industries/recruitment-agencies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saleshandy.com/pricing",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saleshandy.com/white-label",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saleshandy.com/agency",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saleshandy.com/industries/saas",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saleshandy.com/industries/it-services",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saleshandy.com/company-email-finder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saleshandy.com/case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saleshandy.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saleshandy.com/become-an-agency-partner",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saleshandy.com/about-us",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saleshandy.com/lead-finder",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saleshandy.com/case-studies/leadroad",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saleshandy.com/case-studies/braeven-solutions",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saleshandy.com/case-studies/hotlead",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saleshandy.com/case-studies/omnionline",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saleshandy.com/case-studies/sedin-technologies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.saleshandy.com/case-studies/opslyft",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.saleshandy.com/images/logos/godaddy.svg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.saleshandy.com/_next/image?url=%2Fimages%2Flogos%2Fcloudtalk.png&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.saleshandy.com/_next/image?url=%2Fimages%2Flogos%2Fvroozi.png&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.saleshandy.com/_next/image?url=%2Fimages%2Flogos%2Fintegrately.png&w=3840&q=75",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://www.capterra.jp/software/177200/saleshandy",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://www.stellantis.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://trafficnews.jp/post/725198",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://play.google.com/store/apps/details?id=com.ikigai.saleshandy&hl=ja",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.mailforge.ai/blog/saleshandy-reviews",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.lemlist.com/blog/saleshandy-review",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://in.linkedin.com/company/saleshandy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.conveyormg.com/resources/blogs/creating-manufacturing-case-studies",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://inspeerity.com/blog/after-sales-service-in-manufacturing-a-porsche-case-study/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.linkedin.com/top-content/innovation/innovation-in-manufacturing-processes/case-studies-on-successful-manufacturing-innovations/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://docs.saleshandy.com/en/articles/9439052-enhance-your-brand-identity-with-saleshandy-s-white-label-feature",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://sales-mind.ai/en/blog/post/white-label-lead-gen-platforms-saas-launch",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.salesforge.ai/blog/white-label-software",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://getlatka.com/companies/saleshandy",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.owler.com/company/saleshandy",
+    "status": "http_403",
+    "method": "http"
+   },
+   {
+    "url": "https://tracxn.com/d/companies/saleshandy/__B-N058VQJZV__ufPVrKYWNuDFn-PFu1ZmVOibEk5M0M",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.indianstartuptimes.com/startup-deep-dive/saleshandy-deep-dive/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://x.com/saleshandy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/saleshandy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/in/dhruvikigai",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.linkedin.com/posts/leadgenmanthan_why-i-chose-saleshandy-over-15-other-email-activity-7383817924311969792-uaGl",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/in/piyushnp",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/saleshandy/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://in.linkedin.com/company/saleshandy",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://x.com/saleshandy",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "Saleshandy 日本 導入",
+   "results": [
+    "https://www.capterra.jp/software/177200/saleshandy",
+    "https://www.stellantis.jp/",
+    "https://car.watch.impress.co.jp/docs/news/2153280.html",
+    "https://trafficnews.jp/post/725198",
+    "https://n.marketing-labo.jp/product/saleshandy/",
+    "https://www.aba-j.or.jp/info/industry/20087/",
+    "https://bestcarweb.jp/news/entame/1669612",
+    "https://www.stellantis-campaign.jp/",
+    "https://www.itreview.jp/products/saleshandy/profile",
+    "https://www.saleshandy.com/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  },
+  {
+   "query": "Saleshandy 代理店 OR 総代理店 OR 日本法人",
+   "results": [
+    "https://www.saleshandy.com/",
+    "https://play.google.com/store/apps/details?id=com.ikigai.saleshandy&hl=ja",
+    "https://www.saleshandy.com/about-us",
+    "https://www.jetro.go.jp/world/qa/04A-000912.html",
+    "https://www.bgent.net/plus/article/7044",
+    "https://n.marketing-labo.jp/product/saleshandy/",
+    "https://www.youtube.com/watch?v=DBK9vqrcDaY",
+    "https://growth-dx.com/column/agency_dealer/",
+    "https://dairitenboshu.com/",
+    "https://kathalo.com/kathalog/import-business/1027/"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Saleshandy Japan",
+   "results": [
+    "https://www.saleshandy.com/",
+    "https://www.mailforge.ai/blog/saleshandy-reviews",
+    "https://www.lemlist.com/blog/saleshandy-review",
+    "https://in.linkedin.com/company/saleshandy",
+    "https://saleshive.com/vendors/saleshandy",
+    "https://www.capterra.com/p/177200/SalesHandy/",
+    "https://pipeline.zoominfo.com/sales/saleshandy-alternatives",
+    "https://www.youtube.com/watch?v=diQE3GdyPU4&vl=ja",
+    "https://x.com/saleshandy",
+    "https://www.saleshandy.com/lead-finder"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Saleshandy manufacturing customer case study",
+   "results": [
+    "https://www.saleshandy.com/case-studies",
+    "https://www.conveyormg.com/resources/blogs/creating-manufacturing-case-studies",
+    "https://inspeerity.com/blog/after-sales-service-in-manufacturing-a-porsche-case-study/",
+    "https://www.linkedin.com/top-content/innovation/innovation-in-manufacturing-processes/case-studies-on-successful-manufacturing-innovations/",
+    "https://www.renishaw.com/en/additive-manufacturing-case-studies--44452?srsltid=AYCX9vJw14_n27P5kpS3ANVVB87dtExeLzbLsySv25ZRMjO91wTkTDo5",
+    "https://www.salesforce.com/customer-stories/",
+    "https://663810.fs1.hubspotusercontent-na1.net/hubfs/663810/2022%20-%20CLEVR%20Success%20Stories%20EBooks/CLEVR%20Success%20Stories%20-%20Manufacturing%20-%20ENG.pdf",
+    "https://www.pf1.ai/blogs/case-study-examples",
+    "https://www.mailforge.ai/blog/saleshandy-reviews",
+    "https://www.saleshandy.com/case-studies/sedin-technologies"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Saleshandy white label OR reseller OR partner program",
+   "results": [
+    "https://www.saleshandy.com/white-label",
+    "https://docs.saleshandy.com/en/articles/9439052-enhance-your-brand-identity-with-saleshandy-s-white-label-feature",
+    "https://sales-mind.ai/en/blog/post/white-label-lead-gen-platforms-saas-launch",
+    "https://www.salesforge.ai/blog/white-label-software",
+    "https://www.reddit.com/r/Entrepreneur/comments/14u3mg1/why_dont_more_people_run_a_white_label_software/",
+    "https://sales-label.com/blog/white-label-saas-reseller",
+    "https://trillet.ai/blogs/best-white-label-reseller-programs-2026",
+    "https://bidscube.com/blog/how-to-choose-white-label-reseller-program/",
+    "https://www.youtube.com/watch?v=AMYjabw_oEA"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "Saleshandy founded funding employees revenue",
+   "results": [
+    "https://getlatka.com/companies/saleshandy",
+    "https://www.owler.com/company/saleshandy",
+    "https://tracxn.com/d/companies/saleshandy/__B-N058VQJZV__ufPVrKYWNuDFn-PFu1ZmVOibEk5M0M",
+    "https://www.indianstartuptimes.com/startup-deep-dive/saleshandy-deep-dive/",
+    "https://www.saleshandy.com/blog/lead-finder-software/",
+    "https://www.zoominfo.com/c/saleshandy/373288788",
+    "https://growjo.com/company/SalesHandy",
+    "https://www.capterra.com/p/177200/SalesHandy/",
+    "https://www.linkedin.com/in/dhruvikigai"
+   ],
+   "engines": [
+    "yahoo_jp"
+   ],
+   "n_hits": 9
+  },
+  {
+   "query": "site:note.com Saleshandy",
+   "results": [
+    "https://note.com/taka8109/n/nf5a1239d020a?hl=en",
+    "https://note.com/sato_at/n/nbdf6aca76ab8",
+    "https://note.com/awesome_engineer/n/n596b6ed87c37",
+    "https://note.com/tag/禍話リライト",
+    "https://note.com/info/n/na3ee8aa8b3a8",
+    "https://note.com/beloved_tomoka/n/n45422176c50e",
+    "https://note.com/spaceygoblin/n/n0f0677188638",
+    "https://note.com/akih/n/n6cc428c21d80",
+    "https://note.com/quruli/n/n35d2b6cdc37a",
+    "https://note.com/yuyadachi/n/n509ef67b2d6c"
+   ],
+   "engines": [
+    "ddgs:yahoo",
+    "yahoo_jp"
+   ],
+   "n_hits": 10
+  },
+  {
+   "query": "site:x.com Saleshandy",
+   "results": [
+    "https://x.com/saleshandy",
+    "https://x.com/piyushnp/status/2103181381803315690",
+    "https://x.com/piyushnp/status/2114701088524038275",
+    "https://x.com/piyushnp/status/2113494210213281973",
+    "https://x.com/piyushnp/status/2107345156081062084",
+    "https://x.com/piyushnp/status/2105851907084595583",
+    "https://x.com/piyushnp/status/2105180333956346064",
+    "https://x.com/piyushnp/status/2115127074444980625",
+    "https://x.com/piyushnp/status/2108954144686105064",
+    "https://x.com/saleshandy/status/1612480372524175362"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "site:linkedin.com Saleshandy",
+   "results": [
+    "https://in.linkedin.com/company/saleshandy",
+    "https://www.linkedin.com/in/dhruvikigai",
+    "https://www.linkedin.com/posts/leadgenmanthan_why-i-chose-saleshandy-over-15-other-email-activity-7383817924311969792-uaGl",
+    "https://in.linkedin.com/in/piyushnp",
+    "https://in.linkedin.com/in/aayushi-tanwar-1a543123b",
+    "https://in.linkedin.com/in/anilsalvi",
+    "https://in.linkedin.com/jobs/view/technical-product-manager-email-deliverability-infrastructure-at-saleshandy-at-saleshandy-4417614256",
+    "https://in.linkedin.com/in/jagdeepsingh25",
+    "https://www.linkedin.com/pulse/how-do-email-deliverability-audit-what-tools-use-saleshandy-r4xhc",
+    "https://www.linkedin.com/posts/saleshandy_welcometotheteam-salescareers-newjoinee-activity-6965216132978888704-j1lT"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 12
+  },
+  {
+   "query": "site:facebook.com Saleshandy",
+   "results": [
+    "https://www.facebook.com/saleshandy/",
+    "https://www.facebook.com/JynellYourVABuddy/posts/cold-client-outreach-version-5-tool-is-almost-completea-tool-that-hunts-client-w/1160399523399845/",
+    "https://www.facebook.com/designmodo/posts/need-a-reminder-email-without-rebuilding-the-launch-in-postcards-open-the-emails/1453897050261333/",
+    "https://www.facebook.com/fb-answers/best-cold-email-platforms/?locale=tr_TR",
+    "https://www.facebook.com/saleshandy/videos/office-365-emails-not-sending-your-smtp-setup-is-probably-wrongsetting-up-office/784564494005834/",
+    "https://www.facebook.com/saleshandy/videos/-missed-call-from-an-unknown-numberdont-panic-dont-call-back-dont-guessheres-the/1662715815106403/",
+    "https://www.facebook.com/upleadhq/",
+    "https://www.facebook.com/primeclubofficial/",
+    "https://www.facebook.com/groups/aisaas/posts/4240740836245299/",
+    "https://www.facebook.com/saleshandy/videos/saleshandy-helps-you-close-more-deals-so-you-can-skip-the-mandatory-sales-traini/2632573260521432/"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Saleshandy note 社長",
+   "results": [
+    "https://www.saleshandy.com/about-us",
+    "https://x.com/sadaaki",
+    "https://note.com/saleseed/m/meec5f1d07b34",
+    "https://in.linkedin.com/company/saleshandy",
+    "https://online.nikkei-cnbc.co.jp/vod/65359",
+    "https://note.jp/n/neb4da3c9a8b5",
+    "https://note.com/note_ir/n/n722b1675e9e7",
+    "https://diamond.jp/articles/-/388572",
+    "https://froggy.smbcnikko.co.jp/writer/sadaaki-kato/",
+    "https://ja.wikipedia.org/wiki/加藤貞顕"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 15
+  },
+  {
+   "query": "Saleshandy X 投稿",
+   "results": [
+    "https://x.com/saleshandy",
+    "https://developer.saleshandy.com/api-reference/introduction",
+    "https://www.clay.com/integrations/data-provider/saleshandy",
+    "https://www.lemlist.com/blog/saleshandy-review",
+    "https://www.mailforge.ai/blog/saleshandy-reviews",
+    "https://www.facebook.com/saleshandy/",
+    "https://www.salesforge.ai/blog/saleshandy-review",
+    "https://www.youtube.com/watch?v=LoE2684FI7k",
+    "https://www.saleshandy.com/",
+    "https://www.saleshandy.com/login"
+   ],
+   "engines": [
+    "ddgs:google",
+    "yahoo_jp"
+   ],
+   "n_hits": 14
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部27頁・検索12回）",
+  "料金": "記載なし（3回確認済み：公式20頁／PDF・画像4件／外部27頁・検索12回）"
+ }
+}

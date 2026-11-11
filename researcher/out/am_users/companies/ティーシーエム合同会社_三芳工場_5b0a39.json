@@ -1,0 +1,403 @@
+{
+ "name": "ティーシーエム合同会社 三芳工場",
+ "aliases": [],
+ "context": "ipros_all:試作",
+ "researched_at": "2026-11-11T11:00:29.507967+00:00",
+ "official_url": "https://tokyo-composite.co.jp",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代表者",
+    "value": "松岡 幹人（まつおか みきひと）",
+    "url": "https://tokyo-composite.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "炭素繊維複合材（CFRP/CFRTP）成形 試験片製作，評価試験，非破壊検査（超音波探傷検査） 研究開発請負・コンサルティング 試作成形 CFRP構造設計・構造解析 治具、設備機器の設計 3Dモデルデータ作成・3Dプリンティング",
+    "url": "https://tokyo-composite.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "所在地": [
+   {
+    "label": "所在地",
+    "value": "■本店 〒184-0003　東京都小金井市梶野町1-2-36 東小金井事業創造センター KO-TO内 ■三芳事業所 〒354-0045　埼玉県入間郡三芳町上冨1551-92",
+    "url": "https://tokyo-composite.co.jp/company/",
+    "pass": 1
+   }
+  ],
+  "取引先": [
+   {
+    "label": "主要取引先",
+    "value": "・宇宙航空研究開発機構（ＪＡＸＡ） ・東京大学 ・東京農工大学　ほか",
+    "url": "https://tokyo-composite.co.jp/company/",
+    "pass": 1
+   }
+  ]
+ },
+ "evidence": {
+  "取扱材料": [
+   {
+    "quote": "ティーシーエム合同会社 | TCM | CFRP/CFRTP 試験片 非破壊検査 超音波探傷 NDI 評価試験 特注試験片 供試体 高耐熱CFRP",
+    "url": "https://tokyo-composite.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは炭素繊維複合材（CFRP）の成形・設計・開発を行っています",
+    "url": "https://tokyo-composite.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "炭素繊維複合材は劇的な軽量化をもたらす先端素材として、航空機・宇宙機・レーシングマシン",
+    "url": "https://tokyo-composite.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "れているCFRPのリサイクルにも目を背けてはなりません",
+    "url": "https://tokyo-composite.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "炭素繊維複合材（CFRP/CFRTP）成形",
+    "url": "https://tokyo-composite.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPは成形条件によって物性が変化してしまうほか、切出し精度を含めて",
+    "url": "https://tokyo-composite.co.jp/project/",
+    "pass": 1
+   },
+   {
+    "quote": "超音波探傷器でCFRP/CFRTP板の健全性を確認します",
+    "url": "https://tokyo-composite.co.jp/project/",
+    "pass": 1
+   },
+   {
+    "quote": "成形したCFRPは、外観では内部の様子が判断出来ません",
+    "url": "https://tokyo-composite.co.jp/project/",
+    "pass": 1
+   },
+   {
+    "quote": "JIS K 7089 「炭素繊維強化プラスチックの衝撃後圧縮試験方法（CAI）」",
+    "url": "https://tokyo-composite.co.jp/project/",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPの評価試験は、実施者によって取得データが偏りがちです",
+    "url": "https://tokyo-composite.co.jp/project/",
+    "pass": 1
+   },
+   {
+    "quote": "私たちは成形温度が400℃に迫るポリイミドを始めとした高耐熱マトリクスのCFRP成形実績が多数あります",
+    "url": "https://tokyo-composite.co.jp/project/",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPでの造形はもちろんのこと、様々なCF/マトリクス（樹脂）の組合わせによる",
+    "url": "https://tokyo-composite.co.jp/project/",
+    "pass": 1
+   },
+   {
+    "quote": "複合材料切断機／ 丸東製作所 AC-300CF",
+    "url": "https://tokyo-composite.co.jp/equipment/",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "ティーシーエム合同会社 | TCM | CFRP/CFRTP 試験片 非破壊検査 超音波探傷 NDI 評価試験 特注試験片 供試体 高耐熱CFRP",
+    "url": "https://tokyo-composite.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "標準試験片（JIS/ASTM/MILほか）・特注試験片・コンポーネント供試体 各種製作します",
+    "url": "https://tokyo-composite.co.jp/project/",
+    "pass": 1
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "炭素繊維複合材は劇的な軽量化をもたらす先端素材として、航空機・宇宙機・レーシングマシン",
+    "url": "https://tokyo-composite.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "治具、設備機器の設計",
+    "url": "https://tokyo-composite.co.jp/company/",
+    "pass": 1
+   },
+   {
+    "quote": "航空宇宙用途ではジェットエンジン・超音速機・人工衛星などで、",
+    "url": "https://tokyo-composite.co.jp/project/",
+    "pass": 1
+   },
+   {
+    "quote": "自動車ではレーシングマシンやEV化により高耐熱材料の要求が高まっています",
+    "url": "https://tokyo-composite.co.jp/project/",
+    "pass": 1
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "先端材料技術展・SAMPE Japan 2025 に出展します",
+    "url": "https://tokyo-composite.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "先端材料技術展・SAMPE Japan 2024 に出展します",
+    "url": "https://tokyo-composite.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "先端材料技術展・SAMPE Japan 2023 に出展します",
+    "url": "https://tokyo-composite.co.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "CFRPでの造形はもちろんのこと、様々なCF/マトリクス（樹脂）の組合わせによる",
+    "url": "https://tokyo-composite.co.jp/project/",
+    "pass": 1
+   },
+   {
+    "quote": "3Dプリンター（FDM）による造形をお請けします",
+    "url": "https://tokyo-composite.co.jp/project/",
+    "pass": 1
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "製品のハンドリングや設計時の形状確認など、オリジナルパーツの製作が可能です",
+    "url": "https://tokyo-composite.co.jp/project/",
+    "pass": 1
+   },
+   {
+    "quote": "データロガー付き：缶内温度、缶内圧力、真空圧力、製品温度 (2ch)",
+    "url": "https://tokyo-composite.co.jp/equipment/",
+    "pass": 1
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://tokyo-composite.co.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyo-composite.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyo-composite.co.jp/company/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyo-composite.co.jp/project/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyo-composite.co.jp/equipment/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyo-composite.co.jp/project/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tokyo-composite.co.jp/equipment/",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [],
+  "pass3": [
+   {
+    "url": "https://mono.ipros.com/company/detail/2086934/category/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2086934/catalog/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://mono.ipros.com/company/detail/2086934/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://tj-techjapan.co.jp/contact/",
+    "status": "network_error:SSLError",
+    "method": "http"
+   },
+   {
+    "url": "https://tcminc.web.fc2.com/contact.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "ティーシーエム 三芳工場 取扱製品 試作 小ロット",
+   "results": [
+    "https://mono.ipros.com/company/detail/2086934/category/",
+    "https://mono.ipros.com/company/detail/2086934/catalog/",
+    "https://tokyo-composite.co.jp/online-shop/",
+    "https://kanto-seisakusyo.jp/service/prototypes.html",
+    "https://tokyo-composite.co.jp/",
+    "https://www.u-topia.co.jp/products/low-volume-series.html",
+    "https://ja.nc-net.or.jp/company/49390/product/detail/17204/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ティーシーエム 三芳工場 会社概要 事業内容",
+   "results": [
+    "https://tokyo-composite.co.jp/company/",
+    "https://mono.ipros.com/company/detail/2086934/",
+    "https://tokyo-composite.co.jp/",
+    "https://mono.ipros.com/company/detail/2086934/category/",
+    "https://baseconnect.in/branch_offices/be555eb3-428e-4014-86b3-e41f92ebd4dd",
+    "http://tcem.co.jp/",
+    "https://tcm2023.com/company/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ティーシーエム 三芳工場 お問い合わせ メール",
+   "results": [
+    "https://tokyo-composite.co.jp/contact/",
+    "https://tj-techjapan.co.jp/contact/",
+    "https://tcminc.web.fc2.com/contact.html",
+    "http://tcm2023.com/contact/",
+    "https://t2c-inc.com/contact/",
+    "http://tcem.co.jp/お問い合わせ/",
+    "https://tcm-g.co.jp/inquiry/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com ティーシーエム 三芳工場",
+   "results": [
+    "https://note.com/toyoko0913",
+    "https://note.com/semicontimes/n/n0ec8962447d2",
+    "https://note.com/handoutainews/n/n9659b9733ac6",
+    "https://note.com/agri_journey/n/n6bb45f77c77c",
+    "https://note.com/mens_present/n/n6c81d05aacec",
+    "https://note.com/handoutainews/n/n8cba094f24b4",
+    "https://note.com/toyoko0913/n/n31081928daac"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com ティーシーエム 三芳工場",
+   "results": [
+    "https://x.com/takashipom/status/2073277526903001543",
+    "https://x.com/takashipom/status/17873350223204352",
+    "https://x.com/kenchann221/status/2032668320995197159",
+    "https://x.com/popbase/status/2115027390334386543",
+    "https://x.com/afcbournemouth/status/2114385354019184717",
+    "https://x.com/snow_tiwawan/status/2117898729038700790",
+    "https://x.com/CMT_official_PR"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com ティーシーエム 三芳工場",
+   "results": [
+    "https://jp.linkedin.com/in/matsuoka-mikihito-a89104419",
+    "https://www.linkedin.com/pub/dir/光/砂口",
+    "https://www.linkedin.com/check/en",
+    "https://jp.linkedin.com/in/光-砂口-46b209230",
+    "https://za.linkedin.com/in/laurinda-mabunda-90448a1a1",
+    "https://uk.linkedin.com/jobs/view/arts-and-culture-correspondent-at-the-guardian-4482854726",
+    "https://ca.linkedin.com/in/sonja-denobrega-8b854028"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:facebook.com ティーシーエム 三芳工場",
+   "results": [
+    "https://secure.facebook.com/login/",
+    "https://www.facebook.com/TCM.GK/",
+    "https://www.facebook.com/TCM.GK/posts/オフィシャルwebサイトを立ち上げました広くニーズに耳を傾け様々な事案に貢献できるよう努めますhttptokyo-compositecojp/2693449457369345/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/株式会社ティービーエス三芳物流-第2センター-596425567171766/",
+    "https://www.facebook.com/tbsmiyoshi/",
+    "https://www.facebook.com/tbsinc/photos/三芳第二物流センター354-0044埼玉県入間郡三芳町北永井689-1電話-049-257-5011fax-049-257-5014/576204995792839/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ティーシーエム 三芳工場 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/TCM_(企業)",
+    "https://tokyo-composite.co.jp/category/ｔｃｍお知らせ/",
+    "https://tcm2023.com/company/",
+    "https://mono.ipros.com/company/detail/2086934/",
+    "https://the-shashi.com/tse/5243/ceo/",
+    "https://tokyo-composite.co.jp/",
+    "https://www.toka-global.com/corp/about/outline.html"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "ティーシーエム 三芳工場 X 投稿",
+   "results": [
+    "https://tokyo-composite.co.jp/author/tcm/",
+    "https://tokyo-composite.co.jp/category/ｔｃｍお知らせ/",
+    "https://mono.ipros.com/company/detail/2086934/",
+    "https://baseconnect.in/branch_offices/be555eb3-428e-4014-86b3-e41f92ebd4dd",
+    "https://mono.ipros.com/en/company/detail/2086934/",
+    "https://x.com/SfactoryT/status/2120022920705802738",
+    "https://x.com/SeasideExp/status/2017562000042369081"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "従業員数": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部5頁・検索9回）",
+  "売上高": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部5頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部5頁・検索9回）",
+  "連絡先": "記載なし（3回確認済み：公式7頁／PDF・画像0件／外部5頁・検索9回）"
+ }
+}

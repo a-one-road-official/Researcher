@@ -1,0 +1,731 @@
+{
+ "name": "株式会社木下技研",
+ "aliases": [],
+ "context": "ipros_all:小ロット",
+ "researched_at": "2026-11-11T11:31:03.688954+00:00",
+ "official_url": "http://www.kinoshitagiken.jp",
+ "identified_by": "given",
+ "profile": {
+  "代表者": [
+   {
+    "label": "代 表 者",
+    "value": "代表取締役　木下義浩",
+    "url": "https://www.kinoshitagiken.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "代表者",
+    "value": "代表取締役社長　木下 義浩",
+    "url": "https://atsonic.co.jp/company",
+    "pass": 3
+   },
+   {
+    "label": "代表取締役社長",
+    "value": "木下 義浩",
+    "url": "https://atsonic.co.jp/company",
+    "pass": 3
+   }
+  ],
+  "所在地": [
+   {
+    "label": "本　　社",
+    "value": "〒 675-2365 兵庫県加西市畑町1126",
+    "url": "https://www.kinoshitagiken.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "住所",
+    "value": "兵庫県加西市畑町1126 tel. 0790-43-1158",
+    "url": "https://www.kinoshitagiken.jp/access.html",
+    "pass": 1
+   },
+   {
+    "label": "所在地",
+    "value": "本社 〒675-2365　兵庫県加西市畑町１１２６ Tel. 0790-43-1158 / Fax. 0790-43-1601 神戸ラボ 〒650-0047 兵庫県神戸市中央区港島南町１-５-１ 神戸メドテックイノベーションセンター（MIC）4F 産学共創ラボ4B Tel. 078-335-8455 / Fax. 078-335-8480",
+    "url": "https://atsonic.co.jp/company",
+    "pass": 3
+   }
+  ],
+  "従業員数": [
+   {
+    "label": "従 業 員",
+    "value": "30名",
+    "url": "https://www.kinoshitagiken.jp/company.html",
+    "pass": 1
+   },
+   {
+    "label": "従業員",
+    "value": "24名 ※2026年4月現在",
+    "url": "https://atsonic.co.jp/company",
+    "pass": 3
+   }
+  ],
+  "事業内容": [
+   {
+    "label": "事業内容",
+    "value": "医療用器具開発・製造・販売／アットソニック製品の開発・製造・販売／医療用インプラントの受託加工／産業用部品の受託加工",
+    "url": "https://atsonic.co.jp/company",
+    "pass": 3
+   }
+  ]
+ },
+ "evidence": {
+  "取扱材料": [
+   {
+    "quote": "チタン（64合金）",
+    "url": "https://www.kinoshitagiken.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "SUS630・樹脂",
+    "url": "https://www.kinoshitagiken.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "上記は弊社にて加工している代表的な材質の一部です",
+    "url": "https://www.kinoshitagiken.jp/product.html",
+    "pass": 1
+   },
+   {
+    "quote": "ホームページに掲載されていない材質でも製造して頂けますか？",
+    "url": "https://www.kinoshitagiken.jp/enterprise.html",
+    "pass": 1
+   }
+  ],
+  "一点物・少量多品種": [
+   {
+    "quote": "難加工、小ロット製造、その他商品開発など、さまざまなお客様のニーズにお答えできるよう社内では熟練の技術者、設計者が日々努力を積み重ねております",
+    "url": "https://www.kinoshitagiken.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "手術器具のオーダーメイドメーカー、木下技研",
+    "url": "https://atsonic.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "少量からオーダーメイド制作にも対応できる柔軟な体制を活かし、海外製品では対応が難しい国内医療現場の多様なニーズに応えています",
+    "url": "https://atsonic.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "また、AT！SONIK製品は試作から評価・改良を重ねることで、現場にフィットする最適な形状・仕様へと昇華させています",
+    "url": "https://atsonic.co.jp/about/",
+    "pass": 3
+   }
+  ],
+  "製品分野": [
+   {
+    "quote": "整形外科用手術器具、人工関節（インプラント）、歯科用手術器具、切削工具、ホルダー、航空機部品、海洋部品、発電機部品など、さまざまな精密加工、切削加工を得意とする会社です",
+    "url": "https://www.kinoshitagiken.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "第5回 関西医療機器開発・製造展 出展（2月4日〜6日）＠インテックス大阪",
+    "url": "https://www.kinoshitagiken.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器製造業［許可番号：28BZ006026］",
+    "url": "https://www.kinoshitagiken.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "第3種医療機器製造販売業［許可番号：28B3X00024］",
+    "url": "https://www.kinoshitagiken.jp/",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、医療機器、産業用部品、金属加工用工具の製造に係わる全ての事業活動とこれらの製品の環境影響を低減するために、",
+    "url": "https://www.kinoshitagiken.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "各種医療器具／切削工具／航空機部品／精密加工部品/その他オリジナル商品企画",
+    "url": "https://www.kinoshitagiken.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器、器具製造に参入",
+    "url": "https://www.kinoshitagiken.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器製造業［許可番号：28BZ006026］",
+    "url": "https://www.kinoshitagiken.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "第3種医療機器製造販売業［許可番号：28B3X00024］",
+    "url": "https://www.kinoshitagiken.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療機具（整形外科用手術器具、人工関節、歯科用手術器具）、産業機器部品、切削ホルダー等、さまざまな分野で貴社の製品製造をご支援します",
+    "url": "https://www.kinoshitagiken.jp/product.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器製造業［許可番号：28BZ006026］",
+    "url": "https://www.kinoshitagiken.jp/product.html",
+    "pass": 1
+   },
+   {
+    "quote": "第3種医療機器製造販売業［許可番号：28B3X00024］",
+    "url": "https://www.kinoshitagiken.jp/product.html",
+    "pass": 1
+   },
+   {
+    "quote": "ISO13485は、医療機器の設計・開発、製造、据付け及び付帯サービス並びに関連するサービスに関する要求事項を規定した品質マネジメントシステムの国際規格です",
+    "url": "https://www.kinoshitagiken.jp/enterprise.html",
+    "pass": 1
+   },
+   {
+    "quote": "この規格の要求事項に従った品質マネジメントシステムを構築・運用することで、組織の提供する医療機器の継続的な有効性や安全性が保証されます",
+    "url": "https://www.kinoshitagiken.jp/enterprise.html",
+    "pass": 1
+   },
+   {
+    "quote": "ISO13485はヨーロッパ、カナダ、韓国、台湾、オーストラリアなど多くの国で医療機器の法規制上の要求事項として採用されており、日本のQMS省令においてもISO13485の考え方が取り入れられています",
+    "url": "https://www.kinoshitagiken.jp/enterprise.html",
+    "pass": 1
+   },
+   {
+    "quote": "このように、ISO13485の認証書は、医療機器製造業者が構築した品質マネジメントシステムが規制要求事項を満たしていることを証明するだけでなく、世界の医療機器市場へ参入する際のパスポートとして欠かせないものとなっております",
+    "url": "https://www.kinoshitagiken.jp/enterprise.html",
+    "pass": 1
+   },
+   {
+    "quote": "研削盤や治具ボーラーなど様々な機械設備を導入し、充実した製作環境を完備",
+    "url": "https://www.kinoshitagiken.jp/enterprise.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器製造業［許可番号：28BZ006026］",
+    "url": "https://www.kinoshitagiken.jp/enterprise.html",
+    "pass": 1
+   },
+   {
+    "quote": "第3種医療機器製造販売業［許可番号：28B3X00024］",
+    "url": "https://www.kinoshitagiken.jp/enterprise.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療機器製造業［許可番号：28BZ006026］",
+    "url": "https://www.kinoshitagiken.jp/access.html",
+    "pass": 1
+   },
+   {
+    "quote": "第3種医療機器製造販売業［許可番号：28B3X00024］",
+    "url": "https://www.kinoshitagiken.jp/access.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療用器具開発・製造・販売／アットソニック製品の開発・製造・販売／医療用インプラントの受託加工／産業用部品の受託加工",
+    "url": "https://atsonic.co.jp/company",
+    "pass": 3
+   },
+   {
+    "quote": "少量からオーダーメイド制作にも対応できる柔軟な体制を活かし、海外製品では対応が難しい国内医療現場の多様なニーズに応えています",
+    "url": "https://atsonic.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "木下技研では、医師の声を形にする開発姿勢と、5軸加工による高精度なものづくりを両立させ、新しい技術を生み出すことで、医療現場からの信頼を築いています",
+    "url": "https://atsonic.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "こうした技術力と開発力を基盤として、弊社は独自の医療機器ブランド「アットソニック」を展開しています",
+    "url": "https://atsonic.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "アットソニックは、整形外科手術現場の声を反映し、使いやすさと安全性にこだわった製品ラインナップを揃え、医療現場の課題解決に貢献しています",
+    "url": "https://atsonic.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "医療機器の品質マネジメントシステムに関する国際規格「ISO 13485」の認証を取得しています",
+    "url": "https://atsonic.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品医療機器等法（薬機法）に基づく医療機器製造業の許可を取得しています",
+    "url": "https://atsonic.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "品質管理および製造管理体制を整備し、安全性と信頼性を重視した医療機器製造を行っています",
+    "url": "https://atsonic.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "第1種医療機器製造販売業",
+    "url": "https://atsonic.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "医薬品医療機器等法（薬機法）に基づく第1種医療機器製造販売業の許可を取得しています",
+    "url": "https://atsonic.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "QMSおよびGVP体制を整備し、医療機器の品質・有効性・安全性を確保した製造販売を行っています",
+    "url": "https://atsonic.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "木下技研が生み出した医療分野向けのオリジナルブランド",
+    "url": "https://atsonic.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "逆の発想と確かな技術で、医療現場に寄り添う製品づくりを目指します",
+    "url": "https://atsonic.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "医療の現場で求められるのは、確かな技術と信頼",
+    "url": "https://atsonic.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "「AT！SONIK（アットソニック）」は、木下技研が医療分野で培った技術と知見を結集した、自社オリジナルブランドです",
+    "url": "https://atsonic.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "整形外科用手術器具や医療用インプラントなど、実際の医療現場での使用を想定した製品を企画・設計・製造しています",
+    "url": "https://atsonic.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "製品開発は医療従事者の声を取り入れながら進め、使い勝手・安全性・長期使用に耐える品質を重視しています",
+    "url": "https://atsonic.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "医療現場で役立つ“本当に使える製品”の提供を目指しています",
+    "url": "https://atsonic.co.jp/about/",
+    "pass": 3
+   }
+  ],
+  "取扱製品": [
+   {
+    "quote": "ものづくりを通じての経験が人を育て、心のこもった製品がお客様を満足させます",
+    "url": "https://www.kinoshitagiken.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "こうして一流の製品ができると私は信じています",
+    "url": "https://www.kinoshitagiken.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "①製品要求事項、法的要求事項への適合を図ります",
+    "url": "https://www.kinoshitagiken.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "当社は、医療機器、産業用部品、金属加工用工具の製造に係わる全ての事業活動とこれらの製品の環境影響を低減するために、",
+    "url": "https://www.kinoshitagiken.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "①当社の事業活動、製品に係わる環境影響を常に認識し、環境汚染の予防を推進するとともに",
+    "url": "https://www.kinoshitagiken.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "②当社の事業活動、製品に係わる環境関連法令、その他の要求事項を遵守します",
+    "url": "https://www.kinoshitagiken.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "③当社の事業活動、製品に係わる環境影響のうち、以下の項目を環境管理重点テーマとして取り組みます",
+    "url": "https://www.kinoshitagiken.jp/company.html",
+    "pass": 1
+   },
+   {
+    "quote": "製品紹介-木下技研 精密切削加工のプロフェッショナル",
+    "url": "https://www.kinoshitagiken.jp/product.html",
+    "pass": 1
+   },
+   {
+    "quote": "医療機具（整形外科用手術器具、人工関節、歯科用手術器具）、産業機器部品、切削ホルダー等、さまざまな分野で貴社の製品製造をご支援します",
+    "url": "https://www.kinoshitagiken.jp/product.html",
+    "pass": 1
+   },
+   {
+    "quote": "ハイテク精密機器の精度を更に高めるべくその一人一人が製品を丁寧に手加工し、チェックしていきます",
+    "url": "https://www.kinoshitagiken.jp/enterprise.html",
+    "pass": 1
+   },
+   {
+    "quote": "ものづくりを通じての経験が人を育て、心のこもった製品がお客様を満足させます",
+    "url": "https://atsonic.co.jp/company",
+    "pass": 3
+   },
+   {
+    "quote": "こうして一流の製品ができると私は信じています",
+    "url": "https://atsonic.co.jp/company",
+    "pass": 3
+   },
+   {
+    "quote": "医療用器具開発・製造・販売／アットソニック製品の開発・製造・販売／医療用インプラントの受託加工／産業用部品の受託加工",
+    "url": "https://atsonic.co.jp/company",
+    "pass": 3
+   },
+   {
+    "quote": "少量からオーダーメイド制作にも対応できる柔軟な体制を活かし、海外製品では対応が難しい国内医療現場の多様なニーズに応えています",
+    "url": "https://atsonic.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "アットソニックは、整形外科手術現場の声を反映し、使いやすさと安全性にこだわった製品ラインナップを揃え、医療現場の課題解決に貢献しています",
+    "url": "https://atsonic.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "逆の発想と確かな技術で、医療現場に寄り添う製品づくりを目指します",
+    "url": "https://atsonic.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "整形外科用手術器具や医療用インプラントなど、実際の医療現場での使用を想定した製品を企画・設計・製造しています",
+    "url": "https://atsonic.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "製品開発は医療従事者の声を取り入れながら進め、使い勝手・安全性・長期使用に耐える品質を重視しています",
+    "url": "https://atsonic.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "また、AT！SONIK製品は試作から評価・改良を重ねることで、現場にフィットする最適な形状・仕様へと昇華させています",
+    "url": "https://atsonic.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "医療現場で役立つ“本当に使える製品”の提供を目指しています",
+    "url": "https://atsonic.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "当社へのご質問、製品のご相談などは",
+    "url": "https://atsonic.co.jp/contact/",
+    "pass": 3
+   }
+  ],
+  "AM関連": [
+   {
+    "quote": "また、社内にCAD/CAM専門スタッフがおりますので「こんなものできないか？？」「高品質化、短納期化、コストダウン化できないか？？」などあらゆるニーズに対応させていただくことが可能です",
+    "url": "https://www.kinoshitagiken.jp/enterprise.html",
+    "pass": 1
+   }
+  ],
+  "連絡先": [
+   {
+    "quote": "他社様に断られたものでもお気軽にお問い合わせいただければと思います",
+    "url": "https://www.kinoshitagiken.jp/enterprise.html",
+    "pass": 1
+   },
+   {
+    "quote": "お問い合わせや資料請求は、下記フォームのすべての項目にご入力のうえ、送信してください",
+    "url": "https://atsonic.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "なお、お問い合わせの内容によっては、ご返信までにお時間をいただく場合がございますので、あらかじめご了承ください",
+    "url": "https://atsonic.co.jp/contact/",
+    "pass": 3
+   }
+  ],
+  "検索結果の抜粋": [
+   {
+    "quote": "整形外科用手術器具・ボーンミル等の医療機器メーカー｜木下技研 — 株式会社木下技研（アトソニック）は、ISO13485認証取得した医療機器メーカーとして、ボーンミル、骨切りワイヤーソー、人工関節置換術用サポート器具などの 整形外科用手術器具を開発・製造し、カスタム設計やインプラントOEM製造にも対応します。",
+    "url": "http://www.kinoshitagiken.jp/",
+    "pass": 3
+   },
+   {
+    "quote": "会社情報 ｜ 株式会社木下技研 — 株式会社木下技研の会社概要・企業情報ページです。 当社はISO13485認証を取得し、整形外科用手術器具の設計開発から製造までを国内一貫体制で行う医療機器メーカーです。 長年培った確かな技術力で、医療現場の安全と発展に貢献いたします。",
+    "url": "https://atsonic.co.jp/company",
+    "pass": 3
+   },
+   {
+    "quote": "整形外科用手術器具・ボーンミル等の医療機器メーカー｜木下技研木下技研について ｜ 株式会社木下技研事業内容 | 株式会社木下技建事業内容 | 柳下技研 - yagishitagiken.jp株式会社木下技建 | 公共工事型枠工事 | Japan, Kanagawa, 横浜市株式会社木下技研 - 会社概要 — 私たちは、Dr.の欲しいをカタチにする、 手術器具のオーダーメイドメーカーです。 木下技研は、長年にわたり精密加工の現場で培ってきた技術力と対応力を基盤に、整形外科用手術器具の開発・製造に取り組む医療機器メーカーです。 手術器具のオーダーメイドメーカー、木下技研。 株式会社木下技研は、長年にわたり培ってきた精密加工技術を基盤に、整形外科用手術器具の企画・開発から製造、販売、アフターサービスまで一貫して提供する国産メーカーです。 神奈川県横浜市にある公共工事の型枠工事なら木下技建にお任せ",
+    "url": "http://www.kinoshitagiken.jp/company.html",
+    "pass": 3
+   },
+   {
+    "quote": "木下技研について ｜ 株式会社木下技研 — 手術器具のオーダーメイドメーカー、木下技研。 株式会社木下技研は、長年にわたり培ってきた精密加工技術を基盤に、整形外科用手術器具の企画・開発から製造、販売、アフターサービスまで一貫して提供する国産メーカーです。",
+    "url": "https://atsonic.co.jp/about/",
+    "pass": 3
+   },
+   {
+    "quote": "株式会社木下技研 - 会社概要 — 株式会社木下技研の事業概要 当社では、切削工具を長年手がけております。また、皆様方におかれましては、品質、短納期、低価格と苦難・苦境の状態ではと想います。 私達はそのご要望に少しでもお役に立てればと存じ、微力ながら高品位・低価格にて皆様の一助になればと日夜努力いたし ...",
+    "url": "https://www.atengineer.com/pr/kinoshitagiken/company",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ ｜ 株式会社木下技研 — Contact Form メールでのお問い合わせ お問い合わせや資料請求は、下記フォームのすべての項目にご入力のうえ、送信してください。 内容を確認後、担当者より折り返しご連絡いたします。",
+    "url": "https://atsonic.co.jp/contact/",
+    "pass": 3
+   },
+   {
+    "quote": "お問い合わせ-木下技研 精密切削加工のプロフェッショナル — 精密加工のプロフェッショナル木下技研（ISO13485認証取得）。当社は同時5軸を用いた精密加工、切削加工を得意とする当社へのお問合せはこちらから。",
+    "url": "http://www.kinoshitagiken.jp/contact.html",
+    "pass": 3
+   }
+  ],
+  "SNS・note（Facebook・検索結果の抜粋）": [
+   {
+    "quote": "木下技研工業 (株) - Facebook 木下技研工業 (株)",
+    "url": "https://www.facebook.com/木下技研工業株-757284267727112/",
+    "pass": 3
+   },
+   {
+    "quote": "木下技研工業 - Facebook 木下技研工業",
+    "url": "https://www.facebook.com/木下技研工業-303293959725515/",
+    "pass": 3
+   }
+  ]
+ },
+ "checked": {
+  "pass1": [
+   {
+    "url": "https://www.kinoshitagiken.jp/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinoshitagiken.jp/company.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinoshitagiken.jp/product.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinoshitagiken.jp/enterprise.html",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinoshitagiken.jp/access.html",
+    "status": "ok",
+    "method": "http"
+   }
+  ],
+  "pass2": [
+   {
+    "url": "https://www.kinoshitagiken.jp/images/btn_02.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kinoshitagiken.jp/images/btn_03.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kinoshitagiken.jp/images/kaishagaiyou.jpg",
+    "status": "ok",
+    "method": "ocr"
+   },
+   {
+    "url": "https://www.kinoshitagiken.jp/images/seihinshoukai.jpg",
+    "status": "ok",
+    "method": "ocr"
+   }
+  ],
+  "pass3": [
+   {
+    "url": "https://a-giken.jp/prototype-page-up/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://a-giken.jp/prototype/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://atsonic.co.jp/company",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://atsonic.co.jp/about/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://atsonic.co.jp/contact/",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.kinoshitagikenn.com/contact",
+    "status": "ok",
+    "method": "http"
+   },
+   {
+    "url": "https://www.facebook.com/木下技研工業株-757284267727112/",
+    "status": "robots_disallowed",
+    "method": ""
+   },
+   {
+    "url": "https://www.facebook.com/木下技研工業-303293959725515/",
+    "status": "robots_disallowed",
+    "method": ""
+   }
+  ]
+ },
+ "search_log": [
+  {
+   "query": "木下技研 取扱製品 試作 小ロット",
+   "results": [
+    "http://www.kinoshitagiken.jp/",
+    "https://a-giken.jp/prototype-page-up/",
+    "https://a-giken.jp/prototype/",
+    "https://mono.ipros.com/product/detail/2001547168/",
+    "https://pr.mono.ipros.com/hayashidagiken/product/detail/2001547168/",
+    "https://atsonic.co.jp/ortho/",
+    "https://kinoshita-optical.com/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "木下技研 会社概要 事業内容",
+   "results": [
+    "https://atsonic.co.jp/company",
+    "http://www.kinoshitagiken.jp/company.html",
+    "https://atsonic.co.jp/about/",
+    "https://yagishitagiken.jp/service.html",
+    "https://www.atengineer.com/pr/kinoshitagiken/company",
+    "https://www.kinoshitagikenn.com/business",
+    "https://www.kinoshitagikenn.com/"
+   ],
+   "engines": [
+    "ddgs:yahoo"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "木下技研 お問い合わせ メール",
+   "results": [
+    "https://atsonic.co.jp/contact/",
+    "http://www.kinoshitagiken.jp/contact.html",
+    "https://www.kinoshitagikenn.com/contact",
+    "https://www.kino-tec.com/contact/",
+    "http://www.kinoshita-g.co.jp/contact/",
+    "https://www.kinoshita-group.co.jp/contact/",
+    "https://kimura-giken.net/?page_id=227"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:note.com 木下技研",
+   "results": [
+    "https://note.com/alps_giken",
+    "https://note.com/shoutengai",
+    "https://note.com/kinoshita117",
+    "https://note.com/shoutengai/all",
+    "https://note.com/hiroshikinoshita/n/nad65aba5953c",
+    "https://note.com/draft_candidate/n/n498c56816f1e",
+    "https://note.com/shoutengai/n/n478c0ebea96a"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:x.com 木下技研",
+   "results": [
+    "https://x.com/kinoshitaskate",
+    "https://x.com/yosuke_kinosita",
+    "https://x.com/ayane_kinoshita/status/1400734566109700100",
+    "https://x.com/yosuke_kinosita/status/1577666172933185536",
+    "https://x.com/yosuke_kinosita/status/2013766874467598827",
+    "https://x.com/kinoppirx78",
+    "https://x.com/os_giken/status/1355722914360827905"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "site:linkedin.com 木下技研",
+   "results": [],
+   "engines": [],
+   "n_hits": 0
+  },
+  {
+   "query": "site:facebook.com 木下技研",
+   "results": [
+    "https://www.facebook.com/木下技研工業株-757284267727112/",
+    "https://www.facebook.com/木下技研工業-303293959725515/",
+    "https://lite.facebook.com/",
+    "https://www.facebook.com/takehiko.kinoshita.14/",
+    "https://www.facebook.com/木下システム技研-202991463117505/",
+    "https://www.facebook.com/hitoshi.kinoshita/",
+    "https://www.facebook.com/GIKENLTD/"
+   ],
+   "engines": [
+    "ddgs:bing"
+   ],
+   "n_hits": 7
+  },
+  {
+   "query": "木下技研 note 社長",
+   "results": [
+    "https://ja.wikipedia.org/wiki/木下勝寿",
+    "https://note.com/tag/木下社長",
+    "http://www.kinoshitagiken.jp/company.html",
+    "https://compalyze.co.jp/company/9140001076190",
+    "https://atsonic.co.jp/company",
+    "https://note.com/bright_rabbit465",
+    "https://www.kinoshitakatsuhisa.com/",
+    "https://note.com/n_takeshita/n/nf773e25839a3"
+   ],
+   "engines": [
+    "ddgs:bing",
+    "ddgs:yahoo"
+   ],
+   "n_hits": 8
+  },
+  {
+   "query": "木下技研 X 投稿",
+   "results": [
+    "http://www.kinoshitagiken.jp/",
+    "https://atsonic.co.jp/company",
+    "https://x.com/kinoshitaair18b/status/2025707901248258097",
+    "https://x.com/kino112/status/2113553611808788907",
+    "https://search.yahoo.co.jp/realtime/search/木下/",
+    "https://fantia.jp/fanclubs/479211",
+    "https://xmypage.syosetu.com/mypageblog/list/xid/x9589ch/"
+   ],
+   "engines": [
+    "ddgs:google"
+   ],
+   "n_hits": 7
+  }
+ ],
+ "missing": {
+  "売上高": "記載なし（3回確認済み：公式5頁／PDF・画像4件／外部8頁・検索9回）",
+  "取引先": "記載なし（3回確認済み：公式5頁／PDF・画像4件／外部8頁・検索9回）",
+  "拠点": "記載なし（3回確認済み：公式5頁／PDF・画像4件／外部8頁・検索9回）"
+ }
+}
